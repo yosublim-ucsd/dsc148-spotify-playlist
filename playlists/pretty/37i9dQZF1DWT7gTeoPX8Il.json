@@ -1,15 +1,47 @@
 {
   "description": "layan je",
-  "num_followers": 121961,
+  "num_followers": 122131,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpCLEwAAAABPV8Lt6YqmPvKQzOsnKwBh",
+  "snapshot_id": "ZqKEkAAAAABu2PfByQku1fTDrW762E+s",
   "tracks": [
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
+      "album": {
+        "name": "Musnah",
+        "url": "https://open.spotify.com/album/0vfyJDfiIfk9X4lhKob7w2"
+      },
+      "artists": [
+        {
+          "name": "Danial Kifli",
+          "url": "https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx"
+        }
+      ],
+      "duration_ms": 239073,
+      "name": "Musnah",
+      "url": "https://open.spotify.com/track/3rznXO6e3t8WgvsR2ZOmKK"
+    },
+    {
+      "added_at": "2024-07-25 17:00:00",
+      "album": {
+        "name": "coming home",
+        "url": "https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 192124,
+      "name": "kembali",
+      "url": "https://open.spotify.com/track/4cekVvN19wjGowJmXb3sNF"
+    },
+    {
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "Berbunga",
         "url": "https://open.spotify.com/album/2gIrUfBxknVo9vQRL9Gp42"
@@ -29,231 +61,159 @@
       "url": "https://open.spotify.com/track/2qchRFTfBuqXa9jCDs6GFX"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
-        "name": "Musnah",
-        "url": "https://open.spotify.com/album/0vfyJDfiIfk9X4lhKob7w2"
+        "name": "Kesalahan Terindah",
+        "url": "https://open.spotify.com/album/0AuMLIbZT0tF5zzINkf0gl"
       },
       "artists": [
         {
-          "name": "Danial Kifli",
-          "url": "https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx"
+          "name": "Siti Nordiana",
+          "url": "https://open.spotify.com/artist/7tbUHCaiBX4cXHQkII3CVH"
         }
       ],
-      "duration_ms": 239073,
-      "name": "Musnah",
-      "url": "https://open.spotify.com/track/3rznXO6e3t8WgvsR2ZOmKK"
+      "duration_ms": 227368,
+      "name": "Kesalahan Terindah",
+      "url": "https://open.spotify.com/track/0Goyg7L3YHtGaOLNGoJXJx"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
-        "name": "Cinta Tak Pernah Tepat Waktu",
-        "url": "https://open.spotify.com/album/4Qcxk0sal9fPkgwhb3fA32"
+        "name": "Angin Rindu",
+        "url": "https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY"
       },
       "artists": [
         {
-          "name": "Aina Abdul",
-          "url": "https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV"
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+        }
+      ],
+      "duration_ms": 258148,
+      "name": "Angin Rindu",
+      "url": "https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy"
+    },
+    {
+      "added_at": "2024-07-25 17:00:00",
+      "album": {
+        "name": "Apa Makna Cinta (From \"Dan Mimpi Pun Berguguran\")",
+        "url": "https://open.spotify.com/album/61gpus88fYySN2TFDKyWoi"
+      },
+      "artists": [
+        {
+          "name": "Hazama",
+          "url": "https://open.spotify.com/artist/5jKjGIfQbctItoit4X95XI"
+        }
+      ],
+      "duration_ms": 265228,
+      "name": "Apa Makna Cinta - From \"Dan Mimpi Pun Berguguran\"",
+      "url": "https://open.spotify.com/track/57fxy7EXb3NEcymnb4VJeW"
+    },
+    {
+      "added_at": "2024-07-25 17:00:00",
+      "album": {
+        "name": "Bimbang Serumpun Kasih Terbuang",
+        "url": "https://open.spotify.com/album/4ypQxWOOBy3FmI8aPwXADj"
+      },
+      "artists": [
+        {
+          "name": "Afieq Shazwan",
+          "url": "https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8"
         },
         {
-          "name": "Fabio Asher",
-          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
+          "name": "Fareez Fauzi",
+          "url": "https://open.spotify.com/artist/44egeaQFX2Ix8J1kUIYYRk"
         }
       ],
-      "duration_ms": 212318,
-      "name": "Cinta Tak Pernah Tepat Waktu",
-      "url": "https://open.spotify.com/track/0LFYvwPOahhb2FAr2z1M7k"
+      "duration_ms": 326585,
+      "name": "Bimbang Serumpun Kasih Terbuang",
+      "url": "https://open.spotify.com/track/4uvJC4WMRE0g2hpvZhIO07"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
-        "name": "Gambar Dan Kenangan",
-        "url": "https://open.spotify.com/album/0agOzLYAiWUbo36rCzaEzy"
+        "name": "Atap Berteduh",
+        "url": "https://open.spotify.com/album/42S8brIKTyi3Nkhko69vtu"
       },
       "artists": [
         {
-          "name": "Reedzwann",
-          "url": "https://open.spotify.com/artist/4w9Ukwue8Yj5zmMGPd1jok"
+          "name": "Bagas Ran",
+          "url": "https://open.spotify.com/artist/1Pbl7RMzFNdbX0a7wDMN5i"
         }
       ],
-      "duration_ms": 275247,
-      "name": "Gambar Dan Kenangan",
-      "url": "https://open.spotify.com/track/4wbrkz0CyQhMFVTXpGGwo8"
+      "duration_ms": 171310,
+      "name": "Atap Berteduh",
+      "url": "https://open.spotify.com/track/6BOij1w5TOjVtZyhaLZmiG"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
-        "name": "Akan Tiba",
-        "url": "https://open.spotify.com/album/3jmjlZE6a2LyGocLvqrTVv"
+        "name": "Bagaimana Bisa Seseorang",
+        "url": "https://open.spotify.com/album/42kXGntEYx1eU4HDFLaL5m"
       },
       "artists": [
         {
-          "name": "Hannah Delisha",
-          "url": "https://open.spotify.com/artist/3XrI2jzqgzcCwiYFuLKBbQ"
+          "name": "Hal",
+          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
         }
       ],
-      "duration_ms": 211426,
-      "name": "Akan Tiba",
-      "url": "https://open.spotify.com/track/0yM2rAvalsqBtcFEWgkUrb"
+      "duration_ms": 244000,
+      "name": "Bagaimana Bisa Seseorang",
+      "url": "https://open.spotify.com/track/0LIuHTuh9lSjK3SXIO3P4g"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
-        "name": "Selama Ku Bernafas",
-        "url": "https://open.spotify.com/album/73IVBgWRjUeOAlAjFTS3CX"
+        "name": "Cinta Tak Biasa",
+        "url": "https://open.spotify.com/album/3nwy6IEwPrKoCv98pWgEcu"
       },
       "artists": [
         {
-          "name": "Anggi Marito",
-          "url": "https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx"
+          "name": "ST12",
+          "url": "https://open.spotify.com/artist/09toGEEhpusLyZ6Nk9AmRf"
         },
         {
-          "name": "Andi Rianto",
-          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
+          "name": "Hazama",
+          "url": "https://open.spotify.com/artist/5jKjGIfQbctItoit4X95XI"
         }
       ],
-      "duration_ms": 294293,
-      "name": "Selama Ku Bernafas",
-      "url": "https://open.spotify.com/track/2x8v50JevSgEgBB8SDtY9T"
+      "duration_ms": 245760,
+      "name": "Cinta Tak Biasa",
+      "url": "https://open.spotify.com/track/2jpYZkmNLKk2TtrQAORu1o"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
-        "name": "Hanya Figuran",
-        "url": "https://open.spotify.com/album/7lhbsQ75nktdtQNlwa06Gy"
+        "name": "Debu Terasing",
+        "url": "https://open.spotify.com/album/4P5sYdBH1BxgWHlbyTXVIZ"
       },
       "artists": [
         {
-          "name": "Meiska",
-          "url": "https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8"
+          "name": "Iza'an Talib",
+          "url": "https://open.spotify.com/artist/7mtKkJ2WEj0r3xuSdTq7DT"
         }
       ],
-      "duration_ms": 235562,
-      "name": "Buang Waktu",
-      "url": "https://open.spotify.com/track/498HBb9Fg8djwl2kIkL33h"
+      "duration_ms": 250032,
+      "name": "Debu Terasing",
+      "url": "https://open.spotify.com/track/1l8b7mlpdCWgksN35pZ9la"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
-        "name": "Benar Salah",
-        "url": "https://open.spotify.com/album/44FncBBPS20DbZJEIL7VYN"
+        "name": "Cinta Memerlukan Dua",
+        "url": "https://open.spotify.com/album/5Ua7mjYtiDX8xt1MRhoa9B"
       },
       "artists": [
         {
-          "name": "Shakira Jasmine",
-          "url": "https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3"
+          "name": "Syahmi Irfan",
+          "url": "https://open.spotify.com/artist/4xivFRSwKnSbMl3OAJUrFU"
         }
       ],
-      "duration_ms": 207647,
-      "name": "Benar Salah",
-      "url": "https://open.spotify.com/track/5KqEwJnIyjaiLQ866MkHHY"
+      "duration_ms": 240000,
+      "name": "Cinta Memerlukan Dua",
+      "url": "https://open.spotify.com/track/5hTV1B5qHZ2jtOTnoAAhLA"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
-      "album": {
-        "name": "Belum Mulai",
-        "url": "https://open.spotify.com/album/039LNwYmsa5hoQPDFbFbcc"
-      },
-      "artists": [
-        {
-          "name": "Insomniacks",
-          "url": "https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP"
-        },
-        {
-          "name": "Nabila Taqiyyah",
-          "url": "https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe"
-        }
-      ],
-      "duration_ms": 214585,
-      "name": "Belum Mulai",
-      "url": "https://open.spotify.com/track/5MFi8dcCIGTiuUIC2loVQc"
-    },
-    {
-      "added_at": "2024-07-12 01:46:59",
-      "album": {
-        "name": "Bukan Dengan Dia",
-        "url": "https://open.spotify.com/album/6F8ak3UeNmOXcE4v3KctlC"
-      },
-      "artists": [
-        {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
-        },
-        {
-          "name": "Mawar de Jongh",
-          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
-        }
-      ],
-      "duration_ms": 241236,
-      "name": "Bukan Dengan Dia",
-      "url": "https://open.spotify.com/track/03mQ3i9vPCEYO9KVi9qjHb"
-    },
-    {
-      "added_at": "2024-07-12 01:46:59",
-      "album": {
-        "name": "Jatuh Rapuh",
-        "url": "https://open.spotify.com/album/3uX5S5Lrm7mHT22OFt3q00"
-      },
-      "artists": [
-        {
-          "name": "Anggis Devaki",
-          "url": "https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf"
-        }
-      ],
-      "duration_ms": 270800,
-      "name": "Jatuh Rapuh",
-      "url": "https://open.spotify.com/track/5NmL2p9TXa9H17LoCyCKJS"
-    },
-    {
-      "added_at": "2024-07-12 01:46:59",
-      "album": {
-        "name": "Aku Rindu",
-        "url": "https://open.spotify.com/album/3INvE4pj4A0qvcoCGMG2l5"
-      },
-      "artists": [
-        {
-          "name": "Isyana Sarasvati",
-          "url": "https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu"
-        }
-      ],
-      "duration_ms": 248512,
-      "name": "Aku Rindu",
-      "url": "https://open.spotify.com/track/11QKUeLa6ajdMEMNAQkAlm"
-    },
-    {
-      "added_at": "2024-07-12 01:46:59",
-      "album": {
-        "name": "Cinta Ke Syurga",
-        "url": "https://open.spotify.com/album/470GBhFy2egAhwg7MSx0js"
-      },
-      "artists": [
-        {
-          "name": "Syazwan Shuhaimi",
-          "url": "https://open.spotify.com/artist/2pKZLBRfI6eD22KCboFLVb"
-        }
-      ],
-      "duration_ms": 235714,
-      "name": "Cinta Ke Syurga",
-      "url": "https://open.spotify.com/track/37GuLdcMVQFw2nHJkoK6Ph"
-    },
-    {
-      "added_at": "2024-07-12 01:46:59",
-      "album": {
-        "name": "Jangan Pernah Berubah",
-        "url": "https://open.spotify.com/album/5cKCBveEH9NA3svYUb7h0Y"
-      },
-      "artists": [
-        {
-          "name": "Coldiac",
-          "url": "https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA"
-        }
-      ],
-      "duration_ms": 238216,
-      "name": "Jangan Pernah Berubah",
-      "url": "https://open.spotify.com/track/1CHgfuZWlq45GGjRgAUhzT"
-    },
-    {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "Mati-Matian",
         "url": "https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV"
@@ -269,7 +229,7 @@
       "url": "https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "Tak Dianggap",
         "url": "https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j"
@@ -285,7 +245,7 @@
       "url": "https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "Runtuh",
         "url": "https://open.spotify.com/album/5boeKAXsTkdFlm6OnkQxQW"
@@ -305,7 +265,7 @@
       "url": "https://open.spotify.com/track/6Hii26x3qDErVitnGW8QtO"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "Tak Segampang Itu",
         "url": "https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG"
@@ -321,7 +281,7 @@
       "url": "https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "Duka",
         "url": "https://open.spotify.com/album/6RUEyCnpcBsm3uSv08NY8q"
@@ -337,7 +297,7 @@
       "url": "https://open.spotify.com/track/5MIpcd16T59wFeqAChSYwC"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "penjaga hati",
         "url": "https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a"
@@ -353,7 +313,7 @@
       "url": "https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "Masih Hatiku",
         "url": "https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY"
@@ -373,7 +333,23 @@
       "url": "https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
+      "album": {
+        "name": "Tak Selalu Memiliki (Ipar Adalah Maut Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1GfKNDVSJ5OGvTgrj0Coqu"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        }
+      ],
+      "duration_ms": 260571,
+      "name": "Tak Selalu Memiliki - Ipar Adalah Maut Original Soundtrack",
+      "url": "https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s"
+    },
+    {
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "Bermuara",
         "url": "https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd"
@@ -393,7 +369,7 @@
       "url": "https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "Tampar",
         "url": "https://open.spotify.com/album/2lZzryqflrZLO9YDjnlkMz"
@@ -409,23 +385,7 @@
       "url": "https://open.spotify.com/track/2RHm5IDIZ8fYRGzBIo7exV"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
-      "album": {
-        "name": "Tak Selalu Memiliki (Ipar Adalah Maut Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1GfKNDVSJ5OGvTgrj0Coqu"
-      },
-      "artists": [
-        {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
-        }
-      ],
-      "duration_ms": 260571,
-      "name": "Tak Selalu Memiliki - Ipar Adalah Maut Original Soundtrack",
-      "url": "https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s"
-    },
-    {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "Ku Ingin Pisah",
         "url": "https://open.spotify.com/album/3ngxVN1TATHxEYzefJPTQO"
@@ -441,7 +401,7 @@
       "url": "https://open.spotify.com/track/1uy2DsaTtdBO9jBo7KBLWE"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "Andra & The Backbone",
         "url": "https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD"
@@ -457,7 +417,7 @@
       "url": "https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "Menari Dengan Bayangan",
         "url": "https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn"
@@ -473,7 +433,7 @@
       "url": "https://open.spotify.com/track/5drW6PGRxkE6MxttzVLNk5"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "Nanti Kita Seperti Ini",
         "url": "https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT"
@@ -489,7 +449,7 @@
       "url": "https://open.spotify.com/track/2NjbJR8y083mOV59255QSe"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "Jiwa Yang Bersedih",
         "url": "https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL"
@@ -505,23 +465,7 @@
       "url": "https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
-      "album": {
-        "name": "Tak Kan Hilang",
-        "url": "https://open.spotify.com/album/6JmBf13wUd3kJEdoXgbZy5"
-      },
-      "artists": [
-        {
-          "name": "Budi Doremi",
-          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
-        }
-      ],
-      "duration_ms": 241714,
-      "name": "Tak Kan Hilang",
-      "url": "https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu"
-    },
-    {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "Kisah Tanpa Dirimu",
         "url": "https://open.spotify.com/album/3n3wxffHONB1v1idVCoMcK"
@@ -537,7 +481,23 @@
       "url": "https://open.spotify.com/track/3ptRODxVj328j6TnW33Zj3"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
+      "album": {
+        "name": "Tak Kan Hilang",
+        "url": "https://open.spotify.com/album/6JmBf13wUd3kJEdoXgbZy5"
+      },
+      "artists": [
+        {
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+        }
+      ],
+      "duration_ms": 241714,
+      "name": "Tak Kan Hilang",
+      "url": "https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu"
+    },
+    {
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "Lelaki Hebat",
         "url": "https://open.spotify.com/album/3vTH8RPuIqcjnBA2T0cSC9"
@@ -553,7 +513,7 @@
       "url": "https://open.spotify.com/track/04tvOIuyk8y0QVA8Ta0UOd"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg"
@@ -569,7 +529,7 @@
       "url": "https://open.spotify.com/track/3xpMytpniCnjXCgy7TcFDw"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "Rumah",
         "url": "https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn"
@@ -585,7 +545,7 @@
       "url": "https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "Lagu Pernikahan Kita",
         "url": "https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu"
@@ -605,7 +565,7 @@
       "url": "https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "Pupus / Risalah Hati",
         "url": "https://open.spotify.com/album/2Hjub1YpegaAmIf2TULKki"
@@ -621,23 +581,7 @@
       "url": "https://open.spotify.com/track/5h51lTy1jYDDkYLALQrzX9"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
-      "album": {
-        "name": "Meraih Bintang",
-        "url": "https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL"
-      },
-      "artists": [
-        {
-          "name": "Geisha",
-          "url": "https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y"
-        }
-      ],
-      "duration_ms": 234546,
-      "name": "Karena Kamu",
-      "url": "https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD"
-    },
-    {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "when it all ends HERE",
         "url": "https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL"
@@ -657,23 +601,39 @@
       "url": "https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
-        "name": "Bercinta Lewat Kata (From \"Jatuh Cinta Seperti di Film-Film\")",
-        "url": "https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd"
+        "name": "Meraih Bintang",
+        "url": "https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL"
       },
       "artists": [
         {
-          "name": "Donne Maula",
-          "url": "https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG"
+          "name": "Geisha",
+          "url": "https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Bercinta Lewat Kata - From \"Jatuh Cinta Seperti di Film-Film\"",
-      "url": "https://open.spotify.com/track/7wlfGt5NkpPT6nRC6yCr7u"
+      "duration_ms": 234546,
+      "name": "Karena Kamu",
+      "url": "https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
+      "album": {
+        "name": "Mengapa",
+        "url": "https://open.spotify.com/album/52r9TATqxdVDU43VOS8n82"
+      },
+      "artists": [
+        {
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+        }
+      ],
+      "duration_ms": 263800,
+      "name": "Mengapa",
+      "url": "https://open.spotify.com/track/1QgYZyDzY22JkXbAuoYZBe"
+    },
+    {
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "Menyesal",
         "url": "https://open.spotify.com/album/13zfefPjKHsxUJm9SZFDtE"
@@ -701,7 +661,7 @@
       "url": "https://open.spotify.com/track/29lBFGkfr7EoJlb3lxi9Ij"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "Naluri Lelaki (Special Edition)",
         "url": "https://open.spotify.com/album/7Ls7Id4vLjwONTyxywzrg7"
@@ -717,23 +677,55 @@
       "url": "https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
-        "name": "Mengapa",
-        "url": "https://open.spotify.com/album/52r9TATqxdVDU43VOS8n82"
+        "name": "Bercinta Lewat Kata (From \"Jatuh Cinta Seperti di Film-Film\")",
+        "url": "https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd"
       },
       "artists": [
         {
-          "name": "Rony Parulian",
-          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+          "name": "Donne Maula",
+          "url": "https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG"
         }
       ],
-      "duration_ms": 263800,
-      "name": "Mengapa",
-      "url": "https://open.spotify.com/track/1QgYZyDzY22JkXbAuoYZBe"
+      "duration_ms": 169000,
+      "name": "Bercinta Lewat Kata - From \"Jatuh Cinta Seperti di Film-Film\"",
+      "url": "https://open.spotify.com/track/7wlfGt5NkpPT6nRC6yCr7u"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
+      "album": {
+        "name": "Bersamamu",
+        "url": "https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU"
+      },
+      "artists": [
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+        }
+      ],
+      "duration_ms": 220945,
+      "name": "Bersamamu",
+      "url": "https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ"
+    },
+    {
+      "added_at": "2024-07-25 17:00:00",
+      "album": {
+        "name": "Seperti Seharusnya",
+        "url": "https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL"
+      },
+      "artists": [
+        {
+          "name": "Noah",
+          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
+        }
+      ],
+      "duration_ms": 266306,
+      "name": "Separuh Aku",
+      "url": "https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq"
+    },
+    {
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "Cintanya Aku",
         "url": "https://open.spotify.com/album/2qEHRe3bIRZ1DLyYMmnBK4"
@@ -753,39 +745,7 @@
       "url": "https://open.spotify.com/track/53fKDMfQhWMSw7QKVDOTBP"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
-      "album": {
-        "name": "Seperti Seharusnya",
-        "url": "https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL"
-      },
-      "artists": [
-        {
-          "name": "Noah",
-          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
-        }
-      ],
-      "duration_ms": 266306,
-      "name": "Separuh Aku",
-      "url": "https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq"
-    },
-    {
-      "added_at": "2024-07-12 01:46:59",
-      "album": {
-        "name": "Bersamamu",
-        "url": "https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU"
-      },
-      "artists": [
-        {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
-        }
-      ],
-      "duration_ms": 220945,
-      "name": "Bersamamu",
-      "url": "https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ"
-    },
-    {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "Setengah Mati Merindu",
         "url": "https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF"
@@ -801,7 +761,7 @@
       "url": "https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "Kenyataan Perasaan",
         "url": "https://open.spotify.com/album/61AGUY22dIy89vcxCUvC00"
@@ -817,7 +777,7 @@
       "url": "https://open.spotify.com/track/6l9L0ssWzD5XI1aJgVFpaS"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "And the Story Continues...",
         "url": "https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ"
@@ -833,7 +793,39 @@
       "url": "https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
+      "album": {
+        "name": "Mencintaimu",
+        "url": "https://open.spotify.com/album/6sGKwCYtM7MlRkVYFWbNQY"
+      },
+      "artists": [
+        {
+          "name": "Sal Priadi",
+          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+        }
+      ],
+      "duration_ms": 274041,
+      "name": "Mencintaimu",
+      "url": "https://open.spotify.com/track/26aNjbOgTVrFZEx7was69A"
+    },
+    {
+      "added_at": "2024-07-25 17:00:00",
+      "album": {
+        "name": "Orang Yang Sama",
+        "url": "https://open.spotify.com/album/4EERiS8fZYOxtHPn06HP8P"
+      },
+      "artists": [
+        {
+          "name": "Virgoun",
+          "url": "https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f"
+        }
+      ],
+      "duration_ms": 268534,
+      "name": "Orang Yang Sama",
+      "url": "https://open.spotify.com/track/0z7jhodL97W88al5OI1zh1"
+    },
+    {
+      "added_at": "2024-07-25 17:00:00",
       "album": {
         "name": "HAHAHA",
         "url": "https://open.spotify.com/album/32KsXDdSdv8lJFKwt1cSEI"
@@ -849,20 +841,24 @@
       "url": "https://open.spotify.com/track/0coPXOjcMS7mhizONlReis"
     },
     {
-      "added_at": "2024-07-12 01:46:59",
+      "added_at": "2024-07-25 17:00:00",
       "album": {
-        "name": "Orang Yang Sama",
-        "url": "https://open.spotify.com/album/4EERiS8fZYOxtHPn06HP8P"
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda"
       },
       "artists": [
         {
-          "name": "Virgoun",
-          "url": "https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f"
+          "name": "Ernie Zakri",
+          "url": "https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp"
+        },
+        {
+          "name": "Ade Govinda",
+          "url": "https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV"
         }
       ],
-      "duration_ms": 268534,
-      "name": "Orang Yang Sama",
-      "url": "https://open.spotify.com/track/0z7jhodL97W88al5OI1zh1"
+      "duration_ms": 234589,
+      "name": "Masing Masing",
+      "url": "https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37"
     }
   ],
   "unique_name": "galau rabak",

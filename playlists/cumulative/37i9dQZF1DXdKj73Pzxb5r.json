@@ -287,6 +287,24 @@
     },
     {
       "album": {
+        "name": "Cerita",
+        "url": "https://open.spotify.com/album/4Q2WLCrKSj13KnfGseXNC8"
+      },
+      "artists": [
+        {
+          "name": "Oatermiles",
+          "url": "https://open.spotify.com/artist/3ACSf9d4CzkIXs6WckQdK9"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197443,
+      "name": "Cerita",
+      "url": "https://open.spotify.com/track/2kBJJ1vMFhcoU3QGTXIWlc"
+    },
+    {
+      "album": {
         "name": "Change of Heart (Alt. Version)",
         "url": "https://open.spotify.com/album/6lSnVgdSmHCMP42Pgljraf"
       },
@@ -324,7 +342,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 285437,
       "name": "Cold Hearts",
       "url": "https://open.spotify.com/track/1pd30Bk6l4oVZOe3LK75dq"
@@ -368,7 +386,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 218735,
       "name": "Coming Home (feat. Chelsea Dawn & Coloura)",
       "url": "https://open.spotify.com/track/4CeQo2SvURvL9gXEF51mGm"
@@ -852,7 +870,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 227000,
       "name": "Hari Ini",
       "url": "https://open.spotify.com/track/29QfJ5teye2vtL5nmMWM2V"
@@ -971,6 +989,24 @@
     },
     {
       "album": {
+        "name": "I Lost My Smile Somewhere",
+        "url": "https://open.spotify.com/album/5t2pmhhIT4hZ6cCfhWZ8XS"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201272,
+      "name": "I Lost My Smile Somewhere",
+      "url": "https://open.spotify.com/track/1ybhaeNtQgVNbUIuptwWK7"
+    },
+    {
+      "album": {
         "name": "I Would Never...",
         "url": "https://open.spotify.com/album/3oHeWqIezQCJEjcQjYtJBb"
       },
@@ -1004,10 +1040,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 260000,
       "name": "Ingkar",
       "url": "https://open.spotify.com/track/2a2FmnmZpLLu521keHj6CC"
+    },
+    {
+      "album": {
+        "name": "insecure",
+        "url": "https://open.spotify.com/album/3jM42OfJaEIYPmjKmN4JBo"
+      },
+      "artists": [
+        {
+          "name": "Penky Adam",
+          "url": "https://open.spotify.com/artist/42TWgEtVzIeKjg7S4mUNXQ"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "insecure",
+      "url": "https://open.spotify.com/track/0F8HriMRVOJitDrBp7GWnL"
     },
     {
       "album": {
@@ -1422,7 +1476,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 233989,
       "name": "Might As Well",
       "url": "https://open.spotify.com/track/1Pr58jSNpGDipEC8MWUHY6"
@@ -1620,7 +1674,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 215368,
       "name": "Padam, Hadirmu Lentera",
       "url": "https://open.spotify.com/track/0tzteHtQzkR58XkA7bDzHL"
@@ -1642,6 +1696,24 @@
       "duration_ms": 182000,
       "name": "Pelita",
       "url": "https://open.spotify.com/track/4UI280ad7Sorebsi0gmQlL"
+    },
+    {
+      "album": {
+        "name": "Perihal Omongan Belaka",
+        "url": "https://open.spotify.com/album/4JIgzeMbWz9zaTwJxCUnbT"
+      },
+      "artists": [
+        {
+          "name": "Bahtera",
+          "url": "https://open.spotify.com/artist/2WDrCD9s0OofV19aGzNbib"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308885,
+      "name": "Perihal Omongan Belaka",
+      "url": "https://open.spotify.com/track/5NvkE6eEGrEsRRtaeesrzS"
     },
     {
       "album": {
@@ -1728,10 +1800,32 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 252235,
       "name": "Reminisce",
       "url": "https://open.spotify.com/track/0In5ZycueEeUggbEQOvXo7"
+    },
+    {
+      "album": {
+        "name": "Romansa Romansaan",
+        "url": "https://open.spotify.com/album/7MqEdqGfiVkNHjOT2avUiy"
+      },
+      "artists": [
+        {
+          "name": "Refo Dan Fauna",
+          "url": "https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi"
+        },
+        {
+          "name": "Sheryl Sheinafia",
+          "url": "https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145625,
+      "name": "Romansa Romansaan",
+      "url": "https://open.spotify.com/track/1KNcfSeKP1PyhRot4ylMC0"
     },
     {
       "album": {
@@ -1923,6 +2017,28 @@
     },
     {
       "album": {
+        "name": "Siempre",
+        "url": "https://open.spotify.com/album/0lNWarNgs53juMp9eUs7VD"
+      },
+      "artists": [
+        {
+          "name": "Ras Muhamad",
+          "url": "https://open.spotify.com/artist/71Qmd6sBkz4127R4KVvtl3"
+        },
+        {
+          "name": "Ken Jenie Jirapah",
+          "url": "https://open.spotify.com/artist/7J7x64n8LMbc2ZljdrooJ0"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196608,
+      "name": "Siempre",
+      "url": "https://open.spotify.com/track/67GIaO3ENhQPzHHtPsR5Y4"
+    },
+    {
+      "album": {
         "name": "Katus",
         "url": "https://open.spotify.com/album/6PF9TG0ciBduMnYSOAXfJt"
       },
@@ -2006,7 +2122,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 235000,
       "name": "Sugra",
       "url": "https://open.spotify.com/track/6256t92jyJ6K8YRecGz9TM"
@@ -2046,6 +2162,28 @@
       "duration_ms": 260000,
       "name": "Sunyi Sepi",
       "url": "https://open.spotify.com/track/3MvWwT3UudBf4hE0ScyZ0L"
+    },
+    {
+      "album": {
+        "name": "Superstitious Night",
+        "url": "https://open.spotify.com/album/7bVenrU93eAVkSb8USLnon"
+      },
+      "artists": [
+        {
+          "name": "Swellow",
+          "url": "https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2"
+        },
+        {
+          "name": "Alvi Ifthikhar",
+          "url": "https://open.spotify.com/artist/6Di7aLRYaPL5wt6xtdSTnD"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200853,
+      "name": "Superstitious Night",
+      "url": "https://open.spotify.com/track/6t2oMReq5nutRPILQavVFR"
     },
     {
       "album": {
@@ -2132,10 +2270,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 267801,
       "name": "Tarian Pembantai",
       "url": "https://open.spotify.com/track/4cO6paTmfs8RamVyROWn8D"
+    },
+    {
+      "album": {
+        "name": "Teduh",
+        "url": "https://open.spotify.com/album/6VvSI1VgsP7RfUS2LuLQhs"
+      },
+      "artists": [
+        {
+          "name": "FOODOMORE",
+          "url": "https://open.spotify.com/artist/7pjUcS7PGlN60mkd82n6Wn"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231475,
+      "name": "Teduh",
+      "url": "https://open.spotify.com/track/0j1N2ILdZQkyUZvYH8HCNr"
     },
     {
       "album": {
@@ -2332,6 +2488,24 @@
       "duration_ms": 189481,
       "name": "waiting game",
       "url": "https://open.spotify.com/track/49PybRHBfBnXXwJNuZsWO0"
+    },
+    {
+      "album": {
+        "name": "Wedjangan",
+        "url": "https://open.spotify.com/album/66Uh7fP6lDfcQ5FycNCyzs"
+      },
+      "artists": [
+        {
+          "name": "Satrio Rachmadi",
+          "url": "https://open.spotify.com/artist/6ijmsL08ScEX44davlIGV5"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Wedjangan",
+      "url": "https://open.spotify.com/track/3n6f7f6MujxaKhMBR4rfI5"
     },
     {
       "album": {

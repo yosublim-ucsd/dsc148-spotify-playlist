@@ -1,29 +1,13 @@
 {
-  "description": "The latest tracks from Mad Decent and friends. New music from Devon Again and MRD, plus the latest cuts from Miss Madeline, Delachute + more.",
-  "num_followers": 50731,
+  "description": "The latest tracks from Mad Decent and friends. New music from Devon Again and MRD, plus the latest cuts from SURF GANG, benzii + more. ",
+  "num_followers": 50729,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAaWvpqWzxkXuNo/g7FjvnyJp8jHUWK",
+  "snapshot_id": "AAAag03aecQuaL8Zp83ae+3eIh7Q1fml",
   "tracks": [
-    {
-      "added_at": "2024-07-14 22:57:40",
-      "album": {
-        "name": "fucking highschool people",
-        "url": "https://open.spotify.com/album/2JY2jO4bnETjAmxqY0Jd2H"
-      },
-      "artists": [
-        {
-          "name": "MRD",
-          "url": "https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR"
-        }
-      ],
-      "duration_ms": 225375,
-      "name": "fucking highschool people",
-      "url": "https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z"
-    },
     {
       "added_at": "2024-07-14 22:51:47",
       "album": {
@@ -39,6 +23,42 @@
       "duration_ms": 168226,
       "name": "cherry cola",
       "url": "https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k"
+    },
+    {
+      "added_at": "2024-07-26 19:57:55",
+      "album": {
+        "name": "HARD COPY",
+        "url": "https://open.spotify.com/album/44kHmKG4BiNNGMMMuCskNF"
+      },
+      "artists": [
+        {
+          "name": "Bbyafricka",
+          "url": "https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W"
+        },
+        {
+          "name": "SURF GANG",
+          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
+        }
+      ],
+      "duration_ms": 96363,
+      "name": "PARACHUTE",
+      "url": "https://open.spotify.com/track/1BeCYnSgefgDxYNuN9LOQB"
+    },
+    {
+      "added_at": "2024-07-14 22:57:40",
+      "album": {
+        "name": "fucking highschool people",
+        "url": "https://open.spotify.com/album/2JY2jO4bnETjAmxqY0Jd2H"
+      },
+      "artists": [
+        {
+          "name": "MRD",
+          "url": "https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR"
+        }
+      ],
+      "duration_ms": 225375,
+      "name": "fucking highschool people",
+      "url": "https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z"
     },
     {
       "added_at": "2024-07-14 23:07:14",
@@ -129,24 +149,156 @@
       "url": "https://open.spotify.com/track/6i2E8aGMDCLYVhX2LI0YwH"
     },
     {
-      "added_at": "2024-07-14 23:00:31",
+      "added_at": "2024-07-26 19:58:02",
       "album": {
-        "name": "Did It First (with Central Cee)",
-        "url": "https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr"
+        "name": "Posse EP Volume 2",
+        "url": "https://open.spotify.com/album/5b8itMHqCiOnN8lN4REU5Y"
       },
       "artists": [
         {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
         },
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
         }
       ],
-      "duration_ms": 118002,
-      "name": "Did It First (with Central Cee)",
-      "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
+      "duration_ms": 255428,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/6aghmokpyn0soDHkTgaonm"
+    },
+    {
+      "added_at": "2024-07-26 19:57:52",
+      "album": {
+        "name": "One More Time (feat. Popstar)",
+        "url": "https://open.spotify.com/album/6IUU2MGfGp4z0gfMljs0pz"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "Popstar",
+          "url": "https://open.spotify.com/artist/5eyBd6IpSj8pNySFhx9vZy"
+        }
+      ],
+      "duration_ms": 200843,
+      "name": "One More Time (feat. Popstar)",
+      "url": "https://open.spotify.com/track/3U5SjZnl1FXCEwYVuitL60"
+    },
+    {
+      "added_at": "2024-07-26 19:58:08",
+      "album": {
+        "name": "Bikini",
+        "url": "https://open.spotify.com/album/6ymXwQ5xDoCYkbglI4UYFI"
+      },
+      "artists": [
+        {
+          "name": "Nick Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2"
+        },
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 185798,
+      "name": "Bikini",
+      "url": "https://open.spotify.com/track/7KZa2q92Dwbjrx2zo4obgw"
+    },
+    {
+      "added_at": "2024-07-26 19:58:00",
+      "album": {
+        "name": "GOODBYE SAL\u00d2",
+        "url": "https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 211179,
+      "name": "badthiings (rip avicii)",
+      "url": "https://open.spotify.com/track/5DfmnhUS1s3m87fsDSedoe"
+    },
+    {
+      "added_at": "2024-07-26 19:58:16",
+      "album": {
+        "name": "Look At My Body Pt. II (Feat. Shygirl) (VTSS Version)",
+        "url": "https://open.spotify.com/album/3DTllGHFhXdd7PF42aWAWn"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "VTSS",
+          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 195931,
+      "name": "Look At My Body Pt. II (Feat. Shygirl) (VTSS Version)",
+      "url": "https://open.spotify.com/track/3GnCFLevVfdOgBuFtHHoSy"
+    },
+    {
+      "added_at": "2024-07-26 19:58:10",
+      "album": {
+        "name": "Idealism",
+        "url": "https://open.spotify.com/album/7uzG4xCD4Vw4PfgoHFhFmM"
+      },
+      "artists": [
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        }
+      ],
+      "duration_ms": 226466,
+      "name": "Pogo",
+      "url": "https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L"
+    },
+    {
+      "added_at": "2024-07-26 19:58:05",
+      "album": {
+        "name": "Big Dawgs",
+        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "Big Dawgs",
+      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
+    },
+    {
+      "added_at": "2024-07-26 19:57:57",
+      "album": {
+        "name": "AVIREX MUSIC",
+        "url": "https://open.spotify.com/album/6tLXuQkpmdu1lT9zGT9PGS"
+      },
+      "artists": [
+        {
+          "name": "Sub9K",
+          "url": "https://open.spotify.com/artist/0rn39NFJI8OiObhlVr7TzU"
+        }
+      ],
+      "duration_ms": 152971,
+      "name": "Mel Gibson",
+      "url": "https://open.spotify.com/track/6XbRwxW0EupdHoHoLi6AQS"
     },
     {
       "added_at": "2024-07-18 15:40:58",
@@ -217,22 +369,6 @@
       "url": "https://open.spotify.com/track/11HTs70wYaCgjRShOYJg6p"
     },
     {
-      "added_at": "2024-07-14 22:51:43",
-      "album": {
-        "name": "Power Plant (Part of Dekmantel Ten: A Decade of Dekmantel Festival - Greenhouse)",
-        "url": "https://open.spotify.com/album/6yJplXGokTHKMsI0cSckrR"
-      },
-      "artists": [
-        {
-          "name": "Nick Le\u00f3n",
-          "url": "https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2"
-        }
-      ],
-      "duration_ms": 297167,
-      "name": "Power Plant",
-      "url": "https://open.spotify.com/track/78ADbxSQm4vNFP7OFNQHTL"
-    },
-    {
       "added_at": "2024-07-14 22:57:00",
       "album": {
         "name": "Melter (Remixes)",
@@ -259,6 +395,30 @@
       "duration_ms": 258000,
       "name": "Angel Girl - Pretty Girl Remix",
       "url": "https://open.spotify.com/track/40tV7DG6m3yb7hlDll5tFX"
+    },
+    {
+      "added_at": "2024-07-26 19:58:14",
+      "album": {
+        "name": "We Want More",
+        "url": "https://open.spotify.com/album/7nKp2UoahBhOLo5KiYHqpd"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        }
+      ],
+      "duration_ms": 173083,
+      "name": "We Want More",
+      "url": "https://open.spotify.com/track/7nfCb5stHePZ6OoE7HDTe2"
     },
     {
       "added_at": "2024-07-14 23:00:49",
@@ -291,30 +451,6 @@
       "duration_ms": 156064,
       "name": "I Need Your Violence",
       "url": "https://open.spotify.com/track/7hp6wioVHZ9lJIo4Pi42hz"
-    },
-    {
-      "added_at": "2024-07-14 22:51:53",
-      "album": {
-        "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
-        "url": "https://open.spotify.com/album/4kepJ3GktWe5ijlknpPN88"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        },
-        {
-          "name": "BC Kingdom",
-          "url": "https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP"
-        }
-      ],
-      "duration_ms": 232374,
-      "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
-      "url": "https://open.spotify.com/track/1I4fm6R1YbcLE3DIut2yWu"
     },
     {
       "added_at": "2024-06-22 00:40:47",
@@ -633,34 +769,6 @@
       "url": "https://open.spotify.com/track/2MfS8a3TlACB9tLSv5Bbcw"
     },
     {
-      "added_at": "2024-06-22 00:41:04",
-      "album": {
-        "name": "f@k\u20ac (VTSS remix)",
-        "url": "https://open.spotify.com/album/0E8LZpG08WSmQsX6MoUocX"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        },
-        {
-          "name": "Kingdom",
-          "url": "https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj"
-        },
-        {
-          "name": "VTSS",
-          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
-        },
-        {
-          "name": "Club Shy",
-          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
-        }
-      ],
-      "duration_ms": 247626,
-      "name": "f@k\u20ac - VTSS remix",
-      "url": "https://open.spotify.com/track/0Ii836ApF3PKY2AIavpXpE"
-    },
-    {
       "added_at": "2024-06-07 19:22:23",
       "album": {
         "name": "Flames",
@@ -771,22 +879,6 @@
       "duration_ms": 203636,
       "name": "JaJaJa - JO\u00c3O L\u00c1GRIMA DE OURO REMIX",
       "url": "https://open.spotify.com/track/5zWtPQUALuDdeh7ALn0iMk"
-    },
-    {
-      "added_at": "2024-05-24 17:55:51",
-      "album": {
-        "name": "Secret",
-        "url": "https://open.spotify.com/album/6uViHbzccu6aZc7kgOFMSH"
-      },
-      "artists": [
-        {
-          "name": "Mietze Conte",
-          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
-        }
-      ],
-      "duration_ms": 116571,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/6fw8w7yJ2sMPkurAh2FIcl"
     },
     {
       "added_at": "2024-06-07 19:32:16",
@@ -965,22 +1057,6 @@
       "url": "https://open.spotify.com/track/2mB9h4ED7P8PCErQPF3aso"
     },
     {
-      "added_at": "2024-05-24 17:56:15",
-      "album": {
-        "name": "Your Day Will Come",
-        "url": "https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov"
-      },
-      "artists": [
-        {
-          "name": "Chanel Beads",
-          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
-        }
-      ],
-      "duration_ms": 90133,
-      "name": "Idea June",
-      "url": "https://open.spotify.com/track/1NqqTOnwFzODsJECdvTE2S"
-    },
-    {
       "added_at": "2024-05-10 21:23:19",
       "album": {
         "name": "Silence Is Loud",
@@ -1117,30 +1193,6 @@
       "url": "https://open.spotify.com/track/6GF5IvnyvZiHchFf6haVOs"
     },
     {
-      "added_at": "2024-04-26 18:20:21",
-      "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/2pXo4k3f6Za6rFrpF7B5sI"
-      },
-      "artists": [
-        {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
-        },
-        {
-          "name": "Chrome Sparks",
-          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
-        },
-        {
-          "name": "IS U IS U",
-          "url": "https://open.spotify.com/artist/6zH8urr3XDDM0rZpLRtxRX"
-        }
-      ],
-      "duration_ms": 178746,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/3fA1ftCkI0rwc2fz09ae29"
-    },
-    {
       "added_at": "2024-04-25 22:53:02",
       "album": {
         "name": "Rahat Al Chant Ymme",
@@ -1271,26 +1323,6 @@
       "duration_ms": 260941,
       "name": "Wild n Sweet - Paul Woolford's Special Request Mix",
       "url": "https://open.spotify.com/track/7InnYgaoJvjo4CP06vgoR0"
-    },
-    {
-      "added_at": "2024-04-26 18:33:24",
-      "album": {
-        "name": "Turn The Page",
-        "url": "https://open.spotify.com/album/3v8EL9UazZlDhvn6mERMoq"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        },
-        {
-          "name": "The Streets",
-          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
-        }
-      ],
-      "duration_ms": 262454,
-      "name": "Turn The Page",
-      "url": "https://open.spotify.com/track/038YxoOvHJKyFiXhqlVkil"
     },
     {
       "added_at": "2024-04-25 22:53:02",
@@ -1595,30 +1627,6 @@
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
-        "name": "Westfield (feat. Kibo & James Massiah)",
-        "url": "https://open.spotify.com/album/0TqDO86MB03huwuCseXVAT"
-      },
-      "artists": [
-        {
-          "name": "Jawnino",
-          "url": "https://open.spotify.com/artist/0nnECIkl6LBEbZdov3nTEj"
-        },
-        {
-          "name": "James Massiah",
-          "url": "https://open.spotify.com/artist/6xRjR59QNFtWqg9tUKvFc9"
-        },
-        {
-          "name": "Kibo",
-          "url": "https://open.spotify.com/artist/1htekGIYpgIzz9EDeufPwn"
-        }
-      ],
-      "duration_ms": 176571,
-      "name": "Westfield (feat. Kibo & James Massiah)",
-      "url": "https://open.spotify.com/track/46SJImEtddNO7sbNRDXS0u"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
         "name": "Police Scanner",
         "url": "https://open.spotify.com/album/3UEx6dCjY47tO4a57de8dW"
       },
@@ -1771,22 +1779,6 @@
       "duration_ms": 91608,
       "name": "BreakItDown",
       "url": "https://open.spotify.com/track/0PBVudi2AmCmuKYKmvaT7X"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Baby Disco",
-        "url": "https://open.spotify.com/album/4XnqJQJ1UbufLfCGNPAYHm"
-      },
-      "artists": [
-        {
-          "name": "Matisa",
-          "url": "https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9"
-        }
-      ],
-      "duration_ms": 430146,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/0t9FJ4OyMVlYXWqDZNFofP"
     },
     {
       "added_at": "2024-04-25 22:53:02",

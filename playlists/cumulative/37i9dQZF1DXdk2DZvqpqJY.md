@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-444 songs - 1 day 3 hr 22 min
+445 songs - 1 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Chance of a Day, Pt\. 3](https://open.spotify.com/track/0s9VfOoqJPquZo84u9B6oS) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg) | [Chance of a Day, Pt\. 3](https://open.spotify.com/album/1DDUzSGu06cmlKlTuctpO5) | 6:27 | 2022-02-17 | 2023-05-05 |
 | [Chances Are](https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Chances Are](https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk) | 4:42 | 2023-03-20 |  |
 | [Chasing Raindrops](https://open.spotify.com/track/1Qz102L6nW3SfTBmvbKnuU) | [Shay Walsh](https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N) | [Chasing Raindrops](https://open.spotify.com/album/3W663XXNBOrudqv9SjqQ08) | 3:34 | 2023-10-27 |  |
-| [Cherry Stone](https://open.spotify.com/track/0KZfDnUWPFIHWUZwI1I9sR) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Cherry Stone](https://open.spotify.com/album/1tHbVA6rLJnO4db208ZLSA) | 3:23 | 2023-03-20 |  |
+| [Cherry Stone](https://open.spotify.com/track/0KZfDnUWPFIHWUZwI1I9sR) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Cherry Stone](https://open.spotify.com/album/1tHbVA6rLJnO4db208ZLSA) | 3:23 | 2023-03-20 | 2024-07-27 |
 | [Chopped Coriander](https://open.spotify.com/track/2ebCREZWTZhsP1l2Cxdgy9) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM) | [Chopped Coriander](https://open.spotify.com/album/3pZTq5HX11D5D2OazxpZG9) | 2:03 | 2022-06-02 | 2022-11-20 |
 | [Chris Dave](https://open.spotify.com/track/1XWnqOmEFGUplMu4le53rp) | [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Notes With Attachments](https://open.spotify.com/album/5fsq4qeIWboRRPG7mGGfxr) | 3:22 | 2022-02-17 | 2022-04-29 |
 | [City Dreams](https://open.spotify.com/track/1npn7uPiSxUr5oKJIkGq04) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Phøn](https://open.spotify.com/artist/6v2EgPbnVH1tpRh4GXAejH), [Javier Santiago](https://open.spotify.com/artist/3L3oWS9VsgTRBF7HFHdOEz), [Tamuz](https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA) | [City Dreams](https://open.spotify.com/album/6FtVuIjXMLrskjf3xZfCMv) | 4:58 | 2022-02-17 | 2023-03-21 |
@@ -448,6 +448,7 @@
 | [Young At Heart](https://open.spotify.com/track/141T43SRB9gNLTqG8WPvaz) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [Young At Heart](https://open.spotify.com/album/1GuiQd3LtyPFOib1k9rJ0B) | 4:39 | 2023-10-06 |  |
 | [Your Lonely Heart](https://open.spotify.com/track/5v6yimzSI3z7ydQl1W0ocx) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Your Lonely Heart](https://open.spotify.com/album/2NIBEfyoyrHBLcr1LfnTKW) | 3:42 | 2023-05-04 | 2024-02-06 |
 | [Youth](https://open.spotify.com/track/68bV95MWkeZOcuBMRezls1) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Youth](https://open.spotify.com/album/55HaJYtXUgeT4Xs0XHbXGp) | 5:08 | 2022-02-17 | 2022-06-10 |
+| [You’re Always Waiting](https://open.spotify.com/track/6zDxfk0SAZnMVX4fvQ4Z2c) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [You’re Always Waiting](https://open.spotify.com/album/1YNaoKQbG6i4xKUB7YQ2yQ) | 2:39 | 2024-07-22 |  |
 | [YU YU](https://open.spotify.com/track/2UYVoA8FN7lEjR1bfRcjb2) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [YU YU](https://open.spotify.com/album/6YIpdbYu4g2tMwwGGwcUbw) | 1:38 | 2022-12-09 | 2023-01-19 |
 | [Zari](https://open.spotify.com/track/7CKoRCXq7YNisjXbmU2ba8) | [Jaubi](https://open.spotify.com/artist/3nb0xF02MfjP2lM9zVNgnp), [Latarnik](https://open.spotify.com/artist/6BiuRrRE5zJ5yXJnriLeJ8), [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Nafs at Peace](https://open.spotify.com/album/3mihMKEickUerWqYhi2Vg6) | 5:51 | 2022-02-17 | 2022-02-21 |
 | [Zemun](https://open.spotify.com/track/69jC3KDgOlwjcLIoB0E9km) | [David Binney](https://open.spotify.com/artist/35fZivtiaWTLzphTDaWnrf) | [Aerial 2](https://open.spotify.com/album/2rb7mgLWev3qaWrFbtLQro) | 5:48 | 2022-02-17 | 2023-03-21 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: FrostTop",
+  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: EDDIE",
   "name": "Bass Drop",
   "tracks": [
     {
@@ -630,6 +630,24 @@
       "duration_ms": 226000,
       "name": "Check It",
       "url": "https://open.spotify.com/track/787DSlF1TBLbuhQpMwIfQP"
+    },
+    {
+      "album": {
+        "name": "Onzeker Kraft Vol. 1.5",
+        "url": "https://open.spotify.com/album/6jU5BRvsHFuEmIt00ePEwV"
+      },
+      "artists": [
+        {
+          "name": "EDDIE",
+          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Check This",
+      "url": "https://open.spotify.com/track/2DIKCVLxEwCInD7apxfMVH"
     },
     {
       "album": {

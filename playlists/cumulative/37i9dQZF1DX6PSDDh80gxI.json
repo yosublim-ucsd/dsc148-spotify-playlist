@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Il meglio dell\u2019indie italiano! svegliaginevra in cover",
+  "description": "Il meglio dell\u2019indie italiano! Cover: Coma_Cose",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 210364,
       "name": "Ammore Pe Na Sera",
       "url": "https://open.spotify.com/track/5DsuqCkFb3V2PNN1qAzHGN"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 125684,
       "name": "Appeso",
       "url": "https://open.spotify.com/track/7oQ5HBhVM1u5qsoyPkenGh"
@@ -252,6 +252,28 @@
       "duration_ms": 170481,
       "name": "Corriamo senza futuro",
       "url": "https://open.spotify.com/track/2Fku8rTogu9G0xd6r1J5kh"
+    },
+    {
+      "album": {
+        "name": "Cu'mme",
+        "url": "https://open.spotify.com/album/25FWNzlqZOdjS78c1ewthP"
+      },
+      "artists": [
+        {
+          "name": "Ganzo",
+          "url": "https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw"
+        },
+        {
+          "name": "Damiank",
+          "url": "https://open.spotify.com/artist/0HK1JtedHdz3a76ZpWaEsc"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162011,
+      "name": "Cu'mme",
+      "url": "https://open.spotify.com/track/7o4YxPFeOBZHTncM1HgvPx"
     },
     {
       "album": {
@@ -672,6 +694,28 @@
       "duration_ms": 245411,
       "name": "Mambo",
       "url": "https://open.spotify.com/track/1Eslj0XCaVpzPbYBmaol7T"
+    },
+    {
+      "album": {
+        "name": "Manifesto Egoista (feat. Carlo Amleto)",
+        "url": "https://open.spotify.com/album/37TzRpbavzizY6wHoXwSBp"
+      },
+      "artists": [
+        {
+          "name": "Folcast",
+          "url": "https://open.spotify.com/artist/1PWmqY7ed9o6dgpAYYWZmS"
+        },
+        {
+          "name": "Carlo Amleto",
+          "url": "https://open.spotify.com/artist/0RoPAqbX6Dzbr81tQZB6E5"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173586,
+      "name": "Manifesto Egoista (feat. Carlo Amleto)",
+      "url": "https://open.spotify.com/track/0wRVfbqHnpNXgTLRLmmrJ9"
     },
     {
       "album": {

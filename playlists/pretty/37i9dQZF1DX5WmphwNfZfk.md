@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Maddie Jay
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,345 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,350 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Politics](https://open.spotify.com/track/7cBgFIy4epOz1ObQwgmN3B) | [pHoenix Pagliacci](https://open.spotify.com/artist/3106IO9oh4MsfSwdRTKZlE), [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS) | [Politics](https://open.spotify.com/album/02OSIT5OSoi6p3bledHsmS) | 4:02 |
 | 50 | [Days Like This](https://open.spotify.com/track/6PL8OAhhl6vlnJlwO2vRaU) | [Tony Stevens](https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN) | [Days Like This](https://open.spotify.com/album/1rm5E8eTWuFDMSsngY4CII) | 3:18 |
 
-Snapshot ID: `ZodvwQAAAADz/P6SBPxRDW5dXDdg7EHn`
+Snapshot ID: `ZqMRzgAAAAAsUCUPDzS8s1syH58R9rCZ`

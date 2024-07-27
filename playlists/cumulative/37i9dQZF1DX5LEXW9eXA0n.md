@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: Tophyun\(탑현\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: AIRI KANNA\(아이리 칸나\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,261 songs - 3 day 9 hr 37 min
+1,262 songs - 3 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Blooming just for you](https://open.spotify.com/track/2HPWrzo08BqVptseRrk2GI) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Blooming just for you](https://open.spotify.com/album/7HBkXZSY6SQknB6MeS7KYd) | 3:27 | 2024-03-05 |  |
 | [Blooming Today](https://open.spotify.com/track/7bFLEPt1ZpePXATqdRWbZu) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Blooming Today](https://open.spotify.com/album/4TMYHDS6hlg3VtFOu96lNT) | 3:02 | 2023-07-17 | 2023-11-03 |
 | [Blow it](https://open.spotify.com/track/73qOVlqO8xjJAf4zBRlfkY) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Blow it](https://open.spotify.com/album/5WR3bc2xRRgcxJTyGasJYs) | 3:29 | 2022-07-07 | 2022-08-02 |
+| [Blue crystal](https://open.spotify.com/track/4kOakG2UbtKwq3xI5FN9RH) | [AIRI KANNA](https://open.spotify.com/artist/5RKYutk9PvyLwOXqIk191K) | [Blue crystal](https://open.spotify.com/album/6tpTeQ9ASVkIPKMxku4t1c) | 3:47 | 2024-07-25 |  |
 | [Blue Flower](https://open.spotify.com/track/4Xjw06dhxAVtsnug1ZpN76) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [Alchemy of Souls: Light and Shadow, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/72zxKpd3QFTf5X2JvXqtpP) | 3:48 | 2023-01-10 | 2023-02-25 |
 | [Blue Flower](https://open.spotify.com/track/6weNDrRLGlnvT731NPuQap) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [Alchemy of Souls: Light and Shadow \(Original Television Soundtrack\)](https://open.spotify.com/album/2EFckuWdFPw7sF2nKxNzLO) | 3:48 | 2023-01-20 | 2023-02-25 |
 | [Blue In You \(Duet With CHEEZE\)](https://open.spotify.com/track/7wjBq0g3hSdVDmi3Eol5hl) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Blue in You](https://open.spotify.com/album/30hV27Zqc5J4Bd3iMyR4HJ) | 3:18 | 2023-10-20 | 2024-01-05 |

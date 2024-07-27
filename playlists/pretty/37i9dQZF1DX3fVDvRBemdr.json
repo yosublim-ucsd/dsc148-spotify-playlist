@@ -1,13 +1,145 @@
 {
   "description": "De nieuwste Hollandse hits. Cover: Gerard Palts & Trafassi",
-  "num_followers": 146399,
+  "num_followers": 146517,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqCnNgAAAADUsbmtshZnxoofpuKQUWPu",
+  "snapshot_id": "ZqLK4AAAAAAy8i+o8zG5+I/zSHWIAtsA",
   "tracks": [
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Nooit Te Laat",
+        "url": "https://open.spotify.com/album/44WlIS1N7dBBIfKtT8skol"
+      },
+      "artists": [
+        {
+          "name": "Samantha Steenwijk",
+          "url": "https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8"
+        }
+      ],
+      "duration_ms": 145098,
+      "name": "Nooit Te Laat",
+      "url": "https://open.spotify.com/track/2HmYuOGflF4t87iN1MALaC"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Sportschool",
+        "url": "https://open.spotify.com/album/2NnEEN0jr4SoVC9HD0gqY7"
+      },
+      "artists": [
+        {
+          "name": "Ammar",
+          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
+        }
+      ],
+      "duration_ms": 178623,
+      "name": "Sportschool",
+      "url": "https://open.spotify.com/track/4UoGvmUfqIj9KWzoi3Cw1N"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Voor E\u00e9n Keer",
+        "url": "https://open.spotify.com/album/4WGkp99LqOuLtASPgmurXQ"
+      },
+      "artists": [
+        {
+          "name": "Diego Holzken",
+          "url": "https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx"
+        }
+      ],
+      "duration_ms": 156762,
+      "name": "Voor E\u00e9n Keer",
+      "url": "https://open.spotify.com/track/0gZodKY6ehMcSWv1iT9DR5"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Ik moet naar huis toe gaan",
+        "url": "https://open.spotify.com/album/7xqovgg1V8CqM4Jcrx8Uk2"
+      },
+      "artists": [
+        {
+          "name": "Helemaal Hollands",
+          "url": "https://open.spotify.com/artist/0VTDgLvqZBSYXBE5d8ouhE"
+        }
+      ],
+      "duration_ms": 165917,
+      "name": "Ik moet naar huis toe gaan",
+      "url": "https://open.spotify.com/track/2A44kZofGRTvc9dcX7W1vv"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Op De Bank",
+        "url": "https://open.spotify.com/album/7m97chglD7rVHaPHYwp4sg"
+      },
+      "artists": [
+        {
+          "name": "Sven Versteeg",
+          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Op De Bank",
+      "url": "https://open.spotify.com/track/7HjkU3iRgdFiwypuYsOx0N"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/5XrvscEzaCTKeKXXpVlogo"
+      },
+      "artists": [
+        {
+          "name": "Gerard Joling",
+          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
+        }
+      ],
+      "duration_ms": 206133,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6wZ5Uq4nvLeCdk55aDpiae"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Panja",
+        "url": "https://open.spotify.com/album/6aMU0IahtqzleEqznAbqMq"
+      },
+      "artists": [
+        {
+          "name": "Sidney Jr",
+          "url": "https://open.spotify.com/artist/2pyu7WTYovCZ6OKb1InFM6"
+        },
+        {
+          "name": "Sidney Bischoff",
+          "url": "https://open.spotify.com/artist/2qZitvbK8umEmakrBoxEkV"
+        }
+      ],
+      "duration_ms": 173395,
+      "name": "Panja",
+      "url": "https://open.spotify.com/track/62BtrcdN73fRXrkOUML9v9"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Nog \u00c9\u00e9n Laatste Dans",
+        "url": "https://open.spotify.com/album/3osA0lKFSHMNtxl910iuM0"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Fransens",
+          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
+        }
+      ],
+      "duration_ms": 171904,
+      "name": "Nog \u00c9\u00e9n Laatste Dans",
+      "url": "https://open.spotify.com/track/2Xna5UxLejgr80HXcXhMDE"
+    },
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {

@@ -4,7 +4,7 @@
 
 > Odkryj swojego nowego ulubionego artystę\. Cover:  <a href="spotify:artist:7ruGjTmqO10lSqHWRIchnU">Daniel Godson</a>
 
-176 songs - 8 hr 31 min
+178 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [b a n d s m u t a s ó w](https://open.spotify.com/track/7fNw0SddmoicL9svh4qHvh) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [b a n d s m u t a s ó w](https://open.spotify.com/album/4y2AzTSKgbhRTnMvUnr2CF) | 2:54 | 2024-06-18 |  |
 | [Babyhands](https://open.spotify.com/track/3QbXgoghUm9v3zKjDL2xQp) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [Babyhands](https://open.spotify.com/album/1XJ7Jfjf0x5ATOG4buoyz4) | 3:05 | 2022-08-26 | 2023-04-15 |
 | [Balans](https://open.spotify.com/track/4hU7OPVaMxkhOYYPkV7LwL) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Balans](https://open.spotify.com/album/5nOi3r1tgBDSISc9KiBNDw) | 3:02 | 2022-08-26 | 2023-02-07 |
+| [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 | 2024-07-25 |  |
 | [Bez](https://open.spotify.com/track/6w3REoiYbuW9QxpRBJqnTt) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Bez](https://open.spotify.com/album/37ThOEHqHwrI6oNLaZujtH) | 3:23 | 2023-09-01 |  |
 | [BFF](https://open.spotify.com/track/1kuhnhugcuXf4CiNdqCRUU) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [PG$](https://open.spotify.com/artist/5qgkVkdZIIBHLdnrpa3w3s), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [BFF](https://open.spotify.com/album/0eJ7DAYUyQmiE02ejiMuiO) | 2:54 | 2023-09-01 |  |
 | [BIG BIG GIRL](https://open.spotify.com/track/05AMRlm1cjHSKGPkDdTsw2) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [BIG BIG GIRL / KARATE KID](https://open.spotify.com/album/0wMT5TwEqLwYdOWVo1YNnv) | 2:19 | 2023-11-10 | 2024-02-03 |
@@ -49,6 +50,7 @@
 | [Déjà Vu](https://open.spotify.com/track/3jCMMNBQbNZp1JdMjFKg32) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J) | [Déjà Vu](https://open.spotify.com/album/3Wkdzr7KwebHyxmxmqdAtK) | 2:18 | 2024-06-20 |  |
 | [echo](https://open.spotify.com/track/3NAkWxTUKUGNTyl3V01mZf) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [echo](https://open.spotify.com/album/6mKo5zXgRUbxAEsVwvP5eu) | 2:12 | 2023-11-10 |  |
 | [Egoistka](https://open.spotify.com/track/5qVME9yp5IFWYfK2n3irxL) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Egoistka](https://open.spotify.com/album/0Liumm2scg9ecS9Gqnva96) | 2:48 | 2022-08-26 | 2024-03-12 |
+| [epicentrum](https://open.spotify.com/track/2gCNm0DrdB0kbhFSfGsC0O) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [epicentrum](https://open.spotify.com/album/5Nnjs9uBxHkRpn3t2yn5my) | 2:19 | 2024-07-25 |  |
 | [Every Single Person I Know](https://open.spotify.com/track/5uyfnKPivwc9im9rRXEU0u) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Every Single Person I Know](https://open.spotify.com/album/54QwxJC74lJG6A5M4SN6Je) | 2:07 | 2024-03-11 |  |
 | [Everybody’s Lonely](https://open.spotify.com/track/11Oz14NCrbx7sOLNoGEEa9) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Everybody’s Lonely](https://open.spotify.com/album/3R70FcNveS6yOfxvOpa0TX) | 2:16 | 2023-05-16 |  |
 | [Facetime](https://open.spotify.com/track/4GODMnu9X4jmPWFx6Dc0K1) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Facetime](https://open.spotify.com/album/1cYgJN1fXanHfUgm9ajCJQ) | 2:18 | 2022-08-26 | 2023-09-02 |
@@ -117,7 +119,7 @@
 | [odbicie \- Mark Neve Remix](https://open.spotify.com/track/71Y5CV2iG2t0dPzVqvTwZR) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [moja ciemność \(deluxe edition\)](https://open.spotify.com/album/5JDuoSUawI1hto3pkbvyVS) | 3:00 | 2022-08-26 | 2022-09-24 |
 | [odpływam](https://open.spotify.com/track/362sPAroLBtYQhg4nJGton) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [odpływam](https://open.spotify.com/album/23a6rGwxVVEcFxaJdwWeQQ) | 4:08 | 2022-08-26 | 2023-02-07 |
 | [Ogień](https://open.spotify.com/track/1bZG6SFJ3OLbyhFVcFe5xJ) | [Dziwna Wiosna](https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML) | [Ogień](https://open.spotify.com/album/62TmwYrQb4pZp6HVLSe6f8) | 3:11 | 2022-08-26 | 2024-02-03 |
-| [origami](https://open.spotify.com/track/0pVZChscauW6UcGyGPotBR) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [origami](https://open.spotify.com/album/2pVvZ1AwfGj9c0gJT7FD8u) | 2:37 | 2024-06-18 |  |
+| [origami](https://open.spotify.com/track/0pVZChscauW6UcGyGPotBR) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [origami](https://open.spotify.com/album/2pVvZ1AwfGj9c0gJT7FD8u) | 2:37 | 2024-06-18 | 2024-07-27 |
 | [Orion](https://open.spotify.com/track/5QmLjH5tyHzL5g2wdAnahq) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Orion](https://open.spotify.com/album/5qPgbDOwT1KfXNv33zIzqX) | 2:36 | 2024-05-24 | 2024-06-19 |
 | [Outro](https://open.spotify.com/track/3ys9zEe2Pru33ihkvskHJ5) | [Ania Leon](https://open.spotify.com/artist/43QBxtuscxneLyKYYEFfEu), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [Outro](https://open.spotify.com/album/0NqV8UXKjInjxi0HWEmfWC) | 4:43 | 2023-03-13 |  |
 | [Overdosed](https://open.spotify.com/track/0CpY0Y6slxHrBKzcxIVEDc) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Overdosed](https://open.spotify.com/album/3kre8DZWDZZX9ODlxPwUDr) | 2:50 | 2022-08-26 | 2023-05-17 |
@@ -171,7 +173,7 @@
 | [Welur](https://open.spotify.com/track/4uIXiKr1OThTtjgExrCZD0) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Welur](https://open.spotify.com/album/63qjHLrWqfDlWPg4dUNGun) | 3:07 | 2023-09-15 |  |
 | [Wiosna](https://open.spotify.com/track/49JWaptOiGisHqxVA6QhtR) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Wiosna EP](https://open.spotify.com/album/03Vjg22ukwVqMnrcfprG6l) | 2:26 | 2024-02-02 |  |
 | [Wschód](https://open.spotify.com/track/26CP4rh1qGEs94QLEYl13x) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Wschód](https://open.spotify.com/album/1hzgUnumV7ab6i4aDpFfbo) | 3:10 | 2024-06-18 | 2024-07-19 |
-| [You End Up In My Agenda](https://open.spotify.com/track/0ndAv1KPI3xRQEiklr9IGf) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [You End Up In My Agenda](https://open.spotify.com/album/2GmmC51nHnjxLqsM7ILVBn) | 2:11 | 2024-06-18 |  |
+| [You End Up In My Agenda](https://open.spotify.com/track/0ndAv1KPI3xRQEiklr9IGf) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [You End Up In My Agenda](https://open.spotify.com/album/2GmmC51nHnjxLqsM7ILVBn) | 2:11 | 2024-06-18 | 2024-07-27 |
 | [Za dobrze by zapomnieć](https://open.spotify.com/track/3XUZJ2FrvymQtTd6t6qJP6) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Miłość w czasach](https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU) | 2:32 | 2024-02-02 | 2024-07-16 |
 | [Za dobrze by zapomnieć](https://open.spotify.com/track/6xusGbEgXx0whVPZ2HjKnD) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Za dobrze by zapomnieć](https://open.spotify.com/album/7dCc3k77G5W0UNhUBdMmcb) | 2:32 | 2023-05-16 | 2023-08-01 |
 | [Zapachy](https://open.spotify.com/track/4ts35aCwJQOvkZaEv3Z2vZ) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Zapachy](https://open.spotify.com/album/1WQ1CYkJxqh1EWABbTG33j) | 2:25 | 2022-09-23 | 2023-02-07 |

@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Gusttavo Lima
 
-236 songs - 11 hr 7 min
+237 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Cavalo de Pau](https://open.spotify.com/track/74Le949TrZk4zwDjtWzH23) | [Bruno & Denner](https://open.spotify.com/artist/0jLROJ4FhMIKMF9XzlR5IZ), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Cavalo de Pau](https://open.spotify.com/album/2BDEQmIWBMZQg8BuGClF5y) | 2:44 | 2022-12-16 | 2024-02-03 |
 | [Cheiro de Balada \- Ao Vivo](https://open.spotify.com/track/2ykYxd8UGHOsdjP3Z5jSHh) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Próximo Passo \(Ao Vivo\)](https://open.spotify.com/album/2aeDFXeS2WvKqIfXQyKRGa) | 2:51 | 2022-08-12 | 2023-04-09 |
 | [CHEIRO NA CAMISETA](https://open.spotify.com/track/6qYTjIEgne0leltNnvpSIM) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [CHEIRO NA CAMISETA](https://open.spotify.com/album/4KtTqtXRtTk6tfozdYmgNv) | 2:35 | 2024-01-12 | 2024-04-19 |
-| [CHEIRO NA CAMISETA](https://open.spotify.com/track/6Td7nVeAOUz13zhDlUY8jv) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [CHEIRO NA CAMISETA](https://open.spotify.com/album/1eJ0snHdRSAo3OgpwultI6) | 2:36 | 2023-11-17 |  |
+| [CHEIRO NA CAMISETA](https://open.spotify.com/track/6Td7nVeAOUz13zhDlUY8jv) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [CHEIRO NA CAMISETA](https://open.spotify.com/album/1eJ0snHdRSAo3OgpwultI6) | 2:36 | 2023-11-17 | 2024-07-27 |
+| [Chorosa \- Ao Vivo](https://open.spotify.com/track/1tAls12jSoUZPoj9cv7OAh) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [In Casa Vol\. 02 \(Ao Vivo\)](https://open.spotify.com/album/6piHanzJ5lggugcpXS5mzs) | 2:35 | 2024-07-26 |  |
 | [Chá De Casa Nova \- Ao Vivo](https://open.spotify.com/track/6wrkP23fHC8KDHCfs8MpJ9) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/3qL1ZV5aLsA2U0lVdIadau) | 2:56 | 2021-12-31 | 2022-03-05 |
 | [Ciumentalmente \- Ao Vivo](https://open.spotify.com/track/3TjIlPeN80uNPLe42XaiGa) | [Paulo e Nathan](https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv) | [Resolve Seus B.O \(Ao Vivo\)](https://open.spotify.com/album/6h5XIRAL67YuON2bQ7iYi0) | 2:16 | 2024-04-05 |  |
 | [Como Um Beijo](https://open.spotify.com/track/60wgnlVBEsyswrTB6pYiTi) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Nadson O Ferinha](https://open.spotify.com/artist/7KdmibNmW5J0q5YtGnJqQ8) | [Como Um Beijo](https://open.spotify.com/album/0v9tio4n9EmZr960giD6Q4) | 3:25 | 2024-06-07 | 2024-07-06 |

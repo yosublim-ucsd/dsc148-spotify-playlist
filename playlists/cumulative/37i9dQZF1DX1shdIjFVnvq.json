@@ -602,7 +602,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 180140,
       "name": "Jerry & Tom",
       "url": "https://open.spotify.com/track/6wm7nuIQTOjviSpkk22F87"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 153562,
       "name": "Lange N\u00e4chte (Alprazolam)",
       "url": "https://open.spotify.com/track/7F4ZADZYr0rnnTUbgZNAJz"
@@ -708,6 +708,24 @@
       "duration_ms": 167889,
       "name": "Let me love you",
       "url": "https://open.spotify.com/track/5WtgFOXW3BOS8bwNcD72hw"
+    },
+    {
+      "album": {
+        "name": "lieder vom leben",
+        "url": "https://open.spotify.com/album/6lTnRSnWUH4ROGLZWn1cOW"
+      },
+      "artists": [
+        {
+          "name": "Edo Saiya",
+          "url": "https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189268,
+      "name": "letzter tag",
+      "url": "https://open.spotify.com/track/0xu6dHIkh2eaLAhMRR3da0"
     },
     {
       "album": {
@@ -816,7 +834,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 202106,
       "name": "London Fever",
       "url": "https://open.spotify.com/track/3itDCKPwr1kwOo9TIgycIA"
@@ -1044,7 +1062,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 163099,
       "name": "NUR SIE DARF",
       "url": "https://open.spotify.com/track/3i5mGA6jZN6Mk8bmcE7Jbz"
@@ -1066,6 +1084,28 @@
       "duration_ms": 197129,
       "name": "ONE NIGHT IN PARIS/DEEP DOWN",
       "url": "https://open.spotify.com/track/6rcz59uAJ37rbEGJza8Is8"
+    },
+    {
+      "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/2BGM0xo0uvpw0qaJxXbV4J"
+      },
+      "artists": [
+        {
+          "name": "NUGAT",
+          "url": "https://open.spotify.com/artist/74yjU6gHx05PeHAokao6DS"
+        },
+        {
+          "name": "Savvy",
+          "url": "https://open.spotify.com/artist/31PAzAvprOXLSA01ff7elC"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172113,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/0NvwGUa83Bg6arI7e0z4LC"
     },
     {
       "album": {
@@ -1393,6 +1433,24 @@
     },
     {
       "album": {
+        "name": "Tempt Me",
+        "url": "https://open.spotify.com/album/7ehRZk4A4DfCtxrg7Omgvk"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130434,
+      "name": "Tempt Me",
+      "url": "https://open.spotify.com/track/3CAws2VaEfaIvOeTcXVpGi"
+    },
+    {
+      "album": {
         "name": "Thang For You (feat. No Cap)",
         "url": "https://open.spotify.com/album/2gEXNftII7Pb0LLzc9MBM2"
       },
@@ -1548,6 +1606,32 @@
       "duration_ms": 222011,
       "name": "UR IN MY HEAD (feat. Monty Datta & Hinshi)",
       "url": "https://open.spotify.com/track/1myktoEXB1nLGgAIJyOFis"
+    },
+    {
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/020fMTZ2giVBpXa6YmQ6Bc"
+      },
+      "artists": [
+        {
+          "name": "LOC 079",
+          "url": "https://open.spotify.com/artist/1GwUwDFua0Y1O3wK9btYFY"
+        },
+        {
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+        },
+        {
+          "name": "Lyfrix",
+          "url": "https://open.spotify.com/artist/4TSAnyHn47PpS8S9ofOjYU"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129332,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/58gedpEjhwV7bDu5aYMdso"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > ¡Vamos a bailar con Dios!
 
-101 songs - 6 hr 29 min
+102 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Invencible](https://open.spotify.com/track/6bRVHuWfivG1EkMaUdPvZ7) | [Ariel Ramirez](https://open.spotify.com/artist/7MmJna5pkLxaGMaKBdczjv), [Jadi Torres](https://open.spotify.com/artist/2qK5GWkN7jKSM5GOAzD564), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Invencible](https://open.spotify.com/album/5ydJx6BvJ2Az5N6ZEfXznw) | 3:37 | 2024-07-05 |  |
 | [Jesucristo Me Toco \- En Vivo](https://open.spotify.com/track/3ykdbXSC9DYF3CXqlvCs3J) | [Os Almirantes](https://open.spotify.com/artist/74ReARocd6ltxnTFfPaEGL), [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Jesucristo Me Toco \(En Vivo\)](https://open.spotify.com/album/2NP0fYbcms52HQgQlticFX) | 3:39 | 2020-09-18 |  |
 | [Kairos](https://open.spotify.com/track/4bgIX9ArskZt5Eh5xPY5Xm) | [Ismael Telfort](https://open.spotify.com/artist/3FbP9X2FOcBNsClb8P7jXt), [Beats byNath](https://open.spotify.com/artist/2EHRtL8rbEUphPKUMNKuYm) | [Kairos](https://open.spotify.com/album/3boud0HVRNNRewo5dkLryZ) | 3:09 | 2024-07-05 |  |
+| [La Bandera](https://open.spotify.com/track/4TokDL5lQ2HZPv8D718orZ) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [DesXa](https://open.spotify.com/artist/5qzVmbbH3gdkxI0C0fZ1Us) | [Niños De Iglesia](https://open.spotify.com/album/07nUnS3pfK554wgcxyERFh) | 3:30 | 2024-07-26 |  |
 | [La Biblia](https://open.spotify.com/track/6Xno9DkR19S7hsPqBn4zlO) | [Jhonny Rafael](https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 4:34 | 2020-09-18 | 2024-07-05 |
 | [Largo Viaje](https://open.spotify.com/track/5RC9Wt1fdM8h1LzoHBeAZm) | [Ezequiel Colón](https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ) | [Sólo Éxitos Tropicales](https://open.spotify.com/album/3WcAFQZcY6hVCbO4CiKNPH) | 3:29 | 2020-09-18 | 2024-04-19 |
 | [Largo Viaje](https://open.spotify.com/track/6R1JXaD9fazp3GnYzHHFMS) | [Ezequiel Colón](https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ) | [Justo a Tiempo](https://open.spotify.com/album/0BhTz69jdTLnsTx9m8oJlj) | 3:29 | 2024-07-05 |  |

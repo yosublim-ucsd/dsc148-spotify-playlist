@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: PRIBELSZKI",
+  "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Saya No\u00e9",
   "name": "Nemazapop",
   "tracks": [
     {
@@ -216,7 +216,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 214186,
       "name": "Call Me Back",
       "url": "https://open.spotify.com/track/3nZS1v1C5zn9fC6B0oScTM"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 219562,
       "name": "Csup\u00e1n",
       "url": "https://open.spotify.com/track/5oLkVpF6enDCaFHBPPNOuP"
@@ -801,6 +801,24 @@
     },
     {
       "album": {
+        "name": "Huszonegy",
+        "url": "https://open.spotify.com/album/3KzRo4vfpoVuYcnnb3xVp6"
+      },
+      "artists": [
+        {
+          "name": "Beretka \u00c1d\u00e1m",
+          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170719,
+      "name": "Huszonegy",
+      "url": "https://open.spotify.com/track/17DqocwisbHAZuB30WMRh3"
+    },
+    {
+      "album": {
         "name": "H\u00c1TS\u00d3\u00dcL\u00c9S",
         "url": "https://open.spotify.com/album/4rGgQ1ls5uTQkPw378BK3W"
       },
@@ -874,6 +892,24 @@
       "duration_ms": 152080,
       "name": "J\u00f6v\u0151 ny\u00e1ron",
       "url": "https://open.spotify.com/track/7CTnQCxHEQetArx4SPc4nT"
+    },
+    {
+      "album": {
+        "name": "kapunyit\u00e1si p\u00e1nik",
+        "url": "https://open.spotify.com/album/4dXfutjXoN3waqbIqPMgo1"
+      },
+      "artists": [
+        {
+          "name": "girlhood",
+          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223500,
+      "name": "kapunyit\u00e1si p\u00e1nik",
+      "url": "https://open.spotify.com/track/77cSEXTUwyFrOHnSbowhKn"
     },
     {
       "album": {
@@ -982,6 +1018,24 @@
       "duration_ms": 212000,
       "name": "Leveg\u0151nek ha n\u00e9zel",
       "url": "https://open.spotify.com/track/66vX1WKTkWB8HeIgC9A0hW"
+    },
+    {
+      "album": {
+        "name": "LUMBAGO",
+        "url": "https://open.spotify.com/album/0FGJdGuvfObLfuALzlc7Id"
+      },
+      "artists": [
+        {
+          "name": "Ress",
+          "url": "https://open.spotify.com/artist/3vh8N8IcJnKYUCq2gdqewc"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178010,
+      "name": "LUMBAGO",
+      "url": "https://open.spotify.com/track/1jTyV4NlALiGV8w7KZlO2k"
     },
     {
       "album": {
@@ -1449,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "Venus",
+        "url": "https://open.spotify.com/album/38nbcCEcWa0l4Lj3aFCLAs"
+      },
+      "artists": [
+        {
+          "name": "Saya No\u00e9",
+          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/222ixOHVwNakNI8FjKVwdo"
+    },
+    {
+      "album": {
         "name": "Sehovaval\u00f3",
         "url": "https://open.spotify.com/album/59MgYQgY8TPlQLIZ5UwZu4"
       },
@@ -1544,7 +1616,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 172413,
       "name": "SWING DNB (feat. Rim\u00f3czi D\u00f3ri)",
       "url": "https://open.spotify.com/track/60V32KHDvS7wz8pTXrtbwp"
@@ -1717,6 +1789,24 @@
     },
     {
       "album": {
+        "name": "V\u00e1rj m\u00e9g r\u00e1m",
+        "url": "https://open.spotify.com/album/21bXu7f06if0Jp6IkqMUDW"
+      },
+      "artists": [
+        {
+          "name": "Iceboyz",
+          "url": "https://open.spotify.com/artist/6s1abhx0ZEqlrmAhjvh757"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158282,
+      "name": "V\u00e1rj m\u00e9g r\u00e1m",
+      "url": "https://open.spotify.com/track/4mWIzdTHqDpHVLho4yUO2F"
+    },
+    {
+      "album": {
         "name": "You Possess It",
         "url": "https://open.spotify.com/album/6arCetjhW74tYaWuVjAmcr"
       },
@@ -1728,7 +1818,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 271466,
       "name": "You Possess It",
       "url": "https://open.spotify.com/track/0ASYZHSxi3eOM1e0DVFVjf"
@@ -1764,7 +1854,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 174782,
       "name": "\u00c9lni Akarok",
       "url": "https://open.spotify.com/track/3Z0PtCN7BTKA7IAknTyObV"

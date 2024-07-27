@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "CAHAYA",
+        "url": "https://open.spotify.com/album/3Klm6zTWoWWAxpG1HfKImk"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170900,
+      "name": "CAHAYA",
+      "url": "https://open.spotify.com/track/2YBJlOWBi9Ktw4t6BNyroK"
+    },
+    {
+      "album": {
         "name": "calling (slowed + reverb)",
         "url": "https://open.spotify.com/album/4vFKA0J6HRON1Bl3SMKppg"
       },
@@ -1891,6 +1909,24 @@
     },
     {
       "album": {
+        "name": "Iyo No Hito",
+        "url": "https://open.spotify.com/album/3ACIFpzKIMDwUDjlMidNvS"
+      },
+      "artists": [
+        {
+          "name": "maya ongaku",
+          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374318,
+      "name": "Iyo No Hito",
+      "url": "https://open.spotify.com/track/0HwElc96e7sKvI8pOTvC2a"
+    },
+    {
+      "album": {
         "name": "Mu",
         "url": "https://open.spotify.com/album/0cArAePIURFrsTkGfAF2FO"
       },
@@ -2788,7 +2824,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 195237,
       "name": "Planet of Sorrow",
       "url": "https://open.spotify.com/track/1m7bxENmXHhLj5eTWfrzEP"
@@ -2922,6 +2958,24 @@
       "duration_ms": 202000,
       "name": "Rear View",
       "url": "https://open.spotify.com/track/1zlOiXXQostUPBPinAuW8A"
+    },
+    {
+      "album": {
+        "name": "In The Mists of Time",
+        "url": "https://open.spotify.com/album/3ae6LKSL28JtEMhuReJHZn"
+      },
+      "artists": [
+        {
+          "name": "Makoto Nagata",
+          "url": "https://open.spotify.com/artist/5JV3x2QqxVu41zI33U6Bx0"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Resurrection",
+      "url": "https://open.spotify.com/track/3MxQrZEQwypKCEGsv9eGgh"
     },
     {
       "album": {

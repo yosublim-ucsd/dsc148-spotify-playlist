@@ -2466,10 +2466,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 216240,
       "name": "Red Eye",
       "url": "https://open.spotify.com/track/6FasBfviijUzUs7l6AGX78"
+    },
+    {
+      "album": {
+        "name": "Magazines Or Novels",
+        "url": "https://open.spotify.com/album/7AGnFKaeMdOgRFazLNyBps"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216244,
+      "name": "Red Eye",
+      "url": "https://open.spotify.com/track/37LR3mKW7HwA7qabja8uTO"
     },
     {
       "album": {

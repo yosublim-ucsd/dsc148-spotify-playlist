@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 178604,
       "name": "ANTEBELLUM (feat. Che Noir)",
       "url": "https://open.spotify.com/track/5KRTpq2FNdnhOUyvUNdUJB"
@@ -1860,6 +1860,24 @@
       "duration_ms": 200295,
       "name": "Barcelona (feat. Samm Henshaw)",
       "url": "https://open.spotify.com/track/04hxf6171aKFM67gNkOfKt"
+    },
+    {
+      "album": {
+        "name": "Y2K!",
+        "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116571,
+      "name": "BB Belt",
+      "url": "https://open.spotify.com/track/3oLlS8NTMdePBohjgPZKk1"
     },
     {
       "album": {
@@ -2902,7 +2920,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 161536,
       "name": "Boiler Room (feat. Benny The Butcher)",
       "url": "https://open.spotify.com/track/7CFvLWcbqNUlHto2sOuJgE"
@@ -3855,6 +3873,32 @@
     },
     {
       "album": {
+        "name": "Cha Cha (feat. French Montana & Sha Gz)",
+        "url": "https://open.spotify.com/album/3Pv36qQPEPVet3TEBdegB3"
+      },
+      "artists": [
+        {
+          "name": "Dthang",
+          "url": "https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Sha Gz",
+          "url": "https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208128,
+      "name": "Cha Cha (feat. French Montana & Sha Gz)",
+      "url": "https://open.spotify.com/track/56D0dEGy1VOmm1L6fBrCW3"
+    },
+    {
+      "album": {
         "name": "Gangsta Art 2",
         "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
       },
@@ -4498,6 +4542,28 @@
       "duration_ms": 128854,
       "name": "Copy and Paste",
       "url": "https://open.spotify.com/track/1uBrfwtWoUGg1smzPOBZWA"
+    },
+    {
+      "album": {
+        "name": "Cory Gunz \"On The Radar\" Freestyle",
+        "url": "https://open.spotify.com/album/4kl2D7B2EKalqr6ZWt3Y1i"
+      },
+      "artists": [
+        {
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+        },
+        {
+          "name": "Cory Gunz",
+          "url": "https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223750,
+      "name": "Cory Gunz \"On The Radar\" Freestyle",
+      "url": "https://open.spotify.com/track/3ePmw29u090unEfYVsSdcK"
     },
     {
       "album": {
@@ -7698,7 +7764,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 165168,
       "name": "Frenzy (Remix)",
       "url": "https://open.spotify.com/track/2f5pSpIItByH5gTjlHaonV"
@@ -7720,7 +7786,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 159903,
       "name": "Friendly",
       "url": "https://open.spotify.com/track/24rugivInJ0ZVcMHsyl8CN"
@@ -7896,7 +7962,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 239667,
       "name": "FTCU (feat. Travis Scott, Chris Brown & Sexyy Red) - SLEEZEMIX",
       "url": "https://open.spotify.com/track/2oTFuT1tKLHlTJsnBSJJiN"
@@ -8742,6 +8808,40 @@
       "duration_ms": 197380,
       "name": "GOATED. (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR"
+    },
+    {
+      "album": {
+        "name": "G.O.Ds NETWORK - REB7RTH",
+        "url": "https://open.spotify.com/album/277iuIKEMqmfe2iXMUui9d"
+      },
+      "artists": [
+        {
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        {
+          "name": "Fred the Godson",
+          "url": "https://open.spotify.com/artist/4XfZS4DTtBxAd8JjsDFMzl"
+        },
+        {
+          "name": "Skyzoo",
+          "url": "https://open.spotify.com/artist/0qHfqHyHZnxvv1lfkJraQc"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300047,
+      "name": "GOD'S PLAYGROUND",
+      "url": "https://open.spotify.com/track/74pWovp4hPMNeOXGHQbLpc"
     },
     {
       "album": {
@@ -10960,6 +11060,28 @@
       "duration_ms": 125589,
       "name": "Jiggy in Jersey - feat. Sha Ek and DJ Swill B",
       "url": "https://open.spotify.com/track/31HZ7AIKY8hQARMUSg5zWN"
+    },
+    {
+      "album": {
+        "name": "Jodeci",
+        "url": "https://open.spotify.com/album/7nRKPkgavcc7wLiOXVVvdS"
+      },
+      "artists": [
+        {
+          "name": "Connie Diiamond",
+          "url": "https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK"
+        },
+        {
+          "name": "Vontee the Singer",
+          "url": "https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177721,
+      "name": "Jodeci (with Vontee the Singer)",
+      "url": "https://open.spotify.com/track/0MQDhOWqDJcdrjJQwHofJL"
     },
     {
       "album": {
@@ -14696,7 +14818,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 158181,
       "name": "No Statements",
       "url": "https://open.spotify.com/track/0pSOqjxYRQ0HjHs1LbxIkw"
@@ -17788,7 +17910,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 180618,
       "name": "Ride With You",
       "url": "https://open.spotify.com/track/0DLRcWD1pXuIW73qJ6jIQp"
@@ -19983,6 +20105,28 @@
     },
     {
       "album": {
+        "name": "Dreamgirl",
+        "url": "https://open.spotify.com/album/4ryDTjQO7hTB5tUPLdgjFh"
+      },
+      "artists": [
+        {
+          "name": "Leaf",
+          "url": "https://open.spotify.com/artist/5IqdDgKZLckft62bdi1C0l"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175483,
+      "name": "Stay Cool (feat. Cash Cobain)",
+      "url": "https://open.spotify.com/track/1Zca2P2gGfQvUdySarct0f"
+    },
+    {
+      "album": {
         "name": "stephanie",
         "url": "https://open.spotify.com/album/1VBFEXrp29WLCxPCbtRj7b"
       },
@@ -20304,7 +20448,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 118700,
       "name": "Summer '24",
       "url": "https://open.spotify.com/track/1aMUl8tkDCHl4dWIIGo1tR"
@@ -21632,7 +21776,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 168814,
       "name": "Told Ya",
       "url": "https://open.spotify.com/track/315z94HWFxprz0cqLv8oiD"
@@ -21740,7 +21884,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 137150,
       "name": "Treat U Better",
       "url": "https://open.spotify.com/track/16UnzCaCh43Nixbfiv4ZPb"
@@ -21859,6 +22003,24 @@
     },
     {
       "album": {
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/5wby8a1qP7jBdHrRh31WBD"
+      },
+      "artists": [
+        {
+          "name": "Troy Ave",
+          "url": "https://open.spotify.com/artist/3cvKNz7BwIY404XtZ5tpUW"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122064,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/6Gr7Lcjy9Vs57FbE4BJaQE"
+    },
+    {
+      "album": {
         "name": "Trust Myself",
         "url": "https://open.spotify.com/album/4v1LwXDtbFjvaJ62eI6WG5"
       },
@@ -21892,6 +22054,24 @@
       "duration_ms": 166529,
       "name": "Truth Is Freestyle",
       "url": "https://open.spotify.com/track/4GEflsHs7NCAFCcw0tmSwk"
+    },
+    {
+      "album": {
+        "name": "Y2K!",
+        "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123469,
+      "name": "TTYL",
+      "url": "https://open.spotify.com/track/5kSabw3Dng3SJ0bXdFeer7"
     },
     {
       "album": {
@@ -22264,6 +22444,24 @@
       "duration_ms": 333671,
       "name": "Vertino",
       "url": "https://open.spotify.com/track/5RL5b8Pj1Fp7BehQH6YzSo"
+    },
+    {
+      "album": {
+        "name": "Vibez",
+        "url": "https://open.spotify.com/album/19oDsp0N8OVPAUgNFxN10g"
+      },
+      "artists": [
+        {
+          "name": "DudeyLo",
+          "url": "https://open.spotify.com/artist/3r0lVXtDMMDTlni1TCYNlm"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131683,
+      "name": "Vibez",
+      "url": "https://open.spotify.com/track/6sWRLvnrpxyaDIe1VMC2h5"
     },
     {
       "album": {
@@ -23584,6 +23782,32 @@
       "duration_ms": 128951,
       "name": "Woo Nina",
       "url": "https://open.spotify.com/track/3AZBX8HNkzTfvBL0mdebvi"
+    },
+    {
+      "album": {
+        "name": "WORK OF ART (feat. Jaden)",
+        "url": "https://open.spotify.com/album/7siF6s5KBVuJJUydAo7WgL"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        },
+        {
+          "name": "Jaden",
+          "url": "https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204704,
+      "name": "WORK OF ART (feat. Jaden)",
+      "url": "https://open.spotify.com/track/1c2qoYVi2LBQWDN2tp9v5S"
     },
     {
       "album": {

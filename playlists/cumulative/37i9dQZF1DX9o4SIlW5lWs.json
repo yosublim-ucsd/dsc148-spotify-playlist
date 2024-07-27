@@ -1973,6 +1973,28 @@
     },
     {
       "album": {
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/3soqGyMTZnPvgaXvb2oIJn"
+      },
+      "artists": [
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        },
+        {
+          "name": "Agrupaci\u00f3n los Seniors la Nueva Potencia",
+          "url": "https://open.spotify.com/artist/1yM6BcnkFybfKxi9pfg5Zb"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/1ad3jaETpG3XnhWAZe86Yv"
+    },
+    {
+      "album": {
         "name": "Dime Quien",
         "url": "https://open.spotify.com/album/4ezfh3czrZ39US5xqEdGza"
       },
@@ -2926,7 +2948,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 143570,
       "name": "Fin de Semana Sin Ti",
       "url": "https://open.spotify.com/track/5hfajhl7a1MNhGMMPDDToN"
@@ -7387,6 +7409,24 @@
     },
     {
       "album": {
+        "name": "Triste Recuerdo",
+        "url": "https://open.spotify.com/album/3JdTmIQP8SHrz0s7CO2mSQ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cardozo",
+          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223282,
+      "name": "Triste Recuerdo",
+      "url": "https://open.spotify.com/track/2EH5C4yJxaHlEahILa6bxo"
+    },
+    {
+      "album": {
         "name": "Tu (Session Live)",
         "url": "https://open.spotify.com/album/1te9iJDm1eG6a6WopX4VK5"
       },
@@ -7512,7 +7552,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 201000,
       "name": "Tu Eres",
       "url": "https://open.spotify.com/track/312WnZTBmcnwjuwrcQqVDZ"

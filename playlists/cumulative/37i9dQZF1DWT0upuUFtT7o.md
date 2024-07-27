@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Sophia Stel
 
-2,621 songs - 6 day 0 hr 31 min
+2,623 songs - 6 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -692,6 +692,7 @@
 | [Emotional Hangover](https://open.spotify.com/track/74mGqPm4GGEChKtiftUpsP) | [ROREY](https://open.spotify.com/artist/5MpF35XujtDAV7ufakSToU) | [Emotional Hangover](https://open.spotify.com/album/2fpQ9WgXmvvTj2zwRZidFj) | 2:49 | 2023-06-07 | 2023-06-28 |
 | [emotional softie](https://open.spotify.com/track/0ANkt7hXhZb7rdCr9UavOb) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [emotional softie](https://open.spotify.com/album/3VtMLvm4wLhZ5kJFZ2QmhG) | 3:20 | 2021-12-01 | 2022-01-13 |
 | [empty](https://open.spotify.com/track/0nx0l4QmVFV7BdNuUELVg2) | [Human Barbie](https://open.spotify.com/artist/1WbcvNHiOnvchZwd7gbzWv) | [empty](https://open.spotify.com/album/4DqyPkbIaL3uQU5D0S55rv) | 4:30 | 2022-10-19 | 2022-12-01 |
+| [Encyclopedia](https://open.spotify.com/track/6HqUDmzFUVctDXEt19IFfN) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [Encyclopedia](https://open.spotify.com/album/0lVbdzWLuKqLtBU2uRaY0Q) | 2:18 | 2024-07-25 |  |
 | [End Of The Night](https://open.spotify.com/track/1rN641NwfrIYcIfZyNK80f) | [Slow Fiction](https://open.spotify.com/artist/3ZyjpHbSpzsLV3ZEyJZBAW) | [End Of The Night](https://open.spotify.com/album/1HdaI08dFvKfr3rg50XQE8) | 4:10 | 2024-05-22 | 2024-07-04 |
 | [endless questions](https://open.spotify.com/track/6K0xzSgP4YOTBL6kZIhuwM) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [endless questions](https://open.spotify.com/album/4l1sZQPpcXhZUWonaH9lfD) | 2:47 | 2024-02-07 | 2024-03-28 |
 | [ENTER THE VOID](https://open.spotify.com/track/6hWdEh6Y5An7odLtTcWQPU) | [Kona](https://open.spotify.com/artist/0Fj3PWpJ3TVPiUOtBSi8O6) | [KONA](https://open.spotify.com/album/4SooABiVOLdO10ozHsOG4M) | 3:13 | 2024-07-03 |  |
@@ -2266,6 +2267,7 @@
 | [The Call](https://open.spotify.com/track/6covI0tCdNCKqp7yoKeUtD) | [Honey Moon](https://open.spotify.com/artist/1BuCh3XyQ6QfIecry9IcUl) | [The Call](https://open.spotify.com/album/03w1adHMnGMw8QSDphpZI2) | 3:39 | 2022-04-12 | 2022-05-05 |
 | [The Chemist](https://open.spotify.com/track/0pE75Wp3Np1f8N5RcNE8wZ) | [Forts](https://open.spotify.com/artist/5PNxXTkVfckrFbwcW6EKdE) | [The Chemist](https://open.spotify.com/album/5CrL4BHFdHLfLaqOmTHVfk) | 3:16 | 2022-05-11 | 2022-06-30 |
 | [The City](https://open.spotify.com/track/0O8kAUA9viakIrlnqQN2nQ) | [June McDoom](https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV) | [The City](https://open.spotify.com/album/5XXJNuBOVH1ksdQPZWj1cx) | 4:40 | 2022-08-03 | 2022-09-15 |
+| [the crow](https://open.spotify.com/track/6sryBwSVpbKkS8Mk4ZSodd) | [Tracy](https://open.spotify.com/artist/3Hh2uGYNbWta4l3jCiHksX) | [Born Smiling \. .](https://open.spotify.com/album/4EQ1IaTKGICIohbLoSSMU8) | 2:24 | 2024-07-25 |  |
 | [the cute girl from brewster hall](https://open.spotify.com/track/0CPKQPhAtz1ki7KgA3Fh95) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [the cute girl from brewster hall](https://open.spotify.com/album/7JN8u3btrgTomiWrfDjB3y) | 1:55 | 2023-04-19 | 2023-05-18 |
 | [The Day U Said U Wanna Die](https://open.spotify.com/track/5ezOpo1LYMOI1GOumUcy6g) | [hidingthehurt](https://open.spotify.com/artist/1ZEMLFeC3e4J8Y9exK3dKp) | [The Day U Said U Wanna Die](https://open.spotify.com/album/1xk6iK2InkuEXILRYiMLxP) | 2:27 | 2022-08-24 | 2022-09-07 |
 | [The Dove](https://open.spotify.com/track/5Y1oSRH425pZciPpXqZE1r) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [The Dove](https://open.spotify.com/album/01katMj01lqGHr0lDrEWYq) | 3:01 | 2024-02-21 | 2024-03-07 |

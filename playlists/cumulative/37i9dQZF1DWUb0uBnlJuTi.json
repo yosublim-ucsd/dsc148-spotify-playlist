@@ -1117,6 +1117,24 @@
     },
     {
       "album": {
+        "name": "CHIPS & DIP (EXTRA CHUNKY)",
+        "url": "https://open.spotify.com/album/0jwlcFngQXwHdTVFNrnTm6"
+      },
+      "artists": [
+        {
+          "name": "Sam Greenfield",
+          "url": "https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308431,
+      "name": "CHIPS & DIP (EXTRA CHUNKY)",
+      "url": "https://open.spotify.com/track/5CcomoaWjlLHRg7VBOPIi0"
+    },
+    {
+      "album": {
         "name": "Chromazone",
         "url": "https://open.spotify.com/album/62qDJ7bZ6kQNpF1ZNbRj1u"
       },
@@ -1298,7 +1316,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 268562,
       "name": "Cloud Feelings",
       "url": "https://open.spotify.com/track/2sFeglavs4U9ZG6wWTCgRt"
@@ -1400,6 +1418,36 @@
       "duration_ms": 231894,
       "name": "Code 12 - Live at Masterlink",
       "url": "https://open.spotify.com/track/2kkr4Qeqlk0TlkVub083fe"
+    },
+    {
+      "album": {
+        "name": "Friends & Family",
+        "url": "https://open.spotify.com/album/2WArcxonkIlI82NeAG7T6Z"
+      },
+      "artists": [
+        {
+          "name": "Ted Taforo",
+          "url": "https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX"
+        },
+        {
+          "name": "George Silva",
+          "url": "https://open.spotify.com/artist/3DDRWYqflIqoIsIHKj8zJP"
+        },
+        {
+          "name": "Efajemue",
+          "url": "https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1"
+        },
+        {
+          "name": "J Camden",
+          "url": "https://open.spotify.com/artist/4p3PTvbzpHrCm8qjXETbYB"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202131,
+      "name": "Cold As Hell",
+      "url": "https://open.spotify.com/track/0mu1NEo7V5CbOytI64KUso"
     },
     {
       "album": {
@@ -2256,7 +2304,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 282308,
       "name": "ENDING CREDITS",
       "url": "https://open.spotify.com/track/3JaYwewAoUnMSQ6KvO6mr0"
@@ -5876,7 +5924,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 255266,
       "name": "Regular",
       "url": "https://open.spotify.com/track/1CB6xP74LkZ9JuSf0Qsbfy"
@@ -6348,6 +6396,24 @@
       "duration_ms": 254599,
       "name": "Sign Of The Times - Single Version",
       "url": "https://open.spotify.com/track/3bvB2Rzwh2GAMS69k8Vapr"
+    },
+    {
+      "album": {
+        "name": "Silent Jazz Case 5",
+        "url": "https://open.spotify.com/album/2nUT1RnTEraQLqvEXaaJzN"
+      },
+      "artists": [
+        {
+          "name": "Yusuke Shima",
+          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250079,
+      "name": "Silent Dancer",
+      "url": "https://open.spotify.com/track/6QePiHLvjWrVITs8ddewDG"
     },
     {
       "album": {

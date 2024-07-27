@@ -713,6 +713,48 @@
     },
     {
       "album": {
+        "name": "Ain't No Stoppin' Us Now: 50 Years of P.I.R.",
+        "url": "https://open.spotify.com/album/3GBrRUMKcWG1noKGeW2LLc"
+      },
+      "artists": [
+        {
+          "name": "The Philadelphia International All-Stars",
+          "url": "https://open.spotify.com/artist/65LAAoHRaxtbWobjZdZOuX"
+        },
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        },
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        },
+        {
+          "name": "Archie Bell",
+          "url": "https://open.spotify.com/artist/7f3BKwnwO2xv3zxosgVHvW"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        },
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        },
+        {
+          "name": "Dee Dee Sharp Gamble",
+          "url": "https://open.spotify.com/artist/6yca6zFWEYjAzjrcch66IK"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 521373,
+      "name": "Let's Clean Up the Ghetto - 12\" Version",
+      "url": "https://open.spotify.com/track/4CFKakGoXoktsSKm5UENzf"
+    },
+    {
+      "album": {
         "name": "Ebony Woman",
         "url": "https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc"
       },
@@ -840,7 +882,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 227186,
       "name": "Malorie",
       "url": "https://open.spotify.com/track/4smJDFiteu2hZOW9oFlCzt"

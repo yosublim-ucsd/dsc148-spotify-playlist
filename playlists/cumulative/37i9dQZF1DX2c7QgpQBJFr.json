@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gli astri nascenti del pop italiano \ud83d\udd2e Cover: Palmaria",
+  "description": "Gli astri nascenti del pop italiano \ud83d\udd2e Cover: Saintess",
   "name": "Caleido",
   "tracks": [
     {
@@ -46,6 +46,24 @@
       "duration_ms": 234591,
       "name": "100 anni (piangi) (feat. gIANMARIA & Mostro)",
       "url": "https://open.spotify.com/track/4HCC59hmk0rQIyz7t1O0nz"
+    },
+    {
+      "album": {
+        "name": "8 PM",
+        "url": "https://open.spotify.com/album/4WENYnSEuWaTQD3ulS5U8V"
+      },
+      "artists": [
+        {
+          "name": "jiojio",
+          "url": "https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "8 PM",
+      "url": "https://open.spotify.com/track/6dcZGdXWWGyrfxq8MLqXIX"
     },
     {
       "album": {
@@ -883,6 +901,24 @@
     },
     {
       "album": {
+        "name": "ENERGY KILL DEM",
+        "url": "https://open.spotify.com/album/7vME99LAKqHCbnD4166AFu"
+      },
+      "artists": [
+        {
+          "name": "Axell",
+          "url": "https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "ESTATE",
+      "url": "https://open.spotify.com/track/6QLFAWuv3zaWkP0xIIyBmm"
+    },
+    {
+      "album": {
         "name": "44.SUMMER",
         "url": "https://open.spotify.com/album/2V4SfyMweLXd05gFOmud76"
       },
@@ -934,7 +970,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 141818,
       "name": "Extraterrestrial",
       "url": "https://open.spotify.com/track/0wJxx9h0cPxJZVf9SptnlQ"
@@ -977,6 +1013,28 @@
     },
     {
       "album": {
+        "name": "Fiero Di Me",
+        "url": "https://open.spotify.com/album/4wAqVCVmUKwpOYyw9Ou4vR"
+      },
+      "artists": [
+        {
+          "name": "solodavide",
+          "url": "https://open.spotify.com/artist/4kYIKaTeyaXcLLKvqwHK3N"
+        },
+        {
+          "name": "Pellerito",
+          "url": "https://open.spotify.com/artist/7l6pS28UBNcLASGW2LsKC5"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112058,
+      "name": "Fiero Di Me",
+      "url": "https://open.spotify.com/track/1r4ZM0LjdWJCQg6swGo2gZ"
+    },
+    {
+      "album": {
         "name": "DUMBA",
         "url": "https://open.spotify.com/album/2CQnHbVVhkjReejy5XKOCO"
       },
@@ -1010,6 +1068,24 @@
       "duration_ms": 160698,
       "name": "foglieverdi",
       "url": "https://open.spotify.com/track/32xxdDRNQQr2TwcCNstjrF"
+    },
+    {
+      "album": {
+        "name": "FORTE",
+        "url": "https://open.spotify.com/album/1CgeMEzowRd31EHAjGx4fu"
+      },
+      "artists": [
+        {
+          "name": "Dada",
+          "url": "https://open.spotify.com/artist/07Mm8XIL3DTHtmBQQRjxN2"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153902,
+      "name": "FORTE",
+      "url": "https://open.spotify.com/track/5jHrfCQXUA1L0q4OKxcmmI"
     },
     {
       "album": {
@@ -1050,6 +1126,24 @@
       "duration_ms": 177723,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/1UvidmTdCoLM1gUB4INwWs"
+    },
+    {
+      "album": {
+        "name": "GARAGE MARE",
+        "url": "https://open.spotify.com/album/6K21nKUpD6zH3ZWrNHaPrT"
+      },
+      "artists": [
+        {
+          "name": "Oh Baro",
+          "url": "https://open.spotify.com/artist/5DOIMn0GH5uVbYL1ssg8Q5"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161501,
+      "name": "GARAGE MARE",
+      "url": "https://open.spotify.com/track/4TU0PgLtOxkSKv1wytyu5N"
     },
     {
       "album": {
@@ -1108,6 +1202,24 @@
       "duration_ms": 170640,
       "name": "Giulia",
       "url": "https://open.spotify.com/track/2nJnBWLoeCdVKfH3AuWcbe"
+    },
+    {
+      "album": {
+        "name": "Glovo",
+        "url": "https://open.spotify.com/album/0h5rZ2AtbHSSWI5pKilC4K"
+      },
+      "artists": [
+        {
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/6V9EZvDzdaPnzYg8VgsFGk"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Glovo",
+      "url": "https://open.spotify.com/track/4DbuXHk5mwuc1wGtVLxSbf"
     },
     {
       "album": {
@@ -1282,7 +1394,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 191500,
       "name": "LA VITA NON UCCIDE",
       "url": "https://open.spotify.com/track/6T7AXYeKn7j59EnNsqypcC"
@@ -1583,6 +1695,46 @@
     },
     {
       "album": {
+        "name": "Gira, il mondo gira",
+        "url": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap"
+      },
+      "artists": [
+        {
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "JVLI",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173842,
+      "name": "Menomale che c'\u00e8 il mare",
+      "url": "https://open.spotify.com/track/5pYy054Wcuj9CFdDIxZSVU"
+    },
+    {
+      "album": {
+        "name": "Mercante",
+        "url": "https://open.spotify.com/album/4SUj7lMAZ8PAl6udfpN6gO"
+      },
+      "artists": [
+        {
+          "name": "MYDRAMA",
+          "url": "https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188416,
+      "name": "Mercante",
+      "url": "https://open.spotify.com/track/5kNzj2wKiSlUdLwodYZ4lf"
+    },
+    {
+      "album": {
         "name": "Mezzo Amore",
         "url": "https://open.spotify.com/album/0rGuKHjubf9cso6vJTOzc5"
       },
@@ -1655,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "Mosche",
+        "url": "https://open.spotify.com/album/7H4vm4CBeNtkjGRzBzPpOE"
+      },
+      "artists": [
+        {
+          "name": "43.Nove",
+          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155036,
+      "name": "Mosche",
+      "url": "https://open.spotify.com/track/6C6EyA832m59DutYTzZwFl"
+    },
+    {
+      "album": {
         "name": "MUSICA ESPECIAL",
         "url": "https://open.spotify.com/album/6Tk4yBFG7aLLMzuJMkVQkr"
       },
@@ -1710,7 +1880,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 186285,
       "name": "Nemesi",
       "url": "https://open.spotify.com/track/5UrBkf1bBW91DMXbJQeZRN"
@@ -1812,7 +1982,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 178427,
       "name": "NON LO SAI (Feat. Rose Villain)",
       "url": "https://open.spotify.com/track/3Uq9Ev3UM8X1LfsMjZcZxd"
@@ -1830,7 +2000,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 159058,
       "name": "Non mi ricordo di te",
       "url": "https://open.spotify.com/track/6umdFIAMM3dDIUzkIqjkQQ"
@@ -1954,7 +2124,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 166899,
       "name": "PAGINE BIANCHE (feat. EDONiCO)",
       "url": "https://open.spotify.com/track/0nNplNrSFfg3aHBpKxTtnb"
@@ -2139,6 +2309,24 @@
     },
     {
       "album": {
+        "name": "Roulette",
+        "url": "https://open.spotify.com/album/6xSWwCb4pBor8WwaMQ9GWW"
+      },
+      "artists": [
+        {
+          "name": "Sarah",
+          "url": "https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "Roulette",
+      "url": "https://open.spotify.com/track/6WCXJhQsP3ykIr1kOfO7dh"
+    },
+    {
+      "album": {
         "name": "scarpe slacciate",
         "url": "https://open.spotify.com/album/4PE7391macqTVvca7wKqZY"
       },
@@ -2222,7 +2410,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 142608,
       "name": "Serotonina - Sped Up Version",
       "url": "https://open.spotify.com/track/6XStIjezeaLi5aWPMwF2zr"
@@ -2280,7 +2468,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 161973,
       "name": "Solo diamanti",
       "url": "https://open.spotify.com/track/29ZokjwQEz6D0Di4NRqhXe"
@@ -2530,7 +2718,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 206909,
       "name": "Tonica",
       "url": "https://open.spotify.com/track/7qyFfd7nS0r6Zz3Sv2VcR1"
@@ -2566,7 +2754,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 146000,
       "name": "Un Altro Giro",
       "url": "https://open.spotify.com/track/6Da8hRd6GzbBYtjBtSyR1f"
@@ -2588,6 +2776,42 @@
       "duration_ms": 162539,
       "name": "Una come te",
       "url": "https://open.spotify.com/track/1lSMWsYGwTa17qJzvCqB3C"
+    },
+    {
+      "album": {
+        "name": "VICOLI DI NAPOLI",
+        "url": "https://open.spotify.com/album/6zAL24UJp5gLtB22jpSn6d"
+      },
+      "artists": [
+        {
+          "name": "Dedd\u00e8",
+          "url": "https://open.spotify.com/artist/2OmKywuhryo2wruvLjcocI"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158620,
+      "name": "VICOLI DI NAPOLI",
+      "url": "https://open.spotify.com/track/6COpU6FKsiocTOCsn3aEkj"
+    },
+    {
+      "album": {
+        "name": "WHISKEY SOUR",
+        "url": "https://open.spotify.com/album/1EJ7buXCkVQ6sTlKMikSja"
+      },
+      "artists": [
+        {
+          "name": "$uicide Gvng",
+          "url": "https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "WHISKEY SOUR",
+      "url": "https://open.spotify.com/track/2cQoCt1oAdpzzZ60eVKV5C"
     },
     {
       "album": {

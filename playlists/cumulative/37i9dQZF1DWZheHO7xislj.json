@@ -3448,7 +3448,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 187106,
       "name": "I'm Gonna Make You Love Me",
       "url": "https://open.spotify.com/track/0XaJ8Fk3d8eZa9RZGUat0e"
@@ -4415,6 +4415,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303533,
+      "name": "Love And Happiness",
+      "url": "https://open.spotify.com/track/13FkFPnKX1eC2V3nwSy5YB"
+    },
+    {
+      "album": {
         "name": "I'm Still in Love with You",
         "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
       },
@@ -5067,6 +5085,24 @@
     },
     {
       "album": {
+        "name": "Ultimate Collection: Gladys Knight & The Pips",
+        "url": "https://open.spotify.com/album/6QVtxfO3l14a5BWkvL9lqP"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263693,
+      "name": "Neither One Of Us (Wants To Be The First To Say Goodbye)",
+      "url": "https://open.spotify.com/track/1u19N7mWVxSvHIcOGM3wak"
+    },
+    {
+      "album": {
         "name": "Neither One Of Us",
         "url": "https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd"
       },
@@ -5266,7 +5302,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 235573,
       "name": "No Love Dying",
       "url": "https://open.spotify.com/track/0q8Yje436bw3FkzEDNs7qI"
@@ -5576,7 +5612,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 411360,
       "name": "Papa Was A Rollin' Stone - Single Version",
       "url": "https://open.spotify.com/track/5qf5RkyeFIwPdHrftXnOLq"
@@ -7902,6 +7938,24 @@
       "duration_ms": 239213,
       "name": "What Will It Be?",
       "url": "https://open.spotify.com/track/5Z6Y7HWyIQJ1Y5DaepehAp"
+    },
+    {
+      "album": {
+        "name": "The Best Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/1qTM6Za6nPUuEshVSmlZnO"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228173,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/0IUTOvJZ6brXtvMZWipush"
     },
     {
       "album": {

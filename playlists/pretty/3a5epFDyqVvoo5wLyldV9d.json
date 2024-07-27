@@ -6,7 +6,7 @@
     "name": "Ryan Gards",
     "url": "https://open.spotify.com/user/1230953186"
   },
-  "snapshot_id": "AAADdvWf3NjrDcqozaBvALow+A6Njvyg",
+  "snapshot_id": "AAADeF2QNMhle3kjgsdHy2wLUWKvN6pg",
   "tracks": [
     {
       "added_at": "2020-11-30 17:26:34",
@@ -13115,6 +13115,38 @@
       "duration_ms": 222903,
       "name": "La Carta (Mi Carta Final)",
       "url": "https://open.spotify.com/track/0zNmzLkD8WLUvQDzL115I6"
+    },
+    {
+      "added_at": "2024-07-27 15:07:07",
+      "album": {
+        "name": "Vallja E Rugoves Shota",
+        "url": "https://open.spotify.com/album/1UyahuFsSl0qEb8lCSOLEo"
+      },
+      "artists": [
+        {
+          "name": "Valle",
+          "url": "https://open.spotify.com/artist/1NcAnVLuHv4OMDa9U87EQt"
+        }
+      ],
+      "duration_ms": 234684,
+      "name": "Vallja E Rugoves Shota",
+      "url": "https://open.spotify.com/track/7I2D4I5fLN6CLy2tUJ79xK"
+    },
+    {
+      "added_at": "2024-07-27 15:11:18",
+      "album": {
+        "name": "Merrma Shiun E Prishtin\u00ebs",
+        "url": "https://open.spotify.com/album/279nOOpIU7dSF3pXCudidz"
+      },
+      "artists": [
+        {
+          "name": "Sabri Fejzullahu",
+          "url": "https://open.spotify.com/artist/01kw1JZlojs7jcsMHnfyVr"
+        }
+      ],
+      "duration_ms": 260891,
+      "name": "Fshatarja Ime",
+      "url": "https://open.spotify.com/track/6wDhH6ItVhgtrI2SMtscI4"
     }
   ],
   "unique_name": "Worldly",

@@ -2,9 +2,9 @@
 
 ### [alt BR](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Música brasileira fora da curva\. Foto: Jambu
+> Música brasileira fora da curva\. Foto: Exclusive Os Cabides
 
-647 songs - 1 day 12 hr 45 min
+649 songs - 1 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Bateria Social](https://open.spotify.com/track/1wicDKdH62DL55tNHK9PhA) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Bateria Social](https://open.spotify.com/album/4jKJMo24vOWI38n5jJrR8S) | 2:59 | 2022-07-22 | 2023-08-05 |
 | [BB \(Garupa de Moto Amarela\)](https://open.spotify.com/track/4urIUktF6jtKJhvjFU5hwy) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [BB \(Garupa de Moto Amarela\)](https://open.spotify.com/album/7ExE0OsPgAEOywkveeWoeL) | 2:46 | 2022-05-20 | 2023-01-28 |
 | [Beat](https://open.spotify.com/track/2D5qQa9nFYKwax9V7LNUBH) | [Mariana Cavanellas](https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL), [Faew](https://open.spotify.com/artist/2wc2o0xe5pjBkzgMMt3Py9) | [Kintsugi](https://open.spotify.com/album/2FFM0AsTpvCC5Q6jLxAG3n) | 2:41 | 2022-04-29 | 2022-05-14 |
-| [Beijo Roubado em Segredo](https://open.spotify.com/track/1W4xAsOUhLNlfnUjsmKwMR) | [Tatá Aeroplano](https://open.spotify.com/artist/78zrcYeAIou4XXyCyc7r8U) | [Beijo Roubado em Segredo](https://open.spotify.com/album/5gWxrGn4jvSucPyWLCgOX8) | 2:43 | 2024-05-24 |  |
+| [Beijo Roubado em Segredo](https://open.spotify.com/track/1W4xAsOUhLNlfnUjsmKwMR) | [Tatá Aeroplano](https://open.spotify.com/artist/78zrcYeAIou4XXyCyc7r8U) | [Beijo Roubado em Segredo](https://open.spotify.com/album/5gWxrGn4jvSucPyWLCgOX8) | 2:43 | 2024-05-24 | 2024-07-27 |
 | [bem vindo, amanhecer](https://open.spotify.com/track/7mWaj5XGPlLn26oz8Ml5WT) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [bem vindo, amanhecer](https://open.spotify.com/album/3NIuGYI8AlF2z29olKZo3e) | 3:21 | 2022-04-08 | 2022-07-23 |
 | [Better Angels](https://open.spotify.com/track/4ea8UWKf6mWySfzddxfKfE) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:25 | 2022-09-16 | 2022-09-20 |
 | [Bicho Papão](https://open.spotify.com/track/6Dks697XrhDdbVfSydNAyQ) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Bicho Papão](https://open.spotify.com/album/3jHc6Yn0a3Nwk50r413tSG) | 3:31 | 2022-01-14 | 2022-02-12 |
@@ -108,7 +108,7 @@
 | [Café com Leite](https://open.spotify.com/track/7gy7BFORtrb1FNdE2nV6BX) | [Helo Cleaver](https://open.spotify.com/artist/5ddPmN9f59M0HHWxdObC3F) | [Priguis](https://open.spotify.com/album/5uWkRYYKp9dUQjWJFggTI5) | 3:17 | 2022-03-25 | 2022-08-20 |
 | [Cair para Trás](https://open.spotify.com/track/5hGEyUa5SnTvODfmo0glsu) | [Personas](https://open.spotify.com/artist/0mb0ogPa9MGn5LEWPI9MrQ) | [Cair para Trás](https://open.spotify.com/album/7Mk4iBvSDJaYleXrfeh5QM) | 2:52 | 2023-10-13 | 2024-05-18 |
 | [Calor](https://open.spotify.com/track/6hQq4cuiZ95v2ruBNODR6q) | [Bersote](https://open.spotify.com/artist/5eFVbe9UhSPoEU8wOStI8f), [Calebe Abreu](https://open.spotify.com/artist/5Tgy1KK5C8ppPHmkw7qSyj) | [Calor](https://open.spotify.com/album/5q9t9lh12cH8ighkPwXcNe) | 3:38 | 2023-04-14 | 2023-04-29 |
-| [Calor da Boca](https://open.spotify.com/track/4KYaANDmHwZPvLNfbL9r81) | [MAYAH](https://open.spotify.com/artist/1rg783Ojka0Cy5saubif7c), [Castel](https://open.spotify.com/artist/4RTi9WT73fsYrGnYZRneJf) | [Calor da Boca](https://open.spotify.com/album/1zFMm7sUc2W8Sza1L0cmlG) | 3:40 | 2024-04-26 |  |
+| [Calor da Boca](https://open.spotify.com/track/4KYaANDmHwZPvLNfbL9r81) | [MAYAH](https://open.spotify.com/artist/1rg783Ojka0Cy5saubif7c), [Castel](https://open.spotify.com/artist/4RTi9WT73fsYrGnYZRneJf) | [Calor da Boca](https://open.spotify.com/album/1zFMm7sUc2W8Sza1L0cmlG) | 3:40 | 2024-04-26 | 2024-07-27 |
 | [Camará Station](https://open.spotify.com/track/20WqfPX5U5kBIo3uMQRtVR) | [mellina](https://open.spotify.com/artist/7nGtXBuI7PJa8Rcy4aL9SY), [Jeza da Pedra](https://open.spotify.com/artist/3KdQCcpvEY8tdcLpJnSWeh) | [Camará Station](https://open.spotify.com/album/6GvEAAEut6TqOuzZtIVkSU) | 2:19 | 2023-08-04 | 2023-09-23 |
 | [Can I Call You?](https://open.spotify.com/track/5v6S9wdpQiv5weg8sSI5U7) | [Pablo Vermell](https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5) | [Can I Call You?](https://open.spotify.com/album/0njUjg620qif2q9nNW72RU) | 2:17 | 2022-01-14 | 2022-02-19 |
 | [Cantiga](https://open.spotify.com/track/5eXBqFxpGIkcdCorF4hohu) | [Thomé](https://open.spotify.com/artist/1s2eZHp7L2dt3j30cUv7R6), [Shamani](https://open.spotify.com/artist/1RKQZ7tAjTqCk3omgA1D4i) | [Cantiga](https://open.spotify.com/album/6rkHu80E8LBhmOLoCcnO8n) | 3:26 | 2022-03-25 | 2023-01-28 |
@@ -167,6 +167,7 @@
 | [Deixa Minguar](https://open.spotify.com/track/3ttFDhTdRMAXxjKoKk88Q3) | [A Olívia](https://open.spotify.com/artist/5KF8ApJq5Uf20Ids67TQDg), [Natália Nó](https://open.spotify.com/artist/2pVpWMrwJ3sNXZJSO2lRRh) | [Deixa Minguar](https://open.spotify.com/album/1Z8ujVGb9jbZ06VldOFk4k) | 3:59 | 2023-11-24 | 2024-07-06 |
 | [Dela](https://open.spotify.com/track/6kHuBsPj0OFq0cfDtjgwtd) | [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Me Chama De Gato Que Eu Sou Sua](https://open.spotify.com/album/6UZpK4jB5MYVYJpwwi2mbP) | 3:51 | 2023-10-20 | 2024-05-11 |
 | [Dela](https://open.spotify.com/track/6rPPrrFv2nbwF6WglwGUDo) | [Fogo Fera](https://open.spotify.com/artist/0QSdV5uL8HUJOwsyzL5rEI), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7), [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Eu Te Amo](https://open.spotify.com/album/0XvbAjrSMinlkhxx0LJdQh) | 3:33 | 2022-11-04 | 2022-11-19 |
+| [Demorou Pra Ser](https://open.spotify.com/track/5QeEdKDDBSsYXlQ6gR4Aw4) | [Vanguart](https://open.spotify.com/artist/0rexWKb4rBwWS07SoHqsX0), [Fernanda Takai](https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE) | [Demorou Pra Ser](https://open.spotify.com/album/1SNhT5rJ4S16aTlpUQCwGk) | 3:34 | 2024-07-26 |  |
 | [Desabriga](https://open.spotify.com/track/4lZACQsjOZo5XxwUBK3KW2) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [Desabriga](https://open.spotify.com/album/60jnx3HvluMJu7Q0G3xIw3) | 3:05 | 2023-07-14 | 2023-12-09 |
 | [Desagradar](https://open.spotify.com/track/7qhbm7QvRktr6ZwDZzWmG1) | [bule](https://open.spotify.com/artist/0G0UBEMCXDj4UWnT3BeBoS) | [Desagradar](https://open.spotify.com/album/49PztzwJqsj3Ini8umF67R) | 3:24 | 2022-01-14 | 2022-01-22 |
 | [desanuviar](https://open.spotify.com/track/6dv427zxWatn55rEml3TlB) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA), [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [Fs.aiff](https://open.spotify.com/artist/5mCR2OZdHbeSAp7NuS4Rbp) | [desanuviar](https://open.spotify.com/album/1i6hCNGOrRxCCvKmE1cB8f) | 2:56 | 2023-11-24 | 2024-06-29 |
@@ -248,6 +249,7 @@
 | [Foi Assim](https://open.spotify.com/track/7DZYRKQ5T695LPPn98NOGM) | [Limousine](https://open.spotify.com/artist/28TS6lsqvm8EKRdBzMigTh), [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [Foi Assim](https://open.spotify.com/album/3vLFn7RuyXbQTKpqhPdIwS) | 3:51 | 2023-03-24 | 2023-04-09 |
 | [Forbidden Fruit](https://open.spotify.com/track/070LHp7zkcBY0e3yaGBWjH) | [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [Forbidden Fruit](https://open.spotify.com/album/5JC849KO0dGCfneo4SlTma) | 2:51 | 2023-03-17 | 2023-04-22 |
 | [Fossa](https://open.spotify.com/track/1pDUewwwYjxsfUeFpOHtPe) | [Yan Paiva](https://open.spotify.com/artist/7dSu1TjBg6n9zrXuKRjore) | [Fossa](https://open.spotify.com/album/4Nu9qRZkKSoa3RstdtcwZR) | 4:44 | 2024-05-17 |  |
+| [Fragment](https://open.spotify.com/track/5PRGK7zhCN7bUDpItC6NQt) | [Apeles](https://open.spotify.com/artist/079cfq4aZBhX6sXItaYUyr), [CHEWY SHE](https://open.spotify.com/artist/55zZwHiAzgFJ3CKL3TYxAR) | [ESTASIS](https://open.spotify.com/album/6wDzTB7brH9yzgScAEkrrU) | 3:28 | 2024-07-26 |  |
 | [Fragmentos](https://open.spotify.com/track/5RC7xO3f185S5s8qxlSt1h) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [Fragmentos](https://open.spotify.com/album/1uCiWf182CcKW1iN3tDfJQ) | 3:27 | 2023-05-05 | 2023-05-20 |
 | [Frutas](https://open.spotify.com/track/5X8Mv7ksfj4mEo2yyOwmK6) | [alici](https://open.spotify.com/artist/3xwrVmAg320G7DzTPkhOjX) | [Frutas](https://open.spotify.com/album/4GXAxNN4YzQsUPvxDUcNhd) | 3:22 | 2023-05-05 | 2023-07-08 |
 | [Fruto Bruto](https://open.spotify.com/track/7hLyI3PiVvVKLy8SDz0WgE) | [Alan Bernardes](https://open.spotify.com/artist/6H7PacMXVeRywx2z2ZI2wx) | [Fruto Bruto](https://open.spotify.com/album/2vtNSZGt07kW6ki0dRaTin) | 3:47 | 2022-01-14 | 2022-03-18 |

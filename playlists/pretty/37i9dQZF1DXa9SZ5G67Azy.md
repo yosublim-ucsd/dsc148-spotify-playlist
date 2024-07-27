@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9SZ5G67Azy.md) - [plain]
 
 > Un poco de esto, un poco de lo otro.
 
-[](https://open.spotify.com/user/null) - 32,455 likes - 78 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,451 likes - 78 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9SZ5G67Azy.md) - [plain]
 | 11 | [Corazón Roto \- House Remix](https://open.spotify.com/track/6LoW4RIvx5lAHOjdrG1vTz) | [ThomyDomé](https://open.spotify.com/artist/5qqUYMzxKlvDnSgAMIePLd) | [Corazón Roto \(House Remix\)](https://open.spotify.com/album/2UymMnf8PFL5NZKr523bm1) | 4:27 |
 | 12 | [Danza Kuduro \- Tiësto Remix](https://open.spotify.com/track/7mdDd1a4TtNGqDW1lXc14o) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Danza Kuduro \(Tiësto Remix\)](https://open.spotify.com/album/6Kd4z1ibE3aDC6lXOs3eMV) | 3:39 |
 | 13 | [MERCEDES SOSA](https://open.spotify.com/track/3ZIsqO3sBuCNy2JBv9xYqa) | [MichaelBM](https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl), [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e), [Cach House](https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc) | [MERCEDES SOSA](https://open.spotify.com/album/1uOfB3rEKzeji8Wq9i0Bek) | 3:41 |
-| 14 | [Lento \(Original Mix\)](https://open.spotify.com/track/4IL0li89Pjk3hAM9ihqPBl) | [Chapa & Castelo](https://open.spotify.com/artist/7lsEUAdbQ2XZWH0xOVhiqH), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Lento \(Original Mix\)](https://open.spotify.com/album/2nHLZjtZeEKky3uOZtLbf1) | 5:30 |
+| 14 | [Lento](https://open.spotify.com/track/4IL0li89Pjk3hAM9ihqPBl) | [Chapa & Castelo](https://open.spotify.com/artist/7lsEUAdbQ2XZWH0xOVhiqH), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Lento](https://open.spotify.com/album/2nHLZjtZeEKky3uOZtLbf1) | 5:30 |
 | 15 | [Borracho y Loco](https://open.spotify.com/track/6UKDdTM8tTFUFKIbhN2I4R) | [Cach House](https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc), [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e) | [Borracho y Loco](https://open.spotify.com/album/2pBdRHtvScC3KJyAvlbyRK) | 5:11 |
 | 16 | [Puesto Pa Ella](https://open.spotify.com/track/4heJPU1pSWjYLPrWbAT4zW) | [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e), [ThomyDomé](https://open.spotify.com/artist/5qqUYMzxKlvDnSgAMIePLd), [Tomi Reig](https://open.spotify.com/artist/3WVT8Ru2pGghiLHCYBDtmY) | [Plan Tech](https://open.spotify.com/album/0OuINqJYAV1NRLK870kbSW) | 3:04 |
 | 17 | [Monaco \- Pyura Remix](https://open.spotify.com/track/3wHtiTdrZkj5aYFnCeZcn0) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Monaco \(Pyura Remix\)](https://open.spotify.com/album/4QBrLN1AcqoQCmFUit2sWv) | 3:56 |

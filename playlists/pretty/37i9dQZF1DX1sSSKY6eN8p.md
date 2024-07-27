@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sSSKY6eN8p.md) - [plain]
 
 > Music From "Monster Hunter Now"! 音楽で辿る「Monster Hunter Now」の世界! © 2023 Niantic\. Characters / Artwork/ Music © CAPCOM CO., LTD.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,606 likes - 42 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,623 likes - 42 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sSSKY6eN8p.md) - [plain]
 | 6 | [旅立ちの風](https://open.spotify.com/track/5MoptE6WpED1IksdhpH000) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [モンスターハンター4 オリジナル・サウンドトラック](https://open.spotify.com/album/7wfws2r87STQ7y7lSgXRmC) | 3:27 |
 | 7 | [メゼポルタの陽/メゼポルタ\(昼\)](https://open.spotify.com/track/6IHpZVMayoy4vXI8zuLZH1) | [Hideyuki Fukasawa](https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu) | [モンスターハンター フロンティアG オリジナル・サウンドトラック](https://open.spotify.com/album/5V9SaJ7QjH2Gq56Yt8HpXE) | 4:18 |
 | 8 | [トラベルナ \- Fullver.](https://open.spotify.com/track/5kXkL92c1WlmBjD99O5EQJ) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [モンスターハンタークロス オリジナル・サウンドトラック](https://open.spotify.com/album/5Nn8ZLhvrI2uJ7YosLER7r) | 4:04 |
-| 9 | [ニャンてハッピーラッキーデイ! 〜 ミラクル☆ミルクティ \- game ver.](https://open.spotify.com/track/38IUaD5ECId2Fqal68ZmqG) | [ミラクル☆ミルクティ\(CV:上田麗奈&高野麻里佳\)](https://open.spotify.com/artist/6F3dWs4bYDUJ80qE7ypQQN) | [モンスターハンター 狩猟音楽集XX](https://open.spotify.com/album/2ulugdM6t8iLBYNuoYTyG8) | 1:53 |
+| 9 | [ニャンてハッピーラッキーデイ! \- ミラクル☆ミルクティ game ver.](https://open.spotify.com/track/38IUaD5ECId2Fqal68ZmqG) | [ミラクル☆ミルクティ\(CV:上田麗奈&高野麻里佳\)](https://open.spotify.com/artist/6F3dWs4bYDUJ80qE7ypQQN) | [モンスターハンター 狩猟音楽集XX](https://open.spotify.com/album/2ulugdM6t8iLBYNuoYTyG8) | 1:53 |
 | 10 | [星に駆られて](https://open.spotify.com/track/18wSghW2luxajMP9LfeGtx) | [TADAYOSHI MAKINO](https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt) | [モンスターハンター:ワールド オリジナル・サウンドトラック](https://open.spotify.com/album/0hU2xjMRQWN7zsawye1wfh) | 4:31 |
 | 11 | [継がれる光](https://open.spotify.com/track/4J6QxTQlFi5SAHfCbOpVbm) | [小見山優子](https://open.spotify.com/artist/1QPfhs9tiYkJ0KZQVzbwJI) | [モンスターハンターワールド:アイスボーン オリジナル・サウンドトラック](https://open.spotify.com/album/3qy5nn5h5UIJvmuDZfaWV7) | 3:45 |
 | 12 | [カムラ祓え歌](https://open.spotify.com/track/29gR6IJ9DWBOP2oFOzTLmA) | [Reo Uratani](https://open.spotify.com/artist/09RfEzNT81tvlqp2yvrZpA) | [モンスターハンターライズ オリジナルサウンドトラック](https://open.spotify.com/album/5Ktf5vRcVR04E4Ojl5dQmc) | 4:00 |

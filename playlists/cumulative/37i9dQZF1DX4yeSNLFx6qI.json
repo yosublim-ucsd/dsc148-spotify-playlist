@@ -2051,6 +2051,28 @@
     },
     {
       "album": {
+        "name": "Lo Contrario",
+        "url": "https://open.spotify.com/album/4j7ez1oEHKlQZzIFspVQI8"
+      },
+      "artists": [
+        {
+          "name": "GOMZ",
+          "url": "https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA"
+        },
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190398,
+      "name": "Lo Contrario",
+      "url": "https://open.spotify.com/track/13MoMVQoTxw3EKZnCsvrvs"
+    },
+    {
+      "album": {
         "name": "lo intento por ti",
         "url": "https://open.spotify.com/album/6DmD10EiuFXgmz6IIvDLZ9"
       },
@@ -4882,7 +4904,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 174480,
       "name": "Vas a Destrozarme",
       "url": "https://open.spotify.com/track/0T58JhPBoafZ05W1rIYSKP"

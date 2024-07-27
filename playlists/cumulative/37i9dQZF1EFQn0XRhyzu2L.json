@@ -1766,7 +1766,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-23",
+      "date_removed": null,
       "duration_ms": 399784,
       "name": "Disco - Extended",
       "url": "https://open.spotify.com/track/3aVttrUSwGUJUJZudd0zgi"
@@ -7322,6 +7322,32 @@
       "duration_ms": 155000,
       "name": "Right Here - Alok Remix",
       "url": "https://open.spotify.com/track/4POzcNoW84PVh7wNO5V3f9"
+    },
+    {
+      "album": {
+        "name": "Liberation",
+        "url": "https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Keida",
+          "url": "https://open.spotify.com/artist/60W5voThnCKW5p1iH3KjQZ"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228040,
+      "name": "Right Moves (feat. Keida & Shenseea)",
+      "url": "https://open.spotify.com/track/10EdIGnkizaN7v1uYljTd7"
     },
     {
       "album": {

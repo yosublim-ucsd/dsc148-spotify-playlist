@@ -1091,6 +1091,28 @@
     },
     {
       "album": {
+        "name": "Elissa fel good",
+        "url": "https://open.spotify.com/album/7yYPwBJl01qJLCMSKw2wi6"
+      },
+      "artists": [
+        {
+          "name": "Djamel Milano",
+          "url": "https://open.spotify.com/artist/7AYCOTouVoJVDngBBo37We"
+        },
+        {
+          "name": "Tchikou 22",
+          "url": "https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307980,
+      "name": "Elissa fel good",
+      "url": "https://open.spotify.com/track/5C9lvIZ8QZaCP39a69D3uf"
+    },
+    {
+      "album": {
         "name": "Engag\u00e9",
         "url": "https://open.spotify.com/album/7z4Os1feFjBgWHdQlEv5xD"
       },

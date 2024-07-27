@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 
 > Buon Appetito!
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,279 likes - 54 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,468 likes - 54 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 | 14 | [That's Amore \- 1998 Remastered](https://open.spotify.com/track/2yVKRJ026MOBElS97mp2Xl) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Essential Dean Martin](https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3) | 3:07 |
 | 15 | [Kriminal tango](https://open.spotify.com/track/50Z9lMvcnkHuPodeL6XY53) | [Marino Marini](https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo) | [Guaglione](https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc) | 2:44 |
 | 16 | [Ma l'amore no](https://open.spotify.com/track/33dcDLgUPZr3jvUuYMxANH) | [Alberto Rabagliati](https://open.spotify.com/artist/3zH8fBlRRDQl4fBjU9Hgra) | [Rarity Music Pop, Vol\. 300 \(Giorgio Gaslini presenta Alberto Rabagliati\)](https://open.spotify.com/album/01kBWFi4Gaaw4cOKgB6Hui) | 3:57 |
-| 17 | [Take My Heart \- Remastered](https://open.spotify.com/track/5tg20ochJcAlpj25GM5ZWx) | [Al Martino](https://open.spotify.com/artist/5MAX7FhPRj2T2e7FL0nPWM) | [Crooner \(Remastered\)](https://open.spotify.com/album/7pgcJ7XAmi0a41S0l7LKdL) | 3:09 |
+| 17 | [Take My Heart \- Remastered](https://open.spotify.com/track/5tg20ochJcAlpj25GM5ZWx) | [Al Martino](https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6) | [Crooner \(Remastered\)](https://open.spotify.com/album/7pgcJ7XAmi0a41S0l7LKdL) | 3:09 |
 | 18 | [Polvere](https://open.spotify.com/track/1ZhJn46BIvPpZcSqNEWDKX) | [Giorgio Consolini](https://open.spotify.com/artist/3YJLfJ2gMM7sd2cZnsHKKS) | [Giorgio Consolini](https://open.spotify.com/album/1ZtMtYMAmH2oopEA6dkCWr) | 3:39 |
 | 19 | [Guarda che luna](https://open.spotify.com/track/79g5dcc87vtTw5RkwkDs4L) | [Fred Buscaglione](https://open.spotify.com/artist/2OZgYaqlFRoRyycKkIvkSa) | [Che Bambola!](https://open.spotify.com/album/2dznTOXzQCpmzkTwLmt9fh) | 2:24 |
 | 20 | [In Times Like These](https://open.spotify.com/track/1O3XkvdYvLgmvUhAqtTPCR) | [Julius La Rosa](https://open.spotify.com/artist/1yhv5zp6IYFYpboAm7Fdlm) | [On The Sunny Side](https://open.spotify.com/album/5UwXs3lYUnJJjOMdvxKfty) | 2:46 |

@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Agoney.",
-  "num_followers": 18254,
+  "num_followers": 18263,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
-        "name": "Conexi\u00f3n",
-        "url": "https://open.spotify.com/album/4hGUrh2bJTWGAEW5C5hG7e"
-      },
-      "artists": [
-        {
-          "name": "AXHE",
-          "url": "https://open.spotify.com/artist/0Yd11KNwQqqx6kEmuuSfEe"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Conexi\u00f3n",
-      "url": "https://open.spotify.com/track/4cyWCJlJmLB5C4ArEC9KhN"
-    },
-    {
-      "added_at": "2024-07-03 08:00:50",
-      "album": {
         "name": "DIFERENTE",
         "url": "https://open.spotify.com/album/6cw324kDm9qT2TzAZdxC1R"
       },
@@ -171,6 +155,26 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
+        "name": "3 AMIGAS TUYAS",
+        "url": "https://open.spotify.com/album/4ifITgh9n4HwL3kwAFqNlv"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        },
+        {
+          "name": "EDDI CIRCA",
+          "url": "https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa"
+        }
+      ],
+      "duration_ms": 184152,
+      "name": "3 AMIGAS TUYAS",
+      "url": "https://open.spotify.com/track/45fYscRYuzAX226WjBnE3S"
+    },
+    {
+      "added_at": "2024-07-03 08:00:50",
+      "album": {
         "name": "Sue\u00f1o",
         "url": "https://open.spotify.com/album/7z7pDIZ6snsyjddw5oi3bB"
       },
@@ -183,6 +187,22 @@
       "duration_ms": 187428,
       "name": "Sue\u00f1o",
       "url": "https://open.spotify.com/track/2uEchvRtFmNNvTiQQSi2am"
+    },
+    {
+      "added_at": "2024-07-03 08:00:50",
+      "album": {
+        "name": "Conexi\u00f3n",
+        "url": "https://open.spotify.com/album/4hGUrh2bJTWGAEW5C5hG7e"
+      },
+      "artists": [
+        {
+          "name": "AXHE",
+          "url": "https://open.spotify.com/artist/0Yd11KNwQqqx6kEmuuSfEe"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/4cyWCJlJmLB5C4ArEC9KhN"
     },
     {
       "added_at": "2024-07-03 08:00:50",
@@ -211,22 +231,6 @@
       "duration_ms": 152156,
       "name": "Special K",
       "url": "https://open.spotify.com/track/0jsVPYRgzAFGyQAXihhZnC"
-    },
-    {
-      "added_at": "2024-07-03 08:00:50",
-      "album": {
-        "name": "Todos Miran",
-        "url": "https://open.spotify.com/album/69utMBJtVih7ERUx75s4dx"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        }
-      ],
-      "duration_ms": 147222,
-      "name": "Todos Miran",
-      "url": "https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M"
     },
     {
       "added_at": "2024-07-03 08:00:50",
@@ -287,22 +291,34 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
-        "name": "3 AMIGAS TUYAS",
-        "url": "https://open.spotify.com/album/4ifITgh9n4HwL3kwAFqNlv"
+        "name": "ADICCI\u00d3N",
+        "url": "https://open.spotify.com/album/3Gl9bJ1Q1w7vzQIfoL6qiU"
       },
       "artists": [
         {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
-        },
-        {
-          "name": "EDDI CIRCA",
-          "url": "https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa"
+          "name": "BR\u00dcNNE ROMEO",
+          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
         }
       ],
-      "duration_ms": 184152,
-      "name": "3 AMIGAS TUYAS",
-      "url": "https://open.spotify.com/track/45fYscRYuzAX226WjBnE3S"
+      "duration_ms": 177396,
+      "name": "ADICCI\u00d3N",
+      "url": "https://open.spotify.com/track/5iG9KI3KT20unk2NwfToWi"
+    },
+    {
+      "added_at": "2024-07-03 08:00:50",
+      "album": {
+        "name": "Todos Miran",
+        "url": "https://open.spotify.com/album/69utMBJtVih7ERUx75s4dx"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        }
+      ],
+      "duration_ms": 147222,
+      "name": "Todos Miran",
+      "url": "https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M"
     },
     {
       "added_at": "2024-07-03 08:00:50",
@@ -323,22 +339,6 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
-        "name": "Morreo (feat. The Calorettes)",
-        "url": "https://open.spotify.com/album/38ESuk2hs3XlGRWfat9CRI"
-      },
-      "artists": [
-        {
-          "name": "Ojete Calor",
-          "url": "https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x"
-        }
-      ],
-      "duration_ms": 193100,
-      "name": "Morreo (feat. The Calorettes)",
-      "url": "https://open.spotify.com/track/1RhBu9BaN4GAUZbAPbuKhP"
-    },
-    {
-      "added_at": "2024-07-03 08:00:50",
-      "album": {
         "name": "Nada Importa Tanto",
         "url": "https://open.spotify.com/album/5amLYy53WJ55Ga58lgv1w4"
       },
@@ -355,18 +355,18 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
-        "name": "ADICCI\u00d3N",
-        "url": "https://open.spotify.com/album/3Gl9bJ1Q1w7vzQIfoL6qiU"
+        "name": "Morreo (feat. The Calorettes)",
+        "url": "https://open.spotify.com/album/38ESuk2hs3XlGRWfat9CRI"
       },
       "artists": [
         {
-          "name": "BR\u00dcNNE ROMEO",
-          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
+          "name": "Ojete Calor",
+          "url": "https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x"
         }
       ],
-      "duration_ms": 177396,
-      "name": "ADICCI\u00d3N",
-      "url": "https://open.spotify.com/track/5iG9KI3KT20unk2NwfToWi"
+      "duration_ms": 193100,
+      "name": "Morreo (feat. The Calorettes)",
+      "url": "https://open.spotify.com/track/1RhBu9BaN4GAUZbAPbuKhP"
     },
     {
       "added_at": "2024-07-03 08:00:50",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
-        "name": "estonovabien",
-        "url": "https://open.spotify.com/album/3v1KsYYv3bgQJujQqPuDuW"
-      },
-      "artists": [
-        {
-          "name": "Safree",
-          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
-        }
-      ],
-      "duration_ms": 161354,
-      "name": "estonovabien",
-      "url": "https://open.spotify.com/track/0BIS2dEAuLOxAyfC1lvzsD"
-    },
-    {
-      "added_at": "2024-07-03 08:00:50",
-      "album": {
         "name": "En el cielo",
         "url": "https://open.spotify.com/album/7sylEHh3tp4orTqSG2fWaI"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 143620,
       "name": "En el cielo",
       "url": "https://open.spotify.com/track/6MDbBn6KBYLh0uN90wbRJ6"
+    },
+    {
+      "added_at": "2024-07-03 08:00:50",
+      "album": {
+        "name": "estonovabien",
+        "url": "https://open.spotify.com/album/3v1KsYYv3bgQJujQqPuDuW"
+      },
+      "artists": [
+        {
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+        }
+      ],
+      "duration_ms": 161354,
+      "name": "estonovabien",
+      "url": "https://open.spotify.com/track/0BIS2dEAuLOxAyfC1lvzsD"
     },
     {
       "added_at": "2024-07-03 08:00:50",
@@ -523,26 +523,18 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
-        "name": "Me Gustas Demasiado - Remix",
-        "url": "https://open.spotify.com/album/192BQCY2BJGJtpNAuaJLQc"
+        "name": "Coraz\u00f3n De Cerdo Con Ginseng Al Vapor",
+        "url": "https://open.spotify.com/album/3a2ZZYOBT3IjMSJ6Gd4LSn"
       },
       "artists": [
         {
-          "name": "Joanna Crass",
-          "url": "https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD"
-        },
-        {
-          "name": "Aida Redru",
-          "url": "https://open.spotify.com/artist/3Xoz7YMI4DBfoEJYVWc0JJ"
-        },
-        {
-          "name": "Zeper",
-          "url": "https://open.spotify.com/artist/3tNfCak31ds75TVqS3wEIL"
+          "name": "PUTOCHINOMARIC\u00d3N",
+          "url": "https://open.spotify.com/artist/6Fyalbcq6ADX28ADcWlQgf"
         }
       ],
-      "duration_ms": 161351,
-      "name": "Me Gustas Demasiado - Remix",
-      "url": "https://open.spotify.com/track/0NXhi0ibdZ0lk5JT6kjfgw"
+      "duration_ms": 140666,
+      "name": "Gente De Mierda",
+      "url": "https://open.spotify.com/track/3nUHxleuIMVyXLtc2TQBbl"
     },
     {
       "added_at": "2024-07-03 08:00:50",
@@ -563,22 +555,6 @@
       "duration_ms": 190588,
       "name": "Resaca",
       "url": "https://open.spotify.com/track/0kB41opCLgtqDI4llb9s30"
-    },
-    {
-      "added_at": "2024-07-03 08:00:50",
-      "album": {
-        "name": "Coraz\u00f3n De Cerdo Con Ginseng Al Vapor",
-        "url": "https://open.spotify.com/album/3a2ZZYOBT3IjMSJ6Gd4LSn"
-      },
-      "artists": [
-        {
-          "name": "PUTOCHINOMARIC\u00d3N",
-          "url": "https://open.spotify.com/artist/6Fyalbcq6ADX28ADcWlQgf"
-        }
-      ],
-      "duration_ms": 140666,
-      "name": "Gente De Mierda",
-      "url": "https://open.spotify.com/track/3nUHxleuIMVyXLtc2TQBbl"
     },
     {
       "added_at": "2024-07-03 08:00:50",
@@ -675,6 +651,30 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
+        "name": "Me Gustas Demasiado - Remix",
+        "url": "https://open.spotify.com/album/192BQCY2BJGJtpNAuaJLQc"
+      },
+      "artists": [
+        {
+          "name": "Joanna Crass",
+          "url": "https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD"
+        },
+        {
+          "name": "Aida Redru",
+          "url": "https://open.spotify.com/artist/3Xoz7YMI4DBfoEJYVWc0JJ"
+        },
+        {
+          "name": "Zeper",
+          "url": "https://open.spotify.com/artist/3tNfCak31ds75TVqS3wEIL"
+        }
+      ],
+      "duration_ms": 161351,
+      "name": "Me Gustas Demasiado - Remix",
+      "url": "https://open.spotify.com/track/0NXhi0ibdZ0lk5JT6kjfgw"
+    },
+    {
+      "added_at": "2024-07-03 08:00:50",
+      "album": {
         "name": "Collar Fular",
         "url": "https://open.spotify.com/album/1JuSedkicPVexihsz6qHuP"
       },
@@ -687,6 +687,22 @@
       "duration_ms": 132680,
       "name": "Collar Fular",
       "url": "https://open.spotify.com/track/4s2eThXBozqzc54PX5ZfvJ"
+    },
+    {
+      "added_at": "2024-07-03 08:00:50",
+      "album": {
+        "name": "LA LUNA",
+        "url": "https://open.spotify.com/album/3ETnGzTDjhnrVudUbcc4TG"
+      },
+      "artists": [
+        {
+          "name": "SAZZA",
+          "url": "https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe"
+        }
+      ],
+      "duration_ms": 117777,
+      "name": "LA LUNA",
+      "url": "https://open.spotify.com/track/0Oe5FDm7zS2cz4WDRW2erw"
     },
     {
       "added_at": "2024-07-03 08:00:50",
@@ -707,18 +723,18 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
-        "name": "LA LUNA",
-        "url": "https://open.spotify.com/album/3ETnGzTDjhnrVudUbcc4TG"
+        "name": "Confieso",
+        "url": "https://open.spotify.com/album/2ySp1RZ1gkmH1aVIFkR2sU"
       },
       "artists": [
         {
-          "name": "SAZZA",
-          "url": "https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe"
+          "name": "K!ngdom",
+          "url": "https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4"
         }
       ],
-      "duration_ms": 117777,
-      "name": "LA LUNA",
-      "url": "https://open.spotify.com/track/0Oe5FDm7zS2cz4WDRW2erw"
+      "duration_ms": 180481,
+      "name": "Confieso",
+      "url": "https://open.spotify.com/track/0CMhIGS8QEIIq92amMvZCe"
     },
     {
       "added_at": "2024-07-03 08:00:50",
@@ -743,18 +759,18 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
-        "name": "Confieso",
-        "url": "https://open.spotify.com/album/2ySp1RZ1gkmH1aVIFkR2sU"
+        "name": "LAS 12",
+        "url": "https://open.spotify.com/album/6F4y3KOBfxEA2Zs6N5Ztbl"
       },
       "artists": [
         {
-          "name": "K!ngdom",
-          "url": "https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4"
+          "name": "Morreo",
+          "url": "https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d"
         }
       ],
-      "duration_ms": 180481,
-      "name": "Confieso",
-      "url": "https://open.spotify.com/track/0CMhIGS8QEIIq92amMvZCe"
+      "duration_ms": 147895,
+      "name": "LAS 12",
+      "url": "https://open.spotify.com/track/1dXGCiV6HBjCqsp7lzioJi"
     },
     {
       "added_at": "2024-07-03 08:00:50",
@@ -791,18 +807,18 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
-        "name": "LAS 12",
-        "url": "https://open.spotify.com/album/6F4y3KOBfxEA2Zs6N5Ztbl"
+        "name": "Animalitos",
+        "url": "https://open.spotify.com/album/5JBrDB9iD7huWT5y6LCFPC"
       },
       "artists": [
         {
-          "name": "Morreo",
-          "url": "https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d"
+          "name": "Hidrogenesse",
+          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
         }
       ],
-      "duration_ms": 147895,
-      "name": "LAS 12",
-      "url": "https://open.spotify.com/track/1dXGCiV6HBjCqsp7lzioJi"
+      "duration_ms": 225000,
+      "name": "Disfraz de tigre",
+      "url": "https://open.spotify.com/track/5cME04YK44GYaVeVHMTbdL"
     },
     {
       "added_at": "2024-07-03 08:00:50",
@@ -823,22 +839,6 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
-        "name": "Animalitos",
-        "url": "https://open.spotify.com/album/5JBrDB9iD7huWT5y6LCFPC"
-      },
-      "artists": [
-        {
-          "name": "Hidrogenesse",
-          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Disfraz de tigre",
-      "url": "https://open.spotify.com/track/5cME04YK44GYaVeVHMTbdL"
-    },
-    {
-      "added_at": "2024-07-03 08:00:50",
-      "album": {
         "name": "invisible",
         "url": "https://open.spotify.com/album/5SBLJieZS1BQbNOqTXnQ01"
       },
@@ -851,6 +851,22 @@
       "duration_ms": 189536,
       "name": "invisible",
       "url": "https://open.spotify.com/track/2xhKj6tAJ4g3BzhJR8JZkl"
+    },
+    {
+      "added_at": "2024-07-03 08:00:50",
+      "album": {
+        "name": "Prometo (Edici\u00f3n especial)",
+        "url": "https://open.spotify.com/album/1jLNPWcykNvUNoWBWBPjep"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "No vaya a ser",
+      "url": "https://open.spotify.com/track/3QVP0l1NB4MS0mVXWVuao6"
     },
     {
       "added_at": "2024-07-03 08:00:50",
@@ -887,22 +903,6 @@
       "duration_ms": 236500,
       "name": "TODOS LOS D\u00cdAS",
       "url": "https://open.spotify.com/track/2qTIRmguqQTQaeWbDdeH31"
-    },
-    {
-      "added_at": "2024-07-03 08:00:50",
-      "album": {
-        "name": "Prometo (Edici\u00f3n especial)",
-        "url": "https://open.spotify.com/album/1jLNPWcykNvUNoWBWBPjep"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "No vaya a ser",
-      "url": "https://open.spotify.com/track/3QVP0l1NB4MS0mVXWVuao6"
     },
     {
       "added_at": "2024-07-03 08:00:50",

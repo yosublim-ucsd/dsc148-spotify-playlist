@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,219 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,261 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,17 +26,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 16 | [De Fiesta \(feat\. Alex Zurdo\)](https://open.spotify.com/track/2N81uFWhHCIKAdTaPr99m4) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Corazón Abierto](https://open.spotify.com/album/1fPigYK8EMFTArMvAwvCtR) | 3:18 |
 | 17 | [Te Entrego Mi Corazón](https://open.spotify.com/track/3vjUs4D0CfYuABhwMyG50o) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Te Entrego Mi Corazón](https://open.spotify.com/album/1zthoHj47DANo7hIwf0ZcT) | 3:27 |
 | 18 | [Agua Viva](https://open.spotify.com/track/5SwdX9b2laNcqtfCM4U491) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Tercer Cielo](https://open.spotify.com/album/07810vBHlKJsbSYUesp68P) | 3:39 |
-| 19 | [Sinceridad](https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB) | [Jhonny Rafael](https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 4:28 |
-| 20 | [Sana Nuestra Tierra](https://open.spotify.com/track/6ybmVFm0raojnGUrcHA6P7) | [Yan Rymond](https://open.spotify.com/artist/0Sopxx9Oh7GroU4m6aVa4j) | [Alegria Latina](https://open.spotify.com/album/72A2TVtTvR3QsqSzgUs0nR) | 3:59 |
-| 21 | [Nos Vamos A Gozar](https://open.spotify.com/track/2ZHpcTpOiuHM8tRRsWvyTW) | [El Swing Divino](https://open.spotify.com/artist/47lEsXx9WQW7NP9j8gs2Zk) | [Adorar A Dios](https://open.spotify.com/album/4aOpEMW8mBFw3hS4zPPNQn) | 3:15 |
-| 22 | [Contigo](https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Contigo](https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0) | 3:42 |
-| 23 | [Si Estoy Contigo](https://open.spotify.com/track/2mIoPDYldAD7tctsGmmA45) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Derroche De Amor](https://open.spotify.com/album/6jiDmi9u09NcvLlYUNpSkR) | 4:11 |
-| 24 | [Todo Se Lo Debo a Él \(Version Salsa\)](https://open.spotify.com/track/5GaiKqU00MTXvNTpoAPnyl) | [JerryHernz](https://open.spotify.com/artist/4g5EJ3pOAuYx3euB75HQjT) | [Todo Se Lo Debo a Él \(Version Salsa\)](https://open.spotify.com/album/4SfK0SdbmnPlzdDgTu5Kvl) | 4:08 |
-| 25 | [La Fe Que Dios Me Dió](https://open.spotify.com/track/5HMsPerWX3t7dgzQiRiIzB) | [Cesar Roncallo](https://open.spotify.com/artist/0XiaBeWLxRwCckee0NN9zK) | [La Fe Que Dios Me Dió](https://open.spotify.com/album/18ECiI6oY13SIADC1tEW7K) | 3:18 |
-| 26 | [Bendita Prueba](https://open.spotify.com/track/77Kn707gltWkmNxh1Ab7x9) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [ENERGY](https://open.spotify.com/album/7aEzCDMGy3WeYY2EPPuDv4) | 3:08 |
-| 27 | [Tengo Victoria](https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [De La a a La Z](https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt) | 3:07 |
-| 28 | [MUSIQUITA](https://open.spotify.com/track/3ER6jbaDSO5APJynmLar9p) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [MUSIQUITA](https://open.spotify.com/album/3ZdjAPnoi7yaaQiDcUz3iT) | 2:47 |
-| 29 | [Gozo Pegajoso](https://open.spotify.com/track/3RkGiByGICC8vRPEYClNPr) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a) | [A los Brazos de Papá](https://open.spotify.com/album/1aTdMVEztZQbAJbRr9VqzC) | 3:19 |
+| 19 | [Nada Sin Ti](https://open.spotify.com/track/7JNvaZ6ODRUsPi9R4C5fCP) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a) | [Buenas Noticias](https://open.spotify.com/album/3nldjJssBc5auj4DDZZC6F) | 3:05 |
+| 20 | [Sinceridad](https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB) | [Jhonny Rafael](https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 4:28 |
+| 21 | [Sana Nuestra Tierra](https://open.spotify.com/track/6ybmVFm0raojnGUrcHA6P7) | [Yan Rymond](https://open.spotify.com/artist/0Sopxx9Oh7GroU4m6aVa4j) | [Alegria Latina](https://open.spotify.com/album/72A2TVtTvR3QsqSzgUs0nR) | 3:59 |
+| 22 | [Nos Vamos A Gozar](https://open.spotify.com/track/2ZHpcTpOiuHM8tRRsWvyTW) | [El Swing Divino](https://open.spotify.com/artist/47lEsXx9WQW7NP9j8gs2Zk) | [Adorar A Dios](https://open.spotify.com/album/4aOpEMW8mBFw3hS4zPPNQn) | 3:15 |
+| 23 | [Contigo](https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Contigo](https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0) | 3:42 |
+| 24 | [Si Estoy Contigo](https://open.spotify.com/track/2mIoPDYldAD7tctsGmmA45) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Derroche De Amor](https://open.spotify.com/album/6jiDmi9u09NcvLlYUNpSkR) | 4:11 |
+| 25 | [Todo Se Lo Debo a Él \(Version Salsa\)](https://open.spotify.com/track/5GaiKqU00MTXvNTpoAPnyl) | [JerryHernz](https://open.spotify.com/artist/4g5EJ3pOAuYx3euB75HQjT) | [Todo Se Lo Debo a Él \(Version Salsa\)](https://open.spotify.com/album/4SfK0SdbmnPlzdDgTu5Kvl) | 4:08 |
+| 26 | [La Fe Que Dios Me Dió](https://open.spotify.com/track/5HMsPerWX3t7dgzQiRiIzB) | [Cesar Roncallo](https://open.spotify.com/artist/0XiaBeWLxRwCckee0NN9zK) | [La Fe Que Dios Me Dió](https://open.spotify.com/album/18ECiI6oY13SIADC1tEW7K) | 3:18 |
+| 27 | [Bendita Prueba](https://open.spotify.com/track/77Kn707gltWkmNxh1Ab7x9) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [ENERGY](https://open.spotify.com/album/7aEzCDMGy3WeYY2EPPuDv4) | 3:08 |
+| 28 | [Tengo Victoria](https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [De La a a La Z](https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt) | 3:07 |
+| 29 | [MUSIQUITA](https://open.spotify.com/track/3ER6jbaDSO5APJynmLar9p) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [MUSIQUITA](https://open.spotify.com/album/3ZdjAPnoi7yaaQiDcUz3iT) | 2:47 |
 | 30 | [Esta Fiesta](https://open.spotify.com/track/1E9HwdcZoZ9NZGf2gPM8u2) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Favor y Gracia](https://open.spotify.com/album/70RxgRw7Fije42VXWsUH1C) | 3:44 |
 | 31 | [Me Enamoré](https://open.spotify.com/track/4JsxCbj5Umjs9tdu2dIBBF) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Pensaba en Ti](https://open.spotify.com/album/72BcCE5UVXtDj1Ys0mJ0yU) | 3:39 |
 | 32 | [Río](https://open.spotify.com/track/4thwYNk2KbaNq8Dv70T9lP) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Río](https://open.spotify.com/album/3Vffp6zBqad0Lvs73NvXmj) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 49 | [Vuelvo a Nacer](https://open.spotify.com/track/495suImoiM8vw1AoSry8ct) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [En Letra de Otro](https://open.spotify.com/album/4lsdX5CimNaabkZUxX6rx8) | 2:21 |
 | 50 | [Diez Mil Razones](https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b) | [Zander](https://open.spotify.com/artist/0gMR4IlYgNQHl7smugxuWN) | [Diez Mil Razones](https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H) | 3:00 |
 
-Snapshot ID: `ZpnkwAAAAABCTkIXuQ4CTc71Lw7iEfHr`
+Snapshot ID: `ZqMfQAAAAABRyFnAEKm//bPHsAZ2sh/t`

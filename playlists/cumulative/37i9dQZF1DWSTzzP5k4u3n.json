@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta suomirockia. Kannessa Pate Mustaj\u00e4rvi.",
+  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta suomirockia. Kannessa Ikuinenkes\u00e4.",
   "name": "Suomirock t\u00e4n\u00e4\u00e4n",
   "tracks": [
     {
@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "Elossa Viel\u00e4",
+        "url": "https://open.spotify.com/album/3ljk65mDN3sUuBZKYKusPH"
+      },
+      "artists": [
+        {
+          "name": "Archie Cruz",
+          "url": "https://open.spotify.com/artist/1Ltz58a2iP9G2cOpBmaCpJ"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246729,
+      "name": "Elossa Viel\u00e4",
+      "url": "https://open.spotify.com/track/656tNmVsfmM9TcLms3Msxn"
+    },
+    {
+      "album": {
         "name": "El\u00e4t Vaan",
         "url": "https://open.spotify.com/album/4zTGHW1H5IxyUSYGcRmj6W"
       },
@@ -388,6 +406,24 @@
       "duration_ms": 182756,
       "name": "H\u00e4t\u00e4huuto",
       "url": "https://open.spotify.com/track/5MkDC43Ovq9iY4IHuiSM9P"
+    },
+    {
+      "album": {
+        "name": "Intergalaktinen Ongelma",
+        "url": "https://open.spotify.com/album/4m6zoOWQOCeAIRICW3ywul"
+      },
+      "artists": [
+        {
+          "name": "Max Olavi & El\u00e4v\u00e4t Kuvat",
+          "url": "https://open.spotify.com/artist/280wSk35Poeg85y2oxb5xe"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204367,
+      "name": "Intergalaktinen Ongelma",
+      "url": "https://open.spotify.com/track/60MUs1cHK4yvXHJp8OfsjX"
     },
     {
       "album": {
@@ -1109,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "Pienest\u00e4 pit\u00e4en",
+        "url": "https://open.spotify.com/album/3jYGchiScibECdKPEdmKe5"
+      },
+      "artists": [
+        {
+          "name": "Nelosolut",
+          "url": "https://open.spotify.com/artist/1q7jg4Jd7SdYV1rGxr8RoF"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188114,
+      "name": "Pienest\u00e4 pit\u00e4en",
+      "url": "https://open.spotify.com/track/5xhQbEDkYQFHTltAZmE1gS"
+    },
+    {
+      "album": {
         "name": "Pirkko",
         "url": "https://open.spotify.com/album/2DT3weK3gCpDrpSc8sTphT"
       },
@@ -1142,6 +1196,24 @@
       "duration_ms": 214593,
       "name": "Pirulle turpaan",
       "url": "https://open.spotify.com/track/5ZTyPmCm2Bq8EH1lHupnsU"
+    },
+    {
+      "album": {
+        "name": "Pisamat / Maantien maku",
+        "url": "https://open.spotify.com/album/6law4QXYuz3zJOhaWP5qgy"
+      },
+      "artists": [
+        {
+          "name": "KUULOVAURIO",
+          "url": "https://open.spotify.com/artist/27ks92Dr0C7o3fJDUwzqoJ"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217685,
+      "name": "Pisamat",
+      "url": "https://open.spotify.com/track/4i4d9x2Bw6Zv1xPHRomJdY"
     },
     {
       "album": {

@@ -6842,7 +6842,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-23",
+      "date_removed": null,
       "duration_ms": 166384,
       "name": "Creola",
       "url": "https://open.spotify.com/track/40GuJIybQew4lWrTernb4D"
@@ -7108,6 +7108,36 @@
       "duration_ms": 148285,
       "name": "CYBORG",
       "url": "https://open.spotify.com/track/0Bxgi89GhLVSbNNScm6iJ4"
+    },
+    {
+      "album": {
+        "name": "C\u0102PITAN",
+        "url": "https://open.spotify.com/album/36tJXOX1DLnVvDRoLfcBpM"
+      },
+      "artists": [
+        {
+          "name": "Marko Glass",
+          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
+        },
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "Bvcovia",
+          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
+        },
+        {
+          "name": "RENVT\u00d8",
+          "url": "https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209005,
+      "name": "C\u0102PITAN",
+      "url": "https://open.spotify.com/track/00vWmTHP6E63KXqIdbgsm9"
     },
     {
       "album": {
@@ -9336,7 +9366,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 129000,
       "name": "Emirate",
       "url": "https://open.spotify.com/track/65uHYuqIZqueZNG6DbpSJi"
@@ -17348,7 +17378,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -27204,7 +27234,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-25",
+      "date_removed": null,
       "duration_ms": 163199,
       "name": "Sistem Otoman",
       "url": "https://open.spotify.com/track/0FXdKliEXDHnIDnCqJu3Xa"
@@ -29712,7 +29742,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 128181,
       "name": "Tati, vreau",
       "url": "https://open.spotify.com/track/7hoILhEoePHXh6qTw5H0Fe"
@@ -32753,6 +32783,28 @@
     },
     {
       "album": {
+        "name": "Te vreau",
+        "url": "https://open.spotify.com/album/6ZNZZIjkFNiIv3xGWyCjDR"
+      },
+      "artists": [
+        {
+          "name": "Lele",
+          "url": "https://open.spotify.com/artist/1vVemTBdqWTcJ0zCc0Oa6G"
+        },
+        {
+          "name": "Manele VTM",
+          "url": "https://open.spotify.com/artist/5gxPLBxkeuP0I3Ey17rSba"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151363,
+      "name": "Vocea ta",
+      "url": "https://open.spotify.com/track/68E03oskzRz2OUhsiSwOq5"
+    },
+    {
+      "album": {
         "name": "Vocea ta",
         "url": "https://open.spotify.com/album/1KOUIh9JuOqVVD4LXu5brd"
       },
@@ -32768,7 +32820,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 151363,
       "name": "Vocea ta",
       "url": "https://open.spotify.com/track/7CMacubcnXb2QehV6HF4ew"

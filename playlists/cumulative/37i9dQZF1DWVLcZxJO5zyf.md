@@ -2,7 +2,7 @@
 
 ### [Pop Brasil](https://open.spotify.com/playlist/37i9dQZF1DWVLcZxJO5zyf)
 
-> Ouça todas as novidades e hits do pop br aqui e agora! Foto: JÃO
+> Ouça todas as novidades e hits do pop br aqui e agora! Foto: Liniker
 
 307 songs - 14 hr 30 min
 

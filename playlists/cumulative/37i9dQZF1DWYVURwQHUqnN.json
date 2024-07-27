@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Ninho x Niska",
+  "description": "Photo : GIMS",
   "name": "Best Life",
   "tracks": [
     {
@@ -1117,6 +1117,24 @@
     },
     {
       "album": {
+        "name": "Depuis le temps (Pour la miff)",
+        "url": "https://open.spotify.com/album/1zms2t58lsrP5iyn1twb1J"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149126,
+      "name": "J'suis en ind\u00e9",
+      "url": "https://open.spotify.com/track/3OBdpvFPdJptQiwhh0mzli"
+    },
+    {
+      "album": {
         "name": "Je remplace mes exs",
         "url": "https://open.spotify.com/album/1JCfwbRtYqlTF6sQChqcuM"
       },
@@ -1556,7 +1574,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 188571,
       "name": "MAMACITA",
       "url": "https://open.spotify.com/track/3qxnil0JyAWGS3vWxJyXEi"
@@ -2084,7 +2102,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 182000,
       "name": "Parle Pas",
       "url": "https://open.spotify.com/track/2yNX0x2kAXhfjWvaTYCYN5"
@@ -2380,7 +2398,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 163636,
       "name": "Remontada (feat. Leto)",
       "url": "https://open.spotify.com/track/1uLESz9GPo9f3kKyf9Us8M"
@@ -2768,6 +2786,24 @@
       "duration_ms": 180378,
       "name": "Si Si",
       "url": "https://open.spotify.com/track/5iFu4sGrA7CqC6TYXn8sKc"
+    },
+    {
+      "album": {
+        "name": "SOIS PAS TIMIDE",
+        "url": "https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165978,
+      "name": "SOIS PAS TIMIDE",
+      "url": "https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo"
     },
     {
       "album": {
@@ -3392,6 +3428,28 @@
       "duration_ms": 159318,
       "name": "\u00c7a traine la night",
       "url": "https://open.spotify.com/track/42JLHMdXdyTPFDAHGlzPcW"
+    },
+    {
+      "album": {
+        "name": "\u00c7a va",
+        "url": "https://open.spotify.com/album/11mdnx1wuRaF9WeIADDU6X"
+      },
+      "artists": [
+        {
+          "name": "Kaneki",
+          "url": "https://open.spotify.com/artist/6y9D9asiDbnfHSZETC6pkZ"
+        },
+        {
+          "name": "DJ SYT",
+          "url": "https://open.spotify.com/artist/666wjebcUXtAhPErZc1b7l"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169613,
+      "name": "\u00c7a va",
+      "url": "https://open.spotify.com/track/0SR1xICPYYCFTAv88TyTi9"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN"

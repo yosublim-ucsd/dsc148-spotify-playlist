@@ -2276,7 +2276,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 232333,
       "name": "Mum Tells Me",
       "url": "https://open.spotify.com/track/1RSwoPbwetdrVlTzBZ6GHV"
@@ -3316,6 +3316,24 @@
       "duration_ms": 113800,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/2SaJlEH7J0U2L03jCf7ojM"
+    },
+    {
+      "album": {
+        "name": "Spectra",
+        "url": "https://open.spotify.com/album/4tKsNaDhTdpYYbmjv4qp5b"
+      },
+      "artists": [
+        {
+          "name": "Mehmet Aslan",
+          "url": "https://open.spotify.com/artist/4d8OiNWwKaA6MBPq0K06Xa"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265238,
+      "name": "Spectra",
+      "url": "https://open.spotify.com/track/6KEmE0HgxKzIxXegmqNj1j"
     },
     {
       "album": {

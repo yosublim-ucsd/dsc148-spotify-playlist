@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44231,
+  "num_followers": 44236,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZhmKxJCRF3UPscNASU6YEFHj4UZ6m",
+  "snapshot_id": "AAAZiLJ+qyF0A8ir2XR0d5dnsp2GmuEW",
   "tracks": [
+    {
+      "added_at": "2024-07-26 17:00:26",
+      "album": {
+        "name": "64 Impala",
+        "url": "https://open.spotify.com/album/1nIIfKcs5sJzuCoOu2zacs"
+      },
+      "artists": [
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        },
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "64 Impala",
+      "url": "https://open.spotify.com/track/52w9GCt9IeQU8R7WhHrmXi"
+    },
+    {
+      "added_at": "2024-07-26 17:00:43",
+      "album": {
+        "name": "MOON",
+        "url": "https://open.spotify.com/album/77E1Q1IxMPpC96tLpXzrvy"
+      },
+      "artists": [
+        {
+          "name": "Burak Yeter",
+          "url": "https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI"
+        },
+        {
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+        }
+      ],
+      "duration_ms": 207871,
+      "name": "MOON",
+      "url": "https://open.spotify.com/track/0wsPWksjRwQkYofsre9rMD"
+    },
     {
       "added_at": "2024-07-19 14:42:58",
       "album": {

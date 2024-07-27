@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Cherry Jenna",
+        "url": "https://open.spotify.com/album/2VHfRNDamToZvkCwOJPJeX"
+      },
+      "artists": [
+        {
+          "name": "ISA\u00cf",
+          "url": "https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161600,
+      "name": "Cherry Jenna",
+      "url": "https://open.spotify.com/track/0h24UrPhMr4JfpedGFYCJ7"
+    },
+    {
+      "album": {
         "name": "Child Of Sin",
         "url": "https://open.spotify.com/album/1GUJ68BpXPPp98eAMzLT6N"
       },
@@ -1388,7 +1406,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 257618,
       "name": "Lila",
       "url": "https://open.spotify.com/track/7KEYsxeFYN0ruMY6sGNdtf"

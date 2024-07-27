@@ -1,36 +1,56 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover :  Krishnam Pranaya Sakhi\n",
-  "num_followers": 58001,
+  "num_followers": 58058,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zp+mtwAAAAAYTWmtWhJhT7bwQxEzkmTC",
+  "snapshot_id": "ZqNk3QAAAAAoIdUxhJjbzSsFdeEzfNmQ",
   "tracks": [
     {
-      "added_at": "2024-07-19 09:19:17",
+      "added_at": "2024-07-26 08:56:15",
       "album": {
-        "name": "Baby Paisa Lootu Hai (From \"A Day In Dollarspete\")",
-        "url": "https://open.spotify.com/album/27AJjlrPtGLB5UpoJknrC5"
+        "name": "Parapancha Gama Gama (From \"Powder\")",
+        "url": "https://open.spotify.com/album/4V90hQiH9HU0zr3dMXRQYa"
       },
       "artists": [
         {
-          "name": "Usha Uthup",
-          "url": "https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa"
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
         },
         {
-          "name": "Suraj Jois",
-          "url": "https://open.spotify.com/artist/27GwuwHp0LlzXjAyZYniSp"
-        },
-        {
-          "name": "Sanjay Malavalli",
-          "url": "https://open.spotify.com/artist/1EOdakhpMogeWUoRiTN2ye"
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
         }
       ],
-      "duration_ms": 193660,
-      "name": "Baby Paisa Lootu Hai (From \"A Day In Dollarspete\")",
-      "url": "https://open.spotify.com/track/4DXkV2DvUBXdXs8j49oBgF"
+      "duration_ms": 150320,
+      "name": "Parapancha Gama Gama (From \"Powder\")",
+      "url": "https://open.spotify.com/track/6QuKhsfpCh54jrPphwdGyV"
+    },
+    {
+      "added_at": "2024-07-26 08:57:01",
+      "album": {
+        "name": "Aho Vikramaarka (Title Track) [From \"Aho Vikramaarka\"]",
+        "url": "https://open.spotify.com/album/7c5eochu9B4ezgXqL18bKY"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        },
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        }
+      ],
+      "duration_ms": 155094,
+      "name": "Aho Vikramaarka (Title Track) - From \"Aho Vikramaarka\", Kannada",
+      "url": "https://open.spotify.com/track/2ZuFo6MalxRN86fpQM2ire"
     },
     {
       "added_at": "2024-07-12 10:14:02",
@@ -57,28 +77,28 @@
       "url": "https://open.spotify.com/track/0LNLgN8Prqzm7OsMO88e3L"
     },
     {
-      "added_at": "2024-07-22 11:19:08",
+      "added_at": "2024-07-25 13:45:31",
       "album": {
-        "name": "Boom Boom Bengaluru (From \"Bheema\")",
-        "url": "https://open.spotify.com/album/0mDaI16FpXKu4JTRYWpqUW"
+        "name": "Ilege Banda Maleye (From \"Murphy\")",
+        "url": "https://open.spotify.com/album/2Q5t8p5xMgVR0w3SSTD3Sp"
       },
       "artists": [
         {
-          "name": "JG Kumara",
-          "url": "https://open.spotify.com/artist/4VaG1wK323O57snZzj97BM"
+          "name": "Rajat Hegde",
+          "url": "https://open.spotify.com/artist/0KUITfL95SqUmYtOBPjLtW"
         },
         {
-          "name": "Girijana Samagra Abhirudhi Kala Samsthe",
-          "url": "https://open.spotify.com/artist/6kjkFPnd0lcGfD3hQpDWhL"
+          "name": "Keerthan Holla",
+          "url": "https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re"
         },
         {
-          "name": "Charan Raj",
-          "url": "https://open.spotify.com/artist/1ouBpMzbHI9hMAdqZwIheV"
+          "name": "K. S. Harisankar",
+          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
         }
       ],
-      "duration_ms": 191076,
-      "name": "Boom Boom Bengaluru (From \"Bheema\")",
-      "url": "https://open.spotify.com/track/5kZntk7ufc0zeRRygqEzkX"
+      "duration_ms": 272975,
+      "name": "Ilege Banda Maleye (From \"Murphy\")",
+      "url": "https://open.spotify.com/track/0FALclXBdKAAdMBAxtasQ8"
     },
     {
       "added_at": "2024-05-28 10:34:47",
@@ -103,6 +123,30 @@
       "duration_ms": 200374,
       "name": "My Marriage is Fixed (From \"Krishnam Pranaya Sakhi\")",
       "url": "https://open.spotify.com/track/06dfByjLibFeOmhFAy6hLr"
+    },
+    {
+      "added_at": "2024-07-22 11:19:08",
+      "album": {
+        "name": "Boom Boom Bengaluru (From \"Bheema\")",
+        "url": "https://open.spotify.com/album/0mDaI16FpXKu4JTRYWpqUW"
+      },
+      "artists": [
+        {
+          "name": "JG Kumara",
+          "url": "https://open.spotify.com/artist/4VaG1wK323O57snZzj97BM"
+        },
+        {
+          "name": "Girijana Samagra Abhirudhi Kala Samsthe",
+          "url": "https://open.spotify.com/artist/6kjkFPnd0lcGfD3hQpDWhL"
+        },
+        {
+          "name": "Charan Raj",
+          "url": "https://open.spotify.com/artist/1ouBpMzbHI9hMAdqZwIheV"
+        }
+      ],
+      "duration_ms": 191076,
+      "name": "Boom Boom Bengaluru (From \"Bheema\")",
+      "url": "https://open.spotify.com/track/5kZntk7ufc0zeRRygqEzkX"
     },
     {
       "added_at": "2024-07-23 11:11:02",
@@ -155,6 +199,30 @@
       "duration_ms": 154161,
       "name": "Run Run Run Chidambara - From \"Chef Chidambara\"",
       "url": "https://open.spotify.com/track/0we0kmHmr1si80X8jxLZgc"
+    },
+    {
+      "added_at": "2024-07-19 09:19:17",
+      "album": {
+        "name": "Baby Paisa Lootu Hai (From \"A Day In Dollarspete\")",
+        "url": "https://open.spotify.com/album/27AJjlrPtGLB5UpoJknrC5"
+      },
+      "artists": [
+        {
+          "name": "Usha Uthup",
+          "url": "https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa"
+        },
+        {
+          "name": "Suraj Jois",
+          "url": "https://open.spotify.com/artist/27GwuwHp0LlzXjAyZYniSp"
+        },
+        {
+          "name": "Sanjay Malavalli",
+          "url": "https://open.spotify.com/artist/1EOdakhpMogeWUoRiTN2ye"
+        }
+      ],
+      "duration_ms": 193660,
+      "name": "Baby Paisa Lootu Hai (From \"A Day In Dollarspete\")",
+      "url": "https://open.spotify.com/track/4DXkV2DvUBXdXs8j49oBgF"
     },
     {
       "added_at": "2024-07-23 12:48:55",
@@ -1685,22 +1753,6 @@
       "url": "https://open.spotify.com/track/5O2Z8wLp9NY8G7y4NsuhXt"
     },
     {
-      "added_at": "2024-05-31 11:57:08",
-      "album": {
-        "name": "KD Orchestra Glimpse Theme Music (From \"KD\")",
-        "url": "https://open.spotify.com/album/2e6jwIHBDSSaHBfB67Mb4t"
-      },
-      "artists": [
-        {
-          "name": "Arjun Janya",
-          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
-        }
-      ],
-      "duration_ms": 110605,
-      "name": "KD Orchestra Glimpse Theme Music (From \"KD\")",
-      "url": "https://open.spotify.com/track/4yiSR3uXdui7C7S9EGQGXm"
-    },
-    {
       "added_at": "2024-05-29 09:46:03",
       "album": {
         "name": "Nodoka (From \"Pushpa 2 The Rule\") [KANNADA]",
@@ -1749,26 +1801,6 @@
       "url": "https://open.spotify.com/track/0XTj9jLyV9ybEhHvppq4ph"
     },
     {
-      "added_at": "2024-05-22 13:01:10",
-      "album": {
-        "name": "Janatha City (From \"Kotee\")",
-        "url": "https://open.spotify.com/album/40sQiYiBOPHqwnnwYrWja9"
-      },
-      "artists": [
-        {
-          "name": "Vasuki Vaibhav",
-          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
-        },
-        {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
-        }
-      ],
-      "duration_ms": 203403,
-      "name": "Janatha City (From \"Kotee\")",
-      "url": "https://open.spotify.com/track/1gbPXhladfKNsCiMe5U76Q"
-    },
-    {
       "added_at": "2024-05-29 09:44:38",
       "album": {
         "name": "Music Shop Murthy (Kannada)",
@@ -1791,22 +1823,6 @@
       "duration_ms": 138744,
       "name": "Andkondang Agutta",
       "url": "https://open.spotify.com/track/4CaicpU9DNpOQaauNMCwbk"
-    },
-    {
-      "added_at": "2024-05-13 06:18:31",
-      "album": {
-        "name": "Karataka Damanaka (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6pCbSNLoGXzk8LXoge6mil"
-      },
-      "artists": [
-        {
-          "name": "V. Harikrishna",
-          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
-        }
-      ],
-      "duration_ms": 222566,
-      "name": "Baalu Badenekayi (From \"Karataka Damanaka\")",
-      "url": "https://open.spotify.com/track/0vEK02cOCFe09MtUWNap6d"
     }
   ],
   "unique_name": "Latest Kannada",

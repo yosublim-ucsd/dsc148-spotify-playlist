@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Dr. John",
+  "description": "The best jazz new releases. Cover: RAYE",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -2923,6 +2923,28 @@
     },
     {
       "album": {
+        "name": "Dumplings For Dinner",
+        "url": "https://open.spotify.com/album/0SxEIsdwifanmj4Sx3M1Ep"
+      },
+      "artists": [
+        {
+          "name": "After 'Ours",
+          "url": "https://open.spotify.com/artist/7JnGevVxOXRg943gbT6pN0"
+        },
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404162,
+      "name": "Dumplings For Dinner",
+      "url": "https://open.spotify.com/track/6IuI0BO2IDAIgpSaWMCERn"
+    },
+    {
+      "album": {
         "name": "That's it (Oriundo)",
         "url": "https://open.spotify.com/album/7mZ22LtynPQGkYueUtyUxQ"
       },
@@ -3168,7 +3190,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 164293,
       "name": "Esta Tarde Vi Llover",
       "url": "https://open.spotify.com/track/4ehc8FBzTKrBELmUeOYH15"
@@ -4928,6 +4950,28 @@
       "duration_ms": 223060,
       "name": "I Miss You So",
       "url": "https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul"
+    },
+    {
+      "album": {
+        "name": "I Owe You",
+        "url": "https://open.spotify.com/album/329wWrRcWSv5qPtiG1DGF5"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje"
+        },
+        {
+          "name": "Max Mutzke",
+          "url": "https://open.spotify.com/artist/2XTN4g2qnzFw0TG2NHuQxl"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307099,
+      "name": "I Owe You",
+      "url": "https://open.spotify.com/track/1jRbYNxjo2B2wwqRY9ypLt"
     },
     {
       "album": {
@@ -7563,6 +7607,24 @@
     },
     {
       "album": {
+        "name": "Nothing Sweeter",
+        "url": "https://open.spotify.com/album/0WhE3o3yfAJ1OzIM1TFWUR"
+      },
+      "artists": [
+        {
+          "name": "Cosmo Lautaro",
+          "url": "https://open.spotify.com/artist/1KkOEEp4YjvWIWH7NjOu2M"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157417,
+      "name": "Nothing Sweeter",
+      "url": "https://open.spotify.com/track/1FladVQrgLnoiL8hVVLp8i"
+    },
+    {
+      "album": {
         "name": "Nowhere to Hide",
         "url": "https://open.spotify.com/album/0iwbgBKp5FKjItE7bMeocQ"
       },
@@ -7592,7 +7654,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 286298,
       "name": "Nymphea",
       "url": "https://open.spotify.com/track/1HxY3Z3vFws3fTsiOW1utQ"
@@ -8362,7 +8424,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 159715,
       "name": "Pink Panther",
       "url": "https://open.spotify.com/track/0dFShT2MD9OMNyQBUCeJCV"
@@ -9350,7 +9412,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 288720,
       "name": "Soon As I Can",
       "url": "https://open.spotify.com/track/5wNoUMukHWRExLKTiqIKmL"
@@ -9878,6 +9940,28 @@
       "duration_ms": 240352,
       "name": "Talent Stick",
       "url": "https://open.spotify.com/track/7yukuMCiNS57X6amD5MMwe"
+    },
+    {
+      "album": {
+        "name": "Tatomania",
+        "url": "https://open.spotify.com/album/2DphcE8z7lMDmGzYBcwqf9"
+      },
+      "artists": [
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        },
+        {
+          "name": "Royal Quartet",
+          "url": "https://open.spotify.com/artist/3ahem2BMD7mqwGTwKjS1LD"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258281,
+      "name": "Tatomania",
+      "url": "https://open.spotify.com/track/3cl6XYDzDz99aCSGPhKRMI"
     },
     {
       "album": {

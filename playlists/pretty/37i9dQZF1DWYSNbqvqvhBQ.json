@@ -1,12 +1,12 @@
 {
   "description": "De mooiste en nieuwste liedjes van het moment. Cover: Chris Stapleton & Dua Lipa",
-  "num_followers": 475566,
+  "num_followers": 475372,
   "original_name": "Blijf Luisteren!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqC7RwAAAABTtfT+ZS6Ed7Irh4QrbH4m",
+  "snapshot_id": "ZqJiSQAAAACXzRHqsn3NEHQztWKwYF9n",
   "tracks": [
     {
       "added_at": "2024-07-22 12:10:39",
@@ -63,6 +63,22 @@
     {
       "added_at": "2024-07-22 12:10:39",
       "album": {
+        "name": "feelslikeimfallinginlove",
+        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 237803,
+      "name": "feelslikeimfallinginlove",
+      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
+    },
+    {
+      "added_at": "2024-07-22 12:10:39",
+      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s"
       },
@@ -103,6 +119,22 @@
     {
       "added_at": "2024-07-22 12:10:39",
       "album": {
+        "name": "Floating Parade",
+        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 229619,
+      "name": "Floating Parade",
+      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
+    },
+    {
+      "added_at": "2024-07-22 12:10:39",
+      "album": {
         "name": "The Indien",
         "url": "https://open.spotify.com/album/05PciBASYTdhW356MVCSLS"
       },
@@ -119,18 +151,18 @@
     {
       "added_at": "2024-07-22 12:10:39",
       "album": {
-        "name": "feelslikeimfallinginlove",
-        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
+        "name": "Tainted",
+        "url": "https://open.spotify.com/album/1LSZphyIjbXDJ2nTUECsSg"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
         }
       ],
-      "duration_ms": 237803,
-      "name": "feelslikeimfallinginlove",
-      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
+      "duration_ms": 207760,
+      "name": "Stranger I Once Knew",
+      "url": "https://open.spotify.com/track/3qyL58GhGGIEOYfBUGeit9"
     },
     {
       "added_at": "2024-07-22 12:10:39",
@@ -319,22 +351,6 @@
     {
       "added_at": "2024-07-22 12:10:39",
       "album": {
-        "name": "Floating Parade",
-        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 229619,
-      "name": "Floating Parade",
-      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
-    },
-    {
-      "added_at": "2024-07-22 12:10:39",
-      "album": {
         "name": "Angel By My Side",
         "url": "https://open.spotify.com/album/4wFPcdUu0pljx0iDtvaPOz"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 164812,
       "name": "No Kissing on a Sunday",
       "url": "https://open.spotify.com/track/4M7BI4GsetqLGX69OCj1eK"
-    },
-    {
-      "added_at": "2024-07-22 12:10:39",
-      "album": {
-        "name": "Tainted",
-        "url": "https://open.spotify.com/album/1LSZphyIjbXDJ2nTUECsSg"
-      },
-      "artists": [
-        {
-          "name": "Ilse DeLange",
-          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
-        }
-      ],
-      "duration_ms": 207760,
-      "name": "Stranger I Once Knew",
-      "url": "https://open.spotify.com/track/3qyL58GhGGIEOYfBUGeit9"
     },
     {
       "added_at": "2024-07-22 12:10:39",

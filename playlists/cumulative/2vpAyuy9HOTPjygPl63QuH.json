@@ -499,6 +499,28 @@
     },
     {
       "album": {
+        "name": "Action",
+        "url": "https://open.spotify.com/album/1Ade7PPK4KdxDXZty5rDNA"
+      },
+      "artists": [
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        },
+        {
+          "name": "alltalk",
+          "url": "https://open.spotify.com/artist/3zSuUp3NsJBFL21yiLj7VE"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206402,
+      "name": "Action",
+      "url": "https://open.spotify.com/track/3m0mekOOTtDTvODpmLsMQ8"
+    },
+    {
+      "album": {
         "name": "Activate",
         "url": "https://open.spotify.com/album/2Fadnb53Ooc0owSGGvC0MM"
       },
@@ -912,7 +934,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 193593,
       "name": "All About Love",
       "url": "https://open.spotify.com/track/2DcecBsKSPiNGuROpZHNnL"
@@ -1918,7 +1940,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 227272,
       "name": "Back Again",
       "url": "https://open.spotify.com/track/6TySyad9aOP0uDkBET5CDt"
@@ -5285,6 +5307,24 @@
     },
     {
       "album": {
+        "name": "Certified",
+        "url": "https://open.spotify.com/album/5B20rR3NRmnSIRQm0d0zMz"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216093,
+      "name": "Certified",
+      "url": "https://open.spotify.com/track/0IoD88QDxy5GPip9IzlzyI"
+    },
+    {
+      "album": {
         "name": "Change Your Mind",
         "url": "https://open.spotify.com/album/1siB4evreB5HMCxyLlOm62"
       },
@@ -5692,6 +5732,46 @@
       "duration_ms": 180476,
       "name": "Club Language",
       "url": "https://open.spotify.com/track/2ECcZazMo87qVJvA11MgGN"
+    },
+    {
+      "album": {
+        "name": "Coast 2 Coast EP",
+        "url": "https://open.spotify.com/album/3YbFtRW6SLMLaeMvhL433K"
+      },
+      "artists": [
+        {
+          "name": "Goosey",
+          "url": "https://open.spotify.com/artist/76ICZ7nJdYo0EBLYLkH2Tn"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Coast 2 Coast",
+      "url": "https://open.spotify.com/track/6Z4H3Suo2g3tyjpoY35McU"
+    },
+    {
+      "album": {
+        "name": "Coke",
+        "url": "https://open.spotify.com/album/7uJDNHgWZpY7c3lIxgkHp6"
+      },
+      "artists": [
+        {
+          "name": "Buogo",
+          "url": "https://open.spotify.com/artist/5qrsD24E1W2h3LrmvuVu2q"
+        },
+        {
+          "name": "Society Haus",
+          "url": "https://open.spotify.com/artist/0CbuJEApq4vZ01gb6Jh4XE"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173455,
+      "name": "Coke",
+      "url": "https://open.spotify.com/track/1dtfBR7bKKtOHlMFnYVUko"
     },
     {
       "album": {
@@ -7112,7 +7192,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 176190,
       "name": "Dead To Me - Radio Edit",
       "url": "https://open.spotify.com/track/7jAujVlAs9lQXAMGQq7NrL"
@@ -7540,7 +7620,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 333230,
       "name": "Diggy Diggy - Extended Mix",
       "url": "https://open.spotify.com/track/4aOjj06cugRftamxppWms5"
@@ -13947,6 +14027,24 @@
     },
     {
       "album": {
+        "name": "Hangin' On",
+        "url": "https://open.spotify.com/album/1QFag1soFAXSOXGoRQHp5G"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195942,
+      "name": "Hangin' On",
+      "url": "https://open.spotify.com/track/2QBYwDbhKUjOPNylueh8ti"
+    },
+    {
+      "album": {
         "name": "HAUS",
         "url": "https://open.spotify.com/album/2FOyzyqGABxnq59CjzPVz5"
       },
@@ -17810,7 +17908,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 228813,
       "name": "Knee Deep",
       "url": "https://open.spotify.com/track/3dnnLLWLPPXishJRCTOQ2t"
@@ -18164,6 +18262,24 @@
       "duration_ms": 169302,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
+    },
+    {
+      "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/6OOVP9ni5eWMTlL3WHC2Pt"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Antek",
+          "url": "https://open.spotify.com/artist/5LWZRAlKar4joGU0fVqmNf"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201904,
+      "name": "Last Night - Edit",
+      "url": "https://open.spotify.com/track/6ANbGesrQ7znWfcZA0CCDy"
     },
     {
       "album": {
@@ -18885,6 +19001,24 @@
     },
     {
       "album": {
+        "name": "LFO",
+        "url": "https://open.spotify.com/album/02qqZ59ObAC7IcDIE9WfDw"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "LFO",
+      "url": "https://open.spotify.com/track/4WoToF6YK8PFPnykFt8bXI"
+    },
+    {
+      "album": {
         "name": "Liar",
         "url": "https://open.spotify.com/album/0wBCXcUlUV8ifhzuf7bUOv"
       },
@@ -19192,6 +19326,28 @@
       "duration_ms": 252206,
       "name": "Like Me",
       "url": "https://open.spotify.com/track/6IJjV6gI4bKMSXoH2a35bn"
+    },
+    {
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/3DVr50mOqftA84ecEPDZR4"
+      },
+      "artists": [
+        {
+          "name": "Dujak",
+          "url": "https://open.spotify.com/artist/5vNeqphZZDB8susU5xA8mP"
+        },
+        {
+          "name": "Petsoni",
+          "url": "https://open.spotify.com/artist/2PIhpkxjQ1PmS9VYBEBoTU"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/4DJKvWS41hNyXhmeVdGtlN"
     },
     {
       "album": {
@@ -21466,7 +21622,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 224955,
       "name": "Minimal Jack",
       "url": "https://open.spotify.com/track/36gE53mNBFmVGoyFaMUybj"
@@ -25400,7 +25556,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 214335,
       "name": "People In The Back",
       "url": "https://open.spotify.com/track/1rECkEKAEgm9UqKbK4CJxF"
@@ -26496,6 +26652,24 @@
       "duration_ms": 240000,
       "name": "Push",
       "url": "https://open.spotify.com/track/1OX5JCTk6OlnBRMtZuC0HZ"
+    },
+    {
+      "album": {
+        "name": "Push That",
+        "url": "https://open.spotify.com/album/1yCMePPdB5S7c8MKTudZZH"
+      },
+      "artists": [
+        {
+          "name": "Stoley",
+          "url": "https://open.spotify.com/artist/3zhrErhSD05oqdDKVs8UVR"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205278,
+      "name": "Push That",
+      "url": "https://open.spotify.com/track/1xOYdelTPr55KdHr3iiojn"
     },
     {
       "album": {
@@ -28877,6 +29051,24 @@
     },
     {
       "album": {
+        "name": "Selecta",
+        "url": "https://open.spotify.com/album/1glLviwbudeceDBqxQKzdz"
+      },
+      "artists": [
+        {
+          "name": "Trace",
+          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155156,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/6uH0UV20T1Ba38BJgcAjbL"
+    },
+    {
+      "album": {
         "name": "Sent from Above",
         "url": "https://open.spotify.com/album/2QhXu9dzBijWfD7DVTy9Fm"
       },
@@ -29082,6 +29274,32 @@
       "duration_ms": 161250,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/4dqb9iCXJ7f1FrGNCEJukw"
+    },
+    {
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/10UgKtiPB1hUd19qwftSEo"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "GREG (BR)",
+          "url": "https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79"
+        },
+        {
+          "name": "DOUG!",
+          "url": "https://open.spotify.com/artist/4G8g4gL4SfJzPJBcyRz7GS"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208615,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/4AvBChKWjR0mbzcXFMUnWw"
     },
     {
       "album": {
@@ -29816,7 +30034,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 180019,
       "name": "Slimed In",
       "url": "https://open.spotify.com/track/0dhnviNDqGcXwAjrGoNSbS"
@@ -30100,6 +30318,28 @@
       "duration_ms": 176292,
       "name": "So Dangerous",
       "url": "https://open.spotify.com/track/1x3vLt1oSARJ8UGnbwL1mz"
+    },
+    {
+      "album": {
+        "name": "So Different",
+        "url": "https://open.spotify.com/album/36Qxy0uYkoTu5sVWvIzoVZ"
+      },
+      "artists": [
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        },
+        {
+          "name": "TOYZZ",
+          "url": "https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "So Different",
+      "url": "https://open.spotify.com/track/7ncQlEWDcux4xhuoGzY2Lc"
     },
     {
       "album": {
@@ -32940,7 +33180,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 157500,
       "name": "The Great Khali - Radio Edit",
       "url": "https://open.spotify.com/track/4VYxBuEJe91bZtBCsvgsvQ"
@@ -33064,7 +33304,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 168056,
       "name": "The Life",
       "url": "https://open.spotify.com/track/4u9Dvrt4VSSrOPvFTu6FPb"
@@ -34069,6 +34309,24 @@
     },
     {
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/356QbLLLBhlgRb0GEOS2cV"
+      },
+      "artists": [
+        {
+          "name": "Kapuzen",
+          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/4ijQ2jgdFKCVlqgPTDCmea"
+    },
+    {
+      "album": {
         "name": "Time After Time",
         "url": "https://open.spotify.com/album/3dl3KgUUxywgn171LxcfiO"
       },
@@ -34230,6 +34488,28 @@
       "duration_ms": 200000,
       "name": "To The Beat",
       "url": "https://open.spotify.com/track/1T33jwI5jJYeeMOll2dtzk"
+    },
+    {
+      "album": {
+        "name": "To The Club",
+        "url": "https://open.spotify.com/album/6FeEAKGv25NvQLMpopmu8o"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Spankox",
+          "url": "https://open.spotify.com/artist/15VeucLAy98diDPJ0T3J2V"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180937,
+      "name": "To The Club",
+      "url": "https://open.spotify.com/track/08owNR8LaRREKGk40OFX8r"
     },
     {
       "album": {
@@ -36300,6 +36580,28 @@
       "duration_ms": 148080,
       "name": "Walk Of Shame",
       "url": "https://open.spotify.com/track/3zVanl4mB1GgGWwlhdM0Yo"
+    },
+    {
+      "album": {
+        "name": "Walk Out The Door",
+        "url": "https://open.spotify.com/album/1v4abu1mQTzNm006byZQQ9"
+      },
+      "artists": [
+        {
+          "name": "Millean.",
+          "url": "https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz"
+        },
+        {
+          "name": "S\u00d8SURE",
+          "url": "https://open.spotify.com/artist/4e2tuETmHd1O7sMTku5NX1"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110884,
+      "name": "Walk Out The Door",
+      "url": "https://open.spotify.com/track/3z0pLKPczBIYxDzgds5L0d"
     },
     {
       "album": {

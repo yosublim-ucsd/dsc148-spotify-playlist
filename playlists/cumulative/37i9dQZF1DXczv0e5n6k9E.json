@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Thug Slime, Fy",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: FLY LO",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -417,6 +417,32 @@
     },
     {
       "album": {
+        "name": "CASABLANCA",
+        "url": "https://open.spotify.com/album/7e42PdTgxPdTnL8UJEc9BD"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "Franklin WWT",
+          "url": "https://open.spotify.com/artist/2wn1GEkgU8x5i1fstfxog4"
+        },
+        {
+          "name": "Rvchet",
+          "url": "https://open.spotify.com/artist/6ITj5WewzBmhbCBS1jxY75"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193894,
+      "name": "CASABLANCA",
+      "url": "https://open.spotify.com/track/04QQKADf45xNvlgJHC9nvO"
+    },
+    {
+      "album": {
         "name": "Celestial",
         "url": "https://open.spotify.com/album/44L3EKpUQ8Ov9UYu0QXoff"
       },
@@ -458,7 +484,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 296103,
       "name": "CREW",
       "url": "https://open.spotify.com/track/3lbghNkai2tumaspE76feA"
@@ -488,6 +514,32 @@
       "duration_ms": 150000,
       "name": "Dale",
       "url": "https://open.spotify.com/track/0ojZR0FRaGyop451JkdubS"
+    },
+    {
+      "album": {
+        "name": "De Thymame",
+        "url": "https://open.spotify.com/album/07dcBpz8dEedBFSURQbWqg"
+      },
+      "artists": [
+        {
+          "name": "HGEMONA$",
+          "url": "https://open.spotify.com/artist/1POlf5v8Q8ciCcWlAcxnEm"
+        },
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201459,
+      "name": "De Thymame",
+      "url": "https://open.spotify.com/track/07ppHEbg7FoTTZXhcBizqm"
     },
     {
       "album": {
@@ -613,6 +665,24 @@
     },
     {
       "album": {
+        "name": "ENA",
+        "url": "https://open.spotify.com/album/09Bz7amHfWz05B52JtH42X"
+      },
+      "artists": [
+        {
+          "name": "EPITHE",
+          "url": "https://open.spotify.com/artist/3KMRPwBUMocndx02a5QPRx"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170550,
+      "name": "ENA",
+      "url": "https://open.spotify.com/track/5bYmtvn55vb7psYpSuWrUk"
+    },
+    {
+      "album": {
         "name": "Enas Antras",
         "url": "https://open.spotify.com/album/3bzkhBdc6B3g7ctmiZCLOA"
       },
@@ -698,7 +768,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 150000,
       "name": "FLASH",
       "url": "https://open.spotify.com/track/2aTjJ9ixvc58G4WEw05Boc"
@@ -834,7 +904,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 119153,
       "name": "HABIBI",
       "url": "https://open.spotify.com/track/0CPhqd0ZX0CUW2qU5uZP2q"
@@ -867,6 +937,28 @@
     },
     {
       "album": {
+        "name": "Hotel California",
+        "url": "https://open.spotify.com/album/4XshJnG1OCaUYbYuWlJCCB"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Tayna",
+          "url": "https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226595,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/6KIKPP18A8XR66bRVMy08k"
+    },
+    {
+      "album": {
         "name": "Hunger",
         "url": "https://open.spotify.com/album/6YnJqmSdeTOl5n2fGOMsN5"
       },
@@ -886,7 +978,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 116400,
       "name": "Hunger",
       "url": "https://open.spotify.com/track/5P8xgPPGAyNTFsKRPoXzX8"
@@ -1081,6 +1173,28 @@
     },
     {
       "album": {
+        "name": "LETS GO",
+        "url": "https://open.spotify.com/album/6rmbG0ma7mIxJVpMSTSxvj"
+      },
+      "artists": [
+        {
+          "name": "Vamva",
+          "url": "https://open.spotify.com/artist/7fEKwaZv2qIls1Jelr73i3"
+        },
+        {
+          "name": "DJ.Silence",
+          "url": "https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156831,
+      "name": "LETS GO",
+      "url": "https://open.spotify.com/track/7k4tyBPV7TU9lVxD4OxBw8"
+    },
+    {
+      "album": {
         "name": "Love Story",
         "url": "https://open.spotify.com/album/4mpoecSXf5BM9sCpCeGR59"
       },
@@ -1166,6 +1280,40 @@
       "duration_ms": 168000,
       "name": "Malaga",
       "url": "https://open.spotify.com/track/6kCP67GCmQDGctCX7EipSY"
+    },
+    {
+      "album": {
+        "name": "MAMI",
+        "url": "https://open.spotify.com/album/1u28kghmD2SjiX4GhJWm6T"
+      },
+      "artists": [
+        {
+          "name": "Musah",
+          "url": "https://open.spotify.com/artist/2AWgf4OSoExCcIuwIbZClh"
+        },
+        {
+          "name": "Mente Fuerte",
+          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
+        },
+        {
+          "name": "Sapranov",
+          "url": "https://open.spotify.com/artist/0ydmHwy5hFIaJEoZWWcKxC"
+        },
+        {
+          "name": "Steezynicco",
+          "url": "https://open.spotify.com/artist/7iLoU3knm1FDad2TYZwS6l"
+        },
+        {
+          "name": "DJ.Silence",
+          "url": "https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "MAMI",
+      "url": "https://open.spotify.com/track/1dlQ12B28WyZIAq6ysIdA0"
     },
     {
       "album": {
@@ -1280,6 +1428,36 @@
       "duration_ms": 157227,
       "name": "MBAPPE",
       "url": "https://open.spotify.com/track/0MNvjSqNtUCZ4ikxrRe8kz"
+    },
+    {
+      "album": {
+        "name": "Megali Gata",
+        "url": "https://open.spotify.com/album/3duVsNE324MlMVeVSI1N3m"
+      },
+      "artists": [
+        {
+          "name": "Billy Sio",
+          "url": "https://open.spotify.com/artist/29Bl0nvClztM0dpgY2vvcc"
+        },
+        {
+          "name": "duKYS",
+          "url": "https://open.spotify.com/artist/2sodpTtk7UOG4z5ZtIHg89"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        },
+        {
+          "name": "Lil Riico",
+          "url": "https://open.spotify.com/artist/7jJIWDEEEQvarOBiEd6WQq"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206857,
+      "name": "Megali Gata",
+      "url": "https://open.spotify.com/track/2GrZtjuqspSXNtWYAnkL4K"
     },
     {
       "album": {
@@ -1502,7 +1680,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 152000,
       "name": "PLAIN JANE",
       "url": "https://open.spotify.com/track/1a929Dhxncp5JHP8hFqPF4"
@@ -1564,7 +1742,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 120009,
       "name": "Prishtina",
       "url": "https://open.spotify.com/track/1BuBPgJyWGSZ4PcLISga4x"
@@ -1840,7 +2018,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 160210,
       "name": "SOUKOU",
       "url": "https://open.spotify.com/track/4PsVvvUDG0Fg5iG6P41JDF"
@@ -1966,6 +2144,28 @@
       "duration_ms": 150000,
       "name": "Ti Amo",
       "url": "https://open.spotify.com/track/24jT60T9L0pKKuLG9FOe1I"
+    },
+    {
+      "album": {
+        "name": "TMC",
+        "url": "https://open.spotify.com/album/2e6sVmYoChoenjtWFbcxre"
+      },
+      "artists": [
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164265,
+      "name": "TMC",
+      "url": "https://open.spotify.com/track/3SHWhHNbN985xOYOsjBncJ"
     },
     {
       "album": {

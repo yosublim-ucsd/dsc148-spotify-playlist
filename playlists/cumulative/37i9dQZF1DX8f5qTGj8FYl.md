@@ -2,9 +2,9 @@
 
 ### [Instrumental Funk](https://open.spotify.com/playlist/37i9dQZF1DX8f5qTGj8FYl)
 
-> When the funk is just too funky for words to keep up.
+> When the funk is too funky for words to keep up\. Cover: Cory Wong
 
-268 songs - 18 hr 29 min
+269 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Kong](https://open.spotify.com/track/1AOy9cNv4cEIvVwjEQmEtG) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/2IoG9R4tMHazagfGb695K2) | 4:47 | 2023-08-04 | 2024-04-19 |
 | [Kong](https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv) | 4:47 | 2021-06-25 |  |
 | [Lifecycle](https://open.spotify.com/track/6UeV69QaXrzISZ5MdeX6Xs) | [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Reverence](https://open.spotify.com/album/3ayk72lcIIR7YSNqmRPK5N) | 5:54 | 2020-11-13 |  |
-| [Lilypad](https://open.spotify.com/track/1nNBY2quWBB0h27OtuR9wx) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Striped Album](https://open.spotify.com/album/7BWRgbyTOEjtPyVUnTxwj8) | 2:58 | 2020-11-13 |  |
+| [Lilypad](https://open.spotify.com/track/1nNBY2quWBB0h27OtuR9wx) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Striped Album](https://open.spotify.com/album/7BWRgbyTOEjtPyVUnTxwj8) | 2:58 | 2020-11-13 | 2024-07-27 |
 | [Living Off](https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH) | [Funk Off](https://open.spotify.com/artist/7lis4nJqfPm4jTXZdfAJDy) | [Uh Yeah!](https://open.spotify.com/album/6l1B3uOyqe1kWKQnMNIZdk) | 3:08 | 2020-11-13 |  |
 | [Look\-A Py Py](https://open.spotify.com/track/18Z1Tro6FApXmBeP4EICsn) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Undercover Mixtape](https://open.spotify.com/album/6XnaRujtyMCICItpFo4lQY) | 2:33 | 2020-11-13 | 2024-04-19 |
 | [Look\-A Py Py](https://open.spotify.com/track/4BrlJtA6O0Dfzs8YalBPWc) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Undercover Mixtape](https://open.spotify.com/album/4EZTraEOv1GmjzeK7OtRZ1) | 2:33 | 2020-11-13 |  |
@@ -225,6 +225,7 @@
 | [Stand Up](https://open.spotify.com/track/2qa0PzLeNUGs0RtNu7Yw8F) | [Roberto Restuccia](https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6) | [Stand Up](https://open.spotify.com/album/23g3lGN1wEYDJkQ8I8XsAJ) | 4:05 | 2023-01-13 | 2023-01-21 |
 | [Stand Up](https://open.spotify.com/track/4bJcAfRZWiret0H4aoKAp9) | [Roberto Restuccia](https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6) | [Lounge Katz](https://open.spotify.com/album/6C3Cca2c2NJYm9X2msQbJq) | 4:05 | 2023-08-04 | 2024-04-19 |
 | [Stand Up](https://open.spotify.com/track/5RrC1Py8OAgmpSF917Ybe6) | [Roberto Restuccia](https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6) | [Stand Up](https://open.spotify.com/album/6rtKdemayYmj6KFa8Di6JG) | 4:05 | 2023-08-04 |  |
+| [Starship Syncopation](https://open.spotify.com/track/0p1Mp6sT4Nzq3DWnZPvqs8) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [Starship Syncopation](https://open.spotify.com/album/4pg7Me8QZeJoW2qvcLiwSN) | 3:50 | 2024-07-26 |  |
 | [Stay In Your Lane](https://open.spotify.com/track/06rsFCBNsgVgMYXe6il6ZG) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay), [Charles Ray](https://open.spotify.com/artist/1jT9Psox5ynYWAm84QFZHX), [Troy Atkins](https://open.spotify.com/artist/1T1Loh1f6OZ5gEOnvvJKcM) | [Stay In Your Lane](https://open.spotify.com/album/33xCBK6L6WoFPUVgMLiTaC) | 2:00 | 2020-11-13 |  |
 | [Stay In Your Lane](https://open.spotify.com/track/55ti5VOfdRuHEfMkbnOXR3) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay), [Charles Ray](https://open.spotify.com/artist/1jT9Psox5ynYWAm84QFZHX), [Troy Atkins](https://open.spotify.com/artist/1T1Loh1f6OZ5gEOnvvJKcM) | [Stay In Your Lane](https://open.spotify.com/album/6CubQ1ELEiX9v8fOG0RGWl) | 2:00 | 2020-11-13 | 2024-04-19 |
 | [stones throw](https://open.spotify.com/track/2NtpB7QMuLu4EWm3iYDlFR) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [stones throw](https://open.spotify.com/album/4cLIhzAvIaKRDaBXp2Z4bM) | 2:45 | 2023-08-04 | 2024-03-30 |

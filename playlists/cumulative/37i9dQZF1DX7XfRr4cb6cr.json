@@ -1272,7 +1272,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 288750,
       "name": "Flares",
       "url": "https://open.spotify.com/track/281H1In7yvWliTGR2B2k9Q"
@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 479953,
       "name": "Hlj\u00f3\u00f0",
       "url": "https://open.spotify.com/track/0bA8nk6Ho0cElAoAOIh2Cs"
@@ -3390,7 +3390,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-21",
+      "date_removed": null,
       "duration_ms": 314788,
       "name": "Raintree",
       "url": "https://open.spotify.com/track/7JNrycDU0Suq2FZb1A4l3J"
@@ -3502,6 +3502,40 @@
       "duration_ms": 126773,
       "name": "Ribbon",
       "url": "https://open.spotify.com/track/16lUfemInxpAtAdj6pP9YM"
+    },
+    {
+      "album": {
+        "name": "RITUAL (palace)",
+        "url": "https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "Vylana",
+          "url": "https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn"
+        },
+        {
+          "name": "7RAYS",
+          "url": "https://open.spotify.com/artist/0AkP07i2cYjfWmxqCpdwwx"
+        },
+        {
+          "name": "Ishq",
+          "url": "https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F"
+        },
+        {
+          "name": "Cherif Hashizume",
+          "url": "https://open.spotify.com/artist/7lZE7MhAkIglYSnJJB1nYj"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351420,
+      "name": "RITUAL (evocation)",
+      "url": "https://open.spotify.com/track/7lBIa2pIbyIngZZQkaPjAK"
     },
     {
       "album": {

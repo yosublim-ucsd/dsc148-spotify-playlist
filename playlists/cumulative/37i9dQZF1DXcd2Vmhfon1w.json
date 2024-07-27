@@ -1551,6 +1551,32 @@
     },
     {
       "album": {
+        "name": "Callao",
+        "url": "https://open.spotify.com/album/3TQSYkL847JXym0pXWl3WA"
+      },
+      "artists": [
+        {
+          "name": "Israel B",
+          "url": "https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B"
+        },
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "LOWLIGHT",
+          "url": "https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158124,
+      "name": "Callao",
+      "url": "https://open.spotify.com/track/7h04t72CUmmDHKQQ47iWYC"
+    },
+    {
+      "album": {
         "name": "Canas de Marfil",
         "url": "https://open.spotify.com/album/0oGnBVrCFqJCmMz2ohmE7h"
       },
@@ -3113,6 +3139,24 @@
     },
     {
       "album": {
+        "name": "Galer\u00eda",
+        "url": "https://open.spotify.com/album/4l4HtULSsNFqreB5z2G42r"
+      },
+      "artists": [
+        {
+          "name": "JAVI BAMBINI CATTIVI",
+          "url": "https://open.spotify.com/artist/3FV2MXfjYT4tvYWzAQWJMH"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "Galer\u00eda",
+      "url": "https://open.spotify.com/track/48CpCetPor8JQitTeoZhfY"
+    },
+    {
+      "album": {
         "name": "Game Master",
         "url": "https://open.spotify.com/album/31JqpyHSBcTFWxgqal05WL"
       },
@@ -3220,7 +3264,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 267789,
       "name": "Gold Diggers",
       "url": "https://open.spotify.com/track/1r9Lbgiags0gJAS15Ygmc5"
@@ -4278,6 +4322,24 @@
       "duration_ms": 131673,
       "name": "Lo que hay",
       "url": "https://open.spotify.com/track/5nVvLT78CYsuny5LDDIOOo"
+    },
+    {
+      "album": {
+        "name": "Lo que sea",
+        "url": "https://open.spotify.com/album/2bQVM0KiHVfhxgrDMckr4T"
+      },
+      "artists": [
+        {
+          "name": "Sara Socas",
+          "url": "https://open.spotify.com/artist/3mJRY2eQ5S0cCsZla7vy0d"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140769,
+      "name": "Lo que sea",
+      "url": "https://open.spotify.com/track/4ShHWfV9buMe6Enz30y6F0"
     },
     {
       "album": {
@@ -6711,6 +6773,50 @@
     },
     {
       "album": {
+        "name": "Se me caen las rimas",
+        "url": "https://open.spotify.com/album/1bkdQ068UUiCuSN4lX9Ryw"
+      },
+      "artists": [
+        {
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
+        },
+        {
+          "name": "DJ Big Falanges",
+          "url": "https://open.spotify.com/artist/0fJsrG3Oj6PFBPPG8ZVSbv"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232325,
+      "name": "Se me caen las rimas",
+      "url": "https://open.spotify.com/track/0Dug2B73xnHYByNJFDFlrL"
+    },
+    {
+      "album": {
+        "name": "SEGUIR ADELANTE",
+        "url": "https://open.spotify.com/album/0EyKscV0Agd67vntSs4LhG"
+      },
+      "artists": [
+        {
+          "name": "El Bola",
+          "url": "https://open.spotify.com/artist/6SdvPXpWIhCljfkMvMWczQ"
+        },
+        {
+          "name": "Chusterfield",
+          "url": "https://open.spotify.com/artist/3m6N2XBSZqfkujRvGYcdi8"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135934,
+      "name": "SEGUIR ADELANTE",
+      "url": "https://open.spotify.com/track/0ocbVVRdXKNnl5lPhkuE7U"
+    },
+    {
+      "album": {
         "name": "Selma y Patty",
         "url": "https://open.spotify.com/album/7tqN6nZShPa2OzsLEJnoAC"
       },
@@ -7851,6 +7957,28 @@
     },
     {
       "album": {
+        "name": "Turururu Tum Tum Tum",
+        "url": "https://open.spotify.com/album/2fuxyeBc9ywPbCiDQAS3RN"
+      },
+      "artists": [
+        {
+          "name": "Prok",
+          "url": "https://open.spotify.com/artist/690kydOVFha4Ri8kieEQ31"
+        },
+        {
+          "name": "Blasfem",
+          "url": "https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166200,
+      "name": "Turururu Tum Tum Tum",
+      "url": "https://open.spotify.com/track/6nCdyzdPn0CCVQ90FADxea"
+    },
+    {
+      "album": {
         "name": "Tus Mentiras",
         "url": "https://open.spotify.com/album/0M4od2BnLPiBnDXqAJgNkb"
       },
@@ -8038,7 +8166,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 187411,
       "name": "Verg\u00fcenza",
       "url": "https://open.spotify.com/track/0WvdUGtbek5nzlbnoR8YJT"

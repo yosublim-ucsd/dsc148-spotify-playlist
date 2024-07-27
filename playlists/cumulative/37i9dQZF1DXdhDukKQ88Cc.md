@@ -4,7 +4,7 @@
 
 > den største danske rap lige nu..\. Anton Westerlin x Kundo <a href="spotify:album:1WzzRG4FdwNgBPxiVuhdT7">Bellingham Freestyle</a> 🚨
 
-205 songs - 8 hr 51 min
+206 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Psykosebarn](https://open.spotify.com/track/7ar1cv0qnLwodfUOIUx2Vh) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Psykosebarn](https://open.spotify.com/album/1bVTGCNXPtNVjznVGYpCGx) | 2:10 | 2023-09-21 |  |
 | [Purple Rain \(Stadig Lay\)](https://open.spotify.com/track/4xcXzfGf4ciBBaIOfvgrmk) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [Purple Rain \(Stadig Lay\)](https://open.spotify.com/album/6Ormh81VLPFjapNBQUNfS1) | 2:47 | 2024-04-18 | 2024-04-26 |
 | [Puto Criminel \(feat\. ZUUZ\)](https://open.spotify.com/track/4PJqYYdcQ1rubq1O0S8AVu) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn), [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Puto Criminel \(feat\. ZUUZ\)](https://open.spotify.com/album/1ZjCCgHb5cOFqbFLhM4F22) | 1:53 | 2023-09-21 | 2023-12-14 |
+| [Puttin In Work](https://open.spotify.com/track/5Sk88myPHrySWHk2HfEE7C) | [Faza](https://open.spotify.com/artist/0hkBz0U3f8R7BUbQcROEmR) | [Puttin In Work](https://open.spotify.com/album/5LJWJ8tyD6fFMRitusW3Tr) | 2:41 | 2024-07-25 |  |
 | [Reposado](https://open.spotify.com/track/3xJeUxbt51wpvGk3YzqxLi) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:41 | 2024-07-11 |  |
 | [Rider](https://open.spotify.com/track/3OKI9yggHapQONX0k8xtlD) | [Lii Fuego](https://open.spotify.com/artist/5rZWktOlVarOV0j2AXkasF), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Rider](https://open.spotify.com/album/7rsFe7IgBjlh2TCd23lX4t) | 3:12 | 2023-09-21 | 2024-02-23 |
 | [Rock with It](https://open.spotify.com/track/0H5Q7G69hxQs8qdkD6rmRJ) | [HAM fra Syd](https://open.spotify.com/artist/142bVo1OspxTJbxwyawU5h), [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [Rock with It](https://open.spotify.com/album/0vs2X0QGBP3RSK7jtzLOrE) | 2:25 | 2023-09-29 | 2024-01-19 |

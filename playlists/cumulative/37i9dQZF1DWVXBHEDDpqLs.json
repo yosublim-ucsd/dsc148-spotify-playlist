@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "1987",
+        "url": "https://open.spotify.com/album/4IwkQchepT5fJnUaincqeF"
+      },
+      "artists": [
+        {
+          "name": "Bryson Hill",
+          "url": "https://open.spotify.com/artist/37R4dOpFZqJ22zb82V7soA"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240326,
+      "name": "1987",
+      "url": "https://open.spotify.com/track/6iPOnUOwnKGMdhj1zxj6of"
+    },
+    {
+      "album": {
         "name": "2 A.M.",
         "url": "https://open.spotify.com/album/2O6hFD8p2jBrGY2DTN92iM"
       },
@@ -144,7 +162,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 232006,
       "name": "7am Germany",
       "url": "https://open.spotify.com/track/3KXZX9xiAMOp1jX81RpiGx"
@@ -2066,7 +2084,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 240000,
       "name": "Fiqexpert",
       "url": "https://open.spotify.com/track/0F3EQYyLLLNmsGpSLMIQoh"
@@ -2088,6 +2106,24 @@
       "duration_ms": 291555,
       "name": "Flangelic",
       "url": "https://open.spotify.com/track/1HLH4jJHqPzgBOVYyu4R2Y"
+    },
+    {
+      "album": {
+        "name": "flight fm",
+        "url": "https://open.spotify.com/album/7z6MsabW7ZDqtcgmV9fZrv"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247820,
+      "name": "flight fm",
+      "url": "https://open.spotify.com/track/4Wrd7TpAgRmlUtcbpJCW3T"
     },
     {
       "album": {
@@ -2156,7 +2192,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 205557,
       "name": "FUN FANTASY: RELAXATION",
       "url": "https://open.spotify.com/track/5TpMzraYdreGGPd1CvrhJl"
@@ -2182,6 +2218,24 @@
       "duration_ms": 202439,
       "name": "Ga$ton Rasta",
       "url": "https://open.spotify.com/track/6YBiXXECi9ePcN6hToOpU1"
+    },
+    {
+      "album": {
+        "name": "Galop EP",
+        "url": "https://open.spotify.com/album/4HYt5RNPRmrOx5l6YwM77y"
+      },
+      "artists": [
+        {
+          "name": "131bpm",
+          "url": "https://open.spotify.com/artist/3RYtFUGt7gnNuYeDu83zw6"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231266,
+      "name": "Galop",
+      "url": "https://open.spotify.com/track/6Wp9Zsruuj23zEZd1hyAGH"
     },
     {
       "album": {
@@ -2378,6 +2432,32 @@
       "duration_ms": 171000,
       "name": "GO AWFF",
       "url": "https://open.spotify.com/track/4mavsLIM2B5ZOrR5ob2xhZ"
+    },
+    {
+      "album": {
+        "name": "Tilda's Goat Stare",
+        "url": "https://open.spotify.com/album/78tGnmJQdA2khtq3SUBGps"
+      },
+      "artists": [
+        {
+          "name": "Ciel",
+          "url": "https://open.spotify.com/artist/1Rv2Pete1cFEKlDYk0hjWl"
+        },
+        {
+          "name": "CCL",
+          "url": "https://open.spotify.com/artist/0suhJuu3BRMRFZRzEzPpnw"
+        },
+        {
+          "name": "Yushh",
+          "url": "https://open.spotify.com/artist/4XRVdIpPrTnyXwvYGv63ew"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290246,
+      "name": "Goblin Mode - Yushh Remix",
+      "url": "https://open.spotify.com/track/0zENOQkwRacszd3eMJvcDz"
     },
     {
       "album": {
@@ -2799,6 +2879,42 @@
     },
     {
       "album": {
+        "name": "HORSE MOM",
+        "url": "https://open.spotify.com/album/53NveX5n9BNu6cTXSsuYcf"
+      },
+      "artists": [
+        {
+          "name": "Erika Sirola",
+          "url": "https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190535,
+      "name": "HORSE MOM",
+      "url": "https://open.spotify.com/track/3OnGfPJyPy1vlK3BTE7cun"
+    },
+    {
+      "album": {
+        "name": "Hot 10 Times",
+        "url": "https://open.spotify.com/album/6sN7YOMaXEAGDKvUllxUsm"
+      },
+      "artists": [
+        {
+          "name": "Coffintexts",
+          "url": "https://open.spotify.com/artist/4OMHnyekp6Sv6BdGxDcmK1"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Hot 10 Times",
+      "url": "https://open.spotify.com/track/77SYGXtVrRN8W5RwAqu2Du"
+    },
+    {
+      "album": {
         "name": "Hunger",
         "url": "https://open.spotify.com/album/2c4CJmZ4GwUbajFOcpAWR4"
       },
@@ -2890,6 +3006,24 @@
       "duration_ms": 152593,
       "name": "I Know",
       "url": "https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI"
+    },
+    {
+      "album": {
+        "name": "After All This Time",
+        "url": "https://open.spotify.com/album/495aTBEH0wMzkjfmtvr8mB"
+      },
+      "artists": [
+        {
+          "name": "Pina Tesla",
+          "url": "https://open.spotify.com/artist/4cdNLTbg5gmVILlui2cIFB"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256665,
+      "name": "I Know You Think Of Me",
+      "url": "https://open.spotify.com/track/4dFiYMd6w1uOJsm2SYKLzU"
     },
     {
       "album": {
@@ -3070,6 +3204,24 @@
       "duration_ms": 239000,
       "name": "Impossible - Roska Remix",
       "url": "https://open.spotify.com/track/5zeqPOKP0LVy3FTm7txSjL"
+    },
+    {
+      "album": {
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/34E83X1HMAkkbxsIhXqKeI"
+      },
+      "artists": [
+        {
+          "name": "Ali Berger",
+          "url": "https://open.spotify.com/artist/4j0mGR9dZiIDsoz3iUTCoM"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339933,
+      "name": "Inside",
+      "url": "https://open.spotify.com/track/6kgRM9l0Z21yoU8xPs8xZd"
     },
     {
       "album": {
@@ -3341,6 +3493,24 @@
     },
     {
       "album": {
+        "name": "Keep Noddin'",
+        "url": "https://open.spotify.com/album/29sE8AhE5N4MB8D2XKiNDe"
+      },
+      "artists": [
+        {
+          "name": "Mano Le Tough",
+          "url": "https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410984,
+      "name": "Keep Noddin'",
+      "url": "https://open.spotify.com/track/2fn43nsIK7LC8f5HFchzk5"
+    },
+    {
+      "album": {
         "name": "L-EV8",
         "url": "https://open.spotify.com/album/1me51JkWUzELdWToBRm0zc"
       },
@@ -3382,6 +3552,24 @@
       "duration_ms": 214596,
       "name": "Lapse",
       "url": "https://open.spotify.com/track/5qsQETO2bXy91QNhrroLam"
+    },
+    {
+      "album": {
+        "name": "LARGE LANGUAGE MODEL",
+        "url": "https://open.spotify.com/album/4phKcIkNEssRbagyYm0VdS"
+      },
+      "artists": [
+        {
+          "name": "DJ Stingray 313",
+          "url": "https://open.spotify.com/artist/7vZgYqMEApgWpMpXMSJj1o"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219016,
+      "name": "LARGE LANGUAGE MODEL",
+      "url": "https://open.spotify.com/track/0omvpJk3TSOSP1tM6cAF58"
     },
     {
       "album": {
@@ -3454,7 +3642,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 312888,
       "name": "Life Of Crime",
       "url": "https://open.spotify.com/track/1sicnDMeGdQndgXlKOKN1I"
@@ -4008,7 +4196,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 209149,
       "name": "Played Out - Version 2",
       "url": "https://open.spotify.com/track/2Xq46ZzWLOuaNJO1eelhET"
@@ -4344,6 +4532,24 @@
       "duration_ms": 173000,
       "name": "RDT - Detroit In Effect Remix",
       "url": "https://open.spotify.com/track/5Tel96YhCtK8jdNb3S92hO"
+    },
+    {
+      "album": {
+        "name": "Laurus Ascending",
+        "url": "https://open.spotify.com/album/4XW5yzE0tuzsSyTJkUH8n1"
+      },
+      "artists": [
+        {
+          "name": "Bodhi",
+          "url": "https://open.spotify.com/artist/1C545778m57qWQwISWGAHD"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386874,
+      "name": "Reformat",
+      "url": "https://open.spotify.com/track/6adYIR4efbaEJcv5iVMIIZ"
     },
     {
       "album": {
@@ -4953,6 +5159,24 @@
     },
     {
       "album": {
+        "name": "Stereographs",
+        "url": "https://open.spotify.com/album/3Fs1vd4v5HTenA2jfomuWO"
+      },
+      "artists": [
+        {
+          "name": "Regal86",
+          "url": "https://open.spotify.com/artist/18BWZFP35cPhvqC66DJ613"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424159,
+      "name": "Stereographs",
+      "url": "https://open.spotify.com/track/0foCfLqrmJXzoJxE3GDTy4"
+    },
+    {
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
@@ -5430,7 +5654,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 265365,
       "name": "Tinfoil",
       "url": "https://open.spotify.com/track/5cT0FWFW8cdUsaz7CWdcs1"
@@ -5905,6 +6129,28 @@
     },
     {
       "album": {
+        "name": "Warlord",
+        "url": "https://open.spotify.com/album/2oHWsMhJSQDLAfd9pgYIOv"
+      },
+      "artists": [
+        {
+          "name": "Buckley",
+          "url": "https://open.spotify.com/artist/5O6cj7GnJssS8cvpFf3rsr"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308524,
+      "name": "Warlord",
+      "url": "https://open.spotify.com/track/27gKgqJYwpYaxUiDJYPNYy"
+    },
+    {
+      "album": {
         "name": "Wash Yo Handz",
         "url": "https://open.spotify.com/album/6NyZuJXVfaw3yg6jh8rjkY"
       },
@@ -6200,6 +6446,24 @@
       "duration_ms": 199855,
       "name": "Yo Ma (feat. Cakes da Killa & Leikeli47)",
       "url": "https://open.spotify.com/track/7A9XxAxvhWLmKIEVjowM9Y"
+    },
+    {
+      "album": {
+        "name": "You Know How",
+        "url": "https://open.spotify.com/album/4OaqBumCibL27CLCFu3VxP"
+      },
+      "artists": [
+        {
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332126,
+      "name": "You Know How",
+      "url": "https://open.spotify.com/track/6g6KOjQq93bl3Ujeog9OeJ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVXBHEDDpqLs"

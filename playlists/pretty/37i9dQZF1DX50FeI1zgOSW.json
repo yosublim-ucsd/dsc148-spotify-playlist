@@ -1,52 +1,32 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Nicky.M x Rajaganapathy",
-  "num_followers": 12340,
+  "num_followers": 12361,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zp9E0QAAAABUiKEg4Wi9rRCs629TVknO",
+  "snapshot_id": "ZqRgGgAAAADDUNJz+y8JrjJajU0CT+LP",
   "tracks": [
     {
-      "added_at": "2024-06-14 06:04:33",
+      "added_at": "2024-07-27 02:48:58",
       "album": {
-        "name": "Thuhila",
-        "url": "https://open.spotify.com/album/0Q76oGNJkWaBkkqLDDO45y"
+        "name": "Mudivili",
+        "url": "https://open.spotify.com/album/7txRaw6gINccGbvTdAj6I1"
       },
       "artists": [
         {
-          "name": "Nicky.M",
-          "url": "https://open.spotify.com/artist/58QgZsCB2X7kk31Og7Fw3Q"
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
         },
         {
-          "name": "Rajaganapathy",
-          "url": "https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq"
-        },
-        {
-          "name": "Aathreya",
-          "url": "https://open.spotify.com/artist/4YSpoNee7EIL8olUEZAQqs"
-        },
-        {
-          "name": "Jasomitha",
-          "url": "https://open.spotify.com/artist/6kDxxqHkVJoLihu5tEpnj2"
-        },
-        {
-          "name": "Pranitha",
-          "url": "https://open.spotify.com/artist/4k6qwsZB8oduj7v8eFsbNB"
-        },
-        {
-          "name": "Sathustica",
-          "url": "https://open.spotify.com/artist/1P2nVyWqmPWbGiLGThqalS"
-        },
-        {
-          "name": "Sulaxshi",
-          "url": "https://open.spotify.com/artist/21A7zn3z5igDaobPTQklK2"
+          "name": "MWS",
+          "url": "https://open.spotify.com/artist/2kAssRlZmg5vrIiUiZVInp"
         }
       ],
-      "duration_ms": 206724,
-      "name": "Thuhila",
-      "url": "https://open.spotify.com/track/1oBnbrjFdHXL5Duoc8PWpk"
+      "duration_ms": 233998,
+      "name": "Sugasagiye",
+      "url": "https://open.spotify.com/track/7tTujQNOJgxYFIoLGH66c0"
     },
     {
       "added_at": "2024-06-14 15:10:42",
@@ -103,6 +83,106 @@
       "duration_ms": 268051,
       "name": "Medhuvaay Medhuvaay",
       "url": "https://open.spotify.com/track/1NXB8bGXRYy0CR0vXIZNHI"
+    },
+    {
+      "added_at": "2024-07-25 12:45:00",
+      "album": {
+        "name": "Oye WiFi",
+        "url": "https://open.spotify.com/album/5ISe0jUvgvW0oL4cUfHpfv"
+      },
+      "artists": [
+        {
+          "name": "MV Renju",
+          "url": "https://open.spotify.com/artist/3FF68P1H15lpkam4dm9u9V"
+        },
+        {
+          "name": "Maguvi",
+          "url": "https://open.spotify.com/artist/2W6PplXI1Za8fhlceez0V3"
+        }
+      ],
+      "duration_ms": 342648,
+      "name": "Oye WiFi",
+      "url": "https://open.spotify.com/track/4OJlaha9SL0hg2T71TrajY"
+    },
+    {
+      "added_at": "2024-07-27 02:48:58",
+      "album": {
+        "name": "Mudivili",
+        "url": "https://open.spotify.com/album/7txRaw6gINccGbvTdAj6I1"
+      },
+      "artists": [
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+        },
+        {
+          "name": "Ailaah",
+          "url": "https://open.spotify.com/artist/4HexHcCpsVIy7KsVTq0bnX"
+        }
+      ],
+      "duration_ms": 241748,
+      "name": "Kanavu Poandra Kaatchi",
+      "url": "https://open.spotify.com/track/0pWkbQWebsaSd0WfeM4sCz"
+    },
+    {
+      "added_at": "2024-06-14 06:04:33",
+      "album": {
+        "name": "Thuhila",
+        "url": "https://open.spotify.com/album/0Q76oGNJkWaBkkqLDDO45y"
+      },
+      "artists": [
+        {
+          "name": "Nicky.M",
+          "url": "https://open.spotify.com/artist/58QgZsCB2X7kk31Og7Fw3Q"
+        },
+        {
+          "name": "Rajaganapathy",
+          "url": "https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq"
+        },
+        {
+          "name": "Aathreya",
+          "url": "https://open.spotify.com/artist/4YSpoNee7EIL8olUEZAQqs"
+        },
+        {
+          "name": "Jasomitha",
+          "url": "https://open.spotify.com/artist/6kDxxqHkVJoLihu5tEpnj2"
+        },
+        {
+          "name": "Pranitha",
+          "url": "https://open.spotify.com/artist/4k6qwsZB8oduj7v8eFsbNB"
+        },
+        {
+          "name": "Sathustica",
+          "url": "https://open.spotify.com/artist/1P2nVyWqmPWbGiLGThqalS"
+        },
+        {
+          "name": "Sulaxshi",
+          "url": "https://open.spotify.com/artist/21A7zn3z5igDaobPTQklK2"
+        }
+      ],
+      "duration_ms": 206724,
+      "name": "Thuhila",
+      "url": "https://open.spotify.com/track/1oBnbrjFdHXL5Duoc8PWpk"
+    },
+    {
+      "added_at": "2024-07-27 01:00:44",
+      "album": {
+        "name": "Kaadhal Mugil",
+        "url": "https://open.spotify.com/album/55TpCaFAhnwHC3vxn3rCNT"
+      },
+      "artists": [
+        {
+          "name": "Harish",
+          "url": "https://open.spotify.com/artist/30dSn7msR5gFPrPCWumBXA"
+        },
+        {
+          "name": "Samathmika K",
+          "url": "https://open.spotify.com/artist/6mknIwqnuUvjJjQznjJPHy"
+        }
+      ],
+      "duration_ms": 321330,
+      "name": "Kaadhal Mugil",
+      "url": "https://open.spotify.com/track/50hu3q96SgLFhhDX4Hm8ed"
     },
     {
       "added_at": "2024-07-23 05:51:13",
@@ -165,6 +245,26 @@
       "url": "https://open.spotify.com/track/2nHw7dzQ8ttgId3gMZYpJg"
     },
     {
+      "added_at": "2024-07-27 02:48:58",
+      "album": {
+        "name": "Mudivili",
+        "url": "https://open.spotify.com/album/7txRaw6gINccGbvTdAj6I1"
+      },
+      "artists": [
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+        },
+        {
+          "name": "Ailaah",
+          "url": "https://open.spotify.com/artist/4HexHcCpsVIy7KsVTq0bnX"
+        }
+      ],
+      "duration_ms": 228660,
+      "name": "Avasara Kaadhalaa",
+      "url": "https://open.spotify.com/track/7jmumPRevl7t8Kc4YovNtS"
+    },
+    {
       "added_at": "2024-07-12 17:17:26",
       "album": {
         "name": "Rose",
@@ -183,6 +283,22 @@
       "duration_ms": 287997,
       "name": "En kannadi",
       "url": "https://open.spotify.com/track/4GMGeCR4xu5gHs2DUIKO6p"
+    },
+    {
+      "added_at": "2024-07-27 01:06:30",
+      "album": {
+        "name": "Aasai Dhan",
+        "url": "https://open.spotify.com/album/3UsRTFRJuwiSg4FfYrsCAn"
+      },
+      "artists": [
+        {
+          "name": "Rudra",
+          "url": "https://open.spotify.com/artist/61gOjwzZNoWJlBW6Agw4GN"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Aasai Dhan",
+      "url": "https://open.spotify.com/track/5VHWhBx27a9NiErhhnf4mr"
     },
     {
       "added_at": "2024-07-09 15:47:36",
@@ -207,6 +323,22 @@
       "duration_ms": 111050,
       "name": "AntiDrugAnthem",
       "url": "https://open.spotify.com/track/17MWq7zp3NOgLO6Q6at59I"
+    },
+    {
+      "added_at": "2024-07-27 02:48:58",
+      "album": {
+        "name": "Hey My Kadhale",
+        "url": "https://open.spotify.com/album/1MNvQTsaUMQr9UGktxMXho"
+      },
+      "artists": [
+        {
+          "name": "Sanathan Shree Krishnan",
+          "url": "https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko"
+        }
+      ],
+      "duration_ms": 190793,
+      "name": "Hey My Kadhale",
+      "url": "https://open.spotify.com/track/1qKYfUd20i5opqgHA90oEZ"
     },
     {
       "added_at": "2024-05-13 06:46:48",
@@ -289,6 +421,26 @@
       "url": "https://open.spotify.com/track/0sQx2kPgztAoyYrZ1KZEUG"
     },
     {
+      "added_at": "2024-07-27 02:48:58",
+      "album": {
+        "name": "Mudivili",
+        "url": "https://open.spotify.com/album/7txRaw6gINccGbvTdAj6I1"
+      },
+      "artists": [
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+        },
+        {
+          "name": "MWS",
+          "url": "https://open.spotify.com/artist/2kAssRlZmg5vrIiUiZVInp"
+        }
+      ],
+      "duration_ms": 190488,
+      "name": "Aayirathil Avan Oruvan",
+      "url": "https://open.spotify.com/track/30gPXGKnK719UU9QjiJ5jT"
+    },
+    {
       "added_at": "2024-07-08 08:54:01",
       "album": {
         "name": "Nenjukulla",
@@ -339,6 +491,26 @@
       "duration_ms": 102509,
       "name": "On Air",
       "url": "https://open.spotify.com/track/3LI5iF14x57wIfyhTpC3S4"
+    },
+    {
+      "added_at": "2024-07-27 02:48:58",
+      "album": {
+        "name": "Mudivili",
+        "url": "https://open.spotify.com/album/7txRaw6gINccGbvTdAj6I1"
+      },
+      "artists": [
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+        },
+        {
+          "name": "Ailaah",
+          "url": "https://open.spotify.com/artist/4HexHcCpsVIy7KsVTq0bnX"
+        }
+      ],
+      "duration_ms": 159980,
+      "name": "Enna Mayakkam",
+      "url": "https://open.spotify.com/track/06RJLbCMAAdVoMvHjBxdtS"
     },
     {
       "added_at": "2024-06-01 10:33:16",

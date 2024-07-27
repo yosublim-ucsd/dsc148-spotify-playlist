@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-112 songs - 6 hr 8 min
+113 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [En Första Dans](https://open.spotify.com/track/2M0mCS649bGFR0Y9tPpCer) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [En Första Dans](https://open.spotify.com/album/5uizL4oF1rIIaQoqFC683R) | 2:10 | 2024-06-27 |  |
 | [En tår för varje tår](https://open.spotify.com/track/5bR2R637w1Z7OtUk6qn26P) | [Melina Borglowe](https://open.spotify.com/artist/6iuKUTViI8eNiiZN8hOkFj) | [En tår för varje tår](https://open.spotify.com/album/6idVeqKsRaSPry1D2pXqsD) | 3:24 | 2024-06-27 |  |
 | [En värld värd att älska](https://open.spotify.com/track/14mvAyboIxOzI5UMeGqoJK) | [Magnus Carlson](https://open.spotify.com/artist/4Ag5mrJhXH238pExZYJcaM) | [Tillbaka i Brunnsvik](https://open.spotify.com/album/6OWlwPVDf8HUyi9upjrDdc) | 4:46 | 2024-06-27 |  |
-| [En ökenblomma](https://open.spotify.com/track/6S1qBl9aILtZtbsFlp0z7i) | [Rolf Wikström](https://open.spotify.com/artist/6JnHX2U0qF3EcoAHta5V3r), [Daniel Lemma](https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS) | [Skåpmat 71\-05](https://open.spotify.com/album/1KXoF9uZKGKa91DSVG8z8d) | 4:08 | 2024-06-27 |  |
+| [En ökenblomma](https://open.spotify.com/track/6S1qBl9aILtZtbsFlp0z7i) | [Rolf Wikström](https://open.spotify.com/artist/6JnHX2U0qF3EcoAHta5V3r), [Daniel Lemma](https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS) | [Skåpmat 71\-05](https://open.spotify.com/album/1KXoF9uZKGKa91DSVG8z8d) | 4:08 | 2024-06-27 | 2024-07-27 |
 | [Endless Road](https://open.spotify.com/track/2oKuxUV6Q5XdHuc3fYpG06) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Endless Road](https://open.spotify.com/album/5QrjeIezUD823aU34vqMmv) | 2:43 | 2024-06-27 |  |
 | [Ett Glas Till](https://open.spotify.com/track/1KEbdZihYjyr8LvxGalGYR) | [Avantgardet](https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ) | [Dom Sa – Ett glas till](https://open.spotify.com/album/5Useo9AgKrHlin0pSsEt74) | 4:25 | 2024-06-27 |  |
 | [Fool](https://open.spotify.com/track/0X0vu5vvTz3hmiXY6aiVLl) | [RVE](https://open.spotify.com/artist/4xXhVe5E4Vtd9qV47tQomY) | [Fool](https://open.spotify.com/album/5HX1EOQKbgbYytFDJ5qN6e) | 3:11 | 2024-06-27 |  |
@@ -56,6 +56,7 @@
 | [Keep Quiet](https://open.spotify.com/track/2VClts5OjA61Cg3QLWNNF1) | [Jenny Berggren](https://open.spotify.com/artist/44YSqyZYMSDBJYRwUVOCPs) | [Keep Quiet](https://open.spotify.com/album/0MUwVgg7rxb6PwL4TwWli9) | 3:10 | 2024-06-27 |  |
 | [Kiss Me When You're Through](https://open.spotify.com/track/72Z9rtqBAHGUGWkFu2DCnD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Border](https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr) | 2:45 | 2024-06-27 |  |
 | [Kontakt](https://open.spotify.com/track/0JNzY6AqndqZS9I3q2iHYg) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Kontakt](https://open.spotify.com/album/1gFh0wZIlYt6R3AeBnDOqL) | 2:44 | 2024-06-27 |  |
+| [Känns så längesen](https://open.spotify.com/track/0PNPkWzkRVAEdXDpP1Efkc) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT), [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Känns så längesen](https://open.spotify.com/album/5bAk5VXaU75Cy3J1TlTjw2) | 3:03 | 2024-07-25 |  |
 | [Let Her In](https://open.spotify.com/track/1YYbAYmfoUxITo7gNWZThw) | [The Playtones](https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne) | [Let Her In](https://open.spotify.com/album/5xdOtVBEPBMilhg8xjUd62) | 3:46 | 2024-06-27 |  |
 | [Like No One Could](https://open.spotify.com/track/7HYVCFYBAUnYobUqgx4k4n) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Like No One Could](https://open.spotify.com/album/3XgrclsnTqtc3U4UVXOydF) | 2:47 | 2024-06-27 |  |
 | [Lily Of The Valley](https://open.spotify.com/track/39xdvtTXTiWnkkLlJOfqTn) | [Elin Lanto](https://open.spotify.com/artist/4sAGoiErI2rWziF96i4eNT) | [Lily Of The Valley](https://open.spotify.com/album/7ivEAEyQvcQPzaRGKMbYcY) | 3:09 | 2024-06-27 |  |

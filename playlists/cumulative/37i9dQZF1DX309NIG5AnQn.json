@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "rock alternativo argentino. \n\ud83d\udcf7 Tigre Ulli",
+  "description": "rock alternativo argentino. \n\ud83d\udcf7 RYAN",
   "name": "el under",
   "tracks": [
     {
@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 164656,
       "name": "El Deseo",
       "url": "https://open.spotify.com/track/2lI9tqrNU63R4WTzgR3kZ8"
@@ -3812,7 +3812,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 194847,
       "name": "Todo el Mal",
       "url": "https://open.spotify.com/track/7knGtNtfz5FOPEpBHtxn4h"
@@ -4148,6 +4148,42 @@
       "duration_ms": 233115,
       "name": "Y no me digan nada",
       "url": "https://open.spotify.com/track/5l9geiaathmbeLRXzhVidT"
+    },
+    {
+      "album": {
+        "name": "Varias Paredes Pintadas",
+        "url": "https://open.spotify.com/album/2LWOlZkkp3aXYCEVkBpyv6"
+      },
+      "artists": [
+        {
+          "name": "Error Vanessa",
+          "url": "https://open.spotify.com/artist/0uF5hCCa4TNv6iFcQnRujF"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239203,
+      "name": "Ya No Quiero Bailar",
+      "url": "https://open.spotify.com/track/3NMp7NOrfSsCtx4DjOzY3e"
+    },
+    {
+      "album": {
+        "name": "Yo Me Quedo / Todo El Bien",
+        "url": "https://open.spotify.com/album/1FXcQJgH3C44yfym4BD7cz"
+      },
+      "artists": [
+        {
+          "name": "RYAN",
+          "url": "https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174144,
+      "name": "Yo Me Quedo",
+      "url": "https://open.spotify.com/track/6t9ENASZMz9BDBCw3Owkpp"
     },
     {
       "album": {

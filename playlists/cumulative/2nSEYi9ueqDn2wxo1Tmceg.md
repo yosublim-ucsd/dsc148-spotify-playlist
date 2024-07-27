@@ -2,9 +2,9 @@
 
 ### [Domino Sound System](https://open.spotify.com/playlist/2nSEYi9ueqDn2wxo1Tmceg)
 
-> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R?si=yvApwoW3RneZ\_gbwb9R4EA">Buscabulla</a>
+> Domino present you with their selection of the best independent music around\. Enjoy! Cover: Alex Izenberg
 
-1,004 songs - 2 day 21 hr 4 min
+1,006 songs - 2 day 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [DOWNER](https://open.spotify.com/track/0FMR48WoAQivFMFZ1HdVY8) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [DOWNER](https://open.spotify.com/album/4ghmvor0id8kayZJpUkkjH) | 2:23 | 2024-05-29 | 2024-07-04 |
 | [Dream Design House](https://open.spotify.com/track/3fpkudCsTA8BFyADYUZxYP) | [Asher White](https://open.spotify.com/artist/1TQhvHMVoECTNs3Xxo3RMv) | [Home Constellation Study](https://open.spotify.com/album/3x7F1yCZ0wjlKhRbWqkMzw) | 4:42 | 2024-07-10 |  |
 | [Dream police](https://open.spotify.com/track/5jdlKW2oMtQkOaZp5YOS4G) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:49 | 2024-02-21 | 2024-04-11 |
+| [Dreams of Déjà Vu](https://open.spotify.com/track/3ZKyp4OeA8DtjjpA1V3fqn) | [Alex Izenberg](https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE) | [Alex Izenberg & The Exiles](https://open.spotify.com/album/3WzxlDLJxIRbVxWYRDITq8) | 3:51 | 2024-07-26 |  |
 | [Dressed in Black](https://open.spotify.com/track/7wAQEQ32PNexGiHtmRuguj) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [All Of Us Flames](https://open.spotify.com/album/2KTQDiz3rmivOSbzLPbjTn) | 3:29 | 2022-08-31 | 2022-10-07 |
 | [Drew The Line](https://open.spotify.com/track/1ubbzXSQJAFQbPrpWi6MtO) | [Blood Wizard](https://open.spotify.com/artist/60XRtGmul45VSNNKt9mZhp) | [Imaginary House EP](https://open.spotify.com/album/1c4nHcuT3jCAzmPhLUBacV) | 3:18 | 2022-09-28 | 2022-11-10 |
 | [Drifting Away](https://open.spotify.com/track/0qHJ46ewkfyXVJeLy8ZGrT) | [Jaakko Eino Kalevi](https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3) | [Drifting Away](https://open.spotify.com/album/4C1uY88CMpkn5pTdLspRGM) | 4:02 | 2023-10-11 | 2023-11-30 |
@@ -655,6 +656,7 @@
 | [One Stop Shop \(For A Fading Revolution\)](https://open.spotify.com/track/5aa6n3VZmDediYoN2x9ayw) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [One Stop Shop](https://open.spotify.com/album/1r5vgUrqdgK4kYvddjEap9) | 3:31 | 2022-11-30 | 2023-01-19 |
 | [Only in America: It Feels Like This](https://open.spotify.com/track/3KJCGTbqnx0CQCq3VTt9LV) | [Matthew E\. White](https://open.spotify.com/artist/58mMrwemoGIcDpvfHe46u4), [Lonnie Holley](https://open.spotify.com/artist/7dgLSJ4HaXx0dy5V2BMQe5) | [Only in America](https://open.spotify.com/album/1lZgy5sIQg9HOUaDWzXvXh) | 4:28 | 2022-08-16 | 2022-09-29 |
 | [Only One](https://open.spotify.com/track/5MXegzzvDfUSfwpf8a0FCq) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Only One](https://open.spotify.com/album/0fzG0DP1dF2MEGyuhZHj5w) | 3:09 | 2024-04-17 | 2024-05-16 |
+| [Only the Moon Knows](https://open.spotify.com/track/3WxMsxT812MRtPqbYj9vSC) | [Alex Izenberg](https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE) | [Alex Izenberg & The Exiles](https://open.spotify.com/album/3WzxlDLJxIRbVxWYRDITq8) | 4:11 | 2024-07-26 |  |
 | [Only the Moon Knows](https://open.spotify.com/track/4trxvoXoZVIylRpv6eZRNa) | [Alex Izenberg](https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE) | [Drinking the Dusk Away / Only the Moon Knows](https://open.spotify.com/album/7clPtGzsrPBrQCpkRNYjDd) | 4:11 | 2024-04-29 | 2024-05-23 |
 | [Open The Door](https://open.spotify.com/track/2WNL7VKLXSIGNps9gYYdwi) | [Free Love](https://open.spotify.com/artist/0bec5c6VO67VhJrdZ5xPOs) | [Inside](https://open.spotify.com/album/4i19fUZUB2jtNvxKC6HyEv) | 4:06 | 2023-05-10 | 2023-06-29 |
 | [Optimistic](https://open.spotify.com/track/4jJAMHQWkAQ57Eyuxn0Qi3) | [Tomu DJ](https://open.spotify.com/artist/3IkZulWyXacENlNykgnmwh), [kimdollars1](https://open.spotify.com/artist/6fePUvIaJB7SLeOeGapoS5) | [Optimistic](https://open.spotify.com/album/2iLdOaxHCMnmFL6Oz73Neg) | 4:55 | 2022-08-10 | 2022-09-22 |

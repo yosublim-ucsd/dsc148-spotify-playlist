@@ -1645,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "Deadpool & Wolverine (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7tTd4gjNDz51x9jXHdP73D"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109548,
+      "name": "LFG - Theme from \"Deadpool & Wolverine\"",
+      "url": "https://open.spotify.com/track/5m14N7UR6nG69ccaQ0Qssa"
+    },
+    {
+      "album": {
         "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
         "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
       },

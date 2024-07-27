@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Diamante El\u00e9ctrico",
+  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Duplat & Juan Pablo Vega",
   "name": "Pop Colombia",
   "tracks": [
     {
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 243830,
       "name": "El Big Bang",
       "url": "https://open.spotify.com/track/61svvvUEUPodjZvXhXv74e"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 275746,
       "name": "El Truco",
       "url": "https://open.spotify.com/track/4pbCHj8TU4TRS9mfRMsyWC"
@@ -1603,6 +1603,24 @@
     },
     {
       "album": {
+        "name": "K\u00e9 MaL",
+        "url": "https://open.spotify.com/album/2GHyrL2mwHWmw1vmQfCrNv"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188035,
+      "name": "K\u00e9 MaL",
+      "url": "https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g"
+    },
+    {
+      "album": {
         "name": "La Correcta",
         "url": "https://open.spotify.com/album/0lVFRNJhdAgvHzkGkdX2CD"
       },
@@ -1752,6 +1770,24 @@
       "duration_ms": 224999,
       "name": "La Primera Vez",
       "url": "https://open.spotify.com/track/3AS2NiyobOcS454xthOByC"
+    },
+    {
+      "album": {
+        "name": "El Amor Es F\u00e1cil, Las Relaciones No",
+        "url": "https://open.spotify.com/album/16DzOyNlcS27ZRvYxYZHXu"
+      },
+      "artists": [
+        {
+          "name": "The Mills",
+          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182897,
+      "name": "LA VENTANA (Acto VII: C\u00f3mo Culpar Al Viento Del Desastre)",
+      "url": "https://open.spotify.com/track/5juzwMrJh33IQXW4g8VTj3"
     },
     {
       "album": {
@@ -2273,6 +2309,28 @@
     },
     {
       "album": {
+        "name": "Mosaico Pirata",
+        "url": "https://open.spotify.com/album/5D86xGaD8KNU6H6JH9Rftz"
+      },
+      "artists": [
+        {
+          "name": "Duplat",
+          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
+        },
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179725,
+      "name": "Mosaico Pirata",
+      "url": "https://open.spotify.com/track/5lnqF1tIXA4SDd4wxQVsaV"
+    },
+    {
+      "album": {
         "name": "Mundos Aparte",
         "url": "https://open.spotify.com/album/1X6UZEiG0dCcwaz8n0gUMO"
       },
@@ -2342,7 +2400,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 317424,
       "name": "Nada Personal - Sesi\u00f3n en Vivo",
       "url": "https://open.spotify.com/track/2kuGLyyrHlPrrgMGOEiFmV"
@@ -2988,7 +3046,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 154500,
       "name": "Qu\u00e9 M\u00e1s Da",
       "url": "https://open.spotify.com/track/2L7EazniDPDv5UZZdcCBcA"
@@ -3538,6 +3596,24 @@
       "duration_ms": 192845,
       "name": "Te Dejo Entrar",
       "url": "https://open.spotify.com/track/39ME7Co4Z5ETWFhAGBqMhh"
+    },
+    {
+      "album": {
+        "name": "Te doy las gracias",
+        "url": "https://open.spotify.com/album/40tFSBG3a1jb0XiFokbBXT"
+      },
+      "artists": [
+        {
+          "name": "Santiago Cruz",
+          "url": "https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219157,
+      "name": "Te doy las gracias",
+      "url": "https://open.spotify.com/track/60ftxYw9vpJsw2texcOguV"
     },
     {
       "album": {

@@ -539,6 +539,24 @@
     },
     {
       "album": {
+        "name": "Isthmus",
+        "url": "https://open.spotify.com/album/1xfDWJsi1OPdJ0qn2yfiwA"
+      },
+      "artists": [
+        {
+          "name": "Throwing Snow",
+          "url": "https://open.spotify.com/artist/0Qur5LqqAVVunjY2PnjhUp"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185684,
+      "name": "An Arrow to Follow",
+      "url": "https://open.spotify.com/track/7eoZIvBipMBk55ppwSdnlF"
+    },
+    {
+      "album": {
         "name": "Ancient Memories (Skream Remix)",
         "url": "https://open.spotify.com/album/1BExSP9a3O7SLurvv8w401"
       },
@@ -1102,7 +1120,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 244000,
       "name": "Big Ball - Roman Fl\u00fcgel Remix",
       "url": "https://open.spotify.com/track/0Wb3BFWdGBsRb8r0Qbgy1H"
@@ -1456,6 +1474,24 @@
       "duration_ms": 257508,
       "name": "Bright Clash",
       "url": "https://open.spotify.com/track/3HKNYQWG3iF6TM6aEvgJKB"
+    },
+    {
+      "album": {
+        "name": "Broke My Heart Remixes",
+        "url": "https://open.spotify.com/album/7dWvTR3sRZEdPAOan5PHVu"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166523,
+      "name": "Broke My Heart",
+      "url": "https://open.spotify.com/track/4wTt1Fmp7JxW07UODP7Tk4"
     },
     {
       "album": {
@@ -2478,7 +2514,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 340452,
       "name": "Don't Be Stupid Day - Modeselektor Remix",
       "url": "https://open.spotify.com/track/1d8XQfo2fxkIRCW68KS6T6"
@@ -2772,7 +2808,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 254530,
       "name": "Ephemeral",
       "url": "https://open.spotify.com/track/0CbYy6uyQK0ZP1BQ42rEBI"
@@ -3499,6 +3535,48 @@
     },
     {
       "album": {
+        "name": "Fuko Chu No Saiwai",
+        "url": "https://open.spotify.com/album/2meVeZ6LWuP9QWjXD9wVBA"
+      },
+      "artists": [
+        {
+          "name": "YENTOWN",
+          "url": "https://open.spotify.com/artist/5MZKzz8nnucMHhJq34UZwe"
+        },
+        {
+          "name": "kZm",
+          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
+        },
+        {
+          "name": "PETZ",
+          "url": "https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT"
+        },
+        {
+          "name": "JNKMN",
+          "url": "https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "MonyHorse",
+          "url": "https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD"
+        },
+        {
+          "name": "U-LEE",
+          "url": "https://open.spotify.com/artist/5brBirPSajSulsPdYTRAtf"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256012,
+      "name": "Fuko Chu No Saiwai",
+      "url": "https://open.spotify.com/track/1yZyjO1gnsKdhv7NoklnvE"
+    },
+    {
+      "album": {
         "name": "Funny Treats (Modeselektor Remix)",
         "url": "https://open.spotify.com/album/6FPkA34t9zNcbvlneSGtzr"
       },
@@ -3540,6 +3618,28 @@
       "duration_ms": 250666,
       "name": "Funny Treats - Modeselektor Remix",
       "url": "https://open.spotify.com/track/2o01dGrCGJnY1ogw43r414"
+    },
+    {
+      "album": {
+        "name": "The Seed, The Sinkhole, The Flower and The Flare",
+        "url": "https://open.spotify.com/album/5DEn2D8wUaOSu8dt2z7RNU"
+      },
+      "artists": [
+        {
+          "name": "J.G. Biberkopf",
+          "url": "https://open.spotify.com/artist/4FZJ3pueTsUnKqySSTjnns"
+        },
+        {
+          "name": "Holly Childs",
+          "url": "https://open.spotify.com/artist/0nrtWn1bBf6uASAABQUg0y"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315418,
+      "name": "Future Tripping",
+      "url": "https://open.spotify.com/track/70C91DaVb1ee87Z1o2NZp2"
     },
     {
       "album": {
@@ -3656,7 +3756,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 241481,
       "name": "Get Lost",
       "url": "https://open.spotify.com/track/2V2u8AxvhGlEmOtR2qo2OL"
@@ -4160,7 +4260,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 262827,
       "name": "Honey",
       "url": "https://open.spotify.com/track/6ztI9zfPNMhocBJcXbeEqt"
@@ -4320,7 +4420,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 334727,
       "name": "Hyper Daddy",
       "url": "https://open.spotify.com/track/0YAxRXw1CMuQxP58GsXm2P"
@@ -4620,6 +4720,32 @@
       "duration_ms": 228514,
       "name": "Is U",
       "url": "https://open.spotify.com/track/4Z3RGx7Be5plLoIw7i83wX"
+    },
+    {
+      "album": {
+        "name": "Iza Ngamandla",
+        "url": "https://open.spotify.com/album/2TzvFbbMy27d9sKGx2TXQg"
+      },
+      "artists": [
+        {
+          "name": "DJ Lag",
+          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
+        },
+        {
+          "name": "Sykes",
+          "url": "https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC"
+        },
+        {
+          "name": "Vanco",
+          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359218,
+      "name": "Iza Ngamandla",
+      "url": "https://open.spotify.com/track/2WD39n5kBRiWBKMZmC1Lom"
     },
     {
       "album": {
@@ -5717,6 +5843,24 @@
     },
     {
       "album": {
+        "name": "Guardian of Zeus",
+        "url": "https://open.spotify.com/album/663GCr3NZYz9vPlq7p2TFx"
+      },
+      "artists": [
+        {
+          "name": "Xterea",
+          "url": "https://open.spotify.com/artist/4bkTTQVvd8QAr89LquY83m"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394000,
+      "name": "Murky",
+      "url": "https://open.spotify.com/track/3g3z1fXXPwUDYWltjhhd3X"
+    },
+    {
+      "album": {
         "name": "Mutationist",
         "url": "https://open.spotify.com/album/5WKVA4aPPyAtxbfL4J0FgB"
       },
@@ -6038,6 +6182,24 @@
       "duration_ms": 342193,
       "name": "Nice Headache",
       "url": "https://open.spotify.com/track/6eVyyKGIHmGuUSKAvtwTee"
+    },
+    {
+      "album": {
+        "name": "THRASH",
+        "url": "https://open.spotify.com/album/5b4Fe3jAlY2P4rmR2AFV9Q"
+      },
+      "artists": [
+        {
+          "name": "Simon J Karis",
+          "url": "https://open.spotify.com/artist/0X91xxf34vnn5xrHbo357g"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226911,
+      "name": "night glaze smashed challice.alp",
+      "url": "https://open.spotify.com/track/6fqDhuA08fAQr3Ulc7u4PM"
     },
     {
       "album": {
@@ -6922,6 +7084,24 @@
       "duration_ms": 177230,
       "name": "Pressedt",
       "url": "https://open.spotify.com/track/0Mk6hZLxT3knnslxLrQtFJ"
+    },
+    {
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/64yYbIhNyOw7Dlurb8t2k5"
+      },
+      "artists": [
+        {
+          "name": "Sha Ru",
+          "url": "https://open.spotify.com/artist/2aXWnfzD15xaLcTuPhf9p5"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261017,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/5XzzDiiuWQUlnNZXOys4Dt"
     },
     {
       "album": {
@@ -8096,6 +8276,24 @@
       "duration_ms": 359480,
       "name": "Slimtonee",
       "url": "https://open.spotify.com/track/3Eo4bwLPq1fXu0WbqRNyBy"
+    },
+    {
+      "album": {
+        "name": "slob air",
+        "url": "https://open.spotify.com/album/03gSWmiZSv4alvJoNPtYH9"
+      },
+      "artists": [
+        {
+          "name": "Mica Levi",
+          "url": "https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 748000,
+      "name": "slob air",
+      "url": "https://open.spotify.com/track/4unSjjB9Jkx234FSFiR900"
     },
     {
       "album": {

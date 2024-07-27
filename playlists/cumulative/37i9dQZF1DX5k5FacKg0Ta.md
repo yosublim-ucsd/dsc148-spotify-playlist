@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-247 songs - 21 hr 38 min
+248 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Poncho](https://open.spotify.com/track/5l2mlrojPLmgdfMkgVxvCn) | [Mirja Mäkelä Trio](https://open.spotify.com/artist/5zDGpXwDXOqJQ1jh8GrfAy) | [Poncho](https://open.spotify.com/album/7n4lTJfOOXLAb5QqkvdfR1) | 3:14 | 2022-09-02 | 2023-09-15 |
 | [Portal Koma](https://open.spotify.com/track/2fFiFoqruKK5NaUgKJE55y) | [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Portal Koma](https://open.spotify.com/album/2g8TgNKQNPmRHJmgek64Sf) | 3:52 | 2023-10-05 | 2023-10-20 |
 | [Prediction Error](https://open.spotify.com/track/4Jc9LMJDhsGPWvavMogMGU) | [Arto Ikävalko](https://open.spotify.com/artist/6fbXrjG4gnY40gjD0LQWgs), [Joonas Tuuri](https://open.spotify.com/artist/39FhDhKtjqPOVn531rYne6), [Ville Luukkonen](https://open.spotify.com/artist/6Y6nK6vtcrXfsEIZhPV1fK) | [Changing Priors](https://open.spotify.com/album/5EhpoI6mfx5Ew6ENylDmfc) | 5:58 | 2024-04-26 |  |
+| [Pretty, pretty](https://open.spotify.com/track/4NyZ3VSI467QyI8bysOScq) | [Ville Tomminen](https://open.spotify.com/artist/3z05cHmgpoxtH09pPL5sYD) | [Pretty, pretty](https://open.spotify.com/album/261ugORy4WXLVPQqtcrtib) | 2:45 | 2024-07-25 |  |
 | [Projekt 13](https://open.spotify.com/track/2eYwlXQ2kN1uq3qbcCVh9l) | [Markus Venehsalo](https://open.spotify.com/artist/5WgO7f5jW1v9d0WhVQa6f2), [Mavon Safia](https://open.spotify.com/artist/3kbUjuq9gPGEYlzhP1nCit), [Frank Gambale](https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC) | [Projekt 13](https://open.spotify.com/album/3syNIcI6rjRZEVBpwf4LcL) | 4:11 | 2023-02-17 | 2023-04-01 |
 | [Pöllö](https://open.spotify.com/track/058ODZGnIEka63MaKmwj7Z) | [Njet Njet 9](https://open.spotify.com/artist/7rNnHAMppjTUfTcoIQTJEQ) | [Pöllö](https://open.spotify.com/album/6kPy7rOuH5WO1rOVRI2ZBU) | 6:02 | 2023-05-26 | 2023-10-27 |
 | [Quarantine Hotel](https://open.spotify.com/track/52zmgBTqsl1riy73iSrGag) | [Sigurdur Rögnvaldsson](https://open.spotify.com/artist/3yrdwR6M6jaukJJJXxHcJE), [Tuomas Antero Turunen](https://open.spotify.com/artist/1a9jCUUaca6eRDY7DVjYrQ), [Tatu Rönkkö](https://open.spotify.com/artist/46OQgmwKyrVCQBVUyjKFI8), [Jori Huhtala](https://open.spotify.com/artist/6lgNnlT4ua03OwPYYfPT9p) | [Lúna](https://open.spotify.com/album/7v01TkwxSOPqD4luG6HehL) | 5:44 | 2023-12-08 | 2024-04-13 |

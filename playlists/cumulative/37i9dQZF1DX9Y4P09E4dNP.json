@@ -1195,6 +1195,28 @@
     },
     {
       "album": {
+        "name": "Bar 7",
+        "url": "https://open.spotify.com/album/7crJEGssIO4bqz8blqLx6G"
+      },
+      "artists": [
+        {
+          "name": "E.L",
+          "url": "https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel"
+        },
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180406,
+      "name": "DELILAH",
+      "url": "https://open.spotify.com/track/6YY2AIGdI5rD2auPItEPfc"
+    },
+    {
+      "album": {
         "name": "Behind The Scenes",
         "url": "https://open.spotify.com/album/07PfhFkWFIYJagOsULigKd"
       },
@@ -2422,7 +2444,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 147939,
       "name": "MY STORY",
       "url": "https://open.spotify.com/track/4B4RmY7fkH6HnUM4bXBo1r"

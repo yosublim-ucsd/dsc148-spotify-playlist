@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 360021,
       "name": "Faithful",
       "url": "https://open.spotify.com/track/103rEdXIcaKjYy2Jr9rIos"
@@ -1136,7 +1136,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 284745,
       "name": "Good Life (Impilo Emnande) (Drumetic Boyz Remix)",
       "url": "https://open.spotify.com/track/23snllF8CMSehxyDrTAGhA"
@@ -2287,6 +2287,24 @@
     },
     {
       "album": {
+        "name": "Ta Mbilu Yanga (Live at Covenant House / 2023)",
+        "url": "https://open.spotify.com/album/7D3T33Vkh8G0q6m94KbPrd"
+      },
+      "artists": [
+        {
+          "name": "Khana Mhlongo",
+          "url": "https://open.spotify.com/artist/3jsZFkFbJCKZIR1SbbqiJj"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438973,
+      "name": "Khanimambo/Obrigado - Live at Covenant House / 2023",
+      "url": "https://open.spotify.com/track/25wWAnC4SPSyMD3pqw0s6f"
+    },
+    {
+      "album": {
         "name": "Khuleka",
         "url": "https://open.spotify.com/album/2S6MKMPIAnSbCXezzGrGIA"
       },
@@ -2398,7 +2416,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 462173,
       "name": "Kukhon' Igama (Live in Bryanston 2022) (feat. Sibongiseni Ndlovu & Thembelihle Mthethwa)",
       "url": "https://open.spotify.com/track/03ETrbJ4DCvi1Pos6OFOfj"
@@ -4734,6 +4752,24 @@
       "duration_ms": 306573,
       "name": "Ungikhathalele",
       "url": "https://open.spotify.com/track/6C6oM5DpJaeq2wyzQHAVRX"
+    },
+    {
+      "album": {
+        "name": "Ungu'Nkulukulu",
+        "url": "https://open.spotify.com/album/6QxnlaDhv5ZyLBemJAn3je"
+      },
+      "artists": [
+        {
+          "name": "Takie Ndou",
+          "url": "https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 523981,
+      "name": "Ungu'Nkulukulu",
+      "url": "https://open.spotify.com/track/1vj2MuD3nXDOvsfy7FjHz4"
     },
     {
       "album": {

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavxLjAz4XDv.md) - [plain]
 
 > Essential tracks from "Resident Evil" series\. 25周年を迎えたホラーゲームの金字塔、バイオハザードシリーズの音楽をプレイリストで。©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,747 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,754 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yearning for Dark Shadows](https://open.spotify.com/track/6hlTkQb3dcL3ZXTnUGh1n3) | [Brian D'Oliveira](https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz) | [BIOHAZARD VILLAGE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/50PXqGjTFAWNNTghrzcviI) | 6:02 |
 | 2 | [Go Tell Aunt Rhody \-Resident Evil\- \- Full Version Remastered 2021](https://open.spotify.com/track/79aRcYPbtRYHeOg5D5mOrm) | [Michael A\. Levine](https://open.spotify.com/artist/7dTj1YCEqf3RiUfSTdvmND) | [バイオハザードサウンドクロニクルIII](https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v) | 2:54 |
 | 3 | [Black Impact \- Remastered 2021](https://open.spotify.com/track/4tkhmOEwEwBRDXxCxaR0Ew) | [Zhenlan Kang](https://open.spotify.com/artist/6kl3efW7tl5W2La5T9NElp) | [バイオハザードサウンドクロニクルIII](https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v) | 3:31 |
-| 4 | [“O vendetta di Dio” \- Remastered 2021](https://open.spotify.com/track/7yl5tzutKgS06q8SkoTtUh) | [Takeshi Miura](https://open.spotify.com/artist/1Eii6MJjXMNyoRMvCiYDTN) | [バイオハザードサウンドクロニクルIII](https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v) | 3:36 |
+| 4 | [“O vendetta di Dio" \- Remastered 2021](https://open.spotify.com/track/7yl5tzutKgS06q8SkoTtUh) | [Takeshi Miura](https://open.spotify.com/artist/1Eii6MJjXMNyoRMvCiYDTN) | [バイオハザードサウンドクロニクルIII](https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v) | 3:36 |
 | 5 | [Secure Place](https://open.spotify.com/track/0OFk9R6SsxdwN2qwgNR2Sm) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y) | 0:56 |
 | 6 | [The Theme Of Alexia Type 2](https://open.spotify.com/track/5vW2tCcYpK3iXDxkWXRFY3) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y) | 2:31 |
 | 7 | [Last Judgment \- Remastered 2021](https://open.spotify.com/track/5yLxGWfRFTLm1r3KoqkYM8) | [中島健太郎](https://open.spotify.com/artist/38qCJ6vCoxPJYoJQbAm8T5) | [バイオハザードサウンドクロニクルIII](https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v) | 3:26 |

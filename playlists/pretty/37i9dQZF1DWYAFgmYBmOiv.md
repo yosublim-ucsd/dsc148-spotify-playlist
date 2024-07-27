@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 
 > pov: you're going on a cross\-country roadtrip with your three childhood best friends\. Cover: Britney Spears in Crossroads
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,794 likes - 20 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,947 likes - 20 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 | 6 | [You And Me](https://open.spotify.com/track/0hHlnO7HWc5MIpZn7y62BM) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Let's Do It For Johnny](https://open.spotify.com/album/48TBMDUhS21mC56lyLHs46) | 4:04 |
 | 7 | [Lipstick and Bruises](https://open.spotify.com/track/4eKvQNmjJCrYHKVjcTLCBr) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [Atomic](https://open.spotify.com/album/2lCbb5vW8kIWOuXPBKsRUV) | 3:00 |
 | 8 | [Rise](https://open.spotify.com/track/1TbihmZ2BtE4JP6C85I0zZ) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Beyond Good and Evil](https://open.spotify.com/album/1pYantsBzMCZvnTS0BlOIC) | 3:39 |
-| 9 | [Bye Bye Bye](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 |
+| 9 | [Bye Bye Bye \- From Deadpool and Wolverine Soundtrack](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 |
 | 10 | [Girlfriend](https://open.spotify.com/track/4ZFb9hUWOfdpq0JmbHDLyE) | [Matthew Sweet](https://open.spotify.com/artist/2idymNTKUdnTxforkb12Mw) | [Girlfriend](https://open.spotify.com/album/6iY6dGWklw6jfVGhEczCiC) | 3:40 |
 | 11 | [Spread Your Legs](https://open.spotify.com/track/5sWH5cZla8Zpi6wfTXcctI) | [The New Birth Brass Band](https://open.spotify.com/artist/00rD5nGPXiSwhXyqzZVDsI) | [D\-Boy](https://open.spotify.com/album/05DkLFcWigrcOCw1BF6eby) | 7:06 |
 | 12 | [I Love Rock 'N' Roll](https://open.spotify.com/track/29viePXNqWUw1cxqzOcuOD) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(Digital Deluxe Version\)](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) | 3:06 |

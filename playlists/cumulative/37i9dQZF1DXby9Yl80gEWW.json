@@ -1451,6 +1451,24 @@
     },
     {
       "album": {
+        "name": "Concrete and Steel",
+        "url": "https://open.spotify.com/album/0T9mLuAz73gyFfAiyEBfCD"
+      },
+      "artists": [
+        {
+          "name": "Off the Rails",
+          "url": "https://open.spotify.com/artist/5IQJ1whqwZ6KxBfEhTwAQn"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251047,
+      "name": "Concrete and Steel",
+      "url": "https://open.spotify.com/track/4py2tahEW31c0KfKIZFVE1"
+    },
+    {
+      "album": {
         "name": "Conway",
         "url": "https://open.spotify.com/album/2gxQWRKUiTvcjGm2t9AWIH"
       },
@@ -5020,7 +5038,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 146866,
       "name": "There Is Power in the Blood",
       "url": "https://open.spotify.com/track/44e9foUE9X9WNuSuW0rrNB"

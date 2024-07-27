@@ -1,6 +1,6 @@
 {
   "description": "Uplifting classical melodies to help you rise and shine.",
-  "num_followers": 425513,
+  "num_followers": 425610,
   "original_name": "Morning Classical",
   "owner": {
     "name": "Spotify",
@@ -440,12 +440,12 @@
       },
       "artists": [
         {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
           "name": "Benjamin Grosvenor",
           "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
+        },
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         }
       ],
       "duration_ms": 207046,

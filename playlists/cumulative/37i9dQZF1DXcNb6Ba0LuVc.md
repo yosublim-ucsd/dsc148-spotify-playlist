@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-515 songs - 20 hr 4 min
+520 songs - 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Common Sunflower](https://open.spotify.com/track/2LWBOPGmgxCI9awFaBN5JL) | [Lekie Low](https://open.spotify.com/artist/2ughhJsUZpM6BpChCO0E7X) | [Common Sunflower](https://open.spotify.com/album/7nAKPjLRFKenuKjjNQOYRw) | 1:39 | 2021-11-11 |  |
 | [con leche](https://open.spotify.com/track/5ORMaylKqIYBtAFedOVIXD) | [Camden Clown](https://open.spotify.com/artist/56yn1U5TaMjH6ENhDdlWfM) | [con leche](https://open.spotify.com/album/63NdYIgJpX3pH8mUTRucY8) | 2:58 | 2024-01-12 |  |
 | [Concrete Dream](https://open.spotify.com/track/6Q0NQC52cxfZuulrtVCRyA) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Concrete Dream](https://open.spotify.com/album/3BdMsPtS85XxErt4CyGrm5) | 2:20 | 2021-11-11 | 2022-06-03 |
+| [Conspiracy](https://open.spotify.com/track/3GIrnG853rYeeMEjB77ikE) | [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0), [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr) | [Conspiracy EP](https://open.spotify.com/album/6ZRJrEfLihbHA6NVHu5ktc) | 1:51 | 2024-07-26 |  |
 | [Constant Attention](https://open.spotify.com/track/7MV8YZCECT0CbS27e01pPC) | [Glowfi](https://open.spotify.com/artist/4v46lA8nHrwjONVAKc49on) | [Constant Attention](https://open.spotify.com/album/1k7NN2vZO9nJcte0HQHXCK) | 2:51 | 2021-11-11 | 2022-04-08 |
 | [contour](https://open.spotify.com/track/2Pb6ZuEm6FEfcGlqhHuqPN) | [Tatami Construct](https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC) | [Contour](https://open.spotify.com/album/6JX4qMJQLiq2lRBOKavCQI) | 2:55 | 2021-11-11 |  |
 | [Cool Stuff](https://open.spotify.com/track/2U93rBs3yVtgaXzsB0gvhr) | [Papier](https://open.spotify.com/artist/4XnZlNtghIcavIlOFvwNzW) | [March](https://open.spotify.com/album/0XRxmLy5fs3h1ay78UOCzQ) | 2:27 | 2021-11-11 |  |
@@ -208,6 +209,7 @@
 | [Jazzy Attitude](https://open.spotify.com/track/1ImlRruQ0ZMShqLNQ47JA7) | [Lush Groovebox](https://open.spotify.com/artist/1XUvAB59xTBce6cacKHuNj) | [Mellow Horizon](https://open.spotify.com/album/4XF3GKpWQuTQHemR24784t) | 1:28 | 2021-11-11 | 2022-09-17 |
 | [Jazzy Conscience](https://open.spotify.com/track/1fwiNplwwbDWodDUHiUHdU) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Mixtape](https://open.spotify.com/album/2bOYfvwq6ZYGzPtkDjbD95) | 1:25 | 2021-11-11 | 2022-06-03 |
 | [jazzy gyal](https://open.spotify.com/track/0uban5XYHLYwQQIOPLpwEZ) | [beosound](https://open.spotify.com/artist/5PxwgwToqzdaFKSQhYVDre) | [straight no chaser](https://open.spotify.com/album/56xRWuR1WApF2n8IItVVQX) | 1:33 | 2021-11-11 | 2022-05-20 |
+| [Jazzy Mondays](https://open.spotify.com/track/3AAahZu2L1Lbujjl2lnBJo) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Jazzy Mondays](https://open.spotify.com/album/3y7HEsjgwOJDJIsgb9jlBS) | 2:10 | 2024-07-26 |  |
 | [Jellyfish Chute](https://open.spotify.com/track/75JhYhGyekZtPgDyLbyRqS) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Flakes](https://open.spotify.com/album/45WTdqbH4bvvR8yZm5ykWL) | 2:41 | 2021-11-11 | 2022-10-29 |
 | [Jetlag](https://open.spotify.com/track/0HFPMPIPGy0o9ocbHMNz2P) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Cloudscape](https://open.spotify.com/album/1fN2VRfRVaRSJCn6hS4bgo) | 2:26 | 2024-07-24 |  |
 | [journey](https://open.spotify.com/track/6DSf9cKxl9MS4hz4WjdBeq) | [low&slow](https://open.spotify.com/artist/5nRIouNA5T37sVSDEjbhAL) | [journey](https://open.spotify.com/album/6NLbTUBuC5hrvX9qnT1k4P) | 2:20 | 2023-01-06 | 2024-07-25 |
@@ -289,6 +291,7 @@
 | [monday](https://open.spotify.com/track/52n1IByrXzLxoiXtN1RjFQ) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [fjäril](https://open.spotify.com/album/39id4ljGyvqpDZQGfgpPEp) | 2:58 | 2022-05-20 | 2022-09-03 |
 | [Monkey Dharma](https://open.spotify.com/track/1Udz46QwM232xCfaGo4jZq) | [Harry Krishan](https://open.spotify.com/artist/57dXzzdK8SX6MO2fSEM9sE) | [Monkey Dharma](https://open.spotify.com/album/5Ck90UYaNzsZprVCexHEWS) | 1:54 | 2023-06-15 |  |
 | [Montara](https://open.spotify.com/track/49VM3vCQBFr1wJJw7xByGf) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Montara](https://open.spotify.com/album/7aIvhwqFnvV3hFp0ocKwzO) | 3:45 | 2021-11-11 | 2022-06-10 |
+| [Monte](https://open.spotify.com/track/75RVkehEjhSr3gqnFxLl56) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Monte](https://open.spotify.com/album/7AIE5vEV0UZulVSNMP0Pa9) | 1:46 | 2024-07-26 |  |
 | [Montego](https://open.spotify.com/track/3t3KBPlKEIxUtk3h0DNQJn) | [Toshdy](https://open.spotify.com/artist/55bwDdaEDVEycXFNC9Xl1D) | [Montego](https://open.spotify.com/album/12WymcJPB9GXeBsMq94NUz) | 2:27 | 2021-11-11 |  |
 | [Moon Lip](https://open.spotify.com/track/2vy02ol7WFVDLp9NWIRt9L) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Moon Lip](https://open.spotify.com/album/6ilV2UnlVjSvmiuOb6I8Xr) | 2:00 | 2021-11-11 | 2022-05-20 |
 | [Morning Bop](https://open.spotify.com/track/7zK6zgXTPYVpWa2W0mRghL) | [Vancgroover](https://open.spotify.com/artist/4oAJgYdsGm7zkJgZTCPA0a) | [Morning Bop](https://open.spotify.com/album/2EuhBsy4LXpc2gPZ8BJ2HJ) | 2:39 | 2021-11-11 | 2022-05-27 |
@@ -356,6 +359,7 @@
 | [Really Get Going](https://open.spotify.com/track/69Go42QZw7dC2Ehl0pZhCi) | [Steefann](https://open.spotify.com/artist/6bQY0OdvrUz4BUlajKcLfF) | [Really Get Going](https://open.spotify.com/album/4MACdcvjpSigHwHLxWDhyx) | 2:35 | 2021-11-11 |  |
 | [rebounce](https://open.spotify.com/track/2tW8wzVmE4NZNX2dCpDyz4) | [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [Moods 2020](https://open.spotify.com/album/645AC6dlytq5nFwF6kvpA4) | 2:02 | 2021-11-11 | 2022-05-20 |
 | [Red Dove](https://open.spotify.com/track/7LebLMIwvYvoWbBd9GYtxW) | [Greenland](https://open.spotify.com/artist/58WLeCP383TOf9KPchxyLl) | [Red Dove](https://open.spotify.com/album/7GJpLw4jMbTx00deI5jpOa) | 2:02 | 2021-11-11 | 2022-09-03 |
+| [redstarts anthem](https://open.spotify.com/track/3SaPKXrGjouLEhpLteWeOu) | [ghostschreiber](https://open.spotify.com/artist/40z4VAR5NBGOTEpjfuDicX), [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t) | [redstarts anthem](https://open.spotify.com/album/4Ovaj9N6dqvSY30QzRJr9D) | 2:30 | 2024-07-26 |  |
 | [Redwoods](https://open.spotify.com/track/11gVIeL9FfqhF45zmjm6xT) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Redwoods](https://open.spotify.com/album/6Kk4bJJTGPRq1Z3X0EtpRN) | 2:38 | 2022-05-27 | 2023-10-13 |
 | [Relevance](https://open.spotify.com/track/5xntfyh1ivokbbC3cV7268) | [Zifon](https://open.spotify.com/artist/6Ys1Of9xkkOSwsxgEMtcFU) | [Alleviate](https://open.spotify.com/album/0sfx4STbwzhN1tyfCsUuL2) | 1:46 | 2021-11-11 | 2022-06-10 |
 | [Retro Retreat](https://open.spotify.com/track/5aAV0yhdBbpKkbuDWng1cl) | [Rebecca Mardal](https://open.spotify.com/artist/56PuDgywHPrbEFyujgPc9V) | [Retro Retreat](https://open.spotify.com/album/30Q0q8iC2pOTMEd8zYgCIV) | 2:42 | 2024-06-14 |  |
@@ -520,6 +524,7 @@
 | [wolfram wonders](https://open.spotify.com/track/2SEnMRBzVNrfraOxbFKI2Q) | [ideal form](https://open.spotify.com/artist/2YhLgIJkYQpdzQqUoLE79a) | [lightbulb](https://open.spotify.com/album/7tlUo25yvN8n0JErn7ytSw) | 1:48 | 2021-11-11 | 2023-09-22 |
 | [Wonderland](https://open.spotify.com/track/6qeMnGssbQmFZQ4NA9NPT2) | [So\_nny](https://open.spotify.com/artist/1sHQ9ZkPcQPs3TIG3EJFd4) | [Wonderland](https://open.spotify.com/album/1FXPEiafiBIQoBL2FnoWGl) | 2:30 | 2021-11-11 |  |
 | [words > numbers](https://open.spotify.com/track/04zAxdQmKHREESSIcHRF3K) | [Blue Boatz](https://open.spotify.com/artist/3HrkUrHEDPnVCg92aTL15T) | [words > numbers](https://open.spotify.com/album/3JnbEfKjAABORB0DSb6iOc) | 2:56 | 2021-11-11 |  |
+| [Worn Out](https://open.spotify.com/track/3L4lHBy6v9QPDyep6H7lFm) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU), [Cutecake](https://open.spotify.com/artist/4siWS58eyzzQFTp3XJYKin) | [Worn Out](https://open.spotify.com/album/5dyGbWLIxKFomU8pJGL4V8) | 1:43 | 2024-07-26 |  |
 | [yaaas](https://open.spotify.com/track/7FAktFGtxzYbcE6ceIyYzn) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [yaaas](https://open.spotify.com/album/0ftJW9wygyS41Fa3h7RNE0) | 2:35 | 2021-11-11 | 2022-06-10 |
 | [Yeah](https://open.spotify.com/track/2abaYdfFymBL6Mv9PncHEV) | [Banker](https://open.spotify.com/artist/2VTXmYvdlvwrIQ0p2j2XfI), [Lodge Records](https://open.spotify.com/artist/1zH6nlehuJvatlTMmKok98) | [Yeah](https://open.spotify.com/album/0YRt8c44lBN9YT784VvATy) | 2:41 | 2022-05-20 | 2022-09-09 |
 | [Yo Baby](https://open.spotify.com/track/7F2Wan2OgGz9XB7oEBNQYO) | [Five Fingers](https://open.spotify.com/artist/10LCB4dVgrtVsM8SBEXtdS) | [Yo Baby](https://open.spotify.com/album/0g6uWkUNFs7KInS2JoXxH4) | 2:22 | 2022-11-11 |  |

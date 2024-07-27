@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Nonaria",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Littlefingers",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -296,7 +296,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 224835,
       "name": "Afterthought",
       "url": "https://open.spotify.com/track/3cXwYQyvPCwNoWPDisoBOy"
@@ -1869,6 +1869,24 @@
     },
     {
       "album": {
+        "name": "Nada Cintaku",
+        "url": "https://open.spotify.com/album/7miau4wzSysbfwmmRQn1Ft"
+      },
+      "artists": [
+        {
+          "name": "Christ Kayhatu",
+          "url": "https://open.spotify.com/artist/1UGLJ0ug9PKNdUd8GMe2b6"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315210,
+      "name": "Image",
+      "url": "https://open.spotify.com/track/6CDcX2XvRi80Ks0ewhGti1"
+    },
+    {
+      "album": {
         "name": "In the Night",
         "url": "https://open.spotify.com/album/3PBzXw12O4fygvwg6Ly68b"
       },
@@ -2214,6 +2232,24 @@
       "duration_ms": 208194,
       "name": "Keriput",
       "url": "https://open.spotify.com/track/4GJiXb71ecPncdDcg0wMcP"
+    },
+    {
+      "album": {
+        "name": "Koji",
+        "url": "https://open.spotify.com/album/5oEMwd01BroAyojnSFAaqG"
+      },
+      "artists": [
+        {
+          "name": "Littlefingers",
+          "url": "https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228720,
+      "name": "Koji",
+      "url": "https://open.spotify.com/track/3gLJyeqR4Rwu3xJPlI5ylW"
     },
     {
       "album": {
@@ -2595,6 +2631,28 @@
     },
     {
       "album": {
+        "name": "Perjalanan",
+        "url": "https://open.spotify.com/album/0P74BQZP32tDrGbYaHHeeb"
+      },
+      "artists": [
+        {
+          "name": "5Petani",
+          "url": "https://open.spotify.com/artist/2gcy19PBJyMIGP5avLkzCp"
+        },
+        {
+          "name": "Adeavery",
+          "url": "https://open.spotify.com/artist/2LKa7eyIqxqTLgEvlzk1bl"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "Membumi",
+      "url": "https://open.spotify.com/track/0TvmXKdVpjJtqVRzDlG9UA"
+    },
+    {
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/2FFpls5cmtoeWBotbKWiBx"
       },
@@ -2672,6 +2730,28 @@
       "duration_ms": 217726,
       "name": "Move on Up",
       "url": "https://open.spotify.com/track/1vVtj478XlTqGZb95kc17B"
+    },
+    {
+      "album": {
+        "name": "Music To My Soul (Special)",
+        "url": "https://open.spotify.com/album/1sd9LFjN1hqsinzdUFTC0G"
+      },
+      "artists": [
+        {
+          "name": "Heyru",
+          "url": "https://open.spotify.com/artist/1VLQWJyEb1apcDzhyOrmWH"
+        },
+        {
+          "name": "Fabiolous",
+          "url": "https://open.spotify.com/artist/2HnIXtsVHBDu2PrB8f3nyz"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283346,
+      "name": "Music To My Soul (Special)",
+      "url": "https://open.spotify.com/track/1YXlBYdTsy0pWvRHi9ScVF"
     },
     {
       "album": {
@@ -2814,6 +2894,24 @@
       "duration_ms": 259681,
       "name": "Nusaniwe",
       "url": "https://open.spotify.com/track/45P7aCwWn9Oj4KtkgoIUo5"
+    },
+    {
+      "album": {
+        "name": "Etude",
+        "url": "https://open.spotify.com/album/0TQFBksym24sKgT6KMsjEL"
+      },
+      "artists": [
+        {
+          "name": "Adi Darmawan",
+          "url": "https://open.spotify.com/artist/4tf4XhhTlovrEj01je6ozX"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354413,
+      "name": "Nyomennyoh",
+      "url": "https://open.spotify.com/track/3vbjE0uKesNplB2q37pLqr"
     },
     {
       "album": {

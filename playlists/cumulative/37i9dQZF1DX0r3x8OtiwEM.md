@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-644 songs - 2 day 15 hr 42 min
+645 songs - 2 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Balloons \- Made in Paris Remix](https://open.spotify.com/track/6sHBpR20gmPQmsAiqhbhJe) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Made in Paris](https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N) | [Once in a Blue Moon \(Remixes\)](https://open.spotify.com/album/2eghyUE7oGVnvdlHZhcbN6) | 5:46 | 2021-05-07 | 2022-06-10 |
 | [Be Patient](https://open.spotify.com/track/2d9QvDQS5ijgMBynTnYMa3) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Be Patient](https://open.spotify.com/album/3xjRJcTxSTvP4QeR8EX1vj) | 3:08 | 2022-04-15 | 2022-04-20 |
 | [Beirut](https://open.spotify.com/track/1QAukxDeTuctdK9O6IzyJv) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Beirut](https://open.spotify.com/album/1zuIiMG3WV5wVKe5iD2dQq) | 5:13 | 2022-07-01 | 2022-07-09 |
+| [Believe](https://open.spotify.com/track/5JIC3AqDuyFtva4oExpNcx) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Believe](https://open.spotify.com/album/6fsPFECJJpDQQpbh1mYtwu) | 3:50 | 2024-07-26 |  |
 | [Best of Me \- Radio Edit](https://open.spotify.com/track/3nQPkePHredC24hsQBmlbj) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Sailor & I](https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx) | [Best of Me \(Radio Edit\)](https://open.spotify.com/album/4r3jo7rdIgbAbMXX6tkyTB) | 3:49 | 2020-09-26 | 2022-10-18 |
 | [Best of Me \- Radio Edit](https://open.spotify.com/track/4bJ7hDIjOucR0hGDEaVBOr) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Sailor & I](https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx) | [Best of Me \(Radio Edit\)](https://open.spotify.com/album/0JZhnQOj0GJqODT4NolPLv) | 3:49 | 2022-10-07 | 2022-11-26 |
 | [Between Two Worlds](https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Between Two Worlds](https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy) | 7:44 | 2022-07-08 | 2024-06-17 |
@@ -477,7 +478,7 @@
 | [Schwer](https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Schwer](https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10) | 3:34 | 2023-09-19 |  |
 | [See Me](https://open.spotify.com/track/00Aadz2JtbpEilrOUWsrVt) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [See Me](https://open.spotify.com/album/6lxCZOVCs1PPvXcEmp9Wed) | 3:40 | 2024-05-31 |  |
 | [Sektor](https://open.spotify.com/track/7ieGiNeMBSoAomdAAuOt6r) | [Marius Drescher](https://open.spotify.com/artist/4oU99ab1DTNIF3a9RHmnhf) | [Sektor](https://open.spotify.com/album/4gdGrl8AllxmdA0fU3p5vG) | 7:15 | 2019-08-29 | 2019-12-22 |
-| [Seraphina](https://open.spotify.com/track/7z34hBre7xaecEJkcoA2mE) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr) | [Seraphina EP](https://open.spotify.com/album/6AqYAOl7A25dwO4m4SHVV7) | 7:24 | 2024-07-19 |  |
+| [Seraphina](https://open.spotify.com/track/7z34hBre7xaecEJkcoA2mE) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr) | [Seraphina EP](https://open.spotify.com/album/6AqYAOl7A25dwO4m4SHVV7) | 7:24 | 2024-07-19 | 2024-07-27 |
 | [Serenade \- Radio Edit](https://open.spotify.com/track/3WrUwFdVmsQGJ15ytGFNw8) | [Tom Demac](https://open.spotify.com/artist/3758ZYkL9uiug7nHTQNWcP) | [Serenade](https://open.spotify.com/album/22fyTTuxua996UoZk41lft) | 5:03 | 2019-08-06\* | 2019-09-19 |
 | [Serendipity \- Niconé & Dirty Doering Remix](https://open.spotify.com/track/0YnlF7Vg46KDnhw72U5E1b) | [Roderic](https://open.spotify.com/artist/7wSzFq5CoNoCpzazDphDJs), [Isabel Sesma](https://open.spotify.com/artist/1PuVLpqkfMOATQGiZZrzb6), [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI), [Dirty Doering](https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea) | [It All Depends Remixes](https://open.spotify.com/album/0fVSt89rZkhirkNEgfoFp2) | 7:18 | 2020-01-16 | 2020-07-25 |
 | [Serene](https://open.spotify.com/track/1dcf0QKivMDYgnZSWoMQht) | [Austrek](https://open.spotify.com/artist/5o9ehF7eb3bPeKdf4LXUmz) | [Serene](https://open.spotify.com/album/1zRJ5Q0nj2yAuQoyvCDE2S) | 6:08 | 2019-09-19 | 2020-04-05 |

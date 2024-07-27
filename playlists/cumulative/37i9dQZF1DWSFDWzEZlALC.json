@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Dominik Hartz",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Blumengarten",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "36\u00b0C",
+        "url": "https://open.spotify.com/album/640HnQfReS1Y3DBts3jPAh"
+      },
+      "artists": [
+        {
+          "name": "Vince",
+          "url": "https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141188,
+      "name": "36\u00b0C",
+      "url": "https://open.spotify.com/track/5IpyN23pbujzW3eMzIfPcL"
+    },
+    {
+      "album": {
         "name": "4 Minuten",
         "url": "https://open.spotify.com/album/1DoPaZsbPsnWCCBKiVlpQV"
       },
@@ -468,6 +486,24 @@
       "duration_ms": 152673,
       "name": "7SD",
       "url": "https://open.spotify.com/track/0uSPEMHkNHifMbwYUP4LwH"
+    },
+    {
+      "album": {
+        "name": "8 stufen",
+        "url": "https://open.spotify.com/album/6rZMZ81XtYHcEQF6FhWmYs"
+      },
+      "artists": [
+        {
+          "name": "elimako",
+          "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181913,
+      "name": "8 stufen",
+      "url": "https://open.spotify.com/track/7dDTdZHDyxGhyjjlvYHebZ"
     },
     {
       "album": {
@@ -1584,7 +1620,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 166700,
       "name": "bittebitte",
       "url": "https://open.spotify.com/track/4BPWmTxuWLsvOwN4ej6S7u"
@@ -1898,6 +1934,24 @@
       "duration_ms": 191847,
       "name": "Boxes",
       "url": "https://open.spotify.com/track/724mj683MA2AeTe3kzyJ0o"
+    },
+    {
+      "album": {
+        "name": "Boxsack",
+        "url": "https://open.spotify.com/album/5HhOK5UQeREH5nh5QnwitT"
+      },
+      "artists": [
+        {
+          "name": "fiio",
+          "url": "https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Boxsack",
+      "url": "https://open.spotify.com/track/7DQuPLmkfztfrAvrjaAvom"
     },
     {
       "album": {
@@ -2548,7 +2602,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 147774,
       "name": "Die da oben",
       "url": "https://open.spotify.com/track/1T1njoIbslXr06PHxAKr9f"
@@ -4144,7 +4198,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 197957,
       "name": "Frei",
       "url": "https://open.spotify.com/track/6htgH0ecztsWPJskOLT6GQ"
@@ -5371,6 +5425,24 @@
     },
     {
       "album": {
+        "name": "Verlieren/Gefunden",
+        "url": "https://open.spotify.com/album/5sHrdD7S86kT85JsOtxOgi"
+      },
+      "artists": [
+        {
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146134,
+      "name": "Hier",
+      "url": "https://open.spotify.com/track/4pixX8XnfVkmLWQDMANjG9"
+    },
+    {
+      "album": {
         "name": "Hilferuf",
         "url": "https://open.spotify.com/album/2pV2IQwHfErIcdjNxznMqs"
       },
@@ -5625,6 +5697,24 @@
     },
     {
       "album": {
+        "name": "Ich liebe dich f\u00fcr immer",
+        "url": "https://open.spotify.com/album/10ny8Yjm54qqJVXui9lR3R"
+      },
+      "artists": [
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163626,
+      "name": "Ich liebe dich f\u00fcr immer",
+      "url": "https://open.spotify.com/track/3IWtxinpzdLpRxtqIEtffR"
+    },
+    {
+      "album": {
         "name": "ich mach mich (regardless)",
         "url": "https://open.spotify.com/album/477Bp1mHoQ4XhTY2LWm8UG"
       },
@@ -5680,7 +5770,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 224959,
       "name": "Ich Widerstehe",
       "url": "https://open.spotify.com/track/0VOiZi8XnerwmVY3McF97s"
@@ -6156,6 +6246,24 @@
       "duration_ms": 193012,
       "name": "Joel",
       "url": "https://open.spotify.com/track/7A2MVRdwPy1PKiF5euhNK6"
+    },
+    {
+      "album": {
+        "name": "H\u00f6rst du mich",
+        "url": "https://open.spotify.com/album/2ZMgHwe3AcY5paMZfbsKNX"
+      },
+      "artists": [
+        {
+          "name": "Sandra Isabel",
+          "url": "https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180526,
+      "name": "Juli",
+      "url": "https://open.spotify.com/track/7ATT3NKq4loDIZnpMvUK8S"
     },
     {
       "album": {
@@ -6676,6 +6784,24 @@
       "duration_ms": 123809,
       "name": "Klimpa Klimpa",
       "url": "https://open.spotify.com/track/5Mhcs48UfZn7CeNv1wgNyT"
+    },
+    {
+      "album": {
+        "name": "Koffer",
+        "url": "https://open.spotify.com/album/1GaRHGGzkqxaeUfEX77ZIg"
+      },
+      "artists": [
+        {
+          "name": "Apsilon",
+          "url": "https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212690,
+      "name": "Koffer",
+      "url": "https://open.spotify.com/track/4LGysr2kp2s1kMdqmN9pNt"
     },
     {
       "album": {
@@ -7418,10 +7544,32 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 116726,
       "name": "lippenblau",
       "url": "https://open.spotify.com/track/2mDJNAEekeLiMoHHtaRP7Y"
+    },
+    {
+      "album": {
+        "name": "Lisa Hahn",
+        "url": "https://open.spotify.com/album/3nLGIWEa0Qs98MaIDw6COc"
+      },
+      "artists": [
+        {
+          "name": "bac",
+          "url": "https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF"
+        },
+        {
+          "name": "alfons.",
+          "url": "https://open.spotify.com/artist/6Y44iZaaZDPqrztfH9dcin"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141190,
+      "name": "Lisa Hahn",
+      "url": "https://open.spotify.com/track/0H1C9bRnRCsd5DH0FuxBGj"
     },
     {
       "album": {
@@ -8532,7 +8680,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 156798,
       "name": "nie vorbei",
       "url": "https://open.spotify.com/track/2Db1HUXWAonGtRG7Hf7xeI"
@@ -8652,6 +8800,24 @@
       "duration_ms": 211800,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/09QQd4SG87DKuel4BVYkfT"
+    },
+    {
+      "album": {
+        "name": "noch nie (wie jetzt)",
+        "url": "https://open.spotify.com/album/5thF4l8ASYwHjSDbSUrRnx"
+      },
+      "artists": [
+        {
+          "name": "siovo",
+          "url": "https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175608,
+      "name": "noch nie (wie jetzt)",
+      "url": "https://open.spotify.com/track/1SdDv2e6nqyeLeSzzSEvtc"
     },
     {
       "album": {
@@ -9024,7 +9190,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 161568,
       "name": "Out of my mind",
       "url": "https://open.spotify.com/track/6bJQGd354FkFJSsCy14nPX"
@@ -9216,7 +9382,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 153560,
       "name": "peace of mind",
       "url": "https://open.spotify.com/track/00sqPDJe2cfyBZIyD0sZts"
@@ -10337,6 +10503,24 @@
     },
     {
       "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/1pipnTMh10iIYUmm1fMfhH"
+      },
+      "artists": [
+        {
+          "name": "Carla Ahad",
+          "url": "https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147043,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/0z8QuPlayYfAHZJmKixb5l"
+    },
+    {
+      "album": {
         "name": "Serpentinen",
         "url": "https://open.spotify.com/album/63torPFG0Htj2XsffsGNUm"
       },
@@ -10784,6 +10968,24 @@
     {
       "album": {
         "name": "Sommerregen",
+        "url": "https://open.spotify.com/album/0GuyFmQ0A7LCwvQXfryIGg"
+      },
+      "artists": [
+        {
+          "name": "LoSin",
+          "url": "https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154400,
+      "name": "Sommerregen",
+      "url": "https://open.spotify.com/track/1o4ENECnv5rZILIq8piPdJ"
+    },
+    {
+      "album": {
+        "name": "Sommerregen",
         "url": "https://open.spotify.com/album/7KOpokcGiDbtOVfHY0srjl"
       },
       "artists": [
@@ -10874,6 +11076,24 @@
       "duration_ms": 150384,
       "name": "sowas von da (hellwach)",
       "url": "https://open.spotify.com/track/0YYvd9mj8va83hI7iUAWSW"
+    },
+    {
+      "album": {
+        "name": "Space Age",
+        "url": "https://open.spotify.com/album/7r3XS7ra75dIjekEjdO8Ao"
+      },
+      "artists": [
+        {
+          "name": "RAR",
+          "url": "https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144500,
+      "name": "Space Age",
+      "url": "https://open.spotify.com/track/5XyN6Z8dX6b6dtZHK9FCcv"
     },
     {
       "album": {
@@ -11068,7 +11288,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 209577,
       "name": "Stimmen",
       "url": "https://open.spotify.com/track/4j0aEdwpUwh04DKqmBmYOp"
@@ -12940,7 +13160,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 158061,
       "name": "Wie weit",
       "url": "https://open.spotify.com/track/1Rax9jcKsPwQjnRLmZTC9F"
@@ -12998,7 +13218,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 179013,
       "name": "Willkommen in der Realit\u00e4t",
       "url": "https://open.spotify.com/track/2aoIcx6nhScB6ZSNUzKvrT"
@@ -13266,7 +13486,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 191500,
       "name": "Zigarettengift",
       "url": "https://open.spotify.com/track/4YIi19US8nYo5rNe7Mqen5"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: AIN\u00c9",
+  "description": "Il meglio dell'R&B italiano. Cover: Nico Kyni",
   "name": "anima R&B",
   "tracks": [
     {
@@ -1754,7 +1754,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 191515,
       "name": "Chianu chiano (feat. Federico Di Napoli)",
       "url": "https://open.spotify.com/track/5g1miSRl5JjLXBHqUUKejy"
@@ -6919,6 +6919,28 @@
     },
     {
       "album": {
+        "name": "Nankurunaisa",
+        "url": "https://open.spotify.com/album/6uRNa9BJK7d3dFZxGIDxku"
+      },
+      "artists": [
+        {
+          "name": "sara j jones",
+          "url": "https://open.spotify.com/artist/7I3cZK2UEuNOwZAHov9z9o"
+        },
+        {
+          "name": "cura",
+          "url": "https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156111,
+      "name": "Nankurunaisa",
+      "url": "https://open.spotify.com/track/7A8F6HdwUBYkE7TxpkxVCj"
+    },
+    {
+      "album": {
         "name": "Napoli (feat. Ezeeo)",
         "url": "https://open.spotify.com/album/5Y0vNaNfAA4AtT3HHLcGS5"
       },
@@ -8444,7 +8466,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 206829,
       "name": "PIANETA",
       "url": "https://open.spotify.com/track/0vWMCUuWXL8tVaBhbd2Dfx"
@@ -11742,6 +11764,28 @@
       "duration_ms": 326808,
       "name": "Una notte",
       "url": "https://open.spotify.com/track/26UuG6DtoSo2jlPQuEcDe9"
+    },
+    {
+      "album": {
+        "name": "UNA NOTTE ANCORA",
+        "url": "https://open.spotify.com/album/0BESuf5QsKyJBUm9XElbXl"
+      },
+      "artists": [
+        {
+          "name": "Florence",
+          "url": "https://open.spotify.com/artist/5qyGTDa4a3jH5cGdH6G9M6"
+        },
+        {
+          "name": "dNoise",
+          "url": "https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142277,
+      "name": "UNA NOTTE ANCORA",
+      "url": "https://open.spotify.com/track/1EJjT0KxQnpbXZcdpBPbvb"
     },
     {
       "album": {

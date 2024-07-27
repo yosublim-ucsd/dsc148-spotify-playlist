@@ -406,7 +406,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 173626,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/3SY3e2LrTTNpoiv3yAXE0T"
@@ -3597,6 +3597,24 @@
     },
     {
       "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/6raOH84yGL3ZzpOtpIgPbQ"
+      },
+      "artists": [
+        {
+          "name": "Tjsarx",
+          "url": "https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174157,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/5k3S8w74XsbNBDUHdiFiwz"
+    },
+    {
+      "album": {
         "name": "Jesus is Lord",
         "url": "https://open.spotify.com/album/00MR3DsfzyVVJPGUMz0oWP"
       },
@@ -4697,6 +4715,32 @@
     },
     {
       "album": {
+        "name": "Rock, Paper, Scissors",
+        "url": "https://open.spotify.com/album/20JhIeTpWQIeSAyNPpahzd"
+      },
+      "artists": [
+        {
+          "name": "Paul-Emmanuel",
+          "url": "https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3"
+        },
+        {
+          "name": "Nuelzo",
+          "url": "https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR"
+        },
+        {
+          "name": "Awesome's Music Group",
+          "url": "https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181894,
+      "name": "Rock, Paper, Scissors",
+      "url": "https://open.spotify.com/track/1W82bqiPv8MmRbHFPESPi5"
+    },
+    {
+      "album": {
         "name": "Sacrifices",
         "url": "https://open.spotify.com/album/05jjR9mGXTvLf2x8QYoiOq"
       },
@@ -5010,6 +5054,24 @@
       "duration_ms": 141000,
       "name": "Stirring Up - Kushim Remix",
       "url": "https://open.spotify.com/track/7DQBaHkzDwlUGK5JPJ9mbI"
+    },
+    {
+      "album": {
+        "name": "SUMMER",
+        "url": "https://open.spotify.com/album/42lZ7fs6ZVYjOvpXvbhUu1"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145919,
+      "name": "SUMMER",
+      "url": "https://open.spotify.com/track/22xjQaEYVuTKbZVdTUneSw"
     },
     {
       "album": {
@@ -6100,6 +6162,24 @@
     {
       "album": {
         "name": "Wonder",
+        "url": "https://open.spotify.com/album/2PER0EExFKWJBZwaKZ1lG6"
+      },
+      "artists": [
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176848,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/3NmLI7GbhOTeGV2yXKg1dA"
+    },
+    {
+      "album": {
+        "name": "Wonder",
         "url": "https://open.spotify.com/album/6LGi14GqL0mpLw0HbphcAe"
       },
       "artists": [
@@ -6118,6 +6198,32 @@
       "duration_ms": 196363,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/5YfRrfnLf0rvsYlE7q1Jbf"
+    },
+    {
+      "album": {
+        "name": "WONDERFUL",
+        "url": "https://open.spotify.com/album/5axh27WducjLFbcRUyKHxe"
+      },
+      "artists": [
+        {
+          "name": "EJ Newton",
+          "url": "https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4"
+        },
+        {
+          "name": "Julia McMillan",
+          "url": "https://open.spotify.com/artist/5ektyaMN6ejyyiSdkDUArQ"
+        },
+        {
+          "name": "Great Grace Music",
+          "url": "https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223846,
+      "name": "WONDERFUL",
+      "url": "https://open.spotify.com/track/1gU3Uiu6yX6B0GQu32a9TX"
     },
     {
       "album": {

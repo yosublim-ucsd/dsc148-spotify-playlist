@@ -1524,7 +1524,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 160941,
       "name": "Ice Cold Beer",
       "url": "https://open.spotify.com/track/75v3gVrFHQtF4NGEZ2c1mk"
@@ -1608,6 +1608,32 @@
       "duration_ms": 268957,
       "name": "Kickin It In Tennessee",
       "url": "https://open.spotify.com/track/00tjbaCO1fXTdFdCrQH09L"
+    },
+    {
+      "album": {
+        "name": "King of Ca$hville",
+        "url": "https://open.spotify.com/album/287Yi7kvHlUjp6a1glkXTZ"
+      },
+      "artists": [
+        {
+          "name": "Kountry Boi",
+          "url": "https://open.spotify.com/artist/4sPLPkzmZHiEvpkIKSjUOT"
+        },
+        {
+          "name": "Bezz Believe",
+          "url": "https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq"
+        },
+        {
+          "name": "Colt Graves",
+          "url": "https://open.spotify.com/artist/26YgSVVJxvx1LQsollyBjQ"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187990,
+      "name": "King of Ca$hville",
+      "url": "https://open.spotify.com/track/14iJQEf3h8CU0n0vstNEj1"
     },
     {
       "album": {

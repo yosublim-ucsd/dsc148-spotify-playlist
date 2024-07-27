@@ -4,7 +4,7 @@
 
 > The best new Irish alternative sounds\. Cover: chameleon
 
-78 songs - 4 hr 39 min
+81 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Bring Heaven](https://open.spotify.com/track/5eOnr7YL7ZxH0N53cOcVyp) | [Mjeam](https://open.spotify.com/artist/4agfjDmBH4Xpqr2tNRKlWn) | [Bring Heaven](https://open.spotify.com/album/6cdkEDv8szrzO4SNkYXYmV) | 2:26 | 2024-06-20 |  |
 | [Camera Shy](https://open.spotify.com/track/2C1JgukgvDi86aODDZrSp2) | [Post\-Party](https://open.spotify.com/artist/6Sg6gogb6FlpSMhqTL7XO9) | [Camera Shy](https://open.spotify.com/album/2ypzTHQbRGdXGrujQvkXzt) | 3:31 | 2024-06-20 | 2024-07-13 |
 | [Chill For The Summer](https://open.spotify.com/track/0sdzs2foIVxCmfMIJZsNhd) | [Sick Love](https://open.spotify.com/artist/08WUbbIzHJ003HDxCRdpaB) | [Champagne](https://open.spotify.com/album/20hO0Er1v4yvq8sTFhRccf) | 4:00 | 2024-06-20 |  |
-| [Crash and Burn](https://open.spotify.com/track/71yDRBo3i9b5kQZClMO2t4) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Crash and Burn / Said Nothing](https://open.spotify.com/album/4XWv8Kw5seA17Ki0uMwnBf) | 3:29 | 2024-06-20 |  |
+| [Crash and Burn](https://open.spotify.com/track/71yDRBo3i9b5kQZClMO2t4) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Crash and Burn / Said Nothing](https://open.spotify.com/album/4XWv8Kw5seA17Ki0uMwnBf) | 3:29 | 2024-06-20 | 2024-07-27 |
 | [CSB](https://open.spotify.com/track/7oflizr4wg5N1DnVt0YZoQ) | [Skies Behind](https://open.spotify.com/artist/4Y0QbsWzdVpjGquNqZuAo8) | [The Spaces](https://open.spotify.com/album/0uCPP0LYOmW1BJbHf7fib8) | 3:19 | 2024-06-20 |  |
 | [Doctor](https://open.spotify.com/track/4y3huzGv2hwDcEinxfAAwm) | [HAWKE THE BAND](https://open.spotify.com/artist/4J60NlrfKz5XOOG2qi2jGY) | [Doctor](https://open.spotify.com/album/7p22ll5NRESGc4I7B6m2ZI) | 3:01 | 2024-06-20 |  |
 | [Don't Wanna Talk About It](https://open.spotify.com/track/0THLcu5UQrY7q0RW2ZU6Ze) | [Valerie Rose](https://open.spotify.com/artist/07ti3q3QcT6Xe8eCFNlZlZ) | [Don't Wanna Talk About It](https://open.spotify.com/album/25bQY9BdoUpb5SXlxyt6jX) | 2:44 | 2024-06-20 |  |
@@ -43,6 +43,7 @@
 | [I'm Always Here](https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [Hurting](https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT) | 3:20 | 2024-06-20 | 2024-07-19 |
 | [If I'm Honest](https://open.spotify.com/track/2h4BzF4qLauHjl10V1y0Xy) | [of all living things](https://open.spotify.com/artist/3pNytGB05MU3Rb5yCVs9yl) | [If I'm Honest](https://open.spotify.com/album/7jfek22365V5tQCUrpntc3) | 3:01 | 2024-06-20 |  |
 | [Ingrid Bergman](https://open.spotify.com/track/14BOO0aHNAlSHBA2qZbHer) | [All of Eden](https://open.spotify.com/artist/35SCef5OjAjpX89gpHuMRO) | [Ingrid Bergman](https://open.spotify.com/album/4xoqOw1eTKcjVnqu9M4HXd) | 4:03 | 2024-06-20 |  |
+| [it's alright](https://open.spotify.com/track/7rA54vu3U32Xr2jT0evIyg) | [InBetween Honey](https://open.spotify.com/artist/3dUXgmYPiKgVslodN39C6v) | [it's alright](https://open.spotify.com/album/2sh9FG6zeOq9yl91bgwBoh) | 2:29 | 2024-07-25 |  |
 | [Kilanova Horizon](https://open.spotify.com/track/6KDSxUrvroOumG9XvAzPrd) | [Luna Motif](https://open.spotify.com/artist/72RZQEW8b04412JotqI9Nx) | [Kilanova Horizon](https://open.spotify.com/album/4to3MRaVBH84yfK3d9tUTI) | 2:59 | 2024-06-20 |  |
 | [Lap Around The Sun](https://open.spotify.com/track/7iC546xP2SSf2Ws3fKeG9X) | [Post\-Party](https://open.spotify.com/artist/6Sg6gogb6FlpSMhqTL7XO9) | [Lap Around The Sun](https://open.spotify.com/album/4H7EQv3aw3XFT3cODg7TWQ) | 3:04 | 2024-06-20 |  |
 | [Lenny](https://open.spotify.com/track/1A3bEtK2wHeA3m0pANg42z) | [Cruel Sister](https://open.spotify.com/artist/3SZEdCibGdV5nwK99zdvs2) | [Lenny](https://open.spotify.com/album/76CakOhtSl2HgLKxX7Ek6B) | 3:54 | 2024-06-20 |  |
@@ -51,18 +52,20 @@
 | [Mango](https://open.spotify.com/track/60WMnp10PEgJifKRHZ5NUb) | [Amphigory](https://open.spotify.com/artist/07i7WBXmO96RPjcPqtxG0D) | [I Sobbingly Beg For Somebody To Know Me](https://open.spotify.com/album/5kmiFZ6mqTJXzCvD9HwR59) | 3:54 | 2024-07-12 |  |
 | [Melty Brains](https://open.spotify.com/track/7fMLJ0Dg5jH0s4gSIg98vm) | [Forty Foot](https://open.spotify.com/artist/3ReEVKIj52H4BL23YrjPNd) | [Melty Brains](https://open.spotify.com/album/3o4mCtZvXRIs7xsliNPOBz) | 3:33 | 2024-06-20 |  |
 | [MENACE \- bonus track](https://open.spotify.com/track/0LJjpaO98U0wGBLIxp5DDD) | [Filmore!](https://open.spotify.com/artist/2EVDuvjKJECGVAFvRN55s3), [Uppbeat](https://open.spotify.com/artist/3VymVJxAJTgqI3RouTkwMU) | [Filmore!](https://open.spotify.com/album/1fHlgTVnnjMOntcxLJy08l) | 2:35 | 2024-06-20 |  |
+| [mercury](https://open.spotify.com/track/066GOqmEF3x8tIeQbv9Bgc) | [kleio](https://open.spotify.com/artist/11e9KWi4xzznWbBrOzkPpT) | [mercury](https://open.spotify.com/album/6eyW0ajwUcgoujd1mgkVL5) | 3:17 | 2024-07-25 |  |
 | [Naked](https://open.spotify.com/track/0TP5IWKzHOYTn1X0FxwA2f) | [Still Blue](https://open.spotify.com/artist/0ARihSioho8nfcbicw1tXl) | [Naked](https://open.spotify.com/album/3G42XIfhlSjYR61Cg8pb6u) | 4:01 | 2024-06-20 |  |
 | [Nutmeg](https://open.spotify.com/track/7B9rphwBsfbS9h9fLOVsMz) | [RECO](https://open.spotify.com/artist/7fvakEX3otLoQittQY57d0) | [Nutmeg](https://open.spotify.com/album/1FtqwJqSYAzBgXxrezQlwO) | 3:04 | 2024-06-20 |  |
 | [omen](https://open.spotify.com/track/38XXtGUudOXtxSi843s9LX) | [Layen\_](https://open.spotify.com/artist/2G4ZOA56VInkCSJ4q3D9ZY) | [omen](https://open.spotify.com/album/7ovyM7XXgObQz0QAfFk6nd) | 3:17 | 2024-06-20 |  |
-| [On My Way](https://open.spotify.com/track/5EkUqB1C5Ki6vOwjy61c6W) | [Seba Safe](https://open.spotify.com/artist/2vY3QN8jlAZS4C4OsbDYV6) | [On My Way](https://open.spotify.com/album/0jlLoHDb5VyetHZMcJP4S2) | 4:15 | 2024-06-20 |  |
+| [On My Way](https://open.spotify.com/track/5EkUqB1C5Ki6vOwjy61c6W) | [Seba Safe](https://open.spotify.com/artist/2vY3QN8jlAZS4C4OsbDYV6) | [On My Way](https://open.spotify.com/album/0jlLoHDb5VyetHZMcJP4S2) | 4:15 | 2024-06-20 | 2024-07-27 |
 | [Out of Style](https://open.spotify.com/track/1yYHHDEniESPk9iNFr5nyR) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [Out of Style](https://open.spotify.com/album/4GWriL3zDCxyzpD2ZIpBjC) | 2:44 | 2024-06-20 |  |
+| [Part Of You](https://open.spotify.com/track/2PFF992BZV08mBUmBjXwZ2) | [Four Faces](https://open.spotify.com/artist/3pEp0EpInOqtjpm9O03n0H) | [Part Of You](https://open.spotify.com/album/5guvor0zF8XSjPPvdEwIRM) | 3:41 | 2024-07-25 |  |
 | [Patchwork](https://open.spotify.com/track/2iCu9AHyRd7SGtqM2Njczy) | [Oisín](https://open.spotify.com/artist/3cEXUDLDM6nSC5dd13sBBB) | [Patchwork](https://open.spotify.com/album/14FwliJLQLlA2WPaYWUDNM) | 2:53 | 2024-06-20 |  |
 | [Pretty Happy Alone](https://open.spotify.com/track/1qwG5MyG0BnBDzAWOfLusM) | [The Love Buzz](https://open.spotify.com/artist/103TWTu6vxVZ9g6eqA1ntP) | [Pretty Happy Alone](https://open.spotify.com/album/4CflMNEveOX5PvgU1MHUXq) | 3:02 | 2024-06-20 |  |
 | [Prospect](https://open.spotify.com/track/0DcWjXflMeyVYxZtqWIfj5) | [Blue Slate](https://open.spotify.com/artist/5zExcYSTt7HvimLkiRk0Cp) | [Prospect](https://open.spotify.com/album/5h8CK1D14urflOzCftKBXn) | 3:26 | 2024-06-20 |  |
 | [rain](https://open.spotify.com/track/2mFHuOSkUuTjknIcm9z1v5) | [wxlfcut](https://open.spotify.com/artist/4KsTSYMKkgKaRpPAbjbLnJ) | [rain](https://open.spotify.com/album/704xBAoF4PQXfM188RR020) | 3:08 | 2024-06-20 |  |
 | [Ricochet](https://open.spotify.com/track/3fqWpuu8c3bWiBw5yviBAa) | [Sick Love](https://open.spotify.com/artist/08WUbbIzHJ003HDxCRdpaB) | [Ricochet](https://open.spotify.com/album/6FwZHwL4Mq51pZYyVpTAfh) | 3:24 | 2024-06-20 |  |
 | [Rita](https://open.spotify.com/track/6qWcR10E474Hlow9Uw0sbo) | [Fizzy Orange](https://open.spotify.com/artist/1hSt79a7e2OZzSD3pJgtCZ) | [Fizzy Orange In Mono](https://open.spotify.com/album/0sEI6enjLXXL6MNqECdKJ0) | 2:45 | 2024-06-20 |  |
-| [runs in my blood](https://open.spotify.com/track/60p8IvR68vMra7G2ir640M) | [dirty marmalade](https://open.spotify.com/artist/2Ks8Swu5Bxyz7Svqbp3Yxi) | [runs in my blood](https://open.spotify.com/album/6sU1TRUflPjTTUzFj11Ikx) | 2:48 | 2024-06-20 |  |
+| [runs in my blood](https://open.spotify.com/track/60p8IvR68vMra7G2ir640M) | [dirty marmalade](https://open.spotify.com/artist/2Ks8Swu5Bxyz7Svqbp3Yxi) | [runs in my blood](https://open.spotify.com/album/6sU1TRUflPjTTUzFj11Ikx) | 2:48 | 2024-06-20 | 2024-07-27 |
 | [Scavenge](https://open.spotify.com/track/5KHmhEVHUpOaoXOHsNBeKT) | [PostLast](https://open.spotify.com/artist/15KiKRRIp50t3oBg4rA3qb) | [Scavenge](https://open.spotify.com/album/6ESZQoLmNIHb376mL7t939) | 3:24 | 2024-06-20 |  |
 | [See You In a Year and a Half](https://open.spotify.com/track/53JxyMqGibF07pBJ7aA2HJ) | [CABL](https://open.spotify.com/artist/1YCTaB9cH7i6IDBbS3Rp98) | [See You In a Year and a Half](https://open.spotify.com/album/3wOvqeu8ZppPF9LWD2bcYz) | 5:09 | 2024-06-20 |  |
 | [Shattered Glass](https://open.spotify.com/track/47MS05AWVBYVGEkJ3MJQOW) | [The Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Strawberry Scented](https://open.spotify.com/album/25McKcaobPvzgOGdgrxbxX) | 5:37 | 2024-06-20 |  |

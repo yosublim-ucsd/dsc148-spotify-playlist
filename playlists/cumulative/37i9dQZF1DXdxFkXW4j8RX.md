@@ -4,7 +4,7 @@
 
 > La casa de lxs MC's\. Foto: EnSecreto
 
-207 songs - 11 hr 53 min
+208 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Nuevo Comienzo \(feat\. Portavoz\)](https://open.spotify.com/track/6drA4it4HPdsCBY0zYQDkz) | [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS), [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg) | [Pasado, Presente & Libertad](https://open.spotify.com/album/5x6g1bPnTmQyHdCTczPfjA) | 3:15 | 2022-01-06 |  |
 | [Ofrenda](https://open.spotify.com/track/0OgxjdHjIUcMxOkhNz44HB) | [Hijos de las Hojas](https://open.spotify.com/artist/6isvSCaUPeMinPzcY5LtBM), [Nicolas Libertad](https://open.spotify.com/artist/4Zohwfh3tPyL3X3baHjKDc) | [Ofrenda](https://open.spotify.com/album/0u7Ce6HijZZtWbiPYzD1qa) | 3:04 | 2022-01-06 | 2023-04-09 |
 | [Pa' Fuera](https://open.spotify.com/track/1L3OEVpGb2qGPbT07k4ivC) | [Mamborap](https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0), [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0) | [Pa' Fuera](https://open.spotify.com/album/1NJm2Pw1zGtU7gDtXMv0h6) | 2:59 | 2022-01-06 | 2022-05-28 |
-| [PAHPAHPAH](https://open.spotify.com/track/5xyKGLSdx4OKiPzT9cXQef) | [Juan Lopez](https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [PAHPAHPAH](https://open.spotify.com/album/0C7eIjtDYbcjz516g1urTt) | 2:11 | 2024-03-08 |  |
+| [PAHPAHPAH](https://open.spotify.com/track/5xyKGLSdx4OKiPzT9cXQef) | [Juan Lopez](https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [PAHPAHPAH](https://open.spotify.com/album/0C7eIjtDYbcjz516g1urTt) | 2:11 | 2024-03-08 | 2024-07-27 |
 | [Pañuelo](https://open.spotify.com/track/1ZEV7foN8hHnGu1ZTwKj8K) | [EnSecreto](https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju) | [Pañuelo](https://open.spotify.com/album/4prgLBiRrjYr4wB0IgqLlV) | 3:14 | 2024-03-29 | 2024-07-06 |
 | [PEGAJOSA](https://open.spotify.com/track/4dbofhaRxUn04twBfQWtXk) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Los Reyes Del Parque](https://open.spotify.com/artist/1b7hyZ1cAfabiMqIx72gzR) | [PEGAJOSA](https://open.spotify.com/album/7bJ3lXlq4EVFUf2ZJjzuBf) | 1:33 | 2022-05-23 | 2022-07-16 |
 | [Perseverancia](https://open.spotify.com/track/1YfRiuIjPlAQagj1AoqAew) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT) | [Perseverancia](https://open.spotify.com/album/5vLJoj4LdKC4MsqXHmYyRj) | 3:16 | 2023-06-30 |  |
@@ -207,6 +207,7 @@
 | [Viaje Sin Rumbo \- Cover](https://open.spotify.com/track/7BigUklT2tNB1lR8g8WjqQ) | [EnSecreto](https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju) | [Viaje Sin Rumbo \(Cover\)](https://open.spotify.com/album/4X5bcqRjxb2S5eSoLVjGWJ) | 3:35 | 2022-01-06 | 2023-08-26 |
 | [Viejos Habitantes](https://open.spotify.com/track/6f55wLyPhb1OwaNd0pXRmm) | [Geoenezetao](https://open.spotify.com/artist/7el2kfMBIvZQmwoE0K7oqK), [Dj Dacel](https://open.spotify.com/artist/5Nj8sBYPlnStp5EkE2f0Lf), [Hordatoj](https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu), [SQB](https://open.spotify.com/artist/6aMeTQMYEBSGnp34gku2QB) | [Retrospección Mixtape, Vol\. 1](https://open.spotify.com/album/1aniMf0ypLhf8aonlyNBEm) | 2:17 | 2022-01-06 |  |
 | [Vine](https://open.spotify.com/track/0yucydm20oLyPKpXlA7A6k) | [Funky Flu](https://open.spotify.com/artist/3OtwUzOEkJDNsqFSu9ey9G) | [Palabra](https://open.spotify.com/album/1Sbdp1Eh610TfYnXuxOCq8) | 3:43 | 2022-01-06 | 2023-04-09 |
+| [WARRIORS](https://open.spotify.com/track/1iDlvEPgm3gAsVldHSUhXg) | [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [Zaturno](https://open.spotify.com/artist/6P8YjImNhI3N6nrCEEhISo), [The Salazar Brothers](https://open.spotify.com/artist/5uP009vYJOXMAsUM0j62Q3) | [WARRIORS](https://open.spotify.com/album/24jXC9xqozWzlNY3dFTYHZ) | 2:50 | 2024-07-26 |  |
 | [Warzone Z](https://open.spotify.com/track/6I7Yw2qBktlCbyIrvVTaIG) | [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5) | [Bushido Thunderstorm](https://open.spotify.com/album/2E76haakuTtipEkRjIiwqJ) | 3:03 | 2022-01-06 |  |
 | [WATCH ME / NA' DE MI \(feat\. Antioch\)](https://open.spotify.com/track/7FKhOErLnODSBncrMErQqk) | [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [JOSE SPAACE](https://open.spotify.com/artist/2rNJ5aQFR3gAnEIbpqUtF6), [Ceaese](https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9), [Antioch](https://open.spotify.com/artist/78UTGJPxHbiqliqrmxiFkv) | [WATCH ME / NA' DE MI \(feat\. Antioch\)](https://open.spotify.com/album/3CZ1H2FuTXaoeUAkXeBmvW) | 2:33 | 2022-01-06 | 2023-06-17 |
 | [Welcome](https://open.spotify.com/track/5Dy8Kc388Couu88zpMFFhi) | [Escala Mercalli](https://open.spotify.com/artist/0IjUy10U10GGUKrv4ZQZpg) | [Welcome](https://open.spotify.com/album/7diRlZqMgSTv257B7v6GSw) | 2:30 | 2022-01-06 |  |

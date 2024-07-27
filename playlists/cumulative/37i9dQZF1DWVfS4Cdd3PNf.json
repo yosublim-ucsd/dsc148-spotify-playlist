@@ -349,6 +349,32 @@
     },
     {
       "album": {
+        "name": "40 Most Beautiful Arias",
+        "url": "https://open.spotify.com/album/4Xta5E0rNh7c1acI0EhBxV"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Carlo Rizzi",
+          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
+        },
+        {
+          "name": "Orchestra of Welsh National Opera",
+          "url": "https://open.spotify.com/artist/7tKNcrC1eSbJnMem8B4cpa"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249466,
+      "name": "Bizet: Les p\u00eacheurs de perles, Act 1: \"Au fond du temple saint\" (Nadir, Zurga)",
+      "url": "https://open.spotify.com/track/0iKrAuOYnRc01Nx8BPVm4R"
+    },
+    {
+      "album": {
         "name": "Bart\u00f3k: Bluebeard's Castle",
         "url": "https://open.spotify.com/album/0M0LNoDZgxqsykEkaw9vh4"
       },
@@ -2934,6 +2960,32 @@
       "duration_ms": 175066,
       "name": "Le nozze di Figaro, K. 492, Atto terzo Scene 9 & 10: No. 21, \"Su l'aria...\" (Duettino Susanna, La Contessa)",
       "url": "https://open.spotify.com/track/4ovqHepI2onDrvaFifmlok"
+    },
+    {
+      "album": {
+        "name": "The Marriage of Figaro",
+        "url": "https://open.spotify.com/album/6QXWz39QkbXAwLV0ybJ0lL"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Glyndebourne Festival Orchestra",
+          "url": "https://open.spotify.com/artist/3CjBTAy0bJixmHuuK7QxHw"
+        },
+        {
+          "name": "Vittorio Gui",
+          "url": "https://open.spotify.com/artist/2BYljht61tijA9gCf1Bour"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244600,
+      "name": "Le nozze di Figaro, K. 492: Overture",
+      "url": "https://open.spotify.com/track/4LOYVBlRSjda6mxoLiqAoG"
     },
     {
       "album": {
@@ -5700,6 +5752,66 @@
       "duration_ms": 285733,
       "name": "Tosca / Act 2: \"Vissi d'arte, vissi d'amore\"",
       "url": "https://open.spotify.com/track/7llzoWbL1ToAHq9IL3F84D"
+    },
+    {
+      "album": {
+        "name": "Puccini Symphonic Suites: In New Editions by Carlo Rizzi",
+        "url": "https://open.spotify.com/album/1me8xIOoABMS6mNGMuWkCb"
+      },
+      "artists": [
+        {
+          "name": "Carlo Rizzi",
+          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
+        },
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Welsh National Opera Orchestra",
+          "url": "https://open.spotify.com/artist/5CPW0GIpb1RyTpxuheUfXD"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1207666,
+      "name": "Tosca Symphonic Suite",
+      "url": "https://open.spotify.com/track/0kXR2M6P9s71bc62i2Xeof"
+    },
+    {
+      "album": {
+        "name": "Puccini: Tosca, SC 69: Mario Cavaradossi? ... E lucevan le stelle",
+        "url": "https://open.spotify.com/album/3RZqbIssECasu0RYmcLVr4"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Jonathan Tetelman",
+          "url": "https://open.spotify.com/artist/1R6qryuCn32Ig78bYV3uJU"
+        },
+        {
+          "name": "\u00d6nay K\u00f6se",
+          "url": "https://open.spotify.com/artist/2dY1pZuQyJWs1TtqBtdLSP"
+        },
+        {
+          "name": "PKF \u2013 Prague Philharmonia",
+          "url": "https://open.spotify.com/artist/4lnqr8PGdrwgyUeRfzHoZX"
+        },
+        {
+          "name": "Carlo Rizzi",
+          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410773,
+      "name": "Tosca, SC 69: Mario Cavaradossi? ... E lucevan le stelle",
+      "url": "https://open.spotify.com/track/30i0fhLeLvnxXhmwKv2siJ"
     },
     {
       "album": {

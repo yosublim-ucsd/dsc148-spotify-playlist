@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: N\. Hardem
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,567 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,602 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 60 | [Receso Solo 1](https://open.spotify.com/track/1pLGlJF5gf5YDEKFzLg9Fz) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [Receso Solo 1](https://open.spotify.com/album/0LhuysoUDHLhiV6BKkwk4m) | 3:33 |
 | 61 | [Tararea](https://open.spotify.com/track/0Go1Z1pGPbCGv1dADfSbLn) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/6PpSdpOYFAsR81W6X3SrbT) | 3:19 |
 | 62 | [Nrs In Da Area](https://open.spotify.com/track/2nwyBoKRKAemGvgRhHELg0) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv) | [Nrs In Da Area](https://open.spotify.com/album/29HcQVOLpnwwmaI7Qlv665) | 3:31 |
-| 63 | [Arde Roma](https://open.spotify.com/track/1iDcAvaddk5uOJbp2Al0Iz) | [Luis7Lunes](https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB), [Vic Deal](https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ) | [El Armador del Sol](https://open.spotify.com/album/224wnpTxgYLu50oxEZFoh6) | 3:27 |
+| 63 | [Arde Roma](https://open.spotify.com/track/1iDcAvaddk5uOJbp2Al0Iz) | [Luis7Lunes](https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB), [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N), [Vic Deal](https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ) | [El Armador del Sol](https://open.spotify.com/album/224wnpTxgYLu50oxEZFoh6) | 3:27 |
 | 64 | [Flaca](https://open.spotify.com/track/18PywrD2EQCVJEXMjETy8p) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Flaca](https://open.spotify.com/album/1rGB0EkQQ96tB4iYTklDIy) | 3:24 |
-| 65 | [Perro Juan](https://open.spotify.com/track/4gESe0aw8NIybCS6mFVx9P) | [Luis7Lunes](https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB), [Dj J.L.P](https://open.spotify.com/artist/3Kv3tdbbxIFqs9BorBF8re) | [Perro Juan](https://open.spotify.com/album/114p6iuem4oWYj3BhZiA7y) | 2:07 |
+| 65 | [Perro Juan](https://open.spotify.com/track/4gESe0aw8NIybCS6mFVx9P) | [Luis7Lunes](https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB), [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Perro Juan](https://open.spotify.com/album/114p6iuem4oWYj3BhZiA7y) | 2:07 |
 | 66 | [Esperaré por Ti](https://open.spotify.com/track/36Rix2ddUNOg7eMJOEGxNk) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [Esperaré por Ti](https://open.spotify.com/album/4OptL4DWShK5i4P1XP6V2Y) | 3:50 |
 | 67 | [Murderah](https://open.spotify.com/track/6YfyOu9K4PsbF32jM7w2CK) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Murderah](https://open.spotify.com/album/09fkMQDU4gvqGWhA5wsGqO) | 4:57 |
 | 68 | [Renace](https://open.spotify.com/track/02nx5tMIZ9upPdoyt6zhWD) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Renace](https://open.spotify.com/album/6Jps3FkjuosN5ARZuQ56MQ) | 2:31 |

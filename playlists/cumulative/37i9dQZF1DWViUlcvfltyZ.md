@@ -2,9 +2,9 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> Rock, indie e punk dall'Italia, GIIN in cover 🎸
+> Rock, indie e punk dall'Italia, Amalfitano in cover 🎸
 
-1,023 songs - 2 day 8 hr 32 min
+1,027 songs - 2 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [Heavy Metallo](https://open.spotify.com/track/7jFII1yerbRImS5lkZ7ZPn) | [DOLA](https://open.spotify.com/artist/0OvTRIcNwihrBkwZK2oiqy) | [Heavy Metallo](https://open.spotify.com/album/0FE1tX6oK8XVPD7N9iHRvM) | 2:54 | 2023-04-14 | 2023-05-10 |
 | [heavy\-hearted](https://open.spotify.com/track/0EpZxmxdI27Y6hMwO79pvy) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [heavy\-hearted](https://open.spotify.com/album/428oKi8Lpx377MJjLV1upq) | 2:39 | 2022-05-12 | 2022-07-15 |
 | [Helsinki](https://open.spotify.com/track/5iD1GzHpAZkdtVCdyv0dXC) | [Pop Véronique](https://open.spotify.com/artist/14p9kujCnygl2XiQK8stQd) | [Helsinki](https://open.spotify.com/album/7LroPB7nL6R24KPEoOArZp) | 3:28 | 2024-01-11 | 2024-02-16 |
+| [Hey listen](https://open.spotify.com/track/6AIvOHMK6ce3Ws7Zlph2GA) | [Vanarin](https://open.spotify.com/artist/5h8413E0PoCuNBc6tLIANb) | [Hey listen](https://open.spotify.com/album/5XYMfULf79dyp2vx1g8UZm) | 2:17 | 2024-07-26 |  |
 | [Hey Mon Amour](https://open.spotify.com/track/2gcVYbtY4GPLvnAzitTvee) | [Macadamia](https://open.spotify.com/artist/4ctoRm4PSfS4v7YdoHgIen) | [Limine](https://open.spotify.com/album/1p1CplengpaQU0lsmzOBaB) | 3:13 | 2023-10-19 | 2024-01-26 |
 | [HEY NOI](https://open.spotify.com/track/3zC7HuEPnmhtDvIEFgtkwZ) | [ROS](https://open.spotify.com/artist/15kGQ75uyHlhEeK4ZK40YB) | [HEY NOI](https://open.spotify.com/album/5rg0nCPqqkiaHL6QXpTF4K) | 2:45 | 2023-06-22 | 2023-07-28 |
 | [Hey U](https://open.spotify.com/track/25Tztg1uslRPRXpXzsXctK) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [Hey U](https://open.spotify.com/album/27oTo8ISybYjEze4YL67Bc) | 2:01 | 2022-05-09 | 2022-05-27 |
@@ -532,6 +533,7 @@
 | [Look at Us](https://open.spotify.com/track/4doSYqBNDg3bZWlOJhiVYT) | [Addict Ameba](https://open.spotify.com/artist/4Au0CBfj9kSp1qOUBFMCjb), [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [Look at Us](https://open.spotify.com/album/5qjxIl52EeXU4HQO95KrvW) | 5:00 | 2024-04-04 | 2024-05-17 |
 | [looney](https://open.spotify.com/track/5iYyPap3wN9D2W0gCYmaMi) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [dalla terra a marte](https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr) | 3:25 | 2022-05-09 | 2022-12-02 |
 | [Los Angeles](https://open.spotify.com/track/4WPWjTm1Tacywwc1rPmMtB) | [Baustelle](https://open.spotify.com/artist/02G0wSA5mAINnHX3nTCaHi) | [Elvis](https://open.spotify.com/album/5bvG8jYOZBxSwZfjDoWRSO) | 3:19 | 2023-04-13 | 2023-05-12 |
+| [Los Angeles](https://open.spotify.com/track/1FAM18Z4mFvKwYxketR1OT) | [Lucrezia](https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl) | [Los Angeles](https://open.spotify.com/album/7GysRxTAg4WPtrOwzbGPJe) | 3:25 | 2024-07-26 |  |
 | [Lost In The Middle](https://open.spotify.com/track/03KbVqtDoKQa42MOaJ86FU) | [The Peawees](https://open.spotify.com/artist/4VBH5wOuG96Gx97VGJh16p) | [Lost in the Middle](https://open.spotify.com/album/4kuQDddJTy6WpTrfAUH1jJ) | 2:46 | 2024-06-06 | 2024-07-19 |
 | [Lost In Translation](https://open.spotify.com/track/3JbZvgq27J7sHlzGcBUcuE) | [CASX](https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU) | [Lost In Translation](https://open.spotify.com/album/2nKEOPy3lV9DpUbSPytjt5) | 2:50 | 2023-01-26 | 2023-03-18 |
 | [Love Will Take You from Behind](https://open.spotify.com/track/2p1Wvj7F5s8I1ypZNkBJyP) | [Santa Chiara](https://open.spotify.com/artist/4ypMT9SN8PDvScLqLcGcEU) | [Love Will Take You from Behind](https://open.spotify.com/album/7ta4mTgSJ38tqR21MPHrWg) | 2:45 | 2022-07-07 | 2022-09-16 |
@@ -595,6 +597,7 @@
 | [Mondo](https://open.spotify.com/track/73WScEsNUM9ayo0ahYJDPO) | [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK) | [Mondo Rosso](https://open.spotify.com/album/2bXLMo4qdbJpgLt3IZ283I) | 3:04 | 2023-03-31 | 2023-05-04 |
 | [Mondo Cane](https://open.spotify.com/track/7a8r6vINl5QByT6ktCadYK) | [Methos](https://open.spotify.com/artist/6EgN0y0qGF6ifXnc35B33h) | [Mondo Cane](https://open.spotify.com/album/4eTP3mLT8xxizGeaahzXJ8) | 2:14 | 2023-04-06 | 2023-05-12 |
 | [Montese](https://open.spotify.com/track/6plgbXWnR6fv3bE2H4yJSu) | [Baseball Gregg](https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4) | [Pastimes](https://open.spotify.com/album/4ep2PpS27FYkcXqje4ibyE) | 3:41 | 2022-09-22 | 2022-10-07 |
+| [Mosche](https://open.spotify.com/track/6C6EyA832m59DutYTzZwFl) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Mosche](https://open.spotify.com/album/7H4vm4CBeNtkjGRzBzPpOE) | 2:35 | 2024-07-26 |  |
 | [Mostri](https://open.spotify.com/track/25sAqm9aLH5BAlHZrtHb6t) | [Colla](https://open.spotify.com/artist/3bNplfx5UXercdTOqqdZK6) | [Mostri](https://open.spotify.com/album/2RkMXYNhbHswtv5wlfoICj) | 2:50 | 2024-04-11 | 2024-06-14 |
 | [Motherland](https://open.spotify.com/track/6CBh3mIbYC2QBAvcRPcosA) | [ANGLES](https://open.spotify.com/artist/3xQS0H7dzZrcMgP4HfJP1D) | [OBTUSE](https://open.spotify.com/album/4gs83HedaMK4UCNxpu00yh) | 2:52 | 2023-07-20 | 2023-08-24 |
 | [Moulin Rouge](https://open.spotify.com/track/73cjReNmAtBDm59fuTNzaF) | [Forse Danzica](https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT) | [Moulin Rouge](https://open.spotify.com/album/5GdM5uruWJCaGL525mNNhU) | 2:50 | 2023-06-15 | 2023-07-19 |
@@ -1031,5 +1034,6 @@
 | [Zoe's Seeds](https://open.spotify.com/track/6KEniNbXwhi54DmtJa8lwy) | [Any Other](https://open.spotify.com/artist/5RECxqPUWytzhwKabZ1lWx) | [stillness, stop: you have a right to remember](https://open.spotify.com/album/0eNjLXWdOilZ1LNVeqWVp8) | 4:29 | 2024-03-07 | 2024-06-07 |
 | [Zufall](https://open.spotify.com/track/4H8iyzUpeOr6QC3FqMU3Tv) | [Fiasko Leitmotiv](https://open.spotify.com/artist/7mCEKbvh7Tt4JJUkZYbkR4) | [A Noiseless Patient Spider](https://open.spotify.com/album/5UXv6jZvZuCUv7aTfnFn5j) | 2:41 | 2023-05-11 | 2023-06-23 |
 | [±](https://open.spotify.com/track/16huDK29H89DVqCKyh4Chr) | [Lechuck](https://open.spotify.com/artist/2unAHQEq1YbxvkNJOPHct5) | [±](https://open.spotify.com/album/0RIraoNc0KQ8vTXKFukeP2) | 3:45 | 2023-07-27 | 2023-11-03 |
+| [È uscita la carta del diavolo \(feat\. MILLE\)](https://open.spotify.com/track/0jOUmxv7YZgZEZRjTlhUJx) | [Amalfitano](https://open.spotify.com/artist/6etd8FRodAwSq5dBetjTHJ), [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [È uscita la carta del diavolo \(feat\. MILLE\)](https://open.spotify.com/album/4KxFwXWmzkN6rPJ1UXsd2Z) | 4:06 | 2024-07-26 |  |
 
 \*This playlist was first scraped on 2022-05-11. Prior content cannot be recovered.

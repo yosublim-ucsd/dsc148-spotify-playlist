@@ -1,6 +1,6 @@
 {
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
-  "num_followers": 5385,
+  "num_followers": 5386,
   "original_name": "zZZ \uc798\uc790\uc694",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-07-15 03:50:40",
       "album": {
+        "name": "Knock",
+        "url": "https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 224066,
+      "name": "They say, that is the love",
+      "url": "https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN"
+    },
+    {
+      "added_at": "2024-07-15 03:50:40",
+      "album": {
         "name": "Sweet Lullaby",
         "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
       },
@@ -191,22 +207,6 @@
     {
       "added_at": "2024-07-15 03:50:40",
       "album": {
-        "name": "Knock",
-        "url": "https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm"
-      },
-      "artists": [
-        {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
-        }
-      ],
-      "duration_ms": 224066,
-      "name": "They say, that is the love",
-      "url": "https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN"
-    },
-    {
-      "added_at": "2024-07-15 03:50:40",
-      "album": {
         "name": "The Little",
         "url": "https://open.spotify.com/album/2Eg215da9ZVMDyMXIBAjaM"
       },
@@ -223,18 +223,18 @@
     {
       "added_at": "2024-07-15 03:50:40",
       "album": {
-        "name": "Small Talk About Everything",
-        "url": "https://open.spotify.com/album/1W48cB0P1XA9uWAgS8pokX"
+        "name": "If",
+        "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
       },
       "artists": [
         {
-          "name": "Heo Hoy Kyung",
-          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
         }
       ],
-      "duration_ms": 250307,
-      "name": "Small Talk About Everything",
-      "url": "https://open.spotify.com/track/68lrtGou1rovK9aYHlr660"
+      "duration_ms": 251560,
+      "name": "If",
+      "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
     },
     {
       "added_at": "2024-07-15 03:50:40",
@@ -255,18 +255,18 @@
     {
       "added_at": "2024-07-15 03:50:40",
       "album": {
-        "name": "If",
-        "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
+        "name": "Small Talk About Everything",
+        "url": "https://open.spotify.com/album/1W48cB0P1XA9uWAgS8pokX"
       },
       "artists": [
         {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
         }
       ],
-      "duration_ms": 251560,
-      "name": "If",
-      "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
+      "duration_ms": 250307,
+      "name": "Small Talk About Everything",
+      "url": "https://open.spotify.com/track/68lrtGou1rovK9aYHlr660"
     },
     {
       "added_at": "2024-07-15 03:50:40",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-07-15 03:50:40",
       "album": {
-        "name": "Beautiful GunbarI OST",
-        "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
-      },
-      "artists": [
-        {
-          "name": "Betty",
-          "url": "https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "a story to tell (Original Ver.)",
-      "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
-    },
-    {
-      "added_at": "2024-07-15 03:50:40",
-      "album": {
         "name": "Simple",
         "url": "https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J"
       },
@@ -335,7 +319,23 @@
     {
       "added_at": "2024-07-15 03:50:40",
       "album": {
-        "name": "Lonely night",
+        "name": "Beautiful GunbarI OST",
+        "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
+      },
+      "artists": [
+        {
+          "name": "Betty",
+          "url": "https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "a story to tell (Original Ver.)",
+      "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
+    },
+    {
+      "added_at": "2024-07-15 03:50:40",
+      "album": {
+        "name": "Lonely Night",
         "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
       },
       "artists": [
@@ -347,22 +347,6 @@
       "duration_ms": 325066,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/01niXSdE51tZcNUrpGEqjn"
-    },
-    {
-      "added_at": "2024-07-15 03:50:40",
-      "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm"
     },
     {
       "added_at": "2024-07-15 03:50:40",
@@ -387,18 +371,18 @@
     {
       "added_at": "2024-07-15 03:50:40",
       "album": {
-        "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
-        "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
       },
       "artists": [
         {
-          "name": "Lucia",
-          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
         }
       ],
-      "duration_ms": 213327,
-      "name": "Going home",
-      "url": "https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh"
+      "duration_ms": 245000,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm"
     },
     {
       "added_at": "2024-07-15 03:50:40",
@@ -435,6 +419,22 @@
     {
       "added_at": "2024-07-15 03:50:40",
       "album": {
+        "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
+        "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
+      },
+      "artists": [
+        {
+          "name": "Lucia",
+          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
+        }
+      ],
+      "duration_ms": 213327,
+      "name": "Going home",
+      "url": "https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh"
+    },
+    {
+      "added_at": "2024-07-15 03:50:40",
+      "album": {
         "name": "\uc138 \ubc88\uc9f8 \uc74c\uc545 \ub85c\uc2a4\ud305 3rd Music Roasting",
         "url": "https://open.spotify.com/album/4mTjpPc2hkMI2cJ1dnMzle"
       },
@@ -447,6 +447,22 @@
       "duration_ms": 217400,
       "name": "\u110b\u1169\u1102\u1173\u11af\u1103\u1169 \u1100\u116e\u11ba\u1102\u1161\u110b\u1175\u11ba Good Night",
       "url": "https://open.spotify.com/track/7fgm1Ac7n9OoU9dMAUP5Ke"
+    },
+    {
+      "added_at": "2024-07-15 03:50:40",
+      "album": {
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "In Other Words",
+      "url": "https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU"
     },
     {
       "added_at": "2024-07-15 03:50:40",
@@ -499,22 +515,6 @@
       "duration_ms": 235106,
       "name": "Don\u2032t Move Away",
       "url": "https://open.spotify.com/track/24P7QAGjSohYUki76zBm4y"
-    },
-    {
-      "added_at": "2024-07-15 03:50:40",
-      "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "In Other Words",
-      "url": "https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU"
     },
     {
       "added_at": "2024-07-15 03:50:40",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-07-15 03:50:40",
       "album": {
-        "name": "I can't sleep",
-        "url": "https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ"
-      },
-      "artists": [
-        {
-          "name": "Nahee",
-          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "I can't sleep",
-      "url": "https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge"
-    },
-    {
-      "added_at": "2024-07-15 03:50:40",
-      "album": {
         "name": "My",
         "url": "https://open.spotify.com/album/6lxViYPgD2UjJ1nhgXz9kw"
       },
@@ -615,22 +599,6 @@
     {
       "added_at": "2024-07-15 03:50:40",
       "album": {
-        "name": "My Beautiful Apartment (O'PENing) (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms"
-      },
-      "artists": [
-        {
-          "name": "Haze Moon",
-          "url": "https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd"
-        }
-      ],
-      "duration_ms": 228834,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z"
-    },
-    {
-      "added_at": "2024-07-15 03:50:40",
-      "album": {
         "name": "STELLA I",
         "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
       },
@@ -643,6 +611,38 @@
       "duration_ms": 239000,
       "name": "Storing Nights",
       "url": "https://open.spotify.com/track/6oPucs07MGXSIW9pZut2W9"
+    },
+    {
+      "added_at": "2024-07-15 03:50:40",
+      "album": {
+        "name": "I can't sleep",
+        "url": "https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ"
+      },
+      "artists": [
+        {
+          "name": "Nahee",
+          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "I can't sleep",
+      "url": "https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge"
+    },
+    {
+      "added_at": "2024-07-15 03:50:40",
+      "album": {
+        "name": "My Beautiful Apartment (O'PENing) (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms"
+      },
+      "artists": [
+        {
+          "name": "Haze Moon",
+          "url": "https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd"
+        }
+      ],
+      "duration_ms": 228834,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z"
     },
     {
       "added_at": "2024-07-15 03:50:40",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-07-15 03:50:40",
       "album": {
-        "name": "Zero gravity",
-        "url": "https://open.spotify.com/album/1O99A4FLtOXLNqsGiJ4rpW"
-      },
-      "artists": [
-        {
-          "name": "Jo SoJeong",
-          "url": "https://open.spotify.com/artist/132BPeZOhapfWxSIOR974P"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "Zero gravity",
-      "url": "https://open.spotify.com/track/4MusxBtpbg66dyP4HPzvW5"
-    },
-    {
-      "added_at": "2024-07-15 03:50:40",
-      "album": {
         "name": "When the dawn calls me abruptly",
         "url": "https://open.spotify.com/album/6OMipjKp4xAqDXp5qQQspt"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 171840,
       "name": "Note",
       "url": "https://open.spotify.com/track/2A48Jp9CV8lb8aCXJAVZdk"
+    },
+    {
+      "added_at": "2024-07-15 03:50:40",
+      "album": {
+        "name": "Zero gravity",
+        "url": "https://open.spotify.com/album/1O99A4FLtOXLNqsGiJ4rpW"
+      },
+      "artists": [
+        {
+          "name": "Jo SoJeong",
+          "url": "https://open.spotify.com/artist/132BPeZOhapfWxSIOR974P"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "Zero gravity",
+      "url": "https://open.spotify.com/track/4MusxBtpbg66dyP4HPzvW5"
     },
     {
       "added_at": "2024-07-15 03:50:40",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-07-15 03:50:40",
       "album": {
-        "name": "Long long night",
-        "url": "https://open.spotify.com/album/1CB5sMyLxIe9T59tRIDfEy"
-      },
-      "artists": [
-        {
-          "name": "Richard Parkers",
-          "url": "https://open.spotify.com/artist/3sw0rm6AMRKHAoFDjuYw5C"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Long long night",
-      "url": "https://open.spotify.com/track/2CWragjSVqmJ7niTo5oxSw"
-    },
-    {
-      "added_at": "2024-07-15 03:50:40",
-      "album": {
         "name": "STELLA I",
         "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2024-07-15 03:50:40",
       "album": {
-        "name": "We need to meet now",
-        "url": "https://open.spotify.com/album/6rQL9qDD47aKHZN392iww7"
+        "name": "Long long night",
+        "url": "https://open.spotify.com/album/1CB5sMyLxIe9T59tRIDfEy"
       },
       "artists": [
         {
-          "name": "109",
-          "url": "https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh"
+          "name": "Richard Parkers",
+          "url": "https://open.spotify.com/artist/3sw0rm6AMRKHAoFDjuYw5C"
         }
       ],
-      "duration_ms": 229000,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/3wQl1WeJe9dINbvvfexZhr"
+      "duration_ms": 166266,
+      "name": "Long long night",
+      "url": "https://open.spotify.com/track/2CWragjSVqmJ7niTo5oxSw"
     },
     {
       "added_at": "2024-07-15 03:50:40",
@@ -823,6 +807,22 @@
       "duration_ms": 197146,
       "name": "love letter",
       "url": "https://open.spotify.com/track/2skufhVn9rdAkD1eVLbEXs"
+    },
+    {
+      "added_at": "2024-07-15 03:50:40",
+      "album": {
+        "name": "We need to meet now",
+        "url": "https://open.spotify.com/album/6rQL9qDD47aKHZN392iww7"
+      },
+      "artists": [
+        {
+          "name": "109",
+          "url": "https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/3wQl1WeJe9dINbvvfexZhr"
     }
   ],
   "unique_name": "zZZ \uc798\uc790\uc694",

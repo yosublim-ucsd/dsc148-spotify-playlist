@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs hits Pop c'est ici. Cover: Hind Ziadi",
-  "num_followers": 68383,
+  "num_followers": 68571,
   "original_name": "Top Maghreb Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqEXVwAAAACZyp51oJeuSH5iuf8dH8hg",
+  "snapshot_id": "ZqHyvwAAAACg4OZbDh+yzchDIy7j/Atj",
   "tracks": [
     {
       "added_at": "2024-07-24 15:01:43",
@@ -143,6 +143,22 @@
       "duration_ms": 195816,
       "name": "Matgheltech",
       "url": "https://open.spotify.com/track/00c3VyS0fPdFOZa8PNsXgX"
+    },
+    {
+      "added_at": "2024-07-25 06:37:51",
+      "album": {
+        "name": "Badadi",
+        "url": "https://open.spotify.com/album/250j3jUtT9Ow3oy67N9vuB"
+      },
+      "artists": [
+        {
+          "name": "Douaa Lahyaoui",
+          "url": "https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6"
+        }
+      ],
+      "duration_ms": 165057,
+      "name": "Badadi",
+      "url": "https://open.spotify.com/track/1dBv07ZgvsNBeQs2lJon6W"
     },
     {
       "added_at": "2024-07-24 15:01:43",
@@ -907,22 +923,6 @@
       "duration_ms": 238882,
       "name": "MARJANA",
       "url": "https://open.spotify.com/track/5lWQ5qYAy2pe11J3Ze7u9o"
-    },
-    {
-      "added_at": "2024-07-24 15:01:43",
-      "album": {
-        "name": "WAJAHNI",
-        "url": "https://open.spotify.com/album/0sx8JWJDbiT3oUuusuU5ZV"
-      },
-      "artists": [
-        {
-          "name": "Hind Ziadi",
-          "url": "https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK"
-        }
-      ],
-      "duration_ms": 206315,
-      "name": "WAJAHNI",
-      "url": "https://open.spotify.com/track/74ej9D4v1lsgepeEetuB0J"
     },
     {
       "added_at": "2024-07-24 15:01:43",

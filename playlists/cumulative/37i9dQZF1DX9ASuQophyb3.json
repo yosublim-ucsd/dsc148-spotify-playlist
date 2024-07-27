@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00fcrkiye'nin en b\u00fcy\u00fck pop listesi. Kapak: Amo988",
+  "description": "T\u00fcrkiye'nin en b\u00fcy\u00fck pop listesi. Kapak: Funda Arar",
   "name": "T\u00fcrk\u00e7e Pop",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 193329,
       "name": "Ac\u0131 Veriyor",
       "url": "https://open.spotify.com/track/0NcrorHQw7tB1ykMIsZkGD"
+    },
+    {
+      "album": {
+        "name": "Aferin Bana",
+        "url": "https://open.spotify.com/album/0LBF46qGy65WEcrtbxetHP"
+      },
+      "artists": [
+        {
+          "name": "Demet Akal\u0131n",
+          "url": "https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "Aferin Bana",
+      "url": "https://open.spotify.com/track/1PTAhnedy6E7RUB6kAlxsE"
     },
     {
       "album": {
@@ -56,6 +74,24 @@
       "duration_ms": 216472,
       "name": "Ara S\u0131cak",
       "url": "https://open.spotify.com/track/7tdqNYEPYjv2oSL3EKB8Vu"
+    },
+    {
+      "album": {
+        "name": "Atlantis",
+        "url": "https://open.spotify.com/album/0aIg40DUdyBKSRXkBQ3iUI"
+      },
+      "artists": [
+        {
+          "name": "Ece Se\u00e7kin",
+          "url": "https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128608,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/5McJm018JxLoTC54fInvWo"
     },
     {
       "album": {
@@ -214,7 +250,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 192217,
       "name": "Bi Polar",
       "url": "https://open.spotify.com/track/3ZXucsYAxBRUgG7XftxxLE"
@@ -344,7 +380,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 236000,
       "name": "Defterli",
       "url": "https://open.spotify.com/track/0t7SfyrCjUzh8A7gRZ6gaK"
@@ -536,6 +572,24 @@
       "duration_ms": 129804,
       "name": "\u0130mdad\u0131m",
       "url": "https://open.spotify.com/track/6Bd1IXmQB9YZa7yI8j98fM"
+    },
+    {
+      "album": {
+        "name": "Kafam \u0130yi Esiyor",
+        "url": "https://open.spotify.com/album/3gc8ZG1oX26gZ9cEUpsYVi"
+      },
+      "artists": [
+        {
+          "name": "Bora Duran",
+          "url": "https://open.spotify.com/artist/0W0qg2fjQVk63h44Zdn4hI"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166772,
+      "name": "Kafam \u0130yi Esiyor",
+      "url": "https://open.spotify.com/track/4l6L2WoQ8wy4CGpzhimwpp"
     },
     {
       "album": {
@@ -746,7 +800,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 157500,
       "name": "Nanik",
       "url": "https://open.spotify.com/track/2czKxc4zNI4LWBAkOq2bg9"
@@ -963,6 +1017,28 @@
     },
     {
       "album": {
+        "name": "Uslanmaz",
+        "url": "https://open.spotify.com/album/7rpKmV8l7F9nBsyzxW8nMJ"
+      },
+      "artists": [
+        {
+          "name": "Samet Karde\u015fler",
+          "url": "https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp"
+        },
+        {
+          "name": "S\u0131la \u015eahin",
+          "url": "https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "Uslanmaz",
+      "url": "https://open.spotify.com/track/7BD5turxXQlcm72SCYkHQG"
+    },
+    {
+      "album": {
         "name": "Yak\u0131\u015f\u0131kl\u0131",
         "url": "https://open.spotify.com/album/67pOirdhu43id4Ck9iYyae"
       },
@@ -996,7 +1072,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 152067,
       "name": "Yand\u0131m Ate\u015finle",
       "url": "https://open.spotify.com/track/1E2Me5owoioq7ZW6KpkZF6"
@@ -1072,7 +1148,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 166112,
       "name": "Yat Kalk Dua Et",
       "url": "https://open.spotify.com/track/68fx1drvQDkcQvxHOwy7s7"
@@ -1148,6 +1224,24 @@
       "duration_ms": 161071,
       "name": "Yolun Sonu",
       "url": "https://open.spotify.com/track/5bGJ7adYLYCblwyi96it9K"
+    },
+    {
+      "album": {
+        "name": "Zindan",
+        "url": "https://open.spotify.com/album/18UTEUfO4tjsmabjKEdyQv"
+      },
+      "artists": [
+        {
+          "name": "Funda Arar",
+          "url": "https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132469,
+      "name": "Zindan",
+      "url": "https://open.spotify.com/track/1o4SP8i1ITqEe4oR4IWysq"
     },
     {
       "album": {

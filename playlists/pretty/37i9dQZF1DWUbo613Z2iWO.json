@@ -1,13 +1,29 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Major Myjah",
-  "num_followers": 51566,
+  "description": "R&B of the moment by the artists of the future. Cover: Dylan Sinclair",
+  "num_followers": 51608,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zpp9kwAAAADEYd41XgHcMdoCO6PXHO+Z",
+  "snapshot_id": "ZqNvPAAAAAACL0e7bLGsQoQHj8nAUYfn",
   "tracks": [
+    {
+      "added_at": "2024-07-26 09:02:54",
+      "album": {
+        "name": "I LO<3 MY EX",
+        "url": "https://open.spotify.com/album/5qvwNc0eA0wUE1q5K3F0vK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 170022,
+      "name": "I LO<3 MY EX",
+      "url": "https://open.spotify.com/track/375yP07IehIfCK16Ba4bne"
+    },
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
@@ -25,28 +41,40 @@
       "url": "https://open.spotify.com/track/4zUkoSQCwdHmidKyzXZXUV"
     },
     {
-      "added_at": "2024-07-19 14:52:03",
+      "added_at": "2024-07-26 09:02:54",
       "album": {
-        "name": "Merlot",
-        "url": "https://open.spotify.com/album/5GznepRbxSMHnnnxPNUYGt"
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/0o8DHoxt1tkA2lugrdnViD"
       },
       "artists": [
         {
-          "name": "Ye Ali",
-          "url": "https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH"
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
         },
         {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
-        },
-        {
-          "name": "Sidney Gilliam",
-          "url": "https://open.spotify.com/artist/4f3YbRd80O0uo81hswwwo5"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 246060,
-      "name": "Merlot",
-      "url": "https://open.spotify.com/track/1qWEIjCuCRlRbtrPmtEvjb"
+      "duration_ms": 148467,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/6aFyUn6Z9YujYwOI7QsWLZ"
+    },
+    {
+      "added_at": "2024-07-26 09:02:54",
+      "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/4dMG65PpEgLhnAKMGbi2ge"
+      },
+      "artists": [
+        {
+          "name": "Aqyila",
+          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
+        }
+      ],
+      "duration_ms": 163653,
+      "name": "Most Wanted",
+      "url": "https://open.spotify.com/track/3ol70ZGonP9HTEQSKhZYcY"
     },
     {
       "added_at": "2024-06-28 17:53:44",
@@ -67,22 +95,6 @@
       "duration_ms": 200500,
       "name": "AUCTION",
       "url": "https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD"
-    },
-    {
-      "added_at": "2024-07-19 14:52:03",
-      "album": {
-        "name": "GARDEN",
-        "url": "https://open.spotify.com/album/3M0yFfkVWQnAmjMpe2TGlH"
-      },
-      "artists": [
-        {
-          "name": "Rayana Jay",
-          "url": "https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S"
-        }
-      ],
-      "duration_ms": 186272,
-      "name": "GARDEN",
-      "url": "https://open.spotify.com/track/6YpiUebCTyUcLmV4X8W7Vq"
     },
     {
       "added_at": "2024-06-28 17:53:44",
@@ -133,22 +145,6 @@
       "url": "https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3"
     },
     {
-      "added_at": "2024-06-14 07:24:46",
-      "album": {
-        "name": "LEMON TREES",
-        "url": "https://open.spotify.com/album/5doYyd0IKAUbUtrYL6DGOV"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 151765,
-      "name": "LEMON TREES",
-      "url": "https://open.spotify.com/track/3P4nm6VN7ZHA8Xbd4KGkIk"
-    },
-    {
       "added_at": "2024-05-17 04:00:00",
       "album": {
         "name": "eyes wide open",
@@ -163,6 +159,94 @@
       "duration_ms": 153648,
       "name": "eyes wide open",
       "url": "https://open.spotify.com/track/47yqCBu6gwfquchEQiBahu"
+    },
+    {
+      "added_at": "2024-07-26 09:02:54",
+      "album": {
+        "name": "Matter To You",
+        "url": "https://open.spotify.com/album/2Plw36aPXHnzI2lJMywdUt"
+      },
+      "artists": [
+        {
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+        }
+      ],
+      "duration_ms": 242183,
+      "name": "Matter To You",
+      "url": "https://open.spotify.com/track/2EqbyvCXCrpYLGbjXjuC2x"
+    },
+    {
+      "added_at": "2024-07-19 14:52:03",
+      "album": {
+        "name": "Merlot",
+        "url": "https://open.spotify.com/album/5GznepRbxSMHnnnxPNUYGt"
+      },
+      "artists": [
+        {
+          "name": "Ye Ali",
+          "url": "https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH"
+        },
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        },
+        {
+          "name": "Sidney Gilliam",
+          "url": "https://open.spotify.com/artist/4f3YbRd80O0uo81hswwwo5"
+        }
+      ],
+      "duration_ms": 246060,
+      "name": "Merlot",
+      "url": "https://open.spotify.com/track/1qWEIjCuCRlRbtrPmtEvjb"
+    },
+    {
+      "added_at": "2024-07-19 14:52:03",
+      "album": {
+        "name": "GARDEN",
+        "url": "https://open.spotify.com/album/3M0yFfkVWQnAmjMpe2TGlH"
+      },
+      "artists": [
+        {
+          "name": "Rayana Jay",
+          "url": "https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S"
+        }
+      ],
+      "duration_ms": 186272,
+      "name": "GARDEN",
+      "url": "https://open.spotify.com/track/6YpiUebCTyUcLmV4X8W7Vq"
+    },
+    {
+      "added_at": "2024-07-26 09:41:16",
+      "album": {
+        "name": "Ain't Sad About It",
+        "url": "https://open.spotify.com/album/2dnnm4CV2NZoFyrA1eQEgq"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "duration_ms": 223106,
+      "name": "Ain't Sad About It",
+      "url": "https://open.spotify.com/track/5kaJZ4avY5KwWsjTK8W0wZ"
+    },
+    {
+      "added_at": "2024-07-26 09:02:54",
+      "album": {
+        "name": "SUNSET BLVD",
+        "url": "https://open.spotify.com/album/7KHNgbzkWGvK13wzjvUCig"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 159131,
+      "name": "SUNSET BLVD",
+      "url": "https://open.spotify.com/track/3rW0QUNJRgzXLVCvML6uZM"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -197,6 +281,22 @@
       "url": "https://open.spotify.com/track/1kLYRXosVxfzYdvQrApT5F"
     },
     {
+      "added_at": "2024-07-26 09:41:16",
+      "album": {
+        "name": "GoCrazy",
+        "url": "https://open.spotify.com/album/4E3mzji98FX9bpcAzbKBol"
+      },
+      "artists": [
+        {
+          "name": "NYA",
+          "url": "https://open.spotify.com/artist/0JkKPtdoOFdrZDPswFPQku"
+        }
+      ],
+      "duration_ms": 119171,
+      "name": "GoCrazy",
+      "url": "https://open.spotify.com/track/0NVCRdUETavHCMawAWVyQA"
+    },
+    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "Faith + Sight",
@@ -215,6 +315,22 @@
       "duration_ms": 159113,
       "name": "Faith + Sight",
       "url": "https://open.spotify.com/track/1XbYrixaAFERnv6QPsSWJ3"
+    },
+    {
+      "added_at": "2024-06-14 07:24:46",
+      "album": {
+        "name": "LEMON TREES",
+        "url": "https://open.spotify.com/album/5doYyd0IKAUbUtrYL6DGOV"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 151765,
+      "name": "LEMON TREES",
+      "url": "https://open.spotify.com/track/3P4nm6VN7ZHA8Xbd4KGkIk"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -255,6 +371,22 @@
       "duration_ms": 178907,
       "name": "Fine With Me",
       "url": "https://open.spotify.com/track/2EsvKqdrDBYttjRimh8QMu"
+    },
+    {
+      "added_at": "2024-07-26 09:02:54",
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/3zLVkHMYHOku9A7ZK7ve1w"
+      },
+      "artists": [
+        {
+          "name": "Journey Montana",
+          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
+        }
+      ],
+      "duration_ms": 245213,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/3YpIyir108wV2dofr1bYsd"
     },
     {
       "added_at": "2024-07-19 14:52:03",
@@ -1197,38 +1329,6 @@
       "url": "https://open.spotify.com/track/6ldJ3AUfPvRX2gCB4IMpBG"
     },
     {
-      "added_at": "2024-05-03 14:53:38",
-      "album": {
-        "name": "Touch It",
-        "url": "https://open.spotify.com/album/4g38km2uJCDbYq5lnve4Ai"
-      },
-      "artists": [
-        {
-          "name": "Dayo Bello",
-          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
-        }
-      ],
-      "duration_ms": 169545,
-      "name": "Touch It",
-      "url": "https://open.spotify.com/track/2vI2o9GfUaFbbalCiTGwMc"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "He Don't Know",
-        "url": "https://open.spotify.com/album/1urjgGljXT6gPuN9DePk26"
-      },
-      "artists": [
-        {
-          "name": "Trevor Jackson",
-          "url": "https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg"
-        }
-      ],
-      "duration_ms": 160124,
-      "name": "Happy Home",
-      "url": "https://open.spotify.com/track/3WTrRUIfO71a5eBoGEvSAO"
-    },
-    {
       "added_at": "2024-04-26 04:00:00",
       "album": {
         "name": "Karma",
@@ -1299,22 +1399,6 @@
       "duration_ms": 150706,
       "name": "All In",
       "url": "https://open.spotify.com/track/0BrDLkPp6BpWJinhCxqyDK"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
-        "name": "Hold Up",
-        "url": "https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 148750,
-      "name": "Hold Up",
-      "url": "https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z"
     },
     {
       "added_at": "2024-03-29 07:17:40",
@@ -1629,26 +1713,6 @@
       "url": "https://open.spotify.com/track/4qOJorQ4s6GXLbChKSIhzP"
     },
     {
-      "added_at": "2024-03-01 07:19:09",
-      "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/3KzXjaZ3bOVtC6RgFCkUTE"
-      },
-      "artists": [
-        {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
-        },
-        {
-          "name": "J Warner",
-          "url": "https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo"
-        }
-      ],
-      "duration_ms": 215152,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/15SHKUdlRaqIVTJWcP5n5a"
-    },
-    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Afro Blue",
@@ -1755,22 +1819,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Bad M'fkr",
-        "url": "https://open.spotify.com/album/31Fsbdngq7zJf19UVMycdE"
-      },
-      "artists": [
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        }
-      ],
-      "duration_ms": 218698,
-      "name": "Bad M'fkr",
-      "url": "https://open.spotify.com/track/37o1LWelGPbIdcf8YGMBP5"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "SUBMISSIVE2",
         "url": "https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo"
       },
@@ -1857,26 +1905,6 @@
       "url": "https://open.spotify.com/track/34w4MTDsuPBTAT3T3wedUp"
     },
     {
-      "added_at": "2024-03-01 07:19:09",
-      "album": {
-        "name": "I Just Wanna Know (Remix)",
-        "url": "https://open.spotify.com/album/0k0rGyoaunyLPKf3Jg2x47"
-      },
-      "artists": [
-        {
-          "name": "Jade Novah",
-          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
-        },
-        {
-          "name": "Tarriona 'Tank' Ball",
-          "url": "https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "I Just Wanna Know - Remix",
-      "url": "https://open.spotify.com/track/6urgrE1xiLMHrnG19NaCtz"
-    },
-    {
       "added_at": "2024-01-10 17:00:00",
       "album": {
         "name": "A Brief Nirvana",
@@ -1927,26 +1955,6 @@
     {
       "added_at": "2024-01-10 17:00:00",
       "album": {
-        "name": "FORWARD",
-        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        },
-        {
-          "name": "Ryan Trey",
-          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
-        }
-      ],
-      "duration_ms": 147773,
-      "name": "WHITE CROCS (with Ryan Trey)",
-      "url": "https://open.spotify.com/track/0VNe1ZE8U2baB3JKZpEBok"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/1sF44ZsrgWPrJ2imXUCcDB"
       },
@@ -1963,38 +1971,6 @@
     {
       "added_at": "2024-01-10 17:00:00",
       "album": {
-        "name": "The Art of Conversation",
-        "url": "https://open.spotify.com/album/1lYjBKBgG55DCxcqUSVr4J"
-      },
-      "artists": [
-        {
-          "name": "Bellah",
-          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/4Ebpa8CRiGYyMtqTciqJEi"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 209560,
-      "name": "Things Will Get Better",
-      "url": "https://open.spotify.com/track/72p6EgDYckzaHhqx9Sbxmz"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
         "name": "Conditions",
         "url": "https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ"
       },
@@ -2007,26 +1983,6 @@
       "duration_ms": 131541,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/6vkucSVB3rWcLQA4Shijcr"
-    },
-    {
-      "added_at": "2024-01-10 17:00:00",
-      "album": {
-        "name": "Conversations From A Payphone",
-        "url": "https://open.spotify.com/album/0T4Z5y6addAX9snpSlDNr7"
-      },
-      "artists": [
-        {
-          "name": "Jai'Len Josey",
-          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
-        },
-        {
-          "name": "Matt McGhee",
-          "url": "https://open.spotify.com/artist/40Viqfc5ZdF69hIKjktCZN"
-        }
-      ],
-      "duration_ms": 248871,
-      "name": "Mixed Signals",
-      "url": "https://open.spotify.com/track/37Ul8ruDPOdhMuCRYbSUn6"
     }
   ],
   "unique_name": "R&B Rising",

@@ -6,8 +6,28 @@
     "name": "Ultra Records",
     "url": "https://open.spotify.com/user/ultramusicofficial"
   },
-  "snapshot_id": "AAAJf6OCFyi1NVJ7qahMi4IR0qRi09lm",
+  "snapshot_id": "AAAJheeQk9dfwMjFDZc19jAbHf6kvlPo",
   "tracks": [
+    {
+      "added_at": "2024-07-26 03:39:43",
+      "album": {
+        "name": "Out of My Hands",
+        "url": "https://open.spotify.com/album/5QlP6Vaoi9Wobf2aLYHZR3"
+      },
+      "artists": [
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        },
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        }
+      ],
+      "duration_ms": 176030,
+      "name": "Out of My Hands",
+      "url": "https://open.spotify.com/track/6oRnGHtoBixS2qPYYL56ts"
+    },
     {
       "added_at": "2024-05-17 07:23:13",
       "album": {
@@ -31,6 +51,42 @@
       "duration_ms": 137142,
       "name": "La Musica",
       "url": "https://open.spotify.com/track/7AAV2G6lxJhMm3Dq2LUNwW"
+    },
+    {
+      "added_at": "2024-07-26 09:51:55",
+      "album": {
+        "name": "Cielo",
+        "url": "https://open.spotify.com/album/0V6OCa0gEboO7o6gXcmKWG"
+      },
+      "artists": [
+        {
+          "name": "Bolier",
+          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "duration_ms": 149315,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/4n6q1mheufR7QMKh3G1XhN"
+    },
+    {
+      "added_at": "2024-07-26 06:43:14",
+      "album": {
+        "name": "Hangin' On",
+        "url": "https://open.spotify.com/album/1QFag1soFAXSOXGoRQHp5G"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 195942,
+      "name": "Hangin' On",
+      "url": "https://open.spotify.com/track/2QBYwDbhKUjOPNylueh8ti"
     },
     {
       "added_at": "2024-05-20 07:11:28",

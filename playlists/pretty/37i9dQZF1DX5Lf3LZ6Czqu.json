@@ -1,13 +1,29 @@
 {
   "description": "Instrumental guitar shreddery. Cover: Marcin",
-  "num_followers": 144777,
+  "num_followers": 144889,
   "original_name": "String Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zp6tLAAAAABKyaHBtQ6K/RVJ3i+oBAhd",
+  "snapshot_id": "ZqMfQAAAAADwEWDDuRwrfaOstdVoKLis",
   "tracks": [
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Paul Position",
+        "url": "https://open.spotify.com/album/6FBuizIyg53wy5UT5DElGv"
+      },
+      "artists": [
+        {
+          "name": "Matteo Mancuso",
+          "url": "https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1"
+        }
+      ],
+      "duration_ms": 258461,
+      "name": "Paul Position",
+      "url": "https://open.spotify.com/track/4feswYiBEeswnbvARZYes2"
+    },
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
@@ -219,22 +235,6 @@
       "duration_ms": 204706,
       "name": "Around The Galaxy",
       "url": "https://open.spotify.com/track/5jfki545vcq6g8nZOZt3pq"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "The Journey",
-        "url": "https://open.spotify.com/album/6QJNcXUow95qKDvfg1byG2"
-      },
-      "artists": [
-        {
-          "name": "Matteo Mancuso",
-          "url": "https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1"
-        }
-      ],
-      "duration_ms": 273275,
-      "name": "Silkroad",
-      "url": "https://open.spotify.com/track/6EZ4V32DQZ7V7hRUwBVb7u"
     },
     {
       "added_at": "2023-04-07 04:01:00",

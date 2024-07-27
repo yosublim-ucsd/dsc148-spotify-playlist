@@ -699,6 +699,24 @@
     },
     {
       "album": {
+        "name": "Be My Home",
+        "url": "https://open.spotify.com/album/0sLS50WjlcxejcgtL5gjvB"
+      },
+      "artists": [
+        {
+          "name": "Eunike Tanzil",
+          "url": "https://open.spotify.com/artist/78XsqB0fsyDU7wR2w4zVuA"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284108,
+      "name": "Be My Home",
+      "url": "https://open.spotify.com/track/7EqkO7UDHveqXYzPrOZYei"
+    },
+    {
+      "album": {
         "name": "Berceuse",
         "url": "https://open.spotify.com/album/1CbzrevO6aayKT9t5RQ1ly"
       },
@@ -955,10 +973,6 @@
         "url": "https://open.spotify.com/album/4b4nboVDurZKBFzaL9lJdS"
       },
       "artists": [
-        {
-          "name": "Yann Tiersen",
-          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
-        },
         {
           "name": "Pl\u00ednio Fernandes",
           "url": "https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8"

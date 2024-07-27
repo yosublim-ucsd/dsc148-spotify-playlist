@@ -4,12 +4,12 @@
 
 > The best of today's funk\. Cover: MonoNeon
 
-442 songs - 1 day 2 hr 1 min
+443 songs - 1 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I Wanted\) Summer With You](https://open.spotify.com/track/135gSL1GHbUICdWdzs2l1u) | [Couch](https://open.spotify.com/artist/3nYyLjhw4mYzYfJePsCJYJ) | [\(I Wanted\) Summer With You](https://open.spotify.com/album/63ivWN7B0B5I52xRQwODXf) | 3:16 | 2023-10-27 |  |
-| [7 Days, 9 years](https://open.spotify.com/track/4yVGTqkczx3D0CSjBgOynw) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [7 Days, 9 years](https://open.spotify.com/album/1ZXXU6AMHyMC2JwMwcuTqM) | 2:22 | 2023-03-10 |  |
+| [7 Days, 9 years](https://open.spotify.com/track/4yVGTqkczx3D0CSjBgOynw) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [7 Days, 9 years](https://open.spotify.com/album/1ZXXU6AMHyMC2JwMwcuTqM) | 2:22 | 2023-03-10 | 2024-07-27 |
 | [AA Side Single](https://open.spotify.com/track/3UmA9fMJcr6H8gJSKneZ1U) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [AA Side Single](https://open.spotify.com/album/6YGh1X0EPIt3kLJV91txRN) | 4:03 | 2022-09-23 | 2023-03-25 |
 | [Aboutchu](https://open.spotify.com/track/7bttLEX8382hapywl6M2JJ) | [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9) | [Aboutchu](https://open.spotify.com/album/1yJH7iGpEeE2F5QxBTYo4s) | 2:52 | 2023-03-03 | 2024-03-16 |
 | [AIN'T NO STOPPIN NOW](https://open.spotify.com/track/6YGr9FevwAYqqOiHROyTIb) | [Marlon McClain](https://open.spotify.com/artist/4koQLefRqeoEQcHYt4lMKq), [BD3](https://open.spotify.com/artist/7HXr3w238HsQoQInMLxosZ) | [AIN'T NO STOPPIN NOW](https://open.spotify.com/album/50RNxGT9eCg45WvHY69WeF) | 2:24 | 2021-02-19 | 2022-05-28 |
@@ -363,6 +363,7 @@
 | [Stop This Feeling](https://open.spotify.com/track/2JRQQZzxZ9X0Mlq92q0jSy) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Stop This Feeling](https://open.spotify.com/album/7xss4hIieMAnRHZgz8k6bF) | 2:58 | 2022-11-11 | 2024-05-18 |
 | [Stuck on You](https://open.spotify.com/track/4fQR7QVHGPnA3ljpo95EjH) | [Saint Joshua](https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz) | [EP2](https://open.spotify.com/album/3nbmi3ESDzeTOml8Ttp5MV) | 4:32 | 2022-05-20 | 2024-03-02 |
 | [Stuck On You](https://open.spotify.com/track/7tAC9gjYufg2uOOEDbf36s) | [Saint Joshua](https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz) | [EP2](https://open.spotify.com/album/6MWzxBIxSMJilh1LW7jbhU) | 4:32 | 2022-05-20 | 2023-12-20 |
+| [Subway Surfing](https://open.spotify.com/track/2BEKaDo23WiAHaedEGyCUM) | [Allie Dunn](https://open.spotify.com/artist/1lx72xxuyFIbssxER4orMy) | [Subway Surfing](https://open.spotify.com/album/6Q5FBm5B4XEvKAmaM3139n) | 3:41 | 2024-07-26 |  |
 | [Sun Ray](https://open.spotify.com/track/2A42wBeqad7skiuLqiz0gq) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Sun Ray](https://open.spotify.com/album/4oSjiWRUaJKSZJrE3KUiWp) | 3:27 | 2022-11-25 | 2023-03-11 |
 | [SUPASTYLiN'](https://open.spotify.com/track/6DTHsrDEHgUvKrPQA13Grf) | [ONiGS](https://open.spotify.com/artist/3NmkWUyK2zHZgVaqqXJlrC), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [SUPASTYLiN'](https://open.spotify.com/album/0zzeBNXA3Dy4TWHE1sn50D) | 3:17 | 2022-11-04 | 2023-05-27 |
 | [SUPERPOWERS](https://open.spotify.com/track/717vo5eln3dMd1mOSdGQMr) | [Stee Moglie](https://open.spotify.com/artist/5koldNtStAQ8R6emPcSE51), [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [SUPERPOWERS](https://open.spotify.com/album/4oIKEETxNWLpwlxZHEyx7R) | 2:58 | 2023-09-22 | 2024-07-13 |

@@ -1,15 +1,111 @@
 {
-  "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Jack McKeon",
-  "num_followers": 12525,
+  "description": "Hear the latest releases from bluegrass and string bands alike. Cover: AJ Lee & Blue Summit",
+  "num_followers": 12578,
   "original_name": "New Grass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpFaBQAAAAAOC8vIt5sgUFD295XgFxRz",
+  "snapshot_id": "ZqQAlQAAAABmZMOFMIAsz0IrXcQ6O0rc",
   "tracks": [
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
+      "album": {
+        "name": "City of Glass",
+        "url": "https://open.spotify.com/album/3r6LFnjd18Rzgtk1iuvykk"
+      },
+      "artists": [
+        {
+          "name": "AJ Lee & Blue Summit",
+          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
+        }
+      ],
+      "duration_ms": 230232,
+      "name": "City of Glass",
+      "url": "https://open.spotify.com/track/31uSwisckZZqibnMW58yNF"
+    },
+    {
+      "added_at": "2024-07-26 20:01:25",
+      "album": {
+        "name": "Whiskey Drinking Man (Single Version) [Live]",
+        "url": "https://open.spotify.com/album/6bohoCDpzDL5lArUBqmejT"
+      },
+      "artists": [
+        {
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+        }
+      ],
+      "duration_ms": 253482,
+      "name": "Whiskey Drinking Man (Single Version) [Live]",
+      "url": "https://open.spotify.com/track/5jnBy8HmRXrG3PttGsFJm9"
+    },
+    {
+      "added_at": "2024-07-26 20:01:25",
+      "album": {
+        "name": "Put No Walls Around Your Garden",
+        "url": "https://open.spotify.com/album/6llvbiGVR6GWpwBTO6ANby"
+      },
+      "artists": [
+        {
+          "name": "New Dangerfield",
+          "url": "https://open.spotify.com/artist/7C8u86bsizzrpfCsuuCChr"
+        },
+        {
+          "name": "Jake Blount",
+          "url": "https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1"
+        },
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        },
+        {
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+        },
+        {
+          "name": "Nelson Williams",
+          "url": "https://open.spotify.com/artist/43ZXqcIS0LEohJZfHG79i3"
+        }
+      ],
+      "duration_ms": 191530,
+      "name": "Put No Walls Around Your Garden",
+      "url": "https://open.spotify.com/track/1nzBZ1pGMDj1hNWlnN3Stj"
+    },
+    {
+      "added_at": "2024-07-26 20:01:25",
+      "album": {
+        "name": "Wagon Wheel",
+        "url": "https://open.spotify.com/album/7cPsrl4X5vxDsoL3gdZK2l"
+      },
+      "artists": [
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        }
+      ],
+      "duration_ms": 433563,
+      "name": "Wagon Wheel",
+      "url": "https://open.spotify.com/track/2c3UKDNpkzj1qmSRWMDpcC"
+    },
+    {
+      "added_at": "2024-07-26 20:01:25",
+      "album": {
+        "name": "Southern Pines",
+        "url": "https://open.spotify.com/album/6IOGv7EQfWVEZ4BNsjzPKx"
+      },
+      "artists": [
+        {
+          "name": "Greenwood Rye",
+          "url": "https://open.spotify.com/artist/2mcITeRSJbvXSnZaVNZiJM"
+        }
+      ],
+      "duration_ms": 197019,
+      "name": "Southern Pines",
+      "url": "https://open.spotify.com/track/3xq4R4ji2VvzueStNzPcUm"
+    },
+    {
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Oldsmobile",
         "url": "https://open.spotify.com/album/5Gk0zmNtbFbuq1KhrnXhDN"
@@ -29,23 +125,155 @@
       "url": "https://open.spotify.com/track/2Hy7TP76C9V3ie4ArFu7np"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
-        "name": "For the Record",
-        "url": "https://open.spotify.com/album/7HjMryUz4eO5pMV0XRTpIz"
+        "name": "Welcome to Virginia",
+        "url": "https://open.spotify.com/album/7Lr3YDrOVFkJlxmOraeXDS"
       },
       "artists": [
         {
-          "name": "Jeb Gipson",
-          "url": "https://open.spotify.com/artist/3MG8H6zu9EvmL5sRtFpDMF"
+          "name": "Thomas Cassell",
+          "url": "https://open.spotify.com/artist/1axMbkG5DNnNEoJNURK9OL"
         }
       ],
-      "duration_ms": 215753,
-      "name": "For the Record",
-      "url": "https://open.spotify.com/track/1LGxK8CpgXwUFEBNIDKwiX"
+      "duration_ms": 186720,
+      "name": "Welcome to Virginia",
+      "url": "https://open.spotify.com/track/7xCuLpCP4CtxABSR18FyYG"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
+      "album": {
+        "name": "Blade of the King's Tongue",
+        "url": "https://open.spotify.com/album/7qgvmVoTqa9mJA9QKWv8lk"
+      },
+      "artists": [
+        {
+          "name": "The Riverside",
+          "url": "https://open.spotify.com/artist/3mftSIJRvH13hEBXdiV06X"
+        }
+      ],
+      "duration_ms": 285160,
+      "name": "Blade of the King's Tongue",
+      "url": "https://open.spotify.com/track/2TpE2ATWlNo9lykPoThv3p"
+    },
+    {
+      "added_at": "2024-07-26 20:01:25",
+      "album": {
+        "name": "Preachin' Silas",
+        "url": "https://open.spotify.com/album/3Q2tkhbmmIVTudoBtP6Fjd"
+      },
+      "artists": [
+        {
+          "name": "The Gospel Plowboys",
+          "url": "https://open.spotify.com/artist/43Gssso581XyRUxLIKWvC5"
+        }
+      ],
+      "duration_ms": 205346,
+      "name": "Preachin' Silas",
+      "url": "https://open.spotify.com/track/0ETxjdmxLlBTsFzkRhtRIZ"
+    },
+    {
+      "added_at": "2024-07-26 20:01:25",
+      "album": {
+        "name": "Addie Levy",
+        "url": "https://open.spotify.com/album/06I1r4BlzxYu2dHKisGfQ6"
+      },
+      "artists": [
+        {
+          "name": "Addie Levy",
+          "url": "https://open.spotify.com/artist/2Kt8rsgYAxJgt1NKAhOO5a"
+        },
+        {
+          "name": "Trey Hensley",
+          "url": "https://open.spotify.com/artist/4Rk9tPJMkej36GtfYGjtSa"
+        }
+      ],
+      "duration_ms": 278046,
+      "name": "Blue Mountain",
+      "url": "https://open.spotify.com/track/6sTnr8GTB2mTwWtzaM871N"
+    },
+    {
+      "added_at": "2024-07-26 20:01:25",
+      "album": {
+        "name": "Can't Get Home (Live)",
+        "url": "https://open.spotify.com/album/34pOaEjQxPrF3BxnRrV6qw"
+      },
+      "artists": [
+        {
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+        }
+      ],
+      "duration_ms": 407870,
+      "name": "Can't Get Home - Live",
+      "url": "https://open.spotify.com/track/5iJFJzlb1ZoIXLGgHwEULJ"
+    },
+    {
+      "added_at": "2024-07-26 20:01:25",
+      "album": {
+        "name": "Concrete and Steel",
+        "url": "https://open.spotify.com/album/0T9mLuAz73gyFfAiyEBfCD"
+      },
+      "artists": [
+        {
+          "name": "Off the Rails",
+          "url": "https://open.spotify.com/artist/5IQJ1whqwZ6KxBfEhTwAQn"
+        }
+      ],
+      "duration_ms": 251047,
+      "name": "Concrete and Steel",
+      "url": "https://open.spotify.com/track/4py2tahEW31c0KfKIZFVE1"
+    },
+    {
+      "added_at": "2024-07-26 20:01:25",
+      "album": {
+        "name": "Pickin' Flowers",
+        "url": "https://open.spotify.com/album/5XKFYRqOL2kiyvKuQR5uvD"
+      },
+      "artists": [
+        {
+          "name": "Magoo",
+          "url": "https://open.spotify.com/artist/5WekSJls7QTlBwgvrUvVDy"
+        }
+      ],
+      "duration_ms": 226797,
+      "name": "Pickin' Flowers",
+      "url": "https://open.spotify.com/track/1jf0sdpNgpxUvwqbrcKdlQ"
+    },
+    {
+      "added_at": "2024-07-26 20:01:25",
+      "album": {
+        "name": "Coming Home To You",
+        "url": "https://open.spotify.com/album/1xx79mFrnxzgCjeCY9S8XA"
+      },
+      "artists": [
+        {
+          "name": "Dalton Harper",
+          "url": "https://open.spotify.com/artist/3U4vzhdX7prKmPTNNv6jet"
+        }
+      ],
+      "duration_ms": 188294,
+      "name": "Coming Home To You",
+      "url": "https://open.spotify.com/track/3l3RlgKAMPWEvoLsWGQDNQ"
+    },
+    {
+      "added_at": "2024-07-26 20:01:25",
+      "album": {
+        "name": "Valley Flower",
+        "url": "https://open.spotify.com/album/7MDJNxfHTfilPJ0528J656"
+      },
+      "artists": [
+        {
+          "name": "Valley Flower",
+          "url": "https://open.spotify.com/artist/30RBNZU9rtKnfb5dlOm1Ew"
+        }
+      ],
+      "duration_ms": 290345,
+      "name": "Valley Flower",
+      "url": "https://open.spotify.com/track/23w4l3oAw9kMY2ZQiE4xpI"
+    },
+    {
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Talking To Strangers",
         "url": "https://open.spotify.com/album/7hntMvKkF4Srne2FU8QwuK"
@@ -61,7 +289,63 @@
       "url": "https://open.spotify.com/track/47SV1QiSmsztYUZfYPeNYB"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
+      "album": {
+        "name": "Putting on the Ring",
+        "url": "https://open.spotify.com/album/4ja6mlvSRJ4YvCE3Q7YzAm"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Ace Stringband",
+          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
+        },
+        {
+          "name": "John Showman",
+          "url": "https://open.spotify.com/artist/7LcJJJFnWyr4LrudLL3fpN"
+        },
+        {
+          "name": "Chris Coole",
+          "url": "https://open.spotify.com/artist/6FrFN8PoG2qUy8apsYeN8o"
+        }
+      ],
+      "duration_ms": 161309,
+      "name": "Putting on the Ring",
+      "url": "https://open.spotify.com/track/0bSMmTb6gIoC2wCOmcKSJW"
+    },
+    {
+      "added_at": "2024-07-26 20:01:25",
+      "album": {
+        "name": "Trying to Live the Dream",
+        "url": "https://open.spotify.com/album/5IryPOT8e9jhLP1gpGlPF5"
+      },
+      "artists": [
+        {
+          "name": "The Po' Ramblin' Boys",
+          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
+        }
+      ],
+      "duration_ms": 249140,
+      "name": "Trying to Live the Dream",
+      "url": "https://open.spotify.com/track/0LYQO6KzcfMITlNs4E6prW"
+    },
+    {
+      "added_at": "2024-07-26 20:01:25",
+      "album": {
+        "name": "For the Record",
+        "url": "https://open.spotify.com/album/7HjMryUz4eO5pMV0XRTpIz"
+      },
+      "artists": [
+        {
+          "name": "Jeb Gipson",
+          "url": "https://open.spotify.com/artist/3MG8H6zu9EvmL5sRtFpDMF"
+        }
+      ],
+      "duration_ms": 215753,
+      "name": "For the Record",
+      "url": "https://open.spotify.com/track/1LGxK8CpgXwUFEBNIDKwiX"
+    },
+    {
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Let the Creek Rise",
         "url": "https://open.spotify.com/album/3uWZaWwSxbXDFsaOVvpkfU"
@@ -85,7 +369,7 @@
       "url": "https://open.spotify.com/track/0TNTjUfgc4tGPH3sSPQ4Sj"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "The Snake",
         "url": "https://open.spotify.com/album/0G080kprHWuQFw5eg1pSko"
@@ -105,7 +389,7 @@
       "url": "https://open.spotify.com/track/1RgBVRY7j5CXQNmMqkZKaP"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Cloak of the Sun",
         "url": "https://open.spotify.com/album/7jf0HG4UsvcT3h49jxawqJ"
@@ -121,7 +405,7 @@
       "url": "https://open.spotify.com/track/2UoPZNMav7zszKwGVf1GQ6"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Right Where You Belong",
         "url": "https://open.spotify.com/album/6KtO5qLdARe7NnoEJE8DOl"
@@ -137,7 +421,7 @@
       "url": "https://open.spotify.com/track/24f6np4x2cxVyyjUlB3vwr"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Detour to the Moon",
         "url": "https://open.spotify.com/album/0ofS9qQN6ystrffyUpdpib"
@@ -153,7 +437,7 @@
       "url": "https://open.spotify.com/track/6S29eMQRiBVPsUbIEstr8p"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Billy Strings Live Vol. 1",
         "url": "https://open.spotify.com/album/4bpNMPHRVjpjOPXtgI296k"
@@ -169,7 +453,7 @@
       "url": "https://open.spotify.com/track/5TtUEbDE7lg5v8LnItQIB1"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "The Parting Glass",
         "url": "https://open.spotify.com/album/4ATPMT0N4zHdyEAQR7NYAT"
@@ -185,7 +469,7 @@
       "url": "https://open.spotify.com/track/2HSYcexNHHTFH6cqB9pziQ"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Dr. Wily's",
         "url": "https://open.spotify.com/album/3nc1Dx8YnRhyGO4IYB6Qhb"
@@ -205,7 +489,7 @@
       "url": "https://open.spotify.com/track/1PQrrObvLOU3KkqfQexWLa"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Pleasantly Aimless",
         "url": "https://open.spotify.com/album/32qk0HjNnHFlOxOSPTGA4W"
@@ -221,7 +505,7 @@
       "url": "https://open.spotify.com/track/0kpgfRaEePa9yQQR7JjZA0"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "For Everything",
         "url": "https://open.spotify.com/album/38klntpvhrepsCTVEzydGm"
@@ -241,7 +525,7 @@
       "url": "https://open.spotify.com/track/7KT2d44IgFO7yy21Oj0okp"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Spider on the Banjo",
         "url": "https://open.spotify.com/album/5e7OPZmIzZVQO7xiFWD9W3"
@@ -265,7 +549,7 @@
       "url": "https://open.spotify.com/track/55OXI7lLQRoS9FhSw54CHC"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Don't Wash Away Our Home",
         "url": "https://open.spotify.com/album/6IsvDFXtMWxrQoMhlJ3i1X"
@@ -281,7 +565,7 @@
       "url": "https://open.spotify.com/track/6gVBoKkKOFcN3JyAO4fuLB"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Cowboy Special (Take 1)",
         "url": "https://open.spotify.com/album/5QrbO7EV4PSUl1WzI85GMr"
@@ -297,7 +581,7 @@
       "url": "https://open.spotify.com/track/5CbX4WpPpbapyCCjcKQvRO"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Dirty Water",
         "url": "https://open.spotify.com/album/2eYvn2KC00dVJiL4OmDtEr"
@@ -313,7 +597,7 @@
       "url": "https://open.spotify.com/track/4JPBavH5IA7zkXeoUN97mO"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Junk Drawer",
         "url": "https://open.spotify.com/album/2PM6aDxBiqUTRecj0LrEjc"
@@ -329,7 +613,7 @@
       "url": "https://open.spotify.com/track/7DyNpuPR8UCujzxBIdcVjB"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "The Wandering Boy",
         "url": "https://open.spotify.com/album/6KEHJIjKnda4BZUnnJPQpx"
@@ -349,7 +633,7 @@
       "url": "https://open.spotify.com/track/2GE8U9rTREnInEkPQGD0G0"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Songs of Love and Life",
         "url": "https://open.spotify.com/album/03f51xWx5A4dnrDfGsyO04"
@@ -365,7 +649,7 @@
       "url": "https://open.spotify.com/track/672C4cdesruGElPEQYuueq"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "The Winning Hand",
         "url": "https://open.spotify.com/album/1hbPveREJXWDaCdZvkYIA5"
@@ -381,7 +665,7 @@
       "url": "https://open.spotify.com/track/2EyunhYnQeRspr4ZDMKEZg"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Too Cool",
         "url": "https://open.spotify.com/album/6GFiyFBfPaIbjqa8aHsRrn"
@@ -397,7 +681,7 @@
       "url": "https://open.spotify.com/track/4XXrg1gGffTbij2VT4tXH8"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "I Can\u2019t Find You at All",
         "url": "https://open.spotify.com/album/4E3OhWp4jOtAGhVIbIviRf"
@@ -417,7 +701,7 @@
       "url": "https://open.spotify.com/track/0mERVF4Cd50jflV6c51ZKY"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Wanderers Like Me",
         "url": "https://open.spotify.com/album/6Gjk2XloLMceU0G7ss70Rm"
@@ -433,7 +717,7 @@
       "url": "https://open.spotify.com/track/1bCgFSfb6Px08in2cw77kR"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Runnin' from the Weather",
         "url": "https://open.spotify.com/album/5xXWvwOfvFnvwcgQwZmWEk"
@@ -453,7 +737,7 @@
       "url": "https://open.spotify.com/track/35OzicAta0YmBkeB7olWB8"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Songs from Horizon",
         "url": "https://open.spotify.com/album/0DbpxbSAqwkEQPinJCyxjq"
@@ -473,7 +757,7 @@
       "url": "https://open.spotify.com/track/0WypF2XHukG52xgiSmKP3h"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Don't Take It Back",
         "url": "https://open.spotify.com/album/216dTE8BUbvZNUfbJ4GMnp"
@@ -489,7 +773,7 @@
       "url": "https://open.spotify.com/track/3wOfAQbilOnpk97l0Kj8zr"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "The First Time I Heard About Heaven",
         "url": "https://open.spotify.com/album/5LKG4wYgED5pEm7axJ3K71"
@@ -505,7 +789,7 @@
       "url": "https://open.spotify.com/track/7HR7eK8BMWNASMAzTGaA8o"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "In the Garden",
         "url": "https://open.spotify.com/album/2IBgRUNWmDr2a7iY39BI2B"
@@ -521,7 +805,7 @@
       "url": "https://open.spotify.com/track/2hMPlCT4F3nCyzuyo9rbjQ"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "I'm in Tennessee",
         "url": "https://open.spotify.com/album/0PFvGsYh75RguPVWr1xGrk"
@@ -537,7 +821,7 @@
       "url": "https://open.spotify.com/track/6NNuFH7JO8K24y3aLTw4ai"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Big Sky",
         "url": "https://open.spotify.com/album/0QOVHIpQPTjVy2Mkqhs6Rt"
@@ -553,7 +837,7 @@
       "url": "https://open.spotify.com/track/0E5Xg5SpLNfsrhizdoiJN5"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Born to Run",
         "url": "https://open.spotify.com/album/6XXtLt6TrZqAEpf075BH6X"
@@ -569,7 +853,7 @@
       "url": "https://open.spotify.com/track/3ZMEwdh8QGsUSOmXGsLcAu"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Sittin' On Top Of The World",
         "url": "https://open.spotify.com/album/0Pt7iWAYMUdDTfpzr2zrqV"
@@ -585,7 +869,7 @@
       "url": "https://open.spotify.com/track/4v87xT9yFNvsi1mu5urj6b"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Hands",
         "url": "https://open.spotify.com/album/01vVyZbcNMgEWsVUc85nHG"
@@ -609,7 +893,7 @@
       "url": "https://open.spotify.com/track/70tv8ruHMrDlrfeKhU62qP"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "444",
         "url": "https://open.spotify.com/album/66W5KTdHyd7pCtULDT6VLB"
@@ -625,7 +909,7 @@
       "url": "https://open.spotify.com/track/76n3TX5EoLq3MFGqDURSft"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Pickin' On The Doors",
         "url": "https://open.spotify.com/album/4CGYV0NXAcsomCK4swjBuX"
@@ -645,7 +929,7 @@
       "url": "https://open.spotify.com/track/0YUD5sVmPo7eQTxbNXwEg8"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Sincerity",
         "url": "https://open.spotify.com/album/2hhmym4PdWA1kmGFKQr0eQ"
@@ -661,7 +945,7 @@
       "url": "https://open.spotify.com/track/6YGSCfnP4JVH84Q2sTXmDc"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Old Devil's Dream",
         "url": "https://open.spotify.com/album/6SkaOm9rsMEr12IF3Lf83U"
@@ -677,7 +961,7 @@
       "url": "https://open.spotify.com/track/0aMHNVs2qEcEDo0x1ZDmzI"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "On & On & On",
         "url": "https://open.spotify.com/album/0961y3DsXaQJZfpEWXfNeG"
@@ -697,7 +981,7 @@
       "url": "https://open.spotify.com/track/6KOBobmuB1lQhOpWltAf75"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Georgia Rain",
         "url": "https://open.spotify.com/album/1BFRKYgiqWRHl2FVHSLXzg"
@@ -713,7 +997,7 @@
       "url": "https://open.spotify.com/track/6kM1cbK4b9MPzIDKvzXJHu"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "She Flies",
         "url": "https://open.spotify.com/album/7sFL74WUVm1OE8zL3r0cGZ"
@@ -729,7 +1013,7 @@
       "url": "https://open.spotify.com/track/252oEjuaiFuDEKvi8QlR2O"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Best Friends",
         "url": "https://open.spotify.com/album/5G7Oc0iDOBqbtkcNijBxrI"
@@ -745,7 +1029,7 @@
       "url": "https://open.spotify.com/track/1lzu5UGZJdOSmx26rdsm6g"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Beehive Cathedral",
         "url": "https://open.spotify.com/album/3AvoBKpbB6p9gNsFqRgA9O"
@@ -769,7 +1053,7 @@
       "url": "https://open.spotify.com/track/3jGs1PvhoJPpaoVTEks6QN"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "She's Heavenly",
         "url": "https://open.spotify.com/album/1VYgoApxYPgg4fw0LMGp0M"
@@ -789,7 +1073,7 @@
       "url": "https://open.spotify.com/track/08dgd5ijfEtgqu9dFlwrNT"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Blackgrass: From West Virginia to 125th St",
         "url": "https://open.spotify.com/album/2jRiWQAiXSH3JycfGriq8x"
@@ -809,7 +1093,7 @@
       "url": "https://open.spotify.com/track/6NOs4tmAEkX32O6unSrlpB"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "He Would've Wrote Em' All",
         "url": "https://open.spotify.com/album/1MLjG9iZVhm5IaSLltETDN"
@@ -829,7 +1113,7 @@
       "url": "https://open.spotify.com/track/3l3w4s8oMWXD2kGCpV2k8q"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "High Country Road Trip",
         "url": "https://open.spotify.com/album/3ipheRV2bV8XpbkqHI7yoR"
@@ -873,7 +1157,7 @@
       "url": "https://open.spotify.com/track/3T0aGMpYEoZ5Jgvikk4aZG"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "The Blackest Thing on the Menu",
         "url": "https://open.spotify.com/album/0QSJf6HZhBk5AO5aaMIh62"
@@ -889,7 +1173,7 @@
       "url": "https://open.spotify.com/track/39jCXgc3bJziag2bsjk9eo"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "The Winning Hand",
         "url": "https://open.spotify.com/album/1hbPveREJXWDaCdZvkYIA5"
@@ -905,7 +1189,7 @@
       "url": "https://open.spotify.com/track/6CapK6i8NzCHNjORFaIDiv"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Trudging Along",
         "url": "https://open.spotify.com/album/2ettFOx7op6JZcdiUasZzS"
@@ -921,7 +1205,7 @@
       "url": "https://open.spotify.com/track/3Obg2tZtWFgAbg6Vs1bOGw"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Let It Burn",
         "url": "https://open.spotify.com/album/6qCbofOHDDBjC39QAQMruW"
@@ -937,7 +1221,7 @@
       "url": "https://open.spotify.com/track/7vz15j5LJOYCEFtlxREIAa"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Clear the Tracks",
         "url": "https://open.spotify.com/album/121VqIgXcC5B3nlz4B0RJT"
@@ -957,7 +1241,7 @@
       "url": "https://open.spotify.com/track/5R0d96sHEwQGW3rcga8mkV"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Don't Come Knockin",
         "url": "https://open.spotify.com/album/2Vi1FLnPevU0PtAwN6hFEn"
@@ -973,7 +1257,7 @@
       "url": "https://open.spotify.com/track/43Q4PRwvmFDibZkmYLFTtn"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "What People Think of Me Is None of My Business",
         "url": "https://open.spotify.com/album/5AO7gQRmQuWW24y0LoSxvm"
@@ -989,7 +1273,7 @@
       "url": "https://open.spotify.com/track/5hk7aR6Qg3PUlZxUO0Qoeh"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Lonestar",
         "url": "https://open.spotify.com/album/6xieYQQfpp2TVn1MWkApji"
@@ -1005,7 +1289,7 @@
       "url": "https://open.spotify.com/track/3kowXiulAQLaoCufDH24tH"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "I Built A World",
         "url": "https://open.spotify.com/album/6hTAyMVolX7dzbPkLZ54MV"
@@ -1025,7 +1309,7 @@
       "url": "https://open.spotify.com/track/15nDnHLaE6j9xZnwLvRHfs"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Stage Fright",
         "url": "https://open.spotify.com/album/55bNnp6bSSqb5fdc9qwEa7"
@@ -1049,7 +1333,7 @@
       "url": "https://open.spotify.com/track/1oxs6bAD3fvLbXFh4fk4Xa"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "The Shipping Tunes: Shipping Port / Shipping Polska",
         "url": "https://open.spotify.com/album/6nvN9PXOemFrpbaDl5KiBe"
@@ -1069,7 +1353,7 @@
       "url": "https://open.spotify.com/track/7b9sQeOwYRnZew2hzRaMnG"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Nothing But Sky",
         "url": "https://open.spotify.com/album/2jOeQDJcc2Wadr6sDRsSzo"
@@ -1085,7 +1369,7 @@
       "url": "https://open.spotify.com/track/0Ng1cuSZVoFs83b0y0x8yr"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "I Choose You",
         "url": "https://open.spotify.com/album/6WTCaFxKoi1aWvQgMfmNcG"
@@ -1101,7 +1385,7 @@
       "url": "https://open.spotify.com/track/1na3JmCoxvNVjgmC33zp4f"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Donner Pass",
         "url": "https://open.spotify.com/album/1pUHvl6AWvntcSdQ7Bfdpx"
@@ -1125,7 +1409,7 @@
       "url": "https://open.spotify.com/track/1gavgGR6CXhtXbeJMLxWnQ"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Trains, Thinkin' and Drinkin'",
         "url": "https://open.spotify.com/album/3epAjR9YFNESIJn0KH1WWd"
@@ -1141,7 +1425,7 @@
       "url": "https://open.spotify.com/track/1Hq6sbdvNEcgEFNeqpkRhX"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Wake Me Up (The Bluegrass Rendition)",
         "url": "https://open.spotify.com/album/5nNr9tOefpudgC4QLcwh3g"
@@ -1161,7 +1445,7 @@
       "url": "https://open.spotify.com/track/71W7aqLRQQmrqnGA7U5mzB"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Keepers of the Flame",
         "url": "https://open.spotify.com/album/4JpiWeHXlKxVLbqgA7eh9w"
@@ -1177,7 +1461,7 @@
       "url": "https://open.spotify.com/track/3juh17WUSc9M17xaqDrR6g"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Bop Your Head",
         "url": "https://open.spotify.com/album/420mYWvOmXSapn5DlOawVJ"
@@ -1193,7 +1477,7 @@
       "url": "https://open.spotify.com/track/2XKfkDRJg53T7g9ToPOqv9"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Traveling the Highway Home (feat. Margo Price)",
         "url": "https://open.spotify.com/album/0T7i4x8bUEmANVUCmjfTz1"
@@ -1213,7 +1497,7 @@
       "url": "https://open.spotify.com/track/52iYgpuxqiL0s3Bh6nNkk4"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Lonely Pine",
         "url": "https://open.spotify.com/album/2oZ6WaTNq7YxR4LPJFt2iq"
@@ -1229,7 +1513,7 @@
       "url": "https://open.spotify.com/track/0xWcydNeZM8SjGPZSGgaaC"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Do It All Again",
         "url": "https://open.spotify.com/album/32l7nnlj4kbgZWb6G6YGa5"
@@ -1261,7 +1545,7 @@
       "url": "https://open.spotify.com/track/5LwExaTO3MLphpD6SsFxFK"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Jericho",
         "url": "https://open.spotify.com/album/6eWuSVCbW2xtKCoVwi8fmF"
@@ -1277,7 +1561,7 @@
       "url": "https://open.spotify.com/track/1W6z6wXtnt5BAqls5Sr2kG"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "He Called Me Baby",
         "url": "https://open.spotify.com/album/7aiK72YOfer4Rx9KzSOnak"
@@ -1293,7 +1577,7 @@
       "url": "https://open.spotify.com/track/07XgjLPy8zK8ppSZ7r38gb"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "The Witch",
         "url": "https://open.spotify.com/album/1tawEN40gmanTIG2QaN3BC"
@@ -1313,7 +1597,7 @@
       "url": "https://open.spotify.com/track/084AB0fzsGnHtrkVHATK95"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "R-26",
         "url": "https://open.spotify.com/album/4VHACAHXRUVRH8BiwgZziK"
@@ -1329,7 +1613,7 @@
       "url": "https://open.spotify.com/track/7Mq4NE0YAnAHpU89XRx6YG"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Last Road Going Home",
         "url": "https://open.spotify.com/album/3AH3tiNwrkL5pMHOl4IIVS"
@@ -1345,7 +1629,7 @@
       "url": "https://open.spotify.com/track/2qsbZAqsSfYvpQg5h6dQ2Y"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Home Is Where the Heart Is",
         "url": "https://open.spotify.com/album/7jCMYs4oH79FbPTmqzrex9"
@@ -1361,7 +1645,7 @@
       "url": "https://open.spotify.com/track/0UC2bb1TlnBx6PzYgAQsme"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Let It Fall",
         "url": "https://open.spotify.com/album/4PUo10KAVp8UYAUXRvVZq2"
@@ -1377,7 +1661,7 @@
       "url": "https://open.spotify.com/track/0JC6wfQJn8GyFwgscOLNoM"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Free Time",
         "url": "https://open.spotify.com/album/0739R9Mg1Y4LUSmARIsHKy"
@@ -1393,7 +1677,7 @@
       "url": "https://open.spotify.com/track/2HiHcis6MYpTEIVbHFrMck"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Arlington",
         "url": "https://open.spotify.com/album/3H8KcOWrQR6bCjj7O8Tk8V"
@@ -1409,7 +1693,7 @@
       "url": "https://open.spotify.com/track/12koA2JkTvcMhL7WhHnYmu"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "The Iceland Sessions",
         "url": "https://open.spotify.com/album/5pgkAIu1klDM5ZNpPjJsy1"
@@ -1429,7 +1713,7 @@
       "url": "https://open.spotify.com/track/3p9fjQIaKhSuB3NDFYjzJI"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Instrumentals, Vol. 2: Mandolin Mysteries",
         "url": "https://open.spotify.com/album/1qnypzzfDpbxtVOgXuyUoo"
@@ -1457,7 +1741,7 @@
       "url": "https://open.spotify.com/track/7ohOfE6xbJISPAQeHZlkFF"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Give It Away",
         "url": "https://open.spotify.com/album/2GQjg9G5k3PVsxbbhCSrEF"
@@ -1477,7 +1761,7 @@
       "url": "https://open.spotify.com/track/0cu0Jlsd2N5xfMBcsUskRa"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "BBQ Chips",
         "url": "https://open.spotify.com/album/3iBlKkuOkBSo9qKeO2DG8o"
@@ -1493,7 +1777,7 @@
       "url": "https://open.spotify.com/track/2LQxH6FmgC7vwXPo2lVtER"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Daylight No More",
         "url": "https://open.spotify.com/album/2GN2U6OQHkyNhX4uDvgwE8"
@@ -1509,7 +1793,7 @@
       "url": "https://open.spotify.com/track/2NwCj87xzfVJSHbjfOIdux"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/36cT6S2JKQLQWYRMXAe0SS"
@@ -1529,7 +1813,7 @@
       "url": "https://open.spotify.com/track/58EpbedY26g7KtHrA9krbe"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Buy A Box",
         "url": "https://open.spotify.com/album/7hs4SrNbQyhw5lzUJUb9pI"
@@ -1545,7 +1829,7 @@
       "url": "https://open.spotify.com/track/7DxPi4F0ipHfNJejnFfebl"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "First Snow (Live from Powell River Sessions)",
         "url": "https://open.spotify.com/album/6anXcJnOwI3c2gI6Cg6g67"
@@ -1561,7 +1845,7 @@
       "url": "https://open.spotify.com/track/4DZTCqivpcz5hgZOBzO2wX"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "County Traditions",
         "url": "https://open.spotify.com/album/42JgF9hK65zipKQHotpZlp"
@@ -1577,7 +1861,7 @@
       "url": "https://open.spotify.com/track/11lkOsDprKrQrlHMkdD2Ts"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Dangerfield Newby",
         "url": "https://open.spotify.com/album/5dDn4DVhCkI8CtaEbJRUzg"
@@ -1609,7 +1893,7 @@
       "url": "https://open.spotify.com/track/08otEkP88HytOAVaUqEjtc"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Jesus Satisfies",
         "url": "https://open.spotify.com/album/603T2RxiQCtJC9If8oc032"
@@ -1625,7 +1909,7 @@
       "url": "https://open.spotify.com/track/1XSPfOBqQlLL5mym6Q8gYG"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Ugly Man's Wife",
         "url": "https://open.spotify.com/album/5j5BXE39Qxxe3NFub41d7R"
@@ -1641,7 +1925,7 @@
       "url": "https://open.spotify.com/track/3TbaIvwrMrUd9GbtJ3hktc"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Half Life",
         "url": "https://open.spotify.com/album/51JYG8XPpVVVA7uQTnm4tI"
@@ -1657,7 +1941,7 @@
       "url": "https://open.spotify.com/track/4qIdRNZsrZ0HHPq73AWGQW"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "10 Days of Isolation",
         "url": "https://open.spotify.com/album/5ZvRDtu8VQaqFniOcl2W3w"
@@ -1677,7 +1961,7 @@
       "url": "https://open.spotify.com/track/18Ym8wNFDV5V2npH1feKEY"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Blue Collared Dog and His Green Eyed Friend",
         "url": "https://open.spotify.com/album/5dLr3Y7INsQqWAWFnpeMGP"
@@ -1693,7 +1977,7 @@
       "url": "https://open.spotify.com/track/5FoINNLonQyhxkRBKj4zeO"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Georgia in Her Eyes",
         "url": "https://open.spotify.com/album/6w7zglb75ipmcakxSCRvef"
@@ -1709,7 +1993,7 @@
       "url": "https://open.spotify.com/track/2h2eMdiQThxg2AIwcpSRrl"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Don't Know What I'll Do",
         "url": "https://open.spotify.com/album/6ZpQn4Gko2rreRMVI9u9dK"
@@ -1725,7 +2009,7 @@
       "url": "https://open.spotify.com/track/5dN6A9PgS0D8bCOmbITmrH"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Bury Me Beneath the Willow",
         "url": "https://open.spotify.com/album/7udN0NdG7MCc8j5ud1XDt5"
@@ -1745,7 +2029,7 @@
       "url": "https://open.spotify.com/track/0wVkYqvTSittO0HGc3EUCF"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Available",
         "url": "https://open.spotify.com/album/5hPrWY2RDJ3Y80i2ZYMt0S"
@@ -1789,7 +2073,7 @@
       "url": "https://open.spotify.com/track/2GQf8q1tsX7cT0rIX0BLJw"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "One of These Days",
         "url": "https://open.spotify.com/album/1oahw7ytVm1XUs7ojmYvsg"
@@ -1809,7 +2093,7 @@
       "url": "https://open.spotify.com/track/41IKwf5EgWh066nQ7a9FVi"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Steady As The Rain",
         "url": "https://open.spotify.com/album/07OPOMul6gkPooWWu7U181"
@@ -1825,7 +2109,7 @@
       "url": "https://open.spotify.com/track/0fWb3D7jIhIcOPLNyoARqn"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "One Sunray At A Time",
         "url": "https://open.spotify.com/album/6wyosEFDOpn2NlDyNlpKPg"
@@ -1845,7 +2129,7 @@
       "url": "https://open.spotify.com/track/0IgtgB0NRDvceJCoNpJPg1"
     },
     {
-      "added_at": "2024-07-12 16:29:57",
+      "added_at": "2024-07-26 20:01:25",
       "album": {
         "name": "Those Lonely, Lonely Nights",
         "url": "https://open.spotify.com/album/3usAfT8dxL1GckB2GeOnlh"

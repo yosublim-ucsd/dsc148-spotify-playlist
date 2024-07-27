@@ -2957,6 +2957,24 @@
     },
     {
       "album": {
+        "name": "Puttin In Work",
+        "url": "https://open.spotify.com/album/5LJWJ8tyD6fFMRitusW3Tr"
+      },
+      "artists": [
+        {
+          "name": "Faza",
+          "url": "https://open.spotify.com/artist/0hkBz0U3f8R7BUbQcROEmR"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161360,
+      "name": "Puttin In Work",
+      "url": "https://open.spotify.com/track/5Sk88myPHrySWHk2HfEE7C"
+    },
+    {
+      "album": {
         "name": "KENNY",
         "url": "https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU"
       },

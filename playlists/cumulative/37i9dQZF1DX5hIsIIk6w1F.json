@@ -297,6 +297,32 @@
     },
     {
       "album": {
+        "name": "4 Trokas 4 Gatas",
+        "url": "https://open.spotify.com/album/4kLqVgeAPfgD76m0GuwcK4"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Lewis Somes",
+          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173721,
+      "name": "4 Trokas 4 Gatas",
+      "url": "https://open.spotify.com/track/40KeL9UhPRO8ccgZWcWDFB"
+    },
+    {
+      "album": {
         "name": "THE LIFE OF XULO",
         "url": "https://open.spotify.com/album/1UOrzS8OYpnI6I1GYr9ICX"
       },
@@ -2742,7 +2768,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 168865,
       "name": "CELESTE",
       "url": "https://open.spotify.com/track/6PKTGYF1V7dYwv3g3NBDnK"
@@ -3698,7 +3724,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 142800,
       "name": "Dandole",
       "url": "https://open.spotify.com/track/3u4w2xjvOXYlDow7k8poaU"
@@ -5056,7 +5082,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 154462,
       "name": "Ese Guille",
       "url": "https://open.spotify.com/track/6EKqBV3VqOjQEGNnSS0hzt"
@@ -7648,7 +7674,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 182533,
       "name": "LAS BABIES",
       "url": "https://open.spotify.com/track/1FLv1DI0dv8wqzSzEhg8e5"
@@ -10875,6 +10901,24 @@
     },
     {
       "album": {
+        "name": "Si no Sana Hoy, Sanar\u00e1 Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/5xB8rNZXBv4ONCKNfc3OH7"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144230,
+      "name": "M\u00edrate Al Espejo",
+      "url": "https://open.spotify.com/track/1n2LKZqiBSRr4Pj6Des6WK"
+    },
+    {
+      "album": {
         "name": "Na Na Na (Remix)",
         "url": "https://open.spotify.com/album/7pigWCNPdpIxpfLbebqVdH"
       },
@@ -13469,6 +13513,28 @@
     },
     {
       "album": {
+        "name": "P\u00d3RTATE MAL",
+        "url": "https://open.spotify.com/album/41WWv7O8di90XQHHhtkxCy"
+      },
+      "artists": [
+        {
+          "name": "Tapia el Barber",
+          "url": "https://open.spotify.com/artist/3STlq3xqMOpizLU674b3eN"
+        },
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203288,
+      "name": "P\u00d3RTATE MAL",
+      "url": "https://open.spotify.com/track/0aTxzT2QQSvOACyVdD3Srx"
+    },
+    {
+      "album": {
         "name": "QUE CHIMBA",
         "url": "https://open.spotify.com/album/2yDKiSi2vXCbYVS1Pq30yP"
       },
@@ -13506,7 +13572,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 138000,
       "name": "QUE DIR\u00c1S",
       "url": "https://open.spotify.com/track/03HhriyCSGGNWPZ9dX2NDg"
@@ -13546,6 +13612,28 @@
       "duration_ms": 145333,
       "name": "Que la Parta",
       "url": "https://open.spotify.com/track/3n1j9K1YSxTkLTJeWXyaOV"
+    },
+    {
+      "album": {
+        "name": "QUE LE DE",
+        "url": "https://open.spotify.com/album/2f9UrdMcXrlf6Sw9UOe2bx"
+      },
+      "artists": [
+        {
+          "name": "Nes",
+          "url": "https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165631,
+      "name": "QUE LE DE",
+      "url": "https://open.spotify.com/track/604IC2o3T3bxPu6C7Pimd7"
     },
     {
       "album": {
@@ -15428,6 +15516,28 @@
       "duration_ms": 160000,
       "name": "Sinti\u00e9ndome Solo",
       "url": "https://open.spotify.com/track/5exaCWoAMCHPZ3LuFOQvY7"
+    },
+    {
+      "album": {
+        "name": "Sola Suelta Soltera",
+        "url": "https://open.spotify.com/album/2wZGGuDMF3MsvjCky3oOMy"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Sola Suelta Soltera",
+      "url": "https://open.spotify.com/track/2TsQ2eMg44sEqvbLwjzWrA"
     },
     {
       "album": {

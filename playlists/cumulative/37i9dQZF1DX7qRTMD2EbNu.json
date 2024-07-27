@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover: Beeztrap KOTM",
+  "description": "Hottest bars coming live from the 233.  Cover: E.L",
   "name": "+233 Bars ",
   "tracks": [
     {
@@ -192,7 +192,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 172800,
       "name": "45",
       "url": "https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126"
@@ -834,6 +834,24 @@
       "duration_ms": 174158,
       "name": "All Gas No Breaks",
       "url": "https://open.spotify.com/track/5kVP6wqCnZIvSkAExR0qdX"
+    },
+    {
+      "album": {
+        "name": "All the Way",
+        "url": "https://open.spotify.com/album/3lkY9AIk80VSuSruRvGkdG"
+      },
+      "artists": [
+        {
+          "name": "Safo Newman",
+          "url": "https://open.spotify.com/artist/1XygOZOkRxWKr0vEKgZxFl"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240001,
+      "name": "All the Way",
+      "url": "https://open.spotify.com/track/3H85mB1a9OFV7DyVdbMklg"
     },
     {
       "album": {
@@ -1792,7 +1810,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 212041,
       "name": "Botom Pawa",
       "url": "https://open.spotify.com/track/1cXFR1izIWjxMb03iVBWyp"
@@ -2736,6 +2754,28 @@
       "duration_ms": 178834,
       "name": "Dede",
       "url": "https://open.spotify.com/track/4MnPFO4h4YCOr80WUDDJL8"
+    },
+    {
+      "album": {
+        "name": "Bar 7",
+        "url": "https://open.spotify.com/album/7crJEGssIO4bqz8blqLx6G"
+      },
+      "artists": [
+        {
+          "name": "E.L",
+          "url": "https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel"
+        },
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180406,
+      "name": "DELILAH",
+      "url": "https://open.spotify.com/track/6YY2AIGdI5rD2auPItEPfc"
     },
     {
       "album": {
@@ -4436,7 +4476,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 146666,
       "name": "Ghana - Remix",
       "url": "https://open.spotify.com/track/6Gj9DBxR759xBP6g5zxBhA"
@@ -4963,6 +5003,70 @@
     },
     {
       "album": {
+        "name": "ANFITO",
+        "url": "https://open.spotify.com/album/09ONIT6lO4WhKLyDiZFtn6"
+      },
+      "artists": [
+        {
+          "name": "Kirani Ayat",
+          "url": "https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9"
+        },
+        {
+          "name": "$pacely",
+          "url": "https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1"
+        },
+        {
+          "name": "KONNEY",
+          "url": "https://open.spotify.com/artist/2hoKCZleMjxNSKUu3eO1eG"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137372,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/3gx7QVp3Ai7caWWm0MBCW4"
+    },
+    {
+      "album": {
+        "name": "Hennessy Cypher",
+        "url": "https://open.spotify.com/album/3pqhwdNsbyzuXL54RMUjNw"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        },
+        {
+          "name": "Young Lunya",
+          "url": "https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500310,
+      "name": "Hennessy Cypher",
+      "url": "https://open.spotify.com/track/4Pk8OqjfAwDnYS6kD7RlRa"
+    },
+    {
+      "album": {
         "name": "Highlander (feat. Sky Kuu, Kofi Mole & Larruso)",
         "url": "https://open.spotify.com/album/6cAyK6L0wREMTIXrTHeSGd"
       },
@@ -5184,7 +5288,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 159033,
       "name": "Industreet",
       "url": "https://open.spotify.com/track/1yNz3yXOfDf5eRKeyp4QBj"
@@ -5314,7 +5418,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 222881,
       "name": "January 9th",
       "url": "https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc"
@@ -6250,7 +6354,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 180937,
       "name": "LONELY ROAD",
       "url": "https://open.spotify.com/track/2rrXhDtfbDWzo3nbtMYGX3"
@@ -6476,7 +6580,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 198362,
       "name": "Mapuka",
       "url": "https://open.spotify.com/track/2OwWSctJ0S8Nd44gBzmQQC"
@@ -6542,7 +6646,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 172000,
       "name": "Masesa",
       "url": "https://open.spotify.com/track/0h6KxX4VJVRUL2lQhCmMFE"
@@ -6812,6 +6916,54 @@
       "duration_ms": 198351,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/0U6sFSrfC5MGcR3FKXgWLE"
+    },
+    {
+      "album": {
+        "name": "MISUNDERSTOOD",
+        "url": "https://open.spotify.com/album/31QDHQGfoKjCXk35D1D071"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250371,
+      "name": "MISUNDERSTOOD",
+      "url": "https://open.spotify.com/track/7BdoapSzPTi7JdkoQSqlUp"
+    },
+    {
+      "album": {
+        "name": "Mmaa Bi",
+        "url": "https://open.spotify.com/album/7rno9y2FHbFVye2fN7w8Y8"
+      },
+      "artists": [
+        {
+          "name": "Skyface SDW",
+          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+        },
+        {
+          "name": "Sokka Sdw",
+          "url": "https://open.spotify.com/artist/4PlWzQ3evhRTWHK6u78Cdk"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Mmaa Bi",
+      "url": "https://open.spotify.com/track/1PAGCXCR9aefQcyIAlbTiN"
     },
     {
       "album": {
@@ -7148,6 +7300,24 @@
       "duration_ms": 128000,
       "name": "Never Be Easy",
       "url": "https://open.spotify.com/track/4OV0AMja3lNpXigpjodhN4"
+    },
+    {
+      "album": {
+        "name": "Never Fold",
+        "url": "https://open.spotify.com/album/4AAQcNjPR29cFRduUBLG6T"
+      },
+      "artists": [
+        {
+          "name": "SagetheRager",
+          "url": "https://open.spotify.com/artist/09sWrYn8drtJePXByNNv7j"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138066,
+      "name": "Never Fold",
+      "url": "https://open.spotify.com/track/2T8lk96YoVP2FY7aqkDOdU"
     },
     {
       "album": {
@@ -7784,7 +7954,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 182783,
       "name": "Odo",
       "url": "https://open.spotify.com/track/08nMjhiq9eafvysZ4P5LU4"
@@ -7926,7 +8096,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 176770,
       "name": "Oh Ma Linda",
       "url": "https://open.spotify.com/track/28aDl6G202ZZeynzYIZRDb"
@@ -7974,7 +8144,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 153893,
       "name": "OH NO",
       "url": "https://open.spotify.com/track/2VhFflRmXimh8NNpD9jFgR"
@@ -8330,7 +8500,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 196951,
       "name": "Otan",
       "url": "https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5"
@@ -8741,6 +8911,24 @@
     },
     {
       "album": {
+        "name": "Problem",
+        "url": "https://open.spotify.com/album/23XTTIJBevXciIi6ywpOvV"
+      },
+      "artists": [
+        {
+          "name": "Lalid",
+          "url": "https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154157,
+      "name": "Problem",
+      "url": "https://open.spotify.com/track/1ap13V0TDN8mn99eaaWEcd"
+    },
+    {
+      "album": {
         "name": "Problem No Dey Finish",
         "url": "https://open.spotify.com/album/59LCfOZU4rPfSa08GVGvQ2"
       },
@@ -9080,7 +9268,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 146000,
       "name": "ROAD RUNNERS (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO"
@@ -10598,7 +10786,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 184555,
       "name": "Taste (Tokoro)",
       "url": "https://open.spotify.com/track/4zlozM8ivaBmbWhgMMpgpq"
@@ -12292,6 +12480,32 @@
       "duration_ms": 185654,
       "name": "Yonah",
       "url": "https://open.spotify.com/track/42cJ1ouSw3VBHmc4fAoN5P"
+    },
+    {
+      "album": {
+        "name": "Yopoo",
+        "url": "https://open.spotify.com/album/5ROl4zJAfAliilCB8UD8DO"
+      },
+      "artists": [
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        },
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205365,
+      "name": "Yopoo",
+      "url": "https://open.spotify.com/track/6CSieS8sgMugwPVBuWDZCW"
     },
     {
       "album": {

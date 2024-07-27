@@ -1772,7 +1772,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-23",
+      "date_removed": null,
       "duration_ms": 179087,
       "name": "Abenteuerland",
       "url": "https://open.spotify.com/track/189vFQyTAhpSCsI07yjQVq"
@@ -1826,7 +1826,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 159286,
       "name": "abgelenkt",
       "url": "https://open.spotify.com/track/79XKsdLlYGx1lqwctmMD2v"
@@ -5522,7 +5522,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 139557,
       "name": "Barbie & Ken",
       "url": "https://open.spotify.com/track/6mCE6ymlJhhjfcWmiUuBHT"
@@ -5570,6 +5570,24 @@
       "duration_ms": 201693,
       "name": "Barrio",
       "url": "https://open.spotify.com/track/30RZmaMqWS7Ixkf8h83mtW"
+    },
+    {
+      "album": {
+        "name": "Bauch Beine Po",
+        "url": "https://open.spotify.com/album/3iw71cw9PHemEFZ9HZewWW"
+      },
+      "artists": [
+        {
+          "name": "Shirin David",
+          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133932,
+      "name": "Bauch Beine Po",
+      "url": "https://open.spotify.com/track/64f3yNXsi2Vk76odcHCOnw"
     },
     {
       "album": {
@@ -5978,7 +5996,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 184413,
       "name": "Beifahrer",
       "url": "https://open.spotify.com/track/5sxiqHHGSVjmeg5SrLZcKA"
@@ -11632,7 +11650,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 144966,
       "name": "DENK ZU VIEL NACH",
       "url": "https://open.spotify.com/track/1ctq4FdMatfR9ZNCY8WKbM"
@@ -11826,7 +11844,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 158295,
       "name": "DEUTSCHLAND \ud83c\udde9\ud83c\uddea",
       "url": "https://open.spotify.com/track/1No9gdv9NdknsaVA4Zdbku"
@@ -12224,7 +12242,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-25",
+      "date_removed": null,
       "duration_ms": 137375,
       "name": "Dieser Sommer",
       "url": "https://open.spotify.com/track/0Cnf2mlQavyPknr3OxzTAn"
@@ -18625,6 +18643,28 @@
     },
     {
       "album": {
+        "name": "XABAT",
+        "url": "https://open.spotify.com/album/3y1jMB1QNho4bbmungXFxo"
+      },
+      "artists": [
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191266,
+      "name": "GANGSTA PARTY (feat. Gzuz)",
+      "url": "https://open.spotify.com/track/73PxkgkW9FyNkJNEKgZfsa"
+    },
+    {
+      "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
       },
@@ -19986,6 +20026,24 @@
       "duration_ms": 168973,
       "name": "GO (feat. Ufo361)",
       "url": "https://open.spotify.com/track/769KHZP7uwjSgFhW5sECvW"
+    },
+    {
+      "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/4dvooNiLjhspaZnOxk1yA0"
+      },
+      "artists": [
+        {
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346199,
+      "name": "GOAT",
+      "url": "https://open.spotify.com/track/2dK8SenYqhYu35cS8fGU7U"
     },
     {
       "album": {
@@ -24452,7 +24510,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 126450,
       "name": "Irgendwas klopft",
       "url": "https://open.spotify.com/track/4ZrOZKrUEM8pT8nT47HywL"
@@ -27862,7 +27920,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 151087,
       "name": "Leben leben",
       "url": "https://open.spotify.com/track/7DvIRHBKdGVVJtnw8VGlWe"
@@ -38095,6 +38153,32 @@
     },
     {
       "album": {
+        "name": "DUO NUMERO UNO",
+        "url": "https://open.spotify.com/album/3zKePYE5S3ATQpHsELFzXi"
+      },
+      "artists": [
+        {
+          "name": "Celo & Abdi",
+          "url": "https://open.spotify.com/artist/48Fq6GV3S6on56TxSBu5NO"
+        },
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234866,
+      "name": "Paris-Dakar (feat. Haftbefehl & Amo)",
+      "url": "https://open.spotify.com/track/2PwfCKViUrmuytOkH7HmCF"
+    },
+    {
+      "album": {
         "name": "off",
         "url": "https://open.spotify.com/album/0Xz24zDzL7m1NGdXD6cjmp"
       },
@@ -38860,7 +38944,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 137972,
       "name": "Pistazieneis",
       "url": "https://open.spotify.com/track/0O1LqLDF2mQmWVlSrC4Mwn"
@@ -48982,7 +49066,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
@@ -53887,6 +53971,24 @@
     },
     {
       "album": {
+        "name": "Wie Du",
+        "url": "https://open.spotify.com/album/6rRXy84kUpSl6c7umodBJx"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Wie Du",
+      "url": "https://open.spotify.com/track/1N1coNchKY1dQniPSnAJs5"
+    },
+    {
+      "album": {
         "name": "daf\u00fcr bin ich frei EP",
         "url": "https://open.spotify.com/album/29zZ3SXwoesoaXX6PbmPFW"
       },
@@ -54506,6 +54608,28 @@
       "duration_ms": 249266,
       "name": "Wolkeplatz",
       "url": "https://open.spotify.com/track/2kY8nciDE4zEn6y2BCd7Fk"
+    },
+    {
+      "album": {
+        "name": "XABAT",
+        "url": "https://open.spotify.com/album/3y1jMB1QNho4bbmungXFxo"
+      },
+      "artists": [
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+        },
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263186,
+      "name": "WOLLTEN FREI SEIN (feat. reezy)",
+      "url": "https://open.spotify.com/track/7BpQAkjefbApWBUtKmVMjh"
     },
     {
       "album": {
@@ -55536,6 +55660,28 @@
       "duration_ms": 194786,
       "name": "ZITTI E BUONI",
       "url": "https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw"
+    },
+    {
+      "album": {
+        "name": "ZIZOU'06",
+        "url": "https://open.spotify.com/album/6z9GO5WHFW9H8Of9DqPwvs"
+      },
+      "artists": [
+        {
+          "name": "HK",
+          "url": "https://open.spotify.com/artist/0dK1wy5v9DDEnhndvlX8Il"
+        },
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "ZIZOU'06",
+      "url": "https://open.spotify.com/track/1jA4O0W4jFXjzL5AZwp3a9"
     },
     {
       "album": {

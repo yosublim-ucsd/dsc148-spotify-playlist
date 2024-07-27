@@ -1,12 +1,12 @@
 {
   "description": "Bossa nova vibes for the hopeless romantic daydreamers. Cover: Laufey",
-  "num_followers": 135617,
+  "num_followers": 136175,
   "original_name": "bossa pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpgtXgAAAACFmKZCcafsY3RY6f++gelW",
+  "snapshot_id": "ZqMfQAAAAABTLZdIU0BSA9I7ekDvfMLC",
   "tracks": [
     {
       "added_at": "2024-07-17 20:45:18",
@@ -23,6 +23,42 @@
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Allergies (feat. Delaney Bailey)",
+        "url": "https://open.spotify.com/album/2flxq9q7ZB2QNt3c6ZJhsz"
+      },
+      "artists": [
+        {
+          "name": "Marcin",
+          "url": "https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71"
+        },
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 204893,
+      "name": "Allergies (feat. Delaney Bailey)",
+      "url": "https://open.spotify.com/track/0QH4XjlKSY8Gdory7hG4ZN"
+    },
+    {
+      "added_at": "2024-07-17 20:45:18",
+      "album": {
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 195109,
+      "name": "Juna",
+      "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
     },
     {
       "added_at": "2024-07-17 20:45:18",
@@ -45,20 +81,24 @@
       "url": "https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9"
     },
     {
-      "added_at": "2024-07-17 20:45:18",
+      "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Charm",
-        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+        "name": "Room For You",
+        "url": "https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        },
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
         }
       ],
-      "duration_ms": 195109,
-      "name": "Juna",
-      "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
+      "duration_ms": 183373,
+      "name": "Room For You",
+      "url": "https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA"
     },
     {
       "added_at": "2024-07-17 20:45:18",
@@ -77,20 +117,20 @@
       "url": "https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG"
     },
     {
-      "added_at": "2024-07-17 20:45:18",
+      "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Luna mar",
-        "url": "https://open.spotify.com/album/3NtPpmzBw3Pfjn6ng3XuAa"
+        "name": "California Sober",
+        "url": "https://open.spotify.com/album/3KynhVtvF4X6uCVavqJaLm"
       },
       "artists": [
         {
-          "name": "Seamoon",
-          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+          "name": "Victoria Canal",
+          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
         }
       ],
-      "duration_ms": 195862,
-      "name": "Luna mar",
-      "url": "https://open.spotify.com/track/6NQHukyi4qcPuC3ZfCVyLu"
+      "duration_ms": 162533,
+      "name": "California Sober",
+      "url": "https://open.spotify.com/track/0XyFRZsZj4VvcUknNAzrpY"
     },
     {
       "added_at": "2024-07-17 20:45:18",
@@ -107,6 +147,22 @@
       "duration_ms": 149164,
       "name": "paris",
       "url": "https://open.spotify.com/track/6i0FcQXML5J3FgZSVWa3pk"
+    },
+    {
+      "added_at": "2024-07-17 20:45:18",
+      "album": {
+        "name": "Luna mar",
+        "url": "https://open.spotify.com/album/3NtPpmzBw3Pfjn6ng3XuAa"
+      },
+      "artists": [
+        {
+          "name": "Seamoon",
+          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+        }
+      ],
+      "duration_ms": 195862,
+      "name": "Luna mar",
+      "url": "https://open.spotify.com/track/6NQHukyi4qcPuC3ZfCVyLu"
     },
     {
       "added_at": "2024-07-17 20:45:18",
@@ -141,20 +197,24 @@
       "url": "https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa"
     },
     {
-      "added_at": "2024-07-17 20:45:18",
+      "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "I wish for the rain",
-        "url": "https://open.spotify.com/album/1d8v7jpq86c6WjRwTsoYIk"
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/501EHSpUgSp10zVTT1PeQj"
       },
       "artists": [
         {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+        },
+        {
+          "name": "Ariza",
+          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
         }
       ],
-      "duration_ms": 151999,
-      "name": "I wish for the rain",
-      "url": "https://open.spotify.com/track/5SbkJitufb38BnGDsUjdqN"
+      "duration_ms": 188197,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/4urtcS0F3G3NjD2oUeE1GN"
     },
     {
       "added_at": "2024-07-17 20:45:18",
@@ -351,22 +411,6 @@
       "duration_ms": 246693,
       "name": "Bewitched",
       "url": "https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf"
-    },
-    {
-      "added_at": "2024-07-17 20:45:18",
-      "album": {
-        "name": "Chico (English Version)",
-        "url": "https://open.spotify.com/album/6FWg2G8y9IMA2ztAPO6XvA"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 178402,
-      "name": "Chico (English Version)",
-      "url": "https://open.spotify.com/track/6AErmv0Xg3YVmTZo4jgz1z"
     },
     {
       "added_at": "2024-07-17 20:45:18",
@@ -659,26 +703,6 @@
       "duration_ms": 153139,
       "name": "Silvia",
       "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
-    },
-    {
-      "added_at": "2024-07-17 20:45:18",
-      "album": {
-        "name": "When We Were Younger (feat. Cavetown)",
-        "url": "https://open.spotify.com/album/0nYhWc5ZvFPrfHAq6a08yh"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        },
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 234736,
-      "name": "When We Were Younger (feat. Cavetown)",
-      "url": "https://open.spotify.com/track/7dlkFdNPITZL1OAWQ1fqOm"
     },
     {
       "added_at": "2024-07-17 20:45:18",
@@ -1167,22 +1191,6 @@
       "duration_ms": 223000,
       "name": "Pool",
       "url": "https://open.spotify.com/track/1ZP4Qxb7USL3EezbxfpOVF"
-    },
-    {
-      "added_at": "2024-07-17 20:45:18",
-      "album": {
-        "name": "Flor Amarelo (Para Voc\u00ea)",
-        "url": "https://open.spotify.com/album/4T6O67PiUSYMRHDPsFvUHX"
-      },
-      "artists": [
-        {
-          "name": "Goofy Geese",
-          "url": "https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl"
-        }
-      ],
-      "duration_ms": 171612,
-      "name": "Flor Amarelo (Para Voc\u00ea)",
-      "url": "https://open.spotify.com/track/4TfoDylS5Is5i67nAI0oeK"
     },
     {
       "added_at": "2024-07-17 20:45:18",

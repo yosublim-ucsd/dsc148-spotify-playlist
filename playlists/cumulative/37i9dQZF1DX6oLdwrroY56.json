@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-25",
-  "description": "The leaders in the lively Pinoy indie scene. Cover: Paolo Sandejas",
+  "description": "The leaders in the lively Pinoy indie scene. Cover: Nameless Kids",
   "name": "Pinoy Indie Mix",
   "tracks": [
     {
@@ -456,10 +456,28 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 203720,
       "name": "ECHOES",
       "url": "https://open.spotify.com/track/6E4NPIdGunpKm015u5KPyC"
+    },
+    {
+      "album": {
+        "name": "Gabi",
+        "url": "https://open.spotify.com/album/5MJpKfU02ZKk1pv1vCf2Rb"
+      },
+      "artists": [
+        {
+          "name": "Nameless Kids",
+          "url": "https://open.spotify.com/artist/2a1RUFZ0eOATyKlPhTxOt2"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265028,
+      "name": "Gabi",
+      "url": "https://open.spotify.com/track/2WJv0Oat2e39R4iAWZVm0l"
     },
     {
       "album": {
@@ -886,6 +904,24 @@
       "duration_ms": 142363,
       "name": "Lalaluv",
       "url": "https://open.spotify.com/track/03f5I5T1V1qqQpJg2rHs5z"
+    },
+    {
+      "album": {
+        "name": "Langit at Lupa",
+        "url": "https://open.spotify.com/album/0zjLI9aNRNmwY08F2p0LIx"
+      },
+      "artists": [
+        {
+          "name": "Na\u00cfV",
+          "url": "https://open.spotify.com/artist/09UWVORoWNvb4g6A4CBDuF"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Langit at Lupa",
+      "url": "https://open.spotify.com/track/3dvx6L3w6eJnfO9308f0ms"
     },
     {
       "album": {
@@ -1950,7 +1986,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 234744,
       "name": "Static",
       "url": "https://open.spotify.com/track/3QDLEAkNMnch2FBaoySxMv"

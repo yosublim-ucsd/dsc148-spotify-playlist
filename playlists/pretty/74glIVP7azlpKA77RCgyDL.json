@@ -1,13 +1,113 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Cold Gawd",
-  "num_followers": 8632,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Jerry Cantrell",
+  "num_followers": 8634,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAMaMzEjUIScZoTOIvBG3fssa8PZuT0",
+  "snapshot_id": "AAAMcECXkRc31nKWwfC3ub/hwnIAKdAu",
   "tracks": [
+    {
+      "added_at": "2024-07-26 20:31:22",
+      "album": {
+        "name": "Vilified",
+        "url": "https://open.spotify.com/album/1KKquIPw32BeeVBky9AHFe"
+      },
+      "artists": [
+        {
+          "name": "Jerry Cantrell",
+          "url": "https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP"
+        }
+      ],
+      "duration_ms": 271346,
+      "name": "Vilified",
+      "url": "https://open.spotify.com/track/5uGHfztT58UFu7S3aBiRjb"
+    },
+    {
+      "added_at": "2024-07-26 20:31:40",
+      "album": {
+        "name": "TECHNIUM",
+        "url": "https://open.spotify.com/album/50pfFA6Pb0ZNn97fZy07SX"
+      },
+      "artists": [
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        },
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+        }
+      ],
+      "duration_ms": 184994,
+      "name": "TECHNIUM",
+      "url": "https://open.spotify.com/track/5Pk2Fy0i0BuzfGaCFpB9DB"
+    },
+    {
+      "added_at": "2024-07-26 20:31:52",
+      "album": {
+        "name": "Can't Stand No One",
+        "url": "https://open.spotify.com/album/3dLRTX5OG8U2dfvNC94t9d"
+      },
+      "artists": [
+        {
+          "name": "DoFlame",
+          "url": "https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc"
+        }
+      ],
+      "duration_ms": 142138,
+      "name": "Can't Stand No One",
+      "url": "https://open.spotify.com/track/5d4Zhtc2EXIDp0Hi5cAfLq"
+    },
+    {
+      "added_at": "2024-07-26 20:32:03",
+      "album": {
+        "name": "Hostage",
+        "url": "https://open.spotify.com/album/31ABP3oxNXYvlIGdnzxf36"
+      },
+      "artists": [
+        {
+          "name": "Fit For An Autopsy",
+          "url": "https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i"
+        }
+      ],
+      "duration_ms": 279506,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/7qHbY5PvQVGYRiQKE2Qojx"
+    },
+    {
+      "added_at": "2024-07-26 20:32:18",
+      "album": {
+        "name": "Aquila",
+        "url": "https://open.spotify.com/album/06vkY41nabAWVastRByeLy"
+      },
+      "artists": [
+        {
+          "name": "Allt",
+          "url": "https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM"
+        }
+      ],
+      "duration_ms": 247320,
+      "name": "Aquila",
+      "url": "https://open.spotify.com/track/7goOBp1pzbohHhaaJO05H2"
+    },
+    {
+      "added_at": "2024-07-26 20:32:29",
+      "album": {
+        "name": "RUIN",
+        "url": "https://open.spotify.com/album/6HDiybJgkvzTNDcQMr9iPj"
+      },
+      "artists": [
+        {
+          "name": "Heal The Hurt",
+          "url": "https://open.spotify.com/artist/6ZTUkCnG7AQ85xxoC9fuNN"
+        }
+      ],
+      "duration_ms": 163666,
+      "name": "RUIN",
+      "url": "https://open.spotify.com/track/5422oh6gdTk5iRElU7mctV"
+    },
     {
       "added_at": "2024-07-19 19:35:20",
       "album": {

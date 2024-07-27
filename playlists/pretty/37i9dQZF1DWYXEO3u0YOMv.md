@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,578 likes - 130 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,777 likes - 130 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 99 | [You Only Live Once](https://open.spotify.com/track/7bCQjrEH2zcKqqiGm35GQW) | [YURI!!! on ICE](https://open.spotify.com/artist/1TdCQle8fQvM4Tk2cVEZSZ), [w.hatano](https://open.spotify.com/artist/0ZJgJU3awP4bitIUvVzGtO) | [You Only Live Once](https://open.spotify.com/album/7dyihdys9qBZj1XG7evPZ8) | 3:45 |
 | 100 | [History Maker](https://open.spotify.com/track/388Goi8izhV978LfGi0AQM) | [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [History Maker](https://open.spotify.com/album/4BsUgURzIq1r5FRCXDl66v) | 3:10 |
 | 101 | [HOWLITE](https://open.spotify.com/track/2kYJaFWsAbmoff5SeM3eZ4) | [佐咲紗花](https://open.spotify.com/artist/0Wc27lcAwtL8QYONiLd4b1) | [Fated Crown](https://open.spotify.com/album/7gNl3YUzoyx2CmmbkfNa1y) | 4:23 |
-| 102 | [刃〜the divine blade〜](https://open.spotify.com/track/4hjpYJkaWUYysLLAUFQR2A) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [牙狼<GARO>黄金歌集Ⅳ 牙狼奏](https://open.spotify.com/album/6h2Mgvwan6mpYW46iCrMwt) | 4:09 |
+| 102 | [刃～the divine blade～](https://open.spotify.com/track/4hjpYJkaWUYysLLAUFQR2A) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [牙狼〈GARO〉黄金歌集Ⅳ 牙狼奏](https://open.spotify.com/album/6h2Mgvwan6mpYW46iCrMwt) | 4:09 |
 | 103 | [DAYS](https://open.spotify.com/track/31EjRwrrwo1a3nGOsPegNR) | [Shout It Out](https://open.spotify.com/artist/2a5ADRTPWfcWQf0o0EUy2K) | [青年の主張](https://open.spotify.com/album/2jouQMGyTpEtB8tDdF751u) | 3:09 |
 | 104 | [Higher Climber](https://open.spotify.com/track/19OB0SmE7xO1jmiaSTd1QE) | [HOWL BE QUIET](https://open.spotify.com/artist/56jhSmJBKSKee5kUAlJjbX) | [Mr\. HOLIC](https://open.spotify.com/album/0DNteSo4zdyJ8H9KxoKekM) | 4:10 |
 | 105 | [EVERLASTING DAYS](https://open.spotify.com/track/4iCr97PgqDNVtLhjs8f2mT) | [聖蹟高校サッカー部](https://open.spotify.com/artist/512LGL9YRa7k9JU1DjlQi2), [柄本つくし\(CV:吉永拓斗\)](https://open.spotify.com/artist/5dwhnr7fa3Ohu60bNHyde6), [風間陣\(CV:松岡禎丞\)](https://open.spotify.com/artist/4TZuOz8oB0B6MkIhdFUzuY), [水樹寿人\(CV:浪川大輔\)](https://open.spotify.com/artist/2VsrYIlb4ljDM9FiWGTruS), [君下敦\(CV:小野大輔\)](https://open.spotify.com/artist/1gLHYOLlx2rJKGAQ3DhVkx), [大柴喜一\(CV:宮野真守\)](https://open.spotify.com/artist/00ZTYmP3lWInwdHAfYbImv) | [EVERLASTING DAYS](https://open.spotify.com/album/4iMRhqiBtpReRVDW1oZqHS) | 3:52 |

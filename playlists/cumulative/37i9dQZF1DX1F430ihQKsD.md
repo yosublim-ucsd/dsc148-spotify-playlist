@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: Avril Jensen
+> La scène musicale montréalaise au premier plan\. Photo: Alicia Creti
 
-488 songs - 1 day 4 hr 11 min
+489 songs - 1 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,6 +392,7 @@
 | [RRSP/Grosse pièce](https://open.spotify.com/track/2MuxgalGMFkfg0rDVAyfxO) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [Un homme et son piano](https://open.spotify.com/album/7mKgZN8UNAQEzhRQ2KQxcl) | 4:15 | 2022-04-01 | 2022-09-24 |
 | [Rue Dandurand \(feat\. Le Couleur\) \[Radio Edit\]](https://open.spotify.com/track/0dzcCp79Af8Zy63Jcc4KVb) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Rue Dandurand \(feat\. Le Couleur\) \[Radio Edit\]](https://open.spotify.com/album/3dj2qkPCAea8t4lX51L0cU) | 2:35 | 2024-04-19 |  |
 | [Rêve le fun](https://open.spotify.com/track/2Vz21NV1mAx9dbIUJcUTEu) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [Rêve le fun](https://open.spotify.com/album/5C7d50ode6n6laOBx2w775) | 3:16 | 2024-03-29 |  |
+| [S'a switch](https://open.spotify.com/track/3ZFdU8R1Mpt06aWwrol9Rz) | [Irène](https://open.spotify.com/artist/5nK5s5oK58IWpRwWcoogYS) | [S'a switch](https://open.spotify.com/album/7FXdzvwPoL4duEEvJrnBfh) | 4:20 | 2024-07-26 |  |
 | [S'il n'est pas à mes côtés ce matin, j'irai au champ quand même](https://open.spotify.com/track/5iiufGJxYKT9GDDXdpLu4G) | [Nicolet](https://open.spotify.com/artist/5M1fJVSLxyQGV6RSqilBjR) | [S'il n'est pas à mes côtés ce matin, j'irai au champ quand même](https://open.spotify.com/album/4C4O4ksW4gBjVMqk08yNym) | 4:50 | 2022-03-25 | 2023-02-04 |
 | [SABOTAGE](https://open.spotify.com/track/0EhNBdXyImhnYWKpgXvIVc) | [Oliver Forest](https://open.spotify.com/artist/0suucqqvdSvSNRyfvzEBe7) | [SABOTAGE](https://open.spotify.com/album/4NrrsDtH1VJSeoQsakvKkQ) | 2:50 | 2024-05-17 |  |
 | [Safe Space](https://open.spotify.com/track/3C9LuqZ8kBJItBiZEEZ9xY) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Safe Space](https://open.spotify.com/album/1ks99OEgYN41RQmQVKIowY) | 3:23 | 2022-09-30 | 2023-11-11 |
@@ -407,7 +408,7 @@
 | [Shelter of Mine](https://open.spotify.com/track/6SP0lrPi8dEXzqOQanWeBF) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY) | [Shelter of Mine](https://open.spotify.com/album/22NUiIGtPN0f6B3P0f8Elj) | 4:29 | 2022-08-26 | 2023-08-12 |
 | [Shoegaze](https://open.spotify.com/track/4HnwC68UiMaX7hRZwAow5d) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Shoegaze](https://open.spotify.com/album/22JJoxp8HZSE0KNKRDLpBG) | 3:22 | 2022-04-08 | 2022-05-14 |
 | [Shy Companion](https://open.spotify.com/track/5oDfyteT02pAYOcqpAUHKZ) | [Cam Maclean](https://open.spotify.com/artist/5ov1wBw8XYb4x4Wmatd0d3) | [Shy Companion](https://open.spotify.com/album/4B53ysQwKFxfgwxev5k48h) | 3:22 | 2022-03-25 | 2023-01-21 |
-| [Si j'étais toi](https://open.spotify.com/track/7gtp58Uuzgl4zVObHaPwcN) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh), [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Si j'étais toi](https://open.spotify.com/album/26xPuIwsA9V886JRrAxF2r) | 2:24 | 2023-05-19 |  |
+| [Si j'étais toi](https://open.spotify.com/track/7gtp58Uuzgl4zVObHaPwcN) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh), [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Si j'étais toi](https://open.spotify.com/album/26xPuIwsA9V886JRrAxF2r) | 2:24 | 2023-05-19 | 2024-07-27 |
 | [Si je rampe](https://open.spotify.com/track/0URJzuHMZC8sywrbSYXVAn) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Si je rampe](https://open.spotify.com/album/6juYcRp6bkkorf1MwbI7ss) | 2:57 | 2024-04-05 |  |
 | [Si tu comprends pas maintenant \(tu comprendras peut\-être jamais\)](https://open.spotify.com/track/36gW3LyIrKBYuOgwBQtXlr) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Sprint!](https://open.spotify.com/album/5xJzH5mAstzasA183cAEEq) | 2:44 | 2023-07-14 | 2024-04-13 |
 | [Si tu comprends pas maintenant \(tu comprendras peut\-être jamais\)](https://open.spotify.com/track/3LjbMSSkzPjUTHh1iIBTb3) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Si tu comprends pas maintenant \(tu comprendras peut\-être jamais\)](https://open.spotify.com/album/5wqwkqiaU3okFpDYMrhuUQ) | 2:44 | 2023-01-27 | 2023-07-16 |

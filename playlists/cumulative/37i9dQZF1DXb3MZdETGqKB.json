@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "1972",
+        "url": "https://open.spotify.com/album/2cAtlM1eIoFTV0iWMpylP3"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168013,
+      "name": "1972",
+      "url": "https://open.spotify.com/track/32X3sf3uRuASTVyb3u2E0p"
+    },
+    {
+      "album": {
         "name": "3AM in Chicago",
         "url": "https://open.spotify.com/album/23VUe5ASQwqXtLWhMQgTpe"
       },
@@ -2294,7 +2312,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 181053,
       "name": "If This Is Love",
       "url": "https://open.spotify.com/track/3bqGwopBDXVjRFfQpByCxH"
@@ -3256,7 +3274,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 119975,
       "name": "Need To Know Basis",
       "url": "https://open.spotify.com/track/03medhiG64fBChIiDBTNPK"
@@ -4136,7 +4154,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 135502,
       "name": "She Knows It",
       "url": "https://open.spotify.com/track/0BmWDpfHOFZ2p0vGX3Rlja"
@@ -4288,6 +4306,24 @@
       "duration_ms": 205153,
       "name": "Slippin' Away",
       "url": "https://open.spotify.com/track/3dQQ7VxOFQNX13kiL5duyV"
+    },
+    {
+      "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/0spbu3TKyH5n7VHrUO7qWt"
+      },
+      "artists": [
+        {
+          "name": "The Main Squeeze",
+          "url": "https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238043,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/7yLN6jW7m26mhYrsu0w2vI"
     },
     {
       "album": {
@@ -5066,6 +5102,24 @@
       "duration_ms": 272274,
       "name": "The City Streets (Ps.23)",
       "url": "https://open.spotify.com/track/3Evbh7zMfQ9thUxYjsvfAG"
+    },
+    {
+      "album": {
+        "name": "The Devil Wears Lace Pt. 2",
+        "url": "https://open.spotify.com/album/6i7Twe9fH5R8cHpxJBXTaB"
+      },
+      "artists": [
+        {
+          "name": "Steven Rodriguez",
+          "url": "https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172420,
+      "name": "The Devil Wears Lace Pt. 2",
+      "url": "https://open.spotify.com/track/1LYvA2WZFghVMRyunh0P59"
     },
     {
       "album": {

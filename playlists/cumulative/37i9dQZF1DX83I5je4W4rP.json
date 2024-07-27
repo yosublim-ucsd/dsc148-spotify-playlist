@@ -360,7 +360,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 234498,
       "name": "Baja Bound",
       "url": "https://open.spotify.com/track/7ozIQfNcPQfVTp26GUMl4x"
@@ -382,6 +382,24 @@
       "duration_ms": 267746,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/2yGoiZes2YcueNA4nGDmdS"
+    },
+    {
+      "album": {
+        "name": "Barefoot On The Dancefloor",
+        "url": "https://open.spotify.com/album/7AI6eHvi5BfLMG3F42F1Ec"
+      },
+      "artists": [
+        {
+          "name": "Moon Taxi",
+          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168650,
+      "name": "Barefoot On The Dancefloor",
+      "url": "https://open.spotify.com/track/66RzQvcgc85TDiMjUrsO2l"
     },
     {
       "album": {
@@ -1009,6 +1027,24 @@
     },
     {
       "album": {
+        "name": "COMING WITH GUNS",
+        "url": "https://open.spotify.com/album/5vZLZlzIIYLoFRTRKHVCod"
+      },
+      "artists": [
+        {
+          "name": "The Holdup",
+          "url": "https://open.spotify.com/artist/1gwTohHbTpE3qdPyDvnOEu"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217177,
+      "name": "COMING WITH GUNS",
+      "url": "https://open.spotify.com/track/0oRqwcPxxu59pX5mZZe3Lz"
+    },
+    {
+      "album": {
         "name": "Constellations (with Moon Taxi) [J-Vibe Remix]",
         "url": "https://open.spotify.com/album/3Azk0rq4VnT5LYRpAKc2V2"
       },
@@ -1272,7 +1308,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 197928,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/3VXvKTOQoY0kWvpjU67uq2"
@@ -1700,7 +1736,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 299599,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/6dawVZplfCunQlfVHYCgKa"
@@ -1992,7 +2028,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 270720,
       "name": "Foolish Fool",
       "url": "https://open.spotify.com/track/0pRUST5yAJdtGgBHzEPgpb"
@@ -2286,7 +2322,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 185013,
       "name": "Got It All",
       "url": "https://open.spotify.com/track/6HQ5jwetbgbN7MMf7Hog0C"
@@ -2330,7 +2366,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 175440,
       "name": "Greatest Hits",
       "url": "https://open.spotify.com/track/3lPMNolk5gDJVYBjkAVCTC"
@@ -2456,7 +2492,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 176761,
       "name": "Heavy as Lead",
       "url": "https://open.spotify.com/track/59HQVKZfaKycUzRTtp1zDO"
@@ -2547,6 +2583,28 @@
     },
     {
       "album": {
+        "name": "Extra Heavy Riddim",
+        "url": "https://open.spotify.com/album/47vxeGZsGKMVb9ezdyZeaY"
+      },
+      "artists": [
+        {
+          "name": "Green Lion Crew",
+          "url": "https://open.spotify.com/artist/7iA6sxOMDOu5MnyfmKQv6m"
+        },
+        {
+          "name": "Darrio",
+          "url": "https://open.spotify.com/artist/5I8h5QqzzqRkYaciBFb8yQ"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154896,
+      "name": "High Grade Marijuana",
+      "url": "https://open.spotify.com/track/0USbm5TTAcbYbxcC9xt7GW"
+    },
+    {
+      "album": {
         "name": "Highschool Steady (Kaua'i Mix)",
         "url": "https://open.spotify.com/album/6o0PdTPgscYKvGIisY9GFH"
       },
@@ -2606,6 +2664,32 @@
       "duration_ms": 210182,
       "name": "Home (with Stick Figure)",
       "url": "https://open.spotify.com/track/1GwcqCWWQwzt6r09rQjqQQ"
+    },
+    {
+      "album": {
+        "name": "I Fall in Love Too Easily (with The Elovaters) [Reggae Remix]",
+        "url": "https://open.spotify.com/album/1kXZ59UugA3KIt8jMuDTL8"
+      },
+      "artists": [
+        {
+          "name": "Emily Brimlow",
+          "url": "https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj"
+        },
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        },
+        {
+          "name": "Johnny Cosmic",
+          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245063,
+      "name": "I Fall in Love Too Easily (with The Elovaters) - Reggae Remix",
+      "url": "https://open.spotify.com/track/7Ej86ZIZqCqOOvddpaySZK"
     },
     {
       "album": {
@@ -3188,7 +3272,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 275244,
       "name": "Let It All Out",
       "url": "https://open.spotify.com/track/4kFJNoQNvBcJDenyQc5Rk3"
@@ -3224,7 +3308,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 240728,
       "name": "Life's 2 Short",
       "url": "https://open.spotify.com/track/1wVklb85pKYaoCGx9jybqm"
@@ -3709,6 +3793,28 @@
     },
     {
       "album": {
+        "name": "Movie Star (with The Pharcyde)",
+        "url": "https://open.spotify.com/album/0ZacqNCqFFnj8aDfoGolhc"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
+        {
+          "name": "The Pharcyde",
+          "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205775,
+      "name": "Movie Star (with The Pharcyde)",
+      "url": "https://open.spotify.com/track/2QNN8MFbPQ9N1p1C1heCsv"
+    },
+    {
+      "album": {
         "name": "Muse",
         "url": "https://open.spotify.com/album/2dWw2g7wZDqMrtSE3rfiKV"
       },
@@ -3720,7 +3826,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 212000,
       "name": "Muse",
       "url": "https://open.spotify.com/track/1WHQqV8adoizyc21G0bGjw"
@@ -3838,7 +3944,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 239720,
       "name": "New World (with Matisyahu, Bumpin Uglies, & The Elovaters)",
       "url": "https://open.spotify.com/track/1uvhSFCX6bQrbLIWhQsWiQ"
@@ -3936,7 +4042,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 255850,
       "name": "On & On (with Iration)",
       "url": "https://open.spotify.com/track/56XNpU7rDh8fUShQR7BXtO"
@@ -4038,6 +4144,32 @@
       "duration_ms": 192492,
       "name": "Open The Door",
       "url": "https://open.spotify.com/track/4TRPafTYREs0Ic97JfcdPo"
+    },
+    {
+      "album": {
+        "name": "Oregon (with phoffman of Greensky Bluegrass)",
+        "url": "https://open.spotify.com/album/3MQpFKPveaV9kHgCFkPwwh"
+      },
+      "artists": [
+        {
+          "name": "The Hip Abduction",
+          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
+        },
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        },
+        {
+          "name": "phoffman",
+          "url": "https://open.spotify.com/artist/7kazeE2jicnplL38ucM9qb"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154173,
+      "name": "Oregon (with phoffman of Greensky Bluegrass)",
+      "url": "https://open.spotify.com/track/2QAC1o02NqkJYNIcrSsxNU"
     },
     {
       "album": {
@@ -4154,6 +4286,28 @@
       "duration_ms": 197341,
       "name": "Passion is Contagious",
       "url": "https://open.spotify.com/track/3r1N0T7e0eLiyX8pRJhpS9"
+    },
+    {
+      "album": {
+        "name": "Pay No Mind / Taking My Time",
+        "url": "https://open.spotify.com/album/5otPafjZPLq0cDEdNhCjvV"
+      },
+      "artists": [
+        {
+          "name": "Rebelution",
+          "url": "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
+        },
+        {
+          "name": "Unified Highway",
+          "url": "https://open.spotify.com/artist/2NHCOkNgLrsSSdKEZgcxvI"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173637,
+      "name": "Pay No Mind",
+      "url": "https://open.spotify.com/track/36hdtlZ3njdcD6Iq4YWeR6"
     },
     {
       "album": {
@@ -4545,6 +4699,24 @@
     },
     {
       "album": {
+        "name": "River Guide You",
+        "url": "https://open.spotify.com/album/2Ff5jcRSKQmxECSQSgsDZm"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189702,
+      "name": "River Guide You",
+      "url": "https://open.spotify.com/track/08UyoxARdyvcrsdtNQygaU"
+    },
+    {
+      "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/4HpqV8YH4vqpn24vKwZyzo"
       },
@@ -4862,6 +5034,50 @@
       "duration_ms": 265654,
       "name": "Showdown (with Collie Buddz)",
       "url": "https://open.spotify.com/track/7HqvttVInqkHNPlR4Nj4M9"
+    },
+    {
+      "album": {
+        "name": "Single for the Summer (with Bryce Vine)",
+        "url": "https://open.spotify.com/album/335Htm2TTZzCmRT1kNz2gr"
+      },
+      "artists": [
+        {
+          "name": "Shwayze",
+          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
+        },
+        {
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159490,
+      "name": "Single for the Summer (with Bryce Vine)",
+      "url": "https://open.spotify.com/track/2sphXfRDZstuYuQF7eZuYC"
+    },
+    {
+      "album": {
+        "name": "Sky High (with Jared Watson of Dirty Heads)",
+        "url": "https://open.spotify.com/album/4VQwDaWgftn71MuXIT5wc3"
+      },
+      "artists": [
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        },
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220843,
+      "name": "Sky High (with Jared Watson of Dirty Heads)",
+      "url": "https://open.spotify.com/track/1iVCQhZAp3xQtuLM7SSKF6"
     },
     {
       "album": {
@@ -5283,6 +5499,28 @@
     },
     {
       "album": {
+        "name": "STRATOSPHERE.",
+        "url": "https://open.spotify.com/album/3ela2JUBEfNWqXt5ZCFG3P"
+      },
+      "artists": [
+        {
+          "name": "aurorawave",
+          "url": "https://open.spotify.com/artist/5ERzKZCMDsFeH15G80MFSS"
+        },
+        {
+          "name": "Nathan Aurora",
+          "url": "https://open.spotify.com/artist/6aAxZpCPuID3U1dLdobyns"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170057,
+      "name": "STRATOSPHERE.",
+      "url": "https://open.spotify.com/track/24kCWaFNeIqDvFjIbqllJG"
+    },
+    {
+      "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/5KYbDlIP0eFNJv4KBaokTY"
       },
@@ -5458,7 +5696,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 171521,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/6dELg0PZKXN5fmlEXOY0J9"
@@ -5662,6 +5900,28 @@
       "duration_ms": 181586,
       "name": "Tangerine Skies",
       "url": "https://open.spotify.com/track/7ETtJJC9GzPxUU2QhYiwJo"
+    },
+    {
+      "album": {
+        "name": "Tell Me I'm Ok (feat. Jared Watson of Dirty Heads)",
+        "url": "https://open.spotify.com/album/592WXDHttlFbqJIpYUbDiK"
+      },
+      "artists": [
+        {
+          "name": "Katastro",
+          "url": "https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5"
+        },
+        {
+          "name": "Jared Watson of Dirty Heads",
+          "url": "https://open.spotify.com/artist/1rDWfKTXV9EaAydhQbTtv9"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Tell Me I'm Ok (feat. Jared Watson of Dirty Heads)",
+      "url": "https://open.spotify.com/track/5FnqGGSJz7wccw4dywNfZI"
     },
     {
       "album": {
@@ -6324,6 +6584,28 @@
       "duration_ms": 170906,
       "name": "What I Got",
       "url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"
+    },
+    {
+      "album": {
+        "name": "Where I'm Going",
+        "url": "https://open.spotify.com/album/6lRVMQtYKpkMIeitaxqFQS"
+      },
+      "artists": [
+        {
+          "name": "DENM",
+          "url": "https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb"
+        },
+        {
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Where I'm Going",
+      "url": "https://open.spotify.com/track/38r2iSNTTK1hsBdrLXAY8I"
     },
     {
       "album": {

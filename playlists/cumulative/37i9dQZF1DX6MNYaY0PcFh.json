@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 138846,
       "name": "Figured U Out",
       "url": "https://open.spotify.com/track/3pGW7CYHTKKFnra9dWnyHw"
@@ -1248,10 +1248,6 @@
         {
           "name": "Frisco",
           "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
-        },
-        {
-          "name": "Carrie Baxter",
-          "url": "https://open.spotify.com/artist/052GxJJYMQVVqXRsZfORK1"
         }
       ],
       "date_added": "2024-07-05",
@@ -2017,6 +2013,28 @@
     },
     {
       "album": {
+        "name": "ME & U",
+        "url": "https://open.spotify.com/album/75boHUG6PxNZVEgQHXXK7j"
+      },
+      "artists": [
+        {
+          "name": "ABISHA",
+          "url": "https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ"
+        },
+        {
+          "name": "Movada",
+          "url": "https://open.spotify.com/artist/6DDphNWazbGLtmw2ARnqMp"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162290,
+      "name": "ME & U",
+      "url": "https://open.spotify.com/track/7H0lcblvj97g1SGFlKZ2d6"
+    },
+    {
+      "album": {
         "name": "Microdosing (Conducta Remix)",
         "url": "https://open.spotify.com/album/52r0BbElKJLiF59usacC0A"
       },
@@ -2207,6 +2225,24 @@
     },
     {
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/1dKhJGNr0C8dckZXHeWlKe"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200930,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/31BVToYJwvaDoA4SARM2ex"
+    },
+    {
+      "album": {
         "name": "Near U",
         "url": "https://open.spotify.com/album/7CxbINauBVpiZ0TpmKui7a"
       },
@@ -2240,7 +2276,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 178750,
       "name": "Needle On The Record - 4am Mix",
       "url": "https://open.spotify.com/track/1EzAJBjrWvYsUBHI1hoDnc"
@@ -2320,6 +2356,24 @@
       "duration_ms": 236307,
       "name": "nobody but u",
       "url": "https://open.spotify.com/track/0Mq7DQeSqhxaw8l4H42Wfw"
+    },
+    {
+      "album": {
+        "name": "Energiser/Nothing Left",
+        "url": "https://open.spotify.com/album/1xGz1MWkdzWSE8Tkw75Aj4"
+      },
+      "artists": [
+        {
+          "name": "Cortese",
+          "url": "https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310072,
+      "name": "Nothing Left",
+      "url": "https://open.spotify.com/track/1B4pQC2XvYz29yKPgRSEHq"
     },
     {
       "album": {
@@ -3310,7 +3364,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 137142,
       "name": "Thinkin of You",
       "url": "https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej"
@@ -3609,6 +3663,24 @@
     },
     {
       "album": {
+        "name": "Wouldn't Believe",
+        "url": "https://open.spotify.com/album/0nF4WVXPunDRsNw9c1LTOd"
+      },
+      "artists": [
+        {
+          "name": "BAKEY",
+          "url": "https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198363,
+      "name": "Wouldn't Believe",
+      "url": "https://open.spotify.com/track/1H5pIpTTiuxYnzzeOlGYYf"
+    },
+    {
+      "album": {
         "name": "You & I",
         "url": "https://open.spotify.com/album/2bPXp4FEWCcN6WB68tY3xm"
       },
@@ -3620,7 +3692,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 213333,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0EeArvKhN89pVWhVvWZmBv"

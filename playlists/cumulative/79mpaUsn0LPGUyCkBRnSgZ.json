@@ -4633,6 +4633,24 @@
     },
     {
       "album": {
+        "name": "Estrela Acesa",
+        "url": "https://open.spotify.com/album/6INpt0l0lIDYZKAKO8vIC5"
+      },
+      "artists": [
+        {
+          "name": "Sessa",
+          "url": "https://open.spotify.com/artist/6ijeN3MhwnbRfo86gH5McZ"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141290,
+      "name": "Gostar do Mundo",
+      "url": "https://open.spotify.com/track/4JFbDXnpgNLxX83jJytV15"
+    },
+    {
+      "album": {
         "name": "Future Me Hates Me",
         "url": "https://open.spotify.com/album/3tEbzW0ERmSIPNVekmeYOl"
       },

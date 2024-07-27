@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-186 songs - 11 hr 7 min
+187 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Retrograde \(Arr\. Rimmer / Maydew\)](https://open.spotify.com/track/2Qzs78maIl8RzAbzGCHuOc) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Jess Gillam](https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB), [Jess Gillam Ensemble](https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c) | [TIME](https://open.spotify.com/album/0JI3Z1yxCT2j9ZXw4hXriA) | 3:41 | 2021-11-19 |  |
 | [ROCKSTAR](https://open.spotify.com/track/6g6kKzZvUccFnKUBFxmYsP) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [ROCKSTAR](https://open.spotify.com/album/320h3om9QXkhhX05vDU5T6) | 3:04 | 2021-11-19 | 2023-09-30 |
 | [Run the World](https://open.spotify.com/track/2mCOqFJXKELQUjDnec3dFC) | [Caleb Chan](https://open.spotify.com/artist/0YjUXIuubffRMoxE6jvosS), [Brian Chan](https://open.spotify.com/artist/0CRbBSZqPI9g9oNTSYNjCO) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 3:11 | 2023-05-04 |  |
+| [Running Up That Hill](https://open.spotify.com/track/3dysx9aB1Kti0P8K28ZB1e) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [Running Up That Hill](https://open.spotify.com/album/6GDqTCVEKa6QKUoGANeg1Y) | 2:31 | 2024-07-26 |  |
 | [Running Up That Hill](https://open.spotify.com/track/09efVfgf64MbVRdLKDnIGS) | [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [Running Up That Hill](https://open.spotify.com/album/0t67C2k4ODzW8atHDODuGJ) | 4:49 | 2022-07-08 |  |
 | [Running Up That Hill \- Violin](https://open.spotify.com/track/3H9au5DxP2ryR2ozNngGM3) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym) | [Running Up That Hill \(Violin\)](https://open.spotify.com/album/1ijNnoLrJNS8ZPcScKZGsi) | 4:06 | 2022-06-24 | 2022-07-09 |
 | [Save Your Tears \(arr\. string quartet\) \- Inspired by 'Bridgerton'](https://open.spotify.com/track/4OwrUXHzt5gqQo2DguWyQY) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Save Your Tears \(arr\. String quartet\) \[Inspired by 'Bridgerton'\]](https://open.spotify.com/album/0c9bKDLYp5SnXTx2gkvquF) | 3:05 | 2022-04-08 |  |

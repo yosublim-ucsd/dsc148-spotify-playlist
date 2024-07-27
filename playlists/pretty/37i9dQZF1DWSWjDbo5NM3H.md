@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 
 > This is the official partnership playlist for JTBC 'Sing Again3'\. \(JTBC  '싱어게인3'의 공식 파트너십 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,211 likes - 255 songs - 15 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,220 likes - 255 songs - 15 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 | 35 | [Love Is Too Bitter](https://open.spotify.com/track/5DHJa0459LEGTkZwdkTiJm) | [Seo Yunhyeok](https://open.spotify.com/artist/7yhD8pTwYLejoNdhhiIGyz) | [SingAgain3 \- Battle of the Unknown, Ep.3 \(From the JTBC TV Show\)](https://open.spotify.com/album/3z00egfTZU6zIneRA1JTHE) | 2:49 |
 | 36 | [My Darling Far Far Away](https://open.spotify.com/track/5Dj4aykLpES3170r8rawxN) | [Kang Sunghee](https://open.spotify.com/artist/3WK2AnFrSBFX5peMJr8c5o) | [SingAgain3 \- Battle of the Unknown, Ep.3 \(From the JTBC TV Show\)](https://open.spotify.com/album/3z00egfTZU6zIneRA1JTHE) | 2:40 |
 | 37 | [Habit \(Bye Bye\)](https://open.spotify.com/track/2EzIlb3v8nD6YOS42EIV9p) | [leejean](https://open.spotify.com/artist/7xJMO6077W6z0oUvHeqH60) | [SingAgain3 \- Battle of the Unknown, Ep.3 \(From the JTBC TV Show\)](https://open.spotify.com/album/3z00egfTZU6zIneRA1JTHE) | 2:56 |
-| 38 | [Till The End Of Time](https://open.spotify.com/track/6tJ8CiOL6MckwsM7A8fVOc) | [LIM JISOO](https://open.spotify.com/artist/6TZes5QWqodhN56ssraR2q) | [SingAgain3 \- Battle of the Unknown, Ep.3 \(From the JTBC TV Show\)](https://open.spotify.com/album/3z00egfTZU6zIneRA1JTHE) | 2:59 |
+| 38 | [Till The End Of Time](https://open.spotify.com/track/6tJ8CiOL6MckwsM7A8fVOc) | [Lim Ji Soo](https://open.spotify.com/artist/1ep5wuvTxwDwBP12DBeM4H) | [SingAgain3 \- Battle of the Unknown, Ep.3 \(From the JTBC TV Show\)](https://open.spotify.com/album/3z00egfTZU6zIneRA1JTHE) | 2:59 |
 | 39 | [Think About' Chu](https://open.spotify.com/track/5O8OLyGMRPU52W6BDA6yaU) | [Horim](https://open.spotify.com/artist/4ewZPWfaF9tFfnX1bPVI6A) | [SingAgain3 \- Battle of the Unknown, Ep.3 \(From the JTBC TV Show\)](https://open.spotify.com/album/3z00egfTZU6zIneRA1JTHE) | 3:02 |
 | 40 | [Harmony](https://open.spotify.com/track/342fW7cs9GwQOPrfuq4nsg) | [Yeachan](https://open.spotify.com/artist/7ivoBMxBHt1yF1vuXQe1Nu) | [SingAgain3 \- Battle of the Unknown, Ep.2 \(From the JTBC TV Show\)](https://open.spotify.com/album/58rkE0Qk9qtnrU7RVjsJE0) | 2:54 |
 | 41 | [Beautiful Woman](https://open.spotify.com/track/1B4Unf6l2e5d76fJfL2a5u) | [Ji Young Hoon](https://open.spotify.com/artist/08luJsItS24Fkx8cBYowjk) | [SingAgain3 \- Battle of the Unknown, Ep.2 \(From the JTBC TV Show\)](https://open.spotify.com/album/58rkE0Qk9qtnrU7RVjsJE0) | 2:59 |

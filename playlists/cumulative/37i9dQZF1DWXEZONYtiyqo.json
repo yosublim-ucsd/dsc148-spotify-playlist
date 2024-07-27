@@ -935,6 +935,32 @@
     },
     {
       "album": {
+        "name": "Pe Repeat",
+        "url": "https://open.spotify.com/album/4t6lLo1mgmi3ywffM7Rjoz"
+      },
+      "artists": [
+        {
+          "name": "Connect-R",
+          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
+        },
+        {
+          "name": "Raluka",
+          "url": "https://open.spotify.com/artist/4HLg5QDhyfOhneoTO9Id5U"
+        },
+        {
+          "name": "Johny Romano",
+          "url": "https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168125,
+      "name": "Pe Repeat",
+      "url": "https://open.spotify.com/track/6hSSAvIz88joRoZjgtVClV"
+    },
+    {
+      "album": {
         "name": "Pentru ca",
         "url": "https://open.spotify.com/album/6xA5uMZ5SLFnv2K9IVKOUx"
       },

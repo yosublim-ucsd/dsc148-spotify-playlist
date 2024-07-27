@@ -2,7 +2,7 @@
 
 ### [This Is Sofía Reyes](https://open.spotify.com/playlist/37i9dQZF1DZ06evO05RikU)
 
-> This Is Sofía Reyes\. Los temas esenciales, todos en una lista.
+> This Is Sofía Reyes\. Les titres incontournables, réunis dans une seule et même playlist.
 
 72 songs - 3 hr 42 min
 

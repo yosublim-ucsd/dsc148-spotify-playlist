@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e?si=4AdLCG8PTQS58TRe5EHweA\">K.Keed</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L?si=VRcFx1eMTmSA5UJOEob43A\">Maglera Doe Boy</a>, <a href=\"https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9?si=AoM3VlWeQACLBn4TysFn4g\">25K</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -172,6 +172,28 @@
       "duration_ms": 328474,
       "name": "150 Bars",
       "url": "https://open.spotify.com/track/1440EDwIRmZeIEFyD9hBnR"
+    },
+    {
+      "album": {
+        "name": "2 Headed Goat (feat. Maglera Doe Boy)",
+        "url": "https://open.spotify.com/album/5Oqq3iTaCUByEo7O1edk3l"
+      },
+      "artists": [
+        {
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193187,
+      "name": "2 Headed Goat (feat. Maglera Doe Boy)",
+      "url": "https://open.spotify.com/track/7CLjQObdlzcRIagWpxxLEX"
     },
     {
       "album": {
@@ -640,7 +662,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 171187,
       "name": "all faxx",
       "url": "https://open.spotify.com/track/432OxDuiDIxa0zPMxLAhrY"
@@ -1452,7 +1474,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 162274,
       "name": "Baddie$",
       "url": "https://open.spotify.com/track/3swfZe0IBq5O3xACN5aK6q"
@@ -2048,7 +2070,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 109714,
       "name": "BIRDZ",
       "url": "https://open.spotify.com/track/3L8Sl6hGnFzVhXJ1KWrZR2"
@@ -2712,7 +2734,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 162471,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/1fDC4IXBlkHuAPugpCDqOo"
@@ -3354,7 +3376,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 240015,
       "name": "COUNT iT UP",
       "url": "https://open.spotify.com/track/3Vr7tXmO2Ql8tejMyONEkf"
@@ -4090,6 +4112,40 @@
       "duration_ms": 208988,
       "name": "EBBS & FLOWS:Hard Target",
       "url": "https://open.spotify.com/track/6ci97oIPl705hSswcbNqxv"
+    },
+    {
+      "album": {
+        "name": "Eish",
+        "url": "https://open.spotify.com/album/395QfuTBVHG13QKLkPZLlK"
+      },
+      "artists": [
+        {
+          "name": "Loatinover Pounds",
+          "url": "https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS"
+        },
+        {
+          "name": "Qwellers",
+          "url": "https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R"
+        },
+        {
+          "name": "Uncle Partytime",
+          "url": "https://open.spotify.com/artist/0RB4t74uP0kkC8jCaaENWn"
+        },
+        {
+          "name": "LaCabra",
+          "url": "https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT"
+        },
+        {
+          "name": "Jepedoh",
+          "url": "https://open.spotify.com/artist/7dTIcdK3UCwuYaWlom4bjZ"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178343,
+      "name": "Eish",
+      "url": "https://open.spotify.com/track/4uDG6e9NZP60RFWh86IBMK"
     },
     {
       "album": {
@@ -5311,6 +5367,24 @@
     },
     {
       "album": {
+        "name": "GAZ LAM",
+        "url": "https://open.spotify.com/album/6lD9Atdkgj9bmG5Pag3YPk"
+      },
+      "artists": [
+        {
+          "name": "SimulationRxps",
+          "url": "https://open.spotify.com/artist/6QTVNiWqHPMz6Aoxyk0Y5e"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206500,
+      "name": "GAZ LAM",
+      "url": "https://open.spotify.com/track/2FZ3JbXQaOH4aaZgLazKYS"
+    },
+    {
+      "album": {
         "name": "Set in Stone",
         "url": "https://open.spotify.com/album/41yn1SWRA8hwOEZE0OkpNc"
       },
@@ -5484,7 +5558,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 128912,
       "name": "GO SANDRAHHH!",
       "url": "https://open.spotify.com/track/3HzNqN1CLvv7cxBh8HvxCz"
@@ -6438,7 +6512,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 178437,
       "name": "HONNE",
       "url": "https://open.spotify.com/track/6mdEb9L5jN4pPEnwT0oMg3"
@@ -7282,7 +7356,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 194086,
       "name": "JOL",
       "url": "https://open.spotify.com/track/7od6sLFwR6UAF0KT2innnS"
@@ -8198,7 +8272,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 252435,
       "name": "Lick Back (Uh Huh Uh Huh)",
       "url": "https://open.spotify.com/track/3HZ6ViRqdNvm5crhn16h8C"
@@ -8542,6 +8616,32 @@
       "duration_ms": 135730,
       "name": "Lonely Avenue",
       "url": "https://open.spotify.com/track/1LI5UJRzh8QSrBpGEGlRRN"
+    },
+    {
+      "album": {
+        "name": "Long Life",
+        "url": "https://open.spotify.com/album/1NPn1i2VwhRgrAwu9FfS0j"
+      },
+      "artists": [
+        {
+          "name": "Frank Casino",
+          "url": "https://open.spotify.com/artist/4wVM2SOjXuCEUuTi7lln9x"
+        },
+        {
+          "name": "pH Raw X",
+          "url": "https://open.spotify.com/artist/4WNN0ElS0Ob6WmiMhS8zBd"
+        },
+        {
+          "name": "Thando Zide",
+          "url": "https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197167,
+      "name": "Long Life",
+      "url": "https://open.spotify.com/track/3WDmVEJaryu8LHeCQTGV0x"
     },
     {
       "album": {
@@ -10210,7 +10310,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 162471,
       "name": "No Sense",
       "url": "https://open.spotify.com/track/3rjJiFBIlhh19FbfrQ0Vf6"
@@ -12250,7 +12350,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 251999,
       "name": "Say It To Yourself",
       "url": "https://open.spotify.com/track/5XJYqaSOlo3kkIBcuVdzNo"
@@ -12764,7 +12864,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 155102,
       "name": "SHEIN CART",
       "url": "https://open.spotify.com/track/5R6MkBRdft42dviKDaOatn"
@@ -12968,7 +13068,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 201540,
       "name": "SIKE",
       "url": "https://open.spotify.com/track/1MaUv4mvshAe1euJs31TFh"
@@ -13152,6 +13252,28 @@
       "duration_ms": 116769,
       "name": "Slide",
       "url": "https://open.spotify.com/track/0qHseRiLUEkuXR6YCspJnn"
+    },
+    {
+      "album": {
+        "name": "Vry & Jonk",
+        "url": "https://open.spotify.com/album/4q6QPDCUyLC3DpOQ2w8Psh"
+      },
+      "artists": [
+        {
+          "name": "J\u00dcS",
+          "url": "https://open.spotify.com/artist/4xWdHkhjQ6CD2ggPUUffU4"
+        },
+        {
+          "name": "LIMPO.G.O.D",
+          "url": "https://open.spotify.com/artist/5dGKeyMOT7XJOlfceJfJHT"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137351,
+      "name": "Smaak Vir Rap",
+      "url": "https://open.spotify.com/track/3WZjJT0BoUlb5O33iEdsMd"
     },
     {
       "album": {
@@ -14203,6 +14325,28 @@
     },
     {
       "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/4zJylh48OlunMFe8ps9apN"
+      },
+      "artists": [
+        {
+          "name": "GR8FUL",
+          "url": "https://open.spotify.com/artist/1VzD3ESxdi6M58llC6AkrM"
+        },
+        {
+          "name": "Horid The Messiah",
+          "url": "https://open.spotify.com/artist/527Bif2FIESnEMUJeRbeIQ"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212513,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/3gEmWpBhPJW582CeoUzqrE"
+    },
+    {
+      "album": {
         "name": "TALK SiKK",
         "url": "https://open.spotify.com/album/4ep50V18WAz0qKgKOccfob"
       },
@@ -14494,10 +14638,28 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 322746,
       "name": "THAT'S WASSUP (feat. Thato Saul, YoungstaCPT, Tyson Sybateli & ZRi.)",
       "url": "https://open.spotify.com/track/320Y857NSRG3QtS9ggTG8E"
+    },
+    {
+      "album": {
+        "name": "SHINE O' CLOCK",
+        "url": "https://open.spotify.com/album/3UslL0HVp28oOC3fFn7oQw"
+      },
+      "artists": [
+        {
+          "name": "Jay Jody",
+          "url": "https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190285,
+      "name": "THE COOL",
+      "url": "https://open.spotify.com/track/4CrXE9L2e9lfdMp7amBON4"
     },
     {
       "album": {
@@ -15225,6 +15387,36 @@
     },
     {
       "album": {
+        "name": "Top Of The Money",
+        "url": "https://open.spotify.com/album/7aOd21P9whVwqpcIy813Ay"
+      },
+      "artists": [
+        {
+          "name": "LesediTheDJ",
+          "url": "https://open.spotify.com/artist/2FKK2tQCRqmTdltL1T2DK4"
+        },
+        {
+          "name": "Kiddo CSA",
+          "url": "https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW"
+        },
+        {
+          "name": "Loatinover Pounds",
+          "url": "https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS"
+        },
+        {
+          "name": "Flow Jones Jr.",
+          "url": "https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "Top Of The Money",
+      "url": "https://open.spotify.com/track/7v7Rl1AI7XWBfnkxiXDqrr"
+    },
+    {
+      "album": {
         "name": "Antithesis",
         "url": "https://open.spotify.com/album/5MgFuoNL6eV1jLiNOAA8iN"
       },
@@ -15762,7 +15954,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 266666,
       "name": "Up To You",
       "url": "https://open.spotify.com/track/2JLm7OPi9VHU0E8ouGGohg"
@@ -16471,6 +16663,32 @@
     },
     {
       "album": {
+        "name": "Where's Reason?",
+        "url": "https://open.spotify.com/album/52m6hoGhYp31OhmXKEYHac"
+      },
+      "artists": [
+        {
+          "name": "Sizwe Alakine",
+          "url": "https://open.spotify.com/artist/7Hb7ZlUE4ByWsV1Rkc4Uo2"
+        },
+        {
+          "name": "Lwamii",
+          "url": "https://open.spotify.com/artist/5Luqa4k8lZ6rSFGcUbXfNg"
+        },
+        {
+          "name": "ReasonHD",
+          "url": "https://open.spotify.com/artist/5TnRfMYYlRqpLPRRmQngDO"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295706,
+      "name": "Where's Reason?",
+      "url": "https://open.spotify.com/track/2PDA3LgLfquPTz1zgfH4Gl"
+    },
+    {
+      "album": {
         "name": "Igazi, Iinyembezi Nombilo",
         "url": "https://open.spotify.com/album/0OSKkWOh1BNpYGJJ0V11nl"
       },
@@ -16714,7 +16932,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 124533,
       "name": "Wish Em Well Freestyle",
       "url": "https://open.spotify.com/track/1xfNaYLaPfZcq9HXp5Phsu"

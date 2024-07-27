@@ -377,6 +377,24 @@
     },
     {
       "album": {
+        "name": "Aleluya",
+        "url": "https://open.spotify.com/album/1YUyVKfP4DG2mj4KaShZCB"
+      },
+      "artists": [
+        {
+          "name": "BETA",
+          "url": "https://open.spotify.com/artist/7pS2gi3aVVIZ3Bcm1Nvqdl"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198324,
+      "name": "Aleluya",
+      "url": "https://open.spotify.com/track/6V69uIkyQJXptQ2MKmBajz"
+    },
+    {
+      "album": {
         "name": "Algo Bueno Ten\u00eda Que Tener (Bogot\u00e1)",
         "url": "https://open.spotify.com/album/79JsLKk3Yqf3FxwM801LTz"
       },
@@ -3063,6 +3081,24 @@
     },
     {
       "album": {
+        "name": "Fuego En El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4BlMgBflIhGpNWymRuvJSE"
+      },
+      "artists": [
+        {
+          "name": "Disidente",
+          "url": "https://open.spotify.com/artist/1grNAkAHEaQSOCifKwW53L"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222069,
+      "name": "Fuego En El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7jbAZo4OCnJoTXgc8B246F"
+    },
+    {
+      "album": {
         "name": "Fuego Interno",
         "url": "https://open.spotify.com/album/4cuOCoZKIsBG94CC9apfih"
       },
@@ -3118,6 +3154,24 @@
       "duration_ms": 210824,
       "name": "Fuera de Control",
       "url": "https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl"
+    },
+    {
+      "album": {
+        "name": "F\u00e9 Clandestina",
+        "url": "https://open.spotify.com/album/7t5NsGyB462JjCns4PqJm2"
+      },
+      "artists": [
+        {
+          "name": "Los Mundos",
+          "url": "https://open.spotify.com/artist/5LuE4v1MFy7hynf3safSE2"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160866,
+      "name": "F\u00e9 Clandestina",
+      "url": "https://open.spotify.com/track/20KpeCVl1q92r45UL81wf8"
     },
     {
       "album": {
@@ -3733,6 +3787,24 @@
     },
     {
       "album": {
+        "name": "K\u00e9 MaL",
+        "url": "https://open.spotify.com/album/2GHyrL2mwHWmw1vmQfCrNv"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188035,
+      "name": "K\u00e9 MaL",
+      "url": "https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g"
+    },
+    {
+      "album": {
         "name": "La Bas(e)",
         "url": "https://open.spotify.com/album/3otMnORRUkinKsR5EzwK68"
       },
@@ -3852,7 +3924,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 217520,
       "name": "La hermandad",
       "url": "https://open.spotify.com/track/67Pr9voSdTnhsOcuS2QUhK"
@@ -4678,7 +4750,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 192020,
       "name": "Maldito",
       "url": "https://open.spotify.com/track/01S2FhxrnSBavSoDb5NH6p"
@@ -5258,7 +5330,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 236758,
       "name": "Miedo",
       "url": "https://open.spotify.com/track/05UGQrcv8Aq4eYweOr1iPw"
@@ -5632,6 +5704,24 @@
       "duration_ms": 209923,
       "name": "Nada Es Real",
       "url": "https://open.spotify.com/track/4R1okSTH8zqxtfZMgyx7cr"
+    },
+    {
+      "album": {
+        "name": "Artificial",
+        "url": "https://open.spotify.com/album/2RuOgjec3N5frlq6O5MgUI"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229249,
+      "name": "Nada para siempre",
+      "url": "https://open.spotify.com/track/4DxAIWAKUuiGe9yEBx6TeB"
     },
     {
       "album": {
@@ -6430,7 +6520,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 219272,
       "name": "Perder",
       "url": "https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg"
@@ -6578,7 +6668,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 169786,
       "name": "Por Un Amor",
       "url": "https://open.spotify.com/track/30V5WvVaHmvbKnpPm31hjr"
@@ -7911,6 +8001,24 @@
     },
     {
       "album": {
+        "name": "TH1RT33N GH0STS",
+        "url": "https://open.spotify.com/album/27Z2wyhQRd9gkWrhqcuiIs"
+      },
+      "artists": [
+        {
+          "name": "Vestron Vulture",
+          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170126,
+      "name": "TH1RT33N GH0STS",
+      "url": "https://open.spotify.com/track/091B2uR1L5QcGXTPD3Hfka"
+    },
+    {
+      "album": {
         "name": "The Eye That Catches The Dream",
         "url": "https://open.spotify.com/album/6XfREUYIYLA8AoeCtQImhB"
       },
@@ -8748,7 +8856,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 212000,
       "name": "Vueltas",
       "url": "https://open.spotify.com/track/27yF4FbBzJ2vy65aqNdCTm"

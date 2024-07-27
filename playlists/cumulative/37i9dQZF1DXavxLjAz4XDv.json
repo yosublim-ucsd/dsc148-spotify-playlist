@@ -2569,6 +2569,24 @@
     },
     {
       "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "Takeshi Miura",
+          "url": "https://open.spotify.com/artist/1Eii6MJjXMNyoRMvCiYDTN"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216226,
+      "name": "\u201cO vendetta di Dio\" - Remastered 2021",
+      "url": "https://open.spotify.com/track/7yl5tzutKgS06q8SkoTtUh"
+    },
+    {
+      "album": {
         "name": "BIOHAZARD REVELATIONS Best Track Collection",
         "url": "https://open.spotify.com/album/6FirwiQDlNNtKaA2LLmf0x"
       },
@@ -2584,24 +2602,6 @@
       "duration_ms": 216226,
       "name": "\u201cO vendetta di Dio\u201d",
       "url": "https://open.spotify.com/track/3kkMktFCeUiSCqqLJ1lnio"
-    },
-    {
-      "album": {
-        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
-        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
-      },
-      "artists": [
-        {
-          "name": "Takeshi Miura",
-          "url": "https://open.spotify.com/artist/1Eii6MJjXMNyoRMvCiYDTN"
-        }
-      ],
-      "date_added": "2021-08-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 216226,
-      "name": "\u201cO vendetta di Dio\u201d - Remastered 2021",
-      "url": "https://open.spotify.com/track/7yl5tzutKgS06q8SkoTtUh"
     },
     {
       "album": {

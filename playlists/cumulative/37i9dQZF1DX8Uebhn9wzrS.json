@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 115763,
       "name": "alley",
       "url": "https://open.spotify.com/track/59lzglOONvlnXfTarq1POU"
@@ -3141,6 +3141,28 @@
     },
     {
       "album": {
+        "name": "Beckwith Park",
+        "url": "https://open.spotify.com/album/4NLEjUzqoXJJe9LV33KwQo"
+      },
+      "artists": [
+        {
+          "name": "takeo",
+          "url": "https://open.spotify.com/artist/77ONEFnCEJnH1qm5dBzDcf"
+        },
+        {
+          "name": "Spencer Hunt",
+          "url": "https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93855,
+      "name": "Beckwith Park",
+      "url": "https://open.spotify.com/track/3EdnY6AU6Au7tGWcJVPbFs"
+    },
+    {
+      "album": {
         "name": "Bedroom Blues",
         "url": "https://open.spotify.com/album/1LQtGwotUfxdGcvaUckfhx"
       },
@@ -4524,7 +4546,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 112207,
       "name": "Bunch Of Flowers",
       "url": "https://open.spotify.com/track/6DBneGJiUSPIKNRTOAsP1V"
@@ -4774,7 +4796,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 177230,
       "name": "cabin weather",
       "url": "https://open.spotify.com/track/0gDrjkBGC61kkPHJhKyctN"
@@ -4854,6 +4876,24 @@
       "duration_ms": 148750,
       "name": "Calm",
       "url": "https://open.spotify.com/track/16dOF8Ipta4LC2lEwh9xDE"
+    },
+    {
+      "album": {
+        "name": "calm before the storm",
+        "url": "https://open.spotify.com/album/4Fob9IJrPb0SoEYc1Vdb2Q"
+      },
+      "artists": [
+        {
+          "name": "Kaptain Kola",
+          "url": "https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "calm before the storm",
+      "url": "https://open.spotify.com/track/3GruJMBYGx542Zp20R1HcQ"
     },
     {
       "album": {
@@ -7234,7 +7274,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 154330,
       "name": "Couch Vibes",
       "url": "https://open.spotify.com/track/2xJKFoxhnWsG2vPxqZJxFL"
@@ -7786,7 +7826,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 114380,
       "name": "Daunout",
       "url": "https://open.spotify.com/track/2NpcAVGqqapVHBPae0vwSb"
@@ -10254,6 +10294,24 @@
       "duration_ms": 103200,
       "name": "Exklusive Mermaid",
       "url": "https://open.spotify.com/track/6YDbQEkfLBzaTKtY9zSmDp"
+    },
+    {
+      "album": {
+        "name": "Rush Hour",
+        "url": "https://open.spotify.com/album/03zUkj89Tq0J7n7MFUWphs"
+      },
+      "artists": [
+        {
+          "name": "Timothy Infinite",
+          "url": "https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121348,
+      "name": "Expensive",
+      "url": "https://open.spotify.com/track/3IkWkgQIxh3Oe4RKH6SY8r"
     },
     {
       "album": {
@@ -13694,7 +13752,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 103384,
       "name": "Guess What...",
       "url": "https://open.spotify.com/track/2eZH0lbqNKshdIhyNVxhrE"
@@ -15495,6 +15553,24 @@
     },
     {
       "album": {
+        "name": "iceberg",
+        "url": "https://open.spotify.com/album/1Aqy2EL1trEFMdDCoOKpYG"
+      },
+      "artists": [
+        {
+          "name": "haywrd",
+          "url": "https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151416,
+      "name": "iceberg",
+      "url": "https://open.spotify.com/track/6iza3mLh6G5jtw4DUJgWqZ"
+    },
+    {
+      "album": {
         "name": "Icecoffee Season",
         "url": "https://open.spotify.com/album/2SIQj1Mn0RROzHSCQaH17b"
       },
@@ -16248,6 +16324,24 @@
       "duration_ms": 150857,
       "name": "It's Cloudy",
       "url": "https://open.spotify.com/track/269vLZpnY21sgaa8i70k99"
+    },
+    {
+      "album": {
+        "name": "Itinerant",
+        "url": "https://open.spotify.com/album/376Pv5WxfgEJJjuRWKId2y"
+      },
+      "artists": [
+        {
+          "name": "Fthmlss",
+          "url": "https://open.spotify.com/artist/7v0VFJ0OHoYAVJ3F9Iapv3"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162041,
+      "name": "Itinerant",
+      "url": "https://open.spotify.com/track/6cmlL15AlkdyWQIzlhTFyM"
     },
     {
       "album": {
@@ -18240,7 +18334,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 149647,
       "name": "Lisabon",
       "url": "https://open.spotify.com/track/08PythMQ97nIacc0AdIdnF"
@@ -18666,7 +18760,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 151754,
       "name": "Lonely Astronaut",
       "url": "https://open.spotify.com/track/2kVhsKwPV0Cc4rd7DsLFZP"
@@ -20148,7 +20242,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 156374,
       "name": "meadows",
       "url": "https://open.spotify.com/track/1sP0q6Egdh6pSclFNwpWBa"
@@ -20990,7 +21084,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 136551,
       "name": "Mistle",
       "url": "https://open.spotify.com/track/09F4NbaDx67AaQdukx5tIw"
@@ -25668,7 +25762,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 122666,
       "name": "Photograf Of My Room",
       "url": "https://open.spotify.com/track/4o16Tg4phbklKHbEMFAd7Z"
@@ -26274,7 +26368,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 103333,
       "name": "puppy hotel",
       "url": "https://open.spotify.com/track/2MZhYQCGhF4Fo2KpyHzFYL"
@@ -27416,7 +27510,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 114439,
       "name": "RIP Skippy",
       "url": "https://open.spotify.com/track/4MfCG6VMu4JSF4O9PI7qXr"
@@ -27456,7 +27550,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 122592,
       "name": "Road to Skate",
       "url": "https://open.spotify.com/track/5YDcsnM1lqxikbeNJKyYKR"
@@ -29210,7 +29304,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 123000,
       "name": "Sitting in the back of the bar",
       "url": "https://open.spotify.com/track/2xgqlUPRHDVzwsPQLkzLtW"
@@ -31046,7 +31140,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 169691,
       "name": "Stoplight",
       "url": "https://open.spotify.com/track/4rl9BtI2ieHybBIVbjf1tG"
@@ -31288,6 +31382,24 @@
       "duration_ms": 145075,
       "name": "Sugar Kane",
       "url": "https://open.spotify.com/track/5eaN2h2Fzziw7l6XlnHcGb"
+    },
+    {
+      "album": {
+        "name": "Suidobashi",
+        "url": "https://open.spotify.com/album/6w3pEf5o7SZ9pXv5gtl1S0"
+      },
+      "artists": [
+        {
+          "name": "buggy beats",
+          "url": "https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121722,
+      "name": "Suidobashi",
+      "url": "https://open.spotify.com/track/2e9lI2R0FwopNDVx0w5KWY"
     },
     {
       "album": {
@@ -32918,7 +33030,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 161294,
       "name": "Tender Times",
       "url": "https://open.spotify.com/track/6ctX10iWWXVvTM4vOnXAwc"
@@ -33710,7 +33822,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 172910,
       "name": "Thoughts",
       "url": "https://open.spotify.com/track/6vBazUBQbyuyc0PebGSujx"
@@ -34626,7 +34738,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 137626,
       "name": "Trip walkin",
       "url": "https://open.spotify.com/track/2hm1fDCEshDF9cR02ruyWq"
@@ -37482,6 +37594,24 @@
       "duration_ms": 158295,
       "name": "XVII",
       "url": "https://open.spotify.com/track/1XowGFcM6t1B1osFb2Jg7D"
+    },
+    {
+      "album": {
+        "name": "yellow",
+        "url": "https://open.spotify.com/album/2Cnafu8DqlVMrS1ntS5NHs"
+      },
+      "artists": [
+        {
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114119,
+      "name": "yellow",
+      "url": "https://open.spotify.com/track/5xP5GFRzVzbDiCl2zmrXUG"
     },
     {
       "album": {

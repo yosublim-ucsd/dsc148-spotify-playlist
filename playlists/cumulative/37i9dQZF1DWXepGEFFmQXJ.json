@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Jelly Roll",
+  "description": "The cream of today's Country crop. Cover: Luke Combs, Post Malone",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -456,7 +456,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 165573,
       "name": "Ain't No Better Buddy Than A Beer",
       "url": "https://open.spotify.com/track/3kWQXNycSncL5bJfB6Z9zU"
@@ -1341,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "Biscuit House",
+        "url": "https://open.spotify.com/album/2vEnla1HPg9aWvpfUEitpA"
+      },
+      "artists": [
+        {
+          "name": "Jordie Lane",
+          "url": "https://open.spotify.com/artist/5exAkC90ITNJz5trrpuYsa"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249752,
+      "name": "Biscuit House",
+      "url": "https://open.spotify.com/track/0ex23z7HmveEOI2LPs0EzQ"
+    },
+    {
+      "album": {
         "name": "Bitter Winds",
         "url": "https://open.spotify.com/album/3IMFjhO4GoOADq0tFXhvGg"
       },
@@ -2183,6 +2201,24 @@
     },
     {
       "album": {
+        "name": "Could've Been Me",
+        "url": "https://open.spotify.com/album/6ILotfqAYInf1NISEdo5cK"
+      },
+      "artists": [
+        {
+          "name": "Alex Mather",
+          "url": "https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191401,
+      "name": "Could've Been Me",
+      "url": "https://open.spotify.com/track/3vTJPyjA7EODUmkEcTwG3z"
+    },
+    {
+      "album": {
         "name": "Country Boy's Dream Girl",
         "url": "https://open.spotify.com/album/6M7Cnkdd1zqazDkHJxHxPJ"
       },
@@ -2816,7 +2852,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 200076,
       "name": "Dear Life",
       "url": "https://open.spotify.com/track/6tlCs1MOqB8KML7KJqggZm"
@@ -4457,6 +4493,28 @@
     },
     {
       "album": {
+        "name": "Guy For That",
+        "url": "https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164011,
+      "name": "Guy For That (Feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ"
+    },
+    {
+      "album": {
         "name": "Had To Be There",
         "url": "https://open.spotify.com/album/1hfo3fHdWWQ2UWlsJj3SoF"
       },
@@ -5288,6 +5346,24 @@
       "duration_ms": 181148,
       "name": "I Ain't A Cowgirl",
       "url": "https://open.spotify.com/track/6TjRLpByCtpmatpCoFV9Na"
+    },
+    {
+      "album": {
+        "name": "I Ain't Sayin'",
+        "url": "https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174060,
+      "name": "I Ain't Sayin'",
+      "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
     },
     {
       "album": {
@@ -6289,6 +6365,24 @@
     },
     {
       "album": {
+        "name": "Life On The Flip Side",
+        "url": "https://open.spotify.com/album/5ceo0l1U1pIVzVaCU4wZ5o"
+      },
+      "artists": [
+        {
+          "name": "Josie",
+          "url": "https://open.spotify.com/artist/0lkn1fc0HZVVtrl8otRdT1"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215374,
+      "name": "Life On The Flip Side",
+      "url": "https://open.spotify.com/track/52OMMJNjDVv2Bow0Mnq5ln"
+    },
+    {
+      "album": {
         "name": "Light It Up",
         "url": "https://open.spotify.com/album/4mu4JS9y4EMTe8DdTvh1BE"
       },
@@ -6394,6 +6488,24 @@
       "duration_ms": 240906,
       "name": "Like No Tomorrow",
       "url": "https://open.spotify.com/track/48vb30d7J5EiOkU2Leru8i"
+    },
+    {
+      "album": {
+        "name": "Little By Little",
+        "url": "https://open.spotify.com/album/7dTMLmYyqwLv7LL8d1J0Nx"
+      },
+      "artists": [
+        {
+          "name": "The Wolfe Brothers",
+          "url": "https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199706,
+      "name": "Little By Little",
+      "url": "https://open.spotify.com/track/77Zn8B0KVtj5yXHbw0gwq6"
     },
     {
       "album": {
@@ -7210,7 +7322,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 240705,
       "name": "Mountains and Miller",
       "url": "https://open.spotify.com/track/1loMULvlhcSYhgJsptoCOz"
@@ -8452,7 +8564,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 180152,
       "name": "Purple Gas",
       "url": "https://open.spotify.com/track/6iXgIXqpqn13pbw0ZUhf0E"
@@ -8536,6 +8648,24 @@
       "duration_ms": 205540,
       "name": "RAISED LIKE THAT",
       "url": "https://open.spotify.com/track/15NeNzRcjfuXTnOFHpnmzs"
+    },
+    {
+      "album": {
+        "name": "Rather Be",
+        "url": "https://open.spotify.com/album/0lxxno3J2bozJPkMYLD2X4"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171142,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/0gLFZFnaOy3Fa2uBApznuW"
     },
     {
       "album": {
@@ -10792,7 +10922,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 211742,
       "name": "Tear You Apart",
       "url": "https://open.spotify.com/track/1TGW9R0hY4sMqMF0Spxkt5"
@@ -10864,7 +10994,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 216436,
       "name": "Texas Ain't That Far, Is It Dear?",
       "url": "https://open.spotify.com/track/7dVg7MMdfkAI0CpDlpOcEL"
@@ -11084,7 +11214,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 165058,
       "name": "The Man He Sees in Me",
       "url": "https://open.spotify.com/track/0Zm4ZDBtiZCDp69Cxs5TaB"

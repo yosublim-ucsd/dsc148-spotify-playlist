@@ -1,31 +1,103 @@
 {
-  "description": "La nuova scena indie italiana! Cover: Teseghella",
-  "num_followers": 33582,
+  "description": "La nuova scena indie italiana! Cover: Ganzo",
+  "num_followers": 33585,
   "original_name": "Scuola Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpmQnAAAAACJ2c0XG/ozvvCCJVQAgAlU",
+  "snapshot_id": "ZqLLHAAAAABbHbUNfDPUD7l7xRNFtAY8",
   "tracks": [
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
-        "name": "ROCCASECCA",
-        "url": "https://open.spotify.com/album/3m5LwAf3fBdc9THwhe0rj7"
+        "name": "Cu'mme",
+        "url": "https://open.spotify.com/album/25FWNzlqZOdjS78c1ewthP"
       },
       "artists": [
         {
-          "name": "Teseghella",
-          "url": "https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D"
+          "name": "Ganzo",
+          "url": "https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw"
+        },
+        {
+          "name": "Damiank",
+          "url": "https://open.spotify.com/artist/0HK1JtedHdz3a76ZpWaEsc"
         }
       ],
-      "duration_ms": 157624,
-      "name": "Penso Penso Penso",
-      "url": "https://open.spotify.com/track/0Yx37LRuzSAWq3pfkWAh68"
+      "duration_ms": 162011,
+      "name": "Cu'mme",
+      "url": "https://open.spotify.com/track/7o4YxPFeOBZHTncM1HgvPx"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
+      "album": {
+        "name": "Incidenti Di Percorso",
+        "url": "https://open.spotify.com/album/78xWPZAesT1JqSDV88Beml"
+      },
+      "artists": [
+        {
+          "name": "Claudym",
+          "url": "https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g"
+        }
+      ],
+      "duration_ms": 166343,
+      "name": "Una Serie Di Sfortunati Eventi",
+      "url": "https://open.spotify.com/track/6nIIjHbqvj2JKIU91DxaZG"
+    },
+    {
+      "added_at": "2024-07-25 22:01:00",
+      "album": {
+        "name": "\u00c8 uscita la carta del diavolo (feat. MILLE)",
+        "url": "https://open.spotify.com/album/4KxFwXWmzkN6rPJ1UXsd2Z"
+      },
+      "artists": [
+        {
+          "name": "Amalfitano",
+          "url": "https://open.spotify.com/artist/6etd8FRodAwSq5dBetjTHJ"
+        },
+        {
+          "name": "MILLE",
+          "url": "https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj"
+        }
+      ],
+      "duration_ms": 246750,
+      "name": "\u00c8 uscita la carta del diavolo (feat. MILLE)",
+      "url": "https://open.spotify.com/track/0jOUmxv7YZgZEZRjTlhUJx"
+    },
+    {
+      "added_at": "2024-07-25 22:01:00",
+      "album": {
+        "name": "Vocine",
+        "url": "https://open.spotify.com/album/3wXKsxgrzIKk0u9Sl3Au0B"
+      },
+      "artists": [
+        {
+          "name": "tellynonpiangere",
+          "url": "https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "Vocine",
+      "url": "https://open.spotify.com/track/0dNUYG4ezeg2GDQaXmU9aq"
+    },
+    {
+      "added_at": "2024-07-25 22:01:00",
+      "album": {
+        "name": "Mai",
+        "url": "https://open.spotify.com/album/2l4QPoQ4gxcL8EliWt2ZxP"
+      },
+      "artists": [
+        {
+          "name": "DUOPOP",
+          "url": "https://open.spotify.com/artist/3k4rjybHf6uCbfWJgA0hbo"
+        }
+      ],
+      "duration_ms": 150259,
+      "name": "Mai",
+      "url": "https://open.spotify.com/track/5T68iQz4aGE9y0itqNQwF2"
+    },
+    {
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "vita lenta",
         "url": "https://open.spotify.com/album/3Z7FzcyC8WE0SdV7WpBowN"
@@ -41,7 +113,91 @@
       "url": "https://open.spotify.com/track/0aahD9Yf5nH1Y0jUhCgNdC"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
+      "album": {
+        "name": "Manifesto Egoista (feat. Carlo Amleto)",
+        "url": "https://open.spotify.com/album/37TzRpbavzizY6wHoXwSBp"
+      },
+      "artists": [
+        {
+          "name": "Folcast",
+          "url": "https://open.spotify.com/artist/1PWmqY7ed9o6dgpAYYWZmS"
+        },
+        {
+          "name": "Carlo Amleto",
+          "url": "https://open.spotify.com/artist/0RoPAqbX6Dzbr81tQZB6E5"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Manifesto Egoista (feat. Carlo Amleto)",
+      "url": "https://open.spotify.com/track/0wRVfbqHnpNXgTLRLmmrJ9"
+    },
+    {
+      "added_at": "2024-07-25 22:01:00",
+      "album": {
+        "name": "ROCCASECCA",
+        "url": "https://open.spotify.com/album/3m5LwAf3fBdc9THwhe0rj7"
+      },
+      "artists": [
+        {
+          "name": "Teseghella",
+          "url": "https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D"
+        }
+      ],
+      "duration_ms": 157624,
+      "name": "Penso Penso Penso",
+      "url": "https://open.spotify.com/track/0Yx37LRuzSAWq3pfkWAh68"
+    },
+    {
+      "added_at": "2024-07-25 22:01:00",
+      "album": {
+        "name": "Canzoni alla radio",
+        "url": "https://open.spotify.com/album/7l2sf9KBG6MBqVszdCC68V"
+      },
+      "artists": [
+        {
+          "name": "Lacrima",
+          "url": "https://open.spotify.com/artist/1DVa4ZxXZ1LevzahcMWVhX"
+        }
+      ],
+      "duration_ms": 174743,
+      "name": "Canzoni alla radio",
+      "url": "https://open.spotify.com/track/715BG7KwhtLc6Lyi5PIZ3B"
+    },
+    {
+      "added_at": "2024-07-25 22:01:00",
+      "album": {
+        "name": "Panorama Olivia",
+        "url": "https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t"
+      },
+      "artists": [
+        {
+          "name": "Coca Puma",
+          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
+        }
+      ],
+      "duration_ms": 160291,
+      "name": "Non ci penso",
+      "url": "https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig"
+    },
+    {
+      "added_at": "2024-07-25 22:01:00",
+      "album": {
+        "name": "luci dell'autostrada",
+        "url": "https://open.spotify.com/album/2RWLqaalwSC4qK9nCKokZF"
+      },
+      "artists": [
+        {
+          "name": "Biava",
+          "url": "https://open.spotify.com/artist/3tnRz0rA9YnwZ7BUv958vk"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "luci dell'autostrada",
+      "url": "https://open.spotify.com/track/1njaBfkZQy1zFZVdBRevzU"
+    },
+    {
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "Mi hai visto piangere in un club",
         "url": "https://open.spotify.com/album/0nPLLvU545f2M3AT8XzPNN"
@@ -61,23 +217,23 @@
       "url": "https://open.spotify.com/track/6mPmLz3mxRoLWGfLDHSTnC"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
-        "name": "Vocine",
-        "url": "https://open.spotify.com/album/3wXKsxgrzIKk0u9Sl3Au0B"
+        "name": "Coca Malib\u00f9",
+        "url": "https://open.spotify.com/album/0lkr2DmnU8rHWSdi9aPmlD"
       },
       "artists": [
         {
-          "name": "tellynonpiangere",
-          "url": "https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv"
+          "name": "Sir Giove",
+          "url": "https://open.spotify.com/artist/50Pi0iTbnC3hDmCx6Bge2i"
         }
       ],
-      "duration_ms": 184687,
-      "name": "Vocine",
-      "url": "https://open.spotify.com/track/0dNUYG4ezeg2GDQaXmU9aq"
+      "duration_ms": 166000,
+      "name": "Coca Malib\u00f9",
+      "url": "https://open.spotify.com/track/0exExNFTaK4CFIu8nlAhWn"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "Colleghi borghesi",
         "url": "https://open.spotify.com/album/4v3Gt0SRVsGEPi4q0jJKib"
@@ -93,23 +249,23 @@
       "url": "https://open.spotify.com/track/0m1hqYWkAfGvkfOWCRPOvL"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
-        "name": "Incidenti Di Percorso",
-        "url": "https://open.spotify.com/album/78xWPZAesT1JqSDV88Beml"
+        "name": "Come un cane",
+        "url": "https://open.spotify.com/album/32VsW1b0TZEcDxAgPH2SLl"
       },
       "artists": [
         {
-          "name": "Claudym",
-          "url": "https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g"
+          "name": "M\u00f6ly",
+          "url": "https://open.spotify.com/artist/4GBjWACIYE3kPxTLNkBiPo"
         }
       ],
-      "duration_ms": 166343,
-      "name": "Una Serie Di Sfortunati Eventi",
-      "url": "https://open.spotify.com/track/6nIIjHbqvj2JKIU91DxaZG"
+      "duration_ms": 211330,
+      "name": "Come un cane",
+      "url": "https://open.spotify.com/track/4JujqIRmOF4x0ajNH1sb6o"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "Sambo (feat. Serepocaiontas)",
         "url": "https://open.spotify.com/album/4brRghFWddD7RNfAxPPBde"
@@ -129,23 +285,7 @@
       "url": "https://open.spotify.com/track/4naSIMDBisxCcAK9dVC260"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "Canzoni alla radio",
-        "url": "https://open.spotify.com/album/7l2sf9KBG6MBqVszdCC68V"
-      },
-      "artists": [
-        {
-          "name": "Lacrima",
-          "url": "https://open.spotify.com/artist/1DVa4ZxXZ1LevzahcMWVhX"
-        }
-      ],
-      "duration_ms": 174743,
-      "name": "Canzoni alla radio",
-      "url": "https://open.spotify.com/track/715BG7KwhtLc6Lyi5PIZ3B"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "Periferia",
         "url": "https://open.spotify.com/album/5imPI6T7UGse84jzoy1Zcy"
@@ -161,7 +301,23 @@
       "url": "https://open.spotify.com/track/1EcVrX4oy3Z9mUjsvhsIEh"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
+      "album": {
+        "name": "Polpastrelli",
+        "url": "https://open.spotify.com/album/6q3emqCWz6naRFoKweiQJ7"
+      },
+      "artists": [
+        {
+          "name": "GIROTTI",
+          "url": "https://open.spotify.com/artist/2MIjG40Nta91vk0nG7Rkak"
+        }
+      ],
+      "duration_ms": 211461,
+      "name": "Polpastrelli",
+      "url": "https://open.spotify.com/track/7ujJ9c0LozCmL0gEh5uFcK"
+    },
+    {
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "Los Angeles",
         "url": "https://open.spotify.com/album/7GysRxTAg4WPtrOwzbGPJe"
@@ -177,7 +333,23 @@
       "url": "https://open.spotify.com/track/1FAM18Z4mFvKwYxketR1OT"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
+      "album": {
+        "name": "GARAGE MARE",
+        "url": "https://open.spotify.com/album/6K21nKUpD6zH3ZWrNHaPrT"
+      },
+      "artists": [
+        {
+          "name": "Oh Baro",
+          "url": "https://open.spotify.com/artist/5DOIMn0GH5uVbYL1ssg8Q5"
+        }
+      ],
+      "duration_ms": 161501,
+      "name": "GARAGE MARE",
+      "url": "https://open.spotify.com/track/4TU0PgLtOxkSKv1wytyu5N"
+    },
+    {
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "U mari",
         "url": "https://open.spotify.com/album/4YlpSZ3HRsHEex7uo7LYec"
@@ -193,39 +365,27 @@
       "url": "https://open.spotify.com/track/2eeSKDRJPFmgx2t0EYHGRM"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
-        "name": "Un Po' Mi Pento",
-        "url": "https://open.spotify.com/album/0OQ3aWMS4UEnBVPcvYhzM2"
+        "name": "Solo per guardarti",
+        "url": "https://open.spotify.com/album/6ocvw6K862kzRuEd2PDgAK"
       },
       "artists": [
         {
-          "name": "Aria",
-          "url": "https://open.spotify.com/artist/3QptZmsuqUYGVDlrC02wdD"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "Un Po' Mi Pento",
-      "url": "https://open.spotify.com/track/4YlZwnSFO7m3xqIsybfYwR"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "Mar mar mar",
-        "url": "https://open.spotify.com/album/5RfliNbo8JUMyxi2XpdDM9"
-      },
-      "artists": [
+          "name": "ALBE.x",
+          "url": "https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb"
+        },
         {
-          "name": "Brugnano",
-          "url": "https://open.spotify.com/artist/1Tly9Wn1glHtV5NIVKGYCZ"
+          "name": "Kr1",
+          "url": "https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej"
         }
       ],
-      "duration_ms": 241538,
-      "name": "Mar mar mar",
-      "url": "https://open.spotify.com/track/0UTpnIXBvaKAyoe3ZyTx6M"
+      "duration_ms": 116317,
+      "name": "Solo per guardarti",
+      "url": "https://open.spotify.com/track/7KjSp39rTMRU7FaasDEzpa"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "Amore fai presto!",
         "url": "https://open.spotify.com/album/3pETZo1uiS3FmziALnV9ei"
@@ -241,7 +401,111 @@
       "url": "https://open.spotify.com/track/0MFwAbakcyf587x7evQW9i"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
+      "album": {
+        "name": "Un Po' Mi Pento",
+        "url": "https://open.spotify.com/album/0OQ3aWMS4UEnBVPcvYhzM2"
+      },
+      "artists": [
+        {
+          "name": "Aria",
+          "url": "https://open.spotify.com/artist/3QptZmsuqUYGVDlrC02wdD"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "Un Po' Mi Pento",
+      "url": "https://open.spotify.com/track/4YlZwnSFO7m3xqIsybfYwR"
+    },
+    {
+      "added_at": "2024-07-25 22:01:00",
+      "album": {
+        "name": "Mar mar mar",
+        "url": "https://open.spotify.com/album/5RfliNbo8JUMyxi2XpdDM9"
+      },
+      "artists": [
+        {
+          "name": "Brugnano",
+          "url": "https://open.spotify.com/artist/1Tly9Wn1glHtV5NIVKGYCZ"
+        }
+      ],
+      "duration_ms": 241538,
+      "name": "Mar mar mar",
+      "url": "https://open.spotify.com/track/0UTpnIXBvaKAyoe3ZyTx6M"
+    },
+    {
+      "added_at": "2024-07-25 22:01:00",
+      "album": {
+        "name": "Mosche",
+        "url": "https://open.spotify.com/album/7H4vm4CBeNtkjGRzBzPpOE"
+      },
+      "artists": [
+        {
+          "name": "43.Nove",
+          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
+        }
+      ],
+      "duration_ms": 155036,
+      "name": "Mosche",
+      "url": "https://open.spotify.com/track/6C6EyA832m59DutYTzZwFl"
+    },
+    {
+      "added_at": "2024-07-25 22:01:00",
+      "album": {
+        "name": "le stelle* il sole; l'arcobaleno))",
+        "url": "https://open.spotify.com/album/1AZSZ1CM8Xen3FmviWh1y7"
+      },
+      "artists": [
+        {
+          "name": "faccianuvola",
+          "url": "https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1"
+        }
+      ],
+      "duration_ms": 261092,
+      "name": "piangerepiangerepiangere",
+      "url": "https://open.spotify.com/track/1te6dJOM0uRlv4OvWTF0V0"
+    },
+    {
+      "added_at": "2024-07-25 22:01:00",
+      "album": {
+        "name": "A me fa schifo l'America",
+        "url": "https://open.spotify.com/album/0vifYd4MXA8MBmr181hPxL"
+      },
+      "artists": [
+        {
+          "name": "Livrizzi",
+          "url": "https://open.spotify.com/artist/5RFd3ineLehbrXEWD9qZ2j"
+        },
+        {
+          "name": "Kaiz\u00e9n",
+          "url": "https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW"
+        }
+      ],
+      "duration_ms": 191868,
+      "name": "A me fa schifo l'America",
+      "url": "https://open.spotify.com/track/6I4OeRyto3U4gNY2oiSepv"
+    },
+    {
+      "added_at": "2024-07-25 22:01:00",
+      "album": {
+        "name": "VELENO E MARACUJA",
+        "url": "https://open.spotify.com/album/5a5UfDW7R2DjDlDndS12a3"
+      },
+      "artists": [
+        {
+          "name": "Stefano Lepri",
+          "url": "https://open.spotify.com/artist/7pGg2loAuRpzQufbhVRYE8"
+        },
+        {
+          "name": "GIOVAPI\u00d9GIOVA",
+          "url": "https://open.spotify.com/artist/2bJ8pwwyjQJfeVcLRQDnlx"
+        }
+      ],
+      "duration_ms": 159039,
+      "name": "VELENO E MARACUJA",
+      "url": "https://open.spotify.com/track/4XP8pjNInch9PLpzac2BiV"
+    },
+    {
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "Disordine",
         "url": "https://open.spotify.com/album/3FtOmPmrSvIH3oWbATUx4N"
@@ -257,7 +521,23 @@
       "url": "https://open.spotify.com/track/1AUHhNM2E5or6DnZysnJVV"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
+      "album": {
+        "name": "foglio di carta",
+        "url": "https://open.spotify.com/album/1fa0G9SW8dg3Al9yO8xz6w"
+      },
+      "artists": [
+        {
+          "name": "fil",
+          "url": "https://open.spotify.com/artist/2Dgp0r5wvNCnj5XdvGaK7u"
+        }
+      ],
+      "duration_ms": 159452,
+      "name": "foglio di carta",
+      "url": "https://open.spotify.com/track/3vgbh5EKi4JeX8hi8jnyjN"
+    },
+    {
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "Cinque canzoni",
         "url": "https://open.spotify.com/album/49nKcArx2pJqBGJvvI6dug"
@@ -277,7 +557,23 @@
       "url": "https://open.spotify.com/track/7BoOBKS1Hjp8emEya78hA2"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
+      "album": {
+        "name": "Maldini",
+        "url": "https://open.spotify.com/album/5sVnpEBkOLwlluRMSdBFgo"
+      },
+      "artists": [
+        {
+          "name": "Migliorini",
+          "url": "https://open.spotify.com/artist/66oVpP4dzMIV5hjpCUgdGN"
+        }
+      ],
+      "duration_ms": 190578,
+      "name": "Maldini",
+      "url": "https://open.spotify.com/track/1STuYs2CTpIIwff4tdM3YT"
+    },
+    {
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "Ogni mezz'ora",
         "url": "https://open.spotify.com/album/1biKlqwOF57CzP15mwgrnz"
@@ -293,23 +589,7 @@
       "url": "https://open.spotify.com/track/0xgNfO7phNkoWxCg7QdsQO"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "le stelle* il sole; l'arcobaleno))",
-        "url": "https://open.spotify.com/album/1AZSZ1CM8Xen3FmviWh1y7"
-      },
-      "artists": [
-        {
-          "name": "faccianuvola",
-          "url": "https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1"
-        }
-      ],
-      "duration_ms": 261092,
-      "name": "piangerepiangerepiangere",
-      "url": "https://open.spotify.com/track/1te6dJOM0uRlv4OvWTF0V0"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "ULTRAFRAGOLA",
         "url": "https://open.spotify.com/album/2nKUWSfMt5T1uUw0dG246Q"
@@ -325,7 +605,7 @@
       "url": "https://open.spotify.com/track/76oSCqmn2ur4jxICmp5ZKz"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "muschio",
         "url": "https://open.spotify.com/album/5Zcxr4kTukUO6jduEDE7Fy"
@@ -341,7 +621,7 @@
       "url": "https://open.spotify.com/track/5Opazk7AZdjTvhiqqvKaFZ"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "odio l'estate.",
         "url": "https://open.spotify.com/album/5xcCj6E31B8EL4028AshAl"
@@ -357,7 +637,7 @@
       "url": "https://open.spotify.com/track/2SX5vNtHYFuEs8P3rYUQHy"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "Estate Lachea",
         "url": "https://open.spotify.com/album/3gUebY15KykhIStuskHmpM"
@@ -373,7 +653,7 @@
       "url": "https://open.spotify.com/track/5Jox5uSfaGkJ2Wm7zXEzTY"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "Niente di buono",
         "url": "https://open.spotify.com/album/0IP7oGpoFblfoOlF4nawjO"
@@ -389,7 +669,7 @@
       "url": "https://open.spotify.com/track/7FiSMFy9h9cik2wK0zqFhK"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "tilt",
         "url": "https://open.spotify.com/album/61rbZKR0tNU5ImzbKQf9gz"
@@ -405,7 +685,7 @@
       "url": "https://open.spotify.com/track/2JYtO885AdTPes9p3neSbF"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "Eclisse Twist",
         "url": "https://open.spotify.com/album/6tI34LgUfgViOz8V9Q7XLy"
@@ -421,7 +701,7 @@
       "url": "https://open.spotify.com/track/2OTW6Cx1MmYPz10NITyrWR"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "SURF",
         "url": "https://open.spotify.com/album/22ezapOjCnojqDdOw4rzOZ"
@@ -437,9 +717,9 @@
       "url": "https://open.spotify.com/track/4SWcY5POd5yyGBcP9uPzYp"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
-        "name": "LO FAR\u00d2 DOMANI (feat. MAGENTA FLORA)",
+        "name": "LO FAR\u00d2 DOMANI",
         "url": "https://open.spotify.com/album/3bzeG9bHPD8VzJWGjw31l7"
       },
       "artists": [
@@ -453,11 +733,11 @@
         }
       ],
       "duration_ms": 145320,
-      "name": "LO FAR\u00d2 DOMANI (feat. MAGENTA FLORA)",
+      "name": "LO FAR\u00d2 DOMANI",
       "url": "https://open.spotify.com/track/2SiacQcn31WMD8CfWbsGUZ"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "SUPERFLUO",
         "url": "https://open.spotify.com/album/4ijDSY9bIVGqvv9rNSbzq0"
@@ -477,7 +757,7 @@
       "url": "https://open.spotify.com/track/3kQ9aTQdGmHrxi7KwW3Shi"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "BYE BYE",
         "url": "https://open.spotify.com/album/6hw4vPdcvTUobDbLuInXmG"
@@ -493,23 +773,7 @@
       "url": "https://open.spotify.com/track/3fKmFNT3A8EZ3h2TsH0bZN"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "NULLA (non ci ho capito)",
-        "url": "https://open.spotify.com/album/62lVHGMhNuHQARh7PYSzLj"
-      },
-      "artists": [
-        {
-          "name": "OCCHI",
-          "url": "https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "NULLA (non ci ho capito)",
-      "url": "https://open.spotify.com/track/2Fo5zKMlcjLLPEAbSpZBSI"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "FERMARE L'ET\u00c0 (feat. Enrico Nigiotti)",
         "url": "https://open.spotify.com/album/0nG3UwE8qNTeJxpXBRRu3K"
@@ -529,7 +793,7 @@
       "url": "https://open.spotify.com/track/5cn3rW6VXCpI9dxysqx5fk"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "Niente di speciale",
         "url": "https://open.spotify.com/album/2koptZ6UdppJIRrgXfLSo8"
@@ -545,23 +809,7 @@
       "url": "https://open.spotify.com/track/1HJvzw3f2jBAciSxTvgGfy"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "problemi di <3",
-        "url": "https://open.spotify.com/album/7HmTgGbqO9YCqilo26IuLZ"
-      },
-      "artists": [
-        {
-          "name": "Tribo",
-          "url": "https://open.spotify.com/artist/0I5wDcdDRRJpggrF6OcuTU"
-        }
-      ],
-      "duration_ms": 219906,
-      "name": "ex",
-      "url": "https://open.spotify.com/track/2VfkDQelVVX0gVRRiQ5Ela"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "LACRIME E CEMENTO",
         "url": "https://open.spotify.com/album/3Xf19WNtWHIGITHydF506S"
@@ -577,7 +825,7 @@
       "url": "https://open.spotify.com/track/7HGdifYN6emWwGIC5QtHSr"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "yo-yo",
         "url": "https://open.spotify.com/album/4rtWcaZdsuVQ9tT41TWNeY"
@@ -593,7 +841,7 @@
       "url": "https://open.spotify.com/track/7H2aXtVGFRkbk8faB8qAgI"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "Andare, tornare",
         "url": "https://open.spotify.com/album/10lbkXiO0z7BzlpX2tGUFf"
@@ -609,7 +857,7 @@
       "url": "https://open.spotify.com/track/6XEv6VPkpV3QuqeGKS4Jaa"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "Acqua Naturale",
         "url": "https://open.spotify.com/album/5Pa6ybBScqSvCpUX9gIUTX"
@@ -625,7 +873,7 @@
       "url": "https://open.spotify.com/track/0JVhUr00Aj9Ki9TQDJzhsf"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "SALSEDINE",
         "url": "https://open.spotify.com/album/7Ja1YAam0nHvWF6beAof7C"
@@ -645,7 +893,7 @@
       "url": "https://open.spotify.com/track/56QYGxN6SsLcSzcScamrCv"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "torno a casa presto",
         "url": "https://open.spotify.com/album/568Mq2tEmW5mU5Kn3XwF2m"
@@ -661,23 +909,7 @@
       "url": "https://open.spotify.com/track/5B2jiOZt1lTUKszE38SFyK"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "Ogni maledetta domenica",
-        "url": "https://open.spotify.com/album/74CMUCMtcxy97UijT94WGP"
-      },
-      "artists": [
-        {
-          "name": "Sir Giove",
-          "url": "https://open.spotify.com/artist/50Pi0iTbnC3hDmCx6Bge2i"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Ogni maledetta domenica",
-      "url": "https://open.spotify.com/track/0HS43s0nNeGFsnn1ZKlrxa"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "SCUSA X IL DISORDINE",
         "url": "https://open.spotify.com/album/2N7C1CNutpky17Mc2isnlX"
@@ -697,7 +929,7 @@
       "url": "https://open.spotify.com/track/7zql0DcBVZh95ozfvEd1PP"
     },
     {
-      "added_at": "2024-07-18 22:01:00",
+      "added_at": "2024-07-25 22:01:00",
       "album": {
         "name": "Ne faccio un dramma",
         "url": "https://open.spotify.com/album/4b1qHeGBrpXCMx5C1EX9xw"
@@ -711,138 +943,6 @@
       "duration_ms": 130909,
       "name": "Ne faccio un dramma",
       "url": "https://open.spotify.com/track/2hEPPcjs3jtBrMkJTC5QLZ"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "Panorama Olivia",
-        "url": "https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t"
-      },
-      "artists": [
-        {
-          "name": "Coca Puma",
-          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
-        }
-      ],
-      "duration_ms": 160291,
-      "name": "Non ci penso",
-      "url": "https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "Pensiero Stupendo Universale",
-        "url": "https://open.spotify.com/album/0vxJ5R1vdbV0wHU8Q8E007"
-      },
-      "artists": [
-        {
-          "name": "Riva",
-          "url": "https://open.spotify.com/artist/3tPJLXaVURp1YXYpvmkSCe"
-        }
-      ],
-      "duration_ms": 221353,
-      "name": "Comfort zone",
-      "url": "https://open.spotify.com/track/0F8WxJdboc9dINI2tPtSho"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "Non Siamo Broke",
-        "url": "https://open.spotify.com/album/2y5DKYtunEFjdN1JV9PypW"
-      },
-      "artists": [
-        {
-          "name": "Shori",
-          "url": "https://open.spotify.com/artist/7e2mwTlmw50hYfwXatQiLG"
-        }
-      ],
-      "duration_ms": 171885,
-      "name": "Non Siamo Broke",
-      "url": "https://open.spotify.com/track/0RLxtPf3Uel9Z9zMtoZM3l"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "DUMBA",
-        "url": "https://open.spotify.com/album/2CQnHbVVhkjReejy5XKOCO"
-      },
-      "artists": [
-        {
-          "name": "Assurdit\u00e8",
-          "url": "https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC"
-        }
-      ],
-      "duration_ms": 140406,
-      "name": "Finto cielo",
-      "url": "https://open.spotify.com/track/6mT2w1ht77DkG5aKXzSJhc"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "Bene Bene",
-        "url": "https://open.spotify.com/album/0WHSOXBqxlvXQaiCzDyMF3"
-      },
-      "artists": [
-        {
-          "name": "Paul Giorgi",
-          "url": "https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG"
-        }
-      ],
-      "duration_ms": 150064,
-      "name": "Bene Bene",
-      "url": "https://open.spotify.com/track/0xJJgvSmh55Ens4WYFXzJg"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "In quella casa in fiamme ci sono dei bambini",
-        "url": "https://open.spotify.com/album/1sB7HL8SAA2nRoUUW9Wko6"
-      },
-      "artists": [
-        {
-          "name": "Rokas",
-          "url": "https://open.spotify.com/artist/7BUmFe61H2cYyKVgkwttxj"
-        },
-        {
-          "name": "Granato",
-          "url": "https://open.spotify.com/artist/5pALJdF7dliaPdFzkw9OIy"
-        }
-      ],
-      "duration_ms": 143650,
-      "name": "Che voglia",
-      "url": "https://open.spotify.com/track/3jy7pGk9ETfue0bi8ivfcn"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "ma come sto facendo?",
-        "url": "https://open.spotify.com/album/4EEu5UyWwsmelQxxmW7mBl"
-      },
-      "artists": [
-        {
-          "name": "Sbazzee",
-          "url": "https://open.spotify.com/artist/2bFy8BEjn97wFtXAFelhY8"
-        }
-      ],
-      "duration_ms": 161813,
-      "name": "ma come sto facendo?",
-      "url": "https://open.spotify.com/track/4k5PKgHzQ1vfRA9SQAYq9H"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "Limiti",
-        "url": "https://open.spotify.com/album/5pGbmoyMzgvrIShigS5i8W"
-      },
-      "artists": [
-        {
-          "name": "Sangi",
-          "url": "https://open.spotify.com/artist/6rZ7snoIG69F9CNnS3ZnFb"
-        }
-      ],
-      "duration_ms": 139726,
-      "name": "Limiti",
-      "url": "https://open.spotify.com/track/7sIpRZZswRqrVWqEK6TB8o"
     }
   ],
   "unique_name": "Scuola Indie",

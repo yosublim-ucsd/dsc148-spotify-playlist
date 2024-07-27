@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 77 | [I Like That](https://open.spotify.com/track/61SUnUdIUeY4ixS970eQnb) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Chapter 03: Mr\. Independent](https://open.spotify.com/album/6ONtu6CXex6rakxf5icamp) | 2:19 |
 | 78 | [On My Mind](https://open.spotify.com/track/4I2dKtLNSWlk8rE0zAuin4) | [Young Rog](https://open.spotify.com/artist/3KS7WL7X3d09RoG0ZJfPuF) | [Boy Next Door](https://open.spotify.com/album/7JYIYGAFPn7gHJtAXUFAgw) | 2:28 |
 | 79 | [Good Life](https://open.spotify.com/track/04mFzfiMGq2EHPZhTpcYMc) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o) | [EMINENT: 002A\_0316](https://open.spotify.com/album/6FVHpk1yeNJF2lWv7ogBBq) | 3:45 |
-| 80 | [Barely Anybody](https://open.spotify.com/track/74OXa3vvBFhJoLgx5jPYva) | [Wesson Desir](https://open.spotify.com/artist/5TfGTJqLoXQYHHW7hyaDot) | [Apollo Archives](https://open.spotify.com/album/5eMzcOEjGRmKypPq6nbZTz) | 2:27 |
-| 81 | [Exclusive](https://open.spotify.com/track/4g3b9wTgRSvBqIL4TgwFJZ) | [Nigel Knight](https://open.spotify.com/artist/6u6thFL95rh5B0oz678Yl5) | [Paintings Come True \(Deluxe\)](https://open.spotify.com/album/08dmxAt5O4kl7BiHiNXNP9) | 2:16 |
+| 80 | [Exclusive](https://open.spotify.com/track/4g3b9wTgRSvBqIL4TgwFJZ) | [Nigel Knight](https://open.spotify.com/artist/6u6thFL95rh5B0oz678Yl5) | [Paintings Come True \(Deluxe\)](https://open.spotify.com/album/08dmxAt5O4kl7BiHiNXNP9) | 2:16 |
+| 81 | [Barely Anybody](https://open.spotify.com/track/74OXa3vvBFhJoLgx5jPYva) | [Wesson Desir](https://open.spotify.com/artist/5TfGTJqLoXQYHHW7hyaDot) | [Apollo Archives](https://open.spotify.com/album/5eMzcOEjGRmKypPq6nbZTz) | 2:27 |
 | 82 | [Sunrise](https://open.spotify.com/track/4l7D1q4Z2XIZE7GzCWnFeb) | [Smba](https://open.spotify.com/artist/0txn6cWGodSiZiFoOtqvdj) | [Blue](https://open.spotify.com/album/4xYXybTIaWJJVR3ahv85TO) | 2:18 |
 | 83 | [BELIEVE ME](https://open.spotify.com/track/1iYzpPZzxkdgZG3ukBRE9m) | [iii](https://open.spotify.com/artist/6k5E0fXMSORheufkMMEVYn) | [BK BABY](https://open.spotify.com/album/27PwlaQlhRkko1mbQquxaG) | 2:48 |
 | 84 | [WALK IN](https://open.spotify.com/track/6G3SpOQw2lInNobvvgfMIW) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 2:13 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 95 | [Voices](https://open.spotify.com/track/25ZeuWx1B76UrJyAw1QkFl) | [Vince Scxtt](https://open.spotify.com/artist/4P4gnvY04k1Y1oPYP9l3Wj), [Bijan Amir](https://open.spotify.com/artist/7G6pqpOOxg1fcLZwhP2QLM) | [Voices](https://open.spotify.com/album/1JShKB2CB7LY4woAzIznr6) | 1:48 |
 | 96 | [Elegance](https://open.spotify.com/track/4cQihinpyYCh5inmJdMgZB) | [Wilson Raps](https://open.spotify.com/artist/3FLQlrK3Mbj5eTvTmVp5nn) | [Worldwide Waves](https://open.spotify.com/album/0DURT30u8OxZRNbehztSae) | 3:19 |
 
-Snapshot ID: `AbXlVgAAAABEAiOTLnECeZ2XSAJUSxVZ`
+Snapshot ID: `AbXz3AAAAAAHBV6yPP9+S++XtoFK91qi`

@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "All at once",
+        "url": "https://open.spotify.com/album/1FovzW1PrwkPwix17fLufC"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1n Joyce",
+          "url": "https://open.spotify.com/artist/1RaoRco4KVMzbCJo5xZCVE"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202535,
+      "name": "All at once",
+      "url": "https://open.spotify.com/track/5J1PZvQu4OeX76aHwY8yls"
+    },
+    {
+      "album": {
         "name": "Through Thick and Thin",
         "url": "https://open.spotify.com/album/7tfAZDP40vvEyN1hW3HoOa"
       },
@@ -348,7 +366,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 256703,
       "name": "Bite The Bridle",
       "url": "https://open.spotify.com/track/0JXpD5lU9n90gDarg4cmfO"
@@ -424,7 +442,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 154748,
       "name": "Blue Blood",
       "url": "https://open.spotify.com/track/1ISY7X7jCpJsbKOVlE0BeK"
@@ -1330,7 +1348,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 216726,
       "name": "HOW?",
       "url": "https://open.spotify.com/track/2RcfOEcNwkfwNzcnE9dYDf"
@@ -1370,6 +1388,28 @@
       "duration_ms": 186379,
       "name": "i shouldn\u2019t be here",
       "url": "https://open.spotify.com/track/20GibSptxBlsWlJRwWOsrB"
+    },
+    {
+      "album": {
+        "name": "I've Arrived (with Tomike)",
+        "url": "https://open.spotify.com/album/2W1UzcHNaKiSHpbAgMnWZM"
+      },
+      "artists": [
+        {
+          "name": "Obsk\u00fcr",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+        },
+        {
+          "name": "Tomike",
+          "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150923,
+      "name": "I've Arrived (with Tomike)",
+      "url": "https://open.spotify.com/track/2EPbupudXMt2oYC3iyl31o"
     },
     {
       "album": {
@@ -1499,6 +1539,24 @@
     },
     {
       "album": {
+        "name": "it's alright",
+        "url": "https://open.spotify.com/album/2sh9FG6zeOq9yl91bgwBoh"
+      },
+      "artists": [
+        {
+          "name": "InBetween Honey",
+          "url": "https://open.spotify.com/artist/3dUXgmYPiKgVslodN39C6v"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "it's alright",
+      "url": "https://open.spotify.com/track/7rA54vu3U32Xr2jT0evIyg"
+    },
+    {
+      "album": {
         "name": "Keep Up",
         "url": "https://open.spotify.com/album/4v4mgHdNHnGXZexZ48N788"
       },
@@ -1564,7 +1622,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 213917,
       "name": "Let's Do It",
       "url": "https://open.spotify.com/track/4DS9xL0l8seJuilxgoxdGm"
@@ -1744,7 +1802,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 181438,
       "name": "Love & Crisis",
       "url": "https://open.spotify.com/track/4pfQbrzANC8DuqbmRiVEJ3"
@@ -1868,6 +1926,24 @@
       "duration_ms": 241069,
       "name": "meanie",
       "url": "https://open.spotify.com/track/6xivQSZmwJQu6aLT3fSk8r"
+    },
+    {
+      "album": {
+        "name": "mercury",
+        "url": "https://open.spotify.com/album/6eyW0ajwUcgoujd1mgkVL5"
+      },
+      "artists": [
+        {
+          "name": "kleio",
+          "url": "https://open.spotify.com/artist/11e9KWi4xzznWbBrOzkPpT"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "mercury",
+      "url": "https://open.spotify.com/track/066GOqmEF3x8tIeQbv9Bgc"
     },
     {
       "album": {
@@ -3474,6 +3550,32 @@
       "duration_ms": 192682,
       "name": "You're My Medicine",
       "url": "https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb"
+    },
+    {
+      "album": {
+        "name": "Your Lady",
+        "url": "https://open.spotify.com/album/1SAK9XKxnjPb441dOnKtKT"
+      },
+      "artists": [
+        {
+          "name": "The Kyd G",
+          "url": "https://open.spotify.com/artist/0ny86ulIqrWInHjy9koh0b"
+        },
+        {
+          "name": "$ONA BLU\u20ac",
+          "url": "https://open.spotify.com/artist/22JNBCYJvzLvZ8oL9vyRzr"
+        },
+        {
+          "name": "HallowBoysDance",
+          "url": "https://open.spotify.com/artist/0CchLeP0LPmo2PhbVSrpSC"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183705,
+      "name": "Your Lady",
+      "url": "https://open.spotify.com/track/6RNHjj3HbOvgTxC1gDkpK0"
     },
     {
       "album": {

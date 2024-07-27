@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-167 songs - 9 hr 40 min
+168 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Ryas' Theme](https://open.spotify.com/track/7Aob4PraD6KWsJX7KB6gkm) | [Alistair Kerley](https://open.spotify.com/artist/34ABTloDcLIblFcNvro2S0) | [Horizon Call of the Mountain \(Official Soundtrack\)](https://open.spotify.com/album/45yWDK1rkyOp7B2l7zgFvt) | 3:32 | 2023-03-17 |  |
 | [Saber's Edge \(Final Fantasy XIII\)](https://open.spotify.com/track/6yt8SuNkqup43idePXmKt2) | [Masashi Hamauzu](https://open.spotify.com/artist/63aGIPDyyk7J6s68Yy8vf5) | [Distant Worlds V: More Music from Final Fantasy](https://open.spotify.com/album/2GsWyD8lhE7lOjRSbqQPLD) | 4:15 | 2021-12-15 | 2022-07-16 |
 | [Save Room](https://open.spotify.com/track/3zudlPMpi7uCXuaAQiyd9D) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [Resident Evil 2 Original Soundtrack](https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2) | 0:41 | 2021-12-15 |  |
+| [Secunda \(Transcr\. Trifonov for Piano\) \- From "The Elder Scrolls: Skyrim"](https://open.spotify.com/track/4xEbrGC6A3Bw7hCw3yuwJz) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Soule: Secunda \(Transcr\. Trifonov for Piano\) \[From "The Elder Scrolls: Skyrim"\]](https://open.spotify.com/album/4Ue8hjaZEDACgXgZTbp2x9) | 2:27 | 2024-07-26 |  |
 | [Shadow of the Colossus®](https://open.spotify.com/track/7azgc6j5E6XhEDAfwW3Zrr) | [Video Games Live](https://open.spotify.com/artist/6dZAVi5PugDwlAnH8KMEGl) | [Level 3](https://open.spotify.com/album/2KHrrZCAkI8HOIJpOqLzET) | 3:02 | 2021-12-15 |  |
 | [SIMPLE AND CLEAN \- KINGDOM Orchestra Instrumental Version\-](https://open.spotify.com/track/4WyvlOC3qntGmX64E7kWmF) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [KINGDOM HEARTS \-HD 1.5 ReMIX\- \(Original Soundtrack\)](https://open.spotify.com/album/59xa0duBH2doywRKohAqIY) | 3:41 | 2023-05-04 |  |
 | [Skalitz 1403](https://open.spotify.com/track/1GraDYg4bSZYIV7AOqc1ls) | [Jan Valta](https://open.spotify.com/artist/3refNRo1fb7DLZi9rGUEo9), [Adam Sporka](https://open.spotify.com/artist/1tfJNGH0H6MudsgqCS7DS4) | [Kingdom Come: Deliverance \(Original Soundtrack Essentials\)](https://open.spotify.com/album/0XvTyYwQQhNXYFPbsCzmrg) | 2:21 | 2021-12-15 |  |
@@ -165,7 +166,7 @@
 | [Triage at Dawn](https://open.spotify.com/track/7Iu08xvGoJhOWGxqRN4Hyh) | [Valve](https://open.spotify.com/artist/16qqOddo0ydmympG5G2oPQ) | [Half\-Life 2](https://open.spotify.com/album/2V0wi4SuioFjmpMu9u60bg) | 0:43 | 2022-05-24 |  |
 | [Under Construction](https://open.spotify.com/track/5RwEwvUrQz1K4JqdIoZxWZ) | [Jerry Martin](https://open.spotify.com/artist/7mJJmg0hu5eLrF8gNZ4YAZ) | [The Sims \(Original Soundtrack\)](https://open.spotify.com/album/7ycdCSJkou3lE7MLECIgz5) | 4:48 | 2021-12-15 |  |
 | [Under Construction](https://open.spotify.com/track/7hqCX9nPUOnFYk4q1XKq3e) | [Jerry Martin](https://open.spotify.com/artist/7mJJmg0hu5eLrF8gNZ4YAZ) | [The Sims \(Original Soundtrack\)](https://open.spotify.com/album/0sSQLHnZOm240uhrPmycuk) | 4:48 | 2022-07-27 | 2024-04-19 |
-| [Village of Shadows](https://open.spotify.com/track/6YquGNlW5KGhCwUWYz0vxr) | [Marcin Przybyłowicz](https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw) | [RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA) | 3:04 | 2021-12-15 |  |
+| [Village of Shadows](https://open.spotify.com/track/6YquGNlW5KGhCwUWYz0vxr) | [Marcin Przybyiowicz](https://open.spotify.com/artist/077Jq4Nh38hA4NExZw0LAi) | [RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA) | 3:04 | 2021-12-15 |  |
 | [Viva Libertad: Epic Version \(From the Far Cry 6 Original Game Soundtrack\)](https://open.spotify.com/track/3zMto3WJqJQXYaAABtR7mf) | [Pedro Bromfman](https://open.spotify.com/artist/5SiBQxijnMwUGUYG31gZnS) | [Viva Libertad: Epic Version \(From the Far Cry 6 Original Game Soundtrack\)](https://open.spotify.com/album/09qDkLNQEo9FfrM4fav4FC) | 2:40 | 2023-02-17 |  |
 | [Waltzing on Rooftops and Cobblestones](https://open.spotify.com/track/5wc6TcHF6a44wTCKhkzEV3) | [Austin Wintory](https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed Syndicate \(Original Game Soundtrack\)](https://open.spotify.com/album/04djbQW5lHF6ZMcZQs0jBf) | 4:51 | 2021-12-15 |  |
 | [Welcome Aboard The U.S.G\. Ishimura](https://open.spotify.com/track/7dLtnUKOtrZ3CvQ3SMkpg8) | [Jason Graves](https://open.spotify.com/artist/0kZQLbj8h2SMVZHUJSbfBQ) | [Dead Space](https://open.spotify.com/album/0APOiX6fWqcHybQzssumck) | 5:21 | 2021-12-15 |  |

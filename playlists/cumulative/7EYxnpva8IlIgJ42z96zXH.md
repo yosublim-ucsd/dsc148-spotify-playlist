@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/7EYxnpva8IlIgJ42z96zXH.md) - cumulative - [plain](/playlists/plain/7EYxnpva8IlIgJ42z96zXH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7EYxnpva8IlIgJ42z96zXH)
 
-### [Morning Workout](https://open.spotify.com/playlist/7EYxnpva8IlIgJ42z96zXH)
+### [Hot Girl Workout \| Gym, Pilates, HIIT, Run Club 🍑](https://open.spotify.com/playlist/7EYxnpva8IlIgJ42z96zXH)
 
-> Kickstart your morning workout with these upbeat workout tracks, updated weekly! Featuring Dom Dolla, Kygo, cassö, Calvin Harris and more.
+> Get pumped with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more.
 
-889 songs - 1 day 22 hr 50 min
+890 songs - 1 day 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Fractal](https://open.spotify.com/track/4AZsQDtCj4FwH0gaCMcBxk) | [Audent](https://open.spotify.com/artist/16ZHzYuPyaRVjHGfZExJ60) | [Fractal](https://open.spotify.com/album/43dqt4CkdD0lwMhomDPGZd) | 4:09 | 2023-03-10 | 2023-03-18 |
 | [Fragments of Time \(feat\. Todd Edwards\)](https://open.spotify.com/track/0IedgQjjJ8Ad4B3UDQ5Lyn) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 4:39 | 2023-03-24 | 2023-04-07 |
 | [Free \(feat\. Chris Nichols\)](https://open.spotify.com/track/5qaj5FBz1l4Lck3KpK69pK) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Chris Nichols](https://open.spotify.com/artist/4XVhziV4quD1z8cWWhp4fe) | [Free \(feat\. Chris Nichols\)](https://open.spotify.com/album/50b1TjI1E4WLcwOT4J7SqZ) | 4:04 | 2021-06-19 | 2021-07-23 |
+| [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 | 2024-07-26 |  |
 | [Freedom \(You Bring Me\)](https://open.spotify.com/track/2I0EV5B4RgDQPcSuDGzz2N) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Freedom \(You Bring Me\)](https://open.spotify.com/album/0qOobOFo9xvOSFRd4pAxZP) | 3:08 | 2021-08-06 | 2022-02-19 |
 | [Freeze](https://open.spotify.com/track/4X66U6SUjvZqiKYIpCWXnq) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Freeze](https://open.spotify.com/album/3R2mQavCvrDfM3kZL2B8dh) | 8:07 | 2022-05-06 | 2022-06-22 |
 | [Friction](https://open.spotify.com/track/6b3TkKuXfylehLWtUDt2JW) | [Kilter](https://open.spotify.com/artist/2syYGtINPRno1nxxil7UcJ), [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27) | [Friction](https://open.spotify.com/album/60qbqLzykTykKXAygDLKhx) | 3:36 | 2020-11-03\* | 2020-11-13 |
@@ -552,7 +553,7 @@
 | [No Sleep \(feat\. GLASGOW KI$$\)](https://open.spotify.com/track/6xY3EAdIQqylEVUanBA4FT) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM), [Glasgow KI$$](https://open.spotify.com/artist/7oHXioVOisWBMFEj74TDFB) | [No Sleep \(feat\. GLASGOW KI$$\)](https://open.spotify.com/album/6U8ArBgp68FIro8IDweG6P) | 3:38 | 2022-11-11 | 2023-01-21 |
 | [Nonchalant](https://open.spotify.com/track/2TETqexWXvMdhbYy7kJrZa) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Nonchalant](https://open.spotify.com/album/2j7CqGE9h7DavHANakekLP) | 3:10 | 2021-08-14 | 2021-08-25 |
 | [NOPUS](https://open.spotify.com/track/02dPa4nXABwnFzjZosKxsk) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [NOPUS](https://open.spotify.com/album/4DG7qAkQDjtPzqMUe6zXcA) | 3:20 | 2020-11-03\* | 2021-04-24 |
-| [Nostalgia](https://open.spotify.com/track/0hhvzMnYVZuCt0pwsAgxyp) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Hyperbolic](https://open.spotify.com/album/4BAVhpH8KMzD5cqlGmS3Db) | 2:44 | 2024-03-21 |  |
+| [Nostalgia](https://open.spotify.com/track/0hhvzMnYVZuCt0pwsAgxyp) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Hyperbolic](https://open.spotify.com/album/4BAVhpH8KMzD5cqlGmS3Db) | 2:44 | 2024-03-21 | 2024-07-27 |
 | [Not Alone](https://open.spotify.com/track/6q7jpZFyt2Yt8PFy7zZb1L) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Not Alone](https://open.spotify.com/album/2Wzu1PzBCJ7HYcpbORsaQD) | 2:40 | 2023-01-27 | 2023-03-18 |
 | [Not In Love \(feat\. LOWES\)](https://open.spotify.com/track/28MLM0VRhhcqtWzxsNLvwu) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Not In Love \(feat\. LOWES\)](https://open.spotify.com/album/6bPw3hRULbo1TP1718uPGo) | 3:43 | 2021-03-26 | 2021-04-17 |
 | [Nothing Left to Do](https://open.spotify.com/track/4PWWDtcnqI8QRNQInfjXq4) | [Rami](https://open.spotify.com/artist/0TlBL4XarAQyeGsIpzCeWc) | [Lab78 Dimensions](https://open.spotify.com/album/0z2Q7pHRjy0rapuz5MvMU8) | 2:27 | 2021-08-14 | 2021-08-28 |

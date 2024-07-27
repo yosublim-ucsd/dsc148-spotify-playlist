@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 180250,
       "name": "A Fair Wind",
       "url": "https://open.spotify.com/track/0ezyvcP1ghdnLjI7L7o236"
@@ -1108,7 +1108,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 176032,
       "name": "Calliope",
       "url": "https://open.spotify.com/track/6eMGauOwocBkrNs1XCyXxN"
@@ -2703,6 +2703,24 @@
     },
     {
       "album": {
+        "name": "Euphorbia",
+        "url": "https://open.spotify.com/album/7EeOiU8Qqo3S2W50EmlecQ"
+      },
+      "artists": [
+        {
+          "name": "Spatial Dreams",
+          "url": "https://open.spotify.com/artist/282ZRlxKvwVEVwifRfdTbu"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Euphorbia",
+      "url": "https://open.spotify.com/track/0PMeXNfujLqdkJf0faJKxK"
+    },
+    {
+      "album": {
         "name": "Eyes of Redemption",
         "url": "https://open.spotify.com/album/1fhB9ZPMq9JfSIEq0RSR17"
       },
@@ -3272,7 +3290,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 236559,
       "name": "Gauean",
       "url": "https://open.spotify.com/track/50ZPTAib8pmhNbUirF8AAJ"
@@ -4460,7 +4478,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 170897,
       "name": "Last Light",
       "url": "https://open.spotify.com/track/5Z6Xn3H7uoleoSAQZcWCGb"
@@ -4892,7 +4910,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 175099,
       "name": "Lucid",
       "url": "https://open.spotify.com/track/6k2qIIgIppx8lAZXkPM6IG"
@@ -4928,7 +4946,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 194333,
       "name": "Luna Tone",
       "url": "https://open.spotify.com/track/2BwpDyUVC4oRDZ4U1zZGj7"
@@ -5000,7 +5018,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 176780,
       "name": "Magnificent",
       "url": "https://open.spotify.com/track/2lJgdd9YKqt18avtVyDL29"
@@ -5094,6 +5112,24 @@
       "duration_ms": 181750,
       "name": "Ma\u030ansken",
       "url": "https://open.spotify.com/track/1XevHoke55cIgL4v7nzYiL"
+    },
+    {
+      "album": {
+        "name": "Meaningful Existence",
+        "url": "https://open.spotify.com/album/2vfx3tT8Gv3a5BvRKksf8H"
+      },
+      "artists": [
+        {
+          "name": "The Endity",
+          "url": "https://open.spotify.com/artist/5byrQ0NUcEyy0c3U5xPBdm"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207871,
+      "name": "Meaningful Existence",
+      "url": "https://open.spotify.com/track/2nVklUKcB3i8fixjU122ZI"
     },
     {
       "album": {
@@ -7405,6 +7441,24 @@
     },
     {
       "album": {
+        "name": "Salt",
+        "url": "https://open.spotify.com/album/1HQnhNQCeOlQq4DhNRGtKC"
+      },
+      "artists": [
+        {
+          "name": "Arres\u00f8",
+          "url": "https://open.spotify.com/artist/0BmJFwqURRCKIFX8hH0gV1"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178218,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/5gqw1d1pT2w9pNo1iBfIAG"
+    },
+    {
+      "album": {
         "name": "Salve",
         "url": "https://open.spotify.com/album/73yZQQSNzwlGyMBwndXjrd"
       },
@@ -9116,6 +9170,24 @@
       "duration_ms": 149047,
       "name": "Tranquility",
       "url": "https://open.spotify.com/track/3hEugJ3cU9p9gN5b6imbvX"
+    },
+    {
+      "album": {
+        "name": "Tranquillitas",
+        "url": "https://open.spotify.com/album/5VAIQlrornmuqAmiFuDQdo"
+      },
+      "artists": [
+        {
+          "name": "John Caelo",
+          "url": "https://open.spotify.com/artist/5l5WPtiUdbPCJy66rG17Sd"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188204,
+      "name": "Tranquillitas",
+      "url": "https://open.spotify.com/track/3i89PNM7JKsaqKoI871L80"
     },
     {
       "album": {

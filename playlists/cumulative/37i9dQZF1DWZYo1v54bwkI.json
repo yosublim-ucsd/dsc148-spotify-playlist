@@ -1697,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "Euphorbia",
+        "url": "https://open.spotify.com/album/7EeOiU8Qqo3S2W50EmlecQ"
+      },
+      "artists": [
+        {
+          "name": "Spatial Dreams",
+          "url": "https://open.spotify.com/artist/282ZRlxKvwVEVwifRfdTbu"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Euphorbia",
+      "url": "https://open.spotify.com/track/0PMeXNfujLqdkJf0faJKxK"
+    },
+    {
+      "album": {
         "name": "Evangeline",
         "url": "https://open.spotify.com/album/0YiP5Q7LDtmMmZgl1aZ3gq"
       },
@@ -2943,6 +2961,24 @@
     },
     {
       "album": {
+        "name": "Meaningful Existence",
+        "url": "https://open.spotify.com/album/2vfx3tT8Gv3a5BvRKksf8H"
+      },
+      "artists": [
+        {
+          "name": "The Endity",
+          "url": "https://open.spotify.com/artist/5byrQ0NUcEyy0c3U5xPBdm"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207871,
+      "name": "Meaningful Existence",
+      "url": "https://open.spotify.com/track/2nVklUKcB3i8fixjU122ZI"
+    },
+    {
+      "album": {
         "name": "Ad Infinitum",
         "url": "https://open.spotify.com/album/6K2qi9kHluhzqyUPIDx1JR"
       },
@@ -2990,7 +3026,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 191301,
       "name": "Midnight Bloom",
       "url": "https://open.spotify.com/track/1qmSnLbQX7kifJXOi1rN3u"
@@ -3566,7 +3602,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 173961,
       "name": "Peaceful Movement",
       "url": "https://open.spotify.com/track/6OQzGwdsy5ny1HRsNzkUth"
@@ -3800,7 +3836,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 195717,
       "name": "Pure Elements",
       "url": "https://open.spotify.com/track/3VXo1X3728wauOstZ44viK"
@@ -3872,7 +3908,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 207500,
       "name": "Quietus",
       "url": "https://open.spotify.com/track/3vo0jSkhcbUBlow2Gw47c8"
@@ -4117,6 +4153,24 @@
     },
     {
       "album": {
+        "name": "Salt",
+        "url": "https://open.spotify.com/album/1HQnhNQCeOlQq4DhNRGtKC"
+      },
+      "artists": [
+        {
+          "name": "Arres\u00f8",
+          "url": "https://open.spotify.com/artist/0BmJFwqURRCKIFX8hH0gV1"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178218,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/5gqw1d1pT2w9pNo1iBfIAG"
+    },
+    {
+      "album": {
         "name": "Samsara",
         "url": "https://open.spotify.com/album/0RmyzpADBheUrCS5xtufQM"
       },
@@ -4200,7 +4254,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 124241,
       "name": "Sedang Tidur",
       "url": "https://open.spotify.com/track/3xLHdlKxeLiEqWy7BdYYze"
@@ -4960,6 +5014,24 @@
       "duration_ms": 199663,
       "name": "Through The Self",
       "url": "https://open.spotify.com/track/2uUsM8gmp9HHToPcehe9Zl"
+    },
+    {
+      "album": {
+        "name": "Tranquillitas",
+        "url": "https://open.spotify.com/album/5VAIQlrornmuqAmiFuDQdo"
+      },
+      "artists": [
+        {
+          "name": "John Caelo",
+          "url": "https://open.spotify.com/artist/5l5WPtiUdbPCJy66rG17Sd"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188204,
+      "name": "Tranquillitas",
+      "url": "https://open.spotify.com/track/3i89PNM7JKsaqKoI871L80"
     },
     {
       "album": {

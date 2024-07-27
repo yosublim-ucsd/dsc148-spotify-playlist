@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa OLGA ja Isac Elliot.",
+  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa KUUMAA.",
   "name": "#vainsuomihitit",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 171230,
       "name": "247",
       "url": "https://open.spotify.com/track/7JCSgrKfAWLoW5EttS6tEo"
@@ -172,7 +172,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 195573,
       "name": "Delulu",
       "url": "https://open.spotify.com/track/23rEMK4z3yVPLI0cg3tNzi"
@@ -608,7 +608,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 168750,
       "name": "Kusip\u00e4\u00e4",
       "url": "https://open.spotify.com/track/6Z5OLH0shZIbkRDxx7xD11"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 181200,
       "name": "Labyrintti (feat. Pyrythekid)",
       "url": "https://open.spotify.com/track/0j9htEbDldJZMzUSFrGRfY"
@@ -819,6 +819,46 @@
     },
     {
       "album": {
+        "name": "mandela-efekti",
+        "url": "https://open.spotify.com/album/7h37iGdvdpmSTfwuA1y5Jy"
+      },
+      "artists": [
+        {
+          "name": "NICHOLAS X",
+          "url": "https://open.spotify.com/artist/592Go1koDRwPru1jjMhZuY"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160614,
+      "name": "mandela-efekti",
+      "url": "https://open.spotify.com/track/3K0LIP4FNwxTZJ23e9J19d"
+    },
+    {
+      "album": {
+        "name": "Me Vs. Maailma (feat. Sexmane)",
+        "url": "https://open.spotify.com/album/09A9MT3hwFHGjoWrG3efxa"
+      },
+      "artists": [
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        },
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148837,
+      "name": "Me Vs. Maailma (feat. Sexmane)",
+      "url": "https://open.spotify.com/track/6jL8913OKAhtrefgueIRHR"
+    },
+    {
+      "album": {
         "name": "Mi Amore (feat. Ege Zulu)",
         "url": "https://open.spotify.com/album/4JSbaUoAZke1tOOqTMjosP"
       },
@@ -856,6 +896,24 @@
       "duration_ms": 219773,
       "name": "Mit\u00e4 m\u00e4 teen?",
       "url": "https://open.spotify.com/track/151zAJhoBwQZ4XC24PY8T9"
+    },
+    {
+      "album": {
+        "name": "Mowgli",
+        "url": "https://open.spotify.com/album/017Q2cv3auxsQmWWQj2mlO"
+      },
+      "artists": [
+        {
+          "name": "KERZA",
+          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "Mowgli",
+      "url": "https://open.spotify.com/track/44i0pQGFw0hq3YzBYvYZaC"
     },
     {
       "album": {
@@ -910,6 +968,24 @@
       "duration_ms": 205213,
       "name": "N\u00f6ss\u00f6\u00f6 el\u00e4m\u00e4\u00e4",
       "url": "https://open.spotify.com/track/2j2PrCc78t95Z1UiSMYJjB"
+    },
+    {
+      "album": {
+        "name": "Olga",
+        "url": "https://open.spotify.com/album/3Z7O7ZGG62ZIHSxqt6MHv0"
+      },
+      "artists": [
+        {
+          "name": "Herrat",
+          "url": "https://open.spotify.com/artist/2HGPd1n5wmvFCJccRPRJ9k"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162840,
+      "name": "Olga",
+      "url": "https://open.spotify.com/track/5Zm7wFXMkdPS7NQoGxmzWS"
     },
     {
       "album": {
@@ -1114,6 +1190,24 @@
       "duration_ms": 168403,
       "name": "Sano vaan",
       "url": "https://open.spotify.com/track/3bmaYlyaca8hvQ7cUEzHhG"
+    },
+    {
+      "album": {
+        "name": "Satama",
+        "url": "https://open.spotify.com/album/1w9whtxDsbfopzVe6hlWjS"
+      },
+      "artists": [
+        {
+          "name": "KUUMAA",
+          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160011,
+      "name": "Satama",
+      "url": "https://open.spotify.com/track/1osPz2rgtdywUR6ut6eIMU"
     },
     {
       "album": {
@@ -1566,6 +1660,24 @@
       "duration_ms": 155338,
       "name": "Vaarallinen Nainen",
       "url": "https://open.spotify.com/track/0XWzwurinuiDIyvlq0lx93"
+    },
+    {
+      "album": {
+        "name": "Vain nyt",
+        "url": "https://open.spotify.com/album/2UZC2j5MOWY5tm8oiwmiHf"
+      },
+      "artists": [
+        {
+          "name": "Lili & Luna",
+          "url": "https://open.spotify.com/artist/5K10NuCY4qVWSgk3kGsQTZ"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Vain nyt",
+      "url": "https://open.spotify.com/track/7bENtR0BjygtVylRFwikME"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Unearthing trailblazers\. Say Hello to 2024's RADAR SG & MY artists\. Cover: FUGŌ
+> Unearthing trailblazers\. Say Hello to 2024's RADAR SG & MY artists\. Cover: Sarah Suhairi
 
-68 songs - 3 hr 35 min
+69 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [venus](https://open.spotify.com/track/6nZJt2Tk27ch1tWv9l4ZEZ) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [venus](https://open.spotify.com/album/4dF6MbQvHwGpOjnhhhTjMh) | 4:10 | 2024-06-27 |  |
 | [Wanna Know](https://open.spotify.com/track/0uo5CY4LOwpgit91CVVNZO) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Wanna Know](https://open.spotify.com/album/4a2bxrwV1oPJ0iW54hd5kr) | 3:09 | 2024-06-27 |  |
 | [WHAT WOULD I DO?](https://open.spotify.com/track/1sFXoIocM3iQQs21Kw6mb7) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [WHAT WOULD I DO?](https://open.spotify.com/album/7tm9KvtZYiQCi1S7LJtd3y) | 3:23 | 2024-06-27 |  |
+| [With You \(feat\. Aswad Anuar\)](https://open.spotify.com/track/6ceBB340aX6EUqLZpelyk2) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Aswad Anuar](https://open.spotify.com/artist/1B1M93wNXmybMqjQCcjgIR) | [With You \(feat\. Aswad Anuar\)](https://open.spotify.com/album/50WMtF6oBYcbja0JawYF2T) | 3:32 | 2024-07-25 |  |
 | [Ya Hayati](https://open.spotify.com/track/6JyHqySGJlaDv5RdLMZ9nA) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Ya Hayati](https://open.spotify.com/album/0ZfkgUy4g9y5E4pekNGyNE) | 3:29 | 2024-06-27 |  |
 | [YOU](https://open.spotify.com/track/1Y3yYZKCbk9G6CiBxJ3BLT) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [YOU](https://open.spotify.com/album/7rixXHKYaXdEkeS9EIGzAu) | 2:20 | 2024-06-27 |  |
 | [You Make Me Feel](https://open.spotify.com/track/06jSAhKCHJJtRt0lzvMxKQ) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [You Make Me Feel](https://open.spotify.com/album/0sjMCJ99RMaMZIxwR3qcPa) | 2:14 | 2024-06-27 |  |

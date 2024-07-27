@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Le meilleur de la chanson fran\u00e7aise actuelle. Photo : Coline Rio & Voyou",
+  "description": "Le meilleur de la chanson fran\u00e7aise actuelle. Photo : Olivia Ruiz",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 160053,
       "name": "C'est fou comme je t'aime",
       "url": "https://open.spotify.com/track/46KAkT2PJ7aAgYiJAUsrKM"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 239590,
       "name": "IL N'A DIEU QUE POUR ELLE",
       "url": "https://open.spotify.com/track/2TCexzMXhtEMrO7NT6QMQk"
@@ -374,6 +374,24 @@
       "duration_ms": 180346,
       "name": "Je n'oublierai pas",
       "url": "https://open.spotify.com/track/2ReVppZGCdRbZOnzOTmjKR"
+    },
+    {
+      "album": {
+        "name": "Je voudrais tomber amoureux",
+        "url": "https://open.spotify.com/album/31aSdVWYFsuB6G3cvsWRY0"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Radu",
+          "url": "https://open.spotify.com/artist/0a0Pl9QiikzqYozn7qyooX"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283509,
+      "name": "Je voudrais tomber amoureux",
+      "url": "https://open.spotify.com/track/2KEbuxwXcerVcuPdfxBMg2"
     },
     {
       "album": {
@@ -681,6 +699,24 @@
     },
     {
       "album": {
+        "name": "Nu",
+        "url": "https://open.spotify.com/album/5y3lwreP0Z0WItPNC2zOyi"
+      },
+      "artists": [
+        {
+          "name": "Philippe Katerine",
+          "url": "https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146210,
+      "name": "Nu",
+      "url": "https://open.spotify.com/track/3OIphEv3puN6zaWG4ms5n0"
+    },
+    {
+      "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/49ilyrHmUk8lIbFJv9R68v"
       },
@@ -764,7 +800,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 245644,
       "name": "Quitter la ville",
       "url": "https://open.spotify.com/track/2o1egEONubbMeEjYZyjZip"
@@ -978,6 +1014,24 @@
       "duration_ms": 164666,
       "name": "S\u00e9maphore",
       "url": "https://open.spotify.com/track/0DJsJJ34nrznOTyI6Qvmko"
+    },
+    {
+      "album": {
+        "name": "La R\u00e9plique",
+        "url": "https://open.spotify.com/album/5qvcGUrVESxTiDyHpstjYL"
+      },
+      "artists": [
+        {
+          "name": "Olivia Ruiz",
+          "url": "https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177706,
+      "name": "Tu danses",
+      "url": "https://open.spotify.com/track/7gJewKyWLZAGy6HkpG9rSu"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: SPINALL",
+  "description": "Tracks popping off in the Afro scene. Cover: 1da Banton",
   "name": "Afro Station",
   "tracks": [
     {
@@ -626,7 +626,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 171666,
       "name": "Ba$tard, Don't Be Silly",
       "url": "https://open.spotify.com/track/0u9khlv9uOvSEUOTFZtMNs"
@@ -1523,6 +1523,24 @@
     },
     {
       "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/6FlN8G4bYC1sOzZIxo5xBH"
+      },
+      "artists": [
+        {
+          "name": "Meiitod",
+          "url": "https://open.spotify.com/artist/5DaitIP7Wk4Y2nReCVq2PS"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Cicatrices",
+      "url": "https://open.spotify.com/track/6q7L2j1u0n6oFORX9T016m"
+    },
+    {
+      "album": {
         "name": "Comforter (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
       },
@@ -2196,6 +2214,24 @@
       "duration_ms": 209968,
       "name": "Different Size (feat. Victony)",
       "url": "https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat"
+    },
+    {
+      "album": {
+        "name": "Digest",
+        "url": "https://open.spotify.com/album/7y5e3W5HAauq6oES8aJtbk"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "Digest",
+      "url": "https://open.spotify.com/track/6Q9KwZkFtTKLAAB8iOTpbZ"
     },
     {
       "album": {
@@ -3211,6 +3247,24 @@
     },
     {
       "album": {
+        "name": "Homeless",
+        "url": "https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP"
+      },
+      "artists": [
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174213,
+      "name": "Forgive Me",
+      "url": "https://open.spotify.com/track/6S2nSU6FmY2xCJFkh1lHER"
+    },
+    {
+      "album": {
         "name": "Freaky (feat. Phantom Steeze)",
         "url": "https://open.spotify.com/album/2MepRGb5fpyCl8GoBtPtos"
       },
@@ -3256,6 +3310,24 @@
       "duration_ms": 159026,
       "name": "Fuegopiano 1 : Pas ton b\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/04EszC96H42YXOP9Y38YJy"
+    },
+    {
+      "album": {
+        "name": "Fuegopiano 2 : Travailler",
+        "url": "https://open.spotify.com/album/5ePvKhFk2Vuu6v3Fq3VJzQ"
+      },
+      "artists": [
+        {
+          "name": "Miedjia",
+          "url": "https://open.spotify.com/artist/7GWjcPmr0zcHxPFWY2H8dX"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142564,
+      "name": "Fuegopiano 2 : Travailler",
+      "url": "https://open.spotify.com/track/7mT2htgj3d88lxpFSJn4Sa"
     },
     {
       "album": {
@@ -4052,7 +4124,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 197400,
       "name": "JABO",
       "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
@@ -5635,6 +5707,28 @@
     },
     {
       "album": {
+        "name": "Mood (feat. Khaid)",
+        "url": "https://open.spotify.com/album/0lmld57fQ3VDvT7p21CXPG"
+      },
+      "artists": [
+        {
+          "name": "JZyNo",
+          "url": "https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ"
+        },
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177931,
+      "name": "Mood (feat. Khaid)",
+      "url": "https://open.spotify.com/track/7tG4123A00GMjBqFRrblMT"
+    },
+    {
+      "album": {
         "name": "Mopepe",
         "url": "https://open.spotify.com/album/0OAOKGvPhuYixFALUlayGe"
       },
@@ -5671,6 +5765,24 @@
     },
     {
       "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/4dMG65PpEgLhnAKMGbi2ge"
+      },
+      "artists": [
+        {
+          "name": "Aqyila",
+          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163653,
+      "name": "Most Wanted",
+      "url": "https://open.spotify.com/track/3ol70ZGonP9HTEQSKhZYcY"
+    },
+    {
+      "album": {
         "name": "Miel (Part. 1)",
         "url": "https://open.spotify.com/album/2uiVm1pq07YTgyJmbYoYDz"
       },
@@ -5686,7 +5798,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 156720,
       "name": "Moula",
       "url": "https://open.spotify.com/track/5VtetbSYKXWvycKUgiHliH"
@@ -6404,7 +6516,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 159310,
       "name": "Only Me",
       "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
@@ -7009,6 +7121,28 @@
     },
     {
       "album": {
+        "name": "12 Summers",
+        "url": "https://open.spotify.com/album/2vwrznrv1jDOypUWHGKTi5"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139285,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3rLyUo8KBJCP5YPA3Getfj"
+    },
+    {
+      "album": {
         "name": "Prettiest Problem",
         "url": "https://open.spotify.com/album/0HrZA9VzyAIBSyWhKDSJNm"
       },
@@ -7277,6 +7411,24 @@
     },
     {
       "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202958,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn"
+    },
+    {
+      "album": {
         "name": "Rodo",
         "url": "https://open.spotify.com/album/62qOqQtptVw6h4ywlGsNXZ"
       },
@@ -7372,7 +7524,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 176200,
       "name": "Run Away (OMALICHA)",
       "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
@@ -7754,7 +7906,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 206133,
       "name": "Siy\u00e9",
       "url": "https://open.spotify.com/track/2cvLICgohXX5Rfmoh2jPsZ"
@@ -8758,7 +8910,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 158360,
       "name": "Trop \u00e0 l'aise",
       "url": "https://open.spotify.com/track/0JkifbkM6a8ISznsk9Agcc"
@@ -9040,7 +9192,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 166000,
       "name": "Vision Remix (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"

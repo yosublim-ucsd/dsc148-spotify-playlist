@@ -543,6 +543,24 @@
     },
     {
       "album": {
+        "name": "Another Love Song",
+        "url": "https://open.spotify.com/album/0oiqhfE7NdRffK915DHbMh"
+      },
+      "artists": [
+        {
+          "name": "SOOVI",
+          "url": "https://open.spotify.com/artist/0YM7bNxtt0VzccYf1UG2G8"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161933,
+      "name": "Another Love Song",
+      "url": "https://open.spotify.com/track/0WngZO7T6yvffgXskWNjmX"
+    },
+    {
+      "album": {
         "name": "1,2,3..",
         "url": "https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf"
       },
@@ -1610,6 +1628,24 @@
       "duration_ms": 213541,
       "name": "dear goodbye",
       "url": "https://open.spotify.com/track/1uwVqKjMf2wVVwRkDe2Xt6"
+    },
+    {
+      "album": {
+        "name": "Dear My Sorrow",
+        "url": "https://open.spotify.com/album/46R8yonAYUnizLWonwG1Vx"
+      },
+      "artists": [
+        {
+          "name": "Add All Ears",
+          "url": "https://open.spotify.com/artist/6uZ4zg2t2yCRACJJAHetgs"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242101,
+      "name": "Dear My Sorrow (Doop)",
+      "url": "https://open.spotify.com/track/2wrHL1hJ3UmRFKIgCCsNbu"
     },
     {
       "album": {
@@ -6836,6 +6872,28 @@
       "duration_ms": 244120,
       "name": "Yooou (Feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/2iQ77ftQFhdxyBt1DET8Xf"
+    },
+    {
+      "album": {
+        "name": "YOU (Feat. jeebanoff)",
+        "url": "https://open.spotify.com/album/76uhNCKMU0ZxA4ctU4zfGP"
+      },
+      "artists": [
+        {
+          "name": "WOOSEOK",
+          "url": "https://open.spotify.com/artist/1JVVY2kKddJ0JkDkbEZk4V"
+        },
+        {
+          "name": "jeebanoff",
+          "url": "https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178583,
+      "name": "YOU (Feat. jeebanoff)",
+      "url": "https://open.spotify.com/track/0tHgk7afCZ6AgmDInaU94A"
     },
     {
       "album": {

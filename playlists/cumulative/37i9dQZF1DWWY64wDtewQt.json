@@ -3427,6 +3427,28 @@
     },
     {
       "album": {
+        "name": "DEFEATED",
+        "url": "https://open.spotify.com/album/3Mmr5m6RNsLhIqN81xDEP6"
+      },
+      "artists": [
+        {
+          "name": "MAXPVNK",
+          "url": "https://open.spotify.com/artist/4dHkDmvdWDXoycp4Caui8D"
+        },
+        {
+          "name": "DJ RITMO DIVINO",
+          "url": "https://open.spotify.com/artist/6GvahNk3SvKrC48sA1V15o"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114421,
+      "name": "DEFEATED",
+      "url": "https://open.spotify.com/track/1LmPBj4I34kQZLDtL67VY1"
+    },
+    {
+      "album": {
         "name": "DEJAVU",
         "url": "https://open.spotify.com/album/0SXiOodZ0OmE1Kj5bJia84"
       },
@@ -4504,7 +4526,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 90692,
       "name": "ENOUGH!",
       "url": "https://open.spotify.com/track/3bVJS1FUUkx3RmmmOVoeK2"
@@ -14006,6 +14028,28 @@
       "duration_ms": 190290,
       "name": "UNFORGIVEN",
       "url": "https://open.spotify.com/track/5ihsAWE0y20g8eKyKkIvMb"
+    },
+    {
+      "album": {
+        "name": "Unfunny Game",
+        "url": "https://open.spotify.com/album/7cB9p3XRYjmqJhIC8pbUVA"
+      },
+      "artists": [
+        {
+          "name": "gabriawll",
+          "url": "https://open.spotify.com/artist/5jMwLnp7dI0H2YFvXpCaMH"
+        },
+        {
+          "name": "Strxy_phonk",
+          "url": "https://open.spotify.com/artist/5WFZA9iVQDotzUq5VNcE2r"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132504,
+      "name": "Unfunny Game - Slowed",
+      "url": "https://open.spotify.com/track/0ePUfTRql7IIxvaa6suYna"
     },
     {
       "album": {

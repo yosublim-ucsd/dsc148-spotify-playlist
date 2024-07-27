@@ -1,12 +1,12 @@
 {
-  "description": "This is: Carlos Rafael Rivera. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 545,
+  "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
+  "num_followers": 548,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zp7ygAAAAABX9t5DP68X2KtD1YnhuPf9",
+  "snapshot_id": "ZqLnAAAAAAAEa17rgDMR84VgVLpB9Gsb",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 60983,
-      "name": "Science",
-      "url": "https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu"
+      "duration_ms": 108178,
+      "name": "Supper at Six",
+      "url": "https://open.spotify.com/track/63jsh7N63DiaxMZjOTpaOV"
     },
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 108178,
-      "name": "Supper at Six",
-      "url": "https://open.spotify.com/track/63jsh7N63DiaxMZjOTpaOV"
+      "duration_ms": 60983,
+      "name": "Science",
+      "url": "https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu"
     },
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 92666,
-      "name": "Making New Friends",
-      "url": "https://open.spotify.com/track/3olrmNmOEF1J3oVRTy1Ghy"
+      "duration_ms": 92000,
+      "name": "Ezra - Main Title",
+      "url": "https://open.spotify.com/track/2cU2WKifCEX7bz6P369fzw"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 92000,
-      "name": "Ezra - Main Title",
-      "url": "https://open.spotify.com/track/2cU2WKifCEX7bz6P369fzw"
+      "duration_ms": 92666,
+      "name": "Making New Friends",
+      "url": "https://open.spotify.com/track/3olrmNmOEF1J3oVRTy1Ghy"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 103158,
-      "name": "Saint Luke's",
-      "url": "https://open.spotify.com/track/4LgoROt9rZS81HR1rlCjZd"
+      "duration_ms": 83131,
+      "name": "Calvin",
+      "url": "https://open.spotify.com/track/2GNgQFDxgVamyS8D2LL7wg"
     },
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 103158,
+      "name": "Saint Luke's",
+      "url": "https://open.spotify.com/track/4LgoROt9rZS81HR1rlCjZd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Griselda (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
       },
@@ -395,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 83131,
-      "name": "Calvin",
-      "url": "https://open.spotify.com/track/2GNgQFDxgVamyS8D2LL7wg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Monsieur Spade (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 117693,
       "name": "Gabrielle",
       "url": "https://open.spotify.com/track/0RuBnQUTmflQVJi4VI556A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hacks: Season 1 (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/5UvGy41xXQxYWguXtHMHoI"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 77822,
-      "name": "Unhoused Residents - Ava's Theme - Alternate",
-      "url": "https://open.spotify.com/track/4cWL6iAoBFVMcjBBdzFXEu"
     },
     {
       "added_at": null,

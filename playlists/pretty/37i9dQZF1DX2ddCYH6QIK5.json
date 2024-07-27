@@ -1,6 +1,6 @@
 {
   "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Mel D, Artwork: Isu Kim.\n",
-  "num_followers": 30050,
+  "num_followers": 30058,
   "original_name": "Fresh Finds GSA",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,26 @@
       "duration_ms": 154644,
       "name": "Kaputt gemacht",
       "url": "https://open.spotify.com/track/1CZnazss2v2t7k7GPAD3RG"
+    },
+    {
+      "added_at": "2024-07-24 10:00:00",
+      "album": {
+        "name": "vergiss die drei",
+        "url": "https://open.spotify.com/album/02jTGbKrt4VHms8gQxb4NC"
+      },
+      "artists": [
+        {
+          "name": "lenzy",
+          "url": "https://open.spotify.com/artist/1zhcGENkWmlGu0UGcC8ESf"
+        },
+        {
+          "name": "S\u00f6ren Last",
+          "url": "https://open.spotify.com/artist/7tGTL3UqB3eC9C3oP8OR6n"
+        }
+      ],
+      "duration_ms": 117251,
+      "name": "vergiss die drei",
+      "url": "https://open.spotify.com/track/4RFE1DlyM7KjKUUOOFWq1K"
     },
     {
       "added_at": "2024-07-24 10:00:00",

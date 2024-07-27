@@ -1,6 +1,6 @@
 {
   "description": "alternative meets electronic Cover: Artemas",
-  "num_followers": 482164,
+  "num_followers": 482210,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2024-07-15 21:28:29",
       "album": {
-        "name": "Bleed",
-        "url": "https://open.spotify.com/album/1LcLPYd5lesuWO3QWHETBq"
-      },
-      "artists": [
-        {
-          "name": "Connor Kauffman",
-          "url": "https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "Bleed",
-      "url": "https://open.spotify.com/track/4vtzbijWEew1JlxamzNUBE"
-    },
-    {
-      "added_at": "2024-07-15 21:28:29",
-      "album": {
         "name": "Ticking Away",
         "url": "https://open.spotify.com/album/2CNm7QxoOSkqawLMnoepZB"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 205270,
       "name": "Ticking Away",
       "url": "https://open.spotify.com/track/4bdzlt280luOgFi0ZlkTvR"
+    },
+    {
+      "added_at": "2024-07-15 21:28:29",
+      "album": {
+        "name": "Bleed",
+        "url": "https://open.spotify.com/album/1LcLPYd5lesuWO3QWHETBq"
+      },
+      "artists": [
+        {
+          "name": "Connor Kauffman",
+          "url": "https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/4vtzbijWEew1JlxamzNUBE"
     },
     {
       "added_at": "2024-07-15 21:28:29",
@@ -439,18 +439,18 @@
     {
       "added_at": "2024-07-15 21:28:29",
       "album": {
-        "name": "Great Time To Be Human",
-        "url": "https://open.spotify.com/album/2Mxsg75C84uMMRBGSFKzvf"
+        "name": "Body",
+        "url": "https://open.spotify.com/album/5tsg5PG0T1EqXg2Fetgd9J"
       },
       "artists": [
         {
-          "name": "Jagwar Twin",
-          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
+          "name": "Rosenfeld",
+          "url": "https://open.spotify.com/artist/3p2pMpzDerhMR4w2xZyHWg"
         }
       ],
-      "duration_ms": 203108,
-      "name": "Great Time To Be Human",
-      "url": "https://open.spotify.com/track/30xXJonsfJNpbHBc1kCmz2"
+      "duration_ms": 147413,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/656neoAxvwrA9812K99kTO"
     },
     {
       "added_at": "2024-07-15 21:28:29",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-07-15 21:28:29",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/5tsg5PG0T1EqXg2Fetgd9J"
-      },
-      "artists": [
-        {
-          "name": "Rosenfeld",
-          "url": "https://open.spotify.com/artist/3p2pMpzDerhMR4w2xZyHWg"
-        }
-      ],
-      "duration_ms": 147413,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/656neoAxvwrA9812K99kTO"
-    },
-    {
-      "added_at": "2024-07-15 21:28:29",
-      "album": {
         "name": "Self Destruction Mode",
         "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 147836,
       "name": "Self Destruction Mode",
       "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
+    },
+    {
+      "added_at": "2024-07-15 21:28:29",
+      "album": {
+        "name": "Great Time To Be Human",
+        "url": "https://open.spotify.com/album/2Mxsg75C84uMMRBGSFKzvf"
+      },
+      "artists": [
+        {
+          "name": "Jagwar Twin",
+          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
+        }
+      ],
+      "duration_ms": 203108,
+      "name": "Great Time To Be Human",
+      "url": "https://open.spotify.com/track/30xXJonsfJNpbHBc1kCmz2"
     },
     {
       "added_at": "2024-07-15 21:28:29",
@@ -651,8 +651,8 @@
     {
       "added_at": "2024-07-15 21:28:29",
       "album": {
-        "name": "PREDATOR",
-        "url": "https://open.spotify.com/album/3NFHHJhzpiRAhnRSCAEILR"
+        "name": "Seize the Power",
+        "url": "https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7"
       },
       "artists": [
         {
@@ -660,25 +660,9 @@
           "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
         }
       ],
-      "duration_ms": 171506,
-      "name": "PREDATOR",
-      "url": "https://open.spotify.com/track/5r8tAjAxquehOkOruflfLP"
-    },
-    {
-      "added_at": "2024-07-15 21:28:29",
-      "album": {
-        "name": "Animals",
-        "url": "https://open.spotify.com/album/3UhL83nAIrGB188dxKzlsv"
-      },
-      "artists": [
-        {
-          "name": "Call Me Karizma",
-          "url": "https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "Animals",
-      "url": "https://open.spotify.com/track/6ahe2frEbhctgsB30lHDwp"
+      "duration_ms": 161617,
+      "name": "Seize the Power",
+      "url": "https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc"
     },
     {
       "added_at": "2024-07-15 21:28:29",
@@ -695,6 +679,22 @@
       "duration_ms": 187189,
       "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
+    },
+    {
+      "added_at": "2024-07-15 21:28:29",
+      "album": {
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/3UhL83nAIrGB188dxKzlsv"
+      },
+      "artists": [
+        {
+          "name": "Call Me Karizma",
+          "url": "https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "Animals",
+      "url": "https://open.spotify.com/track/6ahe2frEbhctgsB30lHDwp"
     },
     {
       "added_at": "2024-07-15 21:28:29",
@@ -739,8 +739,8 @@
     {
       "added_at": "2024-07-15 21:28:29",
       "album": {
-        "name": "Seize the Power",
-        "url": "https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7"
+        "name": "PREDATOR",
+        "url": "https://open.spotify.com/album/3NFHHJhzpiRAhnRSCAEILR"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
         }
       ],
-      "duration_ms": 161617,
-      "name": "Seize the Power",
-      "url": "https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc"
+      "duration_ms": 171506,
+      "name": "PREDATOR",
+      "url": "https://open.spotify.com/track/5r8tAjAxquehOkOruflfLP"
     },
     {
       "added_at": "2024-07-15 21:28:29",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-07-15 21:28:29",
       "album": {
-        "name": "When You & Me Dance",
-        "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
-      },
-      "artists": [
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "When You & Me Dance",
-      "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
-    },
-    {
-      "added_at": "2024-07-15 21:28:29",
-      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/67WHRHvdMPplrsSc4KtMfB"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 169680,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0DqJsme3z2r2kPGTti68gf"
+    },
+    {
+      "added_at": "2024-07-15 21:28:29",
+      "album": {
+        "name": "When You & Me Dance",
+        "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "When You & Me Dance",
+      "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
     },
     {
       "added_at": "2024-07-15 21:28:29",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-07-15 21:28:29",
       "album": {
-        "name": "Knockoff",
-        "url": "https://open.spotify.com/album/58BlShV5R0UwB7IRyZf96n"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 184518,
-      "name": "Knockoff",
-      "url": "https://open.spotify.com/track/7Bc59U2nhCp608JlIEMEGl"
-    },
-    {
-      "added_at": "2024-07-15 21:28:29",
-      "album": {
         "name": "HeatDeath",
         "url": "https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 317837,
       "name": "HeatDeath",
       "url": "https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR"
+    },
+    {
+      "added_at": "2024-07-15 21:28:29",
+      "album": {
+        "name": "Knockoff",
+        "url": "https://open.spotify.com/album/58BlShV5R0UwB7IRyZf96n"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 184518,
+      "name": "Knockoff",
+      "url": "https://open.spotify.com/track/7Bc59U2nhCp608JlIEMEGl"
     },
     {
       "added_at": "2024-07-15 21:28:29",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-07-15 21:28:29",
       "album": {
-        "name": "Volume II",
-        "url": "https://open.spotify.com/album/67yqXDQTVNgwD0MUeQ2uma"
-      },
-      "artists": [
-        {
-          "name": "Sad Night Dynamite",
-          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "Tramp",
-      "url": "https://open.spotify.com/track/33nj1ZTE6D7or3w3FobgxG"
-    },
-    {
-      "added_at": "2024-07-15 21:28:29",
-      "album": {
         "name": "Dead",
         "url": "https://open.spotify.com/album/6yhPN6jzku1HlV8rZF6oZb"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 210328,
       "name": "Dead",
       "url": "https://open.spotify.com/track/6H3NSyefUL4tm6yvWuQ8FR"
+    },
+    {
+      "added_at": "2024-07-15 21:28:29",
+      "album": {
+        "name": "Volume II",
+        "url": "https://open.spotify.com/album/67yqXDQTVNgwD0MUeQ2uma"
+      },
+      "artists": [
+        {
+          "name": "Sad Night Dynamite",
+          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Tramp",
+      "url": "https://open.spotify.com/track/33nj1ZTE6D7or3w3FobgxG"
     },
     {
       "added_at": "2024-07-15 21:28:29",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2024-07-15 21:28:29",
       "album": {
+        "name": "Cape Life",
+        "url": "https://open.spotify.com/album/7b2YNOmODl0dfir9hX0sr1"
+      },
+      "artists": [
+        {
+          "name": "I Know Where You Live",
+          "url": "https://open.spotify.com/artist/18QW5AfIV8SXQlRRPhCK3a"
+        }
+      ],
+      "duration_ms": 192478,
+      "name": "Cape Life",
+      "url": "https://open.spotify.com/track/7u6GFqgcCl8xXge6GEiTs9"
+    },
+    {
+      "added_at": "2024-07-15 21:28:29",
+      "album": {
         "name": "MY DEMONS",
         "url": "https://open.spotify.com/album/5s5mG6bz04LEXbwO1Fufyp"
       },
@@ -1699,18 +1715,18 @@
     {
       "added_at": "2024-07-15 21:28:29",
       "album": {
-        "name": "Cape Life",
-        "url": "https://open.spotify.com/album/7b2YNOmODl0dfir9hX0sr1"
+        "name": "BROKEN HEARTS",
+        "url": "https://open.spotify.com/album/2p0CrNn7iJNopOsJmAoSD7"
       },
       "artists": [
         {
-          "name": "I Know Where You Live",
-          "url": "https://open.spotify.com/artist/18QW5AfIV8SXQlRRPhCK3a"
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
         }
       ],
-      "duration_ms": 192478,
-      "name": "Cape Life",
-      "url": "https://open.spotify.com/track/7u6GFqgcCl8xXge6GEiTs9"
+      "duration_ms": 209986,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/7EsbZDWgR5abkQJ9EYyeeK"
     },
     {
       "added_at": "2024-07-15 21:28:29",
@@ -1727,22 +1743,6 @@
       "duration_ms": 174539,
       "name": "Back In My Head Again",
       "url": "https://open.spotify.com/track/5etJs8H5GcjCboXNw6Rrg0"
-    },
-    {
-      "added_at": "2024-07-15 21:28:29",
-      "album": {
-        "name": "BROKEN HEARTS",
-        "url": "https://open.spotify.com/album/2p0CrNn7iJNopOsJmAoSD7"
-      },
-      "artists": [
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        }
-      ],
-      "duration_ms": 209986,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/7EsbZDWgR5abkQJ9EYyeeK"
     },
     {
       "added_at": "2024-07-15 21:28:29",

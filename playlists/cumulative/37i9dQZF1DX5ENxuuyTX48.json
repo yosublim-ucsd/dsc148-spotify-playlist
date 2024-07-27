@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "wru? OTW! Cover: Siti Nordiana",
+  "description": "wru? OTW! Cover: Ashira Zamita",
   "name": "OTW ",
   "tracks": [
     {
@@ -42,6 +42,24 @@
       "duration_ms": 260411,
       "name": "1 2 3",
       "url": "https://open.spotify.com/track/3yxZnqRcaCrMuvxx0vHy33"
+    },
+    {
+      "album": {
+        "name": "1 dari 1000",
+        "url": "https://open.spotify.com/album/0xe2k3gc4rs7MAwqhiIdHT"
+      },
+      "artists": [
+        {
+          "name": "Ashira Zamita",
+          "url": "https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234972,
+      "name": "1 dari 1000",
+      "url": "https://open.spotify.com/track/73sNYWU4Qe1WEiUyMMNz6q"
     },
     {
       "album": {
@@ -104,7 +122,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 332953,
       "name": "17 Juni",
       "url": "https://open.spotify.com/track/44QEmMQci4T5rbKcGHxhzK"
@@ -1019,6 +1037,24 @@
     },
     {
       "album": {
+        "name": "WHERE ARE YOU NOW THAT IT'S OVER?",
+        "url": "https://open.spotify.com/album/0vZ2TnJ14bTm1KbHYUFHU0"
+      },
+      "artists": [
+        {
+          "name": "ICEBOX",
+          "url": "https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213375,
+      "name": "ALL I WANTED",
+      "url": "https://open.spotify.com/track/6Jt5rPgQqTnZ9iGfoMogFk"
+    },
+    {
+      "album": {
         "name": "All You Had To Do",
         "url": "https://open.spotify.com/album/5zvuBhjoffN1OW1ElmwBGX"
       },
@@ -1208,7 +1244,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 258148,
       "name": "Angin Rindu",
       "url": "https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy"
@@ -1314,7 +1350,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 214657,
       "name": "Apa Lagi",
       "url": "https://open.spotify.com/track/77FOW8a8hx1TPdWLBRyn4O"
@@ -1599,6 +1635,24 @@
     },
     {
       "album": {
+        "name": "Atap Berteduh",
+        "url": "https://open.spotify.com/album/42S8brIKTyi3Nkhko69vtu"
+      },
+      "artists": [
+        {
+          "name": "Bagas Ran",
+          "url": "https://open.spotify.com/artist/1Pbl7RMzFNdbX0a7wDMN5i"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171310,
+      "name": "Atap Berteduh",
+      "url": "https://open.spotify.com/track/6BOij1w5TOjVtZyhaLZmiG"
+    },
+    {
+      "album": {
         "name": "Atma",
         "url": "https://open.spotify.com/album/6oPHemutDiW6ukbnQiMaa8"
       },
@@ -1792,6 +1846,24 @@
       "duration_ms": 134970,
       "name": "Bagaimana Aku",
       "url": "https://open.spotify.com/track/2HqmS98nQsBVhmS5rBjeVZ"
+    },
+    {
+      "album": {
+        "name": "Bagaimana Bisa Seseorang",
+        "url": "https://open.spotify.com/album/42kXGntEYx1eU4HDFLaL5m"
+      },
+      "artists": [
+        {
+          "name": "Hal",
+          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Bagaimana Bisa Seseorang",
+      "url": "https://open.spotify.com/track/0LIuHTuh9lSjK3SXIO3P4g"
     },
     {
       "album": {
@@ -2785,6 +2857,28 @@
     },
     {
       "album": {
+        "name": "Bimbang Serumpun Kasih Terbuang",
+        "url": "https://open.spotify.com/album/4ypQxWOOBy3FmI8aPwXADj"
+      },
+      "artists": [
+        {
+          "name": "Afieq Shazwan",
+          "url": "https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8"
+        },
+        {
+          "name": "Fareez Fauzi",
+          "url": "https://open.spotify.com/artist/44egeaQFX2Ix8J1kUIYYRk"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326585,
+      "name": "Bimbang Serumpun Kasih Terbuang",
+      "url": "https://open.spotify.com/track/4uvJC4WMRE0g2hpvZhIO07"
+    },
+    {
+      "album": {
         "name": "Bintang",
         "url": "https://open.spotify.com/album/7ta79eFzhSPy6pZ5XnnhCQ"
       },
@@ -2908,7 +3002,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 133489,
       "name": "BLACKONBLACK FREESTYLE",
       "url": "https://open.spotify.com/track/2MjkZXFRPsNNOxDTztFiL8"
@@ -4118,7 +4212,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 245760,
       "name": "Cinta Tak Biasa",
       "url": "https://open.spotify.com/track/2jpYZkmNLKk2TtrQAORu1o"
@@ -4344,6 +4438,46 @@
       "duration_ms": 186534,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/2r3ucwEGZDSmAnkn6NKopr"
+    },
+    {
+      "album": {
+        "name": "Come, Go",
+        "url": "https://open.spotify.com/album/6a34khhy9lVZFK13JqQOvQ"
+      },
+      "artists": [
+        {
+          "name": "Syaz Smooth",
+          "url": "https://open.spotify.com/artist/6MAt8BwjOqX3HIWEmCyaKJ"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158823,
+      "name": "Come, Go",
+      "url": "https://open.spotify.com/track/7yk1RYhaIwMKVaFAvmB8pg"
+    },
+    {
+      "album": {
+        "name": "coming home",
+        "url": "https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        },
+        {
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193105,
+      "name": "coming home",
+      "url": "https://open.spotify.com/track/3wWpmvEzgKQm7IHmzYsrni"
     },
     {
       "album": {
@@ -5112,7 +5246,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 253333,
       "name": "Di Pinggir Kayangan",
       "url": "https://open.spotify.com/track/6w2PYLtHs67gahfWGkCrWa"
@@ -5604,7 +5738,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 156831,
       "name": "Easy",
       "url": "https://open.spotify.com/track/7DJdAivvw89IDyflbj7K4p"
@@ -5706,7 +5840,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 191000,
       "name": "End Differently",
       "url": "https://open.spotify.com/track/1nOcvj8h1IrxceTisMyqdR"
@@ -6036,7 +6170,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 116077,
       "name": "Fikiran Tiga Pagi",
       "url": "https://open.spotify.com/track/4aglIysq0ARnxNl76dB6Ak"
@@ -6814,7 +6948,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 139285,
       "name": "Happier",
       "url": "https://open.spotify.com/track/7gshpIXZQy1PtJyH4h1HlJ"
@@ -8131,6 +8265,24 @@
     },
     {
       "album": {
+        "name": "Infatuated",
+        "url": "https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226714,
+      "name": "Infatuated",
+      "url": "https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS"
+    },
+    {
+      "album": {
         "name": "Infatuation!",
         "url": "https://open.spotify.com/album/77H0YNM4GtBFEtL0DNWsMT"
       },
@@ -8222,7 +8374,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 270029,
       "name": "Inilah Aku",
       "url": "https://open.spotify.com/track/1oIpWiJzhBLBEXEkmjPdvZ"
@@ -8606,7 +8758,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 244477,
       "name": "Jadikan Aku Yang Kedua",
       "url": "https://open.spotify.com/track/3sDrAxYdVtrduFmTEu6K0n"
@@ -9847,6 +9999,24 @@
     },
     {
       "album": {
+        "name": "coming home",
+        "url": "https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192124,
+      "name": "kembali",
+      "url": "https://open.spotify.com/track/4cekVvN19wjGowJmXb3sNF"
+    },
+    {
+      "album": {
         "name": "Kembali Beraksi",
         "url": "https://open.spotify.com/album/3R5CJTjkIdD5vXVLq8behk"
       },
@@ -10062,7 +10232,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 227368,
       "name": "Kesalahan Terindah",
       "url": "https://open.spotify.com/track/0Goyg7L3YHtGaOLNGoJXJx"
@@ -11624,7 +11794,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 144590,
       "name": "Maki",
       "url": "https://open.spotify.com/track/2MKlvbgFtP0KCJKwZU2WNq"
@@ -13177,6 +13347,28 @@
     },
     {
       "album": {
+        "name": "Naik Hantu",
+        "url": "https://open.spotify.com/album/02JyKEJfjVcRxVSgJua8EA"
+      },
+      "artists": [
+        {
+          "name": "Shiha Zikir",
+          "url": "https://open.spotify.com/artist/1S2qOJwpoeUkoJuToOZXU5"
+        },
+        {
+          "name": "Aya Amiruddin",
+          "url": "https://open.spotify.com/artist/3KrtjBl5Rf8T1iRvtiXjzL"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218727,
+      "name": "Naik Hantu",
+      "url": "https://open.spotify.com/track/3Uwabm3R6nT9Bpplw248L6"
+    },
+    {
+      "album": {
         "name": "Nanti Mama Pulang (Original Soundtrack From \"Mencari Marina For Mediacorp Suria\")",
         "url": "https://open.spotify.com/album/2UrQlpoXJNuFPWwSxpspWz"
       },
@@ -14504,7 +14696,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 244615,
       "name": "Pentas Sandiwara",
       "url": "https://open.spotify.com/track/1fEgsbDomEXg2NXa6CaAUt"
@@ -14522,7 +14714,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 240607,
       "name": "Penyangkalan",
       "url": "https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL"
@@ -15182,6 +15374,24 @@
       "duration_ms": 226000,
       "name": "Pulih",
       "url": "https://open.spotify.com/track/1T7NMrWDpNQ25wm4druuHN"
+    },
+    {
+      "album": {
+        "name": "Putus",
+        "url": "https://open.spotify.com/album/1Qh6C1BoR26xAOVdvZEwqp"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213007,
+      "name": "Putus",
+      "url": "https://open.spotify.com/track/1Z9mn9WZC1pOLrIK3hxdg3"
     },
     {
       "album": {
@@ -16199,6 +16409,24 @@
     },
     {
       "album": {
+        "name": "Sama Seperti Dulu (Orchestra Version)",
+        "url": "https://open.spotify.com/album/467PPaIAlaLqjlRzSFYiht"
+      },
+      "artists": [
+        {
+          "name": "Hael Husaini",
+          "url": "https://open.spotify.com/artist/1FIUUafdGtfqLIP8pmPymL"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253269,
+      "name": "Sama Seperti Dulu - Orchestra Version",
+      "url": "https://open.spotify.com/track/78zNWCHiZPpLr8tPAJIz1W"
+    },
+    {
+      "album": {
         "name": "Sambut",
         "url": "https://open.spotify.com/album/2KChBr7mEZ1X55YMZVO1u1"
       },
@@ -16604,7 +16832,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 120731,
       "name": "second chance",
       "url": "https://open.spotify.com/track/3bTu6qL8ZJIOlJcIK0GKcs"
@@ -17811,6 +18039,24 @@
     },
     {
       "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/1R9M66QN1RmbduZzHPzloc"
+      },
+      "artists": [
+        {
+          "name": "YA\u00d8",
+          "url": "https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131086,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/2UwqfYaH2lNOoptPyZAHUJ"
+    },
+    {
+      "album": {
         "name": "SPACE BETWEEN US",
         "url": "https://open.spotify.com/album/3ebBha2FpRyZJMgC5OCeFl"
       },
@@ -17906,7 +18152,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 238997,
       "name": "Status Palsu",
       "url": "https://open.spotify.com/track/16kcwhvQ5mKAsuKmvuEIMs"
@@ -17946,6 +18192,24 @@
       "duration_ms": 193170,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6RlPQXbYD7sJO74XRIwjf4"
+    },
+    {
+      "album": {
+        "name": "Stayin' Up All Night",
+        "url": "https://open.spotify.com/album/7v83c6GZG9Dms7Kh1QLj64"
+      },
+      "artists": [
+        {
+          "name": "Deborah Hanna",
+          "url": "https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212155,
+      "name": "Stayin' Up All Night",
+      "url": "https://open.spotify.com/track/4juqWhiFfi4si45jzb007J"
     },
     {
       "album": {
@@ -18206,6 +18470,24 @@
       "duration_ms": 210972,
       "name": "Sunday Song",
       "url": "https://open.spotify.com/track/54h0RdHzgHaq0XY4eNBMhI"
+    },
+    {
+      "album": {
+        "name": "Sunny Days",
+        "url": "https://open.spotify.com/album/3pJ3n5CYENWn102UrSB4jN"
+      },
+      "artists": [
+        {
+          "name": "Reality Club",
+          "url": "https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236524,
+      "name": "Sunny Days",
+      "url": "https://open.spotify.com/track/3UUhumDP8p4E01p0XFYJPR"
     },
     {
       "album": {
@@ -18959,6 +19241,24 @@
     },
     {
       "album": {
+        "name": "Tangan-Tangan Ucap Perpisahan",
+        "url": "https://open.spotify.com/album/494cHwcF82CGtJ6wNkcQck"
+      },
+      "artists": [
+        {
+          "name": "Feby Putri",
+          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254125,
+      "name": "Tangan-Tangan Ucap Perpisahan",
+      "url": "https://open.spotify.com/track/0f9EWUsizQlZyBHR3Qdban"
+    },
+    {
+      "album": {
         "name": "Tangis",
         "url": "https://open.spotify.com/album/1gqV1sVlPlXKzrShXJ0aBb"
       },
@@ -18974,6 +19274,24 @@
       "duration_ms": 215368,
       "name": "Tangis",
       "url": "https://open.spotify.com/track/48bY0txTRuOJdMrbQu7O0W"
+    },
+    {
+      "album": {
+        "name": "Tanpa Bicara",
+        "url": "https://open.spotify.com/album/4kcdK1zvo9uLRQ8dt93gh4"
+      },
+      "artists": [
+        {
+          "name": "Rizwan Fadilah",
+          "url": "https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212205,
+      "name": "Tanpa Bicara",
+      "url": "https://open.spotify.com/track/32dPiJIrbKTUEPaELjxbgQ"
     },
     {
       "album": {
@@ -19208,7 +19526,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 290937,
       "name": "Tenteram (feat. Salammusik)",
       "url": "https://open.spotify.com/track/2r9L6p5fu1sRDKQMIZSa0l"
@@ -19346,6 +19664,28 @@
       "duration_ms": 222721,
       "name": "terjebak imajinasi",
       "url": "https://open.spotify.com/track/2NMdEvZmw5y4BCU1K6ZDOq"
+    },
+    {
+      "album": {
+        "name": "Terlalu Cinta",
+        "url": "https://open.spotify.com/album/02xTkZ9qQYEA5GtUgnsEcG"
+      },
+      "artists": [
+        {
+          "name": "Yovie Widianto",
+          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
+        },
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259040,
+      "name": "Terlalu Cinta",
+      "url": "https://open.spotify.com/track/3zmN19fLAcKeDaajrIdWLB"
     },
     {
       "album": {
@@ -20028,6 +20368,24 @@
       "duration_ms": 254621,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/3KcA0bHgVxjIWMPlh9mBuZ"
+    },
+    {
+      "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231173,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY"
     },
     {
       "album": {
@@ -20877,6 +21235,28 @@
     },
     {
       "album": {
+        "name": "With You (feat. Aswad Anuar)",
+        "url": "https://open.spotify.com/album/50WMtF6oBYcbja0JawYF2T"
+      },
+      "artists": [
+        {
+          "name": "Sarah Suhairi",
+          "url": "https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh"
+        },
+        {
+          "name": "Aswad Anuar",
+          "url": "https://open.spotify.com/artist/1B1M93wNXmybMqjQCcjgIR"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212079,
+      "name": "With You (feat. Aswad Anuar)",
+      "url": "https://open.spotify.com/track/6ceBB340aX6EUqLZpelyk2"
+    },
+    {
+      "album": {
         "name": "WONDERFUL DAY",
         "url": "https://open.spotify.com/album/6QymlEi6qNgBNWde5kfcbl"
       },
@@ -21226,7 +21606,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 228010,
       "name": "\u2060Hey",
       "url": "https://open.spotify.com/track/3cpP0hFFHuaNdHtIv1nNuD"

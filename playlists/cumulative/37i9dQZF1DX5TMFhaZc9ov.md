@@ -4,7 +4,7 @@
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Adrianne Lenker
 
-185 songs - 11 hr 37 min
+186 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Pipe Dreams](https://open.spotify.com/track/7hKMa4UKhVhhLb9UUHlbIu) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Superstar](https://open.spotify.com/album/0iKUlriBGhJ9Fvnex5Xi7w) | 3:25 | 2024-03-08 | 2024-04-19 |
 | [Proud Crowd, Pride Cried](https://open.spotify.com/track/01zVQMb2ywEfghDbi4oIKa) | [Ferron](https://open.spotify.com/artist/4Uwxc9WlgyTxlP4iG8rdjb) | [Shadows On A Dime](https://open.spotify.com/album/6pWEVRecWVxW9GuOBQ4P5P) | 6:03 | 2021-06-01 |  |
 | [Red Bird Morning](https://open.spotify.com/track/3ncUmIGUabP28kEXErUajE) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Red Bird Morning](https://open.spotify.com/album/2WH98Edllnrvb87RuqUJ5N) | 3:13 | 2021-06-01 | 2022-06-01 |
+| [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-07-26 |  |
 | [Same Old Lines](https://open.spotify.com/track/1iIAth3EApux3r5p61F51e) | [Rod Thomas](https://open.spotify.com/artist/4SpGhDIoQnFKWCmNVcF4pA) | [Until Something Fits](https://open.spotify.com/album/1YZFdfXmzxce7btBAchwkT) | 3:04 | 2022-06-10 | 2024-04-19 |
 | [Same Old Lines](https://open.spotify.com/track/3DEt1a9c9lS7d19txLyhRv) | [Rod Thomas](https://open.spotify.com/artist/4SpGhDIoQnFKWCmNVcF4pA) | [Same Old Lines](https://open.spotify.com/album/030wmU1XbBA7Cu2SsNWvrg) | 3:04 | 2021-06-01 |  |
 | [Same Old Lines](https://open.spotify.com/track/7DjFa47KnciBUpqGDZuBtk) | [Rod Thomas](https://open.spotify.com/artist/4SpGhDIoQnFKWCmNVcF4pA) | [Same Old Lines](https://open.spotify.com/album/6NtmqFTfgYf2Cnfm7VOI4E) | 3:04 | 2022-06-10 | 2022-11-14 |

@@ -4,7 +4,7 @@
 
 > Soothing instrumental music for sleepy babies.
 
-859 songs - 1 day 1 hr 44 min
+861 songs - 1 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,11 +60,12 @@
 | [As Sweet As Can Be](https://open.spotify.com/track/0H4l3pTfyVhyDOXHtqpZyT) | [Aleena Gibbons](https://open.spotify.com/artist/1la8rDgi5I0JkVh94GCXaY) | [As Sweet As Can Be](https://open.spotify.com/album/5DKlqTf6kx3SynN8cshU33) | 1:51 | 2022-05-12 |  |
 | [As Sweet As Your Smile](https://open.spotify.com/track/4fcnqtnRSfV2YkYrEHHNbV) | [Tianna Dorsey](https://open.spotify.com/artist/2VsEJa7uhigAMojVKojMeg) | [As Sweet As Your Smile](https://open.spotify.com/album/3RGK9b3lVJKKvvfFtPSmtw) | 1:28 | 2022-07-27 | 2024-04-17 |
 | [As You Grow](https://open.spotify.com/track/4kcH5LaUrWwGHb1BlIAhSD) | [Kian Meyers](https://open.spotify.com/artist/4OpekS42siXryKxezaAiDf) | [As You Grow](https://open.spotify.com/album/5LvnBveGBA1agmGK5tXiAW) | 2:07 | 2021-10-05 | 2024-03-29 |
-| [Asleep In My Arms](https://open.spotify.com/track/0oYxsvmvD8TVzuZtYDsiOZ) | [Tracey McNamara](https://open.spotify.com/artist/0v1APFeqkWd1gvdqMcGr1d) | [Asleep In My Arms](https://open.spotify.com/album/0mRQIqFMX8k0zMOOglqCsG) | 1:38 | 2022-09-22 |  |
+| [Asleep In My Arms](https://open.spotify.com/track/0oYxsvmvD8TVzuZtYDsiOZ) | [Tracey McNamara](https://open.spotify.com/artist/0v1APFeqkWd1gvdqMcGr1d) | [Asleep In My Arms](https://open.spotify.com/album/0mRQIqFMX8k0zMOOglqCsG) | 1:38 | 2022-09-22 | 2024-07-27 |
 | [Au Clair de la Lune](https://open.spotify.com/track/2YQzrwE7afmaRcuonKycGZ) | [Nolan Wren](https://open.spotify.com/artist/1bglI3t0xRpDdeiYugmOz0) | [Au Clair de la Lune](https://open.spotify.com/album/2G8aO2O9Jfi6eUCs2bXSDt) | 1:49 | 2023-12-08 |  |
 | [Avec tout mon coeur](https://open.spotify.com/track/0T0OkGcyDm0RwrdUV3w6QE) | [Gill Doucet](https://open.spotify.com/artist/2EKkIIIRpn8Jhr9BVXZOXl) | [Avec tout mon coeur](https://open.spotify.com/album/2jr0qVLuyh7jhkxNBrqUKx) | 1:29 | 2022-06-08 | 2023-08-11 |
 | [Awake Asleep](https://open.spotify.com/track/6yR7TwjmKMAUViwMkoleix) | [Engla Widström](https://open.spotify.com/artist/0SXbDqBEPUBXZ7IC9s7vlD) | [Awake Asleep](https://open.spotify.com/album/5pRs7QYPSOv6I8oxyFQDru) | 1:25 | 2021-10-05 | 2022-10-29 |
 | [Baa Baa Black Sheep](https://open.spotify.com/track/4WDlK8ycKUkpE6lKwcyV13) | [Alexis George](https://open.spotify.com/artist/12vLFUjezGPpwKXHYkV3yP) | [Baa Baa Black Sheep](https://open.spotify.com/album/3Pki1suDGhOpHF0z6ifiuV) | 1:00 | 2021-10-05 | 2024-03-29 |
+| [Baa, Baa, Black Sheep](https://open.spotify.com/track/4uqmmpElZ5oKk4e98uQePi) | [Freddie Leland](https://open.spotify.com/artist/1ZcNkiNnCczkWXc5C6Ukxx) | [Baa, Baa, Black Sheep](https://open.spotify.com/album/2nAaGOvZ6SUZKThJ7n5yYp) | 2:16 | 2024-07-26 |  |
 | [Babblarnas vaggvisa](https://open.spotify.com/track/6gopKSJWGbabzToovwmEbJ) | [Little Vilma](https://open.spotify.com/artist/7l7puDAPlqZGBakfp8s3Wr) | [Babblarnas vaggvisa](https://open.spotify.com/album/4gNojEh1nck10cN21lkIf4) | 2:24 | 2022-10-28 | 2022-11-19 |
 | [Baby Bear](https://open.spotify.com/track/524hkBEPBBTRkNOykE1hti) | [Sofia Runmon](https://open.spotify.com/artist/6d1sDvwkZD0AznrXcFgDUu) | [Baby Bear](https://open.spotify.com/album/1AZO1KDhtV8y3CX1DjToPj) | 1:46 | 2024-03-22 |  |
 | [Baby Beluga](https://open.spotify.com/track/1cIGsKlc7FlX4jTzEu62sD) | [Joseph Benning](https://open.spotify.com/artist/71HPZYBaN0mpPmy1qeaE6d) | [Children's Piano Lullabies](https://open.spotify.com/album/3u9DUVSsDwlclIgFJ3QVap) | 3:19 | 2022-05-12 | 2023-04-09 |
@@ -455,7 +456,7 @@
 | [Midnight Slumber](https://open.spotify.com/track/125jmDsmfA8BG0jaTioOtu) | [Callum Waterford](https://open.spotify.com/artist/6TdZZLY5iTYyvZfPbGkame) | [Midnight Slumber](https://open.spotify.com/album/2JdUd6tVUJIaHLzd8CeurY) | 1:39 | 2023-05-05 |  |
 | [Miracle Dreaming](https://open.spotify.com/track/6IbhTMK8tI8meMOFdEVPkO) | [Casey Freeman](https://open.spotify.com/artist/38Nkn4vkDsDxi5SthUeeNf) | [Miracle Dreaming](https://open.spotify.com/album/1JJvH4mONx7GPwnPvVOd24) | 1:38 | 2023-05-05 |  |
 | [Miss Polly Had a Dolly](https://open.spotify.com/track/0GskY8C7yScHlsNtyGkjBz) | [Scarlet Patel](https://open.spotify.com/artist/6Iqj1M1NzaOzIE4d5vCcM4) | [Miss Polly Had a Dolly](https://open.spotify.com/album/22FSCVLU3H4eIq1BAELXgM) | 1:38 | 2022-12-16 | 2024-03-29 |
-| [Missy Mouse](https://open.spotify.com/track/054ym2zOgxj4X4rjaNzVHR) | [Lily Hodges](https://open.spotify.com/artist/4NNYjQ7N1R7TTNtcfTq8MS) | [Missy Mouse](https://open.spotify.com/album/7AuHtp3xdNEoMdoGa7Mv1w) | 1:51 | 2022-09-02 |  |
+| [Missy Mouse](https://open.spotify.com/track/054ym2zOgxj4X4rjaNzVHR) | [Lily Hodges](https://open.spotify.com/artist/4NNYjQ7N1R7TTNtcfTq8MS) | [Missy Mouse](https://open.spotify.com/album/7AuHtp3xdNEoMdoGa7Mv1w) | 1:51 | 2022-09-02 | 2024-07-27 |
 | [Mister Rabbit](https://open.spotify.com/track/3vjdVYb1TiEm4vmoXvIucK) | [Sloan Sandford](https://open.spotify.com/artist/1hvX04I5h74auPq2xmHvGr) | [Mister Rabbit](https://open.spotify.com/album/4WOrlCXdUXPoGzkvuDf4Oo) | 1:23 | 2024-04-16 |  |
 | [Mister Sleepy Moon](https://open.spotify.com/track/3SZrbGO50AgWlSeVU01tvF) | [Rita James](https://open.spotify.com/artist/1RvUEvUmNBz3SouH9hSzXK) | [Jasper's Boat](https://open.spotify.com/album/3e8spege3OE9u24pjcMKwK) | 2:13 | 2021-10-05 | 2023-02-18 |
 | [Mister Sun](https://open.spotify.com/track/3i2GIvwlAvo2hoWkV8shPT) | [Riff's Tunes](https://open.spotify.com/artist/6E1XgE6zuMPt2Tm92Yrl3A) | [A Purple Dinosaur Tribute](https://open.spotify.com/album/5QLaewAEw48Z6JkkAiR9u4) | 2:03 | 2021-10-05 | 2022-07-01 |
@@ -666,6 +667,7 @@
 | [Som En Saga](https://open.spotify.com/track/7e87LdroN5zBYSDiwLHuEx) | [Joanna Lynn](https://open.spotify.com/artist/4OU281BUS1sOrdDdqhVto2) | [Som En Saga](https://open.spotify.com/album/1p6VwL6fF7EbNCBpBlDehC) | 1:21 | 2023-02-17 | 2023-06-03 |
 | [Som stjärnor små](https://open.spotify.com/track/4zkjDKRClIoGCjzVzh4x6R) | [Klara Söderman](https://open.spotify.com/artist/3M4QRATGYND6tUfBYU0Qyt) | [Som stjärnor små](https://open.spotify.com/album/6TTjHMqCjQh0j3N7m08V0o) | 1:15 | 2022-08-10 | 2023-06-03 |
 | [Somewhere Out There](https://open.spotify.com/track/6OpoMm8kqOODt7ISNENERJ) | [Luca Spencer](https://open.spotify.com/artist/0hkJB3BXR3zHTu6JXW80zS) | [Somewhere Out There](https://open.spotify.com/album/1waJ5fuFNIicP9oSI6sObG) | 2:10 | 2023-05-05 |  |
+| [Somewhere Out There](https://open.spotify.com/track/0EiJJ4nsoPtbfMAnNZIW4F) | [Solara Whisper](https://open.spotify.com/artist/6swhOxLyYwb2PkQi5n23hi) | [Somewhere Out There](https://open.spotify.com/album/23MLvDNIxfV33tUOBv5TBg) | 2:19 | 2024-07-26 |  |
 | [Sommarsången](https://open.spotify.com/track/7aOwNHkXRFJLW9yzjk2HxS) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [Sommarsången](https://open.spotify.com/album/2L26QS6SAXgdjx04F3I28Y) | 1:51 | 2023-01-06 | 2023-06-03 |
 | [Somna min vän](https://open.spotify.com/track/43NVRWN6YezdBSC69DzsXC) | [Emelie Strand](https://open.spotify.com/artist/5uPtjigxXY6RYZAdvxAT96) | [Somna min vän](https://open.spotify.com/album/5YF2PQd0wV9kmyxj7KZYVR) | 1:26 | 2022-12-23 | 2023-06-03 |
 | [Somna, min kära](https://open.spotify.com/track/0FvvCVzzDKv8OhqiWWN7Bj) | [Stella Maria](https://open.spotify.com/artist/4RdgDdU3tQ2qvzToDFoQ36) | [Somna, min kära](https://open.spotify.com/album/0kKHPtOO1PyBOz5vgPWmjl) | 2:09 | 2023-01-27 | 2023-06-03 |

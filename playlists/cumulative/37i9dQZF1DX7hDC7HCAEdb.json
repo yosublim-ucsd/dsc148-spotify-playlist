@@ -819,6 +819,24 @@
     },
     {
       "album": {
+        "name": "Meltdown",
+        "url": "https://open.spotify.com/album/4ceRAwrxA75cjjA5nNjzTU"
+      },
+      "artists": [
+        {
+          "name": "Twin Atlantic",
+          "url": "https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256716,
+      "name": "Meltdown",
+      "url": "https://open.spotify.com/track/1b2AUnQiX3nUWGNNfg1Gvk"
+    },
+    {
+      "album": {
         "name": "MERCY KILL",
         "url": "https://open.spotify.com/album/0XzfAfWHhZlL7WSL6acUnx"
       },
@@ -1028,7 +1046,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 162893,
       "name": "Red Moon",
       "url": "https://open.spotify.com/track/5brIFiuTqTgZpNkPl4KKMa"
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 144519,
       "name": "Some Kind of Circle",
       "url": "https://open.spotify.com/track/662Lwio3bkZQI7p43zl8PJ"
@@ -1306,6 +1324,24 @@
       "duration_ms": 198088,
       "name": "Universal Credit",
       "url": "https://open.spotify.com/track/272KzgZU381dedN18b7qzT"
+    },
+    {
+      "album": {
+        "name": "Vision Of Us",
+        "url": "https://open.spotify.com/album/6E0OZvFmc6FqU8PcdfQ5S6"
+      },
+      "artists": [
+        {
+          "name": "LEAP",
+          "url": "https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234160,
+      "name": "Vision Of Us",
+      "url": "https://open.spotify.com/track/2frX4kY41utA2K18AW1PK6"
     },
     {
       "album": {

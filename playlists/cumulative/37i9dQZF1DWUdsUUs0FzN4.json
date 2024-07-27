@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Con licuachela en mano y perreando hasta el piso. Ad\u00e1n Cruz y El Bogueto en portada ",
+  "description": "Con licuachela en mano y perreando hasta el piso. Charly Gynn en portada ",
   "name": "CHAKAL\u00d3N ",
   "tracks": [
     {
@@ -102,7 +102,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 211084,
       "name": "3ple X - Radio Edit",
       "url": "https://open.spotify.com/track/2lDi1sm9zSkmBwkuLUjZND"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 137142,
       "name": "Alexxxa",
       "url": "https://open.spotify.com/track/0iclHfV1JXHL29EUpK7o2B"
@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 229125,
       "name": "Caramelo (feat. DJ Esli, Michael G & B&B)",
       "url": "https://open.spotify.com/track/6P84crmqVzt4685QoMnjb0"
@@ -1366,6 +1366,24 @@
       "duration_ms": 199546,
       "name": "Chakalicious",
       "url": "https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda"
+    },
+    {
+      "album": {
+        "name": "Chakalito",
+        "url": "https://open.spotify.com/album/2m9yUDahvaJnKWnjZUD02d"
+      },
+      "artists": [
+        {
+          "name": "Sherry",
+          "url": "https://open.spotify.com/artist/0qKzket0i9hSMVGTV9fnZe"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124190,
+      "name": "Chakalito",
+      "url": "https://open.spotify.com/track/1QGrlHRKaTADypgJbF3cyK"
     },
     {
       "album": {
@@ -2230,7 +2248,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 187933,
       "name": "Dispuesta",
       "url": "https://open.spotify.com/track/1Et5u2vAPtvLFPcm4Ci0Dw"
@@ -2772,6 +2790,32 @@
       "duration_ms": 168865,
       "name": "Fresas",
       "url": "https://open.spotify.com/track/4YJcmuKlYgrtCnypgbCs4L"
+    },
+    {
+      "album": {
+        "name": "La Matatana",
+        "url": "https://open.spotify.com/album/70gDfy20s1Sh9BEU1YZY1k"
+      },
+      "artists": [
+        {
+          "name": "Charly Gynn",
+          "url": "https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166511,
+      "name": "Funa",
+      "url": "https://open.spotify.com/track/4osMcQDSAIMYJWLSohVFhB"
     },
     {
       "album": {
@@ -4467,6 +4511,28 @@
     },
     {
       "album": {
+        "name": "TSUNAMI",
+        "url": "https://open.spotify.com/album/1REQLSIOdAZzja7bmeM0WV"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160812,
+      "name": "Modo Animal",
+      "url": "https://open.spotify.com/track/5EjVHiGKgQxdnOOtemXs1k"
+    },
+    {
+      "album": {
         "name": "MODO CHAKALON",
         "url": "https://open.spotify.com/album/5EBFVJPchw9dyLJRrzc3qr"
       },
@@ -6135,6 +6201,44 @@
     },
     {
       "album": {
+        "name": "Que Bien Te Ves (feat. Andre Noriega, Jey F, Ovi\u00f1a)",
+        "url": "https://open.spotify.com/album/43x0a0LF23uvXHtyUJ9QzP"
+      },
+      "artists": [
+        {
+          "name": "leinvd",
+          "url": "https://open.spotify.com/artist/1Nvn8dwVmLyQWQzzz6vDxH"
+        },
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "El Gudi",
+          "url": "https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB"
+        },
+        {
+          "name": "Andre Noriega",
+          "url": "https://open.spotify.com/artist/4IQ2uSe2L9smq76Jz048Si"
+        },
+        {
+          "name": "Jey F",
+          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
+        },
+        {
+          "name": "Ovi\u00f1a",
+          "url": "https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Que Bien Te Ves (feat. Andre Noriega, Jey F, Ovi\u00f1a)",
+      "url": "https://open.spotify.com/track/3kttLBZNxNodchxatGjlTv"
+    },
+    {
+      "album": {
         "name": "Que Le Den",
         "url": "https://open.spotify.com/album/61VKPG8wyuhRCpKW8CUPAr"
       },
@@ -6818,7 +6922,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 147768,
       "name": "Sica\u00f1eras",
       "url": "https://open.spotify.com/track/56HNo4OfVe6D3p1nAYECGc"
@@ -7080,6 +7184,32 @@
       "duration_ms": 178723,
       "name": "Tatuaje",
       "url": "https://open.spotify.com/track/2RzPVFpfWi2c0vTqzLoHwa"
+    },
+    {
+      "album": {
+        "name": "TERAPIA DE CHOQUE",
+        "url": "https://open.spotify.com/album/1iyOjIeFTikF2Tr5nqhGNc"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "DobleP",
+          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
+        },
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164424,
+      "name": "TERAPIA DE CHOQUE",
+      "url": "https://open.spotify.com/track/1HRUB9L0IRcRHzLVD4pk6C"
     },
     {
       "album": {
@@ -7448,7 +7578,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 176657,
       "name": "Tu Chula",
       "url": "https://open.spotify.com/track/47A67KbRsZsTElAAwNbslL"
@@ -7820,7 +7950,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 87422,
       "name": "VERACRUZ (GPI)",
       "url": "https://open.spotify.com/track/0loHU9t2R14XqF3QIiZQMf"

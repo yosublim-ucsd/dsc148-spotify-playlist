@@ -639,7 +639,7 @@
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 205791,
+      "duration_ms": 204653,
       "name": "Ciao Paris!",
       "url": "https://open.spotify.com/track/1KRwiG5K8nliFRualGxUNL"
     },
@@ -1464,6 +1464,24 @@
       "duration_ms": 186874,
       "name": "Gonna Go to Japan",
       "url": "https://open.spotify.com/track/4oHM3OyIsgyAg7l1eu8iT6"
+    },
+    {
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
       "album": {
@@ -2884,7 +2902,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 181750,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"

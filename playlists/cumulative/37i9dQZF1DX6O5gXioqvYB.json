@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "La nuova scena indie italiana! Cover: Teseghella",
+  "description": "La nuova scena indie italiana! Cover: Ganzo",
   "name": "Scuola Indie",
   "tracks": [
     {
@@ -38,6 +38,28 @@
       "duration_ms": 185624,
       "name": "21:15",
       "url": "https://open.spotify.com/track/7fpxvlQ0jIKwxj2YjBLrHt"
+    },
+    {
+      "album": {
+        "name": "A me fa schifo l'America",
+        "url": "https://open.spotify.com/album/0vifYd4MXA8MBmr181hPxL"
+      },
+      "artists": [
+        {
+          "name": "Livrizzi",
+          "url": "https://open.spotify.com/artist/5RFd3ineLehbrXEWD9qZ2j"
+        },
+        {
+          "name": "Kaiz\u00e9n",
+          "url": "https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191868,
+      "name": "A me fa schifo l'America",
+      "url": "https://open.spotify.com/track/6I4OeRyto3U4gNY2oiSepv"
     },
     {
       "album": {
@@ -214,7 +236,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 150064,
       "name": "Bene Bene",
       "url": "https://open.spotify.com/track/0xJJgvSmh55Ens4WYFXzJg"
@@ -272,7 +294,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 143650,
       "name": "Che voglia",
       "url": "https://open.spotify.com/track/3jy7pGk9ETfue0bi8ivfcn"
@@ -294,6 +316,24 @@
       "duration_ms": 180000,
       "name": "Chinaglia",
       "url": "https://open.spotify.com/track/5WAFTRtlu3yBSVR7i2817K"
+    },
+    {
+      "album": {
+        "name": "Coca Malib\u00f9",
+        "url": "https://open.spotify.com/album/0lkr2DmnU8rHWSdi9aPmlD"
+      },
+      "artists": [
+        {
+          "name": "Sir Giove",
+          "url": "https://open.spotify.com/artist/50Pi0iTbnC3hDmCx6Bge2i"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Coca Malib\u00f9",
+      "url": "https://open.spotify.com/track/0exExNFTaK4CFIu8nlAhWn"
     },
     {
       "album": {
@@ -333,6 +373,24 @@
     },
     {
       "album": {
+        "name": "Come un cane",
+        "url": "https://open.spotify.com/album/32VsW1b0TZEcDxAgPH2SLl"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6ly",
+          "url": "https://open.spotify.com/artist/4GBjWACIYE3kPxTLNkBiPo"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211330,
+      "name": "Come un cane",
+      "url": "https://open.spotify.com/track/4JujqIRmOF4x0ajNH1sb6o"
+    },
+    {
+      "album": {
         "name": "Pensiero Stupendo Universale",
         "url": "https://open.spotify.com/album/0vxJ5R1vdbV0wHU8Q8E007"
       },
@@ -344,7 +402,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 221353,
       "name": "Comfort zone",
       "url": "https://open.spotify.com/track/0F8WxJdboc9dINI2tPtSho"
@@ -384,6 +442,28 @@
       "duration_ms": 195086,
       "name": "Costellazione",
       "url": "https://open.spotify.com/track/5Jox5uSfaGkJ2Wm7zXEzTY"
+    },
+    {
+      "album": {
+        "name": "Cu'mme",
+        "url": "https://open.spotify.com/album/25FWNzlqZOdjS78c1ewthP"
+      },
+      "artists": [
+        {
+          "name": "Ganzo",
+          "url": "https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw"
+        },
+        {
+          "name": "Damiank",
+          "url": "https://open.spotify.com/artist/0HK1JtedHdz3a76ZpWaEsc"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162011,
+      "name": "Cu'mme",
+      "url": "https://open.spotify.com/track/7o4YxPFeOBZHTncM1HgvPx"
     },
     {
       "album": {
@@ -510,7 +590,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 219906,
       "name": "ex",
       "url": "https://open.spotify.com/track/2VfkDQelVVX0gVRRiQ5Ela"
@@ -590,7 +670,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 140406,
       "name": "Finto cielo",
       "url": "https://open.spotify.com/track/6mT2w1ht77DkG5aKXzSJhc"
@@ -612,6 +692,24 @@
       "duration_ms": 150000,
       "name": "Fiori di Loto",
       "url": "https://open.spotify.com/track/2FlyhgIF6RSITRkLqUER1I"
+    },
+    {
+      "album": {
+        "name": "foglio di carta",
+        "url": "https://open.spotify.com/album/1fa0G9SW8dg3Al9yO8xz6w"
+      },
+      "artists": [
+        {
+          "name": "fil",
+          "url": "https://open.spotify.com/artist/2Dgp0r5wvNCnj5XdvGaK7u"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159452,
+      "name": "foglio di carta",
+      "url": "https://open.spotify.com/track/3vgbh5EKi4JeX8hi8jnyjN"
     },
     {
       "album": {
@@ -648,6 +746,24 @@
       "duration_ms": 167451,
       "name": "Fratello",
       "url": "https://open.spotify.com/track/7HGdifYN6emWwGIC5QtHSr"
+    },
+    {
+      "album": {
+        "name": "GARAGE MARE",
+        "url": "https://open.spotify.com/album/6K21nKUpD6zH3ZWrNHaPrT"
+      },
+      "artists": [
+        {
+          "name": "Oh Baro",
+          "url": "https://open.spotify.com/artist/5DOIMn0GH5uVbYL1ssg8Q5"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161501,
+      "name": "GARAGE MARE",
+      "url": "https://open.spotify.com/track/4TU0PgLtOxkSKv1wytyu5N"
     },
     {
       "album": {
@@ -774,14 +890,14 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 139726,
       "name": "Limiti",
       "url": "https://open.spotify.com/track/7sIpRZZswRqrVWqEK6TB8o"
     },
     {
       "album": {
-        "name": "LO FAR\u00d2 DOMANI (feat. MAGENTA FLORA)",
+        "name": "LO FAR\u00d2 DOMANI",
         "url": "https://open.spotify.com/album/3bzeG9bHPD8VzJWGjw31l7"
       },
       "artists": [
@@ -798,7 +914,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 145320,
-      "name": "LO FAR\u00d2 DOMANI (feat. MAGENTA FLORA)",
+      "name": "LO FAR\u00d2 DOMANI",
       "url": "https://open.spotify.com/track/2SiacQcn31WMD8CfWbsGUZ"
     },
     {
@@ -818,6 +934,24 @@
       "duration_ms": 205758,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/1FAM18Z4mFvKwYxketR1OT"
+    },
+    {
+      "album": {
+        "name": "luci dell'autostrada",
+        "url": "https://open.spotify.com/album/2RWLqaalwSC4qK9nCKokZF"
+      },
+      "artists": [
+        {
+          "name": "Biava",
+          "url": "https://open.spotify.com/artist/3tnRz0rA9YnwZ7BUv958vk"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "luci dell'autostrada",
+      "url": "https://open.spotify.com/track/1njaBfkZQy1zFZVdBRevzU"
     },
     {
       "album": {
@@ -850,7 +984,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 161813,
       "name": "ma come sto facendo?",
       "url": "https://open.spotify.com/track/4k5PKgHzQ1vfRA9SQAYq9H"
@@ -875,6 +1009,42 @@
     },
     {
       "album": {
+        "name": "Mai",
+        "url": "https://open.spotify.com/album/2l4QPoQ4gxcL8EliWt2ZxP"
+      },
+      "artists": [
+        {
+          "name": "DUOPOP",
+          "url": "https://open.spotify.com/artist/3k4rjybHf6uCbfWJgA0hbo"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150259,
+      "name": "Mai",
+      "url": "https://open.spotify.com/track/5T68iQz4aGE9y0itqNQwF2"
+    },
+    {
+      "album": {
+        "name": "Maldini",
+        "url": "https://open.spotify.com/album/5sVnpEBkOLwlluRMSdBFgo"
+      },
+      "artists": [
+        {
+          "name": "Migliorini",
+          "url": "https://open.spotify.com/artist/66oVpP4dzMIV5hjpCUgdGN"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190578,
+      "name": "Maldini",
+      "url": "https://open.spotify.com/track/1STuYs2CTpIIwff4tdM3YT"
+    },
+    {
+      "album": {
         "name": "SUPERFLUO",
         "url": "https://open.spotify.com/album/4ijDSY9bIVGqvv9rNSbzq0"
       },
@@ -894,6 +1064,28 @@
       "duration_ms": 155481,
       "name": "MALE, MALISSIMO",
       "url": "https://open.spotify.com/track/3kQ9aTQdGmHrxi7KwW3Shi"
+    },
+    {
+      "album": {
+        "name": "Manifesto Egoista (feat. Carlo Amleto)",
+        "url": "https://open.spotify.com/album/37TzRpbavzizY6wHoXwSBp"
+      },
+      "artists": [
+        {
+          "name": "Folcast",
+          "url": "https://open.spotify.com/artist/1PWmqY7ed9o6dgpAYYWZmS"
+        },
+        {
+          "name": "Carlo Amleto",
+          "url": "https://open.spotify.com/artist/0RoPAqbX6Dzbr81tQZB6E5"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173586,
+      "name": "Manifesto Egoista (feat. Carlo Amleto)",
+      "url": "https://open.spotify.com/track/0wRVfbqHnpNXgTLRLmmrJ9"
     },
     {
       "album": {
@@ -988,6 +1180,24 @@
       "duration_ms": 159767,
       "name": "MONDO CONVENIENZA",
       "url": "https://open.spotify.com/track/0IKSHbq0ArWlTbvdP0fxAq"
+    },
+    {
+      "album": {
+        "name": "Mosche",
+        "url": "https://open.spotify.com/album/7H4vm4CBeNtkjGRzBzPpOE"
+      },
+      "artists": [
+        {
+          "name": "43.Nove",
+          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155036,
+      "name": "Mosche",
+      "url": "https://open.spotify.com/track/6C6EyA832m59DutYTzZwFl"
     },
     {
       "album": {
@@ -1096,7 +1306,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 171885,
       "name": "Non Siamo Broke",
       "url": "https://open.spotify.com/track/0RLxtPf3Uel9Z9zMtoZM3l"
@@ -1150,7 +1360,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 210500,
       "name": "NULLA (non ci ho capito)",
       "url": "https://open.spotify.com/track/2Fo5zKMlcjLLPEAbSpZBSI"
@@ -1204,7 +1414,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 154500,
       "name": "Ogni maledetta domenica",
       "url": "https://open.spotify.com/track/0HS43s0nNeGFsnn1ZKlrxa"
@@ -1298,6 +1508,24 @@
       "duration_ms": 183673,
       "name": "PIENSE A T\u2019ANNAMMUR\u00c1",
       "url": "https://open.spotify.com/track/1pRctZZmX9tVE330JUDN9U"
+    },
+    {
+      "album": {
+        "name": "Polpastrelli",
+        "url": "https://open.spotify.com/album/6q3emqCWz6naRFoKweiQJ7"
+      },
+      "artists": [
+        {
+          "name": "GIROTTI",
+          "url": "https://open.spotify.com/artist/2MIjG40Nta91vk0nG7Rkak"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211461,
+      "name": "Polpastrelli",
+      "url": "https://open.spotify.com/track/7ujJ9c0LozCmL0gEh5uFcK"
     },
     {
       "album": {
@@ -1458,6 +1686,28 @@
       "duration_ms": 165172,
       "name": "SISSI 2",
       "url": "https://open.spotify.com/track/7kOXcYjbXmUW2dTF6DRdsV"
+    },
+    {
+      "album": {
+        "name": "Solo per guardarti",
+        "url": "https://open.spotify.com/album/6ocvw6K862kzRuEd2PDgAK"
+      },
+      "artists": [
+        {
+          "name": "ALBE.x",
+          "url": "https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb"
+        },
+        {
+          "name": "Kr1",
+          "url": "https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116317,
+      "name": "Solo per guardarti",
+      "url": "https://open.spotify.com/track/7KjSp39rTMRU7FaasDEzpa"
     },
     {
       "album": {
@@ -1739,6 +1989,28 @@
     },
     {
       "album": {
+        "name": "VELENO E MARACUJA",
+        "url": "https://open.spotify.com/album/5a5UfDW7R2DjDlDndS12a3"
+      },
+      "artists": [
+        {
+          "name": "Stefano Lepri",
+          "url": "https://open.spotify.com/artist/7pGg2loAuRpzQufbhVRYE8"
+        },
+        {
+          "name": "GIOVAPI\u00d9GIOVA",
+          "url": "https://open.spotify.com/artist/2bJ8pwwyjQJfeVcLRQDnlx"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159039,
+      "name": "VELENO E MARACUJA",
+      "url": "https://open.spotify.com/track/4XP8pjNInch9PLpzac2BiV"
+    },
+    {
+      "album": {
         "name": "vita lenta",
         "url": "https://open.spotify.com/album/3Z7FzcyC8WE0SdV7WpBowN"
       },
@@ -1790,6 +2062,28 @@
       "duration_ms": 169466,
       "name": "yo-yo",
       "url": "https://open.spotify.com/track/7H2aXtVGFRkbk8faB8qAgI"
+    },
+    {
+      "album": {
+        "name": "\u00c8 uscita la carta del diavolo (feat. MILLE)",
+        "url": "https://open.spotify.com/album/4KxFwXWmzkN6rPJ1UXsd2Z"
+      },
+      "artists": [
+        {
+          "name": "Amalfitano",
+          "url": "https://open.spotify.com/artist/6etd8FRodAwSq5dBetjTHJ"
+        },
+        {
+          "name": "MILLE",
+          "url": "https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246750,
+      "name": "\u00c8 uscita la carta del diavolo (feat. MILLE)",
+      "url": "https://open.spotify.com/track/0jOUmxv7YZgZEZRjTlhUJx"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6O5gXioqvYB"

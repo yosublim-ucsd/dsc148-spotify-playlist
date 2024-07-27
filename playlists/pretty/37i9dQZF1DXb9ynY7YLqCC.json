@@ -1,6 +1,6 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 172954,
+  "num_followers": 173090,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-06-12 23:20:54",
       "album": {
-        "name": "No Es Solo Rock And Roll",
-        "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 248600,
-      "name": "Esta Saliendo El Sol",
-      "url": "https://open.spotify.com/track/2pmHBQiIjVfTyn3p1rRbSB"
-    },
-    {
-      "added_at": "2024-06-12 23:20:54",
-      "album": {
         "name": "Antihumano",
         "url": "https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 259186,
       "name": "Arrancacorazones",
       "url": "https://open.spotify.com/track/2zogXcCqvKJwh3o67W3GG3"
+    },
+    {
+      "added_at": "2024-06-12 23:20:54",
+      "album": {
+        "name": "No Es Solo Rock And Roll",
+        "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 248600,
+      "name": "Esta Saliendo El Sol",
+      "url": "https://open.spotify.com/track/2pmHBQiIjVfTyn3p1rRbSB"
     },
     {
       "added_at": "2024-06-12 23:20:54",
@@ -1083,8 +1083,8 @@
     {
       "added_at": "2024-06-12 23:20:54",
       "album": {
-        "name": "No Me Dejes Caer",
-        "url": "https://open.spotify.com/album/1JiB6fCMmdvt0qyHWK04fR"
+        "name": "Buen Recuerdo",
+        "url": "https://open.spotify.com/album/7HUBMKHKAZ7kVBfacExMhR"
       },
       "artists": [
         {
@@ -1092,9 +1092,9 @@
           "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
         }
       ],
-      "duration_ms": 258540,
-      "name": "No Me Dejes Caer",
-      "url": "https://open.spotify.com/track/7wCalELbatgVcdYWHB6ybd"
+      "duration_ms": 251843,
+      "name": "Buen Recuerdo",
+      "url": "https://open.spotify.com/track/7akXU0fDGqQ1QRWooxo1Ug"
     },
     {
       "added_at": "2024-06-12 23:20:54",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-06-12 23:20:54",
       "album": {
-        "name": "ROCK BARRIAL TIPO COUNTRY",
-        "url": "https://open.spotify.com/album/336pbkOxV2KKUif8DKWF2o"
-      },
-      "artists": [
-        {
-          "name": "Terapia",
-          "url": "https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk"
-        }
-      ],
-      "duration_ms": 169677,
-      "name": "ROCK BARRIAL TIPO COUNTRY",
-      "url": "https://open.spotify.com/track/3fA6H7qXllsOiSi7n445Dk"
-    },
-    {
-      "added_at": "2024-06-12 23:20:54",
-      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/2TzE5fyGKtTkci8iFNf6zW"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 289654,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/3pMo77B4r1NwwIK78lO4xf"
+    },
+    {
+      "added_at": "2024-06-12 23:20:54",
+      "album": {
+        "name": "ROCK BARRIAL TIPO COUNTRY",
+        "url": "https://open.spotify.com/album/336pbkOxV2KKUif8DKWF2o"
+      },
+      "artists": [
+        {
+          "name": "Terapia",
+          "url": "https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk"
+        }
+      ],
+      "duration_ms": 169677,
+      "name": "ROCK BARRIAL TIPO COUNTRY",
+      "url": "https://open.spotify.com/track/3fA6H7qXllsOiSi7n445Dk"
     },
     {
       "added_at": "2024-06-12 23:20:54",
@@ -1211,8 +1211,8 @@
     {
       "added_at": "2024-06-12 23:20:54",
       "album": {
-        "name": "Buen Recuerdo",
-        "url": "https://open.spotify.com/album/7HUBMKHKAZ7kVBfacExMhR"
+        "name": "No Me Dejes Caer",
+        "url": "https://open.spotify.com/album/1JiB6fCMmdvt0qyHWK04fR"
       },
       "artists": [
         {
@@ -1220,9 +1220,9 @@
           "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
         }
       ],
-      "duration_ms": 251843,
-      "name": "Buen Recuerdo",
-      "url": "https://open.spotify.com/track/7akXU0fDGqQ1QRWooxo1Ug"
+      "duration_ms": 258540,
+      "name": "No Me Dejes Caer",
+      "url": "https://open.spotify.com/track/7wCalELbatgVcdYWHB6ybd"
     },
     {
       "added_at": "2024-06-12 23:20:54",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-06-12 23:20:54",
       "album": {
-        "name": "Espejos",
-        "url": "https://open.spotify.com/album/3ssZtOx9wK8IPybx1sdwQd"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 300181,
-      "name": "Vas a Bailar",
-      "url": "https://open.spotify.com/track/6f1qmIb4Q3UelVAktv9O1A"
-    },
-    {
-      "added_at": "2024-06-12 23:20:54",
-      "album": {
         "name": "Casi Justicia Social",
         "url": "https://open.spotify.com/album/3ltIM1RxMeZYena45OURMS"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 161813,
       "name": "Misterios",
       "url": "https://open.spotify.com/track/5wWlvo0ECncL2lfhBzrmqi"
+    },
+    {
+      "added_at": "2024-06-12 23:20:54",
+      "album": {
+        "name": "Espejos",
+        "url": "https://open.spotify.com/album/3ssZtOx9wK8IPybx1sdwQd"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 300181,
+      "name": "Vas a Bailar",
+      "url": "https://open.spotify.com/track/6f1qmIb4Q3UelVAktv9O1A"
     },
     {
       "added_at": "2024-06-12 23:20:54",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-06-12 23:20:54",
       "album": {
-        "name": "Seremos",
-        "url": "https://open.spotify.com/album/7a5hpHnoee3uX6rfOega5S"
-      },
-      "artists": [
-        {
-          "name": "Salta La Banca",
-          "url": "https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC"
-        }
-      ],
-      "duration_ms": 208186,
-      "name": "Seremos",
-      "url": "https://open.spotify.com/track/0AtNtseGriGF4sUXaVxBwq"
-    },
-    {
-      "added_at": "2024-06-12 23:20:54",
-      "album": {
         "name": "Casi Justicia Social",
         "url": "https://open.spotify.com/album/3ltIM1RxMeZYena45OURMS"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 339440,
       "name": "Suerte",
       "url": "https://open.spotify.com/track/0lntiOJwWI3yF3LDP8CG2P"
+    },
+    {
+      "added_at": "2024-06-12 23:20:54",
+      "album": {
+        "name": "Seremos",
+        "url": "https://open.spotify.com/album/7a5hpHnoee3uX6rfOega5S"
+      },
+      "artists": [
+        {
+          "name": "Salta La Banca",
+          "url": "https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC"
+        }
+      ],
+      "duration_ms": 208186,
+      "name": "Seremos",
+      "url": "https://open.spotify.com/track/0AtNtseGriGF4sUXaVxBwq"
     },
     {
       "added_at": "2024-06-12 23:20:54",

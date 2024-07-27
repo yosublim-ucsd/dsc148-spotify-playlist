@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: 3BRAT, Bruno",
+  "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Holak",
   "name": "alt rap",
   "tracks": [
     {
@@ -464,7 +464,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 210718,
       "name": "Bloki",
       "url": "https://open.spotify.com/track/7pidP1a19WxcrTdnueqSse"
@@ -546,7 +546,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 142141,
       "name": "Braveheart",
       "url": "https://open.spotify.com/track/41ffY33lgWYV2hnObz9i1a"
@@ -919,6 +919,28 @@
     },
     {
       "album": {
+        "name": "FUCK KORDEN FUCK HOLAK",
+        "url": "https://open.spotify.com/album/6KTFjm2KXk9FG9vKLc6slo"
+      },
+      "artists": [
+        {
+          "name": "Holak",
+          "url": "https://open.spotify.com/artist/4nOJhl27dVniTozwVZYa4c"
+        },
+        {
+          "name": "Mlody Korden",
+          "url": "https://open.spotify.com/artist/7pSrnhnLz5gKS5LZ9WvhlG"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207586,
+      "name": "FUCK KORDEN FUCK HOLAK",
+      "url": "https://open.spotify.com/track/4m42XUYdTlXE3VvTkG5aAd"
+    },
+    {
+      "album": {
         "name": "Gdzie by\u015b si\u0119 chcia\u0142a obudzi\u0107?",
         "url": "https://open.spotify.com/album/4K5ZaGcVQMpCGkMDK9jeep"
       },
@@ -1140,7 +1162,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 200738,
       "name": "Jestem tylko py\u0142em",
       "url": "https://open.spotify.com/track/09AEGZjxD3DcDmdl7IdIXe"
@@ -1599,6 +1621,24 @@
     },
     {
       "album": {
+        "name": "Nie mam czasu",
+        "url": "https://open.spotify.com/album/3WIiYeCJkZhvhNHNG0meuG"
+      },
+      "artists": [
+        {
+          "name": "DAW!D",
+          "url": "https://open.spotify.com/artist/7rZGnHET5LuUGJqOOfnhne"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138460,
+      "name": "Nie mam czasu",
+      "url": "https://open.spotify.com/track/1AdMVLsBmQdpLpDc78PlI3"
+    },
+    {
+      "album": {
         "name": "NIE ZAPOMNIA\u0141EM",
         "url": "https://open.spotify.com/album/36rW8L6xWVlgPKtd49j98O"
       },
@@ -2041,6 +2081,24 @@
     },
     {
       "album": {
+        "name": "RZADKO PISZ\u0118 O MI\u0141O\u015aCI",
+        "url": "https://open.spotify.com/album/6CI99w5MTL7ZaNKJDPtVU0"
+      },
+      "artists": [
+        {
+          "name": "shymczyk",
+          "url": "https://open.spotify.com/artist/6VdCdBSTFleEXd2fbemtGe"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "RZADKO PISZ\u0118 O MI\u0141O\u015aCI",
+      "url": "https://open.spotify.com/track/2A5rFvN3YMCbaLikWTMFB8"
+    },
+    {
+      "album": {
         "name": "TEN ALBUM JEST O CZYM\u015a ISTOTNYM",
         "url": "https://open.spotify.com/album/2Ezw8LrD9JPgUt9oWf7Bsq"
       },
@@ -2356,7 +2414,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 172380,
       "name": "Ten Jeden Dzie\u0144",
       "url": "https://open.spotify.com/track/4xQcZCQFyAntJ6Fatpghbj"
@@ -2647,6 +2705,24 @@
     },
     {
       "album": {
+        "name": "WHOOP WHOOP",
+        "url": "https://open.spotify.com/album/19pclJrXhH67ncIWTtATPk"
+      },
+      "artists": [
+        {
+          "name": "Spectra",
+          "url": "https://open.spotify.com/artist/2JJM6C5XV1q6Pigdy5lGUp"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117015,
+      "name": "WHOOP WHOOP",
+      "url": "https://open.spotify.com/track/1A4uMh4qfInD40KfFYimE7"
+    },
+    {
+      "album": {
         "name": "Wspania\u0142y \u015bwiat",
         "url": "https://open.spotify.com/album/5tCV1jri0G3Mr5iQ4z2LLJ"
       },
@@ -2834,10 +2910,32 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 136888,
       "name": "Zobacz",
       "url": "https://open.spotify.com/track/07BdmTcSqR18rYI4kAlhUv"
+    },
+    {
+      "album": {
+        "name": "Zoo",
+        "url": "https://open.spotify.com/album/7trwYuGY3gGK5dqpEZ7Bot"
+      },
+      "artists": [
+        {
+          "name": "Meek, Oh Why?",
+          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
+        },
+        {
+          "name": "BIESY",
+          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158890,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/7rG1GqSwfPCuxFAT7Kiobh"
     },
     {
       "album": {

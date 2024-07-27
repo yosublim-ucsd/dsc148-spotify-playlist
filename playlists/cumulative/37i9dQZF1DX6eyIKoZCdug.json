@@ -476,7 +476,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 228571,
       "name": "Around Here",
       "url": "https://open.spotify.com/track/78yX0DM4KLeRu0MzUwBD6X"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 209523,
       "name": "ATALAKOU",
       "url": "https://open.spotify.com/track/1b3MYLeqwxGwUCeWc3WtSZ"
@@ -1430,7 +1430,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 228750,
       "name": "Gorilla - Radio Edit",
       "url": "https://open.spotify.com/track/07RX3FwnpN61suArirCyx2"
@@ -1838,6 +1838,32 @@
       "duration_ms": 343602,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/3QsofJutkp6Kgz9ejHkMrI"
+    },
+    {
+      "album": {
+        "name": "In This Moment (Cornelius SA Remix)",
+        "url": "https://open.spotify.com/album/64DCkNunRpnL89pVCIukA5"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w"
+        },
+        {
+          "name": "Jordan Arts",
+          "url": "https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ"
+        },
+        {
+          "name": "Cornelius SA",
+          "url": "https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357024,
+      "name": "In This Moment - Cornelius SA Remix",
+      "url": "https://open.spotify.com/track/3dOEyrDhlYcWzgcKCvBVe5"
     },
     {
       "album": {
@@ -3131,6 +3157,24 @@
     },
     {
       "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/5MF6WR5Yn3xDtxDw9NzXLR"
+      },
+      "artists": [
+        {
+          "name": "Deola",
+          "url": "https://open.spotify.com/artist/6l1wMjMtPsD4Y7khSsbjyR"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203170,
+      "name": "OLOLUFE",
+      "url": "https://open.spotify.com/track/1wbyop3pSD6QY03vwwu1T0"
+    },
+    {
+      "album": {
         "name": "One Touch",
         "url": "https://open.spotify.com/album/2aYXVu6p7YCnCUmIwosOP7"
       },
@@ -3951,6 +3995,28 @@
     },
     {
       "album": {
+        "name": "Spell-Dial",
+        "url": "https://open.spotify.com/album/7wpXnVwohFTtqzIvKydDzx"
+      },
+      "artists": [
+        {
+          "name": "Markus Wormstorm",
+          "url": "https://open.spotify.com/artist/71drLE0EKMGWwlF5NDt9S8"
+        },
+        {
+          "name": "Qiniso Van Damme",
+          "url": "https://open.spotify.com/artist/0XeJ4ltGFqHHKQduMqIgVp"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Spell-Dial",
+      "url": "https://open.spotify.com/track/4M3FV9igDRJPm062z10edS"
+    },
+    {
+      "album": {
         "name": "Storybook",
         "url": "https://open.spotify.com/album/3xO3Tdm7i2XZTDbVNt33WD"
       },
@@ -4190,6 +4256,28 @@
       "duration_ms": 361810,
       "name": "Thandaza",
       "url": "https://open.spotify.com/track/4x6jx7AeSyE7PlQTdCjIJs"
+    },
+    {
+      "album": {
+        "name": "The Answer",
+        "url": "https://open.spotify.com/album/721bdpxcarlR2XVNXBXBYE"
+      },
+      "artists": [
+        {
+          "name": "Kitty Amor",
+          "url": "https://open.spotify.com/artist/0ZaCzPKSboLncLMhFaBfcT"
+        },
+        {
+          "name": "AWEN",
+          "url": "https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235963,
+      "name": "The Answer",
+      "url": "https://open.spotify.com/track/7uB68i8UtJ3jRmreJQM9Lv"
     },
     {
       "album": {

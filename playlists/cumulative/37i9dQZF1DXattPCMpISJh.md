@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-275 songs - 17 hr 2 min
+276 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Colors](https://open.spotify.com/track/4475NmYiujibxkv2O7sWED) | [Thunder Jackson](https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ) | [Colors](https://open.spotify.com/album/1aaOLWZRf1OUcXYlVauuxV) | 3:08 | 2021-07-16 | 2023-01-21 |
 | [Come Alive](https://open.spotify.com/track/0THqo8t9diPsxUzJaRMuAH) | [Loren Allred](https://open.spotify.com/artist/0LyOADBjj28cbvJWTXUEGA), [Scott Hoying](https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG) | [Come Alive](https://open.spotify.com/album/2pH3M9jjYrEGYIvFiouJ6A) | 3:44 | 2024-06-28 |  |
 | [Conversation Starter](https://open.spotify.com/track/59RtIEhD4XJkRmfLj1eEAM) | [Tomode](https://open.spotify.com/artist/5Q5iKvamaJt7Gz1Bz1JRGA) | [Conversation Starter](https://open.spotify.com/album/0IPQwJgxXg1tq6Ip4JP3iW) | 3:21 | 2023-04-07 |  |
-| [Cool](https://open.spotify.com/track/6GHbjeof74MIvFTPsgeglv) | [Foreignlocal.](https://open.spotify.com/artist/4aS4qAMRZ3IzRnV8AA4lEs), [Sunsets](https://open.spotify.com/artist/3YiHDe6lmmKjRaN6jzJoRA) | [Cool](https://open.spotify.com/album/2WZr3RJUsuWLYC27t05Qj9) | 3:01 | 2023-01-13 |  |
+| [Cool](https://open.spotify.com/track/6GHbjeof74MIvFTPsgeglv) | [Foreignlocal.](https://open.spotify.com/artist/4aS4qAMRZ3IzRnV8AA4lEs), [Sunsets](https://open.spotify.com/artist/3YiHDe6lmmKjRaN6jzJoRA) | [Cool](https://open.spotify.com/album/2WZr3RJUsuWLYC27t05Qj9) | 3:01 | 2023-01-13 | 2024-07-27 |
 | [Crazay](https://open.spotify.com/track/4r2X6g6gOiHBCaOOZJbdw7) | [Art of Tones](https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy) | [Crazay / Not The Same](https://open.spotify.com/album/3Dmb0hg5sFVmHaBAK74fVE) | 3:45 | 2022-04-29 | 2024-04-13 |
 | [Crazy World \- Opolopo Radio Remix](https://open.spotify.com/track/3UZOU7uOqYcf5oPCLf5Hyo) | [Kenny Thomas](https://open.spotify.com/artist/5fYju5a87cW9osqsxH0JwB), [Opolopo](https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94) | [Crazy World \(Opolopo Remix\)](https://open.spotify.com/album/1YTQww6bWfyyf2Z4JMf2gm) | 3:31 | 2022-10-28 | 2023-08-05 |
 | [Cry \(Just A Little\)](https://open.spotify.com/track/4DtxGurCuuY1yZLoAXLxFp) | [Disko Junkie](https://open.spotify.com/artist/0E3yCtI9D8vUfIIWDOO7zP) | [Cry \(Just A Little\)](https://open.spotify.com/album/2p7PtQmmI95HyirutUbrDp) | 3:44 | 2022-03-18 | 2023-03-04 |
@@ -120,6 +120,7 @@
 | [Highway Runner \- Ladies on Mars "Street Race" Remix](https://open.spotify.com/track/21BXst2WHRctU1BoynqJQH) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U), [Ladies On Mars](https://open.spotify.com/artist/6tJrp4FYVXfFRZ3oIBD4SU) | [I'm a Rainbow: Recovered & Recoloured](https://open.spotify.com/album/4TJZ8pzdWWXMDNYAJX7Psy) | 3:11 | 2021-11-19 | 2022-09-10 |
 | [Honey Boy \(feat\. Nile Rodgers & Shenseea\) \- Extended Version](https://open.spotify.com/track/0wKCTce0iM4zvsI91qlp3X) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Honey Boy \(feat\. Nile Rodgers & Shenseea\) \[Extended Version\]](https://open.spotify.com/album/6q3RTRma8OfHW8PAFYUKqS) | 7:11 | 2024-05-17 |  |
 | [HOT](https://open.spotify.com/track/1UVRdZRAiW3GomKSg81PLE) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [HOT](https://open.spotify.com/album/1KmisFnVTIct9oBmATe41I) | 3:38 | 2023-04-28 |  |
+| [Hotel Dream Girl](https://open.spotify.com/track/4NN6lhuYIIXrL1dLISYLHl) | [Maty Noyes](https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA), [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Hotel Dream Girl](https://open.spotify.com/album/2vbqvXDyk9nwrSj76jkSlA) | 3:43 | 2024-07-26 |  |
 | [I Am](https://open.spotify.com/track/6MVk4SW25q1CNENQE1RHyv) | [Michaela Jaé](https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5) | [I Am](https://open.spotify.com/album/06AscAzNNnjwtxfzXgrElI) | 2:03 | 2024-06-14 |  |
 | [I Believe It](https://open.spotify.com/track/5yuscwN84KrGaj06WiUUKy) | [Venice Club](https://open.spotify.com/artist/5nn6vlKul0h0t1ESe524Vx) | [I Believe It](https://open.spotify.com/album/7IqVMiFRYTIOkQP0TC5dW8) | 2:47 | 2022-12-16 | 2023-05-13 |
 | [I Feel It \(I Won't Let You Go\)](https://open.spotify.com/track/2G8OqEopVrlF41HkAhYGB0) | [Mr\. Kuy](https://open.spotify.com/artist/2XeHVui4sJccieVojHmjxW) | [I Feel It \(I Won't Let You Go\)](https://open.spotify.com/album/067M5Q2YATyXqd2Anm6vq6) | 2:23 | 2023-03-03 | 2023-04-15 |

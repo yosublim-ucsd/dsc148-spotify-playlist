@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,084 songs - 2 day 8 hr 4 min
+1,086 songs - 2 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -613,6 +613,7 @@
 | [Monkey Vs Zookeeper](https://open.spotify.com/track/0AFzhFnYIcftHFxGm9CSAs) | [Mountkid](https://open.spotify.com/artist/5HIaWUt7K7zHFsUZDy5fvX) | [Monkey Vs Zookeeper](https://open.spotify.com/album/33A2H3S9dyQQl4SKuuKX1l) | 3:27 | 2022-09-23 | 2022-10-29 |
 | [MONTAGEM \- IMPARÁVEL](https://open.spotify.com/track/5IKgQI6RfSdOL57iBp3isa) | [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Nulteex](https://open.spotify.com/artist/2KpRPEeU6cKWTdSpdKL2zj), [OTVphonk](https://open.spotify.com/artist/0AocRNEO5hAP398nPuJV8a), [PYTT NB27E](https://open.spotify.com/artist/0Ydzn0gJyMcgxO2IbudsT5) | [MONTAGEM IMPARÁVEL](https://open.spotify.com/album/7IjPafXZgjVjAXQInB4Jse) | 1:30 | 2023-11-10 | 2023-12-19 |
 | [MONTAGEM BATIDA CATIVANTE](https://open.spotify.com/track/0bDEkp4c1sGg8LpikNPlCI) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4), [nxtjvr](https://open.spotify.com/artist/62Ub8v044KkVnGx090irXv), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [MONTAGEM BATIDA CATIVANTE](https://open.spotify.com/album/3v8ffmJaEuFvAxYlPPWFn5) | 1:32 | 2023-09-01 | 2023-10-28 |
+| [Montagem Bibi Game](https://open.spotify.com/track/7ag4RgJ24JDC4Eg4JEmW42) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV) | [Montagem Bibi Game](https://open.spotify.com/album/1rfgnzUKn2OIjMDeHivXot) | 1:36 | 2024-07-26 |  |
 | [Montagem Coral Killer](https://open.spotify.com/track/72btxTXqmlgNz6aMBub60l) | [1HXSX](https://open.spotify.com/artist/11pkkllIaYm8iO0W9cUTJY) | [Montagem Coral Killer](https://open.spotify.com/album/2iBFtnCIEcqIQKvTvurK5b) | 2:18 | 2024-01-29 | 2024-05-15 |
 | [MONTAGEM DO H](https://open.spotify.com/track/6SaXGy6CqDqEgvOuhWAXoP) | [shonci](https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl), [$pidxrs?808](https://open.spotify.com/artist/17O62eZOtm0vgSiCwDHHeO) | [MONTAGEM DO H](https://open.spotify.com/album/704NgQhNJixiWHJn2KUC8i) | 1:50 | 2023-11-10 | 2023-12-19 |
 | [Montagem Euphoria Game](https://open.spotify.com/track/0CJ6EVnM3df8fzMcDROVmN) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Euphoria Game](https://open.spotify.com/album/1M7M3rVXKfP2zk23fvlVPD) | 1:21 | 2024-02-02 |  |
@@ -626,6 +627,7 @@
 | [MOVE](https://open.spotify.com/track/7cwCe0ZxpZiL3SZAYo8Naq) | [BLVZE](https://open.spotify.com/artist/2FAwXIzmUIwtmYsUb5V1i2) | [MOVE](https://open.spotify.com/album/1tKXqkiVYgkkfFicEFPjqy) | 2:47 | 2022-01-14 | 2022-09-15 |
 | [MOVE YO BODY \(sped up\)](https://open.spotify.com/track/062UdtCYGxKMR2ihegtZUU) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [MOVE YO BODY \(sped up\)](https://open.spotify.com/album/6nS9EjRDVbygYUcBQppALL) | 1:57 | 2024-02-13 |  |
 | [Mtg \- Coração](https://open.spotify.com/track/4nyMoK6gePLzCJybQl4O2F) | [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk), [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM) | [Mtg \- Coração](https://open.spotify.com/album/4LsthlcTRWkcsfRRn9yxYC) | 1:53 | 2023-08-25 | 2023-10-14 |
+| [MTG DIAMANTE ROSA 2](https://open.spotify.com/track/5iUJjY4MvOXTBXB9vUvG5e) | [vtze archive](https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs), [Mc Ster](https://open.spotify.com/artist/2RqjTHL40djgpNGG2LS9O0) | [MTG DIAMANTE ROSA 2](https://open.spotify.com/album/7GXD0LPww0BJoGPe1cS9vb) | 1:47 | 2024-07-26 |  |
 | [Multicolore](https://open.spotify.com/track/6KEQoLLr2kXLFKjiAFcxlW) | [Bellorum](https://open.spotify.com/artist/1Ylv9zH9EjyMQvIAah6nOh) | [Multicolore](https://open.spotify.com/album/71FiFt0GL3GWW7FQkvTQfS) | 2:04 | 2022-08-05 | 2022-09-07 |
 | [My Circle](https://open.spotify.com/track/4sagA2yO0ccjstA0mlLP5Y) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [The Late Night Project](https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9), [Tommy Rage](https://open.spotify.com/artist/4rjQWq7EYFvbZacPNhUPr3) | [My Circle](https://open.spotify.com/album/4kZIQPP4EbHyEuSBzhnbUi) | 2:39 | 2022-01-28 | 2022-02-26 |
 | [My Mind](https://open.spotify.com/track/6VBMufUomo3zargbrSDFuR) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [My Mind](https://open.spotify.com/album/7HblcAvpakUan6Dv7hz2j3) | 2:32 | 2024-01-19 |  |

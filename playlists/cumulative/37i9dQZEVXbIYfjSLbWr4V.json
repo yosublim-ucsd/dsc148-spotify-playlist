@@ -1513,6 +1513,24 @@
     },
     {
       "album": {
+        "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/5fsk4Ue6YywjUPGLc9miuk"
+      },
+      "artists": [
+        {
+          "name": "Toxi$",
+          "url": "https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "November",
+      "url": "https://open.spotify.com/track/4FSg7aHsASSaFgskTYPCor"
+    },
+    {
+      "album": {
         "name": "Albino",
         "url": "https://open.spotify.com/album/2X87EHKVeyoKrjMfaGpJfR"
       },
@@ -3254,7 +3272,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 100444,
       "name": "\u043a\u0442\u043e \u0442\u044b",
       "url": "https://open.spotify.com/track/1eAy3nePI1v2EHpye6iy0g"
@@ -3886,7 +3904,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-21",
+      "date_removed": null,
       "duration_ms": 172094,
       "name": "\u043f\u043e\u0440\u0442\u0440\u0435\u0442\u044b - Acoustic",
       "url": "https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26"
@@ -4368,7 +4386,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 218998,
       "name": "\u0421\u0443\u043a\u0438\u043d\u044b \u0434\u0435\u0442\u0438",
       "url": "https://open.spotify.com/track/6sp8FsxehQt23pATaY9Gt5"
@@ -4954,7 +4972,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 133475,
       "name": "\u0427\u0435\u0442\u044b\u0440\u0435 \u0442\u0440\u0438\u0434\u0446\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/4GBfKfnvmcTcNrlJcV4OLV"
@@ -5088,6 +5106,28 @@
       "duration_ms": 157666,
       "name": "\u042e\u0440\u0444\u0430\u043a",
       "url": "https://open.spotify.com/track/7hcU2QzT149fKRIuX0SitB"
+    },
+    {
+      "album": {
+        "name": "\u042f \u043d\u0435 \u0443\u043f\u043e\u0442\u0440\u0435\u0431\u043b\u044f\u044e",
+        "url": "https://open.spotify.com/album/6JgT3a7tqCCq6dYxCkQwvk"
+      },
+      "artists": [
+        {
+          "name": "Voskresenskii",
+          "url": "https://open.spotify.com/artist/4x79BOihyDga7T7R1ULYC3"
+        },
+        {
+          "name": "Wipo",
+          "url": "https://open.spotify.com/artist/02cJqU9jxI9t8TfJpWzMMP"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139459,
+      "name": "\u042f \u043d\u0435 \u0443\u043f\u043e\u0442\u0440\u0435\u0431\u043b\u044f\u044e",
+      "url": "https://open.spotify.com/track/3KWM2xT2wb0J4lUEjYrfJH"
     },
     {
       "album": {

@@ -2403,6 +2403,24 @@
     },
     {
       "album": {
+        "name": "Compostaje",
+        "url": "https://open.spotify.com/album/0CFAjH7BZwFxZ8SgXpgYjS"
+      },
+      "artists": [
+        {
+          "name": "Mocchi",
+          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192565,
+      "name": "Compostaje",
+      "url": "https://open.spotify.com/track/3AJKDVldCDfyOPlEH2rXEz"
+    },
+    {
+      "album": {
         "name": "Condenada",
         "url": "https://open.spotify.com/album/1NLWAbskSfGUvgKZSzJ40d"
       },
@@ -4007,6 +4025,24 @@
     },
     {
       "album": {
+        "name": "En el amor nunca se deja de aprender",
+        "url": "https://open.spotify.com/album/6dW6SPQ4lzLZXYZMssjI3f"
+      },
+      "artists": [
+        {
+          "name": "Nel Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/2wxECWCzBE04LQYMvd4FWb"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220721,
+      "name": "En el amor nunca se deja de aprender",
+      "url": "https://open.spotify.com/track/2dDzQeHSw8gWhnZX7YhWg3"
+    },
+    {
+      "album": {
         "name": "Casi tierra",
         "url": "https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY"
       },
@@ -4126,7 +4162,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 159087,
       "name": "Entrada Liberada",
       "url": "https://open.spotify.com/track/4lXdEl2Mq9mCMi8GDdDq2n"
@@ -4450,7 +4486,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-20",
+      "date_removed": null,
       "duration_ms": 264341,
       "name": "Flores Muertas - Exasperaci\u00f3n",
       "url": "https://open.spotify.com/track/1vqms5cN3piIB1VdH0zsfI"
@@ -5894,7 +5930,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 203714,
       "name": "La vida es movimiento",
       "url": "https://open.spotify.com/track/56KO0oH5JuAMK88KCfLU0a"
@@ -6408,7 +6444,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 244666,
       "name": "Luch\u00edn",
       "url": "https://open.spotify.com/track/6DGmZzSK5KJebAw3CrAmaa"
@@ -6568,7 +6604,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 153129,
       "name": "Luz",
       "url": "https://open.spotify.com/track/3emhWxoCizhwFJbefyecw9"
@@ -9077,6 +9113,24 @@
     },
     {
       "album": {
+        "name": "P\u00e1nico (VMG)",
+        "url": "https://open.spotify.com/album/5Qc0kB8kggdylHZkU5P2pk"
+      },
+      "artists": [
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177768,
+      "name": "P\u00e1nico (VMG)",
+      "url": "https://open.spotify.com/track/4kS8Tc0RHoGNS7dCwY3RJo"
+    },
+    {
+      "album": {
         "name": "Herminia",
         "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
       },
@@ -10088,6 +10142,36 @@
       "duration_ms": 253813,
       "name": "Semillas (con Perota Chingo)",
       "url": "https://open.spotify.com/track/7jC9oz02D4KHAd85ej8lUe"
+    },
+    {
+      "album": {
+        "name": "Sendero",
+        "url": "https://open.spotify.com/album/5rxlC79Jn0KgMI3OjSvlZ9"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Borra",
+          "url": "https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon"
+        },
+        {
+          "name": "Nacho Rodriguez",
+          "url": "https://open.spotify.com/artist/3fgNTqoWRiML6iMv4asqn9"
+        },
+        {
+          "name": "Moreno Veloso",
+          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
+        },
+        {
+          "name": "Por ejemplo ahora",
+          "url": "https://open.spotify.com/artist/75I3egZAz3BwFZKubBhCwy"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233385,
+      "name": "Sendero",
+      "url": "https://open.spotify.com/track/2e1ooE2q2Oiflu6wmCbwqG"
     },
     {
       "album": {
@@ -12458,7 +12542,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 171750,
       "name": "Yo no Necesito de Mucho",
       "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"

@@ -100,7 +100,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 133714,
       "name": "A Brief Tutorial On Dubstep Production - Kayzo Remix",
       "url": "https://open.spotify.com/track/2mHY0y8Gw7dtsTYHX7fjvy"
@@ -2068,7 +2068,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 144000,
       "name": "Caffeine Induced Psychosis",
       "url": "https://open.spotify.com/track/0zQxgmvnWOFOgWVyt3OOoh"
@@ -2816,7 +2816,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 210000,
       "name": "Creep Killa - Creeds Remix",
       "url": "https://open.spotify.com/track/5arRUPv5EvcJ2zNI4F97os"
@@ -5644,7 +5644,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 229448,
       "name": "Go! - Stratus Remix",
       "url": "https://open.spotify.com/track/6vWK3qWuPdW2SdqK3JPljV"
@@ -5794,6 +5794,28 @@
       "duration_ms": 161600,
       "name": "Habitat",
       "url": "https://open.spotify.com/track/16fy74yXmGeSMk2yqbPlLV"
+    },
+    {
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/1acUnqBZF7dYFpnPyrtFrd"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189428,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/78a91L74IHZVQNyh3wgE3d"
     },
     {
       "album": {
@@ -6734,6 +6756,24 @@
       "duration_ms": 211200,
       "name": "Ice Scream - Carbin Remix",
       "url": "https://open.spotify.com/track/1Eh9S6rhwBWY58yhEeoANK"
+    },
+    {
+      "album": {
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/41hNvt0ZgtB8edfgUlybLs"
+      },
+      "artists": [
+        {
+          "name": "Emorfik",
+          "url": "https://open.spotify.com/artist/34bGTqa9HJUnf14IOHt6pc"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/36h4vOjsaWSb3oWDaH8PdG"
     },
     {
       "album": {
@@ -8970,7 +9010,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 146571,
       "name": "NOPE",
       "url": "https://open.spotify.com/track/04JSDVJbI0wlCjI5JLnI9u"
@@ -10080,10 +10120,28 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 210482,
       "name": "Pugilist Pit",
       "url": "https://open.spotify.com/track/1zXnPu1SIruF04j5rGlpHz"
+    },
+    {
+      "album": {
+        "name": "Life of a Street Rat",
+        "url": "https://open.spotify.com/album/3EJJOMH46Z9PHbtr4vhmt7"
+      },
+      "artists": [
+        {
+          "name": "Midnight Tyrannosaurus",
+          "url": "https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210482,
+      "name": "Pugilist Pit",
+      "url": "https://open.spotify.com/track/5o8jJo5vTJtVQfIWeceveB"
     },
     {
       "album": {
@@ -10194,6 +10252,28 @@
       "duration_ms": 148000,
       "name": "Pushing On",
       "url": "https://open.spotify.com/track/2eK7XCveaHytVpdCdzVwtp"
+    },
+    {
+      "album": {
+        "name": "Pyroclastic",
+        "url": "https://open.spotify.com/album/2fMKtEJt9BgUGbX5J00F39"
+      },
+      "artists": [
+        {
+          "name": "Chime",
+          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
+        },
+        {
+          "name": "Skybreak",
+          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208200,
+      "name": "Pyroclastic",
+      "url": "https://open.spotify.com/track/1xcPjGqDvj0ftzVficnBbB"
     },
     {
       "album": {
@@ -10658,7 +10738,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 224000,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/0kfXOuVx3xUjVgwvxQewcb"
@@ -11845,6 +11925,28 @@
     },
     {
       "album": {
+        "name": "Slaughter",
+        "url": "https://open.spotify.com/album/2FwvuABjqUv9FzLkt9DhAc"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Vastive",
+          "url": "https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188667,
+      "name": "Slaughter",
+      "url": "https://open.spotify.com/track/3vQnA7IY2a12sXXJKuCZu2"
+    },
+    {
+      "album": {
         "name": "Sleep (with Calcium)",
         "url": "https://open.spotify.com/album/3U2klaDh13JHc5jP2uW4Y6"
       },
@@ -12430,6 +12532,32 @@
       "duration_ms": 180674,
       "name": "STEP UP",
       "url": "https://open.spotify.com/track/6YE2DSWUhMkJBZgWv17fv6"
+    },
+    {
+      "album": {
+        "name": "STEPPIN",
+        "url": "https://open.spotify.com/album/7ei6zbWI95h4fh6wwVZ6pd"
+      },
+      "artists": [
+        {
+          "name": "Bobby Blakdout",
+          "url": "https://open.spotify.com/artist/3U7NPXeGDm8gryPUNOd46U"
+        },
+        {
+          "name": "Hekler",
+          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144324,
+      "name": "STEPPIN",
+      "url": "https://open.spotify.com/track/0Cxf7WWBmKaLLKr6sjAveV"
     },
     {
       "album": {
@@ -13950,6 +14078,28 @@
       "duration_ms": 161777,
       "name": "TOTAL CHAOS",
       "url": "https://open.spotify.com/track/3yvhBol9Z36rchdml8zCUg"
+    },
+    {
+      "album": {
+        "name": "Trailblazer",
+        "url": "https://open.spotify.com/album/4nHlVdgTYa0Uod3o4sfXFr"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stranger",
+          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        },
+        {
+          "name": "ProbCause",
+          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238628,
+      "name": "Trailblazer",
+      "url": "https://open.spotify.com/track/5psgWqa4cMrANthb7UcfBR"
     },
     {
       "album": {

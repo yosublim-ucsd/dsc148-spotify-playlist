@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: IRAH",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: CLIPZ, Chy Cartier",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -64,6 +64,28 @@
       "duration_ms": 209302,
       "name": "2Drill",
       "url": "https://open.spotify.com/track/4RfQl2zZ3zEtti8kLIzyWo"
+    },
+    {
+      "album": {
+        "name": "A Little More (Friendly Foe Remix)",
+        "url": "https://open.spotify.com/album/7D2U6ueId2eLAYphbXEWuO"
+      },
+      "artists": [
+        {
+          "name": "JUSTDEE",
+          "url": "https://open.spotify.com/artist/0pTfWNL7Yap8OWlTlrtDcr"
+        },
+        {
+          "name": "Friendly Foe",
+          "url": "https://open.spotify.com/artist/2l8vqVFmkHR0UBhLaObRk8"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188275,
+      "name": "A Little More - Friendly Foe Remix",
+      "url": "https://open.spotify.com/track/2gR7O5lmQB5yBWCPiAtrXJ"
     },
     {
       "album": {
@@ -5057,6 +5079,28 @@
     },
     {
       "album": {
+        "name": "Fun in the Sun",
+        "url": "https://open.spotify.com/album/2galUcRqce0LWecrsJgb3w"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Harry Bee",
+          "url": "https://open.spotify.com/artist/6ViTpFOyLCDqmWseU2vz4i"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167314,
+      "name": "Fun in the Sun",
+      "url": "https://open.spotify.com/track/3H0u4i0rnjVYnaYlT6hIw1"
+    },
+    {
+      "album": {
         "name": "Futurism",
         "url": "https://open.spotify.com/album/4TFqV5gUh7qoMhKa2FZBlM"
       },
@@ -5210,7 +5254,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 245517,
       "name": "Get To Me",
       "url": "https://open.spotify.com/track/5VvldWzela6drTGzTKIXK8"
@@ -5452,6 +5496,44 @@
       "duration_ms": 249642,
       "name": "Gold",
       "url": "https://open.spotify.com/track/1c2aEprxW446Ht7ni3ESqL"
+    },
+    {
+      "album": {
+        "name": "Gone For The Night (feat. Liam Bailey, BackRoad Gee, Scrufizzer & Shakes)",
+        "url": "https://open.spotify.com/album/3J1UwJGIqxEloqKlqMAhJ2"
+      },
+      "artists": [
+        {
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+        },
+        {
+          "name": "BackRoad Gee",
+          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        },
+        {
+          "name": "Shakes",
+          "url": "https://open.spotify.com/artist/4f7G11kEJCEhCDVGaSkS9y"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138191,
+      "name": "Gone For The Night (feat. Liam Bailey, BackRoad Gee, Scrufizzer & Shakes)",
+      "url": "https://open.spotify.com/track/0qgdSsuggcpvhvugFj1G31"
     },
     {
       "album": {
@@ -6953,6 +7035,36 @@
     },
     {
       "album": {
+        "name": "Jungle Diva",
+        "url": "https://open.spotify.com/album/0hYssqIhcO38ksOscEwsoK"
+      },
+      "artists": [
+        {
+          "name": "Lens",
+          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
+        },
+        {
+          "name": "Sarah Ikumu",
+          "url": "https://open.spotify.com/artist/6nDkhVNHd7xpZGilqARZoS"
+        },
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189176,
+      "name": "Jungle Diva",
+      "url": "https://open.spotify.com/track/3SOYIrIqTRHBb6BZweU4AS"
+    },
+    {
+      "album": {
         "name": "Junglist (DJ KARA Remix)",
         "url": "https://open.spotify.com/album/7mYzziNhV3cTAiyMldCwxg"
       },
@@ -8338,7 +8450,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 178285,
       "name": "Make It Right (feat. Khazali)",
       "url": "https://open.spotify.com/track/0SbB5sWWZAMBW6hEO4Tz2n"
@@ -9217,6 +9329,28 @@
     },
     {
       "album": {
+        "name": "Inner Untitled EP",
+        "url": "https://open.spotify.com/album/3f6enOUoRVqTgPf0sc0rzc"
+      },
+      "artists": [
+        {
+          "name": "CLIPZ",
+          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
+        },
+        {
+          "name": "Chy Cartier",
+          "url": "https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125138,
+      "name": "New",
+      "url": "https://open.spotify.com/track/1EkCgHdly9oEWpTHkLBkNf"
+    },
+    {
+      "album": {
         "name": "New Beginning",
         "url": "https://open.spotify.com/album/0D7sxVgZTL9DerUPMp96t6"
       },
@@ -9320,7 +9454,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 177266,
       "name": "Ninja Bike",
       "url": "https://open.spotify.com/track/0BoPDihQptJKrwz6PSkUOh"
@@ -12689,6 +12823,36 @@
     },
     {
       "album": {
+        "name": "State Of Mind",
+        "url": "https://open.spotify.com/album/1ep6YClvvqWGo9EmXa7rFo"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        },
+        {
+          "name": "\u00c6ON:MODE",
+          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185448,
+      "name": "State Of Mind",
+      "url": "https://open.spotify.com/track/3fziFvvQWBSEIp86qxaphU"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/2zFpGhJg2BIAAlhVQADs2X"
       },
@@ -13639,6 +13803,24 @@
     },
     {
       "album": {
+        "name": "The Time Is Now",
+        "url": "https://open.spotify.com/album/2TYE9xneaoElu4uel4p7h3"
+      },
+      "artists": [
+        {
+          "name": "Culture Shock",
+          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264827,
+      "name": "The Time Is Now",
+      "url": "https://open.spotify.com/track/2DI5PnNnnscXVQSIeKR1gw"
+    },
+    {
+      "album": {
         "name": "The Touch",
         "url": "https://open.spotify.com/album/0F2TJ0S8qetSPw9yHUzNpZ"
       },
@@ -13734,7 +13916,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 217931,
       "name": "This Moment",
       "url": "https://open.spotify.com/track/1rVZhssI5CYGxv8WHs3JAu"
@@ -14034,7 +14216,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 289655,
       "name": "Twice As Long",
       "url": "https://open.spotify.com/track/2CVIkGJ98ekf0cIpHsk9uR"
@@ -14694,7 +14876,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 147581,
       "name": "Wasted Youth",
       "url": "https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm"
@@ -14922,7 +15104,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 182475,
       "name": "What I Need",
       "url": "https://open.spotify.com/track/7pRAUjVVOHT6vXMto3kxv5"

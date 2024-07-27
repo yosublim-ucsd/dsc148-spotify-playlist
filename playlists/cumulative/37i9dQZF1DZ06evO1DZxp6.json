@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "Dos Historias En Sevilla (Vevo en Vivo)",
+        "url": "https://open.spotify.com/album/0lsRLI8FIgjzwUQ6NFDKpf"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206812,
+      "name": "Dime La Verdad - En Vivo",
+      "url": "https://open.spotify.com/track/4aOiVWqAnrpjyyhy81oL01"
+    },
+    {
+      "album": {
         "name": "Algo Sucede",
         "url": "https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm"
       },

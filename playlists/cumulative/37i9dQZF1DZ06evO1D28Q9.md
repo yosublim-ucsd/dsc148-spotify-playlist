@@ -4,11 +4,12 @@
 
 > This is Stefanie\. The essential tracks, all in one playlist.
 
-35 songs - 2 hr 41 min
+36 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Voz](https://open.spotify.com/track/6iqoDOuXWIIh1eg01gWDba) | [Kivitz](https://open.spotify.com/artist/7sua8S5Zjhkru2Ma50lfHL), [Dona Kelly ao Cubo](https://open.spotify.com/artist/25NRP4dtD2mSIwAtuh8apL), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe) | [Em Nome do Vento](https://open.spotify.com/album/6N10FMJ4WvCaYhCVt1fmUE) | 4:33 | 2023-09-18 |  |
+| [Azz Veizz \(Das Minas\)](https://open.spotify.com/track/2SLR4vTHHs0zyR6B1UUqk7) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa), [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Cris SNJ](https://open.spotify.com/artist/69qkC8x2DGT4yjuwXNFQPf), [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n), [Karol de Souza](https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8), [Srta\. Paola](https://open.spotify.com/artist/63ibOFnRUQhYy6s7xypyHe) | [Azz Veizz \(Das Minas\)](https://open.spotify.com/album/4xcSH0hD8XqnSecEJVAbPv) | 6:57 | 2024-07-27 |  |
 | [Cabô \- Remix](https://open.spotify.com/track/6G0XvhgmeRjJVZxN2KAiSt) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe) | [Mundo \(Remix\)](https://open.spotify.com/album/2b01sgh392nbjoeQSgKydA) | 3:59 | 2023-09-18 |  |
 | [Chato](https://open.spotify.com/track/0ZOE62MG5rUfwBHvooAaN5) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe) | [Chato](https://open.spotify.com/album/1x6B5bqEHFsuQpbmVX5mEf) | 3:07 | 2023-09-18 |  |
 | [Coroa de Flores](https://open.spotify.com/track/3p9uy80dCV8Mvwqxk4lnSQ) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Gigante No Mic](https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX), [Grou](https://open.spotify.com/artist/6CXYepBZnf1m6f5otiUm8X), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Coroa de Flores](https://open.spotify.com/album/3dmJmIcejU0YpJrq3EJuIk) | 4:18 | 2023-09-18 |  |

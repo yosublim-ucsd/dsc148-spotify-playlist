@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Lourena, MC Hariel",
+  "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Delacruz",
   "name": "brisa",
   "tracks": [
     {
@@ -698,7 +698,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 225587,
       "name": "Aquariana",
       "url": "https://open.spotify.com/track/4WZ3yYuXMTNZZZ7UMQiDXF"
@@ -746,6 +746,28 @@
       "duration_ms": 196363,
       "name": "Aquelas Coisas",
       "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
+    },
+    {
+      "album": {
+        "name": "Digital Bel\u00e9m",
+        "url": "https://open.spotify.com/album/6ChQfg1CS6DvEpWCc9nzSG"
+      },
+      "artists": [
+        {
+          "name": "Saulo Duarte",
+          "url": "https://open.spotify.com/artist/7CAgPANVYLBZh3AmB6Wf70"
+        },
+        {
+          "name": "Russo Passapusso",
+          "url": "https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196132,
+      "name": "Arrepi\u00f4",
+      "url": "https://open.spotify.com/track/5tZSPSME3dY6xt75qtxzsi"
     },
     {
       "album": {
@@ -1790,6 +1812,36 @@
       "duration_ms": 198260,
       "name": "Cupido Querido",
       "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
+    },
+    {
+      "album": {
+        "name": "METamorFOSE",
+        "url": "https://open.spotify.com/album/3zMBfvaDJbLt68YHUO8Exp"
+      },
+      "artists": [
+        {
+          "name": "Boombeat",
+          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Saffi",
+          "url": "https://open.spotify.com/artist/7B2LE0Bhy4FxYlJnOuVO1k"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266581,
+      "name": "C\u00c9U",
+      "url": "https://open.spotify.com/track/7jBq26IBLcTCppW46tFsXq"
     },
     {
       "album": {
@@ -4682,7 +4734,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 244571,
       "name": "Medida Certa",
       "url": "https://open.spotify.com/track/0j6vQv5SiLZOficlBiFWnT"
@@ -5191,6 +5243,24 @@
     },
     {
       "album": {
+        "name": "Naturalmente",
+        "url": "https://open.spotify.com/album/59w70fXpOJqCTQLK90p2Co"
+      },
+      "artists": [
+        {
+          "name": "Sagaz",
+          "url": "https://open.spotify.com/artist/5rl6n6CUJu1WGsvzf5m8M8"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115763,
+      "name": "Naturalmente",
+      "url": "https://open.spotify.com/track/2ptglFQqEtPggQpBX4nUFn"
+    },
+    {
+      "album": {
         "name": "Dois",
         "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
       },
@@ -5600,7 +5670,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 127452,
       "name": "O Que a Levada Pede",
       "url": "https://open.spotify.com/track/4QIYe2KUsCseRCK2WDOGym"
@@ -7419,6 +7489,32 @@
     },
     {
       "album": {
+        "name": "Sambinha",
+        "url": "https://open.spotify.com/album/2hEgfePoRPqRUXd5WIGKsC"
+      },
+      "artists": [
+        {
+          "name": "4Paredes",
+          "url": "https://open.spotify.com/artist/22huhoPjnz6FzwAL8rLvg3"
+        },
+        {
+          "name": "Dj Batata",
+          "url": "https://open.spotify.com/artist/2rUOBAmeKcpfmd83cIj5Au"
+        },
+        {
+          "name": "AlmaViva M\u00fasica",
+          "url": "https://open.spotify.com/artist/1yFGYhJmcedGSLzkmgPnzG"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "Sambinha",
+      "url": "https://open.spotify.com/track/1qHaYxFr6hPsKYCi29iNch"
+    },
+    {
+      "album": {
         "name": "Saturno",
         "url": "https://open.spotify.com/album/54lVKhg9g9xAzZjMU46ay7"
       },
@@ -7934,7 +8030,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 179825,
       "name": "Sonho Brasil 2004",
       "url": "https://open.spotify.com/track/6SidWa3wQNI5SpaWdRM8vA"

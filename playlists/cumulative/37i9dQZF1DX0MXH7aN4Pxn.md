@@ -4,7 +4,7 @@
 
 > 
 
-531 songs - 1 day 3 hr 20 min
+532 songs - 1 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 | 2023-09-08 | 2024-07-20 |
 | [Call on Me](https://open.spotify.com/track/1pAZU3UZ8MoGbpuiNyD2Et) | [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve), [Covenants](https://open.spotify.com/artist/13QkZsAUXqAXVMGhMDEluJ) | [Call on Me](https://open.spotify.com/album/6isGo2QqA0vMAtCerAbd9x) | 2:32 | 2022-04-15 | 2022-07-08 |
 | [Call On Me](https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Call On Me](https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy) | 3:14 | 2022-04-15 | 2023-11-10 |
+| [Call On Me](https://open.spotify.com/track/7tXDjHtQ8VaojseWKMGzh1) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Call On Me](https://open.spotify.com/album/6yQ307guErqyn0uAbxFaQs) | 2:24 | 2024-07-19 |  |
 | [Calling](https://open.spotify.com/track/7IxrpgNvMEtRt5SO4UA4Bv) | [Chaya](https://open.spotify.com/artist/5t7FfMHr6IwUH5k2sLZ4n1) | [Calling](https://open.spotify.com/album/5v9JGhI8lAV05lTYjPQUaZ) | 3:40 | 2022-04-15 | 2022-07-29 |
 | [Can't You See \- Radio Edit](https://open.spotify.com/track/6zRBMIDHnuuvWyaumNNcQF) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Can't You See](https://open.spotify.com/album/0Qd8m380OmHYpwVf36tdOy) | 3:22 | 2022-04-15 | 2024-01-14 |
 | [Celebration](https://open.spotify.com/track/0sIWHEb9PH9J5n2ZZEMuGQ) | [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45) | [Celebration](https://open.spotify.com/album/0Ih9DQmjJCq6H6WtgvNsI0) | 3:22 | 2022-04-15 | 2022-07-06 |
@@ -242,7 +243,7 @@
 | [In My Heart \- Radio Edit](https://open.spotify.com/track/03LI7dm14DiQLaNeZ3qLYV) | [Charlie Lane](https://open.spotify.com/artist/6J2XuLMx1BB0aYgMuQilGQ) | [In My Heart](https://open.spotify.com/album/0dFlWsA5Ub2x7gIIiUlPKi) | 2:56 | 2022-04-15 | 2022-06-08 |
 | [In The Dark](https://open.spotify.com/track/6P8ljIfKiNlVAao2LJuXnn) | [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [George Kwali](https://open.spotify.com/artist/29pQjcc1XsJa7Aeezho17b) | [In The Dark](https://open.spotify.com/album/33UvR7NBaVnyYXeRdP3QJ9) | 3:04 | 2022-04-15 | 2022-07-16 |
 | [Is This Love?](https://open.spotify.com/track/2r2ZvX5PNP0MUfUN2HjEjl) | [PBH & JACK](https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Is This Love?](https://open.spotify.com/album/0t86pk1j7clIlBtzzLNCHV) | 2:24 | 2022-04-15 | 2022-07-29 |
-| [It's All On You](https://open.spotify.com/track/2ugMmpncnUU5BlufHZcq7m) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ), [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN), [Hitty](https://open.spotify.com/artist/5ihFvuv44N5h6eYxLyftBi), [Foonzy](https://open.spotify.com/artist/39CAY2Pk8BtywnmFcssR6X) | [It's All On You](https://open.spotify.com/album/6RVuczenRVz4Xdwe69LJOf) | 2:25 | 2024-07-19 |  |
+| [It's All On You](https://open.spotify.com/track/2ugMmpncnUU5BlufHZcq7m) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ), [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN), [Hitty](https://open.spotify.com/artist/5ihFvuv44N5h6eYxLyftBi), [Foonzy](https://open.spotify.com/artist/39CAY2Pk8BtywnmFcssR6X) | [It's All On You](https://open.spotify.com/album/6RVuczenRVz4Xdwe69LJOf) | 2:25 | 2024-07-19 | 2024-07-27 |
 | [It's Just This Thing](https://open.spotify.com/track/1PzMiuvUMQRKfxxNsPAjZR) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [Feel So Free Mixtape](https://open.spotify.com/album/4dHbS7oUzTsbkc0SPRhTWB) | 3:39 | 2023-11-10 | 2024-01-09 |
 | [I’m Falling](https://open.spotify.com/track/3CKMVeZCq6HUxEk3DsdymZ) | [Anton Powers](https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc) | [I’m Falling](https://open.spotify.com/album/6NUAfuB2TQg0FQsWmnMPfF) | 2:38 | 2022-04-15 | 2022-07-20 |
 | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK) | [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA) | 2:27 | 2024-02-23 |  |

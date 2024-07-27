@@ -4,7 +4,7 @@
 
 > Perreo hecho en Argentina\. Foto: El Osito Wito & Nashy\-Nashai
 
-252 songs - 12 hr 0 min
+253 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Mi Gata](https://open.spotify.com/track/5FhoinWk971cMHGcvc8LC3) | [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [Mi Gata](https://open.spotify.com/album/4FpnFwYPDBoGLFKpZKGfZK) | 2:56 | 2023-09-29 | 2023-11-11 |
 | [Mi Nena](https://open.spotify.com/track/3qBKuh7RPdibZ5K9I5xQdb) | [OKY](https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Carla Clavijo](https://open.spotify.com/artist/4ljl1dpfeJKgNzhTIo6MEj) | [Mi Nena](https://open.spotify.com/album/1eVX7OilmIFL8ZL9x3Db5t) | 3:08 | 2022-05-24 | 2023-01-06 |
 | [MISSY](https://open.spotify.com/track/1KV2P6C34FiL8T9qfXvsMK) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [MISSY](https://open.spotify.com/album/5QDHb6pa4lZYZaJdMKeBWJ) | 3:41 | 2024-01-19 |  |
+| [Modo Animal](https://open.spotify.com/track/5EjVHiGKgQxdnOOtemXs1k) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [TSUNAMI](https://open.spotify.com/album/1REQLSIOdAZzja7bmeM0WV) | 2:40 | 2024-07-26 |  |
 | [Modo Avión](https://open.spotify.com/track/4qMAWw30CdPVCS6adU1QLi) | [POLI](https://open.spotify.com/artist/58bKHK6LvPOSZJmHOozjfz), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk) | [Modo Avión](https://open.spotify.com/album/1W1IyRqoLR1WsZPIMVYDQw) | 3:11 | 2022-06-17 | 2022-08-06 |
 | [Mojate](https://open.spotify.com/track/5fmKs2C2IuvTWv24oxeVmU) | [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100), [Santin Lotty](https://open.spotify.com/artist/0Yr1qhvpxZndglpOrbYkXw) | [Mojate](https://open.spotify.com/album/6F7Run8Ltsg0WQ0T7qtsP0) | 3:15 | 2022-08-05 | 2024-01-27 |
 | [MotaMoto](https://open.spotify.com/track/4IuJPZXhwuEVP4F0Xz261V) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [MotaMoto](https://open.spotify.com/album/5yXc9YYgTGVOiUVGJtN6Fl) | 2:28 | 2023-09-29 |  |
@@ -254,7 +255,7 @@
 | [Verificada](https://open.spotify.com/track/4DuyqxuT3sGiGlZJi5dpn4) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Verificada](https://open.spotify.com/album/4tIqAcRBIsjOU4kTHQZqwL) | 2:38 | 2022-07-28 | 2023-07-08 |
 | [Vida Gangster](https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [Vida Gangster](https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX) | 2:50 | 2022-12-23 | 2024-06-15 |
 | [Wow Wow \(feat\. Becky G\)](https://open.spotify.com/track/20ChN6ZWJ2yhuXcE6SKHDM) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Wow Wow \(feat\. Becky G\)](https://open.spotify.com/album/7peqMFYmRXaFJ5nXvKtA86) | 3:19 | 2022-05-24 |  |
-| [Ya No Quiero Verte](https://open.spotify.com/track/1uoQJiOAWJ5S3IsrHFXlds) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Yael YTBM](https://open.spotify.com/artist/6Asqb0vVpW3cLUbK53VIK5) | [Ya No Quiero Verte](https://open.spotify.com/album/4NUK8hZadlXlRMBwhsn5X9) | 2:54 | 2024-04-26 |  |
+| [Ya No Quiero Verte](https://open.spotify.com/track/1uoQJiOAWJ5S3IsrHFXlds) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Yael YTBM](https://open.spotify.com/artist/6Asqb0vVpW3cLUbK53VIK5) | [Ya No Quiero Verte](https://open.spotify.com/album/4NUK8hZadlXlRMBwhsn5X9) | 2:54 | 2024-04-26 | 2024-07-27 |
 | [YIN YAN](https://open.spotify.com/track/6KGGhJoXrztLp8ZT91zizs) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 3:09 | 2022-05-24 |  |
 | [YO SE QUE TU \(feat\. Rusherking\)](https://open.spotify.com/track/4M4DTyLupKvbJKlE4I4EYq) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [YO SE QUE TU \(feat\. Rusherking\)](https://open.spotify.com/album/48FoiMxQVsy2fwZlDobT7y) | 3:13 | 2022-05-24 | 2023-10-01 |
 | [Yo Ya No](https://open.spotify.com/track/7MRcgzjHn9S2QSub2W4eED) | [OKY](https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU), [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7), [Hot Plug Beats](https://open.spotify.com/artist/1fXCGECRsxOUDi7tj3hifF) | [Yo Ya No](https://open.spotify.com/album/5yU2AfvdBBZ56eq2pYoz1N) | 2:56 | 2022-05-24 | 2023-05-13 |

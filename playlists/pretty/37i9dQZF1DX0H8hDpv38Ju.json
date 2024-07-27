@@ -1,6 +1,6 @@
 {
   "description": "Get down and jam out to these throwback '80s R&B and soul tunes!",
-  "num_followers": 823107,
+  "num_followers": 823351,
   "original_name": "\u201980s Jam Session",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
+        "name": "Ice Cream Castle",
+        "url": "https://open.spotify.com/album/6U9fEF6ZUIDM8M03JNB9I4"
+      },
+      "artists": [
+        {
+          "name": "The Time",
+          "url": "https://open.spotify.com/artist/1EgGVV9cmmlLEsFlunjmvv"
+        }
+      ],
+      "duration_ms": 333360,
+      "name": "Jungle Love",
+      "url": "https://open.spotify.com/track/0QUpBXTOdB4JJyTGFN6dH1"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
         "name": "Ready For The World",
         "url": "https://open.spotify.com/album/7J4vN1d089or6LJDdIQxdg"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 287000,
       "name": "Let It Whip",
       "url": "https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "Ice Cream Castle",
-        "url": "https://open.spotify.com/album/6U9fEF6ZUIDM8M03JNB9I4"
-      },
-      "artists": [
-        {
-          "name": "The Time",
-          "url": "https://open.spotify.com/artist/1EgGVV9cmmlLEsFlunjmvv"
-        }
-      ],
-      "duration_ms": 333360,
-      "name": "Jungle Love",
-      "url": "https://open.spotify.com/track/0QUpBXTOdB4JJyTGFN6dH1"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -415,6 +415,22 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
+        "name": "In Effect Mode",
+        "url": "https://open.spotify.com/album/3RjOQ5eRm9f5kf6ysRpByu"
+      },
+      "artists": [
+        {
+          "name": "Al B. Sure!",
+          "url": "https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Off on Your Own (Girl)",
+      "url": "https://open.spotify.com/track/2GRMJEIAvKlqJd9UHZTjRD"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
         "name": "Club Classics Vol. One",
         "url": "https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa"
       },
@@ -435,22 +451,6 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "In Effect Mode",
-        "url": "https://open.spotify.com/album/3RjOQ5eRm9f5kf6ysRpByu"
-      },
-      "artists": [
-        {
-          "name": "Al B. Sure!",
-          "url": "https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Off on Your Own (Girl)",
-      "url": "https://open.spotify.com/track/2GRMJEIAvKlqJd9UHZTjRD"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
         "name": "Don't Disturb This Groove",
         "url": "https://open.spotify.com/album/0Kwk6arYrNHMXkC3wR3gGJ"
       },
@@ -463,22 +463,6 @@
       "duration_ms": 317874,
       "name": "Don't Disturb This Groove",
       "url": "https://open.spotify.com/track/6GAn3ar2CL8wUg0MbICZvp"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "Love Come Down: The Best of Evelyn \"Champagne\" King",
-        "url": "https://open.spotify.com/album/3o75BuQvN7lw4nzrAd8MPz"
-      },
-      "artists": [
-        {
-          "name": "Evelyn \"Champagne\" King",
-          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
-        }
-      ],
-      "duration_ms": 364946,
-      "name": "Love Come Down",
-      "url": "https://open.spotify.com/track/0Of5lCNEqh62twRkQIOLuK"
     },
     {
       "added_at": "2021-07-01 19:39:13",
@@ -495,6 +479,22 @@
       "duration_ms": 279800,
       "name": "Nights Over Egypt",
       "url": "https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "Love Come Down: The Best of Evelyn \"Champagne\" King",
+        "url": "https://open.spotify.com/album/3o75BuQvN7lw4nzrAd8MPz"
+      },
+      "artists": [
+        {
+          "name": "Evelyn \"Champagne\" King",
+          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
+        }
+      ],
+      "duration_ms": 364946,
+      "name": "Love Come Down",
+      "url": "https://open.spotify.com/track/0Of5lCNEqh62twRkQIOLuK"
     },
     {
       "added_at": "2021-04-01 19:37:56",

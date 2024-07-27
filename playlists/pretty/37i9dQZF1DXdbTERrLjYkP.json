@@ -1,12 +1,12 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Hana Effron",
-  "num_followers": 97116,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Abi Carter",
+  "num_followers": 97142,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpnkwAAAAACQCESKIqMu5IFGEcK6ht4b",
+  "snapshot_id": "ZqMfQAAAAABWJzpR0Re5IFTokdv6aJHu",
   "tracks": [
     {
       "added_at": "2024-07-19 04:00:00",
@@ -23,6 +23,54 @@
       "duration_ms": 211161,
       "name": "A Hollywood Sign",
       "url": "https://open.spotify.com/track/3e5pd6rXyzoM7Rd6e8P4gq"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Peppermint Sky",
+        "url": "https://open.spotify.com/album/2qRdKjU7UL9ozU9AX2iCNR"
+      },
+      "artists": [
+        {
+          "name": "Abi Carter",
+          "url": "https://open.spotify.com/artist/6ryJRp2gIl77hK36D8tz2m"
+        }
+      ],
+      "duration_ms": 169870,
+      "name": "Peppermint Sky",
+      "url": "https://open.spotify.com/track/2jabv3amUzqPxqWInOQEHK"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Pretty Baby",
+        "url": "https://open.spotify.com/album/3r1xlXd5nl8DgO9RGJWZZO"
+      },
+      "artists": [
+        {
+          "name": "Alex Sampson",
+          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
+        }
+      ],
+      "duration_ms": 203522,
+      "name": "Pretty Baby",
+      "url": "https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Sweet Emotion",
+        "url": "https://open.spotify.com/album/2lEKDGHS0zidrlmckGqmB0"
+      },
+      "artists": [
+        {
+          "name": "Diego Gonzalez",
+          "url": "https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd"
+        }
+      ],
+      "duration_ms": 188494,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/1D6wWuhDf19IsCFDOR9rlP"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -55,22 +103,6 @@
       "duration_ms": 163747,
       "name": "It's No Fun",
       "url": "https://open.spotify.com/track/5AwztQuXdndXJPNNwrF00X"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Pretty Baby",
-        "url": "https://open.spotify.com/album/3r1xlXd5nl8DgO9RGJWZZO"
-      },
-      "artists": [
-        {
-          "name": "Alex Sampson",
-          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
-        }
-      ],
-      "duration_ms": 203522,
-      "name": "Pretty Baby",
-      "url": "https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -463,22 +495,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "This Isn't Over",
-        "url": "https://open.spotify.com/album/6Pp7FsNjfsVdZfdo3ejSOk"
-      },
-      "artists": [
-        {
-          "name": "Abi Carter",
-          "url": "https://open.spotify.com/artist/6ryJRp2gIl77hK36D8tz2m"
-        }
-      ],
-      "duration_ms": 154450,
-      "name": "This Isn't Over",
-      "url": "https://open.spotify.com/track/019G5CuO3xezSEL6XaVtu7"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Do Your Worst",
         "url": "https://open.spotify.com/album/2LS7qVSq37ThFZkkmhrY3w"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 153887,
       "name": "Rearview Mirror",
       "url": "https://open.spotify.com/track/2SSgYTvesgv4JbLtb6pMD9"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Little Things",
-        "url": "https://open.spotify.com/album/0nMEiut01f32QDCyKojM3N"
-      },
-      "artists": [
-        {
-          "name": "Brye",
-          "url": "https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC"
-        }
-      ],
-      "duration_ms": 197637,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/1nmOgtVp3yZNJQ1RzJ8Ney"
     },
     {
       "added_at": "2024-07-19 04:00:00",

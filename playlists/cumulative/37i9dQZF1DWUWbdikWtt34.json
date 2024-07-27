@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Risa Amel",
+  "description": "Dendang Dangdut teratas. Cover: Lesti, Judika",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -454,6 +454,28 @@
       "duration_ms": 317000,
       "name": "Bukan Cinta Biasa",
       "url": "https://open.spotify.com/track/0SGLXPkGAHAzmNMUZICurK"
+    },
+    {
+      "album": {
+        "name": "Bukan Karena Tak Cinta (Dangdut Version)",
+        "url": "https://open.spotify.com/album/4IBpg15jIv31FFqOYhEZqZ"
+      },
+      "artists": [
+        {
+          "name": "Lesti",
+          "url": "https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB"
+        },
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279555,
+      "name": "Bukan Karena Tak Cinta (Dangdut Version)",
+      "url": "https://open.spotify.com/track/1uul36yQtUgldeT7dD29Q5"
     },
     {
       "album": {
@@ -2412,6 +2434,24 @@
       "duration_ms": 255875,
       "name": "Rindu Tapi Malu - Live At Ska Reggae",
       "url": "https://open.spotify.com/track/3T1Fyxl2WPQLmEv8JKFxO2"
+    },
+    {
+      "album": {
+        "name": "Rindu Terhalang",
+        "url": "https://open.spotify.com/album/0biYVS1ZoGwdRF7f5ySmJd"
+      },
+      "artists": [
+        {
+          "name": "Rita Tila",
+          "url": "https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328000,
+      "name": "Rindu Terhalang",
+      "url": "https://open.spotify.com/track/0ZpjsLT6wzv0JSvIGa0MhQ"
     },
     {
       "album": {

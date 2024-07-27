@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent writing their own songs. Cover: Hana Effron",
+  "description": "Discover the next wave of talent writing their own songs. Cover: Abi Carter",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -6864,7 +6864,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 197637,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/1nmOgtVp3yZNJQ1RzJ8Ney"
@@ -8640,6 +8640,24 @@
       "duration_ms": 189652,
       "name": "people grow apart, people let me down",
       "url": "https://open.spotify.com/track/3wYXq5vKK4fhG15V6rklbS"
+    },
+    {
+      "album": {
+        "name": "Peppermint Sky",
+        "url": "https://open.spotify.com/album/2qRdKjU7UL9ozU9AX2iCNR"
+      },
+      "artists": [
+        {
+          "name": "Abi Carter",
+          "url": "https://open.spotify.com/artist/6ryJRp2gIl77hK36D8tz2m"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169870,
+      "name": "Peppermint Sky",
+      "url": "https://open.spotify.com/track/2jabv3amUzqPxqWInOQEHK"
     },
     {
       "album": {
@@ -10675,6 +10693,24 @@
     },
     {
       "album": {
+        "name": "Sweet Emotion",
+        "url": "https://open.spotify.com/album/2lEKDGHS0zidrlmckGqmB0"
+      },
+      "artists": [
+        {
+          "name": "Diego Gonzalez",
+          "url": "https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188494,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/1D6wWuhDf19IsCFDOR9rlP"
+    },
+    {
+      "album": {
         "name": "Snow Angel",
         "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
       },
@@ -11216,7 +11252,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 154450,
       "name": "This Isn't Over",
       "url": "https://open.spotify.com/track/019G5CuO3xezSEL6XaVtu7"

@@ -1,6 +1,6 @@
 {
   "description": "a journey through ephemeral moments",
-  "num_followers": 12250,
+  "num_followers": 12251,
   "original_name": "transience",
   "owner": {
     "name": "Spotify",
@@ -405,6 +405,22 @@
       "url": "https://open.spotify.com/track/51NvtuWxkDXHqtfWhQRjnH"
     },
     {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "All good?",
+        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
+      },
+      "artists": [
+        {
+          "name": "Nonkeen",
+          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
+        }
+      ],
+      "duration_ms": 483180,
+      "name": "be a",
+      "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
+    },
+    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Big Sun",
@@ -419,22 +435,6 @@
       "duration_ms": 239200,
       "name": "Birds, Pt. I",
       "url": "https://open.spotify.com/track/5GDteA9nob1rnxgE1KFx5l"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Hex",
-        "url": "https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP"
-      },
-      "artists": [
-        {
-          "name": "Bark Psychosis",
-          "url": "https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi"
-        }
-      ],
-      "duration_ms": 593866,
-      "name": "Pendulum Man",
-      "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
     },
     {
       "added_at": "2024-06-19 16:43:41",
@@ -509,20 +509,20 @@
       "url": "https://open.spotify.com/track/6RHJvMCoUgQ5CSBFUEL9RI"
     },
     {
-      "added_at": "2024-07-19 04:00:00",
+      "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "All good?",
-        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
+        "name": "Hex",
+        "url": "https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP"
       },
       "artists": [
         {
-          "name": "Nonkeen",
-          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
+          "name": "Bark Psychosis",
+          "url": "https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi"
         }
       ],
-      "duration_ms": 483180,
-      "name": "be a",
-      "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
+      "duration_ms": 593866,
+      "name": "Pendulum Man",
+      "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
     },
     {
       "added_at": "2024-07-05 03:19:52",
@@ -563,6 +563,22 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
+        "name": "The Pillow Sisters",
+        "url": "https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM"
+      },
+      "artists": [
+        {
+          "name": "Singleton",
+          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
+        }
+      ],
+      "duration_ms": 159158,
+      "name": "The Pillow Sisters",
+      "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
         "name": "Millions Now Living Will Never Die",
         "url": "https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 188255,
       "name": "Materia",
       "url": "https://open.spotify.com/track/1uJHtmLkOTQuCJ5AGKjLQU"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "The Pillow Sisters",
-        "url": "https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM"
-      },
-      "artists": [
-        {
-          "name": "Singleton",
-          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
-        }
-      ],
-      "duration_ms": 159158,
-      "name": "The Pillow Sisters",
-      "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
     },
     {
-      "added_at": "2022-02-18 05:44:49",
-      "album": {
-        "name": "Mysteries",
-        "url": "https://open.spotify.com/album/6jGXRmqwwd25TgRbNT6X2P"
-      },
-      "artists": [
-        {
-          "name": "Antarctic Wastelands",
-          "url": "https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1"
-        }
-      ],
-      "duration_ms": 183851,
-      "name": "Mysteries",
-      "url": "https://open.spotify.com/track/3bDoYfu85Z3UhfRt53zsTv"
-    },
-    {
       "added_at": "2022-01-07 01:30:59",
       "album": {
         "name": "Mountains, Go",
@@ -827,6 +811,22 @@
       "duration_ms": 519893,
       "name": "Management Of Sorrows",
       "url": "https://open.spotify.com/track/1E2ShBrH7M8h4GLKrLWYa6"
+    },
+    {
+      "added_at": "2022-02-18 05:44:49",
+      "album": {
+        "name": "Mysteries",
+        "url": "https://open.spotify.com/album/6jGXRmqwwd25TgRbNT6X2P"
+      },
+      "artists": [
+        {
+          "name": "Antarctic Wastelands",
+          "url": "https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1"
+        }
+      ],
+      "duration_ms": 183851,
+      "name": "Mysteries",
+      "url": "https://open.spotify.com/track/3bDoYfu85Z3UhfRt53zsTv"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -861,22 +861,6 @@
       "url": "https://open.spotify.com/track/6ngNKPDKaYsld8WCiSOrZ3"
     },
     {
-      "added_at": "2024-04-12 00:43:48",
-      "album": {
-        "name": "Modern Chamber Music",
-        "url": "https://open.spotify.com/album/2Exl05xJe1sljXUxT1s7Wl"
-      },
-      "artists": [
-        {
-          "name": "Laurent Dury",
-          "url": "https://open.spotify.com/artist/7gpOQ6zpHZobl99wEQQRwj"
-        }
-      ],
-      "duration_ms": 104406,
-      "name": "Pulse Of Life",
-      "url": "https://open.spotify.com/track/3d64wpsuW2jJtqOHFlvido"
-    },
-    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "A Living Room Hush",
@@ -891,6 +875,22 @@
       "duration_ms": 518120,
       "name": "Lithuania",
       "url": "https://open.spotify.com/track/6yd6TACdbS9W4v2p30D6E8"
+    },
+    {
+      "added_at": "2024-04-12 00:43:48",
+      "album": {
+        "name": "Modern Chamber Music",
+        "url": "https://open.spotify.com/album/2Exl05xJe1sljXUxT1s7Wl"
+      },
+      "artists": [
+        {
+          "name": "Laurent Dury",
+          "url": "https://open.spotify.com/artist/7gpOQ6zpHZobl99wEQQRwj"
+        }
+      ],
+      "duration_ms": 104406,
+      "name": "Pulse Of Life",
+      "url": "https://open.spotify.com/track/3d64wpsuW2jJtqOHFlvido"
     },
     {
       "added_at": "2022-02-18 05:44:49",
@@ -1069,26 +1069,6 @@
       "url": "https://open.spotify.com/track/5RlcIRD2XWzFMP0qeGqFlK"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Wandering II (Ed Carlsen Rework)",
-        "url": "https://open.spotify.com/album/6LP0Q2lBETzwXzGTZyS9Ga"
-      },
-      "artists": [
-        {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
-        },
-        {
-          "name": "Ed Carlsen",
-          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
-        }
-      ],
-      "duration_ms": 190754,
-      "name": "Wandering II - Ed Carlsen Rework",
-      "url": "https://open.spotify.com/track/23waihwNlV6zZsnwU3kXRW"
-    },
-    {
       "added_at": "2022-09-15 12:57:17",
       "album": {
         "name": "Castlefields",
@@ -1107,6 +1087,26 @@
       "duration_ms": 494686,
       "name": "Castlefields",
       "url": "https://open.spotify.com/track/07MubErPyTNwhPmls9B2ov"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Wandering II (Ed Carlsen Rework)",
+        "url": "https://open.spotify.com/album/6LP0Q2lBETzwXzGTZyS9Ga"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        },
+        {
+          "name": "Ed Carlsen",
+          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
+        }
+      ],
+      "duration_ms": 190754,
+      "name": "Wandering II - Ed Carlsen Rework",
+      "url": "https://open.spotify.com/track/23waihwNlV6zZsnwU3kXRW"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1141,20 +1141,20 @@
       "url": "https://open.spotify.com/track/1kLaOChjYgevlR19UMA6yh"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
+      "added_at": "2022-03-16 01:05:35",
       "album": {
-        "name": "AM Prosperita\u0308t",
-        "url": "https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN"
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT"
       },
       "artists": [
         {
-          "name": "Lujo Asi\u00e1tico",
-          "url": "https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI"
+          "name": "Asaph S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
         }
       ],
-      "duration_ms": 288068,
-      "name": "AM Prosperita\u0308t",
-      "url": "https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf"
+      "duration_ms": 316285,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1177,36 +1177,20 @@
       "url": "https://open.spotify.com/track/4l9qE7OMktnSUGwvU7kLNU"
     },
     {
-      "added_at": "2022-02-15 01:09:46",
+      "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "1981",
-        "url": "https://open.spotify.com/album/2sBnGK0TmbE9uSjX8G7bin"
+        "name": "AM Prosperita\u0308t",
+        "url": "https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN"
       },
       "artists": [
         {
-          "name": "Hautefort",
-          "url": "https://open.spotify.com/artist/5Loh152dLFcu8etyfQKuCg"
+          "name": "Lujo Asi\u00e1tico",
+          "url": "https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI"
         }
       ],
-      "duration_ms": 254954,
-      "name": "1981",
-      "url": "https://open.spotify.com/track/6r7PBDvtEQQZwsSvKLLgRJ"
-    },
-    {
-      "added_at": "2022-03-16 01:05:35",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT"
-      },
-      "artists": [
-        {
-          "name": "Asaph S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
-        }
-      ],
-      "duration_ms": 316285,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ"
+      "duration_ms": 288068,
+      "name": "AM Prosperita\u0308t",
+      "url": "https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1223,6 +1207,22 @@
       "duration_ms": 488904,
       "name": "Spiral Era",
       "url": "https://open.spotify.com/track/0Izt53lFwp9luhhdvkbozM"
+    },
+    {
+      "added_at": "2022-02-15 01:09:46",
+      "album": {
+        "name": "1981",
+        "url": "https://open.spotify.com/album/2sBnGK0TmbE9uSjX8G7bin"
+      },
+      "artists": [
+        {
+          "name": "Hautefort",
+          "url": "https://open.spotify.com/artist/5Loh152dLFcu8etyfQKuCg"
+        }
+      ],
+      "duration_ms": 254954,
+      "name": "1981",
+      "url": "https://open.spotify.com/track/6r7PBDvtEQQZwsSvKLLgRJ"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1289,22 +1289,6 @@
       "url": "https://open.spotify.com/track/1WhSh6bCQsJxgR7KmjSa8J"
     },
     {
-      "added_at": "2022-02-18 05:44:49",
-      "album": {
-        "name": "Mira",
-        "url": "https://open.spotify.com/album/3c89p68JzC9KpphEV6mPCC"
-      },
-      "artists": [
-        {
-          "name": "Eternell",
-          "url": "https://open.spotify.com/artist/291RkboHEBrMp5hAsqCnT9"
-        }
-      ],
-      "duration_ms": 1088375,
-      "name": "Mira",
-      "url": "https://open.spotify.com/track/2fnOqI8zN1VYYlup3H1zJS"
-    },
-    {
       "added_at": "2024-04-12 00:43:48",
       "album": {
         "name": "Redivider",
@@ -1321,20 +1305,36 @@
       "url": "https://open.spotify.com/track/4bPOoJowB7VM7TkdP2Y5p2"
     },
     {
-      "added_at": "2022-09-21 02:32:57",
+      "added_at": "2022-02-18 05:44:49",
       "album": {
-        "name": "Red Ribbon",
-        "url": "https://open.spotify.com/album/17mDWGdTnVS1h7yXMmrxUp"
+        "name": "Mira",
+        "url": "https://open.spotify.com/album/3c89p68JzC9KpphEV6mPCC"
       },
       "artists": [
         {
-          "name": "Yuta Matsumura",
-          "url": "https://open.spotify.com/artist/406gPYJrv2Xq4YRJub1qRa"
+          "name": "Eternell",
+          "url": "https://open.spotify.com/artist/291RkboHEBrMp5hAsqCnT9"
         }
       ],
-      "duration_ms": 265467,
-      "name": "Myth Machine",
-      "url": "https://open.spotify.com/track/5RwtVAXUUAa8O6ypxYmW04"
+      "duration_ms": 1088375,
+      "name": "Mira",
+      "url": "https://open.spotify.com/track/2fnOqI8zN1VYYlup3H1zJS"
+    },
+    {
+      "added_at": "2022-09-30 02:23:59",
+      "album": {
+        "name": "Marilene (Somewhere in Texas)",
+        "url": "https://open.spotify.com/album/77JuxMNZxYkDmhDzFywvn7"
+      },
+      "artists": [
+        {
+          "name": "Gigi Masin",
+          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
+        }
+      ],
+      "duration_ms": 475734,
+      "name": "Marilene - Somewhere in Texas",
+      "url": "https://open.spotify.com/track/6jVbgzKpU5TV5Vijk7TD37"
     }
   ],
   "unique_name": "transience",

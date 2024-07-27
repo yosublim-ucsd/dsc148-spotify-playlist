@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "Only the best in South African and international RnB. Cover: <a href=https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT?si=Gcy3YRHuRC29m4ViXEwzjQ>Th&o.</a>",
+  "description": "Only the best in South African and international RnB. Cover: <a href=https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8?si=jIglGAbjRJKYFOfoE7esMw>Nanette</a>",
   "name": "R&Beats",
   "tracks": [
     {
@@ -122,7 +122,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 168774,
       "name": "911",
       "url": "https://open.spotify.com/track/4VlioYoSh1fT16hnERNsfF"
@@ -296,7 +296,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 165923,
       "name": "Alright",
       "url": "https://open.spotify.com/track/1OnoR9XSLxwxrLoMO6ECTA"
@@ -1513,6 +1513,32 @@
     },
     {
       "album": {
+        "name": "Emotional Home",
+        "url": "https://open.spotify.com/album/0rY5tMhcmXGzDzjoJw7oN8"
+      },
+      "artists": [
+        {
+          "name": "Mx Blouse",
+          "url": "https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE"
+        },
+        {
+          "name": "Dronezz",
+          "url": "https://open.spotify.com/artist/4qaoALS2X6hdiXnhBC7aDo"
+        },
+        {
+          "name": "OLOTU",
+          "url": "https://open.spotify.com/artist/2DmyeIzUYJ2G2h5uZ04yVL"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Emotional Home",
+      "url": "https://open.spotify.com/track/3ONXONRB7KYAgh8TZSzGzu"
+    },
+    {
+      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/7tF5ODlbKj6FoKrDJsgDmJ"
       },
@@ -1857,6 +1883,24 @@
     },
     {
       "album": {
+        "name": "For Real",
+        "url": "https://open.spotify.com/album/3awCUglJKVQnxG3QltEfnx"
+      },
+      "artists": [
+        {
+          "name": "Joda Kgosi",
+          "url": "https://open.spotify.com/artist/4JKR7xRiiHNUXEiHHwg1E8"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175294,
+      "name": "For Real",
+      "url": "https://open.spotify.com/track/69sB8DDI4ncVM9hA9yWOl5"
+    },
+    {
+      "album": {
         "name": "Forever (feat. Musa Keys)",
         "url": "https://open.spotify.com/album/78LeMCforL5axRdd6EizOw"
       },
@@ -2106,6 +2150,24 @@
       "duration_ms": 175565,
       "name": "Go Girlfriend",
       "url": "https://open.spotify.com/track/7sDsbFNNQmG2UmRjHtO7fW"
+    },
+    {
+      "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/6f30WX67H8igtjmtcPmAs9"
+      },
+      "artists": [
+        {
+          "name": "Yashna",
+          "url": "https://open.spotify.com/artist/7tUJZBp4pit6GbiSI1kZzH"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113994,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/0btvV1jKl5TdPWHOvwP5Tt"
     },
     {
       "album": {
@@ -2665,6 +2727,28 @@
     },
     {
       "album": {
+        "name": "JABO",
+        "url": "https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "JABO",
+      "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
+    },
+    {
+      "album": {
         "name": "Jalimane",
         "url": "https://open.spotify.com/album/4KVI1XoSAFSTJxriWHovxm"
       },
@@ -2946,7 +3030,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 204230,
       "name": "LOCATION",
       "url": "https://open.spotify.com/track/5kgeRCTZk6TpdYKcwiqQL8"
@@ -2986,6 +3070,24 @@
       "duration_ms": 153800,
       "name": "Looking Good",
       "url": "https://open.spotify.com/track/5xzmxRIdBaPGp1y6kJa7Hh"
+    },
+    {
+      "album": {
+        "name": "Love & Romance",
+        "url": "https://open.spotify.com/album/4CzwxBapoqBCrfVT6ew7Q1"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133343,
+      "name": "Love & Romance",
+      "url": "https://open.spotify.com/track/2USyKcOX5LnK7gOMVwOBWT"
     },
     {
       "album": {
@@ -3076,7 +3178,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 244717,
       "name": "Lovers & Friends",
       "url": "https://open.spotify.com/track/4w2uNhvh3h5UGOvh6M2uEe"
@@ -3342,7 +3444,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 140307,
       "name": "MORE",
       "url": "https://open.spotify.com/track/56Oe9EY7yofIzej5nin0qa"
@@ -4447,6 +4549,24 @@
     },
     {
       "album": {
+        "name": "see u soon",
+        "url": "https://open.spotify.com/album/4aYa2JkUWVkOXptMYZtdq5"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160557,
+      "name": "show u luv",
+      "url": "https://open.spotify.com/track/6AMKemHX5TjvWwVCQgkYJY"
+    },
+    {
+      "album": {
         "name": "Shows N Hoes",
         "url": "https://open.spotify.com/album/1YsHvmgHdbPy1td3LVNzAX"
       },
@@ -4698,10 +4818,36 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 186947,
       "name": "Stay The Night",
       "url": "https://open.spotify.com/track/669iVry0mTcX42pgTnCCOF"
+    },
+    {
+      "album": {
+        "name": "STEADY (feat. SaveMilli & Mzizi)",
+        "url": "https://open.spotify.com/album/3NOddMI2rgOUKZDrniiSC3"
+      },
+      "artists": [
+        {
+          "name": "Z\u0101dok",
+          "url": "https://open.spotify.com/artist/72wC9dzKpqHCdw8fQwYpea"
+        },
+        {
+          "name": "SaveMilli",
+          "url": "https://open.spotify.com/artist/2vAdhfI46PzYuG5vhKDxme"
+        },
+        {
+          "name": "Mzizi",
+          "url": "https://open.spotify.com/artist/68H3nOS0Jt2mK3wB6OzeF9"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208163,
+      "name": "STEADY (feat. SaveMilli & Mzizi)",
+      "url": "https://open.spotify.com/track/7L2diwSFqfR6XcOGqasCJR"
     },
     {
       "album": {
@@ -5115,6 +5261,32 @@
     },
     {
       "album": {
+        "name": "The Waiting Room",
+        "url": "https://open.spotify.com/album/5dE0mvQOTu4FbHfZQs7zLj"
+      },
+      "artists": [
+        {
+          "name": "Nanette",
+          "url": "https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8"
+        },
+        {
+          "name": "Tellaman",
+          "url": "https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196923,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/0RV4Vmyw8xgWH8wkdqMBRa"
+    },
+    {
+      "album": {
         "name": "Toxic Trends",
         "url": "https://open.spotify.com/album/0V3g6AqzVtFF7OFQSdqRrL"
       },
@@ -5416,7 +5588,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 173440,
       "name": "Wake Up (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/6pMHL7A5CEPzHHKDRAAMEM"
@@ -5678,7 +5850,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 169095,
       "name": "You will pay",
       "url": "https://open.spotify.com/track/2rVtdP9tWK5nQuupjRZCoy"

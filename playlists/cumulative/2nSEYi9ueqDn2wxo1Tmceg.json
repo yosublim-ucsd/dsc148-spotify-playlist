@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a href=\"https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R?si=yvApwoW3RneZ_gbwb9R4EA\">Buscabulla</a>",
+  "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: Alex Izenberg",
   "name": "Domino Sound System",
   "tracks": [
     {
@@ -4456,6 +4456,24 @@
       "duration_ms": 169519,
       "name": "Dream police",
       "url": "https://open.spotify.com/track/5jdlKW2oMtQkOaZp5YOS4G"
+    },
+    {
+      "album": {
+        "name": "Alex Izenberg & The Exiles",
+        "url": "https://open.spotify.com/album/3WzxlDLJxIRbVxWYRDITq8"
+      },
+      "artists": [
+        {
+          "name": "Alex Izenberg",
+          "url": "https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231826,
+      "name": "Dreams of D\u00e9j\u00e0 Vu",
+      "url": "https://open.spotify.com/track/3ZKyp4OeA8DtjjpA1V3fqn"
     },
     {
       "album": {
@@ -12448,6 +12466,24 @@
       "duration_ms": 189093,
       "name": "Only One",
       "url": "https://open.spotify.com/track/5MXegzzvDfUSfwpf8a0FCq"
+    },
+    {
+      "album": {
+        "name": "Alex Izenberg & The Exiles",
+        "url": "https://open.spotify.com/album/3WzxlDLJxIRbVxWYRDITq8"
+      },
+      "artists": [
+        {
+          "name": "Alex Izenberg",
+          "url": "https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251933,
+      "name": "Only the Moon Knows",
+      "url": "https://open.spotify.com/track/3WxMsxT812MRtPqbYj9vSC"
     },
     {
       "album": {

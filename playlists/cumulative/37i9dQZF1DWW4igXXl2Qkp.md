@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWW4igXXl2Qkp)
 
-> The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:0eDNqRYxeFKUX3VWiQ5HlO">Nasir Dar</a>
+> The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:4nVa6XlBFlIkF6msW57PHp">Hanumankind</a>
 
-1,331 songs - 2 day 9 hr 44 min
+1,332 songs - 2 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Big Bad Wolf](https://open.spotify.com/track/5QccbFykzI4ePpTCXx6Z0l) | [Young Deji](https://open.spotify.com/artist/1t5tAYJj9NvTlAYjj7wXwX) | [Big Bad Wolf](https://open.spotify.com/album/040VJW8GgJQW9QHsVXajxc) | 3:24 | 2023-02-22 | 2023-04-13 |
 | [Big Bandz \(feat\. MDMA\)](https://open.spotify.com/track/6IlvWJ5mKeBQg8sqNDslI1) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr), [MDMA](https://open.spotify.com/artist/6ObHBWkhqC6awDFfWDvpzg) | [Big Bandz \(feat\. MDMA\)](https://open.spotify.com/album/3jrUV028nIcQeFXNQpwFl3) | 2:41 | 2021-12-01 | 2022-01-14 |
 | [Big Bank](https://open.spotify.com/track/61IrD4hmjsM5myqBWmeZc7) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq), [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [Pigeons & Planes presents: See You Next Year 2](https://open.spotify.com/album/2HmJbK4LHezgshv0V4m9bi) | 2:42 | 2024-04-10 | 2024-05-02 |
+| [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-07-25 |  |
 | [big lexii' \(hands on your knees\)](https://open.spotify.com/track/6V9OjgnanRVRdrlE5jtkFX) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [big lexii' \(hands on your knees\)](https://open.spotify.com/album/5ZDfhxEwHVsuDz2Cz6TPzN) | 2:23 | 2024-07-24 |  |
 | [Big Papa](https://open.spotify.com/track/7D0V5Va2bh4EcARMvFyLId) | [2Fly Savi](https://open.spotify.com/artist/0tOW15xQU3yG8GpEuZ0ueI), [Maeli](https://open.spotify.com/artist/3rSmCpRb0YL7Rkoi97kxrG) | [Big Papa](https://open.spotify.com/album/3HdFKCcEHflXryNA36JHTs) | 3:21 | 2022-08-24 | 2022-10-06 |
 | [Bigger Picture uh huh](https://open.spotify.com/track/4MJ5oUOpL1a4mA2DjSRLn1) | [Woodboy Gee](https://open.spotify.com/artist/1ZV2KmW1PKg82oqHxtAzbA), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Bigger Picture uh huh](https://open.spotify.com/album/0ugYQ239yyIJuFS3lGSqvj) | 3:20 | 2023-08-16 | 2023-09-14 |
@@ -1239,7 +1240,7 @@
 | [UnderWater](https://open.spotify.com/track/3HW7UGBfsoYS2KIjZN3gwk) | [nyan](https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr) | [SHELLS](https://open.spotify.com/album/5uf5Lw6nR3McOPXYOqHU41) | 3:50 | 2023-01-18 | 2023-03-09 |
 | [Unsigned Hype](https://open.spotify.com/track/7t5ua3XEUvaQ32EglBnRQR) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6), [Denaro Love](https://open.spotify.com/artist/3UQ4t7zbgnxHGuNuuVlewc) | [Unsigned Hype](https://open.spotify.com/album/0FEYaz2fMu7xOEeFACjng5) | 2:29 | 2022-03-16 | 2022-04-07 |
 | [UP, LIT.](https://open.spotify.com/track/5otwYoHr4ML9vOLfpoDPaU) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [UP, LIT.](https://open.spotify.com/album/0yfQ1iNGmgIaQqJlqcO1HZ) | 1:57 | 2024-04-24 | 2024-05-02 |
-| [Usd](https://open.spotify.com/track/5Z4f7ygqm4qyhWalKk45fG) | [Nasir Dar](https://open.spotify.com/artist/0eDNqRYxeFKUX3VWiQ5HlO) | [Usd](https://open.spotify.com/album/6Ki1upBIRfNRHnJkBlcYrn) | 2:22 | 2024-07-24 |  |
+| [Usd](https://open.spotify.com/track/5Z4f7ygqm4qyhWalKk45fG) | [Nasir Dar](https://open.spotify.com/artist/0eDNqRYxeFKUX3VWiQ5HlO) | [Usd](https://open.spotify.com/album/6Ki1upBIRfNRHnJkBlcYrn) | 2:22 | 2024-07-24 | 2024-07-27 |
 | [Used To This](https://open.spotify.com/track/2eIFkERbBslhcFrF0SRLgL) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Used To This](https://open.spotify.com/album/1ClebLumn5M7VKWTZJaUVU) | 2:59 | 2021-12-01 | 2022-01-14 |
 | [Vacant House](https://open.spotify.com/track/3JbUSy1PDFY7ZeK4IRqxUv) | [ITS HAB](https://open.spotify.com/artist/0yTmOWyk27vjls6vsyEVIV), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Vacant House](https://open.spotify.com/album/03TWNMfcLPbFNpwE3mVmvB) | 2:49 | 2023-02-22 | 2023-03-30 |
 | [Vanish](https://open.spotify.com/track/3WS7XmqLWy2CEXLLABVsDc) | [Legend Yae](https://open.spotify.com/artist/41JFOCSk00m4hv4RigJViZ) | [Vanish](https://open.spotify.com/album/4TCv8hUT2EWButKeOC2jnC) | 2:30 | 2022-10-13 | 2022-11-24 |
@@ -1298,7 +1299,7 @@
 | [Who](https://open.spotify.com/track/1E3u5YwynwrKVXxSzbjN6B) | [London Hilll](https://open.spotify.com/artist/7cqLnc6zTajTX61F6SGA2A) | [Who](https://open.spotify.com/album/3XYxlKlKE5aLFcD6Z5vJu9) | 2:10 | 2022-09-21 | 2022-10-27 |
 | [Who You Touch](https://open.spotify.com/track/5lZ7DUgnBIF8MbpvTtu63v) | [Mel Glizzy](https://open.spotify.com/artist/3oHslHONGm8430YAleJiOk), [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [Who You Touch](https://open.spotify.com/album/7c1dknlYYI8gHRQ7Ekedt8) | 1:48 | 2022-06-30 | 2022-08-25 |
 | [who?](https://open.spotify.com/track/6GO4Wjcz1yiZHtPBE4DzAJ) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [who?](https://open.spotify.com/album/4pGFupinAniBUGQbNEeFuW) | 2:29 | 2023-06-28 | 2024-04-11 |
-| [Whole Thing feat VonOff1700](https://open.spotify.com/track/5E6gBjIg5hLk5RJqahiMU5) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [Whole Thing](https://open.spotify.com/album/2I31Wy4sDxGE39uPHNFe2e) | 1:57 | 2024-07-24 |  |
+| [Whole Thing feat VonOff1700](https://open.spotify.com/track/5E6gBjIg5hLk5RJqahiMU5) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [Whole Thing](https://open.spotify.com/album/2I31Wy4sDxGE39uPHNFe2e) | 3:20 | 2024-07-24 |  |
 | [Why](https://open.spotify.com/track/5kpnHcXBVgGRFRfHERO9oK) | [Money Mu](https://open.spotify.com/artist/0Rw1qXuXVii6ZllsXCWKi7) | [Why](https://open.spotify.com/album/7j6J2opsUSXqzC4UYbbbMl) | 3:50 | 2024-04-24 | 2024-05-23 |
 | [Wicked Inna RaQ](https://open.spotify.com/track/6Qc6KIe2HMCtHAE8M7PC4s) | [Lil Nuu](https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE) | [Wicked Inna RaQ](https://open.spotify.com/album/2UQE2FyVFL2Sk3JLzqvmV7) | 2:31 | 2022-08-31 | 2023-01-12 |
 | [Wife](https://open.spotify.com/track/3rGbTqECbeFc82sdYGv3Pz) | [Wynne](https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX), [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [Some Like It Hot](https://open.spotify.com/album/3i47bG7gXG3OurOD0fpIVX) | 3:31 | 2023-07-19 | 2024-03-28 |

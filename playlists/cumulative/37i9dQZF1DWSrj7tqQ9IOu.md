@@ -2,7 +2,7 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Clément Froissard
+> The best French indie tracks right now\. Cover : Alice et Moi
 
 512 songs - 1 day 4 hr 4 min
 
@@ -79,7 +79,7 @@
 | [chanson triste](https://open.spotify.com/track/5WFiYXOtO5u45X5mLv6ckW) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [chanson triste](https://open.spotify.com/album/1QurzPgalUkcteDy3b6DUm) | 3:22 | 2022-10-13 | 2023-06-02 |
 | [Chifoumi](https://open.spotify.com/track/6lKs1pXjZvGQHNky3qD6qz) | [Novaé Lita](https://open.spotify.com/artist/1tZ9lQ62KmVFephCl3hfB6) | [Chifoumi](https://open.spotify.com/album/3Wfi96jmFxSxBdv510bSar) | 2:29 | 2022-10-13 | 2023-03-03 |
 | [Chui pu fort](https://open.spotify.com/track/1VkMX6F5GJH2ggI6JFUVjD) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj) | [Chui pu fort](https://open.spotify.com/album/71j1HEoL1pXrWb24SaSNGs) | 2:09 | 2022-05-12 | 2022-06-10 |
-| [Ciao Paris!](https://open.spotify.com/track/1KRwiG5K8nliFRualGxUNL) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Ciao Paris!](https://open.spotify.com/album/6yxgASQFnI2BQOBLfJOPSX) | 3:25 | 2024-06-20 |  |
+| [Ciao Paris!](https://open.spotify.com/track/1KRwiG5K8nliFRualGxUNL) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Ciao Paris!](https://open.spotify.com/album/6yxgASQFnI2BQOBLfJOPSX) | 3:24 | 2024-06-20 |  |
 | [Cinecittà](https://open.spotify.com/track/5FBkgVSvJJmdc8FQ7wttXv) | [Fils Cara](https://open.spotify.com/artist/42SznvyZNQon11BUfdPadN) | [Cinecittà](https://open.spotify.com/album/2tYErUP9mEPl64sKkXzure) | 3:37 | 2022-09-01 | 2022-09-03 |
 | [Cinéma](https://open.spotify.com/track/31CfJjcoplMlUpvbp5226g) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [Tao](https://open.spotify.com/artist/3X7X2ZNgwC4TkAUTDLAV9h) | [Cinéma](https://open.spotify.com/album/4RA0vuI5Iay7XIjnX5PanZ) | 3:00 | 2022-07-21 | 2022-09-23 |
 | [Cinéma](https://open.spotify.com/track/6KXJymOSI776EMEgY96JbP) | [Elephanz](https://open.spotify.com/artist/2CD8tl357w6zYA3XYuOJPO), [Zahia Dehar](https://open.spotify.com/artist/5b6Y4VfGSc8rw3XA7PZPDh) | [Rien De Personnel](https://open.spotify.com/album/5kO9QAxCNOKUwSQuvi4KAO) | 3:09 | 2023-10-19 | 2023-11-24 |

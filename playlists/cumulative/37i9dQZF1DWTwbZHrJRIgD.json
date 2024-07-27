@@ -1749,6 +1749,32 @@
     },
     {
       "album": {
+        "name": "Hauli Hauli (From \"Khel Khel Mein\")",
+        "url": "https://open.spotify.com/album/4RnA4EP9q4Q6NRcjARwUCU"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168016,
+      "name": "Hauli Hauli (From \"Khel Khel Mein\")",
+      "url": "https://open.spotify.com/track/1riuemY0uGVSZ1YzVTmmUw"
+    },
+    {
+      "album": {
         "name": "Heeriye (feat. Arijit Singh)",
         "url": "https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS"
       },
@@ -1938,6 +1964,28 @@
       "duration_ms": 183882,
       "name": "In Raahon Mein (From \"The Archies\")",
       "url": "https://open.spotify.com/track/25qNCxhu9VzFgcCPawszwh"
+    },
+    {
+      "album": {
+        "name": "Soorma (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/76PIQnieybHVXDpW7Cc64l"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287134,
+      "name": "Ishq Di Baajiyaan",
+      "url": "https://open.spotify.com/track/6gHVMInOPMsA4ujf0nWHSt"
     },
     {
       "album": {

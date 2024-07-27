@@ -1,18 +1,18 @@
 {
   "description": "Push play on the coolest playlist around, and get ready to jump around. Cover: Gracie's Corner",
-  "num_followers": 62012,
+  "num_followers": 62381,
   "original_name": "Hip-Hop & R&B for Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpCqQAAAAAADGfPmTXvtz8y+cfnpeqcK",
+  "snapshot_id": "ZqMfQAAAAAAR1Ad3BMCk/6UxVKu2nVZG",
   "tracks": [
     {
-      "added_at": "2024-07-05 04:00:00",
+      "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Veggie Dance",
-        "url": "https://open.spotify.com/album/5rFResvBMH7atGl0pFSaUZ"
+        "name": "Who Stole the Cookies?",
+        "url": "https://open.spotify.com/album/4SytWyafqvc5Z3WFalCR1O"
       },
       "artists": [
         {
@@ -20,33 +20,45 @@
           "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH"
         }
       ],
-      "duration_ms": 105124,
-      "name": "Veggie Dance - Steamed Broccoli",
-      "url": "https://open.spotify.com/track/2Ino5VIjhkchNGPk2WfQxO"
+      "duration_ms": 203595,
+      "name": "Who Stole the Cookies?",
+      "url": "https://open.spotify.com/track/3QvkCAl9TveAsc1epCJ51N"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "That Girl Lay Lay (Music from Season 2)",
-        "url": "https://open.spotify.com/album/5FHjNYrEKSnIUft6AOzUtK"
+        "name": "Nick Jr. Mix It Up! Vol. 13: Move To The Groove (The Remixes)",
+        "url": "https://open.spotify.com/album/2s7pcrZt1MjlDJTvPaFmNW"
       },
       "artists": [
         {
-          "name": "Nickelodeon",
-          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
         },
         {
-          "name": "That Girl Lay Lay",
-          "url": "https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ"
-        },
-        {
-          "name": "Good NEWZ Girls",
-          "url": "https://open.spotify.com/artist/72RsQdxG1n4NDTHnP9e4zs"
+          "name": "Noggin",
+          "url": "https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn"
         }
       ],
-      "duration_ms": 130636,
-      "name": "This Life",
-      "url": "https://open.spotify.com/track/5PVSIUnD7HPhJdUOEkCa19"
+      "duration_ms": 139194,
+      "name": "Clap Your Hands Everybody - Groove Remix",
+      "url": "https://open.spotify.com/track/0SZ47HNnI88FHhOGzVUC5s"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Big Feelings",
+        "url": "https://open.spotify.com/album/2aW9TbZPlTk74HCP2Zqpwn"
+      },
+      "artists": [
+        {
+          "name": "Uncle Apple",
+          "url": "https://open.spotify.com/artist/07FHLWnXS1tigApNnuDp9M"
+        }
+      ],
+      "duration_ms": 181651,
+      "name": "Big Feelings",
+      "url": "https://open.spotify.com/track/3d05iVzuY8F9wjD87ciT0e"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -85,20 +97,44 @@
       "url": "https://open.spotify.com/track/3lp8uKSytH2EkthguoNZcS"
     },
     {
-      "added_at": "2024-06-21 04:00:00",
+      "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "I Love Dinosaurs",
-        "url": "https://open.spotify.com/album/4g2hEUxtILneGHgfl3p5zf"
+        "name": "That Girl Lay Lay (Music from Season 2)",
+        "url": "https://open.spotify.com/album/5FHjNYrEKSnIUft6AOzUtK"
       },
       "artists": [
         {
-          "name": "Uncle Apple",
-          "url": "https://open.spotify.com/artist/07FHLWnXS1tigApNnuDp9M"
+          "name": "Nickelodeon",
+          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
+        },
+        {
+          "name": "That Girl Lay Lay",
+          "url": "https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ"
+        },
+        {
+          "name": "Good NEWZ Girls",
+          "url": "https://open.spotify.com/artist/72RsQdxG1n4NDTHnP9e4zs"
         }
       ],
-      "duration_ms": 188000,
-      "name": "I Love Dinosaurs",
-      "url": "https://open.spotify.com/track/0V9Yrvf9H7LNyT4QVcZYxh"
+      "duration_ms": 130636,
+      "name": "This Life",
+      "url": "https://open.spotify.com/track/5PVSIUnD7HPhJdUOEkCa19"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Veggie Dance",
+        "url": "https://open.spotify.com/album/5rFResvBMH7atGl0pFSaUZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie's Corner",
+          "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH"
+        }
+      ],
+      "duration_ms": 105124,
+      "name": "Veggie Dance - Steamed Broccoli",
+      "url": "https://open.spotify.com/track/2Ino5VIjhkchNGPk2WfQxO"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -189,30 +225,6 @@
       "url": "https://open.spotify.com/track/2bbeE4H4kCINFSUvQcprmE"
     },
     {
-      "added_at": "2024-04-26 04:01:00",
-      "album": {
-        "name": "Nick Jr. Mix It Up! Vol. 10: Hip Hop Playground (The Remixes)",
-        "url": "https://open.spotify.com/album/1o8i8X0PNEAXU3PkGKWTKx"
-      },
-      "artists": [
-        {
-          "name": "Nick Jr.",
-          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
-        },
-        {
-          "name": "Noggin",
-          "url": "https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn"
-        },
-        {
-          "name": "Darryl \"DMC\" McDaniels",
-          "url": "https://open.spotify.com/artist/6a8v4haj3oDEJiDMVrAJAn"
-        }
-      ],
-      "duration_ms": 123870,
-      "name": "Contradict - Hip Hop Remix",
-      "url": "https://open.spotify.com/track/0EgmP7D9aaMjUbzc7fHHli"
-    },
-    {
       "added_at": "2024-04-19 04:01:00",
       "album": {
         "name": "Once I Caught A Fish Alive",
@@ -283,22 +295,6 @@
       "duration_ms": 129882,
       "name": "I'm Happy",
       "url": "https://open.spotify.com/track/6r6o3KFnIjHq5oHh3KxEyo"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
-        "name": "Play Outside",
-        "url": "https://open.spotify.com/album/0JWaUhGdMrPXGu1DdUq424"
-      },
-      "artists": [
-        {
-          "name": "Gracie's Corner",
-          "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH"
-        }
-      ],
-      "duration_ms": 151926,
-      "name": "Play Outside",
-      "url": "https://open.spotify.com/track/3t4STKA849plfaghVfM57x"
     },
     {
       "added_at": "2024-02-23 05:01:00",

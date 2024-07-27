@@ -405,6 +405,28 @@
     },
     {
       "album": {
+        "name": "BANDITS",
+        "url": "https://open.spotify.com/album/5aOnHMnFJ8KNdztwaWsVco"
+      },
+      "artists": [
+        {
+          "name": "Benda",
+          "url": "https://open.spotify.com/artist/0md3NIXueJZSFZ82HMu26M"
+        },
+        {
+          "name": "Phvge",
+          "url": "https://open.spotify.com/artist/75SYxpsFl3pR4GLXkzrCul"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162206,
+      "name": "BANDIT",
+      "url": "https://open.spotify.com/track/1fAuOuvbZiQS9tOiTgB9Hf"
+    },
+    {
+      "album": {
         "name": "Baptize (Sullivan King Remix)",
         "url": "https://open.spotify.com/album/5uQbdtWsZJNZwD7MUFYwYj"
       },
@@ -2534,7 +2556,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 205750,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/1qXoZUjtHHkmIBdZeSWNo7"
@@ -4526,7 +4548,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 195720,
       "name": "Kill The Machine (feat. Bad/Love)",
       "url": "https://open.spotify.com/track/0AkxZb3XkSOdLghm6EB7p2"
@@ -5786,6 +5808,28 @@
       "duration_ms": 186375,
       "name": "Nothing's Perfect",
       "url": "https://open.spotify.com/track/6mpK1E4JUAoAuoEDoaenYL"
+    },
+    {
+      "album": {
+        "name": "NOVOCAINE",
+        "url": "https://open.spotify.com/album/7dmzJTyOqfrPbTvGQsXo14"
+      },
+      "artists": [
+        {
+          "name": "Pixel Terror",
+          "url": "https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm"
+        },
+        {
+          "name": "ATHRS",
+          "url": "https://open.spotify.com/artist/5AXI65sMlxQ1GtWmoyf3jN"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177103,
+      "name": "NOVOCAINE",
+      "url": "https://open.spotify.com/track/1FWymtsd4lVBebFXELUMtC"
     },
     {
       "album": {
@@ -7401,6 +7445,28 @@
     },
     {
       "album": {
+        "name": "Slaughter",
+        "url": "https://open.spotify.com/album/2FwvuABjqUv9FzLkt9DhAc"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Vastive",
+          "url": "https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188667,
+      "name": "Slaughter",
+      "url": "https://open.spotify.com/track/3vQnA7IY2a12sXXJKuCZu2"
+    },
+    {
+      "album": {
         "name": "Sleep (with Calcium)",
         "url": "https://open.spotify.com/album/3U2klaDh13JHc5jP2uW4Y6"
       },
@@ -7548,7 +7614,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 266482,
       "name": "Someone Else - Blanke Remix",
       "url": "https://open.spotify.com/track/4ht1wtZBmlyLAVDivgVYok"

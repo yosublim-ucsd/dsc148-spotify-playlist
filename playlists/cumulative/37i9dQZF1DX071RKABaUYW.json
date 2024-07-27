@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Fresh eclectic. Post-genre. Exceptional taste. Cover: Koteri",
+  "description": "Fresh eclectic. Post-genre. Exceptional taste. Cover: Thandii",
   "name": "The Basement",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 188059,
       "name": "April",
       "url": "https://open.spotify.com/track/5vRkKwUx1PPZZqv87vydn9"
@@ -222,7 +222,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 179538,
       "name": "Blue Car",
       "url": "https://open.spotify.com/track/6q0T53SQOskEXvzI5BcpWR"
@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Call It What You Like",
+        "url": "https://open.spotify.com/album/0xIthbyKWIGoE8d2JsaZwW"
+      },
+      "artists": [
+        {
+          "name": "Thandii",
+          "url": "https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174269,
+      "name": "Call It What You Like",
+      "url": "https://open.spotify.com/track/19thWvK8cJVrcE27CgmRO3"
+    },
+    {
+      "album": {
         "name": "Casa Los Abuelos",
         "url": "https://open.spotify.com/album/4I2OJjQCVfqIrqpkzlJYrn"
       },
@@ -280,6 +298,46 @@
       "duration_ms": 171679,
       "name": "Casa Los Abuelos",
       "url": "https://open.spotify.com/track/6xmg79kolFscm71nzySV86"
+    },
+    {
+      "album": {
+        "name": "certainty",
+        "url": "https://open.spotify.com/album/1mW388OjThhtWUVMwp4bl4"
+      },
+      "artists": [
+        {
+          "name": "piglet",
+          "url": "https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP"
+        },
+        {
+          "name": "Tiberius b",
+          "url": "https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216797,
+      "name": "certainty",
+      "url": "https://open.spotify.com/track/3eQmqGDDJDvFsPjINNcFoT"
+    },
+    {
+      "album": {
+        "name": "Charlie's Comet",
+        "url": "https://open.spotify.com/album/5Rfey08LMXUVIPlXr3r6HH"
+      },
+      "artists": [
+        {
+          "name": "Mandrake Handshake",
+          "url": "https://open.spotify.com/artist/3tW2ocpP6a9HqZoWgn45kn"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242953,
+      "name": "Charlie's Comet",
+      "url": "https://open.spotify.com/track/2Y7Z6kTzPQFwStThi451lf"
     },
     {
       "album": {
@@ -468,7 +526,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 222000,
       "name": "Dreembaby",
       "url": "https://open.spotify.com/track/6gdAcXYkLZ3zjNf25rlgyG"
@@ -684,7 +742,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 225760,
       "name": "Jealousy",
       "url": "https://open.spotify.com/track/6HicdIESnZ6itrt8JFk3ed"
@@ -1190,7 +1248,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 260484,
       "name": "projections",
       "url": "https://open.spotify.com/track/0ler9C55DJbLJsgJprlFis"
@@ -1244,7 +1302,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 124506,
       "name": "Reprise",
       "url": "https://open.spotify.com/track/0npf0yCBJT6eUacG3XhwLf"
@@ -1327,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "Seadog",
+        "url": "https://open.spotify.com/album/1jWnaJ9rgfSbqZssRhGGPQ"
+      },
+      "artists": [
+        {
+          "name": "SALPA",
+          "url": "https://open.spotify.com/artist/5PzAy8BYEOWW9Vu6feYpvO"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220319,
+      "name": "Seadog",
+      "url": "https://open.spotify.com/track/0rfmy0JozPTgY05rr1mjRr"
+    },
+    {
+      "album": {
         "name": "Sinking Again",
         "url": "https://open.spotify.com/album/1Uk4DT1XYVaPYv4OC9IY46"
       },
@@ -1356,7 +1432,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 230750,
       "name": "Sleeping With The Devil",
       "url": "https://open.spotify.com/track/1f6JYGKTv6Tr3uYTAjdsHh"
@@ -1374,7 +1450,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 255392,
       "name": "Slippy",
       "url": "https://open.spotify.com/track/6Y9NFgYQwKpc9QXYsuMuMh"
@@ -1399,6 +1475,32 @@
     },
     {
       "album": {
+        "name": "Spit",
+        "url": "https://open.spotify.com/album/69sM4KiEGA4ZNiBiMu1C3i"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        },
+        {
+          "name": "Lady Lykez",
+          "url": "https://open.spotify.com/artist/2G7c1PLHP1kGjq6XAol0MS"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156572,
+      "name": "Spit",
+      "url": "https://open.spotify.com/track/2avR02odSSywf3NTMLXrbZ"
+    },
+    {
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/2UcSid4Uo7dSdN0vvPd4g9"
       },
@@ -1410,7 +1512,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 176170,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/4xhNbxWDS9S7LImX18oai3"
@@ -1482,7 +1584,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 206808,
       "name": "The Show",
       "url": "https://open.spotify.com/track/7GKceJoP9ciWI0bPfY0Eyh"

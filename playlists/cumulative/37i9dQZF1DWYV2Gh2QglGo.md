@@ -2,9 +2,9 @@
 
 ### [North Country](https://open.spotify.com/playlist/37i9dQZF1DWYV2Gh2QglGo)
 
-> The home of Canadian country music\. Cover: The Washboard Union
+> The home of Canadian country music\. Cover: Cameron Whitcomb
 
-92 songs - 4 hr 54 min
+94 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Get Outta My Dreams, Get into My Truck](https://open.spotify.com/track/7qKUsQ6CsK5k70EAUIlOv4) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Get Outta My Dreams, Get into My Truck](https://open.spotify.com/album/4FgylBunFrYAdWkEAuQPXz) | 3:36 | 2024-06-28 |  |
 | [Go Deep \(Jays Edition\)](https://open.spotify.com/track/7fotqYdDq2BWtHYJV2oTdY) | [Jeremy Macklin](https://open.spotify.com/artist/6JQ5BCJ9lQNQodoGAt3QJ0) | [Go Deep \(Jays Edition\)](https://open.spotify.com/album/2i2YYCoA2SGp3VLUT0HBN0) | 2:56 | 2024-07-19 |  |
 | [Go Get Er](https://open.spotify.com/track/3InbmgnbaVKkrI3mBMrnBq) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Heartbreaker](https://open.spotify.com/album/5XIsumyPFxk44Y4MXu5edY) | 3:03 | 2024-06-28 |  |
+| [Golden Rules](https://open.spotify.com/track/4cIpz9pVrZ0aaHWqAMMaW7) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [Golden Rules](https://open.spotify.com/album/51KnCu9usIKL5K2RMDoAEY) | 3:01 | 2024-07-26 |  |
 | [Got It](https://open.spotify.com/track/1hJzdE1N69zSEmG5VIhEwy) | [Dustin Bird](https://open.spotify.com/artist/2SLrAqe5sHj0UuRYla8LOf) | [Got It](https://open.spotify.com/album/2mEdu1KXHXyY8KaKnTBf0F) | 2:47 | 2024-06-28 |  |
 | [HELL YEAH](https://open.spotify.com/track/6ihqdWcWjIMoTtdPgevo2K) | [Andy Colonico](https://open.spotify.com/artist/3u3WCmcBDZw4Ow4sDft4kO) | [HELL YEAH](https://open.spotify.com/album/4hI2zD9yAGH86zksyQE1U6) | 3:20 | 2024-06-28 | 2024-07-19 |
 | [Here To Stay](https://open.spotify.com/track/6I9nTnwUOzb8hHukEoBkeH) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Here To Stay](https://open.spotify.com/album/5jm0SNnhwVAVpOp7AIvCWN) | 3:12 | 2024-06-28 |  |
@@ -71,6 +72,7 @@
 | [Poor, Poor Pitiful Me](https://open.spotify.com/track/53lv0crKsP5DzRj42Ob65x) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Terri Clark: Take Two](https://open.spotify.com/album/5T3rAvru0i4Zt08lmYLy0v) | 3:15 | 2024-06-28 |  |
 | [Pure Country](https://open.spotify.com/track/5O2AKa1H96ZhGihPTpWiUT) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Pure Country](https://open.spotify.com/album/1gZUQCyi5B18HGD0qbTSX8) | 2:51 | 2024-06-28 |  |
 | [Purple Gas](https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH) | 3:00 | 2024-06-28 |  |
+| [Quitter](https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Quitter](https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz) | 2:41 | 2024-07-26 |  |
 | [Redneck Rehab](https://open.spotify.com/track/1ioW2pEBF2XlfF9GGLYJ4N) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [Redneck Rehab](https://open.spotify.com/album/6uZt8YaxQqUOtHIVJjhU9D) | 3:09 | 2024-06-28 |  |
 | [Right Around Sundown](https://open.spotify.com/track/4QZFOx7kXWnD8IClPfaEp6) | [Reed Salmon](https://open.spotify.com/artist/4opAiuSMSLK0b5bg6UGQFD) | [Right Around Sundown](https://open.spotify.com/album/1BpS3RM0BsRwlIcBsKbFiV) | 2:41 | 2024-06-28 |  |
 | [River Runnin' Wide](https://open.spotify.com/track/0SbrzOOLejgBYDqg9CFw6m) | [Brenton David](https://open.spotify.com/artist/4d3XPB2meP3mifOV6RuvrG) | [River Runnin' Wide](https://open.spotify.com/album/01lfgGvbQL3ZfT7CbaD3zs) | 3:48 | 2024-06-28 |  |
@@ -83,12 +85,12 @@
 | [Still Make Cowgirls](https://open.spotify.com/track/6vuAjHpUrOVoY2hedswbdb) | [Karli June](https://open.spotify.com/artist/4gl24Om08DKLCr0Z6bKatR) | [Still Make Cowgirls](https://open.spotify.com/album/7tYoO5Hw7GbyYXXofPIWi5) | 3:08 | 2024-06-28 |  |
 | [Stuck](https://open.spotify.com/track/2nfzo62qLpxKagL3Ed4lOx) | [David Boyd Janes](https://open.spotify.com/artist/5GxnWuuTpzdnPb57PFxUHM) | [Stuck](https://open.spotify.com/album/6jsTamGJma9aiq767djQ7z) | 3:28 | 2024-06-28 | 2024-07-06 |
 | [That Was The Night](https://open.spotify.com/track/0EIPKmQbx9uRUEV4zDGk4P) | [Benny Douglas](https://open.spotify.com/artist/4SxWoqHdJs8UU6HyNlI9n2) | [That Was The Night](https://open.spotify.com/album/7c4kFeK4ylgwRMeQb0sFPP) | 3:39 | 2024-06-28 | 2024-07-06 |
-| [The Devil I've Seen](https://open.spotify.com/track/4MLomKQI0oeXO1DeJBiRp2) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Devil I've Seen](https://open.spotify.com/album/1KAXeCYFOrQwZzQlpf0dnI) | 3:23 | 2024-06-28 |  |
+| [The Devil I've Seen](https://open.spotify.com/track/4MLomKQI0oeXO1DeJBiRp2) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Devil I've Seen](https://open.spotify.com/album/1KAXeCYFOrQwZzQlpf0dnI) | 3:23 | 2024-06-28 | 2024-07-27 |
 | [The Sound Of A Beer Getting Cracked](https://open.spotify.com/track/5pmt4pyh8w7w8q8zJb9CJA) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ), [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Roads That Go Nowhere](https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir) | 3:14 | 2024-06-28 |  |
 | [TICKET TO RIDE](https://open.spotify.com/track/2lbIfAfYcUqvHqujrqNCjf) | [Myles Erlick](https://open.spotify.com/artist/66j659Hro81qoa1vgG75Ae) | [TICKET TO RIDE](https://open.spotify.com/album/5mQ7VgSUf5rfGeQAOl5bE0) | 2:15 | 2024-06-28 |  |
 | [To Be Honest](https://open.spotify.com/track/5TFu4FGmslo543UyEuxS9l) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [to be honest](https://open.spotify.com/album/3m59dkD0z3TuzwwZSEGt25) | 3:25 | 2024-06-28 | 2024-07-13 |
 | [too hot to be sad](https://open.spotify.com/track/2ws0vS2K6Le9SdOX1n60es) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW) | [pretty girls don’t cry](https://open.spotify.com/album/4soi8ZgqNC0NxPdtbfn3T7) | 2:44 | 2024-06-28 |  |
-| [Train \- Station Edition](https://open.spotify.com/track/2acYhYSssljNJW5Ud90Pyt) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [Train \(Station Edition\)](https://open.spotify.com/album/6qmiXJbehiIQZYQfu4qYit) | 3:21 | 2024-06-28 |  |
+| [Train \- Station Edition](https://open.spotify.com/track/2acYhYSssljNJW5Ud90Pyt) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [Train \(Station Edition\)](https://open.spotify.com/album/6qmiXJbehiIQZYQfu4qYit) | 3:21 | 2024-06-28 | 2024-07-27 |
 | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/track/1lnxr4wngiu820gv1HCbGM) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/album/1HM1VgJl9i35DVwlepdTd8) | 2:39 | 2024-07-19 |  |
 | [Waste Of Space](https://open.spotify.com/track/4iiO21zbbsrp1q7u1pzG1D) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Waste Of Space](https://open.spotify.com/album/1ZV6NU52nZL07pMVfncdCR) | 3:10 | 2024-07-05 |  |
 | [What Shoulder](https://open.spotify.com/track/0rLnFoi6fOsdTaEPYk0OlX) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [What Shoulder](https://open.spotify.com/album/1EVSIDZfMXWVrtCq7PTSgy) | 2:56 | 2024-07-12 |  |

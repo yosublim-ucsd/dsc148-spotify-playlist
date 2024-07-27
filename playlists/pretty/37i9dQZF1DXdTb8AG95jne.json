@@ -1,6 +1,6 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: 10CM) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 470403,
+  "num_followers": 470596,
   "original_name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-07-22 06:00:00",
       "album": {
-        "name": "GAUSSIAN",
-        "url": "https://open.spotify.com/album/3z5HAU2kKo9TJFCxnj7Vw4"
-      },
-      "artists": [
-        {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
-        }
-      ],
-      "duration_ms": 207413,
-      "name": "MIMI",
-      "url": "https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5"
-    },
-    {
-      "added_at": "2024-07-22 06:00:00",
-      "album": {
         "name": "RECONNECT",
         "url": "https://open.spotify.com/album/5xll0TV8daHI8mPW3R9SyC"
       },
@@ -583,6 +567,22 @@
     {
       "added_at": "2024-07-22 06:00:00",
       "album": {
+        "name": "GAUSSIAN",
+        "url": "https://open.spotify.com/album/3z5HAU2kKo9TJFCxnj7Vw4"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "duration_ms": 207413,
+      "name": "MIMI",
+      "url": "https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5"
+    },
+    {
+      "added_at": "2024-07-22 06:00:00",
+      "album": {
         "name": "PRE-RELEASE 3RD ALBUM [YEOK SEONG]",
         "url": "https://open.spotify.com/album/7ISbHpHU4iLp3GiC2fi1oR"
       },
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-07-22 06:00:00",
       "album": {
-        "name": "Pasadena",
-        "url": "https://open.spotify.com/album/2xa1TuBl9eiUkHCIh3C0JG"
-      },
-      "artists": [
-        {
-          "name": "92914",
-          "url": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
-        }
-      ],
-      "duration_ms": 163726,
-      "name": "Pasadena",
-      "url": "https://open.spotify.com/track/36P3PbOaXo4uiv0CIDcTg2"
-    },
-    {
-      "added_at": "2024-07-22 06:00:00",
-      "album": {
         "name": "pool vol. 2 - Peanut Butter Sandwich",
         "url": "https://open.spotify.com/album/3yItJ86DsLRh9OynW2x8pV"
       },
@@ -647,18 +631,34 @@
     {
       "added_at": "2024-07-22 06:00:00",
       "album": {
-        "name": "Hug me tight",
-        "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
+        "name": "Pasadena",
+        "url": "https://open.spotify.com/album/2xa1TuBl9eiUkHCIh3C0JG"
       },
       "artists": [
         {
-          "name": "Heo Hoy Kyung",
-          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+          "name": "92914",
+          "url": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
         }
       ],
-      "duration_ms": 227756,
-      "name": "Hug me tight",
-      "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
+      "duration_ms": 163726,
+      "name": "Pasadena",
+      "url": "https://open.spotify.com/track/36P3PbOaXo4uiv0CIDcTg2"
+    },
+    {
+      "added_at": "2024-07-22 06:00:00",
+      "album": {
+        "name": "\"L\"",
+        "url": "https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx"
+      },
+      "artists": [
+        {
+          "name": "The Volunteers",
+          "url": "https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1"
+        }
+      ],
+      "duration_ms": 242161,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/1Qyg8gMMatJyPIi8da7Pc2"
     },
     {
       "added_at": "2024-07-22 06:00:00",
@@ -679,34 +679,18 @@
     {
       "added_at": "2024-07-22 06:00:00",
       "album": {
-        "name": "Just as We Were",
-        "url": "https://open.spotify.com/album/1weCtwUO67iYwytGnHZGfR"
+        "name": "Hug me tight",
+        "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
       },
       "artists": [
         {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
         }
       ],
-      "duration_ms": 248306,
-      "name": "Just as We Were",
-      "url": "https://open.spotify.com/track/1gNkZGi3evYz8NNWox7SRS"
-    },
-    {
-      "added_at": "2024-07-22 06:00:00",
-      "album": {
-        "name": "\"L\"",
-        "url": "https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx"
-      },
-      "artists": [
-        {
-          "name": "The Volunteers",
-          "url": "https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1"
-        }
-      ],
-      "duration_ms": 242161,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/1Qyg8gMMatJyPIi8da7Pc2"
+      "duration_ms": 227756,
+      "name": "Hug me tight",
+      "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
     },
     {
       "added_at": "2024-07-22 06:00:00",
@@ -743,6 +727,22 @@
     {
       "added_at": "2024-07-22 06:00:00",
       "album": {
+        "name": "Just as We Were",
+        "url": "https://open.spotify.com/album/1weCtwUO67iYwytGnHZGfR"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "duration_ms": 248306,
+      "name": "Just as We Were",
+      "url": "https://open.spotify.com/track/1gNkZGi3evYz8NNWox7SRS"
+    },
+    {
+      "added_at": "2024-07-22 06:00:00",
+      "album": {
         "name": "PLEASURES",
         "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
       },
@@ -755,70 +755,6 @@
       "duration_ms": 167000,
       "name": "In Love",
       "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
-    },
-    {
-      "added_at": "2024-07-22 06:00:00",
-      "album": {
-        "name": "HOME",
-        "url": "https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw"
-      },
-      "artists": [
-        {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "H O M E",
-      "url": "https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr"
-    },
-    {
-      "added_at": "2024-07-22 06:00:00",
-      "album": {
-        "name": "\"L\"",
-        "url": "https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx"
-      },
-      "artists": [
-        {
-          "name": "The Volunteers",
-          "url": "https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1"
-        }
-      ],
-      "duration_ms": 192514,
-      "name": "Starfish on your head",
-      "url": "https://open.spotify.com/track/6EUu1a2UhYLokK3A3xkmRh"
-    },
-    {
-      "added_at": "2024-07-22 06:00:00",
-      "album": {
-        "name": "\ub354 \ud32c 2ROUND Part.1",
-        "url": "https://open.spotify.com/album/7Ls2OqCIyHG87kdU5qhspV"
-      },
-      "artists": [
-        {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
-        }
-      ],
-      "duration_ms": 236578,
-      "name": "\uba85\ub3d9\ucf5c\ub9c1",
-      "url": "https://open.spotify.com/track/47Euae10UxFEcbnR9I9Vgt"
-    },
-    {
-      "added_at": "2024-07-22 06:00:00",
-      "album": {
-        "name": "Rawww",
-        "url": "https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem"
-      },
-      "artists": [
-        {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
-        }
-      ],
-      "duration_ms": 160466,
-      "name": "Rawww",
-      "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
     },
     {
       "added_at": "2024-07-22 06:00:00",
@@ -851,6 +787,70 @@
       "duration_ms": 181266,
       "name": "pony",
       "url": "https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V"
+    },
+    {
+      "added_at": "2024-07-22 06:00:00",
+      "album": {
+        "name": "\"L\"",
+        "url": "https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx"
+      },
+      "artists": [
+        {
+          "name": "The Volunteers",
+          "url": "https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1"
+        }
+      ],
+      "duration_ms": 192514,
+      "name": "Starfish on your head",
+      "url": "https://open.spotify.com/track/6EUu1a2UhYLokK3A3xkmRh"
+    },
+    {
+      "added_at": "2024-07-22 06:00:00",
+      "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "H O M E",
+      "url": "https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr"
+    },
+    {
+      "added_at": "2024-07-22 06:00:00",
+      "album": {
+        "name": "Despite it all",
+        "url": "https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "duration_ms": 229210,
+      "name": "Despite it all",
+      "url": "https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP"
+    },
+    {
+      "added_at": "2024-07-22 06:00:00",
+      "album": {
+        "name": "\ub354 \ud32c 2ROUND Part.1",
+        "url": "https://open.spotify.com/album/7Ls2OqCIyHG87kdU5qhspV"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "duration_ms": 236578,
+      "name": "\uba85\ub3d9\ucf5c\ub9c1",
+      "url": "https://open.spotify.com/track/47Euae10UxFEcbnR9I9Vgt"
     }
   ],
   "unique_name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",

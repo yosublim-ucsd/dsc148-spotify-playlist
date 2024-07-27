@@ -4,7 +4,7 @@
 
 > The best new alternative sounds from Scotland\. Cover: The Joy Hotel
 
-76 songs - 4 hr 21 min
+78 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Liberty Print](https://open.spotify.com/track/60B07L7JYEj0ybkfXLqsdW) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Liberty Print](https://open.spotify.com/album/1ykbR4iwlKdRxxmrJ964yX) | 5:14 | 2024-06-20 |  |
 | [Lighter](https://open.spotify.com/track/2NetoIJAYJiDdZRMDNYn0z) | [pedalo](https://open.spotify.com/artist/1fqIzizZUwYjMHQfjOj7Bk) | [Lighter](https://open.spotify.com/album/49oFGfNyeP24UkUxqqVQoM) | 3:35 | 2024-06-20 |  |
 | [Lost in Tokyo](https://open.spotify.com/track/57OxdbJtZklQTTRM57ZaFk) | [DAYTIME TV](https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8) | [Island.](https://open.spotify.com/album/0xLzITpCXsu6fgGUfXCGaZ) | 2:54 | 2024-06-20 |  |
+| [Meltdown](https://open.spotify.com/track/1b2AUnQiX3nUWGNNfg1Gvk) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Meltdown](https://open.spotify.com/album/4ceRAwrxA75cjjA5nNjzTU) | 4:16 | 2024-07-25 |  |
 | [MERCY KILL](https://open.spotify.com/track/2vX1GxoaaomoYsbRy5VjK6) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [MERCY KILL](https://open.spotify.com/album/0XzfAfWHhZlL7WSL6acUnx) | 3:06 | 2024-06-20 |  |
 | [New World Order](https://open.spotify.com/track/13ZmKAjcGiIX0Qwj4TpnkB) | [Big Miz](https://open.spotify.com/artist/16bJAXH14R42AnpN0FtaQo) | [New World Order](https://open.spotify.com/album/0mLzhqgBQEnOq6Avo658IO) | 3:07 | 2024-07-05 |  |
 | [nothing bad will ever happen to me](https://open.spotify.com/track/7w3GtUBAAqn4e8BI8R2Da3) | [rEDOLENT](https://open.spotify.com/artist/19rA63hvJkczptt2FWeneT) | [nothing bad will ever happen to me](https://open.spotify.com/album/4q8x1qZWpRpGCX91PHn8LT) | 2:39 | 2024-06-20 |  |
@@ -64,12 +65,12 @@
 | [Prevalent](https://open.spotify.com/track/0P33LDGm9juBr78xOFSa4x) | [The Kaves](https://open.spotify.com/artist/0vI8KviF30ZSCucgF2b3nn) | [Prevalent](https://open.spotify.com/album/7bcjALIKl2eBnauVNxKZfq) | 4:45 | 2024-06-20 |  |
 | [Private Public Transport](https://open.spotify.com/track/45ya9ZspTmOlZS1yVPNvWX) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Private Public Transport](https://open.spotify.com/album/56nAGy49ervIzPjAgZDHqL) | 3:20 | 2024-06-20 |  |
 | [PUBLIC ENEMY](https://open.spotify.com/track/2APs9TNlHP096WLwrGBlhE) | [La Mantra](https://open.spotify.com/artist/6UjKvtXEWoIwtWn2qNFcxb) | [PUBLIC ENEMY](https://open.spotify.com/album/4R1CjrhbitwpxzRQW3GY6P) | 2:49 | 2024-06-20 |  |
-| [Red Moon](https://open.spotify.com/track/5brIFiuTqTgZpNkPl4KKMa) | [Gary's Rainbow Shop](https://open.spotify.com/artist/2TYLPnkmNnJQdPGwPHEBhV) | [Red Moon](https://open.spotify.com/album/6RGUkMDxKH047m6P27Vvs5) | 2:42 | 2024-06-20 |  |
+| [Red Moon](https://open.spotify.com/track/5brIFiuTqTgZpNkPl4KKMa) | [Gary's Rainbow Shop](https://open.spotify.com/artist/2TYLPnkmNnJQdPGwPHEBhV) | [Red Moon](https://open.spotify.com/album/6RGUkMDxKH047m6P27Vvs5) | 2:42 | 2024-06-20 | 2024-07-27 |
 | [Ride or Die](https://open.spotify.com/track/61r9UkhMDvzpbaSvBLyscX) | [Belly Rachel](https://open.spotify.com/artist/1ACa5a078zqkCA7kH9XtPZ) | [Ride or Die](https://open.spotify.com/album/1p1Px5AEBiqiKzZbI0q5dC) | 3:40 | 2024-06-20 | 2024-07-05 |
 | [Separate Ways](https://open.spotify.com/track/7gPkzeoJjpGDd7cY3OUREm) | [sheluvsstutt](https://open.spotify.com/artist/04G87C6Hz6UpEzggwCc4QB), [ay3demi](https://open.spotify.com/artist/7gcq03kJfgHiW2qPTwS6q1) | [Separate Ways](https://open.spotify.com/album/3y6wiko4MXH0PkcxDej0f2) | 1:32 | 2024-06-20 |  |
 | [Set Me Free, I’m an Animal](https://open.spotify.com/track/7pgFijqqgOgTiTsy64oCZm) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Set Me Free, I'm an Animal](https://open.spotify.com/album/3qMQ2uQGoDllUYlW4jGV2h) | 3:36 | 2024-06-20 |  |
 | [So Sick](https://open.spotify.com/track/1rmogF9pGNdGKmug9rpW17) | [DAYTIME TV](https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8) | [Island.](https://open.spotify.com/album/0xLzITpCXsu6fgGUfXCGaZ) | 2:28 | 2024-06-20 |  |
-| [Some Kind of Circle](https://open.spotify.com/track/662Lwio3bkZQI7p43zl8PJ) | [North Atlas](https://open.spotify.com/artist/3Ro0E3uacXuCx3iJoa8jua) | [Some Kind of Circle](https://open.spotify.com/album/7tXhoEF1hMRbRCFMBOcMvJ) | 2:24 | 2024-06-20 |  |
+| [Some Kind of Circle](https://open.spotify.com/track/662Lwio3bkZQI7p43zl8PJ) | [North Atlas](https://open.spotify.com/artist/3Ro0E3uacXuCx3iJoa8jua) | [Some Kind of Circle](https://open.spotify.com/album/7tXhoEF1hMRbRCFMBOcMvJ) | 2:24 | 2024-06-20 | 2024-07-27 |
 | [Something in the Water](https://open.spotify.com/track/3NxLvV2ZINHRqSVmqGGGkD) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [Something in the Water](https://open.spotify.com/album/64DRLwBrKvB0pWS5IH7htM) | 3:18 | 2024-06-20 |  |
 | [Song 01](https://open.spotify.com/track/5S0f0luti3eyDSg6AUG43R) | [No Windows](https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr) | [Song 01](https://open.spotify.com/album/6pUCCBvaNVVzpK5KSLZYFV) | 3:54 | 2024-06-20 |  |
 | [Sorry](https://open.spotify.com/track/2AfZo6fIu4mKDf76NTXwBG) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Sorry](https://open.spotify.com/album/1HSx2N8mKzA9hqeRB9FVzX) | 4:18 | 2024-06-20 |  |
@@ -80,6 +81,7 @@
 | [The Masochist](https://open.spotify.com/track/5hLzEdcSmx3TJlhZF3b5jS) | [Lloyd's House](https://open.spotify.com/artist/7i7jdyMS3LtCponBP34ou9) | [The Masochist](https://open.spotify.com/album/185ltxsjd0kAt1HtIGleSM) | 4:46 | 2024-06-20 |  |
 | [Tired Of Being Alone](https://open.spotify.com/track/1cUWtqz5LeN7LsLu2DCQmw) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Tired Of Being Alone](https://open.spotify.com/album/69aS3IuY9tfPexhyElnJiA) | 4:43 | 2024-06-20 | 2024-07-05 |
 | [Universal Credit](https://open.spotify.com/track/272KzgZU381dedN18b7qzT) | [Shambolics](https://open.spotify.com/artist/5Zxk4WkmkKRjPyjmmCRAUR) | [Universal Credit](https://open.spotify.com/album/5GBhIOSB3AQRXWfjkNJcXa) | 3:18 | 2024-06-20 |  |
+| [Vision Of Us](https://open.spotify.com/track/2frX4kY41utA2K18AW1PK6) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Vision Of Us](https://open.spotify.com/album/6E0OZvFmc6FqU8PcdfQ5S6) | 3:54 | 2024-07-25 |  |
 | [Wash Your Wounds](https://open.spotify.com/track/01VMDmyPy8jxYXIThTQhbx) | [Gallus](https://open.spotify.com/artist/3DTAfcWpBw0deOabOAtNVC) | [Wash Your Wounds](https://open.spotify.com/album/0ShtuJHE4I5R6mFfBfmQy8) | 2:21 | 2024-06-20 |  |
 | [Witchy Emerald Eyes](https://open.spotify.com/track/4iB9Jviio97h44qLO4Iyyo) | [Brògeal](https://open.spotify.com/artist/5E4chIX5W6JvTVtXXzG8TK) | [Witchy Emerald Eyes](https://open.spotify.com/album/1JnxrialNrzEDfYMSbfUrf) | 2:19 | 2024-06-20 |  |
 | [Yesterday Is Gone](https://open.spotify.com/track/2zqJ9cdRBzMtt1hra7e2By) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Yesterday Is Gone](https://open.spotify.com/album/2X9mXlp0wSzd3R5YnlozKo) | 3:16 | 2024-06-20 |  |

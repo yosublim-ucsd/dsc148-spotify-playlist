@@ -464,7 +464,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 148285,
       "name": "Bam Oida",
       "url": "https://open.spotify.com/track/2oNEsIYiF665XUC0fOtYYA"
@@ -628,7 +628,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 139935,
       "name": "BLOODY ASS SHOES",
       "url": "https://open.spotify.com/track/5xdmotWnFPVuPEZAI98OHl"
@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 200040,
       "name": "Day 'N' Night",
       "url": "https://open.spotify.com/track/6NT2Yovx1t0mMvbwBzRsYc"
@@ -1701,6 +1701,24 @@
     },
     {
       "album": {
+        "name": "Entertain Me",
+        "url": "https://open.spotify.com/album/5tszZPM7fry1xLqzJaE8uy"
+      },
+      "artists": [
+        {
+          "name": "mischluft",
+          "url": "https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "Entertain Me",
+      "url": "https://open.spotify.com/track/6v2N2miIqFLuOLbyFNeAns"
+    },
+    {
+      "album": {
         "name": "Eternal Rave",
         "url": "https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv"
       },
@@ -1786,6 +1804,24 @@
       "duration_ms": 131575,
       "name": "Everybody's Free (To Feel Good)",
       "url": "https://open.spotify.com/track/7v79EuvJq69p2keEsCd08A"
+    },
+    {
+      "album": {
+        "name": "Eye Contact",
+        "url": "https://open.spotify.com/album/2jujhyMf8jsIzhgEuVBzE0"
+      },
+      "artists": [
+        {
+          "name": "Upper90",
+          "url": "https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230440,
+      "name": "Eye Contact",
+      "url": "https://open.spotify.com/track/0tTkmkQFLyLtyPZTcy0yHy"
     },
     {
       "album": {
@@ -2221,6 +2257,24 @@
     },
     {
       "album": {
+        "name": "Gucci but different",
+        "url": "https://open.spotify.com/album/3YShgfkP2gTWQWXKDIgm4e"
+      },
+      "artists": [
+        {
+          "name": "Odymel",
+          "url": "https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302400,
+      "name": "Gucci but different",
+      "url": "https://open.spotify.com/track/4zmDjQo7YG1l2oHsOpAn5U"
+    },
+    {
+      "album": {
         "name": "Haze Remixes",
         "url": "https://open.spotify.com/album/7g1Rj26ma74ZKBPmnAA09M"
       },
@@ -2328,6 +2382,32 @@
       "duration_ms": 112551,
       "name": "How I Fell in Love",
       "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"
+    },
+    {
+      "album": {
+        "name": "Night Shades - EP",
+        "url": "https://open.spotify.com/album/3QmhqCq5JU2MPfYexROuBT"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        },
+        {
+          "name": "Part Time Killer",
+          "url": "https://open.spotify.com/artist/0LAMskg8u2rGlNDYvlRZdq"
+        },
+        {
+          "name": "RED",
+          "url": "https://open.spotify.com/artist/6UZK9xlpTAM8dUAiB2Y42b"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225876,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/27c8cMslxtKNlC9WPVJtgF"
     },
     {
       "album": {
@@ -2867,6 +2947,24 @@
     },
     {
       "album": {
+        "name": "Just Go",
+        "url": "https://open.spotify.com/album/4thE67RkPPc6SqVIjuAH4s"
+      },
+      "artists": [
+        {
+          "name": "Benwal",
+          "url": "https://open.spotify.com/artist/38nG2aneQSUwlhbhXXZhxl"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Just Go",
+      "url": "https://open.spotify.com/track/41FGX1DHuE7VknSxkGYTie"
+    },
+    {
+      "album": {
         "name": "Keep on Dancing",
         "url": "https://open.spotify.com/album/4Nsmh4TbOB22yF3D6oJJD8"
       },
@@ -2878,7 +2976,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 190344,
       "name": "Keep on Dancing",
       "url": "https://open.spotify.com/track/64HWwjd24kmMyXruWhEzyP"
@@ -3038,6 +3136,42 @@
       "duration_ms": 174811,
       "name": "Lets go",
       "url": "https://open.spotify.com/track/4vmzFOCbjeV9cIvVqS3DKC"
+    },
+    {
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/0VkJvDI13bCS5WJ6zNBp0m"
+      },
+      "artists": [
+        {
+          "name": "mischluft",
+          "url": "https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153458,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/0CtEQErgyA7Jp4Jb3LGC7S"
+    },
+    {
+      "album": {
+        "name": "Live And Direct",
+        "url": "https://open.spotify.com/album/3Y25vmDNLn0ByJPZIBi8Td"
+      },
+      "artists": [
+        {
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171642,
+      "name": "Live And Direct",
+      "url": "https://open.spotify.com/track/36xxmNRjLOJdQzVuNDPRJo"
     },
     {
       "album": {
@@ -3431,6 +3565,28 @@
     },
     {
       "album": {
+        "name": "Move My Body (feat. Lucy Dye)",
+        "url": "https://open.spotify.com/album/4BAyc37k3eWHs93aMT21XA"
+      },
+      "artists": [
+        {
+          "name": "Malugi",
+          "url": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
+        },
+        {
+          "name": "Lucy Dye",
+          "url": "https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167820,
+      "name": "Move My Body (feat. Lucy Dye)",
+      "url": "https://open.spotify.com/track/26xw61UppTKPySjw3RLvx6"
+    },
+    {
+      "album": {
         "name": "My Barn My Rules",
         "url": "https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0"
       },
@@ -3622,6 +3778,28 @@
       "duration_ms": 170370,
       "name": "NEED ME",
       "url": "https://open.spotify.com/track/3C1Ulqf87XI0fBAdlVsIGV"
+    },
+    {
+      "album": {
+        "name": "Faded Memories",
+        "url": "https://open.spotify.com/album/6z2uULslBFfxK9cCGuK8XV"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "Dangerous Dreaming",
+          "url": "https://open.spotify.com/artist/0vWXZcuwvJKsjqzpunhy4i"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230690,
+      "name": "Need Me - Short Mix",
+      "url": "https://open.spotify.com/track/18foj3KoiCQSEyXzOyy0kh"
     },
     {
       "album": {
@@ -4624,7 +4802,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 214386,
       "name": "run from me",
       "url": "https://open.spotify.com/track/3HbqTmMIipVjXRiSpYDxqy"
@@ -4767,6 +4945,24 @@
     },
     {
       "album": {
+        "name": "Shake For Me, Dance For Me",
+        "url": "https://open.spotify.com/album/0kRnqoMiCAjXegglUZalfc"
+      },
+      "artists": [
+        {
+          "name": "Spacer Woman",
+          "url": "https://open.spotify.com/artist/67FhwI60e0eCfogunrIi71"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201650,
+      "name": "Shake For Me, Dance For Me",
+      "url": "https://open.spotify.com/track/4glTWtWx78n6xjHWh8HFb1"
+    },
+    {
+      "album": {
         "name": "Show Me The Sky",
         "url": "https://open.spotify.com/album/2EnEIl36mvSSz0iMNtPawb"
       },
@@ -4818,7 +5014,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 337671,
       "name": "SO\u00d1AR",
       "url": "https://open.spotify.com/track/0NzmTnOl9G3GMrUCNcmMgN"
@@ -5000,6 +5196,24 @@
       "duration_ms": 179200,
       "name": "S\u00fcchtig",
       "url": "https://open.spotify.com/track/7kfNHOOQv8OiugNq8EBTJq"
+    },
+    {
+      "album": {
+        "name": "Take It Back",
+        "url": "https://open.spotify.com/album/0X0e0D347ypBiOJa4vnUxZ"
+      },
+      "artists": [
+        {
+          "name": "Janis Zielinski",
+          "url": "https://open.spotify.com/artist/0qqVoFZdP1OB0N9FkGfJ4D"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166291,
+      "name": "Take It Back",
+      "url": "https://open.spotify.com/track/7vbIrYVjE9LYdiAeqp7fnY"
     },
     {
       "album": {
@@ -5222,7 +5436,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 216533,
       "name": "TITS, LIPS, HIPS, KISS (10/10 Remix)",
       "url": "https://open.spotify.com/track/3KkesrPkSGFZYXUHtk1Zfn"
@@ -5324,7 +5538,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 231332,
       "name": "Traurig",
       "url": "https://open.spotify.com/track/6TsiuH7lYexOoq4xJKsOaj"
@@ -5620,7 +5834,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 164826,
       "name": "While U Sleep",
       "url": "https://open.spotify.com/track/1DNvYQWmYVnKzXZUYssNhX"
@@ -5700,7 +5914,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 206014,
       "name": "Wild Ones (Club Mix)",
       "url": "https://open.spotify.com/track/2MH5KK60I00JOPigNOt4v8"
@@ -5780,7 +5994,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 371555,
       "name": "You're Toxic",
       "url": "https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj"

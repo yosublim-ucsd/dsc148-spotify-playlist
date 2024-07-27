@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Andromache, Giorgos Livanis",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Nikos Vertis",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "As Tous Na Lene",
+        "url": "https://open.spotify.com/album/3AjpvMusEJQuhIsAmWwwOT"
+      },
+      "artists": [
+        {
+          "name": "Nikos Vertis",
+          "url": "https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205454,
+      "name": "As Tous Na Lene",
+      "url": "https://open.spotify.com/track/0GVmpYnNFON6Tihcuo3ysQ"
+    },
+    {
+      "album": {
         "name": "Aspromavro",
         "url": "https://open.spotify.com/album/6R72Tmo2w195Rkh7rd2SW9"
       },
@@ -234,6 +252,24 @@
       "duration_ms": 203720,
       "name": "De Mas Xorizei Tipota",
       "url": "https://open.spotify.com/track/66AEZAyDrD2bnVQxC3eOsW"
+    },
+    {
+      "album": {
+        "name": "Apostolia Zoi Live Medley 2024",
+        "url": "https://open.spotify.com/album/79irzQ3hDAx83t4jW1Q1CB"
+      },
+      "artists": [
+        {
+          "name": "Apostolia Zoi",
+          "url": "https://open.spotify.com/artist/1Bkxsw4F0k3dwgA1GtpPaJ"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234973,
+      "name": "Den Vazo Ego Myalo / Kathe Vrady / Alli San Emena / Lipstick - Live Medley",
+      "url": "https://open.spotify.com/track/5yf0wwuvvKIP5OtNTADlim"
     },
     {
       "album": {
@@ -402,7 +438,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 166764,
       "name": "Exeis Ta Matia 2024",
       "url": "https://open.spotify.com/track/6o9Zntn1IUDML3m45AwKp0"
@@ -908,10 +944,36 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 202889,
       "name": "Se Pira Sovara",
       "url": "https://open.spotify.com/track/728qx78UuEMdvq3UD25Ztc"
+    },
+    {
+      "album": {
+        "name": "Shik Shak Shock",
+        "url": "https://open.spotify.com/album/3i27NwGotHd7ZOvFBVU8NL"
+      },
+      "artists": [
+        {
+          "name": "Andreas Habibi",
+          "url": "https://open.spotify.com/artist/3ly58pp32vcAlUdLTubUbG"
+        },
+        {
+          "name": "Takinio Soul",
+          "url": "https://open.spotify.com/artist/4JZNcQk5mq0z4kYO7wLctk"
+        },
+        {
+          "name": "Panos Kiamos",
+          "url": "https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159664,
+      "name": "Shik Shak Shock",
+      "url": "https://open.spotify.com/track/6rddBYzxNSIzwMeksQKV8q"
     },
     {
       "album": {
@@ -998,7 +1060,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 238222,
       "name": "Ta Katafera",
       "url": "https://open.spotify.com/track/3lhBDCtZKM678s507pBkSb"

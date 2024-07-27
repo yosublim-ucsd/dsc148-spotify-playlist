@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Boza, Elena Rose",
+  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Barbel",
   "name": "Flow Panam\u00e1",
   "tracks": [
     {
@@ -892,6 +892,24 @@
       "duration_ms": 155068,
       "name": "BRUJERIA",
       "url": "https://open.spotify.com/track/5uiH9Ei2V6fyuJHK57xISQ"
+    },
+    {
+      "album": {
+        "name": "C3",
+        "url": "https://open.spotify.com/album/2fxCnUHJukxPmsz4SmqDie"
+      },
+      "artists": [
+        {
+          "name": "Mr. Fox",
+          "url": "https://open.spotify.com/artist/2ATuDQ7nhfT3Y89azqMexw"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148610,
+      "name": "C3",
+      "url": "https://open.spotify.com/track/20GDqldujHWyUXsw4TwSY7"
     },
     {
       "album": {
@@ -2456,7 +2474,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 182920,
       "name": "Guaro & Dancehall",
       "url": "https://open.spotify.com/track/6rG6185kw4K4QX5mjO1T5s"
@@ -3026,7 +3044,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 200829,
       "name": "La Cala",
       "url": "https://open.spotify.com/track/3Ah2qm7RYyC5OLW0PrQ5Nu"
@@ -4566,7 +4584,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 224626,
       "name": "Nrolo (Remix)",
       "url": "https://open.spotify.com/track/7jnFMhLxOzEjnepIGwlOJc"
@@ -6865,6 +6883,28 @@
     },
     {
       "album": {
+        "name": "TURREO",
+        "url": "https://open.spotify.com/album/5Hjr2kTqoTO20Z3U3nhOvm"
+      },
+      "artists": [
+        {
+          "name": "Farah",
+          "url": "https://open.spotify.com/artist/499MeLMskp0GHYO1587gZK"
+        },
+        {
+          "name": "don kolo",
+          "url": "https://open.spotify.com/artist/1JhQoaVCbqCZHJ8iWC9pjw"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173744,
+      "name": "TURREO",
+      "url": "https://open.spotify.com/track/1ZQk38OmsdKe4KPJtnBHT7"
+    },
+    {
+      "album": {
         "name": "NOW OR NEVER",
         "url": "https://open.spotify.com/album/6Acc7psb5dKniQEOBBtl5x"
       },
@@ -7362,6 +7402,28 @@
       "duration_ms": 199148,
       "name": "Ya Ni Se",
       "url": "https://open.spotify.com/track/270ZMuPkTL02DYyG2ntJv2"
+    },
+    {
+      "album": {
+        "name": "YA NO HABLO MAS DE TI",
+        "url": "https://open.spotify.com/album/3mfO6Fp8alnfaPx3QqnYqz"
+      },
+      "artists": [
+        {
+          "name": "LUPVS DEI",
+          "url": "https://open.spotify.com/artist/6c0GZsdTPRhpoZDGYKkTKx"
+        },
+        {
+          "name": "At' Fat",
+          "url": "https://open.spotify.com/artist/455JBMYIT1lWf1Djj4rDc7"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152112,
+      "name": "YA NO HABLO MAS DE TI",
+      "url": "https://open.spotify.com/track/5PAQ74J9BhABUSc7qDTtxW"
     },
     {
       "album": {

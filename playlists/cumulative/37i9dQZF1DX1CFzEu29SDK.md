@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7kNqXtgeIwFtelmRjWv205">John Summit</a>'s favorite tracks\. Curated by John Summit\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-76 songs - 4 hr 59 min
+77 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Do It Timmy](https://open.spotify.com/track/5AushbOye4xJJAaZSmB3LM) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Do It Timmy](https://open.spotify.com/album/3TKTsghMfwfNMujiXQVWMX) | 3:48 | 2024-07-15 |  |
 | [Dog Days](https://open.spotify.com/track/0Uk6JcLoMOKwIP9Qkg1z4q) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [Dog Days](https://open.spotify.com/album/05CHTnmUe3df2YJyJGvRA8) | 3:43 | 2023-12-15 |  |
 | [Don Julio](https://open.spotify.com/track/64b44rQbKFCG6zVwJ2qDAk) | [Shaded](https://open.spotify.com/artist/2xKTuI2Nl32OaYyDndSB3S) | [Don Julio](https://open.spotify.com/album/7hb7VPTh4LMlTIBAy3x32Y) | 3:08 | 2023-12-15 | 2024-07-16 |
+| [Drum Tool](https://open.spotify.com/track/3OKzARSIc5pfWnCLiuOhIu) | [Alex Culross](https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD) | [Drum Tool](https://open.spotify.com/album/6ix0dqYOUpAD2ImuqKRdjn) | 3:30 | 2024-07-26 |  |
 | [EAT THE BASS](https://open.spotify.com/track/1ViErUfDfWkXPXTsjj3kyh) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [EAT THE BASS](https://open.spotify.com/album/0BAJwAHBOc08RczC0TMb7l) | 3:22 | 2024-05-16 |  |
 | [Escape \- John Summit Remix](https://open.spotify.com/track/68lTEhMEx4MxDCJypT6bXE) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Escape \(John Summit Remix\)](https://open.spotify.com/album/3S9GUf0drt2FBoNkwJZQjZ) | 3:46 | 2023-12-15 |  |
 | [Fade Out \(with MKLA\)](https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Fade Out \(with MKLA\)](https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE) | 3:50 | 2023-12-15 | 2024-05-17 |
@@ -70,8 +71,8 @@
 | [Tears \(with Paige Cavell\)](https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 3:56 | 2024-07-15 |  |
 | [That Was Fresh](https://open.spotify.com/track/4QUiteCpaMkusxt9K0N8Ki) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [That Was Fresh \- EP](https://open.spotify.com/album/5tk1Ugkxct0W8C64JA2Am4) | 7:35 | 2024-07-15 |  |
 | [The Bass](https://open.spotify.com/track/3QIU5RFfm9iw6Oi6eLQhCd) | [Gabriele Toma](https://open.spotify.com/artist/3Eylw4P4DCGqXcQZ4b8Fon) | [The Bass](https://open.spotify.com/album/70oWnpU1eS0urC8ZUgw9jY) | 5:29 | 2024-07-15 |  |
-| [Together](https://open.spotify.com/track/0KzHujAaLA7rJs0GIJVk1A) | [East End Dubs](https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7) | [Selected Dub Works](https://open.spotify.com/album/1I6pMv9whX5Pgq3fuwJQPi) | 2:53 | 2023-12-15 |  |
-| [U Won't See Me](https://open.spotify.com/track/1WqCf2NfriI4Fff84grSbY) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Mystic Bill](https://open.spotify.com/artist/1qBYNcfpwmb1ensiLvWxEV) | [U Won't See Me](https://open.spotify.com/album/3ifZTF4IJFhIM1znvi6GG7) | 3:06 | 2023-12-15 |  |
+| [Together](https://open.spotify.com/track/0KzHujAaLA7rJs0GIJVk1A) | [East End Dubs](https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7) | [Selected Dub Works](https://open.spotify.com/album/1I6pMv9whX5Pgq3fuwJQPi) | 2:53 | 2023-12-15 | 2024-07-27 |
+| [U Won't See Me](https://open.spotify.com/track/1WqCf2NfriI4Fff84grSbY) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Mystic Bill](https://open.spotify.com/artist/1qBYNcfpwmb1ensiLvWxEV) | [U Won't See Me](https://open.spotify.com/album/3ifZTF4IJFhIM1znvi6GG7) | 3:06 | 2023-12-15 | 2024-07-27 |
 | [Under My Control](https://open.spotify.com/track/0fnkNJij0VMMrfGqKcwMYZ) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Paradise EP](https://open.spotify.com/album/5HGBIxOefjYKHxI6msrtFp) | 5:27 | 2023-12-15 | 2024-07-16 |
 | [Undo \(feat\. KOATES\)](https://open.spotify.com/track/6PirrekW8pomBQH3A3XgGT) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [KOATES](https://open.spotify.com/artist/5YSPtpr66K8oOTvy3UjDcj) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 4:15 | 2024-07-15 |  |
 | [Vamo](https://open.spotify.com/track/1TyO82OeIOUO6845tQH3Yu) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [Vamo](https://open.spotify.com/album/5fpcn6vdsxTyh1m3XmGDHA) | 3:36 | 2023-12-15 |  |

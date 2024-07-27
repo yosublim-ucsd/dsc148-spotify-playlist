@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : MARVIN x L\u00c9A CHURROS",
+  "description": "Les hits zouk du moment. Photo : Jo\u00e9 Dw\u00e8t Fil\u00e9",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -870,7 +870,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 220000,
       "name": "Goo Goo Eyes",
       "url": "https://open.spotify.com/track/0EJhQvITO12fLbIiGbhUa9"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 176186,
       "name": "JTM",
       "url": "https://open.spotify.com/track/2CELfkRELYZGgpzVBPgsgE"
@@ -2453,6 +2453,24 @@
     },
     {
       "album": {
+        "name": "Tic Tac",
+        "url": "https://open.spotify.com/album/0ZfpOUYxc42l8gNcpYoUM3"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157829,
+      "name": "Tic Tac",
+      "url": "https://open.spotify.com/track/2n7kwiBaEjDdBzwrbKl7e1"
+    },
+    {
+      "album": {
         "name": "TKT PAS",
         "url": "https://open.spotify.com/album/5EtCIE7heSTXlbxPIefyyK"
       },
@@ -2472,6 +2490,28 @@
       "duration_ms": 206294,
       "name": "TKT PAS",
       "url": "https://open.spotify.com/track/794czLwx4ZNky1ltmguo8u"
+    },
+    {
+      "album": {
+        "name": "DESTIN\u00c9E chapitre II in ut regium",
+        "url": "https://open.spotify.com/album/1jnGuJq0cEPWYWsGPFaUCH"
+      },
+      "artists": [
+        {
+          "name": "Nk Divine",
+          "url": "https://open.spotify.com/artist/5uUyNQRdjYew8L4OfHPcqD"
+        },
+        {
+          "name": "Morijah",
+          "url": "https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152170,
+      "name": "Ton amour",
+      "url": "https://open.spotify.com/track/2iEdw5ymM0dVzaeZHEq4JI"
     },
     {
       "album": {

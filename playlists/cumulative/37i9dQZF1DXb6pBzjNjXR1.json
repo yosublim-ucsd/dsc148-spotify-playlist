@@ -620,7 +620,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 334832,
       "name": "Cradle in War",
       "url": "https://open.spotify.com/track/1GFpaXJPjhslgPE92SUPZW"
@@ -1724,7 +1724,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 243481,
       "name": "Messiah (feat. Zipho Thusi)",
       "url": "https://open.spotify.com/track/32s4M923qOhi5hWRbNqE80"
@@ -2615,6 +2615,32 @@
     },
     {
       "album": {
+        "name": "Sina",
+        "url": "https://open.spotify.com/album/6RyLUHLuEto6s9n7OBOUdm"
+      },
+      "artists": [
+        {
+          "name": "Lakwister",
+          "url": "https://open.spotify.com/artist/78lvkgk61m0EfRgMs1Flw6"
+        },
+        {
+          "name": "Aweko Brian",
+          "url": "https://open.spotify.com/artist/0PEnApbVCoeuhNQEWwnTb6"
+        },
+        {
+          "name": "Moses rallo",
+          "url": "https://open.spotify.com/artist/43tBCzAnQKp24LUSXG9oki"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463522,
+      "name": "Sina",
+      "url": "https://open.spotify.com/track/68wvH1g0T6yOUQlk95xKkT"
+    },
+    {
+      "album": {
         "name": "Smoking Monkey",
         "url": "https://open.spotify.com/album/5wBX45jvEXrOPI0sObjUAr"
       },
@@ -2840,7 +2866,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 422957,
       "name": "Thunderstorm - Kususa Remix",
       "url": "https://open.spotify.com/track/1lf0fNau1vyhuwadJz8k2h"
@@ -3150,7 +3176,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 413114,
       "name": "Ukuthanda Wena",
       "url": "https://open.spotify.com/track/7ymsC9MDZ9eqcPgxGk7huP"
@@ -3470,6 +3496,32 @@
       "duration_ms": 428171,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/7ts1EPMjAOz1NtXqOxFj3g"
+    },
+    {
+      "album": {
+        "name": "Wimbo",
+        "url": "https://open.spotify.com/album/2RBgkZRKmQ7uRSkD5GMpqp"
+      },
+      "artists": [
+        {
+          "name": "Danidane",
+          "url": "https://open.spotify.com/artist/0iuUN6j3vMee2NUjkFJDF3"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        },
+        {
+          "name": "L\u016bca Veron",
+          "url": "https://open.spotify.com/artist/0A0R1Lt6uNoJIcz9gigB9f"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256721,
+      "name": "Wimbo",
+      "url": "https://open.spotify.com/track/6nXf7Rr7TEDAg1clF8CNbb"
     },
     {
       "album": {

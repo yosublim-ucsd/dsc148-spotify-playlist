@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Scylla",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Youssef Swatt's",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "Nouvelle \u00c9cole | Saison 3 | La Finale (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F"
+      },
+      "artists": [
+        {
+          "name": "Youssef Swatt's",
+          "url": "https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185311,
+      "name": "G\u00e9n\u00e9rique de Fin - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/3D2wU177Hr5AXTePqaC8KQ"
+    },
+    {
+      "album": {
         "name": "Hakim",
         "url": "https://open.spotify.com/album/7qDOg3miKligCldmyUtFJw"
       },
@@ -513,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Le Plat",
+        "url": "https://open.spotify.com/album/1ara8MlWtiMUSQDQNHPEaJ"
+      },
+      "artists": [
+        {
+          "name": "Costa",
+          "url": "https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155445,
+      "name": "Le Plat",
+      "url": "https://open.spotify.com/track/0ZctGizLJmhyC5Y75FTj4y"
+    },
+    {
+      "album": {
         "name": "VENI VIDI VICI",
         "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
       },
@@ -586,7 +622,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 142628,
       "name": "No Choice",
       "url": "https://open.spotify.com/track/7FX9fJFJL1BSgrWKZ3zrhX"
@@ -644,7 +680,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 158455,
       "name": "PLAYBOI CARTI",
       "url": "https://open.spotify.com/track/1tzaO7UkR3tk9PXJXMKTMo"

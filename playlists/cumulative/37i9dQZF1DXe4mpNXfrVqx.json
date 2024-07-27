@@ -2763,6 +2763,32 @@
     },
     {
       "album": {
+        "name": "METamorFOSE",
+        "url": "https://open.spotify.com/album/3zMBfvaDJbLt68YHUO8Exp"
+      },
+      "artists": [
+        {
+          "name": "Boombeat",
+          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        },
+        {
+          "name": "David DMAX",
+          "url": "https://open.spotify.com/artist/7agdoyb0t5MsmNYq2s2ced"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152380,
+      "name": "MEU N\u00cdVEL (Olha Pra Minha Cara)",
+      "url": "https://open.spotify.com/track/6k6W3B8XYNVBqlKcKbw9Z8"
+    },
+    {
+      "album": {
         "name": "Moreno",
         "url": "https://open.spotify.com/album/2s7D5gKh8Nvn1Euy1KsZh5"
       },
@@ -3682,6 +3708,24 @@
       "duration_ms": 135268,
       "name": "Sagaz",
       "url": "https://open.spotify.com/track/29bg2slgQdSLT0tjsR95b9"
+    },
+    {
+      "album": {
+        "name": "SE PREPARA MONA",
+        "url": "https://open.spotify.com/album/49Lge5s2t6qXy6XYxUKn45"
+      },
+      "artists": [
+        {
+          "name": "KING Saints",
+          "url": "https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153002,
+      "name": "SE PREPARA MONA",
+      "url": "https://open.spotify.com/track/0u1LsqHoUCb8f5Myhzvh57"
     },
     {
       "album": {

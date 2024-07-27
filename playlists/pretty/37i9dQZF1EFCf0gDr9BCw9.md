@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 585 likes - 147 songs - 10 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 586 likes - 147 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 102 | [Metronome All Out](https://open.spotify.com/track/06XAOVGxCJ8H8eZTPie4cH) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music & Cabu Present Duke Ellington at the Piano](https://open.spotify.com/album/7nnCsQ6WJXoQ7N8IGvbKW0) | 4:49 |
 | 103 | [Once Upon a Dream](https://open.spotify.com/track/2YGFBicfrUHsElpZOqmZoF) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [La chanson de Duke](https://open.spotify.com/album/4pB2XrkdIbhDBkIoApn5pk) | 2:59 |
 | 104 | [Total Jazz \(Final Movement Of "Portrait Of Ella Fitzgerald"\)](https://open.spotify.com/track/5wDO63teFXXvFS9IarBkc4) | [Lincoln Center Jazz Orchestra](https://open.spotify.com/artist/57tcqQ5NpKmaGE9zHMTiez), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Portraits By Ellington](https://open.spotify.com/album/0LIkxSapjR9etoqmQ0gLNq) | 7:15 |
-| 105 | [Elysee](https://open.spotify.com/track/33lviUYxL1teikwgjjBtkM) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Private Collection, Vol\. 4: Studio Sessions New York 1963](https://open.spotify.com/album/5pyw7AuWKPPAZ4Y4OU4SZM) | 2:25 |
-| 106 | [All Roads Lead Back to You](https://open.spotify.com/track/19GEHeehDAz2SVAa53N40O) | [Anaïs Reno](https://open.spotify.com/artist/2yDfaA2valGk3S1Qw0bybK), [Emmet Cohen](https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT), [Russell Hall](https://open.spotify.com/artist/2IZLjkTpDvr514Y8RBrpQT), [Kyle Poole](https://open.spotify.com/artist/5J4qaZ0wUvADmFAR3T4GIE) | [Lovesome Thing](https://open.spotify.com/album/2LwV0Qj6AlGJkEeCGxTh6K) | 4:22 |
+| 105 | [All Roads Lead Back to You](https://open.spotify.com/track/19GEHeehDAz2SVAa53N40O) | [Anaïs Reno](https://open.spotify.com/artist/2yDfaA2valGk3S1Qw0bybK), [Emmet Cohen](https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT), [Russell Hall](https://open.spotify.com/artist/2IZLjkTpDvr514Y8RBrpQT), [Kyle Poole](https://open.spotify.com/artist/5J4qaZ0wUvADmFAR3T4GIE) | [Lovesome Thing](https://open.spotify.com/album/2LwV0Qj6AlGJkEeCGxTh6K) | 4:22 |
+| 106 | [Elysee](https://open.spotify.com/track/33lviUYxL1teikwgjjBtkM) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Private Collection, Vol\. 4: Studio Sessions New York 1963](https://open.spotify.com/album/5pyw7AuWKPPAZ4Y4OU4SZM) | 2:25 |
 | 107 | [Blue Orchid \- ZetaJota Sessions](https://open.spotify.com/track/1Hcrjj60W6htYos0STdRnT) | [Virtual Frizz](https://open.spotify.com/artist/18CiLSBQv3tIfT3COqhqJ3), [Josefina Anselmo](https://open.spotify.com/artist/1juhF59PwTZYbqzHC64mQ3) | [El polvo trae \(ZetaJota Sessions\)](https://open.spotify.com/album/2JPko03NjzGEe8qsflLK0p) | 2:39 |
 | 108 | [Wounded Love](https://open.spotify.com/track/0MilYv2CPSz8OSagzt4OZ3) | [Ack van Rooyen](https://open.spotify.com/artist/0vKyK79242pyAt7Q2Q098s), [Paul Heller](https://open.spotify.com/artist/0a1edbJ1q3RcJJVNs6OZE7), [Hubert Nuss](https://open.spotify.com/artist/2ZGQmeuUjYVQqFBlOuCHu8), [Ingmar Heller](https://open.spotify.com/artist/2eN5KGOnoYxAXKdGXUmlV8) | [Live & In Studio](https://open.spotify.com/album/1AX3jZbnAs6Y6dCsZsYZ93) | 3:20 |
 | 109 | [Noir bleu](https://open.spotify.com/track/28IAo2AR6RQLV0EsfgLi5t) | [Barney Bigard](https://open.spotify.com/artist/28IxhsTl0mELeGN9E5J0Oh) | [BD Music Presents Billy Strayhorn Played by Duke Ellington](https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ) | 3:11 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 146 | [Lotus Blossom](https://open.spotify.com/track/70dfarV5LT25SJRzmanKDz) | [John Dimartino](https://open.spotify.com/artist/6bCofFGp9w6X6Bh4V3fLQc) | [Passion Flower](https://open.spotify.com/album/4eDXtUYCXcpr7r2SkN0xN8) | 2:33 |
 | 147 | [Prima Bara Dubla](https://open.spotify.com/track/5p1fIuJvkzF7Rhdry4IuuT) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [INTEGRAL DUKE ELLINGTON 1958 \- 1959](https://open.spotify.com/album/7hTH7xLVl2iNM00iY3E64J) | 5:41 |
 
-Snapshot ID: `AbXlIgAAAAADRf7E5+17GAn4sapjK+KP`
+Snapshot ID: `AbXz5gAAAADX5rvosEAKUV7hgGckIQYS`

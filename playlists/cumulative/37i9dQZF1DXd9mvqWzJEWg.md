@@ -2,9 +2,9 @@
 
 ### [GQOM Power House](https://open.spotify.com/playlist/37i9dQZF1DXd9mvqWzJEWg)
 
-> It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO?si=4hKwM6T6TJ\-3Bx\-7xYZjWw">DJ Lag</a>
+> It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/4NHX5R0Td6ooWh1a34AhtB?si=\_Gk8lPnkRVSCHyLGM3\_UBA">STATE OFFF</a>
 
-194 songs - 17 hr 21 min
+195 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Sisekakeni Babies \(feat\. Skillz & RudeBoyz\)](https://open.spotify.com/track/30KX5p3u1xN8TF83eGY0bQ) | [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC), [Skillz](https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf), [Rudeboyz](https://open.spotify.com/artist/3De9bGnGSaxAu4sJz4Y9Wk) | [Sisekakeni Babies \(feat\. Skillz & RudeBoyz\)](https://open.spotify.com/album/3rgyWDy5SH3WLGRHZc2kiA) | 5:43 | 2023-08-24 |  |
 | [Skuta](https://open.spotify.com/track/1dKFNGAVWW8DpYX6sqqjox) | [Vanger Boyz](https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx) | [Skuta](https://open.spotify.com/album/6ezXzucGsajEXUumeFVWDL) | 5:36 | 2024-05-31 |  |
 | [Something Different](https://open.spotify.com/track/3EIhq0ezoBWiuB1pH7glxZ) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO) | [Meeting With The King](https://open.spotify.com/album/66ZkSQI3roUFYVDYy5kp9e) | 5:49 | 2022-02-17 | 2023-05-26 |
+| [Soundbwoy Killa](https://open.spotify.com/track/3W2X3ZD0MGVmfnlnBbrvqT) | [STATE OFFF](https://open.spotify.com/artist/4NHX5R0Td6ooWh1a34AhtB) | [Simulacra](https://open.spotify.com/album/6DW42TxsvHrlt5UTc7gXg5) | 4:25 | 2024-07-25 |  |
 | [Speak Of The Town](https://open.spotify.com/track/1YPBILT8eQNbWK7MN6MsUC) | [Cairo CPT](https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr) | [Speak Of The Town](https://open.spotify.com/album/2vH7GWWu6svyaMkWNKvyvb) | 6:04 | 2021-08-19 | 2022-11-08 |
 | [Speed Limit](https://open.spotify.com/track/60LrKAurxTVnWjmU9sQVtG) | [Omagoqa](https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy), [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe) | [Back to Ebombeni](https://open.spotify.com/album/47jsuTeh9UiCr2QBozkoIS) | 5:42 | 2022-12-12 | 2023-08-25 |
 | [Sub 6](https://open.spotify.com/track/3X9aRFxMqPaf94Mf5I8cgg) | [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe) | [Aluku Records Various Compilation SA Edition Pt.4 \(Deluxe\)](https://open.spotify.com/album/7Cn9DI3AhuIiJsNsNplRWw) | 6:10 | 2024-02-15 |  |

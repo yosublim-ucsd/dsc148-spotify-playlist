@@ -2,9 +2,9 @@
 
 ### [超級女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受超級女聲力量。Cover：Cath黃妍
+> 感受超級女聲力量。Cover：Nancy Kwai
 
-335 songs - 20 hr 14 min
+342 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Don't Text Him \(Just Kiss Him\)](https://open.spotify.com/track/24XFrHZRTT96SiAojljvT8) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [Don't Text Him \(Just Kiss Him\)](https://open.spotify.com/album/6PA2ObDsGpLAHeKnbuFGTg) | 4:00 | 2024-06-27 |  |
 | [Dont Wanna Be Like Me](https://open.spotify.com/track/1UjE8vwh6hA8jr7Nk4qCNz) | [章尾而](https://open.spotify.com/artist/15lQfNMoKWIjKGF0UQsy0M) | [Dont Wanna Be Like Me](https://open.spotify.com/album/7ll6sd3ehHb0aIvLISqX1p) | 2:59 | 2024-06-27 |  |
 | [Dreamscape](https://open.spotify.com/track/2sUF6C4FyUWTPjJPPfopQW) | [Chantel 姚焯菲](https://open.spotify.com/artist/1MlkzLE28NFMVQZpydkBsq) | [Dreamscape](https://open.spotify.com/album/5yThGh5FENQ7Epoe5aCbJp) | 3:03 | 2024-06-27 |  |
+| [DRUNK DIAL](https://open.spotify.com/track/6cCZ3sjNNwAFF2q7mUpY5X) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [DRUNK DIAL](https://open.spotify.com/album/6gwaYFmhFno0FWnjWfMJH3) | 3:38 | 2024-07-25 |  |
 | [Dum Dum](https://open.spotify.com/track/3hfAcz6q8GmeHoC9gPS6Vn) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Dum Dum](https://open.spotify.com/album/0Ov3I6NuDV5d41mZhvSc9f) | 3:05 | 2024-06-27 |  |
 | [Eye to Eye](https://open.spotify.com/track/1M7etW6Eh6EL3Rh4jIXuRk) | [Me&](https://open.spotify.com/artist/4MbLZsgkHJF3xq52M6ACgr) | [Eye to Eye](https://open.spotify.com/album/1FkHpK7wESNrJ3S3xnXEAO) | 3:27 | 2024-06-27 |  |
 | [favourite jeans](https://open.spotify.com/track/4HOUg5mmwuAfZBhRVW8YN3) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [favourite jeans](https://open.spotify.com/album/0RdKrNpj8mDhR6TM8B1EsW) | 3:28 | 2024-06-27 |  |
@@ -70,6 +71,7 @@
 | [Last Dance](https://open.spotify.com/track/36pgnsYrvUUHeT17OXvuhK) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT) | [Last Dance](https://open.spotify.com/album/0sIGEXqcZns2OcywMnWeTj) | 2:21 | 2024-06-27 |  |
 | [Last Letter](https://open.spotify.com/track/3o7eTQeMe2uRkXWFLKH8rC) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Last Letter](https://open.spotify.com/album/4wpU0j3dLbpPVzM4ymTtmr) | 3:17 | 2024-06-27 |  |
 | [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 2:50 | 2024-06-27 |  |
+| [Let go](https://open.spotify.com/track/0VKdwugDTY088b1J84QH3e) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Let go](https://open.spotify.com/album/22lJ0X3uJ53RhyaeeGzwOO) | 3:50 | 2024-07-25 |  |
 | [Let It Snow](https://open.spotify.com/track/2bHGEJ7DiKvSr6iVg0d3lj) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [not so xmas xmas](https://open.spotify.com/album/1OQfUgYdqH5F2QP0uRma3g) | 2:22 | 2024-06-27 |  |
 | [liar](https://open.spotify.com/track/5KjJiwSwzhF7lGLjfLkoxp) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [liar](https://open.spotify.com/album/54mhTR3nIgCG5jJa0bf5ME) | 3:14 | 2024-06-27 |  |
 | [Like A Fool](https://open.spotify.com/track/74KUVmTg0RB1lqyfNIRN2Z) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [Like A Fool](https://open.spotify.com/album/6aSI7yKwnsDDr6JL0oSZud) | 2:24 | 2024-06-27 |  |
@@ -203,6 +205,7 @@
 | [座右銘](https://open.spotify.com/track/0wrcgFagQjRcXmuGRm8p0C) | [Kary Ng](https://open.spotify.com/artist/3B9ZmIcte26paTCaI1PFKE) | [In Control](https://open.spotify.com/album/687bmgPYRYsFGrdnRfTniL) | 3:56 | 2024-06-27 |  |
 | [弄哭男孩子](https://open.spotify.com/track/10K6w1fJp52uMQLgXCKQW9) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [弄哭男孩子](https://open.spotify.com/album/4KXX3XI6XzME9ZpAHt3I9P) | 4:25 | 2024-06-27 |  |
 | [後人類的美麗與哀愁](https://open.spotify.com/track/0xBCMoVEaOfrCqM0bHwPek) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [後人類的美麗與哀愁](https://open.spotify.com/album/2XRiLdbU5VPiLF5jxRPczq) | 3:40 | 2024-06-27 |  |
+| [從前的我們](https://open.spotify.com/track/6ovnT0BGF0l7pgur3t6X4Z) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [SOUND OF MI](https://open.spotify.com/album/1xeD7kHt0606S9NMvId26c) | 3:39 | 2024-07-25 |  |
 | [心甘情願](https://open.spotify.com/track/1rkbhMawUQNcA9okSe0DaN) | [Stephanie Leung](https://open.spotify.com/artist/5L8OEtf2LqWJhj3vFkLfDP) | [心甘情願](https://open.spotify.com/album/1TyTLJ5ESW2dXMHeikM2hE) | 3:16 | 2024-06-27 |  |
 | [心魔](https://open.spotify.com/track/3H9A0RlpWlPf61RR3EPhYI) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [心魔](https://open.spotify.com/album/12jqcFB37LnxltbicrX1fq) | 2:52 | 2024-06-27 |  |
 | [念](https://open.spotify.com/track/21Y7Om8LTUS5dNKqKYeywc) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [念](https://open.spotify.com/album/1QowbHwkez4o0CuheZSsan) | 4:48 | 2024-06-27 |  |
@@ -222,6 +225,7 @@
 | [我不回去](https://open.spotify.com/track/42IahRHRZqyqSmwSpttIzU) | [Cozy Syndrome](https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV) | [我不回去](https://open.spotify.com/album/2TJYjfi8gAFrUpW42Iwe8k) | 4:07 | 2024-06-27 |  |
 | [我們曾經白頭到老 \- 電影《飯戲攻心2》歌曲](https://open.spotify.com/track/4cUHdZlYdd8HdNnn3r5qIi) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [我們曾經白頭到老 \(電影《飯戲攻心2》歌曲\)](https://open.spotify.com/album/13T8bMVqtADhdPLOeVSptM) | 3:58 | 2024-06-27 |  |
 | [我們都是這樣長大的](https://open.spotify.com/track/17rK9wMYbnbMfeeXKO5iZX) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [我們都是這樣長大的](https://open.spotify.com/album/4VuD9G02XE4kqet67quDGY) | 4:43 | 2024-06-27 |  |
+| [我唔理啦](https://open.spotify.com/track/12k0pvhhmaDOGSZWLfZVFN) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [我唔理啦](https://open.spotify.com/album/7MuoZDHIAtiCsLzu3A0AQf) | 2:44 | 2024-07-25 |  |
 | [我喜歡的你](https://open.spotify.com/track/4SZkrXq0buX9AXcU8JubkU) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [我喜歡的你](https://open.spotify.com/album/2YYqwb3x01qjd6rjKpCOcc) | 3:44 | 2024-06-27 |  |
 | [我在流浮山滴眼水.jpg](https://open.spotify.com/track/5x9Clj56YLmklm3Zikx2iF) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [我在流浮山滴眼水.jpg](https://open.spotify.com/album/4O5Xl1fqOvpIfahlYWWndA) | 4:15 | 2024-06-27 |  |
 | [我就像從前 \- \(劇集《夢華錄》主題曲\)](https://open.spotify.com/track/0HJSVO7WLsQ29HZUKEzuds) | [HANA](https://open.spotify.com/artist/3eMchOXfWkF7H7z3z8dGrf) | [我就像從前 \(劇集《夢華錄》主題曲\)](https://open.spotify.com/album/2OWMf8OpZkI5ldHN8nOFQh) | 2:51 | 2024-06-27 |  |
@@ -240,6 +244,7 @@
 | [放下放不下](https://open.spotify.com/track/0g6Uj4I65W3gmZy1ssWbRA) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [放下放不下](https://open.spotify.com/album/53ItEcBUVgE1lFTQZUb3wG) | 3:50 | 2024-06-27 |  |
 | [放下的頻率](https://open.spotify.com/track/0u844cmWxduPxpdZHZAgMY) | [Jocelyn Chan](https://open.spotify.com/artist/54X296HPEBGKumudEbWLRd) | [放下的頻率](https://open.spotify.com/album/5K83IIsTEpcugyWkykKYXc) | 4:26 | 2024-06-27 |  |
 | [數到十](https://open.spotify.com/track/6rTFggXwImkDdz6ZqseDSX) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [數到十](https://open.spotify.com/album/0aGvJzZ9ni0fjXFCyXyr1f) | 4:14 | 2024-07-11 |  |
+| [新牌仔](https://open.spotify.com/track/0mQccrxpvXVspsotma27wJ) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [新牌仔](https://open.spotify.com/album/4bfBEFQbHpumCeg2zCKDBi) | 3:05 | 2024-07-25 |  |
 | [旅程多得你守望](https://open.spotify.com/track/4L6rDbkkbJ1F6CC1Irhkxf) | [Natalie Ho](https://open.spotify.com/artist/7zhpwTqTMnxpH4d2cUGdnB) | [旅程多得你守望](https://open.spotify.com/album/7zzuxlNTOCdf0EWrV0UhFX) | 3:14 | 2024-06-27 |  |
 | [旅行日誌](https://open.spotify.com/track/7mfCXZLzCY3veX4q9NZnb0) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [旅行日誌](https://open.spotify.com/album/4RYDzvNTkUOVWNejzEzl4l) | 3:29 | 2024-06-27 |  |
 | [日光漂白 \- 電影《白日之下》主題曲](https://open.spotify.com/track/7dFSEqM5DnBnYgwtQWQkhV) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [日光漂白 \(電影《白日之下》主題曲\)](https://open.spotify.com/album/0kJ7mNzLwlPGYc9f7ITuHo) | 4:21 | 2024-06-27 |  |
@@ -252,6 +257,7 @@
 | [最難行的路](https://open.spotify.com/track/15Df9sWQ3zFhc5bsEM293n) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [最難行的路](https://open.spotify.com/album/5jJTEx6QbocPAFgiMx1MEJ) | 3:38 | 2024-06-27 |  |
 | [月色魔美](https://open.spotify.com/track/1g6UgjshVHThcHAZcs52tO) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [月色魔美](https://open.spotify.com/album/2ysOdvQRPLIJVdNf9klq8e) | 4:01 | 2024-06-27 |  |
 | [有些話要用英文說](https://open.spotify.com/track/2fSJhxoCQj6oMYpkM8Iun4) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [有些話要用英文說](https://open.spotify.com/album/6yNOO8WVRxbhJgsmEJAVpo) | 3:10 | 2024-06-27 |  |
+| [有心理準備](https://open.spotify.com/track/4NGRWpeviednr4XniRIlB8) | [林芊瑩](https://open.spotify.com/artist/1lwAAq6DtTJLWUdDK2quU0) | [有心理準備](https://open.spotify.com/album/6rXb1OfpeGPVOaypjOuLQu) | 3:17 | 2024-07-25 |  |
 | [望年月](https://open.spotify.com/track/3VQKp2htObuxfdbh0280j3) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [望年月](https://open.spotify.com/album/3o4ADKOHZ4Rrmnn9xqusV9) | 3:50 | 2024-06-27 |  |
 | [未晚](https://open.spotify.com/track/2XTZLKd3f7qhNLjsFE4kzS) | [Miriam Yeung](https://open.spotify.com/artist/1rxk3vAYWeiBD2Q6FCezcl) | [未晚](https://open.spotify.com/album/5NOlCZ8SQuvl8PNZtWiMyF) | 3:38 | 2024-06-27 |  |
 | [未知色 Colours of π](https://open.spotify.com/track/3zOTvfTs6AP3llTHb94az0) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [未知色 Colours of π](https://open.spotify.com/album/4lQmg5s13yrBbRcMPgU485) | 3:12 | 2024-06-27 |  |
@@ -297,6 +303,7 @@
 | [綜藝魂](https://open.spotify.com/track/7fMnbJCVBf9KXSfAu1z9Up) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [綜藝魂](https://open.spotify.com/album/1hr4bMBHAQU6m9LyujNbm7) | 3:58 | 2024-06-27 |  |
 | [美男子圖鑑](https://open.spotify.com/track/5mhWe9oy3xHB52Qhf86DVt) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [美男子圖鑑](https://open.spotify.com/album/3aHapX83gJwZznhrxKC2rM) | 2:55 | 2024-06-27 |  |
 | [美男子與香煙](https://open.spotify.com/track/28sJE8yhRUr1SSHR7utdnK) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [美男子與香煙](https://open.spotify.com/album/38QLzHHL798PIKIYWOG8bG) | 4:27 | 2024-06-27 |  |
+| [翅膀](https://open.spotify.com/track/3T1fExpXW8lklebKd2Zec7) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA), [周吉佩](https://open.spotify.com/artist/3u0ZiCEVJbNoeMF1yvhp2a), [蕭凱恩](https://open.spotify.com/artist/5H5nVOdKXhQAD5QZL1D55K) | [翅膀](https://open.spotify.com/album/1gg7BI1wdSxL9jBdtA6Czh) | 3:09 | 2024-07-25 |  |
 | [臉紅時我想看穿你的心臟](https://open.spotify.com/track/74zDfZprw49eIQbe31bPME) | [Sinnie Ng](https://open.spotify.com/artist/7zqVmX2goYKaLa1sIGlo27) | [臉紅時我想看穿你的心臟](https://open.spotify.com/album/0XoBprUMG2iCYBwcN05J82) | 3:48 | 2024-06-27 |  |
 | [自動修正](https://open.spotify.com/track/3SeddBccVwPXTqXnpvAljQ) | [Jill Vidal](https://open.spotify.com/artist/4RsRmCGtK9yJmtQulq4lBo) | [STAGES](https://open.spotify.com/album/1I5E0z1lY6qOJvo2aYDmp3) | 3:49 | 2024-06-27 |  |
 | [自動登入](https://open.spotify.com/track/2bIqhrGfrgj58kVUoaVQ0z) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [自動登入](https://open.spotify.com/album/5wnW7wsyxrLCuacnsunotQ) | 2:49 | 2024-06-27 |  |
@@ -327,7 +334,7 @@
 | [過路人](https://open.spotify.com/track/39BWIQsFBd9vQdsLi4vvup) | [Shiga Lin](https://open.spotify.com/artist/5Uw3hCC51pNjdsD2MOs72K) | [過路人](https://open.spotify.com/album/6DDmDbN200u5Hm1bLfzomU) | 3:45 | 2024-06-27 |  |
 | [過電](https://open.spotify.com/track/3vf7eIBPQtXyOZozGkRbZP) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [過電](https://open.spotify.com/album/7nuu6k8cfHXfE7vlfmqgwd) | 2:37 | 2024-06-27 |  |
 | [還有一艘救生艙](https://open.spotify.com/track/0wsuY9tfu2GYDx7D4ze2Xm) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [還有一艘救生艙](https://open.spotify.com/album/5eIPkWzfSHQs5FqQ7f7sxC) | 4:04 | 2024-06-27 |  |
-| [醬醬醬](https://open.spotify.com/track/41nGkNgosSPuyQQtXYMrJU) | [徐嘉蔚Emiko](https://open.spotify.com/artist/4bK7mDOruR44Qo5rYajCf3) | [醬醬醬](https://open.spotify.com/album/4ooptT4824qIirmvkzyuc2) | 3:13 | 2024-06-27 |  |
+| [醬醬醬](https://open.spotify.com/track/41nGkNgosSPuyQQtXYMrJU) | [徐嘉蔚 Emiko](https://open.spotify.com/artist/4bK7mDOruR44Qo5rYajCf3) | [醬醬醬](https://open.spotify.com/album/4ooptT4824qIirmvkzyuc2) | 3:13 | 2024-06-27 |  |
 | [重拾呼吸的節奏](https://open.spotify.com/track/22uNc94lqKFi6cXxi1D6Om) | [杜以辰](https://open.spotify.com/artist/7dfCO9wZRuuYOthlyFBqCs) | [重拾呼吸的節奏](https://open.spotify.com/album/2xbcE16g6FveUbUPMDnrxl) | 3:28 | 2024-06-27 |  |
 | [開燈 \. 熄燈 \- 熄燈版](https://open.spotify.com/track/0ESNH8JaBCbLb2PH5rZpL1) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Dear Secret](https://open.spotify.com/album/5CsoFDurYbSRb02fd5AqRQ) | 4:15 | 2024-06-27 |  |
 | [間歇性休眠](https://open.spotify.com/track/6NTpMNt4qi3icnZq9Wh5WE) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [間歇性休眠](https://open.spotify.com/album/2N8gg8nxAPMrAJOJkCnM0H) | 4:41 | 2024-06-27 |  |
@@ -339,7 +346,7 @@
 | [青年危機](https://open.spotify.com/track/3g0L1x7OvFrsgy9e25LP7I) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [青年危機](https://open.spotify.com/album/3k7ZHbjHjOQsadMVss6NKF) | 3:38 | 2024-06-27 |  |
 | [面對後悔的各種方法](https://open.spotify.com/track/22H8nkDVSblurw8BcLHr4G) | [Jill Vidal](https://open.spotify.com/artist/4RsRmCGtK9yJmtQulq4lBo) | [面對後悔的各種方法](https://open.spotify.com/album/2XKKzNAzzeBLNhgk9p1bLs) | 4:15 | 2024-06-27 |  |
 | [風邪](https://open.spotify.com/track/78u0tNt6KQTZxFdRouyiMO) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [Rage in Peace](https://open.spotify.com/album/0O4LuYlUBi5TluPnj5Gtr7) | 3:08 | 2024-06-27 |  |
-| [驚魂曲](https://open.spotify.com/track/22CDC9USMhIpJYwZrfSsoT) | [徐嘉蔚Emiko](https://open.spotify.com/artist/4bK7mDOruR44Qo5rYajCf3) | [驚魂曲](https://open.spotify.com/album/0MmTZTmVITLCGDmYjuvGl8) | 3:20 | 2024-06-27 |  |
+| [驚魂曲](https://open.spotify.com/track/22CDC9USMhIpJYwZrfSsoT) | [徐嘉蔚 Emiko](https://open.spotify.com/artist/4bK7mDOruR44Qo5rYajCf3) | [驚魂曲](https://open.spotify.com/album/0MmTZTmVITLCGDmYjuvGl8) | 3:20 | 2024-06-27 |  |
 | [魔鬼在身邊](https://open.spotify.com/track/7Bw2aggmSvFv3kp9351afV) | [Helen So 蘇凱倫](https://open.spotify.com/artist/5xlDKh4xnSrMDM35VCGb11) | [魔鬼在身邊](https://open.spotify.com/album/7znSODf2pGH9Z660wEPWKE) | 2:53 | 2024-06-27 |  |
 | [黃言](https://open.spotify.com/track/5jkIfMIETS9BMXuzeRG6ei) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [黃言](https://open.spotify.com/album/3kIgpRB4QyYRkuiWlLLazd) | 3:44 | 2024-06-27 |  |
 | [龍鳳登場](https://open.spotify.com/track/0CUPPEJlwTU49VjvDVdtEv) | [J.Arie](https://open.spotify.com/artist/1XtqhbH2mw54S87c4d4v2v) | [龍鳳登場](https://open.spotify.com/album/1VauvqwFFfLaXls36lob8y) | 2:56 | 2024-06-27 |  |

@@ -500,7 +500,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 392308,
       "name": "Another One (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/1ks04dUr7tjZJUbT89MoJD"
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 299176,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE"
@@ -2252,7 +2252,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 268925,
       "name": "God Is with Us",
       "url": "https://open.spotify.com/track/1HcpdLzAcySmIAPUUZ5m7L"
@@ -2601,6 +2601,32 @@
     },
     {
       "album": {
+        "name": "Halle (Remix)",
+        "url": "https://open.spotify.com/album/2YeAPHd7mDzcnIdpoTeEwE"
+      },
+      "artists": [
+        {
+          "name": "Peterson Okopi",
+          "url": "https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz"
+        },
+        {
+          "name": "Phindi P",
+          "url": "https://open.spotify.com/artist/5dE89DuV6VJledFjwVjemU"
+        },
+        {
+          "name": "TWC",
+          "url": "https://open.spotify.com/artist/0SzlbZ7qCxC9AZID7jWJpe"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304927,
+      "name": "Halle - Remix",
+      "url": "https://open.spotify.com/track/3pYU8E6yHFDkWjsq97RlbH"
+    },
+    {
+      "album": {
         "name": "Hallelu",
         "url": "https://open.spotify.com/album/1ZFY1mPumRKVFzVBxv3lQM"
       },
@@ -2704,6 +2730,24 @@
       "duration_ms": 410958,
       "name": "He Who Is To Come",
       "url": "https://open.spotify.com/track/5HKXRikAE7tdWY0XR5J7z9"
+    },
+    {
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/65nIbGuai3iNDw0jQUbYgw"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289149,
+      "name": "HEAVENS GATE",
+      "url": "https://open.spotify.com/track/7tZ1qPrxuBApMF6j3lJWJE"
     },
     {
       "album": {
@@ -2982,7 +3026,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 387774,
       "name": "I Just Want You",
       "url": "https://open.spotify.com/track/3D6LWysCetPkl9Po6WBybh"
@@ -4754,7 +4798,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 255026,
       "name": "Never Run Dry",
       "url": "https://open.spotify.com/track/6LBRgYzpd1uDeDVy7U1kn5"
@@ -5502,7 +5546,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Over",
       "url": "https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT"
@@ -5962,7 +6006,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 97857,
       "name": "S.E.L.F",
       "url": "https://open.spotify.com/track/5ebiW0NaOwjhQTqegf4liq"
@@ -7200,7 +7244,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 396043,
       "name": "We Bless - Live",
       "url": "https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD"
@@ -7328,7 +7372,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 238200,
       "name": "What A Beautiful Name",
       "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
@@ -7350,7 +7394,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 240200,
       "name": "What A Beautiful Name",
       "url": "https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh"
@@ -7446,7 +7490,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 430689,
       "name": "When Wind Meets Fire (feat. Chris Brown & Tiffany Hudson)",
       "url": "https://open.spotify.com/track/7ymQvrauqbRfH30XVkmIs2"
@@ -7552,6 +7596,32 @@
       "duration_ms": 243040,
       "name": "Wonder (feat. Le'Andria Johnson)",
       "url": "https://open.spotify.com/track/48NBwJuiWaieFw8R5W3odZ"
+    },
+    {
+      "album": {
+        "name": "WONDERFUL",
+        "url": "https://open.spotify.com/album/5axh27WducjLFbcRUyKHxe"
+      },
+      "artists": [
+        {
+          "name": "EJ Newton",
+          "url": "https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4"
+        },
+        {
+          "name": "Julia McMillan",
+          "url": "https://open.spotify.com/artist/5ektyaMN6ejyyiSdkDUArQ"
+        },
+        {
+          "name": "Great Grace Music",
+          "url": "https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223846,
+      "name": "WONDERFUL",
+      "url": "https://open.spotify.com/track/1gU3Uiu6yX6B0GQu32a9TX"
     },
     {
       "album": {

@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "ElectroSoul",
+        "url": "https://open.spotify.com/album/7asruEMSmzaLp7FPOJEs32"
+      },
+      "artists": [
+        {
+          "name": "MMYYKK",
+          "url": "https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169263,
+      "name": "Bat (For You)",
+      "url": "https://open.spotify.com/track/2vC2SmmDqsXEIK6JL29siK"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/4OYo1ajrOD65jcMsR7Zohq"
       },
@@ -466,7 +484,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 185733,
       "name": "Belong To You",
       "url": "https://open.spotify.com/track/6pda92NQRMnWwbOgQhYhtw"
@@ -1800,7 +1818,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 274973,
       "name": "Imagineering",
       "url": "https://open.spotify.com/track/2TgTGJyiWf1ptW5g3QG938"
@@ -2366,7 +2384,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 284386,
-      "name": "Marching Band - feat. Masego",
+      "name": "Marching Band (feat. Masego)",
       "url": "https://open.spotify.com/track/1wWGkPC7eBVvDZoEhROvGv"
     },
     {
@@ -3088,6 +3106,24 @@
       "duration_ms": 199924,
       "name": "SAKURA",
       "url": "https://open.spotify.com/track/0NIEDjp3hwEeKetEvqy16x"
+    },
+    {
+      "album": {
+        "name": "Same Old Story, Same Old Song",
+        "url": "https://open.spotify.com/album/692H3595WFFNmkFWxy34IC"
+      },
+      "artists": [
+        {
+          "name": "Paul van Kessel",
+          "url": "https://open.spotify.com/artist/44nMuC7VvLiVjEzdvFEz3k"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230365,
+      "name": "Same Old Story, Same Old Song",
+      "url": "https://open.spotify.com/track/1dNeaQbdnzfMLAW6oe3zlf"
     },
     {
       "album": {

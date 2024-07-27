@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Vjhah37el0Aq5yoRaujBz.md) - [plain]
 
 > Let this upbeat playlist power you through your day
 
-[Jeffry Harrison](https://open.spotify.com/user/1231779322) - 3,443 likes - 306 songs - 18 hr 4 min
+[Jeffry Harrison](https://open.spotify.com/user/1231779322) - 3,445 likes - 306 songs - 18 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -283,7 +283,7 @@ pretty - [cumulative](/playlists/cumulative/0Vjhah37el0Aq5yoRaujBz.md) - [plain]
 | 273 | [Truth or Dare](https://open.spotify.com/track/54uyFEMcG3wnZ1JSRS3QtI) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Little Daylight](https://open.spotify.com/artist/63aFY9yQyFDJtGkInMUris) | [Truth or Dare](https://open.spotify.com/album/5Q4lGcsrV2DTceW0p52yvK) | 2:30 |
 | 274 | [Remember I Told You \- Frank Walker Remix](https://open.spotify.com/track/3DgXhNbtB4K8FKAIyFbi53) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [Remember I Told You \(Frank Walker Remix\)](https://open.spotify.com/album/3n7i1sz8ybzjhDR3Y9WBLL) | 3:45 |
 | 275 | [Lay It On Me \(Feat\. Keiynan Lonsdale\)](https://open.spotify.com/track/00c9VpjXk7iHdLEEzrAxbr) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Keiynan Lonsdale](https://open.spotify.com/artist/0tkkz8CmkHga4YZgSHEDVl) | [Lay It On Me \(Feat\. Keiynan Lonsdale\)](https://open.spotify.com/album/2aDY7DUdToDSHXXWFgmnnI) | 3:44 |
-| 276 | [Distant](https://open.spotify.com/track/3kKX2SSrYHYGbX9fIpipoM) | [Clement Bazin](https://open.spotify.com/artist/5CM5PpBzdFwgJmlafK2AEy), [lia](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [Distant](https://open.spotify.com/album/7hJ5HaCyTeWzZ5c5pMJf7v) | 3:47 |
+| 276 | [Distant](https://open.spotify.com/track/3kKX2SSrYHYGbX9fIpipoM) | [Clement Bazin](https://open.spotify.com/artist/5CM5PpBzdFwgJmlafK2AEy), [Lia Kuri](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [Distant](https://open.spotify.com/album/7hJ5HaCyTeWzZ5c5pMJf7v) | 3:47 |
 | 277 | [Already Gone](https://open.spotify.com/track/5xtND0ydivuRhguOhKHUk7) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Kelsie Rimmer](https://open.spotify.com/artist/5Tqtyboq0XPdAipPROXWxr) | [Already Gone](https://open.spotify.com/album/2uKp5H2krw8wutm7LFSWuV) | 3:43 |
 | 278 | [Chasing Highs \- Roosevelt Remix](https://open.spotify.com/track/6jucfJVCi6WvaaXCpPgIhN) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Chasing Highs \(Roosevelt Remix\)](https://open.spotify.com/album/2jmXzpoMrJ8XDS0cwfGA54) | 4:01 |
 | 279 | [Was Will Be \(feat\. Mimi Page\)](https://open.spotify.com/track/1olERLnSeLfDNsMPFCi7TK) | [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i), [Mimi Page](https://open.spotify.com/artist/1USUeNBNJcg7Of34Ix74lM) | [Reflective \(Part 1\)](https://open.spotify.com/album/5tRZ2VKwSi6xxnY10Mea4B) | 5:57 |

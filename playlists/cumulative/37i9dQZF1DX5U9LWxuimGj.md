@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Ela Taubert
 
-173 songs - 9 hr 31 min
+175 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Achy Breaky Heart 25 \(Spanglish\) \[feat\. Jencarlos Canela\]](https://open.spotify.com/track/6AJJN8totfQ19PPft5qJqt) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7) | [Set the Record Straight](https://open.spotify.com/album/65HZxbBL9viNkzeFJM53tE) | 3:14 | 2022-07-08 | 2024-04-10 |
 | [Achy Breaky Heart 25 \- Spanglish \(feat\. Jencarlos Canela\)](https://open.spotify.com/track/7BsOKmHxQ9vvpFZaRR8Tzm) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [The Silver Mullet Band](https://open.spotify.com/artist/0OUA8eU4zKdxFX9DL2sdkR), [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7) | [Achy Breaky Heart 25 \- Spanglish \(feat\. Jencarlos Canela\)](https://open.spotify.com/album/3fO7J7vXdxv5IdixnK2O3K) | 3:14 | 2021-12-10 | 2022-07-29 |
 | [Adiós Amor \- Recorded at Panoram Studios, Mexico](https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Spotify Singles](https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs) | 3:22 | 2021-12-10 | 2024-04-10 |
+| [Aerolínea](https://open.spotify.com/track/5hSUeE4RnQ4sZfw3scLqse) | [Juan Cerro](https://open.spotify.com/artist/3dMAwDvgNZmLZHiVlFGi6L) | [Aerolínea](https://open.spotify.com/album/6hJXPdppcnnvnuiyLVyFzv) | 3:13 | 2024-07-26 |  |
 | [Alch Si](https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Alch Si](https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc) | 2:33 | 2023-12-01 |  |
 | [Anybody Else \- Latin Remix](https://open.spotify.com/track/0HvfTzdXOpyoUtayGyvLyn) | [Mira Goto](https://open.spotify.com/artist/4QsATL0ozR4un64TltaF7o), [Pamela Velez](https://open.spotify.com/artist/3nxx6KxCTRLcdlW4vFRy4U), [Nia Skyfer](https://open.spotify.com/artist/3eZUOEIFA3hTKWNs6UbZwN) | [Anybody Else \(Latin Remix\)](https://open.spotify.com/album/4XidZG19fylj92RfMH3fl0) | 2:00 | 2021-12-10 | 2024-04-10 |
 | [Ashes](https://open.spotify.com/track/1apDxpEFWUmDrTSYYEHv0L) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 4:34 | 2022-07-08 | 2023-12-24 |
@@ -30,6 +31,7 @@
 | [Chero en la Gran Ciudad](https://open.spotify.com/track/6Xc7SksAQwy2sbX1dAbT45) | [Los Vikingos Del Norte](https://open.spotify.com/artist/1M4xkleBO7JywHJ9oPw3qM), [Alamo Country Band](https://open.spotify.com/artist/2IAjHCBYs2aB1I5KQf5G7p) | [Chero en la Gran Ciudad](https://open.spotify.com/album/5lhxb1lo9wPEKi0CdCNehw) | 2:32 | 2021-12-10 | 2024-04-10 |
 | [Chevy Bel Air](https://open.spotify.com/track/0NfnGKHH9Al0IsAWIkw1vb) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Chevy Bel Air](https://open.spotify.com/album/6hwxiEY9OG621hU306W70f) | 2:57 | 2023-12-01 | 2024-04-19 |
 | [Chevy Bel Air](https://open.spotify.com/track/1tepd9MBwVeC9jRva63Rv1) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Chevy Bel Air](https://open.spotify.com/album/2z6mvbkzLrnpWYSe7VT03Q) | 2:57 | 2022-06-24 | 2024-06-18 |
+| [Cold Blooded](https://open.spotify.com/track/4FKURHEBJawl7Da2OIocSz) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8), [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Cold Blooded](https://open.spotify.com/album/5JosVPtHNfu2O4m0QTIfab) | 2:41 | 2024-07-26 |  |
 | [Come And Take IT](https://open.spotify.com/track/18txSFCPcylzKJsdY2d9wC) | [Louie Thesinger](https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj), [Tommy Calle](https://open.spotify.com/artist/542gnZqusCXArVqHCL2b5F) | [Come And Take IT](https://open.spotify.com/album/1SgtqqngrSUdTYQVjSViZR) | 2:35 | 2023-04-21 | 2024-04-10 |
 | [Como Las Cinco Un Viernes \- 5 on a Friday \- Spanish Version](https://open.spotify.com/track/3ndv8kUmluaGkfrHMeYfmo) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Kat & Alex Lado B](https://open.spotify.com/album/2q3MgdvSHJ2MbldHccxoC2) | 2:41 | 2022-09-30 | 2024-06-18 |
 | [Country'd Look Good On You](https://open.spotify.com/track/6d7k8PoVEnBgwBsPvKsubp) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Country'd Look Good On You](https://open.spotify.com/album/1GfpqxHYA7uOiIw3jA0jVO) | 3:22 | 2021-12-10 | 2023-11-05 |

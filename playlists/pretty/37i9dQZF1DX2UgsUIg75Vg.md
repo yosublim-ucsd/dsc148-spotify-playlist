@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b vibes for your most relaxed moods\. Cover: BLXST
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,347,542 likes - 150 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,347,843 likes - 150 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 24 | [Stranger \- loop](https://open.spotify.com/track/2qReqmTNGm1hQG3wmar4EC) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [For The Best](https://open.spotify.com/album/11ql8nqyE8Zb81jS1VKs9U) | 2:15 |
 | 25 | [Never Be Yours](https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Never Be Yours](https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF) | 3:16 |
 | 26 | [No More Maybes \(feat\. Bibi Bourelly & India Shawn\)](https://open.spotify.com/track/3vUm8HaXvzoaP8yNNNiiu2) | [TAVE](https://open.spotify.com/artist/76ZWyAjoSOf6v8kH3UqLEK), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7), [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [No More Maybes \(feat\. Bibi Bourelly & India Shawn\)](https://open.spotify.com/album/5foVF96o1WhMDI29PJ2jyf) | 3:19 |
-| 27 | [On Me](https://open.spotify.com/track/5jSMRqsK70fjBAqZMJ6uCI) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [So You Know](https://open.spotify.com/album/2jELYQXQdqowizHRPUUwAQ) | 3:43 |
+| 27 | [On Me](https://open.spotify.com/track/5jSMRqsK70fjBAqZMJ6uCI) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [So You Know](https://open.spotify.com/album/2jELYQXQdqowizHRPUUwAQ) | 3:43 |
 | 28 | [Nasty](https://open.spotify.com/track/4Z973kxz9iOlxwTlCDskpl) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Nasty](https://open.spotify.com/album/6p6WVSuVgt1Jimwnz6fdy2) | 2:59 |
 | 29 | [Getting No Sleep](https://open.spotify.com/track/3YnhnUKeJlokCANd3R0fnA) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Getting No Sleep](https://open.spotify.com/album/4wI1h1Ex8aczfMkPVfSRtB) | 3:12 |
 | 30 | [OutTheWay \(feat\. Rae Khalil\)](https://open.spotify.com/track/0IPG2jOqjMz3PAIeh4NhXW) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Why Lawd?](https://open.spotify.com/album/0LlzHi8Erl8zpTumqt88Qe) | 3:26 |

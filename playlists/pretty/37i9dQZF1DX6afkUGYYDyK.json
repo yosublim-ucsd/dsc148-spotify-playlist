@@ -1,6 +1,6 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 19198,
+  "num_followers": 19205,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Woman; Thou Art Loosed!",
+        "url": "https://open.spotify.com/album/2CzFvvN0ZMozTwPIw0wQzL"
+      },
+      "artists": [
+        {
+          "name": "T.D. Jakes",
+          "url": "https://open.spotify.com/artist/1pnLOf4IZBQeQVlFn3LBQQ"
+        }
+      ],
+      "duration_ms": 221133,
+      "name": "Give Thanks - Medley",
+      "url": "https://open.spotify.com/track/5pg3lPpcTek4W4NPFI4MlL"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "Strength (feat. John P. Kee)",
         "url": "https://open.spotify.com/album/0VwV87060gmBGwitNcyaGT"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 314600,
       "name": "Thank You Lord (He Did It All) (feat. John P. Kee) - Live",
       "url": "https://open.spotify.com/track/0fmQv7QDcVU8zsfmCL8uj6"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Woman; Thou Art Loosed!",
-        "url": "https://open.spotify.com/album/2CzFvvN0ZMozTwPIw0wQzL"
-      },
-      "artists": [
-        {
-          "name": "T.D. Jakes",
-          "url": "https://open.spotify.com/artist/1pnLOf4IZBQeQVlFn3LBQQ"
-        }
-      ],
-      "duration_ms": 221133,
-      "name": "Give Thanks - Medley",
-      "url": "https://open.spotify.com/track/5pg3lPpcTek4W4NPFI4MlL"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -931,26 +931,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Talk to God",
-        "url": "https://open.spotify.com/album/6I6rwc4chgp143l6TF5Jaf"
-      },
-      "artists": [
-        {
-          "name": "Nu Tone",
-          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
-        },
-        {
-          "name": "N!x",
-          "url": "https://open.spotify.com/artist/5Lm6f1hGukpsGFbS2K5hKn"
-        }
-      ],
-      "duration_ms": 129882,
-      "name": "Joyful Blessing",
-      "url": "https://open.spotify.com/track/01yctBdQgHzDEXGrjV4CYn"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Thankful (Live)",
         "url": "https://open.spotify.com/album/2rywYmIP5UX9JbaQx2H5x8"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 419000,
       "name": "Thankful - Live",
       "url": "https://open.spotify.com/track/62xo55xXPDuNekVHmERjc0"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Talk to God",
+        "url": "https://open.spotify.com/album/6I6rwc4chgp143l6TF5Jaf"
+      },
+      "artists": [
+        {
+          "name": "Nu Tone",
+          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
+        },
+        {
+          "name": "N!x",
+          "url": "https://open.spotify.com/artist/5Lm6f1hGukpsGFbS2K5hKn"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "Joyful Blessing",
+      "url": "https://open.spotify.com/track/01yctBdQgHzDEXGrjV4CYn"
     },
     {
       "added_at": "2022-11-23 15:01:23",

@@ -629,7 +629,7 @@
     },
     {
       "album": {
-        "name": "ABOUT ME",
+        "name": "About Me",
         "url": "https://open.spotify.com/album/6sxOMgS63kM7nDYkUYkkuZ"
       },
       "artists": [
@@ -641,7 +641,7 @@
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 231776,
+      "duration_ms": 231775,
       "name": "Fall in Fall",
       "url": "https://open.spotify.com/track/7M8UfQ4tszq3j4zpljhLX2"
     },
@@ -3283,7 +3283,7 @@
     },
     {
       "album": {
-        "name": "REMEMBER ME",
+        "name": "Remember Me",
         "url": "https://open.spotify.com/album/2tL7dlbstmskUJL3jqW6y3"
       },
       "artists": [
@@ -3295,7 +3295,7 @@
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 282912,
+      "duration_ms": 282421,
       "name": "\ub208 \ub5a0\ubcf4\ub2c8 \uc774\ubcc4\uc774\ub354\ub77c",
       "url": "https://open.spotify.com/track/22CY3wlF8O6Z9QkOWYhaz5"
     },

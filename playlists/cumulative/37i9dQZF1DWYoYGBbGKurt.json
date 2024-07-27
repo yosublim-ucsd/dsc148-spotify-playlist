@@ -6434,7 +6434,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 108800,
       "name": "Could I Feel Better",
       "url": "https://open.spotify.com/track/77dVrzrAEIwrLw7MOqo0Gq"
@@ -9220,7 +9220,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 139761,
       "name": "Elephant Soul",
       "url": "https://open.spotify.com/track/2pP6NmXnV9JeOXuJKkp0EQ"
@@ -16413,6 +16413,28 @@
     },
     {
       "album": {
+        "name": "Last Dream",
+        "url": "https://open.spotify.com/album/1vdtftHbxBqtGT1vvl0nIl"
+      },
+      "artists": [
+        {
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        },
+        {
+          "name": "Dontcry",
+          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Last Dream",
+      "url": "https://open.spotify.com/track/5SBOxgMvsWuWyZQPjXEqAA"
+    },
+    {
+      "album": {
         "name": "late",
         "url": "https://open.spotify.com/album/0YXj53JvRErrJhRsJq0WJi"
       },
@@ -16912,6 +16934,24 @@
       "duration_ms": 149538,
       "name": "Let it be",
       "url": "https://open.spotify.com/track/414H4dKl75OxP2JfgX8IqL"
+    },
+    {
+      "album": {
+        "name": "Let It Rain",
+        "url": "https://open.spotify.com/album/3FrlMcpgsvPxfdSkPLF6t5"
+      },
+      "artists": [
+        {
+          "name": "Travertina",
+          "url": "https://open.spotify.com/artist/2pRfs9421S5W58xd6yfgYu"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151666,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/5eniIpGH50pjaFLXzxRxfo"
     },
     {
       "album": {
@@ -17724,7 +17764,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 167141,
       "name": "lonely paradise",
       "url": "https://open.spotify.com/track/4PayKAGYOAQY0IgD4Lj7Gd"
@@ -21403,6 +21443,24 @@
     },
     {
       "album": {
+        "name": "Napwave Nirvana",
+        "url": "https://open.spotify.com/album/0OUQWtv2Wny91GLsXsE5eB"
+      },
+      "artists": [
+        {
+          "name": "Dozy Duzzn",
+          "url": "https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129142,
+      "name": "Napwave Nirvana",
+      "url": "https://open.spotify.com/track/1MRxxXsWluxrcyiyy0msBd"
+    },
+    {
+      "album": {
         "name": "Spacemoons",
         "url": "https://open.spotify.com/album/48MaOWMleT2N9nmVfZ95BR"
       },
@@ -22054,7 +22112,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 144000,
       "name": "nostalgic memories",
       "url": "https://open.spotify.com/track/2CIiaHZBgE7MxSRnBzPHNk"
@@ -24077,6 +24135,24 @@
     },
     {
       "album": {
+        "name": "Puddles in Space",
+        "url": "https://open.spotify.com/album/1Q2651xcc76V9IqxvUrNi4"
+      },
+      "artists": [
+        {
+          "name": "Justnormal",
+          "url": "https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Puddles in Space",
+      "url": "https://open.spotify.com/track/3ea0vKpsVdSastrJIMEXpq"
+    },
+    {
+      "album": {
         "name": "puf",
         "url": "https://open.spotify.com/album/6bG3DQPW3iJUH9wnbxQomn"
       },
@@ -25114,6 +25190,24 @@
       "duration_ms": 137580,
       "name": "roadtrip",
       "url": "https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4"
+    },
+    {
+      "album": {
+        "name": "robinsong",
+        "url": "https://open.spotify.com/album/2aIFgeAxQKj6F5R2fH8di6"
+      },
+      "artists": [
+        {
+          "name": "Kainbeats",
+          "url": "https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139038,
+      "name": "robinsong",
+      "url": "https://open.spotify.com/track/1qe9oC3nIxY7vWN5ybPeCe"
     },
     {
       "album": {
@@ -26402,7 +26496,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 150000,
       "name": "Shibuya Rain",
       "url": "https://open.spotify.com/track/72HeI4DmGi8jwdyV1YwpFh"
@@ -27194,6 +27288,24 @@
       "duration_ms": 174470,
       "name": "smileyface",
       "url": "https://open.spotify.com/track/6oGk8aYZv1s28KeBrFGQax"
+    },
+    {
+      "album": {
+        "name": "Smooth Fields",
+        "url": "https://open.spotify.com/album/3NzRqlA8AJyFqDQUdcT9ht"
+      },
+      "artists": [
+        {
+          "name": "Harvest Emotions",
+          "url": "https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170434,
+      "name": "Smooth Fields",
+      "url": "https://open.spotify.com/track/2MKtFmktpp2kMGKm4oaOcH"
     },
     {
       "album": {

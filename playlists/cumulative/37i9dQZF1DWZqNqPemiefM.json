@@ -1507,6 +1507,24 @@
     },
     {
       "album": {
+        "name": "CAHAYA",
+        "url": "https://open.spotify.com/album/3Klm6zTWoWWAxpG1HfKImk"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170900,
+      "name": "CAHAYA",
+      "url": "https://open.spotify.com/track/2YBJlOWBi9Ktw4t6BNyroK"
+    },
+    {
+      "album": {
         "name": "Call (Deep Blue)",
         "url": "https://open.spotify.com/album/1R7kG8kMXYNkxIOyW1h8Zv"
       },
@@ -2980,7 +2998,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 357893,
       "name": "Everything Valley",
       "url": "https://open.spotify.com/track/1Ne96Ev1xV7JCQwhFY0iQm"
@@ -4714,6 +4732,24 @@
       "duration_ms": 347862,
       "name": "Irie",
       "url": "https://open.spotify.com/track/2VokL9qQNd46ZETs2mZYq2"
+    },
+    {
+      "album": {
+        "name": "Iyo No Hito",
+        "url": "https://open.spotify.com/album/3ACIFpzKIMDwUDjlMidNvS"
+      },
+      "artists": [
+        {
+          "name": "maya ongaku",
+          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374318,
+      "name": "Iyo No Hito",
+      "url": "https://open.spotify.com/track/0HwElc96e7sKvI8pOTvC2a"
     },
     {
       "album": {
@@ -7860,7 +7896,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 158000,
       "name": "Sea",
       "url": "https://open.spotify.com/track/7aheJ8w1GYkZogoMTigoAU"
@@ -8306,6 +8342,24 @@
       "duration_ms": 69866,
       "name": "Silent Love - In Search of Something",
       "url": "https://open.spotify.com/track/6AbAuy7NZ3rCPLmAhDAADF"
+    },
+    {
+      "album": {
+        "name": "Simple Math",
+        "url": "https://open.spotify.com/album/7cpMHg9DK1kc2UFvY7Ul9N"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Simple Math",
+      "url": "https://open.spotify.com/track/7n0y94WcLp0QDbRoWO64Oq"
     },
     {
       "album": {
@@ -10858,7 +10912,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 195681,
       "name": "\u3042\u306a\u305f\u306f\u732b\u3067\u3059",
       "url": "https://open.spotify.com/track/4B8y9ZGZeWoCV0KOIzFSoU"

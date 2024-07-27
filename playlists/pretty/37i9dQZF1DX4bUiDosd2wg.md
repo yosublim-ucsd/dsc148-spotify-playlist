@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,078 likes - 201 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,081 likes - 201 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,7 +151,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 141 | [만약에 말야](https://open.spotify.com/track/2XKuRwspIG5xIKZYVCNbty) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [K팝 스타 시즌4 TOP2 Pt\. 1](https://open.spotify.com/album/54qz9V33c5PDRbgyYaUBxP) | 3:03 |
 | 142 | [흉터](https://open.spotify.com/track/0kupcrqE6M7JRSInyzxO6I) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Inside Story](https://open.spotify.com/album/0iCmcDuRS0QfpywqJQmVHB) | 3:36 |
 | 143 | [그대 앞에서](https://open.spotify.com/track/52di8fyTIyqF3st8BtMzKK) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Inside Story](https://open.spotify.com/album/0iCmcDuRS0QfpywqJQmVHB) | 4:39 |
-| 144 | [눈 떠보니 이별이더라](https://open.spotify.com/track/22CY3wlF8O6Z9QkOWYhaz5) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [REMEMBER ME](https://open.spotify.com/album/2tL7dlbstmskUJL3jqW6y3) | 4:42 |
+| 144 | [눈 떠보니 이별이더라](https://open.spotify.com/track/22CY3wlF8O6Z9QkOWYhaz5) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [Remember Me](https://open.spotify.com/album/2tL7dlbstmskUJL3jqW6y3) | 4:42 |
 | 145 | [기억속의 먼 그대에게](https://open.spotify.com/track/3DNVqzxkio4nA9zvQAxHra) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Neo Classicism](https://open.spotify.com/album/1P04e6QGsWnsbRIAiQK8Xm) | 4:49 |
 | 146 | [동경](https://open.spotify.com/track/0IHJGrNEKeB6UalZUyIIuh) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Second Story](https://open.spotify.com/album/3DwlAxa5P4qofNLXav1yxH) | 5:15 |
 | 147 | [추억은 사랑을 닮아](https://open.spotify.com/track/23yK4oAFMGjq1r5D0Gz35m) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [The Breeze Of Sea](https://open.spotify.com/album/6JAMat1cj6e3E3s7eIYQEU) | 5:29 |
@@ -205,7 +205,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 195 | [Tears Fall Down At The End Of The Sky](https://open.spotify.com/track/1CvsjHs2psvFyeMLP1s4SV) | [Juniper](https://open.spotify.com/artist/6gXxUckROtxJeMb1Djj0aw) | [1st](https://open.spotify.com/album/2nMftYVmWeswq3BR50tUYC) | 4:28 |
 | 196 | [A Beautiful Farewell](https://open.spotify.com/track/2dekdGGBynn4GIAJE1sIa5) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [잘못된 만남](https://open.spotify.com/album/0eqAutoBmz9KUKovFlv7Qg) | 4:10 |
 | 197 | [Love has left again](https://open.spotify.com/track/51juQGmbyLEYkL9y2hqMcI) | [Lee Ki\-chan](https://open.spotify.com/artist/06lmDAKbe4tXjN9m7bRaQj) | [New Story](https://open.spotify.com/album/5bZfsIAGUeJfsRd9hN9PEA) | 4:16 |
-| 198 | [Fall in Fall](https://open.spotify.com/track/7M8UfQ4tszq3j4zpljhLX2) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [ABOUT ME](https://open.spotify.com/album/6sxOMgS63kM7nDYkUYkkuZ) | 3:51 |
+| 198 | [Fall in Fall](https://open.spotify.com/track/7M8UfQ4tszq3j4zpljhLX2) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [About Me](https://open.spotify.com/album/6sxOMgS63kM7nDYkUYkkuZ) | 3:51 |
 | 199 | [Nothing Better](https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [The Wind, The Sea, The Rain](https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL) | 4:23 |
 | 200 | [별 짓 다해봤는데](https://open.spotify.com/track/19tN2T7F6XUME4zDPd9YuO) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [별 짓 다해봤는데](https://open.spotify.com/album/2fet23moXUqZE7up5vHRVa) | 4:09 |
 | 201 | [늦은 후회](https://open.spotify.com/track/46XH9XZwZKuISZZAieHmke) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [2011 김형석 With Friends Part.1](https://open.spotify.com/album/5VIZj07PjlySAdYgo28An9) | 4:42 |

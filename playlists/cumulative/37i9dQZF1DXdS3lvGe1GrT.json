@@ -23199,6 +23199,24 @@
     },
     {
       "album": {
+        "name": "White Laced Gown",
+        "url": "https://open.spotify.com/album/2ZntBfcU7mvFuGYW1os7gp"
+      },
+      "artists": [
+        {
+          "name": "barrett",
+          "url": "https://open.spotify.com/artist/5s8pSew0l0EfjJLK5a8sSY"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330687,
+      "name": "White Laced Gown",
+      "url": "https://open.spotify.com/track/0Htgmc5Y83idiRButmvFdW"
+    },
+    {
+      "album": {
         "name": "Paper Horses",
         "url": "https://open.spotify.com/album/0r7QWFxKM5XN9WBmGS99sN"
       },

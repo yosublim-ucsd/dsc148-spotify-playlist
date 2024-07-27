@@ -457,6 +457,24 @@
     },
     {
       "album": {
+        "name": "Ain't Sad About It",
+        "url": "https://open.spotify.com/album/2dnnm4CV2NZoFyrA1eQEgq"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223106,
+      "name": "Ain't Sad About It",
+      "url": "https://open.spotify.com/track/5kaJZ4avY5KwWsjTK8W0wZ"
+    },
+    {
+      "album": {
         "name": "genesis (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5snWN07rioDJfH1hR8aITX"
       },
@@ -646,6 +664,28 @@
       "duration_ms": 324920,
       "name": "All The Same",
       "url": "https://open.spotify.com/track/33fKu1jFRuXJiBg5fXZQSk"
+    },
+    {
+      "album": {
+        "name": "ALL-WAYS",
+        "url": "https://open.spotify.com/album/3LHt0fIWXbz3T65CXNSnw3"
+      },
+      "artists": [
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        },
+        {
+          "name": "Astr\u00f8nne",
+          "url": "https://open.spotify.com/artist/2DOAWdT8xBtf0aLDS5U8yN"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216029,
+      "name": "ALL-WAYS",
+      "url": "https://open.spotify.com/track/6Q3TUkA7ZrOmZm6dzTYVEo"
     },
     {
       "album": {
@@ -8074,7 +8114,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 147718,
       "name": "Lucky Me",
       "url": "https://open.spotify.com/track/2qhpdMFTiAMM4ZEsFPqyzv"
@@ -8520,7 +8560,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 114698,
       "name": "me and all my niggas",
       "url": "https://open.spotify.com/track/1V5LZEDXnCctyA2G4NNjsg"
@@ -9242,6 +9282,24 @@
       "duration_ms": 196799,
       "name": "North Face",
       "url": "https://open.spotify.com/track/63bAGRSSX2V1hhPSP2NpBC"
+    },
+    {
+      "album": {
+        "name": "Not Today",
+        "url": "https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186300,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR"
     },
     {
       "album": {
@@ -13738,7 +13796,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 240272,
       "name": "Uber Driver",
       "url": "https://open.spotify.com/track/70BGqPX1A20XVIWMDumGfv"

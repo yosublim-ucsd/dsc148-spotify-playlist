@@ -2,7 +2,7 @@
 
 ### [Ngetren di 2010an](https://open.spotify.com/playlist/37i9dQZF1DWY8wQ1UHaykc)
 
-> Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Ungu
+> Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Vierra
 
 167 songs - 11 hr 27 min
 

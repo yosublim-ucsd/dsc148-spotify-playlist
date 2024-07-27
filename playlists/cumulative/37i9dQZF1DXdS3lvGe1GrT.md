@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: HAPPY LANDING
 
-1,319 songs - 3 day 6 hr 43 min
+1,320 songs - 3 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1281,6 +1281,7 @@
 | [Wherever You Aren't](https://open.spotify.com/track/1eruAYp8GViJ0iTGVbeqER) | [Elizabeth Moen](https://open.spotify.com/artist/3asn1tEPhRNjVd48GXOo1N) | [Wherever You Aren't](https://open.spotify.com/album/4OdjnV68EopFTxah0WbdRB) | 4:12 | 2022-10-26 | 2022-12-01 |
 | [Whiplash](https://open.spotify.com/track/1P46DYGK9HcpohUwwWP6Co) | [Jobi Riccio](https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO) | [Whiplash](https://open.spotify.com/album/59cVvw6WZjjSOjnu01SXYj) | 2:47 | 2023-05-17 | 2023-10-05 |
 | [Whistle Blow](https://open.spotify.com/track/4T988JwKYSWEf36AsR2X8D) | [Rachael Sage](https://open.spotify.com/artist/7EedWEoxpzbiPNkqkDp3Vw) | [Whistle Blow](https://open.spotify.com/album/2BujcVWy16D9qMLCWb10DP) | 3:19 | 2023-04-26 | 2023-06-15 |
+| [White Laced Gown](https://open.spotify.com/track/0Htgmc5Y83idiRButmvFdW) | [barrett](https://open.spotify.com/artist/5s8pSew0l0EfjJLK5a8sSY) | [White Laced Gown](https://open.spotify.com/album/2ZntBfcU7mvFuGYW1os7gp) | 5:30 | 2024-07-25 |  |
 | [Why Don't We](https://open.spotify.com/track/6Hwse3UUiShB05dbZP4h51) | [Paper Horses](https://open.spotify.com/artist/4gdDTJi3KRIhEKqiAIZuWW), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i), [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3) | [Paper Horses](https://open.spotify.com/album/0r7QWFxKM5XN9WBmGS99sN) | 4:03 | 2024-02-21 | 2024-04-24 |
 | [Wide Awake](https://open.spotify.com/track/6EkgE3oGO4bLjmt2CFa9QW) | [Ethan Nathaniel](https://open.spotify.com/artist/5tGobqZ8J0XMtFl3H589Sv) | [Wide Awake](https://open.spotify.com/album/4h46hPvedi6UQSSQKJ6zNu) | 3:40 | 2023-04-26 | 2023-06-15 |
 | [Wild Folk](https://open.spotify.com/track/0X8yZfi3VHiuCBqAyYT6et) | [Sleep Walking Animals](https://open.spotify.com/artist/6nwL3eOhGDjkslB5WovL60) | [Sleep Walking Animals](https://open.spotify.com/album/6AACvnHhihLYkOYyqN4UsP) | 5:24 | 2023-11-08 | 2023-12-11 |

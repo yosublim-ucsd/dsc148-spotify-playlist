@@ -4,7 +4,7 @@
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on?si=LfsVarsmSCK4pTkRPJbleQ">Linda Sikhakhane</a>
 
-226 songs - 1 day 0 hr 5 min
+227 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [I Remember Bra Hugh](https://open.spotify.com/track/4mDhlkiDgOLH4iTdQ1fp2g) | [McCoy Mrubata](https://open.spotify.com/artist/1s3Cp2bZrnzP9rOFeIJvw5) | [Quiet Please](https://open.spotify.com/album/5BEpzAIZOCN7RzUNWf8IOe) | 5:43 | 2022-04-28 | 2023-03-18 |
 | [I Remember Somagwaza](https://open.spotify.com/track/2ZHk1ywkE3GN9YkUKrWIRn) | [Ayanda Sikade](https://open.spotify.com/artist/6F9LoTvwNSxtAVFj5i6Hnh) | [Movements](https://open.spotify.com/album/1yJSxgs0E82Ece15FZ86OX) | 6:38 | 2022-04-28 | 2024-05-17 |
 | [I Wrote It for Ziare](https://open.spotify.com/track/47XPYFCTkUXz3lrNHNde24) | [Sibusile Xaba](https://open.spotify.com/artist/3UZ496XnQSGebDZ8jQqtIJ) | [Unlearning](https://open.spotify.com/album/2S0SW8gfr97G4bYlNeTvjR) | 11:20 | 2023-11-01 | 2023-11-17 |
+| [Idabi Labantu](https://open.spotify.com/track/6qi5vAQlXgBjWPJfvqFo5u) | [iPhupho L'ka Biko](https://open.spotify.com/artist/69TRZAKuYvfQEpDIkKYQaq) | [Idabi Labantu](https://open.spotify.com/album/16gWRJdfbaNMbTDIuUtp21) | 5:05 | 2024-07-25 |  |
 | [iGosa](https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [iLadi](https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL) | 6:54 | 2024-07-11 |  |
 | [Imithandazo Yeengelosi](https://open.spotify.com/track/3KFbmQRHOH3YufXvnJ4set) | [Ayanda Sikade](https://open.spotify.com/artist/6F9LoTvwNSxtAVFj5i6Hnh) | [Umakhulu](https://open.spotify.com/album/4OKxDZS6s45zQdFCeO2y7e) | 5:30 | 2022-04-28 | 2024-03-22 |
 | [In\-Between I'll Eat Dark Chocolate](https://open.spotify.com/track/3kpM17oVfkzhE9UjKCHzOn) | [Carlo Mombelli](https://open.spotify.com/artist/5SGxbLgESsfPMmbA2C1NDF), [Adrian Mears](https://open.spotify.com/artist/0ajBfmY4vclVtH9jZBULsd), [Daniel Pezzotti](https://open.spotify.com/artist/6hiqvlaEKu5AZV76IwaPFj), [Dejan Terzic](https://open.spotify.com/artist/3zyhW5AUV1XEJvmq4fV065) | [Stories](https://open.spotify.com/album/5gaSkf3zFJkE6wh7mAndWl) | 6:16 | 2023-11-01 | 2023-11-17 |
@@ -215,7 +216,7 @@
 | [uNongoma](https://open.spotify.com/track/2vcHzKopy1YAUDU074p503) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Paras](https://open.spotify.com/artist/4KXt4PyOQbec8NA3hURZ8c) | [Isambulo](https://open.spotify.com/album/0SPsHKZyf7VGSjeyquxccs) | 6:01 | 2022-06-23 | 2023-02-10 |
 | [uNongoma](https://open.spotify.com/track/58pRCGe1pQguRfIuZeFS7v) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Paras](https://open.spotify.com/artist/4KXt4PyOQbec8NA3hURZ8c) | [uNongoma](https://open.spotify.com/album/62qSpZQ42mPEVKX1cq2j9L) | 6:01 | 2022-06-23 | 2022-11-02 |
 | [uThixo uKhona](https://open.spotify.com/track/4z9U5r5eo5B1ZiNbqIz2Zh) | [iPhupho L'ka Biko](https://open.spotify.com/artist/69TRZAKuYvfQEpDIkKYQaq) | [Azania](https://open.spotify.com/album/1bnZlO6f8M5cawXgLGIj9v) | 4:13 | 2023-08-25 |  |
-| [Voice](https://open.spotify.com/track/4i0JGQjQ0A0rq6NtzDmEBl) | [Mthunzi Mvubu](https://open.spotify.com/artist/6oOo5M8BQsi01kxDE3sKT6) | [The 1st Gospel](https://open.spotify.com/album/2r8YjJrjJzslaSWemjQhdB) | 8:15 | 2023-08-25 |  |
+| [Voice](https://open.spotify.com/track/4i0JGQjQ0A0rq6NtzDmEBl) | [Mthunzi Mvubu](https://open.spotify.com/artist/6oOo5M8BQsi01kxDE3sKT6) | [The 1st Gospel](https://open.spotify.com/album/2r8YjJrjJzslaSWemjQhdB) | 8:15 | 2023-08-25 | 2024-07-27 |
 | [Voila](https://open.spotify.com/track/4twXDwwdDoN2S6EWu4XNZf) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Ashley Henry](https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw), [Daniel Casimir](https://open.spotify.com/artist/3J4HhohiA3sFTwyHTBqKs1) | [Universal Beings](https://open.spotify.com/album/3cFJZIeJK3Tdkkq4iuvsBS) | 5:00 | 2023-11-01 | 2023-11-17 |
 | [Wadada](https://open.spotify.com/track/021dKUW3T1zcnCzuTcQ2MF) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [Group Theory: Black Music](https://open.spotify.com/album/4bLUzO4dszMKwyzY4jXsXA) | 4:45 | 2022-07-07 | 2022-12-26 |
 | [Wadada](https://open.spotify.com/track/5GvAP2rW6vPSqAdNsUI4Oq) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [Group Theory: Black Music](https://open.spotify.com/album/27dEFff0ZxZ4EI6Fatqap1) | 4:45 | 2022-07-07 | 2024-05-17 |

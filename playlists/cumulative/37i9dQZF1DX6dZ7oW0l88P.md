@@ -4,7 +4,7 @@
 
 > Beautiful and serene harp music for relaxation, meditation and unwinding from the day.
 
-190 songs - 9 hr 38 min
+192 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Atardecer](https://open.spotify.com/track/0FWNmkCXKuB7hjIQFdrWiq) | [Cote Saldias](https://open.spotify.com/artist/4RRzVF5BxmGPnK6698MSJn) | [Atardecer](https://open.spotify.com/album/2oxPuCTe0vf7QkS9gZSoXN) | 1:17 | 2022-08-10 | 2023-10-05 |
 | [Atlas](https://open.spotify.com/track/4tFBDuOX4pZdkWdbkzoVyn) | [Valéry Guilloux](https://open.spotify.com/artist/75SvP483ULjCCmGKmGnBL7) | [Atlas](https://open.spotify.com/album/2UvM2y3BZu9c2T5BhS0FzD) | 3:26 | 2024-07-16 |  |
 | [Aurelia's Mermaid](https://open.spotify.com/track/7lSMV8D3zNIM42rxNce0EH) | [Laura Lotti](https://open.spotify.com/artist/2RIXIXkQwCbradmk0Scqjj) | [Aurelia's Mermaid](https://open.spotify.com/album/56DO2vkQEIDNhGudBJc4dr) | 1:53 | 2022-08-10 | 2023-10-05 |
+| [Austral Tides](https://open.spotify.com/track/18D6L0H2p25BgTQSjMAqrH) | [Mellowin](https://open.spotify.com/artist/74ep4BS0RBXT9glJ1DybnO) | [Austral Tides](https://open.spotify.com/album/08KQgkYLwfnGDg4ZYpE10p) | 2:13 | 2024-07-26 |  |
 | [avril 14th](https://open.spotify.com/track/5U9ZQtbfA3856AoIEQlH5Q) | [Remy Van Kesteren](https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE) | [avril 14th](https://open.spotify.com/album/66FQl6mNgy8j3iJhHLc064) | 2:07 | 2023-07-11 |  |
 | [Believe](https://open.spotify.com/track/4MeTO2Ein0s4dzDCYajIoU) | [Your Calm Place Meditation](https://open.spotify.com/artist/5EibjiOuPha8e0G8I3tE6l) | [Believe](https://open.spotify.com/album/7zDysBWM0dPTr1UnJM6ayY) | 2:38 | 2022-05-11 | 2024-07-17 |
 | [Beside the Still Waters](https://open.spotify.com/track/29drEBVsnX9aLZhSBvZSbn) | [Maria Duhova Trevor](https://open.spotify.com/artist/1moHmQ1eb3nFxuOXprU4Us) | [Healing Harp](https://open.spotify.com/album/6z8qAgApt7tid0srTfKJvF) | 2:06 | 2022-05-11 | 2024-07-17 |
@@ -48,6 +49,7 @@
 | [Dharmachakra / Wheel of Dharma](https://open.spotify.com/track/1C4OjtdybVfym3Zr5IZZAE) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Wheel of Dharma](https://open.spotify.com/album/0Serh6qslduvkUBcwpBSLT) | 3:30 | 2023-07-11 |  |
 | [Dimensions](https://open.spotify.com/track/73vGj4BNyEWG9g6OSXLelI) | [Valéry Guilloux](https://open.spotify.com/artist/75SvP483ULjCCmGKmGnBL7) | [Dimensions](https://open.spotify.com/album/4IfuoDG0kJ4AYcQ3o0hMMb) | 3:14 | 2023-10-09 |  |
 | [Down the River](https://open.spotify.com/track/6IcLI0Fo5egePIjWt05mUp) | [Morris Warwick](https://open.spotify.com/artist/6Wg9YE1YeFo3CIPJjBvisW) | [Down the River](https://open.spotify.com/album/1zU33D5pT0hbgkgRV7ThZj) | 1:08 | 2022-05-11 | 2023-10-05 |
+| [Dreamful Love Story](https://open.spotify.com/track/3pVtn2rtZwlSifaGWELKDn) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Serenity: A Collection Of Mindful Meditations](https://open.spotify.com/album/1nMQ5l2yzr6EjpsO24O4Aj) | 3:26 | 2024-07-26 |  |
 | [Echoes in the Chapel](https://open.spotify.com/track/0R4wW7bU9CsNeHqb4xCiFi) | [The Harp on the Hill](https://open.spotify.com/artist/2YJfV8rDuyZd1BNmWcPezU) | [For All Eternity](https://open.spotify.com/album/6KYaJUK5yIjiaKBgEF2eh0) | 2:36 | 2022-05-11 |  |
 | [Eufor De Santos](https://open.spotify.com/track/2XDc9YHG1oa698VTc0zKh3) | [Yvon Brosseau](https://open.spotify.com/artist/3HhJCAu0uQ95w9eHjxNBt8) | [Eufor De Santos](https://open.spotify.com/album/5KjpfwAkGA9GolYiaxe3Wn) | 3:10 | 2023-10-20 |  |
 | [Every Day a Miracle](https://open.spotify.com/track/2maARaLezrawwVepVgicoP) | [The Harp on the Hill](https://open.spotify.com/artist/2YJfV8rDuyZd1BNmWcPezU) | [In Praise of Creation](https://open.spotify.com/album/7i684VIx7XERrX8pXtamPS) | 2:33 | 2022-05-11 |  |
@@ -101,7 +103,7 @@
 | [Marsh of Rhudlands](https://open.spotify.com/track/3OTSlT6GJg2cDcxfs9bMQ2) | [Margie Butler](https://open.spotify.com/artist/78sAgFtzkqS9AsapvytY7z) | [Margie Butler: Carolan's Draught \- Celtic Harp](https://open.spotify.com/album/0Pk1Nevws7Ry5gZ6ghqYbt) | 3:11 | 2022-07-18 | 2024-04-19 |
 | [Marsh of Rhudlands](https://open.spotify.com/track/4VcJfNEKOuqWgj32L4yn4u) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Margie Butler](https://open.spotify.com/artist/78sAgFtzkqS9AsapvytY7z) | [Margie Butler: Carolan's Draught \- Celtic Harp](https://open.spotify.com/album/5juxWbAu431jd0NqDlklHh) | 3:11 | 2022-05-11 | 2024-07-17 |
 | [Mary, You Were Wrong](https://open.spotify.com/track/5u2Ff7OgkD1yp2oOyMxiHp) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Collected Pieces: 2015\-2020](https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP) | 4:58 | 2023-02-10 | 2024-04-19 |
-| [Mary, You Were Wrong](https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Mary, You Were Wrong](https://open.spotify.com/album/1QumBx2mlFuTfFu8zR2sM7) | 4:58 | 2022-05-11 |  |
+| [Mary, You Were Wrong](https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Mary, You Were Wrong](https://open.spotify.com/album/1QumBx2mlFuTfFu8zR2sM7) | 4:58 | 2022-05-11 | 2024-07-27 |
 | [Maryanne's Song](https://open.spotify.com/track/62EvyXd17LzHEBXPZurMHj) | [Lola Fiennes](https://open.spotify.com/artist/2AxgpeDAr8BILZvsEO445F) | [Maryanne's Song](https://open.spotify.com/album/4C5NJRe1QDXvyKQrP3hbKR) | 1:18 | 2022-05-11 | 2023-10-05 |
 | [Meditation Harp](https://open.spotify.com/track/2801TTsALcH1rpE9fRJJRb) | [Aden Cloud](https://open.spotify.com/artist/1X13YqlCwaDIj1uvC36gln) | [Meditation Harp](https://open.spotify.com/album/4SMGGC98ipuBNc2FpBthzT) | 3:03 | 2023-10-04 |  |
 | [Medley : Limerick Is Beautiful / Kilcash](https://open.spotify.com/track/3VbAEIOn8oV2BnBimhPbFo) | [Margie Butler](https://open.spotify.com/artist/78sAgFtzkqS9AsapvytY7z) | [Festival De Musiques Irlandaises Vol\. 3 \(Musiques Celtiques\)](https://open.spotify.com/album/6yyPVxSc8tvq8ZA9l01xZX) | 3:55 | 2022-08-10 | 2022-11-13 |
@@ -151,7 +153,7 @@
 | [Sahasrara](https://open.spotify.com/track/4J3thqtdcMUAjF2jCeaVfu) | [Antonio Jesús Asiáin Sanz](https://open.spotify.com/artist/2y3iKYGjPiNtNyONKlFseo) | [Música para Sumergirse Dentro \(Un Viaje Hacia la Calma y las Emociones\)](https://open.spotify.com/album/34ka7Jysmq09w8RrnmmyeP) | 3:48 | 2023-01-05 |  |
 | [Saman](https://open.spotify.com/track/0ZZR7yshyNORje3HH1yxUX) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Are You Still Somewhere?](https://open.spotify.com/album/36xU7Hq8G8QbsRrl59TyxD) | 2:26 | 2022-05-11 |  |
 | [Scale of Dreams](https://open.spotify.com/track/57q0DJRzvwzW7zjpqi5E0w) | [Jep Ellery](https://open.spotify.com/artist/3XcuCasoz9LagVgPQTWHOh) | [Scale of Dreams](https://open.spotify.com/album/4Fk46UnHpg1qSJMdY7MSZK) | 1:11 | 2022-05-11 | 2023-10-05 |
-| [Seaside Harp](https://open.spotify.com/track/7m6htVSjQvUmUmax8fnQ0q) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Elegant Harps](https://open.spotify.com/album/75dmBNnTf360cAXEvJDXUW) | 3:36 | 2022-05-11 |  |
+| [Seaside Harp](https://open.spotify.com/track/7m6htVSjQvUmUmax8fnQ0q) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Elegant Harps](https://open.spotify.com/album/75dmBNnTf360cAXEvJDXUW) | 3:36 | 2022-05-11 | 2024-07-27 |
 | [self.seed](https://open.spotify.com/track/5napRFHstqXkKCVCAXZbyr) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [!](https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U) | 4:31 | 2023-09-20 |  |
 | [Serenity Strings](https://open.spotify.com/track/3gdOMj7sSMlu4TaozPhnSP) | [Ellisar Dalana](https://open.spotify.com/artist/0VJq4X2fazAijd0hB6Nmab) | [Serenity Strings](https://open.spotify.com/album/4BLP1KExeX6TBPNClzDqOS) | 3:10 | 2024-07-16 |  |
 | [Sightings](https://open.spotify.com/track/5ySWIRF32lNet9eAGwjJna) | [Ala Paracha](https://open.spotify.com/artist/1v9HyVz3cXUbEpK9QONJ8D) | [Sightings](https://open.spotify.com/album/3Ye1KGMTXPw0TBMkUAHYD0) | 3:12 | 2023-10-04 |  |

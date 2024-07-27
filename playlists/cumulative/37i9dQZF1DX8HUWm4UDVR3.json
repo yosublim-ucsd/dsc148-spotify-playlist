@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Lisa Pariente",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : ANA\u00cfS MVA",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -24,6 +24,24 @@
       "duration_ms": 187928,
       "name": "100 X",
       "url": "https://open.spotify.com/track/3OsfDyci8C9BM6ieOwq90J"
+    },
+    {
+      "album": {
+        "name": "Rem\u00e8de",
+        "url": "https://open.spotify.com/album/72VmknY0m1lZLO4JWylzUI"
+      },
+      "artists": [
+        {
+          "name": "ANA\u00cfS MVA",
+          "url": "https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168109,
+      "name": "21",
+      "url": "https://open.spotify.com/track/63UVH4oV3GfD0yy3N1hxY8"
     },
     {
       "album": {
@@ -1866,7 +1884,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 157113,
       "name": "La vie est longue",
       "url": "https://open.spotify.com/track/2McsyeHX5S2SyUFfb73J5Z"

@@ -2333,6 +2333,24 @@
     },
     {
       "album": {
+        "name": "Love Changes Everything",
+        "url": "https://open.spotify.com/album/1OOZe5LRh7NnklIH9QvpW7"
+      },
+      "artists": [
+        {
+          "name": "Climie Fisher",
+          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462546,
+      "name": "Love Changes (Everything) - Love Mix",
+      "url": "https://open.spotify.com/track/6Py8P2Yx6mKpz33QuCe25y"
+    },
+    {
+      "album": {
         "name": "Dancing On The Ceiling (Expanded Edition)",
         "url": "https://open.spotify.com/album/1b81mEDt3DmqDdQrZg3i8F"
       },
@@ -2614,7 +2632,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 423573,
       "name": "Nightshift - Club Mix",
       "url": "https://open.spotify.com/track/5stHnMIM1zwRS24mH6dAzS"

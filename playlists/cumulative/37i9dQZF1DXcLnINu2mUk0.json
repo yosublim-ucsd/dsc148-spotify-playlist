@@ -627,6 +627,24 @@
     },
     {
       "album": {
+        "name": "Alma do Neg\u00f3cio",
+        "url": "https://open.spotify.com/album/4svZmg7skhs6TKJb18e0Tv"
+      },
+      "artists": [
+        {
+          "name": "PARD\u00d8",
+          "url": "https://open.spotify.com/artist/3JaVBT46sUI7pynSmm398D"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160982,
+      "name": "Alma do Neg\u00f3cio",
+      "url": "https://open.spotify.com/track/6f8jLGeRkS0nyWifN1Y58E"
+    },
+    {
+      "album": {
         "name": "Alter Ego",
         "url": "https://open.spotify.com/album/3ljjAqXl7v44JEnRpYjhMY"
       },
@@ -3859,6 +3877,24 @@
     },
     {
       "album": {
+        "name": "Essa \u00e9 minha mi\u00fada (b\u00f3nus track)",
+        "url": "https://open.spotify.com/album/5OUhv3O548x7mccEsh2vxB"
+      },
+      "artists": [
+        {
+          "name": "BUH BUH",
+          "url": "https://open.spotify.com/artist/2heTC0O1xw4oamnO7APYBU"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211234,
+      "name": "Essa \u00e9 minha mi\u00fada (b\u00f3nus track)",
+      "url": "https://open.spotify.com/track/5hZf073xDCsXZgK0wof264"
+    },
+    {
+      "album": {
         "name": "Esse Corpo",
         "url": "https://open.spotify.com/album/6WqINuc1s3vvs0glX9NIWf"
       },
@@ -6952,7 +6988,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 220217,
       "name": "Mo Ki Nu Ta Fazi",
       "url": "https://open.spotify.com/track/678MOfN1hxfPoOGodwKU10"
@@ -8360,7 +8396,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 264496,
       "name": "Orgulho",
       "url": "https://open.spotify.com/track/76dnUs1YTIIGCUBiTWIbY4"

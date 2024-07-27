@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Wandra Restusiyan",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Ndarboy Genk",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -360,7 +360,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 396500,
       "name": "Anak Lanang - Live",
       "url": "https://open.spotify.com/track/3WV04K6iHFtoDy5NJ3eYQ9"
@@ -534,7 +534,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 341760,
       "name": "Babar Pisan",
       "url": "https://open.spotify.com/track/232sGRW8ROnck5DulLccKc"
@@ -744,7 +744,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 268000,
       "name": "Buruh Cod",
       "url": "https://open.spotify.com/track/5nNtFgYU63ARLesoZpvqu2"
@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 416067,
       "name": "Dumes",
       "url": "https://open.spotify.com/track/3PnpXLuRInYOAShYXNiLz1"
@@ -1580,7 +1580,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 199205,
       "name": "Gedhe Roso",
       "url": "https://open.spotify.com/track/6EHeh6p6C0EllB4e7W8RZB"
@@ -1796,7 +1796,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 334156,
       "name": "Jamu - Janji Muanis",
       "url": "https://open.spotify.com/track/2GOjF1yNoN2Ifn0PTaB9Eh"
@@ -1890,7 +1890,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 312000,
       "name": "Kabeh Nggo Koe",
       "url": "https://open.spotify.com/track/209P8tFH0UxWDP3MZ3Sbfg"
@@ -1952,7 +1952,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 406994,
       "name": "Kalah",
       "url": "https://open.spotify.com/track/0kzmveXWWN9DaMTZr3NkgT"
@@ -2418,7 +2418,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 238958,
       "name": "Kisinan 2",
       "url": "https://open.spotify.com/track/57BslO2TbDeAzW67F250Q5"
@@ -3464,7 +3464,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 291692,
       "name": "Modal Percoyo",
       "url": "https://open.spotify.com/track/4Sv8Mrq1C59S0YEVmBm9cW"
@@ -3544,6 +3544,28 @@
       "duration_ms": 251520,
       "name": "Mundur Alon Alon",
       "url": "https://open.spotify.com/track/79mIVkf9j6wtG23QNkKfxZ"
+    },
+    {
+      "album": {
+        "name": "Nduwur Gunung",
+        "url": "https://open.spotify.com/album/4dTAA2KbTFgW58qQWcCAdL"
+      },
+      "artists": [
+        {
+          "name": "Sela Good",
+          "url": "https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu"
+        },
+        {
+          "name": "Hendra Kumbara",
+          "url": "https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237750,
+      "name": "Nduwur Gunung",
+      "url": "https://open.spotify.com/track/1pMfi6d2dIjtDTJ8bDw30u"
     },
     {
       "album": {
@@ -3966,7 +3988,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 252867,
       "name": "Ninggal Loro",
       "url": "https://open.spotify.com/track/6oLNZlzyBqN2WCTfwYnXww"
@@ -4049,6 +4071,28 @@
     },
     {
       "album": {
+        "name": "Not You No In",
+        "url": "https://open.spotify.com/album/0ttLzRa1gRqg3ROQD19Iwn"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        },
+        {
+          "name": "Kristin D",
+          "url": "https://open.spotify.com/artist/2DwMeXS8DhOF0fPRRsSZJJ"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315693,
+      "name": "Not You No In",
+      "url": "https://open.spotify.com/track/5BYHafet3rl0DMDvUanpwy"
+    },
+    {
+      "album": {
         "name": "Nutupi Laraku",
         "url": "https://open.spotify.com/album/1QxCes90f7uLhU6swcCyHw"
       },
@@ -4064,6 +4108,24 @@
       "duration_ms": 338775,
       "name": "Nutupi Laraku",
       "url": "https://open.spotify.com/track/5LN58cdv408OOXh52VY99L"
+    },
+    {
+      "album": {
+        "name": "Nyambangi Ati",
+        "url": "https://open.spotify.com/album/4wb6v1FcNPyhkGtqhbozJG"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263522,
+      "name": "Nyambangi Ati",
+      "url": "https://open.spotify.com/track/54cxAfQd97YILqZmqGbUW0"
     },
     {
       "album": {
@@ -4808,7 +4870,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 180322,
       "name": "Putri Shanghai",
       "url": "https://open.spotify.com/track/3WXVIA4xWlWVHgKQ7BzA1n"
@@ -4884,7 +4946,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 394615,
       "name": "Ra Masuk",
       "url": "https://open.spotify.com/track/4IOZoVwAZq9v49R0UZDwFG"
@@ -5208,7 +5270,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 273204,
       "name": "Rucah",
       "url": "https://open.spotify.com/track/2unTuqdiSehhL4G7Q5U01m"
@@ -5564,7 +5626,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 304311,
       "name": "Sanes",
       "url": "https://open.spotify.com/track/2gpXOgtrS8IZ7zyQpNS0Fw"
@@ -6244,7 +6306,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 320000,
       "name": "Teteg Ati",
       "url": "https://open.spotify.com/track/6Lbnz01qeIkQbteAHemwmQ"
@@ -6498,7 +6560,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 249340,
       "name": "Tulus",
       "url": "https://open.spotify.com/track/1lx5m5RLpjljTVQ5XjpFOP"
@@ -6762,7 +6824,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 317538,
       "name": "Wirang",
       "url": "https://open.spotify.com/track/1x7jcOKzJIEpN32MeXehf2"

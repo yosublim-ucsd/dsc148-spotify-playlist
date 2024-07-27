@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Avery Anna",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Jordan Davis",
   "name": "New Boots",
   "tracks": [
     {
@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 235002,
       "name": "Am I Okay?",
       "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
@@ -3570,7 +3570,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 251701,
       "name": "Big Blue Sky",
       "url": "https://open.spotify.com/track/3vQUQWdhChkh4LTxfqHs0O"
@@ -4816,7 +4816,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 186413,
       "name": "Bury Me In This Bar",
       "url": "https://open.spotify.com/track/5yOZMG6WpXxrsiJldKI5EJ"
@@ -7486,6 +7486,24 @@
       "duration_ms": 211229,
       "name": "Detours",
       "url": "https://open.spotify.com/track/1xt5FBy475sGBgWEfMtUCL"
+    },
+    {
+      "album": {
+        "name": "Devil on My Shoulder",
+        "url": "https://open.spotify.com/album/0sqeYcd08RXPzsrBF7lAoL"
+      },
+      "artists": [
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "Devil on My Shoulder",
+      "url": "https://open.spotify.com/track/6qAhXsSJKV7RF4nTmphTD3"
     },
     {
       "album": {
@@ -11941,6 +11959,24 @@
     },
     {
       "album": {
+        "name": "Glass",
+        "url": "https://open.spotify.com/album/4zGtsl4HR5X0iXIT4VyHkU"
+      },
+      "artists": [
+        {
+          "name": "LECADE",
+          "url": "https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Glass",
+      "url": "https://open.spotify.com/track/1KKSY3c6iCW7pLplq9pzd6"
+    },
+    {
+      "album": {
         "name": "Glory Days",
         "url": "https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8"
       },
@@ -16139,6 +16175,24 @@
     },
     {
       "album": {
+        "name": "I Ain't Sayin'",
+        "url": "https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174060,
+      "name": "I Ain't Sayin'",
+      "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
+    },
+    {
+      "album": {
         "name": "shot in the dark",
         "url": "https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ"
       },
@@ -16836,7 +16890,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 236500,
       "name": "I Let Him Love Me",
       "url": "https://open.spotify.com/track/3r7y3Zmvf3hjHCtXbntAaQ"
@@ -18170,6 +18224,24 @@
       "duration_ms": 182411,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/6CEpat1VI4pDz57r9CxVm5"
+    },
+    {
+      "album": {
+        "name": "Irish Goodbye",
+        "url": "https://open.spotify.com/album/0YdG7xCYQSk8nvVQi0MgQG"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139413,
+      "name": "Irish Goodbye",
+      "url": "https://open.spotify.com/track/7ERPDzFA20PGO1KEyXAM0K"
     },
     {
       "album": {
@@ -20128,6 +20200,28 @@
       "duration_ms": 175066,
       "name": "Lonely If You Are",
       "url": "https://open.spotify.com/track/1Ut1A8UaNqGuwsHgWq75PW"
+    },
+    {
+      "album": {
+        "name": "Lonely Road (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189356,
+      "name": "Lonely Road (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN"
     },
     {
       "album": {
@@ -24129,6 +24223,24 @@
     },
     {
       "album": {
+        "name": "Made by These Moments",
+        "url": "https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257372,
+      "name": "No One Else Like Me",
+      "url": "https://open.spotify.com/track/5XlMj49P3jjmXpAdVGOLyW"
+    },
+    {
+      "album": {
         "name": "NO SAD SONGS",
         "url": "https://open.spotify.com/album/0A0XLrwzkiXewwPPdEoWOA"
       },
@@ -26711,6 +26823,24 @@
     },
     {
       "album": {
+        "name": "Put A Boot In It",
+        "url": "https://open.spotify.com/album/1z8e3IzwyyoaUOxSWYgKJ1"
+      },
+      "artists": [
+        {
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180895,
+      "name": "Put A Boot In It",
+      "url": "https://open.spotify.com/track/4NCXv4cKqU9EHurkces6K7"
+    },
+    {
+      "album": {
         "name": "Put The Hurt On Me",
         "url": "https://open.spotify.com/album/5QppZleSNQaXfVQiV5s7GF"
       },
@@ -26972,6 +27102,24 @@
       "duration_ms": 197958,
       "name": "Range Rover",
       "url": "https://open.spotify.com/track/4kDaK2kdMMWnDdtDGuRoDf"
+    },
+    {
+      "album": {
+        "name": "Rather Be",
+        "url": "https://open.spotify.com/album/0lxxno3J2bozJPkMYLD2X4"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171142,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/0gLFZFnaOy3Fa2uBApznuW"
     },
     {
       "album": {
@@ -27842,7 +27990,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 195680,
       "name": "Roulette On The Heart",
       "url": "https://open.spotify.com/track/5g4ARvINyjjLoiDX4roM8m"
@@ -28498,7 +28646,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 265855,
       "name": "Scarlet Lonesome",
       "url": "https://open.spotify.com/track/2zpR12lIOq4q73XanVX1LG"
@@ -29810,6 +29958,28 @@
       "duration_ms": 210400,
       "name": "Sober as a Drunk",
       "url": "https://open.spotify.com/track/6H7Ox5mbHT1GnH60uF2hrM"
+    },
+    {
+      "album": {
+        "name": "Sober Sundays",
+        "url": "https://open.spotify.com/album/1UYX5uec1lJJMf01haehiZ"
+      },
+      "artists": [
+        {
+          "name": "The Castellows",
+          "url": "https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG"
+        },
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250768,
+      "name": "Sober Sundays",
+      "url": "https://open.spotify.com/track/0RINbw97uN5KZ1BFprCNDj"
     },
     {
       "album": {
@@ -31794,7 +31964,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 192420,
       "name": "Streetlight",
       "url": "https://open.spotify.com/track/2m3MghNJc7uwB9sBBtTcW9"
@@ -35764,7 +35934,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 217307,
       "name": "Wanna Be Loved",
       "url": "https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb"
@@ -36380,7 +36550,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 142974,
       "name": "Wedding or a Funeral",
       "url": "https://open.spotify.com/track/55GjJoCI3Qud9FpoyZBZls"

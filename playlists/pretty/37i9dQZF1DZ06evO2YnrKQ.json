@@ -1,12 +1,12 @@
 {
   "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
-  "num_followers": 21784,
+  "num_followers": 21812,
   "original_name": "This Is Alexisonfire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zp7ygAAAAAArGzttc/7DuV4u+ri+hAoR",
+  "snapshot_id": "ZqLnAAAAAABfQbC+1UKvcoJwX7uHJpag",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "(LIVE) - Born & Raised 2022, St Catharines ON",
-        "url": "https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 259763,
-      "name": "Accidents - Live",
-      "url": "https://open.spotify.com/track/0QwTG5slf3LCYi6xTUlHCT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crisis",
         "url": "https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl"
       },
@@ -59,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\"Watch out!\"",
+        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 249066,
+      "name": "Accidents",
+      "url": "https://open.spotify.com/track/1FuZJZqUWbwpqwbT8eESfR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Otherness",
         "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
       },
@@ -71,22 +71,6 @@
       "duration_ms": 304986,
       "name": "Sans Soleil",
       "url": "https://open.spotify.com/track/2HxHylSuO7W9hLL2t1Dk3s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"Watch out!\"",
-        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "No Transitory",
-      "url": "https://open.spotify.com/track/3DVxs4Zojt5UzySQ5icF2U"
     },
     {
       "added_at": null,
@@ -123,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\"Watch out!\"",
+        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "No Transitory",
+      "url": "https://open.spotify.com/track/3DVxs4Zojt5UzySQ5icF2U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alexisonfire",
         "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
       },
@@ -135,22 +135,6 @@
       "duration_ms": 271255,
       "name": ".44 Caliber Love Letter",
       "url": "https://open.spotify.com/track/1ir5oMNuxrNeCwUJFaEyum"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"Watch out!\"",
-        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 223853,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/1nJIYo1g5V4aOnglr7qhnj"
     },
     {
       "added_at": null,
@@ -187,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\"Watch out!\"",
+        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 223853,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/1nJIYo1g5V4aOnglr7qhnj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alexisonfire",
         "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
       },
@@ -199,22 +199,6 @@
       "duration_ms": 158355,
       "name": "Waterwings (And Other Poolside Fashion Faux Pas)",
       "url": "https://open.spotify.com/track/4Hcv9D5PkjFUvJqDme4CeB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"Watch out!\"",
-        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 262093,
-      "name": "Side Walk When She Walks",
-      "url": "https://open.spotify.com/track/0ZQtCXF4oA6vz4W7A9iDT0"
     },
     {
       "added_at": null,
@@ -251,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\"Watch out!\"",
+        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 262093,
+      "name": "Side Walk When She Walks",
+      "url": "https://open.spotify.com/track/0ZQtCXF4oA6vz4W7A9iDT0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alexisonfire",
         "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
       },
@@ -263,22 +263,6 @@
       "duration_ms": 202453,
       "name": "Pulmonary Archery",
       "url": "https://open.spotify.com/track/3OqHyWQTYL7qqni8eqbghB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"Watch out!\"",
-        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 311973,
-      "name": "Happiness by the Kilowatt",
-      "url": "https://open.spotify.com/track/1WkBlSjsAy200erfndrRU5"
     },
     {
       "added_at": null,
@@ -315,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\"Watch out!\"",
+        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 311973,
+      "name": "Happiness by the Kilowatt",
+      "url": "https://open.spotify.com/track/1WkBlSjsAy200erfndrRU5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Old Crows / Young Cardinals",
         "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
       },
@@ -327,22 +327,6 @@
       "duration_ms": 268000,
       "name": "The Northern",
       "url": "https://open.spotify.com/track/2VPv0LJafL4Gdp67ZWPBDV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"Watch out!\"",
-        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 185280,
-      "name": "Get Fighted",
-      "url": "https://open.spotify.com/track/0PzEqBOcfOMU9FZRjeNiz0"
     },
     {
       "added_at": null,
@@ -379,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\"Watch out!\"",
+        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 185280,
+      "name": "Get Fighted",
+      "url": "https://open.spotify.com/track/0PzEqBOcfOMU9FZRjeNiz0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alexisonfire",
         "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
       },
@@ -391,22 +391,6 @@
       "duration_ms": 139417,
       "name": "Counterparts and Number Them",
       "url": "https://open.spotify.com/track/1Hez08ojkopWzM5dTroCJT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"Watch out!\"",
-        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 234480,
-      "name": "It Was Fear of Myself That Made Me Odd",
-      "url": "https://open.spotify.com/track/2UXB3a87WOVeQWmRsVwTQ0"
     },
     {
       "added_at": null,
@@ -443,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Old Crows / Young Cardinals",
+        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 195826,
+      "name": "Emerald Street",
+      "url": "https://open.spotify.com/track/5l85aKbiWzcvUTMwBqC5AJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alexisonfire",
         "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
       },
@@ -455,22 +455,6 @@
       "duration_ms": 292558,
       "name": "Little Girls Pointing and Laughing",
       "url": "https://open.spotify.com/track/5b0ZFCqgkYc3XdA4cbjT2S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Old Crows / Young Cardinals",
-        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 251120,
-      "name": "Midnight Regulations",
-      "url": "https://open.spotify.com/track/5ku47u1TTWQiq2YwPckmdx"
     },
     {
       "added_at": null,
@@ -507,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Old Crows / Young Cardinals",
+        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 251120,
+      "name": "Midnight Regulations",
+      "url": "https://open.spotify.com/track/5ku47u1TTWQiq2YwPckmdx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alexisonfire",
         "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
       },
@@ -519,22 +519,6 @@
       "duration_ms": 314876,
       "name": "Adelleda",
       "url": "https://open.spotify.com/track/2USjkYb3JFNr9HDZcMUQ8H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Old Crows / Young Cardinals",
-        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 195826,
-      "name": "Emerald Street",
-      "url": "https://open.spotify.com/track/5l85aKbiWzcvUTMwBqC5AJ"
     },
     {
       "added_at": null,
@@ -571,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Complicit",
-        "url": "https://open.spotify.com/album/0FLQLADNmE3rJUKZk9vIqn"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 238418,
-      "name": "Complicit",
-      "url": "https://open.spotify.com/track/2dJaFIQVtnoHmwkwuq8tUw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Crows / Young Cardinals",
         "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
       },
@@ -599,6 +567,22 @@
       "duration_ms": 257106,
       "name": "Old Crows",
       "url": "https://open.spotify.com/track/0cevQODp2daA7IySqHWwhd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Complicit",
+        "url": "https://open.spotify.com/album/0FLQLADNmE3rJUKZk9vIqn"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 238418,
+      "name": "Complicit",
+      "url": "https://open.spotify.com/track/2dJaFIQVtnoHmwkwuq8tUw"
     },
     {
       "added_at": null,

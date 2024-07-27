@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. <br/>Cover: Salarymen Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,472 likes - 101 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,499 likes - 101 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 23 | [Out Of Sight](https://open.spotify.com/track/1NnfhGqFxTcjkyGcfBmbmJ) | [LEF.](https://open.spotify.com/artist/67LSzTtpsWFKuHP656FsCV) | [Out Of Sight](https://open.spotify.com/album/2Kw0LL8JaI4ZsF6l0hcCCu) | 3:00 |
 | 24 | [my saviour](https://open.spotify.com/track/1rbOhXp98iYNGIa492eerQ) | [Annika Rani](https://open.spotify.com/artist/6UWuCJvOXmFa6bFrkPkodU) | [my saviour](https://open.spotify.com/album/4TAzY2rUtahw2EQjXQ02QV) | 4:15 |
 | 25 | [Upstate](https://open.spotify.com/track/0lzye48EHe0QkQZVuvUj4h) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Upstate](https://open.spotify.com/album/6gE7A0mxPqM0MngCuX22wO) | 3:21 |
-| 26 | [More To Love \- Edit](https://open.spotify.com/track/7LI4VpIcOZIu9oJQi4DPdt) | [Salmon Brothers](https://open.spotify.com/artist/6zeqwDJhQASIUrDhmBWVN0) | [More To Love \(Edit\)](https://open.spotify.com/album/4TEWv4E5rtvIlwkE3b5xmx) | 5:14 |
+| 26 | [More To Love \- Edit](https://open.spotify.com/track/7LI4VpIcOZIu9oJQi4DPdt) | [Salmon Brothers](https://open.spotify.com/artist/6zeqwDJhQASIUrDhmBWVN0) | [More To Love](https://open.spotify.com/album/4TEWv4E5rtvIlwkE3b5xmx) | 5:14 |
 | 27 | [Small Change](https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Small Change](https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp) | 2:45 |
 | 28 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 |
 | 29 | [Open up My Mind](https://open.spotify.com/track/0urfoUZ2UnlH0YV1aPZTDa) | [Tyde Levi](https://open.spotify.com/artist/4JMLeb984vOKewdcPcRgz4) | [Open up My Mind](https://open.spotify.com/album/67q73EdnQrTaUkPyIH6QAJ) | 3:29 |

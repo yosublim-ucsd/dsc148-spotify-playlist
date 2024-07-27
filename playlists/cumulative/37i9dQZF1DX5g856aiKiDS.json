@@ -1469,7 +1469,7 @@
     },
     {
       "album": {
-        "name": "Fire up",
+        "name": "Fire Up",
         "url": "https://open.spotify.com/album/6LsnwhszwrWSHWQh9f4kv6"
       },
       "artists": [
@@ -1482,7 +1482,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 219060,
-      "name": "Fire up",
+      "name": "Fire Up",
       "url": "https://open.spotify.com/track/66aRjw9DruRf9J40t1Wm9i"
     },
     {
@@ -1688,7 +1688,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 209400,
       "name": "Fxxxnds (Feat. Kim Min Seok of MeloMance)",
       "url": "https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4"
@@ -5466,7 +5466,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 201000,
       "name": "Under Caffeine",
       "url": "https://open.spotify.com/track/4DunhC1RuUbqC3MXrMozIg"

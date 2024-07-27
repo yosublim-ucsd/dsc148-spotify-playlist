@@ -4,7 +4,7 @@
 
 > Have some chill house with your coffee
 
-181 songs - 13 hr 8 min
+182 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Alive](https://open.spotify.com/track/66IW3XfLvm6zvMtVLM6pTS) | [Duff Disco](https://open.spotify.com/artist/0sIvRJmAT0KuoU5R6ffeN4) | [I Need Ya EP](https://open.spotify.com/album/54XKFvPS5IImE566X12hpA) | 7:32 | 2024-06-03 |  |
 | [All Night](https://open.spotify.com/track/0T0xi59ZujZejjm1jMJW71) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Imagine](https://open.spotify.com/album/0YL77r9ATuZ4wj5dVFSGsl) | 4:20 | 2022-09-15 | 2022-11-08 |
 | [Always](https://open.spotify.com/track/2PXDK2k7QSjGLfzBjuZ1hw) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7), [Duren](https://open.spotify.com/artist/6rNkP5FvNekmphnA8NCYE5) | [Always](https://open.spotify.com/album/08SC4H56dAvQNwqhbOo18k) | 3:11 | 2022-09-15 | 2024-04-19 |
-| [Always](https://open.spotify.com/track/7xOuEBWsubmh7Soj9rnJ0d) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7), [Duren](https://open.spotify.com/artist/6rNkP5FvNekmphnA8NCYE5) | [Always](https://open.spotify.com/album/1rySIEg7XfrICPpbFTMLRg) | 3:11 | 2024-04-25 |  |
+| [Always](https://open.spotify.com/track/7xOuEBWsubmh7Soj9rnJ0d) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7), [Duren](https://open.spotify.com/artist/6rNkP5FvNekmphnA8NCYE5) | [Always](https://open.spotify.com/album/1rySIEg7XfrICPpbFTMLRg) | 3:11 | 2024-04-25 | 2024-07-27 |
 | [Anima](https://open.spotify.com/track/5unR3ptVUULyGcG9LKC9Lg) | [Trippin Jaguar](https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0) | [Anima](https://open.spotify.com/album/0XJNZA4EavYZ26GZl69o66) | 6:30 | 2024-06-03 |  |
 | [Another Place](https://open.spotify.com/track/1eLHMmz57mVUI3ntLjO0yW) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q) | [Another Place](https://open.spotify.com/album/6YvKLZvsYRrByFzav0tlii) | 2:27 | 2023-08-31 |  |
 | [April](https://open.spotify.com/track/6KmIwU5i6sCvyeNgP8QB4o) | [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Vín](https://open.spotify.com/album/2N4UzYs2Qk7xRyc67kaehi) | 5:09 | 2022-09-15 | 2024-04-26 |
@@ -43,6 +43,7 @@
 | [Cherry Skies](https://open.spotify.com/track/2taL7WpjrPMzwn65gVfxqP) | [Mike D' Jais](https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq) | [Cherry Skies](https://open.spotify.com/album/5yytMHzOYkzesn2dON2tCe) | 3:30 | 2023-07-13 |  |
 | [Coffee \- Edit](https://open.spotify.com/track/2LPeOMRJpuKLOLlUcHBDzB) | [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe) | [Coffee \(Edit\)](https://open.spotify.com/album/4pNeMokkPtuc5PMsr5oPzB) | 3:55 | 2024-02-29 |  |
 | [Coffee and Feels](https://open.spotify.com/track/2Z2qsGVCBCAPGvXqe3JxeG) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Reunion](https://open.spotify.com/album/2M9pkurc1jUmSXH95OGixK) | 4:07 | 2022-09-15 | 2024-04-19 |
+| [Coffee and Feels](https://open.spotify.com/track/4B6nwPu67gcOfwpD6t2mDg) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Coffee and Feels](https://open.spotify.com/album/44ZzvdUooVR79PcBGwIWgk) | 4:07 | 2024-06-03 |  |
 | [Company](https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Arturia](https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2) | 5:31 | 2022-09-15 |  |
 | [Company](https://open.spotify.com/track/7dJwMUluT7ZmMF0bEEDzbR) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Arturia](https://open.spotify.com/album/1UUSyhcmb2F9ifsCuUZVuT) | 5:31 | 2024-02-01 | 2024-04-19 |
 | [Deneb Cygni \- Original Mix](https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX) | [Takuya Yamashita](https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v) | [Deneb Cygni](https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP) | 7:33 | 2022-09-15 |  |

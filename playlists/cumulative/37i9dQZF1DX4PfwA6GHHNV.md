@@ -4,7 +4,7 @@
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-143 songs - 7 hr 6 min
+144 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,11 +109,12 @@
 | [Proveito](https://open.spotify.com/track/2Q7d9bsJArH3ecLOBd6Axs) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Proveito](https://open.spotify.com/album/3AZhDI5vJnZtHvI3Z1cC0S) | 3:36 | 2024-04-19 |  |
 | [Proveito](https://open.spotify.com/track/5N3znAB19oFAkGNrcBTPeD) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Proveito](https://open.spotify.com/album/6oFCxp73Skel2DgCzPQAH6) | 3:36 | 2023-09-15 | 2024-04-19 |
 | [PURA SACANAGEM](https://open.spotify.com/track/4GgEdKm5pcYGj1GF4xwIVQ) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Victor WAO](https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q) | [PURA SACANAGEM / FILHO DO VENTO](https://open.spotify.com/album/6en2yYqcQbCc47v5cmiOYs) | 4:00 | 2023-12-15 | 2024-02-24 |
-| [Quando cê vem](https://open.spotify.com/track/5yUVU8gXMjqNf7LMqvfoto) | [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Quando cê vem](https://open.spotify.com/album/3ujLo8nafDUnNuoAvROAuX) | 3:36 | 2023-10-20 |  |
+| [Quando cê vem](https://open.spotify.com/track/5yUVU8gXMjqNf7LMqvfoto) | [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Quando cê vem](https://open.spotify.com/album/3ujLo8nafDUnNuoAvROAuX) | 3:36 | 2023-10-20 | 2024-07-27 |
 | [Quando Cê Volta?](https://open.spotify.com/track/0GUdb0yoQbiTA2aAMHQo4z) | [Rare G](https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH), [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY) | [Quando Cê Volta?](https://open.spotify.com/album/18AkwFaynQyWDnHXRy9IWu) | 2:05 | 2023-12-01 | 2024-01-13 |
 | [Quando Você Me Olha](https://open.spotify.com/track/6Z852WH6is9vPVdllAox6K) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj) | 3:33 | 2023-09-15 | 2023-11-04 |
 | [Quantas Histórias](https://open.spotify.com/track/2eycfzTUO7u0ZmZQWEvNB9) | [JOTTA R](https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Lima](https://open.spotify.com/artist/2FXb8tASMYr7GN6Xelcwkv) | [Quantas Histórias](https://open.spotify.com/album/4mIY62yYxx9DP6zkJMv28E) | 2:32 | 2024-04-12 | 2024-06-01 |
 | [Que Calô](https://open.spotify.com/track/1WJgJsOJ5wXlZl1yn5yJaz) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [Que Calô](https://open.spotify.com/album/3b9DQpepHWNXyl21Zk3jUD) | 3:00 | 2023-12-01 | 2024-03-02 |
+| [Rabetão](https://open.spotify.com/track/6PynytExoTNHQzb2ur5Tsu) | [Young Piva](https://open.spotify.com/artist/6kNuO9sY94kxMuRAwsCzOH) | [Rabetão](https://open.spotify.com/album/0x6CoCz2OuPlsChtFBo6px) | 2:30 | 2024-07-26 |  |
 | [Replay](https://open.spotify.com/track/0p91gGZkNb2i0n2QLtf5rB) | [Kota Manda](https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [Erick Lobato](https://open.spotify.com/artist/66k6ocJM9K8SKMDSQqlo64), [Vittau](https://open.spotify.com/artist/4fz3smvxYWXvGdLyFDOHv8), [TOCS](https://open.spotify.com/artist/5b7vII1orAZUTN9qR9NCtx) | [Replay](https://open.spotify.com/album/11of4rayZUkQv4wEy17NAt) | 3:37 | 2023-11-10 |  |
 | [Ressaca](https://open.spotify.com/track/6G5jevhPxuWf3bWiWosEzQ) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO) | [Ressaca](https://open.spotify.com/album/7n6OgUHqVmMddUERyTONlG) | 3:58 | 2023-09-15 | 2023-12-09 |
 | [Rodeo](https://open.spotify.com/track/2vxlmjVmQJzYqo5zOcbDP5) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Rodeo](https://open.spotify.com/album/78x0Oo9pN4Ft9PyFPYbIS8) | 2:57 | 2023-11-10 | 2023-11-25 |

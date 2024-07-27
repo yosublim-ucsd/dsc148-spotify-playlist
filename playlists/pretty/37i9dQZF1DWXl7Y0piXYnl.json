@@ -1,15 +1,15 @@
 {
   "description": "<a href=\"spotify:artist:2jYMYP2SVifgmzNRQJx3SJ\">Modeselektor</a>'s favorite tracks. Updated regularly. Curated by Modeselektor. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>. ",
-  "num_followers": 16852,
+  "num_followers": 16863,
   "original_name": "Modeselektor's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmbMuwAAAABWk0b1+hDB+WeXaWgyLQIn",
+  "snapshot_id": "ZqOV1AAAAAAXFUOeKg07re+jKChPSrmy",
   "tracks": [
     {
-      "added_at": "2024-06-10 09:51:55",
+      "added_at": "2024-07-26 12:25:56",
       "album": {
         "name": "Swing King",
         "url": "https://open.spotify.com/album/1GXILMnLp8orFCcrPFu0eo"
@@ -29,7 +29,23 @@
       "url": "https://open.spotify.com/track/0xHtnko6St2bKkMGgrtTO1"
     },
     {
-      "added_at": "2024-06-10 09:51:55",
+      "added_at": "2024-07-26 12:25:56",
+      "album": {
+        "name": "Isthmus",
+        "url": "https://open.spotify.com/album/1xfDWJsi1OPdJ0qn2yfiwA"
+      },
+      "artists": [
+        {
+          "name": "Throwing Snow",
+          "url": "https://open.spotify.com/artist/0Qur5LqqAVVunjY2PnjhUp"
+        }
+      ],
+      "duration_ms": 185684,
+      "name": "An Arrow to Follow",
+      "url": "https://open.spotify.com/track/7eoZIvBipMBk55ppwSdnlF"
+    },
+    {
+      "added_at": "2024-07-26 12:25:56",
       "album": {
         "name": "FJAAK THE SYSTEM",
         "url": "https://open.spotify.com/album/1JRTMBLz83A0EW0idhDHsG"
@@ -49,23 +65,7 @@
       "url": "https://open.spotify.com/track/5WlHMxXNaHswK5AzolmqAy"
     },
     {
-      "added_at": "2024-06-10 09:51:55",
-      "album": {
-        "name": "flight fm",
-        "url": "https://open.spotify.com/album/7z6MsabW7ZDqtcgmV9fZrv"
-      },
-      "artists": [
-        {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        }
-      ],
-      "duration_ms": 247820,
-      "name": "flight fm",
-      "url": "https://open.spotify.com/track/4Wrd7TpAgRmlUtcbpJCW3T"
-    },
-    {
-      "added_at": "2024-06-10 09:51:55",
+      "added_at": "2024-07-26 12:25:56",
       "album": {
         "name": "Identity Crisis",
         "url": "https://open.spotify.com/album/4KEefdhfcoN8aBhPCUrDCi"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/5KyenLQONCPOXHoYgIqDSV"
     },
     {
-      "added_at": "2024-06-10 09:51:55",
+      "added_at": "2024-07-26 12:25:56",
       "album": {
         "name": "Black Ice Mudra",
         "url": "https://open.spotify.com/album/6PZ3fBqZM8LdAaP6NkVs8z"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/2Jey7LyTYCdLuEGBjzElRY"
     },
     {
-      "added_at": "2024-06-10 09:51:55",
+      "added_at": "2024-07-26 12:25:56",
       "album": {
         "name": "TEK",
         "url": "https://open.spotify.com/album/7C2LDXd3UolHDXVnJE31NI"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/3tezEIT5xK3CW8fjlSy4ak"
     },
     {
-      "added_at": "2024-06-10 09:51:55",
+      "added_at": "2024-07-26 12:25:56",
       "album": {
         "name": "Who Else",
         "url": "https://open.spotify.com/album/3h0xqeLqrs2FLSXTYlkv5p"
@@ -137,7 +137,51 @@
       "url": "https://open.spotify.com/track/0SLrmN7eDfGrGQKKji1nKF"
     },
     {
-      "added_at": "2024-06-10 09:51:55",
+      "added_at": "2024-07-26 12:25:56",
+      "album": {
+        "name": "The Seed, The Sinkhole, The Flower and The Flare",
+        "url": "https://open.spotify.com/album/5DEn2D8wUaOSu8dt2z7RNU"
+      },
+      "artists": [
+        {
+          "name": "J.G. Biberkopf",
+          "url": "https://open.spotify.com/artist/4FZJ3pueTsUnKqySSTjnns"
+        },
+        {
+          "name": "Holly Childs",
+          "url": "https://open.spotify.com/artist/0nrtWn1bBf6uASAABQUg0y"
+        }
+      ],
+      "duration_ms": 315418,
+      "name": "Future Tripping",
+      "url": "https://open.spotify.com/track/70C91DaVb1ee87Z1o2NZp2"
+    },
+    {
+      "added_at": "2024-07-26 12:25:56",
+      "album": {
+        "name": "Iza Ngamandla",
+        "url": "https://open.spotify.com/album/2TzvFbbMy27d9sKGx2TXQg"
+      },
+      "artists": [
+        {
+          "name": "DJ Lag",
+          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
+        },
+        {
+          "name": "Sykes",
+          "url": "https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC"
+        },
+        {
+          "name": "Vanco",
+          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
+        }
+      ],
+      "duration_ms": 359218,
+      "name": "Iza Ngamandla",
+      "url": "https://open.spotify.com/track/2WD39n5kBRiWBKMZmC1Lom"
+    },
+    {
+      "added_at": "2024-07-26 12:25:56",
       "album": {
         "name": "Juggernaut / S Wave",
         "url": "https://open.spotify.com/album/6GMJkaDxOupumeYs9JopQc"
@@ -153,7 +197,7 @@
       "url": "https://open.spotify.com/track/5OXHafZpLp3jzU7yOPnBfc"
     },
     {
-      "added_at": "2024-06-10 09:51:55",
+      "added_at": "2024-07-26 12:25:56",
       "album": {
         "name": "Melba",
         "url": "https://open.spotify.com/album/15FFFxzeGHFrvK7hFBLLf3"
@@ -169,7 +213,23 @@
       "url": "https://open.spotify.com/track/35GQ2kctn4xdysvWpENa4F"
     },
     {
-      "added_at": "2024-06-10 09:51:55",
+      "added_at": "2024-07-26 12:25:56",
+      "album": {
+        "name": "flight fm",
+        "url": "https://open.spotify.com/album/7z6MsabW7ZDqtcgmV9fZrv"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        }
+      ],
+      "duration_ms": 247820,
+      "name": "flight fm",
+      "url": "https://open.spotify.com/track/4Wrd7TpAgRmlUtcbpJCW3T"
+    },
+    {
+      "added_at": "2024-07-26 12:25:56",
       "album": {
         "name": "KITSCHKRIEG",
         "url": "https://open.spotify.com/album/0HGEwZXbJuwOyPml1zlts0"
@@ -193,7 +253,7 @@
       "url": "https://open.spotify.com/track/57yrBJKPyeq4S34SPbofRi"
     },
     {
-      "added_at": "2024-06-10 09:51:55",
+      "added_at": "2024-07-26 12:25:56",
       "album": {
         "name": "Vision Leaks",
         "url": "https://open.spotify.com/album/4q8D03iDVIB8xGpse4HiFj"
@@ -209,7 +269,7 @@
       "url": "https://open.spotify.com/track/2wwyXmqrMnHaqrjn2O6CPw"
     },
     {
-      "added_at": "2024-06-10 09:51:55",
+      "added_at": "2024-07-26 12:25:56",
       "album": {
         "name": "Ninety Nine",
         "url": "https://open.spotify.com/album/6nt3uCd3l5klHylxcDebqQ"
@@ -229,10 +289,10 @@
       "url": "https://open.spotify.com/track/3FfBQsEksBwK83D3sOQLKs"
     },
     {
-      "added_at": "2024-06-10 09:51:55",
+      "added_at": "2024-07-26 12:25:56",
       "album": {
-        "name": "They Are Textural",
-        "url": "https://open.spotify.com/album/4jwS3JO2vI7aogPPoCUmva"
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/64yYbIhNyOw7Dlurb8t2k5"
       },
       "artists": [
         {
@@ -240,28 +300,12 @@
           "url": "https://open.spotify.com/artist/2aXWnfzD15xaLcTuPhf9p5"
         }
       ],
-      "duration_ms": 241481,
-      "name": "Get Lost",
-      "url": "https://open.spotify.com/track/2V2u8AxvhGlEmOtR2qo2OL"
+      "duration_ms": 261017,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/5XzzDiiuWQUlnNZXOys4Dt"
     },
     {
-      "added_at": "2024-06-10 09:51:55",
-      "album": {
-        "name": "Hyper Daddy",
-        "url": "https://open.spotify.com/album/1cTX8gvgZUheEKvA0ZLAlN"
-      },
-      "artists": [
-        {
-          "name": "\u00b5-Ziq",
-          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
-        }
-      ],
-      "duration_ms": 334727,
-      "name": "Hyper Daddy",
-      "url": "https://open.spotify.com/track/0YAxRXw1CMuQxP58GsXm2P"
-    },
-    {
-      "added_at": "2024-06-10 09:51:55",
+      "added_at": "2024-07-26 12:25:56",
       "album": {
         "name": "Extended",
         "url": "https://open.spotify.com/album/3wYpn2JP8z3VqlzyIwiGHC"
@@ -277,7 +321,7 @@
       "url": "https://open.spotify.com/track/568BraspkchZteHyyeHRC3"
     },
     {
-      "added_at": "2024-06-10 09:51:55",
+      "added_at": "2024-07-26 12:25:56",
       "album": {
         "name": "Seven",
         "url": "https://open.spotify.com/album/2DfpchZyQ3r7kLgSajX2o3"
@@ -293,7 +337,7 @@
       "url": "https://open.spotify.com/track/66cGEca0mM1syYeB0jIKci"
     },
     {
-      "added_at": "2024-06-10 09:51:55",
+      "added_at": "2024-07-26 12:25:56",
       "album": {
         "name": "EVEN MORE D4TA",
         "url": "https://open.spotify.com/album/1Jezw4Z2jKAhBF193bY5qM"
@@ -313,7 +357,47 @@
       "url": "https://open.spotify.com/track/6TuykpJWmzazJrEzkO2e4r"
     },
     {
-      "added_at": "2024-06-10 09:51:55",
+      "added_at": "2024-07-26 12:25:56",
+      "album": {
+        "name": "Fuko Chu No Saiwai",
+        "url": "https://open.spotify.com/album/2meVeZ6LWuP9QWjXD9wVBA"
+      },
+      "artists": [
+        {
+          "name": "YENTOWN",
+          "url": "https://open.spotify.com/artist/5MZKzz8nnucMHhJq34UZwe"
+        },
+        {
+          "name": "kZm",
+          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
+        },
+        {
+          "name": "PETZ",
+          "url": "https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT"
+        },
+        {
+          "name": "JNKMN",
+          "url": "https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "MonyHorse",
+          "url": "https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD"
+        },
+        {
+          "name": "U-LEE",
+          "url": "https://open.spotify.com/artist/5brBirPSajSulsPdYTRAtf"
+        }
+      ],
+      "duration_ms": 256012,
+      "name": "Fuko Chu No Saiwai",
+      "url": "https://open.spotify.com/track/1yZyjO1gnsKdhv7NoklnvE"
+    },
+    {
+      "added_at": "2024-07-26 12:25:56",
       "album": {
         "name": "Set The Remixes",
         "url": "https://open.spotify.com/album/5MZjbJlDz79EU90vunw7ZV"
@@ -337,7 +421,7 @@
       "url": "https://open.spotify.com/track/3PtUdGXk77jP5IbN43P0b2"
     },
     {
-      "added_at": "2024-06-10 09:51:55",
+      "added_at": "2024-07-26 12:25:56",
       "album": {
         "name": "Just Wanna",
         "url": "https://open.spotify.com/album/3xUb1cXh1JjlT66ww4XTsC"
@@ -353,7 +437,7 @@
       "url": "https://open.spotify.com/track/6xmkidNAofoGKK6bSKk6aI"
     },
     {
-      "added_at": "2024-06-10 09:51:55",
+      "added_at": "2024-07-26 12:25:56",
       "album": {
         "name": "Mutationist",
         "url": "https://open.spotify.com/album/5WKVA4aPPyAtxbfL4J0FgB"
@@ -369,30 +453,10 @@
       "url": "https://open.spotify.com/track/7CEEUS1165KRUUDFgGoGgk"
     },
     {
-      "added_at": "2024-06-10 09:51:55",
+      "added_at": "2024-07-26 12:25:56",
       "album": {
-        "name": "Big Ball Variations",
-        "url": "https://open.spotify.com/album/06bC1IIB44ON7hbVQMqMYK"
-      },
-      "artists": [
-        {
-          "name": "Peder Mannerfelt",
-          "url": "https://open.spotify.com/artist/3IuyAl5gMAvYhn0VjRzC1g"
-        },
-        {
-          "name": "Roman Fl\u00fcgel",
-          "url": "https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Big Ball - Roman Fl\u00fcgel Remix",
-      "url": "https://open.spotify.com/track/0Wb3BFWdGBsRb8r0Qbgy1H"
-    },
-    {
-      "added_at": "2024-06-10 09:51:55",
-      "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/0tUmA50dII1GN946D9lUsW"
+        "name": "Broke My Heart Remixes",
+        "url": "https://open.spotify.com/album/7dWvTR3sRZEdPAOan5PHVu"
       },
       "artists": [
         {
@@ -400,12 +464,12 @@
           "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
         }
       ],
-      "duration_ms": 262827,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/6ztI9zfPNMhocBJcXbeEqt"
+      "duration_ms": 166523,
+      "name": "Broke My Heart",
+      "url": "https://open.spotify.com/track/4wTt1Fmp7JxW07UODP7Tk4"
     },
     {
-      "added_at": "2024-06-10 09:51:55",
+      "added_at": "2024-07-26 12:25:56",
       "album": {
         "name": "Testify",
         "url": "https://open.spotify.com/album/56Sgn27nRLr5uEBFzXXvAb"
@@ -425,79 +489,7 @@
       "url": "https://open.spotify.com/track/7GC6Hm34nHNT5RPtGFdWzv"
     },
     {
-      "added_at": "2024-06-10 09:51:55",
-      "album": {
-        "name": "Tinfoil",
-        "url": "https://open.spotify.com/album/57ixMubBbJtKAUCSACUTxB"
-      },
-      "artists": [
-        {
-          "name": "Jubilee",
-          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
-        },
-        {
-          "name": "Astrolith",
-          "url": "https://open.spotify.com/artist/0IUxlmCR6kfMxOuLdyen0I"
-        }
-      ],
-      "duration_ms": 265365,
-      "name": "Tinfoil",
-      "url": "https://open.spotify.com/track/5cT0FWFW8cdUsaz7CWdcs1"
-    },
-    {
-      "added_at": "2024-06-10 09:51:55",
-      "album": {
-        "name": "Bingo!",
-        "url": "https://open.spotify.com/album/2O2CWgIoHK3P0ax5fzgNL4"
-      },
-      "artists": [
-        {
-          "name": "Martyn Bootyspoon",
-          "url": "https://open.spotify.com/artist/5uFRAVs4qRpxTU4Upl2SJC"
-        }
-      ],
-      "duration_ms": 345944,
-      "name": "Bingo!",
-      "url": "https://open.spotify.com/track/4fpeOfRlL1StqLA4DZRu0s"
-    },
-    {
-      "added_at": "2024-06-10 09:51:55",
-      "album": {
-        "name": "Laco (Metrist Reworm)",
-        "url": "https://open.spotify.com/album/08nzn1c2QkkQ0KfUgCCEET"
-      },
-      "artists": [
-        {
-          "name": "96 Back",
-          "url": "https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz"
-        },
-        {
-          "name": "Metrist",
-          "url": "https://open.spotify.com/artist/2EaMCfkZ07OvRk0w2UOEwg"
-        }
-      ],
-      "duration_ms": 240106,
-      "name": "Laco - Metrist Reworm",
-      "url": "https://open.spotify.com/track/3FedW5O5WVSBFEnYc82K8z"
-    },
-    {
-      "added_at": "2024-06-10 09:51:55",
-      "album": {
-        "name": "New World Expression",
-        "url": "https://open.spotify.com/album/2cb8ptTLmpPQldm2RgQ5cX"
-      },
-      "artists": [
-        {
-          "name": "X CLUB.",
-          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
-        }
-      ],
-      "duration_ms": 204255,
-      "name": "New World Expression",
-      "url": "https://open.spotify.com/track/6h426eeQUnhLOKJbAdCEnX"
-    },
-    {
-      "added_at": "2024-06-10 09:51:55",
+      "added_at": "2024-07-26 12:25:56",
       "album": {
         "name": "Kupfer (EXTLP Version)",
         "url": "https://open.spotify.com/album/4HjAnZm6P68PnDiAi1untk"
@@ -517,27 +509,79 @@
       "url": "https://open.spotify.com/track/0iUkwUfSqjm2fUlB2RNwhk"
     },
     {
-      "added_at": "2024-06-10 09:51:55",
+      "added_at": "2024-07-26 12:25:56",
       "album": {
-        "name": "Don't Be Stupid Day (Modeselektor Remix)",
-        "url": "https://open.spotify.com/album/0YAOxsKCcv4mtuigdR8eyf"
+        "name": "Tinfoil",
+        "url": "https://open.spotify.com/album/57ixMubBbJtKAUCSACUTxB"
       },
       "artists": [
         {
-          "name": "Len Faki",
-          "url": "https://open.spotify.com/artist/3fI3Z6NnYoeSQjcqPQDbM4"
+          "name": "Jubilee",
+          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
         },
         {
-          "name": "Modeselektor",
-          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
+          "name": "Astrolith",
+          "url": "https://open.spotify.com/artist/0IUxlmCR6kfMxOuLdyen0I"
         }
       ],
-      "duration_ms": 340452,
-      "name": "Don't Be Stupid Day - Modeselektor Remix",
-      "url": "https://open.spotify.com/track/1d8XQfo2fxkIRCW68KS6T6"
+      "duration_ms": 265365,
+      "name": "Tinfoil",
+      "url": "https://open.spotify.com/track/5cT0FWFW8cdUsaz7CWdcs1"
     },
     {
-      "added_at": "2024-06-10 09:51:55",
+      "added_at": "2024-07-26 12:25:56",
+      "album": {
+        "name": "Bingo!",
+        "url": "https://open.spotify.com/album/2O2CWgIoHK3P0ax5fzgNL4"
+      },
+      "artists": [
+        {
+          "name": "Martyn Bootyspoon",
+          "url": "https://open.spotify.com/artist/5uFRAVs4qRpxTU4Upl2SJC"
+        }
+      ],
+      "duration_ms": 345944,
+      "name": "Bingo!",
+      "url": "https://open.spotify.com/track/4fpeOfRlL1StqLA4DZRu0s"
+    },
+    {
+      "added_at": "2024-07-26 12:25:56",
+      "album": {
+        "name": "Laco (Metrist Reworm)",
+        "url": "https://open.spotify.com/album/08nzn1c2QkkQ0KfUgCCEET"
+      },
+      "artists": [
+        {
+          "name": "96 Back",
+          "url": "https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz"
+        },
+        {
+          "name": "Metrist",
+          "url": "https://open.spotify.com/artist/2EaMCfkZ07OvRk0w2UOEwg"
+        }
+      ],
+      "duration_ms": 240106,
+      "name": "Laco - Metrist Reworm",
+      "url": "https://open.spotify.com/track/3FedW5O5WVSBFEnYc82K8z"
+    },
+    {
+      "added_at": "2024-07-26 12:25:56",
+      "album": {
+        "name": "New World Expression",
+        "url": "https://open.spotify.com/album/2cb8ptTLmpPQldm2RgQ5cX"
+      },
+      "artists": [
+        {
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+        }
+      ],
+      "duration_ms": 204255,
+      "name": "New World Expression",
+      "url": "https://open.spotify.com/track/6h426eeQUnhLOKJbAdCEnX"
+    },
+    {
+      "added_at": "2024-07-26 12:25:56",
       "album": {
         "name": "Revanchist",
         "url": "https://open.spotify.com/album/2e5dgajfEhTCWniWQ8ZNHH"
@@ -557,7 +601,23 @@
       "url": "https://open.spotify.com/track/3x2leC3D4Hlhjg97tB6RVT"
     },
     {
-      "added_at": "2024-06-10 09:51:55",
+      "added_at": "2024-07-26 12:25:56",
+      "album": {
+        "name": "THRASH",
+        "url": "https://open.spotify.com/album/5b4Fe3jAlY2P4rmR2AFV9Q"
+      },
+      "artists": [
+        {
+          "name": "Simon J Karis",
+          "url": "https://open.spotify.com/artist/0X91xxf34vnn5xrHbo357g"
+        }
+      ],
+      "duration_ms": 226911,
+      "name": "night glaze smashed challice.alp",
+      "url": "https://open.spotify.com/track/6fqDhuA08fAQr3Ulc7u4PM"
+    },
+    {
+      "added_at": "2024-07-26 12:25:56",
       "album": {
         "name": "From a Vein",
         "url": "https://open.spotify.com/album/77clkL2ZSpeDl8knKgGszu"
@@ -581,7 +641,23 @@
       "url": "https://open.spotify.com/track/5t2iOfBwpSkAUqdSkr8tNt"
     },
     {
-      "added_at": "2024-06-10 09:51:55",
+      "added_at": "2024-07-26 12:25:56",
+      "album": {
+        "name": "Guardian of Zeus",
+        "url": "https://open.spotify.com/album/663GCr3NZYz9vPlq7p2TFx"
+      },
+      "artists": [
+        {
+          "name": "Xterea",
+          "url": "https://open.spotify.com/artist/4bkTTQVvd8QAr89LquY83m"
+        }
+      ],
+      "duration_ms": 394000,
+      "name": "Murky",
+      "url": "https://open.spotify.com/track/3g3z1fXXPwUDYWltjhhd3X"
+    },
+    {
+      "added_at": "2024-07-26 12:25:56",
       "album": {
         "name": "RITUAL (evocation)",
         "url": "https://open.spotify.com/album/4DLnLBvf6aKhABSsGMVpET"
@@ -613,23 +689,7 @@
       "url": "https://open.spotify.com/track/1mtkcUtTvtscfzIlOmcPBW"
     },
     {
-      "added_at": "2024-06-10 09:51:55",
-      "album": {
-        "name": "Ephemeral",
-        "url": "https://open.spotify.com/album/0Xk6wAYICqASujf8QiGFDm"
-      },
-      "artists": [
-        {
-          "name": "Throwing Snow",
-          "url": "https://open.spotify.com/artist/0Qur5LqqAVVunjY2PnjhUp"
-        }
-      ],
-      "duration_ms": 254530,
-      "name": "Ephemeral",
-      "url": "https://open.spotify.com/track/0CbYy6uyQK0ZP1BQ42rEBI"
-    },
-    {
-      "added_at": "2024-06-10 09:51:55",
+      "added_at": "2024-07-26 12:25:56",
       "album": {
         "name": "Antiposition",
         "url": "https://open.spotify.com/album/4rllEtGCQGrXf50Zby4VJJ"
@@ -645,7 +705,23 @@
       "url": "https://open.spotify.com/track/4iVjIb98krOBsQr0JgFD0r"
     },
     {
-      "added_at": "2024-06-10 09:51:55",
+      "added_at": "2024-07-26 12:25:56",
+      "album": {
+        "name": "slob air",
+        "url": "https://open.spotify.com/album/03gSWmiZSv4alvJoNPtYH9"
+      },
+      "artists": [
+        {
+          "name": "Mica Levi",
+          "url": "https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3"
+        }
+      ],
+      "duration_ms": 748000,
+      "name": "slob air",
+      "url": "https://open.spotify.com/track/4unSjjB9Jkx234FSFiR900"
+    },
+    {
+      "added_at": "2024-07-26 12:25:56",
       "album": {
         "name": "A Light for Attracting Attention",
         "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"

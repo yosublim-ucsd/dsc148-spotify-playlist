@@ -1,13 +1,45 @@
 {
-  "description": "The joy of Global and SA Pop. Cover: <a href=\"https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl?si=FSSRYZYOSjeC3LWaAaSshA\">Tyler Page</a> ",
-  "num_followers": 1908,
+  "description": "The joy of Global and SA Pop. Cover: <a href=\"https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB?si=lKxGMUbVRsSS46Y3XnJsDQ\">Shekhinah</a> ",
+  "num_followers": 1920,
   "original_name": "POP JOY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpmQYAAAAACscTQE2JlYv56fGPvJ79Mw",
+  "snapshot_id": "ZqLK4AAAAADUnEfuX7qAjzre3migW6il",
   "tracks": [
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/1HuMESLFBWzyre7uhHjfwM"
+      },
+      "artists": [
+        {
+          "name": "Shekhinah",
+          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
+        }
+      ],
+      "duration_ms": 224002,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/68ahKiHRBOuyS4GsPqFjsI"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+    },
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
@@ -27,54 +59,18 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "HOLDING ON",
-        "url": "https://open.spotify.com/album/7nxh0AO1cB5tvqtm6XzcXb"
-      },
-      "artists": [
-        {
-          "name": "Tyler Page",
-          "url": "https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl"
-        },
-        {
-          "name": "Kurt April",
-          "url": "https://open.spotify.com/artist/6hboMI8XlDYKsSjXa2d6PP"
-        }
-      ],
-      "duration_ms": 167589,
-      "name": "HOLDING ON",
-      "url": "https://open.spotify.com/track/6wDQ5MOKhL3ICkWXS0czmG"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "A Bar Song (Tipsy)",
-        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 171291,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -99,6 +95,58 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "HOLDING ON",
+        "url": "https://open.spotify.com/album/7nxh0AO1cB5tvqtm6XzcXb"
+      },
+      "artists": [
+        {
+          "name": "Tyler Page",
+          "url": "https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl"
+        },
+        {
+          "name": "Kurt April",
+          "url": "https://open.spotify.com/artist/6hboMI8XlDYKsSjXa2d6PP"
+        }
+      ],
+      "duration_ms": 167589,
+      "name": "HOLDING ON",
+      "url": "https://open.spotify.com/track/6wDQ5MOKhL3ICkWXS0czmG"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "WOMAN\u2019S WORLD",
         "url": "https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM"
       },
@@ -111,22 +159,6 @@
       "duration_ms": 163000,
       "name": "WOMAN\u2019S WORLD",
       "url": "https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -145,36 +177,20 @@
       "url": "https://open.spotify.com/track/4Uo9L4l5evGRj8GB3Sddos"
     },
     {
-      "added_at": "2024-06-27 23:00:00",
+      "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Move Your Way",
-        "url": "https://open.spotify.com/album/5WUcLxloNiu6RMDXygZVv9"
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
       },
       "artists": [
         {
-          "name": "Droomsindroom",
-          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
-      "duration_ms": 203906,
-      "name": "Move Your Way",
-      "url": "https://open.spotify.com/track/081nFsTcFxZTeArbLlukX8"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -243,6 +259,22 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
+        "name": "Move Your Way",
+        "url": "https://open.spotify.com/album/5WUcLxloNiu6RMDXygZVv9"
+      },
+      "artists": [
+        {
+          "name": "Droomsindroom",
+          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
+        }
+      ],
+      "duration_ms": 203906,
+      "name": "Move Your Way",
+      "url": "https://open.spotify.com/track/081nFsTcFxZTeArbLlukX8"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
       },
@@ -271,6 +303,22 @@
       "duration_ms": 176640,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/3jgQY8e7ov3PYBZ4Il8SZl"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Back to me",
+        "url": "https://open.spotify.com/album/6d5wQNK753jofsNtP7ywOM"
+      },
+      "artists": [
+        {
+          "name": "Oliver Michael",
+          "url": "https://open.spotify.com/artist/58Oe01uYw1nODV5DwGO14z"
+        }
+      ],
+      "duration_ms": 133828,
+      "name": "Back to me",
+      "url": "https://open.spotify.com/track/1yKzhjC2yTXFczSBVx1Ed6"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -303,22 +351,6 @@
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "What Would We Be",
-        "url": "https://open.spotify.com/album/7CT2f6wbks43atFeUmoenC"
-      },
-      "artists": [
-        {
-          "name": "Connor Rhys",
-          "url": "https://open.spotify.com/artist/7BdkMsbkcYQ6BTB1dE3z42"
-        }
-      ],
-      "duration_ms": 190901,
-      "name": "What Would We Be",
-      "url": "https://open.spotify.com/track/1qvlHpZkJ4k5scQQmsXFxU"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -357,6 +389,22 @@
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
     },
     {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Someone I Don't Know",
+        "url": "https://open.spotify.com/album/02BG7BjzYAN6Q8gB0rrt7H"
+      },
+      "artists": [
+        {
+          "name": "Connor Austin",
+          "url": "https://open.spotify.com/artist/5RJmXI7u46XifTvVEVbc0j"
+        }
+      ],
+      "duration_ms": 167307,
+      "name": "Someone I Don't Know",
+      "url": "https://open.spotify.com/track/0Qwge4aLLfVN32oVA4sVhD"
+    },
+    {
       "added_at": "2024-06-27 23:00:00",
       "album": {
         "name": "i like the way you kiss me",
@@ -387,6 +435,22 @@
       "duration_ms": 157834,
       "name": "Growing Up",
       "url": "https://open.spotify.com/track/1xnEyIV7tGENTcJ1NhaBWz"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "UNDERCOVER",
+        "url": "https://open.spotify.com/album/3T6iKrglvo69iLvTvfx66j"
+      },
+      "artists": [
+        {
+          "name": "Keanan Eksteen",
+          "url": "https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C"
+        }
+      ],
+      "duration_ms": 209445,
+      "name": "UNDERCOVER",
+      "url": "https://open.spotify.com/track/4EvbMQMievM4jmeBpWEUvZ"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -437,6 +501,22 @@
       "url": "https://open.spotify.com/track/0dOpKW6fWTbtaLhEgU4z0d"
     },
     {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Acid Rain",
+        "url": "https://open.spotify.com/album/0P1uLn9UjAli21beqSgLq0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Baron",
+          "url": "https://open.spotify.com/artist/6j57OAd060Casvsu7TYDIl"
+        }
+      ],
+      "duration_ms": 225523,
+      "name": "Acid Rain",
+      "url": "https://open.spotify.com/track/1UXa2qZ0LOuMP6ye1hwHCV"
+    },
+    {
       "added_at": "2024-06-27 23:00:00",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
@@ -471,6 +551,22 @@
       "duration_ms": 336500,
       "name": "Common Things",
       "url": "https://open.spotify.com/track/2h6cKVFurOfEBB4GewcGOI"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Blood Rush",
+        "url": "https://open.spotify.com/album/4vT01YKtwUdlEBFiBUI9BE"
+      },
+      "artists": [
+        {
+          "name": "OLI Milne",
+          "url": "https://open.spotify.com/artist/3u7rcxzEbguyPZHrucpbEB"
+        }
+      ],
+      "duration_ms": 205632,
+      "name": "Blood Rush",
+      "url": "https://open.spotify.com/track/1ZmQmMqbbj72IgS8ZmxM6B"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -553,22 +649,6 @@
       "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
     },
     {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
-        "name": "Green Summer",
-        "url": "https://open.spotify.com/album/6g9rmcUEF2eLCmAYDrTMkr"
-      },
-      "artists": [
-        {
-          "name": "Pixie Whip",
-          "url": "https://open.spotify.com/artist/29dQnPAvvIDHL1Gi3CFQVU"
-        }
-      ],
-      "duration_ms": 169615,
-      "name": "Green Summer",
-      "url": "https://open.spotify.com/track/2i2enF7yvueON1I7COL6vQ"
-    },
-    {
       "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Austin",
@@ -583,22 +663,6 @@
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
-        "name": "ARE YOU THERE",
-        "url": "https://open.spotify.com/album/43SRVg55fLBXrBJb9TsdNi"
-      },
-      "artists": [
-        {
-          "name": "Tyler Page",
-          "url": "https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl"
-        }
-      ],
-      "duration_ms": 168888,
-      "name": "ARE YOU THERE",
-      "url": "https://open.spotify.com/track/7KsrRVn3SuQxZ3oo3DNfYH"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -647,22 +711,6 @@
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
-        "name": "When I'm With You",
-        "url": "https://open.spotify.com/album/27FX6DWdFHstVDi6ZK2Aaa"
-      },
-      "artists": [
-        {
-          "name": "SaxbyTwins",
-          "url": "https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ"
-        }
-      ],
-      "duration_ms": 141103,
-      "name": "When I'm With You",
-      "url": "https://open.spotify.com/track/6VUupbPVzQc9KsAnUECeP2"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -715,22 +763,6 @@
     {
       "added_at": "2024-06-27 23:00:00",
       "album": {
-        "name": "Warm Bodies",
-        "url": "https://open.spotify.com/album/5w668hdD4at4FpOzQMVm19"
-      },
-      "artists": [
-        {
-          "name": "Erin Elliot",
-          "url": "https://open.spotify.com/artist/7rDA3BljVoWImjvRZ1wEa1"
-        }
-      ],
-      "duration_ms": 188818,
-      "name": "Warm Bodies",
-      "url": "https://open.spotify.com/track/5evgNAbd9zPVUM5JVKfNBH"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
       },
@@ -761,26 +793,6 @@
       "url": "https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx"
     },
     {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
-        "name": "Mistakes",
-        "url": "https://open.spotify.com/album/5DDEY0ta0DWlaLEAMn0tTd"
-      },
-      "artists": [
-        {
-          "name": "Higgo",
-          "url": "https://open.spotify.com/artist/2b3OLghxHZj3CUbVmjRPwn"
-        },
-        {
-          "name": "Daniel Baron",
-          "url": "https://open.spotify.com/artist/6j57OAd060Casvsu7TYDIl"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Mistakes",
-      "url": "https://open.spotify.com/track/0Qm4vRjjCK9tzvZWYy5v8t"
-    },
-    {
       "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Stick Season",
@@ -795,30 +807,6 @@
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
-        "name": "Open",
-        "url": "https://open.spotify.com/album/1V9lS8kDEkCc17h8uXL33f"
-      },
-      "artists": [
-        {
-          "name": "Hannah Ray",
-          "url": "https://open.spotify.com/artist/4Ae5WVwvqj9QtX7NVr6GHg"
-        },
-        {
-          "name": "lordkez",
-          "url": "https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88"
-        },
-        {
-          "name": "Mars Baby",
-          "url": "https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri"
-        }
-      ],
-      "duration_ms": 239538,
-      "name": "Open",
-      "url": "https://open.spotify.com/track/0BCj86Eh1kflADgQYD09eA"
     },
     {
       "added_at": "2024-07-11 22:00:00",

@@ -1,13 +1,29 @@
 {
-  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: FrostTop",
+  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: EDDIE",
   "num_followers": 488,
   "original_name": "Bass Drop",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAD4IXbL5PIDDiORXd+q7AbljsMi9KD",
+  "snapshot_id": "AAAD43Q4YEQZBhAfeMeQbjlgt7GmLxXF",
   "tracks": [
+    {
+      "added_at": "2024-07-26 04:29:23",
+      "album": {
+        "name": "Onzeker Kraft Vol. 1.5",
+        "url": "https://open.spotify.com/album/6jU5BRvsHFuEmIt00ePEwV"
+      },
+      "artists": [
+        {
+          "name": "EDDIE",
+          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Check This",
+      "url": "https://open.spotify.com/track/2DIKCVLxEwCInD7apxfMVH"
+    },
     {
       "added_at": "2024-07-19 13:07:44",
       "album": {

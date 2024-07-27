@@ -30,7 +30,7 @@
 | [To Me](https://open.spotify.com/track/5cVEkAjFsWL1VzABu3Jw7l) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [The 4th Episode](https://open.spotify.com/album/05CNNIZe5rnuP1H30DbeAZ) | 4:31 | 2024-06-25 |  |
 | [Wish](https://open.spotify.com/track/1FxHN7dNqIrDezIOrVSAYy) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Traveler \- Argentina Original Television Soundtrack Part.5](https://open.spotify.com/album/5LEhr7NKIsfhLruZisjL2R) | 4:36 | 2024-06-25 |  |
 | [나는 문제없어](https://open.spotify.com/track/6lzuJ5dVXJE3baoMePiO9x) | [황규영](https://open.spotify.com/artist/2L6DQNg4BMFogSjX2Vi2qJ) | [끝없는 사랑을 꿈꾸며](https://open.spotify.com/album/2VarrkK8GFFky0LxKqbnoR) | 4:19 | 2024-06-25 |  |
-| [빌려줄게](https://open.spotify.com/track/0uAW2Jb7ZjI5xUzaC0fhqT) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [EMPATHY](https://open.spotify.com/album/0qZUGtDGH0QjnqXD1zvQym) | 3:32 | 2024-06-25 |  |
+| [빌려줄게](https://open.spotify.com/track/0uAW2Jb7ZjI5xUzaC0fhqT) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [EMPATHY](https://open.spotify.com/album/0qZUGtDGH0QjnqXD1zvQym) | 3:31 | 2024-06-25 |  |
 | [형](https://open.spotify.com/track/3xSEWvU6rh4a8ZGbN965lY) | [Norazo](https://open.spotify.com/artist/6qKi9ZFq7JiwMy2LvMAqNp) | [환골탈태](https://open.spotify.com/album/36ALg5Qe21g7v5CHxJwxHl) | 4:12 | 2024-06-25 |  |
 
 \*This playlist was first scraped on 2024-06-26. Prior content cannot be recovered.

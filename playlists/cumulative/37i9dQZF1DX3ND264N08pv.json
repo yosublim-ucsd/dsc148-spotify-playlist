@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "NEED FOR SPEED",
+        "url": "https://open.spotify.com/album/3bNU00DAypHgWuehEIl935"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145200,
+      "name": "2 Tha Rhythm",
+      "url": "https://open.spotify.com/track/6rJxvDAAgoVDxi3x6ZMBYp"
+    },
+    {
+      "album": {
         "name": "Addiction",
         "url": "https://open.spotify.com/album/6V4xEfSA1XCEwQOQke5qPG"
       },
@@ -324,7 +342,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 200857,
       "name": "Battle For The Mind",
       "url": "https://open.spotify.com/track/348gfv2I7vLLE3qZuRM10N"
@@ -466,6 +484,24 @@
       "duration_ms": 228983,
       "name": "Beyond Imagination - Element Remix",
       "url": "https://open.spotify.com/track/4SXhmBta459ZhEXcOiN2rI"
+    },
+    {
+      "album": {
+        "name": "Billion Scars",
+        "url": "https://open.spotify.com/album/4gLYwGKWSjDaiAHOQbNWuZ"
+      },
+      "artists": [
+        {
+          "name": "Endymion",
+          "url": "https://open.spotify.com/artist/1dWCpNKvuNDv2rE4gCVNwj"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213942,
+      "name": "Billion Scars",
+      "url": "https://open.spotify.com/track/75yYQ8G9AQFWtRepBDDVRX"
     },
     {
       "album": {
@@ -2802,7 +2838,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 183268,
       "name": "LEGEND (feat. XELOR)",
       "url": "https://open.spotify.com/track/4CSQFGPnH6Q6UzcequUkKn"

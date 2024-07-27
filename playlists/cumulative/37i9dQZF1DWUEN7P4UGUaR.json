@@ -449,6 +449,32 @@
     },
     {
       "album": {
+        "name": "Come and See (Remix)",
+        "url": "https://open.spotify.com/album/5aZIYtIubUJiX5GkqRgDNu"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        },
+        {
+          "name": "Afiba",
+          "url": "https://open.spotify.com/artist/1eKnW8PmxRivaPkqgYinPz"
+        },
+        {
+          "name": "KWAKU HYDRO",
+          "url": "https://open.spotify.com/artist/543kVDVPx8oHgDdbPs7Yjm"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195164,
+      "name": "Come and See (Remix)",
+      "url": "https://open.spotify.com/track/15D677rtBhHsiLiva3Wjv3"
+    },
+    {
+      "album": {
         "name": "CYB",
         "url": "https://open.spotify.com/album/0KqMiA8MVuuBsK8KXlCAmy"
       },
@@ -490,7 +516,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 193306,
       "name": "DaaDaa",
       "url": "https://open.spotify.com/track/1jiwwDBOufD9TgWimVJOXb"
@@ -716,7 +742,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 566414,
       "name": "Ghana Local Praise Medley",
       "url": "https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV"
@@ -1076,7 +1102,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 561739,
       "name": "Lord You are Beautiful",
       "url": "https://open.spotify.com/track/3qaeqyOZfezV0M0dUgQJmy"
@@ -1998,7 +2024,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 221800,
       "name": "Wave on Wave",
       "url": "https://open.spotify.com/track/7tAxugE49EdNSzMM4DZtBa"
@@ -2086,6 +2112,24 @@
       "duration_ms": 241146,
       "name": "Yesu Mo",
       "url": "https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j"
+    },
+    {
+      "album": {
+        "name": "God Reigns",
+        "url": "https://open.spotify.com/album/5LJZt7IPdGdbJbYKTcj5YN"
+      },
+      "artists": [
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192027,
+      "name": "You Saved Me",
+      "url": "https://open.spotify.com/track/3F8n9EaoR8j0PWdCA5S51O"
     },
     {
       "album": {

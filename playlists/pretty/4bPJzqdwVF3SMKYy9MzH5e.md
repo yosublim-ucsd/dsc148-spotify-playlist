@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,927 songs - 4 day 7 hr 48 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,928 songs - 4 day 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1935,5 +1935,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1925 | [wutiwant](https://open.spotify.com/track/6zsUUymWPtq5bkoc5y97cM) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/4NHsl52eIxHX3ZGh66ZYUx) | 3:13 |
 | 1926 | [Liverpool Street In The Rain](https://open.spotify.com/track/2anY2gPJklTi9HcFx4Xdas) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [How The Dogs Chill, Vol.1](https://open.spotify.com/album/12KUsz5VGp0SNjfXPxNVjE) | 5:32 |
 | 1927 | [tension](https://open.spotify.com/track/01kclZe2YxCS39ykf4Wpzd) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [tension](https://open.spotify.com/album/4UKvA0W2eTUphnKu0TRRSo) | 2:10 |
+| 1928 | [autumnrust](https://open.spotify.com/track/0Ru66uwT3sAwSKZvsrRYzi) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [autumnrust](https://open.spotify.com/album/5CFrBU4tfzL5LyFSzEn81x) | 3:54 |
 
-Snapshot ID: `AAADK6aqGn0mJRlC1o55FAh8nsrmIMye`
+Snapshot ID: `AAADLKb3brwkbZNrfkGbtU7qFTjNX14j`

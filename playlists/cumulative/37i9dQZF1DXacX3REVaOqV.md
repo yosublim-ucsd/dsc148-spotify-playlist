@@ -4,7 +4,7 @@
 
 > The best in house music
 
-462 songs - 1 day 7 hr 30 min
+463 songs - 1 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [Lift You Up](https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Lift You Up](https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI) | 2:13 | 2024-04-25 |  |
 | [Lights Go Down](https://open.spotify.com/track/6Q7fxyIXgrbk1bIySqbaij) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [LIFTED](https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV) | 3:03 | 2023-12-01 | 2024-04-12 |
 | [Lights Go Down \(with SIDEPIECE\)](https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [LIFTED](https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G) | 3:03 | 2022-04-20 | 2023-12-11 |
-| [Like I Used To](https://open.spotify.com/track/2SMqAHurJ7vtu16DSQojou) | [Silque](https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW) | [Like I Used To](https://open.spotify.com/album/6rEWmgcCkLgFmfdh0gJt1M) | 2:58 | 2022-12-01 |  |
+| [Like I Used To](https://open.spotify.com/track/2SMqAHurJ7vtu16DSQojou) | [Silque](https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW) | [Like I Used To](https://open.spotify.com/album/6rEWmgcCkLgFmfdh0gJt1M) | 2:58 | 2022-12-01 | 2024-07-27 |
 | [Like It Is \- Mixed](https://open.spotify.com/track/5ReLOUboXvaOVariwEJnl3) | [Coeo](https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z) | [Defected In The House Radio Show Episode 041 \(hosted by Sam Divine\)](https://open.spotify.com/album/21vNE48kEQUwOIDNfG8Ihm) | 4:22 | 2022-04-14 | 2024-03-01 |
 | [Live Without Your Love \(with Steve Lacy\)](https://open.spotify.com/track/3XnvNOjFKyFyNvxlXy1DXm) | [Love Regenerator](https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Live Without Your Love \(with Steve Lacy\)](https://open.spotify.com/album/2st44QXoemztnPKY99Yalg) | 3:25 | 2022-04-14 | 2022-10-14 |
 | [Look Up At The Sky](https://open.spotify.com/track/3Ts73V8SnaXIcnLAxwt41W) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Rhythm Sister \- EP](https://open.spotify.com/album/2DOdjtWqm3AqAHvedMmCRr) | 3:30 | 2022-04-14 | 2022-07-29 |
@@ -338,6 +338,7 @@
 | [Red Alert \- Grant Nelson Remix \- Edit](https://open.spotify.com/track/3uYz0ZtiATdgOU8TItF0vD) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [Grant Nelson](https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi) | [Red Alert \(Remixes\)](https://open.spotify.com/album/60bXKwhboGfLtL8b3kfZRA) | 4:29 | 2022-07-14 | 2023-11-06 |
 | [Relax My Eyes](https://open.spotify.com/track/1J3C8kdqUckBrTtgttm0AA) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [The Reset](https://open.spotify.com/album/37b8oZGEqxo6EUcOLnx9TG) | 3:11 | 2022-11-10 | 2023-02-17 |
 | [Release Me \(feat\. Rationale\) \- Jess Bays Remix](https://open.spotify.com/track/6stPuBpZMA4zqgAHOFNEzC) | [Billon](https://open.spotify.com/artist/3O1pwCWEGC95srREtbTFy1), [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB) | [Release Me \(feat\. Rationale\) \[Jess Bays Remix\]](https://open.spotify.com/album/19Tp9FoAw2zcmvizQ3mjO1) | 3:00 | 2022-04-14 | 2024-03-21 |
+| [Remember Me \- Fedde Le Grand Remix](https://open.spotify.com/track/11ToeM3nfYVNq61bSXA3O6) | [Blue Boy](https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG), [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Remember Me \(Fedde Le Grand Remix\)](https://open.spotify.com/album/2OcuMKE368Uwukf0x8rJkH) | 3:05 | 2024-07-25 |  |
 | [Rescue](https://open.spotify.com/track/2xNLma1p2hPU1lqLYWEgiG) | [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Friend Within](https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv) | [Rescue](https://open.spotify.com/album/5wnHew8RsixkmPnW7aaicg) | 2:39 | 2022-04-20 | 2024-03-21 |
 | [Revolution \- Deep In Jersey Extended Mix](https://open.spotify.com/track/0Qs8VmB3VPecGLGef4shI0) | [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM) | [Revolution \(Deep In Jersey Extended Mix\)](https://open.spotify.com/album/365BQjbQ7guC3hyTE2erVZ) | 5:27 | 2022-04-26 | 2022-07-12 |
 | [Right On \- Dario D'attis Remix](https://open.spotify.com/track/5ymor3b8Gs82TouTl7z7Yj) | [Kiko Navarro](https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj), [Hanlei](https://open.spotify.com/artist/52XjTMBxCVoJDBnTvDUV90), [Dario D'Attis](https://open.spotify.com/artist/0BSNfFPlI0efsuZljJtknX) | [Right On](https://open.spotify.com/album/1WxhKRgNpICvt7Asa3cxtN) | 6:53 | 2022-04-14 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: Massacre",
+  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: Cielo Razzo",
   "name": "Rock Argentino",
   "tracks": [
     {
@@ -610,7 +610,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 250621,
       "name": "Cangrejal",
       "url": "https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 227709,
       "name": "Chocarnos Contra La Pared",
       "url": "https://open.spotify.com/track/2ez2vyyoxRsM6vy2ygp5bf"
@@ -1982,7 +1982,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 238229,
       "name": "Frecuencia Modulada (Herencia Leb\u00f3n)",
       "url": "https://open.spotify.com/track/5rKgO7RYwJdOdTyLD5vXaf"
@@ -5152,7 +5152,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 218218,
       "name": "Ufa! Otro D\u00eda en el Para\u00edso",
       "url": "https://open.spotify.com/track/5896IL788Bi7KewRduDn50"
@@ -5174,6 +5174,24 @@
       "duration_ms": 180146,
       "name": "Ultra Free",
       "url": "https://open.spotify.com/track/2r3KSEga5xq8EsglHOep0o"
+    },
+    {
+      "album": {
+        "name": "El D\u00eda Fuera Del Tiempo",
+        "url": "https://open.spotify.com/album/7m4xVZzJ2B32BwchIPFvI0"
+      },
+      "artists": [
+        {
+          "name": "Cielo Razzo",
+          "url": "https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270193,
+      "name": "Ultraliviano",
+      "url": "https://open.spotify.com/track/5YxKjA5ucbct0NveO3OlU4"
     },
     {
       "album": {

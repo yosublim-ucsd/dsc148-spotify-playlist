@@ -4,7 +4,7 @@
 
 > 只有散步，我們才是真正聊天。邊首廣東歌，令你諗起同你散步嘅佢？
 
-101 songs - 6 hr 18 min
+105 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [19](https://open.spotify.com/track/3TJBMEcJrQe8xPVTwWnv6b) | [Chet Lam](https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48) | [少爺占廣播劇音樂全集](https://open.spotify.com/album/2XJvwDGHnm9KugXTt75aD6) | 3:06 | 2022-04-11 | 2024-04-19 |
 | [3/8](https://open.spotify.com/track/5emoT8XtfpK4hXBCIqjZyD) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [最好的時刻 2006\-2012](https://open.spotify.com/album/6Z1pu2Zg8BfwLCxvMTpLdw) | 3:47 | 2022-04-11 |  |
 | [A Day With Me](https://open.spotify.com/track/3Y6GlfFQmigJCzPVt2JYaE) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [A Day With Me](https://open.spotify.com/album/7ossMmoSyhRJIL2NFuk90Y) | 3:08 | 2022-04-11 |  |
+| [California \(好鬼死浪漫\)](https://open.spotify.com/track/2Fsqwg6OCrNEcjpUTorvWF) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [California \(好鬼死浪漫\)](https://open.spotify.com/album/7m89UNillV51zntHOksawo) | 4:23 | 2024-07-26 |  |
 | [Don't Text Him](https://open.spotify.com/track/3pSWo5ebAl4xiXXqym6rEo) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [Don't Text Him](https://open.spotify.com/album/1E5h69F88qemJq7si8rLrW) | 4:34 | 2022-04-11 |  |
 | [Feelings](https://open.spotify.com/track/0WkAHpwITTLqlhYVoxMOYp) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [Feelings](https://open.spotify.com/album/0fze6yVFkk6MrYRcneUrZq) | 3:33 | 2022-04-11 |  |
 | [Forever Friends](https://open.spotify.com/track/3oGUAoSggTuEAl4cHloh47) | [曲奇](https://open.spotify.com/artist/1sY4rzR1wpEYef57boBcPO) | [All The Best \(新曲+精選\)](https://open.spotify.com/album/5upmPHTE6pbTvTRq64lzOv) | 4:00 | 2022-04-11 | 2024-04-19 |
@@ -20,6 +21,7 @@
 | [HW1](https://open.spotify.com/track/7CbFYLWp5WI3K9p57d1X9w) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [HW1](https://open.spotify.com/album/27olYw9kfefaxM2oqtXhbg) | 4:19 | 2022-04-13 |  |
 | [I Will Be Alright](https://open.spotify.com/track/2EBZ815zoE0He8Bae7ygyy) | [黎曉陽](https://open.spotify.com/artist/4iB0GWec0wyODZvOatQMM9) | [I Will Be Alright](https://open.spotify.com/album/0sD2ptJBBX6aoivZWu3m03) | 3:28 | 2022-04-11 |  |
 | [I'm Sorry](https://open.spotify.com/track/1cpt31js3vq0cCXTLf3oYa) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [On Wings Of Time](https://open.spotify.com/album/4uiCnolZv9pf1BREEozzZ3) | 3:50 | 2022-04-11 |  |
+| [Look into my eyes](https://open.spotify.com/track/22A9vU5ZK7nuwySBtwNZFT) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Look into my eyes](https://open.spotify.com/album/34j4lPhObPKCVIgI8V0ZYD) | 2:58 | 2024-07-26 |  |
 | [Never Been Kissed \(Acoustic\)](https://open.spotify.com/track/6Peafc0Wzi087a0aiCdll7) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Kiss Kiss Kiss](https://open.spotify.com/album/5HvlYZNXVsXYkFQZHgrBI1) | 4:04 | 2022-04-11 |  |
 | [Never Been Kissed \- Acoustic Version](https://open.spotify.com/track/1li3XwMukTvumthbu6SuQb) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Kiss Kiss Kiss](https://open.spotify.com/album/6R6b3p1Y5S3dt9QxBWvzjE) | 4:04 | 2022-11-03 | 2024-04-19 |
 | [Never\-never Land](https://open.spotify.com/track/2MKENhpdJ8egUGHl6EWG5F) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Never\-never Land](https://open.spotify.com/album/1rMS9dyJwf4mPubmsoGhh4) | 3:32 | 2022-04-11 |  |
@@ -35,6 +37,7 @@
 | [上次坐飛機](https://open.spotify.com/track/2FjHXXLeTrPMTwnOxFDK9q) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [Ten Most Wanted](https://open.spotify.com/album/4Cr4UCSJJz19vPDssJzfTs) | 4:04 | 2022-04-11 |  |
 | [下亞厘畢道](https://open.spotify.com/track/1iIFrkPdNSvYz8XIXmSJoY) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [火炭麗琪](https://open.spotify.com/album/6O74fDJk2FR8hZUplTPYjF) | 2:46 | 2022-04-11 |  |
 | [下雨的瞬間 Raining Moment](https://open.spotify.com/track/3mRBZkUKakcjrlCegUU2J7) | [FINGERGAP](https://open.spotify.com/artist/5xcNlSnDsa7PWk4pnsm2B6), [Fedor Yury](https://open.spotify.com/artist/3tlVYRZPpiIT0m7Xydhnzz) | [Shan Shan 160](https://open.spotify.com/album/1DcyRtz8g3mvwFy1AsmVhY) | 3:38 | 2022-09-20 |  |
+| [不想放假](https://open.spotify.com/track/3ZjieYjmYG4A4VJdPYUFnA) | [Teddy Fan](https://open.spotify.com/artist/2xcfjDx4F8seDu5jN0geQH), [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [不想放假](https://open.spotify.com/album/7Ghei8Zj2DWB7Y4iNIoP7Y) | 2:30 | 2024-07-26 |  |
 | [人類不宜飛行](https://open.spotify.com/track/2R6LC73jLhgOekUBfTcE23) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [人類不宜飛行](https://open.spotify.com/album/4hO1qoffkZbefMbWnQzgNT) | 3:57 | 2022-04-11 |  |
 | [今天只做一件事](https://open.spotify.com/track/7cUrqt1Uqb9OEWvog8xIrB) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [H3M \(Remastered 2019\)](https://open.spotify.com/album/4tPgavx8TzhK03utfMCgHL) | 3:49 | 2022-04-11 |  |
 | [今天我不想做嘢](https://open.spotify.com/track/1D1yUvHaleWGiwGODww5Bt) | [mansonvibes](https://open.spotify.com/artist/1a8TIH1iv3shLyozSMjaoX) | [今天我不想做嘢](https://open.spotify.com/album/0Bcu0LjXgHT5LONotBjIke) | 3:54 | 2022-04-11 |  |
@@ -47,6 +50,7 @@
 | [及時行樂](https://open.spotify.com/track/4co81zh3xm4y6ZcyLj4eTz) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Learning Curve](https://open.spotify.com/album/4diB05q3Yl1cjCBdzeLHCd) | 3:54 | 2022-09-20 |  |
 | [只想和你吃漢堡](https://open.spotify.com/track/69AyM1yWZbQQc5FbWyrqXo) | [Dark Wong 黃明德](https://open.spotify.com/artist/5NFCpODrhS1kuk6LHqrqSq) | [只想和你吃漢堡](https://open.spotify.com/album/4DeeAR6j5oFYfBqGAqknwr) | 3:58 | 2022-11-03 |  |
 | [向孩子說愛情](https://open.spotify.com/track/3kupd39uh2YL7uAVsCIwXP) | [Supper Moment](https://open.spotify.com/artist/29Ukw6Kx8IyOABZFklKpaX) | [再次心跳](https://open.spotify.com/album/1aU3bXT5CzYZzQcN9Fjxo5) | 3:47 | 2022-04-11 |  |
+| [告白前先看天氣預報](https://open.spotify.com/track/1GAfR4IbqnlcPjPTEX9Dsj) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [告白前先看天氣預報](https://open.spotify.com/album/4Y0y0ILM5EqAwMvp7Fzx1Z) | 3:39 | 2024-07-26 |  |
 | [告解](https://open.spotify.com/track/3PwDqry55vGgX2XTM1eCH0) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [全身暑假](https://open.spotify.com/album/5M9LDQg2aGqBqoMenSmcXO) | 4:31 | 2022-04-11 |  |
 | [嗰一晚 \(feat.OJ\)](https://open.spotify.com/track/3Y0kbp5xGJMk08m3lkOpYL) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [嗰一晚 \(feat.OJ\)](https://open.spotify.com/album/1BsPa137X76tHyPl4dt3kU) | 3:26 | 2022-09-20 |  |
 | [困獸‧28](https://open.spotify.com/track/5xe1gdm6N93e3FUiXZ56dZ) | [Juno Mak](https://open.spotify.com/artist/6YlGm6QDrC3TOknYcHjt62) | [困獸‧28](https://open.spotify.com/album/4Pl6wegTNGMm2nFy9Z5jPl) | 4:27 | 2022-04-11 |  |

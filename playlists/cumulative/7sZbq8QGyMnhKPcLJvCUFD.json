@@ -4559,6 +4559,28 @@
     },
     {
       "album": {
+        "name": "GRAVE",
+        "url": "https://open.spotify.com/album/0xV9TQ7uAualR9FJCq4tpC"
+      },
+      "artists": [
+        {
+          "name": "HOWL",
+          "url": "https://open.spotify.com/artist/3NyPbU40Aed5xYRjuITmGJ"
+        },
+        {
+          "name": "Idle Days",
+          "url": "https://open.spotify.com/artist/6wx2DYiNYOG3HGQYQSBb9j"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217931,
+      "name": "GRAVE",
+      "url": "https://open.spotify.com/track/6HkXTvTkPrgvZLgmsdM7aN"
+    },
+    {
+      "album": {
         "name": "Grey",
         "url": "https://open.spotify.com/album/5f5rP12PmCuKQIwcGfmfCs"
       },
@@ -7931,6 +7953,36 @@
     },
     {
       "album": {
+        "name": "Overdose (Remixes)",
+        "url": "https://open.spotify.com/album/4p3dVr8xYrBj1Mo0tVFD7t"
+      },
+      "artists": [
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        },
+        {
+          "name": "Andrew A",
+          "url": "https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx"
+        },
+        {
+          "name": "Tatsunoshin",
+          "url": "https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP"
+        },
+        {
+          "name": "David Allen",
+          "url": "https://open.spotify.com/artist/1KlBo98Vn0xHQZuLUhyrwe"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170709,
+      "name": "Overdose - Tatsunoshin Remix",
+      "url": "https://open.spotify.com/track/0iQCOjsrWC7JL7dQSUH1FH"
+    },
+    {
+      "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/5Tp0z2WyBNhie2ryMj0q2A"
       },
@@ -8478,6 +8530,24 @@
       "duration_ms": 148000,
       "name": "Pushing On",
       "url": "https://open.spotify.com/track/2eK7XCveaHytVpdCdzVwtp"
+    },
+    {
+      "album": {
+        "name": "Puzzle (2024 Edit)",
+        "url": "https://open.spotify.com/album/65PUjwgG91udnF5gpXroOn"
+      },
+      "artists": [
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173144,
+      "name": "Puzzle - 2024 Edit",
+      "url": "https://open.spotify.com/track/7FyXbLwHkDF0HZl36wvRqV"
     },
     {
       "album": {

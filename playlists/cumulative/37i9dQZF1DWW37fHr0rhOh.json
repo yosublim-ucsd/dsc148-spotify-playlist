@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Always there, always true!  These are the songs, old and new, you can count on time after time.  Cover: <a href=\"spotify:artist:0pjLiK5qb4Zr0PWRNkdd2o\">Gatiher Vocal Band</a>",
+  "description": "Always there, always true!  These are the songs, old and new, you can count on time after time.  Cover: <a href=\"spotify:artist:4B43yyRlfQgDEhDPq35wUc\">The Collingsworth Family</a>",
   "name": "Faithful Melodies",
   "tracks": [
     {
@@ -785,6 +785,24 @@
     },
     {
       "album": {
+        "name": "I Know What A Savior He Is",
+        "url": "https://open.spotify.com/album/05l0TRzsJSsd0IAa6XuVQj"
+      },
+      "artists": [
+        {
+          "name": "Mark Lowry",
+          "url": "https://open.spotify.com/artist/7DpnqUope0VrBdoh4T5Uod"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231493,
+      "name": "I Know What A Savior He Is",
+      "url": "https://open.spotify.com/track/51F4xLMawZffSmUsq4PPlx"
+    },
+    {
+      "album": {
         "name": "Signature Ballads",
         "url": "https://open.spotify.com/album/0qPhdxk11wSGjWE1nmQryP"
       },
@@ -894,10 +912,28 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 262986,
       "name": "I'm Free",
       "url": "https://open.spotify.com/track/7sJYXxNbkg9ZWXUhMPnoUT"
+    },
+    {
+      "album": {
+        "name": "I'm Lovin' Life",
+        "url": "https://open.spotify.com/album/385sDDalQtUkJTckSTdlgt"
+      },
+      "artists": [
+        {
+          "name": "Joseph Habedank",
+          "url": "https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160506,
+      "name": "I'm Lovin' Life",
+      "url": "https://open.spotify.com/track/62xUNQ4M5OOyb8Pe4QsZpJ"
     },
     {
       "album": {
@@ -1184,7 +1220,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 185278,
       "name": "Mansions",
       "url": "https://open.spotify.com/track/1ThBVdpOtpEVQzaDKjLJiG"
@@ -1558,6 +1594,24 @@
       "duration_ms": 350715,
       "name": "Power In The Blood (We Give Thanks For The Blood)",
       "url": "https://open.spotify.com/track/4mjXGn3CoT6vmA24S8p8Pm"
+    },
+    {
+      "album": {
+        "name": "Classics & Hymns",
+        "url": "https://open.spotify.com/album/5tmLIEQ2tnzgwkBmOLpTSo"
+      },
+      "artists": [
+        {
+          "name": "The Collingsworth Family",
+          "url": "https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253253,
+      "name": "Praise The Lord",
+      "url": "https://open.spotify.com/track/68S8yrEhuLUrJtvFgkBiq3"
     },
     {
       "album": {
@@ -2628,7 +2682,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 304560,
       "name": "We'll Understand it Better By and By / Heaven's Jubilee",
       "url": "https://open.spotify.com/track/2jFUIO0Mg2U1HmqULBK3ZY"

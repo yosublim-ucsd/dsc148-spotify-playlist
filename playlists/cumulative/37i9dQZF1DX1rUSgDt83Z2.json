@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 209963,
       "name": "Chase My Heart Away (Hero)",
       "url": "https://open.spotify.com/track/0dX23H5gyR8CyaPLYN5hnP"
@@ -240,7 +240,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 224533,
       "name": "Good To You",
       "url": "https://open.spotify.com/track/0c8lSIQejPTJPKJ8fgA7eW"
@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Kom Met Me Dansen",
+        "url": "https://open.spotify.com/album/6kCO8tjI1Tzs9jWH9v66e3"
+      },
+      "artists": [
+        {
+          "name": "Krystl",
+          "url": "https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240249,
+      "name": "Kom Met Me Dansen",
+      "url": "https://open.spotify.com/track/3F6BHPhUkM5jKzpzJAxw90"
+    },
+    {
+      "album": {
         "name": "Let You Go",
         "url": "https://open.spotify.com/album/5f0BeyC7OKitwUPFjZl6IW"
       },
@@ -464,6 +482,24 @@
       "duration_ms": 181951,
       "name": "Maar Niet Met Jou Erbij",
       "url": "https://open.spotify.com/track/1mYqzZR5sfv0zZhgtyUsna"
+    },
+    {
+      "album": {
+        "name": "Los",
+        "url": "https://open.spotify.com/album/6bgCKabxQJRfIMpQw0oi0f"
+      },
+      "artists": [
+        {
+          "name": "Reyck",
+          "url": "https://open.spotify.com/artist/36t2vlP5OiRO1G7EgxgNvU"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183966,
+      "name": "Middenweg",
+      "url": "https://open.spotify.com/track/3b9LcqTuGaPtQigdbyuFZE"
     },
     {
       "album": {
@@ -608,7 +644,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 183518,
       "name": "Rock \u2018n Roll in Nederland",
       "url": "https://open.spotify.com/track/5M8nfeMKcqbl6oROJqxDgE"
@@ -832,6 +868,24 @@
       "duration_ms": 223306,
       "name": "The Story Ain't Over Yet",
       "url": "https://open.spotify.com/track/0FFzjVyx9nfRxl9QpBvH68"
+    },
+    {
+      "album": {
+        "name": "Thuis & Vliegen",
+        "url": "https://open.spotify.com/album/4qLWvDi7OaLGMpkfQdxIzw"
+      },
+      "artists": [
+        {
+          "name": "VOS",
+          "url": "https://open.spotify.com/artist/0l8iUSzBzrpKtRAa8norAw"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149160,
+      "name": "Thuis & Vliegen",
+      "url": "https://open.spotify.com/track/4QU7b7cffYGrzVk0jayBeA"
     },
     {
       "album": {

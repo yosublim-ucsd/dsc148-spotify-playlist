@@ -4,7 +4,7 @@
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-284 songs - 17 hr 22 min
+285 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Columbus Stockade Blues](https://open.spotify.com/track/0FAABg7HNTAASCZSCKXQgK) | [Jacob Jolliff](https://open.spotify.com/artist/65gpYGwwgux5q7nr9mcxtr) | [Columbus Stockade Blues](https://open.spotify.com/album/7zUsgWsG5m3N6aM9TOEZxP) | 3:20 | 2022-06-17 | 2022-07-15 |
 | [Coming Down from Green Mountain](https://open.spotify.com/track/6mQ3VQn9TEZaIuzvnkQm2I) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK) | 4:20 | 2021-12-03 |  |
 | [Commencement](https://open.spotify.com/track/7DhlCi536R0nnOewj8pgUq) | [Chandler Beavers](https://open.spotify.com/artist/0O4QuWDJqAFumy2JFr4Srv), [Jeremy Garrett](https://open.spotify.com/artist/75j2lBW6hHJNAbEjm6Wi14), [Jake Eddy](https://open.spotify.com/artist/7qxSMvd1FcjpR87E0vITu4), [Josh Underwood](https://open.spotify.com/artist/4upiWSmYVqXrrwX31Lef3K) | [Commencement](https://open.spotify.com/album/1jDsr7E1Nh5SqkLqbHgfV2) | 4:51 | 2023-01-20 |  |
+| [Concrete and Steel](https://open.spotify.com/track/4py2tahEW31c0KfKIZFVE1) | [Off the Rails](https://open.spotify.com/artist/5IQJ1whqwZ6KxBfEhTwAQn) | [Concrete and Steel](https://open.spotify.com/album/0T9mLuAz73gyFfAiyEBfCD) | 4:11 | 2024-07-26 |  |
 | [Conway](https://open.spotify.com/track/4KRmlVMCGwF5mOf9fLC6NJ) | [Benson](https://open.spotify.com/artist/6bPV28MZGhKrAelauCkYto), [Kristin Scott Benson](https://open.spotify.com/artist/7GmvUtieBmMajFTqGY7WVD), [Wayne Benson](https://open.spotify.com/artist/64RUphSmKMjOuGBDbTs3Ac) | [Conway](https://open.spotify.com/album/2gxQWRKUiTvcjGm2t9AWIH) | 3:18 | 2022-02-18 | 2022-04-26 |
 | [Creatures of Havoc](https://open.spotify.com/track/7koZ2Ddvfzr5AXMmWRLkL2) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Shadowgrass](https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1) | 4:52 | 2022-04-29 |  |
 | [Cripple Creek](https://open.spotify.com/track/7fqY4vS7K3kxbQLNmmyt8Y) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Just Around the Bend: Survival and Revival in Southern Banjo Sounds \- Mike Seeger's Last Documentary](https://open.spotify.com/album/7yBEb8FGqXKtzLzsCf93gg) | 1:26 | 2022-12-03 |  |
@@ -248,7 +249,7 @@
 | [The Road to Malvern](https://open.spotify.com/track/6McZUgikkzu7x5es9FazPA) | [John Reischman](https://open.spotify.com/artist/1ubUHb8iKwJ3LsVJkVvBgt), [Scott Nygaard](https://open.spotify.com/artist/7pegCNQWY8d3F3Rvy9PkXF), [Sharon Gilchrist](https://open.spotify.com/artist/09rxAugrQG94CtwBosZBYx) | [The Harmonic Tone Revealers](https://open.spotify.com/album/12hPjsQFMQxay87boAV9jd) | 3:23 | 2021-12-03 | 2022-07-23 |
 | [The Trailblazer](https://open.spotify.com/track/6XwSoj31OGTt9CjkzyzjOf) | [Mark Grundhoefer](https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w), [David Brimer](https://open.spotify.com/artist/668Oojl6P3J0BOUymsWnOh) | [The Trailblazer](https://open.spotify.com/album/2sEQOzIpCE5HHqyvZD7xpy) | 2:46 | 2023-09-01 |  |
 | [The Train](https://open.spotify.com/track/72PHXtULIZTLdHtO5w5PPi) | [Connor Jay Liess](https://open.spotify.com/artist/2sZuJVwjC40tfKKD1Zf0bm) | [Highball Bruiser](https://open.spotify.com/album/3LjIY7tkiQmIXpoUOyZpnH) | 8:06 | 2023-01-20 | 2023-02-02 |
-| [There Is Power in the Blood](https://open.spotify.com/track/44e9foUE9X9WNuSuW0rrNB) | [High Fidelity](https://open.spotify.com/artist/34bKWGpOaWlussfYQW71EO) | [Music In My Soul](https://open.spotify.com/album/0HLMvCeIF5bl6QT5mi0waL) | 2:26 | 2024-07-13 |  |
+| [There Is Power in the Blood](https://open.spotify.com/track/44e9foUE9X9WNuSuW0rrNB) | [High Fidelity](https://open.spotify.com/artist/34bKWGpOaWlussfYQW71EO) | [Music In My Soul](https://open.spotify.com/album/0HLMvCeIF5bl6QT5mi0waL) | 2:26 | 2024-07-13 | 2024-07-27 |
 | [Thousand Dollar Holler](https://open.spotify.com/track/2OICtTWaGqmdmoi3BetlxB) | [Michael Cleveland](https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk) | [Lovin' Of The Game](https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg) | 3:08 | 2023-03-03 |  |
 | [Tombstone Junction](https://open.spotify.com/track/1j9lPZgn3NoXELxBVB0uaN) | [Michael Prewitt](https://open.spotify.com/artist/4s2da3g2gHWyQ4Ybz5hRBE) | [Tombstone Junction](https://open.spotify.com/album/6NUtE5zHsAqYpTcvtOd5YV) | 5:08 | 2024-02-09 | 2024-06-01 |
 | [Town's End](https://open.spotify.com/track/6fpL9QnornxpYhhWw6aWyM) | [George Jackson](https://open.spotify.com/artist/22k9oyPcLzjnKokhSHoFV7), [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [Town's End](https://open.spotify.com/album/3YS90lzcD6JYYdT3wlB8nz) | 3:26 | 2021-12-03 |  |

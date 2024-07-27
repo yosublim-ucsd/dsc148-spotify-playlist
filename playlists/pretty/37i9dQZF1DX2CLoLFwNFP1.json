@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 39636,
+  "num_followers": 39732,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
@@ -1204,13 +1204,17 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "punchnello",
-          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
         }
       ],
-      "duration_ms": 178374,
-      "name": "Deep Sea DRIP",
-      "url": "https://open.spotify.com/track/4zen70nrIu9vatpZfA1tUu"
+      "duration_ms": 209374,
+      "name": "Out Of Place",
+      "url": "https://open.spotify.com/track/5VYl258IBjtiyMRKxGbMEl"
     },
     {
       "added_at": "2024-07-02 08:45:37",
@@ -1268,17 +1272,13 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
         }
       ],
-      "duration_ms": 209374,
-      "name": "Out Of Place",
-      "url": "https://open.spotify.com/track/5VYl258IBjtiyMRKxGbMEl"
+      "duration_ms": 178374,
+      "name": "Deep Sea DRIP",
+      "url": "https://open.spotify.com/track/4zen70nrIu9vatpZfA1tUu"
     },
     {
       "added_at": "2024-07-02 08:45:37",
@@ -2163,6 +2163,26 @@
     {
       "added_at": "2024-07-02 08:45:37",
       "album": {
+        "name": "Everything You Wanted",
+        "url": "https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "ELO",
+          "url": "https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1"
+        }
+      ],
+      "duration_ms": 243492,
+      "name": "\uc804\ud654\uae30\ub97c \uaebc\ub194 Turn Off Your Phone (feat. Elo) [Remix]",
+      "url": "https://open.spotify.com/track/35cLEBxDOme6iln8X7IxVe"
+    },
+    {
+      "added_at": "2024-07-02 08:45:37",
+      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/5nDgTF3gUrgk9UZmUHonhp"
       },
@@ -2191,6 +2211,46 @@
       "duration_ms": 252367,
       "name": "Aquaman",
       "url": "https://open.spotify.com/track/6XyFNu5mbPcIIdiTCHS3qH"
+    },
+    {
+      "added_at": "2024-07-02 08:45:37",
+      "album": {
+        "name": "ENGINE",
+        "url": "https://open.spotify.com/album/4vDAFQNHJfcpq8sK4Ggop2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "duration_ms": 220717,
+      "name": "ENGINE",
+      "url": "https://open.spotify.com/track/7m0AVCxRcpR8Q5j1tUICVT"
+    },
+    {
+      "added_at": "2024-07-02 08:45:37",
+      "album": {
+        "name": "Scene Stealers",
+        "url": "https://open.spotify.com/album/6eqexjjzD9jIMheYt4p5qP"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Ugly Duck",
+          "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1"
+        }
+      ],
+      "duration_ms": 277737,
+      "name": "Ain\u2019t No Party Like an AOMG Party",
+      "url": "https://open.spotify.com/track/3CzPGSRkE7gaipkc2MVErN"
     },
     {
       "added_at": "2024-07-02 08:45:37",
@@ -2239,46 +2299,6 @@
     {
       "added_at": "2024-07-02 08:45:37",
       "album": {
-        "name": "ENGINE",
-        "url": "https://open.spotify.com/album/4vDAFQNHJfcpq8sK4Ggop2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        }
-      ],
-      "duration_ms": 220717,
-      "name": "ENGINE",
-      "url": "https://open.spotify.com/track/7m0AVCxRcpR8Q5j1tUICVT"
-    },
-    {
-      "added_at": "2024-07-02 08:45:37",
-      "album": {
-        "name": "Scene Stealers",
-        "url": "https://open.spotify.com/album/6eqexjjzD9jIMheYt4p5qP"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Ugly Duck",
-          "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1"
-        }
-      ],
-      "duration_ms": 277737,
-      "name": "Ain\u2019t No Party Like an AOMG Party",
-      "url": "https://open.spotify.com/track/3CzPGSRkE7gaipkc2MVErN"
-    },
-    {
-      "added_at": "2024-07-02 08:45:37",
-      "album": {
         "name": "Everything You Wanted",
         "url": "https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE"
       },
@@ -2307,26 +2327,6 @@
       "duration_ms": 223013,
       "name": "All The Way Up (K)",
       "url": "https://open.spotify.com/track/6lp2MvqEBSdL3L84GAvl4o"
-    },
-    {
-      "added_at": "2024-07-02 08:45:37",
-      "album": {
-        "name": "Yacht (K) (feat. Sik-K)",
-        "url": "https://open.spotify.com/album/7s6Cjus2U5giBB0mZxN2jl"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        }
-      ],
-      "duration_ms": 246284,
-      "name": "Yacht (K) [feat. Sik-K]",
-      "url": "https://open.spotify.com/track/4O6aJs7sGvhcnMVOwCHC45"
     }
   ],
   "unique_name": "This Is Jay Park",

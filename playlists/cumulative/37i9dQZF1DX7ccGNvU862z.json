@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Rhyme Elite Artist League \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: HumbleP",
+  "description": "Rhyme Elite Artist League \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ZENTYARB",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 204879,
       "name": "9MARES4EVER",
       "url": "https://open.spotify.com/track/66U1dP3MYSEWcFiOfFlcKL"
@@ -4579,6 +4579,28 @@
     },
     {
       "album": {
+        "name": "\u0e08\u0e30\u0e23\u0e35\u0e1a\u0e44\u0e1b\u0e44\u0e2b\u0e19\u0e17\u0e33\u0e44\u0e21\u0e44\u0e21\u0e48\u0e19\u0e2d\u0e19\u0e19\u0e35\u0e48",
+        "url": "https://open.spotify.com/album/4NAYGzOmYbr743suH0iHG2"
+      },
+      "artists": [
+        {
+          "name": "Rifle",
+          "url": "https://open.spotify.com/artist/3Kyev97NB5IuMYwMP1Ea2D"
+        },
+        {
+          "name": "DAW",
+          "url": "https://open.spotify.com/artist/3GcRmAFjv0E4SaisYqJHyp"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "\u0e08\u0e30\u0e23\u0e35\u0e1a\u0e44\u0e1b\u0e44\u0e2b\u0e19\u0e17\u0e33\u0e44\u0e21\u0e44\u0e21\u0e48\u0e19\u0e2d\u0e19\u0e19\u0e35\u0e48",
+      "url": "https://open.spotify.com/track/3UwrAJaeOqVCm0irEWcxy7"
+    },
+    {
+      "album": {
         "name": "\u0e08\u0e32\u0e01",
         "url": "https://open.spotify.com/album/2NTEKjmCE1w1tr6ILTGxXP"
       },
@@ -5743,6 +5765,42 @@
     },
     {
       "album": {
+        "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e44\u0e2b\u0e25 (High)",
+        "url": "https://open.spotify.com/album/1BW3Aq7GCarLeUMHTdwqmA"
+      },
+      "artists": [
+        {
+          "name": "URBOYTJ",
+          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167079,
+      "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e44\u0e2b\u0e25 - High",
+      "url": "https://open.spotify.com/track/5sW5R4Ofm9zfBuN1jX8MsV"
+    },
+    {
+      "album": {
+        "name": "\u0e1b\u0e34\u0e14\u0e01\u0e32\u0e23\u0e21\u0e2d\u0e07\u0e40\u0e2b\u0e47\u0e19 ( mute )",
+        "url": "https://open.spotify.com/album/2QpQOjroxRtP2AuLw22zfU"
+      },
+      "artists": [
+        {
+          "name": "IRONBOY",
+          "url": "https://open.spotify.com/artist/7GLqyoZnu5jGVWvGBulrne"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193695,
+      "name": "\u0e1b\u0e34\u0e14\u0e01\u0e32\u0e23\u0e21\u0e2d\u0e07\u0e40\u0e2b\u0e47\u0e19 ( mute )",
+      "url": "https://open.spotify.com/track/3Hm4US0LWWPha36RSMMxDO"
+    },
+    {
+      "album": {
         "name": "\u0e1b\u0e35\u0e43\u0e2b\u0e21\u0e48\u0e1b\u0e35\u0e19\u0e35\u0e49",
         "url": "https://open.spotify.com/album/0zPVnLboeFI8tYarkXnxJh"
       },
@@ -5894,7 +5952,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 164000,
       "name": "\u0e1e\u0e2d\u0e44\u0e14\u0e49\u0e41\u0e25\u0e49\u0e27",
       "url": "https://open.spotify.com/track/72LSBDgovfMyaWvokiZNJt"
@@ -8074,7 +8132,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 196173,
       "name": "\u0e40\u0e2d\u0e32\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e39\u0e48",
       "url": "https://open.spotify.com/track/48p0M7URx39vyHSVhKaWtf"
@@ -8108,6 +8166,24 @@
       "duration_ms": 198000,
       "name": "\u0e41\u0e02\u0e01\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e23\u0e31\u0e1a\u0e40\u0e0a\u0e34\u0e0d",
       "url": "https://open.spotify.com/track/43zAOwpvxOLah65nZfybxZ"
+    },
+    {
+      "album": {
+        "name": "The Last Lover",
+        "url": "https://open.spotify.com/album/3GEWyzkCyd3bX6w4tkoH9W"
+      },
+      "artists": [
+        {
+          "name": "ZENTYARB",
+          "url": "https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256500,
+      "name": "\u0e41\u0e04\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e23\u0e39\u0e49",
+      "url": "https://open.spotify.com/track/5xgcAUHWw5xvreNq1W0m4M"
     },
     {
       "album": {
@@ -8966,7 +9042,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 198000,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e43\u0e04\u0e23",
       "url": "https://open.spotify.com/track/0e9dJ3S5EMxTyMtBZdz3z2"

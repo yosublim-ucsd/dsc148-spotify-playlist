@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e07\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: \u0e2d\u0e30\u0e15\u0e2d\u0e21 \u0e0a\u0e19\u0e01\u0e31\u0e19\u0e15\u0e4c",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e07\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: URBOYTJ",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 167100,
       "name": "All The Way Home",
       "url": "https://open.spotify.com/track/3lNxMw1toz8dCBt0wx9DWf"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 212734,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 148394,
       "name": "Love & Secret",
       "url": "https://open.spotify.com/track/2Uj75SjWw9utBe64kYbUU8"
@@ -280,6 +280,24 @@
       "duration_ms": 246923,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/1EOWBTE1GPKcxz3wlR08tW"
+    },
+    {
+      "album": {
+        "name": "Magic Moment",
+        "url": "https://open.spotify.com/album/7nizmQvxMgpxVXnM9JabPf"
+      },
+      "artists": [
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238021,
+      "name": "Magic Moment",
+      "url": "https://open.spotify.com/track/2otCi4F9Xh6pAVQjnHcjeI"
     },
     {
       "album": {
@@ -316,7 +334,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 156988,
       "name": "Mamushi (feat. Yuki Chiba)",
       "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
@@ -576,7 +594,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -1018,7 +1036,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 252897,
       "name": "\u0e15\u0e49\u0e32\u0e19\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 (magnetize)",
       "url": "https://open.spotify.com/track/5HTpwZZ7Xg5YRSbwrkvnZG"
@@ -1141,6 +1159,24 @@
     },
     {
       "album": {
+        "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e44\u0e2b\u0e25 (High)",
+        "url": "https://open.spotify.com/album/1BW3Aq7GCarLeUMHTdwqmA"
+      },
+      "artists": [
+        {
+          "name": "URBOYTJ",
+          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167079,
+      "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e44\u0e2b\u0e25 - High",
+      "url": "https://open.spotify.com/track/5sW5R4Ofm9zfBuN1jX8MsV"
+    },
+    {
+      "album": {
         "name": "\u0e1c\u0e39\u0e01\u0e1e\u0e31\u0e19\u0e15\u0e49\u0e2d\u0e07\u0e25\u0e32",
         "url": "https://open.spotify.com/album/0cwGiZR0Gm9vIlbLORcjyk"
       },
@@ -1185,6 +1221,24 @@
     },
     {
       "album": {
+        "name": "\u0e25\u0e2d\u0e07 La Bye",
+        "url": "https://open.spotify.com/album/4aZGj6rbnw9dVLj9u99V66"
+      },
+      "artists": [
+        {
+          "name": "QLER",
+          "url": "https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195789,
+      "name": "\u0e1e\u0e23\u0e23\u0e04\u0e14\u0e35 (Yellow Heart)",
+      "url": "https://open.spotify.com/track/12QO9VD6rIipEV0kkzk8Xr"
+    },
+    {
+      "album": {
         "name": "\u0e1e\u0e35\u0e48\u0e04\u0e07\u0e44\u0e21\u0e48\u0e0a\u0e2d\u0e1a\u0e1c\u0e21\u0e2b\u0e23\u0e2d\u0e01",
         "url": "https://open.spotify.com/album/6dOWpIUDYJSmJJia9G8nfB"
       },
@@ -1226,6 +1280,28 @@
       "duration_ms": 186466,
       "name": "\u0e1e\u0e35\u0e48\u0e0a\u0e2d\u0e1a\u0e2b\u0e19\u0e39\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e40\u0e25\u0e22",
       "url": "https://open.spotify.com/track/7mVobUmGP12Y5SQJgBice3"
+    },
+    {
+      "album": {
+        "name": "\u0e21\u0e2d\u0e07\u0e2b\u0e19\u0e49\u0e32\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e15\u0e34\u0e14 (Awkward)",
+        "url": "https://open.spotify.com/album/5A9qLyfqNjHrMHyMrrGwNo"
+      },
+      "artists": [
+        {
+          "name": "Oat Pramote",
+          "url": "https://open.spotify.com/artist/6IjkVLH49YhlZiz4TOHJZv"
+        },
+        {
+          "name": "MAIYARAP",
+          "url": "https://open.spotify.com/artist/2Z46qERPhL8sV85NMFTkaK"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214166,
+      "name": "\u0e21\u0e2d\u0e07\u0e2b\u0e19\u0e49\u0e32\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e15\u0e34\u0e14 (Awkward)",
+      "url": "https://open.spotify.com/track/6Wkv4R01FhXrQlo2al9tGU"
     },
     {
       "album": {
@@ -1619,6 +1695,24 @@
     },
     {
       "album": {
+        "name": "\u0e2d\u0e35\u0e01\u0e2a\u0e31\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07",
+        "url": "https://open.spotify.com/album/4lZ4coRqcqMKvMrlG0ReGN"
+      },
+      "artists": [
+        {
+          "name": "CORNBOI",
+          "url": "https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250200,
+      "name": "\u0e2d\u0e35\u0e01\u0e2a\u0e31\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07",
+      "url": "https://open.spotify.com/track/1u8t3ijcMISRh2N87qZMS4"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e01\u0e48\u0e07\u0e41\u0e15\u0e48\u0e25\u0e31\u0e1a\u0e2b\u0e25\u0e31\u0e07",
         "url": "https://open.spotify.com/album/0LNl7udObdHyH8Kg9JxHuO"
       },
@@ -1674,6 +1768,24 @@
       "duration_ms": 240749,
       "name": "\u0e40\u0e08\u0e47\u0e1a\u0e41\u0e25\u0e49\u0e27\u0e0a\u0e48\u0e27\u0e22\u0e08\u0e33",
       "url": "https://open.spotify.com/track/6S9GIUA6QQQdun9SGQt338"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e08\u0e49\u0e32\u0e19\u0e32\u0e22\u0e04\u0e30 (work-life imbalance)",
+        "url": "https://open.spotify.com/album/0t25nmW4kpr2fg57utsNBH"
+      },
+      "artists": [
+        {
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177529,
+      "name": "\u0e40\u0e08\u0e49\u0e32\u0e19\u0e32\u0e22\u0e04\u0e30 (work-life imbalance)",
+      "url": "https://open.spotify.com/track/4eGbdMignjZYorZK8oZDkB"
     },
     {
       "album": {

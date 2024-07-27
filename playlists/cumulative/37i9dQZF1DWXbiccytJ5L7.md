@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow.
 
-133 songs - 7 hr 15 min
+134 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,11 +80,12 @@
 | [I Break Down](https://open.spotify.com/track/3HrgCysmgDJpAGRrigxEq6) | [FJ Outlaw](https://open.spotify.com/artist/7LOfwXilquLSyzg493dPwJ), [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz) | [Broken](https://open.spotify.com/album/0vFFeehyxP9DIMR4gGpXap) | 3:00 | 2023-03-17 | 2024-04-19 |
 | [I Break Down](https://open.spotify.com/track/5mcePHeMAUwHNOsh5bDNJU) | [FJ Outlaw](https://open.spotify.com/artist/7LOfwXilquLSyzg493dPwJ), [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz) | [Broken](https://open.spotify.com/album/3rFkyJX6pMbRmz9jaskhdz) | 3:00 | 2024-04-19 |  |
 | [I Mow, I Till](https://open.spotify.com/track/7xOSlsorO1COjKfIdVk5t7) | [Redneck Souljers](https://open.spotify.com/artist/5FY8IkeSIChD7WcmPPH5NW) | [Tiller Gang](https://open.spotify.com/album/0NJcvtv173uUae6NFosCIl) | 4:20 | 2023-03-17 |  |
-| [Ice Cold Beer](https://open.spotify.com/track/75v3gVrFHQtF4NGEZ2c1mk) | [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq) | [Ice Cold Beer](https://open.spotify.com/album/25yf9bONSui3K2g4XdBwAx) | 2:40 | 2023-08-18 |  |
+| [Ice Cold Beer](https://open.spotify.com/track/75v3gVrFHQtF4NGEZ2c1mk) | [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq) | [Ice Cold Beer](https://open.spotify.com/album/25yf9bONSui3K2g4XdBwAx) | 2:40 | 2023-08-18 | 2024-07-27 |
 | [If That Ain't Country](https://open.spotify.com/track/2bWaQyC68Bt7FSXCACY2aN) | [Jessta James](https://open.spotify.com/artist/35Gl3ugDwfqKvwOrlHcQqK) | [Time to Get Right](https://open.spotify.com/album/5DULWTKKsU4R7aXFOfo3OB) | 4:15 | 2023-03-17 |  |
 | [Illinois Cowboy](https://open.spotify.com/track/0lh8NRCuusAHwujpALAD00) | [Kid Ziggy](https://open.spotify.com/artist/6jTPmZmVoj8iOxD7Lv2XC4), [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [Illinois Cowboy](https://open.spotify.com/album/7D5MSopZVBnrUDmLCQ4j79) | 2:30 | 2023-04-21 |  |
 | [Jesus Was a Redneck](https://open.spotify.com/track/0UbXLwB8mO5zPnzh5UARcU) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Brandon Hartt](https://open.spotify.com/artist/2I1y08CRzIMouGeCYzPVMb) | [Jesus Was a Redneck](https://open.spotify.com/album/2h3SMhJNqfzYnxMdZS7mJB) | 2:26 | 2023-06-30 |  |
 | [Kickin It In Tennessee](https://open.spotify.com/track/00tjbaCO1fXTdFdCrQH09L) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [American Made](https://open.spotify.com/album/1etK14fl8H9iwvaaEBobXU) | 4:28 | 2023-03-17 |  |
+| [King of Ca$hville](https://open.spotify.com/track/14iJQEf3h8CU0n0vstNEj1) | [Kountry Boi](https://open.spotify.com/artist/4sPLPkzmZHiEvpkIKSjUOT), [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq), [Colt Graves](https://open.spotify.com/artist/26YgSVVJxvx1LQsollyBjQ) | [King of Ca$hville](https://open.spotify.com/album/287Yi7kvHlUjp6a1glkXTZ) | 3:07 | 2024-07-26 |  |
 | [Kinna Wanna](https://open.spotify.com/track/384pDNdIcOq4bAQSYthQkb) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP) | [Kinna Wanna](https://open.spotify.com/album/1zPwfwHZaTH8qRg7NWhvTL) | 2:16 | 2023-09-22 |  |
 | [Knock 'Em Dead](https://open.spotify.com/track/2bGNFu7Hp1ZZFEaJEWy7ln) | [Sarah Ross](https://open.spotify.com/artist/6BHFfCwwWCOGRNSZAxNvrk) | [Mud Digger 4](https://open.spotify.com/album/2RG6477nEGHWCoyVCi7dSh) | 3:30 | 2023-03-17 |  |
 | [Kuntry Till I Die](https://open.spotify.com/track/3KXgEbDeVZc8AeOKQkt7hw) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9), [SB the Queen](https://open.spotify.com/artist/6KqXuBuC5LedSWM73bixOa) | [Kuntry Till I Die](https://open.spotify.com/album/5UphQrCEMtGP9d2jTDbl02) | 4:02 | 2023-10-27 |  |

@@ -4980,7 +4980,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 228000,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/2VzDnx8nvCTVLCI4n4BOVo"
@@ -7397,6 +7397,24 @@
     },
     {
       "album": {
+        "name": "\u5927\u3061\u3083\u3093",
+        "url": "https://open.spotify.com/album/7pOmlwfy3Kh71aJkrEYPz2"
+      },
+      "artists": [
+        {
+          "name": "\u3061\u3083\u3093\u3074\u304a\u3093\u305a",
+          "url": "https://open.spotify.com/artist/4x5vhtkvb28ZFnA8L3e9JV"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142509,
+      "name": "\u5927\u3061\u3083\u3093",
+      "url": "https://open.spotify.com/track/4XZWE3Wwis8Sml6kV216Xy"
+    },
+    {
+      "album": {
         "name": "\u5927\u4e08\u592b",
         "url": "https://open.spotify.com/album/5bNqsQHsqnaJNxuldgPkDa"
       },
@@ -7524,7 +7542,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 212400,
       "name": "\u5b50\u4f9b\u3058\u3083\u306a\u3044\u3082\u309317",
       "url": "https://open.spotify.com/track/4nhpXuVrWrb6oZ8alKN2Ez"

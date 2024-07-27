@@ -2474,6 +2474,24 @@
     {
       "album": {
         "name": "Running Up That Hill",
+        "url": "https://open.spotify.com/album/6GDqTCVEKa6QKUoGANeg1Y"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151603,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/3dysx9aB1Kti0P8K28ZB1e"
+    },
+    {
+      "album": {
+        "name": "Running Up That Hill",
         "url": "https://open.spotify.com/album/0t67C2k4ODzW8atHDODuGJ"
       },
       "artists": [

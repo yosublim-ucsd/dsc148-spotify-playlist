@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Thee Sacred Souls",
-  "num_followers": 341920,
+  "num_followers": 342151,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpnkwAAAAABSgQ/DEvtqk4m4S/gwYxe4",
+  "snapshot_id": "ZqMfQAAAAABgvD+gFftdGODCKOZtNMhw",
   "tracks": [
     {
       "added_at": "2024-06-21 04:00:00",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc"
     },
     {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Never Gonna Take Away My Love",
+        "url": "https://open.spotify.com/album/4WZen6PYsZ5n1eKXP6T1mR"
+      },
+      "artists": [
+        {
+          "name": "Charlie Bereal",
+          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
+        }
+      ],
+      "duration_ms": 252692,
+      "name": "Never Gonna Take Away My Love",
+      "url": "https://open.spotify.com/track/2TO94jb5WRKNU2oayRQ75I"
+    },
+    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "Love Direction",
@@ -55,6 +71,38 @@
       "duration_ms": 178440,
       "name": "Sharpen Your Shovel",
       "url": "https://open.spotify.com/track/0PI0V4qRgLpWG5IBASbpdk"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Wild as a Rainstorm",
+        "url": "https://open.spotify.com/album/2a1NCIpag6kQe7v6K36xLJ"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Collier",
+          "url": "https://open.spotify.com/artist/5WLpN9bFV4liSYhf4J3aVs"
+        }
+      ],
+      "duration_ms": 253404,
+      "name": "Wild as a Rainstorm",
+      "url": "https://open.spotify.com/track/2Zg2gWL8IJAwbd12O4W3jE"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Way You Shine",
+        "url": "https://open.spotify.com/album/0sfmf3mJc7rgaGg3CZXmRv"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "duration_ms": 190820,
+      "name": "Way You Shine",
+      "url": "https://open.spotify.com/track/5RlgjfMCs8KW0AtkqRvyZM"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1487,54 +1535,6 @@
       "duration_ms": 175949,
       "name": "Lover Boy",
       "url": "https://open.spotify.com/track/4wlEw6x7ynK4dfKk47HNtt"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Half Empty",
-        "url": "https://open.spotify.com/album/1RRvzs9YEYGWCunuLpZ3gH"
-      },
-      "artists": [
-        {
-          "name": "Jully Black",
-          "url": "https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd"
-        }
-      ],
-      "duration_ms": 204260,
-      "name": "Half Empty",
-      "url": "https://open.spotify.com/track/5P9r8VUZIn92AsTqe95nbW"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Seasons of Trouble",
-        "url": "https://open.spotify.com/album/3Aveciplay1UjQenjdI1HF"
-      },
-      "artists": [
-        {
-          "name": "Stereo League",
-          "url": "https://open.spotify.com/artist/3iQV9SSzqnUEwlyqUTJLj6"
-        }
-      ],
-      "duration_ms": 292737,
-      "name": "Seasons of Trouble",
-      "url": "https://open.spotify.com/track/3zQ2VVEV6UQ9vCAaCQJDVY"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Truth & Soul",
-        "url": "https://open.spotify.com/album/0d1vlMDPL6j1ebfb4x0sTt"
-      },
-      "artists": [
-        {
-          "name": "Michelle David & The True-tones",
-          "url": "https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj"
-        }
-      ],
-      "duration_ms": 260853,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/1SSdSN70LK45vWndX3twa9"
     },
     {
       "added_at": "2023-09-01 04:00:00",

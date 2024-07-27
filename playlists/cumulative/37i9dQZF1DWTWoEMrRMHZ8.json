@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "Uma",
+        "url": "https://open.spotify.com/album/1oCCHl2dwVAXtODMA14oDZ"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267093,
+      "name": "A Chave",
+      "url": "https://open.spotify.com/track/3zyGnvvjexBjoE2Q8K0uMh"
+    },
+    {
+      "album": {
         "name": "A Chuva Sem Gal",
         "url": "https://open.spotify.com/album/6wLGkIhbIdCXVxUSMwQCxx"
       },
@@ -1464,6 +1482,24 @@
       "duration_ms": 241658,
       "name": "At\u00e9 Que Enfim",
       "url": "https://open.spotify.com/track/03spBIgLyBJgyVt6pZ5Pob"
+    },
+    {
+      "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/6oxI4U6ahuwziH0vuhY7hi"
+      },
+      "artists": [
+        {
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232714,
+      "name": "AURORA",
+      "url": "https://open.spotify.com/track/15EVDrisvrVYHuf0qjclQp"
     },
     {
       "album": {
@@ -3610,7 +3646,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 230441,
       "name": "De: Terra; Para: Humanidade",
       "url": "https://open.spotify.com/track/1n6VdycCDCT3LkTvVJF0vK"
@@ -4210,6 +4246,28 @@
       "duration_ms": 198071,
       "name": "Duas da Manh\u00e3",
       "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
+    },
+    {
+      "album": {
+        "name": "D\u00e1 Pra Ser Feliz",
+        "url": "https://open.spotify.com/album/590OSdBmlpEOe8rVsLYVJs"
+      },
+      "artists": [
+        {
+          "name": "Gina Garcia",
+          "url": "https://open.spotify.com/artist/0fAZVlEXJBxtUOx84fw7gj"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202200,
+      "name": "D\u00e1 Pra Ser Feliz",
+      "url": "https://open.spotify.com/track/4jU74AgC3F0M63YcCJKZGh"
     },
     {
       "album": {
@@ -5064,7 +5122,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 163426,
       "name": "Faz Parte Do Meu Show",
       "url": "https://open.spotify.com/track/2c9cy32pkhuznDXIN0eWMG"
@@ -6702,7 +6760,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 270186,
       "name": "Mal Acostumada",
       "url": "https://open.spotify.com/track/2EnaSv5aZ7vfjlOd2bHDGk"
@@ -8658,10 +8716,32 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 233273,
       "name": "O Barquinho",
       "url": "https://open.spotify.com/track/1wfW4rHqRsodDpnH1fOD5R"
+    },
+    {
+      "album": {
+        "name": "O Beijo \u00e0 Flor",
+        "url": "https://open.spotify.com/album/6K8QyKxzIuEU1w4OwZPvMJ"
+      },
+      "artists": [
+        {
+          "name": "Will Leme",
+          "url": "https://open.spotify.com/artist/4XvFgo1nhoeDpN71tQ4b3H"
+        },
+        {
+          "name": "Casa Amarela",
+          "url": "https://open.spotify.com/artist/0WpQ43GRHEtGhC913ZwXYs"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210680,
+      "name": "O Beijo \u00e0 Flor",
+      "url": "https://open.spotify.com/track/4hZufYnbXHWb0FNuNuXy61"
     },
     {
       "album": {
@@ -10054,6 +10134,24 @@
       "duration_ms": 261056,
       "name": "Planeta V\u00eanus - Ao Vivo no Noites Cariocas",
       "url": "https://open.spotify.com/track/4dpuPTfpY0tvaXsloKKPbE"
+    },
+    {
+      "album": {
+        "name": "Planos do C\u00e9u",
+        "url": "https://open.spotify.com/album/1x9Nsd4WRdCtvuRWwk075V"
+      },
+      "artists": [
+        {
+          "name": "Angela Ro Ro",
+          "url": "https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247146,
+      "name": "Planos do C\u00e9u",
+      "url": "https://open.spotify.com/track/7cw9ocbl12GVol9IZFDjRT"
     },
     {
       "album": {
@@ -13369,6 +13467,24 @@
     },
     {
       "album": {
+        "name": "Terra \u00e0 Vista",
+        "url": "https://open.spotify.com/album/76IDgmIE1ezyNuCXL03tCN"
+      },
+      "artists": [
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129570,
+      "name": "Terra \u00e0 Vista",
+      "url": "https://open.spotify.com/track/2MTdLC9VtPqauahQEFqlEN"
+    },
+    {
+      "album": {
         "name": "Teu Olhar Me Fisgou",
         "url": "https://open.spotify.com/album/7MVqn3OAoOHsCBcGsI0av8"
       },
@@ -13458,7 +13574,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 264154,
       "name": "Tigresa - Ao Vivo no Coala Festival 2022",
       "url": "https://open.spotify.com/track/5LE9mtdwNWyZ1eLkfCB972"

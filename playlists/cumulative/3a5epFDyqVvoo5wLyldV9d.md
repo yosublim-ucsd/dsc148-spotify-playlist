@@ -4,7 +4,7 @@
 
 > 
 
-787 songs - 2 day 13 hr 56 min
+789 songs - 2 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Força Bruta](https://open.spotify.com/track/2ZUszKpDYEPvNWFrxewx94) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Força Bruta](https://open.spotify.com/album/4e9GNzfj6z4LvijhimWXo3) | 5:09 | 2020-10-14 |  |
 | [Free Blow \- Dub Version](https://open.spotify.com/track/0euDP2BUvPMXNoFrjaJm34) | [Tony Benn Feghaly](https://open.spotify.com/artist/63f72ydS3ABU4EnwhGoa3d) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Part 2\) \(Habibi Funk 015\)](https://open.spotify.com/album/2QTAwOmV0lj1S1zGTuipFg) | 5:11 | 2022-04-26 |  |
 | [Frivole de nuit](https://open.spotify.com/track/5Q2yV1wgKENv1XsCTB7nma) | [Laurie Destal](https://open.spotify.com/artist/5w8zUn6bCJGjtxuMJyOdxR) | [Vidal Benjamin présente Disco Sympathie](https://open.spotify.com/album/0DM8soBOZE46omYT1xPJDt) | 8:08 | 2021-03-12 |  |
+| [Fshatarja Ime](https://open.spotify.com/track/6wDhH6ItVhgtrI2SMtscI4) | [Sabri Fejzullahu](https://open.spotify.com/artist/01kw1JZlojs7jcsMHnfyVr) | [Merrma Shiun E Prishtinës](https://open.spotify.com/album/279nOOpIU7dSF3pXCudidz) | 4:20 | 2024-07-27 |  |
 | [Fui à Umbanda](https://open.spotify.com/track/4gYuUKa0QiiVMeUTzNxYoX) | [J.B\. De Carvalho E Seu Terreiro](https://open.spotify.com/artist/7x6k1tasGpw0agBzAu1TpP) | [Mr\. Bongo Record Club, Vol\. 3 \(Compiled by Mr\. Bongo\)](https://open.spotify.com/album/2W50X23ZpQrRbclikWVrdK) | 2:31 | 2021-05-11 |  |
 | [Fulan](https://open.spotify.com/track/3bujm7d5DR9aS5DiJ3u9ou) | [Electric Jalaba](https://open.spotify.com/artist/2SVMaZH6NEo8Xr4LCDbPoA) | [El Hal / The Feeling](https://open.spotify.com/album/1nxPkNoFiy7JRDaHN5nk95) | 4:50 | 2021-07-13 |  |
 | [Fullgás](https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Fullgás](https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP) | 4:07 | 2020-12-20 |  |
@@ -716,6 +717,7 @@
 | [Universo em Desencanto](https://open.spotify.com/track/6URjzNvVL7i3H1jNrIPsjc) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Racional \(Vol 1\)](https://open.spotify.com/album/7J9wATH6I891OTHteIWSEj) | 3:44 | 2021-05-11 |  |
 | [Uurkan Kaadonaya \(I Want You\)](https://open.spotify.com/track/5dbE70S212LvwKxYvvRicF) | [Groupe RTD](https://open.spotify.com/artist/1pVWzEPoVWeAG98sfUyBsm) | [The Dancing Devils of Djibouti](https://open.spotify.com/album/4KwTC2RgaJoBSvmYauNaqg) | 6:48 | 2024-04-29 |  |
 | [Va' Fanculo Con Chi Vuo' Tu](https://open.spotify.com/track/5jPIT1lfFqDX4jH9WxCr0M) | [Squallor](https://open.spotify.com/artist/3GugYoehnJyYjrWcOSZkUO) | [Squallor](https://open.spotify.com/album/7kOyOuz45JgKVaBSrzTiHx) | 3:43 | 2024-01-15 |  |
+| [Vallja E Rugoves Shota](https://open.spotify.com/track/7I2D4I5fLN6CLy2tUJ79xK) | [Valle](https://open.spotify.com/artist/1NcAnVLuHv4OMDa9U87EQt) | [Vallja E Rugoves Shota](https://open.spotify.com/album/1UyahuFsSl0qEb8lCSOLEo) | 3:54 | 2024-07-27 |  |
 | [Vamonos](https://open.spotify.com/track/5EuXInpQgpeEBEcJ2yS97u) | [Elkin & Nelson](https://open.spotify.com/artist/2B6jLXMjMSW7Jf8yBM6rVJ) | [Elkin & Nelson](https://open.spotify.com/album/1pK8v2GvaZlmRbwKfcdsDW) | 9:17 | 2023-03-15 |  |
 | [Vay Dünya](https://open.spotify.com/track/4yISxJJ6KSHLuBd3H3sMv1) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Vay Dünya](https://open.spotify.com/album/2pnpEMJaEE7Q9dzWmzw9yM) | 4:20 | 2019-09-05 |  |
 | [Vento a Favor](https://open.spotify.com/track/0duXjeiDlg3zqhXCNvRyGa) | [Sessa](https://open.spotify.com/artist/6ijeN3MhwnbRfo86gH5McZ) | [Vento a Favor](https://open.spotify.com/album/5urrxTP3JMsOz7op6o1YKz) | 2:41 | 2023-03-02 |  |

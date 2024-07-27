@@ -646,7 +646,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 133711,
       "name": "Aquellos Tiempos",
       "url": "https://open.spotify.com/track/2J0L0LpkfmrVyZ9ez9ZfdY"
@@ -3838,7 +3838,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 142840,
       "name": "Hipnotizados",
       "url": "https://open.spotify.com/track/2t88IEEgCkZr9OQHOrOr3j"
@@ -5566,6 +5566,24 @@
       "duration_ms": 125210,
       "name": "Me cont\u00f3 un pajarito",
       "url": "https://open.spotify.com/track/77rUZmUBYdHKRlicQcRG5g"
+    },
+    {
+      "album": {
+        "name": "Me Haces Falta",
+        "url": "https://open.spotify.com/album/6jKePRxmM76f4jWkv7rZ9O"
+      },
+      "artists": [
+        {
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183080,
+      "name": "Me Haces Falta",
+      "url": "https://open.spotify.com/track/4U7btPnmCl4wwNt9aCFZgA"
     },
     {
       "album": {
@@ -9484,6 +9502,28 @@
       "duration_ms": 138702,
       "name": "Te Va Doler",
       "url": "https://open.spotify.com/track/6RjHsYQ4JYJFHes0IZjCTV"
+    },
+    {
+      "album": {
+        "name": "Te voy a extra\u00f1ar",
+        "url": "https://open.spotify.com/album/1lhWLPWOxCHSDItolrsBpk"
+      },
+      "artists": [
+        {
+          "name": "Agus Cassano",
+          "url": "https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY"
+        },
+        {
+          "name": "Cumbieton",
+          "url": "https://open.spotify.com/artist/4s1eaeEeouQaO873bSGeaV"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147417,
+      "name": "Te voy a extra\u00f1ar",
+      "url": "https://open.spotify.com/track/5lK0R1eo2wZ0WMNRsaeTwv"
     },
     {
       "album": {

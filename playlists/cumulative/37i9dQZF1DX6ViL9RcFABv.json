@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Supa Squad",
+  "description": "Uma playlist de pura alma pop! Foto: Khiaro, Margarida Rotilo",
   "name": "Pop PT",
   "tracks": [
     {
@@ -340,7 +340,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 186249,
       "name": "Como Se Te Fosse Perder",
       "url": "https://open.spotify.com/track/3Oa4gJ5OfEGpCNWlLslYh0"
@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 120004,
       "name": "Ondas Do Mar",
       "url": "https://open.spotify.com/track/57U5uPOSahT6Cis5IgPw6g"
@@ -1289,6 +1289,28 @@
     },
     {
       "album": {
+        "name": "Promessas",
+        "url": "https://open.spotify.com/album/2DXHdgkLVueeCGmljBfZQs"
+      },
+      "artists": [
+        {
+          "name": "Khiaro",
+          "url": "https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb"
+        },
+        {
+          "name": "Margarida Rotilo",
+          "url": "https://open.spotify.com/artist/6AiYa8nZTEc2u3HOFu3I7Y"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154600,
+      "name": "Promessas",
+      "url": "https://open.spotify.com/track/5nQoajzUX1uJ70yLCPU3kI"
+    },
+    {
+      "album": {
         "name": "Quero-te Tanto",
         "url": "https://open.spotify.com/album/4YlvibOyd9OdHdfUZ36N08"
       },
@@ -1322,6 +1344,28 @@
       "duration_ms": 171670,
       "name": "Ramantxada",
       "url": "https://open.spotify.com/track/5RooLX6VQF9SWI4avrDPoT"
+    },
+    {
+      "album": {
+        "name": "Ritinha",
+        "url": "https://open.spotify.com/album/3YM8Dt8trP0u9B4nQlHYel"
+      },
+      "artists": [
+        {
+          "name": "\u00c1TOA",
+          "url": "https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7"
+        },
+        {
+          "name": "Grupo Acad\u00e9mico Seistetos (Universidade \u00c9vora)",
+          "url": "https://open.spotify.com/artist/6UytzMPJfPy7zHhPXTDMvr"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156063,
+      "name": "Ritinha",
+      "url": "https://open.spotify.com/track/2wtV8sHeYkZTfKiUGQPX1c"
     },
     {
       "album": {

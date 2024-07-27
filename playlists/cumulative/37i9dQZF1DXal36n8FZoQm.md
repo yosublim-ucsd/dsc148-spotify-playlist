@@ -4,7 +4,7 @@
 
 > It's time to return to the dojo\. Listen to all the music from Cobra Kai, new season coming soon to Netflix.
 
-195 songs - 11 hr 39 min
+197 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Late Night Jazz](https://open.spotify.com/track/2bJ8o7w2TQqPm8mVU4cIAy) | [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8), [David Tobin](https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb) | [Cocktail Hour](https://open.spotify.com/album/32nctCTJPaQiJpdtIqXDof) | 5:18 | 2022-01-06 | 2024-04-19 |
 | [Lay It Down](https://open.spotify.com/track/0d3qwh4HY9w6Ywywj6ksTv) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [The Essentials: Ratt](https://open.spotify.com/album/0zhBC0ytIvsL8Kvf0xtPMp) | 3:25 | 2022-01-07 | 2024-04-19 |
 | [Lay It Down](https://open.spotify.com/track/3D5ORNm9spaTcdRx50ksHx) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Invasion of Your Privacy](https://open.spotify.com/album/7CzsLoFBEMElxviJoApcAI) | 3:25 | 2022-01-07 | 2024-07-19 |
+| [Let The Games Begin](https://open.spotify.com/track/4imhSCTu61HFQiMSFeBui4) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 6, Part 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/3FCqUcqiJXJbhHCKIkxh3o) | 3:06 | 2024-07-26 |  |
 | [Like a Dance](https://open.spotify.com/track/6FtO9TV7VM1lmPiHMvYyqz) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 2 \(Soundtrack from the Original Series\)](https://open.spotify.com/album/2eYneWlXOCsnhYiiC8v34V) | 3:12 | 2022-01-07 | 2024-07-19 |
 | [Like a Fighter](https://open.spotify.com/track/1NLOotIFSAROiIyEz2jWWa) | [Alexander Rudd](https://open.spotify.com/artist/02byKbTE2ZyrjUjT6uiTc0), [Zach Lemmon](https://open.spotify.com/artist/1DqlgYeGygYV43IWmrISKA) | [70s Sounds](https://open.spotify.com/album/4UbnvDEcUaEhyDTgDYOeVl) | 3:10 | 2022-01-06 | 2024-07-19 |
 | [Listen To Your Heart](https://open.spotify.com/track/1qIKynV6YQZgocodkPdCy7) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp!](https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx) | 5:28 | 2022-01-07 | 2024-07-19 |
@@ -146,6 +147,7 @@
 | [Queen Cobra](https://open.spotify.com/track/6M4gicYnR0VwEOYZvyr4aa) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 4, Vol\. 1 "All Valley Tournament 51" \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2ORE6f4jS4dLKvk9VA6oDl) | 2:17 | 2022-01-11 |  |
 | [Quiver](https://open.spotify.com/track/1449HyMKOLlhuDXQR4Lzfr) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 1 \(Soundtrack from the Original Series\)](https://open.spotify.com/album/0TkfHTK2sSV4CxrQWqBrNF) | 1:08 | 2024-07-18 |  |
 | [Raise the Flag](https://open.spotify.com/track/1ZvPPexW1i3wCp28jYlVdF) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [No Guts\. No Glory \(Special Edition\)](https://open.spotify.com/album/0J2SOztFypUmixXAZfjVhx) | 3:33 | 2024-07-17 |  |
+| [Rise of Kwon](https://open.spotify.com/track/5Doh4Ez68BmKPGjEs5SA6w) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 6, Part 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/3FCqUcqiJXJbhHCKIkxh3o) | 2:34 | 2024-07-26 |  |
 | [Rock 'N' Roll Over You](https://open.spotify.com/track/24ttxzDgbZoMHHSyhhSTOP) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [The Other Side Of Life](https://open.spotify.com/album/5dY18oz4mvg4ouRMz7oZTm) | 4:49 | 2022-01-07 | 2024-07-19 |
 | [Rock n Roll Superstar](https://open.spotify.com/track/2F55f2G0f8x8NH21aFkWoU) | [Blues Saraceno](https://open.spotify.com/artist/5AVBFCn4Hq4KY2Xjc5Gj4y) | [Glam Rock](https://open.spotify.com/album/2rGcNlGZkpdpR9gxTTzvgh) | 3:03 | 2022-01-06 | 2024-07-19 |
 | [Roll with the Changes](https://open.spotify.com/track/16x9viSmRS3PII71Pdeowc) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [You Can Tune a Piano, But You Can't Tuna Fish](https://open.spotify.com/album/3w0BIqN0uMoOT2l2ppKuXx) | 5:35 | 2024-07-17 |  |

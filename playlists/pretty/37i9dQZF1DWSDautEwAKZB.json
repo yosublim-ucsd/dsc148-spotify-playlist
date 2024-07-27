@@ -1,6 +1,6 @@
 {
   "description": "Latin songs you love like you've never heard before. Cover: Natanael Cano",
-  "num_followers": 5155,
+  "num_followers": 5156,
   "original_name": "Spotify Singles: Latin",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-01-30 23:00:20",
       "album": {
-        "name": "O Mundo D\u00e1 Voltas (Spotify Singles)",
-        "url": "https://open.spotify.com/album/59kSwQ4mkGJ5YVmVgmQv3s"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 186778,
-      "name": "O Mundo D\u00e1 Voltas - Spotify Singles",
-      "url": "https://open.spotify.com/track/1yz7wQVh2A3cCED0QPpfGU"
-    },
-    {
-      "added_at": "2024-01-30 23:00:20",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0Y808JJyzRr0gXTNNDL2bA"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 237551,
       "name": "Vivir Mi Vida - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2fonqgmRhs64TBxzTPlA9w"
+    },
+    {
+      "added_at": "2024-01-30 23:00:20",
+      "album": {
+        "name": "O Mundo D\u00e1 Voltas (Spotify Singles)",
+        "url": "https://open.spotify.com/album/59kSwQ4mkGJ5YVmVgmQv3s"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 186778,
+      "name": "O Mundo D\u00e1 Voltas - Spotify Singles",
+      "url": "https://open.spotify.com/track/1yz7wQVh2A3cCED0QPpfGU"
     },
     {
       "added_at": "2024-01-30 23:00:20",
@@ -647,6 +647,26 @@
     {
       "added_at": "2024-01-30 23:00:20",
       "album": {
+        "name": "Mala Costumbre - Ovy On The Drums - Spotify Singles",
+        "url": "https://open.spotify.com/album/5y69JKXX7lNzp4CUaDl2Ly"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "Mala Costumbre - Ovy On The Drums - Spotify Singles",
+      "url": "https://open.spotify.com/track/30K54dQDikHIulypekVSZp"
+    },
+    {
+      "added_at": "2024-01-30 23:00:20",
+      "album": {
         "name": "RELAX CON MAX - Spotify Singles",
         "url": "https://open.spotify.com/album/4Lj0WgYY0R8DLHM6v2jVr1"
       },
@@ -659,22 +679,6 @@
       "duration_ms": 150927,
       "name": "RELAX CON MAX - Spotify Singles",
       "url": "https://open.spotify.com/track/6OsOskqADfdiSX1LqLGtkk"
-    },
-    {
-      "added_at": "2024-01-30 23:00:20",
-      "album": {
-        "name": "Da Maior Import\u00e2ncia - Spotify Singles",
-        "url": "https://open.spotify.com/album/2ic2RENBBrqajKb4X9npUb"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 301714,
-      "name": "Da Maior Import\u00e2ncia - Spotify Singles",
-      "url": "https://open.spotify.com/track/2KAzfWoE9TeMob1tm1qz5i"
     },
     {
       "added_at": "2024-01-30 23:00:20",
@@ -695,22 +699,18 @@
     {
       "added_at": "2024-01-30 23:00:20",
       "album": {
-        "name": "Mala Costumbre - Ovy On The Drums - Spotify Singles",
-        "url": "https://open.spotify.com/album/5y69JKXX7lNzp4CUaDl2Ly"
+        "name": "Da Maior Import\u00e2ncia - Spotify Singles",
+        "url": "https://open.spotify.com/album/2ic2RENBBrqajKb4X9npUb"
       },
       "artists": [
         {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 181894,
-      "name": "Mala Costumbre - Ovy On The Drums - Spotify Singles",
-      "url": "https://open.spotify.com/track/30K54dQDikHIulypekVSZp"
+      "duration_ms": 301714,
+      "name": "Da Maior Import\u00e2ncia - Spotify Singles",
+      "url": "https://open.spotify.com/track/2KAzfWoE9TeMob1tm1qz5i"
     },
     {
       "added_at": "2024-01-30 23:00:20",
@@ -856,6 +856,26 @@
       "added_at": "2024-01-30 23:00:20",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e"
+      },
+      "artists": [
+        {
+          "name": "Twin Shadow",
+          "url": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
+        },
+        {
+          "name": "BLACKPAW",
+          "url": "https://open.spotify.com/artist/4IFNzQJipsXR5H93fhT467"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Alemania - Spotify Singles (Blackpaw Remix)",
+      "url": "https://open.spotify.com/track/3MeqHGb5MAPTADUJn1FXWR"
+    },
+    {
+      "added_at": "2024-01-30 23:00:20",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
       },
       "artists": [
@@ -883,26 +903,6 @@
       "duration_ms": 198281,
       "name": "Pir\u00e2mide Social - Spotify Singles",
       "url": "https://open.spotify.com/track/6yoEBvEehjyf8JHHrlqgOj"
-    },
-    {
-      "added_at": "2024-01-30 23:00:20",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e"
-      },
-      "artists": [
-        {
-          "name": "Twin Shadow",
-          "url": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
-        },
-        {
-          "name": "BLACKPAW",
-          "url": "https://open.spotify.com/artist/4IFNzQJipsXR5H93fhT467"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Alemania - Spotify Singles (Blackpaw Remix)",
-      "url": "https://open.spotify.com/track/3MeqHGb5MAPTADUJn1FXWR"
     },
     {
       "added_at": "2024-01-30 23:00:20",
@@ -988,6 +988,22 @@
       "added_at": "2024-01-30 23:00:20",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e"
+      },
+      "artists": [
+        {
+          "name": "Twin Shadow",
+          "url": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
+        }
+      ],
+      "duration_ms": 173023,
+      "name": "Telepat\u00eda - Spotify Singles",
+      "url": "https://open.spotify.com/track/5btOvqOWxTVq33xL3ugEtb"
+    },
+    {
+      "added_at": "2024-01-30 23:00:20",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4HXJQjeEgf8pZX1hOKH2ki"
       },
       "artists": [
@@ -1059,22 +1075,6 @@
       "duration_ms": 228839,
       "name": "Declare Independence - Spotify Singles",
       "url": "https://open.spotify.com/track/6KkwQNxduqthj40TlNVD1j"
-    },
-    {
-      "added_at": "2024-01-30 23:00:20",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e"
-      },
-      "artists": [
-        {
-          "name": "Twin Shadow",
-          "url": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
-        }
-      ],
-      "duration_ms": 173023,
-      "name": "Telepat\u00eda - Spotify Singles",
-      "url": "https://open.spotify.com/track/5btOvqOWxTVq33xL3ugEtb"
     },
     {
       "added_at": "2024-01-30 23:00:20",

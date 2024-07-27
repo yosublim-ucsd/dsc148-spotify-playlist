@@ -1,13 +1,29 @@
 {
-  "description": "Nieuwe indie, rock en alternative. Cover: Kasabian",
-  "num_followers": 54887,
+  "description": "Nieuwe indie, rock en alternative. Cover: Glass Animals",
+  "num_followers": 54915,
   "original_name": "New Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpBV4AAAAAD98vBtzEdvAF50mqxHmeMS",
+  "snapshot_id": "ZqNP3gAAAAAcFkl4Wpuayu8RkZK0Em5u",
   "tracks": [
+    {
+      "added_at": "2024-07-26 07:27:26",
+      "album": {
+        "name": "I Love You So F***ing Much",
+        "url": "https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 255636,
+      "name": "Show Pony",
+      "url": "https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO"
+    },
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 155658,
       "name": "Italian Horror",
       "url": "https://open.spotify.com/track/0NZvjVlwXHLUeLgZV8zk98"
+    },
+    {
+      "added_at": "2024-07-26 07:27:26",
+      "album": {
+        "name": "Rat King",
+        "url": "https://open.spotify.com/album/2RF7EDnkfi8wh4x11anQh1"
+      },
+      "artists": [
+        {
+          "name": "Komodo",
+          "url": "https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU"
+        }
+      ],
+      "duration_ms": 223374,
+      "name": "Rat King",
+      "url": "https://open.spotify.com/track/5n64a6hBS4fEcluUsYpjrP"
     },
     {
       "added_at": "2024-07-09 09:29:03",
@@ -41,6 +73,22 @@
       "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
     },
     {
+      "added_at": "2024-07-26 07:27:26",
+      "album": {
+        "name": "Takes One To Know One",
+        "url": "https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 167996,
+      "name": "Takes One To Know One",
+      "url": "https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f"
+    },
+    {
       "added_at": "2024-06-24 10:25:23",
       "album": {
         "name": "Supersad",
@@ -55,6 +103,38 @@
       "duration_ms": 170383,
       "name": "Supersad",
       "url": "https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF"
+    },
+    {
+      "added_at": "2024-07-26 07:27:26",
+      "album": {
+        "name": "Nack Nostalgia",
+        "url": "https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 187433,
+      "name": "Nack Nostalgia",
+      "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
+    },
+    {
+      "added_at": "2024-07-26 07:27:26",
+      "album": {
+        "name": "\u201c&\u201d (Ampersand), Part One",
+        "url": "https://open.spotify.com/album/14gwVejGdggFC3UspqGWOC"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 209640,
+      "name": "Seasons & Narcissus",
+      "url": "https://open.spotify.com/track/1yT4qMKeA7Hr06veApFMgv"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -73,6 +153,38 @@
       "url": "https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f"
     },
     {
+      "added_at": "2024-07-26 07:27:26",
+      "album": {
+        "name": "Claim To Fame",
+        "url": "https://open.spotify.com/album/0aGdrW2ldqPgXanjk3jBsx"
+      },
+      "artists": [
+        {
+          "name": "Ramkot",
+          "url": "https://open.spotify.com/artist/6F93CFXfe0VbChYnV0EXi7"
+        }
+      ],
+      "duration_ms": 150029,
+      "name": "Claim To Fame",
+      "url": "https://open.spotify.com/track/3tYsuxhfToTsjW9JkVTV2M"
+    },
+    {
+      "added_at": "2024-07-26 07:27:26",
+      "album": {
+        "name": "Kinky",
+        "url": "https://open.spotify.com/album/0fCN0g8Y2hBCeVLYFHNkRN"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "duration_ms": 134117,
+      "name": "Kinky",
+      "url": "https://open.spotify.com/track/5HO0GMmYN9gPme6XbQMhoF"
+    },
+    {
       "added_at": "2024-06-24 10:25:23",
       "album": {
         "name": "Lost In Space",
@@ -87,6 +199,22 @@
       "duration_ms": 258939,
       "name": "Lost In Space",
       "url": "https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs"
+    },
+    {
+      "added_at": "2024-07-26 07:27:26",
+      "album": {
+        "name": "Zwijgrecht",
+        "url": "https://open.spotify.com/album/7K8aEYuq4d07q3xzh2em2z"
+      },
+      "artists": [
+        {
+          "name": "Ploegendienst",
+          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
+        }
+      ],
+      "duration_ms": 80711,
+      "name": "Zwijgrecht",
+      "url": "https://open.spotify.com/track/489EDOr96zRHruVh5gH50G"
     },
     {
       "added_at": "2024-06-24 10:25:23",
@@ -105,6 +233,22 @@
       "url": "https://open.spotify.com/track/3Rx0g3VVxBnOm2lYtkBsJ3"
     },
     {
+      "added_at": "2024-07-26 07:27:26",
+      "album": {
+        "name": "Le Risque",
+        "url": "https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 214125,
+      "name": "Le Risque",
+      "url": "https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ"
+    },
+    {
       "added_at": "2024-07-09 09:29:03",
       "album": {
         "name": "Shoot",
@@ -119,6 +263,22 @@
       "duration_ms": 127706,
       "name": "Shoot",
       "url": "https://open.spotify.com/track/1QFerkEWR1GAqmppYqIxpN"
+    },
+    {
+      "added_at": "2024-07-26 07:27:26",
+      "album": {
+        "name": "All In My Head",
+        "url": "https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 201187,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -137,20 +297,36 @@
       "url": "https://open.spotify.com/track/5dOkvWdlRlKYvhM3MkD2Ai"
     },
     {
-      "added_at": "2024-07-09 09:29:03",
+      "added_at": "2024-07-26 07:27:26",
       "album": {
-        "name": "don't want u to die",
-        "url": "https://open.spotify.com/album/6GiCET4YvGHfvcnHi4KZJB"
+        "name": "Faint Of Heart",
+        "url": "https://open.spotify.com/album/3mpkO4KFbEzzz0lFJxY2IH"
       },
       "artists": [
         {
-          "name": "Thala",
-          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
+          "name": "Blaudzun",
+          "url": "https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM"
         }
       ],
-      "duration_ms": 188306,
-      "name": "don't want u to die",
-      "url": "https://open.spotify.com/track/2RKFPVUnx3jtvsTBSC8Tif"
+      "duration_ms": 365793,
+      "name": "Faint Of Heart",
+      "url": "https://open.spotify.com/track/2csUY4IGUWm8b8mWbBybjc"
+    },
+    {
+      "added_at": "2024-07-26 07:27:26",
+      "album": {
+        "name": "Plant Healing",
+        "url": "https://open.spotify.com/album/5oD9VkmU5ZUzEw9Plvovmz"
+      },
+      "artists": [
+        {
+          "name": "Eosine",
+          "url": "https://open.spotify.com/artist/0Md3VgBtmaO6hemIn4gIIP"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "Plant Healing",
+      "url": "https://open.spotify.com/track/68qM3SnT7JDA7VW49gIxQc"
     },
     {
       "added_at": "2024-06-24 10:25:23",
@@ -185,6 +361,22 @@
       "url": "https://open.spotify.com/track/3Eml7xiwuYQVJLTEQQMbjI"
     },
     {
+      "added_at": "2024-07-26 07:27:26",
+      "album": {
+        "name": "BADMAN",
+        "url": "https://open.spotify.com/album/2PAbdMKsxkev1Xt8E2xmLt"
+      },
+      "artists": [
+        {
+          "name": "RAT BOY",
+          "url": "https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC"
+        }
+      ],
+      "duration_ms": 168030,
+      "name": "BADMAN",
+      "url": "https://open.spotify.com/track/1pCyTcaqP56AiGqMSwdN12"
+    },
+    {
       "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Make It Easy",
@@ -217,6 +409,22 @@
       "url": "https://open.spotify.com/track/6FzaEGFfG3mVPPQCKBLkFU"
     },
     {
+      "added_at": "2024-07-26 07:27:26",
+      "album": {
+        "name": "Out Of The Frame",
+        "url": "https://open.spotify.com/album/3bug8l6SwQ0GsXeYiu71Ek"
+      },
+      "artists": [
+        {
+          "name": "Itches",
+          "url": "https://open.spotify.com/artist/5ZGstqv9gWYzM1JARAKz8b"
+        }
+      ],
+      "duration_ms": 170360,
+      "name": "Out Of The Frame",
+      "url": "https://open.spotify.com/track/3N2p9B5jhFSBhh4x4ZpgI0"
+    },
+    {
       "added_at": "2024-06-24 10:25:23",
       "album": {
         "name": "Ohio Players",
@@ -231,6 +439,38 @@
       "duration_ms": 242838,
       "name": "On The Game",
       "url": "https://open.spotify.com/track/4c7iXNRiy72rMXfRTR9V0V"
+    },
+    {
+      "added_at": "2024-07-26 07:27:26",
+      "album": {
+        "name": "Making Up Animals",
+        "url": "https://open.spotify.com/album/6EyU2jNFzP2puyzOwvfbvR"
+      },
+      "artists": [
+        {
+          "name": "Ciao Lucifer",
+          "url": "https://open.spotify.com/artist/7HJjZdoBrnDMtKKrWpjJII"
+        }
+      ],
+      "duration_ms": 179066,
+      "name": "Making Up Animals",
+      "url": "https://open.spotify.com/track/3YYgEilhbIOu4f0KOIExUh"
+    },
+    {
+      "added_at": "2024-06-24 10:25:23",
+      "album": {
+        "name": "The Craving",
+        "url": "https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "The Craving - single version",
+      "url": "https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA"
     },
     {
       "added_at": "2024-06-24 10:25:23",
@@ -251,6 +491,22 @@
       "duration_ms": 167264,
       "name": "This Is The Way (feat. DMX)",
       "url": "https://open.spotify.com/track/41uRcFai0Ta90sBnYB4OgK"
+    },
+    {
+      "added_at": "2024-07-26 07:27:26",
+      "album": {
+        "name": "Society's Fixation Seeker",
+        "url": "https://open.spotify.com/album/0RuIqeRNLcpZJ2JtfZsPeo"
+      },
+      "artists": [
+        {
+          "name": "LIGHTSPEED",
+          "url": "https://open.spotify.com/artist/6AKqwXVRN32svEj6t8gD3Q"
+        }
+      ],
+      "duration_ms": 186253,
+      "name": "Society's Fixation Seeker",
+      "url": "https://open.spotify.com/track/5qQwPmOwM1yIHadiimVqjW"
     },
     {
       "added_at": "2024-07-09 09:29:03",
@@ -285,20 +541,28 @@
       "url": "https://open.spotify.com/track/4oeABmOn0nnLSa2UEETqmz"
     },
     {
-      "added_at": "2024-06-24 10:25:23",
+      "added_at": "2024-07-26 07:27:26",
       "album": {
-        "name": "The Craving",
-        "url": "https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI"
+        "name": "Rain Can't Reach Us",
+        "url": "https://open.spotify.com/album/4Zz6Sy6FAQWKQTgQMWiHTS"
       },
       "artists": [
         {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+          "name": "Yannis & The Yaw",
+          "url": "https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH"
+        },
+        {
+          "name": "Tony Allen",
+          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
+        },
+        {
+          "name": "Yannis",
+          "url": "https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt"
         }
       ],
-      "duration_ms": 173866,
-      "name": "The Craving - single version",
-      "url": "https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA"
+      "duration_ms": 296722,
+      "name": "Rain Can't Reach Us",
+      "url": "https://open.spotify.com/track/6raq4es8xYh6Rp8OJNBFYj"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -317,6 +581,22 @@
       "url": "https://open.spotify.com/track/0qCJBlXoE0mQ21BkHr8tfs"
     },
     {
+      "added_at": "2024-07-26 07:27:26",
+      "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/2mlLbBlwrR0YgPf484jcJH"
+      },
+      "artists": [
+        {
+          "name": "Dutch Mustard",
+          "url": "https://open.spotify.com/artist/6QGi06qu6deTJRLZO2YrlP"
+        }
+      ],
+      "duration_ms": 183020,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/5MBaUQGYX5oK3kpukAZRDj"
+    },
+    {
       "added_at": "2024-06-24 10:25:23",
       "album": {
         "name": "Darkest Lullaby",
@@ -331,6 +611,22 @@
       "duration_ms": 190817,
       "name": "Darkest Lullaby",
       "url": "https://open.spotify.com/track/3MV0SFjUcQYUGmAQv6o7Q2"
+    },
+    {
+      "added_at": "2024-07-26 07:27:26",
+      "album": {
+        "name": "Down In My Hometown",
+        "url": "https://open.spotify.com/album/5drfD6csj8c4QUwwnOCPec"
+      },
+      "artists": [
+        {
+          "name": "Paceshifters",
+          "url": "https://open.spotify.com/artist/7maCRjdG5xFuQZ7AxINpAN"
+        }
+      ],
+      "duration_ms": 198986,
+      "name": "Down In My Hometown",
+      "url": "https://open.spotify.com/track/2sIg5xHYoAOFLMEI0MED32"
     },
     {
       "added_at": "2024-07-09 09:29:03",
@@ -363,6 +659,22 @@
       "duration_ms": 196973,
       "name": "Feed You To My Dog",
       "url": "https://open.spotify.com/track/6tQnoOU4mMgx5mMiDFXJlR"
+    },
+    {
+      "added_at": "2024-07-26 07:27:26",
+      "album": {
+        "name": "Trash Blanket",
+        "url": "https://open.spotify.com/album/5nSMOh9sxfJOLlDZP7rcXR"
+      },
+      "artists": [
+        {
+          "name": "Cloud Cafe",
+          "url": "https://open.spotify.com/artist/6ZLN3zJF1GLVaSNk7tU3MY"
+        }
+      ],
+      "duration_ms": 194976,
+      "name": "Trash Blanket",
+      "url": "https://open.spotify.com/track/3crOykl82l9i6NtkzTsM8G"
     },
     {
       "added_at": "2024-06-24 10:25:23",
@@ -559,22 +871,6 @@
     {
       "added_at": "2024-06-24 10:25:23",
       "album": {
-        "name": "Shades",
-        "url": "https://open.spotify.com/album/0mUXMfNpBQy1SgPU05fDxu"
-      },
-      "artists": [
-        {
-          "name": "Blaudzun",
-          "url": "https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM"
-        }
-      ],
-      "duration_ms": 197548,
-      "name": "Shades",
-      "url": "https://open.spotify.com/track/0vd6M3nfXFsdrPY1977csa"
-    },
-    {
-      "added_at": "2024-06-24 10:25:23",
-      "album": {
         "name": "Can We Please Have Fun",
         "url": "https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ"
       },
@@ -667,26 +963,6 @@
       "duration_ms": 162785,
       "name": "Round",
       "url": "https://open.spotify.com/track/590wnEjl9OYl7dJQ6Eb3OO"
-    },
-    {
-      "added_at": "2024-06-24 10:25:23",
-      "album": {
-        "name": "You Need Me Now? (feat. Sabrina Carpenter)",
-        "url": "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        },
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186377,
-      "name": "You Need Me Now? (feat. Sabrina Carpenter)",
-      "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
     },
     {
       "added_at": "2024-06-24 10:25:23",
@@ -787,22 +1063,6 @@
     {
       "added_at": "2024-06-24 10:25:23",
       "album": {
-        "name": "AUDIO VERTIGO",
-        "url": "https://open.spotify.com/album/7EpaPuPMFIwVLkEWz3gvSK"
-      },
-      "artists": [
-        {
-          "name": "Elbow",
-          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Things I've Been Telling Myself for Years",
-      "url": "https://open.spotify.com/track/0ZmtGhT8Iyih7dlscccung"
-    },
-    {
-      "added_at": "2024-06-24 10:25:23",
-      "album": {
         "name": "Parked Car Conversations",
         "url": "https://open.spotify.com/album/7Fd6t1WZxaDy7A5Cxl9K1b"
       },
@@ -851,54 +1111,6 @@
     {
       "added_at": "2024-06-24 10:25:23",
       "album": {
-        "name": "MMMami Mami",
-        "url": "https://open.spotify.com/album/084uPuidGS0aaLFZ654bAb"
-      },
-      "artists": [
-        {
-          "name": "Lov3less",
-          "url": "https://open.spotify.com/artist/35uSH8tDlmVMM4Z4RpcxY8"
-        }
-      ],
-      "duration_ms": 153493,
-      "name": "MMMami Mami",
-      "url": "https://open.spotify.com/track/54CzAk7fpqqOGVgkQTCs7M"
-    },
-    {
-      "added_at": "2024-06-24 10:25:23",
-      "album": {
-        "name": "Calling After Me",
-        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 187692,
-      "name": "Calling After Me",
-      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
-    },
-    {
-      "added_at": "2024-06-24 10:25:23",
-      "album": {
-        "name": "The Garden Dream",
-        "url": "https://open.spotify.com/album/6ZaWKnLc8g4KDily8uOC9R"
-      },
-      "artists": [
-        {
-          "name": "gglum",
-          "url": "https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO"
-        }
-      ],
-      "duration_ms": 170107,
-      "name": "Second Best",
-      "url": "https://open.spotify.com/track/2y4smdlMAA7Fg6I7iyDHjK"
-    },
-    {
-      "added_at": "2024-06-24 10:25:23",
-      "album": {
         "name": "Intangible",
         "url": "https://open.spotify.com/album/1LhBLbebW10ttVVizB1lmp"
       },
@@ -927,54 +1139,6 @@
       "duration_ms": 248648,
       "name": "Goldy",
       "url": "https://open.spotify.com/track/1wZ5OdmhssZf89vdd1ipWR"
-    },
-    {
-      "added_at": "2024-06-24 10:25:23",
-      "album": {
-        "name": "Kaiser Chiefs' Easy Eighth Album",
-        "url": "https://open.spotify.com/album/5dkbWYrgm2ysC8bObtnjON"
-      },
-      "artists": [
-        {
-          "name": "Kaiser Chiefs",
-          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
-        }
-      ],
-      "duration_ms": 182333,
-      "name": "Noel Groove",
-      "url": "https://open.spotify.com/track/3N9L15JK1SEhBvCPQfqRo8"
-    },
-    {
-      "added_at": "2024-06-24 10:25:23",
-      "album": {
-        "name": "Fun Fact",
-        "url": "https://open.spotify.com/album/5EAS9bSHTwrTlizIJIVUqO"
-      },
-      "artists": [
-        {
-          "name": "Wodan Boys",
-          "url": "https://open.spotify.com/artist/0kmKbibEVmQ4luQqUAHDMr"
-        }
-      ],
-      "duration_ms": 151141,
-      "name": "Fun Fact",
-      "url": "https://open.spotify.com/track/1f5EdRf2pijijsSEeJBaKg"
-    },
-    {
-      "added_at": "2024-06-24 10:25:23",
-      "album": {
-        "name": "Sarah Connor",
-        "url": "https://open.spotify.com/album/38qyw7BG7BrinP3sjTn4Sl"
-      },
-      "artists": [
-        {
-          "name": "The Mercians",
-          "url": "https://open.spotify.com/artist/0kz8fYoOzRWWWBVjyI98mE"
-        }
-      ],
-      "duration_ms": 203788,
-      "name": "Sarah Connor",
-      "url": "https://open.spotify.com/track/1615b5d5XQRH4cI7hIPqmb"
     }
   ],
   "unique_name": "New Alternative",

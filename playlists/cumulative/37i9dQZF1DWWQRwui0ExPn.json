@@ -3283,6 +3283,28 @@
     },
     {
       "album": {
+        "name": "Afterain",
+        "url": "https://open.spotify.com/album/0pGLrEBnOlg9gee39d80Qp"
+      },
+      "artists": [
+        {
+          "name": "Gy\u00fbki",
+          "url": "https://open.spotify.com/artist/0f1wG4nrFzA7sc92lDeItL"
+        },
+        {
+          "name": "Ahntow",
+          "url": "https://open.spotify.com/artist/4916V2MuzFT62WpTGgm64H"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148604,
+      "name": "Afterain",
+      "url": "https://open.spotify.com/track/0c64UKO8Ky8lVYCLLgFtmz"
+    },
+    {
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/77uGdp712E0p0nGkrQx35L"
       },
@@ -5216,6 +5238,24 @@
       "duration_ms": 172388,
       "name": "Always",
       "url": "https://open.spotify.com/track/11epESvmDdgAXdVeHTvv3F"
+    },
+    {
+      "album": {
+        "name": "always by your side",
+        "url": "https://open.spotify.com/album/7zdxISh4gzSHasN6xBDyG2"
+      },
+      "artists": [
+        {
+          "name": "mellow fox",
+          "url": "https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108068,
+      "name": "always by your side",
+      "url": "https://open.spotify.com/track/79q1pBgBHbtakGcIaoGLJs"
     },
     {
       "album": {
@@ -13261,6 +13301,28 @@
     },
     {
       "album": {
+        "name": "Blissful",
+        "url": "https://open.spotify.com/album/1P5joE7OOG7lDdKENEMEZ6"
+      },
+      "artists": [
+        {
+          "name": "yosev",
+          "url": "https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v"
+        },
+        {
+          "name": "Kimm\u00f8",
+          "url": "https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134634,
+      "name": "Blissful",
+      "url": "https://open.spotify.com/track/0dKxhW1wAA8YrvMhiEd1qd"
+    },
+    {
+      "album": {
         "name": "Blissful Haze",
         "url": "https://open.spotify.com/album/05LgZgmyHdZH28Kx5tecuD"
       },
@@ -19952,7 +20014,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 105221,
       "name": "Chang",
       "url": "https://open.spotify.com/track/2HgAzyBHR3TGJBpksx3I6L"
@@ -20688,6 +20750,28 @@
       "duration_ms": 140651,
       "name": "Chess Flow",
       "url": "https://open.spotify.com/track/3HtEAL9JC5o1aaS0drr4fk"
+    },
+    {
+      "album": {
+        "name": "Chewy",
+        "url": "https://open.spotify.com/album/4F0isokOGIcGzEVRX1xYkq"
+      },
+      "artists": [
+        {
+          "name": "sloh rou",
+          "url": "https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j"
+        },
+        {
+          "name": "ron quixote",
+          "url": "https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149823,
+      "name": "Chewy",
+      "url": "https://open.spotify.com/track/6wv26tqIej3IqFHt3IfrBu"
     },
     {
       "album": {
@@ -38336,7 +38420,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 118944,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/58uy3CHRJaCg8fzxqpuibp"
@@ -39978,7 +40062,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 72911,
       "name": "Flawless Waves",
       "url": "https://open.spotify.com/track/10qK2Qc4r06G98baNwKgu9"
@@ -40874,7 +40958,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 132750,
       "name": "Flourish",
       "url": "https://open.spotify.com/track/2mEay3PsQgJhdM7ab1T0k5"
@@ -45412,7 +45496,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 156000,
       "name": "Glowing Firefly Waltz",
       "url": "https://open.spotify.com/track/690nc3o39vROr09u2gpU6Q"
@@ -49714,7 +49798,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 146526,
       "name": "Heatwave",
       "url": "https://open.spotify.com/track/4vkQrQ92kxPFGnqkHHugl4"
@@ -50964,7 +51048,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 129996,
       "name": "hjortron",
       "url": "https://open.spotify.com/track/1eGHzlNpyXAsi4qKfm5z27"
@@ -52300,6 +52384,24 @@
       "duration_ms": 159560,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/2JWTVS3ndZcwJrabnCAWvD"
+    },
+    {
+      "album": {
+        "name": "Hotel Alone",
+        "url": "https://open.spotify.com/album/14NtO2jCEibHC40do69GG5"
+      },
+      "artists": [
+        {
+          "name": "Anastasia Kai",
+          "url": "https://open.spotify.com/artist/67le5cHO1LTvFvZgloqUj2"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139220,
+      "name": "Hotel Alone",
+      "url": "https://open.spotify.com/track/7CcQusLaSL89fV4kpYZRGn"
     },
     {
       "album": {
@@ -72200,7 +72302,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 154285,
       "name": "Memory Leak",
       "url": "https://open.spotify.com/track/3BGAZcY5SpJUMoZ8E10Kmy"
@@ -72352,7 +72454,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 96000,
       "name": "messy",
       "url": "https://open.spotify.com/track/5nvL2YxmnbQyuu7aGrI68K"
@@ -77009,6 +77111,24 @@
     },
     {
       "album": {
+        "name": "Mr. Cho",
+        "url": "https://open.spotify.com/album/1Spyo7rzNkkZZMuDTJK8XC"
+      },
+      "artists": [
+        {
+          "name": "Slow Bounce",
+          "url": "https://open.spotify.com/artist/6M8SiopuBvx9go6myWNjfS"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123016,
+      "name": "Mr. Cho",
+      "url": "https://open.spotify.com/track/7uvRHTEts5dFJiPJfBcT0p"
+    },
+    {
+      "album": {
         "name": "Mr. Green",
         "url": "https://open.spotify.com/album/4dOymhl1rQ60IVGFBpdxPK"
       },
@@ -77972,7 +78092,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 120375,
       "name": "Mysteries",
       "url": "https://open.spotify.com/track/2tpt0vstkDIemSBz5WlRhG"
@@ -78790,7 +78910,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 109000,
       "name": "Neige",
       "url": "https://open.spotify.com/track/1uVmEYf5sxa8AiWGAMdFMI"
@@ -89197,6 +89317,24 @@
     },
     {
       "album": {
+        "name": "Piece Of Mind",
+        "url": "https://open.spotify.com/album/36V4L35fwzJoSChXYJceYT"
+      },
+      "artists": [
+        {
+          "name": "Vincent Rayn",
+          "url": "https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126011,
+      "name": "Piece Of Mind",
+      "url": "https://open.spotify.com/track/63yUqUFLVbDQRKR8rQXdsD"
+    },
+    {
+      "album": {
         "name": "piece of you",
         "url": "https://open.spotify.com/album/1yhEihD2M0bqImpJ64hiUW"
       },
@@ -99246,7 +99384,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 149647,
       "name": "Seagull Blues",
       "url": "https://open.spotify.com/track/4NKXXADxxBYbhDfOcFrNnv"
@@ -105920,7 +106058,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 134127,
       "name": "some guitar thoughts",
       "url": "https://open.spotify.com/track/0EREZUfhKF4lZuLHa1IaaL"
@@ -117158,6 +117296,24 @@
       "duration_ms": 156000,
       "name": "The Night of the Mammoth",
       "url": "https://open.spotify.com/track/2STiFXqrsmwIuc1cEJnT5P"
+    },
+    {
+      "album": {
+        "name": "The North",
+        "url": "https://open.spotify.com/album/0x29LypaDDTtqNrrwm03pZ"
+      },
+      "artists": [
+        {
+          "name": "Etzuko.",
+          "url": "https://open.spotify.com/artist/2UnLJpotwiOvhCz8LXdVXb"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157798,
+      "name": "The North",
+      "url": "https://open.spotify.com/track/6UqG5x0NXvwJblinn1EYDv"
     },
     {
       "album": {
@@ -132590,6 +132746,28 @@
       "duration_ms": 154124,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/3JdcRs53aBDG20OiPBJO9g"
+    },
+    {
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/5ntQeL1euh8lYPZ7OG7iWI"
+      },
+      "artists": [
+        {
+          "name": "Skeptika",
+          "url": "https://open.spotify.com/artist/34yxdeDhSnUVmM0DZcExpT"
+        },
+        {
+          "name": "wavvzz",
+          "url": "https://open.spotify.com/artist/33tg0cH66APhaWirPjOXEu"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/7rwpZWPbNDlsi2OSax4tBg"
     },
     {
       "album": {

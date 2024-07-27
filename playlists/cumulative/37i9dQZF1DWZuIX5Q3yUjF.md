@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: AINÉ
+> Il meglio dell'R&B italiano\. Cover: Nico Kyni
 
-626 songs - 1 day 7 hr 6 min
+628 songs - 1 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Chi Chiamerò](https://open.spotify.com/track/22UnlX9bx3C4FbtxiaQ2aE) | [Albina](https://open.spotify.com/artist/14D82kuyM1n141pp3CaXx3) | [Chi Chiamerò](https://open.spotify.com/album/6tv8ynQAom4lUf5I5Fia8N) | 2:42 | 2022-05-19 | 2022-06-10 |
 | [CHI FA 'O BENE](https://open.spotify.com/track/3PUGWPPQ0JBbTbY6zCcH2I) | [Verdero](https://open.spotify.com/artist/4whM9El4yngioYfXEYk7K4) | [CHI FA 'O BENE](https://open.spotify.com/album/2w5gEuMW2NWzCELVcxPVOR) | 3:01 | 2024-06-13 | 2024-07-19 |
 | [Chiamami di nuovo](https://open.spotify.com/track/4EBNyJCQlGGkucQkzTSviM) | [Margano](https://open.spotify.com/artist/35XjddZmbLFWTwmWZT0qnB) | [Fermate](https://open.spotify.com/album/5y6MJrmdLYUIExNcrMGPp0) | 3:21 | 2023-01-12 | 2023-03-10 |
-| [Chianu chiano \(feat\. Federico Di Napoli\)](https://open.spotify.com/track/5g1miSRl5JjLXBHqUUKejy) | [Brugnano](https://open.spotify.com/artist/1Tly9Wn1glHtV5NIVKGYCZ), [Federico Di Napoli](https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu) | [Chianu chiano \(feat\. Federico Di Napoli\)](https://open.spotify.com/album/6XrwIDS3YLDNWIx6Amkc97) | 3:11 | 2024-06-06 |  |
+| [Chianu chiano \(feat\. Federico Di Napoli\)](https://open.spotify.com/track/5g1miSRl5JjLXBHqUUKejy) | [Brugnano](https://open.spotify.com/artist/1Tly9Wn1glHtV5NIVKGYCZ), [Federico Di Napoli](https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu) | [Chianu chiano \(feat\. Federico Di Napoli\)](https://open.spotify.com/album/6XrwIDS3YLDNWIx6Amkc97) | 3:11 | 2024-06-06 | 2024-07-27 |
 | [Chill](https://open.spotify.com/track/3he45p68eG8s7IJ0xyBPBm) | [Francesco Faggi](https://open.spotify.com/artist/785tAPWUJa1Oarg4CiR80x) | [Molto di più](https://open.spotify.com/album/3v3EYI7xTS8yO9DgEpQaCM) | 3:00 | 2022-11-10 | 2022-12-02 |
 | [Chill Dans](https://open.spotify.com/track/4q7Z57pZSuSDOPC2m7Ni7W) | [DADA'](https://open.spotify.com/artist/2Ax9dIb8VekO3ObDrmz8ug) | [Chill Dans](https://open.spotify.com/album/2wDcOY6Ug2VuMPHxKJxTVn) | 2:07 | 2023-04-06 | 2023-06-30 |
 | [ci sono anch'io](https://open.spotify.com/track/3vaJKoqZhrzXKakku9mLlG) | [Dale](https://open.spotify.com/artist/7ldxWvmHhkRb9VUV3D2dMv) | [ci sono anch'io](https://open.spotify.com/album/2696jVbzYukZXG85xwsDds) | 2:57 | 2023-04-27 | 2023-06-09 |
@@ -359,6 +359,7 @@
 | [N'Anima](https://open.spotify.com/track/5lELyaYDICf3gj0xjXleOs) | [Naomi](https://open.spotify.com/artist/3dbuSqzwPQGqucy4evhJUB) | [N'Anima](https://open.spotify.com/album/13ECmY0qa7soTUErZ1IElY) | 2:54 | 2023-10-26 | 2023-12-15 |
 | [N'ata vot \(Perdono\)](https://open.spotify.com/track/37lmdEdm1GtJBZEK3Z5Xt6) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou) | [N'ata vot \(Perdono\)](https://open.spotify.com/album/0Hr1MneqQzVojY96cu5sm7) | 2:35 | 2024-03-20 | 2024-04-16 |
 | [NAMASTE](https://open.spotify.com/track/1WQoZPJuSkENMK0ddTUbtw) | [Sir](https://open.spotify.com/artist/7IPFl9kGGBOSG9uQw5tQIg) | [NAMASTE](https://open.spotify.com/album/0qdR71s2AaRSxFnmIcCXM8) | 1:57 | 2022-09-22 | 2023-01-27 |
+| [Nankurunaisa](https://open.spotify.com/track/7A8F6HdwUBYkE7TxpkxVCj) | [sara j jones](https://open.spotify.com/artist/7I3cZK2UEuNOwZAHov9z9o), [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [Nankurunaisa](https://open.spotify.com/album/6uRNa9BJK7d3dFZxGIDxku) | 2:36 | 2024-07-25 |  |
 | [Napoli \(feat\. Ezeeo\)](https://open.spotify.com/track/6Cdp3MuLOe4dBPGfREz97i) | [Subconscio](https://open.spotify.com/artist/1QrrQzYzB6iWHcJee809Zh), [Ezeeo](https://open.spotify.com/artist/0sYZ6OSyY2qGLVGQurc4nU) | [Napoli \(feat\. Ezeeo\)](https://open.spotify.com/album/5Y0vNaNfAA4AtT3HHLcGS5) | 3:12 | 2023-10-12 | 2024-01-19 |
 | [Nebbia](https://open.spotify.com/track/5ic9HBYRdWn2O0mPrY5RGE) | [JeBel](https://open.spotify.com/artist/3V3DPjpU2au75BqpnX1HwI) | [Nebbia](https://open.spotify.com/album/76e0HbnfnSnL0ytMysAmol) | 3:00 | 2023-02-02 | 2023-02-17 |
 | [Negli Occhi](https://open.spotify.com/track/6yS0Ps5RswhboZFM4vLOsE) | [Yung Florence](https://open.spotify.com/artist/6HjU7IxcwVniLK2h8VEcFd), [Logos.Lux](https://open.spotify.com/artist/3rGdjBtVPeHar0052yH97T) | [Negli Occhi](https://open.spotify.com/album/5kjmW3BcCHutYbwm7M2diZ) | 2:39 | 2022-05-05 | 2022-06-10 |
@@ -432,7 +433,7 @@
 | [Perdermi](https://open.spotify.com/track/6pF0XneVxp19Yd0tn40Rqx) | [Santé](https://open.spotify.com/artist/55EIo5yMfuqGqppQzEBep1) | [Perdermi](https://open.spotify.com/album/0dkeFFn1v88UbqZ9P7DDq1) | 2:57 | 2023-01-19 | 2023-03-31 |
 | [Perdo Tempo](https://open.spotify.com/track/0QUbRVMAHMxiPt0TCUlNZM) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Perdo Tempo](https://open.spotify.com/album/66JdPSPWoJrYem4QTVsb5B) | 2:56 | 2022-05-26 | 2023-04-28 |
 | [Pesca Noche](https://open.spotify.com/track/4K8CrCx25sTLfexADXFboz) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW), [Ganoona](https://open.spotify.com/artist/5jlr1VBi2pwgLmexZIcQo7) | [Pesca Noche](https://open.spotify.com/album/3uE4tgA8f7mFxngunL6206) | 3:03 | 2022-05-05 | 2022-07-15 |
-| [PIANETA](https://open.spotify.com/track/0vWMCUuWXL8tVaBhbd2Dfx) | [Ludia Venus](https://open.spotify.com/artist/7zYug21enFuajJ8DS6tp6r) | [PIANETA](https://open.spotify.com/album/3rxdgyUsoDpVNBJ4OaLbFd) | 3:26 | 2024-04-15 |  |
+| [PIANETA](https://open.spotify.com/track/0vWMCUuWXL8tVaBhbd2Dfx) | [Ludia Venus](https://open.spotify.com/artist/7zYug21enFuajJ8DS6tp6r) | [PIANETA](https://open.spotify.com/album/3rxdgyUsoDpVNBJ4OaLbFd) | 3:26 | 2024-04-15 | 2024-07-27 |
 | [Pic Nic](https://open.spotify.com/track/6awMgaOPQTE9fKpdXPjOUO) | [Alessandra Tumolillo](https://open.spotify.com/artist/0EMZSYF5FmVWRRtANDOuZt) | [Pic Nic](https://open.spotify.com/album/5QqQhhDElbQi9ceUofwYYY) | 3:35 | 2024-04-15 | 2024-04-26 |
 | [piedixterra](https://open.spotify.com/track/3pjRBRPgpLonKovRM3IEKe) | [Bravo, Bravissimo](https://open.spotify.com/artist/6st78j54gm9fHJfB9ZKdh4) | [piedixterra](https://open.spotify.com/album/1Idmo4y713JrQhFTNaWzEb) | 3:18 | 2023-03-02 | 2023-06-23 |
 | [Plenilunio](https://open.spotify.com/track/6IZBQhT4RNSTreDogeiCfa) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr) | [Plenilunio](https://open.spotify.com/album/44715EEdXOjoBebHPBwoeh) | 2:58 | 2022-09-29 | 2022-10-14 |
@@ -602,6 +603,7 @@
 | [UN'ALTRA NOTTE](https://open.spotify.com/track/3pGkGnlkqP1uFnYyzAEspn) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8), [Chryverde](https://open.spotify.com/artist/55Adwj1kve66exxO3f8Lpm) | [UN'ALTRA NOTTE](https://open.spotify.com/album/0wxai2kIsKcmGlHvSXsPR3) | 2:58 | 2022-06-16 | 2023-02-24 |
 | [Una Litigata a Cas@](https://open.spotify.com/track/34wkdFH9hHRK5t1q1aU1IC) | [Asiabel](https://open.spotify.com/artist/491HAKV720PSqmM2Cii1F7) | [Una Litigata a Cas@](https://open.spotify.com/album/49lcE2GrqBYyyyQck1IR3p) | 4:06 | 2023-07-20 | 2024-02-02 |
 | [Una notte](https://open.spotify.com/track/26UuG6DtoSo2jlPQuEcDe9) | [Arèl](https://open.spotify.com/artist/43kEbmLGxZe2LekMp3uggS) | [Rinascita](https://open.spotify.com/album/5TTJ96E6jYNGoZ4tKO84uc) | 5:26 | 2024-04-15 | 2024-04-26 |
+| [UNA NOTTE ANCORA](https://open.spotify.com/track/1EJjT0KxQnpbXZcdpBPbvb) | [Florence](https://open.spotify.com/artist/5qyGTDa4a3jH5cGdH6G9M6), [dNoise](https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe) | [UNA NOTTE ANCORA](https://open.spotify.com/album/0BESuf5QsKyJBUm9XElbXl) | 2:22 | 2024-07-25 |  |
 | [Universo](https://open.spotify.com/track/7ASGGiTB8dAfD0Qj7h2E6x) | [Venere](https://open.spotify.com/artist/0oRYvj2dYUhN9rAcxUqu4f) | [Universo](https://open.spotify.com/album/76ekt5JP6roqnpBrp3pu9I) | 2:43 | 2022-05-05 | 2022-10-07 |
 | [UOCCHIE](https://open.spotify.com/track/7JVApJWNWo6sihWeWLv5Kr) | [Livio Cori](https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX) | [UOCCHIE](https://open.spotify.com/album/4QRpXNEhLjopJVrVwdKyg3) | 3:13 | 2024-04-25 |  |
 | [Upgrade](https://open.spotify.com/track/4WSpQYWSnmLIKIDxLwaBAK) | [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG) | [Upgrade](https://open.spotify.com/album/3o5gHZSjCsfIDqTbYoTwGt) | 2:22 | 2024-04-15 | 2024-06-14 |

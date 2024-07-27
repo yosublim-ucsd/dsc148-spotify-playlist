@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Porque no to' e' Dembow en RD loco. Portada: Amenazzy y NTG",
+  "description": "Porque no to' e' Dembow en RD loco. Portada: El Alfa, Nfasis",
   "name": "Flow Dominicano",
   "tracks": [
     {
@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Alplax",
+        "url": "https://open.spotify.com/album/0qI9VDZ2qxyOqwGkI9WUD9"
+      },
+      "artists": [
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173892,
+      "name": "Alplax",
+      "url": "https://open.spotify.com/track/5rtvkK96j6BwX9ZOqUoeBy"
+    },
+    {
+      "album": {
         "name": "Alta Gama",
         "url": "https://open.spotify.com/album/1Vtj5n7MDhnUTSwCN1MJ14"
       },
@@ -542,7 +560,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 180003,
       "name": "APARENTEMENTE",
       "url": "https://open.spotify.com/track/5fKTI9GgLS7DwB7fqfcM3l"
@@ -810,7 +828,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 170794,
       "name": "BAILAMOS LA \u00daLTIMA?",
       "url": "https://open.spotify.com/track/73Z7kXK5hdcJsi2JIsrnMO"
@@ -1448,7 +1466,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 166250,
       "name": "Careta",
       "url": "https://open.spotify.com/track/52z7Y1LWdq0XUlRkzSF3Na"
@@ -2038,7 +2056,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 245952,
       "name": "Cuando Te Empaquete",
       "url": "https://open.spotify.com/track/4fdTlHPwHKXQhIw2IN95DS"
@@ -2386,7 +2404,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 202040,
       "name": "Dejenme Volar",
       "url": "https://open.spotify.com/track/2vry1MtvIq4Phf5PNkEwqt"
@@ -2728,6 +2746,28 @@
       "duration_ms": 160000,
       "name": "Dime",
       "url": "https://open.spotify.com/track/03WvboIAz8l4bemwpW4r99"
+    },
+    {
+      "album": {
+        "name": "DIME",
+        "url": "https://open.spotify.com/album/2GTFVJSYMyQKK5NfzsBCdE"
+      },
+      "artists": [
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        },
+        {
+          "name": "Niko RST",
+          "url": "https://open.spotify.com/artist/51Kf7rHbmDtPij3BOcjhJd"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223820,
+      "name": "DIME",
+      "url": "https://open.spotify.com/track/48QeXQXJUfRf3WNkqAf3o9"
     },
     {
       "album": {
@@ -3294,7 +3334,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 210708,
       "name": "El Tio Sam",
       "url": "https://open.spotify.com/track/2uTanqaRWXYLDYRLHXDh69"
@@ -3767,6 +3807,28 @@
     },
     {
       "album": {
+        "name": "ESTE",
+        "url": "https://open.spotify.com/album/6IyqaZNwNpIEKSHGENe5DU"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162058,
+      "name": "ESTE",
+      "url": "https://open.spotify.com/track/0GfWTZZOc7co6oVqyQ556l"
+    },
+    {
+      "album": {
         "name": "Estoy Aqu\u00ed",
         "url": "https://open.spotify.com/album/0A1MrliSVMMs0c2D5i8rpX"
       },
@@ -3852,6 +3914,24 @@
       "duration_ms": 121263,
       "name": "Explicito - Deluxe",
       "url": "https://open.spotify.com/track/5ykJEBmfZuSv6h4eeqVFEQ"
+    },
+    {
+      "album": {
+        "name": "Fan de su Relacion",
+        "url": "https://open.spotify.com/album/3gBJIAtGHQ1C40aehLOYh9"
+      },
+      "artists": [
+        {
+          "name": "Poeta Callejero",
+          "url": "https://open.spotify.com/artist/1m82A2YUjBaQnLAFi9vjJv"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203833,
+      "name": "Fan de su Relacion",
+      "url": "https://open.spotify.com/track/4Owu5qGM9gLj6GwQ6JDBQw"
     },
     {
       "album": {
@@ -3964,7 +4044,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 119645,
       "name": "Frost",
       "url": "https://open.spotify.com/track/3kpCWWLqG9uR72aTX8D8T5"
@@ -4844,7 +4924,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 154329,
       "name": "La Loly",
       "url": "https://open.spotify.com/track/0szIdqnmZsRi0AJdr79hBH"
@@ -5096,6 +5176,28 @@
       "duration_ms": 705745,
       "name": "LAVAPIE FREESTYLE",
       "url": "https://open.spotify.com/track/7zQJNd8srj6chJkOUNNTgT"
+    },
+    {
+      "album": {
+        "name": "Libras En El Duffle",
+        "url": "https://open.spotify.com/album/49JPs9I0efR7mYGMDsKQNW"
+      },
+      "artists": [
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        },
+        {
+          "name": "Mochi World Records",
+          "url": "https://open.spotify.com/artist/1zfHmuWvV1PxbfhQILoyzv"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173759,
+      "name": "Libras En El Duffle",
+      "url": "https://open.spotify.com/track/2gDcqB8bdd2bWElbgbfDVZ"
     },
     {
       "album": {
@@ -5434,7 +5536,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 199693,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/2G0nqpnaCVdW6hwwoy2bsY"
@@ -6298,7 +6400,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 156831,
       "name": "Mi Primer Concierto",
       "url": "https://open.spotify.com/track/44UCB65Fg4VqNn8wLkzOeN"
@@ -6320,6 +6422,28 @@
       "duration_ms": 167925,
       "name": "Mi viejo",
       "url": "https://open.spotify.com/track/70LqAql8VnWe57CwDjHsqd"
+    },
+    {
+      "album": {
+        "name": "Mi Viejo",
+        "url": "https://open.spotify.com/album/0cicjjgM0Fe8nAQrGAvZO7"
+      },
+      "artists": [
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        },
+        {
+          "name": "Andyyy_flow",
+          "url": "https://open.spotify.com/artist/6wSMMy9E2qfdNb9dw3bHZv"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "Mi Viejo",
+      "url": "https://open.spotify.com/track/3j0GG11JvHJRITYP6cLECY"
     },
     {
       "album": {
@@ -6927,6 +7051,36 @@
     },
     {
       "album": {
+        "name": "NI HAO",
+        "url": "https://open.spotify.com/album/1gW1rMt9xRA5Sldn3ULQOn"
+      },
+      "artists": [
+        {
+          "name": "Yuriel Es Musica",
+          "url": "https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        },
+        {
+          "name": "Nasty Soundz",
+          "url": "https://open.spotify.com/artist/7JySIQKxlCxB4IvCq589RC"
+        },
+        {
+          "name": "L\u00fai Onthebeat",
+          "url": "https://open.spotify.com/artist/6I04prIA9Rbc12zZrwsFuu"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166644,
+      "name": "NI HAO",
+      "url": "https://open.spotify.com/track/37XfaNQ0wbmG10RTMbU7dV"
+    },
+    {
+      "album": {
         "name": "No Cambian",
         "url": "https://open.spotify.com/album/1fVe9SMCqoH6fIb5xxyJFZ"
       },
@@ -7068,7 +7222,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 191866,
       "name": "No Me Llevo",
       "url": "https://open.spotify.com/track/15sjwOCBXyUEKxvNmjuYFs"
@@ -8052,7 +8206,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 279034,
       "name": "R.I.P PINKY 157",
       "url": "https://open.spotify.com/track/7yvtkyvDKnoetXdZHNpjO0"
@@ -8413,6 +8567,28 @@
     },
     {
       "album": {
+        "name": "Seco",
+        "url": "https://open.spotify.com/album/1fZKSaHQfYIcQIW9N9vtJg"
+      },
+      "artists": [
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        },
+        {
+          "name": "Chocoleyrol",
+          "url": "https://open.spotify.com/artist/2kF83E9c7WmW5XdqwUrJd2"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165160,
+      "name": "Seco",
+      "url": "https://open.spotify.com/track/3HBKC7ziF2MyZVbCpRnepX"
+    },
+    {
+      "album": {
         "name": "Senta",
         "url": "https://open.spotify.com/album/31bDT7rlzdmoilznoP6hKx"
       },
@@ -8472,7 +8648,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 192000,
       "name": "si tu te vas",
       "url": "https://open.spotify.com/track/7z0ozXTHlBghh8ya25ayIb"
@@ -8680,7 +8856,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 136000,
       "name": "SOLTERA",
       "url": "https://open.spotify.com/track/7aqUs6LyQdGOrLBYTfOKm4"
@@ -9200,7 +9376,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 174730,
       "name": "TE EXTRA\u00d1O",
       "url": "https://open.spotify.com/track/3K5e5oAZ2kQwxnZiJm6FyL"
@@ -9284,6 +9460,24 @@
       "duration_ms": 136598,
       "name": "Te`Tan Buscando",
       "url": "https://open.spotify.com/track/6zgpeswHj422yiTUp6oNci"
+    },
+    {
+      "album": {
+        "name": "Tengo Eso",
+        "url": "https://open.spotify.com/album/2dmsa4q1mH2Ja3FvoDp9EZ"
+      },
+      "artists": [
+        {
+          "name": "Little Homie",
+          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129250,
+      "name": "Tengo Eso",
+      "url": "https://open.spotify.com/track/1ncmPHEefkwI5rTHBYlGed"
     },
     {
       "album": {
@@ -9861,6 +10055,24 @@
     },
     {
       "album": {
+        "name": "Un Muerto",
+        "url": "https://open.spotify.com/album/7BZCtffHQLknCy7TU0QJK0"
+      },
+      "artists": [
+        {
+          "name": "Mandrake El Malocorita",
+          "url": "https://open.spotify.com/artist/7z4uW6xL36waxCZxj5MpN0"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274951,
+      "name": "Un Muerto",
+      "url": "https://open.spotify.com/track/17fd8SI7SDvB8SeJDJy0kG"
+    },
+    {
+      "album": {
         "name": "Un Poco De Amor",
         "url": "https://open.spotify.com/album/6awvZolH9XPQ67f8UgAzik"
       },
@@ -9946,6 +10158,32 @@
       "duration_ms": 158400,
       "name": "Una Chuky",
       "url": "https://open.spotify.com/track/6T1335enI8UZIz9N0VABb5"
+    },
+    {
+      "album": {
+        "name": "Una Flor",
+        "url": "https://open.spotify.com/album/4I0yi5GDLkwRrsz6dorCuu"
+      },
+      "artists": [
+        {
+          "name": "Uriel Produce",
+          "url": "https://open.spotify.com/artist/1SIghlrGacKWdkAvAgUdPC"
+        },
+        {
+          "name": "Dayyon",
+          "url": "https://open.spotify.com/artist/7jI0OOgyX077McEjoZFdzk"
+        },
+        {
+          "name": "Young Money",
+          "url": "https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182278,
+      "name": "Una Flor",
+      "url": "https://open.spotify.com/track/71wH2jpfkQRbLDOznDgVq1"
     },
     {
       "album": {
@@ -10370,7 +10608,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 173052,
       "name": "Yo Te Freno",
       "url": "https://open.spotify.com/track/5Rp1uXmQnt8E0iwwE8qqHG"

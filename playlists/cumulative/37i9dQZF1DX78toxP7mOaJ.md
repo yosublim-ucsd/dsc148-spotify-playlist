@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Fake Fruit
 
-1,540 songs - 3 day 12 hr 46 min
+1,541 songs - 3 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Bravo](https://open.spotify.com/track/1nV3jf92BAy8w2p5dD4Ulo) | [The Sheratons](https://open.spotify.com/artist/69EITyRImp22fWpGYQa7Fn) | [Bravo](https://open.spotify.com/album/1S3gBpEbAVnDippzerUpCO) | 2:44 | 2023-02-15 | 2024-01-11 |
 | [Breaking In Brooklyn](https://open.spotify.com/track/3TGO0j7ylfqmeQADB1qaea) | [Dogpark](https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7) | [Breaking In Brooklyn](https://open.spotify.com/album/64cJi0RRWD8b6UTcZz06FC) | 3:06 | 2024-04-24 |  |
 | [Brighter Lighting](https://open.spotify.com/track/4tr3tLyrOJx0yxyAN6oBzv) | [Elijah Wolf](https://open.spotify.com/artist/0BMdnleIiGoRac4KolpTGs) | [Brighter Lighting](https://open.spotify.com/album/5MaMJwKXyfLEv0f0mjyxlZ) | 4:07 | 2021-12-01 | 2022-01-13 |
+| [Brighter Lights](https://open.spotify.com/track/7zgWp5RkmMOrl4uKY4BpIe) | [The Backfires](https://open.spotify.com/artist/2wMknlekLTOb4vRWn61NO5) | [Brighter Lights](https://open.spotify.com/album/7bDattb2nzrzWmC29xQ8rx) | 3:49 | 2024-07-25 |  |
 | [Brighter Than Blue](https://open.spotify.com/track/0AXq4WPzmeahBMwNyaKmdb) | [Carla Geneve](https://open.spotify.com/artist/0UzJFZTzFyN6EYjenzezfT) | [Learn To Like It](https://open.spotify.com/album/0TFQOw8rkRx3EeV4CncEoK) | 3:42 | 2022-04-13 | 2022-05-26 |
 | [Bring Back the Word Poser](https://open.spotify.com/track/3YwnmJ9ZcUDGh2xio2Qv8e) | [Saint Lazare](https://open.spotify.com/artist/5QV6KQjpqCX4XIycAFPSNk), [Ay3la](https://open.spotify.com/artist/5n9bHkaRO8OGf8rcpYjjLd), [cxltgod](https://open.spotify.com/artist/2i62qLXvdikq0heaZFIBZ5) | [Bring Back the Word Poser](https://open.spotify.com/album/2MFlq8hP8ghteOOoXfJ4p5) | 2:17 | 2023-01-11 | 2023-02-16 |
 | [Broken Eyes](https://open.spotify.com/track/69SVFWDJ4VMToET92sbs0e) | [PLOSIVS](https://open.spotify.com/artist/7AQiEpHW4PwI1sfH1moFsV) | [Broken Eyes](https://open.spotify.com/album/2HT5u5GfMeGGd3weUVtcNz) | 4:28 | 2022-01-26 | 2022-03-10 |

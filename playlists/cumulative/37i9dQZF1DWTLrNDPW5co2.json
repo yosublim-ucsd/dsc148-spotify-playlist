@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the centre of electronic music culture. Cover: Romy",
+  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the centre of electronic music culture. Cover: SOPHIE",
   "name": "Club Resistance",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 189676,
       "name": "90210",
       "url": "https://open.spotify.com/track/3vrqIdzS88pCWGe51tXpOP"
@@ -295,6 +295,24 @@
     },
     {
       "album": {
+        "name": "Back Then",
+        "url": "https://open.spotify.com/album/2fxodqFUNzJTi7AMMJC6JZ"
+      },
+      "artists": [
+        {
+          "name": "Tama Gucci",
+          "url": "https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Back Then",
+      "url": "https://open.spotify.com/track/5nlpPjxnAz3m8vSYdaBbRS"
+    },
+    {
+      "album": {
         "name": "Baddy On The Floor",
         "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
       },
@@ -346,10 +364,32 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 183256,
       "name": "BDSM",
       "url": "https://open.spotify.com/track/58ueJPSqrZhwNJPNfwbpX4"
+    },
+    {
+      "album": {
+        "name": "Berlin Nightmare (feat. Evita Manji)",
+        "url": "https://open.spotify.com/album/1Ki212TBrb125zZ1S05rNG"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "Evita Manji",
+          "url": "https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215021,
+      "name": "Berlin Nightmare (feat. Evita Manji)",
+      "url": "https://open.spotify.com/track/0ZZgJ88wX7vdRQSFEW04FM"
     },
     {
       "album": {
@@ -426,7 +466,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 190941,
       "name": "Black Sheep",
       "url": "https://open.spotify.com/track/7jd8Ht6bN0zx5jOzwOQ8dx"
@@ -3684,6 +3724,28 @@
       "duration_ms": 153600,
       "name": "Puta",
       "url": "https://open.spotify.com/track/4YZpWGihruxXJOf2FPnZmp"
+    },
+    {
+      "album": {
+        "name": "SUCCUBUS XXXTENDED",
+        "url": "https://open.spotify.com/album/6pbWoujpcmXhbyn2HU2UET"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        },
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199520,
+      "name": "QUICK LICK (TEQUILA Remix)",
+      "url": "https://open.spotify.com/track/0j3gAEzdaNCiv6cXzdY5gZ"
     },
     {
       "album": {

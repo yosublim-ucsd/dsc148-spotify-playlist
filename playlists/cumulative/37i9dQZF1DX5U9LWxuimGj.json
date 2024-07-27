@@ -133,6 +133,24 @@
     },
     {
       "album": {
+        "name": "Aerol\u00ednea",
+        "url": "https://open.spotify.com/album/6hJXPdppcnnvnuiyLVyFzv"
+      },
+      "artists": [
+        {
+          "name": "Juan Cerro",
+          "url": "https://open.spotify.com/artist/3dMAwDvgNZmLZHiVlFGi6L"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193507,
+      "name": "Aerol\u00ednea",
+      "url": "https://open.spotify.com/track/5hSUeE4RnQ4sZfw3scLqse"
+    },
+    {
+      "album": {
         "name": "Alch Si",
         "url": "https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc"
       },
@@ -434,6 +452,28 @@
       "duration_ms": 177416,
       "name": "Chevy Bel Air",
       "url": "https://open.spotify.com/track/1tepd9MBwVeC9jRva63Rv1"
+    },
+    {
+      "album": {
+        "name": "Cold Blooded",
+        "url": "https://open.spotify.com/album/5JosVPtHNfu2O4m0QTIfab"
+      },
+      "artists": [
+        {
+          "name": "Fernando & Sorocaba",
+          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
+        },
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161791,
+      "name": "Cold Blooded",
+      "url": "https://open.spotify.com/track/4FKURHEBJawl7Da2OIocSz"
     },
     {
       "album": {

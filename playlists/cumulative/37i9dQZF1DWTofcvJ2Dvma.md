@@ -4,7 +4,7 @@
 
 > Soundtrack your practice with this mix of chill and motivational tracks perfect for vinyasa yoga.
 
-491 songs - 20 hr 39 min
+492 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,12 +54,12 @@
 | [brainin' in my rainin'](https://open.spotify.com/track/5m8Wvl0GrFfMfmkDshFBPj) | [Tall Roots](https://open.spotify.com/artist/6QHqHz26iLQmFVPbhEeOup) | [brainin' in my rainin'](https://open.spotify.com/album/2gZltZMzpGMXVfIDRQ54AJ) | 1:54 | 2024-02-23 |  |
 | [Breeze 52](https://open.spotify.com/track/0rNTOI1K11CSPTj3dvq1tU) | [Pluto Tracks](https://open.spotify.com/artist/1JFmZ9XvgZnVttQHe8RSj1) | [Breeze 52](https://open.spotify.com/album/1qRVaci6Oqo43ssMt88MwZ) | 1:58 | 2022-03-14 | 2023-01-06 |
 | [butter](https://open.spotify.com/track/2gouQWJVOdLrjfAF6N1WIg) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [butter](https://open.spotify.com/album/564uFHwoXpTQUR8RkRDJjS) | 2:18 | 2024-01-19 |  |
-| [Buttermilk](https://open.spotify.com/track/727CT3984GcH1aqLkbGo6D) | [Selene Blais](https://open.spotify.com/artist/5EdnUbCaXHAdgqnOZvAWTP) | [Buttermilk](https://open.spotify.com/album/2nGkjmdviKiohj2bK8Rooj) | 2:49 | 2024-01-19 |  |
+| [Buttermilk](https://open.spotify.com/track/727CT3984GcH1aqLkbGo6D) | [Selene Blais](https://open.spotify.com/artist/5EdnUbCaXHAdgqnOZvAWTP) | [Buttermilk](https://open.spotify.com/album/2nGkjmdviKiohj2bK8Rooj) | 2:49 | 2024-01-19 | 2024-07-27 |
 | [by the book](https://open.spotify.com/track/2HO4rPSFnE2FCggOcZUDtq) | [slowerful](https://open.spotify.com/artist/6dDjZKFRB1MhmnxZiKegdq) | [by the book](https://open.spotify.com/album/6lYaUUZThMYNybUokR9IAJ) | 2:33 | 2022-03-14 | 2022-04-22 |
 | [Café Rio](https://open.spotify.com/track/28WEdMqtZ0EW43L0yTRQk5) | [Edoardo Más](https://open.spotify.com/artist/3vDywqMAcuHdMgK30nSSLW) | [Café Rio](https://open.spotify.com/album/6yL9GXFei3SZJUorDCJZMU) | 3:36 | 2022-03-14 | 2022-11-26 |
 | [Calculator](https://open.spotify.com/track/5ge3MKqV7AvdQmwUnsWaYX) | [sonofie](https://open.spotify.com/artist/64V6VBrGxTgK5VuSIY9TVw) | [Calculator](https://open.spotify.com/album/0yrUNuuUzin7Gov8i8ApHN) | 1:48 | 2022-03-14 | 2023-01-25 |
 | [CALL ME WHEN YOU GET HOME](https://open.spotify.com/track/4rxGBqij3pGn5UBs2prUlT) | [nomoretime](https://open.spotify.com/artist/6WtIFRiNMwkJLPrZdAjNIB) | [CALL ME WHEN YOU GET HOME](https://open.spotify.com/album/3swXcNPaC4SjMijAPWtUUp) | 2:10 | 2024-01-19 |  |
-| [Calm Euphoria](https://open.spotify.com/track/5Z1JCzQtEbH3OAUT9xWi4k) | [Alunni](https://open.spotify.com/artist/5uZQ9focwD7agsnaUA2gBz) | [Calm Euphoria](https://open.spotify.com/album/1klIEGzkf55z5Dwa7cq6tF) | 2:24 | 2024-03-22 |  |
+| [Calm Euphoria](https://open.spotify.com/track/5Z1JCzQtEbH3OAUT9xWi4k) | [Alunni](https://open.spotify.com/artist/5uZQ9focwD7agsnaUA2gBz) | [Calm Euphoria](https://open.spotify.com/album/1klIEGzkf55z5Dwa7cq6tF) | 2:24 | 2024-03-22 | 2024-07-27 |
 | [can you call me back](https://open.spotify.com/track/5MspgG8KBCGjZEri91ZR1t) | [Venn Divi](https://open.spotify.com/artist/0xMjjTrZmBI1AxzgRKFmPi) | [can you call me back](https://open.spotify.com/album/081bq3A8UNs9vJIDdTtAjd) | 3:09 | 2023-06-20 | 2024-01-20 |
 | [Cap Bénat](https://open.spotify.com/track/0ITR2dYQz1AelssrHTZ0a7) | [Zack & Alex](https://open.spotify.com/artist/5zQXrY8n5KXT1kjmNryojG) | [Cap Bénat](https://open.spotify.com/album/4EmeOCvieivOpPAKj0MhQN) | 3:14 | 2022-09-01 | 2022-10-26 |
 | [Careless](https://open.spotify.com/track/69PYB04q2aTC3i9wFzRC3T) | [Wolf Schranze](https://open.spotify.com/artist/4MtvBs0l4svT0L3QQLwPMM) | [Careless](https://open.spotify.com/album/0QDeDHId4agJs6w0G630zO) | 2:03 | 2023-08-29 | 2024-01-20 |
@@ -131,6 +131,7 @@
 | [Excellerator](https://open.spotify.com/track/11M7ebTCTSmTaFLUfF3zob) | [OMOZO](https://open.spotify.com/artist/0UADN60KWS7lO5isbnePqy) | [Excellerator](https://open.spotify.com/album/7fT89oyy3uT3bsL7QSACfF) | 2:34 | 2023-08-29 | 2024-01-20 |
 | [exhale](https://open.spotify.com/track/57lhljt2lQn9x5hitpDjJ5) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [exhale](https://open.spotify.com/album/6zZLGaivwAi4f5i5DdZe3I) | 2:47 | 2024-01-19 |  |
 | [eyes closed, flying](https://open.spotify.com/track/4YphuuHWU3xM2rNlXEk3yC) | [olbejom](https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq) | [Dreamscapes](https://open.spotify.com/album/1grSb4dJHXQDo6AMkkkjk8) | 1:58 | 2022-11-25 | 2023-06-21 |
+| [Faded](https://open.spotify.com/track/3zp0Y3dGRQFdU9KpFV11Pq) | [Quiet Quarters](https://open.spotify.com/artist/42BL1F6wDXyAy4cwaTFkm0) | [Faded](https://open.spotify.com/album/3ASV02VV4XyhkX3bJSnu7c) | 1:41 | 2024-07-26 |  |
 | [Fall](https://open.spotify.com/track/6bWohy0oM550MR6phDoSAc) | [Mr\. Hilroy](https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T) | [Talks After Ten](https://open.spotify.com/album/3ubcK42N5b7mD5F8bEHEiJ) | 3:05 | 2022-03-14 | 2022-05-11 |
 | [falling](https://open.spotify.com/track/0JwITaadgbbBnQIioNbjrD) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [falling](https://open.spotify.com/album/3YpHJzRylTi7Y3jU2KcXVS) | 2:40 | 2022-03-14 | 2022-04-22 |
 | [Falling Again](https://open.spotify.com/track/7rBWL83LuXHYCv5ZenKTVU) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Close Call](https://open.spotify.com/album/7Id0c14GxNXDkz38Io070t) | 3:05 | 2022-03-14 | 2022-12-22 |
@@ -173,7 +174,7 @@
 | [Got It Done](https://open.spotify.com/track/0qrC0w1yduJyKPgrBmsQP7) | [Nixon Lash](https://open.spotify.com/artist/4IuD2seIzvnIcOlDN9SKoq) | [Got It Done](https://open.spotify.com/album/4SV7kePZpMDHyHRrdNUDgR) | 1:45 | 2022-11-25 | 2023-06-21 |
 | [gracious king](https://open.spotify.com/track/30RPxp0eKzgN3rD8ceQfkP) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [little hawk & gracious king](https://open.spotify.com/album/1s9LG1dP9bNq6El908hpzS) | 2:08 | 2022-11-25 | 2024-01-20 |
 | [gradual](https://open.spotify.com/track/2BsIIaj2hJ7rw8yFWMiL0A) | [Sleepr Cell](https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m) | [gradual](https://open.spotify.com/album/22KxorNZHmgpoS6XOBgme2) | 2:37 | 2024-01-19 |  |
-| [graining](https://open.spotify.com/track/4AkNFW2EVDK3k4nmr7kdhA) | [Maggotts&Becketts](https://open.spotify.com/artist/5KcHdaJD7z9518eYGaAh07), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [graining](https://open.spotify.com/album/7BNnuGbXLHHdM9CEw6vCqJ) | 2:12 | 2024-02-02 |  |
+| [graining](https://open.spotify.com/track/4AkNFW2EVDK3k4nmr7kdhA) | [Maggotts&Becketts](https://open.spotify.com/artist/5KcHdaJD7z9518eYGaAh07), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [graining](https://open.spotify.com/album/7BNnuGbXLHHdM9CEw6vCqJ) | 2:12 | 2024-02-02 | 2024-07-27 |
 | [Grass and River](https://open.spotify.com/track/6K0Pw82tPWRDMBfJfsbLte) | [Speezhead](https://open.spotify.com/artist/7Bg8y3H9sNWsbm2tnThkpA) | [Grass and River](https://open.spotify.com/album/0BCjyDpUUvRTPUGbLHWaF7) | 2:46 | 2022-10-25 | 2024-01-20 |
 | [Gravity](https://open.spotify.com/track/4M9psxWmJ0NnZCTM97Wjo5) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Gravity](https://open.spotify.com/album/4w0EdRKTU2b6EWS8AOP3ha) | 2:12 | 2022-09-22 | 2023-10-06 |
 | [green velvet](https://open.spotify.com/track/6v5wgMNhYbZk92SPY88lNm) | [Chekkerz](https://open.spotify.com/artist/4ymqiB3DtTzSICNZMScTKz) | [green velvet](https://open.spotify.com/album/2B893F73aIVF7MJ36y9evq) | 2:11 | 2024-01-19 |  |
@@ -304,7 +305,7 @@
 | [NYC Springtime](https://open.spotify.com/track/7cxy4O5Ya6lc1hRSey4kiy) | [High Tip](https://open.spotify.com/artist/1GmHbj4LThdp2urHblLSWC) | [NYC Springtime](https://open.spotify.com/album/1gjrInZoxANNKBBnXq3YWi) | 4:01 | 2022-04-21 | 2023-01-25 |
 | [OK](https://open.spotify.com/track/004Df9CUYODSYGvvgPvcmy) | [its\-ya\-boi](https://open.spotify.com/artist/1FbBiHKRJo32d7cDKVXkqK) | [OK](https://open.spotify.com/album/0QkdZUAw5HNiX9cujipQXe) | 2:08 | 2022-03-14 | 2022-10-26 |
 | [on the horizon](https://open.spotify.com/track/6zLbYaT9kw4uChKU9q1seG) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [on the horizon](https://open.spotify.com/album/5prWcKTBqdEkY1kSmRDe41) | 3:31 | 2024-01-19 |  |
-| [one with the cube](https://open.spotify.com/track/4rYpweh6x3xGOKejHZOFLp) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [one with the cube](https://open.spotify.com/album/6HSEIuuQtNFbkqExwuu23m) | 2:06 | 2024-03-01 |  |
+| [one with the cube](https://open.spotify.com/track/4rYpweh6x3xGOKejHZOFLp) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [one with the cube](https://open.spotify.com/album/6HSEIuuQtNFbkqExwuu23m) | 2:06 | 2024-03-01 | 2024-07-27 |
 | [Orchard Swing](https://open.spotify.com/track/70UrlQAcz7mXvcwI2HoQ9Z) | [luzzy fogic](https://open.spotify.com/artist/1otffiT3xiIe9A8jw7LVut) | [Orchard Swing](https://open.spotify.com/album/1BxFSpxIcTFYqaEdYthEc0) | 2:23 | 2024-01-19 |  |
 | [Osaka](https://open.spotify.com/track/3lRlUxwzbHwH6QyXZwO3do) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Osaka](https://open.spotify.com/album/0Rfq7P7TnuNZTed3LHUeD6) | 2:00 | 2023-06-20 | 2024-01-20 |
 | [Ox](https://open.spotify.com/track/32dBcJq0JvvfuT3vLB23ZB) | [High Tip](https://open.spotify.com/artist/1GmHbj4LThdp2urHblLSWC) | [NYC Springtime](https://open.spotify.com/album/1gjrInZoxANNKBBnXq3YWi) | 4:20 | 2022-04-21 | 2024-01-20 |
@@ -326,7 +327,7 @@
 | [play me](https://open.spotify.com/track/20iCDmodyMCKSpNpoCus35) | [yumiyumi](https://open.spotify.com/artist/7Cp3qOemuJmuqdD7qnL780) | [play me](https://open.spotify.com/album/0jFczI9RFaTMEkgF6wJGnc) | 2:17 | 2024-01-19 |  |
 | [Podgorica](https://open.spotify.com/track/3vtCCzTd5bQnqHtgWrRSDc) | [Oceantown](https://open.spotify.com/artist/6JOJhrpRB0GxaxqkJ9Nnhu) | [Not Today](https://open.spotify.com/album/4ztEfLnguQsnV8uso208R6) | 2:45 | 2022-03-14 | 2024-01-20 |
 | [polygo](https://open.spotify.com/track/0xoyI2U8jQ4pYtc1uKg6Kw) | [Mauro Itzhak](https://open.spotify.com/artist/4ABZDpqLJ4IKly9Vx8sr9i) | [polygo](https://open.spotify.com/album/5aAmoVTtTnDqkOvnB4pm20) | 1:49 | 2022-09-01 | 2023-06-21 |
-| [prism](https://open.spotify.com/track/7x6LbHwFGwyQahnp7xG53y) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [prism](https://open.spotify.com/album/7KCabudhTNECE5TfEBW9Gz) | 1:42 | 2024-01-19 |  |
+| [prism](https://open.spotify.com/track/7x6LbHwFGwyQahnp7xG53y) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [prism](https://open.spotify.com/album/7KCabudhTNECE5TfEBW9Gz) | 1:42 | 2024-01-19 | 2024-07-27 |
 | [Proud](https://open.spotify.com/track/389TtRJoTkbZ8VtGkt22iC) | [SPEERMINT](https://open.spotify.com/artist/4vUekBx2RSM0U87RLJl1pL) | [Proud](https://open.spotify.com/album/6kethGKQhDlXousA0NfVCD) | 2:16 | 2022-12-21 | 2024-01-20 |
 | [pulsation](https://open.spotify.com/track/3VjK1arZPnFcTbSJ4zR3hc) | [fontatron](https://open.spotify.com/artist/5rwl3ry7Yx0YuONcyezg4d) | [pulsation](https://open.spotify.com/album/6A95PAtS0MSpuWR6yx63U7) | 2:10 | 2024-01-19 |  |
 | [Pure Water](https://open.spotify.com/track/2ZLJrHbLNkj8rrnh9ECyxU) | [JAKKARTA](https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk) | [Pure Water](https://open.spotify.com/album/0pdsUyxPplZqjQ2oRBkmcD) | 2:57 | 2024-01-19 |  |

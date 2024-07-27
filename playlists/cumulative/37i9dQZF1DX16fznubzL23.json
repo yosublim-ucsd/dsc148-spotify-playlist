@@ -133,6 +133,24 @@
     },
     {
       "album": {
+        "name": "Adaadaa",
+        "url": "https://open.spotify.com/album/3wJRrLm71DWKt72qwQ8BQo"
+      },
+      "artists": [
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237949,
+      "name": "Adaadaa",
+      "url": "https://open.spotify.com/track/7d2i8FNVijZutESaJ4n4Ob"
+    },
+    {
+      "album": {
         "name": "Affairs",
         "url": "https://open.spotify.com/album/4G7HCFjj6K39ELUmXSO49G"
       },
@@ -326,7 +344,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 176850,
       "name": "Bad To Me",
       "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
@@ -1460,7 +1478,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 144413,
       "name": "Home",
       "url": "https://open.spotify.com/track/37DkD7AlTuPQIh97hO8hVI"
@@ -3692,6 +3710,28 @@
       "duration_ms": 166000,
       "name": "Toxic Relationship",
       "url": "https://open.spotify.com/track/4jcTly5eRO1DfGlQ4v9IJY"
+    },
+    {
+      "album": {
+        "name": "Tragic",
+        "url": "https://open.spotify.com/album/0gqVeRX0RusP92oHhjIIj2"
+      },
+      "artists": [
+        {
+          "name": "Lali X Lola",
+          "url": "https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0"
+        },
+        {
+          "name": "Crispen",
+          "url": "https://open.spotify.com/artist/0hQEeOM8vtXG4ytmW6knaR"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163925,
+      "name": "Tragic",
+      "url": "https://open.spotify.com/track/2kGGzpFQPLz0NtgCHFo9AI"
     },
     {
       "album": {

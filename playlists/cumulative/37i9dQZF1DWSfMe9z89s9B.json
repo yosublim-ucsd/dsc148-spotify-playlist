@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Leaders of the new school...Alternative R&B. Cover: Amindi",
+  "description": "Leaders of the new school...Alternative R&B. Cover: Dua Saleh",
   "name": "Vanguard",
   "tracks": [
     {
@@ -2844,7 +2844,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 188421,
       "name": "Bonafide",
       "url": "https://open.spotify.com/track/1jIopA8Imz4gwR8bjBlEjJ"
@@ -3884,7 +3884,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 188550,
       "name": "chasing the bus",
       "url": "https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z"
@@ -4054,6 +4054,24 @@
       "duration_ms": 206826,
       "name": "Chivalry Is Not Dead",
       "url": "https://open.spotify.com/track/4nd9kZRsdc1IC9cWYjL2ox"
+    },
+    {
+      "album": {
+        "name": "CHLORINE",
+        "url": "https://open.spotify.com/album/3juQIkQykDHqa62bUwVoCf"
+      },
+      "artists": [
+        {
+          "name": "Justin Nozuka",
+          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142881,
+      "name": "CHLORINE",
+      "url": "https://open.spotify.com/track/4km4gNXy7TTPG0e2LT5kYo"
     },
     {
       "album": {
@@ -11413,6 +11431,24 @@
     },
     {
       "album": {
+        "name": "Lady",
+        "url": "https://open.spotify.com/album/1VVky8OBzNrxJC4ggqxzvS"
+      },
+      "artists": [
+        {
+          "name": "Deb Fan",
+          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/25a355X1ftClDfOnvAN3YS"
+    },
+    {
+      "album": {
         "name": "LADY",
         "url": "https://open.spotify.com/album/50GdbECmzrTgVknqyh9Cps"
       },
@@ -11424,7 +11460,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 226500,
       "name": "LADY",
       "url": "https://open.spotify.com/track/5ykAJMmkgLxayuV4sgOoLp"
@@ -12890,7 +12926,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 185314,
       "name": "Mariah",
       "url": "https://open.spotify.com/track/2Mi6o1VgvjnJa31yrPT3UC"
@@ -17433,6 +17469,24 @@
     },
     {
       "album": {
+        "name": "DISTRACTION / SCREAM MY NAME",
+        "url": "https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160007,
+      "name": "SCREAM MY NAME",
+      "url": "https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg"
+    },
+    {
+      "album": {
         "name": "scuse me",
         "url": "https://open.spotify.com/album/7mLCTKkW7aWxsNsXTJ9oYz"
       },
@@ -20339,6 +20393,24 @@
     },
     {
       "album": {
+        "name": "Tempt Me",
+        "url": "https://open.spotify.com/album/7ehRZk4A4DfCtxrg7Omgvk"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130434,
+      "name": "Tempt Me",
+      "url": "https://open.spotify.com/track/3CAws2VaEfaIvOeTcXVpGi"
+    },
+    {
+      "album": {
         "name": "TEMPTATIONS",
         "url": "https://open.spotify.com/album/46xtqR37R8Ge71o0tQ4peS"
       },
@@ -20614,6 +20686,28 @@
       "duration_ms": 146917,
       "name": "THE PEACH",
       "url": "https://open.spotify.com/track/6KCL9FON6UWWymafgIwECG"
+    },
+    {
+      "album": {
+        "name": "The Ranch",
+        "url": "https://open.spotify.com/album/6Z1C8mD0yj2zXMWrIQQ5ZM"
+      },
+      "artists": [
+        {
+          "name": "Tempest",
+          "url": "https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa"
+        },
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141373,
+      "name": "The Ranch",
+      "url": "https://open.spotify.com/track/30nWLfydBWgDbkV7sG3mPY"
     },
     {
       "album": {
@@ -21508,7 +21602,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 177435,
       "name": "Truman Show",
       "url": "https://open.spotify.com/track/4IzjDkQrKWLLUXQK4sAXZ3"
@@ -21786,7 +21880,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 172800,
       "name": "UGOMDN pt. 2 (ft. Mick Jenkins)",
       "url": "https://open.spotify.com/track/38Y0EZIIgdvTwlgF8n0Czg"
@@ -22782,6 +22876,24 @@
       "duration_ms": 174138,
       "name": "what comes next (feat. 24hoursav & Dua Saleh)",
       "url": "https://open.spotify.com/track/5GFEVttbTjNIQxx7QAR90n"
+    },
+    {
+      "album": {
+        "name": "WHAT IS HAPPENING? (Radio Edit)",
+        "url": "https://open.spotify.com/album/2TxN0USmBbvP8SeVzdNg2l"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153624,
+      "name": "WHAT IS HAPPENING? - Radio Edit",
+      "url": "https://open.spotify.com/track/25fl5dCoYeoytCDfu0coji"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Top Christian Worship 2024 | The latest and greatest of today's best Worship music. Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href=\"spotify:user:sozoofficial\">SOZO Playlists</a>! ",
-  "num_followers": 117340,
+  "num_followers": 117350,
   "original_name": "Top Christian Worship 2024",
   "owner": {
     "name": "SOZO Playlists ",
     "url": "https://open.spotify.com/user/sozoofficial"
   },
-  "snapshot_id": "AAAfQP3v2Q0iMiIVG/os/ytGIjzpp72h",
+  "snapshot_id": "AAAfRM7U/iTk2sx++FICbS3Isr/NIK44",
   "tracks": [
     {
       "added_at": "2024-06-21 04:26:11",
@@ -117,6 +117,26 @@
       "url": "https://open.spotify.com/track/3lH3L5Qyz2xQHxAeq7BycZ"
     },
     {
+      "added_at": "2024-07-26 04:25:18",
+      "album": {
+        "name": "They Always Do (Live)",
+        "url": "https://open.spotify.com/album/0E92LMcaFJbJFM6XyIpBa9"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Anjin Teal",
+          "url": "https://open.spotify.com/artist/2u4ZlEZudVyc62sqwYYTBc"
+        }
+      ],
+      "duration_ms": 368025,
+      "name": "They Always Do - Live",
+      "url": "https://open.spotify.com/track/1Tjw8b9Nkv1pKHrohw0sgl"
+    },
+    {
       "added_at": "2024-05-24 05:18:28",
       "album": {
         "name": "Call on Heaven (Live)",
@@ -177,10 +197,10 @@
       "url": "https://open.spotify.com/track/72RlJgcgpJtCsKQaqkOkvy"
     },
     {
-      "added_at": "2024-06-28 04:09:39",
+      "added_at": "2024-07-26 04:04:44",
       "album": {
-        "name": "Loved",
-        "url": "https://open.spotify.com/album/6qxCDhu4mNGk4rqvMl1Khk"
+        "name": "Happily Hidden",
+        "url": "https://open.spotify.com/album/5fCirlLG6ch2MFWyOA5B9b"
       },
       "artists": [
         {
@@ -188,13 +208,13 @@
           "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
         },
         {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
         }
       ],
-      "duration_ms": 308280,
-      "name": "Loved",
-      "url": "https://open.spotify.com/track/5LQ70Yd2fF8LTCG3e2xfaR"
+      "duration_ms": 233129,
+      "name": "Happily Hidden (with John Mark McMillan)",
+      "url": "https://open.spotify.com/track/1KSbEDEuafGfz2fuioe5uK"
     },
     {
       "added_at": "2024-07-19 04:53:46",
@@ -379,6 +399,42 @@
       "duration_ms": 230493,
       "name": "NO ENEMY",
       "url": "https://open.spotify.com/track/0U6RK1znTwQ41QPeP5FEeZ"
+    },
+    {
+      "added_at": "2024-07-26 04:28:50",
+      "album": {
+        "name": "Oh What A Friend",
+        "url": "https://open.spotify.com/album/1i2J6zD8932uZXrhrnqFhj"
+      },
+      "artists": [
+        {
+          "name": "John Wesley",
+          "url": "https://open.spotify.com/artist/5PQRezjw7uSnCQzNEgDBnq"
+        }
+      ],
+      "duration_ms": 226277,
+      "name": "Oh What A Friend",
+      "url": "https://open.spotify.com/track/6Me57rRHSblLtoexHpPw7n"
+    },
+    {
+      "added_at": "2024-06-28 04:09:39",
+      "album": {
+        "name": "Loved",
+        "url": "https://open.spotify.com/album/6qxCDhu4mNGk4rqvMl1Khk"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        },
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 308280,
+      "name": "Loved",
+      "url": "https://open.spotify.com/track/5LQ70Yd2fF8LTCG3e2xfaR"
     },
     {
       "added_at": "2024-06-28 04:23:13",
@@ -1017,7 +1073,7 @@
         },
         {
           "name": "Josh Daughtry",
-          "url": "https://open.spotify.com/artist/2PJb2PVcw6LgdWLlsCJumi"
+          "url": "https://open.spotify.com/artist/4IjRMGL8gJC2zUAoF5rU0F"
         }
       ],
       "duration_ms": 316040,

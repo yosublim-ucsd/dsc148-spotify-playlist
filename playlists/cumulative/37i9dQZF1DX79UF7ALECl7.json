@@ -260,7 +260,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 191005,
       "name": "Always",
       "url": "https://open.spotify.com/track/7xOuEBWsubmh7Soj9rnJ0d"
@@ -692,6 +692,24 @@
       "duration_ms": 247724,
       "name": "Coffee and Feels",
       "url": "https://open.spotify.com/track/2Z2qsGVCBCAPGvXqe3JxeG"
+    },
+    {
+      "album": {
+        "name": "Coffee and Feels",
+        "url": "https://open.spotify.com/album/44ZzvdUooVR79PcBGwIWgk"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247724,
+      "name": "Coffee and Feels",
+      "url": "https://open.spotify.com/track/4B6nwPu67gcOfwpD6t2mDg"
     },
     {
       "album": {

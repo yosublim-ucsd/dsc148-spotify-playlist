@@ -4,12 +4,13 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-328 songs - 15 hr 48 min
+330 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 \(feat\. CP\)](https://open.spotify.com/track/3CejJ593Dg54c4m8NlSpto) | [Très Mortimer](https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7), [CP](https://open.spotify.com/artist/4yyJIkmo80mhEQXr8DF2ub) | [1000 \(feat\. CP\)](https://open.spotify.com/album/6svs8n6epi8U1u6xhENItF) | 2:50 | 2022-05-06 | 2022-10-08 |
 | [4321](https://open.spotify.com/track/6vWnGPaLwC7dZEZta594fs) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [4321](https://open.spotify.com/album/3sMHqf5dmjRL3MaENIrp7z) | 2:22 | 2024-01-19 |  |
+| [64 Impala](https://open.spotify.com/track/52w9GCt9IeQU8R7WhHrmXi) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [64 Impala](https://open.spotify.com/album/1nIIfKcs5sJzuCoOu2zacs) | 2:11 | 2024-07-26 |  |
 | [911](https://open.spotify.com/track/7wkjbEz5ZKO2BD2UQ9xng5) | [Makla](https://open.spotify.com/artist/1ngUu0NNbd7uGigLW2je0M), [Spin Off](https://open.spotify.com/artist/04z6nGdieOEA89MgeY6ngD) | [911](https://open.spotify.com/album/0sPhVYEG3PMR9pQliDALZp) | 2:55 | 2024-03-12 |  |
 | [A Little Techno](https://open.spotify.com/track/4mOh1Pv4RdYN0MpTmqs3ce) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [A Little Techno](https://open.spotify.com/album/7ohBu7NjyuJ723V3b9wED1) | 2:46 | 2024-04-12 |  |
 | [Action](https://open.spotify.com/track/60fyTAA4YUDrlvXKTbd9WK) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [Action](https://open.spotify.com/album/0gAtf1frqEswUJlQFZOKQm) | 2:58 | 2022-11-11 | 2023-02-18 |
@@ -194,6 +195,7 @@
 | [Midnight \(feat\. LINK\)](https://open.spotify.com/track/5HpRQNBXWdFdXcLCNS5Niv) | [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa), [LINK](https://open.spotify.com/artist/20kaxHgwoxhckhw90pyRbb) | [Midnight \(feat\. LINK\)](https://open.spotify.com/album/2jSolctatBqVTEUDJ6lRyD) | 2:12 | 2023-02-17 | 2023-04-09 |
 | [Miedo](https://open.spotify.com/track/5QyP1mCvTyBasfWC8Qdp9i) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Miedo](https://open.spotify.com/album/5Q7ygUBxpsQpQowIBdwLBF) | 3:00 | 2022-05-06 | 2022-07-09 |
 | [Mil Curitas](https://open.spotify.com/track/4VNLSG0SHlSrFPvBiFA9ks) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Cassette](https://open.spotify.com/album/2lTCkJLh11fjo87tpgm8GQ) | 2:16 | 2022-05-06 | 2022-10-18 |
+| [MOON](https://open.spotify.com/track/0wsPWksjRwQkYofsre9rMD) | [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI), [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [MOON](https://open.spotify.com/album/77E1Q1IxMPpC96tLpXzrvy) | 3:27 | 2024-07-26 |  |
 | [Moonlight \(feat\. Gianni Taylor\)](https://open.spotify.com/track/6u2XCvRMgI7kQZ32RbiAbk) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [GIANNI TAYLOR](https://open.spotify.com/artist/3fNJYQvnucBeI9BfNwMC5i) | [Moonlight \(feat\. Gianni Taylor\)](https://open.spotify.com/album/1faudGW99AwyzM2vIZxYzt) | 2:53 | 2023-01-27 | 2023-04-09 |
 | [MOTION](https://open.spotify.com/track/4EzW52mbVR93yJVnHYi710) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [MOTION](https://open.spotify.com/album/7wLPe5WdB6xkxmEEQV1kqy) | 2:13 | 2023-04-07 |  |
 | [Move It](https://open.spotify.com/track/14JGGrnRhzw34yqcIlPlG6) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Move It](https://open.spotify.com/album/5wktvgz5IqlWiSegQBvQxo) | 2:20 | 2022-06-24 | 2023-01-28 |

@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Kaia Kater
 
-448 songs - 1 day 3 hr 47 min
+450 songs - 1 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,7 @@
 | [The Crow and The Raven \(III\)](https://open.spotify.com/track/23ET0QBqjrlDjxau5lf8Hx) | [Kitchen Dwellers](https://open.spotify.com/artist/5JiwO4LnQq3F6MGCRh3D31), [Lindsay Lou](https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ) | [The Crow and The Raven \(III\)](https://open.spotify.com/album/4UUIZjLtkjxMEeCAH8d3Cu) | 5:52 | 2024-04-06 |  |
 | [The Devil In You](https://open.spotify.com/track/2JdrptIXTn0xLCy3gRVbMx) | [The Haunted Windchimes](https://open.spotify.com/artist/2f61F4arCAsrcU08xPxjV2) | [LIVE CHIMES: Volume One](https://open.spotify.com/album/0TFngGzCdzokCIoZ2FNJKR) | 2:22 | 2022-07-22 | 2022-12-03 |
 | [The Devil In You](https://open.spotify.com/track/4nA3rdugWqbUozPJCrNR0j) | [The Haunted Windchimes](https://open.spotify.com/artist/2f61F4arCAsrcU08xPxjV2) | [LIVE CHIMES: Volume One](https://open.spotify.com/album/0HXxUy2QIIZEEEiVNRMlRX) | 2:22 | 2021-10-01 | 2022-07-29 |
-| [The Dog Song](https://open.spotify.com/track/7jKF3WjW7lv0JlR9t9fuuG) | [Malingo](https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk) | [The Dog Song](https://open.spotify.com/album/5fe3j7Ay9Gvq5uoGnQ6Ia6) | 1:59 | 2024-03-22 |  |
+| [The Dog Song](https://open.spotify.com/track/7jKF3WjW7lv0JlR9t9fuuG) | [Malingo](https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk) | [The Dog Song](https://open.spotify.com/album/5fe3j7Ay9Gvq5uoGnQ6Ia6) | 1:59 | 2024-03-22 | 2024-07-27 |
 | [The Flowers of Yesteryear](https://open.spotify.com/track/5eXOrbokfE4fwK58UZaDmh) | [Late for the Train](https://open.spotify.com/artist/6Ujebh1ZJJkdievXbMwldV) | [The Flowers of Yesteryear](https://open.spotify.com/album/1WkekdEfxE2eiU26oY4wzV) | 4:17 | 2024-05-10 |  |
 | [The Fox and the River](https://open.spotify.com/track/1hRSSZblPpjmq4vU4ZeZ0t) | [Kate Prascher](https://open.spotify.com/artist/26AEagFod7amlwiCyy0JsY) | [The Fox and the River](https://open.spotify.com/album/6ZMRkSwZzjYwBMmM3aCfeq) | 3:05 | 2022-02-25 | 2024-03-09 |
 | [The High Road](https://open.spotify.com/track/2FaRTKC8O1ylcBlSY8P8NU) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [When You're Ready](https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV) | 2:49 | 2021-10-01 | 2022-04-02 |
@@ -380,6 +380,7 @@
 | [The Middle](https://open.spotify.com/track/2aku9CbppMvVCbuDe4scTB) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Life Is Good on the Open Road](https://open.spotify.com/album/2U6ejoIDreiVA6Tt0ITxRh) | 4:28 | 2023-04-14 | 2023-07-22 |
 | [The Middle](https://open.spotify.com/track/46X5yC3riaLqYzh8xwf6qm) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [The Middle](https://open.spotify.com/album/1oRVBQBpyqw1nrDROwOmct) | 4:28 | 2021-10-01 | 2023-04-20 |
 | [The New Ground](https://open.spotify.com/track/6yljyecBkeP42NOhPzuJpH) | [Kristin Andreassen](https://open.spotify.com/artist/4ZmoZRx6S8AvKtFuRGIVSX) | [Gondolier](https://open.spotify.com/album/7FqccxROWYb0YQ3rg97ggN) | 3:26 | 2021-10-01 |  |
+| [The Painter's Folly](https://open.spotify.com/track/4DNmmgSWnx2LdqW2gupLrb) | [Malingo](https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk) | [The Painter's Folly](https://open.spotify.com/album/3CjhogJEk8FdhgzbqLIbjz) | 3:24 | 2024-07-26 |  |
 | [The Rain Done Fell on Me, Pt\. 1](https://open.spotify.com/track/5sxEhQimCSJ6ntaNTCk1y7) | [Justin Golden](https://open.spotify.com/artist/0UJMXL1jlszq1XqzM9MOAl) | [The Rain Done Fell on Me, Pt\. 1](https://open.spotify.com/album/290GEbcFq3xbG49BNYy0N9) | 2:23 | 2024-05-10 |  |
 | [The Sea \- Alternative Version](https://open.spotify.com/track/6FftizetgbURg5ung5zcLP) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [The Sea \(Alternative Version\)](https://open.spotify.com/album/5m6kuUHx1i8V17bAz7cTTo) | 2:26 | 2023-04-14 | 2024-02-24 |
 | [The Tide](https://open.spotify.com/track/0XZelTejXEzaztup9j4xnO) | [The Lonely Heartstring Band](https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26) | [The Tide](https://open.spotify.com/album/6Tn1yJmveMLAmATKi3m5cc) | 4:18 | 2021-10-01 | 2024-05-11 |
@@ -414,6 +415,7 @@
 | [Wagon Wheel](https://open.spotify.com/track/359krpyCKcFF8SFvqWES9L) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [O.C.M.S.](https://open.spotify.com/album/0ogkqQa8hPAtL02IqwJ36x) | 3:52 | 2021-10-01 | 2022-01-22 |
 | [Wake Me When It's Over](https://open.spotify.com/track/0J10lTnQV1rosvX0jYYX5J) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Wake Me When It's Over](https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz) | 4:18 | 2023-04-28 | 2024-06-01 |
 | [Walking](https://open.spotify.com/track/6Zfwu5a4g9OneQls4wGoCm) | [Mark Shiiba](https://open.spotify.com/artist/4GwrlLHprqqy29GK9JnmY9) | [Walking](https://open.spotify.com/album/2qahfwPKZSD2W85kLGikoi) | 3:06 | 2024-03-22 |  |
+| [Wall of Death \(From Twisters: The Album\)](https://open.spotify.com/track/6i8dQTwb7E4waCPMcsalDP) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI), [Ken Pomeroy](https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF), [James McAlister](https://open.spotify.com/artist/2TvVB6B050Aj5y2Hk4H84z) | [Wall of Death \(From Twisters: The Album\)](https://open.spotify.com/album/1lLyBWo1fLPpf5EN6iQRp0) | 2:29 | 2024-07-26 |  |
 | [Wayfaring Stranger](https://open.spotify.com/track/7s5MGO3eJBDuCfsUutotIC) | [Josh Threlkeld](https://open.spotify.com/artist/3ViyfhmMRSfI1OyF4mhkKI), [Alice Hasen](https://open.spotify.com/artist/0LC51vw5OOWDAcMRQw486R), [Rachel Maxann](https://open.spotify.com/artist/1CyZOS7R5MA1WKaeqSmcje) | [Wayfaring Stranger](https://open.spotify.com/album/4xUDHxjrS1bMt8E3F2ABJP) | 4:00 | 2024-06-14 |  |
 | [Waylon](https://open.spotify.com/track/5KrqycRZfgLjSeUoqVFbyi) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [Waylon](https://open.spotify.com/album/6YhlDsXOeXOU669gpNJNEK) | 3:40 | 2023-11-17 | 2023-12-16 |
 | [Weathered and Worn](https://open.spotify.com/track/5eDuOgtupzpY0Wqfvq3aK0) | [Cup O’Joe](https://open.spotify.com/artist/3ooGnJ9UPDeByu31PiBSYf) | [Weathered and Worn](https://open.spotify.com/album/1CPNweGhZECEtsPo9lFD5z) | 3:41 | 2023-08-18 |  |

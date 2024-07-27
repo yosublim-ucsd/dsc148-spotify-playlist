@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4d8OiNWwKaA6MBPq0K06Xa">Mehmet Aslan</a>'s favorite tracks\. Updated regularly\. Curated by Mehmet Aslan\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-213 songs - 17 hr 49 min
+214 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Moon](https://open.spotify.com/track/1FTPMQ0YRvVQ2uJex6sCjC) | [Romans](https://open.spotify.com/artist/3xYZvWSrsdDYdmx9o4rSgg) | [Turkish Hamam House Disco, Vol\. 1](https://open.spotify.com/album/0k6LBCWAiuYga5UKLuaDKS) | 3:11 | 2022-12-23 |  |
 | [Morning World \- Industrial Saron Mix](https://open.spotify.com/track/3ZltdO08eKDbjfEt3FnKCN) | [Omar Joesoef](https://open.spotify.com/artist/1PVwHYBk3n8kJg1YkdJuxe), [Sascha Alatas](https://open.spotify.com/artist/2PtYgzjaE1f5eXTBweVf7P) | [Rituals of Gorontalo](https://open.spotify.com/album/2RKu6dtRlcKqKlVqI8g7AE) | 4:53 | 2022-12-23 | 2023-12-13 |
 | [Mountains](https://open.spotify.com/track/2F2naxPU8VV7U8IkAWlkfA) | [Harmonious Thelonious](https://open.spotify.com/artist/2kVPZMqzND6qaYygZHGU8C) | [Santos](https://open.spotify.com/album/4wjSlIRofeZmgmz2hGehCY) | 3:32 | 2023-08-10 |  |
-| [Mum Tells Me](https://open.spotify.com/track/1RSwoPbwetdrVlTzBZ6GHV) | [WaqWaq Kingdom](https://open.spotify.com/artist/4in9NY36a5EllSTje5liC5) | [Essaka Hoisa](https://open.spotify.com/album/0DYyiocpYxNTSQZNz85qaX) | 3:52 | 2023-12-12 |  |
+| [Mum Tells Me](https://open.spotify.com/track/1RSwoPbwetdrVlTzBZ6GHV) | [WaqWaq Kingdom](https://open.spotify.com/artist/4in9NY36a5EllSTje5liC5) | [Essaka Hoisa](https://open.spotify.com/album/0DYyiocpYxNTSQZNz85qaX) | 3:52 | 2023-12-12 | 2024-07-27 |
 | [Mum Tells Me](https://open.spotify.com/track/6kBpCKpqYtdX9Y7So2y1D2) | [WaqWaq Kingdom](https://open.spotify.com/artist/4in9NY36a5EllSTje5liC5) | [Essaka Hoisa](https://open.spotify.com/album/5PywMTVU0Qmm8agu1u8mse) | 3:52 | 2022-12-23 | 2024-04-19 |
 | [Mystery Boy \- Vegyn Remix](https://open.spotify.com/track/2MKMdhHQeRujdPrEaZp8aa) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Mystery Boy \(Vegyn Remix\)](https://open.spotify.com/album/3c8YyFMZ6gn4orPAMbu3DL) | 2:34 | 2023-04-03 | 2023-10-19 |
 | [Mystery Man](https://open.spotify.com/track/5uXzbEs7Ws957xdzO3py8I) | [Brainchild](https://open.spotify.com/artist/6YmVvko54tHOaE0lOL36L2), [Clive Stevens](https://open.spotify.com/artist/2nbGZY5iAVgneVcocbVCy8) | [Pan Global: Electro Lounge Vol\. 1](https://open.spotify.com/album/5F9tKLFgNN95WhDyDFYcpY) | 5:15 | 2022-12-23 | 2023-12-13 |
@@ -179,6 +179,7 @@
 | [Sopratutto](https://open.spotify.com/track/3QSWrpaEdoM5Luf7aYMlZZ) | [Nicolini](https://open.spotify.com/artist/2XKOlTGvKbfnJaUgYvwXey) | [Sopratutto](https://open.spotify.com/album/0UP6UvJRoyOhIrMOI9bafu) | 3:44 | 2023-04-03 |  |
 | [Souvenir](https://open.spotify.com/track/1XZFzWUsdHXeweeNxzAHel) | [Maston](https://open.spotify.com/artist/7aE9KUqEEWrasYryOkJG7O), [L'éclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Souvenir](https://open.spotify.com/album/3XWlBMLf2QiKpiO1E7NMUD) | 1:53 | 2022-12-23 |  |
 | [Souvenir](https://open.spotify.com/track/2SaJlEH7J0U2L03jCf7ojM) | [Maston](https://open.spotify.com/artist/7aE9KUqEEWrasYryOkJG7O), [L'éclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Souvenir](https://open.spotify.com/album/4rUTEX2s54Ls9Co09BMbCv) | 1:53 | 2023-03-10 | 2024-04-19 |
+| [Spectra](https://open.spotify.com/track/6KEmE0HgxKzIxXegmqNj1j) | [Mehmet Aslan](https://open.spotify.com/artist/4d8OiNWwKaA6MBPq0K06Xa) | [Spectra](https://open.spotify.com/album/4tKsNaDhTdpYYbmjv4qp5b) | 4:25 | 2024-07-25 |  |
 | [Sve Su Seke Jebene](https://open.spotify.com/track/4vh4iPaADbbLDFrnELsuzS) | [Oliver Mandic](https://open.spotify.com/artist/0xEo4m46co9IGYyLQ5gRjp) | [Zbog Tebe Bih Tucao Kamen](https://open.spotify.com/album/7fnfYOcje2wc6N6IKobla6) | 3:40 | 2022-12-23 |  |
 | [Swim](https://open.spotify.com/track/2hkolx96eOIj1DTzduZlRW) | [Ayesha](https://open.spotify.com/artist/2nmIga6kAJM6a18mZqsE1U) | [Swim](https://open.spotify.com/album/0KbQmnBjmiRZGs2VO9TCRa) | 4:21 | 2022-12-23 |  |
 | [Taboo \- Club Mix](https://open.spotify.com/track/48TCYiOHkA1uiykdEIPEZ4) | [Rebles](https://open.spotify.com/artist/3sYvl5zrwAbMVVlog6PO6A) | [Sweetest Taboo](https://open.spotify.com/album/7KsKCoTPPN5wvuh6WuDIzy) | 6:50 | 2023-04-03 | 2023-04-30 |

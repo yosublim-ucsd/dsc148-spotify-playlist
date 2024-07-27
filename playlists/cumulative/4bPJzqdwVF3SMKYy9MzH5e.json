@@ -2815,6 +2815,24 @@
     },
     {
       "album": {
+        "name": "autumnrust",
+        "url": "https://open.spotify.com/album/5CFrBU4tfzL5LyFSzEn81x"
+      },
+      "artists": [
+        {
+          "name": "saraunh0ly",
+          "url": "https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234813,
+      "name": "autumnrust",
+      "url": "https://open.spotify.com/track/0Ru66uwT3sAwSKZvsrRYzi"
+    },
+    {
+      "album": {
         "name": "Avalon",
         "url": "https://open.spotify.com/album/6mSqysiE0NE7TbFosoJGTv"
       },

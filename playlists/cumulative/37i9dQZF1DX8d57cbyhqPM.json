@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "207",
+        "url": "https://open.spotify.com/album/5ZGzNUDy8PA9qIa3bYrHMG"
+      },
+      "artists": [
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        },
+        {
+          "name": "Ren\u00e9 Soso Pembe",
+          "url": "https://open.spotify.com/artist/4VbRAkOhCxEkuNK4EeVFIM"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 510382,
+      "name": "207",
+      "url": "https://open.spotify.com/track/6EgqrmhXNRv4v5tLdiDvde"
+    },
+    {
+      "album": {
         "name": "25 G",
         "url": "https://open.spotify.com/album/7cFIpmcYcJWnGGPa5Z6ZhP"
       },
@@ -310,7 +332,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 199704,
       "name": "Allo",
       "url": "https://open.spotify.com/track/2aOCcxLfLXUvDra9KuDkaa"
@@ -568,7 +590,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 172389,
       "name": "Balade",
       "url": "https://open.spotify.com/track/7zC2H1Ll179NEqy9WnEePO"
@@ -988,7 +1010,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 165663,
       "name": "BLESSING FALL",
       "url": "https://open.spotify.com/track/0hRncP0tB0QwmSZnzL5QIq"
@@ -1006,7 +1028,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 198200,
       "name": "Bloqu\u00e9",
       "url": "https://open.spotify.com/track/6L6lwZwGzn6WWqeLbONWZf"
@@ -1326,7 +1348,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 149133,
       "name": "CALMANT",
       "url": "https://open.spotify.com/track/5aJhbhV4fTcLSkgH8y3aKq"
@@ -1730,7 +1752,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 177606,
       "name": "Dans tes yeux",
       "url": "https://open.spotify.com/track/7f9HrL9JAeIP94Ab5rPq67"
@@ -1944,7 +1966,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 194437,
       "name": "DIVA",
       "url": "https://open.spotify.com/track/1vygEoQhk1WA6WMvIJ9ztW"
@@ -2490,6 +2512,24 @@
       "duration_ms": 286267,
       "name": "Eloko Oyo",
       "url": "https://open.spotify.com/track/2nOxzPAtTsUBmzShpGbpfj"
+    },
+    {
+      "album": {
+        "name": "EMBOMBO",
+        "url": "https://open.spotify.com/album/2qKZL9aY8l21zXkjIAVqPz"
+      },
+      "artists": [
+        {
+          "name": "Fabregas le M\u00e9tis Noir",
+          "url": "https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295711,
+      "name": "EMBOMBO",
+      "url": "https://open.spotify.com/track/0Ew4d2rU87GFcGl11mYIam"
     },
     {
       "album": {
@@ -4004,7 +4044,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 147130,
       "name": "Like (feat. Werrason)",
       "url": "https://open.spotify.com/track/4kQSzndpN5dBXF0gg9A9tH"
@@ -4306,7 +4346,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 140540,
       "name": "LV",
       "url": "https://open.spotify.com/track/2uDFdzVQ7QFEPoagFlMxRB"
@@ -4716,7 +4756,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 193619,
       "name": "Maziwa",
       "url": "https://open.spotify.com/track/09IfxlKqPL33hhPTfO6wfO"
@@ -4804,6 +4844,24 @@
       "duration_ms": 236721,
       "name": "Mbongo",
       "url": "https://open.spotify.com/track/7MNpmYELfvKKdLHAEUbCet"
+    },
+    {
+      "album": {
+        "name": "Melinda",
+        "url": "https://open.spotify.com/album/6EsMHDVOyyNAyix75MjIMv"
+      },
+      "artists": [
+        {
+          "name": "Kabuya",
+          "url": "https://open.spotify.com/artist/7vtu3MQdffH966vXmUolGy"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165402,
+      "name": "Melinda",
+      "url": "https://open.spotify.com/track/3bOEo7bDwqpTZiNhfwi4IX"
     },
     {
       "album": {
@@ -5388,6 +5446,24 @@
       "duration_ms": 182142,
       "name": "Nalingi ye",
       "url": "https://open.spotify.com/track/5mEnRGML6tztiuKBigJIQQ"
+    },
+    {
+      "album": {
+        "name": "Nani",
+        "url": "https://open.spotify.com/album/0UNtUQKkDVPwhFi6MbEq9Y"
+      },
+      "artists": [
+        {
+          "name": "Danyka",
+          "url": "https://open.spotify.com/artist/5BcGTHxcGIGryQTS4DqFsu"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169750,
+      "name": "Nani",
+      "url": "https://open.spotify.com/track/7hOpOQGiOrt5Ba2mwy5IU2"
     },
     {
       "album": {
@@ -6830,7 +6906,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 173506,
       "name": "Sans nouvelle",
       "url": "https://open.spotify.com/track/1wlksYa0f0F5IXEt4DOXHC"
@@ -6983,6 +7059,24 @@
     },
     {
       "album": {
+        "name": "SOIS PAS TIMIDE",
+        "url": "https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165978,
+      "name": "SOIS PAS TIMIDE",
+      "url": "https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo"
+    },
+    {
+      "album": {
         "name": "Soldat",
         "url": "https://open.spotify.com/album/6B8xFNUP5v5zneQMo6eENp"
       },
@@ -7108,6 +7202,24 @@
       "duration_ms": 149579,
       "name": "S\u00fcle",
       "url": "https://open.spotify.com/track/3hefq4rDF5ixBGNlbpOORL"
+    },
+    {
+      "album": {
+        "name": "T.I.A - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "T.I.A - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej"
     },
     {
       "album": {
@@ -7294,6 +7406,24 @@
       "duration_ms": 182939,
       "name": "Tibo Tisipa",
       "url": "https://open.spotify.com/track/74M1wN8Zv3mVZehAARrsU2"
+    },
+    {
+      "album": {
+        "name": "Tic Tac",
+        "url": "https://open.spotify.com/album/0ZfpOUYxc42l8gNcpYoUM3"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157829,
+      "name": "Tic Tac",
+      "url": "https://open.spotify.com/track/2n7kwiBaEjDdBzwrbKl7e1"
     },
     {
       "album": {

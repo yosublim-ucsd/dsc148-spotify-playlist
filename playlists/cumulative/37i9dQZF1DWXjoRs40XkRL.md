@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-288 songs - 1 day 0 hr 32 min
+289 songs - 1 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Delhi Drill](https://open.spotify.com/track/5MUMXjnsf4UydEK8rFx8Xq) | [Catchy](https://open.spotify.com/artist/1md52jdgS8Hv0DOkib7Wjj) | [Delhi Drill](https://open.spotify.com/album/4KXcZoIVMzsxVVn18679Zw) | 1:57 | 2023-11-09 | 2024-02-21 |
 | [Dil Jaye Na](https://open.spotify.com/track/35FKiPd3sGN2MjSghBg5WV) | [Soumya Mukherjee](https://open.spotify.com/artist/5afRWzAI1mcKDCLyz056ZA), [Prosun Dey](https://open.spotify.com/artist/6A5glfpIwkZ5KJLgPiBFnG) | [Dil Jaye Na](https://open.spotify.com/album/3Sd8r89Q6nOVSGJHr3V3OF) | 1:01 | 2023-11-15 | 2023-12-16 |
 | [Dil Leke Mujhe Badnam \- Thumri/lounge](https://open.spotify.com/track/7ncyIsZzLUA9SRzZv8raNk) | [Paroma Dasgupta](https://open.spotify.com/artist/1pvVz9G8uL8K0ZVEnqm1SQ), [Ankur Mukherjee](https://open.spotify.com/artist/69T59hAeicTPSD99TWNO5g) | [Dil Leke Mujhe Badnam \(Thumri/lounge\)](https://open.spotify.com/album/3EffjYOMsxahbRFHYlZsod) | 5:20 | 2022-05-17 | 2024-07-19 |
+| [DIN RAINA](https://open.spotify.com/track/4FlLhUMhtmtpeLQT9HdmfI) | [Radnyi Tyagraj](https://open.spotify.com/artist/1VD8SZyyHr71h9hJtIfQma), [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF) | [DIN RAINA](https://open.spotify.com/album/77KWUgvdhqOtXmXpEQxfFQ) | 2:45 | 2024-07-25 |  |
 | [Din To Dhalne Laga](https://open.spotify.com/track/76YWW7uXCJXVm8drc2X6Ti) | [RaagNRocks](https://open.spotify.com/artist/3jTcN7ekTH3C1dnzRW65CY), [Nabanita Goswami](https://open.spotify.com/artist/6x3CZ20CvNvPKylTfC2nzB) | [Din To Dhalne Laga](https://open.spotify.com/album/27DrzPEi2gOvNs2jlUVleg) | 4:23 | 2024-06-20 |  |
 | [Easy](https://open.spotify.com/track/1Zlp3AkCc1CCtp3yUwqdRr) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Karsh Kale](https://open.spotify.com/artist/5KNQvpxpsSUsL8Mon7SjYn), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Breathing Under Water](https://open.spotify.com/album/7FaPH6ZYyCQS6S5Frf6ib7) | 3:30 | 2022-05-17 | 2023-02-02 |
 | [Eyes \- Edit](https://open.spotify.com/track/1szU2VvMCf5y3CegDghUFE) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Anahata](https://open.spotify.com/album/5uonu2VHlV0tR3DnvfSoR4) | 2:56 | 2022-05-17 | 2023-05-24 |
@@ -185,7 +186,7 @@
 | [Najariya LoFi Cake Mix](https://open.spotify.com/track/3PRXDT8kUntYccU3L3y0ji) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Article 370](https://open.spotify.com/album/3aPH5BvO8bxZCTJjVMXWwY) | 2:36 | 2024-02-19 |  |
 | [Naked](https://open.spotify.com/track/7KoXzM3IboDJxRl7DXIT7y) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Rise](https://open.spotify.com/album/5v2AgCxdfQlVcoXQ0QQEoP) | 4:16 | 2022-05-17 | 2023-05-24 |
 | [Nayanwa](https://open.spotify.com/track/10HB2JI0mlzXgKmbLsXzZj) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Nayanwa](https://open.spotify.com/album/6p1zL5oFJhgfjALKfeCJXb) | 3:30 | 2022-05-17 | 2024-02-01 |
-| [Neeli Neeli Khili Khili Si Duniya](https://open.spotify.com/track/1XoofvsgeNTx1kt0FdeVAF) | [Azam Ali](https://open.spotify.com/artist/5FjTtbpfWj8SBN3SGjkY0W), [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk) | [Jalpari \- The Desert Mermaid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ygwH3yJqtGFDozsANxJoF) | 5:53 | 2023-02-01 |  |
+| [Neeli Neeli Khili Khili Si Duniya](https://open.spotify.com/track/1XoofvsgeNTx1kt0FdeVAF) | [Azam Ali](https://open.spotify.com/artist/5FjTtbpfWj8SBN3SGjkY0W), [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk) | [Jalpari \- The Desert Mermaid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ygwH3yJqtGFDozsANxJoF) | 5:53 | 2023-02-01 | 2024-07-27 |
 | [Neeli Neeli Khili Khili Si Duniya](https://open.spotify.com/track/3nL8aPsY0Fs13IJfio7qFi) | [Azam Ali](https://open.spotify.com/artist/5FjTtbpfWj8SBN3SGjkY0W), [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk) | [Jalpari \- The Desert Mermaid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79vebYWRKA2lr194JCz7Yf) | 5:53 | 2023-12-15 | 2024-04-19 |
 | [Night](https://open.spotify.com/track/4N3vw766peEDGWJEnSC7cL) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY) | [MidIval Punditz](https://open.spotify.com/album/3Gt2rSnTmlwjowHKV5vsIX) | 5:54 | 2022-05-17 | 2022-07-29 |
 | [Night](https://open.spotify.com/track/5ucLyBlhHzKn2ZiAQwLOl7) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY) | [MIDIval PunditZ](https://open.spotify.com/album/4rSbNYZdPsBDGBK7Qrat7X) | 5:55 | 2022-07-12 | 2023-05-24 |

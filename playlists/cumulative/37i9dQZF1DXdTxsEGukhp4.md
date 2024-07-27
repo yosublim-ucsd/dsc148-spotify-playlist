@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: JO1
 
-428 songs - 1 day 0 hr 32 min
+429 songs - 1 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,7 @@
 | [UP TO ME!](https://open.spotify.com/track/0DmNijje9yn7c7yMdjMrmx) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [UP TO ME!](https://open.spotify.com/album/0lV4NlGwWTO1ufKtLQDDfU) | 3:29 | 2023-12-07 | 2024-03-02 |
 | [Ura\-Shuden](https://open.spotify.com/track/6CR6gbIvujlQ2xyhLUSHgp) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [Ura\-Shuden](https://open.spotify.com/album/2EBqSBPMP3cORqb3FT4PrT) | 3:27 | 2023-09-21 | 2023-11-11 |
 | [Vacation](https://open.spotify.com/track/1nY3Sb25GVWecLUuzXkiqD) | [K.E.I](https://open.spotify.com/artist/2luMyTFQDuycg42EqbaYXZ) | [Vacation](https://open.spotify.com/album/2yZFULPynW6BB1yIpZIsYu) | 3:48 | 2023-11-09 | 2024-04-19 |
-| [Vacation](https://open.spotify.com/track/2VzDnx8nvCTVLCI4n4BOVo) | [K.E.I](https://open.spotify.com/artist/2luMyTFQDuycg42EqbaYXZ) | [Vacation](https://open.spotify.com/album/34fgG814Qa0AkwP4D5Izva) | 3:48 | 2024-04-18 |  |
+| [Vacation](https://open.spotify.com/track/2VzDnx8nvCTVLCI4n4BOVo) | [K.E.I](https://open.spotify.com/artist/2luMyTFQDuycg42EqbaYXZ) | [Vacation](https://open.spotify.com/album/34fgG814Qa0AkwP4D5Izva) | 3:48 | 2024-04-18 | 2024-07-27 |
 | [Veranda feat\. Kanano Senritsu](https://open.spotify.com/track/4eQy3KR6AwncK3adZNJVV3) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5), [戦慄かなの](https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup) | [Veranda feat\. Kanano Senritsu](https://open.spotify.com/album/34sAFOo66Y8VNbSDVBr8U8) | 3:28 | 2024-03-01 | 2024-04-19 |
 | [Voyage \(feat\. JJJ, BIM\)](https://open.spotify.com/track/3aTJkLLdzHMq0hbEHYABvG) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Voyage \(feat\. JJJ, BIM\)](https://open.spotify.com/album/3QNugQ0SvwweeBsb7ih4gb) | 3:28 | 2023-02-16 | 2023-03-31 |
 | [What's Poppin](https://open.spotify.com/track/4h1szxNxkEIeAiBa8QcsJr) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [JIGG](https://open.spotify.com/artist/7FaaVgMxA6RqO7viZwFaQp), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Hit Different](https://open.spotify.com/album/4H5P7cJyGe0Sw0gSHtjuMm) | 2:28 | 2023-09-14 | 2023-12-15 |
@@ -392,13 +392,14 @@
 | [夏風に溶ける](https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS), [南雲ゆうき](https://open.spotify.com/artist/4dYXHUOE8nJFuJvYtykTuk) | [夏風に溶ける](https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG) | 3:44 | 2023-06-01 | 2023-11-11 |
 | [夜の喫茶店](https://open.spotify.com/track/7nCW4SaYDuDoX2Rz2GTaWR) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [オチャメカン](https://open.spotify.com/album/6gYrfXwttrmoJXUlEgFNiA) | 3:40 | 2024-01-11 | 2024-01-19 |
 | [夢をみせて](https://open.spotify.com/track/6Xl3ty4oPbccRS9ehumXID) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [夢をみせて](https://open.spotify.com/album/1PuFtFOnOSXNOHkKJkYcWm) | 5:24 | 2023-11-09 | 2024-05-24 |
+| [大ちゃん](https://open.spotify.com/track/4XZWE3Wwis8Sml6kV216Xy) | [ちゃんぴおんず](https://open.spotify.com/artist/4x5vhtkvb28ZFnA8L3e9JV) | [大ちゃん](https://open.spotify.com/album/7pOmlwfy3Kh71aJkrEYPz2) | 2:22 | 2024-07-25 |  |
 | [大丈夫](https://open.spotify.com/track/4kQ3rrJ54f1Hf8nCNxCUyl) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [大丈夫](https://open.spotify.com/album/5bNqsQHsqnaJNxuldgPkDa) | 3:58 | 2023-03-03 | 2023-04-28 |
 | [大切な君へ](https://open.spotify.com/track/1w4kMFSzcpQj2knJGfF84s) | [Sonoko Inoue](https://open.spotify.com/artist/71hQB5jxdNiHk5gzZRhicQ) | [\#17](https://open.spotify.com/album/07ahKwKVmoFvybSvq8RvSa) | 4:15 | 2023-01-26 | 2023-02-10 |
 | [失恋ソング](https://open.spotify.com/track/0g0qhS0z5cL4tym1b2VrCt) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Suplex](https://open.spotify.com/album/31Nbiax5bV9lVnYubVVRaB) | 3:49 | 2024-04-01 | 2024-04-19 |
 | [女だから](https://open.spotify.com/track/7CHiHRLcVqNpyaSNRJqxPu) | [Laughing Hick](https://open.spotify.com/artist/17DWzzd6Ap8umcfYBYHJ3W) | [女だから](https://open.spotify.com/album/6YvlAjkhEdHZnYu99KcNXe) | 3:55 | 2023-08-24 | 2023-10-13 |
 | [妄想アスパルテーム \- feat\. picco,初音ミク](https://open.spotify.com/track/5dcHPVb27nDK94mEFSSpug) | [ESHIKARA](https://open.spotify.com/artist/4VuUJ2V2aRxfQRlRdpC1ih), [picco](https://open.spotify.com/artist/5Ag3wuPOl3y5hJgqhhqVVM), [初音ミク](https://open.spotify.com/artist/0UlXuNuMZiSeVLFjhKQPIP) | [妄想アスパルテーム \(feat\. picco,初音ミク\)](https://open.spotify.com/album/1Cj7pQrNMkiO6dVTLT3uK4) | 2:27 | 2023-04-27 | 2023-05-26 |
 | [嫌いになれない](https://open.spotify.com/track/7HIzVxjaZNEnNTVIZrtz89) | [Asa](https://open.spotify.com/artist/3JjGQRskRjFJMpBESBtSum) | [嫌いになれない](https://open.spotify.com/album/67xt0PDZpQWHCpoAdDELp0) | 3:29 | 2024-04-11 | 2024-06-14 |
-| [子供じゃないもん17](https://open.spotify.com/track/4nhpXuVrWrb6oZ8alKN2Ez) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [洗脳](https://open.spotify.com/album/5sh1BSUMoU1w6ik3wW0bcz) | 3:32 | 2024-06-13 |  |
+| [子供じゃないもん17](https://open.spotify.com/track/4nhpXuVrWrb6oZ8alKN2Ez) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [洗脳](https://open.spotify.com/album/5sh1BSUMoU1w6ik3wW0bcz) | 3:32 | 2024-06-13 | 2024-07-27 |
 | [居酒屋](https://open.spotify.com/track/27sWCidpvRQsFQUZmUHHLn) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM), [徳利](https://open.spotify.com/artist/3sbcL5Cfgo2VkJTvzaNvuY) | [Transform \-Charcoal side\-](https://open.spotify.com/album/4nXqGulRXqM99NDche7Qkt) | 3:14 | 2024-04-18 | 2024-05-17 |
 | [平成の乙女 feat.KENTY‐GROSS](https://open.spotify.com/track/0N1NEvQDYmG433dDJvIX3c) | [MINMI](https://open.spotify.com/artist/151w10AZKmL4a6iPwgxap3), [KENTY GROSS](https://open.spotify.com/artist/1FTagLQhl5cBi1focddx1e) | [MOTHER](https://open.spotify.com/album/1vXRAcEl2fOXHdjjwbTz0f) | 5:32 | 2023-03-30 | 2023-06-16 |
 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 | 2024-05-09 |  |

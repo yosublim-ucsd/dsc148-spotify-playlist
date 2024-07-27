@@ -1360,7 +1360,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 183200,
       "name": "Fat Randy",
       "url": "https://open.spotify.com/track/1iSMI7Z9ZGjuYJDO8uKfZe"
@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 216900,
       "name": "Fear",
       "url": "https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ"
@@ -1736,7 +1736,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 164092,
       "name": "Hello Again",
       "url": "https://open.spotify.com/track/4X2MCbOuInlaGGTrhtNNQA"
@@ -2334,6 +2334,24 @@
       "duration_ms": 228040,
       "name": "Life Won't Wait",
       "url": "https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT"
+    },
+    {
+      "album": {
+        "name": "Lights Out In The Reptile House",
+        "url": "https://open.spotify.com/album/0I2NMVIK0TZB5cZMn9gbfa"
+      },
+      "artists": [
+        {
+          "name": "Save Ferris",
+          "url": "https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184365,
+      "name": "Lights Out In The Reptile House",
+      "url": "https://open.spotify.com/track/0Jh0lA8GmgbfIh0VkMpOp1"
     },
     {
       "album": {

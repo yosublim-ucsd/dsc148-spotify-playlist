@@ -2,7 +2,7 @@
 
 ### [Today’s Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
-> Benson Boone is on top of the Hottest 50!
+> The hottest 50\. Cover: Charli XCX
 
 1,114 songs - 2 day 11 hr 40 min
 

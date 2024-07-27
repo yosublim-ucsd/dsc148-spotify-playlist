@@ -2,7 +2,7 @@
 
 ### [SLAP!](https://open.spotify.com/playlist/37i9dQZF1DX97SIuADeA1Y)
 
-> The bassline keeps you moving.
+> slap house on repeat.
 
 282 songs - 12 hr 13 min
 

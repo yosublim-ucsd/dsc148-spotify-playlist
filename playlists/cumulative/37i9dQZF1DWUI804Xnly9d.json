@@ -3271,6 +3271,28 @@
     },
     {
       "album": {
+        "name": "Khabar",
+        "url": "https://open.spotify.com/album/37fNvMhuiO1O2F4EdCCKqq"
+      },
+      "artists": [
+        {
+          "name": "Akash Kaushal",
+          "url": "https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84"
+        },
+        {
+          "name": "Raghav Meattle",
+          "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213578,
+      "name": "Khabar",
+      "url": "https://open.spotify.com/track/08M1HqLsOYeWetO7WYNrIf"
+    },
+    {
+      "album": {
         "name": "Khala",
         "url": "https://open.spotify.com/album/4d2PsSkEjUENjTiZTJHw9W"
       },
@@ -5662,7 +5684,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 127792,
       "name": "Sab Kuch Mera - Deep Heart",
       "url": "https://open.spotify.com/track/1VyPLU5X6p38r1IPMRLvgg"
@@ -6582,7 +6604,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 237089,
       "name": "Tu Hai Sab Hai",
       "url": "https://open.spotify.com/track/14g8GrtXyIyHUdi37SxvtW"
@@ -7500,6 +7522,24 @@
       "duration_ms": 208320,
       "name": "Zara Zara - MTV Unwind",
       "url": "https://open.spotify.com/track/6anGj4SX83j5DyG3aZOzqc"
+    },
+    {
+      "album": {
+        "name": "Zariya",
+        "url": "https://open.spotify.com/album/1KZSSJxCBAo1yTYeMqeUwb"
+      },
+      "artists": [
+        {
+          "name": "Isht",
+          "url": "https://open.spotify.com/artist/0Yo4hE8v9rxzOz4xPZToyA"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197368,
+      "name": "Zariya",
+      "url": "https://open.spotify.com/track/7BCYStgTZ3clAJ7UkNPqBX"
     },
     {
       "album": {

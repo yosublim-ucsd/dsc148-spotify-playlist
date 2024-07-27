@@ -2946,8 +2946,8 @@
           "url": "https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg"
         },
         {
-          "name": "Violeta",
-          "url": "https://open.spotify.com/artist/5WXnM4FY7KspNLOtbQE9D3"
+          "name": "VIOLETA",
+          "url": "https://open.spotify.com/artist/0VxwKDOfIkq37oYoXbcEvt"
         }
       ],
       "date_added": "2024-07-15",
@@ -6071,6 +6071,28 @@
     },
     {
       "album": {
+        "name": "Morenita del sur",
+        "url": "https://open.spotify.com/album/53VfRv0BRcEb5d9XG1keWJ"
+      },
+      "artists": [
+        {
+          "name": "Noan",
+          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
+        },
+        {
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224771,
+      "name": "Morenita del sur",
+      "url": "https://open.spotify.com/track/4pKhyJRka0RvlDKGi9RJCv"
+    },
+    {
+      "album": {
         "name": "Morfina (feat. Paloma Mami)",
         "url": "https://open.spotify.com/album/4ebIgeih3hq832lPORpKtp"
       },
@@ -6690,6 +6712,24 @@
       "duration_ms": 154719,
       "name": "novio del a\u00f1o",
       "url": "https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1"
+    },
+    {
+      "album": {
+        "name": "Nuestra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/3aFrCXWwdvl1kIhMnoICz0"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187046,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/2MJlcHWfkA651gpiCRJ2TE"
     },
     {
       "album": {

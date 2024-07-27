@@ -1493,6 +1493,28 @@
     },
     {
       "album": {
+        "name": "Falta Pouco",
+        "url": "https://open.spotify.com/album/0Sip43K1gjoRwBib3Rbbnh"
+      },
+      "artists": [
+        {
+          "name": "Sophi",
+          "url": "https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn"
+        },
+        {
+          "name": "Anna P\u00eago",
+          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179483,
+      "name": "Falta Pouco",
+      "url": "https://open.spotify.com/track/56S6QcFGFQttLNjCwExqB7"
+    },
+    {
+      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
       },
@@ -2106,7 +2128,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 216094,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
@@ -2308,7 +2330,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 257920,
       "name": "Inside And Out",
       "url": "https://open.spotify.com/track/5YGJzSL1fYvjwsfy1f1iqJ"
@@ -3115,6 +3137,28 @@
     },
     {
       "album": {
+        "name": "Noites De Monza",
+        "url": "https://open.spotify.com/album/7M8OrSrFiDbJoYVbUReWeH"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171311,
+      "name": "Noites De Monza",
+      "url": "https://open.spotify.com/track/604SDg8AblpTWXWv1dgy4b"
+    },
+    {
+      "album": {
         "name": "Olvidarlo",
         "url": "https://open.spotify.com/album/69snYCFpY1590kiJKbcknj"
       },
@@ -3449,6 +3493,24 @@
     },
     {
       "album": {
+        "name": "TR\u00d3PICO 96",
+        "url": "https://open.spotify.com/album/7HVwretLZVvhXb2gApReVS"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156618,
+      "name": "PRIMAVERA NA SELVA",
+      "url": "https://open.spotify.com/track/2uutN6hM3ZuZOvu7OoowRo"
+    },
+    {
+      "album": {
         "name": "P\u00e9rolas",
         "url": "https://open.spotify.com/album/3SELzYsEnxAUwsGGINrOAs"
       },
@@ -3536,7 +3598,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 160340,
       "name": "Religiosa",
       "url": "https://open.spotify.com/track/2KfTQFFLpZhzlZATYS9job"

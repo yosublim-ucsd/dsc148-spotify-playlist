@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Avril Jensen",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Alicia Creti",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -7305,6 +7305,24 @@
     },
     {
       "album": {
+        "name": "S'a switch",
+        "url": "https://open.spotify.com/album/7FXdzvwPoL4duEEvJrnBfh"
+      },
+      "artists": [
+        {
+          "name": "Ir\u00e8ne",
+          "url": "https://open.spotify.com/artist/5nK5s5oK58IWpRwWcoogYS"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260454,
+      "name": "S'a switch",
+      "url": "https://open.spotify.com/track/3ZFdU8R1Mpt06aWwrol9Rz"
+    },
+    {
+      "album": {
         "name": "S'il n'est pas \u00e0 mes c\u00f4t\u00e9s ce matin, j'irai au champ quand m\u00eame",
         "url": "https://open.spotify.com/album/4C4O4ksW4gBjVMqk08yNym"
       },
@@ -7598,7 +7616,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 144720,
       "name": "Si j'\u00e9tais toi",
       "url": "https://open.spotify.com/track/7gtp58Uuzgl4zVObHaPwcN"

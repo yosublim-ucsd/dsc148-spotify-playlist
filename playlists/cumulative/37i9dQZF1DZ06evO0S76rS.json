@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
+  "description": "This Is Grupo Niche. Los temas esenciales, todos en una lista.",
   "name": "This Is Grupo Niche",
   "tracks": [
     {
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-21",
+      "date_removed": null,
       "duration_ms": 305506,
       "name": "Mi Valle del Cauca",
       "url": "https://open.spotify.com/track/0gwOJxIieMOPrdr3zeLZ5J"
@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 284640,
       "name": "Solo Tu Sabes",
       "url": "https://open.spotify.com/track/1O2N1rsU2Y1FR2nuYWjrYD"

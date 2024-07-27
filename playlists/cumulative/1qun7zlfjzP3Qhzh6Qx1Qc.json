@@ -885,6 +885,24 @@
     },
     {
       "album": {
+        "name": "Devil on My Shoulder",
+        "url": "https://open.spotify.com/album/0sqeYcd08RXPzsrBF7lAoL"
+      },
+      "artists": [
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "Devil on My Shoulder",
+      "url": "https://open.spotify.com/track/6qAhXsSJKV7RF4nTmphTD3"
+    },
+    {
+      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/3PUA3xAHTsDAp11oAb33Mv"
       },
@@ -1224,7 +1242,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 217560,
       "name": "Gettin' Older",
       "url": "https://open.spotify.com/track/4x3oHY9XeuQ6TB3X0wK1gL"
@@ -1278,7 +1296,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 165226,
       "name": "Good Guy",
       "url": "https://open.spotify.com/track/0iaXdS4yDgZCXMiV7tuTJP"
@@ -1528,6 +1546,24 @@
       "duration_ms": 163600,
       "name": "I Can Feel It",
       "url": "https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ"
+    },
+    {
+      "album": {
+        "name": "i hate texas",
+        "url": "https://open.spotify.com/album/4rPQF5Ujx6eTRGDrIfRl55"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218656,
+      "name": "i hate texas",
+      "url": "https://open.spotify.com/track/6xEE80nW1NgNC2p04n4in5"
     },
     {
       "album": {
@@ -1943,6 +1979,24 @@
     },
     {
       "album": {
+        "name": "Made by These Moments",
+        "url": "https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257372,
+      "name": "No One Else Like Me",
+      "url": "https://open.spotify.com/track/5XlMj49P3jjmXpAdVGOLyW"
+    },
+    {
+      "album": {
         "name": "No Town",
         "url": "https://open.spotify.com/album/1hqYGEwOaMseBhjrccaDnn"
       },
@@ -2232,7 +2286,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 169720,
       "name": "Rust",
       "url": "https://open.spotify.com/track/1EdAfme2rPCUkzIYvSucYX"
@@ -2806,7 +2860,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 229386,
       "name": "Thing That Brought Me Here - Truck Song",
       "url": "https://open.spotify.com/track/1F07B71VUvC24wssm7fD7K"
@@ -2948,6 +3002,24 @@
       "duration_ms": 235280,
       "name": "Total Control",
       "url": "https://open.spotify.com/track/3gEuM1l3MQ95jBt2aduIZH"
+    },
+    {
+      "album": {
+        "name": "Town Drunk",
+        "url": "https://open.spotify.com/album/66767ZEiqXYKCzeEaL3tir"
+      },
+      "artists": [
+        {
+          "name": "Drew Green",
+          "url": "https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161715,
+      "name": "Town Drunk",
+      "url": "https://open.spotify.com/track/5bcMbweQWdLFuZN2oKGQEb"
     },
     {
       "album": {

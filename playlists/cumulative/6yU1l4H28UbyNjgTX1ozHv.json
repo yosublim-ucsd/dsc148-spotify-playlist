@@ -1909,6 +1909,28 @@
     },
     {
       "album": {
+        "name": "In Too Deep (Acoustic)",
+        "url": "https://open.spotify.com/album/017Bceqexkn7Lrxd9ZEhM7"
+      },
+      "artists": [
+        {
+          "name": "Matt Johnson",
+          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
+        },
+        {
+          "name": "Cloudsmiff",
+          "url": "https://open.spotify.com/artist/0pXvuDolUqUJHNimEsgdM6"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139143,
+      "name": "In Too Deep - Acoustic",
+      "url": "https://open.spotify.com/track/6dhDsUbIB96e1UX8d0UKHW"
+    },
+    {
+      "album": {
         "name": "Iris (Acoustic)",
         "url": "https://open.spotify.com/album/09zreN7tA6FV36rqUWmzpY"
       },
@@ -2194,7 +2216,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 165558,
       "name": "L-O-V-E - Acoustic",
       "url": "https://open.spotify.com/track/7y3BUNpjfXA2QHu2Ze7Ua4"

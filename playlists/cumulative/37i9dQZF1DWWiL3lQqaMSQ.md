@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWiL3lQqaMSQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWiL3lQqaMSQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWiL3lQqaMSQ)
 
-### [Stellar Awards Nominees](https://open.spotify.com/playlist/37i9dQZF1DWWiL3lQqaMSQ)
+### [Stellar Awards 2024](https://open.spotify.com/playlist/37i9dQZF1DWWiL3lQqaMSQ)
 
 > All of the 39th <a href="https://www.thestellarawards.com/index.html">Stellar Awards</a> nominees in one playlist!  Cover: <a href="spotify:artist:1aNtFg4D7HdF8jOppyKpUS">Pastor Mike Jr.</a>
 

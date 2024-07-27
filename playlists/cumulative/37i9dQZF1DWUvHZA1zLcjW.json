@@ -446,12 +446,12 @@
       },
       "artists": [
         {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
           "name": "Benjamin Grosvenor",
           "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
+        },
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         }
       ],
       "date_added": "2023-05-12",

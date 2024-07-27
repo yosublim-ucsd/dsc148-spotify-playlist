@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Indochine",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : mirabelle.",
   "name": "Volume France",
   "tracks": [
     {
@@ -474,6 +474,24 @@
       "duration_ms": 303933,
       "name": "Big Bad World",
       "url": "https://open.spotify.com/track/5Kxvk9n1gYl1AbXHI2r8Nk"
+    },
+    {
+      "album": {
+        "name": "Big Sleep",
+        "url": "https://open.spotify.com/album/0NDEjT62Op0wTjh9ijWbMa"
+      },
+      "artists": [
+        {
+          "name": "mirabelle.",
+          "url": "https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Big Sleep",
+      "url": "https://open.spotify.com/track/1u5prQkmTzUuLGzeItIo1W"
     },
     {
       "album": {
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 175709,
       "name": "Everybody Dies",
       "url": "https://open.spotify.com/track/7ca1yQEIH2MRkxy1QM0GiY"
@@ -2858,10 +2876,28 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 222533,
       "name": "Resign",
       "url": "https://open.spotify.com/track/5PNyY0cSYmRednV5H3wROh"
+    },
+    {
+      "album": {
+        "name": "Resign (2024)",
+        "url": "https://open.spotify.com/album/6iTaNALXTi4xAtVPw2mOjS"
+      },
+      "artists": [
+        {
+          "name": "Shaka Ponk",
+          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222866,
+      "name": "Resign - 2024",
+      "url": "https://open.spotify.com/track/5cEs1Gf7xQaV6IzPbLhMaz"
     },
     {
       "album": {
@@ -3622,7 +3658,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 237692,
       "name": "The Butcher's Fantasy",
       "url": "https://open.spotify.com/track/2xAw4FgHs0lnmEpCXB8vWH"
@@ -3806,7 +3842,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 236508,
       "name": "The Undercover Man",
       "url": "https://open.spotify.com/track/1mQmOLp6op4aXMggN800U9"

@@ -2,9 +2,9 @@
 
 ### [Suomirock tänään](https://open.spotify.com/playlist/37i9dQZF1DWSTzzP5k4u3n)
 
-> Tällä listalla parasta tuoretta suomirockia\. Kannessa Pate Mustajärvi.
+> Tällä listalla parasta tuoretta suomirockia\. Kannessa Ikuinenkesä.
 
-96 songs - 5 hr 42 min
+100 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,12 +23,14 @@
 | [Destined for Desire](https://open.spotify.com/track/3zlZ9COQNYiSZIT2Uj3bFb) | [Stråle](https://open.spotify.com/artist/1OA4Q3DiU0S23HQM2aU31f) | [Destined for Desire](https://open.spotify.com/album/2o5S91KUH7NUIRRXCWe8lp) | 4:00 | 2024-07-02 |  |
 | [Ding dong](https://open.spotify.com/track/60qkcfklWUSHnr7ZfPXD4m) | [Jukka Takalo](https://open.spotify.com/artist/5n4acUEkrslnTj3RZu2549) | [Ding dong](https://open.spotify.com/album/3p2cjEjYOxj5lo7wc99FVi) | 3:44 | 2024-07-02 |  |
 | [Eikun sitä vaan lähdin kyseleen](https://open.spotify.com/track/5avpyqsvp9i19ebJQwm53Q) | [Kaita Isäri Seppälä](https://open.spotify.com/artist/2Uzu5DGiDcgrATD8qtJqjS) | [Eikun sitä vaan lähdin kyseleen](https://open.spotify.com/album/6X1tbEVUUpK7uuHrUhZnFo) | 3:50 | 2024-07-02 |  |
+| [Elossa Vielä](https://open.spotify.com/track/656tNmVsfmM9TcLms3Msxn) | [Archie Cruz](https://open.spotify.com/artist/1Ltz58a2iP9G2cOpBmaCpJ) | [Elossa Vielä](https://open.spotify.com/album/3ljk65mDN3sUuBZKYKusPH) | 4:06 | 2024-07-26 |  |
 | [Elät Vaan](https://open.spotify.com/track/2tQk2A6XDXKlhxw5cT2jYe) | [Remix](https://open.spotify.com/artist/60rrONrFQipKsTXYazdmQO), [Karoliina Kallio](https://open.spotify.com/artist/0PMSbS727MWOXbiEcSjSLm) | [Elät Vaan](https://open.spotify.com/album/4zTGHW1H5IxyUSYGcRmj6W) | 3:40 | 2024-07-02 |  |
 | [Epävarmuuden Vankila](https://open.spotify.com/track/04c6LKFI7nhvibijWHldeN) | [Monotonia](https://open.spotify.com/artist/2kvXNdmRbVNYPa42vlPG8N) | [Epävarmuuden Vankila](https://open.spotify.com/album/5R67rTcDI1I9DLqgPfNrjw) | 3:05 | 2024-07-02 |  |
 | [Hei beibe mul on kliffaa](https://open.spotify.com/track/5iGu2nqwqXOjPDgFDMebTb) | [Kuolleet kuolleet](https://open.spotify.com/artist/4tEP52H8aXLzE6US4x0eDq) | [Hei beibe mul on kliffaa](https://open.spotify.com/album/5H3wENM3IvXIIGcdIQwUP6) | 2:46 | 2024-07-02 |  |
 | [Homo Economicus](https://open.spotify.com/track/0sLYrGtb0poTQOOYBRCpDh) | [Rückwater](https://open.spotify.com/artist/7yBHb8UsPGyuvm2SjWZkcK) | [Homo Economicus](https://open.spotify.com/album/2M4IZTHQ7CqdDXWA7dAHft) | 8:38 | 2024-07-02 | 2024-07-12 |
 | [hvvmukipuv \- apeasti](https://open.spotify.com/track/0UzlyVNE0Ha2AcdiJ31yTQ) | [Vaasa Palaa](https://open.spotify.com/artist/5r22UCkMnYyxVPmVLoA6vJ) | [hvvmukipuv juhlajulkaisu](https://open.spotify.com/album/3zBAWm5r0TXyGcTZEgo3UT) | 4:21 | 2024-07-02 |  |
 | [Hätähuuto](https://open.spotify.com/track/5MkDC43Ovq9iY4IHuiSM9P) | [HÄTÄHUUTO](https://open.spotify.com/artist/4p14Za7tptr7RnruH0LAP2) | [Hätähuuto](https://open.spotify.com/album/1A2McUXD07qXrMGZ8oqzD9) | 3:02 | 2024-07-02 | 2024-07-12 |
+| [Intergalaktinen Ongelma](https://open.spotify.com/track/60MUs1cHK4yvXHJp8OfsjX) | [Max Olavi & Elävät Kuvat](https://open.spotify.com/artist/280wSk35Poeg85y2oxb5xe) | [Intergalaktinen Ongelma](https://open.spotify.com/album/4m6zoOWQOCeAIRICW3ywul) | 3:24 | 2024-07-26 |  |
 | [Jatkan matkaa](https://open.spotify.com/track/0os9TLERlmn5h1QFFbfyEC) | [Valontuojat](https://open.spotify.com/artist/27ErkSOWbcCKKFIyU4NnQr) | [Jatkan matkaa](https://open.spotify.com/album/1ywU5JGbLEOpmL1sa80KGf) | 3:14 | 2024-07-02 |  |
 | [John Travoltan näköinen mies \- Single Version](https://open.spotify.com/track/5ahK0WSqJ3rNeklZ4ogxFi) | [Ahven](https://open.spotify.com/artist/6aqXBpc18wJaNGl9ygCLN6) | [Laitoksesta laitokseen](https://open.spotify.com/album/7tG2Wcxr0KGov02Jx6asSV) | 4:05 | 2024-07-02 |  |
 | [Joki](https://open.spotify.com/track/1TrKxOoYyvmunRncWLpBQX) | [Karuma](https://open.spotify.com/artist/2EMjAmldY7Kn9ekRpwYx4j) | [Joki](https://open.spotify.com/album/10wu7slwCyHBTFsXLS1c7e) | 3:43 | 2024-07-02 |  |
@@ -68,8 +70,10 @@
 | [Pelastakaa edes lapset](https://open.spotify.com/track/0tzwyw1QLvarnv34eTroui) | [Aapo Pulju & Juoksukaljat](https://open.spotify.com/artist/58aNBwoaCPa1YpDV0OAgWC) | [Pelastakaa edes lapset](https://open.spotify.com/album/4sWsP49d4Z5SFsq7OW4tCw) | 4:28 | 2024-07-02 |  |
 | [Perfect American](https://open.spotify.com/track/2tGeZKQ6spMFO7Mn0FJH3z) | [Velvetcut](https://open.spotify.com/artist/5I4dHTktG9F9eYt3I9kVz4) | [Perfect American](https://open.spotify.com/album/6at9T5sDbGxioJ4b1aBhnD) | 4:31 | 2024-07-02 | 2024-07-12 |
 | [Periaatteessa onnellinen](https://open.spotify.com/track/1Ph4WJUA4KRC9MJxbikvat) | [The Stonewalls](https://open.spotify.com/artist/3Lb8xb895mxv1PW4ATbIJc), [Lauri Ketonen](https://open.spotify.com/artist/0COKPylAjot2zwI9ABkrd0) | [Periaatteessa onnellinen](https://open.spotify.com/album/0qatNBp4KY5SMzilMrnMvS) | 3:56 | 2024-07-02 |  |
+| [Pienestä pitäen](https://open.spotify.com/track/5xhQbEDkYQFHTltAZmE1gS) | [Nelosolut](https://open.spotify.com/artist/1q7jg4Jd7SdYV1rGxr8RoF) | [Pienestä pitäen](https://open.spotify.com/album/3jYGchiScibECdKPEdmKe5) | 3:08 | 2024-07-26 |  |
 | [Pirkko](https://open.spotify.com/track/2kznX6VchUUPN0ohZGzNaz) | [Tommi Kuru](https://open.spotify.com/artist/4Lsx89phbqKIKsXYvBJhEX) | [Pirkko](https://open.spotify.com/album/2DT3weK3gCpDrpSc8sTphT) | 2:33 | 2024-07-02 |  |
 | [Pirulle turpaan](https://open.spotify.com/track/5ZTyPmCm2Bq8EH1lHupnsU) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Pirulle turpaan](https://open.spotify.com/album/4TYWP0Gj9YJG3313saJxyp) | 3:34 | 2024-07-18 |  |
+| [Pisamat](https://open.spotify.com/track/4i4d9x2Bw6Zv1xPHRomJdY) | [KUULOVAURIO](https://open.spotify.com/artist/27ks92Dr0C7o3fJDUwzqoJ) | [Pisamat / Maantien maku](https://open.spotify.com/album/6law4QXYuz3zJOhaWP5qgy) | 3:37 | 2024-07-26 |  |
 | [Praise](https://open.spotify.com/track/4acZ5e28oAZBco5uiteB0Z) | [Fractured Spine](https://open.spotify.com/artist/7qYjZrjGVDqBTXv1sZbkes) | [Praise](https://open.spotify.com/album/4ZIrx0VfaPRgYKlJquUUuD) | 5:42 | 2024-07-02 | 2024-07-12 |
 | [Päiväkulkija](https://open.spotify.com/track/5teTlcyFWCLV06R5m482Ks) | [Sami Arova](https://open.spotify.com/artist/19fDqIjJHzjfkqEOVgkSil) | [Päiväkulkija](https://open.spotify.com/album/7uaZF4RoTiQUBT0F2n0Gvv) | 2:55 | 2024-07-02 |  |
 | [Rauhaa & Rakkautta](https://open.spotify.com/track/29mSGrPW0XsDn4gRLiyEh0) | [Lemmenpyssyt](https://open.spotify.com/artist/64wPnE2wkh7LbEkOUGmaP8) | [Rauhaa & Rakkautta](https://open.spotify.com/album/4UbYwyamlMxh3tWeum2T4B) | 3:20 | 2024-07-02 |  |

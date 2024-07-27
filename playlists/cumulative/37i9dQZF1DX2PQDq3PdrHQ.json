@@ -802,7 +802,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 169634,
       "name": "Barely Awake",
       "url": "https://open.spotify.com/track/6fCkOrUX3uULjAPSBuLYGI"
@@ -1630,7 +1630,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 154666,
       "name": "City Sleep",
       "url": "https://open.spotify.com/track/03C7OsTzEbR1UoCKxTNcsd"
@@ -2901,6 +2901,24 @@
     },
     {
       "album": {
+        "name": "down the road",
+        "url": "https://open.spotify.com/album/05QlfxWCJHxm90JU8bxolw"
+      },
+      "artists": [
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "down the road",
+      "url": "https://open.spotify.com/track/3VBADJVrLwGoM0Xbq9z37S"
+    },
+    {
+      "album": {
         "name": "downcount",
         "url": "https://open.spotify.com/album/0X5UFlqvDvPrDVPyqY9OPN"
       },
@@ -3486,7 +3504,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 139591,
       "name": "Eat Me",
       "url": "https://open.spotify.com/track/6NdX1iXLTKjruEuoG3fIvO"
@@ -4414,7 +4432,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 160000,
       "name": "frost",
       "url": "https://open.spotify.com/track/4bmuGIHRJYMjL02yXZeoCd"
@@ -6375,6 +6393,24 @@
     },
     {
       "album": {
+        "name": "Let It Rain",
+        "url": "https://open.spotify.com/album/3FrlMcpgsvPxfdSkPLF6t5"
+      },
+      "artists": [
+        {
+          "name": "Travertina",
+          "url": "https://open.spotify.com/artist/2pRfs9421S5W58xd6yfgYu"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151666,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/5eniIpGH50pjaFLXzxRxfo"
+    },
+    {
+      "album": {
         "name": "Let's Move",
         "url": "https://open.spotify.com/album/76zdGtWmIxoE91C269NCHK"
       },
@@ -7428,7 +7464,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 146000,
       "name": "Mercury Travellers",
       "url": "https://open.spotify.com/track/6ROdlwqYDQOtb0gOUVAwZz"
@@ -8274,6 +8310,24 @@
       "duration_ms": 176346,
       "name": "New Beginnings",
       "url": "https://open.spotify.com/track/61rpSyti85miQNzJnkgMCT"
+    },
+    {
+      "album": {
+        "name": "new day",
+        "url": "https://open.spotify.com/album/1RFmGtPngit8latnSZ8Ije"
+      },
+      "artists": [
+        {
+          "name": "collarbone.",
+          "url": "https://open.spotify.com/artist/1Vhr5AaM4pPwTCCPY5e61p"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161111,
+      "name": "new day",
+      "url": "https://open.spotify.com/track/3aB7nAv332xHu9X74Tlx2S"
     },
     {
       "album": {
@@ -10089,6 +10143,24 @@
     },
     {
       "album": {
+        "name": "robinsong",
+        "url": "https://open.spotify.com/album/2aIFgeAxQKj6F5R2fH8di6"
+      },
+      "artists": [
+        {
+          "name": "Kainbeats",
+          "url": "https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139038,
+      "name": "robinsong",
+      "url": "https://open.spotify.com/track/1qe9oC3nIxY7vWN5ybPeCe"
+    },
+    {
+      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/4Jrb0JkxPR6TIeDTgS1eQR"
       },
@@ -11004,7 +11076,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 104727,
       "name": "Slow Drives",
       "url": "https://open.spotify.com/track/5dUpBcyuNSuqSUmZ5lmuO5"
@@ -13262,7 +13334,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 117451,
       "name": "vanilla syrup.",
       "url": "https://open.spotify.com/track/30gAL6dQhKhphPKuL4xP1p"

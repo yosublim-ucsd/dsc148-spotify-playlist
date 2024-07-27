@@ -4,7 +4,7 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-226 songs - 10 hr 18 min
+227 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Churchill](https://open.spotify.com/track/4YyPOwTe5sXVJLXGqqVhPl) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Churchill](https://open.spotify.com/album/5cSLfFaH4zZVplCsuk6tNQ) | 1:52 | 2021-11-11 | 2022-04-22 |
 | [Classics](https://open.spotify.com/track/46DIcl7UFS8sw7LEJx03zd) | [Type Beats](https://open.spotify.com/artist/63ptKgVn8Gh1Zc8BZMYKze) | [LA instrumentals BKP](https://open.spotify.com/album/4Rjj8lNDBisPqsSTbMgdiT) | 1:33 | 2021-11-11 | 2024-02-23 |
 | [Cloak and Dagger](https://open.spotify.com/track/1xUGxXkQk894LVQptxTMcq) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Cloak and Dagger](https://open.spotify.com/album/6RxO1WGSpFM6BdlbzYkkEb) | 2:29 | 2022-09-16 |  |
-| [Club404](https://open.spotify.com/track/1IgmsA52OnXHjdgRR5d5zO) | [Ebytra](https://open.spotify.com/artist/2IRYEhwiuITvRyXfPbYDBZ) | [Club404](https://open.spotify.com/album/2U40p12v8l8eyiZ4fE4dDq) | 2:43 | 2022-04-22 |  |
+| [Club404](https://open.spotify.com/track/1IgmsA52OnXHjdgRR5d5zO) | [Ebytra](https://open.spotify.com/artist/2IRYEhwiuITvRyXfPbYDBZ) | [Club404](https://open.spotify.com/album/2U40p12v8l8eyiZ4fE4dDq) | 2:43 | 2022-04-22 | 2024-07-27 |
 | [Club404](https://open.spotify.com/track/5qHusftncCTulnXkHtBJLH) | [Ebytra](https://open.spotify.com/artist/2IRYEhwiuITvRyXfPbYDBZ) | [Club404](https://open.spotify.com/album/0APEJROze2RVENkLriVpy4) | 2:43 | 2023-01-20 | 2023-04-28 |
 | [Club404](https://open.spotify.com/track/6zmJpIH8qG6PLQK88MvUtu) | [Ebytra](https://open.spotify.com/artist/2IRYEhwiuITvRyXfPbYDBZ) | [Club404](https://open.spotify.com/album/3NmAewJIlL6DQVVRO9r4BO) | 2:43 | 2023-11-21 | 2024-03-14 |
 | [Club404](https://open.spotify.com/track/7GYCJ10v4NlXnqeFEqmkV4) | [Ebytra](https://open.spotify.com/artist/2IRYEhwiuITvRyXfPbYDBZ) | [Club404](https://open.spotify.com/album/7a3PBf43xExpBixyQZ1pqi) | 2:43 | 2023-03-13 | 2023-09-02 |
@@ -85,7 +85,7 @@
 | [Flavah'](https://open.spotify.com/track/1duUwHmeIGvJTYMABrOEWL) | [Ganyaman](https://open.spotify.com/artist/67ay2OgHoJ9fy8wo5eD20c) | [Flavah'](https://open.spotify.com/album/5TTrGRDaYZlptSxeF8bInI) | 2:30 | 2024-02-22 |  |
 | [Flowersong](https://open.spotify.com/track/7c43qz8M78sEZ7MFSUKYSg) | [SLACER](https://open.spotify.com/artist/0J2jRTXMGGCAwBGoi3xNtW) | [Flowersong](https://open.spotify.com/album/2m6M5yr2JesrlRW0EVv5IZ) | 2:40 | 2021-11-11 |  |
 | [Forest of Sin](https://open.spotify.com/track/7irQGbq5KxxRpSWQn07YNp) | [Hephisto](https://open.spotify.com/artist/7cVzcIvDfTLpcf7yso5xZQ) | [Forest of Sin](https://open.spotify.com/album/4dPY93ianmoQkWkNDjeZq8) | 2:38 | 2024-02-22 |  |
-| [Frozen](https://open.spotify.com/track/0RJD9vHqbcBG9VX8ml9nL2) | [Dr\. J](https://open.spotify.com/artist/62Pdb8hMXfv0pthw4P7kWi), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Frozen](https://open.spotify.com/album/23dKuFmFNnE6Te4UfjDews) | 3:09 | 2022-12-23 |  |
+| [Frozen](https://open.spotify.com/track/0RJD9vHqbcBG9VX8ml9nL2) | [Dr\. J](https://open.spotify.com/artist/62Pdb8hMXfv0pthw4P7kWi), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Frozen](https://open.spotify.com/album/23dKuFmFNnE6Te4UfjDews) | 3:09 | 2022-12-23 | 2024-07-27 |
 | [Frozen](https://open.spotify.com/track/6PuJovR9z3hph9MDCiIVgS) | [Dr\. J](https://open.spotify.com/artist/62Pdb8hMXfv0pthw4P7kWi), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Frozen](https://open.spotify.com/album/0GRRcND8BPMGmFakvmwqWf) | 3:09 | 2023-09-04 | 2024-04-19 |
 | [GAMETIME](https://open.spotify.com/track/13YCzEIXsoBWLEXSyaTeAe) | [SLVG](https://open.spotify.com/artist/779QJkvhTmrxtUGaMo8QbK), [TUNDRAMANE](https://open.spotify.com/artist/3ucTA7IrKCwHk3EvnfRVOu) | [GAMETIME](https://open.spotify.com/album/5WMNiz7h7MoUSYHK1R2s6t) | 1:55 | 2022-05-27 | 2022-06-03 |
 | [Geeker](https://open.spotify.com/track/0XOagxiFUHOYHlz6AthrNB) | [peerless](https://open.spotify.com/artist/1c2JWfQucGww8ADlPqc0oJ) | [Raging in the Pit with My Bros](https://open.spotify.com/album/66uwS7rr9YJdhF5gOIJDMj) | 2:11 | 2022-11-25 |  |
@@ -170,6 +170,7 @@
 | [Run the Clock](https://open.spotify.com/track/0pxBhlNZA6sOd3ByHBVzFI) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Run The Clock](https://open.spotify.com/album/7cl7Iy6MGnMA7WNa3zt2nK) | 2:05 | 2022-03-29 |  |
 | [running out of time](https://open.spotify.com/track/0e6UrhLAH2lnNe6zdlUTBN) | [NON](https://open.spotify.com/artist/2QFuIA3uFMQAidzZe9x3Bw) | [future](https://open.spotify.com/album/0sH4ZqrqNsEqUWBtc34EaS) | 2:48 | 2021-11-11 |  |
 | [Sahara \- Onderkoffer & Basshoven Remix](https://open.spotify.com/track/0Qmzdnm8vz72x3TOgCZYKn) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H), [Onderkoffer](https://open.spotify.com/artist/6gce3osfgmB2RCMqoKfwFe), [Basshoven](https://open.spotify.com/artist/3yc1IuXu7iTYuQFDTrIEZ1) | [Sahara \(Onderkoffer & Basshoven Remix\)](https://open.spotify.com/album/5Bkdd89SaxesvN0ZlYpelT) | 2:47 | 2022-06-03 |  |
+| [Samson](https://open.spotify.com/track/1LCSkdxySruibHIpgY1zty) | [Testomoron](https://open.spotify.com/artist/70j04I0wpjJTeI5U9EjZFQ) | [Samson](https://open.spotify.com/album/3pUkrZZS3gsoLCkbLeCWqD) | 3:03 | 2024-07-25 |  |
 | [Scam](https://open.spotify.com/track/0UCx2yz0P5Am3tDEZMlaLR) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Scam](https://open.spotify.com/album/31MjbJLu4imw8ZWNRjQk5I) | 2:46 | 2022-05-13 |  |
 | [Scam](https://open.spotify.com/track/6R9RkocTuXcrdESsnTlwC3) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Scam](https://open.spotify.com/album/62J8F6JtP7ryZfmATk8oGg) | 2:46 | 2023-09-04 | 2024-04-19 |
 | [Shoyu](https://open.spotify.com/track/7ammiC4TKHgMXP8RnccYcA) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Unfold](https://open.spotify.com/album/3MWWoyTPwnuhND8LMOAyse) | 2:21 | 2022-09-16 |  |

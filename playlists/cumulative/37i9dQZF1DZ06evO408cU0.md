@@ -2,7 +2,7 @@
 
 ### [This Is Banda Carnaval](https://open.spotify.com/playlist/37i9dQZF1DZ06evO408cU0)
 
-> This is Banda Carnaval\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Banda Carnaval\. The essential tracks, all in one playlist.
 
 100 songs - 5 hr 15 min
 

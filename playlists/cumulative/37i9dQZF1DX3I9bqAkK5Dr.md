@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Jammers
 
-268 songs - 16 hr 16 min
+269 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Andhami Swapnam](https://open.spotify.com/track/1BtRSvbXdLyZEweikCLqsm) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Andhami Swapnam](https://open.spotify.com/album/5qIsGKX1MhrYRXrMO4eDIo) | 4:26 | 2023-05-02 | 2024-04-19 |
 | [Andhami Swapnam](https://open.spotify.com/track/3tiYuEpEjZGuFLjfDf0UyX) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Andhami Swapnam](https://open.spotify.com/album/6IUYeqHEcXN6OYusVU3b8z) | 4:26 | 2023-05-02 |  |
 | [Anna Chelli Anubandham](https://open.spotify.com/track/4GejSY5P7SQXc5Hln6dnU6) | [Boda Jayanth Maadhur](https://open.spotify.com/artist/3x168egz6kQ67souPEwZFY), [Sahithi Adapa](https://open.spotify.com/artist/0G7jVjthZwdLRMADl7Kg5m), [Hamsini](https://open.spotify.com/artist/5KVLBdQwLKz3KNAEC97fB8), [Dia](https://open.spotify.com/artist/76rZrfcbFRe8C0URMZBd2A) | [Anna Chelli Anubandham](https://open.spotify.com/album/2ff94mRYUtwgxUbmHNjiGj) | 3:46 | 2023-09-13 | 2023-09-28 |
+| [Anukokunda](https://open.spotify.com/track/3SSAFT9NPbQTTAT8cKCuyD) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Anukokunda](https://open.spotify.com/album/3mmudJUHwELNQuiaLsAOMY) | 2:50 | 2024-07-25 |  |
 | [Ayyayyo](https://open.spotify.com/track/1uQrWxg5XuFXAtgADRgQQP) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Suresh Banisetti](https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km) | [Ayyayyo](https://open.spotify.com/album/6rhrJYqtqsse4H6b5gVoTB) | 4:30 | 2023-03-17 | 2024-01-03 |
 | [Ayyo](https://open.spotify.com/track/573sYOFcHtV6cG8PrVsy1o) | [Jedediah.wtf](https://open.spotify.com/artist/0AWGG7HynXZCGLfp0xfTFT), [Asura](https://open.spotify.com/artist/3nCR5IOuKcua8VQJToRuT6), [Ricky B](https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc) | [Ayyo](https://open.spotify.com/album/4eoPfLSiI63LU3E89x8zBt) | 3:38 | 2024-02-14 |  |
 | [Beach Road Melody](https://open.spotify.com/track/0MbZn4qAeUUDKYhJiE8z0T) | [Gershom Penugula](https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K) | [Beach Road Melody](https://open.spotify.com/album/5ezBMNOkmFeF5KLdBB5qch) | 1:37 | 2024-04-25 | 2024-05-09 |

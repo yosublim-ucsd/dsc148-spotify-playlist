@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:3dm6lDgdQh05XDHGhb9XQf\">Leanna Crawford</a>",
+  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:5Yu3b48Y29bZlI1cLPOZJz\">Danny Gokey</a>",
   "name": "Top Christian Contemporary",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 219879,
       "name": "A Thousand Times",
       "url": "https://open.spotify.com/track/7EcOG0mQeO0gzyKkHByONE"
@@ -899,6 +899,24 @@
     },
     {
       "album": {
+        "name": "Chosen",
+        "url": "https://open.spotify.com/album/3lWcNC4oTe0Woq9gmvULjU"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204519,
+      "name": "Chosen",
+      "url": "https://open.spotify.com/track/6PXIdmabfZcpZ2Tc6PJaTB"
+    },
+    {
+      "album": {
         "name": "Christ Our Hope In Life And Death",
         "url": "https://open.spotify.com/album/2ifDrydHgJ5YCfBgXtacyM"
       },
@@ -958,6 +976,24 @@
       "duration_ms": 212380,
       "name": "Clear The Air",
       "url": "https://open.spotify.com/track/7mN6Y61Xo7k7aoxkuqzXlz"
+    },
+    {
+      "album": {
+        "name": "Come To Jesus",
+        "url": "https://open.spotify.com/album/64isdca2SFyemz43Rbls3T"
+      },
+      "artists": [
+        {
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222106,
+      "name": "Come To Jesus",
+      "url": "https://open.spotify.com/track/16aYn9DxGwZ4IAa8Hit2t5"
     },
     {
       "album": {
@@ -1127,6 +1163,24 @@
     },
     {
       "album": {
+        "name": "Don't Let Me Forget",
+        "url": "https://open.spotify.com/album/6Rq7yFaU8ZRIJWEfTTZA5d"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197480,
+      "name": "Don't Let Me Forget",
+      "url": "https://open.spotify.com/track/4k5Lh18WXNRcyu3BE2hn8k"
+    },
+    {
+      "album": {
         "name": "Don't Lose Heart",
         "url": "https://open.spotify.com/album/1ZrDYpIj4mqKiL1ZYx8zP2"
       },
@@ -1156,7 +1210,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 233586,
       "name": "Don't Stop Praying",
       "url": "https://open.spotify.com/track/0TH9LO1qmuXMtMYHZhT5gP"
@@ -1784,6 +1838,28 @@
       "duration_ms": 220800,
       "name": "Glory I Couldn't See - Radio Version",
       "url": "https://open.spotify.com/track/6i2ERbUNohRhaLvD9AVdfo"
+    },
+    {
+      "album": {
+        "name": "God Be The Glory (Remix)",
+        "url": "https://open.spotify.com/album/1lmyYK0fbipBT1a4ddHxKF"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228705,
+      "name": "God Be The Glory (Remix)",
+      "url": "https://open.spotify.com/track/7yZt3dNx3wRiTTqQoOvxvS"
     },
     {
       "album": {
@@ -3253,6 +3329,24 @@
     },
     {
       "album": {
+        "name": "I FEEL HOME",
+        "url": "https://open.spotify.com/album/0VLOPfxc8lPX1d9zEzfDZM"
+      },
+      "artists": [
+        {
+          "name": "Joseph O'Brien",
+          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203409,
+      "name": "I FEEL HOME",
+      "url": "https://open.spotify.com/track/0BFYrL6UGqLnQuNdnTb9at"
+    },
+    {
+      "album": {
         "name": "I Got You",
         "url": "https://open.spotify.com/album/70oL8RgGaLCkwEyMXBEmGu"
       },
@@ -3268,6 +3362,24 @@
       "duration_ms": 184186,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE"
+    },
+    {
+      "album": {
+        "name": "I Love Jesus",
+        "url": "https://open.spotify.com/album/596PxhjTOrMpb9O9bAZn45"
+      },
+      "artists": [
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161201,
+      "name": "I Love Jesus",
+      "url": "https://open.spotify.com/track/2dppBpYsyfUJUNbTDoxq1a"
     },
     {
       "album": {
@@ -3542,7 +3654,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 231320,
       "name": "If I Got Jesus",
       "url": "https://open.spotify.com/track/3WmxRZz8xq4jNJW2kVusQc"
@@ -5873,6 +5985,28 @@
     },
     {
       "album": {
+        "name": "CHILD OF GOD",
+        "url": "https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "SAFE AND SOUND",
+      "url": "https://open.spotify.com/track/58HGgpksfmiCJGMOzUKDQi"
+    },
+    {
+      "album": {
         "name": "LION",
         "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
       },
@@ -6163,6 +6297,24 @@
     },
     {
       "album": {
+        "name": "Sound Of Heaven",
+        "url": "https://open.spotify.com/album/71jLkGv1qbvhauU8KDfZc9"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200986,
+      "name": "Sound Of Heaven",
+      "url": "https://open.spotify.com/track/6drDEHrFUutQCSXpW6ApcF"
+    },
+    {
+      "album": {
         "name": "Source of Life",
         "url": "https://open.spotify.com/album/4cNracX2BE4YHIi5PcLqPQ"
       },
@@ -6282,7 +6434,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 323384,
       "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
       "url": "https://open.spotify.com/track/5qL4YNkSHPLiwHZQaPuZl8"
@@ -6730,6 +6882,24 @@
       "duration_ms": 213717,
       "name": "The Heat",
       "url": "https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM"
+    },
+    {
+      "album": {
+        "name": "The Jesus Way Collection",
+        "url": "https://open.spotify.com/album/4gCBVcYiWYXKs9WTaglgCC"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231400,
+      "name": "The Jesus Way - Radio Version",
+      "url": "https://open.spotify.com/track/6wqH0ALMbqxqZw2JrDxeDE"
     },
     {
       "album": {

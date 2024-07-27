@@ -1,6 +1,6 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 795389,
+  "num_followers": 795791,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Oh the Agony, Oh the Ecstasy",
-        "url": "https://open.spotify.com/album/4CLlox0P7wxjTjxJsfUXsO"
-      },
-      "artists": [
-        {
-          "name": "Charlotte OC",
-          "url": "https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Blue Eyes Forever",
-      "url": "https://open.spotify.com/track/5eXxyV07hVH8VxAwYP0VL6"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Quarantine at El Ganzo",
         "url": "https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 228059,
       "name": "Price",
       "url": "https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Oh the Agony, Oh the Ecstasy",
+        "url": "https://open.spotify.com/album/4CLlox0P7wxjTjxJsfUXsO"
+      },
+      "artists": [
+        {
+          "name": "Charlotte OC",
+          "url": "https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Blue Eyes Forever",
+      "url": "https://open.spotify.com/track/5eXxyV07hVH8VxAwYP0VL6"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "A.M. RADIO",
-        "url": "https://open.spotify.com/album/5oNA6BVdRfyj4XyHv4X4wz"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "A.M. RADIO",
-      "url": "https://open.spotify.com/track/0szIXYe2JiSuNHLWkh5cAP"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "GPS (w/ Felly)",
         "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 185076,
       "name": "Hole Digger",
       "url": "https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "A.M. RADIO",
+        "url": "https://open.spotify.com/album/5oNA6BVdRfyj4XyHv4X4wz"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 237320,
+      "name": "A.M. RADIO",
+      "url": "https://open.spotify.com/track/0szIXYe2JiSuNHLWkh5cAP"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Serious",
+        "url": "https://open.spotify.com/album/3x9P5ETTIhyNBSHnOLH4Hw"
+      },
+      "artists": [
+        {
+          "name": "The Whitest Boy Alive",
+          "url": "https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV"
+        }
+      ],
+      "duration_ms": 178999,
+      "name": "Serious",
+      "url": "https://open.spotify.com/track/68JX90DFYbGnKeq6eVT43G"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Library",
         "url": "https://open.spotify.com/album/1op64nsgz3qLbsQEzwCcuE"
       },
@@ -983,38 +999,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Serious",
-        "url": "https://open.spotify.com/album/3x9P5ETTIhyNBSHnOLH4Hw"
-      },
-      "artists": [
-        {
-          "name": "The Whitest Boy Alive",
-          "url": "https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV"
-        }
-      ],
-      "duration_ms": 178999,
-      "name": "Serious",
-      "url": "https://open.spotify.com/track/68JX90DFYbGnKeq6eVT43G"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Young & Free",
-        "url": "https://open.spotify.com/album/1B3U0viHf0iGTpmEogZNie"
-      },
-      "artists": [
-        {
-          "name": "FIL BO RIVA",
-          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
-        }
-      ],
-      "duration_ms": 230352,
-      "name": "Young & Free",
-      "url": "https://open.spotify.com/track/0GMYdEuNaZtcEW014gbv9L"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Arms of Who",
         "url": "https://open.spotify.com/album/4Blv5Cadh9uukumyIwXQr2"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 247226,
       "name": "Arms Of Who",
       "url": "https://open.spotify.com/track/5S6VW7zfblsWX2hsv5SbTG"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Young & Free",
+        "url": "https://open.spotify.com/album/1B3U0viHf0iGTpmEogZNie"
+      },
+      "artists": [
+        {
+          "name": "FIL BO RIVA",
+          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
+        }
+      ],
+      "duration_ms": 230352,
+      "name": "Young & Free",
+      "url": "https://open.spotify.com/track/0GMYdEuNaZtcEW014gbv9L"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Mountain",
-        "url": "https://open.spotify.com/album/5lLrspzGxZevZkbByj9zwd"
-      },
-      "artists": [
-        {
-          "name": "M. Byrd",
-          "url": "https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi"
-        }
-      ],
-      "duration_ms": 182681,
-      "name": "Mountain",
-      "url": "https://open.spotify.com/track/4TFTlwrYFCLqmJtIgxRVUT"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Fake Plastic Trees",
         "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 260000,
       "name": "Fake Plastic Trees",
       "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Mountain",
+        "url": "https://open.spotify.com/album/5lLrspzGxZevZkbByj9zwd"
+      },
+      "artists": [
+        {
+          "name": "M. Byrd",
+          "url": "https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi"
+        }
+      ],
+      "duration_ms": 182681,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/4TFTlwrYFCLqmJtIgxRVUT"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Roccastrada",
-        "url": "https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2"
-      },
-      "artists": [
-        {
-          "name": "Luke Noa",
-          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
-        }
-      ],
-      "duration_ms": 272933,
-      "name": "Roccastrada",
-      "url": "https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "You Might",
         "url": "https://open.spotify.com/album/7otKscInqHObpSN9hIWjte"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 119212,
       "name": "You Might",
       "url": "https://open.spotify.com/track/6KGCgcXf60keh5Zu48ch1K"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Roccastrada",
+        "url": "https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2"
+      },
+      "artists": [
+        {
+          "name": "Luke Noa",
+          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
+        }
+      ],
+      "duration_ms": 272933,
+      "name": "Roccastrada",
+      "url": "https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Under The Milky Way",
-        "url": "https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS"
-      },
-      "artists": [
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        }
-      ],
-      "duration_ms": 260101,
-      "name": "Under The Milky Way",
-      "url": "https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "The Beauty & The Pain",
         "url": "https://open.spotify.com/album/0UGhyu6woshbDtYGfuaYcc"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 242506,
       "name": "The Beauty & The Pain",
       "url": "https://open.spotify.com/track/7vWab560TZxP2mtOHq7Tc3"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Under The Milky Way",
+        "url": "https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 260101,
+      "name": "Under The Milky Way",
+      "url": "https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Flood",
-        "url": "https://open.spotify.com/album/3eHCDyFaj2k5aK40Z5idSW"
-      },
-      "artists": [
-        {
-          "name": "M. Byrd",
-          "url": "https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi"
-        }
-      ],
-      "duration_ms": 247760,
-      "name": "Flood",
-      "url": "https://open.spotify.com/track/2wYj2hjlnGNZcXHpk8R5yj"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "But (Radio Edit)",
         "url": "https://open.spotify.com/album/3Nfci1vevpKtkdKTf12KEQ"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 241651,
       "name": "But - Radio Edit",
       "url": "https://open.spotify.com/track/4d058hVl7ZMJGqY7boJOf3"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Flood",
+        "url": "https://open.spotify.com/album/3eHCDyFaj2k5aK40Z5idSW"
+      },
+      "artists": [
+        {
+          "name": "M. Byrd",
+          "url": "https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi"
+        }
+      ],
+      "duration_ms": 247760,
+      "name": "Flood",
+      "url": "https://open.spotify.com/track/2wYj2hjlnGNZcXHpk8R5yj"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Orion",
-        "url": "https://open.spotify.com/album/5iQB5w3lt2DH5OC7ojVen9"
-      },
-      "artists": [
-        {
-          "name": "M. Byrd",
-          "url": "https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi"
-        }
-      ],
-      "duration_ms": 217749,
-      "name": "Orion",
-      "url": "https://open.spotify.com/track/0qnpxbStMCvnIaHixVjuPk"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Lonely Nights",
         "url": "https://open.spotify.com/album/5qvewfz3zp6c9DlCKk4m3w"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 200093,
       "name": "Lonely Nights",
       "url": "https://open.spotify.com/track/0dRqWsb5yaDSm2Z9TJlqDF"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/5iQB5w3lt2DH5OC7ojVen9"
+      },
+      "artists": [
+        {
+          "name": "M. Byrd",
+          "url": "https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi"
+        }
+      ],
+      "duration_ms": 217749,
+      "name": "Orion",
+      "url": "https://open.spotify.com/track/0qnpxbStMCvnIaHixVjuPk"
     },
     {
       "added_at": "2024-05-22 11:00:00",

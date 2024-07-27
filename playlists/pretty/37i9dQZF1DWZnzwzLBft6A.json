@@ -1,6 +1,6 @@
 {
   "description": "He perfected counterpoint, set the bar for cello suites, and absolutely loved a curly white wig: JS Bach played a huge part in shaping all the classical music we enjoy today. Discover why, right here.",
-  "num_followers": 669137,
+  "num_followers": 669319,
   "original_name": "This Is Bach",
   "owner": {
     "name": "Spotify",
@@ -568,10 +568,6 @@
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
           "name": "Sheku Kanneh-Mason",
           "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
         },
@@ -586,6 +582,10 @@
         {
           "name": "Max Ruisi",
           "url": "https://open.spotify.com/artist/0UqhmCMWvq49fgnXpO4vZQ"
+        },
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         }
       ],
       "duration_ms": 279840,

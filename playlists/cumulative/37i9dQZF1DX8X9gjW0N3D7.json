@@ -136,7 +136,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 157863,
       "name": "C'est comme \u00e7a",
       "url": "https://open.spotify.com/track/3rDAYokpKb7ImopqqFP41N"
@@ -216,6 +216,32 @@
       "duration_ms": 186818,
       "name": "Chasing Sunsets (V.F)",
       "url": "https://open.spotify.com/track/4XGom6Qy5JpWqsjALQMDve"
+    },
+    {
+      "album": {
+        "name": "Leela",
+        "url": "https://open.spotify.com/album/7yLXm3F5E50rIqAiqsRKZi"
+      },
+      "artists": [
+        {
+          "name": "Fuso",
+          "url": "https://open.spotify.com/artist/3LYl9B0Gfmz00OwCTKCkCh"
+        },
+        {
+          "name": "Dub Silence",
+          "url": "https://open.spotify.com/artist/3Z78MYUojWImmYmQgadcsr"
+        },
+        {
+          "name": "Adamo",
+          "url": "https://open.spotify.com/artist/3FOto5lv6R7HS5DjsfxEqW"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167311,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/4ZXYe1nSGi6sxutBi1xApf"
     },
     {
       "album": {
@@ -350,6 +376,24 @@
       "duration_ms": 147000,
       "name": "Ensemble - Radio Edit",
       "url": "https://open.spotify.com/track/73G5Qtfwq7lSFR9MlpQDlj"
+    },
+    {
+      "album": {
+        "name": "Fake Friends",
+        "url": "https://open.spotify.com/album/4PCTm05PE1ULKyzKJGiNfO"
+      },
+      "artists": [
+        {
+          "name": "Billie du Page",
+          "url": "https://open.spotify.com/artist/0FtpMrRAPhbGpC34OMSUbX"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "Fake Friends",
+      "url": "https://open.spotify.com/track/6uMWNX0hKdWr1hJckauIub"
     },
     {
       "album": {
@@ -866,7 +910,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 167506,
       "name": "Mauvais temps",
       "url": "https://open.spotify.com/track/0LAaXA4qn91sYwHWIB0tlA"

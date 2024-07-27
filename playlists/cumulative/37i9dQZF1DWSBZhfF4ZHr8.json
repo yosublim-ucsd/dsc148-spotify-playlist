@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Elo\u00efz",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : RIDSA",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Crash Dans Tes Bras",
+        "url": "https://open.spotify.com/album/5JmoeCP9fG3PrBEcusvb2c"
+      },
+      "artists": [
+        {
+          "name": "Elissa Lauper",
+          "url": "https://open.spotify.com/artist/7mtFeidhCmzKSONpngSXoa"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169521,
+      "name": "Crash Dans Tes Bras",
+      "url": "https://open.spotify.com/track/3SySzHH2kUy1JplgpVc8Rr"
+    },
+    {
+      "album": {
         "name": "Derniers humains",
         "url": "https://open.spotify.com/album/7evFIy8Cj5iyiow2xrFZg1"
       },
@@ -302,7 +320,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 193866,
       "name": "Facile \u00e0 danser",
       "url": "https://open.spotify.com/track/2LCUvL8ZJ49z6uP1cGXSFi"
@@ -342,6 +360,24 @@
       "duration_ms": 163711,
       "name": "Fille du Sud (Lambada)",
       "url": "https://open.spotify.com/track/78aegnVpvsl3RcGFQ7KaAc"
+    },
+    {
+      "album": {
+        "name": "Gamins des sables",
+        "url": "https://open.spotify.com/album/7i6lctPeWsgOFi2YecT4tG"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00e9my Frerot",
+          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179279,
+      "name": "Gamins des sables",
+      "url": "https://open.spotify.com/track/0dzdbXvbbHNTiPkaNPgZLf"
     },
     {
       "album": {
@@ -576,7 +612,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 170000,
       "name": "Le silence",
       "url": "https://open.spotify.com/track/0S3x3BXVAQEUpjNQbvQVfh"
@@ -681,6 +717,24 @@
     },
     {
       "album": {
+        "name": "Mamma Mia",
+        "url": "https://open.spotify.com/album/7qgVZiCj6qmf3kFaqDzkTW"
+      },
+      "artists": [
+        {
+          "name": "2 Copains",
+          "url": "https://open.spotify.com/artist/6yINzSJry9uroHLqhGf3yB"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Mamma Mia",
+      "url": "https://open.spotify.com/track/3haU6irRiO9hZdku6ftszL"
+    },
+    {
+      "album": {
         "name": "Mon coeur s'emballe",
         "url": "https://open.spotify.com/album/2uvaskU3CUJ0J52tIgNSnd"
       },
@@ -710,7 +764,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 223906,
       "name": "Normal - Version Lino",
       "url": "https://open.spotify.com/track/7yfiUVhb4ULrdspsNdVKh0"
@@ -804,7 +858,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 173359,
       "name": "Paris",
       "url": "https://open.spotify.com/track/1RF0JuRVgZTTlJ5plNE1Je"
@@ -848,6 +902,32 @@
       "duration_ms": 165576,
       "name": "Petite gueule",
       "url": "https://open.spotify.com/track/1KceWs92cxNJjxiBi8VR7m"
+    },
+    {
+      "album": {
+        "name": "Plus L'Time (Stereo Love)",
+        "url": "https://open.spotify.com/album/09DH6CFGrS9EPoxv4Vi3ea"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Zelia",
+          "url": "https://open.spotify.com/artist/0yRrjkmoosrBlPC3nUXsbk"
+        },
+        {
+          "name": "Edward Maya",
+          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+        },
+        {
+          "name": "Adryano",
+          "url": "https://open.spotify.com/artist/2UDlaOGt9VWAqsbNmsYzYk"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174875,
+      "name": "Plus L'Time (Stereo Love)",
+      "url": "https://open.spotify.com/track/1SXq81JaEMfD3L7aGJv7K3"
     },
     {
       "album": {
@@ -916,7 +996,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 236066,
       "name": "Sentiers de la brume",
       "url": "https://open.spotify.com/track/3REOJVcm5TaOSjsMPwB6X2"
@@ -1068,6 +1148,28 @@
       "duration_ms": 135612,
       "name": "Un jour de plus",
       "url": "https://open.spotify.com/track/37703MsdzYjoG8SqnbVKDg"
+    },
+    {
+      "album": {
+        "name": "Z\u00e9ro par mois",
+        "url": "https://open.spotify.com/album/72aUzvdkjxOJWmuQpxAx3z"
+      },
+      "artists": [
+        {
+          "name": "Robin",
+          "url": "https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD"
+        },
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141576,
+      "name": "Z\u00e9ro par mois",
+      "url": "https://open.spotify.com/track/2NnB2R2wQgOrkOvnJWV4eM"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8"

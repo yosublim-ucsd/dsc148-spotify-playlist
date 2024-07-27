@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-29",
-  "description": "This Is BIA. Los temas esenciales, todos en una lista.",
+  "description": "This is BIA. The essential tracks, all in one playlist.",
   "name": "This Is BIA",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 141533,
       "name": "808",
       "url": "https://open.spotify.com/track/6q2MPZVa5Mb5PjJEVUWvYK"
@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 161733,
       "name": "808 (feat. BIA) - VIP Mix",
       "url": "https://open.spotify.com/track/7JXv5zT2ScZD5M817AsiwD"
@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 156519,
       "name": "PLATE",
       "url": "https://open.spotify.com/track/7qkmotkXzezx5iJmU7xxfB"

@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Quand\u00e9 F\u00e9 Bebi, Ep. 4 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/76JHtXz23yAdLWgbdOj5Qm"
+      },
+      "artists": [
+        {
+          "name": "Lucas Souza",
+          "url": "https://open.spotify.com/artist/1oPBjUigdT4JJxW9LjMqWU"
+        },
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165825,
+      "name": "A Chance \u00c9 Grande - Ao Vivo",
+      "url": "https://open.spotify.com/track/0fQ0gx9D0lDWsWaO1NXz5p"
+    },
+    {
+      "album": {
         "name": "A Saideira",
         "url": "https://open.spotify.com/album/061XUJjmJ9iYghbYAExIMu"
       },
@@ -56,7 +78,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 163140,
       "name": "Agenda Rabiscada / Desatino (Nois \u00c9 Pe\u00e3o) - Ao Vivo",
       "url": "https://open.spotify.com/track/5mzgepnoUd2J17edCga3cs"
@@ -96,7 +118,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 156437,
       "name": "Balde de Choro - Ao Vivo",
       "url": "https://open.spotify.com/track/1tli2rmcy8woZTohS6rNG3"
@@ -304,7 +326,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 159829,
       "name": "Colch\u00e3o Mole - Ao vivo",
       "url": "https://open.spotify.com/track/1CxyrUCsZeQ1wqAxMPrK3c"
@@ -322,7 +344,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 178659,
       "name": "Conselho de Bobo",
       "url": "https://open.spotify.com/track/6J29RYRBNiAJjXWgNCa7bf"
@@ -348,6 +370,28 @@
       "duration_ms": 204066,
       "name": "Credencial, Quando \u00e9 Amor",
       "url": "https://open.spotify.com/track/535DDAFoAl2PLIIbuD6Gnl"
+    },
+    {
+      "album": {
+        "name": "C\u00ea Nunca Namorou Eu",
+        "url": "https://open.spotify.com/album/3CfgXVVQFmYAPqBZwYJ0y7"
+      },
+      "artists": [
+        {
+          "name": "Pedro e Rafael",
+          "url": "https://open.spotify.com/artist/2DFCklgpKvgnjLY8CoCwVZ"
+        },
+        {
+          "name": "Moda Music",
+          "url": "https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155945,
+      "name": "C\u00ea Nunca Namorou Eu",
+      "url": "https://open.spotify.com/track/5Mt3jH3Jwbe7tXVDVzgAmk"
     },
     {
       "album": {
@@ -410,6 +454,28 @@
       "duration_ms": 166888,
       "name": "Dor Passageira - Ao Vivo",
       "url": "https://open.spotify.com/track/7rkfEGSA19aPkmeVBVi091"
+    },
+    {
+      "album": {
+        "name": "2162 (Ao vivo)",
+        "url": "https://open.spotify.com/album/4NGjz0FS6m0FDGiod0maIa"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gabriel",
+          "url": "https://open.spotify.com/artist/6cuYN8aZLQ1ZSKkJJwi2eY"
+        },
+        {
+          "name": "\u00cdcaro e Gilmar",
+          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "Ela n\u00e3o sabe terminar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4WLS3uOk1WDvQogBoWXsgE"
     },
     {
       "album": {
@@ -755,6 +821,28 @@
     },
     {
       "album": {
+        "name": "Guenta Reca\u00edda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5JHm0ZPG3ePXxNlLk9iQ5t"
+      },
+      "artists": [
+        {
+          "name": "Marco Aur\u00e9lio & Bueno",
+          "url": "https://open.spotify.com/artist/0N3cc0QOIYw3YBq76ivMLe"
+        },
+        {
+          "name": "Moda Music",
+          "url": "https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153716,
+      "name": "Guenta Reca\u00edda - Ao Vivo",
+      "url": "https://open.spotify.com/track/0WMglEGNGlmFkr9wTdSrKk"
+    },
+    {
+      "album": {
         "name": "Haja Luz (Ao Vivo)",
         "url": "https://open.spotify.com/album/5MzdiEeDL8UxZtILQzcwcS"
       },
@@ -806,7 +894,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 150263,
       "name": "Karma - Ao Vivo",
       "url": "https://open.spotify.com/track/7m9ynIHt6Xoey6bXf3aPrG"
@@ -885,6 +973,28 @@
     },
     {
       "album": {
+        "name": "Ao Mo\u00e7ada, Ep. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0abRBX4YpBmeXDg402NHOj"
+      },
+      "artists": [
+        {
+          "name": "J\u00falio Torres",
+          "url": "https://open.spotify.com/artist/44P8fYRg0UVUGcPOuQHEqN"
+        },
+        {
+          "name": "F\u00e1tima Le\u00e3o",
+          "url": "https://open.spotify.com/artist/2d7EIdqRpKN43NEeyDzN83"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217750,
+      "name": "Minha Loucura de Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/1uigKf4kN647DGnyVDXnSG"
+    },
+    {
+      "album": {
         "name": "ONDE NASCE O SUCESSO",
         "url": "https://open.spotify.com/album/394Ls3WwWIgYCOGXOszhGm"
       },
@@ -922,7 +1032,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 137884,
       "name": "Namorada Solteira",
       "url": "https://open.spotify.com/track/7fW41om1M9TripkN2vvuiI"
@@ -1111,6 +1221,28 @@
     },
     {
       "album": {
+        "name": "Parara Na Cama",
+        "url": "https://open.spotify.com/album/2pH9jwjr7q0lQ8vbW1YB15"
+      },
+      "artists": [
+        {
+          "name": "Josy",
+          "url": "https://open.spotify.com/artist/08s6mydXLAXO3oidWm6zCS"
+        },
+        {
+          "name": "Mariana Fagundes",
+          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149907,
+      "name": "Parara Na Cama",
+      "url": "https://open.spotify.com/track/4Ur2FhIwwj66bBJo6GWyvj"
+    },
+    {
+      "album": {
         "name": "Pega Eu (Ao Vivo)",
         "url": "https://open.spotify.com/album/0GzSYPcj8ZLmrcyG5hiU1p"
       },
@@ -1130,6 +1262,24 @@
       "duration_ms": 129448,
       "name": "Pega Eu - Ao Vivo",
       "url": "https://open.spotify.com/track/7gCe4pdG2dPvlZWPFRrhmd"
+    },
+    {
+      "album": {
+        "name": "Pergunta Pro Meu Ex",
+        "url": "https://open.spotify.com/album/3rm5EsK3g6oHBCx44jCIvd"
+      },
+      "artists": [
+        {
+          "name": "Carol Villa",
+          "url": "https://open.spotify.com/artist/1nr8Q8WNEAb3znVkAlZGOO"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167475,
+      "name": "Pergunta Pro Meu Ex",
+      "url": "https://open.spotify.com/track/6iF9M9PxnjrjVFn6U2nIWz"
     },
     {
       "album": {
@@ -1188,7 +1338,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 199296,
       "name": "Porteira Fechada",
       "url": "https://open.spotify.com/track/2ydedWwewirWs6D2dMjfF5"
@@ -1206,7 +1356,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 163055,
       "name": "Pra Dan\u00e7ar Vaneira / Ajoelha e Chora - Batid\u00e3o & Terer\u00e9 - Ao Vivo",
       "url": "https://open.spotify.com/track/2DPMlOVcB5qwXtECsSYfsV"
@@ -1376,7 +1526,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 181538,
       "name": "Saudade FM - Ao Vivo",
       "url": "https://open.spotify.com/track/2isXMqZS29EvX4jndgXo0H"
@@ -1574,7 +1724,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 171557,
       "name": "S\u00e3o Pedro",
       "url": "https://open.spotify.com/track/1kavxeJwSgI0XTWZikUegR"

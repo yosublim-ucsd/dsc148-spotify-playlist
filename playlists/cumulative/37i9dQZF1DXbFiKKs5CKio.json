@@ -683,6 +683,24 @@
     },
     {
       "album": {
+        "name": "ESCOLHAS",
+        "url": "https://open.spotify.com/album/03pGiKAx5rT7nBELKTZ7Ot"
+      },
+      "artists": [
+        {
+          "name": "V\u00c9RTICE",
+          "url": "https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221775,
+      "name": "ESCOLHAS",
+      "url": "https://open.spotify.com/track/5l4yvhKkTcosuRuOaF5Kcx"
+    },
+    {
+      "album": {
         "name": "EU S\u00d3 PENSO EM VOC\u00ca",
         "url": "https://open.spotify.com/album/0qXGKKrNzVkrUUlchwpclj"
       },
@@ -1362,7 +1380,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 244000,
       "name": "Ondina",
       "url": "https://open.spotify.com/track/2SahXyHV5pmsJD94jzmQ9n"
@@ -1538,7 +1556,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 164000,
       "name": "Pulando",
       "url": "https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT"
@@ -1732,6 +1750,28 @@
       "duration_ms": 294693,
       "name": "Renascer",
       "url": "https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm"
+    },
+    {
+      "album": {
+        "name": "Labirinto",
+        "url": "https://open.spotify.com/album/1p9ksUAGTlV9BPI7fqs5j2"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        },
+        {
+          "name": "Rodd",
+          "url": "https://open.spotify.com/artist/45lSKyZgKW2bdvoi3KyAFT"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239363,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/1cCFfCSdS0eHrUBq3l9djO"
     },
     {
       "album": {

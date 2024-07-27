@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Manolo Kabezabolo.",
-  "num_followers": 105512,
+  "num_followers": 105577,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-07-19 10:31:21",
       "album": {
+        "name": "El Mutante del Barrio Chino",
+        "url": "https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo Ke Zierre",
+          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
+        }
+      ],
+      "duration_ms": 192946,
+      "name": "Empacho de Orfidal",
+      "url": "https://open.spotify.com/track/6vbkhHC2YifNfPZFgRTmfs"
+    },
+    {
+      "added_at": "2024-07-19 10:31:21",
+      "album": {
         "name": "Corona de espinas",
         "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 217466,
       "name": "Corona de espinas",
       "url": "https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL"
-    },
-    {
-      "added_at": "2024-07-19 10:31:21",
-      "album": {
-        "name": "El Mutante del Barrio Chino",
-        "url": "https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j"
-      },
-      "artists": [
-        {
-          "name": "El \u00daltimo Ke Zierre",
-          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
-        }
-      ],
-      "duration_ms": 192946,
-      "name": "Empacho de Orfidal",
-      "url": "https://open.spotify.com/track/6vbkhHC2YifNfPZFgRTmfs"
     },
     {
       "added_at": "2024-07-19 10:31:21",
@@ -983,26 +983,6 @@
     {
       "added_at": "2024-07-19 10:31:21",
       "album": {
-        "name": "Froil\u00e1n de Todos los Antros",
-        "url": "https://open.spotify.com/album/0hhFWgkYXpVX1kFrmqksLE"
-      },
-      "artists": [
-        {
-          "name": "Fuckop Family",
-          "url": "https://open.spotify.com/artist/0b4TqnnddOeTOuGaWV0KRe"
-        },
-        {
-          "name": "Lendakaris Muertos",
-          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
-        }
-      ],
-      "duration_ms": 220488,
-      "name": "Froil\u00e1n de Todos los Antros",
-      "url": "https://open.spotify.com/track/2532AJjI6LDDL9Ybz8Sl7k"
-    },
-    {
-      "added_at": "2024-07-19 10:31:21",
-      "album": {
         "name": "No es la primera vez que pasa",
         "url": "https://open.spotify.com/album/6V0HmOz23W95AM8BDhRpsU"
       },
@@ -1019,18 +999,22 @@
     {
       "added_at": "2024-07-19 10:31:21",
       "album": {
-        "name": "Antifascismo",
-        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
+        "name": "Froil\u00e1n de Todos los Antros",
+        "url": "https://open.spotify.com/album/0hhFWgkYXpVX1kFrmqksLE"
       },
       "artists": [
         {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+          "name": "Fuckop Family",
+          "url": "https://open.spotify.com/artist/0b4TqnnddOeTOuGaWV0KRe"
+        },
+        {
+          "name": "Lendakaris Muertos",
+          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
         }
       ],
-      "duration_ms": 260127,
-      "name": "Antifascismo",
-      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
+      "duration_ms": 220488,
+      "name": "Froil\u00e1n de Todos los Antros",
+      "url": "https://open.spotify.com/track/2532AJjI6LDDL9Ybz8Sl7k"
     },
     {
       "added_at": "2024-07-19 10:31:21",
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2024-07-19 10:31:21",
       "album": {
+        "name": "Antifascismo",
+        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
+      },
+      "artists": [
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        }
+      ],
+      "duration_ms": 260127,
+      "name": "Antifascismo",
+      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
+    },
+    {
+      "added_at": "2024-07-19 10:31:21",
+      "album": {
         "name": "A Bocajarro + Sopla Sopla",
         "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-19 10:31:21",
       "album": {
-        "name": "No Olvidamos, 3 de Marzo - Single",
-        "url": "https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE"
-      },
-      "artists": [
-        {
-          "name": "Soziedad Alkoholika",
-          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
-        }
-      ],
-      "duration_ms": 231593,
-      "name": "No Olvidamos, 3 de Marzo",
-      "url": "https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX"
-    },
-    {
-      "added_at": "2024-07-19 10:31:21",
-      "album": {
         "name": "Pura dinamita",
         "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 236888,
       "name": "Pura dinamita",
       "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
+    },
+    {
+      "added_at": "2024-07-19 10:31:21",
+      "album": {
+        "name": "No Olvidamos, 3 de Marzo - Single",
+        "url": "https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE"
+      },
+      "artists": [
+        {
+          "name": "Soziedad Alkoholika",
+          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
+        }
+      ],
+      "duration_ms": 231593,
+      "name": "No Olvidamos, 3 de Marzo",
+      "url": "https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX"
     },
     {
       "added_at": "2024-07-19 10:31:21",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-07-19 10:31:21",
       "album": {
-        "name": "Ser Libre",
-        "url": "https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH"
-      },
-      "artists": [
-        {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
-        }
-      ],
-      "duration_ms": 216250,
-      "name": "Ser Libre",
-      "url": "https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N"
-    },
-    {
-      "added_at": "2024-07-19 10:31:21",
-      "album": {
         "name": "Punk Latino Vol. 1",
         "url": "https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2024-07-19 10:31:21",
       "album": {
-        "name": "Arder\u00e1n",
-        "url": "https://open.spotify.com/album/2pxQN0Uj57ZfwsqIB02okC"
+        "name": "Ser Libre",
+        "url": "https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH"
       },
       "artists": [
         {
-          "name": "\u00daltimo Rekurso",
-          "url": "https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9"
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
         }
       ],
-      "duration_ms": 182335,
-      "name": "Arder\u00e1n",
-      "url": "https://open.spotify.com/track/1osGlQ2CrQeIvlEaIUOjzO"
+      "duration_ms": 216250,
+      "name": "Ser Libre",
+      "url": "https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N"
     },
     {
       "added_at": "2024-07-19 10:31:21",
@@ -1287,6 +1271,22 @@
     {
       "added_at": "2024-07-19 10:31:21",
       "album": {
+        "name": "Arder\u00e1n",
+        "url": "https://open.spotify.com/album/2pxQN0Uj57ZfwsqIB02okC"
+      },
+      "artists": [
+        {
+          "name": "\u00daltimo Rekurso",
+          "url": "https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9"
+        }
+      ],
+      "duration_ms": 182335,
+      "name": "Arder\u00e1n",
+      "url": "https://open.spotify.com/track/1osGlQ2CrQeIvlEaIUOjzO"
+    },
+    {
+      "added_at": "2024-07-19 10:31:21",
+      "album": {
         "name": "Figurante",
         "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
       },
@@ -1299,22 +1299,6 @@
       "duration_ms": 150701,
       "name": "Figurante",
       "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
-    },
-    {
-      "added_at": "2024-07-19 10:31:21",
-      "album": {
-        "name": "Nada que me haga resurgir",
-        "url": "https://open.spotify.com/album/6adyHHRjUSRHF3P7ZzENEI"
-      },
-      "artists": [
-        {
-          "name": "A Cuchillo",
-          "url": "https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Nada que me haga resurgir",
-      "url": "https://open.spotify.com/track/0HIfkUaLyb4V3F3sFdu6zt"
     },
     {
       "added_at": "2024-07-19 10:31:21",
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2024-07-19 10:31:21",
       "album": {
+        "name": "Nada que me haga resurgir",
+        "url": "https://open.spotify.com/album/6adyHHRjUSRHF3P7ZzENEI"
+      },
+      "artists": [
+        {
+          "name": "A Cuchillo",
+          "url": "https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Nada que me haga resurgir",
+      "url": "https://open.spotify.com/track/0HIfkUaLyb4V3F3sFdu6zt"
+    },
+    {
+      "added_at": "2024-07-19 10:31:21",
+      "album": {
         "name": "All Cayetanos Are Bastards",
         "url": "https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t"
       },
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-07-19 10:31:21",
       "album": {
-        "name": "Borratxos y Orgullosos",
-        "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
-      },
-      "artists": [
-        {
-          "name": "Josetxu Piperrak & The Riber Rock Band",
-          "url": "https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG"
-        }
-      ],
-      "duration_ms": 223950,
-      "name": "Borratxos y Orgullosos",
-      "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
-    },
-    {
-      "added_at": "2024-07-19 10:31:21",
-      "album": {
         "name": "Generaci\u00f3n Enferma",
         "url": "https://open.spotify.com/album/2QGVrZCY9kiwebp5hYP2xb"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 166886,
       "name": "Generaci\u00f3n Enferma",
       "url": "https://open.spotify.com/track/1kkDnsuAqg3t9aS8fhMATd"
+    },
+    {
+      "added_at": "2024-07-19 10:31:21",
+      "album": {
+        "name": "Borratxos y Orgullosos",
+        "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
+      },
+      "artists": [
+        {
+          "name": "Josetxu Piperrak & The Riber Rock Band",
+          "url": "https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG"
+        }
+      ],
+      "duration_ms": 223950,
+      "name": "Borratxos y Orgullosos",
+      "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
     },
     {
       "added_at": "2024-07-19 10:31:21",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-07-19 10:31:21",
       "album": {
-        "name": "Influencers",
-        "url": "https://open.spotify.com/album/0aLb1OseJN1zVxtXTS84r2"
-      },
-      "artists": [
-        {
-          "name": "\u00daltimo Rekurso",
-          "url": "https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9"
-        }
-      ],
-      "duration_ms": 246493,
-      "name": "Influencers",
-      "url": "https://open.spotify.com/track/3QeyHS6OYXDuoNXeePq2TG"
-    },
-    {
-      "added_at": "2024-07-19 10:31:21",
-      "album": {
         "name": "Antimateria",
         "url": "https://open.spotify.com/album/7DMDHH3ko36wCPkA6XSMv5"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 101731,
       "name": "Antimateria",
       "url": "https://open.spotify.com/track/2vzkOxWmJWQFzRRu1zNRsN"
+    },
+    {
+      "added_at": "2024-07-19 10:31:21",
+      "album": {
+        "name": "Influencers",
+        "url": "https://open.spotify.com/album/0aLb1OseJN1zVxtXTS84r2"
+      },
+      "artists": [
+        {
+          "name": "\u00daltimo Rekurso",
+          "url": "https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9"
+        }
+      ],
+      "duration_ms": 246493,
+      "name": "Influencers",
+      "url": "https://open.spotify.com/track/3QeyHS6OYXDuoNXeePq2TG"
     },
     {
       "added_at": "2024-07-19 10:31:21",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2024-07-19 10:31:21",
       "album": {
-        "name": "No Hay Agua",
-        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
+        "name": "Contra el Mar",
+        "url": "https://open.spotify.com/album/6JlX6G26bdreUH3t6Q21LK"
       },
       "artists": [
         {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+          "name": "Presi\u00f3n",
+          "url": "https://open.spotify.com/artist/5gkvUdA8hymxi0Vnlw5LoI"
         }
       ],
-      "duration_ms": 124853,
-      "name": "Mi Mejor Colega - original",
-      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
+      "duration_ms": 199384,
+      "name": "Contra el Mar",
+      "url": "https://open.spotify.com/track/7MF0JmLAmM3HczGPc1YVYz"
     },
     {
       "added_at": "2024-07-19 10:31:21",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-07-19 10:31:21",
       "album": {
-        "name": "Contra el Mar",
-        "url": "https://open.spotify.com/album/6JlX6G26bdreUH3t6Q21LK"
-      },
-      "artists": [
-        {
-          "name": "Presi\u00f3n",
-          "url": "https://open.spotify.com/artist/5gkvUdA8hymxi0Vnlw5LoI"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Contra el Mar",
-      "url": "https://open.spotify.com/track/7MF0JmLAmM3HczGPc1YVYz"
-    },
-    {
-      "added_at": "2024-07-19 10:31:21",
-      "album": {
         "name": "Sombra y Luz",
         "url": "https://open.spotify.com/album/0sTzX1wBi75FyQhzYmLAZm"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 157991,
       "name": "Sombra y Luz - Sombra y Luz",
       "url": "https://open.spotify.com/track/4tBjhicwmWAxDDblcDHbN0"
+    },
+    {
+      "added_at": "2024-07-19 10:31:21",
+      "album": {
+        "name": "No Hay Agua",
+        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "duration_ms": 124853,
+      "name": "Mi Mejor Colega - original",
+      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
     },
     {
       "added_at": "2024-07-19 10:31:21",

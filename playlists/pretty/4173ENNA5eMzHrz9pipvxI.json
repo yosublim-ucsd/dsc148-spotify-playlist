@@ -1,302 +1,34 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: David Guetta x Cedric Gervais",
-  "num_followers": 120204,
+  "num_followers": 120199,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAdqw+f1JB2zY3O38e2fjA5a2CxNTX7",
+  "snapshot_id": "AAAdry8+7UOgUJyM7tbh3ck2LdYENIKJ",
   "tracks": [
     {
-      "added_at": "2024-07-19 07:04:09",
+      "added_at": "2024-07-25 23:09:50",
       "album": {
-        "name": "Switch",
-        "url": "https://open.spotify.com/album/6L2qyexv1IleiJkkcYl4zT"
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/3sbOgcdCl22ybRGsygeh4W"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
         }
       ],
-      "duration_ms": 189022,
-      "name": "Switch",
-      "url": "https://open.spotify.com/track/5l9wqqfosStld3rOPimbDw"
+      "duration_ms": 300000,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/0Ztb6gvfzYnmD8HqBZaIVR"
     },
     {
-      "added_at": "2024-07-19 07:04:09",
+      "added_at": "2024-07-25 23:09:50",
       "album": {
-        "name": "Open Your Eyes",
-        "url": "https://open.spotify.com/album/4crL4998au9yLFpCDKPEJK"
-      },
-      "artists": [
-        {
-          "name": "POLTERGST",
-          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Open Your Eyes",
-      "url": "https://open.spotify.com/track/3adEmuBPBZR04wFiIE9qHL"
-    },
-    {
-      "added_at": "2024-07-12 16:31:49",
-      "album": {
-        "name": "Hurricane (feat. Leah Guest)",
-        "url": "https://open.spotify.com/album/0AykD0vZXh4qotarIZaein"
-      },
-      "artists": [
-        {
-          "name": "Mollie Collins",
-          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
-        },
-        {
-          "name": "Leah Guest",
-          "url": "https://open.spotify.com/artist/3xcuwG04J5hXTs7eOS1vbe"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Hurricane (feat. Leah Guest)",
-      "url": "https://open.spotify.com/track/3cqQbJbm9KnTWixphVZJ2u"
-    },
-    {
-      "added_at": "2024-07-12 16:31:49",
-      "album": {
-        "name": "Madan",
-        "url": "https://open.spotify.com/album/5bC9YRPcdc3W90DG4aw04n"
-      },
-      "artists": [
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        }
-      ],
-      "duration_ms": 155742,
-      "name": "Madan",
-      "url": "https://open.spotify.com/track/5JzDUd8Iz8ol1f5WhfTJx9"
-    },
-    {
-      "added_at": "2024-07-12 16:31:49",
-      "album": {
-        "name": "Fall At Your Feet (with Dean Lewis)",
-        "url": "https://open.spotify.com/album/7msRig3mOdFp1MeUZPngiY"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 143976,
-      "name": "Fall At Your Feet (with Dean Lewis)",
-      "url": "https://open.spotify.com/track/0M0a2E5H8pUmqDHs0A4931"
-    },
-    {
-      "added_at": "2024-07-12 16:31:49",
-      "album": {
-        "name": "Monaco",
-        "url": "https://open.spotify.com/album/4lDQvaFBTWo7nxFXQCnHhN"
-      },
-      "artists": [
-        {
-          "name": "Jude York",
-          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
-        }
-      ],
-      "duration_ms": 158710,
-      "name": "Monaco",
-      "url": "https://open.spotify.com/track/0ieUviafigTnoovXhb8jyd"
-    },
-    {
-      "added_at": "2024-07-19 07:04:09",
-      "album": {
-        "name": "You Like It Rough (feat. Lee McKing)",
-        "url": "https://open.spotify.com/album/7zGfUevKbCjaYhHUFe89km"
-      },
-      "artists": [
-        {
-          "name": "BEAUZ",
-          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
-        },
-        {
-          "name": "Lee McKing",
-          "url": "https://open.spotify.com/artist/6gjwMfbDEX2vTmjsbiHJHK"
-        }
-      ],
-      "duration_ms": 156338,
-      "name": "You Like It Rough (feat. Lee McKing)",
-      "url": "https://open.spotify.com/track/08oJNlCDLWglZcbLNMuQ3J"
-    },
-    {
-      "added_at": "2024-07-19 07:04:09",
-      "album": {
-        "name": "Open Your Eyes (MaRLo Presents V3NOM)",
-        "url": "https://open.spotify.com/album/1TAmbAltC9QNbSZBLAInm2"
-      },
-      "artists": [
-        {
-          "name": "MaRLo",
-          "url": "https://open.spotify.com/artist/2kd1zg9ZyGG6WjZO2dAsFd"
-        },
-        {
-          "name": "V3NOM",
-          "url": "https://open.spotify.com/artist/19pZqZK2BJlJkJaSlUK6xH"
-        }
-      ],
-      "duration_ms": 155200,
-      "name": "Open Your Eyes (MaRLo Presents V3NOM)",
-      "url": "https://open.spotify.com/track/1NdkivrbjmROqu8HaAznl9"
-    },
-    {
-      "added_at": "2024-07-19 07:04:09",
-      "album": {
-        "name": "God Is A Code",
-        "url": "https://open.spotify.com/album/7iBzy1wuFN1khSR3LDZfkm"
-      },
-      "artists": [
-        {
-          "name": "ATIKA PATUM",
-          "url": "https://open.spotify.com/artist/3nqueabqtDj7QhkY3VGnio"
-        }
-      ],
-      "duration_ms": 185041,
-      "name": "God Is A Code",
-      "url": "https://open.spotify.com/track/5tZ9Yr3cFpRsx8QMT3KOXh"
-    },
-    {
-      "added_at": "2024-07-19 07:04:09",
-      "album": {
-        "name": "Could You Be Loved",
-        "url": "https://open.spotify.com/album/3IyaJ5J4X4a7PtHDD6rYFu"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Mojjo",
-          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Could You Be Loved",
-      "url": "https://open.spotify.com/track/74PQjt9auBuTHXoQk9ryS4"
-    },
-    {
-      "added_at": "2024-07-19 07:04:09",
-      "album": {
-        "name": "Hypnotized",
-        "url": "https://open.spotify.com/album/0SWT2Yp1noly9h12a3rq1h"
-      },
-      "artists": [
-        {
-          "name": "Galoski",
-          "url": "https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB"
-        },
-        {
-          "name": "YAKSA",
-          "url": "https://open.spotify.com/artist/74UHQxfQtHHY7FgP7qkRzR"
-        }
-      ],
-      "duration_ms": 153230,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/5hDt0PaWpcCwgRtxW31I6e"
-    },
-    {
-      "added_at": "2024-07-19 07:04:09",
-      "album": {
-        "name": "Lotus (PAROOKAVILLE Anthem 2024) [Neelix & Sighter Remix]",
-        "url": "https://open.spotify.com/album/2B847W0GDhw3cBhTv08LVr"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        },
-        {
-          "name": "Neelix",
-          "url": "https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB"
-        },
-        {
-          "name": "Sighter",
-          "url": "https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM"
-        }
-      ],
-      "duration_ms": 318802,
-      "name": "Lotus (PAROOKAVILLE Anthem 2024) [Neelix & Sighter Remix]",
-      "url": "https://open.spotify.com/track/7tptHWyA4KZrAxdEAAevVC"
-    },
-    {
-      "added_at": "2024-07-19 07:04:09",
-      "album": {
-        "name": "Can't Forget You (Club Mix)",
-        "url": "https://open.spotify.com/album/6XVpMSsyujfOkqXVgsLl61"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        }
-      ],
-      "duration_ms": 147002,
-      "name": "Can't Forget You (Club Mix)",
-      "url": "https://open.spotify.com/track/5t0poAfhVoI1xR7dbJ1mfW"
-    },
-    {
-      "added_at": "2024-07-12 16:31:49",
-      "album": {
-        "name": "All My Tears",
-        "url": "https://open.spotify.com/album/3SA1Lqhmx2z2ATtRKIkdAU"
-      },
-      "artists": [
-        {
-          "name": "Bolier",
-          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
-        },
-        {
-          "name": "Weekend Wonders",
-          "url": "https://open.spotify.com/artist/1XTOfdcgXlcBAtbxPLUdsW"
-        }
-      ],
-      "duration_ms": 156226,
-      "name": "All My Tears",
-      "url": "https://open.spotify.com/track/5tVUZvFsPHGGkQ5RF4CEC9"
-    },
-    {
-      "added_at": "2024-07-12 16:31:49",
-      "album": {
-        "name": "New Sound",
-        "url": "https://open.spotify.com/album/7I255LigkzYYG82RD8sd8K"
-      },
-      "artists": [
-        {
-          "name": "Breathe Carolina",
-          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
-        }
-      ],
-      "duration_ms": 171093,
-      "name": "New Sound",
-      "url": "https://open.spotify.com/track/6KnmmjS3EvQYJcKRR6PpVi"
-    },
-    {
-      "added_at": "2024-07-12 16:31:49",
-      "album": {
-        "name": "Go Back (feat. AGGE)",
-        "url": "https://open.spotify.com/album/66YkNXT0BS3m32UfzoXXkk"
+        "name": "Go Back (feat. AGGE) [Bhaskar Remix]",
+        "url": "https://open.spotify.com/album/6wcEq4jwW6jtXk2JXPCWFE"
       },
       "artists": [
         {
@@ -310,47 +42,143 @@
         {
           "name": "AGGE",
           "url": "https://open.spotify.com/artist/6lToVu9We2bx2cbmc0qtg9"
-        }
-      ],
-      "duration_ms": 220652,
-      "name": "Go Back (feat. AGGE)",
-      "url": "https://open.spotify.com/track/4jWfLtPxJZroRYfb7dXttK"
-    },
-    {
-      "added_at": "2024-07-12 16:31:49",
-      "album": {
-        "name": "F#CK THE DJ",
-        "url": "https://open.spotify.com/album/4rGHE3Gk5tecgfsattdKLC"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        }
-      ],
-      "duration_ms": 145161,
-      "name": "F#CK THE DJ",
-      "url": "https://open.spotify.com/track/4S7ga0fgQ0Cblalhj4CdqY"
-    },
-    {
-      "added_at": "2024-07-12 16:31:49",
-      "album": {
-        "name": "Rock Da House",
-        "url": "https://open.spotify.com/album/7jVI8Hx2v5yahCSTCoViFB"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         },
         {
-          "name": "SMACK",
-          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
         }
       ],
-      "duration_ms": 147967,
-      "name": "Rock Da House",
-      "url": "https://open.spotify.com/track/2iIZ8iEGsCoxoa6lSpkeXD"
+      "duration_ms": 243870,
+      "name": "Go Back (feat. AGGE) [Bhaskar Remix]",
+      "url": "https://open.spotify.com/track/2rm1PhCv1Cu2LhOr1q4g5p"
+    },
+    {
+      "added_at": "2024-07-25 23:09:50",
+      "album": {
+        "name": "Hit It Pump It",
+        "url": "https://open.spotify.com/album/4peV30tMifVhtWh1Zpwndd"
+      },
+      "artists": [
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        }
+      ],
+      "duration_ms": 156079,
+      "name": "Hit It Pump It",
+      "url": "https://open.spotify.com/track/30qd0xN0XqELqCR4afZZTh"
+    },
+    {
+      "added_at": "2024-07-25 23:09:50",
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/2B6R0BcDroDNT0vGoDrHPv"
+      },
+      "artists": [
+        {
+          "name": "Wave Wave",
+          "url": "https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9"
+        },
+        {
+          "name": "Tom Budin",
+          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/3QH2P5sVU0ZFXJRjefpKww"
+    },
+    {
+      "added_at": "2024-07-25 23:09:50",
+      "album": {
+        "name": "Midnight (Acoustic)",
+        "url": "https://open.spotify.com/album/1rYGBsDh5QXMXs5u9NpEj9"
+      },
+      "artists": [
+        {
+          "name": "VASSY",
+          "url": "https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF"
+        }
+      ],
+      "duration_ms": 174910,
+      "name": "Midnight (Acoustic)",
+      "url": "https://open.spotify.com/track/4l27VwVntFO35Sf6VoQSyd"
+    },
+    {
+      "added_at": "2024-07-25 23:09:50",
+      "album": {
+        "name": "Drumroll Please",
+        "url": "https://open.spotify.com/album/2qoUIOVBI5xG8NqBziLCYd"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "GRAVEDGR",
+          "url": "https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "Drumroll Please",
+      "url": "https://open.spotify.com/track/4lIeR1zvv0J8lEVRVI58NQ"
+    },
+    {
+      "added_at": "2024-07-25 23:09:50",
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/6I3Rl587VxzH15DqlrLvYS"
+      },
+      "artists": [
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/6fzROqo6llN4CCgCKJgKex"
+    },
+    {
+      "added_at": "2024-07-25 23:09:50",
+      "album": {
+        "name": "Seven Nation Army",
+        "url": "https://open.spotify.com/album/3CPKAtHz1wxfXacap7HbDk"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        },
+        {
+          "name": "KRAIZ",
+          "url": "https://open.spotify.com/artist/5RbgNkBwfYSM8yIYXn0Gwk"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/7BFwwCduDBbDG9fk9SlAYm"
+    },
+    {
+      "added_at": "2024-07-25 23:09:50",
+      "album": {
+        "name": "So Different",
+        "url": "https://open.spotify.com/album/36Qxy0uYkoTu5sVWvIzoVZ"
+      },
+      "artists": [
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        },
+        {
+          "name": "TOYZZ",
+          "url": "https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "So Different",
+      "url": "https://open.spotify.com/track/7ncQlEWDcux4xhuoGzY2Lc"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

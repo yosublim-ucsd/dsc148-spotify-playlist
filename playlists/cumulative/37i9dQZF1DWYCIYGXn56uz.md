@@ -2,9 +2,9 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: AYLE
+> ✨giovane✨pop✨z✨ Cover: JVLI
 
-475 songs - 21 hr 58 min
+477 songs - 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [CANZONI TRISTI](https://open.spotify.com/track/01D1XwPEG4wOjFjbkYJukz) | [Nick Sick](https://open.spotify.com/artist/4OfbG8mT7rOznJ4UDbejLO) | [CANZONI TRISTI](https://open.spotify.com/album/7mY0E03mCwewk6njZREUna) | 2:45 | 2023-05-04 | 2023-05-19 |
 | [CARAMELLE](https://open.spotify.com/track/4YQ9Fbo5xyKlenSjmNbcqk) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 2:43 | 2023-09-21 | 2023-10-13 |
 | [caramelle](https://open.spotify.com/track/0dMl7ZeyKbUh5sPkwBFAWN) | [blame](https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8), [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [caramelle](https://open.spotify.com/album/10qQiupoXWL01OVJRjRTj8) | 2:22 | 2023-10-26 | 2023-11-10 |
-| [CARAVAN](https://open.spotify.com/track/6UBK3OxYTC1JB5XzKT8EVG) | [WAX](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [EXIT](https://open.spotify.com/album/69mE22jAkoKBpCZYoHvkz6) | 3:17 | 2024-06-06 |  |
+| [CARAVAN](https://open.spotify.com/track/6UBK3OxYTC1JB5XzKT8EVG) | [WAX](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [EXIT](https://open.spotify.com/album/69mE22jAkoKBpCZYoHvkz6) | 3:17 | 2024-06-06 | 2024-07-27 |
 | [CARNALE \. bagnarci](https://open.spotify.com/track/2AWwCbomNO6apoZuvZlYLz) | [MALÌA](https://open.spotify.com/artist/577NsAk4QOefh7AWViTOU9) | [CARNALE \. bagnarci](https://open.spotify.com/album/54y3vA8M4g3BAfOrYj32Ir) | 2:14 | 2024-06-06 | 2024-06-14 |
 | [CARTAGINE](https://open.spotify.com/track/0Z2Rq6nsVIYSe4lSWfFDUa) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [CARTAGINE](https://open.spotify.com/album/3hgvPTGT9PCpe9HgXewDwy) | 3:10 | 2023-03-23 | 2023-06-09 |
 | [Casa](https://open.spotify.com/track/1s9Bu0xVXe9mxoYHlwJYxJ) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Casa](https://open.spotify.com/album/4VGo2yEop1ykaoELpWyLHH) | 2:41 | 2023-03-23 | 2023-05-05 |
@@ -239,6 +239,7 @@
 | [lipgloss](https://open.spotify.com/track/43J1dnrDwNWDGfXBZhnfYb) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [lipgloss](https://open.spotify.com/album/04bo4aK6Isi0l0RfG4TqaG) | 2:12 | 2023-03-23 | 2023-04-07 |
 | [LO FARÒ DOMANI \(feat\. MAGENTA FLORA\)](https://open.spotify.com/track/2SiacQcn31WMD8CfWbsGUZ) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B), [MAGENTA FLORA](https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs) | [LO FARÒ DOMANI \(feat\. MAGENTA FLORA\)](https://open.spotify.com/album/3bzeG9bHPD8VzJWGjw31l7) | 2:25 | 2024-07-11 | 2024-07-19 |
 | [LOVE SONG](https://open.spotify.com/track/5OlOi3sB9hMntMhg6N7ERn) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv) | [LOVE SONG](https://open.spotify.com/album/24RwKTp7zQqYhOTUMkkUt1) | 3:11 | 2023-09-21 | 2023-10-20 |
+| [luci dell'autostrada](https://open.spotify.com/track/1njaBfkZQy1zFZVdBRevzU) | [Biava](https://open.spotify.com/artist/3tnRz0rA9YnwZ7BUv958vk) | [luci dell'autostrada](https://open.spotify.com/album/2RWLqaalwSC4qK9nCKokZF) | 2:44 | 2024-07-25 |  |
 | [luna di miele](https://open.spotify.com/track/4Imr6mUIXASXBSFrw1FCfI) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [PER IL MIO BENE](https://open.spotify.com/album/6BftqBLM4fJ7alFzUhGuOw) | 3:02 | 2024-05-23 |  |
 | [LUNATICA](https://open.spotify.com/track/44hgUkuHgSkLfF3MpAJgYC) | [Shade](https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt) | [LUNATICA](https://open.spotify.com/album/4v4ZPUnw9s9MWZjTVHtPo5) | 2:37 | 2023-03-23 | 2023-04-14 |
 | [MA CHE IDEA \(feat\. Pino D'Angiò\)](https://open.spotify.com/track/1kKccj5wYXTj3gTpUIMoac) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw), [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [MA CHE IDEA \(feat\. Pino D'Angiò\)](https://open.spotify.com/album/0j4VujrvdWsDMO4b1jQFzI) | 3:46 | 2024-05-16 | 2024-06-21 |
@@ -372,6 +373,7 @@
 | [RONDINI](https://open.spotify.com/track/5qt5YZOEUCejoPMrXFXRQq) | [Berna](https://open.spotify.com/artist/62uNuiJTDTVObzXP4gQLXT) | [RONDINI](https://open.spotify.com/album/5MLv3tlurdcQwChX4olC7K) | 2:27 | 2023-04-06 | 2023-04-14 |
 | [Rosso Lampone](https://open.spotify.com/track/4h51AEffPE9igl8J52OoTd) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf) | [Rosso Lampone](https://open.spotify.com/album/7pp6PeV2wB12Xi0tgGB5uf) | 2:48 | 2024-05-02 | 2024-07-05 |
 | [ROSSOFUOCO](https://open.spotify.com/track/5B5p5w9QV0QFBsnASmtL24) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [ROSSOFUOCO](https://open.spotify.com/album/4r6P74TpYpXFgHam09a8KA) | 2:42 | 2023-11-08 | 2024-07-05 |
+| [Roulette](https://open.spotify.com/track/6WCXJhQsP3ykIr1kOfO7dh) | [Sarah](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Roulette](https://open.spotify.com/album/6xSWwCb4pBor8WwaMQ9GWW) | 2:50 | 2024-07-25 |  |
 | [RUMORE](https://open.spotify.com/track/21ue7kSKtFBqGQNV23uGW8) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 2:39 | 2023-09-28 | 2023-10-06 |
 | [RUMORE](https://open.spotify.com/track/7fxAFWmMsl86C60gW5yooG) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [RUMORE](https://open.spotify.com/album/6Lo4MzfKF6e0mwnEGtdGgd) | 2:39 | 2023-09-12 | 2023-10-04 |
 | [Sangue e Aria](https://open.spotify.com/track/2FGQvZ0P8QcOqAshENIbK2) | [Sercho](https://open.spotify.com/artist/1YzDKK9gJRBqqkL5wxQQTa) | [Sangue e Aria](https://open.spotify.com/album/3FIG3AbOwcV8Ww8ur0jZ55) | 2:35 | 2023-09-21 | 2023-10-20 |
@@ -436,7 +438,7 @@
 | [TRA LA GENTE](https://open.spotify.com/track/0VmdKZCuVJ8LVQBwKrgfuQ) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8) | [UMORE 02](https://open.spotify.com/album/3qHLK79NjRXMyU8gwZThYK) | 3:21 | 2023-06-08 | 2023-06-16 |
 | [Tranne Te](https://open.spotify.com/track/6nxblXJhMQe4nleRxI7IAh) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [Tranne Te](https://open.spotify.com/album/3WmCEz2zGK3RcrkHi9fgXE) | 2:06 | 2023-07-06 | 2023-09-15 |
 | [Tranquillo mai](https://open.spotify.com/track/0fhTCQPc8uFQGQY3iWb0sU) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [La mia stanza \(Deluxe\)](https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q) | 2:39 | 2023-09-28 | 2023-10-20 |
-| [TRISTE](https://open.spotify.com/track/4q0R0CF9mMOoeJqSbtXoPP) | [AYLE](https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE) | [LA PARTE DEL MONDO CHE NON MI PIACE](https://open.spotify.com/album/0hxDLzDRnjmsD4p7eCO6Uh) | 1:42 | 2024-06-27 |  |
+| [TRISTE](https://open.spotify.com/track/4q0R0CF9mMOoeJqSbtXoPP) | [AYLE](https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE) | [LA PARTE DEL MONDO CHE NON MI PIACE](https://open.spotify.com/album/0hxDLzDRnjmsD4p7eCO6Uh) | 1:42 | 2024-06-27 | 2024-07-27 |
 | [triste vederti felice](https://open.spotify.com/track/1BXVLLsX5jX08LolcAss8G) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [triste vederti felice](https://open.spotify.com/album/70Z7WXM2C4b17sosjolYhV) | 3:06 | 2023-12-15 | 2024-01-05 |
 | [Tu mi fai bene](https://open.spotify.com/track/4x1fbc6RW6vTc7gLCBIDXj) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [Tu mi fai bene](https://open.spotify.com/album/55VCDai04r0JFf3mySHac6) | 1:57 | 2023-04-27 | 2023-05-19 |
 | [TUDOVEVAI?](https://open.spotify.com/track/4hRcNfkl47iItvd3VXOLoi) | [SAC1](https://open.spotify.com/artist/0MnomJDrX3FmjLCNuTLfz6) | [TUDOVEVAI?](https://open.spotify.com/album/0i0G7mMCRtkjOclF2cAZrP) | 2:44 | 2023-09-14 | 2023-10-06 |

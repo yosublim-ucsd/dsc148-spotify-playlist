@@ -1,10 +1,10 @@
 {
   "description": "Un poco de esto, un poco de lo otro.",
-  "num_followers": 32455,
+  "num_followers": 32451,
   "original_name": "Techengue ",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "ZpCcMAAAAADbBuNWXXCvYuUdHbULq4Bw",
   "tracks": [
@@ -263,7 +263,7 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Lento (Original Mix)",
+        "name": "Lento",
         "url": "https://open.spotify.com/album/2nHLZjtZeEKky3uOZtLbf1"
       },
       "artists": [
@@ -277,7 +277,7 @@
         }
       ],
       "duration_ms": 330000,
-      "name": "Lento (Original Mix)",
+      "name": "Lento",
       "url": "https://open.spotify.com/track/4IL0li89Pjk3hAM9ihqPBl"
     },
     {

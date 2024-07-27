@@ -2,9 +2,9 @@
 
 ### [Pinoy Indie Mix](https://open.spotify.com/playlist/37i9dQZF1DX6oLdwrroY56)
 
-> The leaders in the lively Pinoy indie scene\. Cover: Paolo Sandejas
+> The leaders in the lively Pinoy indie scene\. Cover: Nameless Kids
 
-128 songs - 8 hr 21 min
+130 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Di Na Ako](https://open.spotify.com/track/1wC67ZTpPMKRPBex4od1WB) | [Chrstn](https://open.spotify.com/artist/2YwTbSBUyNZTdv39z5pJNW) | [Di Na Ako](https://open.spotify.com/album/1j0PALJJqrFEgDIGpj41Y1) | 4:44 | 2023-10-13 | 2023-11-11 |
 | [Dreaming Love](https://open.spotify.com/track/7aTOU9OMrxUkvQ8YSY51jd) | [Peej](https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP) | [Dreaming Love](https://open.spotify.com/album/0IbAWqESXmB9pE9vN6JNN9) | 3:13 | 2024-06-21 |  |
 | [Easy](https://open.spotify.com/track/0t4yopXQW1ObWhhT5FQGzZ) | [Sansette](https://open.spotify.com/artist/2QZgUdDucCesAV9xVpZHyI) | [Easy](https://open.spotify.com/album/65AJ7ZXJPSq18I0mTud0Cj) | 3:44 | 2023-10-13 | 2023-11-19 |
-| [ECHOES](https://open.spotify.com/track/6E4NPIdGunpKm015u5KPyC) | [BRISOM](https://open.spotify.com/artist/52AFbIsIjRLcaHCt8KV1rg) | [ECHOES](https://open.spotify.com/album/2II6ORU1Cn0PHpFbQ0ndwt) | 3:23 | 2024-04-26 |  |
+| [ECHOES](https://open.spotify.com/track/6E4NPIdGunpKm015u5KPyC) | [BRISOM](https://open.spotify.com/artist/52AFbIsIjRLcaHCt8KV1rg) | [ECHOES](https://open.spotify.com/album/2II6ORU1Cn0PHpFbQ0ndwt) | 3:23 | 2024-04-26 | 2024-07-27 |
+| [Gabi](https://open.spotify.com/track/2WJv0Oat2e39R4iAWZVm0l) | [Nameless Kids](https://open.spotify.com/artist/2a1RUFZ0eOATyKlPhTxOt2) | [Gabi](https://open.spotify.com/album/5MJpKfU02ZKk1pv1vCf2Rb) | 4:25 | 2024-07-26 |  |
 | [Gabi \(feat\. Zild\)](https://open.spotify.com/track/36ZYaW5Dj7loKsyyHehpCr) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ), [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Gabi \(feat\. Zild\)](https://open.spotify.com/album/6nNyCE9v0ZLYYLnCtjY0E1) | 5:17 | 2023-10-13 | 2024-06-29 |
 | [Ganid](https://open.spotify.com/track/6pLripA8bBASZR2dPVdZNB) | [Paham](https://open.spotify.com/artist/41NKF8NtYx7ZlfIUMwCJ1v), [Off The Record](https://open.spotify.com/artist/0h2lW8O3gilzdOjbgLYivM) | [Ganid](https://open.spotify.com/album/734hINrmbsNEpEVMPsDuxw) | 4:04 | 2024-02-09 | 2024-07-19 |
 | [Gigil](https://open.spotify.com/track/175olPDR4vvN4lrPgHNZtJ) | [The Right Things](https://open.spotify.com/artist/0eCM6bGOxkZgKPLEYCX1JO) | [Gigil](https://open.spotify.com/album/3t5KRD3M9dAwnFlvACylLd) | 3:19 | 2023-11-18 | 2024-07-19 |
@@ -56,6 +57,7 @@
 | [Kita Kita](https://open.spotify.com/track/0J6a5fxArviWOiTBousbNO) | [7th](https://open.spotify.com/artist/1jFSGmSAx0UgJ5AeHS5xAN) | [Kita Kita](https://open.spotify.com/album/0ye0D8h094WLKJeql7RYAW) | 5:45 | 2023-10-13 | 2024-06-22 |
 | [Kyusi](https://open.spotify.com/track/4IMI7CdeNMDzq544pAgXqj) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Huminga](https://open.spotify.com/album/4qcNr0JC0t99HMt2fhKhL6) | 4:30 | 2023-10-27 | 2024-06-22 |
 | [Lalaluv](https://open.spotify.com/track/03f5I5T1V1qqQpJg2rHs5z) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Lalaluv](https://open.spotify.com/album/2TYz0hh3NKf6BEFTo4Kf8l) | 2:22 | 2024-06-21 |  |
+| [Langit at Lupa](https://open.spotify.com/track/3dvx6L3w6eJnfO9308f0ms) | [NaÏV](https://open.spotify.com/artist/09UWVORoWNvb4g6A4CBDuF) | [Langit at Lupa](https://open.spotify.com/album/0zjLI9aNRNmwY08F2p0LIx) | 4:12 | 2024-07-26 |  |
 | [Lara](https://open.spotify.com/track/6tI7QZCy2hZ9Gk2re6sB4P) | [Leona](https://open.spotify.com/artist/40ulg2TTFpUOcGVyDu6iJO) | [Lara](https://open.spotify.com/album/0zfXAtSmSitgJayVujagFB) | 3:45 | 2023-11-10 | 2024-07-19 |
 | [Lia](https://open.spotify.com/track/6uHHGyKxMg5MOUbXsqVgxL) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Lia](https://open.spotify.com/album/4gptphn7spep2ULaykVZLp) | 4:20 | 2024-07-12 |  |
 | [Lila](https://open.spotify.com/track/14Edofhd6KHcuO51WitSLV) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r) | [Lila](https://open.spotify.com/album/4QuF85jFBoM63F56LIYZCT) | 3:48 | 2024-07-19 |  |
@@ -113,7 +115,7 @@
 | [SOLO](https://open.spotify.com/track/6DKHHYoy7phuVMfslvrx11) | [Timmy Albert](https://open.spotify.com/artist/4acGozsQZscrP4YKMg2Xwn) | [SOLO](https://open.spotify.com/album/3zP1wbbIaPHHT3VS3kPUSY) | 3:12 | 2024-05-03 |  |
 | [Somebody’s Better](https://open.spotify.com/track/66SfXY4jUuylReAjoDS8gw) | [Mint Magic](https://open.spotify.com/artist/4mg2C39tmnIPmNmn5twW9o) | [Somebody’s Better](https://open.spotify.com/album/7JR1aiowTQ8jQy0hDMBaYz) | 4:18 | 2023-11-10 | 2024-04-27 |
 | [Soup](https://open.spotify.com/track/4VfVkUe7wRRRatavXrLo6R) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Soup](https://open.spotify.com/album/54g4fkb4VBlh4qra9Dhlla) | 4:32 | 2024-06-21 |  |
-| [Static](https://open.spotify.com/track/3QDLEAkNMnch2FBaoySxMv) | [Shades of Native](https://open.spotify.com/artist/0nmqWXpvFKgYPgy5mixlon) | [Static](https://open.spotify.com/album/4L5t9VxLQh4bS1JTN9dN9f) | 3:54 | 2024-02-09 |  |
+| [Static](https://open.spotify.com/track/3QDLEAkNMnch2FBaoySxMv) | [Shades of Native](https://open.spotify.com/artist/0nmqWXpvFKgYPgy5mixlon) | [Static](https://open.spotify.com/album/4L5t9VxLQh4bS1JTN9dN9f) | 3:54 | 2024-02-09 | 2024-07-27 |
 | [Sunday](https://open.spotify.com/track/3UlUNQIwYz8o2IPkcnksjp) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [Sunday](https://open.spotify.com/album/5WhV3B48D6u8OmayTwW3OU) | 3:00 | 2023-10-13 | 2023-11-11 |
 | [Sunday Morning](https://open.spotify.com/track/4C9bX6MwR0JBYDGK4JXhbB) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ) | [Sunday Morning](https://open.spotify.com/album/5BApQ2E2DhSsntBBrb7zSG) | 3:44 | 2023-10-13 | 2024-04-27 |
 | [Superhuman](https://open.spotify.com/track/6M99IQOuFJ5cVdROxsBfRW) | [Doughbaby](https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T), [Rees Gonzales](https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd) | [Superhuman](https://open.spotify.com/album/0asDwjulJNbXs4j0dt3dVX) | 4:15 | 2023-10-27 | 2024-04-19 |

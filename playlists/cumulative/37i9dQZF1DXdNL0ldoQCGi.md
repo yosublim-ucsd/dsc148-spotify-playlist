@@ -4,7 +4,7 @@
 
 > aquela lá que tá viral no seu feed sabe
 
-534 songs - 1 day 3 hr 27 min
+535 songs - 1 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Parecia Tempestade](https://open.spotify.com/track/4nkhQr9Jp58ts1OncBX6xP) | [Sony no Beat](https://open.spotify.com/artist/4cMT9oSbMRlVPrkFyZAtzb), [Felupe](https://open.spotify.com/artist/1VfZSS1zUo2URLAriN3zZs), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Parecia Tempestade](https://open.spotify.com/album/6BAy5WlPVBYzeBDDLd32Jk) | 2:29 | 2022-12-19 | 2023-01-14 |
 | [Partition](https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 5:19 | 2022-05-25 | 2022-08-26 |
 | [Passe Livre](https://open.spotify.com/track/3UBt3hcQDzqi3MB4V5AzGH) | [Nilson Neto](https://open.spotify.com/artist/2D9AauR2GiC99uhbtBJJeN) | [Passe Livre](https://open.spotify.com/album/1euBiLYutDJjF7H5N7zHwd) | 2:53 | 2023-03-10 | 2023-07-18 |
+| [Patrai Patrai](https://open.spotify.com/track/4BVL2QLF5QQLT15SpAWMVq) | [O REI DA BATIDINHA](https://open.spotify.com/artist/1mwcAHaMzrUvCjVcg89lgB) | [No Bar de Tõe Furico \(Ao Vivo\)](https://open.spotify.com/album/0A4m8mPzLSwJwuOAniS4KC) | 1:40 | 2024-07-26 |  |
 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-04-19 | 2024-07-02 |
 | [Pega o Guanabara](https://open.spotify.com/track/57rCopayc4wJL7jQZaRvtn) | [Alanzim Coreano](https://open.spotify.com/artist/3z1hkcmUuBH6lmB91l73MC) | [Pega o Guanabara](https://open.spotify.com/album/1hpgbFf4Kzomnp0hMHMzrL) | 2:46 | 2023-01-26 | 2023-02-01 |
 | [Pega o Guanabara \- Ao Vivo](https://open.spotify.com/track/63q5Qb9ERTpapEmARxKBE6) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Alanzim Coreano](https://open.spotify.com/artist/3z1hkcmUuBH6lmB91l73MC) | [Wesley Safadão Ao Vivo em Fortaleza \- EP.01](https://open.spotify.com/album/3rlBnUvwFdWTdEzlaakPfg) | 2:58 | 2023-01-11 | 2023-01-20 |
@@ -483,7 +484,7 @@
 | [To de Pé](https://open.spotify.com/track/6WHGZ8voLYNlgYlUyBhQm9) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [O Sábio](https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W) | 3:22 | 2022-11-17 | 2023-01-10 |
 | [Toca o Trompete](https://open.spotify.com/track/54u86CmMqGI1rRuULlTqaB) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Cadê o After? Pt\. 1](https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww) | 2:43 | 2023-07-26 |  |
 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 | 2022-05-25 | 2022-10-20 |
-| [Tontom Perigosa](https://open.spotify.com/track/38ifsBGpq5igWYZoxofixU) | [Tontom](https://open.spotify.com/artist/3skzQIG1feNhVQs2TnoFGV) | [Tontom Perigosa](https://open.spotify.com/album/2CXwdp669W9YO5g7WdGdYJ) | 3:36 | 2024-06-28 |  |
+| [Tontom Perigosa](https://open.spotify.com/track/38ifsBGpq5igWYZoxofixU) | [Tontom](https://open.spotify.com/artist/3skzQIG1feNhVQs2TnoFGV) | [Tontom Perigosa](https://open.spotify.com/album/2CXwdp669W9YO5g7WdGdYJ) | 3:36 | 2024-06-28 | 2024-07-27 |
 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 | 2024-04-19 |  |
 | [Toque Carinhoso](https://open.spotify.com/track/6s10JhCg5l6ckm8sdviEea) | [Kempa](https://open.spotify.com/artist/200idtjWvqtkeXPyqqdFbP), [Jhony Carvalho](https://open.spotify.com/artist/3klWRLFvprNcghYABkzIlY), [Empire Street](https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq) | [Toque Carinhoso](https://open.spotify.com/album/7kuchmS0xo9mmBQ6aO4dS4) | 3:06 | 2024-07-01 |  |
 | [Toxic](https://open.spotify.com/track/2kaNmAbqrtOf7Rdr3fnCWl) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Faded](https://open.spotify.com/album/1C9KIpgrisvGtCxTfNBBaJ) | 2:48 | 2022-05-25 | 2022-07-29 |

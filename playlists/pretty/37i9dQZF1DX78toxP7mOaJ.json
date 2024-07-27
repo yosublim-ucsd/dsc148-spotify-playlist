@@ -1,12 +1,12 @@
 {
   "description": "Fresh rock from independent artists every Wednesday. Cover: Fake Fruit",
-  "num_followers": 148252,
+  "num_followers": 148411,
   "original_name": "Fresh Finds Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqEPRAAAAAAMdLn9IjgfQ2Jeb11o3YIz",
+  "snapshot_id": "ZqJxJQAAAABcOXxbvp5gqRLOhFrs2F6W",
   "tracks": [
     {
       "added_at": "2024-07-24 14:27:16",
@@ -215,6 +215,22 @@
       "duration_ms": 263520,
       "name": "It Makes Me Think of You",
       "url": "https://open.spotify.com/track/3t9GFi3dVyRj7CutGODMcy"
+    },
+    {
+      "added_at": "2024-07-25 15:37:09",
+      "album": {
+        "name": "Brighter Lights",
+        "url": "https://open.spotify.com/album/7bDattb2nzrzWmC29xQ8rx"
+      },
+      "artists": [
+        {
+          "name": "The Backfires",
+          "url": "https://open.spotify.com/artist/2wMknlekLTOb4vRWn61NO5"
+        }
+      ],
+      "duration_ms": 229920,
+      "name": "Brighter Lights",
+      "url": "https://open.spotify.com/track/7zgWp5RkmMOrl4uKY4BpIe"
     },
     {
       "added_at": "2024-07-24 14:27:16",

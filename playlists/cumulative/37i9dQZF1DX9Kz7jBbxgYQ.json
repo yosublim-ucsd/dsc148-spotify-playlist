@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Home to the best of South Asian Indie scene. Cover: Sai Abhyankkar",
+  "description": "Home to the best of South Asian Indie scene. Cover: Utsavi Jha",
   "name": "Desi Indie",
   "tracks": [
     {
@@ -838,7 +838,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 186976,
       "name": "Bhaagoon",
       "url": "https://open.spotify.com/track/0XZNiP6VU0e9Orm1Lzc7cr"
@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 196571,
       "name": "Channa",
       "url": "https://open.spotify.com/track/7fHAFcK5IDBlbJMfWuHtYr"
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 193289,
       "name": "Dil de Bol",
       "url": "https://open.spotify.com/track/7pnzuSzXn8QmiTjXHCi304"
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 196200,
       "name": "Dil Sitara",
       "url": "https://open.spotify.com/track/6E49Dj1VZYHjtLNbiBlJ7H"
@@ -2150,7 +2150,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 247680,
       "name": "Hazir Main Rahun",
       "url": "https://open.spotify.com/track/10JqzOpxi2zL4RcuvwBRtW"
@@ -2712,7 +2712,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 189357,
       "name": "Joona",
       "url": "https://open.spotify.com/track/18twglRl0wFIIMtFOy2CHs"
@@ -3045,6 +3045,24 @@
     },
     {
       "album": {
+        "name": "Khata",
+        "url": "https://open.spotify.com/album/40p7Y3kJSC4J5r9ZBeYyHe"
+      },
+      "artists": [
+        {
+          "name": "Utsavi Jha",
+          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250500,
+      "name": "Khata",
+      "url": "https://open.spotify.com/track/1yLEjCfSSO1UXAxgXg48d5"
+    },
+    {
+      "album": {
         "name": "Khidki",
         "url": "https://open.spotify.com/album/6r12VYHgQOjtsJxhJGKLeQ"
       },
@@ -3140,7 +3158,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 244290,
       "name": "Khoya Rahun",
       "url": "https://open.spotify.com/track/2BCBGmOidYgttheDXc7yWh"
@@ -3362,7 +3380,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 227000,
       "name": "Laut Aao Na",
       "url": "https://open.spotify.com/track/4ByPoS1tU7Gvbimkj29GQu"
@@ -3410,7 +3428,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 196250,
       "name": "Left Right",
       "url": "https://open.spotify.com/track/1WMImncoIZZ7Bz0Y6cZGVp"
@@ -5524,7 +5542,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 187118,
       "name": "Tere Peeche Peeche",
       "url": "https://open.spotify.com/track/5cC8SNiAi7SLcrJ4hlejMi"

@@ -1,13 +1,29 @@
 {
   "description": "The best in blues right now. Cover: Toronzo Cannon",
-  "num_followers": 57751,
+  "num_followers": 57775,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpnkwAAAAABOZV2JA4pERWSqgkKfqUVh",
+  "snapshot_id": "ZqMfQAAAAABWo2c6ITR4V3UpJ91FFCC/",
   "tracks": [
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "That's All Right",
+        "url": "https://open.spotify.com/album/2asRe9Gst5dPh1OPwdHg2R"
+      },
+      "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        }
+      ],
+      "duration_ms": 179197,
+      "name": "That's All Right",
+      "url": "https://open.spotify.com/track/6mnNzspvGs07xahHtjKShp"
+    },
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
@@ -1735,22 +1751,6 @@
       "duration_ms": 245930,
       "name": "In Blood",
       "url": "https://open.spotify.com/track/6nNCEcTFxYSaQVKLRrYCb9"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "You Broke Me",
-        "url": "https://open.spotify.com/album/7rJjp8koNUpalsYy0qcPMp"
-      },
-      "artists": [
-        {
-          "name": "Ghost Hounds",
-          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
-        }
-      ],
-      "duration_ms": 231666,
-      "name": "Through Being Blue Over You",
-      "url": "https://open.spotify.com/track/36seRRquB1YkdjuTlrVc1V"
     },
     {
       "added_at": "2022-05-13 04:02:00",

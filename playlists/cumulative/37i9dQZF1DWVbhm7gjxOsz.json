@@ -1390,7 +1390,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 194000,
       "name": "I'm Still In Love With You",
       "url": "https://open.spotify.com/track/1dF7EdEalTVfJyR6zCv093"
@@ -3378,6 +3378,24 @@
       "duration_ms": 337040,
       "name": "You're Still a Young Man",
       "url": "https://open.spotify.com/track/0LDauNxnqI5nsyCa2Xsc5W"
+    },
+    {
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/2Wbsn92Jn7DRKQFu7HOzuo"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194760,
+      "name": "You've Really Got A Hold On Me",
+      "url": "https://open.spotify.com/track/2tpOcRwFsv51JxUJmbtVOm"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Ati242\n",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Ceza\n",
   "name": "NKVT",
   "tracks": [
     {
@@ -414,7 +414,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 178064,
       "name": "aq",
       "url": "https://open.spotify.com/track/5WTB4eCwPDq1ROngONtHph"
@@ -923,6 +923,28 @@
     },
     {
       "album": {
+        "name": "Yatay Zeka",
+        "url": "https://open.spotify.com/album/3n9eVQFhQrVrtgXlMkPW6Z"
+      },
+      "artists": [
+        {
+          "name": "Ceza",
+          "url": "https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI"
+        },
+        {
+          "name": "\u015eehin\u015fah",
+          "url": "https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193083,
+      "name": "Bando",
+      "url": "https://open.spotify.com/track/4rvZnTb5xdw7zZ7ZieFE51"
+    },
+    {
+      "album": {
         "name": "BAYBAY",
         "url": "https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o"
       },
@@ -1022,7 +1044,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 157073,
       "name": "Beni Yarg\u0131lama",
       "url": "https://open.spotify.com/track/5QUk45sRjlcPrAAksKQbW1"
@@ -1088,7 +1110,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 147529,
       "name": "BETONDA \u00c7\u0130\u00c7EKLER",
       "url": "https://open.spotify.com/track/6D2jG8hyEZDmtoIIPelRIH"
@@ -1204,7 +1226,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 164352,
       "name": "Bitmez \u00dcmitlerim",
       "url": "https://open.spotify.com/track/34CpmKk7afqWw4JpsC7m0R"
@@ -1460,7 +1482,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 156951,
       "name": "Cebimde bi\u015fe var!?",
       "url": "https://open.spotify.com/track/6ROdzOWcYalJwb1e4IwKGG"
@@ -2089,6 +2111,24 @@
     },
     {
       "album": {
+        "name": "D\u00fc\u011f\u00fcn Dernek",
+        "url": "https://open.spotify.com/album/6TFX8uJkgHnoZ37GNoFoEg"
+      },
+      "artists": [
+        {
+          "name": "Jeff Redd",
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121875,
+      "name": "D\u00fc\u011f\u00fcn Dernek",
+      "url": "https://open.spotify.com/track/6dQJfND64RJy6xJQMsc3ij"
+    },
+    {
+      "album": {
         "name": "D\u00fc\u015f\u00fcyorum Tekrar",
         "url": "https://open.spotify.com/album/5ylJtVajxWXRZB2o5MwowF"
       },
@@ -2162,6 +2202,32 @@
       "duration_ms": 98000,
       "name": "ESTAFURLA",
       "url": "https://open.spotify.com/track/67FQS0mvwg4j5LgdlTwJuc"
+    },
+    {
+      "album": {
+        "name": "FACEAPP",
+        "url": "https://open.spotify.com/album/1a6JCzbpC95pRYhT81vC3Q"
+      },
+      "artists": [
+        {
+          "name": "Hidra",
+          "url": "https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m"
+        },
+        {
+          "name": "ERU",
+          "url": "https://open.spotify.com/artist/3ijnQoOmFlFrGvYgUZC8tq"
+        },
+        {
+          "name": "Berkay Duman",
+          "url": "https://open.spotify.com/artist/797U4xKy4p5Vi8vpWzJRD6"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189334,
+      "name": "FACEAPP",
+      "url": "https://open.spotify.com/track/67rxR1i70IVDkea4pzwVaF"
     },
     {
       "album": {
@@ -3675,6 +3741,24 @@
     },
     {
       "album": {
+        "name": "Kadehimi Bo\u015f B\u0131rakma",
+        "url": "https://open.spotify.com/album/2wPU4kY5iynxmyqEC1sKZH"
+      },
+      "artists": [
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146979,
+      "name": "Kadehimi Bo\u015f B\u0131rakma",
+      "url": "https://open.spotify.com/track/7zrEhhtVuB0JpOeCgL5Tsr"
+    },
+    {
+      "album": {
         "name": "KAFAMA G\u00d6RE",
         "url": "https://open.spotify.com/album/0umpW0vx4KSlwunhKUW0MD"
       },
@@ -3938,7 +4022,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 149148,
       "name": "Kaynanam",
       "url": "https://open.spotify.com/track/0rjtocRvOFrYcsmJiAJP5V"
@@ -4858,7 +4942,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 170428,
       "name": "Maytap",
       "url": "https://open.spotify.com/track/0L2gNsg2fWJ0dhmcM8xLBD"
@@ -6657,6 +6741,28 @@
     },
     {
       "album": {
+        "name": "SEVG\u0130",
+        "url": "https://open.spotify.com/album/6V4Lw81mboujvK3S7hJvou"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s"
+        },
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130973,
+      "name": "SEVG\u0130",
+      "url": "https://open.spotify.com/track/71WZZITUdeaSrO64IEvTpB"
+    },
+    {
+      "album": {
         "name": "Sevmi\u015f Gibi",
         "url": "https://open.spotify.com/album/4NCr871WaDS8dLFk6wBMA8"
       },
@@ -7243,6 +7349,28 @@
     },
     {
       "album": {
+        "name": "TE QUIERO",
+        "url": "https://open.spotify.com/album/4iLHUV5lr2rn99PE3QYq5l"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "Dhurata Dora",
+          "url": "https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193596,
+      "name": "TE QUIERO",
+      "url": "https://open.spotify.com/track/5joRW1ZfTSCC6hyjNCImtI"
+    },
+    {
+      "album": {
         "name": "TEK VURU\u015e",
         "url": "https://open.spotify.com/album/5tx3THfv7xOaeo8FvRLFLP"
       },
@@ -7446,6 +7574,24 @@
       "duration_ms": 216119,
       "name": "VAMPIR",
       "url": "https://open.spotify.com/track/3I1W0Hr5CLesBAmPKbREsU"
+    },
+    {
+      "album": {
+        "name": "Yatay Zeka",
+        "url": "https://open.spotify.com/album/3n9eVQFhQrVrtgXlMkPW6Z"
+      },
+      "artists": [
+        {
+          "name": "Ceza",
+          "url": "https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184651,
+      "name": "Varsan Var\u0131m",
+      "url": "https://open.spotify.com/track/5kgwIvCuGTUnSTyDt5GNkQ"
     },
     {
       "album": {
@@ -8108,7 +8254,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 250527,
       "name": "\u015eeytan ve Melekler",
       "url": "https://open.spotify.com/track/1Rrg2RPn0H2iLcUxDYgOWx"

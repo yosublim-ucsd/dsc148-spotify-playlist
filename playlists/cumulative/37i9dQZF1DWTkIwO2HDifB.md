@@ -4,7 +4,7 @@
 
 > É Qu Eu Te Sarrei e os funks mais 🔑 do Brasil\. Foto: Mc Arizinho, DJ THG, Tavin
 
-274 songs - 15 hr 41 min
+275 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Sei Que Tu Gosta Muito](https://open.spotify.com/track/0OJ8KWhqLMHkfI59yh398v) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X) | [Sei Que Tu Gosta Muito](https://open.spotify.com/album/6M0JVeuhQiOxNI2FGJkzPF) | 2:13 | 2022-04-05 | 2023-01-06 |
 | [Sem Aliança no Dedo](https://open.spotify.com/track/22sAwsBH0NoNJXnrBenQuO) | [MC Xenon](https://open.spotify.com/artist/5vcMPVDXTLhJ4UpOZKXZtg), [Os Gemeos da Putaria](https://open.spotify.com/artist/5ZEpz4ei1jHqvA4EHUeKqs) | [Sem Aliança no Dedo](https://open.spotify.com/album/1jrzYloHK7zn8n66qulEjn) | 2:00 | 2023-02-24 | 2024-06-29 |
 | [Sem Gin, Sem Ela 2](https://open.spotify.com/track/41vXO1HYd7VywQbpCXaJwM) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF) | [Meu Nome Não é Igor %](https://open.spotify.com/album/3lyZheF7IyPnFduYqBJHMI) | 5:26 | 2023-09-08 | 2023-09-30 |
+| [Sempre na Simplicidade](https://open.spotify.com/track/4XaLEsmrRGSDkgd7qpn4Nl) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC), [Boladin 211](https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW), [MC Vine7](https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP) | [Sempre na Simplicidade](https://open.spotify.com/album/28vY5m1Agyk9IdbgWacYow) | 5:00 | 2024-07-26 |  |
 | [Senta Pro Bruto](https://open.spotify.com/track/2hloKDkwGLjtYvAoqn39gV) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Senta Pro Bruto](https://open.spotify.com/album/4KyWHPjJZzYfGqM4NbnOyC) | 2:28 | 2024-05-10 |  |
 | [Sentada Cabulosa](https://open.spotify.com/track/7rLxzzs0FFuz5KKARq5f2b) | [Dj Lv Mdp](https://open.spotify.com/artist/01CFmzv28eTtJAjhrvOsiW), [DJ ARTHUZIIN](https://open.spotify.com/artist/2Xwhv9ka5HeBx9c1Sq3o6C), [MC Josh](https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp) | [Sentada Cabulosa](https://open.spotify.com/album/0qTCr6JqjGlqcKRNU1dCk8) | 1:45 | 2022-02-18 | 2022-03-18 |
 | [Sentadinha Diferente](https://open.spotify.com/track/1XcmAgREOuJQb91sr68AAD) | [Dyamante DJ](https://open.spotify.com/artist/3i7Bn2SoEkRVEGkdz9o6Yu), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Sentadinha Diferente](https://open.spotify.com/album/3TN3L1SoMfzqVSnq5jcZJx) | 2:03 | 2022-07-22 | 2023-03-11 |

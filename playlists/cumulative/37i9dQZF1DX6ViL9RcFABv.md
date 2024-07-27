@@ -2,9 +2,9 @@
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop! Foto: Supa Squad
+> Uma playlist de pura alma pop! Foto: Khiaro, Margarida Rotilo
 
-81 songs - 4 hr 26 min
+83 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [casa](https://open.spotify.com/track/53gXl8SihJLcFeC2D8g6ry) | [Fernando Daniel](https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC) | [V.H.S \(vol.1\)](https://open.spotify.com/album/7DkrPZTE9lrVYsU8ffCoJ1) | 3:26 | 2024-06-27 |  |
 | [Clima](https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK) | [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Clima](https://open.spotify.com/album/5C4aCWJtiISw7Cu6g6HVMf) | 2:56 | 2024-06-27 | 2024-07-05 |
 | [Como Antes](https://open.spotify.com/track/0dAZ5dCofHy6rquqU6YG29) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2) | [Como Antes](https://open.spotify.com/album/5Ja0yJ2hIVxWq5lOtGQ6Ih) | 3:44 | 2024-06-27 |  |
-| [Como Se Te Fosse Perder](https://open.spotify.com/track/3Oa4gJ5OfEGpCNWlLslYh0) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [Como Se Te Fosse Perder](https://open.spotify.com/album/0xSY141d5NGzZUGY5uRxgq) | 3:06 | 2024-06-27 |  |
+| [Como Se Te Fosse Perder](https://open.spotify.com/track/3Oa4gJ5OfEGpCNWlLslYh0) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [Como Se Te Fosse Perder](https://open.spotify.com/album/0xSY141d5NGzZUGY5uRxgq) | 3:06 | 2024-06-27 | 2024-07-27 |
 | [Como Tu \(feat\. Ivandro\)](https://open.spotify.com/track/5BGdBH8MsaHCgfr4TMpRin) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Como Tu \(feat\. Ivandro\)](https://open.spotify.com/album/5iySTzq8nLllHzdYOFM59p) | 3:27 | 2024-06-27 |  |
 | [Como É Linda](https://open.spotify.com/track/6B43EbmAvIZihRW50LCtav) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [Como É Linda](https://open.spotify.com/album/3yniN1hEeGMKDr0k8HmhVd) | 2:57 | 2024-06-27 |  |
 | [COMPLICADO](https://open.spotify.com/track/0FbAnTTFeLnpfrNer6CzHZ) | [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [OLHAR P’RA BAIXO](https://open.spotify.com/album/1BeGFKGmjiP1RHDT9IxWUE) | 2:43 | 2024-07-04 |  |
@@ -65,15 +65,17 @@
 | [Não Somos Iguais](https://open.spotify.com/track/6jjhceNhQRNbOu3EZ5LfIo) | [Diana Lima](https://open.spotify.com/artist/32Smk7Ovdr0xb5MbQtU16t) | [Beco Com Saída](https://open.spotify.com/album/4tRPih3kZoV0bnKUm8AntL) | 3:05 | 2024-06-27 |  |
 | [Não és tu, sou eu](https://open.spotify.com/track/6vmouKTLdfvqj29t5LUe8d) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Não és tu, sou eu](https://open.spotify.com/album/00UkRecCWhLSZIwxsX55zE) | 2:59 | 2024-06-27 |  |
 | [Ojé Ojé](https://open.spotify.com/track/1QBJJ3EFiE933KnPuNa9PG) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw) | [Ojé Ojé](https://open.spotify.com/album/1QbfyEPfk1NXG8VeobR64P) | 2:52 | 2024-07-18 |  |
-| [Ondas Do Mar](https://open.spotify.com/track/57U5uPOSahT6Cis5IgPw6g) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Ondas Do Mar](https://open.spotify.com/album/22sH7NUz2saNvEwVx1YOgD) | 2:00 | 2024-06-27 |  |
+| [Ondas Do Mar](https://open.spotify.com/track/57U5uPOSahT6Cis5IgPw6g) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Ondas Do Mar](https://open.spotify.com/album/22sH7NUz2saNvEwVx1YOgD) | 2:00 | 2024-06-27 | 2024-07-27 |
 | [Outro Planeta](https://open.spotify.com/track/5gowKvKBEEpQhdAL2Qklhe) | [Virgul](https://open.spotify.com/artist/0qe3I1MOY8oFj3DuoWNwbq) | [Outro Planeta](https://open.spotify.com/album/2QEjRxraeyKj7iYlLLQUCM) | 3:04 | 2024-07-04 |  |
 | [Pelos Cantos do Mundo](https://open.spotify.com/track/1tEbzUsK47jPVTYJNDqAc1) | [Mickael Carreira](https://open.spotify.com/artist/6Y9n4rtU99wHdeIrrhndtU), [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2) | [Pelos Cantos do Mundo](https://open.spotify.com/album/1LIT5KUsrJIMfio5tuRJoa) | 3:30 | 2024-06-27 |  |
 | [Perfume](https://open.spotify.com/track/2o7yOQTog50uh8TI0b34fz) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Perfume](https://open.spotify.com/album/5zJ1AeTR9z6a7XuEaHxuRF) | 3:40 | 2024-06-27 |  |
 | [POP TOMA](https://open.spotify.com/track/3QOvVqKEPJpQVCqckmSUO5) | [Lena d’Água](https://open.spotify.com/artist/6236JGmsEzqSEobDtH75lS) | [POP TOMA](https://open.spotify.com/album/3vNo4rcNjJTI6oPYLfasOF) | 2:57 | 2024-06-28 | 2024-07-12 |
 | [portas do sol](https://open.spotify.com/track/1iL2qN1fpyE9MxUhUUu0O4) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [portas do sol](https://open.spotify.com/album/0Ik78gbm575dclbfvP4y9T) | 3:48 | 2024-06-27 |  |
 | [Povo](https://open.spotify.com/track/3W7cu7ORKiHF6A2BvQLam3) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw), [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Povo](https://open.spotify.com/album/07m5H8wCm5QicG9jqqh02D) | 3:30 | 2024-06-27 |  |
+| [Promessas](https://open.spotify.com/track/5nQoajzUX1uJ70yLCPU3kI) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb), [Margarida Rotilo](https://open.spotify.com/artist/6AiYa8nZTEc2u3HOFu3I7Y) | [Promessas](https://open.spotify.com/album/2DXHdgkLVueeCGmljBfZQs) | 2:34 | 2024-07-25 |  |
 | [Quero\-te Tanto](https://open.spotify.com/track/5KXvtkQlN2oyT0ZohwFw7Q) | [Anjos](https://open.spotify.com/artist/55emZB6OJOvHmTpuqa6HZz) | [Quero\-te Tanto](https://open.spotify.com/album/4YlvibOyd9OdHdfUZ36N08) | 2:46 | 2024-06-27 |  |
 | [Ramantxada](https://open.spotify.com/track/5RooLX6VQF9SWI4avrDPoT) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Ramantxada](https://open.spotify.com/album/33lNwEO011Rmow3JyX4eM7) | 2:51 | 2024-06-27 |  |
+| [Ritinha](https://open.spotify.com/track/2wtV8sHeYkZTfKiUGQPX1c) | [ÁTOA](https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7), [Grupo Académico Seistetos \(Universidade Évora\)](https://open.spotify.com/artist/6UytzMPJfPy7zHhPXTDMvr) | [Ritinha](https://open.spotify.com/album/3YM8Dt8trP0u9B4nQlHYel) | 2:36 | 2024-07-25 |  |
 | [Romance de Balcão](https://open.spotify.com/track/0Vr8RTAqZ4uhG9FbokA7cG) | [ÁTOA](https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7), [Grupo Académico Seistetos \(Universidade Évora\)](https://open.spotify.com/artist/6UytzMPJfPy7zHhPXTDMvr) | [Romance de Balcão](https://open.spotify.com/album/4grSwzCLsST0N5UUgsUiHi) | 2:54 | 2024-06-27 |  |
 | [Rosa \(feat\. CONAN OSIRIS\)](https://open.spotify.com/track/0w224dseDmkVEslHsZfkG3) | [Nuno Ribeiro](https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt), [CONAN OSIRIS](https://open.spotify.com/artist/4oYolWgvQmCnjrvVNTymlf) | [Rosa \(feat\. CONAN OSIRIS\)](https://open.spotify.com/album/210jbUrguMRYKHil7qrPLE) | 2:52 | 2024-06-27 |  |
 | [sabesamar](https://open.spotify.com/track/1wJeFzk6SsB0o5ozRh2RGf) | [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf), [JÜRA](https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9) | [SNTMNTL](https://open.spotify.com/album/6l9lUNt1Aft9wYMpCBXqCn) | 2:38 | 2024-06-27 | 2024-07-12 |

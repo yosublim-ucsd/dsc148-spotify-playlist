@@ -1,12 +1,12 @@
 {
   "description": "This is Peggy Gou. The essential tracks, all in one playlist.",
-  "num_followers": 48488,
+  "num_followers": 48596,
   "original_name": "This Is Peggy Gou",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zp7ygAAAAAAVYE6UD0K77vWp6JcCpwPI",
+  "snapshot_id": "ZqLnAAAAAABWqRVdoKnyApoKMNJk0jju",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1+1=11",
-        "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 190644,
-      "name": "1+1=11 - Edit",
-      "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Hear You",
         "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 176524,
       "name": "I Believe In Love Again",
       "url": "https://open.spotify.com/track/1xYsgHPHiR3IIdpRzkfKcE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1+1=11",
+        "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 190644,
+      "name": "1+1=11 - Edit",
+      "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
     },
     {
       "added_at": null,
@@ -163,26 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nabi (feat. Ohhyuk)",
-        "url": "https://open.spotify.com/album/06LftbqN9jVmaHDFq4eitA"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        },
-        {
-          "name": "OHHYUK",
-          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
-        }
-      ],
-      "duration_ms": 232914,
-      "name": "Nabi (feat. OHHYUK)",
-      "url": "https://open.spotify.com/track/6zQ24McTYC36rMWRgEfzqC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Hear You",
         "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 233917,
       "name": "All That",
       "url": "https://open.spotify.com/track/2iMuxgCe0aR2DYeXkDl43u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nabi (feat. Ohhyuk)",
+        "url": "https://open.spotify.com/album/06LftbqN9jVmaHDFq4eitA"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "OHHYUK",
+          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
+        }
+      ],
+      "duration_ms": 232914,
+      "name": "Nabi (feat. OHHYUK)",
+      "url": "https://open.spotify.com/track/6zQ24McTYC36rMWRgEfzqC"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moment EP",
-        "url": "https://open.spotify.com/album/13ANf72KYKBlFSwGgiC1Y1"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 401695,
-      "name": "Han Pan",
-      "url": "https://open.spotify.com/track/3KAMgcLxqce9PRkwzbYkHa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Hear You",
         "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 332826,
       "name": "I Go",
       "url": "https://open.spotify.com/track/2o7wQuwySXB2EDtNp7ymJa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moment EP",
+        "url": "https://open.spotify.com/album/13ANf72KYKBlFSwGgiC1Y1"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 401695,
+      "name": "Han Pan",
+      "url": "https://open.spotify.com/track/3KAMgcLxqce9PRkwzbYkHa"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Day Without Yesterday / Six O Six",
-        "url": "https://open.spotify.com/album/6mVEU0cBrcGxhlE55d96H3"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 339379,
-      "name": "Day Without Yesterday",
-      "url": "https://open.spotify.com/track/0OhEIJc0H8ZbRtQbeVBpaz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Hear You",
         "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 117236,
       "name": "Your Art",
       "url": "https://open.spotify.com/track/3xSdEXX2d1A02U1jaLmGwl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Day Without Yesterday / Six O Six",
+        "url": "https://open.spotify.com/album/6mVEU0cBrcGxhlE55d96H3"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 339379,
+      "name": "Day Without Yesterday",
+      "url": "https://open.spotify.com/track/0OhEIJc0H8ZbRtQbeVBpaz"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Needs x UN Women Present HeForShe",
-        "url": "https://open.spotify.com/album/3hbGmZaqQjrAWrF8X5vna1"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 402838,
-      "name": "Shero",
-      "url": "https://open.spotify.com/track/1SCavOqanyTnGotH0xL4b6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Hear You",
         "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 157252,
       "name": "Seoulsi Peggygou (\uc11c\uc6b8\uc2dc\ud398\uae30\uad6c)",
       "url": "https://open.spotify.com/track/2MQWxF9FTFBHBkU3NcvODv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Needs x UN Women Present HeForShe",
+        "url": "https://open.spotify.com/album/3hbGmZaqQjrAWrF8X5vna1"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 402838,
+      "name": "Shero",
+      "url": "https://open.spotify.com/track/1SCavOqanyTnGotH0xL4b6"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-345 songs - 20 hr 32 min
+347 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Disappearing Now](https://open.spotify.com/track/6OyAdrIqlulqr7hEpo7QSL) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Disappearing Now](https://open.spotify.com/album/5zdUWNPZwYmUn7M2aUu0Cz) | 4:51 | 2022-01-07 |  |
 | [Diving Out Of Love](https://open.spotify.com/track/6C6fuCnY3980ZJS8sSuJWd) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Diving Out Of Love](https://open.spotify.com/album/3oVyoQ8dcJdy8yAhkfqZtE) | 4:07 | 2021-12-03 | 2022-02-12 |
 | [dominique](https://open.spotify.com/track/4RYeyNZ7ZlMJqVhoJTvMgp) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [acts of rebellion](https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh) | 3:54 | 2021-12-03 | 2022-02-12 |
+| [don't come back](https://open.spotify.com/track/3tPrgyExznmJs4wA51yXlJ) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [don't come back](https://open.spotify.com/album/11cbxbrYCNcdzRMAbbKZop) | 3:09 | 2024-07-26 |  |
 | [Don't Stop](https://open.spotify.com/track/3tYYypENWxaS1DKUtcH8S8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Don't Stop](https://open.spotify.com/album/7k9X7tCJdLdPWpm6JbAW0O) | 3:16 | 2024-04-26 |  |
 | [Don't Wait For Me](https://open.spotify.com/track/1C6qilcpgci5bJSBB6qSK4) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Don't Wait For Me](https://open.spotify.com/album/6o1B9rcKo0eWEQ6yg2OSj2) | 2:50 | 2022-03-18 | 2023-06-10 |
 | [Don't You](https://open.spotify.com/track/18354LBwPIgO5DJ8vzOsGg) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [Don't You](https://open.spotify.com/album/7HFGc7fbzZOuE2TFyYN8Ra) | 2:35 | 2024-03-01 |  |
@@ -258,6 +259,7 @@
 | [Out Of Touch \- Edit](https://open.spotify.com/track/3Q7cF0uvDhoorWDWpsg024) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Out Of Touch](https://open.spotify.com/album/0lzKzx043JEPXSe3ht4LK3) | 3:32 | 2021-12-03 | 2022-05-07 |
 | [Over You \(feat\. Lovespeake\)](https://open.spotify.com/track/2WCInR4Z5mlpuk6qbYooQE) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [Over You \(feat\. Lovespeake\)](https://open.spotify.com/album/2LVHnGD0b6KrJvyGmOuG8Q) | 2:53 | 2021-12-03 | 2023-06-10 |
 | [Parallel Heartbreak](https://open.spotify.com/track/5zGOmNgWKgfzn9YcGsNQFx) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Parallel Heartbreak](https://open.spotify.com/album/26lf8BWfm91Z4fI0NM1uTd) | 3:22 | 2022-01-07 | 2022-05-14 |
+| [Patience](https://open.spotify.com/track/5TrYG8zcjoit4ZdYWrwUnW) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Patience](https://open.spotify.com/album/0Uxar0jhip7in5QfGC5mYS) | 2:51 | 2024-07-26 |  |
 | [Please Come Home](https://open.spotify.com/track/1RiuDvXUH1rBwqeFL5BsZi) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Jead](https://open.spotify.com/artist/5y239Fviw0hAOe5Jy3qzlf) | [Muzique, Vol\. 01](https://open.spotify.com/album/5N7LpR0MjS0lroJ0lKiGbq) | 3:52 | 2022-07-15 | 2023-05-03 |
 | [Please Come Home](https://open.spotify.com/track/2JOxQUCJ24EpytRxkFrrdG) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Jead](https://open.spotify.com/artist/5y239Fviw0hAOe5Jy3qzlf) | [Muzique, Vol\. 01](https://open.spotify.com/album/43VpirC4MMe2q15WRbz66a) | 3:52 | 2023-03-31 | 2024-04-19 |
 | [Please Come Home](https://open.spotify.com/track/5EOUYFfFbyPXtZOiuRKTpU) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Jead](https://open.spotify.com/artist/5y239Fviw0hAOe5Jy3qzlf) | [Please Come Home](https://open.spotify.com/album/1JmOtdJu3CZKowtgdNIOX8) | 3:52 | 2021-12-03 |  |

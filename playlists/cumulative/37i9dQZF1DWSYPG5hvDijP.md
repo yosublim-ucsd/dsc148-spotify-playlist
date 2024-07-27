@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-354 songs - 18 hr 21 min
+355 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [All Fall Down](https://open.spotify.com/track/6hvrcoCUK0TkZ9BAL4m68e) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q) | [KARAM](https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1) | 3:25 | 2023-11-06 | 2023-12-07 |
 | [All In \(feat\. Bandzo3rd\)](https://open.spotify.com/track/0QE3NomrrrqmxQG75iXCaG) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Bandzo3rd](https://open.spotify.com/artist/1DnUEMDVBtdwVBPAok8Ws7) | [In The Building](https://open.spotify.com/album/6oHPRRBPncB9BcIyVjRkWU) | 3:11 | 2024-07-12 |  |
 | [Alloy Wheel](https://open.spotify.com/track/4aJX7324iEFV5cRAcHcjph) | [Dc](https://open.spotify.com/artist/2FOKZV8ZRTKsJ9v90qIxoU), [Sukki](https://open.spotify.com/artist/3mwwoRoH5cpXktunHY0Ecn), [We Are One](https://open.spotify.com/artist/5m1CuvIRLwkzqpsdvtBcWu) | [Alloy Wheel](https://open.spotify.com/album/3NrgliVv0E9wunyXSuBgvv) | 2:18 | 2024-03-26 | 2024-06-08 |
-| [Anti Gang Town](https://open.spotify.com/track/2LteRzcj94fjfxQCvdakVw) | [Stunning Singh](https://open.spotify.com/artist/1hps6dFmG7FtJf6eVkEJq9) | [Anti Gang Town](https://open.spotify.com/album/5TkPz7V6EvVhRb1crbk5NV) | 2:40 | 2024-06-05 |  |
+| [Anti Gang Town](https://open.spotify.com/track/2LteRzcj94fjfxQCvdakVw) | [Stunning Singh](https://open.spotify.com/artist/1hps6dFmG7FtJf6eVkEJq9) | [Anti Gang Town](https://open.spotify.com/album/5TkPz7V6EvVhRb1crbk5NV) | 2:40 | 2024-06-05 | 2024-07-27 |
 | [At The Afterparty](https://open.spotify.com/track/2IZOYSnYAaYgbfAQZwbmxK) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Deorachit](https://open.spotify.com/artist/2ZtfmE2WlGjnaHwtwHbZXh) | [At The Afterparty](https://open.spotify.com/album/3XhhCe9VFT7Ai41MbdabBj) | 2:22 | 2023-12-14 | 2024-01-03 |
 | [Azhage \(Fallin\)](https://open.spotify.com/track/6K3Jpn3gocuX0FDkSFaLUE) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf) | [Azhage \(Fallin\)](https://open.spotify.com/album/5bzJnIdqMWlwYevnciFP8h) | 3:42 | 2023-05-11 | 2023-06-02 |
 | [B.I.G.](https://open.spotify.com/track/3m58gGtcLLeeKpazlQmKjX) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [PUNA](https://open.spotify.com/artist/6xxZ5ygLggYl3EXuzDezvo) | [KARAM](https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1) | 2:56 | 2023-11-06 | 2023-11-09 |
@@ -188,6 +188,7 @@
 | [Kheench Maari](https://open.spotify.com/track/2W45HI9Tfj1YdhMHJE0Lnd) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Nitin Randhawa](https://open.spotify.com/artist/0WIMfLnFgEZkwlzCaemJkS) | [Kheench Maari](https://open.spotify.com/album/1Vp9PMPUHVdITIdbtzlQmH) | 2:48 | 2023-11-29 | 2024-07-13 |
 | [Khoyi Khoyi](https://open.spotify.com/track/2tO0qOhdxFgtRrOqlj2rr6) | [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs), [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI) | [Khoyi Khoyi](https://open.spotify.com/album/6ZOZiBtF4WP1CLqdmTKFYU) | 3:07 | 2024-07-12 |  |
 | [Khushi](https://open.spotify.com/track/0YTo1oipx4slTncqlOitxe) | [Saatveek](https://open.spotify.com/artist/2Ip0vhfkDGMOIzhzls18CE), [Mondeblue](https://open.spotify.com/artist/4xwqOn0TRLAXrJbuyEEx0s) | [Khushi](https://open.spotify.com/album/1mF2Xlctt8Dfd7mQcS99OO) | 3:35 | 2024-07-12 |  |
+| [Kider Manzil](https://open.spotify.com/track/6fSpenzImcaH7172TSL7tg) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Kider Manzil](https://open.spotify.com/album/4fxLM05E46i0XdeXpslSCC) | 3:46 | 2024-07-26 |  |
 | [King Of Indian Hip Hop](https://open.spotify.com/track/21noylFh40f8j2lyWah95R) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of Indian Hip Hop](https://open.spotify.com/album/6CiopvBPnSPd7G6l3qbbHt) | 7:20 | 2023-06-06 | 2024-06-23 |
 | [King Of The Streets \- Intro](https://open.spotify.com/track/22Qz9UKeAAtGNPaMAbqT4P) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of The Streets \(Intro\)](https://open.spotify.com/album/4bLCFr5ikH6eMXO9T5QLZ5) | 2:00 | 2023-03-29 | 2023-04-17 |
 | [KODAK](https://open.spotify.com/track/3e1g159cSgose2jHQj9uzd) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [KODAK](https://open.spotify.com/album/3PzVNvVBZ8MnyGyWl2A3CC) | 6:03 | 2024-07-05 |  |

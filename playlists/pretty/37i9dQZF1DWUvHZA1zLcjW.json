@@ -1,6 +1,6 @@
 {
   "description": "Chilled classical tunes to help you relax and unwind.",
-  "num_followers": 628523,
+  "num_followers": 628679,
   "original_name": "Chilled Classical",
   "owner": {
     "name": "Spotify",
@@ -1132,12 +1132,12 @@
       },
       "artists": [
         {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
           "name": "Benjamin Grosvenor",
           "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
+        },
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         }
       ],
       "duration_ms": 207046,

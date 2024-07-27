@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGiDMXvAZBO.md) - [plain]
 
 > Let the rhymes and rhythms lift you\. Cover: Schoolboy Q
 
-[](https://open.spotify.com/user/null) - 94,813 likes - 101 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,797 likes - 101 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

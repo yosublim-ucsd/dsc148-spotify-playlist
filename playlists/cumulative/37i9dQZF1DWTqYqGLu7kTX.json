@@ -319,6 +319,32 @@
     },
     {
       "album": {
+        "name": "The Finest",
+        "url": "https://open.spotify.com/album/47gUYtnZNZBbbcwc6YMdAy"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        },
+        {
+          "name": "Homeboy",
+          "url": "https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7"
+        },
+        {
+          "name": "Kaater",
+          "url": "https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212035,
+      "name": "Ambarsaria",
+      "url": "https://open.spotify.com/track/6eCA1w1FBvYeMcFTD6BWzl"
+    },
+    {
+      "album": {
         "name": "Amli Anthem",
         "url": "https://open.spotify.com/album/0eNWBBmMsMT3jgf6bj0MSU"
       },
@@ -448,6 +474,28 @@
       "duration_ms": 148188,
       "name": "Baller",
       "url": "https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ"
+    },
+    {
+      "album": {
+        "name": "Barks",
+        "url": "https://open.spotify.com/album/7hIJMW0abXIaHukdRuCp8l"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        },
+        {
+          "name": "Azaad 4L",
+          "url": "https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143529,
+      "name": "Barks",
+      "url": "https://open.spotify.com/track/5AcWXb7VURDdZeSLa75d71"
     },
     {
       "album": {
@@ -888,7 +936,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 143156,
       "name": "Dabb Nal",
       "url": "https://open.spotify.com/track/6G1ytXcX96NOSOT3e46umY"
@@ -932,7 +980,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 205543,
       "name": "Dawood",
       "url": "https://open.spotify.com/track/6hHmenkXJDvL7XcKNxSoRU"
@@ -1875,6 +1923,24 @@
     },
     {
       "album": {
+        "name": "The Finest",
+        "url": "https://open.spotify.com/album/47gUYtnZNZBbbcwc6YMdAy"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206986,
+      "name": "Lighter",
+      "url": "https://open.spotify.com/track/7xPSRRceQoC0nJqfg5P60h"
+    },
+    {
+      "album": {
         "name": "Maan Punjabi - Spotify Singles",
         "url": "https://open.spotify.com/album/0tiQGJvtfSDtqGURqSU2e3"
       },
@@ -1912,7 +1978,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 145470,
       "name": "Mafia Family",
       "url": "https://open.spotify.com/track/5L2noDPHJSpviufoZoeWuQ"
@@ -2034,6 +2100,28 @@
       "duration_ms": 149857,
       "name": "Miami Flow",
       "url": "https://open.spotify.com/track/2DgeseqrXJEc7MmKvXWxY0"
+    },
+    {
+      "album": {
+        "name": "Muhammad Ali",
+        "url": "https://open.spotify.com/album/7mAfZEurqdGBfykp7RvbdP"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138919,
+      "name": "Muhammad Ali",
+      "url": "https://open.spotify.com/track/7nqrM3YD2EfjtaGPvd1dE3"
     },
     {
       "album": {

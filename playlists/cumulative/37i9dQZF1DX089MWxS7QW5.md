@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: SUMIN, Slom\(수민, 슬롬\)\)
 
-360 songs - 19 hr 55 min
+363 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Andrea′s Song \(Feat\. Lil Cherry\)](https://open.spotify.com/track/0fzKwOsRpmUQFkBPBxjAEU) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [Andrea′s Song](https://open.spotify.com/album/0L7yJIRm0dDHhpie0X5Wd8) | 2:55 | 2023-05-02 | 2023-10-17 |
 | [ANIRAGO \(feat\. Zion.T\)](https://open.spotify.com/track/4udQ9x6PZTNkO6Jwxdn0iw) | [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [WEATHER REPORT](https://open.spotify.com/album/7fovUQYXBmAfq8FGN8eEzm) | 3:22 | 2022-10-28 | 2023-03-28 |
 | [ANIYA](https://open.spotify.com/track/4Q0UhYltYUyj2hhnAXaL1k) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [ANIYA](https://open.spotify.com/album/70Bdhmg4VhcQqK2gy9PHhY) | 2:56 | 2024-07-02 |  |
+| [Another Love Song](https://open.spotify.com/track/0WngZO7T6yvffgXskWNjmX) | [SOOVI](https://open.spotify.com/artist/0YM7bNxtt0VzccYf1UG2G8) | [Another Love Song](https://open.spotify.com/album/0oiqhfE7NdRffK915DHbMh) | 2:41 | 2024-07-25 |  |
 | [ANYWHERE ANYTIME](https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [1,2,3..](https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf) | 2:36 | 2022-08-12 | 2023-01-11 |
 | [Arms Around Me](https://open.spotify.com/track/7vC4gn4BrdLPQDjNYMBMTO) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Arms Around Me](https://open.spotify.com/album/3HIjqS5a1SzgKmFza29iJm) | 3:18 | 2024-02-22 | 2024-06-18 |
 | [Attention \(Feat\. DAWN, BLASÉ\)](https://open.spotify.com/track/0sB1ut1esPaRqabYjWEj1Z) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Love Sick](https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek) | 2:58 | 2023-10-02 | 2024-01-09 |
@@ -88,6 +89,7 @@
 | [DAY N NIGHT](https://open.spotify.com/track/7mf5QqTBynvYLk3bASLVJh) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [DAY N NIGHT](https://open.spotify.com/album/7eovAYPFqZattIUZ1vsNkh) | 3:07 | 2023-10-05 | 2024-02-07 |
 | [day off](https://open.spotify.com/track/1jt0VFVbFB6PTZ33GPK9Tj) | [JAEMAN](https://open.spotify.com/artist/0rDXlxrKhbgdatdiiSFgf7) | [mis](https://open.spotify.com/album/0465P7QwKvua7zSGNoH3NO) | 2:46 | 2022-05-28 | 2022-08-03 |
 | [dear goodbye](https://open.spotify.com/track/1uwVqKjMf2wVVwRkDe2Xt6) | [Jang Ye Jin](https://open.spotify.com/artist/7Dt4RaCuOERTklhHbZcrCU) | [dear goodbye](https://open.spotify.com/album/3FLSiFdNlZl8MgsDHhydO0) | 3:33 | 2024-04-17 |  |
+| [Dear My Sorrow \(Doop\)](https://open.spotify.com/track/2wrHL1hJ3UmRFKIgCCsNbu) | [Add All Ears](https://open.spotify.com/artist/6uZ4zg2t2yCRACJJAHetgs) | [Dear My Sorrow](https://open.spotify.com/album/46R8yonAYUnizLWonwG1Vx) | 4:02 | 2024-07-25 |  |
 | [Deeper](https://open.spotify.com/track/6LyZwzZAu3DP7RSMJcsy6D) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Deeper](https://open.spotify.com/album/7Av1NlOPnL2EwQ8GqkbmFD) | 2:57 | 2023-10-05 | 2024-02-07 |
 | [Delicate dawn \(feat\. 1ho & mabinc\)](https://open.spotify.com/track/3y1rYTVWOOVS5HD12LG09x) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z) | [Attitude \#9](https://open.spotify.com/album/18tlQUqxvDN51zGcesMFgs) | 3:28 | 2024-02-22 | 2024-06-18 |
 | [Deserve](https://open.spotify.com/track/1wuwBheZJPtlu0AZO3BRPT) | [HOYA](https://open.spotify.com/artist/3bGzcepRQ7Zu1J6JDDAq1T) | [Deserve](https://open.spotify.com/album/5b3dvk2qpGvCltCdlcDvLs) | 3:12 | 2024-01-08 | 2024-05-24 |
@@ -355,6 +357,7 @@
 | [XNFP \(feat.JUNE\)](https://open.spotify.com/track/6O1DGge7UkQzyLBrb9hSep) | [søye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx), [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [XNFP \(feat.JUNE\)](https://open.spotify.com/album/3mYQq0tgwSXvUBkNQFegEl) | 3:29 | 2022-08-02 | 2023-01-21 |
 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 | 2023-02-13 | 2023-08-18 |
 | [Yooou \(Feat\. BIG Naughty\)](https://open.spotify.com/track/2iQ77ftQFhdxyBt1DET8Xf) | [PARK HYEON JIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Yooou \(Feat\. BIG Naughty\)](https://open.spotify.com/album/6MLmMlHFNJp5GqZuI7Fwga) | 4:04 | 2023-04-28 | 2023-10-06 |
+| [YOU \(Feat\. jeebanoff\)](https://open.spotify.com/track/0tHgk7afCZ6AgmDInaU94A) | [WOOSEOK](https://open.spotify.com/artist/1JVVY2kKddJ0JkDkbEZk4V), [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [YOU \(Feat\. jeebanoff\)](https://open.spotify.com/album/76uhNCKMU0ZxA4ctU4zfGP) | 2:58 | 2024-07-25 |  |
 | [YOU AND I](https://open.spotify.com/track/0t1MauhY0fE0dV1M7V9tnd) | [GRAM](https://open.spotify.com/artist/2qKhaMe5cOdQinPWBXyCHF) | [LOVE](https://open.spotify.com/album/7f3n6Mk3cgGHLtKbveKgE8) | 3:46 | 2023-01-13 | 2023-07-08 |
 | [You Are The Sea](https://open.spotify.com/track/6lTD3lLyCXNojKvse242Fb) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [The Bridge](https://open.spotify.com/album/0CGBkyLZW3izWrGZDcMz7u) | 3:35 | 2023-05-05 | 2023-10-06 |
 | [Your Love \(Feat\. Lee Chanhyuk\)](https://open.spotify.com/track/5oEqqlCFYDivgrCabSoaiW) | [chanju](https://open.spotify.com/artist/2te4fM51pD1aQhRF0uDFp0), [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [WONDERLAND](https://open.spotify.com/album/5DOF1qqnKtb9RAFuH6RJJA) | 3:10 | 2023-07-24 | 2023-10-21 |

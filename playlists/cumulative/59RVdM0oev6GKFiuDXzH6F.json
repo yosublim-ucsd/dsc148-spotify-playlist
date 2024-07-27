@@ -11315,6 +11315,28 @@
     },
     {
       "album": {
+        "name": "So Different",
+        "url": "https://open.spotify.com/album/36Qxy0uYkoTu5sVWvIzoVZ"
+      },
+      "artists": [
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        },
+        {
+          "name": "TOYZZ",
+          "url": "https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "So Different",
+      "url": "https://open.spotify.com/track/7ncQlEWDcux4xhuoGzY2Lc"
+    },
+    {
+      "album": {
         "name": "So H\u00ef",
         "url": "https://open.spotify.com/album/5GA1vg8Xv8zqtNedFbHasK"
       },
@@ -11998,6 +12020,24 @@
       "duration_ms": 214310,
       "name": "Takata",
       "url": "https://open.spotify.com/track/4yHWFJAaXTvk7LibzjyEv6"
+    },
+    {
+      "album": {
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/5lk4rie1rNS4GMw0s0Mjga"
+      },
+      "artists": [
+        {
+          "name": "Alias Club",
+          "url": "https://open.spotify.com/artist/7iBfLTLOnJIArlk3IODV95"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190984,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/617SoNO2LNsU6lTSN3t3t8"
     },
     {
       "album": {
@@ -14038,6 +14078,28 @@
       "duration_ms": 147432,
       "name": "When We Were Young (The Logical Song)",
       "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
+    },
+    {
+      "album": {
+        "name": "When You Look At Me",
+        "url": "https://open.spotify.com/album/4lxNGaPWnpHoTkDcGYUVMY"
+      },
+      "artists": [
+        {
+          "name": "Sander Divino",
+          "url": "https://open.spotify.com/artist/7hLVw9xpKDqBWS845jerYi"
+        },
+        {
+          "name": "TESS",
+          "url": "https://open.spotify.com/artist/3n7GqhJ1ozC746OH8OrXLQ"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145136,
+      "name": "When You Look At Me",
+      "url": "https://open.spotify.com/track/0F2UzAXf3sBZwtg2cUCTNp"
     },
     {
       "album": {

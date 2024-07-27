@@ -2,7 +2,7 @@
 
 ### [This Is Zach Bryan](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2llutr)
 
-> This is Zach Bryan\. Todos os maiores hits em uma só playlist.
+> This Is Zach Bryan\. Los temas esenciales, todos en una lista.
 
 82 songs - 4 hr 43 min
 

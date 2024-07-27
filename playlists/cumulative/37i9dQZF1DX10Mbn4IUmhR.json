@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The joy of Global and SA Pop. Cover: <a href=\"https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl?si=FSSRYZYOSjeC3LWaAaSshA\">Tyler Page</a> ",
+  "description": "The joy of Global and SA Pop. Cover: <a href=\"https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB?si=lKxGMUbVRsSS46Y3XnJsDQ\">Shekhinah</a> ",
   "name": "POP JOY",
   "tracks": [
     {
@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Acid Rain",
+        "url": "https://open.spotify.com/album/0P1uLn9UjAli21beqSgLq0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Baron",
+          "url": "https://open.spotify.com/artist/6j57OAd060Casvsu7TYDIl"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225523,
+      "name": "Acid Rain",
+      "url": "https://open.spotify.com/track/1UXa2qZ0LOuMP6ye1hwHCV"
+    },
+    {
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/2gIWzyA5azGmtUtuNOuCeG"
       },
@@ -92,7 +110,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 168888,
       "name": "ARE YOU THERE",
       "url": "https://open.spotify.com/track/7KsrRVn3SuQxZ3oo3DNfYH"
@@ -114,6 +132,24 @@
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ"
+    },
+    {
+      "album": {
+        "name": "Back to me",
+        "url": "https://open.spotify.com/album/6d5wQNK753jofsNtP7ywOM"
+      },
+      "artists": [
+        {
+          "name": "Oliver Michael",
+          "url": "https://open.spotify.com/artist/58Oe01uYw1nODV5DwGO14z"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133828,
+      "name": "Back to me",
+      "url": "https://open.spotify.com/track/1yKzhjC2yTXFczSBVx1Ed6"
     },
     {
       "album": {
@@ -222,6 +258,24 @@
       "duration_ms": 153016,
       "name": "BLIND",
       "url": "https://open.spotify.com/track/5zr5aYz9hJJJ25wotnbVzH"
+    },
+    {
+      "album": {
+        "name": "Blood Rush",
+        "url": "https://open.spotify.com/album/4vT01YKtwUdlEBFiBUI9BE"
+      },
+      "artists": [
+        {
+          "name": "OLI Milne",
+          "url": "https://open.spotify.com/artist/3u7rcxzEbguyPZHrucpbEB"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205632,
+      "name": "Blood Rush",
+      "url": "https://open.spotify.com/track/1ZmQmMqbbj72IgS8ZmxM6B"
     },
     {
       "album": {
@@ -554,7 +608,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 169615,
       "name": "Green Summer",
       "url": "https://open.spotify.com/track/2i2enF7yvueON1I7COL6vQ"
@@ -1024,7 +1078,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 212000,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/0Qm4vRjjCK9tzvZWYy5v8t"
@@ -1126,7 +1180,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 239538,
       "name": "Open",
       "url": "https://open.spotify.com/track/0BCj86Eh1kflADgQYD09eA"
@@ -1295,6 +1349,24 @@
     },
     {
       "album": {
+        "name": "Someone I Don't Know",
+        "url": "https://open.spotify.com/album/02BG7BjzYAN6Q8gB0rrt7H"
+      },
+      "artists": [
+        {
+          "name": "Connor Austin",
+          "url": "https://open.spotify.com/artist/5RJmXI7u46XifTvVEVbc0j"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167307,
+      "name": "Someone I Don't Know",
+      "url": "https://open.spotify.com/track/0Qwge4aLLfVN32oVA4sVhD"
+    },
+    {
+      "album": {
         "name": "Stargazing",
         "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
       },
@@ -1310,6 +1382,24 @@
       "duration_ms": 172533,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
+    },
+    {
+      "album": {
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/1HuMESLFBWzyre7uhHjfwM"
+      },
+      "artists": [
+        {
+          "name": "Shekhinah",
+          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224002,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/68ahKiHRBOuyS4GsPqFjsI"
     },
     {
       "album": {
@@ -1493,6 +1583,24 @@
     },
     {
       "album": {
+        "name": "UNDERCOVER",
+        "url": "https://open.spotify.com/album/3T6iKrglvo69iLvTvfx66j"
+      },
+      "artists": [
+        {
+          "name": "Keanan Eksteen",
+          "url": "https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209445,
+      "name": "UNDERCOVER",
+      "url": "https://open.spotify.com/track/4EvbMQMievM4jmeBpWEUvZ"
+    },
+    {
+      "album": {
         "name": "Warm Bodies",
         "url": "https://open.spotify.com/album/5w668hdD4at4FpOzQMVm19"
       },
@@ -1504,7 +1612,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 188818,
       "name": "Warm Bodies",
       "url": "https://open.spotify.com/track/5evgNAbd9zPVUM5JVKfNBH"
@@ -1594,7 +1702,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 190901,
       "name": "What Would We Be",
       "url": "https://open.spotify.com/track/1qvlHpZkJ4k5scQQmsXFxU"
@@ -1634,10 +1742,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 141103,
       "name": "When I'm With You",
       "url": "https://open.spotify.com/track/6VUupbPVzQc9KsAnUECeP2"
+    },
+    {
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
       "album": {

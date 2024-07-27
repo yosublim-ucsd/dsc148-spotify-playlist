@@ -2,9 +2,9 @@
 
 ### [Indie Chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Todo el sonido indie de Chile\. Foto: Francisco Victoria y AKRIILA.
+> Todo el sonido indie de Chile\. Foto: Triciclo Parlante.
 
-491 songs - 1 day 5 hr 32 min
+493 songs - 1 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Amigos Imaginarios](https://open.spotify.com/track/0m7eJFkULhiip0NjjNN9vj) | [Todos Me Caen Bien](https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb) | [Amigos Imaginarios](https://open.spotify.com/album/1wXNkNVWA8sro1KO5cd6qV) | 3:13 | 2022-04-15 | 2022-07-26 |
 | [Amor De Metro](https://open.spotify.com/track/22ZvGUwEROSoctCybSXWSs) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [Amor De Metro](https://open.spotify.com/album/5dBilg3BLttmKUXofemJdW) | 2:15 | 2022-04-15 | 2023-01-28 |
 | [AMOR MINIMAL](https://open.spotify.com/track/3gydgoR0OGDNJNhkY0337b) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/0OACOxBHoNzyA36x7au0bo) | 3:27 | 2023-01-27 | 2023-07-22 |
-| [Anatta](https://open.spotify.com/track/6mBiUBEIfOhpJB9bnlQspd) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Anatta](https://open.spotify.com/album/6d8WkEhkPtYhj7rms84hpG) | 6:38 | 2022-12-09 |  |
+| [Anatta](https://open.spotify.com/track/6mBiUBEIfOhpJB9bnlQspd) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Anatta](https://open.spotify.com/album/6d8WkEhkPtYhj7rms84hpG) | 6:38 | 2022-12-09 | 2024-07-27 |
 | [anhelo](https://open.spotify.com/track/2082tbABLulK203QC2AXhB) | [Yaima Cat](https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [anhelo](https://open.spotify.com/album/0ycnaEHl68CAPA2Y4OC6vZ) | 4:00 | 2024-06-07 |  |
 | [Antes que el sol nos queme](https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Antes que el sol nos queme](https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU) | 4:15 | 2023-04-21 | 2024-06-08 |
 | [Apuesto Que el Mundo No Dura](https://open.spotify.com/track/6VDCmJpts1sUhJ7AwB90EZ) | [Azotea Bulnes](https://open.spotify.com/artist/0pQb15WbZCDXx5Ou5GxAxF) | [Apuesto Que el Mundo No Dura](https://open.spotify.com/album/7Euakry7vjtya8RrClYF8s) | 3:03 | 2022-04-15 | 2022-07-28 |
@@ -213,6 +213,7 @@
 | [Juntos](https://open.spotify.com/track/2arqRzisztcxm4EhjESG3D) | [L!mbus](https://open.spotify.com/artist/4DOAYcnLuG4D09awGDzAGS), [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08) | [Juntos](https://open.spotify.com/album/6PIXHkkkEtSNtPfkELn6SM) | 4:04 | 2024-04-26 |  |
 | [Karma](https://open.spotify.com/track/2XxJKaZNhPanBkpGSMoApE) | [Charly Benavente](https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP) | [Karma](https://open.spotify.com/album/7kP9AmZtw94OKJ9WwCbcs4) | 3:16 | 2022-10-14 | 2024-07-13 |
 | [Karma](https://open.spotify.com/track/7nJzvoXmzFfKH0XupDiBzV) | [Charly Benavente](https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP) | [Karma](https://open.spotify.com/album/5qJlhQrdU7GFAvn8w48ukg) | 3:16 | 2023-03-24 | 2023-06-10 |
+| [KAWAII MUY TIERNA](https://open.spotify.com/track/3OnVUPG7varDTzn8wbyWgT) | [Poder Fantasma](https://open.spotify.com/artist/7BAa5FikfNdBTzy3FNBV0w) | [AMOR EVITATIVO](https://open.spotify.com/album/5WAilTili7KDIEibSjpyk8) | 3:22 | 2024-07-26 |  |
 | [Klapaucius](https://open.spotify.com/track/00tq3tSdLI9zOn3ctd3OlQ) | [Al Menos Se Intenta](https://open.spotify.com/artist/6iXVwJ4tstSPx7zMv24ChX), [Aquiestawally](https://open.spotify.com/artist/6cM3ql6as318GpwefoKVIl) | [Klapaucius](https://open.spotify.com/album/2s8fH3h5DAarJXn7jlzBHW) | 3:34 | 2022-04-15 | 2022-07-29 |
 | [Kurt & Courtney](https://open.spotify.com/track/7E1UM6gU9bKFzfWAivMK4M) | [Adolescentes Sin Edad](https://open.spotify.com/artist/6HBntxIY4gRjp8syM0IEYV) | [Kurt & Courtney](https://open.spotify.com/album/2ZCQvBGaccRTo4f6pOOn3d) | 3:20 | 2022-04-15 | 2022-07-25 |
 | [La Casa Gana](https://open.spotify.com/track/2XxDJqTFLMaLhbQfDOgiYz) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [La Casa Gana](https://open.spotify.com/album/6pawFPYHWVGitTT9iSqNcN) | 5:00 | 2023-11-24 |  |
@@ -360,6 +361,7 @@
 | [Que Nunca Pare](https://open.spotify.com/track/2NxkEcNyNzRJHFDexivH7E) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Que Nunca Pare](https://open.spotify.com/album/3u793IkGzcD8JhdcIyvL6v) | 3:24 | 2023-11-10 |  |
 | [Querernos Bien](https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Querernos Bien](https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2) | 3:03 | 2022-04-15 | 2022-12-10 |
 | [Quería Olvidarte](https://open.spotify.com/track/41nuVhzxlAevKkhjthnpU5) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Quería Olvidarte](https://open.spotify.com/album/1epND6FkZBn8fueQXMX32w) | 2:46 | 2023-03-10 |  |
+| [Quiebra el Tiempo](https://open.spotify.com/track/0BzgcI1nTL32Ygl1Jnhnb5) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [Quiebra el Tiempo](https://open.spotify.com/album/2OsKOLvBmA7nEdzEje7TkN) | 3:50 | 2024-07-26 |  |
 | [quiero creer que tienes un buen corazón](https://open.spotify.com/track/62qBQeXsGkn2fytlmvUUvr) | [cata teuber](https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4) | [quiero creer que tienes un buen corazón](https://open.spotify.com/album/2zzufzmGi2DhSSopXrjXlw) | 3:36 | 2024-07-12 |  |
 | [Quisiera](https://open.spotify.com/track/25xiGoun0fxPlSy38quYPp) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Quisiera](https://open.spotify.com/album/6Ns3YZrjvWpC3WMktnzeGE) | 3:52 | 2022-09-02 | 2023-01-08 |
 | [Quisiera Estar en Tu Lugar](https://open.spotify.com/track/3uHnLozqOnPoYumF7Qhp3K) | [Quinal](https://open.spotify.com/artist/5dxqPUdOChFnQ4VbZjGymp) | [Quisiera Estar en Tu Lugar](https://open.spotify.com/album/0FsIho6nfb5OGDBaaUZ1OM) | 3:39 | 2022-04-15 | 2022-07-29 |
@@ -444,7 +446,7 @@
 | [Tu Centro Se Aferra a Mi](https://open.spotify.com/track/59OQfyqSyAbfJIKIaixaS1) | [De Mónaco](https://open.spotify.com/artist/67bpPvzKD2IiNBqcxBHAII), [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [III](https://open.spotify.com/album/2T9nC7wwk50wrpcFwpYxLz) | 3:16 | 2022-04-15 | 2022-07-27 |
 | [Tu Demente](https://open.spotify.com/track/0FNThAjRDsWq3HP0Yknr4V) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Franz Mesko](https://open.spotify.com/artist/1wMmRP78FDRAIV0eehnlXS) | [Tu Demente](https://open.spotify.com/album/2f2GQUGbHkoc1RH7qTT4t0) | 3:05 | 2023-05-19 | 2024-04-01 |
 | [Tu Luz](https://open.spotify.com/track/6aVQIyZVSyTlQlEJ33dLpg) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Tu Luz](https://open.spotify.com/album/1vrwvZHXzegcApAxcUyVLa) | 4:07 | 2023-09-01 | 2024-06-08 |
-| [Tu Momento](https://open.spotify.com/track/1X5tpJelqlfxewgLmzi5R1) | [Blanco Leal](https://open.spotify.com/artist/43WloHpCaVPjqESUDEDDVq), [EnSecreto](https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju) | [Tu Momento](https://open.spotify.com/album/1Uu7yjZmuz4MbNAyNjJXki) | 3:49 | 2022-10-07 |  |
+| [Tu Momento](https://open.spotify.com/track/1X5tpJelqlfxewgLmzi5R1) | [Blanco Leal](https://open.spotify.com/artist/43WloHpCaVPjqESUDEDDVq), [EnSecreto](https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju) | [Tu Momento](https://open.spotify.com/album/1Uu7yjZmuz4MbNAyNjJXki) | 3:49 | 2022-10-07 | 2024-07-27 |
 | [Tu Olor](https://open.spotify.com/track/3cNzf5t9uQbLIwfWEOfpTF) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Tu Olor](https://open.spotify.com/album/0zUXB3xuiKMQRlY8xHyyH3) | 3:06 | 2023-06-02 | 2024-06-08 |
 | [Tu Pirata Soy Yo](https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Tu Pirata Soy Yo](https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU) | 2:47 | 2022-04-15 | 2022-12-10 |
 | [tu voz en mis audífonos](https://open.spotify.com/track/5zqtoxy1HqbePISvz9j2Rt) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [tu voz en mis audífonos](https://open.spotify.com/album/6rHOYthUpZN3ZaHnwqNgQS) | 3:13 | 2022-04-15 | 2024-06-08 |

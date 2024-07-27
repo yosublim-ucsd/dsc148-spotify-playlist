@@ -1049,6 +1049,28 @@
     },
     {
       "album": {
+        "name": "Cielo",
+        "url": "https://open.spotify.com/album/0V6OCa0gEboO7o6gXcmKWG"
+      },
+      "artists": [
+        {
+          "name": "Bolier",
+          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149315,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/4n6q1mheufR7QMKh3G1XhN"
+    },
+    {
+      "album": {
         "name": "Clandestina (feat. Emma Peters) [Slowboy Remix]",
         "url": "https://open.spotify.com/album/64V1aYjDxLaRNHBGSlUs42"
       },
@@ -1998,6 +2020,24 @@
       "duration_ms": 220776,
       "name": "Gradient",
       "url": "https://open.spotify.com/track/3lyF43hdw1AULXQyvrfRpa"
+    },
+    {
+      "album": {
+        "name": "Hangin' On",
+        "url": "https://open.spotify.com/album/1QFag1soFAXSOXGoRQHp5G"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195942,
+      "name": "Hangin' On",
+      "url": "https://open.spotify.com/track/2QBYwDbhKUjOPNylueh8ti"
     },
     {
       "album": {
@@ -3728,6 +3768,28 @@
       "duration_ms": 148343,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/2NZMUSTae3PD41L4v9vsGv"
+    },
+    {
+      "album": {
+        "name": "Out of My Hands",
+        "url": "https://open.spotify.com/album/5QlP6Vaoi9Wobf2aLYHZR3"
+      },
+      "artists": [
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        },
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176030,
+      "name": "Out of My Hands",
+      "url": "https://open.spotify.com/track/6oRnGHtoBixS2qPYYL56ts"
     },
     {
       "album": {

@@ -162,7 +162,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 180408,
       "name": "3",
       "url": "https://open.spotify.com/track/14Sx9jobXCdDXBlFYERMe3"
@@ -1459,6 +1459,32 @@
     },
     {
       "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/39rUd9drR7qfnOBdueS0yb"
+      },
+      "artists": [
+        {
+          "name": "Daktyl",
+          "url": "https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        },
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177637,
+      "name": "Black Water",
+      "url": "https://open.spotify.com/track/5CUTZzYgjZ9ndkvnAnesqA"
+    },
+    {
+      "album": {
         "name": "Black Weirdo",
         "url": "https://open.spotify.com/album/6aIvrUPpanm7pI0Xb48ZCR"
       },
@@ -1681,6 +1707,24 @@
     },
     {
       "album": {
+        "name": "Body Move",
+        "url": "https://open.spotify.com/album/2p0H8GUSicxlvcv6TDR46X"
+      },
+      "artists": [
+        {
+          "name": "Aliiias",
+          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196212,
+      "name": "Body Move",
+      "url": "https://open.spotify.com/track/5WKh6blmxRjvYaqrVyKauk"
+    },
+    {
+      "album": {
         "name": "Borderline (feat. EMELINE)",
         "url": "https://open.spotify.com/album/3HuiAw5KVyxtca92Ai6oYz"
       },
@@ -1780,7 +1824,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 172392,
       "name": "BREAK!",
       "url": "https://open.spotify.com/track/0P5l1tFcah1cYACKMZPEdo"
@@ -5610,7 +5654,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 188793,
       "name": "get my way",
       "url": "https://open.spotify.com/track/03JEVI9w0PKZ7e2h72XAfl"
@@ -7087,6 +7131,24 @@
     },
     {
       "album": {
+        "name": "I Need For Speed",
+        "url": "https://open.spotify.com/album/16lV4BfF8XLr3M3QQzBVmB"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216560,
+      "name": "I Need For Speed",
+      "url": "https://open.spotify.com/track/1ggx4wohd1La6vue2KyHK4"
+    },
+    {
+      "album": {
         "name": "Polychrome",
         "url": "https://open.spotify.com/album/0NdJ9dK8zavK2oB68fJFva"
       },
@@ -8136,7 +8198,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 179441,
       "name": "leavemealone - Nia Archives Remix",
       "url": "https://open.spotify.com/track/5tJGW8Wbfyb1TrRjMc8mCc"
@@ -8340,7 +8402,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 190344,
       "name": "Lightspeed",
       "url": "https://open.spotify.com/track/5cb2SwLzmjykYpU3VlHWei"
@@ -8596,6 +8658,32 @@
       "duration_ms": 206250,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/1WjP8YhhlrpDv8oL6ewp0X"
+    },
+    {
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7oxGGHmcPDXDWxnRnnoQCv"
+      },
+      "artists": [
+        {
+          "name": "The High",
+          "url": "https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z"
+        },
+        {
+          "name": "Helion",
+          "url": "https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA"
+        },
+        {
+          "name": "Lind",
+          "url": "https://open.spotify.com/artist/6ZQBXGkfsnDOQjTnb2lGMI"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137093,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/2gPlXEZuNmKwbS6GGcfsJ9"
     },
     {
       "album": {
@@ -9858,7 +9946,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 190344,
       "name": "one good reason",
       "url": "https://open.spotify.com/track/28m6u1EywxomZiKMGhfL9x"
@@ -10196,7 +10284,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 173335,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/3JdnT0f6cNTWld74AI3dR4"
@@ -10460,6 +10548,36 @@
       "duration_ms": 226677,
       "name": "places to be",
       "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
+    },
+    {
+      "album": {
+        "name": "places to be (remixes)",
+        "url": "https://open.spotify.com/album/4hDUVOHuFrWkucFwDMJmG5"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "CHIKA",
+          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+        },
+        {
+          "name": "CLIPZ",
+          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184164,
+      "name": "places to be - CLIPZ remix",
+      "url": "https://open.spotify.com/track/4FLpmfT9BSrdiO8ZWeoqsz"
     },
     {
       "album": {
@@ -10782,6 +10900,28 @@
       "duration_ms": 141349,
       "name": "q-edits #2",
       "url": "https://open.spotify.com/track/13YU8o2EdM9XZk8EU35YHQ"
+    },
+    {
+      "album": {
+        "name": "SUCCUBUS XXXTENDED",
+        "url": "https://open.spotify.com/album/6pbWoujpcmXhbyn2HU2UET"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        },
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199520,
+      "name": "QUICK LICK (TEQUILA Remix)",
+      "url": "https://open.spotify.com/track/0j3gAEzdaNCiv6cXzdY5gZ"
     },
     {
       "album": {
@@ -11992,7 +12132,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 179275,
       "name": "seethelight",
       "url": "https://open.spotify.com/track/5qIxlh4rXTlFH0mNhFtGPh"
@@ -13802,7 +13942,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 183548,
       "name": "Take You There",
       "url": "https://open.spotify.com/track/0RktjKyHm5GjiwQFQf6kOg"
@@ -15216,6 +15356,28 @@
       "duration_ms": 231733,
       "name": "Waiting (feat. Kelli-Leigh)",
       "url": "https://open.spotify.com/track/0AcuvNq4yAuLJ5SLeyYOFo"
+    },
+    {
+      "album": {
+        "name": "Waiting 4",
+        "url": "https://open.spotify.com/album/2ehsRb3TSGZnEJSwgWyr97"
+      },
+      "artists": [
+        {
+          "name": "MELVV",
+          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
+        },
+        {
+          "name": "demotapes",
+          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253846,
+      "name": "Waiting 4",
+      "url": "https://open.spotify.com/track/1ZsCvT8pvt0Ldrk1Qdrq7L"
     },
     {
       "album": {

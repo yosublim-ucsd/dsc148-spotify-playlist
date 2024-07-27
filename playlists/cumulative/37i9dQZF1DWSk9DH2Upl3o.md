@@ -2,9 +2,9 @@
 
 ### [Modern Jam Band](https://open.spotify.com/playlist/37i9dQZF1DWSk9DH2Upl3o)
 
-> The jam scene is alive and well\. Cover: SunSquabi
+> The jam scene is alive and well\. Cover: Kendall Street Company
 
-205 songs - 19 hr 10 min
+207 songs - 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Breathless](https://open.spotify.com/track/4f9U0iMBjmcBzguVEu2xaP) | [Shambala](https://open.spotify.com/artist/1wFNBQylnepwBAVoEcL7l8) | [Breathless](https://open.spotify.com/album/0pyhlYwLsvjX72hCOTSJHy) | 3:19 | 2023-06-02 |  |
 | [Burning the Hardwood Floor \(Live\)](https://open.spotify.com/track/1zgPMQXv5YtUUn5GA3njWj) | [Airshow](https://open.spotify.com/artist/2USLUiPGlv1amJy3gUszGw) | [Live 02.05.22 \(High Cotton Brewing Company \- Memphis, TN\)](https://open.spotify.com/album/068pAkEPmPbbaSTCfN8tef) | 8:49 | 2022-09-16 |  |
 | [Can't Cut the Mustard](https://open.spotify.com/track/7BUnS98zgtwP45KSpT3C61) | [Big Shrimp](https://open.spotify.com/artist/5KEqTbaf2sEinU5lkQpFkr) | [Baked Shrimp](https://open.spotify.com/album/54drhsF5JtrFOcaxlCshsa) | 3:46 | 2024-01-12 |  |
-| [Catz in Zeh Haus](https://open.spotify.com/track/1F0bzXvfc7p53oBLQGhO5v) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9), [Sauerkräut](https://open.spotify.com/artist/0dFUzAxzW46Mc4H4iHccEH) | [Catz in Zeh Haus](https://open.spotify.com/album/0HRZazuAQGSJiMfN3j5bD9) | 3:12 | 2024-06-28 |  |
+| [Catz in Zeh Haus](https://open.spotify.com/track/1F0bzXvfc7p53oBLQGhO5v) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9), [Sauerkräut](https://open.spotify.com/artist/0dFUzAxzW46Mc4H4iHccEH) | [Catz in Zeh Haus](https://open.spotify.com/album/0HRZazuAQGSJiMfN3j5bD9) | 3:12 | 2024-06-28 | 2024-07-27 |
 | [Chapanga](https://open.spotify.com/track/4h2SJ0PCKNa6y02KofNSIm) | [Cycles](https://open.spotify.com/artist/3VqGpoIhVcMCzMmIDHXPDS) | [Cycles](https://open.spotify.com/album/1XmsC5vZ8s9kLp0RqYHN3y) | 5:41 | 2022-06-23 | 2024-07-19 |
 | [Checkin' Out](https://open.spotify.com/track/7nMaNXGmnMW4Xr9MokbWAS) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Checkin' Out](https://open.spotify.com/album/7iwG1bDdGhmbiD5GHqDGCx) | 3:52 | 2024-03-29 | 2024-04-27 |
 | [Chop Suey](https://open.spotify.com/track/52D0hGXHrME17EQhCtYPn6) | [Baked Shrimp](https://open.spotify.com/artist/42xD9vzGvjNWAOwBa8eFk1) | [Chop Suey](https://open.spotify.com/album/7LZCNMm7U6K6NqX3P4ypQm) | 6:39 | 2023-06-30 | 2024-01-13 |
@@ -118,10 +118,11 @@
 | [Lily's Tiger](https://open.spotify.com/track/1wEt9nM5wq2U5RNuWBxnyA) | [Great Blue](https://open.spotify.com/artist/1LlkBNUOz29oWc0IeX0lXc) | [Great Blue](https://open.spotify.com/album/3EuzVI8uESnKwlOOdh4wr6) | 4:57 | 2022-06-23 |  |
 | [Livin' It Up](https://open.spotify.com/track/1Qm0MBLj93hLQMZOpNTQHB) | [Dizgo](https://open.spotify.com/artist/5yHeuBSsacgKk0X6fzDfHj) | [Melt](https://open.spotify.com/album/4Kr5LWl79sxFjdamzHjriN) | 8:00 | 2024-02-02 |  |
 | [Local on the 8s \(feat\. Michael Burton\)](https://open.spotify.com/track/4eT5B9NbyzsD74UCivbu71) | [YAM YAM](https://open.spotify.com/artist/2Y6yVzWTfqjVEMvwO4UX63), [Michael Burton](https://open.spotify.com/artist/3kNNAtVGx2tvZc6DEHOlE7) | [Local on the 8s \(feat\. Michael Burton\)](https://open.spotify.com/album/2ozVwGkTLNFtcNesGvkq67) | 5:40 | 2024-06-07 |  |
-| [Love Time](https://open.spotify.com/track/0zhxUyymPXhibLS5KSBIHa) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Love Time](https://open.spotify.com/album/3xHihhKLWryCfeGtWeN8VD) | 4:19 | 2024-03-01 |  |
+| [Love Time](https://open.spotify.com/track/0zhxUyymPXhibLS5KSBIHa) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Love Time](https://open.spotify.com/album/3xHihhKLWryCfeGtWeN8VD) | 4:19 | 2024-03-01 | 2024-07-27 |
 | [Madman's Eyes](https://open.spotify.com/track/3f9SxWf7WYKaYywYYejfk1) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Madman's Eyes](https://open.spotify.com/album/1Y8TRP3ChXq8q45QT65ecf) | 4:48 | 2023-01-27 | 2023-05-20 |
 | [Make That Booty Clap \(Must Be Jelly\)](https://open.spotify.com/track/0uzRJgu1yEtDgzffzo4PyN) | [Taylor Scott Band](https://open.spotify.com/artist/5XVKB8kFnLX5NLNMEwvIBe) | [Sorry, Kids](https://open.spotify.com/album/2RkP7plWT7JDYYNnoINWJp) | 4:19 | 2024-04-19 |  |
 | [Manipulation](https://open.spotify.com/track/7BTKnG9oqPnWN3kr32VQbd) | [Ian Nussdorfer](https://open.spotify.com/artist/1m5bYA72k4fjQjLJuTRMGz), [The Badlands](https://open.spotify.com/artist/0PR33ItZd7OWQZ16UrQJgs) | [Manipulation](https://open.spotify.com/album/1BQQqqygZgfMAp9nFBDUuQ) | 5:50 | 2024-07-19 |  |
+| [Marijuana Timewarp](https://open.spotify.com/track/6UpsSL0inheFm3dLdR6KNw) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Marijuana Timewarp](https://open.spotify.com/album/1TsvZiKqeIVfFZ0v27QydR) | 3:14 | 2024-07-26 |  |
 | [Mcmansion](https://open.spotify.com/track/3bFDEWT2lFhBMM6cxcBEGY) | [The Trichomes](https://open.spotify.com/artist/0Z7aFWvcTx8NhWRUfTInfz) | [Jazz Cabbage Soiree](https://open.spotify.com/album/1eBGpVUNZptUK32L7YG2XO) | 7:51 | 2022-06-23 |  |
 | [Mister Funky Daddy](https://open.spotify.com/track/0ZShF0uFfkoQThIySmDd5l) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Mister Funky Daddy](https://open.spotify.com/album/1n3DXIyRmvuv5RQ7G4EhdF) | 2:29 | 2024-04-26 | 2024-06-01 |
 | [Mokuba](https://open.spotify.com/track/58Ge6PmTc9PfP0mK5GC8Mk) | [TAUK](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Collisions](https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK) | 5:27 | 2022-06-23 | 2024-05-04 |
@@ -184,6 +185,7 @@
 | [The Wheel](https://open.spotify.com/track/1gQYm7VKVjc9ExTKVT409f) | [Plantasia](https://open.spotify.com/artist/7ahksytqjF7OhN0kFEZ2Du) | [The Wheel & The Witness](https://open.spotify.com/album/5ZXpDefilGS1vQOgV3P5vG) | 4:05 | 2022-10-07 |  |
 | [The World Is A Ghetto](https://open.spotify.com/track/184uLww2SrfPYRWs6RuyGN) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Native Sons](https://open.spotify.com/album/1uqu7aUJh1qONoGAI0Sd23) | 8:33 | 2022-07-01 | 2024-04-19 |
 | [The World Is A Ghetto](https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Native Sons](https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM) | 8:33 | 2022-06-23 |  |
+| [Thinkin Too Much](https://open.spotify.com/track/3Ni0RvUDrbVRnknFdscMib) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Thinkin Too Much](https://open.spotify.com/album/5cUrAPzCHF1uQaqW1ks1du) | 3:09 | 2024-07-26 |  |
 | [Three Weeks](https://open.spotify.com/track/0WwN4zHEMtGrijkO0pKYGC) | [Perpetual Groove](https://open.spotify.com/artist/5Y5Qltdor4sw3O8NnFw5pO) | [Sweet Oblivious Antidote \(20th Anniversary Edition\)](https://open.spotify.com/album/3OhE9B8UK6UOxlZGizEdmh) | 9:27 | 2023-01-27 | 2024-03-16 |
 | [Three Weeks](https://open.spotify.com/track/7wEAZ6TrgpRhPdhCI1xNCj) | [Perpetual Groove](https://open.spotify.com/artist/5Y5Qltdor4sw3O8NnFw5pO) | [Sweet Oblivious Antidote \(20th Anniversary Edition\)](https://open.spotify.com/album/1IUhgiuzNK67WSrNqt1QCt) | 9:27 | 2023-01-20 | 2023-04-30 |
 | [Tightrope](https://open.spotify.com/track/5IbvaLaCWy2Oixk3AqEETp) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Tightrope](https://open.spotify.com/album/64IH5rpfXEoBmtsi6PiHEA) | 8:14 | 2023-07-28 | 2023-09-23 |

@@ -4,7 +4,7 @@
 
 > ¡Mujeres mexicanas a todo volumen! Nuestra embajadora Girl Ultra en portada.
 
-1,075 songs - 2 day 10 hr 56 min
+1,080 songs - 2 day 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [All Inclusive](https://open.spotify.com/track/3RRVyOLUHTqPfCKr03Gdhm) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [All Inclusive](https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI) | 2:35 | 2022-05-04 | 2022-06-01 |
 | [Alma Mía](https://open.spotify.com/track/0dNAzbBK5iT8zFJpvOi0G8) | [Roxhann](https://open.spotify.com/artist/3oXliwkvziPCtYdYvONWiE) | [Alma Mía](https://open.spotify.com/album/7FCYE6NTd13B0HPb6Bxh38) | 3:04 | 2022-10-05 | 2022-11-03 |
 | [Aloha](https://open.spotify.com/track/7u4ECMwlGz2H7kc8r3EvRN) | [GRECIA](https://open.spotify.com/artist/38R1cYS63phBu2ZIsOinxw) | [Aloha](https://open.spotify.com/album/1n9qhPuxCqXD7X1dA5nQox) | 2:50 | 2022-01-05 | 2022-02-03 |
+| [ALV](https://open.spotify.com/track/0czJDMboe5qf9NTHisp6kO) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [ALV](https://open.spotify.com/album/79NYLb4A4a1OwBRbLAsyfk) | 3:37 | 2024-07-26 |  |
 | [Alzando Velas](https://open.spotify.com/track/1l4r5Dck62GCAVu6RN6iCr) | [Maena](https://open.spotify.com/artist/4I0Qc20Ta3CCnZRkTl5EgM) | [Alzando Velas](https://open.spotify.com/album/4RzJQv4zuyi4aPGtriNnpR) | 3:26 | 2023-05-03 | 2023-06-08 |
 | [Alzheimer](https://open.spotify.com/track/470PVchLWfsqc9qmnMNONf) | [Reno Rojas](https://open.spotify.com/artist/4mGO2uRAEuv4onp3PYNZ0l) | [Alzheimer](https://open.spotify.com/album/64n4dtRiKhTgRvkfYOMWCX) | 3:38 | 2023-04-05 | 2023-05-04 |
 | [aléjate](https://open.spotify.com/track/3RISo2rtfebbCpqcpkw1ed) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT), [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1) | [aléjate](https://open.spotify.com/album/3gBfx1SxYhN0XIxZKe9d65) | 2:12 | 2023-07-05 | 2023-08-03 |
@@ -144,6 +145,7 @@
 | [Brota](https://open.spotify.com/track/3LW7vzCmnTQVIT7vETuJXH) | [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i) | [Agüita Clara](https://open.spotify.com/album/6M4voExg7zOpUno2SLugdE) | 2:29 | 2023-05-03 | 2023-06-08 |
 | [bubble gum](https://open.spotify.com/track/2MWaS0ko4ABFXulETnZ3m4) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [bubble gum](https://open.spotify.com/album/67uEROQSX8obMBPZkuhMaw) | 3:30 | 2024-04-03 | 2024-05-02 |
 | [Busca un Problema](https://open.spotify.com/track/3ggIodbB9WabPBI5HfScgC) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Natalia Lafourcade](https://open.spotify.com/album/2NHUkx5kUzp2r2laL2fonJ) | 3:06 | 2024-07-03 |  |
+| [Butterfly](https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Butterfly](https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV) | 3:13 | 2024-07-26 |  |
 | [Bésame Lento](https://open.spotify.com/track/2b1z1Z44zzakWfqTycS1rL) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T) | [Bésame Lento](https://open.spotify.com/album/5AF3raSCoWij16qck0msSm) | 3:58 | 2022-11-02 | 2022-12-01 |
 | [C'est Pas Moi](https://open.spotify.com/track/1YIjej0CUTyxjZiGuHhkLg) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Petite Amie](https://open.spotify.com/album/28TqzlvN2K0te8ssOfwnLu) | 3:26 | 2022-02-02 | 2022-03-04 |
 | [C'est Pas Moi](https://open.spotify.com/track/3ACO1KEw9UqlHQOvJ2DeHs) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Petite Amie](https://open.spotify.com/album/1lVmQ8Kz0ORsjDIqOilw9O) | 3:26 | 2022-08-03 | 2022-09-09 |
@@ -328,6 +330,7 @@
 | [EL FINAL](https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [EL FINAL](https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00) | 3:52 | 2023-06-07 | 2024-04-04 |
 | [El lugar correcto](https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 3:51 | 2023-07-05 | 2023-08-03 |
 | [El Mariachi De Mi Tierra](https://open.spotify.com/track/6Zthc98ixSEJ32nLL0qSvX) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [La Tequilera](https://open.spotify.com/album/50XbFB3lQMqowfYDcotQC0) | 2:46 | 2023-10-04 | 2023-11-09 |
+| [El Muchacho De Los Ojos Tristes](https://open.spotify.com/track/2xylHY11vfS4dxGmQC7J3i) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [El Muchacho De Los Ojos Tristes](https://open.spotify.com/album/3P2c9Akr55Z2L6BBKN5zZ8) | 4:25 | 2024-07-26 |  |
 | [El pájaro carpintero](https://open.spotify.com/track/2HYfWUn4lfU3VQpFZH4ZU2) | [La Calandria](https://open.spotify.com/artist/78YUE4qwEpkFXtv2xzm0S3) | [La Calandria](https://open.spotify.com/album/6bu3G4sXMlaSvnLmBa7ag9) | 4:48 | 2022-10-05 | 2022-11-03 |
 | [El Privilegio De Amar](https://open.spotify.com/track/0q3pN2pHNjO0iKEh6HzAD3) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [20y20](https://open.spotify.com/album/0VuTNqGbPxCwChqyA7Bv2T) | 3:58 | 2024-06-05 | 2024-07-04 |
 | [El Sismo De Tu Adiós](https://open.spotify.com/track/3J5VnDg3TK42MiTu2Ox53d) | [Irina Indigo](https://open.spotify.com/artist/6nrVCdLHgAsTAOg0IxMqFY) | [El Sismo De Tu Adiós](https://open.spotify.com/album/2nM5qU2Mn8U4zcP0YfYehM) | 3:44 | 2023-03-01 | 2023-04-06 |
@@ -470,6 +473,7 @@
 | [Konecta](https://open.spotify.com/track/6qjXl7uFzngrqY5qED1quu) | [KOKÔ CECÊ](https://open.spotify.com/artist/4MAPWlyF0tOgw8djPFLU9V) | [Konecta](https://open.spotify.com/album/28CaUcAl152WhXaNJ8MvjX) | 2:22 | 2022-07-06 | 2022-08-04 |
 | [Krippy](https://open.spotify.com/track/0RZOhM97YHBM9RuZEL7EEG) | [Muzza](https://open.spotify.com/artist/3b59IpUCZ1ZajuAelar4WI), [Tblmkr](https://open.spotify.com/artist/0fXZ2OnhOjJk4dcXNlQ7QT) | [Krippy](https://open.spotify.com/album/2sZqpPzelQNn9GbYREDYXB) | 3:02 | 2023-02-01 | 2023-03-02 |
 | [KRMA](https://open.spotify.com/track/4okYg73pQX4BWiarAKE6Nz) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [KRMA](https://open.spotify.com/album/0TuPGs0QmDGRWWkg4woomQ) | 2:40 | 2022-01-05 | 2022-04-07 |
+| [Ké MaL](https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ké MaL](https://open.spotify.com/album/2GHyrL2mwHWmw1vmQfCrNv) | 3:08 | 2024-07-26 |  |
 | [La Bruja](https://open.spotify.com/track/5NCDaujx0xKLSuGci8qPIV) | [Musas Ensamble de Arpas](https://open.spotify.com/artist/6cHMCy1zPbtTZe62e3nUUg) | [Tierra Latinoamericana](https://open.spotify.com/album/3hdqh8Yu6z74A8SCVR71la) | 3:00 | 2022-10-05 | 2022-11-03 |
 | [la calle](https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [la calle](https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq) | 4:03 | 2024-03-11 | 2024-04-04 |
 | [La Casa de A](https://open.spotify.com/track/6xtphuj19xftkTUHDZ4sFH) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Prender un Fuego](https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3) | 3:16 | 2022-08-03 | 2022-09-09 |
@@ -604,6 +608,7 @@
 | [Mi Barrera](https://open.spotify.com/track/3w3P8EaUgqvvNWSW6eM8eo) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [Mi Barrera](https://open.spotify.com/album/4nJeCNwmwEOwIcEj55xaF9) | 3:17 | 2023-09-06 | 2023-10-05 |
 | [Mi Buen Amor](https://open.spotify.com/track/28UP90XhjCovLtieduYr9P) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 3:47 | 2023-08-02 | 2023-09-07 |
 | [Mi Caprichito \(feat\. María León\)](https://open.spotify.com/track/1HGmUV6Oq9cLbaSoVyZQVg) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc) | [La Fiesta Continúa](https://open.spotify.com/album/6ARm9afMHyzlG7zN20ECFQ) | 3:14 | 2022-07-06 | 2022-08-04 |
+| [Mi Casita](https://open.spotify.com/track/7DwZmTFwaW6IExAyeGDKQ3) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Mi Casita](https://open.spotify.com/album/6OlLFigu7as8Cee3dKyfpz) | 2:39 | 2024-07-26 |  |
 | [Mi Cumbia](https://open.spotify.com/track/6opYzmDIzG3uGln1BM2MtT) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Mi Cumbia](https://open.spotify.com/album/2Mjka8OhoXINOkGI6zglhU) | 3:27 | 2022-10-05 | 2022-11-03 |
 | [Mi error, mi fantasía](https://open.spotify.com/track/4fQgdmcUMqmlhhSjQdMHTE) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a ti](https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk) | 3:48 | 2023-08-02 | 2023-09-07 |
 | [Mi Gran Dolor](https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Mi Gran Dolor](https://open.spotify.com/album/62iKnAAlp6vwalTBkRCC3Y) | 4:14 | 2023-05-03 | 2023-06-08 |

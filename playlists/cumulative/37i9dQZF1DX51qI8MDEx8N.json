@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Above Dreams",
+        "url": "https://open.spotify.com/album/2DW3dtqIUwaFRcmknepyzU"
+      },
+      "artists": [
+        {
+          "name": "Les Moray",
+          "url": "https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173042,
+      "name": "Above Dreams",
+      "url": "https://open.spotify.com/track/68tLru9UCCitsnlSKcfh9f"
+    },
+    {
+      "album": {
         "name": "Akeleie",
         "url": "https://open.spotify.com/album/4wuBcYPsziuMtuafKDpDlP"
       },
@@ -200,6 +218,24 @@
       "duration_ms": 139663,
       "name": "Avenues",
       "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
+    },
+    {
+      "album": {
+        "name": "Avignon",
+        "url": "https://open.spotify.com/album/3McxyA2RxYVWvjDOBMrM9a"
+      },
+      "artists": [
+        {
+          "name": "Oscar Latreux",
+          "url": "https://open.spotify.com/artist/3sdfC805aK4OSRQ5YdlDLK"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150950,
+      "name": "Avignon",
+      "url": "https://open.spotify.com/track/4QtIR11IW8W62Fl6J1gXpB"
     },
     {
       "album": {
@@ -2432,6 +2468,24 @@
       "duration_ms": 134750,
       "name": "Sleeping at last",
       "url": "https://open.spotify.com/track/1ri9OTTCvGn1yMlDiqAdFS"
+    },
+    {
+      "album": {
+        "name": "Slowdive",
+        "url": "https://open.spotify.com/album/3kZgD5YMFeOpGlF39LD9VM"
+      },
+      "artists": [
+        {
+          "name": "Jane Avril",
+          "url": "https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170423,
+      "name": "Slowdive",
+      "url": "https://open.spotify.com/track/2zqiro2tpHZkYVrtdMQAVn"
     },
     {
       "album": {

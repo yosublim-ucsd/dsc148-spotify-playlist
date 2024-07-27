@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: BRADD",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: LIU KOI",
   "name": "The Sound of Formosa",
   "tracks": [
+    {
+      "album": {
+        "name": "10 out of 10",
+        "url": "https://open.spotify.com/album/6MVYiE2oxVEPBVTrG9xo9D"
+      },
+      "artists": [
+        {
+          "name": "LIU KOI",
+          "url": "https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE"
+        },
+        {
+          "name": "reina",
+          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177525,
+      "name": "10 out of 10",
+      "url": "https://open.spotify.com/track/3fTpEVNXla3OEavoAqXmF0"
+    },
     {
       "album": {
         "name": "1000 YEARS (\u5343\u5e74)",
@@ -840,7 +862,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 161694,
       "name": "Face Down (Hands Up)",
       "url": "https://open.spotify.com/track/1yt4lFQALSV3rqKM9x9nIv"
@@ -956,7 +978,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 253095,
       "name": "Fortune Cookie",
       "url": "https://open.spotify.com/track/2DEcavRxaAOuEgVcgcNaJ0"
@@ -1084,6 +1106,24 @@
       "duration_ms": 130917,
       "name": "GOOD LOOKING",
       "url": "https://open.spotify.com/track/2mEk627nf8k8K7zTBYy6XI"
+    },
+    {
+      "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/6KZHWUwwE3B8pJM1x893Od"
+      },
+      "artists": [
+        {
+          "name": "\u4ee4\u6674 Lynn",
+          "url": "https://open.spotify.com/artist/6HOJVenVuukRx2b6jTZtQk"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/64ENqFGrKC4k1d6CTeX0G4"
     },
     {
       "album": {
@@ -2127,6 +2167,24 @@
     },
     {
       "album": {
+        "name": "Pink Lamborghini",
+        "url": "https://open.spotify.com/album/0dRH1ks7puz9YEABo86j0c"
+      },
+      "artists": [
+        {
+          "name": "BAER",
+          "url": "https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137468,
+      "name": "Pink Lamborghini",
+      "url": "https://open.spotify.com/track/5nSu2pNBi44MIGTs6h7S78"
+    },
+    {
+      "album": {
         "name": "Pretense",
         "url": "https://open.spotify.com/album/64Ucc9nGoY5gpfh86alRVm"
       },
@@ -2995,6 +3053,24 @@
     },
     {
       "album": {
+        "name": "Truffle Fries",
+        "url": "https://open.spotify.com/album/3dfdeVC6jw2RwevOfunlPk"
+      },
+      "artists": [
+        {
+          "name": "June Pan",
+          "url": "https://open.spotify.com/artist/0p5LfbnKvdqRqZ9u5Nk0S3"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222321,
+      "name": "Truffle Fries",
+      "url": "https://open.spotify.com/track/7d2kJL5bRwgfEQU2soFUdX"
+    },
+    {
+      "album": {
         "name": "trust me",
         "url": "https://open.spotify.com/album/0JmIdIzZcTUgyu0AbF5O45"
       },
@@ -3192,7 +3268,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 257286,
       "name": "Young Man",
       "url": "https://open.spotify.com/track/02cOOZKta4qE4Qv9BusfOQ"
@@ -3940,7 +4016,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 266002,
       "name": "\u6c38\u9060 (feat. Norio)",
       "url": "https://open.spotify.com/track/2vMsqshNbPC3ksiSTnwtpT"

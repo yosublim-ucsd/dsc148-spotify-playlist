@@ -2114,7 +2114,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 162585,
       "name": "Dama de Vermelho",
       "url": "https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE"
@@ -2856,7 +2856,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 145920,
       "name": "Ela Jura Que Sabe",
       "url": "https://open.spotify.com/track/50ofxPTUg6VlLtNjnsRAYH"
@@ -3900,6 +3900,24 @@
       "duration_ms": 168205,
       "name": "Gorila",
       "url": "https://open.spotify.com/track/1BEEbbgY0Y6rU29QdDhERR"
+    },
+    {
+      "album": {
+        "name": "GLUVTRON: EXPER X",
+        "url": "https://open.spotify.com/album/4QsT1o0lD8ale3RKm7WXIk"
+      },
+      "artists": [
+        {
+          "name": "Big Rush",
+          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129075,
+      "name": "GPT",
+      "url": "https://open.spotify.com/track/0K52RO4kglf44kTKRIOnN2"
     },
     {
       "album": {
@@ -6050,6 +6068,28 @@
       "duration_ms": 132413,
       "name": "Minha Hist\u00f3ria (As Respostas)",
       "url": "https://open.spotify.com/track/3KCozDZaYfEAved8Uofo1Y"
+    },
+    {
+      "album": {
+        "name": "Mist\u00e9rios",
+        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136695,
+      "name": "Mist\u00e9rios",
+      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
     },
     {
       "album": {

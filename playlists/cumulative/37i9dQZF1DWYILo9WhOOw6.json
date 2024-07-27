@@ -880,7 +880,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 162763,
       "name": "Delta Dreamer 81 Hz - 83 Hz",
       "url": "https://open.spotify.com/track/5NM2SYgG0a0lbOSubI1Vl5"
@@ -934,7 +934,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 170408,
       "name": "Delta Flow 108Hz - 111Hz",
       "url": "https://open.spotify.com/track/4b6B97mdO3KjViKcgrlMQw"
@@ -1821,6 +1821,24 @@
     },
     {
       "album": {
+        "name": "Forever Care Delta 59-63hz",
+        "url": "https://open.spotify.com/album/2xTqxqnZxHsYYN4ZMDY9Ng"
+      },
+      "artists": [
+        {
+          "name": "Dream State",
+          "url": "https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168571,
+      "name": "Forever Care Delta 59-63hz",
+      "url": "https://open.spotify.com/track/4DNSv2RHAHDHcOchbU2qRW"
+    },
+    {
+      "album": {
         "name": "Theta Aum",
         "url": "https://open.spotify.com/album/1CIuo5ZK4G1l1DAQzRviit"
       },
@@ -2214,6 +2232,24 @@
       "duration_ms": 129307,
       "name": "Sleep with Peace",
       "url": "https://open.spotify.com/track/6ZrQJUmZV9Zzd4sGifErEj"
+    },
+    {
+      "album": {
+        "name": "Slo Delta 54.9 Hz-55.1 Hz",
+        "url": "https://open.spotify.com/album/5N2FiYNjnW30HSvXooHsZY"
+      },
+      "artists": [
+        {
+          "name": "Earthbound",
+          "url": "https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Slo Delta 54.9 Hz-55.1 Hz",
+      "url": "https://open.spotify.com/track/0Y6ubSpr5MO8aaJl7ObDKA"
     },
     {
       "album": {

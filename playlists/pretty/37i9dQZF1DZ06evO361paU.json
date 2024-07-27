@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 264734,
+  "num_followers": 264986,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zp7ygAAAAAAB+pGSVQ/EkZJdQ4YU1vF5",
+  "snapshot_id": "ZqLnAAAAAABBK1tVYJtBL0yFvtYvZzOd",
   "tracks": [
     {
       "added_at": null,
@@ -835,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baptism",
+        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 214653,
+      "name": "Minister Of Rock 'N Roll",
+      "url": "https://open.spotify.com/track/0pafggX0BBzTFibjc9VeL7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Road to Freedom (from the Netflix Film \"Rustin\")",
         "url": "https://open.spotify.com/album/5pUwSUomYfyu78kyRIlfmN"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 220213,
       "name": "Road to Freedom (from the Netflix Film \"Rustin\")",
       "url": "https://open.spotify.com/track/1UavIKO5QdLEW5qMQLBmmk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Raise Vibration",
-        "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 280293,
-      "name": "We Can Get It All Together",
-      "url": "https://open.spotify.com/track/4VCvcqaN8JZUtArycNezHm"
     }
   ],
   "unique_name": "This Is Lenny Kravitz",

@@ -2,9 +2,9 @@
 
 ### [Mood Ring ](https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3)
 
-> This is R&B in Canada, elevate your aura with Tia Wood.
+> This is R&B in Canada, elevate your aura with Dylan Sinclair.
 
-1,103 songs - 2 day 9 hr 58 min
+1,107 songs - 2 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,7 @@
 | [GREENLIGHT](https://open.spotify.com/track/55wukDqh7RY770ebt0EAif) | [wavyakz](https://open.spotify.com/artist/7CxjmcnsxK4d7j09wyUNDj) | [GREENLIGHT](https://open.spotify.com/album/2AfewMlrsvFicTdGkDgrhM) | 3:01 | 2022-07-29 | 2022-08-13 |
 | [GTC \(live from my stoop\)](https://open.spotify.com/track/70WqUVvwo39mmW1KNiK050) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Close to the Sun](https://open.spotify.com/album/2wDvlPsHlBWITcHubQ0NZk) | 5:12 | 2023-06-02 | 2023-07-15 |
 | [Gucci, Chanel](https://open.spotify.com/track/15HDG2RFHASg5citb8CGqN) | [Réejo](https://open.spotify.com/artist/0NATGrD6MxqX3q23GqnW0k) | [Gucci, Chanel](https://open.spotify.com/album/0qoC5fTTM48wh4MSzAsFgY) | 2:13 | 2022-03-11 | 2022-04-23 |
+| [Guilty](https://open.spotify.com/track/6m1J8D9SGvfOxpA3RC3bD6) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Guilty](https://open.spotify.com/album/7LuYrvLkdzxHarZHNFLvYq) | 2:51 | 2024-07-26 |  |
 | [Half Empty](https://open.spotify.com/track/5P9r8VUZIn92AsTqe95nbW) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Half Empty](https://open.spotify.com/album/1RRvzs9YEYGWCunuLpZ3gH) | 3:24 | 2022-05-27 | 2022-08-06 |
 | [Hands Tied](https://open.spotify.com/track/6FTtvuPD4Xas3Oj7XJFf3C) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Hands Tied](https://open.spotify.com/album/7zrXcg8W9t7yNBQopdBFw3) | 5:43 | 2023-10-06 | 2023-11-18 |
 | [HANGING WITH YOU](https://open.spotify.com/track/2Fj4zjw9tV9NY1wWq0bAKN) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [HANGING WITH YOU](https://open.spotify.com/album/5HDraXX5eNcpYzNcyVyykH) | 3:50 | 2023-07-14 | 2024-01-13 |
@@ -436,6 +437,7 @@
 | [I Don't Love You](https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [I Don't Love You](https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n) | 4:11 | 2024-02-23 | 2024-03-30 |
 | [I Feel Good](https://open.spotify.com/track/4fv2pZ3RZS0iZlFtfiXvQQ) | [Teebee](https://open.spotify.com/artist/4aNxKsHJPOLxJS6uTsdW5t) | [I Feel Good](https://open.spotify.com/album/2XkpeftvnTgKcHdoAZIxxM) | 3:32 | 2023-04-21 | 2023-05-13 |
 | [i know you know](https://open.spotify.com/track/7IU4F6KiGpjwy5cEBKof8L) | [CHSKA](https://open.spotify.com/artist/6d7pgUDWxX9NiHobwGg1NB) | [i know you know](https://open.spotify.com/album/4k74ZuiE1LHukoVXgOztv1) | 4:24 | 2022-12-30 | 2023-07-22 |
+| [I LO<3 MY EX](https://open.spotify.com/track/375yP07IehIfCK16Ba4bne) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [I LO<3 MY EX](https://open.spotify.com/album/5qvwNc0eA0wUE1q5K3F0vK) | 2:50 | 2024-07-26 |  |
 | [I Love Being Invisible](https://open.spotify.com/track/41soii7TsX2M2AIAAOsNh5) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [I Love Being Invisible](https://open.spotify.com/album/1AQByoYFbZI7v8YNGquSfI) | 3:01 | 2023-02-17 | 2023-05-06 |
 | [I Think I Do](https://open.spotify.com/track/1jKaIiSWLMo5et7jK7C3XI) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [I Think I Do](https://open.spotify.com/album/6OHRYCn9KlMjlaMtIzkrya) | 2:22 | 2022-10-14 | 2022-11-05 |
 | [I thought](https://open.spotify.com/track/4yuQLTlJk0b4okaYvEFjeU) | [Mileena](https://open.spotify.com/artist/3zMmBYE6UVHfnURPeagEZu) | [I thought](https://open.spotify.com/album/5UlcRRyhTgtbZfts7gfeoO) | 2:51 | 2023-02-10 | 2023-05-06 |
@@ -527,7 +529,7 @@
 | [Leg Over](https://open.spotify.com/track/6xLhCZQD15AsrgOC0yUgDP) | [Slxm](https://open.spotify.com/artist/5qbuitLWN3ub1pmJAvrCJO) | [Leg Over](https://open.spotify.com/album/7m7PH7cTGQPFM2sxVzBbry) | 2:51 | 2022-03-25 | 2022-04-16 |
 | [LEGENDS](https://open.spotify.com/track/032oUMA2dBNHRdok1erlDq) | [J\-Soul](https://open.spotify.com/artist/04QcyYLTjG43lmp2ETdMB8) | [LEGENDS](https://open.spotify.com/album/5YAOaFShjhMc8NV0GlLfxH) | 2:21 | 2022-11-25 | 2023-01-14 |
 | [LEMON AND LIME](https://open.spotify.com/track/2BJTNiugSpTGTbesQL4FL9) | [EverythingOShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03), [Private Name Private Number](https://open.spotify.com/artist/6c9dagfe5XNuF6fwFRXu3A) | [LEMON AND LIME](https://open.spotify.com/album/0whU3bEkOkUIjQmc3Pkran) | 2:48 | 2023-06-02 | 2023-10-21 |
-| [LEMON TREES](https://open.spotify.com/track/3P4nm6VN7ZHA8Xbd4KGkIk) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [LEMON TREES](https://open.spotify.com/album/5doYyd0IKAUbUtrYL6DGOV) | 2:31 | 2024-06-14 |  |
+| [LEMON TREES](https://open.spotify.com/track/3P4nm6VN7ZHA8Xbd4KGkIk) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [LEMON TREES](https://open.spotify.com/album/5doYyd0IKAUbUtrYL6DGOV) | 2:31 | 2024-06-14 | 2024-07-27 |
 | [Lemon Water](https://open.spotify.com/track/3GzSUcBazsbwPptbhP40dm) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [Lemon Water](https://open.spotify.com/album/0xmNvYo6N9kBq9gjm25QT2) | 4:03 | 2023-10-20 | 2024-04-13 |
 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-02-10 | 2023-04-09 |
 | [Let Me Go](https://open.spotify.com/track/3KSy31qPrTqOcPXnebceQN) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Let Me Go](https://open.spotify.com/album/27csXPVTW3PLguY6vbGoH7) | 2:20 | 2024-04-19 |  |
@@ -623,6 +625,7 @@
 | [More Than Anything](https://open.spotify.com/track/5X57YbtIeVPhJTXENLd1No) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Pretty Conversation](https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U) | 2:20 | 2023-09-01 | 2023-09-09 |
 | [More Than Anything](https://open.spotify.com/track/5kH7SG2iopdPgXXZxvx6Lq) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [More Than Anything](https://open.spotify.com/album/0S2x2CE6zEix5dwvEmJ1sV) | 2:20 | 2023-08-18 | 2023-09-08 |
 | [more than i should \(feat\. jessie reyez\)](https://open.spotify.com/track/20jLHaXVhMFjwHs1JPjL4S) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:20 | 2022-04-29 | 2022-12-17 |
+| [Most Wanted](https://open.spotify.com/track/3ol70ZGonP9HTEQSKhZYcY) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Most Wanted](https://open.spotify.com/album/4dMG65PpEgLhnAKMGbi2ge) | 2:43 | 2024-07-26 |  |
 | [Motions](https://open.spotify.com/track/4UBrxx5aLbYQWCe5xoCKxv) | [NIKKAELA](https://open.spotify.com/artist/4Ma1JK6XCfsToze3H3Ln0n) | [Motions](https://open.spotify.com/album/5eHfN9gO1KxcD2ttE9MufL) | 2:31 | 2023-01-27 | 2023-06-03 |
 | [Move On](https://open.spotify.com/track/4FoGNyJaWEY5g4N0AHBM3K) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Move On](https://open.spotify.com/album/5kK0N3M1FTlqaTM6mCPKyd) | 3:38 | 2022-02-18 | 2022-06-11 |
 | [Move On](https://open.spotify.com/track/425si38coSSNsnT4OORmnh) | [UNA MIA](https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0) | [Move On](https://open.spotify.com/album/2uNV58dC9KyhQBmRuj1IrV) | 3:44 | 2024-05-31 | 2024-06-29 |
@@ -812,6 +815,7 @@
 | [Runnin](https://open.spotify.com/track/3srMBy9bUmxBMsXnMW298Z) | [Ben Dadoun](https://open.spotify.com/artist/3BS9OLvXhHGUZ6G5RormDD), [Jackson Welchner](https://open.spotify.com/artist/1erW4LJFwj2DR3g6uEmqmg), [Justin Juan](https://open.spotify.com/artist/47618gr5OEFj5KfKIOWYxG), [Connor Lum](https://open.spotify.com/artist/4nlPsFMpj6u7gC8YcPNZ9M) | [Runnin](https://open.spotify.com/album/296hZxkmHp0rxdiyEJtWC9) | 2:51 | 2023-06-02 | 2023-06-17 |
 | [Runnin' From Love](https://open.spotify.com/track/31vDbm2LeyHQ5oLp3OVi3d) | [Nicole Chambers](https://open.spotify.com/artist/5kvxSGkZcVesEX2mqw0AtC), [Leila Dey](https://open.spotify.com/artist/5Nyjyy5Wsv0advrO01KvUp) | [Runnin' From Love](https://open.spotify.com/album/3ae0Xmg11mBhowhJHh7X0y) | 3:24 | 2022-11-18 | 2023-03-18 |
 | [Running Loose](https://open.spotify.com/track/7gIsweU9wPiX525caZVglz) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Running Loose](https://open.spotify.com/album/4GOqt9sG3DojO5Zgv3x3uH) | 4:20 | 2023-02-03 | 2023-04-15 |
+| [S'CAPTER](https://open.spotify.com/track/4sXlVea4xm9kfDZkxzOPjq) | [MADRiiNA](https://open.spotify.com/artist/71hlGt1GyQq0HOXC12ZGQ7) | [S'CAPTER](https://open.spotify.com/album/0Qxi8CZ2UYRMmuV5bGcUcT) | 3:07 | 2024-07-26 |  |
 | [Sacrifice](https://open.spotify.com/track/0ebZQ0Oz7FToua8ydU92CW) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Sacrifice](https://open.spotify.com/album/31igSerGxvettqWnhH0IsC) | 4:15 | 2022-11-18 | 2023-01-06 |
 | [Sail](https://open.spotify.com/track/26mrUHchbcgiCahub27gZY) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [Sail](https://open.spotify.com/album/6QyzYTkLfUpToqNDd8SpSm) | 2:28 | 2023-06-02 | 2023-09-09 |
 | [Same Old Mistake](https://open.spotify.com/track/0esji3PRFprTRKNAP5OASW) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Same Old Mistake](https://open.spotify.com/album/6vjaaocW1oiMF3DYwV0CRQ) | 3:15 | 2022-02-18 | 2022-04-02 |
@@ -1020,7 +1024,7 @@
 | [U & I](https://open.spotify.com/track/2Y7vm5KiCXERuJ0iTT9Cok) | [RIZ](https://open.spotify.com/artist/0jqnXN5T2fcibfVJOY1G3N) | [U & I](https://open.spotify.com/album/5a2s9ithAdnKaFNNKqjQhk) | 2:45 | 2024-03-22 | 2024-06-22 |
 | [Un Deseo](https://open.spotify.com/track/4zlMMRcUgQ8sesr4fHRJod) | [Diego Mar](https://open.spotify.com/artist/3BqqJgpiJQ1ILbzqOvFJlw), [Daniela Videla](https://open.spotify.com/artist/6Hz7fYtyLaVlDZ0Sg9lwMM) | [Un Deseo](https://open.spotify.com/album/4wjBpkyTiULQRULyqFrwKs) | 3:06 | 2022-02-18 | 2022-02-26 |
 | [Unavailable](https://open.spotify.com/track/209DAoMEbdSb871SThWd7S) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [You Don't Understand](https://open.spotify.com/album/0QwBq75ljzkUJjO6qcNAVK) | 2:10 | 2022-10-21 | 2023-07-22 |
-| [Unbothered](https://open.spotify.com/track/70KneIyETnRCR0bUwKSjwz) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Unbothered](https://open.spotify.com/album/0HM5xmkTOEzur0wayhKqae) | 3:06 | 2024-06-14 |  |
+| [Unbothered](https://open.spotify.com/track/70KneIyETnRCR0bUwKSjwz) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Unbothered](https://open.spotify.com/album/0HM5xmkTOEzur0wayhKqae) | 3:06 | 2024-06-14 | 2024-07-27 |
 | [Unbreakable](https://open.spotify.com/track/3mQmuCyvzPmfxiLXggUgBY) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [Unbreakable](https://open.spotify.com/album/0T1etrAWsXnW1q84XgtaDT) | 3:45 | 2023-11-10 | 2024-03-02 |
 | [uni](https://open.spotify.com/track/3zMZ4ymzVVzRCFpcKpBM6M) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [uni](https://open.spotify.com/album/7rrvVm50jHKqjQ8wbjFRsm) | 2:48 | 2022-11-25 | 2023-02-04 |
 | [Uninvited](https://open.spotify.com/track/6APG5ziIQRDzSqhlPF21Vp) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Uninvited](https://open.spotify.com/album/111pekaVo1SSrdFgxFbLuW) | 2:48 | 2022-11-18 | 2022-12-03 |

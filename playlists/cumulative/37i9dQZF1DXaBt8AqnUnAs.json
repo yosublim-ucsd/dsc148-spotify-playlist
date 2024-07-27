@@ -2500,7 +2500,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 117583,
       "name": "Cora\u00e7\u00e3o Inseguro",
       "url": "https://open.spotify.com/track/2cygOuSobTWln1yC90aeSR"
@@ -2810,7 +2810,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 173192,
       "name": "DELINEADO",
       "url": "https://open.spotify.com/track/2CJQjO1SZDNAM2GN6BxWiP"
@@ -7300,7 +7300,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 147455,
       "name": "Minha Kalica",
       "url": "https://open.spotify.com/track/2kwfuHsYPnjRyoJniylriA"
@@ -7658,7 +7658,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 132922,
       "name": "M\u00e1quina Alem\u00e3",
       "url": "https://open.spotify.com/track/6Zjx3pXVwCCXSs6aFEWBVR"
@@ -8825,6 +8825,32 @@
     },
     {
       "album": {
+        "name": "Amores e Desamores",
+        "url": "https://open.spotify.com/album/0cWZCLxXjWSdyWIg53pQoH"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00edssa Real",
+          "url": "https://open.spotify.com/artist/17SKZag0ny1UYaeuEJdyqk"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        },
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Outra vibe",
+      "url": "https://open.spotify.com/track/2zpEHeQAzo4Q9ZCn0Gy4TR"
+    },
+    {
+      "album": {
         "name": "Outro Dia",
         "url": "https://open.spotify.com/album/4OpLG18GdHYN3FamTxiP5o"
       },
@@ -9620,6 +9646,28 @@
       "duration_ms": 197007,
       "name": "Por Acaso",
       "url": "https://open.spotify.com/track/7F9CppbXgjEV1dSaOwg497"
+    },
+    {
+      "album": {
+        "name": "Por Que D\u00f3i?",
+        "url": "https://open.spotify.com/album/53qJrKchHZUZ5vBCKCnjVr"
+      },
+      "artists": [
+        {
+          "name": "Maia",
+          "url": "https://open.spotify.com/artist/0ekfGWBjfg2WG6AHI4WXtM"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158298,
+      "name": "Por Que D\u00f3i?",
+      "url": "https://open.spotify.com/track/3Fo28bG0wCo1UdbAFut4iY"
     },
     {
       "album": {
@@ -11696,6 +11744,28 @@
       "duration_ms": 144444,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/50NwQLqay9RJRTgWW8qS5j"
+    },
+    {
+      "album": {
+        "name": "s\u00faplica",
+        "url": "https://open.spotify.com/album/2ziYBmMbMq0FvgSkfuvNYn"
+      },
+      "artists": [
+        {
+          "name": "Najjuu",
+          "url": "https://open.spotify.com/artist/44zNCSENkAVHJ5jZlmzMys"
+        },
+        {
+          "name": "Big Rush",
+          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159488,
+      "name": "s\u00faplica",
+      "url": "https://open.spotify.com/track/0EKpxjn8uCojqei2rGOZyg"
     },
     {
       "album": {

@@ -2799,6 +2799,24 @@
     },
     {
       "album": {
+        "name": "8991",
+        "url": "https://open.spotify.com/album/0aK1d3sxwKMDGD7PA3tm7u"
+      },
+      "artists": [
+        {
+          "name": "Clo\u00e9 Mailly",
+          "url": "https://open.spotify.com/artist/2Ekb814CvFDXc3uls3S8EG"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211968,
+      "name": "RUN OUTRO",
+      "url": "https://open.spotify.com/track/7hlxoJXexx3IgQUQI7HmH8"
+    },
+    {
+      "album": {
         "name": "Sacrifices",
         "url": "https://open.spotify.com/album/2DfHq4xDVVM7uSGyN8X69l"
       },
@@ -3002,7 +3020,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 177578,
       "name": "SILENCE",
       "url": "https://open.spotify.com/track/2df5EnYpqSVcGSsvyWlmXt"

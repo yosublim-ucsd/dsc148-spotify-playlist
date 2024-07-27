@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Ik moet naar huis toe gaan",
+        "url": "https://open.spotify.com/album/7xqovgg1V8CqM4Jcrx8Uk2"
+      },
+      "artists": [
+        {
+          "name": "Helemaal Hollands",
+          "url": "https://open.spotify.com/artist/0VTDgLvqZBSYXBE5d8ouhE"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165917,
+      "name": "Ik moet naar huis toe gaan",
+      "url": "https://open.spotify.com/track/2A44kZofGRTvc9dcX7W1vv"
+    },
+    {
+      "album": {
         "name": "Ik Pluk Een Ster",
         "url": "https://open.spotify.com/album/0PbztfMQhKRjRwW4AHWxf8"
       },
@@ -833,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/5XrvscEzaCTKeKXXpVlogo"
+      },
+      "artists": [
+        {
+          "name": "Gerard Joling",
+          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206133,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6wZ5Uq4nvLeCdk55aDpiae"
+    },
+    {
+      "album": {
         "name": "Muchos Licores",
         "url": "https://open.spotify.com/album/5qZ4Qd5gOyKY5rktsGX1JQ"
       },
@@ -873,6 +909,24 @@
     },
     {
       "album": {
+        "name": "Nog \u00c9\u00e9n Laatste Dans",
+        "url": "https://open.spotify.com/album/3osA0lKFSHMNtxl910iuM0"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Fransens",
+          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171904,
+      "name": "Nog \u00c9\u00e9n Laatste Dans",
+      "url": "https://open.spotify.com/track/2Xna5UxLejgr80HXcXhMDE"
+    },
+    {
+      "album": {
         "name": "Nooit Meer Zonder Jou",
         "url": "https://open.spotify.com/album/2FG4uNNehYXh00eVinSTLS"
       },
@@ -888,6 +942,24 @@
       "duration_ms": 186958,
       "name": "Nooit Meer Zonder Jou",
       "url": "https://open.spotify.com/track/33ZGotIbM6RUc4BQJ5Fzfq"
+    },
+    {
+      "album": {
+        "name": "Nooit Te Laat",
+        "url": "https://open.spotify.com/album/44WlIS1N7dBBIfKtT8skol"
+      },
+      "artists": [
+        {
+          "name": "Samantha Steenwijk",
+          "url": "https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145098,
+      "name": "Nooit Te Laat",
+      "url": "https://open.spotify.com/track/2HmYuOGflF4t87iN1MALaC"
     },
     {
       "album": {
@@ -985,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "Op De Bank",
+        "url": "https://open.spotify.com/album/7m97chglD7rVHaPHYwp4sg"
+      },
+      "artists": [
+        {
+          "name": "Sven Versteeg",
+          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Op De Bank",
+      "url": "https://open.spotify.com/track/7HjkU3iRgdFiwypuYsOx0N"
+    },
+    {
+      "album": {
         "name": "Op Een Dag (Gaan We Allemaal Naar De Hemel)",
         "url": "https://open.spotify.com/album/2xtUO7oONmvTzPvsOF9s2T"
       },
@@ -1022,6 +1112,28 @@
       "duration_ms": 156249,
       "name": "Op E\u00e9n Been",
       "url": "https://open.spotify.com/track/2qmTTThvPnjOnLe8DyfaRR"
+    },
+    {
+      "album": {
+        "name": "Panja",
+        "url": "https://open.spotify.com/album/6aMU0IahtqzleEqznAbqMq"
+      },
+      "artists": [
+        {
+          "name": "Sidney Jr",
+          "url": "https://open.spotify.com/artist/2pyu7WTYovCZ6OKb1InFM6"
+        },
+        {
+          "name": "Sidney Bischoff",
+          "url": "https://open.spotify.com/artist/2qZitvbK8umEmakrBoxEkV"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173395,
+      "name": "Panja",
+      "url": "https://open.spotify.com/track/62BtrcdN73fRXrkOUML9v9"
     },
     {
       "album": {
@@ -1094,6 +1206,24 @@
       "duration_ms": 185624,
       "name": "Schrijf me nooit geen mooie brieven meer",
       "url": "https://open.spotify.com/track/474JpNSf3P7fdqD1jGAOJ1"
+    },
+    {
+      "album": {
+        "name": "Sportschool",
+        "url": "https://open.spotify.com/album/2NnEEN0jr4SoVC9HD0gqY7"
+      },
+      "artists": [
+        {
+          "name": "Ammar",
+          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178623,
+      "name": "Sportschool",
+      "url": "https://open.spotify.com/track/4UoGvmUfqIj9KWzoi3Cw1N"
     },
     {
       "album": {
@@ -1334,6 +1464,24 @@
       "duration_ms": 162161,
       "name": "Voel Voel Voel",
       "url": "https://open.spotify.com/track/2erib8JNK3cb4PiYk1cHvo"
+    },
+    {
+      "album": {
+        "name": "Voor E\u00e9n Keer",
+        "url": "https://open.spotify.com/album/4WGkp99LqOuLtASPgmurXQ"
+      },
+      "artists": [
+        {
+          "name": "Diego Holzken",
+          "url": "https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156762,
+      "name": "Voor E\u00e9n Keer",
+      "url": "https://open.spotify.com/track/0gZodKY6ehMcSWv1iT9DR5"
     },
     {
       "album": {

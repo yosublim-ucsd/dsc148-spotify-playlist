@@ -4,7 +4,7 @@
 
 > The Soca hits we all love from back then til right now\. Cover: Problem Child
 
-346 songs - 19 hr 0 min
+347 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Breathe](https://open.spotify.com/track/7cChjDVXw89YJVSWnqZm9p) | [Sizzdub](https://open.spotify.com/artist/4C91n0YkR4vABvyt75cXl2), [Mole](https://open.spotify.com/artist/01yvqLuFELxbHDPzjRuSEl) | [ThundaBolt \(Riddim\)](https://open.spotify.com/album/1Y429eDap5QjyMHy1FUzQz) | 2:30 | 2023-07-11 | 2024-07-25 |
 | [Bubble Up](https://open.spotify.com/track/7lzzzjC3NJS2Oe6x8RTp3b) | [Quane](https://open.spotify.com/artist/1vXDnxEDIaiPXl7uPtrJh0), [Triple Swaggg](https://open.spotify.com/artist/0we9rq52Epe2kW6RX6GX8w) | [Shockwave Riddim](https://open.spotify.com/album/4dLcAsqcq5hFJKb1bPwIGe) | 2:26 | 2024-07-24 |  |
 | [Buddy Bye \(feat\. Konshens & Noah Powa\)](https://open.spotify.com/track/55clF0PIQvjkXfRqrNI7jS) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Noah Powa](https://open.spotify.com/artist/6yKN858F7VWik5UyT9geTE) | [In The Mood](https://open.spotify.com/album/0m5VM8rmzwLSZEnLH5qbB0) | 2:46 | 2023-05-15 | 2023-07-03 |
-| [Bumble Bee](https://open.spotify.com/track/7cE2Ll1GY4YMCoPfkMaf34) | [Hypasounds](https://open.spotify.com/artist/3ukVr8bbF0HUXtqjI7uxHF), [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK) | [Bumble Bee](https://open.spotify.com/album/7Ga0faLmsVwzKqJ30d68JN) | 2:57 | 2023-07-11 |  |
+| [Bumble Bee](https://open.spotify.com/track/7cE2Ll1GY4YMCoPfkMaf34) | [Hypasounds](https://open.spotify.com/artist/3ukVr8bbF0HUXtqjI7uxHF), [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK) | [Bumble Bee](https://open.spotify.com/album/7Ga0faLmsVwzKqJ30d68JN) | 2:57 | 2023-07-11 | 2024-07-27 |
 | [Bumper Heavy](https://open.spotify.com/track/2PBhZtDV5NNpTdqaU4lSzq) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Karlie Redd](https://open.spotify.com/artist/0oPdBO6Dh9AgHDRLjpDJpz) | [Unchained](https://open.spotify.com/album/04DGHo6RKxLuTz3bBgj4rH) | 2:06 | 2023-05-15 | 2023-07-12 |
 | [Bun up](https://open.spotify.com/track/0NK0JfPlwENn0KfaY0eZ65) | [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [One Bad Riddim](https://open.spotify.com/album/1Z6TcTVIYdBuCGZLzFmAgP) | 2:40 | 2022-08-18 | 2022-10-05 |
 | [Bun up](https://open.spotify.com/track/3F5qgnuwPr217YIexmJoMW) | [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [One Bad Riddim](https://open.spotify.com/album/3RQxr6iZb7eRMK2bH8zdHW) | 2:40 | 2022-08-18 | 2023-02-22 |
@@ -68,6 +68,7 @@
 | [Catching Feelings](https://open.spotify.com/track/5fA679L7UruZkmA7EorEuJ) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [In My Feelings](https://open.spotify.com/album/7cUTMtzLnLjf3WFd0ctyDF) | 3:07 | 2022-08-18 | 2023-07-12 |
 | [Cheers to Life](https://open.spotify.com/track/1bJODIHmNbgbkQXpH2i3Oo) | [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA), [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [We Muzik \(Soca 2016 Trinidad and Tobago Carnival\), Vol\. 7](https://open.spotify.com/album/3xEYJSimdJLjkjGm7euCjW) | 3:38 | 2023-02-21 | 2024-07-25 |
 | [Cheers to Life \(Soca 2016 Trinidad and Tobago Carnival\)](https://open.spotify.com/track/06EIb21a68sdHTsKBvkKpT) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds), [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA) | [Cheers to Life \(Soca 2016 Trinidad and Tobago Carnival\)](https://open.spotify.com/album/3TSHDuFiOyx49FinzyXPQm) | 3:36 | 2023-08-11 | 2024-04-19 |
+| [Chutney Steam](https://open.spotify.com/track/6zogiKH1DjIxgX8UzqbCSq) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj), [Tempa](https://open.spotify.com/artist/464FYjDR479Kkym3Fhb19g), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd) | [Chutney Steam](https://open.spotify.com/album/5HsRCQEgsFLQt8CVTvIWx2) | 2:16 | 2024-07-24 |  |
 | [Cloud 9](https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Cloud 9](https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR) | 3:28 | 2021-08-26 |  |
 | [Come Home](https://open.spotify.com/track/4OFdzr4mlBC7YK8XwJqwIx) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Come Home](https://open.spotify.com/album/0HHOQolYzlGQ4DTqzAtdk7) | 4:18 | 2023-05-15 |  |
 | [Coming Back Fuh Yuh](https://open.spotify.com/track/0btmu6nRf1fFcwAipBj9B6) | [System32](https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20), [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Hot Sun Riddim](https://open.spotify.com/album/3pPDSVI0PB9SZPpAiRLqw5) | 2:28 | 2022-08-18 | 2023-02-22 |

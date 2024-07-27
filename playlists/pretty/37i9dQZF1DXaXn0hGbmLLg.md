@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! BNLX ambassador: <a href="spotify:artist:4oMzH6lIWPhCdx7KADXLJZ">Senna</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,661 likes - 85 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,656 likes - 85 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 72 | [Healing](https://open.spotify.com/track/1PeZffWmYtziwy61voJ9rR) | [Namikoo](https://open.spotify.com/artist/2apGXpNzMBpoQeEqMEOh86), [Djema](https://open.spotify.com/artist/1tI7MTUu7Qf4s3V0Ysguv0) | [Healing](https://open.spotify.com/album/7J25jmE49isoYt9X2aReMp) | 3:10 |
 | 73 | [Toxic Lullaby](https://open.spotify.com/track/3nMVqsavDiNftAda8yMbfW) | [LEEZ](https://open.spotify.com/artist/1HM97QoNxOsRwFJ9x9Nbig) | [Toxic Lullaby](https://open.spotify.com/album/3FH0l70wKh2DggehaFL891) | 3:05 |
 | 74 | [SLAY](https://open.spotify.com/track/0zgDMerTVdChmx0e3REzJu) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75), [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI), [NIEMAND](https://open.spotify.com/artist/45Wf0l1kVk2wWrHe1z7pEX) | [SLAY](https://open.spotify.com/album/484MfnTLowxZKGR2U92obG) | 2:23 |
-| 75 | [Don't Stop \- Drums & Acid Mix](https://open.spotify.com/track/3Lfuh4PLekVuYmEUmgRTgY) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [slash 010 \- 5 Mins Of Acid](https://open.spotify.com/album/7kPaOFIJ0jqmVtMJBKJpRY) | 4:58 |
+| 75 | [Don't Stop \- drums & acid mix](https://open.spotify.com/track/3Lfuh4PLekVuYmEUmgRTgY) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [slash 010 \- 5 Mins Of Acid](https://open.spotify.com/album/7kPaOFIJ0jqmVtMJBKJpRY) | 4:58 |
 | 76 | [Laat Ze Weten ft\. BadBoyGoodVibes](https://open.spotify.com/track/440KorNa08etdpSm48b1it) | [Tamika Naomi](https://open.spotify.com/artist/2n1mMxsGOKnQ19vNJmoBW1), [Badboygoodvibes](https://open.spotify.com/artist/1HIMRZqxPjlZLjzuWt3lR3) | [Laat Ze Weten](https://open.spotify.com/album/6mE33r1e48aogmgYsC2NF7) | 2:31 |
 | 77 | [The Antidote](https://open.spotify.com/track/35NzTGWNRrfzrCASih3lNt) | [Tessa Rose Jackson](https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ), [Noon Garden](https://open.spotify.com/artist/3d9ub2Fp7guk9yviKzD8Kc) | [The Antidote](https://open.spotify.com/album/5OFyN36YpQGNKx2Z4hcfHm) | 5:02 |
 | 78 | [Just say it](https://open.spotify.com/track/5KNIMW10frJ9ys2yn56WBw) | [Laura van Kaam](https://open.spotify.com/artist/4ywz66EHjNFUszU6lXLsXe) | [Just say it](https://open.spotify.com/album/0iCybjkYqa6fAcjlYvTmjh) | 3:10 |

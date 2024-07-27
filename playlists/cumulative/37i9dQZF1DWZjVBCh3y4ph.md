@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : MARVIN x LÉA CHURROS
+> Les hits zouk du moment\. Photo : Joé Dwèt Filé
 
-140 songs - 7 hr 29 min
+142 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Faut doser](https://open.spotify.com/track/0x2VefZ4j8ruCDXjJQxZMm) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk), [Dj Tyson](https://open.spotify.com/artist/0CVXwhQTomrDLBClLOoqtv) | [Faut doser](https://open.spotify.com/album/5XgOnjM0YeiEBXRPsrXkP6) | 3:56 | 2023-10-26 | 2024-02-16 |
 | [Fem voyé](https://open.spotify.com/track/19sesLqKhLkzkFVYOh4wSD) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Calypso : Winter Edition](https://open.spotify.com/album/2BHdR3I4rELAUgjfUfmv9y) | 3:54 | 2023-09-28 | 2024-03-01 |
 | [Ganyen](https://open.spotify.com/track/0SfSqwx6imDCy7a4mppykm) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m) | [Ganyen](https://open.spotify.com/album/21zivLkJNcujMDSXbKCYO7) | 3:36 | 2024-06-27 |  |
-| [Goo Goo Eyes](https://open.spotify.com/track/0EJhQvITO12fLbIiGbhUa9) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN) | [Goo Goo Eyes](https://open.spotify.com/album/4FgEzWpTjIIckVtXCRCbLN) | 3:40 | 2023-12-14 |  |
+| [Goo Goo Eyes](https://open.spotify.com/track/0EJhQvITO12fLbIiGbhUa9) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN) | [Goo Goo Eyes](https://open.spotify.com/album/4FgEzWpTjIIckVtXCRCbLN) | 3:40 | 2023-12-14 | 2024-07-27 |
 | [Haut niveau](https://open.spotify.com/track/2nXOUhAUyZQ0btHePjTzni) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 3:02 | 2023-09-28 | 2023-12-15 |
 | [Hollandaise](https://open.spotify.com/track/0rQV3d6ckeCZAQrIvOaICE) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Hollandaise](https://open.spotify.com/album/7ezf5Jqi7MmodNkl2rFZOQ) | 2:38 | 2023-11-30 | 2023-12-30 |
 | [Hypé](https://open.spotify.com/track/0jlEtXM0sxuoSmO0adcZ3J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Hypé](https://open.spotify.com/album/4sLU8ldibaLzZcCfbqMzU6) | 2:37 | 2024-02-08 |  |
@@ -62,7 +62,7 @@
 | [Jeu dangereux](https://open.spotify.com/track/0ILZ5MSXz0w6aF3JnqRE6C) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Jeu dangereux](https://open.spotify.com/album/77vAIuKvXoIEH8d8TtXLUX) | 3:17 | 2023-12-08 | 2024-06-14 |
 | [Joli coeur](https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Joli coeur](https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd) | 3:14 | 2023-10-19 | 2024-03-01 |
 | [Jolis enfants](https://open.spotify.com/track/27EpviZlAUe4Gh7NG2fLrw) | [Santrinos Raphael](https://open.spotify.com/artist/0fmjzVxcH2aZo4tRAiRT1h), [Goulam](https://open.spotify.com/artist/3n13dmLc3HY0wL5zwfuOsC) | [Jolis enfants](https://open.spotify.com/album/420gU96GfONCl80kRsdLNZ) | 4:22 | 2024-01-25 | 2024-06-21 |
-| [JTM](https://open.spotify.com/track/2CELfkRELYZGgpzVBPgsgE) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5) | [JTM](https://open.spotify.com/album/32gbCp9se9dc7vKNCGhgqh) | 2:56 | 2023-11-30 |  |
+| [JTM](https://open.spotify.com/track/2CELfkRELYZGgpzVBPgsgE) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5) | [JTM](https://open.spotify.com/album/32gbCp9se9dc7vKNCGhgqh) | 2:56 | 2023-11-30 | 2024-07-27 |
 | [Jusqu'au bout du monde](https://open.spotify.com/track/5OCjtxa5T8soJUDbWNpFQV) | [MARVIN](https://open.spotify.com/artist/2TltjHpjaHa8yep3KpIIWq), [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [Jusqu'au bout du monde](https://open.spotify.com/album/3tsXYeNP7p45Nf9DCHWMLc) | 3:33 | 2024-07-04 |  |
 | [Karésé Mwen \- Toi et Moi](https://open.spotify.com/track/43La0fMCv1tBBmAeuYSumQ) | [Dj Jackson](https://open.spotify.com/artist/2GYAHdjq5ecEb71veYasKB), [Methi's](https://open.spotify.com/artist/4Sx9MLqVbK6oUTFK9HrEoa), [KENNY HAITI](https://open.spotify.com/artist/6xK22PI2rZCvTE4KECYDb7) | [Karésé Mwen \(Toi et Moi\)](https://open.spotify.com/album/5BzzjwPp294mjhdQ5TcwX5) | 4:54 | 2023-09-28 | 2023-10-27 |
 | [KEN](https://open.spotify.com/track/2sd3y1eow3RdwiWF17EF8h) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [KEN](https://open.spotify.com/album/3TUmGASRCnlDi3r8JWnehM) | 3:19 | 2023-12-08 | 2024-02-23 |
@@ -128,7 +128,9 @@
 | [TBS](https://open.spotify.com/track/4VTnmwiWKUFOkKiftm0iRj) | [Rachelle Allison](https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52) | [TBS](https://open.spotify.com/album/3W6B7yuVTXLp5aiQz6MOfZ) | 2:26 | 2024-02-22 | 2024-03-15 |
 | [Tellement doux](https://open.spotify.com/track/3o1osJPn6XpsoWa3S5AHDN) | [Liljooe](https://open.spotify.com/artist/1fXRDObcekmH7aEVbCqsYZ) | [Tellement doux](https://open.spotify.com/album/7z6iLtGQjSt4R2WOTSCW41) | 3:15 | 2024-03-07 | 2024-04-19 |
 | [Tellement doux](https://open.spotify.com/track/7fqvFVk7ZE7GzHQwcPJNdR) | [Liljooe](https://open.spotify.com/artist/1fXRDObcekmH7aEVbCqsYZ) | [Tellement doux](https://open.spotify.com/album/1njifPExP5d1ZwFuOFXa5j) | 3:15 | 2024-01-11 | 2024-06-28 |
+| [Tic Tac](https://open.spotify.com/track/2n7kwiBaEjDdBzwrbKl7e1) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Tic Tac](https://open.spotify.com/album/0ZfpOUYxc42l8gNcpYoUM3) | 2:37 | 2024-07-25 |  |
 | [TKT PAS](https://open.spotify.com/track/794czLwx4ZNky1ltmguo8u) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [TKT PAS](https://open.spotify.com/album/5EtCIE7heSTXlbxPIefyyK) | 3:26 | 2023-11-16 |  |
+| [Ton amour](https://open.spotify.com/track/2iEdw5ymM0dVzaeZHEq4JI) | [Nk Divine](https://open.spotify.com/artist/5uUyNQRdjYew8L4OfHPcqD), [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh) | [DESTINÉE chapitre II in ut regium](https://open.spotify.com/album/1jnGuJq0cEPWYWsGPFaUCH) | 2:32 | 2024-07-25 |  |
 | [TON PIED MON PIED](https://open.spotify.com/track/27Dsm5M4o01VCzFrTMHx7b) | [Varaine Ben](https://open.spotify.com/artist/6dP1hrA6zbtVabsfbjiTL8) | [TON PIED MON PIED](https://open.spotify.com/album/5vRxSbGuUdaGP4WR5uSlE1) | 2:55 | 2024-06-20 | 2024-07-19 |
 | [Tou Sa Ki Fo](https://open.spotify.com/track/3DZJQP0BrrpSWKPT8KXMQh) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [Tou Sa Ki Fo](https://open.spotify.com/album/7cBHtC6kiiKJbmg4fFBco1) | 2:52 | 2023-09-28 | 2024-02-09 |
 | [Tout](https://open.spotify.com/track/2S0CMcdX1jUeMDZFxMsSfM) | [Lorenz](https://open.spotify.com/artist/2EOc5l6ZIB5gygstmhE9eN) | [Tout](https://open.spotify.com/album/3GqR0RsV6fNF45NtLh7GDT) | 3:09 | 2024-03-07 |  |

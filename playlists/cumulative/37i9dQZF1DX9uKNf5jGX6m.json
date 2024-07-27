@@ -2669,6 +2669,24 @@
     },
     {
       "album": {
+        "name": "Come Wander",
+        "url": "https://open.spotify.com/album/25ESaoBZ0Owj3a0wNNrFd6"
+      },
+      "artists": [
+        {
+          "name": "Wicker Whales",
+          "url": "https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "Come Wander",
+      "url": "https://open.spotify.com/track/1d0sc4npZeCAxX4YRuaCNG"
+    },
+    {
+      "album": {
         "name": "Snow Berries",
         "url": "https://open.spotify.com/album/13nTRdiXmI29GzOv0x0fJs"
       },
@@ -3440,7 +3458,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 136000,
       "name": "Dream Light",
       "url": "https://open.spotify.com/track/7HuCQfbXT7GWHYUJ0FZoP6"
@@ -4376,7 +4394,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 183750,
       "name": "Evening Star",
       "url": "https://open.spotify.com/track/3FkjbZPxaCFNaZyYZ1jtmr"
@@ -4826,7 +4844,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 155096,
       "name": "Flor Espina",
       "url": "https://open.spotify.com/track/166sXNEu8LOKQeMmqWo7SA"
@@ -6158,7 +6176,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 319000,
       "name": "It Begins",
       "url": "https://open.spotify.com/track/2jONJzJJyxkiqu3mpIjR39"
@@ -7004,7 +7022,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 208000,
       "name": "Liquid Rainbow",
       "url": "https://open.spotify.com/track/3ex8tsDC5KYifvmmoxc3il"
@@ -7584,7 +7602,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 210172,
       "name": "Mellow River",
       "url": "https://open.spotify.com/track/0Uz8UHO1PM5sh2XwRLfuRD"
@@ -8394,7 +8412,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 172449,
       "name": "Nocturnal",
       "url": "https://open.spotify.com/track/4sJMWTrLmw0ijFb7NmqqKL"
@@ -8808,7 +8826,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 198483,
       "name": "Overview",
       "url": "https://open.spotify.com/track/6bJS4c8xM5nGOtxqndR0G7"
@@ -10050,7 +10068,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 188671,
       "name": "Resolutions",
       "url": "https://open.spotify.com/track/4ovVCv4X9VZfT79f79c0XN"
@@ -12534,7 +12552,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 152405,
       "name": "The Arrival",
       "url": "https://open.spotify.com/track/3ormOBJT8OGCxhrXntFyQq"
@@ -13279,6 +13297,42 @@
     },
     {
       "album": {
+        "name": "Tranquillitas",
+        "url": "https://open.spotify.com/album/5VAIQlrornmuqAmiFuDQdo"
+      },
+      "artists": [
+        {
+          "name": "John Caelo",
+          "url": "https://open.spotify.com/artist/5l5WPtiUdbPCJy66rG17Sd"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188204,
+      "name": "Tranquillitas",
+      "url": "https://open.spotify.com/track/3i89PNM7JKsaqKoI871L80"
+    },
+    {
+      "album": {
+        "name": "Tranquillo",
+        "url": "https://open.spotify.com/album/7k1q8f3yoyw9rRa85wBAR3"
+      },
+      "artists": [
+        {
+          "name": "Escix V",
+          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147083,
+      "name": "Tranquillo",
+      "url": "https://open.spotify.com/track/7A1uziu96JlZBqgbYnx3VE"
+    },
+    {
+      "album": {
         "name": "Transcendence",
         "url": "https://open.spotify.com/album/0AwlDOSsp2rvCfUEFIpJEy"
       },
@@ -14010,7 +14064,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 207750,
       "name": "Wisdom Tree",
       "url": "https://open.spotify.com/track/5WsgO796iKJcb60gHujtRE"

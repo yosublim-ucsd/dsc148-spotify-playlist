@@ -4,7 +4,7 @@
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6?si=RVzVsQpZQKSz6bTQ2Oo5lQ">Sjava</a>
 
-580 songs - 1 day 17 hr 36 min
+581 songs - 1 day 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,7 +410,7 @@
 | [Qhawe](https://open.spotify.com/track/25r01YGUOBzlnExFSEtNbt) | [DJ Ngwazi](https://open.spotify.com/artist/1G8HHPk0dZaahLJQPySFCi), [Lowsheen](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU), [Indlovukazi](https://open.spotify.com/artist/1iG2KmUSvfX8TNCmCR8Enl) | [Morata](https://open.spotify.com/album/4OBMnMOLyd6x95MBjFgWDv) | 6:02 | 2022-11-25 | 2022-12-16 |
 | [Qhawe lam](https://open.spotify.com/track/2moWw0WSvfyZ7bXe1JOtx6) | [Zuko SA](https://open.spotify.com/artist/0LHMSltleAi3zHyRU8gYSt), [Nwabisa\-G](https://open.spotify.com/artist/7Ltw3CLOXJkitHCYsg6WTE) | [No one is safe](https://open.spotify.com/album/0XSSaao0CoXo2oGxrauQgQ) | 4:24 | 2022-01-31 | 2024-01-26 |
 | [Qoma](https://open.spotify.com/track/7tJRECMBZbgGUh83C48NB0) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Siya Ntuli](https://open.spotify.com/artist/5BggJAW7Ubyk8FR87MpGvc) | [Qoma](https://open.spotify.com/album/7bL1zIGv1QtVCBU2kEwIr6) | 4:30 | 2022-09-19 | 2023-08-11 |
-| [Qoma](https://open.spotify.com/track/7xCravOtt3QiSSVC9sC1nZ) | [Nhlonipho](https://open.spotify.com/artist/4fmvHSoDtKFGNsQL3imnRN), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Qoma](https://open.spotify.com/album/1fsqPg291cO98V4ZTC7k5R) | 4:02 | 2024-05-16 |  |
+| [Qoma](https://open.spotify.com/track/7xCravOtt3QiSSVC9sC1nZ) | [Nhlonipho](https://open.spotify.com/artist/4fmvHSoDtKFGNsQL3imnRN), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Qoma](https://open.spotify.com/album/1fsqPg291cO98V4ZTC7k5R) | 4:02 | 2024-05-16 | 2024-07-27 |
 | [Qongqotha \(live\) \- Demo](https://open.spotify.com/track/72bqWnVS3F7C06i64dvDny) | [Mishy Kope](https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a) | [Qongqotha \(live\) \[Demo\]](https://open.spotify.com/album/1OgbwEsTKgf3FnHXjQha8h) | 2:51 | 2024-04-04 | 2024-05-03 |
 | [Questions](https://open.spotify.com/track/1chHNQEWE0OH7XMZJgwt8M) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Trouble In Paradise](https://open.spotify.com/album/1ltjerRedPrqqpM0Nb1MXl) | 2:24 | 2021-05-06 | 2022-04-15 |
 | [READY](https://open.spotify.com/track/6QlDYJND6qGVJYbyZDXrun) | [Kyle Deutsch](https://open.spotify.com/artist/5TlcIPcqqUiWfHmGOOAGOL), [KissBeatz](https://open.spotify.com/artist/1JsMUlVAuMujNThwU7KnRb) | [READY](https://open.spotify.com/album/240yGVvYiPJ0AJM9mBYH4g) | 2:39 | 2021-11-11 | 2022-03-01 |
@@ -541,6 +541,7 @@
 | [Uthando](https://open.spotify.com/track/4eGBrIPFNNILwvHU5THfQj) | [Vuyina](https://open.spotify.com/artist/7pJgT4zdoIemiYQjpD8QFw), [Loki.](https://open.spotify.com/artist/3f9z8pU96fneXqFTsD9FjD) | [Uthando](https://open.spotify.com/album/0zcnTVjwUga3vpjrCGB0ei) | 4:10 | 2022-09-01 | 2022-09-10 |
 | [Uthando Aluboni](https://open.spotify.com/track/3d9HoMtIQEC1PktOg2ownJ) | [Blaq Major](https://open.spotify.com/artist/1HGyQR41EokAZE5Dl4PtYc), [Charlotte Lyf](https://open.spotify.com/artist/5L6oK8NQKw5bqt7qwWJchP) | [Uthando Aluboni](https://open.spotify.com/album/1GYtvOSYmQ2nUcWRg0zzsH) | 4:53 | 2023-07-14 | 2023-10-30 |
 | [Uthando Lunye](https://open.spotify.com/track/6vT6ApD2icv6IjGfEMdRHo) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Uthando Lunye](https://open.spotify.com/album/185M5vZmISiDK7Q4ufbAMr) | 4:13 | 2023-04-27 | 2023-08-18 |
+| [Uwena](https://open.spotify.com/track/4jMGsxKzQkCweqvkodJlPA) | [Vernotile](https://open.spotify.com/artist/5jDxQtsQGEKqgulGcERXMn), [Claudio](https://open.spotify.com/artist/1WwJrA5E5rKNpTWCSlzRWC) | [Uwena](https://open.spotify.com/album/5IbTxyepjq9s9P6Pdc3NRG) | 4:22 | 2024-07-25 |  |
 | [Uyadlala](https://open.spotify.com/track/3s35eJ95LxZV70WRqHxnHk) | [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks) | [Fezisa](https://open.spotify.com/album/4gSrxkjuXCt0nBtHhDN4uI) | 3:35 | 2022-10-13 | 2022-10-21 |
 | [Uyajola](https://open.spotify.com/track/6XhB177w4FLohKRYMNkjRA) | [Eves Manxeba](https://open.spotify.com/artist/5XLEwFZp3QbAQxL51R2ADB) | [Uyajola](https://open.spotify.com/album/3Wga1LdphDEovcP1O499PH) | 3:12 | 2022-02-10 | 2022-07-01 |
 | [Uyangijabulisa](https://open.spotify.com/track/09zHC0CNGuWQ1ot7WhzwKJ) | [Fezeka Dlamini](https://open.spotify.com/artist/3w6Mt5dBdn8iPH2PgdnbP7), [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Naledi](https://open.spotify.com/artist/092ZdmX5G7PFTtsWoQHkmX) | [Uyangijabulisa](https://open.spotify.com/album/3XXRYAuCaRajUqnvWhWKBp) | 4:48 | 2024-03-21 | 2024-04-19 |

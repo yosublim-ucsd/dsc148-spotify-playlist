@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-05-14",
-  "description": "From the alternative scene in Ghana. Cover: Ayisi",
+  "description": "From the alternative scene in Ghana. Cover: \u00d8bed",
   "name": "Alt. Ghana",
   "tracks": [
     {
@@ -526,7 +526,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 134966,
       "name": "Disco Died For You",
       "url": "https://open.spotify.com/track/4so4VxaOKJntIuVanu2Rg6"
@@ -686,7 +686,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 164866,
       "name": "Ghana Bop",
       "url": "https://open.spotify.com/track/2tB0TY5qVlyn4Zvk7d3b7Z"
@@ -985,6 +985,24 @@
     },
     {
       "album": {
+        "name": "Lost Love",
+        "url": "https://open.spotify.com/album/6KqTfBjmJYeiJPapWjzmHd"
+      },
+      "artists": [
+        {
+          "name": "Akwasi Sage",
+          "url": "https://open.spotify.com/artist/1ZLtiMNMicBULG1CNl25Je"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163733,
+      "name": "Lost Love",
+      "url": "https://open.spotify.com/track/42mgtZfLBQDVOlxewhvXfF"
+    },
+    {
+      "album": {
         "name": "Love Hard",
         "url": "https://open.spotify.com/album/6g7gnzgDhtzBde95DPS6Mv"
       },
@@ -1084,6 +1102,24 @@
       "duration_ms": 180706,
       "name": "Menko Me Hemaa",
       "url": "https://open.spotify.com/track/3PgrIynhIQ1veOjGDCWroU"
+    },
+    {
+      "album": {
+        "name": "Never Fold",
+        "url": "https://open.spotify.com/album/4AAQcNjPR29cFRduUBLG6T"
+      },
+      "artists": [
+        {
+          "name": "SagetheRager",
+          "url": "https://open.spotify.com/artist/09sWrYn8drtJePXByNNv7j"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138066,
+      "name": "Never Fold",
+      "url": "https://open.spotify.com/track/2T8lk96YoVP2FY7aqkDOdU"
     },
     {
       "album": {
@@ -1659,6 +1695,32 @@
     },
     {
       "album": {
+        "name": "AIR PISCINE",
+        "url": "https://open.spotify.com/album/3ayLyO1LSESbWvbvacY5KD"
+      },
+      "artists": [
+        {
+          "name": "\u00d8bed",
+          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
+        },
+        {
+          "name": "Merlyn Wood",
+          "url": "https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y"
+        },
+        {
+          "name": "Ansah Live",
+          "url": "https://open.spotify.com/artist/0hbJqr0rLt4pCA9iDLJfup"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "sugar rush",
+      "url": "https://open.spotify.com/track/3oYL2QHieHXI99OrqvLCoG"
+    },
+    {
+      "album": {
         "name": "DARRYL WUZ HERE",
         "url": "https://open.spotify.com/album/1hMNAF39jSTg1I26hgGz6T"
       },
@@ -1854,7 +1916,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 216633,
       "name": "Wine",
       "url": "https://open.spotify.com/track/2jpy0Amc4lz9rJodkYCUBW"

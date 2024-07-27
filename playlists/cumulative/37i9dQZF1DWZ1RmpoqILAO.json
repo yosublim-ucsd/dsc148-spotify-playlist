@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY"
+      },
+      "artists": [
+        {
+          "name": "Katie Gavin",
+          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214706,
+      "name": "Aftertaste",
+      "url": "https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe"
+    },
+    {
+      "album": {
         "name": "Practice",
         "url": "https://open.spotify.com/album/0pvTFpzVYUErZJTeDO7opu"
       },
@@ -1520,7 +1538,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 217373,
       "name": "Fire",
       "url": "https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH"
@@ -2461,6 +2479,28 @@
     },
     {
       "album": {
+        "name": "Kitchen",
+        "url": "https://open.spotify.com/album/4TLfQi0tOtBdRw5VTEMa5B"
+      },
+      "artists": [
+        {
+          "name": "Cal in Red",
+          "url": "https://open.spotify.com/artist/3dXBDrVfLai40505fF4HH1"
+        },
+        {
+          "name": "James Mercer",
+          "url": "https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165463,
+      "name": "Kitchen",
+      "url": "https://open.spotify.com/track/52S4b4JkoeKrCRRKjzPHKW"
+    },
+    {
+      "album": {
         "name": "Knockin",
         "url": "https://open.spotify.com/album/7y7m9BoSQmeUYcXeHN4JtN"
       },
@@ -2704,7 +2744,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 238426,
       "name": "Mountain Man",
       "url": "https://open.spotify.com/track/3QnxeNu890sL0Lcfy0iFzQ"
@@ -3430,7 +3470,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 216034,
       "name": "Sha",
       "url": "https://open.spotify.com/track/6HMdSCsyt5ZNPZokEgcoxQ"

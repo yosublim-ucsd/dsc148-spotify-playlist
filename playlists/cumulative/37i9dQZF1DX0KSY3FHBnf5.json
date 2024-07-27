@@ -444,7 +444,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 224000,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/6IFQFMp1sazAG1ZA6bIA57"
@@ -1561,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "Studies",
+        "url": "https://open.spotify.com/album/1avYb0OATIZgUzbrI2ASYy"
+      },
+      "artists": [
+        {
+          "name": "sleep school",
+          "url": "https://open.spotify.com/artist/7syzNFFOyfDpAd42Km9XMv"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247893,
+      "name": "II (Nothing Exists Alone)",
+      "url": "https://open.spotify.com/track/0tZ2lhPfUVmMDxqMtr6OTw"
+    },
+    {
+      "album": {
         "name": "in the bleak midwinter (Remixes)",
         "url": "https://open.spotify.com/album/1kXLlpfXHC0T7il7cGl3Ff"
       },
@@ -2270,7 +2288,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 242000,
       "name": "ref-de/09",
       "url": "https://open.spotify.com/track/5eLMwSdNvRr8TqXOoLyfmE"
@@ -3260,7 +3278,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 213333,
       "name": "Wintry",
       "url": "https://open.spotify.com/track/3PVrNNjbvONiK5sOrGrqzy"

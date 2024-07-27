@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Eliza & The Delusionals",
+  "description": "New and local indie noise. Cover: Gut Health",
   "name": "Local Noise",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 257084,
       "name": "AFTERBIAS",
       "url": "https://open.spotify.com/track/3LqQOYcWauYqd7gtohdbYL"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 243607,
       "name": "Best Bits",
       "url": "https://open.spotify.com/track/57O7ES7W7nREsC78LWq5ah"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 189667,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/28L5tmLV0WKV4HTmTqPRhJ"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 198002,
       "name": "Calico",
       "url": "https://open.spotify.com/track/6Sk85wiLMzzFWyqROj97Jq"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 322753,
       "name": "Can't Do That",
       "url": "https://open.spotify.com/track/5wuT0pcni2q6HXAviuCIvb"
@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Chauffeur",
+        "url": "https://open.spotify.com/album/2k3KwbsVIBw8j6v02HptXJ"
+      },
+      "artists": [
+        {
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184485,
+      "name": "Chauffeur",
+      "url": "https://open.spotify.com/track/04WQHNaGaWlrMuFqSoRqNK"
+    },
+    {
+      "album": {
         "name": "Cheapskate",
         "url": "https://open.spotify.com/album/4J3fxlyKmCqkgK6C9jwJkG"
       },
@@ -376,7 +394,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 191761,
       "name": "Cheapskate",
       "url": "https://open.spotify.com/track/3ydtco4AwW0uPKi3GFpnGQ"
@@ -434,6 +452,24 @@
       "duration_ms": 127384,
       "name": "COOL",
       "url": "https://open.spotify.com/track/0V83GbhnQUnomar0mbC9YH"
+    },
+    {
+      "album": {
+        "name": "Cool Moderator",
+        "url": "https://open.spotify.com/album/4K3htxHouNm3YG8jLEF6OR"
+      },
+      "artists": [
+        {
+          "name": "Gut Health",
+          "url": "https://open.spotify.com/artist/0WKHQ3a24pKDB991wqLjMU"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139756,
+      "name": "Cool Moderator",
+      "url": "https://open.spotify.com/track/43kHYRjXpqgaq2e8F6skLf"
     },
     {
       "album": {
@@ -646,7 +682,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 77137,
       "name": "Fang It",
       "url": "https://open.spotify.com/track/1td5kchDYiEfzsyUs4iit6"
@@ -668,6 +704,24 @@
       "duration_ms": 180740,
       "name": "fibreglass",
       "url": "https://open.spotify.com/track/4kVo2Er6puHPUcagHcq3k5"
+    },
+    {
+      "album": {
+        "name": "Fine Wine",
+        "url": "https://open.spotify.com/album/6nZ8wkDHKbwfiACE47ZBMX"
+      },
+      "artists": [
+        {
+          "name": "Great Gable",
+          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173410,
+      "name": "Fine Wine",
+      "url": "https://open.spotify.com/track/1CfOSnxdh51BmF95wAaBqP"
     },
     {
       "album": {
@@ -700,7 +754,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 141376,
       "name": "Full Speed",
       "url": "https://open.spotify.com/track/0edD2NzrbKXHmPsHtKTnyS"
@@ -959,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "I Forget About Time",
+        "url": "https://open.spotify.com/album/6Gl0l8dWvCw9B7ttr64QTv"
+      },
+      "artists": [
+        {
+          "name": "Salarymen",
+          "url": "https://open.spotify.com/artist/6CoqrYYldBGO37bHBr9rCM"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253978,
+      "name": "I Forget About Time",
+      "url": "https://open.spotify.com/track/3UX8saAG4BYfGNmObk8aMv"
+    },
+    {
+      "album": {
         "name": "I HATE RICH CUNTS",
         "url": "https://open.spotify.com/album/1fVOXvSuzZBiYX0Tmhbev1"
       },
@@ -970,7 +1042,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 166588,
       "name": "I HATE RICH CUNTS",
       "url": "https://open.spotify.com/track/12cPzoY08JZVx7JnJNtGak"
@@ -1068,6 +1140,24 @@
       "duration_ms": 166312,
       "name": "I\u2019m Sure You\u2019ve Heard",
       "url": "https://open.spotify.com/track/0Pi1tFmFEwxGFNQYjNLjjd"
+    },
+    {
+      "album": {
+        "name": "Johnny",
+        "url": "https://open.spotify.com/album/6YEMTWtez77SaeIp2lxalB"
+      },
+      "artists": [
+        {
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214507,
+      "name": "Johnny",
+      "url": "https://open.spotify.com/track/3F63vPO9NcMyTB46Gtt5yj"
     },
     {
       "album": {
@@ -1184,6 +1274,24 @@
       "duration_ms": 214125,
       "name": "Le Risque",
       "url": "https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ"
+    },
+    {
+      "album": {
+        "name": "Human on Hold Vol.1",
+        "url": "https://open.spotify.com/album/2ouFYVrkZlBLKJ85VJo0Fu"
+      },
+      "artists": [
+        {
+          "name": "TILE",
+          "url": "https://open.spotify.com/artist/2vdwOGSZIjnvIgXm22BcPB"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258782,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/0burTuQTc7p2ir2fdygEOU"
     },
     {
       "album": {
@@ -1306,7 +1414,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 161854,
       "name": "Marlborough's Gold",
       "url": "https://open.spotify.com/track/6ce2CI55jsFuw0NJW0mJTJ"
@@ -1407,6 +1515,24 @@
     },
     {
       "album": {
+        "name": "MY DISASTER",
+        "url": "https://open.spotify.com/album/5Svl2xU7AQPzMiU2xFLd9w"
+      },
+      "artists": [
+        {
+          "name": "Ocean Grove",
+          "url": "https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161552,
+      "name": "MY DISASTER",
+      "url": "https://open.spotify.com/track/4fDHUQVGS6Tt392L6XY1rZ"
+    },
+    {
+      "album": {
         "name": "Nectarine Fuzz",
         "url": "https://open.spotify.com/album/2J00JQTIgdXIitOoiDGmze"
       },
@@ -1454,7 +1580,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 182039,
       "name": "NIGHTCHILLS",
       "url": "https://open.spotify.com/track/0ol9nUJwdlPfuZebW4Hjbx"
@@ -1897,6 +2023,24 @@
     },
     {
       "album": {
+        "name": "Siberia",
+        "url": "https://open.spotify.com/album/4JchqHQ7JY7d2o29hRBwNl"
+      },
+      "artists": [
+        {
+          "name": "Youth Group",
+          "url": "https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306224,
+      "name": "Siberia",
+      "url": "https://open.spotify.com/track/1w1nnGhf73p35nG99WLuRn"
+    },
+    {
+      "album": {
         "name": "Silicone Booby Trap",
         "url": "https://open.spotify.com/album/67s6MzyFnNgjf9u1ZmVeJW"
       },
@@ -2005,6 +2149,24 @@
     },
     {
       "album": {
+        "name": "Sow",
+        "url": "https://open.spotify.com/album/4ZQ3fVCBqwPtoFDsA3EAlu"
+      },
+      "artists": [
+        {
+          "name": "Bukowski",
+          "url": "https://open.spotify.com/artist/68HpOv7DefjopAabpaQZjR"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172931,
+      "name": "Sow",
+      "url": "https://open.spotify.com/track/7yL6dFWL7mIdyIVE2lZZwX"
+    },
+    {
+      "album": {
         "name": "Spaceman",
         "url": "https://open.spotify.com/album/7DwNN6vPMPnWaYkNPFI7Ie"
       },
@@ -2088,10 +2250,28 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 180234,
       "name": "Sungazer",
       "url": "https://open.spotify.com/track/4d0iW7Fl3u9BNdsXZdFAgb"
+    },
+    {
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/0rId55lrGayRo1Rg03rw0N"
+      },
+      "artists": [
+        {
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198775,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/59w3l9AtHg12xMOEvFr1MX"
     },
     {
       "album": {
@@ -2110,6 +2290,24 @@
       "duration_ms": 175951,
       "name": "Superweak",
       "url": "https://open.spotify.com/track/2TF4DWgC82TZZVFRDU1ZO3"
+    },
+    {
+      "album": {
+        "name": "Take Another Lap",
+        "url": "https://open.spotify.com/album/5jI6bVwij1SAY7BeIJ3Y5x"
+      },
+      "artists": [
+        {
+          "name": "Sunset Avenue",
+          "url": "https://open.spotify.com/artist/3HNM9YjCmcGu7yA7npg510"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153766,
+      "name": "Take Another Lap",
+      "url": "https://open.spotify.com/track/5AIzVo1aeyqQLu3auFTzpg"
     },
     {
       "album": {
@@ -2196,7 +2394,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 200736,
       "name": "Think Again, Motherf*cker",
       "url": "https://open.spotify.com/track/38AibaRLGt76ZG2ZbQX4Nd"
@@ -2275,6 +2473,24 @@
     },
     {
       "album": {
+        "name": "Train Of Thought",
+        "url": "https://open.spotify.com/album/0N4ORxBPHET947R4bRXa00"
+      },
+      "artists": [
+        {
+          "name": "Camino Gold",
+          "url": "https://open.spotify.com/artist/4VbbF8VGwTH0Erx5PYg3Hi"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209930,
+      "name": "Train Of Thought",
+      "url": "https://open.spotify.com/track/6GaPDdfzlU3xgOvqkXGs4H"
+    },
+    {
+      "album": {
         "name": "Trip Hazard",
         "url": "https://open.spotify.com/album/0fgoHh6b6b8SDeaYBK068h"
       },
@@ -2286,7 +2502,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 169800,
       "name": "Trip Hazard",
       "url": "https://open.spotify.com/track/5vmbouG8UIOoKQYKrnTc55"
@@ -2416,6 +2632,24 @@
       "duration_ms": 185863,
       "name": "wishiwasyourgirlfriend",
       "url": "https://open.spotify.com/track/2p4sVdfiITeycwJSqWKoxO"
+    },
+    {
+      "album": {
+        "name": "WOLFGANG",
+        "url": "https://open.spotify.com/album/3mJP6hRjQNjKBVMSh3sN6n"
+      },
+      "artists": [
+        {
+          "name": "Friends of Friends",
+          "url": "https://open.spotify.com/artist/40ok5HAzsmqFmyJnjE37cI"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204790,
+      "name": "WOLFGANG",
+      "url": "https://open.spotify.com/track/3NPjJchxfEdDjMzJUWYL0V"
     },
     {
       "album": {

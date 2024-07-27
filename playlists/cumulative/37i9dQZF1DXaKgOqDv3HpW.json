@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 199700,
       "name": "Companion",
       "url": "https://open.spotify.com/track/1FgtKAO4lPSU7C83CLIOqu"
@@ -1608,6 +1608,24 @@
       "duration_ms": 152236,
       "name": "Ethereal",
       "url": "https://open.spotify.com/track/0e3Pzob0dTYuUoZTs4iwpr"
+    },
+    {
+      "album": {
+        "name": "Euphorbia",
+        "url": "https://open.spotify.com/album/7EeOiU8Qqo3S2W50EmlecQ"
+      },
+      "artists": [
+        {
+          "name": "Spatial Dreams",
+          "url": "https://open.spotify.com/artist/282ZRlxKvwVEVwifRfdTbu"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Euphorbia",
+      "url": "https://open.spotify.com/track/0PMeXNfujLqdkJf0faJKxK"
     },
     {
       "album": {
@@ -2655,6 +2673,24 @@
     },
     {
       "album": {
+        "name": "Meaningful Existence",
+        "url": "https://open.spotify.com/album/2vfx3tT8Gv3a5BvRKksf8H"
+      },
+      "artists": [
+        {
+          "name": "The Endity",
+          "url": "https://open.spotify.com/artist/5byrQ0NUcEyy0c3U5xPBdm"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207871,
+      "name": "Meaningful Existence",
+      "url": "https://open.spotify.com/track/2nVklUKcB3i8fixjU122ZI"
+    },
+    {
+      "album": {
         "name": "Mellowing",
         "url": "https://open.spotify.com/album/5MeWH6c1ydvsTzSF1m63IM"
       },
@@ -3588,7 +3624,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 230652,
       "name": "Rainfall",
       "url": "https://open.spotify.com/track/4dnxPuIHGCSmEUG7vkfSBw"
@@ -3793,6 +3829,24 @@
     },
     {
       "album": {
+        "name": "Salt",
+        "url": "https://open.spotify.com/album/1HQnhNQCeOlQq4DhNRGtKC"
+      },
+      "artists": [
+        {
+          "name": "Arres\u00f8",
+          "url": "https://open.spotify.com/artist/0BmJFwqURRCKIFX8hH0gV1"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178218,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/5gqw1d1pT2w9pNo1iBfIAG"
+    },
+    {
+      "album": {
         "name": "Sami Lok",
         "url": "https://open.spotify.com/album/45h8HZSocufB5d9hIzyWJC"
       },
@@ -3966,7 +4020,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 198396,
       "name": "Semper Fidelis",
       "url": "https://open.spotify.com/track/554NJ5Ny6aTx4UqUG07BsW"
@@ -4272,7 +4326,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 185892,
       "name": "Soulless",
       "url": "https://open.spotify.com/track/46KPIWh1Al8DsFptr5JUSS"
@@ -4308,7 +4362,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 145898,
       "name": "Space And Time",
       "url": "https://open.spotify.com/track/2WlKoxl8hJiuOgKolOH3WR"
@@ -4675,6 +4729,24 @@
     },
     {
       "album": {
+        "name": "Tranquillitas",
+        "url": "https://open.spotify.com/album/5VAIQlrornmuqAmiFuDQdo"
+      },
+      "artists": [
+        {
+          "name": "John Caelo",
+          "url": "https://open.spotify.com/artist/5l5WPtiUdbPCJy66rG17Sd"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188204,
+      "name": "Tranquillitas",
+      "url": "https://open.spotify.com/track/3i89PNM7JKsaqKoI871L80"
+    },
+    {
+      "album": {
         "name": "Ulayaw",
         "url": "https://open.spotify.com/album/2qoEb7DazQiYwE5zsGtiDd"
       },
@@ -5010,7 +5082,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 167738,
       "name": "Where Mountains Reign",
       "url": "https://open.spotify.com/track/2ud8PfizwtkZ0IKrCyhZkC"
@@ -5154,7 +5226,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 152000,
       "name": "\u00c9jszakai",
       "url": "https://open.spotify.com/track/2qHGPanT2ux9hwZDbmPr8t"

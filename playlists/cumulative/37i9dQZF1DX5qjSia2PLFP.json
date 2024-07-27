@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music breaking waves. Cover: <a href=\"spotify:artist:2fBU7rOViK7ywwHCIYEa7h\">Dee Billz</a> ",
+  "description": "New music breaking waves. Cover: <a href=\"spotify:artist:4EnRRIOfqBmNcsTj4tReXq\">Nippa</a> ",
   "name": "Ripple Effect",
   "tracks": [
     {
@@ -246,6 +246,28 @@
       "duration_ms": 192051,
       "name": "1OF1",
       "url": "https://open.spotify.com/track/4eeBkMilZ85ie8eBZCRs3O"
+    },
+    {
+      "album": {
+        "name": "2 Slippery (feat. BossMan Dlow)",
+        "url": "https://open.spotify.com/album/7cBXapGzVCQsld2gtyhCBG"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159228,
+      "name": "2 Slippery (feat. BossMan Dlow)",
+      "url": "https://open.spotify.com/track/7nfkuao1AhviRSUU5BXpYQ"
     },
     {
       "album": {
@@ -1895,6 +1917,28 @@
     },
     {
       "album": {
+        "name": "big lexii' (hands on your knees)",
+        "url": "https://open.spotify.com/album/5ZDfhxEwHVsuDz2Cz6TPzN"
+      },
+      "artists": [
+        {
+          "name": "Destin Laurel",
+          "url": "https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR"
+        },
+        {
+          "name": "Ziahfyah",
+          "url": "https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143147,
+      "name": "big lexii' (hands on your knees)",
+      "url": "https://open.spotify.com/track/6V9OjgnanRVRdrlE5jtkFX"
+    },
+    {
+      "album": {
         "name": "Snake Me",
         "url": "https://open.spotify.com/album/2311S2LhvI7TfK6SqdvkWf"
       },
@@ -2394,6 +2438,24 @@
       "duration_ms": 165000,
       "name": "Body 4 Body",
       "url": "https://open.spotify.com/track/0Ox26lF6O06E1v4XXAtazy"
+    },
+    {
+      "album": {
+        "name": "The Coldest (Deluxe)",
+        "url": "https://open.spotify.com/album/2QeSLxCXPtRWzIyd7oTdM2"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200819,
+      "name": "Body Bangin",
+      "url": "https://open.spotify.com/track/2iI1L6fEvcB0yS97Z2DntS"
     },
     {
       "album": {
@@ -4162,6 +4224,24 @@
       "duration_ms": 112954,
       "name": "cult classic (feat. Vayda)",
       "url": "https://open.spotify.com/track/6SeNaSjWcFBTiXhWYt4kcS"
+    },
+    {
+      "album": {
+        "name": "Cut Throat",
+        "url": "https://open.spotify.com/album/6B2stWZ4klviTCWlLPtjJm"
+      },
+      "artists": [
+        {
+          "name": "STAR BANDZ",
+          "url": "https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113700,
+      "name": "Cut Throat",
+      "url": "https://open.spotify.com/track/2Yx0CfzJeQsSWWyeN8NXrd"
     },
     {
       "album": {
@@ -9058,7 +9138,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 178981,
       "name": "Katana",
       "url": "https://open.spotify.com/track/4IDVtE6XNoPicVq3b58pep"
@@ -11590,6 +11670,24 @@
       "duration_ms": 145000,
       "name": "Not A Day Goes By",
       "url": "https://open.spotify.com/track/15JeD2Kfn596DzP2IITfJ8"
+    },
+    {
+      "album": {
+        "name": "NOT ALL THAT",
+        "url": "https://open.spotify.com/album/69s31hDJvmYWwJx2TOIUHo"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142285,
+      "name": "NOT ALL THAT",
+      "url": "https://open.spotify.com/track/2K0ULBaljOe2NCOqtuqyxB"
     },
     {
       "album": {
@@ -15502,7 +15600,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 143092,
       "name": "SportsCenter",
       "url": "https://open.spotify.com/track/0ouOFAkST5sCy2f2XLJHdP"
@@ -15582,6 +15680,24 @@
       "duration_ms": 97461,
       "name": "SSwerve Geeked (with Lil Tony Official)",
       "url": "https://open.spotify.com/track/7D4tRp3QtrHeyqKxOdxIxt"
+    },
+    {
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/45U3g8nL4BlpuD93BmbIv5"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124728,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/6LM7O0ujf9VfPleIQA1bWm"
     },
     {
       "album": {
@@ -16173,6 +16289,28 @@
     },
     {
       "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/0o8DHoxt1tkA2lugrdnViD"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148467,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/6aFyUn6Z9YujYwOI7QsWLZ"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2rIrWq7n4FrnDwEyIUlBpJ"
       },
@@ -16344,7 +16482,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 156428,
       "name": "TECHNICIAN (feat. Blaqbonez & Lekaa Beats)",
       "url": "https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv"
@@ -17564,6 +17702,24 @@
       "duration_ms": 177600,
       "name": "VTMNTS",
       "url": "https://open.spotify.com/track/4Rsdf9jpMj8LyFV4hgm4RF"
+    },
+    {
+      "album": {
+        "name": "Vulture",
+        "url": "https://open.spotify.com/album/3NMlQpQmM9UTilzO3WaPM7"
+      },
+      "artists": [
+        {
+          "name": "EBK Jaaybo",
+          "url": "https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188119,
+      "name": "Vulture",
+      "url": "https://open.spotify.com/track/77Q0N60N7yV8JhXPhwWeTQ"
     },
     {
       "album": {

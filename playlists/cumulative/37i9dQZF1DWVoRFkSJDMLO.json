@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "Inspired by African drums... welcome to the function. Cover: EverythingOShauN & Bolu Ajibade \ud83c\uddef\ud83c\uddf2 \ud83c\uddf3\ud83c\uddec",
+  "description": "Inspired by African drums... welcome to the function. Cover: SPINALL, Omah Lay, Tyla \ud83c\uddf3\ud83c\uddec \ud83c\uddf3\ud83c\uddec \ud83c\uddff\ud83c\udde6 ",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -162,6 +162,28 @@
       "duration_ms": 187906,
       "name": "2 Sugar (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
+    },
+    {
+      "album": {
+        "name": "207",
+        "url": "https://open.spotify.com/album/5ZGzNUDy8PA9qIa3bYrHMG"
+      },
+      "artists": [
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        },
+        {
+          "name": "Ren\u00e9 Soso Pembe",
+          "url": "https://open.spotify.com/artist/4VbRAkOhCxEkuNK4EeVFIM"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 510382,
+      "name": "207",
+      "url": "https://open.spotify.com/track/6EgqrmhXNRv4v5tLdiDvde"
     },
     {
       "album": {
@@ -3408,7 +3430,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 188314,
       "name": "CALYPSO",
       "url": "https://open.spotify.com/track/3o2g4rjFVgHsRFSa2qcpgr"
@@ -4197,6 +4219,24 @@
     },
     {
       "album": {
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/1YbRs4SwuFdcT0AeyWR6Ou"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167967,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/4J9pZf7opviT7wVqOMsh45"
+    },
+    {
+      "album": {
         "name": "Wordle Riddim",
         "url": "https://open.spotify.com/album/5Qzyi64m3ak0GXtcd5bemz"
       },
@@ -4546,7 +4586,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 158387,
       "name": "Denge IV",
       "url": "https://open.spotify.com/track/2ZfqGYJqezAO0mJOh5UCoG"
@@ -5170,7 +5210,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 285263,
       "name": "Dweet / Come Outside (feat. Buju Banton)",
       "url": "https://open.spotify.com/track/3lMepcTtQixtD73XPhLA0a"
@@ -5404,6 +5444,24 @@
       "duration_ms": 180157,
       "name": "Endless",
       "url": "https://open.spotify.com/track/6Sjfvyk5dEtdGFPCF37mYe"
+    },
+    {
+      "album": {
+        "name": "Endless Vibes",
+        "url": "https://open.spotify.com/album/43PIeAeRBVzA8iE0MM7PJj"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147473,
+      "name": "Endless Vibe",
+      "url": "https://open.spotify.com/track/0s8EUdOerqXJZ4LgNcYA9O"
     },
     {
       "album": {
@@ -6333,6 +6391,24 @@
     },
     {
       "album": {
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/1pO92dZ7DxgDRjInu5Ajjo"
+      },
+      "artists": [
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156699,
+      "name": "Forward",
+      "url": "https://open.spotify.com/track/3qEpKw9SFu9Fb3qrr9X0u6"
+    },
+    {
+      "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
@@ -6356,6 +6432,24 @@
       "duration_ms": 153600,
       "name": "Forward From Trini (feat. Skillibeng & Skeng)",
       "url": "https://open.spotify.com/track/0llFq02Nqzra7ZRfSjBxan"
+    },
+    {
+      "album": {
+        "name": "Franco Faux",
+        "url": "https://open.spotify.com/album/4IYqodds5NOcV9gLuZEM0c"
+      },
+      "artists": [
+        {
+          "name": "Tresor Online",
+          "url": "https://open.spotify.com/artist/1hEJdtqsrl3gauld2QWt15"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200735,
+      "name": "Franco Faux",
+      "url": "https://open.spotify.com/track/62TLAaqPgZaIPT0d4thD7W"
     },
     {
       "album": {
@@ -7808,7 +7902,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 198032,
       "name": "Higher Life",
       "url": "https://open.spotify.com/track/45hcfulMM8BGDKFj6MnZv6"
@@ -8164,7 +8258,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 214373,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/22USf4j0JNMxr9nZvrq2E4"
@@ -8974,7 +9068,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 169824,
       "name": "Jeje",
       "url": "https://open.spotify.com/track/3J6yVWwtgHvYazpP0E8evl"
@@ -10117,6 +10211,28 @@
     },
     {
       "album": {
+        "name": "LIFESTYLE",
+        "url": "https://open.spotify.com/album/7MQy2VfgrtsZz4hXvsQOz4"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "LIFESTYLE",
+      "url": "https://open.spotify.com/track/50v9IKJoA8b1Qqx7wwdZzf"
+    },
+    {
+      "album": {
         "name": "Like (feat. Kizz Daniel)",
         "url": "https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB"
       },
@@ -10742,7 +10858,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 150765,
       "name": "Love Garden",
       "url": "https://open.spotify.com/track/2Q0XIOSmJ8DAONrIimShb6"
@@ -11060,7 +11176,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 245750,
       "name": "Made For Me - Yumbs\u2019 Amapiano Remix",
       "url": "https://open.spotify.com/track/3liiv1wmlYn2b7rnHRU2db"
@@ -14651,6 +14767,28 @@
     },
     {
       "album": {
+        "name": "12 Summers",
+        "url": "https://open.spotify.com/album/2vwrznrv1jDOypUWHGKTi5"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139285,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3rLyUo8KBJCP5YPA3Getfj"
+    },
+    {
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/54mr7b1004Jqg9PD185VI1"
       },
@@ -14762,7 +14900,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 162500,
       "name": "Problems (feat Dexta Daps) (Remix)",
       "url": "https://open.spotify.com/track/6KK6bOrm0NWzNfNPvuVe74"
@@ -15876,7 +16014,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 223990,
       "name": "Sade",
       "url": "https://open.spotify.com/track/0h09jdyYa1ncmUTcAHiZU1"
@@ -16976,7 +17114,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 223701,
       "name": "So Amazing",
       "url": "https://open.spotify.com/track/3VB0HFwWTvEi1Fc2JtP7Av"
@@ -17477,6 +17615,54 @@
     },
     {
       "album": {
+        "name": "Spit",
+        "url": "https://open.spotify.com/album/69sM4KiEGA4ZNiBiMu1C3i"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        },
+        {
+          "name": "Lady Lykez",
+          "url": "https://open.spotify.com/artist/2G7c1PLHP1kGjq6XAol0MS"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156572,
+      "name": "Spit",
+      "url": "https://open.spotify.com/track/2avR02odSSywf3NTMLXrbZ"
+    },
+    {
+      "album": {
+        "name": "Sprung (with Mical Teja)",
+        "url": "https://open.spotify.com/album/5CQ63ZWFQ4WGPrpujDGNFf"
+      },
+      "artists": [
+        {
+          "name": "Jimmy October",
+          "url": "https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn"
+        },
+        {
+          "name": "Mical Teja",
+          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176603,
+      "name": "Sprung (with Mical Teja)",
+      "url": "https://open.spotify.com/track/2n4yRktLv5hA22OpcflSg4"
+    },
+    {
+      "album": {
         "name": "Stamina",
         "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
       },
@@ -17874,7 +18060,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 148849,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/1VJNtSm6DuTEBwwZl2g1Bm"

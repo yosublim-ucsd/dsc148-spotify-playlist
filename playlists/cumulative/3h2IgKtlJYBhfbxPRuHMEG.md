@@ -2,9 +2,9 @@
 
 ### [Bass Drop](https://open.spotify.com/playlist/3h2IgKtlJYBhfbxPRuHMEG)
 
-> The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: FrostTop
+> The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: EDDIE
 
-131 songs - 7 hr 26 min
+132 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Bring It Back](https://open.spotify.com/track/0buwgzsh8fD57lvbXxyROq) | [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3), [Badrapper](https://open.spotify.com/artist/1Bl3QCicq2EeV9mY4GLtBP) | [Bring It Back](https://open.spotify.com/album/2ObKAtseS82uSdYRXVj7t0) | 2:30 | 2023-12-01 | 2024-04-27 |
 | [CAN YOU SEE ME?](https://open.spotify.com/track/2YeHtUuRFJeeeJtGGmLp5a) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [CAN YOU SEE ME?](https://open.spotify.com/album/1tiNJggspDrowgtBP4w25O) | 2:21 | 2024-02-16 |  |
 | [Check It](https://open.spotify.com/track/787DSlF1TBLbuhQpMwIfQP) | [X&G](https://open.spotify.com/artist/5ic5UHDgniVG1xKLAIU9sG), [2Point](https://open.spotify.com/artist/2UJ2r33q0mvsJAsixQZZCo) | [Check It](https://open.spotify.com/album/1MIzD3it6Op0anzYO6EbPc) | 3:46 | 2023-12-01 | 2024-04-27 |
+| [Check This](https://open.spotify.com/track/2DIKCVLxEwCInD7apxfMVH) | [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [Onzeker Kraft Vol\. 1.5](https://open.spotify.com/album/6jU5BRvsHFuEmIt00ePEwV) | 2:59 | 2024-07-26 |  |
 | [Closer](https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer](https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA) | 2:15 | 2023-12-01 |  |
 | [Collect Call \- Adventure Club Remix](https://open.spotify.com/track/4mDhR5nTFXmHdZxMBmaZrm) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl), [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa) | [Collect Call \(Adventure Club Remix\)](https://open.spotify.com/album/5SoxPgdiY1o9nlK37v6h3V) | 3:28 | 2024-04-26 | 2024-05-04 |
 | [Counting](https://open.spotify.com/track/0jozSNmRCcQvIzuae6xQ78) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Counting](https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi) | 3:52 | 2023-12-01 |  |

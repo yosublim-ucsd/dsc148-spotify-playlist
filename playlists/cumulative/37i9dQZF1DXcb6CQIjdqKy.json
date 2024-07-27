@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: <a href=\"spotify:artist:1SZMaiNHfdUuU0qZKZ6y62\">Newsboys</a>",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: <a href=\"spotify:artist:1scVfBymTr3CeZ4imMj1QJ\">Forrest Frank</a>",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -2243,6 +2243,24 @@
     },
     {
       "album": {
+        "name": "Come To Jesus",
+        "url": "https://open.spotify.com/album/64isdca2SFyemz43Rbls3T"
+      },
+      "artists": [
+        {
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222106,
+      "name": "Come To Jesus",
+      "url": "https://open.spotify.com/track/16aYn9DxGwZ4IAa8Hit2t5"
+    },
+    {
+      "album": {
         "name": "Come What May",
         "url": "https://open.spotify.com/album/0kBsmG4T0XwOPIrq7LKJpc"
       },
@@ -2554,7 +2572,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 191786,
       "name": "DARKNESS BEFORE THE DAWN!",
       "url": "https://open.spotify.com/track/7fYPGeh5sIKyH2LXTZBTP6"
@@ -4024,7 +4042,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 281509,
       "name": "Give Me You",
       "url": "https://open.spotify.com/track/77IonObfdmAlX3XZpZ4QT8"
@@ -4648,7 +4666,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 163457,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/5ISFFwzDlnzcFrvhp0egaf"
@@ -5230,6 +5248,28 @@
       "duration_ms": 258130,
       "name": "Hands Of The Healer",
       "url": "https://open.spotify.com/track/1JQsy5MkGA400fSEumjxWN"
+    },
+    {
+      "album": {
+        "name": "Happily Hidden",
+        "url": "https://open.spotify.com/album/5fCirlLG6ch2MFWyOA5B9b"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        },
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233129,
+      "name": "Happily Hidden (with John Mark McMillan)",
+      "url": "https://open.spotify.com/track/1KSbEDEuafGfz2fuioe5uK"
     },
     {
       "album": {
@@ -6599,6 +6639,24 @@
     },
     {
       "album": {
+        "name": "I FEEL HOME",
+        "url": "https://open.spotify.com/album/0VLOPfxc8lPX1d9zEzfDZM"
+      },
+      "artists": [
+        {
+          "name": "Joseph O'Brien",
+          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203409,
+      "name": "I FEEL HOME",
+      "url": "https://open.spotify.com/track/0BFYrL6UGqLnQuNdnTb9at"
+    },
+    {
+      "album": {
         "name": "I Got You",
         "url": "https://open.spotify.com/album/70oL8RgGaLCkwEyMXBEmGu"
       },
@@ -6614,6 +6672,24 @@
       "duration_ms": 184186,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE"
+    },
+    {
+      "album": {
+        "name": "I Love Jesus",
+        "url": "https://open.spotify.com/album/596PxhjTOrMpb9O9bAZn45"
+      },
+      "artists": [
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161201,
+      "name": "I Love Jesus",
+      "url": "https://open.spotify.com/track/2dppBpYsyfUJUNbTDoxq1a"
     },
     {
       "album": {
@@ -8704,7 +8780,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 137935,
       "name": "Like It's Nothing",
       "url": "https://open.spotify.com/track/02YM8DkdT6wLISMeD5ufpu"
@@ -9100,7 +9176,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 308280,
       "name": "Loved",
       "url": "https://open.spotify.com/track/5LQ70Yd2fF8LTCG3e2xfaR"
@@ -9568,6 +9644,28 @@
       "duration_ms": 277893,
       "name": "Miracle Power",
       "url": "https://open.spotify.com/track/0EVQYyD5xzmiEjXKRjJ8tx"
+    },
+    {
+      "album": {
+        "name": "CHILD OF GOD",
+        "url": "https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183829,
+      "name": "MIRACLE WORKER",
+      "url": "https://open.spotify.com/track/1D9ByxtOr0trURwGmKG7wm"
     },
     {
       "album": {
@@ -10122,7 +10220,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 145034,
       "name": "NEVER GET USED TO THIS",
       "url": "https://open.spotify.com/track/1VFxnzJWG7LWYTrHNwGt9P"
@@ -10888,7 +10986,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 251214,
       "name": "Open Up The Gates",
       "url": "https://open.spotify.com/track/7CtnDUvsmFcH0fRU1Tr0Qf"
@@ -13013,6 +13111,24 @@
     },
     {
       "album": {
+        "name": "Sound Of Heaven",
+        "url": "https://open.spotify.com/album/71jLkGv1qbvhauU8KDfZc9"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200986,
+      "name": "Sound Of Heaven",
+      "url": "https://open.spotify.com/track/6drDEHrFUutQCSXpW6ApcF"
+    },
+    {
+      "album": {
         "name": "Speak To The Mountains",
         "url": "https://open.spotify.com/album/0DarwZB6QqkYibYbA74XTT"
       },
@@ -13494,6 +13610,28 @@
       "duration_ms": 223653,
       "name": "Take Heart",
       "url": "https://open.spotify.com/track/5G2Zcq1ut2Frfzjhw8M4vI"
+    },
+    {
+      "album": {
+        "name": "Take It All (Live in Abuja)",
+        "url": "https://open.spotify.com/album/70mWW2AS00l9ML2YeXoVio"
+      },
+      "artists": [
+        {
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 621706,
+      "name": "Take it All - Live",
+      "url": "https://open.spotify.com/track/70k721hYulEd5Og7o8dAcE"
     },
     {
       "album": {
@@ -15445,6 +15583,32 @@
     },
     {
       "album": {
+        "name": "The End Is Where We Begin (Reignited)",
+        "url": "https://open.spotify.com/album/16MNeZcjwtkgTEFhzH8uWH"
+      },
+      "artists": [
+        {
+          "name": "Thousand Foot Krutch",
+          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
+        },
+        {
+          "name": "James Michael",
+          "url": "https://open.spotify.com/artist/2bSKmRmeOllt2ZQFhdPUU0"
+        },
+        {
+          "name": "Sixx:A.M.",
+          "url": "https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199511,
+      "name": "We Are - Reignited",
+      "url": "https://open.spotify.com/track/50TafdtkhYtn51TaY2N91x"
+    },
+    {
+      "album": {
         "name": "Songs From The Loft",
         "url": "https://open.spotify.com/album/3KS2ekoGoEmLlDfPVDBdhv"
       },
@@ -16328,7 +16492,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 160922,
       "name": "WON'T LET TOMORROW",
       "url": "https://open.spotify.com/track/0PFlqBbPx0Yszs1deYB5uH"

@@ -322,7 +322,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 209677,
       "name": "Crash and Burn",
       "url": "https://open.spotify.com/track/71yDRBo3i9b5kQZClMO2t4"
@@ -643,6 +643,24 @@
     },
     {
       "album": {
+        "name": "it's alright",
+        "url": "https://open.spotify.com/album/2sh9FG6zeOq9yl91bgwBoh"
+      },
+      "artists": [
+        {
+          "name": "InBetween Honey",
+          "url": "https://open.spotify.com/artist/3dUXgmYPiKgVslodN39C6v"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "it's alright",
+      "url": "https://open.spotify.com/track/7rA54vu3U32Xr2jT0evIyg"
+    },
+    {
+      "album": {
         "name": "Kilanova Horizon",
         "url": "https://open.spotify.com/album/4to3MRaVBH84yfK3d9tUTI"
       },
@@ -799,6 +817,24 @@
     },
     {
       "album": {
+        "name": "mercury",
+        "url": "https://open.spotify.com/album/6eyW0ajwUcgoujd1mgkVL5"
+      },
+      "artists": [
+        {
+          "name": "kleio",
+          "url": "https://open.spotify.com/artist/11e9KWi4xzznWbBrOzkPpT"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "mercury",
+      "url": "https://open.spotify.com/track/066GOqmEF3x8tIeQbv9Bgc"
+    },
+    {
+      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/3G42XIfhlSjYR61Cg8pb6u"
       },
@@ -864,7 +900,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 255825,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/5EkUqB1C5Ki6vOwjy61c6W"
@@ -886,6 +922,24 @@
       "duration_ms": 164000,
       "name": "Out of Style",
       "url": "https://open.spotify.com/track/1yYHHDEniESPk9iNFr5nyR"
+    },
+    {
+      "album": {
+        "name": "Part Of You",
+        "url": "https://open.spotify.com/album/5guvor0zF8XSjPPvdEwIRM"
+      },
+      "artists": [
+        {
+          "name": "Four Faces",
+          "url": "https://open.spotify.com/artist/3pEp0EpInOqtjpm9O03n0H"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221092,
+      "name": "Part Of You",
+      "url": "https://open.spotify.com/track/2PFF992BZV08mBUmBjXwZ2"
     },
     {
       "album": {
@@ -1008,7 +1062,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 168438,
       "name": "runs in my blood",
       "url": "https://open.spotify.com/track/60p8IvR68vMra7G2ir640M"

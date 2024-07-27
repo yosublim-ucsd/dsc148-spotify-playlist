@@ -1,13 +1,221 @@
 {
   "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu?si=uw8Pr4YUQSiftuVfDdkfWA\">Kenji</a>. Updates every Wednesday.",
-  "num_followers": 245141,
+  "num_followers": 245349,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqC0FgAAAABKV2RbavEfvRwboEx/2KoX",
+  "snapshot_id": "ZqN6FAAAAACmer2ioDYT+o7ieT5E6mvj",
   "tracks": [
+    {
+      "added_at": "2024-07-26 10:27:32",
+      "album": {
+        "name": "GoCrazy",
+        "url": "https://open.spotify.com/album/4E3mzji98FX9bpcAzbKBol"
+      },
+      "artists": [
+        {
+          "name": "NYA",
+          "url": "https://open.spotify.com/artist/0JkKPtdoOFdrZDPswFPQku"
+        }
+      ],
+      "duration_ms": 119171,
+      "name": "GoCrazy",
+      "url": "https://open.spotify.com/track/0NVCRdUETavHCMawAWVyQA"
+    },
+    {
+      "added_at": "2024-07-26 10:27:32",
+      "album": {
+        "name": "FLIGHTS",
+        "url": "https://open.spotify.com/album/0u1o8ISszon1vkIkYQRRlA"
+      },
+      "artists": [
+        {
+          "name": "JEMS!",
+          "url": "https://open.spotify.com/artist/4gWkKMPLSCHcWWbw6ouXHe"
+        },
+        {
+          "name": "Elujay",
+          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
+        },
+        {
+          "name": "J.Robb",
+          "url": "https://open.spotify.com/artist/2DfpfU9DpRLC3EuWLKyy4m"
+        }
+      ],
+      "duration_ms": 232647,
+      "name": "FLIGHTS",
+      "url": "https://open.spotify.com/track/1W12kMWCu5O4zZQMZ8vqjQ"
+    },
+    {
+      "added_at": "2024-07-26 10:27:32",
+      "album": {
+        "name": "ALL-WAYS",
+        "url": "https://open.spotify.com/album/3LHt0fIWXbz3T65CXNSnw3"
+      },
+      "artists": [
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        },
+        {
+          "name": "Astr\u00f8nne",
+          "url": "https://open.spotify.com/artist/2DOAWdT8xBtf0aLDS5U8yN"
+        }
+      ],
+      "duration_ms": 216029,
+      "name": "ALL-WAYS",
+      "url": "https://open.spotify.com/track/6Q3TUkA7ZrOmZm6dzTYVEo"
+    },
+    {
+      "added_at": "2024-07-26 10:27:32",
+      "album": {
+        "name": "Kowloon Demos",
+        "url": "https://open.spotify.com/album/7ySns1kCZwDoIoVVTzuCBK"
+      },
+      "artists": [
+        {
+          "name": "Deb Fan",
+          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
+        },
+        {
+          "name": "Sol ChYld",
+          "url": "https://open.spotify.com/artist/43NRWiAqxHBNVOUqmPFHMz"
+        }
+      ],
+      "duration_ms": 137323,
+      "name": "Start Over",
+      "url": "https://open.spotify.com/track/78kYtBkp5ggAano4idZvhB"
+    },
+    {
+      "added_at": "2024-07-26 10:27:32",
+      "album": {
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/2HvEn8jo8GldIm4x8XNxJc"
+      },
+      "artists": [
+        {
+          "name": "Tia Gordon",
+          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/6FVxPZcVkOFmNITqXZfQgR"
+    },
+    {
+      "added_at": "2024-07-26 10:27:32",
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/7BXN1VMWfzd7QLTO6fsTNv"
+      },
+      "artists": [
+        {
+          "name": "Siaira Shawn",
+          "url": "https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX"
+        }
+      ],
+      "duration_ms": 134941,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/4hmfC5c57LjOLm3tUvMpZD"
+    },
+    {
+      "added_at": "2024-07-26 10:27:32",
+      "album": {
+        "name": "I Wanna",
+        "url": "https://open.spotify.com/album/0sZxfPTPYUQ7tCmCjyiWy0"
+      },
+      "artists": [
+        {
+          "name": "Essii",
+          "url": "https://open.spotify.com/artist/2TolczZeUz7fcmlANnFcMJ"
+        }
+      ],
+      "duration_ms": 130841,
+      "name": "I Wanna",
+      "url": "https://open.spotify.com/track/7vMDtQo3RbOx3rAONunUZS"
+    },
+    {
+      "added_at": "2024-07-26 10:27:32",
+      "album": {
+        "name": "Love U 4 Free",
+        "url": "https://open.spotify.com/album/6n2PFsREf1HDwpQRQnIkpd"
+      },
+      "artists": [
+        {
+          "name": "Dajah Dorn",
+          "url": "https://open.spotify.com/artist/1Izq0qVic6VD59UHbfxkEI"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Love U 4 Free",
+      "url": "https://open.spotify.com/track/2SJSNPRk6odWx5KUK4kbeH"
+    },
+    {
+      "added_at": "2024-07-26 10:27:32",
+      "album": {
+        "name": "Three Dimensional",
+        "url": "https://open.spotify.com/album/5CsYmjYQY5PYQRz712jksi"
+      },
+      "artists": [
+        {
+          "name": "Tash",
+          "url": "https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR"
+        }
+      ],
+      "duration_ms": 186428,
+      "name": "Three Dimensional",
+      "url": "https://open.spotify.com/track/2cEHTjkvQcMWVGlyiPttt8"
+    },
+    {
+      "added_at": "2024-07-26 10:27:32",
+      "album": {
+        "name": "At Your Best (You Are Love) [DMW Edition]",
+        "url": "https://open.spotify.com/album/29t4fZCLweWhj0yWLJ6yXr"
+      },
+      "artists": [
+        {
+          "name": "David Michael Wyatt",
+          "url": "https://open.spotify.com/artist/3nBYRtHTuSZGhDataNGunX"
+        }
+      ],
+      "duration_ms": 228543,
+      "name": "At Your Best (You Are Love) [DMW Edition]",
+      "url": "https://open.spotify.com/track/5VkjQUxHQ5ht4cvIyX6K0Q"
+    },
+    {
+      "added_at": "2024-07-26 10:27:32",
+      "album": {
+        "name": "Mutual",
+        "url": "https://open.spotify.com/album/3pMW84zrUQeGG0NaRkMEor"
+      },
+      "artists": [
+        {
+          "name": "NYA",
+          "url": "https://open.spotify.com/artist/5uERvTFbsm2Py897MvRSAs"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Mutual",
+      "url": "https://open.spotify.com/track/1WZTS0pAuX7zpeFfWpxEla"
+    },
+    {
+      "added_at": "2024-07-26 10:27:32",
+      "album": {
+        "name": "13:7",
+        "url": "https://open.spotify.com/album/0pss0dGKwYTpiGYBblwlel"
+      },
+      "artists": [
+        {
+          "name": "Baby J",
+          "url": "https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK"
+        }
+      ],
+      "duration_ms": 169927,
+      "name": "Run Like Crazy",
+      "url": "https://open.spotify.com/track/32XZLbr580MwaWATTFGAv4"
+    },
     {
       "added_at": "2024-07-24 07:58:14",
       "album": {
@@ -2703,26 +2911,6 @@
     {
       "added_at": "2024-05-17 08:11:26",
       "album": {
-        "name": "IN THE NAME",
-        "url": "https://open.spotify.com/album/7fZDtxKbQV4HNdX79MZe9H"
-      },
-      "artists": [
-        {
-          "name": "Sedric Perry",
-          "url": "https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw"
-        },
-        {
-          "name": "K.ZIA",
-          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
-        }
-      ],
-      "duration_ms": 157575,
-      "name": "IN THE NAME",
-      "url": "https://open.spotify.com/track/3FCmtk3c7f7cNM0Nap2LKV"
-    },
-    {
-      "added_at": "2024-05-17 08:11:26",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/60AMwv8QSorDMqhQrXBeDD"
       },
@@ -2751,26 +2939,6 @@
       "duration_ms": 145518,
       "name": "Outta Bounds",
       "url": "https://open.spotify.com/track/4j5hvjaPGOPie1Avm97mOO"
-    },
-    {
-      "added_at": "2024-05-17 08:11:26",
-      "album": {
-        "name": "too nice",
-        "url": "https://open.spotify.com/album/1tQGXdCoKxD5XT64xXysAu"
-      },
-      "artists": [
-        {
-          "name": "jacuzzi jefferson",
-          "url": "https://open.spotify.com/artist/2OxHUuZT8RnLcPEqiQDUFw"
-        },
-        {
-          "name": "Annie Lux",
-          "url": "https://open.spotify.com/artist/54vSGePBrdJojNSXh13DwN"
-        }
-      ],
-      "duration_ms": 145793,
-      "name": "too nice",
-      "url": "https://open.spotify.com/track/1T3UldWGI4GWOX9Co6u2oj"
     },
     {
       "added_at": "2024-05-17 08:11:26",
@@ -2913,22 +3081,6 @@
       "url": "https://open.spotify.com/track/1pyICTBf3mMbtiuZxGyEWi"
     },
     {
-      "added_at": "2024-05-03 05:19:25",
-      "album": {
-        "name": "RUN IT UP",
-        "url": "https://open.spotify.com/album/1cgCjBTcG7VoJSPO3zqFHD"
-      },
-      "artists": [
-        {
-          "name": "Eli Derby",
-          "url": "https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u"
-        }
-      ],
-      "duration_ms": 171830,
-      "name": "RUN IT UP",
-      "url": "https://open.spotify.com/track/61JULUpoXsq4f7Qm4sgbdo"
-    },
-    {
       "added_at": "2024-05-08 16:00:00",
       "album": {
         "name": "bills",
@@ -2963,22 +3115,6 @@
     {
       "added_at": "2024-05-03 05:19:25",
       "album": {
-        "name": "New Beginnings",
-        "url": "https://open.spotify.com/album/0dOkdpavoIyGjpcihlQfQL"
-      },
-      "artists": [
-        {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
-        }
-      ],
-      "duration_ms": 184148,
-      "name": "New Beginnings",
-      "url": "https://open.spotify.com/track/2p63i5ntlS4BvoL0ijU9bG"
-    },
-    {
-      "added_at": "2024-05-03 05:19:25",
-      "album": {
         "name": "STRANGER",
         "url": "https://open.spotify.com/album/6gSBxqPuN6AXr7fex6doay"
       },
@@ -3007,22 +3143,6 @@
       "duration_ms": 183695,
       "name": "Yeah You (Thinkin Bout You)",
       "url": "https://open.spotify.com/track/2VtWKB9VhOzTvN6DIGa9e1"
-    },
-    {
-      "added_at": "2024-05-03 05:19:25",
-      "album": {
-        "name": "Don't Wanna Be Your Lover",
-        "url": "https://open.spotify.com/album/5SlFmv4tqIe0njGCts2qBR"
-      },
-      "artists": [
-        {
-          "name": "BeMyFiasco",
-          "url": "https://open.spotify.com/artist/2WDSk4ZbwCw2E99XV6gkRk"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Don't Wanna Be Your Lover",
-      "url": "https://open.spotify.com/track/6okkK8ONzqH9rAZ53WashX"
     },
     {
       "added_at": "2024-05-03 05:19:25",
@@ -3141,38 +3261,6 @@
       "url": "https://open.spotify.com/track/5rv9k7djjWFq8LzsnMkINx"
     },
     {
-      "added_at": "2024-05-03 05:19:25",
-      "album": {
-        "name": "Something Burning",
-        "url": "https://open.spotify.com/album/5SicShvCbTp0ZJqjmhjjLA"
-      },
-      "artists": [
-        {
-          "name": "Lee Lewis",
-          "url": "https://open.spotify.com/artist/3tRVUPgHPgsvchAc7zGu4D"
-        }
-      ],
-      "duration_ms": 182907,
-      "name": "Sugar Baby",
-      "url": "https://open.spotify.com/track/1ftIR5m7n0JRqVR81tjJiR"
-    },
-    {
-      "added_at": "2024-05-03 05:19:25",
-      "album": {
-        "name": "Cruel",
-        "url": "https://open.spotify.com/album/1L17zAtAnSpPSm3mCh757R"
-      },
-      "artists": [
-        {
-          "name": "Charity",
-          "url": "https://open.spotify.com/artist/1zakWJ9ww8UBu0JjydTRtz"
-        }
-      ],
-      "duration_ms": 205170,
-      "name": "Cruel",
-      "url": "https://open.spotify.com/track/2RhAlW5bOJkYcFo9fMG7eJ"
-    },
-    {
       "added_at": "2024-04-24 14:45:44",
       "album": {
         "name": "Hold Up",
@@ -3255,22 +3343,6 @@
       "duration_ms": 134000,
       "name": "The Life",
       "url": "https://open.spotify.com/track/2HzSHAtrNZfiLpNtYv4HUc"
-    },
-    {
-      "added_at": "2024-04-24 14:45:44",
-      "album": {
-        "name": "Hard 2 Find",
-        "url": "https://open.spotify.com/album/75QPjs6WHkvu3yOlzYfT0m"
-      },
-      "artists": [
-        {
-          "name": "Papa Jay",
-          "url": "https://open.spotify.com/artist/18Q9sSUKyTM1CxVBn1s2Wg"
-        }
-      ],
-      "duration_ms": 171841,
-      "name": "Hard 2 Find",
-      "url": "https://open.spotify.com/track/5dj735BIEpGltPUzmcC79i"
     },
     {
       "added_at": "2024-04-24 14:45:44",

@@ -6029,6 +6029,24 @@
     },
     {
       "album": {
+        "name": "That's All Right",
+        "url": "https://open.spotify.com/album/2asRe9Gst5dPh1OPwdHg2R"
+      },
+      "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179197,
+      "name": "That's All Right",
+      "url": "https://open.spotify.com/track/6mnNzspvGs07xahHtjKShp"
+    },
+    {
+      "album": {
         "name": "That's What Love Will Make You Do",
         "url": "https://open.spotify.com/album/7xmzTkr3X0BrctEwkEDqcp"
       },
@@ -6482,7 +6500,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 231666,
       "name": "Through Being Blue Over You",
       "url": "https://open.spotify.com/track/36seRRquB1YkdjuTlrVc1V"

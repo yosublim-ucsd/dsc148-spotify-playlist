@@ -254,7 +254,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 225240,
       "name": "Had a Dad",
       "url": "https://open.spotify.com/track/3HVS01vPf5NMGS7ACAyEXv"
@@ -330,6 +330,24 @@
       "duration_ms": 181133,
       "name": "Idiots Rule",
       "url": "https://open.spotify.com/track/51Nh6X9tfaBLQF3YyK6s2A"
+    },
+    {
+      "album": {
+        "name": "Imminent Redemption",
+        "url": "https://open.spotify.com/album/1jezAfCTEWx7jbda6iUxAi"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Imminent Redemption",
+      "url": "https://open.spotify.com/track/4ysBDkdjmgz56zPVswaA7B"
     },
     {
       "album": {
@@ -686,7 +704,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 185160,
       "name": "Standing in the Shower...Thinking",
       "url": "https://open.spotify.com/track/7DzT745Oi9NI016FEkjWNa"

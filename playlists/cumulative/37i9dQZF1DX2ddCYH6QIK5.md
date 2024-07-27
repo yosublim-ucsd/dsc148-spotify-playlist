@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Mel D, Artwork: Isu Kim.
 
-1,171 songs - 2 day 19 hr 5 min
+1,172 songs - 2 day 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1081,6 +1081,7 @@
 | [Venus/Mars](https://open.spotify.com/track/4ZJiBy96b5INuQZXbsGoLL) | [MITMISCHEN](https://open.spotify.com/artist/02BkREPofdRZIVYBPDaHgc), [Elfi](https://open.spotify.com/artist/4eWDXF7bBpqkHdKtQ2grlg) | [MM001](https://open.spotify.com/album/4ZMDpSqddkubkcmrEHTVpT) | 3:16 | 2024-06-26 | 2024-07-17 |
 | [Verdammt \- Radio Edit](https://open.spotify.com/track/6B8hCZtANfdTrU4y9P9R5i) | [Acud](https://open.spotify.com/artist/6nkfC5ET7sPeZHTZN5X78N) | [Verdammt](https://open.spotify.com/album/3f9JcIzhjRr3h58sJOt2qT) | 3:37 | 2022-11-16 | 2023-03-02 |
 | [Vergessen](https://open.spotify.com/track/5WeGFWL4t9mOvoL7G4SWEm) | [LVLV](https://open.spotify.com/artist/4f1nPBKEn1GBmx64v3r4uc) | [Vergessen](https://open.spotify.com/album/5DHn7wY7WrdLZTBOLIvAaQ) | 2:13 | 2023-07-05 | 2023-08-24 |
+| [vergiss die drei](https://open.spotify.com/track/4RFE1DlyM7KjKUUOOFWq1K) | [lenzy](https://open.spotify.com/artist/1zhcGENkWmlGu0UGcC8ESf), [Sören Last](https://open.spotify.com/artist/7tGTL3UqB3eC9C3oP8OR6n) | [vergiss die drei](https://open.spotify.com/album/02jTGbKrt4VHms8gQxb4NC) | 1:57 | 2024-07-24 |  |
 | [Verliebt](https://open.spotify.com/track/3W7cU8Ncut4H5YiwwpXADz) | [PaLe](https://open.spotify.com/artist/5Wq4nzgvTsSygwNDobgw0t) | [Verliebt](https://open.spotify.com/album/4fYJ4EUk44iikUbQFLrFtn) | 2:39 | 2023-03-08 | 2023-04-20 |
 | [Verlierer](https://open.spotify.com/track/5AB3MVHFVMqEK1OSMdeXxv) | [Ellie Mic](https://open.spotify.com/artist/6Hs32fFWLEseo1FOIOMlwW) | [Verlierer](https://open.spotify.com/album/6dynCf9r1ABitOURv8Abpx) | 2:33 | 2022-10-26 | 2022-11-10 |
 | [vermis](https://open.spotify.com/track/7LlnGj6eWF37IaJKOuZmfH) | [westermann](https://open.spotify.com/artist/3CpxEgAzIvRyjyzRM8pWAc) | [vermis](https://open.spotify.com/album/4bHNkhRUd2Mu5yc0UxeWlE) | 7:25 | 2024-06-05 |  |

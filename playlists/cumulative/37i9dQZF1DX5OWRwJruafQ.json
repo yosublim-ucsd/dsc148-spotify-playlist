@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 108493,
       "name": "0 to 100",
       "url": "https://open.spotify.com/track/7cVe3mYMIfhOlz1NXFWv70"
@@ -715,6 +715,28 @@
     },
     {
       "album": {
+        "name": "Att",
+        "url": "https://open.spotify.com/album/7vIksV0AHUeZNYWasymdPw"
+      },
+      "artists": [
+        {
+          "name": "Venom",
+          "url": "https://open.spotify.com/artist/5lZ9zdkK3hlyU2m2WyoPDZ"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Att",
+      "url": "https://open.spotify.com/track/56qSePm8XOkRVKb8u8avmN"
+    },
+    {
+      "album": {
         "name": "Bangers",
         "url": "https://open.spotify.com/album/498Rnyy18ac5qqgoFv8HZz"
       },
@@ -1024,6 +1046,28 @@
       "duration_ms": 174375,
       "name": "Bandook",
       "url": "https://open.spotify.com/track/0PI4h632z9m5GWEV5UuBJr"
+    },
+    {
+      "album": {
+        "name": "Barks",
+        "url": "https://open.spotify.com/album/7hIJMW0abXIaHukdRuCp8l"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        },
+        {
+          "name": "Azaad 4L",
+          "url": "https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143529,
+      "name": "Barks",
+      "url": "https://open.spotify.com/track/5AcWXb7VURDdZeSLa75d71"
     },
     {
       "album": {
@@ -2621,6 +2665,28 @@
     },
     {
       "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/3amPlcoQ8ZifGXfq016JYK"
+      },
+      "artists": [
+        {
+          "name": "Shahat Gill",
+          "url": "https://open.spotify.com/artist/7JYrslpC4w9YRhzwFDZSZV"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114193,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/14vkIURua4zQpM11RG43A1"
+    },
+    {
+      "album": {
         "name": "Excited",
         "url": "https://open.spotify.com/album/3tSrUwOd0bpchOFDr23apD"
       },
@@ -3804,7 +3870,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 146291,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/0we5RCdeet7eNtk7WPLuBk"
@@ -4753,6 +4819,32 @@
     },
     {
       "album": {
+        "name": "The Finest",
+        "url": "https://open.spotify.com/album/47gUYtnZNZBbbcwc6YMdAy"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "Billa Bakshi",
+          "url": "https://open.spotify.com/artist/5bbQpJJq77oqHSLGMbqogg"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231503,
+      "name": "Kaale Angoor",
+      "url": "https://open.spotify.com/track/5HUq5gDxWR1VW0hb37NjOw"
+    },
+    {
+      "album": {
         "name": "Kaka",
         "url": "https://open.spotify.com/album/7LQsR1iVrL8BL78lJzu38Q"
       },
@@ -5146,7 +5238,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 160500,
       "name": "Lalkara",
       "url": "https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5"
@@ -6867,6 +6959,28 @@
     },
     {
       "album": {
+        "name": "Punjab",
+        "url": "https://open.spotify.com/album/7fUILa4pyo0qFQmfc1VXpZ"
+      },
+      "artists": [
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219107,
+      "name": "Punjab",
+      "url": "https://open.spotify.com/track/3rHWjldztRlz9qjmNBLIf5"
+    },
+    {
+      "album": {
         "name": "Puthe Kamm",
         "url": "https://open.spotify.com/album/49pgzd02VxYIe6HfQBlIOo"
       },
@@ -7202,7 +7316,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 188571,
       "name": "Rubicon Drill",
       "url": "https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N"
@@ -7620,7 +7734,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 169148,
       "name": "Short Name Jatt Da Blackia (From \"Blackia 2\")",
       "url": "https://open.spotify.com/track/2JA67ah6FJW1ikoEjjUSLg"
@@ -8329,6 +8443,24 @@
     },
     {
       "album": {
+        "name": "The Finest",
+        "url": "https://open.spotify.com/album/47gUYtnZNZBbbcwc6YMdAy"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221357,
+      "name": "The Finest",
+      "url": "https://open.spotify.com/track/20NmNGHaPFHNWmNwsray0v"
+    },
+    {
+      "album": {
         "name": "The Jatts",
         "url": "https://open.spotify.com/album/2D6zdA2au6SvqCkIUkXbWb"
       },
@@ -8856,7 +8988,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 177056,
       "name": "Wafadari",
       "url": "https://open.spotify.com/track/23ShsM2ccqsWz4dxdaJl0O"

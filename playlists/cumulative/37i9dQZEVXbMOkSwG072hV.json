@@ -6845,6 +6845,24 @@
     },
     {
       "album": {
+        "name": "Bloquinho da Agonia 1.0",
+        "url": "https://open.spotify.com/album/5nRLFA2YCfJnvQdrwwdg7U"
+      },
+      "artists": [
+        {
+          "name": "Os Africanos",
+          "url": "https://open.spotify.com/artist/2vAfV52NyCCHRY8WUqnjD2"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446432,
+      "name": "Bloquinho da Agonia 1.0",
+      "url": "https://open.spotify.com/track/1J0yA8GoN2GUoxEG4njbkR"
+    },
+    {
+      "album": {
         "name": "Bloquinho da Putaria 1.0",
         "url": "https://open.spotify.com/album/6sc5tfIJey5qTv3xOSt9w4"
       },
@@ -9460,6 +9478,28 @@
       "duration_ms": 115562,
       "name": "Chapadinha na Gaveta",
       "url": "https://open.spotify.com/track/6n7CZFET4ezOR6F5T7J3oC"
+    },
+    {
+      "album": {
+        "name": "Chapeluda",
+        "url": "https://open.spotify.com/album/51FF5oBK0q9Fr639TnOES3"
+      },
+      "artists": [
+        {
+          "name": "Jeninho",
+          "url": "https://open.spotify.com/artist/6MV2UXdX8Pqy25rI7dl6os"
+        },
+        {
+          "name": "Marcelinx",
+          "url": "https://open.spotify.com/artist/1qiEEUs3i1EFylwhh1qmCI"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144923,
+      "name": "Chapeluda",
+      "url": "https://open.spotify.com/track/7cvkRqpx8xtSreFfOg6HPz"
     },
     {
       "album": {
@@ -15024,10 +15064,32 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 132922,
       "name": "Ela Joga na Hora",
       "url": "https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k"
+    },
+    {
+      "album": {
+        "name": "Ela Joga na Hora",
+        "url": "https://open.spotify.com/album/30Ytb0PG1tOv7JiKOTBK2v"
+      },
+      "artists": [
+        {
+          "name": "Mc Pogba",
+          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
+        },
+        {
+          "name": "DJ Guih Da ZO",
+          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132922,
+      "name": "Ela Joga na Hora",
+      "url": "https://open.spotify.com/track/6hZGsChumRhWG24OEh698c"
     },
     {
       "album": {
@@ -17026,7 +17088,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-25",
+      "date_removed": null,
       "duration_ms": 168019,
       "name": "Eu Queria Mudar",
       "url": "https://open.spotify.com/track/4lUZVC3KhiLlIHR5wcxfoo"
@@ -23758,7 +23820,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 150000,
       "name": "JOYRIDE",
       "url": "https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0"
@@ -24992,7 +25054,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 194000,
       "name": "Les Ballas",
       "url": "https://open.spotify.com/track/1cKZvLMqX7Dj2hLQERIYlo"
@@ -30735,6 +30797,24 @@
     },
     {
       "album": {
+        "name": "Montagem Bi\u00f4n\u00edca Espectral 2",
+        "url": "https://open.spotify.com/album/7bmJvjFssJPBmYjzZy6Blu"
+      },
+      "artists": [
+        {
+          "name": "DJ OLIVEIRA ORIGINAL",
+          "url": "https://open.spotify.com/artist/1cCYuIofJkQf9YN1FZo5A4"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80754,
+      "name": "Montagem Bi\u00f4n\u00edca Espectral 2",
+      "url": "https://open.spotify.com/track/2IrBwLPRPWoqVjWPJ9qkUN"
+    },
+    {
+      "album": {
         "name": "Montagem Celestial de Atenas",
         "url": "https://open.spotify.com/album/1ZDSWNvpRCtsvLrKEh9a50"
       },
@@ -34998,7 +35078,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 138090,
       "name": "N\u00e3o \u00e9 S\u00f3 o Nome",
       "url": "https://open.spotify.com/track/6JW6zYhgeX8UiL1APykpoo"
@@ -36948,10 +37028,28 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 186069,
       "name": "Palavras de Perd\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/1b4OldCIxTO7DcqYdvdlOM"
+    },
+    {
+      "album": {
+        "name": "Maturidade (Deluxe)",
+        "url": "https://open.spotify.com/album/0ejAiP3MX6qORbvfIt62ps"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Tavares",
+          "url": "https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186069,
+      "name": "Palavras de Perd\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/3mBsIJP7qmGeJMfKllBMeZ"
     },
     {
       "album": {
@@ -37495,7 +37593,7 @@
     },
     {
       "album": {
-        "name": "Ao Vivo Bar deT\u00f5e Furico",
+        "name": "No Bar de T\u00f5e Furico (Ao Vivo)",
         "url": "https://open.spotify.com/album/0A4m8mPzLSwJwuOAniS4KC"
       },
       "artists": [
@@ -38942,7 +39040,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 167936,
       "name": "Poder de Mentir - Ao Vivo",
       "url": "https://open.spotify.com/track/5qMyN3dzXKb5P1MiKyqupZ"
@@ -45406,7 +45504,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 182840,
       "name": "Smeraldo Garden Marching Band (feat. Loco)",
       "url": "https://open.spotify.com/track/1agDCV4zQqaFwJQNsTgmL1"
@@ -45657,7 +45755,7 @@
     },
     {
       "album": {
-        "name": "Ao Vivo Bar deT\u00f5e Furico",
+        "name": "No Bar de T\u00f5e Furico (Ao Vivo)",
         "url": "https://open.spotify.com/album/0A4m8mPzLSwJwuOAniS4KC"
       },
       "artists": [
@@ -49674,7 +49772,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 186994,
       "name": "Toque Carinhoso",
       "url": "https://open.spotify.com/track/6s10JhCg5l6ckm8sdviEea"

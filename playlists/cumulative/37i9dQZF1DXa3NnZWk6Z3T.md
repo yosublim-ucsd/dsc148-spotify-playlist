@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-373 songs - 21 hr 37 min
+375 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Cigarrito y Café](https://open.spotify.com/track/4zCcsSId3HZ6DvjFcxmg2l) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [Cigarrito y Café](https://open.spotify.com/album/40BCKQLAweweUfSrr4Pyhj) | 2:51 | 2021-12-09 |  |
 | [Ciudad Hembra \(La Habana\)](https://open.spotify.com/track/6swmCwTX7kHTHCBhWCY41f) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Kelvis Ochoa](https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm) | [Ciudad Hembra \(La Habana\)](https://open.spotify.com/album/4q4EcWgffH5Cr6Ylfzk9pp) | 3:32 | 2021-12-09 | 2024-07-10 |
 | [Claridad](https://open.spotify.com/track/219jqVvucWF77DMgyB3UAf) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2) | [Mar Abierto](https://open.spotify.com/album/6ggfwl5PZYQc4F3xk5g2GE) | 2:53 | 2022-05-14 | 2024-04-19 |
-| [Claridad](https://open.spotify.com/track/2CZp6sRzNcCPkvnrzy89bF) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2) | [Claridad](https://open.spotify.com/album/3p1iWnA4UhCi9fe7tKU4cF) | 2:53 | 2021-12-09 |  |
+| [Claridad](https://open.spotify.com/track/2CZp6sRzNcCPkvnrzy89bF) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2) | [Claridad](https://open.spotify.com/album/3p1iWnA4UhCi9fe7tKU4cF) | 2:53 | 2021-12-09 | 2024-07-27 |
 | [Cliché](https://open.spotify.com/track/76UUkIG3gQz3LZIDPywl4q) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Singles 2019\-2021](https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY) | 3:44 | 2022-09-21 | 2024-04-19 |
 | [Cliché](https://open.spotify.com/track/4LibnjBGrnHExVThKnN3BG) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Cliché](https://open.spotify.com/album/7aVEWvrRBqfRArFCJUtfVf) | 3:44 | 2021-12-09 | 2022-07-29 |
 | [COCA](https://open.spotify.com/track/6FGPm7bIN62PrBDIq54srN) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [COCA](https://open.spotify.com/album/3VMfHdjjQPWFJ78v7euYvt) | 3:41 | 2021-12-09 | 2022-07-29 |
@@ -144,6 +144,7 @@
 | [Eres Tú](https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:48 | 2022-08-19 | 2022-10-28 |
 | [Esperanza \(feat\. Agarrate Catalina\)](https://open.spotify.com/track/3yUylEQIeozYWNXv8MIGqJ) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Agarrate Catalina](https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:46 | 2021-12-09 |  |
 | [Espiritual](https://open.spotify.com/track/5XU7fx5eLBb8C3uFYqikrQ) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Espiritual](https://open.spotify.com/album/0pzR57yGM9wOsRzmVU64lP) | 3:51 | 2021-12-09 | 2024-07-10 |
+| [Esta Nochecita](https://open.spotify.com/track/62EWq1EFW8Dnl74uN85SRz) | [Próxima Parada](https://open.spotify.com/artist/43cM1JWUzdfkZCi7rjkPnz) | [Esta Nochecita](https://open.spotify.com/album/5GGlJdTEg8Btl4pn3LtC7z) | 3:31 | 2024-07-26 |  |
 | [Estrellitas y Duendes](https://open.spotify.com/track/7GC0j38KfkV70zgEzediuv) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM) | [Let's Get Lost](https://open.spotify.com/album/6TLoLpAz4m6oHZScZ9oSkK) | 3:20 | 2021-12-09 | 2022-10-28 |
 | [Eterno Verano](https://open.spotify.com/track/1LKZ4TNbzvhXypk8XSEVOR) | [chimi](https://open.spotify.com/artist/3bERmnGbNw9n8tHKP5MUSj), [Marie Gabrielle Blix](https://open.spotify.com/artist/6dwPBKzmGIo6MlRAJ4cxFe) | [Eterno Verano](https://open.spotify.com/album/40LKXLc5JwGyVQ85mvdcEI) | 3:58 | 2023-05-26 |  |
 | [Eucalipto](https://open.spotify.com/track/4JFZ0ilVg7CenXhnDcJb4u) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Un Día A La Vez](https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ) | 2:40 | 2021-12-09 | 2022-03-22 |
@@ -234,7 +235,7 @@
 | [Nada Contigo](https://open.spotify.com/track/67lKJlELZYh8ouJkp6keaf) | [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Nada Contigo](https://open.spotify.com/album/5W7y6UiAJoDOO2UR88cbxd) | 3:23 | 2021-12-09 | 2022-07-27 |
 | [New Dawn](https://open.spotify.com/track/5BGwqU8mOCyyRP8PKmYMdV) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Dusk](https://open.spotify.com/album/37lyc3kkBpFuTUw6hacBIE) | 3:25 | 2024-02-23 | 2024-05-14 |
 | [No Me Gustan los Grises](https://open.spotify.com/track/3csSDv4S9IzB7FetDpBn66) | [Mery Granados](https://open.spotify.com/artist/0aJgv15DVDKvr0yWb5BzP1) | [No Me Gustan los Grises](https://open.spotify.com/album/2JzCk4SJDCnYXlP5RT6v4x) | 3:37 | 2022-05-14 | 2024-04-19 |
-| [No Me Gustan los Grises](https://open.spotify.com/track/7nwDOqPRUqHqlIwXpgRIIx) | [Mery Granados](https://open.spotify.com/artist/0aJgv15DVDKvr0yWb5BzP1) | [No Me Gustan los Grises](https://open.spotify.com/album/7e8XZwMNbPJCjf8EOcOXPE) | 3:37 | 2021-12-09 |  |
+| [No Me Gustan los Grises](https://open.spotify.com/track/7nwDOqPRUqHqlIwXpgRIIx) | [Mery Granados](https://open.spotify.com/artist/0aJgv15DVDKvr0yWb5BzP1) | [No Me Gustan los Grises](https://open.spotify.com/album/7e8XZwMNbPJCjf8EOcOXPE) | 3:37 | 2021-12-09 | 2024-07-27 |
 | [No Puedo Extrañarte](https://open.spotify.com/track/6cEY4wW5INlDK75bT7xQf0) | [Dos Garza](https://open.spotify.com/artist/7zsTwOXAbIeL7H8hJXgLt8), [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [No Puedo Extrañarte](https://open.spotify.com/album/2zzaRImwYVaNSEd8MASRoE) | 3:12 | 2024-03-14 |  |
 | [No Se Rompe](https://open.spotify.com/track/1BnkVwpoGjpeg8UBnir7bL) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [No Se Rompe](https://open.spotify.com/album/2IGysy3C2YRgPbN4VKQs1e) | 4:09 | 2021-12-09 | 2022-07-29 |
 | [No Se Rompe](https://open.spotify.com/track/4IneEfd293hMaAr3z7ywU1) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 4:09 | 2022-05-14 | 2024-04-19 |
@@ -333,6 +334,7 @@
 | [Te Quiero Olvidar](https://open.spotify.com/track/2u1UkcNp5l0NgTGjfl7fmZ) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/360aJ4E4087KXU6ESyvjL3) | 3:22 | 2023-12-01 | 2024-04-19 |
 | [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 | 2021-12-09 |  |
 | [Te Quiero y Nada Más](https://open.spotify.com/track/231pfMiC6M3uoGL6O040wx) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Te Quiero y Nada Más](https://open.spotify.com/album/1kVJ7GB3MUhabGNAip8URA) | 3:12 | 2021-12-09 | 2022-10-28 |
+| [Te Soñaba](https://open.spotify.com/track/5jhCXVjJEsmmJys48FEDIE) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Salvando las Distancias](https://open.spotify.com/album/2yM2f1BwK5B1xS1KugaqEt) | 3:55 | 2024-07-26 |  |
 | [Te Tengo Que Meter En Mi Vida \(Versión Acústica\)](https://open.spotify.com/track/4SIo06ibYgeT2BYcgld91I) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Canapecito](https://open.spotify.com/album/75TluJ3aGAelm57vQ3Hdo6) | 3:40 | 2022-05-14 | 2022-10-28 |
 | [Te Tengo Que Meter En Mi Vida \- Versión Acústica](https://open.spotify.com/track/1uVCCp3y3kdwmM41r3fsw7) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [La Noche Entera](https://open.spotify.com/album/3j49ZqSAOxShjCTvuVhtib) | 3:40 | 2021-12-09 | 2022-07-29 |
 | [Tierra Querida](https://open.spotify.com/track/15UftHtPcwWE23ON8b2uiR) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Tierra Querida](https://open.spotify.com/album/2iIbxTmZaOaRyImrEpvzdM) | 2:48 | 2022-08-19 |  |

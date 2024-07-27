@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 219456,
       "name": "Barsan Lagi - Instrumental",
       "url": "https://open.spotify.com/track/5uiBr9Y0pzpw5mST50Cza3"
@@ -526,7 +526,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 210426,
       "name": "Raag Khamaaj",
       "url": "https://open.spotify.com/track/6ufcp6KOftqEa44brvappw"
@@ -659,6 +659,24 @@
     },
     {
       "album": {
+        "name": "Roshan",
+        "url": "https://open.spotify.com/album/68TOQgbMmZ41jx8sCWyDWK"
+      },
+      "artists": [
+        {
+          "name": "Mehtab Ali Niazi",
+          "url": "https://open.spotify.com/artist/0VeyExXFhPsEQAqH9uyKWK"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "Roshan",
+      "url": "https://open.spotify.com/track/1eWN6erAfKufEeyVy5pEWI"
+    },
+    {
+      "album": {
         "name": "Roslyn",
         "url": "https://open.spotify.com/album/3bsbAbviduNFYBPMzVoMGp"
       },
@@ -760,7 +778,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 382500,
       "name": "Seeker",
       "url": "https://open.spotify.com/track/3TcvGdMcAdYRUdFYCbq4dJ"
@@ -1088,7 +1106,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 91325,
       "name": "Text me when you reach",
       "url": "https://open.spotify.com/track/4vAlFacTwAaeBJhij4jOZR"
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 115734,
       "name": "wyd tonight?",
       "url": "https://open.spotify.com/track/2hQrvdLWkVbOtiGqLPYI3g"

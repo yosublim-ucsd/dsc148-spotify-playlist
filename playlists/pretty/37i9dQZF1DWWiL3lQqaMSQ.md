@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain](/playlists/plain/37i9dQZF1DWWiL3lQqaMSQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWiL3lQqaMSQ)
 
-### [Stellar Awards Nominees](https://open.spotify.com/playlist/37i9dQZF1DWWiL3lQqaMSQ)
+### [Stellar Awards 2024](https://open.spotify.com/playlist/37i9dQZF1DWWiL3lQqaMSQ)
 
 > All of the 39th <a href="https://www.thestellarawards.com/index.html">Stellar Awards</a> nominees in one playlist!  Cover: <a href="spotify:artist:1aNtFg4D7HdF8jOppyKpUS">Pastor Mike Jr.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,431 likes - 54 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,439 likes - 54 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 | 53 | [Jesus Loves Me](https://open.spotify.com/track/6OiF9QP4UVOGRzkXxtWDgk) | [AMG Kidz](https://open.spotify.com/artist/6fD04pfmoLd8dPXnfCnX2L), [Kennedy Anderson](https://open.spotify.com/artist/6kPX5b3StmU5Uh0pwGAQ4s), [Nina Symmone](https://open.spotify.com/artist/3x7LcDPOX2YAyRniNlwn0H), [Noah Alexander](https://open.spotify.com/artist/42mLMQ5JA5NRDsAHc9KLBH) | [The Kidz Interlude](https://open.spotify.com/album/7reH3Hmd5IMbe9TD8o1RDu) | 5:05 |
 | 54 | [Joy to the World](https://open.spotify.com/track/2r66xB2N7ifD9GVSdh5FVQ) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE), [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Ultimate Kids Christmas Worship](https://open.spotify.com/album/5cAzMNwlrhXmi4vmcQjhCo) | 3:19 |
 
-Snapshot ID: `ZnHStgAAAAAYfJcZKTb/tWaxuMDzkKxS`
+Snapshot ID: `ZqQA0wAAAABvGfhPeceUGkw7CTPve04L`

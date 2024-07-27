@@ -4,7 +4,7 @@
 
 > Cele mai noi hituri pop românești\. Cover: MIRA, Juno
 
-63 songs - 2 hr 57 min
+64 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Nu Știi](https://open.spotify.com/track/6pIzd6GX9dJtx73xeHcxPR) | [Carla's Dreams](https://open.spotify.com/artist/1n5LD9Ar3D6RK2X2ewGvXb), [Blacklist](https://open.spotify.com/artist/3QvMYjA3Hfu62w8XUkRR4P) | [Nu Știi](https://open.spotify.com/album/6UJtTFwqorh9xVUjsagaFc) | 3:02 | 2024-06-27 |  |
 | [Număr Ascuns](https://open.spotify.com/track/10XrbvdxmCjP1zpZHigxAy) | [Edine](https://open.spotify.com/artist/69liRSrij8eMDTX2fKbICm) | [Număr Ascuns](https://open.spotify.com/album/1eXS1CYAvYYLtxfJV38Q13) | 2:34 | 2024-06-27 | 2024-07-12 |
 | [Paharul sus](https://open.spotify.com/track/5QWOtb0L5IYT8w4rMtmVZh) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE) | [Paharul sus](https://open.spotify.com/album/7bzdS7NDvKKveYuARtUx2Z) | 2:49 | 2024-06-27 | 2024-07-12 |
+| [Pe Repeat](https://open.spotify.com/track/6hSSAvIz88joRoZjgtVClV) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr), [Raluka](https://open.spotify.com/artist/4HLg5QDhyfOhneoTO9Id5U), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [Pe Repeat](https://open.spotify.com/album/4t6lLo1mgmi3ywffM7Rjoz) | 2:48 | 2024-07-25 |  |
 | [Pentru ca](https://open.spotify.com/track/6xAefOqCvDKEcOjPovAMc6) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn), [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY) | [Pentru ca](https://open.spotify.com/album/6xA5uMZ5SLFnv2K9IVKOUx) | 3:12 | 2024-06-27 |  |
 | [Peste mari \(si mai departe\)](https://open.spotify.com/track/01Zep4W0cA2H0WvjzyhX9Q) | [Alexia](https://open.spotify.com/artist/4aH4e1URpzxjf5BI01BxQz) | [Peste mari \(si mai departe\)](https://open.spotify.com/album/0r4Ncf8WFJ9iPQn2tazCIW) | 2:56 | 2024-06-27 |  |
 | [Prieteni](https://open.spotify.com/track/762tfyVXBlCKIzKebDJaVU) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [Prieteni](https://open.spotify.com/album/1oFPhfgmm9Bwo3olTP6a5G) | 2:49 | 2024-07-04 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Celebrando el Festival de Av\u00e1ndaro, hito del rock mexicano. \u00a1Paz y amor! Portada: Los Dug Dug's.",
-  "num_followers": 43210,
+  "num_followers": 43220,
   "original_name": "Rock Mexicano Av\u00e1ndaro",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-04-05 19:11:35",
       "album": {
-        "name": "Psychedelic Drugstore - Remastered",
-        "url": "https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP"
-      },
-      "artists": [
-        {
-          "name": "Aguaturbia",
-          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
-        }
-      ],
-      "duration_ms": 184163,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/44ixJpyPZYW5pgwgfTsSaR"
-    },
-    {
-      "added_at": "2024-04-05 19:11:35",
-      "album": {
         "name": "Back",
         "url": "https://open.spotify.com/album/38o2ntxhlyxZlCM2WmfeDw"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 250946,
       "name": "Back",
       "url": "https://open.spotify.com/track/7eZGDGbEoyZJeBl4PGyFSF"
+    },
+    {
+      "added_at": "2024-04-05 19:11:35",
+      "album": {
+        "name": "Psychedelic Drugstore - Remastered",
+        "url": "https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP"
+      },
+      "artists": [
+        {
+          "name": "Aguaturbia",
+          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
+        }
+      ],
+      "duration_ms": 184163,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/44ixJpyPZYW5pgwgfTsSaR"
     },
     {
       "added_at": "2024-04-05 19:11:35",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-04-05 19:11:35",
       "album": {
-        "name": "Regreso al Origen",
-        "url": "https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ciruela",
-          "url": "https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S"
-        }
-      ],
-      "duration_ms": 180226,
-      "name": "Acapulco Dorado",
-      "url": "https://open.spotify.com/track/5ytsmoEtQMsPYfFfxgZCd2"
-    },
-    {
-      "added_at": "2024-04-05 19:11:35",
-      "album": {
         "name": "Cambia, Cambia",
         "url": "https://open.spotify.com/album/77KHWR4kgEFYveU3I3e4j3"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 258293,
       "name": "Felicidad",
       "url": "https://open.spotify.com/track/69zNya4MS99hNuwBXZ46MT"
+    },
+    {
+      "added_at": "2024-04-05 19:11:35",
+      "album": {
+        "name": "Regreso al Origen",
+        "url": "https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ciruela",
+          "url": "https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S"
+        }
+      ],
+      "duration_ms": 180226,
+      "name": "Acapulco Dorado",
+      "url": "https://open.spotify.com/track/5ytsmoEtQMsPYfFfxgZCd2"
     },
     {
       "added_at": "2024-04-05 19:11:35",

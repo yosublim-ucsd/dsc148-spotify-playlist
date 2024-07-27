@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: Tophyun(\ud0d1\ud604)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: AIRI KANNA(\uc544\uc774\ub9ac \uce78\ub098)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -2408,6 +2408,24 @@
       "duration_ms": 209066,
       "name": "Blow it",
       "url": "https://open.spotify.com/track/73qOVlqO8xjJAf4zBRlfkY"
+    },
+    {
+      "album": {
+        "name": "Blue crystal",
+        "url": "https://open.spotify.com/album/6tpTeQ9ASVkIPKMxku4t1c"
+      },
+      "artists": [
+        {
+          "name": "AIRI KANNA",
+          "url": "https://open.spotify.com/artist/5RKYutk9PvyLwOXqIk191K"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227680,
+      "name": "Blue crystal",
+      "url": "https://open.spotify.com/track/4kOakG2UbtKwq3xI5FN9RH"
     },
     {
       "album": {

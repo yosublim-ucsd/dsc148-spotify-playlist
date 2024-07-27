@@ -82,7 +82,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 216000,
       "name": "10 Minutos",
       "url": "https://open.spotify.com/track/7exzjXAlIdaZN72iALsc5W"
@@ -2334,7 +2334,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 165436,
       "name": "Black Loro",
       "url": "https://open.spotify.com/track/4oXmqXtCQhbK77XGg4c8fx"
@@ -4001,6 +4001,36 @@
     },
     {
       "album": {
+        "name": "METamorFOSE",
+        "url": "https://open.spotify.com/album/3zMBfvaDJbLt68YHUO8Exp"
+      },
+      "artists": [
+        {
+          "name": "Boombeat",
+          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Saffi",
+          "url": "https://open.spotify.com/artist/7B2LE0Bhy4FxYlJnOuVO1k"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266581,
+      "name": "C\u00c9U",
+      "url": "https://open.spotify.com/track/7jBq26IBLcTCppW46tFsXq"
+    },
+    {
+      "album": {
         "name": "C\u00e9u Ros\u00e9",
         "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
       },
@@ -4780,6 +4810,36 @@
       "duration_ms": 179130,
       "name": "Do Alto do Morro",
       "url": "https://open.spotify.com/track/44a9EQmtpgKgy5MmGvOGSI"
+    },
+    {
+      "album": {
+        "name": "Do Jeito Que Ela Gosta",
+        "url": "https://open.spotify.com/album/5N3dIozEwpzQnN6AlBStiz"
+      },
+      "artists": [
+        {
+          "name": "Anna",
+          "url": "https://open.spotify.com/artist/3sLh7xqgu6RxVYokUj0nEx"
+        },
+        {
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+        },
+        {
+          "name": "Sucre",
+          "url": "https://open.spotify.com/artist/6SdlX8i3HPpAGh7FMAh9KF"
+        },
+        {
+          "name": "Zain",
+          "url": "https://open.spotify.com/artist/1OCu3xpRtpqgbk6aoxoxJp"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143762,
+      "name": "Do Jeito Que Ela Gosta",
+      "url": "https://open.spotify.com/track/6jhYRLgXWe5tqeGT3QkQds"
     },
     {
       "album": {

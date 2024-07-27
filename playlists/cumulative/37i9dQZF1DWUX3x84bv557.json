@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: Roxy Dekker & Ronnie Flex",
+  "description": "De nieuwste Nederlandse pop! Cover: Russo",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -2910,7 +2910,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 150674,
       "name": "Doe Maar",
       "url": "https://open.spotify.com/track/2oCFzEd9T5Tz9PWsINhaQ5"
@@ -3384,7 +3384,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 134528,
       "name": "Eloise",
       "url": "https://open.spotify.com/track/3QGIkkjhRIhRwanFXkenW9"
@@ -4078,7 +4078,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 198185,
       "name": "Groot - Single Edit",
       "url": "https://open.spotify.com/track/749cIrnjVzGv9DOpAk6GpQ"
@@ -5926,7 +5926,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 240249,
       "name": "Kom Met Me Dansen",
       "url": "https://open.spotify.com/track/3F6BHPhUkM5jKzpzJAxw90"
@@ -6028,6 +6028,24 @@
       "duration_ms": 132500,
       "name": "Kop In The Sand",
       "url": "https://open.spotify.com/track/4XCw1TmwEKcU2rbUQAvSNk"
+    },
+    {
+      "album": {
+        "name": "Koude Kermis",
+        "url": "https://open.spotify.com/album/3Ve9qOBRn7LGDOWeXsZUkR"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169744,
+      "name": "Koude Kermis",
+      "url": "https://open.spotify.com/track/00l6XjUBc3JGWGM0EpBkyD"
     },
     {
       "album": {
@@ -6476,6 +6494,28 @@
       "duration_ms": 170938,
       "name": "Leuker Als Je High Bent",
       "url": "https://open.spotify.com/track/06U72hUZSEgYuqhAUUKsn7"
+    },
+    {
+      "album": {
+        "name": "Leven Het Groots",
+        "url": "https://open.spotify.com/album/2a0OmGXhmN3U0GN8BKP6by"
+      },
+      "artists": [
+        {
+          "name": "Shary-An",
+          "url": "https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc"
+        },
+        {
+          "name": "Kenny B",
+          "url": "https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151191,
+      "name": "Leven Het Groots",
+      "url": "https://open.spotify.com/track/3WaWlhDgXD8ljeO3dqQd3q"
     },
     {
       "album": {
@@ -8265,6 +8305,42 @@
     },
     {
       "album": {
+        "name": "Op Mezelf",
+        "url": "https://open.spotify.com/album/2jri1gFMyIKRaurCQMfhmD"
+      },
+      "artists": [
+        {
+          "name": "Melo",
+          "url": "https://open.spotify.com/artist/5vYBzMTW35gwevpQGsjitg"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171363,
+      "name": "Op Mezelf",
+      "url": "https://open.spotify.com/track/2nynHxS5rjbnjXhRfU0gYH"
+    },
+    {
+      "album": {
+        "name": "Op Mijn Naam",
+        "url": "https://open.spotify.com/album/4qMhvdh3JIAIrY5g6BtDiC"
+      },
+      "artists": [
+        {
+          "name": "Elle Hollis",
+          "url": "https://open.spotify.com/artist/5ZCeCsLU92i1Uv75rarNNn"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155983,
+      "name": "Op Mijn Naam",
+      "url": "https://open.spotify.com/track/1CpxzjKRAftRzMKGUYovDR"
+    },
+    {
+      "album": {
         "name": "Opfok",
         "url": "https://open.spotify.com/album/2vrh59pa7DoAilw5DyAwju"
       },
@@ -8536,7 +8612,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 155428,
       "name": "Probleem",
       "url": "https://open.spotify.com/track/4xVtXdNuhtfhL4leTekn4b"
@@ -8966,7 +9042,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 130196,
       "name": "Samen \u00c9\u00e9n",
       "url": "https://open.spotify.com/track/00WpTUpQKUgqhGSm1RNd8V"
@@ -9765,6 +9841,24 @@
     },
     {
       "album": {
+        "name": "SULTAN",
+        "url": "https://open.spotify.com/album/6jrQOZh5znJxsDQYIlEkyf"
+      },
+      "artists": [
+        {
+          "name": "Gerson Main",
+          "url": "https://open.spotify.com/artist/4Dx8d8fm84Z6b1RDuF4Co7"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184080,
+      "name": "SULTAN",
+      "url": "https://open.spotify.com/track/3rPZCGFa9DHIPppYZwiLXX"
+    },
+    {
+      "album": {
         "name": "Tankstation",
         "url": "https://open.spotify.com/album/4eu8csS8j5wIwZuTVIRes3"
       },
@@ -9996,7 +10090,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 155151,
       "name": "Tikkie Voor De Tranen",
       "url": "https://open.spotify.com/track/6qhH43TLfe30AvzKPsvTEl"
@@ -10538,7 +10632,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 173649,
       "name": "Verdwaald",
       "url": "https://open.spotify.com/track/5ABrsAMNpulySlQ7B5JCEG"
@@ -10972,7 +11066,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 197204,
       "name": "Voor Je \u2018t Weet",
       "url": "https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD"
@@ -11160,7 +11254,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 203248,
       "name": "waarom met haar",
       "url": "https://open.spotify.com/track/2qodcGSBmMVTUhEnbyZ8my"
@@ -11374,7 +11468,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 158694,
       "name": "Wat Ik Ook Ga Doen",
       "url": "https://open.spotify.com/track/35BBNYg2fEtgYjkgJrGcg1"
@@ -12056,6 +12150,24 @@
       "duration_ms": 144886,
       "name": "Zolang ik geef",
       "url": "https://open.spotify.com/track/76eD9ClF3KI9nmpduI1eKm"
+    },
+    {
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/02439WgVLD2ns8utCIofyZ"
+      },
+      "artists": [
+        {
+          "name": "Matheu",
+          "url": "https://open.spotify.com/artist/5GKUHOGaoXmhdsDzuyFnAM"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137758,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/448ajdyzlu9PbPYOlsySoI"
     },
     {
       "album": {

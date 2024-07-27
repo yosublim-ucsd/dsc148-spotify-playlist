@@ -6055,6 +6055,32 @@
     },
     {
       "album": {
+        "name": "CASABLANCA",
+        "url": "https://open.spotify.com/album/7e42PdTgxPdTnL8UJEc9BD"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "Franklin WWT",
+          "url": "https://open.spotify.com/artist/2wn1GEkgU8x5i1fstfxog4"
+        },
+        {
+          "name": "Rvchet",
+          "url": "https://open.spotify.com/artist/6ITj5WewzBmhbCBS1jxY75"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193894,
+      "name": "CASABLANCA",
+      "url": "https://open.spotify.com/track/04QQKADf45xNvlgJHC9nvO"
+    },
+    {
+      "album": {
         "name": "Cascadeur",
         "url": "https://open.spotify.com/album/15My4RUkcR0XUYFscGbXHB"
       },
@@ -7632,7 +7658,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 201459,
       "name": "De Thymame",
       "url": "https://open.spotify.com/track/07ppHEbg7FoTTZXhcBizqm"
@@ -14355,6 +14381,28 @@
     },
     {
       "album": {
+        "name": "Hotel California",
+        "url": "https://open.spotify.com/album/4XshJnG1OCaUYbYuWlJCCB"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Tayna",
+          "url": "https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226595,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/6KIKPP18A8XR66bRVMy08k"
+    },
+    {
+      "album": {
         "name": "Goons",
         "url": "https://open.spotify.com/album/07r0WakxR92LhYYIR7Kbnb"
       },
@@ -17546,7 +17594,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 247346,
       "name": "KSEHORISTO",
       "url": "https://open.spotify.com/track/1mOLBCX3IRwGNDLqYzXpM5"
@@ -19466,7 +19514,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 157558,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/7EwaKpzXAsLm8I1ISbamYJ"
@@ -22134,7 +22182,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 631562,
       "name": "MIXTAPE",
       "url": "https://open.spotify.com/track/0ZiUhT3rhtIfspNKIZ5YIr"
@@ -25726,7 +25774,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 210000,
       "name": "Pano",
       "url": "https://open.spotify.com/track/6vAZ49VeVb8fQuSenKUBH2"
@@ -33316,6 +33364,28 @@
       "duration_ms": 173812,
       "name": "Titan",
       "url": "https://open.spotify.com/track/6wT0Y1mdjw4daSp4jvQgrz"
+    },
+    {
+      "album": {
+        "name": "TMC",
+        "url": "https://open.spotify.com/album/2e6sVmYoChoenjtWFbcxre"
+      },
+      "artists": [
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164265,
+      "name": "TMC",
+      "url": "https://open.spotify.com/track/3SHWhHNbN985xOYOsjBncJ"
     },
     {
       "album": {

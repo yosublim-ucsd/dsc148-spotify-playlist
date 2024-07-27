@@ -920,7 +920,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 156226,
       "name": "All My Tears",
       "url": "https://open.spotify.com/track/5tVUZvFsPHGGkQ5RF4CEC9"
@@ -4096,7 +4096,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 147002,
       "name": "Can't Forget You (Club Mix)",
       "url": "https://open.spotify.com/track/5t0poAfhVoI1xR7dbJ1mfW"
@@ -5406,7 +5406,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 134400,
       "name": "Could You Be Loved",
       "url": "https://open.spotify.com/track/74PQjt9auBuTHXoQk9ryS4"
@@ -7647,6 +7647,28 @@
     },
     {
       "album": {
+        "name": "Drumroll Please",
+        "url": "https://open.spotify.com/album/2qoUIOVBI5xG8NqBziLCYd"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "GRAVEDGR",
+          "url": "https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "Drumroll Please",
+      "url": "https://open.spotify.com/track/4lIeR1zvv0J8lEVRVI58NQ"
+    },
+    {
+      "album": {
         "name": "Drumz",
         "url": "https://open.spotify.com/album/2Ra6oSGqv15Kq0Lkik88ss"
       },
@@ -8442,7 +8464,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 145161,
       "name": "F#CK THE DJ",
       "url": "https://open.spotify.com/track/4S7ga0fgQ0Cblalhj4CdqY"
@@ -8636,7 +8658,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 143976,
       "name": "Fall At Your Feet (with Dean Lewis)",
       "url": "https://open.spotify.com/track/0M0a2E5H8pUmqDHs0A4931"
@@ -9847,6 +9869,24 @@
     },
     {
       "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/6I3Rl587VxzH15DqlrLvYS"
+      },
+      "artists": [
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/6fzROqo6llN4CCgCKJgKex"
+    },
+    {
+      "album": {
         "name": "Forget You (feat. Gabry Ponte) [LUM!X VIP MIX]",
         "url": "https://open.spotify.com/album/6TPq02HEuoWtmchqv4Ox77"
       },
@@ -10616,10 +10656,40 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 220652,
       "name": "Go Back (feat. AGGE)",
       "url": "https://open.spotify.com/track/4jWfLtPxJZroRYfb7dXttK"
+    },
+    {
+      "album": {
+        "name": "Go Back (feat. AGGE) [Bhaskar Remix]",
+        "url": "https://open.spotify.com/album/6wcEq4jwW6jtXk2JXPCWFE"
+      },
+      "artists": [
+        {
+          "name": "Bruno Be",
+          "url": "https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0"
+        },
+        {
+          "name": "BAKKA (BR)",
+          "url": "https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8"
+        },
+        {
+          "name": "AGGE",
+          "url": "https://open.spotify.com/artist/6lToVu9We2bx2cbmc0qtg9"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243870,
+      "name": "Go Back (feat. AGGE) [Bhaskar Remix]",
+      "url": "https://open.spotify.com/track/2rm1PhCv1Cu2LhOr1q4g5p"
     },
     {
       "album": {
@@ -10692,7 +10762,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 185041,
       "name": "God Is A Code",
       "url": "https://open.spotify.com/track/5tZ9Yr3cFpRsx8QMT3KOXh"
@@ -11497,6 +11567,24 @@
     },
     {
       "album": {
+        "name": "Hit It Pump It",
+        "url": "https://open.spotify.com/album/4peV30tMifVhtWh1Zpwndd"
+      },
+      "artists": [
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156079,
+      "name": "Hit It Pump It",
+      "url": "https://open.spotify.com/track/30qd0xN0XqELqCR4afZZTh"
+    },
+    {
+      "album": {
         "name": "Hold It!",
         "url": "https://open.spotify.com/album/3f5EBvYhhWTMARyUJnJmJe"
       },
@@ -11930,7 +12018,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 153103,
       "name": "Hurricane (feat. Leah Guest)",
       "url": "https://open.spotify.com/track/3cqQbJbm9KnTWixphVZJ2u"
@@ -12000,7 +12088,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 153230,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/5hDt0PaWpcCwgRtxW31I6e"
@@ -12456,6 +12544,28 @@
       "duration_ms": 175928,
       "name": "I Knew It Was You",
       "url": "https://open.spotify.com/track/7kQusuDe5nkQqqa6xMKFGF"
+    },
+    {
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/2B6R0BcDroDNT0vGoDrHPv"
+      },
+      "artists": [
+        {
+          "name": "Wave Wave",
+          "url": "https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9"
+        },
+        {
+          "name": "Tom Budin",
+          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211428,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/3QH2P5sVU0ZFXJRjefpKww"
     },
     {
       "album": {
@@ -16417,6 +16527,24 @@
     },
     {
       "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/3sbOgcdCl22ybRGsygeh4W"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/0Ztb6gvfzYnmD8HqBZaIVR"
+    },
+    {
+      "album": {
         "name": "Lotus (PAROOKAVILLE Anthem 2024)",
         "url": "https://open.spotify.com/album/7qyuA3NETBJ3gNvUWxHha6"
       },
@@ -16498,7 +16626,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 318802,
       "name": "Lotus (PAROOKAVILLE Anthem 2024) [Neelix & Sighter Remix]",
       "url": "https://open.spotify.com/track/7tptHWyA4KZrAxdEAAevVC"
@@ -17172,7 +17300,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 155742,
       "name": "Madan",
       "url": "https://open.spotify.com/track/5JzDUd8Iz8ol1f5WhfTJx9"
@@ -17919,6 +18047,24 @@
     },
     {
       "album": {
+        "name": "Midnight (Acoustic)",
+        "url": "https://open.spotify.com/album/1rYGBsDh5QXMXs5u9NpEj9"
+      },
+      "artists": [
+        {
+          "name": "VASSY",
+          "url": "https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174910,
+      "name": "Midnight (Acoustic)",
+      "url": "https://open.spotify.com/track/4l27VwVntFO35Sf6VoQSyd"
+    },
+    {
+      "album": {
         "name": "Midnight Club",
         "url": "https://open.spotify.com/album/2SpfqvG4YGI2sVk4kglS7k"
       },
@@ -18180,7 +18326,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 158710,
       "name": "Monaco",
       "url": "https://open.spotify.com/track/0ieUviafigTnoovXhb8jyd"
@@ -19664,7 +19810,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 171093,
       "name": "New Sound",
       "url": "https://open.spotify.com/track/6KnmmjS3EvQYJcKRR6PpVi"
@@ -21040,7 +21186,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 185200,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/3adEmuBPBZR04wFiIE9qHL"
@@ -21062,7 +21208,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 155200,
       "name": "Open Your Eyes (MaRLo Presents V3NOM)",
       "url": "https://open.spotify.com/track/1NdkivrbjmROqu8HaAznl9"
@@ -23166,7 +23312,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 147967,
       "name": "Rock Da House",
       "url": "https://open.spotify.com/track/2iIZ8iEGsCoxoa6lSpkeXD"
@@ -24217,6 +24363,28 @@
     },
     {
       "album": {
+        "name": "Seven Nation Army",
+        "url": "https://open.spotify.com/album/3CPKAtHz1wxfXacap7HbDk"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        },
+        {
+          "name": "KRAIZ",
+          "url": "https://open.spotify.com/artist/5RbgNkBwfYSM8yIYXn0Gwk"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/7BFwwCduDBbDG9fk9SlAYm"
+    },
+    {
+      "album": {
         "name": "Shadow (Phonk Remix)",
         "url": "https://open.spotify.com/album/3ytadXaSVsaDuTz6GVeQVm"
       },
@@ -24910,6 +25078,28 @@
       "duration_ms": 142928,
       "name": "Snakes 2022",
       "url": "https://open.spotify.com/track/75bbJMLDvW4wYA6hJZkGpQ"
+    },
+    {
+      "album": {
+        "name": "So Different",
+        "url": "https://open.spotify.com/album/36Qxy0uYkoTu5sVWvIzoVZ"
+      },
+      "artists": [
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        },
+        {
+          "name": "TOYZZ",
+          "url": "https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "So Different",
+      "url": "https://open.spotify.com/track/7ncQlEWDcux4xhuoGzY2Lc"
     },
     {
       "album": {
@@ -26450,7 +26640,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 189022,
       "name": "Switch",
       "url": "https://open.spotify.com/track/5l9wqqfosStld3rOPimbDw"
@@ -31196,7 +31386,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 156338,
       "name": "You Like It Rough (feat. Lee McKing)",
       "url": "https://open.spotify.com/track/08oJNlCDLWglZcbLNMuQ3J"

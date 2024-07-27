@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-146 songs - 8 hr 40 min
+147 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Coisa Nº 10](https://open.spotify.com/track/7IDT1CPTBq6B8zpgbqVZYG) | [Moacir Santos](https://open.spotify.com/artist/74Hj9zxTTcTgjv3Kh0PozZ) | [Ouro Negro](https://open.spotify.com/album/1WrpDqFJbBpmo85pLhwkUK) | 3:03 | 2024-03-08 | 2024-06-01 |
 | [Compro o Vento](https://open.spotify.com/track/1Ihq48VjNlON6ZbAlOderq) | [Eliza Meireles](https://open.spotify.com/artist/7jfxSuNVObDzGcmTO9keuV) | [O Samba, a Roseira e o Vento](https://open.spotify.com/album/1zVeyQapR2zvcR9xqTMemg) | 2:53 | 2021-11-26 |  |
 | [Cris](https://open.spotify.com/track/2tyj2m04JFJQmJolMfSzXU) | [Hamleto Stamato](https://open.spotify.com/artist/7EqWQMcDQbK4mtYb1pgmeI) | [Autoral](https://open.spotify.com/album/4QuWHriFgdVwmnOwwtNl0s) | 4:00 | 2021-11-26 |  |
-| [Cuida de mim](https://open.spotify.com/track/6iKMTz1fKTN50PQOkLXHIh) | [Guilherme Castel](https://open.spotify.com/artist/13EnZwFsY0CxXKiEsAIOpX) | [Cuida de mim](https://open.spotify.com/album/4Tg4kfHPx27Xbm4CegjX2U) | 3:28 | 2024-06-14 |  |
+| [Cuida de mim](https://open.spotify.com/track/6iKMTz1fKTN50PQOkLXHIh) | [Guilherme Castel](https://open.spotify.com/artist/13EnZwFsY0CxXKiEsAIOpX) | [Cuida de mim](https://open.spotify.com/album/4Tg4kfHPx27Xbm4CegjX2U) | 3:28 | 2024-06-14 | 2024-07-27 |
 | [Depressa a Vida Passa](https://open.spotify.com/track/4CEYFrHQhdutercm6HahHo) | [Renato Braz](https://open.spotify.com/artist/69urXE3DptYZDfblOG15D5) | [Depressa a Vida Passa](https://open.spotify.com/album/1lDrbSt52KH4mRi4U3HvRH) | 4:53 | 2021-11-26 | 2024-02-16 |
 | [Doralice](https://open.spotify.com/track/5mndIuaQ0tJqaSJsvXA1no) | [Adriana Arias](https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK) | [Outra Vez](https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B) | 2:47 | 2021-11-26 |  |
 | [Duro Na Queda](https://open.spotify.com/track/3N6tmw4XSBACtxPlWcYB1l) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH) | [Mano Que Zuera](https://open.spotify.com/album/0eSCFDaXV1lwmAL5t3SDAK) | 4:30 | 2021-11-26 |  |
@@ -100,6 +100,7 @@
 | [Outra Vez](https://open.spotify.com/track/0TUGYKNM0EJCkCHKDbVmYO) | [João Donato E Seu Trio](https://open.spotify.com/artist/1DtoQP5DtMJy9OlzQoyegD) | [A Bossa Muito Moderna De Donato E Seu Trio](https://open.spotify.com/album/0SgDWR5LcEig2Px0XZnmhZ) | 3:19 | 2021-11-26 |  |
 | [Para Machuchar Meu Coracao](https://open.spotify.com/track/37fHxKAICYRDmYaTujdiBl) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Jazz 'Round Midnight: Bossa Nova](https://open.spotify.com/album/0kDL9koNtkkIUSUhyM61GY) | 5:06 | 2021-11-26 | 2024-05-11 |
 | [Parti Capuri](https://open.spotify.com/track/6Xsb9SUZgyMy1NbpmQrA37) | [Billynho Blanco](https://open.spotify.com/artist/3ZNM1UvesIx0qMg3aZwIjf) | [Parti Capuri](https://open.spotify.com/album/6576bQHe62FzFsVmvL6OeW) | 4:00 | 2021-11-26 |  |
+| [Passo Pra Cá, Passo Pra Lá](https://open.spotify.com/track/39KEdiy2de9r2jYLd445zO) | [Arthur Diniz](https://open.spotify.com/artist/29Ow3spq0aDLMVNqhUumU7), [Malu Azevedo](https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R) | [Passo Pra Cá, Passo Pra Lá](https://open.spotify.com/album/0iXmxGT4NeYiThombsRqPy) | 2:19 | 2024-07-26 |  |
 | [Pega Esse Sambete Aí](https://open.spotify.com/track/6gZPzCXKSgE6aQrLfSw6O9) | [Marcos Lessa](https://open.spotify.com/artist/2AthduHFuFArAvd8MmnpCQ) | [Deslizando Na Canção](https://open.spotify.com/album/0rMKccxzXNE5ZWDpz2jOXT) | 2:53 | 2021-11-26 |  |
 | [Perto do Tom](https://open.spotify.com/track/64Emni7MfcsbRs1Q0r2g5d) | [Antonio Carlos Bigonha](https://open.spotify.com/artist/3ZrD9pRjj9UkrKTyKIyvvK) | [Saudades de Amanhã](https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr) | 4:35 | 2021-11-26 |  |
 | [Por Aí](https://open.spotify.com/track/1YbIcj0uulunkhqFn2uJww) | [Vítor Guima](https://open.spotify.com/artist/1hqTe0OBdC5nKA5Av8oiRe) | [O Estrangeiro](https://open.spotify.com/album/2RlEZzMaHe520j2LtRj08d) | 2:51 | 2021-11-26 | 2024-05-11 |

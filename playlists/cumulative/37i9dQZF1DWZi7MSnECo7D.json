@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Jambu",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Exclusive Os Cabides",
   "name": "alt BR",
   "tracks": [
     {
@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 163860,
       "name": "Beijo Roubado em Segredo",
       "url": "https://open.spotify.com/track/1W4xAsOUhLNlfnUjsmKwMR"
@@ -1964,7 +1964,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 220465,
       "name": "Calor da Boca",
       "url": "https://open.spotify.com/track/4KYaANDmHwZPvLNfbL9r81"
@@ -3080,6 +3080,28 @@
       "duration_ms": 213897,
       "name": "Dela",
       "url": "https://open.spotify.com/track/6rPPrrFv2nbwF6WglwGUDo"
+    },
+    {
+      "album": {
+        "name": "Demorou Pra Ser",
+        "url": "https://open.spotify.com/album/1SNhT5rJ4S16aTlpUQCwGk"
+      },
+      "artists": [
+        {
+          "name": "Vanguart",
+          "url": "https://open.spotify.com/artist/0rexWKb4rBwWS07SoHqsX0"
+        },
+        {
+          "name": "Fernanda Takai",
+          "url": "https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214426,
+      "name": "Demorou Pra Ser",
+      "url": "https://open.spotify.com/track/5QeEdKDDBSsYXlQ6gR4Aw4"
     },
     {
       "album": {
@@ -4658,6 +4680,28 @@
       "duration_ms": 284834,
       "name": "Fossa",
       "url": "https://open.spotify.com/track/1pDUewwwYjxsfUeFpOHtPe"
+    },
+    {
+      "album": {
+        "name": "ESTASIS",
+        "url": "https://open.spotify.com/album/6wDzTB7brH9yzgScAEkrrU"
+      },
+      "artists": [
+        {
+          "name": "Apeles",
+          "url": "https://open.spotify.com/artist/079cfq4aZBhX6sXItaYUyr"
+        },
+        {
+          "name": "CHEWY SHE",
+          "url": "https://open.spotify.com/artist/55zZwHiAzgFJ3CKL3TYxAR"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Fragment",
+      "url": "https://open.spotify.com/track/5PRGK7zhCN7bUDpItC6NQt"
     },
     {
       "album": {

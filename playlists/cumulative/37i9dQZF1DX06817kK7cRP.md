@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-193 songs - 8 hr 35 min
+194 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bergamot](https://open.spotify.com/track/6WNRv5EhU3pi2kH71qoYuw) | [.Sinh](https://open.spotify.com/artist/0qRgQLC8mPlcJ5Zo6mlcuG), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Notes](https://open.spotify.com/album/5OWNwdm8CWn52XZUfTK5Ld) | 2:04 | 2023-01-12 |  |
 | [Billow](https://open.spotify.com/track/6hd9qmlnzXQrRpZR6IWsxq) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Billow](https://open.spotify.com/album/2QJi553WjqaZVMKdGD9pog) | 2:31 | 2023-03-23 |  |
 | [Blessings](https://open.spotify.com/track/0JOyBXKbIAMqYpjif4HxMX) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy), [koolmonke](https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b) | [Blessings](https://open.spotify.com/album/7rFErmxiSojz9alXdzTdIB) | 2:26 | 2023-01-12 |  |
+| [Blissful](https://open.spotify.com/track/0dKxhW1wAA8YrvMhiEd1qd) | [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v), [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Blissful](https://open.spotify.com/album/1P5joE7OOG7lDdKENEMEZ6) | 2:14 | 2024-07-25 |  |
 | [Brooklyn Brownstone](https://open.spotify.com/track/1qqwr9QESlVKf4mQ071m92) | [faff](https://open.spotify.com/artist/3dKNvDOPWpPth4n4gg8osF), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h), [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA) | [Brooklyn Brownstone](https://open.spotify.com/album/14cxmAu3gvzR5oNrJcN3R3) | 2:16 | 2023-01-12 |  |
 | [Central Park](https://open.spotify.com/track/3ohDGLqiQv6TOdR3N7xmCf) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Central Park](https://open.spotify.com/album/13CM5Q8EOtVdfmFtlkgtI5) | 2:43 | 2023-06-20 |  |
 | [Chance of a Day, Pt\. 3](https://open.spotify.com/track/0s9VfOoqJPquZo84u9B6oS) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg) | [Chance of a Day, Pt\. 3](https://open.spotify.com/album/1DDUzSGu06cmlKlTuctpO5) | 6:27 | 2023-01-12 | 2024-07-13 |
@@ -51,7 +52,7 @@
 | [Drama Is Coming](https://open.spotify.com/track/00m4ed2ZgerPoaSQVL9ZzG) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Philipp Wisser](https://open.spotify.com/artist/6yq9TQlcPAawnjhi6WzqNl) | [Drama Is Coming](https://open.spotify.com/album/1mRsrNmcs59VffdaMaEZhA) | 3:32 | 2024-06-14 | 2024-07-13 |
 | [Dream Away](https://open.spotify.com/track/5YpKD3BpyZu7ggk7byH2BO) | [Palm Beats](https://open.spotify.com/artist/1c9zS9phaYUjbZnzYfGoFx) | [Dream Away](https://open.spotify.com/album/4QEN19VnuysTfDKvMURjfh) | 1:57 | 2023-11-26 | 2024-03-26 |
 | [Driftwood](https://open.spotify.com/track/6dkFwu9Z7HUuz69P2Nr6yF) | [Just Steezy Things](https://open.spotify.com/artist/1WGInLKTtABkRppFt2637E) | [Driftwood](https://open.spotify.com/album/0A6bH7eWnye4Pe25YdCv6g) | 2:19 | 2023-01-12 |  |
-| [drop top](https://open.spotify.com/track/1dMAKSyWc90DhQY8zix6gp) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [drop top](https://open.spotify.com/album/5gvHSInmVc8QP4xRzfJi0u) | 2:32 | 2023-11-26 |  |
+| [drop top](https://open.spotify.com/track/1dMAKSyWc90DhQY8zix6gp) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [drop top](https://open.spotify.com/album/5gvHSInmVc8QP4xRzfJi0u) | 2:32 | 2023-11-26 | 2024-07-27 |
 | [Early Rio](https://open.spotify.com/track/0rpf1OhSfp8hkOsFhONU0d) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Early Rio](https://open.spotify.com/album/2a1LMvKsH5AowfwGC49jhI) | 2:40 | 2023-01-12 |  |
 | [Eat More Fruits](https://open.spotify.com/track/5zWf9Ug3ubWOizrx9iDnTi) | [Sweet Spot Lab](https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At) | [Eat More Fruits](https://open.spotify.com/album/3JENHK40xUTH4VgMbxrZVu) | 2:16 | 2023-10-13 |  |
 | [El Platanal](https://open.spotify.com/track/5euxtzHFyA4WAbbERfT0eg) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Monte Adentro](https://open.spotify.com/album/0Rsap5JXIEDLxkhTVNT3Kr) | 2:23 | 2023-01-13 |  |

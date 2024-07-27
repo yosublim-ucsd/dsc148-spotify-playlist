@@ -2474,7 +2474,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 204260,
       "name": "Half Empty",
       "url": "https://open.spotify.com/track/5P9r8VUZIn92AsTqe95nbW"
@@ -4841,6 +4841,24 @@
     },
     {
       "album": {
+        "name": "Never Gonna Take Away My Love",
+        "url": "https://open.spotify.com/album/4WZen6PYsZ5n1eKXP6T1mR"
+      },
+      "artists": [
+        {
+          "name": "Charlie Bereal",
+          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252692,
+      "name": "Never Gonna Take Away My Love",
+      "url": "https://open.spotify.com/track/2TO94jb5WRKNU2oayRQ75I"
+    },
+    {
+      "album": {
         "name": "No Longer Mine",
         "url": "https://open.spotify.com/album/6alneeeLcSYWZyu293RloI"
       },
@@ -5988,7 +6006,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 292737,
       "name": "Seasons of Trouble",
       "url": "https://open.spotify.com/track/3zQ2VVEV6UQ9vCAaCQJDVY"
@@ -7508,7 +7526,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 260853,
       "name": "Trust",
       "url": "https://open.spotify.com/track/1SSdSN70LK45vWndX3twa9"
@@ -7739,6 +7757,24 @@
     },
     {
       "album": {
+        "name": "Way You Shine",
+        "url": "https://open.spotify.com/album/0sfmf3mJc7rgaGg3CZXmRv"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190820,
+      "name": "Way You Shine",
+      "url": "https://open.spotify.com/track/5RlgjfMCs8KW0AtkqRvyZM"
+    },
+    {
+      "album": {
         "name": "THE SOUTHWESTERN COMMUNION",
         "url": "https://open.spotify.com/album/0HZ86tsiLEjdDxvlH2nqhz"
       },
@@ -7924,6 +7960,24 @@
       "duration_ms": 214760,
       "name": "Who Knew",
       "url": "https://open.spotify.com/track/6ABbS6736nA9V73pEyKVzg"
+    },
+    {
+      "album": {
+        "name": "Wild as a Rainstorm",
+        "url": "https://open.spotify.com/album/2a1NCIpag6kQe7v6K36xLJ"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Collier",
+          "url": "https://open.spotify.com/artist/5WLpN9bFV4liSYhf4J3aVs"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253404,
+      "name": "Wild as a Rainstorm",
+      "url": "https://open.spotify.com/track/2Zg2gWL8IJAwbd12O4W3jE"
     },
     {
       "album": {

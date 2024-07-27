@@ -751,6 +751,28 @@
     },
     {
       "album": {
+        "name": "Assume",
+        "url": "https://open.spotify.com/album/3Rr9SrIZvXGp1BxyrzdNRR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        },
+        {
+          "name": "Kamisa 10",
+          "url": "https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153365,
+      "name": "Assume",
+      "url": "https://open.spotify.com/track/1Pbfj8p5E54sqiKb8hHLnp"
+    },
+    {
+      "album": {
         "name": "Ao Vivo em Escarpas do Lago",
         "url": "https://open.spotify.com/album/6pnuFzOE6JfL8dPxdlE3Io"
       },
@@ -1467,7 +1489,7 @@
       "artists": [
         {
           "name": "Renno",
-          "url": "https://open.spotify.com/artist/0xJvmmlXgvrIYn827tIMXV"
+          "url": "https://open.spotify.com/artist/3yWtLbJMXNarBl4CQRA1go"
         }
       ],
       "date_added": "2024-07-19",
@@ -2803,7 +2825,7 @@
       "artists": [
         {
           "name": "Kaelzinho Ferraz",
-          "url": "https://open.spotify.com/artist/5ygUN71REDLiCNQBJWuTRy"
+          "url": "https://open.spotify.com/artist/3JahlD0vjH94rAAwcSI7ie"
         }
       ],
       "date_added": "2024-07-19",
@@ -3168,7 +3190,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 157656,
       "name": "Iludiu J\u00e1 Era - Ao vivo",
       "url": "https://open.spotify.com/track/4UIo8yPhVsqDPmWInaYpdW"
@@ -3186,7 +3208,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 160862,
       "name": "Iludiu J\u00e1 Era - Ao Vivo",
       "url": "https://open.spotify.com/track/7v7W8YErtBEpnw0cHGuC9e"
@@ -6601,7 +6623,7 @@
       "artists": [
         {
           "name": "Renno",
-          "url": "https://open.spotify.com/artist/0xJvmmlXgvrIYn827tIMXV"
+          "url": "https://open.spotify.com/artist/3yWtLbJMXNarBl4CQRA1go"
         }
       ],
       "date_added": "2024-07-19",

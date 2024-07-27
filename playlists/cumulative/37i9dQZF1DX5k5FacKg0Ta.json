@@ -3475,6 +3475,24 @@
     },
     {
       "album": {
+        "name": "Pretty, pretty",
+        "url": "https://open.spotify.com/album/261ugORy4WXLVPQqtcrtib"
+      },
+      "artists": [
+        {
+          "name": "Ville Tomminen",
+          "url": "https://open.spotify.com/artist/3z05cHmgpoxtH09pPL5sYD"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Pretty, pretty",
+      "url": "https://open.spotify.com/track/4NyZ3VSI467QyI8bysOScq"
+    },
+    {
+      "album": {
         "name": "Projekt 13",
         "url": "https://open.spotify.com/album/3syNIcI6rjRZEVBpwf4LcL"
       },

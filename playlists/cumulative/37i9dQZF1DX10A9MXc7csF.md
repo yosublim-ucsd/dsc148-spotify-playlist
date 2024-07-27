@@ -2,9 +2,9 @@
 
 ### [Música Mexicana Rising](https://open.spotify.com/playlist/37i9dQZF1DX10A9MXc7csF)
 
-> The new school of Música Mexicana\. Cover: Bryan Martinez
+> The new school of Música Mexicana\. Cover: Armenta & Calle 24
 
-910 songs - 1 day 22 hr 34 min
+914 songs - 1 day 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,6 +429,7 @@
 | [LA GRAN P](https://open.spotify.com/track/5smf5RDiM9y49uZzR254lR) | [Max Zendencia](https://open.spotify.com/artist/6X3NPlKxgYC4WZ24yBOEOO), [La Gavilla](https://open.spotify.com/artist/3DtemVNgP2pwgHLLUbkbST) | [LA GRAN P](https://open.spotify.com/album/3YVD8m0s8RHAjK6NgrntL2) | 2:46 | 2024-01-26 | 2024-03-09 |
 | [La Joaquinada](https://open.spotify.com/track/4JHMpr43lrOnHHQfkLSKvQ) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [La Joaquinada](https://open.spotify.com/album/3UWwpQb0y5590C4ZNZzg5i) | 2:42 | 2024-04-19 | 2024-05-11 |
 | [La Maria \- En Vivo](https://open.spotify.com/track/66gzSzhIJHzEMvsrKbFVZh) | [Cuarto Destino](https://open.spotify.com/artist/5eE8WgiycE2rcU5IJGlo1P) | [La Maria \(En Vivo\)](https://open.spotify.com/album/4kF7xv1zzpSaS5IGhZg8Cq) | 3:11 | 2022-07-22 | 2022-09-09 |
+| [LA MARUCHAN](https://open.spotify.com/track/2lofbPM2k0fVgaCrmVz4c1) | [Hijos De Leyva](https://open.spotify.com/artist/2goxk1aXm6T4yopaZe5tHe) | [LA MARUCHAN](https://open.spotify.com/album/29yCy6o8uv1oeLUjFHNfXr) | 2:54 | 2024-07-26 |  |
 | [La Mera Vena](https://open.spotify.com/track/6XZ1gKHtAHcXPYjVt3UBaz) | [Pandemia 702](https://open.spotify.com/artist/7mBia2BQu7KJR4tIOnJeQM) | [La Mera Vena](https://open.spotify.com/album/3OSPVwIG8hA2G5Ltc3sfJg) | 2:30 | 2023-05-26 | 2023-09-09 |
 | [La Mesa Del Rincón](https://open.spotify.com/track/6mHI2pjKDzYKawO8U0L9Bs) | [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK) | [La Mesa Del Rincón](https://open.spotify.com/album/2NUqSexHJyP9WOX1Gy7DT4) | 3:11 | 2022-09-23 | 2023-02-25 |
 | [La Muerte Me Llama \- Con Banda](https://open.spotify.com/track/2BbCrLfI8UnxOdJOntKc7j) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY), [Banda La Peligrosa](https://open.spotify.com/artist/0sz3Q1xMAXkRqeqf7kDrVV) | [La Muerte Me Llama \(Con Banda\)](https://open.spotify.com/album/4J1SAbJ0mMt5oRigTZFIcd) | 3:02 | 2022-05-14 | 2022-07-23 |
@@ -464,6 +465,7 @@
 | [Llegué Borracho](https://open.spotify.com/track/3GfhGPbCMbjwLqm7Vzu2yM) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Llegué Borracho](https://open.spotify.com/album/2sYLHD8fblmHKrg99C4BPm) | 3:01 | 2023-11-24 | 2024-05-18 |
 | [Llórame Más Fuerte](https://open.spotify.com/track/4MTLY1AiRFlQe0cV6Fl7SN) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Llórame Más Fuerte](https://open.spotify.com/album/58521yc5XgyIwX0KjWL0z0) | 3:47 | 2023-11-10 | 2023-12-02 |
 | [LMV](https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [LMV](https://open.spotify.com/album/5S4OjWHkDANBQJUyRwRlNX) | 2:51 | 2023-03-17 | 2023-05-27 |
+| [Lo Hago y Me Cuido](https://open.spotify.com/track/27QObCLAL1PMQauG47mxSL) | [El Mesía](https://open.spotify.com/artist/0ZfWDfHN3CRDL76A5ahdIh), [Nueva Partida](https://open.spotify.com/artist/1phGBErM9y4sQEDZv2zORR) | [Lo Hago y Me Cuido](https://open.spotify.com/album/0A4WikIQethwBCB9ifoLsU) | 2:52 | 2024-07-26 |  |
 | [Lo Intenté](https://open.spotify.com/track/5OaPGZ4qa9Dyj5wp1PhmIU) | [Mauro](https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD), [Palm Street Music](https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c) | [Lo Intenté](https://open.spotify.com/album/2cFChBCIbFFtUbXVN35QCr) | 3:08 | 2024-03-29 | 2024-06-29 |
 | [Lo Que Hay X Aquí](https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Lo Que Hay X Aquí](https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN) | 2:38 | 2024-05-24 |  |
 | [Lo Que Hiciste](https://open.spotify.com/track/1NXNgZuLTFadtH8F4fFvQL) | [XODERICK](https://open.spotify.com/artist/6p4uhW3K5NmxiGswulf8PG) | [Lo Que Hiciste](https://open.spotify.com/album/6DATyBdgu9uVO0qZLjpBlD) | 3:59 | 2023-05-26 | 2023-09-09 |
@@ -696,6 +698,7 @@
 | [QUE TRISTE NO?](https://open.spotify.com/track/23fllmoslh5anJCV2Z9Klr) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [TRASTORNADO](https://open.spotify.com/album/7matknZ02Ot3hWqoZlIknR) | 2:53 | 2024-05-31 |  |
 | [Que Vas a Hacer](https://open.spotify.com/track/6TLxQyd8AJG1zzbp3LXio0) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK), [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve) | [Que Vas a Hacer](https://open.spotify.com/album/4nrkaHH7b5PwDkrJ3AivRF) | 3:05 | 2022-12-02 | 2023-04-22 |
 | [Que Ya No Vas A Estar](https://open.spotify.com/track/14MA5Zg3ntekVy3gxWZSTg) | [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Que Ya No Vas A Estar](https://open.spotify.com/album/416nDTAf6tMs9KkZlOQzN9) | 4:04 | 2024-07-19 |  |
+| [Quedate](https://open.spotify.com/track/14aiUh6meCZGssiU45aFdr) | [Maik DB](https://open.spotify.com/artist/5w8sDK4sQFfiRxD5tXklk8), [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS) | [Quedate](https://open.spotify.com/album/6ThtmYWP3DGpYZhqBP1x3Q) | 2:59 | 2024-07-26 |  |
 | [Querido San Valentin](https://open.spotify.com/track/57HGscNGYhq3wPuanfOsCY) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Querido San Valentin](https://open.spotify.com/album/7DXYF70y6fJvXd3HC0qahu) | 4:21 | 2022-05-14 | 2022-06-04 |
 | [Quien Se Quedara](https://open.spotify.com/track/2CUHnTOBBUnHuzIAY9jaZf) | [Israel De San Antonio](https://open.spotify.com/artist/2tF8wx2Z2J6ce9ckc2PD3i) | [Quien Se Quedara](https://open.spotify.com/album/5qPrryti6teVwY0T7PcVTm) | 4:26 | 2024-03-22 | 2024-06-01 |
 | [Quiero Brindar](https://open.spotify.com/track/68csteODRhwuYbDfkqBiHj) | [Rey\-N\-Raey](https://open.spotify.com/artist/5iIhhT7t5Sp0p7Ilqwbuhu), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [Quiero Brindar](https://open.spotify.com/album/0vdpCLzhjokjtlSZwRlYm4) | 2:48 | 2023-01-20 | 2023-04-22 |
@@ -802,6 +805,7 @@
 | [SÁLVAME](https://open.spotify.com/track/66zpZXzpcnyeg4s6Ahhf99) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [SÁLVAME](https://open.spotify.com/album/23P9z5m6FNvfz5eXarJxvA) | 3:05 | 2023-09-08 | 2023-11-25 |
 | [Take It Easy](https://open.spotify.com/track/3TTlqSRUp0GCwsrkSCapBE) | [Relevanzia](https://open.spotify.com/artist/6pjlDvfJ5aJnEy7qCTfpLk) | [Take It Easy](https://open.spotify.com/album/5nBoyJcWT7z7J6kXTb38aO) | 2:42 | 2024-05-17 | 2024-07-20 |
 | [Tal Vez](https://open.spotify.com/track/29FsuKnbCrHD9JChkrpK9W) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Tal Vez](https://open.spotify.com/album/2TYhUcY7yfCsKr9pUhQ1en) | 2:53 | 2024-01-12 | 2024-02-24 |
+| [Tan Sensual](https://open.spotify.com/track/7yvhrqpYUxRRsDR13kViYx) | [Uriel AR](https://open.spotify.com/artist/1YqbztCgjTZ6GcrQ6cDI3K) | [Tan Sensual](https://open.spotify.com/album/0xb7mU6F7EyMMtPbjLQUIM) | 3:23 | 2024-07-26 |  |
 | [Tatuajes y Un Idiota \(Popurri\)](https://open.spotify.com/track/4oPkzErTxUsN3QkO6YHMmx) | [Christian Nava](https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0) | [Tatuajes y Un Idiota \(Popurri\)](https://open.spotify.com/album/4g6QgRauhqIsBsxX1VOh0s) | 2:57 | 2023-05-26 | 2023-07-29 |
 | [Te Acordarás De Mí](https://open.spotify.com/track/7Jt0TPSVkYr8Asy4Cms1XR) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Te Acordarás De Mí](https://open.spotify.com/album/63wMKo4Y5yzOAG3ufCs9An) | 2:36 | 2023-11-10 | 2024-02-24 |
 | [Te Amo Yo](https://open.spotify.com/track/13Wtxopl5r7ICXPuOcbqOj) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Te Amo Yo](https://open.spotify.com/album/0xV4ha3qX6C2Kk0s8yMz5L) | 2:26 | 2022-08-05 | 2022-09-09 |

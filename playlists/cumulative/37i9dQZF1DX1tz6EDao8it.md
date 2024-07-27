@@ -4,7 +4,7 @@
 
 > Timeless, unforgettable melodies from the movies.
 
-120 songs - 7 hr 11 min
+121 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/track/17oLsEzzlGFlrBKViCzmGc) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [1996](https://open.spotify.com/album/6NUYObCeRmbNTQjBlLQxXb) | 4:46 | 2021-07-16 |  |
 | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/track/5VuwAhMCz9EMg3RHL1KUEr) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [Everton Nelson](https://open.spotify.com/artist/3uirG8XMhBhvbdb9adqYMf) | [1996](https://open.spotify.com/album/39iOsfOrW1UpE3dbdFPl0F) | 4:46 | 2022-07-20 | 2024-04-19 |
 | [Merry Christmas Mr\. Lawrence \- Ryuichi Sakamoto](https://open.spotify.com/track/0yjzNp15L3zkiihocemz35) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Wallpaper Mach 1.5\-Limitless Luxury](https://open.spotify.com/album/3ASxXAfRqgPYhFJm3Bzx7K) | 4:45 | 2022-07-20 | 2022-11-14 |
+| [Merry\-Go\-Round of Life \- from 'Howl’s Moving Castle'](https://open.spotify.com/track/3jJzXe7sNKDRPhigSDb23s) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 2:49 | 2024-07-25 |  |
 | [Mia & Sebastian’s Theme](https://open.spotify.com/track/1Vk4yRsz0iBzDiZEoFMQyv) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [La La Land \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S) | 1:38 | 2021-07-16 |  |
 | [Mission: Impossible Theme](https://open.spotify.com/track/1FL7eUG80aeUeyMO2N4btN) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Mission: Impossible III \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1FuLQGtfibFyfzSDDiEUhK) | 0:51 | 2021-07-16 |  |
 | [Misty Mountains](https://open.spotify.com/track/3AAwJ043uT1wXSKDtGyuxF) | [Richard Armitage](https://open.spotify.com/artist/6DQsmplq17UDA3zmiybbSb), [The Dwarf Cast](https://open.spotify.com/artist/0jU1GFJFpeW29LAqraN7n5) | [The Hobbit: An Unexpected Journey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6X0qkUUcolJDrRN3i3CAlT) | 1:43 | 2023-03-14 |  |

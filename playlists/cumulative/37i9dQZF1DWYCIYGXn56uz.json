@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: AYLE",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: JVLI",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 197183,
       "name": "CARAVAN",
       "url": "https://open.spotify.com/track/6UBK3OxYTC1JB5XzKT8EVG"
@@ -4491,6 +4491,24 @@
     },
     {
       "album": {
+        "name": "luci dell'autostrada",
+        "url": "https://open.spotify.com/album/2RWLqaalwSC4qK9nCKokZF"
+      },
+      "artists": [
+        {
+          "name": "Biava",
+          "url": "https://open.spotify.com/artist/3tnRz0rA9YnwZ7BUv958vk"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "luci dell'autostrada",
+      "url": "https://open.spotify.com/track/1njaBfkZQy1zFZVdBRevzU"
+    },
+    {
+      "album": {
         "name": "PER IL MIO BENE",
         "url": "https://open.spotify.com/album/6BftqBLM4fJ7alFzUhGuOw"
       },
@@ -7025,6 +7043,24 @@
     },
     {
       "album": {
+        "name": "Roulette",
+        "url": "https://open.spotify.com/album/6xSWwCb4pBor8WwaMQ9GWW"
+      },
+      "artists": [
+        {
+          "name": "Sarah",
+          "url": "https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "Roulette",
+      "url": "https://open.spotify.com/track/6WCXJhQsP3ykIr1kOfO7dh"
+    },
+    {
+      "album": {
         "name": "LA NOTTE",
         "url": "https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA"
       },
@@ -8272,7 +8308,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 102000,
       "name": "TRISTE",
       "url": "https://open.spotify.com/track/4q0R0CF9mMOoeJqSbtXoPP"

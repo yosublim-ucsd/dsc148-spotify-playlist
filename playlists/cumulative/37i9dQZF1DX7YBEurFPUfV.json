@@ -531,6 +531,28 @@
     },
     {
       "album": {
+        "name": "Haka Tao?",
+        "url": "https://open.spotify.com/album/5Vo3jtsikRXZwG8Hh7g47V"
+      },
+      "artists": [
+        {
+          "name": "NASTYSH!!T",
+          "url": "https://open.spotify.com/artist/6qiiqFqUgHwAhMNDVR0PXz"
+        },
+        {
+          "name": "4lfa",
+          "url": "https://open.spotify.com/artist/0aJZiLm1NBWMcCKp6mkHMY"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217003,
+      "name": "Haka Tao?",
+      "url": "https://open.spotify.com/track/3LT1WIwYXYRm5n7Qv2Xetg"
+    },
+    {
+      "album": {
         "name": "Hameda Hereb \u0647\u0627\u0631\u0628",
         "url": "https://open.spotify.com/album/2HAqYpg8n9ovBZ2JehbxdZ"
       },
@@ -921,6 +943,24 @@
     },
     {
       "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/4CHP2hguPDnLg89NDdG9at"
+      },
+      "artists": [
+        {
+          "name": "Kaso",
+          "url": "https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283653,
+      "name": "Messyeba",
+      "url": "https://open.spotify.com/track/5F8vsWYSBHVWtQybmaGjA5"
+    },
+    {
+      "album": {
         "name": "Messyeba",
         "url": "https://open.spotify.com/album/4d91F4YGzWFnzeCWW7xvRr"
       },
@@ -1174,7 +1214,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 211387,
       "name": "Sada9tha",
       "url": "https://open.spotify.com/track/7DM7AOqoEAouQ6ChSTAxaD"

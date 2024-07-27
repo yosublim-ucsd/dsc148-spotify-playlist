@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 ### [Fresh Finds Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWW4igXXl2Qkp)
 
-> The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:0eDNqRYxeFKUX3VWiQ5HlO">Nasir Dar</a>
+> The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:4nVa6XlBFlIkF6msW57PHp">Hanumankind</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,270 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,757 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 2 | [Jealousy](https://open.spotify.com/track/0uU6wpqMrSe8SuIAJNIje9) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ) | [Jealousy](https://open.spotify.com/album/5KGIf82I9zVXvZSUMXnw5c) | 2:53 |
 | 3 | [All On Me](https://open.spotify.com/track/1Hx9EZNbsbdlweRVSLEadT) | [Demko](https://open.spotify.com/artist/36bOXFMGTOcg3fNGsqVZhi), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [All On Me](https://open.spotify.com/album/5MlyMBSSt6FKwGszRMMJut) | 3:09 |
 | 4 | [THE WAIT](https://open.spotify.com/track/27NEAQXGMixupJd69PbtCB) | [Cilo](https://open.spotify.com/artist/7sMhc8nqY80C2cfkbDuPxA) | [THE WAIT](https://open.spotify.com/album/3M5ATQZKahC4lrF1Gcj90d) | 2:34 |
-| 5 | [Usd](https://open.spotify.com/track/5Z4f7ygqm4qyhWalKk45fG) | [Nasir Dar](https://open.spotify.com/artist/0eDNqRYxeFKUX3VWiQ5HlO) | [Usd](https://open.spotify.com/album/6Ki1upBIRfNRHnJkBlcYrn) | 2:22 |
+| 5 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 |
 | 6 | [LAST SUMMER...](https://open.spotify.com/track/4hbGrx8msw7LOa3OFhzbTf) | [seiji oda](https://open.spotify.com/artist/02hku5R1SCUiTPydXMdKBp), [KJ Focus](https://open.spotify.com/artist/3jU3YuMkUx6VOXOuRm9Ozb) | [LAST SUMMER](https://open.spotify.com/album/1226jmllv5To2StZyFzqK1) | 3:13 |
 | 7 | [big lexii' \(hands on your knees\)](https://open.spotify.com/track/6V9OjgnanRVRdrlE5jtkFX) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [big lexii' \(hands on your knees\)](https://open.spotify.com/album/5ZDfhxEwHVsuDz2Cz6TPzN) | 2:23 |
 | 8 | [Zoned Out](https://open.spotify.com/track/60O6renwTsjzUuxl9K1oi6) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX), [The Smokers Club](https://open.spotify.com/artist/0DSKJgPADvb4x1Bk3VETPr) | [Zoned Out](https://open.spotify.com/album/2Sfuts1H89efu7Za2RO2q6) | 1:48 |
-| 9 | [Whole Thing feat VonOff1700](https://open.spotify.com/track/5E6gBjIg5hLk5RJqahiMU5) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [Whole Thing](https://open.spotify.com/album/2I31Wy4sDxGE39uPHNFe2e) | 1:57 |
+| 9 | [Whole Thing feat VonOff1700](https://open.spotify.com/track/5E6gBjIg5hLk5RJqahiMU5) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [Whole Thing](https://open.spotify.com/album/2I31Wy4sDxGE39uPHNFe2e) | 3:20 |
 | 10 | [Trip Out](https://open.spotify.com/track/6LoUsD9kt5nnNfQc5I2Bbr) | [T99zy](https://open.spotify.com/artist/2iOv2a8p88ODjRF2Xoeuwk) | [Trip Out](https://open.spotify.com/album/3u77E0mB5uBqZvbqmjo72X) | 1:59 |
 | 11 | [Another Sentence](https://open.spotify.com/track/5jkFo5Zzs3YHLJfF1kdwvJ) | [Flizzle](https://open.spotify.com/artist/2kdxs3vUhRinAF4gY5LU70) | [Another Sentence](https://open.spotify.com/album/0EFpdyiV3A4zxM04RgdemE) | 2:50 |
 | 12 | [5 to 10](https://open.spotify.com/track/7BUnCxc0dae9HwelFz719W) | [Ozer](https://open.spotify.com/artist/3J0qyBq8miao9sTXOlAkWp), [YGTUT](https://open.spotify.com/artist/5rOkxO8Va1CnXhF7nrHMrU) | [Fog City \(full\)](https://open.spotify.com/album/1cgx5z9T4NryDXaS2dO9EN) | 2:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [Say Yes \(feat\. Hunxho\)](https://open.spotify.com/track/4sBa5JbT61tNRZfDPJht5f) | [Yg Teck](https://open.spotify.com/artist/26hDmlgTbg7wseM7YmoyO6), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Say Yes \(feat\. Hunxho\)](https://open.spotify.com/album/4nDpZQAP3Ey7j4eQS8SFNE) | 2:35 |
 | 75 | [BACKSTAGE](https://open.spotify.com/track/0i6gqaEWHlRJdczer4XZbl) | [Devin Malik](https://open.spotify.com/artist/3mhGKo6sIMtVoPUu3t9p16) | [DEADSTOCK](https://open.spotify.com/album/4nv9Yo2Ij8Kit5XREOlXaR) | 2:11 |
 
-Snapshot ID: `ZqEnqAAAAAC8sUru/ynQkfAJTde5VylU`
+Snapshot ID: `ZqKFNwAAAADTE4VusgLgqWfoTHho3Kl8`

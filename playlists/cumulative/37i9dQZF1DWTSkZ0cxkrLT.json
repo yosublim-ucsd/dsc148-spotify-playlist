@@ -1831,6 +1831,24 @@
     },
     {
       "album": {
+        "name": "No es culpa tuya",
+        "url": "https://open.spotify.com/album/5Gm2ELl1iV8Jk1Il4Zk1QV"
+      },
+      "artists": [
+        {
+          "name": "yumhji",
+          "url": "https://open.spotify.com/artist/1kZW1tP8aoEp0iWuMVbCqx"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160124,
+      "name": "No es culpa tuya",
+      "url": "https://open.spotify.com/track/0vHeN8JovVFOOSta12kaQM"
+    },
+    {
+      "album": {
         "name": "No me Arrepiento de este Amor",
         "url": "https://open.spotify.com/album/6mFNSXSvSCFLPytptCC5IT"
       },
@@ -2086,7 +2104,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 159741,
       "name": "Por el Bien de los Dos",
       "url": "https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy"

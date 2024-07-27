@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 144000,
       "name": "1. Mai",
       "url": "https://open.spotify.com/track/1dmqWr5HDSFVX327fmq1oH"
@@ -493,6 +493,28 @@
     },
     {
       "album": {
+        "name": "Ein Jahr (feat. Montez)",
+        "url": "https://open.spotify.com/album/3LjJ01pSUYqUCqHf2ahgJD"
+      },
+      "artists": [
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        },
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176077,
+      "name": "Ein Jahr (feat. Montez)",
+      "url": "https://open.spotify.com/track/1umWYzhtxWxlVvnvfWLbT4"
+    },
+    {
+      "album": {
         "name": "Elbe",
         "url": "https://open.spotify.com/album/49fAdOAW2qhJWhpDayFcKg"
       },
@@ -672,6 +694,24 @@
       "duration_ms": 150369,
       "name": "Herzfeind - Titelsong zum Film \u201eTrauzeugen\u201c",
       "url": "https://open.spotify.com/track/0BxwNmVneOi0XkSbvwdk6Z"
+    },
+    {
+      "album": {
+        "name": "Verlieren/Gefunden",
+        "url": "https://open.spotify.com/album/5sHrdD7S86kT85JsOtxOgi"
+      },
+      "artists": [
+        {
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146134,
+      "name": "Hier",
+      "url": "https://open.spotify.com/track/4pixX8XnfVkmLWQDMANjG9"
     },
     {
       "album": {
@@ -1836,7 +1876,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 182602,
       "name": "Tinnitus",
       "url": "https://open.spotify.com/track/4SamJ1uIL2OzAFgDGdnhx0"
@@ -1975,6 +2015,24 @@
     },
     {
       "album": {
+        "name": "Was w\u00e4re wenn du nicht w\u00e4rst?",
+        "url": "https://open.spotify.com/album/0ANGBiq4fo4acpGYXFCGTe"
+      },
+      "artists": [
+        {
+          "name": "FANJI",
+          "url": "https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167053,
+      "name": "Was w\u00e4re wenn du nicht w\u00e4rst?",
+      "url": "https://open.spotify.com/track/1wYdHjqYbGZW087h9lFHxX"
+    },
+    {
+      "album": {
         "name": "Wegen Dir",
         "url": "https://open.spotify.com/album/5R1Nffl5bcDFWDwIKbJctl"
       },
@@ -2030,7 +2088,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 184613,
       "name": "Wellness am Scherbenmeer",
       "url": "https://open.spotify.com/track/2dHskhyGCWoZdEagnUORUh"

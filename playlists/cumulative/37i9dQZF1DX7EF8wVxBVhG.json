@@ -1766,7 +1766,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 145635,
       "name": "Binaural Alpha Sinus 220 Hz - L 230 Hz - R",
       "url": "https://open.spotify.com/track/5k86m3IafRdsA80nc5rYjQ"
@@ -2256,6 +2256,24 @@
       "duration_ms": 178000,
       "name": "Binaural Cloud (Alpha 7 Hz)",
       "url": "https://open.spotify.com/track/0L8oyEqNesxaRSPExshgfr"
+    },
+    {
+      "album": {
+        "name": "Binaural Concentration Alpha 100 Hz - 108 Hz",
+        "url": "https://open.spotify.com/album/3ow856D7cLAuuKDhipJdn7"
+      },
+      "artists": [
+        {
+          "name": "Syntropy",
+          "url": "https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188250,
+      "name": "Binaural Concentration Alpha 100 Hz - 108 Hz",
+      "url": "https://open.spotify.com/track/5W31qjDdoEKnGT6qmaFL9I"
     },
     {
       "album": {
@@ -4949,6 +4967,24 @@
     },
     {
       "album": {
+        "name": "Running Longer Theta 120-127hz",
+        "url": "https://open.spotify.com/album/2b2IU8EBJdzD0BLU9wMvZQ"
+      },
+      "artists": [
+        {
+          "name": "places we go",
+          "url": "https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Running Longer Theta 120-127hz",
+      "url": "https://open.spotify.com/track/1ZEavcWfEibVTiuFlUgiHz"
+    },
+    {
+      "album": {
         "name": "Shaant Prayog Alpha 74Hz - 82Hz",
         "url": "https://open.spotify.com/album/2ZLbL1RUAloHNUQxZpyqBm"
       },
@@ -5050,7 +5086,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 156421,
       "name": "Sleepy Mountains (Binaural Alpha 128Hz - 133Hz)",
       "url": "https://open.spotify.com/track/5Wp0TFlJeChDBh4HY5z022"
@@ -5432,6 +5468,24 @@
       "duration_ms": 213333,
       "name": "Total Focus (Beta Sinus)",
       "url": "https://open.spotify.com/track/55jSrZSZf4ooJxPwgFR2Hs"
+    },
+    {
+      "album": {
+        "name": "Transcend Alpha 106 Hz - 114 Hz",
+        "url": "https://open.spotify.com/album/7od6IjrFBaETrl6CB8djWG"
+      },
+      "artists": [
+        {
+          "name": "Earthbound",
+          "url": "https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178363,
+      "name": "Transcend Alpha 106 Hz - 114 Hz",
+      "url": "https://open.spotify.com/track/60b0LpWpsnOZi7OkpIuV4Q"
     },
     {
       "album": {

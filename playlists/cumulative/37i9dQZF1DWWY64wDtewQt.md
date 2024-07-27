@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-737 songs - 1 day 3 hr 31 min
+739 songs - 1 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [DeathSealReaper](https://open.spotify.com/track/26sukM949arD0ebenUvO9D) | [Jadeci](https://open.spotify.com/artist/5zSsOI94iIVTtXaB4ora8R) | [DeathSealReaper](https://open.spotify.com/album/3CH8kyCcjKTw45K6HaJ5iI) | 1:36 | 2021-05-12 | 2022-05-14 |
 | [DECIMATION](https://open.spotify.com/track/0us6HsfLfz9BpjUw7WeUXv) | [Eyez Hate U](https://open.spotify.com/artist/0dIUq8UqtoJF5T7Lt3MxBT), [Yvetzal](https://open.spotify.com/artist/7n3zZOYwJKr5oNqByN4Hy3) | [DECIMATION](https://open.spotify.com/album/0sXFaAjRfbtPzWuLZQtiqY) | 2:17 | 2022-06-17 | 2022-10-15 |
 | [DEEP DARK FANTASY](https://open.spotify.com/track/2aIvAevBfIks1N9MpoVybR) | [Hikki Gaya](https://open.spotify.com/artist/0lkQpwtSrw1KdJNSCVAzCC) | [DEEP DARK FANTASY](https://open.spotify.com/album/7tXJTmSYRg3n8JN3Qc33wF) | 2:05 | 2022-09-30 | 2022-10-29 |
+| [DEFEATED](https://open.spotify.com/track/1LmPBj4I34kQZLDtL67VY1) | [MAXPVNK](https://open.spotify.com/artist/4dHkDmvdWDXoycp4Caui8D), [DJ RITMO DIVINO](https://open.spotify.com/artist/6GvahNk3SvKrC48sA1V15o) | [DEFEATED](https://open.spotify.com/album/3Mmr5m6RNsLhIqN81xDEP6) | 1:54 | 2024-07-26 |  |
 | [DEJAVU](https://open.spotify.com/track/6gSbkZR6DU9KN3OCbHNOzf) | [DVRKLXGHT](https://open.spotify.com/artist/4tfNkqJHj0rmRuERAZJDxf) | [DEJAVU](https://open.spotify.com/album/0SXiOodZ0OmE1Kj5bJia84) | 2:46 | 2022-04-04 | 2022-06-11 |
 | [DEMON EX MACHINA](https://open.spotify.com/track/5Rw6KfSvDvldse4YiougOa) | [ZERO PAIN](https://open.spotify.com/artist/4bKlA6SN28EGxDz4EyqMjm) | [DEMON EX MACHINA](https://open.spotify.com/album/5TJVDjqdp8bbwSGdXERIjs) | 1:38 | 2023-06-02 | 2023-06-17 |
 | [Demons Around](https://open.spotify.com/track/7KXAgGAHEB1Ny89pL6eEA0) | [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [Demons Around](https://open.spotify.com/album/0aWMH4CTIv6hBYRzfFuLJf) | 2:45 | 2022-08-05 | 2022-12-17 |
@@ -226,7 +227,7 @@
 | [End of the World \- Slowed](https://open.spotify.com/track/7gCzXPNidSb1BSSdrbQ7VR) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [End of the World \(Slowed\)](https://open.spotify.com/album/0j1BNnTDgLqQtn9wuxyZFj) | 3:03 | 2021-10-25 | 2022-07-09 |
 | [Endless Love](https://open.spotify.com/track/49eccJME4fYJnOwCmJMXfV) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5), [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l) | [Endless Love](https://open.spotify.com/album/3kVn6aEV0Rmz5nUg4Ws1vw) | 2:59 | 2021-09-10 | 2022-05-14 |
 | [ENIGMA](https://open.spotify.com/track/2loGK0yEeHvXD3EcQFwqZw) | [UMBASA](https://open.spotify.com/artist/6EETzM2Gz7RdpXoVF45yww) | [ENIGMA](https://open.spotify.com/album/4g7XhuYSPbKlsJZ6REdVWN) | 3:02 | 2023-03-03 | 2023-04-12 |
-| [ENOUGH!](https://open.spotify.com/track/3bVJS1FUUkx3RmmmOVoeK2) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [ENOUGH!](https://open.spotify.com/album/79JiT9zVDCmny1DRigOe9X) | 1:30 | 2024-02-02 |  |
+| [ENOUGH!](https://open.spotify.com/track/3bVJS1FUUkx3RmmmOVoeK2) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [ENOUGH!](https://open.spotify.com/album/79JiT9zVDCmny1DRigOe9X) | 1:30 | 2024-02-02 | 2024-07-27 |
 | [ENRAGE](https://open.spotify.com/track/37ylxKs0nwNFCUgwIi1WrG) | [FISTICALE](https://open.spotify.com/artist/1uZNnOWHebXUk7jCt9llAg) | [ENRAGE](https://open.spotify.com/album/0nlg3bQVCBljgUnjk3BgGC) | 2:16 | 2021-10-25 | 2022-07-02 |
 | [ERROR](https://open.spotify.com/track/29K9XCDx9IDpyGpKmoM5VJ) | [ROMANTICA](https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6) | [ERROR](https://open.spotify.com/album/6DrhF7XGUjRODusNQoOkhi) | 2:42 | 2023-05-05 | 2023-08-12 |
 | [Escape](https://open.spotify.com/track/2LC9pdrPbX0c87YjT9S87F) | [V21](https://open.spotify.com/artist/67ALWf0iCYJTWxLJEvUJwk) | [Escape](https://open.spotify.com/album/5YYiTsoKhnP2kyQ7PcHxZY) | 1:34 | 2021-11-12 | 2022-07-02 |
@@ -696,6 +697,7 @@
 | [UNCOVERED KILLER](https://open.spotify.com/track/4PveqlRhgkZWEeiwEaQ4XS) | [Mista Playa](https://open.spotify.com/artist/1HKnpKgZV66Fo0wLW9K25i), [HOSPICEMANE](https://open.spotify.com/artist/5k3a4j15fF9gr4ZvCqMjDm) | [UNCOVERED KILLER](https://open.spotify.com/album/7gN8tnWQDtznOPkhH0w3tH) | 2:16 | 2022-07-15 | 2022-09-17 |
 | [Undead Smile](https://open.spotify.com/track/6vEvltZKh6Y1cioFbpkh1P) | [$witchblade](https://open.spotify.com/artist/7BzpvWR9YU2Z0sHdUqMXKS), [Shade Apollo](https://open.spotify.com/artist/49YT4oaAgV4kk9ilVyUQmG) | [Undead Smile](https://open.spotify.com/album/4rjDXkqwNur3inwNEDOl5R) | 2:12 | 2022-01-14 | 2022-04-05 |
 | [UNFORGIVEN](https://open.spotify.com/track/5ihsAWE0y20g8eKyKkIvMb) | [Ryder Spot](https://open.spotify.com/artist/5vcZnjpJXSwYQGi8PlMS3B) | [UNFORGIVEN](https://open.spotify.com/album/14fbIbsbvhrO2zR42CDRXd) | 3:10 | 2021-12-03 | 2022-01-15 |
+| [Unfunny Game \- Slowed](https://open.spotify.com/track/0ePUfTRql7IIxvaa6suYna) | [gabriawll](https://open.spotify.com/artist/5jMwLnp7dI0H2YFvXpCaMH), [Strxy\_phonk](https://open.spotify.com/artist/5WFZA9iVQDotzUq5VNcE2r) | [Unfunny Game](https://open.spotify.com/album/7cB9p3XRYjmqJhIC8pbUVA) | 2:12 | 2024-07-26 |  |
 | [Unholy \- Dxrk ダークRemix](https://open.spotify.com/track/7ipO6ItNDXUiY9wjo4HvJr) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [Unholy \(Dxrk ダークRemix\)](https://open.spotify.com/album/7lK6WEgAKqQ4bzSwfpZ7UF) | 2:09 | 2022-11-25 | 2022-12-24 |
 | [URBAN DDPAT](https://open.spotify.com/track/19MmO5M7rS3TTg1WBVp9SQ) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0), [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [URBAN DDPAT](https://open.spotify.com/album/4jrITg6YV2QOl46p9VtFlW) | 2:50 | 2022-10-14 | 2022-12-10 |
 | [VAI DJ NPC SOCA COM VONTADE / MACHUCA MACHUCA](https://open.spotify.com/track/3qV8bXiqsR35JEMOy0tpJv) | [DJ NpcSize](https://open.spotify.com/artist/00B9mff8749d1A2LOLH41b), [Mc Larissa](https://open.spotify.com/artist/6mTLUu4QRFZXFurxQyLzBX) | [VAI DJ NPC SOCA COM VONTADE / MACHUCA MACHUCA](https://open.spotify.com/album/5nCc44klDwX9Oy8udBepD4) | 3:02 | 2023-05-19 | 2023-10-21 |

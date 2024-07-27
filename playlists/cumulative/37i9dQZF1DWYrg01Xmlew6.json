@@ -2804,7 +2804,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 172137,
       "name": "Justin Bieber (feat. Side Baby)",
       "url": "https://open.spotify.com/track/62Oxen6MqYesOGcIz7K5s2"
@@ -4620,7 +4620,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 200546,
       "name": "Odiami",
       "url": "https://open.spotify.com/track/59hMuCMWPM194Wtcz3UPmu"
@@ -5455,6 +5455,28 @@
     },
     {
       "album": {
+        "name": "SPAGHETTI WESTERN VOL. 2",
+        "url": "https://open.spotify.com/album/04SGvrK3QczrSRiQ564OJa"
+      },
+      "artists": [
+        {
+          "name": "Voga",
+          "url": "https://open.spotify.com/artist/6adzJ1E1UUrcSid2CsDZ6i"
+        },
+        {
+          "name": "Cecchy",
+          "url": "https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176117,
+      "name": "PUNTO DI PARTENZA (feat. Cecchy)",
+      "url": "https://open.spotify.com/track/5g500WspI6ErE9B7W6tL1n"
+    },
+    {
+      "album": {
         "name": "FEDE",
         "url": "https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT"
       },
@@ -5470,6 +5492,24 @@
       "duration_ms": 205520,
       "name": "PUORTEM RISPETT",
       "url": "https://open.spotify.com/track/0dT9EbREPPOhKlGTPN377A"
+    },
+    {
+      "album": {
+        "name": "PUSH!",
+        "url": "https://open.spotify.com/album/1VhFfUci89uff0TDbyo5Yv"
+      },
+      "artists": [
+        {
+          "name": "Rocco Hunt",
+          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152250,
+      "name": "PUSH!",
+      "url": "https://open.spotify.com/track/3M1shvccYsWzWk0HW5uGTU"
     },
     {
       "album": {
@@ -6166,7 +6206,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 141417,
       "name": "Skin",
       "url": "https://open.spotify.com/track/5xj75TS7YbhrniUeOwGh2p"
@@ -7028,7 +7068,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 149752,
       "name": "T\u2019Serj",
       "url": "https://open.spotify.com/track/0HPeMfHgO2a4nndIpcQx0Y"

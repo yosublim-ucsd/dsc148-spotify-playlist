@@ -1,13 +1,61 @@
 {
   "description": "All new, all blues. Cover: Judith Hill",
-  "num_followers": 148838,
+  "num_followers": 148872,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpnkwAAAAADo/CVXYkfvi1Fl5YiBrVM7",
+  "snapshot_id": "ZqMfQAAAAAAaQyTa4bn0Ux0L70wlDqJn",
   "tracks": [
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "The Devil Wears Lace Pt. 2",
+        "url": "https://open.spotify.com/album/6i7Twe9fH5R8cHpxJBXTaB"
+      },
+      "artists": [
+        {
+          "name": "Steven Rodriguez",
+          "url": "https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O"
+        }
+      ],
+      "duration_ms": 172420,
+      "name": "The Devil Wears Lace Pt. 2",
+      "url": "https://open.spotify.com/track/1LYvA2WZFghVMRyunh0P59"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/0spbu3TKyH5n7VHrUO7qWt"
+      },
+      "artists": [
+        {
+          "name": "The Main Squeeze",
+          "url": "https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT"
+        }
+      ],
+      "duration_ms": 238043,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/7yLN6jW7m26mhYrsu0w2vI"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "1972",
+        "url": "https://open.spotify.com/album/2cAtlM1eIoFTV0iWMpylP3"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 168013,
+      "name": "1972",
+      "url": "https://open.spotify.com/track/32X3sf3uRuASTVyb3u2E0p"
+    },
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
@@ -187,22 +235,6 @@
       "duration_ms": 241066,
       "name": "10 to the Power",
       "url": "https://open.spotify.com/track/6hUN9ySJPJduHJKNB9ut0t"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "If This Is Love",
-        "url": "https://open.spotify.com/album/5pisgCaspnGCLM6i3ERVLh"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 181053,
-      "name": "If This Is Love",
-      "url": "https://open.spotify.com/track/3bqGwopBDXVjRFfQpByCxH"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -515,22 +547,6 @@
       "duration_ms": 292933,
       "name": "Please Come On Inside",
       "url": "https://open.spotify.com/track/2DdpwpB9Pw4yiPQmrijHYj"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
-        "name": "She Knows It",
-        "url": "https://open.spotify.com/album/6DgHbvPexJ7CrDyHeJPLgO"
-      },
-      "artists": [
-        {
-          "name": "Steven Rodriguez",
-          "url": "https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O"
-        }
-      ],
-      "duration_ms": 135502,
-      "name": "She Knows It",
-      "url": "https://open.spotify.com/track/0BmWDpfHOFZ2p0vGX3Rlja"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -1611,22 +1627,6 @@
       "duration_ms": 170374,
       "name": "Find Somebody New",
       "url": "https://open.spotify.com/track/29PfxQh5YAZ0d1dT4ufRxY"
-    },
-    {
-      "added_at": "2022-07-22 04:02:00",
-      "album": {
-        "name": "Need To Know Basis",
-        "url": "https://open.spotify.com/album/1OIHlXoGI7Ybv44vuI8oP3"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 119975,
-      "name": "Need To Know Basis",
-      "url": "https://open.spotify.com/track/03medhiG64fBChIiDBTNPK"
     },
     {
       "added_at": "2022-09-02 04:02:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "\nThe biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i?si=XCJm0IaATgC1S_RfXjPavQ\">Xduppy</a>, <a href=\"https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS?si=BEtixg6GRfyK8ZejLHnkDQ\">Scotts Maphuma</a>",
+  "description": "\nThe biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/36KSzfIAH1QPHtgxgCNAs8?si=sUSItEYzQDu4xeHcuxEpBA\">DJ Stopper</a>",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -7361,6 +7361,40 @@
     },
     {
       "album": {
+        "name": "eGoli",
+        "url": "https://open.spotify.com/album/3Y5uMJSf4xvG9WzTdPRT8w"
+      },
+      "artists": [
+        {
+          "name": "CowBoii",
+          "url": "https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/4USfWz5p5xNATSfHURgBYC"
+        },
+        {
+          "name": "Eltee",
+          "url": "https://open.spotify.com/artist/4mexy8G8bBE7SBuAzTBLYr"
+        },
+        {
+          "name": "Novatron",
+          "url": "https://open.spotify.com/artist/5rnKcmn5XTpbD9OPEsrV1s"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414319,
+      "name": "eGoli",
+      "url": "https://open.spotify.com/track/64V1FmFJTy0atUHmuEBuon"
+    },
+    {
+      "album": {
         "name": "Ekasi (Amapiano)",
         "url": "https://open.spotify.com/album/5rTuIpmOFXSXEA8SuGUPP4"
       },
@@ -8420,6 +8454,28 @@
       "duration_ms": 333220,
       "name": "Fearless Soul",
       "url": "https://open.spotify.com/track/6eFxUTC1eh9G0TXyYEwbZj"
+    },
+    {
+      "album": {
+        "name": "Fede",
+        "url": "https://open.spotify.com/album/135PfHEXnrvOZagy0R4uuq"
+      },
+      "artists": [
+        {
+          "name": "Mr JazziQ",
+          "url": "https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E"
+        },
+        {
+          "name": "Vigro Deep",
+          "url": "https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394285,
+      "name": "Fede",
+      "url": "https://open.spotify.com/track/1MgV6M26UttCBNci5WzwJw"
     },
     {
       "album": {
@@ -9880,7 +9936,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 212389,
       "name": "Hade Boss (Re-Up) - Radio Edit",
       "url": "https://open.spotify.com/track/6FUnjHkrqVUCFuh71iuaGC"
@@ -18085,7 +18141,7 @@
         },
         {
           "name": "Sly",
-          "url": "https://open.spotify.com/artist/77o0pvX2EnC66Zw0nqsJmA"
+          "url": "https://open.spotify.com/artist/3vg62RNNbcEtTGVRHzIBdi"
         },
         {
           "name": "Kabza De Small",
@@ -18488,7 +18544,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 377159,
       "name": "Mixara (feat. Snow Deep, Dinho, Abidoza & Ag'zo)",
       "url": "https://open.spotify.com/track/4veg5AVz21YNjfzJmIzDuR"
@@ -23436,6 +23492,40 @@
       "duration_ms": 421978,
       "name": "Rough Dance",
       "url": "https://open.spotify.com/track/1R2iF1CoDQRlM3a3IrgPMO"
+    },
+    {
+      "album": {
+        "name": "Rough Dance",
+        "url": "https://open.spotify.com/album/7mwRBGyjn7eWxN9cBCMoLs"
+      },
+      "artists": [
+        {
+          "name": "DJ Stopper",
+          "url": "https://open.spotify.com/artist/36KSzfIAH1QPHtgxgCNAs8"
+        },
+        {
+          "name": "C-trix",
+          "url": "https://open.spotify.com/artist/6AF9XnQgJ84YHSbHTbe7zV"
+        },
+        {
+          "name": "Subzero JNR",
+          "url": "https://open.spotify.com/artist/55FyFjosrUAA4Zx6r3BS2y"
+        },
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        },
+        {
+          "name": "Zack SA",
+          "url": "https://open.spotify.com/artist/2WCFRUmNz3yk3Y9dX0iew4"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386880,
+      "name": "Rough Dance",
+      "url": "https://open.spotify.com/track/2B1vzkxI7Zv5ofC92CgH2Q"
     },
     {
       "album": {
@@ -29207,6 +29297,48 @@
     },
     {
       "album": {
+        "name": "Tsa Mandebele (Revisit) (feat. Vetkuk, Candy Tsamandebele, Nobantu Vilakazi & Oskido)",
+        "url": "https://open.spotify.com/album/6x3KuZ6PoeK3NWlbcgEZJt"
+      },
+      "artists": [
+        {
+          "name": "Mahoota",
+          "url": "https://open.spotify.com/artist/4ak8w8LmNVLnT4sULNEimt"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Ray & Jay",
+          "url": "https://open.spotify.com/artist/5VF36053AUFhrIBNrx3d96"
+        },
+        {
+          "name": "Vetkuk",
+          "url": "https://open.spotify.com/artist/0N6CgWlBaskJj7kaAXSath"
+        },
+        {
+          "name": "Candy Tsamandebele",
+          "url": "https://open.spotify.com/artist/0mqbizsedJ6CxlvyVn8Unj"
+        },
+        {
+          "name": "Nobantu Vilakazi",
+          "url": "https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q"
+        },
+        {
+          "name": "Oskido",
+          "url": "https://open.spotify.com/artist/2fFZy0nSxK6f85no96GuTT"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307368,
+      "name": "Tsa Mandebele (Revisit) (feat. Vetkuk, Candy Tsamandebele, Nobantu Vilakazi & Oskido)",
+      "url": "https://open.spotify.com/track/5GY3Nu8jEMLcnTejQ23D86"
+    },
+    {
+      "album": {
         "name": "Tse Nnyane (feat. Kosha Za)",
         "url": "https://open.spotify.com/album/3bVbGSSWfib2ieASTewxwG"
       },
@@ -30176,7 +30308,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 450000,
       "name": "Umdali (feat. Tman Xpress & Phila Dlozi)",
       "url": "https://open.spotify.com/track/58pKuuBPI78elLiqMNHOVo"
@@ -33208,7 +33340,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 379355,
       "name": "Xmas In July (feat. Mellow & Sleazy & MashBeatz)",
       "url": "https://open.spotify.com/track/5VBxvYD4gyTcX3LVzJrbwp"

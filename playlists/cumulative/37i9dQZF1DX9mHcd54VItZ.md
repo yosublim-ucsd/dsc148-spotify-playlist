@@ -4,7 +4,7 @@
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs?si=ZMYXmHpdSGeH9FknanH8Tw">Jo Black</a>
 
-491 songs - 1 day 5 hr 17 min
+492 songs - 1 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Better Days](https://open.spotify.com/track/3GOakZnkk9N8WoC520MInS) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Better Days](https://open.spotify.com/album/4tpduvbK0nh1H65MoZIrDt) | 3:28 | 2024-03-22 |  |
 | [Bietjie Bipolêr](https://open.spotify.com/track/6vxQqhd7fTIKVOa9CT3WYd) | [Brigite Duvenhage](https://open.spotify.com/artist/0UBwRVPVLHsViFuFcpiPB4) | [Bietjie Bipolêr](https://open.spotify.com/album/2kw0oaEV8IeAtfJ3PBRA3t) | 2:48 | 2023-08-31 | 2023-12-15 |
 | [Big Mistakes](https://open.spotify.com/track/3f5MFKBb6aRheW6IpSn5qw) | [Trevor Rabin](https://open.spotify.com/artist/23ukNzhMiRiYgORi3n3RJq) | [Big Mistakes](https://open.spotify.com/album/6k4QPx0m28c6UlXqkiPnlC) | 5:32 | 2023-08-04 | 2023-12-08 |
-| [Birthday Card](https://open.spotify.com/track/1owGgt0obwlyfCXHreFTFc) | [Tweak](https://open.spotify.com/artist/5a111cSPcXfRJAbY2MdtLS) | [The Romantic Lure of Possum Worship](https://open.spotify.com/album/2mY84YNvTOpVFtFJ3pJZTm) | 3:09 | 2024-01-04 |  |
+| [Birthday Card](https://open.spotify.com/track/1owGgt0obwlyfCXHreFTFc) | [Tweak](https://open.spotify.com/artist/5a111cSPcXfRJAbY2MdtLS) | [The Romantic Lure of Possum Worship](https://open.spotify.com/album/2mY84YNvTOpVFtFJ3pJZTm) | 3:09 | 2024-01-04 | 2024-07-27 |
 | [Bittersomerson](https://open.spotify.com/track/7lC9qPhTnfYYjXqeSKun7y) | [Gevoel van Veiligheid](https://open.spotify.com/artist/40woMxfZ3MF3iUOkCQguiS) | [Bittersomerson](https://open.spotify.com/album/4nBvLruXuk9NGPo8EeUwPt) | 3:01 | 2023-02-16 | 2023-05-12 |
 | [Black Candy](https://open.spotify.com/track/6qm6JkUaYNFBi9ewXTKHBj) | [The Cavalier](https://open.spotify.com/artist/44WZe9x8mr93eF5jwHMkw1) | [Black Candy](https://open.spotify.com/album/5JMwszlEhGEtI4NPdEjxeF) | 3:48 | 2023-06-08 | 2023-08-12 |
 | [Black Magic Girl](https://open.spotify.com/track/2wjI5Q9TSimAX41nzy3J24) | [Marene](https://open.spotify.com/artist/5CMKKbyPMl9Ry6Kl1m8u1I) | [Black Magic Girl](https://open.spotify.com/album/6vrQ3TNrEFgpWMD2nk5mET) | 2:52 | 2023-07-28 | 2023-09-29 |
@@ -71,7 +71,7 @@
 | [brokeboy](https://open.spotify.com/track/5A2hkikTPwDiJECorH57vg) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [brokeboy](https://open.spotify.com/album/5aSHhl5C5pb1qhpHEDTa19) | 2:59 | 2022-03-17 | 2022-11-18 |
 | [Bumper Sticker](https://open.spotify.com/track/7ggujZS2laihBf6IWHEtC3) | [Berry](https://open.spotify.com/artist/13w9tIoAE9FSWhwgjz7XKd) | [Bumper Sticker](https://open.spotify.com/album/0IJag3C2mx1xw7ZqFPixG8) | 2:54 | 2023-12-21 | 2024-01-05 |
 | [Burn It](https://open.spotify.com/track/7hSWzzi9Cwu3JL8NB7SpFh) | [West Coast Wolves](https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY) | [Burn It](https://open.spotify.com/album/5zKgkvUdr5MXfaJBRvRyOi) | 2:32 | 2023-07-06 | 2023-09-16 |
-| [Burn Out](https://open.spotify.com/track/4wqprYlbbIwIucBMEJHwSY) | [Pony Jones](https://open.spotify.com/artist/7AzbYu4z6CpgR2OSrb4DM2) | [One](https://open.spotify.com/album/1eufrzhisuPjdBsiToqi1e) | 2:41 | 2024-03-22 | 2024-03-30 |
+| [Burn Out](https://open.spotify.com/track/4wqprYlbbIwIucBMEJHwSY) | [Pony Jones](https://open.spotify.com/artist/7AzbYu4z6CpgR2OSrb4DM2) | [One](https://open.spotify.com/album/1eufrzhisuPjdBsiToqi1e) | 2:41 | 2024-03-22 |  |
 | [Burning Building](https://open.spotify.com/track/4GCCyU0clhBbGzoylegT0Z) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Burning Building](https://open.spotify.com/album/7L0sDlplj7LoHjZ7mj2ETT) | 2:56 | 2023-01-19 | 2023-03-18 |
 | [Caligulater](https://open.spotify.com/track/6SK3qzRQe8xBo9xNgUhUsO) | [Acid Magus](https://open.spotify.com/artist/1w3X8HvqSYpUFKfaQH1kF2) | [Caligulater](https://open.spotify.com/album/75a8zGSywMRtgsQlb1nQKM) | 6:53 | 2023-03-23 | 2023-04-15 |
 | [Cancelled](https://open.spotify.com/track/7BhiRAIIveb33FYNdrzBfA) | [Nine](https://open.spotify.com/artist/3AjJvYXOMFBBSqgEV7u5me) | [Cancelled](https://open.spotify.com/album/1BUsmvb1vytWr69VgR9hCX) | 4:44 | 2022-09-02 | 2022-09-16 |
@@ -238,7 +238,7 @@
 | [Just One Hit](https://open.spotify.com/track/3tUmY7VsbEvM7YxcYB4t4R) | [Painted Flowers](https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX) | [Just One Hit](https://open.spotify.com/album/4soy6XuqH6x8XnWT9YrjOs) | 4:04 | 2023-06-15 | 2023-08-25 |
 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 | 2024-01-04 |  |
 | [Karma](https://open.spotify.com/track/3omZL5SXL74UYWmqrnilTM) | [New Volume](https://open.spotify.com/artist/386eyNcHwUJ0u3awsMi88Q) | [Karma](https://open.spotify.com/album/2Q9BQwWEgZYeoPUylHEXX6) | 3:24 | 2023-11-09 | 2024-01-05 |
-| [Katedraal](https://open.spotify.com/track/0mJcJqP8GWSLCV2TMbnlIY) | [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Heelal](https://open.spotify.com/album/0MRr2149VZFyYQ5Yn0tgCw) | 4:07 | 2024-02-09 |  |
+| [Katedraal](https://open.spotify.com/track/0mJcJqP8GWSLCV2TMbnlIY) | [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Heelal](https://open.spotify.com/album/0MRr2149VZFyYQ5Yn0tgCw) | 4:07 | 2024-02-09 | 2024-07-27 |
 | [Kerse](https://open.spotify.com/track/5Rf8HoMPgj9IWFwaLnjFPf) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Droombrief](https://open.spotify.com/album/0hLWiLGIlllFAfF4vKpmgf) | 4:04 | 2022-03-24 | 2022-05-27 |
 | [kill all my feelings](https://open.spotify.com/track/0dlCaafsMEfprlXtoogDgm) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [kill all my feelings](https://open.spotify.com/album/1onwNNRB0cQ5gBRFknbYPp) | 3:02 | 2022-07-21 | 2023-02-17 |
 | [Killing Time](https://open.spotify.com/track/1tAYM3JLn8gynNMHCUcIAj) | [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [Killing Time](https://open.spotify.com/album/1zHfXySzYnUNA4vWAinERg) | 2:51 | 2023-05-18 | 2023-08-05 |
@@ -451,6 +451,7 @@
 | [Tiptoe](https://open.spotify.com/track/2sb1iOmBnDrPFpzRagOhgS) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [Tiptoe](https://open.spotify.com/album/3h3GSXsm9dsxIOxjemmAan) | 3:28 | 2023-09-22 | 2024-01-05 |
 | [Toe Roep Ek Jou Naam](https://open.spotify.com/track/2ZYbvsHY9vG3pqI8qYTgN6) | [Jan Blohm](https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW), [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Toe Roep Ek Jou Naam Velvet Blohm](https://open.spotify.com/album/3rWwRZdKja3xTo7CQYDBvi) | 3:45 | 2022-11-17 | 2023-09-01 |
 | [Too Much \(Feat\. Shane Durrant\)](https://open.spotify.com/track/5ERIKZDFo9IDQl4dg69fzS) | [Shortstraw](https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt), [Shane Durrant](https://open.spotify.com/artist/3rJ8mFZryeXC2n5bMkQVkV) | [Fine thanks, and you?](https://open.spotify.com/album/7w9HwmPatYwQd2MgIUqyM8) | 3:12 | 2022-03-31 | 2023-01-27 |
+| [Tot Tyd My Red](https://open.spotify.com/track/4wesBk83cdR6oi2IHmzKZk) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [Tot Tyd My Red](https://open.spotify.com/album/0rpivhahSWgMReviuQXL0C) | 3:54 | 2024-07-18 |  |
 | [Towards The Sun](https://open.spotify.com/track/57Fo0TBbJvUndg5OXfhiNh) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [Towards The Sun](https://open.spotify.com/album/30XPENrsPptG3L6mBHFM9t) | 4:25 | 2021-08-13 | 2022-04-01 |
 | [Towerkop](https://open.spotify.com/track/0lxm6E9GTyQ8hJXxnR5hZb) | [Frans Karoo](https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO) | [Towerkop](https://open.spotify.com/album/2WlM9UWueQZ0beAQSbjRKx) | 4:29 | 2022-11-17 | 2023-01-27 |
 | [Toxic Memories](https://open.spotify.com/track/70Vz80OyLKa5UrChrI3ewd) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz), [SKTLLZ](https://open.spotify.com/artist/66olM2buHnkGEYhr9MjIf5) | [Toxic Memories](https://open.spotify.com/album/21uYLW8NnoSJVdYTamQGx6) | 2:41 | 2021-09-23 | 2022-03-18 |

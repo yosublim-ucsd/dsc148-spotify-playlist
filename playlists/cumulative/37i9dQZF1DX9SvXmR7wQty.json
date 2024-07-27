@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Kl\u00f4 Pelgag",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Rymz",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -148,7 +148,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 122823,
       "name": "10$",
       "url": "https://open.spotify.com/track/1FH8npFrK7cRiLooVwAYYu"
@@ -442,7 +442,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 172700,
       "name": "2034 (le soleil tombe sur toi)",
       "url": "https://open.spotify.com/track/7ncCWM8ZC8XkG7mU9ClBpf"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 150898,
       "name": "40",
       "url": "https://open.spotify.com/track/6MJSvI0HaZC2W5JIZg9w50"
@@ -1380,7 +1380,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 190889,
       "name": "A.Y.C.E.",
       "url": "https://open.spotify.com/track/0vKlC3gaKCMwOZuVNtrk8x"
@@ -3697,6 +3697,24 @@
     },
     {
       "album": {
+        "name": "Ayoye",
+        "url": "https://open.spotify.com/album/39YPVH8eGpASFIDjAD4rcx"
+      },
+      "artists": [
+        {
+          "name": "Sarahm\u00e9e",
+          "url": "https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172908,
+      "name": "Ayoye",
+      "url": "https://open.spotify.com/track/1U4RnGwHttw1bAKi4zqwgz"
+    },
+    {
+      "album": {
         "name": "A\u00e9roplane",
         "url": "https://open.spotify.com/album/3Q6PNJAoFjIgyDw5ubFhei"
       },
@@ -4106,7 +4124,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-25",
+      "date_removed": null,
       "duration_ms": 162406,
       "name": "Bandito",
       "url": "https://open.spotify.com/track/3H6npmJown5S3sDn3cbWDh"
@@ -8208,7 +8226,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 180228,
       "name": "Chor\u00e9",
       "url": "https://open.spotify.com/track/2J6iYDncej8Z1vOiisz7zN"
@@ -12624,7 +12642,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 130628,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/21Ctmv1xIMNqEaJeZCYITE"
@@ -13874,6 +13892,24 @@
       "duration_ms": 164100,
       "name": "Elastiqu\u00e9",
       "url": "https://open.spotify.com/track/7F5HJiph7AkAozWdKDF0F5"
+    },
+    {
+      "album": {
+        "name": "Eldorado",
+        "url": "https://open.spotify.com/album/27TWg0OeIyH5aSHUYVXTTa"
+      },
+      "artists": [
+        {
+          "name": "Fred Dionne",
+          "url": "https://open.spotify.com/artist/3HafAp0QyF7zN7EjOM1sRF"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190095,
+      "name": "Eldorado",
+      "url": "https://open.spotify.com/track/1rVbfIJ5xti72aYKiJJkqJ"
     },
     {
       "album": {
@@ -18244,7 +18280,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 116635,
       "name": "Habanero",
       "url": "https://open.spotify.com/track/4GxYstTiZTuR2htUjcM17Z"
@@ -18984,6 +19020,24 @@
       "duration_ms": 225350,
       "name": "Hologramme",
       "url": "https://open.spotify.com/track/4zvTTMzKc6ANc8gpsnrgYk"
+    },
+    {
+      "album": {
+        "name": "HOL\u00c9MAINS",
+        "url": "https://open.spotify.com/album/396KjkdP3ImwVWyXkAr20R"
+      },
+      "artists": [
+        {
+          "name": "DVinyle",
+          "url": "https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "HOL\u00c9MAINS",
+      "url": "https://open.spotify.com/track/1r0wKIQV2p6koGNfvxwh16"
     },
     {
       "album": {
@@ -22815,6 +22869,24 @@
     },
     {
       "album": {
+        "name": "Kanye West",
+        "url": "https://open.spotify.com/album/4vBSXrZUXvNe7QiYy1A8Ia"
+      },
+      "artists": [
+        {
+          "name": "Lebza Khey",
+          "url": "https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Kanye West",
+      "url": "https://open.spotify.com/track/0Exj4hL7PquqwVrohrD7hj"
+    },
+    {
+      "album": {
         "name": "VENI VIDI VICI",
         "url": "https://open.spotify.com/album/0PiKFwhGs9zPnojBJAIcc4"
       },
@@ -23052,6 +23124,28 @@
       "duration_ms": 165093,
       "name": "Kilimanjaro",
       "url": "https://open.spotify.com/track/6uAjco2VicGZDJqdNLYywt"
+    },
+    {
+      "album": {
+        "name": "killa",
+        "url": "https://open.spotify.com/album/0Z67jZ23bypOD4ZpuOlriu"
+      },
+      "artists": [
+        {
+          "name": "Rounhaa",
+          "url": "https://open.spotify.com/artist/6jFcJYXzABu7Us9iwENUJe"
+        },
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141897,
+      "name": "killa",
+      "url": "https://open.spotify.com/track/6SHYeNSIkCXZy5m6pvFXkV"
     },
     {
       "album": {
@@ -25666,7 +25760,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 187319,
       "name": "Lalla",
       "url": "https://open.spotify.com/track/1iM4agLs3G8ihIHEcWojcN"
@@ -27865,6 +27959,24 @@
     },
     {
       "album": {
+        "name": "Les Olympiques",
+        "url": "https://open.spotify.com/album/3kf2lihdhdcljNcHdb9g15"
+      },
+      "artists": [
+        {
+          "name": "DVTR",
+          "url": "https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140080,
+      "name": "Les Olympiques",
+      "url": "https://open.spotify.com/track/5GYmlTd1VsFSnWLPFliBQD"
+    },
+    {
+      "album": {
         "name": "Les plus beaux r\u00eaves",
         "url": "https://open.spotify.com/album/3dGByY1yxXlYVLLTnvb1ZT"
       },
@@ -29062,7 +29174,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 189677,
       "name": "Loyaut\u00e9",
       "url": "https://open.spotify.com/track/69T9LCG5yBYd9WeRBsdMwR"
@@ -31910,7 +32022,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 186719,
       "name": "Mon barbier",
       "url": "https://open.spotify.com/track/4RgTeFUhjfpx1jdWkykmUY"
@@ -39944,7 +40056,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 161377,
       "name": "Rayol",
       "url": "https://open.spotify.com/track/3If2Z0wH9FM1EBW2xQfEM2"
@@ -41616,7 +41728,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 187200,
       "name": "S'CAPTER",
       "url": "https://open.spotify.com/track/4sXlVea4xm9kfDZkxzOPjq"
@@ -42436,6 +42548,24 @@
       "duration_ms": 128522,
       "name": "Scout",
       "url": "https://open.spotify.com/track/3LfMWm0K7eM2Fu5KrqOGyA"
+    },
+    {
+      "album": {
+        "name": "SD Night",
+        "url": "https://open.spotify.com/album/4hQDYoPdi19Fkd0BJPLhp6"
+      },
+      "artists": [
+        {
+          "name": "VEN1",
+          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182535,
+      "name": "SD Night",
+      "url": "https://open.spotify.com/track/7E8RJY17lUK5W7J1TDFd6z"
     },
     {
       "album": {
@@ -43406,7 +43536,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 184680,
       "name": "Si \u00e7a va",
       "url": "https://open.spotify.com/track/3qL5wlh5GaEKam28diqZo9"
@@ -43482,6 +43612,24 @@
       "duration_ms": 180968,
       "name": "Sign\u00e9",
       "url": "https://open.spotify.com/track/7gYpMsodGiFN0qMmz9FCTj"
+    },
+    {
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/1BxAlCv8xg7heuDfykGARU"
+      },
+      "artists": [
+        {
+          "name": "Junes",
+          "url": "https://open.spotify.com/artist/7gVX2tLip13N0qGifgsWQl"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199980,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/17seVH4ixZN7PZaTLEyO8c"
     },
     {
       "album": {
@@ -45236,7 +45384,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 174530,
       "name": "SURVIE",
       "url": "https://open.spotify.com/track/7yz9tcPQngQ19yAmRfQG7U"
@@ -45479,6 +45627,24 @@
     },
     {
       "album": {
+        "name": "T.I.A - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "T.I.A - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej"
+    },
+    {
+      "album": {
         "name": "Ta bouche",
         "url": "https://open.spotify.com/album/33TW5PYMySDjISn4HDpbbE"
       },
@@ -45490,7 +45656,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 163278,
       "name": "Ta bouche",
       "url": "https://open.spotify.com/track/5pGcX4EhocWxqwVw1QR8RY"
@@ -45752,7 +45918,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 234293,
       "name": "Tant pis",
       "url": "https://open.spotify.com/track/6EhRIJXwQGvRDKj2clUB7W"
@@ -46762,7 +46928,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 153266,
       "name": "Ton regard",
       "url": "https://open.spotify.com/track/4FrlgpyAzw4a3gErecQqUO"
@@ -46788,6 +46954,24 @@
       "duration_ms": 241490,
       "name": "Top",
       "url": "https://open.spotify.com/track/7L25Tg4Jxxk1Q5tS59QfUB"
+    },
+    {
+      "album": {
+        "name": "Top Dogs",
+        "url": "https://open.spotify.com/album/0M0yE4Q0Y7cbJDKdmDWQ4v"
+      },
+      "artists": [
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107145,
+      "name": "Top Dogs",
+      "url": "https://open.spotify.com/track/0I0s3opJhCWhvm8MAUzfDF"
     },
     {
       "album": {

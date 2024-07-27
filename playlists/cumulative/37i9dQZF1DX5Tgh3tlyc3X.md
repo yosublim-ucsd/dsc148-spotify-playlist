@@ -4,12 +4,12 @@
 
 > Enter an Alpha meditative state with mid\-range frequencies and then ease into a Theta brainwave state.
 
-195 songs - 10 hr 3 min
+197 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [110 Hz \- 123 Hz Alpha Soundscape](https://open.spotify.com/track/3alCs4bLSLEVmq0f8pMy3V) | [Underscores And Drones](https://open.spotify.com/artist/4o2si54bTht8Zqe73sAHJb) | [Binaural Alpha Soundscapes for Deep Relaxation](https://open.spotify.com/album/4tIovUJTFv0rbj146oK5pi) | 3:00 | 2023-11-24 |  |
-| [4 Hz Theta Drone](https://open.spotify.com/track/5zz6lTmT0vq9CU5aukUYYW) | [Theta Max](https://open.spotify.com/artist/2O2jPUqRbUz01bfmZcGPRf) | [4\-8 Hz Theta Drones](https://open.spotify.com/album/5YWRca6jb91Eg44iFmf5hx) | 3:34 | 2023-11-24 |  |
+| [4 Hz Theta Drone](https://open.spotify.com/track/5zz6lTmT0vq9CU5aukUYYW) | [Theta Max](https://open.spotify.com/artist/2O2jPUqRbUz01bfmZcGPRf) | [4\-8 Hz Theta Drones](https://open.spotify.com/album/5YWRca6jb91Eg44iFmf5hx) | 3:34 | 2023-11-24 | 2024-07-27 |
 | [432 Hz Tellus Heartbeat](https://open.spotify.com/track/3jZtP1Fbf4WO45BuCClXQJ) | [Aura Glow](https://open.spotify.com/artist/7IGjZnvxxrmq5LtjOSjLt6) | [432 Hz Tellus Heartbeat](https://open.spotify.com/album/3F6z3CdXwUdmEytOcDOdIf) | 2:45 | 2024-02-16 | 2024-03-08 |
 | [528 Hz Tranquil Movement](https://open.spotify.com/track/3Yr2H92JZYghHGHApR2Y3E) | [Seraphic Binaural Wisdom](https://open.spotify.com/artist/0HlDANrsQmbtySRs1OA3bY) | [528 Hz Tranquil Movement](https://open.spotify.com/album/6t5ZI4pjEPPM7TMBLza3Rg) | 2:30 | 2024-01-31 | 2024-03-08 |
 | [6 Hz Theta Drone](https://open.spotify.com/track/3Hdoxb4ESR1MfZHil7V7dz) | [Theta Max](https://open.spotify.com/artist/2O2jPUqRbUz01bfmZcGPRf) | [4\-8 Hz Theta Drones](https://open.spotify.com/album/5YWRca6jb91Eg44iFmf5hx) | 3:26 | 2023-11-24 |  |
@@ -72,6 +72,7 @@
 | [Binaural Alpha Waves 98\-106 Hz](https://open.spotify.com/track/4NZVL7pYOVz1VcctrbyGyS) | [Lars Peters](https://open.spotify.com/artist/6UFCmfl7djtHECEfm4Vhcx) | [Binaural Alpha Waves 98\-106 Hz](https://open.spotify.com/album/1zIw0Shm9fhxE0MLXHMtCb) | 2:32 | 2023-11-24 |  |
 | [Binaural Bath \(Alpha\)](https://open.spotify.com/track/2eToU4GC23Joq8IW7ZHqlv) | [Klangbaden](https://open.spotify.com/artist/71pgpI9Xocbr5MZ2rkuVXD) | [Binaural Bath](https://open.spotify.com/album/6ZpTMGrWIFl6GHpu8JZ2VL) | 3:42 | 2023-11-24 |  |
 | [Binaural Cloud \(Alpha 7 Hz\)](https://open.spotify.com/track/0L8oyEqNesxaRSPExshgfr) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [Binaural Cloud](https://open.spotify.com/album/5S1Qz3lRareeSFN4vi2UeH) | 2:58 | 2023-11-24 |  |
+| [Binaural Concentration Alpha 100 Hz \- 108 Hz](https://open.spotify.com/track/5W31qjDdoEKnGT6qmaFL9I) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [Binaural Concentration Alpha 100 Hz \- 108 Hz](https://open.spotify.com/album/3ow856D7cLAuuKDhipJdn7) | 3:08 | 2024-07-26 |  |
 | [Binaural Sines 5hz Theta 112hz \-108hz](https://open.spotify.com/track/7oQnIeX2ExRICtI2GPSXNQ) | [Assembly of Sines](https://open.spotify.com/artist/16iSnfmdXqHdufWNzURPFt) | [Assembly of Sines](https://open.spotify.com/album/4BrlUJIq4Bb0ZoOQcvpIcy) | 2:16 | 2023-11-24 |  |
 | [Binaural Sleep 92 Hz \- 93 Hz Theta Wave](https://open.spotify.com/track/6xSgQntO7qjJrHHn45WLLV) | [Status Calma](https://open.spotify.com/artist/4MVoXcZwZAjwrFP5G3ogRI) | [Dark Mystique](https://open.spotify.com/album/4CmjE64z0QhjXWXz9IlJmt) | 2:51 | 2023-11-24 |  |
 | [Binaural Theta 5hz 147hz and 152hz](https://open.spotify.com/track/55EAVW72ROxYtsx0ymYej7) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Binaural Delta and Theta Brainwaves for Sleep](https://open.spotify.com/album/4wWOPfIqG0U0Q060BU9AS6) | 2:39 | 2023-11-24 |  |
@@ -121,6 +122,7 @@
 | [From Above](https://open.spotify.com/track/7ayDStd0Al7EGDZ7PjXB97) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [From Above](https://open.spotify.com/album/4teRsOhNnx0Ogd4QWM51wG) | 2:08 | 2023-11-24 |  |
 | [Galactic \- Alpha Sinus 84,1 Hz \- 87,2 Hz](https://open.spotify.com/track/7Grr4TGNkddZQKmiAcsMH6) | [Electronic Waves](https://open.spotify.com/artist/76njKl9PZjeFGyXq6FXsKT) | [Deep Alpha Focus](https://open.spotify.com/album/268lE50iJ6lqOuLDAgAmMb) | 2:56 | 2023-11-24 |  |
 | [Gathering Strenght \(Alpha Waves\)](https://open.spotify.com/track/5LClC3g56RONSzKN7QG56c) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [The Deepest Dream \(Binaural Beats\)](https://open.spotify.com/album/6nv46CNtutXIqarQSn4XnR) | 2:46 | 2023-11-24 |  |
+| [Giving Cleanse Alpha \(76\-88hz\)](https://open.spotify.com/track/44qIh13XDQ4nE6iAnvx1Fl) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Giving Cleanse Alpha](https://open.spotify.com/album/5Uz7Bl6hogJai959hEv1aF) | 2:42 | 2024-07-26 |  |
 | [Glowing Landscape \(Binaural Alpha\)](https://open.spotify.com/track/0qLKvWbAo3s2YPqHdZSBIr) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Recenter Your Mind](https://open.spotify.com/album/2XAbBsUESUVWkQKY5zYGGM) | 3:21 | 2023-11-24 |  |
 | [Halcyon Daydream \(Theta Drone L108Hz R113Hz\)](https://open.spotify.com/track/0bcuywElaeclSy52Lk2OOv) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Halcyon Daydream](https://open.spotify.com/album/1DjC6VA3VUrBr5xgQCV9SF) | 3:56 | 2023-11-24 |  |
 | [Healing Alpha Sinus 106Hz \- 113Hz](https://open.spotify.com/track/0SEvk8gI3L48Vtq1ZbUZNp) | [AEX8](https://open.spotify.com/artist/6YKzzuOtORw4h0XGtkQQGb) | [Sound Bath](https://open.spotify.com/album/0dTiPuAGoJ0fjUyXgblgRw) | 3:38 | 2023-11-24 |  |

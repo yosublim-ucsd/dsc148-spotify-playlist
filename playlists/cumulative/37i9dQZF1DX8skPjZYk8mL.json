@@ -4354,7 +4354,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 134855,
       "name": "Edelweiss",
       "url": "https://open.spotify.com/track/28a7u9njkwsYyUtT3a7Daw"
@@ -6766,7 +6766,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 92437,
       "name": "Higher and Higher",
       "url": "https://open.spotify.com/track/31gNqNBaEauhZ4NfHU6oxP"
@@ -6820,7 +6820,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 99384,
       "name": "Holding Hands",
       "url": "https://open.spotify.com/track/6hzlEcgzqLW9UbLsUZMTVP"
@@ -10528,7 +10528,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 105579,
       "name": "My First Tooth",
       "url": "https://open.spotify.com/track/5GrcAAUOcEozkmvXfQI8Jd"
@@ -14189,6 +14189,24 @@
     },
     {
       "album": {
+        "name": "Sov Du Lilla Videung",
+        "url": "https://open.spotify.com/album/4qvJojQlZOOopjHTsUiByc"
+      },
+      "artists": [
+        {
+          "name": "Vera Oppenheim",
+          "url": "https://open.spotify.com/artist/6sMDWyPzUsjydb64jvhGvT"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127581,
+      "name": "Sov Du Lilla Videung",
+      "url": "https://open.spotify.com/track/6nY5IN0z2GtWHGCpUikbCZ"
+    },
+    {
+      "album": {
         "name": "Sov Gott Lilla Du",
         "url": "https://open.spotify.com/album/394pvy3LQZ6GOWayS8hgD9"
       },
@@ -14510,6 +14528,24 @@
       "duration_ms": 83579,
       "name": "Stay Awake",
       "url": "https://open.spotify.com/track/2UmTmbcO8p4LpZ5uXCblkB"
+    },
+    {
+      "album": {
+        "name": "Stay Awake",
+        "url": "https://open.spotify.com/album/1zTqsjrkQBIzdKU5KV52hk"
+      },
+      "artists": [
+        {
+          "name": "Val\u00e9rian Rose",
+          "url": "https://open.spotify.com/artist/6xmpBRXtnKvwXVMGRQT7G7"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78545,
+      "name": "Stay Awake",
+      "url": "https://open.spotify.com/track/5neb96Off8O3IxZ4GuYHZh"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Wyatt Flores
 
-279 songs - 18 hr 0 min
+281 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Black Peter](https://open.spotify.com/track/4rQyvLAxf6ENq0dB4WFbOR) | [Leftover Salmon](https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz) | [Grass Roots](https://open.spotify.com/album/6A9zPtwsWCWvHOSuRGD2N0) | 5:30 | 2023-05-19 |  |
 | [Blinding Lights](https://open.spotify.com/track/6Yha6zZt78YGfpUT8pZZHD) | [Heather Sarona](https://open.spotify.com/artist/5cne7YJw2nterSfuPr16W0) | [Blinding Lights](https://open.spotify.com/album/7falZh1l6FbSfdXBRRGeWm) | 3:35 | 2022-12-02 |  |
 | [Born At The Right Time](https://open.spotify.com/track/4dR5U0ARtEkuIVI17zilxf) | [Chris Roberts](https://open.spotify.com/artist/0wrLBy1hHUUDMRjdL9xxGr) | [Born At The Right Time](https://open.spotify.com/album/3LRnF4dHzSpanoNzgY8THq) | 4:48 | 2024-02-23 |  |
+| [Born to Run](https://open.spotify.com/track/3ZMEwdh8QGsUSOmXGsLcAu) | [Craig Duncan](https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t) | [Born to Run](https://open.spotify.com/album/6XXtLt6TrZqAEpf075BH6X) | 4:41 | 2024-07-26 |  |
 | [Brain Damage](https://open.spotify.com/track/2dcZFrC8XkdxhVxmb8p2kO) | [The Austin Lounge Lizards](https://open.spotify.com/artist/4O4nf1pPdZh0crQObAC8um) | [Lizard Vision](https://open.spotify.com/album/39wW3gZkVGupQpLXw2ogs9) | 2:31 | 2021-08-20 | 2023-04-15 |
 | [Break on Through \(To the Other Side\)](https://open.spotify.com/track/0hjjRLRLsepUhGLQaLDvGb) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [Break on Through \(To the Other Side\)](https://open.spotify.com/album/6hRj4yRNbXucoVjuSQwSFT) | 3:35 | 2024-06-13 |  |
 | [Callin' Baton Rouge](https://open.spotify.com/track/0EoZG0iXT9gLkQGlwReFbM) | [New Grass Revival](https://open.spotify.com/artist/4H2wzhX55UWQ9POEPok5j5) | [Best Of New Grass Revival](https://open.spotify.com/album/0LnekmRkX0aKwAZ33cg387) | 2:40 | 2023-03-03 |  |
@@ -256,6 +257,7 @@
 | [Under Pressure](https://open.spotify.com/track/2BkIizhyucfTfpnT0jcLCV) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Cornbread Red](https://open.spotify.com/artist/6WGUADHV7LnpbmNi5PhfYO) | [Bluegrass Tribute to Classic Rock](https://open.spotify.com/album/7mJdTwETbMT1qVf7kkq3SB) | 3:36 | 2021-08-20 | 2023-05-14 |
 | [Valerie](https://open.spotify.com/track/3wShyyPO8fob86VMwkZOCt) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [City Painted Gold](https://open.spotify.com/album/23MGSQXuPuptLqoWIuQvah) | 4:54 | 2022-10-07 | 2024-04-19 |
 | [Valerie](https://open.spotify.com/track/41YOqmMxkDQZWqMZAExMx1) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [City Painted Gold](https://open.spotify.com/album/4OSdY8WqGsfZvCwPIoX4ri) | 4:54 | 2022-08-09 |  |
+| [Wagon Wheel](https://open.spotify.com/track/2c3UKDNpkzj1qmSRWMDpcC) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [Wagon Wheel](https://open.spotify.com/album/7cPsrl4X5vxDsoL3gdZK2l) | 7:13 | 2024-07-26 |  |
 | [Wake Me Up \- The Bluegrass Rendition](https://open.spotify.com/track/71W7aqLRQQmrqnGA7U5mzB) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo), [Jake Vaadeland](https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3) | [Wake Me Up \(The Bluegrass Rendition\)](https://open.spotify.com/album/5nNr9tOefpudgC4QLcwh3g) | 4:23 | 2024-05-24 |  |
 | [Wake Me When It's Over](https://open.spotify.com/track/0J10lTnQV1rosvX0jYYX5J) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Wake Me When It's Over](https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz) | 4:18 | 2023-04-28 | 2024-06-14 |
 | [Walk This Way](https://open.spotify.com/track/31iIGTRrL3X0RfOM6zv0Mk) | [Hayseed Dixie](https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi) | [Mountain Love](https://open.spotify.com/album/6V64FxexuvUbun8AnRKYKs) | 4:18 | 2021-08-20 | 2022-01-22 |

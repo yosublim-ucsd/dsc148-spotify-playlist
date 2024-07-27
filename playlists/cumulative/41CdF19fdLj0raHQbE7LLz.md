@@ -4,7 +4,7 @@
 
 > &\#x27;Spektre&\#x27;s Selection&\#x27; is a weekly updated playlist of the freshest techno straight from their crate! Get following! \#respekt
 
-220 songs - 19 hr 6 min
+223 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Disconnect Me](https://open.spotify.com/track/725gTXSBCLwjb9B73g0ScG) | [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF), [Patrik Berg](https://open.spotify.com/artist/13SB6LyYpsdN2QPEqpYS9l) | [Disconnect Me](https://open.spotify.com/album/33gbMrZIToO9ark2S7Ri1S) | 5:42 | 2024-02-23 |  |
 | [Dish Ya Now](https://open.spotify.com/track/0cytq2IoQxtaWzxBAHQC0k) | [Roberto Capuano](https://open.spotify.com/artist/2XWr3TCJUE6XBKd6BQrAc1) | [When the Lights Go Down](https://open.spotify.com/album/50v574ovT1KSQBsrLU6vbe) | 3:32 | 2023-03-09 | 2024-06-03 |
 | [Disintegrate](https://open.spotify.com/track/7oPC4KDG0ofx3Cvpie1D9W) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT) | [Disintegrate](https://open.spotify.com/album/1IeOO326Q8ZPprvUoUUhx5) | 7:19 | 2023-02-05 |  |
+| [Distraction](https://open.spotify.com/track/5hTgCrc499spc9sxY2qskm) | [GIULIA \(IT\)](https://open.spotify.com/artist/1cGOVsqhXl4RuUIm4RSRHK) | [Sahara](https://open.spotify.com/album/1NQTqcxwDzBeJi9fvKN49D) | 3:54 | 2024-07-26 |  |
 | [Dodgems](https://open.spotify.com/track/6BisIQ370CusHlyAAJrPOq) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT) | [Dodgems](https://open.spotify.com/album/1naBLI1pkepEzgoahwj4Ny) | 3:42 | 2024-02-23 |  |
 | [Don't Look Back](https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl) | 3:51 | 2022-04-18 | 2023-06-29 |
 | [Don't Need You](https://open.spotify.com/track/0U9R5tF9KeUkMuq3uVeDFK) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT) | [Jilted](https://open.spotify.com/album/2Qu6otxkYLN1PMqfq44hL1) | 3:33 | 2024-05-15 |  |
@@ -148,6 +149,7 @@
 | [Phantom Limb](https://open.spotify.com/track/6oEfPKX1nreq7qoARjypEP) | [Sam Kitt](https://open.spotify.com/artist/4nZj2Iwb9yJSocd8OlpKBo) | [Phantom Limb](https://open.spotify.com/album/1h5mTzaWLLIvAq67lohsut) | 4:02 | 2023-03-10 | 2024-06-03 |
 | [Premonition](https://open.spotify.com/track/6J9qHbjXv37EGTLO8aK0jA) | [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri) | [Premonition](https://open.spotify.com/album/7xovWTrsRTgPzdMfgTzcOa) | 3:30 | 2023-03-09 | 2024-06-03 |
 | [Pulse Of Progression](https://open.spotify.com/track/54hcdCs31JKzViz8hVXgpV) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Physical Change EP](https://open.spotify.com/album/0QeMDNqrQdFQoBNcem9UqF) | 7:33 | 2023-06-28 |  |
+| [Pulverturm \- ANNA Rework](https://open.spotify.com/track/4NN7PBVKclppjgszynZ9K1) | [Niels Van Gogh](https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Pulverturm \(ANNA Rework\)](https://open.spotify.com/album/4jh1gyFiHu0u7noPxQyzcE) | 3:56 | 2024-07-26 |  |
 | [PURA VIDA \- Wehbba Remix](https://open.spotify.com/track/1ch4P5LTDHoHulGC5lhNYT) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [PURA VIDA \(Wehbba Remix\)](https://open.spotify.com/album/5g3umWr9sJoUut6pOoyWUb) | 3:53 | 2023-04-23 | 2024-06-03 |
 | [Push \- Radio Edit](https://open.spotify.com/track/5oYqdLRPyEDv03v4vu6GVx) | [Filtrack](https://open.spotify.com/artist/0kdVhsh2wHQULmqsneYEF3) | [When I Play \(Radio Edit\)](https://open.spotify.com/album/4X8WC0GUSzm2rCTNxRe7uo) | 4:05 | 2022-11-25 | 2023-04-24 |
 | [Qualia](https://open.spotify.com/track/3wDP1eCFT3sDCwOzL9l093) | [Zimmz](https://open.spotify.com/artist/1fjyfUlALNaLiP57l5UmGn) | [A\-Sides, Vol\. 11](https://open.spotify.com/album/3uDzg42dI0fxJUojkmN1aY) | 6:24 | 2022-11-25 | 2024-02-24 |
@@ -167,6 +169,7 @@
 | [Ritual](https://open.spotify.com/track/5tPC9sy0oSG2snV5L3PYB1) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4) | [Umbilicis Universalis](https://open.spotify.com/album/67vRbAKHrUlH3ejiXFDKQy) | 7:00 | 2022-04-18 | 2023-09-26 |
 | [Roar](https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Roar](https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp) | 5:55 | 2024-06-02 |  |
 | [Sacrament](https://open.spotify.com/track/6he9BFgl0Qjl9CqRdDdcUD) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT) | [Dodgems](https://open.spotify.com/album/1naBLI1pkepEzgoahwj4Ny) | 3:35 | 2024-02-23 |  |
+| [Sahara](https://open.spotify.com/track/5PGIO3ON2N0xHZG5k3Xz3P) | [GIULIA \(IT\)](https://open.spotify.com/artist/1cGOVsqhXl4RuUIm4RSRHK) | [Sahara](https://open.spotify.com/album/1NQTqcxwDzBeJi9fvKN49D) | 3:44 | 2024-07-26 |  |
 | [Sentinella Meccanica](https://open.spotify.com/track/5fyCP0uZrzFOmEU5XeL7WI) | [Mattia Saviolo](https://open.spotify.com/artist/0CHQALTC4ovqi6EU4xvUeq) | [Sentinella Meccanica](https://open.spotify.com/album/6PVzOkJ8FzqNrRKm4frP2b) | 6:33 | 2022-04-18 | 2023-06-29 |
 | [Sewing Machine \- Original Mix](https://open.spotify.com/track/3Awm43EquceYlYij4XukmQ) | [Thommes Jay](https://open.spotify.com/artist/2FKM7lVEVnjYGD0DVfsJRr) | [Sewing Machine](https://open.spotify.com/album/1OuEI0rW6JxHfmDwkuI5wM) | 5:29 | 2023-04-23 | 2024-06-03 |
 | [Shelley](https://open.spotify.com/track/2PtoiQ2TauMtZHV1UzDGEE) | [Dusk Poem](https://open.spotify.com/artist/7vTFFAjRpm4zDijRAfJpAy) | [Luna](https://open.spotify.com/album/5HbKL2zvBuBhWhYgaoONeZ) | 7:06 | 2022-11-25 | 2023-04-24 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-15",
-  "description": "Lo nuevo y lo m\u00e1s destacado de la electr\u00f3nica nacional. Portada: Peces Raros",
+  "description": "Lo nuevo y lo m\u00e1s destacado de la electr\u00f3nica nacional. Portada: motty & S3BZS",
   "name": "mint argentina",
   "tracks": [
     {
@@ -300,7 +300,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 193918,
       "name": "Artificial",
       "url": "https://open.spotify.com/track/39nxr5EypgH8Vm1N3qRlyR"
@@ -340,6 +340,32 @@
       "duration_ms": 460975,
       "name": "Astroboy",
       "url": "https://open.spotify.com/track/7fGA2ygZsqYqXpBoW3TKha"
+    },
+    {
+      "album": {
+        "name": "Aurial",
+        "url": "https://open.spotify.com/album/2v2fMVosY2tKlA9gbgJGw6"
+      },
+      "artists": [
+        {
+          "name": "motty",
+          "url": "https://open.spotify.com/artist/6rJaeIeEwGvYH6PyIMz0WG"
+        },
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        },
+        {
+          "name": "Launch13",
+          "url": "https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186334,
+      "name": "Aurial",
+      "url": "https://open.spotify.com/track/65xdN7QgXmJ1nb9IP3vOPX"
     },
     {
       "album": {
@@ -769,6 +795,28 @@
     },
     {
       "album": {
+        "name": "CORBETA HALC\u00d3N",
+        "url": "https://open.spotify.com/album/3vgvdOaQWfpwYvCfHzf2KZ"
+      },
+      "artists": [
+        {
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+        },
+        {
+          "name": "Joaquin Catriel",
+          "url": "https://open.spotify.com/artist/3DcweuVidzAfVGEo8EX8Lz"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315428,
+      "name": "CORBETA",
+      "url": "https://open.spotify.com/track/7ftUOMEXNxMlttm4wBr0Es"
+    },
+    {
+      "album": {
         "name": "Una Dosis de Terciopelo",
         "url": "https://open.spotify.com/album/6UgJn3Do0qF5Q28RsGIdKd"
       },
@@ -1049,6 +1097,28 @@
     },
     {
       "album": {
+        "name": "Escapar",
+        "url": "https://open.spotify.com/album/4KP7MjgfR11ArBxLAV6NBP"
+      },
+      "artists": [
+        {
+          "name": "Facundo Majdalani",
+          "url": "https://open.spotify.com/artist/3NyQOEvPVM0jpm4Kh7sY5A"
+        },
+        {
+          "name": "Dani Ribba",
+          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211320,
+      "name": "Escapar",
+      "url": "https://open.spotify.com/track/4ywH2MZ755oUVILVtQxfWm"
+    },
+    {
+      "album": {
         "name": "Espejos",
         "url": "https://open.spotify.com/album/4YOSYeAyGVYSGnyekTfIHJ"
       },
@@ -1218,6 +1288,24 @@
       "duration_ms": 201601,
       "name": "Ficci\u00f3n",
       "url": "https://open.spotify.com/track/6Vqv48LyHymrUyS2va4HWs"
+    },
+    {
+      "album": {
+        "name": "Artificial",
+        "url": "https://open.spotify.com/album/2RuOgjec3N5frlq6O5MgUI"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230718,
+      "name": "Frecuencias",
+      "url": "https://open.spotify.com/track/5tugFkaIU3eMiFyNDXpiAY"
     },
     {
       "album": {
@@ -2230,6 +2318,24 @@
       "duration_ms": 251000,
       "name": "My Love (Soul)",
       "url": "https://open.spotify.com/track/2CDGL4qBBR3E2UaFaRLCB8"
+    },
+    {
+      "album": {
+        "name": "Artificial",
+        "url": "https://open.spotify.com/album/2RuOgjec3N5frlq6O5MgUI"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229249,
+      "name": "Nada para siempre",
+      "url": "https://open.spotify.com/track/4DxAIWAKUuiGe9yEBx6TeB"
     },
     {
       "album": {

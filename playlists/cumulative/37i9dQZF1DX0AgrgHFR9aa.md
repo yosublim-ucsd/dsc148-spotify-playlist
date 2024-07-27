@@ -2,9 +2,9 @@
 
 ### [Lyricistes](https://open.spotify.com/playlist/37i9dQZF1DX0AgrgHFR9aa)
 
-> Les plus belles plumes rap français du moment\. Photo : Scylla
+> Les plus belles plumes rap français du moment\. Photo : Youssef Swatt's
 
-46 songs - 2 hr 37 min
+48 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Cohiba](https://open.spotify.com/track/7e5vYAwLS9rNuPnUHDXgSJ) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [J.000.$](https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w) | 3:12 | 2024-06-27 |  |
 | [Freestyle 5min \#13](https://open.spotify.com/track/3SCpDGmAibiM5U09lNefUJ) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Freestyle 5min \#13](https://open.spotify.com/album/5udVZsakxGZH3H2q3di9bw) | 5:42 | 2024-06-27 |  |
 | [Go 2](https://open.spotify.com/track/0Hean3R0bokh8MFJyelfUC) | [LE RISQUE](https://open.spotify.com/artist/6vYIofTPb6utQIovHOFyG3) | [Go 2](https://open.spotify.com/album/14GK1DuuNYOBJoSqNswsO0) | 2:58 | 2024-06-27 |  |
+| [Générique de Fin \- Nouvelle École](https://open.spotify.com/track/3D2wU177Hr5AXTePqaC8KQ) | [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q) | [Nouvelle École \| Saison 3 \| La Finale \(Série Netflix\)](https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F) | 3:05 | 2024-07-25 |  |
 | [Hakim](https://open.spotify.com/track/3MLrnLglYGBraOy3Dw1bc0) | [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC), [YL](https://open.spotify.com/artist/2k8fAJK9HbH1FhqVpZL98P) | [Hakim](https://open.spotify.com/album/7qDOg3miKligCldmyUtFJw) | 2:45 | 2024-06-27 |  |
 | [IN PARIS](https://open.spotify.com/track/37HqBYlKWS45fv1pyqwQNv) | [Costa](https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX) | [IN PARIS](https://open.spotify.com/album/6AwnNMyZuFGnRvfhqxCPBZ) | 1:58 | 2024-06-27 | 2024-07-12 |
 | [J'irai pas voir un psy](https://open.spotify.com/track/1W26qte2Zepm5jKbDSTSf6) | [LauCarré](https://open.spotify.com/artist/0NuAhoKXhbTZEQwKzvVYRm) | [Merci la vie pour les douleurs](https://open.spotify.com/album/7gabBywNczFVUdfQmwvBaW) | 2:57 | 2024-07-18 |  |
@@ -32,13 +33,14 @@
 | [le bus \- A COLORS SHOW](https://open.spotify.com/track/6tA6dED3veeMWrXexuWpbg) | [Wallace Cleaver](https://open.spotify.com/artist/49qUD3ZuoOWEXwLgDwa3Eg) | [le bus \- A COLORS SHOW](https://open.spotify.com/album/6saCRQX2yRSt3FwsjBuo0c) | 2:58 | 2024-06-27 |  |
 | [LE NOM DU PÈRE](https://open.spotify.com/track/4DbosJ6sBVGSjDNlUqB1se) | [Relo](https://open.spotify.com/artist/5BFtEJBJahei6oC8llF8sf), [Furax Barbarossa](https://open.spotify.com/artist/4LujPNfyrtunY5noju2iIa), [Shurik’n](https://open.spotify.com/artist/6ebsq9T5h3pAg6ejkvNICv), [Deejay Venum](https://open.spotify.com/artist/6Lcm5R00ALAwcWmvjhA71g), [Sako \(Chiens de Paille\)](https://open.spotify.com/artist/5xOnfbs4fCxdmplzc4dd9J) | [DIEU MERCI ENCORE \(Réédition\)](https://open.spotify.com/album/16Iu3mwSRNqzlZybmEcmfC) | 4:54 | 2024-06-27 |  |
 | [Le plan B](https://open.spotify.com/track/2fLtZwOTINAaYP6bJefpUX) | [ISHA](https://open.spotify.com/artist/0dSh0CIa0HPd9kJmJSmGQo), [Limsa d'Aulnay](https://open.spotify.com/artist/7l6m2BySHwnjJuw22SXwh5) | [Bitume Caviar \(Vol.1\)](https://open.spotify.com/album/3Fr9OWBaK5i1nZh0BT38jN) | 2:41 | 2024-06-27 |  |
+| [Le Plat](https://open.spotify.com/track/0ZctGizLJmhyC5Y75FTj4y) | [Costa](https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX) | [Le Plat](https://open.spotify.com/album/1ara8MlWtiMUSQDQNHPEaJ) | 2:35 | 2024-07-25 |  |
 | [Ledger \(feat\. PLK\)](https://open.spotify.com/track/01EyucDcdBiixZdeGkmXmz) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [VENI VIDI VICI](https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN) | 2:29 | 2024-06-27 |  |
 | [Les vivants qui s'enterrent](https://open.spotify.com/track/2v7ObR4MZtMiWjvGtFt8R8) | [Eesah Yasuke](https://open.spotify.com/artist/12w3AFOBfSycL4YP2nnEOC) | [PS: J'écris l'album](https://open.spotify.com/album/0obgTAkC3EABdA9KoJnZD1) | 4:19 | 2024-06-27 |  |
 | [Madame](https://open.spotify.com/track/5zxTyelb42bd7QXzJuGNp9) | [IZAID](https://open.spotify.com/artist/1uXtKoRnSL2151WEZFN9Ab) | [Madame](https://open.spotify.com/album/6qaLbepFBV2ZECcBDWBD3j) | 2:27 | 2024-06-27 |  |
-| [No Choice](https://open.spotify.com/track/7FX9fJFJL1BSgrWKZ3zrhX) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn), [Le Shoush](https://open.spotify.com/artist/3pBS7ZKUIPG82BxrOVRaFH) | [No Choice](https://open.spotify.com/album/5RHher7IXArSsZGvXHUFui) | 2:22 | 2024-06-27 |  |
+| [No Choice](https://open.spotify.com/track/7FX9fJFJL1BSgrWKZ3zrhX) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn), [Le Shoush](https://open.spotify.com/artist/3pBS7ZKUIPG82BxrOVRaFH) | [No Choice](https://open.spotify.com/album/5RHher7IXArSsZGvXHUFui) | 2:22 | 2024-06-27 | 2024-07-27 |
 | [Okocha](https://open.spotify.com/track/6iCnRrrog1pejAaIJ3rflq) | [Keroué](https://open.spotify.com/artist/5BmYHHk3xzJxkmrHVkq4y8), [JeanJass](https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo) | [Okocha](https://open.spotify.com/album/5b4oBtPVPjROqyg8RyUcTC) | 2:26 | 2024-06-27 |  |
 | [pardon](https://open.spotify.com/track/76KHkoyMPy4wBPzIPVKtqN) | [Wallace Cleaver](https://open.spotify.com/artist/49qUD3ZuoOWEXwLgDwa3Eg) | [merci](https://open.spotify.com/album/011E6jHkQZ1A9MVHtYLy3b) | 2:55 | 2024-07-11 |  |
-| [PLAYBOI CARTI](https://open.spotify.com/track/1tzaO7UkR3tk9PXJXMKTMo) | [Metah](https://open.spotify.com/artist/0Dr1nbwa1KW5wHYUCsrnAF) | [ILL'](https://open.spotify.com/album/1L1sWMW7RJLHlQiLQQqLiX) | 2:38 | 2024-07-04 |  |
+| [PLAYBOI CARTI](https://open.spotify.com/track/1tzaO7UkR3tk9PXJXMKTMo) | [Metah](https://open.spotify.com/artist/0Dr1nbwa1KW5wHYUCsrnAF) | [ILL'](https://open.spotify.com/album/1L1sWMW7RJLHlQiLQQqLiX) | 2:38 | 2024-07-04 | 2024-07-27 |
 | [Plus fort](https://open.spotify.com/track/7wLy1EDhsCY4k7rymb9L4E) | [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC) | [Plus fort que l'orage](https://open.spotify.com/album/4LdYnCjNvxtjOOuP90Vszy) | 2:30 | 2024-06-27 |  |
 | [Psychose](https://open.spotify.com/track/3g7owEXAWIoX23gOMT709Z) | [Falcko](https://open.spotify.com/artist/0U4UrgHYuU5CiuJoMZf4fl) | [BLACK CODE TOME 4](https://open.spotify.com/album/5nzw8NtPjaK2OT5df1HLji) | 2:40 | 2024-06-27 |  |
 | [Rebellion](https://open.spotify.com/track/1JtOe5JDDjASnbcNsiPlD0) | [Lesram](https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03) | [Rebellion](https://open.spotify.com/album/3mivoTyPvqrpKCcRpAYuK9) | 2:25 | 2024-06-27 |  |

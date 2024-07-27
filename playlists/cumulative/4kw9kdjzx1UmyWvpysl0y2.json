@@ -8213,6 +8213,32 @@
     },
     {
       "album": {
+        "name": "Love You for the Summer",
+        "url": "https://open.spotify.com/album/1Y0KcLD3LWkZYyvj2eTERW"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172727,
+      "name": "Love You for the Summer",
+      "url": "https://open.spotify.com/track/6DYi7HljZ64OF6beOCgSMx"
+    },
+    {
+      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/07DHgHAJ20535Or6I2vcL2"
       },
@@ -12433,6 +12459,28 @@
     },
     {
       "album": {
+        "name": "Slaughter",
+        "url": "https://open.spotify.com/album/2FwvuABjqUv9FzLkt9DhAc"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Vastive",
+          "url": "https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188667,
+      "name": "Slaughter",
+      "url": "https://open.spotify.com/track/3vQnA7IY2a12sXXJKuCZu2"
+    },
+    {
+      "album": {
         "name": "SLEEPER / SICKO",
         "url": "https://open.spotify.com/album/5ucMWsUY72QfFAHonYLrUY"
       },
@@ -14386,7 +14434,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 184874,
       "name": "Toast",
       "url": "https://open.spotify.com/track/6U47VH0lsMqB1n1nIYHc5e"
@@ -15228,7 +15276,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 172000,
       "name": "Walk Thru Fire - Sped Up",
       "url": "https://open.spotify.com/track/3lBW2k1bH1JtuS7wU7rd3x"

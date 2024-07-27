@@ -19835,6 +19835,28 @@
     },
     {
       "album": {
+        "name": "vergiss die drei",
+        "url": "https://open.spotify.com/album/02jTGbKrt4VHms8gQxb4NC"
+      },
+      "artists": [
+        {
+          "name": "lenzy",
+          "url": "https://open.spotify.com/artist/1zhcGENkWmlGu0UGcC8ESf"
+        },
+        {
+          "name": "S\u00f6ren Last",
+          "url": "https://open.spotify.com/artist/7tGTL3UqB3eC9C3oP8OR6n"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117251,
+      "name": "vergiss die drei",
+      "url": "https://open.spotify.com/track/4RFE1DlyM7KjKUUOOFWq1K"
+    },
+    {
+      "album": {
         "name": "Verliebt",
         "url": "https://open.spotify.com/album/4fYJ4EUk44iikUbQFLrFtn"
       },

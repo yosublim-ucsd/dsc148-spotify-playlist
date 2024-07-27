@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Sones Tradicionales (En Vivo)",
+        "url": "https://open.spotify.com/album/7G1v1Iad6PBNTxCV5gPLtc"
+      },
+      "artists": [
+        {
+          "name": "Banda La Maxima Escuela",
+          "url": "https://open.spotify.com/artist/1jWdAKdi41k3LswEE4zTW0"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191818,
+      "name": "11 Pueblos (Carlillos Guerrero) - En Vivo",
+      "url": "https://open.spotify.com/track/11IDEme7XMApgERLgpTxEW"
+    },
+    {
+      "album": {
         "name": "Nos Pertenecemos",
         "url": "https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4"
       },
@@ -74,6 +92,24 @@
       "duration_ms": 264693,
       "name": "Al Estilo Potos\u00ed: El Pistolero / Orde\u00f1ando la Vaca / Cuando los Frijoles Bailan",
       "url": "https://open.spotify.com/track/1nyMsdNsF6t7Ar88vnudFE"
+    },
+    {
+      "album": {
+        "name": "Puras de Viento, Vol. 1",
+        "url": "https://open.spotify.com/album/28mc6PwouKVxKjoKlsmEtm"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205080,
+      "name": "Amores de Julia",
+      "url": "https://open.spotify.com/track/05yWQdfjN7vuJOwMUhpFq9"
     },
     {
       "album": {
@@ -477,6 +513,24 @@
     },
     {
       "album": {
+        "name": "El Guateque",
+        "url": "https://open.spotify.com/album/4wcH9aFTZCj2kB7eDoXPrj"
+      },
+      "artists": [
+        {
+          "name": "La Imponente Reyna De Gto. De Lalo Tapia",
+          "url": "https://open.spotify.com/artist/6oZUmDhwfavAiG51T6jsFo"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208266,
+      "name": "El Guateque",
+      "url": "https://open.spotify.com/track/68jj5roQ7KgqCAnpWNnsEU"
+    },
+    {
+      "album": {
         "name": "Me Gustan Las Viejas Buenas",
         "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
       },
@@ -542,7 +596,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 188128,
       "name": "El Indio Enamorado",
       "url": "https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ"
@@ -614,7 +668,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 139186,
       "name": "El Mech\u00f3n",
       "url": "https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU"
@@ -794,7 +848,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 225410,
       "name": "El Pistolero Huapango",
       "url": "https://open.spotify.com/track/7xBc26YdipyJNptDXX6UMx"
@@ -1364,10 +1418,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 167290,
       "name": "El Toro Viejo",
       "url": "https://open.spotify.com/track/0Z4e9Suk4zCGGC7jgTzwyO"
+    },
+    {
+      "album": {
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172546,
+      "name": "El Toro Viejo - Huapango",
+      "url": "https://open.spotify.com/track/62zRGMj7CUz3aN1g3gSev8"
     },
     {
       "album": {
@@ -1641,6 +1713,24 @@
     },
     {
       "album": {
+        "name": "Ilusi\u00f3n 98",
+        "url": "https://open.spotify.com/album/2vsVaOp6BKaDFrHNFzWetm"
+      },
+      "artists": [
+        {
+          "name": "Banda Perla de Michoacan",
+          "url": "https://open.spotify.com/artist/3XQKGbfsPMbgMCt0OXUZVf"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Ilusi\u00f3n 98",
+      "url": "https://open.spotify.com/track/4bvfI3qmILgkvqdq7txFQl"
+    },
+    {
+      "album": {
         "name": "Desqu\u00edtate Conmigo",
         "url": "https://open.spotify.com/album/3khJ0CsPZTkhU2PidmUk6S"
       },
@@ -1746,7 +1836,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 188416,
       "name": "La Boda Del Huitlacoche - Live",
       "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
@@ -2023,6 +2113,24 @@
     },
     {
       "album": {
+        "name": "Cumbias Y Mas Con Banda",
+        "url": "https://open.spotify.com/album/3yXSUrthEmKtUmVLzK3XUz"
+      },
+      "artists": [
+        {
+          "name": "Banda Oasis De Valentin Figueroa",
+          "url": "https://open.spotify.com/artist/7LVm1TssFoEt9JsZvzIw66"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165693,
+      "name": "La Ni\u00f1a Esta Triste",
+      "url": "https://open.spotify.com/track/4qeh6TQfgk8hNHupcMbj88"
+    },
+    {
+      "album": {
         "name": "Tu Regalo",
         "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
       },
@@ -2250,7 +2358,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 241946,
       "name": "Las Huiliotas",
       "url": "https://open.spotify.com/track/7x1cdHnfOZDuk6zX2EKeNI"
@@ -2398,7 +2506,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 228502,
       "name": "Los Viejitos",
       "url": "https://open.spotify.com/track/6ud1Szdym1QRhURpEyr55A"
@@ -3125,6 +3233,24 @@
     },
     {
       "album": {
+        "name": "\u00a1\u00a1La Explosiva!!",
+        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
+          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152373,
+      "name": "Rumbo a la Ca\u00f1ada",
+      "url": "https://open.spotify.com/track/3EhVdAJv8cqxNdL2Aj1NfY"
+    },
+    {
+      "album": {
         "name": "Gold Collection, Vol.1",
         "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
       },
@@ -3233,6 +3359,24 @@
     },
     {
       "album": {
+        "name": "En Vivo Desde Las Oficinas De Servando ZL",
+        "url": "https://open.spotify.com/album/1x3Rnefyf8elog8pzXD5oj"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206355,
+      "name": "Tecateando",
+      "url": "https://open.spotify.com/track/18bYX98bh62UFEnjqDXm0p"
+    },
+    {
+      "album": {
         "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
         "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
       },
@@ -3334,7 +3478,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-27",
       "duration_ms": 233328,
       "name": "Zapateado Antrax",
       "url": "https://open.spotify.com/track/77zYPBbOkRHktf7Ahnmjsx"

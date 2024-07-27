@@ -2,9 +2,9 @@
 
 ### [Our Generation](https://open.spotify.com/playlist/37i9dQZF1DX2Z1pVUBGGZs)
 
-> a playlist without boundaries, featuring lava la rue ☁️ art: @doolittleillustrations
+> a playlist without boundaries, featuring yaelokre ☁️ art: @doolittleillustrations
 
-111 songs - 5 hr 29 min
+117 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [boys, bugs and men](https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [boys, bugs and men](https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ) | 3:06 | 2024-06-27 |  |
 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 | 2024-07-18 |  |
 | [Bring Back The Beat](https://open.spotify.com/track/10HGnM2Bo6BGYAlcrC6N5O) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Bring Back The Beat](https://open.spotify.com/album/71qCLGh8kLzsm8PrRok8gx) | 3:13 | 2024-06-27 |  |
+| [California Sober](https://open.spotify.com/track/0XyFRZsZj4VvcUknNAzrpY) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [California Sober](https://open.spotify.com/album/3KynhVtvF4X6uCVavqJaLm) | 2:42 | 2024-07-25 |  |
 | [call it what it is](https://open.spotify.com/track/7m97gLg8u2gV0E8sYGh1le) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [how we lose](https://open.spotify.com/album/2YPUiHRDd7c7RKFfvWmneg) | 2:23 | 2024-07-18 |  |
 | [Came Thru](https://open.spotify.com/track/74XVOhXsPxH3h2WfzowVHZ) | [Downtown Kayoto](https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR) | [Came Thru](https://open.spotify.com/album/13AAQF1ds0legttoSUV573) | 2:37 | 2024-06-27 | 2024-07-19 |
 | [Can’t Walk Away](https://open.spotify.com/track/71SJspddigbl3qqVoMcRfJ) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ) | [Can’t Walk Away](https://open.spotify.com/album/7z4kMicNtUOGHDbj6ygnSn) | 2:51 | 2024-07-18 |  |
@@ -41,7 +42,8 @@
 | [Dumb Bitch Juice](https://open.spotify.com/track/3GREjwadOvBZW448ULa6TC) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:31 | 2024-06-27 | 2024-07-19 |
 | [Ever Seen](https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ever Seen](https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d) | 3:23 | 2024-07-04 |  |
 | [everything stays](https://open.spotify.com/track/1fPy2hmFADw9hcWHH0y2Dx) | [peace](https://open.spotify.com/artist/5o4nlnlzin0Cc1GIRovq1Q) | [everything stays](https://open.spotify.com/album/1ugdTglwUHj8g8cdxJGlHE) | 2:03 | 2024-07-11 |  |
-| [Feet On The Ceiling](https://open.spotify.com/track/242rm4cMmaaPkxe2f1y5Re) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [Feet On The Ceiling](https://open.spotify.com/album/1EjnS1tbiIOalEtxI5IWaN) | 3:24 | 2024-06-27 |  |
+| [everything still worries me](https://open.spotify.com/track/18A3W7O8jAAKiX0WjMGo8o) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn) | [everything still worries me](https://open.spotify.com/album/5R21eLMhLssDHKCeQ8v4Fc) | 2:42 | 2024-07-25 |  |
+| [Feet On The Ceiling](https://open.spotify.com/track/242rm4cMmaaPkxe2f1y5Re) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [Feet On The Ceiling](https://open.spotify.com/album/1EjnS1tbiIOalEtxI5IWaN) | 3:24 | 2024-06-27 | 2024-07-27 |
 | [float right back to you](https://open.spotify.com/track/1CMkuKMj9LRcE0gat1WR32) | [daisy veacock](https://open.spotify.com/artist/3PCWmgzCD4eAIiVGMjBL1M) | [float right back to you](https://open.spotify.com/album/6Jizcjch9SptuogReIJqrB) | 3:04 | 2024-06-27 |  |
 | [flower in the garden](https://open.spotify.com/track/7kkAVEF8aavSigJxOqfzEc) | [frances mistry](https://open.spotify.com/artist/3TRbyotWz0d84ZS6LaaZpG) | [messages](https://open.spotify.com/album/15jKATHdfpOdhIxNqfWk0H) | 3:26 | 2024-06-27 |  |
 | [girls just wanna have fun](https://open.spotify.com/track/2E6akA4GVkpu5jDDzbYH7d) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [girls just wanna have fun](https://open.spotify.com/album/4ggpeldcot5lj39pHKZUrh) | 2:31 | 2024-07-11 |  |
@@ -49,6 +51,7 @@
 | [Gramophone](https://open.spotify.com/track/1EX0kGH4YlKWE7gkLEf8vN) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Gramophone](https://open.spotify.com/album/5i7oTarvOSWgrOXtx6jtHF) | 3:22 | 2024-06-27 |  |
 | [Guitar Song](https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8) | 3:57 | 2024-07-18 |  |
 | [Handgun Wisdom](https://open.spotify.com/track/2V6HAmOxtrThIFckkjq6hE) | [sandy crow](https://open.spotify.com/artist/7Fp843hrgOioL7DBA4PBlC) | [Handgun Wisdom](https://open.spotify.com/album/7L2nX8KDfUbw5qgMu8BPs6) | 2:36 | 2024-06-27 | 2024-07-19 |
+| [Harpy Hare](https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz) | 3:00 | 2024-07-25 |  |
 | [HEADSPIN](https://open.spotify.com/track/6Q9IDjXL9XRy7TXY1oTjHF) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [HEADSPIN](https://open.spotify.com/album/1krFoJHctP53pAzsytTnky) | 2:52 | 2024-07-11 |  |
 | [Hello Lonely](https://open.spotify.com/track/0qVkhLbM5Y3ef73wirigiQ) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Hello Lonely](https://open.spotify.com/album/4LG7UeHRKbdRoth0my9vbr) | 3:31 | 2024-06-27 | 2024-07-05 |
 | [Hold On](https://open.spotify.com/track/5HEx0ZwJEmZhvjlrMYnSuf) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [Hold On](https://open.spotify.com/album/7d9whArUbh3cK93jfmS3Ui) | 2:18 | 2024-06-27 | 2024-07-19 |
@@ -72,6 +75,7 @@
 | [Lungs](https://open.spotify.com/track/2GZfOep6Qzwlzdw5yOoSMA) | [Siobhán Winifred](https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x) | [Lungs](https://open.spotify.com/album/3b5aMQuNlkUihH61tWfafr) | 3:40 | 2024-06-27 |  |
 | [luv stuck](https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [luv stuck](https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5) | 2:40 | 2024-06-27 |  |
 | [L’AMOUR DE MA VIE \[OVER NOW EXTENDED EDIT\]](https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [L’AMOUR DE MA VIE \[OVER NOW EXTENDED EDIT\]](https://open.spotify.com/album/4YCeHlXgJTKlzuwHmvZZo8) | 4:31 | 2024-06-27 | 2024-07-12 |
+| [Meet Cute](https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Meet Cute](https://open.spotify.com/album/2BizN0b47TcJRtV3HDbxxp) | 2:46 | 2024-07-25 |  |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-06-27 |  |
 | [Million Dollar Baby \- Edit](https://open.spotify.com/track/60WfLXMbWwrcTePgZpNJuP) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Million Dollar Baby](https://open.spotify.com/album/1KMsICBCmERIbb4GAc5X7C) | 3:00 | 2024-06-27 |  |
 | [miss american dream](https://open.spotify.com/track/36INfE0gV6do8vfa7QHoki) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn), [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [miss american dream](https://open.spotify.com/album/2gsa6Xm1r2hbXkeH9FVvsW) | 3:16 | 2024-06-27 |  |
@@ -87,6 +91,7 @@
 | [pretty](https://open.spotify.com/track/7o6G7qNzrsnW0cpTjZ1erz) | [Michael Aldag](https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ) | [pretty](https://open.spotify.com/album/2kWk6J6FUStP7K4urQ266l) | 3:00 | 2024-06-27 | 2024-07-12 |
 | [Price On Fun](https://open.spotify.com/track/3RVdfN1q7TMQKywRmtfhdD) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [You Can't Put A Price On Fun](https://open.spotify.com/album/3ypNothOPxns9O8DIJubYb) | 3:20 | 2024-06-27 |  |
 | [Push N Shuv](https://open.spotify.com/track/08KP4FEV1JZUQu8ZL2Uru9) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Push N Shuv](https://open.spotify.com/album/4NqFASjab96Rtmtu2vCcRR) | 3:31 | 2024-06-27 | 2024-07-05 |
+| [Quiet & Perfect](https://open.spotify.com/track/4CL65tRNZjpBwcXjSOVuAR) | [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec) | [Quiet & Perfect](https://open.spotify.com/album/2lACASAcN0qTsGT9yc9Mbn) | 3:38 | 2024-07-25 |  |
 | [Riots](https://open.spotify.com/track/4KQmxxzUgo1zBQwBM6jPtU) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Riots](https://open.spotify.com/album/1N2bmwYs5cQlI0BdcmKs8d) | 2:45 | 2024-06-27 |  |
 | [Robot Lovers](https://open.spotify.com/track/6UWwYDs100VkZly8XWzg4e) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Robot Lovers](https://open.spotify.com/album/0y4HNgrnrtIeD9givcomUT) | 2:34 | 2024-06-27 |  |
 | [Sage](https://open.spotify.com/track/6So2kOCuIGv8gYgOPLHapp) | [Ari Morgan](https://open.spotify.com/artist/1EeyV1OJruocrWkphr12mX) | [Sage](https://open.spotify.com/album/5Vyej2QgmMLO0NPyQ6kkPB) | 2:40 | 2024-07-04 |  |
@@ -99,6 +104,7 @@
 | [Socks](https://open.spotify.com/track/69FRVk4lu4N60KiVvtTBb1) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Socks](https://open.spotify.com/album/08QYFEvpcrYZLSTn5yZqEr) | 3:45 | 2024-06-27 |  |
 | [Soup](https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:33 | 2024-07-11 |  |
 | [Stay The Night](https://open.spotify.com/track/2bCwtAHXCSI09SgdIsg72Z) | [Trooh Hippi](https://open.spotify.com/artist/62XEUcqnIRwA2y2PeRLRMC) | [Stay The Night](https://open.spotify.com/album/6Ufb4MG2qmJRMTzqOGYDLA) | 3:09 | 2024-06-27 |  |
+| [Strawberry Milkshake](https://open.spotify.com/track/3uRc7RFR66inRX92K0cVYR) | [Charlie Bennett](https://open.spotify.com/artist/0tvXkCpAjbDBWXXnYBE9wG) | [Strawberry Milkshake](https://open.spotify.com/album/7tCPyppaufymUBNnPePsX7) | 3:00 | 2024-07-25 |  |
 | [Sugarcoated](https://open.spotify.com/track/3EdGkRv8PkxVAoqkFcJR9L) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Sugarcoated](https://open.spotify.com/album/4dv356EKWiXo9Z9HZ1BPGa) | 4:11 | 2024-06-27 |  |
 | [suitcase of memories](https://open.spotify.com/track/3CJchrGGPRV0U4GO87lpLy) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [with love\. x](https://open.spotify.com/album/4YHQJ6xn5SmN5N8esu03ve) | 3:47 | 2024-06-27 | 2024-07-12 |
 | [SUNBURN](https://open.spotify.com/track/5gH7QdBAj1HocANgmLwGXD) | [charlieeeee](https://open.spotify.com/artist/06a7x2F8Yi3TARax1iFKIp) | [SUNBURN](https://open.spotify.com/album/4GJ4LRrT2W9JAvmTwpVMQ5) | 2:40 | 2024-06-27 |  |
