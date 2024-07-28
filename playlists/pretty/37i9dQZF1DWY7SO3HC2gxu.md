@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa\. Cover: Munyasya
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,962 likes - 80 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,964 likes - 80 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

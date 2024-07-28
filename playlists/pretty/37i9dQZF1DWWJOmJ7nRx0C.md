@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The rock songs you need to know\. Turn it  ⬆️ Cover: <b>Jane's Addiction</b>
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,685 likes - 76 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,669 likes - 76 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

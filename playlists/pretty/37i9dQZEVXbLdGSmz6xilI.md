@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLdGSmz6xilI.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,342 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,344 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLdGSmz6xilI.md) - [plain]
 | 49 | [một đời](https://open.spotify.com/track/4gaxEUZE4z9pJAVTSFwgQI) | [14 Casper](https://open.spotify.com/artist/0zo8kCJVktn7oPnzpkbC2p), [Bon Nghiêm](https://open.spotify.com/artist/6hnfLIkvDl6pjlAe1YRGXY), [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [SỐ KHÔNG](https://open.spotify.com/album/2W8HAPjn7tl7pHXGZ8WZIe) | 5:28 |
 | 50 | [Chịu Cách Mình Nói Thua](https://open.spotify.com/track/3ZbZtdEw9U0uZW4tZItIwq) | [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi), [BAN](https://open.spotify.com/artist/0CO1IZAPmgTbkfXvcRCLsL) | [Chịu Cách Mình Nói Thua](https://open.spotify.com/album/6H01GjpEb6taXvwiqEzpFy) | 3:01 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

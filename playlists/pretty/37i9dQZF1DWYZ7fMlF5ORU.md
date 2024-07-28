@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: ONE Service
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,935 likes - 80 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,964 likes - 80 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 61 | [Vamos Celebrar](https://open.spotify.com/track/1b0gwe6jaJIK2LttdpkKRP) | [Riverson Vianna](https://open.spotify.com/artist/4DYzAMk5cxRH2EkavJqDhN) | [Vamos Celebrar](https://open.spotify.com/album/6ca7FcSsyiYN9No32sCykn) | 3:52 |
 | 62 | [Rei das nações](https://open.spotify.com/track/7e9Tk2WfDMC7CULNVHY4p9) | [Luiz Arcanjo](https://open.spotify.com/artist/3jhaArlXRtYY9R7GJrvcZ2) | [Rei das nações](https://open.spotify.com/album/2eaDXLSrL8Ax7EX7Rl4ZYW) | 3:41 |
 | 63 | [Tamo Junto](https://open.spotify.com/track/3ZVOLNMuY3zqLl9lyU4VtD) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Silas Simões](https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r), [Lorena Fadi](https://open.spotify.com/artist/22ar4P0skJmstiB0GPJ3TT), [Luã Freitas](https://open.spotify.com/artist/4UMGppJsc6C4FcmmSle7hY) | [Tamo Junto](https://open.spotify.com/album/7vUi0Zwz0xQrQbFqPgitp6) | 3:15 |
-| 64 | [Deus da Minha Vida](https://open.spotify.com/track/3wREyThOGCkIVTHONQbuN6) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Saudade, Vol\. 2](https://open.spotify.com/album/5Z3MFXm0HUTM2z3NSzVnxd) | 4:45 |
+| 64 | [Antes & Depois](https://open.spotify.com/track/4XqS5NqhbjLWR0shzrB2la) | [Robson Nascimento](https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd) | [Tome a Decisão](https://open.spotify.com/album/0l6x075Ird90ooE1sKdnhR) | 5:10 |
 | 65 | [Permanecer](https://open.spotify.com/track/4nBhXPQZP4YurzudIPHR9X) | [Jefte Santos](https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV) | [Ele Continua Sendo Deus](https://open.spotify.com/album/3FaxCHA7axuqcMmp8lun13) | 2:46 |
-| 66 | [Antes & Depois](https://open.spotify.com/track/4XqS5NqhbjLWR0shzrB2la) | [Robson Nascimento](https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd) | [Tome a Decisão](https://open.spotify.com/album/0l6x075Ird90ooE1sKdnhR) | 5:10 |
+| 66 | [Deus da Minha Vida](https://open.spotify.com/track/3wREyThOGCkIVTHONQbuN6) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Saudade, Vol\. 2](https://open.spotify.com/album/5Z3MFXm0HUTM2z3NSzVnxd) | 4:45 |
 | 67 | [Cante Louvor: Legado 40 Conexões](https://open.spotify.com/track/20AXPJat3twULL83NSgkzF) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Cante Louvor: Legado 40 Conexões](https://open.spotify.com/album/5Tamfr1lUKWHe4LlbIKtSW) | 4:07 |
 | 68 | [Tô Com Você](https://open.spotify.com/track/1xjgtHs2TqhHdunl9AZube) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Avante](https://open.spotify.com/album/6Kx7Fuhm4oWY8AuDqUfQPI) | 3:48 |
 | 69 | [Instrumento Teu](https://open.spotify.com/track/1VakySJFPUTEd5UFp5omL5) | [Música Legionária](https://open.spotify.com/artist/1K8m2SYdmpAHFe54dt5nZB), [Aléxia França](https://open.spotify.com/artist/4Mf8eq3vKfsKTNANngaZIT), [Carlos Eduardo](https://open.spotify.com/artist/7KuXPiV6eFvXjyseedTPxp) | [Espetáculo Música Legionária: Os Mortos Não Morrem!](https://open.spotify.com/album/1LzN90fTqsivC9jEZlXPde) | 4:38 |

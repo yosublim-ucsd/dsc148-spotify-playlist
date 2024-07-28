@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,802 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,837 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 | 96 | [Bluchanga](https://open.spotify.com/track/1zxMcomnqXDoPipY4ACR8t) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Bluchanga](https://open.spotify.com/album/4UxbD3B7SIIBphqtKpdTKU) | 4:26 |
 | 97 | [Vaidoso](https://open.spotify.com/track/5k2NFQf8v2foh5Kwkk7zVg) | [Ramiro Pinheiro](https://open.spotify.com/artist/3OXQ3e6cnm6HYisXCRpPRV), [Alvar Monfort](https://open.spotify.com/artist/5tgFZn6lbPjBQ2lWuiuRxm) | [Vaidoso](https://open.spotify.com/album/2YnXefeX040GxF3fE7Y8Ly) | 3:00 |
 | 98 | [Um Caso Perdido](https://open.spotify.com/track/5IAoNNSqOtbApvFarcAXSq) | [Zé Renato](https://open.spotify.com/artist/4qKsdS2IGIfnj00bQRP2mL) | [O Amor é um Segredo \- Zé Renato Canta Paulinho da Viola](https://open.spotify.com/album/0jdtilr4ow2LiQXW0A6ecm) | 2:52 |
-| 99 | [Outra Vez](https://open.spotify.com/track/0TUGYKNM0EJCkCHKDbVmYO) | [João Donato E Seu Trio](https://open.spotify.com/artist/1DtoQP5DtMJy9OlzQoyegD) | [A Bossa Muito Moderna De Donato E Seu Trio](https://open.spotify.com/album/0SgDWR5LcEig2Px0XZnmhZ) | 3:19 |
-| 100 | [O Morro Nao Tem Vez](https://open.spotify.com/track/57U0iv9L9gG6fqXXIle1GB) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Antonio Carlos Jobim](https://open.spotify.com/album/1cnvL1UIhCM0OQODOGJYyT) | 3:19 |
+| 99 | [O Morro Nao Tem Vez](https://open.spotify.com/track/57U0iv9L9gG6fqXXIle1GB) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Antonio Carlos Jobim](https://open.spotify.com/album/1cnvL1UIhCM0OQODOGJYyT) | 3:19 |
+| 100 | [Outra Vez](https://open.spotify.com/track/0TUGYKNM0EJCkCHKDbVmYO) | [João Donato E Seu Trio](https://open.spotify.com/artist/1DtoQP5DtMJy9OlzQoyegD) | [A Bossa Muito Moderna De Donato E Seu Trio](https://open.spotify.com/album/0SgDWR5LcEig2Px0XZnmhZ) | 3:19 |
 
 Snapshot ID: `ZqO6fAAAAACohzN5ZwZ6xNRNfleh1vzl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: Thee Marloes
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,555 likes - 104 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,612 likes - 104 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

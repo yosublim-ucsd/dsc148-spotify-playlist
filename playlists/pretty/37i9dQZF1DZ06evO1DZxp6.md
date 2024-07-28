@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 
 ### [This Is Julieta Venegas](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DZxp6)
 
-> This is Julieta Venegas\. The essential tracks, all in one playlist.
+> This Is Julieta Venegas\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,502 likes - 52 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,524 likes - 52 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 | 51 | [Dame Una Oportunidad](https://open.spotify.com/track/3TedsdGhsTOv7afpvNapKc) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Dame Una Oportunidad](https://open.spotify.com/album/6QllYuDuxeQNLGTfEOK3vO) | 3:18 |
 | 52 | [Te solté la rienda](https://open.spotify.com/track/28NllT6A5uDaJYJ4HdyFPX) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Te solté la rienda](https://open.spotify.com/album/1ouxWZyFzEFxtBPOGOmKzp) | 3:27 |
 
-Snapshot ID: `ZqLnAAAAAAAF3oeZx7C+MOrRdsTaKC8f`
+Snapshot ID: `ZqLnAAAAAABqXe1aIpgOwwxkTZomvT0N`

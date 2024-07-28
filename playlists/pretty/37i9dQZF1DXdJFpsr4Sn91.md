@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa Coldplay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,952 likes - 89 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,951 likes - 89 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

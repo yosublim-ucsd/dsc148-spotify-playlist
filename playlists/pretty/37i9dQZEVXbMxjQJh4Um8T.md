@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMxjQJh4Um8T.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Andorra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,680 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,679 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMxjQJh4Um8T.md) - [plain]
 | 49 | [El Patio](https://open.spotify.com/track/0PtLrH95CQ2lKf6pym5LmA) | [Pepe y Vizio](https://open.spotify.com/artist/4rvJ0Ktz2X2Erea9XUHxfu), [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz) | [El Patio](https://open.spotify.com/album/2H1GZRUTnZKiVYm7BQzw4h) | 3:52 |
 | 50 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

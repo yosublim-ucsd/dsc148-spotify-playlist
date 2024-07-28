@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: july\-aug 2024 \(previous playlists archived on my profile\)
 
-236 songs - 12 hr 17 min
+238 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Franz Kafka at the Zoo](https://open.spotify.com/track/6lapVjn3EjBGS5m2r17h0x) | [The Clean](https://open.spotify.com/artist/6LRmgzRManplPQghd2BMqz) | [Unknown Country](https://open.spotify.com/album/258ADCcHaA6gRgiM5JrbU2) | 1:58 | 2024-01-08 | 2024-03-10 |
 | [Game Over](https://open.spotify.com/track/36U34yPBv5hSEjjAZJd3Uk) | [Antelope](https://open.spotify.com/artist/4lSlPRplvabiorNKIn3NNR) | [Antelope](https://open.spotify.com/album/76dEh2y2iJlA7rrXR1bdzm) | 2:47 | 2024-07-12 |  |
 | [Gates of Heaven](https://open.spotify.com/track/21S8jPbABB05vCFFwuyXGS) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Gates of Heaven / Snake Eyes \(again\)](https://open.spotify.com/album/6Ek7TQ6Halv6mbhuzRuvcZ) | 2:22 | 2024-03-11 | 2024-05-16 |
+| [Gem Lingo \(ovr now\)](https://open.spotify.com/track/6dSqM0tWJPlchpmGrEwC1c) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Gem Lingo \(ovr now\)](https://open.spotify.com/album/3r4QpzGNuewu0vLvapRZS7) | 3:50 | 2024-07-27 |  |
 | [Gift](https://open.spotify.com/track/7FgePu0nqCf8rkafQOeHV7) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Solo](https://open.spotify.com/album/72GG3m2QVQ4pQ5Ipi07oO4) | 5:01 | 2024-02-02 | 2024-03-10 |
 | [Giftbearer](https://open.spotify.com/track/0klcGedsbrNB2hx6YN8pJJ) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [In The Falling Dark](https://open.spotify.com/album/60VKXUmkuvPBIbahpkgqMD) | 4:41 | 2024-01-09 | 2024-03-10 |
 | [girl in my dreams \(midwest accordion emo\)](https://open.spotify.com/track/2nH5JLiJhlmX9eQTWQ4MsP) | [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK) | [Wonderful now](https://open.spotify.com/album/5JbVN9ZS9AV6EG6m9Pc7PF) | 1:46 | 2024-05-28 | 2024-07-12 |
@@ -211,6 +212,7 @@
 | [Tbtf](https://open.spotify.com/track/7Dha5Jw4EVQbFHe58pJ5AU) | [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Spirit If...](https://open.spotify.com/album/0MtuWHjHXAEwWimsMuEtZf) | 3:51 | 2024-06-17 | 2024-07-12 |
 | [Tea Or Coffee](https://open.spotify.com/track/4ZISwlHvOnn5zg9kHZmM7o) | [Gaze](https://open.spotify.com/artist/7nRXUCPuFbA0y7dGZ06Jlq) | [Shake the Pounce](https://open.spotify.com/album/3eMTYeAfSefi2vy5TTbB4Q) | 2:11 | 2024-05-29 | 2024-06-06 |
 | [The Beat Of Black Wings](https://open.spotify.com/track/2DyQKUqKUpOFV3Fs3ijW9Q) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chalk Mark In A Rain Storm](https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J) | 5:24 | 2024-03-25 | 2024-04-25 |
+| [The Beauty of the Duty](https://open.spotify.com/track/0G7ee8kSG4zjvxLF0BF6eU) | [Molly Nilsson](https://open.spotify.com/artist/2PDepyCtfybWn5UJv0DmKw) | [Un\-American Activities](https://open.spotify.com/album/6BWJZfps9TMudDT2CL0UhI) | 2:40 | 2024-07-27 |  |
 | [The Duke Of Burgundy](https://open.spotify.com/track/5FCJpFKaJrPrXy8YyK9vBG) | [Cat's Eyes](https://open.spotify.com/artist/6DdzNsmghFtH7toJKhQfF6) | [The Duke Of Burgundy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L2QXOFpMeZaU2xxJXZPur) | 2:18 | 2024-05-16 | 2024-07-12 |
 | [The Farmer](https://open.spotify.com/track/540dXWvRAQjXmg4gvhjxET) | [The Good Ones](https://open.spotify.com/artist/7rIF4gQrWPRDL020SG2eKD) | [RWANDA, you should be loved](https://open.spotify.com/album/35TaKsgwSCeVEH7Zq8fsfG) | 2:43 | 2024-02-27 | 2024-03-10 |
 | [The Fashion Focus](https://open.spotify.com/track/26Aw0QpMFdxghsuyRsPwGA) | [Starflyer 59](https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED) | [The Fashion Focus](https://open.spotify.com/album/76Rz3IYqdw3QXTagF14gB6) | 3:16 | 2024-06-03 | 2024-07-12 |

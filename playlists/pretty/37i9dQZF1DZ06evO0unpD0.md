@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 
 ### [This Is Salif Keita](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0unpD0)
 
-> This is Salif Keita\. The essential tracks, all in one playlist.
+> This Is Salif Keita\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,668 likes - 50 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,669 likes - 50 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 | 49 | [Sina \(Soumbouya\)](https://open.spotify.com/track/1IStLKRx3MsSSzngw6SwkE) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Soro](https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG) | 4:49 |
 | 50 | [Masibambaneni](https://open.spotify.com/track/1pX94ATR4DVBR9viWZAaTP) | [Simphiwe Dana](https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Bamako](https://open.spotify.com/album/5h1nuuzwo2Usr6BTF5HMdw) | 5:06 |
 
-Snapshot ID: `ZqLnAAAAAACfLTTe3eLZiEvdLS5VUopi`
+Snapshot ID: `ZqLnAAAAAACDgEu18Nw4474r3TYZxAvk`

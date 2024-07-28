@@ -1,6 +1,6 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 224476,
+  "num_followers": 224493,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
@@ -1159,18 +1159,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "THE QUANTA SERIES",
-        "url": "https://open.spotify.com/album/1d4ayy5klByiNOJpTShQ29"
+        "name": "Signal Remixes",
+        "url": "https://open.spotify.com/album/5Plx7Zi9lHnIDUq9HwkaeQ"
       },
       "artists": [
         {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+          "name": "Automatic",
+          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
+        },
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
         }
       ],
-      "duration_ms": 389266,
-      "name": "EVER",
-      "url": "https://open.spotify.com/track/0DDzLY6OicdAntH1IRAlMm"
+      "duration_ms": 218000,
+      "name": "Signal (Maral Remix)",
+      "url": "https://open.spotify.com/track/0hRjNutbJnMSjsSzP6XwyD"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1207,38 +1211,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Signal Remixes",
-        "url": "https://open.spotify.com/album/5Plx7Zi9lHnIDUq9HwkaeQ"
+        "name": "THE QUANTA SERIES",
+        "url": "https://open.spotify.com/album/1d4ayy5klByiNOJpTShQ29"
       },
       "artists": [
         {
-          "name": "Automatic",
-          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
-        },
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Signal (Maral Remix)",
-      "url": "https://open.spotify.com/track/0hRjNutbJnMSjsSzP6XwyD"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "An Ocean",
-        "url": "https://open.spotify.com/album/1FEfRYCD9GvAeYUBG3ysIU"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Chua",
-          "url": "https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ"
-        }
-      ],
-      "duration_ms": 259648,
-      "name": "An Ocean",
-      "url": "https://open.spotify.com/track/6G6W3MWjKYMNpKo88KIsgf"
+      "duration_ms": 389266,
+      "name": "EVER",
+      "url": "https://open.spotify.com/track/0DDzLY6OicdAntH1IRAlMm"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1271,6 +1255,22 @@
       "duration_ms": 275906,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/36RLgJZrpFOaUe5QH8nuys"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "An Ocean",
+        "url": "https://open.spotify.com/album/1FEfRYCD9GvAeYUBG3ysIU"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Chua",
+          "url": "https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ"
+        }
+      ],
+      "duration_ms": 259648,
+      "name": "An Ocean",
+      "url": "https://open.spotify.com/track/6G6W3MWjKYMNpKo88KIsgf"
     }
   ],
   "unique_name": "Terra Incognita",

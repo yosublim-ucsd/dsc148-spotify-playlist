@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJiZcmkrIHGU.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Germany.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,131,699 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,131,720 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJiZcmkrIHGU.md) - [plain]
 | 49 | [Abenteuerland](https://open.spotify.com/track/189vFQyTAhpSCsI07yjQVq) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG), [Phil The Beat](https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9) | [Abenteuerland](https://open.spotify.com/album/3quzSBWWSsSon0G4MZE29v) | 2:59 |
 | 50 | [Wenn du mich kennst](https://open.spotify.com/track/7wz5d9hBn3oaJJXb6YdhbS) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Wenn du mich kennst](https://open.spotify.com/album/7pMfFFZsLEJeYIfKzkBnF9) | 2:36 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

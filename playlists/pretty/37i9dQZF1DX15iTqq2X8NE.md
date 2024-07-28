@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 
 > A journey in the modern & old Sudanese sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,427 likes - 120 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,426 likes - 120 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 66 | [Mashy](https://open.spotify.com/track/5apy8FTSLpwUU06Dbrsp6T) | [Adiga Music Band](https://open.spotify.com/artist/5U7XnFuuPanGY0TnJfqtlK) | [Hegira](https://open.spotify.com/album/7LPjjzAikDcyN8IDa7W0px) | 3:47 |
 | 67 | [Manaok \(Forbidden\)](https://open.spotify.com/track/10LEmxW2mReKO9krEEROLa) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 6:15 |
 | 68 | [ARMANI](https://open.spotify.com/track/1VKywc57uO6UZVXxpQWkkN) | [PAPII](https://open.spotify.com/artist/2LGrYR15SmiRsIGQlEnRQs) | [ARMANI](https://open.spotify.com/album/4FXXZelcECRt63G4Yq3Nc1) | 3:24 |
-| 69 | [Soudani Manayou \- Cervo Edit](https://open.spotify.com/track/6lJJHmqZGULV0H34Dyw1kF) | [Majid Bekkas](https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C), [Cervo](https://open.spotify.com/artist/4U5yFCOe1UuvE72efEJAlX) | [Soudani Manayou](https://open.spotify.com/album/2iPwYRSgVpjaqL7fPW2wRR) | 8:05 |
-| 70 | [Farasha فراشة](https://open.spotify.com/track/4F731VYNl7sOZ3dwdZZsTV) | [Alsarah](https://open.spotify.com/artist/44xvhsoOZU4Tmr5maR79mS), [Sufyvn](https://open.spotify.com/artist/5uO9QrR5mvPdJ7uPIESbr6), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Farasha فراشة](https://open.spotify.com/album/2SgBBbEiX68bS67DbqFJZG) | 3:52 |
+| 69 | [Farasha فراشة](https://open.spotify.com/track/4F731VYNl7sOZ3dwdZZsTV) | [Alsarah](https://open.spotify.com/artist/44xvhsoOZU4Tmr5maR79mS), [Sufyvn](https://open.spotify.com/artist/5uO9QrR5mvPdJ7uPIESbr6), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Farasha فراشة](https://open.spotify.com/album/2SgBBbEiX68bS67DbqFJZG) | 3:52 |
+| 70 | [Soudani Manayou \- Cervo Edit](https://open.spotify.com/track/6lJJHmqZGULV0H34Dyw1kF) | [Majid Bekkas](https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C), [Cervo](https://open.spotify.com/artist/4U5yFCOe1UuvE72efEJAlX) | [Soudani Manayou](https://open.spotify.com/album/2iPwYRSgVpjaqL7fPW2wRR) | 8:05 |
 | 71 | [Stay Alive](https://open.spotify.com/track/23RTebU5woj5YZgKi9xuZm) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Stay Alive](https://open.spotify.com/album/6BcaOyEe7OjryQ8EP3HUfF) | 3:01 |
 | 72 | [Tmsa7](https://open.spotify.com/track/1FC0frU9acXOQvkJRGeAD2) | [Fodi](https://open.spotify.com/artist/4fhdYn7sQME3sJkPuCpYZE) | [Tmsa7](https://open.spotify.com/album/0H3iSplT0QyZQxoJ3v9NI8) | 2:08 |
 | 73 | [Agabony](https://open.spotify.com/track/00EfH4456NhY3RIMpBH3yP) | [Sharief Elfehail](https://open.spotify.com/artist/4bBWBw0jxg6rlIx4GpTuLC) | [Agabony](https://open.spotify.com/album/0y8Z1R9rnVv5a87fx7scp0) | 4:34 |
@@ -100,9 +100,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 90 | [Superman](https://open.spotify.com/track/4z4NyCBMVY1OO3xl7pkOrA) | [Jindi](https://open.spotify.com/artist/4GWb4m8ZhkRkaJvpFD9agr) | [Superman](https://open.spotify.com/album/3y1k1HcvKNQ1PfGasSCLLn) | 2:58 |
 | 91 | [الحزن النبيل](https://open.spotify.com/track/4Mqiut95E3p232OapUrZ9I) | [Mostafa Sid Ahmed](https://open.spotify.com/artist/4Uh5nF1SKIp4no3YzmZyDO) | [الحزن النبيل](https://open.spotify.com/album/4VHzt5ldOK5UU3QAde1gOj) | 11:28 |
 | 92 | [Asly](https://open.spotify.com/track/6yd4XAjTaBDb3mXWT0AI4j) | [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd), [Eaz Da Bully](https://open.spotify.com/artist/2lGPSSDGEuGfpakifE8kbp) | [Asly](https://open.spotify.com/album/7wLNRBJA0Y1AkV48IKv3Hx) | 3:24 |
-| 93 | [Sudan](https://open.spotify.com/track/7M7e7aCLu2dhbMzEHL1aVO) | [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30), [Aidyproof](https://open.spotify.com/artist/7uzLUplPMKoZZ8ZC5XoeIN) | [Sudan](https://open.spotify.com/album/2qCIMTuoQUvvLHss2eZxUj) | 2:58 |
-| 94 | [Pablo](https://open.spotify.com/track/4YX2GxGnSl5om1hp7JxwH4) | [Bbnbooda](https://open.spotify.com/artist/7qSpIerjnYf4qu9ShXRPlV) | [Pablo](https://open.spotify.com/album/7yvCJaFB6MLnXbbZvbVk4R) | 2:13 |
-| 95 | [Argos Farfish](https://open.spotify.com/track/1d4HxmK73RxLhbqEj9k8XD) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R) | 4:38 |
+| 93 | [Argos Farfish](https://open.spotify.com/track/1d4HxmK73RxLhbqEj9k8XD) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R) | 4:38 |
+| 94 | [Sudan](https://open.spotify.com/track/7M7e7aCLu2dhbMzEHL1aVO) | [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30), [Aidyproof](https://open.spotify.com/artist/7uzLUplPMKoZZ8ZC5XoeIN) | [Sudan](https://open.spotify.com/album/2qCIMTuoQUvvLHss2eZxUj) | 2:58 |
+| 95 | [Pablo](https://open.spotify.com/track/4YX2GxGnSl5om1hp7JxwH4) | [Bbnbooda](https://open.spotify.com/artist/7qSpIerjnYf4qu9ShXRPlV) | [Pablo](https://open.spotify.com/album/7yvCJaFB6MLnXbbZvbVk4R) | 2:13 |
 | 96 | [كنق الحلبة](https://open.spotify.com/track/0QemMisHFcPe19odGtKlnW) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [كنق الحلبة](https://open.spotify.com/album/3EaRsFezQZP6B1AUDolO92) | 2:44 |
 | 97 | [Seen Hazeen](https://open.spotify.com/track/1pVbuaeIrIZvMRIfWrxCgI) | [Wad Almzad](https://open.spotify.com/artist/1ImJWnNy3cEfCbAhJlxVBR) | [Seen Hazeen](https://open.spotify.com/album/0EtjjZE27YxQvOlOHQelJB) | 2:57 |
 | 98 | [أبوي الشيخ](https://open.spotify.com/track/2MWqdeZ3ZOtGJfyk2l2zhw) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [أبوي الشيخ](https://open.spotify.com/album/0XpBJBDh0CE3lWPhFeO5kJ) | 3:02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 
 > The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre\. Cover: Ray Charles
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,087 likes - 66 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,100 likes - 66 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 60 | [My Baby's Gone](https://open.spotify.com/track/1ORs7J8remmKEDvAMotH29) | [Lazy Bill Lucas](https://open.spotify.com/artist/4v9Nt1CRGlHHdDX1sIXuAq) | [Best of Blues Vol\. 6: Postwar Chicago Blues III \(Collection Gerard Herzhaft \- Remastered\)](https://open.spotify.com/album/3wIt6N0fd9c6ittIk8BpcZ) | 2:46 |
 | 61 | [Tipitina](https://open.spotify.com/track/7acA74x4jbKVKBljh5Qt3L) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD), [Tipitina’s Record Club](https://open.spotify.com/artist/2obtJE8R0kU7EiJoyEXKAQ) | [Fess at Home](https://open.spotify.com/album/1r6jk6qVIYqPlTzvOXMPUE) | 3:51 |
 | 62 | [Bird in a Cage](https://open.spotify.com/track/0G9v9sxXSSldEN5D7fFOHN) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Sweet Giant of the Blues](https://open.spotify.com/album/0p9tVLXflDYfeHQlGCdhLx) | 6:06 |
-| 63 | [Lovesick Soul](https://open.spotify.com/track/2blk7UNYuh9vaXPvaGwK2X) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [Harmonica Blues 101](https://open.spotify.com/album/3mhh16bqaJxngVNRggEOv5) | 3:56 |
-| 64 | [Hastings St.](https://open.spotify.com/track/1XKAKEHIyELpnsZpFhxVhG) | [Charlie Spand](https://open.spotify.com/artist/0lPwDM5AWseYSBCpie9yVP) | [Dreaming The Blues: The Best Of Charlie Spand](https://open.spotify.com/album/7hBy7gNE6ilG7drOEx2g4q) | 3:15 |
+| 63 | [Hastings St.](https://open.spotify.com/track/1XKAKEHIyELpnsZpFhxVhG) | [Charlie Spand](https://open.spotify.com/artist/0lPwDM5AWseYSBCpie9yVP) | [Dreaming The Blues: The Best Of Charlie Spand](https://open.spotify.com/album/7hBy7gNE6ilG7drOEx2g4q) | 3:15 |
+| 64 | [Lovesick Soul](https://open.spotify.com/track/2blk7UNYuh9vaXPvaGwK2X) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [Harmonica Blues 101](https://open.spotify.com/album/3mhh16bqaJxngVNRggEOv5) | 3:56 |
 | 65 | [Hey Now Baby](https://open.spotify.com/track/3BDE7sDGBihu8EAIE21rto) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [The Bach of Rock](https://open.spotify.com/album/3XQzUwB49DzREHCMuFZz8s) | 5:44 |
 | 66 | [Moon Blues](https://open.spotify.com/track/6Bs0OiBrHmaTWOYDWG7qFs) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Sweet Giant of the Blues](https://open.spotify.com/album/0p9tVLXflDYfeHQlGCdhLx) | 4:26 |
 

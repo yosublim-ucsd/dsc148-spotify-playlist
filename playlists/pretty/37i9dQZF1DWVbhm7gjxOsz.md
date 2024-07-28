@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,587 likes - 150 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,641 likes - 150 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,12 +140,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 130 | [Agree to Disagree](https://open.spotify.com/track/7K4VGWx0F3XY3QQZQ3FWi2) | [Miriah Avila](https://open.spotify.com/artist/5DkWvpsvEvNmUd5t0jggNt) | [You in Love Again?](https://open.spotify.com/album/1dAwMHdr3KoPDh2MeY1s0r) | 2:58 |
 | 131 | [Mujer Mia](https://open.spotify.com/track/6uiqzXiQCvAvoeDcjbRbRC) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [SalSoul](https://open.spotify.com/album/6ehe5lPsXzxcNU69NSCi0W) | 4:30 |
 | 132 | [Always and Forever \- Edit](https://open.spotify.com/track/0fKDnkXdfJwk0DEW9W83VY) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Heatwave's Greatest Hits](https://open.spotify.com/album/3eZkKm4IbRjyHqbdLm7qDr) | 4:47 |
-| 133 | [Seems Like](https://open.spotify.com/track/6766HkoEEO355KEzrJNU2T) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [Seems Like](https://open.spotify.com/album/3IaDaFiGolUI09rcE8q5m8) | 3:14 |
-| 134 | [Nobody's Clown](https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV) | [Los Yesterdays](https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq) | [Nobody's Clown](https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ) | 3:29 |
+| 133 | [Nobody's Clown](https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV) | [Los Yesterdays](https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq) | [Nobody's Clown](https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ) | 3:29 |
+| 134 | [Seems Like](https://open.spotify.com/track/6766HkoEEO355KEzrJNU2T) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [Seems Like](https://open.spotify.com/album/3IaDaFiGolUI09rcE8q5m8) | 3:14 |
 | 135 | [Tired Of Being Alone](https://open.spotify.com/track/6d9rNfRFOQ0XmsUwJ8C5J0) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Greatest Hits](https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO) | 2:43 |
 | 136 | [Between the Sheets](https://open.spotify.com/track/53HL9X1ZFXUvN8OS7HsHCX) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between The Sheets](https://open.spotify.com/album/3c6YALUwfrJ1wIW5pWjpUc) | 5:38 |
-| 137 | [You Are Everything](https://open.spotify.com/track/1yeLuQ4Jn6WV4UagSxJCPA) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [The Very Best of the Stylistics ..\. And More!](https://open.spotify.com/album/3xhdEzIX6oUQu2O0EiwWuk) | 2:55 |
-| 138 | [Float On](https://open.spotify.com/track/4YmKTCL86mpGHUS0sEWAUV) | [The Floaters](https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS) | [Float On](https://open.spotify.com/album/3myYvqFdL0jHBzO97TFJuH) | 11:48 |
+| 137 | [Float On](https://open.spotify.com/track/4YmKTCL86mpGHUS0sEWAUV) | [The Floaters](https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS) | [Float On](https://open.spotify.com/album/3myYvqFdL0jHBzO97TFJuH) | 11:48 |
+| 138 | [You Are Everything](https://open.spotify.com/track/1yeLuQ4Jn6WV4UagSxJCPA) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [The Very Best of the Stylistics ..\. And More!](https://open.spotify.com/album/3xhdEzIX6oUQu2O0EiwWuk) | 2:55 |
 | 139 | [Soon Enough](https://open.spotify.com/track/4yNJHDjA1IJRB2Pb6VrFD3) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Tangled Up in You](https://open.spotify.com/album/4LiUbhhWWkFflkUXOUzUkQ) | 4:00 |
 | 140 | [You've Really Got A Hold On Me](https://open.spotify.com/track/2tpOcRwFsv51JxUJmbtVOm) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [The Definitive Collection](https://open.spotify.com/album/2Wbsn92Jn7DRKQFu7HOzuo) | 3:14 |
 | 141 | [Ilusión De Amor](https://open.spotify.com/track/2hG1LVQt6YLxtlcWiujpcq) | [Jensine Benitez](https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX), [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Ilusión De Amor](https://open.spotify.com/album/0UqQyiKUqo2Dc1xcFaQOBM) | 3:45 |

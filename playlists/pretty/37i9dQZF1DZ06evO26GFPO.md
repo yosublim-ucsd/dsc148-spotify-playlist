@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 
 ### [This Is LUDMILLA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO26GFPO)
 
-> This is LUDMILLA\. Todos os maiores hits em uma só playlist.
+> This is LUDMILLA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,126 likes - 43 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,138 likes - 43 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 | 14 | [Lud Session \#4: Morrer de Viver / Saudade Daquilo / Tô Querendo Mais / Sem Filtro / Embrasa](https://open.spotify.com/track/3PXJxUzZ6dn9ykFBFMmOnL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Lud Session \#4: Morrer de Viver / Saudade Daquilo / Tô Querendo Mais / Sem Filtro / Embrasa](https://open.spotify.com/album/7dJmTgUEMUj4yUGT0Rv6Wi) | 11:07 |
 | 15 | [Amor Difícil \- Ao vivo](https://open.spotify.com/track/7vzfaxzAl0YNLBp2xA7T0b) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 3:40 |
 | 16 | [Destilado \- Ao Vivo](https://open.spotify.com/track/1J8rfA9BdhlpzNSKKePf3U) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 2:56 |
-| 17 | [Ela Terminou No WhatsApp \- Ao Vivo](https://open.spotify.com/track/41YAs2W3C3xPHuDLQIPnvM) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [paGGodin \(Ao Vivo / Parte 1\)](https://open.spotify.com/album/2ryScgu1hScAW4eUnhWS2X) | 3:06 |
-| 18 | [Teu Segredo \- Ao Vivo](https://open.spotify.com/track/6zR192lueVX45AwK5PLB0M) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Júlio Sereno](https://open.spotify.com/artist/4SESSrMv2jGENyRbkTVzF4) | [Numanice \#2 \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv) | 3:28 |
+| 17 | [Teu Segredo \- Ao Vivo](https://open.spotify.com/track/6zR192lueVX45AwK5PLB0M) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Júlio Sereno](https://open.spotify.com/artist/4SESSrMv2jGENyRbkTVzF4) | [Numanice \#2 \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv) | 3:28 |
+| 18 | [Ela Terminou No WhatsApp \- Ao Vivo](https://open.spotify.com/track/41YAs2W3C3xPHuDLQIPnvM) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [paGGodin \(Ao Vivo / Parte 1\)](https://open.spotify.com/album/2ryScgu1hScAW4eUnhWS2X) | 3:06 |
 | 19 | [Ela Não \- Ao vivo](https://open.spotify.com/track/3B7aR5W9WNzo9FeIsdGxI1) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 2:28 |
 | 20 | [1% \- Ao Vivo](https://open.spotify.com/track/6gu8xo31Bsg22KhwTLJsmJ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 3:14 |
-| 21 | [Já Tentei \- Ao Vivo](https://open.spotify.com/track/6JIhgAuKTkKsvJkFUGmoRU) | [Vou pro Sereno](https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Jogando em Casa \(Ao Vivo\)](https://open.spotify.com/album/1ZsXRycbphQ4lVSDuUISuK) | 3:39 |
-| 22 | [Perfume \- Ao Vivo](https://open.spotify.com/track/6Eu4upXqRZxGTJref5U5c4) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Numanice \#2 \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv) | 2:01 |
+| 21 | [Perfume \- Ao Vivo](https://open.spotify.com/track/6Eu4upXqRZxGTJref5U5c4) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Numanice \#2 \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv) | 2:01 |
+| 22 | [Já Tentei \- Ao Vivo](https://open.spotify.com/track/6JIhgAuKTkKsvJkFUGmoRU) | [Vou pro Sereno](https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Jogando em Casa \(Ao Vivo\)](https://open.spotify.com/album/1ZsXRycbphQ4lVSDuUISuK) | 3:39 |
 | 23 | [Mande Um Sinal / Sinais \- Ao vivo](https://open.spotify.com/track/7gGCGzNFmW0xjhA8dA3Y5w) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 4:41 |
 | 24 | [Saudade da Gente \- Ao Vivo](https://open.spotify.com/track/7zD6UkCZatI0QhTr3Q9c59) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 3:07 |
 | 25 | [Ninguém Merece Amar Sozinho](https://open.spotify.com/track/3rCnVAG0josT5ql2MAFGmT) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Ninguém Merece Amar Sozinho](https://open.spotify.com/album/4791KfaEDaxtKtv1kzxVh0) | 3:47 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 | 42 | [DA BRABA](https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 2:45 |
 | 43 | [Me Arrepender \- Ao Vivo](https://open.spotify.com/track/46WAJyMF8mNDcn9CcsTcmT) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gabby Moura](https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 2:20 |
 
-Snapshot ID: `ZqLnAAAAAAAlhH0rkvRpGq0JUKJbRdAW`
+Snapshot ID: `ZqLnAAAAAADg2MsDVrFobeeGxZG3SY9+`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,695 likes - 150 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,800 likes - 150 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,8 +150,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 140 | [The Nearness Of You](https://open.spotify.com/track/03gk2zRwm8uUZDbyZJtPgh) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:07 |
 | 141 | [You've Got A Friend](https://open.spotify.com/track/0tzpPgaBndJ7KflHxmoPWS) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [David Newton](https://open.spotify.com/artist/3ecO9MnClCeQeRCPLzAEgy), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Dave Chamberlain](https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF), [Matt Home](https://open.spotify.com/artist/6sYQ9bCdEmdHHY1TBQXe80) | [The Boy Next Door](https://open.spotify.com/album/5sRAARt1vXMVsC2bAuS2JP) | 4:21 |
 | 142 | [If I Had You](https://open.spotify.com/track/7hqudcHQ5fULbiEXOuHo2P) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [American Classic](https://open.spotify.com/album/3a6KzdXSmRbx5EAhYkSA6p) | 4:21 |
-| 143 | [The Lemonade Song](https://open.spotify.com/track/5eAJSGOYirIncdKsFF2m6x) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [The Lemonade Song](https://open.spotify.com/album/0kO0MoMp04oGJzEJDwT7r0) | 2:34 |
-| 144 | [Blue Moon](https://open.spotify.com/track/4DEOJOUfwi3jErNGJcW6Vu) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Moon Lover](https://open.spotify.com/album/05an8UcHjgcT3AIt1Sw1ye) | 3:00 |
+| 143 | [Blue Moon](https://open.spotify.com/track/4DEOJOUfwi3jErNGJcW6Vu) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Moon Lover](https://open.spotify.com/album/05an8UcHjgcT3AIt1Sw1ye) | 3:00 |
+| 144 | [The Lemonade Song](https://open.spotify.com/track/5eAJSGOYirIncdKsFF2m6x) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [The Lemonade Song](https://open.spotify.com/album/0kO0MoMp04oGJzEJDwT7r0) | 2:34 |
 | 145 | [Fever \(with Natalie Cole\)](https://open.spotify.com/track/7JMZvdSIUDUkeKupzSF0B5) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi), [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Genius Loves Company](https://open.spotify.com/album/4QpvUXLTSvZ5JfA8kOyfNk) | 3:30 |
 | 146 | [Waiting In Vain](https://open.spotify.com/track/6UMwlW88tuUf09Dj0CF6UX) | [Halie Loren](https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI) | [Heart First](https://open.spotify.com/album/74fLArnOHs24KVKRui8r7w) | 4:59 |
 | 147 | [I Can’t Make You Love Me](https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [I Can’t Make You Love Me](https://open.spotify.com/album/1sn4P6Jxru5Yph7lNqXLoz) | 5:03 |

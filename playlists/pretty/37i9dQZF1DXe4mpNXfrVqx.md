@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Lola, Camila Zasoul, Black Queen, Tshawtty, Pretta Poder
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,392 likes - 77 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,412 likes - 77 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

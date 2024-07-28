@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,548 likes - 100 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,579 likes - 100 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 | 91 | [chamomile](https://open.spotify.com/track/2UUgL4njMUrtqoylzUfDus) | [marine eyes](https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25) | [chamomile](https://open.spotify.com/album/2uZARWfUPoP4zhY5NhoKxj) | 4:02 |
 | 92 | [The 90s Was A Feeling](https://open.spotify.com/track/3mMeMV86wXN1sMSmXXUaoY) | [IKSRE](https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O), [Party Store](https://open.spotify.com/artist/01uGTwt1kEN1jvAUQvSPU2) | [The 90s Was A Feeling](https://open.spotify.com/album/6MayzDqtZa39VVtdR6yHxw) | 6:50 |
 | 93 | [Lämpö](https://open.spotify.com/track/0EzJNQX4oVC7p4PF1mqOg0) | [Cucina Povera](https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1) | [Dalmarnock Tapes](https://open.spotify.com/album/6ZAGUwp9bVhe13qoXrNqA7) | 5:14 |
-| 94 | [O Ignee Spriritus](https://open.spotify.com/track/4tM3MKcPRKp6lzni47Td61) | [Ben Bertrand](https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx) | [Dokkaebi](https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU) | 8:26 |
-| 95 | [An Open Door](https://open.spotify.com/track/3SMUq0TSlF7Q8Ti7ClAgCi) | [Roly Porter](https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P) | [Kistvaen](https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80) | 6:00 |
+| 94 | [An Open Door](https://open.spotify.com/track/3SMUq0TSlF7Q8Ti7ClAgCi) | [Roly Porter](https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P) | [Kistvaen](https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80) | 6:00 |
+| 95 | [O Ignee Spriritus](https://open.spotify.com/track/4tM3MKcPRKp6lzni47Td61) | [Ben Bertrand](https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx) | [Dokkaebi](https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU) | 8:26 |
 | 96 | [Fur & Feather](https://open.spotify.com/track/71PeXWhYcEGEDOgJCgoZMO) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi) | 3:04 |
 | 97 | [Pisces](https://open.spotify.com/track/2dAYdDyD2misHkcqSEYT0N) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Aquarius/Pisces](https://open.spotify.com/album/1EeFUVRFKGK3p4KBckGf5W) | 4:58 |
 | 98 | [Thoughts](https://open.spotify.com/track/4kJ9oMXeWR0IxDHsly7SGQ) | [Shards](https://open.spotify.com/artist/0ATldWSJILH1tS2H87szDU) | [Find Sound](https://open.spotify.com/album/04Kd4PBkBMEGJBf6JLn35c) | 3:37 |
-| 99 | [My Life \- Edit](https://open.spotify.com/track/7sXmm2QoZ8qpMxzHT160lY) | [Matthias Vogt](https://open.spotify.com/artist/7d1QENqGWiOKVegaYEoPfY), [Johanna Klein](https://open.spotify.com/artist/2SRNyDF0axecZrxNj5dArF) | [My Life / Under The Moon Over The Sky](https://open.spotify.com/album/014P491xuSjVhCPbMapFbt) | 3:25 |
-| 100 | [Remission](https://open.spotify.com/track/70qBoEjl3TTRTiRgztD94a) | [IKSRE](https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O), [anthéne](https://open.spotify.com/artist/760Zt0PM5aus5kfBCf4FpR) | [Remission](https://open.spotify.com/album/3L66OcpyOKbNZCm1OlYsHL) | 4:40 |
+| 99 | [Remission](https://open.spotify.com/track/70qBoEjl3TTRTiRgztD94a) | [IKSRE](https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O), [anthéne](https://open.spotify.com/artist/760Zt0PM5aus5kfBCf4FpR) | [Remission](https://open.spotify.com/album/3L66OcpyOKbNZCm1OlYsHL) | 4:40 |
+| 100 | [My Life \- Edit](https://open.spotify.com/track/7sXmm2QoZ8qpMxzHT160lY) | [Matthias Vogt](https://open.spotify.com/artist/7d1QENqGWiOKVegaYEoPfY), [Johanna Klein](https://open.spotify.com/artist/2SRNyDF0axecZrxNj5dArF) | [My Life / Under The Moon Over The Sky](https://open.spotify.com/album/014P491xuSjVhCPbMapFbt) | 3:25 |
 
 Snapshot ID: `ZSg1fgAAAACQd5bWb4cgn6FdB9cN8zkz`

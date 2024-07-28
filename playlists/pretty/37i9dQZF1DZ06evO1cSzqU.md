@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 
 ### [This Is Scorpions](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1cSzqU)
 
-> This is Scorpions\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is Scorpions\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,886 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,913 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 49 | [The Sails of Charon \(2015 \- Remaster\)](https://open.spotify.com/track/6J6riyv0pGpXETSiHrjrzF) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Taken by Force](https://open.spotify.com/album/5r7Ock0N9gVyq7t15jRV7S) | 5:11 |
 | 50 | [Coming Home \(2015 \- Remaster\)](https://open.spotify.com/track/0fHqE1z5xYm8htOWED8QA2) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/5eiWWiHKC7Elfml59PORlF) | 4:59 |
 
-Snapshot ID: `ZqLnAAAAAAAs1bIMTUy8yS0zp/doDTLt`
+Snapshot ID: `ZqLnAAAAAADT0sjpYmbc669GCDn4Cdjg`

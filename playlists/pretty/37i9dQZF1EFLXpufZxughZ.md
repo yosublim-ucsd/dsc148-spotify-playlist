@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,021 likes - 131 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,022 likes - 131 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 53 | [deep end](https://open.spotify.com/track/3LYSQacvVpDkPkxzuWEBUc) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 3:05 |
 | 54 | [Can’t Decide](https://open.spotify.com/track/7xEVy3xCkmRSbYavgefnsI) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Limbo](https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt) | 2:40 |
 | 55 | [Carried Away](https://open.spotify.com/track/7dA5TuziQNiseDqFTyVWzi) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 3:41 |
-| 56 | [Win Some, Lose Some](https://open.spotify.com/track/35wGuOS7f10WZ3yfmbAzjD) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 5:04 |
-| 57 | [Pricey \(feat\. Ari Lennox, Young Dro & Gucci Mane\)](https://open.spotify.com/track/2w5BtuWXISpB6NM4xPoeiR) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 4:55 |
+| 56 | [Pricey \(feat\. Ari Lennox, Young Dro & Gucci Mane\)](https://open.spotify.com/track/2w5BtuWXISpB6NM4xPoeiR) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 4:55 |
+| 57 | [Win Some, Lose Some](https://open.spotify.com/track/35wGuOS7f10WZ3yfmbAzjD) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 5:04 |
 | 58 | [Stressed \(with J\. Cole & T\-Shyne\)](https://open.spotify.com/track/0uqsdBw9KvD8jSWmfMmMAp) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [T\-Shyne](https://open.spotify.com/artist/14qypx78D3Jd1mm7c2BqQb) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 3:40 |
 | 59 | [Tonight](https://open.spotify.com/track/0rNAKjp23yWUcNHeoiV9Pk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Atlas \(Light / Dark Deluxe Edition\)](https://open.spotify.com/album/3HZKPiOGyFqmLvehf77H47) | 3:46 |
 | 60 | [Ready ‘24 \(feat\. Cam’ron\)](https://open.spotify.com/track/4J9WveqdoaEUQu1aeoSH9X) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:30 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 62 | [Broke](https://open.spotify.com/track/7A2dius6RtCZDWbJmNe6gQ) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [All Things Work Together](https://open.spotify.com/album/5DPZqC3ySZkJClCvZlIq6K) | 2:59 |
 | 63 | [Champion](https://open.spotify.com/track/2NMIcon70yj6ymGshnrjMI) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Pink Friday ..\. Roman Reloaded](https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO) | 4:56 |
 | 64 | [Guns and Roses \(feat\. P!nk\)](https://open.spotify.com/track/0IK8i6kTkS9TKhP1YM6I5a) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Trouble Man: Heavy is the Head](https://open.spotify.com/album/5X46pZekTY2dsWuZDpm14m) | 4:28 |
-| 65 | [Offended](https://open.spotify.com/track/0SMpAbwLauaXOA3A0e4uUb) | [Juice Armani](https://open.spotify.com/artist/0TIPSD7AoFPGfB8JzWKMHC) | [Offended](https://open.spotify.com/album/3EAqn4s5o54zkDBy0zcm6n) | 2:13 |
-| 66 | [3001](https://open.spotify.com/track/7JRwdwgeTrYkJvwmecrPSW) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:37 |
+| 65 | [3001](https://open.spotify.com/track/7JRwdwgeTrYkJvwmecrPSW) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:37 |
+| 66 | [Offended](https://open.spotify.com/track/0SMpAbwLauaXOA3A0e4uUb) | [Juice Armani](https://open.spotify.com/artist/0TIPSD7AoFPGfB8JzWKMHC) | [Offended](https://open.spotify.com/album/3EAqn4s5o54zkDBy0zcm6n) | 2:13 |
 | 67 | [Give Up](https://open.spotify.com/track/0BST0Q3OayjAIzG3MHOcy0) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Give Up](https://open.spotify.com/album/4Xff8fJ80WGcWR00TaQzPj) | 2:33 |
 | 68 | [Big Lyfe](https://open.spotify.com/track/0H4JxGArtYE3sH3BiW3pMb) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Khaza](https://open.spotify.com/album/5ob4kF4KkXFDqC5ysCdCV8) | 4:00 |
 | 69 | [Home Alone \(with J\. Cole\)](https://open.spotify.com/track/0Fg88OWOdERXLMDcTWYwjf) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [We Only Talk About Real Shit When We're Fucked Up](https://open.spotify.com/album/3kXP7albhNo2neJAivDwxk) | 3:29 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 130 | [It's Alright](https://open.spotify.com/track/0OIrTCGGsV35HNAC4UR0wD) | [Clive Bruce](https://open.spotify.com/artist/74A1JytvpdwhdpCD7ydkk5) | [Gypsy Queen](https://open.spotify.com/album/5wZbC3NsXrEyxNzIMtZ1QH) | 2:24 |
 | 131 | [T.R.I.B.E](https://open.spotify.com/track/00IuwiO6X1ZdguEb0cfxx6) | [The A.I.M.](https://open.spotify.com/artist/6LJbmJajmn2ITsXJqECxJP) | [T.R.I.B.E](https://open.spotify.com/album/4Y26nPJ19pqiTyQjpgeCVJ) | 3:59 |
 
-Snapshot ID: `AbXz5gAAAACV4Bhic3rCG6JDj1qos3nX`
+Snapshot ID: `AbX2QwAAAACgfC5EoROvRYegRbh0FzRE`

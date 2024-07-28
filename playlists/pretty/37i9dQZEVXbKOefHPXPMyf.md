@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKOefHPXPMyf.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Costa Rica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,704 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,705 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKOefHPXPMyf.md) - [plain]
 | 49 | [Eu Quero Tchu, Eu Quero Tcha \- Single Version](https://open.spotify.com/track/36JlLKH7LEhEqsRljgtoW4) | [João Lucas & Marcelo](https://open.spotify.com/artist/07qXCavgZGcwnfNHSvSPtG) | [Eu Quero Tchu, Eu Quero Tcha](https://open.spotify.com/album/2vw1dlq865sW1jbMGxFvUC) | 2:41 |
 | 50 | [Lobster](https://open.spotify.com/track/02RJmcMqkQqbU1WamaJNid) | [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0) | [Lobster](https://open.spotify.com/album/5OkXmwhtsqoqrWaFKGUSOV) | 1:56 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

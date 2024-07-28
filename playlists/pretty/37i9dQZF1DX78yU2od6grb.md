@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 
 > Quer fazer aquele exercício empolgante e sem estresse? Fizemos uma playlist com o som certo para você alcançar novas metas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,324 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,304 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 | 74 | [Call You Mine \(feat\. Bebe Rexha\)](https://open.spotify.com/track/05CwHjIk71RXVU40boRMnR) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [World War Joy](https://open.spotify.com/album/1ONuDpN0a3zhCUyKCgtuzK) | 3:37 |
 | 75 | [How Beautiful \(she is\)](https://open.spotify.com/track/53TbfWFcp3COCSs3zkVfSR) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP), [duendita](https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22), [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [How Beautiful \(she is\)](https://open.spotify.com/album/0BzSvuNSqq9DRtme4i2Pys) | 3:27 |
 | 76 | [Running](https://open.spotify.com/track/37WjD4t8hZ5xXEjrhIAmKF) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Gabriel Boni](https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Running](https://open.spotify.com/album/20qhDMcpbzJCBNBks5scjY) | 3:58 |
-| 77 | [Be Okay \(with HRVY\)](https://open.spotify.com/track/4ztw0mBC6VBiLV79yRHDQW) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Be Okay \(with HRVY\)](https://open.spotify.com/album/7IWsyF6IuJ4jLdRTLxVw3v) | 2:21 |
-| 78 | [Piece Of Your Heart](https://open.spotify.com/track/5p1ex0pXv6jSPJ6QbumQpD) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Piece Of Your Heart](https://open.spotify.com/album/0agqVZjOqVtqHkq3pTFPXb) | 2:32 |
+| 77 | [Piece Of Your Heart](https://open.spotify.com/track/5p1ex0pXv6jSPJ6QbumQpD) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Piece Of Your Heart](https://open.spotify.com/album/0agqVZjOqVtqHkq3pTFPXb) | 2:32 |
+| 78 | [Be Okay \(with HRVY\)](https://open.spotify.com/track/4ztw0mBC6VBiLV79yRHDQW) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Be Okay \(with HRVY\)](https://open.spotify.com/album/7IWsyF6IuJ4jLdRTLxVw3v) | 2:21 |
 | 79 | [New Love \(feat\. Ellie Goulding\)](https://open.spotify.com/track/3qcse1HvDQ1vGQo6Egtkom) | [Silk City](https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [New Love \(feat\. Ellie Goulding\)](https://open.spotify.com/album/6DFajhqhakGIy5A8gy0LcZ) | 3:10 |
-| 80 | [Afrofuturista](https://open.spotify.com/track/35d6akAv0HQFb21Ooifwvi) | [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2) | [Afrofuturista](https://open.spotify.com/album/1BWtvpZIQkHY9CwG49QcWs) | 2:04 |
+| 80 | [Waiting for the Summer](https://open.spotify.com/track/6yDVzSw6ADBAQNgBSkkdw6) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou) | [Waiting for the Summer](https://open.spotify.com/album/4mVZbOPDbTF6alY0EhdAE7) | 2:48 |
 
 Snapshot ID: `Znt24AAAAABjIUf+a3Gwr8ws8Uj1obwh`

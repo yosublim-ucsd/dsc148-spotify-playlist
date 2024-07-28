@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 ### [This Is Cynthia Luz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0reIgs)
 
-> This is Cynthia Luz\. The essential tracks, all in one playlist.
+> This Is Cynthia Luz\. Todas as faixas essenciais numa única playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,466 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,465 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 49 | [Regai](https://open.spotify.com/track/4S3Ek7UvV9rMEaR6Xo5m9a) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Sol](https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo) | 3:33 |
 | 50 | [Feeling](https://open.spotify.com/track/6cz9TcEstLOxC3y4ZZD5Tz) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Menestrel](https://open.spotify.com/artist/3P3lkDIOlpOLZAk3dcjf2i), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Marechal](https://open.spotify.com/artist/2CUoA5eNl575NSKMDwy9Ej), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [300](https://open.spotify.com/album/49aodr19IxR7j392H2CIJm) | 7:00 |
 
-Snapshot ID: `ZqLnAAAAAAA9hBRdWkRedUVw7RRbVcK7`
+Snapshot ID: `ZqLnAAAAAACah5FWzZroe7pkMTIn9QmB`

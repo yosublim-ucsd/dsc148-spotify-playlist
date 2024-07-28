@@ -1,6 +1,6 @@
 {
   "description": "Recent smashes from your favorite Christian Contemporary artists.  Cover: <a href=\"spotify:artist:3SKza3YPBri1k43LB1Tqy4\">Tauren Wells</a>",
-  "num_followers": 621221,
+  "num_followers": 621248,
   "original_name": "Christian Mix",
   "owner": {
     "name": "Spotify",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-06-21 08:48:55",
       "album": {
+        "name": "Church (Take Me Back) / Grave",
+        "url": "https://open.spotify.com/album/0pGJxxpEZ6Vgq9Vd6GNyHE"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "duration_ms": 176702,
+      "name": "Church (Take Me Back)",
+      "url": "https://open.spotify.com/track/3vvao6zCQPVB8EGajtg9dp"
+    },
+    {
+      "added_at": "2024-06-21 08:48:55",
+      "album": {
         "name": "Death Was Arrested",
         "url": "https://open.spotify.com/album/7JnYzgXFC4jEM0XFtwRdK9"
       },
@@ -1351,54 +1367,6 @@
     {
       "added_at": "2024-06-21 08:48:55",
       "album": {
-        "name": "Peace Be Still",
-        "url": "https://open.spotify.com/album/6DijVs6K0pynequruoG3o2"
-      },
-      "artists": [
-        {
-          "name": "Hope Darst",
-          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
-        }
-      ],
-      "duration_ms": 320173,
-      "name": "Peace Be Still",
-      "url": "https://open.spotify.com/track/0ZpJVWYW5hJKGbpStrsCdD"
-    },
-    {
-      "added_at": "2024-06-21 08:48:55",
-      "album": {
-        "name": "Church (Take Me Back) / Grave",
-        "url": "https://open.spotify.com/album/0pGJxxpEZ6Vgq9Vd6GNyHE"
-      },
-      "artists": [
-        {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
-        }
-      ],
-      "duration_ms": 176702,
-      "name": "Church (Take Me Back)",
-      "url": "https://open.spotify.com/track/3vvao6zCQPVB8EGajtg9dp"
-    },
-    {
-      "added_at": "2024-06-21 08:48:55",
-      "album": {
-        "name": "Let The Ground Rest",
-        "url": "https://open.spotify.com/album/0HqdkOBWLtdPRUxfdVxL9c"
-      },
-      "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        }
-      ],
-      "duration_ms": 254106,
-      "name": "Springtime",
-      "url": "https://open.spotify.com/track/5XBbvUfLSFAT5Rh8eudY8G"
-    },
-    {
-      "added_at": "2024-06-21 08:48:55",
-      "album": {
         "name": "Symphony",
         "url": "https://open.spotify.com/album/5xlQ1oXfwSMtImBVVZTS11"
       },
@@ -1415,6 +1383,38 @@
       "duration_ms": 242946,
       "name": "Symphony",
       "url": "https://open.spotify.com/track/4psxhrMFCo4FeQeAWTPFhr"
+    },
+    {
+      "added_at": "2024-06-21 08:48:55",
+      "album": {
+        "name": "Peace Be Still",
+        "url": "https://open.spotify.com/album/6DijVs6K0pynequruoG3o2"
+      },
+      "artists": [
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "duration_ms": 320173,
+      "name": "Peace Be Still",
+      "url": "https://open.spotify.com/track/0ZpJVWYW5hJKGbpStrsCdD"
+    },
+    {
+      "added_at": "2024-06-21 08:48:55",
+      "album": {
+        "name": "Let The Ground Rest",
+        "url": "https://open.spotify.com/album/0HqdkOBWLtdPRUxfdVxL9c"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "duration_ms": 254106,
+      "name": "Springtime",
+      "url": "https://open.spotify.com/track/5XBbvUfLSFAT5Rh8eudY8G"
     },
     {
       "added_at": "2024-06-21 08:48:55",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 
 ### [This Is Elaine Martins](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ByiTJ)
 
-> This is Elaine Martins\. Todos os maiores hits em uma só playlist.
+> This is Elaine Martins\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,609 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,611 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 | 49 | [Firme nas Promessas](https://open.spotify.com/track/3RT2CFpszKl14Pw3dzRZ6I) | [Carlinhos Falsetti](https://open.spotify.com/artist/67KYGMV1oYKB0GelhcDgP7), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Débora Cristina](https://open.spotify.com/artist/3QNmNkJaqLdJqENaFKEa7j) | [Firme nas Promessas \(Acústico\)](https://open.spotify.com/album/3khWXT7zps8cnnZeOWdqpB) | 2:45 |
 | 50 | [Linda Flor](https://open.spotify.com/track/0V6Qq0UJRmB728V0WxK914) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Linda Flor](https://open.spotify.com/album/0G9k6iDDBTHeqEUXyKnvGT) | 3:35 |
 
-Snapshot ID: `ZqLnAAAAAAADBHTEC+uuSKh3uH46bzRU`
+Snapshot ID: `ZqLnAAAAAAATVLePq4FWTUa0lXqOsgRN`

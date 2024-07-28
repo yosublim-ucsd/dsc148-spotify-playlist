@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-603 songs - 1 day 17 hr 50 min
+604 songs - 1 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,6 +471,7 @@
 | [Strong As Steel \- 7" Version](https://open.spotify.com/track/7kmuXD3zA7DXMsgKjB8jEU) | [Five Star](https://open.spotify.com/artist/4toJT7YydhWcrYNgWJK4hW) | [Five Star](https://open.spotify.com/album/1JngKkLRsPwbzRap033OMx) | 4:27 | 2023-12-30 |  |
 | [Strong, Strong Wind](https://open.spotify.com/track/6I1QlCOW4mDHMeoC0MOVxL) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [All About Love](https://open.spotify.com/album/5SYykL0icXn141kHKSQ6Os) | 4:25 | 2023-12-30 |  |
 | [Stuck With Each Other \- Main](https://open.spotify.com/track/0LIeySEITbDeTE4FQPS19o) | [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Shontelligence](https://open.spotify.com/album/3tIkt2zUIa9ZT5lLFmTo8P) | 3:20 | 2023-12-30 |  |
+| [Sunlight to My Soul](https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Sunlight to My Soul](https://open.spotify.com/album/17lav51JaQFr582kgXg007) | 3:25 | 2024-07-27 |  |
 | [Superhuman](https://open.spotify.com/track/4eMiknze54I87MoQ9yemCq) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [The Life](https://open.spotify.com/album/1DVit0dyCMSGJ4urswE5Sf) | 4:10 | 2023-12-30 |  |
 | [Sweetest Sin](https://open.spotify.com/track/3YumK1QacSUMKO7KdGvMVP) | [Jessica Simpson](https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma) | [In This Skin \(Deluxe Edition\)](https://open.spotify.com/album/1tCJPKhKa3j1OBgz0MhBUV) | 3:12 | 2023-12-30 |  |
 | [Take It to Heart](https://open.spotify.com/track/2mdNWsx6evoVi9IhD6P9uL) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Take It to Heart](https://open.spotify.com/album/26DyP2oh3gRsq5eNR1gjtV) | 5:57 | 2023-12-30 |  |

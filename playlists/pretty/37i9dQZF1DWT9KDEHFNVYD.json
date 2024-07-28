@@ -1,6 +1,6 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
-  "num_followers": 12983,
+  "num_followers": 12986,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
@@ -1583,18 +1583,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Feather Float",
-        "url": "https://open.spotify.com/album/0y7rybwqnKnL1VJMlf1sFi"
+        "name": "Oscillations 2019",
+        "url": "https://open.spotify.com/album/6qqBlywNFvHyzNR1nDfHLU"
       },
       "artists": [
         {
-          "name": "OOIOO",
-          "url": "https://open.spotify.com/artist/1XuQeR4sDsrX9gO2gtRQwe"
+          "name": "Silver Apples",
+          "url": "https://open.spotify.com/artist/6dP7OHshDvGHaNNSwunol4"
+        },
+        {
+          "name": "Andrew Weatherall",
+          "url": "https://open.spotify.com/artist/5J85JTgIYIUP276hmuIozn"
         }
       ],
-      "duration_ms": 465066,
-      "name": "Be Sure To Loop",
-      "url": "https://open.spotify.com/track/32ymOnGRWBhyK3AftNiyTD"
+      "duration_ms": 543001,
+      "name": "Edge Of Wonder - Andrew Weatherall remix",
+      "url": "https://open.spotify.com/track/6C0R9trrtc0H5qhfuaF1NU"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1615,22 +1619,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Oscillations 2019",
-        "url": "https://open.spotify.com/album/6qqBlywNFvHyzNR1nDfHLU"
+        "name": "Feather Float",
+        "url": "https://open.spotify.com/album/0y7rybwqnKnL1VJMlf1sFi"
       },
       "artists": [
         {
-          "name": "Silver Apples",
-          "url": "https://open.spotify.com/artist/6dP7OHshDvGHaNNSwunol4"
-        },
-        {
-          "name": "Andrew Weatherall",
-          "url": "https://open.spotify.com/artist/5J85JTgIYIUP276hmuIozn"
+          "name": "OOIOO",
+          "url": "https://open.spotify.com/artist/1XuQeR4sDsrX9gO2gtRQwe"
         }
       ],
-      "duration_ms": 543001,
-      "name": "Edge Of Wonder - Andrew Weatherall remix",
-      "url": "https://open.spotify.com/track/6C0R9trrtc0H5qhfuaF1NU"
+      "duration_ms": 465066,
+      "name": "Be Sure To Loop",
+      "url": "https://open.spotify.com/track/32ymOnGRWBhyK3AftNiyTD"
     }
   ],
   "unique_name": "Krautrock",

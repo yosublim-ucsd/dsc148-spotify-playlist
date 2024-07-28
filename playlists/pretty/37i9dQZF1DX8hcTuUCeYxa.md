@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Yannis & The Yaw, Tony Allen
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,052 likes - 89 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,053 likes - 89 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

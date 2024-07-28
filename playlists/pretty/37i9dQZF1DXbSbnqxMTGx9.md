@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,992,013 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,992,163 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 84 | [Tenement Yard](https://open.spotify.com/track/4SNxXAQ8QMlxLhYVX7nuoE) | [Jacob Miller](https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio) | [Song Book: Chapter a Day](https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP) | 2:34 |
 | 85 | [Queen Majesty \(aka Minstrel and Queen\)](https://open.spotify.com/track/7eArTFXshH2FuzC6ZptVlD) | [Techniques](https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:30 |
 | 86 | [The Tide Is High \- Stereo Version](https://open.spotify.com/track/7056gVvC7P3PpltHgippd2) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 2:41 |
-| 87 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
-| 88 | [Rudy, a Message to You](https://open.spotify.com/track/2jPPgh86mHf4bpOEImL43D) | [Dandy](https://open.spotify.com/artist/5gK3fUb4UG1FXBNHOxpLwq) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:34 |
+| 87 | [Rudy, a Message to You](https://open.spotify.com/track/2jPPgh86mHf4bpOEImL43D) | [Dandy](https://open.spotify.com/artist/5gK3fUb4UG1FXBNHOxpLwq) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:34 |
+| 88 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
 | 89 | [Israelites](https://open.spotify.com/track/18GLelA5vVdzd9X7WGPmJ8) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [The Definitive Collection: You Can Get It If You Really Want](https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3) | 2:35 |
 | 90 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/7kTvXtMERxvwCGcWv68ssH) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Bad To The Bone](https://open.spotify.com/album/5YEv101kdWy8liOvCZWtzy) | 3:46 |
-| 91 | [Love Has Found Its Way](https://open.spotify.com/track/2VFyBA1wpU5a4KgZayr1rK) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 4:26 |
-| 92 | [54\-46 Was My Number](https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 |
-| 93 | [Buffalo Soldier](https://open.spotify.com/track/59ByyDNkqRGxBom9nHssxf) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(Deluxe Edition\)](https://open.spotify.com/album/0tiPal8J7t3B9tPF7kGWDi) | 4:16 |
+| 91 | [Could You Be Loved](https://open.spotify.com/track/0jlpgMdHL9Ar7CXlePtaql) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(Deluxe Edition\)](https://open.spotify.com/album/0tiPal8J7t3B9tPF7kGWDi) | 3:56 |
+| 92 | [Love Has Found Its Way](https://open.spotify.com/track/2VFyBA1wpU5a4KgZayr1rK) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 4:26 |
+| 93 | [54\-46 Was My Number](https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 |
 | 94 | [Sweet Sensation](https://open.spotify.com/track/5uxBt9ZluGjgdVGj8oXkiX) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:52 |
 | 95 | [Travelling Man \- Version 1](https://open.spotify.com/track/5uhpcQw9HfN4TMmYaAgxmh) | [Techniques](https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:32 |
 | 96 | [Kingston Town](https://open.spotify.com/track/6UP58GoB80kzAX6eowFj3M) | [Lord Creator](https://open.spotify.com/artist/3KlE1auvNzJPD27W4hEHjs) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:09 |
-| 97 | [Sun Moon and Star](https://open.spotify.com/track/2FzdFjiwYvKsRLDmrgKUE0) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Monkey Man](https://open.spotify.com/album/7bttXg6FHq7nVRWbFnkiIP) | 3:12 |
-| 98 | [Let Me Down Easy](https://open.spotify.com/track/41Z1gnggllzvu7qOWTaSTE) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Super Reggae & Soul Hits](https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP) | 2:55 |
+| 97 | [Let Me Down Easy](https://open.spotify.com/track/41Z1gnggllzvu7qOWTaSTE) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Super Reggae & Soul Hits](https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP) | 2:55 |
+| 98 | [Buffalo Soldier](https://open.spotify.com/track/59ByyDNkqRGxBom9nHssxf) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(Deluxe Edition\)](https://open.spotify.com/album/0tiPal8J7t3B9tPF7kGWDi) | 4:16 |
 | 99 | [Mr\. Bojangles](https://open.spotify.com/track/7ouKT7R4BgwvAtoyzR8gCc) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [1000 Volts of Holt \(Deluxe Edition\)](https://open.spotify.com/album/1bRaF6zDhFQuPqBxozEqcs) | 5:18 |
-| 100 | [Could You Be Loved](https://open.spotify.com/track/0jlpgMdHL9Ar7CXlePtaql) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(Deluxe Edition\)](https://open.spotify.com/album/0tiPal8J7t3B9tPF7kGWDi) | 3:56 |
+| 100 | [Sun Moon and Star](https://open.spotify.com/track/2FzdFjiwYvKsRLDmrgKUE0) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Monkey Man](https://open.spotify.com/album/7bttXg6FHq7nVRWbFnkiIP) | 3:12 |
 
 Snapshot ID: `ZpD3ewAAAACD/VRBno09HZL6DK+zQTq3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,121,871 likes - 200 songs - 17 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,121,960 likes - 200 songs - 17 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,9 +189,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 | 179 | [Links](https://open.spotify.com/track/36Xd81l2gCMOIv3uLJYSJh) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/1bQocL3Muez9zJLuA4JjVx) | [Links](https://open.spotify.com/album/44rq9Oqk7prhdYXyGALbvn) | 3:52 |
 | 180 | [Round Midnight](https://open.spotify.com/track/5DlGJh3S6jYf0wZAiESvwA) | [The Mellowtones](https://open.spotify.com/artist/00Riinu1dD4y04vDPULBE6) | [Round Midnight](https://open.spotify.com/album/4LgeBu2FmDL9nakgrReCuH) | 5:01 |
 | 181 | [Gnostic](https://open.spotify.com/track/2Drvk5fiaxHptNFQeP6Kru) | [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL) | [Gnostic](https://open.spotify.com/album/0pTBuVSX0MBAGvVwnpTyis) | 3:36 |
-| 182 | [Hermetic Boogey](https://open.spotify.com/track/0utXKhCXxreupSQICsuwkr) | [Tonbruket](https://open.spotify.com/artist/5Txp8CzIIEwkALY9agmKpJ) | [Hermetic Boogey](https://open.spotify.com/album/6HsoNd9kAenZ7AcY2ptML5) | 6:13 |
+| 182 | [Colors](https://open.spotify.com/track/1bi5YSXdNeEsAYAvA3HX0c) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J), [Oscar Andreas Haug](https://open.spotify.com/artist/26LBjI4jymy7Yry7qi5kB1) | [Colors](https://open.spotify.com/album/00iisImCd1aQNcnHYiifqA) | 5:51 |
 | 183 | [Lush Life](https://open.spotify.com/track/1qTjcR2BDmV7nyslmF24mF) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Lush Life](https://open.spotify.com/album/6WAL7oDr29V0kUVsut8Ni4) | 6:06 |
-| 184 | [Colors](https://open.spotify.com/track/1bi5YSXdNeEsAYAvA3HX0c) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J), [Oscar Andreas Haug](https://open.spotify.com/artist/26LBjI4jymy7Yry7qi5kB1) | [Colors](https://open.spotify.com/album/00iisImCd1aQNcnHYiifqA) | 5:51 |
+| 184 | [Hermetic Boogey](https://open.spotify.com/track/0utXKhCXxreupSQICsuwkr) | [Tonbruket](https://open.spotify.com/artist/5Txp8CzIIEwkALY9agmKpJ) | [Hermetic Boogey](https://open.spotify.com/album/6HsoNd9kAenZ7AcY2ptML5) | 6:13 |
 | 185 | [Dark Turn of Mind](https://open.spotify.com/track/20877fmWnjvhKkkLUpLlJ3) | [Art Roho](https://open.spotify.com/artist/6irgTihe067FUGoHDzd3mC), [Mads Søndergaard](https://open.spotify.com/artist/1MLs5YRz48RslZbzeWbCQc) | [Dark Turn of Mind](https://open.spotify.com/album/2KPx7Fp7cB5xibNw6Ttkmv) | 5:38 |
 | 186 | [In A Sentimental Mood](https://open.spotify.com/track/0L5jTWqmqW0X5FFnMjYLpQ) | [Mellow In Blue](https://open.spotify.com/artist/0XqUdduCt8Hmk0fGxzpdR4), [Mathias Heise](https://open.spotify.com/artist/5VDMcXFNkMZ3bB9bt9jRFW), [Erlend Slettevoll](https://open.spotify.com/artist/1Wvn3eBW8X5DeD2pwnTjYS), [Johnny Åman](https://open.spotify.com/artist/1eAt5Qjg9RPfYAhxl723YW), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [In A Sentimental Mood](https://open.spotify.com/album/2BPqCjx9YoBSTfOaECF76s) | 5:06 |
 | 187 | [Owl Song 1 \(feat\. Bill Frisell & Herlin Riley\)](https://open.spotify.com/track/6ICJd5vAZPHxLB3zIt2u2u) | [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [Herlin Riley](https://open.spotify.com/artist/5FuXrmOgtBTlGDUP1O41Ir) | [Owl Song 1 \(feat\. Bill Frisell & Herlin Riley\)](https://open.spotify.com/album/6NUxtWDXrctrTv06UTWx9L) | 5:52 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > <a href="https://open.spotify.com/user/tomorrowlandofficial?si=27761b3198754550">Tomorrowland</a> celebrates its 20 years anniversary\. 400,000 People of Tomorrow come together to explore the magical world of this year’s festival theme LIFE\. Cover: Miss Monique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,423 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,567 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

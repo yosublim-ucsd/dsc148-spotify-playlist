@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK2SUzp56yYx.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,643 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,642 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK2SUzp56yYx.md) - [plain]
 | 49 | [Not My Problem](https://open.spotify.com/track/1T6dUV1mqXyA2bSP3lK0IZ) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [Not My Problem \(Flyer Than U\)](https://open.spotify.com/album/6G6eCUDFNO5A8rgWrxKddR) | 2:39 |
 | 50 | [где ты?](https://open.spotify.com/track/5Om5hEHe2lKknhmveGXA2j) | [Элли на маковом поле](https://open.spotify.com/artist/6mlRoShVf1DHo0SsntzTkr), [лампабикт](https://open.spotify.com/artist/5guNMQUAnAosad9G9wVjoW) | [сад твоего имени](https://open.spotify.com/album/3qolgAIjVQoc2RDKAcobbN) | 3:21 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

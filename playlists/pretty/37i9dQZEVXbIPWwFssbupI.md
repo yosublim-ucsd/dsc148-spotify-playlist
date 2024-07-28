@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIPWwFssbupI.md) - [plain]
 
 > Your daily update of the most played tracks right now \- France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,868 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,959 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIPWwFssbupI.md) - [plain]
 | 49 | [Nous on sait](https://open.spotify.com/track/7LyJFHgMO5nYwsHZmVzj5W) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 3:01 |
 | 50 | [Parler tout bas](https://open.spotify.com/track/4ZBslg1i1eHVOMhZZoX5fx) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps](https://open.spotify.com/album/2bha7Ff2j1zCBmECAXaxfu) | 3:21 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

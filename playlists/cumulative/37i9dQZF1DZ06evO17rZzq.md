@@ -2,7 +2,7 @@
 
 ### [This Is Kaliii](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17rZzq)
 
-> This is Kaliii\. The essential tracks, all in one playlist.
+> This Is Kaliii\. Les titres incontournables, réunis dans une seule et même playlist.
 
 81 songs - 5 hr 1 min
 

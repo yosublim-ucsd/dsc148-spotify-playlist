@@ -1,8 +1,8 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r997y.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO3r997y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3r997y)
 
-### [This Is Akari Kito](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3r997y)
+### [This Is 鬼頭明里](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3r997y)
 
-> This is Akari Kito\. Todos os maiores hits em uma só playlist.
+> This is 鬼頭明里\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 2,205 likes - 33 songs - 2 hr 13 min
 
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r997y.md) - [plain]
 | 32 | [23時の春雷少女 Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/6UlS8qU6OyXMHI7LkiwyhR) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 4:18 |
 | 33 | [Desire Again Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/3SV0SxIW8Hom0umB4s8N8X) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 3:58 |
 
-Snapshot ID: `ZqLnAAAAAACbH7x33XKJT8vbHLWyoPax`
+Snapshot ID: `ZqLnAAAAAABTmbNxsa5BfPFLgTv2LAt8`

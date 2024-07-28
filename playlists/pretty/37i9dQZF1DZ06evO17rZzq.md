@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 
 ### [This Is Kaliii](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17rZzq)
 
-> This is Kaliii\. The essential tracks, all in one playlist.
+> This Is Kaliii\. Les titres incontournables, réunis dans une seule et même playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,668 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,667 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 49 | [Story Teller \- Original Mix](https://open.spotify.com/track/7grj3JBO3DGa4znViKeIki) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bridging the Gap, Vol\. 2 Compiled by Dynamic Range](https://open.spotify.com/album/1O9q3Fui5u2yLSiW6PaLPd) | 7:19 |
 | 50 | [Peakin'](https://open.spotify.com/track/6d9SCBxeBhVaZSBs3AVsb2) | [Dr\. Ink](https://open.spotify.com/artist/6pwXKrHAmcTYG3t9utQko4), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Earth Vs Aliens](https://open.spotify.com/album/77wY2XzNiKp6qV11p6vh8i) | 3:46 |
 
-Snapshot ID: `ZqLnAAAAAABbKs/23R4wobFpwz1UWbhX`
+Snapshot ID: `ZqLnAAAAAAAVXlNx+uGKh/SOTHKvcGz4`

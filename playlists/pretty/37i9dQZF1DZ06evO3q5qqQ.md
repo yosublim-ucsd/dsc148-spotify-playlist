@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 
 ### [This Is Grupo Arriesgado](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3q5qqQ)
 
-> This is Grupo Arriesgado\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This Is Grupo Arriesgado\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,989 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,992 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 49 | [Corazón Ranchero \(En Vivo\)](https://open.spotify.com/track/1XFdyarYxFTBtSmB8MpILF) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. II \(En Vivo\)](https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM) | 3:41 |
 | 50 | [Don Mayo \(En vivo\)](https://open.spotify.com/track/0dosB2O1QBbPSkAw2eFSX5) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa) | 2:56 |
 
-Snapshot ID: `ZqLnAAAAAABcqf+uUVJb5b2wM2o8zBHA`
+Snapshot ID: `ZqLnAAAAAAAyF37B2Y6zbCDJfnGoLbCX`

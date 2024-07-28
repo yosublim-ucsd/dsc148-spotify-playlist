@@ -559,6 +559,22 @@
     {
       "added_at": "2024-07-15 01:57:11",
       "album": {
+        "name": "In A Sentimental Mood",
+        "url": "https://open.spotify.com/album/5asv3J7FzUV8nHAZj5wJ8y"
+      },
+      "artists": [
+        {
+          "name": "Serenity State of Mind",
+          "url": "https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ"
+        }
+      ],
+      "duration_ms": 162250,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/5TYsSSP6PIVJgFY91Pr8ZA"
+    },
+    {
+      "added_at": "2024-07-15 01:57:11",
+      "album": {
         "name": "At Ease",
         "url": "https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 294586,
       "name": "Doubts 2",
       "url": "https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn"
-    },
-    {
-      "added_at": "2024-07-15 01:57:11",
-      "album": {
-        "name": "In A Sentimental Mood",
-        "url": "https://open.spotify.com/album/5asv3J7FzUV8nHAZj5wJ8y"
-      },
-      "artists": [
-        {
-          "name": "Serenity State of Mind",
-          "url": "https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ"
-        }
-      ],
-      "duration_ms": 162250,
-      "name": "In A Sentimental Mood",
-      "url": "https://open.spotify.com/track/5TYsSSP6PIVJgFY91Pr8ZA"
     },
     {
       "added_at": "2024-07-15 01:57:11",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-07-15 01:57:11",
       "album": {
-        "name": "Rhapsody in Blue",
-        "url": "https://open.spotify.com/album/0qrqm7a77kUuX8GgttNs4p"
-      },
-      "artists": [
-        {
-          "name": "Dominick Farinacci",
-          "url": "https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB"
-        }
-      ],
-      "duration_ms": 249453,
-      "name": "Rhapsody in Blue",
-      "url": "https://open.spotify.com/track/5up8HNHkEfnK47K1H74R2F"
-    },
-    {
-      "added_at": "2024-07-15 01:57:11",
-      "album": {
         "name": "Solo Guitar",
         "url": "https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 299880,
       "name": "Send In The Clowns",
       "url": "https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY"
+    },
+    {
+      "added_at": "2024-07-15 01:57:11",
+      "album": {
+        "name": "Rhapsody in Blue",
+        "url": "https://open.spotify.com/album/0qrqm7a77kUuX8GgttNs4p"
+      },
+      "artists": [
+        {
+          "name": "Dominick Farinacci",
+          "url": "https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB"
+        }
+      ],
+      "duration_ms": 249453,
+      "name": "Rhapsody in Blue",
+      "url": "https://open.spotify.com/track/5up8HNHkEfnK47K1H74R2F"
     },
     {
       "added_at": "2024-07-15 01:57:11",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-07-15 01:57:11",
       "album": {
-        "name": "Trio 99-00",
-        "url": "https://open.spotify.com/album/2EtkrLObwfJ8cdgbJXz2lP"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny Trio",
-          "url": "https://open.spotify.com/artist/4JHW2v09dlK6Pq116CCuCy"
-        }
-      ],
-      "duration_ms": 343640,
-      "name": "Travels",
-      "url": "https://open.spotify.com/track/6juyk5UBrXxqeyPfKRvsc9"
-    },
-    {
-      "added_at": "2024-07-15 01:57:11",
-      "album": {
         "name": "Phil's Mood",
         "url": "https://open.spotify.com/album/4syA9XxPp63SXbiygEsh43"
       },
@@ -943,18 +927,18 @@
     {
       "added_at": "2024-07-15 01:57:11",
       "album": {
-        "name": "Remembering Billie",
-        "url": "https://open.spotify.com/album/2gnDlzECePgE9e07pihbYd"
+        "name": "Trio 99-00",
+        "url": "https://open.spotify.com/album/2EtkrLObwfJ8cdgbJXz2lP"
       },
       "artists": [
         {
-          "name": "Scott Hamilton",
-          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+          "name": "Pat Metheny Trio",
+          "url": "https://open.spotify.com/artist/4JHW2v09dlK6Pq116CCuCy"
         }
       ],
-      "duration_ms": 322133,
-      "name": "Good Morning Heartache",
-      "url": "https://open.spotify.com/track/14aFuIi1l2arBrZfBv9fBP"
+      "duration_ms": 343640,
+      "name": "Travels",
+      "url": "https://open.spotify.com/track/6juyk5UBrXxqeyPfKRvsc9"
     },
     {
       "added_at": "2024-07-15 01:57:11",
@@ -971,6 +955,22 @@
       "duration_ms": 77533,
       "name": "Interlude No. 3",
       "url": "https://open.spotify.com/track/0wvbb2MxlokwqSvbeoOOHv"
+    },
+    {
+      "added_at": "2024-07-15 01:57:11",
+      "album": {
+        "name": "Remembering Billie",
+        "url": "https://open.spotify.com/album/2gnDlzECePgE9e07pihbYd"
+      },
+      "artists": [
+        {
+          "name": "Scott Hamilton",
+          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+        }
+      ],
+      "duration_ms": 322133,
+      "name": "Good Morning Heartache",
+      "url": "https://open.spotify.com/track/14aFuIi1l2arBrZfBv9fBP"
     },
     {
       "added_at": "2024-07-15 01:57:11",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-07-15 01:57:11",
       "album": {
-        "name": "All Blues (CTI Records 40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5nEZ3hlaqqiQ9MQ4lFl16c"
-      },
-      "artists": [
-        {
-          "name": "Ron Carter",
-          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
-        }
-      ],
-      "duration_ms": 404026,
-      "name": "Light Blue",
-      "url": "https://open.spotify.com/track/1aScbLgIXdvopADfbla929"
-    },
-    {
-      "added_at": "2024-07-15 01:57:11",
-      "album": {
         "name": "My New Old Friend",
         "url": "https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 212640,
       "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano & Bass)",
       "url": "https://open.spotify.com/track/45QVpFPpNOYMXDbbEeZ39X"
+    },
+    {
+      "added_at": "2024-07-15 01:57:11",
+      "album": {
+        "name": "All Blues (CTI Records 40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5nEZ3hlaqqiQ9MQ4lFl16c"
+      },
+      "artists": [
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        }
+      ],
+      "duration_ms": 404026,
+      "name": "Light Blue",
+      "url": "https://open.spotify.com/track/1aScbLgIXdvopADfbla929"
     },
     {
       "added_at": "2024-07-15 01:57:11",

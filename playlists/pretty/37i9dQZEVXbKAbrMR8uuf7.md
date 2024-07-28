@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKAbrMR8uuf7.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,463 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,486 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKAbrMR8uuf7.md) - [plain]
 | 49 | [Ma Buena](https://open.spotify.com/track/0KAR1qidh5Og0JcG9Ws18A) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [B One El Productor De Oro](https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ) | [El Brujo](https://open.spotify.com/album/3URlV6ZNGUSqwbPUFD6a5G) | 2:32 |
 | 50 | [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

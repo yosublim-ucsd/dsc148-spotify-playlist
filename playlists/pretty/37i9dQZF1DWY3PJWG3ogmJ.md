@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 660,223 likes - 120 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 660,277 likes - 120 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 94 | [Of Mice and Mountains](https://open.spotify.com/track/0CwLjkdgKzMRxR0WE89Hw7) | [Dyscarnate](https://open.spotify.com/artist/6SvjnoIxcyGjkhoazemIlB) | [With All Their Might](https://open.spotify.com/album/44T2XNcei3Bq04flbhwn9I) | 4:06 |
 | 95 | [Endarkenment](https://open.spotify.com/track/3BNourqkaWoTaHoxS2LFfO) | [Anaal Nathrakh](https://open.spotify.com/artist/7vrrJ5YlL3I8XUrh1ktGJV) | [Endarkenment](https://open.spotify.com/album/5xReWyf922gGJUHZMale2w) | 3:55 |
 | 96 | [From Silence I Rise](https://open.spotify.com/track/4WDfePGxQBEiJ3pn1BWHQo) | [Alea Jacta Est](https://open.spotify.com/artist/69vv19AEt8RvpFvXZJD4W3) | [Vae Victis](https://open.spotify.com/album/0eFmpRNEXop4AgjbHhhfgm) | 2:21 |
-| 97 | [Verminous](https://open.spotify.com/track/5L00SssgkYwcf0kpeTglvW) | [The Black Dahlia Murder](https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS) | [Verminous](https://open.spotify.com/album/1oETXGGo51UKqOW4huyJjd) | 3:49 |
-| 98 | [Mayday](https://open.spotify.com/track/01yF8zxWrRNwIKbboQWXUc) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Mayday](https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi) | 3:18 |
+| 97 | [Mayday](https://open.spotify.com/track/01yF8zxWrRNwIKbboQWXUc) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Mayday](https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi) | 3:18 |
+| 98 | [Verminous](https://open.spotify.com/track/5L00SssgkYwcf0kpeTglvW) | [The Black Dahlia Murder](https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS) | [Verminous](https://open.spotify.com/album/1oETXGGo51UKqOW4huyJjd) | 3:49 |
 | 99 | [Gaining Purpose](https://open.spotify.com/track/08mIaXVJgO4LJqBbmCQXlN) | [Twitching Tongues](https://open.spotify.com/artist/3k1tPUpSlWppOSbIV1ivQy) | [Gaining Purpose Through Passionate Hatred](https://open.spotify.com/album/1odexVafvTYzG1bCxz9AiO) | 3:51 |
 | 100 | [Seeds of Hate](https://open.spotify.com/track/2PXtvjte8DxJ9uwoSRn2aH) | [Sworn Enemy](https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F) | [Gamechanger](https://open.spotify.com/album/77KrgNntpYAq3DRYXgP3rT) | 3:48 |
 | 101 | [One Day Closer to the End of the World](https://open.spotify.com/track/5Db1yq0HRGZFOARJVgLvlP) | [Cattle Decapitation](https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn) | [One Day Closer to the End of the World](https://open.spotify.com/album/5OnPLCsMC3lTchISlmzbZm) | 3:47 |

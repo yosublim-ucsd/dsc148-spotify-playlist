@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 
 ### [This Is Luis R Conriquez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0aI7Qc)
 
-> This Is Luis R Conriquez\. Sus mejores éxitos, todos en una playlist.
+> This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,379 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,527 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 49 | [Traigo El Mando](https://open.spotify.com/track/5CNlGSmdMGd13s45QZVCzV) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Traigo El Mando](https://open.spotify.com/album/4uSaOLMXunvlUMi9sTRAoa) | 3:02 |
 | 50 | [Mi Apá Es El De La M](https://open.spotify.com/track/7hzdMGOFclxcwewHmykdTm) | [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mi Apá Es El De La M](https://open.spotify.com/album/30dvj5FWvcvoieIdMvafc1) | 3:22 |
 
-Snapshot ID: `ZqLnAAAAAADnpLvaYqNnQcWZ6iai1bqI`
+Snapshot ID: `ZqLnAAAAAACeprvhq9z9cmLISz+UUZDG`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: bbno$
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,204 likes - 125 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,224 likes - 125 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

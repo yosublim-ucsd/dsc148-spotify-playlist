@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 
 ### [This Is Perdidos De Sinaloa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO407nKU)
 
-> This Is Perdidos De Sinaloa\. Los temas esenciales, todos en una lista.
+> This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,281 likes - 52 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,287 likes - 52 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 | 51 | [Un Idiota](https://open.spotify.com/track/1JUwppOYBF8S2zKGq6JDye) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Un Idiota](https://open.spotify.com/album/5DoFTiNjJxXKRIzUaiRQkG) | 2:53 |
 | 52 | [Carta Abierta \- En Vivo](https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 2:28 |
 
-Snapshot ID: `ZqLnAAAAAACA6X8lgEWy4zy6MQYlnTBf`
+Snapshot ID: `ZqLnAAAAAABd6C5ZIS6bOUR5Dhfvpz5q`

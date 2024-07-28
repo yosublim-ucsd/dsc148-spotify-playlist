@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 
 ### [This Is Rancid](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3RKLw4)
 
-> This is Rancid\. The essential tracks, all in one playlist.
+> This Is Rancid\. Les titres incontournables, réunis dans une seule et même playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,745 likes - 50 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,751 likes - 50 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 | 49 | [I'm Not The Only One](https://open.spotify.com/track/0hQsjOwKenWlkf1ND67pfn) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid](https://open.spotify.com/album/4ptHCnj9ZvHibMqdPFx5Bt) | 2:45 |
 | 50 | [Disconnected](https://open.spotify.com/track/6m4HKtDDwzVHdZAW6GMNdH) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let The Dominoes Fall \(Expanded Version\)](https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93) | 2:00 |
 
-Snapshot ID: `ZqLnAAAAAABfkENLdNOcBOuywl8RgCbS`
+Snapshot ID: `ZqLnAAAAAACWffU5oPgLZwO55knUVW2Q`

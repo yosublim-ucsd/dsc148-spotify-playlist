@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: KARA\(카라\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,790 likes - 57 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,759 likes - 57 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 42 | [Diamond](https://open.spotify.com/track/4SjL5rKPVxe2K2FnjluuVa) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [Diamond](https://open.spotify.com/album/5MM3zQXvFmpTBDe45rVida) | 3:03 |
 | 43 | [Wish You Hell](https://open.spotify.com/track/1zC3wpW5qU7n6KVrBlbAah) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/4TqtE79sLslimmr8XujDAD) | 2:50 |
 | 44 | [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 |
-| 45 | [Shooting Star](https://open.spotify.com/track/6iINhMZAsZltmpyVWDanfk) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1going On](https://open.spotify.com/album/0hiqhyNqW4ZtH8qUZIAewI) | 3:03 |
-| 46 | [BLUSH](https://open.spotify.com/track/0SheD3EFngYkmaDnjDuMd2) | [WOOAH](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [BLUSH](https://open.spotify.com/album/6wwhS7RzJx0qQS9SOeohZe) | 2:58 |
+| 45 | [BLUSH](https://open.spotify.com/track/0SheD3EFngYkmaDnjDuMd2) | [WOOAH](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [BLUSH](https://open.spotify.com/album/6wwhS7RzJx0qQS9SOeohZe) | 2:58 |
+| 46 | [Shooting Star](https://open.spotify.com/track/6iINhMZAsZltmpyVWDanfk) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1going On](https://open.spotify.com/album/0hiqhyNqW4ZtH8qUZIAewI) | 3:03 |
 | 47 | [SCIENTIST](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:14 |
 | 48 | [\#menow](https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Unlock My World](https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9) | 2:49 |
 | 49 | [BAAM](https://open.spotify.com/track/4Is1b37KJY9XVCgzp81FBW) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Fun to The World](https://open.spotify.com/album/75dkh8s39e7txjNe9cODH3) | 3:28 |

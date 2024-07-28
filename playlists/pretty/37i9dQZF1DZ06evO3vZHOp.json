@@ -1,12 +1,12 @@
 {
-  "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 339744,
+  "description": "This Is Eladio Carrion. Los temas esenciales, todos en una lista.",
+  "num_followers": 339774,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqLnAAAAAACfAc3mXx05R8aieD6uWhLy",
+  "snapshot_id": "ZqLnAAAAAABbS18ykUWPDnldwHtdUSEr",
   "tracks": [
     {
       "added_at": null,
@@ -51,26 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 216338,
-      "name": "Hey Lil Mama",
-      "url": "https://open.spotify.com/track/5QtB74eCS2YzHvEfSlh8MG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sauce Boyz",
         "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
       },
@@ -87,6 +67,26 @@
       "duration_ms": 208236,
       "name": "3 Am",
       "url": "https://open.spotify.com/track/1F205Nl2feOSYSztLNOJAL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 216338,
+      "name": "Hey Lil Mama",
+      "url": "https://open.spotify.com/track/5QtB74eCS2YzHvEfSlh8MG"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Porque Puedo",
-        "url": "https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 144016,
-      "name": "Don KBRN Freestyle",
-      "url": "https://open.spotify.com/track/4y6avDOMg27PS7n71aOZZB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Salgo a Buscarte",
         "url": "https://open.spotify.com/album/5mHoWx0yEHgj4Gm5jAzdHV"
       },
@@ -731,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 209655,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FUMETEO (Remix)",
         "url": "https://open.spotify.com/album/2RS7DIwtcaoDue6Rcg6PGD"
       },
@@ -771,6 +735,42 @@
       "duration_ms": 214880,
       "name": "FUMETEO - Remix",
       "url": "https://open.spotify.com/track/4sIVl8rmGPDemhnod4JID3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 209655,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Porque Puedo",
+        "url": "https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 144016,
+      "name": "Don KBRN Freestyle",
+      "url": "https://open.spotify.com/track/4y6avDOMg27PS7n71aOZZB"
     },
     {
       "added_at": null,

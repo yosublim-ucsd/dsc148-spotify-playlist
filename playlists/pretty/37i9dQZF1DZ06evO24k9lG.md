@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24k9lG.md) - [plain]
 
 ### [This Is Binomio de Oro de América](https://open.spotify.com/playlist/37i9dQZF1DZ06evO24k9lG)
 
-> This is Binomio de Oro de América\. The essential tracks, all in one playlist.
+> This Is Binomio de Oro de América\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,450 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,462 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24k9lG.md) - [plain]
 | 49 | [Acuerdate De Mi](https://open.spotify.com/track/4A8lkKChFBIOniZvmhD0mD) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE) | 4:49 |
 | 50 | [Dime Quien](https://open.spotify.com/track/0kcsEbRnHAF3cr8uJneW84) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Todo Corazón](https://open.spotify.com/album/6IJ6INX6TF29ZLLCXLpfbD) | 4:02 |
 
-Snapshot ID: `ZqLnAAAAAADouIawX5+4sKSHDV/xIsRh`
+Snapshot ID: `ZqLnAAAAAABf0QRXEkMjYCZLooqY1p/P`

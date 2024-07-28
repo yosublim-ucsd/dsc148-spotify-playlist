@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 
 ### [This Is AWOLNATION](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2yLRw4)
 
-> This Is AWOLNATION\. Los temas esenciales, todos en una lista.
+> This is AWOLNATION\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,939 likes - 52 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,942 likes - 52 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 | 51 | [Flagpole Sitta \(feat\. Elohim\)](https://open.spotify.com/track/5KcdcUuL8YI3PqeQIvJj2H) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 4:09 |
 | 52 | [Swinging from the Castles](https://open.spotify.com/track/6Vr85PSTw31QO9lplFapFL) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 3:02 |
 
-Snapshot ID: `ZqLnAAAAAAAZR0PZFW4Ore4jIOqzupQZ`
+Snapshot ID: `ZqLnAAAAAAAymk7nUt564eFRMU2B+4AK`

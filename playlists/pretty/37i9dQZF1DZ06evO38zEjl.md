@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38zEjl.md) - [plain]
 
 ### [This Is Jon Hassell](https://open.spotify.com/playlist/37i9dQZF1DZ06evO38zEjl)
 
-> This is Jon Hassell\. The essential tracks, all in one playlist.
+> This Is Jon Hassell\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,041 likes - 51 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,042 likes - 51 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38zEjl.md) - [plain]
 | 50 | [Passage D.E.](https://open.spotify.com/track/20CaaX6tsB7XeuThOZjNgk) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 5:25 |
 | 51 | [Kaboo \(Play\)](https://open.spotify.com/track/2TdwrQYsa1eTOH1R5NeZHX) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Farafina](https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL) | [Flash of the Spirit](https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0) | 2:54 |
 
-Snapshot ID: `ZqLnAAAAAADcwnCeoqNx15CpkN2dOrkl`
+Snapshot ID: `ZqLnAAAAAADEQIJffwpWGGHD/RJ3J41D`

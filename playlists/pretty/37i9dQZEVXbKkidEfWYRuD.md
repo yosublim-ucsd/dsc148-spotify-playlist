@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKkidEfWYRuD.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,375 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,380 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKkidEfWYRuD.md) - [plain]
 | 49 | [Хризантеми](https://open.spotify.com/track/2ZwNgWo1U0PLbzFCYMNPTW) | [анастимоза](https://open.spotify.com/artist/387gWxnXhGdDQFO7Ld3mLZ) | [Хризантеми](https://open.spotify.com/album/6pHum88f6JOO8QxkpBU5Bv) | 2:56 |
 | 50 | [ЗА ТЕРИКОНАМИ](https://open.spotify.com/track/4IXr5Feku5VAryvp1QFEpB) | [Мюслі UA](https://open.spotify.com/artist/2QlTrbyPWbGWNmeDCp7QNR), [MISHA SCORPION](https://open.spotify.com/artist/7qUUu0SIH6JhGNSM1QwJsE) | [ЗА ТЕРИКОНАМИ](https://open.spotify.com/album/6jyifzmU6bzMY15qfCRyUj) | 2:50 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

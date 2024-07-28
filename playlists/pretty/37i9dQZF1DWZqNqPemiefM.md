@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,746 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,748 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 89 | [Crystal Dub](https://open.spotify.com/track/0fTb6kDRyOe2dMK8HlexfB) | [Hiroshi Fujiwara](https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt) | [Hiroshi Fujiwara Best](https://open.spotify.com/album/1RPBrnkifhQLHBI1JCAmgF) | 4:32 |
 | 90 | [SHORT ROMANCE](https://open.spotify.com/track/5saTw0QYc3AEcZyfz7mPI3) | [Shigeru Suzuki](https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z) | [SUNSET LIGHT COCKTAIL](https://open.spotify.com/album/7ygVmOlw4hWHilxCvlfe1K) | 1:22 |
 | 91 | [Of Mystic Dreams](https://open.spotify.com/track/3dtTmuaWc0EcnnZK63CzSq) | [Chari Chari](https://open.spotify.com/artist/4MJT57L7RMCvSvg2GjU0wQ) | [We hear the last decades dreaming](https://open.spotify.com/album/55v2rPWFhanCrbVNytkTmT) | 6:26 |
-| 92 | [True Life Again](https://open.spotify.com/track/7h3Jac9a1L6S745rl0mC59) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [True Life](https://open.spotify.com/album/5yE9lcwFUv5i7pvfNm7EGm) | 3:55 |
-| 93 | [oto](https://open.spotify.com/track/5RbyOEJsxOVIOGUk1sxX6j) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [cendre](https://open.spotify.com/album/4PnuHl4d1rzQ8lsqxAfB6H) | 3:48 |
+| 92 | [oto](https://open.spotify.com/track/5RbyOEJsxOVIOGUk1sxX6j) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [cendre](https://open.spotify.com/album/4PnuHl4d1rzQ8lsqxAfB6H) | 3:48 |
+| 93 | [True Life Again](https://open.spotify.com/track/7h3Jac9a1L6S745rl0mC59) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [True Life](https://open.spotify.com/album/5yE9lcwFUv5i7pvfNm7EGm) | 3:55 |
 | 94 | [KI\-KI\-KI](https://open.spotify.com/track/7C7nnQSwudlE7K7zKVks0b) | [Midori Takada](https://open.spotify.com/artist/3fuab64Hf1xiRGocX1sT1n) | [MSCTY X V&A Dundee](https://open.spotify.com/album/75SHGWcZLS9bpcCB3kgIEe) | 13:39 |
 | 95 | [Slowly Diving](https://open.spotify.com/track/19RiT2dZ8TkHvL6cPaFP1A) | [Takuro Okada](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm), [葛西敏彦](https://open.spotify.com/artist/2lDaAvUzZP2ux1i12xuH6Y), [香田 悠真](https://open.spotify.com/artist/6VzrikesByN5Ogb8A67n47) | [To Waters of Lethe](https://open.spotify.com/album/5bbc9oYHs1OcOVrc6pwC1g) | 4:20 |
 | 96 | [Zhan\-ti\-sui Temple](https://open.spotify.com/track/0aOmAlujBbTmbnMrxy0iwk) | [Utena Kobayashi](https://open.spotify.com/artist/3JU5NOb3kKE7xffuEn7udg) | [6 roads](https://open.spotify.com/album/0wvuqxZa7jZHv4N57qbJih) | 4:14 |

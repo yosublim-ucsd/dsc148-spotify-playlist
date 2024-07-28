@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14358,
+  "num_followers": 14357,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
+        "name": "Horyzont Zdarze\u0144",
+        "url": "https://open.spotify.com/album/5JqsTZOSxsihfzsaACeNyE"
+      },
+      "artists": [
+        {
+          "name": "CARNAL",
+          "url": "https://open.spotify.com/artist/4yquXnzIaiXlaAM1IwrFoN"
+        },
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        }
+      ],
+      "duration_ms": 288922,
+      "name": "Czas Nie Leczy Ran",
+      "url": "https://open.spotify.com/track/7ASf5D6jl1WR0nZZCqXLJj"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
         "name": "Narkotyki",
         "url": "https://open.spotify.com/album/3stYIijAh28k8QMDeNwynp"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 210346,
       "name": "Alkohol i mi\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/1R3qRNzMhOlXux9vQzEdY5"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
-        "name": "Horyzont Zdarze\u0144",
-        "url": "https://open.spotify.com/album/5JqsTZOSxsihfzsaACeNyE"
-      },
-      "artists": [
-        {
-          "name": "CARNAL",
-          "url": "https://open.spotify.com/artist/4yquXnzIaiXlaAM1IwrFoN"
-        },
-        {
-          "name": "Krzysztof Zalewski",
-          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
-        }
-      ],
-      "duration_ms": 288922,
-      "name": "Czas Nie Leczy Ran",
-      "url": "https://open.spotify.com/track/7ASf5D6jl1WR0nZZCqXLJj"
     },
     {
       "added_at": "2024-03-25 08:52:09",

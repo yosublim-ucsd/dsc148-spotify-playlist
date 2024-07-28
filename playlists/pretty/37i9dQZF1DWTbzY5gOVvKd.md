@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,230,766 likes - 98 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,230,857 likes - 98 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 80 | [Moon River](https://open.spotify.com/track/3azuowB4mADwvYCumctRrs) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [Moon River](https://open.spotify.com/album/74jc00Z1FUzeVzXzu6CvUa) | 5:10 |
 | 81 | [Photograph](https://open.spotify.com/track/0yKhFtDzzxV1t0VpM37uLp) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [I Know I Dream : The Orchestral Sessions \(Deluxe Version\)](https://open.spotify.com/album/053FwZ4XD8d2xY2GhMB9sH) | 6:07 |
 | 82 | [Deep in a Dream](https://open.spotify.com/track/0QR4BgqJvmtqQH7OoTQWIJ) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [My Funny Valentine: The Chet Baker Songbook](https://open.spotify.com/album/3AMHrE4rMoeNdtjS6s7zIY) | 4:05 |
-| 83 | [The Very Thought Of You](https://open.spotify.com/track/0pc5TOv8jxVxI57rGvlqay) | [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS) | [Homefree](https://open.spotify.com/album/6COf6f8aKjM6GiBhi1LH5O) | 6:01 |
-| 84 | [A Sunday Kind Of Love](https://open.spotify.com/track/27zwk7cQ2s6sM3tiYgGVsF) | [Ruth Cameron](https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v) | [Roadhouse](https://open.spotify.com/album/1GHLXZszNeMFgHiolSg50f) | 4:52 |
+| 83 | [A Sunday Kind Of Love](https://open.spotify.com/track/27zwk7cQ2s6sM3tiYgGVsF) | [Ruth Cameron](https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v) | [Roadhouse](https://open.spotify.com/album/1GHLXZszNeMFgHiolSg50f) | 4:52 |
+| 84 | [The Very Thought Of You](https://open.spotify.com/track/0pc5TOv8jxVxI57rGvlqay) | [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS) | [Homefree](https://open.spotify.com/album/6COf6f8aKjM6GiBhi1LH5O) | 6:01 |
 | 85 | [For All We Know](https://open.spotify.com/track/2nixpMsReC7Pwwfanpk7IZ) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [For All We Know](https://open.spotify.com/album/7ox83NOG8GAo9qGavP8aQb) | 2:53 |
 | 86 | [Our Love Is Here To Stay](https://open.spotify.com/track/1BuHbtYFgSaV99PFPBZEkW) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Unforgettable: With Love](https://open.spotify.com/album/78qajwwkI8eOt1DrnUOtuL) | 3:29 |
 | 87 | [Moonlight Serenade](https://open.spotify.com/track/3xXrF1nomzDLLMngfZNmKw) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Flirting With Twilight](https://open.spotify.com/album/0eMgf6ydxMDMjoSQXDyQwn) | 4:22 |

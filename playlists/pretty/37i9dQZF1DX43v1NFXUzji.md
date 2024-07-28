@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43v1NFXUzji.md) - [plain]
 
 > Latin music bangers for your gaming session! Milo J on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,480 likes - 150 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,462 likes - 150 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

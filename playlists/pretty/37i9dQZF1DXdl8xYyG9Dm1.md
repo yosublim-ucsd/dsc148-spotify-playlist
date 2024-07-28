@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: ODUMODUBLVCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,302 likes - 66 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,317 likes - 66 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

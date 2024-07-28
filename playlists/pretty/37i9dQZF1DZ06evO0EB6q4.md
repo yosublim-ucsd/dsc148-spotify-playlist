@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 
 ### [This Is Nanpa Básico](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0EB6q4)
 
-> This Is Nanpa Básico\. Los temas esenciales, todos en una lista.
+> This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,304 likes - 52 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,339 likes - 52 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 51 | [Pa' Que Mami No Llore](https://open.spotify.com/track/0R2afZhhIkljgXj9BcGK7D) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [Pa' Que Mami No Llore](https://open.spotify.com/album/2jCTuHgAwxIYmBr8k5WVt8) | 3:51 |
 | 52 | [Cuidado en Quien Confias](https://open.spotify.com/track/34LnKrUc7W3N9zqrdPtts3) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Cualquier Parecido con La Realidad](https://open.spotify.com/album/1fWIXSbLLG41HN0WFdkjGb) | 4:33 |
 
-Snapshot ID: `ZqLnAAAAAABVa03NGp6R8dGUSLRhmNxi`
+Snapshot ID: `ZqLnAAAAAACLIa62ZMrM3nGEP0ippkci`

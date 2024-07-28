@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/625Qzz0OJmeDpIbOZwjf8G">Gustavo Cerati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,695 likes - 115 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,694 likes - 115 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 114 | [Caravana](https://open.spotify.com/track/7xlM9YL6XDJpMhFdgRxftR) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 4:18 |
 | 115 | [Ameba](https://open.spotify.com/track/3ECr0mjuB8aN7IIlRIRlsA) | [BLACK NOUGAT](https://open.spotify.com/artist/5LkcF1aQUBHs2rJp07DBlC) | [Some Argie Rock](https://open.spotify.com/album/18NMhBWcnzfTXyNrg12Yju) | 4:27 |
 
-Snapshot ID: `AbXz8AAAAADxA1gIuXdntr2UegbPFg0v`
+Snapshot ID: `AbX2SAAAAAAA5loM69Dz2pDdL6Da+2s/`

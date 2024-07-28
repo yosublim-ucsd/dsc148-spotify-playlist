@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 
 ### [This Is Brandi Carlile](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1poioV)
 
-> This is Brandi Carlile\. Tutti i brani in un'unica playlist.
+> This is Brandi Carlile\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,288 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,293 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 | 49 | [Late Morning Lullaby](https://open.spotify.com/track/3vhaMxyoEBA0WhBXWIP3b6) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Story](https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h) | 3:27 |
 | 50 | [Dear Insecurity \(feat\. Brandi Carlile\)](https://open.spotify.com/track/73pCLjhGOv4J7IpAPj4D84) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Brandy Clark](https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg) | 4:36 |
 
-Snapshot ID: `ZqLnAAAAAABOqdI4MteYKntnpmSDjy6E`
+Snapshot ID: `ZqLnAAAAAADQCuHAJswoBEGATpiUr+su`

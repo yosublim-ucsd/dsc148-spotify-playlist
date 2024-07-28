@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJU9eQpX8gPT.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,223 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,263 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJU9eQpX8gPT.md) - [plain]
 | 49 | [Daba Daba](https://open.spotify.com/track/15fXeiSQQLMVoHngb3zmOo) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc), [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Daba Daba](https://open.spotify.com/album/2Imksx0mXReQkBWlhifU5s) | 2:42 |
 | 50 | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

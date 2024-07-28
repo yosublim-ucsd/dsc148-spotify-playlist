@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > longe dos perigos noturnos
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,975 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,002 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 82 | [Chocolate Covered Strawberries](https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Chocolate Covered Strawberries](https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb) | 4:10 |
 | 83 | [No Pussy For Losers](https://open.spotify.com/track/5VDF6rpkDLlbmB8Vf8sxea) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [New Growth](https://open.spotify.com/album/5FqqxmI6py4VQuCDCvGFJO) | 2:57 |
 | 84 | [Pain](https://open.spotify.com/track/51Q4Pn44Ys7D8GCNzVLDmg) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Pain](https://open.spotify.com/album/69Ke0HAzE1LmRKssAojkwN) | 2:33 |
-| 85 | [Ready](https://open.spotify.com/track/1hWi7x6YYkpCt6aRlC2r6R) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Ready](https://open.spotify.com/album/4VEmS1AQqFKNhCCtmp2R0E) | 3:01 |
-| 86 | [You Got One](https://open.spotify.com/track/1aHOxnrpKtdNonDJKI73qb) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [You Got One](https://open.spotify.com/album/4wK80fjjoENNScObJowugB) | 3:25 |
+| 85 | [You Got One](https://open.spotify.com/track/1aHOxnrpKtdNonDJKI73qb) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [You Got One](https://open.spotify.com/album/4wK80fjjoENNScObJowugB) | 3:25 |
+| 86 | [Ready](https://open.spotify.com/track/1hWi7x6YYkpCt6aRlC2r6R) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Ready](https://open.spotify.com/album/4VEmS1AQqFKNhCCtmp2R0E) | 3:01 |
 | 87 | [Love and Be Loved](https://open.spotify.com/track/48Zho9HnU486cLIOYegCBI) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX), [Aaron Ridge](https://open.spotify.com/artist/4bWvbNOmiWoUo3TKap75z1) | [Love and Be Loved](https://open.spotify.com/album/1JdumfPmZjNT9Efr35Wc7a) | 3:27 |
 | 88 | [Glad I Found You](https://open.spotify.com/track/2ShpBw0zpxdnclk7gv8eHY) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/42Y6YSyOePyAXG0QlOJylw) | 2:15 |
 | 89 | [Nothing Even Matters](https://open.spotify.com/track/3xhXKRGahWzcXF8rD5gUvd) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3) | 5:50 |

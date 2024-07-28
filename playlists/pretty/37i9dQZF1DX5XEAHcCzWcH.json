@@ -1,6 +1,6 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 39087,
+  "num_followers": 39100,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Harmonica Blues 101",
-        "url": "https://open.spotify.com/album/3mhh16bqaJxngVNRggEOv5"
-      },
-      "artists": [
-        {
-          "name": "Eddie Boyd",
-          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
-        }
-      ],
-      "duration_ms": 236733,
-      "name": "Lovesick Soul",
-      "url": "https://open.spotify.com/track/2blk7UNYuh9vaXPvaGwK2X"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
         "name": "Dreaming The Blues: The Best Of Charlie Spand",
         "url": "https://open.spotify.com/album/7hBy7gNE6ilG7drOEx2g4q"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 195746,
       "name": "Hastings St.",
       "url": "https://open.spotify.com/track/1XKAKEHIyELpnsZpFhxVhG"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
+        "name": "Harmonica Blues 101",
+        "url": "https://open.spotify.com/album/3mhh16bqaJxngVNRggEOv5"
+      },
+      "artists": [
+        {
+          "name": "Eddie Boyd",
+          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
+        }
+      ],
+      "duration_ms": 236733,
+      "name": "Lovesick Soul",
+      "url": "https://open.spotify.com/track/2blk7UNYuh9vaXPvaGwK2X"
     },
     {
       "added_at": "2024-05-30 16:22:42",

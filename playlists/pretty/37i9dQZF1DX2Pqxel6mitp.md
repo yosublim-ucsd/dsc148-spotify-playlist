@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 
 > A cup of Joe and the raw Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,697 likes - 120 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,709 likes - 120 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 | 112 | [Lee’s Blues](https://open.spotify.com/track/5JgTwbPuqCCKV6wfTeNT2L) | [Oliver Darling](https://open.spotify.com/artist/5wU74VdLtnvreTbydFZg6f) | [Lee's Blues](https://open.spotify.com/album/1nGxSeKWJlbUgOERip9lIA) | 2:54 |
 | 113 | [Mr\. Highway Man](https://open.spotify.com/track/2mGcByWICVJC9QHcmaagAe) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [The Blues Is Here to Stay, 1947 \- 1959](https://open.spotify.com/album/1MjCiAzSTe317Kl53b8qxY) | 3:09 |
 | 114 | [Bad Bad Girl \(feat\. Johnny Burgin\)](https://open.spotify.com/track/2V5Fx3mdZguMkGtHNXSbig) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv), [Johnny Burgin](https://open.spotify.com/artist/3TO16L9G6h4sLM74SMoGB5) | [Porch Sessions, Vol\. 2](https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI) | 3:24 |
-| 115 | [Cross Creek Road](https://open.spotify.com/track/6sfZbIO4O4BtgE0mJ20zFg) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Neckbone Stew](https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb) | 3:01 |
-| 116 | [Palace Blues](https://open.spotify.com/track/2B2c62iP8ZGSZofMoQFP4M) | [Curtis Jones](https://open.spotify.com/artist/57dYeOpw946Lqe0B4ILs4m) | [Black Gypsy Blues](https://open.spotify.com/album/4dm4M7W7RH1HH6vPwsONUH) | 2:56 |
+| 115 | [Palace Blues](https://open.spotify.com/track/2B2c62iP8ZGSZofMoQFP4M) | [Curtis Jones](https://open.spotify.com/artist/57dYeOpw946Lqe0B4ILs4m) | [Black Gypsy Blues](https://open.spotify.com/album/4dm4M7W7RH1HH6vPwsONUH) | 2:56 |
+| 116 | [Cross Creek Road](https://open.spotify.com/track/6sfZbIO4O4BtgE0mJ20zFg) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Neckbone Stew](https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb) | 3:01 |
 | 117 | [Outside \(featuring Lamar Williams Jr.\)](https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Set Sail](https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF) | 4:58 |
 | 118 | [Mystery Woman](https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [Come to Find](https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd) | 5:01 |
 | 119 | [Going To Chicago](https://open.spotify.com/track/2sxwR4yGCYUznXqgewA4Le) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime](https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl) | 3:50 |

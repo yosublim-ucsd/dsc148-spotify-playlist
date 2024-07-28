@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIQnj7RRhdSX.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Italy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,072,213 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,072,276 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIQnj7RRhdSX.md) - [plain]
 | 49 | [BIKINI \(feat\. Guè\)](https://open.spotify.com/track/1qexrlq05Ak4NCthyLOhbd) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 1:59 |
 | 50 | [sMash](https://open.spotify.com/track/6fRjGxXJm2Jvkn8gbGvDK9) | [yungest Moonstar](https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [sFaCioLaTe miXTaPe](https://open.spotify.com/album/7qj8awQvM423Uvc0VpxtXq) | 1:51 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

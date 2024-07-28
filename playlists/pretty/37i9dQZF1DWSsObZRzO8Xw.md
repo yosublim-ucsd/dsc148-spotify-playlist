@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 
 > Complex rhythms and mesmerizing loops\. Cover: Stegosauro
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,111 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,142 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bubble Dream](https://open.spotify.com/track/0mnyjCNu9XUi5dv0JD3UqM) | [Chon](https://open.spotify.com/artist/2JFljHPanIjYy2QqfNYvC0) | [Newborn Sun](https://open.spotify.com/album/6gDHF6BrncxR8UlIuvfUpT) | 2:52 |
-| 2 | [Athens, France](https://open.spotify.com/track/4gb6bKMg61GGfbhPTifP8A) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [For the first time](https://open.spotify.com/album/2PfgptDcfJTFtoZIS3AukX) | 6:22 |
+| 1 | [Athens, France](https://open.spotify.com/track/4gb6bKMg61GGfbhPTifP8A) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [For the first time](https://open.spotify.com/album/2PfgptDcfJTFtoZIS3AukX) | 6:22 |
+| 2 | [Bubble Dream](https://open.spotify.com/track/0mnyjCNu9XUi5dv0JD3UqM) | [Chon](https://open.spotify.com/artist/2JFljHPanIjYy2QqfNYvC0) | [Newborn Sun](https://open.spotify.com/album/6gDHF6BrncxR8UlIuvfUpT) | 2:52 |
 | 3 | [Bar Sport](https://open.spotify.com/track/0PD9azht6O41WQRG4TrjXs) | [Stegosauro](https://open.spotify.com/artist/2XKNxYjB1IkZfmQIUnTi5R) | [Scherzo Eterno](https://open.spotify.com/album/0DKGfiSJHH4rwwxOe389As) | 3:00 |
 | 4 | [The Detail](https://open.spotify.com/track/1ExXxnndA4qMDA0SK8KnLM) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [Spring Island](https://open.spotify.com/album/4JeLdGuCEO9SF9SnFa9LBh) | 4:29 |
 | 5 | [Deep Inside](https://open.spotify.com/track/1jDOObnZ18kkIqZAFIv1j1) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [STRATA \(Preview\)](https://open.spotify.com/album/6qppQkSHafK4PIhHEiwetT) | 4:09 |

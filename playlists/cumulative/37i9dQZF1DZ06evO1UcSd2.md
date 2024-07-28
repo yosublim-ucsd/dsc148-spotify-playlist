@@ -2,7 +2,7 @@
 
 ### [This Is Lenin Ramírez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1UcSd2)
 
-> This Is Lenin Ramírez\. Los temas esenciales, todos en una lista.
+> This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
 106 songs - 5 hr 29 min
 

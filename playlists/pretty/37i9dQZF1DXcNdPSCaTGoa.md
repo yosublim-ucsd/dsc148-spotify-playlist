@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Celebrating 10 years of <a href="https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW?si=Mz0GoCLoQ7\-LwD95Qaea4A">AKA's</a> phenomenal "LEVELS".
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,331 likes - 60 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,348 likes - 60 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

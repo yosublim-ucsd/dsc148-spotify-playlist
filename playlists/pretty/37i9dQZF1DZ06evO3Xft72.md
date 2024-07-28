@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 
 ### [This Is Def Leppard](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Xft72)
 
-> This is Def Leppard\. The essential tracks, all in one playlist.
+> This Is Def Leppard\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,240 likes - 51 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,253 likes - 51 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 | 50 | [I Wanna Touch U](https://open.spotify.com/track/3P0dOhy7Vz9KIub2Ay1b2x) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize](https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw) | 3:37 |
 | 51 | [Dangerous](https://open.spotify.com/track/3o49Lb4VSVmuT0yzLYuxHo) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Def Leppard](https://open.spotify.com/album/2GpOJTgMzlHlqIREzGh7he) | 3:26 |
 
-Snapshot ID: `ZqLnAAAAAABjFEcDF5EdASGbyr4DV2Jc`
+Snapshot ID: `ZqLnAAAAAADkSLtxhAZAtoALD2vQdG8a`

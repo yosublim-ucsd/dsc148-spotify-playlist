@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 
 > Mellow songs from the 1960s\. Cover: Etta James
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,277 likes - 150 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,362 likes - 150 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,18 +145,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 135 | [The Weight \- Remastered](https://open.spotify.com/track/0sDqo9UPzPUtu9wEkI3zRB) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Expanded Edition\)](https://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk) | 4:38 |
 | 136 | [Words](https://open.spotify.com/track/6oEyQSER3TyW92IJm61Fzk) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [The Ultimate Bee Gees](https://open.spotify.com/album/6PM8QzSc6FXrL11UwDfdI1) | 3:17 |
 | 137 | [Somethin' Stupid](https://open.spotify.com/track/3cVWNLd0uEHkc2tnBoE3Ay) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [The World We Knew](https://open.spotify.com/album/00vMwG6tYLzcwXgwvzlzyK) | 2:42 |
-| 138 | [It's A Man's, Man's, Man's World](https://open.spotify.com/track/6AIB4vBOGWM4FJ65yNWaXu) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [20 All\-Time Greatest Hits!](https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s) | 2:47 |
+| 138 | [You Don't Own Me](https://open.spotify.com/track/5E1pngWasYW2Y6OjV6WMUs) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/0dfUGbWBn7pyc1npqyKOj1) | 2:30 |
 | 139 | [Come Together \- Remastered](https://open.spotify.com/track/0MKqeOVdZcUFGJvWpGCKbG) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd) | 4:19 |
-| 140 | [You Don't Own Me](https://open.spotify.com/track/5E1pngWasYW2Y6OjV6WMUs) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/0dfUGbWBn7pyc1npqyKOj1) | 2:30 |
-| 141 | [A Change Is Gonna Come](https://open.spotify.com/track/0RFKuagqUgR4X8C1QneCCq) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News \(Remastered\)](https://open.spotify.com/album/7p4RmcYD3dBOLmcIV2oxFG) | 3:11 |
-| 142 | [Hey Paula](https://open.spotify.com/track/50tTePJn69dlpGxVfWWHWM) | [Paul & Paula](https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98) | [Lo Mejor de los Años 60, Vol\. 3 Pop](https://open.spotify.com/album/4Ur0tcSMVhS723Q19yodPK) | 2:32 |
+| 140 | [Honey](https://open.spotify.com/track/7KkmPCj7Eh9tCD7bF5H2yh) | [Bobby Goldsboro](https://open.spotify.com/artist/5gPEo032lzARtzuVqJIm9o) | [This Is..\. 1968](https://open.spotify.com/album/4ThbPOaSGQqqsn5FRKBX5i) | 4:01 |
+| 141 | [Can't Help Falling In Love](https://open.spotify.com/track/6sE53f6saWW6AwB5V8Z47U) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra](https://open.spotify.com/album/3hnTlNIWecT7V0IkxWHeqS) | 3:18 |
+| 142 | [It's A Man's, Man's, Man's World](https://open.spotify.com/track/6AIB4vBOGWM4FJ65yNWaXu) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [20 All\-Time Greatest Hits!](https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s) | 2:47 |
 | 143 | [I Wish It Would Rain](https://open.spotify.com/track/6ePg7Gsej17RfQQKjsY0rf) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Wish It Would Rain](https://open.spotify.com/album/5HSjEEA5qggoxsLJzxtQty) | 2:42 |
-| 144 | [Strangers In The Night](https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Strangers In The Night \(Expanded Edition\)](https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv) | 2:37 |
-| 145 | [Can't Help Falling In Love](https://open.spotify.com/track/6sE53f6saWW6AwB5V8Z47U) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra](https://open.spotify.com/album/3hnTlNIWecT7V0IkxWHeqS) | 3:18 |
-| 146 | [What Becomes Of The Brokenhearted](https://open.spotify.com/track/7Bvap2GAW2DAyZ7EVUJpMO) | [Jimmy Ruffin](https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy) | [Greatest Motown Hits](https://open.spotify.com/album/0OA94DlliFxpfYOptv1rNS) | 2:55 |
-| 147 | [My Cherie Amour](https://open.spotify.com/track/6Udg88zGCFc2xA9M4EavzH) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [My Cherie Amour](https://open.spotify.com/album/5LkcwHaOv2jNRuC7cGbnoF) | 2:53 |
-| 148 | [Honey](https://open.spotify.com/track/7KkmPCj7Eh9tCD7bF5H2yh) | [Bobby Goldsboro](https://open.spotify.com/artist/5gPEo032lzARtzuVqJIm9o) | [This Is..\. 1968](https://open.spotify.com/album/4ThbPOaSGQqqsn5FRKBX5i) | 4:01 |
-| 149 | [It Was A Very Good Year](https://open.spotify.com/track/2MAMKyVDaei008snxzXzT8) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [September Of My Years \(Expanded Edition\)](https://open.spotify.com/album/4R7TQJ3SZGpbTV8kSq6POA) | 4:27 |
-| 150 | [Massachusetts \(2008 Remastered LP Version\)](https://open.spotify.com/track/1mBPlknQe00PCd7R9g34ix) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Best Of Bee Gees, Vol\. 1](https://open.spotify.com/album/0YD5pkRnCzXeCM2z8YlvjU) | 2:25 |
+| 144 | [A Change Is Gonna Come](https://open.spotify.com/track/0RFKuagqUgR4X8C1QneCCq) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News \(Remastered\)](https://open.spotify.com/album/7p4RmcYD3dBOLmcIV2oxFG) | 3:11 |
+| 145 | [Strangers In The Night](https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Strangers In The Night \(Expanded Edition\)](https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv) | 2:37 |
+| 146 | [Hey Paula](https://open.spotify.com/track/50tTePJn69dlpGxVfWWHWM) | [Paul & Paula](https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98) | [Lo Mejor de los Años 60, Vol\. 3 Pop](https://open.spotify.com/album/4Ur0tcSMVhS723Q19yodPK) | 2:32 |
+| 147 | [What Becomes Of The Brokenhearted](https://open.spotify.com/track/7Bvap2GAW2DAyZ7EVUJpMO) | [Jimmy Ruffin](https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy) | [Greatest Motown Hits](https://open.spotify.com/album/0OA94DlliFxpfYOptv1rNS) | 2:55 |
+| 148 | [My Cherie Amour](https://open.spotify.com/track/6Udg88zGCFc2xA9M4EavzH) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [My Cherie Amour](https://open.spotify.com/album/5LkcwHaOv2jNRuC7cGbnoF) | 2:53 |
+| 149 | [Massachusetts \(2008 Remastered LP Version\)](https://open.spotify.com/track/1mBPlknQe00PCd7R9g34ix) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Best Of Bee Gees, Vol\. 1](https://open.spotify.com/album/0YD5pkRnCzXeCM2z8YlvjU) | 2:25 |
+| 150 | [How Sweet It Is \(To Be Loved By You\)](https://open.spotify.com/track/7xsH4s0GwIQUhId1AtPVZv) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [How Sweet It Is To Be Loved By You](https://open.spotify.com/album/308UA1MWMf1VnJV8jqyUPM) | 2:57 |
 
 Snapshot ID: `Zow/cwAAAADwqiYFkCWms6jki8qFifo2`

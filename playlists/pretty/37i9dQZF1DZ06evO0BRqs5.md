@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BRqs5.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO0BRqs5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0BRqs5)
 
-### [This Is Eir Aoi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BRqs5)
+### [This Is 藍井エイル](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BRqs5)
 
-> This is Eir Aoi\. The essential tracks, all in one playlist.
+> This is 藍井エイル\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,280 likes - 51 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,281 likes - 51 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BRqs5.md) - [plain]
 | 50 | [FROATIN'](https://open.spotify.com/track/712XBKRZlVW0MqXyXPbUMl) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT （Special Edition）](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:12 |
 | 51 | [ANSWER](https://open.spotify.com/track/5clwPn2sU77LUYxtQMjZet) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ANSWER](https://open.spotify.com/album/1neLWuwQYNoRY5pv6x6UtD) | 3:24 |
 
-Snapshot ID: `ZqLnAAAAAABhikLBWztRAj/Ip3fKfZ2+`
+Snapshot ID: `ZqLnAAAAAABvfz/POkCWphE16D16DOOH`

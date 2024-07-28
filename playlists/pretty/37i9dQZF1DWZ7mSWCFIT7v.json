@@ -1,6 +1,6 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 227364,
+  "num_followers": 227375,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Muckbirth",
-        "url": "https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y"
-      },
-      "artists": [
-        {
-          "name": "Teset",
-          "url": "https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Muckbirth",
-      "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Ardour (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 131944,
       "name": "Double Fifths",
       "url": "https://open.spotify.com/track/4cOrbFr0M4PDjmeKxpZHTe"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Muckbirth",
+        "url": "https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y"
+      },
+      "artists": [
+        {
+          "name": "Teset",
+          "url": "https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Muckbirth",
+      "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"
     },
     {
       "added_at": "2022-08-03 02:50:08",
@@ -1597,22 +1597,6 @@
       "url": "https://open.spotify.com/track/5XcMS5s2ryoGrC3EBWlN3G"
     },
     {
-      "added_at": "2022-11-09 13:54:27",
-      "album": {
-        "name": "sssssmilinggggg",
-        "url": "https://open.spotify.com/album/2gC9JUs5tlGBgopNouIg7v"
-      },
-      "artists": [
-        {
-          "name": "Kaho Matsui",
-          "url": "https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU"
-        }
-      ],
-      "duration_ms": 404210,
-      "name": "sssssmilinggggg",
-      "url": "https://open.spotify.com/track/6yTewVjFHvPBNyRliPdQOs"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Nightwidth",
@@ -1629,20 +1613,20 @@
       "url": "https://open.spotify.com/track/4KXTdLEJkgrZ71QHyxThJ3"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
+      "added_at": "2022-11-09 13:54:27",
       "album": {
-        "name": "L'\u00e9treinte Imaginaire",
-        "url": "https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn"
+        "name": "sssssmilinggggg",
+        "url": "https://open.spotify.com/album/2gC9JUs5tlGBgopNouIg7v"
       },
       "artists": [
         {
-          "name": "Auscultation",
-          "url": "https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ"
+          "name": "Kaho Matsui",
+          "url": "https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU"
         }
       ],
-      "duration_ms": 617279,
-      "name": "Vanda",
-      "url": "https://open.spotify.com/track/5GYuOUZ8XIFYgQRfiyNSz7"
+      "duration_ms": 404210,
+      "name": "sssssmilinggggg",
+      "url": "https://open.spotify.com/track/6yTewVjFHvPBNyRliPdQOs"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1667,18 +1651,34 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Grial",
-        "url": "https://open.spotify.com/album/0plvaGqOtMeRPkzUwDgd3X"
+        "name": "L'\u00e9treinte Imaginaire",
+        "url": "https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn"
       },
       "artists": [
         {
-          "name": "Verraco",
-          "url": "https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1"
+          "name": "Auscultation",
+          "url": "https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ"
         }
       ],
-      "duration_ms": 176195,
-      "name": "NRG Remains",
-      "url": "https://open.spotify.com/track/0OsNfb4otfIOdHSUt40ecP"
+      "duration_ms": 617279,
+      "name": "Vanda",
+      "url": "https://open.spotify.com/track/5GYuOUZ8XIFYgQRfiyNSz7"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Endless Staircase",
+        "url": "https://open.spotify.com/album/5BoOguiBCmvDMOjxFFP62m"
+      },
+      "artists": [
+        {
+          "name": "Pepe Mogt",
+          "url": "https://open.spotify.com/artist/7m5gWKlKnqR5vRBNXSFJF5"
+        }
+      ],
+      "duration_ms": 331034,
+      "name": "Endless Staircase",
+      "url": "https://open.spotify.com/track/2NfGCYWB1LpLkWuYfDiT0J"
     }
   ],
   "unique_name": "bleeps ^ glitches",

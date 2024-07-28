@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 200042,
+  "num_followers": 200068,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,38 @@
     {
       "added_at": "2024-03-19 14:38:10",
       "album": {
+        "name": "Loco Por Ti",
+        "url": "https://open.spotify.com/album/4xDo2losNBAidTX68sPdeM"
+      },
+      "artists": [
+        {
+          "name": "Lebr\u00f3n Brothers",
+          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
+        }
+      ],
+      "duration_ms": 295392,
+      "name": "Que Pena",
+      "url": "https://open.spotify.com/track/7H6TbcATjUfP6gkJ7vxfp5"
+    },
+    {
+      "added_at": "2024-03-19 14:38:10",
+      "album": {
+        "name": "Hecho y Derecho (Doin' It Right)",
+        "url": "https://open.spotify.com/album/65EJIebSAXNM4Fu1oHnecX"
+      },
+      "artists": [
+        {
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+        }
+      ],
+      "duration_ms": 295093,
+      "name": "Mujer Divina",
+      "url": "https://open.spotify.com/track/67MXiEsdYo4tYEwIybqgGG"
+    },
+    {
+      "added_at": "2024-03-19 14:38:10",
+      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/7h9smttvUvPPLLQeRWOPbI"
       },
@@ -303,6 +335,26 @@
     {
       "added_at": "2024-03-19 14:38:10",
       "album": {
+        "name": "Aqui Esta el Reencuentro",
+        "url": "https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        },
+        {
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+        }
+      ],
+      "duration_ms": 290456,
+      "name": "Vagabundo",
+      "url": "https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr"
+    },
+    {
+      "added_at": "2024-03-19 14:38:10",
+      "album": {
         "name": "Celia y Johnny",
         "url": "https://open.spotify.com/album/3ETmy7JfoqlvAwVg1sopmg"
       },
@@ -339,22 +391,18 @@
     {
       "added_at": "2024-03-19 14:38:10",
       "album": {
-        "name": "Aqui Esta el Reencuentro",
-        "url": "https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld"
+        "name": "De Ti Depende",
+        "url": "https://open.spotify.com/album/79ww1pmfO8Y9fvZeSlSHFy"
       },
       "artists": [
         {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        },
-        {
-          "name": "Andy Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 290456,
-      "name": "Vagabundo",
-      "url": "https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr"
+      "duration_ms": 407373,
+      "name": "Periodico De Ayer",
+      "url": "https://open.spotify.com/track/3Hv1DCU3Z0mPJa7UjqD0IG"
     },
     {
       "added_at": "2024-03-19 14:38:10",
@@ -407,38 +455,6 @@
     {
       "added_at": "2024-03-19 14:38:10",
       "album": {
-        "name": "Hecho y Derecho (Doin' It Right)",
-        "url": "https://open.spotify.com/album/65EJIebSAXNM4Fu1oHnecX"
-      },
-      "artists": [
-        {
-          "name": "Joe Cuba Sextet",
-          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
-        }
-      ],
-      "duration_ms": 295093,
-      "name": "Mujer Divina",
-      "url": "https://open.spotify.com/track/67MXiEsdYo4tYEwIybqgGG"
-    },
-    {
-      "added_at": "2024-03-19 14:38:10",
-      "album": {
-        "name": "De Ti Depende",
-        "url": "https://open.spotify.com/album/79ww1pmfO8Y9fvZeSlSHFy"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 407373,
-      "name": "Periodico De Ayer",
-      "url": "https://open.spotify.com/track/3Hv1DCU3Z0mPJa7UjqD0IG"
-    },
-    {
-      "added_at": "2024-03-19 14:38:10",
-      "album": {
         "name": "Que Gente Averigua",
         "url": "https://open.spotify.com/album/7mpXUilEGA93vFJDrpQEaK"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 177680,
       "name": "Lluvia Con Nieve",
       "url": "https://open.spotify.com/track/1bTfh8IF7GIOuxtQcfXMF4"
-    },
-    {
-      "added_at": "2024-03-19 14:38:10",
-      "album": {
-        "name": "Loco Por Ti",
-        "url": "https://open.spotify.com/album/4xDo2losNBAidTX68sPdeM"
-      },
-      "artists": [
-        {
-          "name": "Lebr\u00f3n Brothers",
-          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
-        }
-      ],
-      "duration_ms": 295392,
-      "name": "Que Pena",
-      "url": "https://open.spotify.com/track/7H6TbcATjUfP6gkJ7vxfp5"
     },
     {
       "added_at": "2024-03-19 14:38:10",

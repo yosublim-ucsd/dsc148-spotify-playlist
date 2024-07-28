@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TqbmB34Bbs.md) - [plain]
 
 > Illest hardcore K\-hip hop tracks are here\. \(Cover: Jay Park\(박재범\)\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,646 likes - 200 songs - 11 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,645 likes - 200 songs - 11 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

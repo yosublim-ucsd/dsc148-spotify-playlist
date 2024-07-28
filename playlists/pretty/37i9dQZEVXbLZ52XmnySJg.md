@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLZ52XmnySJg.md) - [plain]
 
 > Your daily update of the most played tracks right now \- India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,798 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,839 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLZ52XmnySJg.md) - [plain]
 | 49 | [Bandana](https://open.spotify.com/track/7KQdgW7QzNd9oPoCzjCU76) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Bandana](https://open.spotify.com/album/1jiFBECVkHOJwDe9TcKKiB) | 2:34 |
 | 50 | [Shayad](https://open.spotify.com/track/1smFN2CLqGROu0J0UyvDfL) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Love Aaj Kal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6IXfWhC7omotM4lt0ROmEr) | 4:07 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

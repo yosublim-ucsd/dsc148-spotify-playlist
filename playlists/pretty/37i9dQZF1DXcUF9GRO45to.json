@@ -1,6 +1,6 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 38211,
+  "num_followers": 38212,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Liquor Liquor",
-        "url": "https://open.spotify.com/album/36yINXB0OBwSntX5Ae7WXd"
-      },
-      "artists": [
-        {
-          "name": "Ponta Preta",
-          "url": "https://open.spotify.com/artist/4yJHzoFmD1ysQRd3qDR37e"
-        }
-      ],
-      "duration_ms": 222288,
-      "name": "Liquor Liquor",
-      "url": "https://open.spotify.com/track/4xHZ6hH2dbPP1lKn5ZLHYQ"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Hara",
         "url": "https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 204106,
       "name": "Stick It Out",
       "url": "https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Liquor Liquor",
+        "url": "https://open.spotify.com/album/36yINXB0OBwSntX5Ae7WXd"
+      },
+      "artists": [
+        {
+          "name": "Ponta Preta",
+          "url": "https://open.spotify.com/artist/4yJHzoFmD1ysQRd3qDR37e"
+        }
+      ],
+      "duration_ms": 222288,
+      "name": "Liquor Liquor",
+      "url": "https://open.spotify.com/track/4xHZ6hH2dbPP1lKn5ZLHYQ"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Postmodern Blue",
-        "url": "https://open.spotify.com/album/4ytKLcwskenzEAA3Ae3Kta"
-      },
-      "artists": [
-        {
-          "name": "Trainfantome",
-          "url": "https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp"
-        }
-      ],
-      "duration_ms": 170393,
-      "name": "Vulgar",
-      "url": "https://open.spotify.com/track/7cOZA9hhLkBValr2rhaH61"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Sitcoms for Aliens",
         "url": "https://open.spotify.com/album/5m60bag09WvO4KA2skUXV6"
       },
@@ -963,18 +947,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "HORIZON",
-        "url": "https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU"
+        "name": "Postmodern Blue",
+        "url": "https://open.spotify.com/album/4ytKLcwskenzEAA3Ae3Kta"
       },
       "artists": [
         {
-          "name": "The Inspector Cluzo",
-          "url": "https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg"
+          "name": "Trainfantome",
+          "url": "https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp"
         }
       ],
-      "duration_ms": 228080,
-      "name": "HORIZON",
-      "url": "https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl"
+      "duration_ms": 170393,
+      "name": "Vulgar",
+      "url": "https://open.spotify.com/track/7cOZA9hhLkBValr2rhaH61"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -991,6 +975,22 @@
       "duration_ms": 308125,
       "name": "Welcome Newcomers",
       "url": "https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "HORIZON",
+        "url": "https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU"
+      },
+      "artists": [
+        {
+          "name": "The Inspector Cluzo",
+          "url": "https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg"
+        }
+      ],
+      "duration_ms": 228080,
+      "name": "HORIZON",
+      "url": "https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
+        "name": "Get Out",
+        "url": "https://open.spotify.com/album/6kp5Y3JdXqqBZezWoTNIiN"
+      },
+      "artists": [
+        {
+          "name": "PALES",
+          "url": "https://open.spotify.com/artist/4sOzPsR34wv1akDd5nwQFX"
+        }
+      ],
+      "duration_ms": 225500,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/0JYFsziWZQcG1amDlX0owl"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
         "name": "Healing Is Not Linear",
         "url": "https://open.spotify.com/album/6AiJUiqh1ZYTuRboEmFgV0"
       },
@@ -1043,18 +1059,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Get Out",
-        "url": "https://open.spotify.com/album/6kp5Y3JdXqqBZezWoTNIiN"
+        "name": "Provocative",
+        "url": "https://open.spotify.com/album/3WruGDJtSzFt10JJjIQh5G"
       },
       "artists": [
         {
-          "name": "PALES",
-          "url": "https://open.spotify.com/artist/4sOzPsR34wv1akDd5nwQFX"
+          "name": "WOOD WOUNDS",
+          "url": "https://open.spotify.com/artist/0pT5iVVXSZxmytxY6Dqnzm"
         }
       ],
-      "duration_ms": 225500,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/0JYFsziWZQcG1amDlX0owl"
+      "duration_ms": 119062,
+      "name": "Provocative",
+      "url": "https://open.spotify.com/track/38a028wwlHws1qY0UfVgCK"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Only Weird People Can Fly",
-        "url": "https://open.spotify.com/album/2srLsSJHxis4kIt99ugrUV"
-      },
-      "artists": [
-        {
-          "name": "Dust On Earth",
-          "url": "https://open.spotify.com/artist/2HbxbDzJQeFyeHgsH0Mou6"
-        }
-      ],
-      "duration_ms": 258372,
-      "name": "Only Weird People Can Fly",
-      "url": "https://open.spotify.com/track/75zhMxYeZoLRp2qrKiz5sQ"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Songs from the Deepwater",
         "url": "https://open.spotify.com/album/5c1WlgOeb83vuE1cVROyOd"
       },
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
+        "name": "Only Weird People Can Fly",
+        "url": "https://open.spotify.com/album/2srLsSJHxis4kIt99ugrUV"
+      },
+      "artists": [
+        {
+          "name": "Dust On Earth",
+          "url": "https://open.spotify.com/artist/2HbxbDzJQeFyeHgsH0Mou6"
+        }
+      ],
+      "duration_ms": 258372,
+      "name": "Only Weird People Can Fly",
+      "url": "https://open.spotify.com/track/75zhMxYeZoLRp2qrKiz5sQ"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
         "name": "Vacuum Sealed",
         "url": "https://open.spotify.com/album/1h6Mngi160e472DTepN8qD"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 240333,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/5hy0BBGoCoo7yc3jCWW5mo"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "De Novo",
-        "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
-      },
-      "artists": [
-        {
-          "name": "Rank-O",
-          "url": "https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF"
-        }
-      ],
-      "duration_ms": 192815,
-      "name": "Humans",
-      "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1171,6 +1171,38 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
+        "name": "De Novo",
+        "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
+      },
+      "artists": [
+        {
+          "name": "Rank-O",
+          "url": "https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF"
+        }
+      ],
+      "duration_ms": 192815,
+      "name": "Humans",
+      "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Vomit Candy",
+        "url": "https://open.spotify.com/album/3enD08oLyPBEvFL5vSufJF"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mafia",
+          "url": "https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY"
+        }
+      ],
+      "duration_ms": 163186,
+      "name": "Vomit Candy",
+      "url": "https://open.spotify.com/track/21ir1Jx963He5dvy6WeFg5"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
         "name": "Mood Disorders",
         "url": "https://open.spotify.com/album/0ckv05nXDPG8LxuvCr0mmt"
       },
@@ -1199,22 +1231,6 @@
       "duration_ms": 216346,
       "name": "playroom",
       "url": "https://open.spotify.com/track/0O57HN2JOSVjxSI0ajb0Bd"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "Centaur Desire",
-        "url": "https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np"
-      },
-      "artists": [
-        {
-          "name": "J.C. Sat\u00e0n",
-          "url": "https://open.spotify.com/artist/3YdIpKk40myJ3aC29izFRW"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "No Brain No Shame",
-      "url": "https://open.spotify.com/track/634Xqm8fG8J1cGymJ51Khy"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1251,18 +1267,34 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Vomit Candy",
-        "url": "https://open.spotify.com/album/3enD08oLyPBEvFL5vSufJF"
+        "name": "Centaur Desire",
+        "url": "https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np"
       },
       "artists": [
         {
-          "name": "Johnny Mafia",
-          "url": "https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY"
+          "name": "J.C. Sat\u00e0n",
+          "url": "https://open.spotify.com/artist/3YdIpKk40myJ3aC29izFRW"
         }
       ],
-      "duration_ms": 163186,
-      "name": "Vomit Candy",
-      "url": "https://open.spotify.com/track/21ir1Jx963He5dvy6WeFg5"
+      "duration_ms": 209426,
+      "name": "No Brain No Shame",
+      "url": "https://open.spotify.com/track/634Xqm8fG8J1cGymJ51Khy"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Your Great Deception",
+        "url": "https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3"
+      },
+      "artists": [
+        {
+          "name": "Dirty Black Summer",
+          "url": "https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq"
+        }
+      ],
+      "duration_ms": 322013,
+      "name": "Your Great Deception",
+      "url": "https://open.spotify.com/track/6Lw5MyuDZVVE1G2ZbLU7Fm"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1299,18 +1331,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Your Great Deception",
-        "url": "https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3"
+        "name": "Life Is Unfair",
+        "url": "https://open.spotify.com/album/5QTtQjMlep4CE3893O1Nwo"
       },
       "artists": [
         {
-          "name": "Dirty Black Summer",
-          "url": "https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq"
+          "name": "DYE CRAP",
+          "url": "https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x"
         }
       ],
-      "duration_ms": 322013,
-      "name": "Your Great Deception",
-      "url": "https://open.spotify.com/track/6Lw5MyuDZVVE1G2ZbLU7Fm"
+      "duration_ms": 135750,
+      "name": "Scatterbrain",
+      "url": "https://open.spotify.com/track/6bvf9UBmxgD8CzroXEkPYr"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1351,6 +1383,22 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
+        "name": "The Twin Souls",
+        "url": "https://open.spotify.com/album/2vwrHrcmQFhJvVekwtju7s"
+      },
+      "artists": [
+        {
+          "name": "The Twin Souls",
+          "url": "https://open.spotify.com/artist/1D1y4lFX5eK45bX7nXlfFM"
+        }
+      ],
+      "duration_ms": 182264,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/6vCscy4346DhByQ3OfpNKJ"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
         "name": "From Blue",
         "url": "https://open.spotify.com/album/2Tkh9QIKdZ7h4nURbfv5xb"
       },
@@ -1363,22 +1411,6 @@
       "duration_ms": 249946,
       "name": "Gold Digger Woman",
       "url": "https://open.spotify.com/track/6NnzPYNCUGzxiNhSdAVWyO"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "Life Is Unfair",
-        "url": "https://open.spotify.com/album/5QTtQjMlep4CE3893O1Nwo"
-      },
-      "artists": [
-        {
-          "name": "DYE CRAP",
-          "url": "https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x"
-        }
-      ],
-      "duration_ms": 135750,
-      "name": "Scatterbrain",
-      "url": "https://open.spotify.com/track/6bvf9UBmxgD8CzroXEkPYr"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1399,22 +1431,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Nasty Habits",
-        "url": "https://open.spotify.com/album/6J1ziCqilUwlShHoRpy2hX"
-      },
-      "artists": [
-        {
-          "name": "Komodor",
-          "url": "https://open.spotify.com/artist/4IsZphrl7x0aGLGQDYKAmt"
-        }
-      ],
-      "duration_ms": 238541,
-      "name": "Nasty Habits",
-      "url": "https://open.spotify.com/track/2YBh9d0765HJaWVyScvNrE"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "I Need a Blue",
         "url": "https://open.spotify.com/album/5cQBjAgYh9tf6jaqFmbIUY"
       },
@@ -1431,6 +1447,22 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
+        "name": "Nasty Habits",
+        "url": "https://open.spotify.com/album/6J1ziCqilUwlShHoRpy2hX"
+      },
+      "artists": [
+        {
+          "name": "Komodor",
+          "url": "https://open.spotify.com/artist/4IsZphrl7x0aGLGQDYKAmt"
+        }
+      ],
+      "duration_ms": 238541,
+      "name": "Nasty Habits",
+      "url": "https://open.spotify.com/track/2YBh9d0765HJaWVyScvNrE"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
         "name": "A Breach To The Cosmos",
         "url": "https://open.spotify.com/album/2n2jUjEaw8932DlBLoQsRC"
       },
@@ -1443,22 +1475,6 @@
       "duration_ms": 225333,
       "name": "A Breach To The Cosmos",
       "url": "https://open.spotify.com/track/2u3GG2oC0rBnjCUbHkbRZv"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "The Twin Souls",
-        "url": "https://open.spotify.com/album/2vwrHrcmQFhJvVekwtju7s"
-      },
-      "artists": [
-        {
-          "name": "The Twin Souls",
-          "url": "https://open.spotify.com/artist/1D1y4lFX5eK45bX7nXlfFM"
-        }
-      ],
-      "duration_ms": 182264,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/6vCscy4346DhByQ3OfpNKJ"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "OUT",
-        "url": "https://open.spotify.com/album/72TjycfjTBDs9u9bfKKDx9"
-      },
-      "artists": [
-        {
-          "name": "Fishtalk",
-          "url": "https://open.spotify.com/artist/1bNwgQR3QNjZwSRXJG2yiy"
-        }
-      ],
-      "duration_ms": 324458,
-      "name": "Statues",
-      "url": "https://open.spotify.com/track/32OMftrmsklEtDmYRHZNPy"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Electrify Me",
         "url": "https://open.spotify.com/album/1PDzPuWjVMNvzBS6bKlvPu"
       },
@@ -1527,34 +1527,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Provocative",
-        "url": "https://open.spotify.com/album/3WruGDJtSzFt10JJjIQh5G"
+        "name": "OUT",
+        "url": "https://open.spotify.com/album/72TjycfjTBDs9u9bfKKDx9"
       },
       "artists": [
         {
-          "name": "WOOD WOUNDS",
-          "url": "https://open.spotify.com/artist/0pT5iVVXSZxmytxY6Dqnzm"
+          "name": "Fishtalk",
+          "url": "https://open.spotify.com/artist/1bNwgQR3QNjZwSRXJG2yiy"
         }
       ],
-      "duration_ms": 119062,
-      "name": "Provocative",
-      "url": "https://open.spotify.com/track/38a028wwlHws1qY0UfVgCK"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "Pictures of a Century",
-        "url": "https://open.spotify.com/album/2tNX8NTFHnAd2Ipw5rp91N"
-      },
-      "artists": [
-        {
-          "name": "Lane (Love And Noise Experiment)",
-          "url": "https://open.spotify.com/artist/6mAfQASNTrLERLgZYR9hxf"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/5w0zJQuL3t1oHkF0vGAGac"
+      "duration_ms": 324458,
+      "name": "Statues",
+      "url": "https://open.spotify.com/track/32OMftrmsklEtDmYRHZNPy"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1571,6 +1555,22 @@
       "duration_ms": 158266,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/0mGb7YHq64JP1ZpO3VEfUY"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Pictures of a Century",
+        "url": "https://open.spotify.com/album/2tNX8NTFHnAd2Ipw5rp91N"
+      },
+      "artists": [
+        {
+          "name": "Lane (Love And Noise Experiment)",
+          "url": "https://open.spotify.com/artist/6mAfQASNTrLERLgZYR9hxf"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/5w0zJQuL3t1oHkF0vGAGac"
     },
     {
       "added_at": "2024-07-15 21:15:50",

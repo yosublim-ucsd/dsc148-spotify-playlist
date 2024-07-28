@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 ### [This Is Lenin Ramírez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1UcSd2)
 
-> This Is Lenin Ramírez\. Los temas esenciales, todos en una lista.
+> This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,610 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,613 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 50 | [Francia](https://open.spotify.com/track/6f40tXp3mcTpSbZAs4vs8b) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 2:46 |
 | 51 | [El Teniente Pa' La Clica](https://open.spotify.com/track/7IBCbYw9TWBn5bb6XM4vdW) | [Jesus Payan e Imparables](https://open.spotify.com/artist/7y24WJ50nXUe8p8P4doUup), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [El Teniente Pa' La Clica](https://open.spotify.com/album/66SjzdSEl1T3MLVSLYE3DR) | 2:50 |
 
-Snapshot ID: `ZqLnAAAAAADHw8IGhLTdWrFaQKX9RtU2`
+Snapshot ID: `ZqLnAAAAAABxtWR3WDSSqxLm57s+vilF`

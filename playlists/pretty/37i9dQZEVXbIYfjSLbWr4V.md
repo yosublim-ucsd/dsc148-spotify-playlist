@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIYfjSLbWr4V.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,086 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,089 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIYfjSLbWr4V.md) - [plain]
 | 49 | [БЛА БЛА БЛА](https://open.spotify.com/track/4BSySdxduoEkkEd0xz8Ncc) | [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032), [Babyface Melo](https://open.spotify.com/artist/0j9IK0E8hghOd0HFmQoe7j) | [GLAMOUR](https://open.spotify.com/album/0jPoAA3mBi9IbswX4q4C6p) | 2:59 |
 | 50 | [Я не употребляю](https://open.spotify.com/track/3KWM2xT2wb0J4lUEjYrfJH) | [Voskresenskii](https://open.spotify.com/artist/4x79BOihyDga7T7R1ULYC3), [Wipo](https://open.spotify.com/artist/02cJqU9jxI9t8TfJpWzMMP) | [Я не употребляю](https://open.spotify.com/album/6JgT3a7tqCCq6dYxCkQwvk) | 2:19 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

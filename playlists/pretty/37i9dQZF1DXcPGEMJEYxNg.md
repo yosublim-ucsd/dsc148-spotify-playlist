@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 
 > In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are excited to announce our third Gold House Future Music Accelerator artists: Emei, Paravi & Towa Bird.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,128 likes - 53 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,132 likes - 53 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

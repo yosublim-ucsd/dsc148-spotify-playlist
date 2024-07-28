@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2csqsN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2csqsN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2csqsN)
 
-### [This is Latto](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2csqsN)
+### [This Is Latto](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2csqsN)
 
-> This is Latto\. De essentiële nummers, allemaal in één playlist.
+> This is Latto\. The essential tracks, all in one playlist.
 
 89 songs - 4 hr 20 min
 

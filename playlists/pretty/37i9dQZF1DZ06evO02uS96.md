@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02uS96.md) - [plain]
 
 ### [This Is Aimer](https://open.spotify.com/playlist/37i9dQZF1DZ06evO02uS96)
 
-> This Is Aimer\. Los temas esenciales, todos en una lista.
+> This is Aimer\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,727 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,721 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02uS96.md) - [plain]
 | 49 | [Blind to you \(Remaster for 星の消えた夜に 2022\)](https://open.spotify.com/track/3QrRKBM0VEI2aVIW29Fkp2) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [星の消えた夜に](https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4) | 4:41 |
 | 50 | [いつかその道へ \- 原神ショートアニメ「いつかその道へ」挿入歌](https://open.spotify.com/track/0YhGUbMQBJHe0Ude8MlcQf) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [原神\-いつかその道へ \(Original Game Soundtrack\)](https://open.spotify.com/album/2xRGKCzJToTAbEpOF3EdWd) | 2:30 |
 
-Snapshot ID: `ZqLnAAAAAADQWgdfEGO9Q2CgutTsblQ8`
+Snapshot ID: `ZqLnAAAAAACatmmHWa9VGxRLU0LLb4eg`

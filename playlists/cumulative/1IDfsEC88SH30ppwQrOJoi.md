@@ -4,13 +4,14 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-302 songs - 15 hr 43 min
+303 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2024-04-26 |  |
 | [365](https://open.spotify.com/track/5roFM0I1K6um2yIYL6kGq2) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [365](https://open.spotify.com/album/2Wt63cwVvjqezpEdQcmlkI) | 3:12 | 2023-10-13 |  |
 | [a lesson in chemistry](https://open.spotify.com/track/4PoCaIK1ATTxQvqtTTXFzz) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [a lesson in chemistry](https://open.spotify.com/album/2slYBTkG0mGdQEmQVe6dD3) | 2:07 | 2024-04-26 |  |
+| [A New Beginning](https://open.spotify.com/track/01mzzX5T9vowx3uevmqo0t) | [Yetti](https://open.spotify.com/artist/1Z98Ovf0sHPSZU3DTIbeQ0) | [A New Beginning](https://open.spotify.com/album/61bVRwC7C50fnZxcjawHy1) | 3:58 | 2024-07-27 |  |
 | [A New Day](https://open.spotify.com/track/3de5XKUSr25gWW0iz1HJI8) | [Tarmo](https://open.spotify.com/artist/0NHfTSgBcrto4B2AflArL7), [Starmode](https://open.spotify.com/artist/5q30AIpvZ2Au7MiWSLzTUB) | [A New Day](https://open.spotify.com/album/02StessRCTBIt7VpsjH3Uf) | 2:14 | 2024-02-09 | 2024-03-14 |
 | [Adidas & Pearls](https://open.spotify.com/track/2zME1tNgLyHCJ29E2uSeJM) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Adidas & Pearls](https://open.spotify.com/album/5zTHdYXq0ojTz7J4K2gCUN) | 3:29 | 2022-06-24 | 2024-05-01 |
 | [Ain't No Other Man \- Rework](https://open.spotify.com/track/2arAYoniFUo3ojtcDEIhdl) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1) | [Ain't No Other Man \(Rework\)](https://open.spotify.com/album/6iHOTd9FBBOLSDfJp8mFFq) | 2:34 | 2023-06-13 | 2024-03-14 |

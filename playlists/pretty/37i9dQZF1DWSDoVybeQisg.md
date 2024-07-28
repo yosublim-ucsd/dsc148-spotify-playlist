@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 
 > Expand your mind with these psychedelic rock treasures\. Cover: The Doors
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,167,840 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,167,936 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 66 | [Under the Rainbow](https://open.spotify.com/track/5GGHGmV00uMekAdhqia3Mt) | [The End](https://open.spotify.com/artist/45jcnUQrgsJtv7M6kfAFK4) | [From Beginning to End](https://open.spotify.com/album/6XMRS79DmOuEOFtcBsDdRo) | 3:47 |
 | 67 | [With All in Mind](https://open.spotify.com/track/0BE1Nqi5OtEp05IqZITvt9) | [Clear Light](https://open.spotify.com/artist/0vbykpsZwxi9Z6P27AhVqJ) | [Clear Light \(US Internet Release\)](https://open.spotify.com/album/5js8Q3QkxR0FT94B64OiCl) | 2:58 |
 | 68 | [Friday on My Mind](https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi) | [The Easybeats](https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu) | [Easy](https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9) | 2:43 |
-| 69 | [Flight of the Psychedelic Bumble Bee](https://open.spotify.com/track/0HzV1YanxEsSzq2jak186w) | [The Peanut Butter Conspiracy](https://open.spotify.com/artist/1mUgTcokhM7BSqp8mXhy8U) | [Spreading from the Ashes](https://open.spotify.com/album/4KfZ1K7IiZDeiZtMGzavZR) | 2:02 |
+| 69 | [I'd Love To Change The World](https://open.spotify.com/track/3s9ri7hKv6ijDn2k89veEU) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [The Best Of Ten Years After](https://open.spotify.com/album/23K9VQeaaFKzmyEg2Z4V0u) | 3:43 |
 | 70 | [Riddles and Fairytales](https://open.spotify.com/track/4Xs7lOyFcLlpaKU0Psu1Rw) | [Bohemian Vendetta](https://open.spotify.com/artist/73VmM9R8AtZr2yM6cTkB6c) | [Bohemian Vendetta](https://open.spotify.com/album/2fARshM3fpN5Drk6pVdveD) | 2:57 |
-| 71 | [I'd Love To Change The World](https://open.spotify.com/track/3s9ri7hKv6ijDn2k89veEU) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [The Best Of Ten Years After](https://open.spotify.com/album/23K9VQeaaFKzmyEg2Z4V0u) | 3:43 |
-| 72 | [I Can See For Miles](https://open.spotify.com/track/3fZZ46U5REAzFQkqz0aWu8) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Greatest Hits](https://open.spotify.com/album/23W2qtQDqASXPMsBXYpTY0) | 4:07 |
-| 73 | [Alone Again Or](https://open.spotify.com/track/6hXHOrhKW9dgQt35Mc5dCb) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes](https://open.spotify.com/album/6myt0Ez6hGJIPQeZKgY8um) | 3:17 |
-| 74 | [Somebody to Love](https://open.spotify.com/track/4yrloqLBKS7Pi3z7g2HDga) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Best Of](https://open.spotify.com/album/387wE7UNIyqL4w8UnX2n4N) | 2:58 |
-| 75 | [Sunshine Of Your Love](https://open.spotify.com/track/4gxtH5mCSqVPTsqGcWKVOC) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Gold](https://open.spotify.com/album/5dkntf76VkS2C85Xzjud9E) | 4:10 |
+| 71 | [Flight of the Psychedelic Bumble Bee](https://open.spotify.com/track/0HzV1YanxEsSzq2jak186w) | [The Peanut Butter Conspiracy](https://open.spotify.com/artist/1mUgTcokhM7BSqp8mXhy8U) | [Spreading from the Ashes](https://open.spotify.com/album/4KfZ1K7IiZDeiZtMGzavZR) | 2:02 |
+| 72 | [The Pusher](https://open.spotify.com/track/28sa14rbWiHZPs9m1IeDI5) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Born To Be Wild \(Best Of....\)](https://open.spotify.com/album/14Gu72n79AHDrcFWJ86mdc) | 5:48 |
+| 73 | [I Can See For Miles](https://open.spotify.com/track/3fZZ46U5REAzFQkqz0aWu8) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Greatest Hits](https://open.spotify.com/album/23W2qtQDqASXPMsBXYpTY0) | 4:07 |
+| 74 | [Alone Again Or](https://open.spotify.com/track/6hXHOrhKW9dgQt35Mc5dCb) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes](https://open.spotify.com/album/6myt0Ez6hGJIPQeZKgY8um) | 3:17 |
+| 75 | [Somebody to Love](https://open.spotify.com/track/4yrloqLBKS7Pi3z7g2HDga) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Best Of](https://open.spotify.com/album/387wE7UNIyqL4w8UnX2n4N) | 2:58 |
 
 Snapshot ID: `ZpFlIQAAAACbEyaRy/K1Gevu+zVnDxx8`

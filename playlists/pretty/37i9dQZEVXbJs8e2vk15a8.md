@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJs8e2vk15a8.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,728 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,732 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJs8e2vk15a8.md) - [plain]
 | 49 | [No Vas a Encontrar](https://open.spotify.com/track/1GGpgUDxD5bjEq0OSEDTvc) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN), [R.K.M.](https://open.spotify.com/artist/1g9s0VQvScNH2eh7JCbzUu) | [No Vas a Encontrar](https://open.spotify.com/album/7LEOqYU7W9dFTLwq7xoBd0) | 3:12 |
 | 50 | [True Love](https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW) | [Carrion GodBle$$](https://open.spotify.com/artist/7we8fCds6Fc36UjH1oq4OU), [Saske](https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW) | [True Love](https://open.spotify.com/album/1svYzadjdS9RrR2E2EPEhj) | 5:58 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

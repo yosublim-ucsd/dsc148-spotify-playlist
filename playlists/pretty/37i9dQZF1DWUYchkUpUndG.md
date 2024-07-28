@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg?si=76W2ML9CSXSOvQvNO2rmMw>Frank Edwards</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,317 likes - 100 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,324 likes - 100 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

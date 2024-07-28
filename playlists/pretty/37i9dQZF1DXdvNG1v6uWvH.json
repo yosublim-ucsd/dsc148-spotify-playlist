@@ -1727,70 +1727,6 @@
     {
       "added_at": "2024-07-26 00:00:00",
       "album": {
-        "name": "Bad Dope",
-        "url": "https://open.spotify.com/album/6bpQ5TUxQEYyl6TKHTqOI4"
-      },
-      "artists": [
-        {
-          "name": "Breazy Daze",
-          "url": "https://open.spotify.com/artist/1QCmoTex4q2YFHnfeCichL"
-        }
-      ],
-      "duration_ms": 160188,
-      "name": "Bad Dope",
-      "url": "https://open.spotify.com/track/0WHUpzFixlgSLJ9sXnRaUb"
-    },
-    {
-      "added_at": "2024-07-26 00:00:00",
-      "album": {
-        "name": "Other Side",
-        "url": "https://open.spotify.com/album/7sCoIkdXurYnLVYwa2OEYd"
-      },
-      "artists": [
-        {
-          "name": "Bellvie",
-          "url": "https://open.spotify.com/artist/5TfMFZyVModzZjI5DOWwnl"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Other Side",
-      "url": "https://open.spotify.com/track/3WHI9kxRAJKjGcDRnQkWOQ"
-    },
-    {
-      "added_at": "2024-07-26 00:00:00",
-      "album": {
-        "name": "In our song",
-        "url": "https://open.spotify.com/album/5Mkx2jY7RbUu6AOewIwBH6"
-      },
-      "artists": [
-        {
-          "name": "Kakali",
-          "url": "https://open.spotify.com/artist/2z2se9gTIIl6mUMyRyDDRp"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "In our song",
-      "url": "https://open.spotify.com/track/4acO5zZybQVkQgkeRyPgWJ"
-    },
-    {
-      "added_at": "2024-07-26 00:00:00",
-      "album": {
-        "name": "Ice Queen",
-        "url": "https://open.spotify.com/album/318jsC0msWm1AVgW7Vyirn"
-      },
-      "artists": [
-        {
-          "name": "S\u00e6fari",
-          "url": "https://open.spotify.com/artist/608E2fehF9UQiovLeo2u16"
-        }
-      ],
-      "duration_ms": 264920,
-      "name": "Ice Queen",
-      "url": "https://open.spotify.com/track/2a7Ao4ghSr7odQIk7AlVVA"
-    },
-    {
-      "added_at": "2024-07-26 00:00:00",
-      "album": {
         "name": "Not Alone",
         "url": "https://open.spotify.com/album/3Hya1YpzRoSO5osOaFkx34"
       },
@@ -1803,22 +1739,6 @@
       "duration_ms": 210476,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/33wpyHU4LVqZXve6cRN5Ei"
-    },
-    {
-      "added_at": "2024-07-26 00:00:00",
-      "album": {
-        "name": "PAIN",
-        "url": "https://open.spotify.com/album/7uE9AI8i8HS3apLcXjEqCQ"
-      },
-      "artists": [
-        {
-          "name": "LEX1",
-          "url": "https://open.spotify.com/artist/4KpmarSWMPNTPMWsNPGilb"
-        }
-      ],
-      "duration_ms": 103904,
-      "name": "Love Lean",
-      "url": "https://open.spotify.com/track/1g644CrUCPzu6SkbOeSSHA"
     },
     {
       "added_at": "2024-07-26 00:00:00",
@@ -1843,6 +1763,86 @@
     {
       "added_at": "2024-07-26 00:00:00",
       "album": {
+        "name": "Bad Dope",
+        "url": "https://open.spotify.com/album/6bpQ5TUxQEYyl6TKHTqOI4"
+      },
+      "artists": [
+        {
+          "name": "Breazy Daze",
+          "url": "https://open.spotify.com/artist/1QCmoTex4q2YFHnfeCichL"
+        }
+      ],
+      "duration_ms": 160188,
+      "name": "Bad Dope",
+      "url": "https://open.spotify.com/track/0WHUpzFixlgSLJ9sXnRaUb"
+    },
+    {
+      "added_at": "2024-07-26 00:00:00",
+      "album": {
+        "name": "Ice Queen",
+        "url": "https://open.spotify.com/album/318jsC0msWm1AVgW7Vyirn"
+      },
+      "artists": [
+        {
+          "name": "S\u00e6fari",
+          "url": "https://open.spotify.com/artist/608E2fehF9UQiovLeo2u16"
+        }
+      ],
+      "duration_ms": 264920,
+      "name": "Ice Queen",
+      "url": "https://open.spotify.com/track/2a7Ao4ghSr7odQIk7AlVVA"
+    },
+    {
+      "added_at": "2024-07-26 00:00:00",
+      "album": {
+        "name": "Ekki gleyma m\u00e9r",
+        "url": "https://open.spotify.com/album/7q5DAObsQjD9eVcc9KSqPf"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3n M\u00f6ller",
+          "url": "https://open.spotify.com/artist/7nj1TKS719PTVZosDtmUm5"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "Ekki gleyma m\u00e9r",
+      "url": "https://open.spotify.com/track/1SUOks6JVkuJ3QmgZUpVv5"
+    },
+    {
+      "added_at": "2024-07-26 00:00:00",
+      "album": {
+        "name": "Other Side",
+        "url": "https://open.spotify.com/album/7sCoIkdXurYnLVYwa2OEYd"
+      },
+      "artists": [
+        {
+          "name": "Bellvie",
+          "url": "https://open.spotify.com/artist/5TfMFZyVModzZjI5DOWwnl"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Other Side",
+      "url": "https://open.spotify.com/track/3WHI9kxRAJKjGcDRnQkWOQ"
+    },
+    {
+      "added_at": "2024-07-26 00:00:00",
+      "album": {
+        "name": "H\u00f6fin Bl\u00e1",
+        "url": "https://open.spotify.com/album/75gUACnNytz0gv5aLtspPz"
+      },
+      "artists": [
+        {
+          "name": "\u00c1str\u00f3s",
+          "url": "https://open.spotify.com/artist/48xh4lWtXL9c8FmnOzLhQe"
+        }
+      ],
+      "duration_ms": 171553,
+      "name": "H\u00f6fin Bl\u00e1",
+      "url": "https://open.spotify.com/track/01JFMIazSriHpDKrpnUbkV"
+    },
+    {
+      "added_at": "2024-07-26 00:00:00",
+      "album": {
         "name": "gr\u00e1ta sm\u00e1",
         "url": "https://open.spotify.com/album/2Jg3woI7H28nw0fD7wX66y"
       },
@@ -1859,18 +1859,18 @@
     {
       "added_at": "2024-07-26 00:00:00",
       "album": {
-        "name": "From The Shore",
-        "url": "https://open.spotify.com/album/1af3dKzZA34j2SWZbGAUPQ"
+        "name": "Innip\u00faki",
+        "url": "https://open.spotify.com/album/3Any2exzNtg090ZcF9gYi3"
       },
       "artists": [
         {
-          "name": "Kristberg",
-          "url": "https://open.spotify.com/artist/0LyR2SXDueRQGLtGhTwaFO"
+          "name": "HASAR",
+          "url": "https://open.spotify.com/artist/3RKY1XBHEUceTbyBrDtCTA"
         }
       ],
-      "duration_ms": 152000,
-      "name": "From The Shore",
-      "url": "https://open.spotify.com/track/4spqHmg2aIxau0MXNf1XqR"
+      "duration_ms": 169000,
+      "name": "Innip\u00faki",
+      "url": "https://open.spotify.com/track/4IFwYIKpgvYCT2xKyxf5Ns"
     }
   ],
   "unique_name": "New Music Friday Iceland",

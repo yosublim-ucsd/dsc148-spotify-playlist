@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 
 ### [This Is Patoranking](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1iOLV6)
 
-> This is Patoranking\. The essential tracks, all in one playlist.
+> This is Patoranking\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,768 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,767 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 49 | [Feelings \- A COLORS SHOW](https://open.spotify.com/track/6pM36Gc15BBIwefH7Zy4GI) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Feelings \- A COLORS SHOW](https://open.spotify.com/album/5LJvUFehOgLrzRpDzMAH9o) | 3:26 |
 | 50 | [Suzanna \(feat\. Patoranking\)](https://open.spotify.com/track/5yftPkWxksVGPSi21pFuJQ) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Headliner](https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf) | 3:35 |
 
-Snapshot ID: `ZqLnAAAAAACC/1IXfI1CD7+hB4dkLj1J`
+Snapshot ID: `ZqLnAAAAAAC58qEEyANgURmIbgNDDPzy`

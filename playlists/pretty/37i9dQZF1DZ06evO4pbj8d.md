@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 
 ### [This Is Joy Oladokun](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4pbj8d)
 
-> This is Joy Oladokun\. The essential tracks, all in one playlist.
+> This Is Joy Oladokun\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,367 likes - 51 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,370 likes - 51 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 50 | [too high](https://open.spotify.com/track/6bk6LnJA5MsK9E5kWFxfSG) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:16 |
 | 51 | [Poison](https://open.spotify.com/track/1yCbpQOLC7pCOKUpnYfm4Q) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 4:56 |
 
-Snapshot ID: `ZqLnAAAAAAAU+vqNrVnWK6iX2uH2Ai0q`
+Snapshot ID: `ZqLnAAAAAAAmkWsdvhE9trSx9OFoT4M3`

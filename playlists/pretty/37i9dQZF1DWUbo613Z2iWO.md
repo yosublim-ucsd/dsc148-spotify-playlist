@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Dylan Sinclair
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,608 likes - 115 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,611 likes - 115 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

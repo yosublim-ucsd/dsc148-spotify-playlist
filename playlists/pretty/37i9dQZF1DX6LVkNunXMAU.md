@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Paola Navarrete & Adanowsky.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,001 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,008 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,13 +95,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 85 | [Ya No Era Felíz](https://open.spotify.com/track/7mTfMbGpBMZQE3pE9cyndg) | [María Colores](https://open.spotify.com/artist/6VQxtEeYFtNENvE6Qsvlan), [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [Ya No Era Felíz Contigo](https://open.spotify.com/album/2MMrxUtCssjTgQr1NHigS5) | 3:08 |
 | 86 | [Quién Pudiera?](https://open.spotify.com/track/0oPGGzsXUmZswgsxUhLn45) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO) | [Quién Pudiera?](https://open.spotify.com/album/2MYyRpVLzYJuTwO70iLQph) | 3:33 |
 | 87 | [Un Nuevo Ritmo](https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Un Nuevo Ritmo](https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2) | 3:33 |
-| 88 | [Lo Que Hicimos](https://open.spotify.com/track/0sCce9Byqxnaj763s0RaWf) | [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW), [Sónico Vivo](https://open.spotify.com/artist/4gKGHKgKXprf8kvRCmcrpe) | [Lo Que Hicimos](https://open.spotify.com/album/5M7QbPWs7IZbZ7GgwucHwh) | 2:37 |
-| 89 | [Sigo Llorando](https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Sigo Llorando](https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm) | 3:43 |
+| 88 | [Sigo Llorando](https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Sigo Llorando](https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm) | 3:43 |
+| 89 | [Lo Que Hicimos](https://open.spotify.com/track/0sCce9Byqxnaj763s0RaWf) | [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW), [Sónico Vivo](https://open.spotify.com/artist/4gKGHKgKXprf8kvRCmcrpe) | [Lo Que Hicimos](https://open.spotify.com/album/5M7QbPWs7IZbZ7GgwucHwh) | 2:37 |
 | 90 | [hoy me desperté así \- v\. 02](https://open.spotify.com/track/3NlTGKhMil22mpMwxKL99N) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9), [Acus](https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp) | [plasti bonus track](https://open.spotify.com/album/1XVWDJkUFe03SpQDDN8DTS) | 3:22 |
 | 91 | [Ya Se Fue](https://open.spotify.com/track/6JQ3tU4PwJr51FW9YRKq43) | [Gonzalo Brancciari](https://open.spotify.com/artist/2kvcov0e0ppYAVU5NywB2x) | [Ya Se Fue](https://open.spotify.com/album/6SFW7nOwBJK61hJLnfU2PX) | 2:50 |
 | 92 | [El rey del yuyal](https://open.spotify.com/track/37q1oUFGyp0Uh8L8kArkym) | [Pensé que era viernes](https://open.spotify.com/artist/4ItV8u3CWrnoo4D8JEHXk1) | [El rey del yuyal](https://open.spotify.com/album/3YmKNf3CiCG381ZvxJwkCk) | 2:54 |
-| 93 | [SAD](https://open.spotify.com/track/4QLq5Ckjq14BcvnO1tAo9d) | [nano mundano](https://open.spotify.com/artist/0UTjWU7XvLl9O12dfTxhfl) | [SAD](https://open.spotify.com/album/5AHDaEzx1v4KKwMHJxJB1E) | 3:44 |
-| 94 | [lo\-fi](https://open.spotify.com/track/0jsCPolR169poPX99rNtCe) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [lo\-fi](https://open.spotify.com/album/2ou8ilCBWA00ZJDgZtdRb8) | 2:55 |
+| 93 | [lo\-fi](https://open.spotify.com/track/0jsCPolR169poPX99rNtCe) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [lo\-fi](https://open.spotify.com/album/2ou8ilCBWA00ZJDgZtdRb8) | 2:55 |
+| 94 | [SAD](https://open.spotify.com/track/4QLq5Ckjq14BcvnO1tAo9d) | [nano mundano](https://open.spotify.com/artist/0UTjWU7XvLl9O12dfTxhfl) | [SAD](https://open.spotify.com/album/5AHDaEzx1v4KKwMHJxJB1E) | 3:44 |
 | 95 | [Huracán](https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO) | [Andres](https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f) | [Huracán](https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf) | 2:41 |
 | 96 | [Caminito](https://open.spotify.com/track/1nLPGf1saHtgUgHEDWBjMP) | [Coco Green](https://open.spotify.com/artist/2KZq8iWAr0lZ0L1Ua6HgQs), [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Caminito](https://open.spotify.com/album/6K3521IAJJFcPu0cY0d0V4) | 2:46 |
 | 97 | [Azul](https://open.spotify.com/track/7jUG0DPV7K1r0gHBvF6BFz) | [Luciana Tagliapietra](https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Azul](https://open.spotify.com/album/7xmxWuzUa907hkQYL64jJD) | 2:50 |

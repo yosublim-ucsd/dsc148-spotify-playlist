@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > All the songs with more than 1 BILLION streams on Spotify\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,901 likes - 690 songs - 1 day 17 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,132 likes - 690 songs - 1 day 17 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1451,6 +1451,28 @@
     },
     {
       "album": {
+        "name": "Gem Lingo (ovr now)",
+        "url": "https://open.spotify.com/album/3r4QpzGNuewu0vLvapRZS7"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        },
+        {
+          "name": "Ruthven",
+          "url": "https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230253,
+      "name": "Gem Lingo (ovr now)",
+      "url": "https://open.spotify.com/track/6dSqM0tWJPlchpmGrEwC1c"
+    },
+    {
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/72GG3m2QVQ4pQ5Ipi07oO4"
       },
@@ -3724,6 +3746,24 @@
       "duration_ms": 324960,
       "name": "The Beat Of Black Wings",
       "url": "https://open.spotify.com/track/2DyQKUqKUpOFV3Fs3ijW9Q"
+    },
+    {
+      "album": {
+        "name": "Un-American Activities",
+        "url": "https://open.spotify.com/album/6BWJZfps9TMudDT2CL0UhI"
+      },
+      "artists": [
+        {
+          "name": "Molly Nilsson",
+          "url": "https://open.spotify.com/artist/2PDepyCtfybWn5UJv0DmKw"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160698,
+      "name": "The Beauty of the Duty",
+      "url": "https://open.spotify.com/track/0G7ee8kSG4zjvxLF0BF6eU"
     },
     {
       "album": {

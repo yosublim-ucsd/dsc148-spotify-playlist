@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4gOolUyeDaQ.md) - [plain]
 
 > ¡Al agua! Nosotros ponemos la música.
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,901 likes - 150 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,895 likes - 150 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lgtAi.md) - [plain]
 
 ### [This Is Tainy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0lgtAi)
 
-> This is Tainy\. The essential tracks, all in one playlist.
+> This Is Tainy\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,495 likes - 38 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,503 likes - 38 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lgtAi.md) - [plain]
 | 37 | [BUSCANDO CALOR](https://open.spotify.com/track/1AuakKBKABJveKizKBl9j7) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [DYNASTY](https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome) | 2:53 |
 | 38 | [EL PLAN](https://open.spotify.com/track/4BEhYjP8feURPfmrHNc4dM) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [DYNASTY](https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome) | 2:39 |
 
-Snapshot ID: `ZqLnAAAAAABqyE1lG9KmT5akeS25sXyR`
+Snapshot ID: `ZqLnAAAAAADBQbbW8nRLOjjyCAdGDO5T`

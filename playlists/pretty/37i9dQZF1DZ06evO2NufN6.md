@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 
 ### [This Is Mac Miller](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NufN6)
 
-> This is Mac Miller\. The essential tracks, all in one playlist.
+> This Is Mac Miller\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,186 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,244 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 | 49 | [The Mourning After](https://open.spotify.com/track/0xppJmfnjIQnMbMOez9bwT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Macadelic](https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q) | 3:08 |
 | 50 | [Ascension](https://open.spotify.com/track/19CkkPInDRDIOlqfrz1mVn) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 4:52 |
 
-Snapshot ID: `ZqLnAAAAAAA3+1qJiVgn4FGfdTwK4dYz`
+Snapshot ID: `ZqLnAAAAAADLDs/H0LJ3FchpC0Ot5Hw3`

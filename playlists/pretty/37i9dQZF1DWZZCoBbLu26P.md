@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > Queens everywhere \- givin' us life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,829 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,842 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 57 | [Fight for Love](https://open.spotify.com/track/0BspWxbPFXiuH1HwLm83NK) | [Courtney Act](https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq) | [Fight for Love](https://open.spotify.com/album/7z5c2c2cnPBER6cSOc0yiW) | 2:56 |
 | 58 | [Ohh Lala Lala](https://open.spotify.com/track/3z02EeRFTXux2iD8hvKrLh) | [Ginger Minj](https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE) | [Sweet T](https://open.spotify.com/album/6zCFc5e0UljWQKIO5T371V) | 4:35 |
 | 59 | [Much Betta](https://open.spotify.com/track/5A8NMbaLdU3MPm6LK58BLb) | [Baga chipz](https://open.spotify.com/artist/4giafXL7gtbBW0K0ppx240) | [Much Betta](https://open.spotify.com/album/3fLH1ksOnNE6fjmBL5fgbB) | 2:19 |
-| 60 | [Bitch On Heels \- Kelvin Wood Radio Mix](https://open.spotify.com/track/7ElOeuVWhiPAFHJxBfdzmN) | [The Vivienne](https://open.spotify.com/artist/6o6ndD0Jm9X1VB3tMN4FRp), [Kelvin Wood](https://open.spotify.com/artist/0oxqy1B5Cfc2Ir24IQt3vs) | [Bitch On Heels \(Kelvin Wood Remix\)](https://open.spotify.com/album/58lIoVrWA0UovP6TYCDfZA) | 2:58 |
-| 61 | [Diamond Crowned Queen \- Original](https://open.spotify.com/track/3TIvINmJaJ6A2spc2u9f9B) | [Raja](https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC) | [Diamond Crowned Queen](https://open.spotify.com/album/1Dibup7kDM8h6CfCMds9ud) | 3:51 |
+| 60 | [Diamond Crowned Queen \- Original](https://open.spotify.com/track/3TIvINmJaJ6A2spc2u9f9B) | [Raja](https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC) | [Diamond Crowned Queen](https://open.spotify.com/album/1Dibup7kDM8h6CfCMds9ud) | 3:51 |
+| 61 | [Bitch On Heels \- Kelvin Wood Radio Mix](https://open.spotify.com/track/7ElOeuVWhiPAFHJxBfdzmN) | [The Vivienne](https://open.spotify.com/artist/6o6ndD0Jm9X1VB3tMN4FRp), [Kelvin Wood](https://open.spotify.com/artist/0oxqy1B5Cfc2Ir24IQt3vs) | [Bitch On Heels \(Kelvin Wood Remix\)](https://open.spotify.com/album/58lIoVrWA0UovP6TYCDfZA) | 2:58 |
 | 62 | [PUMPKIN TITS](https://open.spotify.com/track/3VXyiHnpm1npDdnCVdX5Tp) | [JIMBO](https://open.spotify.com/artist/2zvuCE3YPlqC7XMY3XFmpf) | [PUMPKIN TITS \- Single](https://open.spotify.com/album/2d4U1XuIVz2ZgdzEA9KuCJ) | 2:56 |
 | 63 | [I Specialise In Love](https://open.spotify.com/track/5J0S0kIoIOH0FCs9Q6Y3B1) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva), [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Part 2: The Antidote](https://open.spotify.com/album/3BMSQ62xPnpHMyYx8CByYh) | 2:49 |
 | 64 | [Supermarché](https://open.spotify.com/track/2nTwIRB9J29KUI7eWprArI) | [Veda](https://open.spotify.com/artist/0l9oh06r4qAPI9jvwIJW5k), [David Hoyle](https://open.spotify.com/artist/7EmOKpaflttnkBXNZEhTUl) | [Transphibian](https://open.spotify.com/album/34Q0hpXICT1xqe6t6TjZTb) | 4:13 |
@@ -77,16 +77,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 67 | [I Love Being A Whore!](https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ) | [Sherry Vine](https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s) | [I Love Being A Whore!](https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU) | 2:36 |
 | 68 | [I Got You](https://open.spotify.com/track/2rSE4Hl1vnWQhRbbUH0bhb) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva), [Billy Cullum](https://open.spotify.com/artist/4io2LV6Cv46tjHIMSDie5k) | [Part 1: The Damage](https://open.spotify.com/album/4NAcKRrc0ueLhK8A0tYqGL) | 2:53 |
 | 69 | [Out of Office](https://open.spotify.com/track/2quoLHVf67QT7yPDoMQlTE) | [Karen From Finance](https://open.spotify.com/artist/3LMNZjSHkbGJ7jKKJhG94f) | [Out of Office](https://open.spotify.com/album/406xw48mEf8PUbq48eGu6C) | 3:14 |
-| 70 | [Here For It](https://open.spotify.com/track/0WMcCCWggt6q9pCBVLBmwN) | [Peppermint](https://open.spotify.com/artist/4Cy4hqXIcD2Gz4NGgbNSw6) | [Here For It](https://open.spotify.com/album/0vLZFcJpMsjOsublHTFjIk) | 2:59 |
-| 71 | [Stars \- Disco Mix](https://open.spotify.com/track/0NUqxqzbiABToJega47uSY) | [Veronica Green](https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl) | [Stars \(Disco Mix\)](https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY) | 4:12 |
+| 70 | [Stars \- Disco Mix](https://open.spotify.com/track/0NUqxqzbiABToJega47uSY) | [Veronica Green](https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl) | [Stars \(Disco Mix\)](https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY) | 4:12 |
+| 71 | [Here For It](https://open.spotify.com/track/0WMcCCWggt6q9pCBVLBmwN) | [Peppermint](https://open.spotify.com/artist/4Cy4hqXIcD2Gz4NGgbNSw6) | [Here For It](https://open.spotify.com/album/0vLZFcJpMsjOsublHTFjIk) | 2:59 |
 | 72 | [Gratify](https://open.spotify.com/track/3oAa776TeEtmmbvJ7fH4Bt) | [Divina De Campo](https://open.spotify.com/artist/2aQPlCSNFXtHbem9TfV8Y9) | [GRATIFY](https://open.spotify.com/album/4p8gkNRIpOy9OkbxDXhUwx) | 3:35 |
 | 73 | [Ornacia](https://open.spotify.com/track/3P7De9YTBIt5jfrZepoWVA) | [Vivacious](https://open.spotify.com/artist/17f5kPkp5H8UHtz31e9MAp) | [Ornacia](https://open.spotify.com/album/69LWtOGlMSCXJest9Zzmv7) | 4:46 |
 | 74 | [Come Together](https://open.spotify.com/track/7j9IL3tollUsa8Bkm5W32s) | [Sherry Vine](https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s) | [Come Together](https://open.spotify.com/album/2a64YiIwjhOm2XrphHlPYc) | 2:41 |
 | 75 | [Sissy That Walk](https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Born Naked](https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7) | 3:32 |
 | 76 | [Wrong Bitch](https://open.spotify.com/track/3eOYEYe2VUsiOSCW53OiZv) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Straight Outta Oz](https://open.spotify.com/album/1abVmBsdc82pIj9CQu7cN0) | 2:38 |
-| 77 | [God Save This Queen](https://open.spotify.com/track/1gb9WC6HVuokoVc4a3UgeK) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [God Save This Queen](https://open.spotify.com/album/0DAFiaQ1lbjhlqE76NIo40) | 3:14 |
-| 78 | [Yes Bitch! She Might Be!](https://open.spotify.com/track/6gSJM21icwHkqElZgMGDyh) | [Widow Von'du](https://open.spotify.com/artist/7cnJoej4MmqrDoTzSyMKYK) | [Yes Bitch! She Might Be!](https://open.spotify.com/album/4ByvsCipPAeR5wqm4yGhWe) | 3:08 |
-| 79 | [Stars](https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m) | [Veronica Green](https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl) | [Stars](https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G) | 4:11 |
+| 77 | [Stars](https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m) | [Veronica Green](https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl) | [Stars](https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G) | 4:11 |
+| 78 | [God Save This Queen](https://open.spotify.com/track/1gb9WC6HVuokoVc4a3UgeK) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [God Save This Queen](https://open.spotify.com/album/0DAFiaQ1lbjhlqE76NIo40) | 3:14 |
+| 79 | [Yes Bitch! She Might Be!](https://open.spotify.com/track/6gSJM21icwHkqElZgMGDyh) | [Widow Von'du](https://open.spotify.com/artist/7cnJoej4MmqrDoTzSyMKYK) | [Yes Bitch! She Might Be!](https://open.spotify.com/album/4ByvsCipPAeR5wqm4yGhWe) | 3:08 |
 | 80 | [Work Mommi Work \(feat\. Spankrock\)](https://open.spotify.com/track/1zvCLFkacsVXEWlO9hI7H3) | [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu), [Filthy Fidgets](https://open.spotify.com/artist/42Glv0vjfSSNGFiLOk1K4h), [Spank Rock](https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2) | [Rye Rye vs\. Filthy Fidgets](https://open.spotify.com/album/6LM8gofQ7e6jUWB9A8gfPc) | 3:55 |
 
 Snapshot ID: `ZloPIwAAAADq8BW72hvOj+uMjfPYGGWh`

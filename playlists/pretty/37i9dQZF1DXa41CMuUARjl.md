@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Mochakk
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,710 likes - 115 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,803 likes - 115 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 110 | [CHICAGO](https://open.spotify.com/track/0A6UNi1Sc3jttE5atlPd7L) | [Très Mortimer](https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7), [MATI \(US\)](https://open.spotify.com/artist/4TJAOykfCzp7nd20Fac4XC), [7000](https://open.spotify.com/artist/5c1jdzKEzrodDnQUa18o0c) | [CHICAGO](https://open.spotify.com/album/6hu0zFx194QGKc9688odcC) | 5:10 |
 | 111 | [Dirty House](https://open.spotify.com/track/69dFRzBNRbXnNYEb3u0IZu) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Dirty House](https://open.spotify.com/album/7EGX0x5CGqvST9QfUgDEuv) | 2:11 |
 | 112 | [Sabak Sa DJ Basuri](https://open.spotify.com/track/0sI7GwCSXgGuQTuuD6mzY2) | [DJ Love \(Sherwin Tuna\)](https://open.spotify.com/artist/1Yeag7FqLNFE3dIFitfbeC) | [Sabak Sa DJ Basuri](https://open.spotify.com/album/1JXK62R0y1qjqU6Z2Guqeu) | 2:53 |
-| 113 | [GASOLINE](https://open.spotify.com/track/6KMUMxuhY2xzCmydtudtc8) | [HiTech](https://open.spotify.com/artist/2Au9zIICTEr0oeV1iQrJ6X), [Juan Michael OG](https://open.spotify.com/artist/15gS088UbEeFOGwCZbzsby) | [GASOLINE](https://open.spotify.com/album/34i7kPW1vAlIzXaBcCTDxc) | 2:48 |
-| 114 | [Dance For Me](https://open.spotify.com/track/5VuQbGNZEpBzMPWYl84IF1) | [MADGRRL](https://open.spotify.com/artist/5kDQRbBoi2kxCHuR3YXzaX), [T A N E](https://open.spotify.com/artist/76vKcd8tKbbD9Ryrmsshgn) | [Dance For Me](https://open.spotify.com/album/6KgUsZ1RMePMnMOhmwIU1D) | 2:48 |
+| 113 | [Dance For Me](https://open.spotify.com/track/5VuQbGNZEpBzMPWYl84IF1) | [MADGRRL](https://open.spotify.com/artist/5kDQRbBoi2kxCHuR3YXzaX), [T A N E](https://open.spotify.com/artist/76vKcd8tKbbD9Ryrmsshgn) | [Dance For Me](https://open.spotify.com/album/6KgUsZ1RMePMnMOhmwIU1D) | 2:48 |
+| 114 | [GASOLINE](https://open.spotify.com/track/6KMUMxuhY2xzCmydtudtc8) | [HiTech](https://open.spotify.com/artist/2Au9zIICTEr0oeV1iQrJ6X), [Juan Michael OG](https://open.spotify.com/artist/15gS088UbEeFOGwCZbzsby) | [GASOLINE](https://open.spotify.com/album/34i7kPW1vAlIzXaBcCTDxc) | 2:48 |
 | 115 | [Durban Funk](https://open.spotify.com/track/7tjHviioNrTpheUJplhceZ) | [STATE OFFF](https://open.spotify.com/artist/4NHX5R0Td6ooWh1a34AhtB) | [Simulacra](https://open.spotify.com/album/6DW42TxsvHrlt5UTc7gXg5) | 5:23 |
 
 Snapshot ID: `ZqMsZAAAAAAL/W261Hpxzi6shTMxnHrS`

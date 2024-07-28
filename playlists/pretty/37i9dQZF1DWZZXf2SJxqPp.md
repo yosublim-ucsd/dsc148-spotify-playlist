@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZXf2SJxqPp.md) - [plain]
 
 > Canciones deliciosas para relajarse y pasarla chill junto a la piscina\. 🏖️🏊🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,723 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,751 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

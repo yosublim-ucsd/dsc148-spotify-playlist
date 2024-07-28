@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWiyE9VDkCO.md) - [plain]
 
 > Hits zum Tanzen und Mitsingen \- von damals bis heute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,033,032 likes - 150 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,033,026 likes - 150 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

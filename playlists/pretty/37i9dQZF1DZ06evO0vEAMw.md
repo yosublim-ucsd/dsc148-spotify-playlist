@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 
 ### [This Is Davido](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0vEAMw)
 
-> This is Davido\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is Davido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,693 likes - 51 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,708 likes - 51 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 50 | [Lower Body \(feat\. Davido\)](https://open.spotify.com/track/2jARcMhrTB54EH2VxNvWpW) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:03 |
 | 51 | [Lie for You \(feat\. A Boogie Wit Da Hoodie & Davido\)](https://open.spotify.com/track/6HMgvWVw3yHmFsmpyb864i) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Lie for You \(feat\. A Boogie Wit Da Hoodie & Davido\)](https://open.spotify.com/album/35AiG6czs0vooB8Om58tbx) | 3:43 |
 
-Snapshot ID: `ZqLnAAAAAAA0i/IkZT9Xc++tGGrGwC7P`
+Snapshot ID: `ZqLnAAAAAAC8qBPed579RXKecdPm57gX`

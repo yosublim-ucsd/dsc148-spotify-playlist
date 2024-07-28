@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 
 > Ný tónlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,061 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,061 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 | 89 | [Salamina](https://open.spotify.com/track/77n2LesdLx0krLwVgsVIWn) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Salamina](https://open.spotify.com/album/7EFHatQ7I0LuZNNFmwIFeV) | 2:56 |
 | 90 | [Pennsylvania Queen](https://open.spotify.com/track/4QSeEyFOfCt9H7YAE7igFO) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Song and Dance](https://open.spotify.com/album/3pXl7bC879gCm2cLIZjDP2) | 2:16 |
 | 91 | [011](https://open.spotify.com/track/5qJtGhWG8kkWiIOSXmJV6z) | [Milez](https://open.spotify.com/artist/0klOwYQsIudtR67ZYCRgo5), [Daniil](https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU) | [011](https://open.spotify.com/album/51z82bhA7I6BMtx7ZNh1Sz) | 3:12 |
-| 92 | [Bad Dope](https://open.spotify.com/track/0WHUpzFixlgSLJ9sXnRaUb) | [Breazy Daze](https://open.spotify.com/artist/1QCmoTex4q2YFHnfeCichL) | [Bad Dope](https://open.spotify.com/album/6bpQ5TUxQEYyl6TKHTqOI4) | 2:40 |
-| 93 | [Other Side](https://open.spotify.com/track/3WHI9kxRAJKjGcDRnQkWOQ) | [Bellvie](https://open.spotify.com/artist/5TfMFZyVModzZjI5DOWwnl) | [Other Side](https://open.spotify.com/album/7sCoIkdXurYnLVYwa2OEYd) | 4:20 |
-| 94 | [In our song](https://open.spotify.com/track/4acO5zZybQVkQgkeRyPgWJ) | [Kakali](https://open.spotify.com/artist/2z2se9gTIIl6mUMyRyDDRp) | [In our song](https://open.spotify.com/album/5Mkx2jY7RbUu6AOewIwBH6) | 3:18 |
+| 92 | [Not Alone](https://open.spotify.com/track/33wpyHU4LVqZXve6cRN5Ei) | [In Space](https://open.spotify.com/artist/7KUuS8tLnu5QN8jQwiX3Jp) | [Not Alone](https://open.spotify.com/album/3Hya1YpzRoSO5osOaFkx34) | 3:30 |
+| 93 | [Feel Like Summer](https://open.spotify.com/track/6Q4Jzsi1drweJ0hvnbFmL3) | [Steinarsson](https://open.spotify.com/artist/2urvs9ska2jkkedR8LyXy0), [Marli](https://open.spotify.com/artist/3VF7MG3VRTTOlRTlYwAUYW) | [Feel Like Summer](https://open.spotify.com/album/1PR3ivYbkjsfNKvaSgTuPW) | 3:13 |
+| 94 | [Bad Dope](https://open.spotify.com/track/0WHUpzFixlgSLJ9sXnRaUb) | [Breazy Daze](https://open.spotify.com/artist/1QCmoTex4q2YFHnfeCichL) | [Bad Dope](https://open.spotify.com/album/6bpQ5TUxQEYyl6TKHTqOI4) | 2:40 |
 | 95 | [Ice Queen](https://open.spotify.com/track/2a7Ao4ghSr7odQIk7AlVVA) | [Sæfari](https://open.spotify.com/artist/608E2fehF9UQiovLeo2u16) | [Ice Queen](https://open.spotify.com/album/318jsC0msWm1AVgW7Vyirn) | 4:24 |
-| 96 | [Not Alone](https://open.spotify.com/track/33wpyHU4LVqZXve6cRN5Ei) | [In Space](https://open.spotify.com/artist/7KUuS8tLnu5QN8jQwiX3Jp) | [Not Alone](https://open.spotify.com/album/3Hya1YpzRoSO5osOaFkx34) | 3:30 |
-| 97 | [Love Lean](https://open.spotify.com/track/1g644CrUCPzu6SkbOeSSHA) | [LEX1](https://open.spotify.com/artist/4KpmarSWMPNTPMWsNPGilb) | [PAIN](https://open.spotify.com/album/7uE9AI8i8HS3apLcXjEqCQ) | 1:43 |
-| 98 | [Feel Like Summer](https://open.spotify.com/track/6Q4Jzsi1drweJ0hvnbFmL3) | [Steinarsson](https://open.spotify.com/artist/2urvs9ska2jkkedR8LyXy0), [Marli](https://open.spotify.com/artist/3VF7MG3VRTTOlRTlYwAUYW) | [Feel Like Summer](https://open.spotify.com/album/1PR3ivYbkjsfNKvaSgTuPW) | 3:13 |
+| 96 | [Ekki gleyma mér](https://open.spotify.com/track/1SUOks6JVkuJ3QmgZUpVv5) | [Jón Möller](https://open.spotify.com/artist/7nj1TKS719PTVZosDtmUm5) | [Ekki gleyma mér](https://open.spotify.com/album/7q5DAObsQjD9eVcc9KSqPf) | 3:39 |
+| 97 | [Other Side](https://open.spotify.com/track/3WHI9kxRAJKjGcDRnQkWOQ) | [Bellvie](https://open.spotify.com/artist/5TfMFZyVModzZjI5DOWwnl) | [Other Side](https://open.spotify.com/album/7sCoIkdXurYnLVYwa2OEYd) | 4:20 |
+| 98 | [Höfin Blá](https://open.spotify.com/track/01JFMIazSriHpDKrpnUbkV) | [Ástrós](https://open.spotify.com/artist/48xh4lWtXL9c8FmnOzLhQe) | [Höfin Blá](https://open.spotify.com/album/75gUACnNytz0gv5aLtspPz) | 2:51 |
 | 99 | [gráta smá](https://open.spotify.com/track/721uyc5FhCuGfY8gozTd23) | [Supersport!](https://open.spotify.com/artist/2jfwKdbKSL1G8Iqrjq9Tg6) | [gráta smá](https://open.spotify.com/album/2Jg3woI7H28nw0fD7wX66y) | 2:41 |
-| 100 | [From The Shore](https://open.spotify.com/track/4spqHmg2aIxau0MXNf1XqR) | [Kristberg](https://open.spotify.com/artist/0LyR2SXDueRQGLtGhTwaFO) | [From The Shore](https://open.spotify.com/album/1af3dKzZA34j2SWZbGAUPQ) | 2:32 |
+| 100 | [Innipúki](https://open.spotify.com/track/4IFwYIKpgvYCT2xKyxf5Ns) | [HASAR](https://open.spotify.com/artist/3RKY1XBHEUceTbyBrDtCTA) | [Innipúki](https://open.spotify.com/album/3Any2exzNtg090ZcF9gYi3) | 2:49 |
 
 Snapshot ID: `ZqLnAAAAAADDQHCf1v0Zkp2wzlixPfIr`

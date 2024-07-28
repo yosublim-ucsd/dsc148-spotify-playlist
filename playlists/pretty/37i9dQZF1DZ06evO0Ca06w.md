@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Ca06w.md) - [plain]
 
 ### [This Is Miriam Makeba](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Ca06w)
 
-> This is Miriam Makeba\. The essential tracks, all in one playlist.
+> This is Miriam Makeba\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,379 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,383 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Ca06w.md) - [plain]
 | 49 | [Holilili \- Remastered 2024](https://open.spotify.com/track/2JPc66jkgYF11UYvHj3eUV) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Unforgettable Miriam Makeba \(Remastered 2024\)](https://open.spotify.com/album/28whMtpMbbEI2M1DqojLDo) | 2:34 |
 | 50 | [Djiu de Galinha](https://open.spotify.com/track/6DiHndbg1CcNgZRXjiDUbj) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4) | 4:08 |
 
-Snapshot ID: `ZqLnAAAAAAA93cQfoUOZ2/IHxkKwYbMf`
+Snapshot ID: `ZqLnAAAAAACCF+x6qn9qIwH5P6Js8DZn`

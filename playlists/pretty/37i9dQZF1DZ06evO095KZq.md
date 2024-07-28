@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 
 ### [This Is El Fantasma](https://open.spotify.com/playlist/37i9dQZF1DZ06evO095KZq)
 
-> This is El Fantasma\. The essential tracks, all in one playlist.
+> This Is El Fantasma\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,113 likes - 51 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,133 likes - 51 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 | 50 | [Bien EnRRedado](https://open.spotify.com/track/6Qld1xtQDQS4FqdhgOQ6V7) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Nueva Partida](https://open.spotify.com/artist/1phGBErM9y4sQEDZv2zORR) | [Bien EnRRedado](https://open.spotify.com/album/1iXDvhAunMV7qEEMFDzCvp) | 2:52 |
 | 51 | [Quien Te Dio Permiso](https://open.spotify.com/track/6ZzZIt4GgQTDeHXMxRvxNN) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Quien Te Dio Permiso](https://open.spotify.com/album/15ZaNM3eSNZ7MdFyPHBED3) | 2:53 |
 
-Snapshot ID: `ZqLnAAAAAACblcPekysiMnjAGBan+lIu`
+Snapshot ID: `ZqLnAAAAAADe27S72w3qyRyfMWY97LmF`

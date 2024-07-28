@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 
 > Les meilleurs hits Pop c'est ici\. Cover: Hind Ziadi
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,571 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,617 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Boom Boom](https://open.spotify.com/track/5pjYaVlejSYb84DlG71Qx4) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [BOOM BOOM](https://open.spotify.com/album/0cgPDMMTm1NrfgXLzGovUk) | 3:32 |
-| 2 | [Magdar](https://open.spotify.com/track/4vT286Zu3aHYW96N76joB7) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Magdar](https://open.spotify.com/album/2BgCJlo2EDx4w5uxTP3hJC) | 3:12 |
-| 3 | [Bla Bla](https://open.spotify.com/track/1PlZpPgiBtPlB7uCAYa3ov) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Bla Bla](https://open.spotify.com/album/1Bz9d2WJ4nYffksQJ7XTAs) | 3:01 |
-| 4 | [Dawini](https://open.spotify.com/track/5d54P8T7TXGwE2d0zyN3uu) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Dawini](https://open.spotify.com/album/3013V6wepDbBnb81uVU95j) | 2:41 |
-| 5 | [Mahboul Ana](https://open.spotify.com/track/2YmbOhmRPDZ5XD5l9jROln) | [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Mahboul Ana](https://open.spotify.com/album/5S0X8OEdaDeVvvH5EoSlxY) | 3:05 |
-| 6 | [Daba Daba](https://open.spotify.com/track/15fXeiSQQLMVoHngb3zmOo) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc), [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Daba Daba](https://open.spotify.com/album/2Imksx0mXReQkBWlhifU5s) | 2:42 |
-| 7 | [Ntiya](https://open.spotify.com/track/3HTXEyvWPTZusrpBWmU6oy) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [Ntiya](https://open.spotify.com/album/6kHpHJnasd7it6G9fYW6lc) | 4:16 |
-| 8 | [Matgheltech](https://open.spotify.com/track/00c3VyS0fPdFOZa8PNsXgX) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Matgheltech](https://open.spotify.com/album/5WBdOgzrEPdn0TB5GaYSh0) | 3:15 |
-| 9 | [Badadi](https://open.spotify.com/track/1dBv07ZgvsNBeQs2lJon6W) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Badadi](https://open.spotify.com/album/250j3jUtT9Ow3oy67N9vuB) | 2:45 |
+| 2 | [Mahboul Ana](https://open.spotify.com/track/2YmbOhmRPDZ5XD5l9jROln) | [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Mahboul Ana](https://open.spotify.com/album/5S0X8OEdaDeVvvH5EoSlxY) | 3:05 |
+| 3 | [Badadi](https://open.spotify.com/track/1dBv07ZgvsNBeQs2lJon6W) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Badadi](https://open.spotify.com/album/250j3jUtT9Ow3oy67N9vuB) | 2:45 |
+| 4 | [Magdar](https://open.spotify.com/track/4vT286Zu3aHYW96N76joB7) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Magdar](https://open.spotify.com/album/2BgCJlo2EDx4w5uxTP3hJC) | 3:12 |
+| 5 | [Bla Bla](https://open.spotify.com/track/1PlZpPgiBtPlB7uCAYa3ov) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Bla Bla](https://open.spotify.com/album/1Bz9d2WJ4nYffksQJ7XTAs) | 3:01 |
+| 6 | [Dawini](https://open.spotify.com/track/5d54P8T7TXGwE2d0zyN3uu) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Dawini](https://open.spotify.com/album/3013V6wepDbBnb81uVU95j) | 2:41 |
+| 7 | [Daba Daba](https://open.spotify.com/track/15fXeiSQQLMVoHngb3zmOo) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc), [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Daba Daba](https://open.spotify.com/album/2Imksx0mXReQkBWlhifU5s) | 2:42 |
+| 8 | [Ntiya](https://open.spotify.com/track/3HTXEyvWPTZusrpBWmU6oy) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [Ntiya](https://open.spotify.com/album/6kHpHJnasd7it6G9fYW6lc) | 4:16 |
+| 9 | [Matgheltech](https://open.spotify.com/track/00c3VyS0fPdFOZa8PNsXgX) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Matgheltech](https://open.spotify.com/album/5WBdOgzrEPdn0TB5GaYSh0) | 3:15 |
 | 10 | [Maalabalich](https://open.spotify.com/track/6O7AbZ5y4dJY2BUspC9jRe) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Maalabalich](https://open.spotify.com/album/6yXcj13AGTgEeDzfJp6BRh) | 3:10 |
 | 11 | [Rdak](https://open.spotify.com/track/0OMTBSczuo1Jqmi27d3ArQ) | [Ibtissam Tiskat](https://open.spotify.com/artist/4l1fokkgiLZQg1qx0kkKrm), [T\-scat](https://open.spotify.com/artist/59PdirF6sVju6Wr5H7xyOu) | [Rdak](https://open.spotify.com/album/5Ccd7VKKL1jM2zEZ6i4owb) | 4:38 |
 | 12 | [Ya Galbi Berkek](https://open.spotify.com/track/0QT7JRfIC9qZloJ7symiUm) | [farid kalamity](https://open.spotify.com/artist/7FoC6zhlfGBo8wMzq7nn2h), [Farid Kalamity Feat Moo sive](https://open.spotify.com/artist/28POKI4oXOOQaau2CPKuWU) | [Ya Galbi Berkek](https://open.spotify.com/album/4seugfWTs0AP1ErlUkHrzm) | 3:39 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 59 | [Dima Mechi](https://open.spotify.com/track/4FqzaLISWmn42eDkTenweI) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Dima Mechi \(ديما ماشي\)](https://open.spotify.com/album/7dcTaS0a7Sp7XafbHbLYf5) | 4:45 |
 | 60 | [Rouhani](https://open.spotify.com/track/2417U3M1EmTIU34xpBEfA0) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Rouhani](https://open.spotify.com/album/0557ejgFhXB7KOb4K2ryt0) | 3:01 |
 
-Snapshot ID: `ZqHyvwAAAACg4OZbDh+yzchDIy7j/Atj`
+Snapshot ID: `ZqUudQAAAABbQMf2WGxJ3u7TMXiOfmVd`

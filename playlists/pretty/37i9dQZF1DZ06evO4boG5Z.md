@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4boG5Z.md) - [plain]
 
 ### [This Is Millencolin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4boG5Z)
 
-> This is Millencolin\. The essential tracks, all in one playlist.
+> This is Millencolin\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,870 likes - 49 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,869 likes - 49 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4boG5Z.md) - [plain]
 | 48 | [Fazil's Friend](https://open.spotify.com/track/1RnXW0OprV2LRi8s6Er4Kh) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Same Old Tunes](https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0) | 1:52 |
 | 49 | [Domestic Subway](https://open.spotify.com/track/54lIoeGRSmMGExbgCsgVo7) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Same Old Tunes](https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0) | 1:38 |
 
-Snapshot ID: `ZqLnAAAAAABpmPuebturmhP9ih9UdnwO`
+Snapshot ID: `ZqLnAAAAAABmNyE/S5roOcFQLWLOgHiR`

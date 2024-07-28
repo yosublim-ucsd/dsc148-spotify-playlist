@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2SD7U4.md) - [plain]
 
 ### [This Is Botellita De Jerez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2SD7U4)
 
-> This Is Botellita De Jerez\. Los temas esenciales, todos en una lista.
+> This is Botellita De Jerez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,826 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,829 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2SD7U4.md) - [plain]
 | 49 | [El Santo Contra La Tetona Mendoza \- En Vivo](https://open.spotify.com/track/3e0E6FrkUHVnLmqGn2wUAN) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [El Último Guacarrock \(En Vivo\)](https://open.spotify.com/album/1GlSNF3HV9bp4bWmIB1cYA) | 7:03 |
 | 50 | [\#43](https://open.spotify.com/track/3zfKRXybTgMrnpIqzBDtYi) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [\#Nopinchesmames](https://open.spotify.com/album/0f7hbtdhG4rW5xNydzad7d) | 2:39 |
 
-Snapshot ID: `ZqLnAAAAAACqnKNFd5/Aizc2HbYKumtO`
+Snapshot ID: `ZqLnAAAAAADaALDgh6SBYSTzwnM18qXL`

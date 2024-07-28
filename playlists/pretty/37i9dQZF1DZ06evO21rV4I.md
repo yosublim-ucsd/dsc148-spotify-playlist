@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 
 ### [This Is Wizkid](https://open.spotify.com/playlist/37i9dQZF1DZ06evO21rV4I)
 
-> This is Wizkid\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Wizkid\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,050 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,070 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 49 | [Ghetto Love](https://open.spotify.com/track/4lzkcjVC7xT3HBIg2PjJ30) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ghetto Love](https://open.spotify.com/album/2HEw2wkLTBWlbk8lGSqnY2) | 3:18 |
 | 50 | [Can't Believe \(feat\. Ty Dolla $ign & WizKid\)](https://open.spotify.com/track/10C1ZwdAwSEmMeYAFvuTtv) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Can't Believe \(feat\. Ty Dolla $ign & WizKid\)](https://open.spotify.com/album/7fvnfIXtw00lgcCncIhoJv) | 3:33 |
 
-Snapshot ID: `ZqLnAAAAAACbhl+mGgHwnTHu2XBaj7O4`
+Snapshot ID: `ZqLnAAAAAADxcBgNUtBDbDItjMuPFP0V`

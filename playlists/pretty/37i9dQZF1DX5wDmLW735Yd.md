@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wDmLW735Yd.md) - [plain]
 
 > The world's biggest Drum 'n' Bass playlist! Cover: CLIPZ, Chy Cartier
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,428,460 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,428,487 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

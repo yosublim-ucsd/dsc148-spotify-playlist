@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 
 > عيش أجمل حالة حب 🫶❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,275 likes - 99 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,353 likes - 99 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,17 +95,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 85 | [إنتي الحياه \- إيجار قديم](https://open.spotify.com/track/2P2jPhzQiHlm2yVg5E1RIw) | [Mohamed El Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [إنتي الحياه \(إيجار قديم\)](https://open.spotify.com/album/5WQ92QnGxYMPfEoUM6zPx2) | 3:46 |
 | 86 | [Fe Keda](https://open.spotify.com/track/3J2v3X92FYxq5vCK9gs7oq) | [Mohamed Mohie](https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4) | [Fe Keda](https://open.spotify.com/album/2AvAE36IYscAmnOMUjHhX9) | 5:05 |
 | 87 | [Bashouf Oyounak](https://open.spotify.com/track/3SM8mzJiLccBnX6gbVvMzS) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [Bashouf Oyounak](https://open.spotify.com/album/69MWOMSRXY9PFSFbvaH9T6) | 4:35 |
-| 88 | [قولى اه](https://open.spotify.com/track/7DX7SJoVSAuN0f7Vbd3K2d) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [خليني أشوفك](https://open.spotify.com/album/5JwGbgFci3q0pLCKHzGZPc) | 3:10 |
-| 89 | [Ya Nas](https://open.spotify.com/track/3MDT6ZQtjHzeV0C1oZXoqZ) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Ya Nas](https://open.spotify.com/album/6OKavRiNQqvDCvOm9KSu1b) | 4:40 |
-| 90 | [Kol Haga Bena](https://open.spotify.com/track/6R9vGR2LDKwSjCdGfzk4iF) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Kol Haga Bena](https://open.spotify.com/album/4sP2eO6axQPJmj29zVbWe3) | 4:10 |
-| 91 | [Lela](https://open.spotify.com/track/2QAi4scKA8gb5QdbFPHpa6) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Lela](https://open.spotify.com/album/34FAOuyGpr0rbvbGZu4qbT) | 3:44 |
-| 92 | [Batamenak](https://open.spotify.com/track/3FozW42AAcwXxdzmj0nnrE) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Batamenak](https://open.spotify.com/album/7k3PIF19g9LejhZg2lizOV) | 4:51 |
-| 93 | [حالة حب](https://open.spotify.com/track/39p66qAicNOejp5HezzEhx) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [حالة حب](https://open.spotify.com/album/6ZOqtsofNgZTmB7QaTeL74) | 5:09 |
-| 94 | [Mabathazesh](https://open.spotify.com/track/0Y0R0OIt1oFVe6hcvMshmB) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Leaya Nazra](https://open.spotify.com/album/7MHkevRnaopianIi9qlBEW) | 4:43 |
+| 88 | [ماتيجي اعدي عليكي](https://open.spotify.com/track/5ks7fVLJY4QRlAALIqJfMR) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [كوكتيل غنائي](https://open.spotify.com/album/42aXaZ9YPO28BbWlTLXVXV) | 2:25 |
+| 89 | [قولى اه](https://open.spotify.com/track/7DX7SJoVSAuN0f7Vbd3K2d) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [خليني أشوفك](https://open.spotify.com/album/5JwGbgFci3q0pLCKHzGZPc) | 3:10 |
+| 90 | [Ya Nas](https://open.spotify.com/track/3MDT6ZQtjHzeV0C1oZXoqZ) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Ya Nas](https://open.spotify.com/album/6OKavRiNQqvDCvOm9KSu1b) | 4:40 |
+| 91 | [Kol Haga Bena](https://open.spotify.com/track/6R9vGR2LDKwSjCdGfzk4iF) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Kol Haga Bena](https://open.spotify.com/album/4sP2eO6axQPJmj29zVbWe3) | 4:10 |
+| 92 | [Lela](https://open.spotify.com/track/2QAi4scKA8gb5QdbFPHpa6) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Lela](https://open.spotify.com/album/34FAOuyGpr0rbvbGZu4qbT) | 3:44 |
+| 93 | [Batamenak](https://open.spotify.com/track/3FozW42AAcwXxdzmj0nnrE) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Batamenak](https://open.spotify.com/album/7k3PIF19g9LejhZg2lizOV) | 4:51 |
+| 94 | [حالة حب](https://open.spotify.com/track/39p66qAicNOejp5HezzEhx) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [حالة حب](https://open.spotify.com/album/6ZOqtsofNgZTmB7QaTeL74) | 5:09 |
 | 95 | [7elm B3eed](https://open.spotify.com/track/4t3BgID893bIAXxcCdux4y) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [7elm B3eed](https://open.spotify.com/album/5itc02N01J4NlNf6NNxzSH) | 5:16 |
-| 96 | [Fe Hetta Tanya](https://open.spotify.com/track/6lCoHq4ZBVAVSk83G55nnp) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Fe Hetta Tanya](https://open.spotify.com/album/2BHwb6p6sLzdNRZkepJNtF) | 4:17 |
-| 97 | [We Enta Maaya](https://open.spotify.com/track/13MdSSBSTpufy06VZCCkUD) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Eish Besho'ak](https://open.spotify.com/album/59Behg6SoGd5d4U4ljmZDg) | 3:52 |
-| 98 | [Habitha Ya Nas \- From Bhabak](https://open.spotify.com/track/2SeSRjNj2SJF7Ieo8Q1vnj) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Habitha Ya Nas \(From Bhabak\)](https://open.spotify.com/album/6Bhai5TfTSq9hX4SyHSvGS) | 2:35 |
-| 99 | [Enta Ekhtyar \- From Bhabak Movie](https://open.spotify.com/track/5bMArgC9c0qSHRoTL2NlLy) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Enta Ekhtyar \(From Bhabak Movie\)](https://open.spotify.com/album/0os60GScuoNH6G53ga73IE) | 4:48 |
+| 96 | [Mabathazesh](https://open.spotify.com/track/0Y0R0OIt1oFVe6hcvMshmB) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Leaya Nazra](https://open.spotify.com/album/7MHkevRnaopianIi9qlBEW) | 4:43 |
+| 97 | [Fe Hetta Tanya](https://open.spotify.com/track/6lCoHq4ZBVAVSk83G55nnp) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Fe Hetta Tanya](https://open.spotify.com/album/2BHwb6p6sLzdNRZkepJNtF) | 4:17 |
+| 98 | [We Enta Maaya](https://open.spotify.com/track/13MdSSBSTpufy06VZCCkUD) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Eish Besho'ak](https://open.spotify.com/album/59Behg6SoGd5d4U4ljmZDg) | 3:52 |
+| 99 | [Habitha Ya Nas \- From Bhabak](https://open.spotify.com/track/2SeSRjNj2SJF7Ieo8Q1vnj) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Habitha Ya Nas \(From Bhabak\)](https://open.spotify.com/album/6Bhai5TfTSq9hX4SyHSvGS) | 2:35 |
 
-Snapshot ID: `ZnxjEwAAAAAt7plt7JgFSeAaXIWhA3Mf`
+Snapshot ID: `ZqUmEQAAAAA2dbAxLQJR99NwAz1HMgRj`

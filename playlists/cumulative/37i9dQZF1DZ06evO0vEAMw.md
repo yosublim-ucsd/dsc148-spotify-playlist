@@ -2,7 +2,7 @@
 
 ### [This Is Davido](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0vEAMw)
 
-> This is Davido\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is Davido\. The essential tracks, all in one playlist.
 
 127 songs - 7 hr 5 min
 

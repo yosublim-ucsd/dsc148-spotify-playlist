@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy music\. Cover: Trash Boat
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,523 likes - 130 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,508 likes - 130 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

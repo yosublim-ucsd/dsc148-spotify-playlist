@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers to soundtrack the happiest day of your life.",
-  "num_followers": 325438,
+  "num_followers": 325508,
   "original_name": "Wedding Party",
   "owner": {
     "name": "Spotify",
@@ -1579,6 +1579,38 @@
     {
       "added_at": "2024-03-18 17:00:39",
       "album": {
+        "name": "Tango In The Night",
+        "url": "https://open.spotify.com/album/1W5YP0TlKjFtb2UZJThLpV"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 222733,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/6i8ecOsx4J2Px1maiqzqoG"
+    },
+    {
+      "added_at": "2024-03-18 17:00:39",
+      "album": {
+        "name": "King of Mambo",
+        "url": "https://open.spotify.com/album/2ZYW7Gnq62sNuZi1hDqgwC"
+      },
+      "artists": [
+        {
+          "name": "Lou Bega",
+          "url": "https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx"
+        }
+      ],
+      "duration_ms": 219600,
+      "name": "Mambo No. 5 (A Little Bit of...)",
+      "url": "https://open.spotify.com/track/5lA6mFOvaiienokVbTZEQx"
+    },
+    {
+      "added_at": "2024-03-18 17:00:39",
+      "album": {
         "name": "You Got the Love",
         "url": "https://open.spotify.com/album/1HT8FmsDQuWYmkCBVREimB"
       },
@@ -1631,50 +1663,18 @@
     {
       "added_at": "2024-03-18 17:00:39",
       "album": {
-        "name": "Tango In The Night",
-        "url": "https://open.spotify.com/album/1W5YP0TlKjFtb2UZJThLpV"
+        "name": "Saturday Night Fever [The Original Movie Soundtrack]",
+        "url": "https://open.spotify.com/album/0taUwU7qjtc9lvwmd7FKac"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
         }
       ],
-      "duration_ms": 222733,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/6i8ecOsx4J2Px1maiqzqoG"
-    },
-    {
-      "added_at": "2024-03-18 17:00:39",
-      "album": {
-        "name": "Now, Then & Forever",
-        "url": "https://open.spotify.com/album/1mzir7lA3b0Zsig6wYCQKN"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 216346,
-      "name": "September",
-      "url": "https://open.spotify.com/track/06rPFgQsKS607RhYIqCmGq"
-    },
-    {
-      "added_at": "2024-03-18 17:00:39",
-      "album": {
-        "name": "DNCE",
-        "url": "https://open.spotify.com/album/7K89F9bgY1jks0uIlMerm3"
-      },
-      "artists": [
-        {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
-        }
-      ],
-      "duration_ms": 219146,
-      "name": "Cake By The Ocean",
-      "url": "https://open.spotify.com/track/2aFiaMXmWsM3Vj72F9ksBl"
+      "duration_ms": 285373,
+      "name": "Stayin' Alive - 2007 Remastered Version Saturday Night Fever",
+      "url": "https://open.spotify.com/track/5cP52DlDN9yryuZVQDg3iq"
     }
   ],
   "unique_name": "Wedding Party",

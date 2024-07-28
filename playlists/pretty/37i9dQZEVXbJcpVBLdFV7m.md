@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJcpVBLdFV7m.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,898 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,896 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJcpVBLdFV7m.md) - [plain]
 | 49 | [Лято 24](https://open.spotify.com/track/39FfV9Kqn9b0wO9oU77yzS) | [Yunal](https://open.spotify.com/artist/0O7hCnZvfRMnYnW4R9IXP7), [Fari](https://open.spotify.com/artist/1xJR8KEobeHT0R5FlWW4Z8), [Misho Sax](https://open.spotify.com/artist/1gqHE8NYqdlDqyfAFLhVMT) | [Лято 24](https://open.spotify.com/album/50PLNxw8qoU1qVeaB9EZxX) | 2:50 |
 | 50 | [Докторе](https://open.spotify.com/track/3w30KXcLHK8crsWlDAxSVe) | [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355) | [GALENAXX](https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7) | 3:29 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

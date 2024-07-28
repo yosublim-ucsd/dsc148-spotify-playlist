@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades do pop nacional pra te deixar mais leve! Foto: Sophi, Anna Pêgo
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,513 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,511 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 74 | [Eu e Você](https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Eu e Você](https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO) | 3:05 |
 | 75 | [Prece](https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j) | [RAY](https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot) | [Prece](https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2) | 3:47 |
 | 76 | [Eu Gosto Assim](https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv) | [Karol Ribê](https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt) | [Eu Gosto Assim](https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd) | 3:26 |
-| 77 | [o que seria se...](https://open.spotify.com/track/0Z6bEMKRNmP0qMrbCkfEzA) | [Sophia Stedile](https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi) | [o que seria se...](https://open.spotify.com/album/2b2q4eVCw5pdtHtI0W2fYH) | 2:26 |
-| 78 | [Só sei dançar com você](https://open.spotify.com/track/74L3wypDfhXMvAYE7mDq09) | [Enzo Yuki](https://open.spotify.com/artist/3Bw1XXhKZBD63mHPKiJZBR) | [Só sei dançar com você](https://open.spotify.com/album/6JqH7U3T62fe24mTWJsTZo) | 4:00 |
+| 77 | [Só sei dançar com você](https://open.spotify.com/track/74L3wypDfhXMvAYE7mDq09) | [Enzo Yuki](https://open.spotify.com/artist/3Bw1XXhKZBD63mHPKiJZBR) | [Só sei dançar com você](https://open.spotify.com/album/6JqH7U3T62fe24mTWJsTZo) | 4:00 |
+| 78 | [o que seria se...](https://open.spotify.com/track/0Z6bEMKRNmP0qMrbCkfEzA) | [Sophia Stedile](https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi) | [o que seria se...](https://open.spotify.com/album/2b2q4eVCw5pdtHtI0W2fYH) | 2:26 |
 | 79 | [acende essa ponta](https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5) | [Brolo Gonzalez](https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg) | [Entre o Nada e o Infinito](https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H) | 2:55 |
 | 80 | [A Cara do Amor da Minha Vida](https://open.spotify.com/track/4IjOrQ4CBgjE6JDxbSEnJx) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [A Cara do Amor da Minha Vida](https://open.spotify.com/album/0OvRM5meYXSh2A5n4vN2NC) | 2:31 |
 

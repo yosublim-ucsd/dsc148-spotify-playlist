@@ -1,6 +1,6 @@
 {
   "description": "Big hits from the world of acoustics.",
-  "num_followers": 2061658,
+  "num_followers": 2061657,
   "original_name": "Acoustic Throwbacks",
   "owner": {
     "name": "Spotify",
@@ -4335,6 +4335,22 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
+        "name": "Vault Playlist Vol. 1",
+        "url": "https://open.spotify.com/album/5CyqXyKJeRU4PGTahuE4i5"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 259569,
+      "name": "No One - Acoustic",
+      "url": "https://open.spotify.com/track/2VFf8YhTnmhWF108o9UEr7"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
         "name": "Can't Stop the Feeling / This Is What You Came For",
         "url": "https://open.spotify.com/album/2UBUdGZKPM7ZEuKi1uMkNC"
       },
@@ -4351,22 +4367,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Acoustic Favourites",
-        "url": "https://open.spotify.com/album/1wpciFEPWX1fdgmIHO19Ez"
-      },
-      "artists": [
-        {
-          "name": "Matt Johnson",
-          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
-        }
-      ],
-      "duration_ms": 126827,
-      "name": "I Feel It Coming - Acoustic Live Lounge",
-      "url": "https://open.spotify.com/track/2JeQGU3gmi7HEG6tCFNgzI"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "I Wanna Dance with Somebody (Acoustic)",
         "url": "https://open.spotify.com/album/6uD5hZuQwWjcWmmGSuEUH3"
       },
@@ -4379,6 +4379,22 @@
       "duration_ms": 211291,
       "name": "I Wanna Dance with Somebody - Acoustic",
       "url": "https://open.spotify.com/track/2Ksnh0QtEidLCZXSbPqxoI"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Acoustic Favourites",
+        "url": "https://open.spotify.com/album/1wpciFEPWX1fdgmIHO19Ez"
+      },
+      "artists": [
+        {
+          "name": "Matt Johnson",
+          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
+        }
+      ],
+      "duration_ms": 126827,
+      "name": "I Feel It Coming - Acoustic Live Lounge",
+      "url": "https://open.spotify.com/track/2JeQGU3gmi7HEG6tCFNgzI"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -4479,22 +4495,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Vault Playlist Vol. 1",
-        "url": "https://open.spotify.com/album/5CyqXyKJeRU4PGTahuE4i5"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 259569,
-      "name": "No One - Acoustic",
-      "url": "https://open.spotify.com/track/2VFf8YhTnmhWF108o9UEr7"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Think Twice",
         "url": "https://open.spotify.com/album/4LqKBvjdd3Pw0xwXWhU8mr"
       },
@@ -4511,6 +4511,90 @@
       "duration_ms": 211573,
       "name": "Think Twice",
       "url": "https://open.spotify.com/track/2NemVm8OFPcHdm4JhTTFTD"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Slow Hands (Acoustic)",
+        "url": "https://open.spotify.com/album/3Uab8u2BzV3lvjD6LsUBVo"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 160592,
+      "name": "Slow Hands - Acoustic",
+      "url": "https://open.spotify.com/track/7tAPTpA6VmKAeu3S5w9RVW"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Mercy (Acoustic Guitar)",
+        "url": "https://open.spotify.com/album/0QNjg5KFD0lugWxtDwEjIT"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 221200,
+      "name": "Mercy - Acoustic Guitar",
+      "url": "https://open.spotify.com/track/6myZDVrjLSbcezdqD0lbFr"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Let Me Love You (Andrew Watt Acoustic Remix)",
+        "url": "https://open.spotify.com/album/47ordPwmrLL0yhgijBbc6q"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "Let Me Love You - Andrew Watt Acoustic Remix",
+      "url": "https://open.spotify.com/track/3D1dtHt0jajUguVbEo4iAu"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "One Call Away (Acoustic)",
+        "url": "https://open.spotify.com/album/1KMGNGGzMCjT5p9l87bY3A"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 189052,
+      "name": "One Call Away - Acoustic",
+      "url": "https://open.spotify.com/track/4qE36yuwYbHnsPzlwhrO3M"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Most Girls (Acoustic)",
+        "url": "https://open.spotify.com/album/7gT9MpCiawEKB8Gm81KwqQ"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        }
+      ],
+      "duration_ms": 200880,
+      "name": "Most Girls - Acoustic",
+      "url": "https://open.spotify.com/track/2vwfLDovGdUv36zwtcoQD5"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -4579,22 +4663,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "One Call Away (Acoustic)",
-        "url": "https://open.spotify.com/album/1KMGNGGzMCjT5p9l87bY3A"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 189052,
-      "name": "One Call Away - Acoustic",
-      "url": "https://open.spotify.com/track/4qE36yuwYbHnsPzlwhrO3M"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Lonely Together (Acoustic)",
         "url": "https://open.spotify.com/album/0HYuE13yf1uI1i2voieXMA"
       },
@@ -4647,22 +4715,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Solo Dance (From Morning Till Midnight)",
-        "url": "https://open.spotify.com/album/4V1rw5qBzsBQriGLwql8vU"
-      },
-      "artists": [
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        }
-      ],
-      "duration_ms": 192574,
-      "name": "Solo Dance - Acoustic Mix",
-      "url": "https://open.spotify.com/track/5PUqb7aCQHByJ0waXwdxkw"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Starving (Acoustic)",
         "url": "https://open.spotify.com/album/2rTG6XOfAwNyfwjACFKN16"
       },
@@ -4687,18 +4739,18 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Glory Days: The Platinum Edition",
-        "url": "https://open.spotify.com/album/5DL2Z5x7UJsWH1HhE9j8nd"
+        "name": "Solo Dance (From Morning Till Midnight)",
+        "url": "https://open.spotify.com/album/4V1rw5qBzsBQriGLwql8vU"
       },
       "artists": [
         {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
         }
       ],
-      "duration_ms": 245866,
-      "name": "Shout Out to My Ex - Acoustic",
-      "url": "https://open.spotify.com/track/2X4UxcPyj9hvgwmfi7c6VT"
+      "duration_ms": 192574,
+      "name": "Solo Dance - Acoustic Mix",
+      "url": "https://open.spotify.com/track/5PUqb7aCQHByJ0waXwdxkw"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -4715,6 +4767,22 @@
       "duration_ms": 323080,
       "name": "State Of Grace - Acoustic Version",
       "url": "https://open.spotify.com/track/6g6ideAIzJ26LLxtpoDHVy"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "Glory Days: The Platinum Edition",
+        "url": "https://open.spotify.com/album/5DL2Z5x7UJsWH1HhE9j8nd"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Shout Out to My Ex - Acoustic",
+      "url": "https://open.spotify.com/track/2X4UxcPyj9hvgwmfi7c6VT"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -4783,22 +4851,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Slow Hands (Acoustic)",
-        "url": "https://open.spotify.com/album/3Uab8u2BzV3lvjD6LsUBVo"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 160592,
-      "name": "Slow Hands - Acoustic",
-      "url": "https://open.spotify.com/track/7tAPTpA6VmKAeu3S5w9RVW"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Issues (Acoustic)",
         "url": "https://open.spotify.com/album/7KjPQYz7xPvZ7mwfATL1E1"
       },
@@ -4811,22 +4863,6 @@
       "duration_ms": 175280,
       "name": "Issues - Acoustic",
       "url": "https://open.spotify.com/track/7M8d1oa1Rfvik0RRHT12wt"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
-        "name": "Mercy (Acoustic Guitar)",
-        "url": "https://open.spotify.com/album/0QNjg5KFD0lugWxtDwEjIT"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 221200,
-      "name": "Mercy - Acoustic Guitar",
-      "url": "https://open.spotify.com/track/6myZDVrjLSbcezdqD0lbFr"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -4851,22 +4887,34 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Let Me Love You (Andrew Watt Acoustic Remix)",
-        "url": "https://open.spotify.com/album/47ordPwmrLL0yhgijBbc6q"
+        "name": "There's Nothing Holdin' Me Back (Acoustic)",
+        "url": "https://open.spotify.com/album/1t7E85IHgoM8HiU9QoRWr3"
       },
       "artists": [
         {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 206666,
-      "name": "Let Me Love You - Andrew Watt Acoustic Remix",
-      "url": "https://open.spotify.com/track/3D1dtHt0jajUguVbEo4iAu"
+      "duration_ms": 201093,
+      "name": "There's Nothing Holdin' Me Back - Acoustic",
+      "url": "https://open.spotify.com/track/6gnS49VEamgI5zQmjsUxs3"
+    },
+    {
+      "added_at": "2023-10-23 17:16:00",
+      "album": {
+        "name": "More Than You Know (Acoustic)",
+        "url": "https://open.spotify.com/album/79WvqpQzRvnLlrB64S2bCA"
+      },
+      "artists": [
+        {
+          "name": "Axwell /\\ Ingrosso",
+          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+        }
+      ],
+      "duration_ms": 183950,
+      "name": "More Than You Know - Acoustic",
+      "url": "https://open.spotify.com/track/24XOlemQJORg0nBJAHC24p"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -4887,22 +4935,6 @@
       "duration_ms": 231426,
       "name": "I Could Be The One [Avicii vs Nicky Romero] - Noonie Bao Acoustic Mix",
       "url": "https://open.spotify.com/track/1QDnmfye4v7yZ7RBPFjzXT"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
-        "name": "More Than You Know (Acoustic)",
-        "url": "https://open.spotify.com/album/79WvqpQzRvnLlrB64S2bCA"
-      },
-      "artists": [
-        {
-          "name": "Axwell /\\ Ingrosso",
-          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
-        }
-      ],
-      "duration_ms": 183950,
-      "name": "More Than You Know - Acoustic",
-      "url": "https://open.spotify.com/track/24XOlemQJORg0nBJAHC24p"
     },
     {
       "added_at": "2023-10-23 17:16:00",
@@ -4971,22 +5003,6 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "There's Nothing Holdin' Me Back (Acoustic)",
-        "url": "https://open.spotify.com/album/1t7E85IHgoM8HiU9QoRWr3"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 201093,
-      "name": "There's Nothing Holdin' Me Back - Acoustic",
-      "url": "https://open.spotify.com/track/6gnS49VEamgI5zQmjsUxs3"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
         "name": "Imagine Dragons (Live London Sessions)",
         "url": "https://open.spotify.com/album/1L8DJDaKjKVfsXb26o9wRQ"
       },
@@ -5035,34 +5051,18 @@
     {
       "added_at": "2023-10-23 17:16:00",
       "album": {
-        "name": "Find You (Acoustic)",
-        "url": "https://open.spotify.com/album/7nS4bQIffpjMbB9CbLBGlq"
+        "name": "Handwritten (Deluxe)",
+        "url": "https://open.spotify.com/album/5wKylB0Zwnxz046O7po25D"
       },
       "artists": [
         {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 195173,
-      "name": "Find You - Acoustic",
-      "url": "https://open.spotify.com/track/4geSKJSNZDS8hE82xC7KRX"
-    },
-    {
-      "added_at": "2023-10-23 17:16:00",
-      "album": {
-        "name": "Most Girls (Acoustic)",
-        "url": "https://open.spotify.com/album/7gT9MpCiawEKB8Gm81KwqQ"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        }
-      ],
-      "duration_ms": 200880,
-      "name": "Most Girls - Acoustic",
-      "url": "https://open.spotify.com/track/2vwfLDovGdUv36zwtcoQD5"
+      "duration_ms": 230440,
+      "name": "This Is What It Takes",
+      "url": "https://open.spotify.com/track/4xIZj7JRC3FnGPAjmkhNeW"
     }
   ],
   "unique_name": "Acoustic Throwbacks",

@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,190 songs - 6 day 15 hr 59 min
+4,191 songs - 6 day 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [Back to the Bap](https://open.spotify.com/track/6odZiVTBFDpBrb0aaAs09H) | [Anthony Drawn](https://open.spotify.com/artist/1TYsIU7QKwwZ3IieKIE6oo), [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Back to the Bap](https://open.spotify.com/album/10aYxtxK2S4qXzT80Y9lPH) | 3:25 | 2020-11-13 | 2021-01-29 |
 | [Back To You](https://open.spotify.com/track/7zhtyfJ3PjHXQDixq08QkF) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI), [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Sirens](https://open.spotify.com/album/5G3XMdc8v8fkiD8qLqDBDG) | 3:00 | 2020-09-25 | 2020-11-07 |
 | [Backpocket Breakdown](https://open.spotify.com/track/10kWuTOwDiybZtWG8Avxew) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Backpocket Breakdown](https://open.spotify.com/album/6QY2WcuFkBUvCSyLPIwZFM) | 2:04 | 2023-05-05 | 2023-06-30 |
-| [Backyard](https://open.spotify.com/track/3IBK5lEX1JqdGR7aEMPae1) | [Palomino](https://open.spotify.com/artist/7lXtwLrXMAvXVsMrzg1Lt6) | [Backyard](https://open.spotify.com/album/5YC7FWsGFVcwwgI6ih01Sg) | 1:42 | 2024-07-26 |  |
+| [Backyard](https://open.spotify.com/track/3IBK5lEX1JqdGR7aEMPae1) | [Palomino](https://open.spotify.com/artist/7lXtwLrXMAvXVsMrzg1Lt6) | [Backyard](https://open.spotify.com/album/5YC7FWsGFVcwwgI6ih01Sg) | 1:42 | 2024-07-26 | 2024-07-28 |
 | [Backyard Love](https://open.spotify.com/track/1CowKyROGqKsQgNG0YdqYV) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU), [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [Backyard Love](https://open.spotify.com/album/1S0emfvu549YvZ4D9mMvPT) | 2:44 | 2022-05-12 | 2022-07-01 |
 | [Backyards](https://open.spotify.com/track/0Rfczs8oWHgA1tyETq8zGH) | [Freddie Joachim](https://open.spotify.com/artist/0GgkfnO3Bu2CFn65ZH31TF), [Natalie Oliveri](https://open.spotify.com/artist/7bG1JrD2v2UoKkkImZHrWS) | [Backyards](https://open.spotify.com/album/5QFcCk5R9K9d4xnhLnS9fF) | 3:30 | 2019-05-26\* | 2019-11-29 |
 | [Badehaus](https://open.spotify.com/track/46sJdEbMppLjB9s0TcLfCC) | [Keymer](https://open.spotify.com/artist/11KbGk05uR2COLPYEqehU3) | [Anchor Up](https://open.spotify.com/album/5Cb55obr1kyXl6pX7K55CU) | 4:25 | 2020-03-18 | 2020-05-15 |
@@ -2595,6 +2595,7 @@
 | [Old Town](https://open.spotify.com/track/6kybVpseO2K3jmGWPIcVrx) | [DIRTYTHREE](https://open.spotify.com/artist/4FBSXEaE4sG5WlTgfzIx51) | [Street Sketches](https://open.spotify.com/album/27ltsgAlrg6eEZlYOC35MY) | 3:21 | 2021-05-21 | 2021-08-20 |
 | [Olhos](https://open.spotify.com/track/0enFvzbMXc4tCvOVSty8St) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Garbeo](https://open.spotify.com/album/1oHBL1O7WyrV00akOHpEZz) | 1:49 | 2020-10-23 | 2021-02-20 |
 | [Olinda](https://open.spotify.com/track/1yFR64Bq9V0mGo7hpinmj1) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [Nait Aul](https://open.spotify.com/artist/1UxQ605Patl3nOCJzsQVWb) | [Olinda](https://open.spotify.com/album/2GmCVJ5pOdMcn1WRlk8q5J) | 2:12 | 2024-02-08 | 2024-05-17 |
+| [Olive](https://open.spotify.com/track/5DaVP7xAf8havbaaUMzqHo) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Olive](https://open.spotify.com/album/6Wfn25bD9miwF2ptQZMGyJ) | 2:25 | 2024-07-26 |  |
 | [Olympian](https://open.spotify.com/track/27IZfin88wF3wIoEoKjHHv) | [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ), [Kasia Konstance](https://open.spotify.com/artist/69lkTNzZ4F2h3ZokpOHN7j) | [Olympian](https://open.spotify.com/album/1folkHjL6WN2m18UwKkrlN) | 2:24 | 2022-06-30 | 2022-07-15 |
 | [Omaya Reprise](https://open.spotify.com/track/1pqZj6L5via7EhLODnJlti) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Omaya Reprise / Underwaterday](https://open.spotify.com/album/2z1YdQwWNzwd0RJ3uvvk4O) | 3:11 | 2022-07-14 | 2022-08-12 |
 | [On & On](https://open.spotify.com/track/0DSSfCJe2XD6NjLbO9tZUD) | [L One](https://open.spotify.com/artist/7tEjTeqNJNgTEprTguQGTK), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [On & On](https://open.spotify.com/album/6OE0QRMk033tq5pUlv6dvU) | 2:50 | 2020-12-04 | 2021-03-06 |

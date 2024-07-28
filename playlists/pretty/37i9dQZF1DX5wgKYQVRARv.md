@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > New and recent favorites of Prog Metal\. Cover: TesseracT
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,344 likes - 200 songs - 15 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,369 likes - 200 songs - 15 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

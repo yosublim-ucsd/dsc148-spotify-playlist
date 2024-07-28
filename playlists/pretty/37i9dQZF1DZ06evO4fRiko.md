@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fRiko.md) - [plain]
 
 ### [This Is Chris Brown](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fRiko)
 
-> This is Chris Brown\. Todos os maiores hits em uma só playlist.
+> This is Chris Brown\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,801 likes - 51 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,908 likes - 51 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fRiko.md) - [plain]
 | 50 | [Look At Me Now \(feat\. Lil' Wayne & Busta Rhymes\)](https://open.spotify.com/track/3hsmbFKT5Cujb5GQjqEU39) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [F.A.M.E\. \(Expanded Edition\)](https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb) | 3:42 |
 | 51 | [All Eyes on You \(feat\. Chris Brown & Nicki Minaj\)](https://open.spotify.com/track/0hy1SOTEn9ifXTzOwnCwEr) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Dreams Worth More Than Money](https://open.spotify.com/album/2O3OKOYCub892PUGprsaQo) | 3:43 |
 
-Snapshot ID: `ZqLnAAAAAACe/I2K1+f0eL1deDrbICsz`
+Snapshot ID: `ZqLnAAAAAAAQA21By4TO6pW+zVqQdVin`

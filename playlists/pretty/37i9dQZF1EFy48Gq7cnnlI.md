@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 55 | [Everywhere I Go](https://open.spotify.com/track/0QrzN1zybGPr27X6NAkUH6) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Everywhere I Go](https://open.spotify.com/album/0R0LHoYE9Evb7zg94ay6nR) | 2:56 |
 | 56 | [Right By You](https://open.spotify.com/track/46YQVaev6fuTxtErmhzsPW) | [Tuka](https://open.spotify.com/artist/2D9eG3B30VlpA1uME35LeB) | [Life Death Time Eternal \(Deluxe\)](https://open.spotify.com/album/2HGUm5iqR9seycVVT6wRnC) | 3:48 |
 | 57 | [my mistake](https://open.spotify.com/track/6j7QoUcmUwe1FFEoTiwjjd) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry](https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye) | 3:16 |
-| 58 | [Red Moon](https://open.spotify.com/track/1tySOyCmgAS9iXrwaFafnq) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [Solastalgia](https://open.spotify.com/album/7rwzI6iThLPPhZWL07AgE4) | 3:29 |
-| 59 | [Andrew](https://open.spotify.com/track/237a1KEb4rg7YORlb1evKG) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 4:00 |
+| 58 | [Andrew](https://open.spotify.com/track/237a1KEb4rg7YORlb1evKG) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 4:00 |
+| 59 | [Red Moon](https://open.spotify.com/track/1tySOyCmgAS9iXrwaFafnq) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [Solastalgia](https://open.spotify.com/album/7rwzI6iThLPPhZWL07AgE4) | 3:29 |
 | 60 | [Power](https://open.spotify.com/track/46IBtK4GyaD3fPv7gbyQyN) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 4:14 |
 | 61 | [The Pause](https://open.spotify.com/track/18YzQn4Tgib169dXJ6gZlC) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Madness](https://open.spotify.com/album/2ploE2Xfb4u43TnK7OAos3) | 3:57 |
 | 62 | [In Pieces](https://open.spotify.com/track/5yxPPPKxyYnuom2CrWT78O) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [In Pieces](https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI) | 3:59 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 111 | [Love Again](https://open.spotify.com/track/5a1gRWJqyuvuH9jfknO4yd) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Love Again](https://open.spotify.com/album/7ir4YDxoF1JGzuRvaYSZhF) | 3:05 |
 | 112 | [die!](https://open.spotify.com/track/3XUqv7Ou5XyrGfbSi15KqU) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm), [Alex Hope](https://open.spotify.com/artist/4vYPr06Tg8byX6r8i2Q3rP) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:13 |
 
-Snapshot ID: `AbXz5gAAAACMUMwCaQBV7N5k4bJ+k2jH`
+Snapshot ID: `AbX2RwAAAAAoo9KYiBRWN4u/gLru5eUg`

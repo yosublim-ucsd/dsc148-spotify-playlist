@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ahi viene la plaga... por eso, avi\u00e9ntense todos a bailar! Los Locos del Ritmo en portada.",
-  "num_followers": 91208,
+  "num_followers": 91237,
   "original_name": "Rock & Roll en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -1156,13 +1156,13 @@
       },
       "artists": [
         {
-          "name": "Los Ovnis",
-          "url": "https://open.spotify.com/artist/0hwmbUrvyepLTKQfJr3BTi"
+          "name": "Reo",
+          "url": "https://open.spotify.com/artist/76Fy1NoZqAV6RYzX7CO5I1"
         }
       ],
-      "duration_ms": 138746,
-      "name": "Mary Mary",
-      "url": "https://open.spotify.com/track/1fIeqp0iOeZTGhnzHfznzR"
+      "duration_ms": 181826,
+      "name": "B\u00e1jate De Mi Nube",
+      "url": "https://open.spotify.com/track/56G34ReoS8zGUKyMuVSBuI"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1172,13 +1172,13 @@
       },
       "artists": [
         {
-          "name": "Reo",
-          "url": "https://open.spotify.com/artist/76Fy1NoZqAV6RYzX7CO5I1"
+          "name": "Los Ovnis",
+          "url": "https://open.spotify.com/artist/0hwmbUrvyepLTKQfJr3BTi"
         }
       ],
-      "duration_ms": 181826,
-      "name": "B\u00e1jate De Mi Nube",
-      "url": "https://open.spotify.com/track/56G34ReoS8zGUKyMuVSBuI"
+      "duration_ms": 138746,
+      "name": "Mary Mary",
+      "url": "https://open.spotify.com/track/1fIeqp0iOeZTGhnzHfznzR"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
+        "name": "Tesoros De Coleccion - Roberto Jordan",
+        "url": "https://open.spotify.com/album/2R2djjfHOfTv5RMbUpwMg5"
+      },
+      "artists": [
+        {
+          "name": "Roberto Jordan",
+          "url": "https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx"
+        }
+      ],
+      "duration_ms": 143240,
+      "name": "Hazme una Se\u00f1al - Gimme Little Sign",
+      "url": "https://open.spotify.com/track/5JBfzQjelvHSc2ScM59g8M"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
         "name": "Exitos del Rock & Roll",
         "url": "https://open.spotify.com/album/7J3zAnHYs4XSpR3e9hh4fN"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 200875,
       "name": "El Pecador",
       "url": "https://open.spotify.com/track/5k6fOcv3B7sE6V1uZ5kwb6"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "La Hiedra Venenosa",
-        "url": "https://open.spotify.com/album/2Moy4btjVyC9w3sAcUcFZe"
-      },
-      "artists": [
-        {
-          "name": "Los Rebeldes Del Rock",
-          "url": "https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "Siluetas",
-      "url": "https://open.spotify.com/track/0g31VnIXiibmcb0cvHMUAd"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
+        "name": "La Hiedra Venenosa",
+        "url": "https://open.spotify.com/album/2Moy4btjVyC9w3sAcUcFZe"
+      },
+      "artists": [
+        {
+          "name": "Los Rebeldes Del Rock",
+          "url": "https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "Siluetas",
+      "url": "https://open.spotify.com/track/0g31VnIXiibmcb0cvHMUAd"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
         "name": "Historia Musical de Mis Exitos",
         "url": "https://open.spotify.com/album/5IjKB1mEzXeHrlgsOT76Yy"
       },
@@ -1367,6 +1383,22 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
+        "name": "Los Grandes Idolos - Teen Tops",
+        "url": "https://open.spotify.com/album/3BzjUZegAStBZPVTZVrUT5"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+        }
+      ],
+      "duration_ms": 183733,
+      "name": "Popotitos",
+      "url": "https://open.spotify.com/track/4ppAuelKoG9GU7DfLirTLB"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
         "name": "Rock Con Manolo Mu\u00f1oz, Vol. 2",
         "url": "https://open.spotify.com/album/6K7es5CWrCWxzZz9A84XfK"
       },
@@ -1383,18 +1415,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Los Grandes Idolos - Teen Tops",
-        "url": "https://open.spotify.com/album/3BzjUZegAStBZPVTZVrUT5"
+        "name": "15 Exitos del Rock & Roll",
+        "url": "https://open.spotify.com/album/6BWOXdSPnMbekP7fDAx1hH"
       },
       "artists": [
         {
-          "name": "Enrique Guzman",
-          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+          "name": "Los Rogers",
+          "url": "https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC"
         }
       ],
-      "duration_ms": 183733,
-      "name": "Popotitos",
-      "url": "https://open.spotify.com/track/4ppAuelKoG9GU7DfLirTLB"
+      "duration_ms": 110526,
+      "name": "Nos Pertenecemos",
+      "url": "https://open.spotify.com/track/2fZoRApJfOKxPq1WgRris4"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1420,22 +1452,6 @@
       },
       "artists": [
         {
-          "name": "Los Rogers",
-          "url": "https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC"
-        }
-      ],
-      "duration_ms": 110526,
-      "name": "Nos Pertenecemos",
-      "url": "https://open.spotify.com/track/2fZoRApJfOKxPq1WgRris4"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "15 Exitos del Rock & Roll",
-        "url": "https://open.spotify.com/album/6BWOXdSPnMbekP7fDAx1hH"
-      },
-      "artists": [
-        {
           "name": "Los Llopis",
           "url": "https://open.spotify.com/artist/35OEkYqpkHK4ZWBktloFnE"
         }
@@ -1443,22 +1459,6 @@
       "duration_ms": 191518,
       "name": "Estremecete",
       "url": "https://open.spotify.com/track/3eZyQHEOhwdXQdAe6f6995"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "La Hiedra Venenosa",
-        "url": "https://open.spotify.com/album/2Moy4btjVyC9w3sAcUcFZe"
-      },
-      "artists": [
-        {
-          "name": "Los Rebeldes Del Rock",
-          "url": "https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5"
-        }
-      ],
-      "duration_ms": 159480,
-      "name": "La Hiedra Venenosa",
-      "url": "https://open.spotify.com/track/45l1qKmKi7ZJT3llqnNRnP"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1495,6 +1495,38 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
+        "name": "Rock Con Manolo Mu\u00f1oz, Vol. 2",
+        "url": "https://open.spotify.com/album/6K7es5CWrCWxzZz9A84XfK"
+      },
+      "artists": [
+        {
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+        }
+      ],
+      "duration_ms": 124109,
+      "name": "Lucila",
+      "url": "https://open.spotify.com/track/10qareqh5FNnyOQzNJM7s8"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "La Hiedra Venenosa",
+        "url": "https://open.spotify.com/album/2Moy4btjVyC9w3sAcUcFZe"
+      },
+      "artists": [
+        {
+          "name": "Los Rebeldes Del Rock",
+          "url": "https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5"
+        }
+      ],
+      "duration_ms": 159480,
+      "name": "La Hiedra Venenosa",
+      "url": "https://open.spotify.com/track/45l1qKmKi7ZJT3llqnNRnP"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
         "name": "Historia Musical de Mis Exitos",
         "url": "https://open.spotify.com/album/5IjKB1mEzXeHrlgsOT76Yy"
       },
@@ -1527,38 +1559,6 @@
       "duration_ms": 183373,
       "name": "Fue en un Cafe",
       "url": "https://open.spotify.com/track/0kPv89kbdck3kuZnsJ4t32"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "Rock Con Manolo Mu\u00f1oz, Vol. 2",
-        "url": "https://open.spotify.com/album/6K7es5CWrCWxzZz9A84XfK"
-      },
-      "artists": [
-        {
-          "name": "Manolo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
-        }
-      ],
-      "duration_ms": 124109,
-      "name": "Lucila",
-      "url": "https://open.spotify.com/track/10qareqh5FNnyOQzNJM7s8"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "100 A\u00f1os de Musica",
-        "url": "https://open.spotify.com/album/0yk0LbkAcV5SaOJMOsDWJO"
-      },
-      "artists": [
-        {
-          "name": "Los Rockin' Devils",
-          "url": "https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve"
-        }
-      ],
-      "duration_ms": 142592,
-      "name": "Bule Bule",
-      "url": "https://open.spotify.com/track/65dIAnHFMtcrWYWXOKOeiy"
     },
     {
       "added_at": "2020-04-17 21:51:59",

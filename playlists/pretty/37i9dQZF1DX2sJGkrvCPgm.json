@@ -1,6 +1,6 @@
 {
   "description": "A mix of new songs and beloved classics from your favorite Contemporary Christian artists! ",
-  "num_followers": 112234,
+  "num_followers": 112229,
   "original_name": "Contemporary Christian Christmas",
   "owner": {
     "name": "Spotify",
@@ -1739,6 +1739,26 @@
     {
       "added_at": "2023-12-15 05:14:39",
       "album": {
+        "name": "Crown Him (Glory in the Highest)",
+        "url": "https://open.spotify.com/album/16IA6igILbx316CPY6CwjP"
+      },
+      "artists": [
+        {
+          "name": "Aaron Williams",
+          "url": "https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz"
+        },
+        {
+          "name": "Davy Flowers",
+          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
+        }
+      ],
+      "duration_ms": 312526,
+      "name": "Crown Him (Glory in the Highest)",
+      "url": "https://open.spotify.com/track/0xjCdmZQQQAY3lrvPEaZRS"
+    },
+    {
+      "added_at": "2023-12-15 05:14:39",
+      "album": {
         "name": "We Bow / Christmas Is Here",
         "url": "https://open.spotify.com/album/5XDAp6GrTOpatrrFuz30HB"
       },
@@ -1759,26 +1779,6 @@
       "duration_ms": 228740,
       "name": "We Bow",
       "url": "https://open.spotify.com/track/49pJVkJhuISvkHBY65K6RG"
-    },
-    {
-      "added_at": "2023-12-15 05:14:39",
-      "album": {
-        "name": "Crown Him (Glory in the Highest)",
-        "url": "https://open.spotify.com/album/16IA6igILbx316CPY6CwjP"
-      },
-      "artists": [
-        {
-          "name": "Aaron Williams",
-          "url": "https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz"
-        },
-        {
-          "name": "Davy Flowers",
-          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
-        }
-      ],
-      "duration_ms": 312526,
-      "name": "Crown Him (Glory in the Highest)",
-      "url": "https://open.spotify.com/track/0xjCdmZQQQAY3lrvPEaZRS"
     },
     {
       "added_at": "2023-12-15 05:14:39",
@@ -1927,6 +1927,22 @@
     {
       "added_at": "2023-12-15 05:14:39",
       "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/2vC11yxZPun9iOYh5jRWKd"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 210161,
+      "name": "This Year for Christmas",
+      "url": "https://open.spotify.com/track/5jI9fVQ1QqUygoNpVRdzu3"
+    },
+    {
+      "added_at": "2023-12-15 05:14:39",
+      "album": {
         "name": "Our God With Us",
         "url": "https://open.spotify.com/album/4wBxWy0gVEJabnqm6SHEKK"
       },
@@ -1943,22 +1959,6 @@
       "duration_ms": 253022,
       "name": "Our God With Us",
       "url": "https://open.spotify.com/track/5eDmojxVjggEA2OGlvXzJN"
-    },
-    {
-      "added_at": "2023-12-15 05:14:39",
-      "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/2vC11yxZPun9iOYh5jRWKd"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 210161,
-      "name": "This Year for Christmas",
-      "url": "https://open.spotify.com/track/5jI9fVQ1QqUygoNpVRdzu3"
     },
     {
       "added_at": "2023-12-15 05:14:39",
@@ -2115,18 +2115,18 @@
     {
       "added_at": "2023-12-15 05:14:39",
       "album": {
-        "name": "This is Emmanuel",
-        "url": "https://open.spotify.com/album/1viVm1O59eLrGnwDD5dzRA"
+        "name": "A Worship Initiative Christmas, Vol. 2",
+        "url": "https://open.spotify.com/album/61lw866oRKSzdu8HvqAiRj"
       },
       "artists": [
         {
-          "name": "KingsPorch",
-          "url": "https://open.spotify.com/artist/1YBs9eFwD54sWgek5EVYTF"
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 235853,
-      "name": "This is Emmanuel",
-      "url": "https://open.spotify.com/track/2MXlteGF7jW7DJxfgYV5Kh"
+      "duration_ms": 225346,
+      "name": "What Child is This?",
+      "url": "https://open.spotify.com/track/4EQirVSV9LqKcdnLaGKMvh"
     },
     {
       "added_at": "2023-12-15 05:14:39",
@@ -2147,18 +2147,18 @@
     {
       "added_at": "2023-12-15 05:14:39",
       "album": {
-        "name": "A Worship Initiative Christmas, Vol. 2",
-        "url": "https://open.spotify.com/album/61lw866oRKSzdu8HvqAiRj"
+        "name": "This is Emmanuel",
+        "url": "https://open.spotify.com/album/1viVm1O59eLrGnwDD5dzRA"
       },
       "artists": [
         {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+          "name": "KingsPorch",
+          "url": "https://open.spotify.com/artist/1YBs9eFwD54sWgek5EVYTF"
         }
       ],
-      "duration_ms": 225346,
-      "name": "What Child is This?",
-      "url": "https://open.spotify.com/track/4EQirVSV9LqKcdnLaGKMvh"
+      "duration_ms": 235853,
+      "name": "This is Emmanuel",
+      "url": "https://open.spotify.com/track/2MXlteGF7jW7DJxfgYV5Kh"
     },
     {
       "added_at": "2023-12-15 05:14:39",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2023-12-15 05:14:39",
       "album": {
-        "name": "Silent Night, Lonely Night",
-        "url": "https://open.spotify.com/album/0l8guZkeeqSux4URW4WlMH"
-      },
-      "artists": [
-        {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
-        }
-      ],
-      "duration_ms": 264335,
-      "name": "Silent Night, Lonely Night",
-      "url": "https://open.spotify.com/track/0M9Ohy3DNyfNll9DefBMaQ"
-    },
-    {
-      "added_at": "2023-12-15 05:14:39",
-      "album": {
         "name": "Mercy In A Manger",
         "url": "https://open.spotify.com/album/1P8k4am7eNKqNQAA0EBXjD"
       },
@@ -2267,18 +2251,18 @@
     {
       "added_at": "2023-12-15 05:14:39",
       "album": {
-        "name": "Christmas... From The Realms Of Glory",
-        "url": "https://open.spotify.com/album/4Mg1SGiFS7CaZ3NQD4CSug"
+        "name": "Silent Night, Lonely Night",
+        "url": "https://open.spotify.com/album/0l8guZkeeqSux4URW4WlMH"
       },
       "artists": [
         {
-          "name": "Bebo Norman",
-          "url": "https://open.spotify.com/artist/0acFxGm0vYIfwTX4NRlEWd"
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
         }
       ],
-      "duration_ms": 216266,
-      "name": "Born To Die",
-      "url": "https://open.spotify.com/track/0KjHeblCe3l2Rs5bDmTZk0"
+      "duration_ms": 264335,
+      "name": "Silent Night, Lonely Night",
+      "url": "https://open.spotify.com/track/0M9Ohy3DNyfNll9DefBMaQ"
     },
     {
       "added_at": "2023-12-15 05:14:39",
@@ -2311,6 +2295,22 @@
       "duration_ms": 197333,
       "name": "Feelin' Like Christmas",
       "url": "https://open.spotify.com/track/5nB154PCWmkFvYchZkX0iG"
+    },
+    {
+      "added_at": "2023-12-15 05:14:39",
+      "album": {
+        "name": "Christmas... From The Realms Of Glory",
+        "url": "https://open.spotify.com/album/4Mg1SGiFS7CaZ3NQD4CSug"
+      },
+      "artists": [
+        {
+          "name": "Bebo Norman",
+          "url": "https://open.spotify.com/artist/0acFxGm0vYIfwTX4NRlEWd"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/0KjHeblCe3l2Rs5bDmTZk0"
     },
     {
       "added_at": "2023-12-15 05:14:39",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2023-12-15 05:14:39",
       "album": {
-        "name": "Light Has Come",
-        "url": "https://open.spotify.com/album/6MrfIO5CSBAnTXkUJ7jWGF"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
-        }
-      ],
-      "duration_ms": 262453,
-      "name": "Light Has Come",
-      "url": "https://open.spotify.com/track/2rOXIm8nVKLIDhy32ASuoh"
-    },
-    {
-      "added_at": "2023-12-15 05:14:39",
-      "album": {
         "name": "Christmas Lights",
         "url": "https://open.spotify.com/album/2ML0HivGBfi9C1ihEAnqck"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 181052,
       "name": "Christmas Lights",
       "url": "https://open.spotify.com/track/2JApOkyG5QGrn0luyAAUDz"
+    },
+    {
+      "added_at": "2023-12-15 05:14:39",
+      "album": {
+        "name": "Light Has Come",
+        "url": "https://open.spotify.com/album/6MrfIO5CSBAnTXkUJ7jWGF"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        }
+      ],
+      "duration_ms": 262453,
+      "name": "Light Has Come",
+      "url": "https://open.spotify.com/track/2rOXIm8nVKLIDhy32ASuoh"
     },
     {
       "added_at": "2023-12-15 05:14:39",
@@ -2447,6 +2447,22 @@
     {
       "added_at": "2023-12-15 05:14:39",
       "album": {
+        "name": "Receive Our King",
+        "url": "https://open.spotify.com/album/37RG4Ybo9LMPZ8pArKkzYy"
+      },
+      "artists": [
+        {
+          "name": "Meredith Andrews",
+          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
+        }
+      ],
+      "duration_ms": 291268,
+      "name": "Glory In The Highest",
+      "url": "https://open.spotify.com/track/2U8ktRTW0SpL7GS994KNQE"
+    },
+    {
+      "added_at": "2023-12-15 05:14:39",
+      "album": {
         "name": "O Holy Night (feat. The Tenors)",
         "url": "https://open.spotify.com/album/0p0zK4648YuGhRYWteoQ3l"
       },
@@ -2463,22 +2479,6 @@
       "duration_ms": 259397,
       "name": "O Holy Night (feat. The Tenors)",
       "url": "https://open.spotify.com/track/6nN0z2cPwFydCWPjtPaiLe"
-    },
-    {
-      "added_at": "2023-12-15 05:14:39",
-      "album": {
-        "name": "Receive Our King",
-        "url": "https://open.spotify.com/album/37RG4Ybo9LMPZ8pArKkzYy"
-      },
-      "artists": [
-        {
-          "name": "Meredith Andrews",
-          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
-        }
-      ],
-      "duration_ms": 291268,
-      "name": "Glory In The Highest",
-      "url": "https://open.spotify.com/track/2U8ktRTW0SpL7GS994KNQE"
     },
     {
       "added_at": "2023-12-15 05:14:39",
@@ -2515,6 +2515,22 @@
     {
       "added_at": "2023-12-15 05:14:39",
       "album": {
+        "name": "this is our Christmas album",
+        "url": "https://open.spotify.com/album/6wBted9sjsgGSoGhELXaBC"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/6qsGiwpMUHXo752nUPg1YW"
+    },
+    {
+      "added_at": "2023-12-15 05:14:39",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/0TxoOroboezaKCvWAwVVpP"
       },
@@ -2531,22 +2547,6 @@
       "duration_ms": 212306,
       "name": "Home",
       "url": "https://open.spotify.com/track/1JArBYjls1EZ996UAJopI3"
-    },
-    {
-      "added_at": "2023-12-15 05:14:39",
-      "album": {
-        "name": "this is our Christmas album",
-        "url": "https://open.spotify.com/album/6wBted9sjsgGSoGhELXaBC"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Christmas Time Is Here",
-      "url": "https://open.spotify.com/track/6qsGiwpMUHXo752nUPg1YW"
     },
     {
       "added_at": "2023-12-15 05:14:39",
@@ -2583,22 +2583,6 @@
     {
       "added_at": "2023-12-15 05:14:39",
       "album": {
-        "name": "What Child Is This?",
-        "url": "https://open.spotify.com/album/79Un3uOblNs54iVRPE9eZs"
-      },
-      "artists": [
-        {
-          "name": "BYU Noteworthy",
-          "url": "https://open.spotify.com/artist/1ZknN7FbjjjMTmdU42OEeX"
-        }
-      ],
-      "duration_ms": 256648,
-      "name": "What Child Is This?",
-      "url": "https://open.spotify.com/track/0JgLHj8dtZgtd1gvD4TwHP"
-    },
-    {
-      "added_at": "2023-12-15 05:14:39",
-      "album": {
         "name": "We Have A Savior",
         "url": "https://open.spotify.com/album/1DltfgAtgRgLmXbhve2g4B"
       },
@@ -2611,6 +2595,22 @@
       "duration_ms": 201013,
       "name": "Born Is The King (It's Christmas)",
       "url": "https://open.spotify.com/track/43mAbdlwkCFKSFF0pvbz4s"
+    },
+    {
+      "added_at": "2023-12-15 05:14:39",
+      "album": {
+        "name": "What Child Is This?",
+        "url": "https://open.spotify.com/album/79Un3uOblNs54iVRPE9eZs"
+      },
+      "artists": [
+        {
+          "name": "BYU Noteworthy",
+          "url": "https://open.spotify.com/artist/1ZknN7FbjjjMTmdU42OEeX"
+        }
+      ],
+      "duration_ms": 256648,
+      "name": "What Child Is This?",
+      "url": "https://open.spotify.com/track/0JgLHj8dtZgtd1gvD4TwHP"
     }
   ],
   "unique_name": "Contemporary Christian Christmas",

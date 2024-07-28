@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > your new favorite girl group just dropped 📸 Blusher
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,526,624 likes - 150 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,526,643 likes - 150 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

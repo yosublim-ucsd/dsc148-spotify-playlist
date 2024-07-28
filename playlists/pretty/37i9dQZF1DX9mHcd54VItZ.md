@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs?si=ZMYXmHpdSGeH9FknanH8Tw">Jo Black</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,234 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,243 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

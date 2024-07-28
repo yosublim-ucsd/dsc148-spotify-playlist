@@ -1,6 +1,6 @@
 {
   "description": "Super mega hits! Foto: Coldplay\n",
-  "num_followers": 6739743,
+  "num_followers": 6739572,
   "original_name": "Pop Up",
   "owner": {
     "name": "Spotify",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "The Beginning: Cupid",
-        "url": "https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "Cupid - Twin Ver.",
-      "url": "https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "SNAP",
         "url": "https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "The Beginning: Cupid",
+        "url": "https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "Cupid - Twin Ver.",
+      "url": "https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC"
     }
   ],
   "unique_name": "Pop Up",

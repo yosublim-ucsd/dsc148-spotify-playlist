@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL3J0k32lWnN.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,092 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,135 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL3J0k32lWnN.md) - [plain]
 | 49 | [Ud Af Hovedet \(feat\. ICEKIID\)](https://open.spotify.com/track/5f4wCcBdSHI5SxlfU2cpNI) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [MELLEM HIMMEL & JORD](https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX) | 2:43 |
 | 50 | [GIRLS](https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [GIRLS](https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC) | 2:32 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

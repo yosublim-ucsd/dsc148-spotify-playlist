@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 
 > Let's mix it\. Cover: LØLØ
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,477 likes - 150 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,485 likes - 150 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

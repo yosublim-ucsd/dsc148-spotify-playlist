@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303 likes - 311 songs - 18 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 304 likes - 311 songs - 18 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -320,4 +320,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 310 | [Everything \(Karaoke Version With Lead Vocal\) \[Originally Performed By Jessica Andrews\]](https://open.spotify.com/track/7jLsz9fup5JHANKCaw3XLd) | [Country Karaoke Cow Boys](https://open.spotify.com/artist/1T9rOYmodcUr7fU94l3EB1) | [Everything](https://open.spotify.com/album/21tLYuZvwdw1OynFGigcDf) | 4:08 |
 | 311 | [Make It Out](https://open.spotify.com/track/7lQnAxzNfWpHpL1VsA3gzy) | [Zaya Tha Flysta](https://open.spotify.com/artist/1CtP580MCBT8LGke5Riu35), [Mackie Fresh](https://open.spotify.com/artist/3ARzxhq2yh9R0eVClho12c) | [Welcome To The Underground](https://open.spotify.com/album/0jHN4uEq9DXiSYPUTVuxVU) | 3:14 |
 
-Snapshot ID: `AbXz8AAAAADOixcn6pIgkkKLxATvnjnY`
+Snapshot ID: `AbX2SAAAAAA+I7Zp7nIhcxBal7Mdff6P`

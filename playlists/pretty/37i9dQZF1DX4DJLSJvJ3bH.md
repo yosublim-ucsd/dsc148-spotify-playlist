@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,954 likes - 125 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,953 likes - 125 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,10 +112,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 102 | [Christmas Cheer](https://open.spotify.com/track/3yQw5zU2b3MNH2h9ccYgyZ) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F), [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Jazz For Joy: A Verve Christmas Album](https://open.spotify.com/album/42LDbwS16YVmhtt87vgAAc) | 4:51 |
 | 103 | [Sleigh Ride](https://open.spotify.com/track/7Ez9zlZuyvEo2iiRvOSDnd) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When My Heart Finds Christmas](https://open.spotify.com/album/1puRIKtM4c4aDpUNJNtyn4) | 3:40 |
 | 104 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/3nr5SzU7pt0IvNCvk7m4np) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [A Nancy Wilson Christmas](https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1) | 4:50 |
-| 105 | [Once A Year Miracle](https://open.spotify.com/track/3HTRqeCKO4BSMflq1DiTWN) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [The Very Best Time Of Year](https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1) | 2:57 |
-| 106 | [Silent Night](https://open.spotify.com/track/2NvbRCk08L3clDF9BqVtEo) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 3:24 |
-| 107 | [We Three Kings](https://open.spotify.com/track/4F5Ht2JjkaMmL4b8verZ2W) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [More Sounds Of Christmas](https://open.spotify.com/album/0PXIY5ZJpZWy3LMpujLN6C) | 4:01 |
-| 108 | [Beautiful, Altogether](https://open.spotify.com/track/7qsv2ZaehJN4uIkCDsubKQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 3:30 |
+| 105 | [Silent Night](https://open.spotify.com/track/2NvbRCk08L3clDF9BqVtEo) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 3:24 |
+| 106 | [Once A Year Miracle](https://open.spotify.com/track/3HTRqeCKO4BSMflq1DiTWN) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [The Very Best Time Of Year](https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1) | 2:57 |
+| 107 | [Beautiful, Altogether](https://open.spotify.com/track/7qsv2ZaehJN4uIkCDsubKQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 3:30 |
+| 108 | [We Three Kings](https://open.spotify.com/track/4F5Ht2JjkaMmL4b8verZ2W) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [More Sounds Of Christmas](https://open.spotify.com/album/0PXIY5ZJpZWy3LMpujLN6C) | 4:01 |
 | 109 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/4zVgLxk3wgdRUZi73eKCty) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/3wP0qYEVSwTpxpFtuAyUko) | 2:42 |
 | 110 | [This Christmas](https://open.spotify.com/track/0chBHr9DJuSYwN5JuunfY5) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Jazz For Joy: A Verve Christmas Album](https://open.spotify.com/album/42LDbwS16YVmhtt87vgAAc) | 4:40 |
 | 111 | [A Toast to Friends](https://open.spotify.com/track/3UzsKmSvlmLtQupgAoUfbZ) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [I'll Be Home for Christmas](https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh) | 5:09 |

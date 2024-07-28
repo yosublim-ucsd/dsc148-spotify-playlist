@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: JVLI
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,129 likes - 55 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,120 likes - 55 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

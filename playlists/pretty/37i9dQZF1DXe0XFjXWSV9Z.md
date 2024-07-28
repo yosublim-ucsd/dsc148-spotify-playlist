@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,808 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,812 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 93 | [Ñocoñoco](https://open.spotify.com/track/7jLgcwhZJCengjJmow08wb) | [Rizomagic](https://open.spotify.com/artist/4S3Z9ltQKcBL7BoKrJUaqt) | [Voltaje Raizal](https://open.spotify.com/album/2oS4zeQXSdMlClvizyKFIw) | 5:16 |
 | 94 | [El Mito del Ayahuasca](https://open.spotify.com/track/422hEiUIkdltQvJvk6xU6U) | [Juaneco Y Su Combo](https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR), [Miki Gonzalez](https://open.spotify.com/artist/0ifCMWK5i03zLZL2N5hmWy) | [El Mito del Ayahuasca](https://open.spotify.com/album/5t6VxqdIyiOR0uB4nhuLvi) | 3:04 |
 | 95 | [Dame Tu Wasap](https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw) | [Los Cotopla Boyz](https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV) | [Mamarron, Vol.1](https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy) | 5:20 |
-| 96 | [Sigo Llorando](https://open.spotify.com/track/0e0kgcPlS4dbyVJOEAVym9) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Sigo Llorando](https://open.spotify.com/album/2bBnsF6DHMnWzRhlQ8Jz0X) | 3:24 |
-| 97 | [Sonido Yoryi](https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Sonido Yoryi](https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe) | 4:40 |
+| 96 | [Sonido Yoryi](https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Sonido Yoryi](https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe) | 4:40 |
+| 97 | [Sigo Llorando](https://open.spotify.com/track/0e0kgcPlS4dbyVJOEAVym9) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Sigo Llorando](https://open.spotify.com/album/2bBnsF6DHMnWzRhlQ8Jz0X) | 3:24 |
 | 98 | [Virgen de Guadalupe](https://open.spotify.com/track/4DpBpURKuXKwWECFwMkr7T) | [Los Peñaloza](https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli) | [Virgen de Guadalupe](https://open.spotify.com/album/5l1BXk01Bi8lsWqvGvoH5D) | 3:42 |
 | 99 | [Quémalo](https://open.spotify.com/track/7mcCU3oiQoQppurDxSPVo6) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Quémalo](https://open.spotify.com/album/6L9dyeQJ9doBa5HPh7i8yY) | 3:40 |
 | 100 | [Cumbia del Pichamán](https://open.spotify.com/track/5w2PSLjp8dGHTCoA2cb4Cp) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Cumbia Siglo XXI](https://open.spotify.com/album/6XFHs9bsqazGHLuIokrDmR) | 3:17 |

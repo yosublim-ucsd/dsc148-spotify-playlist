@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 
 ### [This Is Ulices Chaidez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3a8KAu)
 
-> This is Ulices Chaidez\. The essential tracks, all in one playlist.
+> This Is Ulices Chaidez\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,167 likes - 51 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,166 likes - 51 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 | 50 | [Un Día a La Vez \(En Vivo\)](https://open.spotify.com/track/3LAoAfISn5Y9lKu1GxbDij) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Un Día a La Vez \(En Vivo\)](https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb) | 4:12 |
 | 51 | [El Sr\. Mayo Zambada, El Niño De La Tuna, El Cajoncito \- En Vivo](https://open.spotify.com/track/5Bkcg7dxX6UiOv5ObUGzoJ) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr) | [DEL Records Presenta \- En Vivo Desde La Finca El Cielo](https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq) | 5:26 |
 
-Snapshot ID: `ZqLnAAAAAAAhcubfgc3guiGACfXdboxw`
+Snapshot ID: `ZqLnAAAAAABGx1/RD+za5WmKmvmMFHJL`

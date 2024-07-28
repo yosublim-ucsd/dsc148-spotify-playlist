@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO2csqsN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2csqsN)
 
-### [This is Latto](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2csqsN)
+### [This Is Latto](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2csqsN)
 
-> This is Latto\. De essentiële nummers, allemaal in één playlist.
+> This is Latto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,244 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,245 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 49 | [Like A Thug \(feat\. Lil Durk\)](https://open.spotify.com/track/363CJiT1VE431JUGLdJEEc) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:52 |
 | 50 | [Champagne Shit \(feat\. Latto & Quavo\) \- Remix](https://open.spotify.com/track/4WS26ImdBwGa04bNrh17RO) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Champagne Shit \(feat\. Latto & Quavo\) \[Remix\]](https://open.spotify.com/album/0zMgVaXm1Zs34DSjr2kFOM) | 2:57 |
 
-Snapshot ID: `ZqLnAAAAAADoe9mOaP0X7qiu3SaILExt`
+Snapshot ID: `ZqLnAAAAAAC/2fYu7bBNAYGlPigvSTnt`

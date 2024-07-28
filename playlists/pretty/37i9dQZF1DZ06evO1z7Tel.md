@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1z7Tel.md) - [plain]
 
 ### [This Is Carlos Y Jose](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1z7Tel)
 
-> This is Carlos Y Jose\. The essential tracks, all in one playlist.
+> This Is Carlos Y Jose\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,559 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,565 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1z7Tel.md) - [plain]
 | 49 | [El Pasito Vaquero](https://open.spotify.com/track/0laXs1RoWZ5GgnQ1fok7Hs) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Recuerdos De Carlos y Jose Vol\. 1](https://open.spotify.com/album/4C6h3NopDACF7wRqKQJm0l) | 2:43 |
 | 50 | [Paloma Piquito de Oro](https://open.spotify.com/track/27Y6fG0wY2H2sxggDp1Mgq) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi) | 3:26 |
 
-Snapshot ID: `ZqLnAAAAAAAtUdgQtvPd1Y1Vk0gnp7ql`
+Snapshot ID: `ZqLnAAAAAACXw5WMTvl/IPJVp+EEg3dd`

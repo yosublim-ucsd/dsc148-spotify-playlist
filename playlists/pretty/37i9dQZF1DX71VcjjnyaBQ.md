@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,007 likes - 100 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,013 likes - 100 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 96 | [Dardanella](https://open.spotify.com/track/6ASQ9b6KAHrwKcfgBIeTQw) | [Emmet Cohen](https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT) | [Dardanella](https://open.spotify.com/album/0k7ZC0mA9k5HfPONZzbJTh) | 5:24 |
 | 97 | [Velvet Gloves & Spit](https://open.spotify.com/track/28nqRn3qpWokvnhGfXwbEf) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS) | [Velvet Gloves & Spit](https://open.spotify.com/album/4xAd50gOzhbIldhrmYAJWK) | 2:43 |
 | 98 | [Winter](https://open.spotify.com/track/0TY99mhZgjAT1Nv3b2fnZr) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Winter](https://open.spotify.com/album/6y81cvtV64YclRmmivCI8U) | 5:29 |
-| 99 | [Spring of Life](https://open.spotify.com/track/3nUUfXsd26KdFoBmw8swNW) | [Daniel García Trio](https://open.spotify.com/artist/6utaOlREmKr4nbVWA0z6eP) | [Spring of Life](https://open.spotify.com/album/5X4sm4vwBez9dc90iX0cy3) | 3:35 |
-| 100 | [Fanølyng](https://open.spotify.com/track/738PEBfX2XWfUG0ceTKQvT) | [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu) | [Fanølyng](https://open.spotify.com/album/1L6SNp76cpF2Ldkvje0Ldj) | 5:18 |
+| 99 | [Fanølyng](https://open.spotify.com/track/738PEBfX2XWfUG0ceTKQvT) | [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu) | [Fanølyng](https://open.spotify.com/album/1L6SNp76cpF2Ldkvje0Ldj) | 5:18 |
+| 100 | [Spring of Life](https://open.spotify.com/track/3nUUfXsd26KdFoBmw8swNW) | [Daniel García Trio](https://open.spotify.com/artist/6utaOlREmKr4nbVWA0z6eP) | [Spring of Life](https://open.spotify.com/album/5X4sm4vwBez9dc90iX0cy3) | 3:35 |
 
 Snapshot ID: `ZppWNAAAAADgCePJJCYfrraZGs04Lh47`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 
 ### [This Is Mc Dricka](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2szZf2)
 
-> This is Mc Dricka\. The essential tracks, all in one playlist.
+> This is Mc Dricka\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,626 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,625 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 | 49 | [Colocadinha](https://open.spotify.com/track/6GWe9a8eVDNecYYMvWy0XB) | [Argentino No Beat](https://open.spotify.com/artist/34M7UdepuokkiSNHjB4opv), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Colocadinha](https://open.spotify.com/album/1BzI9XaLvtBy1BdklTSQd1) | 2:23 |
 | 50 | [Automotivo After\-Dark 2](https://open.spotify.com/track/7119zSRc04BwZ6RvGTsiA9) | [DJ Kinn](https://open.spotify.com/artist/0MgbfrrFPrMo31wNsxtPBQ), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Automotivo After\-Dark 2](https://open.spotify.com/album/50Dj7eUvmgNOXFG94B3nMi) | 2:17 |
 
-Snapshot ID: `ZqLnAAAAAADMmsTkrJ1iwUjnOKOsKLff`
+Snapshot ID: `ZqLnAAAAAADon5O6UB3FNsZxnga/6pBH`

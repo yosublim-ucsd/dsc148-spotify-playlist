@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 261539,
+  "num_followers": 261592,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Twist & Shout",
-        "url": "https://open.spotify.com/album/7tUyCuhlC8ag79kPg6rO6J"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 155400,
-      "name": "Twist And Shout",
-      "url": "https://open.spotify.com/track/0URp9jOJtiWKR1AfMGH2Qj"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/6sbZYwwQB15bt5TgkPFAdb"
       },
@@ -1963,6 +1947,38 @@
       "duration_ms": 151666,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/2H3ZUSE54pST4ubRd5FzFR"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Twist & Shout",
+        "url": "https://open.spotify.com/album/7tUyCuhlC8ag79kPg6rO6J"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 155400,
+      "name": "Twist And Shout",
+      "url": "https://open.spotify.com/track/0URp9jOJtiWKR1AfMGH2Qj"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "20 All-Time Greatest Hits!",
+        "url": "https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 125706,
+      "name": "Papa's Got A Brand New Bag",
+      "url": "https://open.spotify.com/track/6v4gV9s0pnwKbmF1yk5knO"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1999,6 +2015,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "The Ultimate Collection: Martha Reeves & The Vandellas",
+        "url": "https://open.spotify.com/album/0kvY6WYTWWJXQnesQRJZUZ"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Dancing In The Street - Single Version",
+      "url": "https://open.spotify.com/track/32k7kVzz4SpmI7Q5xI856l"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Gold (International Version)",
         "url": "https://open.spotify.com/album/7AetomzAid1LhjAQSMxWIx"
       },
@@ -2011,22 +2043,6 @@
       "duration_ms": 160533,
       "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
       "url": "https://open.spotify.com/track/6DfAdJWkHIRUiYsuYoAfim"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "20 All-Time Greatest Hits!",
-        "url": "https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 125706,
-      "name": "Papa's Got A Brand New Bag",
-      "url": "https://open.spotify.com/track/6v4gV9s0pnwKbmF1yk5knO"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2175,22 +2191,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Ultimate Collection: Martha Reeves & The Vandellas",
-        "url": "https://open.spotify.com/album/0kvY6WYTWWJXQnesQRJZUZ"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Dancing In The Street - Single Version",
-      "url": "https://open.spotify.com/track/32k7kVzz4SpmI7Q5xI856l"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "25 All-Time Greatest Hits",
         "url": "https://open.spotify.com/album/62N9znca7VeEvahgwKaEbs"
       },
@@ -2203,22 +2203,6 @@
       "duration_ms": 154466,
       "name": "Poetry In Motion",
       "url": "https://open.spotify.com/track/47NBXLVNoAP6nzPOICYfid"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "I'm A Man / I Can't Get Enough Of It",
-        "url": "https://open.spotify.com/album/4ILV3dYfHY0dfvLxYORAFb"
-      },
-      "artists": [
-        {
-          "name": "The Spencer Davis Group",
-          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "I'm A Man",
-      "url": "https://open.spotify.com/track/5zWehIgPMCGysidrvbltlU"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2271,6 +2255,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "I'm A Man / I Can't Get Enough Of It",
+        "url": "https://open.spotify.com/album/4ILV3dYfHY0dfvLxYORAFb"
+      },
+      "artists": [
+        {
+          "name": "The Spencer Davis Group",
+          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "I'm A Man",
+      "url": "https://open.spotify.com/track/5zWehIgPMCGysidrvbltlU"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "A Hard Day's Night (Remastered)",
         "url": "https://open.spotify.com/album/71Mwd9tntFQYUk4k2DwA0D"
       },
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "1 (Remastered)",
-        "url": "https://open.spotify.com/album/5ju5Ouzan3QwXqQt1Tihbh"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 131213,
-      "name": "Can't Buy Me Love - Remastered 2015",
-      "url": "https://open.spotify.com/track/7pQAq14Z73YUFMtxCyt0bG"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "With The Beatles (Remastered)",
         "url": "https://open.spotify.com/album/3nkEsxmIX0zRNXGAexaHAn"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 127853,
       "name": "All My Loving - Remastered",
       "url": "https://open.spotify.com/track/7cPPyMrSAQY7A686Cn9eUP"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/5ju5Ouzan3QwXqQt1Tihbh"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 131213,
+      "name": "Can't Buy Me Love - Remastered 2015",
+      "url": "https://open.spotify.com/track/7pQAq14Z73YUFMtxCyt0bG"
     },
     {
       "added_at": "2022-06-16 22:02:00",

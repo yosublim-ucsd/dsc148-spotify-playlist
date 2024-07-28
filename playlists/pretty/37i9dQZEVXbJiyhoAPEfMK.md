@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJiyhoAPEfMK.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Switzerland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,982 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,990 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJiyhoAPEfMK.md) - [plain]
 | 49 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 |
 | 50 | [Bah Ouais \- Nouvelle École](https://open.spotify.com/track/2PYMw8P6kuCHqhltz47XMr) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434) | [Nouvelle École \| Saison 3 \| La Finale \(Série Netflix\)](https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F) | 3:21 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

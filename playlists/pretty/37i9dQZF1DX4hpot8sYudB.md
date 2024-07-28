@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4hpot8sYudB.md) - [plain]
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,638 likes - 230 songs - 11 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,737 likes - 230 songs - 11 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

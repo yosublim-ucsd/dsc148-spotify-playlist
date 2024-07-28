@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists. Cover: <a href=\"spotify:artist:6y7frW1RUq3XBBXbYowVpk\">Chandler Moore</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists. Cover: <a href=\"spotify:artist:3NYwlCIjzmWwNdLPGT9UV8\">Phil Thompson</a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -1719,6 +1719,24 @@
     },
     {
       "album": {
+        "name": "Dare (Live)",
+        "url": "https://open.spotify.com/album/30BMEsuWOYvkJrgA9pLBG4"
+      },
+      "artists": [
+        {
+          "name": "Victory House Worship",
+          "url": "https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268022,
+      "name": "Dare - Live",
+      "url": "https://open.spotify.com/track/33eicw4Ft8JfuBXI5DJ4QQ"
+    },
+    {
+      "album": {
         "name": "Dependable (feat. Darrel Walls & Chandler Moore) [Live Version]",
         "url": "https://open.spotify.com/album/0SnHqwsdvfuCqLhQcuVxBU"
       },
@@ -2194,7 +2212,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-28",
       "duration_ms": 127289,
       "name": "Finished Work Reprise (Remix) (Live)",
       "url": "https://open.spotify.com/track/6VWK2uxbP9zSV30CrSMoj0"
@@ -2752,6 +2770,28 @@
       "duration_ms": 619333,
       "name": "God Turned It Around",
       "url": "https://open.spotify.com/track/5DGDEsOU9MovPuq0QRnbUG"
+    },
+    {
+      "album": {
+        "name": "Fresh Fire (Live)",
+        "url": "https://open.spotify.com/album/03BSlFXGJw5NCUNEIAcuoe"
+      },
+      "artists": [
+        {
+          "name": "Shekinah Glory Ministry",
+          "url": "https://open.spotify.com/artist/50DI0MpQBOtBO0PFtKVQRx"
+        },
+        {
+          "name": "Jazmine Jones",
+          "url": "https://open.spotify.com/artist/2ullHtvcbwKN4NgJAql5Ua"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267222,
+      "name": "God You Are Great (Live)",
+      "url": "https://open.spotify.com/track/16CMD7Tm9v9ul8xmniUyFU"
     },
     {
       "album": {
@@ -6634,7 +6674,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-28",
       "duration_ms": 404000,
       "name": "My Rock - Live",
       "url": "https://open.spotify.com/track/1RIe8oYvgnDTUrfUiYIRxd"
@@ -8975,6 +9015,28 @@
     },
     {
       "album": {
+        "name": "Take It All (Live in Abuja)",
+        "url": "https://open.spotify.com/album/70mWW2AS00l9ML2YeXoVio"
+      },
+      "artists": [
+        {
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 621706,
+      "name": "Take it All - Live",
+      "url": "https://open.spotify.com/track/70k721hYulEd5Og7o8dAcE"
+    },
+    {
+      "album": {
         "name": "Testify",
         "url": "https://open.spotify.com/album/3vIRcSnPehNopiCtzmobiL"
       },
@@ -9504,6 +9566,32 @@
       "duration_ms": 232535,
       "name": "The Promise - Radio Edit",
       "url": "https://open.spotify.com/track/6YGbdkTSKjO9o4MsgJRMzJ"
+    },
+    {
+      "album": {
+        "name": "The Sound (Live)",
+        "url": "https://open.spotify.com/album/4GsAiInmNVO1srxuWguAFO"
+      },
+      "artists": [
+        {
+          "name": "Cross Worship",
+          "url": "https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f"
+        },
+        {
+          "name": "Pamela D. Westbrook",
+          "url": "https://open.spotify.com/artist/5n9nMdBVcXJxvnc2iR1tTC"
+        },
+        {
+          "name": "Troy Culbreth",
+          "url": "https://open.spotify.com/artist/5okeeCXGjZEx7uAwbh2kxG"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418709,
+      "name": "The Sound - Live",
+      "url": "https://open.spotify.com/track/3fmyZavgB6JWrgqv3POviV"
     },
     {
       "album": {
@@ -10868,6 +10956,24 @@
       "duration_ms": 243040,
       "name": "Wonder (feat. Le'Andria Johnson)",
       "url": "https://open.spotify.com/track/48NBwJuiWaieFw8R5W3odZ"
+    },
+    {
+      "album": {
+        "name": "Words",
+        "url": "https://open.spotify.com/album/4uMK82fB1ZxIjeMXNCBHDe"
+      },
+      "artists": [
+        {
+          "name": "Donald Lawrence",
+          "url": "https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402386,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/1EilCjxsF1Ln8E7tZUiDN7"
     },
     {
       "album": {

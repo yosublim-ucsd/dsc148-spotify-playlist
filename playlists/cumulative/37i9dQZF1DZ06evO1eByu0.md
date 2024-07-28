@@ -2,9 +2,9 @@
 
 ### [This Is Aline Barros](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1eByu0)
 
-> This is Aline Barros\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is Aline Barros\. Todos os maiores hits em uma só playlist.
 
-76 songs - 5 hr 57 min
+78 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Ele Se Move](https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Ele Se Move](https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ) | 5:41 | 2023-07-09 |  |
 | [Ele Vem / A Cidade Santa \- Ao Vivo](https://open.spotify.com/track/3ITvJ8pM7FVFsqXwBepr0C) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Ele Vem / A Cidade Santa \(Ao Vivo\)](https://open.spotify.com/album/0QYG11SWkllPiFFnq5pxgQ) | 5:29 | 2023-07-09 |  |
 | [Ele é](https://open.spotify.com/track/1DyTbkLa3Vwcn06YyjPTuY) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Minha Oração](https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5) | 5:06 | 2023-07-09 | 2023-11-11 |
-| [Esperança](https://open.spotify.com/track/6Vmwm73j6P6Xyr4FbPSzZx) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk) | 4:32 | 2023-07-09 |  |
+| [Esperança](https://open.spotify.com/track/39haoAQl6lLuaSrZDelpAg) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/5e1UldjtFKyW0HT3H6QXYL) | 4:32 | 2024-07-28 |  |
+| [Esperança](https://open.spotify.com/track/6Vmwm73j6P6Xyr4FbPSzZx) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk) | 4:32 | 2023-07-09 | 2024-07-28 |
 | [Eternidade](https://open.spotify.com/track/6iDmxlmZnSxgLA2JBDFbT4) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Eternidade](https://open.spotify.com/album/18geYBOh1mkkyADKGYZJd2) | 4:52 | 2023-07-09 | 2023-07-22 |
 | [Guarda Tua Fé \(Ao Vivo Em Los Angeles\)](https://open.spotify.com/track/0A60DIXd4RoIB6l25wFgo5) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Guarda Tua Fé \(Ao Vivo Em Los Angeles\)](https://open.spotify.com/album/7rnb8t7kPq1emPdrfxCInC) | 4:10 | 2023-07-09 | 2023-11-11 |
 | [Habrá Victoria](https://open.spotify.com/track/1M8ItKWPgaCm0x2wvtdoCb) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Habrá Victoria](https://open.spotify.com/album/01wnhbveeUx0CgwlrNKgjU) | 4:07 | 2023-07-09 |  |
@@ -79,6 +80,7 @@
 | [Te Adorar é o Meu Prazer](https://open.spotify.com/track/3tzl7KLt2URgiPTgqHf7uS) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Som de Adoradores](https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9) | 6:34 | 2023-12-13 |  |
 | [Tu Presencia Es El Cielo \(Your Presence is Heaven To Me\) \(feat\. Israel Houghton\)](https://open.spotify.com/track/0gSscjszQIv1eiJecgzIW9) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Vivo Estás](https://open.spotify.com/album/1cQr278wCe9Vk7k2wpNULc) | 6:32 | 2023-08-19 |  |
 | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ) | 6:23 | 2023-07-21 |  |
+| [Vem Fluir \(Fall Like Rain\)](https://open.spotify.com/track/6vRgQZAlojDVRcSs7EODCW) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Vem Fluir \(Fall Like Rain\)](https://open.spotify.com/album/2ZUum9B6fcMzr49ZL5rxvK) | 6:27 | 2024-07-28 |  |
 | [Vento do Espírito](https://open.spotify.com/track/68bMEiYsaVqdO35XLWEz5z) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Som de Adoradores](https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9) | 5:08 | 2024-03-09 |  |
 | [Vitória no Deserto](https://open.spotify.com/track/442A0IdJTDkRP0M4CM0pPb) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Extraordinário Amor de Deus](https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6) | 3:45 | 2023-07-09 |  |
 | [Yo Sé Quien Soy](https://open.spotify.com/track/34Ie7cr6R8Np8MighWg37q) | [Emir Sensini](https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Yo Sé Quien Soy](https://open.spotify.com/album/5M9E9nX5CYId00OAWa5pPd) | 3:59 | 2023-11-10 |  |

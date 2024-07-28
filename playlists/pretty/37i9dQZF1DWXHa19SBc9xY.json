@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 96021,
+  "num_followers": 96045,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
+        "name": "Andar Leve",
+        "url": "https://open.spotify.com/album/6YyWW3XWH2YaEHdbmAfe2P"
+      },
+      "artists": [
+        {
+          "name": "TNS",
+          "url": "https://open.spotify.com/artist/0AjgF3N3x4PUJnZzVYEnXg"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 165408,
+      "name": "Andar Leve",
+      "url": "https://open.spotify.com/track/5ZSGfppfIgP8aatrNTe4Lo"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
         "name": "Apesar de Querer",
         "url": "https://open.spotify.com/album/3JoqTBAWi9gnEt3UlNHZiR"
       },
@@ -1235,8 +1255,8 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Amor das Minhas Vidas",
-        "url": "https://open.spotify.com/album/1k0nV3KIhDJ6cjBsUlUqWx"
+        "name": "Som de Alceu",
+        "url": "https://open.spotify.com/album/0aUxFYO1xNdVmAG23lPpCA"
       },
       "artists": [
         {
@@ -1244,13 +1264,13 @@
           "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         },
         {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
         }
       ],
-      "duration_ms": 177343,
-      "name": "Amor das Minhas Vidas",
-      "url": "https://open.spotify.com/track/4FWaHhlifT5uiCISf6e7ix"
+      "duration_ms": 182587,
+      "name": "Som de Alceu",
+      "url": "https://open.spotify.com/track/5V09QKkoP6GbDLRl5TsBUg"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1287,26 +1307,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "15b",
-        "url": "https://open.spotify.com/album/6i4jlwCMeHUykb1NLn2Jir"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        },
-        {
-          "name": "Mariana Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        }
-      ],
-      "duration_ms": 163566,
-      "name": "15b",
-      "url": "https://open.spotify.com/track/657snoTuKuYiyv7XhtMvKw"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Louco de Amor",
         "url": "https://open.spotify.com/album/6HL0AK1xmdZyL5Kpqz1n3m"
       },
@@ -1323,26 +1323,6 @@
       "duration_ms": 171911,
       "name": "Louco de Amor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7D9VaVp4SGCGhUHOxyrNrR"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Andar Leve",
-        "url": "https://open.spotify.com/album/6YyWW3XWH2YaEHdbmAfe2P"
-      },
-      "artists": [
-        {
-          "name": "TNS",
-          "url": "https://open.spotify.com/artist/0AjgF3N3x4PUJnZzVYEnXg"
-        },
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 165408,
-      "name": "Andar Leve",
-      "url": "https://open.spotify.com/track/5ZSGfppfIgP8aatrNTe4Lo"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1367,26 +1347,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Som de Alceu",
-        "url": "https://open.spotify.com/album/0aUxFYO1xNdVmAG23lPpCA"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        }
-      ],
-      "duration_ms": 182587,
-      "name": "Som de Alceu",
-      "url": "https://open.spotify.com/track/5V09QKkoP6GbDLRl5TsBUg"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "samba do mo\u00e7o bonito",
         "url": "https://open.spotify.com/album/1m7YxyY5M89ksdvOwuKc0e"
       },
@@ -1399,6 +1359,26 @@
       "duration_ms": 197090,
       "name": "samba do mo\u00e7o bonito",
       "url": "https://open.spotify.com/track/4eskR9gFtgYA2lY09lgqly"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "15b",
+        "url": "https://open.spotify.com/album/6i4jlwCMeHUykb1NLn2Jir"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        },
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "duration_ms": 163566,
+      "name": "15b",
+      "url": "https://open.spotify.com/track/657snoTuKuYiyv7XhtMvKw"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1451,6 +1431,26 @@
       "duration_ms": 161250,
       "name": "Lua Nova",
       "url": "https://open.spotify.com/track/7gob58REjZ8OLz3sXwYKg4"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Amor das Minhas Vidas",
+        "url": "https://open.spotify.com/album/1k0nV3KIhDJ6cjBsUlUqWx"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 177343,
+      "name": "Amor das Minhas Vidas",
+      "url": "https://open.spotify.com/track/4FWaHhlifT5uiCISf6e7ix"
     },
     {
       "added_at": "2023-11-24 08:42:40",

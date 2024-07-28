@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKypXHVwk1f0.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Panama.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,523 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,526 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKypXHVwk1f0.md) - [plain]
 | 49 | [Mojaita](https://open.spotify.com/track/7JHUlJCUhUvMLNGsrDf4K1) | [Robi Guid](https://open.spotify.com/artist/57GVeZvmrO7oCLm0Uacrjy), [Lh Da Produzza](https://open.spotify.com/artist/39GGxIMwluX0usfj3E1IhJ) | [Mojaita](https://open.spotify.com/album/2Ez4GzUBSFoqecJsG84nCB) | 3:54 |
 | 50 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

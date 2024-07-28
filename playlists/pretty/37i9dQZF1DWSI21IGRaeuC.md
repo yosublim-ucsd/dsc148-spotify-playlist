@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,948 likes - 100 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,957 likes - 100 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 78 | [Origins \- 3AM Tusi Mix](https://open.spotify.com/track/6OCycJBRIG7ItttiTWlWQr) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Harvy Valencia](https://open.spotify.com/artist/0pgx8lzqNK3ywq4WWvaIO4) | [Origins EP](https://open.spotify.com/album/3tManJXRjY1UCJVXb7QTYN) | 3:56 |
 | 79 | [ROCK THIS](https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV) | [Sergio Saffe](https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT) | [ROCK THIS](https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE) | 3:24 |
 | 80 | [Nuthin' On](https://open.spotify.com/track/2iSKzMK0aNxmNAzdBVN6jp) | [Chicks Luv Us](https://open.spotify.com/artist/6tb3j9CDb60zsHm1lN8K02), [EdiP](https://open.spotify.com/artist/5LJwuxjm7hqe5ssWMyyQTE) | [Nuthin' On EP](https://open.spotify.com/album/0xHCfboVdtsec7vOiammF5) | 3:30 |
-| 81 | [So Far So Good](https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [So Far So Good](https://open.spotify.com/album/5xgM97vD71r0gHCCcRZj11) | 2:42 |
-| 82 | [No Turning Back](https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug) | [MANT](https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y) | [No Turning Back](https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt) | 3:10 |
+| 81 | [No Turning Back](https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug) | [MANT](https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y) | [No Turning Back](https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt) | 3:10 |
+| 82 | [So Far So Good](https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [So Far So Good](https://open.spotify.com/album/5xgM97vD71r0gHCCcRZj11) | 2:42 |
 | 83 | [Teki Teki](https://open.spotify.com/track/7kqRcKrVTkBngaePmZ9CJR) | [Ishimaru](https://open.spotify.com/artist/3Uv4JaQxrshHLQguFHfz2n) | [Teki Teki](https://open.spotify.com/album/6XLHIo1MKRbbeqFZeaMA8n) | 3:20 |
 | 84 | [Fakez](https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Fakez](https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X) | 4:31 |
 | 85 | [Stutter](https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [Stutter EP](https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV) | 3:53 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 87 | [Cold](https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Cold](https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6) | 3:42 |
 | 88 | [Tempelhof](https://open.spotify.com/track/1OXu6yphRorUKpTttBMMhl) | [GiGi FM](https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi) | [Movimiento](https://open.spotify.com/album/6aKGDyR5AGabrgoK72IspI) | 5:33 |
 | 89 | [Space Bump](https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF), [Deeft](https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6) | [Space Bump](https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji) | 2:47 |
-| 90 | [Nobody Else](https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL) | [Jack Orley](https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j) | [Nobody Else](https://open.spotify.com/album/2dAboPtSUPEeEiKqHmRdIm) | 3:06 |
-| 91 | [Where Ya At](https://open.spotify.com/track/5ly24DpozyrKv1FFDivUHx) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Where Ya At](https://open.spotify.com/album/1IdxL4BAGoA9Cf5Vi2UfQ4) | 3:48 |
+| 90 | [Where Ya At](https://open.spotify.com/track/5ly24DpozyrKv1FFDivUHx) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Where Ya At](https://open.spotify.com/album/1IdxL4BAGoA9Cf5Vi2UfQ4) | 3:48 |
+| 91 | [Nobody Else](https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL) | [Jack Orley](https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j) | [Nobody Else](https://open.spotify.com/album/2dAboPtSUPEeEiKqHmRdIm) | 3:06 |
 | 92 | [Break Down \- Dennis Cruz Remix](https://open.spotify.com/track/1pCmhqRqwfiugXI1vtY2a5) | [Hector Couto](https://open.spotify.com/artist/4TeakFq7Xbpo0ihpTQrekM), [Rendher](https://open.spotify.com/artist/4Icdw6ZLVk2NkjIjMhJSc6), [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Break Down EP](https://open.spotify.com/album/2cYJheonNoIlqXcS9g2GIK) | 5:42 |
 | 93 | [N NIGHT](https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC) | [Wheats](https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF) | [N NIGHT](https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg) | 7:34 |
 | 94 | [Amused](https://open.spotify.com/track/6HwWPFDSqwHiWdjCdHHi6G) | [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Amused EP](https://open.spotify.com/album/71ViKLNXZ55srxn3MZN4Js) | 3:15 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 96 | [Vamo](https://open.spotify.com/track/1TyO82OeIOUO6845tQH3Yu) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [Vamo](https://open.spotify.com/album/5fpcn6vdsxTyh1m3XmGDHA) | 3:36 |
 | 97 | [YAP](https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt) | [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [YAP EP](https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf) | 4:06 |
 | 98 | [You're So Just Just \- Seth Troxler x Ryan Crosson Remix](https://open.spotify.com/track/1rXWi5LOQTes7AHv4JiP1f) | [Rework](https://open.spotify.com/artist/626m9wrDRLw3o3quwRrafu), [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B), [Ryan Crosson](https://open.spotify.com/artist/5ZJEkLV6krzRy59l6dlYJx) | [You´re So Just Just](https://open.spotify.com/album/3x4oMcvGVAT0Eomho0KAGX) | 6:57 |
-| 99 | [Space Is The Place](https://open.spotify.com/track/2UV4qko6vVLF9fGsRRQRz9) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Space Is The Place](https://open.spotify.com/album/00hFCWKDpCvSSSUT4NOGVp) | 6:25 |
-| 100 | [Wyle Up](https://open.spotify.com/track/5KhuJU1rzOCbzdw7w8y02W) | [ENNE \(BR\)](https://open.spotify.com/artist/4uUgP4DI2XclDn1LD6K8hP) | [Wyle Up](https://open.spotify.com/album/0ypxGTI46Pk72LJh527jsX) | 2:30 |
+| 99 | [Wyle Up](https://open.spotify.com/track/5KhuJU1rzOCbzdw7w8y02W) | [ENNE \(BR\)](https://open.spotify.com/artist/4uUgP4DI2XclDn1LD6K8hP) | [Wyle Up](https://open.spotify.com/album/0ypxGTI46Pk72LJh527jsX) | 2:30 |
+| 100 | [Space Is The Place](https://open.spotify.com/track/2UV4qko6vVLF9fGsRRQRz9) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Space Is The Place](https://open.spotify.com/album/00hFCWKDpCvSSSUT4NOGVp) | 6:25 |
 
 Snapshot ID: `ZqMfQAAAAAA9fStUp/oGG736D6PHc/AV`

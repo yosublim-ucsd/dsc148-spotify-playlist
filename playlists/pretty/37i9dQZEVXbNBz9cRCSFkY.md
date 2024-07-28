@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNBz9cRCSFkY.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,349,763 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,349,848 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNBz9cRCSFkY.md) - [plain]
 | 49 | [Kunan Mong Pic](https://open.spotify.com/track/6q07OiEEt6Tz2SkGuwCCGo) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [BRGR](https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Kunan Mong Pic](https://open.spotify.com/album/2yo2p2KkXVyYNV5Lo8XxwN) | 3:15 |
 | 50 | [Sumugal](https://open.spotify.com/track/35Vt1L1KBP2YoWfErB0FAy) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T), [Unotheone](https://open.spotify.com/artist/4MgsXfdEpHBkdGCSE6MIsc), [LK](https://open.spotify.com/artist/5O7D5aov42oqSgjKfjohle) | [Kung Alam Mo Lang](https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa) | 3:01 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

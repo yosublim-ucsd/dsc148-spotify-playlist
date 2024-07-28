@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKxYYIUIgn7V.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,366 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,367 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKxYYIUIgn7V.md) - [plain]
 | 49 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 |
 | 50 | [Du Kennst Mo](https://open.spotify.com/track/5rVNIvyVSjfe1GDQsIWPYt) | [Mo Douzi](https://open.spotify.com/artist/4tIVmhaMCSWkhEldaKif5a) | [Du Kennst Mo](https://open.spotify.com/album/7E81e1FcefkS4Jb3EpkXCv) | 2:55 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

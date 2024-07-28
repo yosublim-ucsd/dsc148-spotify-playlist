@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268 likes - 136 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 269 likes - 136 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 53 | [Hot One](https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Hot One](https://open.spotify.com/album/0eLCiZEois6hUbUao44vi9) | 2:56 |
 | 54 | [ORAL HEX \(spell on you\)](https://open.spotify.com/track/6SpUnFjNfyFgyLRm65b2G6) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [ORAL HEX \(spell on you\)](https://open.spotify.com/album/3Z6ZQizuBnh4w78dlm6HZ1) | 3:14 |
 | 55 | [coming of age](https://open.spotify.com/track/44J3plqT5zMSpaa6bkGfhZ) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:38 |
-| 56 | [Love Language](https://open.spotify.com/track/2hn11FTEwM9YrJyz3XnU5M) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Language](https://open.spotify.com/album/5N8NVRBbCenIoCO2QMjdNT) | 3:28 |
-| 57 | [Grey Lines](https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Grey Lines](https://open.spotify.com/album/60UeVI6qh6PRnTYf4uqtzj) | 2:48 |
+| 56 | [Grey Lines](https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Grey Lines](https://open.spotify.com/album/60UeVI6qh6PRnTYf4uqtzj) | 2:48 |
+| 57 | [Love Language](https://open.spotify.com/track/2hn11FTEwM9YrJyz3XnU5M) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Language](https://open.spotify.com/album/5N8NVRBbCenIoCO2QMjdNT) | 3:28 |
 | 58 | [virtual reality](https://open.spotify.com/track/18WaQZeWkZ9Yy0QZtxoW50) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [off saint dominique EP](https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD) | 2:41 |
 | 59 | [idc](https://open.spotify.com/track/0VuxsFoM1f6LLEaGnJgwPy) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [teenage angst EP](https://open.spotify.com/album/2JxyP3DMXo84BCjj5EXLbX) | 2:33 |
 | 60 | [in case you miss me](https://open.spotify.com/track/0NAvBMEfXk1ke0RoR4NPni) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [in case you miss me](https://open.spotify.com/album/4f4zlRTu5sG8VM6xdIMw1m) | 2:50 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 65 | [Cotton Candy Lemonade \(Anna Lunoe Remix\)](https://open.spotify.com/track/2wmkq5eX7OJIkXkT9Qy673) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Cotton Candy Lemonade \(Anna Lunoe Remix\)](https://open.spotify.com/album/45qgHRxk8NBzdsxkTk9If5) | 4:07 |
 | 66 | [Girls](https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Girls](https://open.spotify.com/album/0ELNO6pSJy9iq7FJG2DKVM) | 2:20 |
 | 67 | [Adrenaline](https://open.spotify.com/track/1XtKDLAUMpkP7d5As2tMdo) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Adrenaline](https://open.spotify.com/album/2XB9irMRwGVnLswejrbG0b) | 2:26 |
-| 68 | [i drive me mad \- Mike Shinoda Mix](https://open.spotify.com/track/0DplYafqAQYY1fcx3XY3hv) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [i drive me mad \(Mike Shinoda Mix\)](https://open.spotify.com/album/74eZ7jc74TkCSI8esb81xd) | 2:48 |
-| 69 | [Warning Shot](https://open.spotify.com/track/2mZihLDNHZHIed3uFgv4yh) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Warning Shot](https://open.spotify.com/album/0eAplhXz5jR1wCFDEb7pr8) | 2:25 |
+| 68 | [Warning Shot](https://open.spotify.com/track/2mZihLDNHZHIed3uFgv4yh) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Warning Shot](https://open.spotify.com/album/0eAplhXz5jR1wCFDEb7pr8) | 2:25 |
+| 69 | [i drive me mad \- Mike Shinoda Mix](https://open.spotify.com/track/0DplYafqAQYY1fcx3XY3hv) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [i drive me mad \(Mike Shinoda Mix\)](https://open.spotify.com/album/74eZ7jc74TkCSI8esb81xd) | 2:48 |
 | 70 | [Come Home](https://open.spotify.com/track/1fMpSEEm9DWTmgxB4f7DXx) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Me For Another Day](https://open.spotify.com/album/65LmFuLBa1yBX5yfuuOMh2) | 3:18 |
 | 71 | [Be Alright](https://open.spotify.com/track/2CgSu8P3ZAw7qdzfOl0Cyb) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Be Alright // U Sometimes](https://open.spotify.com/album/2l9hUZ6VOlwDim9igWpiK5) | 2:36 |
 | 72 | [Awesome](https://open.spotify.com/track/0L53Abm07SniogTRH1CoqC) | [Dylan Rockoff](https://open.spotify.com/artist/2L2hppNg0A5WfGJTChIJL5) | [Semicolon & Parentheses \(Deluxe\)](https://open.spotify.com/album/42BA8ADEXyNS7spQ1fH8KS) | 2:56 |
@@ -127,9 +127,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 117 | [Go Bad \- From The Netflix Film “He’s All That"](https://open.spotify.com/track/0KrxLbZ5Ii6o6PmDgcWii8) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [He's All That \(Music From The Netflix Film\)](https://open.spotify.com/album/0Avy6QPpUbn3rJ5f76yimK) | 2:07 |
 | 118 | [Tomorrow](https://open.spotify.com/track/5tzKLWCUnqi951e5dh8dMy) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Tomorrow](https://open.spotify.com/album/6ohU5Ec3OF69kJQaZIbL4N) | 3:13 |
 | 119 | [indigo](https://open.spotify.com/track/6Uj38GEXvpKQFjkU0bv1Im) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 10](https://open.spotify.com/album/25orBHW7uijdOQi29a8wag) | 2:42 |
-| 120 | [BMW X5](https://open.spotify.com/track/5l2eU16Ruz6W73u0yESsuC) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [BMW X5](https://open.spotify.com/album/7BBbjxLMCcp3bseNfYgRPD) | 2:47 |
-| 121 | [Choose Me](https://open.spotify.com/track/3qDAy2y8zRVRNat05q8oDN) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Still Learning](https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh) | 2:21 |
-| 122 | [Hollywood Sextape](https://open.spotify.com/track/1qPfbQKFBTKMW1z7CjLA9v) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Jawbreaker](https://open.spotify.com/album/4op5G7mWdKWqsKcTpdFU8a) | 3:31 |
+| 120 | [Hollywood Sextape](https://open.spotify.com/track/1qPfbQKFBTKMW1z7CjLA9v) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Jawbreaker](https://open.spotify.com/album/4op5G7mWdKWqsKcTpdFU8a) | 3:31 |
+| 121 | [BMW X5](https://open.spotify.com/track/5l2eU16Ruz6W73u0yESsuC) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [BMW X5](https://open.spotify.com/album/7BBbjxLMCcp3bseNfYgRPD) | 2:47 |
+| 122 | [Choose Me](https://open.spotify.com/track/3qDAy2y8zRVRNat05q8oDN) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Still Learning](https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh) | 2:21 |
 | 123 | [Haunt Me](https://open.spotify.com/track/2TuTlcE2yrwZGFlowFYwIZ) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Dear Ella,](https://open.spotify.com/album/1NnDilXBFyACjOuXOvY7Z7) | 3:06 |
 | 124 | [let you down \(feat\. Jake Bugg\)](https://open.spotify.com/track/0KZYmzV0OHhPu4aTMO2zjm) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 3:27 |
 | 125 | [lovesick](https://open.spotify.com/track/16DQrEloMIrPB22YCNFj70) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 14](https://open.spotify.com/album/4GFAippfA1UcHW8uyDabWD) | 2:20 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 135 | [Freakshow](https://open.spotify.com/track/4WceOz4GIcG7FyYvkpcNQj) | [JAXN](https://open.spotify.com/artist/7DwbU77epeOXvBO9xfOmh7) | [Freakshow](https://open.spotify.com/album/1JfiOjHXTPhks1hpToVbLX) | 2:24 |
 | 136 | [All I Wanna Be \(feat\. Sean Patrick Murray\)](https://open.spotify.com/track/1Ec1hixIPm30vs0s9aV5BK) | [Westside Cast](https://open.spotify.com/artist/5Z6UnrTHG7YbOsdHAkZdOw), [Sean Patrick Murray](https://open.spotify.com/artist/31wZNcRxQ9opwiFLXpCvld) | [Westside: The Music \(Music from the Original Series\)](https://open.spotify.com/album/4z57sC26Xxv1CdURc6mfru) | 3:54 |
 
-Snapshot ID: `AbXz8AAAAADTP3q8ZnE/Ywtkk6PA64kq`
+Snapshot ID: `AbX2DAAAAAArBSGnpkFwcMJjGQyGWxLp`

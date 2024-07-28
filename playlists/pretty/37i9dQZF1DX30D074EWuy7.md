@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 
 > La playlist del jazz italiano, passato e presente\. Cover: Paolo Fresu
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,782 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,787 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,10 +102,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 | 92 | [Blackbird](https://open.spotify.com/track/1c69d1oTCalqQB6FO7pICP) | [Federico Bosio](https://open.spotify.com/artist/4Abr4eBiKbgX3KSvD1t1M1) | [Blackbird](https://open.spotify.com/album/6YGuRFwhLbLC82kXpz4TpJ) | 2:26 |
 | 93 | [Lucignolo](https://open.spotify.com/track/0awnjSleN0JiwdTw31ffK9) | [Antonio Zambrini](https://open.spotify.com/artist/6TW82eCj0y0x0l5lyP77RL), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Martin Andersen](https://open.spotify.com/artist/1zIiVkc3gVwgGJLL2ZC2jE) | [Pinocchio e altri racconti](https://open.spotify.com/album/7cXmGBHyTP2o8BaqWIktSu) | 6:28 |
 | 94 | [Movimento Astratto](https://open.spotify.com/track/6r76msR3jmGKmr9ZjoT6Ez) | [Lorenzo Morresi](https://open.spotify.com/artist/5KgrjZAqa9vYxxza7MDDW2), [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Cosmica Italiana](https://open.spotify.com/album/6vpTptHhCC583XUoazczZt) | 3:42 |
-| 95 | [April In Parrish](https://open.spotify.com/track/1oTiRQQ0l7sNOJxNqDjFx0) | [Tommaso Cappellato](https://open.spotify.com/artist/5xu6nwws5Wrbd5TayescJ2), [Tony Martin](https://open.spotify.com/artist/5AHm2PdPYw9qsj1q1bhxj2), [Diego Gaeta](https://open.spotify.com/artist/5XFiZHkVQlRc9F1mFKoQuT) | [Explorare](https://open.spotify.com/album/2bISlKj86NDaG7oV1HBxFB) | 3:47 |
-| 96 | [Randagio](https://open.spotify.com/track/5w4Hm7e56SFJP1bMPB029u) | [Go Dugong](https://open.spotify.com/artist/5JPe09JXKnZxN6oLYJMaKh), [Mai Mai Mai](https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3) | [Meridies](https://open.spotify.com/album/6T3Ecl7sM27f9W4UCpBWxN) | 4:02 |
-| 97 | [Frevo](https://open.spotify.com/track/4NpETaj70DmYarCLbPqLyv) | [Gabriele Mirabassi](https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE), [Pierluigi Balducci](https://open.spotify.com/artist/4kdAUsq2UpAqjbenZAeMo1), [Nando Di Modugno](https://open.spotify.com/artist/5CULFq6PQEgNcdiOygxmg3) | [Tabacco e Caffè](https://open.spotify.com/album/2NeByVBLwcAhdcnQw86MkH) | 4:51 |
-| 98 | [Fun](https://open.spotify.com/track/1jDSu3OmCIBMiKEE9pl6RE) | [Oona Rea](https://open.spotify.com/artist/3uAnQmV3hPEl7SrxyRgIfb) | [First Name: Oona](https://open.spotify.com/album/4hwNr0pUjHAMaGbxxMTnOQ) | 2:18 |
+| 95 | [Randagio](https://open.spotify.com/track/5w4Hm7e56SFJP1bMPB029u) | [Go Dugong](https://open.spotify.com/artist/5JPe09JXKnZxN6oLYJMaKh), [Mai Mai Mai](https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3) | [Meridies](https://open.spotify.com/album/6T3Ecl7sM27f9W4UCpBWxN) | 4:02 |
+| 96 | [April In Parrish](https://open.spotify.com/track/1oTiRQQ0l7sNOJxNqDjFx0) | [Tommaso Cappellato](https://open.spotify.com/artist/5xu6nwws5Wrbd5TayescJ2), [Tony Martin](https://open.spotify.com/artist/5AHm2PdPYw9qsj1q1bhxj2), [Diego Gaeta](https://open.spotify.com/artist/5XFiZHkVQlRc9F1mFKoQuT) | [Explorare](https://open.spotify.com/album/2bISlKj86NDaG7oV1HBxFB) | 3:47 |
+| 97 | [Fun](https://open.spotify.com/track/1jDSu3OmCIBMiKEE9pl6RE) | [Oona Rea](https://open.spotify.com/artist/3uAnQmV3hPEl7SrxyRgIfb) | [First Name: Oona](https://open.spotify.com/album/4hwNr0pUjHAMaGbxxMTnOQ) | 2:18 |
+| 98 | [Frevo](https://open.spotify.com/track/4NpETaj70DmYarCLbPqLyv) | [Gabriele Mirabassi](https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE), [Pierluigi Balducci](https://open.spotify.com/artist/4kdAUsq2UpAqjbenZAeMo1), [Nando Di Modugno](https://open.spotify.com/artist/5CULFq6PQEgNcdiOygxmg3) | [Tabacco e Caffè](https://open.spotify.com/album/2NeByVBLwcAhdcnQw86MkH) | 4:51 |
 | 99 | [I Can't Make You Love Me](https://open.spotify.com/track/3M0o19A4Vq5Z0mKctW1j5L) | [Simona Severini](https://open.spotify.com/artist/7svwx5ZfrR3TUQbGds1F5l) | [Ipotesi](https://open.spotify.com/album/4QE0ufj8ESMinJTSR2DRUa) | 3:17 |
 | 100 | [Traspare](https://open.spotify.com/track/7lmgbTOR6qTQtJXT6Vfqgl) | [Ivan Segreto](https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19) | [Ampia](https://open.spotify.com/album/0W0sZWeJSHiGZqa2ddXEnw) | 6:10 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 
 > Laid back cratedigger hip\-hop from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,308,850 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,309,013 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -52,6 +52,24 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "22 (OVER S\u221e\u221eN)",
+      "url": "https://open.spotify.com/track/5oK98mpTJSU0iqLHN1hZ3y"
+    },
+    {
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
       "date_removed": "2024-07-03",
       "duration_ms": 245200,
       "name": "29 #Strafford APTS",
@@ -142,7 +160,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-28",
       "duration_ms": 309013,
       "name": "8 (circle)",
       "url": "https://open.spotify.com/track/47IklCMgkgWvI4jpkdrop0"
@@ -932,7 +950,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-28",
       "duration_ms": 272680,
       "name": "Easier",
       "url": "https://open.spotify.com/track/6VfLQ8dYSnnY13DpDSMfuq"
@@ -1918,7 +1936,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 237973,
       "name": "No Woman",
       "url": "https://open.spotify.com/track/1CLmFKW99S8eJrebO3GB04"

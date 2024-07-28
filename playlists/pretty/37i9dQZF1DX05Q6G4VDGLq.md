@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Q6G4VDGLq.md) - [plain]
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,493 likes - 700 songs - 1 day 16 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,492 likes - 700 songs - 1 day 16 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

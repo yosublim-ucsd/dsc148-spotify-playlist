@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8?si=jIglGAbjRJKYFOfoE7esMw>Nanette</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,753 likes - 90 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,762 likes - 90 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbO5MSE9RdfN2.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Australia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,480 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,483 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbO5MSE9RdfN2.md) - [plain]
 | 49 | [Tauba Tauba](https://open.spotify.com/track/25Nxyrng0Z3jC5Q0hAibpw) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Bad Newz](https://open.spotify.com/album/6bqZS60eLo3NhEQDtuUGaW) | 3:27 |
 | 50 | [TELESCOPE](https://open.spotify.com/track/46oDV1H9EdVmnWSivShuH1) | [TWXN](https://open.spotify.com/artist/0lZ2oIRdMsQfFEPmOa3YyL), [LL Clawz](https://open.spotify.com/artist/0o7iCloKX9GUlm2mdPFNQm), [507KAZ](https://open.spotify.com/artist/5QnWJJjxPlTSN59B8yJoOk) | [Project YVL](https://open.spotify.com/album/2NSzFWptxM2TsHbGtDE2dr) | 2:23 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

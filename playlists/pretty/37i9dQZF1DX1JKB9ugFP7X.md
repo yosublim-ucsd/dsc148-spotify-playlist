@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 
 > Lo mejor del pop electrónico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,086 likes - 95 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,085 likes - 95 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,10 +98,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 88 | [No Ves Tal Vez \- Evlay Remix](https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [No Ves Tal Vez \(Evlay Remix\)](https://open.spotify.com/album/0GHjBHc8ZxFE22P9YATmku) | 5:13 |
 | 89 | [Ángel Malo](https://open.spotify.com/track/66Rr0jxckqZvjgYfqIInZD) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3) | [Ángel Malo](https://open.spotify.com/album/2MJTEprt9EmWCzhfSAJKlw) | 3:34 |
 | 90 | [Alta Magia \- Reversión 10 años](https://open.spotify.com/track/5i7zmthWP0dImjaFZvzHDj) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH), [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [Alta Magia \(Reversión 10 años\)](https://open.spotify.com/album/1a8CMgCRNBYvJCLogVuMVl) | 5:57 |
-| 91 | [Autosabotear \(Uffie & Lokoy Remix\)](https://open.spotify.com/track/5qJbuq0Z72wXoMVIF7qtRD) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj), [Lokoy](https://open.spotify.com/artist/5kUcNb2wMcDP3fE51Q52Iv) | [Autosabotear \(Uffie & Lokoy Remix\)](https://open.spotify.com/album/0d7ZiyUl0iBTBgbWBq13H5) | 3:16 |
-| 92 | [Circular](https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk) | [Dani Umpi](https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI) | [Guazatumba](https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC) | 3:49 |
-| 93 | [Todas las Luces \- Remix](https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get), [Disonar](https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM) | [Todas las Luces \(Remix\)](https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0) | 3:40 |
-| 94 | [Sombras en la Pared \- Vivo Buenos Aires](https://open.spotify.com/track/22y9nKZDxQu7tgPwkeHPqW) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Peces Raros \(Vivo Buenos Aires\)](https://open.spotify.com/album/4JeBmwhPxwCmyT7nCjO5yZ) | 5:10 |
+| 91 | [Todas las Luces \- Remix](https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get), [Disonar](https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM) | [Todas las Luces \(Remix\)](https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0) | 3:40 |
+| 92 | [Sombras en la Pared \- Vivo Buenos Aires](https://open.spotify.com/track/22y9nKZDxQu7tgPwkeHPqW) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Peces Raros \(Vivo Buenos Aires\)](https://open.spotify.com/album/4JeBmwhPxwCmyT7nCjO5yZ) | 5:10 |
+| 93 | [Autosabotear \(Uffie & Lokoy Remix\)](https://open.spotify.com/track/5qJbuq0Z72wXoMVIF7qtRD) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj), [Lokoy](https://open.spotify.com/artist/5kUcNb2wMcDP3fE51Q52Iv) | [Autosabotear \(Uffie & Lokoy Remix\)](https://open.spotify.com/album/0d7ZiyUl0iBTBgbWBq13H5) | 3:16 |
+| 94 | [Circular](https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk) | [Dani Umpi](https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI) | [Guazatumba](https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC) | 3:49 |
 | 95 | [Dejarte de Querer \- Nico Castro Remix](https://open.spotify.com/track/6PXKYJVbtpfZuOTmiIgJC2) | [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm), [Nico Castro](https://open.spotify.com/artist/3BPUQKAxccyClPyj2A4vv9) | [La Mar \(Remixes\)](https://open.spotify.com/album/7BUfVp5TlqMljuNoO8tX1O) | 5:47 |
 
 Snapshot ID: `ZlnGdQAAAAA36w4116T53CWnPaUbxcFi`

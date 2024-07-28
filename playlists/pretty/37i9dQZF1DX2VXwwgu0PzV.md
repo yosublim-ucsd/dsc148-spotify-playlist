@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href=https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs?si=iHPs3TTvTNKtIYNSW14QQw>Emandiong</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,965 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,039 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

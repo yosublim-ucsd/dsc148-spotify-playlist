@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMTKZuy8ORFV.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Bolivia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,659 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,658 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMTKZuy8ORFV.md) - [plain]
 | 49 | [BOSS](https://open.spotify.com/track/7r3j6V228mlCKgZo6Escvy) | [Dla0](https://open.spotify.com/artist/6P7NeKCj3xU99iDaTp2rxb) | [BOSS](https://open.spotify.com/album/56P90wj5H5W4DO7Vs2zhrp) | 1:19 |
 | 50 | [Perdonarte, ¿Para Qué?](https://open.spotify.com/track/4dLLdfiniBhDP9dlJQIOi4) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Perdonarte, ¿Para Qué?](https://open.spotify.com/album/1fXZxmn9aUIo5Zjx8zQFol) | 3:13 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

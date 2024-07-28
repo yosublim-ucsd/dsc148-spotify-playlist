@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJqdarpmTJDL.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Greece.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,541 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,085 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJqdarpmTJDL.md) - [plain]
 | 49 | [No Sleep](https://open.spotify.com/track/5nM5TStrOQt5HQAt4VzyHz) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [No Sleep](https://open.spotify.com/album/2peljNrepnuuVPc8PKSCpE) | 3:33 |
 | 50 | [ISOS](https://open.spotify.com/track/3CdFVH8SOVnvT0sJLT198p) | [Sicario](https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV) | [H MASKA](https://open.spotify.com/album/5sJyWYQHi5jamYY4XZY4cY) | 3:26 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

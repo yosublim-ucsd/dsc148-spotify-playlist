@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,014 likes - 181 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,012 likes - 181 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 43 | [Side Effects](https://open.spotify.com/track/776xH04Us0YBTdspg6C1cP) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Side Effects](https://open.spotify.com/album/3G8C4K6QdaeYeGmzUdp4gw) | 3:08 |
 | 44 | [Your Love](https://open.spotify.com/track/6tADmhq8hYElyxJKRmFY1y) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 3:27 |
 | 45 | [Them Girls Be Like](https://open.spotify.com/track/5L5zJyglhpR0iHKoMLNaBJ) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 2:42 |
-| 46 | [I Lied](https://open.spotify.com/track/7EvIMAbhkHXcV8rHbOyNzh) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:23 |
-| 47 | [Good Things Fall Apart vs\. Sad Songs \(With Said The Sky feat\. Annika Wells\)](https://open.spotify.com/track/2DqhE7xzpGNsKYbptqblJg) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [ASCEND \(Tour Edits\)](https://open.spotify.com/album/6KICcLGlQnS7908qVzbhP6) | 6:06 |
+| 46 | [Good Things Fall Apart vs\. Sad Songs \(With Said The Sky feat\. Annika Wells\)](https://open.spotify.com/track/2DqhE7xzpGNsKYbptqblJg) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [ASCEND \(Tour Edits\)](https://open.spotify.com/album/6KICcLGlQnS7908qVzbhP6) | 6:06 |
+| 47 | [I Lied](https://open.spotify.com/track/7EvIMAbhkHXcV8rHbOyNzh) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:23 |
 | 48 | [Impossible](https://open.spotify.com/track/1JTmrZwZhaP1yYJtuzfvJ9) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) | 3:02 |
 | 49 | [Kissing Strangers](https://open.spotify.com/track/5brMixqQiQN4D60xmvrSts) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:08 |
 | 50 | [World For Two](https://open.spotify.com/track/4K7uhx9RpAQayZwKIxwGRh) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [Rivers](https://open.spotify.com/album/22ZVcZ2qJSbcQR5VCugOPk) | 3:05 |
@@ -158,8 +158,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 148 | [Show Me](https://open.spotify.com/track/7JJ7S5bgyGFf0OUU0ftSyt) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [idina.](https://open.spotify.com/album/3jXpXBlvGdt0LHZ2CqBg3K) | 5:02 |
 | 149 | [Do You Mind \(feat\. JHart\)](https://open.spotify.com/track/6KW7BwQwTef0c71pVGLZOt) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Do You Mind \(feat\. JHart\)](https://open.spotify.com/album/51zRtPIaO5i7c848eDZYHt) | 2:47 |
 | 150 | [Regarde\-nous](https://open.spotify.com/track/5FSaM1hSGZm5xw3Dpx2iun) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Instinct](https://open.spotify.com/album/3JcdFdHgLEKvm11FA3Q83o) | 2:51 |
-| 151 | [Ready or Not](https://open.spotify.com/track/5f4l8AFUn8AndSXGRbBSNY) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [All the Feels](https://open.spotify.com/album/73hQB56aBFJTHE9vshSCLg) | 3:39 |
-| 152 | [Soul, Body & Mind](https://open.spotify.com/track/5TVuj7S4ZcbBtlCzDVmeVi) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Soul, Body & Mind](https://open.spotify.com/album/4vr53R7apxpdPLKS1gGHto) | 2:55 |
+| 151 | [Soul, Body & Mind](https://open.spotify.com/track/5TVuj7S4ZcbBtlCzDVmeVi) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Soul, Body & Mind](https://open.spotify.com/album/4vr53R7apxpdPLKS1gGHto) | 2:55 |
+| 152 | [Ready or Not](https://open.spotify.com/track/5f4l8AFUn8AndSXGRbBSNY) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [All the Feels](https://open.spotify.com/album/73hQB56aBFJTHE9vshSCLg) | 3:39 |
 | 153 | [Sans toi](https://open.spotify.com/track/7jRXuAMoc8mtQiSmG25Ptp) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Instinct](https://open.spotify.com/album/3JcdFdHgLEKvm11FA3Q83o) | 3:01 |
 | 154 | [Time After Time](https://open.spotify.com/track/6aZnSlxQmeChHpuKMmYh0u) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Time After Time](https://open.spotify.com/album/4GpRAwq2wyt7GttDqZGLjA) | 3:33 |
 | 155 | [Stay Blessed](https://open.spotify.com/track/06WmKeaY6E4Ud9FQoGEjA3) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Human](https://open.spotify.com/album/2N3CpixB4uEbAa6L5xoQED) | 2:50 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 180 | [All My Life](https://open.spotify.com/track/15l0pOOpIL11xt2JoWKthY) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [With The Music I Die \(Deluxe\)](https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4) | 3:36 |
 | 181 | [Tonight](https://open.spotify.com/track/16LDHU7Ir8BAEQs9j61qDE) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/02x1wspowX3eX0DBV63jjF) | 3:53 |
 
-Snapshot ID: `AbXz5gAAAAD0xeIPAecTSt+NcCz6fC3l`
+Snapshot ID: `AbX2PgAAAAA6YReHVJdaGBIynlUKh4bb`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Ezra Koenig
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,483 likes - 125 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,486 likes - 125 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 | 113 | [Born Again \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0BGdxW79sZA6nmuws983bE) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Spotify Singles](https://open.spotify.com/album/5yPmcKtzc9A0RcKpCFqQtZ) | 3:51 |
 | 114 | [Seventeen \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6qeP5qZPiycfpOMRvhTJYv) | [Welles](https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l) | [Spotify Singles](https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P) | 4:55 |
 | 115 | [Rockstar \- Recorded At Abbey Road Studios, London](https://open.spotify.com/track/5D6Z7Iof3v5QRbaW2LquoN) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Spotify Singles](https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE) | 3:57 |
-| 116 | [Welcome to Your Life \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2cN7H31DES22HCjYitKggF) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spotify Singles](https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl) | 3:45 |
-| 117 | [Blood Under My Belt \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5KmJKfQN4VIFbbPBoCFsVz) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Spotify Singles](https://open.spotify.com/album/5E1LpvOY21eS1Ri6zIjT9L) | 6:10 |
+| 116 | [Blood Under My Belt \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5KmJKfQN4VIFbbPBoCFsVz) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Spotify Singles](https://open.spotify.com/album/5E1LpvOY21eS1Ri6zIjT9L) | 6:10 |
+| 117 | [Welcome to Your Life \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2cN7H31DES22HCjYitKggF) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spotify Singles](https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl) | 3:45 |
 | 118 | [tonite \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/5hSTBY6xBkx60qPVseOKFX) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Spotify Singles](https://open.spotify.com/album/75bOa6MJhVgz1uzcZBUNhf) | 5:44 |
 | 119 | [Genghis Khan \- Jim Eno Sessions](https://open.spotify.com/track/5mFvYNykzBjdXRbPxKnvwA) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Spotify Sessions](https://open.spotify.com/album/7mqNAKmDhYPSA1NrvIG0wv) | 3:19 |
 | 120 | [Mourning Sound \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4qPb53XN2ilYsBf5OIHdtV) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Spotify Singles](https://open.spotify.com/album/68X345rpDHj4iY6E7pcT6d) | 5:16 |

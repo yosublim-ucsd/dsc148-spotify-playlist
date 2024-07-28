@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,358 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,357 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 66 | [Fight First](https://open.spotify.com/track/1EtbFBabv9aemgBfvh3aY1) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH) | [Mother's Day \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5shDcdQoul4VBhEizLGRgf) | 2:43 |
 | 67 | [Nucę, gwiżdżę sobie \(Canto Canto\)](https://open.spotify.com/track/4i4jC0dkDV7lTGjUGuEzQU) | [Dorota Miskiewicz](https://open.spotify.com/artist/28mPXJrs2VyZ6Phm1JBeaF), [Toninho Horta](https://open.spotify.com/artist/1HQIztYT50mMS3PZR0qgFk) | [Bons Amigos](https://open.spotify.com/album/3Jw4AYdB8n1eREIDwQSpwa) | 4:17 |
 | 68 | [Kruszysz \(Szatt Remix\)](https://open.spotify.com/track/3zoH3L4e1VZdauVbiqFVwn) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki), [Szatt](https://open.spotify.com/artist/7CvAaHIdLQdAGOIEL9MKkS) | [p@Ran0j3](https://open.spotify.com/album/0ulVcgl164iEs4IAV2f2Zu) | 3:30 |
-| 69 | [Alkohol i miłość](https://open.spotify.com/track/1R3qRNzMhOlXux9vQzEdY5) | [Jan Emil Mlynarski](https://open.spotify.com/artist/798arzkDX7o9m093xCgLqw), [Brass Federacja](https://open.spotify.com/artist/0wXF2aKtDRH1IxDMQUrYq8), [Anna Rusowicz](https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP) | [Narkotyki](https://open.spotify.com/album/3stYIijAh28k8QMDeNwynp) | 3:30 |
-| 70 | [Czas Nie Leczy Ran](https://open.spotify.com/track/7ASf5D6jl1WR0nZZCqXLJj) | [CARNAL](https://open.spotify.com/artist/4yquXnzIaiXlaAM1IwrFoN), [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Horyzont Zdarzeń](https://open.spotify.com/album/5JqsTZOSxsihfzsaACeNyE) | 4:48 |
+| 69 | [Czas Nie Leczy Ran](https://open.spotify.com/track/7ASf5D6jl1WR0nZZCqXLJj) | [CARNAL](https://open.spotify.com/artist/4yquXnzIaiXlaAM1IwrFoN), [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Horyzont Zdarzeń](https://open.spotify.com/album/5JqsTZOSxsihfzsaACeNyE) | 4:48 |
+| 70 | [Alkohol i miłość](https://open.spotify.com/track/1R3qRNzMhOlXux9vQzEdY5) | [Jan Emil Mlynarski](https://open.spotify.com/artist/798arzkDX7o9m093xCgLqw), [Brass Federacja](https://open.spotify.com/artist/0wXF2aKtDRH1IxDMQUrYq8), [Anna Rusowicz](https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP) | [Narkotyki](https://open.spotify.com/album/3stYIijAh28k8QMDeNwynp) | 3:30 |
 | 71 | [Pieśń baby](https://open.spotify.com/track/49sM2mKl9RSGD9ebKwp32V) | [Same Suki](https://open.spotify.com/artist/6axNRfRIwykkAvM1m9DHHd) | [Dziadoskie piosenki o miłości](https://open.spotify.com/album/224o8MDqjyjMcZ8NPGvwrU) | 1:39 |
 | 72 | [IMAGO SWAN](https://open.spotify.com/track/1L80n5Kwmx1gCqMMJPH8wY) | [Smolik](https://open.spotify.com/artist/3QyqTTQgSUaa449m8u6vpR), [Y \(BOKKA\)](https://open.spotify.com/artist/4RJYkHAe8ApeuIHWYkWCWy) | [IMAGO \(Original Soundtrack\)](https://open.spotify.com/album/4yb4DjGDqV6u2T8i5vzQln) | 2:52 |
 | 73 | [Coincidence \- Part 1 \- Prologue](https://open.spotify.com/track/7mWqeujJUaztW33EGT8Pc3) | [Paweł Tomaszewski](https://open.spotify.com/artist/2U5CeMzclm8FsB70aHxcty), [Orkiestra Symfoniczna Filharmonii w Szczecinie](https://open.spotify.com/artist/5IjEkWFtLiekTB9T7BVKnp), [Filharmonia Szczecin](https://open.spotify.com/artist/09vWiQtJO8uV7v6F5FIupy) | [COINCIDENCE](https://open.spotify.com/album/0dEvwkzElOY7uyOS4nAusy) | 2:07 |

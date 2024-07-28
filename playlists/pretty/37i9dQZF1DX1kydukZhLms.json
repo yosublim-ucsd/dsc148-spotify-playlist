@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1377208,
+  "num_followers": 1377310,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
+        "name": "Cross Road",
+        "url": "https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 353026,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
         "name": "Worlds Collide",
         "url": "https://open.spotify.com/album/0rr0bj60VA1iBM0T6s34mL"
       },
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Cross Road",
-        "url": "https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 353026,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/491aVcQHmKwGjVego5VI15"
       },
@@ -1583,6 +1583,22 @@
       "duration_ms": 313533,
       "name": "Last Drop Falls",
       "url": "https://open.spotify.com/track/4bSetRYOPYAMlLc9mgEGr0"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Deadwing",
+        "url": "https://open.spotify.com/album/5FSmyLosroHbPAqF7WX5Na"
+      },
+      "artists": [
+        {
+          "name": "Porcupine Tree",
+          "url": "https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0"
+        }
+      ],
+      "duration_ms": 258586,
+      "name": "Lazarus",
+      "url": "https://open.spotify.com/track/1EL8X3XUO27bksrv9cLvXE"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1631,22 +1647,6 @@
       "duration_ms": 257161,
       "name": "When Love And Hate Collide",
       "url": "https://open.spotify.com/track/1ailMHu2DGaPR8kDSJ0XAE"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
-        "name": "The Best of Bruce Dickinson",
-        "url": "https://open.spotify.com/album/0yPd9nZ543MWHGoGHcFKRR"
-      },
-      "artists": [
-        {
-          "name": "Bruce Dickinson",
-          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
-        }
-      ],
-      "duration_ms": 320106,
-      "name": "Man of Sorrows - 2001 Remaster",
-      "url": "https://open.spotify.com/track/3aKlrWvtDCJ13npobUO5zg"
     }
   ],
   "unique_name": "Heavy Ballads",

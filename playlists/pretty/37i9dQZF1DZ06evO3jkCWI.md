@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 
 ### [This Is Los Invasores De Nuevo León](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3jkCWI)
 
-> This is Los Invasores De Nuevo León\. The essential tracks, all in one playlist.
+> This Is Los Invasores De Nuevo León\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,097 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,132 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 | 49 | [Amor A La Ligera](https://open.spotify.com/track/4jjLfOGnXPza7iXX8TebTn) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Amor A La Ligera](https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm) | 2:24 |
 | 50 | [Me Refiero A Tí](https://open.spotify.com/track/5bbF1SdFGSqK7hKNAunuyc) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [15 Boleros De Oro](https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT) | 3:16 |
 
-Snapshot ID: `ZqLnAAAAAACcZ3Zx7ZrRIttnA8KIOCbB`
+Snapshot ID: `ZqLnAAAAAAAS5ElStc5KbR1eEzZDLNfq`

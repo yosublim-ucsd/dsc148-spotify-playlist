@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWU6Rfto8Ppm.md) - [plain]
 
 > Celebrando los 20 años del Barrio Fino en compañía de Daddy Yankee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,564,134 likes - 200 songs - 12 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,564,609 likes - 200 songs - 12 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 福夢 \(FUMON\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,412 likes - 122 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,409 likes - 122 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

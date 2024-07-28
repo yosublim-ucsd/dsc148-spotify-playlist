@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: july-aug 2024 (previous playlists archived on my profile)",
-  "num_followers": 20661,
+  "num_followers": 20668,
   "original_name": "living alone",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAKwwpbyRrznrWX+M73suF9R61ZXMR+",
+  "snapshot_id": "AAAKxeJv/lmgIw6J8hHYdSpncVNm201c",
   "tracks": [
     {
       "added_at": "2024-07-12 00:10:32",
@@ -459,6 +459,42 @@
       "duration_ms": 244223,
       "name": "Wheeling",
       "url": "https://open.spotify.com/track/2uySYaNa2fZhuUZIlCg6pH"
+    },
+    {
+      "added_at": "2024-07-27 20:41:49",
+      "album": {
+        "name": "Un-American Activities",
+        "url": "https://open.spotify.com/album/6BWJZfps9TMudDT2CL0UhI"
+      },
+      "artists": [
+        {
+          "name": "Molly Nilsson",
+          "url": "https://open.spotify.com/artist/2PDepyCtfybWn5UJv0DmKw"
+        }
+      ],
+      "duration_ms": 160698,
+      "name": "The Beauty of the Duty",
+      "url": "https://open.spotify.com/track/0G7ee8kSG4zjvxLF0BF6eU"
+    },
+    {
+      "added_at": "2024-07-27 21:14:51",
+      "album": {
+        "name": "Gem Lingo (ovr now)",
+        "url": "https://open.spotify.com/album/3r4QpzGNuewu0vLvapRZS7"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        },
+        {
+          "name": "Ruthven",
+          "url": "https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz"
+        }
+      ],
+      "duration_ms": 230253,
+      "name": "Gem Lingo (ovr now)",
+      "url": "https://open.spotify.com/track/6dSqM0tWJPlchpmGrEwC1c"
     }
   ],
   "unique_name": "living alone",

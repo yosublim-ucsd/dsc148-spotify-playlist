@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641: <a href=\"https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy?si=aAWX3SarQA2bwXhy3o_Z4g\"> \u062a\u0627\u0645\u0631 \u062d\u0633\u0646\u064a </a>",
+  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641: <a href=\"https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp?si=DHvMs4YfRhiTs7PEvQCSDQ\"> \u0623\u0645\u064a\u0631 \u0639\u064a\u062f </a>",
   "name": "\u0627\u0644\u062a\u0648\u0628",
   "tracks": [
     {
@@ -508,7 +508,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-28",
       "duration_ms": 166956,
       "name": "Arooh Le Fein",
       "url": "https://open.spotify.com/track/6hoZwWCrJyhIDuoj7RYCFo"
@@ -2674,7 +2674,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-28",
       "duration_ms": 211829,
       "name": "Negm Aali",
       "url": "https://open.spotify.com/track/5sT15kgCYMNdKuRHpPBsOt"
@@ -3362,7 +3362,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-28",
       "duration_ms": 167724,
       "name": "Tenzl Feen",
       "url": "https://open.spotify.com/track/1uhzrj5NCOzhgJAyHtPas7"
@@ -4265,6 +4265,24 @@
     },
     {
       "album": {
+        "name": "\u0628\u0631\u0648\u062f \u0628\u0628\u0631\u0648\u062f",
+        "url": "https://open.spotify.com/album/2NpIPlPZGiQV6t6uf6bSgv"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227027,
+      "name": "\u0628\u0631\u0648\u062f \u0628\u0628\u0631\u0648\u062f",
+      "url": "https://open.spotify.com/track/74slcsn6CwqPaHLEPb6g6R"
+    },
+    {
+      "album": {
         "name": "\u0628\u0637\u0644",
         "url": "https://open.spotify.com/album/49dHOMyPff9KOzBNbslOxX"
       },
@@ -4468,10 +4486,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-28",
       "duration_ms": 198571,
       "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
       "url": "https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e"
+    },
+    {
+      "album": {
+        "name": "\u0643\u0648\u0643\u062a\u064a\u0644 \u063a\u0646\u0627\u0626\u064a \u0644\u0644\u0641\u0646\u0627\u0646 \u062a\u0648\u0648\u0644\u064a\u062a \u062d\u0635\u0631\u064a\u0627\u064b \u0644\u062d\u0628\u0627\u064a\u0628 \u0642\u0644\u0628\u064a",
+        "url": "https://open.spotify.com/album/3DNubUSWkHKBcDMdBtiLHp"
+      },
+      "artists": [
+        {
+          "name": "TUL8TE",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120145,
+      "name": "\u062d\u0628\u064a\u0628\u064a \u0644\u064a\u0647",
+      "url": "https://open.spotify.com/track/3vX1qpjqKTmuESvmvwMBHR"
     },
     {
       "album": {
@@ -4782,7 +4818,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-28",
       "duration_ms": 172363,
       "name": "\u0633\u064a\u0628\u0643 \u0645\u0646 \u0627\u0644\u0644\u064a \u062e\u0644\u0639 - \u0645\u0646 \u0641\u064a\u0644\u0645 \u062d\u0645\u0635 \u0648\u062d\u0644\u0627\u0648\u0629",
       "url": "https://open.spotify.com/track/7ME2ZENU0G5H7IlnPbWvOv"
@@ -4964,6 +5000,24 @@
       "duration_ms": 204970,
       "name": "\u0639\u0644\u0649 \u0648\u0636\u0639\u0646\u0627",
       "url": "https://open.spotify.com/track/4qUXgGI7oKwfCWY8J8jhLU"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0644\u064a \u0628\u0627\u0644\u064a",
+        "url": "https://open.spotify.com/album/2Acmjhosur2I8HWvYMmgPB"
+      },
+      "artists": [
+        {
+          "name": "Ramy Sabry",
+          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206906,
+      "name": "\u0639\u0644\u064a \u0628\u0627\u0644\u064a",
+      "url": "https://open.spotify.com/track/4owd2rdO6oWKdI4lFq9mBz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,753 likes - 273 songs - 14 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,752 likes - 273 songs - 14 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 82 | [Gotta Get Through Another Day](https://open.spotify.com/track/3PxezNLKAA9fwYZzVnf5hW) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:33 |
 | 83 | [On This Side Of Goodbye \- Single Version](https://open.spotify.com/track/1tx5zJ6WPOhsrtqCF36CY5) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [All Time Greats](https://open.spotify.com/album/24CbH0PK4BnVUWP59klvom) | 3:04 |
 | 84 | [Yours Truly](https://open.spotify.com/track/2TFS8koduXCAmOwqdjjJ4A) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [Simply Engelbert \- Classic Love Songs and Ballads](https://open.spotify.com/album/4BiyT51ZLVRucMx9fxJVxU) | 3:38 |
-| 85 | [The First Day In August](https://open.spotify.com/track/075zqvJuvxI0XVKcrosMAr) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:47 |
-| 86 | [Under My Feet](https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Under My Feet](https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o) | 2:54 |
+| 85 | [Under My Feet](https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Under My Feet](https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o) | 2:54 |
+| 86 | [The First Day In August](https://open.spotify.com/track/075zqvJuvxI0XVKcrosMAr) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:47 |
 | 87 | [This Little Girl](https://open.spotify.com/track/6VGqU1LCPFjJ7ZwrV5dsHS) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Donna the Prima Donna](https://open.spotify.com/album/5ZQh54BjXCUK15ziGP1zuX) | 2:34 |
 | 88 | [True Love](https://open.spotify.com/track/49K8v4qRymtDd15Uyg577I) | [Ben King](https://open.spotify.com/artist/3oyChKXh8fpsLj65HfXs8E) | [Save the Last Dance for Me](https://open.spotify.com/album/1aLCACK63j3wSqGr5FvfDu) | 2:15 |
 | 89 | [How Many Tears](https://open.spotify.com/track/5gd2WpEBaSaMAcvSPaIgBj) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [With Strings And Things](https://open.spotify.com/album/0MqJETsHm4n5RPkHwZnroy) | 2:06 |
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 112 | [I Can't Say Goodbye to You](https://open.spotify.com/track/24TtjVPpY6uuWxKKmosG28) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The New Album](https://open.spotify.com/album/7JqDnsWOUOEQ8tnxgxKMvW) | 2:12 |
 | 113 | [I Didn't Have Any Summer Romance](https://open.spotify.com/track/17F1e95eSGGcJq275iMNWQ) | [Simone White](https://open.spotify.com/artist/1qFOfghPhItJzIUt1iD1ty) | [I Am the Man](https://open.spotify.com/album/0bdgA41D4kZaO87Esq5wZU) | 3:26 |
 | 114 | [No One Ever Tells You](https://open.spotify.com/track/1Z4lNPJfSpbqN3V5j7YQEa) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Twist Uptown](https://open.spotify.com/album/1u6OEiAZAyZPCLE9frkKBZ) | 2:19 |
-| 115 | [Walk On In](https://open.spotify.com/track/3LoBQGP7Aq7Pj2y1dNkgsr) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Merry Clayton](https://open.spotify.com/album/7GpmPNM0lOE0i8bCvvTECX) | 2:44 |
-| 116 | [So Goes Love \(Unissued Single\) \- Remastered](https://open.spotify.com/track/5iDDDtMSRepWfHWkej90k3) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [All the Singles](https://open.spotify.com/album/2jZH2KFGsgqfRg1XmJlVUY) | 2:35 |
+| 115 | [So Goes Love \(Unissued Single\) \- Remastered](https://open.spotify.com/track/5iDDDtMSRepWfHWkej90k3) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [All the Singles](https://open.spotify.com/album/2jZH2KFGsgqfRg1XmJlVUY) | 2:35 |
+| 116 | [Walk On In](https://open.spotify.com/track/3LoBQGP7Aq7Pj2y1dNkgsr) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Merry Clayton](https://open.spotify.com/album/7GpmPNM0lOE0i8bCvvTECX) | 2:44 |
 | 117 | [Big Mouth \( Going Through Changes\)](https://open.spotify.com/track/1D4vY3qrFTeYjg8wsErED5) | [TV Themes](https://open.spotify.com/artist/0clhXvKQeY8xOFIXwePnyR) | [Gogglebox \- The 80 Greatest TV Shows Of All Time](https://open.spotify.com/album/0uLk96XBFeFv6h0pnh2mbs) | 3:02 |
 | 118 | [There's A Space Between Us](https://open.spotify.com/track/6AebtnBPxHNDfsPE21Qhxr) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:19 |
 | 119 | [You Go Your Way, I'll Go Mine](https://open.spotify.com/track/3H62Xhas83DoIXeSMqV26y) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 3:32 |
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 272 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 273 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `AbXz5gAAAAAHuDuE0weE2GaHcvedacAm`
+Snapshot ID: `AbX2RgAAAAD5y8WhRyNireggvrNxCgJy`

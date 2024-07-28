@@ -2,7 +2,7 @@
 
 ### [This Is Phil Wickham](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33TpHq)
 
-> This is Phil Wickham\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Phil Wickham\. The essential tracks, all in one playlist.
 
 55 songs - 4 hr 20 min
 

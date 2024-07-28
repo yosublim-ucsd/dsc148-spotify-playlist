@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 
 ### [This Is Offset](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Ilh3G)
 
-> This Is Offset\. Los temas esenciales, todos en una lista.
+> This is Offset\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,354 likes - 51 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,359 likes - 51 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 | 50 | [CODE \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5uVW9FWVaQde0lfF4hYs4C) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [CODE \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/42jB9RVqk28zOVbbKhSMX1) | 3:12 |
 | 51 | [Rich \(feat\. D Block Europe & Offset\)](https://open.spotify.com/track/0YTXcXihG2qpxb3U3LbPfc) | [The Plug](https://open.spotify.com/artist/5r3fI2q1YU3QyVP7oncOQ9), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Plug Talk](https://open.spotify.com/album/77QaRhETtj1oS39f6bbfOa) | 4:05 |
 
-Snapshot ID: `ZqLnAAAAAAAV08Dncw1cv/BhLkLl9/Se`
+Snapshot ID: `ZqLnAAAAAACEUrCtw2Czsj7w81EuaNB9`

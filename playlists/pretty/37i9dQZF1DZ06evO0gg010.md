@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 
 ### [This Is Fuerza Regida](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0gg010)
 
-> This Is Fuerza Regida\. Sus mejores éxitos, todos en una playlist.
+> This is Fuerza Regida\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,060 likes - 51 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,281 likes - 51 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 | 50 | [Tiki Taka Toco](https://open.spotify.com/track/4aDnEQkzc61DwlWTeHQqRr) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [Tiki Taka Toco](https://open.spotify.com/album/3ui3IGS12RkzjSBhG1D3NC) | 2:28 |
 | 51 | [SOFIA](https://open.spotify.com/track/1U40NYEnXxvbwdmDugvgjS) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 2:53 |
 
-Snapshot ID: `ZqLnAAAAAADGH2DXiGfzjQAgIXsRt7F6`
+Snapshot ID: `ZqLnAAAAAAAuFHSjzle035o5btZ6BFq5`

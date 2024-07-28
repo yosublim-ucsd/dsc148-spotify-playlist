@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1l9E1r.md) - [plain]
 
 ### [This Is Hildur Guðnadóttir](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1l9E1r)
 
-> This is Hildur Guðnadóttir\. Wszystkie najważniejsze utwory na jednej playliście.
+> This is Hildur Guðnadóttir\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,947 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,951 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1l9E1r.md) - [plain]
 | 49 | [Moving Isabelle](https://open.spotify.com/track/0EZDYxg1YB9JBAGE3wj60g) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Sicario: Day of the Soldado \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/12QFS9IPnlICbESBw96prr) | 1:08 |
 | 50 | [Heyr Himnasmiður](https://open.spotify.com/track/05CkMXd8poyR5x8hyHGyrY) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [David Wiebe](https://open.spotify.com/artist/64S6C03quUseqyfpkQDw4Z) | [Saman](https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk) | 3:09 |
 
-Snapshot ID: `ZqLnAAAAAAByGfg6CRbyj9pS837hyNNa`
+Snapshot ID: `ZqLnAAAAAAD2UjgY3SPh4xwXKKaiV8vZ`

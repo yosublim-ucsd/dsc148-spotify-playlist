@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNZbJ6TZelCq.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Romania.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,766 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,769 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNZbJ6TZelCq.md) - [plain]
 | 49 | [If We Being Rëal](https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:52 |
 | 50 | [CĂPITAN](https://open.spotify.com/track/00vWmTHP6E63KXqIdbgsm9) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR) | [CĂPITAN](https://open.spotify.com/album/36tJXOX1DLnVvDRoLfcBpM) | 3:29 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

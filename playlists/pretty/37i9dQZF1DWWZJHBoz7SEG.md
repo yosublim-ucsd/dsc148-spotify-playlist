@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Fuer\-za Regida! Puras rolitas frescas para comenzar el finde con el pie derecho, ¡Pero no te enamores! 😮‍💨🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 853,710 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 853,834 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

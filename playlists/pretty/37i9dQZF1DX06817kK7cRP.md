@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,590 likes - 125 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,608 likes - 125 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

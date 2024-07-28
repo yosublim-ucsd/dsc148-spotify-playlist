@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,269 likes - 250 songs - 15 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,323 likes - 250 songs - 15 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 13 | [The Turning Year](https://open.spotify.com/track/53sR7EKIy3Yc2a3xPXMz9h) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Scoring Berlin](https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke) | [The Turning Year](https://open.spotify.com/album/7qIBorzIVw58P2LWsSVqLX) | 2:40 |
 | 14 | [Coalescence](https://open.spotify.com/track/2VILtFKQp13gGUSHGM0INt) | [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP), [Gabe Saltman](https://open.spotify.com/artist/7nkeYcy1PQ0DLtWmmh0Yjh) | [Coalescence](https://open.spotify.com/album/06sSRqpl8c9lp3JHx03i0M) | 2:26 |
 | 15 | [TREE](https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [TREE](https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav) | 4:38 |
-| 16 | [Movement 5 \- Pt\. 2 \- Instrumental](https://open.spotify.com/track/5TglMMqjxSaHE9j4iIoJZt) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Scottish Ensemble](https://open.spotify.com/artist/7ruv7Qzy1XmFJui8t2s4sJ) | [Movement 5 \- Pt\. 2](https://open.spotify.com/album/2jIbt2grWCWpPCgOUwNpeX) | 4:12 |
-| 17 | [Suite in D IV \(Dreamland\)](https://open.spotify.com/track/28sw29g4kMAqnsWHQkqRhZ) | [Martin Bloch](https://open.spotify.com/artist/2WJ5Jh2DxFhkyA3xRoq77z) | [Suite in D IV \(Dreamland\)](https://open.spotify.com/album/58GxfMDdj40e0aqBKEXrQP) | 2:54 |
+| 16 | [Suite in D IV \(Dreamland\)](https://open.spotify.com/track/28sw29g4kMAqnsWHQkqRhZ) | [Martin Bloch](https://open.spotify.com/artist/2WJ5Jh2DxFhkyA3xRoq77z) | [Suite in D IV \(Dreamland\)](https://open.spotify.com/album/58GxfMDdj40e0aqBKEXrQP) | 2:54 |
+| 17 | [Movement 5 \- Pt\. 2 \- Instrumental](https://open.spotify.com/track/5TglMMqjxSaHE9j4iIoJZt) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Scottish Ensemble](https://open.spotify.com/artist/7ruv7Qzy1XmFJui8t2s4sJ) | [Movement 5 \- Pt\. 2](https://open.spotify.com/album/2jIbt2grWCWpPCgOUwNpeX) | 4:12 |
 | 18 | [The Garden](https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH) | [Doug Kaufman](https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ) | [Elva](https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs) | 2:56 |
 | 19 | [Le Jardin de Monsieur Monet](https://open.spotify.com/track/4xqay5NL9jPHSCP2mo3U67) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Le Jardin de Monsieur Monet](https://open.spotify.com/album/6Pjv5GVH24zabVfeIMOetI) | 5:13 |
 | 20 | [Humming Bird Rework](https://open.spotify.com/track/0xTeFwl9WhyJ9grMLB1X8B) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp), [mondëna quartet](https://open.spotify.com/artist/1t66cANdsYEErfgZjzplzo) | [Humming Bird Rework](https://open.spotify.com/album/3KmLGgnFa1fUfudmtrAG3m) | 3:21 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 49 | [Longhope \- Edit](https://open.spotify.com/track/3KewUrX9nBSs6KMtFvw6wq) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Hiroshi Ebina](https://open.spotify.com/artist/6oMHfG0yqLOcbPn4abPFIx), [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [Longhope](https://open.spotify.com/album/4lSb0FHWXuVNF4aQCSJqI0) | 3:31 |
 | 50 | [Timeless](https://open.spotify.com/track/6CWhGUsfC69T6E2IHrpmrO) | [Sisulu](https://open.spotify.com/artist/1RMoei5UVXMLSnenD8PMKC) | [Timeless](https://open.spotify.com/album/2IZYzC0D0efP2obfPhvClq) | 2:17 |
 | 51 | [Leading Somewhere](https://open.spotify.com/track/0oLadn7l2XO7vvZK066MjM) | [Gustaf Ljunggren](https://open.spotify.com/artist/448xgQqrgiEalhGErK14bs), [Skúli Sverrisson](https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh) | [Floreana](https://open.spotify.com/album/6xGQ7fVQqfMCaS4mYVBaTl) | 4:23 |
-| 52 | [Somnia](https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Somnia](https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4) | 3:18 |
-| 53 | [My Friend the Forest](https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Tripping with Nils Frahm](https://open.spotify.com/album/1NbOBXUF862DsBNF5byxzh) | 6:08 |
+| 52 | [My Friend the Forest](https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Tripping with Nils Frahm](https://open.spotify.com/album/1NbOBXUF862DsBNF5byxzh) | 6:08 |
+| 53 | [Somnia](https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Somnia](https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4) | 3:18 |
 | 54 | [For Mark](https://open.spotify.com/track/0lmuyNAxG9YA3LfXftGzPS) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [For Mark](https://open.spotify.com/album/6zhsUXC9QsXZnpAH2uxR3c) | 5:09 |
 | 55 | [Promise Of Sun](https://open.spotify.com/track/3d4uGAoWs2lm9LzLhq2K9n) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Echoes In The Valley](https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS) | 3:00 |
 | 56 | [Always With You](https://open.spotify.com/track/0dw2EEX075EVNNQGyUxdz0) | [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [Diamond Note](https://open.spotify.com/artist/0x4uyhukabmnOqixAWsICd) | [Always With You](https://open.spotify.com/album/6yWYaXO5FfwY1NMjC7bRYI) | 3:36 |

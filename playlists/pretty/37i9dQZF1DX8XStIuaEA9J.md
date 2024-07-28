@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: LANA & LEX
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,238 likes - 59 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,234 likes - 59 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

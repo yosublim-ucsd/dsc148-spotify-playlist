@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ejj0EkURtP.md) - [plain]
 
 > The biggest songs of the 2010s\. Cover: Kesha
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,084,301 likes - 150 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,084,466 likes - 150 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

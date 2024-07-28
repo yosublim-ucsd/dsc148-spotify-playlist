@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 
 ### [This Is JJ Hairston](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1D0sR2)
 
-> This Is JJ Hairston\. Kaikki olennaiset kappaleet yhdessä soittolistassa.
+> This is JJ Hairston\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 2,666 likes - 50 songs - 5 hr 49 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 | 49 | [The Blood](https://open.spotify.com/track/3qVlrzKzT5q3V8eQrxuSee) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [LaShun Pace](https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln) | [After This](https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g) | 6:12 |
 | 50 | [Psalms 100 \(feat\. Greg Kirkland, Jr\. & Adrienne Lewis\-Freeman\)](https://open.spotify.com/track/54XPkGglHnDcW12yQoKSa3) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Greg Kirkland, Jr.](https://open.spotify.com/artist/2aPBhu0KFUmoRzz5ENVHrs), [Adrianne Lewis\-Freeman](https://open.spotify.com/artist/06BrEZsvWk0Be9gAccriY4) | [Believe Again, Vol\. II](https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL) | 5:18 |
 
-Snapshot ID: `ZqLnAAAAAAD9/fXWswXuMRNRefba+8As`
+Snapshot ID: `ZqLnAAAAAAAv9YqiZLy28bjv4gS2fQpK`

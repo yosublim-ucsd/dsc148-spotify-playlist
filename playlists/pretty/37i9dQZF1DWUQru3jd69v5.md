@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Latrelle in cover, aggiornata ogni venerdì
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,754 likes - 65 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,748 likes - 65 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

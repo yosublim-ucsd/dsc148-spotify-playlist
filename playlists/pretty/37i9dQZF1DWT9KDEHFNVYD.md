@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations\. CAN on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,983 likes - 100 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,986 likes - 100 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 95 | [Roll Call](https://open.spotify.com/track/6Z1DuLOqfcmIh9qIz5n1OG) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [Lost Worker Bee \- EP](https://open.spotify.com/album/3NfECFAHwzcFlUQJJxh9Ko) | 6:27 |
 | 96 | [Futsu Ni Ikirenai](https://open.spotify.com/track/7w6PcnUzc5cRadoO4DJa1e) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [Minami Deutsch](https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd) | 9:06 |
 | 97 | [E\-Go](https://open.spotify.com/track/0IEqm9k648GiajWFUvsgLz) | [Camera](https://open.spotify.com/artist/09HZcXk3Gqd4JPm4YJKGgs) | [Radiate!](https://open.spotify.com/album/3rTpM9FRmueqSahefRtbkN) | 6:54 |
-| 98 | [Be Sure To Loop](https://open.spotify.com/track/32ymOnGRWBhyK3AftNiyTD) | [OOIOO](https://open.spotify.com/artist/1XuQeR4sDsrX9gO2gtRQwe) | [Feather Float](https://open.spotify.com/album/0y7rybwqnKnL1VJMlf1sFi) | 7:45 |
+| 98 | [Edge Of Wonder \- Andrew Weatherall remix](https://open.spotify.com/track/6C0R9trrtc0H5qhfuaF1NU) | [Silver Apples](https://open.spotify.com/artist/6dP7OHshDvGHaNNSwunol4), [Andrew Weatherall](https://open.spotify.com/artist/5J85JTgIYIUP276hmuIozn) | [Oscillations 2019](https://open.spotify.com/album/6qqBlywNFvHyzNR1nDfHLU) | 9:03 |
 | 99 | [Die lange Gerade](https://open.spotify.com/track/1yrbDZHMtkAi88vp7m5UXU) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [The Secret Cosmic Music of the East German Olympic Program 1972\-83, Vol\. 1](https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ) | 13:07 |
-| 100 | [Edge Of Wonder \- Andrew Weatherall remix](https://open.spotify.com/track/6C0R9trrtc0H5qhfuaF1NU) | [Silver Apples](https://open.spotify.com/artist/6dP7OHshDvGHaNNSwunol4), [Andrew Weatherall](https://open.spotify.com/artist/5J85JTgIYIUP276hmuIozn) | [Oscillations 2019](https://open.spotify.com/album/6qqBlywNFvHyzNR1nDfHLU) | 9:03 |
+| 100 | [Be Sure To Loop](https://open.spotify.com/track/32ymOnGRWBhyK3AftNiyTD) | [OOIOO](https://open.spotify.com/artist/1XuQeR4sDsrX9gO2gtRQwe) | [Feather Float](https://open.spotify.com/album/0y7rybwqnKnL1VJMlf1sFi) | 7:45 |
 
 Snapshot ID: `Zoy7KAAAAAAVVdck9aZLDL3JVgt8vvj9`

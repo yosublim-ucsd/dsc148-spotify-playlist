@@ -4,7 +4,7 @@
 
 > It's just us.
 
-269 songs - 17 hr 12 min
+270 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Don't Move](https://open.spotify.com/track/1BeNZQORyV0jEF2toAmrsA) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Nightlife](https://open.spotify.com/album/1O2FPFDjmyEOSTfqNuuuNG) | 4:18 | 2023-04-17 | 2024-04-19 |
 | [Don't Move](https://open.spotify.com/track/3p0rvHL2zfHAlXAgnHC4GI) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Nightlife](https://open.spotify.com/album/4XvCeI5IFiB569sJwbZxB9) | 4:18 | 2022-05-27 | 2023-04-29 |
 | [Dream](https://open.spotify.com/track/25DpvTS4zsmLiVLx8Zv3N0) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors](https://open.spotify.com/album/0gmsXcmrcnxdZBrD5EyJEL) | 4:18 | 2019-05-26\* |  |
-| [Dreaming My Dreams](https://open.spotify.com/track/45ipml9tB0PVrLFAJegcWE) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue](https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp) | 3:36 | 2019-05-26\* |  |
+| [Dreaming My Dreams](https://open.spotify.com/track/45ipml9tB0PVrLFAJegcWE) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue](https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp) | 3:36 | 2019-05-26\* | 2024-07-28 |
 | [Dreaming My Dreams](https://open.spotify.com/track/4UTl2IO4zwZkU4KXbShgUg) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 3:37 | 2022-05-27 | 2024-04-19 |
 | [Dreaming My Dreams](https://open.spotify.com/track/2fO82ij62SsFe8ExYHlYIJ) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(Remastered 2020\)](https://open.spotify.com/album/7trDIqbox2Fwr6ooFZoATa) | 3:38 | 2022-08-26 | 2022-11-14 |
 | [Echo](https://open.spotify.com/track/3ypXaNibspfxvUIKpzUkfz) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 3:34 | 2019-05-26\* |  |
@@ -76,6 +76,7 @@
 | [Float](https://open.spotify.com/track/5FytD7jX6YRc7faUkEsTyN) | [Pacific Air](https://open.spotify.com/artist/3LedjkHgJTjLJfDTM5YgmD) | [Stop Talking](https://open.spotify.com/album/410taI0aOz4bpwhWn43Ku9) | 3:18 | 2022-08-26 | 2022-11-13 |
 | [Float](https://open.spotify.com/track/7E26JjSamIPCLHoCWhAtB7) | [Pacific Air](https://open.spotify.com/artist/3LedjkHgJTjLJfDTM5YgmD) | [Float](https://open.spotify.com/album/5kkAGlv0vNQvtPvchgYdCa) | 3:19 | 2019-05-26\* | 2022-07-29 |
 | [Flowers in Your Hair](https://open.spotify.com/track/3Hvg5tRKsQlX25wYwgMF9p) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 1:49 | 2022-05-27 | 2024-04-19 |
+| [Flowers in Your Hair](https://open.spotify.com/track/4BDpHt1JrVQzaU7E6RBbXh) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/155N1gV0cIFYaLiy3I5d83) | 1:49 | 2024-07-02 |  |
 | [Flowers in Your Hair](https://open.spotify.com/track/0Qi29hMhf8tIzDpa2BH9MV) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers \(Deluxe Edition\)](https://open.spotify.com/album/31rem78oWvclOVx1KXBAuq) | 1:50 | 2022-08-26 | 2022-11-13 |
 | [Flowers In Your Hair](https://open.spotify.com/track/3pDfeM76B3GxZqGCyAL1X8) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/3q66dhU09HpzTl1bxqsVJ5) | 1:50 | 2019-05-26\* | 2022-07-29 |
 | [For Me This Is Heaven](https://open.spotify.com/track/64Kk49W8HFh22diWSBVxCr) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 4:06 | 2019-05-26\* | 2020-02-13 |
@@ -143,7 +144,7 @@
 | [Julia](https://open.spotify.com/track/01OOLvNYxeSttThtUj8Mor) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [Leave What's Lost Behind](https://open.spotify.com/album/7aYN3ImZcHkloKR4LGvHcV) | 3:25 | 2020-02-13 |  |
 | [Just Say When \(Version 2.0\)](https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Just Say When \(Version 2.0\)](https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC) | 3:44 | 2019-05-26\* |  |
 | [Just Say When \- Version 2.0](https://open.spotify.com/track/1D1yuEDp0EqvX1yFxWqeuS) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Just Say When \(Version 2.0\)](https://open.spotify.com/album/7LkSukso0Smyx9sMGl8R2d) | 3:44 | 2023-07-28 | 2024-04-19 |
-| [Kiss City](https://open.spotify.com/track/3BnAP43rJ04D2iAgTon1ji) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 2:23 | 2023-07-28 | 2024-07-27 |
+| [Kiss City](https://open.spotify.com/track/3BnAP43rJ04D2iAgTon1ji) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 2:23 | 2023-07-28 |  |
 | [Kiss City](https://open.spotify.com/track/7f1mKhZ8s6di51f76Qf03E) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 2:23 | 2023-07-28 | 2024-04-19 |
 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 | 2024-07-02 |  |
 | [Komorebi](https://open.spotify.com/track/2ztHL4aV76oeCe6DDWpky3) | [Craft Spells](https://open.spotify.com/artist/16lg8y62dC3J6ok1pNAbFJ) | [Nausea](https://open.spotify.com/album/1ct8dPVmXPOQiyvz8uFUqE) | 4:23 | 2019-05-26\* | 2022-07-29 |
@@ -275,7 +276,7 @@
 | [You & Me \- Flume Remix](https://open.spotify.com/track/4eTVpfb9fISH1FV4APpX2T) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1) | [Flume: Deluxe Edition](https://open.spotify.com/album/5vaoiQeWdC1ssSaM2WjcjZ) | 4:42 | 2019-05-26\* | 2020-02-13 |
 | [You Get Me So High](https://open.spotify.com/track/7zwn1eykZtZ5LODrf7c0tS) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 2:33 | 2022-05-27 | 2024-01-30 |
 | [You're Somebody Else](https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [You're Somebody Else](https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC) | 3:38 | 2019-05-26\* |  |
-| [Youuu](https://open.spotify.com/track/0xORFaXxl07BtES8IAJ7OD) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Youuu](https://open.spotify.com/album/59F5U8Tft9i1RhW3s9Yb8Z) | 3:55 | 2020-02-13 |  |
+| [Youuu](https://open.spotify.com/track/0xORFaXxl07BtES8IAJ7OD) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Youuu](https://open.spotify.com/album/59F5U8Tft9i1RhW3s9Yb8Z) | 3:55 | 2020-02-13 | 2024-07-28 |
 | [Youuu](https://open.spotify.com/track/1JsVSz41mZAl02GXUApmGp) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Dreamland](https://open.spotify.com/album/1zXLcR0hdNeg8YajPkNCqB) | 3:55 | 2022-11-11 | 2024-04-19 |
 
 \*This playlist was first scraped on 2019-05-26. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,519 likes - 150 songs - 12 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,529 likes - 150 songs - 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

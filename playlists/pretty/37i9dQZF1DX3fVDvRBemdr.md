@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollandse hits\. Cover: Gerard Palts & Trafassi
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,517 likes - 78 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,537 likes - 78 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

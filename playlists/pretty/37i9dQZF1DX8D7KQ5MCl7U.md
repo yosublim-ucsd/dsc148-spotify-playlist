@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 
 > Mehmaan by Zeb Bangash, Noorima Rehan, Nizam Torwal Out Now\. All Coke Studio Pakistan tracks in one place\. Season 15 updated live.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,732 likes - 150 songs - 15 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,770 likes - 150 songs - 15 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

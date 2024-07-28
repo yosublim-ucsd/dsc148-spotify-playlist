@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 
 > Para ahogar las penas en el fondo de una botella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,572 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,589 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 97 | [Usted No Me Olvida](https://open.spotify.com/track/6adK8xCmHfwko5N1FEDqoT) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [Usted No Me Olvida](https://open.spotify.com/album/3hwujUBUE4JRL4E7SXoJPY) | 3:13 |
 | 98 | [Aventurero](https://open.spotify.com/track/49dwc91esnpPYpVNPS01bX) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mi Promesa](https://open.spotify.com/album/3IJDtKfCEZcMgDJePCiXFa) | 3:10 |
 | 99 | [Tu \- Live](https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 4:06 |
-| 100 | [Sobreviviré](https://open.spotify.com/track/7w1oxfGb7RuXJUeo7BXIeP) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [El Rey del Despecho \- Internacional](https://open.spotify.com/album/1Boj3OklpAJEVqarl7EVnw) | 3:44 |
+| 100 | [Las Locuras Mías](https://open.spotify.com/track/0U5xDCt05URDZj92LFx0M1) | [Omar Chaparro](https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Las Locuras Mías](https://open.spotify.com/album/53j31ilieZGhnqgWzJW17G) | 3:44 |
 
 Snapshot ID: `Zo859gAAAAAJGOGJFBei25C0dAMgOLtd`

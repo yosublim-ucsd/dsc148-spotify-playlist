@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,437 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,434 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 92 | [Noël brille encore](https://open.spotify.com/track/1ebKEop7f6MPvqAhsw8zOk) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Noël brille encore](https://open.spotify.com/album/170MmoysX6VOcPbxvQGS5A) | 3:26 |
 | 93 | [Christmas Kisses](https://open.spotify.com/track/2lcchJGDfGrzWAOlbxzulz) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Christmas Kisses](https://open.spotify.com/album/16QyojtQvepl4lllVn5r6Z) | 3:27 |
 | 94 | [Baby It's Cold Outside](https://open.spotify.com/track/2geS45BIgEJ8JTU1qrWG1F) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi), [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [Baby It's Cold Outside](https://open.spotify.com/album/0RXHs2gYhQUTaA6x7RIWGJ) | 2:37 |
-| 95 | [La nuit de Noël](https://open.spotify.com/track/5nMtJWNUVjVqI4IgMzS7Ja) | [Sally Folk](https://open.spotify.com/artist/3nYYNAjiUnXUKQZ5qrcrrr) | [La nuit de Noël](https://open.spotify.com/album/2OsOErxzgnuqi0r2K9YuxO) | 3:10 |
-| 96 | [Bonjour, Noël!](https://open.spotify.com/track/4LkwLFS4dwvFxU06IUFMbY) | [Patrick Norman](https://open.spotify.com/artist/3eGAOzOuxjhxwi9MeQ7knd) | [Noël sans faim](https://open.spotify.com/album/3aoqwVv7tuZpUlrvo1oZ5b) | 3:26 |
+| 95 | [Bonjour, Noël!](https://open.spotify.com/track/4LkwLFS4dwvFxU06IUFMbY) | [Patrick Norman](https://open.spotify.com/artist/3eGAOzOuxjhxwi9MeQ7knd) | [Noël sans faim](https://open.spotify.com/album/3aoqwVv7tuZpUlrvo1oZ5b) | 3:26 |
+| 96 | [La nuit de Noël](https://open.spotify.com/track/5nMtJWNUVjVqI4IgMzS7Ja) | [Sally Folk](https://open.spotify.com/artist/3nYYNAjiUnXUKQZ5qrcrrr) | [La nuit de Noël](https://open.spotify.com/album/2OsOErxzgnuqi0r2K9YuxO) | 3:10 |
 | 97 | [L'oiseau rare](https://open.spotify.com/track/20p1ws0S4EYOSZ06RnM8sU) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 4:19 |
 | 98 | [Christmas Ain't Enough](https://open.spotify.com/track/6VxjrRPMV0OUXIsKatkusi) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [Christmas Ain't Enough](https://open.spotify.com/album/2NLwE0NYAQgZmuNKC179fh) | 4:12 |
 | 99 | [Le ciel était blanc](https://open.spotify.com/track/7gbD4p5u9NXeJWX919ZZOZ) | [Mirabelle](https://open.spotify.com/artist/7ccDEQF3klS28iA5TI3b6m) | [Le ciel était blanc / Ribbons](https://open.spotify.com/album/4eAw0GsaNZm3bGfgUUvzi1) | 4:26 |

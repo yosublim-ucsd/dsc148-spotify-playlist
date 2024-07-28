@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,742 likes - 90 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,752 likes - 90 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 82 | [Acordeona No Llores](https://open.spotify.com/track/3wRoOAl3kmaJuaKAPHkV7t) | [La Pilarcita](https://open.spotify.com/artist/0GXO5I9mqQqReUcDWHAmwX), [Miguel Arce y La Yunta del Chamamé](https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM) | [12 Años Con el Chamamé](https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV) | 3:11 |
 | 83 | [Camino a las cuchillas](https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT) | [Los hermanos Cena](https://open.spotify.com/artist/24QlAxZc1ITOKpqu42UIgj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:50 |
 | 84 | [Temple guarani](https://open.spotify.com/track/2QqUW53IpfU3cpLqZ2dW2R) | [Juancito el Peregrino](https://open.spotify.com/artist/2Tx1vMzCcO0Ev2uDgMksXj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:28 |
-| 85 | [General Madariaga](https://open.spotify.com/track/5YSJt24d5CrUynnqRcEXwT) | [Litoral Tagüe](https://open.spotify.com/artist/0odFequN8vGiLfovpuY8bE) | [Andando](https://open.spotify.com/album/415D1RKuEh7AMwBSHPQsZQ) | 3:09 |
-| 86 | [A Chamamé, Lazo y Rebenque / el Quincho de la Historia \- Salud Apadrinador](https://open.spotify.com/track/7C3UsYAWwZ2Ijg2DUj6qYL) | [Marcelo Vera y sus Chamameceros](https://open.spotify.com/artist/2SIhciEoKQ94mNxTMjgtrL) | [A Chamamé, Lazo y Rebenque](https://open.spotify.com/album/40jDtqFvgrikiG9vj3gddX) | 6:10 |
+| 85 | [A Chamamé, Lazo y Rebenque / el Quincho de la Historia \- Salud Apadrinador](https://open.spotify.com/track/7C3UsYAWwZ2Ijg2DUj6qYL) | [Marcelo Vera y sus Chamameceros](https://open.spotify.com/artist/2SIhciEoKQ94mNxTMjgtrL) | [A Chamamé, Lazo y Rebenque](https://open.spotify.com/album/40jDtqFvgrikiG9vj3gddX) | 6:10 |
+| 86 | [General Madariaga](https://open.spotify.com/track/5YSJt24d5CrUynnqRcEXwT) | [Litoral Tagüe](https://open.spotify.com/artist/0odFequN8vGiLfovpuY8bE) | [Andando](https://open.spotify.com/album/415D1RKuEh7AMwBSHPQsZQ) | 3:09 |
 | 87 | [Jineteando](https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl) | [Fito Ledesma](https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:00 |
 | 88 | [La Ofelia](https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM) | [Abelardo Dimotta](https://open.spotify.com/artist/3TYc7ZGC0521ErIVHq6Vzm) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:38 |
 | 89 | [Palomita Mensajera](https://open.spotify.com/track/7hoTIUdGyOfdGrSdbIJ2DU) | [Duo Cejas Solis](https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1) | [Dúo Cejas Solís](https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS) | 2:02 |

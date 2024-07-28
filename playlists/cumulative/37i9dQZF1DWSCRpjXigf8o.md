@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-556 songs - 1 day 9 hr 49 min
+557 songs - 1 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Gold](https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Gold](https://open.spotify.com/album/02OvGMtilHmYxr56GTph7M) | 3:12 | 2023-05-25 | 2023-08-02 |
 | [Goodbye Evergreen](https://open.spotify.com/track/2GEs9D56FRHqUAEwvlvBpw) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 3:35 | 2023-10-17 | 2024-01-12 |
 | [grace](https://open.spotify.com/track/4tIvs7L5ND34rMCCfMuKUQ) | [Nezumi Coo](https://open.spotify.com/artist/485gYZbLuEOqVA4QqYsXjs) | [grace](https://open.spotify.com/album/5xy29po3H6R9PgsIfznkl3) | 3:03 | 2022-12-06 | 2023-02-10 |
+| [Green & Gold](https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK) | 4:38 | 2024-07-12 |  |
 | [growing pains](https://open.spotify.com/track/7BOoSqdeANMIO1xwHpQJ89) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [spark\_\_space](https://open.spotify.com/album/6zHZnhADGVRQigmy7NP4mS) | 3:31 | 2023-08-24 | 2023-11-03 |
 | [Guitar](https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Guitar](https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc) | 3:02 | 2023-07-13 | 2023-12-20 |
 | [Hallway Weather](https://open.spotify.com/track/0XYC5esjcwkqAYVtPvEUST) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Hallway Weather](https://open.spotify.com/album/2SBsj6Pk4ZCY5lmsWDjjvi) | 3:53 | 2023-04-20 | 2023-05-31 |
@@ -383,7 +384,7 @@
 | [Starving](https://open.spotify.com/track/4Ce37cRWvM1vIGGynKcs22) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Starving](https://open.spotify.com/album/18pR217SWwBjODSRWFBw0I) | 3:01 | 2022-12-15 | 2023-04-09 |
 | [Stateless feat\. YonYon](https://open.spotify.com/track/2aaGksOvk3MqhlFvhnPVif) | [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Stateless feat\. YonYon](https://open.spotify.com/album/0HmxEwYS2irKltYO87x0F2) | 3:31 | 2024-01-09 | 2024-07-13 |
 | [Stay Anything](https://open.spotify.com/track/0XC3NNlml0mClzs23YtBiL) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Stay Anything](https://open.spotify.com/album/2ROnH7L5WNEBQdPn6q0vxA) | 3:28 | 2023-03-16 | 2023-03-25 |
-| [stick of gum](https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [stick of gum](https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS) | 2:28 | 2024-06-02 |  |
+| [stick of gum](https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [stick of gum](https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS) | 2:28 | 2024-06-02 | 2024-07-28 |
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2024-05-24 |  |
 | [Still Falling For You \- From "Bridget Jones's Baby"](https://open.spotify.com/track/3odrUVQ9tvRpkC9II2oWzx) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Still Falling For You \(From "Bridget Jones's Baby" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6YIaqFvhOWma5gbjcB18Nu) | 4:00 | 2022-12-15 | 2024-04-19 |
 | [Stray cat](https://open.spotify.com/track/6bYR2lMuyD0HUkgXo03yLy) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Stray cat](https://open.spotify.com/album/7K1R46LGMuh0Vr7XBX35iD) | 2:35 | 2022-10-20 | 2022-11-09 |

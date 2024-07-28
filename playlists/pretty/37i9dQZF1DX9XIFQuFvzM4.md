@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 
 > Feel good with this positively timeless playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,629,445 likes - 150 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,629,499 likes - 150 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,18 +145,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 | 135 | [My Guy](https://open.spotify.com/track/7rUPIW0pQoshbOtysdlWX2) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [An American Love Story](https://open.spotify.com/album/0P2UzaCywB5aWhIplMUryK) | 2:52 |
 | 136 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y) | 4:03 |
 | 137 | [My Girl](https://open.spotify.com/track/6jWkZvd1URGktyTTwcpPpB) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/7C4vMPQR8KcbZv4e2ZI0lc) | 2:45 |
-| 138 | [Sweet Soul Music](https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Rhino Hi\-Five: Arthur Conley](https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT) | 2:21 |
+| 138 | [Ain't No Mountain High Enough \- Stereo Version](https://open.spotify.com/track/28wGX1hoLCRbBZbEqITvE3) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [The Very Best Of Marvin Gaye](https://open.spotify.com/album/113AzyLAbshZITpkRK4Gud) | 2:26 |
 | 139 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/2jg4Yc8071puvDRYi22B3a) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Number 1's](https://open.spotify.com/album/5x7vXXWapy8cUmdSuwpUy1) | 2:38 |
 | 140 | [Funky Music \(Is A Part Of Me\)](https://open.spotify.com/track/4ZC6YjPsP4JSkGFOcdrimb) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Luther](https://open.spotify.com/artist/0LK2gak2mwCnKaINYPl8iM) | [Funky Music \(Is A Part Of Me\)](https://open.spotify.com/album/3qM618ubqSqUwbD1lYCWje) | 5:29 |
-| 141 | [I Heard It Through The Grapevine](https://open.spotify.com/track/27m1soUndRthrAA1ediOXn) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [I Heard It Through The Grapevine / In The Groove \(Stereo\)](https://open.spotify.com/album/1jcnZvZWvAGzNyQ7GNVy8X) | 3:15 |
-| 142 | [Feeling Good](https://open.spotify.com/track/61S0mEfdRtJ62Fc7fPqx0U) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/13jolTb1DQl8IVPczYtQJ3) | 2:54 |
-| 143 | [Coming Home](https://open.spotify.com/track/5EA06TsQmqmQXZiEhr1AaM) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home](https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg) | 3:26 |
+| 141 | [Sweet Soul Music](https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Rhino Hi\-Five: Arthur Conley](https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT) | 2:21 |
+| 142 | [Let's Stay Together](https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi) | 3:19 |
+| 143 | [Feeling Good](https://open.spotify.com/track/61S0mEfdRtJ62Fc7fPqx0U) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/13jolTb1DQl8IVPczYtQJ3) | 2:54 |
 | 144 | [Sir Duke](https://open.spotify.com/track/4RQgqR09VmHn345vRhKQ6T) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e) | 3:54 |
-| 145 | [Sure Don't Miss You](https://open.spotify.com/track/4k6WZXbHUFEZR02X9FhOuT) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI) | 2:54 |
-| 146 | [Build Me Up Buttercup](https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Build Me Up Buttercup](https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x) | 2:58 |
-| 147 | [Ain't No Mountain High Enough \- Stereo Version](https://open.spotify.com/track/28wGX1hoLCRbBZbEqITvE3) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [The Very Best Of Marvin Gaye](https://open.spotify.com/album/113AzyLAbshZITpkRK4Gud) | 2:26 |
-| 148 | [Let's Stay Together](https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi) | 3:19 |
-| 149 | [Hold On](https://open.spotify.com/track/3GrTxDPEBPyofDy06rO9mj) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Perfect Union](https://open.spotify.com/album/1n1Ee7s4FUb8wTzT6Cy0eR) | 3:35 |
-| 150 | [Call Me](https://open.spotify.com/track/0W5qBuHbbBfCzszFxrQWMc) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half the City](https://open.spotify.com/album/6s7QZPmc8m8s2TJGg1cyXQ) | 2:51 |
+| 145 | [Coming Home](https://open.spotify.com/track/5EA06TsQmqmQXZiEhr1AaM) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home](https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg) | 3:26 |
+| 146 | [Sure Don't Miss You](https://open.spotify.com/track/4k6WZXbHUFEZR02X9FhOuT) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI) | 2:54 |
+| 147 | [I Heard It Through The Grapevine](https://open.spotify.com/track/27m1soUndRthrAA1ediOXn) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [I Heard It Through The Grapevine / In The Groove \(Stereo\)](https://open.spotify.com/album/1jcnZvZWvAGzNyQ7GNVy8X) | 3:15 |
+| 148 | [Build Me Up Buttercup](https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Build Me Up Buttercup](https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x) | 2:58 |
+| 149 | [Call Me](https://open.spotify.com/track/0W5qBuHbbBfCzszFxrQWMc) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half the City](https://open.spotify.com/album/6s7QZPmc8m8s2TJGg1cyXQ) | 2:51 |
+| 150 | [Hold On](https://open.spotify.com/track/3GrTxDPEBPyofDy06rO9mj) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Perfect Union](https://open.spotify.com/album/1n1Ee7s4FUb8wTzT6Cy0eR) | 3:35 |
 
 Snapshot ID: `Zow3pAAAAACAP/5oXjpqFu+162YDZaRR`

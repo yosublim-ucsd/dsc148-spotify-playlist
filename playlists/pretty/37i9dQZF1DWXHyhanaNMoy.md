@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Summer motion en good vibes\. Cover: Qlas, Dior & Leblanco
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,323 likes - 80 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,340 likes - 80 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

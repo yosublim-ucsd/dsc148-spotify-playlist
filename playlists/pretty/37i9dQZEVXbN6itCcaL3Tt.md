@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbN6itCcaL3Tt.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Poland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,558 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,559 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbN6itCcaL3Tt.md) - [plain]
 | 49 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 |
 | 50 | [Wolne duchy](https://open.spotify.com/track/3eNAqHexMFGCvtzaMwkjEH) | [Męskie Granie Orkiestra](https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG), [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X) | [Wolne duchy \(feat\. Daria Zawiałow, Mrozu & Kacperczyk\)](https://open.spotify.com/album/3TNtZ6k211KiaNhldNtGie) | 3:05 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

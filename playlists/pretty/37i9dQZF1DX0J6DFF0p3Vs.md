@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J6DFF0p3Vs.md) - [plain]
 
 > in a dim, dusty library, reading your novel, and thinking of that special someone
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,001 likes - 85 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,042 likes - 85 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

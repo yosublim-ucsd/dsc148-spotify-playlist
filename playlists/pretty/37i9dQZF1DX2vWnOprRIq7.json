@@ -1,6 +1,6 @@
 {
   "description": "El lado electr\u00f3nico del indie latino, featuring Peces Raros.",
-  "num_followers": 18855,
+  "num_followers": 18865,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
+        "name": "Consenso",
+        "url": "https://open.spotify.com/album/4T60wxy6eR4IhvCX30lu6j"
+      },
+      "artists": [
+        {
+          "name": "Colayuta",
+          "url": "https://open.spotify.com/artist/7FayVmhZEu2ewzGQdIH0yt"
+        }
+      ],
+      "duration_ms": 219895,
+      "name": "Consenso",
+      "url": "https://open.spotify.com/track/1DE9EKIIPydoe64TLzWvKV"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
         "name": "\u00a1Tierra a la Vista!",
         "url": "https://open.spotify.com/album/0OSJkds9VzdHHAZB3nI8ca"
       },
@@ -987,18 +1003,18 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Consenso",
-        "url": "https://open.spotify.com/album/4T60wxy6eR4IhvCX30lu6j"
+        "name": "Pasar\u00e1",
+        "url": "https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC"
       },
       "artists": [
         {
-          "name": "Colayuta",
-          "url": "https://open.spotify.com/artist/7FayVmhZEu2ewzGQdIH0yt"
+          "name": "Ino Guridi",
+          "url": "https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7"
         }
       ],
-      "duration_ms": 219895,
-      "name": "Consenso",
-      "url": "https://open.spotify.com/track/1DE9EKIIPydoe64TLzWvKV"
+      "duration_ms": 214989,
+      "name": "D\u00edas",
+      "url": "https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1019,22 +1035,6 @@
       "duration_ms": 171162,
       "name": "Tan besh",
       "url": "https://open.spotify.com/track/7jQIaZaNOucdWwqgbaaaCp"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
-        "name": "Pasar\u00e1",
-        "url": "https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC"
-      },
-      "artists": [
-        {
-          "name": "Ino Guridi",
-          "url": "https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7"
-        }
-      ],
-      "duration_ms": 214989,
-      "name": "D\u00edas",
-      "url": "https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "El \u00daltimo Romance",
-        "url": "https://open.spotify.com/album/0amUkicRgz6q05yEzqDB4S"
-      },
-      "artists": [
-        {
-          "name": "Vita Set",
-          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
-        }
-      ],
-      "duration_ms": 302750,
-      "name": "El \u00daltimo Romance",
-      "url": "https://open.spotify.com/track/3lHNEKAlUf8Jh3UTkMQCr6"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "BERLIN",
         "url": "https://open.spotify.com/album/49Hpo8cIUT5LxLV9w089Su"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 313608,
       "name": "No Ves Tal Vez - Evlay Remix",
       "url": "https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "El \u00daltimo Romance",
+        "url": "https://open.spotify.com/album/0amUkicRgz6q05yEzqDB4S"
+      },
+      "artists": [
+        {
+          "name": "Vita Set",
+          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
+        }
+      ],
+      "duration_ms": 302750,
+      "name": "El \u00daltimo Romance",
+      "url": "https://open.spotify.com/track/3lHNEKAlUf8Jh3UTkMQCr6"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Ciudad de Cristal",
-        "url": "https://open.spotify.com/album/4wZ6wu7JI91WBBWTw6hXDz"
-      },
-      "artists": [
-        {
-          "name": "Juan Baro",
-          "url": "https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI"
-        }
-      ],
-      "duration_ms": 243125,
-      "name": "Ciudad de Cristal",
-      "url": "https://open.spotify.com/track/29NkzAxOEY1BUU2HdWSb2V"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "Fuerte",
         "url": "https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 229454,
       "name": "Fuerte",
       "url": "https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "Ciudad de Cristal",
+        "url": "https://open.spotify.com/album/4wZ6wu7JI91WBBWTw6hXDz"
+      },
+      "artists": [
+        {
+          "name": "Juan Baro",
+          "url": "https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI"
+        }
+      ],
+      "duration_ms": 243125,
+      "name": "Ciudad de Cristal",
+      "url": "https://open.spotify.com/track/29NkzAxOEY1BUU2HdWSb2V"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
+        "name": "Carmes\u00ed",
+        "url": "https://open.spotify.com/album/79Lk7RVCEpU0PJXzp5A0Iz"
+      },
+      "artists": [
+        {
+          "name": "MARTE",
+          "url": "https://open.spotify.com/artist/18ZiM1zKj24fJxeFM4UDlg"
+        }
+      ],
+      "duration_ms": 254583,
+      "name": "Carmes\u00ed",
+      "url": "https://open.spotify.com/track/1LdKISORlAZuiuoMxW91FL"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
         "name": "Pervertida",
         "url": "https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 149538,
       "name": "Pervertida",
       "url": "https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
-        "name": "Carmes\u00ed",
-        "url": "https://open.spotify.com/album/79Lk7RVCEpU0PJXzp5A0Iz"
-      },
-      "artists": [
-        {
-          "name": "MARTE",
-          "url": "https://open.spotify.com/artist/18ZiM1zKj24fJxeFM4UDlg"
-        }
-      ],
-      "duration_ms": 254583,
-      "name": "Carmes\u00ed",
-      "url": "https://open.spotify.com/track/1LdKISORlAZuiuoMxW91FL"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Morbo",
-        "url": "https://open.spotify.com/album/7rbqT0H7tF0OxHZsRMasoD"
-      },
-      "artists": [
-        {
-          "name": "Carolo",
-          "url": "https://open.spotify.com/artist/4O2nbTAh2HvnV1CWoD8Uvh"
-        }
-      ],
-      "duration_ms": 223789,
-      "name": "Morbo",
-      "url": "https://open.spotify.com/track/3ERdjZpINiyIusmGukbXyP"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "Salto al Alba",
         "url": "https://open.spotify.com/album/0znSItsZWQGn9mQG73lFSr"
       },
@@ -1819,6 +1803,26 @@
       "duration_ms": 247149,
       "name": "Tiene Sentido",
       "url": "https://open.spotify.com/track/0ByHt3Ov5pnJbPqeL6qp1X"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "fribRitni",
+        "url": "https://open.spotify.com/album/6luUb5rdY8eNPkK6XEYXTN"
+      },
+      "artists": [
+        {
+          "name": "Carolo",
+          "url": "https://open.spotify.com/artist/4O2nbTAh2HvnV1CWoD8Uvh"
+        },
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+        }
+      ],
+      "duration_ms": 196556,
+      "name": "fribRitni",
+      "url": "https://open.spotify.com/track/1A6xpBr2L2MTtj0SKrtJhW"
     },
     {
       "added_at": "2024-07-26 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,615 likes - 170 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,661 likes - 170 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,7 +176,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 | 166 | [Mar y Cielo](https://open.spotify.com/track/0MqPsUA4IHTlSWtVXBW758) | [Hermanos Martinez Gil](https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv) | [Personalidad \- Los Grandes Trios](https://open.spotify.com/album/4QLJLbSp9Km75yfKVCO3aB) | 2:40 |
 | 167 | [Arroyito](https://open.spotify.com/track/4bCrgAKwO4iJoeHeu3GDzW) | [Hnas\. Aguila](https://open.spotify.com/artist/2ldIh3XAHr5aNKagehNH1z) | [Agustin Lara Y Sus Interpretes Vol\. II](https://open.spotify.com/album/6LcTBtEetNnXTlvXdYW9sr) | 2:20 |
 | 168 | [Tu Voz](https://open.spotify.com/track/2DXFZTUFzahoZ1F8dJMeSZ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/4gJvY3r9i45vsDiInQL01D) | 3:10 |
-| 169 | [Abril En Portugal](https://open.spotify.com/track/3vd1hBvMeyIhtcrA6ryyE1) | [Trio Delfines](https://open.spotify.com/artist/1qvmo3M2lo0qpzRhzNTgIm) | [Trio Delfines](https://open.spotify.com/album/3n8ERMrAvGUuzCQAde0kAY) | 2:29 |
-| 170 | [Con Mi Corazon Te Espero](https://open.spotify.com/track/0GCvAA5pTwbH4kRpyRZBvk) | [Lucho Gatica](https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK) | [Consentida](https://open.spotify.com/album/0HuBWGxqsPyimBKnyivlVy) | 2:44 |
+| 169 | [Con Mi Corazon Te Espero](https://open.spotify.com/track/0GCvAA5pTwbH4kRpyRZBvk) | [Lucho Gatica](https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK) | [Consentida](https://open.spotify.com/album/0HuBWGxqsPyimBKnyivlVy) | 2:44 |
+| 170 | [Abril En Portugal](https://open.spotify.com/track/3vd1hBvMeyIhtcrA6ryyE1) | [Trio Delfines](https://open.spotify.com/artist/1qvmo3M2lo0qpzRhzNTgIm) | [Trio Delfines](https://open.spotify.com/album/3n8ERMrAvGUuzCQAde0kAY) | 2:29 |
 
 Snapshot ID: `Zo8tvQAAAADIlbzv3ziDSXFRuN745gc6`

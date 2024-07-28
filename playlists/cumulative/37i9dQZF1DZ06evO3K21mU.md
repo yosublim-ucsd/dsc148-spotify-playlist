@@ -2,7 +2,7 @@
 
 ### [This Is J\. Cole](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3K21mU)
 
-> This is J\. Cole\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is J\. Cole\. The essential tracks, all in one playlist.
 
 70 songs - 4 hr 24 min
 

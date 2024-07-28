@@ -2,7 +2,7 @@
 
 ### [This Is Slipknot](https://open.spotify.com/playlist/37i9dQZF1DZ06evNZYGncI)
 
-> This Is Slipknot\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Slipknot\. The essential tracks, all in one playlist.
 
 70 songs - 5 hr 7 min
 

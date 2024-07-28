@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 > With By The Coast, LAVE, VICTORS and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,838 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,837 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Burning](https://open.spotify.com/track/4CbEywsdQl5J2e2XQhYEfq) | [Rhineland](https://open.spotify.com/artist/4vMdQrvTXjEPjscJjTnp0a) | [Heard It in a Dream, Love](https://open.spotify.com/album/0G0952x5VWLLsNLOYKj5gI) | 3:55 |
 | 50 | [Take Me as I Am](https://open.spotify.com/track/7nvJWc7z8lvdlAjiHTNoSF) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [The Lost Years](https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e) | 3:43 |
 
-Snapshot ID: `ZqUz+wAAAAB2oSn3pber6SQDagBUbqWz`
+Snapshot ID: `ZqWwSQAAAAByCLk8Fvg7Mn070WjZ1TZT`

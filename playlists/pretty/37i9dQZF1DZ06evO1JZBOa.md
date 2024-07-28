@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JZBOa.md) - [plain]
 
 ### [This Is Manu Dibango](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1JZBOa)
 
-> This is Manu Dibango\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Manu Dibango\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,250 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,252 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JZBOa.md) - [plain]
 | 49 | [Promesa](https://open.spotify.com/track/6eoMTluhS1EClGg3fK5PKS) | [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Cubafrica](https://open.spotify.com/album/2LKgfPJtRIuHTh5wgi7N8Q) | 3:34 |
 | 50 | [What a wonderful world](https://open.spotify.com/track/26sSX8lDuic48lLOpu0g49) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Ballad Emotion](https://open.spotify.com/album/5skkHyAMGBCKyfwZGcSVRX) | 2:44 |
 
-Snapshot ID: `ZqLnAAAAAAC5LjGo4mwls2+89l5klC3L`
+Snapshot ID: `ZqLnAAAAAADqQj5QAPo+OYX3ya95PDaZ`

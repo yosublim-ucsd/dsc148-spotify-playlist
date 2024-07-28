@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,652 likes - 159 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,646 likes - 159 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,10 +152,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 | 142 | [Walk Me Home](https://open.spotify.com/track/2qTtA6lgLLwfuYphfT4f8C) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Walk Me Home](https://open.spotify.com/album/4lTOWYSn48zhJ7KeXEJva3) | 3:36 |
 | 143 | [FOREVER](https://open.spotify.com/track/1Oi354OePPmpvCsfZayQrC) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [FOREVER \(feat\. BROODS\)](https://open.spotify.com/album/2OYPLFa8fn8oR4KoaasV69) | 3:48 |
 | 144 | [about you](https://open.spotify.com/track/0Vzrki9UXx6emkXnhNKvG2) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [about you](https://open.spotify.com/album/1XEwApeQfsu29aMeXHHuYe) | 2:47 |
-| 145 | [Bleu \(better with time\)](https://open.spotify.com/track/42RIuav2MTQs3TEelnQDa3) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Bleu \(better with time\)](https://open.spotify.com/album/15vlMi5OpGkF6JSxwUTYjF) | 3:16 |
-| 146 | [Deep End](https://open.spotify.com/track/21UciS9u65KNCmrNXAToxK) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [Deep End](https://open.spotify.com/album/6EGOIYk1sgkYq8XevCOjmF) | 3:28 |
-| 147 | [Disappearing Now](https://open.spotify.com/track/6OyAdrIqlulqr7hEpo7QSL) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Disappearing Now](https://open.spotify.com/album/5zdUWNPZwYmUn7M2aUu0Cz) | 4:51 |
-| 148 | [I Don't Wanna Know](https://open.spotify.com/track/33VTOL8M86sq1qJOL6rNIm) | [Silience](https://open.spotify.com/artist/7yk8lN0B2B5wBdb4DJfQLI) | [I Don't Wanna Know](https://open.spotify.com/album/3mfq4FoNGi29lLyMxhXARc) | 3:00 |
+| 145 | [I Don't Wanna Know](https://open.spotify.com/track/33VTOL8M86sq1qJOL6rNIm) | [Silience](https://open.spotify.com/artist/7yk8lN0B2B5wBdb4DJfQLI) | [I Don't Wanna Know](https://open.spotify.com/album/3mfq4FoNGi29lLyMxhXARc) | 3:00 |
+| 146 | [Bleu \(better with time\)](https://open.spotify.com/track/42RIuav2MTQs3TEelnQDa3) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Bleu \(better with time\)](https://open.spotify.com/album/15vlMi5OpGkF6JSxwUTYjF) | 3:16 |
+| 147 | [Deep End](https://open.spotify.com/track/21UciS9u65KNCmrNXAToxK) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [Deep End](https://open.spotify.com/album/6EGOIYk1sgkYq8XevCOjmF) | 3:28 |
+| 148 | [Disappearing Now](https://open.spotify.com/track/6OyAdrIqlulqr7hEpo7QSL) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Disappearing Now](https://open.spotify.com/album/5zdUWNPZwYmUn7M2aUu0Cz) | 4:51 |
 | 149 | [Gravity](https://open.spotify.com/track/5lDCOzLzBfCOj3y5w1NdOo) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Gravity](https://open.spotify.com/album/2kZN7G2OX9dEeQUIrPFxO8) | 4:29 |
 | 150 | [Empty Promise](https://open.spotify.com/track/086eJJvQUVNNDABt1bevJn) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Empty Promise](https://open.spotify.com/album/7c1vkq6VrXtK7gdUOPy5ch) | 3:51 |
 | 151 | [Where Did You Go](https://open.spotify.com/track/69UhNEZfdWZ2e1nmIaJtUa) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Where Did You Go](https://open.spotify.com/album/5DYxA2kmNLhwiGauOOFtPK) | 3:44 |

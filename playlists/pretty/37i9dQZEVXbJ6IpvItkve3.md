@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJ6IpvItkve3.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Israel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,665 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,675 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJ6IpvItkve3.md) - [plain]
 | 49 | [רונדלים](https://open.spotify.com/track/3Au0H4VhjcXZ5HGOHo8Nc3) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 1:54 |
 | 50 | [חומר ממכר](https://open.spotify.com/track/2vR9gmLutur2qzskoEcYna) | [Ben Chen](https://open.spotify.com/artist/0C6NuuWwuMV3uBmsFAboVl) | [חומר ממכר](https://open.spotify.com/album/0WEAhwC2G8U70VAlga0yZs) | 3:16 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1kiYWz.md) - [plain]
 
 ### [This Is Campo De Almas.](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1kiYWz)
 
-> This is Campo De Almas.\. The essential tracks, all in one playlist.
+> This Is Campo De Almas.\. Los temas esenciales, todos en una lista.
 
 [Spotify](https://open.spotify.com/user/spotify) - 522 likes - 48 songs - 3 hr 9 min
 
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1kiYWz.md) - [plain]
 | 47 | [Incomprensión](https://open.spotify.com/track/6yvlcXWT0DdbU3u2z5J487) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [De Angeles Y Demás Demonios](https://open.spotify.com/album/1Z62BpeGNLSVl641yHpTnZ) | 4:46 |
 | 48 | [Prohibido \(En Vivo\)](https://open.spotify.com/track/4e38Gxfa52p5oyaPjFs8qt) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [En Vivo Desde El Teatro Municipal De Lima](https://open.spotify.com/album/3QktAMyoTkWBnZHJziEZUP) | 3:20 |
 
-Snapshot ID: `ZqLnAAAAAACEn1NpPtYKKI/SoRGIdtkj`
+Snapshot ID: `ZqLnAAAAAAAvl80zW3u0mKPU7MQlVvok`

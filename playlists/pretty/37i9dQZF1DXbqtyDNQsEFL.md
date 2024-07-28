@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX?si=4xD\-kH0vQt2t8vcRGj963A>Theresa Phondo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,575 likes - 80 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,587 likes - 80 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

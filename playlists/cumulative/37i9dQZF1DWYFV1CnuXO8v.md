@@ -4,7 +4,7 @@
 
 > عيش أجمل حالة حب 🫶❤️
 
-313 songs - 19 hr 54 min
+314 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [El Okd](https://open.spotify.com/track/06mCQATTGnLAAuE8kbelT0) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [El Okd](https://open.spotify.com/album/6nt3aY91do3MhLXe4xeclj) | 3:38 | 2023-08-20 | 2024-05-08 |
 | [Elshamkh El Gowwani](https://open.spotify.com/track/4fZaR5eB12ZEJ8amHPq5Xy) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [Elshamkh El Gowwani](https://open.spotify.com/album/3AMNAJajdOaMy0HCXgKNEv) | 3:04 | 2024-01-18 | 2024-01-26 |
 | [Enta Ekhtyar \- From Bhabak Movie](https://open.spotify.com/track/41THKTMbCeKcxnhNj1AeK7) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [بحبك \(From Bhabak Movie\)](https://open.spotify.com/album/2BBf2DS8iEOLWD5qUVCBe2) | 4:48 | 2023-05-29 | 2024-04-19 |
-| [Enta Ekhtyar \- From Bhabak Movie](https://open.spotify.com/track/5bMArgC9c0qSHRoTL2NlLy) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Enta Ekhtyar \(From Bhabak Movie\)](https://open.spotify.com/album/0os60GScuoNH6G53ga73IE) | 4:48 | 2024-06-26 |  |
+| [Enta Ekhtyar \- From Bhabak Movie](https://open.spotify.com/track/5bMArgC9c0qSHRoTL2NlLy) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Enta Ekhtyar \(From Bhabak Movie\)](https://open.spotify.com/album/0os60GScuoNH6G53ga73IE) | 4:48 | 2024-06-26 | 2024-07-28 |
 | [Enta Farha](https://open.spotify.com/track/19qnUPYxZsmCZjJOriB7P3) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [Enta Farha](https://open.spotify.com/album/1iI8jMST3BCkWVZTTL0a7T) | 4:52 | 2023-02-13 | 2023-05-23 |
 | [Erga'aly](https://open.spotify.com/track/7fhtTFiFHbssNu77aD1ttG) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Ya Bent El Eih](https://open.spotify.com/album/5ptbpLwbos10hG8LIZNrge) | 3:50 | 2023-05-22 | 2023-07-14 |
 | [Esheq El Rooh](https://open.spotify.com/track/0qwdAX3DeYDfu8MvjtWAux) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Lehqt Nafsy \- Part 2](https://open.spotify.com/album/2wiOuShzVOsXIihxOWZb1Y) | 4:50 | 2024-02-06 |  |
@@ -303,6 +303,7 @@
 | [ليلي](https://open.spotify.com/track/32AzhDEGxCBnQOt8EyVqeU) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [ليلي](https://open.spotify.com/album/1k1ipnt0ZtGREruIPdfEe8) | 3:38 | 2024-03-06 | 2024-04-26 |
 | [لِلّي](https://open.spotify.com/track/0Kb87SCKl8pFyKm0yD9TYf) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [لِلّي](https://open.spotify.com/album/5UHmwqHjPdCFXv1Vucwf9z) | 2:43 | 2023-02-13 | 2023-09-09 |
 | [مابتهزش](https://open.spotify.com/track/3iAngppOsxneInRppV37G5) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [ليا نظرة](https://open.spotify.com/album/7iXNDhh3PBg5AKliz5ZjjB) | 4:43 | 2023-09-08 | 2023-09-27 |
+| [ماتيجي اعدي عليكي](https://open.spotify.com/track/5ks7fVLJY4QRlAALIqJfMR) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [كوكتيل غنائي](https://open.spotify.com/album/42aXaZ9YPO28BbWlTLXVXV) | 2:25 | 2024-07-27 |  |
 | [مالناش غير بعض](https://open.spotify.com/track/3hPeKh5bVfDfhQRm9NM84k) | [Ahmed Khaled](https://open.spotify.com/artist/5j6v310BfwEmAPM5bezCrG) | [مالناش غير بعض](https://open.spotify.com/album/3fmEtnlPvivv3f5WDjU510) | 3:48 | 2023-02-13 | 2023-04-26 |
 | [مسيلى على عيونك](https://open.spotify.com/track/0iACdftSbsuwVGPE98Nu9X) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [مسيلى على عيونك](https://open.spotify.com/album/5BCxozu0drxusYzl0J0vas) | 3:13 | 2023-02-13 | 2023-05-23 |
 | [معلش](https://open.spotify.com/track/0XbZAACv4UZAU5mKOCLa9T) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Zap Tharwat](https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv) | [معلش](https://open.spotify.com/album/1g4TNTbMuiYAwCngqj36h1) | 3:57 | 2024-02-27 | 2024-04-26 |

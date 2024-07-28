@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 
 > If you feel it, chase it\. ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,739,230 likes - 85 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,739,489 likes - 85 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

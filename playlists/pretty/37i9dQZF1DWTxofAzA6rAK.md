@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 
 > Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Intence
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,327 likes - 150 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,351 likes - 150 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,17 +133,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 | 123 | [Pull Up](https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pull Up](https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq) | 2:51 |
 | 124 | [Verified Choppa 2](https://open.spotify.com/track/3YQ5NYk2legzeloibRyXn1) | [Marksman](https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR) | [Verified Choppa 2](https://open.spotify.com/album/0TXxumJZg93RO1JKZHDCtm) | 2:19 |
 | 125 | [Yahoo Boyz](https://open.spotify.com/track/66WY3lKgXd61ls1lD2cNPI) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Yahoo Boyz](https://open.spotify.com/album/1RJtU38GiLuw0hkiC3dwtW) | 2:37 |
-| 126 | [25/8](https://open.spotify.com/track/7zf3p3U5Vong4dUzVwjsYz) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [25/8](https://open.spotify.com/album/7CNof8ZrHnlEqxbffen5Nh) | 3:46 |
-| 127 | [Condensed Milk](https://open.spotify.com/track/0vdsBH9VEZnOaFRzz0wYQP) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Condensed Milk](https://open.spotify.com/album/7lk8DbGwZWNkHcNPg9cFUQ) | 3:13 |
-| 128 | [Hostage](https://open.spotify.com/track/2cTpCY1OfCMuXlH0K2ztw6) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Top Prize](https://open.spotify.com/album/3y09mvRbBlkfCJHmlpQnc7) | 3:16 |
-| 129 | [Skeng Live Large](https://open.spotify.com/track/0H1HSpmEAr0wUa9QTFsdzK) | [Guhoffentertainment](https://open.spotify.com/artist/4bai0UjpFWuKw86ytBiIiV), [Skeng](https://open.spotify.com/artist/27nN7fkb9DQGvW6kNWYBuc) | [Skeng Live Large](https://open.spotify.com/album/4sgsQQ4qo5KfgOZ5WBviVZ) | 2:40 |
-| 130 | [Catch 22](https://open.spotify.com/track/1cc282JtAEefN7O792U5P5) | [Prince Swanny](https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm) | [Catch 22](https://open.spotify.com/album/7yqsulxhfk6aZNsioUcroO) | 4:10 |
+| 126 | [Catch 22](https://open.spotify.com/track/1cc282JtAEefN7O792U5P5) | [Prince Swanny](https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm) | [Catch 22](https://open.spotify.com/album/7yqsulxhfk6aZNsioUcroO) | 4:10 |
+| 127 | [Maniac](https://open.spotify.com/track/1tCcOw0WZuKRkW5xl9EhMm) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Top Prize](https://open.spotify.com/album/3y09mvRbBlkfCJHmlpQnc7) | 2:58 |
+| 128 | [25/8](https://open.spotify.com/track/7zf3p3U5Vong4dUzVwjsYz) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [25/8](https://open.spotify.com/album/7CNof8ZrHnlEqxbffen5Nh) | 3:46 |
+| 129 | [Condensed Milk](https://open.spotify.com/track/0vdsBH9VEZnOaFRzz0wYQP) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Condensed Milk](https://open.spotify.com/album/7lk8DbGwZWNkHcNPg9cFUQ) | 3:13 |
+| 130 | [Skeng Live Large](https://open.spotify.com/track/0H1HSpmEAr0wUa9QTFsdzK) | [Guhoffentertainment](https://open.spotify.com/artist/4bai0UjpFWuKw86ytBiIiV), [Skeng](https://open.spotify.com/artist/27nN7fkb9DQGvW6kNWYBuc) | [Skeng Live Large](https://open.spotify.com/album/4sgsQQ4qo5KfgOZ5WBviVZ) | 2:40 |
 | 131 | [Riches Wii a Pree](https://open.spotify.com/track/70sylDX7oTLfSyqPepXnn4) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Riches Wii a Pree](https://open.spotify.com/album/25IgvW1IMpamtzY5ID4dhD) | 3:06 |
 | 132 | [Three Little Birds](https://open.spotify.com/track/6sp0O9fvW24AlPX2NzFk0G) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Three Little Birds](https://open.spotify.com/album/5EITrZvdxDsCYsztF4LlHA) | 3:28 |
 | 133 | [Sweet Love](https://open.spotify.com/track/16CHus0S5w9MgesfKLfBkB) | [Fully Top Dolla](https://open.spotify.com/artist/6AnWpywaiF1GoTWpimixVf), [Youngy Nevabummy](https://open.spotify.com/artist/2ov896wVgIC4nWoYh9asd9) | [Sweet Love](https://open.spotify.com/album/1M5Q0iEFC8jCgQaCg8ehM6) | 3:13 |
 | 134 | [Dirt Bounce](https://open.spotify.com/track/2v8fm0qBLnk7y9s7AylvaU) | [Laa Lee](https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS) | [Dirt Bounce](https://open.spotify.com/album/1m4lFc3r7VV0V0OSJ4NEAf) | 2:56 |
 | 135 | [Still A Bleed](https://open.spotify.com/track/79fwXVlKbDYOmU5AuzaJnq) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Still A Bleed](https://open.spotify.com/album/4RUXFvq2eEoSYFmuhYl4wM) | 3:36 |
-| 136 | [Maniac](https://open.spotify.com/track/1tCcOw0WZuKRkW5xl9EhMm) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Top Prize](https://open.spotify.com/album/3y09mvRbBlkfCJHmlpQnc7) | 2:58 |
+| 136 | [Hostage](https://open.spotify.com/track/2cTpCY1OfCMuXlH0K2ztw6) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Top Prize](https://open.spotify.com/album/3y09mvRbBlkfCJHmlpQnc7) | 3:16 |
 | 137 | [Only Fans](https://open.spotify.com/track/1VHFeNLoMJq3l4CC4bMQID) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Only Fans](https://open.spotify.com/album/0kU1yhq6AzbdsAua6R2HKc) | 3:00 |
 | 138 | [Clip Tall](https://open.spotify.com/track/739LurvLBsXBgJJBLZzm27) | [IWaata](https://open.spotify.com/artist/2xtVXoJRIMnX1UAmOCrHrB) | [Clip Tall](https://open.spotify.com/album/5GZgcPNrrneDbjmPceY1kR) | 2:52 |
 | 139 | [Imperfections](https://open.spotify.com/track/0ISsHuxxDpoGl0HBZZosvT) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Weekday](https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF) | [Imperfections](https://open.spotify.com/album/5LoNcj0I59uOuAIBvY9cLG) | 2:46 |

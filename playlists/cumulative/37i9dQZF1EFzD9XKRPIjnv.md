@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZGETGfppBycgid9gfvgIM">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-172 songs - 9 hr 37 min
+173 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [Personally](https://open.spotify.com/track/3WUSeDStXyrybmiHEH0aO3) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only Honest On The Weekend \(Deluxe\)](https://open.spotify.com/album/02KYZ3NCXrWlcKQDYMQdvZ) | 3:41 | 2022-03-20 | 2022-08-12 |
 | [Personally](https://open.spotify.com/track/4OnSrRXUfzhD6jkaB9NWYF) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only Honest On The Weekend \(Deluxe\)](https://open.spotify.com/album/3sG8tSb0NOMsn2nmf8v9KA) | 3:41 | 2022-08-11 |  |
 | [Pick U Up](https://open.spotify.com/track/2UbuXuTdSC0oR0upCbiLx2) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Pick U Up](https://open.spotify.com/album/7414qD6qDgp0dsbD8LuPEt) | 3:02 | 2021-12-27 |  |
-| [Picture Myself](https://open.spotify.com/track/3QWIMcT8jEbBaGAXZDRmel) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Picture Myself](https://open.spotify.com/album/6LHKYRQ0aTADgfgZErmYjT) | 3:31 | 2022-01-13 |  |
+| [Picture Myself](https://open.spotify.com/track/03HGNL5EWaUYzBy7sq0oH0) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Picture Myself](https://open.spotify.com/album/4hjA4aJ4IlMup1r2WoFAqO) | 3:31 | 2024-07-27 |  |
+| [Picture Myself](https://open.spotify.com/track/3QWIMcT8jEbBaGAXZDRmel) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Picture Myself](https://open.spotify.com/album/6LHKYRQ0aTADgfgZErmYjT) | 3:31 | 2022-01-13 | 2024-07-28 |
 | [plastic palm trees](https://open.spotify.com/track/41k9KtT2dRhYr7YeA6xO9M) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/5YxG0ULdAixTrnzfo60HX4) | 2:52 | 2024-03-16 |  |
 | [Preach](https://open.spotify.com/track/2AaF78iCWISMWYog5RnSi5) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Preach](https://open.spotify.com/album/32r4o1R9a1lK5DoVXGEC7E) | 3:56 | 2021-12-27 |  |
 | [Preach](https://open.spotify.com/track/23X3C3Dv0dsVAcusOicQWZ) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Preach \(Official Video\)](https://open.spotify.com/album/3IoGCHO5NZ5bqeLA2wkstw) | 4:47 | 2023-12-13 | 2024-02-02 |

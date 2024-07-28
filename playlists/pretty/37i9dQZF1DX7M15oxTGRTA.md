@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 
 > Soul Music daqui e de fora, um toque de sensibilidade\. Foto: Cassiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,085 likes - 100 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,133 likes - 100 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 89 | [You Make Me Feel Brand New](https://open.spotify.com/track/00CCi9yHJh7NjXcNT565Ja) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Rockin' Roll Baby](https://open.spotify.com/album/3eIZzW0fCXzec7TkcJ23Mq) | 4:48 |
 | 90 | [Um dia de domingo](https://open.spotify.com/track/41UtrfZQMk8598NmRIbZlt) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [iCollection](https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn) | 5:00 |
 | 91 | [Ben](https://open.spotify.com/track/3DUNaBEHqpXsrY7sXWlWpX) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Ben](https://open.spotify.com/album/3ptDrRzgad76DCVrxtC555) | 2:45 |
-| 92 | [Just The Way You Are](https://open.spotify.com/track/5Bw084vIrm2VpxH7btsqZH) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/3CEqEdl8uZkcsQA3GQSgk3) | 4:49 |
-| 93 | [How Can You Mend a Broken Heart](https://open.spotify.com/track/0xh1nbm202VvLOlpp7JjPA) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi) | 6:23 |
-| 94 | [It's Time for Love](https://open.spotify.com/track/2TQ4ar2L7ILV0MM8SnUcq8) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [The Essential Teddy Pendergrass](https://open.spotify.com/album/6yTiY5jSYTygHkG4PkSIMv) | 5:57 |
+| 92 | [It's Time for Love](https://open.spotify.com/track/2TQ4ar2L7ILV0MM8SnUcq8) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [The Essential Teddy Pendergrass](https://open.spotify.com/album/6yTiY5jSYTygHkG4PkSIMv) | 5:57 |
+| 93 | [Just The Way You Are](https://open.spotify.com/track/5Bw084vIrm2VpxH7btsqZH) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/3CEqEdl8uZkcsQA3GQSgk3) | 4:49 |
+| 94 | [How Can You Mend a Broken Heart](https://open.spotify.com/track/0xh1nbm202VvLOlpp7JjPA) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi) | 6:23 |
 | 95 | [Ribbon In The Sky](https://open.spotify.com/track/1aXzEVoWEr1bfZbUINnkv1) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/6qErkWYP1Xs5BR6cxyMrFF) | 5:37 |
 | 96 | [Settle For My Love](https://open.spotify.com/track/2xRgzDEtR2eBz5dTgMvIpx) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Pizzazz](https://open.spotify.com/album/3PgLKHkINPRRRA76eT6QJY) | 5:15 |
 | 97 | [Me dê motivos](https://open.spotify.com/track/30DmZoDNZaaLTWtur7cI66) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [iCollection](https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn) | 4:51 |
-| 98 | [I'm Gonna Love You Just A Little More Baby](https://open.spotify.com/track/4sfcHQgJdkB3g9itexwsvk) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- Universal Masters Collection](https://open.spotify.com/album/5ogEmmn5ptsW34WRZLBOJs) | 7:08 |
-| 99 | [Betcha By Golly Wow](https://open.spotify.com/track/76oVHMIHm1UNWLEcCnrNG8) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Greatest Hits](https://open.spotify.com/album/4Vx3zpym2018sqfXlZrotJ) | 3:23 |
+| 98 | [Betcha By Golly Wow](https://open.spotify.com/track/76oVHMIHm1UNWLEcCnrNG8) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Greatest Hits](https://open.spotify.com/album/4Vx3zpym2018sqfXlZrotJ) | 3:23 |
+| 99 | [I'm Gonna Love You Just A Little More Baby](https://open.spotify.com/track/4sfcHQgJdkB3g9itexwsvk) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- Universal Masters Collection](https://open.spotify.com/album/5ogEmmn5ptsW34WRZLBOJs) | 7:08 |
 | 100 | [Playing Your Game, Baby \- Single Version](https://open.spotify.com/track/2mqKNTdxl7eyKyfTNl0gw4) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Best Of Barry White 20th Century Masters The Millennium Collection](https://open.spotify.com/album/0BTmpW0Of2rQ10Xr8IoMNk) | 3:36 |
 
 Snapshot ID: `Zo1uLgAAAADJ6z0sKE3id0SX5eLNgsDa`

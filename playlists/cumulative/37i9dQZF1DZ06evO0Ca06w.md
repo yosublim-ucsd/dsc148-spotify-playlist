@@ -2,7 +2,7 @@
 
 ### [This Is Miriam Makeba](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Ca06w)
 
-> This is Miriam Makeba\. The essential tracks, all in one playlist.
+> This is Miriam Makeba\. Todos os maiores hits em uma só playlist.
 
 177 songs - 9 hr 16 min
 

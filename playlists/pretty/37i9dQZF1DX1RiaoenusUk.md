@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 
 > Música groovera, for the true Funk Soldiers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,497 likes - 94 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,502 likes - 94 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,12 +82,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 72 | [De Antes](https://open.spotify.com/track/6EzgVrNIlbA2lUni9jQ913) | [Valentina Marinkovic](https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el), [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO) | [De Antes](https://open.spotify.com/album/2AKkV1ilSMfchUx4e1Wknl) | 3:28 |
 | 73 | [7 Am](https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4) | [Afromama](https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN), [P1cky](https://open.spotify.com/artist/7jNnJdQzPxtOW3fLmAnd1a) | [7 Am](https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN) | 3:59 |
 | 74 | [Selva](https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr) | [De La Rivera](https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b) | [Selva](https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC) | 3:30 |
-| 75 | [Melodías](https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH) | [Monoson](https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A) | [Melodías](https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj) | 3:05 |
-| 76 | [Sapukai](https://open.spotify.com/track/6l1n78Osrf2e1WyCL1V8Cq) | [Joaquín Plada](https://open.spotify.com/artist/1dh1GlSC1Ct1EKaxAO5Y8D) | [Los Días](https://open.spotify.com/album/37PiRnmx7fmtWzM5cZrvZr) | 2:58 |
-| 77 | [Aire](https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ) | [Ania Ivania](https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb) | [Aire](https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR) | 3:10 |
-| 78 | [Traffic \(Groovin' de bondi\)](https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP) | [Goro Wins](https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG) | [Super 8](https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw) | 4:30 |
-| 79 | [No la Ves](https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX) | [Warlock ARG](https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV) | [No la Ves](https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP) | 4:19 |
-| 80 | [Sujeto a Espacio](https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb) | [Jvlian](https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT) | [Crisis](https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU) | 2:41 |
+| 75 | [Aire](https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ) | [Ania Ivania](https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb) | [Aire](https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR) | 3:10 |
+| 76 | [Melodías](https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH) | [Monoson](https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A) | [Melodías](https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj) | 3:05 |
+| 77 | [Sapukai](https://open.spotify.com/track/6l1n78Osrf2e1WyCL1V8Cq) | [Joaquín Plada](https://open.spotify.com/artist/1dh1GlSC1Ct1EKaxAO5Y8D) | [Los Días](https://open.spotify.com/album/37PiRnmx7fmtWzM5cZrvZr) | 2:58 |
+| 78 | [No la Ves](https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX) | [Warlock ARG](https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV) | [No la Ves](https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP) | 4:19 |
+| 79 | [Sujeto a Espacio](https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb) | [Jvlian](https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT) | [Crisis](https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU) | 2:41 |
+| 80 | [Traffic \(Groovin' de bondi\)](https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP) | [Goro Wins](https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG) | [Super 8](https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw) | 4:30 |
 | 81 | [Nada Sería Igual](https://open.spotify.com/track/6w4rHYinnXDrI1lkFR7uy0) | [La Hipocresía Mató al Gato](https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe), [Motafonkas](https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS) | [Nada Sería Igual](https://open.spotify.com/album/7w5eoI6jwqmr4DfNM8B5zw) | 3:23 |
 | 82 | [No Me Lo Digas \(In Session\)](https://open.spotify.com/track/01L5lcM6Tv58xLgTREdTBf) | [Jose Molina](https://open.spotify.com/artist/5wwt19tqha2MslydUbFGH7) | [Jose Molina in Session](https://open.spotify.com/album/761hQFQrsf4sNdJULRpHLM) | 7:46 |
 | 83 | [Al Otro Lado](https://open.spotify.com/track/3z4qhzZR43nyO2iyJvr8ZR) | [Milhojas](https://open.spotify.com/artist/5SYSiqQnMA3kKiIe1BzQdb) | [Inmunidad](https://open.spotify.com/album/3SJ7gTxtIxHXZ1e2xnJ6TG) | 3:31 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 85 | [Cariñoso Calificativo](https://open.spotify.com/track/0gWiGSQNQpfSt4zFIdkIYU) | [Ania Ivania](https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb) | [Aire](https://open.spotify.com/album/0h3fqfIY7r003GSs1HupSd) | 3:47 |
 | 86 | [Foulmouth](https://open.spotify.com/track/6NBHRERMIEJODoMX7AC8q5) | [Fernández 4](https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R), [Cirilo Fernandez](https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG) | [Foulmouth](https://open.spotify.com/album/7ywQCYXKnCG4zxufG5bpAP) | 2:54 |
 | 87 | [Agitando](https://open.spotify.com/track/6cZ0HOx7jElFdcfARajfnd) | [Halks](https://open.spotify.com/artist/1ppSnWLPr4wR5aPoMh1aTo), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [El Reino](https://open.spotify.com/album/6n1MzVCGv5bsBOYl3HH02m) | 3:35 |
-| 88 | [Contra la Corriente](https://open.spotify.com/track/1GltPY9or2DUMLAZIIFyno) | [Crettino](https://open.spotify.com/artist/6JjpGdFSIb9QIRXGmvT7OD), [Felipe Ilabaca](https://open.spotify.com/artist/1N825gWlAIeF3zC3bKVMHU) | [Contra la Corriente](https://open.spotify.com/album/4BDKn8HX52PP61H4GcZODY) | 2:55 |
-| 89 | [Susana](https://open.spotify.com/track/1DhDFR31XT5CqdxD0scbHN) | [TARO El Caramelo](https://open.spotify.com/artist/2vgR2bFMFjxIwpxKOu0eIe) | [Susana](https://open.spotify.com/album/5DpAbzJJ6XdFQDj3M5TDWi) | 3:09 |
-| 90 | [Conexión](https://open.spotify.com/track/3Q8XtLWm9c53nqFvp29WeI) | [Maleboux](https://open.spotify.com/artist/1mPrcNDZMNpWoy6Cio5inH) | [Impar](https://open.spotify.com/album/2OgzrpSgi8c6dfcLvaJQaf) | 3:41 |
+| 88 | [Susana](https://open.spotify.com/track/1DhDFR31XT5CqdxD0scbHN) | [TARO El Caramelo](https://open.spotify.com/artist/2vgR2bFMFjxIwpxKOu0eIe) | [Susana](https://open.spotify.com/album/5DpAbzJJ6XdFQDj3M5TDWi) | 3:09 |
+| 89 | [Conexión](https://open.spotify.com/track/3Q8XtLWm9c53nqFvp29WeI) | [Maleboux](https://open.spotify.com/artist/1mPrcNDZMNpWoy6Cio5inH) | [Impar](https://open.spotify.com/album/2OgzrpSgi8c6dfcLvaJQaf) | 3:41 |
+| 90 | [Contra la Corriente](https://open.spotify.com/track/1GltPY9or2DUMLAZIIFyno) | [Crettino](https://open.spotify.com/artist/6JjpGdFSIb9QIRXGmvT7OD), [Felipe Ilabaca](https://open.spotify.com/artist/1N825gWlAIeF3zC3bKVMHU) | [Contra la Corriente](https://open.spotify.com/album/4BDKn8HX52PP61H4GcZODY) | 2:55 |
 | 91 | [Polvo Cósmico \- Remix](https://open.spotify.com/track/70a8kMxbPGDkGk0yNXnU5B) | [Cevlade](https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY), [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO) | [Polvo Cósmico \(Remix\)](https://open.spotify.com/album/6mGtBcrNrRiMMH8LIWqINx) | 3:27 |
 | 92 | [Me Bajo en San Isidro](https://open.spotify.com/track/6zwgZybE3JhWNNDMdHjwBv) | [La Kimbo](https://open.spotify.com/artist/0XEZdz1rJKvQn1ud88fxLm) | [Parasacalapava](https://open.spotify.com/album/2ofVWC4usDLxz8hvDuX8hZ) | 2:40 |
 | 93 | [Amor Inocente](https://open.spotify.com/track/5Ua8g5V7j5ah5ieDeJHzNV) | [Antes de Nacer](https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo) | [Amor Inocente](https://open.spotify.com/album/7pWtehv340syIcZaXSZclR) | 3:47 |

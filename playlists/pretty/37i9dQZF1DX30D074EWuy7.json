@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
-  "num_followers": 29782,
+  "num_followers": 29787,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -1839,6 +1839,26 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Meridies",
+        "url": "https://open.spotify.com/album/6T3Ecl7sM27f9W4UCpBWxN"
+      },
+      "artists": [
+        {
+          "name": "Go Dugong",
+          "url": "https://open.spotify.com/artist/5JPe09JXKnZxN6oLYJMaKh"
+        },
+        {
+          "name": "Mai Mai Mai",
+          "url": "https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3"
+        }
+      ],
+      "duration_ms": 242645,
+      "name": "Randagio",
+      "url": "https://open.spotify.com/track/5w4Hm7e56SFJP1bMPB029u"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Explorare",
         "url": "https://open.spotify.com/album/2bISlKj86NDaG7oV1HBxFB"
       },
@@ -1863,22 +1883,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Meridies",
-        "url": "https://open.spotify.com/album/6T3Ecl7sM27f9W4UCpBWxN"
+        "name": "First Name: Oona",
+        "url": "https://open.spotify.com/album/4hwNr0pUjHAMaGbxxMTnOQ"
       },
       "artists": [
         {
-          "name": "Go Dugong",
-          "url": "https://open.spotify.com/artist/5JPe09JXKnZxN6oLYJMaKh"
-        },
-        {
-          "name": "Mai Mai Mai",
-          "url": "https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3"
+          "name": "Oona Rea",
+          "url": "https://open.spotify.com/artist/3uAnQmV3hPEl7SrxyRgIfb"
         }
       ],
-      "duration_ms": 242645,
-      "name": "Randagio",
-      "url": "https://open.spotify.com/track/5w4Hm7e56SFJP1bMPB029u"
+      "duration_ms": 138653,
+      "name": "Fun",
+      "url": "https://open.spotify.com/track/1jDSu3OmCIBMiKEE9pl6RE"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1903,22 +1919,6 @@
       "duration_ms": 291080,
       "name": "Frevo",
       "url": "https://open.spotify.com/track/4NpETaj70DmYarCLbPqLyv"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "First Name: Oona",
-        "url": "https://open.spotify.com/album/4hwNr0pUjHAMaGbxxMTnOQ"
-      },
-      "artists": [
-        {
-          "name": "Oona Rea",
-          "url": "https://open.spotify.com/artist/3uAnQmV3hPEl7SrxyRgIfb"
-        }
-      ],
-      "duration_ms": 138653,
-      "name": "Fun",
-      "url": "https://open.spotify.com/track/1jDSu3OmCIBMiKEE9pl6RE"
     },
     {
       "added_at": "2024-06-28 00:01:00",

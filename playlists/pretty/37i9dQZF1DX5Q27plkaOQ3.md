@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Maddy O'Neal
 
-[Spotify](https://open.spotify.com/user/spotify) - 970,231 likes - 200 songs - 10 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 970,222 likes - 200 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

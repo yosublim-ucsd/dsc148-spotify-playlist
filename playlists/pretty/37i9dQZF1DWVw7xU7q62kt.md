@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVw7xU7q62kt.md) - [plain]
 
 > Beats with a flavour of Jazz\. Cover: Blue Lab Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,784 likes - 150 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,806 likes - 150 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

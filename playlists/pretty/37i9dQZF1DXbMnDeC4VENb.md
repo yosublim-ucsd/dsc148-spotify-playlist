@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 
 > Una eufórica dosis de urbano romántico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,738 likes - 201 songs - 11 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,749 likes - 201 songs - 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,8 +206,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 196 | [Todo Va a Estar Bien](https://open.spotify.com/track/3XjRIN9vEt35lm1iStPcgq) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Todo Va a Estar Bien](https://open.spotify.com/album/6iwqcQcjkN9xVlhG840W9a) | 4:27 |
 | 197 | [Huracán](https://open.spotify.com/track/1QSxLf1ldQnoBqOoLKQT9e) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Huracán](https://open.spotify.com/album/72AgLJrge61AYrpf2zH8rl) | 4:15 |
 | 198 | [Amnesia](https://open.spotify.com/track/3T0DeQvOtdqd7Yo3t2Ig3N) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Amnesia](https://open.spotify.com/album/3ihNLfYyXbYNyp5FHCUdtu) | 3:08 |
-| 199 | [Maldito Romántico](https://open.spotify.com/track/05xcn7HwKbSOVSCtO8i3Vl) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [444 Paradise "Encerrado, No Enterrado"](https://open.spotify.com/album/1mdbJt88iwqkl0zEMGA8XH) | 4:34 |
-| 200 | [Complicado](https://open.spotify.com/track/5LxtXRqA2i3LBWdJiqE91O) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Complicado](https://open.spotify.com/album/5JOuCtRnFr7hM271TWk3YC) | 4:00 |
+| 199 | [Complicado](https://open.spotify.com/track/5LxtXRqA2i3LBWdJiqE91O) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Complicado](https://open.spotify.com/album/5JOuCtRnFr7hM271TWk3YC) | 4:00 |
+| 200 | [Maldito Romántico](https://open.spotify.com/track/05xcn7HwKbSOVSCtO8i3Vl) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [444 Paradise "Encerrado, No Enterrado"](https://open.spotify.com/album/1mdbJt88iwqkl0zEMGA8XH) | 4:34 |
 | 201 | [Tu y Yo](https://open.spotify.com/track/3kyBuBaAiJrXG3gSRsF7MX) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Tu y Yo](https://open.spotify.com/album/2X2taEieve3Jv8UVYCpvhk) | 2:41 |
 
 Snapshot ID: `ZqM7YAAAAAAkUSLPaYUu22jOLG1YhyTm`

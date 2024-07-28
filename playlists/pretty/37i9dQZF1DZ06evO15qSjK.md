@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 
 ### [This Is Kidz Bop Kids](https://open.spotify.com/playlist/37i9dQZF1DZ06evO15qSjK)
 
-> This is Kidz Bop Kids\. The essential tracks, all in one playlist.
+> This Is Kidz Bop Kids\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,388 likes - 51 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,389 likes - 51 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 | 50 | [greedy](https://open.spotify.com/track/0iLxPWv05NhSpVJttYibEt) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [greedy](https://open.spotify.com/album/1DeAVIlDfXSfpPjvUuKks4) | 2:09 |
 | 51 | [TOO MUCH](https://open.spotify.com/track/5m9mT86dI2PKotZYjt9m98) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [TOO MUCH](https://open.spotify.com/album/22BHyOK36cLz85X5AbAoku) | 2:10 |
 
-Snapshot ID: `ZqLnAAAAAABD3kNwT4MaO5ScW1iggrSZ`
+Snapshot ID: `ZqLnAAAAAAA2xg8Eli6TK+VKTL7ZIjoP`

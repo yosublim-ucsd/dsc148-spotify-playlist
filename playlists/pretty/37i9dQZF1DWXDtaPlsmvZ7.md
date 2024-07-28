@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 
 > A mover el cucu con estas cadenciosas versiones cumbiatizadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,218 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,226 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 60 | [Mil Horas](https://open.spotify.com/track/5XyItd5rFfdtoJsWHxON5x) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Greatest Cumbia Classics Of Colombia, Vol\. 2](https://open.spotify.com/album/2zTSfpbKycKhOo3hwh8OEj) | 3:45 |
 | 61 | [Baila Esta Cumbia](https://open.spotify.com/track/7AGYMb1fvYZig4AYTOOUSl) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3) | 2:55 |
 | 62 | [La Incondicional \(Version Cumbia Pop\)](https://open.spotify.com/track/3IxVP7vjukxmjk1T9gZ7kf) | [Otto Bunge](https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn), [Nicki Luis](https://open.spotify.com/artist/2mmVmtJNyml9x36wM2Br3D) | [La Incondicional \(Version Cumbia Pop\)](https://open.spotify.com/album/6pc3Ttq5xewStsRuE1ErIs) | 2:36 |
-| 63 | [Tonta](https://open.spotify.com/track/1BkA16BeinW9nl5tY1QJnv) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Orgánico](https://open.spotify.com/album/4vqCBJeSIvfoW353NudnX7) | 3:25 |
-| 64 | [Amnesia](https://open.spotify.com/track/25gVvYDrc5EeoATfHIodrY) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Amnesia](https://open.spotify.com/album/44rcBXiSxBO2tWd4iUi4B5) | 4:52 |
+| 63 | [Amnesia](https://open.spotify.com/track/25gVvYDrc5EeoATfHIodrY) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Amnesia](https://open.spotify.com/album/44rcBXiSxBO2tWd4iUi4B5) | 4:52 |
+| 64 | [Tonta](https://open.spotify.com/track/1BkA16BeinW9nl5tY1QJnv) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Orgánico](https://open.spotify.com/album/4vqCBJeSIvfoW353NudnX7) | 3:25 |
 | 65 | [Me Rehúso](https://open.spotify.com/track/1w6dOqzuranu79QoUNMNpT) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [LemonChamp](https://open.spotify.com/album/1iJB7BkodWrNTwQDmmdsAm) | 2:07 |
 | 66 | [Otro Muerde el Polvo \- Another One Bites the Dust](https://open.spotify.com/track/04rjMM4TLlevascCX3GlOM) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo \(Soundway Records\)](https://open.spotify.com/album/1KCmnDxgiX3oej6L6VdM3I) | 3:32 |
 | 67 | [Pop Goes Cumbia: Bella / Picky / La Camisa Negra / La Bicicleta](https://open.spotify.com/track/47siYyTMuaUswYaxHeA7Jg) | [La Casetera](https://open.spotify.com/artist/41pw8Rr71ZIY5mpOXzviAM) | [Pop Goes Cumbia: Bella / Picky / La Camisa Negra / La Bicicleta](https://open.spotify.com/album/61Q9YdMwrcG4HumInagTys) | 4:32 |

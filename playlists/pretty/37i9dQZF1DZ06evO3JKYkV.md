@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 
 ### [This Is Aphex Twin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3JKYkV)
 
-> This is Aphex Twin\. The essential tracks, all in one playlist.
+> This is Aphex Twin\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,708 likes - 49 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,714 likes - 49 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 | 48 | [Bucephalus Bouncing Ball \[Chosen by Warp co\-founder Steve Beckett\]](https://open.spotify.com/track/5rpHPGXMnJhEsUUh7ttCY7) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx) | 5:45 |
 | 49 | [Phloam \- 2022 Remaster](https://open.spotify.com/track/2jft0p7lZNXkKksCFHbsKr) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Digeridoo \(Expanded Edition\)](https://open.spotify.com/album/58H1ArDcd3bUzOK0cn31lD) | 5:33 |
 
-Snapshot ID: `ZqLnAAAAAABgJaNWl7EhFSD1ZGx95S7V`
+Snapshot ID: `ZqLnAAAAAABkJjL8T/BU3aLo+H4NisyZ`

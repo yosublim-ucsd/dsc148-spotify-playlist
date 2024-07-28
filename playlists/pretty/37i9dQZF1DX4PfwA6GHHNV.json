@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 18134,
+  "num_followers": 18138,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
+        "name": "Anel da Pandora",
+        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
+      },
+      "artists": [
+        {
+          "name": "greg mc",
+          "url": "https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X"
+        },
+        {
+          "name": "ESCOB4R",
+          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
+        }
+      ],
+      "duration_ms": 199012,
+      "name": "Anel da Pandora",
+      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
+    },
+    {
+      "added_at": "2024-07-26 03:03:00",
+      "album": {
         "name": "B\u00f3ra",
         "url": "https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 235800,
       "name": "B\u00f3ra",
       "url": "https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt"
-    },
-    {
-      "added_at": "2024-07-26 03:03:00",
-      "album": {
-        "name": "Anel da Pandora",
-        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
-      },
-      "artists": [
-        {
-          "name": "greg mc",
-          "url": "https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X"
-        },
-        {
-          "name": "ESCOB4R",
-          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
-        }
-      ],
-      "duration_ms": 199012,
-      "name": "Anel da Pandora",
-      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
     },
     {
       "added_at": "2024-07-26 03:03:00",

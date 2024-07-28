@@ -4,7 +4,7 @@
 
 > New music from Black artists every Friday\. Cover: <a href="spotify:artist:1CoZyIx7UvdxT5c8UkMzHd">Jorja Smith</a>
 
-3,574 songs - 7 day 11 hr 48 min
+3,575 songs - 7 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [ALL MY SHIT IS STUPID](https://open.spotify.com/track/0ufPmpaJmxYQbjJ0b2Ggje) | [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [ALL MY SHIT IS STUPID](https://open.spotify.com/album/1ve4FkIf7ZCK9rq6PtRK0l) | 2:30 | 2022-06-17 | 2022-07-02 |
 | [All Night](https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [All Night](https://open.spotify.com/album/4GJuAhTBGZUgdAFLU5phPk) | 3:28 | 2023-09-22 | 2023-11-18 |
 | [All Night](https://open.spotify.com/track/25uJVYALP00tDoPMUzquV7) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [All Night](https://open.spotify.com/album/2B6i1KEFu7lM0zkOB8eMX9) | 2:41 | 2024-03-29 | 2024-04-19 |
-| [All Of You \(For Me\)](https://open.spotify.com/track/7hA1eXeVINb5F93oFVSezk) | [DJ CHEEM](https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ) | [All Of You \(For Me\)](https://open.spotify.com/album/56uRr1BASQj8gMwGDQeMkv) | 2:34 | 2024-07-27 |  |
+| [All Of You \(For Me\)](https://open.spotify.com/track/7hA1eXeVINb5F93oFVSezk) | [DJ CHEEM](https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ) | [All Of You \(For Me\)](https://open.spotify.com/album/56uRr1BASQj8gMwGDQeMkv) | 2:34 | 2024-07-27 | 2024-07-28 |
 | [All or Nothing \(feat\. Ella Mai\)](https://open.spotify.com/track/4SPazIWgMqArA81XKxgDZa) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [After the Butterflies](https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80) | 3:10 | 2023-11-17 | 2023-11-30 |
 | [ALL OVER AGAIN](https://open.spotify.com/track/3LpbHOkTRZ0ls06L0xKdpH) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DISC TWO](https://open.spotify.com/album/4oLifZ7YzWlekv5sfcqmPp) | 2:07 | 2022-06-10 | 2022-06-25 |
 | [All Over This Party](https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [All Over This Party](https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz) | 3:32 | 2022-10-07 | 2022-10-29 |
@@ -1354,6 +1354,7 @@
 | [Head High](https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Head High](https://open.spotify.com/album/65KIgWKpqFbvMmH8QUkdUD) | 3:00 | 2022-03-04 | 2022-03-18 |
 | [HEAD TO HADES](https://open.spotify.com/track/58sGcIFRdGOQ7bUi62HBes) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM), [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 2:55 | 2022-09-30 | 2022-10-22 |
 | [head.rap \(ft\. Madison McFerrin, Ogi, Jordan Ward\)](https://open.spotify.com/track/5RlDYfphEpQaft5JDQfQko) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH), [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e), [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [head.rap \(ft\. Madison McFerrin, Ogi, Jordan Ward\)](https://open.spotify.com/album/0u3PlMuxnHdhKTuKnPnDWL) | 3:09 | 2024-04-26 | 2024-05-11 |
+| [Healing](https://open.spotify.com/track/5hrnlL3rqxLrkB8UQynmxh) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 4:54 | 2024-07-27 |  |
 | [Hear Me Clearly \(with Nigo\)](https://open.spotify.com/track/0WxzTL8Ptu103bVeYcBzoS) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Hear Me Clearly](https://open.spotify.com/album/2pb2WYmkUE3NCYZp6TYCZi) | 2:21 | 2022-03-04 | 2022-04-02 |
 | [Heart Ain't Empty](https://open.spotify.com/track/1PqnJfIMxnUrpUISfdbPGQ) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Heart Ain't Empty](https://open.spotify.com/album/7s00wxQvavyaVWYPJjL9gr) | 2:57 | 2024-01-19 | 2024-05-18 |
 | [HEART AWAY](https://open.spotify.com/track/36tX3phpNQzFPK1wmNDUTO) | [Johnny 2 Phones](https://open.spotify.com/artist/5G312D5mch8GZE501qpDIy), [Hunna G](https://open.spotify.com/artist/3K1jwN2afVgJiqwgoT38GP) | [HEART AWAY](https://open.spotify.com/album/2wmi1pKVW14c8FDaQF9uEE) | 1:56 | 2023-02-24 | 2023-03-04 |

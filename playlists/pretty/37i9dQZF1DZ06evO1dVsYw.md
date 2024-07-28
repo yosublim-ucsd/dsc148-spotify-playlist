@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dVsYw.md) - [plain]
 
 ### [This Is Racionais MC's](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1dVsYw)
 
-> This is Racionais MC's\. The essential tracks, all in one playlist.
+> This is Racionais MC's\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,166 likes - 33 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,176 likes - 33 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dVsYw.md) - [plain]
 | 32 | [Intro \- People Get Up And Drive Your Funky Soul \- Ao Vivo](https://open.spotify.com/track/0mxcW0LJMBXHVT8PXaD8H0) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 2:45 |
 | 33 | [Mano na Porta do Bar \- Ao Vivo](https://open.spotify.com/track/5GYBM7QhacNgVzzZNUXfEr) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 4:11 |
 
-Snapshot ID: `ZqLnAAAAAADg55C81Iobd5qyFxHhO7YF`
+Snapshot ID: `ZqLnAAAAAACbpvHWMkfO/oElm+/CZaEY`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,134 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,138 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 45 | [Arrepios](https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Ananda](https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj) | [Arrepios](https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg) | 3:25 |
 | 46 | [Medusa](https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt) | [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA) | [Medusa](https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT) | 2:24 |
 | 47 | [Aí é Bom Demais](https://open.spotify.com/track/6PXlhZWUQPF6vUoBPEfNl0) | [Garius](https://open.spotify.com/artist/0BXmaBCcv4S4rYZc0nECVA), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Deagaene](https://open.spotify.com/artist/5JcChpQICoJnLNmzEgpWEq) | [Aí é Bom Demais](https://open.spotify.com/album/08c5GcRuyhM8YYaqAbfvRu) | 3:17 |
-| 48 | [Bóra](https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [Bóra](https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv) | 3:55 |
-| 49 | [Anel da Pandora](https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU) | [greg mc](https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X), [ESCOB4R](https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy) | [Anel da Pandora](https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH) | 3:19 |
+| 48 | [Anel da Pandora](https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU) | [greg mc](https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X), [ESCOB4R](https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy) | [Anel da Pandora](https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH) | 3:19 |
+| 49 | [Bóra](https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [Bóra](https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv) | 3:55 |
 | 50 | [Proveito](https://open.spotify.com/track/2Q7d9bsJArH3ecLOBd6Axs) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Proveito](https://open.spotify.com/album/3AZhDI5vJnZtHvI3Z1cC0S) | 3:36 |
 
 Snapshot ID: `ZqMR5AAAAACbdLmuPo/x3A7cQ3yedWk8`

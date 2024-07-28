@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,752 likes - 100 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,750 likes - 100 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 87 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/74EBtxAMvsJVTzh3pPXZwr) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live In Stockholm](https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT) | 8:04 |
 | 88 | [Inner City Blues \(Make Me Wanna Holler\) \- Live At Oakland Coliseum, CA/1974](https://open.spotify.com/track/2hiibCg7gZ82zGMlb4SJtm) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Live \(Expanded Edition\)](https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV) | 3:55 |
 | 89 | [Sunshine "I Can Fly" \(Live\)](https://open.spotify.com/track/7rhNmrsrxR5Li3WVxpJjhu) | [Raul Midón](https://open.spotify.com/artist/2z3984YB48d3CFltzVlFYE) | [Invisible Chains Live from Nyc](https://open.spotify.com/album/4tEFQeMCUIyHNzOWCZi5k9) | 9:32 |
-| 90 | [Tired of Being Alone \- Live](https://open.spotify.com/track/4ZEP6AlYmtx43qQdr5cwcx) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Tokyo..\. Live](https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ) | 5:17 |
-| 91 | [The Cisco Kid \- Live Version](https://open.spotify.com/track/5XMU06RIl7pW7BPpHl1K6D) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [WAR Live](https://open.spotify.com/album/4dmFMOaseO8EaOauNihb5T) | 6:06 |
+| 90 | [The Cisco Kid \- Live Version](https://open.spotify.com/track/5XMU06RIl7pW7BPpHl1K6D) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [WAR Live](https://open.spotify.com/album/4dmFMOaseO8EaOauNihb5T) | 6:06 |
+| 91 | [Tired of Being Alone \- Live](https://open.spotify.com/track/4ZEP6AlYmtx43qQdr5cwcx) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Tokyo..\. Live](https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ) | 5:17 |
 | 92 | [No Love Dying \- Live At The Royal Albert Hall / 02 April 2018](https://open.spotify.com/track/5zqOcGH3Is5EvPoMG9rBtx) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [One Night Only \(Live At The Royal Albert Hall / 02 April 2018\)](https://open.spotify.com/album/35q1zz2A5vTQvzSlmv2Aun) | 5:33 |
 | 93 | [You're Gonna Miss Your Candy Man \- Live](https://open.spotify.com/track/4lHfktTRWq6a3pjq2Km8Xb) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [Alive \(Live At the Jazz Cafe, London\)](https://open.spotify.com/album/4uF0UXKgm2kqBUlN4NHcie) | 6:53 |
 | 94 | [Tell Me More And More And Then Some](https://open.spotify.com/track/4aErK0HkDKqKBFYXy2bajB) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [After Hours](https://open.spotify.com/album/6tkwWZBDub074CUPmsTeFj) | 3:11 |

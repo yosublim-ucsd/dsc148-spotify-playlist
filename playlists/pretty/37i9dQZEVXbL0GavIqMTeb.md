@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL0GavIqMTeb.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,611 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,660 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL0GavIqMTeb.md) - [plain]
 | 49 | [Sólida](https://open.spotify.com/track/7eTTWunsR2Z1z5plDYKk6C) | [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Sólida](https://open.spotify.com/album/6ijyNh1JRhaj3lqPys9eiZ) | 2:37 |
 | 50 | [Partyson](https://open.spotify.com/track/2vUxVG2aZe293MJQ4GtcVz) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Partyson](https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL) | 3:18 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

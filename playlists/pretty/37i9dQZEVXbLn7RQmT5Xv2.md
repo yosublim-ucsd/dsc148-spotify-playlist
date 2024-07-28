@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLn7RQmT5Xv2.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,790 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,792 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLn7RQmT5Xv2.md) - [plain]
 | 49 | [اول قفا يا بروسلي \( خمسه علينا من عينكو \)](https://open.spotify.com/track/75aiWGFwPn6LiYoKJz5H8f) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB), [Eslam Kabounga](https://open.spotify.com/artist/2QMFKxN62QViqFk7ygLAsB) | [اول قفا يا بروسلي \( خمسه علينا من عينكو \)](https://open.spotify.com/album/6W4CGfU1SD5Je1Y8FwOJWa) | 3:06 |
 | 50 | [Reyah El Hayah](https://open.spotify.com/track/08yqfVX2AXNzrq6xlaGB3h) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Raye2](https://open.spotify.com/album/1pSEP1POnPOIDGaNol4mOs) | 3:49 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

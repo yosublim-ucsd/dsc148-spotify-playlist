@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,236,025 likes - 214 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,236,045 likes - 214 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,8 +214,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 204 | [Muse](https://open.spotify.com/track/4MaULwvOuXjAmMvOsThiAf) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc), [Kate Morgan](https://open.spotify.com/artist/48hiuLYhfSj1EYOrZPAuje) | [Only For A Moment EP](https://open.spotify.com/album/3sIbb1IgiQAnkyZVNwsWZ7) | 3:19 |
 | 205 | [Cynical](https://open.spotify.com/track/2grS8y9w2vVp7sDJ3RnSx9) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Cynical](https://open.spotify.com/album/2FSVbytdzBlR6SBT4AFewv) | 3:11 |
 | 206 | [Gonna Be Good](https://open.spotify.com/track/5iLKAHXJN67BVStneEDo7t) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Gonna Be Good](https://open.spotify.com/album/2AEHMdnEBIamp3F6HuZmTf) | 2:52 |
-| 207 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 |
-| 208 | [Take You](https://open.spotify.com/track/1Mqg86bac6H0wgukTgG3gR) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/4xADuwIS5TSQzoYTaPA5VH) | 3:13 |
+| 207 | [Take You](https://open.spotify.com/track/1Mqg86bac6H0wgukTgG3gR) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/4xADuwIS5TSQzoYTaPA5VH) | 3:13 |
+| 208 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 |
 | 209 | [Moving On](https://open.spotify.com/track/7r1tJrG00pgUbVioN1hbzf) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Moving On](https://open.spotify.com/album/6kbw2wcLnY2oUY5vkNmAg9) | 3:21 |
 | 210 | [Heart on Fire](https://open.spotify.com/track/5ll2yG4LWHSI0FPMtPQ6c8) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Heart on Fire](https://open.spotify.com/album/032CDMov5jJuvp8hDyuGI0) | 3:50 |
 | 211 | [Back To Us](https://open.spotify.com/track/590T9WalvUZudNgVVXZE0W) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x) | [Back To Us](https://open.spotify.com/album/6aHmUKJNaOystRL2r9Wwd3) | 2:54 |

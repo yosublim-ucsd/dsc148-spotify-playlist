@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1E4sPTJXAlqbkG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E4sPTJXAlqbkG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4sPTJXAlqbkG)
 
-### [PARTYNEXTDOOR Radio](https://open.spotify.com/playlist/37i9dQZF1E4sPTJXAlqbkG)
+### [Radio inspirée par PARTYNEXTDOOR](https://open.spotify.com/playlist/37i9dQZF1E4sPTJXAlqbkG)
 
-> With Bryson Tiller, Sonder, Summer Walker and more
+> Avec Bryson Tiller, Sonder, Summer Walker et plus
 
 611 songs - 1 day 10 hr 38 min
 

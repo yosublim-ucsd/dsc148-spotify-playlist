@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMH2jvi6jvjk.md) - [plain]
 
 > Your daily update of the most played tracks right now \- South Africa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,859 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,867 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMH2jvi6jvjk.md) - [plain]
 | 49 | [Yebo](https://open.spotify.com/track/3GLF4uV3uS1ImSEPyhLZLp) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Djy Biza](https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING) | [Turn Off The Lights](https://open.spotify.com/album/6muXgX86KpOiFDo0P07e7d) | 4:23 |
 | 50 | [Hit after Hit](https://open.spotify.com/track/5TY9ovYtBeJTY9s7K3ijEd) | [Ugatsheni](https://open.spotify.com/artist/2kUReuoaNS6Thgl4zFQA60) | [Uyihlo nonyoko](https://open.spotify.com/album/7aNmPlwAQeVPY8P7qjuGhs) | 4:39 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Delilah, Fuerza Regida, Grupo Frontera & Romeo, Luis Vazquez and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,312 likes - 62 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,320 likes - 62 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

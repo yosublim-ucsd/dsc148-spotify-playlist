@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by Experimental independent artists and labels\. Cavolo Nero on cover\. Artwork by Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,872 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,897 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 91 | [Bury it Deep Inside Yourself](https://open.spotify.com/track/6qZmqWAs0sbLKOpcV4i2fR) | [Nexcyia](https://open.spotify.com/artist/40wAy6PBtoaw0dJB0JtkNZ) | [Endless Path of Memory](https://open.spotify.com/album/06SMLc0USCxMg0EZm8ZwVu) | 4:47 |
 | 92 | [Unknown Fate](https://open.spotify.com/track/3RREDnjMKyXtH5dVwhlwHm) | [UF](https://open.spotify.com/artist/4ZJC9cQW6rrinYxtHkyajd) | [Unknown Fate](https://open.spotify.com/album/2RL6cLU8jlrqJbuRlxlLao) | 3:30 |
 | 93 | [Forgotten Flower](https://open.spotify.com/track/0Hjd5PfLJYEKEb6G4RIXqG) | [Henryne Girls](https://open.spotify.com/artist/5ihXHvY7jBzaYC1RVJLp0R) | [Forgotten Flower](https://open.spotify.com/album/7j9Cx2dJNKoAPVVU1LPye4) | 2:16 |
-| 94 | [Seedling \- Me Lost Me Remix](https://open.spotify.com/track/6Ut4itwtkL9imP9esqJV0X) | [Ceitidh Mac](https://open.spotify.com/artist/6r6YPoX4hfknOTw0tV3mWb), [Me Lost Me](https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO) | [Seedling \(Me Lost Me Remix\)](https://open.spotify.com/album/4i5KscQeIWAOYSMOdjumQs) | 3:47 |
-| 95 | [Simulacrima](https://open.spotify.com/track/560pUCDhzM0srmGeg6JLbF) | [Fera](https://open.spotify.com/artist/0RCFF3ElmHRKsaMmHXE3h7) | [Simulacrima](https://open.spotify.com/album/0dNgv0qqAvyhoPf8ImfPI5) | 3:38 |
+| 94 | [Simulacrima](https://open.spotify.com/track/560pUCDhzM0srmGeg6JLbF) | [Fera](https://open.spotify.com/artist/0RCFF3ElmHRKsaMmHXE3h7) | [Simulacrima](https://open.spotify.com/album/0dNgv0qqAvyhoPf8ImfPI5) | 3:38 |
+| 95 | [Seedling \- Me Lost Me Remix](https://open.spotify.com/track/6Ut4itwtkL9imP9esqJV0X) | [Ceitidh Mac](https://open.spotify.com/artist/6r6YPoX4hfknOTw0tV3mWb), [Me Lost Me](https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO) | [Seedling \(Me Lost Me Remix\)](https://open.spotify.com/album/4i5KscQeIWAOYSMOdjumQs) | 3:47 |
 | 96 | [Breath](https://open.spotify.com/track/6GNDrXNj0AZWu3SwN2GOVj) | [Ciel](https://open.spotify.com/artist/1Rv2Pete1cFEKlDYk0hjWl) | [Breath](https://open.spotify.com/album/4mYM1umH8IeMQjjwlWmQc4) | 5:42 |
 | 97 | [the REAL \- HAAi Remix](https://open.spotify.com/track/77osvGSRvaYOrZZC5xCx4Q) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [the REAL \(HAAi Remix\)](https://open.spotify.com/album/4a3Ry7yO3FMCJSY3sWay1j) | 5:36 |
 | 98 | [the mould](https://open.spotify.com/track/3JrB4axmp1RRQrTJQ06cSw) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [the mould](https://open.spotify.com/album/03WZKJv7yuVrpUxbIleIco) | 2:21 |

@@ -1,6 +1,6 @@
 {
   "description": "The perfect backdrop to an evening spent relaxing in solitude.",
-  "num_followers": 2121871,
+  "num_followers": 2121960,
   "original_name": "Late Night Jazz",
   "owner": {
     "name": "Spotify",
@@ -3631,18 +3631,22 @@
     {
       "added_at": "2024-07-19 11:57:07",
       "album": {
-        "name": "Hermetic Boogey",
-        "url": "https://open.spotify.com/album/6HsoNd9kAenZ7AcY2ptML5"
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/00iisImCd1aQNcnHYiifqA"
       },
       "artists": [
         {
-          "name": "Tonbruket",
-          "url": "https://open.spotify.com/artist/5Txp8CzIIEwkALY9agmKpJ"
+          "name": "Little North",
+          "url": "https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J"
+        },
+        {
+          "name": "Oscar Andreas Haug",
+          "url": "https://open.spotify.com/artist/26LBjI4jymy7Yry7qi5kB1"
         }
       ],
-      "duration_ms": 373708,
-      "name": "Hermetic Boogey",
-      "url": "https://open.spotify.com/track/0utXKhCXxreupSQICsuwkr"
+      "duration_ms": 351400,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/1bi5YSXdNeEsAYAvA3HX0c"
     },
     {
       "added_at": "2024-07-19 11:57:07",
@@ -3671,22 +3675,18 @@
     {
       "added_at": "2024-07-19 11:57:07",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/00iisImCd1aQNcnHYiifqA"
+        "name": "Hermetic Boogey",
+        "url": "https://open.spotify.com/album/6HsoNd9kAenZ7AcY2ptML5"
       },
       "artists": [
         {
-          "name": "Little North",
-          "url": "https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J"
-        },
-        {
-          "name": "Oscar Andreas Haug",
-          "url": "https://open.spotify.com/artist/26LBjI4jymy7Yry7qi5kB1"
+          "name": "Tonbruket",
+          "url": "https://open.spotify.com/artist/5Txp8CzIIEwkALY9agmKpJ"
         }
       ],
-      "duration_ms": 351400,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/1bi5YSXdNeEsAYAvA3HX0c"
+      "duration_ms": 373708,
+      "name": "Hermetic Boogey",
+      "url": "https://open.spotify.com/track/0utXKhCXxreupSQICsuwkr"
     },
     {
       "added_at": "2024-07-19 11:57:07",

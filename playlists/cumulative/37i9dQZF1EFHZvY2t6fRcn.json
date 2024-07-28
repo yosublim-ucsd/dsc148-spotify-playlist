@@ -376,10 +376,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-28",
       "duration_ms": 222849,
       "name": "Can't Stop This Party",
       "url": "https://open.spotify.com/track/1FP2jE6moLiHoNUaWTUyJc"
+    },
+    {
+      "album": {
+        "name": "Can't Stop This Party",
+        "url": "https://open.spotify.com/album/0jQsaQXnbqi3RuToyfcxUe"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222849,
+      "name": "Can't Stop This Party",
+      "url": "https://open.spotify.com/track/2GSwTnAiv16WGLnQIfEwyW"
     },
     {
       "album": {

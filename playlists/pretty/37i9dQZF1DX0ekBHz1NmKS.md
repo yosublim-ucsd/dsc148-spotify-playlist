@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > En samling av de bästa svenska låtarna just nu\. Cover: Jacqline
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,694 likes - 106 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,695 likes - 106 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

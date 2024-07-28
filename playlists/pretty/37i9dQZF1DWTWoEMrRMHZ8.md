@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Samuel Rosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,857 likes - 90 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,859 likes - 90 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

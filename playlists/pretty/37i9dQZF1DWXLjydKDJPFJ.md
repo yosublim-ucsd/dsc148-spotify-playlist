@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLjydKDJPFJ.md) - [plain]
 
 > Compare, prenda el carbón y saque la bocina que ya se armó la carnita.
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,828 likes - 150 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,986 likes - 150 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,6 +157,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLjydKDJPFJ.md) - [plain]
 | 147 | [EL AMOR DE SU VIDA](https://open.spotify.com/track/435g6uM0Atz3MyYwafHEss) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 2:45 |
 | 148 | [Una Lágrima Tuya](https://open.spotify.com/track/0p8JTsZvg3DQ3Gr2wE1ngB) | [Ramon Ayala Jr.](https://open.spotify.com/artist/5Tk6wpyWDTfk9uCLJmtfZI) | [El Príncipe](https://open.spotify.com/album/1A1g5ACRZH06FIIEkziRUd) | 3:24 |
 | 149 | [365](https://open.spotify.com/track/7GhBtaLThD3Sa0zLJdGRhQ) | [Los Reales Del Rio](https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc) | [365](https://open.spotify.com/album/6z1DSgDs9h0shDhQYJSA3e) | 3:08 |
-| 150 | [Belleza De Cantina](https://open.spotify.com/track/4XC7YfQYxDuUa7I287yeWw) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Por Las Damas](https://open.spotify.com/album/7f9iAg217HyY4rY0f6760q) | 3:03 |
+| 150 | [Puño De Diamantes](https://open.spotify.com/track/6d1tiItSWw2y4UudEoeT9k) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Libre Por Naturaleza](https://open.spotify.com/album/3LkDU8DwPQnl5mIpdVxwjL) | 3:12 |
 
 Snapshot ID: `ZpWn4AAAAABB19MqVlKEVdN6q7yDfRfV`

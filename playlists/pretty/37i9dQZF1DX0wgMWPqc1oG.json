@@ -1,6 +1,6 @@
 {
   "description": "The essential recordings from the beginning of the Post Bop era. Cover: Freddie Hubbard",
-  "num_followers": 30567,
+  "num_followers": 30575,
   "original_name": "Post Bop Essentials",
   "owner": {
     "name": "Spotify",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2024-03-20 14:57:59",
       "album": {
-        "name": "Trompeta Toccata (Remastered 2014)",
-        "url": "https://open.spotify.com/album/0MbOmmvDUHC8Y1FBtG3HDl"
+        "name": "Peacemeal",
+        "url": "https://open.spotify.com/album/7dvmPixFQk7VT64HfSfIuh"
       },
       "artists": [
         {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+          "name": "Lee Konitz Quintet",
+          "url": "https://open.spotify.com/artist/58qZcMEA6JYKQ1QHtBUkz2"
         }
       ],
-      "duration_ms": 480053,
-      "name": "The Fox - Remastered 2014",
-      "url": "https://open.spotify.com/track/6kEZ6Xa87zYFDCRX69mxK5"
+      "duration_ms": 194266,
+      "name": "Bart\u00f3k: Thumb Under",
+      "url": "https://open.spotify.com/track/02lmMdDTxH58UIwpQ60PK8"
     },
     {
       "added_at": "2024-03-20 14:57:59",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-03-20 14:57:59",
       "album": {
+        "name": "Trompeta Toccata (Remastered 2014)",
+        "url": "https://open.spotify.com/album/0MbOmmvDUHC8Y1FBtG3HDl"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+        }
+      ],
+      "duration_ms": 480053,
+      "name": "The Fox - Remastered 2014",
+      "url": "https://open.spotify.com/track/6kEZ6Xa87zYFDCRX69mxK5"
+    },
+    {
+      "added_at": "2024-03-20 14:57:59",
+      "album": {
         "name": "Forest Flower: Charles Lloyd At Monterey",
         "url": "https://open.spotify.com/album/6lIWfnUerZuu9UcUDnF2JD"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 644400,
       "name": "East of the Sun - Live@Monterey",
       "url": "https://open.spotify.com/track/0oanzoMD8tt7YMkgaAd6Gj"
-    },
-    {
-      "added_at": "2024-03-20 14:57:59",
-      "album": {
-        "name": "Peacemeal",
-        "url": "https://open.spotify.com/album/7dvmPixFQk7VT64HfSfIuh"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz Quintet",
-          "url": "https://open.spotify.com/artist/58qZcMEA6JYKQ1QHtBUkz2"
-        }
-      ],
-      "duration_ms": 194266,
-      "name": "Bart\u00f3k: Thumb Under",
-      "url": "https://open.spotify.com/track/02lmMdDTxH58UIwpQ60PK8"
     },
     {
       "added_at": "2024-03-20 14:57:59",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-03-20 14:57:59",
       "album": {
-        "name": "Una Mas (Remastered 2014)",
-        "url": "https://open.spotify.com/album/5CWHeD4i4D8ytWcttJ2SpZ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
-        }
-      ],
-      "duration_ms": 437546,
-      "name": "Sao Paulo - Remastered 2014",
-      "url": "https://open.spotify.com/track/1USV1eumNSdlqPCSOkOUg4"
-    },
-    {
-      "added_at": "2024-03-20 14:57:59",
-      "album": {
         "name": "Down With It! (Remastered 2005/Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 416120,
       "name": "Black Fire - Remastered 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3hVs1j5bcQaTdmOaby65RL"
+    },
+    {
+      "added_at": "2024-03-20 14:57:59",
+      "album": {
+        "name": "Una Mas (Remastered 2014)",
+        "url": "https://open.spotify.com/album/5CWHeD4i4D8ytWcttJ2SpZ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+        }
+      ],
+      "duration_ms": 437546,
+      "name": "Sao Paulo - Remastered 2014",
+      "url": "https://open.spotify.com/track/1USV1eumNSdlqPCSOkOUg4"
     },
     {
       "added_at": "2024-03-20 14:57:59",

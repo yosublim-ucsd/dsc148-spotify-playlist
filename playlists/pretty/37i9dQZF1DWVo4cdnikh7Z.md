@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Kanguva
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,240 likes - 77 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,253 likes - 77 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

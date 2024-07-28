@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Powerwolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,253,886 likes - 200 songs - 14 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,254,043 likes - 200 songs - 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

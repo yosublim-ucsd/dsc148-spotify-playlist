@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnGF35OawbN.md) - [plain]
 
 > ¡Empezó el verano!  El soundtrack del verano 2024 🏝️ Cover: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,651,571 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,651,567 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

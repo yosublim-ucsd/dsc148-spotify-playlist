@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con la Bruja Salguero en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,731 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,733 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,12 +96,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 86 | [Asuntos Pendientes](https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Las Simples Cosas](https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a) | 2:50 |
 | 87 | [La Arruguita](https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET) | [Mavi Diaz &  Las Folkies](https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z) | [Gaucha](https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0) | 1:47 |
 | 88 | [Zamba de Carnaval](https://open.spotify.com/track/3RpSwGmzKDbbZbd7ck91QP) | [Rocio Araujo](https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg) | [Conviccion](https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2) | 4:19 |
-| 89 | [Cómo Pájaros en el Aire](https://open.spotify.com/track/5ZA0iEXMqSs7f9YzRnqj1u) | [Anabella Zoch](https://open.spotify.com/artist/7hxv4viTwAh1SxAFcB2u2v) | [Espejo de Amor: Anabella Zoch Canta a Peteco Carabajal](https://open.spotify.com/album/5EvslgD1DNVwI7OOXBGviw) | 4:27 |
-| 90 | [Maria Sabina](https://open.spotify.com/track/59WZZenkOSwmCN1BzbXHBO) | [Paola Bernal](https://open.spotify.com/artist/4tL93YWLvL0kNlg42d6I8f) | [Pajaro Rojo](https://open.spotify.com/album/30CNaOBBICXPs1CcmqC0RL) | 4:59 |
+| 89 | [Maria Sabina](https://open.spotify.com/track/59WZZenkOSwmCN1BzbXHBO) | [Paola Bernal](https://open.spotify.com/artist/4tL93YWLvL0kNlg42d6I8f) | [Pajaro Rojo](https://open.spotify.com/album/30CNaOBBICXPs1CcmqC0RL) | 4:59 |
+| 90 | [Cómo Pájaros en el Aire](https://open.spotify.com/track/5ZA0iEXMqSs7f9YzRnqj1u) | [Anabella Zoch](https://open.spotify.com/artist/7hxv4viTwAh1SxAFcB2u2v) | [Espejo de Amor: Anabella Zoch Canta a Peteco Carabajal](https://open.spotify.com/album/5EvslgD1DNVwI7OOXBGviw) | 4:27 |
 | 91 | [El Otro País](https://open.spotify.com/track/0YlsXdXjBWt9KDLJpjwfii) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [El Otro País](https://open.spotify.com/album/1XbuwOs0M0UTManSQD3dF1) | 4:26 |
 | 92 | [La Maimareña](https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J) | [Julia Elena Dávalos](https://open.spotify.com/artist/6znApi0MuZQEpmkAroh1IU) | [Cantora](https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29) | 2:53 |
-| 93 | [Romance de la luna tucumana](https://open.spotify.com/track/4OKwLQZOP6IRuCvdKVwUK3) | [Sofía Ascárate](https://open.spotify.com/artist/5zQ4Y0CcYN9EgolvJJhxNt) | [Desnudando el corazón](https://open.spotify.com/album/71H7JoIcmwgwRnhu6KhEfY) | 4:11 |
-| 94 | [La Copla Triste](https://open.spotify.com/track/6nseIjjosmhP2oLfCzm3Zc) | [María y Cosecha](https://open.spotify.com/artist/5kOLdtx8iK9p4Ka01J1wEH) | [Agosto](https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7) | 3:26 |
+| 93 | [La Copla Triste](https://open.spotify.com/track/6nseIjjosmhP2oLfCzm3Zc) | [María y Cosecha](https://open.spotify.com/artist/5kOLdtx8iK9p4Ka01J1wEH) | [Agosto](https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7) | 3:26 |
+| 94 | [Romance de la luna tucumana](https://open.spotify.com/track/4OKwLQZOP6IRuCvdKVwUK3) | [Sofía Ascárate](https://open.spotify.com/artist/5zQ4Y0CcYN9EgolvJJhxNt) | [Desnudando el corazón](https://open.spotify.com/album/71H7JoIcmwgwRnhu6KhEfY) | 4:11 |
 | 95 | [Esa Musiquita](https://open.spotify.com/track/0z5QRQFqvQWSXM5nOGwK5v) | [Marilí Machado](https://open.spotify.com/artist/38ikTZxvFSdHLo3EIodMRI) | [A Mercedes, Vol\. II](https://open.spotify.com/album/2U8svikAMZKenkjZWU0wC7) | 3:22 |
 | 96 | [Canción Repentina](https://open.spotify.com/track/2sa6bCsoc8rBlxSPdxpObs) | [Verde Trébol](https://open.spotify.com/artist/24KqDdEAK2qD277Eyc0aPl) | [No Hacen Falta Alas](https://open.spotify.com/album/4Z1X0T3S4fgIOlfvNPxvFQ) | 2:42 |
 | 97 | [Ojitos Lindos](https://open.spotify.com/track/6amvGlc634QuohaW2vNeIv) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [Ojitos Lindos](https://open.spotify.com/album/3go3FqLGKpSSqiYkrPTUP0) | 3:10 |

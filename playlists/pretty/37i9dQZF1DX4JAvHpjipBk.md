@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Ice Spice & Travis Scott, Post Malone & Luke Combs, Halsey, Fuerza Regida and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,203,595 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,203,702 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 
 ### [This Is Flo Milli](https://open.spotify.com/playlist/37i9dQZF1DZ06evO00Q0Yo)
 
-> This is Flo Milli\. The essential tracks, all in one playlist.
+> This is Flo Milli\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,442 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,447 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 49 | [Big Mad \(feat\. Flo Milli\)](https://open.spotify.com/track/6UliIDFULJHvJpSfQ61zu5) | [Icandy](https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Big Mad \(feat\. Flo Milli\)](https://open.spotify.com/album/04jIgr8btAumWJzTRIhrxl) | 1:50 |
 | 50 | [My Attitude](https://open.spotify.com/track/75nCGDsQW8BQsCXQrhFmoK) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [My Attitude](https://open.spotify.com/album/7Gmi73lktv864xchbOA5PZ) | 2:27 |
 
-Snapshot ID: `ZqLnAAAAAABPF6eVHga0pu1Od+9y02VR`
+Snapshot ID: `ZqLnAAAAAAAOLe7A9XKTDiSKwlcv/Gt2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,173 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,195 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 49 | [Adiós Pueblo de Ayacucho](https://open.spotify.com/track/6SFt64ANizj4v4ObRoD6Hw) | [Raúl García Zárate](https://open.spotify.com/artist/7E6mAOwao4FqBa10KSJWbq) | [Serie Mistura de Ritmos: Mistura Andina, Vol\. 1](https://open.spotify.com/album/3EOM9REL8cD4JP2GX162ra) | 2:51 |
 | 50 | [Pucay Punchochay](https://open.spotify.com/track/4BkniuKguT4KuXGW2Nv9su) | [Los Puquiales](https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn) | [Los Grandes del Folklore Peruano](https://open.spotify.com/album/5ZG4tBKt2aJqOtaX2qbuUF) | 2:47 |
 | 51 | [Koka kintucha](https://open.spotify.com/track/0GF5O4jv4zIrrV5EWNdSL1) | [Manuelcha Prado](https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22) | [Madre Andina](https://open.spotify.com/album/3QiXpzSp5X9J2IxfAP4eGe) | 3:58 |
-| 52 | [A los filos de un cuchillo](https://open.spotify.com/track/5r5uesUoq0BbQEG78GrDqB) | [Pastorita Huaracina](https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF), [Estrellita de Pomabamba](https://open.spotify.com/artist/6tnebocZfd2TonZ4j7zFkX), [Semilia Collas](https://open.spotify.com/artist/1HouieVvOiJi7ccoVEFRPc), [Pallasquinita](https://open.spotify.com/artist/7Jt2BKlQ4TjSYTOHLG7xZw) | [Huaynos corazon y alma](https://open.spotify.com/album/4pZd4WaXRsP3WdXKHB9MgZ) | 3:06 |
-| 53 | [La Chismosa](https://open.spotify.com/track/4VlswEsEPSWQHefPJoTNVd) | [Los Campesinos de Bambamarca](https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m) | [A..estilo propio y jaranero](https://open.spotify.com/album/3p3as9EChM0uXAteOZ2oZo) | 6:05 |
+| 52 | [La Chismosa](https://open.spotify.com/track/4VlswEsEPSWQHefPJoTNVd) | [Los Campesinos de Bambamarca](https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m) | [A..estilo propio y jaranero](https://open.spotify.com/album/3p3as9EChM0uXAteOZ2oZo) | 6:05 |
+| 53 | [A los filos de un cuchillo](https://open.spotify.com/track/5r5uesUoq0BbQEG78GrDqB) | [Pastorita Huaracina](https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF), [Estrellita de Pomabamba](https://open.spotify.com/artist/6tnebocZfd2TonZ4j7zFkX), [Semilia Collas](https://open.spotify.com/artist/1HouieVvOiJi7ccoVEFRPc), [Pallasquinita](https://open.spotify.com/artist/7Jt2BKlQ4TjSYTOHLG7xZw) | [Huaynos corazon y alma](https://open.spotify.com/album/4pZd4WaXRsP3WdXKHB9MgZ) | 3:06 |
 | 54 | [Ay Corazón](https://open.spotify.com/track/6qqOHFWe06Ly5OhFsupodk) | [Pelo D'Ambrosio](https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ) | [Lejos de Ti](https://open.spotify.com/album/0KdW2xDguNYr1ZZOVzDpQX) | 4:41 |
 | 55 | [Otra Vez me Equivoqué](https://open.spotify.com/track/6uwh5CgZBQzCYXYyUFaNws) | [Dúo Hnos\. Gaitán Castro](https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ) | [Amor amor](https://open.spotify.com/album/2tcYDcehVM8jK5KLUJKiEG) | 3:17 |
 | 56 | [Tu recuerdo](https://open.spotify.com/track/2J1YEqRzxQx7EWzlAdJxcv) | [Los Hermanos Curi](https://open.spotify.com/artist/6I7T17Ero1RtbBpSldSoW9) | [Puro Sentimiento](https://open.spotify.com/album/1uDpI3nWbjx1LgUkNqav7N) | 4:24 |

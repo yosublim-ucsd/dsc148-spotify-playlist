@@ -1,6 +1,6 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & The Night Sweats",
-  "num_followers": 488418,
+  "num_followers": 488416,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Way Back",
-        "url": "https://open.spotify.com/album/19HLhs8Ey6wysibfosbk0q"
-      },
-      "artists": [
-        {
-          "name": "The Lighthouse And The Whaler",
-          "url": "https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3"
-        }
-      ],
-      "duration_ms": 258058,
-      "name": "Way Back",
-      "url": "https://open.spotify.com/track/6Jt5iBTXNyW4fpG6W26K0G"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/1wUPDxnbQCUh3zv6SiAFhI"
       },
@@ -1575,22 +1559,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Game For Guessing (feat. Robert Ellis)",
-        "url": "https://open.spotify.com/album/2QmCRzZ6vaOZS2lnuH2KWx"
+        "name": "Way Back",
+        "url": "https://open.spotify.com/album/19HLhs8Ey6wysibfosbk0q"
       },
       "artists": [
         {
-          "name": "Zachary Williams",
-          "url": "https://open.spotify.com/artist/6u4hfometCwpGaIAanlTAv"
-        },
-        {
-          "name": "Robert Ellis",
-          "url": "https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE"
+          "name": "The Lighthouse And The Whaler",
+          "url": "https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3"
         }
       ],
-      "duration_ms": 181493,
-      "name": "Game For Guessing (feat. Robert Ellis)",
-      "url": "https://open.spotify.com/track/7gfAs8iAcGUN2ygd4HBEmq"
+      "duration_ms": 258058,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/6Jt5iBTXNyW4fpG6W26K0G"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1623,6 +1603,26 @@
       "duration_ms": 257826,
       "name": "Expectations",
       "url": "https://open.spotify.com/track/52Ckvs2feGZc9GI77kBfWq"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Game For Guessing (feat. Robert Ellis)",
+        "url": "https://open.spotify.com/album/2QmCRzZ6vaOZS2lnuH2KWx"
+      },
+      "artists": [
+        {
+          "name": "Zachary Williams",
+          "url": "https://open.spotify.com/artist/6u4hfometCwpGaIAanlTAv"
+        },
+        {
+          "name": "Robert Ellis",
+          "url": "https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "Game For Guessing (feat. Robert Ellis)",
+      "url": "https://open.spotify.com/track/7gfAs8iAcGUN2ygd4HBEmq"
     },
     {
       "added_at": "2024-07-12 04:00:00",

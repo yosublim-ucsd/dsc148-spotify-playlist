@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Il meglio della musica indipendente italiana! Cover: <a href="spotify:artist:0ez4Y0vHwlRCrqGIkChC3Q">TÄRA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,600 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,599 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

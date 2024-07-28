@@ -1,6 +1,6 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 106476,
+  "num_followers": 106477,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "X AMOR",
-        "url": "https://open.spotify.com/album/4RhwgeqH9jfFBPptPeM7P1"
+        "name": "Las Heridas",
+        "url": "https://open.spotify.com/album/1YbjaWrc4nPrynTDCvOIwd"
       },
       "artists": [
         {
-          "name": "FLORIAN",
-          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+          "name": "Francisca y Los Exploradores",
+          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
         }
       ],
-      "duration_ms": 242755,
-      "name": "X AMOR",
-      "url": "https://open.spotify.com/track/3dVxdzni1LpSrHY4trEbMK"
+      "duration_ms": 205522,
+      "name": "Las Heridas",
+      "url": "https://open.spotify.com/track/5tSRZ0kysfMalFuqqNT8XE"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1675,18 +1675,34 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Las Heridas",
-        "url": "https://open.spotify.com/album/1YbjaWrc4nPrynTDCvOIwd"
+        "name": "Tuna",
+        "url": "https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq"
       },
       "artists": [
         {
-          "name": "Francisca y Los Exploradores",
-          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
         }
       ],
-      "duration_ms": 205522,
-      "name": "Las Heridas",
-      "url": "https://open.spotify.com/track/5tSRZ0kysfMalFuqqNT8XE"
+      "duration_ms": 221250,
+      "name": "Tuna",
+      "url": "https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "X AMOR",
+        "url": "https://open.spotify.com/album/4RhwgeqH9jfFBPptPeM7P1"
+      },
+      "artists": [
+        {
+          "name": "FLORIAN",
+          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+        }
+      ],
+      "duration_ms": 242755,
+      "name": "X AMOR",
+      "url": "https://open.spotify.com/track/3dVxdzni1LpSrHY4trEbMK"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1711,18 +1727,18 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Tuna",
-        "url": "https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq"
+        "name": "Cu\u00e1ntas Veces M\u00e1s",
+        "url": "https://open.spotify.com/album/4qT91jTnhI8WklGt5putrF"
       },
       "artists": [
         {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
         }
       ],
-      "duration_ms": 221250,
-      "name": "Tuna",
-      "url": "https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv"
+      "duration_ms": 203000,
+      "name": "Cu\u00e1ntas Veces M\u00e1s",
+      "url": "https://open.spotify.com/track/20PCWULdClhxMbCzNEABSo"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1743,22 +1759,6 @@
       "duration_ms": 202655,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Cu\u00e1ntas Veces M\u00e1s",
-        "url": "https://open.spotify.com/album/4qT91jTnhI8WklGt5putrF"
-      },
-      "artists": [
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Cu\u00e1ntas Veces M\u00e1s",
-      "url": "https://open.spotify.com/track/20PCWULdClhxMbCzNEABSo"
     }
   ],
   "unique_name": "Amor Indie",

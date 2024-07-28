@@ -4,7 +4,7 @@
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-326 songs - 1 day 3 hr 26 min
+327 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Land of the Miracle](https://open.spotify.com/track/20H39ooCTJGA2Un2HqeE0T) | [Edguy](https://open.spotify.com/artist/3AGFqPP3gt5rMSvhR87Xxu) | [Monuments](https://open.spotify.com/album/0FqbEsI2QXEaDVGMxslJoa) | 6:33 | 2022-04-15 | 2022-06-18 |
 | [Last Drop Falls](https://open.spotify.com/track/4bSetRYOPYAMlLc9mgEGr0) | [Sonata Arctica](https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH) | [Silence](https://open.spotify.com/album/491aVcQHmKwGjVego5VI15) | 5:13 | 2022-04-15 |  |
 | [Lazarus](https://open.spotify.com/track/0OtXJQBLb7wPXL2XyN2cFW) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [Deadwing](https://open.spotify.com/album/2oQE67Gnc1GoMqoumvjPwN) | 4:18 | 2022-04-15 | 2023-12-08 |
+| [Lazarus](https://open.spotify.com/track/1EL8X3XUO27bksrv9cLvXE) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [Deadwing](https://open.spotify.com/album/5FSmyLosroHbPAqF7WX5Na) | 4:18 | 2024-06-10 |  |
 | [Life Eternal](https://open.spotify.com/track/5fXQmRFO1CDN04HtUVNCUh) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 3:27 | 2022-04-15 |  |
 | [Life Eternal](https://open.spotify.com/track/7qkKJFIYBsLEVOjgAwqTlz) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 3:27 | 2022-04-15 | 2024-04-19 |
 | [Lonely Day](https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Hypnotize](https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3) | 2:47 | 2022-04-15 |  |
@@ -175,7 +176,7 @@
 | [Mama Said](https://open.spotify.com/track/4ePx4Js87KSIVMLL4RD7vX) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/5rI3pfrpvmdYtGAsBwaGec) | 5:19 | 2022-04-15 | 2022-11-13 |
 | [Mama Said](https://open.spotify.com/track/6bmXQfPxt5K3aQ6exRM33V) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/2y3CggQI4N4EpMCGNHR56S) | 5:19 | 2022-04-15 | 2022-07-29 |
 | [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 | 2022-04-15 | 2024-06-11 |
-| [Man of Sorrows \- 2001 Remaster](https://open.spotify.com/track/3aKlrWvtDCJ13npobUO5zg) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [The Best of Bruce Dickinson](https://open.spotify.com/album/0yPd9nZ543MWHGoGHcFKRR) | 5:20 | 2022-04-15 |  |
+| [Man of Sorrows \- 2001 Remaster](https://open.spotify.com/track/3aKlrWvtDCJ13npobUO5zg) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [The Best of Bruce Dickinson](https://open.spotify.com/album/0yPd9nZ543MWHGoGHcFKRR) | 5:20 | 2022-04-15 | 2024-07-28 |
 | [Master of the Wind](https://open.spotify.com/track/2rDIYysZGyx68TWlBdvjqk) | [Manowar](https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ) | [The Triumph of Steel](https://open.spotify.com/album/1uVLEeDuKWgOazttohIOvd) | 5:26 | 2022-04-15 | 2024-06-11 |
 | [Maybe It’s Time \(feat\. Corey Taylor, Joe Elliott, Brantley Gilbert, Ivan Moody, Slash, AWOLNATION, Tommy Vext\)](https://open.spotify.com/track/1rptK1oec3gjHpzzrxHyln) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Joe Elliott](https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Ivan Moody](https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Tommy Vext](https://open.spotify.com/artist/3tgBwjfL3ycAT49VVpkfnE) | [Maybe It’s Time \(feat\. Corey Taylor, Joe Elliott, Brantley Gilbert, Ivan Moody, Slash, AWOLNATION, Tommy Vext\)](https://open.spotify.com/album/4ezpBhE0MTqAeuSPxoY4dY) | 4:14 | 2022-04-15 |  |
 | [Memories](https://open.spotify.com/track/17AtQU2FNV14jSGpPfhejn) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/7Mqb9JDLwwr4kLuNXFnuJZ) | 3:51 | 2024-06-10 |  |

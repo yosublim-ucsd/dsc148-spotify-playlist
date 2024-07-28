@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 
 > time\-stretching granular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,364 likes - 100 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,375 likes - 100 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 85 | [Fern Flowers](https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx) | [Lutto Lento](https://open.spotify.com/artist/5u7ZnbVxxcImkr5fx8GJta) | [LEGENDO](https://open.spotify.com/album/62N0giCXIgepaMQl864MIk) | 4:32 |
 | 86 | [I Can't Die as Well](https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45) | [Fire\-Toolz](https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o) | [I Can't Die as Well](https://open.spotify.com/album/2EnPEXGeSR82AuXVVUA7ok) | 2:25 |
 | 87 | [XO 4 \- Wolf 1061c](https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF) | [GCOM](https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI) | [E2\-XO](https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd) | 7:55 |
-| 88 | [Muckbirth](https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Muckbirth](https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y) | 3:17 |
-| 89 | [Double Fifths](https://open.spotify.com/track/4cOrbFr0M4PDjmeKxpZHTe) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour \(10th Anniversary Edition\)](https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp) | 2:11 |
+| 88 | [Double Fifths](https://open.spotify.com/track/4cOrbFr0M4PDjmeKxpZHTe) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour \(10th Anniversary Edition\)](https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp) | 2:11 |
+| 89 | [Muckbirth](https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Muckbirth](https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y) | 3:17 |
 | 90 | [Second Love](https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl) | [Isa Gordon](https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH) | [For You Only](https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr) | 3:02 |
 | 91 | [Röschen \- Edit](https://open.spotify.com/track/7pbORTNPq5NspCrLEYuoI6) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [Röschen](https://open.spotify.com/album/4Rfa43vE7rRpU51Q5UIDEv) | 3:19 |
 | 92 | [Park Line](https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:11 |
 | 93 | [Wiegenmusik](https://open.spotify.com/track/2iiaNKiT2UG0cKMJ6OiwCA) | [Simon Lovermann](https://open.spotify.com/artist/2nWefmRaZ5x1QNWjbPD7xr) | [Wiegenmusik / Constant Structure](https://open.spotify.com/album/4FGpW60vq60Y4K8CFF9tKJ) | 2:32 |
 | 94 | [Resounding](https://open.spotify.com/track/4tWEcrIZeSAwFUr06k8gWs) | [Hotspring](https://open.spotify.com/artist/3QSOFV5VWDB1pbmlpUof4G) | [Obit For Sunshade](https://open.spotify.com/album/7dclubLbsPj645Q0kHWuK2) | 2:51 |
 | 95 | [Was Du Suchst](https://open.spotify.com/track/5XcMS5s2ryoGrC3EBWlN3G) | [Tiefe Wasser Berlin](https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3) | [Was Du Suchst](https://open.spotify.com/album/7f3jRpt9Ps1nG9VG4AlOLc) | 7:30 |
-| 96 | [sssssmilinggggg](https://open.spotify.com/track/6yTewVjFHvPBNyRliPdQOs) | [Kaho Matsui](https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU) | [sssssmilinggggg](https://open.spotify.com/album/2gC9JUs5tlGBgopNouIg7v) | 6:44 |
-| 97 | [Riding Metal Mosquitos](https://open.spotify.com/track/4KXTdLEJkgrZ71QHyxThJ3) | [Anders Ilar](https://open.spotify.com/artist/7CM4nBFQursLXbE4yRXRTF) | [Nightwidth](https://open.spotify.com/album/4JTOB1bSYPcHjy5MtliN1q) | 7:19 |
-| 98 | [Vanda](https://open.spotify.com/track/5GYuOUZ8XIFYgQRfiyNSz7) | [Auscultation](https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ) | [L'étreinte Imaginaire](https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn) | 10:17 |
-| 99 | [Я не хочу знать](https://open.spotify.com/track/198Fm6IlIjBl0bnJRaXQ8B) | [Gilb'r](https://open.spotify.com/artist/2KqugPbttJDL3ZdRUTpU4x), [Cosmic Neman](https://open.spotify.com/artist/7gdIA6xBjnLNBBIXyBKGbn) | [On danse comme des fous](https://open.spotify.com/album/5mCWVbQXAd2kMKS0mj3HMU) | 3:28 |
-| 100 | [NRG Remains](https://open.spotify.com/track/0OsNfb4otfIOdHSUt40ecP) | [Verraco](https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1) | [Grial](https://open.spotify.com/album/0plvaGqOtMeRPkzUwDgd3X) | 2:56 |
+| 96 | [Riding Metal Mosquitos](https://open.spotify.com/track/4KXTdLEJkgrZ71QHyxThJ3) | [Anders Ilar](https://open.spotify.com/artist/7CM4nBFQursLXbE4yRXRTF) | [Nightwidth](https://open.spotify.com/album/4JTOB1bSYPcHjy5MtliN1q) | 7:19 |
+| 97 | [sssssmilinggggg](https://open.spotify.com/track/6yTewVjFHvPBNyRliPdQOs) | [Kaho Matsui](https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU) | [sssssmilinggggg](https://open.spotify.com/album/2gC9JUs5tlGBgopNouIg7v) | 6:44 |
+| 98 | [Я не хочу знать](https://open.spotify.com/track/198Fm6IlIjBl0bnJRaXQ8B) | [Gilb'r](https://open.spotify.com/artist/2KqugPbttJDL3ZdRUTpU4x), [Cosmic Neman](https://open.spotify.com/artist/7gdIA6xBjnLNBBIXyBKGbn) | [On danse comme des fous](https://open.spotify.com/album/5mCWVbQXAd2kMKS0mj3HMU) | 3:28 |
+| 99 | [Vanda](https://open.spotify.com/track/5GYuOUZ8XIFYgQRfiyNSz7) | [Auscultation](https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ) | [L'étreinte Imaginaire](https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn) | 10:17 |
+| 100 | [Endless Staircase](https://open.spotify.com/track/2NfGCYWB1LpLkWuYfDiT0J) | [Pepe Mogt](https://open.spotify.com/artist/7m5gWKlKnqR5vRBNXSFJF5) | [Endless Staircase](https://open.spotify.com/album/5BoOguiBCmvDMOjxFFP62m) | 5:31 |
 
 Snapshot ID: `ZozZSQAAAAAIllqJBHINSp/e6y3uv8KT`

@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 544309,
+  "num_followers": 544308,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Heaven :x: Hell",
-        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 186831,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Lights And Sounds",
         "url": "https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 208186,
       "name": "Lights And Sounds",
       "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Heaven :x: Hell",
+        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 186831,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA"
+        "name": "God's Country",
+        "url": "https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR"
       },
       "artists": [
         {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
         }
       ],
-      "duration_ms": 198493,
-      "name": "The Hell Song",
-      "url": "https://open.spotify.com/track/1hPftDY3fsBXQuZvzShMYA"
+      "duration_ms": 135541,
+      "name": "God's Country",
+      "url": "https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "God's Country",
-        "url": "https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR"
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA"
       },
       "artists": [
         {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 135541,
-      "name": "God's Country",
-      "url": "https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d"
+      "duration_ms": 198493,
+      "name": "The Hell Song",
+      "url": "https://open.spotify.com/track/1hPftDY3fsBXQuZvzShMYA"
     },
     {
       "added_at": "2024-07-19 11:53:42",

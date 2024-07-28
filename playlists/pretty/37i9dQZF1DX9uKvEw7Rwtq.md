@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,683 likes - 100 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,706 likes - 100 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 91 | [Serenity](https://open.spotify.com/track/1rJTJnb9jFkSetUSoIKOvz) | [Ezequiel Calvo](https://open.spotify.com/artist/5WBRIgdYpUWKbQ1Hr4e07K) | [Serenity](https://open.spotify.com/album/0qLppbcnPxM0EcGFNZzAji) | 8:00 |
 | 92 | [Skyline Drive](https://open.spotify.com/track/4WQAWGhJB358e9g4wTS3pI) | [Stubbleman](https://open.spotify.com/artist/0Fu1gmQ4PZ1S5anr0l2Cov) | [The Skyline EP](https://open.spotify.com/album/1ytb7WT8k3J4kNVlPWYtPB) | 4:30 |
 | 93 | [Poison Tree](https://open.spotify.com/track/6RDVwKLpBBEksWdp9jwBlD) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/3vMDgHTapJG43G5rrBg3SE) | 3:16 |
-| 94 | [The Light](https://open.spotify.com/track/4Qd40duKkAnE3XG0DN64Qy) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Into the Blue Again](https://open.spotify.com/album/3Xos06RQ2EgcIUC0Tqa73r) | 4:29 |
-| 95 | [Dusk](https://open.spotify.com/track/3iGE1kGYpyDTHVSVTS55os) | [Sleepsleeprepeat](https://open.spotify.com/artist/5y1SFoys6rcYo6dj6rmGPR), [Perry Frank](https://open.spotify.com/artist/55vXnVPAEwec4swGa4P1GN) | [Dusk](https://open.spotify.com/album/3AKrk1nvaTNAxwb17DEheV) | 4:22 |
+| 94 | [Dusk](https://open.spotify.com/track/3iGE1kGYpyDTHVSVTS55os) | [Sleepsleeprepeat](https://open.spotify.com/artist/5y1SFoys6rcYo6dj6rmGPR), [Perry Frank](https://open.spotify.com/artist/55vXnVPAEwec4swGa4P1GN) | [Dusk](https://open.spotify.com/album/3AKrk1nvaTNAxwb17DEheV) | 4:22 |
+| 95 | [The Light](https://open.spotify.com/track/4Qd40duKkAnE3XG0DN64Qy) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Into the Blue Again](https://open.spotify.com/album/3Xos06RQ2EgcIUC0Tqa73r) | 4:29 |
 | 96 | [Then the Quiet Explosion](https://open.spotify.com/track/20Q4MigpvCI5tR0y3BrTi2) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Oblivion Hymns](https://open.spotify.com/album/5ee8rFv8tcO7FZXCgwbzhs) | 6:43 |
 | 97 | [Nothing It Can](https://open.spotify.com/track/4ecwrnFDSJLlLyZlEH7YGK) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/2ep9D35aw04xUbb8crArYg) | 4:47 |
 | 98 | [Green Arrow](https://open.spotify.com/track/0jgsq6l1yMZIlJX4AFXAgA) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3NFNNMIWnByvVPvCf7LsRU) | 5:43 |

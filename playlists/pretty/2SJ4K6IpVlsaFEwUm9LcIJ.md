@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: july\-aug 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 20,661 likes - 28 songs - 1 hr 35 min
+[margeaux](https://open.spotify.com/user/1220511975) - 20,668 likes - 30 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,5 +36,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 26 | [Pawns](https://open.spotify.com/track/4gjt4fvbif0RIu3ifEbXbe) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [The Essential John Moods](https://open.spotify.com/album/6yluHZ4EXwXBrjecaBcgwP) | 2:47 |
 | 27 | [Today’s Iconoclast](https://open.spotify.com/track/2kqQgHDm2Vz21n982K7KQq) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Today's Iconoclast](https://open.spotify.com/album/5AKlzzw0Nqoq0ZB4gfzsec) | 3:03 |
 | 28 | [Wheeling](https://open.spotify.com/track/2uySYaNa2fZhuUZIlCg6pH) | [Big Bend](https://open.spotify.com/artist/3wMxhIZL4RU4vomEuKlu8G) | [Wheeling](https://open.spotify.com/album/3ZZWP0kXZ3c4nMDyufC5W0) | 4:04 |
+| 29 | [The Beauty of the Duty](https://open.spotify.com/track/0G7ee8kSG4zjvxLF0BF6eU) | [Molly Nilsson](https://open.spotify.com/artist/2PDepyCtfybWn5UJv0DmKw) | [Un\-American Activities](https://open.spotify.com/album/6BWJZfps9TMudDT2CL0UhI) | 2:40 |
+| 30 | [Gem Lingo \(ovr now\)](https://open.spotify.com/track/6dSqM0tWJPlchpmGrEwC1c) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Gem Lingo \(ovr now\)](https://open.spotify.com/album/3r4QpzGNuewu0vLvapRZS7) | 3:50 |
 
-Snapshot ID: `AAAKwwpbyRrznrWX+M73suF9R61ZXMR+`
+Snapshot ID: `AAAKxeJv/lmgIw6J8hHYdSpncVNm201c`

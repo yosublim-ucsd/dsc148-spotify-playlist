@@ -34004,7 +34004,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-28",
       "duration_ms": 244266,
       "name": "Flopped on the flip",
       "url": "https://open.spotify.com/track/7DS0FGgPdiP9INzbh21zyb"
@@ -42511,6 +42511,28 @@
     },
     {
       "album": {
+        "name": "Hate Me",
+        "url": "https://open.spotify.com/album/5MqrNKRQ1OjwtSiXjrzkjy"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0jRzRAdDRdEtz2advDjqx5"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161259,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/0QpiyJbgWUjyAQNqjIA5tO"
+    },
+    {
+      "album": {
         "name": "FUNERAL",
         "url": "https://open.spotify.com/album/3NHtQvtxHyS74U5K8pJmcZ"
       },
@@ -42972,6 +42994,28 @@
       "duration_ms": 137195,
       "name": "Headshots",
       "url": "https://open.spotify.com/track/53e9gQYHBMAJoFYN7Gf0wj"
+    },
+    {
+      "album": {
+        "name": "DIAMANTE",
+        "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/5hrnlL3rqxLrkB8UQynmxh"
     },
     {
       "album": {
@@ -80782,7 +80826,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-28",
       "duration_ms": 136767,
       "name": "Rag\u00f9",
       "url": "https://open.spotify.com/track/7aUVgyMYfSJGToawDJEScM"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: Showdemcamp, The cavemen & nsikak david
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,488 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,498 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 22 | [Divine Pree](https://open.spotify.com/track/1vk777z4n2WWmSENVpCEI7) | [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Divine Pree](https://open.spotify.com/album/2TaM26f7wHD6rVgsnRDkQt) | 2:39 |
 | 23 | [Fire](https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Hat\-Trick](https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo) | 2:17 |
 | 24 | [Evidence](https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Evidence](https://open.spotify.com/album/1aFBCKDhwC9H6GidbfYvn4) | 1:54 |
-| 25 | [O.U.A.T](https://open.spotify.com/track/6W87j9MnByZwdNPmXPlAjn) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [O.U.A.T](https://open.spotify.com/album/1qrmA17zsvEfAbB5Ba5l0b) | 2:21 |
-| 26 | [Jangrova \(feat\. Tribal Mark\)](https://open.spotify.com/track/6D4MeOwamBjPt1FI3l3Uzs) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Tribal Mark](https://open.spotify.com/artist/5yIgGM9s6jw4L0g8CmD8dT) | [Jangrova \(feat\. Tribal Mark\)](https://open.spotify.com/album/6eLBhDWVnZZPvtPW1S9Irp) | 2:46 |
+| 25 | [Jangrova \(feat\. Tribal Mark\)](https://open.spotify.com/track/6D4MeOwamBjPt1FI3l3Uzs) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Tribal Mark](https://open.spotify.com/artist/5yIgGM9s6jw4L0g8CmD8dT) | [Jangrova \(feat\. Tribal Mark\)](https://open.spotify.com/album/6eLBhDWVnZZPvtPW1S9Irp) | 2:46 |
+| 26 | [O.U.A.T](https://open.spotify.com/track/6W87j9MnByZwdNPmXPlAjn) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [O.U.A.T](https://open.spotify.com/album/1qrmA17zsvEfAbB5Ba5l0b) | 2:21 |
 | 27 | [LOVE OR LAMBA](https://open.spotify.com/track/4jkIybqZVorJl9tUsurxLH) | [Kobi Jonz](https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR) | [LOVE OR LAMBA](https://open.spotify.com/album/0B7OiCfdcXs7a68aYvm6wP) | 2:33 |
 | 28 | [Mamba \(With Bella Shmurda & Seyi Vibez\)](https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2) | [larrylanes](https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Mamba \(With Bella Shmurda & Seyi Vibez\)](https://open.spotify.com/album/2imNyNmpOrJktWi5eQNLY1) | 2:27 |
 | 29 | [DREAMS II](https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [DREAMS II](https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo) | 3:57 |

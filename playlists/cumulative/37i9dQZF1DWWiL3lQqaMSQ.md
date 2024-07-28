@@ -2,7 +2,7 @@
 
 ### [Stellar Awards 2024](https://open.spotify.com/playlist/37i9dQZF1DWWiL3lQqaMSQ)
 
-> All of the 39th <a href="https://www.thestellarawards.com/index.html">Stellar Awards</a> nominees in one playlist!  Cover: <a href="spotify:artist:1aNtFg4D7HdF8jOppyKpUS">Pastor Mike Jr.</a>
+> Congratulations to all the winners and nominees of the 39th <a href="https://www.thestellarawards.com/index.html">Stellar Awards!</a> Cover: <a href="spotify:artist:1aNtFg4D7HdF8jOppyKpUS">Pastor Mike Jr.</a>
 
 210 songs - 17 hr 23 min
 

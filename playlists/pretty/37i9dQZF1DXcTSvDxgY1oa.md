@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTSvDxgY1oa.md) - [plain]
 
 > geosy op de cover van de Popronde 2024\. Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,682 likes - 93 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,683 likes - 93 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,15 +46,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTSvDxgY1oa.md) - [plain]
 | 36 | [The Hanging Clown](https://open.spotify.com/track/4hdOCUzRA6xT8KlfdZPLlQ) | [Outahead](https://open.spotify.com/artist/2EcQr9GFJPn3vQNvWf23jJ) | [The Hanging Clown](https://open.spotify.com/album/0N5ymTiuUtpvnkHxBD92H4) | 2:57 |
 | 37 | [Mama Dankjewel](https://open.spotify.com/track/59YKXDKbiCKeFE34dP2AFK) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [Mama Dankjewel](https://open.spotify.com/album/4ggIWKdq8bfW2cO8T9SduC) | 2:50 |
 | 38 | [Pieces](https://open.spotify.com/track/3pqPxWrCyUNb2wNhjF7qD8) | [Isabel van Gelder](https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP) | [Pieces](https://open.spotify.com/album/5w0aKShwOj6hWC1w7I0z6O) | 3:16 |
-| 39 | [Way Too Deep](https://open.spotify.com/track/1LAlC9JwewGe2aj9brUxrC) | [HALF CAB](https://open.spotify.com/artist/14iq2cRLRv8KvgXvFHaw34) | [Way Too Deep](https://open.spotify.com/album/4NTIBkGxuLScx1ouZHgVEV) | 2:37 |
-| 40 | [FUEGO](https://open.spotify.com/track/28hQYkZ3uRTXZE1UoRH7CB) | [QUANZA](https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy) | [FUEGO](https://open.spotify.com/album/5q6I6ow3dPKubgxi4kbnRS) | 3:40 |
+| 39 | [FUEGO](https://open.spotify.com/track/28hQYkZ3uRTXZE1UoRH7CB) | [QUANZA](https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy) | [FUEGO](https://open.spotify.com/album/5q6I6ow3dPKubgxi4kbnRS) | 3:40 |
+| 40 | [Way Too Deep](https://open.spotify.com/track/1LAlC9JwewGe2aj9brUxrC) | [HALF CAB](https://open.spotify.com/artist/14iq2cRLRv8KvgXvFHaw34) | [Way Too Deep](https://open.spotify.com/album/4NTIBkGxuLScx1ouZHgVEV) | 2:37 |
 | 41 | [A Price To Pay](https://open.spotify.com/track/6V3fXDLceIQhV3oM6Zr9s7) | [Changing Tides](https://open.spotify.com/artist/4FDVjqH3XqrmfVpB4N5Hqu) | [A Price To Pay](https://open.spotify.com/album/0VFNHdKroUHNy1RAPaPMcC) | 3:11 |
 | 42 | [Inter\-Minus\-Net](https://open.spotify.com/track/5IPQOYGSBLF6pO2KNmcxvM) | [Gespuys](https://open.spotify.com/artist/0ZhdE8XU91DF4i0trcK5b2) | [Inter\-Minus\-Net](https://open.spotify.com/album/01I1uWAPQFE4UEtc6Sbozf) | 2:53 |
 | 43 | [Take Me Somewhere Nice](https://open.spotify.com/track/5XzKAjlorf06g0LWQE3VYV) | [32elephants](https://open.spotify.com/artist/1Gn8d7ZMm7DysJLkJj3NR3) | [Take Me Somewhere Nice](https://open.spotify.com/album/7HypvdZKOCDMUFjKuhpa8W) | 2:55 |
 | 44 | [Wildflower](https://open.spotify.com/track/5HWcdjN8mdD2B0jbn96aoT) | [Zuster Zonnebloem](https://open.spotify.com/artist/3fQmJ7btxNtEE7TmkltLRe) | [Show Don't Tell](https://open.spotify.com/album/1xUluMn9ZNIrWRF505SLIV) | 3:57 |
-| 45 | [Finding Myself Alone](https://open.spotify.com/track/076o9FPC0h6CjzHpqQpJXy) | [Henk Johannes](https://open.spotify.com/artist/3CZHiwnbmEiNa5WqjkPUwG) | [Finding Myself Alone](https://open.spotify.com/album/4udmNbEt3PZUAXUUmzd2q1) | 3:42 |
-| 46 | [Come On In](https://open.spotify.com/track/68Zcn2RvSbtRhldSRDfxsF) | [Sonic Whip](https://open.spotify.com/artist/2RydJze7DD9pybPixyXRan) | [Come On In](https://open.spotify.com/album/05uzU3ddIhHgvA50dNfzXs) | 3:29 |
-| 47 | [Good Company](https://open.spotify.com/track/1VeEoIo2F4ofmtQsQM6Qf9) | [Future Husband](https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI) | [Good Company](https://open.spotify.com/album/6nCiQeFyO9P57ltTcom8h5) | 3:56 |
+| 45 | [Come On In](https://open.spotify.com/track/68Zcn2RvSbtRhldSRDfxsF) | [Sonic Whip](https://open.spotify.com/artist/2RydJze7DD9pybPixyXRan) | [Come On In](https://open.spotify.com/album/05uzU3ddIhHgvA50dNfzXs) | 3:29 |
+| 46 | [Good Company](https://open.spotify.com/track/1VeEoIo2F4ofmtQsQM6Qf9) | [Future Husband](https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI) | [Good Company](https://open.spotify.com/album/6nCiQeFyO9P57ltTcom8h5) | 3:56 |
+| 47 | [Finding Myself Alone](https://open.spotify.com/track/076o9FPC0h6CjzHpqQpJXy) | [Henk Johannes](https://open.spotify.com/artist/3CZHiwnbmEiNa5WqjkPUwG) | [Finding Myself Alone](https://open.spotify.com/album/4udmNbEt3PZUAXUUmzd2q1) | 3:42 |
 | 48 | [Everything I Need Is Here](https://open.spotify.com/track/1d2uzY2eIhYA1n7rcZpo2u) | [Melanie Ryan](https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4) | [Everything I Need Is Here](https://open.spotify.com/album/7twIkHqsj1l15RLves3bls) | 3:26 |
 | 49 | [Waiting for You \- Edit](https://open.spotify.com/track/26qMH9vOtdcXcNywg1tpJ7) | [Elsa Birgitta Bekman](https://open.spotify.com/artist/64j66JxpzAf7c81xe1LgwY) | [Waiting for You](https://open.spotify.com/album/4qWy88xzbtgneQ3USXZWLh) | 3:56 |
 | 50 | [Fool](https://open.spotify.com/track/5nzLpp5vDgXj4J70Hi0aXX) | [Zo Lief](https://open.spotify.com/artist/655lv153aeepabVfhjnGwq) | [Fool](https://open.spotify.com/album/5vDmmQHLJZimZ0TqamqwK3) | 2:58 |
@@ -67,19 +67,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTSvDxgY1oa.md) - [plain]
 | 57 | [Niks Doen](https://open.spotify.com/track/1Np2YDk3Ti4DnMV3tTrSOJ) | [Gijsjaradijsja](https://open.spotify.com/artist/7JOfgcKsCDFyGrgIOFDxZZ) | [Niks Doen](https://open.spotify.com/album/4F6tgYvqXPDj6r5eQmhEkZ) | 2:08 |
 | 58 | [Then You Know](https://open.spotify.com/track/3wloUn32vK3P5sX0VV5wxj) | [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Then You Know](https://open.spotify.com/album/33szRZCRaCeSIPXhmzsEn2) | 4:47 |
 | 59 | [Melanotan](https://open.spotify.com/track/5xfBI89BbIwHcwJ8SSiL2L) | [Cardigan Inn](https://open.spotify.com/artist/0ejgubWGr4S1CiUnLVTuL2) | [Melanotan \- Detonate](https://open.spotify.com/album/3UP1BYVn91UiOg7ISywkg7) | 2:22 |
-| 60 | [iK](https://open.spotify.com/track/0fmFEsGfXtRZeQxdRQRf3E) | [BUG](https://open.spotify.com/artist/0lslN56rA77D2Tosl0YmZJ) | [iK](https://open.spotify.com/album/3fcGgsGebY0eElqnlaVGNp) | 2:10 |
-| 61 | [Into the Blue](https://open.spotify.com/track/65HNcEd8xrfLA893lAXh5s) | [Yan Lâle](https://open.spotify.com/artist/6xm0mtCIhOL5DaYnit5tVg) | [Into the Blue](https://open.spotify.com/album/4LOWNnDcE1sQYwH5OF2IYs) | 5:01 |
-| 62 | [Haya](https://open.spotify.com/track/653F68ka124m6JdlhwFWzU) | [Guusje Walstra](https://open.spotify.com/artist/2h8ZoYIdrfKTAHVNVIqjlk) | [Haya](https://open.spotify.com/album/5devPsxik1sqnsXgd2Qi3f) | 2:55 |
-| 63 | [Hot Mess](https://open.spotify.com/track/4iOuFrWCo1Nr3LyXLWgcGz) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Hot Mess](https://open.spotify.com/album/1xEMS9J4vMOvzUtL4zg20x) | 1:58 |
-| 64 | [Los Anarquistitas](https://open.spotify.com/track/3sBVgzLUoVNmR2lLspUzC8) | [shoom](https://open.spotify.com/artist/5GwJf4rmQaNtNKph66vuxw) | [Los Anarquistitas](https://open.spotify.com/album/0Sc7klbJtL1CHgPpRVL8P2) | 6:35 |
+| 60 | [Hot Mess](https://open.spotify.com/track/4iOuFrWCo1Nr3LyXLWgcGz) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Hot Mess](https://open.spotify.com/album/1xEMS9J4vMOvzUtL4zg20x) | 1:58 |
+| 61 | [iK](https://open.spotify.com/track/0fmFEsGfXtRZeQxdRQRf3E) | [BUG](https://open.spotify.com/artist/0lslN56rA77D2Tosl0YmZJ) | [iK](https://open.spotify.com/album/3fcGgsGebY0eElqnlaVGNp) | 2:10 |
+| 62 | [Into the Blue](https://open.spotify.com/track/65HNcEd8xrfLA893lAXh5s) | [Yan Lâle](https://open.spotify.com/artist/6xm0mtCIhOL5DaYnit5tVg) | [Into the Blue](https://open.spotify.com/album/4LOWNnDcE1sQYwH5OF2IYs) | 5:01 |
+| 63 | [Haya](https://open.spotify.com/track/653F68ka124m6JdlhwFWzU) | [Guusje Walstra](https://open.spotify.com/artist/2h8ZoYIdrfKTAHVNVIqjlk) | [Haya](https://open.spotify.com/album/5devPsxik1sqnsXgd2Qi3f) | 2:55 |
+| 64 | [Even later in de tuin](https://open.spotify.com/track/1EpMGlnDB4UuYIBNkdrenA) | [Misprint](https://open.spotify.com/artist/7KWqIJRyiEqmjguook7ypX) | [Even later in de tuin](https://open.spotify.com/album/4kacum9sNlrE50wYFZJeG9) | 2:40 |
 | 65 | [Lastig](https://open.spotify.com/track/0sKlW9AFXlHAaxGSX2sfrc) | [Cataleya](https://open.spotify.com/artist/6cVGrSZhsRJZjcAY39yY38) | [Lastig](https://open.spotify.com/album/7xQYjJt2Ctibjl9lCi0Sa4) | 2:13 |
-| 66 | [Daisy](https://open.spotify.com/track/125SWXIRRlJ8bvXt4ASu5D) | [NORE](https://open.spotify.com/artist/1TY6Dy5en43uAZPIcXql0Q) | [Daisy](https://open.spotify.com/album/4CfgIkkljskC7H2F9MTniA) | 2:47 |
-| 67 | [Even later in de tuin](https://open.spotify.com/track/1EpMGlnDB4UuYIBNkdrenA) | [Misprint](https://open.spotify.com/artist/7KWqIJRyiEqmjguook7ypX) | [Even later in de tuin](https://open.spotify.com/album/4kacum9sNlrE50wYFZJeG9) | 2:40 |
+| 66 | [Los Anarquistitas](https://open.spotify.com/track/3sBVgzLUoVNmR2lLspUzC8) | [shoom](https://open.spotify.com/artist/5GwJf4rmQaNtNKph66vuxw) | [Los Anarquistitas](https://open.spotify.com/album/0Sc7klbJtL1CHgPpRVL8P2) | 6:35 |
+| 67 | [Daisy](https://open.spotify.com/track/125SWXIRRlJ8bvXt4ASu5D) | [NORE](https://open.spotify.com/artist/1TY6Dy5en43uAZPIcXql0Q) | [Daisy](https://open.spotify.com/album/4CfgIkkljskC7H2F9MTniA) | 2:47 |
 | 68 | [Flat Caps And Rain Macs](https://open.spotify.com/track/6gEAJOiTe9Gp55wLUulb6D) | [Lorem Ipsum](https://open.spotify.com/artist/58ovPqbyZ6LZD3kpE2lOlT) | [Flat Caps And Rain Macs](https://open.spotify.com/album/5aCa25kATuBbnqu10kG8rw) | 4:00 |
 | 69 | [Satellite](https://open.spotify.com/track/0oadjfzZvkbgP7ob0T9ul1) | [Hana Fatur](https://open.spotify.com/artist/1KrrllH0xZ2LBhgcxNMidX) | [Satellite](https://open.spotify.com/album/2PmJb1X6naVRybkZADPjyj) | 4:06 |
-| 70 | [Zwemmen In Het Geld](https://open.spotify.com/track/0GKRQlXAFUEFWi2mc5eqb3) | [Zeevlinder](https://open.spotify.com/artist/1SQxjouaMdQ33xLh15463l) | [Zwemmen In Het Geld](https://open.spotify.com/album/0jZgZPtXtb0EnLxNeH9qlj) | 2:50 |
-| 71 | [In M'n Hoofd](https://open.spotify.com/track/2ky5w4vqqhH5g1V7oh7ouR) | [So\-Fi](https://open.spotify.com/artist/6TIw842G1nVz2xEhU9YlBs) | [Maar Verder Gaat Het Goed](https://open.spotify.com/album/6YVWLc3C8jrD0HHczwN1lO) | 2:53 |
-| 72 | [I Can't Lie](https://open.spotify.com/track/0CLUGkolqLXfB2jtLYU4co) | [SAMS](https://open.spotify.com/artist/2xGOxcVaKQ9hXVdLAbywGT) | [I Can't Lie](https://open.spotify.com/album/1pDKBwfHmfCr5ycL7qnoGN) | 2:44 |
+| 70 | [I Can't Lie](https://open.spotify.com/track/0CLUGkolqLXfB2jtLYU4co) | [SAMS](https://open.spotify.com/artist/2xGOxcVaKQ9hXVdLAbywGT) | [I Can't Lie](https://open.spotify.com/album/1pDKBwfHmfCr5ycL7qnoGN) | 2:44 |
+| 71 | [Zwemmen In Het Geld](https://open.spotify.com/track/0GKRQlXAFUEFWi2mc5eqb3) | [Zeevlinder](https://open.spotify.com/artist/1SQxjouaMdQ33xLh15463l) | [Zwemmen In Het Geld](https://open.spotify.com/album/0jZgZPtXtb0EnLxNeH9qlj) | 2:50 |
+| 72 | [In M'n Hoofd](https://open.spotify.com/track/2ky5w4vqqhH5g1V7oh7ouR) | [So\-Fi](https://open.spotify.com/artist/6TIw842G1nVz2xEhU9YlBs) | [Maar Verder Gaat Het Goed](https://open.spotify.com/album/6YVWLc3C8jrD0HHczwN1lO) | 2:53 |
 | 73 | [IK WIL EEN PORSCHE](https://open.spotify.com/track/7kE1folhSAAu0RWjCQPqzh) | [Viccens](https://open.spotify.com/artist/2K8dGC0TSoOaL4DpuoZBB7) | [IK WIL EEN PORSCHE](https://open.spotify.com/album/2t3zTQB3anbtFj9dTiAwPr) | 2:06 |
 | 74 | [Titanomachy](https://open.spotify.com/track/3Iws68nj1dBXQy3siGYOuM) | [Man as Plague](https://open.spotify.com/artist/3cFPT1tw7lNNW2I35OUiI4) | [Titanomachy](https://open.spotify.com/album/5l6XiWQn8o8QOOuDHu3mhf) | 3:40 |
 | 75 | [Danse lunaire](https://open.spotify.com/track/6xaD7BY0O0w4nF6KLnAerp) | [Carmen Jaci](https://open.spotify.com/artist/5hvEJlfyb8DCKRNIsCHSv3) | [Happy Child](https://open.spotify.com/album/2uF3BVy1VWtmJhwwuazAXK) | 4:58 |

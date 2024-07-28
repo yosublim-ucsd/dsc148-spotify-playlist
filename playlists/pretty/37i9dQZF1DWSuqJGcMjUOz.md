@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > Découvrez les artistes à l'affiche de l’édition 2024 des Francos de Montréal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,282 likes - 125 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,284 likes - 125 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 78 | [Écoute](https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Et on pleurera ensemble](https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM) | 2:31 |
 | 79 | [Le monde est fou](https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Le monde est fou](https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6) | 4:04 |
 | 80 | [Anomie](https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [À demain peut\-être](https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW) | 2:59 |
-| 81 | [Polymorphe](https://open.spotify.com/track/2A8mCfjcGkxaAqnSEhCkwJ) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Oniromancie](https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI) | 3:36 |
-| 82 | [Sac de sport](https://open.spotify.com/track/3H05HuJHXjXyaMa7WgnaAJ) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Surhomme](https://open.spotify.com/album/6ogbVluVJc23tLVlAViiEo) | 3:15 |
+| 81 | [Sac de sport](https://open.spotify.com/track/3H05HuJHXjXyaMa7WgnaAJ) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Surhomme](https://open.spotify.com/album/6ogbVluVJc23tLVlAViiEo) | 3:15 |
+| 82 | [Polymorphe](https://open.spotify.com/track/2A8mCfjcGkxaAqnSEhCkwJ) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Oniromancie](https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI) | 3:36 |
 | 83 | [Les Heures](https://open.spotify.com/track/0NooWH9hVyWAZXK0RDjRNr) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT), [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [Les Heures](https://open.spotify.com/album/6kRNYVhQ0Q3mWHF85jGqkO) | 3:30 |
 | 84 | [Du country dans le ravin](https://open.spotify.com/track/2T2mpckFPDfpM9wgCFdJXt) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Ça s'invente pas](https://open.spotify.com/album/1QPEBa411xm2gFUwXiGeRg) | 2:23 |
 | 85 | [Erreur](https://open.spotify.com/track/7q9nfKCHF04wOtCnFVnJSa) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Erreur](https://open.spotify.com/album/7gSEB3vnrlRPctu8XaxoS7) | 3:19 |
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 112 | [Pour l'amour du geste II](https://open.spotify.com/track/0lFZYnGWlm2F06POFIQtzt) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [Pour l'amour du geste II](https://open.spotify.com/album/7vfGXIjImAp4BchsPLD92E) | 2:06 |
 | 113 | [OnO Song](https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t) | [Bobo Ono](https://open.spotify.com/artist/3W0ilC5qMFlJpVpILq73FC) | [Fluxus](https://open.spotify.com/album/2Re7fd3sBGL6iZURyYsdWu) | 2:36 |
 | 114 | [Plage](https://open.spotify.com/track/2998oP5SBv3hzc4lefuK6B) | [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII), [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0) | [Holistique](https://open.spotify.com/album/4EjrzXrsVMgoc4MMWOBMcM) | 3:13 |
-| 115 | [Après la nuit](https://open.spotify.com/track/0BPbIaHil9VVRgKUTOrA3k) | [Marie\-Annick Lepine](https://open.spotify.com/artist/6X0xLOYFVNmRVbKM7t46X3) | [J'ai brodé mon cœur](https://open.spotify.com/album/1PEpCslLEnFiASwWXpkXrP) | 0:34 |
-| 116 | [Holla](https://open.spotify.com/track/6GBNzIYj90vLRZNmdiS3VR) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [On frap la route?](https://open.spotify.com/album/7hES63PMmDtTdyuXzN2usE) | 2:52 |
+| 115 | [Holla](https://open.spotify.com/track/6GBNzIYj90vLRZNmdiS3VR) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [On frap la route?](https://open.spotify.com/album/7hES63PMmDtTdyuXzN2usE) | 2:52 |
+| 116 | [Après la nuit](https://open.spotify.com/track/0BPbIaHil9VVRgKUTOrA3k) | [Marie\-Annick Lepine](https://open.spotify.com/artist/6X0xLOYFVNmRVbKM7t46X3) | [J'ai brodé mon cœur](https://open.spotify.com/album/1PEpCslLEnFiASwWXpkXrP) | 0:34 |
 | 117 | [Le bois](https://open.spotify.com/track/7rDjKfbvrjrhCgQVQoSE6V) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [La clairière](https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq) | 2:59 |
 | 118 | [Tralala](https://open.spotify.com/track/0iLVqqB6eQGyvQnQ1QcLGx) | [La Bottine Souriante](https://open.spotify.com/artist/7ba7eFah7fB6SbgnSufYBJ) | [Tralala](https://open.spotify.com/album/4XXJC6DVgxRnbdcTfJTQXV) | 4:23 |
 | 119 | [Sorry](https://open.spotify.com/track/6p84e47BuGYmh282V13y4H) | [Dylan Dylan](https://open.spotify.com/artist/2xwod0qobIBd0aaKo4t6BY), [Emma Wizz](https://open.spotify.com/artist/2fAdSDBTsaj7YvTUPHWMTE) | [Sorry](https://open.spotify.com/album/20hYXKljxpp3OB34PHcaIo) | 3:43 |

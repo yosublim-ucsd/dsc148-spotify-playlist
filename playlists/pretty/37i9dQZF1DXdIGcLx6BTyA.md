@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 
 > Roll the windows down and take a few risks out on the open, country roads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,228 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,231 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 73 | [Champagne Corolla](https://open.spotify.com/track/6zFZuHLAUd1JNDWtBQRDaQ) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [J.T.](https://open.spotify.com/album/02DqMqXTuEauf2EQsHZtmB) | 3:35 |
 | 74 | [Loud and Heavy](https://open.spotify.com/track/0SF38KDlXNLJAxbYyOMnCy) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Adobe Sessions](https://open.spotify.com/album/1tzRfpfSIo3RWhCMCZnO19) | 3:49 |
 | 75 | [The Luckier You Get](https://open.spotify.com/track/65UpRy3wUTP9tPETrBeQQQ) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [The Luckier You Get](https://open.spotify.com/album/2DEuSzjxQQvkFIDaRmR5FP) | 3:01 |
-| 76 | [God Speed](https://open.spotify.com/track/2NkPawxG0L9hSrB1wU2D3z) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/3YYZIztXVAGgWTnoNsK1XA) | 4:13 |
+| 76 | [Heading South](https://open.spotify.com/track/2c8WbESPtql9rRE2lB9Wwl) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/7Awf9BeZKWESAP9w5qarWp) | 2:51 |
 | 77 | [Somebody's Daughter](https://open.spotify.com/track/7GW2dqJ13S3UutqzSuvzlR) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Somebody's Daughter](https://open.spotify.com/album/5JANosOg20QAjkayyPeb2I) | 3:46 |
 | 78 | [Colder Than You](https://open.spotify.com/track/2blxo5iZckUK1UraX8B1nq) | [Canaan Smith](https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck) | [Colder Than You](https://open.spotify.com/album/4tJcolZrF1YhafTGxATF1R) | 3:21 |
 | 79 | [Watch the World Die](https://open.spotify.com/track/3xl0ZmnAng7becPu31kmOg) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Watch the World Die](https://open.spotify.com/album/57YKS5oKGEx92bZD7cLAuw) | 3:54 |

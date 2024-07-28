@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Fernanda Brum
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,318 likes - 80 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,366 likes - 80 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

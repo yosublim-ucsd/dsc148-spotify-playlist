@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CTD7HWYPDn.md) - [plain]
 
 > Tu karaoke personal para darlo todo cantando.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,712,333 likes - 200 songs - 13 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,712,296 likes - 200 songs - 13 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -205,8 +205,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CTD7HWYPDn.md) - [plain]
 | 195 | [Nada Fue Un Error](https://open.spotify.com/track/5QhOF5HXgZ0OFUZSE5kEv1) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Coti](https://open.spotify.com/album/1msFprmU8cqzLu66TOX4rf) | 3:28 |
 | 196 | [Losing My Religion](https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(U.S\. Version\)](https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD) | 4:27 |
 | 197 | [Come As You Are](https://open.spotify.com/track/0MKGH8UMfCnq5w7nG06oM5) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Deluxe Edition\)](https://open.spotify.com/album/2uEf3r9i2bnxwJQsxQ0xQ7) | 3:38 |
-| 198 | [Sultans Of Swing](https://open.spotify.com/track/3LTMnFa0hhwisyq6ILahyj) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits \(Remastered\)](https://open.spotify.com/album/3QEcBcqPmefFWd5ZrLNuDX) | 5:48 |
+| 198 | [What's Up?](https://open.spotify.com/track/7f0jXNMu2xjQUtmKMuWhGA) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/7oqXnxR9Xg9Okhs17hL9aS) | 4:55 |
 | 199 | [Hello](https://open.spotify.com/track/4sPmO7WMQUAf45kwMOtONw) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/0K4pIOOsfJ9lK8OjrZfXzd) | 4:55 |
-| 200 | [What's Up?](https://open.spotify.com/track/7f0jXNMu2xjQUtmKMuWhGA) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/7oqXnxR9Xg9Okhs17hL9aS) | 4:55 |
+| 200 | [Sultans Of Swing](https://open.spotify.com/track/3LTMnFa0hhwisyq6ILahyj) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits \(Remastered\)](https://open.spotify.com/album/3QEcBcqPmefFWd5ZrLNuDX) | 5:48 |
 
 Snapshot ID: `Zo1MQwAAAACgZHPs2jVNp27LL2tjXT22`

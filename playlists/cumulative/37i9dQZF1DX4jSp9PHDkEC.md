@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-566 songs - 1 day 14 hr 10 min
+567 songs - 1 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [If I Lead](https://open.spotify.com/track/7h69lNNNo6TS5XomY9CxHH) | [Kiltro](https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm) | [Creatures of Habit](https://open.spotify.com/album/15u9sohSPRl0qYMlBQ9b0x) | 3:26 | 2023-01-17 | 2024-07-27 |
 | [In A Bind](https://open.spotify.com/track/7L8cmap5xIlO3EBFYBKLV9) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Vagabon](https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh) | 3:40 | 2023-01-17 |  |
 | [In Another Life \- Edit](https://open.spotify.com/track/3jkvyNJXLwnrQi0HntSYsk) | [Sandro Perri](https://open.spotify.com/artist/2CbeYAeoh6tWJhlJU3fI9c) | [In Another Life \(Edit\)](https://open.spotify.com/album/3rzgaHMGq9g1JWUNqwM5O9) | 5:51 | 2023-01-17 | 2023-09-25 |
-| [In August](https://open.spotify.com/track/0pZbjZDmdslY6OzxobTCt8) | [Half Waif](https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj) | [In August](https://open.spotify.com/album/37MAJ4lqEASmTNQGXdhMKK) | 3:45 | 2023-01-17 |  |
+| [In August](https://open.spotify.com/track/0pZbjZDmdslY6OzxobTCt8) | [Half Waif](https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj) | [In August](https://open.spotify.com/album/37MAJ4lqEASmTNQGXdhMKK) | 3:45 | 2023-01-17 | 2024-07-28 |
 | [In My Head](https://open.spotify.com/track/6aaJJUar3ckCz4GEEZvHU7) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna](https://open.spotify.com/artist/3WyO8O6doy0PPpBjzjLBrH) | [Dreamy Hamilton](https://open.spotify.com/album/4xwfhpQtS8Mue8vlUDf0wn) | 3:20 | 2023-01-17 |  |
 | [In Spring](https://open.spotify.com/track/4h7dxvwPyTPWZKETdjfo5A) | [Tara Clerkin Trio](https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F) | [In Spring](https://open.spotify.com/album/5ExOfOHnAdkjM83kB9Ljlw) | 5:06 | 2023-01-17 |  |
 | [In the Country](https://open.spotify.com/track/0J0UZpA2Ivp4qaXe3QzCrT) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [La Luz](https://open.spotify.com/album/17WOu1wHd6KdSO2Z0HRz6w) | 3:20 | 2023-01-17 | 2024-04-19 |
@@ -260,7 +260,7 @@
 | [Island](https://open.spotify.com/track/3fxMi0laJrBPDJZY3obc0u) | [Emilie Kahn](https://open.spotify.com/artist/5m2lu7cT7DE9J21Guso5EO) | [Island](https://open.spotify.com/album/4YZCf3X7sL1yjWxQCsOrRS) | 4:10 | 2023-01-17 |  |
 | [It Hurts](https://open.spotify.com/track/4vMCeNc8dsCJN4ITQK2NoQ) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Pocket Fantasy](https://open.spotify.com/album/2N2BoaufVpptqS6LbtuEJ1) | 3:23 | 2023-01-17 | 2024-04-19 |
 | [It's All About You](https://open.spotify.com/track/4RfIfFS2D4E9tVjuHFlAJF) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [It's All About You](https://open.spotify.com/album/38mNfogFOWzoGS4h8S4OfZ) | 3:20 | 2023-01-17 | 2024-04-19 |
-| [It's Not Just Me, It's Everybody](https://open.spotify.com/track/2OcLJRW0pTyYAxT43N5ccm) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [It's Not Just Me, It's Everybody](https://open.spotify.com/album/0OFDZTYgwiuv7a4CZEVAsR) | 6:16 | 2023-01-17 |  |
+| [It's Not Just Me, It's Everybody](https://open.spotify.com/track/2OcLJRW0pTyYAxT43N5ccm) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [It's Not Just Me, It's Everybody](https://open.spotify.com/album/0OFDZTYgwiuv7a4CZEVAsR) | 6:16 | 2023-01-17 | 2024-07-28 |
 | [It's Not Just Me, It's Everybody](https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:16 | 2023-01-17 | 2024-04-19 |
 | [Jealousy](https://open.spotify.com/track/0t2CHswC5RVBRq7qvWBU4j) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Jealousy](https://open.spotify.com/album/2YWbrv6MAlIB234w61w3vR) | 3:36 | 2023-01-17 |  |
 | [Jennifer](https://open.spotify.com/track/2ngc5mFakdLVt3xFcNHqQW) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Morningside](https://open.spotify.com/album/21Ld2tSHSxYFkj7QHTHFQB) | 4:00 | 2023-01-17 | 2024-04-19 |
@@ -430,7 +430,7 @@
 | [Slow Disco \- piano version](https://open.spotify.com/track/2stcQY2OjzSIdk3I9Y1sCW) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MassEducation](https://open.spotify.com/album/3XwQPcRrrSNxETjuD5ka5r) | 2:30 | 2023-01-17 | 2024-04-19 |
 | [slow down](https://open.spotify.com/track/2ZQkYFEcfpAEaIirwyOG90) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [bloomington](https://open.spotify.com/album/7tUnJRaWtyZWyNPbXnRaUl) | 2:16 | 2023-01-17 | 2023-12-18 |
 | [Smother](https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:00 | 2023-01-17 | 2024-04-19 |
-| [Smother](https://open.spotify.com/track/3MH3oRNyFb5mNm663xcK7T) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/6E76aabodIl5DW5BTEZPHG) | 4:01 | 2023-01-17 | 2024-07-20 |
+| [Smother](https://open.spotify.com/track/3MH3oRNyFb5mNm663xcK7T) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/6E76aabodIl5DW5BTEZPHG) | 4:01 | 2023-01-17 |  |
 | [Snowman](https://open.spotify.com/track/3xKvXle8QcTpWz2al4WzaB) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 5:15 | 2023-06-07 | 2023-10-27 |
 | [Snowman](https://open.spotify.com/track/4oGfVF3hKD6gJ39D6LIBG8) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Snowman](https://open.spotify.com/album/7hniKkS2fAy2poyT6WYwbh) | 5:15 | 2023-06-07 | 2024-06-29 |
 | [Snowman](https://open.spotify.com/track/6gGKU1PSWNdLyjiURjfPil) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 5:15 | 2023-06-07 | 2024-04-19 |
@@ -542,6 +542,7 @@
 | [Waves \(Van Dyke Parks Edit\)](https://open.spotify.com/track/5rlMiSQtapreyImvN00581) | [Sofia Bolt](https://open.spotify.com/artist/75BsNqFovl5438u7dIoZuv) | [Waves](https://open.spotify.com/album/7aRco61GefqGSEhCvq98ZF) | 3:49 | 2023-01-17 |  |
 | [We Had A Good Time](https://open.spotify.com/track/0QQVRQ99PRD0c3dL1bMQ1J) | [Bullion](https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj) | [We Had A Good Time](https://open.spotify.com/album/4TKffHJdGJQmDMsMzYVzmO) | 3:10 | 2023-01-17 |  |
 | [We Wait](https://open.spotify.com/track/3QeaXGKRvt8cfHdrfdk5pL) | [Other Lives](https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6) | [For Their Love](https://open.spotify.com/album/1pesl95uJqfN7kIOFozSHt) | 3:41 | 2023-01-17 |  |
+| [Wednesday Baby](https://open.spotify.com/track/73dK9NOpasEPiIuCOP7jqa) | [Midnight Sister](https://open.spotify.com/artist/79CshY6jZ3VzduOOSCRhm4) | [Wednesday Baby](https://open.spotify.com/album/7cEpgoJejskC8PGVPS84LC) | 3:18 | 2023-01-17 |  |
 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 | 2023-01-17 |  |
 | [Where The Light Used To Lay](https://open.spotify.com/track/3cN6n7yeYM3QEOswqQVmV8) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Present Tense](https://open.spotify.com/album/2MWDzkDsRqaJcWdktGXhG5) | 3:36 | 2023-01-17 | 2024-04-19 |
 | [Where The Rocks Are](https://open.spotify.com/track/0XzVFPCmBmQuNjshP49T1R) | [Maia Friedman](https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c) | [Where The Rocks Are](https://open.spotify.com/album/0JseMx4hFfMch3y8MfbDNo) | 3:53 | 2023-01-17 | 2024-06-08 |

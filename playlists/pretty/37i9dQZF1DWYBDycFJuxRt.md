@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Official髭男dism \*👉 <a href="https://spice.eplus.jp/articles/330637?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,738 likes - 88 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,735 likes - 88 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

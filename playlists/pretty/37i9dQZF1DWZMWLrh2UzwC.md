@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: lullaboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,345 likes - 94 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,346 likes - 94 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

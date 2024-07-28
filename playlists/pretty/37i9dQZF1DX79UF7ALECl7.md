@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79UF7ALECl7.md) - [plain]
 
 > Have some chill house with your coffee
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,753 likes - 100 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,751 likes - 100 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79UF7ALECl7.md) - [plain]
 | 96 | [Aerie](https://open.spotify.com/track/73iKoDdtumBpcIIZaNpuEU) | [Southern Shores](https://open.spotify.com/artist/5EAl4lk6xKqFxzgOUoBpF5) | [Siena](https://open.spotify.com/album/5LDnkzUTJSEVzQ10AQHecR) | 2:36 |
 | 97 | [Tide \(feat\. Andreya Triana\)](https://open.spotify.com/track/2nYX4EG5y9BevUjNeXuhhH) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Tide \(feat\. Andreya Triana\)](https://open.spotify.com/album/7cLcUnlFDQHI63t78XigE4) | 3:06 |
 | 98 | [Obscure](https://open.spotify.com/track/7Ln2bQ2njWjOOj5LAzL4bq) | [LYANE](https://open.spotify.com/artist/0cQEcLmC43QHccKlphpAYK) | [Obscure](https://open.spotify.com/album/75Fb0oLWo0qGh7RQZYNbzv) | 2:33 |
-| 99 | [Youth \(Satin Jackets Remix\)](https://open.spotify.com/track/2q7kCP2kudXJJOXZiYdq2p) | [Menke](https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ), [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Youth \(Satin Jackets Remix\)](https://open.spotify.com/album/6rYxyGa0eFIons7g5W39sx) | 4:58 |
-| 100 | [Coffee and Feels](https://open.spotify.com/track/4B6nwPu67gcOfwpD6t2mDg) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Coffee and Feels](https://open.spotify.com/album/44ZzvdUooVR79PcBGwIWgk) | 4:07 |
+| 99 | [Always](https://open.spotify.com/track/7xOuEBWsubmh7Soj9rnJ0d) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7), [Duren](https://open.spotify.com/artist/6rNkP5FvNekmphnA8NCYE5) | [Always](https://open.spotify.com/album/1rySIEg7XfrICPpbFTMLRg) | 3:11 |
+| 100 | [Youth \(Satin Jackets Remix\)](https://open.spotify.com/track/2q7kCP2kudXJJOXZiYdq2p) | [Menke](https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ), [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Youth \(Satin Jackets Remix\)](https://open.spotify.com/album/6rYxyGa0eFIons7g5W39sx) | 4:58 |
 
 Snapshot ID: `Zl9AqQAAAAA5ohTpafgYXRdcyd3p201q`

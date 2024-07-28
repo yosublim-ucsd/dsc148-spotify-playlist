@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 
 ### [This Is Nívea Soares](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4xMHov)
 
-> This Is Nívea Soares\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Nívea Soares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,980 likes - 50 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,982 likes - 50 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 49 | [Este é o Som da Tua Noiva \| Eu Só Quero Te Amar](https://open.spotify.com/track/1ElihpcKELnES7MoJWA1LF) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Este é o Som da Tua Noiva \| Eu Só Quero Te Amar](https://open.spotify.com/album/3ltmkD8eGzyKfH0zuwlucN) | 11:03 |
 | 50 | [Nenhum Deus Como Tu](https://open.spotify.com/track/4mEZLwnqOe3FsSZDW2GPoR) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Rio](https://open.spotify.com/album/2kNPup6bYnOFd74IvvrG8F) | 6:01 |
 
-Snapshot ID: `ZqLnAAAAAAAGMDKozjJfKe+l/cjec/mB`
+Snapshot ID: `ZqLnAAAAAAAQj+QLSvtP1PD9oDNZRZcg`

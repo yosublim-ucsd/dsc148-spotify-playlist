@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1593342,
+  "num_followers": 1593513,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/4FN8F3aiiUagVSBBGW5ULu"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "Call On Me - Radio Edit",
+      "url": "https://open.spotify.com/track/3uLSUZEmTY50H6Kw17lpfW"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Back 2 House",
         "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
       },
@@ -1603,18 +1619,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/4FN8F3aiiUagVSBBGW5ULu"
+        "name": "Exploration of Space",
+        "url": "https://open.spotify.com/album/5ibY1QH7VwnDLnye7mTzvx"
       },
       "artists": [
         {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
         }
       ],
-      "duration_ms": 171360,
-      "name": "Call On Me - Radio Edit",
-      "url": "https://open.spotify.com/track/3uLSUZEmTY50H6Kw17lpfW"
+      "duration_ms": 216360,
+      "name": "Exploration of Space - Radio Edit",
+      "url": "https://open.spotify.com/track/4iLL2yVVG19TAJYssbMeBT"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1663,22 +1679,6 @@
       "duration_ms": 213305,
       "name": "Freed from Desire",
       "url": "https://open.spotify.com/track/5n56ImOTTDbUORTq3Eyong"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Exploration of Space",
-        "url": "https://open.spotify.com/album/5ibY1QH7VwnDLnye7mTzvx"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
-        }
-      ],
-      "duration_ms": 216360,
-      "name": "Exploration of Space - Radio Edit",
-      "url": "https://open.spotify.com/track/4iLL2yVVG19TAJYssbMeBT"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1916,9 +1916,9 @@
           "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
         }
       ],
-      "duration_ms": 292000,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/3m4Mp1KfiPawsOjlRlbxN3"
+      "duration_ms": 217000,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2EQA1eRfXvbHKMjSnzUtFD"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -2040,9 +2040,9 @@
           "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/2EQA1eRfXvbHKMjSnzUtFD"
+      "duration_ms": 292000,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/3m4Mp1KfiPawsOjlRlbxN3"
     },
     {
       "added_at": "2024-07-12 15:40:20",

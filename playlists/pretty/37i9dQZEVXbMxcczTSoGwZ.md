@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMxcczTSoGwZ.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Finland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,537 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,541 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMxcczTSoGwZ.md) - [plain]
 | 49 | [Mun vuoro safkaa](https://open.spotify.com/track/2uc376dOBgeCLynv8CHGCz) | [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4) | [Mun vuoro safkaa](https://open.spotify.com/album/4KBCSMJLiQ9ludgYLnM3c8) | 2:46 |
 | 50 | [Sano vaan](https://open.spotify.com/track/3bmaYlyaca8hvQ7cUEzHhG) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Sano vaan](https://open.spotify.com/album/3SZuNM26rWPkYk5LGoiDjf) | 2:48 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 
 > Podcasts que necesitas tener en el RADAR\. En la portada: <a href="https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf?si=6a965904f3154f5c">Chisme Corporativo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,852 likes - 12 songs - 14 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,854 likes - 12 songs - 14 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

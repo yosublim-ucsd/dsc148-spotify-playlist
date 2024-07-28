@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,138 likes - 150 songs - 11 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,141 likes - 150 songs - 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 109 | [Sui Shop](https://open.spotify.com/track/5LWSgShNUgKx8qSafzP7Hz) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Autoditacker](https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl) | 5:12 |
 | 110 | [Red Kite](https://open.spotify.com/track/3I7n1t3f3mSJWeHAxILqSP) | [Plone](https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41) | [Puzzlewood](https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq) | 3:28 |
 | 111 | [I Can't Die as Well](https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45) | [Fire\-Toolz](https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o) | [I Can't Die as Well](https://open.spotify.com/album/2EnPEXGeSR82AuXVVUA7ok) | 2:25 |
-| 112 | [Jolly Pranks](https://open.spotify.com/track/4QeUbmB2aKz1KOatrjLW1K) | [Ron Geesin](https://open.spotify.com/artist/4daGH8VML8ZuDWhWytZdGa) | [Kpm 1000 Series: Atmospheres](https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u) | 2:09 |
-| 113 | [Ted](https://open.spotify.com/track/3IjaYRvTNhDP48KFGtBldN) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Body Riddle \(Remastered\)](https://open.spotify.com/album/4bH9Kc6e6sRxGoMrX1NUup) | 2:54 |
+| 112 | [Ted](https://open.spotify.com/track/3IjaYRvTNhDP48KFGtBldN) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Body Riddle \(Remastered\)](https://open.spotify.com/album/4bH9Kc6e6sRxGoMrX1NUup) | 2:54 |
+| 113 | [Jolly Pranks](https://open.spotify.com/track/4QeUbmB2aKz1KOatrjLW1K) | [Ron Geesin](https://open.spotify.com/artist/4daGH8VML8ZuDWhWytZdGa) | [Kpm 1000 Series: Atmospheres](https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u) | 2:09 |
 | 114 | [Together](https://open.spotify.com/track/5sw0c6FmdTgXlUyfy7YSc4) | [William Shatner](https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza) | [William Shatner Has Been](https://open.spotify.com/album/5K6Yuzk8t9t0B9WxI7WtpT) | 5:39 |
 | 115 | [Fol\-de\-rol](https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 3:48 |
 | 116 | [Stereomission](https://open.spotify.com/track/2bEFcAISP2KpoWCiWI6Pzc) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Iaora Tahiti](https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii) | 4:38 |
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 126 | [Nautilus](https://open.spotify.com/track/3LAB79eJTC9M6B39E6GjJx) | [Jake Slazenger](https://open.spotify.com/artist/7tDwkE4GtB5MKlmXfIEqMh) | [Das Ist Ein Groovybeat, Ja](https://open.spotify.com/album/01yJzz91YLSKPTGNO27WyS) | 6:19 |
 | 127 | [Thurs Jung Yout](https://open.spotify.com/track/0gG7H4snjFftZCReVrdZBj) | [Proc Fiskal](https://open.spotify.com/artist/1eFFmUlWRIvt26lnUzdduk) | [Thurs Jung Yout](https://open.spotify.com/album/00wPi6Nswwcpr7oZTcj5gQ) | 3:41 |
 | 128 | [Sister Species](https://open.spotify.com/track/0xi81plszmA40tDw7cefN1) | [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [Meridians](https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC) | 5:04 |
-| 129 | [sol](https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [sol](https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg) | 1:59 |
-| 130 | [Comfort Chain](https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK) | 3:04 |
+| 129 | [Comfort Chain](https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK) | 3:04 |
+| 130 | [sol](https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [sol](https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg) | 1:59 |
 | 131 | [Roygbiv](https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 2:31 |
 | 132 | [Ikiru](https://open.spotify.com/track/4DoD7xxnOmsxNyH57jue9y) | [Thoma](https://open.spotify.com/artist/4e8ExN8iJrXnycI51N1Cxb) | [Ikiru](https://open.spotify.com/album/18fNJzLNa7AJfp96UnWZgj) | 3:43 |
 | 133 | [People On Sunday](https://open.spotify.com/track/3qbJR3E3iKWssRw2nzhz2w) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H) | 3:45 |

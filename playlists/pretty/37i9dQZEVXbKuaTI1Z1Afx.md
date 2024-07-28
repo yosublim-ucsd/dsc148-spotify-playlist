@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKuaTI1Z1Afx.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- USA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,814 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,807 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKuaTI1Z1Afx.md) - [plain]
 | 49 | [Magic Johnson](https://open.spotify.com/track/4oPLjuY1WgGTL0Ja1doDOn) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Valedictorian \[Deluxe\]](https://open.spotify.com/album/0lmXfHj3QJAZBpoY9jdEbV) | 2:17 |
 | 50 | [Amor](https://open.spotify.com/track/0hkoQgoqic1qQtxPOudmrx) | [emmanuellcortess\_](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Memorias <3](https://open.spotify.com/album/7I35dC3g7n1Uv7h1Yn7EXA) | 3:22 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

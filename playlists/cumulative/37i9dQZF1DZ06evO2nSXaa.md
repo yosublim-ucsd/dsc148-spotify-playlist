@@ -2,7 +2,7 @@
 
 ### [This Is Tate McRae](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2nSXaa)
 
-> This is Tate McRae\. The essential tracks, all in one playlist.
+> This Is Tate McRae\. Les titres incontournables, réunis dans une seule et même playlist.
 
 64 songs - 3 hr 6 min
 

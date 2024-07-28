@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 
 > Sabah al khair, start your day with extra cardamom and mellow tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,418 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,431 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 80 | [Leila](https://open.spotify.com/track/2jkrGagEAt8WrQ6NyF8Lsy) | [Clarissa Bitar](https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH), [Abby Abdel\-Khalek](https://open.spotify.com/artist/6oF5zlYqpF2tYRrJnAc1VT) | [Leila](https://open.spotify.com/album/2iw5NCNPUG8Wv0kg2ujCcc) | 2:32 |
 | 81 | [Raoui](https://open.spotify.com/track/4PmJRTntkZRVG6kiVljmlA) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Raoui](https://open.spotify.com/album/1v3KoZERdNZ6ddhseotXzx) | 3:47 |
 | 82 | [Yasmeen](https://open.spotify.com/track/4QCThVhmyL6KvZW1gGNIRI) | [Dania](https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx) | [Yasmeen](https://open.spotify.com/album/7bgr16tTsIUTVtDkJ3Fegz) | 0:56 |
-| 83 | [Ma Baaref](https://open.spotify.com/track/6S49sbvebaWWUYJCxQ9kYx) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ayech Bi Oyouni](https://open.spotify.com/album/5pfkDggECTlWNLL9Jf4orK) | 4:02 |
-| 84 | [Zina](https://open.spotify.com/track/7gepRwLr6JXAEz6vBuksSF) | [Babylone](https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i) | [Brya](https://open.spotify.com/album/6HrTAIVCm1zlmM0Qjgjeci) | 3:57 |
+| 83 | [Zina](https://open.spotify.com/track/7gepRwLr6JXAEz6vBuksSF) | [Babylone](https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i) | [Brya](https://open.spotify.com/album/6HrTAIVCm1zlmM0Qjgjeci) | 3:57 |
+| 84 | [Ma Baaref](https://open.spotify.com/track/6S49sbvebaWWUYJCxQ9kYx) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ayech Bi Oyouni](https://open.spotify.com/album/5pfkDggECTlWNLL9Jf4orK) | 4:02 |
 | 85 | [Yawman ma](https://open.spotify.com/track/1KNxarQdfPFdwFWYD9Puyc) | [Julia Boutros](https://open.spotify.com/artist/1MBqKgaBet9mU8vI0hqj6c), [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu), [Harout Fazlian](https://open.spotify.com/artist/2mRHsZWJr2xQzUVNDcGaJK) | [Yawman ma](https://open.spotify.com/album/2CvvFo64rpMpmO99c7buS1) | 3:22 |
 | 86 | [Shibren \(El Búho Remix\)](https://open.spotify.com/track/7ieZnG0KXZvhleSzWDxoyP) | [Bukahara](https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Tributaries: A Remix Album \(El Búho Remixes\)](https://open.spotify.com/album/05SkQ3cqcaIaP4Oo5N9r4i) | 4:36 |
 | 87 | [Omer Aasal](https://open.spotify.com/track/0joxJdOyy3wuhQdcxdP9RW) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Omer Aasal](https://open.spotify.com/album/5NyX5QeWwXSqX7OKUCCsbF) | 3:41 |

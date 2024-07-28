@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,051 likes - 150 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,069 likes - 150 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,8 +143,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 | 133 | [East Virginia Blues](https://open.spotify.com/track/37LaaqKaMg5ivz0qMeRzKw) | [Dominick Leslie](https://open.spotify.com/artist/5dTs3hLoBfuhLiGRiQcmgu), [Ric Robertson](https://open.spotify.com/artist/7euJV43X9MeQnoQFSELd25) | [Impromptu Sessions No\. 2: Dominick Leslie & Ric Robertson \(Trust In Most\)](https://open.spotify.com/album/5Ox4AXjm8naieQbNqyAW78) | 3:42 |
 | 134 | [Last One on the Line](https://open.spotify.com/track/3EJCPHptFTb66er6xgaP6o) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Formations](https://open.spotify.com/album/51G5vn744vAm0qJtuKElX5) | 4:59 |
 | 135 | [Grey Eagle](https://open.spotify.com/track/0vYK5CpZu3FSU69a2jek7L) | [Mighty Poplar](https://open.spotify.com/artist/4cMlQtVLzOm9cr200ALzSD), [Andrew Marlin](https://open.spotify.com/artist/0NTdGJGpVrNdeTM5QNRoaL), [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C), [Chris Eldridge](https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW), [Alex Hargreaves](https://open.spotify.com/artist/6Qs9gY94XdjfCCTL8dRQ3P), [Greg Garrison](https://open.spotify.com/artist/1Wzl4iYvY9UIWZFQgUhrdJ) | [Grey Eagle / A Distant Land to Roam](https://open.spotify.com/album/0WVGCRxGwBwBWk6Jjrpa85) | 3:49 |
-| 136 | [Weevils in the Grits](https://open.spotify.com/track/5npvIsHPd35M5JioSnVJHs) | [Sami Braman](https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre), [Brittany Haas](https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP) | [Weevils in the Grits](https://open.spotify.com/album/40Yxmocscw8TzoyID1h45C) | 3:41 |
-| 137 | [Firewood](https://open.spotify.com/track/19e3bfpKwSnvw4JEFQTihp) | [April Verch](https://open.spotify.com/artist/2sWyhLJwYCBTziE9dhsew8), [Cody Walters](https://open.spotify.com/artist/5dh7cV8PwHgi7aw1VN5KZj) | [Firewood](https://open.spotify.com/album/01p20IYbDXu5GZuKZQ5s6H) | 3:30 |
+| 136 | [Firewood](https://open.spotify.com/track/19e3bfpKwSnvw4JEFQTihp) | [April Verch](https://open.spotify.com/artist/2sWyhLJwYCBTziE9dhsew8), [Cody Walters](https://open.spotify.com/artist/5dh7cV8PwHgi7aw1VN5KZj) | [Firewood](https://open.spotify.com/album/01p20IYbDXu5GZuKZQ5s6H) | 3:30 |
+| 137 | [Weevils in the Grits](https://open.spotify.com/track/5npvIsHPd35M5JioSnVJHs) | [Sami Braman](https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre), [Brittany Haas](https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP) | [Weevils in the Grits](https://open.spotify.com/album/40Yxmocscw8TzoyID1h45C) | 3:41 |
 | 138 | [Wellington](https://open.spotify.com/track/1SFzKEJOIuCDv7Vp2e6YrF) | [Allison de Groot & Tatiana Hargreaves](https://open.spotify.com/artist/1VEQZsxHsrlZDP7DFsevbe) | [Hurricane Clarice](https://open.spotify.com/album/5XreExffe2MWIUZKfnOm76) | 3:23 |
 | 139 | [Old Joe Clark](https://open.spotify.com/track/6p54JGVQTiP2oT8UBnOW8L) | [David Grisman](https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O), [Tony Rice](https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr) | [The Gasoline Brothers](https://open.spotify.com/album/19w0zikbLZgW8v7BKjyeTX) | 3:16 |
 | 140 | [Updraft](https://open.spotify.com/track/6RMTeqT4f712BeGA6bdlyz) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Updraft](https://open.spotify.com/album/3rK9kArUsB3JSYZTo62gCJ) | 5:56 |

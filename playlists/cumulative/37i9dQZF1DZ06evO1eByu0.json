@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-10",
-  "description": "This is Aline Barros. En \u00f6nemli par\u00e7alar, hepsi tek bir \u00e7alma listesinde.",
+  "description": "This is Aline Barros. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Aline Barros",
   "tracks": [
     {
@@ -520,6 +520,24 @@
     {
       "album": {
         "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/5e1UldjtFKyW0HT3H6QXYL"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2024-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272741,
+      "name": "Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/39haoAQl6lLuaSrZDelpAg"
+    },
+    {
+      "album": {
+        "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk"
       },
       "artists": [
@@ -530,7 +548,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-28",
       "duration_ms": 272741,
       "name": "Esperan\u00e7a",
       "url": "https://open.spotify.com/track/6Vmwm73j6P6Xyr4FbPSzZx"
@@ -1360,6 +1378,24 @@
       "duration_ms": 383968,
       "name": "Tudo \u00e9 Poss\u00edvel (Ao Vivo)",
       "url": "https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ"
+    },
+    {
+      "album": {
+        "name": "Vem Fluir (Fall Like Rain)",
+        "url": "https://open.spotify.com/album/2ZUum9B6fcMzr49ZL5rxvK"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2024-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387779,
+      "name": "Vem Fluir (Fall Like Rain)",
+      "url": "https://open.spotify.com/track/6vRgQZAlojDVRcSs7EODCW"
     },
     {
       "album": {

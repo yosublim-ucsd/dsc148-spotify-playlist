@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 
 > County's best like you've never heard before\. Cover: Jackson Dean, Josh Ross, ERNEST and 49 Winchester
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,709 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,713 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 57 | [Liar Liar \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/54whmtPE736Lh8t0cjrihv) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Spotify Singles](https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU) | 4:17 |
 | 58 | [Rock and Roll, Hoochie Koo \- Spotify Singles](https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X) | 3:53 |
 | 59 | [Cover Me Up \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6qi0gC43ZZ0dAtLwdamJ0I) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Spotify Singles](https://open.spotify.com/album/0BVShHjHQNedwKZsjLeB3H) | 4:47 |
-| 60 | [Much Too Young \(To Feel This Damn Old\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2wZrc1KD0oKVec9hpTtOD3) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Spotify Singles](https://open.spotify.com/album/4wEdL5MJYDGgytZqNN6p4e) | 2:37 |
+| 60 | [Un\-Break My Heart \- Spotify Singles](https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:16 |
 | 61 | [Shitty Golfer \(Recorded at Sound Stage Studios Nashville\)](https://open.spotify.com/track/3moAWjoAN1vphfLnoBHdsO) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Spotify Singles](https://open.spotify.com/album/43Rr16UbNM5Ui01V4tJxSM) | 2:14 |
 | 62 | [Get to You \- Recorded at Sound Stage Studios, Nashville](https://open.spotify.com/track/5NwafdEg2onbbPGugB0ZRS) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Spotify Singles](https://open.spotify.com/album/65LZeGRGhl2SLlDeZN4OPi) | 3:04 |
 | 63 | [Dear God \- Recorded at Woodshed Recording Malibu](https://open.spotify.com/track/78GAT649ad19quwcuiuMQs) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Spotify Singles](https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy) | 3:02 |
 | 64 | [Long Live Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7LILyHS0z6PXDt34ZrCD0h) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Spotify Singles](https://open.spotify.com/album/1aKSRHzPIuoTP2sbcT7iRi) | 3:17 |
 | 65 | [Middle Finger \- Spotify Singles](https://open.spotify.com/track/5CR5wpp6rjMiePZyrj81e9) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X) | 2:36 |
-| 66 | [Wide Open Spaces \- Spotify Singles](https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Wide Open Spaces \- Spotify Singles](https://open.spotify.com/album/14J7gZWOOBbG3LKtE0xs4t) | 4:00 |
-| 67 | [Un\-Break My Heart \- Spotify Singles](https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:16 |
-| 68 | [I Feel It Coming \- Recorded At Sound Stage Nashville](https://open.spotify.com/track/49OyaDdgZYqNrzz5rvrFyI) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Spotify Singles \(Recorded At Sound Stage Nashville\)](https://open.spotify.com/album/0wx6mlaSSj1ckHaKRNTOJh) | 4:03 |
+| 66 | [Best Shot \- Spotify Singles](https://open.spotify.com/track/6rrLJj8UgltvAustzZhK1w) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:10 |
+| 67 | [Much Too Young \(To Feel This Damn Old\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2wZrc1KD0oKVec9hpTtOD3) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Spotify Singles](https://open.spotify.com/album/4wEdL5MJYDGgytZqNN6p4e) | 2:37 |
+| 68 | [Wide Open Spaces \- Spotify Singles](https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Wide Open Spaces \- Spotify Singles](https://open.spotify.com/album/14J7gZWOOBbG3LKtE0xs4t) | 4:00 |
 | 69 | [My Old Man \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/30x7X9Mjo0Spbb2POIc3E0) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Spotify Singles](https://open.spotify.com/album/0BVShHjHQNedwKZsjLeB3H) | 3:54 |
-| 70 | [Any Ol' Barstool \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5fghXy9xCMweLOu6kQgAul) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Spotify Singles](https://open.spotify.com/album/4wEdL5MJYDGgytZqNN6p4e) | 3:20 |
+| 70 | [I Feel It Coming \- Recorded At Sound Stage Nashville](https://open.spotify.com/track/49OyaDdgZYqNrzz5rvrFyI) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Spotify Singles \(Recorded At Sound Stage Nashville\)](https://open.spotify.com/album/0wx6mlaSSj1ckHaKRNTOJh) | 4:03 |
 
 Snapshot ID: `ZbFV8AAAAABaim+VBYvsYUf9IH95dIt+`

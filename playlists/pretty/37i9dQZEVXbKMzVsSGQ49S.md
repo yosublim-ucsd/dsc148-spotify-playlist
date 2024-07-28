@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKMzVsSGQ49S.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,939 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,942 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKMzVsSGQ49S.md) - [plain]
 | 49 | [Sofðu](https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr) | [Hafdís Huld](https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5) | [Vögguvísur](https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l) | 3:13 |
 | 50 | [Rómeó og Júlía](https://open.spotify.com/track/53UXY91LLMuISer0X8RsWq) | [Bubbi Morthens](https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up) | [Kona](https://open.spotify.com/album/4FyzzmUFi1NWMBuwUSmLru) | 4:57 |
 
-Snapshot ID: `LjfasAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

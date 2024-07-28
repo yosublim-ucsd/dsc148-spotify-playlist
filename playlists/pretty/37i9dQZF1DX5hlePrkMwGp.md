@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hlePrkMwGp.md) - [plain]
 
 > Enjoy the romantic side of Ani
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,481 likes - 51 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,491 likes - 51 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hlePrkMwGp.md) - [plain]
 | 8 | [Takkunu Takkunu](https://open.spotify.com/track/7frWUq8m2KNHx82TS6R5Rz) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Mr\. Local \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7A1a3MfIKFJv0TrMs6jbPV) | 3:32 |
 | 9 | [Kanave Kanave](https://open.spotify.com/track/6sPW145Y3LSXd4p1LjBOcS) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [David](https://open.spotify.com/album/3Gef2xMe3ihEF1UILkiriu) | 4:44 |
 | 10 | [Marandhadhae](https://open.spotify.com/track/6djRqSJNZnkuWYXQWaeCL8) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q) | [Simba \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0DUTVOWLmclAk3pfhHUwbY) | 3:09 |
-| 11 | [Gaandakannazhagi](https://open.spotify.com/track/6oq9EhpHVx5XnCzRtWKFz7) | [Anirudh Ravichander and Neeti Mohan](https://open.spotify.com/artist/3nUYKYYtrA7Nw2tdYslLUE) | [Namma Veettu Pillai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28Jjlqhywu1ntsCxGYYVFD) | 4:03 |
-| 12 | [Kadhal Kan Kattudhe](https://open.spotify.com/track/5W5vPvu6DkmqdvJXfjvSvO) | [Anirudh Ravichander,Shakthishree Gopalan](https://open.spotify.com/artist/3yfrCtu0YemSS9Lt1hLC94) | [Kaaki Sattai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IWE32AlR5LdGTO2Z01wox) | 4:16 |
+| 11 | [Kadhal Kan Kattudhe](https://open.spotify.com/track/5W5vPvu6DkmqdvJXfjvSvO) | [Anirudh Ravichander,Shakthishree Gopalan](https://open.spotify.com/artist/3yfrCtu0YemSS9Lt1hLC94) | [Kaaki Sattai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IWE32AlR5LdGTO2Z01wox) | 4:16 |
+| 12 | [Gaandakannazhagi](https://open.spotify.com/track/6oq9EhpHVx5XnCzRtWKFz7) | [Anirudh Ravichander and Neeti Mohan](https://open.spotify.com/artist/3nUYKYYtrA7Nw2tdYslLUE) | [Namma Veettu Pillai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28Jjlqhywu1ntsCxGYYVFD) | 4:03 |
 | 13 | [Hayyoda \(From "Jawan"\)](https://open.spotify.com/track/6aQIGqAo9PxRKjUkhYtR6R) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Priya Mali](https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM) | [Hayyoda \(From "Jawan"\)](https://open.spotify.com/album/3JiVWzoQqLwmH8DcayvdQ6) | 3:20 |
 | 14 | [Neeyum Naanum](https://open.spotify.com/track/4aoko7oeXhp6ZUvFUQ3VC5) | [Anirudh Ravichander and Neeti Mohan](https://open.spotify.com/artist/3nUYKYYtrA7Nw2tdYslLUE) | [Naanum Rowdy Dhaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx) | 5:01 |
 | 15 | [Oh Penne](https://open.spotify.com/track/1zAkNzJZVPrWDCnowb1vpZ) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Vanakkam Chennai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4GDrPlprtCalr2sk3wbA4o) | 4:36 |
