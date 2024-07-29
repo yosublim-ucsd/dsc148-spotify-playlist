@@ -4,7 +4,7 @@
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด และเพลงอิงกระแสตอนนี้\. ศิลปิน: URBOYTJ
 
-125 songs - 7 hr 54 min
+126 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Galaxy \(feat\. Kob The X Factor\)](https://open.spotify.com/track/7m4O2ffb7Amnk1tQGKeLEH) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg), [Kob The X Factor](https://open.spotify.com/artist/7HCRjt5R29pEOReKFeVk42) | [D Gerrard](https://open.spotify.com/album/5BW2j7g8V5buJrxcTiLvxy) | 4:26 | 2024-06-27 |  |
 | [Goodbye](https://open.spotify.com/track/2kpVbauiG7Tcue6kZPKYNG) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Goodbye](https://open.spotify.com/album/4yOyrokpt9SeI9icULlYCB) | 4:04 | 2024-06-27 |  |
 | [HIT ME UP](https://open.spotify.com/track/5WsRYZQa2VvJjWEfxipXKi) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [HIT ME UP](https://open.spotify.com/album/2wJK5ag7IToSskrBMdsgks) | 3:21 | 2024-06-27 |  |
+| [Infatuated](https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Infatuated](https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd) | 3:46 | 2024-07-28 |  |
 | [Love & Secret](https://open.spotify.com/track/2Uj75SjWw9utBe64kYbUU8) | [Percy](https://open.spotify.com/artist/1YDIuX4Pe5XwZmInJ4GYGr), [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [Love & Secret](https://open.spotify.com/album/5Nf4Rf9Xankkmsb4737GM6) | 2:28 | 2024-07-12 | 2024-07-27 |
 | [Luxury](https://open.spotify.com/track/1EOWBTE1GPKcxz3wlR08tW) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [Luxury](https://open.spotify.com/album/0T8k6o8VFOi8Ve5ey2h6Yk) | 4:06 | 2024-06-27 |  |
 | [Magic Moment](https://open.spotify.com/track/2otCi4F9Xh6pAVQjnHcjeI) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [Magic Moment](https://open.spotify.com/album/7nizmQvxMgpxVXnM9JabPf) | 3:58 | 2024-07-26 |  |
@@ -130,7 +131,7 @@
 | [ไม่คิดว่าจะเจ็บขนาดนี้](https://open.spotify.com/track/18nwXd2wrksn4ELwtglCOy) | [First Anuwat](https://open.spotify.com/artist/4KjqrvqKO5fbI5yDR5yzny) | [ไม่คิดว่าจะเจ็บขนาดนี้](https://open.spotify.com/album/47Mmmv9hMKrda3jBQ1zpbR) | 3:38 | 2024-06-27 |  |
 | [ไม่ติด](https://open.spotify.com/track/5ARFnqIJJc9OgCRB7tEygC) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg), [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22) | [URMAN](https://open.spotify.com/album/5m5nxgIvm1W9Cp5FYoYayd) | 3:32 | 2024-06-27 |  |
 | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u) | 3:10 | 2024-06-27 |  |
-| [ไม่เป็นรอง](https://open.spotify.com/track/38uarkAk3Y13onWxwj0MIq) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [ไม่เป็นรอง \- Single](https://open.spotify.com/album/1vsxelQ8EZjwbqMPEETzZ8) | 4:53 | 2024-06-27 |  |
+| [ไม่เป็นรอง](https://open.spotify.com/track/38uarkAk3Y13onWxwj0MIq) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [ไม่เป็นรอง \- Single](https://open.spotify.com/album/1vsxelQ8EZjwbqMPEETzZ8) | 4:53 | 2024-06-27 | 2024-07-29 |
 | [ไม่ให้ไป](https://open.spotify.com/track/0zLFNFvbnPmWZfDewtyaVg) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ไม่ให้ไป \- Single](https://open.spotify.com/album/5mS7KW0IM3CrLf0SO9QM6P) | 4:00 | 2024-06-27 |  |
 | [ไหล่อ่อน \(Soft Shoulder\)](https://open.spotify.com/track/3gmZomhKQOXobALlbU4mEA) | [atom chanakan](https://open.spotify.com/artist/2iLCiSxdwUMDEfqyfkuLEw) | [ไหล่อ่อน \(Soft Shoulder\) \- Single](https://open.spotify.com/album/0OHjpGSf1HpsiwJmv0spEN) | 3:48 | 2024-07-19 |  |
 

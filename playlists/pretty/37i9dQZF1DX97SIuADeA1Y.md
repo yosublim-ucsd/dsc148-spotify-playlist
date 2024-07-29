@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > slap house on repeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,403 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,422 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 56 | [Fantasy Girl](https://open.spotify.com/track/0x0UAeFDjDrFr9mahXB7ti) | [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a), [Sarah Lahn](https://open.spotify.com/artist/54mlM6Oc1sqUvyI2RC5sYa) | [Fantasy Girl](https://open.spotify.com/album/3H1EjhaEw3ZPi2oXpP9mcC) | 3:15 |
 | 57 | [123 \(Dolly Song\) \(feat\. Karma Child\)](https://open.spotify.com/track/2h4tjVVBuvdwpuNnBq9gt0) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [123 \(Dolly Song\) \(feat\. Karma Child\)](https://open.spotify.com/album/6fAlql9r2JYYa9biWm8fhi) | 2:21 |
 | 58 | [Cups \(Drunk in Love Pt\. 2\)](https://open.spotify.com/track/2Se4VxJe5qbNAHLgGsUW9Z) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Wasback](https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ), [Edward V](https://open.spotify.com/artist/0X2qyBhthrsezMgKjMaDFY) | [Cups \(Drunk in Love Pt\. 2\)](https://open.spotify.com/album/1cX6e5ghxOQRY4v2Dh751x) | 2:43 |
-| 59 | [The Lion \(feat\. Sara Sangfelt\)](https://open.spotify.com/track/4dilhWGYoBY6UJqAIyKMqm) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Hard Lights](https://open.spotify.com/artist/3tLvKk2N4IGhT3aZceW2Hy), [Sara Sangfelt](https://open.spotify.com/artist/0j0pG4N3F9hf9dC9gZnOTC) | [The Lion \(feat\. Sara Sangfelt\)](https://open.spotify.com/album/2T5DP35UoY07MHOIQ7YFws) | 2:36 |
-| 60 | [Fire To Smoke](https://open.spotify.com/track/0wpEtERZ78hweuJCWD9eAE) | [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI), [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Fire To Smoke](https://open.spotify.com/album/5DZveTrXrFJSbYk2xSaADW) | 2:43 |
+| 59 | [Fire To Smoke](https://open.spotify.com/track/0wpEtERZ78hweuJCWD9eAE) | [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI), [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Fire To Smoke](https://open.spotify.com/album/5DZveTrXrFJSbYk2xSaADW) | 2:43 |
+| 60 | [The Lion \(feat\. Sara Sangfelt\)](https://open.spotify.com/track/4dilhWGYoBY6UJqAIyKMqm) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Hard Lights](https://open.spotify.com/artist/3tLvKk2N4IGhT3aZceW2Hy), [Sara Sangfelt](https://open.spotify.com/artist/0j0pG4N3F9hf9dC9gZnOTC) | [The Lion \(feat\. Sara Sangfelt\)](https://open.spotify.com/album/2T5DP35UoY07MHOIQ7YFws) | 2:36 |
 
 Snapshot ID: `ZqKx9wAAAAAxBGb6i+Z6ojzNdIQRjj7u`

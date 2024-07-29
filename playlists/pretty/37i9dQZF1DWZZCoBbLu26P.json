@@ -1,6 +1,6 @@
 {
   "description": "Queens everywhere - givin' us life. ",
-  "num_followers": 88842,
+  "num_followers": 88858,
   "original_name": "Fierce",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "Hectic",
+        "url": "https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB"
+      },
+      "artists": [
+        {
+          "name": "Jodie Harsh",
+          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
+        }
+      ],
+      "duration_ms": 157920,
+      "name": "Hectic",
+      "url": "https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "I Made It / Mirror Song / Losing is the New Winning (Las Vegas Live Medley)",
         "url": "https://open.spotify.com/album/3PijFdAw2jAST2TApJBGWr"
       },
@@ -255,22 +271,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Hectic",
-        "url": "https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB"
-      },
-      "artists": [
-        {
-          "name": "Jodie Harsh",
-          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
-        }
-      ],
-      "duration_ms": 157920,
-      "name": "Hectic",
-      "url": "https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Sweet and Sour",
         "url": "https://open.spotify.com/album/1w8Q8MWgBAgSNoI5wUL2qG"
       },
@@ -283,6 +283,22 @@
       "duration_ms": 108000,
       "name": "Sweet and Sour",
       "url": "https://open.spotify.com/track/5Agunnfj2SyNhhFWNmQ8JE"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Barbara",
+        "url": "https://open.spotify.com/album/6PMAcubRYoflJL5bnAW0nZ"
+      },
+      "artists": [
+        {
+          "name": "Trixie Mattel",
+          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/1BjZQhaQy04o37ETiZrXdl"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -351,22 +367,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Barbara",
-        "url": "https://open.spotify.com/album/6PMAcubRYoflJL5bnAW0nZ"
-      },
-      "artists": [
-        {
-          "name": "Trixie Mattel",
-          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/1BjZQhaQy04o37ETiZrXdl"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Bitch Like Me",
         "url": "https://open.spotify.com/album/1VtO6ikGbNWY3bQa0aacg1"
       },
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "It's Chocolate",
-        "url": "https://open.spotify.com/album/7kg8LjngDFhg6s1LqPlaNF"
-      },
-      "artists": [
-        {
-          "name": "LaLa Ri",
-          "url": "https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz"
-        }
-      ],
-      "duration_ms": 159718,
-      "name": "It's Chocolate",
-      "url": "https://open.spotify.com/track/4J3THSWqN2TfLrsjefOk89"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Cr\u00e8me Br\u00fbl\u00e9e",
         "url": "https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu"
       },
@@ -443,6 +427,38 @@
       "duration_ms": 172488,
       "name": "Cr\u00e8me Br\u00fbl\u00e9e",
       "url": "https://open.spotify.com/track/4avu1L6t1rlO6Igm1BmNkG"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "One Stone",
+        "url": "https://open.spotify.com/album/2fta3Z2ikci4mFYexn3AvO"
+      },
+      "artists": [
+        {
+          "name": "Trixie Mattel",
+          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
+        }
+      ],
+      "duration_ms": 185744,
+      "name": "Soldier",
+      "url": "https://open.spotify.com/track/2wWxekq0ATUJtpkmDxsSyL"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "It's Chocolate",
+        "url": "https://open.spotify.com/album/7kg8LjngDFhg6s1LqPlaNF"
+      },
+      "artists": [
+        {
+          "name": "LaLa Ri",
+          "url": "https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz"
+        }
+      ],
+      "duration_ms": 159718,
+      "name": "It's Chocolate",
+      "url": "https://open.spotify.com/track/4J3THSWqN2TfLrsjefOk89"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -523,22 +539,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "One Stone",
-        "url": "https://open.spotify.com/album/2fta3Z2ikci4mFYexn3AvO"
-      },
-      "artists": [
-        {
-          "name": "Trixie Mattel",
-          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
-        }
-      ],
-      "duration_ms": 185744,
-      "name": "Soldier",
-      "url": "https://open.spotify.com/track/2wWxekq0ATUJtpkmDxsSyL"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Excuse the Beauty",
         "url": "https://open.spotify.com/album/6KgyGjGDF73gae1gkQZ9KS"
       },
@@ -571,6 +571,22 @@
       "duration_ms": 150500,
       "name": "Gimme What I Want",
       "url": "https://open.spotify.com/track/2s1HaxivaRNYacIAYZLRym"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm"
+      },
+      "artists": [
+        {
+          "name": "Trixie Mattel",
+          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Shadow - Spotify Singles",
+      "url": "https://open.spotify.com/track/6gGUDB4bS7FhhtGVmjADGr"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -627,6 +643,26 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "Weight (feat. Epiphany Mattel)",
+        "url": "https://open.spotify.com/album/0youfwaLvfbBFw0iWK4Wi3"
+      },
+      "artists": [
+        {
+          "name": "Latrice Royale",
+          "url": "https://open.spotify.com/artist/1MPCKhktsStR2Hnj1s2fvC"
+        },
+        {
+          "name": "Epiphany Mattel",
+          "url": "https://open.spotify.com/artist/0KjBV7nJq8mr5QDsyWzvyy"
+        }
+      ],
+      "duration_ms": 205217,
+      "name": "Weight (feat. Epiphany Mattel)",
+      "url": "https://open.spotify.com/track/07i9T9SDDHXuDuqs1wVAHb"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "AAA",
         "url": "https://open.spotify.com/album/7Hg59DHj3jPVUWxegY6Inm"
       },
@@ -671,22 +707,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm"
-      },
-      "artists": [
-        {
-          "name": "Trixie Mattel",
-          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Shadow - Spotify Singles",
-      "url": "https://open.spotify.com/track/6gGUDB4bS7FhhtGVmjADGr"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Burn Rubber",
         "url": "https://open.spotify.com/album/1mrUyBb7BnWUtHCZuBbYS5"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 173333,
       "name": "Burn Rubber",
       "url": "https://open.spotify.com/track/09d9ySiqQ6YX5Usnj8nba0"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Weight (feat. Epiphany Mattel)",
-        "url": "https://open.spotify.com/album/0youfwaLvfbBFw0iWK4Wi3"
-      },
-      "artists": [
-        {
-          "name": "Latrice Royale",
-          "url": "https://open.spotify.com/artist/1MPCKhktsStR2Hnj1s2fvC"
-        },
-        {
-          "name": "Epiphany Mattel",
-          "url": "https://open.spotify.com/artist/0KjBV7nJq8mr5QDsyWzvyy"
-        }
-      ],
-      "duration_ms": 205217,
-      "name": "Weight (feat. Epiphany Mattel)",
-      "url": "https://open.spotify.com/track/07i9T9SDDHXuDuqs1wVAHb"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW"
-      },
-      "artists": [
-        {
-          "name": "Tia Kofi",
-          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "My Pussy Is Like a Peach",
         "url": "https://open.spotify.com/album/2UF5W1roL28m982inA5g3w"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 232636,
       "name": "My Pussy Is Like a Peach",
       "url": "https://open.spotify.com/track/1skWa3UtU951daIZVQtIEd"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Outside In",
-        "url": "https://open.spotify.com/album/6VT6gpzqEWSk5r0IulfDyR"
-      },
-      "artists": [
-        {
-          "name": "Tia Kofi",
-          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
-        }
-      ],
-      "duration_ms": 194361,
-      "name": "Outside In",
-      "url": "https://open.spotify.com/track/5Yi2qzDQ2HPv9k2J6ZCKso"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Drag Den",
         "url": "https://open.spotify.com/album/7MVcG4rJhelgCOK34fFl8b"
       },
@@ -899,6 +883,22 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "Outside In",
+        "url": "https://open.spotify.com/album/6VT6gpzqEWSk5r0IulfDyR"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        }
+      ],
+      "duration_ms": 194361,
+      "name": "Outside In",
+      "url": "https://open.spotify.com/track/5Yi2qzDQ2HPv9k2J6ZCKso"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "Absolute Zero",
         "url": "https://open.spotify.com/album/0torKYUkz3VBlHVxu0vsli"
       },
@@ -911,6 +911,42 @@
       "duration_ms": 198391,
       "name": "Flamin' Hot",
       "url": "https://open.spotify.com/track/7C32ylxyLfkmlVcJVSuJYb"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Champion (Ru X Blu)",
+        "url": "https://open.spotify.com/album/1NeBhG3TwAJ1YYk0bAT6pQ"
+      },
+      "artists": [
+        {
+          "name": "RuPaul",
+          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+        },
+        {
+          "name": "Blu Hydrangea",
+          "url": "https://open.spotify.com/artist/0oYqfQLQ6DfSaJvjobEps0"
+        }
+      ],
+      "duration_ms": 178278,
+      "name": "Champion (Ru X Blu)",
+      "url": "https://open.spotify.com/track/3Hi69uRksd7Z2YQ9dEGDJP"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Fight for Love",
+        "url": "https://open.spotify.com/album/7z5c2c2cnPBER6cSOc0yiW"
+      },
+      "artists": [
+        {
+          "name": "Courtney Act",
+          "url": "https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/0BspWxbPFXiuH1HwLm83NK"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -979,42 +1015,6 @@
       "duration_ms": 225810,
       "name": "Finish Her!",
       "url": "https://open.spotify.com/track/6hhf4WZLcRuM66DKKfzPCw"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Champion (Ru X Blu)",
-        "url": "https://open.spotify.com/album/1NeBhG3TwAJ1YYk0bAT6pQ"
-      },
-      "artists": [
-        {
-          "name": "RuPaul",
-          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
-        },
-        {
-          "name": "Blu Hydrangea",
-          "url": "https://open.spotify.com/artist/0oYqfQLQ6DfSaJvjobEps0"
-        }
-      ],
-      "duration_ms": 178278,
-      "name": "Champion (Ru X Blu)",
-      "url": "https://open.spotify.com/track/3Hi69uRksd7Z2YQ9dEGDJP"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Fight for Love",
-        "url": "https://open.spotify.com/album/7z5c2c2cnPBER6cSOc0yiW"
-      },
-      "artists": [
-        {
-          "name": "Courtney Act",
-          "url": "https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Fight for Love",
-      "url": "https://open.spotify.com/track/0BspWxbPFXiuH1HwLm83NK"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd"
+      },
+      "artists": [
+        {
+          "name": "Blair St. Clair",
+          "url": "https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd"
+        }
+      ],
+      "duration_ms": 204245,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "Sunshine State",
         "url": "https://open.spotify.com/album/4QMqDNrRDg3Abr3viHFDka"
       },
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd"
-      },
-      "artists": [
-        {
-          "name": "Blair St. Clair",
-          "url": "https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd"
-        }
-      ],
-      "duration_ms": 204245,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "I Love Being A Whore!",
         "url": "https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU"
       },
@@ -1191,26 +1191,6 @@
       "duration_ms": 156000,
       "name": "I Love Being A Whore!",
       "url": "https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Part 1: The Damage",
-        "url": "https://open.spotify.com/album/4NAcKRrc0ueLhK8A0tYqGL"
-      },
-      "artists": [
-        {
-          "name": "Tia Kofi",
-          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
-        },
-        {
-          "name": "Billy Cullum",
-          "url": "https://open.spotify.com/artist/4io2LV6Cv46tjHIMSDie5k"
-        }
-      ],
-      "duration_ms": 173473,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/2rSE4Hl1vnWQhRbbUH0bhb"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1243,6 +1223,26 @@
       "duration_ms": 252500,
       "name": "Stars - Disco Mix",
       "url": "https://open.spotify.com/track/0NUqxqzbiABToJega47uSY"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Part 1: The Damage",
+        "url": "https://open.spotify.com/album/4NAcKRrc0ueLhK8A0tYqGL"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        },
+        {
+          "name": "Billy Cullum",
+          "url": "https://open.spotify.com/artist/4io2LV6Cv46tjHIMSDie5k"
+        }
+      ],
+      "duration_ms": 173473,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/2rSE4Hl1vnWQhRbbUH0bhb"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G"
+      },
+      "artists": [
+        {
+          "name": "Veronica Green",
+          "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
+        }
+      ],
+      "duration_ms": 251250,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "Born Naked",
         "url": "https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7"
       },
@@ -1327,8 +1343,8 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Straight Outta Oz",
-        "url": "https://open.spotify.com/album/1abVmBsdc82pIj9CQu7cN0"
+        "name": "Straight Outta Oz (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3UeUYonBAGu7lZi0706Vdb"
       },
       "artists": [
         {
@@ -1336,29 +1352,13 @@
           "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
         },
         {
-          "name": "Bob the Drag Queen",
-          "url": "https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj"
+          "name": "RuPaul",
+          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
         }
       ],
-      "duration_ms": 158222,
-      "name": "Wrong Bitch",
-      "url": "https://open.spotify.com/track/3eOYEYe2VUsiOSCW53OiZv"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G"
-      },
-      "artists": [
-        {
-          "name": "Veronica Green",
-          "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
-        }
-      ],
-      "duration_ms": 251250,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m"
+      "duration_ms": 201904,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/2TqWayWYGNjqfTpapyveyu"
     },
     {
       "added_at": "2024-05-31 17:55:47",

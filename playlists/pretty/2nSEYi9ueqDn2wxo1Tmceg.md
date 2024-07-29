@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: Alex Izenberg
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 66,839 likes - 52 songs - 3 hr 17 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 66,837 likes - 52 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

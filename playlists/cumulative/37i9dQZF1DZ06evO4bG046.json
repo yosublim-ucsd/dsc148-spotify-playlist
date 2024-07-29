@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "This Is Los Jaivas. Los temas esenciales, todos en una lista.",
+  "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
   "name": "This Is Los Jaivas",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 242200,
       "name": "Aguamarina",
       "url": "https://open.spotify.com/track/38oA0SevVbUsoZCBDEWcvb"
@@ -912,6 +912,24 @@
       "duration_ms": 255153,
       "name": "Ni\u00f1a Serrana (En Vivo)",
       "url": "https://open.spotify.com/track/1kqutTDOwYGSDilE2jfFdI"
+    },
+    {
+      "album": {
+        "name": "Los Jaivas En Vivo: Gira Chile '88 (2024 Remasterizado)",
+        "url": "https://open.spotify.com/album/2nEUAKd34r9jyE4HPj0Le9"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252122,
+      "name": "Ni\u00f1a Serrana (En Vivo) - 2024 Remasterizado",
+      "url": "https://open.spotify.com/track/5sFEFAxRykBNA1xQRrzzRl"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Cynthia Luz. Todas as faixas essenciais numa \u00fanica playlist.",
-  "num_followers": 81465,
+  "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
+  "num_followers": 81469,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqLnAAAAAACah5FWzZroe7pkMTIn9QmB",
+  "snapshot_id": "ZqQ4gAAAAAA4hdxXpVfGEG0qG8+KUDDO",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Olhares",
+        "url": "https://open.spotify.com/album/2uEThThOM8x9bDSSvYK8p3"
+      },
+      "artists": [
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        }
+      ],
+      "duration_ms": 237065,
+      "name": "Olhares",
+      "url": "https://open.spotify.com/track/29gjSnpSaHYKV62A8uwQ1y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bicho de 7 Cabe\u00e7as / a Culpa \u00c9 das Igrejas",
         "url": "https://open.spotify.com/album/6hdyWMkuMjjm7txPp7qScS"
       },
@@ -383,34 +411,6 @@
       "duration_ms": 282033,
       "name": "Bicho de 7 Cabe\u00e7as / A Culpa \u00c9 das Igrejas",
       "url": "https://open.spotify.com/track/4eeGpiaBPnOwD9fT6fBDcE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Olhares",
-        "url": "https://open.spotify.com/album/2uEThThOM8x9bDSSvYK8p3"
-      },
-      "artists": [
-        {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        }
-      ],
-      "duration_ms": 237065,
-      "name": "Olhares",
-      "url": "https://open.spotify.com/track/29gjSnpSaHYKV62A8uwQ1y"
     },
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teoria do Ciclo da \u00c1gua",
-        "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 275905,
-      "name": "Garota",
-      "url": "https://open.spotify.com/track/6ripdgnZJ8hGfVO6jp5ISV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "As 25 Horas de Le Mans",
         "url": "https://open.spotify.com/album/0bH3nq5jLOk2PwSqUA3A5Z"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 194965,
       "name": "As 25 Horas de Le Mans",
       "url": "https://open.spotify.com/track/4I5M8Y32OkiQ3YIakP0HTN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teoria do Ciclo da \u00c1gua",
+        "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 275905,
+      "name": "Garota",
+      "url": "https://open.spotify.com/track/6ripdgnZJ8hGfVO6jp5ISV"
     },
     {
       "added_at": null,
@@ -1011,30 +1011,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "C\u00c9U",
-        "url": "https://open.spotify.com/album/0A6lVVuyDD64paAhWTx9Ec"
+        "name": "A Culpa \u00c9 das Igrejas / Sinais",
+        "url": "https://open.spotify.com/album/7iye7Sbx4EQfqyvEofLy9W"
       },
       "artists": [
         {
-          "name": "Boombeat",
-          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
         },
         {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Saffi",
-          "url": "https://open.spotify.com/artist/7B2LE0Bhy4FxYlJnOuVO1k"
         }
       ],
-      "duration_ms": 266581,
-      "name": "C\u00c9U",
-      "url": "https://open.spotify.com/track/0akv6Ln3jqofVAQYFiuVnS"
+      "duration_ms": 247975,
+      "name": "A Culpa \u00c9 das Igrejas / Sinais",
+      "url": "https://open.spotify.com/track/5wUkG5QrjYbsCTi0TQmrFp"
     },
     {
       "added_at": null,
@@ -1059,26 +1051,6 @@
       "duration_ms": 182000,
       "name": "T\u00e3o Forte",
       "url": "https://open.spotify.com/track/1hbmVcjivTpi9i72mywUD0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Culpa \u00c9 das Igrejas / Sinais",
-        "url": "https://open.spotify.com/album/7iye7Sbx4EQfqyvEofLy9W"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 247975,
-      "name": "A Culpa \u00c9 das Igrejas / Sinais",
-      "url": "https://open.spotify.com/track/5wUkG5QrjYbsCTi0TQmrFp"
     },
     {
       "added_at": null,
@@ -1119,6 +1091,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nosso Jeito",
+        "url": "https://open.spotify.com/album/5HczXa5wbSx9VZ21cORK7B"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Jailhouse",
+          "url": "https://open.spotify.com/artist/6QuV7w29AgBJFHxKVzRyJY"
+        }
+      ],
+      "duration_ms": 190720,
+      "name": "Nosso Jeito",
+      "url": "https://open.spotify.com/track/0JHcoeYllu3QHCtuCUrqYf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ciclo Vicioso",
         "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
       },
@@ -1143,30 +1139,6 @@
       "duration_ms": 206632,
       "name": "Ins\u00f4nia",
       "url": "https://open.spotify.com/track/2k6GseLRHaO4UcUBlTMORl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nosso Jeito",
-        "url": "https://open.spotify.com/album/5HczXa5wbSx9VZ21cORK7B"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Jailhouse",
-          "url": "https://open.spotify.com/artist/6QuV7w29AgBJFHxKVzRyJY"
-        }
-      ],
-      "duration_ms": 190720,
-      "name": "Nosso Jeito",
-      "url": "https://open.spotify.com/track/0JHcoeYllu3QHCtuCUrqYf"
     },
     {
       "added_at": null,
@@ -1247,6 +1219,34 @@
       "duration_ms": 420674,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/6cz9TcEstLOxC3y4ZZD5Tz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hip Hop Machine Temporada 2",
+        "url": "https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI"
+      },
+      "artists": [
+        {
+          "name": "Leo Gandelman",
+          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
+        },
+        {
+          "name": "Machine Series",
+          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 198811,
+      "name": "25 Horas De Le Mans",
+      "url": "https://open.spotify.com/track/0etSiQ9mgcDKGg8v6eLR9A"
     }
   ],
   "unique_name": "This Is Cynthia Luz",

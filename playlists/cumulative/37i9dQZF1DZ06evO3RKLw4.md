@@ -2,7 +2,7 @@
 
 ### [This Is Rancid](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3RKLw4)
 
-> This Is Rancid\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Rancid\. The essential tracks, all in one playlist.
 
 93 songs - 3 hr 34 min
 

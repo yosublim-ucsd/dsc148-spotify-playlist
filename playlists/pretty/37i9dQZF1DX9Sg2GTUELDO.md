@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover：Nancy Kwai
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,126 likes - 342 songs - 20 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,128 likes - 342 songs - 20 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

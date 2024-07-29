@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,751 songs - 3 day 19 hr 23 min
+1,752 songs - 3 day 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,13 +516,14 @@
 | [For evig](https://open.spotify.com/track/6TEXcXRf5Fq9FBJPAGHilB) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Bak en fasade](https://open.spotify.com/album/2sRmW09SjgbrLivAhaZrN2) | 3:20 | 2022-10-22 | 2022-11-06 |
 | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 | 2024-04-20 | 2024-06-07 |
 | [For vår jord](https://open.spotify.com/track/1J6GFv4CtXFuG0Ip7e0OZt) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [For vår jord](https://open.spotify.com/album/7asbXo2omni85X3WgOMbIO) | 2:36 | 2023-02-06 | 2023-03-26 |
+| [Forever Young](https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young](https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs) | 3:46 | 2024-07-28 |  |
 | [FOREVIG \(med TIX\)](https://open.spotify.com/track/1HAzYQY6WYXkgB9v3eYDW4) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8), [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9), [Hytta](https://open.spotify.com/artist/7xPHJsljeCWrn9Cbm5QK0Z) | [FOREVIG \(med TIX\)](https://open.spotify.com/album/7Fa1NOmWW3k6u8A84ghLC6) | 2:16 | 2024-04-11 | 2024-05-19 |
 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 | 2022-09-10 | 2022-10-23 |
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-04-20 | 2024-06-02 |
 | [FREAKY](https://open.spotify.com/track/0Lk3eSBZOCtRwRqKxLgyqV) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [FREAKY](https://open.spotify.com/album/71wMs4JJP0qtqWwgrhFzDz) | 2:02 | 2024-01-27 | 2024-01-29 |
 | [Fredag](https://open.spotify.com/track/7ASJOKaSkNXgaF5h61MolO) | [Aiba](https://open.spotify.com/artist/6Lu4e8FvAWcp1S5BVoDLjJ) | [Fredag](https://open.spotify.com/album/1Hi58wDcsQI43LASiism0P) | 3:11 | 2022-07-09 | 2022-08-07 |
 | [Fredag \- Digg å være norsk](https://open.spotify.com/track/3EzeIilO4QWtrGRqG9TVqB) | [Mr Melk](https://open.spotify.com/artist/2sfYCaSe6ZMDYZxmhA0ujD) | [Fredag \(Digg å være norsk\)](https://open.spotify.com/album/57GAgDviI8h3PrV5QCHqFy) | 2:13 | 2022-03-20 | 2022-05-11 |
-| [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 | 2024-07-27 |  |
+| [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 | 2024-07-27 | 2024-07-29 |
 | [Freeze](https://open.spotify.com/track/4X66U6SUjvZqiKYIpCWXnq) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Freeze](https://open.spotify.com/album/3R2mQavCvrDfM3kZL2B8dh) | 8:07 | 2022-05-07 | 2022-05-15 |
 | [Fresh Out The Slammer](https://open.spotify.com/track/3fO566xJgwxIa3qGCGBvIC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:30 | 2024-04-20 | 2024-04-22 |
 | [Fri](https://open.spotify.com/track/1Eatn3b2Xso8J0Pew0Inpk) | [Petter Northug Jr](https://open.spotify.com/artist/1cGAI8rl33xtRQW12YsnTq) | [Fri](https://open.spotify.com/album/6pOarP48YCy4bXGrHISeBz) | 2:26 | 2021-07-20 | 2021-07-21 |

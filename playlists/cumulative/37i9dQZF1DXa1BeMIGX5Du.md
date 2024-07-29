@@ -4,7 +4,7 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-329 songs - 20 hr 24 min
+331 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Breathe It In](https://open.spotify.com/track/4ldpTCx47OfKJSoz1Y8pef) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t), [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Breathe It In](https://open.spotify.com/album/7CAxC1Y2ILQ7E5Y5TNCnJU) | 3:15 | 2022-03-25 | 2022-07-29 |
 | [Brian Cox](https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Brian Cox](https://open.spotify.com/album/6pNS3kSG0HdxMpjOJ1aQho) | 2:56 | 2024-06-04 |  |
 | [BRING A BETTER DAY](https://open.spotify.com/track/1H8COchF8YcT42jgLNW8xO) | [Mia Lovelock](https://open.spotify.com/artist/2AB8ggIujbUjihfh6qku2C) | [BRING A BETTER DAY](https://open.spotify.com/album/2UOhxBAgwBSS1YMdNmmQdv) | 3:16 | 2024-04-18 |  |
-| [Buffalo Replaced \- Spotify Singles](https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Spotify Singles](https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni) | 2:33 | 2024-03-14 |  |
+| [Buffalo Replaced \- Spotify Singles](https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Spotify Singles](https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni) | 2:33 | 2024-03-14 | 2024-07-29 |
 | [Butterflies](https://open.spotify.com/track/3aufVGeeYQHSq5coMrYFEd) | [Aodhan](https://open.spotify.com/artist/3rlMJg2MzNFDMUoupg8EPB) | [Butterflies](https://open.spotify.com/album/4uHW0jJ8QehbccNuNjWw9I) | 2:55 | 2022-03-25 | 2024-03-08 |
 | [By the Coastline](https://open.spotify.com/track/4pnKKWhKflXZZl2ILUaKS1) | [Rod Coote](https://open.spotify.com/artist/5xifoiBHJPatPhtG96G1ck) | [By the Coastline](https://open.spotify.com/album/5LZXE8mmoRGryQhbhPOESD) | 4:08 | 2024-07-21 |  |
 | [Calico](https://open.spotify.com/track/7CCjLo2MrzvWXOepY9PGnA) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Violence in a Quiet Mind](https://open.spotify.com/album/60K7CiMQEqZC7mi6BjxgY6) | 3:51 | 2023-09-22 | 2024-04-12 |
@@ -162,6 +162,7 @@
 | [It's Easier When You're Standing There](https://open.spotify.com/track/55gRA2nwyEaHOXqK8wwfvV) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [hemispheres](https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC) | 3:47 | 2022-06-17 | 2024-04-03 |
 | [It's Easier When You're Standing There](https://open.spotify.com/track/7kBNWlEwRMrAGi2bPfUjyN) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [It's Easier When You're Standing There](https://open.spotify.com/album/6qdvDwS8wTgYAi6gm8efBZ) | 3:47 | 2022-10-10 | 2022-11-13 |
 | [Just Like A Movie](https://open.spotify.com/track/2BTch3q4AJMKfgRPUXrK1E) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Just Like A Movie](https://open.spotify.com/album/5kEqBFvXUsZMTGS8F8U60y) | 3:18 | 2024-04-02 | 2024-05-24 |
+| [Just Like North](https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Just Like North](https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld) | 3:04 | 2024-07-28 |  |
 | [Karaoke](https://open.spotify.com/track/2B2g136lFHdVblX24YhpAs) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Thundering Hopes](https://open.spotify.com/album/6fiK3VPNK38HEYhnWzsIrw) | 3:20 | 2022-08-25 | 2024-02-17 |
 | [Karaoke](https://open.spotify.com/track/5e6sklOXEsNqSrEPDR1T3Z) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Thundering Hopes](https://open.spotify.com/album/2oRfOLHwgEjqUC2f6YKv0U) | 3:20 | 2022-03-25 | 2022-08-27 |
 | [King of Disappointment](https://open.spotify.com/track/2Iw07pDIocxjnRK4CpBNse) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [King of Disappointment](https://open.spotify.com/album/23fehF8H0YmZyTW6kPDN3X) | 4:11 | 2023-05-09 | 2024-02-17 |
@@ -191,6 +192,7 @@
 | [Making It Through](https://open.spotify.com/track/0qGEFPVwq5NMah8QFbVMkm) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light, Dark, Light Again](https://open.spotify.com/album/7kGXsZHSwblgzytzITVbLg) | 4:42 | 2024-02-16 |  |
 | [Male Fantasy](https://open.spotify.com/track/4ak9GGe6afmi2HbxEjvhIC) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:14 | 2022-03-25 | 2022-10-11 |
 | [Mansion](https://open.spotify.com/track/7ksg8Q9dVls297TACKj91s) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Mansion](https://open.spotify.com/album/3AiBf52cAcDxVpFnfx8Xjr) | 3:31 | 2024-04-18 |  |
+| [Matches](https://open.spotify.com/track/4WD2uWSnU5NmwrfZRM0Vpo) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Matches](https://open.spotify.com/album/4yeVLevHA6aGtIifw9T1WI) | 2:17 | 2024-07-28 |  |
 | [Maybe If I Wore Sunglasses Inside I Won't Feel Tired](https://open.spotify.com/track/3ABzFrPGGVBjn87dLV5g6f) | [Jess Ribeiro](https://open.spotify.com/artist/7AUTmLTFczsYPnMDaLrU0N) | [Summer Of Love](https://open.spotify.com/album/3mFgQhjQyNHOJa23AQ1N2X) | 4:25 | 2024-04-11 | 2024-06-19 |
 | [Maybe If I Wore Sunglasses Inside I Won't Feel Tired](https://open.spotify.com/track/3Tq6aeGI1qf9jxdp8UHPfv) | [Jess Ribeiro](https://open.spotify.com/artist/7AUTmLTFczsYPnMDaLrU0N) | [Summer Of Love](https://open.spotify.com/album/3GuV77axWfjrvU90iuJevs) | 4:25 | 2024-04-11 | 2024-04-19 |
 | [Mid Sentence](https://open.spotify.com/track/5z78SPUoa0zZcb1uWbwPMH) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ), [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Mid Sentence](https://open.spotify.com/album/5xgVWVKEDffykXq1tfSBeX) | 3:04 | 2022-03-25 | 2024-03-01 |
@@ -226,7 +228,7 @@
 | [Pictures](https://open.spotify.com/track/3cKpZzvOX84w0SGxi4eCXA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Pictures](https://open.spotify.com/album/3j78mwd7Ef16kQxHsRCYVQ) | 3:58 | 2022-03-25 | 2022-07-29 |
 | [Pictures](https://open.spotify.com/track/4qkgQT5rV2aNAnMw7kTmvW) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Bury the Moon](https://open.spotify.com/album/3b2sq0nJnoUHDyDwx4wS5Y) | 3:58 | 2022-06-17 | 2024-02-23 |
 | [pocket protector](https://open.spotify.com/track/0woOAqSvbjSMR8BDHxzEkw) | [Alexander Biggs](https://open.spotify.com/artist/0ecqKW5XAse2iABt1eDvvo) | [pocket protector](https://open.spotify.com/album/7liiUvBztzf5TrSHwXIVxo) | 3:38 | 2024-03-07 |  |
-| [Rather Be Lonely](https://open.spotify.com/track/1R10uSrxB4bPPlimJ5ZYl0) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Rather Be Lonely](https://open.spotify.com/album/4K3LRhzDcshQB1sJHrRIzc) | 3:08 | 2024-04-02 |  |
+| [Rather Be Lonely](https://open.spotify.com/track/1R10uSrxB4bPPlimJ5ZYl0) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Rather Be Lonely](https://open.spotify.com/album/4K3LRhzDcshQB1sJHrRIzc) | 3:08 | 2024-04-02 | 2024-07-29 |
 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 | 2022-03-25 | 2024-03-08 |
 | [Right Back to It](https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 4:33 | 2024-04-02 | 2024-04-19 |
 | [Right Back to It](https://open.spotify.com/track/34rKqu2Xx9L27b9859LslA) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Bored](https://open.spotify.com/album/5hkpKoYQ8CE93Uv9zbHXFf) | 4:33 | 2024-02-16 | 2024-04-03 |

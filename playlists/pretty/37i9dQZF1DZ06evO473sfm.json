@@ -1,12 +1,12 @@
 {
-  "description": "This Is Grupo Frontera. Los temas esenciales, todos en una lista.",
-  "num_followers": 398900,
+  "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
+  "num_followers": 399216,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqLnAAAAAADQ1CPqs1CDmRMpHJEjEdUD",
+  "snapshot_id": "ZqQ4gAAAAACk1vARWoxM/c14BHKP8KXz",
   "tracks": [
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Me Entere (En Vivo)",
-        "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "Ya Me Entere - En Vivo",
-      "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Yo Fuera Ladr\u00f3n",
         "url": "https://open.spotify.com/album/0uzre43qEP2l9n0QkxF2OV"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 179201,
       "name": "Si Yo Fuera Ladr\u00f3n",
       "url": "https://open.spotify.com/track/17PlPQ6pWfjvA77V0UHfhV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya Me Entere (En Vivo)",
+        "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Ya Me Entere - En Vivo",
+      "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ＆TEAM
 
-1,130 songs - 2 day 12 hr 59 min
+1,132 songs - 2 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -578,6 +578,7 @@
 | [LOVEADE](https://open.spotify.com/track/0q7U1KqAYPGHdwC8HVw67y) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 2nd Mini Album 'Summer Vibe'](https://open.spotify.com/album/3C9klin5PNVtOaR91eqEGz) | 3:38 | 2022-07-06 | 2022-08-24 |
 | [Lovers or Enemies](https://open.spotify.com/track/4A3qnwmF4iRAHrWttbl6pH) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 1st Single Album ‘0 or 1’](https://open.spotify.com/album/0T4KA4jfdzlCsUO7mLt1ca) | 2:42 | 2024-01-25 | 2024-02-23 |
 | [Lucid Dream](https://open.spotify.com/track/6cLJ7dV0buAC5TfcfSVmcw) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Lucid Dream](https://open.spotify.com/album/6WuRU0IlGtQqBcDC3BKBNU) | 3:15 | 2022-03-08 | 2022-04-22 |
+| [Lucky](https://open.spotify.com/track/4CnDbDsp8M84paAlyPpVpf) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Lucky](https://open.spotify.com/album/1iatPiu9HHlD4GYtyME56A) | 2:47 | 2024-07-29 |  |
 | [LUCKY BELL](https://open.spotify.com/track/2VoGeD6baYNu3L68jPOcgD) | [Gen1es](https://open.spotify.com/artist/27yhKgatOFk8Lpv5qIM1BB) | [LUCKY BELL](https://open.spotify.com/album/7cYsRrPEgsvZmrGeUJXuf6) | 2:45 | 2024-04-26 | 2024-05-24 |
 | [LUMINOUS](https://open.spotify.com/track/55z4CHK595oo1sXngKXdGN) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [LUMINOUS](https://open.spotify.com/album/13B70JuY08wGNOMaL2Mb4e) | 3:58 | 2022-09-27 | 2022-11-23 |
 | [LUMINOUS](https://open.spotify.com/track/5LORlaKLGzAAxeIeqxYxPd) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [LUMINOUS](https://open.spotify.com/album/2SK988TDKtheZT9zVozte4) | 3:58 | 2022-09-13 | 2022-10-14 |
@@ -748,6 +749,7 @@
 | [Redlight](https://open.spotify.com/track/1YUQeCQyj8sNKNkFjxweTo) | [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Ted Park](https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT) | [Redlight](https://open.spotify.com/album/7jermIBGjkYPdB94Pi9uCn) | 3:22 | 2022-11-10 | 2023-01-25 |
 | [Regret of the Times \- 2024 aespa Remake Version](https://open.spotify.com/track/6WJTEsLxWtSIlXML3NVSzA) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Regret of the Times \(2024 aespa Remake Version\) \- SM STATION](https://open.spotify.com/album/4Nav3JE8TIOFiuY5x95MIh) | 2:51 | 2024-01-15 | 2024-03-20 |
 | [Replay](https://open.spotify.com/track/4b33wUnbWt4YSZLWkwtlds) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [AURA](https://open.spotify.com/album/3lWLkdPRedaFQGuC4qQpKm) | 3:27 | 2022-08-08 | 2022-11-11 |
+| [REVERSE](https://open.spotify.com/track/5KlKadHo3z2nuSpWZNgpj3) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [REVERSE](https://open.spotify.com/album/2agh9SrSkdac9tUYbHOeum) | 3:30 | 2024-07-29 |  |
 | [REVERSE \- Drama Edit](https://open.spotify.com/track/6vcNwgGAmINOsAznFM46SK) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [REVERSE \(Drama Edit\)](https://open.spotify.com/album/5ru6dS6Mu7LL1RfflP3Sy6) | 1:25 | 2024-07-09 |  |
 | [RICA RICA](https://open.spotify.com/track/4bZTk4AT2azHqOzGoK5lNg) | [NATURE](https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi) | [NATURE Special Album RICA RICA](https://open.spotify.com/album/7LzUdQlqeFLiw1QnxvK2wW) | 3:26 | 2022-11-02 | 2023-01-18 |
 | [RIDE](https://open.spotify.com/track/1pzYdhRwUEr8QdQkIjqjuc) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [RIDE](https://open.spotify.com/album/2ra6N1nUydQ9MtpuQwTZLa) | 3:47 | 2022-11-02 | 2022-11-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Fiorella
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,528 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,582 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 28 | [Abstinência \- Sistema Diferente, Ao Vivo](https://open.spotify.com/track/35zpuGwGs76ofl3JqpiaMf) | [Bruno Reis & Thiago](https://open.spotify.com/artist/2rJTiPZiYxJaAhyvNT2Thr), [New Music Play](https://open.spotify.com/artist/3k7MPOrJwbfxQS4ArgsNEG) | [Abstinência \(Sistema Diferente, Ao Vivo\)](https://open.spotify.com/album/5JH1JzB0YMEC41kURY92Dv) | 3:02 |
 | 29 | [No Sigilo \- Ao Vivo](https://open.spotify.com/track/5VFU5CR4SLcazLMqoxpQQQ) | [Thiago & Luan](https://open.spotify.com/artist/7hYCXpI5WIklTdgycvPvqL) | [No Sigilo \(Ao Vivo\)](https://open.spotify.com/album/127MLLdBnGLkOfRiUDImBL) | 2:32 |
 | 30 | [Credencial, Quando é Amor](https://open.spotify.com/track/535DDAFoAl2PLIIbuD6Gnl) | [Abel e Benício](https://open.spotify.com/artist/53ealWeLbd46JtRUBRBJlE), [Golfao Produções](https://open.spotify.com/artist/0I3Au8CEIJlFAlJcSv29NL) | [Choppada Universitária Ep 2](https://open.spotify.com/album/5nP3bP8Cr4Di7uQl86T3Lp) | 3:24 |
-| 31 | [Mil Corações / Você Decide \- Ao Vivo](https://open.spotify.com/track/58fa326KdzxpvaOnIzMIMh) | [Douglas & Diego](https://open.spotify.com/artist/44fMCOsl1bJ4IAOiUdYSpY) | [Buteco dos DeD, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6OSnFWxN7Cg4ESuDrO3KcN) | 3:32 |
+| 31 | [Mil Corações / Você Decide \- Ao Vivo](https://open.spotify.com/track/58fa326KdzxpvaOnIzMIMh) | [Douglas & Diego](https://open.spotify.com/artist/44fMCOsl1bJ4IAOiUdYSpY) | [Buteco dos Ded, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6OSnFWxN7Cg4ESuDrO3KcN) | 3:32 |
 | 32 | [Anti Recaída \- Ao Vivo](https://open.spotify.com/track/3IsJlpVwnSoyf4nq7uwkBA) | [Dani Kramar](https://open.spotify.com/artist/66cud0YzAQGjDJ43cfbTHE), [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Anti Recaída \(Ao Vivo\)](https://open.spotify.com/album/3AlqdqyKhRPwJSNT63dl6q) | 2:37 |
 | 33 | [Três Vícios \- Ao Vivo](https://open.spotify.com/track/6L2ic6QNrcwELsHz6y9LKu) | [Lucca & Biel](https://open.spotify.com/artist/0kgLMZYTRaL072kmPiSfxh), [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8) | [Três Vícios \(Ao Vivo\)](https://open.spotify.com/album/1exbSin4LdTz52oRHmPiXb) | 3:18 |
 | 34 | [Pega Eu \- Ao Vivo](https://open.spotify.com/track/7gCe4pdG2dPvlZWPFRrhmd) | [João Pedro e Fellipe](https://open.spotify.com/artist/4HN8GLpL6Vie0xgKDEtpSN), [Workshow](https://open.spotify.com/artist/6YjAtmEF0HcwMnKYSHSDDJ) | [Pega Eu \(Ao Vivo\)](https://open.spotify.com/album/0GzSYPcj8ZLmrcyG5hiU1p) | 2:09 |

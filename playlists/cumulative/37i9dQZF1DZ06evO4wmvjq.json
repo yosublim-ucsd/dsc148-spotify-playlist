@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This is Terry Riley. The essential tracks, all in one playlist.",
+  "description": "This Is Terry Riley. Los temas esenciales, todos en una lista.",
   "name": "This Is Terry Riley",
   "tracks": [
     {
@@ -230,7 +230,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 270000,
       "name": "A Spark from the Infinite - part 2",
       "url": "https://open.spotify.com/track/62u8bT0zb0vnMnyF740LCG"
@@ -576,7 +576,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 389453,
       "name": "Cancion Desierto",
       "url": "https://open.spotify.com/track/1QJHdpZI0opRyXaXsNZCYk"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 347906,
       "name": "Crucifixion Voices",
       "url": "https://open.spotify.com/track/3YrSRU1HKiCPFnjAbZ7Rr7"
@@ -1900,7 +1900,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 520293,
       "name": "Mongolian Winds",
       "url": "https://open.spotify.com/track/4OoC4jry1EgM5M7jMmRto1"
@@ -1990,7 +1990,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 80146,
       "name": "Music for the Gift: Part 4",
       "url": "https://open.spotify.com/track/4eOHeZ791CWqwQOvPmtIoE"
@@ -3024,7 +3024,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 1000000,
       "name": "The Harp of New Albion: III. Riding the Westerleys",
       "url": "https://open.spotify.com/track/5Wk6E15Rgb1MDIeLneuwK4"

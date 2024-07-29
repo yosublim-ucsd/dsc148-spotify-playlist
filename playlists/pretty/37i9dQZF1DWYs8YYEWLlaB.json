@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler. Kapak: Mert Demir",
-  "num_followers": 465623,
+  "num_followers": 466077,
   "original_name": "trend 2024",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
+        "name": "\u00d6n\u00fcm\u00fcz Yaz",
+        "url": "https://open.spotify.com/album/1RQR6pJby9qvranN8SuM1v"
+      },
+      "artists": [
+        {
+          "name": "Simge",
+          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+        }
+      ],
+      "duration_ms": 181518,
+      "name": "\u00d6n\u00fcm\u00fcz Yaz",
+      "url": "https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR"
+    },
+    {
+      "added_at": "2024-07-25 21:00:00",
+      "album": {
         "name": "Sen Bilmezsin",
         "url": "https://open.spotify.com/album/5a3y1scYJAt1OALSshX5kp"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 128000,
       "name": "\u0130NT\u0130HAR",
       "url": "https://open.spotify.com/track/6G8XtIFpmAm0AUaCOJhTuS"
-    },
-    {
-      "added_at": "2024-07-25 21:00:00",
-      "album": {
-        "name": "\u00d6n\u00fcm\u00fcz Yaz",
-        "url": "https://open.spotify.com/album/1RQR6pJby9qvranN8SuM1v"
-      },
-      "artists": [
-        {
-          "name": "Simge",
-          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
-        }
-      ],
-      "duration_ms": 181518,
-      "name": "\u00d6n\u00fcm\u00fcz Yaz",
-      "url": "https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR"
     },
     {
       "added_at": "2024-07-25 21:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
-        "name": "A\u015fk En B\u00fcy\u00fckt\u00fcr Her Zaman",
-        "url": "https://open.spotify.com/album/0eRqafbQDWjvYjcmOykgrd"
-      },
-      "artists": [
-        {
-          "name": "\u0130zel",
-          "url": "https://open.spotify.com/artist/0QSrUuv6y5Woazd3LAjbSH"
-        }
-      ],
-      "duration_ms": 299247,
-      "name": "D\u00fc\u015fer O",
-      "url": "https://open.spotify.com/track/7cCreOFQhqqhCm82twJg0u"
-    },
-    {
-      "added_at": "2024-07-25 21:00:00",
-      "album": {
         "name": "Nefes",
         "url": "https://open.spotify.com/album/7HJ1EmY24dwXLBZQj1UrLS"
       },
@@ -391,6 +375,22 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
+        "name": "A\u015fk En B\u00fcy\u00fckt\u00fcr Her Zaman",
+        "url": "https://open.spotify.com/album/0eRqafbQDWjvYjcmOykgrd"
+      },
+      "artists": [
+        {
+          "name": "\u0130zel",
+          "url": "https://open.spotify.com/artist/0QSrUuv6y5Woazd3LAjbSH"
+        }
+      ],
+      "duration_ms": 299247,
+      "name": "D\u00fc\u015fer O",
+      "url": "https://open.spotify.com/track/7cCreOFQhqqhCm82twJg0u"
+    },
+    {
+      "added_at": "2024-07-25 21:00:00",
+      "album": {
         "name": "Geri D\u00f6nemedim",
         "url": "https://open.spotify.com/album/2EsFEiIxSLfij6dy5vd1SC"
       },
@@ -403,26 +403,6 @@
       "duration_ms": 138640,
       "name": "Geri D\u00f6nemedim",
       "url": "https://open.spotify.com/track/10Sa2Mpma0EHWKLuyyrBdq"
-    },
-    {
-      "added_at": "2024-07-25 21:00:00",
-      "album": {
-        "name": "DACIA X YATIYA (Remix)",
-        "url": "https://open.spotify.com/album/2U6D1xZHeEoe7zmzPJmiVG"
-      },
-      "artists": [
-        {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
-        },
-        {
-          "name": "Melis Kar",
-          "url": "https://open.spotify.com/artist/4hdeFgoe7zQEJWXVIAm2yj"
-        }
-      ],
-      "duration_ms": 158971,
-      "name": "DACIA X YATIYA - Remix",
-      "url": "https://open.spotify.com/track/4RC8B7vYRcM6Kkg5x80ezG"
     },
     {
       "added_at": "2024-07-25 21:00:00",
@@ -471,6 +451,26 @@
       "duration_ms": 126014,
       "name": "LAF",
       "url": "https://open.spotify.com/track/7rHLpc3SZobYPDyBF06uok"
+    },
+    {
+      "added_at": "2024-07-25 21:00:00",
+      "album": {
+        "name": "DACIA X YATIYA (Remix)",
+        "url": "https://open.spotify.com/album/2U6D1xZHeEoe7zmzPJmiVG"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "Melis Kar",
+          "url": "https://open.spotify.com/artist/4hdeFgoe7zQEJWXVIAm2yj"
+        }
+      ],
+      "duration_ms": 158971,
+      "name": "DACIA X YATIYA - Remix",
+      "url": "https://open.spotify.com/track/4RC8B7vYRcM6Kkg5x80ezG"
     },
     {
       "added_at": "2024-07-25 21:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
-        "name": "DO\u011eU\u015eTAN BER\u0130 HAKLIYIM (tmm)",
-        "url": "https://open.spotify.com/album/46Lu9sb5R04T208BLZ5kRm"
-      },
-      "artists": [
-        {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
-        }
-      ],
-      "duration_ms": 133755,
-      "name": "DO\u011eU\u015eTAN BER\u0130 HAKLIYIM (tmm)",
-      "url": "https://open.spotify.com/track/2M7BEoyAzxLBKgnFQqUGmF"
-    },
-    {
-      "added_at": "2024-07-25 21:00:00",
-      "album": {
         "name": "Bir \u0130mkans\u0131z Var",
         "url": "https://open.spotify.com/album/2nVfIifuijOR2SLCrZecIZ"
       },
@@ -615,6 +599,38 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
+        "name": "D\u00f6rt D\u00f6rtl\u00fck",
+        "url": "https://open.spotify.com/album/6BlUffy1dlYUfo3uUhnwP8"
+      },
+      "artists": [
+        {
+          "name": "Beng\u00fc",
+          "url": "https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6"
+        }
+      ],
+      "duration_ms": 212767,
+      "name": "Saat 03.00 (By Volga Tam\u00f6z)",
+      "url": "https://open.spotify.com/track/45cI1Cz1nyp1sHiUd2kgal"
+    },
+    {
+      "added_at": "2024-07-25 21:00:00",
+      "album": {
+        "name": "DO\u011eU\u015eTAN BER\u0130 HAKLIYIM (tmm)",
+        "url": "https://open.spotify.com/album/46Lu9sb5R04T208BLZ5kRm"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "duration_ms": 133755,
+      "name": "DO\u011eU\u015eTAN BER\u0130 HAKLIYIM (tmm)",
+      "url": "https://open.spotify.com/track/2M7BEoyAzxLBKgnFQqUGmF"
+    },
+    {
+      "added_at": "2024-07-25 21:00:00",
+      "album": {
         "name": "Yoksun",
         "url": "https://open.spotify.com/album/5l3AhfIKrcdqJiYUMySwNb"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 136941,
       "name": "Yoksun",
       "url": "https://open.spotify.com/track/0Rb3Zf4wemUX45NNoo5H0L"
-    },
-    {
-      "added_at": "2024-07-25 21:00:00",
-      "album": {
-        "name": "D\u00f6rt D\u00f6rtl\u00fck",
-        "url": "https://open.spotify.com/album/6BlUffy1dlYUfo3uUhnwP8"
-      },
-      "artists": [
-        {
-          "name": "Beng\u00fc",
-          "url": "https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6"
-        }
-      ],
-      "duration_ms": 212767,
-      "name": "Saat 03.00 (By Volga Tam\u00f6z)",
-      "url": "https://open.spotify.com/track/45cI1Cz1nyp1sHiUd2kgal"
     },
     {
       "added_at": "2024-07-25 21:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Hombres G y Reik en portada.",
-  "num_followers": 30552,
+  "num_followers": 30556,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Nublado",
-        "url": "https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Nublado",
-      "url": "https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "La Salvaci\u00f3n",
         "url": "https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC"
       },
@@ -283,6 +267,38 @@
       "duration_ms": 285480,
       "name": "La Salvaci\u00f3n",
       "url": "https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Te Desenamoraste",
+        "url": "https://open.spotify.com/album/7LKSwnfdobqRHjOtUHMn1D"
+      },
+      "artists": [
+        {
+          "name": "Drake Bell",
+          "url": "https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne"
+        }
+      ],
+      "duration_ms": 162712,
+      "name": "Te Desenamoraste",
+      "url": "https://open.spotify.com/track/5A20iH28ulrJ8U3WfCmsJM"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Nublado",
+        "url": "https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -319,22 +335,6 @@
       "duration_ms": 251093,
       "name": "\u00bfQu\u00e9 vas a saber?",
       "url": "https://open.spotify.com/track/38V0tYzvhjYghBvlES5oef"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Te Desenamoraste",
-        "url": "https://open.spotify.com/album/7LKSwnfdobqRHjOtUHMn1D"
-      },
-      "artists": [
-        {
-          "name": "Drake Bell",
-          "url": "https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne"
-        }
-      ],
-      "duration_ms": 162712,
-      "name": "Te Desenamoraste",
-      "url": "https://open.spotify.com/track/5A20iH28ulrJ8U3WfCmsJM"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -455,18 +455,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Secuaz (Noches de Sal\u00f3n)",
-        "url": "https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD"
+        "name": "Hablar de Flores",
+        "url": "https://open.spotify.com/album/1QaPbNvQv3yEVQ3S1V70P7"
       },
       "artists": [
         {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
         }
       ],
-      "duration_ms": 237324,
-      "name": "Secuaz - Noches de Sal\u00f3n",
-      "url": "https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR"
+      "duration_ms": 189551,
+      "name": "Hablar de Flores",
+      "url": "https://open.spotify.com/track/5Kl2aRgbzHQGpzMgCmpWAS"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -491,22 +495,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Hablar de Flores",
-        "url": "https://open.spotify.com/album/1QaPbNvQv3yEVQ3S1V70P7"
+        "name": "Secuaz (Noches de Sal\u00f3n)",
+        "url": "https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD"
       },
       "artists": [
         {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        },
-        {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
         }
       ],
-      "duration_ms": 189551,
-      "name": "Hablar de Flores",
-      "url": "https://open.spotify.com/track/5Kl2aRgbzHQGpzMgCmpWAS"
+      "duration_ms": 237324,
+      "name": "Secuaz - Noches de Sal\u00f3n",
+      "url": "https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Rompehielos",
-        "url": "https://open.spotify.com/album/13HcAi6ldlKksKEFPCrsf3"
-      },
-      "artists": [
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
-        }
-      ],
-      "duration_ms": 180310,
-      "name": "Rompehielos",
-      "url": "https://open.spotify.com/track/0bRhN9bnExMCBF3ktxH2nN"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "S\u00f3lo Qu\u00e9date En Silencio",
         "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 235360,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Rompehielos",
+        "url": "https://open.spotify.com/album/13HcAi6ldlKksKEFPCrsf3"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 180310,
+      "name": "Rompehielos",
+      "url": "https://open.spotify.com/track/0bRhN9bnExMCBF3ktxH2nN"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "EL PEOR",
+        "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "EL PEOR",
+      "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Tu protector",
         "url": "https://open.spotify.com/album/44qRHakiKJlsAMZO37ieEn"
       },
@@ -639,22 +655,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "EL PEOR",
-        "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "EL PEOR",
-      "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "La Puerta",
         "url": "https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 183109,
       "name": "La Puerta",
       "url": "https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Sarajevo",
-        "url": "https://open.spotify.com/album/1r2XwYa9lsn7h6FWSooZeS"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Cum Laude",
-      "url": "https://open.spotify.com/track/2vosVnTYzqlp7HxuCNIXDn"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -735,26 +719,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "IRENE ALEJANDRA",
-        "url": "https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 217096,
-      "name": "Te Am\u00e9 Temprano",
-      "url": "https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "El para\u00edso #2",
         "url": "https://open.spotify.com/album/64GURwXiHXbcjdCIxk6Bpu"
       },
@@ -775,6 +739,42 @@
       "duration_ms": 174629,
       "name": "El para\u00edso #2",
       "url": "https://open.spotify.com/track/0Sk0gQDXrdlrCFk8xFYOrx"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Sarajevo",
+        "url": "https://open.spotify.com/album/1r2XwYa9lsn7h6FWSooZeS"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Cum Laude",
+      "url": "https://open.spotify.com/track/2vosVnTYzqlp7HxuCNIXDn"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "IRENE ALEJANDRA",
+        "url": "https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 217096,
+      "name": "Te Am\u00e9 Temprano",
+      "url": "https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Jodido Sin Ti",
-        "url": "https://open.spotify.com/album/37MEKBQVt7evqaeNjgRC5U"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 165106,
-      "name": "Jodido Sin Ti",
-      "url": "https://open.spotify.com/track/3gYE83kjjPZpsxgJ1HnOo3"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "\u00c9rase Una Vez (Pero Ya No) [De \"EQSB\" Soundtrack]",
         "url": "https://open.spotify.com/album/6yrAgrYatN30AWcHIsWNOM"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 189746,
       "name": "\u00c9rase Una Vez (Pero Ya No)",
       "url": "https://open.spotify.com/track/2CLcqg6PEB76Qkxh6R4MSC"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Jodido Sin Ti",
+        "url": "https://open.spotify.com/album/37MEKBQVt7evqaeNjgRC5U"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 165106,
+      "name": "Jodido Sin Ti",
+      "url": "https://open.spotify.com/track/3gYE83kjjPZpsxgJ1HnOo3"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Check",
-        "url": "https://open.spotify.com/album/0yKmUnSPPCyaNrBbFobzT4"
-      },
-      "artists": [
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Check",
-      "url": "https://open.spotify.com/track/3x7tIdDP7YpTj3Vm8dNc6G"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Brillante Sobre el Mic - EADDA9223",
         "url": "https://open.spotify.com/album/1qZYz4prjJ6jqO99G9G7Vh"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 246183,
       "name": "Brillante Sobre el Mic - EADDA9223",
       "url": "https://open.spotify.com/track/3gnbXX0Fv5iiUvxZVX2O2x"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Check",
+        "url": "https://open.spotify.com/album/0yKmUnSPPCyaNrBbFobzT4"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/3x7tIdDP7YpTj3Vm8dNc6G"
     },
     {
       "added_at": "2024-07-12 06:00:00",

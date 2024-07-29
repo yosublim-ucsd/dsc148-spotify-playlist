@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. LIT Killah en portada.",
-  "num_followers": 254394,
+  "num_followers": 254435,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -147,46 +147,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Carta de Despedida",
-        "url": "https://open.spotify.com/album/1BQAi9dnZNj2102wIIcDzd"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        },
-        {
-          "name": "RONNY J",
-          "url": "https://open.spotify.com/artist/3TKCdsX8yNNoiC1gesn6or"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Carta de Despedida",
-      "url": "https://open.spotify.com/track/7In4Lnz4mpkFkG5zOAzLuE"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "No Me Hagas Seguir",
-        "url": "https://open.spotify.com/album/2uFQET4CktuiLQjLKDFXQk"
-      },
-      "artists": [
-        {
-          "name": "More",
-          "url": "https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi"
-        }
-      ],
-      "duration_ms": 171882,
-      "name": "No Me Hagas Seguir",
-      "url": "https://open.spotify.com/track/6Ylv3sfQITiT3szgTKAXE6"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "La Vida Sin Ti",
         "url": "https://open.spotify.com/album/5mwQPFwobGNOp9P8I3BeUP"
       },
@@ -207,18 +167,18 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "mykonos 2007",
-        "url": "https://open.spotify.com/album/5ajiP8HP6IZvxG7gZ4dlqi"
+        "name": "No Me Hagas Seguir",
+        "url": "https://open.spotify.com/album/2uFQET4CktuiLQjLKDFXQk"
       },
       "artists": [
         {
-          "name": "ABHIR",
-          "url": "https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0"
+          "name": "More",
+          "url": "https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi"
         }
       ],
-      "duration_ms": 205128,
-      "name": "mykonos 2007",
-      "url": "https://open.spotify.com/track/0xyRce9mMcNenSVh1iGd1Y"
+      "duration_ms": 171882,
+      "name": "No Me Hagas Seguir",
+      "url": "https://open.spotify.com/track/6Ylv3sfQITiT3szgTKAXE6"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -239,6 +199,46 @@
       "duration_ms": 170000,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0VaOGXNtoYUf1vAXM0X9ST"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "mykonos 2007",
+        "url": "https://open.spotify.com/album/5ajiP8HP6IZvxG7gZ4dlqi"
+      },
+      "artists": [
+        {
+          "name": "ABHIR",
+          "url": "https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0"
+        }
+      ],
+      "duration_ms": 205128,
+      "name": "mykonos 2007",
+      "url": "https://open.spotify.com/track/0xyRce9mMcNenSVh1iGd1Y"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Carta de Despedida",
+        "url": "https://open.spotify.com/album/1BQAi9dnZNj2102wIIcDzd"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "RONNY J",
+          "url": "https://open.spotify.com/artist/3TKCdsX8yNNoiC1gesn6or"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Carta de Despedida",
+      "url": "https://open.spotify.com/track/7In4Lnz4mpkFkG5zOAzLuE"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Bayside",
-        "url": "https://open.spotify.com/album/433b5MFhScrhyXk5p7UjU3"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 129134,
-      "name": "Bayside",
-      "url": "https://open.spotify.com/track/1HtEP7EwQrI8Rvaz1V5DEu"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "FYAH",
         "url": "https://open.spotify.com/album/4vDEwIEtcEZsNWNQVcIR5M"
       },
@@ -1259,22 +1243,18 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "no me dejes ir",
-        "url": "https://open.spotify.com/album/69ZQKycDrLE7bxQvItohZO"
+        "name": "Bayside",
+        "url": "https://open.spotify.com/album/433b5MFhScrhyXk5p7UjU3"
       },
       "artists": [
         {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        },
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
         }
       ],
-      "duration_ms": 172308,
-      "name": "no me dejes ir",
-      "url": "https://open.spotify.com/track/7DSmAiyl2mJU5LAUggNhVB"
+      "duration_ms": 129134,
+      "name": "Bayside",
+      "url": "https://open.spotify.com/track/1HtEP7EwQrI8Rvaz1V5DEu"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1299,6 +1279,46 @@
       "duration_ms": 168004,
       "name": "Curvas",
       "url": "https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "no me dejes ir",
+        "url": "https://open.spotify.com/album/69ZQKycDrLE7bxQvItohZO"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "duration_ms": 172308,
+      "name": "no me dejes ir",
+      "url": "https://open.spotify.com/track/7DSmAiyl2mJU5LAUggNhVB"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "SANDRO",
+        "url": "https://open.spotify.com/album/13iUVLEs0sIvCtG8ft4MiP"
+      },
+      "artists": [
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 192013,
+      "name": "Creo",
+      "url": "https://open.spotify.com/track/6vFO2NwMrqQXAQyEbGiTq8"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1347,26 +1367,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "SANDRO",
-        "url": "https://open.spotify.com/album/13iUVLEs0sIvCtG8ft4MiP"
-      },
-      "artists": [
-        {
-          "name": "Sandro Malandro",
-          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
-        },
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        }
-      ],
-      "duration_ms": 192013,
-      "name": "Creo",
-      "url": "https://open.spotify.com/track/6vFO2NwMrqQXAQyEbGiTq8"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "Invierno",
         "url": "https://open.spotify.com/album/36akjquegYLPv8C90n0Hqu"
       },
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Honest (feat. C. Tangana)",
-        "url": "https://open.spotify.com/album/3QFSisENbuki9rhPLgpbic"
-      },
-      "artists": [
-        {
-          "name": "Harry James Jr.",
-          "url": "https://open.spotify.com/artist/3n1n9kReQ09hqMJN7PKOGM"
-        },
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        }
-      ],
-      "duration_ms": 215348,
-      "name": "Honest (feat. C. Tangana)",
-      "url": "https://open.spotify.com/track/3FiX402udtjX777EHZUAbU"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "Corazones en Alm\u00edbar",
         "url": "https://open.spotify.com/album/3OqIGVF9QZptoacYAp3JUK"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 202400,
       "name": "Mi Piscis",
       "url": "https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Honest (feat. C. Tangana)",
+        "url": "https://open.spotify.com/album/3QFSisENbuki9rhPLgpbic"
+      },
+      "artists": [
+        {
+          "name": "Harry James Jr.",
+          "url": "https://open.spotify.com/artist/3n1n9kReQ09hqMJN7PKOGM"
+        },
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 215348,
+      "name": "Honest (feat. C. Tangana)",
+      "url": "https://open.spotify.com/track/3FiX402udtjX777EHZUAbU"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Trascendente",
-        "url": "https://open.spotify.com/album/6ITBeE0phdtPNQKawqnony"
-      },
-      "artists": [
-        {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
-        }
-      ],
-      "duration_ms": 212125,
-      "name": "Soy Capaz",
-      "url": "https://open.spotify.com/track/2ACkhhtp0rpOGj5lDdIrHc"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "Emociones 1.5",
         "url": "https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr"
       },
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "C\u00d3DIGOS",
-        "url": "https://open.spotify.com/album/44h2U2huy0NFGn5urk9Jfe"
+        "name": "Trascendente",
+        "url": "https://open.spotify.com/album/6ITBeE0phdtPNQKawqnony"
       },
       "artists": [
         {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
         }
       ],
-      "duration_ms": 182967,
-      "name": "TEIDE",
-      "url": "https://open.spotify.com/track/1Fz16SDK0IZGOKqvgbJNbJ"
+      "duration_ms": 212125,
+      "name": "Soy Capaz",
+      "url": "https://open.spotify.com/track/2ACkhhtp0rpOGj5lDdIrHc"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1651,6 +1635,22 @@
       "duration_ms": 227555,
       "name": "A\u00fan Me Acuerdo",
       "url": "https://open.spotify.com/track/42H5UkGfxxYmgt5zMkqnUa"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "C\u00d3DIGOS",
+        "url": "https://open.spotify.com/album/44h2U2huy0NFGn5urk9Jfe"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 182967,
+      "name": "TEIDE",
+      "url": "https://open.spotify.com/track/1Fz16SDK0IZGOKqvgbJNbJ"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1723,6 +1723,26 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/4xxtiFnG5k9Tr92mdUGTaW"
+      },
+      "artists": [
+        {
+          "name": "Kidd Manny",
+          "url": "https://open.spotify.com/artist/6ckHURH4vaNUiIsoFanfX8"
+        },
+        {
+          "name": "Birat Bitz",
+          "url": "https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b"
+        }
+      ],
+      "duration_ms": 156060,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/02nqZpvFs0QLGbn8lItNWW"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
         "name": "RIP",
         "url": "https://open.spotify.com/album/55b2KZglwORMKbL2bW8EhC"
       },
@@ -1747,26 +1767,6 @@
       "duration_ms": 192000,
       "name": "RIP",
       "url": "https://open.spotify.com/track/1iSLhqv5Lf9N9Rp9bqQQWD"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/4xxtiFnG5k9Tr92mdUGTaW"
-      },
-      "artists": [
-        {
-          "name": "Kidd Manny",
-          "url": "https://open.spotify.com/artist/6ckHURH4vaNUiIsoFanfX8"
-        },
-        {
-          "name": "Birat Bitz",
-          "url": "https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b"
-        }
-      ],
-      "duration_ms": 156060,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/02nqZpvFs0QLGbn8lItNWW"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1799,22 +1799,6 @@
       "duration_ms": 168778,
       "name": "antes que sea tarde",
       "url": "https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "Fin De Semana / Demasiado R\u00e1pido",
-        "url": "https://open.spotify.com/album/3Ad9PD3O28FZHKbJydxHt9"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 186285,
-      "name": "Fin De Semana",
-      "url": "https://open.spotify.com/track/4JtB5gVuzcbnMhWr37SdX4"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1871,6 +1855,22 @@
       "duration_ms": 153600,
       "name": "Kafka",
       "url": "https://open.spotify.com/track/0dPMYriM07Lu8Md86ZEiIf"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Fin De Semana / Demasiado R\u00e1pido",
+        "url": "https://open.spotify.com/album/3Ad9PD3O28FZHKbJydxHt9"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 186285,
+      "name": "Fin De Semana",
+      "url": "https://open.spotify.com/track/4JtB5gVuzcbnMhWr37SdX4"
     }
   ],
   "unique_name": "R&B Latino",

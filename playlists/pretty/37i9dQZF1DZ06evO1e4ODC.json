@@ -1,12 +1,12 @@
 {
-  "description": "This is Jes\u00fas Adri\u00e1n Romero. The essential tracks, all in one playlist.",
-  "num_followers": 192283,
+  "description": "This Is Jes\u00fas Adri\u00e1n Romero. Los temas esenciales, todos en una lista.",
+  "num_followers": 192309,
   "original_name": "This Is Jes\u00fas Adri\u00e1n Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqLnAAAAAAAH5jhlLIcya6elZ0XJOy6q",
+  "snapshot_id": "ZqQ4gAAAAABL1za2zSj552aZNsWUwbFP",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Encontrarme Contigo",
-        "url": "https://open.spotify.com/album/4vFri5t3ea2FpongVjqXql"
+        "name": "\u00bfC\u00f3mo Me Ves?",
+        "url": "https://open.spotify.com/album/1kE9qUu5Etm1bhdp86rwI3"
       },
       "artists": [
-        {
-          "name": "Sat\u00e9lite",
-          "url": "https://open.spotify.com/artist/64Hft9NLW8RfpDzegOZJum"
-        },
         {
           "name": "Jes\u00fas Adri\u00e1n Romero",
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 255960,
-      "name": "Vuelve (feat. Jes\u00fas Adri\u00e1n Romero)",
-      "url": "https://open.spotify.com/track/7u3BNHXrIdT3oKykbwtc6u"
+      "duration_ms": 183268,
+      "name": "\u00bfC\u00f3mo Me Ves?",
+      "url": "https://open.spotify.com/track/3sO095NgJJOy9hQnVI1Gq6"
     },
     {
       "added_at": null,
@@ -543,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfC\u00f3mo Me Ves?",
-        "url": "https://open.spotify.com/album/1kE9qUu5Etm1bhdp86rwI3"
+        "name": "Encontrarme Contigo",
+        "url": "https://open.spotify.com/album/4vFri5t3ea2FpongVjqXql"
       },
       "artists": [
+        {
+          "name": "Sat\u00e9lite",
+          "url": "https://open.spotify.com/artist/64Hft9NLW8RfpDzegOZJum"
+        },
         {
           "name": "Jes\u00fas Adri\u00e1n Romero",
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 183268,
-      "name": "\u00bfC\u00f3mo Me Ves?",
-      "url": "https://open.spotify.com/track/3sO095NgJJOy9hQnVI1Gq6"
+      "duration_ms": 255960,
+      "name": "Vuelve (feat. Jes\u00fas Adri\u00e1n Romero)",
+      "url": "https://open.spotify.com/track/7u3BNHXrIdT3oKykbwtc6u"
     },
     {
       "added_at": null,
@@ -835,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colecci\u00f3n Duetos",
-        "url": "https://open.spotify.com/album/0tflYRKYYx7KJScUmcYZ8u"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        },
-        {
-          "name": "Daniel Santoy",
-          "url": "https://open.spotify.com/artist/6GJvmXXuwbJUu0HodLbkOJ"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Dame Este Monte",
-      "url": "https://open.spotify.com/track/5iofrmnxmrcYf2Vm9DrKbn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Cielo A\u00fan Espera",
         "url": "https://open.spotify.com/album/0a33IGqqFPLIkiKVS7BnhV"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 233200,
       "name": "El Cielo A\u00fan Espera",
       "url": "https://open.spotify.com/track/70x0TeYW9v78ExG6v5M881"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colecci\u00f3n Duetos",
+        "url": "https://open.spotify.com/album/0tflYRKYYx7KJScUmcYZ8u"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        },
+        {
+          "name": "Daniel Santoy",
+          "url": "https://open.spotify.com/artist/6GJvmXXuwbJUu0HodLbkOJ"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "Dame Este Monte",
+      "url": "https://open.spotify.com/track/5iofrmnxmrcYf2Vm9DrKbn"
     },
     {
       "added_at": null,

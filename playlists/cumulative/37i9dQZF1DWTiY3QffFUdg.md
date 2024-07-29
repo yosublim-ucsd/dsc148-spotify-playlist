@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-202 songs - 11 hr 10 min
+203 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Angeli Domini \- with Jane in the Box](https://open.spotify.com/track/0JkUZtDFKWCIeL5HtEaseK) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Axel Cooper](https://open.spotify.com/artist/1adz07qkurydHDZRSePFhI), [Jane in the Box](https://open.spotify.com/artist/5XJBVppii4yVWTKt2aXdlJ) | [Angeli Domini \(with Jane in the Box\)](https://open.spotify.com/album/0m1iMXb5n9u12RwuwZxdq0) | 2:20 | 2023-11-07 |  |
 | [ANNE KAFFEEKANNE](https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd) | [TIM PLVNK](https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk) | [ANNE KAFFEEKANNE](https://open.spotify.com/album/2atktS9Fh4Qf5PSO0SrJ1i) | 2:20 | 2024-05-17 |  |
 | [ART DECO \(TEKKNO\)](https://open.spotify.com/track/5E0FGSdQruBGedbKrhx4po) | [Clarke 99](https://open.spotify.com/artist/2oAPxiUkLs3EdFAtYX4Qr5) | [ART DECO \(TEKKNO\)](https://open.spotify.com/album/4cPDwpxho889ZbeQiLLK8o) | 3:18 | 2024-07-05 |  |
+| [Axel F](https://open.spotify.com/track/69NJgj9iXZbpd5mpFCNLIz) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Axel F](https://open.spotify.com/album/3GOvsaX9iG8WU8gTccXRK6) | 2:28 | 2024-07-26 |  |
 | [Bad Girls](https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Bad Girls](https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH) | 2:01 | 2024-03-15 |  |
 | [BARBEE \- On Acid](https://open.spotify.com/track/7Ium6Ib92uNyQAJKqlnv9s) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Joeski](https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7) | [BARBEE \(On Acid\)](https://open.spotify.com/album/4afcZIEQNtU404MSb03d0h) | 3:28 | 2023-08-18 | 2023-09-20 |
 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 | 2023-08-11 |  |
@@ -166,7 +167,7 @@
 | [Say You Will](https://open.spotify.com/track/63IsPNecHLiwqMMxzeVG12) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Say You Will](https://open.spotify.com/album/1gBgLMEQraFgv7KrMQqxYV) | 2:12 | 2023-09-01 | 2023-09-30 |
 | [Schwer](https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Schwer](https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10) | 3:34 | 2023-09-19 |  |
 | [Shadows Of The Night \- GIGI DAG Mix](https://open.spotify.com/track/5n3jPpWweeAWjSEIONrcXS) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un), [Boostedkids](https://open.spotify.com/artist/2PMTEy2vzCh81UZTpjK7fZ), [GIGI DAG](https://open.spotify.com/artist/5dnmJca9sE7eYfwKyeWVI0) | [Shadows Of The Night \(GIGI DAG Mix\)](https://open.spotify.com/album/5X1zTvAgAce4WDfP2vRBbi) | 2:42 | 2024-04-12 |  |
-| [Silence](https://open.spotify.com/track/5iXgpgzmDiafKqRk4Tl4d2) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Silence](https://open.spotify.com/album/0NWM2Hrpligv2VaMnVUX2Y) | 2:58 | 2023-11-17 |  |
+| [Silence](https://open.spotify.com/track/5iXgpgzmDiafKqRk4Tl4d2) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Silence](https://open.spotify.com/album/0NWM2Hrpligv2VaMnVUX2Y) | 2:58 | 2023-11-17 | 2024-07-29 |
 | [Silver Spark](https://open.spotify.com/track/2oMMOQL2NiNC97TEDmyjMk) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Silver Spark](https://open.spotify.com/album/0SWoFlfVjModLr3r5qeVNi) | 4:21 | 2024-05-17 | 2024-07-16 |
 | [Simulator](https://open.spotify.com/track/4VosqOFgprZKZz3EeDOdMA) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Simulator](https://open.spotify.com/album/6gP0CsJDvNuJJfCjXamjFJ) | 3:40 | 2023-08-11 | 2023-09-11 |
 | [Spicey \- Original](https://open.spotify.com/track/4V8WSDvLpCtcmeXn5ZZLCd) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Spicey \(Original\)](https://open.spotify.com/album/25RnjGOl1DrXiXDlG6axld) | 2:31 | 2023-08-11 | 2023-08-21 |

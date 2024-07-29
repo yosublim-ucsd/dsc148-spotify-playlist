@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 9232,
+  "num_followers": 9231,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-07-16 04:32:33",
       "album": {
+        "name": "Lovey Dovey",
+        "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 216280,
+      "name": "Vancouver",
+      "url": "https://open.spotify.com/track/4p4yxplNCSmt9xfaAMpcd5"
+    },
+    {
+      "added_at": "2024-07-16 04:32:33",
+      "album": {
         "name": "LOVE me",
         "url": "https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK"
       },
@@ -303,18 +319,22 @@
     {
       "added_at": "2024-07-16 04:32:33",
       "album": {
-        "name": "Lovey Dovey",
-        "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN"
       },
       "artists": [
         {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 216280,
-      "name": "Vancouver",
-      "url": "https://open.spotify.com/track/4p4yxplNCSmt9xfaAMpcd5"
+      "duration_ms": 182346,
+      "name": "Right Now (Feat. Crush)",
+      "url": "https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11"
     },
     {
       "added_at": "2024-07-16 04:32:33",
@@ -335,42 +355,6 @@
       "duration_ms": 165700,
       "name": "Goodbye (Feat. Paul Blanco)",
       "url": "https://open.spotify.com/track/7qlA2Y1zPNnQxUd1BWx19x"
-    },
-    {
-      "added_at": "2024-07-16 04:32:33",
-      "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/1XtTygUdUqtwPyErnZxLbR"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 195204,
-      "name": "Martini Blue",
-      "url": "https://open.spotify.com/track/7zDu3l7DDlfSlt20YMKkWo"
-    },
-    {
-      "added_at": "2024-07-16 04:32:33",
-      "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN"
-      },
-      "artists": [
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Right Now (Feat. Crush)",
-      "url": "https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11"
     },
     {
       "added_at": "2024-07-16 04:32:33",
@@ -435,6 +419,22 @@
     {
       "added_at": "2024-07-16 04:32:33",
       "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/1XtTygUdUqtwPyErnZxLbR"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 195204,
+      "name": "Martini Blue",
+      "url": "https://open.spotify.com/track/7zDu3l7DDlfSlt20YMKkWo"
+    },
+    {
+      "added_at": "2024-07-16 04:32:33",
+      "album": {
         "name": "AURA (feat. pH-1)",
         "url": "https://open.spotify.com/album/4P52Fw6ZiYcSL5rT4p3fc9"
       },
@@ -451,22 +451,6 @@
       "duration_ms": 206640,
       "name": "AURA (feat. pH-1) (Prod. GXXD)",
       "url": "https://open.spotify.com/track/6dQ4nj3aDaw7WWlI7Rbj34"
-    },
-    {
-      "added_at": "2024-07-16 04:32:33",
-      "album": {
-        "name": "More ASH",
-        "url": "https://open.spotify.com/album/7DiTwgxwQykOnl7Bfs4KPD"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 115500,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/3uKoBRThCMtgKss90CiXQc"
     },
     {
       "added_at": "2024-07-16 04:32:33",
@@ -535,42 +519,18 @@
     {
       "added_at": "2024-07-16 04:32:33",
       "album": {
-        "name": "Action!",
-        "url": "https://open.spotify.com/album/4Hb8uCYS7SG7vJ7oHInaAw"
+        "name": "More ASH",
+        "url": "https://open.spotify.com/album/7DiTwgxwQykOnl7Bfs4KPD"
       },
       "artists": [
         {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        },
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
         }
       ],
-      "duration_ms": 190812,
-      "name": "Action! (Feat. GRAY)",
-      "url": "https://open.spotify.com/track/3IW5rhsRBxstifAnjQyUI9"
-    },
-    {
-      "added_at": "2024-07-16 04:32:33",
-      "album": {
-        "name": "Life is Wet",
-        "url": "https://open.spotify.com/album/5UBenAYbpBGhynO1tq6N9Z"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        },
-        {
-          "name": "JMIN",
-          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Life is Wet",
-      "url": "https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB"
+      "duration_ms": 115500,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/3uKoBRThCMtgKss90CiXQc"
     },
     {
       "added_at": "2024-07-16 04:32:33",
@@ -595,22 +555,42 @@
     {
       "added_at": "2024-07-16 04:32:33",
       "album": {
-        "name": "RE:UP",
-        "url": "https://open.spotify.com/album/7eLDu8gX4OteyGpDLvM99h"
+        "name": "Life is Wet",
+        "url": "https://open.spotify.com/album/5UBenAYbpBGhynO1tq6N9Z"
       },
       "artists": [
         {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
         },
         {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+          "name": "JMIN",
+          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
         }
       ],
-      "duration_ms": 190813,
-      "name": "Good Night (Feat. BE'O)",
-      "url": "https://open.spotify.com/track/7uzmxEjFEAiadiCCXa0bhi"
+      "duration_ms": 186000,
+      "name": "Life is Wet",
+      "url": "https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB"
+    },
+    {
+      "added_at": "2024-07-16 04:32:33",
+      "album": {
+        "name": "Action!",
+        "url": "https://open.spotify.com/album/4Hb8uCYS7SG7vJ7oHInaAw"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "duration_ms": 190812,
+      "name": "Action! (Feat. GRAY)",
+      "url": "https://open.spotify.com/track/3IW5rhsRBxstifAnjQyUI9"
     },
     {
       "added_at": "2024-07-16 04:32:33",
@@ -627,6 +607,26 @@
       "duration_ms": 197938,
       "name": "ISLAND",
       "url": "https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1"
+    },
+    {
+      "added_at": "2024-07-16 04:32:33",
+      "album": {
+        "name": "RE:UP",
+        "url": "https://open.spotify.com/album/7eLDu8gX4OteyGpDLvM99h"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Good Night (Feat. BE'O)",
+      "url": "https://open.spotify.com/track/7uzmxEjFEAiadiCCXa0bhi"
     },
     {
       "added_at": "2024-07-16 04:32:33",
@@ -779,26 +779,6 @@
     {
       "added_at": "2024-07-16 04:32:33",
       "album": {
-        "name": "365&7",
-        "url": "https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
-        }
-      ],
-      "duration_ms": 169133,
-      "name": "365&7 (Feat. JAMIE)",
-      "url": "https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ"
-    },
-    {
-      "added_at": "2024-07-16 04:32:33",
-      "album": {
         "name": "Why (Feat. Hoody)",
         "url": "https://open.spotify.com/album/00nRSfDSImQs5Y3K0xDO8s"
       },
@@ -839,6 +819,22 @@
     {
       "added_at": "2024-07-16 04:32:33",
       "album": {
+        "name": "Fire Up",
+        "url": "https://open.spotify.com/album/6LsnwhszwrWSHWQh9f4kv6"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
+        }
+      ],
+      "duration_ms": 219060,
+      "name": "Fire Up",
+      "url": "https://open.spotify.com/track/66aRjw9DruRf9J40t1Wm9i"
+    },
+    {
+      "added_at": "2024-07-16 04:32:33",
+      "album": {
         "name": "HANGANG",
         "url": "https://open.spotify.com/album/6Fnj40x1kkxtHK3icGVsqg"
       },
@@ -851,6 +847,26 @@
       "duration_ms": 200488,
       "name": "HANGANG",
       "url": "https://open.spotify.com/track/6nSHtgTH5a959xPucs6Ilb"
+    },
+    {
+      "added_at": "2024-07-16 04:32:33",
+      "album": {
+        "name": "365&7",
+        "url": "https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "duration_ms": 169133,
+      "name": "365&7 (Feat. JAMIE)",
+      "url": "https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ"
     },
     {
       "added_at": "2024-07-16 04:32:33",
@@ -875,70 +891,6 @@
       "duration_ms": 235893,
       "name": "Black Heart (feat. Leellamarz, BE'O)",
       "url": "https://open.spotify.com/track/2odm919sRfQIhH2na8YSKK"
-    },
-    {
-      "added_at": "2024-07-16 04:32:33",
-      "album": {
-        "name": "Fire Up",
-        "url": "https://open.spotify.com/album/6LsnwhszwrWSHWQh9f4kv6"
-      },
-      "artists": [
-        {
-          "name": "Woody",
-          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
-        }
-      ],
-      "duration_ms": 219060,
-      "name": "Fire Up",
-      "url": "https://open.spotify.com/track/66aRjw9DruRf9J40t1Wm9i"
-    },
-    {
-      "added_at": "2024-07-16 04:32:33",
-      "album": {
-        "name": "GONE",
-        "url": "https://open.spotify.com/album/2hDC3CbocIjSSFo7wrc62f"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "TOIL",
-          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
-        },
-        {
-          "name": "Paloalto",
-          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
-        }
-      ],
-      "duration_ms": 224526,
-      "name": "GONE",
-      "url": "https://open.spotify.com/track/2fzucOTof4pxCDG6u8iiGY"
-    },
-    {
-      "added_at": "2024-07-16 04:32:33",
-      "album": {
-        "name": "SHOW ME THE MONEY 11 Final",
-        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 236524,
-      "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
-      "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
     },
     {
       "added_at": "2024-07-16 04:32:33",
@@ -979,6 +931,50 @@
       "duration_ms": 168640,
       "name": "Shawty (feat. Coogie)",
       "url": "https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe"
+    },
+    {
+      "added_at": "2024-07-16 04:32:33",
+      "album": {
+        "name": "GONE",
+        "url": "https://open.spotify.com/album/2hDC3CbocIjSSFo7wrc62f"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        }
+      ],
+      "duration_ms": 224526,
+      "name": "GONE",
+      "url": "https://open.spotify.com/track/2fzucOTof4pxCDG6u8iiGY"
+    },
+    {
+      "added_at": "2024-07-16 04:32:33",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/4MolsOrmb3pU7jKghkFZyr"
+      },
+      "artists": [
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 195942,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/2LLkJ46RvmYlkqduRgK1Nn"
     }
   ],
   "unique_name": "\uac10\uc131\ud799\ud569",

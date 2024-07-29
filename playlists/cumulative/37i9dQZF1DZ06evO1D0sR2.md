@@ -2,7 +2,7 @@
 
 ### [This Is JJ Hairston](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1D0sR2)
 
-> This is JJ Hairston\. The essential tracks, all in one playlist.
+> This is JJ Hairston\. De viktigste sporene samlet i én spilleliste.
 
 146 songs - 16 hr 14 min
 

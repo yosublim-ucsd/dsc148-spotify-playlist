@@ -1743,6 +1743,24 @@
     },
     {
       "album": {
+        "name": "Cloudscape",
+        "url": "https://open.spotify.com/album/1fN2VRfRVaRSJCn6hS4bgo"
+      },
+      "artists": [
+        {
+          "name": "baegel",
+          "url": "https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146328,
+      "name": "Jetlag",
+      "url": "https://open.spotify.com/track/0HFPMPIPGy0o9ocbHMNz2P"
+    },
+    {
+      "album": {
         "name": "Jezerro",
         "url": "https://open.spotify.com/album/0zRaAbN8C00tQH0nQJB5UE"
       },
@@ -2370,7 +2388,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 182000,
       "name": "Night Service",
       "url": "https://open.spotify.com/track/5Hc511aAeqSeQ5PoBqZd84"

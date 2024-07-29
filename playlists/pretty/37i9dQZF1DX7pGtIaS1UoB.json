@@ -1,6 +1,6 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 95129,
+  "num_followers": 95131,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-07-18 16:00:00",
       "album": {
-        "name": "\u5c0f\u65f6\u5149",
-        "url": "https://open.spotify.com/album/4JNSZfS5N1L2eXSkanU0Cu"
-      },
-      "artists": [
-        {
-          "name": "\u80e1\u671f\u7693",
-          "url": "https://open.spotify.com/artist/7LWH3zy213l4E37464t1CO"
-        }
-      ],
-      "duration_ms": 155948,
-      "name": "\u5c0f\u65f6\u5149",
-      "url": "https://open.spotify.com/track/6R3HSoob9oDK60aNFDkOtE"
-    },
-    {
-      "added_at": "2024-07-18 16:00:00",
-      "album": {
         "name": "Ugly Beauty",
         "url": "https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 172968,
       "name": "\u8166\u516c",
       "url": "https://open.spotify.com/track/50ZM3drEKbAIKDfrbRYvX8"
+    },
+    {
+      "added_at": "2024-07-18 16:00:00",
+      "album": {
+        "name": "\u5c0f\u65f6\u5149",
+        "url": "https://open.spotify.com/album/4JNSZfS5N1L2eXSkanU0Cu"
+      },
+      "artists": [
+        {
+          "name": "\u80e1\u671f\u7693",
+          "url": "https://open.spotify.com/artist/7LWH3zy213l4E37464t1CO"
+        }
+      ],
+      "duration_ms": 155948,
+      "name": "\u5c0f\u65f6\u5149",
+      "url": "https://open.spotify.com/track/6R3HSoob9oDK60aNFDkOtE"
     },
     {
       "added_at": "2024-07-18 16:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-07-18 16:00:00",
       "album": {
-        "name": "Till We Fall in Love",
-        "url": "https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt"
-      },
-      "artists": [
-        {
-          "name": "\u989c\u4eba\u4e2d",
-          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
-        }
-      ],
-      "duration_ms": 240283,
-      "name": "Till We Fall in Love",
-      "url": "https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA"
-    },
-    {
-      "added_at": "2024-07-18 16:00:00",
-      "album": {
         "name": "\u6211\u7684\u9ea5\u514b\u98a8",
         "url": "https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 241213,
       "name": "\u611b\u4e0a\u672a\u4f86\u7684\u4f60",
       "url": "https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl"
+    },
+    {
+      "added_at": "2024-07-18 16:00:00",
+      "album": {
+        "name": "Till We Fall in Love",
+        "url": "https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt"
+      },
+      "artists": [
+        {
+          "name": "\u989c\u4eba\u4e2d",
+          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
+        }
+      ],
+      "duration_ms": 240283,
+      "name": "Till We Fall in Love",
+      "url": "https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA"
     },
     {
       "added_at": "2024-07-18 16:00:00",
@@ -771,26 +771,6 @@
     {
       "added_at": "2024-07-18 16:00:00",
       "album": {
-        "name": "\u975e\u914b",
-        "url": "https://open.spotify.com/album/3wXVp7uFmElrmsm65zAhzG"
-      },
-      "artists": [
-        {
-          "name": "\u859b\u660e\u5a9b",
-          "url": "https://open.spotify.com/artist/7j15ACuH4YxdpLiuBHvFAv"
-        },
-        {
-          "name": "\u6731\u8d3a",
-          "url": "https://open.spotify.com/artist/40So5hAPxfVdbVhafEMgA8"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "\u975e\u914b",
-      "url": "https://open.spotify.com/track/6PPqL3Oj5qzpTN8xG19W2z"
-    },
-    {
-      "added_at": "2024-07-18 16:00:00",
-      "album": {
         "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/4tNABtO1IjRcguQA28sP8b"
       },
@@ -831,6 +811,22 @@
     {
       "added_at": "2024-07-18 16:00:00",
       "album": {
+        "name": "Mojito",
+        "url": "https://open.spotify.com/album/1RDzEskhUbajEbNp9xeglp"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 185008,
+      "name": "Mojito",
+      "url": "https://open.spotify.com/track/0EFJeBb373Aau6lnrpgvXo"
+    },
+    {
+      "added_at": "2024-07-18 16:00:00",
+      "album": {
         "name": "\u683c\u683cblue",
         "url": "https://open.spotify.com/album/6HveSS0Oh0HQgtV1RKxgHX"
       },
@@ -847,18 +843,22 @@
     {
       "added_at": "2024-07-18 16:00:00",
       "album": {
-        "name": "Mojito",
-        "url": "https://open.spotify.com/album/1RDzEskhUbajEbNp9xeglp"
+        "name": "\u975e\u914b",
+        "url": "https://open.spotify.com/album/3wXVp7uFmElrmsm65zAhzG"
       },
       "artists": [
         {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+          "name": "\u859b\u660e\u5a9b",
+          "url": "https://open.spotify.com/artist/7j15ACuH4YxdpLiuBHvFAv"
+        },
+        {
+          "name": "\u6731\u8d3a",
+          "url": "https://open.spotify.com/artist/40So5hAPxfVdbVhafEMgA8"
         }
       ],
-      "duration_ms": 185008,
-      "name": "Mojito",
-      "url": "https://open.spotify.com/track/0EFJeBb373Aau6lnrpgvXo"
+      "duration_ms": 172200,
+      "name": "\u975e\u914b",
+      "url": "https://open.spotify.com/track/6PPqL3Oj5qzpTN8xG19W2z"
     },
     {
       "added_at": "2024-07-18 16:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-07-18 16:00:00",
       "album": {
-        "name": "\u54c8\u5c3c",
-        "url": "https://open.spotify.com/album/40VT86rXZCTHUPXukA467i"
-      },
-      "artists": [
-        {
-          "name": "U:NUS",
-          "url": "https://open.spotify.com/artist/5MU3mwZkyvAeTD2vEMs6dZ"
-        }
-      ],
-      "duration_ms": 222682,
-      "name": "\u54c8\u5c3c",
-      "url": "https://open.spotify.com/track/1JzrHJEqu1966vRx8vAaoP"
-    },
-    {
-      "added_at": "2024-07-18 16:00:00",
-      "album": {
         "name": "\u60f3\u8981\u548c\u4f60",
         "url": "https://open.spotify.com/album/3XOXB0PHD6dFQyuIIZGI1o"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 197233,
       "name": "\u60f3\u8981\u548c\u4f60",
       "url": "https://open.spotify.com/track/0yNpiYOgmQkNLO42IgRj6E"
+    },
+    {
+      "added_at": "2024-07-18 16:00:00",
+      "album": {
+        "name": "\u54c8\u5c3c",
+        "url": "https://open.spotify.com/album/40VT86rXZCTHUPXukA467i"
+      },
+      "artists": [
+        {
+          "name": "U:NUS",
+          "url": "https://open.spotify.com/artist/5MU3mwZkyvAeTD2vEMs6dZ"
+        }
+      ],
+      "duration_ms": 222682,
+      "name": "\u54c8\u5c3c",
+      "url": "https://open.spotify.com/track/1JzrHJEqu1966vRx8vAaoP"
     },
     {
       "added_at": "2024-07-18 16:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-18 16:00:00",
       "album": {
-        "name": "\u671f\u5f85\u8457\u4f60\u7684\u51fa\u73fe\uff5c\u9ec3\u8391\u8317\u3001\u9808\u5f18\u9053",
-        "url": "https://open.spotify.com/album/4wKhBdIM1SM5747ok3aPAD"
-      },
-      "artists": [
-        {
-          "name": "AcQUA \u6e90\u5c11\u5e74",
-          "url": "https://open.spotify.com/artist/0CIydy50GshlhGW8ajW0Bn"
-        }
-      ],
-      "duration_ms": 187611,
-      "name": "\u671f\u5f85\u8457\u4f60\u7684\u51fa\u73fe\uff5c\u9ec3\u8391\u8317\u3001\u9808\u5f18\u9053",
-      "url": "https://open.spotify.com/track/5TmRtmA8bJtPZF5ynGKpAM"
-    },
-    {
-      "added_at": "2024-07-18 16:00:00",
-      "album": {
         "name": "\u9e8b\u9e7f",
         "url": "https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 195088,
       "name": "\u6211\u559c\u6b61\u4f60",
       "url": "https://open.spotify.com/track/75EBF5dwgU2w0u4IJtdUI5"
+    },
+    {
+      "added_at": "2024-07-18 16:00:00",
+      "album": {
+        "name": "\u671f\u5f85\u8457\u4f60\u7684\u51fa\u73fe\uff5c\u9ec3\u8391\u8317\u3001\u9808\u5f18\u9053",
+        "url": "https://open.spotify.com/album/4wKhBdIM1SM5747ok3aPAD"
+      },
+      "artists": [
+        {
+          "name": "AcQUA \u6e90\u5c11\u5e74",
+          "url": "https://open.spotify.com/artist/0CIydy50GshlhGW8ajW0Bn"
+        }
+      ],
+      "duration_ms": 187611,
+      "name": "\u671f\u5f85\u8457\u4f60\u7684\u51fa\u73fe\uff5c\u9ec3\u8391\u8317\u3001\u9808\u5f18\u9053",
+      "url": "https://open.spotify.com/track/5TmRtmA8bJtPZF5ynGKpAM"
     },
     {
       "added_at": "2024-07-18 16:00:00",

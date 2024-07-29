@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 22681,
+  "num_followers": 22694,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Gozar Hasta Que Me Ausente",
-        "url": "https://open.spotify.com/album/7lv24E1PaqBcJdGopRCziP"
-      },
-      "artists": [
-        {
-          "name": "Paloma del Cerro",
-          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
-        }
-      ],
-      "duration_ms": 277894,
-      "name": "A la Ma\u00f1anita",
-      "url": "https://open.spotify.com/track/5zNvRx6WBrZu2aYm6oY2Yc"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Viaje Astral",
         "url": "https://open.spotify.com/album/14iJMSksb6BlrFSAiaxIpt"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 244408,
       "name": "Viaje Astral",
       "url": "https://open.spotify.com/track/5v0CqjvWrHkeUeHhofS3RH"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Gozar Hasta Que Me Ausente",
+        "url": "https://open.spotify.com/album/7lv24E1PaqBcJdGopRCziP"
+      },
+      "artists": [
+        {
+          "name": "Paloma del Cerro",
+          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
+        }
+      ],
+      "duration_ms": 277894,
+      "name": "A la Ma\u00f1anita",
+      "url": "https://open.spotify.com/track/5zNvRx6WBrZu2aYm6oY2Yc"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "AMA",
-        "url": "https://open.spotify.com/album/02fcZ97Z4wjbM0143uMLUI"
-      },
-      "artists": [
-        {
-          "name": "Paloma del Cerro",
-          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
-        }
-      ],
-      "duration_ms": 251468,
-      "name": "Su\u00e9ltalo",
-      "url": "https://open.spotify.com/track/2GduMjneBXAVXwnwkgrxCh"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Hijos De La Tierra",
         "url": "https://open.spotify.com/album/3J2zjgISIvNFv5te5f5MWT"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 251106,
       "name": "La Colina de la Vida (feat. Chancha V\u00eda Circuito)",
       "url": "https://open.spotify.com/track/5DyGxCgbGoU5CrR2z2nPGv"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/02fcZ97Z4wjbM0143uMLUI"
+      },
+      "artists": [
+        {
+          "name": "Paloma del Cerro",
+          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
+        }
+      ],
+      "duration_ms": 251468,
+      "name": "Su\u00e9ltalo",
+      "url": "https://open.spotify.com/track/2GduMjneBXAVXwnwkgrxCh"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -403,6 +403,26 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "Arriba Quemando el Sol",
+        "url": "https://open.spotify.com/album/51ukHKGp7EGzxkZx34B0Dv"
+      },
+      "artists": [
+        {
+          "name": "Naci\u00f3n Ekeko",
+          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
+        },
+        {
+          "name": "Maryta de Humahuaca",
+          "url": "https://open.spotify.com/artist/4X9hWSS0vB7GeWRCtDejYc"
+        }
+      ],
+      "duration_ms": 208170,
+      "name": "Arriba Quemando el Sol",
+      "url": "https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "Lupuna",
         "url": "https://open.spotify.com/album/19nZKevjR88xBmIl8qXv0F"
       },
@@ -439,26 +459,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Te Quer\u00eda (Chancha V\u00eda Circuito Remix)",
-        "url": "https://open.spotify.com/album/3d37Om0o9bnqgsng08wJML"
-      },
-      "artists": [
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Te Quer\u00eda - Chancha V\u00eda Circuito Remix",
-      "url": "https://open.spotify.com/track/4GN265cGlXdMk8dJIsYtMe"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Yemanja (Chancha Via Circuito Remix)",
         "url": "https://open.spotify.com/album/3IsYqHiAk8RYJUAweNQ1tY"
       },
@@ -479,42 +479,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Arriba Quemando el Sol",
-        "url": "https://open.spotify.com/album/51ukHKGp7EGzxkZx34B0Dv"
-      },
-      "artists": [
-        {
-          "name": "Naci\u00f3n Ekeko",
-          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
-        },
-        {
-          "name": "Maryta de Humahuaca",
-          "url": "https://open.spotify.com/artist/4X9hWSS0vB7GeWRCtDejYc"
-        }
-      ],
-      "duration_ms": 208170,
-      "name": "Arriba Quemando el Sol",
-      "url": "https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Campo",
-        "url": "https://open.spotify.com/album/34BPrha22VRVsJsOUAqE2l"
-      },
-      "artists": [
-        {
-          "name": "Campo",
-          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
-        }
-      ],
-      "duration_ms": 189026,
-      "name": "Zorzal",
-      "url": "https://open.spotify.com/track/1UUXHwy4T4wHqj1wN7LWpP"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Legado",
         "url": "https://open.spotify.com/album/6lItDdeuBLNfEMECUKBmDU"
       },
@@ -527,94 +491,6 @@
       "duration_ms": 290760,
       "name": "La Maza",
       "url": "https://open.spotify.com/track/5XE0rKDxAW6SeTs833fla2"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "New Latam Beats From Argentina (Disco A)",
-        "url": "https://open.spotify.com/album/0xl8eIaxb1yPsyMPNSaS86"
-      },
-      "artists": [
-        {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
-        }
-      ],
-      "duration_ms": 325025,
-      "name": "Serenata Plateada",
-      "url": "https://open.spotify.com/track/1lQJm0qUacjrCeSNlsInL2"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/28RtDha49nLiVOwF2uKGgH"
-      },
-      "artists": [
-        {
-          "name": "Rumbo Tumba",
-          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/5swaFRVnv2sinjvZKQraiJ"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Ay Palomita",
-        "url": "https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Gallardo",
-          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
-        }
-      ],
-      "duration_ms": 391452,
-      "name": "Ay Palomita",
-      "url": "https://open.spotify.com/track/04p8PSA8qNyrrszfgLM6DD"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Nave",
-        "url": "https://open.spotify.com/album/0ivIf2sYHxEz1grqb26QfR"
-      },
-      "artists": [
-        {
-          "name": "Cocaibica",
-          "url": "https://open.spotify.com/artist/5yhCi2fUWjkXNOCC4U1LUY"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 189791,
-      "name": "Nave",
-      "url": "https://open.spotify.com/track/5wqzEPhRWWigTQJRNLUjxU"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "AMA",
-        "url": "https://open.spotify.com/album/02fcZ97Z4wjbM0143uMLUI"
-      },
-      "artists": [
-        {
-          "name": "Paloma del Cerro",
-          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
-        }
-      ],
-      "duration_ms": 287626,
-      "name": "Reci\u00e9n He Llegado Vidita (Recopilaci\u00f3n Leda Valladares)",
-      "url": "https://open.spotify.com/track/0wy9RdnvIvuH63aygXv0dm"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -639,6 +515,162 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "Ay Palomita",
+        "url": "https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gallardo",
+          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
+        }
+      ],
+      "duration_ms": 391452,
+      "name": "Ay Palomita",
+      "url": "https://open.spotify.com/track/04p8PSA8qNyrrszfgLM6DD"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Te Quer\u00eda (Chancha V\u00eda Circuito Remix)",
+        "url": "https://open.spotify.com/album/3d37Om0o9bnqgsng08wJML"
+      },
+      "artists": [
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Te Quer\u00eda - Chancha V\u00eda Circuito Remix",
+      "url": "https://open.spotify.com/track/4GN265cGlXdMk8dJIsYtMe"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Campo",
+        "url": "https://open.spotify.com/album/34BPrha22VRVsJsOUAqE2l"
+      },
+      "artists": [
+        {
+          "name": "Campo",
+          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
+        }
+      ],
+      "duration_ms": 189026,
+      "name": "Zorzal",
+      "url": "https://open.spotify.com/track/1UUXHwy4T4wHqj1wN7LWpP"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "New Latam Beats From Argentina (Disco A)",
+        "url": "https://open.spotify.com/album/0xl8eIaxb1yPsyMPNSaS86"
+      },
+      "artists": [
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        }
+      ],
+      "duration_ms": 325025,
+      "name": "Serenata Plateada",
+      "url": "https://open.spotify.com/track/1lQJm0qUacjrCeSNlsInL2"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/02fcZ97Z4wjbM0143uMLUI"
+      },
+      "artists": [
+        {
+          "name": "Paloma del Cerro",
+          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
+        }
+      ],
+      "duration_ms": 287626,
+      "name": "Reci\u00e9n He Llegado Vidita (Recopilaci\u00f3n Leda Valladares)",
+      "url": "https://open.spotify.com/track/0wy9RdnvIvuH63aygXv0dm"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/28RtDha49nLiVOwF2uKGgH"
+      },
+      "artists": [
+        {
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/5swaFRVnv2sinjvZKQraiJ"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Juana Azurduy",
+        "url": "https://open.spotify.com/album/2iTeE4WVvIMNbSyJ0dlGOH"
+      },
+      "artists": [
+        {
+          "name": "Naci\u00f3n Ekeko",
+          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Miss Bolivia",
+          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
+        },
+        {
+          "name": "Hilda Lizarazu",
+          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+        },
+        {
+          "name": "Estela de Carlotto",
+          "url": "https://open.spotify.com/artist/3iRYSRX3m5TOt8wz26xx32"
+        }
+      ],
+      "duration_ms": 218461,
+      "name": "Juana Azurduy",
+      "url": "https://open.spotify.com/track/1xbpUvFjNmx7lv0IpiQoUn"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Nave",
+        "url": "https://open.spotify.com/album/0ivIf2sYHxEz1grqb26QfR"
+      },
+      "artists": [
+        {
+          "name": "Cocaibica",
+          "url": "https://open.spotify.com/artist/5yhCi2fUWjkXNOCC4U1LUY"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 189791,
+      "name": "Nave",
+      "url": "https://open.spotify.com/track/5wqzEPhRWWigTQJRNLUjxU"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "Vol. 1",
         "url": "https://open.spotify.com/album/5qtEX6yktv2BXT0s2bI6l8"
       },
@@ -651,6 +683,26 @@
       "duration_ms": 379200,
       "name": "Chilenitas (Orozco / Barrientos) [Remix]",
       "url": "https://open.spotify.com/track/2EuAmjrBtJaqc46VhizcGs"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "La Monta\u00f1a Sin Nombre II",
+        "url": "https://open.spotify.com/album/2Avt4J3pvgttxcTfJc4Kvs"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gallardo",
+          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
+        },
+        {
+          "name": "Raag",
+          "url": "https://open.spotify.com/artist/17TlDRAcjM6AW38ayDz5eF"
+        }
+      ],
+      "duration_ms": 362653,
+      "name": "CUMBIA ORIENTAL",
+      "url": "https://open.spotify.com/track/0UcW62xUDm9MsxcKesIxj8"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -683,6 +735,26 @@
       "duration_ms": 295073,
       "name": "Rio Contento",
       "url": "https://open.spotify.com/track/5KozTQBwKoXKOggYKeyety"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Ca\u00f1averal",
+        "url": "https://open.spotify.com/album/2x4XQ6Fj0DUh66uiT1vYTB"
+      },
+      "artists": [
+        {
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Ca\u00f1averal",
+      "url": "https://open.spotify.com/track/59SisvjSeXXmlO39EKze2d"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -735,46 +807,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Ca\u00f1averal",
-        "url": "https://open.spotify.com/album/2x4XQ6Fj0DUh66uiT1vYTB"
-      },
-      "artists": [
-        {
-          "name": "Rumbo Tumba",
-          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Ca\u00f1averal",
-      "url": "https://open.spotify.com/track/59SisvjSeXXmlO39EKze2d"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "La Monta\u00f1a Sin Nombre II",
-        "url": "https://open.spotify.com/album/2Avt4J3pvgttxcTfJc4Kvs"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Gallardo",
-          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
-        },
-        {
-          "name": "Raag",
-          "url": "https://open.spotify.com/artist/17TlDRAcjM6AW38ayDz5eF"
-        }
-      ],
-      "duration_ms": 362653,
-      "name": "CUMBIA ORIENTAL",
-      "url": "https://open.spotify.com/track/0UcW62xUDm9MsxcKesIxj8"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Bailarin",
         "url": "https://open.spotify.com/album/5QFdKP0OGBl7qURpRuM3Od"
       },
@@ -811,38 +843,6 @@
       "duration_ms": 217333,
       "name": "Dada",
       "url": "https://open.spotify.com/track/2E5t5IZSEF6DhbuQathQNi"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Juana Azurduy",
-        "url": "https://open.spotify.com/album/2iTeE4WVvIMNbSyJ0dlGOH"
-      },
-      "artists": [
-        {
-          "name": "Naci\u00f3n Ekeko",
-          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Miss Bolivia",
-          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
-        },
-        {
-          "name": "Hilda Lizarazu",
-          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
-        },
-        {
-          "name": "Estela de Carlotto",
-          "url": "https://open.spotify.com/artist/3iRYSRX3m5TOt8wz26xx32"
-        }
-      ],
-      "duration_ms": 218461,
-      "name": "Juana Azurduy",
-      "url": "https://open.spotify.com/track/1xbpUvFjNmx7lv0IpiQoUn"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Dia Y Noche",
-        "url": "https://open.spotify.com/album/1BSgy4al4tS7Wyckk7a8Yv"
-      },
-      "artists": [
-        {
-          "name": "Bosquemar",
-          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
-        }
-      ],
-      "duration_ms": 425500,
-      "name": "Noche - Remix",
-      "url": "https://open.spotify.com/track/11C0KSr18vSPcaRbyEHYqt"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Terrapl\u00e9n",
         "url": "https://open.spotify.com/album/2W1GIoYBLIXXIwTHC2xk9Q"
       },
@@ -1219,6 +1203,38 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "Dia Y Noche",
+        "url": "https://open.spotify.com/album/1BSgy4al4tS7Wyckk7a8Yv"
+      },
+      "artists": [
+        {
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+        }
+      ],
+      "duration_ms": 425500,
+      "name": "Noche - Remix",
+      "url": "https://open.spotify.com/track/11C0KSr18vSPcaRbyEHYqt"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "CARNABAILITO",
+        "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
+      },
+      "artists": [
+        {
+          "name": "Gaby Kerpel",
+          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
+        }
+      ],
+      "duration_ms": 325933,
+      "name": "Carnabailito",
+      "url": "https://open.spotify.com/track/0dm32LoQFdIwdS4GDj0tsK"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "Litoraleza",
         "url": "https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc"
       },
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Magnetismo",
-        "url": "https://open.spotify.com/album/3gCfM35GYz3JC4nLcr9RyU"
-      },
-      "artists": [
-        {
-          "name": "La Yegros",
-          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
-        }
-      ],
-      "duration_ms": 241538,
-      "name": "Carnabailito",
-      "url": "https://open.spotify.com/track/2cVzbNbNXg0NlWyqefuYix"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Margarita y Margarito (Remix)",
         "url": "https://open.spotify.com/album/0LEIGXcKfimgs8ccfzJcVg"
       },
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "CARNABAILITO",
-        "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
+        "name": "Magnetismo",
+        "url": "https://open.spotify.com/album/3gCfM35GYz3JC4nLcr9RyU"
       },
       "artists": [
         {
-          "name": "Gaby Kerpel",
-          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
+          "name": "La Yegros",
+          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
         }
       ],
-      "duration_ms": 325933,
+      "duration_ms": 241538,
       "name": "Carnabailito",
-      "url": "https://open.spotify.com/track/0dm32LoQFdIwdS4GDj0tsK"
+      "url": "https://open.spotify.com/track/2cVzbNbNXg0NlWyqefuYix"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Jallalla",
-        "url": "https://open.spotify.com/album/5Iul5UaUiG7Ko0r0rbnf5c"
-      },
-      "artists": [
-        {
-          "name": "Lagartijeando",
-          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
-        },
-        {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
-        }
-      ],
-      "duration_ms": 340616,
-      "name": "La Frontera",
-      "url": "https://open.spotify.com/track/6vixh55dCERkMeHM68KOE6"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "10 A\u00f1os",
         "url": "https://open.spotify.com/album/6mrRqGRAlSKITzEOqldUeT"
       },
@@ -1483,6 +1463,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "Pluma (Un Disco de Reversiones de la San Llamarada)",
+        "url": "https://open.spotify.com/album/2kiwiXeBYtNKbFQnzrLTLO"
+      },
+      "artists": [
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        }
+      ],
+      "duration_ms": 241023,
+      "name": "Peoncito de Estancia - Kaleema Remix",
+      "url": "https://open.spotify.com/track/3hyFE4ZFa1kljhj4EKOWjh"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "Que Bailen",
         "url": "https://open.spotify.com/album/3CLefmLn6lJPMOSaDUGEaP"
       },
@@ -1503,18 +1499,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Pluma (Un Disco de Reversiones de la San Llamarada)",
-        "url": "https://open.spotify.com/album/2kiwiXeBYtNKbFQnzrLTLO"
+        "name": "Jallalla",
+        "url": "https://open.spotify.com/album/5Iul5UaUiG7Ko0r0rbnf5c"
       },
       "artists": [
         {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+          "name": "Lagartijeando",
+          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
+        },
+        {
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
         }
       ],
-      "duration_ms": 241023,
-      "name": "Peoncito de Estancia - Kaleema Remix",
-      "url": "https://open.spotify.com/track/3hyFE4ZFa1kljhj4EKOWjh"
+      "duration_ms": 340616,
+      "name": "La Frontera",
+      "url": "https://open.spotify.com/track/6vixh55dCERkMeHM68KOE6"
     },
     {
       "added_at": "2024-07-19 03:00:00",

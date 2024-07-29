@@ -1,12 +1,12 @@
 {
   "description": "This is El Harag\u00e1n y Compa\u00f1\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 32120,
+  "num_followers": 32139,
   "original_name": "This Is El Harag\u00e1n y Compa\u00f1\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqLnAAAAAACb2t+rHNdnaz1OmRROqyJU",
+  "snapshot_id": "ZqQ4gAAAAAAJ0af2W8oyJ63dVWpWzNqg",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Capella, Vol. 2",
-        "url": "https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 157524,
-      "name": "Purgante de Amor",
-      "url": "https://open.spotify.com/track/6GVpCnofpTAB8JaBtzaRUu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En el Coraz\u00f3n No Hay Nada",
         "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 261503,
       "name": "En el Coraz\u00f3n No Hay Nada",
       "url": "https://open.spotify.com/track/4b3DzbDuJ04bWTV79nSUFv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Capella, Vol. 2",
+        "url": "https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 157524,
+      "name": "Purgante de Amor",
+      "url": "https://open.spotify.com/track/6GVpCnofpTAB8JaBtzaRUu"
     },
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En el Coraz\u00f3n No Hay Nada",
-        "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
+        "name": "Rock Que Se Comparte",
+        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 183576,
-      "name": "Sue\u00f1os de la Ciudad",
-      "url": "https://open.spotify.com/track/1vF4DBQzM7bEPjemMek3GK"
+      "duration_ms": 177911,
+      "name": "Por los Gluteos de Mi Novia",
+      "url": "https://open.spotify.com/track/7hcMjVJ5x1qVPQu39Szpqn"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Que Se Comparte",
-        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
+        "name": "En el Coraz\u00f3n No Hay Nada",
+        "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 177911,
-      "name": "Por los Gluteos de Mi Novia",
-      "url": "https://open.spotify.com/track/7hcMjVJ5x1qVPQu39Szpqn"
+      "duration_ms": 183576,
+      "name": "Sue\u00f1os de la Ciudad",
+      "url": "https://open.spotify.com/track/1vF4DBQzM7bEPjemMek3GK"
     },
     {
       "added_at": null,
@@ -727,18 +727,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c1nimas",
-        "url": "https://open.spotify.com/album/0PeZWdSpAE6OPz2awjer34"
+        "name": "Y T\u00fa C\u00f3mo Lo Sabes?",
+        "url": "https://open.spotify.com/album/48KpFIYPAifu0M6O4z7Bd4"
       },
       "artists": [
+        {
+          "name": "Riesgo de Contagio",
+          "url": "https://open.spotify.com/artist/5xwNWlB2SB0yzaAQOgcysm"
+        },
         {
           "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 205893,
-      "name": "Una Oportunidad",
-      "url": "https://open.spotify.com/track/7hFNHNj8LKHZq9QBoaAfhm"
+      "duration_ms": 258668,
+      "name": "Y T\u00fa C\u00f3mo Lo Sabes? (Like Heaven Club)",
+      "url": "https://open.spotify.com/track/50DdzGb5A01K43n5PNZMEi"
     },
     {
       "added_at": null,
@@ -759,22 +763,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y T\u00fa C\u00f3mo Lo Sabes?",
-        "url": "https://open.spotify.com/album/48KpFIYPAifu0M6O4z7Bd4"
+        "name": "\u00c1nimas",
+        "url": "https://open.spotify.com/album/0PeZWdSpAE6OPz2awjer34"
       },
       "artists": [
-        {
-          "name": "Riesgo de Contagio",
-          "url": "https://open.spotify.com/artist/5xwNWlB2SB0yzaAQOgcysm"
-        },
         {
           "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 258668,
-      "name": "Y T\u00fa C\u00f3mo Lo Sabes? (Like Heaven Club)",
-      "url": "https://open.spotify.com/track/50DdzGb5A01K43n5PNZMEi"
+      "duration_ms": 205893,
+      "name": "Una Oportunidad",
+      "url": "https://open.spotify.com/track/7hFNHNj8LKHZq9QBoaAfhm"
     },
     {
       "added_at": null,

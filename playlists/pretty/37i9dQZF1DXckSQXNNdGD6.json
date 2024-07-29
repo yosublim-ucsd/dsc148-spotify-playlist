@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Agoney.",
-  "num_followers": 18263,
+  "num_followers": 18266,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
+        "name": "ADICCI\u00d3N",
+        "url": "https://open.spotify.com/album/3Gl9bJ1Q1w7vzQIfoL6qiU"
+      },
+      "artists": [
+        {
+          "name": "BR\u00dcNNE ROMEO",
+          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
+        }
+      ],
+      "duration_ms": 177396,
+      "name": "ADICCI\u00d3N",
+      "url": "https://open.spotify.com/track/5iG9KI3KT20unk2NwfToWi"
+    },
+    {
+      "added_at": "2024-07-03 08:00:50",
+      "album": {
         "name": "La Magia de Tu Melena",
         "url": "https://open.spotify.com/album/5skve00VQ4XaOUQqqD3XRw"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 186500,
       "name": "La Magia de Tu Melena",
       "url": "https://open.spotify.com/track/2pfgvbJXsmSGXdR98Aemvv"
-    },
-    {
-      "added_at": "2024-07-03 08:00:50",
-      "album": {
-        "name": "ADICCI\u00d3N",
-        "url": "https://open.spotify.com/album/3Gl9bJ1Q1w7vzQIfoL6qiU"
-      },
-      "artists": [
-        {
-          "name": "BR\u00dcNNE ROMEO",
-          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
-        }
-      ],
-      "duration_ms": 177396,
-      "name": "ADICCI\u00d3N",
-      "url": "https://open.spotify.com/track/5iG9KI3KT20unk2NwfToWi"
     },
     {
       "added_at": "2024-07-03 08:00:50",
@@ -507,6 +507,26 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
+        "name": "Resaca",
+        "url": "https://open.spotify.com/album/4tHNQxQgs1UcncwUI8oiIi"
+      },
+      "artists": [
+        {
+          "name": "Turista Sueca",
+          "url": "https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7"
+        },
+        {
+          "name": "antimorbo",
+          "url": "https://open.spotify.com/artist/4qSSfcyAi4jaUNXl3ayXcS"
+        }
+      ],
+      "duration_ms": 190588,
+      "name": "Resaca",
+      "url": "https://open.spotify.com/track/0kB41opCLgtqDI4llb9s30"
+    },
+    {
+      "added_at": "2024-07-03 08:00:50",
+      "album": {
         "name": "Si es contigo si",
         "url": "https://open.spotify.com/album/3GzUwScv8d3UskxWWj6480"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 140666,
       "name": "Gente De Mierda",
       "url": "https://open.spotify.com/track/3nUHxleuIMVyXLtc2TQBbl"
-    },
-    {
-      "added_at": "2024-07-03 08:00:50",
-      "album": {
-        "name": "Resaca",
-        "url": "https://open.spotify.com/album/4tHNQxQgs1UcncwUI8oiIi"
-      },
-      "artists": [
-        {
-          "name": "Turista Sueca",
-          "url": "https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7"
-        },
-        {
-          "name": "antimorbo",
-          "url": "https://open.spotify.com/artist/4qSSfcyAi4jaUNXl3ayXcS"
-        }
-      ],
-      "duration_ms": 190588,
-      "name": "Resaca",
-      "url": "https://open.spotify.com/track/0kB41opCLgtqDI4llb9s30"
     },
     {
       "added_at": "2024-07-03 08:00:50",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
+        "name": "Collar Fular",
+        "url": "https://open.spotify.com/album/1JuSedkicPVexihsz6qHuP"
+      },
+      "artists": [
+        {
+          "name": "Ojete Calor",
+          "url": "https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x"
+        }
+      ],
+      "duration_ms": 132680,
+      "name": "Collar Fular",
+      "url": "https://open.spotify.com/track/4s2eThXBozqzc54PX5ZfvJ"
+    },
+    {
+      "added_at": "2024-07-03 08:00:50",
+      "album": {
         "name": "Me Gustas Demasiado - Remix",
         "url": "https://open.spotify.com/album/192BQCY2BJGJtpNAuaJLQc"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 161351,
       "name": "Me Gustas Demasiado - Remix",
       "url": "https://open.spotify.com/track/0NXhi0ibdZ0lk5JT6kjfgw"
-    },
-    {
-      "added_at": "2024-07-03 08:00:50",
-      "album": {
-        "name": "Collar Fular",
-        "url": "https://open.spotify.com/album/1JuSedkicPVexihsz6qHuP"
-      },
-      "artists": [
-        {
-          "name": "Ojete Calor",
-          "url": "https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x"
-        }
-      ],
-      "duration_ms": 132680,
-      "name": "Collar Fular",
-      "url": "https://open.spotify.com/track/4s2eThXBozqzc54PX5ZfvJ"
     },
     {
       "added_at": "2024-07-03 08:00:50",

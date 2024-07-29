@@ -393,7 +393,7 @@
     },
     {
       "album": {
-        "name": "Cangrinaje",
+        "name": "CANGRINAJE",
         "url": "https://open.spotify.com/album/1Oc453GOhH2ghgtrp2qDTa"
       },
       "artists": [
@@ -410,7 +410,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 189278,
-      "name": "Cangrinaje",
+      "name": "CANGRINAJE",
       "url": "https://open.spotify.com/track/5sJXSkZDAJjWrwtJHXLFTI"
     },
     {
@@ -2336,7 +2336,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 128073,
       "name": "Me Aceptaste - En Vivo",
       "url": "https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav"
@@ -2452,7 +2452,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 158386,
       "name": "Mujer Mujer",
       "url": "https://open.spotify.com/track/6LNkvTTCkOkVgI8tDJsFUd"

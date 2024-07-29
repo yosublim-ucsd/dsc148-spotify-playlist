@@ -1913,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "Sentiments",
+        "url": "https://open.spotify.com/album/5svu4CMAw8VYFyF6nxswfr"
+      },
+      "artists": [
+        {
+          "name": "Nape",
+          "url": "https://open.spotify.com/artist/4i2HtvaNWxR0sYVRzQTT1N"
+        }
+      ],
+      "date_added": "2024-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191872,
+      "name": "Sentiments",
+      "url": "https://open.spotify.com/track/1RV7iXLe9Ydh9J9MiXtOLm"
+    },
+    {
+      "album": {
         "name": "Bukiyonawatashidakara",
         "url": "https://open.spotify.com/album/7A2zw5c6HWDnWapolnp36b"
       },
@@ -2544,7 +2562,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 239761,
       "name": "\u300c\u50d5\u306f...\u300d",
       "url": "https://open.spotify.com/track/5uJOkhUYFa6kkDrlEmZk3D"
@@ -3462,7 +3480,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 210500,
       "name": "\u30b9\u30d1\u30fc\u30af\u30eb",
       "url": "https://open.spotify.com/track/3MR8qQiK1Bydhw9WjAzwzU"
@@ -5184,7 +5202,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 202200,
       "name": "\u6b32\u671b\u306b\u6e80\u3061\u305f\u9752\u5e74\u56e3",
       "url": "https://open.spotify.com/track/6D6Pybzey0shI8U9ttRAPx"
@@ -5256,7 +5274,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 245145,
       "name": "\u7126\u52d5",
       "url": "https://open.spotify.com/track/5jMhr5mbqgytUnPZBcHNmr"
@@ -5750,6 +5768,24 @@
       "duration_ms": 245960,
       "name": "\u99ac\u9e7f\u3068\u6804\u5149",
       "url": "https://open.spotify.com/track/6wlSeALQrFl62YIdMZ9Bcm"
+    },
+    {
+      "album": {
+        "name": "\u99c4\u53c9",
+        "url": "https://open.spotify.com/album/5qTt4dRAWF5PZt7jxk79I9"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "date_added": "2024-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253140,
+      "name": "\u99c4\u53c9",
+      "url": "https://open.spotify.com/track/0qYFLPgDBTCF4jCNM5tImu"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdxPR0maUKqu"

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Tokyo Ska Paradise Orchestra. Los temas esenciales, todos en una lista.",
-  "num_followers": 35556,
-  "original_name": "This Is Tokyo Ska Paradise Orchestra",
+  "description": "This is \u6771\u4eac\u30b9\u30ab\u30d1\u30e9\u30c0\u30a4\u30b9\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 35562,
+  "original_name": "This Is \u6771\u4eac\u30b9\u30ab\u30d1\u30e9\u30c0\u30a4\u30b9\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqLnAAAAAADwyFZSFRnxQbM/wineqyoS",
+  "snapshot_id": "ZqQ4gAAAAACCaY0x2N+iLwltWH22+UBJ",
   "tracks": [
     {
       "added_at": null,
@@ -171,26 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paradise Has NO BORDER",
-        "url": "https://open.spotify.com/album/3rASmhW1SB849NFZzsHmIZ"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
-        {
-          "name": "Sakanakun",
-          "url": "https://open.spotify.com/artist/4rfS2cN7FAWYGN4Fj1ALwR"
-        }
-      ],
-      "duration_ms": 243026,
-      "name": "Paradise Has No Border",
-      "url": "https://open.spotify.com/track/0g2W5jMygHfV8HoN4qYTRp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/3iYqZjOvHf05btkIaihOUi"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 210986,
       "name": "Oro",
       "url": "https://open.spotify.com/track/29c0OXo0x1xYt6MMBXFmTn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paradise Has NO BORDER",
+        "url": "https://open.spotify.com/album/3rASmhW1SB849NFZzsHmIZ"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "Sakanakun",
+          "url": "https://open.spotify.com/artist/4rfS2cN7FAWYGN4Fj1ALwR"
+        }
+      ],
+      "duration_ms": 243026,
+      "name": "Paradise Has No Border",
+      "url": "https://open.spotify.com/track/0g2W5jMygHfV8HoN4qYTRp"
     },
     {
       "added_at": null,
@@ -879,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOKYO SKA PARADISE ORCHESTRA\u301cSelecao Brasileira\u301c",
-        "url": "https://open.spotify.com/album/6hfDogTMwv2sOedEilBONy"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 308419,
-      "name": "Pride Of Lions",
-      "url": "https://open.spotify.com/track/3DiWVJ7ULgCB3PoHT7UWdz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JUNK or GEM",
         "url": "https://open.spotify.com/album/0PoeRosC0p1QeV3KTIWxXw"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 178800,
       "name": "JUNK or GEM",
       "url": "https://open.spotify.com/track/7GHryxJjJpJRPO1cq9ASie"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TOKYO SKA PARADISE ORCHESTRA\u301cSelecao Brasileira\u301c",
+        "url": "https://open.spotify.com/album/6hfDogTMwv2sOedEilBONy"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 308419,
+      "name": "Pride Of Lions",
+      "url": "https://open.spotify.com/track/3DiWVJ7ULgCB3PoHT7UWdz"
     },
     {
       "added_at": null,
@@ -941,6 +941,6 @@
       "url": "https://open.spotify.com/track/3Z9XZr4bCHiDzULCOYQ1W7"
     }
   ],
-  "unique_name": "This Is Tokyo Ska Paradise Orchestra",
+  "unique_name": "This Is \u6771\u4eac\u30b9\u30ab\u30d1\u30e9\u30c0\u30a4\u30b9\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tOuj6"
 }

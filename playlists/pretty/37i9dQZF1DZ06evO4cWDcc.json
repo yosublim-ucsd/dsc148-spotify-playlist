@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 307981,
+  "num_followers": 308057,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqLnAAAAAABcUXtvyQCFHg8htPadiVo9",
+  "snapshot_id": "ZqQ4gAAAAADBHCj/arJpguAxqLOpNge3",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jimi Hendrix Experience: Live At The Hollywood Bowl: August 18, 1967",
-        "url": "https://open.spotify.com/album/0DtRXNeZDS03QOb4TsDVLP"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 58253,
-      "name": "Introduction - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
-      "url": "https://open.spotify.com/track/0bHFzlbjS7LHT1tV2fn6nJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "People, Hell & Angels",
         "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 238306,
       "name": "Bleeding Heart",
       "url": "https://open.spotify.com/track/5QytK3mFNMckdsgVdCv5Lf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jimi Hendrix Experience: Live At The Hollywood Bowl: August 18, 1967",
+        "url": "https://open.spotify.com/album/0DtRXNeZDS03QOb4TsDVLP"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 58253,
+      "name": "Introduction - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
+      "url": "https://open.spotify.com/track/0bHFzlbjS7LHT1tV2fn6nJ"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "People, Hell & Angels",
-        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+        "name": "Songs For Groovy Children: The Fillmore East Concerts",
+        "url": "https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 219573,
-      "name": "Hey Gypsy Boy",
-      "url": "https://open.spotify.com/track/2pg0Bg05oairP31CtpbIji"
+      "duration_ms": 533680,
+      "name": "Machine Gun - Live at the Fillmore East, NY - 12/31/69 - 1st Set",
+      "url": "https://open.spotify.com/track/47XzyeCErz1ojPKMcNwfN2"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs For Groovy Children: The Fillmore East Concerts",
-        "url": "https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9"
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 533680,
-      "name": "Machine Gun - Live at the Fillmore East, NY - 12/31/69 - 1st Set",
-      "url": "https://open.spotify.com/track/47XzyeCErz1ojPKMcNwfN2"
+      "duration_ms": 219573,
+      "name": "Hey Gypsy Boy",
+      "url": "https://open.spotify.com/track/2pg0Bg05oairP31CtpbIji"
     },
     {
       "added_at": null,

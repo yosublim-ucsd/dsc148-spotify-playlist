@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. Cover: Jacqline",
-  "num_followers": 195695,
+  "num_followers": 195686,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/6cW67CJz9ZfyUX3Z1oDUQI"
+      },
+      "artists": [
+        {
+          "name": "Adam Woods",
+          "url": "https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc"
+        }
+      ],
+      "duration_ms": 143437,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/6L6Me26P5PGKzqmA3vVrsb"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Boys In The Sea",
         "url": "https://open.spotify.com/album/03vSTMCwvCQSp6uq3dsfmN"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 184434,
       "name": "Devil Mode",
       "url": "https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/6cW67CJz9ZfyUX3Z1oDUQI"
-      },
-      "artists": [
-        {
-          "name": "Adam Woods",
-          "url": "https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc"
-        }
-      ],
-      "duration_ms": 143437,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/6L6Me26P5PGKzqmA3vVrsb"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Midsommar",
-        "url": "https://open.spotify.com/album/15uIg1ZX7dYcg8uRE7BD2q"
-      },
-      "artists": [
-        {
-          "name": "lovad",
-          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
-        }
-      ],
-      "duration_ms": 169586,
-      "name": "Midsommar",
-      "url": "https://open.spotify.com/track/1BWDrue8iLx0niKoUu5f8c"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Upp med hakan",
         "url": "https://open.spotify.com/album/3OAWeefFpKwzXX4JOINByi"
       },
@@ -575,6 +559,38 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Midsommar",
+        "url": "https://open.spotify.com/album/15uIg1ZX7dYcg8uRE7BD2q"
+      },
+      "artists": [
+        {
+          "name": "lovad",
+          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
+        }
+      ],
+      "duration_ms": 169586,
+      "name": "Midsommar",
+      "url": "https://open.spotify.com/track/1BWDrue8iLx0niKoUu5f8c"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Idioti",
+        "url": "https://open.spotify.com/album/4unkmKhapPDaF8PPnBb6Oe"
+      },
+      "artists": [
+        {
+          "name": "noll2",
+          "url": "https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR"
+        }
+      ],
+      "duration_ms": 193327,
+      "name": "Idioti",
+      "url": "https://open.spotify.com/track/1Prntlz7zWyqTgouopKeGk"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Dansa runt problemen",
         "url": "https://open.spotify.com/album/7hMW3RWKWBygBcFzupjqf8"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 161824,
       "name": "BALLA UR",
       "url": "https://open.spotify.com/track/2nuriIC8sNLkHNd0udbjEF"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Idioti",
-        "url": "https://open.spotify.com/album/4unkmKhapPDaF8PPnBb6Oe"
-      },
-      "artists": [
-        {
-          "name": "noll2",
-          "url": "https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR"
-        }
-      ],
-      "duration_ms": 193327,
-      "name": "Idioti",
-      "url": "https://open.spotify.com/track/1Prntlz7zWyqTgouopKeGk"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Mordbrand",
+        "url": "https://open.spotify.com/album/1Qq4f6MVfVz1QG0NSvSB6D"
+      },
+      "artists": [
+        {
+          "name": "Arvid Nero",
+          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+        }
+      ],
+      "duration_ms": 218103,
+      "name": "Mordbrand",
+      "url": "https://open.spotify.com/track/5wcN4IzrDi0vEEAL5etavw"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "22 (feat. Nadja Evelina)",
         "url": "https://open.spotify.com/album/2fqcOlGoHnGTLOpRE1vjak"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 173675,
       "name": "22 (feat. Nadja Evelina)",
       "url": "https://open.spotify.com/track/0scqi9Ay3rmAV2gm8di8VA"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Mordbrand",
-        "url": "https://open.spotify.com/album/1Qq4f6MVfVz1QG0NSvSB6D"
-      },
-      "artists": [
-        {
-          "name": "Arvid Nero",
-          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
-        }
-      ],
-      "duration_ms": 218103,
-      "name": "Mordbrand",
-      "url": "https://open.spotify.com/track/5wcN4IzrDi0vEEAL5etavw"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Pappa",
+        "url": "https://open.spotify.com/album/15NiHKbQoeA3poJIq7TxBM"
+      },
+      "artists": [
+        {
+          "name": "Atmosf\u00e4r",
+          "url": "https://open.spotify.com/artist/1lyKZwLfr7m2hug2svSdUh"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Pappa",
+      "url": "https://open.spotify.com/track/6oHZYJdNPWSFnOjigxUc78"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Elaine",
         "url": "https://open.spotify.com/album/2cyHxoHmfKnjN9F4cXZ8fw"
       },
@@ -1247,34 +1263,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Pappa",
-        "url": "https://open.spotify.com/album/15NiHKbQoeA3poJIq7TxBM"
+        "name": "Confused",
+        "url": "https://open.spotify.com/album/6BoYdLoD7Y6ZOT6pnsLInu"
       },
       "artists": [
         {
-          "name": "Atmosf\u00e4r",
-          "url": "https://open.spotify.com/artist/1lyKZwLfr7m2hug2svSdUh"
+          "name": "Elias Abbas",
+          "url": "https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6"
         }
       ],
-      "duration_ms": 189333,
-      "name": "Pappa",
-      "url": "https://open.spotify.com/track/6oHZYJdNPWSFnOjigxUc78"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/7hmdO5DOqskwVbiLPs2YGV"
-      },
-      "artists": [
-        {
-          "name": "Rebecca & Fiona",
-          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
-        }
-      ],
-      "duration_ms": 242276,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/7GK7HWp2xsLkVGU2apwFan"
+      "duration_ms": 129896,
+      "name": "Confused",
+      "url": "https://open.spotify.com/track/5zQI37GHThm4TLAFgD4ivt"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Confused",
-        "url": "https://open.spotify.com/album/6BoYdLoD7Y6ZOT6pnsLInu"
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/7hmdO5DOqskwVbiLPs2YGV"
       },
       "artists": [
         {
-          "name": "Elias Abbas",
-          "url": "https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6"
+          "name": "Rebecca & Fiona",
+          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
         }
       ],
-      "duration_ms": 129896,
-      "name": "Confused",
-      "url": "https://open.spotify.com/track/5zQI37GHThm4TLAFgD4ivt"
+      "duration_ms": 242276,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/7GK7HWp2xsLkVGU2apwFan"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "No Fun",
-        "url": "https://open.spotify.com/album/0EsVZT9jNfgQNkKcAXqNYb"
-      },
-      "artists": [
-        {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
-        }
-      ],
-      "duration_ms": 199683,
-      "name": "No Fun",
-      "url": "https://open.spotify.com/track/1AdgVWMgeSZNj59u16F0gV"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/0o8gzkpjUijflo4ZddajDu"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 197333,
       "name": "27",
       "url": "https://open.spotify.com/track/7AP2A4pegrgeUgUBNCyGiP"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "No Fun",
+        "url": "https://open.spotify.com/album/0EsVZT9jNfgQNkKcAXqNYb"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "duration_ms": 199683,
+      "name": "No Fun",
+      "url": "https://open.spotify.com/track/1AdgVWMgeSZNj59u16F0gV"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Lily Of The Valley",
+        "url": "https://open.spotify.com/album/7ivEAEyQvcQPzaRGKMbYcY"
+      },
+      "artists": [
+        {
+          "name": "Elin Lanto",
+          "url": "https://open.spotify.com/artist/4sAGoiErI2rWziF96i4eNT"
+        }
+      ],
+      "duration_ms": 189583,
+      "name": "Lily Of The Valley",
+      "url": "https://open.spotify.com/track/39xdvtTXTiWnkkLlJOfqTn"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "When You Were Mine",
         "url": "https://open.spotify.com/album/4M24A6zHYnqqZAOjta3FjC"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 158181,
       "name": "Jag vill ha dig HETT",
       "url": "https://open.spotify.com/track/4lBC21w1qJvrUeZGBdN8NZ"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Lily Of The Valley",
-        "url": "https://open.spotify.com/album/7ivEAEyQvcQPzaRGKMbYcY"
-      },
-      "artists": [
-        {
-          "name": "Elin Lanto",
-          "url": "https://open.spotify.com/artist/4sAGoiErI2rWziF96i4eNT"
-        }
-      ],
-      "duration_ms": 189583,
-      "name": "Lily Of The Valley",
-      "url": "https://open.spotify.com/track/39xdvtTXTiWnkkLlJOfqTn"
     },
     {
       "added_at": "2024-06-27 22:00:00",

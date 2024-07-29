@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,449 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,491 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 34 | [Página De Ex \- Ao Vivo](https://open.spotify.com/track/6IFMz6Buh3dKoUjULWE26n) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Mari No Barzinho, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/1uA9OubhaxPCMtZM5CMYzy) | 2:41 |
 | 35 | [Amor Na Praia](https://open.spotify.com/track/3FB06ULqN0WNUSQ3UaMZnF) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Amor Na Praia](https://open.spotify.com/album/1AmFOS8nn7ufZ6IfxY10Zu) | 2:36 |
 | 36 | [Anestesiado \- Ao Vivo](https://open.spotify.com/track/5r0JHIjcY7dLWHkljNeQbj) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Fortaleza, Vol.2 \(Ao Vivo\)](https://open.spotify.com/album/6t2JyS8CJ0pgBMabJhXWGK) | 2:52 |
-| 37 | [Nem a Pau \(feat\. Simone Mendes\) \- Ao Vivo](https://open.spotify.com/track/6u9tu5yRDTHpWlY86J1GDa) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Nem a Pau \(feat\. Simone Mendes\) \[Ao Vivo\]](https://open.spotify.com/album/2YD9sBbLCikn0C7ZHLZmjm) | 2:41 |
+| 37 | [Nem a Pau \(feat\. Simone Mendes\)](https://open.spotify.com/track/6u9tu5yRDTHpWlY86J1GDa) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Nem a Pau \(feat\. Simone Mendes\)](https://open.spotify.com/album/2YD9sBbLCikn0C7ZHLZmjm) | 2:41 |
 | 38 | [Barulho Do Foguete \- Ao Vivo](https://open.spotify.com/track/42JNab8NPeCADJ9D3Cl5wS) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3a6T0jJ6mF4KpBYvKH5o7Z) | 2:13 |
 | 39 | [Vazou Na Braquiara \- Ao Vivo](https://open.spotify.com/track/2RX89Di479sc53wkaNgt9E) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [062 \(Ao Vivo\)](https://open.spotify.com/album/2BvTUSzjyRiATeuIPicQPY) | 2:44 |
 | 40 | [Dedo do Meio \- Ao Vivo](https://open.spotify.com/track/2ORC76autQ7QTfBCkZl4Wo) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Fortaleza, Vol.2 \(Ao Vivo\)](https://open.spotify.com/album/6t2JyS8CJ0pgBMabJhXWGK) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Apaguei Pra Todos \- Ao Vivo](https://open.spotify.com/track/65vJAh07BdwurqR9SRa6f8) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Ferrugem 10 Anos, Vol\. 1: O Início \(Ao Vivo\)](https://open.spotify.com/album/4S9yXoEJxk13SHsFsnYLcm) | 3:18 |
 | 50 | [Quase Algo \- Ao Vivo Em Nova Iorque / 2022](https://open.spotify.com/track/3iam4WkRoqMoBBCwDFZNgd) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo\)](https://open.spotify.com/album/7BnVrKWFfVy42V2Ozg7Ri6) | 2:58 |
 
-Snapshot ID: `Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LjmvcAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,12 +1,12 @@
 {
   "description": "The perfectly brewed cup, the perfect songs to match. Your happy place is right here.",
-  "num_followers": 559279,
+  "num_followers": 559404,
   "original_name": "Coffee + Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zp0UYAAAAAD9dEjFJxo8pxTxx4wX80PO",
+  "snapshot_id": "ZqZO4AAAAAA+rpugZuBZpJtIq9/ww8/z",
   "tracks": [
     {
       "added_at": "2024-07-12 04:38:56",
@@ -61,6 +61,22 @@
       "url": "https://open.spotify.com/track/4WI20FxHM0ZqJCzxvUIrmy"
     },
     {
+      "added_at": "2024-07-28 14:00:00",
+      "album": {
+        "name": "Just Like North",
+        "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 184334,
+      "name": "Just Like North",
+      "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
+    },
+    {
       "added_at": "2024-07-12 04:38:56",
       "album": {
         "name": "The First Train Home",
@@ -111,6 +127,54 @@
     {
       "added_at": "2024-07-12 04:38:56",
       "album": {
+        "name": "Vienna",
+        "url": "https://open.spotify.com/album/6jNeC1ZND8Cd5GzetoprLH"
+      },
+      "artists": [
+        {
+          "name": "Gretta Ray",
+          "url": "https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek"
+        }
+      ],
+      "duration_ms": 163209,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/6wgut7kOpJaVp3ge69Noou"
+    },
+    {
+      "added_at": "2024-07-28 14:00:00",
+      "album": {
+        "name": "Matches",
+        "url": "https://open.spotify.com/album/4yeVLevHA6aGtIifw9T1WI"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 137986,
+      "name": "Matches",
+      "url": "https://open.spotify.com/track/4WD2uWSnU5NmwrfZRM0Vpo"
+    },
+    {
+      "added_at": "2024-07-12 04:38:56",
+      "album": {
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/5Xk0fve5ECSNzYatXArftB"
+      },
+      "artists": [
+        {
+          "name": "Salt Tree",
+          "url": "https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU"
+        }
+      ],
+      "duration_ms": 197632,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/0v3aVGaDgOPICLHEewERiy"
+    },
+    {
+      "added_at": "2024-07-12 04:38:56",
+      "album": {
         "name": "Blue Dreams",
         "url": "https://open.spotify.com/album/5lz235rEOhBXtnAlzu9HnV"
       },
@@ -139,38 +203,6 @@
       "duration_ms": 163611,
       "name": "Wasting Your Love",
       "url": "https://open.spotify.com/track/2NRx2hmaTxu3e3WbZsaw4G"
-    },
-    {
-      "added_at": "2024-07-12 04:38:56",
-      "album": {
-        "name": "Vienna",
-        "url": "https://open.spotify.com/album/6jNeC1ZND8Cd5GzetoprLH"
-      },
-      "artists": [
-        {
-          "name": "Gretta Ray",
-          "url": "https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek"
-        }
-      ],
-      "duration_ms": 163209,
-      "name": "Vienna",
-      "url": "https://open.spotify.com/track/6wgut7kOpJaVp3ge69Noou"
-    },
-    {
-      "added_at": "2024-07-12 04:38:56",
-      "album": {
-        "name": "Take My Hand",
-        "url": "https://open.spotify.com/album/5Xk0fve5ECSNzYatXArftB"
-      },
-      "artists": [
-        {
-          "name": "Salt Tree",
-          "url": "https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU"
-        }
-      ],
-      "duration_ms": 197632,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/0v3aVGaDgOPICLHEewERiy"
     },
     {
       "added_at": "2024-07-12 04:38:56",
@@ -1051,22 +1083,6 @@
     {
       "added_at": "2024-07-12 04:38:56",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 153850,
-      "name": "Buffalo Replaced - Spotify Singles",
-      "url": "https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB"
-    },
-    {
-      "added_at": "2024-07-12 04:38:56",
-      "album": {
         "name": "Kini",
         "url": "https://open.spotify.com/album/46DOpLwkpDlUHfPusJ91cB"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 255000,
       "name": "Train Left The Station",
       "url": "https://open.spotify.com/track/2MRxpNwr8fccjiRMpa9zFA"
-    },
-    {
-      "added_at": "2024-07-12 04:38:56",
-      "album": {
-        "name": "Rather Be Lonely",
-        "url": "https://open.spotify.com/album/4K3LRhzDcshQB1sJHrRIzc"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 188635,
-      "name": "Rather Be Lonely",
-      "url": "https://open.spotify.com/track/1R10uSrxB4bPPlimJ5ZYl0"
     },
     {
       "added_at": "2024-07-12 04:38:56",

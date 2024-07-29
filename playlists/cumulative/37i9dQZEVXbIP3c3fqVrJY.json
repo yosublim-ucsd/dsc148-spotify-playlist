@@ -4302,7 +4302,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 135487,
       "name": "Cannibal",
       "url": "https://open.spotify.com/track/52X1LYLugxzIGl0R2kEGgn"
@@ -7344,7 +7344,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -25221,6 +25221,24 @@
     },
     {
       "album": {
+        "name": "Str\u00e1\u017ee",
+        "url": "https://open.spotify.com/album/41loYh3kaObosGw20LzKc4"
+      },
+      "artists": [
+        {
+          "name": "Churaq Clique",
+          "url": "https://open.spotify.com/artist/315zBLbyakjVmkOwTz1CeF"
+        }
+      ],
+      "date_added": "2024-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178875,
+      "name": "Str\u00e1\u017ee",
+      "url": "https://open.spotify.com/track/6bP3G7LLW1e8pCZ333w9vB"
+    },
+    {
+      "album": {
         "name": "Stumblin' In",
         "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
       },
@@ -31126,7 +31144,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-23",
+      "date_removed": null,
       "duration_ms": 205780,
       "name": "\u017dijeme len raz",
       "url": "https://open.spotify.com/track/3vjZjq1a1kCmt4FWuDIiOJ"

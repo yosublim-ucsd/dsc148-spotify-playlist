@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Hudson Westbrook",
-  "num_followers": 411376,
+  "num_followers": 411391,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Mean Old Sun",
+        "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "duration_ms": 248706,
+      "name": "Mean Old Sun",
+      "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Work Boots and More from Leather",
         "url": "https://open.spotify.com/album/5RO9lbgYJlJxBdtdz4unA0"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/4j8zbgOMEK1MdNCMfZFBhg"
-      },
-      "artists": [
-        {
-          "name": "Ty Myers",
-          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
-        }
-      ],
-      "duration_ms": 204141,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/37s7g1BDBh9n8dSF2iWBNd"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Same Place Twice",
         "url": "https://open.spotify.com/album/64X0U4axUjoAuupKouCnAU"
       },
@@ -655,34 +655,34 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Mean Old Sun",
-        "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/4j8zbgOMEK1MdNCMfZFBhg"
       },
       "artists": [
         {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
         }
       ],
-      "duration_ms": 248706,
-      "name": "Mean Old Sun",
-      "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
+      "duration_ms": 204141,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/37s7g1BDBh9n8dSF2iWBNd"
     },
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Luckiest Guy I Know",
-        "url": "https://open.spotify.com/album/1xPO9BetrzEAnYGYmNNYp4"
+        "name": "Roadrunner!",
+        "url": "https://open.spotify.com/album/583O7BvKdAfi6tmhdjuI8N"
       },
       "artists": [
         {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
         }
       ],
-      "duration_ms": 216382,
-      "name": "Luckiest Guy I Know",
-      "url": "https://open.spotify.com/track/7GCYZzOEKcSPbWqG8dN3Uo"
+      "duration_ms": 253600,
+      "name": "Other Girls (Ain't Havin' Any Fun)",
+      "url": "https://open.spotify.com/track/6zLZHGqONXx2yYWS9S4Ebv"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -719,6 +719,38 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Luckiest Guy I Know",
+        "url": "https://open.spotify.com/album/1xPO9BetrzEAnYGYmNNYp4"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 216382,
+      "name": "Luckiest Guy I Know",
+      "url": "https://open.spotify.com/track/7GCYZzOEKcSPbWqG8dN3Uo"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Outlaws and Mustangs",
+        "url": "https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 240025,
+      "name": "Outlaws and Mustangs",
+      "url": "https://open.spotify.com/track/3NfiPeYsjdrsyO4kVIEdtr"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Tomorrow's Out Of Sight",
         "url": "https://open.spotify.com/album/2fnlrAlHt9poTfrMSsUSCt"
       },
@@ -731,38 +763,6 @@
       "duration_ms": 214252,
       "name": "Tomorrow's Out Of Sight",
       "url": "https://open.spotify.com/track/37CikqHaMorBEZg3hRx9P8"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Roadrunner!",
-        "url": "https://open.spotify.com/album/583O7BvKdAfi6tmhdjuI8N"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 253600,
-      "name": "Other Girls (Ain't Havin' Any Fun)",
-      "url": "https://open.spotify.com/track/6zLZHGqONXx2yYWS9S4Ebv"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
-      },
-      "artists": [
-        {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
-        }
-      ],
-      "duration_ms": 153125,
-      "name": "The Road",
-      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Outlaws and Mustangs",
-        "url": "https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs"
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
       },
       "artists": [
         {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
         }
       ],
-      "duration_ms": 240025,
-      "name": "Outlaws and Mustangs",
-      "url": "https://open.spotify.com/track/3NfiPeYsjdrsyO4kVIEdtr"
+      "duration_ms": 153125,
+      "name": "The Road",
+      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -999,18 +999,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "When My Baby\u2019s In Boots",
-        "url": "https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q"
+        "name": "Honky Tonk City",
+        "url": "https://open.spotify.com/album/6KmJTSwySjjcGGs16wqPIR"
       },
       "artists": [
         {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
         }
       ],
-      "duration_ms": 183613,
-      "name": "When My Baby\u2019s In Boots",
-      "url": "https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL"
+      "duration_ms": 152253,
+      "name": "Honky Tonk City",
+      "url": "https://open.spotify.com/track/4sdtcGaySrotXJHPBsF3id"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Honky Tonk City",
-        "url": "https://open.spotify.com/album/6KmJTSwySjjcGGs16wqPIR"
+        "name": "When My Baby\u2019s In Boots",
+        "url": "https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q"
       },
       "artists": [
         {
-          "name": "Braxton Keith",
-          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
         }
       ],
-      "duration_ms": 152253,
-      "name": "Honky Tonk City",
-      "url": "https://open.spotify.com/track/4sdtcGaySrotXJHPBsF3id"
+      "duration_ms": 183613,
+      "name": "When My Baby\u2019s In Boots",
+      "url": "https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Built Different",
-        "url": "https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ"
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
       },
       "artists": [
         {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
         }
       ],
-      "duration_ms": 179613,
-      "name": "Starts in a Bar",
-      "url": "https://open.spotify.com/track/5Qpq6TsAObkMLfB7q1z4Qc"
+      "duration_ms": 173131,
+      "name": "Love Talking",
+      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1151,50 +1151,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
+        "name": "Built Different",
+        "url": "https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ"
       },
       "artists": [
         {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
         }
       ],
-      "duration_ms": 173131,
-      "name": "Love Talking",
-      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Green Eyes Blue",
-        "url": "https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq"
-      },
-      "artists": [
-        {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
-        }
-      ],
-      "duration_ms": 217093,
-      "name": "Green Eyes Blue",
-      "url": "https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/2oagcp2i1TpX5QbKtqjWLa"
-      },
-      "artists": [
-        {
-          "name": "Ty Myers",
-          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
-        }
-      ],
-      "duration_ms": 219163,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/2YYMlqyO7PXnq9qOADLN2m"
+      "duration_ms": 179613,
+      "name": "Starts in a Bar",
+      "url": "https://open.spotify.com/track/5Qpq6TsAObkMLfB7q1z4Qc"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1219,18 +1187,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Map Dot Missing You",
-        "url": "https://open.spotify.com/album/2Bd8KaslC78hDhi2X9OikT"
+        "name": "Green Eyes Blue",
+        "url": "https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq"
       },
       "artists": [
         {
-          "name": "Triston Marez",
-          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
         }
       ],
-      "duration_ms": 209347,
-      "name": "Map Dot Missing You",
-      "url": "https://open.spotify.com/track/6Zn2UwxIE8A7Ppnvz6iosp"
+      "duration_ms": 217093,
+      "name": "Green Eyes Blue",
+      "url": "https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1247,6 +1215,38 @@
       "duration_ms": 184867,
       "name": "Keep Lookin' Down The Road",
       "url": "https://open.spotify.com/track/2I6GzticU6dxwZOAN8bG9d"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Map Dot Missing You",
+        "url": "https://open.spotify.com/album/2Bd8KaslC78hDhi2X9OikT"
+      },
+      "artists": [
+        {
+          "name": "Triston Marez",
+          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
+        }
+      ],
+      "duration_ms": 209347,
+      "name": "Map Dot Missing You",
+      "url": "https://open.spotify.com/track/6Zn2UwxIE8A7Ppnvz6iosp"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/2oagcp2i1TpX5QbKtqjWLa"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "duration_ms": 219163,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/2YYMlqyO7PXnq9qOADLN2m"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Come Rest Your Head (On My Pillow)",
-        "url": "https://open.spotify.com/album/3Sh65R9MY2FdyKdhiyW9Uo"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        },
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 277600,
-      "name": "Come Rest Your Head (On My Pillow)",
-      "url": "https://open.spotify.com/track/4wNsAbCvwN5syfU06Yd7ec"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Here's To You. Here's To Me.",
         "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
       },
@@ -1319,22 +1299,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Lonestar Lonely",
-        "url": "https://open.spotify.com/album/6ccDlVdugIG7zA0AzskxuM"
-      },
-      "artists": [
-        {
-          "name": "Rachel LaRen",
-          "url": "https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv"
-        }
-      ],
-      "duration_ms": 215322,
-      "name": "Lonestar Lonely",
-      "url": "https://open.spotify.com/track/0Ot74bX8yoyXSoibhqAlyj"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Dancin' With The Devil",
         "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
       },
@@ -1347,6 +1311,22 @@
       "duration_ms": 178848,
       "name": "Dancin' With The Devil",
       "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Lonestar Lonely",
+        "url": "https://open.spotify.com/album/6ccDlVdugIG7zA0AzskxuM"
+      },
+      "artists": [
+        {
+          "name": "Rachel LaRen",
+          "url": "https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv"
+        }
+      ],
+      "duration_ms": 215322,
+      "name": "Lonestar Lonely",
+      "url": "https://open.spotify.com/track/0Ot74bX8yoyXSoibhqAlyj"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1375,6 +1355,26 @@
       "duration_ms": 243120,
       "name": "Tough Country",
       "url": "https://open.spotify.com/track/20XPXqe5eCGYA5CnVnKUZF"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Come Rest Your Head (On My Pillow)",
+        "url": "https://open.spotify.com/album/3Sh65R9MY2FdyKdhiyW9Uo"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 277600,
+      "name": "Come Rest Your Head (On My Pillow)",
+      "url": "https://open.spotify.com/track/4wNsAbCvwN5syfU06Yd7ec"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Burn The Ground",
-        "url": "https://open.spotify.com/album/5vEmZcMq1NXyNRHr7aMB8X"
+        "name": "What's Left of My Heart",
+        "url": "https://open.spotify.com/album/4OKDR3Qzo1FNKwVWklJjiI"
       },
       "artists": [
         {
-          "name": "Mason Lively",
-          "url": "https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs"
+          "name": "Reckless Kelly",
+          "url": "https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg"
         }
       ],
-      "duration_ms": 203800,
-      "name": "How To Love You",
-      "url": "https://open.spotify.com/track/4FJT0U4ecuD6l53YtKCeEI"
+      "duration_ms": 157083,
+      "name": "What's Left Of My Heart",
+      "url": "https://open.spotify.com/track/4HFUJ38fn43mggSqrf04eZ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "What's Left of My Heart",
-        "url": "https://open.spotify.com/album/4OKDR3Qzo1FNKwVWklJjiI"
+        "name": "Burn The Ground",
+        "url": "https://open.spotify.com/album/5vEmZcMq1NXyNRHr7aMB8X"
       },
       "artists": [
         {
-          "name": "Reckless Kelly",
-          "url": "https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg"
+          "name": "Mason Lively",
+          "url": "https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs"
         }
       ],
-      "duration_ms": 157083,
-      "name": "What's Left Of My Heart",
-      "url": "https://open.spotify.com/track/4HFUJ38fn43mggSqrf04eZ"
+      "duration_ms": 203800,
+      "name": "How To Love You",
+      "url": "https://open.spotify.com/track/4FJT0U4ecuD6l53YtKCeEI"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Happy Hour",
-        "url": "https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2"
-      },
-      "artists": [
-        {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
-        }
-      ],
-      "duration_ms": 191777,
-      "name": "Happy Hour",
-      "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Bottom of It",
         "url": "https://open.spotify.com/album/634fjrf1xw9BpyDx83lomm"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 279796,
       "name": "Easy as Hello",
       "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Happy Hour",
+        "url": "https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2"
+      },
+      "artists": [
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        }
+      ],
+      "duration_ms": 191777,
+      "name": "Happy Hour",
+      "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1723,22 +1723,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Last Goodbye",
-        "url": "https://open.spotify.com/album/0WXyQUyDdTimxIhieDQIlA"
+        "name": "The Droptines",
+        "url": "https://open.spotify.com/album/6MA3iRkOZWHzGKsnoozibl"
       },
       "artists": [
         {
-          "name": "Tanner Usrey",
-          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
-        },
-        {
-          "name": "Graycie York",
-          "url": "https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552"
+          "name": "The Droptines",
+          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
         }
       ],
-      "duration_ms": 212946,
-      "name": "Last Goodbye",
-      "url": "https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp"
+      "duration_ms": 182406,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8"
     }
   ],
   "unique_name": "Texas Country Now",

@@ -4517,6 +4517,24 @@
     },
     {
       "album": {
+        "name": "Sentiments",
+        "url": "https://open.spotify.com/album/5svu4CMAw8VYFyF6nxswfr"
+      },
+      "artists": [
+        {
+          "name": "Nape",
+          "url": "https://open.spotify.com/artist/4i2HtvaNWxR0sYVRzQTT1N"
+        }
+      ],
+      "date_added": "2024-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191872,
+      "name": "Sentiments",
+      "url": "https://open.spotify.com/track/1RV7iXLe9Ydh9J9MiXtOLm"
+    },
+    {
+      "album": {
         "name": "Bukiyonawatashidakara",
         "url": "https://open.spotify.com/album/7A2zw5c6HWDnWapolnp36b"
       },
@@ -7624,7 +7642,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 236802,
       "name": "\u30bf\u30a4\u30e0\u30de\u30b7\u30f3\u306b\u306e\u3063\u3066",
       "url": "https://open.spotify.com/track/60Ll4oaLbHtoscyMJyNwfo"

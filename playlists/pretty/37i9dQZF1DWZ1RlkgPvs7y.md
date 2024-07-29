@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RlkgPvs7y.md) - [plain]
 
 > Local artists from across the EU to take to the polls.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,096 likes - 54 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,067 likes - 54 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

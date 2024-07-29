@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-645 songs - 2 day 15 hr 45 min
+646 songs - 2 day 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [Last Song](https://open.spotify.com/track/6pvI93SNbtPTaWQ3OvvFmV) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Buenos Aires](https://open.spotify.com/album/5Ks5CvTHpCOc7m08HkxVpn) | 7:42 | 2019-08-15 | 2021-03-22 |
 | [Les Orangers](https://open.spotify.com/track/0aEwYyCvLEMNWmc7u0vqHp) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Les Orangers](https://open.spotify.com/album/4rGdiQW6mqpCwKYD885Dmk) | 6:42 | 2023-06-30 |  |
 | [Lieblingsmensch \- Edit](https://open.spotify.com/track/6CXFxsx3VCNLwRdOn9cXKp) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Lieblingsmensch \(Edit\)](https://open.spotify.com/album/0a7nVpT905t2mcpvMVuxuL) | 3:40 | 2020-01-14 | 2020-07-18 |
+| [Light up my dark](https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Light up my dark](https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA) | 3:28 | 2024-07-26 |  |
 | [Lilith](https://open.spotify.com/track/6yx9zRTFM0zvz9l1YBjnNj) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Lilith](https://open.spotify.com/album/4RDyC7MPQMpyHEVm584kQD) | 8:37 | 2019-09-27 | 2021-06-04 |
 | [Linked](https://open.spotify.com/track/3rCtueI7qBN2kZBZnXuk5K) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Linked](https://open.spotify.com/album/6Eb3lH04iEMK0YJ8gk01MR) | 6:09 | 2019-08-06\* | 2021-05-27 |
 | [Little Girl](https://open.spotify.com/track/19xXgIJjrXk0qZncjSgzgK) | [Fran&co](https://open.spotify.com/artist/6GLpNI3XjDnspncxnnrSpX) | [Little Girl](https://open.spotify.com/album/3XakrfPUGzwHSo9pbf0bIq) | 4:56 | 2021-09-14 | 2022-07-28 |
@@ -590,7 +591,7 @@
 | [Trauma](https://open.spotify.com/track/4iGmeE1BwOerlAdennrkC2) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Raindrops](https://open.spotify.com/album/564ZPjEGjn6cSQzDYpZT0w) | 2:53 | 2020-01-02 | 2021-05-07 |
 | [Trivia](https://open.spotify.com/track/3WMztTAtiAdKW2RFmRcjjC) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0), [Florian Kruse](https://open.spotify.com/artist/7GhGgxIAhzJxZXvF1bEYZ8) | [Trivia \| Ultraschall](https://open.spotify.com/album/3RmQ7w7EEPWiDDJYCBnt4i) | 7:08 | 2019-12-07 | 2020-01-15 |
 | [trolltekno](https://open.spotify.com/track/1F27K7w0KJx3HtKx338Ert) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [trolltekno](https://open.spotify.com/album/0wivQgXg1hCTSJlbm9MFwv) | 6:43 | 2022-04-04 | 2022-04-16 |
-| [Trust](https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Trust](https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB) | 4:55 | 2022-11-26 |  |
+| [Trust](https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Trust](https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB) | 4:55 | 2022-11-26 | 2024-07-29 |
 | [Trust](https://open.spotify.com/track/3Y8TTbfO0gPryMBic26B7q) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Trust / Midnight](https://open.spotify.com/album/3SVMH8Rob9wkDi8JykvTMB) | 6:56 | 2019-08-06\* | 2020-03-14 |
 | [Tunnel Run](https://open.spotify.com/track/6ctFMN8mLVqE8VOm8uNwj4) | [Dom Kane](https://open.spotify.com/artist/36VhFXGlahmuSAXdr7SVCP) | [Stoic](https://open.spotify.com/album/4Jw8y2myKin7NdJzcmcYgI) | 5:49 | 2019-08-06\* | 2020-02-27 |
 | [Twisted Reality \- Edit](https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Twisted Reality \(Edit\)](https://open.spotify.com/album/2pkttY8alxMO6o2eogLegg) | 3:27 | 2021-10-09 | 2023-01-14 |

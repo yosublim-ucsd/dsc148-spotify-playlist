@@ -1,6 +1,6 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 67251,
+  "num_followers": 67267,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,26 @@
     {
       "added_at": "2024-07-05 15:39:09",
       "album": {
+        "name": "Pu\u0142apka Na Motyle (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6dJDSE3TIoXf8Xwaisq4Nj"
+      },
+      "artists": [
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        }
+      ],
+      "duration_ms": 201007,
+      "name": "Cze\u015b\u0107, jak si\u0119 masz?",
+      "url": "https://open.spotify.com/track/6sKg6jzvmiNAVsJRl8MaDE"
+    },
+    {
+      "added_at": "2024-07-05 15:39:09",
+      "album": {
         "name": "Ostatni (Rojst '97 | Netflix)",
         "url": "https://open.spotify.com/album/5XALEJKY8XmE190rk2NWgQ"
       },
@@ -579,26 +599,6 @@
     {
       "added_at": "2024-07-05 15:39:09",
       "album": {
-        "name": "Pu\u0142apka Na Motyle (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6dJDSE3TIoXf8Xwaisq4Nj"
-      },
-      "artists": [
-        {
-          "name": "Sobel",
-          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
-        },
-        {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
-        }
-      ],
-      "duration_ms": 201007,
-      "name": "Cze\u015b\u0107, jak si\u0119 masz?",
-      "url": "https://open.spotify.com/track/6sKg6jzvmiNAVsJRl8MaDE"
-    },
-    {
-      "added_at": "2024-07-05 15:39:09",
-      "album": {
         "name": "Z Tob\u0105 Nie Umiem Wygra\u0107",
         "url": "https://open.spotify.com/album/0Q3TBllCSiPaWH6VBITiP0"
       },
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-07-05 15:39:09",
       "album": {
-        "name": "Ma\u0142omiasteczkowy",
-        "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
-      },
-      "artists": [
-        {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        }
-      ],
-      "duration_ms": 195666,
-      "name": "Nie K\u0142ami",
-      "url": "https://open.spotify.com/track/3FwWzOCkDwhu1RWTz3CSxJ"
-    },
-    {
-      "added_at": "2024-07-05 15:39:09",
-      "album": {
         "name": "Nic dwa razy (W. Szymborska)",
         "url": "https://open.spotify.com/album/3gZB6h09sZvWlhzZaqtf6t"
       },
@@ -659,6 +643,38 @@
       "duration_ms": 189000,
       "name": "Nic dwa razy (W. Szymborska)",
       "url": "https://open.spotify.com/track/6C5A0xV8tvW8NqzLUb2xt1"
+    },
+    {
+      "added_at": "2024-07-05 15:39:09",
+      "album": {
+        "name": "O nich, o Tobie",
+        "url": "https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        }
+      ],
+      "duration_ms": 147417,
+      "name": "O nich, o Tobie",
+      "url": "https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB"
+    },
+    {
+      "added_at": "2024-07-05 15:39:09",
+      "album": {
+        "name": "Ma\u0142omiasteczkowy",
+        "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
+      },
+      "artists": [
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        }
+      ],
+      "duration_ms": 195666,
+      "name": "Nie K\u0142ami",
+      "url": "https://open.spotify.com/track/3FwWzOCkDwhu1RWTz3CSxJ"
     },
     {
       "added_at": "2024-07-05 15:39:09",
@@ -695,22 +711,6 @@
     {
       "added_at": "2024-07-05 15:39:09",
       "album": {
-        "name": "O nich, o Tobie",
-        "url": "https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r"
-      },
-      "artists": [
-        {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
-        }
-      ],
-      "duration_ms": 147417,
-      "name": "O nich, o Tobie",
-      "url": "https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB"
-    },
-    {
-      "added_at": "2024-07-05 15:39:09",
-      "album": {
         "name": "Album",
         "url": "https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-07-05 15:39:09",
       "album": {
-        "name": "Kawalerka",
-        "url": "https://open.spotify.com/album/6cIh3MgxY65lqwAjiXGU5h"
-      },
-      "artists": [
-        {
-          "name": "Bitamina",
-          "url": "https://open.spotify.com/artist/2EJzUdaDAwfqcjpQcRAYdQ"
-        }
-      ],
-      "duration_ms": 252826,
-      "name": "Dom",
-      "url": "https://open.spotify.com/track/2GUF1UURIjLPGJtZxCXEEb"
-    },
-    {
-      "added_at": "2024-07-05 15:39:09",
-      "album": {
         "name": "Porady Na Zdrady [Dreszcze]",
         "url": "https://open.spotify.com/album/3XC6o7PTm3SiamWBrYVo82"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 210662,
       "name": "Porady Na Zdrady [Dreszcze]",
       "url": "https://open.spotify.com/track/5MVK9Up4ORQdmOdBuk0MIy"
+    },
+    {
+      "added_at": "2024-07-05 15:39:09",
+      "album": {
+        "name": "Kawalerka",
+        "url": "https://open.spotify.com/album/6cIh3MgxY65lqwAjiXGU5h"
+      },
+      "artists": [
+        {
+          "name": "Bitamina",
+          "url": "https://open.spotify.com/artist/2EJzUdaDAwfqcjpQcRAYdQ"
+        }
+      ],
+      "duration_ms": 252826,
+      "name": "Dom",
+      "url": "https://open.spotify.com/track/2GUF1UURIjLPGJtZxCXEEb"
     },
     {
       "added_at": "2024-07-05 15:39:09",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-07-05 15:39:09",
       "album": {
-        "name": "Wkr\u0119ceni nie ufaj mi",
-        "url": "https://open.spotify.com/album/6LrjH2C1uuYPgqktMpKcWU"
-      },
-      "artists": [
-        {
-          "name": "Igor Herbut",
-          "url": "https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX"
-        }
-      ],
-      "duration_ms": 178725,
-      "name": "Wkr\u0119ceni nie ufaj mi",
-      "url": "https://open.spotify.com/track/4Wjdk72dzEOynrdTQGBac8"
-    },
-    {
-      "added_at": "2024-07-05 15:39:09",
-      "album": {
         "name": "Never Ending Sorry",
         "url": "https://open.spotify.com/album/0bEC0mpfwhZPD89ZS87LVe"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 229880,
       "name": "Kiedy\u015b do Ciebie wr\u00f3c\u0119",
       "url": "https://open.spotify.com/track/04QPWwQIxA8kLpcKM1ZWzL"
+    },
+    {
+      "added_at": "2024-07-05 15:39:09",
+      "album": {
+        "name": "Wkr\u0119ceni nie ufaj mi",
+        "url": "https://open.spotify.com/album/6LrjH2C1uuYPgqktMpKcWU"
+      },
+      "artists": [
+        {
+          "name": "Igor Herbut",
+          "url": "https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX"
+        }
+      ],
+      "duration_ms": 178725,
+      "name": "Wkr\u0119ceni nie ufaj mi",
+      "url": "https://open.spotify.com/track/4Wjdk72dzEOynrdTQGBac8"
     },
     {
       "added_at": "2024-07-05 15:39:09",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2024-07-05 15:39:09",
       "album": {
+        "name": "Kayah & Bregovic",
+        "url": "https://open.spotify.com/album/20ewUNNrxkKjMgNd2Ax7lX"
+      },
+      "artists": [
+        {
+          "name": "Kayah",
+          "url": "https://open.spotify.com/artist/2v295z585SM68pluEKXKSM"
+        },
+        {
+          "name": "Goran Bregovi\u0107",
+          "url": "https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS"
+        }
+      ],
+      "duration_ms": 271760,
+      "name": "\u015apij Kochanie \u015apij",
+      "url": "https://open.spotify.com/track/77ppwEoKPhNZx8h3Nskr7H"
+    },
+    {
+      "added_at": "2024-07-05 15:39:09",
+      "album": {
         "name": "Prawda o nas",
         "url": "https://open.spotify.com/album/1x8GzWSyYrqK2HPwSFAYXc"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 157837,
       "name": "Niech no tylko zakwitn\u0105 jab\u0142onie",
       "url": "https://open.spotify.com/track/4MwftOfY0ufMcOP4rtmtCg"
-    },
-    {
-      "added_at": "2024-07-05 15:39:09",
-      "album": {
-        "name": "Kayah & Bregovic",
-        "url": "https://open.spotify.com/album/20ewUNNrxkKjMgNd2Ax7lX"
-      },
-      "artists": [
-        {
-          "name": "Kayah",
-          "url": "https://open.spotify.com/artist/2v295z585SM68pluEKXKSM"
-        },
-        {
-          "name": "Goran Bregovi\u0107",
-          "url": "https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS"
-        }
-      ],
-      "duration_ms": 271760,
-      "name": "\u015apij Kochanie \u015apij",
-      "url": "https://open.spotify.com/track/77ppwEoKPhNZx8h3Nskr7H"
     },
     {
       "added_at": "2024-07-05 15:39:09",

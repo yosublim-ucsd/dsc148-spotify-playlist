@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 153134,
+  "num_followers": 153170,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqLnAAAAAACaPT59YCjGrHhNkkn6Ml4W",
+  "snapshot_id": "ZqQ4gAAAAADkaI3omKei6FHykoP7kWRA",
   "tracks": [
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+        "name": "Archives",
+        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 258026,
-      "name": "Life Without You",
-      "url": "https://open.spotify.com/track/6Z8prosDCmjU3hkgEnyId6"
+      "duration_ms": 133840,
+      "name": "Boot Hill - 1989 Version",
+      "url": "https://open.spotify.com/track/60kPEmCU9j6wXd57jm5Xpj"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archives",
-        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 133840,
-      "name": "Boot Hill - 1989 Version",
-      "url": "https://open.spotify.com/track/60kPEmCU9j6wXd57jm5Xpj"
+      "duration_ms": 258026,
+      "name": "Life Without You",
+      "url": "https://open.spotify.com/track/6Z8prosDCmjU3hkgEnyId6"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sky Is Crying",
-        "url": "https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 236173,
-      "name": "Chitlins Con Carne",
-      "url": "https://open.spotify.com/track/6sbZlxSYVVLce7eGP3rxkl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Archives",
         "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 209146,
       "name": "So Excited",
       "url": "https://open.spotify.com/track/1nB4UkYsul7uVNK8YIUmw8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sky Is Crying",
+        "url": "https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 236173,
+      "name": "Chitlins Con Carne",
+      "url": "https://open.spotify.com/track/6sbZlxSYVVLce7eGP3rxkl"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live Alive",
-        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 277306,
-      "name": "Willie The Wimp - Live",
-      "url": "https://open.spotify.com/track/0wXyJ9NFo0NQmcE43xtMy5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Archives",
         "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 171800,
       "name": "Shake 'N Bake",
       "url": "https://open.spotify.com/track/1dvaLzUkbmvt6GsPVkW7kg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live Alive",
+        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 277306,
+      "name": "Willie The Wimp - Live",
+      "url": "https://open.spotify.com/track/0wXyJ9NFo0NQmcE43xtMy5"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Beginning",
-        "url": "https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Slide Thing - Live at Steamboat 1874, Austin, TX - April 1980",
-      "url": "https://open.spotify.com/track/78x9FWB5S033aa4E67D9Wg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Real Deal: Greatest Hits Volume 1",
         "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 270360,
       "name": "Come On, Pt. III",
       "url": "https://open.spotify.com/track/0t4Ef0Z7BGIRtwoK8S8299"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The Beginning",
+        "url": "https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Slide Thing - Live at Steamboat 1874, Austin, TX - April 1980",
+      "url": "https://open.spotify.com/track/78x9FWB5S033aa4E67D9Wg"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Beginning",
-        "url": "https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Live Another Day - Live at Steamboat 1874, Austin, TX - April 1980",
-      "url": "https://open.spotify.com/track/4dtr7tpZYeYgst9ZP1Z5r0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Solos, Sessions & Encores",
         "url": "https://open.spotify.com/album/34moluVsUish03HIUdzSze"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 333480,
       "name": "On The Run - Live",
       "url": "https://open.spotify.com/track/0gmMJ7GXPFTZv4kLMbHGyn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The Beginning",
+        "url": "https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Live Another Day - Live at Steamboat 1874, Austin, TX - April 1980",
+      "url": "https://open.spotify.com/track/4dtr7tpZYeYgst9ZP1Z5r0"
     },
     {
       "added_at": null,

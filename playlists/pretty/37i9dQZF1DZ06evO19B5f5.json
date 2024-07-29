@@ -1,12 +1,12 @@
 {
-  "description": "This is Lauren Aquilina. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 454,
+  "description": "This Is Lauren Aquilina. Los temas esenciales, todos en una lista.",
+  "num_followers": 456,
   "original_name": "This Is Lauren Aquilina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqLnAAAAAADwzemhE52aEdRvrTHKzISI",
+  "snapshot_id": "ZqQ4gAAAAACkf3I4IvbUX5b/d6m+4QMP",
   "tracks": [
     {
       "added_at": null,
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes (Remixes)",
-        "url": "https://open.spotify.com/album/16CuH62K4ZWOY3aUYdRuSv"
+        "name": "Fools",
+        "url": "https://open.spotify.com/album/4UTVF9k92LuO1Uow4XrHiH"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 242552,
-      "name": "Echoes - Edeema Remix",
-      "url": "https://open.spotify.com/track/43mDq73eZzHuVFB7hrEFn8"
+      "duration_ms": 238000,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/2njUiGb7riXONG8HEOVQqu"
     },
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fools",
-        "url": "https://open.spotify.com/album/4UTVF9k92LuO1Uow4XrHiH"
+        "name": "Echoes (Remixes)",
+        "url": "https://open.spotify.com/album/16CuH62K4ZWOY3aUYdRuSv"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/2njUiGb7riXONG8HEOVQqu"
+      "duration_ms": 242552,
+      "name": "Echoes - Edeema Remix",
+      "url": "https://open.spotify.com/track/43mDq73eZzHuVFB7hrEFn8"
     },
     {
       "added_at": null,

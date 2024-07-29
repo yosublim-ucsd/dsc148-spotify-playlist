@@ -183,22 +183,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Maracaibo",
-        "url": "https://open.spotify.com/album/3eodZtQpGzsUQmpPrUDgFm"
-      },
-      "artists": [
-        {
-          "name": "Lucy",
-          "url": "https://open.spotify.com/artist/4UH11YIdiHkl8rCyRdSR0P"
-        }
-      ],
-      "duration_ms": 192857,
-      "name": "Maracaibo",
-      "url": "https://open.spotify.com/track/0rL2TR2zVp958CFmIdDIqz"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "Niente di buono",
         "url": "https://open.spotify.com/album/0IP7oGpoFblfoOlF4nawjO"
       },
@@ -215,6 +199,22 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
+        "name": "Maracaibo",
+        "url": "https://open.spotify.com/album/3eodZtQpGzsUQmpPrUDgFm"
+      },
+      "artists": [
+        {
+          "name": "Lucy",
+          "url": "https://open.spotify.com/artist/4UH11YIdiHkl8rCyRdSR0P"
+        }
+      ],
+      "duration_ms": 192857,
+      "name": "Maracaibo",
+      "url": "https://open.spotify.com/track/0rL2TR2zVp958CFmIdDIqz"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
         "name": "L'ultima mezz'ora",
         "url": "https://open.spotify.com/album/37H1a1CLMD2QSnj5L4A9sb"
       },
@@ -227,6 +227,22 @@
       "duration_ms": 176372,
       "name": "L'ultima mezz'ora",
       "url": "https://open.spotify.com/track/6ATipis5X5ZhJtQFtA5Moe"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "SCOSSA",
+        "url": "https://open.spotify.com/album/22u6JwJ82A6MOjnyyUs64J"
+      },
+      "artists": [
+        {
+          "name": "FLUOSEXXX",
+          "url": "https://open.spotify.com/artist/1ejTIvvUeDlzh43gbsw95u"
+        }
+      ],
+      "duration_ms": 136991,
+      "name": "SCOSSA",
+      "url": "https://open.spotify.com/track/3NlEvR8t03NXhAaD9ceirk"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -279,22 +295,6 @@
       "duration_ms": 145185,
       "name": "machegustomilascia",
       "url": "https://open.spotify.com/track/6ZRebO4Ti4IODXeUCcJtsR"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "SCOSSA",
-        "url": "https://open.spotify.com/album/22u6JwJ82A6MOjnyyUs64J"
-      },
-      "artists": [
-        {
-          "name": "FLUOSEXXX",
-          "url": "https://open.spotify.com/artist/1ejTIvvUeDlzh43gbsw95u"
-        }
-      ],
-      "duration_ms": 136991,
-      "name": "SCOSSA",
-      "url": "https://open.spotify.com/track/3NlEvR8t03NXhAaD9ceirk"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
+        "name": "DOVE SEI TU",
+        "url": "https://open.spotify.com/album/1qdnPsMVlBseg0FHJCO9q4"
+      },
+      "artists": [
+        {
+          "name": "MET",
+          "url": "https://open.spotify.com/artist/4DNip9SPDXhjcbYi31O4dq"
+        }
+      ],
+      "duration_ms": 154708,
+      "name": "DOVE SEI TU",
+      "url": "https://open.spotify.com/track/2Cz3ZPDpYIJNJBd0tzDeK1"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
         "name": "Voglio di pi\u00f9",
         "url": "https://open.spotify.com/album/4IsmRQLMNSJXAHFgymX6UF"
       },
@@ -575,6 +591,22 @@
       "duration_ms": 123830,
       "name": "Offline",
       "url": "https://open.spotify.com/track/7yxDBNu6S9WmylPqJ4bmgX"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "NON CAMBIO MAI",
+        "url": "https://open.spotify.com/album/6fScpbLp2m9nBFCbOCP2ND"
+      },
+      "artists": [
+        {
+          "name": "Alessia Dalia",
+          "url": "https://open.spotify.com/artist/7ItlEnUdJ8rhanA9Tf2uRc"
+        }
+      ],
+      "duration_ms": 166968,
+      "name": "NON CAMBIO MAI",
+      "url": "https://open.spotify.com/track/1suAKLt3OIwoVECcdSvQGq"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -611,34 +643,54 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "NON CAMBIO MAI",
-        "url": "https://open.spotify.com/album/6fScpbLp2m9nBFCbOCP2ND"
+        "name": "Lacrima Nuova",
+        "url": "https://open.spotify.com/album/7xNYqNekje9BsbaCYZG7ip"
       },
       "artists": [
         {
-          "name": "Alessia Dalia",
-          "url": "https://open.spotify.com/artist/7ItlEnUdJ8rhanA9Tf2uRc"
+          "name": "Mille Piccoli Cieli",
+          "url": "https://open.spotify.com/artist/6BFBvqZPlGZ2FUMXVHSsUY"
+        },
+        {
+          "name": "Floral Grin",
+          "url": "https://open.spotify.com/artist/5m1fvLDO1DDWVNhluFhOA9"
+        },
+        {
+          "name": "Altolucenti",
+          "url": "https://open.spotify.com/artist/4lpUgEzwYlZ4OZa4vYHkV9"
+        },
+        {
+          "name": "Christopher Padilla Billa",
+          "url": "https://open.spotify.com/artist/7gf6pwtdLMAtllg6eEwpno"
+        },
+        {
+          "name": "Colibree",
+          "url": "https://open.spotify.com/artist/7s961XmA8A69tQ3UQRD6sk"
+        },
+        {
+          "name": "\u00c8SSA",
+          "url": "https://open.spotify.com/artist/3vzv7k1u60UzTFUYiTV4Ca"
         }
       ],
-      "duration_ms": 166968,
-      "name": "NON CAMBIO MAI",
-      "url": "https://open.spotify.com/track/1suAKLt3OIwoVECcdSvQGq"
+      "duration_ms": 191500,
+      "name": "Lacrima Nuova",
+      "url": "https://open.spotify.com/track/499sucSYMaIPv6qVdYHWce"
     },
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Tulipano",
-        "url": "https://open.spotify.com/album/7pitv105FPuAQIKwiKGpLU"
+        "name": "Pi\u00f9 Tempo Per Gli Amici",
+        "url": "https://open.spotify.com/album/2Jv4J6iv2PwZNLbFnqK6AB"
       },
       "artists": [
         {
-          "name": "APOLLO QUATTRO",
-          "url": "https://open.spotify.com/artist/4s6RBNeuADV5LVSl0lI0m8"
+          "name": "Sidy",
+          "url": "https://open.spotify.com/artist/2IOEe6ANL1phlCwnIhf0wT"
         }
       ],
-      "duration_ms": 122916,
-      "name": "Tulipano",
-      "url": "https://open.spotify.com/track/1YnODCsdwUw3d0dyO7qogW"
+      "duration_ms": 154285,
+      "name": "Pi\u00f9 Tempo Per Gli Amici",
+      "url": "https://open.spotify.com/track/4sGnGqPvdlrYhSaGgtbZID"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -659,6 +711,22 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
+        "name": "Tulipano",
+        "url": "https://open.spotify.com/album/7pitv105FPuAQIKwiKGpLU"
+      },
+      "artists": [
+        {
+          "name": "APOLLO QUATTRO",
+          "url": "https://open.spotify.com/artist/4s6RBNeuADV5LVSl0lI0m8"
+        }
+      ],
+      "duration_ms": 122916,
+      "name": "Tulipano",
+      "url": "https://open.spotify.com/track/1YnODCsdwUw3d0dyO7qogW"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
         "name": "SOTTO CASSA",
         "url": "https://open.spotify.com/album/4DA8rH0nzQ0CaBcngpOmet"
       },
@@ -675,18 +743,18 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Ad Occhi Aperti",
-        "url": "https://open.spotify.com/album/5s0su3k09HeBuNPKuyvU47"
+        "name": "Marea",
+        "url": "https://open.spotify.com/album/66NCbMSBW2Fk31nmtSvhuy"
       },
       "artists": [
         {
-          "name": "Anita Cane Violins",
-          "url": "https://open.spotify.com/artist/4o0yqv6vXY7VZiHXFhCBhP"
+          "name": "Ube",
+          "url": "https://open.spotify.com/artist/2SBLpl3UnwEIwNIs8306nt"
         }
       ],
-      "duration_ms": 243789,
-      "name": "Ad Occhi Aperti",
-      "url": "https://open.spotify.com/track/3NMAYytFJOcIbYAhdJr3gj"
+      "duration_ms": 172481,
+      "name": "Marea",
+      "url": "https://open.spotify.com/track/1dGE2w5GZZeRk2gO6KfX06"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -711,18 +779,18 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Marea",
-        "url": "https://open.spotify.com/album/66NCbMSBW2Fk31nmtSvhuy"
+        "name": "Ad Occhi Aperti",
+        "url": "https://open.spotify.com/album/5s0su3k09HeBuNPKuyvU47"
       },
       "artists": [
         {
-          "name": "Ube",
-          "url": "https://open.spotify.com/artist/2SBLpl3UnwEIwNIs8306nt"
+          "name": "Anita Cane Violins",
+          "url": "https://open.spotify.com/artist/4o0yqv6vXY7VZiHXFhCBhP"
         }
       ],
-      "duration_ms": 172481,
-      "name": "Marea",
-      "url": "https://open.spotify.com/track/1dGE2w5GZZeRk2gO6KfX06"
+      "duration_ms": 243789,
+      "name": "Ad Occhi Aperti",
+      "url": "https://open.spotify.com/track/3NMAYytFJOcIbYAhdJr3gj"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -791,38 +859,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Pi\u00f9 Tempo Per Gli Amici",
-        "url": "https://open.spotify.com/album/2Jv4J6iv2PwZNLbFnqK6AB"
-      },
-      "artists": [
-        {
-          "name": "Sidy",
-          "url": "https://open.spotify.com/artist/2IOEe6ANL1phlCwnIhf0wT"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Pi\u00f9 Tempo Per Gli Amici",
-      "url": "https://open.spotify.com/track/4sGnGqPvdlrYhSaGgtbZID"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "COME SEMBRA",
-        "url": "https://open.spotify.com/album/6bHSfXnPXUoUVZqhAtKmyG"
-      },
-      "artists": [
-        {
-          "name": "Incubo",
-          "url": "https://open.spotify.com/artist/0IdAopcNZfTVh5Lx8H3sDm"
-        }
-      ],
-      "duration_ms": 186463,
-      "name": "COME SEMBRA",
-      "url": "https://open.spotify.com/track/2wpK0bmYeIN0S695bPoZI2"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "CTRL Z (feat. lica)",
         "url": "https://open.spotify.com/album/6v4DZZ6a16W4euHYJnQt9E"
       },
@@ -843,22 +879,6 @@
       "duration_ms": 169310,
       "name": "CTRL Z (feat. lica)",
       "url": "https://open.spotify.com/track/2b4CreHZGsJeMYQAVLryDw"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "Ypsilon",
-        "url": "https://open.spotify.com/album/5KbBQK3LjqthXlyDsVCXAr"
-      },
-      "artists": [
-        {
-          "name": "Doansai",
-          "url": "https://open.spotify.com/artist/5G1PslLmI7j8q46A7re4tM"
-        }
-      ],
-      "duration_ms": 223893,
-      "name": "Ypsilon",
-      "url": "https://open.spotify.com/track/35Kja1KlfXbNoqZJ4LhUCM"
     }
   ],
   "unique_name": "Fresh Finds Italia",

@@ -1,12 +1,12 @@
 {
   "description": "This is Katy Perry. The essential tracks, all in one playlist.",
-  "num_followers": 1165185,
+  "num_followers": 1165311,
   "original_name": "This Is Katy Perry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqLnAAAAAAC0HnsQGxB7sLPJPL0jYo79",
+  "snapshot_id": "ZqQ4gAAAAAAPmhOyG/AuvTr1m6lKCRs2",
   "tracks": [
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Witness (Deluxe)",
-        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
+        "name": "Hot N Cold",
+        "url": "https://open.spotify.com/album/7t536KbHOO8GOEhHpk0Tyv"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 198680,
-      "name": "Roulette",
-      "url": "https://open.spotify.com/track/2rk4s5NBhtHhhJIfjoaWES"
+      "duration_ms": 220360,
+      "name": "Hot N Cold - Rock Version",
+      "url": "https://open.spotify.com/track/6K4r3XENOKeXFTKlBlAJLC"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot N Cold",
-        "url": "https://open.spotify.com/album/7t536KbHOO8GOEhHpk0Tyv"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 220360,
-      "name": "Hot N Cold - Rock Version",
-      "url": "https://open.spotify.com/track/6K4r3XENOKeXFTKlBlAJLC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Witness (Deluxe)",
         "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
       },
@@ -872,9 +856,25 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 214960,
-      "name": "Hey Hey Hey",
-      "url": "https://open.spotify.com/track/3tqwKg0W8XfYORNrP4aIhu"
+      "duration_ms": 198680,
+      "name": "Roulette",
+      "url": "https://open.spotify.com/track/2rk4s5NBhtHhhJIfjoaWES"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 176762,
+      "name": "I Kissed A Girl - Rock Remix",
+      "url": "https://open.spotify.com/track/1TOKDNTBEnlhcXzvLinKgd"
     },
     {
       "added_at": null,
@@ -911,8 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Of The Boys",
-        "url": "https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ"
+        "name": "Witness (Deluxe)",
+        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 176762,
-      "name": "I Kissed A Girl - Rock Remix",
-      "url": "https://open.spotify.com/track/1TOKDNTBEnlhcXzvLinKgd"
+      "duration_ms": 214960,
+      "name": "Hey Hey Hey",
+      "url": "https://open.spotify.com/track/3tqwKg0W8XfYORNrP4aIhu"
     }
   ],
   "unique_name": "This Is Katy Perry",

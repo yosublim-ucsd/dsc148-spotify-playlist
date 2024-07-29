@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 
 > This is Janis Joplin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,156 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,176 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 | 21 | [A Woman Left Lonely](https://open.spotify.com/track/5NXI6TWg0mQRmbGPHzkoHk) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 3:29 |
 | 22 | ["Are We Taping Now?"](https://open.spotify.com/track/3jpfF9gHUjuv2Tgc2tigNg) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF) | 0:46 |
 | 23 | [One Good Man](https://open.spotify.com/track/6Evy14WwFHLIJNxvBMnoX6) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Got Dem Ol' Kozmic Blues Again Mama!](https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A) | 4:09 |
-| 24 | [Coo Coo](https://open.spotify.com/track/5PEEbmeELam84bKuxZsoj2) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Big Brother & The Holding Company](https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu) | 1:56 |
-| 25 | [Summertime](https://open.spotify.com/track/1mZfzcclmxrk7QtfzOLF00) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Live: Texas International Pop Festival, Dallas TX 30 Aug' '69 \- Remastered from Original Tape](https://open.spotify.com/album/1cczYgxFJu08mmIA1o7CsF) | 4:38 |
+| 24 | [Summertime](https://open.spotify.com/track/1mZfzcclmxrk7QtfzOLF00) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Live: Texas International Pop Festival, Dallas TX 30 Aug' '69 \- Remastered from Original Tape](https://open.spotify.com/album/1cczYgxFJu08mmIA1o7CsF) | 4:38 |
+| 25 | [Coo Coo](https://open.spotify.com/track/5PEEbmeELam84bKuxZsoj2) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Big Brother & The Holding Company](https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu) | 1:56 |
 | 26 | [To Love Someboy \(Live The Dick Cavett TV Show 8th July 1969\]](https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Television Broadcast Sessions 1968 \-1970](https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz) | 3:16 |
 | 27 | [Trouble in Mind](https://open.spotify.com/track/48DDXcCW9tBv1I96Y83jJx) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF) | 2:53 |
 | 28 | [Ball and Chain \- Live at McMahon Stadium, Calgary, Canada \- July 1970](https://open.spotify.com/track/50jPBJZNdoepXCb2j1Rzmp) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis Joplin's Greatest Hits](https://open.spotify.com/album/4qHWXbp5TbUWqH35c6m8kN) | 7:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 | 49 | [I Know You Rider](https://open.spotify.com/track/6GDpRUjZ4v6pQ4jK121ePG) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Know You Rider](https://open.spotify.com/album/2hOmBtJar9W2AQnENrBcLx) | 3:13 |
 | 50 | [Applause & Talk, Pt.3 \- Live](https://open.spotify.com/track/1m84RF5HCIUQilJKyCCSop) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Takes To The Sky \(Live 1968\)](https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3) | 1:43 |
 
-Snapshot ID: `ZqLnAAAAAADMh+3bukdDTIzEdtygI6Fx`
+Snapshot ID: `ZqQ4gAAAAAAg8zV5W4ExLNAkEmay8Rmk`

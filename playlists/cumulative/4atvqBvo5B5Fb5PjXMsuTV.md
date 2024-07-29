@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 27 Jul 10:02 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 28 Jul 16:03 UTC.
 
-1,320 songs - 3 day 1 hr 12 min
+1,323 songs - 3 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,7 +502,7 @@
 | [haiti](https://open.spotify.com/track/49SqhZMyNNNwlQ6rIem6ui) | [Your Stepdad](https://open.spotify.com/artist/4l7BJOIRyFkQT9QD96m8tu) | [haiti](https://open.spotify.com/album/2PrDChZBa8lPeJCGhe64H3) | 1:32 | 2024-07-24 | 2024-07-27 |
 | [Hallelujah](https://open.spotify.com/track/78a91L74IHZVQNyh3wgE3d) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Hallelujah](https://open.spotify.com/album/1acUnqBZF7dYFpnPyrtFrd) | 3:09 | 2024-07-26 |  |
 | [Hands of Sin](https://open.spotify.com/track/2iVoelOzPLaw3R7GcpBuVe) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Hands of Sin](https://open.spotify.com/album/3ZUxHRqFUm7FBFHFT5uXaW) | 3:56 | 2024-06-11 | 2024-06-13 |
-| [Happy](https://open.spotify.com/track/6ztjccAfxl3jVmvujjSUyI) | [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD), [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Happy](https://open.spotify.com/album/0W0yP0NOGxtwi2UEeWhk2K) | 2:59 | 2024-07-26 |  |
+| [Happy](https://open.spotify.com/track/6ztjccAfxl3jVmvujjSUyI) | [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD), [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Happy](https://open.spotify.com/album/0W0yP0NOGxtwi2UEeWhk2K) | 2:59 | 2024-07-26 | 2024-07-29 |
 | [Happy End](https://open.spotify.com/track/17uySRQWwAywJUkolHcfmB) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Happy End](https://open.spotify.com/album/1eoT7Sxn9TWjCNOOja8dss) | 3:52 | 2024-06-24 | 2024-06-26 |
 | [Harder to Kill](https://open.spotify.com/track/5enTtMsxQ2vAsdoM69QTZz) | [Carter Vail](https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK) | [Harder to Kill](https://open.spotify.com/album/5oX8qPG4FJm9lPhZtn7gBu) | 2:58 | 2024-06-05 | 2024-06-07 |
 | [Hatchet](https://open.spotify.com/track/5giQHyWEKuZa19kxW3AqTb) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [Hatchet](https://open.spotify.com/album/3xvqkNzjRAh1O50FjapuJh) | 2:19 | 2024-04-26 | 2024-04-27 |
@@ -562,6 +562,7 @@
 | [Hungry For Life \(feat\. Chris Daughtry of Daughtry\)](https://open.spotify.com/track/4ddvYUYsefYyjGoajARAJm) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Hungry For Life \(feat\. Chris Daughtry of Daughtry\)](https://open.spotify.com/album/6zpeDG4ssHfSC3p9PqUHcv) | 3:30 | 2024-05-10 | 2024-05-15 |
 | [Hurt You](https://open.spotify.com/track/12pGqwL9vpWEjGHLL2KaKu) | [二口魔菜 Futakuchi Mana](https://open.spotify.com/artist/6nhHInOnQSWKRxntTHBH29) | [Hurt You](https://open.spotify.com/album/4fdr5cs7ZfMguZOEKYbXPQ) | 3:50 | 2024-05-25 | 2024-05-29 |
 | [Hymn Of Decay](https://open.spotify.com/track/6bX8TFct73J2no6IEs1DCR) | [Great American Ghost](https://open.spotify.com/artist/2KEWeLDHDztMs2phLYTcRX) | [Hymn Of Decay](https://open.spotify.com/album/4ZtrDZgiwAvE58Xpn56f0K) | 4:52 | 2024-04-30 | 2024-05-03 |
+| [I / Me / Myself \- 2018 Live in Studio Demo](https://open.spotify.com/track/5Jc7KAQRzED9Yhjg1r23WS) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [I / Me / Myself \(2018 Live in Studio Demo\)](https://open.spotify.com/album/01ZhqRX2U0p0rxxIoYRPcX) | 5:00 | 2024-07-28 |  |
 | [I Am](https://open.spotify.com/track/6MVk4SW25q1CNENQE1RHyv) | [Michaela Jaé](https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5) | [I Am](https://open.spotify.com/album/06AscAzNNnjwtxfzXgrElI) | 2:03 | 2024-06-13 | 2024-06-15 |
 | [I Am A Force Field](https://open.spotify.com/track/2TT8pAlNTKxiiuLtAmmajK) | [Cloud Cult](https://open.spotify.com/artist/6R1T5YklzC9OFugGt8RwOD) | [I Am A Force Field](https://open.spotify.com/album/1bh5b0MP2pvPkOggolZI4b) | 4:24 | 2024-05-14 | 2024-05-16 |
 | [I Am Dog Now](https://open.spotify.com/track/2V0hvlkjUrp9GxL6iHnOJD) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [I Am Dog Now](https://open.spotify.com/album/4A3gdWUjByvSGaT7z2DwvK) | 3:53 | 2024-07-16 | 2024-07-18 |
@@ -697,7 +698,7 @@
 | [Lotus](https://open.spotify.com/track/0Ztb6gvfzYnmD8HqBZaIVR) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Lotus](https://open.spotify.com/album/3sbOgcdCl22ybRGsygeh4W) | 5:00 | 2024-07-26 |  |
 | [Love changes everything II](https://open.spotify.com/track/6rQEMFrhVg9yCFXgsuCU07) | [Dirty Three](https://open.spotify.com/artist/1QUsHFoDqNsC0W9AlNyHWF) | [Love changes everything II](https://open.spotify.com/album/0lL6L0C3zrHPC5idMSyZpT) | 6:20 | 2024-05-28 | 2024-06-01 |
 | [Love Insurrection](https://open.spotify.com/track/0CNqLDmqmMDFoTExbsVaN0) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Love Insurrection](https://open.spotify.com/album/0lc5YaTdQfZd5L7zPpRK7Y) | 6:19 | 2024-07-17 | 2024-07-19 |
-| [Love Is](https://open.spotify.com/track/2SABOK9LGZ68jM5TPPHBvD) | [The Ridleys](https://open.spotify.com/artist/03KZ3tIgA3DSCU4o8PahVG) | [Love Is](https://open.spotify.com/album/4RU1GrHbHIXBlrVOrUdwfw) | 3:52 | 2024-07-26 |  |
+| [Love Is](https://open.spotify.com/track/2SABOK9LGZ68jM5TPPHBvD) | [The Ridleys](https://open.spotify.com/artist/03KZ3tIgA3DSCU4o8PahVG) | [Love Is](https://open.spotify.com/album/4RU1GrHbHIXBlrVOrUdwfw) | 3:52 | 2024-07-26 | 2024-07-29 |
 | [Love Is Blind \- Spotify Singles](https://open.spotify.com/track/4f22oWm76LYThaa1FpDuUw) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Ravyn Lenae \- Spotify Singles](https://open.spotify.com/album/6LTLO1em5gSsWWlBCOBazT) | 2:44 | 2024-05-22 | 2024-05-25 |
 | [Love Me](https://open.spotify.com/track/4GE2HPvrgYp6GiW8JUHpfj) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [Love Me](https://open.spotify.com/album/30MjKFugfIkwTPAvvSk7bP) | 2:56 | 2024-06-22 | 2024-06-26 |
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-04-26 | 2024-04-28 |
@@ -839,7 +840,7 @@
 | [Omg Im so Sexy, I Might Come..](https://open.spotify.com/track/3cDdwrxJQVArqvDUH6WCjg) | [Acidgvrl](https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f), [Yûmi](https://open.spotify.com/artist/3m8rTxRDybQjzmsC0DU1ni) | [Omg Im so Sexy, I Might Come..](https://open.spotify.com/album/2XheIgYzSigdFekFhP8I0N) | 3:00 | 2024-05-15 | 2024-05-17 |
 | [On My Scars \(feat.Lil Cherry, Dbo\)](https://open.spotify.com/track/2nRXFF4FE6NhUo0Sy6uCBS) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst) | [On My Scars \(feat.Lil Cherry, Dbo\)](https://open.spotify.com/album/5ffj6G6sXr3NXtlQFnUybz) | 3:18 | 2024-06-26 | 2024-06-29 |
 | [On This Hill](https://open.spotify.com/track/1Ai4EnJN4sywxcj8KOmIgb) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [On This Hill](https://open.spotify.com/album/5StpVKqlHLWZwdlivpSMpo) | 4:26 | 2024-05-18 | 2024-05-22 |
-| [ONE TULIP//](https://open.spotify.com/track/05EqkaNF2149cACYq1bQSI) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [ONE TULIP//](https://open.spotify.com/album/5gsKdAaibHqG8nyWohWKhf) | 3:48 | 2024-07-26 |  |
+| [ONE TULIP//](https://open.spotify.com/track/05EqkaNF2149cACYq1bQSI) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [ONE TULIP//](https://open.spotify.com/album/5gsKdAaibHqG8nyWohWKhf) | 3:48 | 2024-07-26 | 2024-07-29 |
 | [Oontz](https://open.spotify.com/track/63edfGFGTKUTejLeFt3oPA) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [Oontz](https://open.spotify.com/album/6u9KEtaprDU8f2IJXR0ODS) | 3:01 | 2024-06-20 | 2024-06-22 |
 | [Open Always Wins](https://open.spotify.com/track/7lqkrW4NxWuC8nVW1qnh2k) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Open Always Wins](https://open.spotify.com/album/5NZ1IEOLWVRYIhN8uRPyZs) | 2:22 | 2024-07-17 | 2024-07-19 |
 | [Orange Juice \(feat\. Yein\)](https://open.spotify.com/track/4NoKE4uoMbXUgKuCcfvuqv) | [Ryu Sujeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc), [YEIN](https://open.spotify.com/artist/3aoj0GaPp2mny7ixM0rH33) | [Orange Juice \(feat\. Yein\)](https://open.spotify.com/album/78RZdUmBN2E3pUpLBHcUto) | 2:57 | 2024-05-16 | 2024-05-18 |
@@ -1009,6 +1010,7 @@
 | [Siege Lord](https://open.spotify.com/track/4vmT3Rruzg7N0SCKJTI96u) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Siege Lord](https://open.spotify.com/album/3O1MrlUbcvMZgXlwbZKEuP) | 3:25 | 2024-05-02 | 2024-05-04 |
 | [SIGMA](https://open.spotify.com/track/4vfm50GzceHAl5bIN05vrM) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [SIGMA](https://open.spotify.com/album/6HfYRGgHEoPNvsDJhQOoAL) | 4:48 | 2024-06-14 | 2024-06-17 |
 | [Sign](https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sign](https://open.spotify.com/album/2er0Xi4lRpqY20aCvDnw3p) | 3:35 | 2024-07-08 | 2024-07-10 |
+| [Signed & Sealed](https://open.spotify.com/track/4DW38GEUXXg9jaEeEwkJUE) | [HalaCG](https://open.spotify.com/artist/0Tbadays3Z2K3BxmvjL34J) | [Signed & Sealed](https://open.spotify.com/album/6MVugXfdiM91rPMrGAebfi) | 3:33 | 2024-07-28 |  |
 | [Silently Walking Alone](https://open.spotify.com/track/1y2H49mWggsh4DLiGDqwZq) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Silently Walking Alone](https://open.spotify.com/album/4v7F020kNf6htiA1kkBm0J) | 4:05 | 2024-06-26 | 2024-06-28 |
 | [Silver](https://open.spotify.com/track/7axVU8655dP4si8KjxA5w3) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Silver](https://open.spotify.com/album/4dkURusmVlpzbbr6EA5iYI) | 3:16 | 2024-07-09 | 2024-07-11 |
 | [Silver Tongue](https://open.spotify.com/track/0Qxsuh1NoCMWDYVfC49XRE) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Silver Tongue](https://open.spotify.com/album/6kzadEspZVh3DAFv5BnulS) | 4:22 | 2024-05-25 | 2024-05-29 |
@@ -1201,6 +1203,7 @@
 | [Toxins](https://open.spotify.com/track/5MarKAwrQvOEGlCOKEeIw3) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Toxins](https://open.spotify.com/album/7lKTFbEOfMHcZ0xMzPB9md) | 2:22 | 2024-06-19 | 2024-06-21 |
 | [Treacle](https://open.spotify.com/track/7hdZkXnculeyD2NaiatIPu) | [Hagop Tchaparian](https://open.spotify.com/artist/14hI6ZlrKB6X81Y046P2MW) | [Treacle](https://open.spotify.com/album/3OA4iV106FX6hE24PYOq6F) | 3:30 | 2024-05-08 | 2024-05-10 |
 | [Troubles](https://open.spotify.com/track/55ntZWWQvG61pdItxwtG79) | [Ren](https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM) | [Troubles](https://open.spotify.com/album/3sihCDYeYh1kb78LwIwGCU) | 4:14 | 2024-05-09 | 2024-05-11 |
+| [Trump Shooter Freestyle](https://open.spotify.com/track/3mcm1DHX8r0U7NVEzu2Nh9) | [Rob Apollo](https://open.spotify.com/artist/6yKhvpwLXw23Iy6jFr192V) | [Trump Shooter Freestyle](https://open.spotify.com/album/37aFge1JTADIAldGM3kTBL) | 1:26 | 2024-07-28 |  |
 | [TRYNA MAKE SURE](https://open.spotify.com/track/02VGZtwmrNLpTPW6Ei6sgh) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [TRYNA MAKE SURE](https://open.spotify.com/album/5bUzYt9BzLZy5Yud08Sd3Z) | 2:46 | 2024-05-03 | 2024-05-06 |
 | [Tsunami](https://open.spotify.com/track/1Zxs0s5K3nz19MmqyFJUs4) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/6rbJERqPcWrTwKo5oi8p3f) | 3:51 | 2024-07-26 |  |
 | [TSUNDERE!](https://open.spotify.com/track/3LPtKeW56QZnjjI8GVRlac) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [TSUNDERE!](https://open.spotify.com/album/3LWWli5J9Ueytn0f8RM6my) | 2:06 | 2024-05-05 | 2024-05-09 |

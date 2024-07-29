@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 186363,
+  "num_followers": 186442,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -595,26 +595,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Places",
-        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        }
-      ],
-      "duration_ms": 211278,
-      "name": "Places",
-      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Give Me Something To Hold",
         "url": "https://open.spotify.com/album/5OpfL67XVSZ0TPAAecK7aU"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 241846,
       "name": "Resonate (feat. Julia Church)",
       "url": "https://open.spotify.com/track/2pvQCbUnXHOpAcJOkgAYmZ"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Places",
+        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        }
+      ],
+      "duration_ms": 211278,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/2m4l1KffyARA2MSaAJhEKH"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/7GJz7LUlNyf5DahBhG1XIg"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/4LJhKUgLG4w4uM99XyAkMz"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 234448,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/3jVo350GBcozw5OrXySv5N"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/2m4l1KffyARA2MSaAJhEKH"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/7GJz7LUlNyf5DahBhG1XIg"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 244285,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
         "name": "Ice Moon",
         "url": "https://open.spotify.com/album/4ZFwY8augL822xcvrf0LL2"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 154153,
       "name": "Ice Moon",
       "url": "https://open.spotify.com/track/1Vv4jqn3EZZw0BThJqjhJD"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 244285,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/0mZhESlUF6AQ9aUAer6LI1"
-      },
-      "artists": [
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 181311,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/6autWijbEdpktfTNI5fkx5"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Freedom 2024",
         "url": "https://open.spotify.com/album/2xCpkjYMEJQ2dFHxl3zOsI"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 161129,
       "name": "Freedom 2024",
       "url": "https://open.spotify.com/track/3g3wivIMksmnO0k4Hy2aSn"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/0mZhESlUF6AQ9aUAer6LI1"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 181311,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/6autWijbEdpktfTNI5fkx5"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Fortified",
-        "url": "https://open.spotify.com/album/3CY9DD7Kle1y2hA5tjoT4I"
-      },
-      "artists": [
-        {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
-        },
-        {
-          "name": "Dwara",
-          "url": "https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG"
-        }
-      ],
-      "duration_ms": 212870,
-      "name": "Fortified",
-      "url": "https://open.spotify.com/track/4DCUXQ5oVnTqEnCgK65B5a"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "You and Me (We Owned It)",
         "url": "https://open.spotify.com/album/0Pvy8zkVenMBdOQH6cdEjZ"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 417000,
       "name": "You and Me (We Owned It)",
       "url": "https://open.spotify.com/track/1ORzNmt5S14aUa9va4hviA"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Fortified",
+        "url": "https://open.spotify.com/album/3CY9DD7Kle1y2hA5tjoT4I"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        },
+        {
+          "name": "Dwara",
+          "url": "https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG"
+        }
+      ],
+      "duration_ms": 212870,
+      "name": "Fortified",
+      "url": "https://open.spotify.com/track/4DCUXQ5oVnTqEnCgK65B5a"
     }
   ],
   "unique_name": "Melodic & Euphoric",

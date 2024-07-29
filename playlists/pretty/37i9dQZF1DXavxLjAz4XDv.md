@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavxLjAz4XDv.md) - [plain]
 
 > Essential tracks from "Resident Evil" series\. 25周年を迎えたホラーゲームの金字塔、バイオハザードシリーズの音楽をプレイリストで。©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,755 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,758 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavxLjAz4XDv.md) - [plain]
 | 3 | [Black Impact \- Remastered 2021](https://open.spotify.com/track/4tkhmOEwEwBRDXxCxaR0Ew) | [Zhenlan Kang](https://open.spotify.com/artist/6kl3efW7tl5W2La5T9NElp) | [バイオハザードサウンドクロニクルIII](https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v) | 3:31 |
 | 4 | [“O vendetta di Dio" \- Remastered 2021](https://open.spotify.com/track/7yl5tzutKgS06q8SkoTtUh) | [Takeshi Miura](https://open.spotify.com/artist/1Eii6MJjXMNyoRMvCiYDTN) | [バイオハザードサウンドクロニクルIII](https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v) | 3:36 |
 | 5 | [Secure Place](https://open.spotify.com/track/0OFk9R6SsxdwN2qwgNR2Sm) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y) | 0:56 |
-| 6 | [The Theme Of Alexia Type 2](https://open.spotify.com/track/5vW2tCcYpK3iXDxkWXRFY3) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y) | 2:31 |
+| 6 | [The Theme Of Alexia \- Type 2](https://open.spotify.com/track/5vW2tCcYpK3iXDxkWXRFY3) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y) | 2:31 |
 | 7 | [Last Judgment \- Remastered 2021](https://open.spotify.com/track/5yLxGWfRFTLm1r3KoqkYM8) | [中島健太郎](https://open.spotify.com/artist/38qCJ6vCoxPJYoJQbAm8T5) | [バイオハザードサウンドクロニクルIII](https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v) | 3:26 |
 | 8 | [Ride on Sea \- Remastered 2021](https://open.spotify.com/track/2RA3zImK0RAHmWzE2gLwEx) | [Takeshi Miura](https://open.spotify.com/artist/1Eii6MJjXMNyoRMvCiYDTN) | [バイオハザードサウンドクロニクルIII](https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v) | 3:09 |
 | 9 | [Ripples in the Calm](https://open.spotify.com/track/3EN6ImHKQSUdJUC3KVLjuM) | [Shusaku Uchiyama](https://open.spotify.com/artist/0pLnnIJmeRcWMSpOxujSH8) | [BIOHAZARD VILLAGE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/50PXqGjTFAWNNTghrzcviI) | 2:22 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavxLjAz4XDv.md) - [plain]
 | 52 | [ZERO](https://open.spotify.com/track/0y2AxvTXJbR4LDbItUWNRi) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y) | 1:02 |
 | 53 | [安息](https://open.spotify.com/track/2p9ajoG6FDNmVweyww5mJm) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y) | 0:46 |
 | 54 | [End of Umbrella](https://open.spotify.com/track/0ipIbyahljV0fxDnd6WELv) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y) | 1:13 |
-| 55 | [The Drive 〜 First Contact](https://open.spotify.com/track/6s7EdkhYJWUbENr2j6JCIN) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y) | 2:11 |
+| 55 | [The Drive ～ First Contact](https://open.spotify.com/track/6s7EdkhYJWUbENr2j6JCIN) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y) | 2:11 |
 | 56 | [Save Theme](https://open.spotify.com/track/5kmPPl3nZ9nRFQX5XBqC5L) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y) | 1:07 |
 | 57 | [Sorrow \(Ending Credits\)](https://open.spotify.com/track/4XWrXq7H8WTID054RYJHV6) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y) | 3:34 |
 | 58 | [Heat on Beat 2012/The Mercenaries \- Remastered 2021](https://open.spotify.com/track/2eMbAooPrXFxXQwKzSCGpS) | [Daniel Lindholm](https://open.spotify.com/artist/3K7OIFQeYz1TDkZqMOjP9O) | [バイオハザードサウンドクロニクルIII](https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v) | 3:50 |

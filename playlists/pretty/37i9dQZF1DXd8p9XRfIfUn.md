@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: AKRIILA, TAICHU
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,459 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,479 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 13 | [Cuándo Te Ví](https://open.spotify.com/track/7mAb5cfuIcgDW9nH8yX8gQ) | [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3) | [Cuándo Te Ví](https://open.spotify.com/album/7mSplvOmwXjAobBYvO362f) | 3:00 |
 | 14 | [Dale Bogueto](https://open.spotify.com/track/57pTW0VdhvcQUYKtHby8MD) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [DJ Antena](https://open.spotify.com/artist/3x4HzYxQSgtmomxVVlCEiW), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Reggaetoñerito](https://open.spotify.com/album/50V7j3NTDPwAkdTRFbjfJ9) | 3:07 |
 | 15 | [Chakalito](https://open.spotify.com/track/1QGrlHRKaTADypgJbF3cyK) | [Sherry](https://open.spotify.com/artist/0qKzket0i9hSMVGTV9fnZe) | [Chakalito](https://open.spotify.com/album/2m9yUDahvaJnKWnjZUD02d) | 2:04 |
-| 16 | [SUPERNOVA](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [SUPERNOVA](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 |
+| 16 | [No Me Conocen \(Remix\) \[con DUKI, Rei & Tiago PZK\]](https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [No Me Conocen \(Remix\) \(Con Duki, Rei & Tiago Pzk\)](https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe) | 4:40 |
 | 17 | [Hábitos](https://open.spotify.com/track/1eAU9My8o0abs1CJ2ZNaS1) | [KAIISITO](https://open.spotify.com/artist/5f4C4xS08FHKOQrtyx5YCh) | [Hábitos](https://open.spotify.com/album/19gaaklTA10p6WURLDq3lm) | 1:37 |
-| 18 | [No Me Conocen \(Remix\) \[con DUKI, Rei & Tiago PZK\]](https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [No Me Conocen \(Remix\) \(Con Duki, Rei & Tiago Pzk\)](https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe) | 4:40 |
+| 18 | [SUPERNOVA](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [SUPERNOVA](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 |
 | 19 | [Sal de Playa](https://open.spotify.com/track/6GQ6LfdASmu0W3jSUVw9CQ) | [Mike Castillo](https://open.spotify.com/artist/0KKwvsJId3Wsd7z7gRCfbn), [FRAN](https://open.spotify.com/artist/3kFlxPXZ31culc2QluDVLC) | [Sal de Playa](https://open.spotify.com/album/063zK3ZynuhImsK6oy3jnY) | 3:06 |
 | 20 | [Un Poquito](https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Un Poquito](https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO) | 2:46 |
 | 21 | [Su Mirada](https://open.spotify.com/track/1MOaqR0xrws9MZ3Yf57f9C) | [Don Kila](https://open.spotify.com/artist/2Ccy32OrB8C3KTfwpD5nui), [ELOCK](https://open.spotify.com/artist/4Jm5DmScIBNV66mvwMx7t9), [Dobble](https://open.spotify.com/artist/2cUPc5nStERPfcSlK2z6ws), [K\-BO](https://open.spotify.com/artist/34lEWpozHuvD8b3cAQHnzQ) | [Su Mirada](https://open.spotify.com/album/30VzYxItBPxQndd3ImIPCX) | 4:00 |

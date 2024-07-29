@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Mozey",
-  "num_followers": 61987,
+  "num_followers": 62004,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-07-25 19:21:42",
       "album": {
+        "name": "Take Me Up",
+        "url": "https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 215327,
+      "name": "Take Me Up",
+      "url": "https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1"
+    },
+    {
+      "added_at": "2024-07-25 19:21:42",
+      "album": {
         "name": "Phantasm",
         "url": "https://open.spotify.com/album/0MeCw3SMfshfeTF2OG85gx"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 199728,
       "name": "Ghosting Your Love",
       "url": "https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R"
-    },
-    {
-      "added_at": "2024-07-25 19:21:42",
-      "album": {
-        "name": "Take Me Up",
-        "url": "https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 215327,
-      "name": "Take Me Up",
-      "url": "https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1"
     },
     {
       "added_at": "2024-07-25 19:21:42",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-07-25 19:21:42",
       "album": {
-        "name": "Break It Down",
-        "url": "https://open.spotify.com/album/3Wexk9iIasCfB4h57xcFzw"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        }
-      ],
-      "duration_ms": 203164,
-      "name": "Break It Down",
-      "url": "https://open.spotify.com/track/5pg0g6o6ePcRHiQOxgzDMd"
-    },
-    {
-      "added_at": "2024-07-25 19:21:42",
-      "album": {
         "name": "Nightmares",
         "url": "https://open.spotify.com/album/2lQ23jZfDgcb2s4v47W1NK"
       },
@@ -963,58 +947,6 @@
       "duration_ms": 181032,
       "name": "Nightmares",
       "url": "https://open.spotify.com/track/6mzDDGA0c1eNIFRqMt6kB1"
-    },
-    {
-      "added_at": "2024-07-25 19:21:42",
-      "album": {
-        "name": "OH SHIT",
-        "url": "https://open.spotify.com/album/1lqPqWbQGmlyRffoU1twrv"
-      },
-      "artists": [
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        },
-        {
-          "name": "Dreps",
-          "url": "https://open.spotify.com/artist/0hBSt9EaV3JxjI2mjF0Nd2"
-        }
-      ],
-      "duration_ms": 133714,
-      "name": "OH SHIT",
-      "url": "https://open.spotify.com/track/60IGX6fpv4uZZDcTuJm0IS"
-    },
-    {
-      "added_at": "2024-07-25 19:21:42",
-      "album": {
-        "name": "Skillz",
-        "url": "https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf"
-      },
-      "artists": [
-        {
-          "name": "Grima x Azza",
-          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
-        },
-        {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
-        },
-        {
-          "name": "Nu Elementz",
-          "url": "https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP"
-        },
-        {
-          "name": "MC Spyda",
-          "url": "https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl"
-        },
-        {
-          "name": "TNA",
-          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
-        }
-      ],
-      "duration_ms": 204621,
-      "name": "Skillz",
-      "url": "https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg"
     },
     {
       "added_at": "2024-07-25 19:21:42",
@@ -1063,6 +995,54 @@
     {
       "added_at": "2024-07-25 19:21:42",
       "album": {
+        "name": "Break It Down",
+        "url": "https://open.spotify.com/album/3Wexk9iIasCfB4h57xcFzw"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        }
+      ],
+      "duration_ms": 203164,
+      "name": "Break It Down",
+      "url": "https://open.spotify.com/track/5pg0g6o6ePcRHiQOxgzDMd"
+    },
+    {
+      "added_at": "2024-07-25 19:21:42",
+      "album": {
+        "name": "Skillz",
+        "url": "https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf"
+      },
+      "artists": [
+        {
+          "name": "Grima x Azza",
+          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
+        },
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+        },
+        {
+          "name": "Nu Elementz",
+          "url": "https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP"
+        },
+        {
+          "name": "MC Spyda",
+          "url": "https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl"
+        },
+        {
+          "name": "TNA",
+          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
+        }
+      ],
+      "duration_ms": 204621,
+      "name": "Skillz",
+      "url": "https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg"
+    },
+    {
+      "added_at": "2024-07-25 19:21:42",
+      "album": {
         "name": "Wild (Disrupta Remix)",
         "url": "https://open.spotify.com/album/27xGHAAYqDjQM04UIFVT8W"
       },
@@ -1083,6 +1063,26 @@
     {
       "added_at": "2024-07-25 19:21:42",
       "album": {
+        "name": "OH SHIT",
+        "url": "https://open.spotify.com/album/1lqPqWbQGmlyRffoU1twrv"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Dreps",
+          "url": "https://open.spotify.com/artist/0hBSt9EaV3JxjI2mjF0Nd2"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "OH SHIT",
+      "url": "https://open.spotify.com/track/60IGX6fpv4uZZDcTuJm0IS"
+    },
+    {
+      "added_at": "2024-07-25 19:21:42",
+      "album": {
         "name": "Take You Higher",
         "url": "https://open.spotify.com/album/50rZcGSInCDVzBai5jQuo7"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-25 19:21:42",
       "album": {
-        "name": "Lady Petrol",
-        "url": "https://open.spotify.com/album/24e3IAndixmqYlExyKTldi"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        }
-      ],
-      "duration_ms": 309986,
-      "name": "Lady Petrol",
-      "url": "https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa"
-    },
-    {
-      "added_at": "2024-07-25 19:21:42",
-      "album": {
         "name": "Back To Normal",
         "url": "https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9"
       },
@@ -1127,6 +1111,26 @@
       "duration_ms": 268939,
       "name": "Lightspeed",
       "url": "https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl"
+    },
+    {
+      "added_at": "2024-07-25 19:21:42",
+      "album": {
+        "name": "Forever Changes",
+        "url": "https://open.spotify.com/album/4rSSLeJIKgTj7nymJ5Xgs6"
+      },
+      "artists": [
+        {
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+        },
+        {
+          "name": "Zara Kershaw",
+          "url": "https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2"
+        }
+      ],
+      "duration_ms": 184065,
+      "name": "Forever Changes",
+      "url": "https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs"
     }
   ],
   "unique_name": "Jump Up!",

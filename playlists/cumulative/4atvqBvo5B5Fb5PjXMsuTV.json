@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 27 Jul 10:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 28 Jul 16:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -9480,7 +9480,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 179062,
       "name": "Happy",
       "url": "https://open.spotify.com/track/6ztjccAfxl3jVmvujjSUyI"
@@ -10622,6 +10622,24 @@
       "duration_ms": 292789,
       "name": "Hymn Of Decay",
       "url": "https://open.spotify.com/track/6bX8TFct73J2no6IEs1DCR"
+    },
+    {
+      "album": {
+        "name": "I / Me / Myself (2018 Live in Studio Demo)",
+        "url": "https://open.spotify.com/album/01ZhqRX2U0p0rxxIoYRPcX"
+      },
+      "artists": [
+        {
+          "name": "Will Wood",
+          "url": "https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE"
+        }
+      ],
+      "date_added": "2024-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300280,
+      "name": "I / Me / Myself - 2018 Live in Studio Demo",
+      "url": "https://open.spotify.com/track/5Jc7KAQRzED9Yhjg1r23WS"
     },
     {
       "album": {
@@ -13214,7 +13232,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 232409,
       "name": "Love Is",
       "url": "https://open.spotify.com/track/2SABOK9LGZ68jM5TPPHBvD"
@@ -15938,7 +15956,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 228000,
       "name": "ONE TULIP//",
       "url": "https://open.spotify.com/track/05EqkaNF2149cACYq1bQSI"
@@ -19232,6 +19250,24 @@
       "duration_ms": 215490,
       "name": "Sign",
       "url": "https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00"
+    },
+    {
+      "album": {
+        "name": "Signed & Sealed",
+        "url": "https://open.spotify.com/album/6MVugXfdiM91rPMrGAebfi"
+      },
+      "artists": [
+        {
+          "name": "HalaCG",
+          "url": "https://open.spotify.com/artist/0Tbadays3Z2K3BxmvjL34J"
+        }
+      ],
+      "date_added": "2024-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Signed & Sealed",
+      "url": "https://open.spotify.com/track/4DW38GEUXXg9jaEeEwkJUE"
     },
     {
       "album": {
@@ -22912,6 +22948,24 @@
       "duration_ms": 254119,
       "name": "Troubles",
       "url": "https://open.spotify.com/track/55ntZWWQvG61pdItxwtG79"
+    },
+    {
+      "album": {
+        "name": "Trump Shooter Freestyle",
+        "url": "https://open.spotify.com/album/37aFge1JTADIAldGM3kTBL"
+      },
+      "artists": [
+        {
+          "name": "Rob Apollo",
+          "url": "https://open.spotify.com/artist/6yKhvpwLXw23Iy6jFr192V"
+        }
+      ],
+      "date_added": "2024-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86359,
+      "name": "Trump Shooter Freestyle",
+      "url": "https://open.spotify.com/track/3mcm1DHX8r0U7NVEzu2Nh9"
     },
     {
       "album": {

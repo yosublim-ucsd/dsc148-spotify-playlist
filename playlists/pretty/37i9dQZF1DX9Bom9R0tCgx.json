@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 386072,
+  "num_followers": 386184,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,26 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
+        "name": "King Of My Castle",
+        "url": "https://open.spotify.com/album/3hjLM01JbuC0E74QVJgnMx"
+      },
+      "artists": [
+        {
+          "name": "SP3CTRUM",
+          "url": "https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN"
+        },
+        {
+          "name": "Milan Gavris",
+          "url": "https://open.spotify.com/artist/5Ukdziss6tmNzMRrJ60UKJ"
+        }
+      ],
+      "duration_ms": 116433,
+      "name": "King Of My Castle",
+      "url": "https://open.spotify.com/track/3gs60fPEJDaHKto1Bh0Erj"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
         "name": "Stumblin' In (Sonny Wern Remix)",
         "url": "https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 200086,
       "name": "Perfect (Exceeder) - 1991 Remix",
       "url": "https://open.spotify.com/track/1VKWQgq0g2uKtgNfL0ceNM"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "King Of My Castle",
-        "url": "https://open.spotify.com/album/3hjLM01JbuC0E74QVJgnMx"
-      },
-      "artists": [
-        {
-          "name": "SP3CTRUM",
-          "url": "https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN"
-        },
-        {
-          "name": "Milan Gavris",
-          "url": "https://open.spotify.com/artist/5Ukdziss6tmNzMRrJ60UKJ"
-        }
-      ],
-      "duration_ms": 116433,
-      "name": "King Of My Castle",
-      "url": "https://open.spotify.com/track/3gs60fPEJDaHKto1Bh0Erj"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1279,6 +1279,54 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
+        "name": "MIRAGE",
+        "url": "https://open.spotify.com/album/6Q4F5AMGnzaZz4vQblwwHb"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        }
+      ],
+      "duration_ms": 165049,
+      "name": "MIRAGE",
+      "url": "https://open.spotify.com/track/3McrQoWYs6qGmuWEAVnRSJ"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Dance Therapy",
+        "url": "https://open.spotify.com/album/12V052Mk8ocjWz8LW5lpaa"
+      },
+      "artists": [
+        {
+          "name": "SP3CTRUM",
+          "url": "https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN"
+        }
+      ],
+      "duration_ms": 125058,
+      "name": "Dance Therapy",
+      "url": "https://open.spotify.com/track/5xrz1b5HGjX4a8eVdKnBfc"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "DARK MATTER",
+        "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 174044,
+      "name": "P.I.M.P. - HEDEGAARD Remix",
+      "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
         "name": "Explode",
         "url": "https://open.spotify.com/album/2QryHAeKDPpFc5gww7Of3o"
       },
@@ -1315,38 +1363,6 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Dance Therapy",
-        "url": "https://open.spotify.com/album/12V052Mk8ocjWz8LW5lpaa"
-      },
-      "artists": [
-        {
-          "name": "SP3CTRUM",
-          "url": "https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN"
-        }
-      ],
-      "duration_ms": 125058,
-      "name": "Dance Therapy",
-      "url": "https://open.spotify.com/track/5xrz1b5HGjX4a8eVdKnBfc"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "MIRAGE",
-        "url": "https://open.spotify.com/album/6Q4F5AMGnzaZz4vQblwwHb"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        }
-      ],
-      "duration_ms": 165049,
-      "name": "MIRAGE",
-      "url": "https://open.spotify.com/track/3McrQoWYs6qGmuWEAVnRSJ"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
         "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
         "url": "https://open.spotify.com/album/25YdkG6ZzOjou6uNQaC0NY"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 147895,
       "name": "Dance For Me (1, 2, 3) - Stutter Techno",
       "url": "https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "DARK MATTER",
-        "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 174044,
-      "name": "P.I.M.P. - HEDEGAARD Remix",
-      "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1531,30 +1531,6 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "OneHundred",
-        "url": "https://open.spotify.com/album/34vgp24d0jYG1SzSkgP3uE"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        },
-        {
-          "name": "CANCUN?",
-          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
-        },
-        {
-          "name": "Matt Hawk",
-          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
-        }
-      ],
-      "duration_ms": 189376,
-      "name": "OneHundred",
-      "url": "https://open.spotify.com/track/5SNvyCJJ5OLKDLQza2EPLP"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
         "name": "Jump Jump Jump",
         "url": "https://open.spotify.com/album/7oP25q6BPt2pAsVfGnbCFq"
       },
@@ -1575,6 +1551,30 @@
       "duration_ms": 159473,
       "name": "Jump Jump Jump",
       "url": "https://open.spotify.com/track/309jTjKoqrNjo0CQGjA0i4"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "OneHundred",
+        "url": "https://open.spotify.com/album/34vgp24d0jYG1SzSkgP3uE"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+        },
+        {
+          "name": "Matt Hawk",
+          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
+        }
+      ],
+      "duration_ms": 189376,
+      "name": "OneHundred",
+      "url": "https://open.spotify.com/track/5SNvyCJJ5OLKDLQza2EPLP"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "9mm",
-        "url": "https://open.spotify.com/album/3sci6Sx5qkPpOxTVYXYzxD"
-      },
-      "artists": [
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 237928,
-      "name": "9mm",
-      "url": "https://open.spotify.com/track/1g1SuDg4vUq9u0J7V142Zx"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
         "name": "Triple F",
         "url": "https://open.spotify.com/album/2MJZVIvc14YSuFze66w5Vw"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 163200,
       "name": "Fuck The Pain Away",
       "url": "https://open.spotify.com/track/4xCmCF6pHz0v6vcANehny0"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "9mm",
+        "url": "https://open.spotify.com/album/3sci6Sx5qkPpOxTVYXYzxD"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 237928,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/1g1SuDg4vUq9u0J7V142Zx"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1771,6 +1771,42 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
+        "name": "Love Is Free",
+        "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 172563,
+      "name": "Love Is Free",
+      "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Run (Part 1)",
+        "url": "https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        },
+        {
+          "name": "Sofia",
+          "url": "https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb"
+        }
+      ],
+      "duration_ms": 135085,
+      "name": "Run (Part 1)",
+      "url": "https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
         "name": "All I Ever Wanted",
         "url": "https://open.spotify.com/album/7qPFcO0JaiYoCgsBX5K6fw"
       },
@@ -1807,42 +1843,6 @@
       "duration_ms": 156328,
       "name": "No Time",
       "url": "https://open.spotify.com/track/6L4ZHLACL2Fla9qT56ef8P"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "Love Is Free",
-        "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 172563,
-      "name": "Love Is Free",
-      "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "Run (Part 1)",
-        "url": "https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        },
-        {
-          "name": "Sofia",
-          "url": "https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb"
-        }
-      ],
-      "duration_ms": 135085,
-      "name": "Run (Part 1)",
-      "url": "https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1899,6 +1899,26 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
+        "name": "Do It To It",
+        "url": "https://open.spotify.com/album/3fWdpln80JI7ucgaSVNgOl"
+      },
+      "artists": [
+        {
+          "name": "R3SPAWN",
+          "url": "https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB"
+        },
+        {
+          "name": "Julia Hallasen",
+          "url": "https://open.spotify.com/artist/31Izzl2gwnqQ3G4LKCyEup"
+        }
+      ],
+      "duration_ms": 124195,
+      "name": "Do It To It",
+      "url": "https://open.spotify.com/track/7DiKjH02wk2zH26Rni1XnA"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/59T65v0ZNe7z8dDd5kR2Kq"
       },
@@ -1935,46 +1955,6 @@
       "duration_ms": 136800,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "Do It To It",
-        "url": "https://open.spotify.com/album/3fWdpln80JI7ucgaSVNgOl"
-      },
-      "artists": [
-        {
-          "name": "R3SPAWN",
-          "url": "https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB"
-        },
-        {
-          "name": "Julia Hallasen",
-          "url": "https://open.spotify.com/artist/31Izzl2gwnqQ3G4LKCyEup"
-        }
-      ],
-      "duration_ms": 124195,
-      "name": "Do It To It",
-      "url": "https://open.spotify.com/track/7DiKjH02wk2zH26Rni1XnA"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "Round Round",
-        "url": "https://open.spotify.com/album/4e7zsUUHx3IvraiPsvirT7"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        },
-        {
-          "name": "Gigi Russ",
-          "url": "https://open.spotify.com/artist/54TtQ6BIKwjmQsV3yX2NeB"
-        }
-      ],
-      "duration_ms": 226259,
-      "name": "Round Round",
-      "url": "https://open.spotify.com/track/4hB0gb4KGm17u266JD5pbc"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -2027,6 +2007,26 @@
       "duration_ms": 134357,
       "name": "Burn",
       "url": "https://open.spotify.com/track/2kQ853vf9Z5rxjJCQRRQIL"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Donkers",
+        "url": "https://open.spotify.com/album/06SEttic5htIY70LgIXuQR"
+      },
+      "artists": [
+        {
+          "name": "Gonzi",
+          "url": "https://open.spotify.com/artist/5QahAoa4CrRbxmriKGacoe"
+        },
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "duration_ms": 304500,
+      "name": "Donkers",
+      "url": "https://open.spotify.com/track/6kvjzDjx2Z3z23xRq13xMu"
     }
   ],
   "unique_name": "Bass Explosion",

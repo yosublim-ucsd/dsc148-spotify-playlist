@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Nicaragua.
 
-960 songs - 2 day 6 hr 6 min
+961 songs - 2 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Cómo Te Atreves](https://open.spotify.com/track/7M6CFruBrM5x7u0lTMtm6r) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobre El Amor Y Sus Efectos Secundarios](https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz) | 4:00 | 2024-03-01 | 2024-04-20 |
 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/5ozZHuU1nWqq2UaFM9xa5A) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Como Te Extraño Mi Amor](https://open.spotify.com/album/6LT09D1zPnXGS3mLvpReVm) | 2:55 | 2024-06-24 | 2024-06-27 |
 | [CÓRCEGA](https://open.spotify.com/track/0FCiBGB36gPUW49xuoZYJm) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 3:09 | 2023-08-30 | 2023-09-01 |
-| [Cúrame](https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:44 | 2021-12-21 |  |
+| [Cúrame](https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:44 | 2021-12-21 | 2024-07-29 |
 | [Cúrame](https://open.spotify.com/track/3PwRuzdphgedcWVUOVYJ7I) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 2:44 | 2021-08-11 | 2021-12-22 |
 | [Dame La Luz](https://open.spotify.com/track/0IzhuRUKHpfYkmNRwq02BZ) | [Blessmon](https://open.spotify.com/artist/3zPYgcfV8C7pDX2sP54xPz) | [Dame La Luz](https://open.spotify.com/album/6JZzmINf7pS9Vr70dZzIzR) | 2:34 | 2024-05-20 | 2024-05-22 |
 | [Daniel Se Queda](https://open.spotify.com/track/0nxkIr83GdXfn9D8OtJoLw) | [FSLN](https://open.spotify.com/artist/2Jnu9gBnYHe0fjAt0D85ay), [Mariachi Azucena](https://open.spotify.com/artist/6tl9RNaBMKQxJArCXJ54Yk) | [Daniel Se Queda](https://open.spotify.com/album/0gp5cxrHFYgUWzW7nR0lKe) | 2:29 | 2024-07-20 | 2024-07-22 |
@@ -833,6 +833,7 @@
 | [Te Quiero](https://open.spotify.com/track/1Z4IqxukC6Yuer0nK7rC2R) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Te Quiero](https://open.spotify.com/album/4GBaFbtHeZD8t8bd1jE0AD) | 3:19 | 2021-12-24 | 2022-01-01 |
 | [Te Quiero](https://open.spotify.com/track/5sO5U27s6EUGMBj4fkqUyz) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Te Quiero](https://open.spotify.com/album/0YmzPJsNmuM10SAWwjhIBR) | 3:12 | 2024-03-16 | 2024-03-23 |
 | [TE VI EN MIS PESADILLAS](https://open.spotify.com/track/3vfq1ovR6oBGJPvoy4Oy1B) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 2:36 | 2024-05-18 | 2024-05-20 |
+| [Tekila](https://open.spotify.com/track/1TyAcJdsn2qhZSqdL7yO0n) | [Alex Sensation](https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse), [Dj Adoni](https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt), [Jeon](https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [Tekila](https://open.spotify.com/album/0FXBoMGY0sXVxONygNGiMV) | 3:16 | 2024-07-28 |  |
 | [TELEFONO NUEVO](https://open.spotify.com/track/01ppKlDRCmPpusO3yNrSRY) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 5:54 | 2023-10-14 | 2023-12-02 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-03-27\* | 2021-06-26 |
 | [Tengo Todo Excepto a Ti](https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:32 | 2024-02-06 | 2024-02-09 |

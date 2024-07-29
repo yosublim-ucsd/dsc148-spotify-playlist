@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 251367,
+  "num_followers": 251471,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
-      },
-      "artists": [
-        {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
-        }
-      ],
-      "duration_ms": 289586,
-      "name": "No Me Acostumbro",
-      "url": "https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
         "name": "GUACHINEO (Cubaton - Cuban Reggaeton 2015 - Lo Que Mas Suena En Cuba)",
         "url": "https://open.spotify.com/album/4Be7kxk3DvOv7rqiEoliSc"
       },
@@ -139,6 +123,74 @@
       "duration_ms": 258933,
       "name": "Los Campeones De La Salsa",
       "url": "https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
+        "name": "Live In The USA",
+        "url": "https://open.spotify.com/album/6MtMZryAJrkwQAavMO3JJi"
+      },
+      "artists": [
+        {
+          "name": "David Calzado y su Charanga Habanera",
+          "url": "https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw"
+        }
+      ],
+      "duration_ms": 476586,
+      "name": "Lola Lola",
+      "url": "https://open.spotify.com/track/6fHZOWvumsFiRgThPknxlj"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
+        "name": "Me Dicen Cuba / Rosa la Peligrosa",
+        "url": "https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN"
+      },
+      "artists": [
+        {
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        },
+        {
+          "name": "Havana D\u2019Primera",
+          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
+        }
+      ],
+      "duration_ms": 298374,
+      "name": "Me Dicen Cuba",
+      "url": "https://open.spotify.com/track/2AMQZ5IupHljTDOH44Nx2s"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "duration_ms": 289586,
+      "name": "No Me Acostumbro",
+      "url": "https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
+        "name": "Fiestas de Cuba (Remasterizado)",
+        "url": "https://open.spotify.com/album/520m5W3Yq9dKrNRp3WqU3u"
+      },
+      "artists": [
+        {
+          "name": "Juan Carlos Alfonso y su Dan Den",
+          "url": "https://open.spotify.com/artist/25pI6o2nQxbMc6lLXiIGQM"
+        }
+      ],
+      "duration_ms": 282920,
+      "name": "\u00c1mame con Tu Experiencia - Remasterizado",
+      "url": "https://open.spotify.com/track/0FJQWQiCVmazkqIMNZ6jst"
     },
     {
       "added_at": "2024-07-12 16:17:30",
@@ -191,90 +243,6 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
-        "name": "Me Dicen Cuba / Rosa la Peligrosa",
-        "url": "https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN"
-      },
-      "artists": [
-        {
-          "name": "Alexander Abreu",
-          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        },
-        {
-          "name": "Havana D\u2019Primera",
-          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
-        }
-      ],
-      "duration_ms": 298374,
-      "name": "Me Dicen Cuba",
-      "url": "https://open.spotify.com/track/2AMQZ5IupHljTDOH44Nx2s"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
-        "name": "Live In The USA",
-        "url": "https://open.spotify.com/album/6MtMZryAJrkwQAavMO3JJi"
-      },
-      "artists": [
-        {
-          "name": "David Calzado y su Charanga Habanera",
-          "url": "https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw"
-        }
-      ],
-      "duration_ms": 476586,
-      "name": "Lola Lola",
-      "url": "https://open.spotify.com/track/6fHZOWvumsFiRgThPknxlj"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
-        "name": "Fiestas de Cuba (Remasterizado)",
-        "url": "https://open.spotify.com/album/520m5W3Yq9dKrNRp3WqU3u"
-      },
-      "artists": [
-        {
-          "name": "Juan Carlos Alfonso y su Dan Den",
-          "url": "https://open.spotify.com/artist/25pI6o2nQxbMc6lLXiIGQM"
-        }
-      ],
-      "duration_ms": 282920,
-      "name": "\u00c1mame con Tu Experiencia - Remasterizado",
-      "url": "https://open.spotify.com/track/0FJQWQiCVmazkqIMNZ6jst"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
-        "name": "Timba Cubana",
-        "url": "https://open.spotify.com/album/34O7HMMLTMmdBcpxnVEaG9"
-      },
-      "artists": [
-        {
-          "name": "Tirso Duarte",
-          "url": "https://open.spotify.com/artist/0QrLYrFFDOhi09EKV8nkdu"
-        }
-      ],
-      "duration_ms": 325026,
-      "name": "Un Mal Sue\u00f1o",
-      "url": "https://open.spotify.com/track/1MH43AiNUdkA5irdCrqgAe"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
-        "name": "Llego... Van Van",
-        "url": "https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW"
-      },
-      "artists": [
-        {
-          "name": "Los Van Van",
-          "url": "https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds"
-        }
-      ],
-      "duration_ms": 288506,
-      "name": "Temba, Tumba, Timba",
-      "url": "https://open.spotify.com/track/621LLhcTYkEbt1fwJuSdWi"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
         "name": "Contra Todos los Pron\u00f3sticos",
         "url": "https://open.spotify.com/album/3YUrTGIGZSC3buLFgW8DKh"
       },
@@ -291,18 +259,18 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+        "name": "Timba Cubana",
+        "url": "https://open.spotify.com/album/34O7HMMLTMmdBcpxnVEaG9"
       },
       "artists": [
         {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+          "name": "Tirso Duarte",
+          "url": "https://open.spotify.com/artist/0QrLYrFFDOhi09EKV8nkdu"
         }
       ],
-      "duration_ms": 284053,
-      "name": "Luna Negra",
-      "url": "https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm"
+      "duration_ms": 325026,
+      "name": "Un Mal Sue\u00f1o",
+      "url": "https://open.spotify.com/track/1MH43AiNUdkA5irdCrqgAe"
     },
     {
       "added_at": "2024-07-12 16:17:30",
@@ -327,6 +295,22 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
+        "name": "Llego... Van Van",
+        "url": "https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW"
+      },
+      "artists": [
+        {
+          "name": "Los Van Van",
+          "url": "https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds"
+        }
+      ],
+      "duration_ms": 288506,
+      "name": "Temba, Tumba, Timba",
+      "url": "https://open.spotify.com/track/621LLhcTYkEbt1fwJuSdWi"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
         "name": "Grandes Exitos Vol. 1",
         "url": "https://open.spotify.com/album/2qIauTRLruweUbBVZrQkF9"
       },
@@ -343,6 +327,22 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "duration_ms": 284053,
+      "name": "Luna Negra",
+      "url": "https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
         "name": "Haciendo Historia (Remasterizado)",
         "url": "https://open.spotify.com/album/37Yk5kqjN3pCFURxP1NQ2W"
       },
@@ -355,22 +355,6 @@
       "duration_ms": 347153,
       "name": "Mi M\u00fasica - Remasterizado",
       "url": "https://open.spotify.com/track/24hmqfTZpZ1xEb21qmOqFL"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3"
-      },
-      "artists": [
-        {
-          "name": "Manolito y Su Trabuco",
-          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
-        }
-      ],
-      "duration_ms": 326720,
-      "name": "La Boda de Bel\u00e9n",
-      "url": "https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1"
     },
     {
       "added_at": "2024-07-12 16:17:30",
@@ -427,6 +411,22 @@
       "duration_ms": 206992,
       "name": "Yo Voy Pa Encima",
       "url": "https://open.spotify.com/track/6CyqA8KDBXprJxkbwBVuIz"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0jydiznOtgqLLEj6ZBJQA3"
+      },
+      "artists": [
+        {
+          "name": "Manolito y Su Trabuco",
+          "url": "https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW"
+        }
+      ],
+      "duration_ms": 326720,
+      "name": "La Boda de Bel\u00e9n",
+      "url": "https://open.spotify.com/track/5M7SeoXBCxjNdP6R7Rb6y1"
     },
     {
       "added_at": "2024-07-12 16:17:30",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
+        "name": "Chapeando",
+        "url": "https://open.spotify.com/album/45niWlDdAcXhbXdxaqRD78"
+      },
+      "artists": [
+        {
+          "name": "Juan Formell y Los Van Van",
+          "url": "https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy"
+        }
+      ],
+      "duration_ms": 368720,
+      "name": "Despu\u00e9s de todo",
+      "url": "https://open.spotify.com/track/4IDiFHGCutb8eNZYEBxHOV"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
         "name": "The Most From Beny More",
         "url": "https://open.spotify.com/album/0HLeuihxljxWozRHDvy0Yy"
       },
@@ -559,6 +575,38 @@
       "duration_ms": 196933,
       "name": "Que Bueno Baila Usted",
       "url": "https://open.spotify.com/track/0O8Gf1dTGNbEaSYSGk1pcS"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
+        "name": "La Aplanadora de Cuba",
+        "url": "https://open.spotify.com/album/4CnjucLyV7ybkjREEAXpvG"
+      },
+      "artists": [
+        {
+          "name": "Elito Rev\u00e9 y su Charang\u00f3n",
+          "url": "https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z"
+        }
+      ],
+      "duration_ms": 303880,
+      "name": "Esa Soy Yo",
+      "url": "https://open.spotify.com/track/0M447oJEDm0pE8QDqbQlfi"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
+        "name": "Me Lo Gan\u00e9",
+        "url": "https://open.spotify.com/album/2jCnW88GKL1Bs5yhklRemb"
+      },
+      "artists": [
+        {
+          "name": "Calle Real",
+          "url": "https://open.spotify.com/artist/2e6cE2efCe83qgcAd8mlWU"
+        }
+      ],
+      "duration_ms": 394653,
+      "name": "Abreme la puerta",
+      "url": "https://open.spotify.com/track/4ZgjTLfyE1APbEH0njzRpo"
     },
     {
       "added_at": "2024-07-12 16:17:30",
@@ -583,70 +631,6 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
-        "name": "La Aplanadora de Cuba",
-        "url": "https://open.spotify.com/album/4CnjucLyV7ybkjREEAXpvG"
-      },
-      "artists": [
-        {
-          "name": "Elito Rev\u00e9 y su Charang\u00f3n",
-          "url": "https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z"
-        }
-      ],
-      "duration_ms": 303880,
-      "name": "Esa Soy Yo",
-      "url": "https://open.spotify.com/track/0M447oJEDm0pE8QDqbQlfi"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
-        "name": "Chapeando",
-        "url": "https://open.spotify.com/album/45niWlDdAcXhbXdxaqRD78"
-      },
-      "artists": [
-        {
-          "name": "Juan Formell y Los Van Van",
-          "url": "https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy"
-        }
-      ],
-      "duration_ms": 368720,
-      "name": "Despu\u00e9s de todo",
-      "url": "https://open.spotify.com/track/4IDiFHGCutb8eNZYEBxHOV"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
-        "name": "Legado",
-        "url": "https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP"
-      },
-      "artists": [
-        {
-          "name": "Formell y los Van Van",
-          "url": "https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4"
-        }
-      ],
-      "duration_ms": 313295,
-      "name": "Al Paso",
-      "url": "https://open.spotify.com/track/665FL9SYPVyf8ZMTvltwam"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
-        "name": "Me Lo Gan\u00e9",
-        "url": "https://open.spotify.com/album/2jCnW88GKL1Bs5yhklRemb"
-      },
-      "artists": [
-        {
-          "name": "Calle Real",
-          "url": "https://open.spotify.com/artist/2e6cE2efCe83qgcAd8mlWU"
-        }
-      ],
-      "duration_ms": 394653,
-      "name": "Abreme la puerta",
-      "url": "https://open.spotify.com/track/4ZgjTLfyE1APbEH0njzRpo"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
         "name": "Bueno",
         "url": "https://open.spotify.com/album/3TdBztL3zrCPNaAHP7WKDg"
       },
@@ -663,18 +647,18 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
-        "name": "Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP"
       },
       "artists": [
         {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+          "name": "Formell y los Van Van",
+          "url": "https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4"
         }
       ],
-      "duration_ms": 176733,
-      "name": "Como Fue",
-      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
+      "duration_ms": 313295,
+      "name": "Al Paso",
+      "url": "https://open.spotify.com/track/665FL9SYPVyf8ZMTvltwam"
     },
     {
       "added_at": "2024-07-12 16:17:30",
@@ -747,6 +731,22 @@
       "duration_ms": 309054,
       "name": "Soy Cubana",
       "url": "https://open.spotify.com/track/7trrKd0NJ6tGeLabz3068F"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
     },
     {
       "added_at": "2024-07-12 16:17:30",

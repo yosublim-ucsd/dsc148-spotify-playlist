@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 29429,
+  "description": "This Is Los Dareyes De La Sierra. Los temas esenciales, todos en una lista.",
+  "num_followers": 29449,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqLnAAAAAAB0EYqSmtcyfH1p+G33q6Sp",
+  "snapshot_id": "ZqQ4gAAAAACxoCQllaycKvxWHHgqZE6r",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 150026,
+      "name": "La Recia",
+      "url": "https://open.spotify.com/track/5PGbQgXt8bgXceoK3yZvYo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DE 8 A 5",
         "url": "https://open.spotify.com/album/5qiRNbxxZW5kUPFA9v0O8c"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 194477,
       "name": "De 8 A 5",
       "url": "https://open.spotify.com/track/19CPH67llc3aSBnTtQNTZE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Banda",
-        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 150026,
-      "name": "La Recia",
-      "url": "https://open.spotify.com/track/5PGbQgXt8bgXceoK3yZvYo"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Banda",
-        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "Adi\u00f3s Mi Amor",
-      "url": "https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "70 Calaveras (En Vivo)",
         "url": "https://open.spotify.com/album/3hp1ptkk30lzRFQwpyjWxe"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 169394,
       "name": "70 Calaveras - En Vivo",
       "url": "https://open.spotify.com/track/0j4NhEUEQiiBtktxF7nEC4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "Adi\u00f3s Mi Amor",
+      "url": "https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Due\u00f1a De Mi Vida",
+        "url": "https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "La Mas Bonita De Todas",
+      "url": "https://open.spotify.com/track/4cFSwcJFUiOQJckhkEvSEn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Con Banda",
         "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 156858,
       "name": "Qu\u00e9 Pena Contigo",
       "url": "https://open.spotify.com/track/5LkX1CktvInZ3kRotKu37f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Due\u00f1a De Mi Vida",
-        "url": "https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "La Mas Bonita De Todas",
-      "url": "https://open.spotify.com/track/4cFSwcJFUiOQJckhkEvSEn"
     },
     {
       "added_at": null,
@@ -983,6 +983,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En La Mira",
+        "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Luz De D\u00eda",
+      "url": "https://open.spotify.com/track/0gv3VPyYaR5lxtpkgJayKD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Carrucha (En Vivo)",
         "url": "https://open.spotify.com/album/2vI8Aflm0jIOqszgQuGaTG"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 201367,
       "name": "La Carrucha (En Vivo)",
       "url": "https://open.spotify.com/track/7n9KJBLvSgJONM6Ow59fU2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En La Mira",
-        "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Luz De D\u00eda",
-      "url": "https://open.spotify.com/track/0gv3VPyYaR5lxtpkgJayKD"
     },
     {
       "added_at": null,

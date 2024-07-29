@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABuHxMX3UWnV3zUsmZxPvW3",
+  "snapshot_id": "AAAAAAAAAADr02J7BiCRCtV0JUvMtZsu",
   "tracks": [
     {
       "added_at": "2024-07-26 04:00:00",
@@ -31,18 +31,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Bruce Springsteen & The E Street Band - The Reunion Tour '99",
-        "url": "https://open.spotify.com/album/4jNMmcMXt3rQsta5LGWI4Q"
+        "name": "Armon\u00eda De Paz Interior: M\u00fasica Para La Meditaci\u00f3n",
+        "url": "https://open.spotify.com/album/2OSAwHiALYqhNlXS5yXW1v"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Las meditaciones",
+          "url": "https://open.spotify.com/artist/7ooD9rOihMGgrUwP1KpExK"
+        },
+        {
+          "name": "La Espiritualidad M\u00fasica Colecci\u00f3n",
+          "url": "https://open.spotify.com/artist/3jb1KiysL9K91T4358vZfi"
+        },
+        {
+          "name": "Monjes Tibetanos",
+          "url": "https://open.spotify.com/artist/4Y5t1XCXXpViFckIHadvW6"
         }
       ],
-      "duration_ms": 223318,
-      "name": "The Ties That Bind - Live at Staples Center, Los Angeles, CA - 10/23/1999",
-      "url": "https://open.spotify.com/track/57SjNJSHWhBAsZkRWEfTDJ"
+      "duration_ms": 362869,
+      "name": "Acordes De Calma En El Espejo De La Mente",
+      "url": "https://open.spotify.com/track/0p68bv1ONm80Kj5d4S8U03"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -67,26 +75,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Armon\u00eda De Paz Interior: M\u00fasica Para La Meditaci\u00f3n",
-        "url": "https://open.spotify.com/album/2OSAwHiALYqhNlXS5yXW1v"
+        "name": "Bruce Springsteen & The E Street Band - The Reunion Tour '99",
+        "url": "https://open.spotify.com/album/4jNMmcMXt3rQsta5LGWI4Q"
       },
       "artists": [
         {
-          "name": "Las meditaciones",
-          "url": "https://open.spotify.com/artist/7ooD9rOihMGgrUwP1KpExK"
-        },
-        {
-          "name": "La Espiritualidad M\u00fasica Colecci\u00f3n",
-          "url": "https://open.spotify.com/artist/3jb1KiysL9K91T4358vZfi"
-        },
-        {
-          "name": "Monjes Tibetanos",
-          "url": "https://open.spotify.com/artist/4Y5t1XCXXpViFckIHadvW6"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 362869,
-      "name": "Acordes De Calma En El Espejo De La Mente",
-      "url": "https://open.spotify.com/track/0p68bv1ONm80Kj5d4S8U03"
+      "duration_ms": 223318,
+      "name": "The Ties That Bind - Live at Staples Center, Los Angeles, CA - 10/23/1999",
+      "url": "https://open.spotify.com/track/57SjNJSHWhBAsZkRWEfTDJ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Hot Rails To Hell (Live)",
-        "url": "https://open.spotify.com/album/0Q4w3H4RI9IBeVQ592IiyE"
-      },
-      "artists": [
-        {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
-        }
-      ],
-      "duration_ms": 300741,
-      "name": "Hot Rails To Hell - Live",
-      "url": "https://open.spotify.com/track/4TbSWPR1D2y0cc01Z6lk2g"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Up In The Sky (Monnow Valley Version)",
         "url": "https://open.spotify.com/album/2wJyPwZTIlZ4Xeespb06IV"
       },
@@ -255,22 +239,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Ana Tijoux (En Vivo en NPR Tiny Desk)",
-        "url": "https://open.spotify.com/album/0Z2LIP15wpNu04owMtvB7F"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 265750,
-      "name": "1977 - En Vivo en NPR Tiny Desk",
-      "url": "https://open.spotify.com/track/43MNu5m1YOwA0y0NRKaHw9"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Like A Stone (Reimagined)",
         "url": "https://open.spotify.com/album/6xCsPSZ3THpZRrYPox5kK2"
       },
@@ -283,6 +251,38 @@
       "duration_ms": 287631,
       "name": "Like A Stone - Reimagined",
       "url": "https://open.spotify.com/track/2EHZpEtgE48ztROdwkPgfQ"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Hot Rails To Hell (Live)",
+        "url": "https://open.spotify.com/album/0Q4w3H4RI9IBeVQ592IiyE"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "duration_ms": 300741,
+      "name": "Hot Rails To Hell - Live",
+      "url": "https://open.spotify.com/track/4TbSWPR1D2y0cc01Z6lk2g"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Ana Tijoux (En Vivo en NPR Tiny Desk)",
+        "url": "https://open.spotify.com/album/0Z2LIP15wpNu04owMtvB7F"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 265750,
+      "name": "1977 - En Vivo en NPR Tiny Desk",
+      "url": "https://open.spotify.com/track/43MNu5m1YOwA0y0NRKaHw9"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Seven Deadly (Deluxe edition)",
+        "url": "https://open.spotify.com/album/2WLc0MRCukxdziKfL702tU"
+      },
+      "artists": [
+        {
+          "name": "UFO",
+          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
+        }
+      ],
+      "duration_ms": 232493,
+      "name": "Other Men's Wives (bonus track)",
+      "url": "https://open.spotify.com/track/0KMJ9zFaGzt61Kc7oYNZDl"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/5zVhUz76UL3A1VXftq6g76"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 210174,
       "name": "Proof",
       "url": "https://open.spotify.com/track/5ASY9hrg61fOhdQ1isNbQm"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Seven Deadly (Deluxe edition)",
-        "url": "https://open.spotify.com/album/2WLc0MRCukxdziKfL702tU"
-      },
-      "artists": [
-        {
-          "name": "UFO",
-          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
-        }
-      ],
-      "duration_ms": 232493,
-      "name": "Other Men's Wives (bonus track)",
-      "url": "https://open.spotify.com/track/0KMJ9zFaGzt61Kc7oYNZDl"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Live From The Garden Amphitheater",
-        "url": "https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 285056,
-      "name": "You're Not Alone - Live",
-      "url": "https://open.spotify.com/track/4r7F2pBLRLV8qdx12kE11J"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Smile (feat. Carolina Liar)",
         "url": "https://open.spotify.com/album/5MwREpSNM3JMxAq8xqe3im"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 192963,
       "name": "Smile (feat. Carolina Liar)",
       "url": "https://open.spotify.com/track/73SGUxXPloaU5CfeKkJf5D"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Live From The Garden Amphitheater",
+        "url": "https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 285056,
+      "name": "You're Not Alone - Live",
+      "url": "https://open.spotify.com/track/4r7F2pBLRLV8qdx12kE11J"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -751,6 +751,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "I Like It (with Nate Smith)",
+        "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 152349,
+      "name": "I Like It (with Nate Smith)",
+      "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Herzblut",
         "url": "https://open.spotify.com/album/1i2onR9f7wxakNqJF3HfBc"
       },
@@ -807,26 +827,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Fortnight (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5IYMYmX28qpI6OEnQhdazX"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 228965,
-      "name": "Fortnight (feat. Post Malone) - Acoustic Version",
-      "url": "https://open.spotify.com/track/2BUTSRKPGRsyc9FnsC5Udd"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Fading Like A Rose - EP",
         "url": "https://open.spotify.com/album/4cZWw7DhPFapr3GcoTCxVi"
       },
@@ -843,22 +843,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "I Like It (with Nate Smith)",
-        "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
+        "name": "Fortnight (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5IYMYmX28qpI6OEnQhdazX"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 152349,
-      "name": "I Like It (with Nate Smith)",
-      "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
+      "duration_ms": 228965,
+      "name": "Fortnight (feat. Post Malone) - Acoustic Version",
+      "url": "https://open.spotify.com/track/2BUTSRKPGRsyc9FnsC5Udd"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Pretty Good To Feel Something",
+        "url": "https://open.spotify.com/album/1cPLGYaAsxln3s6UgpboQw"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 186679,
+      "name": "Pretty Good To Feel Something",
+      "url": "https://open.spotify.com/track/4JNMzNr6ukpwa6ALIMnkje"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Life Is Easy (10th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/0UGlEbULaeFF4KtAxRMMcb"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 213553,
       "name": "I Wish We Were Leaving - Radio Edit",
       "url": "https://open.spotify.com/track/6cv2Dw9plGC3NU2If9OjEJ"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Pretty Good To Feel Something",
-        "url": "https://open.spotify.com/album/1cPLGYaAsxln3s6UgpboQw"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 186679,
-      "name": "Pretty Good To Feel Something",
-      "url": "https://open.spotify.com/track/4JNMzNr6ukpwa6ALIMnkje"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Live At Rockpalast 1979 (Live, Hamburg, 1979)",
+        "url": "https://open.spotify.com/album/0t3ufEdHY8K6RRIYSLHCsc"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Keep Pushin' - Live, Hamburg, 1979",
+      "url": "https://open.spotify.com/track/0hOy1QMijkTp6lYEEAwfg2"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "I Have Notes",
         "url": "https://open.spotify.com/album/4l89gOBML1oUH3Yow6GEUY"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 160986,
       "name": "Couldn't Love You More",
       "url": "https://open.spotify.com/track/76Xe5O7neH9OCBYvqeEZsJ"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Live At Rockpalast 1979 (Live, Hamburg, 1979)",
-        "url": "https://open.spotify.com/album/0t3ufEdHY8K6RRIYSLHCsc"
-      },
-      "artists": [
-        {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Keep Pushin' - Live, Hamburg, 1979",
-      "url": "https://open.spotify.com/track/0hOy1QMijkTp6lYEEAwfg2"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

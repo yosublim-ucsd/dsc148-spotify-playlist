@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 10007,
+  "num_followers": 10023,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqLnAAAAAAArNfbyUvYsTZMzA5LwRhRW",
+  "snapshot_id": "ZqQ4gAAAAACg6sSV4VMBOJAIc/pxAhY8",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/4wJuzLINYvguF70TkdSbYB"
+        "name": "More Than Enough",
+        "url": "https://open.spotify.com/album/4IEP8CaltYTr7RaqPQzf0R"
       },
       "artists": [
-        {
-          "name": "Chioma Jesus",
-          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
-        },
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 206808,
-      "name": "Do Something",
-      "url": "https://open.spotify.com/track/7hMCer4q0483Uxdb7EcvG2"
+      "duration_ms": 209916,
+      "name": "More Than Enough",
+      "url": "https://open.spotify.com/track/4D6hK7dGrFR2PChNfOZY2Y"
     },
     {
       "added_at": null,
@@ -643,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Than Enough",
-        "url": "https://open.spotify.com/album/4IEP8CaltYTr7RaqPQzf0R"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 209916,
-      "name": "More Than Enough",
-      "url": "https://open.spotify.com/track/4D6hK7dGrFR2PChNfOZY2Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jesus",
         "url": "https://open.spotify.com/album/473sA5uXcDEmZaiyehhnOR"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 375563,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/4oaP5L5MMPyIjRKA7hr0ya"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/4wJuzLINYvguF70TkdSbYB"
+      },
+      "artists": [
+        {
+          "name": "Chioma Jesus",
+          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 206808,
+      "name": "Do Something",
+      "url": "https://open.spotify.com/track/7hMCer4q0483Uxdb7EcvG2"
     },
     {
       "added_at": null,
@@ -735,6 +735,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eze (feat. Preye Odede)",
+        "url": "https://open.spotify.com/album/3PH6kZDIT5gJYMGNWzqqq2"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Preye Odede",
+          "url": "https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK"
+        },
+        {
+          "name": "Reba",
+          "url": "https://open.spotify.com/artist/0I2iJ4qXhWez7QzSRd2UX6"
+        }
+      ],
+      "duration_ms": 356063,
+      "name": "Eze (feat. Preye Odede)",
+      "url": "https://open.spotify.com/track/2Y2mu2RkaSmGKymRSA35od"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 251586,
+      "name": "Imela",
+      "url": "https://open.spotify.com/track/2CtReCMMQ7C7FiN1hbFWQ3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beyond me (Live at Yalic, Abuja)",
         "url": "https://open.spotify.com/album/6MCsoe8mI0KatCIXP4GcL9"
       },
@@ -759,46 +799,6 @@
       "duration_ms": 598230,
       "name": "Beyond me - Live at Yalic, Abuja",
       "url": "https://open.spotify.com/track/14ZcU8XXyH3tyzG5IKATnG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Elevated",
-        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 251586,
-      "name": "Imela",
-      "url": "https://open.spotify.com/track/2CtReCMMQ7C7FiN1hbFWQ3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eze (feat. Preye Odede)",
-        "url": "https://open.spotify.com/album/3PH6kZDIT5gJYMGNWzqqq2"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "Preye Odede",
-          "url": "https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK"
-        },
-        {
-          "name": "Reba",
-          "url": "https://open.spotify.com/artist/0I2iJ4qXhWez7QzSRd2UX6"
-        }
-      ],
-      "duration_ms": 356063,
-      "name": "Eze (feat. Preye Odede)",
-      "url": "https://open.spotify.com/track/2Y2mu2RkaSmGKymRSA35od"
     },
     {
       "added_at": null,

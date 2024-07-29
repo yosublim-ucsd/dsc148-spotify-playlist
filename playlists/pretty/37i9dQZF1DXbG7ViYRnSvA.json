@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 19329,
+  "num_followers": 19350,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Late Registration",
-        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/2DHNCWZYmVr1Lv08q5b0kB"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Bad 25th Anniversary",
         "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 305280,
       "name": "UMI Says",
       "url": "https://open.spotify.com/track/5Ru9OjtEw5htfnVKpYsIcv"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/2DHNCWZYmVr1Lv08q5b0kB"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -283,30 +283,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Late Registration",
-        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Really Doe",
-          "url": "https://open.spotify.com/artist/69m0yjx8ruKebsRvbNuEDz"
-        }
-      ],
-      "duration_ms": 448000,
-      "name": "We Major",
-      "url": "https://open.spotify.com/track/46fk9wjYcPm0sgym2b7EEE"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
@@ -339,6 +315,30 @@
       "duration_ms": 174253,
       "name": "The Waters (feat. BJ the Chicago Kid)",
       "url": "https://open.spotify.com/track/23T4gelZgImtFxbHjXnYbm"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Really Doe",
+          "url": "https://open.spotify.com/artist/69m0yjx8ruKebsRvbNuEDz"
+        }
+      ],
+      "duration_ms": 448000,
+      "name": "We Major",
+      "url": "https://open.spotify.com/track/46fk9wjYcPm0sgym2b7EEE"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "NINA REVISITED: A Tribute to Nina Simone",
+        "url": "https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL"
+      },
+      "artists": [
+        {
+          "name": "Alice Smith",
+          "url": "https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw"
+        }
+      ],
+      "duration_ms": 399533,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 324440,
       "name": "Never Let Me Down",
       "url": "https://open.spotify.com/track/34j4OxJxKznBs88cjSL2j9"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "NINA REVISITED: A Tribute to Nina Simone",
-        "url": "https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL"
-      },
-      "artists": [
-        {
-          "name": "Alice Smith",
-          "url": "https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw"
-        }
-      ],
-      "duration_ms": 399533,
-      "name": "I Put A Spell On You",
-      "url": "https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Catching Dreams",
+        "url": "https://open.spotify.com/album/6k2MHYTdkGM5Mgmo0dwDtu"
+      },
+      "artists": [
+        {
+          "name": "J. Ivy",
+          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
+        }
+      ],
+      "duration_ms": 48038,
+      "name": "Your Time",
+      "url": "https://open.spotify.com/track/0FhQccfJxOwixsoqiJo2oz"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Jassbusters",
         "url": "https://open.spotify.com/album/5J3hSygoerXrNBpEFWcGIJ"
       },
@@ -879,34 +895,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "ALL NIGHT (Goodlife)",
-        "url": "https://open.spotify.com/album/6RA2KhowTm52zctoAWF90v"
+        "name": "Middle America",
+        "url": "https://open.spotify.com/album/2OtKj14wexL3GezWDdbro6"
       },
       "artists": [
         {
-          "name": "Apryl Sashay",
-          "url": "https://open.spotify.com/artist/4oqYiNYjquQyQbYShsS3lf"
+          "name": "Project Mayhem",
+          "url": "https://open.spotify.com/artist/10ZHewiVCPZxwb4bewgKPl"
         }
       ],
-      "duration_ms": 215003,
-      "name": "ALL NIGHT (Goodlife)",
-      "url": "https://open.spotify.com/track/5ZXrVNnQoKEMLcZ1s6Davv"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Catching Dreams",
-        "url": "https://open.spotify.com/album/6k2MHYTdkGM5Mgmo0dwDtu"
-      },
-      "artists": [
-        {
-          "name": "J. Ivy",
-          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
-        }
-      ],
-      "duration_ms": 48038,
-      "name": "Your Time",
-      "url": "https://open.spotify.com/track/0FhQccfJxOwixsoqiJo2oz"
+      "duration_ms": 230948,
+      "name": "No Room in the Limo",
+      "url": "https://open.spotify.com/track/4WbK3e9uLSFXuZSUzzsDMn"
     }
   ],
   "unique_name": "Coodie & Chike's Taste",

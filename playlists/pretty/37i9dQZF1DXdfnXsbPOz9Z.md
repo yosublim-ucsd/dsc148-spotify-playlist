@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfnXsbPOz9Z.md) - [plain]
 
 > Les tubes pop pour toute la famille
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,871 likes - 87 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,874 likes - 87 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfnXsbPOz9Z.md) - [plain]
 | 9 | [Say So](https://open.spotify.com/track/3g3hE3WICIm03TSO4AUxfZ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Say So](https://open.spotify.com/album/2SMukJD6ePiMxdKTe6ZoPf) | 3:07 |
 | 10 | [Maman me dit](https://open.spotify.com/track/645vPlxFnlvQXxdhV9rM9c) | [Angelina](https://open.spotify.com/artist/4pMyhvzk5HkImq6MUTRRk8) | [Maman me dit](https://open.spotify.com/album/1kGhZi4BxwkwwXuVQ7Xwj7) | 2:47 |
 | 11 | [Dynamite](https://open.spotify.com/track/4saklk6nie3yiGePpBwUoc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:19 |
-| 12 | [Miraculous \- Générique de la série TV](https://open.spotify.com/track/08aC14ZGZUQ5pGkN8SzL3d) | [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg) | [Lou \(Edition deluxe\)](https://open.spotify.com/album/6iQwxvZGLZd9SoKkZfDo0C) | 2:39 |
+| 12 | [Miraculous \- Générique de la série TV](https://open.spotify.com/track/08aC14ZGZUQ5pGkN8SzL3d) | [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg), [Lenni Kim](https://open.spotify.com/artist/1PVmM2c79UdIymMzxYlywJ) | [Lou \(Edition deluxe\)](https://open.spotify.com/album/6iQwxvZGLZd9SoKkZfDo0C) | 2:39 |
 | 13 | [Don't Start Now](https://open.spotify.com/track/02CNxEPvl0KhM3a0DL6MS5) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Don't Start Now](https://open.spotify.com/album/54UHaOt4fxjAcL086ztENq) | 3:04 |
 | 14 | [Get The Party Started \- Redo Version](https://open.spotify.com/track/4Y1v0ZSq45Zm809vprlf0Y) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Get The Party Started \(Redo Version\)](https://open.spotify.com/album/6ksutNhLP2MGbN9qRztOoL) | 3:13 |
 | 15 | [Cosmic groove \- Version française](https://open.spotify.com/track/6TTvAU6cE2FcCZwiKqKWBS) | [SamSam](https://open.spotify.com/artist/2ete2rPrIXjihL1NIzkq42) | [Cosmic groove \(Version française\)](https://open.spotify.com/album/58gJZBQpUnbA82Zw5UFS7j) | 3:19 |

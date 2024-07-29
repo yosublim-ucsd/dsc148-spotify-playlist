@@ -2270,7 +2270,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 284460,
       "name": "Eros",
       "url": "https://open.spotify.com/track/3HJr6Bql5OLIqMfg2qm990"
@@ -9566,6 +9566,24 @@
       "duration_ms": 445161,
       "name": "Would You Believe - Sebra Cruz Remix",
       "url": "https://open.spotify.com/track/2GDv0JkU43qIil7S6J26bH"
+    },
+    {
+      "album": {
+        "name": "Wrong",
+        "url": "https://open.spotify.com/album/3y8UGdJcrVulYXU1b8q6Ud"
+      },
+      "artists": [
+        {
+          "name": "Under Above",
+          "url": "https://open.spotify.com/artist/4k83yzQaZNeCZujEf03U8i"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158095,
+      "name": "Wrong",
+      "url": "https://open.spotify.com/track/3VNzvfqYAMHiSktx33Zqgj"
     },
     {
       "album": {

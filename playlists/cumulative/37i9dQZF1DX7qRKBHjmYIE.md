@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con stivijoes.
 
-775 songs - 1 day 17 hr 50 min
+776 songs - 1 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [Ganadora](https://open.spotify.com/track/3neJo4FkVszaL4EEt18uKR) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANNA Vol1\. LOS AMANTES](https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv) | 4:56 | 2023-11-17 | 2024-04-13 |
 | [Ganas de Dejarte](https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Ganas de Dejarte](https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za) | 2:19 | 2023-08-25 | 2023-09-30 |
 | [Garden \- SIDE A](https://open.spotify.com/track/4pGnWlr2Lk5MDPI6zgG972) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [Miracle](https://open.spotify.com/album/11mzVM4ZtpOUxescgnFUsN) | 1:12 | 2023-10-13 | 2024-01-13 |
-| [Gaucho](https://open.spotify.com/track/2QNQ8XWpFjuTrHBLn7gEpj) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Gaucho](https://open.spotify.com/album/6AitlMXq7JCzB28hJPhPgx) | 3:51 | 2024-04-26 |  |
+| [Gaucho](https://open.spotify.com/track/2QNQ8XWpFjuTrHBLn7gEpj) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Gaucho](https://open.spotify.com/album/6AitlMXq7JCzB28hJPhPgx) | 3:51 | 2024-04-26 | 2024-07-29 |
 | [Get Sun \(feat\. Arthur Verocai\) \- Pocket Size Radio Edit](https://open.spotify.com/track/0xXis9GsPdbB1aBwlFRfV9) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Get Sun \(feat\. Arthur Verocai\)](https://open.spotify.com/album/4voG9BTFD0GrLyKpEKdBSX) | 4:40 | 2021-12-02 | 2022-01-25 |
 | [Girlfriend](https://open.spotify.com/track/0wJIFdZTLwl4ZQ6RNLOxQN) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [El Southside](https://open.spotify.com/album/4BWOwtbi9onWBifHQj4zi9) | 3:18 | 2022-01-24 | 2022-01-29 |
 | [GITANA](https://open.spotify.com/track/2CNfYe3Kzyw2IDGTIssbXb) | [ENEZ 4R](https://open.spotify.com/artist/3OHwlQfXYEFe5ynRosykmE), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [GITANA](https://open.spotify.com/album/1UTkauY9kjvbCZYWGe6NI6) | 2:53 | 2023-12-08 | 2024-04-13 |
@@ -727,6 +727,7 @@
 | [Un Día](https://open.spotify.com/track/2g2VPxPZTKVr7Vzbi9KSF9) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Un Día](https://open.spotify.com/album/0PW9vbpQvymPkiXvz8RycK) | 2:44 | 2023-03-08 | 2023-05-13 |
 | [Un Llavero](https://open.spotify.com/track/3DrXPknIBDtEdPchAuRYD5) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Un Llavero](https://open.spotify.com/album/3ZrNXXbBefilXHWqhlO0I0) | 3:10 | 2024-03-01 | 2024-05-26 |
 | [Un Momento](https://open.spotify.com/track/5xtBpogt0Id3kcnj7fP1nK) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 3:09 | 2022-10-24 | 2023-02-17 |
+| [UN PORRITO](https://open.spotify.com/track/0QPFRCUxYOD1yGc8iiZZ04) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [UN PORRITO](https://open.spotify.com/album/0F48DCxxSzfNeAYnCeEw1v) | 3:24 | 2024-07-26 |  |
 | [Una Vida](https://open.spotify.com/track/1Q4kVMA8OnbVVuq0kQMYRv) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Una Vida](https://open.spotify.com/album/3adxFEMsq25Adf8bHWX4rL) | 4:04 | 2024-01-05 | 2024-05-21 |
 | [Unbothered](https://open.spotify.com/track/3pBG8fHFEUp3edhWfkIoCW) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Unbothered](https://open.spotify.com/album/2KV3y0IfAswzlbd2iJIgwU) | 2:04 | 2023-02-17 | 2023-03-09 |
 | [Uno Dos](https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [Jaden Smith](https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4) | [¿Téo?](https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g) | 2:50 | 2022-02-09 | 2023-02-17 |

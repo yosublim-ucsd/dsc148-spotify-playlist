@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
-  "num_followers": 30783,
+  "num_followers": 30780,
   "original_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Third Eye",
+        "url": "https://open.spotify.com/album/4ANwiBBR2ZV7UI5jolOBzz"
+      },
+      "artists": [
+        {
+          "name": "cherryfilter",
+          "url": "https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "flying duck",
+      "url": "https://open.spotify.com/track/00ddDV60MFTJkWSGC7IGIv"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "Neo Classicism",
         "url": "https://open.spotify.com/album/2O7fmlpysRtW6rjIqSJsul"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 246613,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/3dt4wfq1JLr4OuDFF832C2"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "Third Eye",
-        "url": "https://open.spotify.com/album/4ANwiBBR2ZV7UI5jolOBzz"
-      },
-      "artists": [
-        {
-          "name": "cherryfilter",
-          "url": "https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "flying duck",
-      "url": "https://open.spotify.com/track/00ddDV60MFTJkWSGC7IGIv"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb"
-      },
-      "artists": [
-        {
-          "name": "VIBE",
-          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
-        }
-      ],
-      "duration_ms": 251194,
-      "name": "Love Me Once Again",
-      "url": "https://open.spotify.com/track/2FelrlNp4TK95V7jb1OJ2r"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Lovers in Paris (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0e2VSNZvj1vIOmthsh7Qii"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 216373,
       "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
       "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb"
+      },
+      "artists": [
+        {
+          "name": "VIBE",
+          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
+        }
+      ],
+      "duration_ms": 251194,
+      "name": "Love Me Once Again",
+      "url": "https://open.spotify.com/track/2FelrlNp4TK95V7jb1OJ2r"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "All You Need Is Love",
-        "url": "https://open.spotify.com/album/4c8k1xAs85AWq6npv9NYZj"
-      },
-      "artists": [
-        {
-          "name": "JAURIM",
-          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
-        }
-      ],
-      "duration_ms": 182693,
-      "name": "17171771",
-      "url": "https://open.spotify.com/track/4iNwoAcnUc4qgjOs5cfN5Z"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "sweetbox The Best",
         "url": "https://open.spotify.com/album/7w2Xfa9r5FkS4u7l9T7TqM"
       },
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Reason 4 breathing?",
-        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+        "name": "All You Need Is Love",
+        "url": "https://open.spotify.com/album/4c8k1xAs85AWq6npv9NYZj"
       },
       "artists": [
         {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+          "name": "JAURIM",
+          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
         }
       ],
-      "duration_ms": 247040,
-      "name": "FOR YOU",
-      "url": "https://open.spotify.com/track/2Fth4BfZxpGht783UTYiiA"
+      "duration_ms": 182693,
+      "name": "17171771",
+      "url": "https://open.spotify.com/track/4iNwoAcnUc4qgjOs5cfN5Z"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1087,6 +1071,22 @@
       "duration_ms": 263533,
       "name": "Nothing Better",
       "url": "https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Reason 4 breathing?",
+        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 247040,
+      "name": "FOR YOU",
+      "url": "https://open.spotify.com/track/2Fth4BfZxpGht783UTYiiA"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Soul Free",
+        "url": "https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC"
+      },
+      "artists": [
+        {
+          "name": "BROWN EYED SOUL",
+          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
+        }
+      ],
+      "duration_ms": 272386,
+      "name": "\uc815\ub9d0 \uc0ac\ub791\ud588\uc744\uae4c",
+      "url": "https://open.spotify.com/track/0xuXybbYxNqKKD4NMr63g4"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "izi 1\uc9d1",
         "url": "https://open.spotify.com/album/1KTUBQHfKhX9F2X01sqEO8"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 228780,
       "name": "What if",
       "url": "https://open.spotify.com/track/0yqTCKcLaJfeVEUavlnYK3"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "Soul Free",
-        "url": "https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC"
-      },
-      "artists": [
-        {
-          "name": "BROWN EYED SOUL",
-          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
-        }
-      ],
-      "duration_ms": 272386,
-      "name": "\uc815\ub9d0 \uc0ac\ub791\ud588\uc744\uae4c",
-      "url": "https://open.spotify.com/track/0xuXybbYxNqKKD4NMr63g4"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Choose My Life-U - The 5th Album",
-        "url": "https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd"
-      },
-      "artists": [
-        {
-          "name": "S.E.S.",
-          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
-        }
-      ],
-      "duration_ms": 213533,
-      "name": "\ub2ec\ub9ac\uae30",
-      "url": "https://open.spotify.com/track/6PxV0qSZZ4Wv4mtv4UcKWo"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "NEW SENSATION",
         "url": "https://open.spotify.com/album/42TDA9jm3vXiUbc2FIWrVD"
       },
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Choose My Life-U - The 5th Album",
+        "url": "https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd"
+      },
+      "artists": [
+        {
+          "name": "S.E.S.",
+          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
+        }
+      ],
+      "duration_ms": 213533,
+      "name": "\ub2ec\ub9ac\uae30",
+      "url": "https://open.spotify.com/track/6PxV0qSZZ4Wv4mtv4UcKWo"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "2nd",
         "url": "https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW"
       },
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Glass Mask",
-        "url": "https://open.spotify.com/album/7klNdBJ1KRmBQtdZyhzM51"
-      },
-      "artists": [
-        {
-          "name": "Kim Yuna",
-          "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
-        }
-      ],
-      "duration_ms": 253653,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/6Dpb6KTOb3iEm89DAHwLGk"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "2008 Concert, Monologue",
         "url": "https://open.spotify.com/album/1EVIqhHPkzsIkka00kZSNu"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 366628,
       "name": "My Tipsy Confession",
       "url": "https://open.spotify.com/track/62ElSn0docGvjnA7k30swo"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Glass Mask",
+        "url": "https://open.spotify.com/album/7klNdBJ1KRmBQtdZyhzM51"
+      },
+      "artists": [
+        {
+          "name": "Kim Yuna",
+          "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
+        }
+      ],
+      "duration_ms": 253653,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/6Dpb6KTOb3iEm89DAHwLGk"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Love Is Time Sixth Sense",
+        "url": "https://open.spotify.com/album/6VjZu0I92vdfh4dGEP9qCQ"
+      },
+      "artists": [
+        {
+          "name": "M.C the Max",
+          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
+        }
+      ],
+      "duration_ms": 302942,
+      "name": "\uadf8\ub300\ub294 \ub208\ubb3c\uacb9\ub2e4",
+      "url": "https://open.spotify.com/track/18yfSV6Jhh9lhAPzZoIkfq"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "For Everlasting",
         "url": "https://open.spotify.com/album/5Yzg3Kgg5ySxv76oGdw1CW"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 216320,
       "name": "gazing blankly",
       "url": "https://open.spotify.com/track/5t2qlg7EG7qmckTk6usRee"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "Love Is Time Sixth Sense",
-        "url": "https://open.spotify.com/album/6VjZu0I92vdfh4dGEP9qCQ"
-      },
-      "artists": [
-        {
-          "name": "M.C the Max",
-          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
-        }
-      ],
-      "duration_ms": 302942,
-      "name": "\uadf8\ub300\ub294 \ub208\ubb3c\uacb9\ub2e4",
-      "url": "https://open.spotify.com/track/18yfSV6Jhh9lhAPzZoIkfq"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "The Rusted Love",
+        "url": "https://open.spotify.com/album/40qmiVHSRqP78RbDJ8Y8n4"
+      },
+      "artists": [
+        {
+          "name": "M.C the Max",
+          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
+        }
+      ],
+      "duration_ms": 358226,
+      "name": "\uc0ac\ub791\uc740 \uc544\ud504\ub824\uace0 \ud558\ub294 \uac70\uc8e0",
+      "url": "https://open.spotify.com/track/12cLqyHjFWZg1As1pP7C1w"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "\uc870\uc601\uc218 All Star 2.5",
         "url": "https://open.spotify.com/album/4NOKqwYDL5ND9X54eHHyyW"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 216466,
       "name": "\uadf8\ub9ac\uace0 \uadf8\ud6c4",
       "url": "https://open.spotify.com/track/7lKxiceicZ2E5CWERRfjce"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "The Rusted Love",
-        "url": "https://open.spotify.com/album/40qmiVHSRqP78RbDJ8Y8n4"
-      },
-      "artists": [
-        {
-          "name": "M.C the Max",
-          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
-        }
-      ],
-      "duration_ms": 358226,
-      "name": "\uc0ac\ub791\uc740 \uc544\ud504\ub824\uace0 \ud558\ub294 \uac70\uc8e0",
-      "url": "https://open.spotify.com/track/12cLqyHjFWZg1As1pP7C1w"
     }
   ],
   "unique_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",

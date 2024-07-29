@@ -1,6 +1,6 @@
 {
   "description": "The greatest indie love songs of all time. ",
-  "num_followers": 662594,
+  "num_followers": 662844,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
@@ -1177,22 +1177,6 @@
       "url": "https://open.spotify.com/track/1auUyL63z3sWnBhooTnz31"
     },
     {
-      "added_at": "2024-01-30 13:10:16",
-      "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/6PvL70jTGrQAekjocgG620"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 305966,
-      "name": "Lifetime",
-      "url": "https://open.spotify.com/track/0jVRZSyLXC48J2G66b12Ms"
-    },
-    {
       "added_at": "2024-01-19 14:43:19",
       "album": {
         "name": "Lovesick",
@@ -1207,6 +1191,22 @@
       "duration_ms": 133266,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/4DambPeZPE1blOKXUgAPkc"
+    },
+    {
+      "added_at": "2024-01-30 13:10:16",
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/6PvL70jTGrQAekjocgG620"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 305966,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/0jVRZSyLXC48J2G66b12Ms"
     },
     {
       "added_at": "2024-01-19 14:43:19",

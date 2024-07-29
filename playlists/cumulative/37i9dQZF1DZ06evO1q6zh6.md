@@ -2,7 +2,7 @@
 
 ### [This Is Judas Priest](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1q6zh6)
 
-> This Is Judas Priest\. Los temas esenciales, todos en una lista.
+> This is Judas Priest\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 87 songs - 6 hr 21 min
 

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belgium.
 
-647 songs - 1 day 8 hr 53 min
+649 songs - 1 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [Don't copy my flow](https://open.spotify.com/track/7CIp0EHN5hIaxF3Rm8JGeW) | [MysticMuse](https://open.spotify.com/artist/5Cj86vEA4D3pu0ImdbG7Va) | [Don't copy my flow](https://open.spotify.com/album/0qmxgZGvmj7JU9J6KgIBmz) | 1:19 | 2024-05-17 | 2024-05-22 |
 | [Don't You Cry](https://open.spotify.com/track/0sEkSDwCxjik95zgWLuzd5) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov) | [Don't You Cry](https://open.spotify.com/album/4XLsipcekzeOaHuMZyuBRg) | 4:06 | 2024-04-23 | 2024-05-02 |
 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 | 2024-05-08 | 2024-05-29 |
-| [Dougie](https://open.spotify.com/track/2dh4i6rwmQ5qsoRafiylo6) | [K2S](https://open.spotify.com/artist/5a9tCrOZBHyFC1LhydD704) | [Dougie](https://open.spotify.com/album/0WdAEGM93b6WNp9rVSNeih) | 2:21 | 2024-07-02 |  |
+| [Dougie](https://open.spotify.com/track/2dh4i6rwmQ5qsoRafiylo6) | [K2S](https://open.spotify.com/artist/5a9tCrOZBHyFC1LhydD704) | [Dougie](https://open.spotify.com/album/0WdAEGM93b6WNp9rVSNeih) | 2:21 | 2024-07-02 | 2024-07-29 |
+| [Dougie](https://open.spotify.com/track/3u4YjYq448qqRkUfJsbrnM) | [K2S](https://open.spotify.com/artist/5a9tCrOZBHyFC1LhydD704) | [Dougie](https://open.spotify.com/album/2YqIzG6eIupPAFhUtrpp1R) | 2:21 | 2024-07-28 |  |
 | [Dubidubidu \(Chipi Chipi Chapa Chapa\)](https://open.spotify.com/track/7DXDIcjpwkRvO645vuLwbZ) | [Christell](https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V) | [Christell](https://open.spotify.com/album/3akGM9qVRzmn3WIDKc2xiz) | 3:46 | 2024-01-29 | 2024-02-24 |
 | [Duimpje Omhoog](https://open.spotify.com/track/4AGG98m7CTokp6pCyBPPFn) | [Luan Bellinga](https://open.spotify.com/artist/0l9QR9crgovNqP3wU3QtUP) | [Duimpje Omhoog](https://open.spotify.com/album/6N1m60aUUKZnMZk5hv5Zvk) | 2:36 | 2024-04-08 | 2024-04-17 |
 | [Débrouillard](https://open.spotify.com/track/1N9LAjEJwmkVY49t6txwEQ) | [MRG](https://open.spotify.com/artist/7hOYY9vtO0OUXxKIVe9VvH) | [Débrouillard](https://open.spotify.com/album/32l5OzC3V0gDyLoR4huRfj) | 2:54 | 2024-04-16 | 2024-05-01 |
@@ -431,6 +432,7 @@
 | [Oya Lélé \- uit Liefde Voor Muziek](https://open.spotify.com/track/2z7wiLusgnSDKLgGEdyCo3) | [Laura Tesoro](https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2) | [That's Not How Dreams Are Made \- uit Liefde Voor Muziek](https://open.spotify.com/album/3eae1X148L8JtXMS4l0Hh1) | 2:54 | 2024-05-01 | 2024-05-03 |
 | [Oya Lélé \- uit Liefde Voor Muziek](https://open.spotify.com/track/4PycBRIwfVhh9c7NPatrX5) | [Laura Tesoro](https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2) | [Oya Lélé \- uit Liefde Voor Muziek](https://open.spotify.com/album/5cgkj4OLPZOhfyapRg9SJc) | 2:54 | 2024-04-23 | 2024-05-02 |
 | [Panama](https://open.spotify.com/track/2HimJmsy7QZOauXXvlCd2m) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Day One](https://open.spotify.com/album/3nbNEZbsGU2DuuXHnscx0L) | 3:45 | 2024-01-29 | 2024-02-07 |
+| [Papi](https://open.spotify.com/track/5nsGwIGBNcwYVAPNdZCYQV) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Alina Pozi](https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY) | [Papi](https://open.spotify.com/album/0MJZ4UzanaEtPdYBTeuA20) | 2:18 | 2024-07-28 |  |
 | [Parler tout bas](https://open.spotify.com/track/4ZBslg1i1eHVOMhZZoX5fx) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps](https://open.spotify.com/album/2bha7Ff2j1zCBmECAXaxfu) | 3:21 | 2024-05-26 | 2024-06-10 |
 | [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 | 2024-01-29 | 2024-02-25 |
 | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 | 2024-03-19 | 2024-04-24 |
@@ -598,7 +600,7 @@
 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2024-02-05 | 2024-03-16 |
 | [UP!](https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [UP!](https://open.spotify.com/album/2WoIZTbS7s8uNtRf9G6QOP) | 2:16 | 2024-03-31 | 2024-04-03 |
 | [Us Vs\. Them](https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Us Vs\. Them](https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp) | 3:04 | 2024-04-26 | 2024-04-28 |
-| [Vanillée](https://open.spotify.com/track/2OrVl8djetZs39Mr3Ujkaf) | [Houari](https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est de la Cali](https://open.spotify.com/album/4hcyzMtlhQdTxpxXqDL8jI) | 2:47 | 2024-07-24 |  |
+| [Vanillée](https://open.spotify.com/track/2OrVl8djetZs39Mr3Ujkaf) | [Houari](https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est de la Cali](https://open.spotify.com/album/4hcyzMtlhQdTxpxXqDL8jI) | 2:47 | 2024-07-24 | 2024-07-29 |
 | [Vannacht Slaap Jij Bij Mij](https://open.spotify.com/track/7gv9Ky47iGM6LRp5aO5tkt) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs) | [Vannacht Slaap Jij Bij Mij](https://open.spotify.com/album/72aiMSxFyKAiY4mrolRPgj) | 2:28 | 2024-07-16 | 2024-07-24 |
 | [Vent](https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds) | [NOIT](https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC) | [Vent](https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU) | 2:56 | 2024-04-09 | 2024-05-14 |
 | [Verdwijnen Is Slechts Een Idee](https://open.spotify.com/track/1xlUh4gUQoif6w5ScQFjSk) | [Jokke](https://open.spotify.com/artist/4ummdBaZOvtjtGQHLLa7se) | [Verdwijnen Is Slechts Een Idee](https://open.spotify.com/album/5BQ0hMPb3gSHT2ZJbEV3Nh) | 2:37 | 2024-02-06 | 2024-02-09 |

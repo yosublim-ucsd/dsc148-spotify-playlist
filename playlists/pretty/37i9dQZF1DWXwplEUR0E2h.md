@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwplEUR0E2h.md) - [plain]
 
 > ¡Los mejores sonidos urbanos desde la tierra del ritmo! En portada: Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,153 likes - 61 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,177 likes - 61 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwplEUR0E2h.md) - [plain]
 | 9 | [Me Provoca](https://open.spotify.com/track/75qURa6pmAERaWCZ0j0vbK) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC), [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E) | [Me Provoca](https://open.spotify.com/album/4NW8t60WjAqNmW7nZATNVz) | 2:50 |
 | 10 | [Mirame](https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mirame](https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz) | 2:37 |
 | 11 | [VALERIA \(feat\. Gordo\)](https://open.spotify.com/track/09igpKXUHJFwwJqqTuCvva) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 2:34 |
-| 12 | [Chicokis](https://open.spotify.com/track/0B4pPvg3BkxwfqleM2ZSWM) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Chicokis](https://open.spotify.com/album/7nwpYVW58MD6SmbW8beX7s) | 3:05 |
+| 12 | [CHICOKIS](https://open.spotify.com/track/0B4pPvg3BkxwfqleM2ZSWM) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [CHICOKIS](https://open.spotify.com/album/7nwpYVW58MD6SmbW8beX7s) | 3:05 |
 | 13 | [MIONCA](https://open.spotify.com/track/3UxRvZWhEfSJmNDsbEjKOY) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [MIONCA](https://open.spotify.com/album/3jjWzpGtGBUoMEDduwVvrB) | 3:06 |
 | 14 | [YA NO VOLVERÁS](https://open.spotify.com/track/57B9XH31E2UYEnQ5mppQdz) | [Cris Valencia](https://open.spotify.com/artist/7xP0fQcNHEMD9yL5j4ERz1), [El High](https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp) | [YA NO VOLVERÁS](https://open.spotify.com/album/0zDyw2Xv0AH3lx47RwjvdP) | 2:40 |
 | 15 | [Triple S](https://open.spotify.com/track/57lPefSIAt3ghkfnYFj1B7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Triple S](https://open.spotify.com/album/2Vum7fnobCUz4Ac6TsZyt4) | 3:12 |

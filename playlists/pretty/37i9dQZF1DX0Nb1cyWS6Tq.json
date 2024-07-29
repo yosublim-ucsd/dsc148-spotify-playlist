@@ -1,6 +1,6 @@
 {
   "description": "Come closer and see... into the dark. The Cure on cover.",
-  "num_followers": 796530,
+  "num_followers": 796855,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,38 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
+        "name": "Selected Scenes from the End of the World",
+        "url": "https://open.spotify.com/album/7MKdR8w1oTeEaekfZ4LbsN"
+      },
+      "artists": [
+        {
+          "name": "London After Midnight",
+          "url": "https://open.spotify.com/artist/51mEqzVhG2n9nD2kBAnWer"
+        }
+      ],
+      "duration_ms": 455853,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/4EJjwH5VKFYfhjji1lDmiH"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Some Girls Wander by Mistake",
+        "url": "https://open.spotify.com/album/5fdbQYbqTnCLNTibBdoerT"
+      },
+      "artists": [
+        {
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
+        }
+      ],
+      "duration_ms": 488011,
+      "name": "Temple of Love - 1992",
+      "url": "https://open.spotify.com/track/53O11dqezFoFYaaMjr1SPP"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
         "name": "Bloody Kisses (Top Shelf Edition)",
         "url": "https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG"
       },
@@ -167,38 +199,6 @@
       "duration_ms": 220093,
       "name": "The Lovecats",
       "url": "https://open.spotify.com/track/6q2T5xXao6mTS6LLE88L84"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Some Girls Wander by Mistake",
-        "url": "https://open.spotify.com/album/5fdbQYbqTnCLNTibBdoerT"
-      },
-      "artists": [
-        {
-          "name": "Sisters of Mercy",
-          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
-        }
-      ],
-      "duration_ms": 488011,
-      "name": "Temple of Love - 1992",
-      "url": "https://open.spotify.com/track/53O11dqezFoFYaaMjr1SPP"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Selected Scenes from the End of the World",
-        "url": "https://open.spotify.com/album/7MKdR8w1oTeEaekfZ4LbsN"
-      },
-      "artists": [
-        {
-          "name": "London After Midnight",
-          "url": "https://open.spotify.com/artist/51mEqzVhG2n9nD2kBAnWer"
-        }
-      ],
-      "duration_ms": 455853,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/4EJjwH5VKFYfhjji1lDmiH"
     },
     {
       "added_at": "2023-01-06 06:22:16",
@@ -267,22 +267,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Disintegration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 448306,
-      "name": "Pictures Of You - Remastered",
-      "url": "https://open.spotify.com/track/2o49Twc3qrNMOt8gq9W06L"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "The Crow Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
@@ -295,22 +279,6 @@
       "duration_ms": 293693,
       "name": "Dead Souls",
       "url": "https://open.spotify.com/track/12s8P9IFXjJWwVnX7u26ca"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Bloody Kisses (Top Shelf Edition)",
-        "url": "https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG"
-      },
-      "artists": [
-        {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
-        }
-      ],
-      "duration_ms": 538106,
-      "name": "Christian Woman",
-      "url": "https://open.spotify.com/track/3634aKisKlGdUfD9V3MOY5"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -347,8 +315,8 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "The Crow Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
       },
       "artists": [
         {
@@ -356,9 +324,25 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 398933,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/0tHOTQBn2M4CD2dcyHivth"
+      "duration_ms": 448306,
+      "name": "Pictures Of You - Remastered",
+      "url": "https://open.spotify.com/track/2o49Twc3qrNMOt8gq9W06L"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Bloody Kisses (Top Shelf Edition)",
+        "url": "https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG"
+      },
+      "artists": [
+        {
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+        }
+      ],
+      "duration_ms": 538106,
+      "name": "Christian Woman",
+      "url": "https://open.spotify.com/track/3634aKisKlGdUfD9V3MOY5"
     },
     {
       "added_at": "2023-01-24 21:00:19",
@@ -375,22 +359,6 @@
       "duration_ms": 187517,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/2Le4R47s0PyT0oWcD7qifb"
-    },
-    {
-      "added_at": "2023-03-17 00:43:40",
-      "album": {
-        "name": "Kaleidoscope (Remastered & Expanded)",
-        "url": "https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "Christine",
-      "url": "https://open.spotify.com/track/6oJdM8pW0ujqLcTQpZzCQ6"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -427,34 +395,34 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "The Head On The Door",
-        "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
+        "name": "Floodland",
+        "url": "https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
         }
       ],
-      "duration_ms": 256320,
-      "name": "A Night Like This",
-      "url": "https://open.spotify.com/track/5AQqtXvhgDKl3v4JzkdEsG"
+      "duration_ms": 420300,
+      "name": "Dominion / Mother Russia",
+      "url": "https://open.spotify.com/track/286oOUWsKLgh9DMcOqKkkQ"
     },
     {
-      "added_at": "2021-10-15 04:04:50",
+      "added_at": "2023-03-17 00:43:40",
       "album": {
-        "name": "October Rust (Special Edition)",
-        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
+        "name": "Kaleidoscope (Remastered & Expanded)",
+        "url": "https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P"
       },
       "artists": [
         {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 325840,
-      "name": "Be My Druidess",
-      "url": "https://open.spotify.com/track/1ycz5DvATLtmn2pOU8u38C"
+      "duration_ms": 179600,
+      "name": "Christine",
+      "url": "https://open.spotify.com/track/6oJdM8pW0ujqLcTQpZzCQ6"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -471,22 +439,6 @@
       "duration_ms": 246560,
       "name": "Snake Dance",
       "url": "https://open.spotify.com/track/20CMNatKGvGsH9H1WjSYYZ"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Floodland",
-        "url": "https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc"
-      },
-      "artists": [
-        {
-          "name": "Sisters of Mercy",
-          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
-        }
-      ],
-      "duration_ms": 420300,
-      "name": "Dominion / Mother Russia",
-      "url": "https://open.spotify.com/track/286oOUWsKLgh9DMcOqKkkQ"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -523,6 +475,54 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
+        "name": "The Crow Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 398933,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/0tHOTQBn2M4CD2dcyHivth"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "October Rust (Special Edition)",
+        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
+      },
+      "artists": [
+        {
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+        }
+      ],
+      "duration_ms": 325840,
+      "name": "Be My Druidess",
+      "url": "https://open.spotify.com/track/1ycz5DvATLtmn2pOU8u38C"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Some Girls Wander by Mistake",
+        "url": "https://open.spotify.com/album/42HVWb7R8TxLHgVjc2OOIV"
+      },
+      "artists": [
+        {
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
+        }
+      ],
+      "duration_ms": 214935,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/4PbxSwW7CxxYIFINPjuTnd"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
         "name": "Gods Own Medicine",
         "url": "https://open.spotify.com/album/4kBti1HGfkIg1Q9XWeTtHV"
       },
@@ -551,22 +551,6 @@
       "duration_ms": 211510,
       "name": "Red Drop",
       "url": "https://open.spotify.com/track/0jyOu6GTwQ3c0hVXYwGZpL"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Some Girls Wander by Mistake",
-        "url": "https://open.spotify.com/album/42HVWb7R8TxLHgVjc2OOIV"
-      },
-      "artists": [
-        {
-          "name": "Sisters of Mercy",
-          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
-        }
-      ],
-      "duration_ms": 214935,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/4PbxSwW7CxxYIFINPjuTnd"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -603,6 +587,22 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
+        "name": "The Head On The Door",
+        "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "A Night Like This",
+      "url": "https://open.spotify.com/track/5AQqtXvhgDKl3v4JzkdEsG"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
         "name": "Forever (Expanded Edition)",
         "url": "https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 185226,
       "name": "Jewel",
       "url": "https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Only Theatre of Pain",
+        "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
+      },
+      "artists": [
+        {
+          "name": "Christian Death",
+          "url": "https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Deathwish",
+      "url": "https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH"
     },
     {
       "added_at": "2023-01-24 21:00:19",
@@ -663,22 +679,6 @@
       "duration_ms": 486240,
       "name": "Tower Of Strength",
       "url": "https://open.spotify.com/track/448t63bYlXVmM04NzeWoxG"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Only Theatre of Pain",
-        "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
-      },
-      "artists": [
-        {
-          "name": "Christian Death",
-          "url": "https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Deathwish",
-      "url": "https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -953,22 +953,6 @@
       "url": "https://open.spotify.com/track/3bztP3gif7mrJ1LidczGWu"
     },
     {
-      "added_at": "2022-08-09 01:37:48",
-      "album": {
-        "name": "Lonely Is An Eyesore",
-        "url": "https://open.spotify.com/album/3lgwTWVYdTRhCtaOAMJDvc"
-      },
-      "artists": [
-        {
-          "name": "Clan of Xymox",
-          "url": "https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Muscoviet Mosquito",
-      "url": "https://open.spotify.com/track/0VkLpkFFjIRS4XDCdW6NdO"
-    },
-    {
       "added_at": "2021-10-15 04:04:50",
       "album": {
         "name": "Cosm\u00f3dromo",
@@ -983,6 +967,22 @@
       "duration_ms": 285257,
       "name": "Astr\u00f3nomo Insumiso",
       "url": "https://open.spotify.com/track/4jAvNrbowuSgqta1xr3Crc"
+    },
+    {
+      "added_at": "2022-08-09 01:37:48",
+      "album": {
+        "name": "Lonely Is An Eyesore",
+        "url": "https://open.spotify.com/album/3lgwTWVYdTRhCtaOAMJDvc"
+      },
+      "artists": [
+        {
+          "name": "Clan of Xymox",
+          "url": "https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha"
+        }
+      ],
+      "duration_ms": 243066,
+      "name": "Muscoviet Mosquito",
+      "url": "https://open.spotify.com/track/0VkLpkFFjIRS4XDCdW6NdO"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Lucky Number (The Best Of)",
-        "url": "https://open.spotify.com/album/7pltfJ1ItmrO7VHmV9Y0jD"
-      },
-      "artists": [
-        {
-          "name": "Lene Lovich",
-          "url": "https://open.spotify.com/artist/1yFJnlNMiBUBplMaOP5CMX"
-        }
-      ],
-      "duration_ms": 268733,
-      "name": "Bird Song",
-      "url": "https://open.spotify.com/track/1fkjuY5vauCjIPqhGD0RFR"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Maria Dimension",
         "url": "https://open.spotify.com/album/4JIs8fvvujGkjy5ieyYOYG"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 247800,
       "name": "Bella Donna",
       "url": "https://open.spotify.com/track/7ELpiKwEBL3tBoGFgqnZBw"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Lucky Number (The Best Of)",
+        "url": "https://open.spotify.com/album/7pltfJ1ItmrO7VHmV9Y0jD"
+      },
+      "artists": [
+        {
+          "name": "Lene Lovich",
+          "url": "https://open.spotify.com/artist/1yFJnlNMiBUBplMaOP5CMX"
+        }
+      ],
+      "duration_ms": 268733,
+      "name": "Bird Song",
+      "url": "https://open.spotify.com/track/1fkjuY5vauCjIPqhGD0RFR"
     },
     {
       "added_at": "2021-10-15 04:04:50",

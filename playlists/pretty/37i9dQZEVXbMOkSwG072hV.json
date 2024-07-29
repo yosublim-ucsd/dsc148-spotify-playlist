@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Brazil.",
-  "num_followers": 352380,
+  "num_followers": 352383,
   "original_name": "Viral 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LjmvcAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "No Bar de T\u00f5e Furico (Ao Vivo)",
         "url": "https://open.spotify.com/album/0A4m8mPzLSwJwuOAniS4KC"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/4BVL2QLF5QQLT15SpAWMVq"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
+      "album": {
+        "name": "Harpy Hare",
+        "url": "https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz"
+      },
+      "artists": [
+        {
+          "name": "Yaelokre",
+          "url": "https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY"
+        }
+      ],
+      "duration_ms": 180922,
+      "name": "Harpy Hare",
+      "url": "https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT"
+    },
+    {
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
@@ -49,23 +65,7 @@
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
-      "album": {
-        "name": "Harpy Hare",
-        "url": "https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz"
-      },
-      "artists": [
-        {
-          "name": "Yaelokre",
-          "url": "https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY"
-        }
-      ],
-      "duration_ms": 180922,
-      "name": "Harpy Hare",
-      "url": "https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT"
-    },
-    {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "A Barreira Vai Virar Baile",
         "url": "https://open.spotify.com/album/0Ph9LwdZlbMNEiae2C4nMy"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/7GypINlzSk4NVBKDmv47Pf"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "\u00c9 o Grelo",
         "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/4qR2qFXGphq6VW5IJIoHI1"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "Achei Que Era Pagode",
         "url": "https://open.spotify.com/album/3DLkq6PzXkWeCm5uyuetaW"
@@ -133,7 +133,27 @@
       "url": "https://open.spotify.com/track/77cKSpUvbxJ56FIgdVGc8R"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
+      "album": {
+        "name": "Achei que era Pagode",
+        "url": "https://open.spotify.com/album/2Xv52XBe67uFQJzEDAW4nH"
+      },
+      "artists": [
+        {
+          "name": "Mc Priscila",
+          "url": "https://open.spotify.com/artist/0q3ElVcc042mnCyUBce8CG"
+        },
+        {
+          "name": "Dj Olliver",
+          "url": "https://open.spotify.com/artist/6akRUh5g0XiVQaZj6U23fd"
+        }
+      ],
+      "duration_ms": 180922,
+      "name": "Achei que era Pagode",
+      "url": "https://open.spotify.com/track/2NmunJ0EJbE2oFbs1CIOeQ"
+    },
+    {
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "Relaxa a Bct Mulher",
         "url": "https://open.spotify.com/album/43b8MbRzxEojO69E1sy6dX"
@@ -157,43 +177,7 @@
       "url": "https://open.spotify.com/track/3rhCQVwAYYdcc0yFLQi3Kb"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
-      "album": {
-        "name": "Achei que era Pagode",
-        "url": "https://open.spotify.com/album/2Xv52XBe67uFQJzEDAW4nH"
-      },
-      "artists": [
-        {
-          "name": "Mc Priscila",
-          "url": "https://open.spotify.com/artist/0q3ElVcc042mnCyUBce8CG"
-        },
-        {
-          "name": "Dj Olliver",
-          "url": "https://open.spotify.com/artist/6akRUh5g0XiVQaZj6U23fd"
-        }
-      ],
-      "duration_ms": 180922,
-      "name": "Achei que era Pagode",
-      "url": "https://open.spotify.com/track/2NmunJ0EJbE2oFbs1CIOeQ"
-    },
-    {
-      "added_at": "2024-07-27 13:12:20",
-      "album": {
-        "name": "KEHLANI",
-        "url": "https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm"
-      },
-      "artists": [
-        {
-          "name": "Jordan Adetunji",
-          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
-        }
-      ],
-      "duration_ms": 122360,
-      "name": "KEHLANI",
-      "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
-    },
-    {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "Ela Joga na Hora",
         "url": "https://open.spotify.com/album/30Ytb0PG1tOv7JiKOTBK2v"
@@ -213,7 +197,23 @@
       "url": "https://open.spotify.com/track/6hZGsChumRhWG24OEh698c"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
+      "album": {
+        "name": "KEHLANI",
+        "url": "https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        }
+      ],
+      "duration_ms": 122360,
+      "name": "KEHLANI",
+      "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
+    },
+    {
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "Tough",
         "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "\u00c9 o Grelo",
         "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
@@ -249,7 +249,23 @@
       "url": "https://open.spotify.com/track/3BBh5EWaOi8L6qqXJu9Gdf"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "Red (From \"Descendants: The Rise of Red\")",
         "url": "https://open.spotify.com/album/6M4QzYGKgF2nkZw9VztN0s"
@@ -273,23 +289,7 @@
       "url": "https://open.spotify.com/track/1AP7xueWwO5AakWFYzttpV"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
-      "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
@@ -337,23 +337,7 @@
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
-      "album": {
-        "name": "Perigos Noturnos",
-        "url": "https://open.spotify.com/album/1RRiEvEmG86XwMtvpyZV7E"
-      },
-      "artists": [
-        {
-          "name": "Mc Thayk",
-          "url": "https://open.spotify.com/artist/2kdS8nUMjecM6kdyMVJu0d"
-        }
-      ],
-      "duration_ms": 168371,
-      "name": "Perigos Noturnos",
-      "url": "https://open.spotify.com/track/4BTcluGDG6Mi2CDmVUbESA"
-    },
-    {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "A\u00ed A\u00ed Que Legal - A\u00ed A\u00ed Que Fenomenal",
         "url": "https://open.spotify.com/album/0PSFi4yziwxIfoLgV7J64X"
@@ -377,7 +361,7 @@
       "url": "https://open.spotify.com/track/5Wo7n1OpPGKSMzTvfou9s8"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
@@ -397,7 +381,7 @@
       "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "The Secret of Us",
         "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
@@ -413,23 +397,23 @@
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
-        "name": "Vagabundo de Luxo",
-        "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
+        "name": "Perigos Noturnos",
+        "url": "https://open.spotify.com/album/1RRiEvEmG86XwMtvpyZV7E"
       },
       "artists": [
         {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+          "name": "Mc Thayk",
+          "url": "https://open.spotify.com/artist/2kdS8nUMjecM6kdyMVJu0d"
         }
       ],
-      "duration_ms": 166153,
-      "name": "Rainha da Finesse",
-      "url": "https://open.spotify.com/track/0w7vodPWFEcuEYvWpbNbOu"
+      "duration_ms": 168371,
+      "name": "Perigos Noturnos",
+      "url": "https://open.spotify.com/track/4BTcluGDG6Mi2CDmVUbESA"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "Bloquinho da Agonia 1.0",
         "url": "https://open.spotify.com/album/5nRLFA2YCfJnvQdrwwdg7U"
@@ -445,7 +429,23 @@
       "url": "https://open.spotify.com/track/1J0yA8GoN2GUoxEG4njbkR"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
+      "album": {
+        "name": "Vagabundo de Luxo",
+        "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Rainha da Finesse",
+      "url": "https://open.spotify.com/track/0w7vodPWFEcuEYvWpbNbOu"
+    },
+    {
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "Faz Completo na Madruga",
         "url": "https://open.spotify.com/album/4yCgcbQz0hEz4oYYs3Tqj8"
@@ -461,39 +461,7 @@
       "url": "https://open.spotify.com/track/4tX7Qo5NAyD6qx7qXJIDqw"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
-      "album": {
-        "name": "Montagem Bi\u00f4n\u00edca Espectral 2",
-        "url": "https://open.spotify.com/album/7bmJvjFssJPBmYjzZy6Blu"
-      },
-      "artists": [
-        {
-          "name": "DJ OLIVEIRA ORIGINAL",
-          "url": "https://open.spotify.com/artist/1cCYuIofJkQf9YN1FZo5A4"
-        }
-      ],
-      "duration_ms": 80754,
-      "name": "Montagem Bi\u00f4n\u00edca Espectral 2",
-      "url": "https://open.spotify.com/track/2IrBwLPRPWoqVjWPJ9qkUN"
-    },
-    {
-      "added_at": "2024-07-27 13:12:20",
-      "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 138213,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
-    },
-    {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "No Bar de T\u00f5e Furico (Ao Vivo)",
         "url": "https://open.spotify.com/album/0A4m8mPzLSwJwuOAniS4KC"
@@ -509,27 +477,39 @@
       "url": "https://open.spotify.com/track/1R0MxdP1i0vkiNTihhYErZ"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
-        "name": "N\u00e3o Fosse T\u00e3o Tarde (MTG Remix)",
-        "url": "https://open.spotify.com/album/0m8qklpIFESodRkIOqJ7Ni"
+        "name": "Montagem Bi\u00f4n\u00edca Espectral 2",
+        "url": "https://open.spotify.com/album/7bmJvjFssJPBmYjzZy6Blu"
       },
       "artists": [
         {
-          "name": "Lou Garcia",
-          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
-        },
-        {
-          "name": "Dj Luan Gomes",
-          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
+          "name": "DJ OLIVEIRA ORIGINAL",
+          "url": "https://open.spotify.com/artist/1cCYuIofJkQf9YN1FZo5A4"
         }
       ],
-      "duration_ms": 117230,
-      "name": "N\u00e3o Fosse T\u00e3o Tarde - MTG Remix",
-      "url": "https://open.spotify.com/track/6gjsnEQxLqVkieeloQTozN"
+      "duration_ms": 80754,
+      "name": "Montagem Bi\u00f4n\u00edca Espectral 2",
+      "url": "https://open.spotify.com/track/2IrBwLPRPWoqVjWPJ9qkUN"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 138213,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
+    },
+    {
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "Coloca a M\u00e3o no Meu Garoto (Remix)",
         "url": "https://open.spotify.com/album/59BYcBMgutpvl53bEEN14v"
@@ -549,7 +529,27 @@
       "url": "https://open.spotify.com/track/3an02GANC6edxoVCUvTCSM"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
+      "album": {
+        "name": "N\u00e3o Fosse T\u00e3o Tarde (MTG Remix)",
+        "url": "https://open.spotify.com/album/0m8qklpIFESodRkIOqJ7Ni"
+      },
+      "artists": [
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        },
+        {
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
+        }
+      ],
+      "duration_ms": 117230,
+      "name": "N\u00e3o Fosse T\u00e3o Tarde - MTG Remix",
+      "url": "https://open.spotify.com/track/6gjsnEQxLqVkieeloQTozN"
+    },
+    {
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "Sticky",
         "url": "https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5"
@@ -565,27 +565,7 @@
       "url": "https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
-      "album": {
-        "name": "Triplex (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0PCSUAvZhDq8HVVN50o0U3"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        },
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 178170,
-      "name": "Triplex - Ao Vivo",
-      "url": "https://open.spotify.com/track/1NcqLEg2r2LXqMVbam2BJD"
-    },
-    {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "Clack Bum",
         "url": "https://open.spotify.com/album/5u1yWj74PxP12ZqVUcn78H"
@@ -609,7 +589,27 @@
       "url": "https://open.spotify.com/track/5DrDpWyvharQkhsloNTN9W"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
+      "album": {
+        "name": "Triplex (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0PCSUAvZhDq8HVVN50o0U3"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 178170,
+      "name": "Triplex - Ao Vivo",
+      "url": "https://open.spotify.com/track/1NcqLEg2r2LXqMVbam2BJD"
+    },
+    {
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "Les Ballas",
         "url": "https://open.spotify.com/album/3VrtDsHIz14uWssDAfHuEP"
@@ -629,39 +629,7 @@
       "url": "https://open.spotify.com/track/1cKZvLMqX7Dj2hLQERIYlo"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
-      "album": {
-        "name": "Cosmic",
-        "url": "https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 225864,
-      "name": "Cosmic",
-      "url": "https://open.spotify.com/track/0kE4TRJ0pWoRKzKdtbx8To"
-    },
-    {
-      "added_at": "2024-07-27 13:12:20",
-      "album": {
-        "name": "Ovelhinha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 276453,
-      "name": "Ovelhinha (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6"
-    },
-    {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "MONTAGEM VOZES PROFUNDAS (Remixes)",
         "url": "https://open.spotify.com/album/7AjQV13ch86ps6TKjBsuFS"
@@ -685,7 +653,7 @@
       "url": "https://open.spotify.com/track/3o3dIYuLIZfAO2kXP3eXrN"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "Depois que o Sol Raiar",
         "url": "https://open.spotify.com/album/5RCYlpsH7imlvZ08imhTCC"
@@ -709,67 +677,39 @@
       "url": "https://open.spotify.com/track/3Ld9N3RyrC9tpEUUH8RsCU"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
-        "name": "\u00c9 o Grelo",
-        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
+        "name": "Ovelhinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y"
       },
       "artists": [
         {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 168019,
-      "name": "Eu Queria Mudar",
-      "url": "https://open.spotify.com/track/4lUZVC3KhiLlIHR5wcxfoo"
+      "duration_ms": 276453,
+      "name": "Ovelhinha (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
-        "name": "Bando Stone and The New World",
-        "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r"
+        "name": "Cosmic",
+        "url": "https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW"
       },
       "artists": [
         {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         }
       ],
-      "duration_ms": 178960,
-      "name": "Lithonia",
-      "url": "https://open.spotify.com/track/3uC4r2daXertBxxc8BpbbN"
+      "duration_ms": 225864,
+      "name": "Cosmic",
+      "url": "https://open.spotify.com/track/0kE4TRJ0pWoRKzKdtbx8To"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
-      "album": {
-        "name": "Set da Menorzinha 1.0",
-        "url": "https://open.spotify.com/album/6eYWnseUbpgOGdYDFyzHBz"
-      },
-      "artists": [
-        {
-          "name": "Mc Menorzinha",
-          "url": "https://open.spotify.com/artist/3RJgdABmH81bLY7UPixlnZ"
-        },
-        {
-          "name": "MC Marcelly",
-          "url": "https://open.spotify.com/artist/3XtuCcYVAgDABkXDLUk8BE"
-        },
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 324986,
-      "name": "Set da Menorzinha 1.0",
-      "url": "https://open.spotify.com/track/4PIZkFECempgwhCiCGiTjO"
-    },
-    {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "Ritmada Tchau Obrigado",
         "url": "https://open.spotify.com/album/627NDQldBscw1806yUl7Qm"
@@ -797,27 +737,35 @@
       "url": "https://open.spotify.com/track/3OaJTZUVApRxoDo65GQiAC"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
-        "name": "Eu So Comi Ela uma Vez",
-        "url": "https://open.spotify.com/album/3Wt4fIdsPcbuOHpQvASMkQ"
+        "name": "Set da Menorzinha 1.0",
+        "url": "https://open.spotify.com/album/6eYWnseUbpgOGdYDFyzHBz"
       },
       "artists": [
         {
-          "name": "Dj VN Maestro",
-          "url": "https://open.spotify.com/artist/31r6lIoq94Bww3TKIPQ01L"
+          "name": "Mc Menorzinha",
+          "url": "https://open.spotify.com/artist/3RJgdABmH81bLY7UPixlnZ"
         },
         {
-          "name": "MC G DS",
-          "url": "https://open.spotify.com/artist/1xIma0CABaifVU5xJAqAAs"
+          "name": "MC Marcelly",
+          "url": "https://open.spotify.com/artist/3XtuCcYVAgDABkXDLUk8BE"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         }
       ],
-      "duration_ms": 107102,
-      "name": "Eu So Comi Ela uma Vez",
-      "url": "https://open.spotify.com/track/7eoRm37Ta1jvGMiMRfOQoa"
+      "duration_ms": 324986,
+      "name": "Set da Menorzinha 1.0",
+      "url": "https://open.spotify.com/track/4PIZkFECempgwhCiCGiTjO"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "Experi\u00eancia (Ao Vivo)",
         "url": "https://open.spotify.com/album/6pQEr64rW3rV156wGjmbKT"
@@ -837,7 +785,23 @@
       "url": "https://open.spotify.com/track/4G0CNdwFI4oeHFVZDcqLvK"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
+      "album": {
+        "name": "\u00c9 o Grelo",
+        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "duration_ms": 168019,
+      "name": "Eu Queria Mudar",
+      "url": "https://open.spotify.com/track/4lUZVC3KhiLlIHR5wcxfoo"
+    },
+    {
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
@@ -853,7 +817,43 @@
       "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
+      "album": {
+        "name": "Eu So Comi Ela uma Vez",
+        "url": "https://open.spotify.com/album/3Wt4fIdsPcbuOHpQvASMkQ"
+      },
+      "artists": [
+        {
+          "name": "Dj VN Maestro",
+          "url": "https://open.spotify.com/artist/31r6lIoq94Bww3TKIPQ01L"
+        },
+        {
+          "name": "MC G DS",
+          "url": "https://open.spotify.com/artist/1xIma0CABaifVU5xJAqAAs"
+        }
+      ],
+      "duration_ms": 107102,
+      "name": "Eu So Comi Ela uma Vez",
+      "url": "https://open.spotify.com/track/7eoRm37Ta1jvGMiMRfOQoa"
+    },
+    {
+      "added_at": "2024-07-28 13:55:38",
+      "album": {
+        "name": "Bando Stone and The New World",
+        "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 178960,
+      "name": "Lithonia",
+      "url": "https://open.spotify.com/track/3uC4r2daXertBxxc8BpbbN"
+    },
+    {
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "Morar Nesse Motel",
         "url": "https://open.spotify.com/album/1i3R2NzmaLZjDDB6txSgqy"
@@ -869,59 +869,27 @@
       "url": "https://open.spotify.com/track/5QpcLTQjh0qO7OIuR9q8IR"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
-        "name": "Senta na 45 (Remix)",
-        "url": "https://open.spotify.com/album/7zW7rA750EH81QRxO9dGav"
+        "name": "Chapeluda",
+        "url": "https://open.spotify.com/album/51FF5oBK0q9Fr639TnOES3"
       },
       "artists": [
         {
-          "name": "Boyugo",
-          "url": "https://open.spotify.com/artist/43ryrdcWjeDb44wxp6tcxR"
+          "name": "Jeninho",
+          "url": "https://open.spotify.com/artist/6MV2UXdX8Pqy25rI7dl6os"
         },
         {
-          "name": "Escama Reels",
-          "url": "https://open.spotify.com/artist/0fmDWiAf7kyzpdGn1O3hx0"
-        },
-        {
-          "name": "Danilo chatinho",
-          "url": "https://open.spotify.com/artist/5eRPfl0nidVHlGcMBvrdf2"
-        },
-        {
-          "name": "Arthurzinho batedeira",
-          "url": "https://open.spotify.com/artist/3s06SHQhJVCO1UH9NrVwUT"
-        },
-        {
-          "name": "Gugu Ofc",
-          "url": "https://open.spotify.com/artist/6FaWIumVuKTAbalnVgiduL"
-        },
-        {
-          "name": "mc boyugo",
-          "url": "https://open.spotify.com/artist/0lUd5MacFa0XMXemaP0byQ"
+          "name": "Marcelinx",
+          "url": "https://open.spotify.com/artist/1qiEEUs3i1EFylwhh1qmCI"
         }
       ],
-      "duration_ms": 151295,
-      "name": "Senta na 45 - Remix",
-      "url": "https://open.spotify.com/track/3lxAve3waRpVjlLPJq7qCN"
+      "duration_ms": 144923,
+      "name": "Chapeluda",
+      "url": "https://open.spotify.com/track/7cvkRqpx8xtSreFfOg6HPz"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
-      "album": {
-        "name": "Maturidade (Deluxe)",
-        "url": "https://open.spotify.com/album/0ejAiP3MX6qORbvfIt62ps"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Tavares",
-          "url": "https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL"
-        }
-      ],
-      "duration_ms": 186069,
-      "name": "Palavras de Perd\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/3mBsIJP7qmGeJMfKllBMeZ"
-    },
-    {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -937,7 +905,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
         "name": "The girl, so confusing version with lorde",
         "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
@@ -957,40 +925,60 @@
       "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+        "name": "Maturidade (Deluxe)",
+        "url": "https://open.spotify.com/album/0ejAiP3MX6qORbvfIt62ps"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Mar\u00edlia Tavares",
+          "url": "https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL"
         }
       ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+      "duration_ms": 186069,
+      "name": "Palavras de Perd\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/3mBsIJP7qmGeJMfKllBMeZ"
     },
     {
-      "added_at": "2024-07-27 13:12:20",
+      "added_at": "2024-07-28 13:55:38",
       "album": {
-        "name": "Chapeluda",
-        "url": "https://open.spotify.com/album/51FF5oBK0q9Fr639TnOES3"
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
       "artists": [
         {
-          "name": "Jeninho",
-          "url": "https://open.spotify.com/artist/6MV2UXdX8Pqy25rI7dl6os"
-        },
-        {
-          "name": "Marcelinx",
-          "url": "https://open.spotify.com/artist/1qiEEUs3i1EFylwhh1qmCI"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 144923,
-      "name": "Chapeluda",
-      "url": "https://open.spotify.com/track/7cvkRqpx8xtSreFfOg6HPz"
+      "duration_ms": 151739,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
+    },
+    {
+      "added_at": "2024-07-28 13:55:38",
+      "album": {
+        "name": "Ilhabela 2",
+        "url": "https://open.spotify.com/album/6OKayBxWNO6xlCK8kdlBCW"
+      },
+      "artists": [
+        {
+          "name": "Mc Magal",
+          "url": "https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr"
+        },
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        },
+        {
+          "name": "DJ Tafarel",
+          "url": "https://open.spotify.com/artist/0wuye8UdhvHXaEcC1VOhRy"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Ilhabela 2",
+      "url": "https://open.spotify.com/track/6622KNu2dncVoEzJt1SGse"
     }
   ],
   "unique_name": "Viral 50 - Brazil",

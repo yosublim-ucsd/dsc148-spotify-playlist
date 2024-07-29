@@ -2,7 +2,7 @@
 
 ### [Deadpool Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX5WkSQEMTURo)
 
-> Everyone deserves a happy ending\. Listen to the music from Deadpool ahead of Deadpool & Wolverine, coming soon to theaters.
+> Everyone deserves a happy ending\. Listen to the music from the Deadpool series, including Deadpool & Wolverine, now playing in theaters.
 
 64 songs - 3 hr 17 min
 

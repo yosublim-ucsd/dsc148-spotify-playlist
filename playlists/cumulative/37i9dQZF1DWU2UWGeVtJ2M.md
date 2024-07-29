@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-335 songs - 18 hr 45 min
+337 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [I WILL BE THE CAUSE OF OUR DEATH](https://open.spotify.com/track/2cKY2agDTAezOq1HZPOheC) | [takeshi iwamoto](https://open.spotify.com/artist/28fZt7cLleTXJB9V8zDxE9) | [I WILL BE THE CAUSE OF OUR DEATH](https://open.spotify.com/album/2Es4yinpnkszumajLeesGb) | 3:42 | 2022-06-06 |  |
 | [I Wouldn't Know Any Better Than You](https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [I Wouldn't Know Any Better Than You](https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj) | 2:31 | 2022-06-06 |  |
 | [I'll Come Back to You](https://open.spotify.com/track/0vAZmBMWlpbEHf1Vk0FLMc) | [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u), [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM) | [I'll Come Back to You](https://open.spotify.com/album/01ezCAKpdevX1bbGWlSdMA) | 1:53 | 2022-06-20 | 2022-07-25 |
-| [I.L.Y.M](https://open.spotify.com/track/6CadGoWxbIJLMBqQFgaQgL) | [YQ](https://open.spotify.com/artist/0YWzXzsfIPLUESrRyfXUyU) | [I.L.Y.M](https://open.spotify.com/album/1EHgOnmck78P8JwEOouH6G) | 3:18 | 2022-06-06 |  |
+| [I.L.Y.M](https://open.spotify.com/track/6CadGoWxbIJLMBqQFgaQgL) | [YQ](https://open.spotify.com/artist/0YWzXzsfIPLUESrRyfXUyU) | [I.L.Y.M](https://open.spotify.com/album/1EHgOnmck78P8JwEOouH6G) | 3:18 | 2022-06-06 | 2024-07-29 |
 | [if it's with you](https://open.spotify.com/track/24zqBDy2Pg8ngi1Hc3uK2U) | [evanturetime](https://open.spotify.com/artist/07h1mcCInWa0LF0ZMzVQfa), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6), [Tim De Cotta](https://open.spotify.com/artist/0SFCGvh4sE1t6b2mTgpQ5D) | [if it's with you](https://open.spotify.com/album/2bLMmJLLFBEzDEYwspVuYO) | 3:33 | 2022-06-06 | 2024-04-26 |
 | [If You Think It's Love](https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:23 | 2022-07-25 |  |
 | [iFeel](https://open.spotify.com/track/5ed0x7s2O191nQ9gfmAhHM) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [iFeel](https://open.spotify.com/album/3pgkyPj3vSQ0TYCoGQJKaF) | 4:29 | 2022-07-25 | 2022-10-13 |
@@ -164,6 +164,7 @@
 | [Ikhlas](https://open.spotify.com/track/4l6kxQ8DF4WGinhZJEX8mo) | [BAP.](https://open.spotify.com/artist/1C844mwQd4BOI6pJSgxfiC) | [buangan](https://open.spotify.com/album/5YEfYIYoE7V9nHeC9k42oA) | 2:13 | 2023-10-30 | 2023-11-07 |
 | [In My Mind](https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [In My Mind](https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt) | 2:42 | 2022-06-13 |  |
 | [Inconclusive](https://open.spotify.com/track/36eL5WspHbKllchxJNyA6B) | [Joel See](https://open.spotify.com/artist/44DkJ4VKIXuLWfpyL9Tbps), [Kara Etta](https://open.spotify.com/artist/7tsHFYI6VCAQx7OOQN6TsN) | [Inconclusive](https://open.spotify.com/album/4AOF4unCnC2kmvel7UTHd5) | 3:34 | 2022-06-13 | 2022-07-26 |
+| [Infatuated](https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Infatuated](https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd) | 3:46 | 2024-07-29 |  |
 | [Inkeri](https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG) | [Oasis Sky](https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10) | 3:22 | 2022-07-25 |  |
 | [Introspection](https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection](https://open.spotify.com/album/6Aj5Kces1cuu0pJwQTk1DF) | 2:48 | 2022-06-06 |  |
 | [IT'S NOT THAT SERIOUS](https://open.spotify.com/track/0L3KqlhJGIqpcX6eAC55rX) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [IT'S NOT THAT SERIOUS](https://open.spotify.com/album/3NxTfjuRvlRzNIEeCXPgNk) | 2:20 | 2022-07-25 |  |
@@ -262,7 +263,7 @@
 | [Scarred for Tryin.](https://open.spotify.com/track/5kC5BdfOeJfIytZy7LEFx3) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Scarred for Tryin.](https://open.spotify.com/album/7AlzfjScA4BEiFXtya6ChF) | 3:07 | 2024-04-01 |  |
 | [SCORPIO](https://open.spotify.com/track/7dWO43BlUXzAImVYT7i2Ss) | [KEYANA](https://open.spotify.com/artist/55xVPquXFuGsZjvx4i68GZ) | [SCORPIO](https://open.spotify.com/album/65le9QamYEtftvHtjeKHP0) | 3:21 | 2022-06-06 | 2022-07-29 |
 | [Secrets](https://open.spotify.com/track/4tn5zAuILpz5GjsdoosU3G) | [Nomyn](https://open.spotify.com/artist/5VbsCwCoxtsC4nRCyLJveN), [Angelicca](https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP) | [Secrets](https://open.spotify.com/album/059780GUzrYPDmQF1tlsek) | 3:16 | 2023-07-10 |  |
-| [seek](https://open.spotify.com/track/493vav5k6NZa9Alre82l7z) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [seek](https://open.spotify.com/album/64qXCWlGOwWxciqEPr3M2a) | 2:50 | 2024-07-15 |  |
+| [seek](https://open.spotify.com/track/493vav5k6NZa9Alre82l7z) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [seek](https://open.spotify.com/album/64qXCWlGOwWxciqEPr3M2a) | 2:50 | 2024-07-15 | 2024-07-29 |
 | [Seize The Day](https://open.spotify.com/track/04rz2UaJqbK4aUs7TSk7Sw) | [Wax Tailor](https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG), [Charlotte Savary](https://open.spotify.com/artist/00iD8QRcuTSSKAhaFU1MOp) | [Seize The Day](https://open.spotify.com/album/56uC55DMbvL9l8dQAoszp5) | 2:41 | 2024-05-06 |  |
 | [Seventeen](https://open.spotify.com/track/76t8j6fcgo4rDzSQutispC) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Seventeen](https://open.spotify.com/album/0hQ35qENp50JKaES6XDdPd) | 4:25 | 2022-07-25 | 2023-10-30 |
 | [Sinking](https://open.spotify.com/track/7zwN8pdasAQwkkRP64OIMS) | [Claudia](https://open.spotify.com/artist/4iSU0hKfGnU2nscL5dLi9p) | [Sinking](https://open.spotify.com/album/0CfQZxExm3luRR6aROK0ay) | 3:09 | 2022-06-27 | 2022-07-06 |
@@ -313,6 +314,7 @@
 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 | 2023-08-28 | 2024-05-11 |
 | [Treat Me](https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Treat Me](https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP) | 2:29 | 2022-07-25 |  |
 | [Trying Not To Cry \(feat\. Cavetown\)](https://open.spotify.com/track/1dO8sjJOtUpz0CWelezE4f) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Trying Not To Cry \(feat\. Cavetown\)](https://open.spotify.com/album/0eYVO4mb4QcZNV9d3dgTiv) | 2:22 | 2022-07-25 |  |
+| [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 | 2024-07-29 |  |
 | [Two Sides](https://open.spotify.com/track/0HN3K1Y4sRJIHZmI2s5pU1) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ) | [Two Sides](https://open.spotify.com/album/03ir5ImoetQFACvTPTn4sK) | 3:46 | 2022-06-06 | 2023-06-10 |
 | [Ugly](https://open.spotify.com/track/2kHQScyzjnhhuBPQQ1AVfo) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 3:33 | 2022-07-25 |  |
 | [untitled \(what's it gonna be\)](https://open.spotify.com/track/76YpiW77bh2bCbvysBnwF4) | [thecolorfractal](https://open.spotify.com/artist/0v5RDo6n69zPsWKEDuZueu), [Gail Belmonte](https://open.spotify.com/artist/7cu716rV1JmtKcJ9h7FRLQ) | [untitled \(what's it gonna be\)](https://open.spotify.com/album/74bDYW7BEX7rs8Rl4LNqLS) | 4:10 | 2022-06-06 |  |

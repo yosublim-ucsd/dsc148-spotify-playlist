@@ -1,6 +1,6 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1167936,
+  "num_followers": 1168135,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
-        "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 208466,
-      "name": "Lucy In The Sky With Diamonds - Remastered 2009",
-      "url": "https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Psychotic Reaction",
         "url": "https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 208666,
       "name": "Crimson & Clover - Single Version",
       "url": "https://open.spotify.com/track/1vXuYPpkLjn1v06E2EsWQY"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+        "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "Lucy In The Sky With Diamonds - Remastered 2009",
+      "url": "https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Magical Mystery Tour (Remastered)",
-        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 275866,
-      "name": "I Am The Walrus - Remastered 2009",
-      "url": "https://open.spotify.com/track/6Pq9MmkDQYZiiCDpxnvrf6"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "\"Os Mutantes\"",
         "url": "https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og"
       },
@@ -415,6 +399,22 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
+        "name": "Magical Mystery Tour (Remastered)",
+        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 275866,
+      "name": "I Am The Walrus - Remastered 2009",
+      "url": "https://open.spotify.com/track/6Pq9MmkDQYZiiCDpxnvrf6"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
         "name": "Cheap Thrills",
         "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
       },
@@ -431,22 +431,6 @@
       "duration_ms": 293040,
       "name": "I Need a Man to Love",
       "url": "https://open.spotify.com/track/5Z27tZEeC8WBiQvoDpx1Sw"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
-        "name": "Are You Experienced",
-        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "Manic Depression",
-      "url": "https://open.spotify.com/track/3f5JtAsGRIXN8pSAeTi6vA"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -479,6 +463,22 @@
       "duration_ms": 177506,
       "name": "Her Eyes Are a Blue Million Miles",
       "url": "https://open.spotify.com/track/6fJSEk0GDtPOk3gFxcnbUy"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "Manic Depression",
+      "url": "https://open.spotify.com/track/3f5JtAsGRIXN8pSAeTi6vA"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
-        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 312426,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Roger the Engineer",
         "url": "https://open.spotify.com/album/3s6wTRMDispMa4gCd26FPc"
       },
@@ -595,18 +579,18 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Electric Music For The Mind And Body",
-        "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
+        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
+        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
       },
       "artists": [
         {
-          "name": "Country Joe & The Fish",
-          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 161000,
-      "name": "Flying High",
-      "url": "https://open.spotify.com/track/5v0ibjQegpYdMUGL95dI1a"
+      "duration_ms": 312426,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -623,6 +607,22 @@
       "duration_ms": 234600,
       "name": "Shifting Sands",
       "url": "https://open.spotify.com/track/3jBCwLVmmfKUH8321N4bdd"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "Electric Music For The Mind And Body",
+        "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
+      },
+      "artists": [
+        {
+          "name": "Country Joe & The Fish",
+          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Flying High",
+      "url": "https://open.spotify.com/track/5v0ibjQegpYdMUGL95dI1a"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Gris Gris",
-        "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 466266,
-      "name": "I Walk on Guilded Splinters",
-      "url": "https://open.spotify.com/track/0OSNN0ABo1HMgfGeMQ3pCr"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Electric Music For The Mind And Body",
         "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 303000,
       "name": "Bass Strings",
       "url": "https://open.spotify.com/track/0MjNwys4xsfX3MoiJUtMfw"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "Gris Gris",
+        "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 466266,
+      "name": "I Walk on Guilded Splinters",
+      "url": "https://open.spotify.com/track/0OSNN0ABo1HMgfGeMQ3pCr"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Wake Up...It's Tomorrow",
-        "url": "https://open.spotify.com/album/4DWojULyo8xC7cRB5QjKMm"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Alarm Clock",
-          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Sit With The Guru",
-      "url": "https://open.spotify.com/track/0PKrvcdX7PUgubTWn0LDQ7"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Green Tambourine",
         "url": "https://open.spotify.com/album/4rwwZmYuH2XhZDozHksVQw"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 131133,
       "name": "Rice Is Nice",
       "url": "https://open.spotify.com/track/2Lg0cTxmByzQcozvDcayw0"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "Wake Up...It's Tomorrow",
+        "url": "https://open.spotify.com/album/4DWojULyo8xC7cRB5QjKMm"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Alarm Clock",
+          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Sit With The Guru",
+      "url": "https://open.spotify.com/track/0PKrvcdX7PUgubTWn0LDQ7"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "S.F. Sorrow",
-        "url": "https://open.spotify.com/album/5IIB3xh53eRBpkkktSFQbc"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Things",
-          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
-        }
-      ],
-      "duration_ms": 231613,
-      "name": "Private Sorrow",
-      "url": "https://open.spotify.com/track/6xTQTYLIbzC0TLoSe2H4ve"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "The Essential Byrds",
         "url": "https://open.spotify.com/album/5TDuE1VngEpSqXue0bMRU1"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 240840,
       "name": "Magic Man - Stereo Version",
       "url": "https://open.spotify.com/track/1UnKocC4TFivzN9TSDnui6"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "S.F. Sorrow",
+        "url": "https://open.spotify.com/album/5IIB3xh53eRBpkkktSFQbc"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Things",
+          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
+        }
+      ],
+      "duration_ms": 231613,
+      "name": "Private Sorrow",
+      "url": "https://open.spotify.com/track/6xTQTYLIbzC0TLoSe2H4ve"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
+        "name": "Fifth Dimension",
+        "url": "https://open.spotify.com/album/1MpYGjBsBZm2wW8fvf10OO"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "duration_ms": 214640,
+      "name": "Eight Miles High",
+      "url": "https://open.spotify.com/track/5v3utF8InHZKd8JZJK5rCx"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/23W2qtQDqASXPMsBXYpTY0"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 197013,
       "name": "Alone Again Or",
       "url": "https://open.spotify.com/track/6hXHOrhKW9dgQt35Mc5dCb"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/387wE7UNIyqL4w8UnX2n4N"
-      },
-      "artists": [
-        {
-          "name": "Jefferson Airplane",
-          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "Somebody to Love",
-      "url": "https://open.spotify.com/track/4yrloqLBKS7Pi3z7g2HDga"
     }
   ],
   "unique_name": "Psychedelic Rock",

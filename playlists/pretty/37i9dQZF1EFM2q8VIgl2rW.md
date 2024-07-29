@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM2q8VIgl2rW.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4sOuCZZM60YHkWWZVqZPXn">Robert Lopez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158 likes - 161 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 159 likes - 161 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM2q8VIgl2rW.md) - [plain]
 | 160 | [School For Monsters \(Made Popular By "Avenue Q"\) \[Karaoke Version\]](https://open.spotify.com/track/5IIBtWwPlq887uWkuZBUou) | [Party Tyme Karaoke](https://open.spotify.com/artist/3JoDcjZtpq0ccldFgYmeAB) | [Party Tyme Karaoke \- Show Tunes 10](https://open.spotify.com/album/75KcELc2CmBtG56RVHZlQD) | 1:27 |
 | 161 | [You Don't Belong](https://open.spotify.com/track/25cxwxkIgXBD5HtdBWd4aH) | [Up Here \- Cast](https://open.spotify.com/artist/69aGXX2T28iQOy1teJy61L), [Emilia Suárez](https://open.spotify.com/artist/63N2LyprPztDL4WwgiZ7L5), [MaKena Jackson](https://open.spotify.com/artist/5BAHeUrDhy4RUC55ZLYeaC), [Maya Sistruck](https://open.spotify.com/artist/2AgDl5kTDamgT6g5EeJAXQ) | [Up Here \(Original Series Soundtrack\)](https://open.spotify.com/album/4ytsQEFFvWKALIRLkMBZxx) | 0:24 |
 
-Snapshot ID: `AbX2RgAAAAD3k/lVuzmM2YVW8w7l/um4`
+Snapshot ID: `AbX73gAAAADo7RbpioMDDWF7DIZIEGDS`

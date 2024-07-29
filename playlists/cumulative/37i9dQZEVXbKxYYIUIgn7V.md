@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Austria.
 
-671 songs - 1 day 8 hr 27 min
+672 songs - 1 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Faster n Harder](https://open.spotify.com/track/3qaMprRWLGggArD14diXYz) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Faster n Harder](https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W) | 2:03 | 2024-03-19 | 2024-04-05 |
 | [Faster n Harder](https://open.spotify.com/track/499mGaGmtP9U1MPGVeUOIV) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Internet Famous](https://open.spotify.com/album/2yEBsWRowuo5FRa0Q4b5D6) | 2:03 | 2024-04-04 | 2024-04-24 |
 | [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 | 2024-04-16 | 2024-05-10 |
+| [Feel It](https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [Milaa](https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB) | [Feel It](https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS) | 3:34 | 2024-07-28 |  |
 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-07-09 | 2024-07-17 |
 | [FENDI ON MY EYES](https://open.spotify.com/track/4nmjsyzslWD3IHif3f34Wn) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [Guizcore](https://open.spotify.com/artist/3Qg431RgaQNEOJVJY4vSaL) | [ANOTHER DIMENSION](https://open.spotify.com/album/0qLJC6nODiFrkmjU00g3qO) | 3:54 | 2024-02-11 | 2024-03-27 |
 | [Fighter \- Eurovision Version](https://open.spotify.com/track/6K4Opq24wkYBidAuLpqutv) | [TALI](https://open.spotify.com/artist/6v6wot3YV1QnPry6mfrCLK) | [Fighter \(Eurovision Version\)](https://open.spotify.com/album/3zGEOLJy9x96GeYgRPoXEO) | 2:59 | 2024-05-09 | 2024-05-24 |
@@ -360,7 +361,7 @@
 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-04-09 | 2024-04-22 |
 | [Linger \- SiriusXM Session](https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Linger / Heading For The Door \(Sirius XM Session\)](https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x) | 3:06 | 2024-06-18 | 2024-06-26 |
 | [Links Rechts](https://open.spotify.com/track/5EcPtaqxmPvgLcB5gRPF2j) | [Snollebollekes](https://open.spotify.com/artist/2DbTbUZFWbi3U3QzgJqU0V) | [… En Door](https://open.spotify.com/album/2GIjZeYF4Nb2ELwIEjuWmZ) | 2:39 | 2024-06-21 | 2024-07-24 |
-| [Links Rechts](https://open.spotify.com/track/3U3WJXmdXwLskR2uBsQ1ug) | [Snollebollekes](https://open.spotify.com/artist/2DbTbUZFWbi3U3QzgJqU0V), [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz), [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf) | [Links Rechts](https://open.spotify.com/album/0BcMjD8zlQxsJuWB6Q1PkQ) | 2:39 | 2024-07-16 |  |
+| [Links Rechts](https://open.spotify.com/track/3U3WJXmdXwLskR2uBsQ1ug) | [Snollebollekes](https://open.spotify.com/artist/2DbTbUZFWbi3U3QzgJqU0V), [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz), [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf) | [Links Rechts](https://open.spotify.com/album/0BcMjD8zlQxsJuWB6Q1PkQ) | 2:39 | 2024-07-16 | 2024-07-29 |
 | [Lithe Fall Back](https://open.spotify.com/track/1G6HJS9teJr0zehi7Nu9Dm) | [Shugoazy](https://open.spotify.com/artist/2U7zA20xu2ncwgm8lr2Itm) | [Lithe Fall Back](https://open.spotify.com/album/6ZBP4mbd4zk3FakTVsXaHs) | 2:09 | 2024-05-12 | 2024-05-14 |
 | [Lithonia](https://open.spotify.com/track/3uC4r2daXertBxxc8BpbbN) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 2:58 | 2024-07-23 |  |
 | [Little Bit Better](https://open.spotify.com/track/0GMs3jq70wmCo12pavj4st) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj), [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Little Bit Better](https://open.spotify.com/album/4cJHTRsxDkQpMPnLwFcgkV) | 3:47 | 2024-03-12 | 2024-03-27 |

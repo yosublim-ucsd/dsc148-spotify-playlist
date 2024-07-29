@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Argentina.",
-  "num_followers": 126184,
+  "num_followers": 126187,
   "original_name": "Viral 50 - Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ljhd8AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LjmvcAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "Meninos Do Favela",
         "url": "https://open.spotify.com/album/6oamJM64EV5MH8Na9jVckf"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/6rEEOtgl9W9oEfJZ6Rvqt7"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "Ohnana",
         "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "Yamore",
         "url": "https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "Samba de Raiz - Ao Vivo, Vol. 2",
         "url": "https://open.spotify.com/album/025CDSYsJnhxdS5o3BDvk9"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/1IXlKFVhuqqz4JACzcxNBm"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "WYA REMIX RED",
         "url": "https://open.spotify.com/album/4KparoC39Qn5NatBrMA7nN"
@@ -129,7 +129,23 @@
       "url": "https://open.spotify.com/track/4YnmQG1fnJR9LnTZtix70T"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
+      "album": {
+        "name": "en la cara",
+        "url": "https://open.spotify.com/album/7sxTayioFWNwuZlNPwGzGS"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "duration_ms": 157746,
+      "name": "en la cara",
+      "url": "https://open.spotify.com/track/0Xn0NaJ2eqT7yWChjfy2E6"
+    },
+    {
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/4ENi7P1IV01E2jzbHZeKxn"
@@ -149,7 +165,7 @@
       "url": "https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "Batid\u00e3o Tropical Vol. 2",
         "url": "https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw"
@@ -165,23 +181,23 @@
       "url": "https://open.spotify.com/track/2BYQzRnQvFvLwfJSLYQjfn"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
       "album": {
-        "name": "en la cara",
-        "url": "https://open.spotify.com/album/7sxTayioFWNwuZlNPwGzGS"
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
       },
       "artists": [
         {
-          "name": "Olivia Wald",
-          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 157746,
-      "name": "en la cara",
-      "url": "https://open.spotify.com/track/0Xn0NaJ2eqT7yWChjfy2E6"
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "Te Gusto Este Bambini",
         "url": "https://open.spotify.com/album/3ELhNYh2QWlpis2MbrwiDo"
@@ -201,23 +217,7 @@
       "url": "https://open.spotify.com/track/7rE0wUkXgHp8vO5518kilM"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
-      "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
-    },
-    {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "HAY LUPITA",
         "url": "https://open.spotify.com/album/2VOwmlyJzRjfMfofsNHTtR"
@@ -233,7 +233,43 @@
       "url": "https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
+      "album": {
+        "name": "Tough",
+        "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 188828,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
+    },
+    {
+      "added_at": "2024-07-28 13:55:33",
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "Red (From \"Descendants: The Rise of Red\")",
         "url": "https://open.spotify.com/album/6M4QzYGKgF2nkZw9VztN0s"
@@ -257,27 +293,7 @@
       "url": "https://open.spotify.com/track/1AP7xueWwO5AakWFYzttpV"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
-      "album": {
-        "name": "Tough",
-        "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 188828,
-      "name": "Tough",
-      "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
-    },
-    {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "Cuando Te Vi | CROSSOVER #5",
         "url": "https://open.spotify.com/album/4u5sL85dlRv7eIMJIozZl8"
@@ -301,23 +317,7 @@
       "url": "https://open.spotify.com/track/3KeYEr9ogMBemsOfQIJmZp"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
-      "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "Ela Joga na Hora",
         "url": "https://open.spotify.com/album/30Ytb0PG1tOv7JiKOTBK2v"
@@ -361,51 +361,7 @@
       "url": "https://open.spotify.com/track/6hZGsChumRhWG24OEh698c"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
-      "album": {
-        "name": "MONTAGEM VOZES PROFUNDAS (Remixes)",
-        "url": "https://open.spotify.com/album/7AjQV13ch86ps6TKjBsuFS"
-      },
-      "artists": [
-        {
-          "name": "DJ MAXZZ",
-          "url": "https://open.spotify.com/artist/3rX0drWPVa50yFG3HqzX0T"
-        },
-        {
-          "name": "DJ JL3 DA ZN",
-          "url": "https://open.spotify.com/artist/68J0b3Hj9aurxWUiy9FUMu"
-        },
-        {
-          "name": "DJ CD 011",
-          "url": "https://open.spotify.com/artist/33wh7J44m0CrsAFj2LuRk2"
-        }
-      ],
-      "duration_ms": 144359,
-      "name": "MONTAGEM VOZES PROFUNDAS - Ultra Slowed",
-      "url": "https://open.spotify.com/track/3o3dIYuLIZfAO2kXP3eXrN"
-    },
-    {
-      "added_at": "2024-07-27 13:12:14",
-      "album": {
-        "name": "OBSESION",
-        "url": "https://open.spotify.com/album/3KLHAyROec3XqgSVfoDIEr"
-      },
-      "artists": [
-        {
-          "name": "sebastian caviglia",
-          "url": "https://open.spotify.com/artist/1WPfYl0ebRojdPeBwhjbTD"
-        },
-        {
-          "name": "Martin Moreno",
-          "url": "https://open.spotify.com/artist/59h2d6LEgTjC8LUySW54EA"
-        }
-      ],
-      "duration_ms": 154357,
-      "name": "OBSESION",
-      "url": "https://open.spotify.com/track/6pgOuDUSkDpfcP0fr6dLmI"
-    },
-    {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
@@ -437,7 +393,47 @@
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
+      "album": {
+        "name": "MONTAGEM VOZES PROFUNDAS (Remixes)",
+        "url": "https://open.spotify.com/album/7AjQV13ch86ps6TKjBsuFS"
+      },
+      "artists": [
+        {
+          "name": "DJ MAXZZ",
+          "url": "https://open.spotify.com/artist/3rX0drWPVa50yFG3HqzX0T"
+        },
+        {
+          "name": "DJ JL3 DA ZN",
+          "url": "https://open.spotify.com/artist/68J0b3Hj9aurxWUiy9FUMu"
+        },
+        {
+          "name": "DJ CD 011",
+          "url": "https://open.spotify.com/artist/33wh7J44m0CrsAFj2LuRk2"
+        }
+      ],
+      "duration_ms": 144359,
+      "name": "MONTAGEM VOZES PROFUNDAS - Ultra Slowed",
+      "url": "https://open.spotify.com/track/3o3dIYuLIZfAO2kXP3eXrN"
+    },
+    {
+      "added_at": "2024-07-28 13:55:33",
+      "album": {
+        "name": "Oye Mi Canto Guaracha",
+        "url": "https://open.spotify.com/album/5sGlwEQyUHzW3ohb0GzL2i"
+      },
+      "artists": [
+        {
+          "name": "Fabi Menez",
+          "url": "https://open.spotify.com/artist/7dL9ZUjlaKo7LvE3UbREA1"
+        }
+      ],
+      "duration_ms": 231401,
+      "name": "Oye Mi Canto Guaracha",
+      "url": "https://open.spotify.com/track/1sZ0HE2HGJZVIFVkMFLXqe"
+    },
+    {
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "Antes de Noviembre",
         "url": "https://open.spotify.com/album/253XbefR2k5K8z8W3YUiXN"
@@ -453,7 +449,23 @@
       "url": "https://open.spotify.com/track/4VPRZa1iFBKaN6v9v9vKcs"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
+    },
+    {
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
@@ -473,7 +485,27 @@
       "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
+      "album": {
+        "name": "OBSESION",
+        "url": "https://open.spotify.com/album/3KLHAyROec3XqgSVfoDIEr"
+      },
+      "artists": [
+        {
+          "name": "sebastian caviglia",
+          "url": "https://open.spotify.com/artist/1WPfYl0ebRojdPeBwhjbTD"
+        },
+        {
+          "name": "Martin Moreno",
+          "url": "https://open.spotify.com/artist/59h2d6LEgTjC8LUySW54EA"
+        }
+      ],
+      "duration_ms": 154357,
+      "name": "OBSESION",
+      "url": "https://open.spotify.com/track/6pgOuDUSkDpfcP0fr6dLmI"
+    },
+    {
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "The girl, so confusing version with lorde",
         "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
@@ -493,23 +525,7 @@
       "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
-      "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 157146,
-      "name": "I Love You, I'm Sorry",
-      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
-    },
-    {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "Con Carpusa & De Cayetano",
         "url": "https://open.spotify.com/album/611i2e0Q1kQG8AEOPCbI4o"
@@ -525,7 +541,7 @@
       "url": "https://open.spotify.com/track/7LObVUWVLHGG3iSrVUarmu"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "SAN TURRONA",
         "url": "https://open.spotify.com/album/0Fp8YIrA3udbfxtjtC6PJd"
@@ -541,27 +557,7 @@
       "url": "https://open.spotify.com/track/0EOynYGvn9TbAyKPyMAStL"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
-      "album": {
-        "name": "Tengo Un Plan (Remix)",
-        "url": "https://open.spotify.com/album/13CfzKNWzSAkJj6nsFadsQ"
-      },
-      "artists": [
-        {
-          "name": "Key-Key",
-          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 215448,
-      "name": "Tengo Un Plan - Remix",
-      "url": "https://open.spotify.com/track/6SJ01hvFkBLTUnkLyZ72G5"
-    },
-    {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "Si las Luces Se Apagaran",
         "url": "https://open.spotify.com/album/0rC1oCYMMpLwTO6UB1s43l"
@@ -577,7 +573,7 @@
       "url": "https://open.spotify.com/track/04CaORISAYMJV4ONCOvl82"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "Kyoto",
         "url": "https://open.spotify.com/album/6YOCVR0kA8mO2nWE8LINKa"
@@ -601,23 +597,27 @@
       "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
       "album": {
-        "name": "Bando Stone and The New World",
-        "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r"
+        "name": "Tengo Un Plan (Remix)",
+        "url": "https://open.spotify.com/album/13CfzKNWzSAkJj6nsFadsQ"
       },
       "artists": [
         {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "Key-Key",
+          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 178960,
-      "name": "Lithonia",
-      "url": "https://open.spotify.com/track/3uC4r2daXertBxxc8BpbbN"
+      "duration_ms": 215448,
+      "name": "Tengo Un Plan - Remix",
+      "url": "https://open.spotify.com/track/6SJ01hvFkBLTUnkLyZ72G5"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "Real Bandido",
         "url": "https://open.spotify.com/album/2UlS3K0dR5Kmm5lxcyqtDY"
@@ -637,7 +637,23 @@
       "url": "https://open.spotify.com/track/4OXTtJdQSklCMFyU0D0yoB"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
+      "album": {
+        "name": "Bando Stone and The New World",
+        "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 178960,
+      "name": "Lithonia",
+      "url": "https://open.spotify.com/track/3uC4r2daXertBxxc8BpbbN"
+    },
+    {
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
@@ -669,47 +685,23 @@
       "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
       "album": {
-        "name": "ES NORMAL (GUARACHA)",
-        "url": "https://open.spotify.com/album/6ebSKEeuhl5IGjjyds2On0"
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
       "artists": [
         {
-          "name": "facunditoo deejay",
-          "url": "https://open.spotify.com/artist/1eKpfktBWFXMmGr18oYDGL"
-        },
-        {
-          "name": "Keller dj",
-          "url": "https://open.spotify.com/artist/2lj48ysZmQINjPT8rp4cRP"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 127255,
-      "name": "ES NORMAL (GUARACHA)",
-      "url": "https://open.spotify.com/track/2i3uPNxpI2I1bfQvSXYoDy"
+      "duration_ms": 151739,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
-      "album": {
-        "name": "EL RITMO QUE NOS UNE (feat. Selecci\u00f3n Colombia)",
-        "url": "https://open.spotify.com/album/6gHvLYdqKPaiCXK92crXFR"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
-        }
-      ],
-      "duration_ms": 189795,
-      "name": "EL RITMO QUE NOS UNE - feat. Selecci\u00f3n Colombia",
-      "url": "https://open.spotify.com/track/79IBoMfFn67UI15YkP1FSp"
-    },
-    {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "Perdonarte, \u00bfPara Qu\u00e9?",
         "url": "https://open.spotify.com/album/1fXZxmn9aUIo5Zjx8zQFol"
@@ -729,55 +721,7 @@
       "url": "https://open.spotify.com/track/4dLLdfiniBhDP9dlJQIOi4"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
-      "album": {
-        "name": "Nunca Me Amo (Guarachetamix)",
-        "url": "https://open.spotify.com/album/4vuh4MQmWwgkLf8wyd2nD5"
-      },
-      "artists": [
-        {
-          "name": "Blaster DJ",
-          "url": "https://open.spotify.com/artist/04tXa59qDOMrlU6mWs6aqT"
-        }
-      ],
-      "duration_ms": 195385,
-      "name": "Nunca Me Amo - Guarachetamix",
-      "url": "https://open.spotify.com/track/0tUVUDxp2I8RXQ1HSWpLg1"
-    },
-    {
-      "added_at": "2024-07-27 13:12:14",
-      "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186365,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
-    },
-    {
-      "added_at": "2024-07-27 13:12:14",
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151739,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
-    },
-    {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "Lobster",
         "url": "https://open.spotify.com/album/5OkXmwhtsqoqrWaFKGUSOV"
@@ -793,7 +737,59 @@
       "url": "https://open.spotify.com/track/02RJmcMqkQqbU1WamaJNid"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
+      "album": {
+        "name": "ES NORMAL (GUARACHA)",
+        "url": "https://open.spotify.com/album/6ebSKEeuhl5IGjjyds2On0"
+      },
+      "artists": [
+        {
+          "name": "facunditoo deejay",
+          "url": "https://open.spotify.com/artist/1eKpfktBWFXMmGr18oYDGL"
+        },
+        {
+          "name": "Keller dj",
+          "url": "https://open.spotify.com/artist/2lj48ysZmQINjPT8rp4cRP"
+        }
+      ],
+      "duration_ms": 127255,
+      "name": "ES NORMAL (GUARACHA)",
+      "url": "https://open.spotify.com/track/2i3uPNxpI2I1bfQvSXYoDy"
+    },
+    {
+      "added_at": "2024-07-28 13:55:33",
+      "album": {
+        "name": "Nunca Me Amo (Guarachetamix)",
+        "url": "https://open.spotify.com/album/4vuh4MQmWwgkLf8wyd2nD5"
+      },
+      "artists": [
+        {
+          "name": "Blaster DJ",
+          "url": "https://open.spotify.com/artist/04tXa59qDOMrlU6mWs6aqT"
+        }
+      ],
+      "duration_ms": 195385,
+      "name": "Nunca Me Amo - Guarachetamix",
+      "url": "https://open.spotify.com/track/0tUVUDxp2I8RXQ1HSWpLg1"
+    },
+    {
+      "added_at": "2024-07-28 13:55:33",
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
+    },
+    {
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "JOYRIDE",
         "url": "https://open.spotify.com/album/145ynqxpTLjXrU5qvER4ea"
@@ -809,7 +805,23 @@
       "url": "https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 174507,
+      "name": "Girl, so confusing",
+      "url": "https://open.spotify.com/track/41krZZovstMJKeJZJtbL78"
+    },
+    {
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "Not My Problem (Flyer Than U)",
         "url": "https://open.spotify.com/album/6G6eCUDFNO5A8rgWrxKddR"
@@ -825,7 +837,7 @@
       "url": "https://open.spotify.com/track/1T6dUV1mqXyA2bSP3lK0IZ"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "SOLTERO",
         "url": "https://open.spotify.com/album/1QGuXd9G1ymlQMq50ofEek"
@@ -853,7 +865,27 @@
       "url": "https://open.spotify.com/track/7ytAHohytO1TxO9yF5vn7d"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
+      "album": {
+        "name": "EL RITMO QUE NOS UNE (feat. Selecci\u00f3n Colombia)",
+        "url": "https://open.spotify.com/album/6gHvLYdqKPaiCXK92crXFR"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "duration_ms": 189795,
+      "name": "EL RITMO QUE NOS UNE - feat. Selecci\u00f3n Colombia",
+      "url": "https://open.spotify.com/track/79IBoMfFn67UI15YkP1FSp"
+    },
+    {
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "Madison (Aleteo, Guaracha)",
         "url": "https://open.spotify.com/album/02Y0J9uG4kSJ5AAFBJ8qSK"
@@ -869,27 +901,7 @@
       "url": "https://open.spotify.com/track/6FA6sx2Z3GqmaVsKAIJRg0"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        },
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 182840,
-      "name": "Smeraldo Garden Marching Band (feat. Loco)",
-      "url": "https://open.spotify.com/track/1agDCV4zQqaFwJQNsTgmL1"
-    },
-    {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "Tu Foto",
         "url": "https://open.spotify.com/album/2zsRRXZwCOTRvF8r2m7TRv"
@@ -909,7 +921,7 @@
       "url": "https://open.spotify.com/track/3cWo162YkfLIFyB3DWbVoH"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "EL \u00daLTIMO BAILE",
         "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
@@ -925,7 +937,23 @@
       "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
     },
     {
-      "added_at": "2024-07-27 13:12:14",
+      "added_at": "2024-07-28 13:55:33",
+      "album": {
+        "name": "LET THE WORLD BURN",
+        "url": "https://open.spotify.com/album/5QytORVSwlSBhDtikzvcV5"
+      },
+      "artists": [
+        {
+          "name": "Chris Grey",
+          "url": "https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG"
+        }
+      ],
+      "duration_ms": 163290,
+      "name": "LET THE WORLD BURN",
+      "url": "https://open.spotify.com/track/1De425SCFJULIHbcmeebUw"
+    },
+    {
+      "added_at": "2024-07-28 13:55:33",
       "album": {
         "name": "EXTRA",
         "url": "https://open.spotify.com/album/2WphhHzujB2jSv4b4UccPM"
@@ -939,50 +967,6 @@
       "duration_ms": 151240,
       "name": "EXTRA",
       "url": "https://open.spotify.com/track/3UM7hJZDNLVmTriIcWBzZ8"
-    },
-    {
-      "added_at": "2024-07-27 13:12:14",
-      "album": {
-        "name": "Loquita (Remix)",
-        "url": "https://open.spotify.com/album/0jhYJp2HjjXL4Qr30p8THp"
-      },
-      "artists": [
-        {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        },
-        {
-          "name": "Los Turros",
-          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
-        },
-        {
-          "name": "DobleP",
-          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
-        },
-        {
-          "name": "Cristian Di Marco",
-          "url": "https://open.spotify.com/artist/1NtRGHzfJ8H7dENIXu1tdk"
-        }
-      ],
-      "duration_ms": 209846,
-      "name": "Loquita - Remix",
-      "url": "https://open.spotify.com/track/2N0hVk2Ant8751xPZUjCV2"
-    },
-    {
-      "added_at": "2024-07-27 13:12:14",
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 174507,
-      "name": "Girl, so confusing",
-      "url": "https://open.spotify.com/track/41krZZovstMJKeJZJtbL78"
     }
   ],
   "unique_name": "Viral 50 - Argentina",

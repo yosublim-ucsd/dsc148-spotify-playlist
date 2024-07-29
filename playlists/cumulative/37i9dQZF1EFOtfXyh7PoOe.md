@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-116 songs - 5 hr 38 min
+117 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Off Days](https://open.spotify.com/track/3cyTJ6e9s2JLuOgL3nY8Fb) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Off Days](https://open.spotify.com/album/3ExLiwDPx664c2RqWJbqNr) | 2:49 | 2024-06-13 |  |
 | [Oh Child](https://open.spotify.com/track/77VLYTyrdlHEWcjhjQoXlz) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Uncovered](https://open.spotify.com/album/4iu0toRdSjyU0qIdKTWMoY) | 3:17 | 2024-06-13 |  |
 | [Only You \(with Little Mix\)](https://open.spotify.com/track/54l9GJGQ1UCFKe2tzt1Vxt) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Only You \(with Little Mix\)](https://open.spotify.com/album/4DmPCrBlJGedbs6GW7EQ1m) | 3:09 | 2024-06-13 |  |
-| [phones in heaven](https://open.spotify.com/track/18xwBmM2Xa8gJzaU0fYoiX) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [phones in heaven](https://open.spotify.com/album/2v7JtVCBL54vchN6JkYyTv) | 2:17 | 2024-06-13 |  |
+| [phones in heaven](https://open.spotify.com/track/18xwBmM2Xa8gJzaU0fYoiX) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [phones in heaven](https://open.spotify.com/album/2v7JtVCBL54vchN6JkYyTv) | 2:17 | 2024-06-13 | 2024-07-29 |
+| [phones in heaven](https://open.spotify.com/track/7vGaC9ntTMniIqdBeu1h6m) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [hi, my name is insecure.](https://open.spotify.com/album/0eMtRVx589kCihum41ixGw) | 2:17 | 2024-07-28 |  |
 | [Porn Lied To Us](https://open.spotify.com/track/3pC29aMxTQQpcmqMfRWjce) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI) | 2:35 | 2024-06-13 |  |
 | [Pray for Rain](https://open.spotify.com/track/1T6yWVW5ftl0NQqJHgFQSP) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Pray For Rain](https://open.spotify.com/album/6ZoTp37vsTqhkbfwq5vIao) | 3:31 | 2024-06-13 |  |
 | [Radio](https://open.spotify.com/track/5vV9BdGnoBvfoCLThYfaSJ) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [Just for the Times](https://open.spotify.com/album/751FUQcmvpQEinjZhTOLHH) | 3:28 | 2024-06-13 |  |

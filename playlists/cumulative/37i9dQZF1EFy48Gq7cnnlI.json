@@ -518,10 +518,28 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 176533,
       "name": "Everywhere I Go",
       "url": "https://open.spotify.com/track/0QrzN1zybGPr27X6NAkUH6"
+    },
+    {
+      "album": {
+        "name": "Never Better",
+        "url": "https://open.spotify.com/album/6jOix6QfFFmpNXx3to7Sct"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "date_added": "2024-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176533,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/1dxA5RleRQ8yu0VA1TXJLY"
     },
     {
       "album": {

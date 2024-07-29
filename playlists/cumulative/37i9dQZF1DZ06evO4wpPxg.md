@@ -2,7 +2,7 @@
 
 ### [This Is Rev\. Gary Davis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wpPxg)
 
-> This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
+> This Is Rev\. Gary Davis\. Los temas esenciales, todos en una lista.
 
 308 songs - 19 hr 16 min
 
@@ -113,7 +113,7 @@
 | [I Want to Be Saved](https://open.spotify.com/track/3aSIzj6A54uukUV2BDGHY1) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 4:10 | 2023-06-10 | 2023-07-17 |
 | [I Want to Be Saved](https://open.spotify.com/track/7nIhfz1xF04OUP7sipezbE) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Live at Gerde's Folk City](https://open.spotify.com/album/77yewiXMWhT8uzrV0LiQKC) | 4:14 | 2022-10-09 | 2022-10-11 |
 | [I Will Do My Last Singing In This Land Somewhere](https://open.spotify.com/track/38InrNLMh7cRIzUSd8Z9cd) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Newport](https://open.spotify.com/album/0hzGNlXzRtBOgcDaaricsc) | 5:32 | 2022-05-25 | 2022-09-09 |
-| [I Will Do My Last Singing In This Land Somewhere \- Live](https://open.spotify.com/track/7BAQwosh8trsBlifQL83hk) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Folk Music At Newport](https://open.spotify.com/album/7MveVlx4cgdTfWWxTVS2no) | 4:49 | 2022-09-11 | 2024-07-23 |
+| [I Will Do My Last Singing In This Land Somewhere \- Live](https://open.spotify.com/track/7BAQwosh8trsBlifQL83hk) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Folk Music At Newport](https://open.spotify.com/album/7MveVlx4cgdTfWWxTVS2no) | 4:49 | 2022-09-11 |  |
 | [I Won't Be Back No More \- Live At The Newport Folk Festival 1959 \- 1964](https://open.spotify.com/track/2m8xe2l7ZV7KJuYO5EMaj8) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Newport](https://open.spotify.com/album/0hzGNlXzRtBOgcDaaricsc) | 3:42 | 2022-05-26 | 2022-11-07 |
 | [I Won't Be Back No More \- Live At The Newport Folk Festival 1959 \- 1964](https://open.spotify.com/track/7j9BzjJNU1oMXlSnrYT1kQ) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Blues At Newport \(Live At The Newport Folk Festival 1959 \- 1964\)](https://open.spotify.com/album/1kSpcx0GAKoChdBtwDGBwk) | 3:42 | 2023-02-06 | 2023-07-03 |
 | [I Wonder What's Become of Sally](https://open.spotify.com/track/0L1vFdrdor5z9ekkoVG9KQ) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [See What the Lord Has Done for Me](https://open.spotify.com/album/5uzA87eKTQ5p9pYbnptf8x) | 4:03 | 2022-10-13 | 2022-12-29 |
@@ -280,7 +280,7 @@
 | [Tryin' To Get To Heaven In Due Time](https://open.spotify.com/track/1rf5Hq6UjxScYRwnZ1TBne) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Say No To The Devil](https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe) | 4:24 | 2022-05-25 |  |
 | [Trying to Get to Heaven](https://open.spotify.com/track/1ziyI723U16MUGPqsTlDOi) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Live at Gerde's Folk City](https://open.spotify.com/album/77yewiXMWhT8uzrV0LiQKC) | 4:17 | 2023-05-07 | 2023-05-09 |
 | [Twelve Gates To The City](https://open.spotify.com/track/1ayfBCPk1WtaelzZWGyYti) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Harlem Street Singer](https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr) | 3:09 | 2022-05-27 |  |
-| [Twelve Sticks](https://open.spotify.com/track/1VxkIVUmuDcLvnpDEoTmOc) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Bluegrass Instrumentals](https://open.spotify.com/album/2MlyrwBNGdZgDUaBCbgGbq) | 3:14 | 2022-05-25 |  |
+| [Twelve Sticks](https://open.spotify.com/track/1VxkIVUmuDcLvnpDEoTmOc) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Bluegrass Instrumentals](https://open.spotify.com/album/2MlyrwBNGdZgDUaBCbgGbq) | 3:14 | 2022-05-25 | 2024-07-29 |
 | [Two Step Candyman](https://open.spotify.com/track/2TdngC43Kzf0Z2toVu3adP) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 2:51 | 2022-05-28 | 2024-04-24 |
 | [Two\-Step](https://open.spotify.com/track/56WKvciu3HfYsOAeV4QWfK) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Sun of Our Life](https://open.spotify.com/album/7hkJw6i6XwChUUCWlJVYtR) | 3:41 | 2023-01-31 | 2024-04-02 |
 | [United States March \(Soldier's Drill\) \- Instrumental](https://open.spotify.com/track/5VnTgyxelyGYKapBOhfCr7) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Guitar And Banjo Of Reverend Gary Davis](https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ) | 6:29 | 2022-05-26 | 2022-10-13 |

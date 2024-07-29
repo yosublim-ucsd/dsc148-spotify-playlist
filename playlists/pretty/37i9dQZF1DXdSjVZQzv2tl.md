@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Gusttavo Lima
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,699,962 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,700,822 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 14 | [Deu Moral \- Ao Vivo](https://open.spotify.com/track/0WiJIa3V9GdcJfcy1FhLjp) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Deu Moral \(Ao Vivo\)](https://open.spotify.com/album/15pXNSKEOHeM0sN1NMtPzy) | 2:02 |
 | 15 | [Dois Tristes \- Ao Vivo](https://open.spotify.com/track/4kQbzdZLAeqlrw3y7o4k3i) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cantando Sua História \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/14BMySBTWlLEkqQcUEpdtk) | 3:09 |
 | 16 | [FALTA DE QUÊ?](https://open.spotify.com/track/6hNREzgHbVM5AkGwP4SPmU) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [FALTA DE QUÊ?](https://open.spotify.com/album/0Dq8h1ncJUPjvgSbhF2DPt) | 2:32 |
-| 17 | [Nem a Pau \(feat\. Simone Mendes\) \- Ao Vivo](https://open.spotify.com/track/6u9tu5yRDTHpWlY86J1GDa) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Nem a Pau \(feat\. Simone Mendes\) \[Ao Vivo\]](https://open.spotify.com/album/2YD9sBbLCikn0C7ZHLZmjm) | 2:41 |
+| 17 | [Nem a Pau \(feat\. Simone Mendes\)](https://open.spotify.com/track/6u9tu5yRDTHpWlY86J1GDa) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Nem a Pau \(feat\. Simone Mendes\)](https://open.spotify.com/album/2YD9sBbLCikn0C7ZHLZmjm) | 2:41 |
 | 18 | [Sonho Dela \(Cowboy\)](https://open.spotify.com/track/6W196uVRkmQFHbc1XV8DNk) | [CountryBeat](https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk), [Félix](https://open.spotify.com/artist/3KdqkzCC6uPPxW3ZV9vLtT), [Léo Souzza](https://open.spotify.com/artist/32q95UvnNYSiflLio02DnS) | [Sonho Dela \(Cowboy\)](https://open.spotify.com/album/7Msie9nqF5903P39GV4lGq) | 1:53 |
 | 19 | [Dedo do Meio \- Ao Vivo](https://open.spotify.com/track/2ORC76autQ7QTfBCkZl4Wo) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Fortaleza, Vol.2 \(Ao Vivo\)](https://open.spotify.com/album/6t2JyS8CJ0pgBMabJhXWGK) | 2:47 |
 | 20 | [Aproveita \- Ao Vivo](https://open.spotify.com/track/368hYqtNCKCAeUduMoSHhh) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Ao Vivo Em Brasília \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/0B0FhGwHWbamcfAuUo4nNt) | 2:27 |

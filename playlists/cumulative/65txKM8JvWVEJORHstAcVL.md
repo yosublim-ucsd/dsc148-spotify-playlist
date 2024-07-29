@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md) - cumulative - [plain](/playlists/plain/65txKM8JvWVEJORHstAcVL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/65txKM8JvWVEJORHstAcVL)
 
-### [LA LLISTA DE FLAIXBAC \(21/7/2024\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
+### [LA LLISTA DE FLAIXBAC \(28/7/2024\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-86 songs - 4 hr 17 min
+87 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-02 |  |
 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-04-14 |  |
 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-07-14 |  |
+| [Fire \- Official UEFA EURO 2024 Song](https://open.spotify.com/track/7MYLHLCf0YWR4TVs3owDny) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Fire \(Official UEFA EURO 2024 Song\)](https://open.spotify.com/album/7qNPp8Jh4LzA0pEMNiTcNQ) | 2:48 | 2024-07-28 |  |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-10-29 | 2024-06-10 |
 | [Grup de Pop](https://open.spotify.com/track/22GaUTgtNuKfMQ34jaL7yk) | [Sexenni](https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR), [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [Grup de Pop](https://open.spotify.com/album/7cozVZjZdH5MZFwlOWcLVn) | 2:22 | 2024-03-10 | 2024-07-22 |
 | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/track/1TXbPx0WUaJM0fjDVs4wCD) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/album/7tm57crYhN6WvRfB51A7Up) | 3:03 | 2023-10-29 | 2024-03-25 |
@@ -78,7 +79,7 @@
 | [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p) | 3:05 | 2024-03-17 |  |
 | [Thelma & Louise](https://open.spotify.com/track/7m8aetuFspDvP5GXhVJBQx) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp), [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Thelma & Louise](https://open.spotify.com/album/2YTB67om6z9VDi94wTPdjT) | 2:41 | 2024-03-17 | 2024-07-01 |
 | [to lo ke](https://open.spotify.com/track/6aIXhiqT4Oec2VY1tPky8G) | [Stay Homas](https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [to lo ke](https://open.spotify.com/album/5lMTXM5AoxKNTAS084MQb0) | 2:46 | 2024-07-21 |  |
-| [Today is the day](https://open.spotify.com/track/0kCwogCcYRnmgVnaowyYBF) | [Buhos](https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR), [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI) | [Today is the day](https://open.spotify.com/album/4Xs5q0nlVwnfel2mgfUK8t) | 2:50 | 2024-04-14 |  |
+| [Today is the day](https://open.spotify.com/track/0kCwogCcYRnmgVnaowyYBF) | [Buhos](https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR), [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI) | [Today is the day](https://open.spotify.com/album/4Xs5q0nlVwnfel2mgfUK8t) | 2:50 | 2024-04-14 | 2024-07-29 |
 | [TORNAR](https://open.spotify.com/track/65EFsbz7V4seWa9mNpWjeN) | [La Fúmiga](https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz) | [TORNAR](https://open.spotify.com/album/6dzk7KpVSmhTHjmhtomhER) | 2:49 | 2023-12-10 | 2024-04-15 |
 | [Tornem a casa](https://open.spotify.com/track/7bc9WLunD2VxC2FxC3bKVB) | [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [Tornem a casa](https://open.spotify.com/album/3pSGOz6onFQ1hJtX9ugPCM) | 2:36 | 2023-11-26 | 2024-05-06 |
 | [TOTA LA VIDA](https://open.spotify.com/track/7ofUma7jeWAAc7AWMnvagX) | [Iglú](https://open.spotify.com/artist/4Wfi7bsHCX2jfKgYvwl4gO) | [TOTA LA VIDA](https://open.spotify.com/album/0rwWliQB70qlXeDgSE8lnJ) | 2:52 | 2024-02-11 | 2024-04-29 |

@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 155804,
+  "num_followers": 155845,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Aquamosh",
         "url": "https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk"
       },
@@ -159,34 +143,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "El Segundo Es Felino",
-        "url": "https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe"
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
       "artists": [
         {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 248773,
-      "name": "Man\u00eda Cardiaca",
-      "url": "https://open.spotify.com/track/7rhKh1Ool2Yel5JXmiemZB"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "D\u00edas De Fuego",
-        "url": "https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX"
-      },
-      "artists": [
-        {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
-        }
-      ],
-      "duration_ms": 185640,
-      "name": "D\u00edas De Fuego",
-      "url": "https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE"
+      "duration_ms": 239226,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -207,6 +175,38 @@
       "duration_ms": 221390,
       "name": "Respiro (Cap. 8)",
       "url": "https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "D\u00edas De Fuego",
+        "url": "https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "duration_ms": 185640,
+      "name": "D\u00edas De Fuego",
+      "url": "https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "El Segundo Es Felino",
+        "url": "https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 248773,
+      "name": "Man\u00eda Cardiaca",
+      "url": "https://open.spotify.com/track/7rhKh1Ool2Yel5JXmiemZB"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -243,18 +243,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Fruta (Vol. II)",
-        "url": "https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP"
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
       "artists": [
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 193626,
-      "name": "Palmar",
-      "url": "https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz"
+      "duration_ms": 240120,
+      "name": "Algo Est\u00e1 Cambiando",
+      "url": "https://open.spotify.com/track/7mJG18yZGq0aXKWNtK3FQf"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -295,18 +295,34 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+        "name": "Fruta (Vol. II)",
+        "url": "https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP"
       },
       "artists": [
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 240120,
-      "name": "Algo Est\u00e1 Cambiando",
-      "url": "https://open.spotify.com/track/7mJG18yZGq0aXKWNtK3FQf"
+      "duration_ms": 193626,
+      "name": "Palmar",
+      "url": "https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Mediocre [Edici\u00f3n Especial]",
+        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "Vidas Paralelas",
+      "url": "https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -331,34 +347,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Mediocre [Edici\u00f3n Especial]",
-        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
+        "name": "Kinky (Remastered)",
+        "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
       },
       "artists": [
         {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
         }
       ],
-      "duration_ms": 237386,
-      "name": "Vidas Paralelas",
-      "url": "https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Donde los Ponys Pastan",
-        "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
-      },
-      "artists": [
-        {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        }
-      ],
-      "duration_ms": 322013,
-      "name": "Espiral",
-      "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
+      "duration_ms": 191000,
+      "name": "Soun Tha Mi Primer Amor - Remastered",
+      "url": "https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Kinky (Remastered)",
-        "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
+        "name": "Donde los Ponys Pastan",
+        "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
       },
       "artists": [
         {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Soun Tha Mi Primer Amor - Remastered",
-      "url": "https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ"
+      "duration_ms": 322013,
+      "name": "Espiral",
+      "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "The Room",
+        "url": "https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 286573,
+      "name": "Dead",
+      "url": "https://open.spotify.com/track/0qy3tNhBzyxKxcOqCczcVX"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Correspondencia",
         "url": "https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa"
       },
@@ -543,6 +559,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Efecto Domin\u00f3",
+        "url": "https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb"
+      },
+      "artists": [
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        }
+      ],
+      "duration_ms": 217911,
+      "name": "Querer",
+      "url": "https://open.spotify.com/track/49drBO7rVHCvJjcb9Rmekf"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Millonaria",
         "url": "https://open.spotify.com/album/3IbOWCON3FLtK3Yp7ZBC6A"
       },
@@ -555,22 +587,6 @@
       "duration_ms": 220478,
       "name": "Why?",
       "url": "https://open.spotify.com/track/1QyPYtnOVwmprWCjVgPo1Q"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "The Room",
-        "url": "https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 286573,
-      "name": "Dead",
-      "url": "https://open.spotify.com/track/0qy3tNhBzyxKxcOqCczcVX"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -607,22 +623,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Moctezuma",
-        "url": "https://open.spotify.com/album/70nk1mvQAQ1Tpf6j7gudRW"
-      },
-      "artists": [
-        {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        }
-      ],
-      "duration_ms": 345199,
-      "name": "Palapa",
-      "url": "https://open.spotify.com/track/2vofpKYoBvc2uiV2yHYrHW"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "\u00c9pocas",
         "url": "https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M"
       },
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Efecto Domin\u00f3",
-        "url": "https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb"
+        "name": "Moctezuma",
+        "url": "https://open.spotify.com/album/70nk1mvQAQ1Tpf6j7gudRW"
       },
       "artists": [
         {
-          "name": "Chetes",
-          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
         }
       ],
-      "duration_ms": 217911,
-      "name": "Querer",
-      "url": "https://open.spotify.com/track/49drBO7rVHCvJjcb9Rmekf"
+      "duration_ms": 345199,
+      "name": "Palapa",
+      "url": "https://open.spotify.com/track/2vofpKYoBvc2uiV2yHYrHW"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Kiosko",
-        "url": "https://open.spotify.com/album/3pTfNraLlf2tDpMQsrJgxY"
+        "name": "Bengala",
+        "url": "https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA"
       },
       "artists": [
         {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+          "name": "Bengala",
+          "url": "https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ"
         }
       ],
-      "duration_ms": 253501,
-      "name": "Kiosko",
-      "url": "https://open.spotify.com/track/7qix8lqLAvHAInf3Xq1TU3"
+      "duration_ms": 187600,
+      "name": "Miente",
+      "url": "https://open.spotify.com/track/1gA2JKymFK2wqvNKbiZmjl"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Bengala",
-        "url": "https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA"
-      },
-      "artists": [
-        {
-          "name": "Bengala",
-          "url": "https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ"
-        }
-      ],
-      "duration_ms": 187600,
-      "name": "Miente",
-      "url": "https://open.spotify.com/track/1gA2JKymFK2wqvNKbiZmjl"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Muchacha",
         "url": "https://open.spotify.com/album/47RB07x4FAdJZhkyNTEbPH"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 180200,
       "name": "Muchacha",
       "url": "https://open.spotify.com/track/2AAyhPcURpf7LqoqsiKZ1N"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Kiosko",
+        "url": "https://open.spotify.com/album/3pTfNraLlf2tDpMQsrJgxY"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        }
+      ],
+      "duration_ms": 253501,
+      "name": "Kiosko",
+      "url": "https://open.spotify.com/track/7qix8lqLAvHAInf3Xq1TU3"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Lejos. No Tan Lejos",
-        "url": "https://open.spotify.com/album/3fRqZCJsKzxzshDULlN6WZ"
+        "name": "Norte",
+        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
       },
       "artists": [
         {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 212014,
-      "name": "Un A\u00f1o Quebrado",
-      "url": "https://open.spotify.com/track/5v6luZrMK75XQ8Kj64qklf"
+      "duration_ms": 285247,
+      "name": "Berl\u00edn",
+      "url": "https://open.spotify.com/track/4z55q1ocJQOiSwkFQAdUFO"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Lejos. No Tan Lejos",
+        "url": "https://open.spotify.com/album/3fRqZCJsKzxzshDULlN6WZ"
+      },
+      "artists": [
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        }
+      ],
+      "duration_ms": 212014,
+      "name": "Un A\u00f1o Quebrado",
+      "url": "https://open.spotify.com/track/5v6luZrMK75XQ8Kj64qklf"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "M\u00e9jico M\u00e1xico",
         "url": "https://open.spotify.com/album/70WPUwHcJq2pRObNPByUaV"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Norte",
-        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 285247,
-      "name": "Berl\u00edn",
-      "url": "https://open.spotify.com/track/4z55q1ocJQOiSwkFQAdUFO"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Mtv Unplugged",
         "url": "https://open.spotify.com/album/21BcXV7FQT8LVbqOpRUHJ8"
       },
@@ -1035,22 +1035,6 @@
       "duration_ms": 230346,
       "name": "Soun Tha Mi Primer Amor - Mtv Unplugged (En Vivo)",
       "url": "https://open.spotify.com/track/1s36ag5aYkHwoiAUGvZDPM"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Lejos. No Tan Lejos",
-        "url": "https://open.spotify.com/album/3fRqZCJsKzxzshDULlN6WZ"
-      },
-      "artists": [
-        {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
-        }
-      ],
-      "duration_ms": 248645,
-      "name": "Me Has Olvidado",
-      "url": "https://open.spotify.com/track/4KgnL2H3Phfc3SvJn3Ph7G"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1083,6 +1067,22 @@
       "duration_ms": 265440,
       "name": "No Puedo Parar",
       "url": "https://open.spotify.com/track/7cgKezuhwPqno56de3WkZC"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Lejos. No Tan Lejos",
+        "url": "https://open.spotify.com/album/3fRqZCJsKzxzshDULlN6WZ"
+      },
+      "artists": [
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        }
+      ],
+      "duration_ms": 248645,
+      "name": "Me Has Olvidado",
+      "url": "https://open.spotify.com/track/4KgnL2H3Phfc3SvJn3Ph7G"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Hipnosis",
-        "url": "https://open.spotify.com/album/2W0ZOxbxmxvzeWl1xSRjXR"
-      },
-      "artists": [
-        {
-          "name": "Chetes",
-          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
-        }
-      ],
-      "duration_ms": 374626,
-      "name": "Arena",
-      "url": "https://open.spotify.com/track/4ikqBzdldCYqaY56KFqD2B"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "El Techo es el Suelo",
         "url": "https://open.spotify.com/album/203Q63gFcoKrppI1TcQee1"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 280083,
       "name": "Dias Perfectos",
       "url": "https://open.spotify.com/track/4urHBS1qKGZ5b4TRDpsONJ"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Hipnosis",
+        "url": "https://open.spotify.com/album/2W0ZOxbxmxvzeWl1xSRjXR"
+      },
+      "artists": [
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        }
+      ],
+      "duration_ms": 374626,
+      "name": "Arena",
+      "url": "https://open.spotify.com/track/4ikqBzdldCYqaY56KFqD2B"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Sentado Aqu\u00ed",
-        "url": "https://open.spotify.com/album/07RCNt8nAEOaetIOiuLvNp"
-      },
-      "artists": [
-        {
-          "name": "Canseco",
-          "url": "https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5"
-        }
-      ],
-      "duration_ms": 260949,
-      "name": "Sentado Aqu\u00ed",
-      "url": "https://open.spotify.com/track/7w6hhryYUd8U75m4whPw5w"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Levantate Sakuraba",
         "url": "https://open.spotify.com/album/1Qbmbt6pxdVfgX8mwCeHGS"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 213626,
       "name": "Chubaca Tiene un Secreto",
       "url": "https://open.spotify.com/track/7KhY4LpnabTWYCoShC9k0Z"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Sentado Aqu\u00ed",
+        "url": "https://open.spotify.com/album/07RCNt8nAEOaetIOiuLvNp"
+      },
+      "artists": [
+        {
+          "name": "Canseco",
+          "url": "https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5"
+        }
+      ],
+      "duration_ms": 260949,
+      "name": "Sentado Aqu\u00ed",
+      "url": "https://open.spotify.com/track/7w6hhryYUd8U75m4whPw5w"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "La Fiesta de la Forma",
-        "url": "https://open.spotify.com/album/5HRqHWTveNLtgJ1jOqmDey"
-      },
-      "artists": [
-        {
-          "name": "Los Reyes del Falsete",
-          "url": "https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd"
-        }
-      ],
-      "duration_ms": 411960,
-      "name": "Mi Chica",
-      "url": "https://open.spotify.com/track/7tIFZKrcPgzNUKBEU3Dvkc"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Antolog\u00eda",
         "url": "https://open.spotify.com/album/5UDoOYylqlJqoitSCg2Cps"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 191520,
       "name": "Curse the Space",
       "url": "https://open.spotify.com/track/2Ryk5DzBoaJsIVtAUFfd95"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "La Fiesta de la Forma",
+        "url": "https://open.spotify.com/album/5HRqHWTveNLtgJ1jOqmDey"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes del Falsete",
+          "url": "https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd"
+        }
+      ],
+      "duration_ms": 411960,
+      "name": "Mi Chica",
+      "url": "https://open.spotify.com/track/7tIFZKrcPgzNUKBEU3Dvkc"
     },
     {
       "added_at": "2023-09-01 16:42:45",

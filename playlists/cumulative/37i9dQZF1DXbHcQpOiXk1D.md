@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: berlioz
 
-611 songs - 1 day 19 hr 22 min
+612 songs - 1 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [Labels](https://open.spotify.com/track/42MNRpMr4bwE5zIMzvcO3s) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Labels](https://open.spotify.com/album/1VmqCxNn7t42zRx566zVe7) | 5:21 | 2022-03-24 | 2022-07-26 |
 | [Lady \(Ezra Collective Version\)](https://open.spotify.com/track/7qxfxicaAE5DLMxXx0IvoG) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Lady \(Ezra Collective Version\)](https://open.spotify.com/album/4yw5JJgvqt2Lv8aT24tqK3) | 5:47 | 2023-01-13 | 2023-09-01 |
 | [Lady \- Ezra Collective Version](https://open.spotify.com/track/3pOT3YM1WPFsCyQIRgSBNP) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Lady \(Ezra Collective Version\)](https://open.spotify.com/album/3OuYAZDQ1dxL3GQcYbzc0Q) | 5:47 | 2023-09-01 | 2024-05-03 |
-| [Lagô](https://open.spotify.com/track/0pW0Hui92jkwKyE0PZh60c) | [wordsofAzia](https://open.spotify.com/artist/663EtY2EOQrh6XYQGYIdK7) | [Lagô](https://open.spotify.com/album/4zbxocEgsI9qu89vic9MaD) | 2:36 | 2024-07-18 |  |
+| [Lagô](https://open.spotify.com/track/0pW0Hui92jkwKyE0PZh60c) | [wordsofAzia](https://open.spotify.com/artist/663EtY2EOQrh6XYQGYIdK7) | [Lagô](https://open.spotify.com/album/4zbxocEgsI9qu89vic9MaD) | 2:36 | 2024-07-18 | 2024-07-29 |
 | [Last 100](https://open.spotify.com/track/39WFZVKifA8Fl2TZI2kp0S) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music](https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI) | 4:00 | 2021-12-17 | 2022-05-27 |
 | [Late Night People](https://open.spotify.com/track/0ChZqycePk8nspWcIfHuGy) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Voice Notes](https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs) | 5:34 | 2023-03-08 | 2023-03-09 |
 | [Late Night People](https://open.spotify.com/track/69y3XAgRaXrtO5h9YvpPHJ) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Late Night People](https://open.spotify.com/album/5pN3T9hCW6y9OKAgJnEYYo) | 5:34 | 2023-01-20 | 2024-05-24 |
@@ -384,6 +384,7 @@
 | [Ode Two](https://open.spotify.com/track/1CoNi5SlHAPZLGHsL57ril) | [Tanhai Collective](https://open.spotify.com/artist/26b6sds0w1dppBvAeSwv73) | [Ode Two](https://open.spotify.com/album/1tlMMViXebh8UtEkYOSJQk) | 5:11 | 2024-06-14 |  |
 | [Odysea](https://open.spotify.com/track/0eg7p0AvjI5NYzcoVBUuFM) | [Robohands](https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX) | [Shapes](https://open.spotify.com/album/0n3DBqRTXilI8glp9nSzGP) | 4:23 | 2021-12-17 | 2022-07-28 |
 | [Odysea](https://open.spotify.com/track/6ZyAq6U841lb0ukP5TibWB) | [Robohands](https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX) | [Shapes](https://open.spotify.com/album/7uTAl4dESGV2JyvUONqURW) | 4:23 | 2022-09-09 | 2022-11-18 |
+| [Old Cape Cod](https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Old Cape Cod](https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK) | 3:29 | 2024-07-18 |  |
 | [Old School Struggling](https://open.spotify.com/track/2GeFEgpn2YdmNhewoiSwa6) | [All Day Breakfast Cafe](https://open.spotify.com/artist/6SkaZXnui9pRC5pbA5jcXd) | [Old School Struggling](https://open.spotify.com/album/2RdXV3Y9nNfcW2rdMghNlU) | 3:30 | 2022-02-18 | 2022-07-14 |
 | [Olympus](https://open.spotify.com/track/75drB8mC9kdS43faubXluE) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [Olympus](https://open.spotify.com/album/3QDjp3P2RKTyIO5K2tcMKJ) | 6:12 | 2022-07-01 | 2022-07-28 |
 | [opedge](https://open.spotify.com/track/5Tzwhyt2mCcnCjlD1r5Fri) | [oreglo](https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt) | [Not Real People](https://open.spotify.com/album/7hepxRy2Sm9yrGoM2aWakU) | 6:58 | 2024-07-04 |  |

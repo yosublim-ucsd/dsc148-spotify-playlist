@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/7EYxnpva8IlIgJ42z96zXH.md) - cumulative - [plain](/playlists/plain/7EYxnpva8IlIgJ42z96zXH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7EYxnpva8IlIgJ42z96zXH)
 
-### [Hot Girl Workout \| Gym, Pilates, HIIT, Run Club 🍑](https://open.spotify.com/playlist/7EYxnpva8IlIgJ42z96zXH)
+### [Morning Workout \| Pilates, Gym, HIIT, Run Club 🍑](https://open.spotify.com/playlist/7EYxnpva8IlIgJ42z96zXH)
 
 > Get pumped with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more.
 

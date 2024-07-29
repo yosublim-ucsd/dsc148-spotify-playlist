@@ -1,6 +1,6 @@
 {
   "description": "Affirmations and meditation music for a mindful start of the day. ",
-  "num_followers": 18275,
+  "num_followers": 18308,
   "original_name": "Affirmations",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-02-20 15:32:00",
       "album": {
-        "name": "Equilibrio 432Hz",
-        "url": "https://open.spotify.com/album/4VFrZ2KOUog0GkLM5ff6RF"
-      },
-      "artists": [
-        {
-          "name": "Invocaciones",
-          "url": "https://open.spotify.com/artist/4MCeDRNQzklVuOcniBsXlJ"
-        }
-      ],
-      "duration_ms": 150870,
-      "name": "Equilibrio 432Hz",
-      "url": "https://open.spotify.com/track/3ZhxpgqkIRpL0WkkL74olF"
-    },
-    {
-      "added_at": "2024-02-20 15:32:00",
-      "album": {
         "name": "Samadhi",
         "url": "https://open.spotify.com/album/7h1IDbqzA8gS3vv5FgLPjy"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 144333,
       "name": "Samadhi",
       "url": "https://open.spotify.com/track/5Y6ViOdg0C8ZOxNk6TnGyL"
+    },
+    {
+      "added_at": "2024-02-20 15:32:00",
+      "album": {
+        "name": "Equilibrio 432Hz",
+        "url": "https://open.spotify.com/album/4VFrZ2KOUog0GkLM5ff6RF"
+      },
+      "artists": [
+        {
+          "name": "Invocaciones",
+          "url": "https://open.spotify.com/artist/4MCeDRNQzklVuOcniBsXlJ"
+        }
+      ],
+      "duration_ms": 150870,
+      "name": "Equilibrio 432Hz",
+      "url": "https://open.spotify.com/track/3ZhxpgqkIRpL0WkkL74olF"
     },
     {
       "added_at": "2024-02-20 15:32:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-02-20 15:32:00",
       "album": {
-        "name": "Frequency of Transformation - 528 Hz",
-        "url": "https://open.spotify.com/album/1H0w7aY1HddegPYkkcb09E"
-      },
-      "artists": [
-        {
-          "name": "Macroix",
-          "url": "https://open.spotify.com/artist/3ooxJFdCXxyk6heox7EOPV"
-        }
-      ],
-      "duration_ms": 155204,
-      "name": "Frequency of Transformation - 528 Hz",
-      "url": "https://open.spotify.com/track/5oACdFokhUeyN4N7ogNqPy"
-    },
-    {
-      "added_at": "2024-02-20 15:32:00",
-      "album": {
         "name": "Spiritual Echoes",
         "url": "https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 164500,
       "name": "Spiritual Echoes",
       "url": "https://open.spotify.com/track/5TGrXaVmrNlJoeaCcuyGhc"
+    },
+    {
+      "added_at": "2024-02-20 15:32:00",
+      "album": {
+        "name": "Frequency of Transformation - 528 Hz",
+        "url": "https://open.spotify.com/album/1H0w7aY1HddegPYkkcb09E"
+      },
+      "artists": [
+        {
+          "name": "Macroix",
+          "url": "https://open.spotify.com/artist/3ooxJFdCXxyk6heox7EOPV"
+        }
+      ],
+      "duration_ms": 155204,
+      "name": "Frequency of Transformation - 528 Hz",
+      "url": "https://open.spotify.com/track/5oACdFokhUeyN4N7ogNqPy"
     },
     {
       "added_at": "2024-02-20 15:32:00",

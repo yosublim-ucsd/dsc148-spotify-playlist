@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,424 songs - 2 day 5 hr 39 min
+1,425 songs - 2 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,7 +486,7 @@
 | [Good Old Days](https://open.spotify.com/track/5Aj08BEnLbCQicG25UV734) | [Astro Loud](https://open.spotify.com/artist/1zGuGkz7fYY1h4KBYTLuaz), [Mike Beating](https://open.spotify.com/artist/3EuxGwWNxr2SRmosxJZEB3) | [Good Old Days](https://open.spotify.com/album/00Z4tyZYe7BSw1gjQ6SOup) | 2:27 | 2023-09-22 |  |
 | [Good things to come](https://open.spotify.com/track/4ZI2TmKcXEKgPV1t2Ol797) | [Alma Animo](https://open.spotify.com/artist/01DSnqT4D8CHCbIkYQhVoP), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Good things to come](https://open.spotify.com/album/2GPF6zbsLahtXOFn8TgoSs) | 2:29 | 2022-07-08 | 2022-12-10 |
 | [good times](https://open.spotify.com/track/32gMxI1qGmOK0Rfaxqrufn) | [3scope](https://open.spotify.com/artist/4GoytqouEDWR5VebZhvPVU) | [good times](https://open.spotify.com/album/2NXPvtH4gusbeXOPpORfrN) | 2:24 | 2022-07-22 |  |
-| [Good vs Easy](https://open.spotify.com/track/4Ma40kMN4c3mXWFvTMRuHx) | [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Beyond Memory](https://open.spotify.com/album/1SlthAO37B8iyB3awgf9sl) | 1:56 | 2022-08-19 |  |
+| [Good vs Easy](https://open.spotify.com/track/4Ma40kMN4c3mXWFvTMRuHx) | [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Beyond Memory](https://open.spotify.com/album/1SlthAO37B8iyB3awgf9sl) | 1:56 | 2022-08-19 | 2024-07-29 |
 | [goodbye](https://open.spotify.com/track/61QjLbt7ZdeGguZNjKL9ty) | [Pecun](https://open.spotify.com/artist/73rhjAgkHK1TsXAdWxVahH), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [goodbye](https://open.spotify.com/album/02bYztomWxqVUnEZi1Cphu) | 1:36 | 2022-11-25 | 2023-09-29 |
 | [Graceland Drive](https://open.spotify.com/track/4UNCSVU2mC94tO2g7gxizh) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Graceland Drive](https://open.spotify.com/album/11vVWuXVWNRRMMAKdmxA2D) | 2:28 | 2022-10-15 |  |
 | [Grains](https://open.spotify.com/track/2UMA25hOygW14Ib1rPvEbO) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Slow Feet](https://open.spotify.com/album/1SAi4U5Rvw08dUZFa5Wudw) | 2:15 | 2023-03-08 |  |
@@ -511,6 +511,7 @@
 | [Halcyon](https://open.spotify.com/track/4WTFHqkMkBsxPsSEMTC6JS) | [Leo Franciozi](https://open.spotify.com/artist/1gYlugboAAJJz7RfLquAHr) | [Rainy Nights of Otaru](https://open.spotify.com/album/2oI686lz3MVPTGOv6shJdV) | 2:19 | 2022-11-25 | 2023-03-09 |
 | [Half Moon](https://open.spotify.com/track/3x57jOHwJyHtTCXawMCh1y) | [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y) | [Half Moon](https://open.spotify.com/album/5dtFK475MXQZRP605GnN3C) | 2:24 | 2022-09-23 | 2022-11-20 |
 | [Half Moon](https://open.spotify.com/track/5T1jVQdly3YDNGe2x1RZ7v) | [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y) | [Half Moon](https://open.spotify.com/album/6fwb2iWqz4SW2mTfjgDfZC) | 2:24 | 2022-11-11 | 2023-09-22 |
+| [hand in hand](https://open.spotify.com/track/2kUifLR2g3YpXJbIpq2tVE) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [hand in hand](https://open.spotify.com/album/2qZ7Nl1iNY7qDosadfG00g) | 1:58 | 2024-07-25 |  |
 | [Hand to Hand](https://open.spotify.com/track/46At3QRiUR0ddiXMniMZ6h) | [With All Respect](https://open.spotify.com/artist/1owj0RO3l3iK7vPwn4rV1O) | [Hand to Hand](https://open.spotify.com/album/5V37l86m2J9J0C3bd3ATij) | 2:02 | 2022-01-27 | 2022-09-17 |
 | [Handprints](https://open.spotify.com/track/1gJrZGrE3RZ8HhS45OuqTq) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Handprints](https://open.spotify.com/album/5hAgnNl3k9ZxYsK1131fbd) | 1:14 | 2022-01-27 | 2022-10-29 |
 | [Hang](https://open.spotify.com/track/4ko84jnHMcEtRcHSBIdg37) | [Zoundhouze](https://open.spotify.com/artist/47Dqp4hyfG0yU4DGnTWdgw), [Labbra\-Lofi](https://open.spotify.com/artist/0iz0wDAmK8xK3MTD4VUatq) | [Hang](https://open.spotify.com/album/59lnOSCxrCpz203LR5dYi9) | 1:48 | 2023-11-17 |  |
@@ -622,7 +623,7 @@
 | [Jazz On The Rooftop](https://open.spotify.com/track/2IbaMbnKrLhOrKHFRaAesi) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U) | [Jazz On The Rooftop](https://open.spotify.com/album/4WpvyjzMbEMdQNhxx2mw21) | 1:54 | 2022-11-11 | 2023-09-29 |
 | [jazz patterns](https://open.spotify.com/track/5RJF9tfEnpKUK75fXG0iM8) | [Codename Chinadoll](https://open.spotify.com/artist/1M7I2GYBClRIiT9B72xUTg) | [jazz patterns](https://open.spotify.com/album/0Mj31E62zRp5dBbaMNVrpV) | 1:42 | 2022-01-27 | 2022-04-22 |
 | [jazzfriends](https://open.spotify.com/track/6MZHm52Y666ah3rKO9LG5Z) | [Kudasaibeats](https://open.spotify.com/artist/3VcaBezSFVJHqylrhaYun2) | [aerodynamic](https://open.spotify.com/album/7kAsmj6f9OH0gOpbJL2goO) | 1:16 | 2022-09-09 | 2022-11-12 |
-| [Jazzie Evening](https://open.spotify.com/track/0GlPuKRztaukHorDfNbx5Z) | [ARSD](https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM) | [Jazzie Evening](https://open.spotify.com/album/2MQDJcA1HSM54d5qfwa42J) | 2:05 | 2022-12-16 | 2024-07-18 |
+| [Jazzie Evening](https://open.spotify.com/track/0GlPuKRztaukHorDfNbx5Z) | [ARSD](https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM) | [Jazzie Evening](https://open.spotify.com/album/2MQDJcA1HSM54d5qfwa42J) | 2:05 | 2022-12-16 |  |
 | [Jazzing Around](https://open.spotify.com/track/7lYqr04JdvnVuBtZGeJ11y) | [Chrisse & The Other One](https://open.spotify.com/artist/4akjZ3i0I09kiUhqwJ19pN) | [Jazzing Around](https://open.spotify.com/album/6Bqn4JkgAM3scloG6okwMi) | 2:11 | 2022-10-15 | 2023-09-05 |
 | [Jazzy](https://open.spotify.com/track/7lI4TBcLfevzVzLpBjuloh) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Jazzy](https://open.spotify.com/album/5ClcYdNTl3QfNATJQWcJ1S) | 2:24 | 2022-07-01 | 2022-12-10 |
 | [jazzy day](https://open.spotify.com/track/3nAJcl7mmWnBzRYjpIKgJ4) | [Cafune](https://open.spotify.com/artist/07jJECbFecl5DmNw2lEtGR) | [jazzy day](https://open.spotify.com/album/2QrJkHjLrPWo1PmSAkRXWh) | 3:34 | 2022-06-17 | 2022-07-01 |
@@ -983,7 +984,7 @@
 | [Puppy Attakk](https://open.spotify.com/track/3nSzRd7SyJgfjANyMhplh3) | [wahzaf:tru](https://open.spotify.com/artist/1PZFqQ7hbIOK3Drq2aXKuC) | [Puppy Attakk](https://open.spotify.com/album/4ctCw71T1KsVWCg9g0OdrY) | 3:12 | 2023-10-06 | 2024-06-01 |
 | [Purple Dress](https://open.spotify.com/track/2CNAK398ZWTjt7TJhZXbNT) | [lagom.](https://open.spotify.com/artist/2isRNqunLqbfBjiXZ4ZGdX) | [Purple Dress](https://open.spotify.com/album/7I9FUIhdhV0deg1XiZ8s5F) | 2:30 | 2022-07-08 | 2023-04-21 |
 | [Purple Skies](https://open.spotify.com/track/1fhsrPZVn5i7tsEsbspzgM) | [Venti](https://open.spotify.com/artist/1g1rRWEsI2Wy2xVALwaeaL) | [Purple Skies](https://open.spotify.com/album/4Thel3mQHPCmIUUaQgoN7B) | 2:17 | 2023-11-24 | 2024-05-14 |
-| [pyjamas](https://open.spotify.com/track/2hUhKjunV4ryNKlQmnDqN0) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [pyjamas](https://open.spotify.com/album/1k5jnVJrROUCzvUVvrbKXT) | 2:02 | 2022-09-02 |  |
+| [pyjamas](https://open.spotify.com/track/2hUhKjunV4ryNKlQmnDqN0) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [pyjamas](https://open.spotify.com/album/1k5jnVJrROUCzvUVvrbKXT) | 2:02 | 2022-09-02 | 2024-07-29 |
 | [queue](https://open.spotify.com/track/6p7WEWtYxc0JqrJJOYFsJn) | [sumwut](https://open.spotify.com/artist/6rDyCgfBm5atHVVNFxLFn0) | [queue](https://open.spotify.com/album/3iQMbmMhC355C1L6d18uoo) | 2:12 | 2022-07-29 | 2023-08-04 |
 | [Quickly](https://open.spotify.com/track/3klS1XdaiAt2mkvtHYfOCK) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Bittersweet](https://open.spotify.com/album/7mUs0A1m3ceo8HUsLM15BT) | 2:58 | 2022-08-19 | 2023-01-13 |
 | [Quiet Storm](https://open.spotify.com/track/6P7n92qmU1JBcq74p0kW29) | [Pepper](https://open.spotify.com/artist/7wxv15AsqEJNoMmCzkZw9M), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Quiet Storm](https://open.spotify.com/album/7EZCndbnWFb8T1m52bCN5j) | 2:07 | 2023-08-03 | 2023-09-29 |

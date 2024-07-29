@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marcus King",
-  "num_followers": 402078,
+  "num_followers": 402201,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -159,18 +159,18 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW"
       },
       "artists": [
         {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
         }
       ],
-      "duration_ms": 238613,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
+      "duration_ms": 235426,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -195,18 +195,18 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW"
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
       },
       "artists": [
         {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
         }
       ],
-      "duration_ms": 235426,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1"
+      "duration_ms": 238613,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
-        "name": "More Than a Love Song",
-        "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "More Than a Love Song",
-      "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
-    },
-    {
-      "added_at": "2024-07-05 18:25:49",
-      "album": {
         "name": "The Very Last Day",
         "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 164533,
       "name": "Pining",
       "url": "https://open.spotify.com/track/2necAV33vY9L5x2SUXYZeY"
+    },
+    {
+      "added_at": "2024-07-05 18:25:49",
+      "album": {
+        "name": "More Than a Love Song",
+        "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "More Than a Love Song",
+      "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
-        "name": "Delilah",
-        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 221280,
-      "name": "Devil in Me",
-      "url": "https://open.spotify.com/track/3LcrBMmEejUO09Lrmyixzb"
-    },
-    {
-      "added_at": "2024-07-05 18:25:49",
-      "album": {
         "name": "Seventeen Acres",
         "url": "https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 122750,
       "name": "Crazy Woman",
       "url": "https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0"
+    },
+    {
+      "added_at": "2024-07-05 18:25:49",
+      "album": {
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 221280,
+      "name": "Devil in Me",
+      "url": "https://open.spotify.com/track/3LcrBMmEejUO09Lrmyixzb"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
-        "name": "A Real Fine Mess (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3X43SBnfPj79lGPW1eEaq7"
+        "name": "The Very Last Day",
+        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
       "artists": [
         {
-          "name": "The Harpoonist & the Axe Murderer",
-          "url": "https://open.spotify.com/artist/5DkVuI87mfB0mNCCUxj3CF"
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
         }
       ],
-      "duration_ms": 169076,
-      "name": "In and Out of Love",
-      "url": "https://open.spotify.com/track/44WS4ss6Rh3tbTkVwttvpV"
+      "duration_ms": 180013,
+      "name": "The Very Last Day",
+      "url": "https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -567,6 +567,22 @@
       "duration_ms": 207786,
       "name": "Sea Star",
       "url": "https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp"
+    },
+    {
+      "added_at": "2024-07-05 18:25:49",
+      "album": {
+        "name": "A Real Fine Mess (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3X43SBnfPj79lGPW1eEaq7"
+      },
+      "artists": [
+        {
+          "name": "The Harpoonist & the Axe Murderer",
+          "url": "https://open.spotify.com/artist/5DkVuI87mfB0mNCCUxj3CF"
+        }
+      ],
+      "duration_ms": 169076,
+      "name": "In and Out of Love",
+      "url": "https://open.spotify.com/track/44WS4ss6Rh3tbTkVwttvpV"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -599,22 +615,6 @@
       "duration_ms": 195413,
       "name": "Madelyn",
       "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
-    },
-    {
-      "added_at": "2024-07-05 18:25:49",
-      "album": {
-        "name": "The Very Last Day",
-        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 180013,
-      "name": "The Very Last Day",
-      "url": "https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
-        "name": "Take My Heart",
-        "url": "https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 258651,
-      "name": "Take My Heart",
-      "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
-    },
-    {
-      "added_at": "2024-07-05 18:25:49",
-      "album": {
         "name": "Logan Ledger",
         "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
-        "name": "Delilah",
-        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
+        "name": "Take My Heart",
+        "url": "https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg"
       },
       "artists": [
         {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 169120,
-      "name": "Quit You",
-      "url": "https://open.spotify.com/track/5OCiyq7gAZ88nY1iWFf4Ke"
+      "duration_ms": 258651,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -727,6 +711,22 @@
       "duration_ms": 204024,
       "name": "See It Through",
       "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
+    },
+    {
+      "added_at": "2024-07-05 18:25:49",
+      "album": {
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 169120,
+      "name": "Quit You",
+      "url": "https://open.spotify.com/track/5OCiyq7gAZ88nY1iWFf4Ke"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
+        "name": "We Can Always Come Back To This (Music From The Series This Is Us)",
+        "url": "https://open.spotify.com/album/3toZNs0m6NgYQS6fN80ACN"
+      },
+      "artists": [
+        {
+          "name": "Brian Tyree Henry",
+          "url": "https://open.spotify.com/artist/2dovDW77FbEJm18yuZ92cK"
+        }
+      ],
+      "duration_ms": 254329,
+      "name": "We Can Always Come Back To This",
+      "url": "https://open.spotify.com/track/20rztDEfgrFOuHDhAeVDt3"
+    },
+    {
+      "added_at": "2024-07-05 18:25:49",
+      "album": {
         "name": "Cosmos",
         "url": "https://open.spotify.com/album/41l2ycLtJCAM4yogQXjBfS"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 190600,
       "name": "The Ruse",
       "url": "https://open.spotify.com/track/08flJ3BaFDVdtnoTFB17Xt"
-    },
-    {
-      "added_at": "2024-07-05 18:25:49",
-      "album": {
-        "name": "We Can Always Come Back To This (Music From The Series This Is Us)",
-        "url": "https://open.spotify.com/album/3toZNs0m6NgYQS6fN80ACN"
-      },
-      "artists": [
-        {
-          "name": "Brian Tyree Henry",
-          "url": "https://open.spotify.com/artist/2dovDW77FbEJm18yuZ92cK"
-        }
-      ],
-      "duration_ms": 254329,
-      "name": "We Can Always Come Back To This",
-      "url": "https://open.spotify.com/track/20rztDEfgrFOuHDhAeVDt3"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
-        "name": "Cold Times",
-        "url": "https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7"
-      },
-      "artists": [
-        {
-          "name": "Brent Cowles",
-          "url": "https://open.spotify.com/artist/4leUsmAwvIuw4pXsAMwNBF"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "Cold Times",
-      "url": "https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm"
-    },
-    {
-      "added_at": "2024-07-05 18:25:49",
-      "album": {
         "name": "Electric Fever",
         "url": "https://open.spotify.com/album/1tHxFtjR1uoi3OOLQxFua5"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 227567,
       "name": "Electric Fever",
       "url": "https://open.spotify.com/track/6OSjtt4YK1f3Qjlrs0PYHg"
+    },
+    {
+      "added_at": "2024-07-05 18:25:49",
+      "album": {
+        "name": "Cold Times",
+        "url": "https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7"
+      },
+      "artists": [
+        {
+          "name": "Brent Cowles",
+          "url": "https://open.spotify.com/artist/4leUsmAwvIuw4pXsAMwNBF"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "Cold Times",
+      "url": "https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
+        "name": "Sister Andre",
+        "url": "https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp"
+      },
+      "artists": [
+        {
+          "name": "Pokey LaFarge",
+          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
+        }
+      ],
+      "duration_ms": 185583,
+      "name": "Sister Andre",
+      "url": "https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn"
+    },
+    {
+      "added_at": "2024-07-05 18:25:49",
+      "album": {
         "name": "Real Contender",
         "url": "https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9"
       },
@@ -1219,38 +1235,6 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
-        "name": "Sister Andre",
-        "url": "https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp"
-      },
-      "artists": [
-        {
-          "name": "Pokey LaFarge",
-          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
-        }
-      ],
-      "duration_ms": 185583,
-      "name": "Sister Andre",
-      "url": "https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn"
-    },
-    {
-      "added_at": "2024-07-05 18:25:49",
-      "album": {
-        "name": "SEA/SONS",
-        "url": "https://open.spotify.com/album/5uS5w8V1auSyzYDsVgDQIQ"
-      },
-      "artists": [
-        {
-          "name": "Abraham Alexander",
-          "url": "https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN"
-        }
-      ],
-      "duration_ms": 198321,
-      "name": "D\u00e9j\u00e0 Vu (ft. Mavis Staples)",
-      "url": "https://open.spotify.com/track/2copPxM13iCTKG9rJNNxGr"
-    },
-    {
-      "added_at": "2024-07-05 18:25:49",
-      "album": {
         "name": "Live at Electric Lady",
         "url": "https://open.spotify.com/album/1TVFtJvROCsgKFQZHuBR4M"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 218749,
       "name": "King of Bohemia",
       "url": "https://open.spotify.com/track/34KtmwODrt1ia604Q6mzXy"
+    },
+    {
+      "added_at": "2024-07-05 18:25:49",
+      "album": {
+        "name": "SEA/SONS",
+        "url": "https://open.spotify.com/album/5uS5w8V1auSyzYDsVgDQIQ"
+      },
+      "artists": [
+        {
+          "name": "Abraham Alexander",
+          "url": "https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN"
+        }
+      ],
+      "duration_ms": 198321,
+      "name": "D\u00e9j\u00e0 Vu (ft. Mavis Staples)",
+      "url": "https://open.spotify.com/track/2copPxM13iCTKG9rJNNxGr"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
-        "name": "The Spirit Moves",
-        "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
-      },
-      "artists": [
-        {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        },
-        {
-          "name": "The Law",
-          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Southern Bells",
-      "url": "https://open.spotify.com/track/2QWJaT6j18Ay35M2eTlbVo"
-    },
-    {
-      "added_at": "2024-07-05 18:25:49",
-      "album": {
         "name": "Got Soul",
         "url": "https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 193066,
       "name": "Lost on the Young",
       "url": "https://open.spotify.com/track/2Hl45Cf4m4CX0a4slkR2qU"
+    },
+    {
+      "added_at": "2024-07-05 18:25:49",
+      "album": {
+        "name": "The Spirit Moves",
+        "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        },
+        {
+          "name": "The Law",
+          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Southern Bells",
+      "url": "https://open.spotify.com/track/2QWJaT6j18Ay35M2eTlbVo"
     },
     {
       "added_at": "2024-07-05 18:25:49",

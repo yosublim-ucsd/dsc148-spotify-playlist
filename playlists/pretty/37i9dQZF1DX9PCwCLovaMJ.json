@@ -1,6 +1,6 @@
 {
   "description": "V\u00e5ra spellisteredakt\u00f6rers urval av otroliga l\u00e5tar fr\u00e5n 2023 som du kanske r\u00e5kat missa? Enjoy! #SpotifyWrapped",
-  "num_followers": 849,
+  "num_followers": 848,
   "original_name": "2023: L\u00e5tarna du missade?",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "T\u00e4nk om vi d\u00f6r!",
-        "url": "https://open.spotify.com/album/1ypXzb3f5Tcmpc2kXi1nup"
-      },
-      "artists": [
-        {
-          "name": "Hemliga Klubben",
-          "url": "https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf"
-        }
-      ],
-      "duration_ms": 177279,
-      "name": "T\u00e4nk om vi d\u00f6r!",
-      "url": "https://open.spotify.com/track/4e4Ai0V6ckatATwPETAYhw"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Why Are You Not Scared Yet?",
         "url": "https://open.spotify.com/album/3wbB2j0gMejNrkXvg3VVxY"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 154555,
       "name": "Why Are You Not Scared Yet?",
       "url": "https://open.spotify.com/track/7lrPrS3dXaTAWsp3dtJJqg"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "T\u00e4nk om vi d\u00f6r!",
+        "url": "https://open.spotify.com/album/1ypXzb3f5Tcmpc2kXi1nup"
+      },
+      "artists": [
+        {
+          "name": "Hemliga Klubben",
+          "url": "https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf"
+        }
+      ],
+      "duration_ms": 177279,
+      "name": "T\u00e4nk om vi d\u00f6r!",
+      "url": "https://open.spotify.com/track/4e4Ai0V6ckatATwPETAYhw"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Show You Off",
-        "url": "https://open.spotify.com/album/3d5vxZBMt1IVlZCLlGqYEg"
-      },
-      "artists": [
-        {
-          "name": "HONEYMOAN",
-          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
-        }
-      ],
-      "duration_ms": 174323,
-      "name": "Show You Off",
-      "url": "https://open.spotify.com/track/5yiq0nOg5bsPc83IEF0Bcc"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/57YwnLtf7BosgnrpqycowZ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 208880,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/3jRPGXCJVVCFZTDIGOk2WH"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Show You Off",
+        "url": "https://open.spotify.com/album/3d5vxZBMt1IVlZCLlGqYEg"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "duration_ms": 174323,
+      "name": "Show You Off",
+      "url": "https://open.spotify.com/track/5yiq0nOg5bsPc83IEF0Bcc"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "forget me",
-        "url": "https://open.spotify.com/album/54Vx2zv8ukijrui8BCWh3i"
-      },
-      "artists": [
-        {
-          "name": "Orion Sisters",
-          "url": "https://open.spotify.com/artist/1FjsO3rN6iI9liiSXMVb7u"
-        }
-      ],
-      "duration_ms": 175704,
-      "name": "forget me",
-      "url": "https://open.spotify.com/track/6K3HbXrmO6WIv0uRZe5SfS"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Everything's Conditional",
         "url": "https://open.spotify.com/album/4d3beSene5sO3fdKMvwmr0"
       },
@@ -955,34 +939,18 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Angeline",
-        "url": "https://open.spotify.com/album/6pZioXDALfPUkIeCzApK5r"
+        "name": "forget me",
+        "url": "https://open.spotify.com/album/54Vx2zv8ukijrui8BCWh3i"
       },
       "artists": [
         {
-          "name": "Goldielocks",
-          "url": "https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59"
+          "name": "Orion Sisters",
+          "url": "https://open.spotify.com/artist/1FjsO3rN6iI9liiSXMVb7u"
         }
       ],
-      "duration_ms": 204596,
-      "name": "Angeline",
-      "url": "https://open.spotify.com/track/0c1jg65pcEMAbNqvnAb8DV"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Crumbs",
-        "url": "https://open.spotify.com/album/4qCWEnBAq9LJpkIUi3s2vV"
-      },
-      "artists": [
-        {
-          "name": "Rachel Levin",
-          "url": "https://open.spotify.com/artist/28T94RgMwxfQtJGhueHmrH"
-        }
-      ],
-      "duration_ms": 115955,
-      "name": "Crumbs",
-      "url": "https://open.spotify.com/track/7uhU4IYKI9e7leuQXCmHzG"
+      "duration_ms": 175704,
+      "name": "forget me",
+      "url": "https://open.spotify.com/track/6K3HbXrmO6WIv0uRZe5SfS"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1015,6 +983,38 @@
       "duration_ms": 202480,
       "name": "Step By Step - Axel Boman\u2019s In The Air Version",
       "url": "https://open.spotify.com/track/4rOUCnPgp5QW9uAkAReJUa"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Crumbs",
+        "url": "https://open.spotify.com/album/4qCWEnBAq9LJpkIUi3s2vV"
+      },
+      "artists": [
+        {
+          "name": "Rachel Levin",
+          "url": "https://open.spotify.com/artist/28T94RgMwxfQtJGhueHmrH"
+        }
+      ],
+      "duration_ms": 115955,
+      "name": "Crumbs",
+      "url": "https://open.spotify.com/track/7uhU4IYKI9e7leuQXCmHzG"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Angeline",
+        "url": "https://open.spotify.com/album/6pZioXDALfPUkIeCzApK5r"
+      },
+      "artists": [
+        {
+          "name": "Goldielocks",
+          "url": "https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59"
+        }
+      ],
+      "duration_ms": 204596,
+      "name": "Angeline",
+      "url": "https://open.spotify.com/track/0c1jg65pcEMAbNqvnAb8DV"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/5mtPksE1kgJgCbNhphokhv"
+      },
+      "artists": [
+        {
+          "name": "Sky Li",
+          "url": "https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI"
+        }
+      ],
+      "duration_ms": 198217,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/6K0EBxtRqlFl481Zy0zAu9"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
         "name": "You're Not Alone",
         "url": "https://open.spotify.com/album/30TtNJxZgXt1DBb7GYlRkz"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 235949,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/4v7SAKFEqPyuYTy9gQRnHP"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/5mtPksE1kgJgCbNhphokhv"
-      },
-      "artists": [
-        {
-          "name": "Sky Li",
-          "url": "https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI"
-        }
-      ],
-      "duration_ms": 198217,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/6K0EBxtRqlFl481Zy0zAu9"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "If The Car Crashed",
-        "url": "https://open.spotify.com/album/5cyLCldH7vZb9z5YYDq8Rz"
-      },
-      "artists": [
-        {
-          "name": "Beforefrances",
-          "url": "https://open.spotify.com/artist/0Sx1GmPY18HuO1ZrzyCnVj"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "If The Car Crashed",
-      "url": "https://open.spotify.com/track/2zsthaGOn1HFt19XbB7kuh"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "RATTLESNAKE",
         "url": "https://open.spotify.com/album/4XpL8x2d5RiJbSwPs2pA0D"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 179599,
       "name": "RATTLESNAKE",
       "url": "https://open.spotify.com/track/23iX8tmk5th6Ydrtz6BeCd"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "If The Car Crashed",
+        "url": "https://open.spotify.com/album/5cyLCldH7vZb9z5YYDq8Rz"
+      },
+      "artists": [
+        {
+          "name": "Beforefrances",
+          "url": "https://open.spotify.com/artist/0Sx1GmPY18HuO1ZrzyCnVj"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "If The Car Crashed",
+      "url": "https://open.spotify.com/track/2zsthaGOn1HFt19XbB7kuh"
     },
     {
       "added_at": "2023-11-29 12:17:00",

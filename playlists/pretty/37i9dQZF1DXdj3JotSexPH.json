@@ -1,6 +1,6 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 35882,
+  "num_followers": 35885,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
@@ -335,18 +335,18 @@
     {
       "added_at": "2024-07-24 12:49:08",
       "album": {
-        "name": "Push Ups",
-        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
+        "name": "Murder In My Mind",
+        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
         }
       ],
-      "duration_ms": 232774,
-      "name": "Push Ups",
-      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
+      "duration_ms": 145000,
+      "name": "Murder In My Mind",
+      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
       "added_at": "2024-07-24 12:49:08",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-07-24 12:49:08",
       "album": {
-        "name": "Murder In My Mind",
-        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Murder In My Mind",
-      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
-    },
-    {
-      "added_at": "2024-07-24 12:49:08",
-      "album": {
         "name": "Bandit",
         "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 147746,
       "name": "BANDIT",
       "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
+    },
+    {
+      "added_at": "2024-07-24 12:49:08",
+      "album": {
+        "name": "Push Ups",
+        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 232774,
+      "name": "Push Ups",
+      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
     },
     {
       "added_at": "2024-07-24 12:49:08",
@@ -443,26 +443,6 @@
     {
       "added_at": "2024-07-24 12:49:08",
       "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 260111,
-      "name": "IDGAF (feat. Yeat)",
-      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
-    },
-    {
-      "added_at": "2024-07-24 12:49:08",
-      "album": {
         "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
         "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 132346,
       "name": "Close Eyes",
       "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
+    },
+    {
+      "added_at": "2024-07-24 12:49:08",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 260111,
+      "name": "IDGAF (feat. Yeat)",
+      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
     },
     {
       "added_at": "2024-07-24 12:49:08",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-07-24 12:49:08",
       "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+    },
+    {
+      "added_at": "2024-07-24 12:49:08",
+      "album": {
         "name": "prada dem (feat. Offset)",
         "url": "https://open.spotify.com/album/2hTlK2bJqMK4LrFvzcxPKY"
       },
@@ -591,22 +607,6 @@
     {
       "added_at": "2024-07-24 12:49:08",
       "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
-    },
-    {
-      "added_at": "2024-07-24 12:49:08",
-      "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
@@ -623,26 +623,6 @@
       "duration_ms": 247444,
       "name": "First Person Shooter (feat. J. Cole)",
       "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
-    },
-    {
-      "added_at": "2024-07-24 12:49:08",
-      "album": {
-        "name": "My wrist (with Young Thug)",
-        "url": "https://open.spotify.com/album/05zSfoTPUX9IFb4AYbBaBz"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "My wrist (with Young Thug)",
-      "url": "https://open.spotify.com/track/2beD5W9IkefQ04IO39XF7w"
     },
     {
       "added_at": "2024-07-24 12:49:08",
@@ -667,6 +647,26 @@
       "duration_ms": 209577,
       "name": "FUK SUMN",
       "url": "https://open.spotify.com/track/4eIYnlcgI2chjQBuW1VRr7"
+    },
+    {
+      "added_at": "2024-07-24 12:49:08",
+      "album": {
+        "name": "My wrist (with Young Thug)",
+        "url": "https://open.spotify.com/album/05zSfoTPUX9IFb4AYbBaBz"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "My wrist (with Young Thug)",
+      "url": "https://open.spotify.com/track/2beD5W9IkefQ04IO39XF7w"
     },
     {
       "added_at": "2024-07-24 12:49:08",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-24 12:49:08",
       "album": {
-        "name": "Search & Rescue",
-        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 272112,
-      "name": "Search & Rescue",
-      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
-    },
-    {
-      "added_at": "2024-07-24 12:49:08",
-      "album": {
         "name": "Everything You Have Done (Meduza Edit)",
         "url": "https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe"
       },
@@ -815,22 +799,6 @@
     {
       "added_at": "2024-07-24 12:49:08",
       "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
-    },
-    {
-      "added_at": "2024-07-24 12:49:08",
-      "album": {
         "name": "525",
         "url": "https://open.spotify.com/album/0fcNiMb5xTCA4h1rLuXtSv"
       },
@@ -847,6 +815,38 @@
       "duration_ms": 123310,
       "name": "GABOLNA HKOMA",
       "url": "https://open.spotify.com/track/339xW7VUrZEtBpvc4wSlqg"
+    },
+    {
+      "added_at": "2024-07-24 12:49:08",
+      "album": {
+        "name": "Search & Rescue",
+        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 272112,
+      "name": "Search & Rescue",
+      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
+    },
+    {
+      "added_at": "2024-07-24 12:49:08",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
     },
     {
       "added_at": "2024-07-24 12:49:08",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-07-24 12:49:08",
       "album": {
-        "name": "FOG",
-        "url": "https://open.spotify.com/album/7i8mmO1nVFC5WwV0aoDHwP"
-      },
-      "artists": [
-        {
-          "name": "Vortex",
-          "url": "https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP"
-        }
-      ],
-      "duration_ms": 195419,
-      "name": "FOG",
-      "url": "https://open.spotify.com/track/0TaJ7FYnHrlGFK6DR1FxFX"
-    },
-    {
-      "added_at": "2024-07-24 12:49:08",
-      "album": {
         "name": "\u0641\u0648\u064a\u0642\u0648",
         "url": "https://open.spotify.com/album/2iCQwd97pVX6TR4jzE2IE0"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 132431,
       "name": "\u0641\u0648\u064a\u0642\u0648",
       "url": "https://open.spotify.com/track/4LWi9iKjOWbFnL21uqts6G"
+    },
+    {
+      "added_at": "2024-07-24 12:49:08",
+      "album": {
+        "name": "FOG",
+        "url": "https://open.spotify.com/album/7i8mmO1nVFC5WwV0aoDHwP"
+      },
+      "artists": [
+        {
+          "name": "Vortex",
+          "url": "https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP"
+        }
+      ],
+      "duration_ms": 195419,
+      "name": "FOG",
+      "url": "https://open.spotify.com/track/0TaJ7FYnHrlGFK6DR1FxFX"
     },
     {
       "added_at": "2024-07-24 12:49:08",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-07-24 12:49:08",
       "album": {
-        "name": "SHOOTA",
-        "url": "https://open.spotify.com/album/2pSwKpprTbV2QveOywXmjy"
-      },
-      "artists": [
-        {
-          "name": "Vortex",
-          "url": "https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP"
-        }
-      ],
-      "duration_ms": 149536,
-      "name": "SHOOTA",
-      "url": "https://open.spotify.com/track/3nfWzTTxqbjHvALssUUKGb"
-    },
-    {
-      "added_at": "2024-07-24 12:49:08",
-      "album": {
         "name": "Mataha",
         "url": "https://open.spotify.com/album/3EJZiWGQg1tG4hYb06EqWK"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 180766,
       "name": "Mataha",
       "url": "https://open.spotify.com/track/2QQNa0GtMuLYHlPEeblUg0"
+    },
+    {
+      "added_at": "2024-07-24 12:49:08",
+      "album": {
+        "name": "SHOOTA",
+        "url": "https://open.spotify.com/album/2pSwKpprTbV2QveOywXmjy"
+      },
+      "artists": [
+        {
+          "name": "Vortex",
+          "url": "https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP"
+        }
+      ],
+      "duration_ms": 149536,
+      "name": "SHOOTA",
+      "url": "https://open.spotify.com/track/3nfWzTTxqbjHvALssUUKGb"
     }
   ],
   "unique_name": "Yalla Gaming",

@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 535906,
+  "num_followers": 535966,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "Eternelle",
+        "url": "https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "duration_ms": 142280,
+      "name": "Non, je ne regrette rien",
+      "url": "https://open.spotify.com/track/3dkIE8P7hvl3tHl9KSb6dA"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Love Me Please Love Me",
         "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
       },
@@ -139,22 +155,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "En Vogue",
-        "url": "https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm"
-      },
-      "artists": [
-        {
-          "name": "Jacques Dutronc",
-          "url": "https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq"
-        }
-      ],
-      "duration_ms": 177946,
-      "name": "J'aime les filles",
-      "url": "https://open.spotify.com/track/196fYCjVMKAQb8uwOWxpUo"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Joe Dassin \u00c9ternel...",
         "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
       },
@@ -171,18 +171,18 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Eternelle",
-        "url": "https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za"
+        "name": "En Vogue",
+        "url": "https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm"
       },
       "artists": [
         {
-          "name": "\u00c9dith Piaf",
-          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+          "name": "Jacques Dutronc",
+          "url": "https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq"
         }
       ],
-      "duration_ms": 142280,
-      "name": "Non, je ne regrette rien",
-      "url": "https://open.spotify.com/track/3dkIE8P7hvl3tHl9KSb6dA"
+      "duration_ms": 177946,
+      "name": "J'aime les filles",
+      "url": "https://open.spotify.com/track/196fYCjVMKAQb8uwOWxpUo"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Georges Brassens interpr\u00e8te ses derni\u00e8res compositions N\u00b02",
-        "url": "https://open.spotify.com/album/5riAtczpXYojWiT1G6f0O0"
-      },
-      "artists": [
-        {
-          "name": "Georges Brassens",
-          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
-        }
-      ],
-      "duration_ms": 180746,
-      "name": "Les amoureux des bancs publics",
-      "url": "https://open.spotify.com/track/7y2O28y2I9rnmol5RjSG8D"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "La Montagne",
         "url": "https://open.spotify.com/album/4VG6Utj03XZ26BnoCH8C0P"
       },
@@ -279,6 +263,38 @@
       "duration_ms": 184813,
       "name": "La montagne",
       "url": "https://open.spotify.com/track/1IsYgxPzYd4cBB2qMGZ1mG"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "de l'accordeoniste a milord",
+        "url": "https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "La foule",
+      "url": "https://open.spotify.com/track/2xZfPZxInlDXDKc6NDts8Z"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Georges Brassens interpr\u00e8te ses derni\u00e8res compositions N\u00b02",
+        "url": "https://open.spotify.com/album/5riAtczpXYojWiT1G6f0O0"
+      },
+      "artists": [
+        {
+          "name": "Georges Brassens",
+          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
+        }
+      ],
+      "duration_ms": 180746,
+      "name": "Les amoureux des bancs publics",
+      "url": "https://open.spotify.com/track/7y2O28y2I9rnmol5RjSG8D"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -344,9 +360,9 @@
           "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
         }
       ],
-      "duration_ms": 178840,
-      "name": "La foule",
-      "url": "https://open.spotify.com/track/2xZfPZxInlDXDKc6NDts8Z"
+      "duration_ms": 186973,
+      "name": "La vie en rose",
+      "url": "https://open.spotify.com/track/4FmiciU3ZmfgABlbCSXcWw"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -459,22 +475,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Yves Montand",
-        "url": "https://open.spotify.com/album/41hNqtbMJTaTYCIq6W0571"
-      },
-      "artists": [
-        {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Sous le ciel de Paris",
-      "url": "https://open.spotify.com/track/7A3JZum5yfNq9I3TtFVMMt"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Thank You Ferre",
         "url": "https://open.spotify.com/album/1D8gi44m6PdLBbDGCGwXP6"
       },
@@ -487,6 +487,22 @@
       "duration_ms": 158493,
       "name": "Jolie m\u00f4me",
       "url": "https://open.spotify.com/track/0nKRwRUAbGiqDj0jJMifzf"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Edith Piaf - The Best Of",
+        "url": "https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "duration_ms": 162226,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/2ALK3U3XsDzz85bynK1hnt"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -507,22 +523,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "de l'accordeoniste a milord",
-        "url": "https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS"
-      },
-      "artists": [
-        {
-          "name": "\u00c9dith Piaf",
-          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
-        }
-      ],
-      "duration_ms": 186973,
-      "name": "La vie en rose",
-      "url": "https://open.spotify.com/track/4FmiciU3ZmfgABlbCSXcWw"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "The Aristocats Original Soundtrack",
         "url": "https://open.spotify.com/album/4xP8YdX6dIi649dxAH2PXO"
       },
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Forever Dalida",
-        "url": "https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa"
-      },
-      "artists": [
-        {
-          "name": "Dalida",
-          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
-        }
-      ],
-      "duration_ms": 175026,
-      "name": "Il venait d'avoir 18 ans",
-      "url": "https://open.spotify.com/track/1S39BVV8IFikZtlmPjchBd"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Fr\u00e9hel [Collection disques Path\u00e9]",
         "url": "https://open.spotify.com/album/4ikZGhHqdMf24sWQA4v4UI"
       },
@@ -567,6 +551,38 @@
       "duration_ms": 165893,
       "name": "La java bleue",
       "url": "https://open.spotify.com/track/1vveZRFXBiFrnO4wUpgArq"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Yves Montand",
+        "url": "https://open.spotify.com/album/41hNqtbMJTaTYCIq6W0571"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Sous le ciel de Paris",
+      "url": "https://open.spotify.com/track/7A3JZum5yfNq9I3TtFVMMt"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Forever Dalida",
+        "url": "https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa"
+      },
+      "artists": [
+        {
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        }
+      ],
+      "duration_ms": 175026,
+      "name": "Il venait d'avoir 18 ans",
+      "url": "https://open.spotify.com/track/1S39BVV8IFikZtlmPjchBd"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -603,22 +619,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Edith Piaf - The Best Of",
-        "url": "https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q"
-      },
-      "artists": [
-        {
-          "name": "\u00c9dith Piaf",
-          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
-        }
-      ],
-      "duration_ms": 162226,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/2ALK3U3XsDzz85bynK1hnt"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Musical Moments to Remember: Jos\u00e9phine Baker, Vol. 1 (2014 Remastered)",
         "url": "https://open.spotify.com/album/4jLdud0Asv42qDcssw0ahd"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 190987,
       "name": "J'ai deux amours",
       "url": "https://open.spotify.com/track/2UsWuHGtSGi3c7VsdeyQCg"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "Fleur De Paris",
-        "url": "https://open.spotify.com/album/0Z5YgfnmXWZM6KVw3pkdAc"
-      },
-      "artists": [
-        {
-          "name": "Maurice Chevalier",
-          "url": "https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc"
-        }
-      ],
-      "duration_ms": 194933,
-      "name": "Paris sera toujours Paris",
-      "url": "https://open.spotify.com/track/4YpmjnVzUfbPfbDguayy22"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -679,6 +663,22 @@
       "duration_ms": 205133,
       "name": "Tout va tr\u00e8s bien madame la marquise",
       "url": "https://open.spotify.com/track/3CbCvxfRVk0Ba0Z761Ys12"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Fleur De Paris",
+        "url": "https://open.spotify.com/album/0Z5YgfnmXWZM6KVw3pkdAc"
+      },
+      "artists": [
+        {
+          "name": "Maurice Chevalier",
+          "url": "https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc"
+        }
+      ],
+      "duration_ms": 194933,
+      "name": "Paris sera toujours Paris",
+      "url": "https://open.spotify.com/track/4YpmjnVzUfbPfbDguayy22"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "France Gall CD Story",
-        "url": "https://open.spotify.com/album/31UwyKsz2yvAEUf98XD5Xb"
-      },
-      "artists": [
-        {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
-        }
-      ],
-      "duration_ms": 153480,
-      "name": "Poup\u00e9e de cire, poup\u00e9e de son",
-      "url": "https://open.spotify.com/track/1OJcI2EzUidsTVl532wkWN"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Comment te dire adieu ?",
         "url": "https://open.spotify.com/album/5lX198dectE8fpkow4UXrf"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 146333,
       "name": "Comment te dire adieu - It Hurts to Say Goodbye",
       "url": "https://open.spotify.com/track/29GuoJqjg7aMxUmEO3XLEp"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "France Gall CD Story",
+        "url": "https://open.spotify.com/album/31UwyKsz2yvAEUf98XD5Xb"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 153480,
+      "name": "Poup\u00e9e de cire, poup\u00e9e de son",
+      "url": "https://open.spotify.com/track/1OJcI2EzUidsTVl532wkWN"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -943,6 +943,38 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "La Maladie D'Amour",
+        "url": "https://open.spotify.com/album/2VS8g9qRPdXFC3hQSIwmqK"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "La maladie d'amour",
+      "url": "https://open.spotify.com/track/7jEU2PWW32lv8DIfDdNtap"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Love Me Please Love Me",
+        "url": "https://open.spotify.com/album/4V5xtW0tFqjJUlAWHHv1Rg"
+      },
+      "artists": [
+        {
+          "name": "Michel Polnareff",
+          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "La poup\u00e9e qui fait non",
+      "url": "https://open.spotify.com/track/3OqYJWnF2v4B88YHEPuOmD"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Mon Vieux",
         "url": "https://open.spotify.com/album/1i0NyVofMiqLPfZwiiQ79f"
       },
@@ -959,18 +991,18 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "La Maladie D'Amour",
-        "url": "https://open.spotify.com/album/2VS8g9qRPdXFC3hQSIwmqK"
+        "name": "Fais Comme L'Oiseau",
+        "url": "https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn"
       },
       "artists": [
         {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+          "name": "Michel Fugain & Le Big Bazar",
+          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
         }
       ],
-      "duration_ms": 210186,
-      "name": "La maladie d'amour",
-      "url": "https://open.spotify.com/track/7jEU2PWW32lv8DIfDdNtap"
+      "duration_ms": 186693,
+      "name": "Fais comme l'oiseau",
+      "url": "https://open.spotify.com/track/5INFljqNxkfUkUajeXtBFh"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1003,22 +1035,6 @@
       "duration_ms": 182200,
       "name": "Vous permettez, monsieur ?",
       "url": "https://open.spotify.com/track/0BZkhtJceF2dcvazRrfguv"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "Fais Comme L'Oiseau",
-        "url": "https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn"
-      },
-      "artists": [
-        {
-          "name": "Michel Fugain & Le Big Bazar",
-          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
-        }
-      ],
-      "duration_ms": 186693,
-      "name": "Fais comme l'oiseau",
-      "url": "https://open.spotify.com/track/5INFljqNxkfUkUajeXtBFh"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Love Me Please Love Me",
-        "url": "https://open.spotify.com/album/4V5xtW0tFqjJUlAWHHv1Rg"
-      },
-      "artists": [
-        {
-          "name": "Michel Polnareff",
-          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "La poup\u00e9e qui fait non",
-      "url": "https://open.spotify.com/track/3OqYJWnF2v4B88YHEPuOmD"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "100 Tubes 70s",
         "url": "https://open.spotify.com/album/2zs6pEnk6jffcqakWih5lW"
       },
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/4WDKGsDi7616S6Egs0quLq"
-      },
-      "artists": [
-        {
-          "name": "Charles Trenet",
-          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
-        }
-      ],
-      "duration_ms": 192160,
-      "name": "Douce France",
-      "url": "https://open.spotify.com/track/1YwQo6MrcSn0RQfnk0iG8D"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Santiano",
         "url": "https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Platinum Charles Aznavour",
-        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/4WDKGsDi7616S6Egs0quLq"
       },
       "artists": [
         {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+          "name": "Charles Trenet",
+          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
         }
       ],
-      "duration_ms": 245533,
-      "name": "La boh\u00e8me",
-      "url": "https://open.spotify.com/track/1e9qVfNKLsWJZVjEYAzQyK"
+      "duration_ms": 192160,
+      "name": "Douce France",
+      "url": "https://open.spotify.com/track/1YwQo6MrcSn0RQfnk0iG8D"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1231,6 +1215,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "Platinum Charles Aznavour",
+        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "duration_ms": 245533,
+      "name": "La boh\u00e8me",
+      "url": "https://open.spotify.com/track/1e9qVfNKLsWJZVjEYAzQyK"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/3ZU8JjHnH8JxGEKfrN7x16"
       },
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Vu De L'Ext\u00e9rieur",
-        "url": "https://open.spotify.com/album/352XdbgCcdCMStQtgVDX3X"
-      },
-      "artists": [
-        {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
-        }
-      ],
-      "duration_ms": 199800,
-      "name": "Je suis venu te dire que je m'en vais",
-      "url": "https://open.spotify.com/track/35arjnsPj4gLO8aFclgexb"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/4XvvwnuEOPWWOexWJDbeYf"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 170840,
       "name": "Aline",
       "url": "https://open.spotify.com/track/17ODC17zbOv6MVBDiANvue"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Vu De L'Ext\u00e9rieur",
+        "url": "https://open.spotify.com/album/352XdbgCcdCMStQtgVDX3X"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "duration_ms": 199800,
+      "name": "Je suis venu te dire que je m'en vais",
+      "url": "https://open.spotify.com/track/35arjnsPj4gLO8aFclgexb"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "L'Etonnant Serge Gainsbourg",
-        "url": "https://open.spotify.com/album/1Ovnt6pwh0SP8hiyH2pA8T"
-      },
-      "artists": [
-        {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
-        }
-      ],
-      "duration_ms": 179560,
-      "name": "La chanson de Pr\u00e9vert",
-      "url": "https://open.spotify.com/track/7k9YGrFPWSMaakRzNEaN7Z"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Midnight in Paris - French Classics",
         "url": "https://open.spotify.com/album/0kP8oCXy88fxa0hRhS1oV0"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 175613,
       "name": "Parlez moi d'amour",
       "url": "https://open.spotify.com/track/6MqBuCt2rVBWQ0x23icnWc"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "L'Etonnant Serge Gainsbourg",
+        "url": "https://open.spotify.com/album/1Ovnt6pwh0SP8hiyH2pA8T"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "duration_ms": 179560,
+      "name": "La chanson de Pr\u00e9vert",
+      "url": "https://open.spotify.com/track/7k9YGrFPWSMaakRzNEaN7Z"
     }
   ],
   "unique_name": "Standards de la Chanson Fran\u00e7aise",

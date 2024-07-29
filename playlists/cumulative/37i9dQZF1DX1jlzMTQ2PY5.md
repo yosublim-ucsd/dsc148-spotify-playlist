@@ -4,7 +4,7 @@
 
 > Escape with these melodic liquid drum & bass beats
 
-182 songs - 13 hr 16 min
+183 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Falling In Love](https://open.spotify.com/track/1Qyzdb5fhdZOQLJ3hH7kIq) | [Mystific](https://open.spotify.com/artist/1vmJX00cwTh9L8kYn1JfT4) | [Falling In Love](https://open.spotify.com/album/1d7ORhsWDJmFP2skkYFwTX) | 4:24 | 2023-11-17 |  |
 | [Farore](https://open.spotify.com/track/3FKHPk807KtTYigTRBTZZR) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Nymfo](https://open.spotify.com/artist/2Pdhwac5oHsY95PeUq6VBS) | [Farore](https://open.spotify.com/album/1NcOECskAuHYeRlsoJjpR0) | 4:51 | 2022-01-21 | 2023-04-05 |
 | [FEEL LIKE ME](https://open.spotify.com/track/7fsyvxSJi1vkTzwO5eQFMo) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [FEEL LIKE ME](https://open.spotify.com/album/3bJ63PICHastTFzJkXGHAu) | 5:13 | 2024-07-26 |  |
-| [Final Render](https://open.spotify.com/track/2kkSL3E7r2SfdgTBNaA3qz) | [MKSTN](https://open.spotify.com/artist/43sodApl7acNHbFLOrgZuD), [CAPSUL](https://open.spotify.com/artist/6bKawCX7BxUXTBf05SsIpZ) | [CAPSUL](https://open.spotify.com/album/6ya1ggGwmnwegd0bjjyW0t) | 2:29 | 2022-10-28 |  |
+| [Final Render](https://open.spotify.com/track/2kkSL3E7r2SfdgTBNaA3qz) | [MKSTN](https://open.spotify.com/artist/43sodApl7acNHbFLOrgZuD), [CAPSUL](https://open.spotify.com/artist/6bKawCX7BxUXTBf05SsIpZ) | [CAPSUL](https://open.spotify.com/album/6ya1ggGwmnwegd0bjjyW0t) | 2:29 | 2022-10-28 | 2024-07-29 |
 | [Fine Lines](https://open.spotify.com/track/6eD6GPEiaMna96ylz395oa) | [GLXY](https://open.spotify.com/artist/1U8nnmbuPk1EpoO7MVgIeT), [Sustance](https://open.spotify.com/artist/3069G1J62ioGObj518Umm2), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Fine Lines](https://open.spotify.com/album/0cFM1QU0I7aQRBoSDWdP85) | 3:24 | 2023-09-15 | 2024-07-27 |
 | [Freefall](https://open.spotify.com/track/0GAHmF6YJKFd1pgk3fdvGs) | [Dexcell](https://open.spotify.com/artist/30OaLZeQTMJHvuH3TIMUPz), [LaMeduza](https://open.spotify.com/artist/03rlubJFN0KCfvjKwt25D9) | [Freefall](https://open.spotify.com/album/5RxmvOXXB6Czd2gXZH0y9N) | 4:50 | 2022-06-14 | 2024-04-19 |
 | [Freefall](https://open.spotify.com/track/77VtotY5X2jt4SKVbNBZ0d) | [Dexcell](https://open.spotify.com/artist/30OaLZeQTMJHvuH3TIMUPz), [LaMeduza](https://open.spotify.com/artist/03rlubJFN0KCfvjKwt25D9) | [Freefall](https://open.spotify.com/album/3fGQ5EGXBlqDpe4DlZ8H9N) | 4:50 | 2022-01-21 | 2022-07-29 |
@@ -94,6 +94,7 @@
 | [I Will Wave To You](https://open.spotify.com/track/5p39yQKTqsjc5Y3XNgoXVM) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [I Will Wave To You / Heterize](https://open.spotify.com/album/4oLxNhAdMueTwNU6l3tFxt) | 4:19 | 2022-01-21 | 2022-07-29 |
 | [I've Been Missing You](https://open.spotify.com/track/3R9b1PpbmKKZ24rJpRnX5X) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [I've Been Missing You](https://open.spotify.com/album/3M8bgcle0cerp3hMZ91h25) | 4:44 | 2022-01-21 | 2024-07-27 |
 | [Ida](https://open.spotify.com/track/6l33m7UxaR3pbNtNa8QARI) | [Matt View](https://open.spotify.com/artist/4uMpmqIDOviQTm05ktVtqC) | [Under Pressure EP](https://open.spotify.com/album/5PWBNL64sQMzslVeqim6UZ) | 4:56 | 2022-01-21 | 2022-07-07 |
+| [Illuminate](https://open.spotify.com/track/3BAsUgDkWZxkSeIS0rl9iE) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX), [Riya](https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb) | [Illuminate](https://open.spotify.com/album/2btXYqQB4bmCVy2zE6vqRa) | 4:23 | 2024-07-26 |  |
 | [In Heaven](https://open.spotify.com/track/3pxw9ukOH4Q95Y6NDGg5Eu) | [Conrad Subs](https://open.spotify.com/artist/62Vn4DolLwSkkSS4fEXKLH) | [In Heaven](https://open.spotify.com/album/6qmctOpdUfCPIrjLo3BvhX) | 4:35 | 2022-01-21 | 2022-07-29 |
 | [In The Likeness Of You](https://open.spotify.com/track/4s7YxlWYJePQVsPxLNMIfa) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ) | [In The Likeness Of You](https://open.spotify.com/album/1IibxYjh02gKOc3VjFGV71) | 4:04 | 2023-09-22 |  |
 | [Inertia](https://open.spotify.com/track/6y52a1OHsJGNyU5qjIghhe) | [Mirrored Theory](https://open.spotify.com/artist/27844MJ5IB1HBPtf5jxuji) | [Inertia](https://open.spotify.com/album/4yX1mfitgmZsCfgq14Phmo) | 3:51 | 2022-01-21 | 2023-09-15 |

@@ -4,7 +4,7 @@
 
 > Cool és trendi dalok Magyarországon.
 
-103 songs - 5 hr 6 min
+104 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Boldogtalanság](https://open.spotify.com/track/1NJqCgWaY3kwdt2f7M1iui) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Boldogtalanság](https://open.spotify.com/album/61nJQwXqRRvAcvWWsclK18) | 3:06 | 2024-07-01 | 2024-07-04 |
 | [Careful What You Wish For \(the doctor said to\)](https://open.spotify.com/track/1Tob6YkutQ6jjWKzLO4gkr) | [Jack Harris](https://open.spotify.com/artist/27edmR0EqnlQYsj80VTusr) | [Careful What You Wish For \(the doctor said to\)](https://open.spotify.com/album/3rmfOGqqTeqDhwxPMNELz8) | 3:13 | 2024-07-01 |  |
 | [CARTIER](https://open.spotify.com/track/65zjjkUwz8KIPNypaHRX9m) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [NINCS HOLNAP](https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd) | 2:30 | 2024-07-01 |  |
-| [Cigány\-ügy](https://open.spotify.com/track/4fzbwV7qglR3mPit64hXse) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Rytmus](https://open.spotify.com/artist/1gRr6moof50L1b7XsbClvI), [Érdi Baba](https://open.spotify.com/artist/5CPKLSKScYKTRdr491KCJu) | [Cigány\-ügy](https://open.spotify.com/album/4wsF3ZBcwC74KWDMiWFjui) | 3:39 | 2024-07-15 |  |
+| [ceremónia](https://open.spotify.com/track/2IetMd5ZFurl1sjSAqhq2O) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [tripq](https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr) | 4:33 | 2024-07-22 |  |
+| [Cigány\-ügy](https://open.spotify.com/track/4fzbwV7qglR3mPit64hXse) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Rytmus](https://open.spotify.com/artist/1gRr6moof50L1b7XsbClvI), [Érdi Baba](https://open.spotify.com/artist/5CPKLSKScYKTRdr491KCJu) | [Cigány\-ügy](https://open.spotify.com/album/4wsF3ZBcwC74KWDMiWFjui) | 3:39 | 2024-07-15 | 2024-07-29 |
 | [cipoe](https://open.spotify.com/track/2H5Xte3poqJ1ld8HtmC7yc) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [cipoe](https://open.spotify.com/album/1aNoilrZREe8e16qX2fFTG) | 3:27 | 2024-07-01 | 2024-07-04 |
 | [Delilah](https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm) | [MIKOLAS](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [Delilah](https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh) | 2:21 | 2024-07-01 |  |
 | [Doktor \- Torz](https://open.spotify.com/track/5BMR7642rtK1PdcsMDhuFf) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Torz](https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh) | 2:58 | 2024-07-01 |  |

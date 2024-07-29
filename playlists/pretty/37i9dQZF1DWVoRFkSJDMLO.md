@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums..\. welcome to the function\. Cover: SPINALL, Omah Lay, Tyla 🇳🇬 🇳🇬 🇿🇦
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,547 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,607 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 17 | [Jolene](https://open.spotify.com/track/5483pcvbfX7Ii7gO5JGUpF) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 2:55 |
 | 18 | [207](https://open.spotify.com/track/6EgqrmhXNRv4v5tLdiDvde) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [René Soso Pembe](https://open.spotify.com/artist/4VbRAkOhCxEkuNK4EeVFIM) | [207](https://open.spotify.com/album/5ZGzNUDy8PA9qIa3bYrHMG) | 8:30 |
 | 19 | [Miracle Worker \(feat\. Lojay\)](https://open.spotify.com/track/7pkTAS4TcKg1gThbTA8FLX) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Lost and Found](https://open.spotify.com/album/7ngqg1CSDp6jc7KPs6tWax) | 3:05 |
-| 20 | [Endless Vibe](https://open.spotify.com/track/0s8EUdOerqXJZ4LgNcYA9O) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Endless Vibes](https://open.spotify.com/album/43PIeAeRBVzA8iE0MM7PJj) | 2:27 |
+| 20 | [Endless Vibes](https://open.spotify.com/track/0s8EUdOerqXJZ4LgNcYA9O) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Endless Vibes](https://open.spotify.com/album/43PIeAeRBVzA8iE0MM7PJj) | 2:27 |
 | 21 | [Gal we Love](https://open.spotify.com/track/2ePhOHdxz3BcYxJg27QxFE) | [Nadg](https://open.spotify.com/artist/3cebGxBz4V81fXQDHv66WB), [Massive B](https://open.spotify.com/artist/36fJ2Mx3ktclhSlBbsUbFY), [Bobby Konders](https://open.spotify.com/artist/1AEHGLRSBHwSr4VmU7IOXj) | [Gal we Love](https://open.spotify.com/album/71vPoSAtLtxSjEvY7tNvqj) | 2:26 |
 | 22 | [Gyaliday](https://open.spotify.com/track/58p85QsJrdoaEkrbIzLnc7) | [Delomar](https://open.spotify.com/artist/1z3bHX8di6TlSaLbUvIsri), [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws), [Bay\-C](https://open.spotify.com/artist/21ciCl1i66cJdB0owlmyQ8), [T.O.K](https://open.spotify.com/artist/06JH3wcXkJg7eoxZVMO1UX) | [Gyaliday](https://open.spotify.com/album/2s8EzyBjv7KqFOERfpsbwh) | 2:02 |
 | 23 | [Sprung \(with Mical Teja\)](https://open.spotify.com/track/2n4yRktLv5hA22OpcflSg4) | [Jimmy October](https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn), [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [Sprung \(with Mical Teja\)](https://open.spotify.com/album/5CQ63ZWFQ4WGPrpujDGNFf) | 2:56 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 3752,
+  "num_followers": 3754,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqLnAAAAAACMMji605D1Yy2ID4uSpBPJ",
+  "snapshot_id": "ZqQ4gAAAAAAIjkCkZbXYJjfJLEHB7vyN",
   "tracks": [
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spirit Desire",
-        "url": "https://open.spotify.com/album/2BS5nxXE6hjWQRplpfxrib"
+        "name": "spin",
+        "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 98213,
-      "name": "Meet at the Corner",
-      "url": "https://open.spotify.com/track/2dEhFo7bGnpxExq03Lh66P"
+      "duration_ms": 215813,
+      "name": "Bullet",
+      "url": "https://open.spotify.com/track/19OmsLCVYcEGoMgmbzZxPv"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "spin",
-        "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
+        "name": "Spirit Desire",
+        "url": "https://open.spotify.com/album/2BS5nxXE6hjWQRplpfxrib"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 215813,
-      "name": "Bullet",
-      "url": "https://open.spotify.com/track/19OmsLCVYcEGoMgmbzZxPv"
+      "duration_ms": 98213,
+      "name": "Meet at the Corner",
+      "url": "https://open.spotify.com/track/2dEhFo7bGnpxExq03Lh66P"
     },
     {
       "added_at": null,
@@ -660,7 +660,7 @@
       "added_at": null,
       "album": {
         "name": "Two Worlds",
-        "url": "https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP"
+        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 140426,
-      "name": "Test Pattern",
-      "url": "https://open.spotify.com/track/3Jg47BnPUcqwXnjvgOnnTL"
+      "duration_ms": 148733,
+      "name": "Two Worlds",
+      "url": "https://open.spotify.com/track/36Xh8ttDu0NOUvTQ4KhjpT"
     },
     {
       "added_at": null,
@@ -692,7 +692,7 @@
       "added_at": null,
       "album": {
         "name": "Two Worlds",
-        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
+        "url": "https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 148733,
-      "name": "Two Worlds",
-      "url": "https://open.spotify.com/track/36Xh8ttDu0NOUvTQ4KhjpT"
+      "duration_ms": 140426,
+      "name": "Test Pattern",
+      "url": "https://open.spotify.com/track/3Jg47BnPUcqwXnjvgOnnTL"
     },
     {
       "added_at": null,

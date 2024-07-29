@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-194 songs - 8 hr 37 min
+195 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Inner Peace](https://open.spotify.com/track/0EncdyFKNletEI25jFT3Ao) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Natty Reeves](https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64) | [Inner Peace](https://open.spotify.com/album/0oR0oXCg9PwlH5b0OglHBI) | 3:06 | 2023-01-12 | 2024-06-08 |
 | [Inside Out](https://open.spotify.com/track/41Iyj7VLspMaPVQP47toOK) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 5:21 | 2023-01-12 |  |
 | [Iris](https://open.spotify.com/track/1lZj8bgdCrkLFCd7WXjTyd) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [c e c e l i e](https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX), [jazz\_rabbit](https://open.spotify.com/artist/2ljuC6YzA818simZ2TgEc2), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Iris](https://open.spotify.com/album/0eUrglnLadODz1h6yqu3io) | 2:34 | 2023-01-12 |  |
+| [Jetlag](https://open.spotify.com/track/0HFPMPIPGy0o9ocbHMNz2P) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Cloudscape](https://open.spotify.com/album/1fN2VRfRVaRSJCn6hS4bgo) | 2:26 | 2024-07-25 |  |
 | [Jezerro](https://open.spotify.com/track/0wO5Kuq82JCh1w5XZBSqiZ) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Jezerro](https://open.spotify.com/album/0zRaAbN8C00tQH0nQJB5UE) | 2:33 | 2023-01-13 |  |
 | [Jonde](https://open.spotify.com/track/0hvhmLGNOEy6qlNodaGTWX) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Jonde](https://open.spotify.com/album/2PAu7Dzy32vksH99LQho5k) | 2:47 | 2023-01-12 |  |
 | [Keep Cruising](https://open.spotify.com/track/3XvmzqTtljQMpSGqvxA6IO) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA) | [Keep Cruising](https://open.spotify.com/album/1tFPg1D0lkIdF5KQyh4fWT) | 3:56 | 2023-01-12 |  |
@@ -121,7 +122,7 @@
 | [New Levels](https://open.spotify.com/track/0IEhsMbSmiwiDzDENW3LK5) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [New Levels](https://open.spotify.com/album/2uiimsW2bYwFebpQTfY33m) | 3:52 | 2023-01-12 | 2023-10-20 |
 | [Newport](https://open.spotify.com/track/1Ieov0BFr2R6L4AwtApqTW) | [Larry Dee](https://open.spotify.com/artist/71FCXGwLKwJQVGkffEzj64) | [Newport](https://open.spotify.com/album/4vT6tlGmNSkDBZ1gglfNvn) | 2:34 | 2023-06-20 | 2024-05-25 |
 | [night mood](https://open.spotify.com/track/1xc37uddWtDmS2RPcVEv47) | [Zoe Reed](https://open.spotify.com/artist/4mZWwBPYRI8NSMUBAH8WFE) | [night mood](https://open.spotify.com/album/7yrRTcBURvroZi2godJP0n) | 1:56 | 2023-11-24 | 2024-03-26 |
-| [Night Service](https://open.spotify.com/track/5Hc511aAeqSeQ5PoBqZd84) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f), [Heemo\*](https://open.spotify.com/artist/0iim4E2EDMwWUFngjxk5ip) | [Healing](https://open.spotify.com/album/5J89tzUF3Yuw2Iqo68Ejtl) | 3:02 | 2023-01-12 |  |
+| [Night Service](https://open.spotify.com/track/5Hc511aAeqSeQ5PoBqZd84) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f), [Heemo\*](https://open.spotify.com/artist/0iim4E2EDMwWUFngjxk5ip) | [Healing](https://open.spotify.com/album/5J89tzUF3Yuw2Iqo68Ejtl) | 3:02 | 2023-01-12 | 2024-07-29 |
 | [Nightlife](https://open.spotify.com/track/7rFYeoifHq9wYNSL7nQpAj) | [9ICK](https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Calvin Bennett](https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Nightlife](https://open.spotify.com/album/4IeJl3nyIh15rF6AaaHhFP) | 2:03 | 2023-01-12 |  |
 | [no rain today](https://open.spotify.com/track/0EJ4R1FWyczgGsdlIKgjyX) | [Avenue Arts](https://open.spotify.com/artist/3JBqMhMwu7mQz9onsWHdsl) | [no rain today](https://open.spotify.com/album/0m36fSjMw8zlqjdJH2VQYg) | 1:24 | 2023-01-12 | 2023-06-25 |
 | [No Worries](https://open.spotify.com/track/1UKn8bOlQO1gakfDhyu1FN) | [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [No Worries](https://open.spotify.com/album/1mJMKjZhjvbqj1vsLq5OHT) | 3:01 | 2023-01-12 |  |

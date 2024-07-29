@@ -1753,6 +1753,24 @@
     },
     {
       "album": {
+        "name": "Loved Somebody Else",
+        "url": "https://open.spotify.com/album/5ithKxVdpmbeGSTzAg8wU0"
+      },
+      "artists": [
+        {
+          "name": "St. Lundi",
+          "url": "https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH"
+        }
+      ],
+      "date_added": "2024-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Loved Somebody Else",
+      "url": "https://open.spotify.com/track/5zWjUmp1laBahCxtmKnO7o"
+    },
+    {
+      "album": {
         "name": "Hunger",
         "url": "https://open.spotify.com/album/16t2OtzcshZ9wcDMk75hw1"
       },

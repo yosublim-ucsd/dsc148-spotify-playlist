@@ -4,7 +4,7 @@
 
 > ¡Al cien para un buen ejercicio!
 
-572 songs - 1 day 5 hr 8 min
+573 songs - 1 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,7 @@
 | [La Fea](https://open.spotify.com/track/6qYIKvPdRn7tIyCv19nFLm) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Fea](https://open.spotify.com/album/0GqDAplr6kDDLQeqoajRNY) | 4:05 | 2022-02-14 | 2022-12-08 |
 | [La Fuga del Dorian \(feat\. Ariel Camacho & Regulo Caro\)](https://open.spotify.com/track/0aKMglFhqmZzJXiNdT0BGK) | [Grupo Fernandez](https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik), [Ariel Camacho](https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [La Fuga del Dorian](https://open.spotify.com/album/5JTve2kpwniH9fmvXiwO0z) | 4:37 | 2022-02-14 | 2022-06-05 |
 | [La Güerita](https://open.spotify.com/track/0k7X5g2nknCJnrEWmt8ltO) | [Clave 520](https://open.spotify.com/artist/3DnH9jotIhBLs9xikHAp54) | [La Güerita](https://open.spotify.com/album/00BEPI4AkXiVJvAKUMaOR2) | 3:03 | 2022-05-27 | 2022-06-07 |
-| [La Historia De Mis Manos \(En Vivo\)](https://open.spotify.com/track/4P4zocr4L4iBGUvQL4VuoT) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Desde Mazatlán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/6VE5VAjHrptT2rWYr8xeIW) | 3:52 | 2024-05-01 |  |
+| [La Historia De Mis Manos \(En Vivo\)](https://open.spotify.com/track/4P4zocr4L4iBGUvQL4VuoT) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Desde Mazatlán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/6VE5VAjHrptT2rWYr8xeIW) | 3:52 | 2024-05-01 | 2024-07-29 |
 | [La Hummer Y El Camaro](https://open.spotify.com/track/6bRkTmvWjUr6aCXrKGIaG5) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx), [Escolta De Guerra](https://open.spotify.com/artist/3K6LZGkzrJ4tD0pSrT9QZl), [Jorge Santacruz](https://open.spotify.com/artist/2bPZFtRkurwmMFJ16lnEFx) | [Los Mejores Corridos De](https://open.spotify.com/album/67hj85XV3QKcgKW48hJM4x) | 3:31 | 2022-02-14 | 2024-05-02 |
 | [La Hummer Y El Camaro 2 "La Revancha"](https://open.spotify.com/track/3Wjhw44kAAQS6BRRtMvdcv) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx), [Mario "El Cachorro" Delgado](https://open.spotify.com/artist/2C6aTaybjOqqtdTxKx8xTX), [Escolta De Guerra](https://open.spotify.com/artist/3K6LZGkzrJ4tD0pSrT9QZl) | [Y Ahora Resulta](https://open.spotify.com/album/1a5ieU77NxfKsZKYZuZno9) | 3:29 | 2022-05-27 | 2022-12-08 |
 | [La Intención](https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Intención](https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2) | 4:09 | 2024-05-01 |  |
@@ -580,5 +580,6 @@
 | [Yo Ya No Vuelvo Contigo \- En Vivo](https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Yo Ya No Vuelvo Contigo \(En Vivo\)](https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9) | 4:00 | 2024-05-01 |  |
 | [Yo, Billetes y Damas](https://open.spotify.com/track/1ybkixLiM92Wgbp72m6Ddt) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Yo, Billetes y Damas \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/54UMtaPgBFFOUwqr0QKBTG) | 3:29 | 2022-06-10 | 2022-11-13 |
 | [Zumbando Terrenos](https://open.spotify.com/track/3cydPWRwnndcp2C2lIlUt1) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN), [Nietos Del Viejo](https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:23 | 2022-02-14 | 2022-11-13 |
+| [¿Qué Fuimos?](https://open.spotify.com/track/5Sk8yWDVdxN4Z4YXhsfm60) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Qué Fuimos?](https://open.spotify.com/album/34Sw1Fw83VUTkS9vNv8wiC) | 3:30 | 2024-05-01 |  |
 
 \*This playlist was first scraped on 2022-05-23. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Sophi, Anna P\u00eago",
-  "num_followers": 434511,
+  "num_followers": 434503,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -123,26 +123,6 @@
     {
       "added_at": "2024-07-26 15:28:53",
       "album": {
-        "name": "Mais Uma Hist\u00f3ria de Amor",
-        "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
-      },
-      "artists": [
-        {
-          "name": "Cupertino",
-          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
-        },
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "A Gente Tem Tudo a Ver",
-      "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
-    },
-    {
-      "added_at": "2024-07-26 15:28:53",
-      "album": {
         "name": "Quem Sabe",
         "url": "https://open.spotify.com/album/52Zx3yPSSNwEuFBR45BFhc"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 173858,
       "name": "Quem Sabe",
       "url": "https://open.spotify.com/track/4EhMEPnreQE7o1sA47eVXB"
+    },
+    {
+      "added_at": "2024-07-26 15:28:53",
+      "album": {
+        "name": "Mais Uma Hist\u00f3ria de Amor",
+        "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
+      },
+      "artists": [
+        {
+          "name": "Cupertino",
+          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
+        },
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "A Gente Tem Tudo a Ver",
+      "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
     },
     {
       "added_at": "2024-07-26 15:28:53",
@@ -211,6 +211,22 @@
     {
       "added_at": "2024-07-26 15:28:53",
       "album": {
+        "name": "Resposta",
+        "url": "https://open.spotify.com/album/6fPQatXeKSpZuyNKj5adbD"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 211069,
+      "name": "Resposta",
+      "url": "https://open.spotify.com/track/0ZJ6kYBasODtY4JWDzkDDE"
+    },
+    {
+      "added_at": "2024-07-26 15:28:53",
+      "album": {
         "name": "Antes Que O Mundo Acabe",
         "url": "https://open.spotify.com/album/7rAGzb5tmPjeJRJZULY1GD"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 141688,
       "name": "Bobagem Amor",
       "url": "https://open.spotify.com/track/2Zf1ZOawP5E9xiFQd10ab3"
-    },
-    {
-      "added_at": "2024-07-26 15:28:53",
-      "album": {
-        "name": "Resposta",
-        "url": "https://open.spotify.com/album/6fPQatXeKSpZuyNKj5adbD"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 211069,
-      "name": "Resposta",
-      "url": "https://open.spotify.com/track/0ZJ6kYBasODtY4JWDzkDDE"
     },
     {
       "added_at": "2024-07-26 15:28:53",
@@ -299,6 +299,74 @@
     {
       "added_at": "2024-07-26 15:28:53",
       "album": {
+        "name": "Encantos Mil",
+        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 168637,
+      "name": "Encantos Mil",
+      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
+    },
+    {
+      "added_at": "2024-07-26 15:28:53",
+      "album": {
+        "name": "Amor de Domingo",
+        "url": "https://open.spotify.com/album/0nc3EbdVSfsXT08FybsT4j"
+      },
+      "artists": [
+        {
+          "name": "Deb Ribeiro",
+          "url": "https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N"
+        },
+        {
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        }
+      ],
+      "duration_ms": 154337,
+      "name": "Amor de Domingo",
+      "url": "https://open.spotify.com/track/2BdSUjGlGxXZX2IK9DkTkc"
+    },
+    {
+      "added_at": "2024-07-26 15:28:53",
+      "album": {
+        "name": "De Novo",
+        "url": "https://open.spotify.com/album/45qeCoq05K7BO45Kg5pVnY"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 161656,
+      "name": "De Novo",
+      "url": "https://open.spotify.com/track/5mDLtG5amHhOH6CIZEMtoe"
+    },
+    {
+      "added_at": "2024-07-26 15:28:53",
+      "album": {
+        "name": "Efeito Voc\u00ea",
+        "url": "https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 168064,
+      "name": "Efeito Voc\u00ea",
+      "url": "https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP"
+    },
+    {
+      "added_at": "2024-07-26 15:28:53",
+      "album": {
         "name": "OS GAROTIN DE S\u00c3O GON\u00c7ALO",
         "url": "https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ"
       },
@@ -327,34 +395,18 @@
     {
       "added_at": "2024-07-26 15:28:53",
       "album": {
-        "name": "Encantos Mil",
-        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
+        "name": "Existe Amor Aqui",
+        "url": "https://open.spotify.com/album/1oiN0TvrXq2LYlOkKGtcET"
       },
       "artists": [
         {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+          "name": "Julia Smith",
+          "url": "https://open.spotify.com/artist/4DfLXTDD8dF2vGIbff6fzs"
         }
       ],
-      "duration_ms": 168637,
-      "name": "Encantos Mil",
-      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
-    },
-    {
-      "added_at": "2024-07-26 15:28:53",
-      "album": {
-        "name": "De Novo",
-        "url": "https://open.spotify.com/album/45qeCoq05K7BO45Kg5pVnY"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 161656,
-      "name": "De Novo",
-      "url": "https://open.spotify.com/track/5mDLtG5amHhOH6CIZEMtoe"
+      "duration_ms": 199681,
+      "name": "Sem Me Preocupar",
+      "url": "https://open.spotify.com/track/4xoyLEqcy6eVq8orVRaPrl"
     },
     {
       "added_at": "2024-07-26 15:28:53",
@@ -379,22 +431,6 @@
     {
       "added_at": "2024-07-26 15:28:53",
       "album": {
-        "name": "Existe Amor Aqui",
-        "url": "https://open.spotify.com/album/1oiN0TvrXq2LYlOkKGtcET"
-      },
-      "artists": [
-        {
-          "name": "Julia Smith",
-          "url": "https://open.spotify.com/artist/4DfLXTDD8dF2vGIbff6fzs"
-        }
-      ],
-      "duration_ms": 199681,
-      "name": "Sem Me Preocupar",
-      "url": "https://open.spotify.com/track/4xoyLEqcy6eVq8orVRaPrl"
-    },
-    {
-      "added_at": "2024-07-26 15:28:53",
-      "album": {
         "name": "Saudade Sussurrou",
         "url": "https://open.spotify.com/album/5f1AUvrMH7HcBKRVBassaD"
       },
@@ -411,18 +447,22 @@
     {
       "added_at": "2024-07-26 15:28:53",
       "album": {
-        "name": "Efeito Voc\u00ea",
-        "url": "https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp"
+        "name": "Praia do Rosa",
+        "url": "https://open.spotify.com/album/1tZ0Nwo5mAogte1wpVjTuT"
       },
       "artists": [
         {
           "name": "GUPE",
           "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        },
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
         }
       ],
-      "duration_ms": 168064,
-      "name": "Efeito Voc\u00ea",
-      "url": "https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP"
+      "duration_ms": 155553,
+      "name": "Praia do Rosa",
+      "url": "https://open.spotify.com/track/6uVu7KamzHXTUKSjfdZb84"
     },
     {
       "added_at": "2024-07-26 15:28:53",
@@ -443,26 +483,6 @@
       "duration_ms": 163258,
       "name": "Carinha De Problema",
       "url": "https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa"
-    },
-    {
-      "added_at": "2024-07-26 15:28:53",
-      "album": {
-        "name": "Amor de Domingo",
-        "url": "https://open.spotify.com/album/0nc3EbdVSfsXT08FybsT4j"
-      },
-      "artists": [
-        {
-          "name": "Deb Ribeiro",
-          "url": "https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N"
-        },
-        {
-          "name": "Org\u00e2nico",
-          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
-        }
-      ],
-      "duration_ms": 154337,
-      "name": "Amor de Domingo",
-      "url": "https://open.spotify.com/track/2BdSUjGlGxXZX2IK9DkTkc"
     },
     {
       "added_at": "2024-07-26 15:28:53",
@@ -539,26 +559,6 @@
     {
       "added_at": "2024-07-26 15:28:53",
       "album": {
-        "name": "Praia do Rosa",
-        "url": "https://open.spotify.com/album/1tZ0Nwo5mAogte1wpVjTuT"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        },
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 155553,
-      "name": "Praia do Rosa",
-      "url": "https://open.spotify.com/track/6uVu7KamzHXTUKSjfdZb84"
-    },
-    {
-      "added_at": "2024-07-26 15:28:53",
-      "album": {
         "name": "PROIBIDO N\u00c3O GOSTAR",
         "url": "https://open.spotify.com/album/69WlCG6kcfEwIinh2asJcu"
       },
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-07-26 15:28:53",
       "album": {
+        "name": "Se Me Ver",
+        "url": "https://open.spotify.com/album/1hnmHjEYieDwvfIoBqmf8T"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 175018,
+      "name": "Se Me Ver",
+      "url": "https://open.spotify.com/track/5VDpAikNgUbuSiv5dSCVkz"
+    },
+    {
+      "added_at": "2024-07-26 15:28:53",
+      "album": {
         "name": "N\u00e3o Me Defina (Hor\u00f3scopo)",
         "url": "https://open.spotify.com/album/7cETFnvsKKgZhN8PpXa3Mx"
       },
@@ -675,38 +691,18 @@
     {
       "added_at": "2024-07-26 15:28:53",
       "album": {
-        "name": "PLENA TER\u00c7A FEIRA",
-        "url": "https://open.spotify.com/album/6NgRpkiKTHUb0tp2C9Gxg3"
+        "name": "Guaec\u00e1",
+        "url": "https://open.spotify.com/album/795nahxSioRqoCX5vZKFP0"
       },
       "artists": [
         {
-          "name": "Gabriel Coelho",
-          "url": "https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx"
-        },
-        {
-          "name": "Julie Ramos",
-          "url": "https://open.spotify.com/artist/72MhucM5doKoAXE5GIApaV"
+          "name": "LUAU",
+          "url": "https://open.spotify.com/artist/6ERRp63qsgvVWdu1xKftZg"
         }
       ],
-      "duration_ms": 187982,
-      "name": "PLENA TER\u00c7A FEIRA",
-      "url": "https://open.spotify.com/track/4yt9UtmoWZRHLRl5HN0g86"
-    },
-    {
-      "added_at": "2024-07-26 15:28:53",
-      "album": {
-        "name": "Se Me Ver",
-        "url": "https://open.spotify.com/album/1hnmHjEYieDwvfIoBqmf8T"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 175018,
-      "name": "Se Me Ver",
-      "url": "https://open.spotify.com/track/5VDpAikNgUbuSiv5dSCVkz"
+      "duration_ms": 156240,
+      "name": "Guaec\u00e1",
+      "url": "https://open.spotify.com/track/6NH6AuMUHppJ1DmNQpHRcw"
     },
     {
       "added_at": "2024-07-26 15:28:53",
@@ -727,18 +723,22 @@
     {
       "added_at": "2024-07-26 15:28:53",
       "album": {
-        "name": "Guaec\u00e1",
-        "url": "https://open.spotify.com/album/795nahxSioRqoCX5vZKFP0"
+        "name": "PLENA TER\u00c7A FEIRA",
+        "url": "https://open.spotify.com/album/6NgRpkiKTHUb0tp2C9Gxg3"
       },
       "artists": [
         {
-          "name": "LUAU",
-          "url": "https://open.spotify.com/artist/6ERRp63qsgvVWdu1xKftZg"
+          "name": "Gabriel Coelho",
+          "url": "https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx"
+        },
+        {
+          "name": "Julie Ramos",
+          "url": "https://open.spotify.com/artist/72MhucM5doKoAXE5GIApaV"
         }
       ],
-      "duration_ms": 156240,
-      "name": "Guaec\u00e1",
-      "url": "https://open.spotify.com/track/6NH6AuMUHppJ1DmNQpHRcw"
+      "duration_ms": 187982,
+      "name": "PLENA TER\u00c7A FEIRA",
+      "url": "https://open.spotify.com/track/4yt9UtmoWZRHLRl5HN0g86"
     },
     {
       "added_at": "2024-07-26 15:28:53",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-07-26 15:28:53",
       "album": {
-        "name": "No Teu Mar",
-        "url": "https://open.spotify.com/album/6ewFG75JpBi8H630jshivJ"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 149072,
-      "name": "No Teu Mar",
-      "url": "https://open.spotify.com/track/3YI1nFCJBx33t2YM9d8VmT"
-    },
-    {
-      "added_at": "2024-07-26 15:28:53",
-      "album": {
         "name": "J\u00e1 Te Falei",
         "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 205540,
       "name": "J\u00e1 Te Falei",
       "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
+    },
+    {
+      "added_at": "2024-07-26 15:28:53",
+      "album": {
+        "name": "No Teu Mar",
+        "url": "https://open.spotify.com/album/6ewFG75JpBi8H630jshivJ"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 149072,
+      "name": "No Teu Mar",
+      "url": "https://open.spotify.com/track/3YI1nFCJBx33t2YM9d8VmT"
     },
     {
       "added_at": "2024-07-26 15:28:53",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-07-26 15:28:53",
       "album": {
+        "name": "Nosso Carnaval",
+        "url": "https://open.spotify.com/album/0srVK7a9O1M6AthVTfiOHK"
+      },
+      "artists": [
+        {
+          "name": "Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/5Nwyqp8VllhGHPPQw6FH7U"
+        }
+      ],
+      "duration_ms": 165490,
+      "name": "Nosso Carnaval",
+      "url": "https://open.spotify.com/track/2K6gasvI6EdOlvqSxJDQf6"
+    },
+    {
+      "added_at": "2024-07-26 15:28:53",
+      "album": {
         "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
         "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 161632,
       "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
       "url": "https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq"
-    },
-    {
-      "added_at": "2024-07-26 15:28:53",
-      "album": {
-        "name": "Nosso Carnaval",
-        "url": "https://open.spotify.com/album/0srVK7a9O1M6AthVTfiOHK"
-      },
-      "artists": [
-        {
-          "name": "Brand\u00e3o",
-          "url": "https://open.spotify.com/artist/5Nwyqp8VllhGHPPQw6FH7U"
-        }
-      ],
-      "duration_ms": 165490,
-      "name": "Nosso Carnaval",
-      "url": "https://open.spotify.com/track/2K6gasvI6EdOlvqSxJDQf6"
     },
     {
       "added_at": "2024-07-26 15:28:53",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-07-26 15:28:53",
       "album": {
+        "name": "Sentimento Raro",
+        "url": "https://open.spotify.com/album/3R2Xy1gYUFEp7sVgDu3a2f"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Sentimento Raro",
+      "url": "https://open.spotify.com/track/32VWRV4wW9lx95AQJGznCi"
+    },
+    {
+      "added_at": "2024-07-26 15:28:53",
+      "album": {
         "name": "nada do que voc\u00ea falou",
         "url": "https://open.spotify.com/album/1LCOVSUD0lH9xzpg5XqByU"
       },
@@ -1199,6 +1215,22 @@
       "duration_ms": 153875,
       "name": "nada do que voc\u00ea falou",
       "url": "https://open.spotify.com/track/3yHOMte77W5i92H0tx1UNc"
+    },
+    {
+      "added_at": "2024-07-26 15:28:53",
+      "album": {
+        "name": "Eu e Voc\u00ea",
+        "url": "https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 185597,
+      "name": "Eu e Voc\u00ea",
+      "url": "https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z"
     },
     {
       "added_at": "2024-07-26 15:28:53",
@@ -1287,22 +1319,6 @@
     {
       "added_at": "2024-07-26 15:28:53",
       "album": {
-        "name": "Sentimento Raro",
-        "url": "https://open.spotify.com/album/3R2Xy1gYUFEp7sVgDu3a2f"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Sentimento Raro",
-      "url": "https://open.spotify.com/track/32VWRV4wW9lx95AQJGznCi"
-    },
-    {
-      "added_at": "2024-07-26 15:28:53",
-      "album": {
         "name": "GUARDA O TEU CORA\u00c7\u00c3O",
         "url": "https://open.spotify.com/album/6ygRDr2Uf4Tz7jvVitXyJy"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 212250,
       "name": "GUARDA O TEU CORA\u00c7\u00c3O",
       "url": "https://open.spotify.com/track/0IHNarDUnqJzHCWSGeGSGS"
-    },
-    {
-      "added_at": "2024-07-26 15:28:53",
-      "album": {
-        "name": "Eu e Voc\u00ea",
-        "url": "https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 185597,
-      "name": "Eu e Voc\u00ea",
-      "url": "https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z"
     },
     {
       "added_at": "2024-07-26 15:28:53",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-07-26 15:28:53",
       "album": {
-        "name": "o que seria se...",
-        "url": "https://open.spotify.com/album/2b2q4eVCw5pdtHtI0W2fYH"
-      },
-      "artists": [
-        {
-          "name": "Sophia Stedile",
-          "url": "https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi"
-        }
-      ],
-      "duration_ms": 146339,
-      "name": "o que seria se...",
-      "url": "https://open.spotify.com/track/0Z6bEMKRNmP0qMrbCkfEzA"
-    },
-    {
-      "added_at": "2024-07-26 15:28:53",
-      "album": {
         "name": "Entre o Nada e o Infinito",
         "url": "https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 175080,
       "name": "acende essa ponta",
       "url": "https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5"
+    },
+    {
+      "added_at": "2024-07-26 15:28:53",
+      "album": {
+        "name": "o que seria se...",
+        "url": "https://open.spotify.com/album/2b2q4eVCw5pdtHtI0W2fYH"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stedile",
+          "url": "https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi"
+        }
+      ],
+      "duration_ms": 146339,
+      "name": "o que seria se...",
+      "url": "https://open.spotify.com/track/0Z6bEMKRNmP0qMrbCkfEzA"
     },
     {
       "added_at": "2024-07-26 15:28:53",

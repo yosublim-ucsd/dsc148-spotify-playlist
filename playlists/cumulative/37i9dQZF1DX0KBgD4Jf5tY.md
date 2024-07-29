@@ -4,7 +4,7 @@
 
 > Il meglio della musica indipendente italiana! Cover: <a href="spotify:artist:0ez4Y0vHwlRCrqGIkChC3Q">TÄRA</a>
 
-1,363 songs - 2 day 19 hr 35 min
+1,364 songs - 2 day 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,7 @@
 | [Come Back](https://open.spotify.com/track/1ig8ML3HcSIg4TlxkdY6Vp) | [Divietø](https://open.spotify.com/artist/6xSpoFgkCHOIcy7egIhKhN) | [Come Back](https://open.spotify.com/album/1sUCObvXmV1atcS1yV7Pwo) | 2:05 | 2023-01-05 | 2023-01-27 |
 | [Come facciamo noi](https://open.spotify.com/track/5ve1uJ5fmYkrgPj6kc29mS) | [Gaia Banfi](https://open.spotify.com/artist/60hS0Wt0Px2B3rr9Zzur8E) | [Come facciamo noi](https://open.spotify.com/album/5EHXV4XboHIcsHfDdfYM4m) | 4:24 | 2023-11-22 | 2024-01-25 |
 | [COME I CLASH](https://open.spotify.com/track/7x1L1aFTrBBJYi959kemtb) | [LEHAVRE](https://open.spotify.com/artist/4g4R5YQzDRaONaJuU3yUls) | [COME I CLASH](https://open.spotify.com/album/6oteA5eXo02tbnKUHV4u1f) | 3:02 | 2023-10-31 | 2023-11-16 |
-| [COME SEMBRA](https://open.spotify.com/track/2wpK0bmYeIN0S695bPoZI2) | [Incubo](https://open.spotify.com/artist/0IdAopcNZfTVh5Lx8H3sDm) | [COME SEMBRA](https://open.spotify.com/album/6bHSfXnPXUoUVZqhAtKmyG) | 3:06 | 2024-07-18 |  |
+| [COME SEMBRA](https://open.spotify.com/track/2wpK0bmYeIN0S695bPoZI2) | [Incubo](https://open.spotify.com/artist/0IdAopcNZfTVh5Lx8H3sDm) | [COME SEMBRA](https://open.spotify.com/album/6bHSfXnPXUoUVZqhAtKmyG) | 3:06 | 2024-07-18 | 2024-07-29 |
 | [Come ti pare.](https://open.spotify.com/track/7HlvkrEXcdxEvnrqxPfYak) | [Calmo](https://open.spotify.com/artist/4Wx3ZL6d6p1gVMtwQ2YWsz) | [Come ti pare.](https://open.spotify.com/album/3YPQq2ZZUeRCNe3eAEFTs9) | 2:46 | 2023-08-15 | 2023-10-11 |
 | [Come volevi essere](https://open.spotify.com/track/6Cvod0V1TVofdbAUyNLhYb) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Come volevi essere](https://open.spotify.com/album/16bYjHqs1R2worFGdbzSWi) | 3:40 | 2023-07-18 | 2023-09-27 |
 | [Come vorrei](https://open.spotify.com/track/7tsODSyklruhthzaXOczUq) | [Fusaro](https://open.spotify.com/artist/0jFA30k5jRRpaIv1Xe0Ce3) | [Buongiorno \(per tutto il giorno\)](https://open.spotify.com/album/1KJli9hVV0fXjDEOGZWjYf) | 3:38 | 2022-05-27 | 2022-07-01 |
@@ -370,7 +370,7 @@
 | [Doppia](https://open.spotify.com/track/2Z2sOuG8S4Qv1nJTajivos) | [Duemila](https://open.spotify.com/artist/5mhHDyG0ZLlxbskm4GtbCs) | [Doppia](https://open.spotify.com/album/2wNe3sv0bU3ETk2tUHQt9f) | 2:11 | 2023-11-14 | 2024-01-25 |
 | [Dov'é?](https://open.spotify.com/track/7H90YOKum4Ih997KavJqKZ) | [Sal](https://open.spotify.com/artist/5GHZ7WABHAKdm5OfdQIpbT) | [Dov'é?](https://open.spotify.com/album/03DKMpdkeIo6CVlfqpV10n) | 2:41 | 2023-08-15 | 2023-10-11 |
 | [Dove Sei](https://open.spotify.com/track/0M9mcBKqWfC1aBIBVmkYLY) | [icaro](https://open.spotify.com/artist/7KSeB7JWqSs50h47yIPzfC) | [Dove Sei](https://open.spotify.com/album/7ccaS1a0IBF78EQrq3Y2hD) | 2:51 | 2022-03-24 | 2022-04-20 |
-| [DOVE SEI TU](https://open.spotify.com/track/2Cz3ZPDpYIJNJBd0tzDeK1) | [MET](https://open.spotify.com/artist/4DNip9SPDXhjcbYi31O4dq) | [DOVE SEI TU](https://open.spotify.com/album/1qdnPsMVlBseg0FHJCO9q4) | 2:34 | 2024-05-23 | 2024-06-19 |
+| [DOVE SEI TU](https://open.spotify.com/track/2Cz3ZPDpYIJNJBd0tzDeK1) | [MET](https://open.spotify.com/artist/4DNip9SPDXhjcbYi31O4dq) | [DOVE SEI TU](https://open.spotify.com/album/1qdnPsMVlBseg0FHJCO9q4) | 2:34 | 2024-05-23 |  |
 | [DOVE VUOI CHE SIA](https://open.spotify.com/track/0ZW5zLDwB5Tsc4Qqz2igIO) | [EUPHORIA](https://open.spotify.com/artist/16lbAhDR415StnqDDa4UpO) | [DOVE VUOI CHE SIA](https://open.spotify.com/album/2jK9kS3Bab8L59jv0Yjkwc) | 3:27 | 2022-07-07 | 2022-09-02 |
 | [DPCM](https://open.spotify.com/track/5BOwhoRVHuZu2XwFoKeWbM) | [Visconti](https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P) | [DPCM](https://open.spotify.com/album/62KifhpcdcHUfo2q58HSyX) | 2:24 | 2022-03-17 | 2022-04-20 |
 | [DREAMLAND](https://open.spotify.com/track/3iPO5c1yBL2YO7hvyA9oYq) | [Esma](https://open.spotify.com/artist/150z0GzBQU8W02VLhw1dCF), [BABILONIA](https://open.spotify.com/artist/30YUVsrzLIs9w5ejdlquGm) | [DREAMLAND](https://open.spotify.com/album/1tFzHNn0iy69H0mESMO0dG) | 3:04 | 2022-06-23 | 2022-07-15 |
@@ -621,6 +621,7 @@
 | [La stessa canzone](https://open.spotify.com/track/29clmT8nKOglAqIG0KKxhI) | [Giuliana Cascone](https://open.spotify.com/artist/4JbDAuaFjmcMOmQJdiSLln) | [La stessa canzone](https://open.spotify.com/album/0kjpkKXKEF2yXcmnUeLmb0) | 2:34 | 2023-01-05 | 2023-02-03 |
 | [La tua penna](https://open.spotify.com/track/6oILBc4inEpFcIpiIRaS3M) | [Dacota](https://open.spotify.com/artist/0yTK9PkVBhKwdiyuOeSk9l) | [Chiave Vergine](https://open.spotify.com/album/0QA4aKYcwq0LXlRPND5rMt) | 3:53 | 2024-04-23 | 2024-05-24 |
 | [Labes](https://open.spotify.com/track/3uAfHry4D5wAlT7hdvW3gW) | [LovEfid](https://open.spotify.com/artist/0Ghb3nxuIIbfAaliwv1Xhj) | [Labes](https://open.spotify.com/album/6xiDIlKYPmnuOHu2d0guUk) | 2:44 | 2022-01-06 | 2022-02-18 |
+| [Lacrima Nuova](https://open.spotify.com/track/499sucSYMaIPv6qVdYHWce) | [Mille Piccoli Cieli](https://open.spotify.com/artist/6BFBvqZPlGZ2FUMXVHSsUY), [Floral Grin](https://open.spotify.com/artist/5m1fvLDO1DDWVNhluFhOA9), [Altolucenti](https://open.spotify.com/artist/4lpUgEzwYlZ4OZa4vYHkV9), [Christopher Padilla Billa](https://open.spotify.com/artist/7gf6pwtdLMAtllg6eEwpno), [Colibree](https://open.spotify.com/artist/7s961XmA8A69tQ3UQRD6sk), [ÈSSA](https://open.spotify.com/artist/3vzv7k1u60UzTFUYiTV4Ca) | [Lacrima Nuova](https://open.spotify.com/album/7xNYqNekje9BsbaCYZG7ip) | 3:11 | 2024-07-18 |  |
 | [Lacrime](https://open.spotify.com/track/6QAxIww9KWafoqiUQBLjNT) | [EOS](https://open.spotify.com/artist/1CKLvkmWpjZfwfSDODVFpV), [Naima Blood](https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9) | [Lacrime](https://open.spotify.com/album/6KNT80m77uOAYNeheRQ7Wx) | 3:07 | 2023-04-18 | 2023-05-11 |
 | [Lacrime amare](https://open.spotify.com/track/2OMcp3WVo4RDhZxtirI7R9) | [Grimo](https://open.spotify.com/artist/5FYgznMaZZAoMFsDYhGAJb) | [Lacrime amare](https://open.spotify.com/album/56NXhBHneX0sLMMASrVSAq) | 2:36 | 2024-06-18 | 2024-07-19 |
 | [lacrime che](https://open.spotify.com/track/6CaxlHV4TAASm9wRRSfE8P) | [chesma](https://open.spotify.com/artist/14qfpqRSUFUcZOK424qddH) | [lacrime che](https://open.spotify.com/album/1nSnh2QFL2HDVPjwFtyI2V) | 2:32 | 2024-04-23 | 2024-05-24 |
@@ -1357,7 +1358,7 @@
 | [Yin e Yang](https://open.spotify.com/track/39RLFZQtumst5e826cqMyP) | [Hanami](https://open.spotify.com/artist/7EQFBKivi3POpo2NLiEEOe) | [Yin e Yang](https://open.spotify.com/album/6DttXcxJhwIcHgMZjeSLvz) | 2:55 | 2022-04-19 | 2022-05-20 |
 | [Yin e Yang](https://open.spotify.com/track/7a2Fi8TGyCZyIz1gUUj3Os) | [Hanami](https://open.spotify.com/artist/7EQFBKivi3POpo2NLiEEOe) | [Yin e Yang](https://open.spotify.com/album/7E2Xzwzzrb9afu5BdImNKb) | 2:55 | 2022-11-30 | 2023-01-06 |
 | [You can come by anytime](https://open.spotify.com/track/0cmIQPIMy7zWbnQCvhLnVD) | [Sally Brown](https://open.spotify.com/artist/1tAwzp6yG9siTMyUuW3Blq) | [You can come by anytime](https://open.spotify.com/album/5TMVEIigpcXwlEGyGxgpus) | 3:28 | 2024-02-21 | 2024-03-21 |
-| [Ypsilon](https://open.spotify.com/track/35Kja1KlfXbNoqZJ4LhUCM) | [Doansai](https://open.spotify.com/artist/5G1PslLmI7j8q46A7re4tM) | [Ypsilon](https://open.spotify.com/album/5KbBQK3LjqthXlyDsVCXAr) | 3:43 | 2024-07-18 |  |
+| [Ypsilon](https://open.spotify.com/track/35Kja1KlfXbNoqZJ4LhUCM) | [Doansai](https://open.spotify.com/artist/5G1PslLmI7j8q46A7re4tM) | [Ypsilon](https://open.spotify.com/album/5KbBQK3LjqthXlyDsVCXAr) | 3:43 | 2024-07-18 | 2024-07-29 |
 | [Zenzero](https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Zenzero](https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO) | 4:10 | 2023-05-24 | 2023-07-13 |
 | [Zero](https://open.spotify.com/track/36UXXJuGosV9eYMalD25DT) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj), [Iosonouncane](https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW) | [The Disorder of Appearances](https://open.spotify.com/album/5AO9IVe4tEknGG9AdKTb7W) | 4:51 | 2022-11-30 | 2023-01-06 |
 | [Zero](https://open.spotify.com/track/4acda42yRN6yGsdhx5ATk1) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj), [Iosonouncane](https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW) | [Zero](https://open.spotify.com/album/743Abmv04PR3012wIg5YPM) | 4:51 | 2022-05-05 | 2022-06-10 |

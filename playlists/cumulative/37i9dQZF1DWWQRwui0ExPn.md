@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,888 songs - 10 day 21 hr 7 min
+6,889 songs - 10 day 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [a walk in the park](https://open.spotify.com/track/6OlIEuyO5vY8INjdhN4xBG) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [a walk in the park](https://open.spotify.com/album/4JcY5GHKHF48RV80419Ifw) | 2:06 | 2022-05-27 | 2022-09-16 |
 | [a warm kiss in the frost](https://open.spotify.com/track/0rE1VJnjast6fXOJtniaO0) | [fibra](https://open.spotify.com/artist/40A1MjdCIepuuhptyBVoCB) | [a warm kiss in the frost](https://open.spotify.com/album/2pEd6L29NLepE65yoM7xkY) | 1:55 | 2023-01-06 | 2023-12-01 |
 | [a weird phone call](https://open.spotify.com/track/1QCwRyocoKoaNPGTAyZdFE) | [eevee beats](https://open.spotify.com/artist/0Yag4ytAigYG9gD1APaXre) | [a weird phone call](https://open.spotify.com/album/0ZRz1hsuRAFHuLk6wG2m2b) | 1:36 | 2019-09-08 | 2021-04-24 |
-| [AAAlkaline](https://open.spotify.com/track/1uE0vNOkb8UW7nsqiMilUI) | [Grillo](https://open.spotify.com/artist/0GdRrQ6HAXdPlEUGZTthKs), [Spalato Wyale](https://open.spotify.com/artist/4B6N6t2bTzsNH4n3gF74y5) | [Safari Nights](https://open.spotify.com/album/6ROh4hhURGXaTtnSbvvtBC) | 2:29 | 2024-03-08 |  |
+| [AAAlkaline](https://open.spotify.com/track/1uE0vNOkb8UW7nsqiMilUI) | [Grillo](https://open.spotify.com/artist/0GdRrQ6HAXdPlEUGZTthKs), [Spalato Wyale](https://open.spotify.com/artist/4B6N6t2bTzsNH4n3gF74y5) | [Safari Nights](https://open.spotify.com/album/6ROh4hhURGXaTtnSbvvtBC) | 2:29 | 2024-03-08 | 2024-07-29 |
 | [Aaliyah Slide](https://open.spotify.com/track/0VBJDBndtyqJGuQwVxoQsA) | [Green Piccolo](https://open.spotify.com/artist/0Of8ndqAY23l2wV3sS6Zez), [Brenk Sinatra](https://open.spotify.com/artist/2ZoufZYy2FcQQSBZbkO6Bb) | [Aaliyah Slide](https://open.spotify.com/album/4ZZ5ukH7eWOVTYox4Ux8Sw) | 3:15 | 2022-04-08 | 2022-07-29 |
 | [abbey soul](https://open.spotify.com/track/094rEnuD2Bnryy5PyEj89N) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [abbey soul](https://open.spotify.com/album/4fxM3MqhDS2gcS2g7lYCY4) | 2:27 | 2022-08-26 | 2022-12-16 |
 | [Abduction](https://open.spotify.com/track/0tQHFnqCqhvR6tv0COYl6o) | [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM), [Monaqee](https://open.spotify.com/artist/4EGwgTccVIMRAeJbpcIlaq), [Vanis](https://open.spotify.com/artist/3tMBRTfZnB4VrAvooWzbrz) | [Abduction](https://open.spotify.com/album/5D9Rzhx22E3YGaZ9wGlKjy) | 2:30 | 2022-12-09 | 2023-06-08 |
@@ -4907,7 +4907,7 @@
 | [Retrograde](https://open.spotify.com/track/41Uwoz8UvMGNzz1WLpWYK7) | [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0), [Deusdosol](https://open.spotify.com/artist/5J1SXWQKT7R9wGscoLxDQn) | [Retrograde](https://open.spotify.com/album/3jgBsrkX4N2Yl7Jr8uYcev) | 1:45 | 2023-04-12 | 2023-09-30 |
 | [Retrospect](https://open.spotify.com/track/7GrnkPxmpbi5frSNhvf9hC) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [Retrospect](https://open.spotify.com/album/0xECqF1m5hzCy9t5Pqqbtt) | 2:29 | 2021-12-17 | 2022-06-24 |
 | [Return Of The Bug](https://open.spotify.com/track/1rcimlP0q8mZjz1oNly2MT) | [Cutecake](https://open.spotify.com/artist/4siWS58eyzzQFTp3XJYKin), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [Return Of The Bug](https://open.spotify.com/album/0UbTCWZu8JsCE67BsiUcyZ) | 2:12 | 2023-01-13 | 2023-11-11 |
-| [Return Of The Cake](https://open.spotify.com/track/7hncde8jjBRQJvv4stz6QT) | [Cutecake](https://open.spotify.com/artist/4siWS58eyzzQFTp3XJYKin) | [Return Of The Cake](https://open.spotify.com/album/7HhDlRiipcHrjQdRCnqCbI) | 1:54 | 2023-12-01 |  |
+| [Return Of The Cake](https://open.spotify.com/track/7hncde8jjBRQJvv4stz6QT) | [Cutecake](https://open.spotify.com/artist/4siWS58eyzzQFTp3XJYKin) | [Return Of The Cake](https://open.spotify.com/album/7HhDlRiipcHrjQdRCnqCbI) | 1:54 | 2023-12-01 | 2024-07-29 |
 | [Reverie](https://open.spotify.com/track/6uwQ8WuHyJ4OgmQrrM9f4m) | [gknister](https://open.spotify.com/artist/0fR068DfY5exvbuRLEV0t7) | [Reverie](https://open.spotify.com/album/26kYzDDE0R8JjovmxKns7L) | 2:25 | 2024-03-15 |  |
 | [Reverie](https://open.spotify.com/track/7t72V2dKD4Fkcyk2IIGoVy) | [lofi geek](https://open.spotify.com/artist/1hqeRW1EQZ1flf02acnGVU) | [Shining Sun \(Lofi Hip Hop\)](https://open.spotify.com/album/6evgvWrQQ10gDjDMwQSjnU) | 3:10 | 2022-01-04 | 2022-07-08 |
 | [Reverie](https://open.spotify.com/track/7IOjCUl7RBwXDHSmheWbvK) | [Raz\-One](https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP) | [Reverie](https://open.spotify.com/album/6TCyI0UIhnvQp4snaZ1gbd) | 2:26 | 2023-07-27 | 2023-09-30 |
@@ -5065,6 +5065,7 @@
 | [sand castles](https://open.spotify.com/track/5rBQIzDduJsmDbZ97gqWEW) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [corals 2](https://open.spotify.com/album/62MVvI7ZbnVde4NDB6mFhL) | 2:27 | 2019-05-26\* | 2020-05-09 |
 | [Sandalwood](https://open.spotify.com/track/6KykddnA5NxNkaip0LEpgG) | [J\. Roosevelt](https://open.spotify.com/artist/4kCBBWXeKXtikcTFHiQ2QW) | [Sandalwood](https://open.spotify.com/album/77JjJ47oJAzWqdcoPDfjzw) | 2:48 | 2019-05-29 | 2020-03-16 |
 | [Sandman](https://open.spotify.com/track/3Lncy5dZvKvAzuefbqWL5s) | [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv) | [Sandman](https://open.spotify.com/album/5bWbpiOChQf8qBoCHVvkJr) | 2:35 | 2021-12-03 | 2022-06-24 |
+| [Sandrosh](https://open.spotify.com/track/7cCi8ROppbGlZp1GPinX9e) | [Kim Kozy](https://open.spotify.com/artist/6gVhnvdJQi2cjFRDSlysqe) | [Sandrosh](https://open.spotify.com/album/4MuwhIsPVmVJDHwFvIZJta) | 2:15 | 2024-07-26 |  |
 | [Sanduhr](https://open.spotify.com/track/7xOrraM4CMEgvOMdP5w7ah) | [Mosalla](https://open.spotify.com/artist/2MlmctFTcQ5Qhjq5ataD5C) | [Sanduhr](https://open.spotify.com/album/44qZy9u8djrrcySBihFHGw) | 2:04 | 2023-01-06 | 2023-04-24 |
 | [sandwhich beach](https://open.spotify.com/track/76tl9K8j78xxjG3lKQwvWD) | [Grace Belly](https://open.spotify.com/artist/2RDpfx1SklZiHjaIsaZ3QW) | [sandwhich beach](https://open.spotify.com/album/5NaWuiShyhJ8wCblqktp6z) | 2:00 | 2023-11-10 |  |
 | [sandy shores](https://open.spotify.com/track/69laqm4AmQQbTHAauHzPfZ) | [Nosmoh](https://open.spotify.com/artist/7MZx3uoMDM7wE8An0kdHwa) | [sandy shores](https://open.spotify.com/album/2mdxRo7AMK2Ol4S6izuTpg) | 2:28 | 2022-11-25 | 2023-01-20 |
@@ -5106,7 +5107,7 @@
 | [Sea Glass](https://open.spotify.com/track/4fQ5j3zGe75c7T8wtCbVdw) | [Sports & Music](https://open.spotify.com/artist/48hF8pmQ61ySf1iwpF3Yo9) | [Sea Glass](https://open.spotify.com/album/0IEFN0UXa6evPNmTTYadzt) | 2:03 | 2021-12-03 | 2022-06-17 |
 | [Sea Secrets](https://open.spotify.com/track/71e0TKZn2VgFg6t8kNdkkD) | [Starlies](https://open.spotify.com/artist/3ZXBbe1WF1PfwggpEOcips) | [Water Secrets](https://open.spotify.com/album/2Ck16RhFLyGrGq2HfBYAOZ) | 2:17 | 2023-10-13 | 2023-11-11 |
 | [Seagazing](https://open.spotify.com/track/2HnbW4hHhgfqiwjP97eFcg) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Hirokee](https://open.spotify.com/artist/65Tgs3GmQLXn1Snl8Wge6b) | [Seagazing](https://open.spotify.com/album/4cgTpLNBUtHUywVqBaWG71) | 2:24 | 2022-11-25 | 2023-01-20 |
-| [Seagull Blues](https://open.spotify.com/track/4NKXXADxxBYbhDfOcFrNnv) | [Snooze Operator](https://open.spotify.com/artist/5qtHCB1wotOjSqqexujcbk) | [Seagull Blues](https://open.spotify.com/album/1mZTRPhAzZ5wMuZZ2L1a7D) | 2:29 | 2024-02-09 | 2024-07-27 |
+| [Seagull Blues](https://open.spotify.com/track/4NKXXADxxBYbhDfOcFrNnv) | [Snooze Operator](https://open.spotify.com/artist/5qtHCB1wotOjSqqexujcbk) | [Seagull Blues](https://open.spotify.com/album/1mZTRPhAzZ5wMuZZ2L1a7D) | 2:29 | 2024-02-09 |  |
 | [Search for Tomorrow](https://open.spotify.com/track/1uTxXCU8uNiOB8iTg3sjcs) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Search for Tomorrow](https://open.spotify.com/album/1mA1yze65ZUBv1xqClnnc2) | 2:08 | 2019-07-23 | 2020-10-21 |
 | [Seashells](https://open.spotify.com/track/2UOaLTPCnWUO8aMDmsIuKr) | [Signature D](https://open.spotify.com/artist/0jKQILX1WJBjUAXREEAf1L) | [Seashells](https://open.spotify.com/album/65mSvsHnM4RjAgBGEcTvar) | 1:55 | 2022-06-10 | 2022-09-30 |
 | [Seaside Stroll](https://open.spotify.com/track/3nmMrM1q7bEHMen6XtrZFg) | [Tenda Senda](https://open.spotify.com/artist/3yZ1Z0nJmVbL3KFP1afffU), [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O) | [Seaside Stroll](https://open.spotify.com/album/70rRWiCBg4IZCxHXKJbC3N) | 2:27 | 2022-11-11 | 2023-09-29 |

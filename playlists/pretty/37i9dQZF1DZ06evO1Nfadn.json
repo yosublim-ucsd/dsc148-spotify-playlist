@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 27386,
+  "num_followers": 27411,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqLnAAAAAABYYK8XNRWoruCizxAGo4dQ",
+  "snapshot_id": "ZqQ4gAAAAADOMBzdElSnyxohYR1O68Sr",
   "tracks": [
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/1ikqe2XWpl3nNHzSwXgPFi"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 165586,
+      "name": "Quiero Volver",
+      "url": "https://open.spotify.com/track/5kEubr1l8cqzEtSauan45U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Popurr\u00ed Quebraditas: Tumbando Ca\u00f1a / Como la Luna / Eva Mar\u00eda (30 Aniversario)",
         "url": "https://open.spotify.com/album/4NpEVKlOcYVwkVZsCEgoJE"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 169953,
       "name": "El Condor Pasa",
       "url": "https://open.spotify.com/track/0aH1klQ4aifWvH8hV9MrZX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/1ikqe2XWpl3nNHzSwXgPFi"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 165586,
-      "name": "Quiero Volver",
-      "url": "https://open.spotify.com/track/5kEubr1l8cqzEtSauan45U"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Estrella De Los Bailes - Los \u00c9xitos",
-        "url": "https://open.spotify.com/album/5T9zkm1BMSNqlPvu911c0n"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 153861,
-      "name": "Bikini Azul",
-      "url": "https://open.spotify.com/track/1YvqhFsIxpy9yEzn9sWb0X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los 15 para Coleccionar",
         "url": "https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 171573,
       "name": "Los Luchadores",
       "url": "https://open.spotify.com/track/2pvWTGb71qi76t1c17WCIB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Estrella De Los Bailes - Los \u00c9xitos",
+        "url": "https://open.spotify.com/album/5T9zkm1BMSNqlPvu911c0n"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 153861,
+      "name": "Bikini Azul",
+      "url": "https://open.spotify.com/track/1YvqhFsIxpy9yEzn9sWb0X"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Que No Me Olvides",
-        "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 156493,
-      "name": "El Jalisciense",
-      "url": "https://open.spotify.com/track/57SmAa0MAjSRxJOqKgKxZV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lagrimas De Sangre",
         "url": "https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG"
       },
@@ -747,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los 15 para Coleccionar",
-        "url": "https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm"
+        "name": "Para Que No Me Olvides",
+        "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
       },
       "artists": [
         {
@@ -756,9 +740,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 160306,
-      "name": "Madrecita Querida",
-      "url": "https://open.spotify.com/track/6IaC9i9Oic4FkjjFoOpSTj"
+      "duration_ms": 156493,
+      "name": "El Jalisciense",
+      "url": "https://open.spotify.com/track/57SmAa0MAjSRxJOqKgKxZV"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
       "duration_ms": 146506,
       "name": "Alma de Acero",
       "url": "https://open.spotify.com/track/3wrpsjzRr22LrymHq2iagR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los 15 para Coleccionar",
+        "url": "https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Madrecita Querida",
+      "url": "https://open.spotify.com/track/6IaC9i9Oic4FkjjFoOpSTj"
     },
     {
       "added_at": null,

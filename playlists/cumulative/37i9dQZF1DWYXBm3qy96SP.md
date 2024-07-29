@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: The Last Dinner Party
 
-1,371 songs - 3 day 6 hr 43 min
+1,372 songs - 3 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1021,6 +1021,7 @@
 | [Self Love](https://open.spotify.com/track/1E8mdkOcJ3mMYkRlxCZiak) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Dark Rainbow](https://open.spotify.com/album/4pU6rQzlCfTrSxous1m7CK) | 3:21 | 2024-01-25 | 2024-02-02 |
 | [Self Love](https://open.spotify.com/track/5w6LtMQ9mCrw8Rh8wFaZOO) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Self Love](https://open.spotify.com/album/5u4cNUGjbYNT0k4SCjAQUC) | 3:21 | 2024-01-25 | 2024-01-27 |
 | [Self\-Destruct](https://open.spotify.com/track/29ffs4yVqnGEzwCazHzJrd) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Self\-Destruct](https://open.spotify.com/album/7uMAqt7XYA49zcwAhLT4wk) | 2:53 | 2023-03-16 | 2023-03-25 |
+| [Sentiments](https://open.spotify.com/track/1RV7iXLe9Ydh9J9MiXtOLm) | [Nape](https://open.spotify.com/artist/4i2HtvaNWxR0sYVRzQTT1N) | [Sentiments](https://open.spotify.com/album/5svu4CMAw8VYFyF6nxswfr) | 3:11 | 2024-07-28 |  |
 | [Settle Petal](https://open.spotify.com/track/0OZzJeWYjfzyaUfjuib2qb) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Settle Petal](https://open.spotify.com/album/0El6znNor6mJmklSEJU07W) | 3:06 | 2023-11-23 | 2023-11-25 |
 | [Settle Petal](https://open.spotify.com/track/6bChyygWt38QX2rOuPNzvw) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Settle Petal](https://open.spotify.com/album/15sV58RWILYvlgPXkOOTfy) | 3:06 | 2023-11-23 | 2023-12-01 |
 | [Seven Out](https://open.spotify.com/track/6Mt6czdOmbc2vheLs4HDI4) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [Seven Out](https://open.spotify.com/album/4Qc5eqPw7BSQdoqyT3LSo5) | 2:56 | 2024-01-11 | 2024-01-19 |
@@ -1038,7 +1039,7 @@
 | [Shovel in His Hands](https://open.spotify.com/track/7HY9w064cDeuin7gh7GcIz) | [The View](https://open.spotify.com/artist/1fy3AQc7grjf5LnCd7snSg) | [Shovel in His Hands](https://open.spotify.com/album/6kuA9bJ8IzYZqT74ozWXZb) | 3:47 | 2023-05-18 | 2023-06-02 |
 | [Show Me How](https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Show Me How](https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz) | 4:53 | 2023-05-25 | 2023-06-12 |
 | [Show Me How To Love](https://open.spotify.com/track/0iBUNQawR3rfxZ3SsTrkum) | [Empire Fall](https://open.spotify.com/artist/3LURa20zIKdXG4MHqz70zp) | [Show Me How To Love](https://open.spotify.com/album/7a0y1S3C96JFkeWZ4mTmon) | 2:51 | 2023-12-21 | 2024-01-05 |
-| [Showtime](https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [Showtime](https://open.spotify.com/album/3KuRm7unewgWVJkruzxwAA) | 4:40 | 2024-02-22 |  |
+| [Showtime](https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [Showtime](https://open.spotify.com/album/3KuRm7unewgWVJkruzxwAA) | 4:40 | 2024-02-22 | 2024-07-29 |
 | [SHOZEN](https://open.spotify.com/track/016rLtnTe7IChoF8f0l0Nu) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [SHOZEN](https://open.spotify.com/album/6FEJoTviFUPHucUfGgbJT9) | 3:43 | 2023-12-07 | 2023-12-15 |
 | [shut up!](https://open.spotify.com/track/4ynDEgatB1rZTDN0AxoaVB) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [shut up!](https://open.spotify.com/album/5wF8Hszo6VWcMrX3m5AspW) | 1:43 | 2024-07-26 |  |
 | [shutting me out](https://open.spotify.com/track/1XKLWx4XOnB6nMkl5qFtYi) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [shutting me out / goo lagoon](https://open.spotify.com/album/4WJsVZksTyP64i6fsH9Ocq) | 2:26 | 2023-11-23 | 2023-12-15 |

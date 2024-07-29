@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: MC WINDHUND
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,612 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,977 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 64 | [BIKINI GRELL](https://open.spotify.com/track/4vXM3vMsSr8eFcK8HKTcJq) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Robbensohn](https://open.spotify.com/artist/4B4kCbtNX4oFNSelmh0uAf) | [BIKINI GRELL](https://open.spotify.com/album/3HtPLQupfZZwUsULtgLEuM) | 2:03 |
 | 65 | [WASSEREIS](https://open.spotify.com/track/7GIHhuHDlRab6yKyjPARcX) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [WASSEREIS](https://open.spotify.com/album/6TgOuqH0y0ChR7PNFvLL2O) | 2:17 |
 | 66 | [blackout in der gegend](https://open.spotify.com/track/7vfrLfrmwb06yTpxqtqCCU) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [blackout in der gegend](https://open.spotify.com/album/5IFoofVHSlPBwUEgHGMqKu) | 2:32 |
-| 67 | [Ganz nach vorn](https://open.spotify.com/track/5Rg8ovZO0Tt1vtnX0VrcCw) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [Ganz nach vorn](https://open.spotify.com/album/3njVPngde3AZZWfhtTOCZK) | 2:50 |
+| 67 | [ganz nach vorn](https://open.spotify.com/track/5Rg8ovZO0Tt1vtnX0VrcCw) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [ganz nach vorn](https://open.spotify.com/album/3njVPngde3AZZWfhtTOCZK) | 2:50 |
 | 68 | [autodach](https://open.spotify.com/track/77X6HRNZcjcmQS6AY6PS5r) | [Wolke 8](https://open.spotify.com/artist/390O0PpgkmEe86SJOeqc26) | [autodach](https://open.spotify.com/album/7vQvU5oZJJll9juHUISB48) | 2:44 |
 | 69 | [lauf](https://open.spotify.com/track/2BoFXyQK51mh6C9lUQd8Ok) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [lauf](https://open.spotify.com/album/7qVoIKsmBemsKvxDitsvWr) | 3:32 |
 | 70 | [My Mama Dropped LSD in the 90's](https://open.spotify.com/track/0MeGiBDDodJwa1iHnCgG3q) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM), [blazey](https://open.spotify.com/artist/66Vn5izERxqMuZz9QB5Dyh) | [My Mama Dropped LSD in the 90's](https://open.spotify.com/album/0X12iWSZ0DQrn35GgTEjrT) | 2:56 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 95 | [Er kriegt mich nicht](https://open.spotify.com/track/3QlqPRUCScMH9SRdRSPhid) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Er kriegt mich nicht](https://open.spotify.com/album/32KQ2dKaKl0XXalzDj9b5U) | 1:29 |
 | 96 | [und du suchst noch überall, alles was mal von mir war](https://open.spotify.com/track/5wOPYSiXuK3kpcf3ZH1BkM) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [und du suchst noch überall, alles was mal von mir war](https://open.spotify.com/album/3tro2KxwswtcYlfkbkR9kZ) | 3:01 |
 | 97 | [Zungkuss](https://open.spotify.com/track/5E0TnhyZbOsygOe2xQUrCc) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Muss mein eigener Atze sein](https://open.spotify.com/album/7tIzwumlKnPsDFRIwG1ssW) | 2:32 |
-| 98 | [wieder](https://open.spotify.com/track/0ZBxJRpsvY53vphDtoi4FI) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc), [2sick](https://open.spotify.com/artist/1FQkPQ3IrjRAny1OXdGX8S) | [wieder](https://open.spotify.com/album/6Gvc1zMQanZDbbupEAEgHe) | 2:12 |
+| 98 | [Wieder](https://open.spotify.com/track/0ZBxJRpsvY53vphDtoi4FI) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc), [2sick](https://open.spotify.com/artist/1FQkPQ3IrjRAny1OXdGX8S) | [Wieder](https://open.spotify.com/album/6Gvc1zMQanZDbbupEAEgHe) | 2:12 |
 | 99 | [There Goes My Baby](https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [There Goes My Baby](https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN) | 3:30 |
 | 100 | [Vorbei](https://open.spotify.com/track/6VBvfF2jREXbCSxqqqtM1c) | [YBRE](https://open.spotify.com/artist/7qdBCGakEd1aUD8noTmsfs) | [Vorbei](https://open.spotify.com/album/2DOr3y69HMcSpl406Q2WSV) | 2:25 |
 

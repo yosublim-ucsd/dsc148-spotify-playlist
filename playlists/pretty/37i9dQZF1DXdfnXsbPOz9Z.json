@@ -1,6 +1,6 @@
 {
   "description": "Les tubes pop pour toute la famille",
-  "num_followers": 3871,
+  "num_followers": 3874,
   "original_name": "Bim bam pop",
   "owner": {
     "name": "Spotify",
@@ -202,6 +202,10 @@
         {
           "name": "Lou",
           "url": "https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg"
+        },
+        {
+          "name": "Lenni Kim",
+          "url": "https://open.spotify.com/artist/1PVmM2c79UdIymMzxYlywJ"
         }
       ],
       "duration_ms": 159626,

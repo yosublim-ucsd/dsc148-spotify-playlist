@@ -1,6 +1,6 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 163356,
+  "num_followers": 163446,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2024-05-28 18:36:09",
       "album": {
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 440200,
+      "name": "Blues Deluxe",
+      "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
+    },
+    {
+      "added_at": "2024-05-28 18:36:09",
+      "album": {
         "name": "On Late Nights",
         "url": "https://open.spotify.com/album/0WsJ0fgeveYpeGY0rTlfny"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 269702,
       "name": "On Late Nights",
       "url": "https://open.spotify.com/track/4kGuyWcUz59MVQB3Z9021D"
-    },
-    {
-      "added_at": "2024-05-28 18:36:09",
-      "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 440200,
-      "name": "Blues Deluxe",
-      "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
     },
     {
       "added_at": "2024-05-28 18:36:09",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-05-28 18:36:09",
       "album": {
+        "name": "Blues For Greeny",
+        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 389666,
+      "name": "Love That Burns",
+      "url": "https://open.spotify.com/track/6mwt41UPKso9N0Kkkd44Hw"
+    },
+    {
+      "added_at": "2024-05-28 18:36:09",
+      "album": {
         "name": "Tommy Castro Presents A Bluesman Came To Town",
         "url": "https://open.spotify.com/album/5GDDpef4syUsjIiZ03Byj8"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 418880,
       "name": "Rememberin' Stevie",
       "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
-    },
-    {
-      "added_at": "2024-05-28 18:36:09",
-      "album": {
-        "name": "Blues For Greeny",
-        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 389666,
-      "name": "Love That Burns",
-      "url": "https://open.spotify.com/track/6mwt41UPKso9N0Kkkd44Hw"
     },
     {
       "added_at": "2024-05-28 18:36:09",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-05-28 18:36:09",
       "album": {
+        "name": "Me and Mr. Johnson",
+        "url": "https://open.spotify.com/album/19Nhw4EECcCOj2379B8idV"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 246493,
+      "name": "Kind Hearted Woman Blues",
+      "url": "https://open.spotify.com/track/4TvQu0OSTGGeXErsYCGvcb"
+    },
+    {
+      "added_at": "2024-05-28 18:36:09",
+      "album": {
         "name": "Porch Sessions",
         "url": "https://open.spotify.com/album/1HiM9YWyFh75nasggcpRoE"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 294595,
       "name": "Hoodoo Man",
       "url": "https://open.spotify.com/track/2BjtzMioX7p1F7yiIMQn1B"
-    },
-    {
-      "added_at": "2024-05-28 18:36:09",
-      "album": {
-        "name": "Me and Mr. Johnson",
-        "url": "https://open.spotify.com/album/19Nhw4EECcCOj2379B8idV"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 246493,
-      "name": "Kind Hearted Woman Blues",
-      "url": "https://open.spotify.com/track/4TvQu0OSTGGeXErsYCGvcb"
     },
     {
       "added_at": "2024-05-28 18:36:09",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-05-28 18:36:09",
       "album": {
-        "name": "Roll Away",
-        "url": "https://open.spotify.com/album/71UC2xt4eqLqntVo9LsP1v"
-      },
-      "artists": [
-        {
-          "name": "Back Door Slam",
-          "url": "https://open.spotify.com/artist/7jWpE4ZlClMpc0Kr5xSX34"
-        }
-      ],
-      "duration_ms": 349893,
-      "name": "Gotta Leave",
-      "url": "https://open.spotify.com/track/0YO5SB9ZBMEsIpVzXZNrE0"
-    },
-    {
-      "added_at": "2024-05-28 18:36:09",
-      "album": {
         "name": "Deuces Wild",
         "url": "https://open.spotify.com/album/3qenNNOnGfbu4aZBQOy8hT"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 241493,
       "name": "Baby I Love You",
       "url": "https://open.spotify.com/track/5etgVyV2lvxJMf7Sd8BBrS"
+    },
+    {
+      "added_at": "2024-05-28 18:36:09",
+      "album": {
+        "name": "Roll Away",
+        "url": "https://open.spotify.com/album/71UC2xt4eqLqntVo9LsP1v"
+      },
+      "artists": [
+        {
+          "name": "Back Door Slam",
+          "url": "https://open.spotify.com/artist/7jWpE4ZlClMpc0Kr5xSX34"
+        }
+      ],
+      "duration_ms": 349893,
+      "name": "Gotta Leave",
+      "url": "https://open.spotify.com/track/0YO5SB9ZBMEsIpVzXZNrE0"
     },
     {
       "added_at": "2024-05-28 18:36:09",

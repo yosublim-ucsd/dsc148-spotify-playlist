@@ -4,7 +4,7 @@
 
 > The amazing sounds of the tropics 🌴🥥🥭🎶
 
-523 songs - 1 day 18 hr 43 min
+524 songs - 1 day 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Fiesta En El Barrio](https://open.spotify.com/track/4i0EOHXqts5rkqD71CpZip) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Fiesta En El Barrio](https://open.spotify.com/album/0Wxi9sViEwxU6VJqOsEGDv) | 2:49 | 2021-12-24 |  |
 | [For All It's Worth](https://open.spotify.com/track/27AlFQwk5IYEnflasT0dAK) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 5:35 | 2022-03-30 |  |
 | [Franco de Mi Amor](https://open.spotify.com/track/16pBH895SAUOOfmH1437Vy) | [Seigneur Tabuley Rochereau](https://open.spotify.com/artist/5M5ed7rL1reHLdeq3PokSq) | [Face à face](https://open.spotify.com/album/5H5Shotz5bSAaYl5GZXfVc) | 5:19 | 2021-12-24 | 2024-04-19 |
+| [Franco de mi amor](https://open.spotify.com/track/7iVa48jR5U71WVvSlQVFsm) | [Tabu Ley Rochereau](https://open.spotify.com/artist/7hYOOcRqfNzeE2CTpajd5a) | [Les incontournables du Congo](https://open.spotify.com/album/4eIjaILE7po1msAy4jBKBX) | 5:20 | 2021-12-24 |  |
 | [Frio Severo](https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [El Corredor Del Jaguar](https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs) | 3:19 | 2021-12-24 |  |
 | [Fuma el Barco](https://open.spotify.com/track/2PyiIgI2JgHNVgUvf6cIY8) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Joseíto Martínez](https://open.spotify.com/artist/2tw2BrnDHhErZuk7ePrZcC) | [The Latin Brothers](https://open.spotify.com/album/30nqVgISOYYypiK99bQOpv) | 5:03 | 2021-12-24 |  |
 | [Fuma el Barco](https://open.spotify.com/track/4FvxeJrTjI1fDAM49mIi3A) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Joseíto Martínez](https://open.spotify.com/artist/2tw2BrnDHhErZuk7ePrZcC) | [¡Para Bailar!](https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs) | 5:04 | 2021-12-24 | 2024-04-19 |
@@ -211,7 +212,7 @@
 | [Hayeelin](https://open.spotify.com/track/7IAgfdPRFX0EG34LtDMeax) | [Dur\-Dur Band](https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF) | [Volume 5](https://open.spotify.com/album/1duYR1BKAr0ZNX35kEnk9Y) | 5:40 | 2021-12-24 |  |
 | [Heavy Heavy Heavy](https://open.spotify.com/track/1kUHYY59MuSw5brKiqSybe) | [Geraldo Pino](https://open.spotify.com/artist/6aUmoNP3dS6an1wvsfK7vg) | [Heavy Heavy Heavy](https://open.spotify.com/album/4G6YPF5Csh4vTigVwfcgQY) | 6:34 | 2021-12-24 |  |
 | [Highlife Time](https://open.spotify.com/track/0Kx52yBHakhMKTHYNwRnnA) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Rough Guide To Highlife \(2nd Edition\)](https://open.spotify.com/album/32Q2TkYepSE1xtLqAXcsNv) | 5:23 | 2021-12-24 |  |
-| [Hinde \- Julien Dyne Rework](https://open.spotify.com/track/2CS1Epowj1OwBEi0Trt4qB) | [African Vibration](https://open.spotify.com/artist/5HsTX5ML9N0oav3F3Ewaoh), [Julien Dyne](https://open.spotify.com/artist/5gBHhcHWRGFsxYVtkHUSfj) | [Hinde](https://open.spotify.com/album/2BMmMV0SAO2U0EmZonJv0O) | 5:33 | 2021-12-24 |  |
+| [Hinde \- Julien Dyne Rework](https://open.spotify.com/track/2CS1Epowj1OwBEi0Trt4qB) | [African Vibration](https://open.spotify.com/artist/5HsTX5ML9N0oav3F3Ewaoh), [Julien Dyne](https://open.spotify.com/artist/5gBHhcHWRGFsxYVtkHUSfj) | [Hinde](https://open.spotify.com/album/2BMmMV0SAO2U0EmZonJv0O) | 5:33 | 2021-12-24 | 2024-07-29 |
 | [Hinde \- Julien Dyne Rework](https://open.spotify.com/track/36iZVsKnRS21AY2zGv0oPG) | [African Vibration](https://open.spotify.com/artist/5HsTX5ML9N0oav3F3Ewaoh), [Julien Dyne](https://open.spotify.com/artist/5gBHhcHWRGFsxYVtkHUSfj) | [Hinde](https://open.spotify.com/album/4X4HXzxq9RGHkinHaXYrjd) | 5:33 | 2021-12-24 | 2024-04-19 |
 | [Hine](https://open.spotify.com/track/2L89TlKLdSjXh33MZWxSFT) | [Nahawa Doumbia](https://open.spotify.com/artist/0lJ4sCynTDDS2Oot6PEhaV) | [Kanawa](https://open.spotify.com/album/7DZu7eXYOCZn9Wz90Rbsa5) | 5:31 | 2021-12-24 | 2024-04-19 |
 | [Homenaje a los Embajadores](https://open.spotify.com/track/3yAlh4l1uSVLrVOXbNxMry) | [Wganda Kenya](https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka) | [Afromanía Caribe](https://open.spotify.com/album/6Vn2MDsWVvvqEB3jfBxhMG) | 7:40 | 2021-12-24 |  |

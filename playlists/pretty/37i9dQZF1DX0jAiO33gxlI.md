@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Boombeat, Emicida, Cynthia Luz
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,154 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,136 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 11 | [Pecador pelo Gueto](https://open.spotify.com/track/7gM5mb1fZbyx8jqY4SlZ8F) | [Big Da Godoy](https://open.spotify.com/artist/7I4mImzzonEeDHIT7IvfJr) | [Pecador pelo Gueto](https://open.spotify.com/album/6gqIUPFJ1gI3VzZHLWauPn) | 2:24 |
 | 12 | [Amanhã](https://open.spotify.com/track/2SFv0KNd4UUWnFZS0X9CUT) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Amanhã](https://open.spotify.com/album/6ugfJZBcwwvdwqRqwPH5LX) | 3:45 |
 | 13 | [95 pisa na inveja](https://open.spotify.com/track/3Yf4Y5Z6qK3WiN5kRMsksN) | [AKA AFK](https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca), [Felix Dubs](https://open.spotify.com/artist/5iF6YGehiRgkpZ2uyzVG4u) | [95 pisa na inveja](https://open.spotify.com/album/5nYzt6ZOIfZzIaIwlfA6hG) | 2:32 |
-| 14 | [Legalizou](https://open.spotify.com/track/43KndzCDO5I3uIijhdYFdP) | [Asfalto Rec](https://open.spotify.com/artist/0QGicFlDrqHZqBIVSjWWMv), [Dexter](https://open.spotify.com/artist/48lXqQpHuWvJWm6JkNjVRR), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Navarro](https://open.spotify.com/artist/1QROX8a5EnlsmUMaQmzsUd), [Henrique Santana](https://open.spotify.com/artist/10IPayXz1ZXTZAwAzeBM8p), [KC](https://open.spotify.com/artist/7jpw0U76pSMEUaYmJswMda), [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Legalizou](https://open.spotify.com/album/5GYyX3ARfinBGEb23jtoon) | 4:20 |
+| 14 | [Legalizou](https://open.spotify.com/track/43KndzCDO5I3uIijhdYFdP) | [Asfalto Rec](https://open.spotify.com/artist/0QGicFlDrqHZqBIVSjWWMv), [Dexter](https://open.spotify.com/artist/76IyGPd3y2mBZCljGcke0x), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Navarro](https://open.spotify.com/artist/3DOrYxCVChYJfWyMGsbo6i), [Henrique Santana](https://open.spotify.com/artist/1qWd1Z9uq1cWb4ysKj8jxE), [KC](https://open.spotify.com/artist/7w0ZdbCrscuwc2om6ZGIK7), [Will its](https://open.spotify.com/artist/1f3yecFvTFxopzZNwdj01N) | [Legalizou](https://open.spotify.com/album/5GYyX3ARfinBGEb23jtoon) | 4:20 |
 | 15 | [Melhor Momento, Pt\. 2](https://open.spotify.com/track/6mvFYL3LZ1XjS6daT9Hjdi) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [Melhor Momento, Pt\. 2](https://open.spotify.com/album/619zQs32QIXwHb1Vt9pcYh) | 2:48 |
 | 16 | [Até Ficarmos Altos](https://open.spotify.com/track/7rq0VQK5oxiiCcGqezD9kq) | [Ordem Natural](https://open.spotify.com/artist/40p1IdVbcMmTQZZIu6FVkZ) | [Até Ficarmos Altos](https://open.spotify.com/album/0cI6hBvrzI353uXUYipQTp) | 4:31 |
 | 17 | [Preta em Movimento](https://open.spotify.com/track/1vAxUjGyC7jEycSHYDDXyt) | [Preta Ferreira](https://open.spotify.com/artist/6rKvdKWX9yzrTzY1IUZwML) | [Preta em Movimento](https://open.spotify.com/album/74QSFKTkJTmk9xlx5kOY1H) | 1:57 |

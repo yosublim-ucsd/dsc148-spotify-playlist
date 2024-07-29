@@ -89,6 +89,24 @@
     },
     {
       "album": {
+        "name": "Water on Water",
+        "url": "https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P"
+      },
+      "artists": [
+        {
+          "name": "Roni Alter",
+          "url": "https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308093,
+      "name": "Carry me home",
+      "url": "https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog"
+    },
+    {
+      "album": {
         "name": "Come Back Home",
         "url": "https://open.spotify.com/album/4y8kfoVNYrOUZ2GZr6sl7P"
       },
@@ -476,7 +494,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 245600,
       "name": "\u05d1\u05d9\u05e7\u05d5\u05e8 \u05de\u05d5\u05dc\u05d3\u05ea",
       "url": "https://open.spotify.com/track/4rT56VSPuaAJMbK73oHxzy"

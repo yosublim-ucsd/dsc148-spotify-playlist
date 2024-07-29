@@ -772,7 +772,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 164000,
       "name": "Dream River",
       "url": "https://open.spotify.com/track/7h55IavoXCs66iwVRoff0e"
@@ -956,6 +956,24 @@
       "duration_ms": 170400,
       "name": "Essence (Soundbath)",
       "url": "https://open.spotify.com/track/2eGtkq4fnMt2kw1lfvm8ZN"
+    },
+    {
+      "album": {
+        "name": "Essence of the Forest",
+        "url": "https://open.spotify.com/album/1TOKTINDh4DrvQttXSrQKN"
+      },
+      "artists": [
+        {
+          "name": "Adelina Somerset",
+          "url": "https://open.spotify.com/artist/3dsMw7dDZ3c6CsdLsYBbLX"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Essence of the Forest",
+      "url": "https://open.spotify.com/track/6HZBfIcSbWg80V7JOPSsA5"
     },
     {
       "album": {

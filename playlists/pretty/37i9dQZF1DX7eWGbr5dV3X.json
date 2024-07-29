@@ -1,6 +1,6 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Towa Bird.",
-  "num_followers": 8762,
+  "num_followers": 8764,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "in my head",
-        "url": "https://open.spotify.com/album/6LxluJA87ubb7G4prSX07I"
-      },
-      "artists": [
-        {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
-        }
-      ],
-      "duration_ms": 224940,
-      "name": "in my head",
-      "url": "https://open.spotify.com/track/4E4K8qooKOsDHpZrmquBGm"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Bloomingtale",
         "url": "https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 208136,
       "name": "More & More",
       "url": "https://open.spotify.com/track/1s9ewA2LqYWnWK7B47qrkN"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "in my head",
+        "url": "https://open.spotify.com/album/6LxluJA87ubb7G4prSX07I"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "duration_ms": 224940,
+      "name": "in my head",
+      "url": "https://open.spotify.com/track/4E4K8qooKOsDHpZrmquBGm"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Tweety",
+        "url": "https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "duration_ms": 232773,
+      "name": "Tweety",
+      "url": "https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "whatever u like",
         "url": "https://open.spotify.com/album/721LnudJW05TovLVLcSoMa"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 132826,
       "name": "sardines",
       "url": "https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Tweety",
-        "url": "https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T"
-      },
-      "artists": [
-        {
-          "name": "Raveena",
-          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
-        }
-      ],
-      "duration_ms": 232773,
-      "name": "Tweety",
-      "url": "https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "What Happened, Happened",
+        "url": "https://open.spotify.com/album/38Vulf6o5aVnrQae85FmOZ"
+      },
+      "artists": [
+        {
+          "name": "Emily Vu",
+          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
+        }
+      ],
+      "duration_ms": 184528,
+      "name": "What Happened, Happened",
+      "url": "https://open.spotify.com/track/2Ck8r31kURBqC7K2G9lLBo"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Masterpiece (80s Remix)",
         "url": "https://open.spotify.com/album/2tJRA9WA7MHc8WbmHHAE9z"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 212080,
       "name": "Mess",
       "url": "https://open.spotify.com/track/0qGy2mmBbemdvjHy1cfmrD"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "What Happened, Happened",
-        "url": "https://open.spotify.com/album/38Vulf6o5aVnrQae85FmOZ"
-      },
-      "artists": [
-        {
-          "name": "Emily Vu",
-          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
-        }
-      ],
-      "duration_ms": 184528,
-      "name": "What Happened, Happened",
-      "url": "https://open.spotify.com/track/2Ck8r31kURBqC7K2G9lLBo"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "No New Friends",
-        "url": "https://open.spotify.com/album/0JCwDW8OoRosByl0NWgluA"
-      },
-      "artists": [
-        {
-          "name": "Priyanka",
-          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
-        }
-      ],
-      "duration_ms": 178823,
-      "name": "No New Friends",
-      "url": "https://open.spotify.com/track/3F3sFq64qFLeTcXqvjttH3"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Abide",
         "url": "https://open.spotify.com/album/3s7Np4fVlWEsQv4R8b5IOO"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 191684,
       "name": "Abide",
       "url": "https://open.spotify.com/track/5dBxM0ddTrg8VKEyM7BgTG"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "No New Friends",
+        "url": "https://open.spotify.com/album/0JCwDW8OoRosByl0NWgluA"
+      },
+      "artists": [
+        {
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "No New Friends",
+      "url": "https://open.spotify.com/track/3F3sFq64qFLeTcXqvjttH3"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Hyperdome",
-        "url": "https://open.spotify.com/album/4WQ745zAz9eRVRVDMBk4IE"
-      },
-      "artists": [
-        {
-          "name": "SuperKnova",
-          "url": "https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Hyperdome",
-      "url": "https://open.spotify.com/track/47z3fqsE7tSXGkFFCzNaFH"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "You Matter",
         "url": "https://open.spotify.com/album/731OCmxzYhwwkRpxbt1Onq"
       },
@@ -583,6 +567,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Now and Then",
+        "url": "https://open.spotify.com/album/3jysksH3UVanTDQD5xeaIG"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "duration_ms": 126464,
+      "name": "Sunkissed",
+      "url": "https://open.spotify.com/track/1tD8J13a74q8fBqXwAP50j"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/791zxJ2XcDy6Es5FEDU8xn"
       },
@@ -599,18 +599,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Now and Then",
-        "url": "https://open.spotify.com/album/3jysksH3UVanTDQD5xeaIG"
+        "name": "Hyperdome",
+        "url": "https://open.spotify.com/album/4WQ745zAz9eRVRVDMBk4IE"
       },
       "artists": [
         {
-          "name": "khai dreams",
-          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+          "name": "SuperKnova",
+          "url": "https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD"
         }
       ],
-      "duration_ms": 126464,
-      "name": "Sunkissed",
-      "url": "https://open.spotify.com/track/1tD8J13a74q8fBqXwAP50j"
+      "duration_ms": 193333,
+      "name": "Hyperdome",
+      "url": "https://open.spotify.com/track/47z3fqsE7tSXGkFFCzNaFH"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Good Advice",
+        "url": "https://open.spotify.com/album/4azZB6gjS66sHkFaGx7RAy"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "duration_ms": 164295,
+      "name": "Good Advice",
+      "url": "https://open.spotify.com/track/4JVPw2DvZp4faUTHjfa4PM"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Kaitlin",
         "url": "https://open.spotify.com/album/2ccdUnXqoL64PqdCi7AdjT"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 273080,
       "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
       "url": "https://open.spotify.com/track/2LPibirlWTAdLuw0UW72au"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Good Advice",
-        "url": "https://open.spotify.com/album/4azZB6gjS66sHkFaGx7RAy"
-      },
-      "artists": [
-        {
-          "name": "khai dreams",
-          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
-        }
-      ],
-      "duration_ms": 164295,
-      "name": "Good Advice",
-      "url": "https://open.spotify.com/track/4JVPw2DvZp4faUTHjfa4PM"
     },
     {
       "added_at": "2024-07-12 04:00:00",

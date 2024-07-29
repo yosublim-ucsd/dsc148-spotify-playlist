@@ -4,7 +4,7 @@
 
 > This is Ramengvrl\. The essential tracks, all in one playlist.
 
-45 songs - 2 hr 22 min
+46 songs - 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [WHACHU MEAN](https://open.spotify.com/track/4l6yAxdimokdajN3NqpSL7) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [WHACHU MEAN](https://open.spotify.com/album/5FoWzMHf0UQsb4bdKPYz1t) | 3:34 | 2023-05-02 |  |
 | [whats ur problem](https://open.spotify.com/track/4Ktfx7qkCY1PkH3HwLkUU7) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 2:45 | 2023-05-02 |  |
 | [WHO DIS?](https://open.spotify.com/track/6nxl63vBvsjtHFjemw3NPM) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [WHO DIS?](https://open.spotify.com/album/3HSERFlXcsFpGMb2TszEGw) | 2:04 | 2023-05-02 |  |
+| [Xtra McNasty \(Feat\. Jessi, Awich, MILLI, Ramengvrl, Lil Cherry, MIRANI, Maliibu Miitch, CAMO\)](https://open.spotify.com/track/1uUbO4jTqULg0l0FDdVGmn) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [Maliibu Miitch](https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Xtra McNasty](https://open.spotify.com/album/0dC0699Ls8Sx9gmTQFRJj3) | 6:07 | 2024-07-29 |  |
 | [yellow fever \(feat\. Ramengvrl & YAYOI DAIMON\)](https://open.spotify.com/track/6mrHgesCVZEEDxiS6aovn6) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [YAYOI DAIMON](https://open.spotify.com/artist/6u1eX0H0rWHLh3Dq1ASdUb) | [yellow fever \(feat\. Ramengvrl & YAYOI DAIMON\)](https://open.spotify.com/album/4mfzgLen8EtrAFZIrOKJEN) | 2:46 | 2023-05-02 |  |
 
 \*This playlist was first scraped on 2023-05-03. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
-  "description": "This is Bring Me The Horizon. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 451967,
+  "description": "This is Bring Me The Horizon. The essential tracks, all in one playlist.",
+  "num_followers": 452064,
   "original_name": "This Is Bring Me The Horizon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqLnAAAAAACmkA8eFlkpg7NleqKxS58S",
+  "snapshot_id": "ZqQ4gAAAAAB6DoH3RX0w3LOXSVe59jIr",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 240590,
-      "name": "Top 10 staTues tHat CriEd bloOd",
-      "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
+      "duration_ms": 165357,
+      "name": "DArkSide",
+      "url": "https://open.spotify.com/track/7mczLeiFeYKRb7vtiPjuMb"
     },
     {
       "added_at": null,
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 165357,
-      "name": "DArkSide",
-      "url": "https://open.spotify.com/track/7mczLeiFeYKRb7vtiPjuMb"
+      "duration_ms": 240590,
+      "name": "Top 10 staTues tHat CriEd bloOd",
+      "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
     },
     {
       "added_at": null,

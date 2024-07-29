@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-17",
-  "description": "This Is Kidz Bop Kids. Los temas esenciales, todos en una lista.",
+  "description": "This is Kidz Bop Kids. The essential tracks, all in one playlist.",
   "name": "This Is Kidz Bop Kids",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 154811,
       "name": "BONITA",
       "url": "https://open.spotify.com/track/2PC3p183m8iuk49KINvIWQ"
@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 130848,
       "name": "TOO MUCH",
       "url": "https://open.spotify.com/track/5m9mT86dI2PKotZYjt9m98"

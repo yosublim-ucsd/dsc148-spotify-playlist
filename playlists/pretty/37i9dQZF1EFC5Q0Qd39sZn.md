@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,004 likes - 567 songs - 1 day 15 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,010 likes - 567 songs - 1 day 15 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,8 +214,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 204 | [Walk Away](https://open.spotify.com/track/6U0N0iII20TyI3KJbCdwbp) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The Hunger](https://open.spotify.com/album/6MQWMbtrLuuwjzfFLSJbhu) | 4:11 |
 | 205 | [World Without You](https://open.spotify.com/track/7CjkKfZv5ks3SLajSj1m7S) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth \(Deluxe Edition\)](https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no) | 4:42 |
 | 206 | [I'll Still Love You More](https://open.spotify.com/track/2BQ3U6cCECj2ULc7vUUVcO) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Where Your Road Leads](https://open.spotify.com/album/6l9KppfaP2OOV7SFDwmKNz) | 4:24 |
-| 207 | [Nothing Can Keep Me From You](https://open.spotify.com/track/2NiSYwryWPbvpzP23GlVtV) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS Box Set](https://open.spotify.com/album/1aQUAWtVCilkjTK9fnoJ3e) | 4:04 |
-| 208 | [I Would Find a Way](https://open.spotify.com/track/6fYrcILR5hdVlAAdcg4G4N) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [Unity](https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe) | 5:05 |
+| 207 | [I Would Find a Way](https://open.spotify.com/track/6fYrcILR5hdVlAAdcg4G4N) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [Unity](https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe) | 5:05 |
+| 208 | [Nothing Can Keep Me From You](https://open.spotify.com/track/2NiSYwryWPbvpzP23GlVtV) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS Box Set](https://open.spotify.com/album/1aQUAWtVCilkjTK9fnoJ3e) | 4:04 |
 | 209 | [Don't Lose Any Sleep](https://open.spotify.com/track/3LBp8KAovHdlBbseS5bvIF) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Greatest Hits \(Ten Years And Change 1979\-1991\)](https://open.spotify.com/album/0qRvb8w1YuZhBrhELRFPBK) | 4:20 |
 | 210 | [And the Night Stood Still](https://open.spotify.com/track/1wiWoQ3YML4sOih65a4OLA) | [Smokie](https://open.spotify.com/artist/5rIqOJspxDq89aBBCUda1X) | [It's Country Time](https://open.spotify.com/album/1QS3ONEVnbVMYmQovpOUC8) | 3:46 |
 | 211 | [Come On Down](https://open.spotify.com/track/4HetWr51uag7ayWoZAX9d4) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/04LFXnEBkVE6mZfxGeCLbM) | 4:17 |
@@ -300,8 +300,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 290 | [Explain It to My Heart \- 2009 Remaster](https://open.spotify.com/track/6wpw0KbDjLRjAG0Gp0AGxX) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Twenty 1 \(Expanded Edition\)](https://open.spotify.com/album/73qc0AZ2o6EjPLL0c1pOFU) | 4:47 |
 | 291 | [Nothing Hurts Like Love](https://open.spotify.com/track/72HPQqLjTB273IrE7cnHNx) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Second First Impression](https://open.spotify.com/album/2IGzeXqhpPyj3hsblRnUA1) | 3:04 |
 | 292 | [Don't Need You To \(Tell Me I'm Pretty\)](https://open.spotify.com/track/2X4SVUKg4wvQFJjdt8vPZx) | [Samantha Mumba](https://open.spotify.com/artist/7L12TqJ0fbwtFljTbwfwRI) | [Don't Need You To \(Tell Me I'm Pretty\)](https://open.spotify.com/album/29dax1uaLwWUkIfArGqGjP) | 3:35 |
-| 293 | [Body to Body, Heart to Heart](https://open.spotify.com/track/4DKnzfWjpSw77g9hW82qXx) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Living Proof](https://open.spotify.com/album/6wObbsRHMxZIo06tP3hYTa) | 3:58 |
-| 294 | [Chasin' the Wind \- 2009 Remaster](https://open.spotify.com/track/1HkwWmPgucFhkf3znwiKHE) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Twenty 1 \(Expanded Edition\)](https://open.spotify.com/album/73qc0AZ2o6EjPLL0c1pOFU) | 4:19 |
+| 293 | [Chasin' the Wind \- 2009 Remaster](https://open.spotify.com/track/1HkwWmPgucFhkf3znwiKHE) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Twenty 1 \(Expanded Edition\)](https://open.spotify.com/album/73qc0AZ2o6EjPLL0c1pOFU) | 4:19 |
+| 294 | [Body to Body, Heart to Heart](https://open.spotify.com/track/4DKnzfWjpSw77g9hW82qXx) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Living Proof](https://open.spotify.com/album/6wObbsRHMxZIo06tP3hYTa) | 3:58 |
 | 295 | [Was It Something I Didn't Say \- Acoustic Version](https://open.spotify.com/track/4pJTZYH1Zq4Z9kQ6Zr42Ku) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [Was It Something I Didn't Say](https://open.spotify.com/album/50pwpeDPHfLatchFCRCyGE) | 5:11 |
 | 296 | [Give Our Love A Fightin' Chance](https://open.spotify.com/track/2AAncJGhaot7e3Be7QSQlB) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Cher](https://open.spotify.com/album/0NxtOR1ND3Qygex4ACA0z9) | 4:06 |
 | 297 | [Every Road Leads Back to You](https://open.spotify.com/track/2Rqjs2uSnjmbpAMG4T4G64) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [For the Boys \(Music from the Motion Picture\)](https://open.spotify.com/album/478uzZcKkV2fmQx6hmNYIv) | 3:47 |
@@ -540,8 +540,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 530 | [I Know What's Good for You](https://open.spotify.com/track/6v0kYD1OtpqAxRNuQQgjS0) | [Amy Keys](https://open.spotify.com/artist/2K1iGjjn5wjpOHhpeU9Cy0) | [Lover's Intuition](https://open.spotify.com/album/5ZmIfeKLj8AE45i0JELGog) | 5:02 |
 | 531 | [Busco Señales Divinas](https://open.spotify.com/track/0431RfAmQ22MgBoKxfzgAJ) | [Ainhoa](https://open.spotify.com/artist/1dhhcNPTwfTrCjfUsrGK3C) | [Esencia Natural](https://open.spotify.com/album/5REUSLyEftpbSsyynmr6H0) | 4:04 |
 | 532 | [Care Too Much](https://open.spotify.com/track/6cXFkHT00hrPD3dVfPCW9g) | [Jamali](https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0) | [3rd Base](https://open.spotify.com/album/1BF6nTLmsnDY3gIdnMjAwz) | 4:08 |
-| 533 | [What Is My Heart To Do](https://open.spotify.com/track/5TdeDThlvrASifnfs3XGFi) | [BLAKE](https://open.spotify.com/artist/7JGJfRv9uECnJd7q99tl4V) | [Start Over](https://open.spotify.com/album/34XbAK9T9xXWyJ2A9OvoC9) | 3:54 |
-| 534 | [Can't Get You out of My Heart](https://open.spotify.com/track/48OlQtp5Xlq0e76r4ZoG57) | [Kathy Troccoli](https://open.spotify.com/artist/73CmW7Heo8CxnYXydAs6qc) | [Pure Attraction](https://open.spotify.com/album/7h3SdzikWQl9rvM4N86lLi) | 4:23 |
+| 533 | [Can't Get You out of My Heart](https://open.spotify.com/track/48OlQtp5Xlq0e76r4ZoG57) | [Kathy Troccoli](https://open.spotify.com/artist/73CmW7Heo8CxnYXydAs6qc) | [Pure Attraction](https://open.spotify.com/album/7h3SdzikWQl9rvM4N86lLi) | 4:23 |
+| 534 | [What Is My Heart To Do](https://open.spotify.com/track/5TdeDThlvrASifnfs3XGFi) | [BLAKE](https://open.spotify.com/artist/7JGJfRv9uECnJd7q99tl4V) | [Start Over](https://open.spotify.com/album/34XbAK9T9xXWyJ2A9OvoC9) | 3:54 |
 | 535 | [Never Gonna Tame You](https://open.spotify.com/track/1IUKwL6P40tVxnrn18Zx5Q) | [Nyasia Chane'l](https://open.spotify.com/artist/73axMD27fgWTP6aCtGWqW7) | [Never Gonna Tame You](https://open.spotify.com/album/4F6z0E504Uqy9pF3YQAA7P) | 3:42 |
 | 536 | [No Known Cure](https://open.spotify.com/track/7ahbAPouPlckdehl0ilTy4) | [Jamali](https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0) | [Yours Fatally](https://open.spotify.com/album/7dQkn95399PE46yHU2f0Nv) | 3:32 |
 | 537 | [Good Things Take Time](https://open.spotify.com/track/6WcCdbV8I4vkJS3513w1U8) | [Tyler Collins](https://open.spotify.com/artist/5huMtuPNUReK11RrCYwP0p), [Keith "Kc" Cohen](https://open.spotify.com/artist/1044NKEAaGJ76ULKFyrO9u), [Dave Aron](https://open.spotify.com/artist/62nl0bGlq1JumMss6EFzFh), [Airiq Anest](https://open.spotify.com/artist/5Jj4Rq9vB3MACoRzle0nb2) | [Tyler](https://open.spotify.com/album/4H6ClSkkeWUXdiM7w2my93) | 5:02 |
@@ -576,4 +576,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 566 | [Useless](https://open.spotify.com/track/7pwwB0KWXuRKYBMzl3uIJz) | [Greta's Bakery](https://open.spotify.com/artist/0JlKiJmaipuA5sapRgBzYv) | [The Edge Of Everything](https://open.spotify.com/album/7LbOwqhn2rwZ8sKbA2wc4q) | 3:52 |
 | 567 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `AbX2QgAAAADBsom/AgKbP3iV1GFgYJrJ`
+Snapshot ID: `AbX7ogAAAAD8/fneA+3HIw3j9x2fyZmA`

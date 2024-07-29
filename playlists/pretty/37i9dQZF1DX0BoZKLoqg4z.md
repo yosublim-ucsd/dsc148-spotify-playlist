@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BoZKLoqg4z.md) - [plain]
 
 > Les talents préférés de vos enfants, découverts à la télé!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,164 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,171 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [J'imagine](https://open.spotify.com/track/32Qu507RR1udtFZmrHfDij) | [Valentina](https://open.spotify.com/artist/0gEOgqLxlWc5L54Uvaku2S) | [J'imagine](https://open.spotify.com/album/7p571QNYDv3pDEFVOC4hsx) | 2:59 |
-| 2 | [Miraculous \- Générique de la série TV](https://open.spotify.com/track/08aC14ZGZUQ5pGkN8SzL3d) | [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg) | [Lou \(Edition deluxe\)](https://open.spotify.com/album/6iQwxvZGLZd9SoKkZfDo0C) | 2:39 |
+| 2 | [Miraculous \- Générique de la série TV](https://open.spotify.com/track/08aC14ZGZUQ5pGkN8SzL3d) | [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg), [Lenni Kim](https://open.spotify.com/artist/1PVmM2c79UdIymMzxYlywJ) | [Lou \(Edition deluxe\)](https://open.spotify.com/album/6iQwxvZGLZd9SoKkZfDo0C) | 2:39 |
 | 3 | [M'en aller \(feat\. Lou\)](https://open.spotify.com/track/78DEUoZWrf37U5jSagDt0s) | [Evan et Marco](https://open.spotify.com/artist/0qgw5KQPb3ZkCuuAbCfP0I), [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg) | [Evan et Marco](https://open.spotify.com/album/3evknzIth3rOhAR5BNzJHR) | 3:33 |
 | 4 | [Trois petits pas](https://open.spotify.com/track/4YXs7LCyMLx5vgWnT7x6ey) | [Carla](https://open.spotify.com/artist/6FLqKeDxjLqbbEifG4oCuz), [Kids United Nouvelle Generation](https://open.spotify.com/artist/3GjGdUg7HGaoqwMzFBbdqt), [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg), [YUN](https://open.spotify.com/artist/3ubqH7KHuudR4dSQ8P2nmE) | [Trois petits pas](https://open.spotify.com/album/1qD3qEnZyS5hbV9L6xCUFL) | 2:33 |
 | 5 | [Vital](https://open.spotify.com/track/0G5zAwSq25lFSxemPe3KPY) | [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg) | [Vital](https://open.spotify.com/album/6MASDyA02tZdTRIZt0kigj) | 3:35 |

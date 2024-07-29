@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Prem Dhillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,306 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,319 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Barks](https://open.spotify.com/track/5AcWXb7VURDdZeSLa75d71) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Azaad 4L](https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6) | [Barks](https://open.spotify.com/album/7hIJMW0abXIaHukdRuCp8l) | 2:23 |
-| 2 | [Wake Up Call](https://open.spotify.com/track/4a4RBRrHoYe4akc8lYSPX7) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Gill Madhipuriya](https://open.spotify.com/artist/5HK0k0FIFR1al68TrZkfdp), [Inder Dhammu](https://open.spotify.com/artist/62lU8tdLrII0IPky1vaMsu) | [Wake Up Call](https://open.spotify.com/album/1wP7zwsGUxHsZu5dD5Dzvt) | 3:45 |
+| 2 | [Wake Up Call](https://open.spotify.com/track/4a4RBRrHoYe4akc8lYSPX7) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Gill Madhipuriya](https://open.spotify.com/artist/5HK0k0FIFR1al68TrZkfdp) | [Wake Up Call](https://open.spotify.com/album/1wP7zwsGUxHsZu5dD5Dzvt) | 3:45 |
 | 3 | [Everyday](https://open.spotify.com/track/14vkIURua4zQpM11RG43A1) | [Shahat Gill](https://open.spotify.com/artist/7JYrslpC4w9YRhzwFDZSZV), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Everyday](https://open.spotify.com/album/3amPlcoQ8ZifGXfq016JYK) | 1:54 |
 | 4 | [Accounts](https://open.spotify.com/track/47q370VByrWHa7cZKMwIig) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [His Story](https://open.spotify.com/album/22gTBNDI7rNbqFNu46IoBU) | 4:12 |
 | 5 | [Kaale Angoor](https://open.spotify.com/track/5HUq5gDxWR1VW0hb37NjOw) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Billa Bakshi](https://open.spotify.com/artist/5bbQpJJq77oqHSLGMbqogg) | [The Finest](https://open.spotify.com/album/47gUYtnZNZBbbcwc6YMdAy) | 3:51 |

@@ -1,6 +1,6 @@
 {
   "description": "Ag\u00e1rrense fuerte.",
-  "num_followers": 127198,
+  "num_followers": 127243,
   "original_name": "Lentos",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
+      },
+      "artists": [
+        {
+          "name": "Chris de Burgh",
+          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "The Lady In Red",
+      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
         "name": "At The Close Of A Century",
         "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 334106,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
-        "name": "Into The Light",
-        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
-      },
-      "artists": [
-        {
-          "name": "Chris de Burgh",
-          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "The Lady In Red",
-      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
     },
     {
       "added_at": "2024-06-14 18:07:20",
@@ -363,18 +363,18 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "All Out Of Love",
-        "url": "https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX"
+        "name": "Falling into You",
+        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
       },
       "artists": [
         {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
         }
       ],
-      "duration_ms": 341746,
-      "name": "Making Love Out of Nothing at All",
-      "url": "https://open.spotify.com/track/01MXkFA8sL7at6txavDErt"
+      "duration_ms": 312306,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD"
     },
     {
       "added_at": "2024-06-14 18:07:20",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
+        "name": "All Out Of Love",
+        "url": "https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 341746,
+      "name": "Making Love Out of Nothing at All",
+      "url": "https://open.spotify.com/track/01MXkFA8sL7at6txavDErt"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
         "name": "Can't Slow Down",
         "url": "https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T"
       },
@@ -427,22 +443,6 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "Falling into You",
-        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 312306,
-      "name": "All By Myself",
-      "url": "https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
         "name": "I've Been Expecting You",
         "url": "https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs"
       },
@@ -455,22 +455,6 @@
       "duration_ms": 258026,
       "name": "She's The One",
       "url": "https://open.spotify.com/track/4lO57zZGFcj7vSY4QhfVDq"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
-        "name": "The Earth Is...",
-        "url": "https://open.spotify.com/album/3tbuKVVtZTGT7iwZo60sN3"
-      },
-      "artists": [
-        {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        }
-      ],
-      "duration_ms": 272626,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0aW5JH6RnfTv5cGvPS3cca"
     },
     {
       "added_at": "2024-06-14 18:07:20",
@@ -519,6 +503,22 @@
       "duration_ms": 249249,
       "name": "Take My Breath Away (as heard in Top Gun) (Re-Recorded / Remastered)",
       "url": "https://open.spotify.com/track/28ZCSdsVrt0BCaBhRI0HXq"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
+        "name": "The Earth Is...",
+        "url": "https://open.spotify.com/album/3tbuKVVtZTGT7iwZo60sN3"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 272626,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0aW5JH6RnfTv5cGvPS3cca"
     },
     {
       "added_at": "2024-06-14 18:07:20",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "GRRR! (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3LcLR5Mpdj6C5jiaReLvDt"
+        "name": "...But Seriously",
+        "url": "https://open.spotify.com/album/041chign4EX8Qmq9hlsSe9"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 271893,
-      "name": "Angie",
-      "url": "https://open.spotify.com/track/1qZyPLjhDZCxOnGySMdfHu"
+      "duration_ms": 327826,
+      "name": "I Wish It Would Rain Down",
+      "url": "https://open.spotify.com/track/7pJLv39T2zogTmKRJbx2lf"
     },
     {
       "added_at": "2024-06-14 18:07:20",
@@ -763,18 +763,66 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "...But Seriously",
-        "url": "https://open.spotify.com/album/041chign4EX8Qmq9hlsSe9"
+        "name": "Ultimate",
+        "url": "https://open.spotify.com/album/3AUHDaXUhZimlDLFh4sTDV"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 327826,
-      "name": "I Wish It Would Rain Down",
-      "url": "https://open.spotify.com/track/7pJLv39T2zogTmKRJbx2lf"
+      "duration_ms": 293573,
+      "name": "Have You Ever Really Loved A Woman? - From \"Don Juan DeMarco\"",
+      "url": "https://open.spotify.com/track/2niWeDbz2OMvOwH57tbCm4"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
+        "name": "The Greatest Hits 1970-2002",
+        "url": "https://open.spotify.com/album/6nvd1pwRgLrMez7fIiDq8z"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 351386,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/3YpkVhRNeKVaSXUaG2TKs9"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
+        "name": "21' Sampler",
+        "url": "https://open.spotify.com/album/74fjslPVQH60ns7vRlv3tW"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 285240,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/19RKuCdPh68WknFtjG9BJN"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
+        "name": "GRRR! (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3LcLR5Mpdj6C5jiaReLvDt"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 271893,
+      "name": "Angie",
+      "url": "https://open.spotify.com/track/1qZyPLjhDZCxOnGySMdfHu"
     },
     {
       "added_at": "2024-06-14 18:07:20",
@@ -811,38 +859,6 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "Ultimate",
-        "url": "https://open.spotify.com/album/3AUHDaXUhZimlDLFh4sTDV"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 293573,
-      "name": "Have You Ever Really Loved A Woman? - From \"Don Juan DeMarco\"",
-      "url": "https://open.spotify.com/track/2niWeDbz2OMvOwH57tbCm4"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
-        "name": "21' Sampler",
-        "url": "https://open.spotify.com/album/74fjslPVQH60ns7vRlv3tW"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 285240,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/19RKuCdPh68WknFtjG9BJN"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
         "name": "20 Mejores Melodias Encadenadas Vol.5",
         "url": "https://open.spotify.com/album/26czPJ2HW2iFWXEEOUcpqA"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 248066,
       "name": "My Love",
       "url": "https://open.spotify.com/track/5QN44mkwFWRhJ0H1VuGoho"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
-        "name": "The Greatest Hits 1970-2002",
-        "url": "https://open.spotify.com/album/6nvd1pwRgLrMez7fIiDq8z"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 351386,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/3YpkVhRNeKVaSXUaG2TKs9"
     }
   ],
   "unique_name": "Lentos",

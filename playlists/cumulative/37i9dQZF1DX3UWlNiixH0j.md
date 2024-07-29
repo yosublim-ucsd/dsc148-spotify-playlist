@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 長谷川白紙 Hakushi Hasegawa
 
-1,775 songs - 4 day 14 hr 19 min
+1,777 songs - 4 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [130](https://open.spotify.com/track/7r7kXWGqoHcLp1CgzoNsvM) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [130](https://open.spotify.com/album/1JDCIfpoBPrYy5vnAFkp30) | 1:30 | 2023-06-20 | 2023-07-05 |
 | [16:28](https://open.spotify.com/track/6uqVlsFHg4Nkr1wRenev6O) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [no public sounds](https://open.spotify.com/album/6aO96YUjirdU0mPzy7mCHd) | 5:45 | 2023-09-26 | 2023-12-20 |
 | [18の息吹](https://open.spotify.com/track/7jCXSLeKRdlndNLBoGIOZR) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [∞](https://open.spotify.com/album/3gcRCzE40Pnraab0ZXcQjR) | 4:33 | 2023-11-24 | 2023-12-07 |
+| [18才の夏休み](https://open.spotify.com/track/4SKUc66FMz0BXpqaF2G94u) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [18才の夏休み](https://open.spotify.com/album/7HjvNgMZN1YHWOFNbu36Ob) | 3:41 | 2024-07-28 |  |
 | [2 Μ Ο Я Ο](https://open.spotify.com/track/3i1YBIdZzBPvZectd5wLw0) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 2:57 | 2023-11-29 |  |
 | [2025](https://open.spotify.com/track/1r5KFMAbthTgyOzLQDFIT6) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [2025](https://open.spotify.com/album/2zZ1oMaAGfORxYkiOXpoSG) | 3:28 | 2024-06-18 | 2024-06-26 |
 | [20th Century Ghost](https://open.spotify.com/track/1glZLwqrWSK16RGOtkkuZT) | [The Muddies](https://open.spotify.com/artist/2zFsxadjvDk8KJz1lgxwXS) | [20th Century Ghost](https://open.spotify.com/album/3EWmO2QgImNvkb2eIkRlKe) | 3:29 | 2024-01-30 | 2024-02-07 |
@@ -76,7 +77,7 @@
 | [ANTS](https://open.spotify.com/track/0KWem3KlGq98EfpzR9qzPL) | [pile of hex](https://open.spotify.com/artist/6Fi3SNqlAYsmyLlMhQO9CX) | [LIQUESCENCE](https://open.spotify.com/album/30az4c7jsmWtd1pa56WL5O) | 2:57 | 2024-02-13 | 2024-02-21 |
 | [Anybody.\. feat\. 小袋成彬](https://open.spotify.com/track/1VffHuaOhDoLk9PX8yaauU) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk) | [DISTORTION](https://open.spotify.com/album/2nKHK0XJNGksRIFK4xnaBI) | 3:06 | 2024-07-26 |  |
 | [Apart](https://open.spotify.com/track/6vK9KmOKRFNmHkkC81fKiA) | [Calendars](https://open.spotify.com/artist/0ClkxUVokbzrFYgECZEmXI) | [Apart](https://open.spotify.com/album/1YRbKbG4TdfRNg6b9suNjF) | 3:26 | 2024-02-13 | 2024-02-21 |
-| [apart](https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [apart](https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr) | 2:56 | 2023-04-04 |  |
+| [apart](https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [apart](https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr) | 2:56 | 2023-04-04 | 2024-07-29 |
 | [APART](https://open.spotify.com/track/7zzaYtfY8m5LGWMhrV5jJW) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [APART](https://open.spotify.com/album/4bCqpGMScqjIAYFiTkG7qC) | 3:16 | 2023-11-29 | 2024-01-12 |
 | [Around the Corner](https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 3:46 | 2023-10-10 | 2023-12-27 |
 | [Assaji](https://open.spotify.com/track/7tq3hGN4cKQq9BSRJDtaRc) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [nobori](https://open.spotify.com/album/0CoXvmN1olFtTgZTk1txde) | 2:10 | 2024-01-11 | 2024-01-24 |
@@ -858,6 +859,7 @@
 | [Seed](https://open.spotify.com/track/57oVY3KrjM7DNiMwMcPCDl) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Bloom](https://open.spotify.com/album/7q37XpOyHaEbmsmGJpFrCi) | 4:08 | 2023-01-12 | 2023-02-03 |
 | [Sekaino Owarini](https://open.spotify.com/track/6ZoXL8YgyqPJkVWmD4AUoB) | [Sou Yamasaki](https://open.spotify.com/artist/0ZVL58XQLY5kUCSKRIVhOs) | [Sekaino Owarini](https://open.spotify.com/album/68lKm8eBspdlrvLURlu3Ki) | 4:04 | 2023-11-21 | 2023-11-29 |
 | [Sense of Wonder](https://open.spotify.com/track/2sWANzUTKXFzd6PuoNT16b) | [KONCOS](https://open.spotify.com/artist/2DLMFZ9TlwJwyGzzodWpXv) | [Waltz for April](https://open.spotify.com/album/2ktDs0e3dtfhsaRQk1nOcz) | 2:24 | 2023-01-12 | 2023-01-18 |
+| [Sentiments](https://open.spotify.com/track/1RV7iXLe9Ydh9J9MiXtOLm) | [Nape](https://open.spotify.com/artist/4i2HtvaNWxR0sYVRzQTT1N) | [Sentiments](https://open.spotify.com/album/5svu4CMAw8VYFyF6nxswfr) | 3:11 | 2024-07-28 |  |
 | [set me free](https://open.spotify.com/track/1RMNsdSWzCivT5Db9afYuM) | [Kaoruko](https://open.spotify.com/artist/4p8Qi7wNCoyMNEF7dX8qUl) | [set me free](https://open.spotify.com/album/4QbwpyNyVJErLqLSLFxsmQ) | 3:50 | 2023-01-12 | 2023-01-18 |
 | [Sha La La](https://open.spotify.com/track/6sb5X0aWyPraBBgptFcegn) | [マイティマウンテンズ](https://open.spotify.com/artist/31voAK1zx8UMpcLy8mbLAW) | [Sanagi](https://open.spotify.com/album/2Y17jnzoQE6A6PnMxgfCj1) | 5:28 | 2023-03-21 | 2023-03-29 |
 | [Shadow](https://open.spotify.com/track/5m70CJ7y4FjrUPj8zyFdGs) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Shadow](https://open.spotify.com/album/0oy7XrLSJERwIw3emEE4Ne) | 3:34 | 2023-12-12 | 2024-02-12 |
@@ -1257,7 +1259,7 @@
 | [まどろむ影と](https://open.spotify.com/track/35dvhx7nEz5twO0oCFY7mZ) | [CC81](https://open.spotify.com/artist/0lDBfTAgGg6Ouqh0lEQbYK) | [まどろむ影と](https://open.spotify.com/album/6XCT7y1leobKTSTMyMzuKL) | 4:31 | 2024-04-09 | 2024-04-17 |
 | [まる。](https://open.spotify.com/track/6glVTRIK7bUCXIvJTOffUA) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [まる。](https://open.spotify.com/album/4BjoAtFfKl2oGyX4a5ihKC) | 2:56 | 2023-09-19 | 2023-09-21 |
 | [むかしの魔法](https://open.spotify.com/track/4vUKvcf74T10psozRyou6B) | [生活の設計](https://open.spotify.com/artist/6ZQ0j6vz0P9rQOQjP8BXlR) | [むかしの魔法](https://open.spotify.com/album/4rBoWGol4wx5pUZ0zS2Wh3) | 3:41 | 2023-02-21 | 2023-02-23 |
-| [もうけもん](https://open.spotify.com/track/2hMn9FYHmZtIFikDDHnoTn) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [もうけもん](https://open.spotify.com/album/3M4xYeC19rVjldE12l7UxF) | 1:58 | 2024-04-02 |  |
+| [もうけもん](https://open.spotify.com/track/2hMn9FYHmZtIFikDDHnoTn) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [もうけもん](https://open.spotify.com/album/3M4xYeC19rVjldE12l7UxF) | 1:58 | 2024-04-02 | 2024-07-29 |
 | [もちもち](https://open.spotify.com/track/4jTi6dAHuebFmXXxP80gYR) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [もちもち](https://open.spotify.com/album/2q4S1j03cG4zpnFZ2cvOo9) | 5:05 | 2023-07-20 | 2023-08-07 |
 | [やえ](https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [はなよど](https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8) | 4:21 | 2023-04-04 | 2023-04-06 |
 | [やさしい雷](https://open.spotify.com/track/5XhPxlTWLqcQGdpdiX8XBc) | [穂ノ佳](https://open.spotify.com/artist/7MjbwNW2fwyau81CKD5ryJ) | [やさしい雷](https://open.spotify.com/album/3WlR1EZCXCZBsGQlDAVKDH) | 4:04 | 2024-04-16 | 2024-04-24 |

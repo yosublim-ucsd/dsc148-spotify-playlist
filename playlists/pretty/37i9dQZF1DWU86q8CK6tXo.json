@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: DOE",
-  "num_followers": 58355,
+  "num_followers": 58353,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-07-02 21:16:44",
       "album": {
+        "name": "Magnolia Rain",
+        "url": "https://open.spotify.com/album/7b7SNa88HbYj7AWwAdUXa5"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 166257,
+      "name": "Magnolia Rain",
+      "url": "https://open.spotify.com/track/5UHNA6wKJ4NEYC4H9NJ8ys"
+    },
+    {
+      "added_at": "2024-07-02 21:16:44",
+      "album": {
         "name": "Cowboy",
         "url": "https://open.spotify.com/album/3QmI9nASm8e4IdQzGoaB5W"
       },
@@ -551,18 +567,18 @@
     {
       "added_at": "2024-07-02 21:16:44",
       "album": {
-        "name": "Magnolia Rain",
-        "url": "https://open.spotify.com/album/7b7SNa88HbYj7AWwAdUXa5"
+        "name": "Hypocrite",
+        "url": "https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N"
       },
       "artists": [
         {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
         }
       ],
-      "duration_ms": 166257,
-      "name": "Magnolia Rain",
-      "url": "https://open.spotify.com/track/5UHNA6wKJ4NEYC4H9NJ8ys"
+      "duration_ms": 108650,
+      "name": "Hypocrite",
+      "url": "https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0"
     },
     {
       "added_at": "2024-07-02 21:16:44",
@@ -583,22 +599,6 @@
       "duration_ms": 126620,
       "name": "Streetwise",
       "url": "https://open.spotify.com/track/5SDW0aLSetWzFS1676VgXQ"
-    },
-    {
-      "added_at": "2024-07-02 21:16:44",
-      "album": {
-        "name": "Hypocrite",
-        "url": "https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N"
-      },
-      "artists": [
-        {
-          "name": "Daisy Grenade",
-          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
-        }
-      ],
-      "duration_ms": 108650,
-      "name": "Hypocrite",
-      "url": "https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0"
     },
     {
       "added_at": "2024-07-02 21:16:44",
@@ -683,18 +683,18 @@
     {
       "added_at": "2024-07-02 21:16:44",
       "album": {
-        "name": "Moving Day",
-        "url": "https://open.spotify.com/album/6704YouVguYBevesjOlyC3"
+        "name": "wilt",
+        "url": "https://open.spotify.com/album/3kmDFMtB0dcW12p62brgKG"
       },
       "artists": [
         {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+          "name": "wilt",
+          "url": "https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy"
         }
       ],
-      "duration_ms": 170602,
-      "name": "Moving Day",
-      "url": "https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun"
+      "duration_ms": 161500,
+      "name": "she wants me too",
+      "url": "https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E"
     }
   ],
   "unique_name": "EQUAL US",

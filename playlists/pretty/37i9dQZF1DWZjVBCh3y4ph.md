@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Joé Dwèt Filé
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,946 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,991 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 30 | [PLAN B](https://open.spotify.com/track/7azy3NmFHCyQt8VdJTP2LH) | [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr), [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L) | [PLAN B](https://open.spotify.com/album/0uoTpwgUk6TLiXLivtmpXG) | 3:21 |
 | 31 | [Partons](https://open.spotify.com/track/6x549B62Wsm1IytHDL9VbQ) | [Yoan](https://open.spotify.com/artist/3zLakmncfxwiYZRHe0i5Ke) | [Partons](https://open.spotify.com/album/0445yJTHQ6gwNVabVcbMT1) | 3:13 |
 | 32 | [POU OU ENTANN'](https://open.spotify.com/track/2PVwVPZ9an4z8F3twl15u8) | [Pix'L](https://open.spotify.com/artist/3cDIf3HM6LGZYUKQJZbHFA) | [POU OU ENTANN'](https://open.spotify.com/album/3h6N8Cviif6ktUyTCLBnyt) | 3:06 |
-| 33 | [Oublie ça \- Fendi](https://open.spotify.com/track/1gxXleEdeIww3bYBy4IhPk) | [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM) | [POV : Premier regard](https://open.spotify.com/album/4dzEEdxO9RZoU7rRy1BOvz) | 2:08 |
+| 33 | [Oublie ça \(Fendi\)](https://open.spotify.com/track/1gxXleEdeIww3bYBy4IhPk) | [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM) | [POV : Premier regard](https://open.spotify.com/album/4dzEEdxO9RZoU7rRy1BOvz) | 2:08 |
 | 34 | [COMMANDES](https://open.spotify.com/track/4iEBC6CH4TUgqt9tWH1brw) | [Sassy](https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2) | [CATTLEYA](https://open.spotify.com/album/3yPzQIfc6dj1NQWNYLYHGn) | 4:21 |
 | 35 | [Mon Ame \- Gouyad Remix](https://open.spotify.com/track/00rSchsTFFQtIgVvWGfdUv) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67), [King Bouji](https://open.spotify.com/artist/1Q0GT56P1DZTHDsAYQihnX) | [Mon Ame \(Gouyad Remix\)](https://open.spotify.com/album/4KIpKdDmy0UZZ4WaqKsnpZ) | 3:06 |
 | 36 | [Tout](https://open.spotify.com/track/2S0CMcdX1jUeMDZFxMsSfM) | [Lorenz](https://open.spotify.com/artist/2EOc5l6ZIB5gygstmhE9eN) | [Tout](https://open.spotify.com/album/3GqR0RsV6fNF45NtLh7GDT) | 3:09 |

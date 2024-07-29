@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 ### [This Is League of Legends](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2pb4Ji)
 
-> This Is League of Legends\. Los temas esenciales, todos en una lista.
+> This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,079 likes - 51 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,065 likes - 51 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 10 | [Still Here](https://open.spotify.com/track/0uipX8PqFOjgiY43E4lgLe) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Forts](https://open.spotify.com/artist/5PNxXTkVfckrFbwcW6EKdE), [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Still Here](https://open.spotify.com/album/7KiawVJTzXPxU7vvtSY5eW) | 4:12 |
 | 11 | [MORE](https://open.spotify.com/track/6juLaduD4STCUDWT0AYun4) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX), [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX), [Seraphine](https://open.spotify.com/artist/4TqlcgMFDryY96KWcvrhTv), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [MORE](https://open.spotify.com/album/23yd1cYlPgl643vE8bb0WD) | 3:37 |
 | 12 | [Warriors](https://open.spotify.com/track/3f4fc8c8unrQeKecmUPEDR) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Edda Hayes](https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8) | [Warriors](https://open.spotify.com/album/0uyb1O2aodxewxYrAHzqIn) | 3:24 |
-| 13 | [Everything Goes On](https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Everything Goes On](https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW) | 3:22 |
-| 14 | [Burn It All Down](https://open.spotify.com/track/0ked784BOZ1JtRVHux98jE) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Burn It All Down](https://open.spotify.com/album/5naDVIaa86uI8sLdEJrTko) | 3:21 |
+| 13 | [Burn It All Down](https://open.spotify.com/track/0ked784BOZ1JtRVHux98jE) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Burn It All Down](https://open.spotify.com/album/5naDVIaa86uI8sLdEJrTko) | 3:21 |
+| 14 | [Everything Goes On](https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Everything Goes On](https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW) | 3:22 |
 | 15 | [THE BADDEST](https://open.spotify.com/track/2V4Fx72svQRxrFvNT1eq5f) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [THE BADDEST](https://open.spotify.com/album/7C8nskYbHG7N0LDrNVvt7x) | 2:42 |
 | 16 | [Get Jinxed](https://open.spotify.com/track/0WpRF4X2LyMTZnqqrXX19U) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [The Music of League of Legends Vol\. 1](https://open.spotify.com/album/4pg51OJaG6MGlpRFxWWLpr) | 2:34 |
 | 17 | [Awaken](https://open.spotify.com/track/3jevgr3fYdv9wYO3IDJq2a) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c), [Ray Chen](https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ) | [Awaken](https://open.spotify.com/album/0faLimwDSn0fF0Y0fahCd1) | 3:18 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 50 | [The Curse of the Sad Mummy](https://open.spotify.com/track/6vWCjuZTaKuyp5IfDmmNyx) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [The Music of League of Legends Vol\. 1](https://open.spotify.com/album/4pg51OJaG6MGlpRFxWWLpr) | 3:59 |
 | 51 | [Rules \(Are Meant to Break\)](https://open.spotify.com/track/0rZiFIOOnem9NmdzFEJBmR) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez) | [Rules \(Are Meant to Break\)](https://open.spotify.com/album/2iv4BH1w4P2vpiRZq3V9rj) | 3:01 |
 
-Snapshot ID: `ZqLnAAAAAABCR+t8Qfi9T8SLqsHK6RLg`
+Snapshot ID: `ZqQ4gAAAAABEoUCUsMvphDnAS5E2Pbjk`

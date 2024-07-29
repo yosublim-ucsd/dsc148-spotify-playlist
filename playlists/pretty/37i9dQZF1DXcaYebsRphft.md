@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 【セトリ公開】2024年7月13日\~15日に開催されたKep1er JAPAN CONCERT 2024 ＜Kep1going＞のセットリストを公開！ \*7月15日\(月・祝\)最終公演のセットリスト
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,577 likes - 25 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,551 likes - 25 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

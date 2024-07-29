@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sSSKY6eN8p.md) - [plain]
 
 > Music From "Monster Hunter Now"! 音楽で辿る「Monster Hunter Now」の世界! © 2023 Niantic\. Characters / Artwork/ Music © CAPCOM CO., LTD.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,631 likes - 42 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,638 likes - 42 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [survival dAnce](https://open.spotify.com/track/0pj4w3Vaj8CGI4yHwVo6QM) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [survival dAnce](https://open.spotify.com/album/619D9YA3zlPSp8KV3KCuxi) | 2:19 |
 | 2 | [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 |
-| 3 | [英雄の証](https://open.spotify.com/track/0MvELkmRWxQoEVBfrMTkjl) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [モンスターハンター 狩猟音楽集 \~3周年記念ベストトラック\~](https://open.spotify.com/album/7sJWDYzGh1HaAQzjc0ScxI) | 4:17 |
+| 3 | [英雄の証](https://open.spotify.com/track/0MvELkmRWxQoEVBfrMTkjl) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [モンスターハンター 狩猟音楽集 ～3周年記念ベストトラック～](https://open.spotify.com/album/7sJWDYzGh1HaAQzjc0ScxI) | 4:17 |
 | 4 | [大敵への挑戦/シェンガオレン](https://open.spotify.com/track/6Zkpl0zvpbIBP7yDaFkkV1) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [モンスターハンター 狩猟音楽集II 〜咆哮の章〜](https://open.spotify.com/album/3mApUVCShStbmFQtPPoTVM) | 2:29 |
 | 5 | [生命ある者へ](https://open.spotify.com/track/2ehyCjO5IImPIAzyunddFn) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [モンスターハンター3 \(tri\-\) オリジナル・サウンドトラック](https://open.spotify.com/album/34a2F897NiFXJry79ahuz3) | 3:09 |
 | 6 | [旅立ちの風](https://open.spotify.com/track/5MoptE6WpED1IksdhpH000) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [モンスターハンター4 オリジナル・サウンドトラック](https://open.spotify.com/album/7wfws2r87STQ7y7lSgXRmC) | 3:27 |

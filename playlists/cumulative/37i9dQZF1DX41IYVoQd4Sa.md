@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל\. קאבר: דודו טסה
 
-84 songs - 5 hr 5 min
+85 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Thousand Times](https://open.spotify.com/track/3lJnPyMLhZ2javY7UZl36K) | [Russo](https://open.spotify.com/artist/0ECpBE2RTJep1cVxNFulEA), [Roni Bar Hadas](https://open.spotify.com/artist/5OZeMBvHIGYKnOg3WfBQ44) | [A Thousand Times](https://open.spotify.com/album/0KoAvYIp3jyn8XrFnxCqaF) | 2:56 | 2024-06-27 |  |
 | [Another Life](https://open.spotify.com/track/5ehKFubjMlzscWxQOZXU1Y) | [Metropolin](https://open.spotify.com/artist/2CH9N0ISuyCkZ2q3XEY2V0), [Daniella Tourgeman](https://open.spotify.com/artist/7qp55YAqM5IcqzSpmoi3O7) | [Another Life](https://open.spotify.com/album/5q3coMph1VFaQTZliJZJIA) | 3:32 | 2024-06-27 | 2024-07-27 |
 | [AYAYAY \(feat\. Dillom\)](https://open.spotify.com/track/3qZ8kllBS6LoyAW2QtBaJQ) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [AYAYAY \(feat\. Dillom\)](https://open.spotify.com/album/5fnP4WvBKSWYeSVbmtKefP) | 2:59 | 2024-07-18 |  |
+| [Carry me home](https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [Water on Water](https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P) | 5:08 | 2024-07-25 |  |
 | [Come Back Home](https://open.spotify.com/track/7mo91mH70LRf4NMUs717c3) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Come Back Home](https://open.spotify.com/album/4y8kfoVNYrOUZ2GZr6sl7P) | 2:39 | 2024-06-27 |  |
 | [Fool For Your Smile](https://open.spotify.com/track/7oQ0NYLgoyYgQebGT1kkT2) | [GADEE](https://open.spotify.com/artist/7amPV764MD1pbuSGbj9bO0) | [Homesick](https://open.spotify.com/album/6vKpcaZxcbSq2isqEL9gJw) | 3:01 | 2024-07-11 | 2024-07-27 |
 | [Getaway](https://open.spotify.com/track/4GUSxRTGJe1nzfadp9dA7V) | [Danny Kuttner](https://open.spotify.com/artist/7JQoDD1lpEKouUMyh9yIFH), [Roy Reemy](https://open.spotify.com/artist/7oRZxDEJe5QKE3yWJxAOP0) | [Getaway](https://open.spotify.com/album/1CjEqOxmsaPtlm3aVp1tKU) | 3:10 | 2024-06-27 |  |
@@ -32,7 +33,7 @@
 | [אהבה עצמית](https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [אהבה עצמית](https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW) | 4:05 | 2024-06-27 |  |
 | [אני רוצה את החיים שלי בחזרה](https://open.spotify.com/track/6XXmUYotqTIbx9xOd9lQqW) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [אני רוצה את החיים שלי בחזרה](https://open.spotify.com/album/6LJUzUbBtkwmgpCosXc0jh) | 2:48 | 2024-06-27 |  |
 | [אפוקליפסה](https://open.spotify.com/track/2F3vpzuGutSHZNDtCulFtA) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [כישוף](https://open.spotify.com/album/1DwHJ5aREc5hKCyv6uI1Eg) | 3:17 | 2024-06-27 | 2024-07-23 |
-| [ביקור מולדת](https://open.spotify.com/track/4rT56VSPuaAJMbK73oHxzy) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [ביקור מולדת](https://open.spotify.com/album/7m3gaePnpW2B21eBfDMZH4) | 4:05 | 2024-06-27 |  |
+| [ביקור מולדת](https://open.spotify.com/track/4rT56VSPuaAJMbK73oHxzy) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [ביקור מולדת](https://open.spotify.com/album/7m3gaePnpW2B21eBfDMZH4) | 4:05 | 2024-06-27 | 2024-07-29 |
 | [בלדה לנהג מונית \(מושיקו\) \- בהופעה חיה מהבארבי](https://open.spotify.com/track/6ADHsTTcJzx9Ls6l6qW27V) | [Dudy Levy](https://open.spotify.com/artist/6BXPyhT8Ue5Trc1Q315PRm), [Dan Toren](https://open.spotify.com/artist/285uARLcuYJ5SqmbGnJuRl) | [בלדה לנהג מונית \(מושיקו\) \[בהופעה חיה מהבארבי\]](https://open.spotify.com/album/11EHrUuVEfsHrUjdjsoD7b) | 9:09 | 2024-07-04 | 2024-07-19 |
 | [במקום אחר](https://open.spotify.com/track/6m3qxagd6VP0zpBnfd6MXi) | [Yoni Rechter](https://open.spotify.com/artist/05YG290otZjn1UMHXjEqxh) | [במקום אחר](https://open.spotify.com/album/0Ch02uieisTBRUvU3i5vfJ) | 3:25 | 2024-07-04 |  |
 | [בסוף אני מגן דוד](https://open.spotify.com/track/4lEwPTDFFyewoL6bVO5Qaf) | [Avihu Pinhasov Rhythm Club](https://open.spotify.com/artist/4saB5ta3MrhGC4aYV0zF2r) | [בסוף אני מגן דוד](https://open.spotify.com/album/3503vgMkt8EHCaRbIwGCBW) | 3:54 | 2024-06-27 |  |

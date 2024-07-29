@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con stivijoes.",
-  "num_followers": 753946,
+  "num_followers": 753930,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "LUNA x V\u00c9RTIGO",
+        "url": "https://open.spotify.com/album/1LY3n0BQRNDvItZMZ80Uw6"
+      },
+      "artists": [
+        {
+          "name": "Bel\u00e9n Aguilera",
+          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
+        }
+      ],
+      "duration_ms": 308575,
+      "name": "LUNA x V\u00c9RTIGO",
+      "url": "https://open.spotify.com/track/5pEGbFJNPJLf8KyM1sC9p7"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "2mil horas",
         "url": "https://open.spotify.com/album/6q1J3riPhRx3oIuDSAY8AC"
       },
@@ -239,22 +255,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "LUNA x V\u00c9RTIGO",
-        "url": "https://open.spotify.com/album/1LY3n0BQRNDvItZMZ80Uw6"
-      },
-      "artists": [
-        {
-          "name": "Bel\u00e9n Aguilera",
-          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
-        }
-      ],
-      "duration_ms": 308575,
-      "name": "LUNA x V\u00c9RTIGO",
-      "url": "https://open.spotify.com/track/5pEGbFJNPJLf8KyM1sC9p7"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "SAL",
         "url": "https://open.spotify.com/album/7EnUrRK3snJYXn19NOIdQh"
       },
@@ -271,6 +271,38 @@
       "duration_ms": 201355,
       "name": "SAL",
       "url": "https://open.spotify.com/track/4BCkyORz0JfIUXssSeH6da"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Ata\u00fad",
+        "url": "https://open.spotify.com/album/0yqQUNP3AgdMVsfRoxn6f8"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        }
+      ],
+      "duration_ms": 189289,
+      "name": "Ata\u00fad",
+      "url": "https://open.spotify.com/track/3kcJIBxTUeAkCdMiapjJNm"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "K\u00e9 MaL",
+        "url": "https://open.spotify.com/album/2GHyrL2mwHWmw1vmQfCrNv"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 188035,
+      "name": "K\u00e9 MaL",
+      "url": "https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -295,6 +327,22 @@
       "duration_ms": 148253,
       "name": "DUMBAI",
       "url": "https://open.spotify.com/track/0W8v6pvZhuMZJFWihE0usa"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "para siempre(\uff61>\ufe4f<)",
+        "url": "https://open.spotify.com/album/6a2xobMbJhGbFVK9rWseSi"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "duration_ms": 150902,
+      "name": "para siempre(\uff61>\ufe4f<)",
+      "url": "https://open.spotify.com/track/5Ir8RQngyI0ny6Aq4zhAVp"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -351,22 +399,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Ata\u00fad",
-        "url": "https://open.spotify.com/album/0yqQUNP3AgdMVsfRoxn6f8"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        }
-      ],
-      "duration_ms": 189289,
-      "name": "Ata\u00fad",
-      "url": "https://open.spotify.com/track/3kcJIBxTUeAkCdMiapjJNm"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Disco 9",
         "url": "https://open.spotify.com/album/0cMCxMu4d6sjPND40Jr2l6"
       },
@@ -383,6 +415,26 @@
       "duration_ms": 142080,
       "name": "Baby Yono",
       "url": "https://open.spotify.com/track/67ufd0DrI5R9qYI0SNo7rd"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "doble AA",
+        "url": "https://open.spotify.com/album/6WTSjDzE4i69qWjlYrGtGV"
+      },
+      "artists": [
+        {
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+        },
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "duration_ms": 138285,
+      "name": "doble AA",
+      "url": "https://open.spotify.com/track/4eNfKoVNsUNNsFppsYuIWr"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -503,6 +555,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "MUY FINITO",
+        "url": "https://open.spotify.com/album/5PDJxIcBMtjti0J23ayqlj"
+      },
+      "artists": [
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "duration_ms": 165875,
+      "name": "MUY FINITO",
+      "url": "https://open.spotify.com/track/4xHkNofcMKGYJ8gzQLBzAW"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Y Qu\u00e9",
         "url": "https://open.spotify.com/album/2ZkVwLuSNV8589HxndjDgZ"
       },
@@ -519,38 +587,6 @@
       "duration_ms": 168979,
       "name": "Y Qu\u00e9",
       "url": "https://open.spotify.com/track/1Dd6CuCiuoTj0eiBnGnx4X"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "K\u00e9 MaL",
-        "url": "https://open.spotify.com/album/2GHyrL2mwHWmw1vmQfCrNv"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 188035,
-      "name": "K\u00e9 MaL",
-      "url": "https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "MUY FINITO",
-        "url": "https://open.spotify.com/album/5PDJxIcBMtjti0J23ayqlj"
-      },
-      "artists": [
-        {
-          "name": "Never Dull",
-          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
-        }
-      ],
-      "duration_ms": 165875,
-      "name": "MUY FINITO",
-      "url": "https://open.spotify.com/track/4xHkNofcMKGYJ8gzQLBzAW"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -599,6 +635,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Dime Precioso",
+        "url": "https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 273746,
+      "name": "Paris, Tal Vez?",
+      "url": "https://open.spotify.com/track/2LsFN7FUc8mMYnVJ6jxtJY"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Ciclorama Sesh Cap.3: TEQUIEROVER",
         "url": "https://open.spotify.com/album/6hE7amKeVDiiFbvWmIdGdz"
       },
@@ -619,54 +671,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "para siempre(\uff61>\ufe4f<)",
-        "url": "https://open.spotify.com/album/6a2xobMbJhGbFVK9rWseSi"
+        "name": "Hablas",
+        "url": "https://open.spotify.com/album/2t7SJdhcGT3v1H7Zg3jdMm"
       },
       "artists": [
         {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
         }
       ],
-      "duration_ms": 150902,
-      "name": "para siempre(\uff61>\ufe4f<)",
-      "url": "https://open.spotify.com/track/5Ir8RQngyI0ny6Aq4zhAVp"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Dime Precioso",
-        "url": "https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 273746,
-      "name": "Paris, Tal Vez?",
-      "url": "https://open.spotify.com/track/2LsFN7FUc8mMYnVJ6jxtJY"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "doble AA",
-        "url": "https://open.spotify.com/album/6WTSjDzE4i69qWjlYrGtGV"
-      },
-      "artists": [
-        {
-          "name": "c\u00e9ro",
-          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
-        },
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 138285,
-      "name": "doble AA",
-      "url": "https://open.spotify.com/track/4eNfKoVNsUNNsFppsYuIWr"
+      "duration_ms": 156013,
+      "name": "Hablas",
+      "url": "https://open.spotify.com/track/7vqNI6EQcCSE8ZCsjeidPE"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -775,18 +791,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Hablas",
-        "url": "https://open.spotify.com/album/2t7SJdhcGT3v1H7Zg3jdMm"
+        "name": "Opciones",
+        "url": "https://open.spotify.com/album/0ENevyJtzaagQi1Ndx3mSB"
       },
       "artists": [
         {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
         }
       ],
-      "duration_ms": 156013,
-      "name": "Hablas",
-      "url": "https://open.spotify.com/track/7vqNI6EQcCSE8ZCsjeidPE"
+      "duration_ms": 213444,
+      "name": "Opciones",
+      "url": "https://open.spotify.com/track/06UvaJvHtZTPytXvuCgF3Z"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -819,22 +835,6 @@
       "duration_ms": 136551,
       "name": "day ONe",
       "url": "https://open.spotify.com/track/2HRFVNcecY9zOVKeh1GW8z"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Opciones",
-        "url": "https://open.spotify.com/album/0ENevyJtzaagQi1Ndx3mSB"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 213444,
-      "name": "Opciones",
-      "url": "https://open.spotify.com/track/06UvaJvHtZTPytXvuCgF3Z"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "cielo dorado",
+        "url": "https://open.spotify.com/album/2gBXxUuHufZAhud4hD4wnX"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 177386,
+      "name": "cielo dorado",
+      "url": "https://open.spotify.com/track/0ZkB37rQ8hYoSnDobrVyGo"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Fall in Love Again",
         "url": "https://open.spotify.com/album/7EmZg8OHcqPeofIuV3bPFa"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 137872,
       "name": "Fall in Love Again",
       "url": "https://open.spotify.com/track/2MW6Yui61LO7dLjakQHN2C"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "cielo dorado",
-        "url": "https://open.spotify.com/album/2gBXxUuHufZAhud4hD4wnX"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        }
-      ],
-      "duration_ms": 177386,
-      "name": "cielo dorado",
-      "url": "https://open.spotify.com/track/0ZkB37rQ8hYoSnDobrVyGo"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "SOLA CON LA LUNA",
-        "url": "https://open.spotify.com/album/7Hk2BhlBYVd4NopkQbLamP"
-      },
-      "artists": [
-        {
-          "name": "Al\u00e9 Araya",
-          "url": "https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK"
-        }
-      ],
-      "duration_ms": 232758,
-      "name": "SOLA CON LA LUNA",
-      "url": "https://open.spotify.com/track/6mz49W2hyCbQ3eTkTEWyOZ"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "By Your Side / A T\u00fa Lado",
         "url": "https://open.spotify.com/album/1rDnhUpyp6uBabWr8JAGzj"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 180000,
       "name": "By Your Side / A T\u00fa Lado",
       "url": "https://open.spotify.com/track/5dfMkMSgERmPnpRc8E7wCc"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "SOLA CON LA LUNA",
+        "url": "https://open.spotify.com/album/7Hk2BhlBYVd4NopkQbLamP"
+      },
+      "artists": [
+        {
+          "name": "Al\u00e9 Araya",
+          "url": "https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK"
+        }
+      ],
+      "duration_ms": 232758,
+      "name": "SOLA CON LA LUNA",
+      "url": "https://open.spotify.com/track/6mz49W2hyCbQ3eTkTEWyOZ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "UN PORRITO",
+        "url": "https://open.spotify.com/album/0F48DCxxSzfNeAYnCeEw1v"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 204991,
+      "name": "UN PORRITO",
+      "url": "https://open.spotify.com/track/0QPFRCUxYOD1yGc8iiZZ04"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Ninguno",
         "url": "https://open.spotify.com/album/1L0zldmVoC2vMjeJE08T8v"
       },
@@ -1167,22 +1187,6 @@
       "duration_ms": 290000,
       "name": "Ninguno",
       "url": "https://open.spotify.com/track/0PEujJj7GotXkh2yzZniqT"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Gaucho",
-        "url": "https://open.spotify.com/album/6AitlMXq7JCzB28hJPhPgx"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 231146,
-      "name": "Gaucho",
-      "url": "https://open.spotify.com/track/2QNQ8XWpFjuTrHBLn7gEpj"
     }
   ],
   "unique_name": "Mixto",

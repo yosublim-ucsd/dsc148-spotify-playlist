@@ -4,7 +4,7 @@
 
 > Necessities from LGBTQIA+ artists\. Cover: salute
 
-106 songs - 5 hr 32 min
+107 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Aw, Shoot!](https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Aw, Shoot!](https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu) | 3:28 | 2024-06-14 |  |
 | [B.I.L.L.S.](https://open.spotify.com/track/7xISBLSpkANttnZx8krkq6) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [B.I.L.L.S.](https://open.spotify.com/album/5xAgSGlXlXM31KGUe5g4I5) | 2:14 | 2024-06-10 |  |
 | [Babyface](https://open.spotify.com/track/4P8Ae6g3wIStGa9em4PbMs) | [Artio](https://open.spotify.com/artist/0l2QxnR8KJQT4m2Ax8rhh5) | [Babyface](https://open.spotify.com/album/6UIRVsGGnOOx2u2EsYTVWH) | 3:26 | 2024-06-10 |  |
+| [Better Off](https://open.spotify.com/track/4kEt94IvVWYL46YiHhRdNB) | [Dréya Mac](https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP) | [Better Off](https://open.spotify.com/album/0gF03DYa7rRpGuSS6jx66Q) | 2:15 | 2024-07-08 |  |
 | [Big Machine](https://open.spotify.com/track/75TJ9jx0geVtyjfHx8b6mO) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Peanuts](https://open.spotify.com/album/4umimrxQlVJj2YyiFjAnlJ) | 3:57 | 2024-06-14 |  |
 | [Bite The Hand](https://open.spotify.com/track/2dFREjV7w8TunHysQtcYj5) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Bite The Hand / Kind of Love](https://open.spotify.com/album/4Ehq3wUDJzv6pWVFWW8V6T) | 2:38 | 2024-06-10 |  |
 | [Body of Mine](https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [God's Country / Body of Mine](https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql) | 2:11 | 2024-06-10 |  |
@@ -95,7 +96,7 @@
 | [Sad Girl Summer](https://open.spotify.com/track/66xT802jNExU9nMii68YnZ) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Mixtape](https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM) | 3:13 | 2024-06-10 |  |
 | [saving flowers](https://open.spotify.com/track/1DUziVUZWDzdgKeWBASvu8) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [luv stuck](https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5) | 3:30 | 2024-07-08 |  |
 | [SCUMBAG](https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [SCUMBAG](https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C) | 3:06 | 2024-06-10 |  |
-| [Second Best](https://open.spotify.com/track/2y4smdlMAA7Fg6I7iyDHjK) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [The Garden Dream](https://open.spotify.com/album/6ZaWKnLc8g4KDily8uOC9R) | 2:50 | 2024-06-10 |  |
+| [Second Best](https://open.spotify.com/track/2y4smdlMAA7Fg6I7iyDHjK) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [The Garden Dream](https://open.spotify.com/album/6ZaWKnLc8g4KDily8uOC9R) | 2:50 | 2024-06-10 | 2024-07-29 |
 | [Sexed & Sexual](https://open.spotify.com/track/6sV5HbMxga42MODRJqdH85) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Sexed & Sexual](https://open.spotify.com/album/7AJq7TVlbNRZqTFFB0C6px) | 2:54 | 2024-06-10 |  |
 | [She Likes a Boy](https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [She Likes a Boy](https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv) | 2:09 | 2024-06-10 |  |
 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 | 2024-06-10 |  |

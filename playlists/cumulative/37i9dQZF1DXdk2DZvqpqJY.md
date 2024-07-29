@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-445 songs - 1 day 3 hr 25 min
+446 songs - 1 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Discovery at the Beach](https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK), [Edward Blankman](https://open.spotify.com/artist/6iZKh6GtYyudtFEh6q7CLo) | [Cape Cod Cottage](https://open.spotify.com/album/3iA6DplfbqQ1yX3op8zmEg) | 2:28 | 2022-02-17 | 2023-03-21 |
 | [Distorting Time](https://open.spotify.com/track/1HQkR5RjeReEW57NpCwQf3) | [Nils Wülker](https://open.spotify.com/artist/0GvUvYAa4rXdQt217NuE7o) | [Go](https://open.spotify.com/album/0wfJlgrbgafX1cWRgAYIHO) | 4:50 | 2022-02-17 | 2022-04-23 |
 | [Don't Go To Strangers](https://open.spotify.com/track/5n3Fi4f7VJyQQrFlfA9F9f) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Don't Go To Strangers](https://open.spotify.com/album/3WxjvFCGzABRCtw8vPWm7m) | 4:02 | 2023-03-20 |  |
-| [Dream you're chasing](https://open.spotify.com/track/5sd1XD2YCFDhJDpbPwF9Ua) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Dream you're chasing](https://open.spotify.com/album/4AZUlUpHp3ALkxRKaPYBHL) | 2:30 | 2023-05-11 |  |
+| [Dream you're chasing](https://open.spotify.com/track/5sd1XD2YCFDhJDpbPwF9Ua) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Dream you're chasing](https://open.spotify.com/album/4AZUlUpHp3ALkxRKaPYBHL) | 2:30 | 2023-05-11 | 2024-07-29 |
 | [Dreams](https://open.spotify.com/track/5AjqLBpXtIzR1xE2DWljnC) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Morgan Burrs](https://open.spotify.com/artist/6VnotTNnq01QuFIPjL81gW) | [Reflections](https://open.spotify.com/album/63vYZUCuZYZhXQrxaztR0M) | 2:55 | 2022-06-02 | 2023-03-21 |
 | [Dreams About Change](https://open.spotify.com/track/1TPGqUM9ZzAfAv9FP4PtQN) | [James & LIsa](https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg) | [Dreams About Change](https://open.spotify.com/album/7fIIBv08dA6Nm8DSeu5whf) | 3:17 | 2023-05-25 |  |
 | [Dribble](https://open.spotify.com/track/3HEJptfJ3taABLi2klHspp) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Dribble](https://open.spotify.com/album/6oTehHEgaJ9YXQcKH0miuc) | 3:30 | 2022-02-17 | 2022-06-03 |
@@ -315,6 +315,7 @@
 | [Sais \(Egypt\)](https://open.spotify.com/track/1PXneJ9X3C8Pv35J85OBEq) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Sais \(Egypt\)](https://open.spotify.com/album/7BgYo9YPlQ6sk3BVX9K2Ys) | 7:42 | 2022-02-17 | 2022-07-30 |
 | [Sais \(Egypt\)](https://open.spotify.com/track/3bGbluKM6GBtr8tY9ij503) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Astral Traveling](https://open.spotify.com/album/2SdYnjRWuQH00nX3d4FWZz) | 7:42 | 2022-06-22 | 2023-01-19 |
 | [Satori Ways](https://open.spotify.com/track/1l27GB8qsdLvDIaNjmS7qO) | [Web Web](https://open.spotify.com/artist/4EmIrTN6q1uhLRL8hmhuHF), [Max Herre](https://open.spotify.com/artist/7IpWQKu80qQvyer3LO6SW3), [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Satori Ways](https://open.spotify.com/album/2ddXqx3PYPz15XT9Np5ler) | 5:36 | 2022-02-17 | 2022-04-23 |
+| [Serendipity](https://open.spotify.com/track/3KonwJcO3xhHuNq49osUSD) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Serendipity](https://open.spotify.com/album/5TvTwOMVlaOmHcHvInGlXg) | 3:25 | 2024-07-22 |  |
 | [Short Intermission](https://open.spotify.com/track/2RLd480e9nMzuvgds9fSqg) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Short Intermission](https://open.spotify.com/album/6bDsTyNw02QSceWcDRmNKd) | 2:32 | 2024-02-02 |  |
 | [Shroomin'](https://open.spotify.com/track/4kt2mS8GfHLZETTXg3aO4j) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Shroomin'](https://open.spotify.com/album/1ogdrLRi9fNZl7XpEytaAR) | 2:28 | 2023-03-24 | 2023-05-05 |
 | [Silky Smooth](https://open.spotify.com/track/71m0kBDhVhtjFcBCJLFTKc) | [Eira Eld](https://open.spotify.com/artist/1Ry53E1vatWPQYpL9DXlQn) | [Silky Smooth](https://open.spotify.com/album/1yvVjaJnkvezldKwO31Y5C) | 2:44 | 2023-04-20 |  |

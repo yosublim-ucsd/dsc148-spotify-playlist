@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Calvin Harris, Ellie Goulding
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,553 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,625 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 29 | [Gold Mine](https://open.spotify.com/track/5lYSnVlaBoMTjCcyOisuul) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Gold Mine](https://open.spotify.com/album/3sbWLPR57oRvmo1DgJNpi0) | 2:58 |
 | 30 | [Selber Schuld](https://open.spotify.com/track/06iwXB6a9rN46oR9dAYrKi) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Selber Schuld](https://open.spotify.com/album/0EMgrtQfKMle5eTHPnN9Fg) | 2:21 |
 | 31 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 |
-| 32 | [Ganz nach vorn](https://open.spotify.com/track/5Rg8ovZO0Tt1vtnX0VrcCw) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [Ganz nach vorn](https://open.spotify.com/album/3njVPngde3AZZWfhtTOCZK) | 2:50 |
+| 32 | [ganz nach vorn](https://open.spotify.com/track/5Rg8ovZO0Tt1vtnX0VrcCw) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [ganz nach vorn](https://open.spotify.com/album/3njVPngde3AZZWfhtTOCZK) | 2:50 |
 | 33 | [Chills \(Feel My Love\)](https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Chills \(Feel My Love\)](https://open.spotify.com/album/5D3qYKt4IFBEQENqzzlh1Y) | 2:43 |
 | 34 | [Fantasia](https://open.spotify.com/track/5xypiIRm7ILzbz0kze92u6) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Devito](https://open.spotify.com/artist/0JQ4vokBBqHxHzRb36fSWN) | [Fantasia](https://open.spotify.com/album/5NXVPkMBEozDLKI25LCrtu) | 2:20 |
 | 35 | [RITALIN](https://open.spotify.com/track/5kdAL3H0vfAeHBvTwXskGm) | [Yung Yury](https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz), [Damn Yury](https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ) | [RITALIN](https://open.spotify.com/album/1P1HJNk5nShEUSMejG8xLg) | 2:44 |

@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap. Cover: Control Freak",
-  "num_followers": 890827,
+  "num_followers": 889903,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Tanglewood",
+        "url": "https://open.spotify.com/album/2zS1uwnnpZlqkALafTzUJl"
+      },
+      "artists": [
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        }
+      ],
+      "duration_ms": 158961,
+      "name": "Spanish Moss",
+      "url": "https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Pour Your Heart Out (feat. 070 Shake)",
         "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 223561,
       "name": "Pour Your Heart Out (feat. 070 Shake)",
       "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Tanglewood",
-        "url": "https://open.spotify.com/album/2zS1uwnnpZlqkALafTzUJl"
-      },
-      "artists": [
-        {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
-        }
-      ],
-      "duration_ms": 158961,
-      "name": "Spanish Moss",
-      "url": "https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "V!BEZ, Vol. 4",
-        "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Bellz",
-      "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "We Are Deadbeats (Vol. 4)",
         "url": "https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 173413,
       "name": "Stars Tonight",
       "url": "https://open.spotify.com/track/0ZKOjWGqV7vHl9WKOtDb5V"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "V!BEZ, Vol. 4",
+        "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Bellz",
+      "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "AUTOPILOT",
-        "url": "https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c"
-      },
-      "artists": [
-        {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
-        }
-      ],
-      "duration_ms": 194050,
-      "name": "SUB ZERO",
-      "url": "https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Rainbow Funk",
         "url": "https://open.spotify.com/album/1eFn1sXC3rcCAoHPLlaaG1"
       },
@@ -1231,6 +1215,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "AUTOPILOT",
+        "url": "https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        }
+      ],
+      "duration_ms": 194050,
+      "name": "SUB ZERO",
+      "url": "https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/5QAitMOxUFNdCzmbpkdGwt"
       },
@@ -1247,26 +1247,6 @@
       "duration_ms": 224017,
       "name": "Sober",
       "url": "https://open.spotify.com/track/3XlHlWFhlI4OZiguOMcuuc"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Zurna",
-        "url": "https://open.spotify.com/album/4TwsNgwtGn7cU8mz6lXnyH"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Jon Casey",
-          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
-        }
-      ],
-      "duration_ms": 159310,
-      "name": "Zurna",
-      "url": "https://open.spotify.com/track/7CGB43FkEomSXAtnTNLC9n"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1371,6 +1351,26 @@
       "duration_ms": 134222,
       "name": "Thrilla",
       "url": "https://open.spotify.com/track/2ePOVtay20vRQ33E1k1Qft"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Zurna",
+        "url": "https://open.spotify.com/album/4TwsNgwtGn7cU8mz6lXnyH"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        }
+      ],
+      "duration_ms": 159310,
+      "name": "Zurna",
+      "url": "https://open.spotify.com/track/7CGB43FkEomSXAtnTNLC9n"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "HITA",
-        "url": "https://open.spotify.com/album/0m3mNCDVvG0l1vg69bdRPy"
-      },
-      "artists": [
-        {
-          "name": "Flosstradamus",
-          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
-        },
-        {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "HITA",
-      "url": "https://open.spotify.com/track/6JCrdaTOIDiOydph1ZfPP3"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Tokyo",
         "url": "https://open.spotify.com/album/1ibBcUwUtIL0ewWMtX0w87"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 250285,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/0lqvcq1uZbeau5O0AOmj6g"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "HITA",
+        "url": "https://open.spotify.com/album/0m3mNCDVvG0l1vg69bdRPy"
+      },
+      "artists": [
+        {
+          "name": "Flosstradamus",
+          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
+        },
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "HITA",
+      "url": "https://open.spotify.com/track/6JCrdaTOIDiOydph1ZfPP3"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Dhunga",
-        "url": "https://open.spotify.com/album/1YFhDt1XvJHuk8eN3dyaaY"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Toxic Rob",
-          "url": "https://open.spotify.com/artist/2xVWDstqnCMt8lKP8VXpzc"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "Dhunga",
-      "url": "https://open.spotify.com/track/14CuAxOwFn2346hrXXx5Cj"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "GO!",
         "url": "https://open.spotify.com/album/1G57wFuySUQ5H33inqfD7V"
       },
@@ -1719,6 +1699,26 @@
       "duration_ms": 186964,
       "name": "GO!",
       "url": "https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Dhunga",
+        "url": "https://open.spotify.com/album/1YFhDt1XvJHuk8eN3dyaaY"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Toxic Rob",
+          "url": "https://open.spotify.com/artist/2xVWDstqnCMt8lKP8VXpzc"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "Dhunga",
+      "url": "https://open.spotify.com/track/14CuAxOwFn2346hrXXx5Cj"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1811,6 +1811,26 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "IBTFY",
+        "url": "https://open.spotify.com/album/6OFi8jTH03PDyQni2LVACn"
+      },
+      "artists": [
+        {
+          "name": "UZ",
+          "url": "https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo"
+        },
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "duration_ms": 152275,
+      "name": "IBTFY",
+      "url": "https://open.spotify.com/track/09b31KaJfkzpPGNDsihd4t"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "For The Love Of Bounce",
         "url": "https://open.spotify.com/album/0JVygXqxUp7sIyDrFDiRvB"
       },
@@ -1831,26 +1851,6 @@
       "duration_ms": 198857,
       "name": "UK Ting",
       "url": "https://open.spotify.com/track/3PuTUAsUTR7D3PnYtW1yj4"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "IBTFY",
-        "url": "https://open.spotify.com/album/6OFi8jTH03PDyQni2LVACn"
-      },
-      "artists": [
-        {
-          "name": "UZ",
-          "url": "https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo"
-        },
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        }
-      ],
-      "duration_ms": 152275,
-      "name": "IBTFY",
-      "url": "https://open.spotify.com/track/09b31KaJfkzpPGNDsihd4t"
     },
     {
       "added_at": "2024-07-19 04:00:00",

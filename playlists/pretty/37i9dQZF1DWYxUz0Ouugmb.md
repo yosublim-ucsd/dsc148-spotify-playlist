@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Ashira Zamita
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,875 likes - 35 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,876 likes - 35 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

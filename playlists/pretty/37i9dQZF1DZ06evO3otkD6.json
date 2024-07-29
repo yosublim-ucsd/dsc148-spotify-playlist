@@ -1,12 +1,12 @@
 {
-  "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 68131,
+  "description": "This Is Belinda. Los temas esenciales, todos en una lista.",
+  "num_followers": 68142,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqLnAAAAAABSKx7AQxBo1bcD6BUxpqSo",
+  "snapshot_id": "ZqQ4gAAAAACSKGG7qW8dTJtOApH23BEm",
   "tracks": [
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 239440,
+      "name": "En El Amor Hay Que Perdonar",
+      "url": "https://open.spotify.com/track/6UmXPaLkNGp0NvMaKeJ0oi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e9xico Se Pinta de Luz (Only for Streaming)",
         "url": "https://open.spotify.com/album/5LEwTDRCpE1egWxc2NZOAP"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 218973,
       "name": "Luz",
       "url": "https://open.spotify.com/track/5ogsMocz0VBYwmdpKDJl70"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Catarsis",
-        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 239440,
-      "name": "En El Amor Hay Que Perdonar",
-      "url": "https://open.spotify.com/track/6UmXPaLkNGp0NvMaKeJ0oi"
     },
     {
       "added_at": null,
@@ -923,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los D\u00fao 2",
-        "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "Te Sigo Amando",
-      "url": "https://open.spotify.com/track/5QmjF6TMAAym2u3hb8o1ym"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ao Vivo No Rio",
         "url": "https://open.spotify.com/album/6ed1a9UMAj76mV1NIj1gJ6"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 192146,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/2sggS6A5pA0KWaleWsHzmL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los D\u00fao 2",
+        "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Te Sigo Amando",
+      "url": "https://open.spotify.com/track/5QmjF6TMAAym2u3hb8o1ym"
     },
     {
       "added_at": null,

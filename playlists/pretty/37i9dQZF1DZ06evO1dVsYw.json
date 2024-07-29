@@ -1,12 +1,12 @@
 {
   "description": "This is Racionais MC's. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 569176,
+  "num_followers": 569186,
   "original_name": "This Is Racionais MC's",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqLnAAAAAACbpvHWMkfO/oElm+/CZaEY",
+  "snapshot_id": "ZqQ4gAAAAAArhMGrZwUiKRfT/NJ3DcOb",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Raio X do Brasil",
+        "url": "https://open.spotify.com/album/2QMZRtm35gtG3ZJs0yl9EM"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 467600,
+      "name": "Fim de Semana no Parque",
+      "url": "https://open.spotify.com/track/5hkLnjLwFQtSa1I0IZ7mzZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cores & Valores",
         "url": "https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 123370,
       "name": "Preto Zica",
       "url": "https://open.spotify.com/track/1gD4sDZi8BaHunIj4zNF8B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Raio X do Brasil",
-        "url": "https://open.spotify.com/album/2QMZRtm35gtG3ZJs0yl9EM"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 467600,
-      "name": "Fim de Semana no Parque",
-      "url": "https://open.spotify.com/track/5hkLnjLwFQtSa1I0IZ7mzZ"
     },
     {
       "added_at": null,
@@ -175,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Racionais Mc's",
+        "url": "https://open.spotify.com/album/0whm9a0ytiWcZLP7AbaDM4"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 270188,
+      "name": "Mente do Vil\u00e3o",
+      "url": "https://open.spotify.com/track/1qx0ns6ZErHD6pZgRLw2zT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cores & Valores",
         "url": "https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 76087,
       "name": "Cores & Valores",
       "url": "https://open.spotify.com/track/6aJkwHHjSLbSe9T07ulltq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Racionais Mc's",
-        "url": "https://open.spotify.com/album/0whm9a0ytiWcZLP7AbaDM4"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 270188,
-      "name": "Mente do Vil\u00e3o",
-      "url": "https://open.spotify.com/track/1qx0ns6ZErHD6pZgRLw2zT"
     },
     {
       "added_at": null,
@@ -243,26 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cores & Valores",
-        "url": "https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        },
-        {
-          "name": "DJ Cia",
-          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
-        }
-      ],
-      "duration_ms": 67429,
-      "name": "Somos o Que Somos",
-      "url": "https://open.spotify.com/track/2u9TNvu3s7bvuzluO18B0P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Musicas para Churrasco, Vol.1 (Ao Vivo) (Delux Edition)",
         "url": "https://open.spotify.com/album/5Tna37qsQnWE9aLPHNPmah"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 493373,
       "name": "Di\u00e1rio de um Detento (Ao Vivo)",
       "url": "https://open.spotify.com/track/4W3OLec9sTB37yegHQVxOq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cores & Valores",
+        "url": "https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        },
+        {
+          "name": "DJ Cia",
+          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
+        }
+      ],
+      "duration_ms": 67429,
+      "name": "Somos o Que Somos",
+      "url": "https://open.spotify.com/track/2u9TNvu3s7bvuzluO18B0P"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cores & Valores",
-        "url": "https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 159902,
-      "name": "Voc\u00ea Me Deve",
-      "url": "https://open.spotify.com/track/5G4rIw7lHwmxQUADg2lnWo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Musicas para Churrasco, Vol.1 (Ao Vivo) (Delux Edition)",
         "url": "https://open.spotify.com/album/5Tna37qsQnWE9aLPHNPmah"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 321626,
       "name": "Negro Drama (Ao Vivo)",
       "url": "https://open.spotify.com/track/5oSIB0TeXUQsmYifDfKIFx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cores & Valores",
+        "url": "https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 159902,
+      "name": "Voc\u00ea Me Deve",
+      "url": "https://open.spotify.com/track/5G4rIw7lHwmxQUADg2lnWo"
     },
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cores & Valores",
-        "url": "https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        },
-        {
-          "name": "DJ Cia",
-          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
-        }
-      ],
-      "duration_ms": 54338,
-      "name": "Eu Te Disse",
-      "url": "https://open.spotify.com/track/6l7uyNOOHVO7PZuZRPIHm2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guerreiro, Guerreira",
         "url": "https://open.spotify.com/album/5CGbKL3fvKpdcU1i8VP3Zo"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 267053,
       "name": "Periferia / Sample: Fim De Semana No Parque",
       "url": "https://open.spotify.com/track/7hXQTTsfyeIiT7TB1ilBel"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cores & Valores",
+        "url": "https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        },
+        {
+          "name": "DJ Cia",
+          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
+        }
+      ],
+      "duration_ms": 54338,
+      "name": "Eu Te Disse",
+      "url": "https://open.spotify.com/track/6l7uyNOOHVO7PZuZRPIHm2"
     },
     {
       "added_at": null,
@@ -467,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cores & Valores",
-        "url": "https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        },
-        {
-          "name": "DJ Cia",
-          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
-        }
-      ],
-      "duration_ms": 120543,
-      "name": "Cores & Valores (Finado",
-      "url": "https://open.spotify.com/track/6ZNcr9DyYl3ySLoHPm9cHt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sambas de Enredo: Carnaval SP 2024 (Grupo Especial, Acesso e Acesso II)",
         "url": "https://open.spotify.com/album/1TXRS714j125DTxduDHugX"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 336396,
       "name": "Cap\u00edtulo 4, Vers\u00edculo 3 \u2013 Da Rua E Do Povo, O Hip Hop: Um Manifesto Paulistano",
       "url": "https://open.spotify.com/track/4dqhw6XOCGeaAxlP4yGwpV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cores & Valores",
+        "url": "https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        },
+        {
+          "name": "DJ Cia",
+          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
+        }
+      ],
+      "duration_ms": 120543,
+      "name": "Cores & Valores (Finado",
+      "url": "https://open.spotify.com/track/6ZNcr9DyYl3ySLoHPm9cHt"
     },
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
         }
       ],
-      "duration_ms": 251566,
-      "name": "Mano na Porta do Bar - Ao Vivo",
-      "url": "https://open.spotify.com/track/5GYBM7QhacNgVzzZNUXfEr"
+      "duration_ms": 294683,
+      "name": "O Mal e o Bem",
+      "url": "https://open.spotify.com/track/76Nv2osNj3GmNnb1W8YWw5"
     }
   ],
   "unique_name": "This Is Racionais MC's",

@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9794,
+  "num_followers": 9799,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-06-05 03:49:47",
       "album": {
-        "name": "Good Person (2022)",
-        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
-      },
-      "artists": [
-        {
-          "name": "HAECHAN",
-          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Good Person (2022)",
-      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
-    },
-    {
-      "added_at": "2024-06-05 03:49:47",
-      "album": {
         "name": "Magnetic (Remixes)",
         "url": "https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ"
       },
@@ -179,22 +163,6 @@
     {
       "added_at": "2024-06-05 03:49:47",
       "album": {
-        "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/2ulXYvZjbc3y12LiwWKXP4"
-      },
-      "artists": [
-        {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Introduce me a good person",
-      "url": "https://open.spotify.com/track/2OAEKEb0778gsDaCef7MLI"
-    },
-    {
-      "added_at": "2024-06-05 03:49:47",
-      "album": {
         "name": "Puberty Book\u2160 Bom",
         "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
       },
@@ -207,6 +175,38 @@
       "duration_ms": 217044,
       "name": "Bom",
       "url": "https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg"
+    },
+    {
+      "added_at": "2024-06-05 03:49:47",
+      "album": {
+        "name": "Good Person (2022)",
+        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
+      },
+      "artists": [
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Good Person (2022)",
+      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
+    },
+    {
+      "added_at": "2024-06-05 03:49:47",
+      "album": {
+        "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/2ulXYvZjbc3y12LiwWKXP4"
+      },
+      "artists": [
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Introduce me a good person",
+      "url": "https://open.spotify.com/track/2OAEKEb0778gsDaCef7MLI"
     },
     {
       "added_at": "2024-06-05 03:49:47",
@@ -483,26 +483,6 @@
     {
       "added_at": "2024-06-05 03:49:47",
       "album": {
-        "name": "Someday (feat. Ha Hyun Sang)",
-        "url": "https://open.spotify.com/album/5I3ukJ3aeVcoVy2Q6OWGPW"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        },
-        {
-          "name": "Ha Hyun Sang",
-          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Someday (feat. Ha Hyun Sang)",
-      "url": "https://open.spotify.com/track/3G4TbgDHUyMnt1RT3lZM66"
-    },
-    {
-      "added_at": "2024-06-05 03:49:47",
-      "album": {
         "name": "What's On Your Mind? (Feat. UNE)",
         "url": "https://open.spotify.com/album/2nU0j0QE2LU1bomxX3n8Wt"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 170746,
       "name": "Say I Love U",
       "url": "https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H"
+    },
+    {
+      "added_at": "2024-06-05 03:49:47",
+      "album": {
+        "name": "Someday (feat. Ha Hyun Sang)",
+        "url": "https://open.spotify.com/album/5I3ukJ3aeVcoVy2Q6OWGPW"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        },
+        {
+          "name": "Ha Hyun Sang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Someday (feat. Ha Hyun Sang)",
+      "url": "https://open.spotify.com/track/3G4TbgDHUyMnt1RT3lZM66"
     },
     {
       "added_at": "2024-06-05 03:49:47",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-06-05 03:49:47",
       "album": {
-        "name": "A New Decade",
-        "url": "https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4"
-      },
-      "artists": [
-        {
-          "name": "DINDIN",
-          "url": "https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Should Not Love You",
-      "url": "https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk"
-    },
-    {
-      "added_at": "2024-06-05 03:49:47",
-      "album": {
         "name": "What about (feat. PENOMECO)",
         "url": "https://open.spotify.com/album/1jaeVOAyGKNbE7I3xEL4ig"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 208690,
       "name": "What about (feat. PENOMECO)",
       "url": "https://open.spotify.com/track/6WdWUIfP8zAhkzdmknWjTd"
+    },
+    {
+      "added_at": "2024-06-05 03:49:47",
+      "album": {
+        "name": "A New Decade",
+        "url": "https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4"
+      },
+      "artists": [
+        {
+          "name": "DINDIN",
+          "url": "https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Should Not Love You",
+      "url": "https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk"
     },
     {
       "added_at": "2024-06-05 03:49:47",

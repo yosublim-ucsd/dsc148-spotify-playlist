@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Calvin Harris and Ellie Goulding \(pictured\), Central Cee, Jorja Smith and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 856,031 likes - 119 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 856,120 likes - 119 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 36 | [Aftertaste](https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [Aftertaste](https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY) | 3:34 |
 | 37 | [PASSENGER PRINCESS](https://open.spotify.com/track/3Md1Rphgz24viHtEVSWWi9) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [PASSENGER PRINCESS](https://open.spotify.com/album/2r00aQwsYDAVak9PWghWnU) | 2:35 |
 | 38 | [Junction 3](https://open.spotify.com/track/14c0weTcZPO5laR3ft2B0z) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Junction 3](https://open.spotify.com/album/3orD0F22WOT0CmmEpCDRg3) | 2:38 |
-| 39 | [Endless Vibe](https://open.spotify.com/track/0s8EUdOerqXJZ4LgNcYA9O) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Endless Vibes](https://open.spotify.com/album/43PIeAeRBVzA8iE0MM7PJj) | 2:27 |
+| 39 | [Endless Vibes](https://open.spotify.com/track/0s8EUdOerqXJZ4LgNcYA9O) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Endless Vibes](https://open.spotify.com/album/43PIeAeRBVzA8iE0MM7PJj) | 2:27 |
 | 40 | [Ibizacore](https://open.spotify.com/track/0LU920mdHUiNTWGd3xIxdl) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Muki](https://open.spotify.com/artist/6D8m8pBw3RkQ1TAi1bF2e1) | [Into The Doof](https://open.spotify.com/album/7bQCvS4ChwrfuLEiGY7fkf) | 2:42 |
 | 41 | [Match To Memories](https://open.spotify.com/track/1wmHClgdhhnvSXtjhnWQcg) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Match To Memories](https://open.spotify.com/album/5dSBJEEPuzDPulYXTjnugi) | 2:50 |
 | 42 | [Take Me](https://open.spotify.com/track/6aFyUn6Z9YujYwOI7QsWLZ) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Take Me](https://open.spotify.com/album/0o8DHoxt1tkA2lugrdnViD) | 2:28 |

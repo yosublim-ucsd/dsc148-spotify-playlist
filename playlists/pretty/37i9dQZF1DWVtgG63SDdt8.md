@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover:   <a href="spotify:artist:6e8OTLDQpaz1Tl2GEaxsNj">Matthew West</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,812 likes - 98 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,858 likes - 98 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 21 | [Faith More Precious Than Gold \- Live](https://open.spotify.com/track/0rlM7zn0jGkkVA5QAifyOn) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Jacob Early](https://open.spotify.com/artist/4ZRoHLChnxEklto4lzqxk7) | [Faith More Precious Than Gold + Everything's In Your Hands + Suscipe](https://open.spotify.com/album/2Sq4bnjNdVHlnpCEuwzWr8) | 6:41 |
 | 22 | [They Always Do \- Live](https://open.spotify.com/track/1Tjw8b9Nkv1pKHrohw0sgl) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Anjin Teal](https://open.spotify.com/artist/2u4ZlEZudVyc62sqwYYTBc) | [They Always Do \(Live\)](https://open.spotify.com/album/0E92LMcaFJbJFM6XyIpBa9) | 6:08 |
 | 23 | [Trials of Many Kinds](https://open.spotify.com/track/5hYuDjuMy47jzht5ATyrBj) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Fed By Ravens](https://open.spotify.com/album/71O2R5dEgC9g4Mtou7WT8f) | 5:59 |
-| 24 | [If You're Not With Me \- Live](https://open.spotify.com/track/3Emrun9IGXR7qHxMXn0W5K) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72), [Charmaine Wells](https://open.spotify.com/artist/3PvweVTIfd1eOxAbTv2OIK), [Taylor Gall](https://open.spotify.com/artist/6Sg0UxyRCkV13v37ho3asV) | [Praises & Prayers \(Live\)](https://open.spotify.com/album/3LmrjEE8OCVq6OKnYEjtst) | 6:17 |
+| 24 | [If You're Not With Me \- Live](https://open.spotify.com/track/3Emrun9IGXR7qHxMXn0W5K) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72), [Charmaine Wells](https://open.spotify.com/artist/3PvweVTIfd1eOxAbTv2OIK), [Taylor Gall](https://open.spotify.com/artist/6Sg0UxyRCkV13v37ho3asV) | [Praises & Prayers, Vol\. 1](https://open.spotify.com/album/3LmrjEE8OCVq6OKnYEjtst) | 6:17 |
 | 25 | [The Jesus Way \- Radio Version](https://open.spotify.com/track/6wqH0ALMbqxqZw2JrDxeDE) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [The Jesus Way Collection](https://open.spotify.com/album/4gCBVcYiWYXKs9WTaglgCC) | 3:51 |
 | 26 | [Be Thou My Vision](https://open.spotify.com/track/4gKRegF8uZ0dlBhocjjtEi) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy) | [Be Thou My Vision](https://open.spotify.com/album/3xjWbad5CGXVuAxFfsdDNN) | 3:24 |
 | 27 | [Take it All \- Live](https://open.spotify.com/track/70k721hYulEd5Og7o8dAcE) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Take It All \(Live in Abuja\)](https://open.spotify.com/album/70mWW2AS00l9ML2YeXoVio) | 10:21 |

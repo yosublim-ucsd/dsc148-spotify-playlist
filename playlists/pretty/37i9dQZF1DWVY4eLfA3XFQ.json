@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring AYYBO \ud83d\udc7d\ud83d\udc7d 50% techno, 50% house",
-  "num_followers": 634194,
+  "num_followers": 633356,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1109,22 +1109,6 @@
       "url": "https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "BEATS FOR THE UNDERGROUND",
-        "url": "https://open.spotify.com/album/79kzvy6zqbSZsSIxVK3flH"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 214527,
-      "name": "BEATS FOR THE UNDERGROUND",
-      "url": "https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp"
-    },
-    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Ando High",
@@ -1143,6 +1127,22 @@
       "duration_ms": 165875,
       "name": "Ando High",
       "url": "https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "BEATS FOR THE UNDERGROUND",
+        "url": "https://open.spotify.com/album/79kzvy6zqbSZsSIxVK3flH"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 214527,
+      "name": "BEATS FOR THE UNDERGROUND",
+      "url": "https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1377,26 +1377,6 @@
       "url": "https://open.spotify.com/track/7aFgh0G0BusHzC6gex4wP8"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Rhythm Machine",
-        "url": "https://open.spotify.com/album/0K0ttvuvuaeNPKF9bQ8GmV"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Rhythm Machine",
-      "url": "https://open.spotify.com/track/7qhYyXBbL12mPyj93PyUBb"
-    },
-    {
       "added_at": "2024-02-09 05:00:00",
       "album": {
         "name": "To The Beat",
@@ -1417,20 +1397,24 @@
       "url": "https://open.spotify.com/track/1D3jKMGvMr9NmirT6cnMyO"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/3J3PqlFWWo5MN30DHPwOzB"
+        "name": "Rhythm Machine",
+        "url": "https://open.spotify.com/album/0K0ttvuvuaeNPKF9bQ8GmV"
       },
       "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
         {
           "name": "Max Styler",
           "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
         }
       ],
-      "duration_ms": 218437,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR"
+      "duration_ms": 187500,
+      "name": "Rhythm Machine",
+      "url": "https://open.spotify.com/track/7qhYyXBbL12mPyj93PyUBb"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1469,6 +1453,22 @@
       "url": "https://open.spotify.com/track/02jOuqt9tjSlAP7xPiW7ej"
     },
     {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/3J3PqlFWWo5MN30DHPwOzB"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 218437,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR"
+    },
+    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Bring Me Down",
@@ -1487,6 +1487,26 @@
       "duration_ms": 205492,
       "name": "Bring Me Down",
       "url": "https://open.spotify.com/track/2VIZvfKJFT2YHqHqkM2qhs"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Hella Good",
+        "url": "https://open.spotify.com/album/7r5MlpWk6gQ2fCRDWjUIzn"
+      },
+      "artists": [
+        {
+          "name": "Niko The Kid",
+          "url": "https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X"
+        },
+        {
+          "name": "Benson",
+          "url": "https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY"
+        }
+      ],
+      "duration_ms": 175757,
+      "name": "Hella Good",
+      "url": "https://open.spotify.com/track/1ck6fXDzbKiWKCVSfqxsUB"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1511,26 +1531,6 @@
       "duration_ms": 175748,
       "name": "EYAH (You'll Be Alright)",
       "url": "https://open.spotify.com/track/2TE1Pr3iaDJdWvGSfMm3TS"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Hella Good",
-        "url": "https://open.spotify.com/album/7r5MlpWk6gQ2fCRDWjUIzn"
-      },
-      "artists": [
-        {
-          "name": "Niko The Kid",
-          "url": "https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X"
-        },
-        {
-          "name": "Benson",
-          "url": "https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY"
-        }
-      ],
-      "duration_ms": 175757,
-      "name": "Hella Good",
-      "url": "https://open.spotify.com/track/1ck6fXDzbKiWKCVSfqxsUB"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1697,6 +1697,30 @@
       "url": "https://open.spotify.com/track/2SUKj6aVC879FqCSfVoQPR"
     },
     {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "IBIZA",
+        "url": "https://open.spotify.com/album/31czGIdxfoex2L6hGzZGy8"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        },
+        {
+          "name": "CRCLE",
+          "url": "https://open.spotify.com/artist/0XDbOisy0qfOYDjqLLftvS"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "IBIZA",
+      "url": "https://open.spotify.com/track/2UWGoFGAYstslkTzLnHLXq"
+    },
+    {
       "added_at": "2024-06-14 04:00:00",
       "album": {
         "name": "Midnight Train",
@@ -1739,30 +1763,6 @@
       "duration_ms": 171883,
       "name": "Dominator",
       "url": "https://open.spotify.com/track/5ht7wW7dzpou0SuO2zraHA"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "IBIZA",
-        "url": "https://open.spotify.com/album/31czGIdxfoex2L6hGzZGy8"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "JADED",
-          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
-        },
-        {
-          "name": "CRCLE",
-          "url": "https://open.spotify.com/artist/0XDbOisy0qfOYDjqLLftvS"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "IBIZA",
-      "url": "https://open.spotify.com/track/2UWGoFGAYstslkTzLnHLXq"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1881,30 +1881,6 @@
       "url": "https://open.spotify.com/track/67lB1vjJCFRmf9vNGWXSeg"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Spring Girl (Vintage Culture Remix)",
-        "url": "https://open.spotify.com/album/5b704SG8QwJJhRVDzDk4yv"
-      },
-      "artists": [
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        },
-        {
-          "name": "Maori",
-          "url": "https://open.spotify.com/artist/2GjC0P8uCItsOxEYXtm7kv"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 228779,
-      "name": "Spring Girl - Vintage Culture Remix",
-      "url": "https://open.spotify.com/track/2SCkpXTuQOvXySjlz9O1JH"
-    },
-    {
       "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "El Baile",
@@ -1927,6 +1903,30 @@
       "duration_ms": 174880,
       "name": "El Baile",
       "url": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Spring Girl (Vintage Culture Remix)",
+        "url": "https://open.spotify.com/album/5b704SG8QwJJhRVDzDk4yv"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Maori",
+          "url": "https://open.spotify.com/artist/2GjC0P8uCItsOxEYXtm7kv"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 228779,
+      "name": "Spring Girl - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/2SCkpXTuQOvXySjlz9O1JH"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -2025,6 +2025,22 @@
       "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
     },
     {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "One Pill",
+        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "One Pill",
+      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
+    },
+    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Bring It Back",
@@ -2049,22 +2065,6 @@
       "url": "https://open.spotify.com/track/0ucOxjoEAE1hc0blUsgTMq"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "One Pill",
-        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
-      },
-      "artists": [
-        {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "One Pill",
-      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
-    },
-    {
       "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Hurricane",
@@ -2079,6 +2079,30 @@
       "duration_ms": 177619,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/12zQfnvVvxduyDUfxlw65T"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0Wc6Ik5EgcO3NlYvcIRPxi"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Be Cool",
+          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
+        },
+        {
+          "name": "Alexander Som",
+          "url": "https://open.spotify.com/artist/22tboof8TJ0m7PjeuRzQeW"
+        },
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "duration_ms": 187086,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/6x9z3M0LJ87EZ6AhvgPxL5"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2183,26 +2207,34 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/0Wc6Ik5EgcO3NlYvcIRPxi"
+        "name": "Ballo",
+        "url": "https://open.spotify.com/album/5EZHNZgGDojUeHvKGgUyvK"
       },
       "artists": [
         {
-          "name": "Yolanda Be Cool",
-          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
-        },
-        {
-          "name": "Alexander Som",
-          "url": "https://open.spotify.com/artist/22tboof8TJ0m7PjeuRzQeW"
-        },
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
         }
       ],
-      "duration_ms": 187086,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/6x9z3M0LJ87EZ6AhvgPxL5"
+      "duration_ms": 191500,
+      "name": "Ballo",
+      "url": "https://open.spotify.com/track/24QACMi7RvevNfpkEoS18p"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "I Can't Take No More",
+        "url": "https://open.spotify.com/album/49jiyoCe2xxbyVvXNrDqKV"
+      },
+      "artists": [
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "duration_ms": 157784,
+      "name": "I Can't Take No More",
+      "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -2223,38 +2255,6 @@
       "duration_ms": 224032,
       "name": "Call 911",
       "url": "https://open.spotify.com/track/1b8Fw5fYEZHHholqLkqzfX"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "I Can't Take No More",
-        "url": "https://open.spotify.com/album/49jiyoCe2xxbyVvXNrDqKV"
-      },
-      "artists": [
-        {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
-        }
-      ],
-      "duration_ms": 157784,
-      "name": "I Can't Take No More",
-      "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Ballo",
-        "url": "https://open.spotify.com/album/5EZHNZgGDojUeHvKGgUyvK"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 191500,
-      "name": "Ballo",
-      "url": "https://open.spotify.com/track/24QACMi7RvevNfpkEoS18p"
     },
     {
       "added_at": "2023-12-01 05:00:00",

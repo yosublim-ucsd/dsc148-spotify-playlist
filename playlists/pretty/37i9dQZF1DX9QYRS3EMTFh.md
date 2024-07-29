@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Maureen
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,109 likes - 40 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,217 likes - 40 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 23 | [Yozo](https://open.spotify.com/track/7FKH8cRBqFjgxfArnJLqaW) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Yozo](https://open.spotify.com/artist/0eENwoLRhIVvT0dfzhgmUG), [Natoxie](https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5) | [Yozo](https://open.spotify.com/album/1kwssT1xqCkbgGb6mfUpJP) | 2:17 |
 | 24 | [BONBON](https://open.spotify.com/track/1RYyZOfxHdNRP8iddTFsr4) | [TMatt](https://open.spotify.com/artist/2iUL25NMZgC1jW7TNuwaVQ), [DJ PHIL](https://open.spotify.com/artist/2Yc5AMLoJadf2uqow6ex9G) | [BONBON](https://open.spotify.com/album/5lF0CGYmGGL40hseludKyo) | 2:18 |
 | 25 | [Badman](https://open.spotify.com/track/1qjqfHddO0S8QhhPp1utLh) | [X\-Man](https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4), [Danthology](https://open.spotify.com/artist/6Rii9NJk3gtAOB1qnbTYPM) | [C'Méchant](https://open.spotify.com/album/0EvfTeUySDV4bmRAQZis2r) | 2:28 |
-| 26 | [Endless Vibe](https://open.spotify.com/track/0s8EUdOerqXJZ4LgNcYA9O) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Endless Vibes](https://open.spotify.com/album/43PIeAeRBVzA8iE0MM7PJj) | 2:27 |
+| 26 | [Endless Vibes](https://open.spotify.com/track/0s8EUdOerqXJZ4LgNcYA9O) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Endless Vibes](https://open.spotify.com/album/43PIeAeRBVzA8iE0MM7PJj) | 2:27 |
 | 27 | [Basshall Sound](https://open.spotify.com/track/123Z3LCGVhRKvZnEP8uqUt) | [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Big Shenn](https://open.spotify.com/artist/1oRevsg3KXvciSXKMlsEZl) | [Basshall Sound](https://open.spotify.com/album/0aptnL9Ov80AzVDKA1Tnxy) | 2:15 |
 | 28 | [Matos](https://open.spotify.com/track/3tzHHoCOtQARYU29AgLhqJ) | [Dj Quick](https://open.spotify.com/artist/4tjoob53d4b26AjGJ49kuF), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [CODE 97, Vol\. 1](https://open.spotify.com/album/5F7gMyMowj4xlt1cYvAJEf) | 2:30 |
 | 29 | [Whippin](https://open.spotify.com/track/73jr3utBPfn5ro0m4v2YQV) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Ayewai](https://open.spotify.com/artist/2vWk6xDLXH6q0aqIfqMwM3) | [Whippin](https://open.spotify.com/album/0bMNXPD81ovzEyjdY54kv0) | 2:37 |

@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-936 songs - 1 day 12 hr 21 min
+937 songs - 1 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [Ilene](https://open.spotify.com/track/0Y5hAGvfwXoQnjWEd90ju2) | [Blutone](https://open.spotify.com/artist/6C3HjDxIciOd8XvkEnNamY) | [Sharingan](https://open.spotify.com/album/5ISSZnA4V8C7eCia0WIhsY) | 2:09 | 2022-04-15 |  |
 | [Illjazz](https://open.spotify.com/track/6Nf3WJHF1ZCya9gwD55NwD) | [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [Illjazz](https://open.spotify.com/album/3zh3LrNpLIKuNr2aI5FCsS) | 2:27 | 2022-12-16 | 2023-09-22 |
 | [In Bloom](https://open.spotify.com/track/6uxits25W76rYLfFshJKvs) | [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL), [sftspkn](https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq) | [In Bloom](https://open.spotify.com/album/6OjWvKpu6EoPGlnNaO5WXb) | 2:30 | 2022-10-28 |  |
+| [In Comparison With](https://open.spotify.com/track/2kRqoND9nTZ6ShVTWPQ3Y6) | [State Artefact](https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q) | [In Comparison With](https://open.spotify.com/album/3vvMXi4IWwUbgQi7S2oxJP) | 3:22 | 2024-07-26 |  |
 | [In Control](https://open.spotify.com/track/7Kqj0LK21ncarCNLOOPJXN) | [Noah Park](https://open.spotify.com/artist/6dgSiYNST9AWofoxzLI9q0) | [In Control](https://open.spotify.com/album/40wQRP2viJpNvswAfeLHji) | 2:12 | 2023-04-28 |  |
 | [In Spirit](https://open.spotify.com/track/69jvobVMX2CIHX3rKEN20t) | [Au\-Gustí](https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7) | [In Spirit](https://open.spotify.com/album/2Gsl9aIXyS0BKyLd8V3qeX) | 2:33 | 2024-02-09 |  |
 | [in the blink of an eye](https://open.spotify.com/track/5MBfOXuYBd43bQseqvL2yo) | [Summer Clarke](https://open.spotify.com/artist/5VJreBDjx8zamtY3YyZyMr) | [in the blink of an eye](https://open.spotify.com/album/1ckuvr9YJHuv0IleVxJLkd) | 2:27 | 2022-05-20 | 2022-09-30 |
@@ -527,7 +528,7 @@
 | [Nightfall](https://open.spotify.com/track/1U4SM2KN49g01Q4G42wBU3) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U) | [Nightfall](https://open.spotify.com/album/5GnUgFtiNggX7qZf7fBkoC) | 2:18 | 2022-07-29 | 2022-08-12 |
 | [Nightlie](https://open.spotify.com/track/1BtS1rydHXYKyGyIrrrfph) | [Mos Becka](https://open.spotify.com/artist/2OlHuqEXZbePEmtsVP9Xlk) | [Nightlie](https://open.spotify.com/album/0GC1DNI4n7wFxDEEGSpuqC) | 2:14 | 2024-03-22 |  |
 | [No Problem Too Small](https://open.spotify.com/track/0Td7VHO3ojTr3VO8GJTqQh) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [No Problem Too Small](https://open.spotify.com/album/3qKy5Uvc5ru23HZ4XYW40d) | 2:02 | 2022-04-15 | 2022-07-01 |
-| [Noon](https://open.spotify.com/track/692BbmPcX0H4AuiCSsVGxk) | [Wax A Dizk](https://open.spotify.com/artist/0oFTGAftcAfchCbIObOGjh) | [Noon](https://open.spotify.com/album/6LQNlc436wtwnuK8xr8WNz) | 1:37 | 2022-12-09 |  |
+| [Noon](https://open.spotify.com/track/692BbmPcX0H4AuiCSsVGxk) | [Wax A Dizk](https://open.spotify.com/artist/0oFTGAftcAfchCbIObOGjh) | [Noon](https://open.spotify.com/album/6LQNlc436wtwnuK8xr8WNz) | 1:37 | 2022-12-09 | 2024-07-29 |
 | [Nostalgia](https://open.spotify.com/track/6j6ZILBUn4Db0eC8dwSpxg) | [Betty Michaels](https://open.spotify.com/artist/1BhnNe00irqmdbyijyTZMk), [CRFT](https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM) | [Nostalgia](https://open.spotify.com/album/25lzc5egcw786yCAD1n5W2) | 2:41 | 2022-10-28 | 2023-10-06 |
 | [Nostalgia Midnight Blue](https://open.spotify.com/track/2mc1gRCwxC8LP4qtX90qgv) | [C\. H\. Alice](https://open.spotify.com/artist/2vUY9u1zhTNfrfOgnbGP8a) | [Nostalgia Midnight Blue](https://open.spotify.com/album/0C47SewkHps0G91nwTcASm) | 3:07 | 2022-06-10 |  |
 | [Nostalgic](https://open.spotify.com/track/7qT2KT4j6HZ6qCyQ8mLv1s) | [Nostalgique](https://open.spotify.com/artist/4i29Lf2vHDzbCPrkdP3uoM) | [Nostalgic](https://open.spotify.com/album/4Kw3dlJ1SVQxwj5o4J2GJ9) | 1:52 | 2023-12-22 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqLnAAAAAABnRgRcSaX07ns4OdMS1vW6",
+  "snapshot_id": "ZqQ4gAAAAADTI+nn6dhdMI5q9t0mi4S/",
   "tracks": [
     {
       "added_at": null,
@@ -47,22 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE MUSEUM II",
-        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 239360,
-      "name": "DISCOTHEQUE",
-      "url": "https://open.spotify.com/track/4i9D1GN4xtGXiYRgx7mfl9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HYBRID UNIVERSE",
         "url": "https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 307546,
       "name": "ETERNAL BLAZE",
       "url": "https://open.spotify.com/track/6FghEVkOL58IWEkRFqfKks"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 239360,
+      "name": "DISCOTHEQUE",
+      "url": "https://open.spotify.com/track/4i9D1GN4xtGXiYRgx7mfl9"
     },
     {
       "added_at": null,
@@ -275,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ROCKBOUND NEIGHBORS",
-        "url": "https://open.spotify.com/album/3tXxl7ZKlCSfAMWr2AhMeP"
+        "name": "SMASHING ANTHEMS",
+        "url": "https://open.spotify.com/album/0ebMgBTomQnd3WNUpjnLlK"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 321666,
-      "name": "Synchrogazer-Aufwachen Form-",
-      "url": "https://open.spotify.com/track/1lmfLQ7e8m2lp3kgeGepxM"
+      "duration_ms": 316280,
+      "name": "Glorious Break",
+      "url": "https://open.spotify.com/track/5xlXHQM8bPlQU9LCnYiPOY"
     },
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SMASHING ANTHEMS",
-        "url": "https://open.spotify.com/album/0ebMgBTomQnd3WNUpjnLlK"
+        "name": "ROCKBOUND NEIGHBORS",
+        "url": "https://open.spotify.com/album/3tXxl7ZKlCSfAMWr2AhMeP"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 316280,
-      "name": "Glorious Break",
-      "url": "https://open.spotify.com/track/5xlXHQM8bPlQU9LCnYiPOY"
+      "duration_ms": 321666,
+      "name": "Synchrogazer-Aufwachen Form-",
+      "url": "https://open.spotify.com/track/1lmfLQ7e8m2lp3kgeGepxM"
     },
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u5922\u5e7b",
-        "url": "https://open.spotify.com/album/1tWqgL6k6A06lcZSc7QoAF"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 239013,
-      "name": "\u5929\u7a7a\u306e\u30ab\u30ca\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/5NDMUVjHWNo6hjNXLUB7UF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "IMPACT EXCITER",
         "url": "https://open.spotify.com/album/7eRju7cXN0JfW34mqwVeUA"
       },
@@ -371,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sugar Doughnuts",
-        "url": "https://open.spotify.com/album/1sNavFjkIPQAuHhIUTSm9O"
+        "name": "\u5922\u5e7b",
+        "url": "https://open.spotify.com/album/1tWqgL6k6A06lcZSc7QoAF"
       },
       "artists": [
         {
@@ -380,9 +364,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 206567,
-      "name": "Sugar Doughnuts",
-      "url": "https://open.spotify.com/track/5Cv67fj74PhUgO26qRvBO5"
+      "duration_ms": 239013,
+      "name": "\u5929\u7a7a\u306e\u30ab\u30ca\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/5NDMUVjHWNo6hjNXLUB7UF"
     },
     {
       "added_at": null,
@@ -399,6 +383,22 @@
       "duration_ms": 232653,
       "name": "\u5606\u304d\u306e\u83ef",
       "url": "https://open.spotify.com/track/0sykGYWNmdFkBXJurdnWKo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sugar Doughnuts",
+        "url": "https://open.spotify.com/album/1sNavFjkIPQAuHhIUTSm9O"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 206567,
+      "name": "Sugar Doughnuts",
+      "url": "https://open.spotify.com/track/5Cv67fj74PhUgO26qRvBO5"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ULTIMATE DIAMOND",
-        "url": "https://open.spotify.com/album/6YjWSq0UNQ7oqLAL7Af6dL"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 229613,
-      "name": "\u6c88\u9ed9\u306e\u679c\u5b9f",
-      "url": "https://open.spotify.com/track/33FnX1chFHzXMKZHpA4kBQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE MUSEUM II",
         "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 296000,
       "name": "\u6df1\u611b",
       "url": "https://open.spotify.com/track/0gsI8ofrtQ7EWU2LTHlhmd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ULTIMATE DIAMOND",
+        "url": "https://open.spotify.com/album/6YjWSq0UNQ7oqLAL7Af6dL"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 229613,
+      "name": "\u6c88\u9ed9\u306e\u679c\u5b9f",
+      "url": "https://open.spotify.com/track/33FnX1chFHzXMKZHpA4kBQ"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IMPACT EXCITER",
-        "url": "https://open.spotify.com/album/7eRju7cXN0JfW34mqwVeUA"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 296666,
-      "name": "\u604b\u306e\u6291\u6b62\u529b-type EXCITER-",
-      "url": "https://open.spotify.com/track/4THfcBq4kEdHsTOEqcbrmW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "STARTING NOW!",
         "url": "https://open.spotify.com/album/1r4GnXzvpFSp4uQvPxhTBS"
       },
@@ -547,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE MUSEUM II",
-        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "PHANTOM MINDS",
-      "url": "https://open.spotify.com/track/79gsfSEJXThxkYEKkEzfMS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "innocent starter",
         "url": "https://open.spotify.com/album/3Mm5J6uZ8yN30jCdODv856"
       },
@@ -575,6 +543,38 @@
       "duration_ms": 281133,
       "name": "innocent starter",
       "url": "https://open.spotify.com/track/6HAAG01wmaFg7mjDBwRpZH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IMPACT EXCITER",
+        "url": "https://open.spotify.com/album/7eRju7cXN0JfW34mqwVeUA"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 296666,
+      "name": "\u604b\u306e\u6291\u6b62\u529b-type EXCITER-",
+      "url": "https://open.spotify.com/track/4THfcBq4kEdHsTOEqcbrmW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "PHANTOM MINDS",
+      "url": "https://open.spotify.com/track/79gsfSEJXThxkYEKkEzfMS"
     },
     {
       "added_at": null,
@@ -659,6 +659,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "SECRET AMBITION",
+        "url": "https://open.spotify.com/album/2M97BLXBpREKzRgChj527r"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "Level Hi!",
+      "url": "https://open.spotify.com/track/4TlPCcw4M9clVHqHSHYWP7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WONDER QUEST EP",
+        "url": "https://open.spotify.com/album/2zIv4qhpYHrk0zVGSAO2F3"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "Hungry Hungry",
+      "url": "https://open.spotify.com/track/790IujLc3cPD6Y85LnhjEr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "POP MASTER",
+        "url": "https://open.spotify.com/album/5yNAlfpRUPwD26kBaeY3eS"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 281160,
+      "name": "UNBREAKABLE",
+      "url": "https://open.spotify.com/track/3IY2GIqcVAYhaM2zn5r3vh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THE MUSEUM II",
         "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
       },
@@ -687,70 +735,6 @@
       "duration_ms": 251400,
       "name": "BRIGHT STREAM",
       "url": "https://open.spotify.com/track/5QfnHouzl7E6UaUhtDf99T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SECRET AMBITION",
-        "url": "https://open.spotify.com/album/2M97BLXBpREKzRgChj527r"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "Level Hi!",
-      "url": "https://open.spotify.com/track/4TlPCcw4M9clVHqHSHYWP7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "POP MASTER",
-        "url": "https://open.spotify.com/album/5yNAlfpRUPwD26kBaeY3eS"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 281160,
-      "name": "UNBREAKABLE",
-      "url": "https://open.spotify.com/track/3IY2GIqcVAYhaM2zn5r3vh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WONDER QUEST EP",
-        "url": "https://open.spotify.com/album/2zIv4qhpYHrk0zVGSAO2F3"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "Hungry Hungry",
-      "url": "https://open.spotify.com/track/790IujLc3cPD6Y85LnhjEr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE MUSEUM II",
-        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 245626,
-      "name": "\u7d14\u6f54\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
-      "url": "https://open.spotify.com/track/5p3ZTYHlKPHD265ZUnks8S"
     },
     {
       "added_at": null,
@@ -787,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Link or Chains",
-        "url": "https://open.spotify.com/album/2c4hiHWpGm1AU31mfIc4Y4"
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
       },
       "artists": [
         {
@@ -796,9 +780,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 224150,
-      "name": "Link or Chains",
-      "url": "https://open.spotify.com/track/3KSIV445te911EhHIn25Pn"
+      "duration_ms": 245626,
+      "name": "\u7d14\u6f54\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/5p3ZTYHlKPHD265ZUnks8S"
     },
     {
       "added_at": null,
@@ -815,6 +799,22 @@
       "duration_ms": 212499,
       "name": "\u5168\u529bDREAMER",
       "url": "https://open.spotify.com/track/1aIdOv8ouABjERE1nIrjKB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Link or Chains",
+        "url": "https://open.spotify.com/album/2c4hiHWpGm1AU31mfIc4Y4"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 224150,
+      "name": "Link or Chains",
+      "url": "https://open.spotify.com/track/3KSIV445te911EhHIn25Pn"
     }
   ],
   "unique_name": "This Is \u6c34\u6a39\u5948\u3005",

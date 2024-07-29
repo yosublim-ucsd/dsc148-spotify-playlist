@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Slipknot",
+        "url": "https://open.spotify.com/album/5lOFvOWAdy9G6p44noRILU"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298333,
+      "name": "Prosthetics",
+      "url": "https://open.spotify.com/track/3vcVDD95fKJkBwlwJ0pNnQ"
+    },
+    {
+      "album": {
         "name": "All Hope Is Gone (10th Anniversary)",
         "url": "https://open.spotify.com/album/2ISXjEm0D4chvU2IDNvUqk"
       },

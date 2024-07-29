@@ -5330,7 +5330,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 186463,
       "name": "COME SEMBRA",
       "url": "https://open.spotify.com/track/2wpK0bmYeIN0S695bPoZI2"
@@ -6928,7 +6928,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 154708,
       "name": "DOVE SEI TU",
       "url": "https://open.spotify.com/track/2Cz3ZPDpYIJNJBd0tzDeK1"
@@ -11704,6 +11704,44 @@
       "duration_ms": 164629,
       "name": "Labes",
       "url": "https://open.spotify.com/track/3uAfHry4D5wAlT7hdvW3gW"
+    },
+    {
+      "album": {
+        "name": "Lacrima Nuova",
+        "url": "https://open.spotify.com/album/7xNYqNekje9BsbaCYZG7ip"
+      },
+      "artists": [
+        {
+          "name": "Mille Piccoli Cieli",
+          "url": "https://open.spotify.com/artist/6BFBvqZPlGZ2FUMXVHSsUY"
+        },
+        {
+          "name": "Floral Grin",
+          "url": "https://open.spotify.com/artist/5m1fvLDO1DDWVNhluFhOA9"
+        },
+        {
+          "name": "Altolucenti",
+          "url": "https://open.spotify.com/artist/4lpUgEzwYlZ4OZa4vYHkV9"
+        },
+        {
+          "name": "Christopher Padilla Billa",
+          "url": "https://open.spotify.com/artist/7gf6pwtdLMAtllg6eEwpno"
+        },
+        {
+          "name": "Colibree",
+          "url": "https://open.spotify.com/artist/7s961XmA8A69tQ3UQRD6sk"
+        },
+        {
+          "name": "\u00c8SSA",
+          "url": "https://open.spotify.com/artist/3vzv7k1u60UzTFUYiTV4Ca"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Lacrima Nuova",
+      "url": "https://open.spotify.com/track/499sucSYMaIPv6qVdYHWce"
     },
     {
       "album": {
@@ -25694,7 +25732,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 223893,
       "name": "Ypsilon",
       "url": "https://open.spotify.com/track/35Kja1KlfXbNoqZJ4LhUCM"

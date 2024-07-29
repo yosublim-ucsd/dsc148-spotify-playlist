@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqLnAAAAAAA5myUeBebRFY1Jf4AYg1lg",
+  "snapshot_id": "ZqQ4gAAAAABFgwNYPpa9idIjBOeqrefI",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vento do Esp\u00edrito",
+        "url": "https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 254769,
+      "name": "Vento do Esp\u00edrito",
+      "url": "https://open.spotify.com/track/576nbIQo0FL0pVII6YrzYe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Siga em Frente",
         "url": "https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 237818,
       "name": "Ao Final",
       "url": "https://open.spotify.com/track/7sFeGZBlqXSN3lN02lirMh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vento do Esp\u00edrito",
-        "url": "https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 254769,
-      "name": "Vento do Esp\u00edrito",
-      "url": "https://open.spotify.com/track/576nbIQo0FL0pVII6YrzYe"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Shaday (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2DchFCysxlnI0flscFLnEB"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 323832,
-      "name": "El Shaday (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2kuSwazCXbTJO52vH4Yrfu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vento do Esp\u00edrito",
         "url": "https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 244831,
       "name": "Uma Mulher, Um Milagre",
       "url": "https://open.spotify.com/track/7376jMT2i67KqphVdumwPQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Shaday (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2DchFCysxlnI0flscFLnEB"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 323832,
+      "name": "El Shaday (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2kuSwazCXbTJO52vH4Yrfu"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Com os Olhos da F\u00e9",
+        "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 287602,
+      "name": "Com os Olhos da F\u00e9",
+      "url": "https://open.spotify.com/track/5ffnMtzwfY0noBToWK8X0J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Com Muito Louvor",
         "url": "https://open.spotify.com/album/5NItVsuGoKUjQOK8kfa72v"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 321039,
       "name": "Com Muito Louvor",
       "url": "https://open.spotify.com/track/3fMWh5ZDVPFKoQnUxO29L8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Com os Olhos da F\u00e9",
-        "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 287602,
-      "name": "Com os Olhos da F\u00e9",
-      "url": "https://open.spotify.com/track/5ffnMtzwfY0noBToWK8X0J"
     },
     {
       "added_at": null,
@@ -867,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ele \u00c9 Jesus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1HkiodWGSRocxPIye85Feo"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        }
-      ],
-      "duration_ms": 510478,
-      "name": "Em Teu Nome H\u00e1 Poder (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4dCYSSfMAwSmBhubwaMtgN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9 Jesus (Ao Vivo)",
         "url": "https://open.spotify.com/album/4UWpM2Rhi9trDC9jevaMl9"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 451341,
       "name": "\u00c9 Jesus (Ao Vivo)",
       "url": "https://open.spotify.com/track/7nHPvZM13ckEpxauxF505o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ele \u00c9 Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1HkiodWGSRocxPIye85Feo"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "duration_ms": 510478,
+      "name": "Em Teu Nome H\u00e1 Poder (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4dCYSSfMAwSmBhubwaMtgN"
     },
     {
       "added_at": null,

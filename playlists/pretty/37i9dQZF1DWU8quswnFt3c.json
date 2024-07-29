@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume from across the world. Cover: Nia Archives.",
-  "num_followers": 945875,
+  "num_followers": 946105,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-07-17 07:30:25",
       "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186365,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
-    },
-    {
-      "added_at": "2024-07-17 07:30:25",
-      "album": {
         "name": "La_Playlist.mpeg",
         "url": "https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4"
       },
@@ -155,6 +139,26 @@
       "duration_ms": 149571,
       "name": "La_Playlist.mpeg",
       "url": "https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA"
+    },
+    {
+      "added_at": "2024-07-17 07:30:25",
+      "album": {
+        "name": "Nem a Pau (feat. Simone Mendes)",
+        "url": "https://open.spotify.com/album/2YD9sBbLCikn0C7ZHLZmjm"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        },
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "duration_ms": 161920,
+      "name": "Nem a Pau (feat. Simone Mendes)",
+      "url": "https://open.spotify.com/track/6u9tu5yRDTHpWlY86J1GDa"
     },
     {
       "added_at": "2024-07-17 07:30:25",
@@ -175,22 +179,18 @@
     {
       "added_at": "2024-07-17 07:30:25",
       "album": {
-        "name": "Nem a Pau (feat. Simone Mendes) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/2YD9sBbLCikn0C7ZHLZmjm"
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
       },
       "artists": [
         {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        },
-        {
-          "name": "Simone Mendes",
-          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 161920,
-      "name": "Nem a Pau (feat. Simone Mendes) - Ao Vivo",
-      "url": "https://open.spotify.com/track/6u9tu5yRDTHpWlY86J1GDa"
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
       "added_at": "2024-07-17 07:30:25",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-07-17 07:30:25",
       "album": {
-        "name": "sweeeet",
-        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 111229,
-      "name": "sweeeet",
-      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
-    },
-    {
-      "added_at": "2024-07-17 07:30:25",
-      "album": {
         "name": "Bad Love God",
         "url": "https://open.spotify.com/album/3kBaenm4ssWN87HymLEEsB"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 203283,
       "name": "Bad Love God",
       "url": "https://open.spotify.com/track/1MZyCaruig26Lio1Cgosh5"
+    },
+    {
+      "added_at": "2024-07-17 07:30:25",
+      "album": {
+        "name": "sweeeet",
+        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 111229,
+      "name": "sweeeet",
+      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
     },
     {
       "added_at": "2024-07-17 07:30:25",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-07-17 07:30:25",
       "album": {
+        "name": "The Rose Of Jericho",
+        "url": "https://open.spotify.com/album/4j2eJNkZ3qiGdCW8wnO5Wu"
+      },
+      "artists": [
+        {
+          "name": "Georgia Lines",
+          "url": "https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c"
+        }
+      ],
+      "duration_ms": 266733,
+      "name": "Grand Illusion",
+      "url": "https://open.spotify.com/track/4ungm58VUft86geFgszTa6"
+    },
+    {
+      "added_at": "2024-07-17 07:30:25",
+      "album": {
         "name": "Dancing in Marbella",
         "url": "https://open.spotify.com/album/13ID1wwrLD8vBrz1vHGVWW"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 139672,
       "name": "Dancing in Marbella",
       "url": "https://open.spotify.com/track/0l328syCyA11b9Ai3DqRDy"
-    },
-    {
-      "added_at": "2024-07-17 07:30:25",
-      "album": {
-        "name": "The Rose Of Jericho",
-        "url": "https://open.spotify.com/album/4j2eJNkZ3qiGdCW8wnO5Wu"
-      },
-      "artists": [
-        {
-          "name": "Georgia Lines",
-          "url": "https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c"
-        }
-      ],
-      "duration_ms": 266733,
-      "name": "Grand Illusion",
-      "url": "https://open.spotify.com/track/4ungm58VUft86geFgszTa6"
     },
     {
       "added_at": "2024-07-17 07:30:25",

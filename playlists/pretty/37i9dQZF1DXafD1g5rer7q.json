@@ -1,6 +1,6 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 406612,
+  "num_followers": 406715,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
@@ -255,26 +255,6 @@
     {
       "added_at": "2024-06-27 16:18:32",
       "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 228267,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": "2024-06-27 16:18:32",
-      "album": {
         "name": "Like A G6 (with Naeleck)",
         "url": "https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 148751,
       "name": "Like A G6 (with Naeleck)",
       "url": "https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7"
+    },
+    {
+      "added_at": "2024-06-27 16:18:32",
+      "album": {
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 228267,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
     },
     {
       "added_at": "2024-06-27 16:18:32",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2024-06-27 16:18:32",
       "album": {
+        "name": "Sex",
+        "url": "https://open.spotify.com/album/0H0me9GzGlSENBNZNvSmTM"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        }
+      ],
+      "duration_ms": 228360,
+      "name": "Sex",
+      "url": "https://open.spotify.com/track/1MyWtH2yavuP1AHUi1X7ur"
+    },
+    {
+      "added_at": "2024-06-27 16:18:32",
+      "album": {
         "name": "Split (Only U)",
         "url": "https://open.spotify.com/album/0WTYsW1iJz4NQqdclJ4gcd"
       },
@@ -1043,26 +1063,6 @@
       "duration_ms": 256640,
       "name": "Split (Only U)",
       "url": "https://open.spotify.com/track/1Q4jb2UjtWUDUojHsB8mLY"
-    },
-    {
-      "added_at": "2024-06-27 16:18:32",
-      "album": {
-        "name": "Alien",
-        "url": "https://open.spotify.com/album/3LXVxMUrioKZcoheV2zT3u"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 174840,
-      "name": "Alien",
-      "url": "https://open.spotify.com/track/0RUTnY2B3s05fZuCHsNaUP"
     }
   ],
   "unique_name": "EDM Samplings",

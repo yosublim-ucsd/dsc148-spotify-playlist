@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,013 songs - 3 day 4 hr 43 min
+2,014 songs - 3 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -635,7 +635,7 @@
 | [Food For Thought](https://open.spotify.com/track/6nzxcUtxye4HMz8v8iYnlg) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [Food For Thought](https://open.spotify.com/album/2Wp5mKY2BUDd7g5MsdLxYR) | 2:22 | 2022-10-28 |  |
 | [for hire](https://open.spotify.com/track/6IoHBjBeOLB88llhgOX6Za) | [Pellets Brew](https://open.spotify.com/artist/0Hxef8gwqqPVy0rbAvpEAz) | [for hire](https://open.spotify.com/album/1tLwiMmTBCC3l20I7hXOvq) | 2:02 | 2022-04-15 | 2022-09-17 |
 | [For Ilion \(Chefen\)](https://open.spotify.com/track/4S3ctgPAQ0A1tbs7r0m21i) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Scatterbrained](https://open.spotify.com/album/1zWKv8EE8DgGJQvNJAdraZ) | 3:10 | 2022-04-15 | 2022-09-17 |
-| [For My Pet](https://open.spotify.com/track/4LzJRk3q2gHWtlvZn4XbbQ) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [For My Pet](https://open.spotify.com/album/3XNNQdiFEYB5p1ccBisEKM) | 1:42 | 2022-10-28 |  |
+| [For My Pet](https://open.spotify.com/track/4LzJRk3q2gHWtlvZn4XbbQ) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [For My Pet](https://open.spotify.com/album/3XNNQdiFEYB5p1ccBisEKM) | 1:42 | 2022-10-28 | 2024-07-29 |
 | [For One day](https://open.spotify.com/track/7fSrFB7FWoz4BtXEbJkEqQ) | [Ambient Solle](https://open.spotify.com/artist/34ScNK2ccDxZim8TVcqWXT) | [For One day](https://open.spotify.com/album/2OYOSpMBaxmOZk1vKATq3q) | 2:37 | 2023-03-24 |  |
 | [for you](https://open.spotify.com/track/7EUp5t0R3xhWNRaOiIleFV) | [dirtybirdie](https://open.spotify.com/artist/757oyVLql8wYqYzOEz7BIT) | [for you](https://open.spotify.com/album/2Ee66lYmpcXnbSW5cZbJxw) | 1:48 | 2022-07-08 | 2024-05-14 |
 | [Forgiveness](https://open.spotify.com/track/3WmznVJAHrzBHZvpAz1ix5) | [pucca](https://open.spotify.com/artist/6kLGnSLqv3I3NPOTdmm5lA) | [Forgiveness](https://open.spotify.com/album/2q9DCmx4VatcJLEpmZ8umy) | 1:42 | 2022-05-13 | 2022-11-12 |
@@ -1179,6 +1179,7 @@
 | [Na Sombra](https://open.spotify.com/track/5L6NMI5qIg534ZuMDOI3co) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT), [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Na Sombra](https://open.spotify.com/album/4AEER2A4BisbfBqy87c8rm) | 2:35 | 2022-07-15 | 2022-09-09 |
 | [Nachtschicht](https://open.spotify.com/track/1Nk21HZ5Gdyt0C7Ta7JAFn) | [Fuzl](https://open.spotify.com/artist/4PcJcSL24JeqLoQla78EPA), [gknister](https://open.spotify.com/artist/0fR068DfY5exvbuRLEV0t7) | [Nachtschicht](https://open.spotify.com/album/5KkUK4Vkla73stLftrjk2z) | 2:04 | 2023-07-13 | 2023-10-27 |
 | [Nadis](https://open.spotify.com/track/3EmmopcqTsF4BvbCoadpMP) | [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR), [Alpstar](https://open.spotify.com/artist/5LyqaR9qKCY366KoR95KAu), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ), [yani](https://open.spotify.com/artist/6TdK92VfuJbFh7aNmGv6li) | [Nadis](https://open.spotify.com/album/7iQ51FgRgNmMi2mIK1i4yt) | 2:06 | 2022-08-12 | 2022-12-17 |
+| [Napwave Nirvana](https://open.spotify.com/track/1MRxxXsWluxrcyiyy0msBd) | [Dozy Duzzn](https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY) | [Napwave Nirvana](https://open.spotify.com/album/0OUQWtv2Wny91GLsXsE5eB) | 2:09 | 2024-07-26 |  |
 | [Natsukashii](https://open.spotify.com/track/47CCAzwODti6pWUUKnDHjz) | [nuuxm](https://open.spotify.com/artist/101wXaKcGFhROAYVnIwcAs) | [Natsukashii](https://open.spotify.com/album/6ebtUzJRChi4wPPRqu4gTl) | 2:39 | 2024-02-02 | 2024-04-13 |
 | [Nattchill](https://open.spotify.com/track/3fHa2jk3OL2KtLTAFk2qst) | [JHONGIL](https://open.spotify.com/artist/4g8UVxOoXX3Z1bP5FGJBLy) | [Nattchill](https://open.spotify.com/album/0UAB4QNn24PfMW07cUDmlF) | 2:40 | 2022-11-11 | 2024-07-25 |
 | [Nattsudd](https://open.spotify.com/track/6HMT16Rk6JTTQ2LuYLHVRb) | [Overklig](https://open.spotify.com/artist/44GjBAdTaRpLUjQi7wJMa2) | [Nattsudd](https://open.spotify.com/album/1oJoXscf6fpPQKbzDJe2OT) | 2:36 | 2022-04-15 | 2022-05-13 |

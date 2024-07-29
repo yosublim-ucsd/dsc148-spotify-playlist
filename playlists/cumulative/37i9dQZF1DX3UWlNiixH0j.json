@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "18\u624d\u306e\u590f\u4f11\u307f",
+        "url": "https://open.spotify.com/album/7HjvNgMZN1YHWOFNbu36Ob"
+      },
+      "artists": [
+        {
+          "name": "Mega Shinnosuke",
+          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+        }
+      ],
+      "date_added": "2024-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221530,
+      "name": "18\u624d\u306e\u590f\u4f11\u307f",
+      "url": "https://open.spotify.com/track/4SKUc66FMz0BXpqaF2G94u"
+    },
+    {
+      "album": {
         "name": "THE GREATEST UNKNOWN",
         "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
       },
@@ -1292,7 +1310,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 176166,
       "name": "apart",
       "url": "https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry"
@@ -16045,6 +16063,24 @@
     },
     {
       "album": {
+        "name": "Sentiments",
+        "url": "https://open.spotify.com/album/5svu4CMAw8VYFyF6nxswfr"
+      },
+      "artists": [
+        {
+          "name": "Nape",
+          "url": "https://open.spotify.com/artist/4i2HtvaNWxR0sYVRzQTT1N"
+        }
+      ],
+      "date_added": "2024-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191872,
+      "name": "Sentiments",
+      "url": "https://open.spotify.com/track/1RV7iXLe9Ydh9J9MiXtOLm"
+    },
+    {
+      "album": {
         "name": "set me free",
         "url": "https://open.spotify.com/album/4QbwpyNyVJErLqLSLFxsmQ"
       },
@@ -23546,7 +23582,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 118133,
       "name": "\u3082\u3046\u3051\u3082\u3093",
       "url": "https://open.spotify.com/track/2hMn9FYHmZtIFikDDHnoTn"

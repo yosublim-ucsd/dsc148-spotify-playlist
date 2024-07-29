@@ -1,12 +1,12 @@
 {
   "description": "This is Azzy. The essential tracks, all in one playlist.",
-  "num_followers": 7949,
+  "num_followers": 7952,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqLnAAAAAACe/ZdFBQZNr4uOqkGHzaMG",
+  "snapshot_id": "ZqQ4gAAAAADalXvNA1Mguw57f18DZ4BV",
   "tracks": [
     {
       "added_at": null,
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ainda \u00c9 Ver\u00e3o",
-        "url": "https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 135517,
-      "name": "Pra Te Envolver",
-      "url": "https://open.spotify.com/track/7xITQo1LbeHwrZbMiA9wPW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Donas do Jogo",
         "url": "https://open.spotify.com/album/7MBjkpeqRT5iQeff5uhcP9"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 244000,
       "name": "Donas do Jogo",
       "url": "https://open.spotify.com/track/1cS6RxJm9VWnbIYyFM0BVm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ainda \u00c9 Ver\u00e3o",
+        "url": "https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 135517,
+      "name": "Pra Te Envolver",
+      "url": "https://open.spotify.com/track/7xITQo1LbeHwrZbMiA9wPW"
     },
     {
       "added_at": null,
@@ -1191,6 +1191,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mano N\u00e3o Toca na Lace",
+        "url": "https://open.spotify.com/album/0yz6edkbA6yhoNd3BXU8BE"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "duration_ms": 205194,
+      "name": "00:30",
+      "url": "https://open.spotify.com/track/3Bx3qSUR9sknD4ATISqAGD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hora do Show",
         "url": "https://open.spotify.com/album/2A5UWu3yNNrnfbAfICNnV2"
       },
@@ -1243,26 +1263,6 @@
       "duration_ms": 360000,
       "name": "Eles N\u00e3o Ligam Pra Gente",
       "url": "https://open.spotify.com/track/0QTcx4DhVrU7jcYRBVDVvW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mano N\u00e3o Toca na Lace",
-        "url": "https://open.spotify.com/album/0yz6edkbA6yhoNd3BXU8BE"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        }
-      ],
-      "duration_ms": 205194,
-      "name": "00:30",
-      "url": "https://open.spotify.com/track/3Bx3qSUR9sknD4ATISqAGD"
     },
     {
       "added_at": null,

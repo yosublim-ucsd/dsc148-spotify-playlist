@@ -10741,6 +10741,24 @@
     },
     {
       "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/1iatPiu9HHlD4GYtyME56A"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167219,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4CnDbDsp8M84paAlyPpVpf"
+    },
+    {
+      "album": {
         "name": "LUCKY BELL",
         "url": "https://open.spotify.com/album/7cYsRrPEgsvZmrGeUJXuf6"
       },
@@ -13958,6 +13976,24 @@
       "duration_ms": 207506,
       "name": "Replay",
       "url": "https://open.spotify.com/track/4b33wUnbWt4YSZLWkwtlds"
+    },
+    {
+      "album": {
+        "name": "REVERSE",
+        "url": "https://open.spotify.com/album/2agh9SrSkdac9tUYbHOeum"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210521,
+      "name": "REVERSE",
+      "url": "https://open.spotify.com/track/5KlKadHo3z2nuSpWZNgpj3"
     },
     {
       "album": {

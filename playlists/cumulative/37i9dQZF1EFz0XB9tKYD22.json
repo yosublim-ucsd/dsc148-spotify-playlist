@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 240840,
       "name": "23 Degrees And South",
       "url": "https://open.spotify.com/track/3eKwcOjuBr5xKwuguvUIYE"
@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "Rope the Wind",
+        "url": "https://open.spotify.com/album/7p7wXeb04T2GreanVqeoQo"
+      },
+      "artists": [
+        {
+          "name": "Amanda Kate Ferris",
+          "url": "https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49"
+        }
+      ],
+      "date_added": "2024-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183763,
+      "name": "Baby Don't",
+      "url": "https://open.spotify.com/track/6KoQOHQDZrpYUb0l8yMTP6"
+    },
+    {
+      "album": {
         "name": "Baby Don't",
         "url": "https://open.spotify.com/album/5GrCqh0RekK6OMylsM5B36"
       },
@@ -290,7 +308,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 183763,
       "name": "Baby Don't",
       "url": "https://open.spotify.com/track/7e1aZNKzXgevv7SiLo4I6G"
@@ -2586,7 +2604,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 239933,
       "name": "I'm Gone",
       "url": "https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb"
@@ -4034,7 +4052,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 169225,
       "name": "Relapse",
       "url": "https://open.spotify.com/track/5FNnv4NtUeXrCBChLiXJq8"

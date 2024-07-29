@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL?si=SrS0BvSlRcyRO2IIT9TcYQ">Blxckie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,879 likes - 81 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,938 likes - 81 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

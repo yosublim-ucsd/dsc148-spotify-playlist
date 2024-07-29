@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-24",
-  "description": "This is Yuki Hayashi. The essential tracks, all in one playlist.",
+  "description": "This Is Yuki Hayashi. Los temas esenciales, todos en una lista.",
   "name": "This Is Yuki Hayashi",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 113100,
       "name": "Go Straight!",
       "url": "https://open.spotify.com/track/6FB9Fhfjx5NJETCcCyzRgb"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 174813,
       "name": "Goggles",
       "url": "https://open.spotify.com/track/1Xr2Hmtg9FTvCWQUhsAenT"
@@ -2048,7 +2048,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 125240,
       "name": "\u7206\u6bba\u738b!!",
       "url": "https://open.spotify.com/track/3zTlEfMGB9sQyyqDQMdlHn"
@@ -2192,7 +2192,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 111333,
       "name": "\u7d04\u675f\u306e\u5730",
       "url": "https://open.spotify.com/track/4oSiY256lSzrHjvLRTBIcH"

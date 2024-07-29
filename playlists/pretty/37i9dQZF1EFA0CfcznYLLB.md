@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,807 likes - 312 songs - 16 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,806 likes - 312 songs - 16 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -271,8 +271,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 261 | [Hood Bitch Aesthetic](https://open.spotify.com/track/2rVMvrKpFmnpVRxRNWIywy) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Hood Bitch Aesthetic](https://open.spotify.com/album/6am3JP04WcRJlPeqIYJJVj) | 3:14 |
 | 262 | [Blowing The Speakers](https://open.spotify.com/track/794HAqmMJaLZAFWiNhXhaL) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Extinction Level Event 2: The Wrath of God \(Reloaded\)](https://open.spotify.com/album/5igW9I1J6tjmUWHN6PGLte) | 3:18 |
 | 263 | [Me Too](https://open.spotify.com/track/7sqrit5R5kBEQ7yZENxvZB) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:28 |
-| 264 | [Whip\-It](https://open.spotify.com/track/3gIk2QR7SdWfOcrNBItrYA) | [1UP](https://open.spotify.com/artist/7IbckQDhWF6ppQmWT5kCF7) | [Whip\-It](https://open.spotify.com/album/5ZSPQPfFMu0s3mpTL1sKpI) | 4:31 |
-| 265 | [Bigger in Texas](https://open.spotify.com/track/0x3R23PwarBJhGuzwW8hNm) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 3:13 |
+| 264 | [Bigger in Texas](https://open.spotify.com/track/0x3R23PwarBJhGuzwW8hNm) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 3:13 |
+| 265 | [Whip\-It](https://open.spotify.com/track/3gIk2QR7SdWfOcrNBItrYA) | [1UP](https://open.spotify.com/artist/7IbckQDhWF6ppQmWT5kCF7) | [Whip\-It](https://open.spotify.com/album/5ZSPQPfFMu0s3mpTL1sKpI) | 4:31 |
 | 266 | [Murda \(with Murda Beatz feat\. Toosii\)](https://open.spotify.com/track/0RvSaJ0W8n89cb0uVoV9H8) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Welcome To 4 Vegas](https://open.spotify.com/album/5o1mQH493nGffEPnxekTR6) | 2:42 |
 | 267 | [STAY](https://open.spotify.com/track/2oUDKHh167OCCMM2gsuriP) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [MANN IM HAUS](https://open.spotify.com/album/39cLzKdoghJ200CzrrZRUh) | 2:00 |
 | 268 | [Drink](https://open.spotify.com/track/6GMIL1PfCZwsEG1QaP7ewz) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:26 |
@@ -285,8 +285,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 275 | [First Kiss \(feat\. Baby B\)](https://open.spotify.com/track/6gjmDDykrR94ICwRfCx7Gf) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Baby B](https://open.spotify.com/artist/27ZbiMM7xyzIzM68B6fS7q) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 3:21 |
 | 276 | [Farmers Market](https://open.spotify.com/track/1v58rKXHAc5dqxEXKWC3ql) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:27 |
 | 277 | [Bricks \(feat\. Giggs\)](https://open.spotify.com/track/6LwYXkYclfcQvNGndZJZHQ) | [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Struggle Before Glory](https://open.spotify.com/album/6cguupMoW9kXgg6Nbuk6fC) | 3:03 |
-| 278 | [Ova Here](https://open.spotify.com/track/5OiO8JbawNT0Aztc1rB3lN) | [Fredo Santana](https://open.spotify.com/artist/6I9TgZbapKRXsunA05fiPl) | [Trappin' Ain't Dead](https://open.spotify.com/album/10m5vXmKXzwleTr472dKgF) | 3:18 |
-| 279 | [A Nice Time](https://open.spotify.com/track/4eb21fsZhCL2l5Q2C7a2c1) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 3:03 |
+| 278 | [A Nice Time](https://open.spotify.com/track/4eb21fsZhCL2l5Q2C7a2c1) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 3:03 |
+| 279 | [Ova Here](https://open.spotify.com/track/5OiO8JbawNT0Aztc1rB3lN) | [Fredo Santana](https://open.spotify.com/artist/6I9TgZbapKRXsunA05fiPl) | [Trappin' Ain't Dead](https://open.spotify.com/album/10m5vXmKXzwleTr472dKgF) | 3:18 |
 | 280 | [Too Many](https://open.spotify.com/track/3vbvylwEVk3GDKf5W6uKPZ) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:39 |
 | 281 | [Fuck With My High](https://open.spotify.com/track/2bjUFnnP61BcOUE6fDd2SK) | [Honors](https://open.spotify.com/artist/1DIr8qPcgJS50FFNfC3nnp) | [Feel Better](https://open.spotify.com/album/5ffDmmCZHSnH4XhU7XHLQx) | 3:13 |
 | 282 | [island](https://open.spotify.com/track/1pOqZgIAfN0kgiJKJKNeHJ) | [Lee](https://open.spotify.com/artist/0llIp92s72MGxqoJviNjGC) | [Lo\-fi of Lee](https://open.spotify.com/album/3YpkgY5WXsts05RJ154gcf) | 4:37 |
@@ -321,4 +321,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 311 | [On God](https://open.spotify.com/track/1rmWQqmKWRtm9bks6Lr0Sp) | [Majin Murda](https://open.spotify.com/artist/7LLv3nfvIIYTqBAV8XjlO9) | [3K](https://open.spotify.com/album/7zjBIckQRALycP2MCWEYUg) | 3:27 |
 | 312 | [Peace Of Mind](https://open.spotify.com/track/6xISF2zBnsQ8SGWT4KmWsC) | [Heightsbaby](https://open.spotify.com/artist/4fEE1O32L50PqVbKhnfkCD) | [Peace Of Mind](https://open.spotify.com/album/1Kqzy0cn7DIKQKkHqTqQD6) | 2:55 |
 
-Snapshot ID: `AbX2RAAAAAAfZCjX18TZhRIk+6MjmTrp`
+Snapshot ID: `AbX7ogAAAACtrLCquDXBbjU54fyBMedT`

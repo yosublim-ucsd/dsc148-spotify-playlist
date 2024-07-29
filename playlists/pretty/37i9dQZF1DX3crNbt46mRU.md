@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Calvin Harris, Ellie Goulding
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,511 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,513 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 50 | [Fantasia](https://open.spotify.com/track/5xypiIRm7ILzbz0kze92u6) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Devito](https://open.spotify.com/artist/0JQ4vokBBqHxHzRb36fSWN) | [Fantasia](https://open.spotify.com/album/5NXVPkMBEozDLKI25LCrtu) | 2:20 |
 | 51 | [Tempt Me](https://open.spotify.com/track/3CAws2VaEfaIvOeTcXVpGi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Tempt Me](https://open.spotify.com/album/7ehRZk4A4DfCtxrg7Omgvk) | 2:10 |
 | 52 | [NO REST](https://open.spotify.com/track/1SozVkLAPt6gDrD0nZ9RNU) | [Rapture Boy](https://open.spotify.com/artist/43Edxwc4O5syVCcKP9biaN) | [NO REST](https://open.spotify.com/album/4Q8w2HE93OtPYUPGkiDv9x) | 3:20 |
-| 53 | [Ganz nach vorn](https://open.spotify.com/track/5Rg8ovZO0Tt1vtnX0VrcCw) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [Ganz nach vorn](https://open.spotify.com/album/3njVPngde3AZZWfhtTOCZK) | 2:50 |
+| 53 | [ganz nach vorn](https://open.spotify.com/track/5Rg8ovZO0Tt1vtnX0VrcCw) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [ganz nach vorn](https://open.spotify.com/album/3njVPngde3AZZWfhtTOCZK) | 2:50 |
 | 54 | [RITALIN](https://open.spotify.com/track/5kdAL3H0vfAeHBvTwXskGm) | [Yung Yury](https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz), [Damn Yury](https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ) | [RITALIN](https://open.spotify.com/album/1P1HJNk5nShEUSMejG8xLg) | 2:44 |
 | 55 | [Let It Go](https://open.spotify.com/track/6GBYaWxdx9iBa9R3TNGaKh) | [Our Anthem](https://open.spotify.com/artist/0yvdg5HZnoTbaawqVloMZl), [Niko Pantano](https://open.spotify.com/artist/4UEquNrhuPlChfSyHLMCDs) | [Let It Go](https://open.spotify.com/album/4wYE2TZL37OvSYLPxEF9La) | 3:31 |
 | 56 | [Space Age](https://open.spotify.com/track/5XyN6Z8dX6b6dtZHK9FCcv) | [RAR](https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya) | [Space Age](https://open.spotify.com/album/7r3XS7ra75dIjekEjdO8Ao) | 2:24 |

@@ -774,9 +774,27 @@
           "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
         }
       ],
-      "date_added": "2023-05-02",
+      "date_added": "2024-07-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 58280,
+      "name": "Stone (Reprise)",
+      "url": "https://open.spotify.com/track/7y8iLmxJCdvy43daCDo1YM"
+    },
+    {
+      "album": {
+        "name": "Lucid",
+        "url": "https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-07-29",
       "duration_ms": 251298,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/7qKWAtneIWuObMgaj57yvx"

@@ -1,6 +1,6 @@
 {
   "description": "Latin gems you absolutely need to hear. Save them before they're gone!",
-  "num_followers": 3007,
+  "num_followers": 3014,
   "original_name": "Songs You Should Save",
   "owner": {
     "name": "Spotify",
@@ -303,46 +303,6 @@
     {
       "added_at": "2024-07-16 15:43:56",
       "album": {
-        "name": "Malbec",
-        "url": "https://open.spotify.com/album/6tE7zlSvK0QmTK1cxw5g7m"
-      },
-      "artists": [
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 264058,
-      "name": "Malbec",
-      "url": "https://open.spotify.com/track/3T3PXtfMI5oHdzOViRsJ3g"
-    },
-    {
-      "added_at": "2024-07-16 15:43:56",
-      "album": {
-        "name": "Qui\u00e9n es Dei V?",
-        "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 154277,
-      "name": "Ticke (with YOVNGCHIMI)",
-      "url": "https://open.spotify.com/track/0QAkNmKS8bYmnAm6IQfFMj"
-    },
-    {
-      "added_at": "2024-07-16 15:43:56",
-      "album": {
         "name": "LAGRIMAS DE UN MALEANTE",
         "url": "https://open.spotify.com/album/4hzbSxExXzavyIJGmqQb5q"
       },
@@ -367,6 +327,26 @@
     {
       "added_at": "2024-07-16 15:43:56",
       "album": {
+        "name": "Malbec",
+        "url": "https://open.spotify.com/album/6tE7zlSvK0QmTK1cxw5g7m"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 264058,
+      "name": "Malbec",
+      "url": "https://open.spotify.com/track/3T3PXtfMI5oHdzOViRsJ3g"
+    },
+    {
+      "added_at": "2024-07-16 15:43:56",
+      "album": {
         "name": "sorry es que soy bipolarrr",
         "url": "https://open.spotify.com/album/3ll4hIoivK1wpONt3MDxg5"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 220553,
       "name": "sorry es que soy bipolarrr",
       "url": "https://open.spotify.com/track/33BselzygJVodjKKHVLpiH"
+    },
+    {
+      "added_at": "2024-07-16 15:43:56",
+      "album": {
+        "name": "Qui\u00e9n es Dei V?",
+        "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 154277,
+      "name": "Ticke (with YOVNGCHIMI)",
+      "url": "https://open.spotify.com/track/0QAkNmKS8bYmnAm6IQfFMj"
     },
     {
       "added_at": "2024-07-16 15:43:56",

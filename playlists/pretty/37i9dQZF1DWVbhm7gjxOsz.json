@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 82641,
+  "num_followers": 82754,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Oogum Boogum",
-        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 141329,
-      "name": "Gimme Little Sign",
-      "url": "https://open.spotify.com/track/1h4XVjt26ZCDKmeEoHxT07"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Baby, I'm For Real",
         "url": "https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn"
       },
@@ -519,18 +503,18 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "The Delfonics",
-        "url": "https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX"
+        "name": "Oogum Boogum",
+        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
       },
       "artists": [
         {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
         }
       ],
-      "duration_ms": 201066,
-      "name": "Didn't I (Blow Your Mind This Time)",
-      "url": "https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q"
+      "duration_ms": 141329,
+      "name": "Gimme Little Sign",
+      "url": "https://open.spotify.com/track/1h4XVjt26ZCDKmeEoHxT07"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -551,18 +535,18 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Baby You Got It",
-        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
+        "name": "The Delfonics",
+        "url": "https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX"
       },
       "artists": [
         {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 182266,
-      "name": "Me And You",
-      "url": "https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy"
+      "duration_ms": 201066,
+      "name": "Didn't I (Blow Your Mind This Time)",
+      "url": "https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -647,22 +631,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Baby You Got It",
-        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 128546,
-      "name": "Baby You Got It",
-      "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "The Skyliners",
         "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
       },
@@ -675,6 +643,22 @@
       "duration_ms": 158840,
       "name": "Since I Don't Have You (Alternative Take)",
       "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Baby You Got It",
+        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Me And You",
+      "url": "https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -775,6 +759,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "Baby You Got It",
+        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 128546,
+      "name": "Baby You Got It",
+      "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "The One Who Really Loves You",
         "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
       },
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "The Never Ending Impressions",
-        "url": "https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF"
-      },
-      "artists": [
-        {
-          "name": "The Impressions",
-          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
-        }
-      ],
-      "duration_ms": 171506,
-      "name": "I'm So Proud",
-      "url": "https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "With Love",
         "url": "https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 285098,
       "name": "Make It With You",
       "url": "https://open.spotify.com/track/1MTjPvCioj81IsSX66IB2a"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "The Never Ending Impressions",
+        "url": "https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF"
+      },
+      "artists": [
+        {
+          "name": "The Impressions",
+          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
+        }
+      ],
+      "duration_ms": 171506,
+      "name": "I'm So Proud",
+      "url": "https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "The One Who Really Loves You",
-        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 147466,
-      "name": "The One Who Really Loves You - Single Version",
-      "url": "https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Frost Presents...Raza Radio",
         "url": "https://open.spotify.com/album/5OcYPEWf4e0R673hpjY3Mj"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 212880,
       "name": "On A Sunday Afternoon",
       "url": "https://open.spotify.com/track/1cM25iyn6zKOfnywTNtvyb"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "The One Who Really Loves You",
+        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 147466,
+      "name": "The One Who Really Loves You - Single Version",
+      "url": "https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Cowboys to Girls",
-        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 117133,
-      "name": "Sad Girl",
-      "url": "https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Why Can't We Be Friends?",
         "url": "https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 173893,
       "name": "You Really Got a Hold on Me",
       "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Cowboys to Girls",
+        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 117133,
+      "name": "Sad Girl",
+      "url": "https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Dreams Of Contentment (Special Deluxe Collection)",
-        "url": "https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI"
-      },
-      "artists": [
-        {
-          "name": "The Dells",
-          "url": "https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S"
-        }
-      ],
-      "duration_ms": 176493,
-      "name": "Oh What A Nite",
-      "url": "https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "The Essential Deniece Williams (The Columbia Years)",
         "url": "https://open.spotify.com/album/25qqog5H79rZqzrAn93OJv"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 250813,
       "name": "It's Gonna Take a Miracle",
       "url": "https://open.spotify.com/track/498ExGFcwgi7zF7qHOUD2x"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Dreams Of Contentment (Special Deluxe Collection)",
+        "url": "https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI"
+      },
+      "artists": [
+        {
+          "name": "The Dells",
+          "url": "https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S"
+        }
+      ],
+      "duration_ms": 176493,
+      "name": "Oh What A Nite",
+      "url": "https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Blue Eyes Crying In the Rain",
-        "url": "https://open.spotify.com/album/2F0Y7afprAxthyuz1LFxoC"
-      },
-      "artists": [
-        {
-          "name": "Little Caesar & the Romans",
-          "url": "https://open.spotify.com/artist/4jUkLFuoU0EMZbcP84QhsX"
-        }
-      ],
-      "duration_ms": 179480,
-      "name": "Those Oldies But Goodies Remind Me Of You",
-      "url": "https://open.spotify.com/track/6o3R69ldWuqUIQzSHKlu2I"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Chess Soul: A Decade Of Chicago\u2019s Finest",
         "url": "https://open.spotify.com/album/4c9TWEY7mW9Z2CWpc7MIlw"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 152693,
       "name": "Searching For My Love",
       "url": "https://open.spotify.com/track/0Q25xKgIaiT5JTDCT0qMea"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Blue Eyes Crying In the Rain",
+        "url": "https://open.spotify.com/album/2F0Y7afprAxthyuz1LFxoC"
+      },
+      "artists": [
+        {
+          "name": "Little Caesar & the Romans",
+          "url": "https://open.spotify.com/artist/4jUkLFuoU0EMZbcP84QhsX"
+        }
+      ],
+      "duration_ms": 179480,
+      "name": "Those Oldies But Goodies Remind Me Of You",
+      "url": "https://open.spotify.com/track/6o3R69ldWuqUIQzSHKlu2I"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "Dedicated to the Ones I Love, Vol. 2",
+        "url": "https://open.spotify.com/album/136641IlsqgJbCADEqlwqp"
+      },
+      "artists": [
+        {
+          "name": "Trish Toledo",
+          "url": "https://open.spotify.com/artist/2ZZZ8cXLBRgiH6fiwaA0Ah"
+        }
+      ],
+      "duration_ms": 231360,
+      "name": "Tell It Like It Is",
+      "url": "https://open.spotify.com/track/1d9KuwEUyhp1rH7psfJhml"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "For Collectors Only",
         "url": "https://open.spotify.com/album/56XCkJo7HtVwYmGSrt2vHo"
       },
@@ -1743,38 +1759,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Two Lovers",
-        "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 170439,
-      "name": "Laughing Boy",
-      "url": "https://open.spotify.com/track/3jnxnBVwaRUMYuQQmts6YR"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "Dedicated to the Ones I Love, Vol. 2",
-        "url": "https://open.spotify.com/album/136641IlsqgJbCADEqlwqp"
-      },
-      "artists": [
-        {
-          "name": "Trish Toledo",
-          "url": "https://open.spotify.com/artist/2ZZZ8cXLBRgiH6fiwaA0Ah"
-        }
-      ],
-      "duration_ms": 231360,
-      "name": "Tell It Like It Is",
-      "url": "https://open.spotify.com/track/1d9KuwEUyhp1rH7psfJhml"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Let's Fall In Love",
         "url": "https://open.spotify.com/album/49nlhVLzVXtBFUyeQt67NU"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 207920,
       "name": "Takin' All My Lovin'",
       "url": "https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Two Lovers",
+        "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 170439,
+      "name": "Laughing Boy",
+      "url": "https://open.spotify.com/track/3jnxnBVwaRUMYuQQmts6YR"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -2187,6 +2187,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "Between The Sheets",
+        "url": "https://open.spotify.com/album/3c6YALUwfrJ1wIW5pWjpUc"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 338133,
+      "name": "Between the Sheets",
+      "url": "https://open.spotify.com/track/53HL9X1ZFXUvN8OS7HsHCX"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "SalSoul",
         "url": "https://open.spotify.com/album/6ehe5lPsXzxcNU69NSCi0W"
       },
@@ -2235,6 +2251,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "Float On",
+        "url": "https://open.spotify.com/album/3myYvqFdL0jHBzO97TFJuH"
+      },
+      "artists": [
+        {
+          "name": "The Floaters",
+          "url": "https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS"
+        }
+      ],
+      "duration_ms": 708866,
+      "name": "Float On",
+      "url": "https://open.spotify.com/track/4YmKTCL86mpGHUS0sEWAUV"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "Seems Like",
         "url": "https://open.spotify.com/album/3IaDaFiGolUI09rcE8q5m8"
       },
@@ -2263,38 +2295,6 @@
       "duration_ms": 163160,
       "name": "Tired Of Being Alone",
       "url": "https://open.spotify.com/track/6d9rNfRFOQ0XmsUwJ8C5J0"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "Between The Sheets",
-        "url": "https://open.spotify.com/album/3c6YALUwfrJ1wIW5pWjpUc"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 338133,
-      "name": "Between the Sheets",
-      "url": "https://open.spotify.com/track/53HL9X1ZFXUvN8OS7HsHCX"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "Float On",
-        "url": "https://open.spotify.com/album/3myYvqFdL0jHBzO97TFJuH"
-      },
-      "artists": [
-        {
-          "name": "The Floaters",
-          "url": "https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS"
-        }
-      ],
-      "duration_ms": 708866,
-      "name": "Float On",
-      "url": "https://open.spotify.com/track/4YmKTCL86mpGHUS0sEWAUV"
     },
     {
       "added_at": "2024-01-05 17:02:31",

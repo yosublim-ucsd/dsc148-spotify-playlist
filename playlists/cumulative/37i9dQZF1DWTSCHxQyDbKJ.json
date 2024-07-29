@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/0gF03DYa7rRpGuSS6jx66Q"
+      },
+      "artists": [
+        {
+          "name": "Dr\u00e9ya Mac",
+          "url": "https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135616,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/4kEt94IvVWYL46YiHhRdNB"
+    },
+    {
+      "album": {
         "name": "Peanuts",
         "url": "https://open.spotify.com/album/4umimrxQlVJj2YyiFjAnlJ"
       },
@@ -1646,7 +1664,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 170107,
       "name": "Second Best",
       "url": "https://open.spotify.com/track/2y4smdlMAA7Fg6I7iyDHjK"

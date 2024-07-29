@@ -4,7 +4,7 @@
 
 > Para cantar y recordar.
 
-183 songs - 13 hr 56 min
+184 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [El Mejoral](https://open.spotify.com/track/2DC0zlc3e0Um8NdX4PVGkr) | [Javier Vega](https://open.spotify.com/artist/2vOmk7qYwuHUpQwW6AmHKV), [Julio Rojas](https://open.spotify.com/artist/4ggsID5la9TdapHKim9wSc) | [Rafael Escalona\. Vida y Cantos del Maestro Vallenato](https://open.spotify.com/album/4NrKBMKANQ8n9Q3vJ1pc9p) | 6:58 | 2022-01-24 | 2023-02-14 |
 | [El Mochuelo](https://open.spotify.com/track/6FR7xaR63YOQ6EQn5qsYw7) | [100 Años de Vallenato](https://open.spotify.com/artist/5yY5ocGq1YAS3yjoXrRk6p), [Ismael Rudas](https://open.spotify.com/artist/1Q9t63kYBZgRHiasXyNpo8), [Daniel Celedón](https://open.spotify.com/artist/1ikKJpdFazshgkei0dMuTY) | [100 Años de Vallenato \(Vol.6\)](https://open.spotify.com/album/7iUxkFqdQMnGHgjcueG11h) | 5:51 | 2022-01-24 | 2023-02-14 |
 | [El Santo Cachon](https://open.spotify.com/track/3zR4QhbiQ7zZ6eR58jT43d) | [Los Embajadores Vallenato](https://open.spotify.com/artist/2J95wKK8c7dnly0hkJ2b6X) | [Grandes Exitos](https://open.spotify.com/album/3RsbxYK9uTkSMZTDqNaJnM) | 4:29 | 2023-04-24 | 2023-05-27 |
+| [El Santo Cachón](https://open.spotify.com/track/0ccHYF0xpaJe0fymGmr7ri) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Grandes Éxitos \- Los Embajadores Vallenatos](https://open.spotify.com/album/2vttfGimI3QtJ8wlScNwTM) | 4:26 | 2024-05-28 |  |
 | [El Testamento](https://open.spotify.com/track/03CyZPzow3E2alCgN548Jv) | [100 Años de Vallenato](https://open.spotify.com/artist/5yY5ocGq1YAS3yjoXrRk6p), [Ismael Rudas](https://open.spotify.com/artist/1Q9t63kYBZgRHiasXyNpo8), [Daniel Celedón](https://open.spotify.com/artist/1ikKJpdFazshgkei0dMuTY) | [100 Años de Vallenato \(Vol\. 1\)](https://open.spotify.com/album/0UBSkeEsk6tTrIwwcDDEAi) | 4:45 | 2022-01-24 | 2023-02-14 |
 | [Elegía a Jaime Molina](https://open.spotify.com/track/6YVCLjX2w2KmLHVkJyrzbK) | [100 Años de Vallenato](https://open.spotify.com/artist/5yY5ocGq1YAS3yjoXrRk6p), [Colacho Mendoza](https://open.spotify.com/artist/54LZrrClgVEeAQcFrk3BJj), [Ivo Díaz](https://open.spotify.com/artist/3IB8nphiHdMaKHT27tq8rE) | [100 Años de Vallenato \(Vol.5\)](https://open.spotify.com/album/3BIfC0ZUGCf3VgleF0t62E) | 3:42 | 2022-01-24 | 2023-02-14 |
 | [Ella Se Llevó Mi Vida](https://open.spotify.com/track/6yDLi3sgYTBPSnNkNsEP9Z) | [Wilfran Castillo](https://open.spotify.com/artist/1KDd0gF0WMZeFeHV2JRj1L) | [Sentido Común Volume 1](https://open.spotify.com/album/7ynJAJPX7pJOCAax0DXWdX) | 4:38 | 2023-12-21 |  |
@@ -189,7 +190,7 @@
 | [Una Hoja En Blanco](https://open.spotify.com/track/0LfnaW1b5ZumdsjVbJf5YK) | [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR) | [Nace Del Alma](https://open.spotify.com/album/5zkLDGfwYl6i5v0WQxp6po) | 4:45 | 2023-12-21 |  |
 | [Una Hoja en Blanco](https://open.spotify.com/track/3G5OfJVzos5wI0L09oyTOW) | [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR), [Esmeralda](https://open.spotify.com/artist/58yU6MSNwlAbu5NRnLOzFu) | [Nace Del Alma](https://open.spotify.com/album/7CL4FmomsC1pPNHNs1mXjW) | 4:44 | 2023-02-13 | 2024-04-19 |
 | [Vivo en el limbo](https://open.spotify.com/track/6qvCE9WhoF57af6boMwaOz) | [Kaleth Morales](https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH), [Andres Herrera](https://open.spotify.com/artist/2b7FVYTLTkP4YTT0VokeJU) | [La Hora de la Verdad](https://open.spotify.com/album/3Go9Lvj1m9UOzidlfDOFVA) | 6:16 | 2023-02-13 |  |
-| [Volver](https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6) | 4:52 | 2023-12-21 |  |
+| [Volver](https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6) | 4:52 | 2023-12-21 | 2024-07-29 |
 | [Volver](https://open.spotify.com/track/76k5BZctXgW2IyrYjKGNP6) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 4:54 | 2023-02-13 | 2024-04-19 |
 
 \*This playlist was first scraped on 2022-12-17. Prior content cannot be recovered.

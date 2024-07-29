@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: ヤングスキニー
 
-778 songs - 1 day 17 hr 27 min
+779 songs - 1 day 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [ANTI ANGER CONTROL](https://open.spotify.com/track/1uPPNErpuO72oAPnzwhdzn) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [i!i!i!i!](https://open.spotify.com/album/4fSo1ByAhFJSzhQ5YyMDaZ) | 1:43 | 2023-04-11 | 2023-05-10 |
 | [ANTI ANGER CONTROL](https://open.spotify.com/track/7gCK924WHhp6UjPy1rx42a) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [ANTI ANGER CONTROL](https://open.spotify.com/album/5QW0ez7DWsFBWqVE6jFD7n) | 1:45 | 2023-03-07 | 2023-04-12 |
 | [Ashtray](https://open.spotify.com/track/4wFaKe5coaqpWw38VJUqNo) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 2:18 | 2022-05-17 | 2022-07-26 |
-| [Ato\-Ichinene](https://open.spotify.com/track/0dWj7tC2TQaz8854rKZ5xD) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [Little Playmate](https://open.spotify.com/album/6UFJosFQcUU2Pj3EZJP9Mt) | 3:02 | 2022-05-17 |  |
+| [Ato\-Ichinene](https://open.spotify.com/track/0dWj7tC2TQaz8854rKZ5xD) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [Little Playmate](https://open.spotify.com/album/6UFJosFQcUU2Pj3EZJP9Mt) | 3:02 | 2022-05-17 | 2024-07-29 |
 | [Awaking Now](https://open.spotify.com/track/4WAmdwMGWeWW85onNiOw84) | [ONIONRING](https://open.spotify.com/artist/45b4d7M7mlDpXAYFK3JZ5w) | [Trajectory](https://open.spotify.com/album/1hCK81KZpUEhQHrk7s3mYh) | 2:28 | 2022-05-12 | 2022-07-21 |
 | [Ayanami](https://open.spotify.com/track/34RGbpH0MRSxL0OQssmHQ3) | [sayonaramiochan](https://open.spotify.com/artist/7LBBSHQF4grvtHDGE8EfK7) | [Ayanami](https://open.spotify.com/album/43BEXRAxuNoWu86ad3ti8I) | 2:57 | 2024-01-25 | 2024-04-19 |
 | [Ball & Cube with Vegetable](https://open.spotify.com/track/2R6jjHhOzuwh5dfpDEqz99) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [鄙、天国](https://open.spotify.com/album/5qrUsfI8Hre2TH3DYtWUhe) | 3:09 | 2022-08-09 | 2023-02-22 |
@@ -647,6 +647,7 @@
 | [ディストラクション・シスターズ](https://open.spotify.com/track/7Lr7JP6qEkoDMGFHtyrJHa) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/4t2okOrlqsIZ15pZfdhtuZ) | 2:30 | 2023-09-28 | 2023-09-30 |
 | [トライアングル](https://open.spotify.com/track/0RWjmkpOBORnRYE9RmspiO) | [Heavenstamp](https://open.spotify.com/artist/72Ejp7y60pGCASGkZ8ZAzI) | [トライアングル](https://open.spotify.com/album/0J9pydBaNaLxr4Et8E4TzH) | 1:42 | 2023-07-20 | 2023-10-04 |
 | [ドブ川にサヨナラ](https://open.spotify.com/track/3omVAHBli472mnyUQ2xEKu) | [PROM](https://open.spotify.com/artist/2gv2xgqjo0hWWwmaF9ddQw) | [HYPER ACTIVE BLUES](https://open.spotify.com/album/51GLlQMiCQLluqWDYkH3e3) | 5:51 | 2022-05-31 | 2022-06-23 |
+| [ハイエースナンバー](https://open.spotify.com/track/6DuWwQPRJwbfTygikrxOJv) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [ハイエースナンバー](https://open.spotify.com/album/4ZHJRDBCYVAazMCS0SO56e) | 3:08 | 2024-07-16 |  |
 | [ハイライト](https://open.spotify.com/track/0iMrvYZ2ULhJxSDUNYv8K9) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [アイラヴユー](https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs) | 4:09 | 2022-07-21 | 2023-03-22 |
 | [ハイライト](https://open.spotify.com/track/5Npp3O30GPR0RrGGZv9wOl) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [ハイライト](https://open.spotify.com/album/1Yj1VMprH0iGbfy64WzopR) | 4:12 | 2022-05-24 | 2022-07-12 |
 | [ハジケパワフル](https://open.spotify.com/track/3Ka2PjEdllVIINkOgZMWUO) | [南無阿部陀仏](https://open.spotify.com/artist/5d3O7Y0ejEy42d6QJaqCvQ) | [ハジケパワフル](https://open.spotify.com/album/4fNldFeac2DHWL9xb2upSY) | 3:22 | 2022-06-07 | 2022-07-15 |

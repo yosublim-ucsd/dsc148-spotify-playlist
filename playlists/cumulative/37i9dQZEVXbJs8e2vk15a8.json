@@ -7499,6 +7499,24 @@
     },
     {
       "album": {
+        "name": "Chika Cara",
+        "url": "https://open.spotify.com/album/3mItWifXNOLzqzCcXoBGFM"
+      },
+      "artists": [
+        {
+          "name": "Lockbnja",
+          "url": "https://open.spotify.com/artist/6A1PvH9bAmTmMyBmDe7V7K"
+        }
+      ],
+      "date_added": "2024-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90827,
+      "name": "Chika Cara",
+      "url": "https://open.spotify.com/track/0C1r4SlDLKxLfPegwHEhfI"
+    },
+    {
+      "album": {
         "name": "Chipi Chipi Chapa Chapa",
         "url": "https://open.spotify.com/album/5F1cOAxZbtA379LrMe59ZH"
       },
@@ -27256,7 +27274,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 192253,
       "name": "No Vas a Encontrar",
       "url": "https://open.spotify.com/track/1GGpgUDxD5bjEq0OSEDTvc"
@@ -35174,7 +35192,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 156000,
       "name": "SI NO ES CONTIGO",
       "url": "https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L"
@@ -37242,7 +37260,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 157593,
       "name": "S\u00f3lida",
       "url": "https://open.spotify.com/track/7eTTWunsR2Z1z5plDYKk6C"
@@ -37778,6 +37796,28 @@
       "duration_ms": 153153,
       "name": "TE FUI A SEGUIR",
       "url": "https://open.spotify.com/track/2vRmz7wDDxRY4zPSzwEmIT"
+    },
+    {
+      "album": {
+        "name": "Te Gusto Este Bambini",
+        "url": "https://open.spotify.com/album/3ELhNYh2QWlpis2MbrwiDo"
+      },
+      "artists": [
+        {
+          "name": "El Real Baby",
+          "url": "https://open.spotify.com/artist/2CHrNSNUmToMvzXxigYrKa"
+        },
+        {
+          "name": "Shondy La Nota Discordante",
+          "url": "https://open.spotify.com/artist/32XS38UBLuW8TQqATg8Wxz"
+        }
+      ],
+      "date_added": "2024-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148845,
+      "name": "Te Gusto Este Bambini",
+      "url": "https://open.spotify.com/track/7rE0wUkXgHp8vO5518kilM"
     },
     {
       "album": {
@@ -39604,7 +39644,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-29",
       "duration_ms": 358000,
       "name": "True Love",
       "url": "https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW"

@@ -1,6 +1,6 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 289703,
+  "num_followers": 289722,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-07-05 22:38:35",
       "album": {
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 127560,
+      "name": "Heartbreak Hotel",
+      "url": "https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio"
+    },
+    {
+      "added_at": "2024-07-05 22:38:35",
+      "album": {
         "name": "Vintage Collections",
         "url": "https://open.spotify.com/album/5qWqMyXJ9uOCl6vEIVKqBD"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 158306,
       "name": "Sixteen Tons",
       "url": "https://open.spotify.com/track/3P6OwCX7Ofiaaqtvujb6i5"
-    },
-    {
-      "added_at": "2024-07-05 22:38:35",
-      "album": {
-        "name": "Conway Twitty Sings",
-        "url": "https://open.spotify.com/album/3niZ3iipFSFzO6335VBZiP"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 132026,
-      "name": "It's Only Make Believe",
-      "url": "https://open.spotify.com/track/1xVOttVNT27FBTD8iHjOfU"
     },
     {
       "added_at": "2024-07-05 22:38:35",
@@ -175,18 +175,18 @@
     {
       "added_at": "2024-07-05 22:38:35",
       "album": {
-        "name": "Elvis' Golden Records",
-        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+        "name": "Conway Twitty Sings",
+        "url": "https://open.spotify.com/album/3niZ3iipFSFzO6335VBZiP"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 127560,
-      "name": "Heartbreak Hotel",
-      "url": "https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio"
+      "duration_ms": 132026,
+      "name": "It's Only Make Believe",
+      "url": "https://open.spotify.com/track/1xVOttVNT27FBTD8iHjOfU"
     },
     {
       "added_at": "2024-07-05 22:38:35",
@@ -255,50 +255,18 @@
     {
       "added_at": "2024-07-05 22:38:35",
       "album": {
-        "name": "Songs Of Our Soil",
-        "url": "https://open.spotify.com/album/7oWFzGBweoGrFc2lxabmmP"
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 107280,
-      "name": "Five Feet High and Rising",
-      "url": "https://open.spotify.com/track/0KSHmjK7OFtGocvbo7NZNO"
-    },
-    {
-      "added_at": "2024-07-05 22:38:35",
-      "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Webb Pierce",
-        "url": "https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy"
-      },
-      "artists": [
-        {
-          "name": "Webb Pierce",
-          "url": "https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "There Stands The Glass",
-      "url": "https://open.spotify.com/track/0VxX3RBKO46Ky6XgvN0bME"
-    },
-    {
-      "added_at": "2024-07-05 22:38:35",
-      "album": {
-        "name": "The Best Of Duane Eddy",
-        "url": "https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf"
-      },
-      "artists": [
-        {
-          "name": "Duane Eddy",
-          "url": "https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91"
-        }
-      ],
-      "duration_ms": 153533,
-      "name": "Rebel Rouser",
-      "url": "https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN"
+      "duration_ms": 117080,
+      "name": "All Shook Up",
+      "url": "https://open.spotify.com/track/5ueyLj6e6oVaTY0KQ6yLaA"
     },
     {
       "added_at": "2024-07-05 22:38:35",
@@ -315,6 +283,38 @@
       "duration_ms": 123373,
       "name": "Saddle Tramp",
       "url": "https://open.spotify.com/track/68FTJoO8edSpzuYb6lGW6P"
+    },
+    {
+      "added_at": "2024-07-05 22:38:35",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 142906,
+      "name": "Bye Bye Love",
+      "url": "https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6"
+    },
+    {
+      "added_at": "2024-07-05 22:38:35",
+      "album": {
+        "name": "Songs Of Our Soil",
+        "url": "https://open.spotify.com/album/7oWFzGBweoGrFc2lxabmmP"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 107280,
+      "name": "Five Feet High and Rising",
+      "url": "https://open.spotify.com/track/0KSHmjK7OFtGocvbo7NZNO"
     },
     {
       "added_at": "2024-07-05 22:38:35",
@@ -339,8 +339,24 @@
     {
       "added_at": "2024-07-05 22:38:35",
       "album": {
-        "name": "Elvis' Golden Records",
-        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+        "name": "20th Century Masters: The Millennium Collection: Best Of Webb Pierce",
+        "url": "https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy"
+      },
+      "artists": [
+        {
+          "name": "Webb Pierce",
+          "url": "https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "There Stands The Glass",
+      "url": "https://open.spotify.com/track/0VxX3RBKO46Ky6XgvN0bME"
+    },
+    {
+      "added_at": "2024-07-05 22:38:35",
+      "album": {
+        "name": "For LP Fans Only",
+        "url": "https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU"
       },
       "artists": [
         {
@@ -348,25 +364,57 @@
           "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 117080,
-      "name": "All Shook Up",
-      "url": "https://open.spotify.com/track/5ueyLj6e6oVaTY0KQ6yLaA"
+      "duration_ms": 115280,
+      "name": "That's All Right",
+      "url": "https://open.spotify.com/track/0tHcXWIYt99GY8BONrPIfA"
     },
     {
       "added_at": "2024-07-05 22:38:35",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+        "name": "Gunfighter Ballads And Trail Songs",
+        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
       },
       "artists": [
         {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
         }
       ],
-      "duration_ms": 142906,
-      "name": "Bye Bye Love",
-      "url": "https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6"
+      "duration_ms": 185466,
+      "name": "The Master's Call",
+      "url": "https://open.spotify.com/track/62rmfpQuieSgCITPX819sR"
+    },
+    {
+      "added_at": "2024-07-05 22:38:35",
+      "album": {
+        "name": "The Best Of Duane Eddy",
+        "url": "https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf"
+      },
+      "artists": [
+        {
+          "name": "Duane Eddy",
+          "url": "https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91"
+        }
+      ],
+      "duration_ms": 153533,
+      "name": "Rebel Rouser",
+      "url": "https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN"
+    },
+    {
+      "added_at": "2024-07-05 22:38:35",
+      "album": {
+        "name": "This Is Jean Shepard",
+        "url": "https://open.spotify.com/album/5PsuJ2gGyTHhnWFrxbOrtV"
+      },
+      "artists": [
+        {
+          "name": "Jean Shepard",
+          "url": "https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty"
+        }
+      ],
+      "duration_ms": 148893,
+      "name": "A Satisfied Mind",
+      "url": "https://open.spotify.com/track/3EL0HtVljTy0kqgSNKe4cT"
     },
     {
       "added_at": "2024-07-05 22:38:35",
@@ -407,18 +455,18 @@
     {
       "added_at": "2024-07-05 22:38:35",
       "album": {
-        "name": "This Is Jean Shepard",
-        "url": "https://open.spotify.com/album/5PsuJ2gGyTHhnWFrxbOrtV"
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
       },
       "artists": [
         {
-          "name": "Jean Shepard",
-          "url": "https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 148893,
-      "name": "A Satisfied Mind",
-      "url": "https://open.spotify.com/track/3EL0HtVljTy0kqgSNKe4cT"
+      "duration_ms": 122893,
+      "name": "Don't Be Cruel",
+      "url": "https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk"
     },
     {
       "added_at": "2024-07-05 22:38:35",
@@ -439,54 +487,6 @@
     {
       "added_at": "2024-07-05 22:38:35",
       "album": {
-        "name": "Sixteen Tons",
-        "url": "https://open.spotify.com/album/0X96CJyHwoBEzSj24CISo4"
-      },
-      "artists": [
-        {
-          "name": "Tennessee Ernie Ford",
-          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
-        }
-      ],
-      "duration_ms": 155007,
-      "name": "The Shot Gun Boogie",
-      "url": "https://open.spotify.com/track/66gEeYiMppDZjNEoTsbnL6"
-    },
-    {
-      "added_at": "2024-07-05 22:38:35",
-      "album": {
-        "name": "Gunfighter Ballads And Trail Songs",
-        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
-      },
-      "artists": [
-        {
-          "name": "Marty Robbins",
-          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
-        }
-      ],
-      "duration_ms": 185466,
-      "name": "The Master's Call",
-      "url": "https://open.spotify.com/track/62rmfpQuieSgCITPX819sR"
-    },
-    {
-      "added_at": "2024-07-05 22:38:35",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6KJrpAaoqXM9FYWJEM76LV"
-      },
-      "artists": [
-        {
-          "name": "Ray Price",
-          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
-        }
-      ],
-      "duration_ms": 176626,
-      "name": "Heartaches By The Number",
-      "url": "https://open.spotify.com/track/361wxJRa6M2sH1Epy2MAC1"
-    },
-    {
-      "added_at": "2024-07-05 22:38:35",
-      "album": {
         "name": "Puppy Love / Girl Left Alone",
         "url": "https://open.spotify.com/album/7uTTF8NGOHQOgpqrJGESHH"
       },
@@ -503,38 +503,50 @@
     {
       "added_at": "2024-07-05 22:38:35",
       "album": {
-        "name": "For LP Fans Only",
-        "url": "https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU"
+        "name": "Gunfighter Ballads And Trail Songs",
+        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
         }
       ],
-      "duration_ms": 115280,
-      "name": "That's All Right",
-      "url": "https://open.spotify.com/track/0tHcXWIYt99GY8BONrPIfA"
+      "duration_ms": 184706,
+      "name": "They're Hanging Me Tonight",
+      "url": "https://open.spotify.com/track/4G9f3VGp9wjE49JUfg3XtO"
     },
     {
       "added_at": "2024-07-05 22:38:35",
       "album": {
-        "name": "Sings the Songs that Made Him Famous",
-        "url": "https://open.spotify.com/album/1UivGyqPLpky3vtZ2ARHOY"
+        "name": "Sixteen Tons",
+        "url": "https://open.spotify.com/album/0X96CJyHwoBEzSj24CISo4"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "The Tennessee Two",
-          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
+          "name": "Tennessee Ernie Ford",
+          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
         }
       ],
-      "duration_ms": 151338,
-      "name": "Big River",
-      "url": "https://open.spotify.com/track/12wDCrXdu2y1FbXHMb2hJQ"
+      "duration_ms": 155007,
+      "name": "The Shot Gun Boogie",
+      "url": "https://open.spotify.com/track/66gEeYiMppDZjNEoTsbnL6"
+    },
+    {
+      "added_at": "2024-07-05 22:38:35",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6KJrpAaoqXM9FYWJEM76LV"
+      },
+      "artists": [
+        {
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+        }
+      ],
+      "duration_ms": 176626,
+      "name": "Heartaches By The Number",
+      "url": "https://open.spotify.com/track/361wxJRa6M2sH1Epy2MAC1"
     },
     {
       "added_at": "2024-07-05 22:38:35",
@@ -567,22 +579,6 @@
       "duration_ms": 163346,
       "name": "Cattle Call",
       "url": "https://open.spotify.com/track/6Ha2dwEqdLBrDhImosfrBA"
-    },
-    {
-      "added_at": "2024-07-05 22:38:35",
-      "album": {
-        "name": "Gunfighter Ballads And Trail Songs",
-        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
-      },
-      "artists": [
-        {
-          "name": "Marty Robbins",
-          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
-        }
-      ],
-      "duration_ms": 184706,
-      "name": "They're Hanging Me Tonight",
-      "url": "https://open.spotify.com/track/4G9f3VGp9wjE49JUfg3XtO"
     },
     {
       "added_at": "2024-07-05 22:38:35",
@@ -635,18 +631,22 @@
     {
       "added_at": "2024-07-05 22:38:35",
       "album": {
-        "name": "The Best Of Jimmie Rodgers",
-        "url": "https://open.spotify.com/album/45NJp1aF4AREJYjFww2PmH"
+        "name": "Sings the Songs that Made Him Famous",
+        "url": "https://open.spotify.com/album/1UivGyqPLpky3vtZ2ARHOY"
       },
       "artists": [
         {
-          "name": "Jimmie Rodgers",
-          "url": "https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "The Tennessee Two",
+          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
         }
       ],
-      "duration_ms": 137106,
-      "name": "Honeycomb",
-      "url": "https://open.spotify.com/track/7MqkjX5YCXhazcaAlHvPmJ"
+      "duration_ms": 151338,
+      "name": "Big River",
+      "url": "https://open.spotify.com/track/12wDCrXdu2y1FbXHMb2hJQ"
     },
     {
       "added_at": "2024-07-05 22:38:35",
@@ -667,18 +667,18 @@
     {
       "added_at": "2024-07-05 22:38:35",
       "album": {
-        "name": "Elvis' Golden Records",
-        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+        "name": "The Best Of Jimmie Rodgers",
+        "url": "https://open.spotify.com/album/45NJp1aF4AREJYjFww2PmH"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+          "name": "Jimmie Rodgers",
+          "url": "https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp"
         }
       ],
-      "duration_ms": 122893,
-      "name": "Don't Be Cruel",
-      "url": "https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk"
+      "duration_ms": 137106,
+      "name": "Honeycomb",
+      "url": "https://open.spotify.com/track/7MqkjX5YCXhazcaAlHvPmJ"
     },
     {
       "added_at": "2024-07-05 22:38:35",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-07-05 22:38:35",
       "album": {
-        "name": "The Essential Don Gibson",
-        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
-      },
-      "artists": [
-        {
-          "name": "Don Gibson",
-          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
-        }
-      ],
-      "duration_ms": 154440,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/3mewJ611cPqPIk8EQDiA12"
-    },
-    {
-      "added_at": "2024-07-05 22:38:35",
-      "album": {
         "name": "The Essential Jim Reeves",
         "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 168640,
       "name": "Four Walls",
       "url": "https://open.spotify.com/track/3qReTgtrLsZDISxor3lJW0"
+    },
+    {
+      "added_at": "2024-07-05 22:38:35",
+      "album": {
+        "name": "The Essential Don Gibson",
+        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
+      },
+      "artists": [
+        {
+          "name": "Don Gibson",
+          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
+        }
+      ],
+      "duration_ms": 154440,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/3mewJ611cPqPIk8EQDiA12"
     },
     {
       "added_at": "2024-07-05 22:38:35",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-07-05 22:38:35",
       "album": {
-        "name": "The Essential Don Gibson",
-        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
-      },
-      "artists": [
-        {
-          "name": "Don Gibson",
-          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
-        }
-      ],
-      "duration_ms": 113240,
-      "name": "Blue, Blue Day",
-      "url": "https://open.spotify.com/track/0lgckCZ94ZjtCBpjfRL5Su"
-    },
-    {
-      "added_at": "2024-07-05 22:38:35",
-      "album": {
         "name": "Gotta Travel On: The Very Best Of Billy Grammar",
         "url": "https://open.spotify.com/album/6TZZUvrKXCvjrJQuV8aZfY"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 150493,
       "name": "Gotta Travel On",
       "url": "https://open.spotify.com/track/3HynxUWKnm7rtzjVkyXoHu"
+    },
+    {
+      "added_at": "2024-07-05 22:38:35",
+      "album": {
+        "name": "The Essential Don Gibson",
+        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
+      },
+      "artists": [
+        {
+          "name": "Don Gibson",
+          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
+        }
+      ],
+      "duration_ms": 113240,
+      "name": "Blue, Blue Day",
+      "url": "https://open.spotify.com/track/0lgckCZ94ZjtCBpjfRL5Su"
     },
     {
       "added_at": "2024-07-05 22:38:35",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-07-05 22:38:35",
       "album": {
-        "name": "The Complete Capitol Hits Of Faron Young",
-        "url": "https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa"
-      },
-      "artists": [
-        {
-          "name": "Faron Young",
-          "url": "https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL"
-        }
-      ],
-      "duration_ms": 161533,
-      "name": "Goin' Steady",
-      "url": "https://open.spotify.com/track/5PBGdSfxhjSuJHfagUNOCl"
-    },
-    {
-      "added_at": "2024-07-05 22:38:35",
-      "album": {
         "name": "The Country Music Hall Of Fame",
         "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 175266,
       "name": "I Don't Hurt Anymore - Remastered",
       "url": "https://open.spotify.com/track/52o7DuuvSLrk6ffYqVphMo"
+    },
+    {
+      "added_at": "2024-07-05 22:38:35",
+      "album": {
+        "name": "The Complete Capitol Hits Of Faron Young",
+        "url": "https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa"
+      },
+      "artists": [
+        {
+          "name": "Faron Young",
+          "url": "https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "Goin' Steady",
+      "url": "https://open.spotify.com/track/5PBGdSfxhjSuJHfagUNOCl"
     },
     {
       "added_at": "2024-07-05 22:38:35",

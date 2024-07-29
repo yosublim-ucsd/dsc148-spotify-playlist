@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Kane Brown",
-  "num_followers": 114871,
+  "num_followers": 114911,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 168266,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Seven Bridges Road",
         "url": "https://open.spotify.com/album/6GXkpobqUCBNcak0es2wJ7"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 168266,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Reboot",
         "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
       },
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "34 Number Ones",
-        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
+        "name": "Cypress Hills and the Big Country",
+        "url": "https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
         }
       ],
-      "duration_ms": 171813,
-      "name": "It Must Be Love",
-      "url": "https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT"
+      "duration_ms": 184040,
+      "name": "Let's All Help the Cowboys (Sing the Blues)",
+      "url": "https://open.spotify.com/track/5TXtn8dOWu3E68OuLC6xLo"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Cypress Hills and the Big Country",
-        "url": "https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 184040,
-      "name": "Let's All Help the Cowboys (Sing the Blues)",
-      "url": "https://open.spotify.com/track/5TXtn8dOWu3E68OuLC6xLo"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Reba Duets",
         "url": "https://open.spotify.com/album/39Os87XP3yC2XBSpAur4BL"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 223746,
       "name": "Because Of You",
       "url": "https://open.spotify.com/track/5LGEfWqwgYL16tyXkrRC8J"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "34 Number Ones",
+        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 171813,
+      "name": "It Must Be Love",
+      "url": "https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -979,18 +979,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Stop Draggin' My Heart Around",
-        "url": "https://open.spotify.com/album/7FdqXRWzRjtH0ZyUK6FS34"
+        "name": "Flying High Again (feat. Cody Jinks)",
+        "url": "https://open.spotify.com/album/2R6wzyBxtmJqJ279S3cBts"
       },
       "artists": [
         {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+          "name": "Alex Williams",
+          "url": "https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl"
+        },
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
         }
       ],
-      "duration_ms": 258165,
-      "name": "Stop Draggin' My Heart Around",
-      "url": "https://open.spotify.com/track/5XeIgn1dQwDZPhhkPIfaap"
+      "duration_ms": 279056,
+      "name": "Flying High Again (feat. Cody Jinks)",
+      "url": "https://open.spotify.com/track/5VRYOiXSnh8d4VNdaafLPr"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1011,18 +1015,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Chasing Cars",
-        "url": "https://open.spotify.com/album/0rssTXPsHka5HdX61YbpMG"
+        "name": "Stop Draggin' My Heart Around",
+        "url": "https://open.spotify.com/album/7FdqXRWzRjtH0ZyUK6FS34"
       },
       "artists": [
         {
-          "name": "Ryan Waters Band",
-          "url": "https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi"
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
         }
       ],
-      "duration_ms": 237613,
-      "name": "Chasing Cars",
-      "url": "https://open.spotify.com/track/5cJVYEIjmjGqKhqD5ggGLe"
+      "duration_ms": 258165,
+      "name": "Stop Draggin' My Heart Around",
+      "url": "https://open.spotify.com/track/5XeIgn1dQwDZPhhkPIfaap"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1063,6 +1067,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Chasing Cars",
+        "url": "https://open.spotify.com/album/0rssTXPsHka5HdX61YbpMG"
+      },
+      "artists": [
+        {
+          "name": "Ryan Waters Band",
+          "url": "https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi"
+        }
+      ],
+      "duration_ms": 237613,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/5cJVYEIjmjGqKhqD5ggGLe"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "For What It's Worth",
         "url": "https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz"
       },
@@ -1075,6 +1095,22 @@
       "duration_ms": 162411,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "True Believers",
+        "url": "https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 298373,
+      "name": "Wagon Wheel",
+      "url": "https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1099,22 +1135,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "True Believers",
-        "url": "https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 298373,
-      "name": "Wagon Wheel",
-      "url": "https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Eastside",
         "url": "https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k"
       },
@@ -1127,26 +1147,6 @@
       "duration_ms": 167142,
       "name": "Eastside",
       "url": "https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Flying High Again (feat. Cody Jinks)",
-        "url": "https://open.spotify.com/album/2R6wzyBxtmJqJ279S3cBts"
-      },
-      "artists": [
-        {
-          "name": "Alex Williams",
-          "url": "https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl"
-        },
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 279056,
-      "name": "Flying High Again (feat. Cody Jinks)",
-      "url": "https://open.spotify.com/track/5VRYOiXSnh8d4VNdaafLPr"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Georgia on My Mind",
-        "url": "https://open.spotify.com/album/1DoGf1omIVvFOHrVOOAAMa"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 253642,
-      "name": "Georgia on My Mind",
-      "url": "https://open.spotify.com/track/6HiFnWODv0Cn8CkNpYpAoL"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "I Love You Always Forever (Acoustic)",
         "url": "https://open.spotify.com/album/71wnYe7sliuqQdXMTOPa8u"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 160785,
       "name": "I Love You Always Forever - Acoustic",
       "url": "https://open.spotify.com/track/0tmIGE20GvacDymC1UEgbY"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Georgia on My Mind",
+        "url": "https://open.spotify.com/album/1DoGf1omIVvFOHrVOOAAMa"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 253642,
+      "name": "Georgia on My Mind",
+      "url": "https://open.spotify.com/track/6HiFnWODv0Cn8CkNpYpAoL"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Something Borrowed, Something New: A Tribute to John Anderson",
+        "url": "https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Seminole Wind",
+      "url": "https://open.spotify.com/track/2g9d41j4oPSQNd9nOU6X79"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "He Got the Best of Me",
         "url": "https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO"
       },
@@ -1607,34 +1623,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Something Borrowed, Something New: A Tribute to John Anderson",
-        "url": "https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83"
+        "name": "Re-Dunn",
+        "url": "https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Ronnie Dunn",
+          "url": "https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy"
         }
       ],
-      "duration_ms": 278000,
-      "name": "Seminole Wind",
-      "url": "https://open.spotify.com/track/2g9d41j4oPSQNd9nOU6X79"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Acoustic Covers (Deluxe)",
-        "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 271771,
-      "name": "Simple Man",
-      "url": "https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV"
+      "duration_ms": 216786,
+      "name": "Long Cool Woman (In a Black Dress)",
+      "url": "https://open.spotify.com/track/5w2rSFE0Z04cM5lARu56iu"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Re-Dunn",
-        "url": "https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo"
+        "name": "Acoustic Covers (Deluxe)",
+        "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
       },
       "artists": [
         {
-          "name": "Ronnie Dunn",
-          "url": "https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 216786,
-      "name": "Long Cool Woman (In a Black Dress)",
-      "url": "https://open.spotify.com/track/5w2rSFE0Z04cM5lARu56iu"
+      "duration_ms": 271771,
+      "name": "Simple Man",
+      "url": "https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 229574,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Someone You Loved",
         "url": "https://open.spotify.com/album/1z9rgqCPr9UaOxipFCHZN5"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 171320,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/2Gd3xovLjWKqPIfQNs3LP0"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 229574,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
     }
   ],
   "unique_name": "Country Covers",

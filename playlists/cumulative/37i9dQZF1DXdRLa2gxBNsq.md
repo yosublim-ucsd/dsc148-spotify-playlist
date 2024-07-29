@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Manolo Kabezabolo.
 
-174 songs - 9 hr 5 min
+175 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Empacho de Orfidal](https://open.spotify.com/track/6vbkhHC2YifNfPZFgRTmfs) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [El Mutante del Barrio Chino](https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j) | 3:12 | 2023-12-08 |  |
 | [En el submundo](https://open.spotify.com/track/5mUs1TQHbF99wGctZh38XW) | [Tropa do Carallo](https://open.spotify.com/artist/2b8mYcZpbCtQgu15Jld0vR) | [En el submundo](https://open.spotify.com/album/4XJwrCBfNwsJMqCFV2SJcS) | 2:11 | 2024-04-04 | 2024-05-10 |
 | [En Mi Nube](https://open.spotify.com/track/5b5SH7YGKsXjjqBuvTZ4D2) | [Debruces](https://open.spotify.com/artist/6h3LUhp2WSoTAeOEYHa62S) | [En Mi Nube](https://open.spotify.com/album/50VrsloTbWj0E0CDdPvFcH) | 3:33 | 2024-04-18 | 2024-06-21 |
+| [Enamorado de la Muerte](https://open.spotify.com/track/4en5NpD2ZD6CpHeHIFTbzp) | [RIP](https://open.spotify.com/artist/4P40mhKEotTwKd3cFNtwG4) | [No Te Muevas y Zona Especial Norte](https://open.spotify.com/album/37R9s562KSQPqUm2TYWe7h) | 3:46 | 2024-07-19 |  |
 | [Enamorado de la Muerte](https://open.spotify.com/track/4o4Za92dG4itin0vLzLgyc) | [RIP](https://open.spotify.com/artist/4P40mhKEotTwKd3cFNtwG4) | [No Te Muevas y Zona Especial Norte](https://open.spotify.com/album/3E9M7ZsG1OePw7cN6KT9ZB) | 3:49 | 2023-12-08 | 2024-04-19 |
 | [Enemigo a las Puertas](https://open.spotify.com/track/4Ek4wT7LeCVgAskl466yd8) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Confrontación](https://open.spotify.com/album/1wWBq7tWLplVKsSCIVTtkp) | 3:15 | 2024-05-09 |  |
 | [Enemigo Publico](https://open.spotify.com/track/2U79EanNfw7bRqC68Jnfgf) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [Inadaptados](https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV) | 2:38 | 2023-12-08 |  |
@@ -96,7 +97,7 @@
 | [Jarama](https://open.spotify.com/track/749QVthAEMdMPQdZBLQ98S) | [Boikot](https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn) | [Jarama](https://open.spotify.com/album/0Xturr8pgzoF9M6gb0UPlh) | 3:37 | 2023-12-08 |  |
 | [Jimmy Jazz](https://open.spotify.com/track/5JU3KxDurO5jxRS6oXDKFN) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [Aizkolari](https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6) | 2:07 | 2023-12-08 |  |
 | [Kaña](https://open.spotify.com/track/71fXglmSTgkzXe3h8PHuFK) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Kaña a los Que Nos Quieren Pisar](https://open.spotify.com/album/1K7K7dy09VWhi9nKlsIkGx) | 4:36 | 2023-12-08 | 2024-04-19 |
-| [Kaña](https://open.spotify.com/track/77UVdHUTHvECJJ0xcmooGX) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Kaña a los Que Nos Quieren Pisar](https://open.spotify.com/album/475lQDKfTnB0nSuGgnov06) | 4:36 | 2024-04-18 |  |
+| [Kaña](https://open.spotify.com/track/77UVdHUTHvECJJ0xcmooGX) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Kaña a los Que Nos Quieren Pisar](https://open.spotify.com/album/475lQDKfTnB0nSuGgnov06) | 4:36 | 2024-04-18 | 2024-07-29 |
 | [Ke Felicidad!](https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk) | [Discordia](https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG) | [Versos de Rabia](https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2) | 3:37 | 2023-12-08 |  |
 | [Killer](https://open.spotify.com/track/4mbzjrFyniK1qqgWgpEsgL) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [Criatura](https://open.spotify.com/album/3VnnePO0pWXdHCS1fBbNar) | 3:26 | 2023-12-08 | 2024-04-19 |
 | [Kualkier Día](https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B) | [Piperrak](https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou) | [Arde Ribera](https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s) | 4:09 | 2023-12-08 |  |

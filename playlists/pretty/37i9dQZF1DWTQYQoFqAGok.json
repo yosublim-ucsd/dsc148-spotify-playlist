@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 60548,
+  "num_followers": 60566,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -229,36 +229,20 @@
       "url": "https://open.spotify.com/track/5AFlumcmhChuLqzrkPzj0M"
     },
     {
-      "added_at": "2023-01-07 01:43:47",
-      "album": {
-        "name": "G\u00e9minis",
-        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Guidum",
-        "url": "https://open.spotify.com/album/6h5iqyzf6ibooXoRWRoPcx"
+        "name": "...un poco mas.",
+        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
       },
       "artists": [
         {
-          "name": "Abraham Laboriel",
-          "url": "https://open.spotify.com/artist/2KOqNGzvxHWkz3e18NkgVW"
+          "name": "Na'rimbo",
+          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
         }
       ],
-      "duration_ms": 167026,
-      "name": "Breakfast At Tiffany's",
-      "url": "https://open.spotify.com/track/3oqKQoJnijk3Tu97MEtgcd"
+      "duration_ms": 370613,
+      "name": "Al son de la marimba",
+      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -279,18 +263,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "...un poco mas.",
-        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
+        "name": "Guidum",
+        "url": "https://open.spotify.com/album/6h5iqyzf6ibooXoRWRoPcx"
       },
       "artists": [
         {
-          "name": "Na'rimbo",
-          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
+          "name": "Abraham Laboriel",
+          "url": "https://open.spotify.com/artist/2KOqNGzvxHWkz3e18NkgVW"
         }
       ],
-      "duration_ms": 370613,
-      "name": "Al son de la marimba",
-      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
+      "duration_ms": 167026,
+      "name": "Breakfast At Tiffany's",
+      "url": "https://open.spotify.com/track/3oqKQoJnijk3Tu97MEtgcd"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -311,6 +295,22 @@
       "duration_ms": 270466,
       "name": "Los Peque\u00f1os Detalles",
       "url": "https://open.spotify.com/track/7JIuo1FbYeIdJlwXXztn01"
+    },
+    {
+      "added_at": "2023-01-07 01:43:47",
+      "album": {
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
     },
     {
       "added_at": "2023-04-12 01:24:34",
@@ -663,22 +663,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Mujer De Luna",
-        "url": "https://open.spotify.com/album/6T8B3gspDicZbXyDW37MV4"
-      },
-      "artists": [
-        {
-          "name": "Patricia Carri\u00f3n",
-          "url": "https://open.spotify.com/artist/1OKNkm7GiyzPsp5xktd9Uj"
-        }
-      ],
-      "duration_ms": 285746,
-      "name": "Ana's Song",
-      "url": "https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Nuevas Relaciones: Atardecer",
         "url": "https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 370586,
       "name": "La vida tiene que seguir, amor",
       "url": "https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Mujer De Luna",
+        "url": "https://open.spotify.com/album/6T8B3gspDicZbXyDW37MV4"
+      },
+      "artists": [
+        {
+          "name": "Patricia Carri\u00f3n",
+          "url": "https://open.spotify.com/artist/1OKNkm7GiyzPsp5xktd9Uj"
+        }
+      ],
+      "duration_ms": 285746,
+      "name": "Ana's Song",
+      "url": "https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -719,22 +719,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Chucho en Chipp's",
-        "url": "https://open.spotify.com/album/5mOhIFiuLjHjOY2FH0Cmqs"
-      },
-      "artists": [
-        {
-          "name": "Chucho Zarzosa Su Piano y su Conjunto",
-          "url": "https://open.spotify.com/artist/2MAh6OPwg7JREl7MzV8eMH"
-        }
-      ],
-      "duration_ms": 155120,
-      "name": "Bula",
-      "url": "https://open.spotify.com/track/5pt7eRGJRbcK0zuEPEU1To"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Funk da Power",
         "url": "https://open.spotify.com/album/04THe7KJSRQ6zRh9idIg63"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 316023,
       "name": "Let It Play",
       "url": "https://open.spotify.com/track/1Czyel4ty0L3Jhsw6jQTKl"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Chucho en Chipp's",
+        "url": "https://open.spotify.com/album/5mOhIFiuLjHjOY2FH0Cmqs"
+      },
+      "artists": [
+        {
+          "name": "Chucho Zarzosa Su Piano y su Conjunto",
+          "url": "https://open.spotify.com/artist/2MAh6OPwg7JREl7MzV8eMH"
+        }
+      ],
+      "duration_ms": 155120,
+      "name": "Bula",
+      "url": "https://open.spotify.com/track/5pt7eRGJRbcK0zuEPEU1To"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -771,22 +771,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Mi Sentimiento Guerrerense",
-        "url": "https://open.spotify.com/album/6035edQMGEkEvpgomvasDC"
-      },
-      "artists": [
-        {
-          "name": "Guerrero Jazz",
-          "url": "https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6"
-        }
-      ],
-      "duration_ms": 339280,
-      "name": "Por los Caminos del Sur",
-      "url": "https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Voices from the Border",
         "url": "https://open.spotify.com/album/2wITZBdfVISfiCe7NOEWfA"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 443872,
       "name": "Those People",
       "url": "https://open.spotify.com/track/3FTnF6GptSUAfsMMEZH1i8"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Mi Sentimiento Guerrerense",
+        "url": "https://open.spotify.com/album/6035edQMGEkEvpgomvasDC"
+      },
+      "artists": [
+        {
+          "name": "Guerrero Jazz",
+          "url": "https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6"
+        }
+      ],
+      "duration_ms": 339280,
+      "name": "Por los Caminos del Sur",
+      "url": "https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Jazz",
-        "url": "https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv"
-      },
-      "artists": [
-        {
-          "name": "Chucho Zarzosa Y Su Conjunto",
-          "url": "https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E"
-        }
-      ],
-      "duration_ms": 157586,
-      "name": "Tipitipit\u00edn",
-      "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Bienvenidos",
         "url": "https://open.spotify.com/album/0o32WHvVW7dEI8R2VT2K2K"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 343187,
       "name": "5:PM",
       "url": "https://open.spotify.com/track/76Q411FGiMRHoi3NoFhIGf"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Jazz",
+        "url": "https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv"
+      },
+      "artists": [
+        {
+          "name": "Chucho Zarzosa Y Su Conjunto",
+          "url": "https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E"
+        }
+      ],
+      "duration_ms": 157586,
+      "name": "Tipitipit\u00edn",
+      "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"
     }
   ],
   "unique_name": "Jazz en M\u00e9xico",

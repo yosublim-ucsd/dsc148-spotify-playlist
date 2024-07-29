@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrbW1sT98VZ2r7qMHy94q">ZEG P</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24 likes - 62 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 25 likes - 62 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 3 | [FADE UP](https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [FADE UP](https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr) | 3:39 |
 | 4 | [Saiyan](https://open.spotify.com/track/2BvjmY4Mp5q1AHL0laetd6) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Chef D'orchestre](https://open.spotify.com/album/65Zsfpx3BX9uriUQ5Nvuq7) | 3:09 |
 | 5 | [Mode Akimbo \(feat\. Jul\)](https://open.spotify.com/track/7qezIDRM0E3WTW1lWxItug) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [JVLIVS II](https://open.spotify.com/album/7eKvzMoLTENJaukj2pHrw7) | 3:37 |
-| 6 | [C'est mon sang](https://open.spotify.com/track/45tz0Mf66Nw7uSPdcOe1Qg) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z) | [Rêves de gosse](https://open.spotify.com/album/1ShA7csxTOd5Xxi5onzJe5) | 3:06 |
-| 7 | [Féfé lambo](https://open.spotify.com/track/5hzg9p5zoHldX1O9v8qJor) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Féfé lambo](https://open.spotify.com/album/7y1key5l4AwasIbgpO9gqR) | 2:42 |
+| 6 | [Féfé lambo](https://open.spotify.com/track/5hzg9p5zoHldX1O9v8qJor) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Féfé lambo](https://open.spotify.com/album/7y1key5l4AwasIbgpO9gqR) | 2:42 |
+| 7 | [C'est mon sang](https://open.spotify.com/track/45tz0Mf66Nw7uSPdcOe1Qg) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z) | [Rêves de gosse](https://open.spotify.com/album/1ShA7csxTOd5Xxi5onzJe5) | 3:06 |
 | 8 | [Longue vie](https://open.spotify.com/track/11c33jkE3WmwfTY7VlYG2Q) | [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW) | [Affranchis](https://open.spotify.com/album/4MbntxMXJhPQvsFXMLaZcM) | 3:22 |
 | 9 | [L'addition](https://open.spotify.com/track/1ghiKwcxcqwfSapcrHv5Bs) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [En esprit](https://open.spotify.com/album/4YUEcV66XwylhSNJI51ABq) | 3:51 |
 | 10 | [George moula](https://open.spotify.com/track/0VR4lX58CIL6AaOnYD99UK) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [En esprit](https://open.spotify.com/album/4YUEcV66XwylhSNJI51ABq) | 2:20 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 61 | [Nia](https://open.spotify.com/track/1YrBuuAi9sz27cdZxu5odj) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [Petite fille](https://open.spotify.com/album/3DfRtkuxvmkj1PLg6ps9Se) | 3:47 |
 | 62 | [Par hasard](https://open.spotify.com/track/0u2AmL4idXpdOCOLAwiCd1) | [Rafal](https://open.spotify.com/artist/1po2usUvDtjw2UVI2bnV1h) | [Jukaï : Tome 1](https://open.spotify.com/album/5sqmCvklxhkUu63bGCPtT7) | 2:15 |
 
-Snapshot ID: `AbX2PgAAAADsMekgP6Msk6S4k/JWpcei`
+Snapshot ID: `AbX73gAAAAAuX7Yll3q4c4l9rEbFGqra`

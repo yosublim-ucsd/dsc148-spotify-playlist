@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-186 songs - 9 hr 8 min
+187 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Deep Waves](https://open.spotify.com/track/4zXwVwJ9lyE8RS5clgcMog) | [Sink in Calm](https://open.spotify.com/artist/3okr43B0Zj9ydMIOuPrMXX) | [Deep Waves](https://open.spotify.com/album/766NOhts6UUYKkr6TOjn6n) | 3:39 | 2023-04-28 |  |
 | [Dormire Bowls](https://open.spotify.com/track/2jYioAcAHOTxS4IPu0zZxO) | [Temple of Schrawa](https://open.spotify.com/artist/246BPwHoKsivpZL7i7Q1Lt) | [Dormire Bowls](https://open.spotify.com/album/2Xh3s8zADoWWZ5Qzzch0sl) | 2:59 | 2023-04-28 |  |
 | [Dream On](https://open.spotify.com/track/79U5R6G2pmBRSSGCjlJmA9) | [Isla Laine](https://open.spotify.com/artist/1MjZBlMMS2FIikJ0klCTUC) | [Dream On](https://open.spotify.com/album/2tlRlrBMx9JpcOUs2C4m4T) | 3:15 | 2023-04-28 |  |
-| [Dream River](https://open.spotify.com/track/7h55IavoXCs66iwVRoff0e) | [Slumber Pals](https://open.spotify.com/artist/7eX1arZxMWfM7B7Jx3GtJO) | [Dream River](https://open.spotify.com/album/74d432GBiGsHeEpJ5GQX5b) | 2:44 | 2023-04-28 |  |
+| [Dream River](https://open.spotify.com/track/7h55IavoXCs66iwVRoff0e) | [Slumber Pals](https://open.spotify.com/artist/7eX1arZxMWfM7B7Jx3GtJO) | [Dream River](https://open.spotify.com/album/74d432GBiGsHeEpJ5GQX5b) | 2:44 | 2023-04-28 | 2024-07-29 |
 | [Dreaming in Ripples](https://open.spotify.com/track/2zAv5GHvNjAsI4mjyoorl4) | [Waterbank](https://open.spotify.com/artist/3t3TG0tFaugTkBnweCFfYj) | [Dreaming in Ripples](https://open.spotify.com/album/2leD4uGfAO7gG3BIQczYh4) | 2:33 | 2023-04-28 | 2024-06-04 |
 | [Early Forest Serenade](https://open.spotify.com/track/7h95AoSQLXgft5By5ByMnV) | [Clouds Come Down](https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8) | [Majestic Light](https://open.spotify.com/album/0sQKEnZqsabnegdMu6cujB) | 2:13 | 2023-06-16 |  |
 | [Earth Song \(Brook\)](https://open.spotify.com/track/2u5SfmEplx0MJZrouALhLd) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [Earth Song](https://open.spotify.com/album/6Ped9Q9msu0Rpm7A0MjYGO) | 3:10 | 2023-04-28 |  |
@@ -61,6 +61,7 @@
 | [Era](https://open.spotify.com/track/3ZY6rH74cqvDepyhdCOi0h) | [Granite Stone](https://open.spotify.com/artist/2IIgijC6z7dO3WTWEX79tv) | [Molecular](https://open.spotify.com/album/2jx7dxHeOE350FXStCWTtd) | 2:56 | 2023-04-28 | 2023-11-11 |
 | [Espira Naturesque](https://open.spotify.com/track/4rpZd4h0WnZqDr67kLE3KR) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Espira](https://open.spotify.com/album/2lnksrCViusZPlkyVbxDJJ) | 3:20 | 2023-04-28 |  |
 | [Essence \(Soundbath\)](https://open.spotify.com/track/2eGtkq4fnMt2kw1lfvm8ZN) | [Devon Fall](https://open.spotify.com/artist/7dUjQYaR5Qa3fS8w5CN3pN) | [Essence](https://open.spotify.com/album/6Y5IvTe3fK2LufN9cssA5D) | 2:50 | 2023-05-26 |  |
+| [Essence of the Forest](https://open.spotify.com/track/6HZBfIcSbWg80V7JOPSsA5) | [Adelina Somerset](https://open.spotify.com/artist/3dsMw7dDZ3c6CsdLsYBbLX) | [Essence of the Forest](https://open.spotify.com/album/1TOKTINDh4DrvQttXSrQKN) | 2:40 | 2024-07-19 |  |
 | [Eternals](https://open.spotify.com/track/1LZrsDo4MJaDPlOUvqp61c) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:14 | 2023-04-28 |  |
 | [Eutony](https://open.spotify.com/track/5HAdowEFhhgJw4q82GFDjt) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Eutony](https://open.spotify.com/album/07AlM5Zxu1B4WYKLUtoZlP) | 2:38 | 2024-05-01 |  |
 | [Everest](https://open.spotify.com/track/0zEsXbDQbh8dFoJ07XAy5Y) | [Hans Heeler](https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV) | [Everest](https://open.spotify.com/album/0JfmGuV9OldmMVK1EYYoL9) | 2:27 | 2023-08-25 |  |
