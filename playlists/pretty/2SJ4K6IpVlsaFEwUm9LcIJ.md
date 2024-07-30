@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: july\-aug 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 20,688 likes - 29 songs - 1 hr 39 min
+[margeaux](https://open.spotify.com/user/1220511975) - 20,701 likes - 36 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,5 +37,12 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 27 | [Wheeling](https://open.spotify.com/track/2uySYaNa2fZhuUZIlCg6pH) | [Big Bend](https://open.spotify.com/artist/3wMxhIZL4RU4vomEuKlu8G) | [Wheeling](https://open.spotify.com/album/3ZZWP0kXZ3c4nMDyufC5W0) | 4:04 |
 | 28 | [The Beauty of the Duty](https://open.spotify.com/track/0G7ee8kSG4zjvxLF0BF6eU) | [Molly Nilsson](https://open.spotify.com/artist/2PDepyCtfybWn5UJv0DmKw) | [Un\-American Activities](https://open.spotify.com/album/6BWJZfps9TMudDT2CL0UhI) | 2:40 |
 | 29 | [Gem Lingo \(ovr now\)](https://open.spotify.com/track/6dSqM0tWJPlchpmGrEwC1c) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Gem Lingo \(ovr now\)](https://open.spotify.com/album/3r4QpzGNuewu0vLvapRZS7) | 3:50 |
+| 30 | [A Furrow Dub](https://open.spotify.com/track/5tauzxQXma1ic7aAnkEtWw) | [sugar plant](https://open.spotify.com/artist/0KrBZKq6kpcv9N0vBesN8o) | [Boogiepop Phantom Original Soundtrack](https://open.spotify.com/album/58m4Xt0j6oYFLeG81GmEd6) | 6:02 |
+| 31 | [Grey Today](https://open.spotify.com/track/29iOKTPFn88YR889dSMrrH) | [Woody Simmons](https://open.spotify.com/artist/4umiRBYyqrPdYiyuHeYhDy) | [Oregon Mountains](https://open.spotify.com/album/2yKLdPLXBQKuEHqmxNJ78m) | 5:02 |
+| 32 | [One On One](https://open.spotify.com/track/1ANmX8emjTaiR5BPeswuNi) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [H2O](https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB) | 4:18 |
+| 33 | [La Luna me Dijo Esto Detrás del Puente](https://open.spotify.com/track/28bX7nVpWmFjU6jG72adUf) | [Boundary](https://open.spotify.com/artist/4CLh84k1pT9WmMC3hkJCiS) | [Oxido En El Espejo](https://open.spotify.com/album/05TIjD2VizBIseqZeGAS84) | 4:43 |
+| 34 | [Topknot](https://open.spotify.com/track/1bxv3sjiuqgmkgNkjN59Tc) | [Cornershop](https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF) | [Cornershop & The Double 'O' Groove Of](https://open.spotify.com/album/2xBCzmHtb0SuHcUmTYim64) | 3:39 |
+| 35 | [Home Is in Your Head](https://open.spotify.com/track/1RLbifxzeiRb4VazXCn0H8) | [His Name Is Alive](https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL) | [Home Is in Your Head](https://open.spotify.com/album/7I0VFFotoizHk2FoNP3V9F) | 2:23 |
+| 36 | [Pre\-munitions](https://open.spotify.com/track/7Bw7Dv6BCHA9O0AmzggOax) | [Daedelus](https://open.spotify.com/artist/1YRGQOk4Mk9EpM6nTJhXtK) | [The Light Brigade](https://open.spotify.com/album/6yT4qGlJQE3Nvxf6MukGIZ) | 2:24 |
 
-Snapshot ID: `AAAKxmXf0RTW7x46Nv3zyy4l2RM1Y881`
+Snapshot ID: `AAAK0oZZc6Dk0x+oSYta3lLQWKobaduc`

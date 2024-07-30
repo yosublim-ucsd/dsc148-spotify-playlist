@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 486003,
+  "num_followers": 486018,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -739,26 +739,6 @@
     {
       "added_at": "2024-07-16 04:32:55",
       "album": {
-        "name": "\ubd04\uc778\uac00 \ubd10 Spring Love - SM STATION",
-        "url": "https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        },
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 198749,
-      "name": "\ubd04\uc778\uac00 \ubd10 Spring Love",
-      "url": "https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv"
-    },
-    {
-      "added_at": "2024-07-16 04:32:55",
-      "album": {
         "name": "Wish & Wind",
         "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 210158,
       "name": "Jenga (feat. Gaeko)",
       "url": "https://open.spotify.com/track/1dA1tlzwcJ3YDYsSul1m06"
+    },
+    {
+      "added_at": "2024-07-16 04:32:55",
+      "album": {
+        "name": "\ubd04\uc778\uac00 \ubd10 Spring Love - SM STATION",
+        "url": "https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        },
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 198749,
+      "name": "\ubd04\uc778\uac00 \ubd10 Spring Love",
+      "url": "https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv"
     },
     {
       "added_at": "2024-07-16 04:32:55",
@@ -819,22 +819,18 @@
     {
       "added_at": "2024-07-16 04:32:55",
       "album": {
-        "name": "ordinary.",
-        "url": "https://open.spotify.com/album/5KxykJIMpVCFZ7zow2Td0k"
+        "name": "Double-sidedness",
+        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
       },
       "artists": [
         {
-          "name": "punchnello",
-          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
-        },
-        {
-          "name": "SAAY",
-          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
         }
       ],
-      "duration_ms": 217510,
-      "name": "Winter Blossom (feat. SAAY) (Prod. by 0channel)",
-      "url": "https://open.spotify.com/track/5BVjsCcDlYgJG2bB2jsOeI"
+      "duration_ms": 184565,
+      "name": "Hope You're Doing Well",
+      "url": "https://open.spotify.com/track/15D4iY3vp1lO871Ed37joF"
     },
     {
       "added_at": "2024-07-16 04:32:55",
@@ -855,18 +851,22 @@
     {
       "added_at": "2024-07-16 04:32:55",
       "album": {
-        "name": "Double-sidedness",
-        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
+        "name": "ordinary.",
+        "url": "https://open.spotify.com/album/5KxykJIMpVCFZ7zow2Td0k"
       },
       "artists": [
         {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        },
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
         }
       ],
-      "duration_ms": 184565,
-      "name": "Hope You're Doing Well",
-      "url": "https://open.spotify.com/track/15D4iY3vp1lO871Ed37joF"
+      "duration_ms": 217510,
+      "name": "Winter Blossom (feat. SAAY) (Prod. by 0channel)",
+      "url": "https://open.spotify.com/track/5BVjsCcDlYgJG2bB2jsOeI"
     },
     {
       "added_at": "2024-07-16 04:32:55",

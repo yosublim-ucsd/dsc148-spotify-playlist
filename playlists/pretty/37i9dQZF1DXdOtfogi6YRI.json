@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Holak",
-  "num_followers": 17573,
+  "num_followers": 17572,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -251,26 +251,22 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Moja droga",
-        "url": "https://open.spotify.com/album/0Pu9usfeyXKV8kiOeTsfvL"
+        "name": "ZBUNTOWANI",
+        "url": "https://open.spotify.com/album/4PGVxRoEutpEMXNbqqDQ2Q"
       },
       "artists": [
         {
-          "name": "Brodka",
-          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+          "name": "Magiera",
+          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
         },
         {
-          "name": "Hades",
-          "url": "https://open.spotify.com/artist/3MblUyzg5WUKZQhWGpyk5B"
-        },
-        {
-          "name": "2K88",
-          "url": "https://open.spotify.com/artist/1U1CwZeD8SU65TWHjLoPFY"
+          "name": "BSK",
+          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
         }
       ],
-      "duration_ms": 203583,
-      "name": "Moja droga",
-      "url": "https://open.spotify.com/track/6CI1dS84yJlTzhHRcaak34"
+      "duration_ms": 178666,
+      "name": "ZBUNTOWANI",
+      "url": "https://open.spotify.com/track/2gqTWssF1gWHT0SbQYoQgB"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -315,22 +311,26 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "ZBUNTOWANI",
-        "url": "https://open.spotify.com/album/4PGVxRoEutpEMXNbqqDQ2Q"
+        "name": "Moja droga",
+        "url": "https://open.spotify.com/album/0Pu9usfeyXKV8kiOeTsfvL"
       },
       "artists": [
         {
-          "name": "Magiera",
-          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
+          "name": "Brodka",
+          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
         },
         {
-          "name": "BSK",
-          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
+          "name": "Hades",
+          "url": "https://open.spotify.com/artist/3MblUyzg5WUKZQhWGpyk5B"
+        },
+        {
+          "name": "2K88",
+          "url": "https://open.spotify.com/artist/1U1CwZeD8SU65TWHjLoPFY"
         }
       ],
-      "duration_ms": 178666,
-      "name": "ZBUNTOWANI",
-      "url": "https://open.spotify.com/track/2gqTWssF1gWHT0SbQYoQgB"
+      "duration_ms": 203583,
+      "name": "Moja droga",
+      "url": "https://open.spotify.com/track/6CI1dS84yJlTzhHRcaak34"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
+        "name": "ASMR",
+        "url": "https://open.spotify.com/album/2J0jcZfuIQX0kgEz87MG3o"
+      },
+      "artists": [
+        {
+          "name": "VBS",
+          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
+        }
+      ],
+      "duration_ms": 230169,
+      "name": "ASMR",
+      "url": "https://open.spotify.com/track/7EhMso5bZ2o60CNXi5S11B"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
         "name": "usa",
         "url": "https://open.spotify.com/album/5936AQNkhWX56AIuejoKQp"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 129032,
       "name": "usa",
       "url": "https://open.spotify.com/track/5funIcHMQlkEU1U0IygYjN"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "ASMR",
-        "url": "https://open.spotify.com/album/2J0jcZfuIQX0kgEz87MG3o"
-      },
-      "artists": [
-        {
-          "name": "VBS",
-          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
-        }
-      ],
-      "duration_ms": 230169,
-      "name": "ASMR",
-      "url": "https://open.spotify.com/track/7EhMso5bZ2o60CNXi5S11B"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "BACKLOG",
-        "url": "https://open.spotify.com/album/7wIyd8GLtrLZli1Ju4zaF2"
-      },
-      "artists": [
-        {
-          "name": "\u015aWI\u0118TY BASS",
-          "url": "https://open.spotify.com/artist/2sklN95nQCwgpfPikUHPjP"
-        }
-      ],
-      "duration_ms": 182093,
-      "name": "BACKLOG",
-      "url": "https://open.spotify.com/track/3wQNn8UrIa7YdfenRTDQRk"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
         "name": "FALA MIXTAPE vol. 3",
         "url": "https://open.spotify.com/album/5NyVbn4kxfRLBUum2loW9h"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 170602,
       "name": "Sto lat",
       "url": "https://open.spotify.com/track/0QffgdjTLJk7J9dmgoyp70"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "BACKLOG",
+        "url": "https://open.spotify.com/album/7wIyd8GLtrLZli1Ju4zaF2"
+      },
+      "artists": [
+        {
+          "name": "\u015aWI\u0118TY BASS",
+          "url": "https://open.spotify.com/artist/2sklN95nQCwgpfPikUHPjP"
+        }
+      ],
+      "duration_ms": 182093,
+      "name": "BACKLOG",
+      "url": "https://open.spotify.com/track/3wQNn8UrIa7YdfenRTDQRk"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1047,30 +1047,6 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "UTAH",
-        "url": "https://open.spotify.com/album/06i2MDJJB0ysjWwcCoMkRL"
-      },
-      "artists": [
-        {
-          "name": "Bedzik",
-          "url": "https://open.spotify.com/artist/2rLulWQ79BASTjvtgbggmT"
-        },
-        {
-          "name": "nat cichocka",
-          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
-        },
-        {
-          "name": "Brojustchill",
-          "url": "https://open.spotify.com/artist/2HGryFNNmXo0zLT2fG8VKP"
-        }
-      ],
-      "duration_ms": 119200,
-      "name": "UTAH",
-      "url": "https://open.spotify.com/track/0Ijvz6ebztdR78N1SXDSlG"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
         "name": "KOCYK",
         "url": "https://open.spotify.com/album/6otKunCaKoVcwp8kwzQD0t"
       },
@@ -1091,6 +1067,30 @@
       "duration_ms": 261293,
       "name": "KOCYK",
       "url": "https://open.spotify.com/track/14F0eGV9bXZYwSPuyKTTlP"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "UTAH",
+        "url": "https://open.spotify.com/album/06i2MDJJB0ysjWwcCoMkRL"
+      },
+      "artists": [
+        {
+          "name": "Bedzik",
+          "url": "https://open.spotify.com/artist/2rLulWQ79BASTjvtgbggmT"
+        },
+        {
+          "name": "nat cichocka",
+          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
+        },
+        {
+          "name": "Brojustchill",
+          "url": "https://open.spotify.com/artist/2HGryFNNmXo0zLT2fG8VKP"
+        }
+      ],
+      "duration_ms": 119200,
+      "name": "UTAH",
+      "url": "https://open.spotify.com/track/0Ijvz6ebztdR78N1SXDSlG"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1203,46 +1203,6 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "NOWY WOKAL",
-        "url": "https://open.spotify.com/album/7ouU2RfeQyoBeXsDcVhomC"
-      },
-      "artists": [
-        {
-          "name": "Bracki",
-          "url": "https://open.spotify.com/artist/0R4OUULhxKUm6b1O4R2B2A"
-        },
-        {
-          "name": "Zippy Ogar",
-          "url": "https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU"
-        },
-        {
-          "name": "Chaos Beats",
-          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
-        }
-      ],
-      "duration_ms": 189767,
-      "name": "NOWY WOKAL",
-      "url": "https://open.spotify.com/track/0bZW5Log78bUgvShYkpBSS"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "Sogo",
-        "url": "https://open.spotify.com/album/0CCXO7HLWx00ZGGMtAoTDB"
-      },
-      "artists": [
-        {
-          "name": "pszona",
-          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
-        }
-      ],
-      "duration_ms": 150638,
-      "name": "Sogo",
-      "url": "https://open.spotify.com/track/2M8jdzfmhgvpuqryLsyTsR"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
         "name": "\u017bEBY NIE SK\u0141AMA\u0106",
         "url": "https://open.spotify.com/album/5qBbw8xfHUFwqaTXHRpv0Y"
       },
@@ -1267,6 +1227,38 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
+        "name": "Sogo",
+        "url": "https://open.spotify.com/album/0CCXO7HLWx00ZGGMtAoTDB"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        }
+      ],
+      "duration_ms": 150638,
+      "name": "Sogo",
+      "url": "https://open.spotify.com/track/2M8jdzfmhgvpuqryLsyTsR"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Serato",
+        "url": "https://open.spotify.com/album/2S8IceuyzqvYYCE6xjyYQh"
+      },
+      "artists": [
+        {
+          "name": "North Side District",
+          "url": "https://open.spotify.com/artist/5cgM3Z3Lp71ESK7UQLRVdS"
+        }
+      ],
+      "duration_ms": 147368,
+      "name": "Serato",
+      "url": "https://open.spotify.com/track/2R3TOtP2vsvaSxKMiKLc0X"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
         "name": "KAM-CAR",
         "url": "https://open.spotify.com/album/5GKvM5h2ets6EmwN3mu2QM"
       },
@@ -1287,18 +1279,26 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Serato",
-        "url": "https://open.spotify.com/album/2S8IceuyzqvYYCE6xjyYQh"
+        "name": "NOWY WOKAL",
+        "url": "https://open.spotify.com/album/7ouU2RfeQyoBeXsDcVhomC"
       },
       "artists": [
         {
-          "name": "North Side District",
-          "url": "https://open.spotify.com/artist/5cgM3Z3Lp71ESK7UQLRVdS"
+          "name": "Bracki",
+          "url": "https://open.spotify.com/artist/0R4OUULhxKUm6b1O4R2B2A"
+        },
+        {
+          "name": "Zippy Ogar",
+          "url": "https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU"
+        },
+        {
+          "name": "Chaos Beats",
+          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
         }
       ],
-      "duration_ms": 147368,
-      "name": "Serato",
-      "url": "https://open.spotify.com/track/2R3TOtP2vsvaSxKMiKLc0X"
+      "duration_ms": 189767,
+      "name": "NOWY WOKAL",
+      "url": "https://open.spotify.com/track/0bZW5Log78bUgvShYkpBSS"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Z\u0142oty Ksi\u0105\u017c\u0119 (piosenka do ksi\u0105\u017cki \u201eHellPunk\u201d)",
-        "url": "https://open.spotify.com/album/4eC0RhinrhV5v3HY1KRpzD"
-      },
-      "artists": [
-        {
-          "name": "Na Wp\u00f3\u0142 \u015alepy Cz\u0142owiek",
-          "url": "https://open.spotify.com/artist/6S5EjH95MgsQ48nGxbM4aV"
-        }
-      ],
-      "duration_ms": 143214,
-      "name": "Z\u0142oty Ksi\u0105\u017c\u0119 (piosenka do ksi\u0105\u017cki \u201eHellPunk\u201d)",
-      "url": "https://open.spotify.com/track/4K6cd75AfK9jfbXGYC2URY"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
         "name": "GRUUVSTEP",
         "url": "https://open.spotify.com/album/08vh7X5H0uGLo3oaesbIqm"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 195555,
       "name": "GRUUVSTEP",
       "url": "https://open.spotify.com/track/3ZjXsaS9Ix2O7D9JUZsXYS"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Z\u0142oty Ksi\u0105\u017c\u0119 (piosenka do ksi\u0105\u017cki \u201eHellPunk\u201d)",
+        "url": "https://open.spotify.com/album/4eC0RhinrhV5v3HY1KRpzD"
+      },
+      "artists": [
+        {
+          "name": "Na Wp\u00f3\u0142 \u015alepy Cz\u0142owiek",
+          "url": "https://open.spotify.com/artist/6S5EjH95MgsQ48nGxbM4aV"
+        }
+      ],
+      "duration_ms": 143214,
+      "name": "Z\u0142oty Ksi\u0105\u017c\u0119 (piosenka do ksi\u0105\u017cki \u201eHellPunk\u201d)",
+      "url": "https://open.spotify.com/track/4K6cd75AfK9jfbXGYC2URY"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
+        "name": "zamieniaj si\u0119 w s\u0142uch, kiedy zamieniam si\u0119 w sampel",
+        "url": "https://open.spotify.com/album/4oKHdzwkwCtflykT5qjvLm"
+      },
+      "artists": [
+        {
+          "name": "asl33p",
+          "url": "https://open.spotify.com/artist/6lAdHrwad3QyDb70RvvM1g"
+        }
+      ],
+      "duration_ms": 217178,
+      "name": "wejd\u017amina\u0142eb",
+      "url": "https://open.spotify.com/track/365iGlz3KrZRCoZ3hsJHVJ"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
         "name": "ad hoc",
         "url": "https://open.spotify.com/album/79UqiVLzDlx1XBmGT5ozUe"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 161094,
       "name": "Tygrysy Europy",
       "url": "https://open.spotify.com/track/4edHAEwmAN2CHXeuMKsmUh"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "zamieniaj si\u0119 w s\u0142uch, kiedy zamieniam si\u0119 w sampel",
-        "url": "https://open.spotify.com/album/4oKHdzwkwCtflykT5qjvLm"
-      },
-      "artists": [
-        {
-          "name": "asl33p",
-          "url": "https://open.spotify.com/artist/6lAdHrwad3QyDb70RvvM1g"
-        }
-      ],
-      "duration_ms": 217178,
-      "name": "wejd\u017amina\u0142eb",
-      "url": "https://open.spotify.com/track/365iGlz3KrZRCoZ3hsJHVJ"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1607,26 +1607,26 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Trzymaj mnie",
-        "url": "https://open.spotify.com/album/3hnvY84sTOLF2PPiprshnS"
+        "name": "ad hoc",
+        "url": "https://open.spotify.com/album/79UqiVLzDlx1XBmGT5ozUe"
       },
       "artists": [
         {
-          "name": "J.Kossak",
-          "url": "https://open.spotify.com/artist/0St7FFRawlk3SB59vqMC8e"
+          "name": "Expo 2000",
+          "url": "https://open.spotify.com/artist/2mJaMgykjhvCzdLp8jltpu"
         },
         {
-          "name": "FANT\u00d8M",
-          "url": "https://open.spotify.com/artist/3txITmpi5Y5yUnangRGPn5"
+          "name": "Memfiz",
+          "url": "https://open.spotify.com/artist/498DCpjnWn1Ck3M7Cs9AOe"
         },
         {
-          "name": "clearmind",
-          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
+          "name": "DJ Te",
+          "url": "https://open.spotify.com/artist/4Y7PxPGTVqa0NcR5XKZEQo"
         }
       ],
-      "duration_ms": 152823,
-      "name": "Trzymaj mnie",
-      "url": "https://open.spotify.com/track/6rkvOH0qBEcF02z5Pqm1oZ"
+      "duration_ms": 182615,
+      "name": "Przebi\u015bniegi",
+      "url": "https://open.spotify.com/track/5lNWxVjDM2RsgX6L7Qm0me"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1651,22 +1651,26 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Dzieci we Mgle",
-        "url": "https://open.spotify.com/album/1FbOVOkT00RyUaDt2s1y8c"
+        "name": "Trzymaj mnie",
+        "url": "https://open.spotify.com/album/3hnvY84sTOLF2PPiprshnS"
       },
       "artists": [
         {
-          "name": "Del-M",
-          "url": "https://open.spotify.com/artist/4U4eB30KhlMJ97PPSbwlqW"
+          "name": "J.Kossak",
+          "url": "https://open.spotify.com/artist/0St7FFRawlk3SB59vqMC8e"
         },
         {
-          "name": "badxxample",
-          "url": "https://open.spotify.com/artist/3DyHhgMlQQIW7TwG55VaIl"
+          "name": "FANT\u00d8M",
+          "url": "https://open.spotify.com/artist/3txITmpi5Y5yUnangRGPn5"
+        },
+        {
+          "name": "clearmind",
+          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
         }
       ],
-      "duration_ms": 225832,
-      "name": "Spalony Dom",
-      "url": "https://open.spotify.com/track/6QqZbnVPmx90QwR1HpDGDj"
+      "duration_ms": 152823,
+      "name": "Trzymaj mnie",
+      "url": "https://open.spotify.com/track/6rkvOH0qBEcF02z5Pqm1oZ"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1695,26 +1699,22 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "ad hoc",
-        "url": "https://open.spotify.com/album/79UqiVLzDlx1XBmGT5ozUe"
+        "name": "Dzieci we Mgle",
+        "url": "https://open.spotify.com/album/1FbOVOkT00RyUaDt2s1y8c"
       },
       "artists": [
         {
-          "name": "Expo 2000",
-          "url": "https://open.spotify.com/artist/2mJaMgykjhvCzdLp8jltpu"
+          "name": "Del-M",
+          "url": "https://open.spotify.com/artist/4U4eB30KhlMJ97PPSbwlqW"
         },
         {
-          "name": "Memfiz",
-          "url": "https://open.spotify.com/artist/498DCpjnWn1Ck3M7Cs9AOe"
-        },
-        {
-          "name": "DJ Te",
-          "url": "https://open.spotify.com/artist/4Y7PxPGTVqa0NcR5XKZEQo"
+          "name": "badxxample",
+          "url": "https://open.spotify.com/artist/3DyHhgMlQQIW7TwG55VaIl"
         }
       ],
-      "duration_ms": 182615,
-      "name": "Przebi\u015bniegi",
-      "url": "https://open.spotify.com/track/5lNWxVjDM2RsgX6L7Qm0me"
+      "duration_ms": 225832,
+      "name": "Spalony Dom",
+      "url": "https://open.spotify.com/track/6QqZbnVPmx90QwR1HpDGDj"
     },
     {
       "added_at": "2024-07-25 22:00:00",

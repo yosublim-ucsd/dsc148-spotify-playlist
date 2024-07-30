@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 ### [Novidades da Semana](https://open.spotify.com/playlist/37i9dQZF1DX34KNiFQJNVm)
 
-> Os lançamentos dessa semana incluem Mari Fernandez com Zé Felipe, KayBlack, BIN e muito mais!
+> Os lançamentos dessa semana incluem POCAH, Kevi Jonny com Matheus & Kauan e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,924,183 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,924,235 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 75 | [Malandrinha](https://open.spotify.com/track/5CgshXFOD2zlRXI2Oq1Dkn) | [MC Mari](https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth), [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Malandrinha](https://open.spotify.com/album/6cNTZizyK7MSCx1soEmJUH) | 2:04 |
 | 76 | [Beijo Incompatível \(Ao Vivo\)](https://open.spotify.com/track/71b61XCd31dynitTso5DIn) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp), [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Beijo Incompatível \(Ao Vivo\)](https://open.spotify.com/album/2IKwMWVh7x65hjY751Jhrj) | 3:59 |
 
-Snapshot ID: `ZqMR5AAAAADR4oxPRuTBrmTp00JnFSl/`
+Snapshot ID: `ZqeXZgAAAAClX0AD7JI+8DEUHWDP0Plk`

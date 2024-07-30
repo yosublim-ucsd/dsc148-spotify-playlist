@@ -1,12 +1,12 @@
 {
-  "description": "This Is Nanpa B\u00e1sico. Los temas esenciales, todos en una lista.",
-  "num_followers": 220418,
+  "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
+  "num_followers": 220507,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAAB14nWIe2zvH3ovNGTcPZQt",
+  "snapshot_id": "ZqWKAAAAAACO7VYoMnzhvt85iVtiTcuT",
   "tracks": [
     {
       "added_at": null,
@@ -543,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mal Mal Mal",
-        "url": "https://open.spotify.com/album/3x7JpBJgdqWUEDM0M3Tuv5"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 228214,
-      "name": "Mal Mal Mal",
-      "url": "https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sui G\u00e9neris",
         "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 279014,
       "name": "Hace Tanto Tiempo",
       "url": "https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mal Mal Mal",
+        "url": "https://open.spotify.com/album/3x7JpBJgdqWUEDM0M3Tuv5"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 228214,
+      "name": "Mal Mal Mal",
+      "url": "https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX"
     },
     {
       "added_at": null,

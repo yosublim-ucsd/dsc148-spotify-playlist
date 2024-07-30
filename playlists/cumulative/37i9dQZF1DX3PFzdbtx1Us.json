@@ -2929,6 +2929,24 @@
     },
     {
       "album": {
+        "name": "L'or du temps",
+        "url": "https://open.spotify.com/album/6Tab6Rsk2duWXaPseT2GHp"
+      },
+      "artists": [
+        {
+          "name": "Keiko Ishida",
+          "url": "https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138264,
+      "name": "L'or du temps",
+      "url": "https://open.spotify.com/track/4GLHnYC81ZvMcQuChl19gk"
+    },
+    {
+      "album": {
         "name": "La Luna de Sangre",
         "url": "https://open.spotify.com/album/7hOEvWbLsmJENthSUfXJch"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Ton Carfi",
-  "num_followers": 304568,
+  "num_followers": 304644,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
+        "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
+        "url": "https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6"
+      },
+      "artists": [
+        {
+          "name": "Trilo",
+          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
+        }
+      ],
+      "duration_ms": 211817,
+      "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
+      "url": "https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk"
+    },
+    {
+      "added_at": "2024-07-19 03:01:00",
+      "album": {
         "name": "T\u00e1 Chorando Por Qu\u00ea?",
         "url": "https://open.spotify.com/album/7eZ3qo42FAWFHue9UkuHv5"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 214445,
       "name": "T\u00e1 Chorando Por Qu\u00ea?",
       "url": "https://open.spotify.com/track/5NsIWuO8yute6RHF3Ij7cE"
-    },
-    {
-      "added_at": "2024-07-19 03:01:00",
-      "album": {
-        "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
-        "url": "https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6"
-      },
-      "artists": [
-        {
-          "name": "Trilo",
-          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
-        }
-      ],
-      "duration_ms": 211817,
-      "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
-      "url": "https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk"
     },
     {
       "added_at": "2024-07-19 03:01:00",

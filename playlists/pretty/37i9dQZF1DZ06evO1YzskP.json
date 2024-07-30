@@ -1,12 +1,12 @@
 {
-  "description": "This Is La Receta. Los temas esenciales, todos en una lista.",
-  "num_followers": 27328,
+  "description": "This is La Receta. The essential tracks, all in one playlist.",
+  "num_followers": 27374,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAAAuySMrV6N91aHs6gw8p9bk",
+  "snapshot_id": "ZqWKAAAAAADEUV4DLJItwijsYi2p5Vw0",
   "tracks": [
     {
       "added_at": null,
@@ -128,9 +128,25 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 216800,
-      "name": "Ojitos Lindos",
-      "url": "https://open.spotify.com/track/6fON6XAgh3MWT1QBw4katd"
+      "duration_ms": 208413,
+      "name": "Malas Decisiones",
+      "url": "https://open.spotify.com/track/2iO3N5docEHN5irGJRVoqA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marbella",
+        "url": "https://open.spotify.com/album/103oYDFlPuP4UuYFeHxQbX"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 170469,
+      "name": "Marbella",
+      "url": "https://open.spotify.com/track/3YNf8wa1hHcwmJQeMrrrBX"
     },
     {
       "added_at": null,
@@ -171,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marbella",
-        "url": "https://open.spotify.com/album/103oYDFlPuP4UuYFeHxQbX"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 170469,
-      "name": "Marbella",
-      "url": "https://open.spotify.com/track/3YNf8wa1hHcwmJQeMrrrBX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Aesthetic",
         "url": "https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp"
       },
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 208413,
-      "name": "Malas Decisiones",
-      "url": "https://open.spotify.com/track/2iO3N5docEHN5irGJRVoqA"
+      "duration_ms": 216800,
+      "name": "Ojitos Lindos",
+      "url": "https://open.spotify.com/track/6fON6XAgh3MWT1QBw4katd"
     },
     {
       "added_at": null,

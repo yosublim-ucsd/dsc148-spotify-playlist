@@ -1258,10 +1258,28 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
+    },
+    {
+      "album": {
+        "name": "Just An Illusion",
+        "url": "https://open.spotify.com/album/0OxG0ZAPmPYVSDmu1u2aXa"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278906,
+      "name": "All I Ever Ask",
+      "url": "https://open.spotify.com/track/3f3m9goDpt4T7m19vGHxcW"
     },
     {
       "album": {
@@ -2416,7 +2434,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-29",
+      "date_removed": null,
       "duration_ms": 306847,
       "name": "Angel Numbers / Ten Toes",
       "url": "https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv"
@@ -4274,7 +4292,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 380251,
       "name": "Bayazi (feat. Mellow & Sleazy, Nobantu Vilakazi, Cowboii)",
       "url": "https://open.spotify.com/track/3mxQry8oUO3gvdz9sGkbud"
@@ -6538,7 +6556,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 297706,
       "name": "Can You Stand The Rain",
       "url": "https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2"
@@ -6892,7 +6910,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 350396,
       "name": "Chengu Shesha (feat. Al xapo, Vyno Keys and QuayR Musiq)",
       "url": "https://open.spotify.com/track/2wXExC9YzKpslEpiUpUlou"
@@ -8392,7 +8410,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 372320,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/4gOXXoIOkur9FZsRpReV9x"
@@ -13362,7 +13380,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 102813,
       "name": "Girl With The Tattoo Enter.lewd",
       "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
@@ -17564,7 +17582,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 410847,
       "name": "iPlan",
       "url": "https://open.spotify.com/track/5yyYL1FpimADTIftYQU0cg"
@@ -18250,7 +18268,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 414966,
       "name": "Izenzo",
       "url": "https://open.spotify.com/track/3pImmSzeKex5ffzsDoaL3z"
@@ -20006,7 +20024,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 368666,
       "name": "Kokotela (feat. Scotts Maphuma & Gipa)",
       "url": "https://open.spotify.com/track/48lcmlbwm4VHcOfXqWlVbx"
@@ -23208,7 +23226,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 427217,
       "name": "Masithokoze",
       "url": "https://open.spotify.com/track/2idjAQVybG1IRGeZIxIxYK"
@@ -28522,7 +28540,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 408014,
       "name": "Pholisa",
       "url": "https://open.spotify.com/track/2nYDr6EASJj7UcjiEmlvj0"
@@ -32296,7 +32314,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 551579,
       "name": "Selimathunzi",
       "url": "https://open.spotify.com/track/2HiHffF7XArCZDDn5VNUGM"
@@ -36386,7 +36404,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 475664,
       "name": "Thath'Indawo (Live)",
       "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
@@ -37314,7 +37332,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 269500,
       "name": "Thula Mabota",
       "url": "https://open.spotify.com/track/4xXHrIiIeW7dMh5FoYI5m1"
@@ -37840,7 +37858,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-29",
+      "date_removed": null,
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
@@ -41316,7 +41334,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 201400,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/4EI8VuxUuIHKfafU72emqz"
@@ -42116,7 +42134,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 217346,
       "name": "When I See U",
       "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
@@ -43124,7 +43142,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 263683,
       "name": "Yebo",
       "url": "https://open.spotify.com/track/3GLF4uV3uS1ImSEPyhLZLp"

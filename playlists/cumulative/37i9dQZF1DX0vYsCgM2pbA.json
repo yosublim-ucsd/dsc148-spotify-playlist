@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 200813,
       "name": "Feel It - Claptone Remix",
       "url": "https://open.spotify.com/track/4Gnz8xgMWStsGMSU8ITxNS"
@@ -3198,6 +3198,28 @@
       "duration_ms": 182622,
       "name": "The City",
       "url": "https://open.spotify.com/track/1GNU5GDMAP2xTlLa7qN18k"
+    },
+    {
+      "album": {
+        "name": "The Door (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/0lFoxDrwrNWwtfw1KohwAN"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210476,
+      "name": "The Door - CYRIL Remix",
+      "url": "https://open.spotify.com/track/6VD3T09spn64tjPcBih64P"
     },
     {
       "album": {

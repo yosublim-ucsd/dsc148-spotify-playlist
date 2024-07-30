@@ -4,7 +4,7 @@
 
 > Les meilleurs hits Pop c'est ici\. Cover: Hind Ziadi
 
-137 songs - 7 hr 27 min
+138 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [MAAK](https://open.spotify.com/track/4g1AKn1RwrNmCUTzl6pSI3) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [MAAK](https://open.spotify.com/album/6WvD9R9JdMBN9elz1qcg9Y) | 3:24 | 2023-07-07 | 2023-08-15 |
 | [Maalabalich](https://open.spotify.com/track/6O7AbZ5y4dJY2BUspC9jRe) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Maalabalich](https://open.spotify.com/album/6yXcj13AGTgEeDzfJp6BRh) | 3:10 | 2024-07-19 |  |
 | [Magdar](https://open.spotify.com/track/4vT286Zu3aHYW96N76joB7) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Magdar](https://open.spotify.com/album/2BgCJlo2EDx4w5uxTP3hJC) | 3:12 | 2024-05-18 |  |
-| [Mahboul Ana](https://open.spotify.com/track/2YmbOhmRPDZ5XD5l9jROln) | [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Mahboul Ana](https://open.spotify.com/album/5S0X8OEdaDeVvvH5EoSlxY) | 3:05 | 2024-07-23 |  |
+| [Mahboul Ana](https://open.spotify.com/track/6bQftLbIxlg6uMXEL77h1a) | [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Mahboul Ana](https://open.spotify.com/album/4gsrCRVyVyzxQnaA6ZCi3K) | 3:05 | 2024-07-29 |  |
+| [Mahboul Ana](https://open.spotify.com/track/2YmbOhmRPDZ5XD5l9jROln) | [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Mahboul Ana](https://open.spotify.com/album/5S0X8OEdaDeVvvH5EoSlxY) | 3:05 | 2024-07-23 | 2024-07-30 |
 | [Makhelaw magalou](https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [Makhelaw magalou](https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO) | 3:00 | 2023-07-07 | 2023-11-08 |
 | [Mal Zin Ka3i](https://open.spotify.com/track/1BlVs0gLBfUFfUcyKl5vYk) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Mal Zin Ka3i](https://open.spotify.com/album/7obbmiS8zGRgc5fAjfZqTG) | 3:30 | 2024-02-24 |  |
 | [Malak](https://open.spotify.com/track/3Xj2v1c3y5rm9L7CjmSCrA) | [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h) | [Malak](https://open.spotify.com/album/4FGAjuNQNKJDpkw2ufs6B0) | 3:04 | 2023-07-07 | 2024-05-03 |

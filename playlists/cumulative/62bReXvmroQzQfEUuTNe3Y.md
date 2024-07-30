@@ -4,7 +4,7 @@
 
 > Summer chill tracks to vibe or dance to in 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-438 songs - 1 day 0 hr 45 min
+439 songs - 1 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Into You](https://open.spotify.com/track/6mSvPv99eglwMQB0gypeGI) | [Sylow](https://open.spotify.com/artist/4EviTlMaY400FfDijNqzaK), [Steve RGA](https://open.spotify.com/artist/1moCa3rEpOn2cNzv3GdKBN) | [Into You](https://open.spotify.com/album/04uw8O9c0uxp2yy6b9UJp9) | 3:00 | 2021-09-04 | 2021-10-16 |
 | [Isla \- Radio Edit](https://open.spotify.com/track/1s6Ur2LBUGzbAHd935MUw9) | [Felon](https://open.spotify.com/artist/4mRHCOgJQT3Pe6zV89tfYC) | [Isla \(Radio Edit\)](https://open.spotify.com/album/5clwJtMkeaSIRGYYoMhnaN) | 3:12 | 2020-09-13\* | 2021-03-06 |
 | [I’ll Find My Way To You](https://open.spotify.com/track/2R2haDSmphwkn4kANdHU5P) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [I’ll Find My Way To You](https://open.spotify.com/album/21DMxcktIoXJynH4cUBz1F) | 4:24 | 2021-09-18 | 2024-05-18 |
+| [Jump](https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC) | [Jump](https://open.spotify.com/album/6RyWbtser6LYefUpnemhIO) | 2:33 | 2024-07-29 |  |
 | [Just a Dream](https://open.spotify.com/track/4yFpHBMp9ruVQmN1TgGWOL) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Just a Dream](https://open.spotify.com/album/7GuDH0XJmTsFJMAQ1ywTfz) | 2:29 | 2021-03-06 | 2021-05-29 |
 | [Just A Lover](https://open.spotify.com/track/1OLksRNEmcH5G7uHg2z2Fv) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z) | [Just A Lover](https://open.spotify.com/album/22BocM6fRXSP598tdVxYLo) | 2:50 | 2021-03-06 | 2021-09-18 |
 | [Just Friends](https://open.spotify.com/track/3NjyrsDr4qS0L424H4muQd) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Boy Matthews](https://open.spotify.com/artist/2jn9JOmdrR9BdiR1LTvYG4) | [Between Us](https://open.spotify.com/album/3BFj0MO4iiDBggZXcJ5k4D) | 3:58 | 2021-03-06 | 2021-11-11 |
@@ -230,7 +231,7 @@
 | [Love's Not Over \- Dawn Edit](https://open.spotify.com/track/4igakSDtom2NQ54wYfPSOx) | [AN21](https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn), [Silhouette](https://open.spotify.com/artist/0mD76jJsxQwaZLhqgt6XRu), [Kuaigon](https://open.spotify.com/artist/4bgLx8IahWxzxBKpZ1W5Kx) | [Love's Not Over](https://open.spotify.com/album/5uS5FNN9QqSh0OCWdbOGU7) | 3:30 | 2023-04-21 | 2023-08-20 |
 | [Lovesick](https://open.spotify.com/track/6VzJ202FqcnPcxaUXUeY1t) | [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Lovesick](https://open.spotify.com/album/3W988ylVkS5vw3I5nq0MTn) | 2:33 | 2022-07-22 |  |
 | [Lullaby](https://open.spotify.com/track/2yZH82CumlAogNd4UqkFE6) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Lullaby](https://open.spotify.com/album/6SOSCpuewAjwFrbRNEPluK) | 2:26 | 2022-02-25 | 2022-06-11 |
-| [Luv Is Not Enough](https://open.spotify.com/track/0Hy5csM0LflFU0vUU9wFpj) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37), [Forrest Mortifee](https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ) | [Luv Is Not Enough \(Remixes\)](https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa) | 3:17 | 2024-02-23 |  |
+| [Luv Is Not Enough](https://open.spotify.com/track/0Hy5csM0LflFU0vUU9wFpj) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37), [Forrest Mortifee](https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ) | [Luv Is Not Enough \(Remixes\)](https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa) | 3:17 | 2024-02-23 | 2024-07-30 |
 | [Madness To Mayhem](https://open.spotify.com/track/5KNxP5oVDzSjtrpnjbFxIZ) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Oddyssey](https://open.spotify.com/album/3e3Y0xzqF6CGHFeGolUVsE) | 6:56 | 2020-09-13\* | 2021-03-06 |
 | [Magic](https://open.spotify.com/track/4cn2oPfhfpI3Q5UGF9Q8mN) | [Kisch](https://open.spotify.com/artist/5geAjOsxhftVd39yemf4r8), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Magic](https://open.spotify.com/album/4v7f44zLEP8Jpl2S4c7IBf) | 2:21 | 2021-03-11 | 2021-10-02 |
 | [Majesty](https://open.spotify.com/track/03jzORYDO63zFswHZzfzpp) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP) | [Majesty](https://open.spotify.com/album/5Qz1kKR5GoGvgvhcLbvZKm) | 2:41 | 2021-07-24 | 2021-08-07 |

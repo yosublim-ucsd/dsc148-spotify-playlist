@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 
 ### [This Is MC Davo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2gWHXq)
 
-> This is MC Davo\. The essential tracks, all in one playlist.
+> This Is MC Davo\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,346 likes - 52 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,374 likes - 52 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,13 +27,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 17 | [Tumbao](https://open.spotify.com/track/6ztcwuxPlPOXoo9PG5ZhWE) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Estilo Fino](https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh) | 3:18 |
 | 18 | [No Me Arrepiento \(feat\. Gera MX, Neto Peña, Santa Fe Klan\)](https://open.spotify.com/track/6TVKrzgEE5b0TP5oVLeZLh) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 4:28 |
 | 19 | [Debes de saber](https://open.spotify.com/track/06T04xn5eDNWfzblgZ88P8) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:00 |
-| 20 | [Adiós](https://open.spotify.com/track/5Axt9lZg5tqQir8U12ocQU) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Psicosis](https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p) | 3:21 |
-| 21 | [Ella Es Una Amenaza](https://open.spotify.com/track/1lhlIrjvx7855s8JXZg5pF) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Psicosis 2](https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO) | 3:25 |
+| 20 | [Ella Es Una Amenaza](https://open.spotify.com/track/1lhlIrjvx7855s8JXZg5pF) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Psicosis 2](https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO) | 3:25 |
+| 21 | [Adiós](https://open.spotify.com/track/5Axt9lZg5tqQir8U12ocQU) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Psicosis](https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p) | 3:21 |
 | 22 | [Con Todo Menos Con Miedo](https://open.spotify.com/track/5BWZHBmOTRL2fA0djH3aYZ) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Con Todo Menos Con Miedo](https://open.spotify.com/album/7nJr0EhoIRfakDLlcYNIyi) | 2:36 |
 | 23 | [¿Cómo Se Supera?](https://open.spotify.com/track/3YVgqw3Qw5GZGSiNXw7sd5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [¿Cómo Se Supera?](https://open.spotify.com/album/2y7fMhpx5uexdebjJEuNzF) | 3:23 |
 | 24 | [Mentiras](https://open.spotify.com/track/2wUmYFiVDBPem4AfPGscsM) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Mentiras](https://open.spotify.com/album/2OppjQEXGEldFhZA7PZwPK) | 4:43 |
-| 25 | [Round 7](https://open.spotify.com/track/32IndMzD07SrdRxWQ7G7Fd) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Round 7](https://open.spotify.com/album/5ynjByApIoTlaO6Hszz59N) | 3:34 |
-| 26 | [Ay Amor](https://open.spotify.com/track/6ok8RAvW1sPRIGkLN8iP3N) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [De Plaza en Plaza](https://open.spotify.com/album/1j1nVyoW6gnZaj8ucEQl3o) | 3:42 |
+| 25 | [Ay Amor](https://open.spotify.com/track/6ok8RAvW1sPRIGkLN8iP3N) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [De Plaza en Plaza](https://open.spotify.com/album/1j1nVyoW6gnZaj8ucEQl3o) | 3:42 |
+| 26 | [Round 7](https://open.spotify.com/track/32IndMzD07SrdRxWQ7G7Fd) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Round 7](https://open.spotify.com/album/5ynjByApIoTlaO6Hszz59N) | 3:34 |
 | 27 | [Round 1](https://open.spotify.com/track/7tD4XEfccqvsG7iUuDt0BB) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Round 1 \(feat\. MC Davo\) \- Single](https://open.spotify.com/album/3d29hQi3BhkXTNQrXhBbxQ) | 3:54 |
 | 28 | [Aunque Ya No Estés](https://open.spotify.com/track/4x5uhfmxxxXlO5LizTFyFm) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 3:22 |
 | 29 | [Si Preguntan por Mí](https://open.spotify.com/track/4BHysBnR9QD9cSDlx0hC5s) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Si Preguntan por Mí](https://open.spotify.com/album/4POHA2ZskfSfw9s2zqRtKY) | 3:48 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 51 | [Mi corazón \(feat\. Mc Davo\)](https://open.spotify.com/track/1t9cFXkrMn9ZMKhQO7AWpq) | [Arsenal de Rimas](https://open.spotify.com/artist/0s3Y8xkWIDr2B4qDsgKJUL), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Cara o cruz, pt\. 1](https://open.spotify.com/album/6KZuvoco8qmsJ6q64QLMiM) | 4:32 |
 | 52 | [Juegos de pasión](https://open.spotify.com/track/3bRXRniN8vaUWFf3FMDPMM) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:04 |
 
-Snapshot ID: `ZqQ4gAAAAACVUtex5SeZxyZ0rv8nZI25`
+Snapshot ID: `ZqWKAAAAAABejqwcFaTTyBFOTgEezefK`

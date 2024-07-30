@@ -1,12 +1,12 @@
 {
   "description": "songs to live byyyyy. cover: Medium Build",
-  "num_followers": 1153052,
+  "num_followers": 1152399,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqMfQAAAAACOoFOxuR8bK8Ra5svIY1WW",
+  "snapshot_id": "ZqeyNwAAAACu83h5tgHWWY9ZxoCkB37X",
   "tracks": [
     {
       "added_at": "2024-07-19 04:00:00",
@@ -185,20 +185,84 @@
       "url": "https://open.spotify.com/track/1ShRHPAiiIrh0arZbSFmx1"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/1AalLj6vq3wHgrjGC6dEJU"
+        "name": "cherry cola / sunburn",
+        "url": "https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn"
       },
       "artists": [
         {
-          "name": "Armlock",
-          "url": "https://open.spotify.com/artist/7BoU3VkauvnYvttpymQ7pG"
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
         }
       ],
-      "duration_ms": 144378,
-      "name": "Fear",
-      "url": "https://open.spotify.com/track/3jWb0jEGG4OGlIM5EHoqjc"
+      "duration_ms": 168226,
+      "name": "cherry cola",
+      "url": "https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "If Only + No One Noticed",
+        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
+    },
+    {
+      "added_at": "2024-07-04 17:14:57",
+      "album": {
+        "name": "Summer Song",
+        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "duration_ms": 245504,
+      "name": "Summer Song",
+      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Look At That Woman",
+        "url": "https://open.spotify.com/album/6PUO24m7ConrwJHbfDqjij"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 163458,
+      "name": "Look At That Woman",
+      "url": "https://open.spotify.com/track/5LbKwcuefoCUxlPkHEjGGW"
+    },
+    {
+      "added_at": "2024-07-12 20:46:09",
+      "album": {
+        "name": "There Goes My Baby",
+        "url": "https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "There Goes My Baby",
+      "url": "https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext"
     },
     {
       "added_at": "2024-07-10 15:54:47",
@@ -215,6 +279,70 @@
       "duration_ms": 201111,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88"
+    },
+    {
+      "added_at": "2024-07-25 01:53:10",
+      "album": {
+        "name": "Can't Be Replaced",
+        "url": "https://open.spotify.com/album/7xJIMVxZethRdgC4RR2XLV"
+      },
+      "artists": [
+        {
+          "name": "Faye Meana",
+          "url": "https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP"
+        }
+      ],
+      "duration_ms": 219374,
+      "name": "Can't Be Replaced",
+      "url": "https://open.spotify.com/track/5CNIP9G7LJX4JeaVF1XxBd"
+    },
+    {
+      "added_at": "2024-07-10 15:54:47",
+      "album": {
+        "name": "She's Leaving You",
+        "url": "https://open.spotify.com/album/07Wpt6vMno7YmKR4F5AoFp"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 278226,
+      "name": "She's Leaving You",
+      "url": "https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/1AalLj6vq3wHgrjGC6dEJU"
+      },
+      "artists": [
+        {
+          "name": "Armlock",
+          "url": "https://open.spotify.com/artist/7BoU3VkauvnYvttpymQ7pG"
+        }
+      ],
+      "duration_ms": 144378,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/3jWb0jEGG4OGlIM5EHoqjc"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -249,6 +377,22 @@
       "url": "https://open.spotify.com/track/0mMlo76aVZHpuvoR6fjBSK"
     },
     {
+      "added_at": "2024-07-10 15:54:47",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/1A1zf55JDCIn6qEAb1g8N8"
+      },
+      "artists": [
+        {
+          "name": "an00k",
+          "url": "https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB"
+        }
+      ],
+      "duration_ms": 188899,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/5swbXHitmJ9RqBrgK8gEYC"
+    },
+    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Big Ideas",
@@ -263,22 +407,6 @@
       "duration_ms": 225996,
       "name": "Frog Rock",
       "url": "https://open.spotify.com/track/4H2yFvIre5zNiiamtQVqMI"
-    },
-    {
-      "added_at": "2024-07-25 01:53:10",
-      "album": {
-        "name": "Can't Be Replaced",
-        "url": "https://open.spotify.com/album/7xJIMVxZethRdgC4RR2XLV"
-      },
-      "artists": [
-        {
-          "name": "Faye Meana",
-          "url": "https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP"
-        }
-      ],
-      "duration_ms": 219374,
-      "name": "Can't Be Replaced",
-      "url": "https://open.spotify.com/track/5CNIP9G7LJX4JeaVF1XxBd"
     },
     {
       "added_at": "2024-06-26 17:07:59",
@@ -297,38 +425,6 @@
       "url": "https://open.spotify.com/track/12xM3OgBvG73MOfVCEphGg"
     },
     {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "cherry cola / sunburn",
-        "url": "https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn"
-      },
-      "artists": [
-        {
-          "name": "Devon Again",
-          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
-        }
-      ],
-      "duration_ms": 168226,
-      "name": "cherry cola",
-      "url": "https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k"
-    },
-    {
-      "added_at": "2024-07-10 15:54:47",
-      "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/1A1zf55JDCIn6qEAb1g8N8"
-      },
-      "artists": [
-        {
-          "name": "an00k",
-          "url": "https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB"
-        }
-      ],
-      "duration_ms": 188899,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/5swbXHitmJ9RqBrgK8gEYC"
-    },
-    {
       "added_at": "2024-07-01 17:33:24",
       "album": {
         "name": "BRAT",
@@ -343,22 +439,6 @@
       "duration_ms": 151739,
       "name": "Apple",
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "If Only + No One Noticed",
-        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -391,38 +471,6 @@
       "duration_ms": 203760,
       "name": "Ever Seen",
       "url": "https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6"
-    },
-    {
-      "added_at": "2024-07-04 17:14:57",
-      "album": {
-        "name": "Summer Song",
-        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
-      },
-      "artists": [
-        {
-          "name": "Remy Bond",
-          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
-        }
-      ],
-      "duration_ms": 245504,
-      "name": "Summer Song",
-      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Look At That Woman",
-        "url": "https://open.spotify.com/album/6PUO24m7ConrwJHbfDqjij"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 163458,
-      "name": "Look At That Woman",
-      "url": "https://open.spotify.com/track/5LbKwcuefoCUxlPkHEjGGW"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -477,22 +525,6 @@
       "url": "https://open.spotify.com/track/2RH2ZzLgzRb7OyIhv5VJSy"
     },
     {
-      "added_at": "2024-07-12 20:46:09",
-      "album": {
-        "name": "There Goes My Baby",
-        "url": "https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "There Goes My Baby",
-      "url": "https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext"
-    },
-    {
       "added_at": "2024-07-12 04:06:08",
       "album": {
         "name": "Image",
@@ -539,22 +571,6 @@
       "duration_ms": 216000,
       "name": "moment",
       "url": "https://open.spotify.com/track/7vyuwxrFhhrQzvi7QGUkge"
-    },
-    {
-      "added_at": "2024-07-10 15:54:47",
-      "album": {
-        "name": "She's Leaving You",
-        "url": "https://open.spotify.com/album/07Wpt6vMno7YmKR4F5AoFp"
-      },
-      "artists": [
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
-        }
-      ],
-      "duration_ms": 278226,
-      "name": "She's Leaving You",
-      "url": "https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru"
     },
     {
       "added_at": "2024-07-12 04:06:08",
@@ -691,22 +707,6 @@
       "duration_ms": 228040,
       "name": "Already Gone",
       "url": "https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "So Cold",
-        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
     },
     {
       "added_at": "2024-05-10 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,707 likes - 151 songs - 8 hr 30 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,707 likes - 152 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,5 +159,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 149 | [One More Night \- feat\. Flume](https://open.spotify.com/track/4tAms1KMqptEzmO59cULhS) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Can You Hear Me Dreaming?](https://open.spotify.com/album/3gi2MFodyrIh2X2r1hbgvx) | 2:44 |
 | 150 | [Say](https://open.spotify.com/track/6OVWzb8z0HCUscjq9wb1Yo) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe), [Willaris\. K](https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj) | [Say](https://open.spotify.com/album/0J9qs4ytoY8jvOuf4E2lp5) | 2:54 |
 | 151 | [Moments](https://open.spotify.com/track/0BU2hNH4lvkignYKP6kJW8) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Moments](https://open.spotify.com/album/3wLwVLZ25BdqRKjcnWSTx5) | 3:08 |
+| 152 | [PARTY](https://open.spotify.com/track/7JjY69WrRWHtY09Wn9V1tv) | [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m), [OOTORO](https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI) | [PARTY](https://open.spotify.com/album/0sJoDFsVQN657EwQCXCChE) | 2:08 |
 
-Snapshot ID: `AAAp3Y2b+Klz1+2he4/pACch0K8IXxlv`
+Snapshot ID: `AAAp3sw8mAY7QUvm3al3RwdMP85x/veu`

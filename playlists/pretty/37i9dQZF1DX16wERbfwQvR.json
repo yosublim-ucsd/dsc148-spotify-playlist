@@ -1,6 +1,6 @@
 {
   "description": "Father of the symphony and string quartet, and teacher to both Mozart and Beethoven. This is Haydn.",
-  "num_followers": 77357,
+  "num_followers": 77369,
   "original_name": "This Is Haydn",
   "owner": {
     "name": "Spotify",
@@ -199,30 +199,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Haydn: Symphonies Nos. 92, 93, & 97-99",
-        "url": "https://open.spotify.com/album/6MW6687ZuwLgLwbOJ9U5j3"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Sir Colin Davis",
-          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
-        }
-      ],
-      "duration_ms": 479681,
-      "name": "Symphony No. 92 in G Major, Hob. 1:92 \"Oxford Symphony\": I. Adagio - Allegro spiritoso",
-      "url": "https://open.spotify.com/track/6su8WsxgKHN7wm93zIZQ7q"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Haydn: Symphony Nos. 104 & 94 'Surprise'",
         "url": "https://open.spotify.com/album/5KyxVX4Mf8TPcuEGul3QUs"
       },
@@ -247,6 +223,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Haydn: Piano Trios Nos. 39 \"Gypsy\" & 43-45",
+        "url": "https://open.spotify.com/album/4LSxh7ez4cnOH6uFXqAH5q"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Trio Wanderer",
+          "url": "https://open.spotify.com/artist/30gSCgs3b5RPNMHVjl1RLd"
+        }
+      ],
+      "duration_ms": 356733,
+      "name": "Piano Trio No. 39 in G Major, Hob. XV: 25 'Gypsy\": I. Andante",
+      "url": "https://open.spotify.com/track/1d0mVkzYmxp822pjE2JVrM"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Haydn: Complete Piano Trios, Vol. 1 - Fischer: one bar wonder",
         "url": "https://open.spotify.com/album/4lA4fApKQ011SDnbe6RaGi"
       },
@@ -267,8 +263,8 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Haydn: Piano Trios Nos. 39 \"Gypsy\" & 43-45",
-        "url": "https://open.spotify.com/album/4LSxh7ez4cnOH6uFXqAH5q"
+        "name": "Haydn: Symphonies Nos. 92, 93, & 97-99",
+        "url": "https://open.spotify.com/album/6MW6687ZuwLgLwbOJ9U5j3"
       },
       "artists": [
         {
@@ -276,13 +272,17 @@
           "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
         },
         {
-          "name": "Trio Wanderer",
-          "url": "https://open.spotify.com/artist/30gSCgs3b5RPNMHVjl1RLd"
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
         }
       ],
-      "duration_ms": 356733,
-      "name": "Piano Trio No. 39 in G Major, Hob. XV: 25 'Gypsy\": I. Andante",
-      "url": "https://open.spotify.com/track/1d0mVkzYmxp822pjE2JVrM"
+      "duration_ms": 479681,
+      "name": "Symphony No. 92 in G Major, Hob. 1:92 \"Oxford Symphony\": I. Adagio - Allegro spiritoso",
+      "url": "https://open.spotify.com/track/6su8WsxgKHN7wm93zIZQ7q"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1231,34 +1231,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Haydn: Piano Concertos, Hob.Xviii:3,4,9,11",
-        "url": "https://open.spotify.com/album/2JsBGnrBURPjm0vQ9P8N7q"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Sebastian Knauer",
-          "url": "https://open.spotify.com/artist/6hRtFDYbfdrGOgKcIuN7nh"
-        },
-        {
-          "name": "Kolner Kammerorchester",
-          "url": "https://open.spotify.com/artist/6cMjCqXVEAqDZdiobyEkug"
-        },
-        {
-          "name": "Helmut M\u00fcller-Br\u00fchl",
-          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
-        }
-      ],
-      "duration_ms": 388120,
-      "name": "Keyboard Concerto in F Major, Hob. XVIII:3: II. Largo cantabile",
-      "url": "https://open.spotify.com/track/60uGdH8uQxV40AZsSN9GQT"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Haydn \u00e0 l'anglaise",
         "url": "https://open.spotify.com/album/15S24PzWZu0ruMJGE2NWbh"
       },
@@ -1651,6 +1623,34 @@
       "duration_ms": 322253,
       "name": "Trio No. 97 in D Major: Adagio cantabile",
       "url": "https://open.spotify.com/track/0DMaT7zbxedn6UsbmcVlij"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Haydn: Piano Concertos, Hob.Xviii:3,4,9,11",
+        "url": "https://open.spotify.com/album/2JsBGnrBURPjm0vQ9P8N7q"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Sebastian Knauer",
+          "url": "https://open.spotify.com/artist/6hRtFDYbfdrGOgKcIuN7nh"
+        },
+        {
+          "name": "Kolner Kammerorchester",
+          "url": "https://open.spotify.com/artist/6cMjCqXVEAqDZdiobyEkug"
+        },
+        {
+          "name": "Helmut M\u00fcller-Br\u00fchl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "duration_ms": 388120,
+      "name": "Keyboard Concerto in F Major, Hob. XVIII:3: II. Largo cantabile",
+      "url": "https://open.spotify.com/track/60uGdH8uQxV40AZsSN9GQT"
     },
     {
       "added_at": "2022-07-29 04:01:00",

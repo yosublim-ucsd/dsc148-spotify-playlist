@@ -1,12 +1,12 @@
 {
-  "description": "This is Cardi B. The essential tracks, all in one playlist.",
+  "description": "This Is Cardi B. Los temas esenciales, todos en una lista.",
   "num_followers": 673230,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAACoAFWI3uJRqwppO19pzAxn",
+  "snapshot_id": "ZqWKAAAAAADPiU27hu77mZUatNcXWBoo",
   "tracks": [
     {
       "added_at": null,
@@ -967,30 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Father Of Asahd",
-        "url": "https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 202625,
-      "name": "Wish Wish (feat. Cardi B & 21 Savage)",
-      "url": "https://open.spotify.com/track/1Hd2XLitkt1PYCWSbfF5qV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Love (with SZA & Cardi B) [Extended Version]",
         "url": "https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4"
       },
@@ -1015,6 +991,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Father Of Asahd",
+        "url": "https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 202625,
+      "name": "Wish Wish (feat. Cardi B & 21 Savage)",
+      "url": "https://open.spotify.com/track/1Hd2XLitkt1PYCWSbfF5qV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Famous Cryp (Reloaded)",
         "url": "https://open.spotify.com/album/1bLGOKqe1vcQtUv6q5Mz0h"
       },
@@ -1035,34 +1035,6 @@
       "duration_ms": 297546,
       "name": "Thotiana (Remix)",
       "url": "https://open.spotify.com/track/6JhP3KShSV3PlniSWYHYAl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Girls (feat. Cardi B, Bebe Rexha & Charli XCX)",
-        "url": "https://open.spotify.com/album/0TITR3yePyzJvlnQk61AWP"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 221153,
-      "name": "Girls (feat. Cardi B, Bebe Rexha & Charli XCX)",
-      "url": "https://open.spotify.com/track/1YNQscOx6OqBQjxgJVhEeW"
     },
     {
       "added_at": null,
@@ -1095,6 +1067,34 @@
       "duration_ms": 374545,
       "name": "La Bebe - Remix",
       "url": "https://open.spotify.com/track/3DyiAk1BzIF8rq9rimypG4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Girls (feat. Cardi B, Bebe Rexha & Charli XCX)",
+        "url": "https://open.spotify.com/album/0TITR3yePyzJvlnQk61AWP"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 221153,
+      "name": "Girls (feat. Cardi B, Bebe Rexha & Charli XCX)",
+      "url": "https://open.spotify.com/track/1YNQscOx6OqBQjxgJVhEeW"
     },
     {
       "added_at": null,

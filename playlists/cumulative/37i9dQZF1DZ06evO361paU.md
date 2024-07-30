@@ -2,7 +2,7 @@
 
 ### [This Is Lenny Kravitz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO361paU)
 
-> This is Lenny Kravitz\. The essential tracks, all in one playlist.
+> This is Lenny Kravitz\. Todos os maiores hits em uma só playlist.
 
 83 songs - 6 hr 3 min
 

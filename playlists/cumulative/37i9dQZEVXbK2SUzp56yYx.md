@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belarus.
 
-599 songs - 1 day 3 hr 17 min
+601 songs - 1 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [No Rules!](https://open.spotify.com/track/4QWrK6lpr8rZ6sa8ymqMrq) | [Windows95Man](https://open.spotify.com/artist/4iIv1KxAdDsqfwq5XjcgQm) | [No Rules!](https://open.spotify.com/album/3hEmkfgNvZOuCNgzmpQWK6) | 2:55 | 2024-05-14 | 2024-05-25 |
 | [Non Serviam](https://open.spotify.com/track/5SC4SXHEBcNUAquzmYOLHS) | [Catvlyst](https://open.spotify.com/artist/3j9wHHkVut8osog7ldFGQZ) | [Non Serviam](https://open.spotify.com/album/5Ym5OQHSm9LRCbeRONXjTo) | 2:19 | 2024-03-28 | 2024-04-10 |
 | [Not My Problem](https://open.spotify.com/track/1T6dUV1mqXyA2bSP3lK0IZ) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [Not My Problem \(Flyer Than U\)](https://open.spotify.com/album/6G6eCUDFNO5A8rgWrxKddR) | 2:39 | 2024-07-02 |  |
-| [November](https://open.spotify.com/track/4FSg7aHsASSaFgskTYPCor) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [Heartbreak](https://open.spotify.com/album/5fsk4Ue6YywjUPGLc9miuk) | 2:49 | 2024-01-29 |  |
+| [November](https://open.spotify.com/track/4FSg7aHsASSaFgskTYPCor) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [Heartbreak](https://open.spotify.com/album/5fsk4Ue6YywjUPGLc9miuk) | 2:49 | 2024-01-29 | 2024-07-30 |
 | [Nuts](https://open.spotify.com/track/2sR1e5YFAvXVN6EiIwR2is) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:14 | 2024-06-12 | 2024-06-19 |
 | [née\-nah](https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:40 | 2024-01-30 | 2024-02-05 |
 | [Offline](https://open.spotify.com/track/2bvQXJW3vNwXSLHBEQPMtY) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Fryslân](https://open.spotify.com/album/0EUaEFRUhjmGkIPaEoEGIY) | 2:31 | 2024-05-28 | 2024-06-19 |
@@ -352,7 +352,8 @@
 | [WTF 2](https://open.spotify.com/track/66QWqZPA5Mxe8LpRjewkVv) | [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG), [EF](https://open.spotify.com/artist/2njFsjrcCYquIi53DQ9CiX) | [WTF 2](https://open.spotify.com/album/7ebZRkmaweJp2FKLP5NoFt) | 2:06 | 2024-03-09 | 2024-03-14 |
 | [WTF 2](https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW) | [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG), [EF](https://open.spotify.com/artist/31zD0TKiTJ0OlcW3I6JI27) | [WTF 2](https://open.spotify.com/album/4cFGu2A51oQ1lezuK6O9Dn) | 2:07 | 2024-02-22 | 2024-04-29 |
 | [wutiwant](https://open.spotify.com/track/6zsUUymWPtq5bkoc5y97cM) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/4NHsl52eIxHX3ZGh66ZYUx) | 3:13 | 2024-06-24 | 2024-07-29 |
-| [wutiwant](https://open.spotify.com/track/2dsLbTJoca1o1U1FxYmcxj) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/54aWJOfKA089vev7ORxAle) | 3:13 | 2024-07-28 |  |
+| [wutiwant](https://open.spotify.com/track/2dsLbTJoca1o1U1FxYmcxj) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/54aWJOfKA089vev7ORxAle) | 3:13 | 2024-07-28 | 2024-07-30 |
+| [wutiwant](https://open.spotify.com/track/7Ff17wDVMRzK1MNDjPqdMG) | [shinxyyy](https://open.spotify.com/artist/1AMoIvgZlR9ZatyqU5xCFr) | [wutiwant](https://open.spotify.com/album/5AG6WzqOS3r6QyDzXXPXT5) | 3:13 | 2024-07-29 |  |
 | [X\-SLIDE](https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4), [808iuli](https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li) | [X\-SLIDE](https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32) | 1:19 | 2024-06-25 |  |
 | [X\-SLIDE \- Ultra Slowed](https://open.spotify.com/track/0iaa1DkqOki4FFGq3QjGs3) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4), [808iuli](https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li) | [X\-SLIDE](https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32) | 2:06 | 2024-07-24 |  |
 | [XXX](https://open.spotify.com/track/3QcWzAQvI41KYheHtvsNoT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 2:04 | 2024-02-03 | 2024-02-07 |
@@ -506,6 +507,7 @@
 | [Опианариум](https://open.spotify.com/track/2QQyzKzcfg851nT9hAdtWx) | [pxnguin](https://open.spotify.com/artist/50IRqlllbhbFuGugTTbern) | [Опианариум](https://open.spotify.com/album/0ysUVI697JZwF53TUG0ujP) | 2:30 | 2024-05-01 | 2024-05-16 |
 | [Остановилось](https://open.spotify.com/track/0XJuB470ygCB92gRVnHwo1) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Остановилось](https://open.spotify.com/album/47QiX3vtKyBKyERL5mFm6v) | 2:57 | 2024-02-14 | 2024-02-17 |
 | [откусила ноги](https://open.spotify.com/track/3vD3puarTqGI6krYIFmTDX) | [шизоняшка](https://open.spotify.com/artist/6IiNECXHyWoUuikL235hd5) | [опасная малышка](https://open.spotify.com/album/2oRgztcRdqy6wodAuq7Wne) | 1:20 | 2024-07-10 | 2024-07-23 |
+| [откусила ноги](https://open.spotify.com/track/6sHxKLq7IUJPdTn2acOfiU) | [шизоняшка](https://open.spotify.com/artist/6IiNECXHyWoUuikL235hd5) | [опасная малышка](https://open.spotify.com/album/0oaodBJsSl9a3COQuUjYhm) | 1:20 | 2024-07-29 |  |
 | [Отстой](https://open.spotify.com/track/0fLAJS1gQfORDIT8YNYLkF) | [Ника КраснаЯ](https://open.spotify.com/artist/6wVgwrdiInEhnGSkSxk09A) | [Жвачка по рублю](https://open.spotify.com/album/7zhzED1BztksMSBBD6KKuj) | 2:25 | 2024-01-29 | 2024-02-24 |
 | [падаю](https://open.spotify.com/track/1wyAddDtDJiLoVF2K20DvZ) | [вышел покурить](https://open.spotify.com/artist/1YMUxFiaKsU85N9YolW0W9) | [падаю](https://open.spotify.com/album/5oAGgOeB0ZMXTun0y9Voam) | 2:29 | 2024-06-18 | 2024-06-26 |
 | [Папа](https://open.spotify.com/track/1QZff08vy1RuCcQ21weBj4) | [AQYLA](https://open.spotify.com/artist/0wI2wGuYMI3uBdr6QMHV2G), [Krishtall ZHS](https://open.spotify.com/artist/734luSQXdL2QWq462NLDdy) | [SKI](https://open.spotify.com/album/2PD5kTJ2Gb9eq5xrD0hwDf) | 2:10 | 2024-06-29 | 2024-07-17 |

@@ -4,7 +4,7 @@
 
 > Dance tracks for your power moves
 
-169 songs - 7 hr 43 min
+170 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Misbehave](https://open.spotify.com/track/5ycGcr8ZiWiutDmLps8UQG) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Misbehave](https://open.spotify.com/album/3HOuGQzSeUbHKB94Chyxj1) | 2:54 | 2024-02-07 |  |
 | [Mission Control](https://open.spotify.com/track/45lGbfYeIdseB3N8FSR9HG) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Mission Control](https://open.spotify.com/album/0TFqyokddXotEBOWcKYsdo) | 2:16 | 2024-02-07 | 2024-06-13 |
 | [Monsoon \(feat\. Tokio Hotel\)](https://open.spotify.com/track/5KtDo0LvaAVjRXrIFrYgUF) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa) | [Monsoon \(feat\. Tokio Hotel\)](https://open.spotify.com/album/1vDHV4XiihKINCQhWX04O6) | 2:43 | 2024-02-07 | 2024-07-16 |
+| [Monster](https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Monster](https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz) | 2:24 | 2024-07-29 |  |
 | [Motive](https://open.spotify.com/track/0WJ1XvutJMOUft1SDAmQU6) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Motive](https://open.spotify.com/album/5mjZF1yDtvDM0e4vXX5EZ9) | 2:12 | 2024-02-07 | 2024-03-08 |
 | [Mwaki \- Tiësto's VIP Mix](https://open.spotify.com/track/3bYSuNFC8UqtpTRKBcDtZf) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki \(Tiësto's VIP Mix\)](https://open.spotify.com/album/3pbFWOxjxLdlyxapT21PLe) | 2:40 | 2024-02-07 | 2024-05-23 |
 | [My City’s On Fire \- Tiësto Remix](https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [My City’s On Fire \(Tiësto Remix\)](https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP) | 2:21 | 2024-02-07 | 2024-06-13 |
@@ -123,7 +124,7 @@
 | [Pegasus](https://open.spotify.com/track/3m32ApgNXyT8qmON7oSK9U) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [PEGASUS](https://open.spotify.com/album/0mA286b0mXmbRDSxy2W7P1) | 3:00 | 2024-06-12 |  |
 | [Pieces](https://open.spotify.com/track/1bQeHzGMsZFQx9WRARaBJq) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF), [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U) | [Pieces](https://open.spotify.com/album/7pcxmOlHPAFeJEXJWF3ZqS) | 2:44 | 2024-03-06 | 2024-07-05 |
 | [Pop Some Tags](https://open.spotify.com/track/25owlYCoM7EiKwlixXBaB8) | [WAVES](https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ) | [Pop Some Tags](https://open.spotify.com/album/227QNgObxVtAGhJeN2OtRe) | 2:19 | 2024-02-07 |  |
-| [Pouring Rain](https://open.spotify.com/track/5Dr69idwPV2vBivHWuK0bO) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Pouring Rain](https://open.spotify.com/album/76uBRY8kdybYRBhBeRfK88) | 3:11 | 2024-03-06 |  |
+| [Pouring Rain](https://open.spotify.com/track/5Dr69idwPV2vBivHWuK0bO) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Pouring Rain](https://open.spotify.com/album/76uBRY8kdybYRBhBeRfK88) | 3:11 | 2024-03-06 | 2024-07-30 |
 | [Pretty Little Lies](https://open.spotify.com/track/2gg28k4Djlpg0a7SGsB8Zc) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Pretty Little Lies](https://open.spotify.com/album/3FoBg7SY8EkQ69NkSx3eAL) | 2:15 | 2024-02-07 | 2024-06-13 |
 | [Rapture](https://open.spotify.com/track/4zvBl1Qn1ZeTW4jkdnrEuq) | [Makasi](https://open.spotify.com/artist/6eV9xjvttxeYB2iST5hfT6), [Dannii Murphy](https://open.spotify.com/artist/3TmtulA8Wifl6Mt8c0JwtI) | [Rapture](https://open.spotify.com/album/5ztoSLLT7MGaSs1GMAtkUg) | 3:34 | 2024-07-04 |  |
 | [Rapture](https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [Rapture \(with Robert Falcon\)](https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB) | 3:07 | 2024-03-26 |  |

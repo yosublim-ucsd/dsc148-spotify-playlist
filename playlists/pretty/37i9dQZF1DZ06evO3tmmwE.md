@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 
 > This is Bo Bundy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,164 likes - 45 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,165 likes - 45 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,14 +34,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 | 24 | [Con Un Toque](https://open.spotify.com/track/4avwcBPGnQpkm9ZE2OCMCG) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Con Un Toque](https://open.spotify.com/album/7iZGyAz2CVYjw8ePLhqpqB) | 2:53 |
 | 25 | [Touring Tx](https://open.spotify.com/track/3QUhAIRAiWTAZXPPWsDinU) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 2:39 |
 | 26 | [Alto Calibre](https://open.spotify.com/track/0kKsJ0Pws7KiHQbFMRxGvS) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Young Tapz](https://open.spotify.com/artist/3Ufjh9B15yzmuUlv5m1x3y), [Tapz Money](https://open.spotify.com/artist/4cdMZM15Wtqv9u9Ih4DXTt) | [Alto Calibre](https://open.spotify.com/album/1dvxCTaYYJme526U0WEAek) | 2:40 |
-| 27 | [Tequila](https://open.spotify.com/track/524VJm7vgd42I1fOkYcwUO) | [N.E Mafio](https://open.spotify.com/artist/3NqezxhkriLPuVhVDC1cMS), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Tequila](https://open.spotify.com/album/15t2GcdpWSfe7sQrZ2VB3x) | 3:19 |
-| 28 | [Pa los Hombres](https://open.spotify.com/track/0gFsz5GfIcGnO9eM4htJOS) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Andy Hernandez](https://open.spotify.com/artist/7nB8tKUsp7YlXtuHdn8EMR) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:04 |
+| 27 | [Pa los Hombres](https://open.spotify.com/track/0gFsz5GfIcGnO9eM4htJOS) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Andy Hernandez](https://open.spotify.com/artist/7nB8tKUsp7YlXtuHdn8EMR) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:04 |
+| 28 | [Tequila](https://open.spotify.com/track/524VJm7vgd42I1fOkYcwUO) | [N.E Mafio](https://open.spotify.com/artist/3NqezxhkriLPuVhVDC1cMS), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Tequila](https://open.spotify.com/album/15t2GcdpWSfe7sQrZ2VB3x) | 3:19 |
 | 29 | [Big Chains](https://open.spotify.com/track/7uRLpDoVtEnhlaUFJyVTfX) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [HOODLUM](https://open.spotify.com/artist/2tH2e9dYfRSD6pjLbcieGQ), [Le$](https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 2:40 |
 | 30 | [RVD](https://open.spotify.com/track/011I1gMWFeHO1dMaWamVdr) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Nino de Oro](https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM) | 1:49 |
 | 31 | [Nave 687](https://open.spotify.com/track/2C8kQRpjB5N57EvpsZyU8i) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Nave 687](https://open.spotify.com/album/5pU9CpVy7lYs5ZL7Bp2Ai8) | 3:27 |
-| 32 | [Big Le$ter](https://open.spotify.com/track/5qGkr8pCLtW4BOvfOhamnB) | [Le$](https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [E30](https://open.spotify.com/album/3wFy8XIYlQ3rVGL1g3PcAc) | 4:47 |
+| 32 | [Cassius Clay](https://open.spotify.com/track/0G52dus3dx0cnobNQbieDi) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Godspeed](https://open.spotify.com/album/4w2VTx35NJRufT0ZFwNgcy) | 2:35 |
 | 33 | [25 Lighters](https://open.spotify.com/track/0JehGDrKNg4mSGmvz7em3G) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 2:22 |
-| 34 | [Cassius Clay](https://open.spotify.com/track/0G52dus3dx0cnobNQbieDi) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Godspeed](https://open.spotify.com/album/4w2VTx35NJRufT0ZFwNgcy) | 2:35 |
+| 34 | [Big Le$ter](https://open.spotify.com/track/5qGkr8pCLtW4BOvfOhamnB) | [Le$](https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [E30](https://open.spotify.com/album/3wFy8XIYlQ3rVGL1g3PcAc) | 4:47 |
 | 35 | [Alpaca Hearts](https://open.spotify.com/track/384v4uRNZBhcbW5WLSrzJq) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Alpaca Hearts](https://open.spotify.com/album/4RPQVDsfQ3Cvafe8WmuoJt) | 3:18 |
 | 36 | [Golden Child](https://open.spotify.com/track/1hwd655VNQi36ID8lbpM6R) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Nino de Oro](https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM) | 1:08 |
 | 37 | [Remember](https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 3:29 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 | 44 | [BBS Interlude](https://open.spotify.com/track/0pMnRhEsxfhbF8fuSEGAOQ) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 0:30 |
 | 45 | [No Bailes Asi \- Remix](https://open.spotify.com/track/7KGZ4RAnygOyGkplbKIWBe) | [Santos Jaguar](https://open.spotify.com/artist/4raGH2wc9abuAfGm1qWgyE), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [No Bailes Asi \(Remix\)](https://open.spotify.com/album/5YUUCEPXVdHZ6o69Yz0qCD) | 2:33 |
 
-Snapshot ID: `ZqQ4gAAAAABvWbXjx//KgqIieNarN2+R`
+Snapshot ID: `ZqWKAAAAAAA66le/ZzTjHUoLfETrDukG`

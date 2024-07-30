@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 
 ### [This Is Dharius](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Bunfq)
 
-> This Is Dharius\. Los temas esenciales, todos en una lista.
+> This is Dharius\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,385 likes - 51 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,426 likes - 51 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,16 +38,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 28 | [Estilo Malandro](https://open.spotify.com/track/5wLF7rGxYDi8qy4ch1IKGh) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:32 |
 | 29 | [Borracho Gacho](https://open.spotify.com/track/2f552XXwU9KIdxmXQQ4AqN) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Vicio y la Fama](https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI) | 2:45 |
 | 30 | [Espejismo](https://open.spotify.com/track/5SddVjDLzloefDoqO2xXJp) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 3:09 |
-| 31 | [La Misión \(Episodio 4\)](https://open.spotify.com/track/3TAzpSBGCZvFe3XuHevWoW) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [La Misión \(Episodio 4\)](https://open.spotify.com/album/5TzgFVuMKUDiyYPtMiX66e) | 4:53 |
-| 32 | [Mala Fama, Buena Vidha](https://open.spotify.com/track/6Ov2J0ExzEMhj6hVirzpWt) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:30 |
+| 31 | [Mala Fama, Buena Vidha](https://open.spotify.com/track/6Ov2J0ExzEMhj6hVirzpWt) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:30 |
+| 32 | [La Misión \(Episodio 4\)](https://open.spotify.com/track/3TAzpSBGCZvFe3XuHevWoW) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [La Misión \(Episodio 4\)](https://open.spotify.com/album/5TzgFVuMKUDiyYPtMiX66e) | 4:53 |
 | 33 | [El Bolsón](https://open.spotify.com/track/56BnSpQ60kTtOt415JTRoD) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [El Bolsón](https://open.spotify.com/album/6krHFxbelvtQ4IJ33MLtRe) | 3:51 |
 | 34 | [Retumbando en la Ciudad](https://open.spotify.com/track/729kMWkfzHPcum2dMczWoa) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Retumbando en la Ciudad](https://open.spotify.com/album/5cufO6yyzjtoouiGKv1R7J) | 3:34 |
-| 35 | [16 Toneladas](https://open.spotify.com/track/2zbrhonzYrXKiUbVx2czQt) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [16 Toneladas](https://open.spotify.com/album/38IwbkRgxq4eMIAR6MLU8j) | 3:26 |
-| 36 | [Hey Morra](https://open.spotify.com/track/0q7l3V8Hlbwvs2u9UN6w6P) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 3:53 |
+| 35 | [Hey Morra](https://open.spotify.com/track/0q7l3V8Hlbwvs2u9UN6w6P) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 3:53 |
+| 36 | [16 Toneladas](https://open.spotify.com/track/2zbrhonzYrXKiUbVx2czQt) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [16 Toneladas](https://open.spotify.com/album/38IwbkRgxq4eMIAR6MLU8j) | 3:26 |
 | 37 | [Broche De Oro](https://open.spotify.com/track/6bomSYIzgSeymVS1sdUhsu) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Esquina](https://open.spotify.com/album/1AUCWNSatHgDBNYvfthnNa) | 4:27 |
 | 38 | [Inhala](https://open.spotify.com/track/19U70d6IpR3x8XRBfGMXXI) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Yayo](https://open.spotify.com/artist/74ygGK6cTqo0Q7UadJytEJ) | [Inhala](https://open.spotify.com/album/5BC1qGaUadJLd5y4QIhhJS) | 4:05 |
-| 39 | [Esto Revienta](https://open.spotify.com/track/0eAgZ5JyKuowgYO9aZYsL9) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Esto Revienta](https://open.spotify.com/album/7sIju5560ZxxmUtY7Ah3bO) | 2:51 |
-| 40 | [Te Gustan Malos](https://open.spotify.com/track/6VexUh4HjrQOBEGhLKspoS) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:06 |
+| 39 | [Te Gustan Malos](https://open.spotify.com/track/6VexUh4HjrQOBEGhLKspoS) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:06 |
+| 40 | [Esto Revienta](https://open.spotify.com/track/0eAgZ5JyKuowgYO9aZYsL9) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Esto Revienta](https://open.spotify.com/album/7sIju5560ZxxmUtY7Ah3bO) | 2:51 |
 | 41 | [\#LQMQ](https://open.spotify.com/track/2U05xDmQBWf3nY01ZUTLPp) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [\#LQMQ](https://open.spotify.com/album/2wlQGKcIoJ2rm7dvgmTanP) | 3:31 |
 | 42 | [El Perdedor](https://open.spotify.com/track/5QKymytqsCOJX5Jw7vQYCi) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Perdedor](https://open.spotify.com/album/0J3NgEahBI5Hst8QJEY821) | 3:48 |
 | 43 | [El After Porky](https://open.spotify.com/track/0floU1nPyzIRi2QaEvm4Bu) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:43 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 50 | [Poco a Poco \(feat\. Lunatic, Z\-Xperimento & Beliko\)](https://open.spotify.com/track/4fuAlhVNKYCxDnU0MzXoFD) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Mhaya](https://open.spotify.com/artist/5HbNJgAcVq526lZFrM4sJi), [Kami Mami](https://open.spotify.com/artist/52WyfsARd4mYGaH1BBICDG), [Lunatic](https://open.spotify.com/artist/3wrdBMCPqcrkHztWO37Qb8), [Z\-Xperimento](https://open.spotify.com/artist/6L9Lp5b3SCpR3W7iJXmGdC), [Beliko](https://open.spotify.com/artist/0bD52a8xVx5b64rVnutDlg) | [Poco a Poco \(feat\. Lunatic, Z\-Xperimento & Beliko\)](https://open.spotify.com/album/315fLlUbg2VsiiJjhfsNfH) | 8:23 |
 | 51 | [PLAKATA](https://open.spotify.com/track/3LyM4jvcbsKx8Ps0R2qPSV) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Kami Mami](https://open.spotify.com/artist/52WyfsARd4mYGaH1BBICDG) | [PLAKATA](https://open.spotify.com/album/4TNvAbIvaUZOvHQtNTRyll) | 4:12 |
 
-Snapshot ID: `ZqQ4gAAAAACeDAofSA+P5SJHvSpWJIVK`
+Snapshot ID: `ZqWKAAAAAACgUbCRtQrE52uITpKEeZmU`

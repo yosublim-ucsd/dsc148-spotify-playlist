@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 58346,
+  "num_followers": 58471,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,18 @@
     {
       "added_at": "2024-07-26 08:59:42",
       "album": {
-        "name": "BENIN BOYS",
-        "url": "https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT"
+        "name": "HEIS",
+        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
       },
       "artists": [
         {
           "name": "Rema",
           "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         }
       ],
-      "duration_ms": 169879,
-      "name": "BENIN BOYS",
-      "url": "https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD"
+      "duration_ms": 137684,
+      "name": "OZEBA",
+      "url": "https://open.spotify.com/track/7ySC0IjVS1PMEdsZOvsUK2"
     },
     {
       "added_at": "2024-07-26 08:59:42",
@@ -355,18 +351,22 @@
     {
       "added_at": "2024-07-26 08:59:42",
       "album": {
-        "name": "HEIS",
-        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
+        "name": "BENIN BOYS",
+        "url": "https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT"
       },
       "artists": [
         {
           "name": "Rema",
           "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         }
       ],
-      "duration_ms": 137684,
-      "name": "OZEBA",
-      "url": "https://open.spotify.com/track/7ySC0IjVS1PMEdsZOvsUK2"
+      "duration_ms": 169879,
+      "name": "BENIN BOYS",
+      "url": "https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD"
     },
     {
       "added_at": "2024-07-26 08:59:42",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-07-26 08:59:42",
       "album": {
+        "name": "Loseyi Professor",
+        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 151282,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy"
+    },
+    {
+      "added_at": "2024-07-26 08:59:42",
+      "album": {
         "name": "WORLD BEST",
         "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 177318,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
-    },
-    {
-      "added_at": "2024-07-26 08:59:42",
-      "album": {
-        "name": "Loseyi Professor",
-        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 151282,
-      "name": "Casablanca",
-      "url": "https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy"
     },
     {
       "added_at": "2024-07-26 08:59:42",
@@ -643,30 +643,6 @@
     {
       "added_at": "2024-07-26 08:59:42",
       "album": {
-        "name": "TECHNICIAN",
-        "url": "https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Lekaa Beats",
-          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "TECHNICIAN (feat. Blaqbonez & Lekaa Beats)",
-      "url": "https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv"
-    },
-    {
-      "added_at": "2024-07-26 08:59:42",
-      "album": {
         "name": "Mnike (Remix) (feat. DJ Maphorisa, Shallipopi, Lojay, Ceeka RSA, Tyrone Dee & Nandipha808)",
         "url": "https://open.spotify.com/album/6KH9tRewOOHORoyJanRN0e"
       },
@@ -707,6 +683,30 @@
       "duration_ms": 358550,
       "name": "Mnike (Remix) (feat. DJ Maphorisa, Shallipopi, Lojay, Ceeka RSA, Tyrone Dee & Nandipha808)",
       "url": "https://open.spotify.com/track/77q3rIpcqFsTo7qNvKNiOh"
+    },
+    {
+      "added_at": "2024-07-26 08:59:42",
+      "album": {
+        "name": "TECHNICIAN",
+        "url": "https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Lekaa Beats",
+          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "TECHNICIAN (feat. Blaqbonez & Lekaa Beats)",
+      "url": "https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv"
     },
     {
       "added_at": "2024-07-26 08:59:42",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-07-26 08:59:42",
       "album": {
-        "name": "Small Money",
-        "url": "https://open.spotify.com/album/3wxXvsPsPxi0ZDrbPGmiB4"
-      },
-      "artists": [
-        {
-          "name": "Nasboi",
-          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "Small Money",
-      "url": "https://open.spotify.com/track/5jYCb3QsnXxS2Qh5HzwT7J"
-    },
-    {
-      "added_at": "2024-07-26 08:59:42",
-      "album": {
         "name": "Vibration",
         "url": "https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 181764,
       "name": "Vibration",
       "url": "https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN"
+    },
+    {
+      "added_at": "2024-07-26 08:59:42",
+      "album": {
+        "name": "Small Money",
+        "url": "https://open.spotify.com/album/3wxXvsPsPxi0ZDrbPGmiB4"
+      },
+      "artists": [
+        {
+          "name": "Nasboi",
+          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "Small Money",
+      "url": "https://open.spotify.com/track/5jYCb3QsnXxS2Qh5HzwT7J"
     },
     {
       "added_at": "2024-07-26 08:59:42",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2024-07-26 08:59:42",
       "album": {
-        "name": "Before The Feast",
-        "url": "https://open.spotify.com/album/3ShLyszujn5P1Jb5yihyNI"
-      },
-      "artists": [
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 183157,
-      "name": "Who Go Pay",
-      "url": "https://open.spotify.com/track/34ywCJhKleJmZ3YthwBL4u"
-    },
-    {
-      "added_at": "2024-07-26 08:59:42",
-      "album": {
         "name": "Reset (feat. Crayon & Bella Shmurda)",
         "url": "https://open.spotify.com/album/3itD5YIFHhsxo3ICHes9lA"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 163271,
       "name": "Reset (feat. Crayon & Bella Shmurda)",
       "url": "https://open.spotify.com/track/44GVJ3qYXpV3fbl1jhEIUs"
+    },
+    {
+      "added_at": "2024-07-26 08:59:42",
+      "album": {
+        "name": "Before The Feast",
+        "url": "https://open.spotify.com/album/3ShLyszujn5P1Jb5yihyNI"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 183157,
+      "name": "Who Go Pay",
+      "url": "https://open.spotify.com/track/34ywCJhKleJmZ3YthwBL4u"
     },
     {
       "added_at": "2024-07-26 08:59:42",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-07-26 08:59:42",
       "album": {
+        "name": "Finish Me (AEIOU)",
+        "url": "https://open.spotify.com/album/3WcAZQlQPsmeewc90tLg7H"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "duration_ms": 91428,
+      "name": "Finish Me (AEIOU)",
+      "url": "https://open.spotify.com/track/2u5YJtmjz0wRISSek8g2tS"
+    },
+    {
+      "added_at": "2024-07-26 08:59:42",
+      "album": {
         "name": "Big Fish",
         "url": "https://open.spotify.com/album/7nH8tRwm0FDUZnIFIS9q26"
       },
@@ -1355,38 +1371,6 @@
     {
       "added_at": "2024-07-26 08:59:42",
       "album": {
-        "name": "Finish Me (AEIOU)",
-        "url": "https://open.spotify.com/album/3WcAZQlQPsmeewc90tLg7H"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        }
-      ],
-      "duration_ms": 91428,
-      "name": "Finish Me (AEIOU)",
-      "url": "https://open.spotify.com/track/2u5YJtmjz0wRISSek8g2tS"
-    },
-    {
-      "added_at": "2024-07-26 08:59:42",
-      "album": {
-        "name": "Lifestyle",
-        "url": "https://open.spotify.com/album/68yMzpCWZr4Djpe2Fu26DB"
-      },
-      "artists": [
-        {
-          "name": "Lil Kesh",
-          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
-        }
-      ],
-      "duration_ms": 166081,
-      "name": "Lifestyle",
-      "url": "https://open.spotify.com/track/6CjwdO2Je63OyZAAbBfUej"
-    },
-    {
-      "added_at": "2024-07-26 08:59:42",
-      "album": {
         "name": "diallo",
         "url": "https://open.spotify.com/album/6JT7nlbLoXpx4wLcgVbRtE"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 163008,
       "name": "diallo",
       "url": "https://open.spotify.com/track/4J4wbHGBu104fVNTexTTsF"
+    },
+    {
+      "added_at": "2024-07-26 08:59:42",
+      "album": {
+        "name": "Lifestyle",
+        "url": "https://open.spotify.com/album/68yMzpCWZr4Djpe2Fu26DB"
+      },
+      "artists": [
+        {
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
+        }
+      ],
+      "duration_ms": 166081,
+      "name": "Lifestyle",
+      "url": "https://open.spotify.com/track/6CjwdO2Je63OyZAAbBfUej"
     },
     {
       "added_at": "2024-07-26 08:59:42",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-07-26 08:59:42",
       "album": {
+        "name": "Duffel Bag",
+        "url": "https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 127067,
+      "name": "Duffel Bag",
+      "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
+    },
+    {
+      "added_at": "2024-07-26 08:59:42",
+      "album": {
         "name": "Naija Funk",
         "url": "https://open.spotify.com/album/10MuD6qY8FZx08xgnlJc7O"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 159515,
       "name": "Divine Pree",
       "url": "https://open.spotify.com/track/1vk777z4n2WWmSENVpCEI7"
-    },
-    {
-      "added_at": "2024-07-26 08:59:42",
-      "album": {
-        "name": "Duffel Bag",
-        "url": "https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 127067,
-      "name": "Duffel Bag",
-      "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
     }
   ],
   "unique_name": "Party Dey!",

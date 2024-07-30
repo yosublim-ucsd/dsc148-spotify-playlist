@@ -10885,6 +10885,24 @@
     },
     {
       "album": {
+        "name": "Lo Caro y Lo Bueno",
+        "url": "https://open.spotify.com/album/0OfQaUoTd5zBiB7J9KdjbX"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196586,
+      "name": "Lo Caro y Lo Bueno",
+      "url": "https://open.spotify.com/track/2AhTzExaPgf9A8AXK2D2QW"
+    },
+    {
+      "album": {
         "name": "Location",
         "url": "https://open.spotify.com/album/1GrXGufWR0SpirLdB3fIMj"
       },
@@ -18208,7 +18226,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 192584,
       "name": "SORNERITA",
       "url": "https://open.spotify.com/track/3ZqO2DY8gfRA2nSKJuuBrz"

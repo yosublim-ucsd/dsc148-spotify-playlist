@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 
 ### [This Is Kaliii](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17rZzq)
 
-> This is Kaliii\. The essential tracks, all in one playlist.
+> This Is Kaliii\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,668 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,673 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 34 | [Run It Up](https://open.spotify.com/track/4FgLCYILnDFfT3qzmiAPFg) | [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [RAP SH!T: The Mixtape \(From the Max Original Series, S2\)](https://open.spotify.com/album/2WhkGLUX16VzmOjr6KSqRX) | 2:18 |
 | 35 | [Street Nigga \(feat\. Kaliii\)](https://open.spotify.com/track/0enS3HzQvOcZcQARcPQdK2) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Results Take Time](https://open.spotify.com/album/4pbph4ZWAanvsHlqztlFU9) | 2:35 |
 | 36 | [Bad Bad Bad](https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 2:33 |
-| 37 | [Bad Little Thing \(feat\. Kaliii\)](https://open.spotify.com/track/6RyWnQyBhjcfBsZyRTo9it) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bad Little Thing \(feat\. Kaliii\)](https://open.spotify.com/album/636r6Fd2dfuot0iCcK4KfJ) | 2:23 |
-| 38 | [ill nana \(feat\. Kali\)](https://open.spotify.com/track/0Ve9hRPGD8xtQZfVpUNLSR) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Keep It Playa](https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS) | 3:12 |
+| 37 | [ill nana \(feat\. Kali\)](https://open.spotify.com/track/0Ve9hRPGD8xtQZfVpUNLSR) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Keep It Playa](https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS) | 3:12 |
+| 38 | [Bad Little Thing \(feat\. Kaliii\)](https://open.spotify.com/track/6RyWnQyBhjcfBsZyRTo9it) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bad Little Thing \(feat\. Kaliii\)](https://open.spotify.com/album/636r6Fd2dfuot0iCcK4KfJ) | 2:23 |
 | 39 | [New Day](https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 2:34 |
 | 40 | [Big Body](https://open.spotify.com/track/44KCsHCsd0yQnyOm71XHQJ) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 1:46 |
 | 41 | [OOP](https://open.spotify.com/track/3ZZ2kSbVdgOhgoYFqQEsGB) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [OOP](https://open.spotify.com/album/2rUO2lLr9lVGLpmRmYOJBJ) | 2:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 49 | [Story Teller \- Original Mix](https://open.spotify.com/track/7grj3JBO3DGa4znViKeIki) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bridging the Gap, Vol\. 2 Compiled by Dynamic Range](https://open.spotify.com/album/1O9q3Fui5u2yLSiW6PaLPd) | 7:19 |
 | 50 | [Peakin'](https://open.spotify.com/track/6d9SCBxeBhVaZSBs3AVsb2) | [Dr\. Ink](https://open.spotify.com/artist/6pwXKrHAmcTYG3t9utQko4), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Earth Vs Aliens](https://open.spotify.com/album/77wY2XzNiKp6qV11p6vh8i) | 3:46 |
 
-Snapshot ID: `ZqQ4gAAAAADJuxDdyCy1IcfQqLXuFf0V`
+Snapshot ID: `ZqWKAAAAAADQJa3xKj5grC/eXaFSBaEk`

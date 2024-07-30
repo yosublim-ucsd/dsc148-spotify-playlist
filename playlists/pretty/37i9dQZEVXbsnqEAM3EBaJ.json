@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADr02J7BiCRCtV0JUvMtZsu",
+  "snapshot_id": "AAAAAAAAAAAosB/h4afnLlZCJs/qQFwl",
   "tracks": [
     {
       "added_at": "2024-07-26 04:00:00",
@@ -31,6 +31,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Bright Sunny Day (from Archives Vol. III)",
+        "url": "https://open.spotify.com/album/7DoJgA3SfEIY5yv9aGeOUe"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        },
+        {
+          "name": "Crazy Horse",
+          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
+        }
+      ],
+      "duration_ms": 163233,
+      "name": "Bright Sunny Day",
+      "url": "https://open.spotify.com/track/3jiYGE8jBpBBV7cnHj1x1C"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Armon\u00eda De Paz Interior: M\u00fasica Para La Meditaci\u00f3n",
         "url": "https://open.spotify.com/album/2OSAwHiALYqhNlXS5yXW1v"
       },
@@ -51,26 +71,6 @@
       "duration_ms": 362869,
       "name": "Acordes De Calma En El Espejo De La Mente",
       "url": "https://open.spotify.com/track/0p68bv1ONm80Kj5d4S8U03"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Bright Sunny Day (from Archives Vol. III)",
-        "url": "https://open.spotify.com/album/7DoJgA3SfEIY5yv9aGeOUe"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        },
-        {
-          "name": "Crazy Horse",
-          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
-        }
-      ],
-      "duration_ms": 163233,
-      "name": "Bright Sunny Day",
-      "url": "https://open.spotify.com/track/3jiYGE8jBpBBV7cnHj1x1C"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "= 1",
-        "url": "https://open.spotify.com/album/4nZFejdpJI4dqllNHlAjXE"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 224466,
-      "name": "Sharp Shooter",
-      "url": "https://open.spotify.com/track/0mpu7EUvtfjSvLPZuwc2u7"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Up In The Sky (Monnow Valley Version)",
         "url": "https://open.spotify.com/album/2wJyPwZTIlZ4Xeespb06IV"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 297972,
       "name": "Up In The Sky - Monnow Valley Version",
       "url": "https://open.spotify.com/track/7mjNRaaJ9UoBabebO00JNL"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "= 1",
+        "url": "https://open.spotify.com/album/4nZFejdpJI4dqllNHlAjXE"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 224466,
+      "name": "Sharp Shooter",
+      "url": "https://open.spotify.com/track/0mpu7EUvtfjSvLPZuwc2u7"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Seven Deadly (Deluxe edition)",
-        "url": "https://open.spotify.com/album/2WLc0MRCukxdziKfL702tU"
-      },
-      "artists": [
-        {
-          "name": "UFO",
-          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
-        }
-      ],
-      "duration_ms": 232493,
-      "name": "Other Men's Wives (bonus track)",
-      "url": "https://open.spotify.com/track/0KMJ9zFaGzt61Kc7oYNZDl"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/5zVhUz76UL3A1VXftq6g76"
       },
@@ -391,6 +375,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Seven Deadly (Deluxe edition)",
+        "url": "https://open.spotify.com/album/2WLc0MRCukxdziKfL702tU"
+      },
+      "artists": [
+        {
+          "name": "UFO",
+          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
+        }
+      ],
+      "duration_ms": 232493,
+      "name": "Other Men's Wives (bonus track)",
+      "url": "https://open.spotify.com/track/0KMJ9zFaGzt61Kc7oYNZDl"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "GENESIS",
         "url": "https://open.spotify.com/album/0lauCMMmgQpzDyQxqhXLuH"
       },
@@ -403,22 +403,6 @@
       "duration_ms": 193979,
       "name": "GENESIS",
       "url": "https://open.spotify.com/track/1Jijb30txJ6YZNe5DTu3Lb"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Shikanoko Nokonoko Koshitantan Meme",
-        "url": "https://open.spotify.com/album/25xw8BXlctmH3CxyTwJTBV"
-      },
-      "artists": [
-        {
-          "name": "The Covers Duo",
-          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
-        }
-      ],
-      "duration_ms": 326393,
-      "name": "Shikanoko Nokonoko Koshitantan Meme",
-      "url": "https://open.spotify.com/track/7pmP9JHlkAwa2UUN1mv49U"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -451,22 +435,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Smile (feat. Carolina Liar)",
-        "url": "https://open.spotify.com/album/5MwREpSNM3JMxAq8xqe3im"
+        "name": "Shikanoko Nokonoko Koshitantan Meme",
+        "url": "https://open.spotify.com/album/25xw8BXlctmH3CxyTwJTBV"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Carolina Liar",
-          "url": "https://open.spotify.com/artist/0OuSnRyi1OkLPkR4AqzJwi"
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
         }
       ],
-      "duration_ms": 192963,
-      "name": "Smile (feat. Carolina Liar)",
-      "url": "https://open.spotify.com/track/73SGUxXPloaU5CfeKkJf5D"
+      "duration_ms": 326393,
+      "name": "Shikanoko Nokonoko Koshitantan Meme",
+      "url": "https://open.spotify.com/track/7pmP9JHlkAwa2UUN1mv49U"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -487,18 +467,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "And Waves of Dreams",
-        "url": "https://open.spotify.com/album/4MaeSCqaXnO0RR0r42YLXx"
+        "name": "Smile (feat. Carolina Liar)",
+        "url": "https://open.spotify.com/album/5MwREpSNM3JMxAq8xqe3im"
       },
       "artists": [
         {
-          "name": "BVSMV",
-          "url": "https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Carolina Liar",
+          "url": "https://open.spotify.com/artist/0OuSnRyi1OkLPkR4AqzJwi"
         }
       ],
-      "duration_ms": 142000,
-      "name": "And Waves of Dreams",
-      "url": "https://open.spotify.com/track/4rxvzq4CtdaR1sNxAYCq6y"
+      "duration_ms": 192963,
+      "name": "Smile (feat. Carolina Liar)",
+      "url": "https://open.spotify.com/track/73SGUxXPloaU5CfeKkJf5D"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -515,6 +499,22 @@
       "duration_ms": 170640,
       "name": "Here I am",
       "url": "https://open.spotify.com/track/7qzpdzJRiIHXJpa28FYrD9"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "And Waves of Dreams",
+        "url": "https://open.spotify.com/album/4MaeSCqaXnO0RR0r42YLXx"
+      },
+      "artists": [
+        {
+          "name": "BVSMV",
+          "url": "https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "And Waves of Dreams",
+      "url": "https://open.spotify.com/track/4rxvzq4CtdaR1sNxAYCq6y"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -751,26 +751,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "I Like It (with Nate Smith)",
-        "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 152349,
-      "name": "I Like It (with Nate Smith)",
-      "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Herzblut",
         "url": "https://open.spotify.com/album/1i2onR9f7wxakNqJF3HfBc"
       },
@@ -791,22 +771,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Wilderness",
-        "url": "https://open.spotify.com/album/2s1J15Gm1NHPu7dXmv81uj"
-      },
-      "artists": [
-        {
-          "name": "Eyes Set To Kill",
-          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
-        }
-      ],
-      "duration_ms": 202758,
-      "name": "Wilderness",
-      "url": "https://open.spotify.com/track/3r2cEBiAQ0fiq4FM867d4y"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Best of: Living the Dream (Tarja's Non-Rock Specials)",
         "url": "https://open.spotify.com/album/7BNQjKP4HADfs1XinGEJqB"
       },
@@ -823,6 +787,42 @@
       "duration_ms": 167061,
       "name": "Oi, Kiitos Sa Luojani Armollinen - Live",
       "url": "https://open.spotify.com/track/1IyO9a2ic0w2O3e2jKTJ7D"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "I Like It (with Nate Smith)",
+        "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 152349,
+      "name": "I Like It (with Nate Smith)",
+      "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Wilderness",
+        "url": "https://open.spotify.com/album/2s1J15Gm1NHPu7dXmv81uj"
+      },
+      "artists": [
+        {
+          "name": "Eyes Set To Kill",
+          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
+        }
+      ],
+      "duration_ms": 202758,
+      "name": "Wilderness",
+      "url": "https://open.spotify.com/track/3r2cEBiAQ0fiq4FM867d4y"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Pretty Good To Feel Something",
-        "url": "https://open.spotify.com/album/1cPLGYaAsxln3s6UgpboQw"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 186679,
-      "name": "Pretty Good To Feel Something",
-      "url": "https://open.spotify.com/track/4JNMzNr6ukpwa6ALIMnkje"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Life Is Easy (10th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/0UGlEbULaeFF4KtAxRMMcb"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Hear You Me",
-        "url": "https://open.spotify.com/album/1O9tT8ySLZhhmHfCpVNESK"
+        "name": "Pretty Good To Feel Something",
+        "url": "https://open.spotify.com/album/1cPLGYaAsxln3s6UgpboQw"
       },
       "artists": [
         {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
         }
       ],
-      "duration_ms": 272639,
-      "name": "Hear You Me",
-      "url": "https://open.spotify.com/track/2lyUYcQi8XW0O3iAYmZpwi"
+      "duration_ms": 186679,
+      "name": "Pretty Good To Feel Something",
+      "url": "https://open.spotify.com/track/4JNMzNr6ukpwa6ALIMnkje"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -951,6 +935,22 @@
       "duration_ms": 622645,
       "name": "Symphony No. 6 in B Minor, Op. 74 \"Pathetique\": 4. Finale. Adagio lamentoso",
       "url": "https://open.spotify.com/track/7CyUo4HNS3vtbxs3PDJ5ql"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Hear You Me",
+        "url": "https://open.spotify.com/album/1O9tT8ySLZhhmHfCpVNESK"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "duration_ms": 272639,
+      "name": "Hear You Me",
+      "url": "https://open.spotify.com/track/2lyUYcQi8XW0O3iAYmZpwi"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Live At Rockpalast 1979 (Live, Hamburg, 1979)",
-        "url": "https://open.spotify.com/album/0t3ufEdHY8K6RRIYSLHCsc"
-      },
-      "artists": [
-        {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Keep Pushin' - Live, Hamburg, 1979",
-      "url": "https://open.spotify.com/track/0hOy1QMijkTp6lYEEAwfg2"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "I Have Notes",
         "url": "https://open.spotify.com/album/4l89gOBML1oUH3Yow6GEUY"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 160986,
       "name": "Couldn't Love You More",
       "url": "https://open.spotify.com/track/76Xe5O7neH9OCBYvqeEZsJ"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Live At Rockpalast 1979 (Live, Hamburg, 1979)",
+        "url": "https://open.spotify.com/album/0t3ufEdHY8K6RRIYSLHCsc"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Keep Pushin' - Live, Hamburg, 1979",
+      "url": "https://open.spotify.com/track/0hOy1QMijkTp6lYEEAwfg2"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

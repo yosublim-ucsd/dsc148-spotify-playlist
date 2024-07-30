@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301 likes - 401 songs - 21 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 302 likes - 401 songs - 21 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -233,8 +233,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 223 | [Everything I Love](https://open.spotify.com/track/3wfmbgaGrmNZxCs2NWgGP9) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Zoot Sims avec Henri Renaud et son orchestre](https://open.spotify.com/album/1tYXf9tuMLCiUrW18UwlHE) | 4:18 |
 | 224 | [If I Love Truly](https://open.spotify.com/track/5Mb2It5DIYn31rudSJPPWj) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Éxitos Inolvidables De Cole Porter](https://open.spotify.com/album/2A3nXj08Js61tgGduWopiM) | 2:27 |
 | 225 | [What Shall I Do?](https://open.spotify.com/track/6X3RuVm475liSLu6RalfRV) | [Sananda Maitreya](https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE) | [WildCard! \(The Jokers' Edition\)](https://open.spotify.com/album/2zTb0nRwFBinCiZG8QgI3k) | 5:11 |
-| 226 | [So Near and Yet So Far](https://open.spotify.com/track/6AC7UynRLE48GlJWEAWICV) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Songbooks](https://open.spotify.com/album/5LdHsGaNecatmBABHpbdoZ) | 3:21 |
-| 227 | [Hotel Balcony](https://open.spotify.com/track/2Y5DJlXI8AO3MAe16BkTAH) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:09 |
+| 226 | [Hotel Balcony](https://open.spotify.com/track/2Y5DJlXI8AO3MAe16BkTAH) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:09 |
+| 227 | [So Near and Yet So Far](https://open.spotify.com/track/6AC7UynRLE48GlJWEAWICV) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Songbooks](https://open.spotify.com/album/5LdHsGaNecatmBABHpbdoZ) | 3:21 |
 | 228 | [I'm gettin' myself ready for you](https://open.spotify.com/track/3ks8teAYHndHIccgy0T2PV) | [Blanche Calloway And Her Orchestra](https://open.spotify.com/artist/3CxyR0I8HEgLlqFS7oR3zg), [Blanche Calloway](https://open.spotify.com/artist/4Pb1I6ZTK7XnAfk7bJtvjh) | [Blanche Calloway, The first woman to lead an all male orchestra](https://open.spotify.com/album/4fBJ7BFYPLFmcPYj0F2rRT) | 3:07 |
 | 229 | [Restaurant Interior](https://open.spotify.com/track/4HfXk62xUdirEN5GL78iNu) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:53 |
 | 230 | [Another Spring, Another Love](https://open.spotify.com/track/7H0w7bTQtVGyyNtwuGtLg7) | [Marlene Dietrich](https://open.spotify.com/artist/3UuPzfQMdGK40O8Rj9jqVM) | [Marlene Dietrich \(Deluxe Edition\)](https://open.spotify.com/album/3GOd8BP1DNu1BbnPm8EDyQ) | 2:22 |
@@ -410,4 +410,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 400 | [Fish](https://open.spotify.com/track/31XMjn25vt3WReCJLzJvas) | [Wilfried Van Den Brande](https://open.spotify.com/artist/0SWts3H6XfovTeyTpePeYE) | [When Love Comes to Call](https://open.spotify.com/album/3UNm9uCpK0Q8bFn5NZ5hRJ) | 3:10 |
 | 401 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AbX72AAAAADvBK1SO/IqIi1SqYw8EjlC`
+Snapshot ID: `AbYBdwAAAABCkGfLkOhtWhkyleUkSX4d`

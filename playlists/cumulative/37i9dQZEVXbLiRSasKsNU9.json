@@ -3925,6 +3925,24 @@
     },
     {
       "album": {
+        "name": "Aradan \u00c7ok Y\u0131llar Ge\u00e7ti",
+        "url": "https://open.spotify.com/album/4rsN93FJo8QLv2MLSiMivc"
+      },
+      "artists": [
+        {
+          "name": "Tu\u011f\u00e7e Kandemir",
+          "url": "https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170490,
+      "name": "Aradan \u00c7ok Y\u0131llar Ge\u00e7ti",
+      "url": "https://open.spotify.com/track/4CDY8eGMrkQjyOTkvsXiq0"
+    },
+    {
+      "album": {
         "name": "ARASAN DA",
         "url": "https://open.spotify.com/album/604LjoILfRCmhYuLCFvel7"
       },
@@ -34578,7 +34596,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 171063,
       "name": "nadaaniyan",
       "url": "https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3"

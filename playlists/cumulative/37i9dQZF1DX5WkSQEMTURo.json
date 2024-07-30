@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "Deadpool & Wolverine (Original Score)",
+        "url": "https://open.spotify.com/album/2GdlXrmMB8sjkVytMyPHLj"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111960,
+      "name": "Hideout",
+      "url": "https://open.spotify.com/track/2LKHHfglc5hGRsgXk6nDxy"
+    },
+    {
+      "album": {
         "name": "Deadpool & Wolverine (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/7tTd4gjNDz51x9jXHdP73D"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is EGOIST. The essential tracks, all in one playlist.",
-  "num_followers": 40025,
+  "num_followers": 40031,
   "original_name": "This Is EGOIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAAD+Rky16EoQKSLvsktoKUxX",
+  "snapshot_id": "ZqWKAAAAAAD+TGawX1NwI5HFb9wyfKQ/",
   "tracks": [
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit- <DAY version>",
-        "url": "https://open.spotify.com/album/1lLiLkbIV9dwkyQ2blAzgD"
+        "name": "Fallen-TV edit-",
+        "url": "https://open.spotify.com/album/46rDtAexHCRaKZTa1dVd7y"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 90260,
-      "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit- <DAY version>",
-      "url": "https://open.spotify.com/track/4lhRGkiHL6opuapwlpMUlV"
+      "duration_ms": 89990,
+      "name": "Fallen-TV edit-",
+      "url": "https://open.spotify.com/track/1CYwRtu4PBxvkaWwE20byN"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fallen-TV edit-",
-        "url": "https://open.spotify.com/album/46rDtAexHCRaKZTa1dVd7y"
+        "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit- <DAY version>",
+        "url": "https://open.spotify.com/album/1lLiLkbIV9dwkyQ2blAzgD"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 89990,
-      "name": "Fallen-TV edit-",
-      "url": "https://open.spotify.com/track/1CYwRtu4PBxvkaWwE20byN"
+      "duration_ms": 90260,
+      "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit- <DAY version>",
+      "url": "https://open.spotify.com/track/4lhRGkiHL6opuapwlpMUlV"
     },
     {
       "added_at": null,

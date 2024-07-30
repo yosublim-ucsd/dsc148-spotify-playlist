@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-520 songs - 22 hr 16 min
+521 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Khalil’s Dream \- We Were Kids \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/78SdPJNpbYKFckGlN9742N) | [Vincent Bahar](https://open.spotify.com/artist/4bZYFEVwmWuiySymc3qU6G) | [Khalil’s Dream \- We Were Kids \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0KsyuIlt0USaOw5wsNXahJ) | 2:34 | 2022-04-21 | 2023-02-22 |
 | [Khalil’s Dream \- We Were Kids \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/7oo1QJQyaKjZfsrAPREJg9) | [Vincent Bahar](https://open.spotify.com/artist/4bZYFEVwmWuiySymc3qU6G) | [Khalil’s Dream \- We Were Kids \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5X82us2hGXoKqxqFiTfT5x) | 2:34 | 2023-02-21 | 2023-10-05 |
 | [Knowing](https://open.spotify.com/track/5ZCVigQ6yH25D61oA2fE4T) | [Jacob Higgins](https://open.spotify.com/artist/4BIgXu3VhBUcX6Y0TOHpoi) | [Knowing](https://open.spotify.com/album/3BMt2E5mIp4jXuPrv6AH9w) | 2:32 | 2021-12-07 | 2023-05-10 |
+| [L'or du temps](https://open.spotify.com/track/4GLHnYC81ZvMcQuChl19gk) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [L'or du temps](https://open.spotify.com/album/6Tab6Rsk2duWXaPseT2GHp) | 2:18 | 2024-07-29 |  |
 | [La Cosa Migliore Che So](https://open.spotify.com/track/2ad6KC9V4jvAB73Z5nWrFF) | [Loreto Bianco](https://open.spotify.com/artist/7DH3PpYqclWL9RpXN4B2PC) | [La Cosa Migliore Che So](https://open.spotify.com/album/6Jd4loeXMsmKpbvxFPnfm2) | 3:14 | 2021-12-07 |  |
 | [La gatta frettolosa fece i gattini ciechi](https://open.spotify.com/track/2DbJvzfZ5tb6Iz12uZrywG) | [Domenico Cattaneo](https://open.spotify.com/artist/0WYfSlkG5eMqZXQ0ePTLg5) | [La gatta frettolosa fece i gattini ciechi](https://open.spotify.com/album/6vrXwzmTmZ7aH9rRjt5bd8) | 1:47 | 2021-12-07 | 2022-03-18 |
 | [La Prima](https://open.spotify.com/track/004dZYROPXhYMdBHqc12h3) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO) | [La Quarta](https://open.spotify.com/album/5W1Cs3s2EGlxCzh1ndEJfX) | 1:38 | 2023-05-09 | 2023-06-24 |

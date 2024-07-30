@@ -1,12 +1,12 @@
 {
   "description": "This is Teenage Wrist. The essential tracks, all in one playlist.",
-  "num_followers": 1267,
+  "num_followers": 1269,
   "original_name": "This Is Teenage Wrist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAAAjd1JV3Q1/I2mMqnQniKsk",
+  "snapshot_id": "ZqWKAAAAAADW2CecKu2wIXdx0IpQKD0x",
   "tracks": [
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 252314,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
+      "duration_ms": 234686,
+      "name": "Diorama",
+      "url": "https://open.spotify.com/track/2P4WDJAjCHHUULO7wnzzvC"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 234686,
-      "name": "Diorama",
-      "url": "https://open.spotify.com/track/2P4WDJAjCHHUULO7wnzzvC"
+      "duration_ms": 252314,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
     },
     {
       "added_at": null,

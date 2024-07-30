@@ -4,7 +4,7 @@
 
 > Soft piano music to accompany your reading
 
-186 songs - 8 hr 0 min
+187 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Purity](https://open.spotify.com/track/3iyNoFOyMTZU1SdGbnmdy6) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Purity](https://open.spotify.com/album/3Xf0HZNA30BxiiMB0SqMuj) | 2:26 | 2022-04-28 |  |
 | [Quieta](https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY) | [Gioia Moreschi](https://open.spotify.com/artist/1of4wsX19bjyw0CH1g5miH) | [Quieta](https://open.spotify.com/album/6qtAC4ioQYFYJdrcmEahQk) | 2:43 | 2022-04-28 |  |
 | [Radožda](https://open.spotify.com/track/2zgdofZUkshZvKAWCEpRp5) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Radožda](https://open.spotify.com/album/183bZYoRCXy29ZX35mxFOR) | 2:25 | 2022-04-28 |  |
+| [Red Ridge Road](https://open.spotify.com/track/2BNF35bgujUs1KtGl5Xww0) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Red Ridge Road](https://open.spotify.com/album/3v0jNmPIt6mj7vRB2H1umM) | 2:43 | 2024-07-29 |  |
 | [Red Roses](https://open.spotify.com/track/5CF6kdYN9s5x3Zps5hHPDZ) | [Anderson Rivers](https://open.spotify.com/artist/7986zAExINQv5pQz94fBc3) | [Red Roses](https://open.spotify.com/album/4ahdVWqHe9HBFjoBfq5w9O) | 1:54 | 2022-04-28 |  |
 | [Remembering](https://open.spotify.com/track/6kwqwIUxDK84yXyfL7jvGf) | [Minette Martin](https://open.spotify.com/artist/3wQXisRiLi09Cw9UUSd0cA) | [Remembering](https://open.spotify.com/album/5MgQWq121MYWo7NdwgbJ1K) | 2:18 | 2022-04-28 |  |
 | [Respite](https://open.spotify.com/track/2udO9YUSR2cRQNgMyoJEYC) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Sensibilities](https://open.spotify.com/album/6kMSO9oS3Wf2CmiOmbYIDg) | 2:20 | 2022-04-28 |  |

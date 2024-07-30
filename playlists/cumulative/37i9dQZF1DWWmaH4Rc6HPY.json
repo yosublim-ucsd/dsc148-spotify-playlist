@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "\u00a1Rock para cantar en todos lados! Hombres G y Reik en portada.",
+  "description": "\u00a1Rock para cantar en todos lados! Elsa y Elmar en portada.",
   "name": "Pop Rock Latino",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 249413,
       "name": "Al Borde del Infinito",
       "url": "https://open.spotify.com/track/3dQtpFYJ8FlwxWFov1jXYq"
@@ -280,6 +280,24 @@
       "duration_ms": 156610,
       "name": "Atardeci\u00f3 sin vos",
       "url": "https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF"
+    },
+    {
+      "album": {
+        "name": "B2B",
+        "url": "https://open.spotify.com/album/3mikcTyYjM5eKBjdrOaPfT"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182948,
+      "name": "B2B",
+      "url": "https://open.spotify.com/track/2O3BEHByns7nuvEL9xvlp6"
     },
     {
       "album": {
@@ -846,7 +864,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 208839,
       "name": "El Amor Es un Juego de Perdedores",
       "url": "https://open.spotify.com/track/1iPK5UXUetYDBRoDgwjvHA"
@@ -864,7 +882,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 147038,
       "name": "El Nuevo Amor",
       "url": "https://open.spotify.com/track/4ewO4CRFVkcD0IcTvGCSGc"
@@ -1045,6 +1063,24 @@
     },
     {
       "album": {
+        "name": "Fr\u00e1gil (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5pSWTmKOjHKFAI4DI4OydD"
+      },
+      "artists": [
+        {
+          "name": "Allison",
+          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176764,
+      "name": "Fr\u00e1gil - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/790I7HQcQPuAYV3KQighlo"
+    },
+    {
+      "album": {
         "name": "Habla Mal",
         "url": "https://open.spotify.com/album/2gwP19vcS4TQiHCidOuGZC"
       },
@@ -1103,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "K\u00e9 MaL",
+        "url": "https://open.spotify.com/album/2GHyrL2mwHWmw1vmQfCrNv"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188035,
+      "name": "K\u00e9 MaL",
+      "url": "https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g"
+    },
+    {
+      "album": {
         "name": "La Herida",
         "url": "https://open.spotify.com/album/0rer1BBpahM8okGG9wZEBG"
       },
@@ -1114,7 +1168,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 225480,
       "name": "La Herida",
       "url": "https://open.spotify.com/track/1TmGgQDLKQHm2GzGDjsnFd"
@@ -2628,6 +2682,24 @@
       "duration_ms": 235360,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
+    },
+    {
+      "album": {
+        "name": "Tatuada Tu Huella",
+        "url": "https://open.spotify.com/album/6qGXLHOEFxneHVoU0VNNR0"
+      },
+      "artists": [
+        {
+          "name": "David Otero",
+          "url": "https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246573,
+      "name": "Tatuada Tu Huella",
+      "url": "https://open.spotify.com/track/3kecVPMKY0zcw4RrfL6Wx1"
     },
     {
       "album": {

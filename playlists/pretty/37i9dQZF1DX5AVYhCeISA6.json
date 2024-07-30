@@ -1,6 +1,6 @@
 {
   "description": "el final de un cap\u00edtulo \ud83c\udf38 KAROL G cierra el tour de MSB \ud83c\udf08\ud83d\udc96\u2728",
-  "num_followers": 631101,
+  "num_followers": 631091,
   "original_name": "Inspiring Latinas",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2024-07-24 19:11:55",
       "album": {
-        "name": "Soy Yo",
-        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g"
-    },
-    {
-      "added_at": "2024-07-24 19:11:55",
-      "album": {
         "name": "Familia",
         "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
+    },
+    {
+      "added_at": "2024-07-24 19:11:55",
+      "album": {
+        "name": "Soy Yo",
+        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g"
     },
     {
       "added_at": "2024-07-24 19:11:55",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-07-24 19:11:55",
       "album": {
-        "name": "Tumbao",
-        "url": "https://open.spotify.com/album/5ZhMd0ABNjxYOFZtLeVoE2"
-      },
-      "artists": [
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 159590,
-      "name": "Tumbao",
-      "url": "https://open.spotify.com/track/6FxReyACmhEHzJOszbh7xu"
-    },
-    {
-      "added_at": "2024-07-24 19:11:55",
-      "album": {
         "name": "Capul\u00ed",
         "url": "https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 202770,
       "name": "Capul\u00ed",
       "url": "https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5"
+    },
+    {
+      "added_at": "2024-07-24 19:11:55",
+      "album": {
+        "name": "Tumbao",
+        "url": "https://open.spotify.com/album/5ZhMd0ABNjxYOFZtLeVoE2"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 159590,
+      "name": "Tumbao",
+      "url": "https://open.spotify.com/track/6FxReyACmhEHzJOszbh7xu"
     },
     {
       "added_at": "2024-07-24 19:11:55",

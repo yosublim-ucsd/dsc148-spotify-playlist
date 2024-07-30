@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125859,
+  "num_followers": 125848,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASw0Ms2/rfUbdTnK6J94w56qQGVfGB",
+  "snapshot_id": "AAASxBCWJyRpTkLxE1MXjZgKIivxTL7D",
   "tracks": [
+    {
+      "added_at": "2024-07-29 14:04:48",
+      "album": {
+        "name": "Ghost in the Shadows",
+        "url": "https://open.spotify.com/album/6cEeqaX97sbKSaoxafEkQ4"
+      },
+      "artists": [
+        {
+          "name": "ROY KNOX",
+          "url": "https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3"
+        },
+        {
+          "name": "Derpcat",
+          "url": "https://open.spotify.com/artist/3o8xPY8Zencrdc3RtvVaQM"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Ghost in the Shadows",
+      "url": "https://open.spotify.com/track/12WC62EwZGMhDLi8fEF85j"
+    },
     {
       "added_at": "2024-07-26 13:26:50",
       "album": {

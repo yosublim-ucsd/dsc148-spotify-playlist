@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 
 > Taking it down a notch and keeping the vibes on ice...
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,982 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,995 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 37 | [Colorado](https://open.spotify.com/track/1nnyYFtJHwVbph84SctOtC) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:52 |
 | 38 | [History Of Man](https://open.spotify.com/track/7ijN634pExtKjNIm7vvvAa) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:28 |
 | 39 | [Nature](https://open.spotify.com/track/7o1OfwR349jSAodpOdTnlG) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb) | 2:46 |
-| 40 | [Here It Is](https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Here It Is](https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL) | 3:13 |
-| 41 | [All My Friends Know](https://open.spotify.com/track/3ZpqeV6u8cheGopIXQlHfH) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:58 |
+| 40 | [All My Friends Know](https://open.spotify.com/track/3ZpqeV6u8cheGopIXQlHfH) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:58 |
+| 41 | [Here It Is](https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Here It Is](https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL) | 3:13 |
 | 42 | [Alienated](https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Alienated](https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i) | 4:07 |
 | 43 | [Drown](https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Drown](https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA) | 4:20 |
 | 44 | [beat up car](https://open.spotify.com/track/7FBsCEfKsrj5hbcn5PZDyP) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [beat up car](https://open.spotify.com/album/4SOi9qG5Lv1vDedaGGQlwu) | 3:34 |
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 68 | [Eye Tell \(!\)](https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [Eye Tell \(!\)](https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by) | 2:10 |
 | 69 | [30 Degrees](https://open.spotify.com/track/4LSZ5Op9z4LM6oP6S4G7sX) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [30 Degrees](https://open.spotify.com/album/1afc5JGIGUPtD7ODiFTgOt) | 3:08 |
 | 70 | [Don't Look at Me Like That](https://open.spotify.com/track/43ZRaLFZJbssEfd9cjcLc7) | [Arthur Hill](https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg) | [Don't Look at Me Like That](https://open.spotify.com/album/2mq4pktC9b6z1CCCJdcvpZ) | 2:47 |
-| 71 | [I'm Coming Home](https://open.spotify.com/track/16gL4P1H5psxy9Zvg5kkDT) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [I'm Coming Home](https://open.spotify.com/album/6r9fKa9NKfZtwbXTVdf3Es) | 3:57 |
-| 72 | [Here’s To Us](https://open.spotify.com/track/2zpYiHY3ecQFn8V7jEd5u1) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Here’s To Us](https://open.spotify.com/album/4tSC3VDDSQetWw8s4GcreS) | 3:14 |
+| 71 | [Here’s To Us](https://open.spotify.com/track/2zpYiHY3ecQFn8V7jEd5u1) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Here’s To Us](https://open.spotify.com/album/4tSC3VDDSQetWw8s4GcreS) | 3:14 |
+| 72 | [I'm Coming Home](https://open.spotify.com/track/16gL4P1H5psxy9Zvg5kkDT) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [I'm Coming Home](https://open.spotify.com/album/6r9fKa9NKfZtwbXTVdf3Es) | 3:57 |
 | 73 | [Could You Ever?](https://open.spotify.com/track/6ITKUhLctPRE0lZxgpvw2q) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Could You Ever?](https://open.spotify.com/album/1oAf0VsdPScZk0osrM1IOO) | 3:25 |
 | 74 | [Bloodstone](https://open.spotify.com/track/0T76V96CQdOjI8KNK2jIjw) | [Oscar Blue](https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z) | [Bloodstone](https://open.spotify.com/album/7fiTzVTiLIkgICTZ3t6NMt) | 3:15 |
-| 75 | [Without Words](https://open.spotify.com/track/2fC0RkvXGfa9A6eZDSnUha) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Without Words](https://open.spotify.com/album/2m1FDvBl8pE7IIph8sjrAf) | 3:06 |
+| 75 | [Not A Lot Left To Say](https://open.spotify.com/track/5eNSMklKlKJGwyc8ucG2fv) | [needanamebro](https://open.spotify.com/artist/4hjO4rBY3DJqEhvLvCeIRp), [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Not A Lot Left To Say](https://open.spotify.com/album/33gAqq0P3nggfOQoSK9YQJ) | 2:05 |
 | 76 | [Cardboard Box](https://open.spotify.com/track/6Jv25wiyMdXCntMUvoTdNi) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 2:41 |
 | 77 | [Safe House](https://open.spotify.com/track/2esSObQC6pfnta4C6Crjbu) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Nothing To Lose](https://open.spotify.com/album/51Ejpf2T7D8fjeQuL45tf4) | 3:15 |
-| 78 | [Not A Lot Left To Say](https://open.spotify.com/track/5eNSMklKlKJGwyc8ucG2fv) | [needanamebro](https://open.spotify.com/artist/4hjO4rBY3DJqEhvLvCeIRp), [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Not A Lot Left To Say](https://open.spotify.com/album/33gAqq0P3nggfOQoSK9YQJ) | 2:05 |
-| 79 | [Holding Onto You](https://open.spotify.com/track/6VRiVwGd7Yz3pSYjscnQJc) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Holding Onto You](https://open.spotify.com/album/5F3hpsvm9h4CPmC8Sg9lwh) | 2:54 |
-| 80 | [downtime](https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [downtime](https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va) | 3:12 |
+| 78 | [Without Words](https://open.spotify.com/track/2fC0RkvXGfa9A6eZDSnUha) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Without Words](https://open.spotify.com/album/2m1FDvBl8pE7IIph8sjrAf) | 3:06 |
+| 79 | [downtime](https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [downtime](https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va) | 3:12 |
+| 80 | [Holding Onto You](https://open.spotify.com/track/6VRiVwGd7Yz3pSYjscnQJc) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Holding Onto You](https://open.spotify.com/album/5F3hpsvm9h4CPmC8Sg9lwh) | 2:54 |
 
 Snapshot ID: `ZpUE/QAAAAAM3PQr4pDIc1tkotHb9BPO`

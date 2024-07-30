@@ -5029,6 +5029,36 @@
     },
     {
       "album": {
+        "name": "SMACK TALK",
+        "url": "https://open.spotify.com/album/0F1AHBmHwzLNiOvqXc1bnc"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "ISOKNOCK",
+          "url": "https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "SMACK TALK",
+      "url": "https://open.spotify.com/track/5rzHkSHRyZUdQcCX6noFDB"
+    },
+    {
+      "album": {
         "name": "Smoke",
         "url": "https://open.spotify.com/album/4orQ6TXC8AAgIL7LfkBJmC"
       },

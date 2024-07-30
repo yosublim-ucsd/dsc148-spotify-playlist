@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u05d4\u05e4\u05dc\u05d9\u05d9\u05dc\u05d9\u05e1\u05d8 \u05d4\u05db\u05d9 \u05d2\u05d3\u05d5\u05dc \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc, \u05e2\u05dd \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05db\u05d9 \u05d7\u05de\u05d9\u05dd \u05e9\u05dc \u05d4\u05d9\u05d5\u05dd \u05d5\u05de\u05d7\u05e8. \u05e7\u05d0\u05d1\u05e8: \u05e4\u05d0\u05e8 \u05d8\u05e1\u05d9  ",
+  "description": "\u05d4\u05e4\u05dc\u05d9\u05d9\u05dc\u05d9\u05e1\u05d8 \u05d4\u05db\u05d9 \u05d2\u05d3\u05d5\u05dc \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc, \u05e2\u05dd \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05db\u05d9 \u05d7\u05de\u05d9\u05dd \u05e9\u05dc \u05d4\u05d9\u05d5\u05dd \u05d5\u05de\u05d7\u05e8. \u05e7\u05d0\u05d1\u05e8: \u05d0\u05d5\u05e9\u05e8 \u05db\u05d4\u05df  ",
   "name": "\u05d4\u05dc\u05d4\u05d9\u05d8\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "tracks": [
     {
@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "album": {
         "name": "Houdini",
         "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
       },
@@ -189,6 +207,40 @@
     },
     {
       "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
+      },
+      "artists": [
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Stryv",
+          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Orso",
+          "url": "https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC"
+        },
+        {
+          "name": "Malachiii",
+          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177598,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
+    },
+    {
+      "album": {
         "name": "Not Like Us",
         "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
       },
@@ -272,10 +324,32 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 205205,
       "name": "\u05d0\u05d4\u05d1\u05d4",
       "url": "https://open.spotify.com/track/34aKXUhVdHGTzWOt85RjGq"
+    },
+    {
+      "album": {
+        "name": "NEXT EPISODE",
+        "url": "https://open.spotify.com/album/0uMnrRUIr5sxcatkqn3tOt"
+      },
+      "artists": [
+        {
+          "name": "Osher Cohen",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
+        },
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208883,
+      "name": "\u05d0\u05d9\u05df \u05d0\u05d5\u05ea\u05d9",
+      "url": "https://open.spotify.com/track/34KzX8fwFPLchmOvYBDap0"
     },
     {
       "album": {
@@ -308,7 +382,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 218177,
       "name": "\u05d0\u05d9\u05e4\u05d4 \u05d0\u05ea\u05d4",
       "url": "https://open.spotify.com/track/1dkljZlzg37FoGtUJ1EsxQ"
@@ -622,7 +696,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 161194,
       "name": "\u05de\u05d4 \u05e2\u05e9\u05d9\u05ea \u05dc\u05d9",
       "url": "https://open.spotify.com/track/3LBSTYr6obFNcK0iICM0Dg"
@@ -782,6 +856,24 @@
       "duration_ms": 237967,
       "name": "\u05e1\u05d8\u05dc\u05d5\u05ea",
       "url": "https://open.spotify.com/track/2KBtuxA73fMKyj37wr1XKM"
+    },
+    {
+      "album": {
+        "name": "NEXT EPISODE",
+        "url": "https://open.spotify.com/album/0uMnrRUIr5sxcatkqn3tOt"
+      },
+      "artists": [
+        {
+          "name": "Osher Cohen",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226588,
+      "name": "\u05e2\u05d5\u05d3 \u05dc\u05d0 \u05e0\u05d2\u05de\u05e8",
+      "url": "https://open.spotify.com/track/2tVQnp6k62bMTsWQJYvQXz"
     },
     {
       "album": {
@@ -974,7 +1066,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 300000,
       "name": "\u05ea\u05e8\u05e7\u05d3\u05d9 (7.10.23)",
       "url": "https://open.spotify.com/track/0CBpvL8Z0NRdazbJ4HDm9M"

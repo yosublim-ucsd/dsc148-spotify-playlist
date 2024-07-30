@@ -1,6 +1,6 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1081396,
+  "num_followers": 1081362,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
@@ -983,6 +983,26 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
+        "name": "All Cried Out (feat. Alex Newell) [Radio Edit]",
+        "url": "https://open.spotify.com/album/4glrp7UJjimZral416kQ1d"
+      },
+      "artists": [
+        {
+          "name": "Blonde",
+          "url": "https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e"
+        },
+        {
+          "name": "Alex Newell",
+          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
+        }
+      ],
+      "duration_ms": 170716,
+      "name": "All Cried Out (feat. Alex Newell) - Radio Edit",
+      "url": "https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/4w554Y1ts3lmzhn7hpfLBJ"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 228266,
       "name": "Movin' on Up",
       "url": "https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
-        "name": "All Cried Out (feat. Alex Newell) [Radio Edit]",
-        "url": "https://open.spotify.com/album/4glrp7UJjimZral416kQ1d"
-      },
-      "artists": [
-        {
-          "name": "Blonde",
-          "url": "https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e"
-        },
-        {
-          "name": "Alex Newell",
-          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
-        }
-      ],
-      "duration_ms": 170716,
-      "name": "All Cried Out (feat. Alex Newell) - Radio Edit",
-      "url": "https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF"
     },
     {
       "added_at": "2024-03-22 16:40:22",

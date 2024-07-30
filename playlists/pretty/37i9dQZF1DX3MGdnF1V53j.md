@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 
 > L'Algérino & Soolking on the cover of Habibi Gang Gang!
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,979 likes - 79 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,030 likes - 79 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 | 51 | [3tih](https://open.spotify.com/track/3f3rQiGhPdF2ysJeuL5SCk) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV) | [3tih](https://open.spotify.com/album/3qwV66sqqCRWiIHL4PhfPw) | 2:40 |
 | 52 | [Ghir Ntiya](https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Ghir Ntiya](https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm) | 3:34 |
 | 53 | [Dream](https://open.spotify.com/track/7qkKTvMlCRC2VZ4fjyKZOu) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Dream](https://open.spotify.com/album/6G3DcLtH640Po7Ch5fJDSY) | 2:24 |
-| 54 | [Goodbye](https://open.spotify.com/track/1HJZok3nL68K9ML6Twa1bQ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Goodbye](https://open.spotify.com/album/4JCbVtET4IE4bMe8cixaHf) | 3:11 |
-| 55 | [Samira 3](https://open.spotify.com/track/3BYP7bPPxttHpYQfzdyBuz) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU), [Isleym](https://open.spotify.com/artist/3vw5HmeFoWnWYhcOpB8INb) | [Samira 3](https://open.spotify.com/album/5CFFfeCizwxS98Dlnhaixv) | 3:27 |
+| 54 | [Samira 3](https://open.spotify.com/track/3BYP7bPPxttHpYQfzdyBuz) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU), [Isleym](https://open.spotify.com/artist/3vw5HmeFoWnWYhcOpB8INb) | [Samira 3](https://open.spotify.com/album/5CFFfeCizwxS98Dlnhaixv) | 3:27 |
+| 55 | [Goodbye](https://open.spotify.com/track/1HJZok3nL68K9ML6Twa1bQ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Goodbye](https://open.spotify.com/album/4JCbVtET4IE4bMe8cixaHf) | 3:11 |
 | 56 | [Ça c'est bien](https://open.spotify.com/track/1CFcahfucbIGHRzLOP3qYX) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Ça c'est bien](https://open.spotify.com/album/6laF6aVjTtWwMZvwYdLOES) | 2:39 |
 | 57 | [Mi madre](https://open.spotify.com/track/1OadAxUa6KVPyKAwEv0Duy) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv) | [Mi madre](https://open.spotify.com/album/0WFyhZC7hwGuL402U8aovY) | 3:19 |
 | 58 | [BABA \(feat\. Ghali\)](https://open.spotify.com/track/5eqpqdHsOKMqeI1UXUjAUg) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [BABA \(feat\. Ghali\)](https://open.spotify.com/album/7tfYeVFoIFOk2dun7OXBd5) | 2:49 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 | 70 | [Harami](https://open.spotify.com/track/6y7TE1grW4UhMzpsHF5wCp) | [Norel](https://open.spotify.com/artist/5GDRJ2wLCUGI1ryefQ3f3t) | [Harami](https://open.spotify.com/album/0EW4O5QQF1bsd7hN4Pc6SJ) | 2:24 |
 | 71 | [Ykoun Li Ykoun](https://open.spotify.com/track/6NMJafTjSDcjwX3rYwvSug) | [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [Ykoun Li Ykoun](https://open.spotify.com/album/6ddXQnvwLEAM06VJI51TJ8) | 2:42 |
 | 72 | [Zine Enem](https://open.spotify.com/track/2Kd4P1W0MJlSyCuKSWUVbN) | [Riffi](https://open.spotify.com/artist/7rWuImrIbAa8XxwWVFWNoZ) | [Zine Enem](https://open.spotify.com/album/5mUzblU04RqopziKae00ZY) | 2:08 |
-| 73 | [Lalat Nsa](https://open.spotify.com/track/176uJPdW7U9OHgnoWNDIft) | [Ayoub Maach](https://open.spotify.com/artist/6lNP6HiSpWcr1NpO3MLcXj) | [Lalat Nsa](https://open.spotify.com/album/5QonXzvLWWtCSNv6AMHYkl) | 2:40 |
-| 74 | [Mellit](https://open.spotify.com/track/723Ffq7fx7ZBftW0t0cAYU) | [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM), [Abdel Mayor](https://open.spotify.com/artist/4gAD9iUlLD75iELCIppQzO), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Mellit](https://open.spotify.com/album/2j56wEQ0W0mrt6EHdfWuup) | 2:52 |
+| 73 | [Mellit](https://open.spotify.com/track/723Ffq7fx7ZBftW0t0cAYU) | [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM), [Abdel Mayor](https://open.spotify.com/artist/4gAD9iUlLD75iELCIppQzO), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Mellit](https://open.spotify.com/album/2j56wEQ0W0mrt6EHdfWuup) | 2:52 |
+| 74 | [Lalat Nsa](https://open.spotify.com/track/176uJPdW7U9OHgnoWNDIft) | [Ayoub Maach](https://open.spotify.com/artist/6lNP6HiSpWcr1NpO3MLcXj) | [Lalat Nsa](https://open.spotify.com/album/5QonXzvLWWtCSNv6AMHYkl) | 2:40 |
 | 75 | [Panama](https://open.spotify.com/track/6ZByuSpQg2Jmzd9nhV4JnC) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [ATHENA](https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP) | 2:34 |
 | 76 | [La mienne](https://open.spotify.com/track/2EIFVbGwRujki9qj6YXcPX) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td) | [À la bien \(Winter edition\)](https://open.spotify.com/album/1QnlsM0yEkm7g70NZHcAPp) | 2:42 |
 | 77 | [L'Étranger](https://open.spotify.com/track/0o5qyh1mrp1elvYeEuWFbL) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Reda Taliani](https://open.spotify.com/artist/2VTYaHMlKvQxlVW3k07NVt) | [L'Étranger](https://open.spotify.com/album/6rieTT1tEp2qZPqgNt5hDO) | 3:29 |

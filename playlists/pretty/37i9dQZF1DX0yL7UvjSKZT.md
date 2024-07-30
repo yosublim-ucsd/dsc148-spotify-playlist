@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Kaia Kater
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,417 likes - 151 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,448 likes - 151 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAACVsMCYnV4O2od2aaf4E0ZH",
+  "snapshot_id": "ZqWKAAAAAAA32ZQsOcaLLKCmWDyMiRUl",
   "tracks": [
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doble 2 En 1",
-        "url": "https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy"
+        "name": "22 Exitos de Oro, vol. 2",
+        "url": "https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 162160,
-      "name": "Hay Ojitos",
-      "url": "https://open.spotify.com/track/3f0ca0sbJefE05GrT69i1X"
+      "duration_ms": 210066,
+      "name": "Ausencia",
+      "url": "https://open.spotify.com/track/1SUuCE9XCSGKDNKHzf46o1"
     },
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "22 Exitos de Oro, vol. 2",
-        "url": "https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU"
+        "name": "Doble 2 En 1",
+        "url": "https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 210066,
-      "name": "Ausencia",
-      "url": "https://open.spotify.com/track/1SUuCE9XCSGKDNKHzf46o1"
+      "duration_ms": 162160,
+      "name": "Hay Ojitos",
+      "url": "https://open.spotify.com/track/3f0ca0sbJefE05GrT69i1X"
     },
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puras Cantineras, Vol. 1",
+        "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 156320,
+      "name": "Caminar Caminar",
+      "url": "https://open.spotify.com/track/4JL1se9SpQ9rkRmJGQj2oN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Country Roland Vs. Los Relampagos",
         "url": "https://open.spotify.com/album/5reWQ2xXXaOn3Z9cyFwXn1"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 197734,
       "name": "Pancha La Contrabandista",
       "url": "https://open.spotify.com/track/3S9CMtCRtiSuvgOPRDoIiM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puras Cantineras, Vol. 1",
-        "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 156320,
-      "name": "Caminar Caminar",
-      "url": "https://open.spotify.com/track/4JL1se9SpQ9rkRmJGQj2oN"
     },
     {
       "added_at": null,

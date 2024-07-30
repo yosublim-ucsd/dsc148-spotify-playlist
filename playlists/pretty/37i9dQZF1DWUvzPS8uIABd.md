@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa KUUMAA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,765 likes - 67 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,781 likes - 67 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

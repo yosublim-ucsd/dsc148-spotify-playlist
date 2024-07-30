@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-2,837 songs - 6 day 6 hr 4 min
+2,838 songs - 6 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Ara](https://open.spotify.com/track/1iEMuRRbD04w92WzHYkJrF) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Ara](https://open.spotify.com/album/6gkihcoEoX8nPLbTnzPygL) | 3:00 | 2022-08-23 | 2022-08-25 |
 | [ARABA](https://open.spotify.com/track/5tjWDHOCqsbKPuiivil0BM) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [ARABA](https://open.spotify.com/album/6qk5ajwfXB8QplASyF7lXH) | 2:13 | 2024-01-30 | 2024-02-18 |
 | [Arabic Kuthu \- Halamithi Habibo \(From "Beast"\)](https://open.spotify.com/track/6yvxu91deFKt3X1QoV6qMv) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Arabic Kuthu \- Halamithi Habibo \(From "Beast"\)](https://open.spotify.com/album/3OUj9ygj2KRcnKY1a1daGt) | 4:39 | 2022-03-15 | 2022-03-24 |
+| [Aradan Çok Yıllar Geçti](https://open.spotify.com/track/4CDY8eGMrkQjyOTkvsXiq0) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Aradan Çok Yıllar Geçti](https://open.spotify.com/album/4rsN93FJo8QLv2MLSiMivc) | 2:50 | 2024-07-29 |  |
 | [ARASAN DA](https://open.spotify.com/track/72jYQj3RgTR1DFLfibD71B) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [ARASAN DA](https://open.spotify.com/album/604LjoILfRCmhYuLCFvel7) | 3:11 | 2022-04-12 | 2022-05-02 |
 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 | 2023-05-06 | 2023-06-21 |
 | [Arjan Vailly](https://open.spotify.com/track/4ApCig0GTR4IEp7Ijsyo3r) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g) | [ANIMAL](https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO) | 3:02 | 2023-12-05 | 2023-12-25 |
@@ -1717,7 +1718,7 @@
 | [Na Contramão](https://open.spotify.com/track/7kJ0aTB5gLMYrJjYft3Vx6) | [DJ Katrip](https://open.spotify.com/artist/4Ley0K7c2keTiOW0Jpam5g), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [Na Contramão](https://open.spotify.com/album/0TqLSBctNqzky2bUakAMVb) | 2:44 | 2023-05-22 | 2023-06-12 |
 | [Na Roja Nuvve \(From "Kushi"\)](https://open.spotify.com/track/7s2yiftmEe1c5Q1wqIPsqr) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Shiva Nirvana](https://open.spotify.com/artist/1gajAFPKcgGySskFCZ7qQD) | [Na Roja Nuvve \(From "Kushi"\) \- Single](https://open.spotify.com/album/7a4m6yhn2bdPSxTn0SXJLS) | 4:02 | 2023-06-06 | 2023-06-14 |
 | [Nachts wach](https://open.spotify.com/track/0g2leZuI3jD5pRsrRIDvYe) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Nachts wach](https://open.spotify.com/album/2Ei8muZiExgEPlRfLskcaE) | 2:58 | 2022-08-09 | 2022-08-24 |
-| [nadaaniyan](https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [nadaaniyan](https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy) | 2:51 | 2024-06-20 |  |
+| [nadaaniyan](https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [nadaaniyan](https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy) | 2:51 | 2024-06-20 | 2024-07-30 |
 | [Nadie Va A Pensar En Ti Mejor Que Yo](https://open.spotify.com/track/30eHHpkjMNqb2F0V8nXjbJ) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Nadie Va A Pensar En Ti Mejor Que Yo](https://open.spotify.com/album/1NsJ6u8jcjsyZi9igmkbqw) | 2:52 | 2021-12-27 | 2022-01-11 |
 | [Nahuhulog](https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP) | 3:47 | 2023-08-31 | 2023-09-06 |
 | [Nahuhulog](https://open.spotify.com/track/0R6lC6F082eap1AJd8W54d) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/07p7jUJyKz9qVwieHNpxs8) | 3:47 | 2023-08-05 | 2023-09-01 |

@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 158546,
+  "num_followers": 158597,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Cats On Trees (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y"
+        "name": "Sur La Route De Memphis",
+        "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
       },
       "artists": [
         {
-          "name": "Cats On Trees",
-          "url": "https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B"
-        },
-        {
-          "name": "Calogero",
-          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+          "name": "Eddy Mitchell",
+          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
         }
       ],
-      "duration_ms": 176618,
-      "name": "Jimmy",
-      "url": "https://open.spotify.com/track/5rjHhZb8nSQJZZSIGtt78N"
+      "duration_ms": 173933,
+      "name": "Sur la route de Memphis",
+      "url": "https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -395,18 +391,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Sur La Route De Memphis",
-        "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
+        "name": "Cats On Trees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y"
       },
       "artists": [
         {
-          "name": "Eddy Mitchell",
-          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
+          "name": "Cats On Trees",
+          "url": "https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B"
+        },
+        {
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
         }
       ],
-      "duration_ms": 173933,
-      "name": "Sur la route de Memphis",
-      "url": "https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK"
+      "duration_ms": 176618,
+      "name": "Jimmy",
+      "url": "https://open.spotify.com/track/5rjHhZb8nSQJZZSIGtt78N"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "D\u00e9cembre en \u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/34FJDy2QrV2gMESfcL2Kxf"
-      },
-      "artists": [
-        {
-          "name": "Da Silva",
-          "url": "https://open.spotify.com/artist/2DOrhe8H1WfcD6PPkgJH8X"
-        }
-      ],
-      "duration_ms": 185065,
-      "name": "L'ind\u00e9cision",
-      "url": "https://open.spotify.com/track/41zrRHYHY72LCf2hzaK18z"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Sacha Distel: Crooner",
         "url": "https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 123053,
       "name": "La belle vie",
       "url": "https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "D\u00e9cembre en \u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/34FJDy2QrV2gMESfcL2Kxf"
+      },
+      "artists": [
+        {
+          "name": "Da Silva",
+          "url": "https://open.spotify.com/artist/2DOrhe8H1WfcD6PPkgJH8X"
+        }
+      ],
+      "duration_ms": 185065,
+      "name": "L'ind\u00e9cision",
+      "url": "https://open.spotify.com/track/41zrRHYHY72LCf2hzaK18z"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Petite Amie (Edition D\u00e9lice)",
+        "url": "https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N"
+      },
+      "artists": [
+        {
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        }
+      ],
+      "duration_ms": 239573,
+      "name": "A la Folie",
+      "url": "https://open.spotify.com/track/6EkR0w8oSHHuONFPsZW485"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "Ailleurs Land",
         "url": "https://open.spotify.com/album/5IW71KAikTujML1ZNOnSzg"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 233800,
       "name": "Tomb\u00e9",
       "url": "https://open.spotify.com/track/399mh97iAmjU34de5MebHp"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Petite Amie (Edition D\u00e9lice)",
-        "url": "https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N"
-      },
-      "artists": [
-        {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
-        }
-      ],
-      "duration_ms": 239573,
-      "name": "A la Folie",
-      "url": "https://open.spotify.com/track/6EkR0w8oSHHuONFPsZW485"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Week End \u00c0 Rome",
-        "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Daho",
-          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
-        }
-      ],
-      "duration_ms": 254453,
-      "name": "Week-end \u00e0 Rome",
-      "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Le Vagabond",
         "url": "https://open.spotify.com/album/6cL635Xu044s7shG0WQ1rT"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 192506,
       "name": "Cette ann\u00e9e-l\u00e0",
       "url": "https://open.spotify.com/track/3R4rbnUNQKpKo588EFOqTl"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Week End \u00c0 Rome",
+        "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+        }
+      ],
+      "duration_ms": 254453,
+      "name": "Week-end \u00e0 Rome",
+      "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "13",
-        "url": "https://open.spotify.com/album/5NFN9HK3cvDaYnEtmHUVbo"
-      },
-      "artists": [
-        {
-          "name": "Indochine",
-          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
-        }
-      ],
-      "duration_ms": 326186,
-      "name": "Un \u00e9t\u00e9 fran\u00e7ais",
-      "url": "https://open.spotify.com/track/4Ngeca4zs304bDnDh3pjzI"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "En passant",
         "url": "https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 207400,
       "name": "Bonne id\u00e9e",
       "url": "https://open.spotify.com/track/4GP7DvuweWXuqTNAdUmnEa"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "13",
+        "url": "https://open.spotify.com/album/5NFN9HK3cvDaYnEtmHUVbo"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "duration_ms": 326186,
+      "name": "Un \u00e9t\u00e9 fran\u00e7ais",
+      "url": "https://open.spotify.com/track/4Ngeca4zs304bDnDh3pjzI"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Collection",
+        "url": "https://open.spotify.com/album/7CidHDoNltKs2NfPSIn3Ol"
+      },
+      "artists": [
+        {
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "La vie ne vaut rien",
+      "url": "https://open.spotify.com/track/2PQ06bEO6VKuiEsPAisJ1V"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "La R\u00e9alit\u00e9",
         "url": "https://open.spotify.com/album/6WY9BkvpRyeA5FYwpYrVp9"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 232440,
       "name": "Sur la route",
       "url": "https://open.spotify.com/track/5NFbXrKAou3S8Jg0heGyW8"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Collection",
-        "url": "https://open.spotify.com/album/7CidHDoNltKs2NfPSIn3Ol"
-      },
-      "artists": [
-        {
-          "name": "Alain Souchon",
-          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "La vie ne vaut rien",
-      "url": "https://open.spotify.com/track/2PQ06bEO6VKuiEsPAisJ1V"
     },
     {
       "added_at": "2024-05-23 22:00:00",

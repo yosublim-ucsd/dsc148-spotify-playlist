@@ -1,6 +1,6 @@
 {
   "description": "Who order Azul?",
-  "num_followers": 3271,
+  "num_followers": 3272,
   "original_name": "Best of Detty December",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,26 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
+        "name": "Skin Tight",
+        "url": "https://open.spotify.com/album/0xkIlDRadF78PKqsAS2DSo"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Efya",
+          "url": "https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6"
+        }
+      ],
+      "duration_ms": 248626,
+      "name": "Skin Tight",
+      "url": "https://open.spotify.com/track/43C8ga8Z7MkOc1TmEzXcJ3"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
         "name": "Yaba Buluku (feat. Preck & Nelson Tivane) [Remix]",
         "url": "https://open.spotify.com/album/1vc9def4aoS2RJZJzyw5Vi"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 214408,
       "name": "Yaba Buluku (feat. Preck & Nelson Tivane) - Remix",
       "url": "https://open.spotify.com/track/3KD8PhFfq5zQBAwwRvzG1i"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "Skin Tight",
-        "url": "https://open.spotify.com/album/0xkIlDRadF78PKqsAS2DSo"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Efya",
-          "url": "https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6"
-        }
-      ],
-      "duration_ms": 248626,
-      "name": "Skin Tight",
-      "url": "https://open.spotify.com/track/43C8ga8Z7MkOc1TmEzXcJ3"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -935,22 +935,26 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "Disturbation",
-        "url": "https://open.spotify.com/album/0j9IMbrY6McGzdOemNlIr6"
+        "name": "Double Trouble (feat. King Promise & Sarkodie)",
+        "url": "https://open.spotify.com/album/7fyUYO50TXvcsbVQa4kcC9"
       },
       "artists": [
         {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+          "name": "Vision DJ",
+          "url": "https://open.spotify.com/artist/7GfpJld16SWfiFALBo3qB8"
         },
         {
-          "name": "Sister Deborah",
-          "url": "https://open.spotify.com/artist/3RM7YoeiC3yijn8k8uCGA7"
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 240157,
-      "name": "Too Risky (feat. Sister Deborah)",
-      "url": "https://open.spotify.com/track/6yksWuhZ3s7KH7sfZp50x4"
+      "duration_ms": 263131,
+      "name": "Double Trouble (feat. King Promise & Sarkodie)",
+      "url": "https://open.spotify.com/track/024Si0VrgGuslpbud96tnX"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -991,26 +995,22 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "Double Trouble (feat. King Promise & Sarkodie)",
-        "url": "https://open.spotify.com/album/7fyUYO50TXvcsbVQa4kcC9"
+        "name": "Disturbation",
+        "url": "https://open.spotify.com/album/0j9IMbrY6McGzdOemNlIr6"
       },
       "artists": [
         {
-          "name": "Vision DJ",
-          "url": "https://open.spotify.com/artist/7GfpJld16SWfiFALBo3qB8"
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
         },
         {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Sister Deborah",
+          "url": "https://open.spotify.com/artist/3RM7YoeiC3yijn8k8uCGA7"
         }
       ],
-      "duration_ms": 263131,
-      "name": "Double Trouble (feat. King Promise & Sarkodie)",
-      "url": "https://open.spotify.com/track/024Si0VrgGuslpbud96tnX"
+      "duration_ms": 240157,
+      "name": "Too Risky (feat. Sister Deborah)",
+      "url": "https://open.spotify.com/track/6yksWuhZ3s7KH7sfZp50x4"
     },
     {
       "added_at": "2023-12-08 08:55:17",
@@ -1127,30 +1127,6 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
-        "name": "Omo Ada (feat. Shatta Wale & Fela Makafui)",
-        "url": "https://open.spotify.com/album/1MW8m6LL9SvHCI3L8fWtQp"
-      },
-      "artists": [
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        },
-        {
-          "name": "Fela Makafui",
-          "url": "https://open.spotify.com/artist/5PcgFn6JlRK9gXsSX7i3h3"
-        },
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Omo Ada (feat. Shatta Wale & Fela Makafui)",
-      "url": "https://open.spotify.com/track/6Oh69XEHxh966heGDz4Yul"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
         "name": "Pana",
         "url": "https://open.spotify.com/album/0kWZevuaj7QcFXEoAfqzuV"
       },
@@ -1203,6 +1179,30 @@
       "duration_ms": 234312,
       "name": "Jama",
       "url": "https://open.spotify.com/track/4dskoEQk5pAg9HKyEC2m1y"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
+        "name": "Omo Ada (feat. Shatta Wale & Fela Makafui)",
+        "url": "https://open.spotify.com/album/1MW8m6LL9SvHCI3L8fWtQp"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        },
+        {
+          "name": "Fela Makafui",
+          "url": "https://open.spotify.com/artist/5PcgFn6JlRK9gXsSX7i3h3"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Omo Ada (feat. Shatta Wale & Fela Makafui)",
+      "url": "https://open.spotify.com/track/6Oh69XEHxh966heGDz4Yul"
     },
     {
       "added_at": "2023-12-08 08:55:17",

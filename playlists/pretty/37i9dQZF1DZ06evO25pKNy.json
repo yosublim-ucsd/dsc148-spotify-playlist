@@ -1,12 +1,12 @@
 {
   "description": "This is Los Hijos De Garcia. The essential tracks, all in one playlist.",
-  "num_followers": 4948,
+  "num_followers": 4951,
   "original_name": "This Is Los Hijos De Garcia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAABp6vmPQ6FMyZnAcvFGvMUb",
+  "snapshot_id": "ZqWKAAAAAABa8B1+3/QCH/aTndZ0CoSC",
   "tracks": [
     {
       "added_at": null,
@@ -236,17 +236,17 @@
       },
       "artists": [
         {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         },
         {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 161693,
-      "name": "Loco Malandro",
-      "url": "https://open.spotify.com/track/0idKybdhXgh5O94UhJCufA"
+      "duration_ms": 175770,
+      "name": "Calorsito En California",
+      "url": "https://open.spotify.com/track/0xPdnHjuVi4eP6R0MviZin"
     },
     {
       "added_at": null,
@@ -308,17 +308,17 @@
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
           "name": "Los Hijos De Garcia",
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 175770,
-      "name": "Calorsito En California",
-      "url": "https://open.spotify.com/track/0xPdnHjuVi4eP6R0MviZin"
+      "duration_ms": 161693,
+      "name": "Loco Malandro",
+      "url": "https://open.spotify.com/track/0idKybdhXgh5O94UhJCufA"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestro Estilo",
-        "url": "https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 216448,
-      "name": "Mundo Desgraciado",
-      "url": "https://open.spotify.com/track/3hiximGfpxNy8fgsbWm4hm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lujos De La Vida",
         "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
       },
@@ -631,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lujos y Libras",
-        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
+        "name": "Nuestro Estilo",
+        "url": "https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r"
       },
       "artists": [
         {
@@ -640,9 +624,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 189789,
-      "name": "Cuando Me Muera",
-      "url": "https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F"
+      "duration_ms": 216448,
+      "name": "Mundo Desgraciado",
+      "url": "https://open.spotify.com/track/3hiximGfpxNy8fgsbWm4hm"
     },
     {
       "added_at": null,
@@ -659,6 +643,22 @@
       "duration_ms": 156252,
       "name": "Seg\u00fan Soy Malo",
       "url": "https://open.spotify.com/track/5r4u6fCR5DngmhB9SUj7ay"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lujos y Libras",
+        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 189789,
+      "name": "Cuando Me Muera",
+      "url": "https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "J\u00e1lese Carnal",
+        "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 165594,
+      "name": "COMPTON",
+      "url": "https://open.spotify.com/track/2hoOS2ABkC8JrcN69owHYE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/2W0a475HJ51N4lLX0czxQG"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 189248,
       "name": "Power",
       "url": "https://open.spotify.com/track/4l1d34SW8r4yD4klZZj8oC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "J\u00e1lese Carnal",
-        "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 165594,
-      "name": "COMPTON",
-      "url": "https://open.spotify.com/track/2hoOS2ABkC8JrcN69owHYE"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loco Malandro",
-        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 135711,
-      "name": "Gorra De Tijuana",
-      "url": "https://open.spotify.com/track/2ef6lyJzo9pj6UNdoWgqes"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "J\u00e1lese Carnal",
         "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
       },
@@ -799,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Loco Malandro",
+        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 135711,
+      "name": "Gorra De Tijuana",
+      "url": "https://open.spotify.com/track/2ef6lyJzo9pj6UNdoWgqes"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Classroom Love",
         "url": "https://open.spotify.com/album/0cbyUdPh5smj24zGOuwF5o"
       },
@@ -811,22 +811,6 @@
       "duration_ms": 256641,
       "name": "Classroom Love",
       "url": "https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nuestro Estilo",
-        "url": "https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 190138,
-      "name": "El Recio",
-      "url": "https://open.spotify.com/track/2KLUdYgj4FDAMjznuqCJyn"
     },
     {
       "added_at": null,
@@ -859,6 +843,22 @@
       "duration_ms": 175178,
       "name": "El R De Houston",
       "url": "https://open.spotify.com/track/44rxSvGpVmqoPt6RGkhbQp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuestro Estilo",
+        "url": "https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 190138,
+      "name": "El Recio",
+      "url": "https://open.spotify.com/track/2KLUdYgj4FDAMjznuqCJyn"
     },
     {
       "added_at": null,

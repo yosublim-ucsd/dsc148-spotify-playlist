@@ -4,7 +4,7 @@
 
 > Nigeria's hottest tracks\.  Cover: Rema
 
-344 songs - 16 hr 41 min
+345 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Ololufe \(feat\. Wande Coal\)](https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:30 | 2023-12-22 | 2024-04-05 |
 | [Olufunmi Reimagined](https://open.spotify.com/track/5QdTZO8YLH3KESTPPZ0lW6) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Olufunmi Reimagined](https://open.spotify.com/album/7HpccOsoUG11qXcD5i3Pib) | 3:04 | 2024-05-31 |  |
 | [Omo Ope \(feat\. Olamide\)](https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Omo Ope](https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG) | 2:46 | 2022-02-21 | 2023-03-18 |
+| [One Call](https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [One Call](https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a) | 2:38 | 2024-07-29 |  |
 | [Only Me](https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Only Me](https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns) | 2:39 | 2024-01-15 | 2024-05-15 |
 | [Organise](https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:03 | 2022-09-09 | 2023-05-20 |
 | [Osadebe](https://open.spotify.com/track/4vcNkaBM2R70xWEUQDLLh5) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Osadebe](https://open.spotify.com/album/25TcBJVL2JqQnff5TxWvuZ) | 2:36 | 2024-02-16 | 2024-05-15 |
@@ -280,7 +281,7 @@
 | [Risk](https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:22 | 2024-07-19 |  |
 | [Rocking](https://open.spotify.com/track/0z0hrjBtCLS8WnQXWtKOWP) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Rocking](https://open.spotify.com/album/395ZQ2fcdW98tZkso2TViP) | 2:46 | 2022-02-21 | 2023-02-04 |
 | [Rodo](https://open.spotify.com/track/2FCaYrweDiATqvZYDmHqlr) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Rodo](https://open.spotify.com/album/62qOqQtptVw6h4ywlGsNXZ) | 2:23 | 2024-04-26 |  |
-| [Romeo Must Die \(RMD\)](https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Romeo Must Die \(RMD\)](https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3) | 2:40 | 2024-03-01 |  |
+| [Romeo Must Die \(RMD\)](https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Romeo Must Die \(RMD\)](https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3) | 2:40 | 2024-03-01 | 2024-07-30 |
 | [RTID \(Rich Till I Die\)](https://open.spotify.com/track/47rtDAZmqRUjba0V1en3XY) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [RTID \(Rich Till I Die\)](https://open.spotify.com/album/1VXKPWoui5j6UsxWrhvSDV) | 2:52 | 2023-01-16 | 2023-05-27 |
 | [Running](https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 2:22 | 2022-10-21 | 2022-12-08 |
 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2022-09-16 | 2023-06-03 |

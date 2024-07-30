@@ -2,7 +2,7 @@
 
 ### [This Is Liran' Roll](https://open.spotify.com/playlist/37i9dQZF1DZ06evO40wGR1)
 
-> This Is Liran' Roll\. Los temas esenciales, todos en una lista.
+> This is Liran' Roll\. The essential tracks, all in one playlist.
 
 61 songs - 4 hr 2 min
 
@@ -20,7 +20,7 @@
 | [Diez Cuarenta y Siete](https://open.spotify.com/track/3imJOXUD815t4kSwrY8HwA) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Momentos](https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN) | 4:03 | 2023-01-14 |  |
 | [Dulce Ivonne](https://open.spotify.com/track/4AsHJjBLfQgWRqwUX4HNJq) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Disco de Aniversario](https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc) | 3:36 | 2023-01-14 |  |
 | [Déjame](https://open.spotify.com/track/4st4LrNbI9DKOFwBEZ1W3R) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Disco de Aniversario](https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc) | 4:26 | 2023-01-14 |  |
-| [El Alcohol](https://open.spotify.com/track/7q707LG7vCu4IEqFF2vzqf) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [María \(Remastered\)](https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF) | 3:41 | 2023-01-14 | 2024-05-21 |
+| [El Alcohol](https://open.spotify.com/track/7q707LG7vCu4IEqFF2vzqf) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [María \(Remastered\)](https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF) | 3:41 | 2023-01-14 |  |
 | [El Pasado \- En Vivo](https://open.spotify.com/track/7bGAqkZPbllJnbAgdULh0D) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [En Vivo, Vol\. 2](https://open.spotify.com/album/35S7ju9Drf5BQfUpQO4OTE) | 4:44 | 2023-01-14 | 2024-02-21 |
 | [El Perdedor](https://open.spotify.com/track/3cxoJ9W0VD9FJLHlPYcLQg) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Disco de Aniversario](https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc) | 3:15 | 2023-01-14 |  |
 | [El Pianista](https://open.spotify.com/track/3SRD0rSAbzkaJf4PKlnrcX) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Momentos](https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN) | 5:19 | 2023-01-14 |  |
@@ -49,7 +49,7 @@
 | [No Puedo Más](https://open.spotify.com/track/3CCpEEfnMEJv7vlvKyTuZM) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [15 Éxitos, Vol\. 2](https://open.spotify.com/album/5qhTvBl63Blw114264HUbn) | 3:18 | 2023-01-14 |  |
 | [No Tengo Tiempo \(De Cambiar Mi Vida\)](https://open.spotify.com/track/1UTpT97Dn2exMo7tk8GJZg) | [Foco De Atelier](https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A), [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [No Tengo Tiempo \(De Cambiar Mi Vida\)](https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M) | 4:32 | 2023-07-13 |  |
 | [No Todo Es Oro](https://open.spotify.com/track/328Y6znBICauFKcJhJQ94W) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [15 Éxitos, Vol\. 2](https://open.spotify.com/album/5qhTvBl63Blw114264HUbn) | 4:22 | 2023-01-14 |  |
-| [Otra Vez](https://open.spotify.com/track/2iSj3AfJodVCat05Pp7a7r) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Va por Ti](https://open.spotify.com/album/4OKgsBiB0jwuBzo4J6Z5QT) | 3:15 | 2023-01-14 |  |
+| [Otra Vez](https://open.spotify.com/track/2iSj3AfJodVCat05Pp7a7r) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Va por Ti](https://open.spotify.com/album/4OKgsBiB0jwuBzo4J6Z5QT) | 3:15 | 2023-01-14 | 2024-07-30 |
 | [Pensaba en Ti](https://open.spotify.com/track/6aGKGvcWMiQOwvlnxAb9ho) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Recuerdos](https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs) | 5:02 | 2023-01-14 |  |
 | [Perdedor](https://open.spotify.com/track/6g3Y2SO1mDnZfFLkskb0xU) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Y Se Armó el Rock and Roll, Vol\. 2](https://open.spotify.com/album/7IVey8jBvdauARuUEgPkjz) | 3:33 | 2023-01-14 |  |
 | [Piensa en Mi](https://open.spotify.com/track/2982dNBIFDZkjdjLhnYcOH) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [D.F.](https://open.spotify.com/album/6bsZtXHmanZNWEa0YdgMTh) | 4:39 | 2023-01-14 |  |

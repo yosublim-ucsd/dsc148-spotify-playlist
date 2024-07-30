@@ -1,12 +1,12 @@
 {
-  "description": "This is Toby Keith. Tutti i brani in un'unica playlist.",
-  "num_followers": 115086,
+  "description": "This is Toby Keith. The essential tracks, all in one playlist.",
+  "num_followers": 115109,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAADxaHXXPiWkkliR7aQmTSB2",
+  "snapshot_id": "ZqWKAAAAAACEpAuV50US9pDrHi2F8cHg",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clancy's Tavern",
-        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 206640,
-      "name": "Beers Ago",
-      "url": "https://open.spotify.com/track/5MiRgE7Yta2jiOkVGHbiQC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "35 mph Town",
         "url": "https://open.spotify.com/album/2YD3x5rpYeNg1fYAcHTv8d"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 197293,
       "name": "Rum Is the Reason",
       "url": "https://open.spotify.com/track/2Y9o2plHDMxKzbPTEah8Cu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clancy's Tavern",
+        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 206640,
+      "name": "Beers Ago",
+      "url": "https://open.spotify.com/track/5MiRgE7Yta2jiOkVGHbiQC"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toby Keith 35 Biggest Hits",
+        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Getcha Some",
+      "url": "https://open.spotify.com/track/33ap5PegY9fqcutvyUBdAF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rodeo Rock And Roll Collection",
         "url": "https://open.spotify.com/album/3ERoc1tfA50OkwdoJYblTY"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 163666,
       "name": "Copenhagen",
       "url": "https://open.spotify.com/track/1ArAjl7hyquZoN7y2szoM9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toby Keith 35 Biggest Hits",
-        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Getcha Some",
-      "url": "https://open.spotify.com/track/33ap5PegY9fqcutvyUBdAF"
     },
     {
       "added_at": null,

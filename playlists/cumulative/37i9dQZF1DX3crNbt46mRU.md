@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Calvin Harris, Ellie Goulding
 
-13,220 songs - 27 day 12 hr 30 min
+13,220 songs - 27 day 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3317,7 +3317,7 @@
 | [Décembre](https://open.spotify.com/track/5yzH31eVQS7ctEcvYIwdTk) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Décembre](https://open.spotify.com/album/3jYj8yDBVr3Opb71BldBns) | 2:19 | 2023-03-02 | 2023-03-10 |
 | [Dégaine \(feat\. Damso\)](https://open.spotify.com/track/5cqLFudVQryezmVFmmyRJN) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Dégaine \(feat\. Damso\)](https://open.spotify.com/album/0qHraUEsPCcdTqCFBFDQvn) | 3:30 | 2022-03-10 | 2022-03-18 |
 | [Déjame Entrar](https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Déjame Entrar](https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe) | 4:14 | 2024-07-18 | 2024-07-27 |
-| [Délire](https://open.spotify.com/track/0on5VgHRlqTsBFZjKxUVEd) | [Trafiquinte](https://open.spotify.com/artist/5HdWyNYybG0xZOdJOShrd6), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Délire](https://open.spotify.com/album/4sbg44B5nIufuoSt5Zflsy) | 2:38 | 2024-07-26 |  |
+| [Délire](https://open.spotify.com/track/0on5VgHRlqTsBFZjKxUVEd) | [Trafiquinte](https://open.spotify.com/artist/5HdWyNYybG0xZOdJOShrd6), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Délire](https://open.spotify.com/album/4sbg44B5nIufuoSt5Zflsy) | 2:23 | 2024-07-26 |  |
 | [Désenchantée](https://open.spotify.com/track/5eXap3JlpFGTjrDHpzZlW7) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9), [Brian Kaney](https://open.spotify.com/artist/5eMWo0B9I0SkoPkJi6eaH5) | [Désenchantée](https://open.spotify.com/album/267xyUdtCUOBwmYEAWdsge) | 2:38 | 2024-03-14 | 2024-03-22 |
 | [Désolée](https://open.spotify.com/track/5Fh6e9j4GMVZsVjau05WvW) | [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [Désolée](https://open.spotify.com/album/14rQsCcgIcJ7YjxSk5RZ7u) | 3:00 | 2023-01-05 | 2023-01-13 |
 | [Déter \(feat\. Soolking\)](https://open.spotify.com/track/2ngnc6nlCqgake5RcScDyN) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Déter \(feat\. Soolking\)](https://open.spotify.com/album/37WatFIDAALiCJZDhTQ1VG) | 3:26 | 2024-01-18 | 2024-01-26 |
@@ -9738,7 +9738,7 @@
 | [Rosa](https://open.spotify.com/track/1a9POpOpxBHzXHuTdvfQB1) | [Gigi](https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh) | [Rosa](https://open.spotify.com/album/2nF9NfcrB29kfbL0e2E5Wg) | 2:27 | 2023-06-29 | 2023-07-07 |
 | [Rosa Pillen](https://open.spotify.com/track/5spRLdyJ5pUl6UO6WH57Uu) | [SHARI](https://open.spotify.com/artist/2DSyocyjeHkXU2AsWQyYZS) | [Rosa Pillen](https://open.spotify.com/album/0bRYhJINUfUf863VcCthEN) | 2:16 | 2023-05-25 | 2023-06-02 |
 | [rosa rugosa](https://open.spotify.com/track/6JbEv82gvOqbjEMJs24MiF) | [Lucry & Suena](https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [rosa rugosa](https://open.spotify.com/album/1ywF3kbsYJUOa0hxfbZY08) | 2:25 | 2023-07-20 | 2023-07-28 |
-| [ROSALÍA](https://open.spotify.com/track/5KufYWIsB9CwXMqM93jhBD) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL), [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq), [LETHAL ESPRESSO](https://open.spotify.com/artist/28vHJJtC0LsCtFie11cCwV) | [ROSALÍA](https://open.spotify.com/album/56LIwDN3xS4YZvKdma7emL) | 2:42 | 2024-07-26 |  |
+| [ROSALÍA](https://open.spotify.com/track/5KufYWIsB9CwXMqM93jhBD) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL), [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq), [LETHAL ESPRESSO](https://open.spotify.com/artist/28vHJJtC0LsCtFie11cCwV) | [ROSALÍA](https://open.spotify.com/album/56LIwDN3xS4YZvKdma7emL) | 2:42 | 2024-07-26 | 2024-07-30 |
 | [Rosarot](https://open.spotify.com/track/0igM7lVfNHYMqjHCGbfOgU) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Rosarot](https://open.spotify.com/album/3Jh48eOcWcwLiAyjGokMOA) | 2:30 | 2023-09-14 | 2023-09-22 |
 | [Rosaroter Rausch](https://open.spotify.com/track/1JxVRwmJkEwHFv4lv1EIgP) | [BEVN](https://open.spotify.com/artist/6yhoNaKEJd3CH33hl26How) | [Rosaroter Rausch](https://open.spotify.com/album/7Am1uzB89xuCN0jthEmHYi) | 3:16 | 2023-08-31 | 2023-09-08 |
 | [Rose Colored](https://open.spotify.com/track/1Qrwsaby4LZ7GutasIuj2J) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Rose Colored](https://open.spotify.com/album/1QHJmVUnKt0jhoUNMK7VlI) | 5:01 | 2023-09-14 | 2023-09-22 |

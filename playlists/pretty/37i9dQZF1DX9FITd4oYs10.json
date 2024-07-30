@@ -1,6 +1,6 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17924,
+  "num_followers": 17925,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,34 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
+        "name": "\u00caxito",
+        "url": "https://open.spotify.com/album/3d19qMiZoSQHsgKshBpyuf"
+      },
+      "artists": [
+        {
+          "name": "Akira Presidente",
+          "url": "https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "MC Flavinho",
+          "url": "https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM"
+        },
+        {
+          "name": "DJ Decco",
+          "url": "https://open.spotify.com/artist/4csPpIaHzl4d8yO5obNcm0"
+        }
+      ],
+      "duration_ms": 204693,
+      "name": "Nipsey do Azul",
+      "url": "https://open.spotify.com/track/7oOZ6CmKSUUgTtVIYPJiNk"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
         "name": "Poesia Ac\u00fastica #3: Capricorniana",
         "url": "https://open.spotify.com/album/7nB1rBbEkEVdEt29DGgAfV"
       },
@@ -419,34 +447,6 @@
       "duration_ms": 430296,
       "name": "Poesia Ac\u00fastica #3: Capricorniana",
       "url": "https://open.spotify.com/track/1YUWhlQjFv7MQpcbb77zTL"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "\u00caxito",
-        "url": "https://open.spotify.com/album/3d19qMiZoSQHsgKshBpyuf"
-      },
-      "artists": [
-        {
-          "name": "Akira Presidente",
-          "url": "https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "MC Flavinho",
-          "url": "https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM"
-        },
-        {
-          "name": "DJ Decco",
-          "url": "https://open.spotify.com/artist/4csPpIaHzl4d8yO5obNcm0"
-        }
-      ],
-      "duration_ms": 204693,
-      "name": "Nipsey do Azul",
-      "url": "https://open.spotify.com/track/7oOZ6CmKSUUgTtVIYPJiNk"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -799,6 +799,30 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
+        "name": "Fuga",
+        "url": "https://open.spotify.com/album/4CYB9IWp5ReZ8PfvU7Cost"
+      },
+      "artists": [
+        {
+          "name": "Cacife Clandestino",
+          "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        },
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        }
+      ],
+      "duration_ms": 232191,
+      "name": "Fuga",
+      "url": "https://open.spotify.com/track/1w3wkv5EPlYBHi7N21XADR"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
         "name": "The Cypher Deffect 2",
         "url": "https://open.spotify.com/album/4blnaSPrTVDqEN4Bg1Cmgb"
       },
@@ -823,30 +847,6 @@
       "duration_ms": 335907,
       "name": "The Cypher Deffect 2",
       "url": "https://open.spotify.com/track/6GYrNXsWoprEndJCoKLfAB"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "Fuga",
-        "url": "https://open.spotify.com/album/4CYB9IWp5ReZ8PfvU7Cost"
-      },
-      "artists": [
-        {
-          "name": "Cacife Clandestino",
-          "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        },
-        {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        }
-      ],
-      "duration_ms": 232191,
-      "name": "Fuga",
-      "url": "https://open.spotify.com/track/1w3wkv5EPlYBHi7N21XADR"
     },
     {
       "added_at": "2024-02-23 18:00:29",

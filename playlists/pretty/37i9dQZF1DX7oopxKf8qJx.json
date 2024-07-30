@@ -1,6 +1,6 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 95842,
+  "num_followers": 95918,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,22 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "The Pops Goes Country (with Boston Pops Orchestra)",
-        "url": "https://open.spotify.com/album/0mmCf5GOA5jCuduhZmh0iq"
+        "name": "The Romantic Moods Of Jackie Gleason",
+        "url": "https://open.spotify.com/album/02x5TcGeRKzveg5jUwS0Ly"
       },
       "artists": [
         {
-          "name": "Chet Atkins",
-          "url": "https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU"
+          "name": "Jimmy McHugh",
+          "url": "https://open.spotify.com/artist/7r1YNrUHsmDmcVCg8P4piG"
         },
         {
-          "name": "Boston Pops Orchestra",
-          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
         }
       ],
-      "duration_ms": 163893,
-      "name": "Tennessee Waltz (with Boston Pops Orchestra)",
-      "url": "https://open.spotify.com/track/5SzsffG2AkYrjgcmUrVfxX"
+      "duration_ms": 210266,
+      "name": "I'm In The Mood For Love - Remastered/1996",
+      "url": "https://open.spotify.com/track/2Z93X6OdE8CAy960krXZF9"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -283,6 +283,26 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
+        "name": "The Pops Goes Country (with Boston Pops Orchestra)",
+        "url": "https://open.spotify.com/album/0mmCf5GOA5jCuduhZmh0iq"
+      },
+      "artists": [
+        {
+          "name": "Chet Atkins",
+          "url": "https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU"
+        },
+        {
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+        }
+      ],
+      "duration_ms": 163893,
+      "name": "Tennessee Waltz (with Boston Pops Orchestra)",
+      "url": "https://open.spotify.com/track/5SzsffG2AkYrjgcmUrVfxX"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
         "name": "You and the Night and the Music",
         "url": "https://open.spotify.com/album/6BfjlQaLkN18jIeDLTV4ef"
       },
@@ -295,26 +315,6 @@
       "duration_ms": 169493,
       "name": "Violins in the Night",
       "url": "https://open.spotify.com/track/3rKsXR4xrMOB90DoLswTiJ"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "The Romantic Moods Of Jackie Gleason",
-        "url": "https://open.spotify.com/album/02x5TcGeRKzveg5jUwS0Ly"
-      },
-      "artists": [
-        {
-          "name": "Jimmy McHugh",
-          "url": "https://open.spotify.com/artist/7r1YNrUHsmDmcVCg8P4piG"
-        },
-        {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "I'm In The Mood For Love - Remastered/1996",
-      "url": "https://open.spotify.com/track/2Z93X6OdE8CAy960krXZF9"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -383,18 +383,18 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "The Many Moods Of Murry Wilson",
-        "url": "https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq"
+        "name": "Concert In Rhythm",
+        "url": "https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1"
       },
       "artists": [
         {
-          "name": "Murry Wilson",
-          "url": "https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82"
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
         }
       ],
-      "duration_ms": 168573,
-      "name": "The Warmth Of The Sun",
-      "url": "https://open.spotify.com/track/6c0M03HMyxST5H0qUhdfCH"
+      "duration_ms": 150666,
+      "name": "Early Evening",
+      "url": "https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
+        "name": "The Many Moods Of Murry Wilson",
+        "url": "https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq"
+      },
+      "artists": [
+        {
+          "name": "Murry Wilson",
+          "url": "https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82"
+        }
+      ],
+      "duration_ms": 168573,
+      "name": "The Warmth Of The Sun",
+      "url": "https://open.spotify.com/track/6c0M03HMyxST5H0qUhdfCH"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
         "name": "Strings Latino",
         "url": "https://open.spotify.com/album/0dcD0Xc9CCmt5JfnbYGAfn"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 192666,
       "name": "A Felicidade",
       "url": "https://open.spotify.com/track/2eSQzpWTDk8JqzKRZpEtPH"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "Concert In Rhythm",
-        "url": "https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1"
-      },
-      "artists": [
-        {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "Early Evening",
-      "url": "https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -683,18 +683,18 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Champagne, Candlelight And Kisses",
-        "url": "https://open.spotify.com/album/7v2A1HlTNWgPxs8p101dCx"
+        "name": "The Shadow of Your Smile & Other Great Themes",
+        "url": "https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V"
       },
       "artists": [
         {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+          "name": "Andre Kostelanetz & His Orchestra",
+          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
         }
       ],
-      "duration_ms": 222786,
-      "name": "Theme From \"Bus Stop\"",
-      "url": "https://open.spotify.com/track/5Jd78KUwqhZcY5msCpsDLw"
+      "duration_ms": 177213,
+      "name": "Forget Domani",
+      "url": "https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -747,18 +747,18 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "The Shadow of Your Smile & Other Great Themes",
-        "url": "https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V"
+        "name": "Champagne, Candlelight And Kisses",
+        "url": "https://open.spotify.com/album/7v2A1HlTNWgPxs8p101dCx"
       },
       "artists": [
         {
-          "name": "Andre Kostelanetz & His Orchestra",
-          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
         }
       ],
-      "duration_ms": 177213,
-      "name": "Forget Domani",
-      "url": "https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO"
+      "duration_ms": 222786,
+      "name": "Theme From \"Bus Stop\"",
+      "url": "https://open.spotify.com/track/5Jd78KUwqhZcY5msCpsDLw"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "And Awaaay We Go! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3K0zalfzD0tX4s2t4fT6EP"
-      },
-      "artists": [
-        {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "Melancholy Serenade",
-      "url": "https://open.spotify.com/track/7c60uLULZWjeju80wHtxGw"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "Charade",
         "url": "https://open.spotify.com/album/1liumaVjSFdj8VfmFolmWy"
       },
@@ -879,6 +863,22 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
+        "name": "Hey...Let Yourself Go!",
+        "url": "https://open.spotify.com/album/49leeFzmdD4d6wmo77tTZ3"
+      },
+      "artists": [
+        {
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+        }
+      ],
+      "duration_ms": 217306,
+      "name": "You And The Night And The Music",
+      "url": "https://open.spotify.com/track/7j8Y5UR24GR4RspS9FBIot"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
         "name": "Plays Latin Themes For Young Lovers",
         "url": "https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa"
       },
@@ -895,18 +895,18 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Hey...Let Yourself Go!",
-        "url": "https://open.spotify.com/album/49leeFzmdD4d6wmo77tTZ3"
+        "name": "And Awaaay We Go! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3K0zalfzD0tX4s2t4fT6EP"
       },
       "artists": [
         {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
         }
       ],
-      "duration_ms": 217306,
-      "name": "You And The Night And The Music",
-      "url": "https://open.spotify.com/track/7j8Y5UR24GR4RspS9FBIot"
+      "duration_ms": 196666,
+      "name": "Melancholy Serenade",
+      "url": "https://open.spotify.com/track/7c60uLULZWjeju80wHtxGw"
     },
     {
       "added_at": "2024-07-17 14:53:29",

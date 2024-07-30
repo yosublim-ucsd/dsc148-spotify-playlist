@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-303 songs - 15 hr 47 min
+304 songs - 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Sleep Walk \(feat\. Liz Cass\)](https://open.spotify.com/track/5qZw8Y01dhAluWp6xdk4VV) | [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY), [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF), [Liz Cass](https://open.spotify.com/artist/0erHD7VN4kx2WwPg8w53kp) | [Sleep Walk \(feat\. Liz Cass\)](https://open.spotify.com/album/09crQU0aP4oOt8R5l0FUwv) | 3:38 | 2023-04-26 | 2024-05-01 |
 | [Sleep When I'm Dead](https://open.spotify.com/track/7jfDt0UHiWpD5TJA8yiA7Q) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Sleep When I'm Dead](https://open.spotify.com/album/7I577n54Z2sUrjsXousEIY) | 2:40 | 2024-03-07 |  |
 | [Sleepless \(feat\. GoldFord\)](https://open.spotify.com/track/3NO0uDaqtPzSSU9GAj39hC) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Sleepless \(feat\. GoldFord\)](https://open.spotify.com/album/3748XL91ovL1Tpni1BWAor) | 2:17 | 2023-07-28 | 2024-03-14 |
+| [SMACK TALK](https://open.spotify.com/track/5rzHkSHRyZUdQcCX6noFDB) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [ISOKNOCK](https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37) | [SMACK TALK](https://open.spotify.com/album/0F1AHBmHwzLNiOvqXc1bnc) | 4:00 | 2024-07-29 |  |
 | [Smoke](https://open.spotify.com/track/3KaDLJhdgx3tkmxNqLyO8a) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Smoke](https://open.spotify.com/album/4orQ6TXC8AAgIL7LfkBJmC) | 2:55 | 2023-06-23 | 2024-05-01 |
 | [So Crazy Again](https://open.spotify.com/track/6ocJJ9ONBpE4bPqCid872J) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx) | [So Crazy Again](https://open.spotify.com/album/1xw161vIjZ8ZjFoeiYoflT) | 2:36 | 2024-05-20 |  |
 | [Solteiro Sou Um Perigo](https://open.spotify.com/track/5VUkNfVb58kUWyWoWdbvha) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [Solteiro Sou Um Perigo](https://open.spotify.com/album/3B6QqQI2gmHsqddUrKkSZT) | 2:48 | 2023-06-13 | 2024-03-14 |

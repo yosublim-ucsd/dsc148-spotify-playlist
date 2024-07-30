@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-181 songs - 7 hr 35 min
+182 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Empyrean](https://open.spotify.com/track/17RDaw9BH11GDHTDlBi4VW) | [Eva Brummel](https://open.spotify.com/artist/6JCISfcnC2hHTm0uhjrbNy) | [Empyrean](https://open.spotify.com/album/1OOs0fwWFSuP3RqIEwRCiq) | 3:00 | 2023-05-09 | 2024-04-04 |
 | [Episode](https://open.spotify.com/track/1drr6zT3kdWCr78jPuBYDt) | [Charlotte Funke](https://open.spotify.com/artist/3yO7osdYZcoKHt0kTZT486) | [Episode](https://open.spotify.com/album/09cW79JXOPShafrskPjFxK) | 2:30 | 2023-05-09 |  |
 | [Eridani](https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Eridani](https://open.spotify.com/album/59ALZE7fBIJgO1Awt1S4bV) | 2:32 | 2024-02-02 |  |
+| [Escondidas](https://open.spotify.com/track/5uUdiK8TRiaRR8iLGZsBOt) | [Francine Gaétane](https://open.spotify.com/artist/6gMlkMM2jbGYhiNAzcR6Zw) | [Escondidas](https://open.spotify.com/album/52j4FXkBGwmYA8Jq8xuhKt) | 2:14 | 2024-07-29 |  |
 | [Eternal](https://open.spotify.com/track/1nu6ryRQROrnR6SGuQvsDf) | [Midnight Diver](https://open.spotify.com/artist/6XlYLWQJwJ9W8kmrJWGAXy) | [Eternal](https://open.spotify.com/album/2WNuCKp18G5ZvkIiTH0Sj8) | 2:22 | 2023-05-09 |  |
 | [Eventide](https://open.spotify.com/track/6m6E8jsmnmFXOR6bR3BnxF) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [Eventide](https://open.spotify.com/album/7AFx5CnBVTdbgeJ927qbyp) | 2:25 | 2023-05-09 |  |
 | [Eventually](https://open.spotify.com/track/3sJwsJwjoyAbGNVwxU7d24) | [Sonja Elliott](https://open.spotify.com/artist/7kKuC431bgNSQmNpEUBbbr) | [Eventually](https://open.spotify.com/album/4LusZsXbt0WraluCEPUbMF) | 2:20 | 2023-05-09 |  |
@@ -154,7 +155,7 @@
 | [Stille Sjø](https://open.spotify.com/track/1f12vrnCzIvlJ4zyCDTYvp) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Stille Sjø](https://open.spotify.com/album/5E4l2ZFHmlQZMYmN39cOLI) | 2:31 | 2023-07-18 |  |
 | [Stillness](https://open.spotify.com/track/0SGBSwX49QWTGiXMu39mUz) | [Fraser Jaspal](https://open.spotify.com/artist/3P2GZ3OyREqVPn8YISLrGH) | [Stillness](https://open.spotify.com/album/5PuL3CmcLn6ltqcMLsAahN) | 2:22 | 2023-05-09 |  |
 | [Strosande](https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Strosande](https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM) | 3:02 | 2023-05-09 |  |
-| [Sunrise](https://open.spotify.com/track/52yczS044UleaqWGtApYzs) | [Chris Snelling](https://open.spotify.com/artist/25ZHGX152rBqWlYA9C2iVp) | [Sunrise](https://open.spotify.com/album/1EaMdQ7TnT9Ri69i2Eee2A) | 2:47 | 2023-05-09 |  |
+| [Sunrise](https://open.spotify.com/track/52yczS044UleaqWGtApYzs) | [Chris Snelling](https://open.spotify.com/artist/25ZHGX152rBqWlYA9C2iVp) | [Sunrise](https://open.spotify.com/album/1EaMdQ7TnT9Ri69i2Eee2A) | 2:47 | 2023-05-09 | 2024-07-30 |
 | [Suns Go Down](https://open.spotify.com/track/26hm73J3T1dxvzGq80KJz0) | [Solset](https://open.spotify.com/artist/2zlsJaL5A3SAzmWOU8aCUj) | [Suns Go Down](https://open.spotify.com/album/3UyRhOfZrVLwOxk9MV6yyM) | 1:48 | 2023-05-09 | 2024-02-03 |
 | [Suspended](https://open.spotify.com/track/2uB8FHqxIKWIwxhF6PbKJQ) | [Collettivo Armonico](https://open.spotify.com/artist/3pZJIl6vk1Sht6hzSd9imE), [Carlo Matti](https://open.spotify.com/artist/1I6TZHDWSu8R0LK7AYTmQW) | [Suspended](https://open.spotify.com/album/32MvdShF82pEg3NYKWoLuF) | 3:09 | 2023-05-09 |  |
 | [Thaw](https://open.spotify.com/track/4uDMx10yG5CQgJTxR3dK66) | [Kepus](https://open.spotify.com/artist/1KRgUQR76UU7X6rxxaDbyd) | [Thaw](https://open.spotify.com/album/0BT7yQ0FIC1yMzrpj5rENc) | 1:53 | 2023-05-09 | 2024-02-03 |

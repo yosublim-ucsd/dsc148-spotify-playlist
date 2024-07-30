@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,008 likes - 26 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,010 likes - 26 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 25 | [This Space In My Heart Is for You](https://open.spotify.com/track/4gw3U6M0xzvFAdIpFWrQjO) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/16CCJo59jCko0476mRMmQu) | 1:35 |
 | 26 | [Your Way \(feat\. Day Wave\)](https://open.spotify.com/track/1i6C6n8CgzU0X7u77ikQid) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [The Cure To Loneliness](https://open.spotify.com/album/3RUimnrKcKNrCXkBkjPhBG) | 4:26 |
 
-Snapshot ID: `ZqQ4gAAAAAD4Ki3Q8FM4sofO+W7ZYb3H`
+Snapshot ID: `ZqWKAAAAAACjx5GadpOXHPxzjIQWd9G/`

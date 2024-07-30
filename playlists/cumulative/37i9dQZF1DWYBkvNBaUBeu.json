@@ -1069,6 +1069,28 @@
     },
     {
       "album": {
+        "name": "Y2K!",
+        "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161119,
+      "name": "Oh Shhh...(with Travis Scott)",
+      "url": "https://open.spotify.com/track/4hLoReufV6TYnpZWf5e41f"
+    },
+    {
+      "album": {
         "name": "Please Don't Fall In Love With Me",
         "url": "https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt"
       },

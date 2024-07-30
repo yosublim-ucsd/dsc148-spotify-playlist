@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Dillaz",
-  "num_followers": 65493,
+  "num_followers": 65550,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
@@ -795,18 +795,22 @@
     {
       "added_at": "2024-07-05 14:22:48",
       "album": {
-        "name": "Marselha",
-        "url": "https://open.spotify.com/album/1NxzgAT3Mhcb5ek0zxdhUj"
+        "name": "Louco",
+        "url": "https://open.spotify.com/album/78k1xD0ZE4Me5Tj19SeO6D"
       },
       "artists": [
         {
-          "name": "Zara G",
-          "url": "https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb"
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        },
+        {
+          "name": "Bluay",
+          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
         }
       ],
-      "duration_ms": 188689,
-      "name": "Marselha",
-      "url": "https://open.spotify.com/track/0O3Tiq9SgdndTbIzYs6UYc"
+      "duration_ms": 244000,
+      "name": "Louco",
+      "url": "https://open.spotify.com/track/5RPewmKIUL2vWtQLI0Qp1F"
     },
     {
       "added_at": "2024-07-05 14:22:48",
@@ -831,22 +835,18 @@
     {
       "added_at": "2024-07-05 14:22:48",
       "album": {
-        "name": "Louco",
-        "url": "https://open.spotify.com/album/78k1xD0ZE4Me5Tj19SeO6D"
+        "name": "Marselha",
+        "url": "https://open.spotify.com/album/1NxzgAT3Mhcb5ek0zxdhUj"
       },
       "artists": [
         {
-          "name": "Piruka",
-          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
-        },
-        {
-          "name": "Bluay",
-          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
+          "name": "Zara G",
+          "url": "https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Louco",
-      "url": "https://open.spotify.com/track/5RPewmKIUL2vWtQLI0Qp1F"
+      "duration_ms": 188689,
+      "name": "Marselha",
+      "url": "https://open.spotify.com/track/0O3Tiq9SgdndTbIzYs6UYc"
     },
     {
       "added_at": "2024-07-05 14:22:48",

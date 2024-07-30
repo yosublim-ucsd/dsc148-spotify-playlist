@@ -1,12 +1,12 @@
 {
-  "description": "This is Vilma Palma e Vampiros. Tutti i brani in un'unica playlist.",
-  "num_followers": 68283,
+  "description": "This Is Vilma Palma e Vampiros. Los temas esenciales, todos en una lista.",
+  "num_followers": 68300,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAAD4o8jwfzgsVsVWhjCM5fkl",
+  "snapshot_id": "ZqWKAAAAAACLo17FeTz7W9JtLes04C52",
   "tracks": [
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Histeria",
-        "url": "https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G"
+        "name": "Lo Mejor de Vilma Palma",
+        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 257021,
-      "name": "La Noche Que Yo Te Vi",
-      "url": "https://open.spotify.com/track/6UwLuzW1kxFiBniDJbv3R9"
+      "duration_ms": 246333,
+      "name": "Son tus ojos",
+      "url": "https://open.spotify.com/track/4I8H3JhKwTFTG8I3vzVkUy"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor de Vilma Palma",
-        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
+        "name": "Histeria",
+        "url": "https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 246333,
-      "name": "Son tus ojos",
-      "url": "https://open.spotify.com/track/4I8H3JhKwTFTG8I3vzVkUy"
+      "duration_ms": 257021,
+      "name": "La Noche Que Yo Te Vi",
+      "url": "https://open.spotify.com/track/6UwLuzW1kxFiBniDJbv3R9"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-350 songs - 15 hr 5 min
+351 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 | 2022-03-04 | 2024-04-06 |
 | [Each Day](https://open.spotify.com/track/5x8ne1bXZsp5hVcffmHv8n) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Each Day](https://open.spotify.com/album/0ogJZt9Iqzb6ez5hUaYsx3) | 2:23 | 2022-06-17 | 2022-11-05 |
 | [Each Day](https://open.spotify.com/track/7CLYREY7ffMNOMCAJZaBIn) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Each Day](https://open.spotify.com/album/768JMosIKgm2l7PuvLg7fV) | 2:23 | 2022-10-28 | 2022-11-18 |
-| [Early Morning Dream](https://open.spotify.com/track/2KUeoLhXvZqN5079fo0Xls) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Early Morning Dream](https://open.spotify.com/album/2gQxSh8wGNqv4iGo5GlzYO) | 2:13 | 2022-05-13 |  |
+| [Early Morning Dream](https://open.spotify.com/track/2KUeoLhXvZqN5079fo0Xls) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Early Morning Dream](https://open.spotify.com/album/2gQxSh8wGNqv4iGo5GlzYO) | 2:13 | 2022-05-13 | 2024-07-30 |
 | [Easy On The Road Ahead](https://open.spotify.com/track/1bEeNRyUZ236ES8UyPSJxF) | [Woodfray](https://open.spotify.com/artist/1oMo7wloYRSjSQNKgnJlRc) | [Waitwall Mountain](https://open.spotify.com/album/1PSaMx8sT3d1hVK7nUz9tX) | 2:30 | 2022-03-04 | 2022-07-08 |
 | [Een droom](https://open.spotify.com/track/3P7nk24Jc1yp0vemiFhPLh) | [Leandra Annemie](https://open.spotify.com/artist/1ET9NGdvdAIpABpOdrZQYr) | [Een droom](https://open.spotify.com/album/6Rb00pg6majXThMxoPEjJA) | 2:07 | 2022-03-04 | 2022-07-22 |
 | [El Jacal](https://open.spotify.com/track/65gLeiH2oi3AKIcb62nbnR) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Cuyutlan](https://open.spotify.com/album/7HhrRiyLX4MJ9m3brNjQ0H) | 2:36 | 2022-03-04 | 2022-04-06 |
@@ -335,6 +335,7 @@
 | [Waiting](https://open.spotify.com/track/6Zq6tANmR79uUWS58OUglp) | [Cary Bestwood](https://open.spotify.com/artist/1qE78k5MwKFre0e74P3lQV) | [Waiting](https://open.spotify.com/album/0wZfKkKEbZ89LjEPIqxLJE) | 2:07 | 2022-12-09 | 2023-10-13 |
 | [Waiting for you](https://open.spotify.com/track/1Li8aJ0LMcv9yQXpCPLUMF) | [Vito Cantador](https://open.spotify.com/artist/7hh6PFK9DC1ZNhtXx5457U) | [Waiting for you](https://open.spotify.com/album/569RTgksPYOaP1xBxkzuvc) | 3:08 | 2022-03-04 | 2023-01-20 |
 | [Wanderlust](https://open.spotify.com/track/1JUePRPMGRhATh4dupz75d) | [Sylvain Lowe](https://open.spotify.com/artist/6R5QFCQdTlzmpIq18rRLw7) | [Wanderlust](https://open.spotify.com/album/16CpPwIJH1AyBcESvx9PH0) | 2:16 | 2024-03-08 | 2024-06-08 |
+| [Warm Winds](https://open.spotify.com/track/6FLTmuEnGxh5MGAApUsN1x) | [Morgan Fleich](https://open.spotify.com/artist/0fA5ejVShbNdZWiw5CB1l1) | [Warm Winds](https://open.spotify.com/album/1KlFEgMtktwFRxgN3SpgkP) | 2:56 | 2024-07-29 |  |
 | [Waterfall](https://open.spotify.com/track/4yfJrK5whv2XCvp6JEwayO) | [Pether Walth](https://open.spotify.com/artist/7KsO5zRoKDB9DumlFYRNW1) | [Waterfall](https://open.spotify.com/album/1F5ltuidSbJFydkutXmMMl) | 1:52 | 2023-05-09 | 2023-08-26 |
 | [Waves](https://open.spotify.com/track/1fCos6izL2keCsoAtj30Kk) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Waves](https://open.spotify.com/album/00016y6rEQmuv4JGNL6w4c) | 2:57 | 2022-10-07 | 2023-05-10 |
 | [Weary Traveler](https://open.spotify.com/track/7gLCSVhUt9CNBoCqNRas4R) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Weary Traveler](https://open.spotify.com/album/0uP3ptU1wLEBiIH6qpWoP9) | 3:10 | 2023-01-06 |  |

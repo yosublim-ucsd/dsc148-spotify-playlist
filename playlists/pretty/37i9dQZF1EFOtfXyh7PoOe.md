@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 749 likes - 115 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 748 likes - 115 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 41 | [rock bottom \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/5d1OeQBC6zyHO8jc2svOZz) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [joke's on you](https://open.spotify.com/album/7m81PtaaFgg72fNkVvU5gF) | 2:45 |
 | 42 | [7 Cigs](https://open.spotify.com/track/2ka8FmAobM5dCkWlBLVCMC) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 1\)](https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE) | 2:27 |
 | 43 | [AEIOU](https://open.spotify.com/track/1UJawJrJWGcRpvNNDPoQea) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Hyperbolic](https://open.spotify.com/album/5pEozLaSdqclUTag0hZfyt) | 3:15 |
-| 44 | [I Will for Love \(feat\. Will Heard\)](https://open.spotify.com/track/0iYagB0mAq2PzXw0DqtW0m) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [We the Generation \(Deluxe Edition\)](https://open.spotify.com/album/5q9e0KBDIjiRBYWXxaWVAG) | 4:07 |
-| 45 | [Kendi Yoluna](https://open.spotify.com/track/19cm0LA9GS3ib8PH5IHsx7) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 2\)](https://open.spotify.com/album/5fokZDlNCQwtgXtsths7AC) | 2:07 |
-| 46 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 |
+| 44 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 |
+| 45 | [I Will for Love \(feat\. Will Heard\)](https://open.spotify.com/track/0iYagB0mAq2PzXw0DqtW0m) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [We the Generation \(Deluxe Edition\)](https://open.spotify.com/album/5q9e0KBDIjiRBYWXxaWVAG) | 4:07 |
+| 46 | [Kendi Yoluna](https://open.spotify.com/track/19cm0LA9GS3ib8PH5IHsx7) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 2\)](https://open.spotify.com/album/5fokZDlNCQwtgXtsths7AC) | 2:07 |
 | 47 | [New Me](https://open.spotify.com/track/64zUfXPRniUl7qKaUtpqeS) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [New Me](https://open.spotify.com/album/16FfsigPMI9Zb4GqF0XlBS) | 3:15 |
 | 48 | [Talk Later](https://open.spotify.com/track/4qzSuNN7gBDdsQRjrohKpE) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Night & Day \(Day Edition\)](https://open.spotify.com/album/0VKcOEVdDLf95KdHfBw9AR) | 3:01 |
 | 49 | [In The Night](https://open.spotify.com/track/3WiLJNcLc7LC7IxVGFQZYK) | [Joy Club](https://open.spotify.com/artist/2pl0xmKbMZHncAxBcYUs79) | [In The Night](https://open.spotify.com/album/2XmcywRb1e7pkN7kkgLPgg) | 2:37 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 93 | [C'est La Vie](https://open.spotify.com/track/2rDZiVgp3t072QzQba281V) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [C'est La Vie](https://open.spotify.com/album/3k2L48HTq4EdOAIBF49W0G) | 2:32 |
 | 94 | [Stay](https://open.spotify.com/track/0BouPBCd9OuwPtnDhA3ZNK) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [The Wrong Ones](https://open.spotify.com/album/44uWdDSJjRmiB0nWbth1jO) | 3:00 |
 | 95 | [Leap Of Faith](https://open.spotify.com/track/60RaJR9WDuED6orXYyXOAR) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Leap Of Faith](https://open.spotify.com/album/6dESR87X8I2nUW6rOlaDH8) | 3:22 |
-| 96 | [Bloom](https://open.spotify.com/track/4T7vbzrubScfDq0bx7Am5M) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Bloom](https://open.spotify.com/album/1FIiSEBdr1vujOzxWfHHiD) | 2:49 |
-| 97 | [you wore it better](https://open.spotify.com/track/1kXDpU4bGa4NbxHzYQyp0z) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [you wore it better](https://open.spotify.com/album/0xFm8Bo12l57apTa52n2US) | 1:56 |
+| 96 | [you wore it better](https://open.spotify.com/track/1kXDpU4bGa4NbxHzYQyp0z) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [you wore it better](https://open.spotify.com/album/0xFm8Bo12l57apTa52n2US) | 1:56 |
+| 97 | [Bloom](https://open.spotify.com/track/4T7vbzrubScfDq0bx7Am5M) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Bloom](https://open.spotify.com/album/1FIiSEBdr1vujOzxWfHHiD) | 2:49 |
 | 98 | [Ur so Cute](https://open.spotify.com/track/1Ek0cobqdxtZeFyszepTly) | [kid ryan](https://open.spotify.com/artist/1ncjiTAfWX4ipmk1WMHeHL) | [Ur so Cute](https://open.spotify.com/album/34YQYSGf7GOqUi5ROHSQa8) | 2:10 |
 | 99 | [S.I.N.G.L.E](https://open.spotify.com/track/0Rs2UGxt1HwI9ZxcuywX9k) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [S.I.N.G.L.E](https://open.spotify.com/album/2PeCHxcEBzPUwodr7oWZ0V) | 2:42 |
 | 100 | [18](https://open.spotify.com/track/4QZeKxBpLwZjqS0CYSShc6) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [Just for the Times](https://open.spotify.com/album/751FUQcmvpQEinjZhTOLHH) | 3:20 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 114 | [Beachgrass](https://open.spotify.com/track/0Hq9LR4QzB39RvrngZpzbA) | [HEAD BALLET](https://open.spotify.com/artist/1YWp4o7h26JLnz5strYI0E) | [Suddenly It's Making Sense](https://open.spotify.com/album/1qxtSUzztfc1zPouYoDDsI) | 2:39 |
 | 115 | [Machu Picchu](https://open.spotify.com/track/44Uo9mTbDfmpy2PTL3KuUD) | [kid ryan](https://open.spotify.com/artist/1ncjiTAfWX4ipmk1WMHeHL) | [Machu Picchu](https://open.spotify.com/album/5q6YYFkNQzffl1IYxgoD47) | 2:48 |
 
-Snapshot ID: `AbX7rAAAAADAmH6NoDqfliAbgR1h0n8R`
+Snapshot ID: `AbYBTAAAAACize8lfdaKAjJyTq2riQ9Q`

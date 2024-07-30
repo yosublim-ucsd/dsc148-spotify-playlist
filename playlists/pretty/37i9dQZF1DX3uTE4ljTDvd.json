@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Bea Rodrigues",
-  "num_followers": 121659,
+  "num_followers": 121684,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,26 @@
     {
       "added_at": "2024-07-13 00:28:33",
       "album": {
+        "name": "Tua Presen\u00e7a",
+        "url": "https://open.spotify.com/album/2ssdQ9ySFAaAPQSqvW6iBJ"
+      },
+      "artists": [
+        {
+          "name": "Gabi Oliveira",
+          "url": "https://open.spotify.com/artist/3zEDRm9Asx2fUq0ukH97GD"
+        },
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        }
+      ],
+      "duration_ms": 269722,
+      "name": "Tua Presen\u00e7a",
+      "url": "https://open.spotify.com/track/4Pbm0daFz5Y8PRKmgHkFRI"
+    },
+    {
+      "added_at": "2024-07-13 00:28:33",
+      "album": {
         "name": "Fenda da Rocha (Ao Vivo)",
         "url": "https://open.spotify.com/album/2BwUstX6wBqQCiGrThGxfP"
       },
@@ -135,26 +155,6 @@
       "duration_ms": 323506,
       "name": "Fenda da Rocha - Ao Vivo",
       "url": "https://open.spotify.com/track/2l0Iqa3e3QzT0q798LiyhG"
-    },
-    {
-      "added_at": "2024-07-13 00:28:33",
-      "album": {
-        "name": "Tua Presen\u00e7a",
-        "url": "https://open.spotify.com/album/2ssdQ9ySFAaAPQSqvW6iBJ"
-      },
-      "artists": [
-        {
-          "name": "Gabi Oliveira",
-          "url": "https://open.spotify.com/artist/3zEDRm9Asx2fUq0ukH97GD"
-        },
-        {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
-        }
-      ],
-      "duration_ms": 269722,
-      "name": "Tua Presen\u00e7a",
-      "url": "https://open.spotify.com/track/4Pbm0daFz5Y8PRKmgHkFRI"
     },
     {
       "added_at": "2024-07-13 00:28:33",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-07-13 00:28:33",
       "album": {
-        "name": "Acredito na Promessa",
-        "url": "https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH"
-      },
-      "artists": [
-        {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
-        }
-      ],
-      "duration_ms": 245109,
-      "name": "Acredito na Promessa",
-      "url": "https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0"
-    },
-    {
-      "added_at": "2024-07-13 00:28:33",
-      "album": {
         "name": "Esta\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/76288hlVhG5AxKmWjOanMQ"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 180600,
       "name": "D\u00ea Mais uma Chance para o Mundo",
       "url": "https://open.spotify.com/track/1ynxYbJ0Ok79hrPMHpfq8R"
+    },
+    {
+      "added_at": "2024-07-13 00:28:33",
+      "album": {
+        "name": "Acredito na Promessa",
+        "url": "https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH"
+      },
+      "artists": [
+        {
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+        }
+      ],
+      "duration_ms": 245109,
+      "name": "Acredito na Promessa",
+      "url": "https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0"
     },
     {
       "added_at": "2024-07-13 00:28:33",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-07-13 00:28:33",
       "album": {
-        "name": "Basta Uma Palavra",
-        "url": "https://open.spotify.com/album/2nW44xh4BxcNaKHcISWf8N"
-      },
-      "artists": [
-        {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Basta Uma Palavra",
-      "url": "https://open.spotify.com/track/28WSh5HaGtFA6OnoygL5mx"
-    },
-    {
-      "added_at": "2024-07-13 00:28:33",
-      "album": {
         "name": "Quanto Amor",
         "url": "https://open.spotify.com/album/4K7OG0Y812Xl9UlpyNjJbj"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 224550,
       "name": "Quanto Amor",
       "url": "https://open.spotify.com/track/4Uc9lQEOm6KnNtES53jDfB"
+    },
+    {
+      "added_at": "2024-07-13 00:28:33",
+      "album": {
+        "name": "Basta Uma Palavra",
+        "url": "https://open.spotify.com/album/2nW44xh4BxcNaKHcISWf8N"
+      },
+      "artists": [
+        {
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Basta Uma Palavra",
+      "url": "https://open.spotify.com/track/28WSh5HaGtFA6OnoygL5mx"
     },
     {
       "added_at": "2024-07-13 00:28:33",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-07-13 00:28:33",
       "album": {
-        "name": "Tu Me Fascinas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7"
-      },
-      "artists": [
-        {
-          "name": "Mariana Vieira",
-          "url": "https://open.spotify.com/artist/2uUm1FW0PANuzL0hiSH9o2"
-        }
-      ],
-      "duration_ms": 283235,
-      "name": "Tu Me Fascinas - Ao Vivo",
-      "url": "https://open.spotify.com/track/41NibAItjNsql9NScvLcon"
-    },
-    {
-      "added_at": "2024-07-13 00:28:33",
-      "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/55Z5QH9ieP02mhRkkj2h14"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 251936,
       "name": "Gra\u00e7a",
       "url": "https://open.spotify.com/track/0OLq6ePXSrz4bOgF2xqWT3"
+    },
+    {
+      "added_at": "2024-07-13 00:28:33",
+      "album": {
+        "name": "Tu Me Fascinas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7"
+      },
+      "artists": [
+        {
+          "name": "Mariana Vieira",
+          "url": "https://open.spotify.com/artist/2uUm1FW0PANuzL0hiSH9o2"
+        }
+      ],
+      "duration_ms": 283235,
+      "name": "Tu Me Fascinas - Ao Vivo",
+      "url": "https://open.spotify.com/track/41NibAItjNsql9NScvLcon"
     },
     {
       "added_at": "2024-07-13 00:28:33",

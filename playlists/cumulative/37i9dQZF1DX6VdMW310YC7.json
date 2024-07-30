@@ -13350,7 +13350,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 297803,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/1hrle9bhEQsnykiEWXzDa9"
@@ -17018,6 +17018,24 @@
       "duration_ms": 228577,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/7LpEotX5nSacwXSuNOmJ1k"
+    },
+    {
+      "album": {
+        "name": "Light up my dark",
+        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208937,
+      "name": "Light up my dark",
+      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
     },
     {
       "album": {
@@ -26853,6 +26871,28 @@
     },
     {
       "album": {
+        "name": "Something Right",
+        "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
+      },
+      "artists": [
+        {
+          "name": "Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        },
+        {
+          "name": "Molly Moonwater",
+          "url": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175040,
+      "name": "Something Right",
+      "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
+    },
+    {
+      "album": {
         "name": "Something To Say",
         "url": "https://open.spotify.com/album/2JvCQOoWxhbDiq6L6XyQHC"
       },
@@ -28048,7 +28088,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 267860,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/2yGcuM8Nb3UeE3sphPzKml"

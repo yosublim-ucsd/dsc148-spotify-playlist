@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 35384,
+  "num_followers": 35397,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAAAHlqKMCFmZXYZRVkuzI+/D",
+  "snapshot_id": "ZqWKAAAAAABedTADUjvgCkdwmmfXTFWK",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Among Friends",
-        "url": "https://open.spotify.com/album/0hxfUE2sJIElmXKdihbpnT"
+        "name": "Good Beer",
+        "url": "https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q"
       },
       "artists": [
         {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
         },
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 166066,
-      "name": "Buy Dirt",
-      "url": "https://open.spotify.com/track/0pvwG3L9KMrWFQItEnimaa"
+      "duration_ms": 174111,
+      "name": "Good Beer",
+      "url": "https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct"
     },
     {
       "added_at": null,
@@ -343,22 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Beer",
-        "url": "https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q"
+        "name": "Among Friends",
+        "url": "https://open.spotify.com/album/0hxfUE2sJIElmXKdihbpnT"
       },
       "artists": [
         {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
         },
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 174111,
-      "name": "Good Beer",
-      "url": "https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct"
+      "duration_ms": 166066,
+      "name": "Buy Dirt",
+      "url": "https://open.spotify.com/track/0pvwG3L9KMrWFQItEnimaa"
     },
     {
       "added_at": null,

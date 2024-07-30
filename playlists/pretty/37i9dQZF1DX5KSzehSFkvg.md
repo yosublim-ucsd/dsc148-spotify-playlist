@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 
 > Les meilleurs hits Pop c'est ici\. Cover: Hind Ziadi
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,708 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,787 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Boom Boom](https://open.spotify.com/track/5pjYaVlejSYb84DlG71Qx4) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [BOOM BOOM](https://open.spotify.com/album/0cgPDMMTm1NrfgXLzGovUk) | 3:32 |
-| 2 | [Mahboul Ana](https://open.spotify.com/track/2YmbOhmRPDZ5XD5l9jROln) | [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Mahboul Ana](https://open.spotify.com/album/5S0X8OEdaDeVvvH5EoSlxY) | 3:05 |
+| 2 | [Mahboul Ana](https://open.spotify.com/track/6bQftLbIxlg6uMXEL77h1a) | [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Mahboul Ana](https://open.spotify.com/album/4gsrCRVyVyzxQnaA6ZCi3K) | 3:05 |
 | 3 | [Badadi](https://open.spotify.com/track/1dBv07ZgvsNBeQs2lJon6W) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Badadi](https://open.spotify.com/album/250j3jUtT9Ow3oy67N9vuB) | 2:45 |
 | 4 | [Magdar](https://open.spotify.com/track/4vT286Zu3aHYW96N76joB7) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Magdar](https://open.spotify.com/album/2BgCJlo2EDx4w5uxTP3hJC) | 3:12 |
 | 5 | [Bla Bla](https://open.spotify.com/track/1PlZpPgiBtPlB7uCAYa3ov) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Bla Bla](https://open.spotify.com/album/1Bz9d2WJ4nYffksQJ7XTAs) | 3:01 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 59 | [Dima Mechi](https://open.spotify.com/track/4FqzaLISWmn42eDkTenweI) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Dima Mechi \(ديما ماشي\)](https://open.spotify.com/album/7dcTaS0a7Sp7XafbHbLYf5) | 4:45 |
 | 60 | [Rouhani](https://open.spotify.com/track/2417U3M1EmTIU34xpBEfA0) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Rouhani](https://open.spotify.com/album/0557ejgFhXB7KOb4K2ryt0) | 3:01 |
 
-Snapshot ID: `ZqUudQAAAABbQMf2WGxJ3u7TMXiOfmVd`
+Snapshot ID: `ZqfZyQAAAADInZK9T2oey3NHh4GrS8EE`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2406spotifypkerndwbjny446&utm\_campaign=2406spotify&utm\_source=sptfy\_na&utm\_medium=ernd\_wbjny\_acq\_deslnk&utm\_term=spotifyusers&utm\_content=nooffer&voucher\[\]=XXXXXXXXXXXXXX">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,181 likes - 251 songs - 13 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,032 likes - 252 songs - 13 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -257,7 +257,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 247 | [Glasgow Love Theme](https://open.spotify.com/track/2dz5fCXiNZk4W5Qptpmfgm) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Love Actually \(Original Motion Picture Score\)](https://open.spotify.com/album/4Kw7yE7xBZdHrvkTswoQq4) | 2:05 |
 | 248 | [Head Up](https://open.spotify.com/track/3zieOwCrap1s2sIpxWlx92) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/7FQA4DGX7aIfT8b8f8GVhp) | 3:09 |
 | 249 | [Wild Love \- Acoustic](https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Wild Love \(Acoustic\)](https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk) | 3:09 |
-| 250 | [Love Me Like You Do \(Acoustic\)](https://open.spotify.com/track/4mzSkWDdDDrd1i3wg1FfpC) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Love Me Like You Do \(Acoustic\)](https://open.spotify.com/album/4aX5Utj2TSwg3jc8felZng) | 2:36 |
-| 251 | [Love Me Like You Do](https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 4:13 |
+| 250 | [Proof](https://open.spotify.com/track/3cC5hwcjXlVOrgTpnoc44o) | [Gracie Moses](https://open.spotify.com/artist/26pbK4LF8X2Otc9ZezgNAU) | [Proof](https://open.spotify.com/album/5mRVz4dOy7P6MSirPISDg9) | 3:07 |
+| 251 | [Love Me Like You Do \(Acoustic\)](https://open.spotify.com/track/4mzSkWDdDDrd1i3wg1FfpC) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Love Me Like You Do \(Acoustic\)](https://open.spotify.com/album/4aX5Utj2TSwg3jc8felZng) | 2:36 |
+| 252 | [Love Me Like You Do](https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 4:13 |
 
-Snapshot ID: `ZqFZngAAAABTQYAGdEVnY9On4bX9W2w3`
+Snapshot ID: `Zqfz3wAAAADEMK8uFQG9oWpiX6pd3S3c`

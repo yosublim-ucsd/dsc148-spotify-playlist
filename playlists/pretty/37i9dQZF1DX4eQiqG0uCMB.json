@@ -1,6 +1,6 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 32736,
+  "num_followers": 32774,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-07-26 09:00:09",
       "album": {
+        "name": "Hypertension",
+        "url": "https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 163709,
+      "name": "Contraband",
+      "url": "https://open.spotify.com/track/2XWEtuwV02B9L4UNQ2wf9W"
+    },
+    {
+      "added_at": "2024-07-26 09:00:09",
+      "album": {
         "name": "Trumpet",
         "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 188656,
       "name": "Trumpet",
       "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
-    },
-    {
-      "added_at": "2024-07-26 09:00:09",
-      "album": {
-        "name": "Hypertension",
-        "url": "https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 163709,
-      "name": "Contraband",
-      "url": "https://open.spotify.com/track/2XWEtuwV02B9L4UNQ2wf9W"
     },
     {
       "added_at": "2024-07-26 09:00:09",

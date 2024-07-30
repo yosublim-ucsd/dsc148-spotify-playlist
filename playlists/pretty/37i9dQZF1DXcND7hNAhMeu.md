@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcND7hNAhMeu.md) - [plain]
 
 > Geleceğin seslerini dinle! Kapak: Ege Can Sal
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,584 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,593 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Yalnızlık Bana Kalan](https://open.spotify.com/track/1MLVv52wh7QmiW0mQEKKuV) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Büyüklere Ninniler](https://open.spotify.com/album/2zviwzygpyVqqab20KQC5T) | 3:17 |
-| 2 | [Bu Gece Son](https://open.spotify.com/track/1k2asRqf2pyMDc6Yh7Y3Ec) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [Bu Gece Son](https://open.spotify.com/album/2g9H0x9HQi68RoI0krAO8p) | 2:44 |
-| 3 | [Zehirlenebilir Hayatım](https://open.spotify.com/track/238wbgbcWPejxUdxqKfKRS) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Zehirlenebilir Hayatım](https://open.spotify.com/album/56V62z7z0Y6GlessYeIpDU) | 2:43 |
-| 4 | [HUMAN](https://open.spotify.com/track/2JRsdMaavScKW5ohfCFOgz) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [HUMAN](https://open.spotify.com/album/52FucwXRUffwY88oNm8pTT) | 3:11 |
+| 1 | [Bu Gece Son](https://open.spotify.com/track/1k2asRqf2pyMDc6Yh7Y3Ec) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [Bu Gece Son](https://open.spotify.com/album/2g9H0x9HQi68RoI0krAO8p) | 2:44 |
+| 2 | [Yalnızlık Bana Kalan](https://open.spotify.com/track/1MLVv52wh7QmiW0mQEKKuV) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Büyüklere Ninniler](https://open.spotify.com/album/2zviwzygpyVqqab20KQC5T) | 3:17 |
+| 3 | [SENİ GÖRDÜĞÜM AN](https://open.spotify.com/track/5hyYCEaC704WXeb4saAim4) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf), [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [SENİ GÖRDÜĞÜM AN](https://open.spotify.com/album/4b91E9t6JFljmPckcteTLi) | 3:14 |
+| 4 | [Zehirlenebilir Hayatım](https://open.spotify.com/track/238wbgbcWPejxUdxqKfKRS) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Zehirlenebilir Hayatım](https://open.spotify.com/album/56V62z7z0Y6GlessYeIpDU) | 2:43 |
 | 5 | [YABANCI](https://open.spotify.com/track/3tkaoklFrXHAlWvdoWhUbY) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [YABANCI](https://open.spotify.com/album/0YBe2Fk1Q0V7JnmqzzTrnb) | 2:27 |
 | 6 | [NE SENLE NE SENSİZ](https://open.spotify.com/track/5bqI4hBdL3OOW0wMtjA9Fn) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [NE SENLE NE SENSİZ](https://open.spotify.com/album/67KVsFKWwM07Xeg3WOXFCU) | 3:42 |
 | 7 | [Belki Bi' Gün Anlarsın](https://open.spotify.com/track/0ddXQ4eNqVOr1YacLki5Xa) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Belki Bi' Gün Anlarsın](https://open.spotify.com/album/4TjIITyVEoaYup0JFmNMjg) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcND7hNAhMeu.md) - [plain]
 | 49 | [Son Perde](https://open.spotify.com/track/6qWXNfRL7ygjONnrPPzALQ) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Son Perde](https://open.spotify.com/album/3UyAJFP27NQabY22Te3UuA) | 3:23 |
 | 50 | [İHYA](https://open.spotify.com/track/45my9isZJ6wUxDnUWUL8WL) | [KARDELEN](https://open.spotify.com/artist/4mNGMbwJpaXOAAqbAOEQms) | [İHYA](https://open.spotify.com/album/2fg6JIB8A8NuyUEzybDFrV) | 3:28 |
 
-Snapshot ID: `ZpmCUAAAAACT9eiQrXOJDQcXNZZiWVKA`
+Snapshot ID: `ZqdHggAAAABXrqPnuc18baVqrf1Gwu4c`

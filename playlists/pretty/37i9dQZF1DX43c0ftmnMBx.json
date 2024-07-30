@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Manuel Turizo",
-  "num_followers": 242740,
+  "num_followers": 242759,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
@@ -695,30 +695,6 @@
     {
       "added_at": "2024-06-20 23:55:00",
       "album": {
-        "name": "LAS BURBUJAS DEL JACUZZI",
-        "url": "https://open.spotify.com/album/5XrAHXh8BA2Ncvltge5YPk"
-      },
-      "artists": [
-        {
-          "name": "India Martinez",
-          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Lele Pons",
-          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
-        }
-      ],
-      "duration_ms": 156917,
-      "name": "LAS BURBUJAS DEL JACUZZI",
-      "url": "https://open.spotify.com/track/1u7m5t7YwN5neo0RtL3oRB"
-    },
-    {
-      "added_at": "2024-06-20 23:55:00",
-      "album": {
         "name": "A la Mar",
         "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
       },
@@ -751,6 +727,30 @@
       "duration_ms": 264757,
       "name": "Se\u00f1or Juez",
       "url": "https://open.spotify.com/track/2PH533J1xudlfZ5GaHAdVX"
+    },
+    {
+      "added_at": "2024-06-20 23:55:00",
+      "album": {
+        "name": "LAS BURBUJAS DEL JACUZZI",
+        "url": "https://open.spotify.com/album/5XrAHXh8BA2Ncvltge5YPk"
+      },
+      "artists": [
+        {
+          "name": "India Martinez",
+          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Lele Pons",
+          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
+        }
+      ],
+      "duration_ms": 156917,
+      "name": "LAS BURBUJAS DEL JACUZZI",
+      "url": "https://open.spotify.com/track/1u7m5t7YwN5neo0RtL3oRB"
     },
     {
       "added_at": "2024-06-20 23:55:00",
@@ -1555,8 +1555,8 @@
     {
       "added_at": "2024-06-20 23:55:00",
       "album": {
-        "name": "Medicina de Amor",
-        "url": "https://open.spotify.com/album/2wLWr0dEKCauOLtmfJikCR"
+        "name": "Escenas De Amor",
+        "url": "https://open.spotify.com/album/7BHBDN6dsMr4OwaMNhu1Mb"
       },
       "artists": [
         {
@@ -1564,9 +1564,9 @@
           "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
         }
       ],
-      "duration_ms": 365253,
-      "name": "Medicina de Amor",
-      "url": "https://open.spotify.com/track/2nTgr8A2F6dpxsuGsf6KSk"
+      "duration_ms": 283413,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/38cozIrW3CWUOmg2G5J6qa"
     },
     {
       "added_at": "2024-06-20 23:55:00",
@@ -1635,8 +1635,8 @@
     {
       "added_at": "2024-06-20 23:55:00",
       "album": {
-        "name": "Escenas De Amor",
-        "url": "https://open.spotify.com/album/7BHBDN6dsMr4OwaMNhu1Mb"
+        "name": "Medicina de Amor",
+        "url": "https://open.spotify.com/album/2wLWr0dEKCauOLtmfJikCR"
       },
       "artists": [
         {
@@ -1644,9 +1644,9 @@
           "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
         }
       ],
-      "duration_ms": 283413,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/38cozIrW3CWUOmg2G5J6qa"
+      "duration_ms": 365253,
+      "name": "Medicina de Amor",
+      "url": "https://open.spotify.com/track/2nTgr8A2F6dpxsuGsf6KSk"
     },
     {
       "added_at": "2024-06-20 23:55:00",

@@ -5340,7 +5340,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 269468,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/56efA4flKJ3mW9tGfIgcbD"
@@ -5722,6 +5722,28 @@
       "duration_ms": 300798,
       "name": "Hypertrophy of Heart",
       "url": "https://open.spotify.com/track/42bZq7YzcIsrIpbQesd5nh"
+    },
+    {
+      "album": {
+        "name": "H\u00e9roe de M\u00e9xico",
+        "url": "https://open.spotify.com/album/7yKxl53YArKGGJZxdHJGGb"
+      },
+      "artists": [
+        {
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        },
+        {
+          "name": "mari",
+          "url": "https://open.spotify.com/artist/15OvVFJbYn5WnBNcAXIKIJ"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211202,
+      "name": "H\u00e9roe de M\u00e9xico",
+      "url": "https://open.spotify.com/track/7MLuFolJQtnjal6Dj2PEoJ"
     },
     {
       "album": {

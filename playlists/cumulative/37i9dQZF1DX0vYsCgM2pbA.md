@@ -4,7 +4,7 @@
 
 > Kick on with this mix of homegrown electronic music
 
-186 songs - 11 hr 20 min
+187 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Everything \- Sonnee Remix](https://open.spotify.com/track/4d8znCPQ5ilRAVhkafU0EA) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Everything \(Sonnee Remix\)](https://open.spotify.com/album/0okrSkdtLDeof2Rgeuf6IR) | 3:00 | 2023-12-21 | 2024-03-27 |
 | [Falling for You](https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Falling for You](https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA) | 3:10 | 2022-12-01 | 2024-04-19 |
 | [Feel It](https://open.spotify.com/track/6zx3Fh4ycldi5XZHukp2jT) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Lost Forever](https://open.spotify.com/album/3kwZmDvzfHAhkWdIUaku4J) | 5:09 | 2022-12-01 | 2023-01-13 |
-| [Feel It \- Claptone Remix](https://open.spotify.com/track/4Gnz8xgMWStsGMSU8ITxNS) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Feel It \(Claptone Remix\)](https://open.spotify.com/album/1EYNtwX4XZClAvBiozcLNA) | 3:20 | 2024-02-01 |  |
+| [Feel It \- Claptone Remix](https://open.spotify.com/track/4Gnz8xgMWStsGMSU8ITxNS) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Feel It \(Claptone Remix\)](https://open.spotify.com/album/1EYNtwX4XZClAvBiozcLNA) | 3:20 | 2024-02-01 | 2024-07-30 |
 | [Feel It Too](https://open.spotify.com/track/2orNXSkyIRgWWAVHRjjchs) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [Closure](https://open.spotify.com/album/2tQMlxXnIuH9bdnytpKZCz) | 4:53 | 2022-12-01 | 2023-05-19 |
 | [Feel This \(How Long Will I\)](https://open.spotify.com/track/6S7bSBiayEPAWNwCpARM9P) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Feel This \(How Long Will I\)](https://open.spotify.com/album/7tJGLUwFnzo9ibvwy0H3xt) | 2:50 | 2023-09-28 | 2023-10-13 |
 | [Feelings](https://open.spotify.com/track/25FYMUzUb4f7juGbmfG6El) | [JYYE](https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb) | [Feelings](https://open.spotify.com/album/5OiqeHLzyFUUMjnDzMkfue) | 3:00 | 2023-01-26 | 2023-04-29 |
@@ -164,6 +164,7 @@
 | [Take It Off](https://open.spotify.com/track/0OUGLr0XvMg1uynU1tn6pq) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Take It Off](https://open.spotify.com/album/3wH9kI7bgLquNTgIA6Ovto) | 3:14 | 2023-06-08 | 2023-07-06 |
 | [TAKE IT OFF](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [TAKE IT OFF](https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW) | 3:14 | 2023-06-29 | 2024-04-19 |
 | [The City](https://open.spotify.com/track/1GNU5GDMAP2xTlLa7qN18k) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [The City](https://open.spotify.com/album/0gsbIh3mdGUbtHZ0sXOlhO) | 3:02 | 2023-02-09 | 2023-03-10 |
+| [The Door \- CYRIL Remix](https://open.spotify.com/track/6VD3T09spn64tjPcBih64P) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Door \(CYRIL Remix\)](https://open.spotify.com/album/0lFoxDrwrNWwtfw1KohwAN) | 3:30 | 2024-07-29 |  |
 | [The Last Goodbye \- Hayden James Remix](https://open.spotify.com/track/78M9wiuBmRktLeDvgvsk3s) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(Hayden James Remix\)](https://open.spotify.com/album/6I8qUd7EE0xPGpY0H4jh5E) | 3:44 | 2023-01-13 | 2023-06-05 |
 | [The World](https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7) | [Abroad](https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft) | [A.M](https://open.spotify.com/album/6nRDtBGnumQybKr6X1BMEK) | 3:29 | 2024-02-01 |  |
 | [Thinking About You](https://open.spotify.com/track/1E7jE0EHy7FlU8uWi5hirD) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [The Friends You Made Along The Way](https://open.spotify.com/album/1Sw2RWBcBOFIpWabO8Ftin) | 3:22 | 2023-06-22 | 2023-07-14 |

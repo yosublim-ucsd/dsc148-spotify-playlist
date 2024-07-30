@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Tigirlily Gold, Post Malone with Luke Combs, Kacey Musgraves and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,572 likes - 93 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,714 likes - 93 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308 likes - 254 songs - 15 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 306 likes - 254 songs - 15 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 76 | [Under Your Skin](https://open.spotify.com/track/3RB4mMjf2Ln4fDv3ylSoWI) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Under Your Skin](https://open.spotify.com/album/7kTa3EZsisqUfH9SA37oKe) | 3:08 |
 | 77 | [Do Me](https://open.spotify.com/track/3wrFwkYDq5PgXNAFuHHhsT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:32 |
 | 78 | [Runnin'](https://open.spotify.com/track/0lgVoUJ2uVH9dwCFPJ3VI6) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Planet Vi](https://open.spotify.com/artist/4agw08n3c2hO48lNfaxJrt) | [Lace Up \(Deluxe\)](https://open.spotify.com/album/5NzdnPboXcqvuvyEH1wSEJ) | 2:47 |
-| 79 | [Get up on My Level](https://open.spotify.com/track/6WYLTRkDw5PZj9vzI6Vnjq) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [By Any Means](https://open.spotify.com/album/5ZzFFF7wSMmGaIWjAHElnW) | 4:15 |
-| 80 | [Music For Love](https://open.spotify.com/track/5gikplVdSoYfG0YKCRuicp) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Go](https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD) | 3:49 |
+| 79 | [Music For Love](https://open.spotify.com/track/5gikplVdSoYfG0YKCRuicp) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Go](https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD) | 3:49 |
+| 80 | [Get up on My Level](https://open.spotify.com/track/6WYLTRkDw5PZj9vzI6Vnjq) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [By Any Means](https://open.spotify.com/album/5ZzFFF7wSMmGaIWjAHElnW) | 4:15 |
 | 81 | [There Will Be Blood](https://open.spotify.com/track/75HFFq9W7Em0dTBG8QeGcT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 3:17 |
 | 82 | [La Familia](https://open.spotify.com/track/7gwDqZmkyNf5YCSXpxLWwd) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Islah \(Deluxe\)](https://open.spotify.com/album/5Hs43ta4vAYKRRRR7DKjt9) | 3:50 |
 | 83 | [I Been On \- Homecoming Live](https://open.spotify.com/track/76raxY6tmyR6mi9xcWCFk7) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [HOMECOMING: THE LIVE ALBUM](https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x) | 2:40 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 93 | [I Wanna Be](https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [I Wanna Be \- The 1st Album Repackage](https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH) | 3:13 |
 | 94 | [Lingerie](https://open.spotify.com/track/4tf0POzZuU6h0jpjRoYEdh) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 3:21 |
 | 95 | [Jump](https://open.spotify.com/track/7yEM9hYRsw9R3pJB5W0gxb) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [GLOWINTHEDARK](https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P) | [Jump](https://open.spotify.com/album/1y8yeYpcaqJB0DWN9KWUlb) | 3:34 |
-| 96 | [That's It \(feat\. Gucci Mane & 2 Chainz\)](https://open.spotify.com/track/2AQHxIuLPdPGrvTtgHFASi) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [That's It \(feat\. Gucci Mane & 2 Chainz\)](https://open.spotify.com/album/1TZIM1JxgnT70zR84YmM57) | 3:27 |
-| 97 | [Billy Crystal](https://open.spotify.com/track/5kteG7fLexn7VkwfEflFT1) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Rock City](https://open.spotify.com/artist/2aq1Srn4VzSQayH4mnyM6v) | [Trunk Muzik 0\-60](https://open.spotify.com/album/6Vg7HgTCyGdcRikqPGhPl4) | 3:59 |
+| 96 | [Billy Crystal](https://open.spotify.com/track/5kteG7fLexn7VkwfEflFT1) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Rock City](https://open.spotify.com/artist/2aq1Srn4VzSQayH4mnyM6v) | [Trunk Muzik 0\-60](https://open.spotify.com/album/6Vg7HgTCyGdcRikqPGhPl4) | 3:59 |
+| 97 | [That's It \(feat\. Gucci Mane & 2 Chainz\)](https://open.spotify.com/track/2AQHxIuLPdPGrvTtgHFASi) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [That's It \(feat\. Gucci Mane & 2 Chainz\)](https://open.spotify.com/album/1TZIM1JxgnT70zR84YmM57) | 3:27 |
 | 98 | [Shimmy \(with Doja Cat\)](https://open.spotify.com/track/2z4eJOcmzeopzffNpor4vt) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Funeral \(Deluxe\)](https://open.spotify.com/album/49zB39sak50ghwZMwHQqQ0) | 2:48 |
 | 99 | [Free Free Free](https://open.spotify.com/track/1hvZ3uUcaCZrcZQXWUBRse) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Theron Theron](https://open.spotify.com/artist/3NDd4Jte97ZCYqZBEQbs23) | [Free Free Free](https://open.spotify.com/album/2zriqRg67gFAr1HhhgGjmx) | 3:54 |
 | 100 | [Hello Stranger](https://open.spotify.com/track/3LjS1vGAprMNthdyue5XZD) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [KAI \- The 1st Mini Album](https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86) | 2:48 |
@@ -263,4 +263,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 253 | [Sunshine \(feat\. JRDN\)](https://open.spotify.com/track/3eWXjX7WDpyGA6btOQTZj2) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs) | [Kardi Gras Vol\. 1: The Clash](https://open.spotify.com/album/4ZyGxmDt2ugDMQsaBmSKi5) | 3:46 |
 | 254 | [Gugoo Game \(feat\. PIKO太郎\)](https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7) | [吳映潔 GEmma Wu](https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm) | [GX](https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO) | 2:08 |
 
-Snapshot ID: `AbX7rAAAAACreX/RomwmW9fEWIY1bdiy`
+Snapshot ID: `AbYBTAAAAADWLwkhWBY5M4CN+O7eiwK+`

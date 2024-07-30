@@ -4,7 +4,7 @@
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-83 songs - 5 hr 24 min
+84 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Lullaby](https://open.spotify.com/track/6cmdeeOEeyZG9YaJ1WRhnJ) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [A Day](https://open.spotify.com/album/23anuZwn9s0ezFWgmywqL9) | 3:19 | 2023-11-03 |  |
 | [Lullaby](https://open.spotify.com/track/0XpUIQVa2EhdLPoZE6FT4b) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:24 | 2024-03-08 |  |
 | [Mindless](https://open.spotify.com/track/7wKSQwBzevrfI4nsSNGnuM) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Mindless](https://open.spotify.com/album/0SliKclPFZxNqnmGIIqVIO) | 4:07 | 2023-11-03 | 2024-06-01 |
-| [Moon](https://open.spotify.com/track/3wQl1WeJe9dINbvvfexZhr) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [We need to meet now](https://open.spotify.com/album/6rQL9qDD47aKHZN392iww7) | 3:49 | 2023-11-03 |  |
+| [Moon](https://open.spotify.com/track/3wQl1WeJe9dINbvvfexZhr) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [We need to meet now](https://open.spotify.com/album/6rQL9qDD47aKHZN392iww7) | 3:49 | 2023-11-03 | 2024-07-30 |
 | [My \(Prod\. Norwegian Wood\)](https://open.spotify.com/track/6qIXTn914YMxHWvHNm14Nh) | [Baek Sun](https://open.spotify.com/artist/3OyQSzRpBjTj8LIkbkjU8O) | [My](https://open.spotify.com/album/6lxViYPgD2UjJ1nhgXz9kw) | 2:46 | 2024-03-08 |  |
 | [My Old Story](https://open.spotify.com/track/1H6gFy8Yfnm3JMAn4T398Y) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [My Old Story](https://open.spotify.com/album/3H47XNGJiq4cp119nhrqqL) | 3:56 | 2024-07-15 |  |
 | [Night you went away \(Korean Ver.\) \(Vocal\. Kim gyeol\)](https://open.spotify.com/track/23clB8BECFpgtKMCHtalKA) | [SUNGHWI](https://open.spotify.com/artist/7rlrjdWClWXnQ0flmhBMXR) | [Night you went away](https://open.spotify.com/album/7IyhdnLq6eepb1UlrC4ngp) | 3:38 | 2024-03-08 |  |
@@ -69,6 +69,7 @@
 | [Star](https://open.spotify.com/track/7GGTWjlLnoDIm9DMY9I9cI) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 3:20 | 2023-11-03 | 2024-05-03 |
 | [Stay](https://open.spotify.com/track/07DtMQtRiP5vEAFWzKq82g) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Simple](https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J) | 4:10 | 2023-11-03 |  |
 | [Storing Nights](https://open.spotify.com/track/6oPucs07MGXSIW9pZut2W9) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 3:59 | 2024-03-08 |  |
+| [Summer christmas](https://open.spotify.com/track/4g2OdIK8z0fKDQG3UOapi4) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [Summer Inn.](https://open.spotify.com/album/56dQ3wbqTPGuli9hJxhZy3) | 2:55 | 2024-07-15 |  |
 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 | 2023-11-03 |  |
 | [The Blue Night of Jeju Island](https://open.spotify.com/track/68OxmOeNzSDJnfB9QX6dzJ) | [Park Eunbin](https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP) | [Extraordinary Attorney Woo \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/37eokJCyqRxZfSuyMq1tEC) | 4:10 | 2023-11-03 |  |
 | [The Little](https://open.spotify.com/track/464Ymo9CA1fD7lzgUnoijt) | [Yeon seo](https://open.spotify.com/artist/0qSvXeaski5Xii16GeehVl) | [The Little](https://open.spotify.com/album/2Eg215da9ZVMDyMXIBAjaM) | 3:04 | 2024-03-08 |  |

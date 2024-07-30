@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-254 songs - 10 hr 44 min
+256 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Au Revoir](https://open.spotify.com/track/205qtb3ouMjfPrvxiqBG5v) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Au revoir](https://open.spotify.com/album/3cMpbmbHDRFojvimdEOIlV) | 1:44 | 2022-07-08 | 2023-08-26 |
 | [Ave Nocturne](https://open.spotify.com/track/4AyL8u1g3ruazEAlu1bllD) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Carousel](https://open.spotify.com/album/3eqF1XOrPSx3gXBhrc8YFV) | 3:24 | 2021-12-09 | 2024-04-05 |
 | [Benvenuto A Casa](https://open.spotify.com/track/0fnUE554KVoU50jWIVp83X) | [Ryze & Pea](https://open.spotify.com/artist/5hB3PiXau0Jw2qgtEABxXu) | [Benvenuto A Casa](https://open.spotify.com/album/0nnxk7Tf6MDZ42Z7UGGrSa) | 1:45 | 2023-01-20 | 2023-08-26 |
+| [Bilbo](https://open.spotify.com/track/6iDSCK18tX5CCloZyhE2KR) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Bilbo](https://open.spotify.com/album/6SB4qQhsTWvtYmlLceZS37) | 2:45 | 2024-07-29 |  |
 | [Blue Sky Within](https://open.spotify.com/track/3J0KOnk8DvN6eWvNbsqp2w) | [Ryan Judd](https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv) | [Blue Sky Within](https://open.spotify.com/album/7LqvVXIQHzAu5SrJsrDaWg) | 3:06 | 2022-08-19 | 2024-07-18 |
 | [Blush](https://open.spotify.com/track/02lN91c8sceWQBD7JVhYaz) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Blush](https://open.spotify.com/album/6Gcvlj6eQHvDSpU9nMM3M2) | 2:29 | 2023-04-28 |  |
 | [Boboli Gardens](https://open.spotify.com/track/6ol6xm2KcSn5Pr2biM7Ps0) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Boboli Gardens](https://open.spotify.com/album/1ZorAmdZHG1iTSsXHkWhFM) | 2:01 | 2023-04-28 |  |
@@ -127,7 +128,7 @@
 | [Les Yeux Noisette](https://open.spotify.com/track/7zHT43ArNRONxVmJ6Hxxio) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Les Yeux Noisette](https://open.spotify.com/album/4L3J11sHAt33LIzhGMyuCU) | 2:22 | 2022-11-25 |  |
 | [Like no other](https://open.spotify.com/track/4OPE3wPxaqWeUtz0BmBwpW) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Like no other](https://open.spotify.com/album/75k6x2e7p4fOqFTYtkJtQb) | 2:32 | 2023-02-24 |  |
 | [Liljekonvalj](https://open.spotify.com/track/5dUF6RzDRQwW9vrLs2xZUY) | [Astrid Everdahl](https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz) | [Liljekonvalj](https://open.spotify.com/album/2K8OrnJdDlArgiolPaAWnB) | 2:11 | 2021-12-09 | 2022-04-06 |
-| [Linens](https://open.spotify.com/track/0UwvM6Pn8jWh3cNWQunjt0) | [Tapperstand](https://open.spotify.com/artist/5qiy3uNvNQrZycAMo6dOgH) | [Shapes in the Sky](https://open.spotify.com/album/7sxQpqFUHwHhz9xnUmUKol) | 2:56 | 2021-12-09 |  |
+| [Linens](https://open.spotify.com/track/0UwvM6Pn8jWh3cNWQunjt0) | [Tapperstand](https://open.spotify.com/artist/5qiy3uNvNQrZycAMo6dOgH) | [Shapes in the Sky](https://open.spotify.com/album/7sxQpqFUHwHhz9xnUmUKol) | 2:56 | 2021-12-09 | 2024-07-30 |
 | [Lonely Prayer](https://open.spotify.com/track/0skz7fjP31epf0dBesxbI7) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Lonely Prayer](https://open.spotify.com/album/0dz5PGLVD6QEdPtYWJShbq) | 2:47 | 2021-12-09 | 2022-06-10 |
 | [Lonely River](https://open.spotify.com/track/482Y0xLWcjYHFo7BcJw0Dm) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Lonely River](https://open.spotify.com/album/7iSbrpojZ6Vs1fPP82TBT0) | 2:32 | 2021-12-09 | 2024-04-20 |
 | [Long Walking Back Home](https://open.spotify.com/track/3rlhZSPaSjM9Xf3R8iInwG) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Long Walking Back Home](https://open.spotify.com/album/2uEL6m8Pq3u7m3HirU4NxX) | 3:08 | 2022-02-22 | 2024-04-05 |
@@ -159,6 +160,7 @@
 | [Night Route](https://open.spotify.com/track/5v2bNil9KFJXcwsBAup9lf) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [Night Route](https://open.spotify.com/album/5ExiMJ4mQ24kmLN1Gl9WHJ) | 2:21 | 2022-10-07 |  |
 | [Nightingale](https://open.spotify.com/track/5enfE01ai1X5i6k7M7fP23) | [Ryan Judd](https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv) | [Nightingale](https://open.spotify.com/album/6zGVO3G11IATXpCNoe5EkD) | 3:14 | 2022-06-17 | 2023-06-15 |
 | [Ninna Nanna](https://open.spotify.com/track/0X8rmh6dy3ihea34AS4Rzg) | [Benvenuto Terzi](https://open.spotify.com/artist/11clFa5g42IhNMUfqrxi6J), [Antonio D'Alessandro](https://open.spotify.com/artist/6asVCY3psUdoSCrdGB4vON) | [Ninna Nanna](https://open.spotify.com/album/37Vx9gzUIWcVBMMPZXDT6o) | 1:50 | 2022-09-16 | 2023-08-26 |
+| [No disturbance](https://open.spotify.com/track/3sZpRPHFGskVTQeU6PtguM) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [No disturbance](https://open.spotify.com/album/417rnJQjqx5kFTpXMoa9vx) | 2:17 | 2024-07-29 |  |
 | [Northern](https://open.spotify.com/track/5orWjiWXDD8C4a0hBmhNDC) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 2:51 | 2021-12-09 | 2022-09-17 |
 | [Nylon Lullaby](https://open.spotify.com/track/6l6E9EUXTzNXj71BgxD8WV) | [Ava Olivia Bailey](https://open.spotify.com/artist/1NjdPXI16F7zIDzhZBxk79) | [Nylon Lullaby](https://open.spotify.com/album/1M4By8kZZNGw3KTsN0FHJq) | 2:16 | 2021-12-09 |  |
 | [Ode Au Chagrin](https://open.spotify.com/track/6AQ6EficiiIlDgIutcH60i) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Ode Au Chagrin](https://open.spotify.com/album/7d8e1ke0qGHlRqTLa7PAYN) | 2:11 | 2021-12-09 |  |
@@ -223,7 +225,7 @@
 | [The Distance Between Us](https://open.spotify.com/track/10rJjLMJjQKlp13S3nKGn4) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [The Distance Between Us](https://open.spotify.com/album/3oaWXUwuoQoPAU5FzQC589) | 2:11 | 2023-01-06 |  |
 | [The Dust Settles](https://open.spotify.com/track/0EVXNRFGjdC9xap72VhV7C) | [Andrei Smirnova](https://open.spotify.com/artist/6wLqG3xZFWS0M5pFimbbyr) | [The Dust Settles](https://open.spotify.com/album/06u42yAuNFUuzO2CLrJWCh) | 2:27 | 2023-04-28 | 2023-12-15 |
 | [The Mural](https://open.spotify.com/track/5M9bPsknT89l9tVjCh8kSI) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Mural](https://open.spotify.com/album/0oCHjXHrYiPoVLjHYnum88) | 2:08 | 2024-06-07 |  |
-| [The Night Becomes You](https://open.spotify.com/track/68ydkLTVa26AVu91mwGXYE) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [The Night Becomes You](https://open.spotify.com/album/6zL2qydauP0PTEYCGlNAme) | 2:56 | 2022-10-07 |  |
+| [The Night Becomes You](https://open.spotify.com/track/68ydkLTVa26AVu91mwGXYE) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [The Night Becomes You](https://open.spotify.com/album/6zL2qydauP0PTEYCGlNAme) | 2:56 | 2022-10-07 | 2024-07-30 |
 | [The Space Between Us](https://open.spotify.com/track/7ltsUby2slylSm4sourcaO) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [The Space Between Us](https://open.spotify.com/album/1lN1xuGaayIqMdbh2EpuVN) | 2:11 | 2024-05-03 |  |
 | [The Sun Terrace](https://open.spotify.com/track/03DifiRgvdRwUsGhcuCtAG) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [The Sun Terrace](https://open.spotify.com/album/0nxokw3k5JfIzilT83AeN3) | 2:21 | 2022-09-23 |  |
 | [The Visitor](https://open.spotify.com/track/10pWsW6PgcElqhHBIRPoea) | [Henry Windon](https://open.spotify.com/artist/6DQOxNdaDC3E2vfbUjpTNH) | [The Visitor](https://open.spotify.com/album/5OMtHhYzhag9BwO9YZ0tRs) | 2:07 | 2022-06-17 |  |
@@ -255,7 +257,7 @@
 | [Walz for Marion](https://open.spotify.com/track/4TU6HO0q8qHMkItZwP9pom) | [Ruben Wagner](https://open.spotify.com/artist/5nlrY0oxCjsGrwJECLQEMq) | [Walz for Marion](https://open.spotify.com/album/4ZIpalRJnVdcSzMOUwz299) | 3:13 | 2021-12-09 | 2022-04-06 |
 | [When It Rains](https://open.spotify.com/track/0z5y5lpBfxrZsDnvMOZOVy) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [When It Rains](https://open.spotify.com/album/4g9kfD7eRLcAwH60x94ygo) | 2:28 | 2023-01-20 | 2023-04-29 |
 | [When You Came Along](https://open.spotify.com/track/5ZXGt5CWPJZow2IMyVjGMn) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [When You Came Along](https://open.spotify.com/album/5pJ21xOidRFlu3EPbuiKEJ) | 2:06 | 2023-04-28 |  |
-| [Where I'm From](https://open.spotify.com/track/4TzxVjpZprvyvOhZUXFizs) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Keep A Secret](https://open.spotify.com/album/4OhHkRhQyMXykmpn8D6PBi) | 3:36 | 2021-12-09 |  |
+| [Where I'm From](https://open.spotify.com/track/4TzxVjpZprvyvOhZUXFizs) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Keep A Secret](https://open.spotify.com/album/4OhHkRhQyMXykmpn8D6PBi) | 3:36 | 2021-12-09 | 2024-07-30 |
 | [Why Me](https://open.spotify.com/track/5ea1LyyvBGWH3Hp0f61Pwt) | [Mats Bergström](https://open.spotify.com/artist/1cK2dUALEJSsEGK3WUgruU) | [Why Me](https://open.spotify.com/album/2W2K8SjkzULAvFF93OBN5U) | 2:46 | 2021-12-09 | 2023-09-29 |
 | [Wild at Heart](https://open.spotify.com/track/42sRbwPRxauCwwtNTc9baV) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Wild at Heart](https://open.spotify.com/album/5k6E0BDsXsVt5E9Qm2qDAB) | 2:35 | 2024-04-05 |  |
 | [Wind Smells the Sea](https://open.spotify.com/track/2REjYFKoTnUcmQ5mlycefg) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Wind Smells the Sea](https://open.spotify.com/album/6ycA17KnDVAjaN0VeXo2AJ) | 2:27 | 2024-07-18 |  |

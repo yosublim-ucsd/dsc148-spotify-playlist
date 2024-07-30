@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 65197,
+  "num_followers": 65204,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAAC8hJoeW1b8pZpKwk60rZwb",
+  "snapshot_id": "ZqWKAAAAAABg1TAl34cN6VCbXUs7/EWe",
   "tracks": [
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 171000,
-      "name": "The Water Is Wide - Live",
-      "url": "https://open.spotify.com/track/4IolXJ5kKsiDcF58BzHULu"
+      "duration_ms": 149000,
+      "name": "Last Night I Had The Strangest Dream",
+      "url": "https://open.spotify.com/track/5aLno9zzsZyQI0bEIYOwk1"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 149000,
-      "name": "Last Night I Had The Strangest Dream",
-      "url": "https://open.spotify.com/track/5aLno9zzsZyQI0bEIYOwk1"
+      "duration_ms": 171000,
+      "name": "The Water Is Wide - Live",
+      "url": "https://open.spotify.com/track/4IolXJ5kKsiDcF58BzHULu"
     },
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Farewell, Angelina",
-        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
+        "name": "From Every Stage",
+        "url": "https://open.spotify.com/album/2e5Zu2l6AT2VXTyPtREEkd"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 139240,
-      "name": "Daddy, You Been On My Mind",
-      "url": "https://open.spotify.com/track/1M20O2xfTLnrLtURrbZsAM"
+      "duration_ms": 219533,
+      "name": "Forever Young - Live On Tour / 1975",
+      "url": "https://open.spotify.com/track/5y6ZSk8B59M17VLCeSjdOy"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Every Stage",
-        "url": "https://open.spotify.com/album/2e5Zu2l6AT2VXTyPtREEkd"
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 219533,
-      "name": "Forever Young - Live On Tour / 1975",
-      "url": "https://open.spotify.com/track/5y6ZSk8B59M17VLCeSjdOy"
+      "duration_ms": 139240,
+      "name": "Daddy, You Been On My Mind",
+      "url": "https://open.spotify.com/track/1M20O2xfTLnrLtURrbZsAM"
     },
     {
       "added_at": null,

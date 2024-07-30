@@ -4,7 +4,7 @@
 
 > Everyone deserves a happy ending\. Listen to the music from the Deadpool series, including Deadpool & Wolverine, now playing in theaters.
 
-64 songs - 3 hr 17 min
+65 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Glamorous](https://open.spotify.com/track/1V8AZk8VG8qksb9mKgxTuR) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The Dutchess \(Deluxe\)](https://open.spotify.com/album/0g336nNDHGyTBZ0SJozURt) | 4:06 | 2024-07-17 |  |
 | [Going Commando](https://open.spotify.com/track/0cLcXcRsaYKyvDfoASYVbM) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Deadpool \(Original Soundtrack Album\)](https://open.spotify.com/album/6VYJa5gmoecpJavlgh0BHH) | 3:45 | 2024-05-20 |  |
 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 | 2024-07-17 |  |
+| [Hideout](https://open.spotify.com/track/2LKHHfglc5hGRsgXk6nDxy) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [Deadpool & Wolverine \(Original Score\)](https://open.spotify.com/album/2GdlXrmMB8sjkVytMyPHLj) | 1:51 | 2024-07-29 |  |
 | [I Called Some Friends](https://open.spotify.com/track/5Fizp17ouHXtAKDF3RrwHL) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [Deadpool & Wolverine \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/7tTd4gjNDz51x9jXHdP73D) | 1:01 | 2024-07-26 |  |
 | [I Love This Part](https://open.spotify.com/track/2gCfqpErDBhsUw21iQPJal) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [Deadpool & Wolverine \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/7tTd4gjNDz51x9jXHdP73D) | 2:12 | 2024-07-26 |  |
 | [I'll Be Seeing You](https://open.spotify.com/track/0mtbzu1k9ZFuR2hBpzshIP) | [Jimmy Durante](https://open.spotify.com/artist/5FNHfTn3yzVpqdUyWwej0v) | [Jimmy' Durante's Way Of Life](https://open.spotify.com/album/0kG2hzYNEZktAgA9v6Al7T) | 3:12 | 2024-07-17 |  |

@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSaMQIHweTw.md) - [plain]
 
 ### [Bambai Bantai](https://open.spotify.com/playlist/37i9dQZF1DXbSaMQIHweTw)
 
-> Rapping into your hearts from the alleys of Mumbai\. Cover\- Yashraj
+> Rapping into your hearts from the alleys of Mumbai\. Cover\- Nazz
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,785 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,793 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [GABBAR](https://open.spotify.com/track/1onRB8Y9I8coG52cFeq5oD) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [PUNA](https://open.spotify.com/artist/6xxZ5ygLggYl3EXuzDezvo) | [MERI JAAN PEHLE NAACH](https://open.spotify.com/album/0EjqvUumscGjg4Y12yalkV) | 4:01 |
+| 1 | [Bambaiyya](https://open.spotify.com/track/2P9K6C6D38v6RnVihnHnVK) | [Nazz](https://open.spotify.com/artist/7iEUKVcv42PUcIS696yadB) | [Bambaiyya](https://open.spotify.com/album/5RgbalAqEptsXQKgvwZ2X8) | 2:15 |
 | 2 | [Title Kya Doon?](https://open.spotify.com/track/7CAAWyMGx2vo4HGDQpgw80) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Title Kya Doon?](https://open.spotify.com/album/7pInKnDPeSiG094c81DKpB) | 3:53 |
-| 3 | [OUTSHINE](https://open.spotify.com/track/0GDE8CWUrcWFdBQOQIaXyX) | [ENB](https://open.spotify.com/artist/3BNONZhD09KybiJwvGeusS), [DEETOCX](https://open.spotify.com/artist/47NZwnzAbq5fRaObML4tn3), [GRAPHENE](https://open.spotify.com/artist/18ITpHVOX6hzWFPirv9bns) | [OUTSHINE](https://open.spotify.com/album/3qVz0TtZf28XIM6cGfRET0) | 2:27 |
-| 4 | [Independent](https://open.spotify.com/track/60xwE3pt6nzNed0COrDhgE) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Independent](https://open.spotify.com/album/1UNGlQZLUxbLzqwEOZ4lge) | 3:40 |
-| 5 | [Daae / Baae](https://open.spotify.com/track/37ZFkN5esLp0gSmidfIS2T) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N) | [MERI JAAN PEHLE NAACH](https://open.spotify.com/album/0EjqvUumscGjg4Y12yalkV) | 3:56 |
+| 3 | [Chalis](https://open.spotify.com/track/3Y2QAPM1Vsw7yKKnVMsxhD) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Chalis](https://open.spotify.com/album/5Mp4zVYRkIbJ4AZyXB27Nw) | 3:04 |
+| 4 | [God Bless You](https://open.spotify.com/track/2Q6ajrXPICNctahJ9jeiYn) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [God Bless You](https://open.spotify.com/album/3ZDNJuCmV1mlUf3Z5dLvJ2) | 2:36 |
+| 5 | [Independent](https://open.spotify.com/track/60xwE3pt6nzNed0COrDhgE) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Independent](https://open.spotify.com/album/1UNGlQZLUxbLzqwEOZ4lge) | 3:40 |
 | 6 | [One Hai Re Bhai](https://open.spotify.com/track/1o2kWv5NnrWGSjTRs1IImp) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [One Hai Re Bhai](https://open.spotify.com/album/6UqzC1ush92ewbmebs94KA) | 2:15 |
 | 7 | [Roshni](https://open.spotify.com/track/2lJn0R9LM9ttaSOtBMwB64) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2), [Vernon Tauro](https://open.spotify.com/artist/34o46ubfKWo2VtkVzZJ5Yx) | [Roshni](https://open.spotify.com/album/7FH9OhjduEaO1ZYKlAsp7T) | 2:22 |
 | 8 | [THE END](https://open.spotify.com/track/3DNaRfmcyNpV2iVnL5OeKZ) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [sPEAK](https://open.spotify.com/album/3quAHA3o8HZARSckuVJLoo) | 2:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSaMQIHweTw.md) - [plain]
 | 49 | [Emiway\-Samajh Mein Aaya Kya?](https://open.spotify.com/track/7n8xH63Whw5spavIWScPIh) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Emiway\-Samajh Mein Aaya Kya?](https://open.spotify.com/album/3cXkzvtDOyah8H8CYtvYcN) | 4:34 |
 | 50 | [Kaam 25 \- Sacred Games](https://open.spotify.com/track/6Kynli1iHBqJRWUCohcV9h) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Kaam 25 \(Sacred Games\)](https://open.spotify.com/album/22kgtYXKwgjccIu3kxC75m) | 2:29 |
 
-Snapshot ID: `ZpoYXgAAAAABb2fcVmQnLUdnoa0xmczj`
+Snapshot ID: `ZqdT8QAAAAAx7r2BuDMEK3o31cfvYPRG`

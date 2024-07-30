@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2EwG4p1ArpU.md) - [plain]
 
 > ネット発の新たな才能として注目を集めるシンガーソングライター、Eveの楽曲を1つのプレイリストに。Essential tracks from Japanese singer\-songwriter, Eve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,946 likes - 66 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,978 likes - 66 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2EwG4p1ArpU.md) - [plain]
 | 65 | [宵の明星](https://open.spotify.com/track/2oKtqN2HbY3aLiwuM9v5TA) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻廻奇譚 / 蒼のワルツ](https://open.spotify.com/album/5AXzkXGoyKh4KU8paELFVu) | 4:16 |
 | 66 | [mellow](https://open.spotify.com/track/2qVUo129GDsiA2TTJfU2Ff) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Smile](https://open.spotify.com/album/1bDIYo22A8sSV0ySqc4pcS) | 4:46 |
 
-Snapshot ID: `ZooiHQAAAAAh2h9Zp2vm+/fiC6CjIEj5`
+Snapshot ID: `ZqcD9AAAAAD20PjOWZyWAktY/y05JnXL`

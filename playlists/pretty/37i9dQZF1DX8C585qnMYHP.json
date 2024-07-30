@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Cavolo Nero on cover. Artwork by Thami Nabil",
-  "num_followers": 167958,
+  "num_followers": 168022,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -689,6 +689,22 @@
       "url": "https://open.spotify.com/track/77RiM667a2Vx3s0wYo9oE4"
     },
     {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
+        "name": "The Garden Dream",
+        "url": "https://open.spotify.com/album/6ZaWKnLc8g4KDily8uOC9R"
+      },
+      "artists": [
+        {
+          "name": "gglum",
+          "url": "https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO"
+        }
+      ],
+      "duration_ms": 169226,
+      "name": "Easy Fun",
+      "url": "https://open.spotify.com/track/0rOkbQTwFnCsPqMeTWrLnB"
+    },
+    {
       "added_at": "2024-07-03 04:00:00",
       "album": {
         "name": "maybe",
@@ -707,22 +723,6 @@
       "duration_ms": 228680,
       "name": "maybe",
       "url": "https://open.spotify.com/track/3hIMV2XkL0ugoYYcKxOgUE"
-    },
-    {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
-        "name": "The Garden Dream",
-        "url": "https://open.spotify.com/album/6ZaWKnLc8g4KDily8uOC9R"
-      },
-      "artists": [
-        {
-          "name": "gglum",
-          "url": "https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "Easy Fun",
-      "url": "https://open.spotify.com/track/0rOkbQTwFnCsPqMeTWrLnB"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -877,20 +877,20 @@
       "url": "https://open.spotify.com/track/7FgCK2VgY5G2axORySMNx7"
     },
     {
-      "added_at": "2024-06-19 06:00:00",
+      "added_at": "2024-04-03 15:21:45",
       "album": {
-        "name": "As You Sleep By My Feet",
-        "url": "https://open.spotify.com/album/3UkGxj2Q3zAK4DkZMX9f2N"
+        "name": "Are You There God? It\u2019s Me, @",
+        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
       },
       "artists": [
         {
-          "name": "Jonnine",
-          "url": "https://open.spotify.com/artist/6s8JAb4h3UjN5r3BgRhUhQ"
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
         }
       ],
-      "duration_ms": 225528,
-      "name": "As You Sleep By My Feet",
-      "url": "https://open.spotify.com/track/4zbHGbSafBOqXBlgjxnIz2"
+      "duration_ms": 194200,
+      "name": "Processional",
+      "url": "https://open.spotify.com/track/4M8Wki6etujAJFSRau8OWC"
     },
     {
       "added_at": "2024-06-19 06:00:00",
@@ -909,52 +909,20 @@
       "url": "https://open.spotify.com/track/4rduEWVCutOFwxrX4oghxU"
     },
     {
-      "added_at": "2024-04-03 15:21:45",
-      "album": {
-        "name": "Are You There God? It\u2019s Me, @",
-        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
-      },
-      "artists": [
-        {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "Processional",
-      "url": "https://open.spotify.com/track/4M8Wki6etujAJFSRau8OWC"
-    },
-    {
-      "added_at": "2024-07-03 04:00:00",
-      "album": {
-        "name": "\u30e6\u30e1\u30df\u30eb\u30d2\u30c4\u30b8",
-        "url": "https://open.spotify.com/album/3cGwdEbtBNlY9dcKRDLg4Z"
-      },
-      "artists": [
-        {
-          "name": "\u6b66\u7530\u7406\u6c99",
-          "url": "https://open.spotify.com/artist/6bxmnPmX3y00HkdYaJA697"
-        }
-      ],
-      "duration_ms": 257609,
-      "name": "\u30e6\u30e1\u30df\u30eb\u30d2\u30c4\u30b8",
-      "url": "https://open.spotify.com/track/5ueWV2nmLAatdvgOUUuPFu"
-    },
-    {
       "added_at": "2024-06-19 06:00:00",
       "album": {
-        "name": "Hailu",
-        "url": "https://open.spotify.com/album/1VOzlKc0RL1MFMcPv94yO6"
+        "name": "As You Sleep By My Feet",
+        "url": "https://open.spotify.com/album/3UkGxj2Q3zAK4DkZMX9f2N"
       },
       "artists": [
         {
-          "name": "COLA REN",
-          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
+          "name": "Jonnine",
+          "url": "https://open.spotify.com/artist/6s8JAb4h3UjN5r3BgRhUhQ"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Baraka",
-      "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
+      "duration_ms": 225528,
+      "name": "As You Sleep By My Feet",
+      "url": "https://open.spotify.com/track/4zbHGbSafBOqXBlgjxnIz2"
     },
     {
       "added_at": "2024-04-17 04:00:00",
@@ -975,18 +943,34 @@
     {
       "added_at": "2024-06-19 06:00:00",
       "album": {
-        "name": "Snake EP",
-        "url": "https://open.spotify.com/album/4vIVSXatC6xk6XHyxVFbEM"
+        "name": "Hailu",
+        "url": "https://open.spotify.com/album/1VOzlKc0RL1MFMcPv94yO6"
       },
       "artists": [
         {
-          "name": "Nikki Nair",
-          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+          "name": "COLA REN",
+          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
         }
       ],
-      "duration_ms": 260500,
-      "name": "333333",
-      "url": "https://open.spotify.com/track/2ojrTSSrh4MZR7wG7iyZVK"
+      "duration_ms": 155000,
+      "name": "Baraka",
+      "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
+    },
+    {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
+        "name": "\u30e6\u30e1\u30df\u30eb\u30d2\u30c4\u30b8",
+        "url": "https://open.spotify.com/album/3cGwdEbtBNlY9dcKRDLg4Z"
+      },
+      "artists": [
+        {
+          "name": "\u6b66\u7530\u7406\u6c99",
+          "url": "https://open.spotify.com/artist/6bxmnPmX3y00HkdYaJA697"
+        }
+      ],
+      "duration_ms": 257609,
+      "name": "\u30e6\u30e1\u30df\u30eb\u30d2\u30c4\u30b8",
+      "url": "https://open.spotify.com/track/5ueWV2nmLAatdvgOUUuPFu"
     },
     {
       "added_at": "2024-05-08 03:43:46",
@@ -1021,20 +1005,36 @@
       "url": "https://open.spotify.com/track/7EMUufH1L5NBPj1OoPSIg5"
     },
     {
-      "added_at": "2024-05-29 02:04:24",
+      "added_at": "2024-04-03 15:21:45",
       "album": {
-        "name": "\u6279 PIE",
-        "url": "https://open.spotify.com/album/2rq9nx7EFXvsGQaRBp8vxz"
+        "name": "Are You There God? It\u2019s Me, @",
+        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
       },
       "artists": [
         {
-          "name": "nnscya",
-          "url": "https://open.spotify.com/artist/1vnPgyInQLiCKgpq4Cf6Ff"
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
         }
       ],
-      "duration_ms": 177249,
-      "name": "pie \u6279",
-      "url": "https://open.spotify.com/track/6y73duDBzv8EjPnXotDTAK"
+      "duration_ms": 211320,
+      "name": "Webcrawler",
+      "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
+    },
+    {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Snake EP",
+        "url": "https://open.spotify.com/album/4vIVSXatC6xk6XHyxVFbEM"
+      },
+      "artists": [
+        {
+          "name": "Nikki Nair",
+          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+        }
+      ],
+      "duration_ms": 260500,
+      "name": "333333",
+      "url": "https://open.spotify.com/track/2ojrTSSrh4MZR7wG7iyZVK"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1053,6 +1053,22 @@
       "url": "https://open.spotify.com/track/6PpJalnvzcDyktxXalhaU4"
     },
     {
+      "added_at": "2024-05-29 02:04:24",
+      "album": {
+        "name": "\u6279 PIE",
+        "url": "https://open.spotify.com/album/2rq9nx7EFXvsGQaRBp8vxz"
+      },
+      "artists": [
+        {
+          "name": "nnscya",
+          "url": "https://open.spotify.com/artist/1vnPgyInQLiCKgpq4Cf6Ff"
+        }
+      ],
+      "duration_ms": 177249,
+      "name": "pie \u6279",
+      "url": "https://open.spotify.com/track/6y73duDBzv8EjPnXotDTAK"
+    },
+    {
       "added_at": "2024-07-03 04:00:00",
       "album": {
         "name": "Leviathan",
@@ -1067,22 +1083,6 @@
       "duration_ms": 214922,
       "name": "Rhododendron pt. IV",
       "url": "https://open.spotify.com/track/4FZvU6IrDEk1BIt0ziDbES"
-    },
-    {
-      "added_at": "2024-04-03 15:21:45",
-      "album": {
-        "name": "Are You There God? It\u2019s Me, @",
-        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
-      },
-      "artists": [
-        {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
-        }
-      ],
-      "duration_ms": 211320,
-      "name": "Webcrawler",
-      "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
     },
     {
       "added_at": "2024-04-24 04:00:00",
@@ -1233,20 +1233,20 @@
       "url": "https://open.spotify.com/track/1oUOHThOffguKFRhWcNeSV"
     },
     {
-      "added_at": "2024-05-08 03:43:46",
+      "added_at": "2024-03-13 03:47:45",
       "album": {
-        "name": "Moriah Plaza",
-        "url": "https://open.spotify.com/album/5QmjvkaaMPG3RH2hTETGwK"
+        "name": "Kalma Meli Melo",
+        "url": "https://open.spotify.com/album/4U3bpg7JAD4k6hnORaIDRq"
       },
       "artists": [
         {
-          "name": "Moriah Plaza",
-          "url": "https://open.spotify.com/artist/31ejpyhWMC2NZrhE3gTFQK"
+          "name": "Ariel Kalma",
+          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
         }
       ],
-      "duration_ms": 149626,
-      "name": "Desendere\u00e7ada",
-      "url": "https://open.spotify.com/track/5YB4GUHEoX2rMwseiRpdkG"
+      "duration_ms": 1202372,
+      "name": "Breathing Flute 88",
+      "url": "https://open.spotify.com/track/2Y0qwp0ZwO9bTLjFLrddQp"
     },
     {
       "added_at": "2024-03-20 13:59:17",
@@ -1265,20 +1265,20 @@
       "url": "https://open.spotify.com/track/4mknLyEc2cUmxYTQbpwlYl"
     },
     {
-      "added_at": "2024-03-13 03:47:45",
+      "added_at": "2024-05-08 03:43:46",
       "album": {
-        "name": "Kalma Meli Melo",
-        "url": "https://open.spotify.com/album/4U3bpg7JAD4k6hnORaIDRq"
+        "name": "Moriah Plaza",
+        "url": "https://open.spotify.com/album/5QmjvkaaMPG3RH2hTETGwK"
       },
       "artists": [
         {
-          "name": "Ariel Kalma",
-          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
+          "name": "Moriah Plaza",
+          "url": "https://open.spotify.com/artist/31ejpyhWMC2NZrhE3gTFQK"
         }
       ],
-      "duration_ms": 1202372,
-      "name": "Breathing Flute 88",
-      "url": "https://open.spotify.com/track/2Y0qwp0ZwO9bTLjFLrddQp"
+      "duration_ms": 149626,
+      "name": "Desendere\u00e7ada",
+      "url": "https://open.spotify.com/track/5YB4GUHEoX2rMwseiRpdkG"
     },
     {
       "added_at": "2024-05-29 02:04:24",
@@ -1329,22 +1329,6 @@
       "url": "https://open.spotify.com/track/4R6iLmupfyrt4PrvaxMifX"
     },
     {
-      "added_at": "2024-04-03 15:21:45",
-      "album": {
-        "name": "House Below the Forest Floor",
-        "url": "https://open.spotify.com/album/3fVQxGGPEkzWNvKwwcs5L2"
-      },
-      "artists": [
-        {
-          "name": "DJ Counselling",
-          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
-        }
-      ],
-      "duration_ms": 188975,
-      "name": "House Below the Forest Floor",
-      "url": "https://open.spotify.com/track/2xo8YQCTyfYAQOLdeVioK5"
-    },
-    {
       "added_at": "2024-03-13 03:47:45",
       "album": {
         "name": "Sleepless",
@@ -1359,6 +1343,22 @@
       "duration_ms": 781460,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/29OG197vwFviugdT0mxW3L"
+    },
+    {
+      "added_at": "2024-04-03 15:21:45",
+      "album": {
+        "name": "House Below the Forest Floor",
+        "url": "https://open.spotify.com/album/3fVQxGGPEkzWNvKwwcs5L2"
+      },
+      "artists": [
+        {
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+        }
+      ],
+      "duration_ms": 188975,
+      "name": "House Below the Forest Floor",
+      "url": "https://open.spotify.com/track/2xo8YQCTyfYAQOLdeVioK5"
     },
     {
       "added_at": "2024-05-29 02:04:24",
@@ -1497,6 +1497,22 @@
       "url": "https://open.spotify.com/track/3RwZGa13Iv5Wk1XYnQ90ya"
     },
     {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Break Bandits",
+        "url": "https://open.spotify.com/album/6enkyO7QGXRjQF86rEACcw"
+      },
+      "artists": [
+        {
+          "name": "Sunareht",
+          "url": "https://open.spotify.com/artist/4E2w3DKsTpmnbxLApe9p5O"
+        }
+      ],
+      "duration_ms": 252108,
+      "name": "Break Bandits",
+      "url": "https://open.spotify.com/track/6Xmm7xYQZBdI1gIVZGIYnq"
+    },
+    {
       "added_at": "2024-04-03 15:21:45",
       "album": {
         "name": "zen jam",
@@ -1515,22 +1531,6 @@
       "duration_ms": 100869,
       "name": "zen jam",
       "url": "https://open.spotify.com/track/53enCvgjbPueMfdhw5wrzt"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Break Bandits",
-        "url": "https://open.spotify.com/album/6enkyO7QGXRjQF86rEACcw"
-      },
-      "artists": [
-        {
-          "name": "Sunareht",
-          "url": "https://open.spotify.com/artist/4E2w3DKsTpmnbxLApe9p5O"
-        }
-      ],
-      "duration_ms": 252108,
-      "name": "Break Bandits",
-      "url": "https://open.spotify.com/track/6Xmm7xYQZBdI1gIVZGIYnq"
     },
     {
       "added_at": "2024-06-19 06:00:00",

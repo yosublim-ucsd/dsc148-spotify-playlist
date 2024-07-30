@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn7C+gAAAACgR2m/3SLvTRXu60NhyUiy",
+  "snapshot_id": "Zqd8awAAAAD0aIElpdW4whco1blwXGYA",
   "tracks": [
     {
       "added_at": "2024-06-28 14:04:42",
@@ -173,20 +173,24 @@
       "url": "https://open.spotify.com/track/0BRiFaYDS7IbM2YO0DFvrP"
     },
     {
-      "added_at": "2024-06-28 14:04:42",
+      "added_at": "2024-07-29 11:26:35",
       "album": {
-        "name": "Motorcycle",
-        "url": "https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g"
+        "name": "Innerst Inne",
+        "url": "https://open.spotify.com/album/4mHCK5SAkgmrcUY6RTYQbU"
       },
       "artists": [
         {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        },
+        {
+          "name": "Elias Abbas",
+          "url": "https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6"
         }
       ],
-      "duration_ms": 166741,
-      "name": "Motorcycle",
-      "url": "https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs"
+      "duration_ms": 155300,
+      "name": "Innerst Inne",
+      "url": "https://open.spotify.com/track/3NiibjPSAaQgCaEw62HTgl"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -207,18 +211,18 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Underbart",
-        "url": "https://open.spotify.com/album/6WoazjKrlteUKghj03CYDl"
+        "name": "Motorcycle",
+        "url": "https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g"
       },
       "artists": [
         {
-          "name": "Newkid",
-          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 154625,
-      "name": "Underbart",
-      "url": "https://open.spotify.com/track/4Mc0gNriyRRS1GpenqF2TL"
+      "duration_ms": 166741,
+      "name": "Motorcycle",
+      "url": "https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -251,6 +255,22 @@
       "duration_ms": 138213,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Underbart",
+        "url": "https://open.spotify.com/album/6WoazjKrlteUKghj03CYDl"
+      },
+      "artists": [
+        {
+          "name": "Newkid",
+          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
+        }
+      ],
+      "duration_ms": 154625,
+      "name": "Underbart",
+      "url": "https://open.spotify.com/track/4Mc0gNriyRRS1GpenqF2TL"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -351,22 +371,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Maskinen \u00e4r tillbaka",
-        "url": "https://open.spotify.com/album/77XVwKfKdyawzhtiiU3ljm"
-      },
-      "artists": [
-        {
-          "name": "Maskinen",
-          "url": "https://open.spotify.com/artist/6nDcZd5c9z3OS5hWvCsWBf"
-        }
-      ],
-      "duration_ms": 139836,
-      "name": "Maskinen \u00e4r tillbaka",
-      "url": "https://open.spotify.com/track/2qvgrcWLxkvdZCXJVzh7Yw"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Kyss mig snabbt i otakt",
         "url": "https://open.spotify.com/album/3wWRgEXZBrD7PfejLHElrd"
       },
@@ -379,6 +383,22 @@
       "duration_ms": 235172,
       "name": "Pretty girl",
       "url": "https://open.spotify.com/track/0codJQJF4W3cTeaTntsqGp"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Maskinen \u00e4r tillbaka",
+        "url": "https://open.spotify.com/album/77XVwKfKdyawzhtiiU3ljm"
+      },
+      "artists": [
+        {
+          "name": "Maskinen",
+          "url": "https://open.spotify.com/artist/6nDcZd5c9z3OS5hWvCsWBf"
+        }
+      ],
+      "duration_ms": 139836,
+      "name": "Maskinen \u00e4r tillbaka",
+      "url": "https://open.spotify.com/track/2qvgrcWLxkvdZCXJVzh7Yw"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -699,22 +719,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "I'll Come Your Way",
-        "url": "https://open.spotify.com/album/2Ck1pJHLkPj5uZxstCJEO9"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "I'll Come Your Way",
-      "url": "https://open.spotify.com/track/3lk15upGEldLkgKm7f48QS"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Above Love",
         "url": "https://open.spotify.com/album/25vMXIp2LP75SlECzIAqMj"
       },
@@ -727,6 +731,22 @@
       "duration_ms": 162133,
       "name": "Above Love",
       "url": "https://open.spotify.com/track/7pBylm1bDkNrlBzCvUoLD4"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "I'll Come Your Way",
+        "url": "https://open.spotify.com/album/2Ck1pJHLkPj5uZxstCJEO9"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "I'll Come Your Way",
+      "url": "https://open.spotify.com/track/3lk15upGEldLkgKm7f48QS"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -975,22 +995,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Babymoma",
-        "url": "https://open.spotify.com/album/4nqeoUwXIwq0mGuUUa4oxv"
-      },
-      "artists": [
-        {
-          "name": "Felix Sandman",
-          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Babymoma",
-      "url": "https://open.spotify.com/track/6G2mLd5ZXnqlOyqSbTl6FP"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Imagine Paradise",
         "url": "https://open.spotify.com/album/58vBq0ClQQ9mvouhUoBw2b"
       },
@@ -1003,6 +1007,22 @@
       "duration_ms": 237655,
       "name": "Imagine Paradise",
       "url": "https://open.spotify.com/track/0TXoLkIqtEqb9mPv3ReBEX"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Babymoma",
+        "url": "https://open.spotify.com/album/4nqeoUwXIwq0mGuUUa4oxv"
+      },
+      "artists": [
+        {
+          "name": "Felix Sandman",
+          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Babymoma",
+      "url": "https://open.spotify.com/track/6G2mLd5ZXnqlOyqSbTl6FP"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1023,22 +1043,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Borderline Iconic",
-        "url": "https://open.spotify.com/album/6csDiDKWnoejngfWD7gvhK"
-      },
-      "artists": [
-        {
-          "name": "Linn Koch-Emmery",
-          "url": "https://open.spotify.com/artist/1VXNcQgSnqCXw4kWGeKNFu"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "Borderline Iconic",
-      "url": "https://open.spotify.com/track/67Po00mBd0gRq7Z4lZ30CG"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Kontakt",
         "url": "https://open.spotify.com/album/1gFh0wZIlYt6R3AeBnDOqL"
       },
@@ -1051,6 +1055,22 @@
       "duration_ms": 164725,
       "name": "Kontakt",
       "url": "https://open.spotify.com/track/0JNzY6AqndqZS9I3q2iHYg"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Borderline Iconic",
+        "url": "https://open.spotify.com/album/6csDiDKWnoejngfWD7gvhK"
+      },
+      "artists": [
+        {
+          "name": "Linn Koch-Emmery",
+          "url": "https://open.spotify.com/artist/1VXNcQgSnqCXw4kWGeKNFu"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "Borderline Iconic",
+      "url": "https://open.spotify.com/track/67Po00mBd0gRq7Z4lZ30CG"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1155,22 +1175,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Slutscen",
-        "url": "https://open.spotify.com/album/69hclcYXfpNiRiqSwj7UHJ"
-      },
-      "artists": [
-        {
-          "name": "Galleriet",
-          "url": "https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7"
-        }
-      ],
-      "duration_ms": 187142,
-      "name": "Tillbaka till Stockholm",
-      "url": "https://open.spotify.com/track/31M2PcGLJvTvqwdP7WZmAM"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Right Here",
         "url": "https://open.spotify.com/album/4VLIa6SNzRP3NZeA0ZhtlV"
       },
@@ -1183,6 +1187,22 @@
       "duration_ms": 223676,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/0a0A8jVA0TfQkv9zCGbsP6"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Slutscen",
+        "url": "https://open.spotify.com/album/69hclcYXfpNiRiqSwj7UHJ"
+      },
+      "artists": [
+        {
+          "name": "Galleriet",
+          "url": "https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7"
+        }
+      ],
+      "duration_ms": 187142,
+      "name": "Tillbaka till Stockholm",
+      "url": "https://open.spotify.com/track/31M2PcGLJvTvqwdP7WZmAM"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1219,18 +1239,18 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "C-60",
-        "url": "https://open.spotify.com/album/7Jk6ZUYXFZDkmA6lMqITer"
+        "name": "Born a Riot",
+        "url": "https://open.spotify.com/album/5brdqGmI6uyXYnvANurSZc"
       },
       "artists": [
         {
-          "name": "Markus Kruneg\u00e5rd",
-          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
+          "name": "DAKOO",
+          "url": "https://open.spotify.com/artist/72343jDquF52drRGQa3xZV"
         }
       ],
-      "duration_ms": 3600000,
-      "name": "C-60",
-      "url": "https://open.spotify.com/track/2vUYH6wKQAGjGbTCz53ojI"
+      "duration_ms": 159764,
+      "name": "Born a Riot",
+      "url": "https://open.spotify.com/track/6bdTCyQozk9a7mBfNHzSYb"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1247,6 +1267,38 @@
       "duration_ms": 199626,
       "name": "Blomma i city",
       "url": "https://open.spotify.com/track/1kjhnKWwhrUFNxuOpzxy2S"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "C-60",
+        "url": "https://open.spotify.com/album/7Jk6ZUYXFZDkmA6lMqITer"
+      },
+      "artists": [
+        {
+          "name": "Markus Kruneg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
+        }
+      ],
+      "duration_ms": 3600000,
+      "name": "C-60",
+      "url": "https://open.spotify.com/track/2vUYH6wKQAGjGbTCz53ojI"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Snow In The Summer",
+        "url": "https://open.spotify.com/album/46fIzNsQu0ZOjVXrH4rto9"
+      },
+      "artists": [
+        {
+          "name": "Vilhelm Buchaus",
+          "url": "https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl"
+        }
+      ],
+      "duration_ms": 169333,
+      "name": "Snow In The Summer",
+      "url": "https://open.spotify.com/track/2u8jdrBjDG3VM7YbhTAJPo"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1271,22 +1323,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Snow In The Summer",
-        "url": "https://open.spotify.com/album/46fIzNsQu0ZOjVXrH4rto9"
-      },
-      "artists": [
-        {
-          "name": "Vilhelm Buchaus",
-          "url": "https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl"
-        }
-      ],
-      "duration_ms": 169333,
-      "name": "Snow In The Summer",
-      "url": "https://open.spotify.com/track/2u8jdrBjDG3VM7YbhTAJPo"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Ord som l\u00e4mnats kvar",
         "url": "https://open.spotify.com/album/5dMkrrRuILXMuoQ0C43Gji"
       },
@@ -1299,22 +1335,6 @@
       "duration_ms": 395240,
       "name": "Ord som l\u00e4mnats kvar",
       "url": "https://open.spotify.com/track/7GSxiR9jtTGz7DLrXxRoUI"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/5fpqWfinoaiwFuw9XpIczL"
-      },
-      "artists": [
-        {
-          "name": "SI EVOL",
-          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/4QMovHbMTImVWqbkwVriSg"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1355,34 +1375,18 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Born a Riot",
-        "url": "https://open.spotify.com/album/5brdqGmI6uyXYnvANurSZc"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5fpqWfinoaiwFuw9XpIczL"
       },
       "artists": [
         {
-          "name": "DAKOO",
-          "url": "https://open.spotify.com/artist/72343jDquF52drRGQa3xZV"
+          "name": "SI EVOL",
+          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
         }
       ],
-      "duration_ms": 159764,
-      "name": "Born a Riot",
-      "url": "https://open.spotify.com/track/6bdTCyQozk9a7mBfNHzSYb"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
-        "name": "GALAXER",
-        "url": "https://open.spotify.com/album/2gsf8X6S3JdlUeYzIAJDZI"
-      },
-      "artists": [
-        {
-          "name": "IRMELI",
-          "url": "https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv"
-        }
-      ],
-      "duration_ms": 189546,
-      "name": "GALAXER",
-      "url": "https://open.spotify.com/track/3j0U59EWvIZQ35Kaomvysz"
+      "duration_ms": 149333,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4QMovHbMTImVWqbkwVriSg"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1399,6 +1403,22 @@
       "duration_ms": 152068,
       "name": "Diabla",
       "url": "https://open.spotify.com/track/2q4wXd7mYsZeCtDwQInAjJ"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "GALAXER",
+        "url": "https://open.spotify.com/album/2gsf8X6S3JdlUeYzIAJDZI"
+      },
+      "artists": [
+        {
+          "name": "IRMELI",
+          "url": "https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv"
+        }
+      ],
+      "duration_ms": 189546,
+      "name": "GALAXER",
+      "url": "https://open.spotify.com/track/3j0U59EWvIZQ35Kaomvysz"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1579,6 +1599,22 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
+        "name": "Leave Me Alone",
+        "url": "https://open.spotify.com/album/5w543mJbAupEInVlJC8V6V"
+      },
+      "artists": [
+        {
+          "name": "Lucky Lou",
+          "url": "https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/5asaMzNMI7NVR4QUMWjicy"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
         "name": "Friend",
         "url": "https://open.spotify.com/album/1OAgP1uxTC1rSI9bYUKFIx"
       },
@@ -1607,22 +1643,6 @@
       "duration_ms": 193421,
       "name": "ENERGI",
       "url": "https://open.spotify.com/track/0N5khQ2R2C9r6zUWj5Rgwl"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
-        "name": "Leave Me Alone",
-        "url": "https://open.spotify.com/album/5w543mJbAupEInVlJC8V6V"
-      },
-      "artists": [
-        {
-          "name": "Lucky Lou",
-          "url": "https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/5asaMzNMI7NVR4QUMWjicy"
     },
     {
       "added_at": "2024-06-28 14:04:42",

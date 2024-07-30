@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-2,545 songs - 5 day 12 hr 31 min
+2,546 songs - 5 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,7 +317,7 @@
 | [Beyoncé 2](https://open.spotify.com/track/48yfdCj8t8WuoITwpSXRcQ) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Stef](https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF) | [EVDC DELUXE](https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4) | 3:08 | 2023-08-22 | 2023-08-24 |
 | [BIBI Vengeance](https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Lowlife Princess: Noir](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 2:45 | 2022-12-13 | 2022-12-28 |
 | [Big Boys](https://open.spotify.com/track/1b5y9c6KdLcLWzKX1dCFhU) | [cshsznxo!](https://open.spotify.com/artist/4ZSPh3z0AyE5XKFQqEH2YU) | [Big Boys](https://open.spotify.com/album/3fnpQVhNFfwH5BJyO1SZMl) | 2:58 | 2023-01-11 | 2023-01-22 |
-| [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-04 |  |
+| [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-04 | 2024-07-30 |
 | [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 | 2023-06-13 | 2023-06-26 |
 | [Black Lança \(Catucando Gostosinho\)](https://open.spotify.com/track/3qmdfYpfvKRIXmWaLllHZ3) | [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1), [Dj Serpinha](https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr) | [Black Lança \(Catucando Gostosinho\)](https://open.spotify.com/album/4BfAomaFboGTCcztPkCYLv) | 2:33 | 2022-01-18 | 2022-03-17 |
 | [Black Lança \(Catucando Gostosinho\) \- Ao Vivo](https://open.spotify.com/track/7sUvcwwxQM1PFQI4hngOS0) | [Breno Ferreira](https://open.spotify.com/artist/1ZPs71pxgkYzB0NHHdqaBk), [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1) | [Black Lança \(Catucando Gostosinho\)](https://open.spotify.com/album/28pn6X07DiyPkrenU9Fx3X) | 3:05 | 2022-03-08 | 2022-03-16 |
@@ -376,6 +376,7 @@
 | [Bucoração](https://open.spotify.com/track/7jrI4QqqC8UIOgzeUkkYnr) | [Rudies Flacko](https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o) | [Bucoração](https://open.spotify.com/album/6rVOAh9pRP7MdbOKKS8eiB) | 1:59 | 2022-06-19 | 2022-07-14 |
 | [BURN](https://open.spotify.com/track/04CyMEHliadfQWMUJb1w99) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 1:51 | 2024-02-27 | 2024-03-01 |
 | [Business](https://open.spotify.com/track/3B4MxQOkvwS5Cx3G4Csn03) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Gu$Z](https://open.spotify.com/artist/0NTTVLWsZy8PsDeT2JD1vv), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Essa é a Vida de um Corredor](https://open.spotify.com/album/7bBlOZxxwCMSMpFngmSIPO) | 2:12 | 2023-03-07 | 2023-03-27 |
+| [Bye Bye Bye \- From Deadpool and Wolverine Soundtrack](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 | 2024-07-29 |  |
 | [Bécane](https://open.spotify.com/track/424utU9OlUcB7j2LRU9l6f) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [ELOWI](https://open.spotify.com/album/49TUnWv5swURA9osAyLHI2) | 3:03 | 2024-01-12 | 2024-01-22 |
 | [Bécane \- A COLORS SHOW](https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane \- A COLORS SHOW](https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB) | 3:02 | 2023-12-18 | 2024-02-11 |
 | [Bêbada Favorita](https://open.spotify.com/track/2Kuf7IkhGSFLHVRNojyxV2) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:24 | 2024-05-31 | 2024-06-17 |

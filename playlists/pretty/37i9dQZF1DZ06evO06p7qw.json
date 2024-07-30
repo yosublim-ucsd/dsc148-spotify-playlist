@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 153899,
+  "num_followers": 154013,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAAAgk2gEWHs7GN75x856n0A8",
+  "snapshot_id": "ZqWKAAAAAABc4grOHrHIC58+BDcfwcz0",
   "tracks": [
     {
       "added_at": null,
@@ -339,18 +339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buena",
-        "url": "https://open.spotify.com/album/5qX4MWfoFf18oBL95wfkqN"
+        "name": "Cielo (feat. Nile Rodgers)",
+        "url": "https://open.spotify.com/album/7FZJlzMohMoU65vac6hydK"
       },
       "artists": [
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         }
       ],
-      "duration_ms": 218013,
-      "name": "Buena",
-      "url": "https://open.spotify.com/track/2UDMeklpmOfq8L6wI75ysa"
+      "duration_ms": 183422,
+      "name": "Cielo (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/5qH4I7qIkrhxir8UfLG0IY"
     },
     {
       "added_at": null,
@@ -391,22 +395,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cielo (feat. Nile Rodgers)",
-        "url": "https://open.spotify.com/album/7FZJlzMohMoU65vac6hydK"
+        "name": "Buena",
+        "url": "https://open.spotify.com/album/5qX4MWfoFf18oBL95wfkqN"
       },
       "artists": [
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         }
       ],
-      "duration_ms": 183422,
-      "name": "Cielo (feat. Nile Rodgers)",
-      "url": "https://open.spotify.com/track/5qH4I7qIkrhxir8UfLG0IY"
+      "duration_ms": 218013,
+      "name": "Buena",
+      "url": "https://open.spotify.com/track/2UDMeklpmOfq8L6wI75ysa"
     },
     {
       "added_at": null,

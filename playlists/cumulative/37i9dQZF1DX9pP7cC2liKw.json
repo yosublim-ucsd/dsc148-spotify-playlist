@@ -4010,7 +4010,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 149647,
       "name": "Morena",
       "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
@@ -4036,6 +4036,24 @@
       "duration_ms": 336000,
       "name": "Move On",
       "url": "https://open.spotify.com/track/26Prfvk9o5cwyLMCl5zQMS"
+    },
+    {
+      "album": {
+        "name": "Live at KEXP!",
+        "url": "https://open.spotify.com/album/0xDJ4TpSMjLVXtl9VrpF69"
+      },
+      "artists": [
+        {
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300480,
+      "name": "Move on Up - Live",
+      "url": "https://open.spotify.com/track/4ejYPzCYRkyb11nNxWWaIn"
     },
     {
       "album": {
@@ -4470,7 +4488,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 170329,
       "name": "Pacifico Soy",
       "url": "https://open.spotify.com/track/3HU8CSLqd7d6XSHOfWggmK"
@@ -7046,6 +7064,24 @@
       "duration_ms": 270698,
       "name": "Yale",
       "url": "https://open.spotify.com/track/00VHqKIeXGsZjoVLzanwlx"
+    },
+    {
+      "album": {
+        "name": "Yellow Laces - Another Life",
+        "url": "https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4"
+      },
+      "artists": [
+        {
+          "name": "Travelers All Stars",
+          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197645,
+      "name": "Yellow Laces",
+      "url": "https://open.spotify.com/track/2nKsFoAxQRjQz5zEvM7Hhz"
     },
     {
       "album": {

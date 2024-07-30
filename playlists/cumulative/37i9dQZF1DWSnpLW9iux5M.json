@@ -42,7 +42,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 261665,
       "name": "After The Storm",
       "url": "https://open.spotify.com/track/3C5eYTXWmOaT2KIHOdkv12"
@@ -78,7 +78,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 201475,
       "name": "All About Christ",
       "url": "https://open.spotify.com/track/4ALHLGk4L3iJ1FsaHbnQWu"
@@ -234,7 +234,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 232720,
       "name": "Christmas Ain't Christmas (Without The One You Love)",
       "url": "https://open.spotify.com/track/7mzQgvrYsw1U1dGYUgCTHH"
@@ -292,7 +292,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 239999,
       "name": "Christmas Pick Me Up",
       "url": "https://open.spotify.com/track/0QN8SGs82YIuYsz2wOAH9N"
@@ -666,7 +666,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 258372,
       "name": "Go Tell It On The Mountain",
       "url": "https://open.spotify.com/track/3jWnra0rKnLwSf0jN67i84"
@@ -982,7 +982,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 298320,
       "name": "Holy, Holy, Holy",
       "url": "https://open.spotify.com/track/3GiK89ZgpCTYgefDuHLP0Y"
@@ -1333,7 +1333,7 @@
       "artists": [
         {
           "name": "The Collective",
-          "url": "https://open.spotify.com/artist/1MxfqwWO3lgJpvQuTxVTna"
+          "url": "https://open.spotify.com/artist/56erFkbUm1ofjPhm4Klw8R"
         },
         {
           "name": "Nakitta Foxx",
@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 281493,
       "name": "Jesus, Oh What A Wonderful Child",
       "url": "https://open.spotify.com/track/7MF4wDB1bvI0QpOwIrAIuO"
@@ -1462,6 +1462,28 @@
       "duration_ms": 220941,
       "name": "Joy To The World / Joyful, Joyful",
       "url": "https://open.spotify.com/track/64AQwAGYH1DhgeopzyJGMB"
+    },
+    {
+      "album": {
+        "name": "Away In A Manger",
+        "url": "https://open.spotify.com/album/4ZENQNgVwl7qkgHIhmDOk6"
+      },
+      "artists": [
+        {
+          "name": "The McCrary Sisters",
+          "url": "https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq"
+        },
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210746,
+      "name": "Joyful, Joyful",
+      "url": "https://open.spotify.com/track/1lu6ScmSxrsI0J2FzjohGw"
     },
     {
       "album": {
@@ -1622,7 +1644,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-04",
+      "date_removed": null,
       "duration_ms": 180684,
       "name": "Mary Did You Know",
       "url": "https://open.spotify.com/track/2ROTDFwYPHaf1xlEWVVOta"
@@ -1662,7 +1684,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-19",
+      "date_removed": null,
       "duration_ms": 322426,
       "name": "Mary's Song",
       "url": "https://open.spotify.com/track/1YVPVe19tyyZkVdbH2W0Fk"
@@ -1798,7 +1820,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 242200,
       "name": "No Christmas Without You",
       "url": "https://open.spotify.com/track/2OVd9bw697vfuskRx65JQi"
@@ -2376,7 +2398,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 158700,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/6JPIOL1YBQxaorbxA9MyN6"
@@ -2804,7 +2826,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-19",
+      "date_removed": null,
       "duration_ms": 228160,
       "name": "You Are Our Joy Christmas",
       "url": "https://open.spotify.com/track/1ubujbBg5S9NvxNtmJzOBB"

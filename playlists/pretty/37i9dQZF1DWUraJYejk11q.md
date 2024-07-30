@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,316 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,332 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CHROMA 004 ROLA](https://open.spotify.com/track/3YTLL48dJGvXU7NrtiXDFQ) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 004](https://open.spotify.com/album/7cUJWzpsqr0derOqCfJxol) | 4:49 |
 | 2 | [Purple Horizon](https://open.spotify.com/track/2W3QmPhnMnjUqgYBdG7HsT) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 3:41 |
 | 3 | [Wendorlan \- Original Mix](https://open.spotify.com/track/60pUN8FYqcux6VuOO9vmhF) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Dostrotime](https://open.spotify.com/album/7q2TYQUhAg9mzIjybDBpGI) | 6:19 |
-| 4 | [Honey](https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb) | 4:22 |
-| 5 | [CHROMA 003 Bi83](https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6) | [DOVE](https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 003](https://open.spotify.com/album/635sAhOGiqkb11OZDCTRyk) | 3:56 |
+| 4 | [CHROMA 003 Bi83](https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6) | [DOVE](https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 003](https://open.spotify.com/album/635sAhOGiqkb11OZDCTRyk) | 3:56 |
+| 5 | [Honey](https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb) | 4:22 |
 | 6 | [Daydream Repeat](https://open.spotify.com/track/3jBAlJcUMJKwRgTuGiLFGX) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 6:08 |
 | 7 | [Data Passenger](https://open.spotify.com/track/2L52S4jeIP7AHrb24v0cZv) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Data Passenger EP](https://open.spotify.com/album/3K4cvowbf3loJkuPneBRia) | 5:07 |
 | 8 | [H0N3Y](https://open.spotify.com/track/6TJd0gtqzG3KYVtYtGuaUV) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | [3FOR82](https://open.spotify.com/album/5bOzaa9qvH7q8rEl3fg5nE) | 3:05 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 20 | [l'empelt](https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4) | [drames rurals](https://open.spotify.com/artist/4Fc8hhmKcYdCVdByPDBLPG), [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD), [juns](https://open.spotify.com/artist/2VnW9TLWqKhenhIz5fyAlF), [oma totem](https://open.spotify.com/artist/1rGwnZdib4PzGaxYuXJBhb), [Meritxell Bonastre](https://open.spotify.com/artist/0QCq80HQCr8SQr40QCe7Gp) | [drames rurals](https://open.spotify.com/album/3yC35q63Eg6ctGi3CXFUDD) | 4:43 |
 | 21 | [Exotic Contents](https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Exotic Contents / Pulse at the Centre of Being](https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a) | 5:46 |
 | 22 | [Planta Dance](https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Planta Dance](https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv) | 3:06 |
-| 23 | [The Precision Of Infinity](https://open.spotify.com/track/3nG6mPXI1FXtdtXfNQGdPD) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA), [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [The Precision of Infinity](https://open.spotify.com/album/0hHU32niIoAZ5zu8IceapV) | 4:40 |
-| 24 | [Virtual Forrest](https://open.spotify.com/track/6PpJalnvzcDyktxXalhaU4) | [Unblinded Society](https://open.spotify.com/artist/67ChYxCfp5Wz2CEazh7Xcp) | [Us, In Between The Blinded](https://open.spotify.com/album/7ELe8nQQmrAL484iZPrOGT) | 2:37 |
+| 23 | [Virtual Forrest](https://open.spotify.com/track/6PpJalnvzcDyktxXalhaU4) | [Unblinded Society](https://open.spotify.com/artist/67ChYxCfp5Wz2CEazh7Xcp) | [Us, In Between The Blinded](https://open.spotify.com/album/7ELe8nQQmrAL484iZPrOGT) | 2:37 |
+| 24 | [The Precision Of Infinity](https://open.spotify.com/track/3nG6mPXI1FXtdtXfNQGdPD) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA), [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [The Precision of Infinity](https://open.spotify.com/album/0hHU32niIoAZ5zu8IceapV) | 4:40 |
 | 25 | [Trusted](https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi) | [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Trusted EP](https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9) | 3:14 |
 | 26 | [Zan](https://open.spotify.com/track/1JVboyYVrqt0BBTqoUwvyn) | [Max Graef](https://open.spotify.com/artist/4AflEeXdD0VohMzZvOGo55) | [Zan](https://open.spotify.com/album/2eyvj3p4GzodK91J7lPwub) | 4:45 |
 | 27 | [Pigeon Barron](https://open.spotify.com/track/26z2GUYW7mlJAeAWcy4vlA) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Baby, We're Ascending](https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN) | 6:39 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 46 | [Fwd: Re: late \(Ref.: karoshi\)](https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [Fwd: Re: late \(Ref.: karoshi\)](https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s) | 6:01 |
 | 47 | [Flooding Meadow](https://open.spotify.com/track/4p8K4d12HW1fzQv3EkDWFh) | [Doc Sleep](https://open.spotify.com/artist/5o1pKpYbHcqZanSu2DCrJI) | [Flooding Meadow](https://open.spotify.com/album/53VcxaUbWyXPn47Wzl89bn) | 4:50 |
 | 48 | [Bliss](https://open.spotify.com/track/5brVyVzaMQT3Qtrsc0nvBx) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [More Truth](https://open.spotify.com/album/47KjErxlfKd7C4KO7Xhtg4) | 3:20 |
-| 49 | [Transactional Relationship](https://open.spotify.com/track/17YSGfgY3BizhPL8QDF1gg) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [Transactional Relationship](https://open.spotify.com/album/0007jLfYrERL4X1mpSgLGK) | 3:13 |
-| 50 | [Bermondsey Bender](https://open.spotify.com/track/2GOjnXqV31xkDYPSQrvLkT) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Beautiful World](https://open.spotify.com/album/5ICYSl5q37F1hmLGKnslpC) | 4:03 |
+| 49 | [Surrounded By Neighbours](https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [GRIT.](https://open.spotify.com/album/5WDvciEo1xl8XeTV04C5DB) | 5:31 |
+| 50 | [Transactional Relationship](https://open.spotify.com/track/17YSGfgY3BizhPL8QDF1gg) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [Transactional Relationship](https://open.spotify.com/album/0007jLfYrERL4X1mpSgLGK) | 3:13 |
 
 Snapshot ID: `ZozhJgAAAAB4eKGrQEmWVwwA8Ruuw8C5`

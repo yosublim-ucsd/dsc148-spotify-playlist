@@ -2,7 +2,7 @@
 
 ### [This Is Banda MS de Sergio Lizárraga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1v3IU8)
 
-> This Is Banda MS de Sergio Lizárraga\. Los temas esenciales, todos en una lista.
+> This is Banda MS de Sergio Lizárraga\. The essential tracks, all in one playlist.
 
 68 songs - 3 hr 42 min
 

@@ -2122,7 +2122,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 207347,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
@@ -7104,7 +7104,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 115348,
       "name": "FUNKED UP - SLOWED",
       "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
@@ -15890,7 +15890,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 120026,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
@@ -24530,6 +24530,24 @@
       "duration_ms": 210857,
       "name": "\u0639\u0637\u0646\u064a \u0627\u0644\u0631\u064a\u0634\u0629",
       "url": "https://open.spotify.com/track/1aiOMYjoI2JGinP7tAdrXh"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0645 \u0627\u0644\u0645\u062c\u0627\u0644",
+        "url": "https://open.spotify.com/album/5D3OSz8QKq8CkNkPaTh3rE"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Leithy",
+          "url": "https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220434,
+      "name": "\u0639\u0645 \u0627\u0644\u0645\u062c\u0627\u0644",
+      "url": "https://open.spotify.com/track/3MzJ2M9PzfCtaGMHAirjIM"
     },
     {
       "album": {

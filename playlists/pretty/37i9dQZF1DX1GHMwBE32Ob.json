@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Seyi Vibez",
-  "num_followers": 60127,
+  "num_followers": 60277,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -227,18 +227,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
+        "name": "Instagram",
+        "url": "https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S"
       },
       "artists": [
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        },
         {
           "name": "Seyi Vibez",
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 123333,
-      "name": "Different Pattern",
-      "url": "https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l"
+      "duration_ms": 140606,
+      "name": "Instagram",
+      "url": "https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -259,22 +263,18 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Instagram",
-        "url": "https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S"
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
       },
       "artists": [
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        },
         {
           "name": "Seyi Vibez",
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 140606,
-      "name": "Instagram",
-      "url": "https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS"
+      "duration_ms": 123333,
+      "name": "Different Pattern",
+      "url": "https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -351,22 +351,18 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "WhatsApp",
-        "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
+        "name": "Giddem",
+        "url": "https://open.spotify.com/album/6gcDQQWUvBBKFAwrJrIRGH"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
         }
       ],
-      "duration_ms": 134237,
-      "name": "WhatsApp",
-      "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
+      "duration_ms": 178000,
+      "name": "Giddem",
+      "url": "https://open.spotify.com/track/4g52MWu8RhJYIkM9NdLvUN"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -387,18 +383,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Giddem",
-        "url": "https://open.spotify.com/album/6gcDQQWUvBBKFAwrJrIRGH"
+        "name": "WhatsApp",
+        "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
       },
       "artists": [
         {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Giddem",
-      "url": "https://open.spotify.com/track/4g52MWu8RhJYIkM9NdLvUN"
+      "duration_ms": 134237,
+      "name": "WhatsApp",
+      "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Cana",
-      "url": "https://open.spotify.com/track/652eb66Jp9rLJ3erEwaCio"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Tony Montana",
         "url": "https://open.spotify.com/album/2AInHQaDznimTKHL0m3M0h"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 207454,
       "name": "Tony Montana",
       "url": "https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Cana",
+      "url": "https://open.spotify.com/track/652eb66Jp9rLJ3erEwaCio"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Loner",
-        "url": "https://open.spotify.com/album/3HYQbRL63e1oc98lBQu7gH"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/4VG9WzSYRAsHIVgkZXRX1C"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Ogo",
         "url": "https://open.spotify.com/album/2QCJ5G7FLUpo1nGvjWYC22"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 177000,
       "name": "Ogo",
       "url": "https://open.spotify.com/track/1zM2WWrMOt5Jt2jR39cBDp"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/3HYQbRL63e1oc98lBQu7gH"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/4VG9WzSYRAsHIVgkZXRX1C"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "Ghetto Vibrations",
+        "url": "https://open.spotify.com/album/0HA5iaDr9GyFPnzDEVs1ch"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        }
+      ],
+      "duration_ms": 150622,
+      "name": "Born Fi Dis",
+      "url": "https://open.spotify.com/track/4jL2U9V8qa4aQH4IHQ6hTv"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "Dis Kain Luv",
         "url": "https://open.spotify.com/album/42kZLEMm7IxL1CjW88NGg1"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 152565,
       "name": "Dis Kain Luv",
       "url": "https://open.spotify.com/track/6vpC9vAX6UsuxTAlclCFDd"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Ghetto Vibrations",
-        "url": "https://open.spotify.com/album/0HA5iaDr9GyFPnzDEVs1ch"
-      },
-      "artists": [
-        {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        }
-      ],
-      "duration_ms": 150622,
-      "name": "Born Fi Dis",
-      "url": "https://open.spotify.com/track/4jL2U9V8qa4aQH4IHQ6hTv"
     },
     {
       "added_at": "2024-07-26 00:01:00",

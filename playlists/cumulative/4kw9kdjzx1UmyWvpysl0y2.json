@@ -5409,6 +5409,28 @@
     },
     {
       "album": {
+        "name": "Ghost in the Shadows",
+        "url": "https://open.spotify.com/album/6cEeqaX97sbKSaoxafEkQ4"
+      },
+      "artists": [
+        {
+          "name": "ROY KNOX",
+          "url": "https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3"
+        },
+        {
+          "name": "Derpcat",
+          "url": "https://open.spotify.com/artist/3o8xPY8Zencrdc3RtvVaQM"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227600,
+      "name": "Ghost in the Shadows",
+      "url": "https://open.spotify.com/track/12WC62EwZGMhDLi8fEF85j"
+    },
+    {
+      "album": {
         "name": "Give It All",
         "url": "https://open.spotify.com/album/2cZgwrm6dvq74qSQeIfqoc"
       },

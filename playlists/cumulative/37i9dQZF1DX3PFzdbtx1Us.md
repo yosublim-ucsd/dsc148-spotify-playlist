@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-347 songs - 13 hr 47 min
+348 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Keszthely](https://open.spotify.com/track/0GxXg9FfNq1yqwqrrY6W1F) | [Pataki Gisella](https://open.spotify.com/artist/7ylwShecuuRLzZP81XRqzC) | [Keszthely](https://open.spotify.com/album/4pL64wCXuXYe318Z4mZolF) | 2:32 | 2023-05-15 |  |
 | [Kungsholmen](https://open.spotify.com/track/4C3azLvXWbIhtyxfgkAByq) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Staden](https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3) | 1:44 | 2023-05-15 | 2023-08-16 |
 | [Kyle \(Northern Line\)](https://open.spotify.com/track/2rHefyfbrhfXVaquedNvnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life Piano EP \(April 14 \- December 17 2020\)](https://open.spotify.com/album/77cR5kSztr2fcYtr0vsyes) | 2:44 | 2021-06-27 | 2023-05-16 |
+| [L'or du temps](https://open.spotify.com/track/4GLHnYC81ZvMcQuChl19gk) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [L'or du temps](https://open.spotify.com/album/6Tab6Rsk2duWXaPseT2GHp) | 2:18 | 2024-07-29 |  |
 | [La Luna de Sangre](https://open.spotify.com/track/0hJj0MC6Vej33ZexcY2jCg) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [La Luna de Sangre](https://open.spotify.com/album/7hOEvWbLsmJENthSUfXJch) | 2:19 | 2024-01-09 |  |
 | [La Luz De La Primavera](https://open.spotify.com/track/2ommqT5NELWdMHjcKN5tTG) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [La Luz De La Primavera](https://open.spotify.com/album/4qdsR63xjUXgBeFwDkPTIc) | 2:08 | 2023-05-15 |  |
 | [lachlan](https://open.spotify.com/track/3244j0tITFKsVbSrc0fUya) | [Valla](https://open.spotify.com/artist/1nrQ489GYy77LqrmBOmtfh) | [lachlan](https://open.spotify.com/album/4upy9Hil2WVSEwu8eYEVWB) | 2:00 | 2023-05-15 |  |

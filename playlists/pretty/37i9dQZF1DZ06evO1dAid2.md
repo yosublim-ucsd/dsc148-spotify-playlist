@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 
 ### [This Is Chuck Berry](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1dAid2)
 
-> This is Chuck Berry\. The essential tracks, all in one playlist.
+> This Is Chuck Berry\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,694 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,695 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 | 44 | [Go Bobby Soxer](https://open.spotify.com/track/4thIUA9RxwUcsjiUVo33Lt) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:58 |
 | 45 | [Down The Road Apiece](https://open.spotify.com/track/40CEDufMDlElkfyBvWUtsE) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rockin' At The Hops](https://open.spotify.com/album/48jzxU4WCz6726keexOGoe) | 2:10 |
 | 46 | [It Hurts Me Too \- Live](https://open.spotify.com/track/3k0nHXQLlpb9qyXdUKiIaL) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR), [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Welcome To The Vault](https://open.spotify.com/album/7i36DC6cqbbOTH9S2XktgN) | 4:50 |
-| 47 | [St\. Louis Blues](https://open.spotify.com/track/0tsgFZdGoCVMeaXVmnrWbF) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry In London](https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW) | 2:37 |
-| 48 | [You Can't Catch Me](https://open.spotify.com/track/7N0JjLQsEClnTFrl6EgWXj) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [CHUCK BERRY INTEGRAL 1955 \- 1962](https://open.spotify.com/album/43qi03EaHt7m1qEogvhCQ0) | 2:42 |
+| 47 | [You Can't Catch Me](https://open.spotify.com/track/7N0JjLQsEClnTFrl6EgWXj) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [CHUCK BERRY INTEGRAL 1955 \- 1962](https://open.spotify.com/album/43qi03EaHt7m1qEogvhCQ0) | 2:42 |
+| 48 | [St\. Louis Blues](https://open.spotify.com/track/0tsgFZdGoCVMeaXVmnrWbF) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry In London](https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW) | 2:37 |
 | 49 | [Have Mercy Judge](https://open.spotify.com/track/3uGQF4XUYwF386cnx84Zjg) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Back Home](https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY) | 2:41 |
 | 50 | [San Francisco Dues](https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [San Francisco Dues](https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR) | 3:25 |
 
-Snapshot ID: `ZqQ4gAAAAACaTiGE0sD3zfyq0V57A6Gf`
+Snapshot ID: `ZqWKAAAAAAB2qB/4saVNrWujF0YefpLa`

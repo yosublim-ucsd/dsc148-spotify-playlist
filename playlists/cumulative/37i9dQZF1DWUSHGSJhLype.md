@@ -2,7 +2,7 @@
 
 ### [PURO CALDO DE BRASIL](https://open.spotify.com/playlist/37i9dQZF1DWUSHGSJhLype)
 
-> aqui tem feijoada hot dog com purê sushi farofa açaí cm peixe frito enfim desfrute / Foto: Mc NATTAN, Ana Castela
+> aqui tem feijoada hot dog com purê sushi farofa açaí cm peixe frito enfim desfrute / Foto: NATTAN, Ana Castela
 
 313 songs - 14 hr 47 min
 

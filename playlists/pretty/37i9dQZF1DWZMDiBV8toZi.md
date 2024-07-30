@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMDiBV8toZi.md) - [plain]
 
 > Artists recording in Coke Studio at Spotify LA\. Cover: Karol G
 
-[Spotify](https://open.spotify.com/user/spotify) - 516 likes - 29 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 527 likes - 29 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMDiBV8toZi.md) - [plain]
 | 28 | [REAL LIFE \- Ofenbach Remix](https://open.spotify.com/track/638rYJzqbJcWuMwY9yYnYB) | [XIN LIU](https://open.spotify.com/artist/3lxD7OESQHk5ESvrad8IGg), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [REAL LIFE \(Ofenbach Remix\)](https://open.spotify.com/album/1BSP4dSC87v3uW6BCTXqMi) | 2:40 |
 | 29 | [Palpita](https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Palpita](https://open.spotify.com/album/603fRSffKcKusaqnmhXos5) | 2:31 |
 
-Snapshot ID: `ZnT6wAAAAAC+9j7dIlgLgUUONDo+MXiu`
+Snapshot ID: `ZqfS+gAAAAB7EHVCblAj83h1QVur+iqM`

@@ -4,7 +4,7 @@
 
 > Give your day a warm and fruity vibe with Latin music! 🌞🌴🍍🍉
 
-512 songs - 1 day 6 hr 42 min
+513 songs - 1 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,7 +377,7 @@
 | [Peligrosa Mujer](https://open.spotify.com/track/3zaKc0uMw4GI7xHva4tjLa) | [Joaco Terán](https://open.spotify.com/artist/1cy3VfdlWVJIquPPSeJ81Z) | [Libres](https://open.spotify.com/album/2efyfAfCPx6O7BnVeg9D9p) | 3:02 | 2021-10-20 | 2022-04-19 |
 | [Pelota](https://open.spotify.com/track/39p88iz6Hzx5KN00QbLIdv) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Pelota](https://open.spotify.com/album/2zX0TMRVNyesrH6kciPrQZ) | 2:47 | 2021-10-20 | 2022-04-20 |
 | [Pelota](https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 2:47 | 2021-10-20 | 2024-04-19 |
-| [Penas con Pan](https://open.spotify.com/track/0va257dK5KpE35Gd2EHH7E) | [La Doña](https://open.spotify.com/artist/5eBVoDUYv0feTepoBSz4SJ) | [Penas con Pan](https://open.spotify.com/album/7nxJz9F14aEwdO7eyq7qmb) | 1:43 | 2022-03-11 |  |
+| [Penas con Pan](https://open.spotify.com/track/0va257dK5KpE35Gd2EHH7E) | [La Doña](https://open.spotify.com/artist/5eBVoDUYv0feTepoBSz4SJ) | [Penas con Pan](https://open.spotify.com/album/7nxJz9F14aEwdO7eyq7qmb) | 1:43 | 2022-03-11 | 2024-07-30 |
 | [Pensé \- Acústico](https://open.spotify.com/track/1yE83tAX81AJW3wkHm5SEg) | [Tony True and the Tijuana Tres](https://open.spotify.com/artist/0AvWuJUBynDr5nPSoXsLIp), [Flor Ramírez](https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3) | [Pensé \(Acústico\)](https://open.spotify.com/album/1GAfZYrYpKrQzDXDe9aGpd) | 4:07 | 2021-10-20 | 2022-04-17 |
 | [Pequeña Niña](https://open.spotify.com/track/6lCnlQ9f13pCokyCNfiT0I) | [Enio Silveti](https://open.spotify.com/artist/2Htqe7nKQ0kHayNSjrH4xr) | [Pequeña Niña](https://open.spotify.com/album/6ANlUv5kDUABEOTUKxdq0R) | 3:22 | 2021-10-20 | 2022-04-21 |
 | [PERLA](https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [TANDEM](https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69) | 2:54 | 2021-10-20 | 2024-06-09 |
@@ -510,6 +510,7 @@
 | [Ya No Te Quiero](https://open.spotify.com/track/03zSGobl3ILmqobpwn08Iv) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Ya No Te Quiero](https://open.spotify.com/album/4dBvqo6FEZSEd8NfB4R8EZ) | 3:44 | 2021-10-20 | 2023-04-17 |
 | [Ya No Te Quiero](https://open.spotify.com/track/1XVG9J4jQRg3Ox7WHM6ztO) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Ya No Te Quiero](https://open.spotify.com/album/0twTGUVpGy1HIwgTJR0tZn) | 3:44 | 2021-10-20 | 2022-07-28 |
 | [Ya Va Pasar](https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Ya Va Pasar](https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI) | 3:23 | 2023-11-16 |  |
+| [Yellow Laces](https://open.spotify.com/track/2nKsFoAxQRjQz5zEvM7Hhz) | [Travelers All Stars](https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH) | [Yellow Laces \- Another Life](https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4) | 3:17 | 2024-07-29 |  |
 | [Yin Yang](https://open.spotify.com/track/1oqpMRnWkrQ2sqUSAhsUaw) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Yin Yang](https://open.spotify.com/album/0fSGPH8R7mrquL3eK5Z8KM) | 2:34 | 2022-04-17 | 2022-07-29 |
 | [Yo Bailo Sola](https://open.spotify.com/track/7fv20ywu4geYS8LpleMsFE) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Yo Bailo Sola](https://open.spotify.com/album/6M43g9QvBjq0vEPxhOf8q8) | 5:17 | 2021-10-20 | 2022-07-29 |
 | [Yo Me Lo Merezco](https://open.spotify.com/track/4KKDhRcCz7CAnJfSxf8pJN) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [Yo Me Lo Merezco](https://open.spotify.com/album/2hYgnSCgWk5DTu9pnCNh1R) | 3:42 | 2022-01-14 | 2022-06-01 |

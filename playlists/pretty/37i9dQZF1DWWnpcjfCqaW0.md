@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,722 likes - 75 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,727 likes - 75 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 60 | [If You Ain't Lovin' \(You Ain't Livin'\)](https://open.spotify.com/track/7oanidqUgZO3GxXugm2ucC) | [Faron Young](https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL) | [The Complete Capitol Hits Of Faron Young](https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa) | 2:22 |
 | 61 | [Alabama Jubilee](https://open.spotify.com/track/4Go8YDlnV1lgAtJtc02Fq7) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9), [The Nashville Dixielanders](https://open.spotify.com/artist/3D0LVCVE801kjPjVk0JjH5) | [The Country Music Hall Of Fame](https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ) | 2:47 |
 | 62 | [Fraulein](https://open.spotify.com/track/763CAJyB9ZXHntB3QCpduv) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [20 Of His Best](https://open.spotify.com/album/3eTEUdyzfz0lK2drXtcYt0) | 2:41 |
-| 63 | [Gotta Travel On](https://open.spotify.com/track/3HynxUWKnm7rtzjVkyXoHu) | [Billy Grammer](https://open.spotify.com/artist/33OmSxFFBOPQL3AcoAFAmA) | [Gotta Travel On: The Very Best Of Billy Grammar](https://open.spotify.com/album/6TZZUvrKXCvjrJQuV8aZfY) | 2:30 |
+| 63 | [A Satisfied Mind](https://open.spotify.com/track/0L9wb8Sy398mMog38XcfND) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [The Essential Porter Wagoner](https://open.spotify.com/album/76ijhEyT4DEJuwoyHd5bEk) | 2:46 |
 | 64 | [Blue, Blue Day](https://open.spotify.com/track/0lgckCZ94ZjtCBpjfRL5Su) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 1:53 |
-| 65 | [A Satisfied Mind](https://open.spotify.com/track/0L9wb8Sy398mMog38XcfND) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [The Essential Porter Wagoner](https://open.spotify.com/album/76ijhEyT4DEJuwoyHd5bEk) | 2:46 |
+| 65 | [Gotta Travel On](https://open.spotify.com/track/3HynxUWKnm7rtzjVkyXoHu) | [Billy Grammer](https://open.spotify.com/artist/33OmSxFFBOPQL3AcoAFAmA) | [Gotta Travel On: The Very Best Of Billy Grammar](https://open.spotify.com/album/6TZZUvrKXCvjrJQuV8aZfY) | 2:30 |
 | 66 | [Tennessee Stud \- Remastered](https://open.spotify.com/track/0B6zRccZmGS6CoMFXv8wdc) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15) | 3:05 |
 | 67 | [Midnight](https://open.spotify.com/track/5KemrO66yxhWCx9r1SBZXP) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9) | [The Country Music Hall Of Fame](https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ) | 3:12 |
 | 68 | [I Don't Hurt Anymore \- Remastered](https://open.spotify.com/track/52o7DuuvSLrk6ffYqVphMo) | [Hank Snow & His Rainbow Ranch Boys](https://open.spotify.com/artist/5guzUU95QNbzR8NalrE8kd) | [The Essential Hank Snow](https://open.spotify.com/album/0GcpueUt33P9XoObysUzFR) | 2:55 |

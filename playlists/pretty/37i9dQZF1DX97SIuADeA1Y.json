@@ -1,6 +1,6 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 339422,
+  "num_followers": 339425,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/3T85Y8AtIP1sJxCGYflICM"
+        "name": "Shake That",
+        "url": "https://open.spotify.com/album/1l0BKwempUx5qlkpFe4E90"
       },
       "artists": [
         {
-          "name": "Toby Romeo",
-          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+          "name": "Gang Speed",
+          "url": "https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv"
         },
         {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+          "name": "Treetalk",
+          "url": "https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp"
         }
       ],
-      "duration_ms": 120847,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/1rjn2zmw1I12bTWLIz0CGS"
+      "duration_ms": 179801,
+      "name": "Shake That",
+      "url": "https://open.spotify.com/track/0VGAT55tq7LHLfxtePPfpp"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -347,26 +347,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Shake That",
-        "url": "https://open.spotify.com/album/1l0BKwempUx5qlkpFe4E90"
-      },
-      "artists": [
-        {
-          "name": "Gang Speed",
-          "url": "https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv"
-        },
-        {
-          "name": "Treetalk",
-          "url": "https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp"
-        }
-      ],
-      "duration_ms": 179801,
-      "name": "Shake That",
-      "url": "https://open.spotify.com/track/0VGAT55tq7LHLfxtePPfpp"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "One In A Million",
         "url": "https://open.spotify.com/album/7Ag8oU7nc3fjRB2567eN1f"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 128951,
       "name": "One In A Million",
       "url": "https://open.spotify.com/track/18bNlfQ64iSkaSeye4IGHw"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/3T85Y8AtIP1sJxCGYflICM"
+      },
+      "artists": [
+        {
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 120847,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/1rjn2zmw1I12bTWLIz0CGS"
     },
     {
       "added_at": "2024-06-14 04:00:00",

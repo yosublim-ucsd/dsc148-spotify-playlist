@@ -4,7 +4,7 @@
 
 > Press play, press start.
 
-839 songs - 1 day 17 hr 35 min
+840 songs - 1 day 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [How We Do](https://open.spotify.com/track/0oDnZigAyI2RTxareDIuXO) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [How We Do](https://open.spotify.com/album/5QyO0fxIi4l2LFQkbWUGWw) | 3:07 | 2022-03-07 | 2022-04-21 |
 | [Human \(feat\. Echoes\)](https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Echoes](https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV) | [Human \(feat\. Echoes\)](https://open.spotify.com/album/0LsQJbzouY38Os8GXxn5dO) | 3:39 | 2022-05-04 | 2022-05-24 |
 | [Hypnocurrency](https://open.spotify.com/track/3evAUkYDPeLX5kn0LbvGz4) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Hypnocurrency](https://open.spotify.com/album/28WW07Sx0IrAXAb1xDDnD3) | 4:52 | 2021-08-20 | 2022-06-19 |
+| [HYPNOTIC DATA](https://open.spotify.com/track/1Ll2L0m2QznnoJI9xRN5MP) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [HYPNOTIC DATA 2.0](https://open.spotify.com/album/4NzgsY9c7NTq9uA0aj0619) | 2:08 | 2024-07-18 |  |
 | [HYPNOTIC DATA](https://open.spotify.com/track/26wxtmoH4uPUF1n5VlPxMc) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [XIII SORROWS](https://open.spotify.com/album/7dfODAnexuCQljq6ewTjtB) | 2:08 | 2023-09-14 | 2024-03-21 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-12-18 | 2024-07-19 |
 | [I Believe](https://open.spotify.com/track/6zke4l646FheM5JlIdu4T8) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Asha](https://open.spotify.com/artist/2EHKTScPT87Z0dHvTevc8D) | [I Believe](https://open.spotify.com/album/1c9WAYELQyzy1VGwBT1Ftv) | 4:18 | 2021-08-20 | 2022-07-28 |
@@ -586,7 +587,7 @@
 | [POPTHATRUNK](https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [POPTHATRUNK](https://open.spotify.com/album/0brdkkqwVS8Y4v4s3xCZ7S) | 2:13 | 2023-08-29 | 2023-09-09 |
 | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc) | 3:34 | 2022-05-27 | 2022-08-11 |
 | [Pour Your Heart Out \(feat\. 070 Shake\)](https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Pour Your Heart Out \(feat\. 070 Shake\)](https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T) | 3:43 | 2023-06-09 | 2023-06-17 |
-| [prada dem \(feat\. Offset\)](https://open.spotify.com/track/0ZBg0OsGKgZajDgFtryiz7) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [prada dem \(feat\. Offset\)](https://open.spotify.com/album/2hTlK2bJqMK4LrFvzcxPKY) | 2:45 | 2024-03-22 |  |
+| [prada dem \(feat\. Offset\)](https://open.spotify.com/track/0ZBg0OsGKgZajDgFtryiz7) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [prada dem \(feat\. Offset\)](https://open.spotify.com/album/2hTlK2bJqMK4LrFvzcxPKY) | 2:45 | 2024-03-22 | 2024-07-30 |
 | [Praise \(feat\. Gunna\)](https://open.spotify.com/track/5cz0T1Q8AmpY18TDLAe2ja) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Year Zero](https://open.spotify.com/album/6judl2YelDUdvExxZpUAvP) | 3:30 | 2022-02-04 | 2022-07-18 |
 | [Praise God](https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:46 | 2022-01-14 | 2022-03-19 |
 | [Praise The Lord \(Da Shine\) \(feat\. Skepta\)](https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [TESTING](https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa) | 3:25 | 2021-08-20 | 2023-02-04 |

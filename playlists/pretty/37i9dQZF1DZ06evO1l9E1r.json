@@ -1,12 +1,12 @@
 {
   "description": "This is Hildur Gu\u00f0nad\u00f3ttir. The essential tracks, all in one playlist.",
-  "num_followers": 1952,
+  "num_followers": 1958,
   "original_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAABEm1QikzU0nOMAeLD4OxW+",
+  "snapshot_id": "ZqWKAAAAAABzc19LrfMyiIwlNVP/TJKU",
   "tracks": [
     {
       "added_at": null,
@@ -87,8 +87,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Sinking",
-        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
+        "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
         }
       ],
-      "duration_ms": 142012,
-      "name": "Erupting Light",
-      "url": "https://open.spotify.com/track/2soXQBHbeDj4fkd0hoJYOe"
+      "duration_ms": 131200,
+      "name": "The Mustard Seed",
+      "url": "https://open.spotify.com/track/6kXgucJ1be2N7X85HqTfLf"
     },
     {
       "added_at": null,
@@ -127,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
+        "name": "Without Sinking",
+        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
         }
       ],
-      "duration_ms": 131200,
-      "name": "The Mustard Seed",
-      "url": "https://open.spotify.com/track/6kXgucJ1be2N7X85HqTfLf"
+      "duration_ms": 142012,
+      "name": "Erupting Light",
+      "url": "https://open.spotify.com/track/2soXQBHbeDj4fkd0hoJYOe"
     },
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 88493,
-      "name": "A Bad Comedian",
-      "url": "https://open.spotify.com/track/5x7zV8WBDXfNCkUYOffc8d"
+      "duration_ms": 84760,
+      "name": "Hoyt's Office",
+      "url": "https://open.spotify.com/track/1UdiJ6Y2eisfQQ76MZOX4B"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 84760,
-      "name": "Hoyt's Office",
-      "url": "https://open.spotify.com/track/1UdiJ6Y2eisfQQ76MZOX4B"
+      "duration_ms": 88493,
+      "name": "A Bad Comedian",
+      "url": "https://open.spotify.com/track/5x7zV8WBDXfNCkUYOffc8d"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Women Talking (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 163460,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/5J18nQLwHFbM12y6rNFpG2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ser\u00eda II",
         "url": "https://open.spotify.com/album/0m7wFViFP7uJh6UzL6YmDz"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 185000,
       "name": "Without Memory",
       "url": "https://open.spotify.com/track/38Bp7BIwyGfJBOkN5AlUoR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Women Talking (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 163460,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/5J18nQLwHFbM12y6rNFpG2"
     },
     {
       "added_at": null,
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 450226,
-      "name": "Strokur",
-      "url": "https://open.spotify.com/track/5rUDQEKBwnLKvvI8m2xFIF"
+      "duration_ms": 181680,
+      "name": "Rennur Upp",
+      "url": "https://open.spotify.com/track/3aadTYskcptJckrvN1v8lo"
     },
     {
       "added_at": null,
@@ -968,9 +968,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 181680,
-      "name": "Rennur Upp",
-      "url": "https://open.spotify.com/track/3aadTYskcptJckrvN1v8lo"
+      "duration_ms": 450226,
+      "name": "Strokur",
+      "url": "https://open.spotify.com/track/5rUDQEKBwnLKvvI8m2xFIF"
     },
     {
       "added_at": null,
@@ -1031,18 +1031,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not All Men (From \"Women Talking\" Soundtrack)",
-        "url": "https://open.spotify.com/album/2fzBDU5hPOl8AqcxOdhu2B"
+        "name": "Trapped (Original Television Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "Rutger Hoedemaekers",
+          "url": "https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5"
         }
       ],
-      "duration_ms": 209624,
-      "name": "Not All Men - From \"Women Talking\" Soundtrack",
-      "url": "https://open.spotify.com/track/22YAuxChtTHX8D9so4i5R5"
+      "duration_ms": 124541,
+      "name": "A Political Murder",
+      "url": "https://open.spotify.com/track/4mHMybgI5nXy30WzP5IKyw"
     },
     {
       "added_at": null,
@@ -1067,28 +1071,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trapped (Original Television Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L"
+        "name": "Not All Men (From \"Women Talking\" Soundtrack)",
+        "url": "https://open.spotify.com/album/2fzBDU5hPOl8AqcxOdhu2B"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "Rutger Hoedemaekers",
-          "url": "https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5"
         }
       ],
-      "duration_ms": 124541,
-      "name": "A Political Murder",
-      "url": "https://open.spotify.com/track/4mHMybgI5nXy30WzP5IKyw"
+      "duration_ms": 209624,
+      "name": "Not All Men - From \"Women Talking\" Soundtrack",
+      "url": "https://open.spotify.com/track/22YAuxChtTHX8D9so4i5R5"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Women Talking (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX"
+        "name": "Without Sinking",
+        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
       },
       "artists": [
         {
@@ -1096,9 +1096,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 196888,
-      "name": "Speak Up",
-      "url": "https://open.spotify.com/track/7J1u0DibcEonQFcZukC8XH"
+      "duration_ms": 357559,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/0mILNrJIRsv5Zby7PNfobw"
     }
   ],
   "unique_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",

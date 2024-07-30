@@ -1,6 +1,6 @@
 {
   "description": "Ruhunu dinlendirece\u011fin bu kutsal ayda yolculu\u011funa e\u015flik edecek ney ezgileri. G\u00f6rsel: Sultanahmet Camii",
-  "num_followers": 11784,
+  "num_followers": 11783,
   "original_name": "Ramazan",
   "owner": {
     "name": "Spotify",
@@ -183,6 +183,22 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
+        "name": "Yaz\u0131 Tura (Orijinal Film M\u00fczikleri)",
+        "url": "https://open.spotify.com/album/2YogtOfOlZxWYjzxlV9K8Z"
+      },
+      "artists": [
+        {
+          "name": "Erkan O\u011fur",
+          "url": "https://open.spotify.com/artist/7HIccJjwPhWkLVKu0gGJgB"
+        }
+      ],
+      "duration_ms": 112105,
+      "name": "Tekbir",
+      "url": "https://open.spotify.com/track/0AkMJVSyIWegyBgUAC9zfI"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
         "name": "Mektup",
         "url": "https://open.spotify.com/album/4QucsOQHLZ44FXNvsQKU0d"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 415658,
       "name": "Bahar",
       "url": "https://open.spotify.com/track/7FUtGyiSNK2WNNPeWITnv2"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
-        "name": "Turkey: The Turkish Ney",
-        "url": "https://open.spotify.com/album/5V1cn21rjWnC8kn3YYB6ci"
-      },
-      "artists": [
-        {
-          "name": "Kudsi Erguner",
-          "url": "https://open.spotify.com/artist/5BlN5l4Xh3Hsbj91NyP9lI"
-        }
-      ],
-      "duration_ms": 445040,
-      "name": "Makam Ferahfeza: Pesrev",
-      "url": "https://open.spotify.com/track/3xYMouSka21K56BmzRUOpf"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -231,18 +231,18 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
-        "name": "Yaz\u0131 Tura (Orijinal Film M\u00fczikleri)",
-        "url": "https://open.spotify.com/album/2YogtOfOlZxWYjzxlV9K8Z"
+        "name": "Turkey: The Turkish Ney",
+        "url": "https://open.spotify.com/album/5V1cn21rjWnC8kn3YYB6ci"
       },
       "artists": [
         {
-          "name": "Erkan O\u011fur",
-          "url": "https://open.spotify.com/artist/7HIccJjwPhWkLVKu0gGJgB"
+          "name": "Kudsi Erguner",
+          "url": "https://open.spotify.com/artist/5BlN5l4Xh3Hsbj91NyP9lI"
         }
       ],
-      "duration_ms": 112105,
-      "name": "Tekbir",
-      "url": "https://open.spotify.com/track/0AkMJVSyIWegyBgUAC9zfI"
+      "duration_ms": 445040,
+      "name": "Makam Ferahfeza: Pesrev",
+      "url": "https://open.spotify.com/track/3xYMouSka21K56BmzRUOpf"
     },
     {
       "added_at": "2024-03-05 11:27:00",

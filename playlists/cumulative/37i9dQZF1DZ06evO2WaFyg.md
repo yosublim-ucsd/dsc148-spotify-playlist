@@ -2,7 +2,7 @@
 
 ### [This Is Young Thug](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WaFyg)
 
-> This is Young Thug\. The essential tracks, all in one playlist.
+> This Is Young Thug\. Los temas esenciales, todos en una lista.
 
 92 songs - 5 hr 14 min
 

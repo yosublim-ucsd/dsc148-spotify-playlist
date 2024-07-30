@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 
 > Час перепочити 🌻🧘🌲
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,293 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,322 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 4 | [Stardust](https://open.spotify.com/track/4266h07udCdZ83jswW10IG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [ROOM UNDER THE STAIRS](https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0) | 3:52 |
 | 5 | [Цілуй](https://open.spotify.com/track/2Msj5zUarTNnsWu7YcEuPE) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Цілуй](https://open.spotify.com/album/0f89WOpBAPDPvgXlWZrcEa) | 2:35 |
 | 6 | [BLACKBIIRD](https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3), [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1), [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:11 |
-| 7 | [Cozy](https://open.spotify.com/track/5mRFZlOAptPpimncCeBxoJ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Cozy](https://open.spotify.com/album/4xsI12SdxzxVyikl8PRuX3) | 2:45 |
-| 8 | [Beautiful Things \- Acoustic](https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things \(Alternate Versions\)](https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP) | 3:21 |
+| 7 | [Beautiful Things \- Acoustic](https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things \(Alternate Versions\)](https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP) | 3:21 |
+| 8 | [Cozy](https://open.spotify.com/track/5mRFZlOAptPpimncCeBxoJ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Cozy](https://open.spotify.com/album/4xsI12SdxzxVyikl8PRuX3) | 2:45 |
 | 9 | [Overdrive](https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Overdrive](https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V) | 2:27 |
 | 10 | [Floating Parade](https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Floating Parade](https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED) | 3:49 |
 | 11 | [Рана](https://open.spotify.com/track/4GNVBarJ82ABAYZyPYwinT) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Рана](https://open.spotify.com/album/1bfoR7QMS6sbBQ3H6EWW1H) | 2:01 |
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 21 | [Karma](https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Karma](https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW) | 2:35 |
 | 22 | [Вродлива](https://open.spotify.com/track/714gZqwzaj9MrjyDGPWq1c) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Вродлива](https://open.spotify.com/album/30CrSBR6y6TGFq9WHBHuHI) | 2:30 |
 | 23 | [Камертон](https://open.spotify.com/track/0O3BnlKDKVeoqrHWanbO0r) | [Khrystyna Soloviy](https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa) | [Камертон](https://open.spotify.com/album/6k5oC3oLwKd8UocbZlISp4) | 3:29 |
-| 24 | [Квітну з тобою](https://open.spotify.com/track/1gEOO9uivwxwAKIF5Z0ezH) | [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Квітну з тобою](https://open.spotify.com/album/1bclOZnQcI8N02mdPy1TqY) | 2:20 |
+| 24 | [Ти так мало говориш](https://open.spotify.com/track/7mmU3dlHNkrA8sjaT4l03s) | [ba.latskii](https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz) | [Ти так мало говориш](https://open.spotify.com/album/2SFJTC1JEUbcj5Wuahvitl) | 2:32 |
 | 25 | [Це літо обіцяю](https://open.spotify.com/track/4vlZ4Jj4KQi7gpCdhmRaQ4) | [SKRYAGA](https://open.spotify.com/artist/4hThdWjmT0zEMdXIZ5awpw) | [Це літо обіцяю](https://open.spotify.com/album/50esmeAQ0a12TnozCWzz5y) | 2:52 |
-| 26 | [Ти так мало говориш](https://open.spotify.com/track/7mmU3dlHNkrA8sjaT4l03s) | [ba.latskii](https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz) | [Ти так мало говориш](https://open.spotify.com/album/2SFJTC1JEUbcj5Wuahvitl) | 2:32 |
+| 26 | [Квітну з тобою](https://open.spotify.com/track/1gEOO9uivwxwAKIF5Z0ezH) | [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Квітну з тобою](https://open.spotify.com/album/1bclOZnQcI8N02mdPy1TqY) | 2:20 |
 | 27 | [Неймовірно тонка](https://open.spotify.com/track/0AA74JKFRsdzHhn3lggX4p) | [INGRET](https://open.spotify.com/artist/43Gc9czfpJK1ijNMPOCtYy) | [Неймовірно тонка](https://open.spotify.com/album/6my1K6UekghuCoude69cg7) | 3:09 |
 | 28 | [One More Try](https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [One More Try](https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO) | 5:56 |
 | 29 | [Крок](https://open.spotify.com/track/5XumuHs4pQg1LGIPAxCqoX) | [Cape Cod](https://open.spotify.com/artist/5uMOOCjDjMCAahAJazvPYB), [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC) | [Крок](https://open.spotify.com/album/5RmNLxa2mvgkLFe517mLw7) | 4:00 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 52 | [Вір мені](https://open.spotify.com/track/27k4QLPYGhiApZKCQI4c9y) | [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Вір мені](https://open.spotify.com/album/23yQRx1Jd5gPYuixowWL6C) | 2:16 |
 | 53 | [Сонячна](https://open.spotify.com/track/5DyqWpCHHVfB6BO3Uucdxg) | [Сальто Назад](https://open.spotify.com/artist/51y4QBUQpFncG7cY6HMsIW) | [Діти](https://open.spotify.com/album/7i9VX5UVn6oRKLCowh3rlZ) | 3:58 |
 | 54 | [Лебідонько](https://open.spotify.com/track/3jvcFXp201IwQ1hGpq0Xoj) | [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB) | [Лебідонько](https://open.spotify.com/album/19UW7SaVHmcUDFXhj2webN) | 2:16 |
-| 55 | [метаморфосінь](https://open.spotify.com/track/4rLvqRtMQN0u5NQmPrtZkT) | [adm:t](https://open.spotify.com/artist/2twME3jNUXdJCcaJ7dqHsJ), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [метаморфосінь](https://open.spotify.com/album/7IC8OrpjOi7I45yyPO16yd) | 2:34 |
-| 56 | [Солов'ї](https://open.spotify.com/track/2LFs6apdfs1cIkrVscZpca) | [Oxana Trach](https://open.spotify.com/artist/1VqqAM2W8jfZSq8hKU7Kww) | [Солов'ї](https://open.spotify.com/album/1RltwzS3oGphyquYRIReC4) | 2:23 |
+| 55 | [Солов'ї](https://open.spotify.com/track/2LFs6apdfs1cIkrVscZpca) | [Oxana Trach](https://open.spotify.com/artist/1VqqAM2W8jfZSq8hKU7Kww) | [Солов'ї](https://open.spotify.com/album/1RltwzS3oGphyquYRIReC4) | 2:23 |
+| 56 | [метаморфосінь](https://open.spotify.com/track/4rLvqRtMQN0u5NQmPrtZkT) | [adm:t](https://open.spotify.com/artist/2twME3jNUXdJCcaJ7dqHsJ), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [метаморфосінь](https://open.spotify.com/album/7IC8OrpjOi7I45yyPO16yd) | 2:34 |
 | 57 | [Такі різні](https://open.spotify.com/track/3oYbQrdYm5MztmS3R5xPmO) | [NICHKA](https://open.spotify.com/artist/4wePP7WrVuqGPqkXe2P3mJ) | [Такі різні](https://open.spotify.com/album/6Dtic6mqZLUhKDelOgMMXk) | 3:18 |
 | 58 | [Sunflower](https://open.spotify.com/track/2MKUKzxL3U4bZ12QYhRS4i) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Sunflower](https://open.spotify.com/album/03g79cWftoGqwO48vn9wOn) | 3:23 |
 | 59 | [Мої гори](https://open.spotify.com/track/1xSZU917Nak0KAlHPOTgwt) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Мої гори](https://open.spotify.com/album/5Zmrb5grx6WfEvCwBaH7ex) | 3:23 |

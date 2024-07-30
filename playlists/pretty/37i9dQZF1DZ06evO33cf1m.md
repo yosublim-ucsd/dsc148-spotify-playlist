@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33cf1m.md) - [plain]
 
 ### [This Is La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33cf1m)
 
-> This is La Arrolladora Banda El Limón De Rene Camacho\. The essential tracks, all in one playlist.
+> This Is La Arrolladora Banda El Limón De Rene Camacho\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,039 likes - 51 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,366 likes - 51 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33cf1m.md) - [plain]
 | 50 | [Los Tres Gallos](https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Canso El Corazon](https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq) | 2:48 |
 | 51 | [No La Voy A Engañar](https://open.spotify.com/track/0UICwSsSpUt98XkeCfupFn) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Irreversible..\. 2012](https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF) | 3:25 |
 
-Snapshot ID: `ZqQ4gAAAAADuF3i6kiB0QIT89lyXTH22`
+Snapshot ID: `ZqWKAAAAAAALTfmWhT1cBZkAuxjz3cR9`

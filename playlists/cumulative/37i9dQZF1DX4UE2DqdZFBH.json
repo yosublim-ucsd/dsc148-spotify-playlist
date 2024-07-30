@@ -312,7 +312,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 491520,
       "name": "Bageshri",
       "url": "https://open.spotify.com/track/52oIvQ4IigJNawWR1wDhdb"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 436611,
       "name": "Bhatiyali Dhun",
       "url": "https://open.spotify.com/track/0MMPQrXP5jBN6jXhvyJaMP"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 174015,
       "name": "Drop",
       "url": "https://open.spotify.com/track/3egX8ALvUfZTddyDurHoda"
@@ -900,7 +900,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 204800,
       "name": "Ex-Animo",
       "url": "https://open.spotify.com/track/0XBzo4dHYYwaruVBJjd6cd"
@@ -1770,7 +1770,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 485518,
       "name": "North Star.wav",
       "url": "https://open.spotify.com/track/3fmpeORuSvsCETTuDL1Wl1"
@@ -2188,7 +2188,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 309818,
       "name": "So\u2026Now Hear This",
       "url": "https://open.spotify.com/track/40HT4dMVbIY0TO1a0nqkOx"
@@ -2334,6 +2334,28 @@
       "duration_ms": 461310,
       "name": "Take Off",
       "url": "https://open.spotify.com/track/0fkugUgapvkQGQzEzb47ML"
+    },
+    {
+      "album": {
+        "name": "Telisi Rama",
+        "url": "https://open.spotify.com/album/5MbK9qiz0v2GtUhHohipCa"
+      },
+      "artists": [
+        {
+          "name": "Rini",
+          "url": "https://open.spotify.com/artist/4DkoN3sidjYQuPiehE12Gs"
+        },
+        {
+          "name": "Seoyeon Im",
+          "url": "https://open.spotify.com/artist/1D0QFoL3MHfPU0JqTlpidZ"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228415,
+      "name": "Telisi Rama",
+      "url": "https://open.spotify.com/track/4U84VDe6nIpMEnhaiMATU7"
     },
     {
       "album": {
@@ -2630,7 +2652,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 308970,
       "name": "Wake Up Rama",
       "url": "https://open.spotify.com/track/37TYm2BRcNMnvsORKpCx4f"

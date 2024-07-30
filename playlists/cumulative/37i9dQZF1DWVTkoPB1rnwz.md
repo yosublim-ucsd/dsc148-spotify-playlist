@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-357 songs - 21 hr 0 min
+358 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [image no\. 4](https://open.spotify.com/track/1TbDfkXAw8sbd3oewgAOW4) | [Savoir Adore](https://open.spotify.com/artist/2weMnYqCmtNUrSLAJq5dD8), [Image Tapes](https://open.spotify.com/artist/2gi84HSldDZMD7fwwY4xAz) | [Image Tapes Vol\. 1](https://open.spotify.com/album/3yTXYqamF5Kq1FiGjPph0J) | 2:05 | 2021-10-16 |  |
 | [Imaginary Normal](https://open.spotify.com/track/1rXJrMRCdeKufNaFBC5MTd) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Paranormal](https://open.spotify.com/album/7oziztdX8PuEs9WPRjHyZl) | 3:43 | 2022-01-13 |  |
 | [In My Mind](https://open.spotify.com/track/0XQoOGwbUn930qZGji0885) | [drkmnd](https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C) | [Nausea](https://open.spotify.com/album/4nwc9ShqSEBItmnmiJkDtj) | 3:06 | 2021-10-16 |  |
-| [Inner Balance](https://open.spotify.com/track/7eutjZvgO3DOz0HXbRvW6o) | [Sup Nasa](https://open.spotify.com/artist/4FlqZhoTqYt8tpct6QwgZR) | [Kula](https://open.spotify.com/album/5uHujIKsaQA1HFqt2cGCLM) | 2:06 | 2021-10-16 |  |
+| [Inner Balance](https://open.spotify.com/track/7eutjZvgO3DOz0HXbRvW6o) | [Sup Nasa](https://open.spotify.com/artist/4FlqZhoTqYt8tpct6QwgZR) | [Kula](https://open.spotify.com/album/5uHujIKsaQA1HFqt2cGCLM) | 2:06 | 2021-10-16 | 2024-07-30 |
 | [Islas Canarias](https://open.spotify.com/track/0hRCdpKyqN25UFexMue0Pp) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1) | 3:10 | 2021-10-16 | 2024-04-03 |
 | [Islas Canarias](https://open.spotify.com/track/68s6d9iCLRhviPqL6NWA5U) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/4JDu9Wp3oVqBc18hIau11s) | 3:10 | 2021-10-16 | 2022-07-29 |
 | [jazmin](https://open.spotify.com/track/0LP3XkCr5KNLKIeBc0huI4) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR) | [Jardines, Vol.1](https://open.spotify.com/album/1mTuEZ6UOl9sgTaEpn1Noc) | 2:33 | 2023-03-03 | 2024-04-19 |
@@ -173,6 +173,7 @@
 | [Key Biscayne](https://open.spotify.com/track/4jSpf1sB1WXLeRjY2gnsgV) | [Spencer Zahn](https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx) | [Sunday Painter](https://open.spotify.com/album/1ktavSWpvxxD4w7QmBxSww) | 5:15 | 2021-10-16 | 2022-11-18 |
 | [Kombucha](https://open.spotify.com/track/0DdKTv7NiZ4DWV99zoNv6A) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Imperfections](https://open.spotify.com/album/27cW4XLj3mNWOb5VOv8k79) | 1:23 | 2021-10-16 | 2024-04-19 |
 | [Kombucha](https://open.spotify.com/track/3MCvwmA6zeYml0q7kQLgLu) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Imperfections](https://open.spotify.com/album/49duPTHJJzvzXch9KUQhtU) | 1:23 | 2021-10-16 | 2022-07-29 |
+| [La Cuna del Cisne](https://open.spotify.com/track/5YTa4iuyMjso4skLWLYRe0) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV) | [Yo No Soy Marinero](https://open.spotify.com/album/7Lg3d27iQnRX3Is6yEXho5) | 2:33 | 2024-07-29 |  |
 | [lake hylia](https://open.spotify.com/track/1DE2OTIUPBhBCmwrfSgnu4) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [lake hylia](https://open.spotify.com/album/1iGEDqPy6ZLwqO2mSIUqg3) | 1:51 | 2021-10-16 | 2022-09-20 |
 | [lake hylia](https://open.spotify.com/track/4vvZKGxwq09jL4F30aF1Om) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [lake hylia](https://open.spotify.com/album/2pajMS0QgB2rk8TwXu1Tfo) | 1:51 | 2021-10-16 | 2022-11-13 |
 | [Le danseur dans la boîte](https://open.spotify.com/track/0vGbsSDK7St7mNqbs19nUC) | [Isaac Symonds](https://open.spotify.com/artist/7mvHnjqntcNNecYAHHbdM2), [Yaehsun](https://open.spotify.com/artist/2EzEflueqj8hSyiCNSTxbB), [Camille Paquette\-Roy](https://open.spotify.com/artist/1pVlFqIC1hmzaUf9UPIpFZ) | [Natura Sophia](https://open.spotify.com/album/1m9tfsXeu1A6GOh7lzVphq) | 4:58 | 2021-10-16 |  |

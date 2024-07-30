@@ -1,12 +1,12 @@
 {
-  "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 69520,
+  "description": "This Is Lila Downs. Los temas esenciales, todos en una lista.",
+  "num_followers": 69536,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAAA/A6p12e/QxM6MwsTqhV5A",
+  "snapshot_id": "ZqWKAAAAAABgwL8lHnTdTXp2XM2zFptw",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La S\u00e1nchez",
-        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 185923,
-      "name": "Conjuro",
-      "url": "https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pecados Y Milagros",
         "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 223013,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/7qh0rNl1J5JPONLpZbAofd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La S\u00e1nchez",
+        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 185923,
+      "name": "Conjuro",
+      "url": "https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 208946,
-      "name": "La Campanera",
-      "url": "https://open.spotify.com/track/7fw1xC8CxyRiCz7XJiz47k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pecados Y Milagros",
         "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 284013,
       "name": "Fallaste Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3HYf9vCyDkA3JkVWp9RwxH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "La Campanera",
+      "url": "https://open.spotify.com/track/7fw1xC8CxyRiCz7XJiz47k"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tan Bonita",
-        "url": "https://open.spotify.com/album/0FFTHBdD5AP5XkVXSdMpEP"
+        "name": "Balas y Chocolate",
+        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
       },
       "artists": [
         {
@@ -740,17 +740,45 @@
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         },
         {
-          "name": "Ni\u00f1a Pastori",
-          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
-        },
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 197402,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/7kAiuVi660DGkT67MHVIwh"
+      "duration_ms": 258000,
+      "name": "La Patria Madrina (with Juanes)",
+      "url": "https://open.spotify.com/track/1iXIEPWk0tVMLySzWeoxpH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pecados Y Milagros",
+        "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 295013,
+      "name": "Dios Nunca Muere",
+      "url": "https://open.spotify.com/track/28QHawocxdu8KeK3EpfNbN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
     },
     {
       "added_at": null,
@@ -775,40 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pecados Y Milagros",
-        "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 295013,
-      "name": "Dios Nunca Muere",
-      "url": "https://open.spotify.com/track/28QHawocxdu8KeK3EpfNbN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Balas y Chocolate",
-        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
+        "name": "Tan Bonita",
+        "url": "https://open.spotify.com/album/0FFTHBdD5AP5XkVXSdMpEP"
       },
       "artists": [
         {
@@ -816,13 +812,17 @@
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         },
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Ni\u00f1a Pastori",
+          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
         }
       ],
-      "duration_ms": 258000,
-      "name": "La Patria Madrina (with Juanes)",
-      "url": "https://open.spotify.com/track/1iXIEPWk0tVMLySzWeoxpH"
+      "duration_ms": 197402,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/7kAiuVi660DGkT67MHVIwh"
     },
     {
       "added_at": null,
@@ -951,6 +951,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "La San Marque\u00f1a",
+      "url": "https://open.spotify.com/track/74Ldi2R0KmTHQzkt9r5DRk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En El \u00daltimo Trago",
         "url": "https://open.spotify.com/album/54zPJXpQnBrIHKSfWY4cF6"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 207200,
       "name": "En el \u00faltimo trago",
       "url": "https://open.spotify.com/track/2bZK0muecji5JyEEhnId9l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 215720,
-      "name": "Son del Chile Frito",
-      "url": "https://open.spotify.com/track/1uPt8iweNKc5c6IhGlpiqX"
     },
     {
       "added_at": null,
@@ -1023,6 +1023,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 215720,
+      "name": "Son del Chile Frito",
+      "url": "https://open.spotify.com/track/1uPt8iweNKc5c6IhGlpiqX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pecados Y Milagros",
         "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 248026,
       "name": "Palomo Del Comalito",
       "url": "https://open.spotify.com/track/4k89AEV6OCtCBRYqqgregm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "La San Marque\u00f1a",
-      "url": "https://open.spotify.com/track/74Ldi2R0KmTHQzkt9r5DRk"
     },
     {
       "added_at": null,

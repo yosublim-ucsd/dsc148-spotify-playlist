@@ -1,12 +1,12 @@
 {
-  "description": "This Is Mc Luanna. Los temas esenciales, todos en una lista.",
-  "num_followers": 9569,
+  "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
+  "num_followers": 9600,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAAAfTCjXfREYh14BXAiDnqGJ",
+  "snapshot_id": "ZqWKAAAAAADL8qIkLE2aDefV0Y/3UAxn",
   "tracks": [
     {
       "added_at": null,
@@ -708,17 +708,21 @@
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Vitin.wav",
-          "url": "https://open.spotify.com/artist/4dVWrqP3FM2o5Bcocsrvwp"
+          "name": "Marcos Beatman",
+          "url": "https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk"
         },
         {
-          "name": "Dagrace",
-          "url": "https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT"
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Mc Jhonks",
+          "url": "https://open.spotify.com/artist/2CGJLBZFsTvboRvWoH4bu5"
         }
       ],
-      "duration_ms": 163846,
-      "name": "Rude",
-      "url": "https://open.spotify.com/track/76uuhlsoVlG3F6Umr8mnHX"
+      "duration_ms": 164500,
+      "name": "Surtada",
+      "url": "https://open.spotify.com/track/1HBFYs68ayggUWhgySCK7j"
     },
     {
       "added_at": null,
@@ -796,21 +800,17 @@
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Marcos Beatman",
-          "url": "https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk"
+          "name": "Vitin.wav",
+          "url": "https://open.spotify.com/artist/4dVWrqP3FM2o5Bcocsrvwp"
         },
         {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "Mc Jhonks",
-          "url": "https://open.spotify.com/artist/2CGJLBZFsTvboRvWoH4bu5"
+          "name": "Dagrace",
+          "url": "https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT"
         }
       ],
-      "duration_ms": 164500,
-      "name": "Surtada",
-      "url": "https://open.spotify.com/track/1HBFYs68ayggUWhgySCK7j"
+      "duration_ms": 163846,
+      "name": "Rude",
+      "url": "https://open.spotify.com/track/76uuhlsoVlG3F6Umr8mnHX"
     },
     {
       "added_at": null,
@@ -959,30 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e9talas",
-        "url": "https://open.spotify.com/album/1sq1EdgUiQ8jYxWnBAIaNv"
-      },
-      "artists": [
-        {
-          "name": "Thiago Kelbert",
-          "url": "https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        }
-      ],
-      "duration_ms": 192807,
-      "name": "P\u00e9talas",
-      "url": "https://open.spotify.com/track/0LVGGVzzPqArsRUq3PoZa5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Donas do Jogo 2",
         "url": "https://open.spotify.com/album/5qq7LHmULVuDcxlGLSE7Qo"
       },
@@ -1011,6 +987,30 @@
       "duration_ms": 197340,
       "name": "Donas do Jogo 2",
       "url": "https://open.spotify.com/track/2U9UpFV2WEjoAs9TqEb2ah"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e9talas",
+        "url": "https://open.spotify.com/album/1sq1EdgUiQ8jYxWnBAIaNv"
+      },
+      "artists": [
+        {
+          "name": "Thiago Kelbert",
+          "url": "https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        }
+      ],
+      "duration_ms": 192807,
+      "name": "P\u00e9talas",
+      "url": "https://open.spotify.com/track/0LVGGVzzPqArsRUq3PoZa5"
     },
     {
       "added_at": null,
@@ -1187,6 +1187,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Palpite",
+        "url": "https://open.spotify.com/album/4h8hU9tmxAJs5rxhSNqQWj"
+      },
+      "artists": [
+        {
+          "name": "Dj Billy Mandela",
+          "url": "https://open.spotify.com/artist/5EmpV2UplGpGulT1onoSyh"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 112984,
+      "name": "Palpite",
+      "url": "https://open.spotify.com/track/5tJi3MH0b90iHb8NWR9Hj1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "REAL R&B",
         "url": "https://open.spotify.com/album/2q2nL2eRh5JFYIFZqOo52j"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 162711,
       "name": "SEM BARULHO",
       "url": "https://open.spotify.com/track/3AQLGfa21U6RuOlbeAwblf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Palpite",
-        "url": "https://open.spotify.com/album/4h8hU9tmxAJs5rxhSNqQWj"
-      },
-      "artists": [
-        {
-          "name": "Dj Billy Mandela",
-          "url": "https://open.spotify.com/artist/5EmpV2UplGpGulT1onoSyh"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 112984,
-      "name": "Palpite",
-      "url": "https://open.spotify.com/track/5tJi3MH0b90iHb8NWR9Hj1"
     },
     {
       "added_at": null,

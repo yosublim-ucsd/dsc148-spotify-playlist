@@ -4,7 +4,7 @@
 
 > Türkiye'nin en büyük pop listesi\. Kapak: Funda Arar
 
-70 songs - 3 hr 29 min
+71 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Renklensin](https://open.spotify.com/track/1d02igesB9DREknAVXRiBd) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Renklensin](https://open.spotify.com/album/5QTNMJkssQOVw7DZhzHQNL) | 3:10 | 2024-07-02 |  |
 | [Sana Yıldızları Ödediğimden](https://open.spotify.com/track/0fu7d7LgXjClCkgBmnNlc0) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Sana Yıldızları Ödediğimden](https://open.spotify.com/album/745xmwLY8UKgHtxDa9UMYU) | 4:18 | 2024-07-02 |  |
 | [Senden Hatıra](https://open.spotify.com/track/2i7XLrmbkbhIFbGwBMw2ec) | [Kerim Araz](https://open.spotify.com/artist/2xNgzwX6A9orF0QEJph5Eb), [Sevgim Yılmaz](https://open.spotify.com/artist/1oh1jFXcJYVg7g1E2Yb3PO) | [Senden Hatıra](https://open.spotify.com/album/4ZSLSrIk7vuIvh18qEXELD) | 3:19 | 2024-07-18 |  |
+| [SENİ GÖRDÜĞÜM AN](https://open.spotify.com/track/5hyYCEaC704WXeb4saAim4) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf), [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [SENİ GÖRDÜĞÜM AN](https://open.spotify.com/album/4b91E9t6JFljmPckcteTLi) | 3:14 | 2024-07-29 |  |
 | [Sesini Duymam Lazım](https://open.spotify.com/track/0RPc5Dd42QIxwXWWziBvCZ) | [Cem Belevi](https://open.spotify.com/artist/5yhN4qXpv9cghmJglovvmg) | [CEMiyet Beach](https://open.spotify.com/album/29irqiFigkCaqcK5d5Feej) | 2:20 | 2024-07-18 |  |
 | [Seviyore Mi](https://open.spotify.com/track/03akFZOY1Gpe6gnBjq3ZzM) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Seviyore Mi](https://open.spotify.com/album/4wZIEKXg8VAFfFtgkH9MOw) | 2:22 | 2024-07-11 | 2024-07-19 |
 | [Sor](https://open.spotify.com/track/4K5IIAsu1g5baNEonmTAwu) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm), [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA) | [Sor](https://open.spotify.com/album/4QqI8mKKCxfwYo6N06ywIB) | 2:28 | 2024-07-02 | 2024-07-19 |
@@ -70,7 +71,7 @@
 | [Yarı Deli](https://open.spotify.com/track/4PUcdX1jTT7XB75zwCsXeN) | [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Yarı Deli](https://open.spotify.com/album/5N48APJMjm14PAbNWGphDH) | 2:32 | 2024-07-11 |  |
 | [Yat Kalk Dua Et](https://open.spotify.com/track/68fx1drvQDkcQvxHOwy7s7) | [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [Yat Kalk Dua Et](https://open.spotify.com/album/2blu60oC8kIzEdsrGOxtrp) | 2:46 | 2024-07-02 | 2024-07-27 |
 | [Yazık](https://open.spotify.com/track/1GjtJVlRPkOReKbEGv8yqM) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Yazık](https://open.spotify.com/album/1188ZVfe2Bte1RZWKzZChy) | 3:37 | 2024-07-02 | 2024-07-05 |
-| [Yo](https://open.spotify.com/track/5ikFGOKtCdl9YC2xJh9hho) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuantum 51](https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC) | 3:45 | 2024-07-02 |  |
+| [Yo](https://open.spotify.com/track/5ikFGOKtCdl9YC2xJh9hho) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuantum 51](https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC) | 3:45 | 2024-07-02 | 2024-07-30 |
 | [Yokmuş Sevenim Senden Önce](https://open.spotify.com/track/1mJiGkr8Ydci5TTLisVVer) | [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [Yokmuş Sevenim Senden Önce](https://open.spotify.com/album/3ECnEk8UPu12VWdBjbOexQ) | 2:38 | 2024-07-02 |  |
 | [Yolun Sonu](https://open.spotify.com/track/5bGJ7adYLYCblwyi96it9K) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Yolun Sonu](https://open.spotify.com/album/17lGO9VxKnbhWh9woALoSR) | 2:41 | 2024-07-02 | 2024-07-12 |
 | [Zindan](https://open.spotify.com/track/1o4SP8i1ITqEe4oR4IWysq) | [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Zindan](https://open.spotify.com/album/18UTEUfO4tjsmabjKEdyQv) | 2:12 | 2024-07-25 |  |

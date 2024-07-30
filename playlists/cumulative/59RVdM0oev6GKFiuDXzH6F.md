@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-701 songs - 1 day 11 hr 0 min
+704 songs - 1 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Hey Sexy Lady](https://open.spotify.com/track/4LwRGTfL5kxJEHWl98usFa) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [BEYGE](https://open.spotify.com/artist/6BhuVLszd4KFPknoq0TIHD) | [Hey Sexy Lady](https://open.spotify.com/album/32SEMS9z4SR2qGc6Fnbqpf) | 2:28 | 2023-05-11 | 2023-12-14 |
 | [High](https://open.spotify.com/track/61m6b5Q6NIxaqy1sP6Z85z) | [Ralph Aiden](https://open.spotify.com/artist/5fXmlRBu03gCsdz5ZJpkYB) | [High](https://open.spotify.com/album/6oK3VPs7wnquNSsyh7gcBZ) | 2:36 | 2024-03-22 | 2024-04-13 |
 | [High As F\*ck](https://open.spotify.com/track/5IRj8IqTJ6EWTItKthvE47) | [Cody Chase](https://open.spotify.com/artist/11Rj7CAcqgC6BQylgzF8Di) | [High As F\*ck](https://open.spotify.com/album/3hW7IDz0QN3QNjOXO3GzqA) | 3:06 | 2023-12-19 |  |
+| [High For This](https://open.spotify.com/track/3EVdjxPeVxFBMcVVnwJhQv) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [High For This](https://open.spotify.com/album/0D5083Azr6y2h23yoccdxC) | 4:01 | 2024-07-29 |  |
 | [Hit The Club](https://open.spotify.com/track/4AlA1z25JYMU1kgmgCc8St) | [DBF](https://open.spotify.com/artist/3p9cbFUvSrQeLgpm7Go8ky) | [Hit The Club](https://open.spotify.com/album/67vJ3MyRTpkoT8dvN8rueX) | 2:28 | 2024-03-22 | 2024-04-13 |
 | [Hold It!](https://open.spotify.com/track/3X9SnxN9a2wIngzahD2UWa) | [Rimbano](https://open.spotify.com/artist/3v1oNkquKNV6nyXjpQvF3W) | [Hold It!](https://open.spotify.com/album/3f5EBvYhhWTMARyUJnJmJe) | 3:18 | 2023-08-03 | 2023-12-14 |
 | [Hold Up](https://open.spotify.com/track/1TXxy5fiycEyA7d7EdAbIW) | [Nautik](https://open.spotify.com/artist/4cXLx50kaRAc7B0ZQFP1Qa) | [Hold Up](https://open.spotify.com/album/3hmuaQHrZbsuXd6cEhlCks) | 2:46 | 2023-02-12 | 2023-04-13 |
@@ -396,6 +397,7 @@
 | [Mesmerize](https://open.spotify.com/track/02hqI4JJPBb9mLDIwGIDSN) | [Yves Larock](https://open.spotify.com/artist/2P1h10tRBVlC2lVUqhl6wm), [Oomloud](https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P) | [Mesmerize](https://open.spotify.com/album/4TO0LQXI0yjMNmFsPKGeXr) | 2:42 | 2024-01-26 |  |
 | [Mi Gente](https://open.spotify.com/track/5nYWOu3zriPJJvHh9j2hpS) | [LV](https://open.spotify.com/artist/3aCyI9bM14mcQajmM5641q) | [Mi Gente](https://open.spotify.com/album/3OeHdvzXW7J61LgSFHpo7d) | 2:30 | 2024-06-11 |  |
 | [Milkshake](https://open.spotify.com/track/5Yca8jvaCBFzmrRbMfCQ2R) | [crane the brain](https://open.spotify.com/artist/0Fk9eLW8B0Q2NtPIESOEwf) | [Milkshake](https://open.spotify.com/album/71tc9qiePDKTiim5XgHwwS) | 2:13 | 2023-08-18 | 2023-09-26 |
+| [Mind](https://open.spotify.com/track/3INIUb9L6IiYFRUa0CqsQ8) | [Wouter S](https://open.spotify.com/artist/2FBOvuH967tVxaLwNzJSz1) | [Mind](https://open.spotify.com/album/0IVOLNrvbgmILSokGUid6N) | 4:19 | 2024-07-29 |  |
 | [Mirage](https://open.spotify.com/track/75S3FnIK2s3RfgB0t0vRzB) | [Thvndex](https://open.spotify.com/artist/0Eospqk319OpNppJNNb4Ol), [Snrs](https://open.spotify.com/artist/61mK2JbF5F6tqgZOJMWloW) | [Mirage](https://open.spotify.com/album/3TC7eVdKHCvUYabxqpakyI) | 2:54 | 2024-05-17 |  |
 | [Mirror Mirror](https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Mirror Mirror](https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw) | 4:07 | 2023-07-20 | 2023-12-23 |
 | [Mirror Mirror \(Showtek 360 Blue Edit\)](https://open.spotify.com/track/61Iu6ZZxqusXV5Zpu2oiyT) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Mirror Mirror \(Showtek 360 Blue Edit\)](https://open.spotify.com/album/55ZS8saRiWagdQxDnarJnC) | 3:07 | 2024-01-05 |  |
@@ -702,6 +704,7 @@
 | [You Are](https://open.spotify.com/track/3smSBKf1rot6aY2ScAMO8p) | [Lost Capital](https://open.spotify.com/artist/0ig9HLfNn48EddTcRy2x0t) | [Overture EP](https://open.spotify.com/album/0fA7O4H8tEI6NBk4U9jqsm) | 2:23 | 2023-02-12 | 2023-04-13 |
 | [You Are My Guide](https://open.spotify.com/track/5u6AIMfldHGa1Fii7puEw0) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [You Are My Guide](https://open.spotify.com/album/2zDhAIky85X0Mn39O047bn) | 3:34 | 2023-07-14 | 2023-12-14 |
 | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx) | 2:50 | 2023-02-12 | 2023-04-13 |
+| [You Got Heat \- Radio edit](https://open.spotify.com/track/6hH6ecSGyv2kXfMbknEX9S) | [Mick Jansen](https://open.spotify.com/artist/3GTeyz3C1JlYooq2HzwwcT), [Jerry Luca](https://open.spotify.com/artist/6rHDQG5EAhPAO9tLNh8LQr) | [You Got Heat](https://open.spotify.com/album/40YAosrDFxpayxG1FGoTRk) | 3:33 | 2024-07-29 |  |
 | [You Know Why](https://open.spotify.com/track/3DmgJJ6pYbfZQyPsVU2EOC) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK) | [You Know Why](https://open.spotify.com/album/1HocLD4SG28EmjAZJLdr60) | 2:20 | 2023-09-29 | 2023-12-23 |
 | [You Talkin'](https://open.spotify.com/track/0V3OXJgLiRK8yezOxVsr49) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [You Talkin'](https://open.spotify.com/album/17OGNhyHM0gCe9ACFi7YFY) | 2:47 | 2023-06-02 | 2023-06-09 |
 | [You Want It](https://open.spotify.com/track/3x8DRRXJWjOvcs6pnJPqQ8) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [NOME.](https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93) | [You Want It](https://open.spotify.com/album/7CfHCIkumlzy6es6UDaFLo) | 2:49 | 2023-10-26 |  |

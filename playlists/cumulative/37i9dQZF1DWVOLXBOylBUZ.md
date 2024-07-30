@@ -4,7 +4,7 @@
 
 > Latinoamérica baila al ritmo de Piso 21 y Ozuna.
 
-983 songs - 2 day 3 hr 56 min
+984 songs - 2 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,6 +500,7 @@
 | [Llamando](https://open.spotify.com/track/5mb2fojS7ld7pcSOPUo6Vo) | [Tachi](https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U) | [Family Ties](https://open.spotify.com/album/4Ni9i51tUpUzJB0fhCOwVJ) | 3:06 | 2022-09-02 | 2022-12-10 |
 | [Llorando en un Ferrari](https://open.spotify.com/track/0x4Kmsd1YLB9emO8thJ62U) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:13 | 2022-01-07 | 2022-01-15 |
 | [LLUVIA DE MAYO](https://open.spotify.com/track/3lGmAio18bOaTWqp4LjX1f) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Baby Yami](https://open.spotify.com/artist/3A1tF3YZ0Xa5IBo3NG32k4) | [PARA TODAS LAS MAMACITAS](https://open.spotify.com/album/3vybLae46btPWds1OXSHTK) | 3:41 | 2024-06-28 |  |
+| [Lo Caro y Lo Bueno](https://open.spotify.com/track/2AhTzExaPgf9A8AXK2D2QW) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Lo Caro y Lo Bueno](https://open.spotify.com/album/0OfQaUoTd5zBiB7J9KdjbX) | 3:16 | 2024-07-29 |  |
 | [Location](https://open.spotify.com/track/0tvrucEjmw7aNS9qBSHO4l) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi) | [Location](https://open.spotify.com/album/1GrXGufWR0SpirLdB3fIMj) | 2:05 | 2022-05-27 | 2022-10-01 |
 | [Loco](https://open.spotify.com/track/5QaGdJsaC5xvFhBi7TVLGl) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Loco](https://open.spotify.com/album/2uSOp7hmFukPAZqn4lJWpI) | 3:33 | 2022-10-28 | 2023-03-04 |
 | [Loco](https://open.spotify.com/track/6WeJGp7MB7sEEf9InLEvh1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Loco](https://open.spotify.com/album/32gGR2it3KcYu8geETxC3V) | 3:59 | 2022-01-07 | 2022-07-01 |
@@ -834,7 +835,7 @@
 | [Somos Iguales](https://open.spotify.com/track/3uZgr5fHIzOAc3sjX5zHc1) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Louchie Lou](https://open.spotify.com/artist/4DxlG8gbthzgDeDZiywaoQ), [Michie One](https://open.spotify.com/artist/1otleRGxIU5q64yzCNUHsi) | [Somos Iguales](https://open.spotify.com/album/3Q9cZSRC2at6mZjfdOlVJ3) | 2:52 | 2022-08-12 | 2022-11-05 |
 | [Sonrisa](https://open.spotify.com/track/3MbbbpxLOnWUCpzS6hRN4e) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:32 | 2024-01-19 |  |
 | [Sonrisa Falsa \(with Sael\)](https://open.spotify.com/track/78SjIkujtNsOewFNlrlr08) | [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Sonrisa Falsa \(with Sael\)](https://open.spotify.com/album/2eNuiAh01VnngVxzOakLey) | 3:02 | 2022-05-06 | 2022-09-20 |
-| [SORNERITA](https://open.spotify.com/track/3ZqO2DY8gfRA2nSKJuuBrz) | [El High](https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp), [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [SORNERITA](https://open.spotify.com/album/453jwTxCzUQbLIOutkVUgK) | 3:12 | 2024-05-17 |  |
+| [SORNERITA](https://open.spotify.com/track/3ZqO2DY8gfRA2nSKJuuBrz) | [El High](https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp), [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [SORNERITA](https://open.spotify.com/album/453jwTxCzUQbLIOutkVUgK) | 3:12 | 2024-05-17 | 2024-07-30 |
 | [Soy Yo](https://open.spotify.com/track/20Ca0pIyUwu9jIUJ2sr5cg) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Soy Yo](https://open.spotify.com/album/7JuLd58gOTogWvAwNyYggp) | 3:38 | 2022-04-22 | 2022-09-20 |
 | [Soñando Despierto](https://open.spotify.com/track/2xismjBOecrJI9aqBzGMep) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [El Amor y Yo](https://open.spotify.com/album/0SoLGv62pYVM9w254yM8lf) | 2:56 | 2022-02-11 | 2022-05-07 |
 | [Soñé Contigo](https://open.spotify.com/track/3TqRlg6yVni12jgORANsV4) | [Said P.](https://open.spotify.com/artist/7FTaKYmmXrFTUBpwDWAvHe), [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Soñé Contigo](https://open.spotify.com/album/69O6X26jC68KhKElCY9w8Q) | 2:38 | 2022-05-13 | 2022-08-20 |

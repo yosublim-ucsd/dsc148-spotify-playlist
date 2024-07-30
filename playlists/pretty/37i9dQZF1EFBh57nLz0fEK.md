@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jTifM0MFAVzFVvYIpez2Z">Tommy Parker</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37 likes - 89 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 37 likes - 90 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 67 | [Pay for the Pain](https://open.spotify.com/track/37tYiGnTLQgu5PnSI7R7m0) | [Gild Walton](https://open.spotify.com/artist/2ienhCqiGU2x3g8jbLwx2s) | [Pay for the Pain](https://open.spotify.com/album/0vskX5pm17kkNLiSYWfcjW) | 2:42 |
 | 68 | [Shinanigins](https://open.spotify.com/track/6YTpBXHHEY0PGTxOkJX6wX) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 2:42 |
 | 69 | [Bloodline](https://open.spotify.com/track/2qvrRtYFN7MGRokO77TZKK) | [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [The Birth of a Nation: The Inspired By Album](https://open.spotify.com/album/6miimmKAefrNxnErwCTGmj) | 4:12 |
-| 70 | [Dance Scream](https://open.spotify.com/track/4Q1Rd72FnS8xWPg7tHaVDf) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:04 |
-| 71 | [Double Tragedy](https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Double Tragedy](https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H) | 2:45 |
+| 70 | [Double Tragedy](https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Double Tragedy](https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H) | 2:45 |
+| 71 | [Dance Scream](https://open.spotify.com/track/4Q1Rd72FnS8xWPg7tHaVDf) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:04 |
 | 72 | [Menage a Trois](https://open.spotify.com/track/6xS4BdN2QBNN6AjSOXy0Q0) | [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Highway 85](https://open.spotify.com/album/6LjVjNpmVDtop3I7X5v5oU) | 3:50 |
 | 73 | [Undone](https://open.spotify.com/track/6YYvmiGNCVtkhfVqFWWIwZ) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022) | [The Reset](https://open.spotify.com/album/6YLCRtqGScLXhJpkRS2Tff) | 3:40 |
 | 74 | [Lil Slime](https://open.spotify.com/track/5qiCLYqvRSzo0BtW5lQfs1) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [Beautiful Michi Girls](https://open.spotify.com/album/66FVuwCSWibe0HDy99KKmo) | 3:04 |
@@ -90,12 +90,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 80 | [I Just Need Love](https://open.spotify.com/track/1lK1Jj98gtUsyVl8dXkFVm) | [Sonny](https://open.spotify.com/artist/7M32CCGFBfGnTWfQuLngrb) | [International](https://open.spotify.com/album/1Zp6KLtrpzJwyB5zMzg5H1) | 3:22 |
 | 81 | [Chemistry \- Interlude](https://open.spotify.com/track/6SvuY3OO9xuaVNaV3ZYB1s) | [Jcksn Ave.](https://open.spotify.com/artist/37GcQTOtCy5LuitT57a8mu) | [They Cloned Tyrone \(Music from and Inspired by the Netflix Film\)](https://open.spotify.com/album/7mr0vhCKqriCbhPXlY1z1v) | 2:01 |
 | 82 | [Strongest Woman I Know](https://open.spotify.com/track/4JsPASwBKWutGo84Na2oQ8) | [Rob Markman](https://open.spotify.com/artist/2bUUwnuZ9pezPvPzGwanok), [Dj Money](https://open.spotify.com/artist/5Gqwy9rFNhFIlgk3rCUiN7) | [If You Don't You'll Regret It](https://open.spotify.com/album/4CRWN3kSdIc7U2qo4SUXFH) | 3:38 |
-| 83 | [Save The World \(On The Dance Floor\)](https://open.spotify.com/track/3wsSqwEfXOgum2fnEGK39A) | [Sonny](https://open.spotify.com/artist/7M32CCGFBfGnTWfQuLngrb) | [International](https://open.spotify.com/album/1Zp6KLtrpzJwyB5zMzg5H1) | 3:53 |
-| 84 | [Tale Of 2 Legends](https://open.spotify.com/track/0AxEBo30NXf2NhZa1GEwxC) | [Humble Soles](https://open.spotify.com/artist/0js1ol9cMZymg0PcJdAbmv), [DJ Clue](https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf), [Tyre Hakim](https://open.spotify.com/artist/330cgYbAbvsjcSQPrhPwLJ), [RJAE](https://open.spotify.com/artist/0PnrpdWmz1aJYJfNPUejmk) | [Humble Soles](https://open.spotify.com/album/7ByYlJNaU5HDMX4McPX4DR) | 2:56 |
-| 85 | [Highway to the Sky](https://open.spotify.com/track/3Mxex1RPQ8JpU9hiYX5cy5) | [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Highway 85](https://open.spotify.com/album/6LjVjNpmVDtop3I7X5v5oU) | 2:57 |
-| 86 | [What Did I Lose to Love You](https://open.spotify.com/track/5GMa5YK123sRZMMVZtc8hP) | [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Highway 85](https://open.spotify.com/album/6LjVjNpmVDtop3I7X5v5oU) | 3:23 |
-| 87 | [Where Were You](https://open.spotify.com/track/1VeWQU4FLcsoMPLsasN1aR) | [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Highway 85](https://open.spotify.com/album/6LjVjNpmVDtop3I7X5v5oU) | 3:32 |
-| 88 | [This Time](https://open.spotify.com/track/2vhYlpTjJR6WNcLbt6VohD) | [PARADISE LTD](https://open.spotify.com/artist/0ahtFYd681pvCSkj1vh8lv), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp) | [Blood, Sweat & Tears](https://open.spotify.com/album/1agGkgiRsIb0lC6TUApqDS) | 4:07 |
-| 89 | [INTERLUDE](https://open.spotify.com/track/4RyDxpwqXhN5zI39QumvVe) | [T$](https://open.spotify.com/artist/00xAzuaRdsIegeqqDtlzae), [Willie Truitt](https://open.spotify.com/artist/3rrNr8VdtVf9y7PBg5xS9w) | [PURPLE BLOOD](https://open.spotify.com/album/4ECQGzAEn0Vj0RiPWLh1gH) | 0:37 |
+| 83 | [Big Wheel Whippin'](https://open.spotify.com/track/3gSsZVKLIzKzQit8weYbm1) | [Playaz Circle](https://open.spotify.com/artist/5gV9T9VSwhHBlHcRMojEZw) | [Flight 360: The Takeoff](https://open.spotify.com/album/4jCIFGa5tGSh7LeTmPwcS2) | 4:29 |
+| 84 | [Save The World \(On The Dance Floor\)](https://open.spotify.com/track/3wsSqwEfXOgum2fnEGK39A) | [Sonny](https://open.spotify.com/artist/7M32CCGFBfGnTWfQuLngrb) | [International](https://open.spotify.com/album/1Zp6KLtrpzJwyB5zMzg5H1) | 3:53 |
+| 85 | [Tale Of 2 Legends](https://open.spotify.com/track/0AxEBo30NXf2NhZa1GEwxC) | [Humble Soles](https://open.spotify.com/artist/0js1ol9cMZymg0PcJdAbmv), [DJ Clue](https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf), [Tyre Hakim](https://open.spotify.com/artist/330cgYbAbvsjcSQPrhPwLJ), [RJAE](https://open.spotify.com/artist/0PnrpdWmz1aJYJfNPUejmk) | [Humble Soles](https://open.spotify.com/album/7ByYlJNaU5HDMX4McPX4DR) | 2:56 |
+| 86 | [Highway to the Sky](https://open.spotify.com/track/3Mxex1RPQ8JpU9hiYX5cy5) | [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Highway 85](https://open.spotify.com/album/6LjVjNpmVDtop3I7X5v5oU) | 2:57 |
+| 87 | [What Did I Lose to Love You](https://open.spotify.com/track/5GMa5YK123sRZMMVZtc8hP) | [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Highway 85](https://open.spotify.com/album/6LjVjNpmVDtop3I7X5v5oU) | 3:23 |
+| 88 | [Where Were You](https://open.spotify.com/track/1VeWQU4FLcsoMPLsasN1aR) | [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Highway 85](https://open.spotify.com/album/6LjVjNpmVDtop3I7X5v5oU) | 3:32 |
+| 89 | [This Time](https://open.spotify.com/track/2vhYlpTjJR6WNcLbt6VohD) | [PARADISE LTD](https://open.spotify.com/artist/0ahtFYd681pvCSkj1vh8lv), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp) | [Blood, Sweat & Tears](https://open.spotify.com/album/1agGkgiRsIb0lC6TUApqDS) | 4:07 |
+| 90 | [INTERLUDE](https://open.spotify.com/track/4RyDxpwqXhN5zI39QumvVe) | [T$](https://open.spotify.com/artist/00xAzuaRdsIegeqqDtlzae), [Willie Truitt](https://open.spotify.com/artist/3rrNr8VdtVf9y7PBg5xS9w) | [PURPLE BLOOD](https://open.spotify.com/album/4ECQGzAEn0Vj0RiPWLh1gH) | 0:37 |
 
-Snapshot ID: `AbX7rAAAAACwoF3+ifpHe7uqkUGkRLGC`
+Snapshot ID: `AbYBTAAAAAC2E0nCHJo7k6z4dMF7utwB`

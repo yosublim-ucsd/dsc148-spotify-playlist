@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Rymz",
-  "num_followers": 41384,
+  "num_followers": 41387,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,42 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "D&D",
+        "url": "https://open.spotify.com/album/7EznJ3BjBGXxRgNSC6n610"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "duration_ms": 197913,
+      "name": "Pas Comme \u00c7a",
+      "url": "https://open.spotify.com/track/5Os3fdIL2QS2e1r6JzMrjQ"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "HOL\u00c9MAINS",
+        "url": "https://open.spotify.com/album/396KjkdP3ImwVWyXkAr20R"
+      },
+      "artists": [
+        {
+          "name": "DVinyle",
+          "url": "https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "HOL\u00c9MAINS",
+      "url": "https://open.spotify.com/track/1r0wKIQV2p6koGNfvxwh16"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "VENI VIDI VICI",
         "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
       },
@@ -347,42 +383,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "HOL\u00c9MAINS",
-        "url": "https://open.spotify.com/album/396KjkdP3ImwVWyXkAr20R"
-      },
-      "artists": [
-        {
-          "name": "DVinyle",
-          "url": "https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "HOL\u00c9MAINS",
-      "url": "https://open.spotify.com/track/1r0wKIQV2p6koGNfvxwh16"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "D&D",
-        "url": "https://open.spotify.com/album/7EznJ3BjBGXxRgNSC6n610"
-      },
-      "artists": [
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        },
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        }
-      ],
-      "duration_ms": 197913,
-      "name": "Pas Comme \u00c7a",
-      "url": "https://open.spotify.com/track/5Os3fdIL2QS2e1r6JzMrjQ"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Exigeant",
         "url": "https://open.spotify.com/album/4s1OtnOA77OmEhBRfGHbIp"
       },
@@ -399,6 +399,38 @@
       "duration_ms": 237096,
       "name": "Exigeant",
       "url": "https://open.spotify.com/track/0gCimQo50N1EdfhNzYNVBp"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Monaco",
+        "url": "https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "duration_ms": 141314,
+      "name": "Monaco",
+      "url": "https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Ice Cream",
+        "url": "https://open.spotify.com/album/62FKXmAjKmJnMeg7GaSfWi"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/1TL0xU4txhsLwKAFl29N5Z"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -423,22 +455,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Ice Cream",
-        "url": "https://open.spotify.com/album/62FKXmAjKmJnMeg7GaSfWi"
-      },
-      "artists": [
-        {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/1TL0xU4txhsLwKAFl29N5Z"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Miss France",
         "url": "https://open.spotify.com/album/1buUBxn64TLTYXxTAZGhzy"
       },
@@ -455,18 +471,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Monaco",
-        "url": "https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT"
+        "name": "T.I.A - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B"
       },
       "artists": [
         {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         }
       ],
-      "duration_ms": 141314,
-      "name": "Monaco",
-      "url": "https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY"
+      "duration_ms": 221000,
+      "name": "T.I.A - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -555,22 +571,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "T.I.A - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B"
-      },
-      "artists": [
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "T.I.A - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "LVDR",
         "url": "https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 161666,
       "name": "Shayo",
       "url": "https://open.spotify.com/track/2e7qqQ8MkLa0h5xmHL5cso"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "LA M\u00caME HISTOIRE",
+        "url": "https://open.spotify.com/album/1q67Fv3Ccr8yAOrtVD7F7U"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "duration_ms": 132682,
+      "name": "LA M\u00caME HISTOIRE",
+      "url": "https://open.spotify.com/track/6I6nQIBRYlQLMT58liSyWI"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -611,22 +627,6 @@
       "duration_ms": 167226,
       "name": "Tout y est",
       "url": "https://open.spotify.com/track/1W2zRAejDGNLqtqXpcrhVw"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "LA M\u00caME HISTOIRE",
-        "url": "https://open.spotify.com/album/1q67Fv3Ccr8yAOrtVD7F7U"
-      },
-      "artists": [
-        {
-          "name": "Djadja & Dinaz",
-          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
-        }
-      ],
-      "duration_ms": 132682,
-      "name": "LA M\u00caME HISTOIRE",
-      "url": "https://open.spotify.com/track/6I6nQIBRYlQLMT58liSyWI"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "SD Night",
+        "url": "https://open.spotify.com/album/4hQDYoPdi19Fkd0BJPLhp6"
+      },
+      "artists": [
+        {
+          "name": "VEN1",
+          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
+        }
+      ],
+      "duration_ms": 182535,
+      "name": "SD Night",
+      "url": "https://open.spotify.com/track/7E8RJY17lUK5W7J1TDFd6z"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "R\u00e9sister (What about Peace?)",
         "url": "https://open.spotify.com/album/3lrK6iynnWj1oO1fONiQ9I"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 172500,
       "name": "PAF",
       "url": "https://open.spotify.com/track/2RGG3LWnqjEHpplIkieJqP"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "SD Night",
-        "url": "https://open.spotify.com/album/4hQDYoPdi19Fkd0BJPLhp6"
-      },
-      "artists": [
-        {
-          "name": "VEN1",
-          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
-        }
-      ],
-      "duration_ms": 182535,
-      "name": "SD Night",
-      "url": "https://open.spotify.com/track/7E8RJY17lUK5W7J1TDFd6z"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Chor\u00e9",
+        "url": "https://open.spotify.com/album/2RRwrVWsZeNCTq6y3ORp20"
+      },
+      "artists": [
+        {
+          "name": "Hatik",
+          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
+        }
+      ],
+      "duration_ms": 180228,
+      "name": "Chor\u00e9",
+      "url": "https://open.spotify.com/track/2J6iYDncej8Z1vOiisz7zN"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Solide",
         "url": "https://open.spotify.com/album/1HIdu8IIaYSb5awkKL4Md8"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 208645,
       "name": "Play",
       "url": "https://open.spotify.com/track/3aLBTbiSEgxDPn3FvVghCD"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Chor\u00e9",
-        "url": "https://open.spotify.com/album/2RRwrVWsZeNCTq6y3ORp20"
-      },
-      "artists": [
-        {
-          "name": "Hatik",
-          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
-        }
-      ],
-      "duration_ms": 180228,
-      "name": "Chor\u00e9",
-      "url": "https://open.spotify.com/track/2J6iYDncej8Z1vOiisz7zN"
     },
     {
       "added_at": "2024-07-26 04:00:00",

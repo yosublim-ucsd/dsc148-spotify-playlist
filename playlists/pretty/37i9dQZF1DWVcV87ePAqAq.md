@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Flaket kommer studsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,125 likes - 73 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,095 likes - 73 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 32 | [Pepas \- David Guetta Remix \- Radio Edit](https://open.spotify.com/track/5fWG4JDot8nHCte7gUdMUS) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Pepas \(David Guetta Remix \- Radio Edit\)](https://open.spotify.com/album/33Tinkyhfj60QVXtZIArYJ) | 2:51 |
 | 33 | [T.N.T\. \- Techno Remix](https://open.spotify.com/track/6l514NhnJZJgHgYFeimsWs) | [Nic Johnston](https://open.spotify.com/artist/573SWshgzKIZpBwaiDZdat) | [T.N.T\. \(Techno Remix\)](https://open.spotify.com/album/4NydermwrtbQyYQfsawidt) | 2:17 |
 | 34 | [Whatever \(with Ava Max\) \- Tiësto Remix](https://open.spotify.com/track/5uiQAY4i9oTGf79rgcf5jr) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Whatever \(with Ava Max\) \- Tiësto Remix](https://open.spotify.com/album/3vN2jv2disCD8vZEzZIv5Q) | 2:45 |
-| 35 | [Hit The Road Jack](https://open.spotify.com/track/5r6SF3GZpuEagE9JcXPVuV) | [Bisken](https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf), [Millows](https://open.spotify.com/artist/5GQeYhFPfFWauYWJXMJ1BG) | [Hit The Road Jack](https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu) | 2:06 |
-| 36 | [Bailar \(feat\. Elvis Crespo\) \- Radio Edit](https://open.spotify.com/track/45sGyAtAxD6efaN0bJAFgh) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Bailar \(feat\. Elvis Crespo\) \[Radio Edit\]](https://open.spotify.com/album/1tAISk8OvvhU8V5QGuXyJS) | 2:17 |
+| 35 | [Bailar \(feat\. Elvis Crespo\) \- Radio Edit](https://open.spotify.com/track/45sGyAtAxD6efaN0bJAFgh) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Bailar \(feat\. Elvis Crespo\) \[Radio Edit\]](https://open.spotify.com/album/1tAISk8OvvhU8V5QGuXyJS) | 2:17 |
+| 36 | [Hit The Road Jack](https://open.spotify.com/track/5r6SF3GZpuEagE9JcXPVuV) | [Bisken](https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf), [Millows](https://open.spotify.com/artist/5GQeYhFPfFWauYWJXMJ1BG) | [Hit The Road Jack](https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu) | 2:06 |
 | 37 | [UNGA & FRIA](https://open.spotify.com/track/2ArX0SzCSHXytmAg36BIev) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [UNGA & FRIA](https://open.spotify.com/album/07w87eimESXFgxpCI191vp) | 3:02 |
 | 38 | [Shots & Squats](https://open.spotify.com/track/5nIrdpo8eXQU3YgZelEXkd) | [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds), [Tham Sway](https://open.spotify.com/artist/3sEqETeMb1urfCoVUhdjUv) | [Shots & Squats](https://open.spotify.com/album/2oww4CllHtrPPeMId1UUjA) | 2:51 |
 | 39 | [We No Speak Americano](https://open.spotify.com/track/0CJ1quCQhVX9Ax2jYwwovA) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [DCup](https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt) | [We No Speak Americano](https://open.spotify.com/album/57qvObQidfcN8quFMvQOXm) | 4:29 |

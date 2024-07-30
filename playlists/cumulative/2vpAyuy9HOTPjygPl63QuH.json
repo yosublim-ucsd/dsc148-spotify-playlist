@@ -33943,6 +33943,24 @@
     },
     {
       "album": {
+        "name": "The Way You Act",
+        "url": "https://open.spotify.com/album/7aV6ojZOYkd9FGvSXayF8c"
+      },
+      "artists": [
+        {
+          "name": "Labeeb",
+          "url": "https://open.spotify.com/artist/5Wm9RIPoJKWlJNEE9iZDe0"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218169,
+      "name": "The Way You Act",
+      "url": "https://open.spotify.com/track/28Dj2arHz2IM8PMSI5NCjz"
+    },
+    {
+      "album": {
         "name": "The Weekend / Control the Media",
         "url": "https://open.spotify.com/album/3Xc6RzQVgNWt6LrQr4nwdI"
       },

@@ -8361,6 +8361,28 @@
     },
     {
       "album": {
+        "name": "PARTY",
+        "url": "https://open.spotify.com/album/0sJoDFsVQN657EwQCXCChE"
+      },
+      "artists": [
+        {
+          "name": "Darby",
+          "url": "https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m"
+        },
+        {
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128695,
+      "name": "PARTY",
+      "url": "https://open.spotify.com/track/7JjY69WrRWHtY09Wn9V1tv"
+    },
+    {
+      "album": {
         "name": "Heartbreak County, Vol. 2 (Remix Pack)",
         "url": "https://open.spotify.com/album/5J5GdWxNopj6y7Sf4iIqDA"
       },

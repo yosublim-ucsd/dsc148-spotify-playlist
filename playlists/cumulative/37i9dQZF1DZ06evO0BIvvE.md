@@ -2,7 +2,7 @@
 
 ### [This Is Billy Paul](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BIvvE)
 
-> This Is Billy Paul\. Los temas esenciales, todos en una lista.
+> This is Billy Paul\. The essential tracks, all in one playlist.
 
 77 songs - 6 hr 19 min
 
@@ -60,9 +60,9 @@
 | [Mrs\. Robinson](https://open.spotify.com/track/4jJ2YMKm2FqIvn7p85pSJY) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Ebony Woman](https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc) | 4:29 | 2022-05-25 |  |
 | [My Head's On Straight](https://open.spotify.com/track/3bL3Q7RPzST59rgRLo7koY) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Got My Head On Straight](https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo) | 3:11 | 2022-05-25 |  |
 | [On A Clear Day \(You Can See Forever\)](https://open.spotify.com/track/4d60Vgve7bbcFfnEkeZqn4) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Feelin' Good at the Cadillac Club](https://open.spotify.com/album/5HV7hyk7LSoLaE5RU8x8eR) | 4:36 | 2022-05-27 | 2024-01-29 |
-| [One Man's Junk](https://open.spotify.com/track/7ugJ3cdJ1MxBRHEKxFsHtu) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 3:16 | 2022-05-30 |  |
+| [One Man's Junk](https://open.spotify.com/track/7ugJ3cdJ1MxBRHEKxFsHtu) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 3:16 | 2022-05-30 | 2024-07-30 |
 | [Only the Strong Survive](https://open.spotify.com/track/1TEDAg7S7iClCBtpvaQQGA) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 5:35 | 2022-05-25 |  |
-| [Peace Holy Peace](https://open.spotify.com/track/67hMdEjp5GX1wr4zl1arz5) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [War of the Gods \(Expanded Edition\)](https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw) | 6:54 | 2022-05-27 | 2024-07-29 |
+| [Peace Holy Peace](https://open.spotify.com/track/67hMdEjp5GX1wr4zl1arz5) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [War of the Gods \(Expanded Edition\)](https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw) | 6:54 | 2022-05-27 |  |
 | [People Power](https://open.spotify.com/track/5WKZLDgbyEIgRql76MCc8Y) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [When Love Is New](https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS) | 4:17 | 2022-05-25 |  |
 | [People Power](https://open.spotify.com/track/6juHCyYwxA0DrklqGnb1QU) | [Don Arcadio](https://open.spotify.com/artist/6ihzZuNxERm0dxAQltMHjh), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [People Power](https://open.spotify.com/album/6iymwlZyrYoH4V18jwg8HR) | 5:49 | 2022-06-25 | 2023-10-02 |
 | [Sexual Therapy](https://open.spotify.com/track/33AzzJGC47kRAAJjwCBhe1) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Lately](https://open.spotify.com/album/7C5aOmsPLgSPGdmy0kpS2I) | 4:34 | 2023-08-11 | 2023-08-15 |

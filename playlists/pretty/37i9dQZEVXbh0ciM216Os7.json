@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACWtgY2cSgk5pRYqahJk6Zc",
+  "snapshot_id": "AAAAAAAAAAB0zmhgai9zMHYy2NgS0/RT",
   "tracks": [
     {
       "added_at": "2024-07-26 04:00:00",
@@ -79,6 +79,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Revelations EP",
+        "url": "https://open.spotify.com/album/1TJ09NFDK7lveBPR6uYm1Y"
+      },
+      "artists": [
+        {
+          "name": "Prince Love 1982",
+          "url": "https://open.spotify.com/artist/5sdmnc7P9NLKrNtWeObg5m"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 218881,
+      "name": "The Return of Tony Stark",
+      "url": "https://open.spotify.com/track/6odwEcHNM5h2CUjnmiP9xV"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Meant to Be",
         "url": "https://open.spotify.com/album/5KJJZvlrr5hPughyJ5JQrs"
       },
@@ -123,22 +143,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Revelations EP",
-        "url": "https://open.spotify.com/album/1TJ09NFDK7lveBPR6uYm1Y"
+        "name": "Lighter (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1fpfJ35fZUHVLP2VBXk2B5"
       },
       "artists": [
         {
-          "name": "Prince Love 1982",
-          "url": "https://open.spotify.com/artist/5sdmnc7P9NLKrNtWeObg5m"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         },
         {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
         }
       ],
-      "duration_ms": 218881,
-      "name": "The Return of Tony Stark",
-      "url": "https://open.spotify.com/track/6odwEcHNM5h2CUjnmiP9xV"
+      "duration_ms": 200917,
+      "name": "Lighter - Acoustic Version",
+      "url": "https://open.spotify.com/track/6SqIXocvZ3NnZWjwqwQif9"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -195,26 +215,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Lighter (Acoustic Version)",
-        "url": "https://open.spotify.com/album/1fpfJ35fZUHVLP2VBXk2B5"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 200917,
-      "name": "Lighter - Acoustic Version",
-      "url": "https://open.spotify.com/track/6SqIXocvZ3NnZWjwqwQif9"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "PARIS IN LOVE (Live)",
         "url": "https://open.spotify.com/album/2vm5G9XsPLmp946fCO2AbZ"
       },
@@ -226,11 +226,23 @@
         {
           "name": "IAM",
           "url": "https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7"
+        },
+        {
+          "name": "Oxmo Puccino",
+          "url": "https://open.spotify.com/artist/44bvfFf9VeGwVjK0QDqQ7O"
+        },
+        {
+          "name": "Benjamin Epps",
+          "url": "https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn"
+        },
+        {
+          "name": "Sly Johnson",
+          "url": "https://open.spotify.com/artist/24k5M16PEcrJudqAYEoLB7"
         }
       ],
-      "duration_ms": 232092,
-      "name": "O\u00d9 VA LA VIE - Live",
-      "url": "https://open.spotify.com/track/282YkdNNEu3bbp8tQfr5ig"
+      "duration_ms": 338018,
+      "name": "FRENCH RAP JAM - Live",
+      "url": "https://open.spotify.com/track/06ocEas9zMiYgU6gY3n2x7"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -319,22 +331,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "A Bar Song (Tipsy)",
-        "url": "https://open.spotify.com/album/3NOo89RhpGQUHGWEhvE8jc"
-      },
-      "artists": [
-        {
-          "name": "Black Alley",
-          "url": "https://open.spotify.com/artist/4O7xE3mpAOnolHQovF4C2R"
-        }
-      ],
-      "duration_ms": 204545,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/221anSbYZzWbghtK9h3usE"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "the boy is mine",
         "url": "https://open.spotify.com/album/2isY5pnJX1gyNzqVg7EECt"
       },
@@ -355,6 +351,22 @@
       "duration_ms": 212076,
       "name": "the boy is mine (with Brandy, Monica) \u2013 Remix a cappella",
       "url": "https://open.spotify.com/track/3IkYXPbjFyDRthPSEFApMr"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/3NOo89RhpGQUHGWEhvE8jc"
+      },
+      "artists": [
+        {
+          "name": "Black Alley",
+          "url": "https://open.spotify.com/artist/4O7xE3mpAOnolHQovF4C2R"
+        }
+      ],
+      "duration_ms": 204545,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/221anSbYZzWbghtK9h3usE"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -428,9 +440,9 @@
           "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
         }
       ],
-      "duration_ms": 842626,
-      "name": "Music in Contrary Motion",
-      "url": "https://open.spotify.com/track/0WBsx78AJcAOy16O3Y18Wu"
+      "duration_ms": 454372,
+      "name": "Bed Aria",
+      "url": "https://open.spotify.com/track/7g4cRC1Qpshg6zL48aAVW3"
     },
     {
       "added_at": "2024-07-26 04:00:00",

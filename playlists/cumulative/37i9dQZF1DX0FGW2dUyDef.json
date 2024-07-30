@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Aradan \u00c7ok Y\u0131llar Ge\u00e7ti",
+        "url": "https://open.spotify.com/album/4rsN93FJo8QLv2MLSiMivc"
+      },
+      "artists": [
+        {
+          "name": "Tu\u011f\u00e7e Kandemir",
+          "url": "https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170490,
+      "name": "Aradan \u00c7ok Y\u0131llar Ge\u00e7ti",
+      "url": "https://open.spotify.com/track/4CDY8eGMrkQjyOTkvsXiq0"
+    },
+    {
+      "album": {
         "name": "BAL",
         "url": "https://open.spotify.com/album/14jmglD62tPPu5yptZcSv4"
       },
@@ -472,7 +490,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 133608,
       "name": "favorite",
       "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
@@ -608,6 +626,24 @@
       "duration_ms": 128000,
       "name": "\u0130NT\u0130HAR",
       "url": "https://open.spotify.com/track/6G8XtIFpmAm0AUaCOJhTuS"
+    },
+    {
+      "album": {
+        "name": "Kadehimi Bo\u015f B\u0131rakma",
+        "url": "https://open.spotify.com/album/2wPU4kY5iynxmyqEC1sKZH"
+      },
+      "artists": [
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146979,
+      "name": "Kadehimi Bo\u015f B\u0131rakma",
+      "url": "https://open.spotify.com/track/7zrEhhtVuB0JpOeCgL5Tsr"
     },
     {
       "album": {
@@ -898,7 +934,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 181019,
       "name": "Sessizim",
       "url": "https://open.spotify.com/track/3sHbx4dQJkdUTAxKkHMxTr"

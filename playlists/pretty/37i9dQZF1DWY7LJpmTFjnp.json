@@ -1,6 +1,6 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Enanitos Verdes en portada. ",
-  "num_followers": 1000164,
+  "num_followers": 1000174,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
@@ -899,26 +899,6 @@
     {
       "added_at": "2024-07-19 20:39:03",
       "album": {
-        "name": "De vuelta a casa",
-        "url": "https://open.spotify.com/album/2vKUZNXh08ctZ9ItoKSQ30"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        },
-        {
-          "name": "Arde Bogot\u00e1",
-          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
-        }
-      ],
-      "duration_ms": 266175,
-      "name": "De vuelta a casa",
-      "url": "https://open.spotify.com/track/4ifNbWxNqrVlvkj7r4HWqB"
-    },
-    {
-      "added_at": "2024-07-19 20:39:03",
-      "album": {
         "name": "Golpes en el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 211268,
       "name": "Golpes en el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4"
+    },
+    {
+      "added_at": "2024-07-19 20:39:03",
+      "album": {
+        "name": "De vuelta a casa",
+        "url": "https://open.spotify.com/album/2vKUZNXh08ctZ9ItoKSQ30"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        },
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "duration_ms": 266175,
+      "name": "De vuelta a casa",
+      "url": "https://open.spotify.com/track/4ifNbWxNqrVlvkj7r4HWqB"
     },
     {
       "added_at": "2024-07-19 20:39:03",
@@ -1703,8 +1703,8 @@
     {
       "added_at": "2024-07-19 20:39:03",
       "album": {
-        "name": "La Bas(e)",
-        "url": "https://open.spotify.com/album/3otMnORRUkinKsR5EzwK68"
+        "name": "Un Segundo MTV Unplugged",
+        "url": "https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X"
       },
       "artists": [
         {
@@ -1712,9 +1712,9 @@
           "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 183640,
-      "name": "La Bas(e)",
-      "url": "https://open.spotify.com/track/4kpRAJOlfHuu24AzHvJ1GO"
+      "duration_ms": 326146,
+      "name": "Las Batallas/Rarotonga - MTV Unplugged",
+      "url": "https://open.spotify.com/track/0b0x5fdpSjvJ8LiYSPnWoF"
     }
   ],
   "unique_name": "La + Chingona",

@@ -4,7 +4,7 @@
 
 > Is it your favorite oppa or dongsaeng? \(Cover:Stray Kids\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-592 songs - 1 day 8 hr 50 min
+593 songs - 1 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Dr\. BeBe](https://open.spotify.com/track/2z0LVG9G2SpFaT5bHyWwjK) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Universe : The Black Hall](https://open.spotify.com/album/7KrRT3DMomHHFtRCdK6sPs) | 3:11 | 2022-01-27 | 2022-04-09 |
 | [Drink It](https://open.spotify.com/track/56URBnyl71PPaebwimqwQD) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Drink It](https://open.spotify.com/album/6gstlIojQWTAcrsRqBQxLR) | 3:26 | 2022-03-22 | 2022-05-26 |
 | [Drunk\-Dazed](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:13 | 2021-12-08 |  |
+| [dummy](https://open.spotify.com/track/0sAq8cN9lvt9dkAWa5DtWb) | [ARrC](https://open.spotify.com/artist/0aI0llD36ZH9ZDplS8TblP) | [dummy](https://open.spotify.com/album/0FUVybD9tZfWhKdCkLEC0v) | 3:22 | 2024-07-29 |  |
 | [Dystopia](https://open.spotify.com/track/6tksGYo7SrnXF7Cj3sLWav) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom: Pt\. Ⅵ\. Mujin](https://open.spotify.com/album/5MtxPx9oyiXDH6x5r646Go) | 3:34 | 2023-03-23 | 2023-03-31 |
 | [Earth, Wind & Fire](https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOW?](https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V) | 2:59 | 2024-04-15 |  |
 | [Echo](https://open.spotify.com/track/2m59DXEDaV4EEJTuxAiDre) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Echo \[From "Solo Leveling" \(Original Soundtrack\)\]](https://open.spotify.com/album/1XezLjrSytsSPPWwknQy9y) | 3:45 | 2022-03-02 | 2022-04-15 |
@@ -255,7 +256,7 @@
 | [HOME;RUN](https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [; \[Semicolon\]](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) | 3:04 | 2021-12-08 | 2022-07-29 |
 | [Horololo](https://open.spotify.com/track/6u2lCxHSfDki4rhl9pkI0C) | [EXO\-CBX](https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD) | [MAGIC](https://open.spotify.com/album/2NbpxzWVFJfUuNXbIVeWhd) | 3:12 | 2022-04-04 | 2022-04-14 |
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-05-30 |  |
-| [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 | 2021-12-08 |  |
+| [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 | 2021-12-08 | 2024-07-30 |
 | [Humph!](https://open.spotify.com/track/0m3W71Oliiv3gQWXi2YAmJ) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [SUM\(ME:R\)](https://open.spotify.com/album/4hlhRlDPvdfc7hQoD8gxZ1) | 3:12 | 2022-02-15 | 2022-07-23 |
 | [HWEEK](https://open.spotify.com/track/7muY2OFMX8iuDqk1wP10kn) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [4SHO](https://open.spotify.com/album/0RPXqJPuiBeXYkjpqDd7YU) | 3:18 | 2023-07-04 | 2023-07-21 |
 | [Hymn to Love](https://open.spotify.com/track/3HsBjL08LXLjzTAjlJNVLA) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [EPEX 4th EP Album Prelude of Love Chapter 1\. ‘Puppy Love’](https://open.spotify.com/album/2JZJ0Eo9Zi2hqFS3ddBumM) | 3:14 | 2022-10-26 | 2022-11-16 |
@@ -282,7 +283,7 @@
 | [It's Raining](https://open.spotify.com/track/0dpp5l5Mf17gFI8AtahK3h) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [Road to Kingdom \(Your Song\), Pt\. 1](https://open.spotify.com/album/69u5RBm7sL60Y1BK3dtUDH) | 3:33 | 2022-03-22 | 2022-04-10 |
 | [JACKPOT](https://open.spotify.com/track/4e4RlMOWUnoVkIYyjNjN57) | [VANNER](https://open.spotify.com/artist/05pkCt3DQY5ZC41u7WMk5D) | [CAPTURE THE FLAG](https://open.spotify.com/album/2gQepXItf8PffuK3DgEpiY) | 2:38 | 2024-01-31 | 2024-02-27 |
 | [JAWS](https://open.spotify.com/track/5BVe5BDEa3JGJnA9IHuBYg) | [BAE173](https://open.spotify.com/artist/60315n11JElel8KhdHg8jM) | [INTERSECTION : BLAZE](https://open.spotify.com/album/7raO8lCDp9amtMVxrE29HM) | 3:28 | 2022-03-30 | 2022-04-13 |
-| [JIKJIN](https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:04 | 2022-02-15 | 2024-07-27 |
+| [JIKJIN](https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:04 | 2022-02-15 |  |
 | [Jopping](https://open.spotify.com/track/5WrEilrRI5cIW0DxMvQYPZ) | [SuperM](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) | [SuperM \- The 1st Mini Album](https://open.spotify.com/album/1C1qYeSC9RdgbrKXpZCTSJ) | 4:11 | 2022-03-31 | 2022-04-16 |
 | [Journey](https://open.spotify.com/track/6dxgKYAH0TvoSb16xD30rD) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [OO\-LI](https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4) | 3:18 | 2023-04-26 | 2023-05-17 |
 | [JUMP](https://open.spotify.com/track/4vTXBC7QOjEbi8DcJvCNE2) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [HARMONY : ALL IN](https://open.spotify.com/album/67nhgkEfNwdqQt7QFYHw0B) | 2:43 | 2023-06-09 | 2023-09-13 |
@@ -412,7 +413,7 @@
 | [PARTY ROCK](https://open.spotify.com/track/5n81hoM1QMLib476FVMp2Y) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [NEW WAVE](https://open.spotify.com/album/43PdGV8b4Xb1a4ffk3Ywt6) | 3:04 | 2022-09-27 | 2022-10-27 |
 | [PASTEL](https://open.spotify.com/track/4q0CYq46WxuMBCrXcs57vq) | [LUN8](https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn) | [PASTEL](https://open.spotify.com/album/1QxYNSafFlcKwmnazaU8yE) | 3:20 | 2024-02-26 | 2024-03-06 |
 | [PERFORMER](https://open.spotify.com/track/2arrxX2BubTq86E4N067WY) | [VANNER](https://open.spotify.com/artist/05pkCt3DQY5ZC41u7WMk5D) | [VENI VIDI VICI](https://open.spotify.com/album/6s5By8sGoiYLpQmtYYvmGO) | 2:53 | 2023-08-22 | 2023-09-20 |
-| [Perfume](https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw) | [Perfume \- The 1st Mini Album](https://open.spotify.com/album/3sVBVr420an61GAwib9AYk) | 2:47 | 2023-04-21 |  |
+| [Perfume](https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw) | [Perfume \- The 1st Mini Album](https://open.spotify.com/album/3sVBVr420an61GAwib9AYk) | 2:47 | 2023-04-21 | 2024-07-30 |
 | [Peter Pan](https://open.spotify.com/track/0FF1qj8n4vZEzY54Kt5qh1) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:54 | 2023-04-30 | 2023-05-10 |
 | [Pirate King](https://open.spotify.com/track/5Jl2i6LR3Socm4TYqRzZw3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.1: All to Zero](https://open.spotify.com/album/4ayTucmOGwLd0WrJddrUwx) | 3:15 | 2022-03-31 | 2022-04-13 |
 | [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 | 2024-01-22 |  |

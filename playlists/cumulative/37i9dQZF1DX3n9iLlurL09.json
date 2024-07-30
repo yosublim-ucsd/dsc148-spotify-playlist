@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 204031,
       "name": "Good As New",
       "url": "https://open.spotify.com/track/0XIHRIerpIPFLCjlgeLHbN"
@@ -1274,6 +1274,24 @@
       "duration_ms": 262293,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/3US6iSyLP2uS07gjjU2ZkG"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aNJ374poL5VkfwWAqe1iX"
+      },
+      "artists": [
+        {
+          "name": "The Walkmen",
+          "url": "https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266866,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4JYgvIKYhLBDn4OqPeJOGh"
     },
     {
       "album": {

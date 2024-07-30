@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkiye'nin en büyük pop listesi\. Kapak: Funda Arar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,447,999 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,448,279 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,20 +20,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 10 | [Bedel](https://open.spotify.com/track/23cjMX6FjB8TGdRnLD5bod) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bedel](https://open.spotify.com/album/3JaSBvsF9GmTY7vjNwSHRF) | 2:37 |
 | 11 | [Zombi](https://open.spotify.com/track/4mUgiufbW5HSZ24RK1yDPr) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Zombi](https://open.spotify.com/album/1ocqjiB9rtooF66uuW5jlZ) | 2:39 |
 | 12 | [Meleğim](https://open.spotify.com/track/6qjpvoOyxCl2DoLalk1DBV) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Meleğim](https://open.spotify.com/album/444lQ55RAdFaSf4CQLb0i7) | 2:45 |
-| 13 | [Atlantis](https://open.spotify.com/track/5McJm018JxLoTC54fInvWo) | [Ece Seçkin](https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5) | [Atlantis](https://open.spotify.com/album/0aIg40DUdyBKSRXkBQ3iUI) | 2:08 |
-| 14 | [Kafamın İçi](https://open.spotify.com/track/30kd9r9pbMn6bs6CKyFOCu) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo), [Zeyd](https://open.spotify.com/artist/12MwQGIKtcERM3CNJhhq5T) | [Yine Çalıyor](https://open.spotify.com/album/2d3z7xdD9R3sAKueFrV2jp) | 2:15 |
-| 15 | [Yarı Deli](https://open.spotify.com/track/4PUcdX1jTT7XB75zwCsXeN) | [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Yarı Deli](https://open.spotify.com/album/5N48APJMjm14PAbNWGphDH) | 2:32 |
-| 16 | [Dön Bana](https://open.spotify.com/track/6GvIfVA9hyg0Y6IJBlfLTA) | [Irmak Arıcı](https://open.spotify.com/artist/3WKZeiNOV5dnANlQnjL95B) | [Dön Bana](https://open.spotify.com/album/2yBvYJQQ6tqBmUF4rki1Kw) | 3:54 |
-| 17 | [Elini Ver](https://open.spotify.com/track/4wwZyKI0OtpRfHmpxv6JdR) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Elini Ver](https://open.spotify.com/album/5r0s3anoC7C85G0NvcC0yN) | 2:22 |
-| 18 | [Sesini Duymam Lazım](https://open.spotify.com/track/0RPc5Dd42QIxwXWWziBvCZ) | [Cem Belevi](https://open.spotify.com/artist/5yhN4qXpv9cghmJglovvmg) | [CEMiyet Beach](https://open.spotify.com/album/29irqiFigkCaqcK5d5Feej) | 2:20 |
-| 19 | [Uslanmaz](https://open.spotify.com/track/7BD5turxXQlcm72SCYkHQG) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Uslanmaz](https://open.spotify.com/album/7rpKmV8l7F9nBsyzxW8nMJ) | 2:25 |
-| 20 | [Senden Hatıra](https://open.spotify.com/track/2i7XLrmbkbhIFbGwBMw2ec) | [Kerim Araz](https://open.spotify.com/artist/2xNgzwX6A9orF0QEJph5Eb), [Sevgim Yılmaz](https://open.spotify.com/artist/1oh1jFXcJYVg7g1E2Yb3PO) | [Senden Hatıra](https://open.spotify.com/album/4ZSLSrIk7vuIvh18qEXELD) | 3:19 |
-| 21 | [Kafam İyi Esiyor](https://open.spotify.com/track/4l6L2WoQ8wy4CGpzhimwpp) | [Bora Duran](https://open.spotify.com/artist/0W0qg2fjQVk63h44Zdn4hI) | [Kafam İyi Esiyor](https://open.spotify.com/album/3gc8ZG1oX26gZ9cEUpsYVi) | 2:46 |
-| 22 | [Ben Sana Gelemem](https://open.spotify.com/track/3gdY5WFt7i6BWVLie3t6hQ) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Ben Sana Gelemem](https://open.spotify.com/album/6VotTGGtlSzAuy8q5JCSsV) | 3:12 |
-| 23 | [Ben Senin Delinim](https://open.spotify.com/track/055YVbBBnytDpM9K1ruqwx) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Ben Senin Delinim](https://open.spotify.com/album/12DkfRVFqWkzAcQIci2HyF) | 3:43 |
-| 24 | [Renklensin](https://open.spotify.com/track/1d02igesB9DREknAVXRiBd) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Renklensin](https://open.spotify.com/album/5QTNMJkssQOVw7DZhzHQNL) | 3:10 |
-| 25 | [Balerin](https://open.spotify.com/track/5J0W5NTiNfQaN6uUO0uVu9) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Balerin](https://open.spotify.com/album/2guhibB7qxRwC6xYrmtbmr) | 2:56 |
-| 26 | [Yo](https://open.spotify.com/track/5ikFGOKtCdl9YC2xJh9hho) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuantum 51](https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC) | 3:45 |
+| 13 | [SENİ GÖRDÜĞÜM AN](https://open.spotify.com/track/5hyYCEaC704WXeb4saAim4) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf), [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [SENİ GÖRDÜĞÜM AN](https://open.spotify.com/album/4b91E9t6JFljmPckcteTLi) | 3:14 |
+| 14 | [Atlantis](https://open.spotify.com/track/5McJm018JxLoTC54fInvWo) | [Ece Seçkin](https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5) | [Atlantis](https://open.spotify.com/album/0aIg40DUdyBKSRXkBQ3iUI) | 2:08 |
+| 15 | [Kafamın İçi](https://open.spotify.com/track/30kd9r9pbMn6bs6CKyFOCu) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo), [Zeyd](https://open.spotify.com/artist/12MwQGIKtcERM3CNJhhq5T) | [Yine Çalıyor](https://open.spotify.com/album/2d3z7xdD9R3sAKueFrV2jp) | 2:15 |
+| 16 | [Yarı Deli](https://open.spotify.com/track/4PUcdX1jTT7XB75zwCsXeN) | [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Yarı Deli](https://open.spotify.com/album/5N48APJMjm14PAbNWGphDH) | 2:32 |
+| 17 | [Dön Bana](https://open.spotify.com/track/6GvIfVA9hyg0Y6IJBlfLTA) | [Irmak Arıcı](https://open.spotify.com/artist/3WKZeiNOV5dnANlQnjL95B) | [Dön Bana](https://open.spotify.com/album/2yBvYJQQ6tqBmUF4rki1Kw) | 3:54 |
+| 18 | [Elini Ver](https://open.spotify.com/track/4wwZyKI0OtpRfHmpxv6JdR) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Elini Ver](https://open.spotify.com/album/5r0s3anoC7C85G0NvcC0yN) | 2:22 |
+| 19 | [Sesini Duymam Lazım](https://open.spotify.com/track/0RPc5Dd42QIxwXWWziBvCZ) | [Cem Belevi](https://open.spotify.com/artist/5yhN4qXpv9cghmJglovvmg) | [CEMiyet Beach](https://open.spotify.com/album/29irqiFigkCaqcK5d5Feej) | 2:20 |
+| 20 | [Uslanmaz](https://open.spotify.com/track/7BD5turxXQlcm72SCYkHQG) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Uslanmaz](https://open.spotify.com/album/7rpKmV8l7F9nBsyzxW8nMJ) | 2:25 |
+| 21 | [Senden Hatıra](https://open.spotify.com/track/2i7XLrmbkbhIFbGwBMw2ec) | [Kerim Araz](https://open.spotify.com/artist/2xNgzwX6A9orF0QEJph5Eb), [Sevgim Yılmaz](https://open.spotify.com/artist/1oh1jFXcJYVg7g1E2Yb3PO) | [Senden Hatıra](https://open.spotify.com/album/4ZSLSrIk7vuIvh18qEXELD) | 3:19 |
+| 22 | [Kafam İyi Esiyor](https://open.spotify.com/track/4l6L2WoQ8wy4CGpzhimwpp) | [Bora Duran](https://open.spotify.com/artist/0W0qg2fjQVk63h44Zdn4hI) | [Kafam İyi Esiyor](https://open.spotify.com/album/3gc8ZG1oX26gZ9cEUpsYVi) | 2:46 |
+| 23 | [Ben Sana Gelemem](https://open.spotify.com/track/3gdY5WFt7i6BWVLie3t6hQ) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Ben Sana Gelemem](https://open.spotify.com/album/6VotTGGtlSzAuy8q5JCSsV) | 3:12 |
+| 24 | [Ben Senin Delinim](https://open.spotify.com/track/055YVbBBnytDpM9K1ruqwx) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Ben Senin Delinim](https://open.spotify.com/album/12DkfRVFqWkzAcQIci2HyF) | 3:43 |
+| 25 | [Renklensin](https://open.spotify.com/track/1d02igesB9DREknAVXRiBd) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Renklensin](https://open.spotify.com/album/5QTNMJkssQOVw7DZhzHQNL) | 3:10 |
+| 26 | [Balerin](https://open.spotify.com/track/5J0W5NTiNfQaN6uUO0uVu9) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Balerin](https://open.spotify.com/album/2guhibB7qxRwC6xYrmtbmr) | 2:56 |
 | 27 | [Kömür](https://open.spotify.com/track/3TbZb6udQT4iqyQXmwBe7T) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Kömür](https://open.spotify.com/album/1Cbcf1YvsNrMZs3pxYLHoD) | 5:04 |
 | 28 | [Şerbetli](https://open.spotify.com/track/0tUu5krJnjTs3ebdeHP3uL) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuantum 51](https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC) | 3:14 |
 | 29 | [Sana Yıldızları Ödediğimden](https://open.spotify.com/track/0fu7d7LgXjClCkgBmnNlc0) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Sana Yıldızları Ödediğimden](https://open.spotify.com/album/745xmwLY8UKgHtxDa9UMYU) | 4:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 49 | [Olmuşum Leyla](https://open.spotify.com/track/4mGcrLq0JSjumS1GyyQOYj) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Olmuşum Leyla](https://open.spotify.com/album/3KO4mFibY1L2nbqOateAOA) | 2:52 |
 | 50 | [Geri Dönemedim](https://open.spotify.com/track/10Sa2Mpma0EHWKLuyyrBdq) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geri Dönemedim](https://open.spotify.com/album/2EsFEiIxSLfij6dy5vd1SC) | 2:18 |
 
-Snapshot ID: `ZqK80AAAAABGg90y4whp540aqWPyTZ8g`
+Snapshot ID: `ZqeEfwAAAAB8fyrJqTiFb5kMN6smUULU`

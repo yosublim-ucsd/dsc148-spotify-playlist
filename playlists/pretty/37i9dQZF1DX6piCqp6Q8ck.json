@@ -1,6 +1,6 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 114461,
+  "num_followers": 114456,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
+        "name": "Christmas Time Is Here",
+        "url": "https://open.spotify.com/album/2I3uMBceHIZ4NXGM2HMl3Y"
+      },
+      "artists": [
+        {
+          "name": "Dianne Reeves",
+          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "Carol Of The Bells",
+      "url": "https://open.spotify.com/track/5YmJtoST7bbcxCycpyw2yL"
+    },
+    {
+      "added_at": "2023-12-19 09:14:04",
+      "album": {
         "name": "Hot Jazz for a Cool Night: a Jazz Christmas",
         "url": "https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 186000,
       "name": "Hark! The Herald Angels Sing",
       "url": "https://open.spotify.com/track/0xKTdKwBalLkjGh5wKfGaD"
-    },
-    {
-      "added_at": "2023-12-19 09:14:04",
-      "album": {
-        "name": "Christmas Time Is Here",
-        "url": "https://open.spotify.com/album/2I3uMBceHIZ4NXGM2HMl3Y"
-      },
-      "artists": [
-        {
-          "name": "Dianne Reeves",
-          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "Carol Of The Bells",
-      "url": "https://open.spotify.com/track/5YmJtoST7bbcxCycpyw2yL"
     },
     {
       "added_at": "2023-12-19 09:14:04",
@@ -975,18 +975,22 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
-        "name": "The Pianoman at Christmas",
-        "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
+        "name": "The Pianoman at Christmas (The Complete Edition)",
+        "url": "https://open.spotify.com/album/6N2F5snTp3TZlsYZhf4qFG"
       },
       "artists": [
         {
           "name": "Jamie Cullum",
           "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        },
+        {
+          "name": "Kansas Smitty's",
+          "url": "https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C"
         }
       ],
-      "duration_ms": 162920,
-      "name": "Christmas Never Gets Old",
-      "url": "https://open.spotify.com/track/6o6DStpgZIzSyfpz0tRu8M"
+      "duration_ms": 174090,
+      "name": "Man With The Bag",
+      "url": "https://open.spotify.com/track/6hDObWDLZG5GoEySmtSjAF"
     },
     {
       "added_at": "2023-12-19 09:14:04",
@@ -1115,22 +1119,18 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
-        "name": "The Pianoman at Christmas (The Complete Edition)",
-        "url": "https://open.spotify.com/album/6N2F5snTp3TZlsYZhf4qFG"
+        "name": "The Pianoman at Christmas",
+        "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
       },
       "artists": [
         {
           "name": "Jamie Cullum",
           "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        },
-        {
-          "name": "Kansas Smitty's",
-          "url": "https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C"
         }
       ],
-      "duration_ms": 174090,
-      "name": "Man With The Bag",
-      "url": "https://open.spotify.com/track/6hDObWDLZG5GoEySmtSjAF"
+      "duration_ms": 162920,
+      "name": "Christmas Never Gets Old",
+      "url": "https://open.spotify.com/track/6o6DStpgZIzSyfpz0tRu8M"
     },
     {
       "added_at": "2023-12-19 09:14:04",

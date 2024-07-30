@@ -582,7 +582,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 293776,
       "name": "Boots of Spanish Leather (feat. Diana DeMuth)",
       "url": "https://open.spotify.com/track/70ToRlumcpgqvPQMcqnsji"
@@ -2538,6 +2538,24 @@
       "duration_ms": 267080,
       "name": "Love Part Three",
       "url": "https://open.spotify.com/track/5OoccFPlv12WWzdzJfcrfx"
+    },
+    {
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/3vmJA3thCzpAOBHWsQp9Ov"
+      },
+      "artists": [
+        {
+          "name": "Darden Smith",
+          "url": "https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234253,
+      "name": "Love Will Win the War",
+      "url": "https://open.spotify.com/track/2vsm6CwQSxeAL2SAFQdQf9"
     },
     {
       "album": {

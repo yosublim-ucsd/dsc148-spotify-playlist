@@ -1,33 +1,13 @@
 {
   "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Igor Herbut, Dawid Tyszkowski",
-  "num_followers": 124042,
+  "num_followers": 124044,
   "original_name": "Alternatywna Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqLK4AAAAABXU33vx9gm2es0nxUnw9cB",
+  "snapshot_id": "ZqeNBgAAAAAYPjbUVualyUWSFHtFmAU5",
   "tracks": [
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "Latem",
-        "url": "https://open.spotify.com/album/4gZuMSy6Nl72X2FvTClO3B"
-      },
-      "artists": [
-        {
-          "name": "Igor Herbut",
-          "url": "https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX"
-        },
-        {
-          "name": "Dawid Tyszkowski",
-          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
-        }
-      ],
-      "duration_ms": 293096,
-      "name": "Latem",
-      "url": "https://open.spotify.com/track/04aFFKwZDaOMSNZRxeq7H2"
-    },
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
@@ -51,18 +31,18 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "WAWA",
-        "url": "https://open.spotify.com/album/1FaiUUAQ26t9Xrv0ItyiLV"
+        "name": "my",
+        "url": "https://open.spotify.com/album/19GsnIluYB9d42QHswzfej"
       },
       "artists": [
         {
-          "name": "Brodka",
-          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
         }
       ],
-      "duration_ms": 196145,
-      "name": "Sierpie\u0144",
-      "url": "https://open.spotify.com/track/0tH24ae0FBxOucvo21QW01"
+      "duration_ms": 216320,
+      "name": "my",
+      "url": "https://open.spotify.com/track/19dHt2hh8aaWNCDC3ReLZY"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -83,34 +63,38 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "epicentrum",
-        "url": "https://open.spotify.com/album/5Nnjs9uBxHkRpn3t2yn5my"
+        "name": "Latem",
+        "url": "https://open.spotify.com/album/4gZuMSy6Nl72X2FvTClO3B"
       },
       "artists": [
         {
-          "name": "Livka",
-          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
+          "name": "Igor Herbut",
+          "url": "https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX"
+        },
+        {
+          "name": "Dawid Tyszkowski",
+          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
         }
       ],
-      "duration_ms": 139448,
-      "name": "epicentrum",
-      "url": "https://open.spotify.com/track/2gCNm0DrdB0kbhFSfGsC0O"
+      "duration_ms": 293096,
+      "name": "Latem",
+      "url": "https://open.spotify.com/track/04aFFKwZDaOMSNZRxeq7H2"
     },
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "my",
-        "url": "https://open.spotify.com/album/19GsnIluYB9d42QHswzfej"
+        "name": "WAWA",
+        "url": "https://open.spotify.com/album/1FaiUUAQ26t9Xrv0ItyiLV"
       },
       "artists": [
         {
-          "name": "Zalia",
-          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+          "name": "Brodka",
+          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
         }
       ],
-      "duration_ms": 216320,
-      "name": "my",
-      "url": "https://open.spotify.com/track/19dHt2hh8aaWNCDC3ReLZY"
+      "duration_ms": 196145,
+      "name": "Sierpie\u0144",
+      "url": "https://open.spotify.com/track/0tH24ae0FBxOucvo21QW01"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -127,6 +111,38 @@
       "duration_ms": 211581,
       "name": "Bestie, Move On",
       "url": "https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "NIGDY NIE ZAKOCHAM SI\u0118",
+        "url": "https://open.spotify.com/album/5cc2v2DnjLnKzWT3p8ISqR"
+      },
+      "artists": [
+        {
+          "name": "Ofelia",
+          "url": "https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX"
+        }
+      ],
+      "duration_ms": 224295,
+      "name": "NIGDY NIE ZAKOCHAM SI\u0118",
+      "url": "https://open.spotify.com/track/3YUc20JqdQyeMYPCshA6AG"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "epicentrum",
+        "url": "https://open.spotify.com/album/5Nnjs9uBxHkRpn3t2yn5my"
+      },
+      "artists": [
+        {
+          "name": "Livka",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
+        }
+      ],
+      "duration_ms": 139448,
+      "name": "epicentrum",
+      "url": "https://open.spotify.com/track/2gCNm0DrdB0kbhFSfGsC0O"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -171,22 +187,6 @@
       "duration_ms": 185471,
       "name": "Wolne duchy",
       "url": "https://open.spotify.com/track/3eNAqHexMFGCvtzaMwkjEH"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "NIGDY NIE ZAKOCHAM SI\u0118",
-        "url": "https://open.spotify.com/album/5cc2v2DnjLnKzWT3p8ISqR"
-      },
-      "artists": [
-        {
-          "name": "Ofelia",
-          "url": "https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX"
-        }
-      ],
-      "duration_ms": 224295,
-      "name": "NIGDY NIE ZAKOCHAM SI\u0118",
-      "url": "https://open.spotify.com/track/3YUc20JqdQyeMYPCshA6AG"
     },
     {
       "added_at": "2024-07-25 22:00:00",

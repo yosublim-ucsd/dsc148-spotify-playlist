@@ -4,7 +4,7 @@
 
 > Altijd fris in Fresh Hits\. Cover: Sevdaliza, Pabllo Vittar & Yseult
 
-651 songs - 1 day 7 hr 37 min
+652 songs - 1 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-04-25 | 2024-06-14 |
 | [Gek Op Jou \(feat\. Koen\)](https://open.spotify.com/track/0SznGXywmezP2t8hI9NDkw) | [Yes\-R](https://open.spotify.com/artist/26W6sq5yZeIhzfO6d8g9NJ), [Koen](https://open.spotify.com/artist/6vwz7HydONQujdnKzrsSUf) | [Gek Op Jou \(feat\. Koen\)](https://open.spotify.com/album/3U0ck9Ps7JzuRPN6eNFeNC) | 2:41 | 2023-07-31 | 2023-08-25 |
 | [Geldmachine](https://open.spotify.com/track/6YIZiFOhLfdEcI2jVM4rCP) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Geldmachine](https://open.spotify.com/album/3MUFgUWYaa3b4ybEkBnTpQ) | 3:28 | 2024-06-20 | 2024-07-03 |
+| [gen z luv](https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [gen z luv](https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI) | 2:33 | 2024-07-29 |  |
 | [Gently \(feat\. Bad Bunny\)](https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:13 | 2023-10-06 | 2023-11-17 |
 | [Get Busy \- Odd Mob Club Mix](https://open.spotify.com/track/6u6vaQoR0IXCWRSOP7h7D6) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Get Busy \(Odd Mob Club Mix\)](https://open.spotify.com/album/0tzUcNV1CNq8D6JYS2wosW) | 2:45 | 2024-07-04 |  |
 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 | 2023-09-13 | 2023-10-13 |

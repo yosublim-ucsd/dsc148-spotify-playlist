@@ -1,12 +1,12 @@
 {
   "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
-  "num_followers": 114938,
+  "num_followers": 114947,
   "original_name": "This Is Nat King Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAAABj484kbt6mCb8SOGJE3oA",
+  "snapshot_id": "ZqWKAAAAAADUBpf8v1s+OobjWlEuyPJx",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sings For Two In Love",
-        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 168520,
-      "name": "Let's Fall In Love",
-      "url": "https://open.spotify.com/track/6Zis3c4TSJHeBkivT2tMzY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cole Espanol",
         "url": "https://open.spotify.com/album/6jr4Juj3htePZkpPcg7M0p"
       },
@@ -607,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Fair Lady",
-        "url": "https://open.spotify.com/album/5Lu3yzAEdFlbyWWBcVUl8I"
+        "name": "Sings For Two In Love",
+        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
       },
       "artists": [
         {
@@ -616,9 +600,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 150040,
-      "name": "I Could Have Danced All Night",
-      "url": "https://open.spotify.com/track/20mEmrHhY9yN6IvYncoL96"
+      "duration_ms": 168520,
+      "name": "Let's Fall In Love",
+      "url": "https://open.spotify.com/track/6Zis3c4TSJHeBkivT2tMzY"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
       "duration_ms": 197200,
       "name": "Red Sails In The Sunset",
       "url": "https://open.spotify.com/track/01JYtQf53bne6dOGzrneNU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Fair Lady",
+        "url": "https://open.spotify.com/album/5Lu3yzAEdFlbyWWBcVUl8I"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 150040,
+      "name": "I Could Have Danced All Night",
+      "url": "https://open.spotify.com/track/20mEmrHhY9yN6IvYncoL96"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thank You, Pretty Baby",
-        "url": "https://open.spotify.com/album/0Nghkb1nHs4WCtnA0irWN2"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 172040,
-      "name": "You Made Me Love You (I Didn't Want To Do It) - Remastered",
-      "url": "https://open.spotify.com/track/7LPVWfMHGxawDxNzppoHOZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ultimate Nat King Cole",
         "url": "https://open.spotify.com/album/2IFGaozoXFA3m9IUH2Hcc4"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 174773,
       "name": "The Girl From Ipanema",
       "url": "https://open.spotify.com/track/3niaqXwt6bSu5HCXJpaee7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thank You, Pretty Baby",
+        "url": "https://open.spotify.com/album/0Nghkb1nHs4WCtnA0irWN2"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 172040,
+      "name": "You Made Me Love You (I Didn't Want To Do It) - Remastered",
+      "url": "https://open.spotify.com/track/7LPVWfMHGxawDxNzppoHOZ"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At The Blue Note Chicago",
-        "url": "https://open.spotify.com/album/2V1zyQVnrgnvxSngoARNcS"
+        "name": "A Mis Amigos",
+        "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 127986,
-      "name": "Walkin' My Baby Back Home - Live at the Blue Note Chicago",
-      "url": "https://open.spotify.com/track/0LrkGhiOu55op9d3U8R9W1"
+      "duration_ms": 115733,
+      "name": "Fantastico",
+      "url": "https://open.spotify.com/track/6lREZJIPtXSX31YxI5gP3C"
     },
     {
       "added_at": null,

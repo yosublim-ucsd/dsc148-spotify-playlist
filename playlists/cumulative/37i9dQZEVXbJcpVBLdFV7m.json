@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 133805,
       "name": "360",
       "url": "https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex"
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 292373,
       "name": "Champagne Coast",
       "url": "https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0"
@@ -3456,7 +3456,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 165280,
       "name": "HOT ONE (with TiaCorine & A$AP Ferg)",
       "url": "https://open.spotify.com/track/2TmS5wJTfWrpFgakSSTdCi"
@@ -3912,7 +3912,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-21",
+      "date_removed": null,
       "duration_ms": 226621,
       "name": "In And Out Of Love",
       "url": "https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h"
@@ -5064,7 +5064,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 173168,
       "name": "Love Potions",
       "url": "https://open.spotify.com/track/6ZK4VMxfEYLPqpSvX2l4iY"
@@ -6154,7 +6154,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-29",
+      "date_removed": null,
       "duration_ms": 86983,
       "name": "NIGHTS LIKE THIS",
       "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
@@ -9784,7 +9784,7 @@
       ],
       "date_added": "2024-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 237920,
       "name": "Uita-Te la Mine",
       "url": "https://open.spotify.com/track/5jAv1DExeMZNuYHpOd75Q7"
@@ -10452,10 +10452,28 @@
       ],
       "date_added": "2024-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 193560,
       "name": "wutiwant",
       "url": "https://open.spotify.com/track/2dsLbTJoca1o1U1FxYmcxj"
+    },
+    {
+      "album": {
+        "name": "wutiwant",
+        "url": "https://open.spotify.com/album/5AG6WzqOS3r6QyDzXXPXT5"
+      },
+      "artists": [
+        {
+          "name": "shinxyyy",
+          "url": "https://open.spotify.com/artist/1AMoIvgZlR9ZatyqU5xCFr"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193515,
+      "name": "wutiwant",
+      "url": "https://open.spotify.com/track/7Ff17wDVMRzK1MNDjPqdMG"
     },
     {
       "album": {
@@ -10474,7 +10492,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 79452,
       "name": "X-SLIDE",
       "url": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"

@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 33112,
+  "num_followers": 33115,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAACC1yZQwWEQdq7plvoxtNX7",
+  "snapshot_id": "ZqWKAAAAAABEYOE+hyv0eXq5iqtToCct",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 257799,
+      "name": "Good Ol' Days (featuring Cedella Marley)",
+      "url": "https://open.spotify.com/track/28Q2F391hseaFE88B3jki4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Playing for Change (Live)",
         "url": "https://open.spotify.com/album/1xvTR4a0kOkL0Z0pBGYXV5"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 250720,
       "name": "Love Is My Religion (Live)",
       "url": "https://open.spotify.com/track/1d1z4TzhHtzRIsCmoHDeCu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 257799,
-      "name": "Good Ol' Days (featuring Cedella Marley)",
-      "url": "https://open.spotify.com/track/28Q2F391hseaFE88B3jki4"
     },
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Rainbow in the Sky",
+      "url": "https://open.spotify.com/track/2U7kXTPxWV8OS7ZR3muAJT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revelation Part 1: The Root Of Life",
         "url": "https://open.spotify.com/album/3tRUM2HJcrvRzwQCDRUS73"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 292400,
       "name": "The Chapel",
       "url": "https://open.spotify.com/track/63S7jRVkIHo97J2vgMTbF6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Rainbow in the Sky",
-      "url": "https://open.spotify.com/track/2U7kXTPxWV8OS7ZR3muAJT"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Is My Religion",
-        "url": "https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 288506,
-      "name": "A Lifetime",
-      "url": "https://open.spotify.com/track/0SoUvs8IebBx2ZoDBwGqSk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dragonfly",
         "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 201400,
       "name": "Looking",
       "url": "https://open.spotify.com/track/0P6g4X0sQlKCDp9mKSHsjl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 288506,
+      "name": "A Lifetime",
+      "url": "https://open.spotify.com/track/0SoUvs8IebBx2ZoDBwGqSk"
     },
     {
       "added_at": null,
@@ -539,6 +539,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Solid Gold",
+        "url": "https://open.spotify.com/album/4MfWRzKljDxthyHHCvhaVb"
+      },
+      "artists": [
+        {
+          "name": "U-Roy",
+          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 269929,
+      "name": "Trenchtown Rock (feat. Ziggy Marley)",
+      "url": "https://open.spotify.com/track/46lmwJjkLkerdlQAGvcabn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cumbiana",
         "url": "https://open.spotify.com/album/1AWWSFCourc5LCAczs3GOS"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 228450,
       "name": "El Hilo",
       "url": "https://open.spotify.com/track/73MVpByUJzvT5GFNkss7ik"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Solid Gold",
-        "url": "https://open.spotify.com/album/4MfWRzKljDxthyHHCvhaVb"
-      },
-      "artists": [
-        {
-          "name": "U-Roy",
-          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 269929,
-      "name": "Trenchtown Rock (feat. Ziggy Marley)",
-      "url": "https://open.spotify.com/track/46lmwJjkLkerdlQAGvcabn"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wild and Free",
+        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 210720,
+      "name": "MMMM MMMM",
+      "url": "https://open.spotify.com/track/1jpk6gBEQginuRnNzpuDKp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fly Rasta",
         "url": "https://open.spotify.com/album/2OT4p3NBqb7zyvvQwA4EM8"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 219906,
       "name": "Fly Rasta (feat. U-Roy)",
       "url": "https://open.spotify.com/track/52Vx26w55TBxVt9mG9dT9V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wild and Free",
-        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 210720,
-      "name": "MMMM MMMM",
-      "url": "https://open.spotify.com/track/1jpk6gBEQginuRnNzpuDKp"
     },
     {
       "added_at": null,
@@ -843,6 +843,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rebel Queen",
+        "url": "https://open.spotify.com/album/6LHuKanB3fdLZhTQNdB2l1"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Peace & Love",
+      "url": "https://open.spotify.com/track/2Y2DiA8VA05lw1SDNCcVhL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Is My Religion",
         "url": "https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 238253,
       "name": "See Dem Fake Leaders",
       "url": "https://open.spotify.com/track/5zaKUBh9bpjmvqumcqECv8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rebel Queen",
-        "url": "https://open.spotify.com/album/6LHuKanB3fdLZhTQNdB2l1"
-      },
-      "artists": [
-        {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Peace & Love",
-      "url": "https://open.spotify.com/track/2Y2DiA8VA05lw1SDNCcVhL"
     }
   ],
   "unique_name": "This Is Ziggy Marley",

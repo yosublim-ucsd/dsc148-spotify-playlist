@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,676 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,715 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 56 | [How Do You Love? \(feat\. Mougleta\)](https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Reverie](https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6) | 3:30 |
 | 57 | [I've Arrived \(with Tomike\)](https://open.spotify.com/track/2EPbupudXMt2oYC3iyl31o) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [I've Arrived \(with Tomike\)](https://open.spotify.com/album/2W1UzcHNaKiSHpbAgMnWZM) | 2:30 |
 | 58 | [A Beautiful Place](https://open.spotify.com/track/2YDP1LpEKKHQXYJVBdtQMl) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [A Beautiful Place](https://open.spotify.com/album/6OvUYePEj03lCQMvrR8wCH) | 3:07 |
-| 59 | [Alice](https://open.spotify.com/track/73bZS69zrQVAwaMvollH4C) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer), [Joseph Michael Jury](https://open.spotify.com/artist/1xEXXaVvXbXTIqHeDrDRlH) | [Alice \(feat Joe Jury\)](https://open.spotify.com/album/62ekWJbgV7Yno7Zwc7zpE3) | 3:09 |
+| 59 | [Alice](https://open.spotify.com/track/73bZS69zrQVAwaMvollH4C) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [Alice \(feat Joe Jury\)](https://open.spotify.com/album/62ekWJbgV7Yno7Zwc7zpE3) | 3:09 |
 | 60 | [Wave](https://open.spotify.com/track/5msO1c9VNP14k2t4EvXEsi) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Wave](https://open.spotify.com/album/3DKPygymXWTbAyxp30AbAp) | 2:43 |
 | 61 | [Out of My Hands](https://open.spotify.com/track/6oRnGHtoBixS2qPYYL56ts) | [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq), [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA) | [Out of My Hands](https://open.spotify.com/album/5QlP6Vaoi9Wobf2aLYHZR3) | 2:56 |
 | 62 | [Prayer in C \- Paul Kalkbrenner Remix](https://open.spotify.com/track/7xavr5xmO2aoHfKDWNHtiK) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Prayer in C \(Paul Kalkbrenner Remix\)](https://open.spotify.com/album/73WlvhF3NhxO97U3MeVNet) | 3:39 |

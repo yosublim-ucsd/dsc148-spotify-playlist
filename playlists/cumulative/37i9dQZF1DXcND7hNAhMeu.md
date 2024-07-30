@@ -4,7 +4,7 @@
 
 > Geleceğin seslerini dinle! Kapak: Ege Can Sal
 
-50 songs - 2 hr 23 min
+51 songs - 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [FARKINDA DEĞİLDİN](https://open.spotify.com/track/0hpyV1jNlhTMgyyFhD38FW) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [FARKINDA DEĞİLDİN](https://open.spotify.com/album/0thzIGrx4KCbBFpNsOHKdx) | 3:21 | 2024-06-20 |  |
 | [Geceyi Dinle](https://open.spotify.com/track/6OokxHeZQqk33sncJ3Lhsu) | [Dilan Balkay](https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM) | [Geceyi Dinle](https://open.spotify.com/album/3vynHAUsyF7cMt5WftRELn) | 3:21 | 2024-06-20 |  |
 | [Geri Ver](https://open.spotify.com/track/4pCEueB6H48Ge1vPEecj3b) | [Furkan Halıcı](https://open.spotify.com/artist/6W1El4pLfVxwgMnAqfX4O7) | [Geri Ver](https://open.spotify.com/album/1JUJFvRGs0GJhFOsudsP2W) | 2:59 | 2024-06-20 |  |
-| [HUMAN](https://open.spotify.com/track/2JRsdMaavScKW5ohfCFOgz) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [HUMAN](https://open.spotify.com/album/52FucwXRUffwY88oNm8pTT) | 3:11 | 2024-06-20 |  |
+| [HUMAN](https://open.spotify.com/track/2JRsdMaavScKW5ohfCFOgz) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [HUMAN](https://open.spotify.com/album/52FucwXRUffwY88oNm8pTT) | 3:11 | 2024-06-20 | 2024-07-30 |
 | [İHYA](https://open.spotify.com/track/45my9isZJ6wUxDnUWUL8WL) | [KARDELEN](https://open.spotify.com/artist/4mNGMbwJpaXOAAqbAOEQms) | [İHYA](https://open.spotify.com/album/2fg6JIB8A8NuyUEzybDFrV) | 3:28 | 2024-06-20 |  |
 | [İstemedim Hiç](https://open.spotify.com/track/2BEjilqxCgQi6W9tnwoSsW) | [Soner Han](https://open.spotify.com/artist/6rwdqGbhoOisi9wCeLKJs8) | [İstemedim Hiç](https://open.spotify.com/album/14NEYnXSR1wEJQYebUlGY5) | 2:53 | 2024-06-20 |  |
 | [Kara Kedi](https://open.spotify.com/track/0WpNYQlysYRiEyLj7oq9n8) | [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [Kara Kedi](https://open.spotify.com/album/3y98IhwFFEpQUkBgvAL17A) | 2:59 | 2024-06-20 |  |
@@ -43,6 +43,7 @@
 | [Sandım Ki](https://open.spotify.com/track/43UixOA06v0QNlb9Q0YWBX) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Sandım Ki](https://open.spotify.com/album/24eHoKCFb3QWoi6wQlbIX1) | 4:06 | 2024-06-20 |  |
 | [Sen Bilirsin](https://open.spotify.com/track/3yAhJkby5L1G6yCoYi7HY4) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [Sen Bilirsin](https://open.spotify.com/album/56tllXQ5KPMWyjnoqx5vW4) | 2:37 | 2024-06-20 |  |
 | [Senin Yüzünden](https://open.spotify.com/track/2WPDvv1Mew0mcnh68D1LSG) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [Senin Yüzünden](https://open.spotify.com/album/2WobQE09DjAqAOVne4Q4j1) | 2:56 | 2024-06-20 |  |
+| [SENİ GÖRDÜĞÜM AN](https://open.spotify.com/track/5hyYCEaC704WXeb4saAim4) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf), [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [SENİ GÖRDÜĞÜM AN](https://open.spotify.com/album/4b91E9t6JFljmPckcteTLi) | 3:14 | 2024-07-29 |  |
 | [Son Perde](https://open.spotify.com/track/6qWXNfRL7ygjONnrPPzALQ) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Son Perde](https://open.spotify.com/album/3UyAJFP27NQabY22Te3UuA) | 3:23 | 2024-06-20 |  |
 | [Sorma](https://open.spotify.com/track/1t5QrgICG308reHk4Ohm7N) | [Selin Çıngır](https://open.spotify.com/artist/05DklNAEcs3u54uuYOcR2S) | [Sorma](https://open.spotify.com/album/4O003iwIM20pmtKKJQ55Pr) | 3:54 | 2024-06-20 |  |
 | [UNTZ UNTZ](https://open.spotify.com/track/1jYQsPvg6A3UTEaxDYffDv) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [UNTZ UNTZ](https://open.spotify.com/album/2bxfjX4QcWh4gGUQYdP0z9) | 2:26 | 2024-06-20 |  |

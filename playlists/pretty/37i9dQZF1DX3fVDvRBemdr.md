@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollandse hits\. Cover: Gerard Palts & Trafassi
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,584 likes - 78 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,596 likes - 78 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nooit Te Laat](https://open.spotify.com/track/2HmYuOGflF4t87iN1MALaC) | [Samantha Steenwijk](https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8) | [Nooit Te Laat](https://open.spotify.com/album/44WlIS1N7dBBIfKtT8skol) | 2:25 |
-| 2 | [Sportschool](https://open.spotify.com/track/4UoGvmUfqIj9KWzoi3Cw1N) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Sportschool](https://open.spotify.com/album/2NnEEN0jr4SoVC9HD0gqY7) | 2:58 |
-| 3 | [Voor Eén Keer](https://open.spotify.com/track/0gZodKY6ehMcSWv1iT9DR5) | [Diego Holzken](https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx) | [Voor Eén Keer](https://open.spotify.com/album/4WGkp99LqOuLtASPgmurXQ) | 2:36 |
-| 4 | [Ik moet naar huis toe gaan](https://open.spotify.com/track/2A44kZofGRTvc9dcX7W1vv) | [Helemaal Hollands](https://open.spotify.com/artist/0VTDgLvqZBSYXBE5d8ouhE) | [Ik moet naar huis toe gaan](https://open.spotify.com/album/7xqovgg1V8CqM4Jcrx8Uk2) | 2:45 |
-| 5 | [Op De Bank](https://open.spotify.com/track/7HjkU3iRgdFiwypuYsOx0N) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV) | [Op De Bank](https://open.spotify.com/album/7m97chglD7rVHaPHYwp4sg) | 2:49 |
-| 6 | [Mexico](https://open.spotify.com/track/6wZ5Uq4nvLeCdk55aDpiae) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Mexico](https://open.spotify.com/album/5XrvscEzaCTKeKXXpVlogo) | 3:26 |
-| 7 | [Panja](https://open.spotify.com/track/62BtrcdN73fRXrkOUML9v9) | [Sidney Jr](https://open.spotify.com/artist/2pyu7WTYovCZ6OKb1InFM6), [Sidney Bischoff](https://open.spotify.com/artist/2qZitvbK8umEmakrBoxEkV) | [Panja](https://open.spotify.com/album/6aMU0IahtqzleEqznAbqMq) | 2:53 |
-| 8 | [Nog Één Laatste Dans](https://open.spotify.com/track/2Xna5UxLejgr80HXcXhMDE) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Nog Één Laatste Dans](https://open.spotify.com/album/3osA0lKFSHMNtxl910iuM0) | 2:51 |
-| 9 | [Suavemente, Dans Met Mij](https://open.spotify.com/track/2GLSRL3sIOQR5TTppRqkjj) | [Gerard Palts](https://open.spotify.com/artist/7agcYn7rMxlilM5iilw4qf), [Trafassi](https://open.spotify.com/artist/2Vf41WkCUjjGaAuCF3cd9O) | [Suavemente, Dans Met Mij](https://open.spotify.com/album/26N1Eca9A56lXptg6u9T9M) | 3:10 |
+| 1 | [Suavemente, Dans Met Mij](https://open.spotify.com/track/2GLSRL3sIOQR5TTppRqkjj) | [Gerard Palts](https://open.spotify.com/artist/7agcYn7rMxlilM5iilw4qf), [Trafassi](https://open.spotify.com/artist/2Vf41WkCUjjGaAuCF3cd9O) | [Suavemente, Dans Met Mij](https://open.spotify.com/album/26N1Eca9A56lXptg6u9T9M) | 3:10 |
+| 2 | [Voor Eén Keer](https://open.spotify.com/track/0gZodKY6ehMcSWv1iT9DR5) | [Diego Holzken](https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx) | [Voor Eén Keer](https://open.spotify.com/album/4WGkp99LqOuLtASPgmurXQ) | 2:36 |
+| 3 | [Sportschool](https://open.spotify.com/track/4UoGvmUfqIj9KWzoi3Cw1N) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Sportschool](https://open.spotify.com/album/2NnEEN0jr4SoVC9HD0gqY7) | 2:58 |
+| 4 | [Nooit Te Laat](https://open.spotify.com/track/2HmYuOGflF4t87iN1MALaC) | [Samantha Steenwijk](https://open.spotify.com/artist/74KdLwJ1opjUx5tahaMZo8) | [Nooit Te Laat](https://open.spotify.com/album/44WlIS1N7dBBIfKtT8skol) | 2:25 |
+| 5 | [Ik moet naar huis toe gaan](https://open.spotify.com/track/2A44kZofGRTvc9dcX7W1vv) | [Helemaal Hollands](https://open.spotify.com/artist/0VTDgLvqZBSYXBE5d8ouhE) | [Ik moet naar huis toe gaan](https://open.spotify.com/album/7xqovgg1V8CqM4Jcrx8Uk2) | 2:45 |
+| 6 | [Op De Bank](https://open.spotify.com/track/7HjkU3iRgdFiwypuYsOx0N) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV) | [Op De Bank](https://open.spotify.com/album/7m97chglD7rVHaPHYwp4sg) | 2:49 |
+| 7 | [Mexico](https://open.spotify.com/track/6wZ5Uq4nvLeCdk55aDpiae) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Mexico](https://open.spotify.com/album/5XrvscEzaCTKeKXXpVlogo) | 3:26 |
+| 8 | [Panja](https://open.spotify.com/track/62BtrcdN73fRXrkOUML9v9) | [Sidney Jr](https://open.spotify.com/artist/2pyu7WTYovCZ6OKb1InFM6), [Sidney Bischoff](https://open.spotify.com/artist/2qZitvbK8umEmakrBoxEkV) | [Panja](https://open.spotify.com/album/6aMU0IahtqzleEqznAbqMq) | 2:53 |
+| 9 | [Nog Één Laatste Dans](https://open.spotify.com/track/2Xna5UxLejgr80HXcXhMDE) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Nog Één Laatste Dans](https://open.spotify.com/album/3osA0lKFSHMNtxl910iuM0) | 2:51 |
 | 10 | [Zij Is Van Mij](https://open.spotify.com/track/5ElK7HPvWfRYOzz6F6ICId) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Zij Is Van Mij](https://open.spotify.com/album/42ySQUp33CT7jH0XTOVYPh) | 2:25 |
 | 11 | [Zij Begrijpt Het](https://open.spotify.com/track/6rk8aJ7P3O7OhdQQ0ce29e) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Zij Begrijpt Het](https://open.spotify.com/album/1nUC9zziMNcQBg4pu1pVv5) | 2:49 |
 | 12 | [Vannacht Slaap Jij Bij Mij](https://open.spotify.com/track/7gv9Ky47iGM6LRp5aO5tkt) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs) | [Vannacht Slaap Jij Bij Mij](https://open.spotify.com/album/72aiMSxFyKAiY4mrolRPgj) | 2:28 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 77 | [Stapelgek Op Jou](https://open.spotify.com/track/2HlBFknY6RmzzAcJOd7U1c) | [Marvin de Geest](https://open.spotify.com/artist/1EjFOZptMvuufEtWCMzsES) | [Stapelgek Op Jou](https://open.spotify.com/album/7c9rzkiEHY8QLShd4J92ry) | 3:33 |
 | 78 | [Alles Met Jou](https://open.spotify.com/track/4jXjI1kipE0EJvnNTMfnMn) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Alles Met Jou](https://open.spotify.com/album/78XaAfFng3Ad9GErnBWnRe) | 2:40 |
 
-Snapshot ID: `ZqLK4AAAAAAy8i+o8zG5+I/zSHWIAtsA`
+Snapshot ID: `Zqd1YAAAAAB5Wy88p3GTv6w4LV/xBZJg`

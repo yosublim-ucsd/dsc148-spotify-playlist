@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 
 > اسمعوا افضل الاغاني الخليجية\. الغلاف: اصالة
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,682 likes - 40 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,748 likes - 40 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yamorr W Ma Yesalem](https://open.spotify.com/track/5Iqu1jQ61ayOZngAUZ87yB) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Yamorr W Ma Yesalem](https://open.spotify.com/album/1hwb1a9TevHIEPstO8bl7l) | 4:09 |
-| 2 | [Bekhtisar](https://open.spotify.com/track/0tGbQm1mkA0is0MGnAbodj) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [Estihala](https://open.spotify.com/album/5dRiSqLu89aJE6ZFWIHzBE) | 4:52 |
-| 3 | [Kel Ahebek](https://open.spotify.com/track/7jPNZTGEiMfuzUVpTq4C5i) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Fouad Abdulwahed 2024](https://open.spotify.com/album/5rh03DFJueGrJqjQHPJXSK) | 4:20 |
-| 4 | [Yabn Elawadem](https://open.spotify.com/track/59QhPINpDiU4BP2v4o33Eg) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [Aalam Mowazi](https://open.spotify.com/album/48Gf2lv7siQk2cfXUQ7KDu) | 4:55 |
-| 5 | [Rdy](https://open.spotify.com/track/1gVT9clRR3jRvgJYK2KsIp) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Rdy](https://open.spotify.com/album/0IoOphEIvuBQxelbffR5Jc) | 4:30 |
-| 6 | [Mojeaah Galbah](https://open.spotify.com/track/3Utr6kkQLHIvPDgXdgJ8Jf) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj), [Ahmed Al Hermi](https://open.spotify.com/artist/5RsINX9NKo2WPaEs70Iq3u) | [Al Bedaa](https://open.spotify.com/album/3CVX4Kz3DbPIoFd16mq5Em) | 3:12 |
+| 2 | [Lammah](https://open.spotify.com/track/0Hk9OFVAxB6mxTtLmmFdkT) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Lammah](https://open.spotify.com/album/6Slm5v59bwaVCCVVIiCrQM) | 3:41 |
+| 3 | [Bekhtisar](https://open.spotify.com/track/0tGbQm1mkA0is0MGnAbodj) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [Estihala](https://open.spotify.com/album/5dRiSqLu89aJE6ZFWIHzBE) | 4:52 |
+| 4 | [Kel Ahebek](https://open.spotify.com/track/7jPNZTGEiMfuzUVpTq4C5i) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Fouad Abdulwahed 2024](https://open.spotify.com/album/5rh03DFJueGrJqjQHPJXSK) | 4:20 |
+| 5 | [Yabn Elawadem](https://open.spotify.com/track/59QhPINpDiU4BP2v4o33Eg) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [Aalam Mowazi](https://open.spotify.com/album/48Gf2lv7siQk2cfXUQ7KDu) | 4:55 |
+| 6 | [Rdy](https://open.spotify.com/track/1gVT9clRR3jRvgJYK2KsIp) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Rdy](https://open.spotify.com/album/0IoOphEIvuBQxelbffR5Jc) | 4:30 |
 | 7 | [Mezlaaj](https://open.spotify.com/track/19eghoyd6TxcIk5KR1AGes) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Mezlaaj](https://open.spotify.com/album/5eOqbmNYRcrC2UxaM6fTh6) | 4:30 |
 | 8 | [Estaslam Qalb](https://open.spotify.com/track/3vji65yQ70Lkznq2sqlGtL) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Estaslam Qalb](https://open.spotify.com/album/291dphae9w4umV6vgSxEJc) | 5:25 |
 | 9 | [Qalt Habiby](https://open.spotify.com/track/6tz18XXepNwclwplcUpGO9) | [Aiman Qusailah](https://open.spotify.com/artist/5rhRBRSACiwECuHLhk5b8D) | [Qalt Habiby](https://open.spotify.com/album/1DNvSjT7MA0CB9o0EwE1sG) | 4:05 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 | 39 | [Akhathet Be Khtrek](https://open.spotify.com/track/4RyoGSA84YpvYm09iTR8P0) | [Moath Bugnah](https://open.spotify.com/artist/3I6QxuzNU6qhadzhuePFqF) | [Akhathet Be Khtrek](https://open.spotify.com/album/3k7N7Q8eetRAOQRtDrSImy) | 3:40 |
 | 40 | [Qeiam](https://open.spotify.com/track/6gHhZKa9F7WqCVXkj29Qss) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [Marhaba](https://open.spotify.com/album/0SwI39bKzHkorStj3SHDV8) | 4:04 |
 
-Snapshot ID: `ZqC+uQAAAAA7hluVQ6sHq7Wm/4uVO/iA`
+Snapshot ID: `Zqd/cAAAAACTXRNPzxyOuGRVYcsZP8/4`

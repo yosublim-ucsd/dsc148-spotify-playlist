@@ -2,7 +2,7 @@
 
 ### [mint](https://open.spotify.com/playlist/37i9dQZF1DX4dyzvuaRJ0n)
 
-> The world's biggest dance hits\. Cover: Calvin Harris & Ellie Goulding
+> The world's biggest dance hits\. Cover: Mochakk
 
 982 songs - 2 day 6 hr 39 min
 

@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,181 songs - 1 day 20 hr 57 min
+1,183 songs - 1 day 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [2.05am](https://open.spotify.com/track/05tYZqMR7vcjyZr57Vxn6y) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [2.05am](https://open.spotify.com/album/2ZN7gvIcWxomdsqecufEWe) | 3:50 | 2024-06-05 |  |
 | [305 sky](https://open.spotify.com/track/3gIJheKHSVrhs5EkxHdNpA) | [Rory Callum](https://open.spotify.com/artist/25DH1fXhuHYG3JDDydqbpY) | [305 sky](https://open.spotify.com/album/3iPp8nXQprbUgcYZP89fKy) | 2:01 | 2021-11-10 | 2022-10-08 |
 | [4am](https://open.spotify.com/track/7rcjGfeuIseoe4fgaP9r78) | [Ybyrayy](https://open.spotify.com/artist/47tK41FkaXhZOMGszQrYBs) | [4am](https://open.spotify.com/album/4avUNfmB4btjnI77Bw5t3R) | 2:05 | 2022-11-11 | 2023-08-04 |
+| [4pm naps](https://open.spotify.com/track/5i1GoRGX8ZauNcxWZx1oPb) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [4pm naps](https://open.spotify.com/album/1HTKBNjdgZM5otxolfrjci) | 1:54 | 2024-07-26 |  |
 | [5am in cairo](https://open.spotify.com/track/1HO5CGNK9d9zGUXpDAxigN) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [atlas hour \(beats\)](https://open.spotify.com/album/3SEeS3WVZhevxaJKnHe3GU) | 2:57 | 2022-10-07 | 2022-10-15 |
 | [5am in cairo](https://open.spotify.com/track/21NHuCeoEJ76SVggMgNsNw) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [5am in cairo](https://open.spotify.com/album/1roCs0WmQH30We3HBrCvOn) | 2:57 | 2021-11-10 | 2022-07-29 |
 | [5am in cairo](https://open.spotify.com/track/3yxuDfGZluYOjzdFlxBI7M) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [atlas hour \(beats\)](https://open.spotify.com/album/7kOTYw3JrGwU5LHFWThdK0) | 2:57 | 2022-07-29 | 2022-10-13 |
@@ -506,6 +507,7 @@
 | [Into the Spiderweb](https://open.spotify.com/track/51dHEsJ4QjGAC1mbKaRdVk) | [Mean Dartin](https://open.spotify.com/artist/7LhBPxzi8fMrXFWz7Ezi2m) | [Into the Spiderweb](https://open.spotify.com/album/1bFPaZ2tjuOrn4ucAJFgdZ) | 2:24 | 2022-07-22 | 2023-03-18 |
 | [Into the woods](https://open.spotify.com/track/72qa1fzwLsm1dOeP9jSDmZ) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [Vannorte](https://open.spotify.com/artist/61ZwgexUIZqT7ymSPsCW0H) | [Into the woods](https://open.spotify.com/album/0Lo3etb3dZRIsS11SxlS5p) | 2:02 | 2022-09-09 | 2023-10-06 |
 | [introspection](https://open.spotify.com/track/623oh9a6Vrc4NlUkgPuvvi) | [Mrs Blonded](https://open.spotify.com/artist/6Gx6MRxYH7sQQTRe7EStEN) | [introspection](https://open.spotify.com/album/2UckQg0YEvSSE9Ckzz7Uda) | 1:52 | 2022-03-21 | 2023-03-02 |
+| [Iphomea](https://open.spotify.com/track/3criQrrbhxgsGsmzD1FIDb) | [Glorio](https://open.spotify.com/artist/2LlUmuRpHPxRL2B2CJDZB4) | [Iphomea](https://open.spotify.com/album/35piJRbb9pUwMcBCf8gTkW) | 2:36 | 2024-07-26 |  |
 | [Isiah](https://open.spotify.com/track/4gvMukwB7duTnNiZCEojuc) | [Dream Web](https://open.spotify.com/artist/0xhiRy2F05NVIpB4GKReES) | [Isiah](https://open.spotify.com/album/1ggc6pcvji5xQkEbZKuwnK) | 2:38 | 2022-05-27 |  |
 | [it meant a lot \- Instrumental](https://open.spotify.com/track/6JbaTqNRlnHgOnbfTTh3GA) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [it meant a lot](https://open.spotify.com/album/2Nj9ytlfDKNt6GLrNu8zfy) | 1:57 | 2022-07-29 | 2022-10-29 |
 | [it's all gone now](https://open.spotify.com/track/3ixV1YHgkybTtqZlgREtca) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [inhaling peace](https://open.spotify.com/album/0C87nDIJyiIDy3eO2XVwg6) | 1:53 | 2022-11-25 |  |
@@ -736,7 +738,7 @@
 | [Nightfade](https://open.spotify.com/track/3Gv80WP1W59BKI2N9mmfG6) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Nylon](https://open.spotify.com/album/4hkOQue9O8fVariqAdrAyY) | 2:41 | 2023-02-17 |  |
 | [Nightfall](https://open.spotify.com/track/1zBbaX88WI9bPXochk6Uw3) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Nightfall](https://open.spotify.com/album/1sp1kOcBZv60kZMRNmxsLJ) | 2:27 | 2022-09-02 | 2023-08-04 |
 | [nirwana](https://open.spotify.com/track/7Iu0d7ORgRU1CcDymzVPck) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk) | [nirwana](https://open.spotify.com/album/2plF1M083P6jysg6ODjBNj) | 2:17 | 2021-11-10 | 2022-10-15 |
-| [no breeze](https://open.spotify.com/track/0T2BGpjb7qVrNCtFXJYNkf) | [with\_myself](https://open.spotify.com/artist/5Rk5w7ys4oOfR1IuavKOiS) | [no breeze](https://open.spotify.com/album/0DdVswYFDxvGtMwiuExn8e) | 2:06 | 2022-10-28 |  |
+| [no breeze](https://open.spotify.com/track/0T2BGpjb7qVrNCtFXJYNkf) | [with\_myself](https://open.spotify.com/artist/5Rk5w7ys4oOfR1IuavKOiS) | [no breeze](https://open.spotify.com/album/0DdVswYFDxvGtMwiuExn8e) | 2:06 | 2022-10-28 | 2024-07-30 |
 | [No Feelings \- Instrumental](https://open.spotify.com/track/2KSO3sLE9m0VPw6A1MUYsc) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [No Feelings](https://open.spotify.com/album/4d6dCwHrT29HyMm814TO02) | 2:28 | 2022-06-24 | 2022-09-17 |
 | [No Fit](https://open.spotify.com/track/2i8fxnwJUyaIk2IYpgF4YO) | [Moody Bit](https://open.spotify.com/artist/7F90wIqOv8QEFM83OaIOWl) | [XYZ](https://open.spotify.com/album/7JaUHqa9wMR11LiFmXCGqe) | 1:28 | 2021-11-10 | 2022-06-03 |
 | [No More](https://open.spotify.com/track/19QV2tu1yq7Zj04E9uBjNo) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [No More](https://open.spotify.com/album/2CeZulROg6ShtnJhPFW687) | 2:35 | 2023-08-03 | 2023-10-13 |
@@ -1102,7 +1104,7 @@
 | [u make me](https://open.spotify.com/track/6OyPiy5eWajl56cC6Em7no) | [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc), [milligon](https://open.spotify.com/artist/62h3mAlyYduSmprbNEdKKD) | [u make me](https://open.spotify.com/album/3iXK2nkrVGdDeAd50g67UY) | 2:02 | 2021-11-10 | 2023-08-04 |
 | [Ubongo Extreme](https://open.spotify.com/track/01mOFVIoSPGQQVodkz7qB4) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Ubongo Extreme](https://open.spotify.com/album/6UdCLCk1mdYkYyctZz4a6t) | 2:50 | 2023-09-22 | 2023-11-11 |
 | [Umbrella Shopping](https://open.spotify.com/track/7MgqCfXy33YBpunYl1uhMQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Umbrella Shopping](https://open.spotify.com/album/638MCjxBy9yOuhN34rB4x6) | 2:21 | 2021-11-10 | 2022-07-22 |
-| [under the bridge](https://open.spotify.com/track/3h7XIKkKdKANv6A7Fnp2Dt) | [lucygray](https://open.spotify.com/artist/1LIIJsUl0fGlhLHwAWjrJI), [Cxldaf](https://open.spotify.com/artist/2SAKglF2F0Wb3G2xd9ddfS) | [under the bridge](https://open.spotify.com/album/17pt1juyta07K6q3HTuB4T) | 1:48 | 2022-12-09 |  |
+| [under the bridge](https://open.spotify.com/track/3h7XIKkKdKANv6A7Fnp2Dt) | [lucygray](https://open.spotify.com/artist/1LIIJsUl0fGlhLHwAWjrJI), [Cxldaf](https://open.spotify.com/artist/2SAKglF2F0Wb3G2xd9ddfS) | [under the bridge](https://open.spotify.com/album/17pt1juyta07K6q3HTuB4T) | 1:48 | 2022-12-09 | 2024-07-30 |
 | [Under the Sun](https://open.spotify.com/track/3KXCoTPmfACMdybcLX1fMg) | [Smith Beats](https://open.spotify.com/artist/5HHXSrUf66808GVDTVmH1u), [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5) | [Beach Nights](https://open.spotify.com/album/5Z9PxUtXneYQv30ZqtofI3) | 1:57 | 2022-11-11 | 2023-05-20 |
 | [Under your spell](https://open.spotify.com/track/0lhi5mngupaKhSpOQFp2w3) | [Blank x Blank](https://open.spotify.com/artist/7tZMN6RonZwh9uUI3zdDgT) | [Under your spell](https://open.spotify.com/album/2rAzqLth8UwwTnysQFnRNe) | 2:42 | 2024-03-01 |  |
 | [Underwater](https://open.spotify.com/track/78lEAnMeOms1c1FXioIeeu) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b), [Funcc.](https://open.spotify.com/artist/3vAvHFXAMYvfj5AO2CoYyX) | [Underwater](https://open.spotify.com/album/12UhzmLUAd5IF165Hl3jSv) | 2:22 | 2021-11-10 | 2022-07-29 |

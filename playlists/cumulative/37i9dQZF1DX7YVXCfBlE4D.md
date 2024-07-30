@@ -4,17 +4,18 @@
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-435 songs - 21 hr 23 min
+437 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A La Orilla Del Mar](https://open.spotify.com/track/50wL5KcfCauBnlOJ4z4hlL) | [Bienvenido Granda](https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4) | [Las Estrellas De La Matancera](https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1) | 2:45 | 2024-02-22 |  |
 | [Abril En Portugal](https://open.spotify.com/track/3ukNgzvxWUCmqUxhqi32l7) | [Trio Delfines](https://open.spotify.com/artist/1qvmo3M2lo0qpzRhzNTgIm) | [Frente a Frente de Tríos](https://open.spotify.com/album/0TibhurVSsO5rf4tq4hEy9) | 2:29 | 2022-01-21 | 2022-11-14 |
-| [Abril En Portugal](https://open.spotify.com/track/3vd1hBvMeyIhtcrA6ryyE1) | [Trio Delfines](https://open.spotify.com/artist/1qvmo3M2lo0qpzRhzNTgIm) | [Trio Delfines](https://open.spotify.com/album/3n8ERMrAvGUuzCQAde0kAY) | 2:29 | 2021-05-15 |  |
+| [Abril En Portugal](https://open.spotify.com/track/3vd1hBvMeyIhtcrA6ryyE1) | [Trio Delfines](https://open.spotify.com/artist/1qvmo3M2lo0qpzRhzNTgIm) | [Trio Delfines](https://open.spotify.com/album/3n8ERMrAvGUuzCQAde0kAY) | 2:29 | 2021-05-15 | 2024-07-30 |
 | [Abril En Portugal](https://open.spotify.com/track/6OemD5ewXr2TnG9TQgKSoP) | [Trio Delfines](https://open.spotify.com/artist/1qvmo3M2lo0qpzRhzNTgIm) | [Trio Delfines](https://open.spotify.com/album/6uJI3BirtwHzbsYO8waeeb) | 2:29 | 2022-01-21 | 2024-04-19 |
 | [Adoro](https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Adoro](https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4) | 2:25 | 2021-05-15 |  |
 | [Ahora y siempre](https://open.spotify.com/track/5J32HBvOLwvvJmgwRhn8fh) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Serenata con Los Tecolines](https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb) | 2:53 | 2024-02-22 |  |
 | [Ahora y siempre](https://open.spotify.com/track/6w624TYTyYP8jn5Xhc0yxx) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [12 Grandes exitos Vol\. 1](https://open.spotify.com/album/5Z5e5KkO4mFkuiQers37Qo) | 2:53 | 2021-05-15 | 2024-02-23 |
+| [Alma Llanera](https://open.spotify.com/track/1W4uZ4K7q8ev1Q5KA6WI6x) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Háblame Sin Palabras](https://open.spotify.com/album/77Y60dKuOYrrJ7t9e9mFTx) | 2:54 | 2024-07-11 |  |
 | [Alma llanera](https://open.spotify.com/track/37uKoiJSNUeHiUVJmP4rWM) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Aguanta Corazón \(1955 \-1959\)](https://open.spotify.com/album/3vWOVb2soptTEz5vdUPY2c) | 2:54 | 2024-02-22 | 2024-04-19 |
 | [Almohada](https://open.spotify.com/track/2Cd1D4WyCjuZaoheb2Tfy4) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [El Principe Con Trio Vol\. 1](https://open.spotify.com/album/2qJo5J904Poy30fAuqZxuc) | 3:25 | 2021-05-15 | 2022-01-22 |
 | [Amor de Cabaret](https://open.spotify.com/track/5f78L5buph5GtBFcCYI0cx) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [15 EXITOS](https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs) | 2:53 | 2022-01-21 | 2024-04-19 |
@@ -40,6 +41,7 @@
 | [Azul](https://open.spotify.com/track/2mLkqQfVka3xbJthv1C5mk) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Imprescindibles](https://open.spotify.com/album/4gazhG0BdBhnNYg5vVYv3Q) | 3:18 | 2022-01-21 | 2022-11-13 |
 | [Azul](https://open.spotify.com/track/3Jifgl1CGNY25f7R0bvASv) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/4UlE2kIAik6pcM15aztAhs) | 3:19 | 2021-05-15 |  |
 | [Babalu](https://open.spotify.com/track/6M5yd2cfSxd3PRDLw7Pkuk) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [La Sensación Jarocha](https://open.spotify.com/album/4InRPZ8OjRn0tRmDVlzxIS) | 3:04 | 2021-05-15 |  |
+| [Besame Mucho](https://open.spotify.com/track/7ID2XpnDroizAWSvzAZsy7) | [Consuelo Velázquez](https://open.spotify.com/artist/3LXU2rvQWxMGvbmnoAqRMU) | [Boleros para Enamorarse, Vol\. 2](https://open.spotify.com/album/3eWzi2pLdTWzkIT9pxhzOZ) | 3:01 | 2024-07-11 |  |
 | [Besame Mucho](https://open.spotify.com/track/1uRXJ8S5geEL3jTUXVZGH3) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [The Bolero Anthology With Mari Trini](https://open.spotify.com/album/1jMwftkTkS4WDvTOjnnhnL) | 3:03 | 2021-05-15 | 2022-01-22 |
 | [Bonita](https://open.spotify.com/track/6VGgE1rjM5KDqMSdSRaA17) | [Germán Valdés "Tin Tan"](https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ) | [Germán Valdés TIN\-TAN Canciones de Sus Películas](https://open.spotify.com/album/3Ci1X3dr7NJlbuUgqsFUgK) | 2:24 | 2022-01-21 | 2024-04-19 |
 | [Bonita](https://open.spotify.com/track/573AAxwwLe12d2eZTm34GI) | [Germán Valdés "Tin Tan"](https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ) | [Germán Valdés TIN\-TAN Canciones de Sus Películas](https://open.spotify.com/album/6egxODz7B5lqBxwykR9JgP) | 2:24 | 2021-05-15 |  |
@@ -83,7 +85,7 @@
 | [Como un Duende](https://open.spotify.com/track/18299YKaaxnUPfmwiDh57d) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [Brillantes\- Los Dandys](https://open.spotify.com/album/7KkgaKrYkx8qdqDTuCA5vp) | 2:56 | 2021-05-15 | 2022-01-22 |
 | [Como un Duende](https://open.spotify.com/track/5rjxLGoHgUg5P1IsvHRYQM) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [RCA 100 Años de Música](https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM) | 2:58 | 2024-02-22 |  |
 | [Como Una Flor Bolero](https://open.spotify.com/track/7FneHnZxsT68NABvVsKVqE) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 3:14 | 2021-05-15 |  |
-| [Con Mi Corazon Te Espero](https://open.spotify.com/track/0GCvAA5pTwbH4kRpyRZBvk) | [Lucho Gatica](https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK) | [Consentida](https://open.spotify.com/album/0HuBWGxqsPyimBKnyivlVy) | 2:44 | 2021-05-15 |  |
+| [Con Mi Corazon Te Espero](https://open.spotify.com/track/0GCvAA5pTwbH4kRpyRZBvk) | [Lucho Gatica](https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK) | [Consentida](https://open.spotify.com/album/0HuBWGxqsPyimBKnyivlVy) | 2:44 | 2021-05-15 | 2024-07-30 |
 | [Con Mi Corazón Te Espero](https://open.spotify.com/track/0ndXxt3Rxm96YoG4IDoy02) | [Lucho Gatica](https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK) | [Consentida](https://open.spotify.com/album/5pB36mbHaOp2Bt9HnrrZDy) | 2:44 | 2022-01-21 | 2024-04-19 |
 | [Con Mi Corazón Te Espero](https://open.spotify.com/track/3FxjifPqB9DTRhgFB6zb9K) | [Lucho Gatica](https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK) | [Los Grandes Del Bolero, Vol\. 3](https://open.spotify.com/album/6UApN3bGn3c6vupHF5tvYe) | 2:44 | 2022-01-21 | 2022-11-13 |
 | [Concha Nacar / Limosna](https://open.spotify.com/track/6jrUIPj4VyB9ItLhOMrcSs) | [Elvira Rios](https://open.spotify.com/artist/1us5UEUwARpm9xvMh1i52g) | [Agustín Lara y sus Grandes Intérpretes](https://open.spotify.com/album/1UCHaeKP4ZhDqk4s4pDZn0) | 2:59 | 2022-01-21 | 2023-12-25 |

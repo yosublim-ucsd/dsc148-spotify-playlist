@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,079 likes - 51 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,080 likes - 51 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 | 28 | [Soul to Seoul](https://open.spotify.com/track/7pyPH0gIvrQIHYCG7bkaOn) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Half Shadows](https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA) | 3:29 |
 | 29 | [Lune](https://open.spotify.com/track/3uDOm0SzcByFzD6LIipJLL) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z) | 3:02 |
 | 30 | [NO WAY](https://open.spotify.com/track/4ZXMp5VitkH5kwjLppmDU8) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [NO WAY](https://open.spotify.com/album/6Hx0UA6UPOKVOXFtVLcz9x) | 3:24 |
-| 31 | [Death by Disco](https://open.spotify.com/track/2pHP1dKdtCEErOLtxwTYcy) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi) | 3:57 |
-| 32 | [Breath Strokes](https://open.spotify.com/track/6xA7H1WsXh7OihhnmEqjvI) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [You're Invited](https://open.spotify.com/album/5LcAvv0x4sgtjOIxhdpLRo) | 2:40 |
+| 31 | [Breath Strokes](https://open.spotify.com/track/6xA7H1WsXh7OihhnmEqjvI) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [You're Invited](https://open.spotify.com/album/5LcAvv0x4sgtjOIxhdpLRo) | 2:40 |
+| 32 | [Death by Disco](https://open.spotify.com/track/2pHP1dKdtCEErOLtxwTYcy) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi) | 3:57 |
 | 33 | [Eats The Tale](https://open.spotify.com/track/0FDK9Vl9rgWm6PO5TBamvT) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Eats The Tale](https://open.spotify.com/album/6Gua9T9kD4nkga4fqhMwFB) | 3:43 |
 | 34 | [Love That Never \- IMANU Remix](https://open.spotify.com/track/7xEonmjoDgWkRCzlofalul) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Oasis Nocturno \(Remixed\)](https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH) | 3:34 |
 | 35 | [Fallen Arches](https://open.spotify.com/track/1E2qjmmP6gkptMPFmGfHav) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 3:15 |
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 | 44 | [Say Tell Me](https://open.spotify.com/track/31ojb5Lqb88oqAr4bR7dQd) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Say Tell Me](https://open.spotify.com/album/1OvNqF9M9XKSpVEL8THanQ) | 4:01 |
 | 45 | [We Love \- Felix Cartal Remix](https://open.spotify.com/track/2yie05svrhg545Jg8b7rte) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Lune Rouge \(Remixed\)](https://open.spotify.com/album/5N6srwSnMVnUr2CGTbEByX) | 3:10 |
 | 46 | [Ija \- TOKiMONSTA Remix](https://open.spotify.com/track/27ALJpTFMItteosC4kyj9x) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Ija \(TOKiMONSTA Remix\)](https://open.spotify.com/album/19AGDITx691QWTmb0q1hhf) | 3:10 |
-| 47 | [Renter's Anthem](https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 3:58 |
-| 48 | [Starlight Lace](https://open.spotify.com/track/7rMbCJMPExhYBcmVqvZcLl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [FOVERE](https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7) | 3:15 |
+| 47 | [Starlight Lace](https://open.spotify.com/track/7rMbCJMPExhYBcmVqvZcLl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [FOVERE](https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7) | 3:15 |
+| 48 | [Renter's Anthem](https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 3:58 |
 | 49 | [Stigmatizing Sex](https://open.spotify.com/track/02bnahS6YFurzZoNoRdXUj) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 2:58 |
 | 50 | [Sa Mo Jung](https://open.spotify.com/track/0hzDTl4D0iK3VUqcQ2rBIB) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi) | 3:06 |
 | 51 | [The Ghost Burns \(TOKiMONSTA Remix\)](https://open.spotify.com/track/1heTHqqur0LBIZuQzuUTSV) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [The Ghost Burns \(TOKiMONSTA Remix\)](https://open.spotify.com/album/6mHwNoULGKR4jaxRWUcUfB) | 3:59 |
 
-Snapshot ID: `ZqQ4gAAAAABsvuV4WqkimmQBUqEn3qYm`
+Snapshot ID: `ZqWKAAAAAAAPi80cmUv27DFZCB7N+CRG`

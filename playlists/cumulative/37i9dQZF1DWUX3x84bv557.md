@@ -4,7 +4,7 @@
 
 > De nieuwste Nederlandse pop! Cover: Russo
 
-657 songs - 1 day 7 hr 42 min
+658 songs - 1 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,7 @@
 | [Maar Niet Met Jou Erbij](https://open.spotify.com/track/1mYqzZR5sfv0zZhgtyUsna) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Maar Niet Met Jou Erbij](https://open.spotify.com/album/6KGMZMTMQvbFgaqZJDu1ey) | 3:01 | 2024-01-25 | 2024-04-05 |
 | [Magneet](https://open.spotify.com/track/6vKcQiib6tIYFtfygjwhWd) | [Lisa Michels](https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e) | [Magneet](https://open.spotify.com/album/0euEcmBRqP9kRVeMyFbL3L) | 2:35 | 2023-09-14 | 2023-10-13 |
 | [Maken of Breken](https://open.spotify.com/track/3o8mKz6JvIxl08QXq6vyxQ) | [Sleeq](https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD) | [Maken of Breken](https://open.spotify.com/album/3DSkY5g59gmmWnezLp6880) | 3:21 | 2023-12-08 | 2024-02-16 |
-| [Mama](https://open.spotify.com/track/7iVTRKxQYlZheRkU2kLsT9) | [Cheryl Öztürk](https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9), [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [Mama](https://open.spotify.com/album/0PLOKaa16HSmG8xjuaoumw) | 3:04 | 2024-05-16 |  |
+| [Mama](https://open.spotify.com/track/7iVTRKxQYlZheRkU2kLsT9) | [Cheryl Öztürk](https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9), [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [Mama](https://open.spotify.com/album/0PLOKaa16HSmG8xjuaoumw) | 3:04 | 2024-05-16 | 2024-07-30 |
 | [Mama Dankjewel](https://open.spotify.com/track/59YKXDKbiCKeFE34dP2AFK) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [Mama Dankjewel](https://open.spotify.com/album/4ggIWKdq8bfW2cO8T9SduC) | 2:50 | 2024-04-11 | 2024-05-17 |
 | [MAMA IK HEB EEN PROBLEEM](https://open.spotify.com/track/15HbiGaVmP7Bbyh2yMWpzH) | [TIJN](https://open.spotify.com/artist/13cnCFcBgn9RdB5k0Skoc4) | [MAMA IK HEB EEN PROBLEEM](https://open.spotify.com/album/0rwBcjeWsQKmmCBkD0UTi4) | 2:46 | 2023-04-06 | 2023-07-14 |
 | [Mama Kijk Ik Kan Het Zelf](https://open.spotify.com/track/2V3C6CtUJ9kyHuTXKOxSe9) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Mama Kijk Ik Kan Het Zelf](https://open.spotify.com/album/0Q5LstDM9e8UuDhAARTs3H) | 3:38 | 2023-11-09 | 2024-02-16 |
@@ -474,6 +474,7 @@
 | [Rock ‘n Roll in Nederland](https://open.spotify.com/track/7o51u26XzNsTpA23561NJv) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Thomas Acda](https://open.spotify.com/artist/50o63K3IrY47g46E8R071Y) | [Rock ’n Roll in Nederland](https://open.spotify.com/album/1xrVhPW2YITqCyJFDiKlbL) | 3:03 | 2023-11-16 | 2023-11-18 |
 | [Rollercoaster](https://open.spotify.com/track/3n3Y9thrEHlvXBWKEbU27n) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [Rollercoaster](https://open.spotify.com/album/1YlWqhTlNHlRpGpRSDZADD) | 3:22 | 2023-11-30 | 2024-02-16 |
 | [Rolling Stone](https://open.spotify.com/track/7pmmCC7wOuG38rZeUCtPpa) | [Mick Spek](https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi) | [Rolling Stone](https://open.spotify.com/album/3XSu9f5Zau6MN01ZCxQz0F) | 2:25 | 2023-09-21 | 2023-10-06 |
+| [Romeo \(feat\. Gers Pardoel\)](https://open.spotify.com/track/1Yfr7NXWvF2mqHuakPcQ4l) | [Ian Thomas](https://open.spotify.com/artist/0z4w0e7EPjD6Mxi1jPPIiu), [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN) | [Romeo \(feat\. Gers Pardoel\)](https://open.spotify.com/album/4ARhW7Kx0VJzosH7dHQAy7) | 2:16 | 2024-07-29 |  |
 | [Rommel](https://open.spotify.com/track/0pw06mcIzuAeLPOHZT7W4Z) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Rommel](https://open.spotify.com/album/6iyEGMk28j3ZuiQxz5lvU5) | 3:16 | 2023-04-13 | 2023-08-18 |
 | [Rondje Van De Zaak](https://open.spotify.com/track/2PzhvCnYQGu4a70yeDSepT) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Rondje Van De Zaak](https://open.spotify.com/album/4dOEZOMOfq4IRYynXgqjgp) | 2:39 | 2024-06-06 | 2024-06-28 |
 | [Rood Licht](https://open.spotify.com/track/26zU9nsY6hlPUAjb4PsRsb) | [ZWIJMEL](https://open.spotify.com/artist/7swrz956hjUaa1XUSXMdkd) | [Rood Licht](https://open.spotify.com/album/4rbf6xcKq8hya8XBAw9PWi) | 3:09 | 2023-03-16 | 2023-05-19 |

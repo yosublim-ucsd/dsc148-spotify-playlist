@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,363 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,368 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 52 | [Chory na Polskę](https://open.spotify.com/track/3ZLGYIVXOjINT2ZLakODhF) | [Dr Misio](https://open.spotify.com/artist/0ov3NwkivwP03icKu8jQBy) | [Chory na Polskę](https://open.spotify.com/album/0SGXYkMO9FNhn7wznAaFiw) | 3:19 |
 | 53 | [SUMMER SONG](https://open.spotify.com/track/30snd5cTiUVngr70zOe8RQ) | [Zdechły Osa](https://open.spotify.com/artist/509dS4Q0EfUQuG7KvaSsiz) | [BRESLAU HARDCORE](https://open.spotify.com/album/7d3sWhON26NwIUIuoVELTm) | 3:16 |
 | 54 | [Moje serce w Warszawie](https://open.spotify.com/track/3ctthws9etjZKZIctF34Wq) | [Sorry Boys](https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU) | [Moje serce w Warszawie](https://open.spotify.com/album/6S27z8vNLgebk8Jbgr6WcG) | 5:29 |
-| 55 | [Most](https://open.spotify.com/track/3yqkdKHD11qU1RAe5PQffz) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Miłość w czasach](https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU) | 2:55 |
-| 56 | [Na Polanie](https://open.spotify.com/track/0YWvctopN5MKKHVl7DcVvy) | [Fismoll](https://open.spotify.com/artist/5jIMSlGidlmS3NmLKio9Wa) | [Pomiędzy](https://open.spotify.com/album/2sAKQ4Vg3LDNj9ZpV0eGNC) | 4:06 |
+| 55 | [Na Polanie](https://open.spotify.com/track/0YWvctopN5MKKHVl7DcVvy) | [Fismoll](https://open.spotify.com/artist/5jIMSlGidlmS3NmLKio9Wa) | [Pomiędzy](https://open.spotify.com/album/2sAKQ4Vg3LDNj9ZpV0eGNC) | 4:06 |
+| 56 | [Most](https://open.spotify.com/track/3yqkdKHD11qU1RAe5PQffz) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Miłość w czasach](https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU) | 2:55 |
 | 57 | [Początek](https://open.spotify.com/track/54BfcKAKZwBwZ2I4PgCcup) | [Miuosh](https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX) | [Początek](https://open.spotify.com/album/049sW8ENjB8HtNXRHmQ0tY) | 4:31 |
 | 58 | [Świat Oddala Się Ode Mnie](https://open.spotify.com/track/0fmQu281ph7yp5zU8ocHur) | [Mikromusic](https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5) | [Mikromusic z Górnej Półki](https://open.spotify.com/album/7J9AK9SvsstfJVAobYWKvN) | 5:41 |
 | 59 | [W Ogniu Świat](https://open.spotify.com/track/48pnK9EaWQsRqKoULssa7h) | [Łysa Góra](https://open.spotify.com/artist/6Xg17Thy6fCXBdDUIBGhxb) | [W Ogniu Świat](https://open.spotify.com/album/7ulDdrMaeZ98frINLWfGOP) | 7:51 |

@@ -2,27 +2,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 ### [RADAR Polska](https://open.spotify.com/playlist/37i9dQZF1DX1aXwAOtpwvU)
 
-> Odkryj swojego nowego ulubionego artystę\. Cover:  <a href="spotify:artist:7ruGjTmqO10lSqHWRIchnU">Daniel Godson</a>
+> Odkryj swojego nowego ulubionego artystę\. Cover:  <a href="spotify:artist:251W9nU4osxaBuBkU9HXT3">Jea Mira</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,542 likes - 78 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,541 likes - 78 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Upadki i wzloty](https://open.spotify.com/track/6lmd1iffw55qQIzBxStFOP) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Upadki i wzloty](https://open.spotify.com/album/0H5oZPNKpOgMyPp0xKa04S) | 3:11 |
-| 2 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 |
-| 3 | [epicentrum](https://open.spotify.com/track/2gCNm0DrdB0kbhFSfGsC0O) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [epicentrum](https://open.spotify.com/album/5Nnjs9uBxHkRpn3t2yn5my) | 2:19 |
+| 1 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 |
+| 2 | [epicentrum](https://open.spotify.com/track/2gCNm0DrdB0kbhFSfGsC0O) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [epicentrum](https://open.spotify.com/album/5Nnjs9uBxHkRpn3t2yn5my) | 2:19 |
+| 3 | [Upadki i wzloty](https://open.spotify.com/track/6lmd1iffw55qQIzBxStFOP) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Upadki i wzloty](https://open.spotify.com/album/0H5oZPNKpOgMyPp0xKa04S) | 3:11 |
 | 4 | [Dwa Tygodnie](https://open.spotify.com/track/3JmQQfMfhJdQEeMp3T8Txd) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Instalacja I](https://open.spotify.com/album/3HB7pBioWew0y3VogkkUVw) | 2:45 |
 | 5 | [Zapomniana Twarz](https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zapomniana Twarz](https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3) | 3:03 |
 | 6 | [apollo](https://open.spotify.com/track/0DoKEamrm3P13HItt9PTwM) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [apollo](https://open.spotify.com/album/3piWNDcYfXIPKcF4JFVr8d) | 2:19 |
-| 7 | [Day Off](https://open.spotify.com/track/0CHNm6X7QyULKOG5nTtQhj) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Day Off](https://open.spotify.com/album/3BERK2KU0lyYSFfJclRuYD) | 2:22 |
-| 8 | [Karma](https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Karma](https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW) | 2:35 |
-| 9 | [Fake ID](https://open.spotify.com/track/5gcokYc6au92x8EUbgJ3KR) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Fake ID](https://open.spotify.com/album/5QGGbcVRxSnDuRdQXJsKq2) | 2:32 |
+| 7 | [Karma](https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Karma](https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW) | 2:35 |
+| 8 | [Fake ID](https://open.spotify.com/track/5gcokYc6au92x8EUbgJ3KR) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Fake ID](https://open.spotify.com/album/5QGGbcVRxSnDuRdQXJsKq2) | 2:32 |
+| 9 | [Day Off](https://open.spotify.com/track/0CHNm6X7QyULKOG5nTtQhj) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Day Off](https://open.spotify.com/album/3BERK2KU0lyYSFfJclRuYD) | 2:22 |
 | 10 | [Szczęśliwa Wina](https://open.spotify.com/track/5mpaSyASd5ev6RMfSqW4cR) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Szczęśliwa Wina](https://open.spotify.com/album/00MIiun6wtpS1KScwHB7aV) | 2:33 |
 | 11 | [Klub Złamanych Serc](https://open.spotify.com/track/3pfOeXoXWDeLoUSvVagqTM) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Klub Złamanych Serc](https://open.spotify.com/album/6UTzEyPvtpmAW3Xp8y4HcU) | 2:08 |
 | 12 | [dziwne dzieciaki z klasy](https://open.spotify.com/track/4P2HJdPFSEIdTlwEd46s18) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [dziwne dzieciaki z klasy](https://open.spotify.com/album/6Vils2GYNmXvjQyWPhBwlB) | 1:51 |
-| 13 | [Safe Zone](https://open.spotify.com/track/7vU0fgnjfwRuAGDDNSmfGn) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Safe zone](https://open.spotify.com/album/00FCqeV2zeakDhDWTziDQG) | 3:02 |
-| 14 | [Mine](https://open.spotify.com/track/1K4W4T2b5mTzvmrVzVa7yH) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Mine](https://open.spotify.com/album/61brdiy3qEnUfbWWALxipD) | 2:41 |
-| 15 | [nic\(i\)](https://open.spotify.com/track/7CYz7FGYsxJWeF94lqsbFc) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [nic\(i\)](https://open.spotify.com/album/6x9tlX5hDXDCWQchmqSgt4) | 2:18 |
+| 13 | [Mine](https://open.spotify.com/track/1K4W4T2b5mTzvmrVzVa7yH) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Mine](https://open.spotify.com/album/61brdiy3qEnUfbWWALxipD) | 2:41 |
+| 14 | [nic\(i\)](https://open.spotify.com/track/7CYz7FGYsxJWeF94lqsbFc) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [nic\(i\)](https://open.spotify.com/album/6x9tlX5hDXDCWQchmqSgt4) | 2:18 |
+| 15 | [Safe Zone](https://open.spotify.com/track/7vU0fgnjfwRuAGDDNSmfGn) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Safe zone](https://open.spotify.com/album/00FCqeV2zeakDhDWTziDQG) | 3:02 |
 | 16 | [Interpretacje](https://open.spotify.com/track/34uVjVFFAuzSwuJcSBcYAA) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Obrazy Uczuć](https://open.spotify.com/album/1bzgcHJGgN78CTvBgIhsha) | 3:24 |
 | 17 | [Randomowe noce](https://open.spotify.com/track/2cnLvmsaqXJ46GVbtd6qtR) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Randomowe noce](https://open.spotify.com/album/5nMxp5U3ENlLByqe6vWNTv) | 2:16 |
 | 18 | [nowa żona](https://open.spotify.com/track/0AnOVb6iadwialNPnZkwKu) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [nowa żona](https://open.spotify.com/album/4Y72AbfqKAWXpiWpkOrEv0) | 2:06 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 77 | [Luksus](https://open.spotify.com/track/032wbCjB0T5yY6B1Sp7t5b) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH), [Trill Pem](https://open.spotify.com/artist/0x4xJCGDyTlKr47RF2WXzu) | [Luksus](https://open.spotify.com/album/59qNkAOwe8LEdKRqwocPD6) | 2:44 |
 | 78 | [Słoneczniki](https://open.spotify.com/track/2ila27UsX8EzLvTy6CcOAE) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Słoneczniki](https://open.spotify.com/album/0udfrdwqGWI0kWUJ7YtxOk) | 3:31 |
 
-Snapshot ID: `ZqLK4AAAAAAvPy0vDc8Z8U7ura0TkOih`
+Snapshot ID: `ZqgRHAAAAAATkJDxE9SMa6qIX4SJIbz6`

@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Showdemcamp, The cavemen & nsikak david
 
-442 songs - 20 hr 58 min
+443 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Belong to You](https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Belong to You](https://open.spotify.com/album/4wQ95SQDjYY9WxDp3ClIrU) | 3:02 | 2024-01-26 |  |
 | [Big 7](https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big 7](https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib) | 2:23 | 2023-07-28 | 2023-11-11 |
 | [Big 7](https://open.spotify.com/track/3A17uQFJab0NDpyIeZAavF) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:23 | 2023-11-10 | 2024-04-19 |
-| [BIG CHIEF](https://open.spotify.com/track/4LKn9gJAmNkcGJydMf2jjM) | [LAYCON](https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP) | [BIG CHIEF](https://open.spotify.com/album/739Mu88Ai8sLeRaZS1yi4S) | 3:04 | 2024-06-21 |  |
+| [BIG CHIEF](https://open.spotify.com/track/4LKn9gJAmNkcGJydMf2jjM) | [LAYCON](https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP) | [BIG CHIEF](https://open.spotify.com/album/739Mu88Ai8sLeRaZS1yi4S) | 3:04 | 2024-06-21 | 2024-07-30 |
 | [Big Energy](https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Big Energy](https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk) | 3:05 | 2022-06-09 | 2023-06-17 |
 | [Blessed Sinner](https://open.spotify.com/track/66fLV81N2fPV5XSaZn459U) | [Rord Kelly](https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR) | [Blessed Sinner](https://open.spotify.com/album/015Ci9KJFaVbvorl31nEv8) | 2:58 | 2023-03-17 | 2023-05-05 |
 | [Blessings](https://open.spotify.com/track/6brVEF4Ru3xosD8F6zYJXY) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [STILL FIGURING LIFE](https://open.spotify.com/album/3lnimhNmAuy3FzBkCiVfT9) | 2:41 | 2023-05-12 | 2023-12-04 |
@@ -175,6 +175,7 @@
 | [Hello Habibi](https://open.spotify.com/track/4nj32rIPm4mqx15x8B1meM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 2:16 | 2024-07-16 |  |
 | [High](https://open.spotify.com/track/0KnWwKsfDzPgXnbDpCgfNa) | [KOMÉ](https://open.spotify.com/artist/1QyP5lNWbUoGJ2qdb8okRh) | [High](https://open.spotify.com/album/6rKcXdZNdAhY5azzwMBvkv) | 1:59 | 2023-07-20 | 2023-07-28 |
 | [Highest Student](https://open.spotify.com/track/7a0Wzxeh1I88Br9ZNtHD5H) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J), [Masiano](https://open.spotify.com/artist/0wh9usKigmJMIpkosaQ5uF) | [Highest Student](https://open.spotify.com/album/3cw1LTnoRBHQN9StfTHYDK) | 2:51 | 2023-03-25 | 2023-07-28 |
+| [Hit](https://open.spotify.com/track/12JtmBk0kNsk5GSECkOSPn) | [Sosa.ttw](https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko) | [Hit](https://open.spotify.com/album/41FcOVnvv8nkpG6X6uzqdT) | 2:12 | 2024-07-19 |  |
 | [Holy Gee](https://open.spotify.com/track/3Y8PRiBMczgHn3edpbCkfb) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Holy Gee](https://open.spotify.com/album/6G5EqRXFllg0YGv6sXk5IP) | 2:44 | 2022-07-21 | 2023-11-17 |
 | [Holy Pass \(feat\. 1da Banton\)](https://open.spotify.com/track/11XfkUA9RygQ7UFoZ5stfH) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [NO PRESSURE](https://open.spotify.com/album/1SuP7VA3qfRhwV5vRscb9q) | 3:00 | 2023-07-28 | 2023-11-24 |
 | [Humble Cry](https://open.spotify.com/track/0iWD2VVQiNnUvYG74mBw4c) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx) | [Humble Cry](https://open.spotify.com/album/0HAgykkVb3jNd5UFdzIsKI) | 2:41 | 2023-08-17 | 2023-11-10 |

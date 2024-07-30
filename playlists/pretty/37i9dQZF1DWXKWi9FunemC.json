@@ -1,6 +1,6 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 328239,
+  "num_followers": 328362,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
@@ -495,38 +495,6 @@
     {
       "added_at": "2024-06-23 02:19:22",
       "album": {
-        "name": "In Every Way",
-        "url": "https://open.spotify.com/album/79XjwIUuzdsB6zEyugFEUv"
-      },
-      "artists": [
-        {
-          "name": "Christy Nockels",
-          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
-        }
-      ],
-      "duration_ms": 263213,
-      "name": "In Every Way",
-      "url": "https://open.spotify.com/track/0ILZCXYCSq6AnBvBSOnmeB"
-    },
-    {
-      "added_at": "2024-06-23 02:19:22",
-      "album": {
-        "name": "Don't Stop Praying (Acoustic)",
-        "url": "https://open.spotify.com/album/28oHlQ8LW9kzgaZjB0Uc8L"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 259868,
-      "name": "Don't Stop Praying (Acoustic)",
-      "url": "https://open.spotify.com/track/0XHLYCJp3ztpYROWBRzmmG"
-    },
-    {
-      "added_at": "2024-06-23 02:19:22",
-      "album": {
         "name": "Neighbor Songs",
         "url": "https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So"
       },
@@ -547,6 +515,38 @@
       "duration_ms": 241600,
       "name": "Daughters of Zion",
       "url": "https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I"
+    },
+    {
+      "added_at": "2024-06-23 02:19:22",
+      "album": {
+        "name": "Don't Stop Praying (Acoustic)",
+        "url": "https://open.spotify.com/album/28oHlQ8LW9kzgaZjB0Uc8L"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 259868,
+      "name": "Don't Stop Praying (Acoustic)",
+      "url": "https://open.spotify.com/track/0XHLYCJp3ztpYROWBRzmmG"
+    },
+    {
+      "added_at": "2024-06-23 02:19:22",
+      "album": {
+        "name": "In Every Way",
+        "url": "https://open.spotify.com/album/79XjwIUuzdsB6zEyugFEUv"
+      },
+      "artists": [
+        {
+          "name": "Christy Nockels",
+          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
+        }
+      ],
+      "duration_ms": 263213,
+      "name": "In Every Way",
+      "url": "https://open.spotify.com/track/0ILZCXYCSq6AnBvBSOnmeB"
     },
     {
       "added_at": "2024-06-23 02:19:22",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-06-23 02:19:22",
       "album": {
+        "name": "MATIN: Rest",
+        "url": "https://open.spotify.com/album/12cExcrLvFwR8xc7TjyIwG"
+      },
+      "artists": [
+        {
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+        }
+      ],
+      "duration_ms": 329812,
+      "name": "Leaning on the Everlasting Arms",
+      "url": "https://open.spotify.com/track/0Zs4yEcEo9AIiGZcCiZM7n"
+    },
+    {
+      "added_at": "2024-06-23 02:19:22",
+      "album": {
         "name": "Christ Be In My Heart",
         "url": "https://open.spotify.com/album/5pS5ILMbBzeVWrIXc5VP8L"
       },
@@ -715,18 +731,18 @@
     {
       "added_at": "2024-06-23 02:19:22",
       "album": {
-        "name": "MATIN: Rest",
-        "url": "https://open.spotify.com/album/12cExcrLvFwR8xc7TjyIwG"
+        "name": "Holy Forever (Acoustic)",
+        "url": "https://open.spotify.com/album/2PbAV9JMhQr8Rk5myr5AOc"
       },
       "artists": [
         {
-          "name": "Jess Ray",
-          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
         }
       ],
-      "duration_ms": 329812,
-      "name": "Leaning on the Everlasting Arms",
-      "url": "https://open.spotify.com/track/0Zs4yEcEo9AIiGZcCiZM7n"
+      "duration_ms": 268958,
+      "name": "Holy Forever - Acoustic",
+      "url": "https://open.spotify.com/track/1Qz6A8AWuukckIksROXJCD"
     },
     {
       "added_at": "2024-06-23 02:19:22",
@@ -751,22 +767,6 @@
       "duration_ms": 300746,
       "name": "Psalm 136 [Your Mercy Endures] [Thomas Merton Mix] - feat. Leslie Jordan] [Thomas Merton Mix",
       "url": "https://open.spotify.com/track/685qjYgfMFp0UKvPbDNYoz"
-    },
-    {
-      "added_at": "2024-06-23 02:19:22",
-      "album": {
-        "name": "Holy Forever (Acoustic)",
-        "url": "https://open.spotify.com/album/2PbAV9JMhQr8Rk5myr5AOc"
-      },
-      "artists": [
-        {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
-        }
-      ],
-      "duration_ms": 268958,
-      "name": "Holy Forever - Acoustic",
-      "url": "https://open.spotify.com/track/1Qz6A8AWuukckIksROXJCD"
     },
     {
       "added_at": "2024-06-23 02:19:22",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-06-23 02:19:22",
       "album": {
-        "name": "Echoes Of Love",
-        "url": "https://open.spotify.com/album/1mUh5G47foAbuBVgVmbDzt"
-      },
-      "artists": [
-        {
-          "name": "Aremmic",
-          "url": "https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN"
-        }
-      ],
-      "duration_ms": 211343,
-      "name": "Echoes Of Love",
-      "url": "https://open.spotify.com/track/5Soqtv37Gb1ROUIAVCfOeW"
-    },
-    {
-      "added_at": "2024-06-23 02:19:22",
-      "album": {
         "name": "If It Wasn\u2019t for the Cross",
         "url": "https://open.spotify.com/album/013ERHFnsYzmZz8BdfyiEN"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2024-06-23 02:19:22",
       "album": {
-        "name": "Magnified (Acoustic)",
-        "url": "https://open.spotify.com/album/1ubwV6NBMwJxIFJgFSEYI4"
+        "name": "Echoes Of Love",
+        "url": "https://open.spotify.com/album/1mUh5G47foAbuBVgVmbDzt"
       },
       "artists": [
         {
-          "name": "Ginny Owens",
-          "url": "https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn"
+          "name": "Aremmic",
+          "url": "https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN"
         }
       ],
-      "duration_ms": 211800,
-      "name": "Magnified (Acoustic)",
-      "url": "https://open.spotify.com/track/4hA4SYhcGs5EuxHYW5VKgT"
+      "duration_ms": 211343,
+      "name": "Echoes Of Love",
+      "url": "https://open.spotify.com/track/5Soqtv37Gb1ROUIAVCfOeW"
     },
     {
       "added_at": "2024-06-23 02:19:22",
@@ -987,6 +971,22 @@
     {
       "added_at": "2024-06-23 02:19:22",
       "album": {
+        "name": "Magnified (Acoustic)",
+        "url": "https://open.spotify.com/album/1ubwV6NBMwJxIFJgFSEYI4"
+      },
+      "artists": [
+        {
+          "name": "Ginny Owens",
+          "url": "https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn"
+        }
+      ],
+      "duration_ms": 211800,
+      "name": "Magnified (Acoustic)",
+      "url": "https://open.spotify.com/track/4hA4SYhcGs5EuxHYW5VKgT"
+    },
+    {
+      "added_at": "2024-06-23 02:19:22",
+      "album": {
         "name": "Saving Me Still",
         "url": "https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca"
       },
@@ -999,6 +999,22 @@
       "duration_ms": 380800,
       "name": "Saving Me Still",
       "url": "https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV"
+    },
+    {
+      "added_at": "2024-06-23 02:19:22",
+      "album": {
+        "name": "25th floor of a reservation casino",
+        "url": "https://open.spotify.com/album/2Tqb3XASaRS2WSxjzDrYQF"
+      },
+      "artists": [
+        {
+          "name": "Andrew Osenga",
+          "url": "https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4"
+        }
+      ],
+      "duration_ms": 272213,
+      "name": "how great thou art",
+      "url": "https://open.spotify.com/track/7utnfGm43yniXcoW9Btz5R"
     },
     {
       "added_at": "2024-06-23 02:19:22",
@@ -1019,22 +1035,6 @@
       "duration_ms": 297546,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"
-    },
-    {
-      "added_at": "2024-06-23 02:19:22",
-      "album": {
-        "name": "25th floor of a reservation casino",
-        "url": "https://open.spotify.com/album/2Tqb3XASaRS2WSxjzDrYQF"
-      },
-      "artists": [
-        {
-          "name": "Andrew Osenga",
-          "url": "https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4"
-        }
-      ],
-      "duration_ms": 272213,
-      "name": "how great thou art",
-      "url": "https://open.spotify.com/track/7utnfGm43yniXcoW9Btz5R"
     },
     {
       "added_at": "2024-06-23 02:19:22",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-06-23 02:19:22",
       "album": {
-        "name": "Well Done (Acoustic)",
-        "url": "https://open.spotify.com/album/74IHbsvrTcs57jA0TNE6uE"
-      },
-      "artists": [
-        {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
-        }
-      ],
-      "duration_ms": 278906,
-      "name": "Well Done - Acoustic",
-      "url": "https://open.spotify.com/track/4Ax0OUw3sH67c2ZwaUix0c"
-    },
-    {
-      "added_at": "2024-06-23 02:19:22",
-      "album": {
         "name": "How Can I",
         "url": "https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM"
       },
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2024-06-23 02:19:22",
       "album": {
+        "name": "Well Done (Acoustic)",
+        "url": "https://open.spotify.com/album/74IHbsvrTcs57jA0TNE6uE"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "duration_ms": 278906,
+      "name": "Well Done - Acoustic",
+      "url": "https://open.spotify.com/track/4Ax0OUw3sH67c2ZwaUix0c"
+    },
+    {
+      "added_at": "2024-06-23 02:19:22",
+      "album": {
         "name": "Still There's Something",
         "url": "https://open.spotify.com/album/4d4EkrXfLUpuQMviLTdNXV"
       },
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-06-23 02:19:22",
       "album": {
-        "name": "Fortress (Acoustic)",
-        "url": "https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X"
-      },
-      "artists": [
-        {
-          "name": "Refuge Worship",
-          "url": "https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz"
-        }
-      ],
-      "duration_ms": 249485,
-      "name": "Fortress (Acoustic)",
-      "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
-    },
-    {
-      "added_at": "2024-06-23 02:19:22",
-      "album": {
         "name": "Old Soul",
         "url": "https://open.spotify.com/album/72vGiZL0HIgpHChUfRLipW"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 221684,
       "name": "Old Soul",
       "url": "https://open.spotify.com/track/0oZHCtja9pIACGN5fyZMef"
+    },
+    {
+      "added_at": "2024-06-23 02:19:22",
+      "album": {
+        "name": "Fortress (Acoustic)",
+        "url": "https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X"
+      },
+      "artists": [
+        {
+          "name": "Refuge Worship",
+          "url": "https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz"
+        }
+      ],
+      "duration_ms": 249485,
+      "name": "Fortress (Acoustic)",
+      "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
     },
     {
       "added_at": "2024-06-23 02:19:22",

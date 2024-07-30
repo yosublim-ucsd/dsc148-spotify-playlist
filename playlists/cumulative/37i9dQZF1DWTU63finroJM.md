@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: Annural Khalid.
 
-1,530 songs - 3 day 11 hr 43 min
+1,531 songs - 3 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [BLACK DOG / WHITE HORSE](https://open.spotify.com/track/2C0fTD8sK5gNETLEg5PqUj) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [BLACK DOG / WHITE HORSE](https://open.spotify.com/album/71gslL2qa2QaPuZvQsWihW) | 3:08 | 2024-04-05 | 2024-06-09 |
 | [Black Hole](https://open.spotify.com/track/0vnKE8ukNmF641XhnEyZJD) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 3:20 | 2022-02-03 | 2022-09-16 |
 | [Black Mamba](https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Black Mamba](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) | 2:54 | 2022-02-03 | 2022-03-02 |
-| [BLAME IT ON ME](https://open.spotify.com/track/3O4EGwdDFNMs69RWWSQRFI) | [Alex Coles](https://open.spotify.com/artist/7itwELrXfDuINywbgrNm6b) | [BLAME IT ON ME](https://open.spotify.com/album/5w2zXflgG8ZZtJLqT7Gvsl) | 2:42 | 2024-05-24 |  |
+| [BLAME IT ON ME](https://open.spotify.com/track/3O4EGwdDFNMs69RWWSQRFI) | [Alex Coles](https://open.spotify.com/artist/7itwELrXfDuINywbgrNm6b) | [BLAME IT ON ME](https://open.spotify.com/album/5w2zXflgG8ZZtJLqT7Gvsl) | 2:42 | 2024-05-24 | 2024-07-30 |
 | [Blame Me](https://open.spotify.com/track/5eRSBJ5HF7g5IzDhY45Ryi) | [Ayesha Madon](https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr) | [Blame Me](https://open.spotify.com/album/4Ip5jY0U3bUyx5QjyFC3LJ) | 2:43 | 2024-06-28 |  |
 | [blanket](https://open.spotify.com/track/1HtOV8CG71MY8kjqbaTrEm) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS), [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [blanket](https://open.spotify.com/album/77rv24srv70kCBADI5nB1d) | 3:03 | 2022-02-03 | 2022-08-02 |
 | [Blanket of Sadness \(feat\. Rendy Pandugo\)](https://open.spotify.com/track/0EXd3T4RUhTowr4S5XRGS5) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF), [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [Strangers Again](https://open.spotify.com/album/3q6c8XzlrtbsE3FFdatQtO) | 4:06 | 2022-02-03 | 2022-08-02 |
@@ -488,6 +488,7 @@
 | [Good Times](https://open.spotify.com/track/0XzbAAWtu0zx6bnDbBUcOs) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Good Times + Simmer Down](https://open.spotify.com/album/3hie3PiFhq6i06fuptTaZ0) | 2:50 | 2022-03-24 | 2022-04-20 |
 | [GPS](https://open.spotify.com/track/7mSXu1Q76JGPLYolCKp3Xw) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [LostOwl](https://open.spotify.com/artist/2nO3NsrkKhV3cBI7X1wYbb), [Nam Ngo](https://open.spotify.com/artist/5rEpvWrgw0tvax27frKVlH) | [GPS](https://open.spotify.com/album/1dabh9kedSOCHQSXE1cYsN) | 3:59 | 2022-03-21 | 2023-04-18 |
 | [grips](https://open.spotify.com/track/3OdyOQKTsqiUs25V1aXUsR) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [grips](https://open.spotify.com/album/71uZd2dScWHUmpKLV3QyWX) | 2:58 | 2024-04-26 | 2024-06-01 |
+| [Guilty](https://open.spotify.com/track/6m1J8D9SGvfOxpA3RC3bD6) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Guilty](https://open.spotify.com/album/7LuYrvLkdzxHarZHNFLvYq) | 2:51 | 2024-07-26 |  |
 | [Gusto With Ya](https://open.spotify.com/track/0hr2Itwh84Zn3PiRRjHTnw) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Gusto With Ya](https://open.spotify.com/album/3hQTzUwRIXnetrF1WrSrfk) | 2:42 | 2023-05-30 | 2023-10-28 |
 | [Guts](https://open.spotify.com/track/5cVBkcYGi6aiG4cnTMfN6x) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Guts](https://open.spotify.com/album/6szOt2A9ABSPorygYiIKY1) | 3:26 | 2022-03-24 | 2022-12-15 |
 | [Habibi](https://open.spotify.com/track/18h9rHI5B0fuP41eeqDgM7) | [La Cebolla](https://open.spotify.com/artist/0UkT6v5uBVrNrDr5TdETq9) | [Caracas](https://open.spotify.com/album/01Uq9VWpudS6cahLQdJ71Q) | 3:15 | 2022-03-24 | 2022-04-19 |

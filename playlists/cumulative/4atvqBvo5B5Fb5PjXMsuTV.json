@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 28 Jul 16:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 30 Jul 22:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 203419,
       "name": "Alone In The Darkness",
       "url": "https://open.spotify.com/track/4C05h8hyVDmJY3XHJJEvxS"
@@ -7265,6 +7265,28 @@
     },
     {
       "album": {
+        "name": "Failstate",
+        "url": "https://open.spotify.com/album/6FrjXIoevSDuqDYvuxvGkT"
+      },
+      "artists": [
+        {
+          "name": "Gravemind",
+          "url": "https://open.spotify.com/artist/2GaM9ww6p0aBZ8omjfINAH"
+        },
+        {
+          "name": "Mick Gordon",
+          "url": "https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182434,
+      "name": "Failstate",
+      "url": "https://open.spotify.com/track/3azEr1hhru3U90cc8Y2aH8"
+    },
+    {
+      "album": {
         "name": "Fairytale Expedition",
         "url": "https://open.spotify.com/album/5uuv47wsIqqROeoqG1hEfI"
       },
@@ -7732,7 +7754,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 124917,
       "name": "Fires",
       "url": "https://open.spotify.com/track/7tuplUZWycOudn832iuQk3"
@@ -7918,6 +7940,28 @@
       "duration_ms": 152755,
       "name": "Florenz",
       "url": "https://open.spotify.com/track/74vE9sxMnFuxzp4uDkrwKW"
+    },
+    {
+      "album": {
+        "name": "FLY",
+        "url": "https://open.spotify.com/album/625XC0V9Yy5Ftclw7R1nUD"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Cherish",
+          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239351,
+      "name": "FLY",
+      "url": "https://open.spotify.com/track/5boCLf0x3ieEVXBXIjRKQo"
     },
     {
       "album": {
@@ -8342,7 +8386,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 268732,
       "name": "FVKVRVND",
       "url": "https://open.spotify.com/track/2YVizOAT1yNq7Say1AhrJR"
@@ -9465,6 +9509,28 @@
     },
     {
       "album": {
+        "name": "Hanging from the Ceiling",
+        "url": "https://open.spotify.com/album/7f8TqbOhjME7h1EZtjxSc9"
+      },
+      "artists": [
+        {
+          "name": "Acidgvrl",
+          "url": "https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f"
+        },
+        {
+          "name": "irichan!",
+          "url": "https://open.spotify.com/artist/0hk7xvuMOqeUb0MWDkWwH6"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142921,
+      "name": "Hanging from the Ceiling",
+      "url": "https://open.spotify.com/track/66DDx6xdVC0SqHFCardl5a"
+    },
+    {
+      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/0W0yP0NOGxtwi2UEeWhk2K"
       },
@@ -9550,8 +9616,8 @@
           "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         },
         {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0jRzRAdDRdEtz2advDjqx5"
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
         }
       ],
       "date_added": "2024-07-26",
@@ -10030,6 +10096,24 @@
       "duration_ms": 192600,
       "name": "hey! hey!",
       "url": "https://open.spotify.com/track/6vSpm3PAXA1PLyEINx3DJC"
+    },
+    {
+      "album": {
+        "name": "Hi-Five",
+        "url": "https://open.spotify.com/album/4pe4BLnbONwKENMUxzYpq9"
+      },
+      "artists": [
+        {
+          "name": "ME:I",
+          "url": "https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165493,
+      "name": "Hi-Five",
+      "url": "https://open.spotify.com/track/2tInxej0SuDFc5c94x4GBB"
     },
     {
       "album": {
@@ -11273,6 +11357,24 @@
     },
     {
       "album": {
+        "name": "If I Was Abducted By Aliens",
+        "url": "https://open.spotify.com/album/2P7F7SSH9F2wv70Ii7v5VE"
+      },
+      "artists": [
+        {
+          "name": "Dirty Nice",
+          "url": "https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166132,
+      "name": "If I Was Abducted By Aliens",
+      "url": "https://open.spotify.com/track/7cgwbjiVtsfFSYYsrpOsPI"
+    },
+    {
+      "album": {
         "name": "IF I'M GONNA GO ANYWHERE",
         "url": "https://open.spotify.com/album/0fWYCV4XA1FLYFOCGopl5L"
       },
@@ -11824,6 +11926,24 @@
       "duration_ms": 140302,
       "name": "Joker",
       "url": "https://open.spotify.com/track/3HyD8c5C8C7P5TgmNfc8YK"
+    },
+    {
+      "album": {
+        "name": "Joker Lips",
+        "url": "https://open.spotify.com/album/5J3znEDi6fLt9hRSVF8Ukc"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181040,
+      "name": "Joker Lips",
+      "url": "https://open.spotify.com/track/6tYgLXfFUhNDe6QHZmsJzX"
     },
     {
       "album": {
@@ -13550,7 +13670,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 197226,
       "name": "M4D LUV",
       "url": "https://open.spotify.com/track/1VvnwevAQLDauz6iZbbxDv"
@@ -16817,6 +16937,24 @@
     },
     {
       "album": {
+        "name": "Please Summer!",
+        "url": "https://open.spotify.com/album/2F0OiYvZqmcfCZ8lFm9v6B"
+      },
+      "artists": [
+        {
+          "name": "KWON EUNBI",
+          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239280,
+      "name": "Please Summer!",
+      "url": "https://open.spotify.com/track/0MEjDaCkQ90NpegfbwBMZ1"
+    },
+    {
+      "album": {
         "name": "Plenty Guns",
         "url": "https://open.spotify.com/album/3LwKxNjZlZhnAq6sHZnYhS"
       },
@@ -17230,6 +17368,24 @@
       "duration_ms": 172960,
       "name": "Prism in Jeans",
       "url": "https://open.spotify.com/track/1gHpfrLUzsLv05B7sFy6Dl"
+    },
+    {
+      "album": {
+        "name": "Protector",
+        "url": "https://open.spotify.com/album/0Lg5U1P4p7c2jjzZStHPkm"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289193,
+      "name": "Protector",
+      "url": "https://open.spotify.com/track/246PeUwGKXRy9Uvl3lQU9U"
     },
     {
       "album": {
@@ -20192,7 +20348,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 124728,
       "name": "Star",
       "url": "https://open.spotify.com/track/6LM7O0ujf9VfPleIQA1bWm"
@@ -22612,7 +22768,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 199314,
       "name": "TILL I DIE",
       "url": "https://open.spotify.com/track/6HseMEzSf4mxnUem0O1hJp"
@@ -23584,7 +23740,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 188119,
       "name": "Vulture",
       "url": "https://open.spotify.com/track/77Q0N60N7yV8JhXPhwWeTQ"
@@ -25104,7 +25260,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 148489,
       "name": "ZAZA",
       "url": "https://open.spotify.com/track/6hVACzif1nps4w5dbUKy4i"

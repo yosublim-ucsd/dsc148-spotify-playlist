@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 133805,
       "name": "360",
       "url": "https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex"
@@ -1838,7 +1838,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 166880,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
@@ -2504,7 +2504,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 130944,
       "name": "DEVIL IS A LIE",
       "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
@@ -2682,6 +2682,24 @@
       "duration_ms": 211468,
       "name": "DOWN BY LAW",
       "url": "https://open.spotify.com/track/6KlvybbokGa63tRS4J3Uqh"
+    },
+    {
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/0ErFgbtfOPytIcwFfGy8VV"
+      },
+      "artists": [
+        {
+          "name": "Reed Foley",
+          "url": "https://open.spotify.com/artist/7xZgMvtftYlkdIPa0P7xzc"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225158,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/31ZFsq0fG1z4933BlWOAjJ"
     },
     {
       "album": {
@@ -3682,7 +3700,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 142265,
       "name": "Guess",
       "url": "https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ"
@@ -4360,7 +4378,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 197133,
       "name": "I Am Not Okay",
       "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
@@ -7188,7 +7206,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
@@ -9630,7 +9648,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 197538,
       "name": "Suniyan Suniyan",
       "url": "https://open.spotify.com/track/0XRb6eZE4dBIJdqwf1Mixu"

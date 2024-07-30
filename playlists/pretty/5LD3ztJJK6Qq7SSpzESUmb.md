@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LD3ztJJK6Qq7SSpzESUmb.md) - [plain]
 
 > The hottest new songs rocking Kerrang!'s world, updated every Friday!
 
-[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,179 likes - 20 songs - 1 hr 11 min
+[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,179 likes - 20 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,6 +27,6 @@ pretty - [cumulative](/playlists/cumulative/5LD3ztJJK6Qq7SSpzESUmb.md) - [plain]
 | 17 | [Utbrent](https://open.spotify.com/track/3Sayl9YoveMx8z5piLXCHs) | [Mork](https://open.spotify.com/artist/6txf2ksDlbyt06kNh1m4o7) | [Utbrent](https://open.spotify.com/album/1nqOfK8cjhbAsVzt0oREd9) | 6:15 |
 | 18 | [Grand Deceivers](https://open.spotify.com/track/03oPGnM8Cmh1gyW0ZdBo3N) | [Thuum](https://open.spotify.com/artist/1B1zkWmkstkl82GuWpqPZB) | [Grand Deceivers](https://open.spotify.com/album/5fF4xMjfhx1JSZndXi3uVg) | 5:27 |
 | 19 | [Blood $oda](https://open.spotify.com/track/3aY20b8Gp7v95zWYeyR9OK) | [SWARM6IX](https://open.spotify.com/artist/7DYdJ6bspShavDgUNiGAYp) | [Blood $oda](https://open.spotify.com/album/0qgmBQ4wi11o8SMR1onUNH) | 3:04 |
-| 20 | [What Lies Beneath](https://open.spotify.com/track/6m4GSzZKoMJ5WuKdPjK6Uc) | [Plague of Angels](https://open.spotify.com/artist/5jGzM411UiGNqwE8zhktbZ) | [What Lies Beneath](https://open.spotify.com/album/0c9alXLtZariGyf4T4Spfu) | 3:57 |
+| 20 | [Beyond Salvation](https://open.spotify.com/track/6nu9ZIA5VoU2AlZYD7CERj) | [Plague of Angels](https://open.spotify.com/artist/5jGzM411UiGNqwE8zhktbZ) | [Beyond Salvation](https://open.spotify.com/album/4wzwIk9uqfMi4sSXsKzIYF) | 4:21 |
 
-Snapshot ID: `AAAMVmcSBen/QbdsuJwUof78O1/WLRoC`
+Snapshot ID: `AAAMWHn/OFLdcwCoIXhSI2a3yZ1lwmdC`

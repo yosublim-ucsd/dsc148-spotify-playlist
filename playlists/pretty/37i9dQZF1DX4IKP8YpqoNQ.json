@@ -91,22 +91,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "The Circle Session, 2023",
-        "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 216838,
-      "name": "Oceans Of Emotions - The Circle Session, 2023",
-      "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 244213,
       "name": "Beyond - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2amPRWMdtrMrGG1vafKvxl"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "The Circle Session, 2023",
+        "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 216838,
+      "name": "Oceans Of Emotions - The Circle Session, 2023",
+      "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "The Womack \u201cLive\u201d",
-        "url": "https://open.spotify.com/album/6V7Xe40jkKb1MtdCwzO21A"
-      },
-      "artists": [
-        {
-          "name": "Bobby Womack",
-          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
-        }
-      ],
-      "duration_ms": 366773,
-      "name": "California Dreamin' - Live In Hollywood / 1968",
-      "url": "https://open.spotify.com/track/1nmwDIOcxdrL81PQXHI9kg"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "The Tour",
         "url": "https://open.spotify.com/album/5V0EoaXr2iR8rWsV0Bbr1S"
       },
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
+        "name": "The Womack \u201cLive\u201d",
+        "url": "https://open.spotify.com/album/6V7Xe40jkKb1MtdCwzO21A"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
         }
       ],
-      "duration_ms": 158266,
-      "name": "Nobody Knows You When You're Down And Out - Live In New York",
-      "url": "https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F"
+      "duration_ms": 366773,
+      "name": "California Dreamin' - Live In Hollywood / 1968",
+      "url": "https://open.spotify.com/track/1nmwDIOcxdrL81PQXHI9kg"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Good To Me: Recorded Live At The Whisky A Go Go Vol. 2",
-        "url": "https://open.spotify.com/album/4GBpI2RteJ9C51Mf1OgZAQ"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 210666,
-      "name": "These Arms Of Mine",
-      "url": "https://open.spotify.com/track/03pSPi9O3N1CkZ12M6Av44"
+      "duration_ms": 158266,
+      "name": "Nobody Knows You When You're Down And Out - Live In New York",
+      "url": "https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1431,6 +1415,22 @@
       "duration_ms": 394973,
       "name": "What Is Hip? - Live Version",
       "url": "https://open.spotify.com/track/60bm1fhy4Fs8MKr8bM8MJt"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "Good To Me: Recorded Live At The Whisky A Go Go Vol. 2",
+        "url": "https://open.spotify.com/album/4GBpI2RteJ9C51Mf1OgZAQ"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "These Arms Of Mine",
+      "url": "https://open.spotify.com/track/03pSPi9O3N1CkZ12M6Av44"
     },
     {
       "added_at": "2024-01-11 23:01:00",

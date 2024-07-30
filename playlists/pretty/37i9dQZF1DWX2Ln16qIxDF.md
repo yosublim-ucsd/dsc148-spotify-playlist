@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 > Lo más pegado, lo más trendy, o sea Chayanne & Luck Ra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,087,087 likes - 103 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,087,249 likes - 103 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

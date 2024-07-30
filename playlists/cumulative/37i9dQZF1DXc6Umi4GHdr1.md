@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-378 songs - 16 hr 49 min
+380 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Airstream](https://open.spotify.com/track/4Dh7eyJf2nJgPfpQAOiL7z) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [Airstream](https://open.spotify.com/album/4SBHi1gf4x4rlDr6DEHw16) | 3:44 | 2022-03-03 |  |
 | [Albatroz](https://open.spotify.com/track/6pkOGtH05w1pZh7oF7l7rA) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Albatroz](https://open.spotify.com/album/5erw9xZgmumf9gY3BuDpDb) | 2:41 | 2024-06-07 |  |
 | [Alone Together](https://open.spotify.com/track/5XcO6t7nKvdHiCa474sfiy) | [Jay Peters](https://open.spotify.com/artist/4TSsVmOkMQ992fO3eHBdBd) | [Alone Together](https://open.spotify.com/album/3OTWBZd4BN9Ul2ggs1mrGm) | 2:09 | 2022-12-16 | 2023-09-29 |
+| [Along rusty rails](https://open.spotify.com/track/5xgTVeCBbRQ2rHl33azMw2) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Along rusty rails](https://open.spotify.com/album/60chGCUrcfMTQD2WxZsqyC) | 2:10 | 2024-07-29 |  |
 | [Altai](https://open.spotify.com/track/5xnMxcqVARosZ7Uwr4D04M) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Altai](https://open.spotify.com/album/2nrYZcCUiavKgeH2f07zlz) | 2:59 | 2023-09-29 | 2024-06-28 |
 | [Ambre](https://open.spotify.com/track/1rFdALiqOX8kNni9pfZmV4) | [TMBM](https://open.spotify.com/artist/52z20tKbBxd3cmVPXzm2wL) | [Ambre](https://open.spotify.com/album/2xlkLv8kVIODBwA5pt6RbC) | 3:44 | 2022-05-13 | 2023-09-01 |
 | [Amor Perfeito](https://open.spotify.com/track/5Ayj1cdbFJ6d9MwFeFEREe) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Amor Perfeito](https://open.spotify.com/album/5tbZcyDOEmo4dbpes7LAlO) | 2:20 | 2023-08-31 |  |
@@ -94,7 +95,7 @@
 | [Divine Smile](https://open.spotify.com/track/6nnoZ1JS7wWrpRcg1DsWas) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Divine Smile](https://open.spotify.com/album/0rmJuboHrB6Tpd7Sb71bad) | 2:04 | 2024-02-23 |  |
 | [Donegal](https://open.spotify.com/track/51760UCr1H0wFGIeNlZg2F) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Donegal](https://open.spotify.com/album/4aPfvkL9aJn4yozAV8Hift) | 2:36 | 2023-10-13 |  |
 | [Doors](https://open.spotify.com/track/0p8hGanIeSRCOcDZ1nayUb) | [Marian Rose](https://open.spotify.com/artist/6zh9U3XKNFN5Drifqx5DtG) | [Doors](https://open.spotify.com/album/25383NCmsUte9zszpeKzr2) | 2:31 | 2024-03-08 |  |
-| [Dorival](https://open.spotify.com/track/1sgihll2tdAfRm3ko1Bay3) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Dorival](https://open.spotify.com/album/460T3DYQguwcbXb5M97nr6) | 2:46 | 2022-12-09 |  |
+| [Dorival](https://open.spotify.com/track/1sgihll2tdAfRm3ko1Bay3) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Dorival](https://open.spotify.com/album/460T3DYQguwcbXb5M97nr6) | 2:46 | 2022-12-09 | 2024-07-30 |
 | [Dreaming of You](https://open.spotify.com/track/2Kc5cRMOGRwUHmUWCK6dtp) | [Suno Light](https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h) | [Dreaming of You](https://open.spotify.com/album/7jCgSYBykgShmN0fqPq5K6) | 3:45 | 2024-05-10 |  |
 | [Driving Alongside](https://open.spotify.com/track/3OAPa9BnaZoHYbDvaa952w) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Driving Alongside](https://open.spotify.com/album/5i4GPhiFsiEmNxgrFITm5D) | 2:29 | 2023-12-15 |  |
 | [Droplets](https://open.spotify.com/track/5dqXVZIkN8zzWQTStYGr0i) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [Droplets](https://open.spotify.com/album/3hgVEb5uOhSbwPnosbYMZt) | 2:22 | 2022-11-25 |  |
@@ -184,7 +185,7 @@
 | [Lettre encore](https://open.spotify.com/track/7fMaXYCcmEt2rDcXcGpYMl) | [Roland Dyens](https://open.spotify.com/artist/004s3WVecP2IQy7Hw8gfoi), [Elena Papandreou](https://open.spotify.com/artist/79nEvQEOGsm8elVnhpeiP3) | [Dyens: Guitar Music](https://open.spotify.com/album/6gNJf8Eb2dGtKWWkmjJdGq) | 1:39 | 2021-12-10 | 2022-07-22 |
 | [Like A Feather](https://open.spotify.com/track/7Mzcjfy53dYvSeqaTR0fSW) | [Jaime Escalera](https://open.spotify.com/artist/2qEvQtzSMR7dKMeakDbZaf) | [Like A Feather](https://open.spotify.com/album/3fU6JjOGp9mdg8PyxcXPy0) | 2:46 | 2023-08-11 |  |
 | [Like no other](https://open.spotify.com/track/4OPE3wPxaqWeUtz0BmBwpW) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Like no other](https://open.spotify.com/album/75k6x2e7p4fOqFTYtkJtQb) | 2:32 | 2023-03-10 | 2023-06-16 |
-| [Little Brook](https://open.spotify.com/track/7qNq3sxKEdzYWvxLSLkj0J) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [Little Brook](https://open.spotify.com/album/4LFmxQ7oxYlsVgITnOa2SX) | 2:22 | 2022-12-09 |  |
+| [Little Brook](https://open.spotify.com/track/7qNq3sxKEdzYWvxLSLkj0J) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [Little Brook](https://open.spotify.com/album/4LFmxQ7oxYlsVgITnOa2SX) | 2:22 | 2022-12-09 | 2024-07-30 |
 | [Live just one more moment](https://open.spotify.com/track/3a2YKVcHmyXPZvWGofVTZ6) | [Brogan Doyle](https://open.spotify.com/artist/1Vefdiw82VOjbwc5y7iQyg) | [Live just one more moment](https://open.spotify.com/album/52cRGasaOFSkOte69HO7Yf) | 2:22 | 2022-03-03 |  |
 | [London Fog](https://open.spotify.com/track/39PaXHJYKENift4jbT5n8j) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [London Fog](https://open.spotify.com/album/0832H76yui7UZKuSv6i3ip) | 2:29 | 2024-02-02 |  |
 | [Long Walking Back Home](https://open.spotify.com/track/3rlhZSPaSjM9Xf3R8iInwG) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Long Walking Back Home](https://open.spotify.com/album/2uEL6m8Pq3u7m3HirU4NxX) | 3:08 | 2022-03-03 |  |
@@ -343,6 +344,7 @@
 | [Translucent](https://open.spotify.com/track/5JTQZAulgYZHdYvsGzIPpr) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Translucent](https://open.spotify.com/album/52GxEBUMTXix3i2AhCaFVz) | 3:16 | 2024-01-12 |  |
 | [Treasure Hunt](https://open.spotify.com/track/4gbVPKc38sBEMUUyhnO9JU) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Treasure Hunt](https://open.spotify.com/album/1KK15fZl2o3TzAUC0Q5wf0) | 2:46 | 2022-11-18 | 2024-06-15 |
 | [Tree Circle](https://open.spotify.com/track/03CLghlf8FCjjjhvZg3OjC) | [Isato Nakagawa](https://open.spotify.com/artist/7H7kbnGiqnG8GYDtDALthl) | [Tree Circle](https://open.spotify.com/album/6scj26E3tVRTzcBkkx5qRB) | 3:08 | 2021-12-10 | 2023-06-10 |
+| [Tree House](https://open.spotify.com/track/54ecb4bpZDXz6k5dFiP3xg) | [Ashton Foster](https://open.spotify.com/artist/6lleSq8jhlTKsIH0GeGSM4) | [Tree House](https://open.spotify.com/album/7KIVvFb75KSvmUYs8Qf6ss) | 2:25 | 2024-07-29 |  |
 | [Twin Lakes](https://open.spotify.com/track/5dRdpP3qiQXVfKqHZ5IQwr) | [Elijah Bisbee](https://open.spotify.com/artist/2C06lmmEcAw2OsGFUCOfPH), [Chris Bartels](https://open.spotify.com/artist/4RVdMNwTuWJAPTYpzBri7K), [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn) | [Twin Lakes](https://open.spotify.com/album/4PUnsy0zjlBSkhm7rI1hrS) | 4:01 | 2022-05-27 | 2022-07-22 |
 | [Uncertainties](https://open.spotify.com/track/76rcijJX0iASTr6adRx4I7) | [Still Tides](https://open.spotify.com/artist/4DnWRs5XJ6CES9GbwP0BNP) | [Uncertainties](https://open.spotify.com/album/0kPSAerrsANGVNiKCnV1Qu) | 2:57 | 2024-06-14 |  |
 | [Under the Stars](https://open.spotify.com/track/4hBZeB6q56Jzq3wDh1MuPF) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Under the Stars](https://open.spotify.com/album/51EkjvbQPcZksWNjfrUi91) | 2:16 | 2023-03-10 | 2024-07-18 |

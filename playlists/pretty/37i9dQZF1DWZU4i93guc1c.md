@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: badactress
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,995 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,015 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 29 | [Спочатку було Слово](https://open.spotify.com/track/5OeWN69Qzwd3pzpy6802Ot) | [МУР](https://open.spotify.com/artist/3NYo9EP6S3ReZ3ep86lsg3) | [Ти \[Романтика\]](https://open.spotify.com/album/5iPSAtJk05Zfa8Mpitd0Af) | 4:01 |
 | 30 | [Дотики](https://open.spotify.com/track/3KWAQF0u32HmmXfZhEvEgX) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ), [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Дотики](https://open.spotify.com/album/2lrqG9Hp9yeWf5EgXMh7uV) | 2:22 |
 | 31 | [Фантастично](https://open.spotify.com/track/7AkXsFfltmtYnBtAXqklq5) | [TESLENKO](https://open.spotify.com/artist/4Kfhe0aTNpLAd7DVpVx3sF) | [Фантастично](https://open.spotify.com/album/0v5xjYkTaTr3MorJw0TjFt) | 2:10 |
-| 32 | [Айстри](https://open.spotify.com/track/1NiB0lmZ7KUnDspnZjYr5H) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z) | [La Dame Blanche](https://open.spotify.com/album/5RGMLdor9nnZCQVRk11vZb) | 2:48 |
-| 33 | [Моя утома](https://open.spotify.com/track/1SIkdGNpPPBwNtZqVAq4RO) | [Околиця](https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0) | [Моя утома](https://open.spotify.com/album/4sP1lkLKPxozycub24LV3V) | 3:02 |
+| 32 | [Моя утома](https://open.spotify.com/track/1SIkdGNpPPBwNtZqVAq4RO) | [Околиця](https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0) | [Моя утома](https://open.spotify.com/album/4sP1lkLKPxozycub24LV3V) | 3:02 |
+| 33 | [Айстри](https://open.spotify.com/track/1NiB0lmZ7KUnDspnZjYr5H) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z) | [La Dame Blanche](https://open.spotify.com/album/5RGMLdor9nnZCQVRk11vZb) | 2:48 |
 | 34 | [Телепат](https://open.spotify.com/track/2JeWzY0BdQkx6nW7yHT0fS) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd), [The Budchuk](https://open.spotify.com/artist/0uGzb9yQNvlHef5jl7JDZ9) | [Телепат](https://open.spotify.com/album/5fGd9tZ9k0oajFEoWDSjrJ) | 2:52 |
 | 35 | [Недодруг](https://open.spotify.com/track/7wyyG0UvpLvDU5jGFqxAxa) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [Недодруг](https://open.spotify.com/album/2uLePoXWzDH0ngq3EzMmIT) | 2:26 |
 | 36 | [Сльози](https://open.spotify.com/track/5hctfulHiPJxVCVJipKgoT) | [Sasha Chemerov](https://open.spotify.com/artist/6EkxNdVClS3VI3zVWbDch9) | [Сльози](https://open.spotify.com/album/5WwXxzhkEatEDwAAJoG6GW) | 3:39 |
@@ -53,17 +53,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 43 | [Простотак](https://open.spotify.com/track/0A9HYuDGMInNrbM7iIZ1KD) | [thekomakoma](https://open.spotify.com/artist/2ce8oHn9K9U9aXOtTPxkZf) | [Майбутній альбом](https://open.spotify.com/album/2V4XWUQmIh8ofD2hyo1fwk) | 1:25 |
 | 44 | [Як же тобі там?](https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07) | [Лівінстон](https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9) | [Як же тобі там?](https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ) | 4:04 |
 | 45 | [Нічого](https://open.spotify.com/track/14hIalSRI75sy1sdl4hWz4) | [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [Нічого](https://open.spotify.com/album/1IWKmRFRTAk4uRWP7W0OLj) | 2:52 |
-| 46 | [сліди](https://open.spotify.com/track/5agHTSdfKI9jXYcyw0E7X7) | [хейтспіч](https://open.spotify.com/artist/2sdWfIbu9rLQ0p7MULuhxC), [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [сліди](https://open.spotify.com/album/5hvjdpKtcPSg7Gbo2tEy7k) | 3:33 |
-| 47 | [Я залишусь молодим](https://open.spotify.com/track/7rFixQ34ztEYGKlG4P3JoH) | [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [Я залишусь молодим](https://open.spotify.com/album/6RpPwRSbdZOGjDcQekrFcY) | 1:58 |
+| 46 | [тож бувай](https://open.spotify.com/track/2ZWphDlIe9amOdwGe4bgAW) | [temstime](https://open.spotify.com/artist/2EKtYTgQP4Lu1PFE6yzEUi), [Love, Mary](https://open.spotify.com/artist/7ppNgJPSCMBaqo6NBD1gvt) | [тож бувай](https://open.spotify.com/album/0tuOGPeMyheBhAEUi5Nhpa) | 2:26 |
+| 47 | [сліди](https://open.spotify.com/track/5agHTSdfKI9jXYcyw0E7X7) | [хейтспіч](https://open.spotify.com/artist/2sdWfIbu9rLQ0p7MULuhxC), [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [сліди](https://open.spotify.com/album/5hvjdpKtcPSg7Gbo2tEy7k) | 3:33 |
 | 48 | [Masandra](https://open.spotify.com/track/35ipejFnGQscQFs8Gs4c6e) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Masandra](https://open.spotify.com/album/7FPF7JPykvtGNKSvuF8bmp) | 4:24 |
-| 49 | [тож бувай](https://open.spotify.com/track/2ZWphDlIe9amOdwGe4bgAW) | [temstime](https://open.spotify.com/artist/2EKtYTgQP4Lu1PFE6yzEUi), [Love, Mary](https://open.spotify.com/artist/7ppNgJPSCMBaqo6NBD1gvt) | [тож бувай](https://open.spotify.com/album/0tuOGPeMyheBhAEUi5Nhpa) | 2:26 |
-| 50 | [Дура \(Сумніваюсь у собі\)](https://open.spotify.com/track/24UrlcD3tsaFufoRuR5BHy) | [Ганна Польська](https://open.spotify.com/artist/2VSBrTn1uztlSxi9zm8nIE), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Дура \(Сумніваюсь у собі\)](https://open.spotify.com/album/3oeUpyrFubw2SSiQ1TO5BO) | 2:25 |
+| 49 | [Дура \(Сумніваюсь у собі\)](https://open.spotify.com/track/24UrlcD3tsaFufoRuR5BHy) | [Ганна Польська](https://open.spotify.com/artist/2VSBrTn1uztlSxi9zm8nIE), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Дура \(Сумніваюсь у собі\)](https://open.spotify.com/album/3oeUpyrFubw2SSiQ1TO5BO) | 2:25 |
+| 50 | [Я залишусь молодим](https://open.spotify.com/track/7rFixQ34ztEYGKlG4P3JoH) | [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [Я залишусь молодим](https://open.spotify.com/album/6RpPwRSbdZOGjDcQekrFcY) | 1:58 |
 | 51 | [плавить](https://open.spotify.com/track/3Lg76bdQ1Nl395dAhtaj15) | [Epolets](https://open.spotify.com/artist/09QRMWYyLUALbOUjP5rhUP), [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [плавить](https://open.spotify.com/album/0qOHXw5uBzji6DlRdqMmLB) | 2:20 |
 | 52 | [Я сподіваюсь](https://open.spotify.com/track/1yTO4mmLprGq32ImfDk1Qb) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Я сподіваюсь](https://open.spotify.com/album/4F4tG7F0QmZQduDgQejL7a) | 2:31 |
-| 53 | [Я кохатимусь під джаз](https://open.spotify.com/track/3BKV1opKoOurjeUF0Q5tTv) | [Скажи щось погане](https://open.spotify.com/artist/4j6ZTpxuwyGi9ZBa6Ckxuy) | [Я кохатимусь під джаз](https://open.spotify.com/album/3vhO51ZD7CeAfl3FscDmM6) | 3:48 |
-| 54 | [Відпусти](https://open.spotify.com/track/5IEHU7WIw059cVDCSnz8FX) | [Kadnay](https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ) | [Відпусти](https://open.spotify.com/album/3HV8gpFROgO6peVAfZVeOL) | 5:24 |
+| 53 | [Серед зими](https://open.spotify.com/track/68LUQ0a4LOFKdopV19hQfT) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Серед зими](https://open.spotify.com/album/6u3t6mQmI5KTKCB7Jxckt8) | 3:35 |
+| 54 | [Я кохатимусь під джаз](https://open.spotify.com/track/3BKV1opKoOurjeUF0Q5tTv) | [Скажи щось погане](https://open.spotify.com/artist/4j6ZTpxuwyGi9ZBa6Ckxuy) | [Я кохатимусь під джаз](https://open.spotify.com/album/3vhO51ZD7CeAfl3FscDmM6) | 3:48 |
 | 55 | [Bohun](https://open.spotify.com/track/2XRpoAViyPcNdpcsdwkXi3) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Bohun](https://open.spotify.com/album/5NkvD6R19ar48gZgFAPMx7) | 3:23 |
-| 56 | [Серед зими](https://open.spotify.com/track/68LUQ0a4LOFKdopV19hQfT) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Серед зими](https://open.spotify.com/album/6u3t6mQmI5KTKCB7Jxckt8) | 3:35 |
+| 56 | [Відпусти](https://open.spotify.com/track/5IEHU7WIw059cVDCSnz8FX) | [Kadnay](https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ) | [Відпусти](https://open.spotify.com/album/3HV8gpFROgO6peVAfZVeOL) | 5:24 |
 | 57 | [Іскра](https://open.spotify.com/track/56BbaMW2BhfmDO1XuLlXaB) | [ДК Енергетик](https://open.spotify.com/artist/3eYHCFBRUK9hyTm6aG08LD) | [Іскра](https://open.spotify.com/album/4A26hszQR4hOxQm9JHnLjJ) | 2:44 |
 | 58 | [Скрути мене](https://open.spotify.com/track/4ZUIe9dSfMNpYuhjOK86zm) | [LOVERA BREAUX](https://open.spotify.com/artist/71iXh9KV482p6lhyCZnaSa) | [Скрути мене](https://open.spotify.com/album/7AgI0CGYTttMFp2a0B8PyA) | 2:22 |
 | 59 | [Завтра](https://open.spotify.com/track/3ewQvXUYzZ817ROJaVI2va) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Ти лиш людина](https://open.spotify.com/album/0rcz0rPQfLZSv8ww4Jbcql) | 2:42 |
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 69 | [Найліпший день](https://open.spotify.com/track/4XFCkkXZKB3DBjsNpMAyRS) | [паліндром](https://open.spotify.com/artist/3kM7MT7h1sQm1PMiCxkkSX) | [Найліпший день](https://open.spotify.com/album/2ycRXMgdZrLgkdn0ZPSQOz) | 3:21 |
 | 70 | [Чого у сні](https://open.spotify.com/track/6xHw8gPzCLRrcLBPsS2q4n) | [Твій зайчик пише](https://open.spotify.com/artist/46dJPAcFc9mkxDUlXhSyYh) | [Чого у сні](https://open.spotify.com/album/13GfwgH5uMGPfjFRLKyhIe) | 3:21 |
 | 71 | [дім](https://open.spotify.com/track/2q6gjKaIQph1E60TjIp4ZF) | [MOLODI](https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF) | [дім](https://open.spotify.com/album/7k8o2atU77xjyz8wfAQcc2) | 3:25 |
-| 72 | [щастя любить тишу](https://open.spotify.com/track/0n7SGcqkYlfDxETl2OXpes) | [гліб співає](https://open.spotify.com/artist/57ZvvwPjREpbRr5koA75Pi) | [щастя любить тишу](https://open.spotify.com/album/7nrLMPBmCeOj3c9P5BJLVY) | 3:14 |
-| 73 | [Не дивись на мене](https://open.spotify.com/track/6z6cvRLKENuywiD5jCRuoc) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Не дивись на мене](https://open.spotify.com/album/1FQ8jGe2pDS7hFYL0Ze5KG) | 3:33 |
+| 72 | [Не дивись на мене](https://open.spotify.com/track/6z6cvRLKENuywiD5jCRuoc) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Не дивись на мене](https://open.spotify.com/album/1FQ8jGe2pDS7hFYL0Ze5KG) | 3:33 |
+| 73 | [щастя любить тишу](https://open.spotify.com/track/0n7SGcqkYlfDxETl2OXpes) | [гліб співає](https://open.spotify.com/artist/57ZvvwPjREpbRr5koA75Pi) | [щастя любить тишу](https://open.spotify.com/album/7nrLMPBmCeOj3c9P5BJLVY) | 3:14 |
 | 74 | [бруд](https://open.spotify.com/track/56FUWh0cpu9tlx2Uw1NL6G) | [temstime](https://open.spotify.com/artist/2EKtYTgQP4Lu1PFE6yzEUi) | [бруд](https://open.spotify.com/album/6OZf02ojrAg51iSBhtkX3o) | 2:34 |
 | 75 | [ДЖАЗ](https://open.spotify.com/track/45Pm1ZafdOiy7iwqljQU17) | [RIDNI](https://open.spotify.com/artist/2Cc8f0kYHGmNPRQvaW01SR) | [ДЖАЗ](https://open.spotify.com/album/2A3t1u3UgTdDsJvzrOYuRG) | 2:45 |
 | 76 | [Стеля](https://open.spotify.com/track/1GxT5S0orNzMJ61M03i1mq) | [Твій зайчик пише](https://open.spotify.com/artist/46dJPAcFc9mkxDUlXhSyYh) | [Стеля](https://open.spotify.com/album/2ywtrTHjc0s2nGAA7vEQAa) | 1:34 |
 | 77 | [Я вдома](https://open.spotify.com/track/7fcIobA5JUkd90ad8y0cjO) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Я вдома](https://open.spotify.com/album/2LFrNxIvNZS3oURodrzDV0) | 2:58 |
 | 78 | [Зупиняти кров](https://open.spotify.com/track/118w7P41WH2GEKrscAiUU5) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Зупиняти кров](https://open.spotify.com/album/3xzpyOqDj7t8hwodw1EnXV) | 3:36 |
-| 79 | [Ліфт](https://open.spotify.com/track/324FC9qWoui9HoVENu42uB) | [Chekson](https://open.spotify.com/artist/0UjI2UCXbjgannnEKe4r3k) | [Ліфт](https://open.spotify.com/album/3bOCgqI9AIRj04C9Iw0a66) | 3:32 |
-| 80 | [Не твоя](https://open.spotify.com/track/1v0SdslDkgcIsER5f7ZctC) | [Anna Petrash](https://open.spotify.com/artist/2GNNAtmPFeCU9ZF2p4exR2) | [Не твоя](https://open.spotify.com/album/7CJAkMzJ9jNKT2zvGts4em) | 2:33 |
+| 79 | [Не твоя](https://open.spotify.com/track/1v0SdslDkgcIsER5f7ZctC) | [Anna Petrash](https://open.spotify.com/artist/2GNNAtmPFeCU9ZF2p4exR2) | [Не твоя](https://open.spotify.com/album/7CJAkMzJ9jNKT2zvGts4em) | 2:33 |
+| 80 | [Ліфт](https://open.spotify.com/track/324FC9qWoui9HoVENu42uB) | [Chekson](https://open.spotify.com/artist/0UjI2UCXbjgannnEKe4r3k) | [Ліфт](https://open.spotify.com/album/3bOCgqI9AIRj04C9Iw0a66) | 3:32 |
 
 Snapshot ID: `ZqN3ZAAAAADbHHU7/q64+/5siVPBS0w3`

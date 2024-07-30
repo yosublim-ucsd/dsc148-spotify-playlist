@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 26177,
+  "num_followers": 26179,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAABb6SKTHAES1BrNkcbqbwGo",
+  "snapshot_id": "ZqWKAAAAAADHLLa3g066NsNgwxRd69t8",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All The People Said Amen",
+        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "All the People Said Amen",
+      "url": "https://open.spotify.com/track/31HveB33DoO9x7P3UvkRct"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Stories I Tell Myself",
         "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 288706,
       "name": "In the Room (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/68ENcNLZqN18ljpbNntTvV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All The People Said Amen",
-        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "All the People Said Amen",
-      "url": "https://open.spotify.com/track/31HveB33DoO9x7P3UvkRct"
     },
     {
       "added_at": null,
@@ -443,6 +443,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joyful Noise (feat. DOE) [Live]",
+        "url": "https://open.spotify.com/album/0sCjoeW4EhfoMApELYKFOr"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "duration_ms": 278375,
+      "name": "Joyful Noise (feat. DOE) - Live",
+      "url": "https://open.spotify.com/track/5sn2NVwXGfGEQDBbkAIXj6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sanctuary Songs",
         "url": "https://open.spotify.com/album/1CSfutoC6m5nK6LIAAI0ai"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 356666,
       "name": "Christ is Lower Still",
       "url": "https://open.spotify.com/track/4stQGKTkAR2OY0uopaXZfq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joyful Noise (feat. DOE) [Live]",
-        "url": "https://open.spotify.com/album/0sCjoeW4EhfoMApELYKFOr"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        }
-      ],
-      "duration_ms": 278375,
-      "name": "Joyful Noise (feat. DOE) - Live",
-      "url": "https://open.spotify.com/track/5sn2NVwXGfGEQDBbkAIXj6"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "The Way You Love Me",
+      "url": "https://open.spotify.com/track/1X6DdAapNhXKQemy5R6WNW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SPACE",
         "url": "https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 298640,
       "name": "Bless The One - Live",
       "url": "https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Stories I Tell Myself",
-        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "The Way You Love Me",
-      "url": "https://open.spotify.com/track/1X6DdAapNhXKQemy5R6WNW"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Creation",
-        "url": "https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX"
-      },
-      "artists": [
-        {
-          "name": "Mac Powell",
-          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 233080,
-      "name": "Baptized",
-      "url": "https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saints and Sinners",
         "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
       },
@@ -735,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Creation",
+        "url": "https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX"
+      },
+      "artists": [
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 233080,
+      "name": "Baptized",
+      "url": "https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alive & Breathing",
         "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 239256,
       "name": "Lord of My Life",
       "url": "https://open.spotify.com/track/6vGSYpEzyiAT3vVcGeJgXt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jesus, Firm Foundation: Hymns of Worship",
-        "url": "https://open.spotify.com/album/6qmPIJGrMMPT3erUNOdJpi"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "Holy, Holy, Holy (God With Us)",
-      "url": "https://open.spotify.com/track/2th1KuQJc7aImX1eZ9cdrM"
     },
     {
       "added_at": null,
@@ -803,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jesus, Firm Foundation: Hymns of Worship",
+        "url": "https://open.spotify.com/album/6qmPIJGrMMPT3erUNOdJpi"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "Holy, Holy, Holy (God With Us)",
+      "url": "https://open.spotify.com/track/2th1KuQJc7aImX1eZ9cdrM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alive Again",
         "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
       },
@@ -815,6 +815,22 @@
       "duration_ms": 318666,
       "name": "Remembrance (Communion Song)",
       "url": "https://open.spotify.com/track/4U1kozpFOiKDYb7CDjqPt7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 232826,
+      "name": "The Cross Forever Speaks",
+      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
     },
     {
       "added_at": null,
@@ -835,18 +851,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+        "name": "Climate Vigil Songs",
+        "url": "https://open.spotify.com/album/2WHh6TmX4BFuPLBsPwaWff"
       },
       "artists": [
         {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
         }
       ],
-      "duration_ms": 232826,
-      "name": "The Cross Forever Speaks",
-      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
+      "duration_ms": 291057,
+      "name": "Hosanna! (Will You Rise?)",
+      "url": "https://open.spotify.com/track/1gZywnKlKqwRqtOFOUxKKg"
     },
     {
       "added_at": null,
@@ -887,30 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Climate Vigil Songs",
-        "url": "https://open.spotify.com/album/2WHh6TmX4BFuPLBsPwaWff"
-      },
-      "artists": [
-        {
-          "name": "The Porter's Gate",
-          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 291057,
-      "name": "Hosanna! (Will You Rise?)",
-      "url": "https://open.spotify.com/track/1gZywnKlKqwRqtOFOUxKKg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The St. Nemele Collab Sessions",
         "url": "https://open.spotify.com/album/6HbrhmZ9osGyiKjUFDxQGJ"
       },
@@ -939,6 +939,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "The Stories I Tell Myself",
+      "url": "https://open.spotify.com/track/4C5VoslGdB45KzAaKp4Cg7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Worship EP",
         "url": "https://open.spotify.com/album/77ccastPsMW1B90lFVV4vZ"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 221280,
       "name": "How Great (Single Mix)",
       "url": "https://open.spotify.com/track/0tpIBH9ycxYugBonIfWu1b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Stories I Tell Myself",
-        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "The Stories I Tell Myself",
-      "url": "https://open.spotify.com/track/4C5VoslGdB45KzAaKp4Cg7"
     },
     {
       "added_at": null,

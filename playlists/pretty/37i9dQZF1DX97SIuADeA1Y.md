@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > slap house on repeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,422 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,425 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 13 | [Boots](https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo) | [TMW](https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V), [BE.TH](https://open.spotify.com/artist/1Qh8P106aMcoG0V0zJMGxF) | [Boots](https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z) | 2:41 |
 | 14 | [Drunk in Love](https://open.spotify.com/track/0rG5jvbdBRAg7paORdTWSe) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Slap House Party](https://open.spotify.com/album/7risiHnzUvnYXey8cpEdoX) | 2:45 |
 | 15 | [Get Up Off The Floor](https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Get Up Off The Floor](https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt) | 2:35 |
-| 16 | [Shine](https://open.spotify.com/track/1rjn2zmw1I12bTWLIz0CGS) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Shine](https://open.spotify.com/album/3T85Y8AtIP1sJxCGYflICM) | 2:00 |
+| 16 | [Shake That](https://open.spotify.com/track/0VGAT55tq7LHLfxtePPfpp) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Shake That](https://open.spotify.com/album/1l0BKwempUx5qlkpFe4E90) | 2:59 |
 | 17 | [Somebody That I Used to Know](https://open.spotify.com/track/19g33fGnzBMWNf7ILmbmuw) | [Altrøx](https://open.spotify.com/artist/045vOffxVPFfgpn3qjn5Yo), [Faruk Orman](https://open.spotify.com/artist/53ZTq0HA8Ay02PiMs4e4Sq), [Tyzn](https://open.spotify.com/artist/4RtLJ6ksxpaktS32qE6kxo) | [Somebody That I Used to Know](https://open.spotify.com/album/1BvepLFynGGKZSF1rtgTcc) | 2:42 |
-| 18 | [Shake That](https://open.spotify.com/track/0VGAT55tq7LHLfxtePPfpp) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Shake That](https://open.spotify.com/album/1l0BKwempUx5qlkpFe4E90) | 2:59 |
-| 19 | [One In A Million](https://open.spotify.com/track/18bNlfQ64iSkaSeye4IGHw) | [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH) | [One In A Million](https://open.spotify.com/album/7Ag8oU7nc3fjRB2567eN1f) | 2:08 |
+| 18 | [One In A Million](https://open.spotify.com/track/18bNlfQ64iSkaSeye4IGHw) | [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH) | [One In A Million](https://open.spotify.com/album/7Ag8oU7nc3fjRB2567eN1f) | 2:08 |
+| 19 | [Shine](https://open.spotify.com/track/1rjn2zmw1I12bTWLIz0CGS) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Shine](https://open.spotify.com/album/3T85Y8AtIP1sJxCGYflICM) | 2:00 |
 | 20 | [Cheri Cheri Lady](https://open.spotify.com/track/5fiFfpaMThpPDBFkOO39iy) | [KARMA](https://open.spotify.com/artist/0E0D3kAD5sz1jf2HCTIfQT), [Flip Capella](https://open.spotify.com/artist/7ISVMXRseDXG6dgN78y6Dz) | [Cheri Cheri Lady](https://open.spotify.com/album/1J2ZhftJ3i4jE9kucljwmP) | 2:24 |
 | 21 | [Redlight](https://open.spotify.com/track/24osWl0SQSyHzGyEMdf394) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Redlight](https://open.spotify.com/album/2xz9ov07OnNqQnXhDTVa1e) | 2:57 |
 | 22 | [Wonderful Life](https://open.spotify.com/track/08lo8MO2RVzNRGO6da99RQ) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Ane](https://open.spotify.com/artist/0832DbKyCSpPqX9lkf7aCj) | [Wonderful Life](https://open.spotify.com/album/2Bx9G3XtMsbZRe5TzyYDZd) | 2:40 |

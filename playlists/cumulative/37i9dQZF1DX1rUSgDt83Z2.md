@@ -2,7 +2,7 @@
 
 ### [Made in NL](https://open.spotify.com/playlist/37i9dQZF1DX1rUSgDt83Z2)
 
-> Mooi van eigen bodem, nationaal in elke taal\. Cover: Re\-Play & Ruth Jacott
+> Mooi van eigen bodem, nationaal in elke taal.
 
 59 songs - 3 hr 5 min
 

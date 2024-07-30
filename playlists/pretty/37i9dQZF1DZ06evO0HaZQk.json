@@ -1,12 +1,12 @@
 {
   "description": "This Is Natalia Lafourcade. Los temas esenciales, todos en una lista.",
-  "num_followers": 497107,
+  "num_followers": 497183,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAAAYRm/EF7PQqDOnMBxZ/PJ0",
+  "snapshot_id": "ZqWKAAAAAADtzSXhCRdOtCAUzYJk4Sel",
   "tracks": [
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Timidez (feat. Natalia Lafourcade)",
-        "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 214186,
-      "name": "Timidez (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nave Especial",
         "url": "https://open.spotify.com/album/0aDzJpuIP4rGj7yjDapFm7"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 136341,
       "name": "Mudanza",
       "url": "https://open.spotify.com/track/2DTFJilnKTmpWPR17Zn4Sm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Timidez (feat. Natalia Lafourcade)",
+        "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 214186,
+      "name": "Timidez (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tierra Querida",
+        "url": "https://open.spotify.com/album/2iIbxTmZaOaRyImrEpvzdM"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 168775,
+      "name": "Tierra Querida",
+      "url": "https://open.spotify.com/track/15UftHtPcwWE23ON8b2uiR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Que Construimos",
         "url": "https://open.spotify.com/album/3aY4BoeqiExyMDDfZNud4M"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 208289,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/0K1eUOeIAW1jwbqSrgoVMj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tierra Querida",
-        "url": "https://open.spotify.com/album/2iIbxTmZaOaRyImrEpvzdM"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 168775,
-      "name": "Tierra Querida",
-      "url": "https://open.spotify.com/track/15UftHtPcwWE23ON8b2uiR"
     },
     {
       "added_at": null,

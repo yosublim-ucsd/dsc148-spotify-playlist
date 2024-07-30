@@ -4,7 +4,7 @@
 
 > اسمعوا افضل الاغاني الخليجية\. الغلاف: اصالة
 
-181 songs - 12 hr 56 min
+182 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Kheira](https://open.spotify.com/track/7AbtlIY4FXVDOuDXpivtJS) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Kheira](https://open.spotify.com/album/5mdW9cFswJ2SPNKI7ER224) | 4:13 | 2022-06-08 | 2022-07-16 |
 | [La Hawl Wla Quwa](https://open.spotify.com/track/7Jy2xkUWZBHpwEbBR5IdE7) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [La Hawl Wla Quwa](https://open.spotify.com/album/7kLiypV7FmQLdHYbNCKz3U) | 4:16 | 2022-04-07 | 2023-01-10 |
 | [Lahet](https://open.spotify.com/track/5BOYBYEWtfZWLoeNuQMcVz) | [Sultan Khalifa](https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB) | [Lahet](https://open.spotify.com/album/3lPQ7sjaOVlCqMkcPUEqCc) | 3:59 | 2023-01-24 | 2024-02-09 |
+| [Lammah](https://open.spotify.com/track/0Hk9OFVAxB6mxTtLmmFdkT) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Lammah](https://open.spotify.com/album/6Slm5v59bwaVCCVVIiCrQM) | 3:41 | 2024-07-29 |  |
 | [Leeh Ma Teji](https://open.spotify.com/track/10ttTmccx33sAtZDoasxUI) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Leeh Ma Teji](https://open.spotify.com/album/1MEG9F8I7J82QjzRxnlRnd) | 5:25 | 2022-06-08 | 2023-04-21 |
 | [lo Hobek](https://open.spotify.com/track/598erFMdm6rEKqw7tRg3PX) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [lo Hobek](https://open.spotify.com/album/48Ppl1mtZYWRqlDPgr2vBr) | 3:18 | 2022-04-07 | 2023-04-21 |
 | [Logiak](https://open.spotify.com/track/6MLGToHN1rywzRuXgKjbmF) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie), [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Logiak](https://open.spotify.com/album/7uiBwDftspH5AQVMhxT45m) | 3:50 | 2022-04-07 | 2023-04-21 |
@@ -85,7 +86,7 @@
 | [Mezlaaj](https://open.spotify.com/track/19eghoyd6TxcIk5KR1AGes) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Mezlaaj](https://open.spotify.com/album/5eOqbmNYRcrC2UxaM6fTh6) | 4:30 | 2023-06-02 |  |
 | [Mishtag](https://open.spotify.com/track/7r04IDrw7headpmzn7xZGk) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [Mishtag](https://open.spotify.com/album/5ybk09xdlcUxXst50j3DcX) | 4:49 | 2022-07-25 | 2023-04-21 |
 | [Mo 3ebek](https://open.spotify.com/track/0R3oaHOHLAPOvL5JJdjGk7) | [Saad Ramadan](https://open.spotify.com/artist/3TQIvMCVNOLxytHD4FWm9a) | [Mo 3ebek](https://open.spotify.com/album/1Wn8mbAWjJyWOdwNdiJ0sB) | 3:13 | 2022-04-07 | 2022-08-11 |
-| [Mojeaah Galbah](https://open.spotify.com/track/3Utr6kkQLHIvPDgXdgJ8Jf) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj), [Ahmed Al Hermi](https://open.spotify.com/artist/5RsINX9NKo2WPaEs70Iq3u) | [Al Bedaa](https://open.spotify.com/album/3CVX4Kz3DbPIoFd16mq5Em) | 3:12 | 2024-06-27 |  |
+| [Mojeaah Galbah](https://open.spotify.com/track/3Utr6kkQLHIvPDgXdgJ8Jf) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj), [Ahmed Al Hermi](https://open.spotify.com/artist/5RsINX9NKo2WPaEs70Iq3u) | [Al Bedaa](https://open.spotify.com/album/3CVX4Kz3DbPIoFd16mq5Em) | 3:12 | 2024-06-27 | 2024-07-30 |
 | [Momken](https://open.spotify.com/track/184NJgZkOPIz4742hcWSq8) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK), [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Momken](https://open.spotify.com/album/6gr21nAdWq81BK3cNYkWyc) | 3:14 | 2022-04-07 | 2022-10-05 |
 | [Mostafz Alnas](https://open.spotify.com/track/1x3qoGBof6SVqJYi6WvhyI) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Mostafz Alnas](https://open.spotify.com/album/6M6XVr2LDKXOkUb5C4PNrO) | 3:05 | 2024-05-21 | 2024-07-05 |
 | [My People And My World](https://open.spotify.com/track/0xPWpqWvI3KSj1kv3SnPjG) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [My People And My World](https://open.spotify.com/album/2npyzyawAdH8O2nghXZRbX) | 5:05 | 2022-04-07 | 2023-03-09 |

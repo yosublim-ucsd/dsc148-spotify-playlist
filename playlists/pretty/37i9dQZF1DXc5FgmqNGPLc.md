@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,802 likes - 100 songs - 15 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,811 likes - 100 songs - 15 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 82 | [Mahogany Hall Stomp \- Live At Symphony Hall, Boston, MA/1947](https://open.spotify.com/track/1dmzpoQdOq11XR62yFxs4i) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo At Symphony Hall](https://open.spotify.com/album/3NksAuGTtVtAo1fYFwhO6D) | 3:53 |
 | 83 | [The Prophet \- Live](https://open.spotify.com/track/4e9XzXMa094Kw40320Htjw) | [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp) | [Eric Dolphy At The Five Spot \- Vol\. 1](https://open.spotify.com/album/2QmssU0RNrWDa0YIJwDcb7) | 21:25 |
 | 84 | [Prayer for Passive Resistance \- Live Version](https://open.spotify.com/track/4OWaNn8uChWyXcw0OXLsy4) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus At Antibes](https://open.spotify.com/album/2gMTsMOwF9WHh9jx9vGnPz) | 8:23 |
-| 85 | [Well, You Needn't \- Live \[It Club\]](https://open.spotify.com/track/7dqd672DHvOU9OF41vRxl1) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Thelonious Monk Live At The It Club \- Complete](https://open.spotify.com/album/7AEiZMDP0eB990c44G4zDT) | 9:16 |
+| 85 | [Well, You Needn't \- Live at the "It" Club, Los Angeles, CA \- Oct/Nov 1964](https://open.spotify.com/track/7dqd672DHvOU9OF41vRxl1) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Live At The "It" Club \- Complete](https://open.spotify.com/album/7AEiZMDP0eB990c44G4zDT) | 9:16 |
 | 86 | [Windjammer \- Live At The Lighthouse, Hermosa Beach, CA/1972](https://open.spotify.com/track/2JqnTQh5Shj7V5geLwXJZj) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Live At The Lighthouse](https://open.spotify.com/album/5Xe3jzd5GQMGVOrvTW1pUQ) | 12:15 |
 | 87 | [Stardust \- Live At Finney Chapel / 1953](https://open.spotify.com/track/5wIsuVFmdu6xtqxg4zjJTf) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Jazz At Oberlin \(OJC Remaster\)](https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B) | 6:30 |
 | 88 | [Medley: Vertical Invader / Seventh Arrow / T.H\. / Doctor Honoris Causa \- Live](https://open.spotify.com/track/5Eg09OqI1LB9P9EcozE2Mt) | [Weather Report](https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b) | [Live in Tokyo](https://open.spotify.com/album/0k2LseDR9ZTqlIeGt6t05u) | 26:11 |

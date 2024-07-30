@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
+  "description": "This Is Los Jaivas. Los temas esenciales, todos en una lista.",
   "name": "This Is Los Jaivas",
   "tracks": [
     {
@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Los Jaivas En Vivo: Gira Chile '88 (2024 Remasterizado)",
+        "url": "https://open.spotify.com/album/2nEUAKd34r9jyE4HPj0Le9"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337793,
+      "name": "Como Tus R\u00edos Te Recorren (En Vivo) - 2024 Remasterizado",
+      "url": "https://open.spotify.com/track/6bmUW30tjqsBbWJAVaezuH"
+    },
+    {
+      "album": {
         "name": "Aconcagua",
         "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
       },
@@ -304,7 +322,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 524064,
       "name": "Danzas",
       "url": "https://open.spotify.com/track/1g5kVDd0YvwDG7XUpkDuSc"

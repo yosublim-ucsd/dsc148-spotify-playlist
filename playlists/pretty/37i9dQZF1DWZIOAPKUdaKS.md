@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 
 > Soft piano to help you focus, work or study.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,225 likes - 247 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,231 likes - 247 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Incision In The Silence](https://open.spotify.com/track/5ZrQJBEg0jYRb8OEOGnD83) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Incision In The Silence](https://open.spotify.com/album/2jWibDfPA4AdWP7k50uzWN) | 2:09 |
 | 2 | [It's You I'm Seeking](https://open.spotify.com/track/7pbAbWrlXKoycD9q6BGXqq) | [Matt van Stern](https://open.spotify.com/artist/6R18bmvwvBLIz0r9XsIOza) | [It's You I'm Seeking](https://open.spotify.com/album/3KMNb1SNtbjrIABtPcWEbR) | 2:40 |
 | 3 | [Canyon, Catch Your Thoughts](https://open.spotify.com/track/1DZgGPsQfkz9JUTzP2qQVr) | [Warble](https://open.spotify.com/artist/6c97PAHbxfwJuLjV7gpwUb) | [Canyon, Catch Your Thoughts](https://open.spotify.com/album/59OTSpWsLdw5IVPFTnzr3v) | 2:15 |
-| 4 | [At A Glance](https://open.spotify.com/track/2UsLov7NMKkN1Uh9WUBEw9) | [Gale Moore](https://open.spotify.com/artist/7D4pGxfKDvTyt90fAAQXxw) | [At A Glance](https://open.spotify.com/album/4vBxCrmYU5niiq6ihQiYd0) | 2:37 |
-| 5 | [Douce Èmeraude](https://open.spotify.com/track/5UP9mzwk0CUiQ03sZ7qtDX) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Douce Èmeraude](https://open.spotify.com/album/3BxbNKCEJkGV8s6D0Pwprx) | 2:45 |
+| 4 | [Douce Èmeraude](https://open.spotify.com/track/5UP9mzwk0CUiQ03sZ7qtDX) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Douce Èmeraude](https://open.spotify.com/album/3BxbNKCEJkGV8s6D0Pwprx) | 2:45 |
+| 5 | [At A Glance](https://open.spotify.com/track/2UsLov7NMKkN1Uh9WUBEw9) | [Gale Moore](https://open.spotify.com/artist/7D4pGxfKDvTyt90fAAQXxw) | [At A Glance](https://open.spotify.com/album/4vBxCrmYU5niiq6ihQiYd0) | 2:37 |
 | 6 | [Salt Skin](https://open.spotify.com/track/5MKtW4amtrjowQ4z7uWCjU) | [Galen Rise](https://open.spotify.com/artist/7sZcguS7cGilZg03SqOH3R) | [Salt Skin](https://open.spotify.com/album/5uDgyEcwgosiV7lf9n2f40) | 2:55 |
 | 7 | [Highlands](https://open.spotify.com/track/23PYmOs15gQXHPEGQXJP8O) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [Highlands](https://open.spotify.com/album/4fGBjm0G7Cr5tXeo2aHkn7) | 3:00 |
 | 8 | [Alone in the crowd](https://open.spotify.com/track/1hYJR8FJuusobeDp9IBOs6) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Alone in the crowd](https://open.spotify.com/album/3pdsFTTSJLP66YwPMOZvSO) | 2:50 |
 | 9 | [Slow Fall](https://open.spotify.com/track/0VZ71YhAIA1W3T71DJUi32) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Slow Fall](https://open.spotify.com/album/77O8mS4PmfryxmsKuMrM2S) | 2:58 |
-| 10 | [Shimmer](https://open.spotify.com/track/3Est0ZqQ8IyB74HoyKu1Db) | [Alda Monaldo](https://open.spotify.com/artist/35AQ5hrVSijxYArSXRJOaA) | [Shimmer](https://open.spotify.com/album/1UX8gCw0ubEBg1rcZroqC0) | 2:21 |
-| 11 | [As light as the air](https://open.spotify.com/track/1SNBgthMKmIvlpKRA0iIOX) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [As light as the air](https://open.spotify.com/album/3a512iHJ1gKxDTl863RzKH) | 2:58 |
-| 12 | [Echidna](https://open.spotify.com/track/66IOe8PcQPacJ3D3MtGLMS) | [Northern Dreams](https://open.spotify.com/artist/35BDCenbwCVaUQUxqoAYym) | [Echidna](https://open.spotify.com/album/28l69Lzo3apBK4Os1PDh7Y) | 2:24 |
-| 13 | [Once Forever Ago](https://open.spotify.com/track/0bGOgz4DShPF9bTMglH0n5) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Once Forever Ago](https://open.spotify.com/album/4cR5Wy8LV56sEP177KVrd6) | 2:26 |
-| 14 | [estiu](https://open.spotify.com/track/1vzwRWE2Vj7JZwqBqi9ivM) | [Valentine Summers](https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs) | [estiu](https://open.spotify.com/album/2PRpPe7NkIjknf6tudsPfL) | 2:47 |
-| 15 | [The View 景色](https://open.spotify.com/track/2sdCizizVGvenywdhB3VIx) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [The View 景色](https://open.spotify.com/album/4KkEK1Oxi1nJ8g6bPuFOSp) | 2:55 |
+| 10 | [The View 景色](https://open.spotify.com/track/2sdCizizVGvenywdhB3VIx) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [The View 景色](https://open.spotify.com/album/4KkEK1Oxi1nJ8g6bPuFOSp) | 2:55 |
+| 11 | [Shimmer](https://open.spotify.com/track/3Est0ZqQ8IyB74HoyKu1Db) | [Alda Monaldo](https://open.spotify.com/artist/35AQ5hrVSijxYArSXRJOaA) | [Shimmer](https://open.spotify.com/album/1UX8gCw0ubEBg1rcZroqC0) | 2:21 |
+| 12 | [As light as the air](https://open.spotify.com/track/1SNBgthMKmIvlpKRA0iIOX) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [As light as the air](https://open.spotify.com/album/3a512iHJ1gKxDTl863RzKH) | 2:58 |
+| 13 | [Echidna](https://open.spotify.com/track/66IOe8PcQPacJ3D3MtGLMS) | [Northern Dreams](https://open.spotify.com/artist/35BDCenbwCVaUQUxqoAYym) | [Echidna](https://open.spotify.com/album/28l69Lzo3apBK4Os1PDh7Y) | 2:24 |
+| 14 | [Once Forever Ago](https://open.spotify.com/track/0bGOgz4DShPF9bTMglH0n5) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Once Forever Ago](https://open.spotify.com/album/4cR5Wy8LV56sEP177KVrd6) | 2:26 |
+| 15 | [estiu](https://open.spotify.com/track/1vzwRWE2Vj7JZwqBqi9ivM) | [Valentine Summers](https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs) | [estiu](https://open.spotify.com/album/2PRpPe7NkIjknf6tudsPfL) | 2:47 |
 | 16 | [On Silver Hill](https://open.spotify.com/track/2vj5NP6jpVbPqoxhopxcRA) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [On Silver Hill](https://open.spotify.com/album/0SRYu5fWTwlurk6AugaODm) | 2:08 |
 | 17 | [Longitude](https://open.spotify.com/track/28W2mqtvitwaoKe5IHL4M9) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Longitude](https://open.spotify.com/album/5xkVqIK6vdCA6e3rWJjYjJ) | 2:34 |
 | 18 | [Lupine](https://open.spotify.com/track/4KvLHsCnVxcRC3JVlU2OdN) | [Silje Mørk](https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP) | [Lupine](https://open.spotify.com/album/1a7kXLdi7MXwpiyYQe033o) | 2:50 |
@@ -256,4 +256,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 | 246 | [Sunday](https://open.spotify.com/track/4jOQwNjLa0oejVoopzY7Gx) | [Levi Jacob](https://open.spotify.com/artist/2dv3nI6plW2rvqyOelBUAa) | [Roundabout](https://open.spotify.com/album/6b53thMzbMzq31mspTVAQW) | 2:25 |
 | 247 | [Caliesa](https://open.spotify.com/track/4Lj9Ap737rbqtH2Zd6skxa) | [Max Sauer](https://open.spotify.com/artist/6CoTGSKTkd6yzRDg8TKdPy) | [Caliesa](https://open.spotify.com/album/1b1nYVqpwxtu5GpoOeEW7k) | 2:52 |
 
-Snapshot ID: `Zp+JvgAAAABcJ12rYPJH+sEknUBcVf/k`
+Snapshot ID: `Zqe4QgAAAABxZNeGLilirVw+fTfW1N7Y`

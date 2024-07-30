@@ -1,6 +1,6 @@
 {
   "description": "Escute Yasmin Santos e mais mulheres no volume m\u00e1ximo! Co-curadoria com Yasmin Santos",
-  "num_followers": 183780,
+  "num_followers": 183804,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-07-10 03:00:00",
       "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 209442,
-      "name": "Outra Vez",
-      "url": "https://open.spotify.com/track/4SO47HbaWop3fHAKP7fwT4"
-    },
-    {
-      "added_at": "2024-07-10 03:00:00",
-      "album": {
         "name": "A Paix\u00e3o Tem Mem\u00f3ria",
         "url": "https://open.spotify.com/album/0RHOy2yMiGSIctpV7ediQl"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 264706,
       "name": "A Loba",
       "url": "https://open.spotify.com/track/6TJJi1sNzwrUpjlXHXazlz"
+    },
+    {
+      "added_at": "2024-07-10 03:00:00",
+      "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 209442,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/4SO47HbaWop3fHAKP7fwT4"
     },
     {
       "added_at": "2024-07-10 03:00:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-07-10 03:00:00",
       "album": {
+        "name": "Yasmin Santos Ao Vivo em Goi\u00e2nia",
+        "url": "https://open.spotify.com/album/5LiNfSeXC0VjZ00nSF5Rab"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "duration_ms": 207578,
+      "name": "Ent\u00e3o Valeu - Ao Vivo",
+      "url": "https://open.spotify.com/track/2xWpzNe4WiAHULuoOXEdL0"
+    },
+    {
+      "added_at": "2024-07-10 03:00:00",
+      "album": {
         "name": "Mem\u00f3rias da Taty - Parte 1",
         "url": "https://open.spotify.com/album/4Nh6lim45VRtMIIY4d8VCg"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 190825,
       "name": "Quando a Chuva Passar",
       "url": "https://open.spotify.com/track/28w7IiopxwhZ6wHQ1NQkvV"
-    },
-    {
-      "added_at": "2024-07-10 03:00:00",
-      "album": {
-        "name": "Yasmin Santos Ao Vivo em Goi\u00e2nia",
-        "url": "https://open.spotify.com/album/5LiNfSeXC0VjZ00nSF5Rab"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        }
-      ],
-      "duration_ms": 207578,
-      "name": "Ent\u00e3o Valeu - Ao Vivo",
-      "url": "https://open.spotify.com/track/2xWpzNe4WiAHULuoOXEdL0"
     },
     {
       "added_at": "2024-07-10 03:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-07-10 03:00:00",
       "album": {
-        "name": "M\u00fasica",
-        "url": "https://open.spotify.com/album/0OJttgbWradQ5U5dYLzPzi"
-      },
-      "artists": [
-        {
-          "name": "Manda",
-          "url": "https://open.spotify.com/artist/1ZeF4gSmzi8ZdlXJUu4LG5"
-        }
-      ],
-      "duration_ms": 187617,
-      "name": "Camomila",
-      "url": "https://open.spotify.com/track/4H7BHzd5avEDpCA6wWAbVi"
-    },
-    {
-      "added_at": "2024-07-10 03:00:00",
-      "album": {
         "name": "Yasmin Santos Ao Vivo em Goi\u00e2nia",
         "url": "https://open.spotify.com/album/5LiNfSeXC0VjZ00nSF5Rab"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 181114,
       "name": "N\u00e3o Quero Ser Mais Eu - Ao Vivo",
       "url": "https://open.spotify.com/track/1isGVPazsjGdUd05I0ljjT"
+    },
+    {
+      "added_at": "2024-07-10 03:00:00",
+      "album": {
+        "name": "M\u00fasica",
+        "url": "https://open.spotify.com/album/0OJttgbWradQ5U5dYLzPzi"
+      },
+      "artists": [
+        {
+          "name": "Manda",
+          "url": "https://open.spotify.com/artist/1ZeF4gSmzi8ZdlXJUu4LG5"
+        }
+      ],
+      "duration_ms": 187617,
+      "name": "Camomila",
+      "url": "https://open.spotify.com/track/4H7BHzd5avEDpCA6wWAbVi"
     },
     {
       "added_at": "2024-07-10 03:00:00",

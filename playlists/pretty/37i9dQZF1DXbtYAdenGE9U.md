@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,749 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,995 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 45 | [Xpander \- Edit](https://open.spotify.com/track/75653mwqn2ikumvrHuhEKf) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS) | [The Xpander E.P.](https://open.spotify.com/album/2xnwMwLUMQOquTnjLOuh6Q) | 3:22 |
 | 46 | [Satellite \- Above & Beyond Mix \(Edit\)](https://open.spotify.com/track/29xhHp7I079jDveVcoShIk) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [OceanLab](https://open.spotify.com/artist/0aTdKgInKeMlNnwWSa1YPT) | [Satellite](https://open.spotify.com/album/0ZtQgsteaWjFMPwGQm2B6c) | 3:29 |
 | 47 | [ResuRection \- Paul Oakenfold Full On Fluoro Mix](https://open.spotify.com/track/7yLvQTsNQALncCJdFdzqB2) | [Planet Perfecto Knights](https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq) | [A State Of Trance 1000 \- Celebration Mix \(Selected by Armin van Buuren\)](https://open.spotify.com/album/5uaA8MAWIlzcvaH3770kaX) | 3:56 |
-| 48 | [7 Colours \- Radio Edit](https://open.spotify.com/track/51KCyHln6zoPVjAvArlSFn) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY) | [7 Colours \(The Remixes\)](https://open.spotify.com/album/5RsRs1WzHYLaaBW0HzN05E) | 3:15 |
+| 48 | [Not Over Yet '99 \(feat\. Grace\) \- Radio Edit](https://open.spotify.com/track/3gYUvf0BzPsPky2y3oBf3d) | [Planet Perfecto](https://open.spotify.com/artist/3Q9P0SbpaP9xsBtLUVK0Be), [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [Not Over Yet '99](https://open.spotify.com/album/2P3GrMALjeCYAbFvuFFsFH) | 3:36 |
 | 49 | [1998](https://open.spotify.com/track/0ZcJZSx8cZndVwZrudIFy9) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe) | [1998](https://open.spotify.com/album/6yp67msJDZJIkki3TGzhmq) | 3:53 |
-| 50 | [Not Over Yet '99 \(feat\. Grace\) \- Radio Edit](https://open.spotify.com/track/3gYUvf0BzPsPky2y3oBf3d) | [Planet Perfecto](https://open.spotify.com/artist/3Q9P0SbpaP9xsBtLUVK0Be), [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [Not Over Yet '99](https://open.spotify.com/album/2P3GrMALjeCYAbFvuFFsFH) | 3:36 |
+| 50 | [7 Colours \- Radio Edit](https://open.spotify.com/track/51KCyHln6zoPVjAvArlSFn) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY) | [7 Colours \(The Remixes\)](https://open.spotify.com/album/5RsRs1WzHYLaaBW0HzN05E) | 3:15 |
 
 Snapshot ID: `Zp9+KwAAAADxll3KauiSiAxm1fD8FBr5`

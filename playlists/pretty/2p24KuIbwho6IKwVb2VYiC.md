@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Alesso &amp; Nate Smith
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 20,578 likes - 138 songs - 7 hr 18 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 20,583 likes - 138 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

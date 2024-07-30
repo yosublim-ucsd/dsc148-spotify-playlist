@@ -2,7 +2,7 @@
 
 ### [This Is Phil Wickham](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33TpHq)
 
-> This is Phil Wickham\. De viktigste sporene samlet i én spilleliste.
+> This Is Phil Wickham\. Los temas esenciales, todos en una lista.
 
 55 songs - 4 hr 20 min
 

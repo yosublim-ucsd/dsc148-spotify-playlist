@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-558 songs - 1 day 21 hr 1 min
+559 songs - 1 day 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Don't Wake Up](https://open.spotify.com/track/3bryZnVV2tqOjAeDkHXkrw) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Don't Wake Up](https://open.spotify.com/album/16LZpZkWFeteUaLZTveBDL) | 3:35 | 2024-05-31 | 2024-07-29 |
 | [Don´t Run](https://open.spotify.com/track/6aw9QspJg7ZOzS6UnmsMOq) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Don´t Run](https://open.spotify.com/album/2uIHVxbt45lVO8u3y2qeCK) | 3:53 | 2024-03-15 | 2024-04-04 |
 | [Downfall](https://open.spotify.com/track/08fB9YSYCxiIexuoQJc3Jj) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Downfall](https://open.spotify.com/album/1XpQL1r74njwPKB3jwBQQH) | 3:56 | 2024-01-05 |  |
+| [Downfall](https://open.spotify.com/track/6m5dRfSREMsgBZsmKSRzNX) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [Downfall](https://open.spotify.com/album/2ts9b0wTzLd7EQoNUrGGWi) | 3:14 | 2024-07-25 |  |
 | [Dreamcast](https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW) | 5:25 | 2022-12-16 | 2024-01-05 |
 | [Dreamcast](https://open.spotify.com/track/4B7Hi7TY2Bl76SI3tojI5e) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/56QCxS7cxFlJqLNnsmAoqF) | 5:25 | 2024-01-18 | 2024-04-19 |
 | [Dreamcatcher](https://open.spotify.com/track/6ZSB0FEjUrG7sziGbkJea2) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Fred Lenix](https://open.spotify.com/artist/59dW0kJuMkQquLbBomht2S) | [Dreamcatcher](https://open.spotify.com/album/3fjsQVB2BQ9yGDe35IpmuQ) | 4:59 | 2023-02-10 | 2023-04-29 |
@@ -333,7 +334,7 @@
 | [Nightshapes](https://open.spotify.com/track/20Mb3OEO2GYuhvQ7mDmTXe) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [MotherEarth](https://open.spotify.com/artist/2o2pBVmNUXW9LZvjVvKC0x), [Tyoz](https://open.spotify.com/artist/5KR5DO4Ezn0QPcM5N9Ioms) | [Nightshapes](https://open.spotify.com/album/5pRg1T6q3JHehMmVAP8afy) | 3:25 | 2024-02-01 |  |
 | [No Memory \- KASIA Remix](https://open.spotify.com/track/19PlJGLQqxf4EICxozQAEf) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [KASIA](https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV) | [No Memory \(KASIA Remix\)](https://open.spotify.com/album/35gGOZ0pCfjqC5jU0wtgdt) | 3:04 | 2024-05-23 | 2024-06-14 |
 | [No One’s Coming](https://open.spotify.com/track/5yKh1r5JXYKjUS4QHeoixs) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:38 | 2024-03-15 | 2024-04-19 |
-| [No Place To Go](https://open.spotify.com/track/7gHzjDJZKID5EuWK0K7JEp) | [Layla Benitez](https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE), [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg) | [No Place To Go](https://open.spotify.com/album/5odeKuu8Tejxz6s3TFxzd7) | 4:20 | 2024-05-31 |  |
+| [No Place To Go](https://open.spotify.com/track/7gHzjDJZKID5EuWK0K7JEp) | [Layla Benitez](https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE), [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg) | [No Place To Go](https://open.spotify.com/album/5odeKuu8Tejxz6s3TFxzd7) | 4:20 | 2024-05-31 | 2024-07-30 |
 | [No Tomorrow](https://open.spotify.com/track/1KiKIjnfm2is7U2iBEebda) | [AN21](https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn), [Maunt](https://open.spotify.com/artist/23VFpXmOCxnReEwvUCulSb) | [No Tomorrow](https://open.spotify.com/album/78OyyeUJyyoYRHDLtBzsqi) | 3:56 | 2022-12-28 | 2023-01-06 |
 | [Not Exactly \- Rebūke Remix](https://open.spotify.com/track/0toCiiWUNHiWsfbshXY0TC) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Not Exactly \(Rebūke Remix\)](https://open.spotify.com/album/3tuUxwV6i6hXlluIhz0ZCI) | 3:00 | 2024-04-11 |  |
 | [Nothing Ever Changes \- Camelphat Remix](https://open.spotify.com/track/2g0mTSsQCz7C36ee5Varka) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Nothing Ever Changes \(Camelphat Remix\)](https://open.spotify.com/album/0SkcnpoGxDAbhHcj9LA0tk) | 4:18 | 2024-04-25 |  |

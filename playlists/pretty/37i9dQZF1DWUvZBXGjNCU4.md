@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 
 > Warm and cozy acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,465 likes - 99 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,493 likes - 96 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,15 +14,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 4 | [Moments with you](https://open.spotify.com/track/3p9wB5uVvsf0BzqY8y0W3X) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Moments with you](https://open.spotify.com/album/6ozrFm4mb8spn0V08f3GHi) | 2:29 |
 | 5 | [How Can I](https://open.spotify.com/track/3PMp2l8y9PZfPhLqH6fFW2) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [How Can I](https://open.spotify.com/album/07GAcIemxGblmrul2auuzv) | 2:46 |
 | 6 | [Togetherness](https://open.spotify.com/track/40qwRulvebVhIKE8s68shj) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Togetherness](https://open.spotify.com/album/5S6D02A1tJNrUrtdmhEJgv) | 2:28 |
-| 7 | [Burgenland](https://open.spotify.com/track/3nRPA6PZvfwpNZ33SVa6gn) | [Duo MR](https://open.spotify.com/artist/7hfYp0jhsWfGQImrzTEa3i) | [Burgenland](https://open.spotify.com/album/5Ofar8wq6Bjzg2dBT15nxB) | 3:54 |
+| 7 | [Kite](https://open.spotify.com/track/2m4SUJunHatkZtI51ba3f5) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [Kite](https://open.spotify.com/album/4ggfPdW3RSf4eCDzL6EfGQ) | 2:28 |
 | 8 | [Relief](https://open.spotify.com/track/2Jq1unSnrJC7QBEWf6fQYs) | [Carl Eksmo](https://open.spotify.com/artist/4JlBaKUUlUUChHUlgDahZB) | [Relief](https://open.spotify.com/album/5ZgWRYaNJ7gHrFBJ31LZNq) | 2:44 |
-| 9 | [Kite](https://open.spotify.com/track/2m4SUJunHatkZtI51ba3f5) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [Kite](https://open.spotify.com/album/4ggfPdW3RSf4eCDzL6EfGQ) | 2:28 |
+| 9 | [Burgenland](https://open.spotify.com/track/3nRPA6PZvfwpNZ33SVa6gn) | [Duo MR](https://open.spotify.com/artist/7hfYp0jhsWfGQImrzTEa3i) | [Burgenland](https://open.spotify.com/album/5Ofar8wq6Bjzg2dBT15nxB) | 3:54 |
 | 10 | [Innocent Face](https://open.spotify.com/track/1LjYFVvhXmuP3RgErQBYkH) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Innocent Face](https://open.spotify.com/album/4GpBw9UUFaHkv12myq2POe) | 2:02 |
 | 11 | [Second Chances](https://open.spotify.com/track/2S3Lmj2nPEgIB2VMjrYwMl) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Second Chances](https://open.spotify.com/album/28VajLtHLAaJodE637DFQd) | 2:35 |
-| 12 | [The Chestnut Tree](https://open.spotify.com/track/7EoQmzT2wFOCanGluMeHpm) | [Amiyah Powell](https://open.spotify.com/artist/53TEChEItRKMjajyHzEQxl) | [The Chestnut Tree](https://open.spotify.com/album/387VLvqLtqd0l4UCdZi3gb) | 3:00 |
-| 13 | [Brooke's Path](https://open.spotify.com/track/6IrsZTFv2PMsRbYLhtpBur) | [Nathaniel Hugh](https://open.spotify.com/artist/0N9JbcwE2w3f9Qn6M6F3UP) | [Brooke's Path](https://open.spotify.com/album/05aFINCNicADeoVTXnMpRh) | 3:04 |
-| 14 | [Close to the Body](https://open.spotify.com/track/0fPK2DKdE3qfsDfWEFlMIQ) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [Close to the Body](https://open.spotify.com/album/5cT2W2dHJkEzY050EAUzux) | 2:09 |
-| 15 | [In Quiet Admiration](https://open.spotify.com/track/7gIbaF08zajeFH0JwjTflZ) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [In Quiet Admiration](https://open.spotify.com/album/4bnRFPUL7Gbu5a17uY0FgR) | 2:19 |
+| 12 | [In Quiet Admiration](https://open.spotify.com/track/7gIbaF08zajeFH0JwjTflZ) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [In Quiet Admiration](https://open.spotify.com/album/4bnRFPUL7Gbu5a17uY0FgR) | 2:19 |
+| 13 | [The Chestnut Tree](https://open.spotify.com/track/7EoQmzT2wFOCanGluMeHpm) | [Amiyah Powell](https://open.spotify.com/artist/53TEChEItRKMjajyHzEQxl) | [The Chestnut Tree](https://open.spotify.com/album/387VLvqLtqd0l4UCdZi3gb) | 3:00 |
+| 14 | [Brooke's Path](https://open.spotify.com/track/6IrsZTFv2PMsRbYLhtpBur) | [Nathaniel Hugh](https://open.spotify.com/artist/0N9JbcwE2w3f9Qn6M6F3UP) | [Brooke's Path](https://open.spotify.com/album/05aFINCNicADeoVTXnMpRh) | 3:04 |
+| 15 | [Close to the Body](https://open.spotify.com/track/0fPK2DKdE3qfsDfWEFlMIQ) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [Close to the Body](https://open.spotify.com/album/5cT2W2dHJkEzY050EAUzux) | 2:09 |
 | 16 | [Con Amore](https://open.spotify.com/track/3ddRRVM3eVeIAKUqF105Ch) | [Cristof Walters](https://open.spotify.com/artist/6njQrWP56vwgO6636iLPVa) | [Con Amore](https://open.spotify.com/album/6ePub6XVRKOYZBuZLCFCvE) | 2:54 |
 | 17 | [Blurring Lines](https://open.spotify.com/track/33CVcdWsRzp4E8CQoGlAJy) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Blurring Lines](https://open.spotify.com/album/0OJ6PKcMpAFSFL2usHm1v4) | 2:06 |
 | 18 | [In Over My Head](https://open.spotify.com/track/67Gpq5M3Eo5v0rLIr9Upse) | [Charlie Oakfield](https://open.spotify.com/artist/2ExlksqshO8Lce70P62KN1) | [In Over My Head](https://open.spotify.com/album/1oJxvFxbM8zooEZyCnbrSG) | 3:47 |
@@ -98,14 +98,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 88 | [Frühlingsgefühle](https://open.spotify.com/track/4h0QLxUzVqQ7QKFSnWjvdu) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Frühlingsgefühle](https://open.spotify.com/album/7M5trxxK8lsEExyuBP1Au8) | 2:16 |
 | 89 | [The little road to Elling Bay](https://open.spotify.com/track/035spYGRlBWEeGC7Iqj406) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [The little road to Elling Bay](https://open.spotify.com/album/4PN2TaBXEt9l3RQBERhF96) | 2:20 |
 | 90 | [Dew](https://open.spotify.com/track/2AgbBeirZsQscZYJuZYO8t) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [Dew](https://open.spotify.com/album/1ihmY5wn40fLchhW60Ibjg) | 2:02 |
-| 91 | [Je Te Manque?](https://open.spotify.com/track/3OH8rKFY3rNV6Y7HMIate7) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Je Te Manque?](https://open.spotify.com/album/5VepAU0NTh96kQZmkFIvEb) | 2:56 |
-| 92 | [Her Beauty and The Moonlight](https://open.spotify.com/track/5pVB8mXfdg24zKDx8sCy1S) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Her Beauty and The Moonlight](https://open.spotify.com/album/06B2QM3Aysi78sk7q7DWBu) | 2:45 |
-| 93 | [Lucent](https://open.spotify.com/track/7HvBZicMq8Vb4NGPMaEYnd) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Lucent](https://open.spotify.com/album/1ND7mdeP1jyfPC3bswQIdn) | 2:04 |
-| 94 | [Blessing](https://open.spotify.com/track/2l3DOrrIbufk8EZpXDVbJF) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Blessing](https://open.spotify.com/album/416NtowzaFvYLHbOcByhsE) | 2:42 |
-| 95 | [Low Valleys](https://open.spotify.com/track/7dYhKDt0CuvY007Ftb1YLx) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Low Valleys](https://open.spotify.com/album/52XySoOJ3cX9Pyb8oYYOXO) | 2:43 |
-| 96 | [When Sarah Returned](https://open.spotify.com/track/0Osgo37JsM3e6PKkrRGX77) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 2:36 |
-| 97 | [Better Here](https://open.spotify.com/track/2xMK2XVpe7mOFMjaI1ZPGh) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [Better Here](https://open.spotify.com/album/6PJhbCAzc2w4edtE6ay57F) | 2:23 |
-| 98 | [Sweet Sky](https://open.spotify.com/track/2HUz7Vn3QcsmCPrHmJojvi) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Sweet Sky](https://open.spotify.com/album/7M45WfGEysgnjPlcV2Fmud) | 3:00 |
-| 99 | [Fireside Advice](https://open.spotify.com/track/7iTdFFyKwyyXilahbjI7y2) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Fireside Advice](https://open.spotify.com/album/27H173Ifhecw83QcLkdreV) | 3:03 |
+| 91 | [Her Beauty and The Moonlight](https://open.spotify.com/track/5pVB8mXfdg24zKDx8sCy1S) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Her Beauty and The Moonlight](https://open.spotify.com/album/06B2QM3Aysi78sk7q7DWBu) | 2:45 |
+| 92 | [Lucent](https://open.spotify.com/track/7HvBZicMq8Vb4NGPMaEYnd) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Lucent](https://open.spotify.com/album/1ND7mdeP1jyfPC3bswQIdn) | 2:04 |
+| 93 | [Low Valleys](https://open.spotify.com/track/7dYhKDt0CuvY007Ftb1YLx) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Low Valleys](https://open.spotify.com/album/52XySoOJ3cX9Pyb8oYYOXO) | 2:43 |
+| 94 | [Better Here](https://open.spotify.com/track/2xMK2XVpe7mOFMjaI1ZPGh) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [Better Here](https://open.spotify.com/album/6PJhbCAzc2w4edtE6ay57F) | 2:23 |
+| 95 | [Sweet Sky](https://open.spotify.com/track/2HUz7Vn3QcsmCPrHmJojvi) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Sweet Sky](https://open.spotify.com/album/7M45WfGEysgnjPlcV2Fmud) | 3:00 |
+| 96 | [Fireside Advice](https://open.spotify.com/track/7iTdFFyKwyyXilahbjI7y2) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Fireside Advice](https://open.spotify.com/album/27H173Ifhecw83QcLkdreV) | 3:03 |
 
-Snapshot ID: `Zpm6kAAAAABULgIh97zTALUTsH/X1gLw`
+Snapshot ID: `ZqdnrQAAAABUaem+LFm7FiRHwhGvtfAv`

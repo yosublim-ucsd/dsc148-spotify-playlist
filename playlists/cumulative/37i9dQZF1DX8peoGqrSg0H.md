@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว อัปเดตทุกสัปดาห์\. ศิลปิน: THE TOYS, NONT TANONT
 
-525 songs - 1 day 7 hr 12 min
+526 songs - 1 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [1987](https://open.spotify.com/track/5xKPYDrSEwyRRtlxEOi0lQ) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [1987](https://open.spotify.com/album/1cxw73GpBf6KWNYQxqiH5D) | 4:16 | 2023-11-02 | 2023-11-10 |
 | [247](https://open.spotify.com/track/7AQFhodzN09DtXGiIDtFrd) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [247](https://open.spotify.com/album/0Y9jkFL7qITGFYxPIzzqi4) | 3:18 | 2022-05-26 | 2022-07-31 |
 | [ACTION](https://open.spotify.com/track/2MaB2AGKCvcwhF7A7WPaae) | [AR3NA](https://open.spotify.com/artist/3Z1xhsM4bQE28mcnQhiOJA) | [ACTION](https://open.spotify.com/album/6rHZhVtDDMBPhDyQ4n4Ydx) | 3:25 | 2023-12-07 | 2023-12-15 |
+| [Aftercry](https://open.spotify.com/track/0lWlgVOKrCpa1AQfvlIZqM) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [Aftercry](https://open.spotify.com/album/0EzeQWsY83xRG35HMF1wsG) | 3:51 | 2024-07-29 |  |
 | [ALALA \(To The Top\)](https://open.spotify.com/track/77Sye1USZZ2xmy18ln7dWe) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [ALALA \(To The Top\) \- Single](https://open.spotify.com/album/2sLjFbcHqYmFW0ue0Ivlwl) | 3:06 | 2024-01-11 | 2024-02-01 |
 | [ALALA \(To The Top\) \(WhiteFox Studio\)](https://open.spotify.com/track/6nR3CGUWBFHfgIxitfImx2) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt), [Nay PERSES](https://open.spotify.com/artist/2tfjjJpLFUIbcXQFANpQqw), [JUNG PERSES](https://open.spotify.com/artist/1Er9htPD9zH1LecGCERIJk) | [ALALA \(To The Top\) \(WhiteFox Studio\) \- Single](https://open.spotify.com/album/5NxHf1ZgXzQxg5auKnHKYt) | 3:11 | 2024-01-31 | 2024-02-10 |
 | [All Night \(feat\. Loco\)](https://open.spotify.com/track/2JMx6wah6eRezCInLGsoZ0) | [TYTAN](https://open.spotify.com/artist/5fTJwRSBleAeLkLivVLDZ4), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [All Night \(feat\. Loco\)](https://open.spotify.com/album/3PlPXgmBBVh9LK2czA9DPo) | 3:03 | 2022-06-09 | 2022-07-08 |
@@ -440,7 +441,7 @@
 | [เผลอหรือตั้งใจ](https://open.spotify.com/track/7GfFmnGewokTR7RwkMpbW5) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [เผลอหรือตั้งใจ](https://open.spotify.com/album/3S8wLd9kZqvibuEQoAKd7I) | 3:09 | 2022-07-28 | 2022-10-27 |
 | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/track/3Tzztaw6T9gtOsitE8A4dh) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/album/5gZYy0eAVTbNN47UAbfj5S) | 4:38 | 2022-06-23 | 2022-08-19 |
 | [เพลงนี้ชื่อว่าเธอ \(From KinnPorsche The Series\)](https://open.spotify.com/track/0qKYQGK62HSNiSih00ySjL) | [Barcode Tinnasit Isarapongporn](https://open.spotify.com/artist/7kBYXxfsNkiMGawDOsvE67) | [เพลงนี้ชื่อว่าเธอ \(From KinnPorsche The Series\)](https://open.spotify.com/album/6Kb4XkS1pGS8O7nWmQVASk) | 3:59 | 2022-06-09 | 2022-06-24 |
-| [เพลงรัก \(Hook\) \(เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President\)](https://open.spotify.com/track/3IPNXwdcnW8WSMvUPl66hI) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [เพลงรัก \(Hook\) \- Single](https://open.spotify.com/album/6HxDXm6KhHnGo7ceZniiXS) | 4:15 | 2023-02-23 |  |
+| [เพลงรัก \(Hook\) \(เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President\)](https://open.spotify.com/track/3IPNXwdcnW8WSMvUPl66hI) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [เพลงรัก \(Hook\) \- Single](https://open.spotify.com/album/6HxDXm6KhHnGo7ceZniiXS) | 4:15 | 2023-02-23 | 2024-07-30 |
 | [เพื่อน\(แอบ\)รัก \- Close\(d\) Friend](https://open.spotify.com/track/4hixbQQlUe67vYHbPnOeih) | [DVI](https://open.spotify.com/artist/5MDug90VBdUSLULq3hBU4X) | [เพื่อน\(แอบ\)รัก \- Close\(d\) Friend](https://open.spotify.com/album/6vkEy8MOECSpIxFXe8U5ng) | 3:36 | 2024-01-31 | 2024-02-16 |
 | [เพื่อนกันไม่เลิกกัน \(Close Friend\)](https://open.spotify.com/track/7xfqTNAUFmbM1wlmCPxRmQ) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [bamm NEXT DOOR](https://open.spotify.com/album/4uem2B1Wez6SwW9lsRDWyF) | 4:00 | 2023-11-02 | 2024-02-16 |
 | [เพื่อนดีเด่น \(BEST FRIEND 4EVER\)](https://open.spotify.com/track/0dB8mLoawZ04XoJRewGiqj) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [เพื่อนดีเด่น \(BEST FRIEND 4EVER\)](https://open.spotify.com/album/6ZmUUmhdfsGDdd1nUG0v7P) | 3:27 | 2023-02-23 |  |

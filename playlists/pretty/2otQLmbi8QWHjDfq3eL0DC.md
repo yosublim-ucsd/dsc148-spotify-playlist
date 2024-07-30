@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 > The hottest dance hits, updated every week.\. All the biggest summer dance, house and electronic music to vibe to in 2024!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,352,663 likes - 100 songs - 4 hr 44 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,352,631 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 67 | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/track/1cYyZ1N98GyRS3cMcccFHd) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [I](https://open.spotify.com/album/5JPF8D6pm5x5eOVL8pvw2l) | 2:19 |
 | 68 | [Rock My Body](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with INNA & Sash!\)](https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB) | 2:17 |
 | 69 | [Better \(feat\. Decades\)](https://open.spotify.com/track/0NLqDfoF5wlJZSsundDLki) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Decades](https://open.spotify.com/artist/2jNb4TNoYjSHsK5ONo6miz) | [Better \(feat\. Decades\)](https://open.spotify.com/album/2TyL6rwm8VVcKynf0PT3ft) | 2:46 |
-| 70 | [The Line](https://open.spotify.com/track/5Zkwif4hJHnTrYfS7IGF8l) | [Sarah Story](https://open.spotify.com/artist/6yyACKZEH3neKNMrBW7zbt) | [The Line](https://open.spotify.com/album/1IbeiXX7cKHTiLAojPJhjU) | 3:34 |
+| 70 | [4AM](https://open.spotify.com/track/3lvYcFY5GGuuKjVYQj7FD1) | [Sarah Story](https://open.spotify.com/artist/6yyACKZEH3neKNMrBW7zbt) | [4AM](https://open.spotify.com/album/3aKsVI5oxhjZH1d8vYkx6T) | 3:00 |
 | 71 | [Know Better](https://open.spotify.com/track/6MQ3ksdINAphIz32yY29xk) | [CLIK3D](https://open.spotify.com/artist/054AWr3ShpT8e6JVHMC0Gs), [EVALINA](https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE) | [Know Better](https://open.spotify.com/album/6NnxziVp4gJtTed2fdvxKX) | 2:52 |
 | 72 | [Knee Deep](https://open.spotify.com/track/6Zq5Gc6kCBNZfu8gZNWjSG) | [Charlie Knox](https://open.spotify.com/artist/7pPwVoW9SP3X6AA0mSgXto) | [Knee Deep](https://open.spotify.com/album/4lezArnVnbcG9580uJp28v) | 3:03 |
 | 73 | [Off Switch](https://open.spotify.com/track/5a8NbqLMb0tqxsoesUODCM) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Off Switch](https://open.spotify.com/album/4HMcD9l4xFmpDW54k99dIk) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 99 | [Praise Me \(feat\. Stefi Novo\)](https://open.spotify.com/track/4A4OFV3OWOi46aQ3Hw0cs0) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Stefi Novo](https://open.spotify.com/artist/3key79uXViuXxdyOgRfoTo) | [Praise Me \(feat\. Stefi Novo\)](https://open.spotify.com/album/4vVgunQxEOEwlogDQTv3f7) | 2:41 |
 | 100 | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/track/3lqfTqap6aFMlYGEOyDZvt) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ) | 2:30 |
 
-Snapshot ID: `AAAONRLLj7niiXUXYBrt+tRw7/vsluWn`
+Snapshot ID: `AAAON+SMGni5Plut7ihOn1yez0TwykQt`

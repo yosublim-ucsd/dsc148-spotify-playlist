@@ -1,6 +1,6 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 404084,
+  "num_followers": 404149,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2024-07-19 12:04:04",
       "album": {
-        "name": "So They Say",
-        "url": "https://open.spotify.com/album/2Q3YVXtFCxn0LvdvVak5yg"
-      },
-      "artists": [
-        {
-          "name": "Vendla",
-          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
-        }
-      ],
-      "duration_ms": 237659,
-      "name": "So They Say",
-      "url": "https://open.spotify.com/track/4689TAqR9n79nptG04RV9c"
-    },
-    {
-      "added_at": "2024-07-19 12:04:04",
-      "album": {
         "name": "Cononbridge",
         "url": "https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 298000,
       "name": "Cononbridge",
       "url": "https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h"
+    },
+    {
+      "added_at": "2024-07-19 12:04:04",
+      "album": {
+        "name": "So They Say",
+        "url": "https://open.spotify.com/album/2Q3YVXtFCxn0LvdvVak5yg"
+      },
+      "artists": [
+        {
+          "name": "Vendla",
+          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
+        }
+      ],
+      "duration_ms": 237659,
+      "name": "So They Say",
+      "url": "https://open.spotify.com/track/4689TAqR9n79nptG04RV9c"
     },
     {
       "added_at": "2024-07-19 12:04:04",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-07-19 12:04:04",
       "album": {
-        "name": "En attendant",
-        "url": "https://open.spotify.com/album/5StrH1ERbMpncR1LR5xWfv"
-      },
-      "artists": [
-        {
-          "name": "Marcin Wasilewski Trio",
-          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
-        }
-      ],
-      "duration_ms": 333213,
-      "name": "Riders On The Storm",
-      "url": "https://open.spotify.com/track/6YDi1zFfIPb5DxYPLKPF3s"
-    },
-    {
-      "added_at": "2024-07-19 12:04:04",
-      "album": {
         "name": "The Velvet Blues",
         "url": "https://open.spotify.com/album/3Td7ptaHioLJ3THpiRvZ4l"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 276040,
       "name": "Somewhere over the Rainbow",
       "url": "https://open.spotify.com/track/6WaLMmbnmG1T2HWm5hwKOU"
+    },
+    {
+      "added_at": "2024-07-19 12:04:04",
+      "album": {
+        "name": "En attendant",
+        "url": "https://open.spotify.com/album/5StrH1ERbMpncR1LR5xWfv"
+      },
+      "artists": [
+        {
+          "name": "Marcin Wasilewski Trio",
+          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
+        }
+      ],
+      "duration_ms": 333213,
+      "name": "Riders On The Storm",
+      "url": "https://open.spotify.com/track/6YDi1zFfIPb5DxYPLKPF3s"
     },
     {
       "added_at": "2024-07-19 12:04:04",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-07-19 12:04:04",
       "album": {
+        "name": "Where Will the River Flow",
+        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
+      },
+      "artists": [
+        {
+          "name": "Matt Carmichael",
+          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+        }
+      ],
+      "duration_ms": 334925,
+      "name": "Hopeful Morning",
+      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
+    },
+    {
+      "added_at": "2024-07-19 12:04:04",
+      "album": {
         "name": "Compromises",
         "url": "https://open.spotify.com/album/7MkYND1u4Y9ytafBECXxPM"
       },
@@ -643,22 +659,6 @@
     {
       "added_at": "2024-07-19 12:04:04",
       "album": {
-        "name": "Where Will the River Flow",
-        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
-      },
-      "artists": [
-        {
-          "name": "Matt Carmichael",
-          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
-        }
-      ],
-      "duration_ms": 334925,
-      "name": "Hopeful Morning",
-      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
-    },
-    {
-      "added_at": "2024-07-19 12:04:04",
-      "album": {
         "name": "Jazz Lullaby",
         "url": "https://open.spotify.com/album/0wDnMx1ZIjpH2TJSm6PCR7"
       },
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-07-19 12:04:04",
       "album": {
-        "name": "On the Second Day",
-        "url": "https://open.spotify.com/album/3fhhihPsKUiDQ1USgJMXff"
-      },
-      "artists": [
-        {
-          "name": "J\u00f8rgen Emborg",
-          "url": "https://open.spotify.com/artist/33HADTIIVWw1K8x6ykb9xS"
-        }
-      ],
-      "duration_ms": 272794,
-      "name": "On The Second Day",
-      "url": "https://open.spotify.com/track/7xM0zRlSfbnHHq16CoN9ye"
-    },
-    {
-      "added_at": "2024-07-19 12:04:04",
-      "album": {
         "name": "Pure Imagination",
         "url": "https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 358853,
       "name": "Pure Imagination",
       "url": "https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh"
+    },
+    {
+      "added_at": "2024-07-19 12:04:04",
+      "album": {
+        "name": "On the Second Day",
+        "url": "https://open.spotify.com/album/3fhhihPsKUiDQ1USgJMXff"
+      },
+      "artists": [
+        {
+          "name": "J\u00f8rgen Emborg",
+          "url": "https://open.spotify.com/artist/33HADTIIVWw1K8x6ykb9xS"
+        }
+      ],
+      "duration_ms": 272794,
+      "name": "On The Second Day",
+      "url": "https://open.spotify.com/track/7xM0zRlSfbnHHq16CoN9ye"
     },
     {
       "added_at": "2024-07-19 12:04:04",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-07-19 12:04:04",
       "album": {
-        "name": "Mack the Knife",
-        "url": "https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu"
-      },
-      "artists": [
-        {
-          "name": "Chad Lefkowitz-Brown",
-          "url": "https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe"
-        }
-      ],
-      "duration_ms": 331461,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc"
-    },
-    {
-      "added_at": "2024-07-19 12:04:04",
-      "album": {
         "name": "Jennie / Gravol",
         "url": "https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2024-07-19 12:04:04",
       "album": {
+        "name": "Mack the Knife",
+        "url": "https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu"
+      },
+      "artists": [
+        {
+          "name": "Chad Lefkowitz-Brown",
+          "url": "https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe"
+        }
+      ],
+      "duration_ms": 331461,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc"
+    },
+    {
+      "added_at": "2024-07-19 12:04:04",
+      "album": {
         "name": "Let Love Be Genuine",
         "url": "https://open.spotify.com/album/13yjw0qb0yqrU1s7xkOPRi"
       },
@@ -867,6 +867,26 @@
       "duration_ms": 318620,
       "name": "Let Love Be Genuine",
       "url": "https://open.spotify.com/track/4VQAmkNpIfBNQCTrz5yEA0"
+    },
+    {
+      "added_at": "2024-07-19 12:04:04",
+      "album": {
+        "name": "In the Mountains",
+        "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        },
+        {
+          "name": "Andy Sheppard",
+          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
+        }
+      ],
+      "duration_ms": 496933,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi"
     },
     {
       "added_at": "2024-07-19 12:04:04",
@@ -891,26 +911,6 @@
       "duration_ms": 353280,
       "name": "Will You Still Be Mine?",
       "url": "https://open.spotify.com/track/7FoszDSSSG1bFxDl6QDZ0l"
-    },
-    {
-      "added_at": "2024-07-19 12:04:04",
-      "album": {
-        "name": "In the Mountains",
-        "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        },
-        {
-          "name": "Andy Sheppard",
-          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
-        }
-      ],
-      "duration_ms": 496933,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi"
     },
     {
       "added_at": "2024-07-19 12:04:04",
@@ -951,26 +951,6 @@
     {
       "added_at": "2024-07-19 12:04:04",
       "album": {
-        "name": "Going Up",
-        "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
-      },
-      "artists": [
-        {
-          "name": "Snorre Kirk",
-          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
-        },
-        {
-          "name": "Stephen Riley",
-          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
-        }
-      ],
-      "duration_ms": 275200,
-      "name": "Going Up",
-      "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
-    },
-    {
-      "added_at": "2024-07-19 12:04:04",
-      "album": {
         "name": "Our Songs",
         "url": "https://open.spotify.com/album/6cbxatO4U8vB68x9IZW2XF"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 224607,
       "name": "My Song",
       "url": "https://open.spotify.com/track/0lSLRJcWni4XX5UbCLJPy1"
+    },
+    {
+      "added_at": "2024-07-19 12:04:04",
+      "album": {
+        "name": "Going Up",
+        "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
+      },
+      "artists": [
+        {
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
+        {
+          "name": "Stephen Riley",
+          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
+        }
+      ],
+      "duration_ms": 275200,
+      "name": "Going Up",
+      "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
     },
     {
       "added_at": "2024-07-19 12:04:04",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-07-19 12:04:04",
       "album": {
-        "name": "Boo's Blues",
-        "url": "https://open.spotify.com/album/7cLgwx3J525qJrIbYOohuU"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 205094,
-      "name": "Boo's Blues",
-      "url": "https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr"
-    },
-    {
-      "added_at": "2024-07-19 12:04:04",
-      "album": {
         "name": "Going Home",
         "url": "https://open.spotify.com/album/7auXfJEUlOjhquq5JAFaq8"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 283266,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/10csxHiNeiIya5IRKop4Pa"
+    },
+    {
+      "added_at": "2024-07-19 12:04:04",
+      "album": {
+        "name": "Boo's Blues",
+        "url": "https://open.spotify.com/album/7cLgwx3J525qJrIbYOohuU"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 205094,
+      "name": "Boo's Blues",
+      "url": "https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr"
     },
     {
       "added_at": "2024-07-19 12:04:04",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-07-19 12:04:04",
       "album": {
+        "name": "Pannonica",
+        "url": "https://open.spotify.com/album/2yuuyMO0wzr2pbku1Wurd1"
+      },
+      "artists": [
+        {
+          "name": "Spike Wilner Trio",
+          "url": "https://open.spotify.com/artist/2IsQRgCkOiPQwg0sKFLAJQ"
+        }
+      ],
+      "duration_ms": 403285,
+      "name": "Pannonica",
+      "url": "https://open.spotify.com/track/1gyHEnqX09wctbRdqO6HUc"
+    },
+    {
+      "added_at": "2024-07-19 12:04:04",
+      "album": {
         "name": "First Quartet",
         "url": "https://open.spotify.com/album/0KpteW5dC4xgy87G1VnZLZ"
       },
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2024-07-19 12:04:04",
       "album": {
-        "name": "Pannonica",
-        "url": "https://open.spotify.com/album/2yuuyMO0wzr2pbku1Wurd1"
-      },
-      "artists": [
-        {
-          "name": "Spike Wilner Trio",
-          "url": "https://open.spotify.com/artist/2IsQRgCkOiPQwg0sKFLAJQ"
-        }
-      ],
-      "duration_ms": 403285,
-      "name": "Pannonica",
-      "url": "https://open.spotify.com/track/1gyHEnqX09wctbRdqO6HUc"
-    },
-    {
-      "added_at": "2024-07-19 12:04:04",
-      "album": {
         "name": "Uncle John's Band",
         "url": "https://open.spotify.com/album/1Plvo3OJgozxDluN4QKoTo"
       },
@@ -1259,22 +1259,6 @@
       "duration_ms": 386786,
       "name": "Uncle John\u2019s Band",
       "url": "https://open.spotify.com/track/6bt7GwrXpUgIeXMw16yBkY"
-    },
-    {
-      "added_at": "2024-07-19 12:04:04",
-      "album": {
-        "name": "Nothing Happens Here",
-        "url": "https://open.spotify.com/album/1b1WrvvhpxD794cnkbes4K"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 254560,
-      "name": "Nothing Happens Here",
-      "url": "https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc"
     },
     {
       "added_at": "2024-07-19 12:04:04",
@@ -1323,6 +1307,22 @@
       "duration_ms": 330213,
       "name": "To Mr K.K.",
       "url": "https://open.spotify.com/track/1naTwydH0ks78g3oXpTmGC"
+    },
+    {
+      "added_at": "2024-07-19 12:04:04",
+      "album": {
+        "name": "Nothing Happens Here",
+        "url": "https://open.spotify.com/album/1b1WrvvhpxD794cnkbes4K"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 254560,
+      "name": "Nothing Happens Here",
+      "url": "https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc"
     },
     {
       "added_at": "2024-07-19 12:04:04",
@@ -1427,6 +1427,34 @@
     {
       "added_at": "2024-07-19 12:04:04",
       "album": {
+        "name": "Professor Nelson Strikes Again",
+        "url": "https://open.spotify.com/album/4DnzGUum1AtQ1RMeclFhma"
+      },
+      "artists": [
+        {
+          "name": "The New York Second",
+          "url": "https://open.spotify.com/artist/5IvR1puiIiwZY0xh5VFWR9"
+        },
+        {
+          "name": "Harald Walkate",
+          "url": "https://open.spotify.com/artist/1h6G6eVgBdJ88Mo6mMGrl2"
+        },
+        {
+          "name": "Max Sergeant",
+          "url": "https://open.spotify.com/artist/1Zg8kiLomzWw8H4vTsqFT2"
+        },
+        {
+          "name": "Lorenzo Buffa",
+          "url": "https://open.spotify.com/artist/0wK2uFLKljFvDacip7lXbB"
+        }
+      ],
+      "duration_ms": 251863,
+      "name": "Professor Nelson Strikes Again - Single Version",
+      "url": "https://open.spotify.com/track/6SwWNBBqNylPPRUFNy1W5k"
+    },
+    {
+      "added_at": "2024-07-19 12:04:04",
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/7mZIkCWKRkDABE76QP4YQL"
       },
@@ -1455,34 +1483,6 @@
       "duration_ms": 255746,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/0TRD3w799Q6W1omTkLZPTi"
-    },
-    {
-      "added_at": "2024-07-19 12:04:04",
-      "album": {
-        "name": "Professor Nelson Strikes Again",
-        "url": "https://open.spotify.com/album/4DnzGUum1AtQ1RMeclFhma"
-      },
-      "artists": [
-        {
-          "name": "The New York Second",
-          "url": "https://open.spotify.com/artist/5IvR1puiIiwZY0xh5VFWR9"
-        },
-        {
-          "name": "Harald Walkate",
-          "url": "https://open.spotify.com/artist/1h6G6eVgBdJ88Mo6mMGrl2"
-        },
-        {
-          "name": "Max Sergeant",
-          "url": "https://open.spotify.com/artist/1Zg8kiLomzWw8H4vTsqFT2"
-        },
-        {
-          "name": "Lorenzo Buffa",
-          "url": "https://open.spotify.com/artist/0wK2uFLKljFvDacip7lXbB"
-        }
-      ],
-      "duration_ms": 251863,
-      "name": "Professor Nelson Strikes Again - Single Version",
-      "url": "https://open.spotify.com/track/6SwWNBBqNylPPRUFNy1W5k"
     },
     {
       "added_at": "2024-07-19 12:04:04",

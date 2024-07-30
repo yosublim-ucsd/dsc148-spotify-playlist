@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Perreo del bueno! twerk that \ud83c\udf51 Cover: Luis R Conriquez",
-  "num_followers": 1329238,
+  "num_followers": 1329205,
   "original_name": "Puro Perreo",
   "owner": {
     "name": "Spotify",
@@ -839,26 +839,6 @@
     {
       "added_at": "2024-07-26 16:52:22",
       "album": {
-        "name": "Dime",
-        "url": "https://open.spotify.com/album/0ZojoU0GhpLwBGVrTsEghq"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Maury",
-          "url": "https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg"
-        }
-      ],
-      "duration_ms": 173195,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/7IJph8SanpysMOFmXQCJth"
-    },
-    {
-      "added_at": "2024-07-26 16:52:22",
-      "album": {
         "name": "QUEMA",
         "url": "https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 150618,
       "name": "QUEMA",
       "url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL"
+    },
+    {
+      "added_at": "2024-07-26 16:52:22",
+      "album": {
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/0ZojoU0GhpLwBGVrTsEghq"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Maury",
+          "url": "https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg"
+        }
+      ],
+      "duration_ms": 173195,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/7IJph8SanpysMOFmXQCJth"
     },
     {
       "added_at": "2024-07-26 16:52:22",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2024-07-26 16:52:22",
       "album": {
+        "name": "TOMMY & PAMELA",
+        "url": "https://open.spotify.com/album/4ze3XGO5e61VP9HKtybdzY"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 209361,
+      "name": "TOMMY & PAMELA",
+      "url": "https://open.spotify.com/track/22pksIE0wbdDfMXCb65Qt8"
+    },
+    {
+      "added_at": "2024-07-26 16:52:22",
+      "album": {
         "name": "Marisola (Remix)",
         "url": "https://open.spotify.com/album/262bymaji1sJPAldR7YyaH"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 237473,
       "name": "Marisola - Remix",
       "url": "https://open.spotify.com/track/0NO2zL0kw8sGGnaMvHKAZF"
-    },
-    {
-      "added_at": "2024-07-26 16:52:22",
-      "album": {
-        "name": "TOMMY & PAMELA",
-        "url": "https://open.spotify.com/album/4ze3XGO5e61VP9HKtybdzY"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 209361,
-      "name": "TOMMY & PAMELA",
-      "url": "https://open.spotify.com/track/22pksIE0wbdDfMXCb65Qt8"
     },
     {
       "added_at": "2024-07-26 16:52:22",
@@ -1247,22 +1247,22 @@
     {
       "added_at": "2024-07-26 16:52:22",
       "album": {
-        "name": "EMPELOTICA",
-        "url": "https://open.spotify.com/album/1Cf5ZIMxdIYC60Cz7Q4GZg"
+        "name": "ESTE",
+        "url": "https://open.spotify.com/album/6IyqaZNwNpIEKSHGENe5DU"
       },
       "artists": [
         {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         },
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
         }
       ],
-      "duration_ms": 190322,
-      "name": "EMPELOTICA",
-      "url": "https://open.spotify.com/track/0dKsNKiWmqkoz8YAUzfigC"
+      "duration_ms": 162058,
+      "name": "ESTE",
+      "url": "https://open.spotify.com/track/0GfWTZZOc7co6oVqyQ556l"
     },
     {
       "added_at": "2024-07-26 16:52:22",
@@ -1287,18 +1287,22 @@
     {
       "added_at": "2024-07-26 16:52:22",
       "album": {
-        "name": "Torii",
-        "url": "https://open.spotify.com/album/4qJ85usbGHHY9Hs2OdguKx"
+        "name": "EMPELOTICA",
+        "url": "https://open.spotify.com/album/1Cf5ZIMxdIYC60Cz7Q4GZg"
       },
       "artists": [
         {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 216440,
-      "name": "Torii",
-      "url": "https://open.spotify.com/track/0yROknHyvAJ57hZLpxNHry"
+      "duration_ms": 190322,
+      "name": "EMPELOTICA",
+      "url": "https://open.spotify.com/track/0dKsNKiWmqkoz8YAUzfigC"
     },
     {
       "added_at": "2024-07-26 16:52:22",
@@ -1319,22 +1323,18 @@
     {
       "added_at": "2024-07-26 16:52:22",
       "album": {
-        "name": "ESTE",
-        "url": "https://open.spotify.com/album/6IyqaZNwNpIEKSHGENe5DU"
+        "name": "Torii",
+        "url": "https://open.spotify.com/album/4qJ85usbGHHY9Hs2OdguKx"
       },
       "artists": [
         {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
-      "duration_ms": 162058,
-      "name": "ESTE",
-      "url": "https://open.spotify.com/track/0GfWTZZOc7co6oVqyQ556l"
+      "duration_ms": 216440,
+      "name": "Torii",
+      "url": "https://open.spotify.com/track/0yROknHyvAJ57hZLpxNHry"
     },
     {
       "added_at": "2024-07-26 16:52:22",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2024-07-26 16:52:22",
       "album": {
-        "name": "Polvo de tu Vida",
-        "url": "https://open.spotify.com/album/0zhd9N8ctbIgV58nd5OmGh"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 172105,
-      "name": "Polvo de tu Vida",
-      "url": "https://open.spotify.com/track/4Nr31bxNazMn7t94RoSbFq"
-    },
-    {
-      "added_at": "2024-07-26 16:52:22",
-      "album": {
         "name": "Te Bot\u00e9 (Remix)",
         "url": "https://open.spotify.com/album/42wLKnuGyBLGWwH89lnimL"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 417920,
       "name": "Te Bot\u00e9 - Remix",
       "url": "https://open.spotify.com/track/3V8UKqhEK5zBkBb6d6ub8i"
+    },
+    {
+      "added_at": "2024-07-26 16:52:22",
+      "album": {
+        "name": "Polvo de tu Vida",
+        "url": "https://open.spotify.com/album/0zhd9N8ctbIgV58nd5OmGh"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 172105,
+      "name": "Polvo de tu Vida",
+      "url": "https://open.spotify.com/track/4Nr31bxNazMn7t94RoSbFq"
     },
     {
       "added_at": "2024-07-26 16:52:22",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2024-07-26 16:52:22",
       "album": {
+        "name": "Faldita ALO",
+        "url": "https://open.spotify.com/album/5irHltn3ay8OPqNMgcDm8p"
+      },
+      "artists": [
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Faldita ALO",
+      "url": "https://open.spotify.com/track/6PI2ixIOiD6OkAm214UirV"
+    },
+    {
+      "added_at": "2024-07-26 16:52:22",
+      "album": {
         "name": "Yankee 150",
         "url": "https://open.spotify.com/album/6ufsNn6vIdR75yr6uYZW9F"
       },
@@ -1967,6 +1983,30 @@
       "duration_ms": 242667,
       "name": "Yankee 150",
       "url": "https://open.spotify.com/track/28BSTgZH1ckI8Xfy8LXaRz"
+    },
+    {
+      "added_at": "2024-07-26 16:52:22",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 205144,
+      "name": "UNA NOCHE EN MEDELL\u00cdN - REMIX",
+      "url": "https://open.spotify.com/track/6ejks4eS7DOoYW8hrpRcDV"
     },
     {
       "added_at": "2024-07-26 16:52:22",
@@ -1995,26 +2035,70 @@
     {
       "added_at": "2024-07-26 16:52:22",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         },
         {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 205144,
-      "name": "UNA NOCHE EN MEDELL\u00cdN - REMIX",
-      "url": "https://open.spotify.com/track/6ejks4eS7DOoYW8hrpRcDV"
+      "duration_ms": 174482,
+      "name": "TUS L\u00c1GRIMAS",
+      "url": "https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u"
+    },
+    {
+      "added_at": "2024-07-26 16:52:22",
+      "album": {
+        "name": "Ducati",
+        "url": "https://open.spotify.com/album/2QmFMHMxWElDAfhdXjM7OM"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 148480,
+      "name": "Ducati",
+      "url": "https://open.spotify.com/track/0tmP3JTNIPazZFYbznBwm7"
+    },
+    {
+      "added_at": "2024-07-26 16:52:22",
+      "album": {
+        "name": "LOKERA",
+        "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "duration_ms": 197101,
+      "name": "LOKERA",
+      "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
     },
     {
       "added_at": "2024-07-26 16:52:22",
@@ -2051,114 +2135,6 @@
       "duration_ms": 279990,
       "name": "G Low Kitty - Remix",
       "url": "https://open.spotify.com/track/5J2pn2fzrIp7CT0IHLlgQ7"
-    },
-    {
-      "added_at": "2024-07-26 16:52:22",
-      "album": {
-        "name": "MICRODOSIS",
-        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 174482,
-      "name": "TUS L\u00c1GRIMAS",
-      "url": "https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u"
-    },
-    {
-      "added_at": "2024-07-26 16:52:22",
-      "album": {
-        "name": "LOKERA",
-        "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        }
-      ],
-      "duration_ms": 197101,
-      "name": "LOKERA",
-      "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
-    },
-    {
-      "added_at": "2024-07-26 16:52:22",
-      "album": {
-        "name": "Sue\u00f1os",
-        "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 305962,
-      "name": "Que Mas Pues - Remix",
-      "url": "https://open.spotify.com/track/7fODjB7BrQTGqh0hogW6XD"
-    },
-    {
-      "added_at": "2024-07-26 16:52:22",
-      "album": {
-        "name": "Ducati",
-        "url": "https://open.spotify.com/album/2QmFMHMxWElDAfhdXjM7OM"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 148480,
-      "name": "Ducati",
-      "url": "https://open.spotify.com/track/0tmP3JTNIPazZFYbznBwm7"
     }
   ],
   "unique_name": "Puro Perreo",

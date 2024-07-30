@@ -1,6 +1,6 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 436814,
+  "num_followers": 436880,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Spit It Out",
-        "url": "https://open.spotify.com/album/7C2M8DsO12eRUsFBtzeqkS"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 187396,
-      "name": "Spit It Out",
-      "url": "https://open.spotify.com/track/44la56EZdE2fw9r963o5E2"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Funny",
         "url": "https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 302578,
       "name": "Funny",
       "url": "https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Spit It Out",
+        "url": "https://open.spotify.com/album/7C2M8DsO12eRUsFBtzeqkS"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 187396,
+      "name": "Spit It Out",
+      "url": "https://open.spotify.com/track/44la56EZdE2fw9r963o5E2"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS"
     },
     {
-      "added_at": "2024-02-05 23:33:58",
-      "album": {
-        "name": "Contently Miserable",
-        "url": "https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT"
-      },
-      "artists": [
-        {
-          "name": "Rory Ryan",
-          "url": "https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Contently Miserable",
-      "url": "https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW"
-    },
-    {
       "added_at": "2023-11-03 23:08:22",
       "album": {
         "name": "Horror Scene (feat. aldn)",
@@ -807,6 +791,22 @@
       "duration_ms": 119396,
       "name": "Horror Scene (feat. aldn)",
       "url": "https://open.spotify.com/track/4xaQIoPckzCcFQ2e4W7gqR"
+    },
+    {
+      "added_at": "2024-02-05 23:33:58",
+      "album": {
+        "name": "Contently Miserable",
+        "url": "https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT"
+      },
+      "artists": [
+        {
+          "name": "Rory Ryan",
+          "url": "https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Contently Miserable",
+      "url": "https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -905,22 +905,6 @@
       "url": "https://open.spotify.com/track/633HJNBMLx1CJ2h6fmtMce"
     },
     {
-      "added_at": "2024-06-01 17:19:11",
-      "album": {
-        "name": "this old house",
-        "url": "https://open.spotify.com/album/1QWJ3ijFhCMroSOOAR61Qf"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 304291,
-      "name": "teeth",
-      "url": "https://open.spotify.com/track/5RVajwoNIYW0zPt8PqS71y"
-    },
-    {
       "added_at": "2023-11-03 23:08:22",
       "album": {
         "name": "The Waves Pt. 1",
@@ -935,6 +919,22 @@
       "duration_ms": 262040,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/4eau8qa4koyrqBysxTBCpp"
+    },
+    {
+      "added_at": "2024-06-01 17:19:11",
+      "album": {
+        "name": "this old house",
+        "url": "https://open.spotify.com/album/1QWJ3ijFhCMroSOOAR61Qf"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 304291,
+      "name": "teeth",
+      "url": "https://open.spotify.com/track/5RVajwoNIYW0zPt8PqS71y"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -969,22 +969,6 @@
       "url": "https://open.spotify.com/track/3lWEr9ARqZA5K9v9BS26J2"
     },
     {
-      "added_at": "2024-06-01 17:19:11",
-      "album": {
-        "name": "through the telescope",
-        "url": "https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3"
-      },
-      "artists": [
-        {
-          "name": "Karin Ann",
-          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "pile of bones",
-      "url": "https://open.spotify.com/track/1CDoOdVozBrccyatQBXM8e"
-    },
-    {
       "added_at": "2023-11-03 23:08:22",
       "album": {
         "name": "Eye On The Bat",
@@ -999,6 +983,22 @@
       "duration_ms": 144404,
       "name": "My Evil",
       "url": "https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ"
+    },
+    {
+      "added_at": "2024-06-01 17:19:11",
+      "album": {
+        "name": "through the telescope",
+        "url": "https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3"
+      },
+      "artists": [
+        {
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "pile of bones",
+      "url": "https://open.spotify.com/track/1CDoOdVozBrccyatQBXM8e"
     },
     {
       "added_at": "2024-06-01 17:19:11",
@@ -1393,20 +1393,20 @@
       "url": "https://open.spotify.com/track/1ZxkEYMc2koZHb62qmUBzW"
     },
     {
-      "added_at": "2023-11-03 23:08:22",
+      "added_at": "2024-06-01 17:19:11",
       "album": {
-        "name": "i walk this earth all by myself",
-        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
+        "name": "Suffering",
+        "url": "https://open.spotify.com/album/59t0ljku1HxH7zEDXeKGHJ"
       },
       "artists": [
         {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+          "name": "bloody/bath",
+          "url": "https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc"
         }
       ],
-      "duration_ms": 145634,
-      "name": "i walk this earth all by myself",
-      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
+      "duration_ms": 196235,
+      "name": "Suffering",
+      "url": "https://open.spotify.com/track/7CBbSbG8E90m06y3hyEoJy"
     },
     {
       "added_at": "2024-02-05 23:33:58",
@@ -1425,20 +1425,20 @@
       "url": "https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7"
     },
     {
-      "added_at": "2024-06-01 17:19:11",
+      "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Suffering",
-        "url": "https://open.spotify.com/album/59t0ljku1HxH7zEDXeKGHJ"
+        "name": "i walk this earth all by myself",
+        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
       },
       "artists": [
         {
-          "name": "bloody/bath",
-          "url": "https://open.spotify.com/artist/6U0yRPIBTZbMoRS3FRvyWc"
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
         }
       ],
-      "duration_ms": 196235,
-      "name": "Suffering",
-      "url": "https://open.spotify.com/track/7CBbSbG8E90m06y3hyEoJy"
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
     },
     {
       "added_at": "2023-11-03 23:08:22",

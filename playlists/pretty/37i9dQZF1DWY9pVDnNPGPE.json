@@ -1,6 +1,6 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 5836,
+  "num_followers": 5839,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-06-24 08:38:54",
       "album": {
-        "name": "ERROR",
-        "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
-      },
-      "artists": [
-        {
-          "name": "LEE CHANHYUK",
-          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
-        }
-      ],
-      "duration_ms": 198558,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
-    },
-    {
-      "added_at": "2024-06-24 08:38:54",
-      "album": {
         "name": "Before the Petals Fall",
         "url": "https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 229346,
       "name": "Before the Petals Fall",
       "url": "https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t"
+    },
+    {
+      "added_at": "2024-06-24 08:38:54",
+      "album": {
+        "name": "ERROR",
+        "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
+      },
+      "artists": [
+        {
+          "name": "LEE CHANHYUK",
+          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
+        }
+      ],
+      "duration_ms": 198558,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
     },
     {
       "added_at": "2024-06-24 08:38:54",
@@ -835,38 +835,42 @@
     {
       "added_at": "2024-06-24 08:38:54",
       "album": {
-        "name": "HESITATING",
-        "url": "https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz"
+        "name": "Do Re Mi Fa Sol",
+        "url": "https://open.spotify.com/album/5a5B1drwuHl728MeIWClZ0"
       },
       "artists": [
         {
-          "name": "h3hyeon",
-          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+          "name": "Park Bom",
+          "url": "https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt"
         },
         {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
         }
       ],
-      "duration_ms": 134706,
-      "name": "SHIT SHOW (feat. Leellamarz)",
-      "url": "https://open.spotify.com/track/2fX6NGjW9s8EukBuwZG5Y5"
+      "duration_ms": 184320,
+      "name": "Do Re Mi Fa Sol (Feat. CHANGMO)",
+      "url": "https://open.spotify.com/track/4kchBm5YZ6wTo4bXQamLjK"
     },
     {
       "added_at": "2024-06-24 08:38:54",
       "album": {
-        "name": "No Worries",
-        "url": "https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU"
+        "name": "blanc",
+        "url": "https://open.spotify.com/album/1fUwVSrt6qTwkpWBmb5HDL"
       },
       "artists": [
         {
-          "name": "DAHEE",
-          "url": "https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT"
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "UNE",
+          "url": "https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS"
         }
       ],
-      "duration_ms": 174856,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk"
+      "duration_ms": 181495,
+      "name": "Mugshot (Feat. UNE)",
+      "url": "https://open.spotify.com/track/2euKIWbG8ahCaXIcr8RKer"
     }
   ],
   "unique_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",

@@ -2,7 +2,7 @@
 
 ### [This Is Deep Purple](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ZKA1i)
 
-> This is Deep Purple\. Tutti i brani in un'unica playlist.
+> This is Deep Purple\. The essential tracks, all in one playlist.
 
 102 songs - 8 hr 16 min
 
@@ -59,7 +59,7 @@
 | [Loosen My Strings](https://open.spotify.com/track/07mlxi9mcgpubvicMQgvNS) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Purpendicular](https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v) | 5:56 | 2023-09-09 | 2023-11-11 |
 | [Love Child \- 2010 Digital Remaster](https://open.spotify.com/track/0fKq39RZ7eb1Uku3LVvuyJ) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Come Taste The Band: 35th Anniversary Edition](https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy) | 3:08 | 2023-01-20 | 2023-01-22 |
 | [Love Conquers All](https://open.spotify.com/track/0Q7sFMIqfp3eMtjF3w3S6F) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Slaves and Masters \(Bonus Track Version\)](https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR) | 3:44 | 2022-09-17 |  |
-| [Love Don't Mean A Thing \- 2009 Digital Remaster](https://open.spotify.com/track/4tStEMRJzynmOSlGTZyjhl) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Stormbringer \(Remastered\)](https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU) | 4:24 | 2023-02-02 |  |
+| [Love Don't Mean A Thing \- 2009 Digital Remaster](https://open.spotify.com/track/4tStEMRJzynmOSlGTZyjhl) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Stormbringer \(Remastered\)](https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU) | 4:24 | 2023-02-02 | 2024-07-30 |
 | [Maybe I'm A Leo \- Remastered 2012](https://open.spotify.com/track/1OfOS5ZTxgH3kK2xSM78bo) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 4:50 | 2022-09-20 | 2024-05-22 |
 | [Mean Streak](https://open.spotify.com/track/43OcdjkrK5lCmACNU3HSF2) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 4:22 | 2022-09-17 | 2024-07-24 |
 | [Might Just Take Your Life \- Remastered 2004](https://open.spotify.com/track/2CCabtrP0Y8JNYuV0mo8w8) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 4:40 | 2022-09-17 |  |
@@ -82,7 +82,7 @@
 | [Portable Door](https://open.spotify.com/track/5yXGke5zIdiRd7J36un4bh) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Portable Door](https://open.spotify.com/album/5j6Kqb1gQUag2eIYbk9yIc) | 3:48 | 2024-05-03 | 2024-07-22 |
 | [Purpendicular Waltz \- Live in 95](https://open.spotify.com/track/2fKgboilteDu7GUkX8fVKX) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Bombay Calling \(Live in 95\)](https://open.spotify.com/album/1jtvoaDptF8n966xLCqmvV) | 5:40 | 2022-09-17 | 2022-10-11 |
 | [Remission Possible](https://open.spotify.com/track/1whd4TnRGOWFwQQtD5Surp) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Whoosh!](https://open.spotify.com/album/392MAwI1VwplUzLrz8R5p2) | 1:38 | 2022-09-29 | 2022-10-08 |
-| [Rockin' Pneumonia and the Boogie Woogie Flu](https://open.spotify.com/track/3xWUepcAW78VtEDHXPtxLI) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Turning to Crime](https://open.spotify.com/album/4rsA0I5GWl2bnrQLI4ODVm) | 3:15 | 2022-09-17 | 2024-07-20 |
+| [Rockin' Pneumonia and the Boogie Woogie Flu](https://open.spotify.com/track/3xWUepcAW78VtEDHXPtxLI) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Turning to Crime](https://open.spotify.com/album/4rsA0I5GWl2bnrQLI4ODVm) | 3:15 | 2022-09-17 |  |
 | [Sail Away \- Remastered 2004](https://open.spotify.com/track/29cnidbkZ13mYcNXnpqlre) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 5:52 | 2022-10-12 |  |
 | [Sharp Shooter](https://open.spotify.com/track/3EhtFciZg3T3iZbxEaqJiT) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [=1](https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq) | 3:44 | 2024-07-21 |  |
 | [Show Me](https://open.spotify.com/track/1MYTg8tznXrUL9DeYqdJrw) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [=1](https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq) | 3:59 | 2024-07-22 |  |

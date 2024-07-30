@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 
 > Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses\. Cover : Ishaan Ghosh
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,124 likes - 47 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,137 likes - 47 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 | 33 | [Sargam Crossing](https://open.spotify.com/track/2TnQINZVIrLtFRfH0njAg1) | [ARAJ](https://open.spotify.com/artist/0wAk8TZQcBKfo9QSfXr2eD) | [CHAKRA](https://open.spotify.com/album/7c32y7QchS7ZGN23CIXL8p) | 5:00 |
 | 34 | [Khandam](https://open.spotify.com/track/4jdaOd9GLwuKlC7ssI9jqG) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [The Sound of Indian Tabla](https://open.spotify.com/album/35NMssJRLtZZ89CA2PQwrU) | 3:42 |
 | 35 | [Tabla](https://open.spotify.com/track/3HDTDX3j2qpzGYvy3ELtPh) | [Alla Rakha](https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj) | [Ustad Alla Rakha \- The Multifaceted Genius](https://open.spotify.com/album/0RNf0UPZvB8MZKFfDmBkXk) | 10:40 |
-| 36 | [Wander](https://open.spotify.com/track/7j53xRQzT5VXy5hz8WnQLT) | [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Wander](https://open.spotify.com/album/0NtsRlMtC5jJiPwi8QxlJG) | 3:00 |
+| 36 | [Taj Mahal](https://open.spotify.com/track/2Dr9bQ4FNwT8lEAMo7bzy1) | [Shaman Beats](https://open.spotify.com/artist/5Jklaf7H3C20te5LVe4H2w) | [Taj Mahal](https://open.spotify.com/album/5uVrPJrEOJYtIGtz5tl8no) | 2:35 |
 | 37 | [Tabla Solo, Pt\. 1](https://open.spotify.com/track/26ZkZdnCJCtUGYftsx1HPl) | [K\. Shruthi Raj](https://open.spotify.com/artist/6zr6WfjrK1ZVWryFpJ3Yog), [A\. Kiran Kumar](https://open.spotify.com/artist/2Shi7KJal6btqCgTCVC3F1), [Saravanan](https://open.spotify.com/artist/4XdHGSJ3fJ8CKvE1fwWjq1) | [Authentic India: Indian Percussion](https://open.spotify.com/album/69wCZZ0ECtKoTJkHxdsGRO) | 2:33 |
-| 38 | [Taj Mahal](https://open.spotify.com/track/2Dr9bQ4FNwT8lEAMo7bzy1) | [Shaman Beats](https://open.spotify.com/artist/5Jklaf7H3C20te5LVe4H2w) | [Taj Mahal](https://open.spotify.com/album/5uVrPJrEOJYtIGtz5tl8no) | 2:35 |
+| 38 | [Wander](https://open.spotify.com/track/7j53xRQzT5VXy5hz8WnQLT) | [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Wander](https://open.spotify.com/album/0NtsRlMtC5jJiPwi8QxlJG) | 3:00 |
 | 39 | [Uttam Tabla \- Original Mix](https://open.spotify.com/track/5ifvTEhKkH1Bksq2uHeCSD) | [Spiritual Sound Clubb](https://open.spotify.com/artist/6ujBnE0dEYfHXprlVK6JFg) | [Pacifying Morning \- Blissful Yoga Magic Rhythms](https://open.spotify.com/album/0fO9RULLW0MSeWuybERMlt) | 2:20 |
 | 40 | [Ananta \(Tabla & Sitar\)](https://open.spotify.com/track/6uHNqMTzet8TN8WcQDZyjq) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4), [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P) | [Top 25 Fusion Ringtunes](https://open.spotify.com/album/1FNe4CLnDIwT9GBfxAIwJ1) | 1:56 |
 | 41 | [Ecstasy](https://open.spotify.com/track/3cpUVxVvbZ42OhVC7MF07h) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Get Recharged!!!](https://open.spotify.com/album/7uAdx4T1tcIpMMSDFSiwdL) | 6:48 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lYf2U.md) - [plain]
 
 ### [This Is Central Cee](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3lYf2U)
 
-> This is Central Cee\. The essential tracks, all in one playlist.
+> This is Central Cee\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,168 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,474 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lYf2U.md) - [plain]
 | 40 | [Cold Shoulder](https://open.spotify.com/track/3SHGPpmeK4qbxVLVGldMzl) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 3:12 |
 | 41 | [Bumpy Johnson](https://open.spotify.com/track/1kxu6GYmdIdEATyPLBDAc0) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [No More Leaks](https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0) | 2:41 |
 | 42 | [Startn Up \(feat\. Central Cee\)](https://open.spotify.com/track/0ZwSo1xlLnMvhi1y9Sy4LE) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [GEEZYWORLD](https://open.spotify.com/album/0kNhJM4dXKfsKbCERz7QBg) | 2:48 |
-| 43 | [Desacreditado](https://open.spotify.com/track/6ItXsG2C0os04441YfuHqq) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Edubeatz](https://open.spotify.com/artist/1uAxRk8YHpAKbwCG2xNlf8), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [IRRASTREÁVEL](https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG) | 2:30 |
-| 44 | [Meant To Be \(feat\. Fredo & Central Cee\)](https://open.spotify.com/track/1pfZ8IYPDEjvdrllsYBgEC) | [Stay Flee Get Lizzy](https://open.spotify.com/artist/2oZq6t5DkE2BdGbD6x8RXh), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Meant To Be](https://open.spotify.com/album/4fZ5N0VHK0zb4JIuvft1cO) | 3:09 |
+| 43 | [Meant To Be \(feat\. Fredo & Central Cee\)](https://open.spotify.com/track/1pfZ8IYPDEjvdrllsYBgEC) | [Stay Flee Get Lizzy](https://open.spotify.com/artist/2oZq6t5DkE2BdGbD6x8RXh), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Meant To Be](https://open.spotify.com/album/4fZ5N0VHK0zb4JIuvft1cO) | 3:09 |
+| 44 | [Desacreditado](https://open.spotify.com/track/6ItXsG2C0os04441YfuHqq) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Edubeatz](https://open.spotify.com/artist/1uAxRk8YHpAKbwCG2xNlf8), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [IRRASTREÁVEL](https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG) | 2:30 |
 | 45 | [Crypto Price](https://open.spotify.com/track/0GlNBy7uuYyc8zvr4grPVS) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [No More Leaks](https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0) | 2:58 |
 | 46 | [Mad About Bars \- S5\-E12](https://open.spotify.com/track/4gezIN7jFvU7yVDbP8TaoL) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9), [Kenny Allstar](https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV) | [Mad About Bars \- S5\-E12](https://open.spotify.com/album/3zOl5pbn5UKx46JX51u1UM) | 5:12 |
 | 47 | [MOVIE \(feat\. Central Cee\)](https://open.spotify.com/track/57fle7Lnf7lOXNf76r2x6C) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [MOVIE \(feat\. Central Cee\)](https://open.spotify.com/album/0fV9Q0CVKecmGnN6hA2OTC) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lYf2U.md) - [plain]
 | 49 | [Don’t Like Drill \(feat\. Central Cee\)](https://open.spotify.com/track/6LIwF5yxLwnNfVohAwSWdC) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Respect The Come Up](https://open.spotify.com/album/1MLRMDDQlOdUPBUcpc7XmB) | 3:50 |
 | 50 | [Measure of a Man \(feat\. Central Cee\)](https://open.spotify.com/track/3gjKJ0RjjEddIJW0NDDZ1r) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Measure of a Man \(feat\. Central Cee\)](https://open.spotify.com/album/7ycr1XsV8SLkUBlvGIAhoG) | 3:15 |
 
-Snapshot ID: `ZqQ4gAAAAAAQ/gpClJWIFiA6KnTJm6iL`
+Snapshot ID: `ZqWKAAAAAAC/lR/7w+8lIVEUEsN/txnc`

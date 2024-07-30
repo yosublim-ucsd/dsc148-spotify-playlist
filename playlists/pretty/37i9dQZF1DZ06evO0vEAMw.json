@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 79761,
+  "num_followers": 79806,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAAA/1QeDmoaOTPU/fqyGsW+4",
+  "snapshot_id": "ZqWKAAAAAABaKFRGZBjCo+Mp73uQDNSY",
   "tracks": [
     {
       "added_at": null,
@@ -243,26 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "wap",
-        "url": "https://open.spotify.com/album/5Jbh653OLOZOtFazI7Hk7A"
-      },
-      "artists": [
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "wap",
-      "url": "https://open.spotify.com/track/0clDhQSahgP1U8vZUfblWS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pheelz Good",
         "url": "https://open.spotify.com/album/5JDvgDchniRt7s72WlHOH6"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 132912,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/5ZGXOgSHLkDYlDssUkVp7a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wap",
+        "url": "https://open.spotify.com/album/5Jbh653OLOZOtFazI7Hk7A"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "wap",
+      "url": "https://open.spotify.com/track/0clDhQSahgP1U8vZUfblWS"
     },
     {
       "added_at": null,
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drift (Remix)",
-        "url": "https://open.spotify.com/album/5fJIM0swYvPJq8Pru6Aa7i"
-      },
-      "artists": [
-        {
-          "name": "Teejay",
-          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 201583,
-      "name": "Drift (Remix)",
-      "url": "https://open.spotify.com/track/1CNquhNCNiX6le62xuq23D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hayya Hayya (Better Together) [Music from FIFA World Cup Qatar 2022 Soundtrack]",
         "url": "https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 206069,
       "name": "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack",
       "url": "https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drift (Remix)",
+        "url": "https://open.spotify.com/album/5fJIM0swYvPJq8Pru6Aa7i"
+      },
+      "artists": [
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 201583,
+      "name": "Drift (Remix)",
+      "url": "https://open.spotify.com/track/1CNquhNCNiX6le62xuq23D"
     },
     {
       "added_at": null,
@@ -571,6 +571,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "FIA",
+        "url": "https://open.spotify.com/album/7kknjkTumdJA57Ogy0Fq7Z"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 214205,
+      "name": "FIA",
+      "url": "https://open.spotify.com/track/6sfdU1tGLpXhjjLjGJa0zA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 171724,
+      "name": "The Best (feat. Mayorkun)",
+      "url": "https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vroom - The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo| PS5, PS4 (from GRAN TURISMO 7)",
         "url": "https://open.spotify.com/album/0MuIe5cdJen7HHgfcYHeay"
       },
@@ -603,42 +639,6 @@
       "duration_ms": 237983,
       "name": "Vroom - The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo| PS5, PS4 - from GRAN TURISMO 7",
       "url": "https://open.spotify.com/track/6ApEaAL5iuN3cOwSoAbY1d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 171724,
-      "name": "The Best (feat. Mayorkun)",
-      "url": "https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FIA",
-        "url": "https://open.spotify.com/album/7kknjkTumdJA57Ogy0Fq7Z"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 214205,
-      "name": "FIA",
-      "url": "https://open.spotify.com/track/6sfdU1tGLpXhjjLjGJa0zA"
     },
     {
       "added_at": null,
@@ -967,26 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strawberry on Ice",
-        "url": "https://open.spotify.com/album/2FQh7JRu5rKCuAdvnLFWXq"
-      },
-      "artists": [
-        {
-          "name": "Emmerson",
-          "url": "https://open.spotify.com/artist/43LIP6Udk1ecczsHMGhCvU"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 126909,
-      "name": "Strawberry on Ice",
-      "url": "https://open.spotify.com/track/6iWbXOJNvndQrTmnfFDEmj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Indigo (Extended)",
         "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 183813,
       "name": "Lower Body (feat. Davido)",
       "url": "https://open.spotify.com/track/2jARcMhrTB54EH2VxNvWpW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strawberry on Ice",
+        "url": "https://open.spotify.com/album/2FQh7JRu5rKCuAdvnLFWXq"
+      },
+      "artists": [
+        {
+          "name": "Emmerson",
+          "url": "https://open.spotify.com/artist/43LIP6Udk1ecczsHMGhCvU"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 126909,
+      "name": "Strawberry on Ice",
+      "url": "https://open.spotify.com/track/6iWbXOJNvndQrTmnfFDEmj"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04. (Listen to K-Pop rainy day songs.)",
-  "num_followers": 14174,
+  "num_followers": 14204,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-07-23 02:13:14",
       "album": {
-        "name": "tokki",
-        "url": "https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0"
-      },
-      "artists": [
-        {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "tokki",
-      "url": "https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN"
-    },
-    {
-      "added_at": "2024-07-23 02:13:14",
-      "album": {
         "name": "Without Anyone Knowing",
         "url": "https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A"
       },
@@ -859,18 +843,34 @@
     {
       "added_at": "2024-07-23 02:13:14",
       "album": {
-        "name": "The Acoustic Forest",
-        "url": "https://open.spotify.com/album/3Wb9RXJv0dWuWPsGnoHBdK"
+        "name": "tokki",
+        "url": "https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0"
       },
       "artists": [
         {
-          "name": "Yoon Do Hyun",
-          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
         }
       ],
-      "duration_ms": 266999,
-      "name": "The Sound Of Rain - Acoustic",
-      "url": "https://open.spotify.com/track/0gVl8IrGZIUL1cptCIzUj2"
+      "duration_ms": 210857,
+      "name": "tokki",
+      "url": "https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN"
+    },
+    {
+      "added_at": "2024-07-23 02:13:14",
+      "album": {
+        "name": "You Are My Spring OST Part 3",
+        "url": "https://open.spotify.com/album/3XRvOMIh5LEfdSu1q69U96"
+      },
+      "artists": [
+        {
+          "name": "Ha Hyun Sang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+        }
+      ],
+      "duration_ms": 161738,
+      "name": "Still Wonder",
+      "url": "https://open.spotify.com/track/1hD35Fj6NBNm2CEOn3QLCE"
     }
   ],
   "unique_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",

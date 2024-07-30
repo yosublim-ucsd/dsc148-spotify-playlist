@@ -1252,7 +1252,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 230518,
       "name": "Even the Darkness Has Arms",
       "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
@@ -3996,6 +3996,24 @@
       "duration_ms": 213666,
       "name": "Rose Petals",
       "url": "https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk"
+    },
+    {
+      "album": {
+        "name": "Feel It Again Acoustic EP",
+        "url": "https://open.spotify.com/album/4DEiWbO9nwgtz9lZnao3wW"
+      },
+      "artists": [
+        {
+          "name": "Hudson Taylor",
+          "url": "https://open.spotify.com/artist/4DX2G1URzfEiRg2wBfv4ub"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181765,
+      "name": "Run with Me - Acoustic",
+      "url": "https://open.spotify.com/track/5HWHvdTxDbqunMzbmCLURA"
     },
     {
       "album": {

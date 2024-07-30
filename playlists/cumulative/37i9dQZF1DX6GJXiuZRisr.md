@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-519 songs - 1 day 12 hr 30 min
+520 songs - 1 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Forget It](https://open.spotify.com/track/76XAEIVTSmXwrq41rt2n5G) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/7eHMIQZVEnyoGAacgmuTTf) | 2:53 | 2021-05-07 | 2023-02-26 |
 | [Forget It](https://open.spotify.com/track/7nbuGxQ7TfJXb9OgH3xJEr) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/2DJVlpI8RAelMusdKi3ieH) | 2:53 | 2022-07-01 | 2023-07-15 |
 | [Free Your Mind](https://open.spotify.com/track/6tZOXgmWxoQsaJ5Pwbo9pt) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Free Your Mind](https://open.spotify.com/album/4HVHjZ3jLUxMZ1uTypUL3r) | 5:38 | 2023-06-02 | 2024-01-22 |
+| [Freefall](https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Freefall](https://open.spotify.com/album/0tcGYRO1ZwobReqGzMR883) | 3:39 | 2024-07-26 |  |
 | [Freyja](https://open.spotify.com/track/50OqVeHgPhiVsoHaqWhBPd) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Freyja](https://open.spotify.com/album/2ahVbWkHUwk5vn2yDQAtKM) | 3:49 | 2024-01-26 | 2024-07-27 |
 | [Friend Of Mine](https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Friend Of Mine](https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS) | 3:33 | 2024-01-19 |  |
 | [Further Away](https://open.spotify.com/track/5w6NzsoExb9pPhoEN9aWRc) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Further Away](https://open.spotify.com/album/5Cj5Y28x79njyaIIus6zNB) | 3:14 | 2023-08-04 | 2024-05-26 |
@@ -346,7 +347,7 @@
 | [Quezacotl](https://open.spotify.com/track/24jPquymYcAxmOUXwjJwLk) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Quezacotl](https://open.spotify.com/album/1wU8NaPgbgLvsK8tUA2t2z) | 7:15 | 2024-07-05 |  |
 | [Radiant](https://open.spotify.com/track/1iyxxUxyptXWtEdRXRBeda) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C) | [Radiant](https://open.spotify.com/album/3t5CejWFtZFsh5P6TfnM41) | 3:05 | 2021-11-05 | 2022-07-23 |
 | [Radiation](https://open.spotify.com/track/5NhqdTRCcqww2HaRv9nXiF) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Metaphysical](https://open.spotify.com/album/7D5ZdfERUaNqQQmjAHW6CM) | 3:30 | 2022-10-28 | 2023-07-06 |
-| [Rapture](https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [Rapture \(with Robert Falcon\)](https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB) | 3:07 | 2023-12-08 |  |
+| [Rapture](https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [Rapture \(with Robert Falcon\)](https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB) | 3:07 | 2023-12-08 | 2024-07-30 |
 | [Rave](https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Rave](https://open.spotify.com/album/3mmQk6NOkaA1dd17JI1BRG) | 4:48 | 2023-07-28 | 2024-07-20 |
 | [Ray](https://open.spotify.com/track/3425OMM9bb64VMNXXldLvU) | [Avoure](https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E) | [This Time / Ray](https://open.spotify.com/album/44uAC9UVMSekbXyBJV8nMO) | 6:54 | 2022-07-01 | 2023-02-18 |
 | [Ray](https://open.spotify.com/track/3rDUDqgWlSYBrI86la2C8f) | [Avoure](https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E) | [This Time / Ray](https://open.spotify.com/album/0Vr1hA0OG4hvKjd9ssWCgL) | 6:54 | 2021-05-07 | 2022-07-26 |

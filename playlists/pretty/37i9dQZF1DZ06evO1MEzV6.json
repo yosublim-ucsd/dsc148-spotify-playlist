@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 86327,
+  "num_followers": 86404,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAABHWqKpRG8PJ5eC0SMNz5VQ",
+  "snapshot_id": "ZqWKAAAAAAA2+j7HfkYq7gEtuMFRWUJV",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/5xJOewC53fRL37VrHco2de"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 136362,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loveworm",
         "url": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 178918,
       "name": "Apple Cider",
       "url": "https://open.spotify.com/track/5xA5MggKc3aQxuOzNzPUWB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/5xJOewC53fRL37VrHco2de"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 136362,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa"
     },
     {
       "added_at": null,

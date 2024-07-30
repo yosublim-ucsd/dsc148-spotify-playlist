@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-104 songs - 6 hr 33 min
+105 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Imagine Paradise](https://open.spotify.com/track/0TXoLkIqtEqb9mPv3ReBEX) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc) | [Imagine Paradise](https://open.spotify.com/album/58vBq0ClQQ9mvouhUoBw2b) | 3:57 | 2024-06-28 |  |
 | [Inge mer fun](https://open.spotify.com/track/5CRJ1cVXCnByoFW8bQ1j5j) | [Karakou](https://open.spotify.com/artist/4eLoWgIQ8bNC5mXpFgewSq) | [Inge mer fun](https://open.spotify.com/album/75J4SpsZaxeNt8xMCUoB4m) | 4:01 | 2024-06-28 |  |
 | [Inget halleluja](https://open.spotify.com/track/4k5DrIPXSfB1nDxjQcAkyV) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Inget halleluja](https://open.spotify.com/album/4wJROHXVthUZyZofON9tj8) | 3:56 | 2024-06-28 |  |
+| [Innerst Inne](https://open.spotify.com/track/3NiibjPSAaQgCaEw62HTgl) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW), [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [Innerst Inne](https://open.spotify.com/album/4mHCK5SAkgmrcUY6RTYQbU) | 2:35 | 2024-07-29 |  |
 | [Jackrabbit](https://open.spotify.com/track/4YJwViRMJjbnCmBCtBAaZM) | [Hanna Järver](https://open.spotify.com/artist/6JHabNWuD8rd3TQQtMf6Q5) | [Jackrabbit](https://open.spotify.com/album/6hyRcNW7sC85JHhDE0krBe) | 2:39 | 2024-06-28 |  |
 | [Jag drömmer mig fri](https://open.spotify.com/track/1eH7fE5AZvPC8CxQrUAim3) | [Gustaf Rasch](https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh) | [Jag drömmer mig fri](https://open.spotify.com/album/3BDnwsKU1qJWNTSuCrzjqe) | 3:11 | 2024-06-28 |  |
 | [jag mår inte bra </3](https://open.spotify.com/track/78IgWqUnswiKKwxnr4jbWI) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [jag mår inte bra </3](https://open.spotify.com/album/1vdEbu1fVuZwJdnRMTr9KM) | 2:35 | 2024-06-28 |  |

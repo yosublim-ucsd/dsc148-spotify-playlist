@@ -1806,7 +1806,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 230173,
       "name": "Misty Glade",
       "url": "https://open.spotify.com/track/3TCqP8YgwG2VCdhHF3bMzO"
@@ -2688,7 +2688,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 169482,
       "name": "Soothing Ripples",
       "url": "https://open.spotify.com/track/7GBZtRWRBnA0zhnuNrvoct"
@@ -3019,6 +3019,24 @@
     },
     {
       "album": {
+        "name": "Tree Spirits",
+        "url": "https://open.spotify.com/album/0iceXQlw0yp36EITpApP5z"
+      },
+      "artists": [
+        {
+          "name": "Waves Of Aware",
+          "url": "https://open.spotify.com/artist/2q4nJLQKqcI65BMW9CuORq"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144064,
+      "name": "Tree Spirits",
+      "url": "https://open.spotify.com/track/4r1O9hHMjiStkmn9iXnYDE"
+    },
+    {
+      "album": {
         "name": "Tremulous Rest",
         "url": "https://open.spotify.com/album/1dxcdpHa4Mv0sabHi33BvV"
       },
@@ -3200,6 +3218,24 @@
       "duration_ms": 161142,
       "name": "Visie",
       "url": "https://open.spotify.com/track/57mmBXolEEyg7pQZfmLB3Y"
+    },
+    {
+      "album": {
+        "name": "Walking The Path",
+        "url": "https://open.spotify.com/album/0ArZ7AkBPUeJYrglsiUlCX"
+      },
+      "artists": [
+        {
+          "name": "Sacred Orb",
+          "url": "https://open.spotify.com/artist/3wo048mZLUY53Pp4KNXIQH"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189132,
+      "name": "Walking The Path",
+      "url": "https://open.spotify.com/track/2h0VLSP2AR1QKe3I3rJJvN"
     },
     {
       "album": {

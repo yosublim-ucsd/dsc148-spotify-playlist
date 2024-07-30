@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Abraham Mateo, Naiara.",
-  "num_followers": 965107,
+  "num_followers": 965099,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-07-26 08:17:29",
       "album": {
+        "name": "La Vida Entera",
+        "url": "https://open.spotify.com/album/0w3NZl1UA3Kr8DzTfa1E2R"
+      },
+      "artists": [
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "duration_ms": 177423,
+      "name": "La Vida Entera",
+      "url": "https://open.spotify.com/track/1zgb3QCX8jo4IGRg56tjvj"
+    },
+    {
+      "added_at": "2024-07-26 08:17:29",
+      "album": {
         "name": "Insomnio",
         "url": "https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 185546,
       "name": "Bailarina",
       "url": "https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh"
-    },
-    {
-      "added_at": "2024-07-26 08:17:29",
-      "album": {
-        "name": "La Vida Entera",
-        "url": "https://open.spotify.com/album/0w3NZl1UA3Kr8DzTfa1E2R"
-      },
-      "artists": [
-        {
-          "name": "Marta Santos",
-          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
-        }
-      ],
-      "duration_ms": 177423,
-      "name": "La Vida Entera",
-      "url": "https://open.spotify.com/track/1zgb3QCX8jo4IGRg56tjvj"
     },
     {
       "added_at": "2024-07-26 08:17:29",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-07-26 08:17:29",
       "album": {
+        "name": "Alondra",
+        "url": "https://open.spotify.com/album/6LAvAHjjNu4d5odB0Dd5eb"
+      },
+      "artists": [
+        {
+          "name": "Paul Thin",
+          "url": "https://open.spotify.com/artist/0aA3vWOE6EWwJH8hDImZdv"
+        }
+      ],
+      "duration_ms": 186149,
+      "name": "Alondra",
+      "url": "https://open.spotify.com/track/5sNfMWrRCDDR1rhGPxWAYP"
+    },
+    {
+      "added_at": "2024-07-26 08:17:29",
+      "album": {
         "name": "Falsos Recuerdos",
         "url": "https://open.spotify.com/album/35djQkpLKC1ijpfi6i3AJw"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 191414,
       "name": "Falsos Recuerdos",
       "url": "https://open.spotify.com/track/4snJ71Uz5KvX1CW0SaUiZY"
-    },
-    {
-      "added_at": "2024-07-26 08:17:29",
-      "album": {
-        "name": "Alondra",
-        "url": "https://open.spotify.com/album/6LAvAHjjNu4d5odB0Dd5eb"
-      },
-      "artists": [
-        {
-          "name": "Paul Thin",
-          "url": "https://open.spotify.com/artist/0aA3vWOE6EWwJH8hDImZdv"
-        }
-      ],
-      "duration_ms": 186149,
-      "name": "Alondra",
-      "url": "https://open.spotify.com/track/5sNfMWrRCDDR1rhGPxWAYP"
     },
     {
       "added_at": "2024-07-26 08:17:29",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-07-26 08:17:29",
       "album": {
+        "name": "EL FORASTERO",
+        "url": "https://open.spotify.com/album/3L8AXncbQzk35NwewM00X7"
+      },
+      "artists": [
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        }
+      ],
+      "duration_ms": 163578,
+      "name": "EL FORASTERO",
+      "url": "https://open.spotify.com/track/1W4IXAf9YN7FOsdycfu7j8"
+    },
+    {
+      "added_at": "2024-07-26 08:17:29",
+      "album": {
         "name": "Sin Filtro",
         "url": "https://open.spotify.com/album/5FFN7Ju1YOxdSBcbO7Iqs5"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 177000,
       "name": "Sin Filtro",
       "url": "https://open.spotify.com/track/4Z5PBylYcd22Wp1YAhR7gT"
-    },
-    {
-      "added_at": "2024-07-26 08:17:29",
-      "album": {
-        "name": "EL FORASTERO",
-        "url": "https://open.spotify.com/album/3L8AXncbQzk35NwewM00X7"
-      },
-      "artists": [
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        }
-      ],
-      "duration_ms": 163578,
-      "name": "EL FORASTERO",
-      "url": "https://open.spotify.com/track/1W4IXAf9YN7FOsdycfu7j8"
     },
     {
       "added_at": "2024-07-26 08:17:29",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2024-07-26 08:17:29",
       "album": {
+        "name": "Lo Dejo Todo",
+        "url": "https://open.spotify.com/album/2PKNKFGJWr9Dups2cYlwnX"
+      },
+      "artists": [
+        {
+          "name": "Mar Lucas",
+          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+        },
+        {
+          "name": "Antonio Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
+        }
+      ],
+      "duration_ms": 159163,
+      "name": "Lo Dejo Todo",
+      "url": "https://open.spotify.com/track/5b6VY0fZS7671s4vPZ8Ob4"
+    },
+    {
+      "added_at": "2024-07-26 08:17:29",
+      "album": {
         "name": "fotomat\u00f3n",
         "url": "https://open.spotify.com/album/0gfREg7H8EjjVIhkfuYDlI"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 187046,
       "name": "Nuestra Canci\u00f3n",
       "url": "https://open.spotify.com/track/2MJlcHWfkA651gpiCRJ2TE"
-    },
-    {
-      "added_at": "2024-07-26 08:17:29",
-      "album": {
-        "name": "Lo Dejo Todo",
-        "url": "https://open.spotify.com/album/2PKNKFGJWr9Dups2cYlwnX"
-      },
-      "artists": [
-        {
-          "name": "Mar Lucas",
-          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
-        },
-        {
-          "name": "Antonio Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
-        }
-      ],
-      "duration_ms": 159163,
-      "name": "Lo Dejo Todo",
-      "url": "https://open.spotify.com/track/5b6VY0fZS7671s4vPZ8Ob4"
     },
     {
       "added_at": "2024-07-26 08:17:29",

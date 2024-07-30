@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cZxYLqLUJl.md) - [plain]
 
 > Wake up at your own pace with gentle piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,493 likes - 110 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,505 likes - 110 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,17 +14,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cZxYLqLUJl.md) - [plain]
 | 4 | [Alt jeg tør](https://open.spotify.com/track/6oCUME6tmQJi4LPHogLpUV) | [Elise Lindahl](https://open.spotify.com/artist/7dS19zpb3TVFJCjiedH4oM) | [Alt jeg tør](https://open.spotify.com/album/1EkBSKkkcNQryBtQk0CPna) | 2:22 |
 | 5 | [De seu](https://open.spotify.com/track/5Bl7fjZwq3u37T51tspPAp) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [De Seu](https://open.spotify.com/album/0a84zl4kQdodn1VhkTl3jl) | 2:35 |
 | 6 | [Humbly](https://open.spotify.com/track/6MeOCVIU94xMVgr1kTMKRT) | [Gail Singleton](https://open.spotify.com/artist/1VA9HBofA9Pc9Q3DSR4gQw) | [Humbly](https://open.spotify.com/album/7r8ESgCgTKTuJRjAUo7F1I) | 2:12 |
-| 7 | [Water Lilies](https://open.spotify.com/track/2aYkMhQCtzhfTtUfydibE3) | [Noah Hart](https://open.spotify.com/artist/774mkzUMjSY8lZyRwVJqen) | [Water Lilies](https://open.spotify.com/album/6PcpSQ8kNsSGVyXH0ZY9JJ) | 3:20 |
-| 8 | [Homeland](https://open.spotify.com/track/5CMV79VrT9PxQRwdQr2EW0) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Homeland](https://open.spotify.com/album/67XXxVyBzRfwLuuFAUwmos) | 2:22 |
+| 7 | [Homeland](https://open.spotify.com/track/5CMV79VrT9PxQRwdQr2EW0) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Homeland](https://open.spotify.com/album/67XXxVyBzRfwLuuFAUwmos) | 2:22 |
+| 8 | [Water Lilies](https://open.spotify.com/track/2aYkMhQCtzhfTtUfydibE3) | [Noah Hart](https://open.spotify.com/artist/774mkzUMjSY8lZyRwVJqen) | [Water Lilies](https://open.spotify.com/album/6PcpSQ8kNsSGVyXH0ZY9JJ) | 3:20 |
 | 9 | [Foreigners](https://open.spotify.com/track/3pPVu5GqeYai4ZFNP0j9Wr) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Foreigners](https://open.spotify.com/album/3eVdNFfpQKGj1btqfQGoa4) | 2:59 |
-| 10 | [Morgenstern](https://open.spotify.com/track/1djt5vu3t1tQsaLyuS3DgA) | [Alma Klein](https://open.spotify.com/artist/13BmXB0asE1bzPqYfWSTin) | [Morgenstern](https://open.spotify.com/album/5YMCE4ptMtQgujet4mkiZb) | 3:09 |
-| 11 | [Wings](https://open.spotify.com/track/1TMwDvcIQpZKiio3glvpq7) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Wings](https://open.spotify.com/album/1hTQa53r74R97QMZZ8t8b9) | 2:33 |
-| 12 | [Dusk](https://open.spotify.com/track/7uJUjaDOHi6KH5QUExlhmM) | [Rocco](https://open.spotify.com/artist/70qMxbmTMbxS4MCjkkZvTH) | [Dusk](https://open.spotify.com/album/3G90cn8e9mGthYVvxgvzft) | 2:12 |
-| 13 | [Chambers](https://open.spotify.com/track/4wHsmSi7FBZ2aZhQ3ook7M) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Chambers](https://open.spotify.com/album/61DhX4MuBUYTYnlrdBhyiN) | 2:25 |
-| 14 | [My Only One](https://open.spotify.com/track/29Ys0ZMO3R4HfewkxjGvHR) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [My Only One](https://open.spotify.com/album/7p77pk33lJOZQeSD2Ot7CV) | 2:22 |
-| 15 | [Pour toujours](https://open.spotify.com/track/6vkmvL8i9sfIHoAlzJcfAO) | [Bernadette Boulet](https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw) | [Pour toujours](https://open.spotify.com/album/7LKE5eTxL5yz4ScnNJ1OhZ) | 2:24 |
-| 16 | [Forelsket](https://open.spotify.com/track/4Oo0RKYm64PZSIbpFmcuK9) | [Idun Vinter](https://open.spotify.com/artist/1xxEOepOhE9VubYZpZX10m) | [Forelsket](https://open.spotify.com/album/6HKYX4ZmdHL8DMhsWp497N) | 2:50 |
-| 17 | [to be better again](https://open.spotify.com/track/7A5KsH4tO6rdv4RN3qNzUu) | [Lonesome Mind](https://open.spotify.com/artist/4eixU2X2ZzzxUNiCv4OZA5) | [to be better again](https://open.spotify.com/album/7uHoxKaEL3Gq28RYRCpIZs) | 2:30 |
+| 10 | [Dusk](https://open.spotify.com/track/7uJUjaDOHi6KH5QUExlhmM) | [Rocco](https://open.spotify.com/artist/70qMxbmTMbxS4MCjkkZvTH) | [Dusk](https://open.spotify.com/album/3G90cn8e9mGthYVvxgvzft) | 2:12 |
+| 11 | [Morgenstern](https://open.spotify.com/track/1djt5vu3t1tQsaLyuS3DgA) | [Alma Klein](https://open.spotify.com/artist/13BmXB0asE1bzPqYfWSTin) | [Morgenstern](https://open.spotify.com/album/5YMCE4ptMtQgujet4mkiZb) | 3:09 |
+| 12 | [to be better again](https://open.spotify.com/track/7A5KsH4tO6rdv4RN3qNzUu) | [Lonesome Mind](https://open.spotify.com/artist/4eixU2X2ZzzxUNiCv4OZA5) | [to be better again](https://open.spotify.com/album/7uHoxKaEL3Gq28RYRCpIZs) | 2:30 |
+| 13 | [Wings](https://open.spotify.com/track/1TMwDvcIQpZKiio3glvpq7) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Wings](https://open.spotify.com/album/1hTQa53r74R97QMZZ8t8b9) | 2:33 |
+| 14 | [Chambers](https://open.spotify.com/track/4wHsmSi7FBZ2aZhQ3ook7M) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Chambers](https://open.spotify.com/album/61DhX4MuBUYTYnlrdBhyiN) | 2:25 |
+| 15 | [My Only One](https://open.spotify.com/track/29Ys0ZMO3R4HfewkxjGvHR) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [My Only One](https://open.spotify.com/album/7p77pk33lJOZQeSD2Ot7CV) | 2:22 |
+| 16 | [Pour toujours](https://open.spotify.com/track/6vkmvL8i9sfIHoAlzJcfAO) | [Bernadette Boulet](https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw) | [Pour toujours](https://open.spotify.com/album/7LKE5eTxL5yz4ScnNJ1OhZ) | 2:24 |
+| 17 | [Forelsket](https://open.spotify.com/track/4Oo0RKYm64PZSIbpFmcuK9) | [Idun Vinter](https://open.spotify.com/artist/1xxEOepOhE9VubYZpZX10m) | [Forelsket](https://open.spotify.com/album/6HKYX4ZmdHL8DMhsWp497N) | 2:50 |
 | 18 | [Akeleie](https://open.spotify.com/track/0UmaYgHfAEEMwxYGHSDMmu) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Akeleie](https://open.spotify.com/album/4wuBcYPsziuMtuafKDpDlP) | 3:53 |
 | 19 | [19\-02\-21](https://open.spotify.com/track/0t4M1iM4ZQmoGOq9JJFy8s) | [Xie Qi](https://open.spotify.com/artist/6HFojJ4dKdfE6sHHB1XZpb), [Mayumi Sasaki](https://open.spotify.com/artist/3A4RidZHkdgr2FEKZnjnmd) | [19\-02\-21](https://open.spotify.com/album/2W50YH9yqzFYAO4aynCp0R) | 2:16 |
 | 20 | [Shoreland](https://open.spotify.com/track/13jcWPcMR0plz1TlIaqqSR) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Clandestine](https://open.spotify.com/album/5svnulUJ4RuhBt6mD8UEoF) | 2:50 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cZxYLqLUJl.md) - [plain]
 | 109 | [Morgentau](https://open.spotify.com/track/405hXsV5rmcZarrpP71qA8) | [Volker Wagner](https://open.spotify.com/artist/4fpf1I40UxYf5cOaMO9Agr) | [united](https://open.spotify.com/album/0xEHLj5DHQfAY9lNsuqOd5) | 3:02 |
 | 110 | [Mid Air](https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Mid Air](https://open.spotify.com/album/3WDpzRaFtaWQlWxFQn8jxK) | 2:27 |
 
-Snapshot ID: `Zp+RuAAAAAAdt24YSiebroJUxX6XwwUc`
+Snapshot ID: `ZqeahgAAAAAvMTtrz1+eveDjFxXM8jfF`

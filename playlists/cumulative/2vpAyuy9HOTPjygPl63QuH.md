@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-1,926 songs - 4 day 13 hr 1 min
+1,927 songs - 4 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1681,6 +1681,7 @@
 | [The Volume \- Will Clarke Remix](https://open.spotify.com/track/6baLbtSU7YSbYBF1LkH3hf) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Alan T](https://open.spotify.com/artist/4ljjZIEv8N2ggxgoOzTOkb), [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Mood Elevation Vol\. 1](https://open.spotify.com/album/4HEougE05gNRn60rJsmArX) | 3:12 | 2022-07-09 | 2022-07-16 |
 | [The Way](https://open.spotify.com/track/2Zj2cVmD1XgTqWijyHreVj) | [Empher](https://open.spotify.com/artist/1JFNXZzuUFbJchlBRM2yL0) | [The Way](https://open.spotify.com/album/2s0cu5Ix8K26yIFwvrp0Xi) | 2:53 | 2023-03-24 | 2023-04-01 |
 | [The Way I Feel](https://open.spotify.com/track/5l8Ilpn3w5tszqeJxxn6bF) | [Burman Boys](https://open.spotify.com/artist/14t9v3nuI2zfTAza5uQ6b9), [Haylee Wood](https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR) | [The Way I Feel](https://open.spotify.com/album/3Hp0oydoYQWMIMEw0PqBHB) | 3:20 | 2023-03-10 | 2023-03-18 |
+| [The Way You Act](https://open.spotify.com/track/28Dj2arHz2IM8PMSI5NCjz) | [Labeeb](https://open.spotify.com/artist/5Wm9RIPoJKWlJNEE9iZDe0) | [The Way You Act](https://open.spotify.com/album/7aV6ojZOYkd9FGvSXayF8c) | 3:38 | 2024-07-29 |  |
 | [The Weekend](https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [The Weekend / Control the Media](https://open.spotify.com/album/3Xc6RzQVgNWt6LrQr4nwdI) | 2:58 | 2024-04-05 | 2024-05-02 |
 | [Therefore I Am](https://open.spotify.com/track/2u7KPjZIclhlwe0T6rPZKw) | [Next Generation Noise](https://open.spotify.com/artist/4CHs6mqbDLCxnsJ78M6nSk) | [Therefore I Am](https://open.spotify.com/album/62uT8Y0XANDxBaHA1pBXSp) | 3:34 | 2022-08-05 | 2022-09-03 |
 | [These Notes In This Order \- VNSSA Remix](https://open.spotify.com/track/0jjeAVSKajgQgMIAIQFLQ1) | [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [These Notes In This Order \(VNSSA Remix\)](https://open.spotify.com/album/58T8bp9mchPY7f2wSFQkmn) | 6:02 | 2022-09-09 | 2022-09-18 |

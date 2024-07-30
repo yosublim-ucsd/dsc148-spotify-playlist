@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Daniela Spalla en portada.",
-  "num_followers": 85669,
+  "num_followers": 85676,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,26 @@
     {
       "added_at": "2024-07-26 15:08:26",
       "album": {
+        "name": "Amapolas (Remix)",
+        "url": "https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 267338,
+      "name": "Amapolas - Remix",
+      "url": "https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc"
+    },
+    {
+      "added_at": "2024-07-26 15:08:26",
+      "album": {
         "name": "Rosita Fresita",
         "url": "https://open.spotify.com/album/0G40KBVT8jMVFKIfVfe6Hn"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 125000,
       "name": "Rosita Fresita",
       "url": "https://open.spotify.com/track/2XUhIYueWwSJvgPJ5L5VNF"
-    },
-    {
-      "added_at": "2024-07-26 15:08:26",
-      "album": {
-        "name": "Amapolas (Remix)",
-        "url": "https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 267338,
-      "name": "Amapolas - Remix",
-      "url": "https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc"
     },
     {
       "added_at": "2024-07-26 15:08:26",

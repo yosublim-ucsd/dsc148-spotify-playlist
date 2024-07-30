@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。藤井風, XG, YOASOBI, MILLENNIUM PARADE and more! cover: 藤井風
 
-6,124 songs - 14 day 8 hr 30 min
+6,125 songs - 14 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,6 +517,7 @@
 | [Best Friend](https://open.spotify.com/track/3OCTonHd9l53kBjGFvW29a) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Queen Of Me](https://open.spotify.com/album/4vgoKoyq3ep6PLN25XtS6w) | 2:39 | 2023-02-02 | 2023-02-10 |
 | [Best Friend Breakup](https://open.spotify.com/track/28a302Jx34OM1z5qG7ykMJ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Best Friend Breakup](https://open.spotify.com/album/7L4j1hSTzMMGj3K7BmbtfL) | 2:21 | 2023-02-09 | 2023-02-17 |
 | [Best Friend Ever](https://open.spotify.com/track/1Z5Dmg7Dvu0X4oSdqLZ3Lu) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Best Friend Ever](https://open.spotify.com/album/4cT6f8tGzBtybpBNYPEQoX) | 3:21 | 2023-02-09 | 2023-02-17 |
+| [Best Left Unsolved \- Bonus Track](https://open.spotify.com/track/7ptQ7GZUadcKrcY1NosHtw) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Mid Spiral](https://open.spotify.com/album/6WNZ6fUOzpuKKDdPR8E1vO) | 5:26 | 2024-07-26 |  |
 | [Best Of Me](https://open.spotify.com/track/3Z19t8pNaAHqlLmz2LuwNa) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:51 | 2023-10-05 | 2023-10-13 |
 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 | 2024-07-26 |  |
 | [BET](https://open.spotify.com/track/3jhl9StNNhzCHkybwICBwN) | [HIROMITSU KITAYAMA](https://open.spotify.com/artist/5aj6oLCY3WS8HZ7zd5VWQ9) | [BET](https://open.spotify.com/album/5Emx2F5qTzaXnj7tDVFhc7) | 4:02 | 2024-02-22 | 2024-03-01 |

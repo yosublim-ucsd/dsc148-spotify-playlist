@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Bilbo",
+        "url": "https://open.spotify.com/album/6SB4qQhsTWvtYmlLceZS37"
+      },
+      "artists": [
+        {
+          "name": "Finlep",
+          "url": "https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165488,
+      "name": "Bilbo",
+      "url": "https://open.spotify.com/track/6iDSCK18tX5CCloZyhE2KR"
+    },
+    {
+      "album": {
         "name": "Blue Sky Within",
         "url": "https://open.spotify.com/album/7LqvVXIQHzAu5SrJsrDaWg"
       },
@@ -2162,7 +2180,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 176500,
       "name": "Linens",
       "url": "https://open.spotify.com/track/0UwvM6Pn8jWh3cNWQunjt0"
@@ -2728,6 +2746,24 @@
       "duration_ms": 110250,
       "name": "Ninna Nanna",
       "url": "https://open.spotify.com/track/0X8rmh6dy3ihea34AS4Rzg"
+    },
+    {
+      "album": {
+        "name": "No disturbance",
+        "url": "https://open.spotify.com/album/417rnJQjqx5kFTpXMoa9vx"
+      },
+      "artists": [
+        {
+          "name": "Jonas Kahnberg",
+          "url": "https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137059,
+      "name": "No disturbance",
+      "url": "https://open.spotify.com/track/3sZpRPHFGskVTQeU6PtguM"
     },
     {
       "album": {
@@ -3894,7 +3930,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 176795,
       "name": "The Night Becomes You",
       "url": "https://open.spotify.com/track/68ydkLTVa26AVu91mwGXYE"
@@ -4474,7 +4510,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 216862,
       "name": "Where I'm From",
       "url": "https://open.spotify.com/track/4TzxVjpZprvyvOhZUXFizs"

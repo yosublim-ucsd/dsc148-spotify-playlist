@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,589 likes - 100 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,604 likes - 100 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 35 | [Perception \- Remastered 2005/Rudy Van Gelder Edition](https://open.spotify.com/track/0ofvMRAUIFzkrHthNTbxRB) | [The Blue Mitchell Quintet](https://open.spotify.com/artist/4WQ2WF6X178A17JiHI4bWj) | [Down With It! \(Remastered 2005/Rudy Van Gelder Edition\)](https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF) | 5:42 |
 | 36 | [First Trip](https://open.spotify.com/track/1OYzVFN2Ydp3nywDL6RPe4) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Speak Like A Child \(Expanded Edition\)](https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r) | 6:01 |
 | 37 | [Punjab \- Remastered 2003 / Rudy Van Gelder Edition](https://open.spotify.com/track/64EpFQnk4OlbMl3fitdrp6) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [In 'n Out \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4KI0kC5rANmc5YeXyNshDr) | 9:07 |
-| 38 | [The Collector \- Remastered](https://open.spotify.com/track/7DWiFL8ynmBx6kaU0gLQcT) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 6:54 |
-| 39 | [Love Bird](https://open.spotify.com/track/1pIvCPswzivDXnC1y5hl4w) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Dear John C.](https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1) | 3:49 |
+| 38 | [Love Bird](https://open.spotify.com/track/1pIvCPswzivDXnC1y5hl4w) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Dear John C.](https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1) | 3:49 |
+| 39 | [The Collector \- Remastered](https://open.spotify.com/track/7DWiFL8ynmBx6kaU0gLQcT) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 6:54 |
 | 40 | [Birdlike \- Remastered 2004/Rudy Van Gelder Edition](https://open.spotify.com/track/4CHHDkxbgYOE0wP71CL0AT) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Ready For Freddie \(Rudy Van Gelder Remaster Edition\)](https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD) | 10:15 |
-| 41 | [R.J\. \(2022 Remaster\)](https://open.spotify.com/track/3rBVE16rpR9d9KivCflGON) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [E.S.P\. \(2022 Remaster\)](https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs) | 4:03 |
-| 42 | [I'll Remember April](https://open.spotify.com/track/2r4g8y2QYw6ywKSdo3mEDN) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 8:01 |
+| 41 | [I'll Remember April](https://open.spotify.com/track/2r4g8y2QYw6ywKSdo3mEDN) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 8:01 |
+| 42 | [R.J\. \(2022 Remaster\)](https://open.spotify.com/track/3rBVE16rpR9d9KivCflGON) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [E.S.P\. \(2022 Remaster\)](https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs) | 4:03 |
 | 43 | [Most Like Lee](https://open.spotify.com/track/3JfUaUogPIFkw0u0hdMnLd) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Cornbread](https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ) | 6:49 |
 | 44 | [Free For All](https://open.spotify.com/track/7vX1ZW62qw7wMEib872JmN) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Best Of Art Blakey](https://open.spotify.com/album/1UqQnjYh6B04eH4vDhjlJS) | 11:09 |
 | 45 | [Vertigo \- Remastered](https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Vertigo](https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a) | 8:17 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 47 | [Hub\-Tones \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/19naWBsLEkWKc61ERtQ3xm) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Hub\-Tones](https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5) | 8:24 |
 | 48 | [Herzog](https://open.spotify.com/track/00ccfrP2pK0CHhaSeGZXHy) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Total Eclipse](https://open.spotify.com/album/22CAQduBWiDnEMAF05wWlM) | 6:36 |
 | 49 | [Margot](https://open.spotify.com/track/1tqXFvOa69R2ay434QqLqr) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Life Between The Exit Signs](https://open.spotify.com/album/1PluOanzqH0rOxjiAJV5Oq) | 3:42 |
-| 50 | [Hand Jive](https://open.spotify.com/track/31W4cIsWpn6zubliC06BsN) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Nefertiti \(Expanded Edition\)](https://open.spotify.com/album/4ilAxtGR8aOj6M8X1HeHPY) | 8:54 |
-| 51 | [Mr\. Jin \- Remastered](https://open.spotify.com/track/4LH1EhRiBEDeb7TtMpNKAJ) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t) | [Indestructible](https://open.spotify.com/album/4qMDshn0sMrt3bf7C0mmCx) | 7:04 |
+| 50 | [Mr\. Jin \- Remastered](https://open.spotify.com/track/4LH1EhRiBEDeb7TtMpNKAJ) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t) | [Indestructible](https://open.spotify.com/album/4qMDshn0sMrt3bf7C0mmCx) | 7:04 |
+| 51 | [Hand Jive](https://open.spotify.com/track/31W4cIsWpn6zubliC06BsN) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Nefertiti \(Expanded Edition\)](https://open.spotify.com/album/4ilAxtGR8aOj6M8X1HeHPY) | 8:54 |
 | 52 | [Point Of Many Returns](https://open.spotify.com/track/0cCWBZBTGiKwqZtxbgp8gY) | [Sam Rivers](https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5) | [Contours](https://open.spotify.com/album/4Qk5Ifnki13u4bSvNwXM8Y) | 9:23 |
 | 53 | [Components \- Remastered 1994](https://open.spotify.com/track/11RdQ7zGzEfRuXcZW5sb1Y) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Components](https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP) | 6:25 |
 | 54 | [Rebirth](https://open.spotify.com/track/0CmhyVSciWqxDxw94eC6p5) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Sahara](https://open.spotify.com/album/0njsEE2XyDZFPXUWiMNrBl) | 5:18 |

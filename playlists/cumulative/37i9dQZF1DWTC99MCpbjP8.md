@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-597 songs - 1 day 1 hr 53 min
+599 songs - 1 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Entre manos](https://open.spotify.com/track/5Vgd3eeZtgLqtpuzvRO5Dl) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Entre manos](https://open.spotify.com/album/3OdZqMZqv0aKW1aWcKQqTe) | 2:13 | 2024-03-19 |  |
 | [Eridani](https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Eridani](https://open.spotify.com/album/59ALZE7fBIJgO1Awt1S4bV) | 2:32 | 2024-02-02 |  |
 | [erinna](https://open.spotify.com/track/7yKhLZM7KvuutJEDBAkSbB) | [Klaus Weissmuller](https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf) | [erinna](https://open.spotify.com/album/6VXZhQ3CoSjtYCxdn9In1X) | 2:08 | 2022-04-22 | 2024-04-16 |
+| [Escondidas](https://open.spotify.com/track/5uUdiK8TRiaRR8iLGZsBOt) | [Francine Gaétane](https://open.spotify.com/artist/6gMlkMM2jbGYhiNAzcR6Zw) | [Escondidas](https://open.spotify.com/album/52j4FXkBGwmYA8Jq8xuhKt) | 2:14 | 2024-07-29 |  |
 | [Estebania](https://open.spotify.com/track/7JovgYye2faHH2pvnV0EY4) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Estebania](https://open.spotify.com/album/1wNGh4oE2iPQ7CgnPrbq4K) | 2:51 | 2022-04-22 | 2024-04-16 |
 | [estiu](https://open.spotify.com/track/1vzwRWE2Vj7JZwqBqi9ivM) | [Valentine Summers](https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs) | [estiu](https://open.spotify.com/album/2PRpPe7NkIjknf6tudsPfL) | 2:47 | 2024-04-15 |  |
 | [Eternal Light](https://open.spotify.com/track/0utTxlkXq7mv67jgyL7XEg) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Eternal Light](https://open.spotify.com/album/0kKtZbnc8mRAEz6VMdhIZg) | 2:18 | 2022-04-22 | 2024-05-23 |
@@ -184,7 +185,7 @@
 | [From Above](https://open.spotify.com/track/5LIsR2QFLqxot9tX9huYwi) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Your Story](https://open.spotify.com/album/02mdAAH2cPIPnDCP8qgln2) | 1:46 | 2022-09-15 | 2023-07-19 |
 | [Full Of Life](https://open.spotify.com/track/2YsCoCOAiyDziuyHATGgz6) | [Hans Johansen](https://open.spotify.com/artist/6mCxkqJgErnJ1HmseA4qsM) | [Full Of Life](https://open.spotify.com/album/4vFDgnDqr5AQNnc1kElFQU) | 2:08 | 2023-03-21 |  |
 | [Fusionnelle](https://open.spotify.com/track/6osge3cxU5DKKEcbru8Tk5) | [Omri Grummet](https://open.spotify.com/artist/19LcF5dYN49CCl17FM7QYr), [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ) | [Fusionnelle](https://open.spotify.com/album/0LrgpXNHILMtfOZ7ZLifTK) | 2:25 | 2022-04-22 | 2023-05-04 |
-| [Geniality](https://open.spotify.com/track/1vaLaizp9SS2AMyadBtwzL) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Geniality](https://open.spotify.com/album/4NOyOhpuk1kTV8LIXvMRwn) | 2:50 | 2022-04-22 |  |
+| [Geniality](https://open.spotify.com/track/1vaLaizp9SS2AMyadBtwzL) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Geniality](https://open.spotify.com/album/4NOyOhpuk1kTV8LIXvMRwn) | 2:50 | 2022-04-22 | 2024-07-30 |
 | [Give Me Love](https://open.spotify.com/track/4iQvog1874l8QQsOuzPMW6) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [Give Me Love](https://open.spotify.com/album/0zSP1ER1taYJi00AMyD9S1) | 2:21 | 2024-05-14 |  |
 | [Glow](https://open.spotify.com/track/3lM1BCOR6zXKsvC7I3eABX) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Glow](https://open.spotify.com/album/0XirurPx9hImK25nVbAGXo) | 2:23 | 2022-04-22 | 2023-01-27 |
 | [Gnossienne: No.1 \(Satie Reworks\) \- Spotify Singles](https://open.spotify.com/track/2iADUGfIsYKXNmZtkxScdH) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Spotify Singles](https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI) | 2:39 | 2022-04-22 |  |
@@ -265,6 +266,7 @@
 | [Les pavillons des délaissés](https://open.spotify.com/track/4lSyzEUY0pxWWJrhnLiyUC) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Les pavillons des délaissés](https://open.spotify.com/album/0vK08Lh4PcuujemvwSpfKW) | 2:28 | 2024-04-15 |  |
 | [Les Soir](https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Les Soir](https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m) | 2:24 | 2023-06-19 |  |
 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 | 2022-04-22 | 2023-03-29 |
+| [Light From the Stars](https://open.spotify.com/track/6gdfuIxnmyRMpca7pP7ok5) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Light From the Stars](https://open.spotify.com/album/6mjBBRGkUO8dyMFtw56OGn) | 1:52 | 2024-07-29 |  |
 | [Like a Child](https://open.spotify.com/track/2J9UTgDdul3kMGZgnsUZIp) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Like a Child](https://open.spotify.com/album/4RF4Nz20dvgZUk2iSXbddV) | 2:35 | 2022-04-22 |  |
 | [Like Before](https://open.spotify.com/track/27An0sDvzMb7GM6pRE9ycF) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Like Before](https://open.spotify.com/album/2XnJ6Gy388bHlx1rikNI4p) | 2:15 | 2022-07-27 | 2024-02-14 |
 | [Like Before](https://open.spotify.com/track/4gh3kOpFSQPn6jGOI0gZPm) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Like Before](https://open.spotify.com/album/7KG32lDHhYrznuU2EXHJPp) | 2:15 | 2022-04-22 | 2022-07-29 |
@@ -286,7 +288,7 @@
 | [Luna piena](https://open.spotify.com/track/5YwXUOcRaJNOoEImMYLIfu) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Luna piena](https://open.spotify.com/album/2cP8f6LAElBMVU8epr2t5V) | 2:50 | 2022-04-22 | 2023-04-19 |
 | [Luz](https://open.spotify.com/track/16LPouz5bGb5gh4jerSRYi) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [Luz](https://open.spotify.com/album/6FYr3rZ3L5e7VmpUaDfMzd) | 2:33 | 2022-04-22 | 2024-04-16 |
 | [Lämna](https://open.spotify.com/track/3CQN71R8GSjtdBKodHBai2) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Lämna](https://open.spotify.com/album/3KGZgOnsQPjHYVHF4vAMni) | 3:15 | 2022-04-22 | 2022-09-16 |
-| [Ma meilleure année](https://open.spotify.com/track/6cxJxS35yFpNdN40G9hIw5) | [Amour Lesauvage](https://open.spotify.com/artist/6qx6GDbg4utV2vDQvS2I4k) | [Ma meilleure année](https://open.spotify.com/album/30w5d5wLvQ3zkV9jXAAded) | 2:35 | 2022-04-22 |  |
+| [Ma meilleure année](https://open.spotify.com/track/6cxJxS35yFpNdN40G9hIw5) | [Amour Lesauvage](https://open.spotify.com/artist/6qx6GDbg4utV2vDQvS2I4k) | [Ma meilleure année](https://open.spotify.com/album/30w5d5wLvQ3zkV9jXAAded) | 2:35 | 2022-04-22 | 2024-07-30 |
 | [Maiestas](https://open.spotify.com/track/0rZYsX5OgshLXSj4zumlxx) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Maiestas](https://open.spotify.com/album/7oCpbL8Bgz9eoaYXc4Lyok) | 2:51 | 2022-04-22 | 2024-02-14 |
 | [Mangetsu](https://open.spotify.com/track/57p8sEB0RZILwSvgAAJgh4) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Mangetsu](https://open.spotify.com/album/6xldzkLO7dn1jE9qwm51dr) | 2:38 | 2022-07-27 |  |
 | [Manglar](https://open.spotify.com/track/5J98e7zSY03xUczf2BbK6q) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Manglar](https://open.spotify.com/album/5CiLtOuGlQQ5DpxLcDq4J7) | 2:21 | 2022-04-22 | 2024-04-16 |

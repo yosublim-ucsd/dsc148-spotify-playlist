@@ -4,7 +4,7 @@
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-254 songs - 11 hr 13 min
+255 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Larks](https://open.spotify.com/track/0DCuRxadki9VQU5pskJrUG) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Deepest Woods](https://open.spotify.com/album/1x8ws4uwMZzi3kcUzq7nqe) | 2:54 | 2022-05-27 | 2024-04-04 |
 | [Le Recueillement](https://open.spotify.com/track/6fHq66kBS2OJiWu3ZGNZj9) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Le Recueillement](https://open.spotify.com/album/28bPi73lPKGOd8x9AeYFm6) | 2:27 | 2023-12-12 |  |
 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 | 2022-05-27 |  |
+| [Light From the Stars](https://open.spotify.com/track/6gdfuIxnmyRMpca7pP7ok5) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Light From the Stars](https://open.spotify.com/album/6mjBBRGkUO8dyMFtw56OGn) | 1:52 | 2024-07-29 |  |
 | [Like A Whisper](https://open.spotify.com/track/4C4B9L1O7JCiDSniF64rbJ) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [Harbour](https://open.spotify.com/album/1YZbiOwmyO8HbKqGub0Tzi) | 3:57 | 2022-05-27 | 2024-04-10 |
 | [Little Things](https://open.spotify.com/track/1L9NurhEYJFmy69FNRZpQX) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [Little Things](https://open.spotify.com/album/5wP3H8FWcmE8A8mGAL6VIn) | 2:10 | 2024-04-09 |  |
 | [Lleno De Ti](https://open.spotify.com/track/5uGX3dCbfTWl6hvOkTqP8l) | [Leddei](https://open.spotify.com/artist/52c7HK8GD8wokmwHeNXGhs) | [Lleno De Ti](https://open.spotify.com/album/2vLdVOc4bROhHeAdxjWjto) | 2:41 | 2024-03-05 |  |
@@ -160,7 +161,7 @@
 | [Night Clouds](https://open.spotify.com/track/0OpqhQTV2qBimQyFhQAuDF) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Night Clouds](https://open.spotify.com/album/7lSnDLFVQkxKYmtPQWeFTd) | 2:52 | 2023-10-10 |  |
 | [Niyama](https://open.spotify.com/track/1naTK7gcgguEhzFhlP75gH) | [Lapeito](https://open.spotify.com/artist/4g9wSQI9AFFbUpuFqxvrEW) | [Niyama](https://open.spotify.com/album/5I4Ye4hI9UqXtya46Fui0i) | 3:24 | 2022-09-15 |  |
 | [Nouvel Agneau](https://open.spotify.com/track/2CTRsFkCzXEafseF4MLRN9) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [Nouvel Agneau](https://open.spotify.com/album/2eJoenU9jJik7za0y7C02w) | 2:19 | 2022-07-27 |  |
-| [Ocean Heart](https://open.spotify.com/track/4TXzJ0L5gMumCwrlEgyRZL) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Ocean Heart](https://open.spotify.com/album/7ogcQaTj5cbsbDdmo6REqL) | 2:52 | 2022-05-27 |  |
+| [Ocean Heart](https://open.spotify.com/track/4TXzJ0L5gMumCwrlEgyRZL) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Ocean Heart](https://open.spotify.com/album/7ogcQaTj5cbsbDdmo6REqL) | 2:52 | 2022-05-27 | 2024-07-30 |
 | [Ocean View](https://open.spotify.com/track/6TeajBISE83AbcnnhMmvhN) | [Amalou](https://open.spotify.com/artist/0Fa4owCW21dPiAF9bLUMKZ) | [Ocean View](https://open.spotify.com/album/2CUiHuVgbGODA8cgxV2yUB) | 3:00 | 2022-07-27 |  |
 | [Oculis](https://open.spotify.com/track/3rkfPXBvaNLZNzwrWZ0Dmd) | [Donna Vellema](https://open.spotify.com/artist/6AB8ZGAhAWesb0QZPmQv3o) | [Oculis](https://open.spotify.com/album/1bPneybtqTRAZ9UZaehET0) | 2:58 | 2022-05-27 | 2022-09-16 |
 | [On The Fields](https://open.spotify.com/track/3VDtQne6yzambbjKODbcxW) | [Jesse Porter](https://open.spotify.com/artist/4kQm2mvDJf859pkHFQBsdc) | [On The Fields](https://open.spotify.com/album/22VO3JfHEwEo31pja34U9Q) | 2:38 | 2023-08-23 |  |
@@ -185,7 +186,7 @@
 | [Romanzo](https://open.spotify.com/track/61TS7LURuPHVDdVsuWvxfC) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [Romanzo](https://open.spotify.com/album/3hV54JZiq0la65AY4KXB4J) | 2:03 | 2023-09-05 |  |
 | [Rowan's Lullaby](https://open.spotify.com/track/2Q5J3fYP2cPXDQwCsS0OkT) | [Bjarni Erlingursson](https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6) | [Hymn](https://open.spotify.com/album/3Ib3ew2pm5a2UOmAAbn7QC) | 1:56 | 2022-05-27 | 2024-04-10 |
 | [Rêvasser](https://open.spotify.com/track/2rBLJwsNjWvSx0yVAQLc3B) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Rêvasser](https://open.spotify.com/album/0xnlKa5rkGsf3r93ULxb3l) | 3:29 | 2022-05-27 | 2022-07-28 |
-| [sahdana](https://open.spotify.com/track/7rTV5NBxyhcHbFdzbyLiJf) | [ildio](https://open.spotify.com/artist/0M7lk3XgbBRdb5EzeRlGIq) | [sahdana](https://open.spotify.com/album/7pn4A1Cyta0u8c3K55JBHr) | 2:55 | 2022-05-27 |  |
+| [sahdana](https://open.spotify.com/track/7rTV5NBxyhcHbFdzbyLiJf) | [ildio](https://open.spotify.com/artist/0M7lk3XgbBRdb5EzeRlGIq) | [sahdana](https://open.spotify.com/album/7pn4A1Cyta0u8c3K55JBHr) | 2:55 | 2022-05-27 | 2024-07-30 |
 | [Sanctuary](https://open.spotify.com/track/7iTKgLh1OzQHw1TwYFSMGa) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Sanctuary](https://open.spotify.com/album/7KGfFceY7fbUQdupnLNKeU) | 2:31 | 2023-06-28 |  |
 | [Sans Toi](https://open.spotify.com/track/04uVxAxx6QvPQzfuLv5A6P) | [Loane Tellier](https://open.spotify.com/artist/6xKXSveUUJyAIZAOCnnSvS) | [Sans Toi](https://open.spotify.com/album/0avKp2QPHyrlKayO32H0Qa) | 2:07 | 2022-05-27 | 2024-04-04 |
 | [Santa Cruz](https://open.spotify.com/track/75b0f1695j8tRmXL6cvtmb) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Santa Cruz](https://open.spotify.com/album/49uampA9yQFlptFHMpghab) | 3:57 | 2022-05-27 | 2024-04-10 |

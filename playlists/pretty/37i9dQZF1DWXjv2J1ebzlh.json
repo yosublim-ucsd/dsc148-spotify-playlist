@@ -1,6 +1,6 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 112389,
+  "num_followers": 112435,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/7y1ox9IBe1OKHB1q3rjIGB"
-      },
-      "artists": [
-        {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/13ZRVSoA9lHGXXHDC5w4gF"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "The Budos Band",
         "url": "https://open.spotify.com/album/7Gu0cy8nMC6Uk10PsdAHXd"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 160600,
       "name": "T.I.B.W.F.",
       "url": "https://open.spotify.com/track/7wwLfGqZ5VaTfNGRihJiqu"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/7y1ox9IBe1OKHB1q3rjIGB"
+      },
+      "artists": [
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/13ZRVSoA9lHGXXHDC5w4gF"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "The Budos Band",
-        "url": "https://open.spotify.com/album/7Gu0cy8nMC6Uk10PsdAHXd"
-      },
-      "artists": [
-        {
-          "name": "The Budos Band",
-          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "Up From the South",
-      "url": "https://open.spotify.com/track/7GS4WQCPUQuZW6ZSvfZXvA"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "Fuego en el 23!",
         "url": "https://open.spotify.com/album/0c3F6OlWKJnkRTb78nswUt"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 284640,
       "name": "Fuego En El 23",
       "url": "https://open.spotify.com/track/5EX3Q9GWGMtvvugQFkNTUb"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "The Budos Band",
+        "url": "https://open.spotify.com/album/7Gu0cy8nMC6Uk10PsdAHXd"
+      },
+      "artists": [
+        {
+          "name": "The Budos Band",
+          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "Up From the South",
+      "url": "https://open.spotify.com/track/7GS4WQCPUQuZW6ZSvfZXvA"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "The SLAM! Years: 1983 - 1988 (Habibi Funk 018)",
-        "url": "https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS"
-      },
-      "artists": [
-        {
-          "name": "Hamid Al Shaeri",
-          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
-        }
-      ],
-      "duration_ms": 219624,
-      "name": "Ayonha",
-      "url": "https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "Marechi\u00e0",
         "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
       },
@@ -851,6 +835,22 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
+        "name": "The SLAM! Years: 1983 - 1988 (Habibi Funk 018)",
+        "url": "https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS"
+      },
+      "artists": [
+        {
+          "name": "Hamid Al Shaeri",
+          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
+        }
+      ],
+      "duration_ms": 219624,
+      "name": "Ayonha",
+      "url": "https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
         "name": "Cumbia Amazonica",
         "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
       },
@@ -863,6 +863,22 @@
       "duration_ms": 169600,
       "name": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
       "url": "https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Ferrer",
+          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
+        }
+      ],
+      "duration_ms": 284320,
+      "name": "Bruca Manigu\u00e1",
+      "url": "https://open.spotify.com/track/4HWwcSkeRTsqjZurFC6tMH"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -895,22 +911,6 @@
       "duration_ms": 381040,
       "name": "Only You",
       "url": "https://open.spotify.com/track/3d7lH2ppf2aIELQXY4nagn"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
-        "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Ferrer",
-          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
-        }
-      ],
-      "duration_ms": 284320,
-      "name": "Bruca Manigu\u00e1",
-      "url": "https://open.spotify.com/track/4HWwcSkeRTsqjZurFC6tMH"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Al Barry & Friends (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4tPcpsbuVXJ9X4IfrZNeJd"
-      },
-      "artists": [
-        {
-          "name": "Al Barry",
-          "url": "https://open.spotify.com/artist/4vNQY9dqHGNTP3VLJonsHU"
-        }
-      ],
-      "duration_ms": 176091,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/5uqqDha6xHfmP4Gu1VyYxd"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "African Voodoo",
         "url": "https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 131045,
       "name": "Coconut",
       "url": "https://open.spotify.com/track/5rJSFuBV3QBGTrywHJt5sA"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Al Barry & Friends (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4tPcpsbuVXJ9X4IfrZNeJd"
+      },
+      "artists": [
+        {
+          "name": "Al Barry",
+          "url": "https://open.spotify.com/artist/4vNQY9dqHGNTP3VLJonsHU"
+        }
+      ],
+      "duration_ms": 176091,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/5uqqDha6xHfmP4Gu1VyYxd"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Corpo Do Som",
-        "url": "https://open.spotify.com/album/6dwGXu1580bIbgjbS9dwbb"
-      },
-      "artists": [
-        {
-          "name": "Barbatuques",
-          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
-        }
-      ],
-      "duration_ms": 163893,
-      "name": "Bai\u00e3o Destemperado",
-      "url": "https://open.spotify.com/track/1EoV0vQjHaMQ8WehQGXS8O"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "A Mis Amigos",
         "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 140706,
       "name": "Perfidia",
       "url": "https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Corpo Do Som",
+        "url": "https://open.spotify.com/album/6dwGXu1580bIbgjbS9dwbb"
+      },
+      "artists": [
+        {
+          "name": "Barbatuques",
+          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
+        }
+      ],
+      "duration_ms": 163893,
+      "name": "Bai\u00e3o Destemperado",
+      "url": "https://open.spotify.com/track/1EoV0vQjHaMQ8WehQGXS8O"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Quarteto Em Cy",
-        "url": "https://open.spotify.com/album/3SklHlQWmxoeFj2k0q99HI"
-      },
-      "artists": [
-        {
-          "name": "Quarteto Em Cy",
-          "url": "https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O"
-        }
-      ],
-      "duration_ms": 161106,
-      "name": "Tudo Que Voce Podia Ser",
-      "url": "https://open.spotify.com/track/4iVpZVKaPUnMhEagBOIIuI"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "Ondatr\u00f3pica",
         "url": "https://open.spotify.com/album/3MAaPc41qaOS2b1fvQbihk"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 245280,
       "name": "Cumbia Espacial",
       "url": "https://open.spotify.com/track/36573bwqNlXfYksha3cVRP"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Quarteto Em Cy",
+        "url": "https://open.spotify.com/album/3SklHlQWmxoeFj2k0q99HI"
+      },
+      "artists": [
+        {
+          "name": "Quarteto Em Cy",
+          "url": "https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O"
+        }
+      ],
+      "duration_ms": 161106,
+      "name": "Tudo Que Voce Podia Ser",
+      "url": "https://open.spotify.com/track/4iVpZVKaPUnMhEagBOIIuI"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Adventures on the Floating Island",
-        "url": "https://open.spotify.com/album/3QTpSmAq5j7udfy080khsW"
-      },
-      "artists": [
-        {
-          "name": "Monster Rally",
-          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
-        }
-      ],
-      "duration_ms": 140162,
-      "name": "Adventure",
-      "url": "https://open.spotify.com/track/2eV4hGQIQyQMOZwuCzhCpb"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "Os Tinco\u00e3s",
         "url": "https://open.spotify.com/album/66E3E9DaAxpGPE4SgrOBDX"
       },
@@ -1503,6 +1487,22 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
+        "name": "Adventures on the Floating Island",
+        "url": "https://open.spotify.com/album/3QTpSmAq5j7udfy080khsW"
+      },
+      "artists": [
+        {
+          "name": "Monster Rally",
+          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
+        }
+      ],
+      "duration_ms": 140162,
+      "name": "Adventure",
+      "url": "https://open.spotify.com/track/2eV4hGQIQyQMOZwuCzhCpb"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
         "name": "Omara Portuondo (Buena Vista Social Club Presents)",
         "url": "https://open.spotify.com/album/1nEoXu83WPlqrfKAznidDw"
       },
@@ -1515,6 +1515,22 @@
       "duration_ms": 227413,
       "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
       "url": "https://open.spotify.com/track/3EUxtYagZRbXB7is7UjSg7"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Musique originale de films (Habibi Funk 003)",
+        "url": "https://open.spotify.com/album/3yxGERLeJJdk0NUz1jSe6F"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Malek",
+          "url": "https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/7JTuEIBZuE356hMGiF8Yy9"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Os Primeiros Anos",
-        "url": "https://open.spotify.com/album/5CtT0oNeHpOhP10uyBORnC"
-      },
-      "artists": [
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        }
-      ],
-      "duration_ms": 189120,
-      "name": "Carolina, Carol Bela",
-      "url": "https://open.spotify.com/track/6A0OUhnbkGUNWsPctKAB4R"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "Sings Love",
         "url": "https://open.spotify.com/album/4wumIYHuT2WHzoaiR03MDd"
       },
@@ -1595,22 +1595,6 @@
       "duration_ms": 222981,
       "name": "Let Love Flow On",
       "url": "https://open.spotify.com/track/5fiudMisuNkKC1htZSCh2t"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
-        "name": "Musique originale de films (Habibi Funk 003)",
-        "url": "https://open.spotify.com/album/3yxGERLeJJdk0NUz1jSe6F"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Malek",
-          "url": "https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Maya",
-      "url": "https://open.spotify.com/track/7JTuEIBZuE356hMGiF8Yy9"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1651,6 +1635,38 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
+        "name": "Os Primeiros Anos",
+        "url": "https://open.spotify.com/album/5CtT0oNeHpOhP10uyBORnC"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "Carolina, Carol Bela",
+      "url": "https://open.spotify.com/track/6A0OUhnbkGUNWsPctKAB4R"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Musique originale de films (Habibi Funk 003)",
+        "url": "https://open.spotify.com/album/3yxGERLeJJdk0NUz1jSe6F"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Malek",
+          "url": "https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Autopsie d'un complot",
+      "url": "https://open.spotify.com/track/0nJPzwRclRWEniqHGQxdUv"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
         "name": "World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia",
         "url": "https://open.spotify.com/album/59NOU4R72nphHRtwQlGfjJ"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 355040,
       "name": "Marieta",
       "url": "https://open.spotify.com/track/530CFqFZ0pdUp5cU0yZULv"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
-        "name": "Cantiga De Longe",
-        "url": "https://open.spotify.com/album/5S7lcrRerABwsWzHisYsxP"
-      },
-      "artists": [
-        {
-          "name": "Edu Lobo",
-          "url": "https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "Zum-Zum",
-      "url": "https://open.spotify.com/track/4ApvuCjlZNe3RoIFoBX29y"
     }
   ],
   "unique_name": "Bon Voyage",

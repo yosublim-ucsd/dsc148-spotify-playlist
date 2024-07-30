@@ -2,9 +2,9 @@
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: Sevdaliza, Pabllo Vittar, Yseult
+> 50 nejžhavějších hitů v České republice\. Cover: Rohony
 
-55 songs - 2 hr 33 min
+56 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [DTB for Life](https://open.spotify.com/track/0uqziJ0jXgIl13movC27ut) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [PRESIDENT OF SEXICO](https://open.spotify.com/album/3nkaxDNhc38JqBWqvHQACD) | 2:31 | 2024-07-01 | 2024-07-23 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-07-01 |  |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-07-01 |  |
-| [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 | 2024-07-01 |  |
+| [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 | 2024-07-01 | 2024-07-30 |
 | [Ex\-Opps](https://open.spotify.com/track/4vymz2jIglZLuULsMTHx6v) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Ex\-Opps](https://open.spotify.com/album/0DNQNUzuaW1fIa4AnoXyqJ) | 2:22 | 2024-07-01 | 2024-07-16 |
 | [FaceTime](https://open.spotify.com/track/7cygxRmLVXDCQWt15xdRXB) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [HRA1](https://open.spotify.com/album/5dvyybxV1Inueqg9XSSMXw) | 2:58 | 2024-07-01 |  |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2024-07-22 |  |
@@ -62,6 +62,7 @@
 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 | 2024-07-01 |  |
 | [U Hřiště 380](https://open.spotify.com/track/0FpgtEgaMZSUw2RAD7JHGs) | [Rohony](https://open.spotify.com/artist/3FgZ0agsmQ50Y9VflHdcio), [mdmx](https://open.spotify.com/artist/0F2wMgHb1xp9HlWN4rt5Ke) | [U Hřiště 380](https://open.spotify.com/album/3y4coZ0Da0Ckj48xDmfyYO) | 2:30 | 2024-07-01 |  |
 | [VZHŮRU CELOU NOC](https://open.spotify.com/track/6GWIcN6mNgvZThlqq3peBk) | [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [VZHŮRU CELOU NOC](https://open.spotify.com/album/088S7V41MbnBbgM3lK3cIr) | 3:00 | 2024-07-01 |  |
+| [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-29 |  |
 | [Window Shopper](https://open.spotify.com/track/2x39J1ztiWV60Q7WeSHIpW) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [Bieber Fever](https://open.spotify.com/album/2R1uwISz1QbhnV7Nj7PPXB) | 2:00 | 2024-07-01 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

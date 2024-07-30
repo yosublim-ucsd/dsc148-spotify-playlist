@@ -4,13 +4,14 @@
 
 > Koleksi lagu tersayang dari para artis negeri jiran\. Cover: Yovie Widianto, Lyodra
 
-88 songs - 6 hr 8 min
+89 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 Tahun Lamanya](https://open.spotify.com/track/2x9UGhofPBZdeam4uZCUID) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Pongki Barata Meets The Stars](https://open.spotify.com/album/38D2z2TJ00G6qViXbvslpy) | 3:52 | 2024-01-12 |  |
 | [Ada Apa Dengan Cinta \(feat\. Eric Erlangga\) \- Remastered 2024](https://open.spotify.com/track/0LVnwiUhNuq1fzMsyzf6ew) | [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W), [Eric Erlangga](https://open.spotify.com/artist/39Ne6HAorLNJClkUmIGVm2) | [Ada Apa Dengan Cinta? \(Original Soundtrack\) \[Remastered 2024\]](https://open.spotify.com/album/3ONiigYwrqhTaU406vuDXQ) | 4:13 | 2024-05-23 | 2024-06-22 |
 | [Akhir Cerita Cinta](https://open.spotify.com/track/6Qe5wOREjTPivo6M5kW5h3) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Selamat Pagi, Dunia!](https://open.spotify.com/album/5rVlutTMP45pkvXFp5L3B9) | 4:00 | 2024-01-12 | 2024-07-24 |
+| [Aku Bukan Untukmu](https://open.spotify.com/track/2DonLaO8H1Pa6MbuM2wbkf) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Kembali](https://open.spotify.com/album/6fr7fkitqzxiVfe6d6oCGQ) | 4:01 | 2024-07-25 |  |
 | [Aku Cinta Kau Dan Dia](https://open.spotify.com/track/3PHc0M7QXIwPUDnZ9dBVCu) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs), [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [Aku Cinta Kau Dan Dia](https://open.spotify.com/album/2gajnKEtcWmFQ03Al5qvpF) | 4:43 | 2024-01-12 |  |
 | [Aku dan Dirimu \(feat\. Ari Lasso\)](https://open.spotify.com/track/3boGp1c9CIHwwA0vktqlOP) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9), [Ari Lasso](https://open.spotify.com/artist/1sqYIwXAmhrcSTsYmsTFAr) | [Tentang Kamu](https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8) | 4:27 | 2024-01-12 |  |
 | [Aku Yang Tersakiti](https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Setengah Mati Merindu](https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF) | 4:02 | 2024-06-21 |  |
@@ -52,7 +53,7 @@
 | [Ku Bahagia](https://open.spotify.com/track/1fmbs7VQlf1X55E99IYyzQ) | [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W) | [Ada Apa Dengan Cinta? \(Original Soundtrack\)](https://open.spotify.com/album/0CXcKhEEmqlMXPS5iPErte) | 2:59 | 2024-01-12 | 2024-05-24 |
 | [Ku Bahagia \- Remastered 2024](https://open.spotify.com/track/4EwQUyMUy8WsLc1IkUPdNk) | [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W) | [Ada Apa Dengan Cinta? \(Original Soundtrack\) \[Remastered 2024\]](https://open.spotify.com/album/3ONiigYwrqhTaU406vuDXQ) | 2:57 | 2024-05-23 | 2024-06-22 |
 | [Kukira Kau Rumah](https://open.spotify.com/track/1xdp8tXLTGbPeUSEODP9N7) | [Amigdala](https://open.spotify.com/artist/40wi3VPurw0e4t3Yggo2Fk) | [Kukira Kau Rumah](https://open.spotify.com/album/23eyS24eT0cGfKVt0UTFtT) | 3:26 | 2024-01-12 |  |
-| [Lagu Kita](https://open.spotify.com/track/1M3VWshwnG5op9B8UT0s5W) | [Aizat Amdan](https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu) | [Percubaan Pertama](https://open.spotify.com/album/4KirOg5DKkGSOE8PWr15YT) | 3:31 | 2024-06-21 |  |
+| [Lagu Kita](https://open.spotify.com/track/1M3VWshwnG5op9B8UT0s5W) | [Aizat Amdan](https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu) | [Percubaan Pertama](https://open.spotify.com/album/4KirOg5DKkGSOE8PWr15YT) | 3:31 | 2024-06-21 | 2024-07-30 |
 | [Laskar Pelangi](https://open.spotify.com/track/6lTbFpGPseKbUFFIOHscXO) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [King of Soundtrack](https://open.spotify.com/album/1Bz3ZhNWrWrV0MOALDvMCF) | 3:52 | 2024-06-21 | 2024-07-24 |
 | [Mabuk Cinta](https://open.spotify.com/track/7gWcfdZVM1uunqG6trmQVG) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Satu Hati Sejuta Cinta](https://open.spotify.com/album/78rrGhb8kb4g0P8ewToKIo) | 3:59 | 2024-01-12 |  |
 | [Matahariku](https://open.spotify.com/track/08M6ihbCJmAmfo4uoRYkOD) | [Agnes Monica](https://open.spotify.com/artist/5auFhdM0ZgtH6cXwncgZ4m) | [Agnes Is My Name](https://open.spotify.com/album/53aMwJ5S2SVxCPS4AznERW) | 4:26 | 2024-01-12 |  |

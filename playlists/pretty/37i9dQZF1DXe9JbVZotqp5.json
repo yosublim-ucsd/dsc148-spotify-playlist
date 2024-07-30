@@ -1,6 +1,6 @@
 {
   "description": "Easy rock for that peaceful, easy feeling. Cover: U2",
-  "num_followers": 649717,
+  "num_followers": 649712,
   "original_name": "Easy Rock",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "All the Right Reasons",
-        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 238173,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/0ADZ5dmXhlfzjMw6lefoPl"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Hotel California (2013 Remaster)",
         "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 304925,
       "name": "New Kid in Town - 2013 Remaster",
       "url": "https://open.spotify.com/track/6Zyz8lsnMFpIrCTuvGurCB"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "All the Right Reasons",
+        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 238173,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/0ADZ5dmXhlfzjMw6lefoPl"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Third Stage",
-        "url": "https://open.spotify.com/album/3ZjhhUHc4jFc6ZOTchjXsv"
-      },
-      "artists": [
-        {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
-        }
-      ],
-      "duration_ms": 256200,
-      "name": "Amanda",
-      "url": "https://open.spotify.com/track/4gpext9x0CbdD9NWaa4nDj"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Thank You",
         "url": "https://open.spotify.com/album/1fyLNx6wxgDA59wFInnyup"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 230293,
       "name": "Plush - Acoustic",
       "url": "https://open.spotify.com/track/3ftHrCjsTUPLgI48m67byk"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Third Stage",
+        "url": "https://open.spotify.com/album/3ZjhhUHc4jFc6ZOTchjXsv"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "duration_ms": 256200,
+      "name": "Amanda",
+      "url": "https://open.spotify.com/track/4gpext9x0CbdD9NWaa4nDj"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Purple Rain",
-        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+        "name": "English Rose",
+        "url": "https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe"
       },
       "artists": [
         {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 520786,
-      "name": "Purple Rain",
-      "url": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
+      "duration_ms": 190106,
+      "name": "Albatross",
+      "url": "https://open.spotify.com/track/3iZ5twPwvFeOUQA4Deu8tP"
     }
   ],
   "unique_name": "Easy Rock",

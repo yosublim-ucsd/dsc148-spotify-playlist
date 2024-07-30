@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 641 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 642 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 29 | [Tocas El Cielo](https://open.spotify.com/track/3x27kK7eSGhxc6PzSgPoeh) | [Uriel Barrera](https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH) | [Casi Algo](https://open.spotify.com/album/6xSYTJWevYBfj3ss9Jciuv) | 3:05 |
 | 30 | [Mentira No Es](https://open.spotify.com/track/5FCgAX7k4f3FxlMWj7WIEw) | [Omar Chaparro](https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6), [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Mentira No Es](https://open.spotify.com/album/3ci1tvSNex0gbdl7JwiOSO) | 2:50 |
 | 31 | [Porque Sigo Vivo](https://open.spotify.com/track/1sWJERxemKdTKXVGL4zFrJ) | [Fuerza de Tijuana](https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Porque Sigo Vivo](https://open.spotify.com/album/75AAhtE3Tff60VDqsQ8hOf) | 3:04 |
-| 32 | [A Ver Cómo Le Haces](https://open.spotify.com/track/3UH6ybsiI8JC9WiBpdHhoy) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [A Ver Cómo Le Haces](https://open.spotify.com/album/7y6NFnVMCH2ZJXTarItco9) | 3:59 |
-| 33 | [Juego De Feria](https://open.spotify.com/track/5tVNRjHFayBzyOPSpUniDF) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Juego De Feria](https://open.spotify.com/album/4mFw8K0Ts3T6yQourMWESD) | 2:37 |
+| 32 | [Juego De Feria](https://open.spotify.com/track/5tVNRjHFayBzyOPSpUniDF) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Juego De Feria](https://open.spotify.com/album/4mFw8K0Ts3T6yQourMWESD) | 2:37 |
+| 33 | [A Ver Cómo Le Haces](https://open.spotify.com/track/3UH6ybsiI8JC9WiBpdHhoy) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [A Ver Cómo Le Haces](https://open.spotify.com/album/7y6NFnVMCH2ZJXTarItco9) | 3:59 |
 | 34 | [Si Tuviera Sombrero](https://open.spotify.com/track/5OKEpX0t6hePxRTdcSxiDR) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Tiempo Al Tiempo](https://open.spotify.com/album/2QnEyYe3GrDMi8gMTTn62U) | 3:01 |
 | 35 | [Ni Te Topo](https://open.spotify.com/track/1z1hcg5tuKx8KCKsl011zX) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:51 |
 | 36 | [A Darle Con Todo \- En Vivo](https://open.spotify.com/track/7kMnOMAVYzFnJXRqU6cvqD) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [A Darle Con Todo \(En Vivo\)](https://open.spotify.com/album/0sE8OAlzBJE2bRd96WTj1H) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 49 | [De Mal En Peor](https://open.spotify.com/track/1uqNLWNfdnpbHup3Tv0psf) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [De Mal En Peor](https://open.spotify.com/album/6mlWPPOrRhB6dWEW78qPFs) | 3:16 |
 | 50 | [Por Pensar](https://open.spotify.com/track/3g48NQArWTvDtpvBWzpmR6) | [César Navarro](https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G) | [Por Pensar](https://open.spotify.com/album/1XjSCa4R8pGT3rclyzYhw2) | 2:32 |
 
-Snapshot ID: `AbX71wAAAADXl126Ofperoi5jRVkPrD8`
+Snapshot ID: `AbYBdwAAAACTg3l+1wzwCyYIh2Zl7Ted`

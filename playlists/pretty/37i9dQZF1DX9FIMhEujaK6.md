@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,103 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,571 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 39 | [Lone Raver](https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Lone Raver](https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe) | 4:17 |
 | 40 | [I'll miss you](https://open.spotify.com/track/0DFVqaUmTttd4wozHaxcRe) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [I'll miss you](https://open.spotify.com/album/08p5Y9EHxOAyFrDDy6Bxr4) | 2:46 |
 | 41 | [Gleams](https://open.spotify.com/track/07SjDKarzZO519FaIfGxT1) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Gleams](https://open.spotify.com/album/4YrxxFmElZO6FgUjc8R3Lo) | 4:53 |
-| 42 | [Be Patient](https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Be Patient](https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a) | 3:36 |
-| 43 | [Small Sanctuary](https://open.spotify.com/track/6sRuzyGwCabMtnMZXcoakQ) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Small Sanctuary](https://open.spotify.com/album/2SIWee6TyrGjpNliYVvbfH) | 3:38 |
-| 44 | [DON'T KNOW WHERE I'M GOING](https://open.spotify.com/track/314xWohgRBDE8tjVFc2dmv) | [YOURS](https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7) | [DON’T KNOW WHERE I’M GOING](https://open.spotify.com/album/1dmZt5XUmpZsWeesKtwY8I) | 3:06 |
-| 45 | [Kiss](https://open.spotify.com/track/35Tb3Ii35rcvP1qyRQsW1a) | [Iorie](https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH), [Cesar B.](https://open.spotify.com/artist/68Mf2sUOnyJoE6Xm6k0eE2) | [Summer](https://open.spotify.com/album/0YtlbRJFIedxN8a9f8ZyJp) | 7:50 |
+| 42 | [Small Sanctuary](https://open.spotify.com/track/6sRuzyGwCabMtnMZXcoakQ) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Small Sanctuary](https://open.spotify.com/album/2SIWee6TyrGjpNliYVvbfH) | 3:38 |
+| 43 | [Be Patient](https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Be Patient](https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a) | 3:36 |
+| 44 | [Kiss](https://open.spotify.com/track/35Tb3Ii35rcvP1qyRQsW1a) | [Iorie](https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH), [Cesar B.](https://open.spotify.com/artist/68Mf2sUOnyJoE6Xm6k0eE2) | [Summer](https://open.spotify.com/album/0YtlbRJFIedxN8a9f8ZyJp) | 7:50 |
+| 45 | [DON'T KNOW WHERE I'M GOING](https://open.spotify.com/track/314xWohgRBDE8tjVFc2dmv) | [YOURS](https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7) | [DON’T KNOW WHERE I’M GOING](https://open.spotify.com/album/1dmZt5XUmpZsWeesKtwY8I) | 3:06 |
 | 46 | [Inkeri](https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG) | [Oasis Sky](https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10) | 3:22 |
 | 47 | [Talking Like That](https://open.spotify.com/track/2mO6cLDxTnT9NVnQ6iVfVF) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Talking Like That](https://open.spotify.com/album/6NgQBkhn7gc9tcxdsORlgi) | 3:51 |
 | 48 | [Gaze Up \(feat\. Antonio Blakstad\)](https://open.spotify.com/track/0TpGRIvJhZuNpGbZ79nM2d) | [Rosbeh](https://open.spotify.com/artist/3TvVhn8o9gFioBKqBxEScE), [Antonio Blakstad](https://open.spotify.com/artist/5aNIhH9sWOZyV7T0uWc855) | [Gaze Up \(feat\. Antonio Blakstad\)](https://open.spotify.com/album/7bcIfbUsLbnYABJtgIocC7) | 3:30 |

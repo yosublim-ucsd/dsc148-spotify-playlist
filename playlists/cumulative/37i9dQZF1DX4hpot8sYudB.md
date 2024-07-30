@@ -4,7 +4,7 @@
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 
-386 songs - 19 hr 53 min
+387 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Brown Noise of Autumn](https://open.spotify.com/track/100AqXdj8P1efDl4Q9rfrZ) | [Wandering Decibel](https://open.spotify.com/artist/5xmx9PoyVfm1ECDJwPlvUm) | [Brown Noise of Autumn](https://open.spotify.com/album/4TS1k3kDVGRGaosv0IR8Af) | 2:31 | 2022-12-16 | 2023-03-10 |
 | [Brown Noise Relaxation](https://open.spotify.com/track/7B2NN0WqqfO2qypdg1ygss) | [Noi Ses](https://open.spotify.com/artist/5t2BU9eY0SVexUnLcOZGXH) | [Steady Brown Noise](https://open.spotify.com/album/5ovoVmC46xmJ7mjb4PN0a1) | 3:17 | 2023-10-26 |  |
 | [Brown Noise Relaxation](https://open.spotify.com/track/6LGqTES8rFuDHbn0y40iGX) | [The Sleep Phasers](https://open.spotify.com/artist/0Hsi1ogeO5MpghqgXtuh9L) | [Brown Noise Relaxation](https://open.spotify.com/album/03sa3kRpeh8gyYEmThUstR) | 3:43 | 2022-02-03 | 2023-10-27 |
+| [Brown Noise Relief](https://open.spotify.com/track/7drH3S1l0MqDm2UVMk9tdX) | [Dream Fuzz](https://open.spotify.com/artist/5g15r7gI0JATorLiQduRkF) | [Brown Noise Relief](https://open.spotify.com/album/5EhrB9ltapNNJaYBgShoql) | 5:45 | 2024-07-26 |  |
 | [Brown Noise REM](https://open.spotify.com/track/6i0UjMkl7g9TcP7cLGyMND) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Brown Noise Deep Sleep](https://open.spotify.com/album/1TVk7P9fQqEmHbUlDkyvWj) | 3:00 | 2022-01-07 |  |
 | [Brown Noise Reset](https://open.spotify.com/track/3NjMDNACAHB65c8iUkqbPX) | [Holuka](https://open.spotify.com/artist/2vhp6YYXzpAZKMTJ7Gor9u) | [Brown Noise Reset](https://open.spotify.com/album/6NIrthzAWxcgy1mYV3DQE4) | 4:58 | 2024-07-26 |  |
 | [Brown Noise Rest](https://open.spotify.com/track/0MK7bo0qZ5f26yF8P7qfxr) | [Fix Torn](https://open.spotify.com/artist/1ocPUhME4QG6jautAL8Opl) | [Subtraction of Sound](https://open.spotify.com/album/1uEigkCG7CkDhyf1xGxibC) | 3:00 | 2022-01-07 | 2023-01-21 |
@@ -334,7 +335,7 @@
 | [Ruido Meditativo](https://open.spotify.com/track/2RgRInLV5rO74Wb1a3QbWK) | [Secuencialidad](https://open.spotify.com/artist/7hbqab6ona7RgcCsBsHDob) | [Ruido Meditativo](https://open.spotify.com/album/5vVUDuXwQEblnkNWjDGZKK) | 2:29 | 2022-01-07 | 2023-01-21 |
 | [Sandman's Brown Noise](https://open.spotify.com/track/0LV04oOWUzFDsiH5KM1c79) | [Marion Marrón](https://open.spotify.com/artist/1vqu8syPI7SLsn6bJasrbO) | [Brown For Insomniacs](https://open.spotify.com/album/0qIRn3o3TwTFaekTi3EL2Z) | 3:21 | 2022-12-16 |  |
 | [Sands \(Noise\)](https://open.spotify.com/track/1MmbW93FfYeMBcWp8eBkBy) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Brown Noise Hz](https://open.spotify.com/album/5Eh7GZpQT9dfjyMz4NUdvk) | 3:18 | 2022-09-08 |  |
-| [Serene Brown Noise](https://open.spotify.com/track/6OHrJYCOYPR1PgISZvXOtK) | [Binaural Feels](https://open.spotify.com/artist/2bKTmGzvL5O7dxNlapbAoQ) | [Sounds of Brown](https://open.spotify.com/album/5TVRsAW8oly4Laks8kyvcc) | 2:57 | 2024-07-26 |  |
+| [Serene Brown Noise](https://open.spotify.com/track/6OHrJYCOYPR1PgISZvXOtK) | [Binaural Feels](https://open.spotify.com/artist/2bKTmGzvL5O7dxNlapbAoQ) | [Sounds of Brown](https://open.spotify.com/album/5TVRsAW8oly4Laks8kyvcc) | 2:57 | 2024-07-26 | 2024-07-30 |
 | [Serene Brown Noise](https://open.spotify.com/track/0jEUCSQCeZ4Mexcg4pZtdi) | [Noise Advisor](https://open.spotify.com/artist/28Xwzrz7nVTqirstVfbxF1) | [Serene Brown Noise](https://open.spotify.com/album/1LtpxFvsxgvd3kOUkUyjrn) | 2:32 | 2024-07-26 |  |
 | [Sleep Ambient Brown Noise](https://open.spotify.com/track/6r7YXtEES9ljlIVe7yM8cY) | [Arx](https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI) | [Sleep Ambient Brown Noise](https://open.spotify.com/album/5rzrTfIsPGRKhbABABV9kT) | 2:44 | 2022-07-29 | 2023-10-27 |
 | [Sleep Better Brown Noise](https://open.spotify.com/track/08IV7uYBSSj1gauyO1Agvl) | [The Brownian Sleepers](https://open.spotify.com/artist/0knYqGnaAzMnPYgvzubyNN) | [Sleep Better Brown Noise](https://open.spotify.com/album/7fchdO4BkCHIpCbM15VNfX) | 4:43 | 2024-07-26 |  |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 145631,
+  "description": "This Is Maverick City Music. Los temas esenciales, todos en una lista.",
+  "num_followers": 145659,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAADHsCxF17bZT0Fi+eZzrIZw",
+  "snapshot_id": "ZqWKAAAAAADjFIeM7aG+/lFvrgZODCP1",
   "tracks": [
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Majesty Rose",
+          "url": "https://open.spotify.com/artist/02EQJ0mRKStgr0uN1qBfYz"
+        }
+      ],
+      "duration_ms": 629316,
+      "name": "You Keep on Getting Better (feat. Majesty Rose)",
+      "url": "https://open.spotify.com/track/3Y4aH6l6mGwnlu6fQm80b4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Simple Adoraci\u00f3n",
         "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 469125,
       "name": "Yeshua (feat. Karen Espinosa & Johnny Pe\u00f1a)",
       "url": "https://open.spotify.com/track/2RwWBMeU9g4KaOHxQchJ4e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maverick City, Vol. 2",
-        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Majesty Rose",
-          "url": "https://open.spotify.com/artist/02EQJ0mRKStgr0uN1qBfYz"
-        }
-      ],
-      "duration_ms": 629316,
-      "name": "You Keep on Getting Better (feat. Majesty Rose)",
-      "url": "https://open.spotify.com/track/3Y4aH6l6mGwnlu6fQm80b4"
     },
     {
       "added_at": null,
@@ -943,6 +943,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 563067,
+      "name": "Take Me Back (feat. Dante Bowe)",
+      "url": "https://open.spotify.com/track/0qsEmBu3AYhf5JuLjDHGe7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fridayy",
         "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 231161,
       "name": "Came Too Far (feat. Maverick City Music & My Mom)",
       "url": "https://open.spotify.com/track/6VoWKlXpOTx56gHkSHOeZP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maverick City, Vol. 2",
-        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        }
-      ],
-      "duration_ms": 563067,
-      "name": "Take Me Back (feat. Dante Bowe)",
-      "url": "https://open.spotify.com/track/0qsEmBu3AYhf5JuLjDHGe7"
     },
     {
       "added_at": null,
@@ -1039,30 +1039,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 449446,
-      "name": "Thank You (feat. Steffany Gretzinger & Chandler Moore)",
-      "url": "https://open.spotify.com/track/0tI27jZrVAIKhpT5koEU7V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jubilee: Juneteenth Edition",
         "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
       },
@@ -1087,6 +1063,30 @@
       "duration_ms": 360451,
       "name": "Jireh (feat. Mav City Gospel Choir)",
       "url": "https://open.spotify.com/track/2MYjytJWL1cXiv3jWvCqzZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 449446,
+      "name": "Thank You (feat. Steffany Gretzinger & Chandler Moore)",
+      "url": "https://open.spotify.com/track/0tI27jZrVAIKhpT5koEU7V"
     },
     {
       "added_at": null,
@@ -1211,6 +1211,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maverick City, Vol. 1",
+        "url": "https://open.spotify.com/album/02rSTsnEzWJOg6yA3cVijt"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Alton Eugene",
+          "url": "https://open.spotify.com/artist/2wh1cj2CyHkIgAi0DR7ki6"
+        }
+      ],
+      "duration_ms": 139593,
+      "name": "Doxology (feat. Alton Eugene)",
+      "url": "https://open.spotify.com/track/1e7vIWOyyck23niJBxhdpa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jubilee: Juneteenth Edition",
         "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 375634,
       "name": "Mighty One (feat. Todd Dulaney, Maryanne J. George & Mav City Gospel Choir)",
       "url": "https://open.spotify.com/track/1Ige5heWT74ObjEsIwlJCK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maverick City, Vol. 1",
-        "url": "https://open.spotify.com/album/02rSTsnEzWJOg6yA3cVijt"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Alton Eugene",
-          "url": "https://open.spotify.com/artist/2wh1cj2CyHkIgAi0DR7ki6"
-        }
-      ],
-      "duration_ms": 139593,
-      "name": "Doxology (feat. Alton Eugene)",
-      "url": "https://open.spotify.com/track/1e7vIWOyyck23niJBxhdpa"
     }
   ],
   "unique_name": "This Is Maverick City Music",

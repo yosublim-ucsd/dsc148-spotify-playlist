@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-746 songs - 1 day 20 hr 51 min
+747 songs - 1 day 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,8 +199,9 @@
 | [Edition](https://open.spotify.com/track/1wz7B02oOtrTW6SNLG0cSk) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Edition](https://open.spotify.com/album/6Do68lYD1UfOmeBYtsxF18) | 1:55 | 2020-12-21 | 2022-10-13 |
 | [El Oeste](https://open.spotify.com/track/30BKRAZnvByOJWEcYU0L1j) | [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD) | [Fin](https://open.spotify.com/album/4MeSw9nbALgbtx13UrwBXm) | 3:01 | 2023-05-25 | 2023-11-18 |
 | [Eleven Weeks](https://open.spotify.com/track/6eFV4CnBrdsYlF4s1wdqG0) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [The Rolling, Driftless North](https://open.spotify.com/album/2yd3o0yEzCGy1p5XhGpeUS) | 3:05 | 2020-12-21 | 2022-04-20 |
-| [Ellipsis](https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Ellipsis](https://open.spotify.com/album/7FPlu6MQygZTSaOW6TGXVd) | 3:21 | 2024-02-16 |  |
+| [Ellipsis](https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Ellipsis](https://open.spotify.com/album/7FPlu6MQygZTSaOW6TGXVd) | 3:21 | 2024-02-16 | 2024-07-30 |
 | [Ellipsis](https://open.spotify.com/track/3MaBdTM6hLwb4n280HJaia) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [GRIP](https://open.spotify.com/album/6yQiAySk0ELR4cjDCgSqtY) | 3:21 | 2024-02-16 | 2024-04-19 |
+| [Emotions](https://open.spotify.com/track/0uMd9pp22GoCf6i1r60lxA) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Like A Ribbon](https://open.spotify.com/album/7zEIMfEjyBreLK9TfrkwBC) | 3:24 | 2024-07-29 |  |
 | [EMPATHY 4 BETHANY](https://open.spotify.com/track/4weLEH5Wv8cW7eoRrhkVTF) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [19 MASTERS](https://open.spotify.com/album/71XSXeqU8507mW0raHyeUN) | 4:54 | 2023-10-17 | 2023-11-18 |
 | [Empire Ants \(feat\. Little Dragon\)](https://open.spotify.com/track/3a6PN6BRB8PP3ms48s7kU1) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 4:43 | 2023-04-25 | 2023-10-24 |
 | [Entertainment](https://open.spotify.com/track/3fzvBbbXUdkqNca8NJe8bb) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [New Hell](https://open.spotify.com/album/5JBsSxsPoJgyccGXQTPja3) | 3:58 | 2022-07-20 | 2022-07-29 |

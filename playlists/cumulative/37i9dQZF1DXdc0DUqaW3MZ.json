@@ -4488,7 +4488,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 241475,
       "name": "Let Me Know - The Cypher",
       "url": "https://open.spotify.com/track/3yra5xBw7oHIU1hqDisA7j"
@@ -6464,6 +6464,28 @@
       "duration_ms": 285093,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh"
+    },
+    {
+      "album": {
+        "name": "Shaken To My Soul (feat. Ruti)",
+        "url": "https://open.spotify.com/album/1fTzvmo6yNAAvvHxt77t4L"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "Ruti",
+          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211208,
+      "name": "Shaken To My Soul (feat. Ruti)",
+      "url": "https://open.spotify.com/track/4R6zTX10cS2t8CLIhDkolC"
     },
     {
       "album": {

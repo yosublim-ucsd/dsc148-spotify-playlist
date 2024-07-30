@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 18577,
+  "num_followers": 18606,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAAD16qzselq2CcgWtRNWy9pK",
+  "snapshot_id": "ZqWKAAAAAABBswUUxASuU7pwcPVL3W1u",
   "tracks": [
     {
       "added_at": null,
@@ -683,6 +683,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/1rRGUmICffgc41b0BRj0kC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Niki Pooh",
+          "url": "https://open.spotify.com/artist/3hG09J3PPVnHvslivvE3GX"
+        }
+      ],
+      "duration_ms": 155193,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/6dzhoFsAUAbTAeJgL7gMaG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gangsta Art 2",
         "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 211006,
       "name": "Cha Cha Cha (GloRilla, Fivio Foreign)",
       "url": "https://open.spotify.com/track/7KNccGSE8lwRn9Gu0BY8Q6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/1rRGUmICffgc41b0BRj0kC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Niki Pooh",
-          "url": "https://open.spotify.com/artist/3hG09J3PPVnHvslivvE3GX"
-        }
-      ],
-      "duration_ms": 155193,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/6dzhoFsAUAbTAeJgL7gMaG"
     },
     {
       "added_at": null,

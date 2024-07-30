@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Ceza
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,359,867 likes - 49 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,360,092 likes - 49 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Varsan Varım](https://open.spotify.com/track/5kgwIvCuGTUnSTyDt5GNkQ) | [Ceza](https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI) | [Yatay Zeka](https://open.spotify.com/album/3n9eVQFhQrVrtgXlMkPW6Z) | 3:04 |
-| 2 | [ESC\*BAR](https://open.spotify.com/track/6kWF1fWqA2ZuWn70TQvtmQ) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [ESC\*BAR](https://open.spotify.com/album/2tTgc2Nt5VOExrRYybuZuI) | 2:16 |
-| 3 | [Kadehimi Boş Bırakma](https://open.spotify.com/track/7zrEhhtVuB0JpOeCgL5Tsr) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kadehimi Boş Bırakma](https://open.spotify.com/album/2wPU4kY5iynxmyqEC1sKZH) | 2:26 |
+| 1 | [Kadehimi Boş Bırakma](https://open.spotify.com/track/7zrEhhtVuB0JpOeCgL5Tsr) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kadehimi Boş Bırakma](https://open.spotify.com/album/2wPU4kY5iynxmyqEC1sKZH) | 2:26 |
+| 2 | [Varsan Varım](https://open.spotify.com/track/5kgwIvCuGTUnSTyDt5GNkQ) | [Ceza](https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI) | [Yatay Zeka](https://open.spotify.com/album/3n9eVQFhQrVrtgXlMkPW6Z) | 3:04 |
+| 3 | [ESC\*BAR](https://open.spotify.com/track/6kWF1fWqA2ZuWn70TQvtmQ) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [ESC\*BAR](https://open.spotify.com/album/2tTgc2Nt5VOExrRYybuZuI) | 2:16 |
 | 4 | [behzat ç](https://open.spotify.com/track/5OSGbpKvvi0iAJg6XHUois) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [behzat ç](https://open.spotify.com/album/0eW0R6w0rIoP3B0kJE1HDW) | 2:06 |
 | 5 | [SEVGİ](https://open.spotify.com/track/71WZZITUdeaSrO64IEvTpB) | [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [SEVGİ](https://open.spotify.com/album/6V4Lw81mboujvK3S7hJvou) | 2:10 |
 | 6 | [Değişmene Rağmen](https://open.spotify.com/track/4myGkZkVBRhBgD43CJxKTp) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Değişmene Rağmen](https://open.spotify.com/album/3hWHNYRxeve7LZzwW4i3dz) | 3:05 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 48 | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/track/2Id54XtcFLHSe0JNfHR45k) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/album/2ZFXkkMjgyGVVWC7UaBZpk) | 2:21 |
 | 49 | [GANG](https://open.spotify.com/track/4xMDN8uwikMBJrmJc9dqG3) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [GANG](https://open.spotify.com/album/0yUTCkMIdMG5Tx9QRah2GR) | 3:10 |
 
-Snapshot ID: `ZqOzYAAAAAAvSUgwns4HbzhEwaxdcE2m`
+Snapshot ID: `ZqdZPAAAAADDlV73L3LCVEze9rwqDDNL`

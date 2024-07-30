@@ -1484,7 +1484,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 138744,
       "name": "Andkondang Agutta",
       "url": "https://open.spotify.com/track/4CaicpU9DNpOQaauNMCwbk"
@@ -7916,7 +7916,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 215764,
       "name": "Elli Hode Nee (From \"Ramana Avatara\")",
       "url": "https://open.spotify.com/track/0XTj9jLyV9ybEhHvppq4ph"
@@ -10588,6 +10588,32 @@
       "duration_ms": 175000,
       "name": "Hello Hello - From \"Chef Chidambara\"",
       "url": "https://open.spotify.com/track/13749eZqeDXUtqjXi3H9Ec"
+    },
+    {
+      "album": {
+        "name": "Helu Gelathi (From \"Ibbani Tabbida Ileyali\")",
+        "url": "https://open.spotify.com/album/6cqIuYdUZjCkaN9jYOlfR1"
+      },
+      "artists": [
+        {
+          "name": "Charan Raj",
+          "url": "https://open.spotify.com/artist/1ouBpMzbHI9hMAdqZwIheV"
+        },
+        {
+          "name": "Gagan Baderiya",
+          "url": "https://open.spotify.com/artist/0288VNkaL5hm0SBDGEv5uq"
+        },
+        {
+          "name": "Nagarjun Sharma",
+          "url": "https://open.spotify.com/artist/6y0fX1VsvikMf62did3WY1"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236400,
+      "name": "Helu Gelathi (From \"Ibbani Tabbida Ileyali\")",
+      "url": "https://open.spotify.com/track/20TE5yIQQXnxp3qxTh1SwM"
     },
     {
       "album": {
@@ -15276,6 +15302,28 @@
       "duration_ms": 160615,
       "name": "Kuva Kuva Kuvale - From \"Matsyagandha\"",
       "url": "https://open.spotify.com/track/0fKmcurfYYGRGGc3WEMes2"
+    },
+    {
+      "album": {
+        "name": "Kya Lafda (From \"Double ISMART\")(Kannada)",
+        "url": "https://open.spotify.com/album/6EnM5ib8KvpQdRfrPpJ5lc"
+      },
+      "artists": [
+        {
+          "name": "Chethan Kumar",
+          "url": "https://open.spotify.com/artist/3zMAaXwoMBtxeIzUQjiXcy"
+        },
+        {
+          "name": "Meghana Joshi",
+          "url": "https://open.spotify.com/artist/3XM4lz5T2oLAI5Bu95TGhv"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271470,
+      "name": "Kya Lafda (From \"Double ISMART\")(Kannada)",
+      "url": "https://open.spotify.com/track/65YhQjihIAsP1lqRPN2JCY"
     },
     {
       "album": {

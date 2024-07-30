@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 259691,
+  "num_followers": 259687,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Teenage Dream: The Complete Confection",
-        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 259040,
-      "name": "The One That Got Away - Acoustic",
-      "url": "https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 232837,
       "name": "when the party's over - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 259040,
+      "name": "The One That Got Away - Acoustic",
+      "url": "https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -383,18 +383,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Mande um Sinal (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7w8J7YQ0NGigyOIIP8fEjq"
+        "name": "Arcade (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3xiJB41twLQIbwMmv6N9Jz"
       },
       "artists": [
         {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
         }
       ],
-      "duration_ms": 238374,
-      "name": "Mande um Sinal - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3YlRl5CQICgg17tb6rIXXB"
+      "duration_ms": 199237,
+      "name": "Arcade - Acoustic Version",
+      "url": "https://open.spotify.com/track/5e5XSjfqBk4mgRnQR1vu8Z"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Arcade (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3xiJB41twLQIbwMmv6N9Jz"
+        "name": "Mande um Sinal (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7w8J7YQ0NGigyOIIP8fEjq"
       },
       "artists": [
         {
-          "name": "Duncan Laurence",
-          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 199237,
-      "name": "Arcade - Acoustic Version",
-      "url": "https://open.spotify.com/track/5e5XSjfqBk4mgRnQR1vu8Z"
+      "duration_ms": 238374,
+      "name": "Mande um Sinal - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3YlRl5CQICgg17tb6rIXXB"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/6LKflEUxLnl1whADVUb8cf"
+      },
+      "artists": [
+        {
+          "name": "Echosmith",
+          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+        }
+      ],
+      "duration_ms": 201745,
+      "name": "Cool Kids - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/2p6PmhAtI3WkAOGDbnJp19"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Maia Sessions",
         "url": "https://open.spotify.com/album/3024KSsAnstAOJNtGL85OS"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 137960,
       "name": "Cigana (Maia Sessions)",
       "url": "https://open.spotify.com/track/4dzw5gijTCD6kQNLJP3fQH"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/6LKflEUxLnl1whADVUb8cf"
-      },
-      "artists": [
-        {
-          "name": "Echosmith",
-          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
-        }
-      ],
-      "duration_ms": 201745,
-      "name": "Cool Kids - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/2p6PmhAtI3WkAOGDbnJp19"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 167907,
-      "name": "bad guy - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Made You Look (feat. Sri, Scott Hoying, Elyse Myers & Chris Olsen) [A Cappella]",
         "url": "https://open.spotify.com/album/2TsPwV3jf75zXaP2Y1Z7Ye"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 132727,
       "name": "Made You Look (feat. Sri, Scott Hoying, Elyse Myers & Chris Olsen) - A Cappella",
       "url": "https://open.spotify.com/track/4MHrJOgMvqykhcRtYNWiZQ"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 167907,
+      "name": "bad guy - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Blame It On Me (Acoustic)",
-        "url": "https://open.spotify.com/album/4pEVbYbcShKz1w7L1uSmLd"
-      },
-      "artists": [
-        {
-          "name": "Melanie C",
-          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
-        }
-      ],
-      "duration_ms": 191986,
-      "name": "Blame It On Me - Acoustic",
-      "url": "https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Ac\u00fastico Ana Gabriela",
         "url": "https://open.spotify.com/album/2iDfAGGJidhV0bKMpFpLzn"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 175583,
       "name": "Ta\u00e7a De Vidro - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2Z8UD0wNevn16bEClkD6ae"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Blame It On Me (Acoustic)",
+        "url": "https://open.spotify.com/album/4pEVbYbcShKz1w7L1uSmLd"
+      },
+      "artists": [
+        {
+          "name": "Melanie C",
+          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "Blame It On Me - Acoustic",
+      "url": "https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7"
     },
     {
       "added_at": "2024-07-12 03:00:00",

@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-434 songs - 18 hr 26 min
+435 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Beauty](https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx) | [Jon Cossack](https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6) | [Beauty](https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5) | 2:19 | 2023-11-07 |  |
 | [Beauty Of You](https://open.spotify.com/track/6zkZvCIEpgUUgCz7qSK3Nc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Beauty Of You](https://open.spotify.com/album/0Od2qq1KiShZ1Px1Rkka3x) | 2:16 | 2022-04-04 |  |
 | [Beckoning](https://open.spotify.com/track/3H1OE9Zplf6jwb9tjMAXFT) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Beckoning](https://open.spotify.com/album/52s8Slpn2zsl7L7SoASh5a) | 2:00 | 2023-11-07 |  |
-| [Before Dawn](https://open.spotify.com/track/42mnMZ6db1BFIzrW89JpoU) | [Shaunta Coburn](https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX) | [Before Dawn](https://open.spotify.com/album/4v89u5szEzd1HZbltZ8KPq) | 2:17 | 2022-04-04 |  |
+| [Before Dawn](https://open.spotify.com/track/42mnMZ6db1BFIzrW89JpoU) | [Shaunta Coburn](https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX) | [Before Dawn](https://open.spotify.com/album/4v89u5szEzd1HZbltZ8KPq) | 2:17 | 2022-04-04 | 2024-07-30 |
 | [Before You Leave](https://open.spotify.com/track/5r4tOJk4xR3J4SQS52GO4l) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [Before You Leave](https://open.spotify.com/album/59XlugrAgS9ZEQ8UsZ5zPd) | 2:08 | 2024-03-04 |  |
 | [Before your eyes](https://open.spotify.com/track/4xugZez7zpHFNTgkf0DLV1) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Before your eyes](https://open.spotify.com/album/0o9d8yy6sU4pkrwu06Y84t) | 3:00 | 2022-04-04 |  |
 | [Behind an Ethereal Veil](https://open.spotify.com/track/0TdAAwbQJyQKBdiDQBY5xa) | [Augustino](https://open.spotify.com/artist/2hl8fayyJZBI8s07wgRbhC) | [Behind An Ethereal Veil](https://open.spotify.com/album/5dMXMcck2Dn1fRchPDD9M0) | 2:24 | 2024-02-14 |  |
@@ -289,6 +289,7 @@
 | [Qui vivra verra](https://open.spotify.com/track/2jOawh03Qd5vi7sFRsvXRd) | [Michael Brogadaccio](https://open.spotify.com/artist/6ZqnKTqzs5B9g2K68OCKVo) | [Qui vivra verra](https://open.spotify.com/album/6950UP041DVdTcDYmBOhKd) | 2:13 | 2022-04-04 | 2022-07-08 |
 | [Quiet Nights](https://open.spotify.com/track/4mHCaIQknzBBYYijiJsIOx) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Quiet Nights](https://open.spotify.com/album/5q5iEqsyefKYEfu6W9Xc3E) | 2:11 | 2024-05-07 |  |
 | [Quieta](https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY) | [Gioia Moreschi](https://open.spotify.com/artist/1of4wsX19bjyw0CH1g5miH) | [Quieta](https://open.spotify.com/album/6qtAC4ioQYFYJdrcmEahQk) | 2:43 | 2022-04-04 | 2022-11-19 |
+| [Raining Stars](https://open.spotify.com/track/3KGGxiUIIsoiGLmSKCu0RS) | [Tristaan Wilkes](https://open.spotify.com/artist/4awKyidTqtd5z49BGOLvck) | [Raining Stars](https://open.spotify.com/album/365qk1heQP6e6IGmaZycSe) | 2:39 | 2024-07-29 |  |
 | [Ray](https://open.spotify.com/track/2DGFV4U3tPuoTq0vTRfYja) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Ray](https://open.spotify.com/album/47ce8yosa7ZuuLDpQfzGtp) | 2:10 | 2024-04-09 |  |
 | [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 | 2022-04-04 | 2024-03-26 |
 | [Red Roses](https://open.spotify.com/track/5CF6kdYN9s5x3Zps5hHPDZ) | [Anderson Rivers](https://open.spotify.com/artist/7986zAExINQv5pQz94fBc3) | [Red Roses](https://open.spotify.com/album/4ahdVWqHe9HBFjoBfq5w9O) | 1:54 | 2022-04-04 | 2023-07-19 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 231917,
+  "description": "This Is Cultura Prof\u00e9tica. Los temas esenciales, todos en una lista.",
+  "num_followers": 231949,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAABuDtvJB37pm7kUodIa9JaJ",
+  "snapshot_id": "ZqWKAAAAAABkbR8acuOafZRSymb6Z76i",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Momento",
-        "url": "https://open.spotify.com/album/6JUteqYW61MphFHmJe5AAU"
+        "name": "Ll\u00e9vame (Cultura Remix)",
+        "url": "https://open.spotify.com/album/4Mh08dkc99DlRwpSu1Rkzy"
       },
       "artists": [
         {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
-        {
           "name": "Cultura Prof\u00e9tica",
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
         }
       ],
-      "duration_ms": 235466,
-      "name": "S\u00f3lo Por Ti",
-      "url": "https://open.spotify.com/track/58ujE3lNtea4uCKJ05gUvg"
+      "duration_ms": 264913,
+      "name": "Ll\u00e9vame",
+      "url": "https://open.spotify.com/track/30WCJ59jYKihaG8kgYEO9S"
     },
     {
       "added_at": null,
@@ -167,22 +167,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ll\u00e9vame (Cultura Remix)",
-        "url": "https://open.spotify.com/album/4Mh08dkc99DlRwpSu1Rkzy"
+        "name": "El Momento",
+        "url": "https://open.spotify.com/album/6JUteqYW61MphFHmJe5AAU"
       },
       "artists": [
         {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
         },
         {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 264913,
-      "name": "Ll\u00e9vame",
-      "url": "https://open.spotify.com/track/30WCJ59jYKihaG8kgYEO9S"
+      "duration_ms": 235466,
+      "name": "S\u00f3lo Por Ti",
+      "url": "https://open.spotify.com/track/58ujE3lNtea4uCKJ05gUvg"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 133933,
-      "name": "La Otra Galaxia",
-      "url": "https://open.spotify.com/track/0MHaoEf98Uug7ft75wnsBV"
+      "duration_ms": 382920,
+      "name": "Ley Natural",
+      "url": "https://open.spotify.com/track/2FthRSpEy044BM8QkoqeeP"
     },
     {
       "added_at": null,
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 382920,
-      "name": "Ley Natural",
-      "url": "https://open.spotify.com/track/2FthRSpEy044BM8QkoqeeP"
+      "duration_ms": 133933,
+      "name": "La Otra Galaxia",
+      "url": "https://open.spotify.com/track/0MHaoEf98Uug7ft75wnsBV"
     },
     {
       "added_at": null,

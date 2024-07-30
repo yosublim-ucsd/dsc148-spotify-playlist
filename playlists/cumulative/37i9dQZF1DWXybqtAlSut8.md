@@ -4,7 +4,7 @@
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-51 songs - 2 hr 10 min
+53 songs - 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Fairest Lord Jesus](https://open.spotify.com/track/1rOWamPOJM0pJ1SZPXq7xm) | [Eternal Hands](https://open.spotify.com/artist/16eZQHN2Px0yh5pdPsEGvz) | [O Come, All Ye Faithful](https://open.spotify.com/album/6jAZnvcbyBJPHmpbxr4wGg) | 2:02 | 2024-03-20 |  |
 | [Fairest Lord Jesus \- Piano](https://open.spotify.com/track/5XzTcPoLEngIVNZ8mYUyey) | [Light His Way](https://open.spotify.com/artist/2fRpXEF0tpwUBty1zyXDP7) | [Hymns of the Holy Spirit \(Piano\)](https://open.spotify.com/album/6tvScm6wNrLImnxjcuWeSv) | 2:15 | 2024-03-20 |  |
 | [For The Beauty of the Earth \- Piano](https://open.spotify.com/track/4WMETuvkdHcHhE8w3nS7Cf) | [Wondrous Worship](https://open.spotify.com/artist/4ftWSzVbWsUMNak5sVUBMp) | [Jesus Paid It All \(Piano\)](https://open.spotify.com/album/0B6AxwBwpZUm7Bo3KlYCl8) | 2:33 | 2024-03-20 |  |
+| [Grace](https://open.spotify.com/track/50w8pfoszKBDcYYEOmgTEI) | [Jngeis](https://open.spotify.com/artist/1X5nuNY0Ht6Yt2xaya4ZQE) | [Grace](https://open.spotify.com/album/2E5IEkEnaAH1oqCl4S0I5U) | 2:18 | 2024-07-29 |  |
 | [Great Is Thy Faithfulness \- Piano](https://open.spotify.com/track/3hEKZyuIDnGt7ms7o7jjp9) | [Tranquil Devotion](https://open.spotify.com/artist/4xzY7ryoLAbEBbKRAGTfjR) | [How Great Is He \(Piano\)](https://open.spotify.com/album/03MTLAQqwFFdfj0LeTRUkT) | 2:03 | 2024-03-20 |  |
 | [Holy Holy Holy](https://open.spotify.com/track/1IO1YHZ8ZqlkX3HOCcduyH) | [Everlasting Harmony](https://open.spotify.com/artist/1cImd7ASALUaW3myp7bcAx) | ['Tis So Sweet To Trust In Jesus](https://open.spotify.com/album/2q0nCyvwCrqlKhj5PK2JG4) | 2:08 | 2024-03-20 |  |
 | [I Need Thee Every Hour \- Piano](https://open.spotify.com/track/5bN7njfcG2B2WvtcD27Qqh) | [Tranquil Devotion](https://open.spotify.com/artist/4xzY7ryoLAbEBbKRAGTfjR) | [Hymns of the Lord](https://open.spotify.com/album/1ku5bURxOqNFicICMmdN74) | 2:32 | 2024-03-20 |  |
@@ -44,6 +45,7 @@
 | [Pass Me Not, O Gentle Savior \- Piano](https://open.spotify.com/track/5i8g9ufImKIKSr3I4cCMBR) | [Faithful Horizon](https://open.spotify.com/artist/2kl2iJXfU234FdA96LCCIM) | [Gentle Hymns of Faith \(Piano\)](https://open.spotify.com/album/3iFIcO1GgxdNfk1dJ90yL9) | 2:11 | 2024-03-20 |  |
 | [Praise To The Lord, The Almighty](https://open.spotify.com/track/2aaiMvGut1gJP1fItIQp3s) | [Theordor Wessman](https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA) | [I Surrender All](https://open.spotify.com/album/4bjGbFrwdlWRcb17Lw1NH2) | 1:58 | 2024-03-20 |  |
 | [Sacred Unity](https://open.spotify.com/track/5ULYEIyEMypK1mi59G24z9) | [Florentin Davies](https://open.spotify.com/artist/5W982ShqwBuQZHoATVqi4q) | [In Your Arms](https://open.spotify.com/album/1AsBBN2QlpNWAk8FAWlFNf) | 2:48 | 2024-03-20 |  |
+| [Safe In The Arms of Jesus \- Piano Version](https://open.spotify.com/track/6yXZXfLp3mEA7MLQRyRjYQ) | [Wondrous Worship](https://open.spotify.com/artist/4ftWSzVbWsUMNak5sVUBMp) | [Safe In The Arms of Jesus \(Piano Version\)](https://open.spotify.com/album/7JjMspZHyX69IibaP6ew4H) | 2:21 | 2024-07-29 |  |
 | [Sincere Heart](https://open.spotify.com/track/6vs7bonURAjZbMdwLXlXba) | [StarGlow Piano](https://open.spotify.com/artist/1sz6Bax1SkchADSoQgsRRk) | [Transparency](https://open.spotify.com/album/2hk8tL9JUR1EOAL3QAyE6N) | 1:43 | 2024-03-20 |  |
 | [Soul's Redemption](https://open.spotify.com/track/5Q4WUxCSiJekOvyxzWmwP8) | [White As Snow](https://open.spotify.com/artist/5otJxMCBM9yIiI6U7PlqpB) | [The Road Less Traveled](https://open.spotify.com/album/70QMdaLFK8Sj37QhPLeBxE) | 1:12 | 2024-03-20 |  |
 | [Sweet Hour Of Prayer](https://open.spotify.com/track/0kxftcnP8dnDJmU38gG5dc) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Sweet Hour Of Prayer](https://open.spotify.com/album/4wD93qlTwPBFDhtMC0DOY1) | 3:26 | 2024-03-20 |  |

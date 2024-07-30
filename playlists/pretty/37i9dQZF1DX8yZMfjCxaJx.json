@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. La Adictiva y El Fantasma en portada.",
-  "num_followers": 223863,
+  "num_followers": 223939,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Backpack",
-      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
         "name": "La Capi",
         "url": "https://open.spotify.com/album/55pTCyi6i0JmvmiIA1yGl2"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 189075,
       "name": "La Capi",
       "url": "https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Backpack",
+      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "Punto Y Aparte",
-        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 189149,
-      "name": "Seraf\u00edn",
-      "url": "https://open.spotify.com/track/7s9pcSenofBwaNfI0vjisP"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
         "name": "Los Cheetos",
         "url": "https://open.spotify.com/album/0VHXUvSjtDKV7b07JMDgCp"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 205525,
       "name": "Los Cheetos",
       "url": "https://open.spotify.com/track/4uPbjb2byXsOAh2a1KaaAU"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "De Buena Cepa",
+        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "Ismael Pa\u2019 Servirle",
+      "url": "https://open.spotify.com/track/1c1R6tiqHwigD1Ga5NmxRc"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1199,6 +1199,22 @@
       "duration_ms": 161733,
       "name": "El Mago Merl\u00edn",
       "url": "https://open.spotify.com/track/4dbH1Md7KseiHuzWAyE3Y3"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "El Muletas",
+        "url": "https://open.spotify.com/album/5YT6xi1UEcpYh07FRQc3Q5"
+      },
+      "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "duration_ms": 216575,
+      "name": "El Muletas",
+      "url": "https://open.spotify.com/track/1K1Y3NUDZulng4vgoRR6hE"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1239,8 +1255,8 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "De Buena Cepa",
-        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
+        "name": "Punto Y Aparte",
+        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
       },
       "artists": [
         {
@@ -1248,25 +1264,9 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 224693,
-      "name": "Ismael Pa\u2019 Servirle",
-      "url": "https://open.spotify.com/track/1c1R6tiqHwigD1Ga5NmxRc"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "El Muletas",
-        "url": "https://open.spotify.com/album/5YT6xi1UEcpYh07FRQc3Q5"
-      },
-      "artists": [
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        }
-      ],
-      "duration_ms": 216575,
-      "name": "El Muletas",
-      "url": "https://open.spotify.com/track/1K1Y3NUDZulng4vgoRR6hE"
+      "duration_ms": 189149,
+      "name": "Seraf\u00edn",
+      "url": "https://open.spotify.com/track/7s9pcSenofBwaNfI0vjisP"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1287,30 +1287,6 @@
       "duration_ms": 247944,
       "name": "El 7 Tito Beltr\u00e1n",
       "url": "https://open.spotify.com/track/3ja3iKYBSQmwa20EYJym8D"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "La Revancha (En Vivo)",
-        "url": "https://open.spotify.com/album/0UNQNIZZhS7dlLGhEvPCUD"
-      },
-      "artists": [
-        {
-          "name": "Noel Torres",
-          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
-        },
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        },
-        {
-          "name": "Banda la \u00danica del Rancho",
-          "url": "https://open.spotify.com/artist/7H2EP5MBxgYqLuqlgQ1bXU"
-        }
-      ],
-      "duration_ms": 182045,
-      "name": "Los Cuartitos (En Vivo)",
-      "url": "https://open.spotify.com/track/73XOOI8jTRXGLlLzequy3M"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1355,6 +1331,30 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
+        "name": "La Revancha (En Vivo)",
+        "url": "https://open.spotify.com/album/0UNQNIZZhS7dlLGhEvPCUD"
+      },
+      "artists": [
+        {
+          "name": "Noel Torres",
+          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Banda la \u00danica del Rancho",
+          "url": "https://open.spotify.com/artist/7H2EP5MBxgYqLuqlgQ1bXU"
+        }
+      ],
+      "duration_ms": 182045,
+      "name": "Los Cuartitos (En Vivo)",
+      "url": "https://open.spotify.com/track/73XOOI8jTRXGLlLzequy3M"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
         "name": "Yo Soy Serafin",
         "url": "https://open.spotify.com/album/6gl5yLhjGsSgZJG0Hu80KM"
       },
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
+        "name": "Punto Y Aparte",
+        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 123013,
+      "name": "Nene Zambada",
+      "url": "https://open.spotify.com/track/3IVFOkEMepCHIAGnUjvWJg"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
         "name": "El Corrido Del MC",
         "url": "https://open.spotify.com/album/2zhxO2yyAg7TPDZJkyvpXo"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 157090,
       "name": "El Corrido Del MC",
       "url": "https://open.spotify.com/track/4yV80LJGxo6LxrTRglFyLJ"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "19x O La Perris",
-        "url": "https://open.spotify.com/album/7JSDY08S3UPzftSpbPOqf9"
-      },
-      "artists": [
-        {
-          "name": "Canelos Jrs",
-          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
-        }
-      ],
-      "duration_ms": 203871,
-      "name": "19x O La Perris",
-      "url": "https://open.spotify.com/track/1aBo1AUqBzv25I5n5nYHHR"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "Punto Y Aparte",
-        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
+        "name": "19x O La Perris",
+        "url": "https://open.spotify.com/album/7JSDY08S3UPzftSpbPOqf9"
       },
       "artists": [
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "Canelos Jrs",
+          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
         }
       ],
-      "duration_ms": 123013,
-      "name": "Nene Zambada",
-      "url": "https://open.spotify.com/track/3IVFOkEMepCHIAGnUjvWJg"
+      "duration_ms": 203871,
+      "name": "19x O La Perris",
+      "url": "https://open.spotify.com/track/1aBo1AUqBzv25I5n5nYHHR"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
+        "name": "Al Gusto de Uno",
+        "url": "https://open.spotify.com/album/1BUH194MsemjacjDtbp8Eg"
+      },
+      "artists": [
+        {
+          "name": "Los Juniors De Mexicali",
+          "url": "https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou"
+        }
+      ],
+      "duration_ms": 174804,
+      "name": "El Guero Reyna",
+      "url": "https://open.spotify.com/track/0QpkBadc9WblLVSAOK1PQP"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
         "name": "La Camisa No Me La Quite",
         "url": "https://open.spotify.com/album/4YPDzE5DcoMYW32Cp3zZFr"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 150189,
       "name": "La Camisa No Me La Quite",
       "url": "https://open.spotify.com/track/0TTnHg9lEMiZ4kqceCiLCP"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
-        "name": "Al Gusto de Uno",
-        "url": "https://open.spotify.com/album/1BUH194MsemjacjDtbp8Eg"
-      },
-      "artists": [
-        {
-          "name": "Los Juniors De Mexicali",
-          "url": "https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou"
-        }
-      ],
-      "duration_ms": 174804,
-      "name": "El Guero Reyna",
-      "url": "https://open.spotify.com/track/0QpkBadc9WblLVSAOK1PQP"
     },
     {
       "added_at": "2024-07-19 06:00:00",

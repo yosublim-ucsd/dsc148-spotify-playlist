@@ -2,7 +2,7 @@
 
 ### [This Is Los Desvelados](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0mRgcJ)
 
-> This Is Los Desvelados\. Los temas esenciales, todos en una lista.
+> This is Los Desvelados\. The essential tracks, all in one playlist.
 
 69 songs - 3 hr 46 min
 
@@ -62,7 +62,7 @@
 | [PISO FIRME](https://open.spotify.com/track/3bPXt1s3Amixv7hy6IE4lg) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 4:08 | 2024-04-07 |  |
 | [Pistas Clandestinas](https://open.spotify.com/track/721gbr72vRMoHmc9GBLt1w) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Edgar Quintero](https://open.spotify.com/artist/0dNujNfEABFYHmE50TIlWr) | [Pistas Clandestinas](https://open.spotify.com/album/3WylmnpOtxGbYQxzLCwbzo) | 2:09 | 2024-03-18 | 2024-04-27 |
 | [Placas De Papel](https://open.spotify.com/track/1uUKCuNemiNcROEVAEn5Qj) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Placas De Papel](https://open.spotify.com/album/6ZjSxw9BKp2GTluFw6v23m) | 3:40 | 2024-01-29 |  |
-| [Porte De Malandro](https://open.spotify.com/track/7dgBR2KWzr3dfLWGVp9q4U) | [La Nueva Leyenda](https://open.spotify.com/artist/3o3A0S0ueru5iFkSKRwxxZ), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Porte De Malandro](https://open.spotify.com/album/3Htm80BddP2bENKnvMcvKx) | 3:46 | 2024-03-28 |  |
+| [Porte De Malandro](https://open.spotify.com/track/7dgBR2KWzr3dfLWGVp9q4U) | [La Nueva Leyenda](https://open.spotify.com/artist/3o3A0S0ueru5iFkSKRwxxZ), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Porte De Malandro](https://open.spotify.com/album/3Htm80BddP2bENKnvMcvKx) | 3:46 | 2024-03-28 | 2024-07-30 |
 | [Quien Es Quien](https://open.spotify.com/track/6LfcpjezozJFYAarlGYTs3) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Los 2 Primos](https://open.spotify.com/artist/2fcdtCvdYIYSNM8ywXHOua) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:31 | 2024-01-29 | 2024-05-22 |
 | [Quien Es Quien](https://open.spotify.com/track/7KXMg5P1prQfS3vtedemX9) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Los Pistones De Uriel Valdez](https://open.spotify.com/artist/7k1FiT4LBe1fIkVSdI8Dmn) | [Quien Es Quien](https://open.spotify.com/album/0BkKVjZfHP0tAI4f7gHd2j) | 3:42 | 2024-05-22 |  |
 | [Recuérdame Bonito](https://open.spotify.com/track/70kH8OQkCgKExAg8oYGI9c) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Recuérdame Bonito](https://open.spotify.com/album/1u9IQOnTKMKXV4LpNqfVy7) | 3:30 | 2024-07-08 |  |
@@ -76,6 +76,6 @@
 | [Ultimamente Tapando Bocas](https://open.spotify.com/track/6CwgGDlKi58MrCf8nsc8vm) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Ultimamente Tapando Bocas](https://open.spotify.com/album/6vOmMRvQqATYGFPCcygZDP) | 4:00 | 2024-01-29 |  |
 | [Uno Nueve](https://open.spotify.com/track/6iAlYAuGyh73zwIj35gula) | [Grupo Elexion](https://open.spotify.com/artist/5JQFHFB2VCcven5RfSH1d7), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Uno Nueve](https://open.spotify.com/album/1EkygNp1Nv1WYx63blh8tg) | 3:36 | 2024-01-29 |  |
 | [Voy Amanecerme](https://open.spotify.com/track/1r3Wdsw2tacwgUIoVNw99T) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 2:18 | 2024-01-29 | 2024-07-27 |
-| [Z.B.Z.A](https://open.spotify.com/track/2JVthiyidDwoWFRccxhfsm) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Z.B.Z.A](https://open.spotify.com/album/0clP6LHJO4iL43VL2C2ocN) | 2:54 | 2024-07-27 | 2024-07-29 |
+| [Z.B.Z.A](https://open.spotify.com/track/2JVthiyidDwoWFRccxhfsm) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Z.B.Z.A](https://open.spotify.com/album/0clP6LHJO4iL43VL2C2ocN) | 2:54 | 2024-07-27 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

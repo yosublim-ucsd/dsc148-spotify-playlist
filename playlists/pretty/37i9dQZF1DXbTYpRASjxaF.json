@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Oklin",
-  "num_followers": 131084,
+  "num_followers": 131079,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,30 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
+        "name": "Nois T\u00e1 Pra Cima",
+        "url": "https://open.spotify.com/album/3maoNtBHXjBNJujQsr6qTi"
+      },
+      "artists": [
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 156097,
+      "name": "Nois T\u00e1 Pra Cima",
+      "url": "https://open.spotify.com/track/0wxq6vOidSNO1GyzGtGwt3"
+    },
+    {
+      "added_at": "2024-07-26 03:03:00",
+      "album": {
         "name": "IAMBINHU",
         "url": "https://open.spotify.com/album/7BpvuVN4bsFdncN2KLkBLU"
       },
@@ -775,30 +799,6 @@
       "duration_ms": 138302,
       "name": "N\u00d3IS \u00c9 ISSO A\u00cd",
       "url": "https://open.spotify.com/track/0l3oyutSwY0sxzu1DUEgcA"
-    },
-    {
-      "added_at": "2024-07-26 03:03:00",
-      "album": {
-        "name": "Nois T\u00e1 Pra Cima",
-        "url": "https://open.spotify.com/album/3maoNtBHXjBNJujQsr6qTi"
-      },
-      "artists": [
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 156097,
-      "name": "Nois T\u00e1 Pra Cima",
-      "url": "https://open.spotify.com/track/0wxq6vOidSNO1GyzGtGwt3"
     },
     {
       "added_at": "2024-07-26 03:03:00",
@@ -1075,30 +1075,6 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
-        "name": "Mixtape Novset, Vol. 1",
-        "url": "https://open.spotify.com/album/7kcsgu8mvNtnM9DUoMg2U6"
-      },
-      "artists": [
-        {
-          "name": "Magr\u00e3o AllFavela",
-          "url": "https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1"
-        },
-        {
-          "name": "A$TRO PITBULL",
-          "url": "https://open.spotify.com/artist/2rhPASsMJ3MBzKdbrF9UMJ"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 171130,
-      "name": "Flerte",
-      "url": "https://open.spotify.com/track/2psH9Fga5Tzmv56JlubiNn"
-    },
-    {
-      "added_at": "2024-07-26 03:03:00",
-      "album": {
         "name": "M\u00fasicas pra Sair na M\u00e3o, Vol. 1",
         "url": "https://open.spotify.com/album/6g2cGMBQOKa6F8WTeMKBby"
       },
@@ -1127,6 +1103,30 @@
       "duration_ms": 191753,
       "name": "Ratatat\u00e1!",
       "url": "https://open.spotify.com/track/7tOnR9C4BSirSpiWWsSqjv"
+    },
+    {
+      "added_at": "2024-07-26 03:03:00",
+      "album": {
+        "name": "Mixtape Novset, Vol. 1",
+        "url": "https://open.spotify.com/album/7kcsgu8mvNtnM9DUoMg2U6"
+      },
+      "artists": [
+        {
+          "name": "Magr\u00e3o AllFavela",
+          "url": "https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1"
+        },
+        {
+          "name": "A$TRO PITBULL",
+          "url": "https://open.spotify.com/artist/2rhPASsMJ3MBzKdbrF9UMJ"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "duration_ms": 171130,
+      "name": "Flerte",
+      "url": "https://open.spotify.com/track/2psH9Fga5Tzmv56JlubiNn"
     },
     {
       "added_at": "2024-07-26 03:03:00",
@@ -1187,6 +1187,54 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
+        "name": "Dialeto Delinquente",
+        "url": "https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB"
+      },
+      "artists": [
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "Boaventura",
+          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
+        },
+        {
+          "name": "Prod. 2t'",
+          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
+        }
+      ],
+      "duration_ms": 142784,
+      "name": "Santo de Casa",
+      "url": "https://open.spotify.com/track/3lkfsOQnDbaOeIYSBp0kUB"
+    },
+    {
+      "added_at": "2024-07-26 03:03:00",
+      "album": {
+        "name": "Degusta",
+        "url": "https://open.spotify.com/album/7BZPAwG0qXGZPkxs0Dwh2x"
+      },
+      "artists": [
+        {
+          "name": "Legusta Beatz",
+          "url": "https://open.spotify.com/artist/17eEAtKFuzP5NRBx7vpRfv"
+        },
+        {
+          "name": "Ber\u00eata",
+          "url": "https://open.spotify.com/artist/3T44lVfLAXe4Q1aaRHyecq"
+        },
+        {
+          "name": "DigZion",
+          "url": "https://open.spotify.com/artist/6KA0fZvlGGzqfj2aQ5mDza"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Nos Embalos de Jersey a Noite",
+      "url": "https://open.spotify.com/track/6spunQxxCbEoXCVcQtaY2N"
+    },
+    {
+      "added_at": "2024-07-26 03:03:00",
+      "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
       },
@@ -1219,30 +1267,6 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
-        "name": "Dialeto Delinquente",
-        "url": "https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB"
-      },
-      "artists": [
-        {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
-        },
-        {
-          "name": "Boaventura",
-          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
-        },
-        {
-          "name": "Prod. 2t'",
-          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
-        }
-      ],
-      "duration_ms": 142784,
-      "name": "Santo de Casa",
-      "url": "https://open.spotify.com/track/3lkfsOQnDbaOeIYSBp0kUB"
-    },
-    {
-      "added_at": "2024-07-26 03:03:00",
-      "album": {
         "name": "PATY DE CONDOMINIO",
         "url": "https://open.spotify.com/album/4kZoGO7t9LDfx7QEh7G7Wp"
       },
@@ -1263,30 +1287,6 @@
       "duration_ms": 157277,
       "name": "PATY DE CONDOMINIO",
       "url": "https://open.spotify.com/track/4xDCzZ9PYmaJq5urtGbFNP"
-    },
-    {
-      "added_at": "2024-07-26 03:03:00",
-      "album": {
-        "name": "Degusta",
-        "url": "https://open.spotify.com/album/7BZPAwG0qXGZPkxs0Dwh2x"
-      },
-      "artists": [
-        {
-          "name": "Legusta Beatz",
-          "url": "https://open.spotify.com/artist/17eEAtKFuzP5NRBx7vpRfv"
-        },
-        {
-          "name": "Ber\u00eata",
-          "url": "https://open.spotify.com/artist/3T44lVfLAXe4Q1aaRHyecq"
-        },
-        {
-          "name": "DigZion",
-          "url": "https://open.spotify.com/artist/6KA0fZvlGGzqfj2aQ5mDza"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Nos Embalos de Jersey a Noite",
-      "url": "https://open.spotify.com/track/6spunQxxCbEoXCVcQtaY2N"
     },
     {
       "added_at": "2024-07-26 03:03:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,352 likes - 81 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,345 likes - 81 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 | 4 | [O Little Town Of Betlehem](https://open.spotify.com/track/1gheU3qwojggarqd8EykOv) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [O Little Town Of Betlehem](https://open.spotify.com/album/7wq0WEl08o2bduHGQESgNr) | 2:05 |
 | 5 | [I'll Be Home For Christmas](https://open.spotify.com/track/5YvgKMgdZrx1Ey4zdieQj1) | [Olivier Dernier](https://open.spotify.com/artist/3P2YIrQS0MGBnBUsenITLp) | [I'll Be Home For Christmas](https://open.spotify.com/album/5op9V5kvT225OgvhHdb0J4) | 1:14 |
 | 6 | [Joy To The World](https://open.spotify.com/track/2NjzUWcGx23mzft2N2kkZI) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Joy To The World](https://open.spotify.com/album/5zIDMV2FDJ7uOJq6N0B4Nc) | 1:28 |
-| 7 | [O Come, All Ye Faithful \(Guitar Version\)](https://open.spotify.com/track/5HiH2ZR4LixsbrPVvLr0iA) | [Kim Aspen](https://open.spotify.com/artist/0TWDlZlnx5EiVZ1Ik1l2Al) | [Traditional Christmas: Gentle Guitar Versions](https://open.spotify.com/album/7zVcTzMQfUdTzW7GssZk2c) | 2:27 |
-| 8 | [Silver Bells](https://open.spotify.com/track/1dJDKpryY3jvBe5a7qtpW7) | [Otar Dunley](https://open.spotify.com/artist/62ChKuMPRbU7UViE8M6pwX) | [Silver Bells](https://open.spotify.com/album/4B3tGmzWIPSkjj220NYqU1) | 2:43 |
-| 9 | [The Christmas Song](https://open.spotify.com/track/1bhNFAJ9oV7IR9cftCbQD8) | [Steve Erquiaga](https://open.spotify.com/artist/21og01vigGgPGi1EPjcSON) | [The Essential Winter's Solstice](https://open.spotify.com/album/6Fo4dwa90VBEazdDqkecIt) | 3:04 |
-| 10 | [It Came Upon a Midnight Clear](https://open.spotify.com/track/3CQr9je6lodUVdrZXAkdQr) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [It Came Upon a Midnight Clear](https://open.spotify.com/album/78QZDSa0cAbMCXumjzbbQl) | 2:42 |
-| 11 | [Deck The Halls](https://open.spotify.com/track/27vCWK2IVbhahTwnw5nhrW) | [Aaron Larget\-Caplan](https://open.spotify.com/artist/3SQ8wM04jpHcSbPM6Rl2BL) | [A Guitar Holiday](https://open.spotify.com/album/5fIhvb26J7V639RThl2t0X) | 1:52 |
-| 12 | [White Christmas](https://open.spotify.com/track/5vIsN7senV9wiMucuxyUOA) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [White Christmas](https://open.spotify.com/album/3iBqjJbDNHhf2I6pGlWQyt) | 1:34 |
+| 7 | [Silver Bells](https://open.spotify.com/track/1dJDKpryY3jvBe5a7qtpW7) | [Otar Dunley](https://open.spotify.com/artist/62ChKuMPRbU7UViE8M6pwX) | [Silver Bells](https://open.spotify.com/album/4B3tGmzWIPSkjj220NYqU1) | 2:43 |
+| 8 | [O Come, All Ye Faithful \(Guitar Version\)](https://open.spotify.com/track/5HiH2ZR4LixsbrPVvLr0iA) | [Kim Aspen](https://open.spotify.com/artist/0TWDlZlnx5EiVZ1Ik1l2Al) | [Traditional Christmas: Gentle Guitar Versions](https://open.spotify.com/album/7zVcTzMQfUdTzW7GssZk2c) | 2:27 |
+| 9 | [It Came Upon a Midnight Clear](https://open.spotify.com/track/3CQr9je6lodUVdrZXAkdQr) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [It Came Upon a Midnight Clear](https://open.spotify.com/album/78QZDSa0cAbMCXumjzbbQl) | 2:42 |
+| 10 | [Deck The Halls](https://open.spotify.com/track/27vCWK2IVbhahTwnw5nhrW) | [Aaron Larget\-Caplan](https://open.spotify.com/artist/3SQ8wM04jpHcSbPM6Rl2BL) | [A Guitar Holiday](https://open.spotify.com/album/5fIhvb26J7V639RThl2t0X) | 1:52 |
+| 11 | [White Christmas](https://open.spotify.com/track/5vIsN7senV9wiMucuxyUOA) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [White Christmas](https://open.spotify.com/album/3iBqjJbDNHhf2I6pGlWQyt) | 1:34 |
+| 12 | [The Christmas Song](https://open.spotify.com/track/1bhNFAJ9oV7IR9cftCbQD8) | [Steve Erquiaga](https://open.spotify.com/artist/21og01vigGgPGi1EPjcSON) | [The Essential Winter's Solstice](https://open.spotify.com/album/6Fo4dwa90VBEazdDqkecIt) | 3:04 |
 | 13 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/6kz5ogI00sTZWxmDcsgBub) | [Gil Cohen](https://open.spotify.com/artist/3RIFM8s5jyChTKVnP0ZeDe) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/3fLOAPIiowTiSSXxQ1Ggoi) | 2:55 |
 | 14 | [My Christmas Tree](https://open.spotify.com/track/0xlmbrtxzVdbdFOow8vfhZ) | [Thomas Goran](https://open.spotify.com/artist/7G2JO0YKokgwGDFCdqBIxQ) | [My Christmas Tree](https://open.spotify.com/album/3KWxsOhFfc59PpkRbdYYiY) | 2:02 |
 | 15 | [Hark! The Angels Sing](https://open.spotify.com/track/6JrtbTlRGhJN06sQseKaJU) | [Brandon Taylor Smith](https://open.spotify.com/artist/0CkM1sLkP3yQW8I7ja51am) | [Hark! The Angels Sing](https://open.spotify.com/album/6zxRoqGoYIa3VeoZwrbrcB) | 2:14 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 | 80 | [One December Night](https://open.spotify.com/track/6xgqGs263ednVh1U69IYPt) | [Paul Van De Vlasakker](https://open.spotify.com/artist/65UwmvLXL5ZiP8fJi2UgpP) | [Christmas Without Words \(Acoustic Fingerstyle Guitar\)](https://open.spotify.com/album/6bwML2qC1rmknLNhkbfSBr) | 3:07 |
 | 81 | [Wexford Carol](https://open.spotify.com/track/0i4aWVfoN2YqUcRgDON9J7) | [Robin Bullock](https://open.spotify.com/artist/2ZKp4SlkqlTHfKIx46BvS0) | [A Guitar for Christmas](https://open.spotify.com/album/3D9Ztd1NJ9UM16HqnAI0jo) | 2:48 |
 
-Snapshot ID: `ZmcMjgAAAAAtuXIfi9bjwR9vw50lA+Vp`
+Snapshot ID: `ZqdqlgAAAACadLYcvjPYBdLRenEU2nRR`

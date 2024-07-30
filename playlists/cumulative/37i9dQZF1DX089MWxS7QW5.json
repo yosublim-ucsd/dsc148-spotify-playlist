@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: SUMIN, Slom(\uc218\ubbfc, \uc2ac\ub86c))",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: george(\uc8e0\uc9c0))",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -3358,6 +3358,24 @@
       "duration_ms": 184821,
       "name": "INVU",
       "url": "https://open.spotify.com/track/7d3plYwBTEDTGaMJFihbcW"
+    },
+    {
+      "album": {
+        "name": "gimbap",
+        "url": "https://open.spotify.com/album/50xp8elLZomzlu6uE4RebW"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210680,
+      "name": "it's my fault",
+      "url": "https://open.spotify.com/track/3CQJRcZf9yNgIDCQBllfxx"
     },
     {
       "album": {

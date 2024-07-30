@@ -1,12 +1,12 @@
 {
-  "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 153170,
+  "description": "This Is Stevie Ray Vaughan. Los temas esenciales, todos en una lista.",
+  "num_followers": 153192,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAADkaI3omKei6FHykoP7kWRA",
+  "snapshot_id": "ZqWKAAAAAAAsfTikfO8AE2ztfwFU6UBJ",
   "tracks": [
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Deal: Greatest Hits Volume 1",
-        "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 270360,
-      "name": "Come On, Pt. III",
-      "url": "https://open.spotify.com/track/0t4Ef0Z7BGIRtwoK8S8299"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In The Beginning",
         "url": "https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 175000,
       "name": "Slide Thing - Live at Steamboat 1874, Austin, TX - April 1980",
       "url": "https://open.spotify.com/track/78x9FWB5S033aa4E67D9Wg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Real Deal: Greatest Hits Volume 1",
+        "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 270360,
+      "name": "Come On, Pt. III",
+      "url": "https://open.spotify.com/track/0t4Ef0Z7BGIRtwoK8S8299"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solos, Sessions & Encores",
-        "url": "https://open.spotify.com/album/34moluVsUish03HIUdzSze"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 333480,
-      "name": "On The Run - Live",
-      "url": "https://open.spotify.com/track/0gmMJ7GXPFTZv4kLMbHGyn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In The Beginning",
         "url": "https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 229000,
       "name": "Live Another Day - Live at Steamboat 1874, Austin, TX - April 1980",
       "url": "https://open.spotify.com/track/4dtr7tpZYeYgst9ZP1Z5r0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solos, Sessions & Encores",
+        "url": "https://open.spotify.com/album/34moluVsUish03HIUdzSze"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 333480,
+      "name": "On The Run - Live",
+      "url": "https://open.spotify.com/track/0gmMJ7GXPFTZv4kLMbHGyn"
     },
     {
       "added_at": null,

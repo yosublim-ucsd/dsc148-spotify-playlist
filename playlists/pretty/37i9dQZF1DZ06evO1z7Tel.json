@@ -1,12 +1,12 @@
 {
   "description": "This Is Carlos Y Jose. Los temas esenciales, todos en una lista.",
-  "num_followers": 32574,
+  "num_followers": 32589,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAAAuZRhIj2bzhN53rNecEN8D",
+  "snapshot_id": "ZqWKAAAAAAAzCzOhkjRZHlJt5xu06F8s",
   "tracks": [
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tesoros Musicales",
+        "url": "https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 187346,
+      "name": "Al Pie De Un Arbol",
+      "url": "https://open.spotify.com/track/4h0sJQXfkAHy2ldLVLFBL2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Chubasco",
         "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 198626,
       "name": "El Gallo De San Juan",
       "url": "https://open.spotify.com/track/4oK6HoJpq8pFdSg3AvO2CC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tesoros Musicales",
-        "url": "https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 187346,
-      "name": "Al Pie De Un Arbol",
-      "url": "https://open.spotify.com/track/4h0sJQXfkAHy2ldLVLFBL2"
     },
     {
       "added_at": null,

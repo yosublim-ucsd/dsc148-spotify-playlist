@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,317 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,381 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 43 | [I'm A Little Mixed Up](https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG) | [Betty James](https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v) | [The Chess Story 1957\-1964](https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB) | 2:51 |
 | 44 | [I Put My Trust In You](https://open.spotify.com/track/3de9QMMvkyDop04qy2w92t) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 5:19 |
 | 45 | [A Apolitical Blues](https://open.spotify.com/track/3ApqVYTzkiGRK74zw34X3X) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Sailin' Shoes](https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt) | 3:28 |
-| 46 | [All Your Love \(I Miss Loving\)](https://open.spotify.com/track/6NEnXMaCfk0dg2BnuObxX7) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Double Trouble](https://open.spotify.com/album/3jM3xqyJos5CEXCrdO1hQf) | 2:37 |
-| 47 | [Bubba Jones](https://open.spotify.com/track/5sLY0cuhTdcKuJi674IWLx) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Smoke From The Chimney](https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1) | 4:26 |
+| 46 | [Bubba Jones](https://open.spotify.com/track/5sLY0cuhTdcKuJi674IWLx) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Smoke From The Chimney](https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1) | 4:26 |
+| 47 | [All Your Love \(I Miss Loving\)](https://open.spotify.com/track/6NEnXMaCfk0dg2BnuObxX7) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Double Trouble](https://open.spotify.com/album/3jM3xqyJos5CEXCrdO1hQf) | 2:37 |
 | 48 | [Thanks, But No Thanks](https://open.spotify.com/track/09dWT48I3CR2nxiEA5FwwW) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [From The Heart Of A Woman](https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h) | 4:17 |
 | 49 | [Need Her So Bad](https://open.spotify.com/track/1Msf1vU7lpnbqUDxj6HpnW) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Everything I Need](https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy) | 7:00 |
 | 50 | [Without You](https://open.spotify.com/track/08uXaXe243pD2BPI5uB3JM) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [English Rose](https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe) | 4:38 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 60 | [One Day Closer To Home](https://open.spotify.com/track/38EnQxo9CZ5w9muuxNh1TJ) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [One Day Closer To Home](https://open.spotify.com/album/2xBkirTkPauFlljvqJWClc) | 3:48 |
 | 61 | [Hiding Place](https://open.spotify.com/track/1W6xHj8Ic4p1QienSgdaFU) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Hiding Place](https://open.spotify.com/album/7dcq4XdSEHjdkNkRokWx5D) | 7:23 |
 | 62 | [Your Lies](https://open.spotify.com/track/33ic6QylSASWCW3LI6qvqH) | [The Cinelli Brothers](https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF) | [Your Lies](https://open.spotify.com/album/1c9emJLzeTRuws8ov0S7JB) | 3:13 |
-| 63 | [She's Long, She's Tall \(She Weeps Like A Willow Tree\) \- Live At Cafe Au\-Go\-Go/1966](https://open.spotify.com/track/1MiygdyK10qC8yNFnc9ayu) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Live At The Cafe Au\-Go\-Go](https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd) | 3:20 |
-| 64 | [I Got News For You](https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp) | [Andrew Brown](https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR) | [Living Chicago Blues, Vol\. 4](https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J) | 5:01 |
-| 65 | [Reconsider Baby \- Remastered](https://open.spotify.com/track/5Avx6u0cFb5P0fL4qzijGC) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [The Best Of Freddie King: The Shelter Years](https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY) | 4:00 |
+| 63 | [I Got News For You](https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp) | [Andrew Brown](https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR) | [Living Chicago Blues, Vol\. 4](https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J) | 5:01 |
+| 64 | [Reconsider Baby \- Remastered](https://open.spotify.com/track/5Avx6u0cFb5P0fL4qzijGC) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [The Best Of Freddie King: The Shelter Years](https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY) | 4:00 |
+| 65 | [She's Long, She's Tall \(She Weeps Like A Willow Tree\) \- Live At Cafe Au\-Go\-Go/1966](https://open.spotify.com/track/1MiygdyK10qC8yNFnc9ayu) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Live At The Cafe Au\-Go\-Go](https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd) | 3:20 |
 | 66 | [Five Long Years](https://open.spotify.com/track/5joO3RcUHeTMjasJrjVa9a) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Outta' Season](https://open.spotify.com/album/3oKjmBZzVdDLTQWI7vf5Jg) | 3:22 |
 | 67 | [Connecticut Blues](https://open.spotify.com/track/3iQxKD67vxkRxUWHEXqGRg) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Outdated Emotion](https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z) | 2:26 |
 | 68 | [Drifting From Town To Town](https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Mississippi Son](https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf) | 3:06 |

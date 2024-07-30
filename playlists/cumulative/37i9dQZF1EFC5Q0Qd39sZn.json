@@ -5636,10 +5636,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 279600,
       "name": "Love Found Me",
       "url": "https://open.spotify.com/track/3oz3Pj7rbhiFnZPak0GGyp"
+    },
+    {
+      "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/6U8lKtn8JrqnUsnE3tTP6r"
+      },
+      "artists": [
+        {
+          "name": "Monica Naranjo",
+          "url": "https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279600,
+      "name": "Love Found Me",
+      "url": "https://open.spotify.com/track/4Hr7JlMioKQK8SFjT4l5ea"
     },
     {
       "album": {
@@ -6492,10 +6510,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 278066,
       "name": "No Cambies Nunca",
       "url": "https://open.spotify.com/track/1OJWlKLKnn08aK89mr44I6"
+    },
+    {
+      "album": {
+        "name": "Chicas Malas",
+        "url": "https://open.spotify.com/album/2VHB7b8lO8ha35k3u8jtdo"
+      },
+      "artists": [
+        {
+          "name": "Monica Naranjo",
+          "url": "https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278066,
+      "name": "No Cambies Nunca",
+      "url": "https://open.spotify.com/track/2U0clXQyTV2lxmeKIWshkl"
     },
     {
       "album": {

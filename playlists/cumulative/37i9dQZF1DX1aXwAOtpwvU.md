@@ -2,7 +2,7 @@
 
 ### [RADAR Polska](https://open.spotify.com/playlist/37i9dQZF1DX1aXwAOtpwvU)
 
-> Odkryj swojego nowego ulubionego artystę\. Cover:  <a href="spotify:artist:7ruGjTmqO10lSqHWRIchnU">Daniel Godson</a>
+> Odkryj swojego nowego ulubionego artystę\. Cover:  <a href="spotify:artist:251W9nU4osxaBuBkU9HXT3">Jea Mira</a>
 
 178 songs - 8 hr 37 min
 

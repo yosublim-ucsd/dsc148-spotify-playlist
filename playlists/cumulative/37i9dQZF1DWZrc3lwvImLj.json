@@ -869,6 +869,24 @@
     },
     {
       "album": {
+        "name": "A\u00fan Te Veo",
+        "url": "https://open.spotify.com/album/5ZG2B564RbdcYWLEjheU77"
+      },
+      "artists": [
+        {
+          "name": "Sami Kaur",
+          "url": "https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150766,
+      "name": "A\u00fan Te Veo",
+      "url": "https://open.spotify.com/track/3fB2azt4qGQTs2KbSsEmjH"
+    },
+    {
+      "album": {
         "name": "Bay Of Thoughts",
         "url": "https://open.spotify.com/album/7MEaC9FXiVb9QpRH7qfORp"
       },
@@ -6824,7 +6842,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 125500,
       "name": "Vc\u030ceraj",
       "url": "https://open.spotify.com/track/6o71Foef4Jf2LMFnHuvQo4"

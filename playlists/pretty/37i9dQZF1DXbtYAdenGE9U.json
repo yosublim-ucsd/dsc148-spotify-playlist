@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 590749,
+  "num_followers": 590995,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -871,18 +871,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "7 Colours (The Remixes)",
-        "url": "https://open.spotify.com/album/5RsRs1WzHYLaaBW0HzN05E"
+        "name": "Not Over Yet '99",
+        "url": "https://open.spotify.com/album/2P3GrMALjeCYAbFvuFFsFH"
       },
       "artists": [
         {
-          "name": "Lost Witness",
-          "url": "https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY"
+          "name": "Planet Perfecto",
+          "url": "https://open.spotify.com/artist/3Q9P0SbpaP9xsBtLUVK0Be"
+        },
+        {
+          "name": "Grace",
+          "url": "https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg"
         }
       ],
-      "duration_ms": 195360,
-      "name": "7 Colours - Radio Edit",
-      "url": "https://open.spotify.com/track/51KCyHln6zoPVjAvArlSFn"
+      "duration_ms": 216066,
+      "name": "Not Over Yet '99 (feat. Grace) - Radio Edit",
+      "url": "https://open.spotify.com/track/3gYUvf0BzPsPky2y3oBf3d"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -903,22 +907,18 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Not Over Yet '99",
-        "url": "https://open.spotify.com/album/2P3GrMALjeCYAbFvuFFsFH"
+        "name": "7 Colours (The Remixes)",
+        "url": "https://open.spotify.com/album/5RsRs1WzHYLaaBW0HzN05E"
       },
       "artists": [
         {
-          "name": "Planet Perfecto",
-          "url": "https://open.spotify.com/artist/3Q9P0SbpaP9xsBtLUVK0Be"
-        },
-        {
-          "name": "Grace",
-          "url": "https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg"
+          "name": "Lost Witness",
+          "url": "https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY"
         }
       ],
-      "duration_ms": 216066,
-      "name": "Not Over Yet '99 (feat. Grace) - Radio Edit",
-      "url": "https://open.spotify.com/track/3gYUvf0BzPsPky2y3oBf3d"
+      "duration_ms": 195360,
+      "name": "7 Colours - Radio Edit",
+      "url": "https://open.spotify.com/track/51KCyHln6zoPVjAvArlSFn"
     }
   ],
   "unique_name": "Trance Classics",

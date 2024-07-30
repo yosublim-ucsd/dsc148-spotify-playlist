@@ -4,7 +4,7 @@
 
 > 365 party girl, i'm a brat when i'm bumpin' that 🍏💚🌴🥥🛳️
 
-202 songs - 10 hr 36 min
+203 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-27 |  |
 | [L’AMOUR DE MA VIE](https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:33 | 2024-06-27 | 2024-07-10 |
 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-07-26 |  |
+| [MANIC](https://open.spotify.com/track/68M0lk2tYUaQf1TVsEYSXS) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MANIC](https://open.spotify.com/album/7aZzOXdbZOl9A8FL3z1c20) | 2:18 | 2024-07-29 |  |
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 4:45 | 2024-07-26 |  |
 | [melodrama](https://open.spotify.com/track/6EB9gbY9xIU2aCGpKZUm9C) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [melodrama](https://open.spotify.com/album/2yUO5bImUNrlDTunDO7QDd) | 2:27 | 2024-06-27 |  |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-06-27 |  |
@@ -162,7 +163,7 @@
 | [Solitude](https://open.spotify.com/track/534LueCImkuvFriDEIxUiS) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [How To Be Human](https://open.spotify.com/album/7toTchc8ZCYGYP4V05MziV) | 3:33 | 2024-07-09 |  |
 | [Someone Else](https://open.spotify.com/track/5phH22Kn5b4u67jA8D5eEs) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [The After Taste](https://open.spotify.com/album/4EmlLRONqsYR1rKvw079xN) | 3:17 | 2024-06-27 | 2024-07-25 |
 | [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SOMETHING AIN'T RIGHT](https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh) | 3:10 | 2024-07-25 |  |
-| [SOS \(feat\. Don Pero\)](https://open.spotify.com/track/60ioEgP8cdoC5OrxlKAjn5) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [SOS \(feat\. Don Pero\)](https://open.spotify.com/album/6ua3Ey0s26gMEu3lQ7lssD) | 2:53 | 2024-07-25 |  |
+| [SOS \(feat\. Don Pero\)](https://open.spotify.com/track/60ioEgP8cdoC5OrxlKAjn5) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [SOS \(feat\. Don Pero\)](https://open.spotify.com/album/6ua3Ey0s26gMEu3lQ7lssD) | 2:53 | 2024-07-25 | 2024-07-30 |
 | [Spring breakers](https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 | 2024-06-27 | 2024-07-10 |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2024-06-27 | 2024-07-27 |
 | [Stardust](https://open.spotify.com/track/4266h07udCdZ83jswW10IG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [ROOM UNDER THE STAIRS](https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0) | 3:52 | 2024-06-27 | 2024-07-10 |

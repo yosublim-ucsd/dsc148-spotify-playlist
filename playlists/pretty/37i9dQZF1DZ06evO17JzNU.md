@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 
 ### [This Is Los Gemelos De Sinaloa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17JzNU)
 
-> This Is Los Gemelos De Sinaloa\. Los temas esenciales, todos en una lista.
+> This is Los Gemelos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,072 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,080 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 33 | [Un Nuevo Dia](https://open.spotify.com/track/7pvsKR96tWwAamXiLGvFCW) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Fernando llanos](https://open.spotify.com/artist/0R1I0zOAHYjQ7Hue05j6Ht) | [Un Nuevo Dia](https://open.spotify.com/album/6w3v2OwRiIPlygawEW9rXM) | 3:15 |
 | 34 | [La Vida Recia](https://open.spotify.com/track/5GswRJyyhV5shlbJzBG4Os) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos Chakalosos](https://open.spotify.com/album/1SwvH2qJLpvB8CiGEsZU9l) | 3:08 |
 | 35 | [AZULES](https://open.spotify.com/track/3Vm0Ug2mKx5zsWUBO7TCyI) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [EXCENTRICON](https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH) | 2:48 |
-| 36 | [Nos Acoplamos Macizo](https://open.spotify.com/track/20f9YnNt8NzMhG4pk76z4r) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Nos Acoplamos Macizo](https://open.spotify.com/album/0mAX4bigDwYatbUkkqlUWl) | 4:06 |
-| 37 | [Me Toco Ayudar](https://open.spotify.com/track/2iwiqbWUHg85OzQMEa2UfY) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Me Toco Ayudar](https://open.spotify.com/album/4J2wxfPh7nJaBpJhwo3pjg) | 3:15 |
+| 36 | [Me Toco Ayudar](https://open.spotify.com/track/2iwiqbWUHg85OzQMEa2UfY) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Me Toco Ayudar](https://open.spotify.com/album/4J2wxfPh7nJaBpJhwo3pjg) | 3:15 |
+| 37 | [Nos Acoplamos Macizo](https://open.spotify.com/track/20f9YnNt8NzMhG4pk76z4r) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Nos Acoplamos Macizo](https://open.spotify.com/album/0mAX4bigDwYatbUkkqlUWl) | 4:06 |
 | 38 | [El Muchachon](https://open.spotify.com/track/5AJ76ymr2po9eU3z9Kks1O) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Muchachon](https://open.spotify.com/album/16oNWUo02F6vehFx1VVfLN) | 3:21 |
 | 39 | [NO TENIA NADA](https://open.spotify.com/track/4RDJHKG7YLxS89QhaEfEcC) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [EXCENTRICON](https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH) | 2:49 |
 | 40 | [Sin Opción](https://open.spotify.com/track/5wpLKTFKmasEtUaWiZQWv1) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Sin Opción](https://open.spotify.com/album/3e5f1WJ8qp2tJJC5NOwmnd) | 1:56 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 44 | [Van Hablar](https://open.spotify.com/track/5h5rqA8YRL0gta5b4MbD8j) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Van Hablar](https://open.spotify.com/album/7HZDMGM4Mp7le8j321qYZs) | 3:00 |
 | 45 | [Pasos Lentos](https://open.spotify.com/track/2gwWr4oV3hN9PVJZd3KDAe) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Agradecido](https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH) | 2:04 |
 | 46 | [Nos Traicionamos](https://open.spotify.com/track/2QoKoiOyMDhqXll6ldKoMp) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [Nos Traicionamos](https://open.spotify.com/album/3Rq5R5vEESkgS4IkSpXqJ2) | 4:43 |
-| 47 | [El Muchacho Criticado](https://open.spotify.com/track/6KjjvZf9wLdYMGLDcL2HMS) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Muchacho Criticado](https://open.spotify.com/album/3dLoxjr5S4Rt98kxZrpHjz) | 2:55 |
-| 48 | [El Achillo](https://open.spotify.com/track/1wV8nsIBPLpovpqOZnb24y) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Achillo](https://open.spotify.com/album/1J6Edxly1ds40IcPhE6Fvx) | 4:32 |
+| 47 | [El Achillo](https://open.spotify.com/track/1wV8nsIBPLpovpqOZnb24y) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Achillo](https://open.spotify.com/album/1J6Edxly1ds40IcPhE6Fvx) | 4:32 |
+| 48 | [El Muchacho Criticado](https://open.spotify.com/track/6KjjvZf9wLdYMGLDcL2HMS) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Muchacho Criticado](https://open.spotify.com/album/3dLoxjr5S4Rt98kxZrpHjz) | 2:55 |
 | 49 | [Ya Extrano Mi Rancho](https://open.spotify.com/track/5qAzmxc7zqn5CD0eE3yckL) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Ya Extrano Mi Rancho](https://open.spotify.com/album/14X4dL52C10ejPsocWndY8) | 2:16 |
 | 50 | [Apellido Guzman](https://open.spotify.com/track/0CrErg58IbHXNzDqiMBTfT) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos y Sentimientos \(Vol 2\)](https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s) | 3:26 |
 
-Snapshot ID: `ZqQ4gAAAAAB19tssv6rZvfElECUWWTnL`
+Snapshot ID: `ZqWKAAAAAACKVDmCJA/3/HaIjA4PL3cE`

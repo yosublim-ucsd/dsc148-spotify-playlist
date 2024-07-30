@@ -2934,7 +2934,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -3140,7 +3140,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 161977,
       "name": "Aucune attache",
       "url": "https://open.spotify.com/track/3KZN01EuBoqh04jyGXpnxr"
@@ -8956,7 +8956,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -12069,6 +12069,24 @@
     },
     {
       "album": {
+        "name": "Luminous Voyage (Spotify Edition)",
+        "url": "https://open.spotify.com/album/2jdpp0P3iAWc5DfX4fO517"
+      },
+      "artists": [
+        {
+          "name": "Claniel",
+          "url": "https://open.spotify.com/artist/75AFF5lplBMGaGWD8W8c3E"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58398,
+      "name": "Endless Water",
+      "url": "https://open.spotify.com/track/0LlOz2pyK62bqxzRVUhWiu"
+    },
+    {
+      "album": {
         "name": "Luminous Voyage (Extended Edition)",
         "url": "https://open.spotify.com/album/0OaOnXlQjTE81M3c6TiXOz"
       },
@@ -13674,7 +13692,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 176120,
       "name": "FLASHBACK",
       "url": "https://open.spotify.com/track/2PWJx5FwMrMVEaTjwYait1"
@@ -17922,7 +17940,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 237866,
       "name": "I love you",
       "url": "https://open.spotify.com/track/6jDe94y1dbLDU53Q1NPxLH"
@@ -24312,7 +24330,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-29",
+      "date_removed": null,
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
@@ -27968,7 +27986,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 155905,
       "name": "Overdrive (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
@@ -38251,6 +38269,24 @@
     },
     {
       "album": {
+        "name": "Ghetto Blessings",
+        "url": "https://open.spotify.com/album/1REN8gQlVtmwbqQB5DlN6T"
+      },
+      "artists": [
+        {
+          "name": "Birdd Luciano",
+          "url": "https://open.spotify.com/artist/4u4th6IdTT4CVqxBikNqdd"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100623,
+      "name": "Top Shottas",
+      "url": "https://open.spotify.com/track/1hK1AiUZcSa68fx2lc90kY"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -40050,7 +40086,7 @@
       ],
       "date_added": "2024-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 106004,
       "name": "War",
       "url": "https://open.spotify.com/track/2WimHd7jirBO8CFM4Dyq4j"

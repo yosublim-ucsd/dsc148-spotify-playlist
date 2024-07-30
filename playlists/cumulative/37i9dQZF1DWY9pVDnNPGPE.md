@@ -4,7 +4,7 @@
 
 > 따뜻한 햇살과 가벼운 발걸음\. 행복한 음악들과 기분 좋은 산책 & 피크닉을 즐겨보세요.
 
-66 songs - 3 hr 31 min
+67 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Darling](https://open.spotify.com/track/41zovgnOZ3akeNNa9h5vcC) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Darling](https://open.spotify.com/album/0XVe9SlfGUzJeMfzODdKdm) | 3:02 | 2023-11-03 |  |
 | [DEPEND ON YOU](https://open.spotify.com/track/34WYAVk1WHSyMxY9tHRPyA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:18 | 2023-11-03 |  |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2023-11-03 |  |
+| [Do Re Mi Fa Sol \(Feat\. CHANGMO\)](https://open.spotify.com/track/4kchBm5YZ6wTo4bXQamLjK) | [Park Bom](https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Do Re Mi Fa Sol](https://open.spotify.com/album/5a5B1drwuHl728MeIWClZ0) | 3:04 | 2024-06-24 |  |
 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 | 2023-11-03 |  |
 | [DOWN \(Juicy Juicy\)](https://open.spotify.com/track/086PZ9r1W6iNjZyL8qOqTS) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [See You in My 19th Life, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/0BM8vW7jepWGUcEd2mh2EY) | 3:26 | 2023-11-03 |  |
 | [Dream about You](https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Delivery Man, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF) | 2:44 | 2023-11-03 |  |
@@ -51,9 +52,9 @@
 | [Maybe We Could Be a Thing](https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [Maybe We Could Be a Thing](https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI) | 2:56 | 2023-11-03 |  |
 | [Milky Way](https://open.spotify.com/track/2Oj5hRhkJH00VGzjBdQNq3) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Our Beloved BoA \#4 \- SM STATION](https://open.spotify.com/album/0MYodAzFX64jToQpE5jWNW) | 3:37 | 2023-11-03 |  |
 | [Mm Mm \(Prod\. by Cosmic Boy\)](https://open.spotify.com/track/5FQZK2QsHAnu6i2tHpbwpP) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Mm Mm](https://open.spotify.com/album/4XdRqwWMaqajrsAguE0sTw) | 2:46 | 2023-11-03 | 2024-04-19 |
-| [Mugshot \(Feat\. UNE\)](https://open.spotify.com/track/2euKIWbG8ahCaXIcr8RKer) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS) | [blanc](https://open.spotify.com/album/1fUwVSrt6qTwkpWBmb5HDL) | 3:01 | 2023-11-03 | 2024-07-29 |
+| [Mugshot \(Feat\. UNE\)](https://open.spotify.com/track/2euKIWbG8ahCaXIcr8RKer) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS) | [blanc](https://open.spotify.com/album/1fUwVSrt6qTwkpWBmb5HDL) | 3:01 | 2023-11-03 |  |
 | [No More \(Prod\. Zion.T\)](https://open.spotify.com/track/6UZPTH87iJRJEPpfQ0wIZy) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [NO MORE](https://open.spotify.com/album/03V3DsgstV70JlF61ZFEQz) | 2:38 | 2023-11-03 |  |
-| [No Worries](https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk) | [DAHEE](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT) | [No Worries](https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU) | 2:54 | 2024-06-24 |  |
+| [No Worries](https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk) | [DAHEE](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT) | [No Worries](https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU) | 2:54 | 2024-06-24 | 2024-07-30 |
 | [Ordinary Ending](https://open.spotify.com/track/79QIZJzNaONU1d5emOmlTA) | [Jehwwn](https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw) | [982](https://open.spotify.com/album/2JSGPPpwFcZIbTdE8g5HWO) | 2:33 | 2024-04-05 | 2024-05-11 |
 | [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 | 2023-11-03 |  |
 | [Parade](https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:02 | 2023-11-03 |  |
@@ -61,7 +62,7 @@
 | [Picture of You](https://open.spotify.com/track/4k65QOnSekJUpGuV6dHUHU) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Hwang Moon Seob](https://open.spotify.com/artist/0a9CLtjf2oj3OooJA0ZbTr) | [Picture of you](https://open.spotify.com/album/3WLs3in6kQskYA2bKsYQa9) | 2:58 | 2023-11-03 | 2024-04-19 |
 | [Pink!](https://open.spotify.com/track/69q7FmDh1JXekNKOOxDmdM) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Pink!](https://open.spotify.com/album/1I5gyzHtCXanpYqRukAQGP) | 2:54 | 2023-11-03 |  |
 | [Seoul](https://open.spotify.com/track/4b9LMCUaw55QajVRfrfPyS) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Seoul](https://open.spotify.com/album/6tLZvqqoWszgPagzzNNQQF) | 3:24 | 2023-11-03 |  |
-| [SHIT SHOW \(feat\. Leellamarz\)](https://open.spotify.com/track/2fX6NGjW9s8EukBuwZG5Y5) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [HESITATING](https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz) | 2:14 | 2024-03-21 |  |
+| [SHIT SHOW \(feat\. Leellamarz\)](https://open.spotify.com/track/2fX6NGjW9s8EukBuwZG5Y5) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [HESITATING](https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz) | 2:14 | 2024-03-21 | 2024-07-30 |
 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 | 2023-11-03 |  |
 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2023-11-03 |  |
 | [Sugardance](https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Sweeet](https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl) | 2:57 | 2024-04-05 |  |

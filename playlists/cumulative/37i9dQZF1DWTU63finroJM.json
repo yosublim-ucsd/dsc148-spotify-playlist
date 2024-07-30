@@ -3018,7 +3018,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 162377,
       "name": "BLAME IT ON ME",
       "url": "https://open.spotify.com/track/3O4EGwdDFNMs69RWWSQRFI"
@@ -9138,6 +9138,24 @@
       "duration_ms": 178331,
       "name": "grips",
       "url": "https://open.spotify.com/track/3OdyOQKTsqiUs25V1aXUsR"
+    },
+    {
+      "album": {
+        "name": "Guilty",
+        "url": "https://open.spotify.com/album/7LuYrvLkdzxHarZHNFLvYq"
+      },
+      "artists": [
+        {
+          "name": "Essosa",
+          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171479,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/6m1J8D9SGvfOxpA3RC3bD6"
     },
     {
       "album": {

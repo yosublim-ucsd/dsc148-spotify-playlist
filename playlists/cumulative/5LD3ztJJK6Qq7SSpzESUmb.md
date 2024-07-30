@@ -4,7 +4,7 @@
 
 > The hottest new songs rocking Kerrang!'s world, updated every Friday!
 
-119 songs - 6 hr 44 min
+120 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [ASHAMED \[Feat\. Lauren Mayberry\]](https://open.spotify.com/track/15b2BhawVZK3pQ7c2BhUcU) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [ASHAMED f/ Lauren Mayberry](https://open.spotify.com/album/1N5ZcTHlOBXHGhnQtUu2BZ) | 3:01 | 2024-06-15 | 2024-06-22 |
 | [Be Someone \(feat\. Eric Vanlerberghe of I Prevail\)](https://open.spotify.com/track/3ftyD427SvsTqDJ57PAcbd) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh), [Eric Vanlerberghe](https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2) | [Be Someone \(feat\. Eric Vanlerberghe of I Prevail\)](https://open.spotify.com/album/7uFCwYvYgm8tf8LC1TVgWp) | 4:13 | 2024-07-19 | 2024-07-27 |
 | [Being One](https://open.spotify.com/track/1x3H8BGXFpRbvScvG2HG1W) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Being One](https://open.spotify.com/album/6yDBjZF7QbzpBbmwaIl9nt) | 3:20 | 2024-06-28 | 2024-07-13 |
+| [Beyond Salvation](https://open.spotify.com/track/6nu9ZIA5VoU2AlZYD7CERj) | [Plague of Angels](https://open.spotify.com/artist/5jGzM411UiGNqwE8zhktbZ) | [Beyond Salvation](https://open.spotify.com/album/4wzwIk9uqfMi4sSXsKzIYF) | 4:21 | 2024-07-29 |  |
 | [Bird In A Cage](https://open.spotify.com/track/2opaB2JrZZDPLJKgToYeT4) | [Harper](https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3) | [Bird In A Cage](https://open.spotify.com/album/2WBTJEvGBORDzraekT36lO) | 3:30 | 2024-06-21 | 2024-06-29 |
 | [Blood $oda](https://open.spotify.com/track/3aY20b8Gp7v95zWYeyR9OK) | [SWARM6IX](https://open.spotify.com/artist/7DYdJ6bspShavDgUNiGAYp) | [Blood $oda](https://open.spotify.com/album/0qgmBQ4wi11o8SMR1onUNH) | 3:04 | 2024-07-26 |  |
 | [Blood On The Stage](https://open.spotify.com/track/14Lwdc4hyUjF0HqRX3tLOY) | [Tuk Smith & The Restless Hearts](https://open.spotify.com/artist/1yidpkFGp3U77Wkb2Om6br) | [Blood On The Stage](https://open.spotify.com/album/2YND9V5DTAFWRlnpZjT2Ri) | 3:49 | 2024-07-19 | 2024-07-27 |
@@ -124,7 +125,7 @@
 | [Vilified](https://open.spotify.com/track/5uGHfztT58UFu7S3aBiRjb) | [Jerry Cantrell](https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP) | [Vilified](https://open.spotify.com/album/1KKquIPw32BeeVBky9AHFe) | 4:31 | 2024-07-26 |  |
 | [Vulnerable](https://open.spotify.com/track/59M6f3NepXRoaf6bwafgK3) | [Kids In Glass Houses](https://open.spotify.com/artist/0d630stEgFcD3GTKZPZFzY) | [Vulnerable](https://open.spotify.com/album/46xawrrgDrg6z2iphnxhzJ) | 3:37 | 2024-07-19 | 2024-07-27 |
 | [Walking On Sunshine \- From The “American Psycho” Comic Series Soundtrack](https://open.spotify.com/track/07QjTct0HPDi1uj0uK6cMe) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Walking On Sunshine \(From The “American Psycho” Comic Series Soundtrack\)](https://open.spotify.com/album/3zKZUewnkV7sON3PUM1AMD) | 3:12 | 2024-07-12 | 2024-07-20 |
-| [What Lies Beneath](https://open.spotify.com/track/6m4GSzZKoMJ5WuKdPjK6Uc) | [Plague of Angels](https://open.spotify.com/artist/5jGzM411UiGNqwE8zhktbZ) | [What Lies Beneath](https://open.spotify.com/album/0c9alXLtZariGyf4T4Spfu) | 3:57 | 2024-07-26 |  |
+| [What Lies Beneath](https://open.spotify.com/track/6m4GSzZKoMJ5WuKdPjK6Uc) | [Plague of Angels](https://open.spotify.com/artist/5jGzM411UiGNqwE8zhktbZ) | [What Lies Beneath](https://open.spotify.com/album/0c9alXLtZariGyf4T4Spfu) | 3:57 | 2024-07-26 | 2024-07-30 |
 | [When It Comes](https://open.spotify.com/track/2SqHFt2SqwYo1naewwjpgl) | [Torus](https://open.spotify.com/artist/2hAbK9kNETmY7FHExyadGM) | [When It Comes](https://open.spotify.com/album/19w6o0lVqivpuKez8RDwDf) | 4:10 | 2024-07-19 | 2024-07-27 |
 | [Who Put 50p in You](https://open.spotify.com/track/0k4s4CsHBNs81B0fkr889M) | [Barbarian Hermit](https://open.spotify.com/artist/5l3TCGNbFvd6uJOoV6Z6Qo) | [Who Put 50p in You](https://open.spotify.com/album/0AiqyqsJDLt7jMZ1QvaLuu) | 4:32 | 2024-07-26 |  |
 

@@ -11800,7 +11800,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 231428,
       "name": "My Silver Lining",
       "url": "https://open.spotify.com/track/0mcJHIEb7aTQ2HKojKUJNO"
@@ -12978,6 +12978,28 @@
       "duration_ms": 209196,
       "name": "Orbital",
       "url": "https://open.spotify.com/track/293aty9q7lfkX34uMS9m1J"
+    },
+    {
+      "album": {
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/0bzJlohenSutVgiW39yXI1"
+      },
+      "artists": [
+        {
+          "name": "Driftmoon",
+          "url": "https://open.spotify.com/artist/4iMFxtzAcgUfbsagyY3Vla"
+        },
+        {
+          "name": "Hel:sl\u00f8wed",
+          "url": "https://open.spotify.com/artist/153wxN1mEz167KM0a34zss"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Orion",
+      "url": "https://open.spotify.com/track/4jUfgt75bm6jogy5iMLVEZ"
     },
     {
       "album": {

@@ -728,7 +728,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 149406,
       "name": "akl\u0131na ben gelicem",
       "url": "https://open.spotify.com/track/3ZwRkdnTb4az8X5n4WXuHA"
@@ -5537,6 +5537,24 @@
     },
     {
       "album": {
+        "name": "D\u00fc\u011f\u00fcn Dernek",
+        "url": "https://open.spotify.com/album/6TFX8uJkgHnoZ37GNoFoEg"
+      },
+      "artists": [
+        {
+          "name": "Jeff Redd",
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121875,
+      "name": "D\u00fc\u011f\u00fcn Dernek",
+      "url": "https://open.spotify.com/track/6dQJfND64RJy6xJQMsc3ij"
+    },
+    {
+      "album": {
         "name": "D\u00fc\u015fer Akl\u0131ma",
         "url": "https://open.spotify.com/album/2OwUIyWE9jUyI5YQPgD5xo"
       },
@@ -6902,7 +6920,7 @@
       ],
       "date_added": "2021-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 207915,
       "name": "Gitme",
       "url": "https://open.spotify.com/track/4Sng3wnol2Gb2yXgFdr9lj"
@@ -10808,7 +10826,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-29",
+      "date_removed": null,
       "duration_ms": 126014,
       "name": "LAF",
       "url": "https://open.spotify.com/track/7rHLpc3SZobYPDyBF06uok"
@@ -11902,7 +11920,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 246494,
       "name": "Merhametsiz",
       "url": "https://open.spotify.com/track/4hQVobSCtZ6zI7cjCyIOF4"
@@ -12858,6 +12876,28 @@
       "duration_ms": 187500,
       "name": "O Yeterdi Asl\u0131nda",
       "url": "https://open.spotify.com/track/2ddm1l43JvlkXoFGkUKBF7"
+    },
+    {
+      "album": {
+        "name": "OF OF OF",
+        "url": "https://open.spotify.com/album/0WEq08VBCgEfPh3Hw6dlav"
+      },
+      "artists": [
+        {
+          "name": "ElMusto",
+          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
+        },
+        {
+          "name": "Organize",
+          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "OF OF OF",
+      "url": "https://open.spotify.com/track/1RI3YE0BqwN2Fd6Ej0gTqW"
     },
     {
       "album": {

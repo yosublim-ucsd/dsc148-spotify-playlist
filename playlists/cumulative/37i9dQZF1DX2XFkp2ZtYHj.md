@@ -4,7 +4,7 @@
 
 > No lyrics, no distractions, just chilled piano and study vibes for as long as you need.
 
-243 songs - 10 hr 17 min
+244 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Azalea](https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Azalea](https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU) | 2:23 | 2023-10-18 |  |
 | [Beauty](https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx) | [Jon Cossack](https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6) | [Beauty](https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5) | 2:19 | 2023-11-08 |  |
 | [Beckoning](https://open.spotify.com/track/3H1OE9Zplf6jwb9tjMAXFT) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Beckoning](https://open.spotify.com/album/52s8Slpn2zsl7L7SoASh5a) | 2:00 | 2023-11-08 |  |
-| [Between the Heaves](https://open.spotify.com/track/67k8S3GXTelujadCL0MzZN) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Between the Heaves](https://open.spotify.com/album/50dcAZn3eoMrJlNtKq09qd) | 2:15 | 2023-10-18 |  |
+| [Between the Heaves](https://open.spotify.com/track/67k8S3GXTelujadCL0MzZN) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Between the Heaves](https://open.spotify.com/album/50dcAZn3eoMrJlNtKq09qd) | 2:15 | 2023-10-18 | 2024-07-30 |
 | [Between The Lines](https://open.spotify.com/track/33BPMNYcPhcua4D5MhJa6d) | [Michel Haspeslagh](https://open.spotify.com/artist/3pBbMbMr7qdCr9OA3hasPl) | [Between The lines](https://open.spotify.com/album/5jDKJJoabz0LeU11vXVfRR) | 2:28 | 2023-10-18 |  |
 | [Bird of Passage](https://open.spotify.com/track/79XrQYbxrhehKlaT70VfxN) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Bird of Passage](https://open.spotify.com/album/7y8UGL1WYh2YkErlNvqrBO) | 2:07 | 2023-10-18 |  |
 | [Black coal of dream](https://open.spotify.com/track/4QTsrZ1o0SRgx6FhdonuCi) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Black coal of dream](https://open.spotify.com/album/6Qr73LPNXy4GOM7t4SsfO4) | 2:05 | 2023-10-18 |  |
@@ -119,7 +119,7 @@
 | [Inmersion](https://open.spotify.com/track/2U5SDqmvtVPPV1RBKyaZH9) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Inmersion](https://open.spotify.com/album/4UKB7Z0S4Qwy6SjYddkmk1) | 2:19 | 2023-10-18 |  |
 | [Insignia](https://open.spotify.com/track/17moSSyt9oOxVHyewjXLav) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Insignia](https://open.spotify.com/album/6KljnSEKSgk32JLRN4Vd9H) | 2:58 | 2023-10-18 |  |
 | [Interim](https://open.spotify.com/track/60CfZTCT1iHQdnjNrnvpZP) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Interim](https://open.spotify.com/album/1P6PbFhwgTaXXjsl9H6Nh0) | 2:19 | 2023-11-08 |  |
-| [Into The Wild](https://open.spotify.com/track/218oB0WObOdE8kYYVvrPpU) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Into The Wild](https://open.spotify.com/album/3RTuxds03kAxRjXfc2VyFR) | 3:11 | 2023-10-18 |  |
+| [Into The Wild](https://open.spotify.com/track/218oB0WObOdE8kYYVvrPpU) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Into The Wild](https://open.spotify.com/album/3RTuxds03kAxRjXfc2VyFR) | 3:11 | 2023-10-18 | 2024-07-30 |
 | [Invitation](https://open.spotify.com/track/0gTjyLSaG5FFIpDhw6IA2C) | [Samuel Kees](https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn) | [Invitation](https://open.spotify.com/album/3dnVyXLUFDwBcUwC3s82yx) | 2:54 | 2024-07-23 |  |
 | [Irenic](https://open.spotify.com/track/6TOY3VJAAMb2uRfYLBvCXR) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Irenic](https://open.spotify.com/album/3bFSZrJMYMzAh62F1ujuhx) | 2:57 | 2023-10-18 |  |
 | [It Rained Last Night](https://open.spotify.com/track/6qyDcsKoXj1wI26xlXSljM) | [Casimir Roux](https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW) | [It Rained Last Night](https://open.spotify.com/album/73mKfLumY5sjLlVD0B6gVo) | 2:12 | 2023-12-13 |  |
@@ -131,6 +131,7 @@
 | [Kalopsia](https://open.spotify.com/track/3XebcloY8ola1VTGRm6aLP) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Kalopsia](https://open.spotify.com/album/3kJJgfrEqoVMQkR9cHRsm8) | 2:58 | 2023-10-18 |  |
 | [Kastepiisk](https://open.spotify.com/track/22fK1BNvptS8jrDqgMQ7Em) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Kastepiisk](https://open.spotify.com/album/47b0xjoL078opTjTxrQ5vm) | 3:21 | 2023-10-18 |  |
 | [Keys of the mountains](https://open.spotify.com/track/1w3FLtV4CGE1gZCXP2NtWC) | [Rebecca Kruse](https://open.spotify.com/artist/3mznXPzb1gKLmCEFfQqAsb) | [Keys of the mountains](https://open.spotify.com/album/236fA8DlkFs1wmaA7mJEnl) | 2:08 | 2023-10-18 |  |
+| [L'or du temps](https://open.spotify.com/track/4GLHnYC81ZvMcQuChl19gk) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [L'or du temps](https://open.spotify.com/album/6Tab6Rsk2duWXaPseT2GHp) | 2:18 | 2024-07-29 |  |
 | [La Luz De La Primavera](https://open.spotify.com/track/2ommqT5NELWdMHjcKN5tTG) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [La Luz De La Primavera](https://open.spotify.com/album/4qdsR63xjUXgBeFwDkPTIc) | 2:08 | 2023-10-18 |  |
 | [Lamento](https://open.spotify.com/track/5uSiCZrctu6aXhcrPKDD8h) | [Sara Hoffman](https://open.spotify.com/artist/5E1w0yu3MqU1W1OaUT1fs1) | [Lamento](https://open.spotify.com/album/4bG3BYrBcA1KtNWZjTbbgm) | 2:34 | 2023-10-18 |  |
 | [Landet](https://open.spotify.com/track/7vgbGR4vZNm97c6VTaovkG) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Landet](https://open.spotify.com/album/0whaUwPWTCKgt5bAINrKK9) | 2:06 | 2023-10-18 |  |

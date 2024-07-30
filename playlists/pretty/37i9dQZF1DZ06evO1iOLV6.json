@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 9776,
+  "num_followers": 9781,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAADlyWD3TSTgkc8LO6++Jyom",
+  "snapshot_id": "ZqWKAAAAAABvRASLP2ZLUZxcPd2FBJNv",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 199198,
-      "name": "Abule",
-      "url": "https://open.spotify.com/track/5GmvLu8Ok9KqBakA6jTEVK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Suh Different",
         "url": "https://open.spotify.com/album/0FGE6PIsjF1Dk9OFq3iQU7"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 218488,
       "name": "Suh Different",
       "url": "https://open.spotify.com/track/3mdPtsarSxesXYqBP8OxJ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 199198,
+      "name": "Abule",
+      "url": "https://open.spotify.com/track/5GmvLu8Ok9KqBakA6jTEVK"
     },
     {
       "added_at": null,
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/5y6mPZFSHQbPx4j8qVGng2"
-      },
-      "artists": [
-        {
-          "name": "Rudeboy",
-          "url": "https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 252200,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/0X425kX0UGmBnmrzsZlztm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Golden Boy",
         "url": "https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 217710,
       "name": "Spiritual (feat. Kuami Eugene & Patoranking)",
       "url": "https://open.spotify.com/track/20v09gzHogJdM5a3GLpR4p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/5y6mPZFSHQbPx4j8qVGng2"
+      },
+      "artists": [
+        {
+          "name": "Rudeboy",
+          "url": "https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 252200,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/0X425kX0UGmBnmrzsZlztm"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 202603,
+      "name": "Love Town",
+      "url": "https://open.spotify.com/track/2xcjNO0DriNFkGhKihOIcZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roll On Me",
         "url": "https://open.spotify.com/album/6ssSTfQhXX5lDGanUJkOvJ"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 190615,
       "name": "Roll On Me",
       "url": "https://open.spotify.com/track/503wKpMyZNr1fvB5eSZ8LC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God Over Everything",
-        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 202603,
-      "name": "Love Town",
-      "url": "https://open.spotify.com/track/2xcjNO0DriNFkGhKihOIcZ"
     },
     {
       "added_at": null,
@@ -935,6 +935,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 232027,
+      "name": "G.O.E",
+      "url": "https://open.spotify.com/track/2VjfpkJblXjy1qc6DqmfP8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ONLY ONE KING",
         "url": "https://open.spotify.com/album/0u649Gff5qgywplGmwA74P"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 205137,
       "name": "Bwana Mdogo (feat. Patoranking)",
       "url": "https://open.spotify.com/track/7MsF2wr8ZVkZoT6Xi5BQ14"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God Over Everything",
-        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 232027,
-      "name": "G.O.E",
-      "url": "https://open.spotify.com/track/2VjfpkJblXjy1qc6DqmfP8"
     },
     {
       "added_at": null,

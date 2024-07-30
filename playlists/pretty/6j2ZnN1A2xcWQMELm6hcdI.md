@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 
 > The baddest and most influential women in music \[Ex\. <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\] Cover: Latto
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 333,291 likes - 313 songs - 15 hr 47 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 333,278 likes - 313 songs - 15 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

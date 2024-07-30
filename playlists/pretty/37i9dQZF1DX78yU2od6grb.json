@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 554303,
+  "num_followers": 554292,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -1515,6 +1515,26 @@
     {
       "added_at": "2024-06-26 02:03:12",
       "album": {
+        "name": "Piece Of Your Heart",
+        "url": "https://open.spotify.com/album/0agqVZjOqVtqHkq3pTFPXb"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 152913,
+      "name": "Piece Of Your Heart",
+      "url": "https://open.spotify.com/track/5p1ex0pXv6jSPJ6QbumQpD"
+    },
+    {
+      "added_at": "2024-06-26 02:03:12",
+      "album": {
         "name": "Swing",
         "url": "https://open.spotify.com/album/3j2j7DAJq56gRsWXgJgWmN"
       },
@@ -1551,26 +1571,6 @@
       "duration_ms": 217653,
       "name": "Call You Mine (feat. Bebe Rexha)",
       "url": "https://open.spotify.com/track/05CwHjIk71RXVU40boRMnR"
-    },
-    {
-      "added_at": "2024-06-26 02:03:12",
-      "album": {
-        "name": "Piece Of Your Heart",
-        "url": "https://open.spotify.com/album/0agqVZjOqVtqHkq3pTFPXb"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 152913,
-      "name": "Piece Of Your Heart",
-      "url": "https://open.spotify.com/track/5p1ex0pXv6jSPJ6QbumQpD"
     },
     {
       "added_at": "2024-06-26 02:03:12",

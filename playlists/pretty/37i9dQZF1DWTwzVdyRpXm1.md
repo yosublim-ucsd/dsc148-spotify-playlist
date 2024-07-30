@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Darshan Raval
 
-[Spotify](https://open.spotify.com/user/spotify) - 837,678 likes - 96 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,952 likes - 96 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

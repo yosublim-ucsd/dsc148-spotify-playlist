@@ -748,7 +748,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 306361,
       "name": "Aleb Fel Dafater",
       "url": "https://open.spotify.com/track/68WRDAU8QecpIyasp2BEby"
@@ -4456,7 +4456,7 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 177119,
       "name": "Ganeni",
       "url": "https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql"
@@ -6260,6 +6260,24 @@
       "duration_ms": 200689,
       "name": "LALISA",
       "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
+    },
+    {
+      "album": {
+        "name": "TESH SHABAB",
+        "url": "https://open.spotify.com/album/72kwga9yphmifAq4pErvlr"
+      },
+      "artists": [
+        {
+          "name": "TUL8TE",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "LAMA BETETGANEN",
+      "url": "https://open.spotify.com/track/32XfunqeIBVB5XhvRzGjsn"
     },
     {
       "album": {
@@ -12164,7 +12182,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 184568,
       "name": "VINI",
       "url": "https://open.spotify.com/track/6NBc4HFBDAz9ghMfXuz3M0"
@@ -15790,7 +15808,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 248267,
       "name": "\u0643\u0644 \u0627\u0644\u062d\u0644\u0648\u064a\u0646 \u0648\u0644\u0627 \u0634\u063a\u0644\u0648\u0646\u064a",
       "url": "https://open.spotify.com/track/4ZVWHKVY1HgRkoLkQFdDbR"
@@ -17106,7 +17124,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 223125,
       "name": "\u064a\u0627\u0645\u0627 \u0644\u064a\u0627\u0644\u0649",
       "url": "https://open.spotify.com/track/0wD0cXqeoRzHBhkEJIMx0t"

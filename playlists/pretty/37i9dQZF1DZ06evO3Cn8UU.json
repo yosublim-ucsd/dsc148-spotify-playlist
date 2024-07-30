@@ -1,12 +1,12 @@
 {
-  "description": "This Is Teddy Pendergrass. Los temas esenciales, todos en una lista.",
-  "num_followers": 34774,
+  "description": "This is Teddy Pendergrass. The essential tracks, all in one playlist.",
+  "num_followers": 34785,
   "original_name": "This Is Teddy Pendergrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAADWdPHfldSb96Ou5ocxrRs+",
+  "snapshot_id": "ZqWKAAAAAAAF4H6Ckf50XqwkIH2St6eP",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 298480,
+      "name": "Through the Falling Rain (Love Story)",
+      "url": "https://open.spotify.com/track/0iVUnf5EMHZRRsKUssVhE2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 518000,
       "name": "I Miss You (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/5y0yvFr9dAsT1ycNUYSRPl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 298480,
-      "name": "Through the Falling Rain (Love Story)",
-      "url": "https://open.spotify.com/track/0iVUnf5EMHZRRsKUssVhE2"
     },
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 377466,
+      "name": "Love Is the Power",
+      "url": "https://open.spotify.com/track/5yHIHTCmT4Y5XdmUFUjX5r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 213853,
       "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
       "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 377466,
-      "name": "Love Is the Power",
-      "url": "https://open.spotify.com/track/5yHIHTCmT4Y5XdmUFUjX5r"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teddy Pendergrass",
-        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 238386,
-      "name": "I Don't Love You Anymore",
-      "url": "https://open.spotify.com/track/2NLgJVAko27NbJo5wINukh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 388960,
       "name": "This Is the Last Time",
       "url": "https://open.spotify.com/track/3QGvS8MsPrXMc7BoGiN9DM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 238386,
+      "name": "I Don't Love You Anymore",
+      "url": "https://open.spotify.com/track/2NLgJVAko27NbJo5wINukh"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teddy Pendergrass",
-        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 264573,
-      "name": "The More I Get, the More I Want",
-      "url": "https://open.spotify.com/track/6nkhaYvdho2vRH5JTrJX7f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 376066,
       "name": "Joy",
       "url": "https://open.spotify.com/track/2Qv5EUATFNebcFGq3rN8O6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 264573,
+      "name": "The More I Get, the More I Want",
+      "url": "https://open.spotify.com/track/6nkhaYvdho2vRH5JTrJX7f"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teddy Pendergrass",
-        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "You Can't Hide from Yourself",
-      "url": "https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 326800,
       "name": "2 A.M.",
       "url": "https://open.spotify.com/track/4FX6NiquFvfYqSNzEUgPds"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "You Can't Hide from Yourself",
+      "url": "https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teddy Pendergrass",
-        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 311933,
-      "name": "Somebody Told Me",
-      "url": "https://open.spotify.com/track/6gdqSzaRWOOgFnWUvsGb0d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 308333,
       "name": "To Be Free to Be Who We Are (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/0MiaZD1lrSUbZTgSLL5FLQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 311933,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/6gdqSzaRWOOgFnWUvsGb0d"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 292560,
+      "name": "Easy, Easy, Got To Take It Easy",
+      "url": "https://open.spotify.com/track/5zqA1u5TMNsZUgcVfSdVs3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 352666,
       "name": "Tell the World How I Feel About 'Cha Baby (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/0aQbcs7XdGCDfTbe5So9a8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teddy Pendergrass",
-        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 292560,
-      "name": "Easy, Easy, Got To Take It Easy",
-      "url": "https://open.spotify.com/track/5zqA1u5TMNsZUgcVfSdVs3"
     },
     {
       "added_at": null,

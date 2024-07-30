@@ -4,7 +4,7 @@
 
 > let the dj set u free
 
-366 songs - 22 hr 40 min
+367 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [don't miss me too much \(Aaron Redding Remix\)](https://open.spotify.com/track/47N2vh7GLGtGrxE7xMBjoh) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Aaron Redding](https://open.spotify.com/artist/1kUNK3Uk9u4GSyXCyJmeXv) | [don't miss me too much \(remixes\)](https://open.spotify.com/album/3E1EF7PnT9AOtijAxG450q) | 3:10 | 2024-03-01 | 2024-04-13 |
 | [Don't Say Goodbye](https://open.spotify.com/track/6thBFNZvOqCtN4fU2lDGPs) | [MashBit](https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ) | [Don't Say Goodbye](https://open.spotify.com/album/1Unb6I8rlEgLeWSHgftLRA) | 3:08 | 2024-05-17 |  |
 | [Don't You Cry](https://open.spotify.com/track/0sEkSDwCxjik95zgWLuzd5) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov) | [Don't You Cry](https://open.spotify.com/album/4XLsipcekzeOaHuMZyuBRg) | 4:06 | 2024-04-05 |  |
-| [Echoes](https://open.spotify.com/track/6xIjK78uVVlATFBj9Wn4RL) | [Hektor Mass](https://open.spotify.com/artist/1EdB8PPdSPE4QEbWNb22Ce), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [ILVS](https://open.spotify.com/artist/41jNNNvoBm9hPTVHpRRHvi) | [Echoes](https://open.spotify.com/album/35rXUvvvWDOEK28JXGE5ad) | 2:40 | 2024-05-17 |  |
+| [Echoes](https://open.spotify.com/track/6xIjK78uVVlATFBj9Wn4RL) | [Hektor Mass](https://open.spotify.com/artist/1EdB8PPdSPE4QEbWNb22Ce), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [ILVS](https://open.spotify.com/artist/41jNNNvoBm9hPTVHpRRHvi) | [Echoes](https://open.spotify.com/album/35rXUvvvWDOEK28JXGE5ad) | 2:40 | 2024-05-17 | 2024-07-30 |
 | [Electric High](https://open.spotify.com/track/1MEiXJK91I7by4os5CxKpH) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Electric High](https://open.spotify.com/album/676PjzaourdD3l6Nb3HpwO) | 2:24 | 2024-07-26 |  |
 | [Envious](https://open.spotify.com/track/5qW3tkBTtvjBSZIBR51yIs) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 3:22 | 2021-04-02 | 2023-08-24 |
 | [Erase Me \(feat\. Bella Renee\)](https://open.spotify.com/track/0ptLBdLmejS79Sza6NQeAb) | [shndō](https://open.spotify.com/artist/2AGKq9TDZ4m5cuSvFEShjH), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Erase Me \(feat\. Bella Renee\)](https://open.spotify.com/album/1KQtXINgtNG4Nk6fv30SS2) | 2:31 | 2024-02-23 | 2024-04-06 |
@@ -109,6 +109,7 @@
 | [Forever](https://open.spotify.com/track/0rfN0qfndV2e50p9naAvoo) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Forever](https://open.spotify.com/album/4rrjJVGv2ZHesoZN7VG1D8) | 4:58 | 2022-07-08 | 2022-07-25 |
 | [Forever In My Mind](https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [LPW](https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha) | [Forever In My Mind](https://open.spotify.com/album/0C20miwgWYO2hHrw66OmYW) | 2:32 | 2022-10-14 |  |
 | [forgive u](https://open.spotify.com/track/0YpOYlsdk1ZWlFrcatiQBd) | [ROSA](https://open.spotify.com/artist/4vNDe5ikZWdqMnQMc5Sj8g) | [forgive u](https://open.spotify.com/album/2c5kGOhmdX3tjruhULza1r) | 3:19 | 2024-05-31 |  |
+| [Freefall](https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Freefall](https://open.spotify.com/album/0tcGYRO1ZwobReqGzMR883) | 3:39 | 2024-07-26 |  |
 | [Gallery](https://open.spotify.com/track/6kxu0ldmBRCw6TBiFAUtYh) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Solace \(Deluxe\)](https://open.spotify.com/album/56UIycwfjE5IwLOwA3VAF8) | 2:46 | 2024-05-24 | 2024-06-29 |
 | [Get Me Higher \- Catching Flies Remix](https://open.spotify.com/track/2bU4bf89GNB6RClZY7YHRb) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV), [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Get Me Higher \(Catching Flies Remix\)](https://open.spotify.com/album/5iABP4wIIn7tHZM1ci5G3x) | 3:49 | 2021-08-13 | 2022-07-29 |
 | [Given Up On You](https://open.spotify.com/track/0vDad05A3UJKbMYopfxAdg) | [MXV](https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG), [ZOE ASKA](https://open.spotify.com/artist/5qzcJvz7hZinbSGukeZ8kE) | [Given Up On You / Driver](https://open.spotify.com/album/6mYCR6U0GYZxIbjTfA7ITk) | 4:26 | 2024-05-03 | 2024-06-18 |

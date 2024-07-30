@@ -1,12 +1,12 @@
 {
   "description": "This is Rauw Alejandro. The essential tracks, all in one playlist.",
-  "num_followers": 716252,
+  "num_followers": 716522,
   "original_name": "This Is Rauw Alejandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAAD+bYdVCtwP9TTSwQver46s",
+  "snapshot_id": "ZqWKAAAAAAA1yfp4g3fj1BvXcA03EhC2",
   "tracks": [
     {
       "added_at": null,
@@ -1079,22 +1079,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PLAYA SATURNO",
-        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 242819,
-      "name": "AL CALLAO'",
-      "url": "https://open.spotify.com/track/110wwp2SRousmXjvx8zIoI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
       },
@@ -1115,22 +1099,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+        "name": "PLAYA SATURNO",
+        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
       },
       "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 188268,
-      "name": "No Hay Ley Parte 2 (with Rauw Alejandro)",
-      "url": "https://open.spotify.com/track/16pNGHrUDtUq5Qg4LnueIi"
+      "duration_ms": 242819,
+      "name": "AL CALLAO'",
+      "url": "https://open.spotify.com/track/110wwp2SRousmXjvx8zIoI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trap Cake, Vol. 1",
+        "url": "https://open.spotify.com/album/37rUi63O4koMFvrSC1EMam"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 250838,
+      "name": "Al Mismo Tiempo",
+      "url": "https://open.spotify.com/track/7CF4dWivLZf3Hdg0FKL9Eb"
     }
   ],
   "unique_name": "This Is Rauw Alejandro",

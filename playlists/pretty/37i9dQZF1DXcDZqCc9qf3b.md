@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 
 > Groove to music from your Netflix Kids favorites! Cover: Thelma the Unicorn
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,288 likes - 96 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,360 likes - 96 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

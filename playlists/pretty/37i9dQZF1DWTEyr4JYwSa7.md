@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,433 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,431 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,15 +70,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 60 | [Le premier Noël de Jules](https://open.spotify.com/track/39oytpbeOyFiepAlTLONEP) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 4:15 |
 | 61 | [I Met an Angel \(on Christmas Day\)](https://open.spotify.com/track/6PiOlFSX06npr0YXexWkrg) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 3:19 |
 | 62 | [Le sentier de neige](https://open.spotify.com/track/0wj09A1u592qYVeOYJYaji) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Reprises Vol.1](https://open.spotify.com/album/3lSPJWmIKB3lFKxOxTvYA0) | 3:06 |
-| 63 | [Santa Baby](https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [The Essential Eartha Kitt](https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ) | 3:26 |
-| 64 | [Marie\-Noël](https://open.spotify.com/track/7416vFT1GFAiB5SCfwreB8) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [Robert Charlebois](https://open.spotify.com/album/72BjupmR4TFq32qnJp3Pct) | 2:29 |
+| 63 | [Marie\-Noël](https://open.spotify.com/track/7416vFT1GFAiB5SCfwreB8) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [Robert Charlebois](https://open.spotify.com/album/72BjupmR4TFq32qnJp3Pct) | 2:29 |
+| 64 | [Santa Baby](https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [The Essential Eartha Kitt](https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ) | 3:26 |
 | 65 | [White Christmas \- 1947 Version](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) | 2:57 |
 | 66 | [Santa Baby](https://open.spotify.com/track/4rAwprLoQULEVb1UrGx9dW) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Santa Baby](https://open.spotify.com/album/3CreiqJnwLy65rMoLv2bPT) | 3:28 |
 | 67 | [Baby It’s Not Christmas Without You](https://open.spotify.com/track/01jcUhKrle6a3YLPPAPVPl) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Baby It’s Not Christmas Without You](https://open.spotify.com/album/5Mmo9hY5lKWUBmiBB7mEtJ) | 2:47 |
 | 68 | [Pour le réveillon](https://open.spotify.com/track/6X76NCrLBhddSKT0KcaOWH) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Chic de ville \(avec "Pour le réveillon"\)](https://open.spotify.com/album/4hHQBjNa12D0rlhZLCeazr) | 3:02 |
-| 69 | [Le petit renne au nez rouge](https://open.spotify.com/track/2Cb63POXAdqsUQX5SBHIZf) | [Renée Martel](https://open.spotify.com/artist/1vgsGsdx1AT6W2j5Y6GIis) | [Chantons Noël!](https://open.spotify.com/album/2Vx0bvyrpOixovVt0Jiyds) | 2:51 |
+| 69 | [Fa La La](https://open.spotify.com/track/7CjvhcsLdCtR1CtLTLLd0f) | [Bündock](https://open.spotify.com/artist/7I7WZG8yRVDD5nTxDRUhFD) | [Joyeux Noël](https://open.spotify.com/album/2OlKZ24ZW2kOwZz4Xd3zio) | 2:16 |
 | 70 | [We'll Be Alright](https://open.spotify.com/track/4AXX2fes8GOdvuCUjadbmT) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [We'll Be Alright](https://open.spotify.com/album/4MEHD7eRexeF3cpIlauzM1) | 2:14 |
-| 71 | [Fa La La](https://open.spotify.com/track/7CjvhcsLdCtR1CtLTLLd0f) | [Bündock](https://open.spotify.com/artist/7I7WZG8yRVDD5nTxDRUhFD) | [Joyeux Noël](https://open.spotify.com/album/2OlKZ24ZW2kOwZz4Xd3zio) | 2:16 |
+| 71 | [Le petit renne au nez rouge](https://open.spotify.com/track/2Cb63POXAdqsUQX5SBHIZf) | [Renée Martel](https://open.spotify.com/artist/1vgsGsdx1AT6W2j5Y6GIis) | [Chantons Noël!](https://open.spotify.com/album/2Vx0bvyrpOixovVt0Jiyds) | 2:51 |
 | 72 | [Mittens](https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [604 Records: The Second Noel](https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw) | 4:11 |
 | 73 | [Voilà le Père Noël Boogie](https://open.spotify.com/track/3u2cX2OGfAmLVT5UI2TqD5) | [Gregory Charles](https://open.spotify.com/artist/5oZRVKPoEK2rVLYDv3ohoi) | [Voilà le Père Noël Boogie](https://open.spotify.com/album/3PBEWDjry4JccomCBvAO1S) | 3:11 |
 | 74 | [Le Père Noël C't'un Québécois](https://open.spotify.com/track/7adJp4379R1irkezIA3zjd) | [Boum Ding Band](https://open.spotify.com/artist/50ERNshVS98iuEFQfxGggG) | [Noël, C'est L'amour](https://open.spotify.com/album/3daWVuTqbiXedViUfOnN1V) | 2:56 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 94 | [Pour la première fois, Noël sera gris](https://open.spotify.com/track/45aUx5ljrdBb4NHbhaFTNw) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Chansons tristes pour Noël](https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI) | 3:09 |
 | 95 | [Noël brille encore](https://open.spotify.com/track/1ebKEop7f6MPvqAhsw8zOk) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Noël brille encore](https://open.spotify.com/album/170MmoysX6VOcPbxvQGS5A) | 3:26 |
 | 96 | [La nuit de Noël](https://open.spotify.com/track/5nMtJWNUVjVqI4IgMzS7Ja) | [Sally Folk](https://open.spotify.com/artist/3nYYNAjiUnXUKQZ5qrcrrr) | [La nuit de Noël](https://open.spotify.com/album/2OsOErxzgnuqi0r2K9YuxO) | 3:10 |
-| 97 | [L'oiseau rare](https://open.spotify.com/track/20p1ws0S4EYOSZ06RnM8sU) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 4:19 |
-| 98 | [Christmas Ain't Enough](https://open.spotify.com/track/6VxjrRPMV0OUXIsKatkusi) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [Christmas Ain't Enough](https://open.spotify.com/album/2NLwE0NYAQgZmuNKC179fh) | 4:12 |
+| 97 | [Christmas Ain't Enough](https://open.spotify.com/track/6VxjrRPMV0OUXIsKatkusi) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [Christmas Ain't Enough](https://open.spotify.com/album/2NLwE0NYAQgZmuNKC179fh) | 4:12 |
+| 98 | [L'oiseau rare](https://open.spotify.com/track/20p1ws0S4EYOSZ06RnM8sU) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 4:19 |
 | 99 | [Le ciel était blanc](https://open.spotify.com/track/7gbD4p5u9NXeJWX919ZZOZ) | [Mirabelle](https://open.spotify.com/artist/7ccDEQF3klS28iA5TI3b6m) | [Le ciel était blanc / Ribbons](https://open.spotify.com/album/4eAw0GsaNZm3bGfgUUvzi1) | 4:26 |
 | 100 | [Please Come Home For Christmas](https://open.spotify.com/track/4sXg2Nd58C4pQp9reilr2R) | [Roch Voisine](https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY) | [Please Come Home For Christmas](https://open.spotify.com/album/12uSasNKEymdQOcsxGiWBr) | 2:59 |
 

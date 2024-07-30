@@ -4871,6 +4871,24 @@
     },
     {
       "album": {
+        "name": "High For This",
+        "url": "https://open.spotify.com/album/0D5083Azr6y2h23yoccdxC"
+      },
+      "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241870,
+      "name": "High For This",
+      "url": "https://open.spotify.com/track/3EVdjxPeVxFBMcVVnwJhQv"
+    },
+    {
+      "album": {
         "name": "Hit The Club",
         "url": "https://open.spotify.com/album/67vJ3MyRTpkoT8dvN8rueX"
       },
@@ -8050,6 +8068,24 @@
       "duration_ms": 133346,
       "name": "Milkshake",
       "url": "https://open.spotify.com/track/5Yca8jvaCBFzmrRbMfCQ2R"
+    },
+    {
+      "album": {
+        "name": "Mind",
+        "url": "https://open.spotify.com/album/0IVOLNrvbgmILSokGUid6N"
+      },
+      "artists": [
+        {
+          "name": "Wouter S",
+          "url": "https://open.spotify.com/artist/2FBOvuH967tVxaLwNzJSz1"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259463,
+      "name": "Mind",
+      "url": "https://open.spotify.com/track/3INIUb9L6IiYFRUa0CqsQ8"
     },
     {
       "album": {
@@ -14458,6 +14494,28 @@
       "duration_ms": 170859,
       "name": "You Can\u2019t Change Me (feat. Raye)",
       "url": "https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5"
+    },
+    {
+      "album": {
+        "name": "You Got Heat",
+        "url": "https://open.spotify.com/album/40YAosrDFxpayxG1FGoTRk"
+      },
+      "artists": [
+        {
+          "name": "Mick Jansen",
+          "url": "https://open.spotify.com/artist/3GTeyz3C1JlYooq2HzwwcT"
+        },
+        {
+          "name": "Jerry Luca",
+          "url": "https://open.spotify.com/artist/6rHDQG5EAhPAO9tLNh8LQr"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "You Got Heat - Radio edit",
+      "url": "https://open.spotify.com/track/6hH6ecSGyv2kXfMbknEX9S"
     },
     {
       "album": {

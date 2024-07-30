@@ -4,7 +4,7 @@
 
 > 듣고만 있어도 행복한 노래들과 더더욱 행복하세요 ;\)
 
-144 songs - 8 hr 3 min
+145 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Again](https://open.spotify.com/track/1ZcASz9kDktzYeA7WwnW7u) | [Sam Ock](https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH) | [Again](https://open.spotify.com/album/1qRN5xGg0m1KH0XZO4vN6j) | 3:37 | 2024-03-08 | 2024-03-22 |
 | [AI \(Feat\. Loco\)](https://open.spotify.com/track/6m59rcNvnRlTkzDPBCwFc3) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [AI \(Feat\. Loco\)](https://open.spotify.com/album/09SjUlWI36jjXjcRx8qjRG) | 2:59 | 2024-05-27 |  |
 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 | 2023-11-03 | 2024-06-24 |
+| [Ant, Go Run](https://open.spotify.com/track/3tbzKxaika0fcyA61YOgH0) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Stock Struck \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/4ZhtmPkIeJdCFMYa6Kd8IU) | 3:00 | 2024-06-28 |  |
 | [Anywhere](https://open.spotify.com/track/68A5OaBH9feTRySwoFpGSX) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [Ending](https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD) | 3:37 | 2024-03-08 |  |
 | [At Night](https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Crash Course in Romance OST Part 4](https://open.spotify.com/album/460aXMPaEyerh9lPpwsxCn) | 2:52 | 2024-03-08 |  |
 | [BBIBBI](https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [BBIBBI](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) | 3:14 | 2023-11-03 |  |
@@ -116,7 +117,7 @@
 | [SEOUL \(Such a Beautiful City\)](https://open.spotify.com/track/0SRAuCAtprYCuoks38G5GU) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 2nd Mini Album \[Seoul Dreaming\]](https://open.spotify.com/album/1J2t0ySjwCZNGelpARbw3d) | 3:09 | 2023-11-03 | 2024-03-09 |
 | [Seoul Night \(feat\. Beenzino\)](https://open.spotify.com/track/2lWfyAvn4jbmGD0JWJ5DgL) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Seoul Night \(feat\. Beenzino\)](https://open.spotify.com/album/5UStHDWClB34bZbajHTBJ3) | 3:25 | 2024-03-08 | 2024-04-19 |
 | [She Gonna Stop \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [She Gonna Stop](https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN) | 3:29 | 2024-03-08 |  |
-| [Shining Love Song](https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Shining Love Song](https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0) | 3:11 | 2024-03-27 |  |
+| [Shining Love Song](https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Shining Love Song](https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0) | 3:11 | 2024-03-27 | 2024-07-30 |
 | [Shooting Star](https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus, Pt\. 2: Inside Out](https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A) | 3:52 | 2024-03-08 |  |
 | [SHOUT OUT](https://open.spotify.com/track/5Z2DNRAhs6r4VdINVkRhYY) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:48 | 2023-11-03 | 2024-03-09 |
 | [Sing\-a\-song](https://open.spotify.com/track/3kUa4w9ydwOReSjFAi7c8y) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 2:50 | 2024-03-08 |  |

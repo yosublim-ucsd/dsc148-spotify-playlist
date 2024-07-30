@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,967 likes - 44 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,976 likes - 44 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 29 | [Esfumar](https://open.spotify.com/track/1zumR6nP8LnKma5wOvq9nB) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS) | 3:27 |
 | 30 | [Antídoto](https://open.spotify.com/track/1exVXnvmE8IrjR3PEKlixx) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 3:47 |
 | 31 | [Mi corazón](https://open.spotify.com/track/1URudLlOGgHV6GE5TQfMQW) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU) | 4:23 |
-| 32 | [Extrañarte](https://open.spotify.com/track/2CccpAbBdXvE1C6PzCP5B3) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh) | 3:50 |
-| 33 | [Virtual](https://open.spotify.com/track/1DM5zFVuY9d1mDK042UqOo) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:02 |
+| 32 | [Virtual](https://open.spotify.com/track/1DM5zFVuY9d1mDK042UqOo) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:02 |
+| 33 | [Extrañarte](https://open.spotify.com/track/2CccpAbBdXvE1C6PzCP5B3) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh) | 3:50 |
 | 34 | [Delicada violencia](https://open.spotify.com/track/0WqFZiJlm264gE6zgJIyQQ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/59Q0c0KggY96mWYhd4Hq5A) | 3:55 |
 | 35 | [Fui feliz](https://open.spotify.com/track/4eg5oafPZjlFK6xYF6qs3Y) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS) | 3:56 |
-| 36 | [Axfixiar](https://open.spotify.com/track/0BH9WwsHL55n1TJFA3z3Rv) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh) | 3:36 |
-| 37 | [Resiste Más Que Yo](https://open.spotify.com/track/2nTWDoNNk9n14Mf2OTAwyQ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Resiste Más Que Yo](https://open.spotify.com/album/1lJTxv8uuQ7JduMfysDUJv) | 5:59 |
+| 36 | [Resiste Más Que Yo](https://open.spotify.com/track/2nTWDoNNk9n14Mf2OTAwyQ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Resiste Más Que Yo](https://open.spotify.com/album/1lJTxv8uuQ7JduMfysDUJv) | 5:59 |
+| 37 | [Axfixiar](https://open.spotify.com/track/0BH9WwsHL55n1TJFA3z3Rv) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/6JEPuQCdFgtpCn00DjMFFh) | 3:36 |
 | 38 | [Látigo de fuego](https://open.spotify.com/track/4a7n3hqqlgcpqzfBOcfLTQ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Látigo de fuego](https://open.spotify.com/album/43zuensuw729kZhtB1emiI) | 3:51 |
 | 39 | [Brigida](https://open.spotify.com/track/3xlHWb5TsdrN0BTb0h2aM5) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS) | 3:33 |
 | 40 | [Carne \- En Vivo](https://open.spotify.com/track/3HwLNLwUY2sicFxkBVbMlx) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Claudio Valenzuela](https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE) | [Carne \(En vivo\)](https://open.spotify.com/album/610BGu4N2Zksxyb6JbuH5p) | 5:59 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 43 | [Miel](https://open.spotify.com/track/2IbiZBpJuvY8pMzKhDtWLP) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS) | 4:55 |
 | 44 | [El Aparecido](https://open.spotify.com/track/5IpBCVityIZt8b6TUFm74U) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Inti\-Illimani, Tributo A Su Música \- A La Salud de la Música Chilena](https://open.spotify.com/album/3bLMlRJGnzb9xhvddIwyJo) | 4:10 |
 
-Snapshot ID: `ZqQ4gAAAAAAm16sDTpSs/fkpqmgK7rUU`
+Snapshot ID: `ZqWKAAAAAAAPB3qqyLZwyIFfa7LccbHW`

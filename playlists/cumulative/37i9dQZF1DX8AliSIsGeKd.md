@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Boys Noize
 
-3,952 songs - 14 day 7 hr 31 min
+3,953 songs - 14 day 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [Blossom](https://open.spotify.com/track/6VztmbKdEMOv2AtFGqHtXe) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Blossom](https://open.spotify.com/album/5nOEZixldUUDw7v75j4PiE) | 5:58 | 2022-05-26 | 2022-06-17 |
 | [Blow Out](https://open.spotify.com/track/5xWn1sBr3ZkFOSUrfp6Iz4) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Blow Out](https://open.spotify.com/album/7CNhoiKG42kp3wZAmTP0r1) | 3:36 | 2023-09-07 | 2023-09-22 |
 | [Blow Your Mind](https://open.spotify.com/track/2hUdC7KJF8hkBgfykpGz1z) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Blow Your Mind](https://open.spotify.com/album/3FNaV3PpvNblwUfe5sOhU2) | 4:45 | 2023-06-16 | 2023-07-07 |
+| [Blue Oceans](https://open.spotify.com/track/4AwfnjhjdznTa8jHRbw4ed) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Blue Oceans](https://open.spotify.com/album/6oEzs1PNVAaL6XOBWMinpF) | 3:52 | 2024-07-29 |  |
 | [BMG](https://open.spotify.com/track/2gbMcn8udg6upjSHKTy3bu) | [Daniel Knoxville](https://open.spotify.com/artist/1kmOVioyKKjuCRveJPs5zb) | [BMG](https://open.spotify.com/album/7bYfX92zB5HCqQZyaJYKsY) | 3:48 | 2024-06-13 | 2024-06-21 |
 | [Bocha Bocha](https://open.spotify.com/track/5NSjxBfnO0Kfn4qL1slvbo) | [Tom Zeta](https://open.spotify.com/artist/1KagGHhjHBqLcu6fySzMsy) | [Gonna Get You Real Good EP](https://open.spotify.com/album/73gNvLVFmnvyaFg0zTfqn4) | 5:59 | 2023-01-05 | 2023-01-27 |
 | [BODMIN MOOR](https://open.spotify.com/track/1bxeDLruOvbsNsPuDCuDQj) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [BODMIN MOOR](https://open.spotify.com/album/6pRYP3gJYMr67kdot35pMj) | 5:35 | 2022-06-16 | 2022-07-01 |
@@ -2292,7 +2293,7 @@
 | [Moment of Silence](https://open.spotify.com/track/76rKisEd75lppU2EPgsPhM) | [Robin Schellenberg](https://open.spotify.com/artist/78Hy8NdjsX1EPvxZfOE4lE), [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM) | [Moment of Silence](https://open.spotify.com/album/2dBcQ06pG04IUCWjMEwGc9) | 6:14 | 2023-11-02 | 2023-11-25 |
 | [Momentary](https://open.spotify.com/track/7w1XEGMMKGuzPsXO3zU9ZT) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Firestorm](https://open.spotify.com/album/4OQwkJa6EB9QUxV8eSEUKH) | 7:40 | 2022-05-05 | 2022-05-27 |
 | [Moments](https://open.spotify.com/track/2EJHMcrYaAAFxIPOmq1tCU) | [LEVT](https://open.spotify.com/artist/5xtKvLkmqMb5tTMuU9Lgmn) | [Moments](https://open.spotify.com/album/6zrHj0k6Cftf30Z0iX2tJP) | 6:49 | 2022-11-18 | 2022-12-09 |
-| [Moments \- Legowelt Remix](https://open.spotify.com/track/52xJFsj1mQlvsghnl6WwQQ) | [Martin Matiske](https://open.spotify.com/artist/3igdzkCS5amYiAmeC5xKYG), [Legowelt](https://open.spotify.com/artist/0cG9dZ6X8YfLeGe24QWMwM) | [Moments \(Legowelt Remix\)](https://open.spotify.com/album/0bcvWpOcemChvgwGubnIzG) | 6:48 | 2024-07-18 |  |
+| [Moments \- Legowelt Remix](https://open.spotify.com/track/52xJFsj1mQlvsghnl6WwQQ) | [Martin Matiske](https://open.spotify.com/artist/3igdzkCS5amYiAmeC5xKYG), [Legowelt](https://open.spotify.com/artist/0cG9dZ6X8YfLeGe24QWMwM) | [Moments \(Legowelt Remix\)](https://open.spotify.com/album/0bcvWpOcemChvgwGubnIzG) | 6:48 | 2024-07-18 | 2024-07-30 |
 | [Moments Die \- 1\-800 GIRLS Remix](https://open.spotify.com/track/7z6IjceFAK4Zw1qkIC2rKB) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g), [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ) | [Moments Die \(1\-800 GIRLS Remix\)](https://open.spotify.com/album/1neIt7DVsdahqpmr7FMTyT) | 4:37 | 2024-05-30 | 2024-06-14 |
 | [Moments Gone \- Edit](https://open.spotify.com/track/5coMYxwIrNMxtMIRJ1tWYm) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Moments Gone](https://open.spotify.com/album/7E5YP47yOVda2H6dZGkEm4) | 3:40 | 2023-02-02 | 2023-02-24 |
 | [Moments of Happiness](https://open.spotify.com/track/4cfy5S01BFu0fOlRVxcLmV) | [Adam Stacks](https://open.spotify.com/artist/2L6tFQkfIxssirVgyNtVaL) | [Moments of Happiness](https://open.spotify.com/album/6R29XbhOmyoXIgdHwaAEgl) | 4:38 | 2024-02-22 | 2024-03-01 |

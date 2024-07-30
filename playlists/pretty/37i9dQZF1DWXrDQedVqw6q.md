@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrDQedVqw6q.md) - [plain]
 
 > Calm music to help you focus on your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,047 likes - 150 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,121 likes - 150 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

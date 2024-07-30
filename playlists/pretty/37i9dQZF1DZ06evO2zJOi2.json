@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 635062,
+  "num_followers": 635326,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAAAhzL0+FVN+GvQ8Cct3S/ir",
+  "snapshot_id": "ZqWKAAAAAACS/s91X+zD3sBj2PfgMiDX",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "NASHVILLE, TENNESSEE",
-        "url": "https://open.spotify.com/album/2NwE6uGGwiaT5gyBbAszd5"
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
       },
       "artists": [
-        {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        },
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 206146,
-      "name": "Hangin\u2019 On (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/6KQTiNgEbTRMREYeVCZMXU"
+      "duration_ms": 208280,
+      "name": "The Way I Talk",
+      "url": "https://open.spotify.com/track/6ok4IyXcJQekEeSlBjcI9Y"
     },
     {
       "added_at": null,
@@ -399,6 +395,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "NASHVILLE, TENNESSEE",
+        "url": "https://open.spotify.com/album/2NwE6uGGwiaT5gyBbAszd5"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 206146,
+      "name": "Hangin\u2019 On (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/6KQTiNgEbTRMREYeVCZMXU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If I Know Me",
         "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
       },
@@ -406,27 +422,15 @@
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 208280,
-      "name": "The Way I Talk",
-      "url": "https://open.spotify.com/track/6ok4IyXcJQekEeSlBjcI9Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dangerous: The Double Album (Bonus)",
-        "url": "https://open.spotify.com/album/6LBPsXUjVuNe9ywLY4xgvX"
-      },
-      "artists": [
+        },
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 199946,
-      "name": "This Side Of A Dust Cloud",
-      "url": "https://open.spotify.com/track/0UotfxRXpJwpem9QheCD5a"
+      "duration_ms": 197253,
+      "name": "Up Down (feat. Florida Georgia Line)",
+      "url": "https://open.spotify.com/track/2RfYofkWwN77WJjR1rpena"
     },
     {
       "added_at": null,
@@ -467,26 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If I Know Me",
-        "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 197253,
-      "name": "Up Down (feat. Florida Georgia Line)",
-      "url": "https://open.spotify.com/track/2RfYofkWwN77WJjR1rpena"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dangerous: The Double Album (Bonus)",
         "url": "https://open.spotify.com/album/6LBPsXUjVuNe9ywLY4xgvX"
       },
@@ -496,9 +480,25 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 234333,
-      "name": "Bandaid On A Bullet Hole",
-      "url": "https://open.spotify.com/track/1RvoRAL612adAVrPUoAMHR"
+      "duration_ms": 199946,
+      "name": "This Side Of A Dust Cloud",
+      "url": "https://open.spotify.com/track/0UotfxRXpJwpem9QheCD5a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 157693,
+      "name": "If I Know Me",
+      "url": "https://open.spotify.com/track/7zK4UxuBYdenyXNHJ3U6HA"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dangerous: The Double Album (Bonus)",
+        "url": "https://open.spotify.com/album/6LBPsXUjVuNe9ywLY4xgvX"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "Bandaid On A Bullet Hole",
+      "url": "https://open.spotify.com/track/1RvoRAL612adAVrPUoAMHR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If I Know Me",
         "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
       },
@@ -552,9 +568,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 157693,
-      "name": "If I Know Me",
-      "url": "https://open.spotify.com/track/7zK4UxuBYdenyXNHJ3U6HA"
+      "duration_ms": 221880,
+      "name": "Talkin' Tennessee",
+      "url": "https://open.spotify.com/track/1mUTpDe3E8pML637zOFL5D"
     },
     {
       "added_at": null,
@@ -583,22 +599,6 @@
       "duration_ms": 154960,
       "name": "Turn You Down (HARDY feat. Morgan Wallen, Zakk Wylde)",
       "url": "https://open.spotify.com/track/395Vms42bEvN38TBqsXGO3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If I Know Me",
-        "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 221880,
-      "name": "Talkin' Tennessee",
-      "url": "https://open.spotify.com/track/1mUTpDe3E8pML637zOFL5D"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Immerse yourself in the mysticism of Tulum!
 
-347 songs - 23 hr 59 min
+349 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,8 +203,9 @@
 | [Mis Ojos Sobre Ti](https://open.spotify.com/track/7MmUo1ODliIgRv9JmZqadu) | [Leti Garza](https://open.spotify.com/artist/5Y7hCkfW1qOuMjIxJrBwzG) | [El Unico Para Mi](https://open.spotify.com/album/64Nc0SfWax62YGEGx9w0Co) | 4:38 | 2022-01-04 | 2022-06-01 |
 | [Moody](https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 2:14 | 2022-06-15 | 2024-04-19 |
 | [Moody](https://open.spotify.com/track/3SeODqTSyfnh414rpVtnDR) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/5I5YPvShZe8jZ3hqWHKClb) | 2:14 | 2022-06-15 | 2022-07-23 |
-| [Morena](https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Morena](https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U) | 2:29 | 2022-07-11 |  |
+| [Morena](https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Morena](https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U) | 2:29 | 2022-07-11 | 2024-07-30 |
 | [Move On](https://open.spotify.com/track/26Prfvk9o5cwyLMCl5zQMS) | [Isaac Chambers](https://open.spotify.com/artist/3Z8221k9q4oLkXUEuizRJP), [Dub Princess](https://open.spotify.com/artist/7HbkOfqsXZgUAJxaK2I3GJ) | [Isaac Chambers & Dub Princess](https://open.spotify.com/album/56Wz4bSbtZnnB5bdYroHvW) | 5:36 | 2022-06-15 | 2024-01-12 |
+| [Move on Up \- Live](https://open.spotify.com/track/4ejYPzCYRkyb11nNxWWaIn) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Live at KEXP!](https://open.spotify.com/album/0xDJ4TpSMjLVXtl9VrpF69) | 5:00 | 2024-07-29 |  |
 | [Mujer del Desierto](https://open.spotify.com/track/0mT3gq4INtY9A0sjWCz5ms) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Mujer del Desierto](https://open.spotify.com/album/3wFHt75jtO3M8zdAfN5gDG) | 3:30 | 2022-03-04 | 2022-07-16 |
 | [Muy Bien](https://open.spotify.com/track/39fTOnYqGqM00A6xaIqtJn) | [MALÓNE](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N) | [Muy Bien](https://open.spotify.com/album/0YBsUl0SvyfhMBJMg1EGDc) | 6:55 | 2022-06-15 | 2022-11-25 |
 | [Muyè](https://open.spotify.com/track/5WgW9bG91h4zRUnBr97d6c) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [You Are Safe](https://open.spotify.com/album/7lg5i5BW3Fhmay7kEpyORQ) | 7:49 | 2022-06-15 | 2023-03-25 |
@@ -225,7 +226,7 @@
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-05-09 | 2023-03-25 |
 | [Ojos Negros](https://open.spotify.com/track/0E34QOEIpfSEvwkWOUi16T) | [Desta French](https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W), [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV) | [Ojos Negros](https://open.spotify.com/album/5SgYNPLjnGFIrV37pV6mZ1) | 3:44 | 2022-01-04 | 2022-07-26 |
 | [Ototoa](https://open.spotify.com/track/3Dt12J3lnA2hweSrXmHktx) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Visit Malphino](https://open.spotify.com/album/1C6Eo9PYKoTQWAtx7NyAHg) | 4:15 | 2022-01-04 | 2022-07-29 |
-| [Pacifico Soy](https://open.spotify.com/track/3HU8CSLqd7d6XSHOfWggmK) | [Electropico](https://open.spotify.com/artist/0vBqXIopwkJEQZEssLZEBK), [Mr\. Pauer](https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ) | [Fiera](https://open.spotify.com/album/1yjWcaPexYHc4DYKFfVfuc) | 2:50 | 2022-09-19 |  |
+| [Pacifico Soy](https://open.spotify.com/track/3HU8CSLqd7d6XSHOfWggmK) | [Electropico](https://open.spotify.com/artist/0vBqXIopwkJEQZEssLZEBK), [Mr\. Pauer](https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ) | [Fiera](https://open.spotify.com/album/1yjWcaPexYHc4DYKFfVfuc) | 2:50 | 2022-09-19 | 2024-07-30 |
 | [Pajaritos](https://open.spotify.com/track/72ovCu5b5DVYBFg1L8D9Ms) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Pajaritos](https://open.spotify.com/album/1oU2iYq2WIqNFnspLY6mYR) | 3:27 | 2022-09-12 | 2022-11-04 |
 | [Paloma](https://open.spotify.com/track/4lvRuiCSvrrfmnAb4YHZHn) | [MiRET](https://open.spotify.com/artist/0DvhQq0PzDC5dyRoH5XCI5), [Tuğçe Kurtiş](https://open.spotify.com/artist/5cYodhg1fZFGKqCQmgNlZf), [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC) | [Paloma + Remixes](https://open.spotify.com/album/5LE9oiaGprQqvFtinBA73K) | 8:26 | 2022-06-15 | 2023-03-25 |
 | [Paradise](https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Paradise](https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O) | 3:16 | 2022-12-07 | 2023-01-03 |
@@ -354,6 +355,7 @@
 | [Y tu te vas](https://open.spotify.com/track/5BkbrF1KA0Y6Y0B5M1N57v) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Y tu te vas](https://open.spotify.com/album/7omUCnWLUozEhrsODlxM0b) | 3:14 | 2022-09-30 | 2023-12-13 |
 | [Ya Va Pasar](https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Ya Va Pasar](https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI) | 3:23 | 2023-11-16 |  |
 | [Yale](https://open.spotify.com/track/00VHqKIeXGsZjoVLzanwlx) | [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU), [Msafiri Zawose](https://open.spotify.com/artist/11ouELfzx4OsUjTQNlOa8w) | [Yale](https://open.spotify.com/album/69aWtxaNpf4Tm2sCsGB4Qi) | 4:30 | 2022-01-04 | 2022-07-25 |
+| [Yellow Laces](https://open.spotify.com/track/2nKsFoAxQRjQz5zEvM7Hhz) | [Travelers All Stars](https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH) | [Yellow Laces \- Another Life](https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4) | 3:17 | 2024-07-29 |  |
 | [¿O vas O voy?](https://open.spotify.com/track/2BHvCvPxx9eEZ3WhWaMp9N) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Ofrenda](https://open.spotify.com/album/3zanrKQc0jT7YAarGnYPl3) | 3:24 | 2022-01-04 | 2022-07-18 |
 
 \*This playlist was first scraped on 2022-05-13. Prior content cannot be recovered.

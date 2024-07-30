@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Novo Som
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,692 likes - 70 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,713 likes - 70 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,16 +49,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 39 | [Louco \(feat\. PG\)](https://open.spotify.com/track/6BFJMuXwEzGLWkjB0pOxDV) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Louco \(feat\. PG\)](https://open.spotify.com/album/4yc5e16AJYtTFxCv4J0VTg) | 5:09 |
 | 40 | [NAVES IMPERIAIS](https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM), [Walter Lopes](https://open.spotify.com/artist/6QH24lnUEMFIhGmKyuNgFV) | [NAVES IMPERIAIS](https://open.spotify.com/album/7bmxgJFIVD4rNi4x73i2Jy) | 5:14 |
 | 41 | [Recomeço](https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp) | [ID2](https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12) | [Recomeço](https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ) | 3:45 |
-| 42 | [Êxodo \- ao vivo em São Paulo](https://open.spotify.com/track/7AKkT7q6Kxdrh2n2qvLAHk) | [Projeto Sola](https://open.spotify.com/artist/7frHe3lyyKF5Uo1rDZ058K) | [Homem Litúrgico, Ao Vivo](https://open.spotify.com/album/3pBtEZlLUVr9ljXjY0zeH5) | 3:54 |
-| 43 | [Bênçãos Que Não Têm Fim \- Counting My Blessings](https://open.spotify.com/track/21KBpbibTPe8joYvT48nzY) | [Khorus](https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx) | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/album/2nQY0SJ4s0mMjNSFgW0Bcx) | 2:38 |
+| 42 | [Bênçãos Que Não Têm Fim \- Counting My Blessings](https://open.spotify.com/track/21KBpbibTPe8joYvT48nzY) | [Khorus](https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx) | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/album/2nQY0SJ4s0mMjNSFgW0Bcx) | 2:38 |
+| 43 | [Êxodo \- ao vivo em São Paulo](https://open.spotify.com/track/7AKkT7q6Kxdrh2n2qvLAHk) | [Projeto Sola](https://open.spotify.com/artist/7frHe3lyyKF5Uo1rDZ058K) | [Homem Litúrgico, Ao Vivo](https://open.spotify.com/album/3pBtEZlLUVr9ljXjY0zeH5) | 3:54 |
 | 44 | [Castelo Forte \- Ao Vivo](https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p) | [Castelo Forte \(Ao Vivo\)](https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q) | 3:43 |
 | 45 | [Falhas \- Ao Vivo](https://open.spotify.com/track/2QXChqCLWRKdkrxXYtBJYn) | [Daniel Juan](https://open.spotify.com/artist/6mZEPnx8xlrehOpkivylLH) | [Falhas \(Ao Vivo\)](https://open.spotify.com/album/02Qphftpp5JOVPTaEdg714) | 6:19 |
 | 46 | [Tele Visione of Reality](https://open.spotify.com/track/32rRKhFT3AyOAZiuWjmoch) | [Allos](https://open.spotify.com/artist/22oyZI0CrBWBe7eHVd9LP1), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [Tele Visione of Reality](https://open.spotify.com/album/2Ex7NLDr23eR5XLRZ6RoQA) | 4:55 |
 | 47 | [Peregrino](https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Peregrino](https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG) | 4:18 |
 | 48 | [Cantem os Anjos](https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs) | [Ministério M3](https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6) | [Cantem os Anjos](https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB) | 3:14 |
 | 49 | [Me Ensina a Seguir](https://open.spotify.com/track/53m9pJdNLAbNefsoA590sr) | [Além do Mar](https://open.spotify.com/artist/7jRI5VDkIu2JU3zpyiF1b3) | [Me Ensina a Seguir](https://open.spotify.com/album/661NUWpdZwuHVZcyg9yXuq) | 4:06 |
-| 50 | [Em Coma](https://open.spotify.com/track/7Cvut5AmV0X1O7Xtg8Nd7H) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT), [Vulgo Raph](https://open.spotify.com/artist/31Gjt5HPHlXltWWVh1LmKA) | [Em Coma](https://open.spotify.com/album/3wPtlL06LbcxZnNwwXz4LE) | 3:35 |
-| 51 | [Nova criatura \(AO VIVO\)](https://open.spotify.com/track/05nNQLlg1HBWdviQKWpT1w) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Kleber Lucas ao vivo no Teatro Rival, Pt.1 \(AO VIVO\)](https://open.spotify.com/album/76A83uRzxB9ySA6BLEKInf) | 5:09 |
+| 50 | [Nova criatura \(AO VIVO\)](https://open.spotify.com/track/05nNQLlg1HBWdviQKWpT1w) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Kleber Lucas ao vivo no Teatro Rival, Pt.1 \(AO VIVO\)](https://open.spotify.com/album/76A83uRzxB9ySA6BLEKInf) | 5:09 |
+| 51 | [Em Coma](https://open.spotify.com/track/7Cvut5AmV0X1O7Xtg8Nd7H) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT), [Vulgo Raph](https://open.spotify.com/artist/31Gjt5HPHlXltWWVh1LmKA) | [Em Coma](https://open.spotify.com/album/3wPtlL06LbcxZnNwwXz4LE) | 3:35 |
 | 52 | [Trindade](https://open.spotify.com/track/3rtLD5pPNKASw1t4MRnIW3) | [Luzlive](https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa), [Arthur Lemos](https://open.spotify.com/artist/5pOq7exRqZuoSibuUQa4dz) | [Trindade](https://open.spotify.com/album/7KRAib9LMy9keCV4YHT3aK) | 12:49 |
 | 53 | [Agora Eu Vivo Teu Amor](https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0) | [Stone Worship](https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf) | [Agora Eu Vivo Teu Amor](https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO) | 3:10 |
 | 54 | [No Princípio](https://open.spotify.com/track/0aFNhLg6YmxGuuyAi7BVgp) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [KINTSUGI \(DELUXE\)](https://open.spotify.com/album/0R8zowO1xL1LgHcwiKgcoc) | 2:46 |

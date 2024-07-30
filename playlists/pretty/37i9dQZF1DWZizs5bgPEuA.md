@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZizs5bgPEuA.md) - [plain]
 
 > Music by our 2024 Artists To Watch\. Cover: Jasiel Nuñez
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,313 likes - 29 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,314 likes - 29 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

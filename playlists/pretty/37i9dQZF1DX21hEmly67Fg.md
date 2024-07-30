@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 
 > Chill to these laid\-back classical covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,660 likes - 97 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,824 likes - 97 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 3 | [What Was I Made For? \- Piano Version](https://open.spotify.com/track/0ELGKtNSHKPlrrITjXCQQ0) | [Relaxing Piano Covers](https://open.spotify.com/artist/4lwvpHoeQnnQK1W4btWFOU) | [What Was I Made For? \(Piano Version\)](https://open.spotify.com/album/23n2QTKckKp2ZXM16cug3P) | 3:43 |
 | 4 | [Make You Feel My Love](https://open.spotify.com/track/5PwH7G4wPhk11QKx85j5uL) | [Greg Maroney](https://open.spotify.com/artist/13CLZBR9RbwxLXRyh5m3MC) | [Make You Feel My Love](https://open.spotify.com/album/60MO7vPyBBFzhsL7UBcxAJ) | 3:11 |
 | 5 | [Anti\-Hero](https://open.spotify.com/track/4I0Kmiieqw8EmKEbiZPQzJ) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [Anti\-Hero](https://open.spotify.com/album/10TQNCLR0xgqTkHfUqRaGj) | 2:42 |
-| 6 | [Africa](https://open.spotify.com/track/3Kc0NNnkfVyNQbnOONWgeE) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Africa](https://open.spotify.com/album/1wwzqz8EeieZrlEA6zkwd8) | 3:28 |
-| 7 | [Got Me Started](https://open.spotify.com/track/57oJOxhRWwsuUQHt9HqGaS) | [Terracciano](https://open.spotify.com/artist/0Kk92lO49EF9Bk39qRycLl) | [Got Me Started](https://open.spotify.com/album/6d1tsnZvDEndqo4F8olKAs) | 3:47 |
-| 8 | [Happier Than Ever](https://open.spotify.com/track/7s8N22VkwQQMYaCvIw0BtI) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Happier Than Ever](https://open.spotify.com/album/2Qy3PrG7ftu8pVijsAUiXf) | 2:32 |
+| 6 | [Got Me Started](https://open.spotify.com/track/57oJOxhRWwsuUQHt9HqGaS) | [Terracciano](https://open.spotify.com/artist/0Kk92lO49EF9Bk39qRycLl) | [Got Me Started](https://open.spotify.com/album/6d1tsnZvDEndqo4F8olKAs) | 3:47 |
+| 7 | [Happier Than Ever](https://open.spotify.com/track/7s8N22VkwQQMYaCvIw0BtI) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Happier Than Ever](https://open.spotify.com/album/2Qy3PrG7ftu8pVijsAUiXf) | 2:32 |
+| 8 | [Africa](https://open.spotify.com/track/3Kc0NNnkfVyNQbnOONWgeE) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Africa](https://open.spotify.com/album/1wwzqz8EeieZrlEA6zkwd8) | 3:28 |
 | 9 | [Wrecking Ball \- Solo Piano Version](https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Wrecking ball \(Solo Piano Version\)](https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL) | 3:24 |
 | 10 | [when the party's over](https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [when the party’s over](https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T) | 3:28 |
 | 11 | [Cruel Summer \(arr\. piano\)](https://open.spotify.com/track/0sI0B9QXE5niX3mneduYhe) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Cruel Summer \(arr\. piano\)](https://open.spotify.com/album/0Sbm8z1AV9cR6weWaxThHr) | 2:43 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 96 | [Gatekeeper](https://open.spotify.com/track/3NpymsA5tpDNj26CLM7FuN) | [Fauré Quartett](https://open.spotify.com/artist/4RUUet9z5AWXyt9dn6asqN) | [Popsongs](https://open.spotify.com/album/4GTw1vgMJTVLIdza7QdhPH) | 2:13 |
 | 97 | [And I Love Her](https://open.spotify.com/track/0PwlcbCorgDG9SKTtWYcj2) | [Terri Matheson](https://open.spotify.com/artist/4F1qAKXP2mtfOM37s8rG5g) | [And I Love Her](https://open.spotify.com/album/7yLwYXIxV1w4DYUcllWU04) | 3:19 |
 
-Snapshot ID: `Zp9vgwAAAAAi30M1SPVeMUnjnjImTWN3`
+Snapshot ID: `Zqe6/wAAAAAsA20Rls/DG9UIpe49NmVW`

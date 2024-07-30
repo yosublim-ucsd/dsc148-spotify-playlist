@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene\. Cover: The Judds
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,062 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 639,228 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 92 | [Redneck Girl](https://open.spotify.com/track/3GdqfRTNtoAbYsDvipCoVg) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/6vuxLk4KSm3iDUjIgPh9Cd) | 3:27 |
 | 93 | [To Know Him Is to Love Him \- 2015 Remaster](https://open.spotify.com/track/0gIhlWV243Z1K93QfCeJTM) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio \(2016 Remaster\)](https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4) | 3:47 |
 | 94 | [Stand By Me \- Single Version](https://open.spotify.com/track/3Fa7jdzVHdykpioJP1Qw7Z) | [Mickey Gilley](https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC) | [Ten Years Of Hits](https://open.spotify.com/album/64O4gYFs64wZqznblUncYM) | 3:35 |
-| 95 | [Daddy's Hands](https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66) | [Holly Dunn](https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH) | [Milestones\- Greatest Hits](https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP) | 3:29 |
-| 96 | [Honky Tonk Man](https://open.spotify.com/track/3Hbm5luuxJheCKJheYAVbZ) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Guitars, Cadillacs, Etc., Etc.](https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO) | 2:47 |
+| 95 | [Honky Tonk Man](https://open.spotify.com/track/3Hbm5luuxJheCKJheYAVbZ) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Guitars, Cadillacs, Etc., Etc.](https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO) | 2:47 |
+| 96 | [Daddy's Hands](https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66) | [Holly Dunn](https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH) | [Milestones\- Greatest Hits](https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP) | 3:29 |
 | 97 | [I'm No Stranger to the Rain](https://open.spotify.com/track/0lNLXEMPtGhEpbgwQfo0c1) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [Greatest Hits](https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo) | 3:36 |
 | 98 | [I Believe In You](https://open.spotify.com/track/2XQUerfdDAi7Ncla2a4skr) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 4:05 |
 | 99 | [Born To Boogie](https://open.spotify.com/track/6ORuFMNsVti1by7vkgDdVK) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [35 Biggest Hits](https://open.spotify.com/album/1b20X9PDCrKCDlFA6mpiF5) | 2:44 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 120 | [Heartbroke](https://open.spotify.com/track/79gYsiFPJ8x6ofr656fVIP) | [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [Super Hits](https://open.spotify.com/album/7d8pkWSqNHRDeJh3qu9DDa) | 3:14 |
 | 121 | [Somebody Should Leave](https://open.spotify.com/track/4m3VFxVwSPk8VGoA9qcLRC) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [My Kind Of Country](https://open.spotify.com/album/3jgF141Czb7pAXR5yvzZ9q) | 3:33 |
 | 122 | [That Lovin' You Feelin' Again \(with Roy Orbison\) \- 2008 Remaster](https://open.spotify.com/track/4PsXJjKjUQzuX5o9UAsNF2) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Duets](https://open.spotify.com/album/2QM56YvhiO7uhXMe4z45Wn) | 3:59 |
-| 123 | [Dixie On My Mind](https://open.spotify.com/track/7HdSVjZimbY8w0DX8aHLMv) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [35 Biggest Hits](https://open.spotify.com/album/1b20X9PDCrKCDlFA6mpiF5) | 2:36 |
-| 124 | [Baby I Lied](https://open.spotify.com/track/5KqGrafc3paz7bNPju5Ne9) | [Deborah Allen](https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u) | [Cheat the Night](https://open.spotify.com/album/6ZMLxQUzTCjKYB1IVhAgLM) | 4:10 |
+| 123 | [Baby I Lied](https://open.spotify.com/track/5KqGrafc3paz7bNPju5Ne9) | [Deborah Allen](https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u) | [Cheat the Night](https://open.spotify.com/album/6ZMLxQUzTCjKYB1IVhAgLM) | 4:10 |
+| 124 | [Dixie On My Mind](https://open.spotify.com/track/7HdSVjZimbY8w0DX8aHLMv) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [35 Biggest Hits](https://open.spotify.com/album/1b20X9PDCrKCDlFA6mpiF5) | 2:36 |
 | 125 | [Perfect](https://open.spotify.com/track/2X90tKH59XlulLjbT4vci1) | [Fairground Attraction](https://open.spotify.com/artist/1sAkg8871iPVI0wPbOfIZa) | [The First Of A Million Kisses](https://open.spotify.com/album/6va9WpXLiBCPS86QWKgOFi) | 3:36 |
 | 126 | [Mama's Never Seen Those Eyes](https://open.spotify.com/track/2CpnNgpSYSjwkyXAJqHSnP) | [The Forester Sisters](https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis) | [The Forester Sisters](https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA) | 2:50 |
 | 127 | [Do Ya'](https://open.spotify.com/track/4uhDXoLPOR60UWIQNfdJjk) | [K.T\. Oslin](https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b) | [Greatest Hits\-\-"Songs from an Aging Sex Bomb"](https://open.spotify.com/album/1kXK1pSK2uRUtWml9WA92X) | 4:05 |

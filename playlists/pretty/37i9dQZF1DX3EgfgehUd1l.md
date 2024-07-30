@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,367 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,376 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 63 | [I'll Come When You Call](https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Ruby Murray \- Greatest Hits](https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO) | 2:36 |
 | 64 | [Tom Dooley](https://open.spotify.com/track/3nFOQSVdAqr6vPpXA98RnP) | [Lonnie Donegan](https://open.spotify.com/artist/6dIOTeSQDBSR6gwsL0WB2n) | [The EP Collection](https://open.spotify.com/album/4EwFjI32q5wL1cFie4lyPu) | 3:20 |
 | 65 | [High Noon \(Do Not Forsake Me\)](https://open.spotify.com/track/2KA7Kytj9Ahdb6tX74EJJ3) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Pure..\. '50s](https://open.spotify.com/album/01YaGa6qd4HjIPjyJI8mpb) | 2:37 |
-| 66 | [Look At That Girl](https://open.spotify.com/track/3Dnfvd4VGayvFaAMe1YTzE) | [Guy Mitchell](https://open.spotify.com/artist/1YAtBHWaWzZnkaoSFHGTBV) | [The Very Best of Guy Mitchell](https://open.spotify.com/album/7u2Iowg6LckE5uQyoYHzBz) | 2:53 |
-| 67 | [My Prayer](https://open.spotify.com/track/6vR2UxBMmUAopJyIWAXXuO) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Platters](https://open.spotify.com/album/3kMD4w9rWAFZRacAljVvwt) | 2:43 |
+| 66 | [My Prayer](https://open.spotify.com/track/6vR2UxBMmUAopJyIWAXXuO) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Platters](https://open.spotify.com/album/3kMD4w9rWAFZRacAljVvwt) | 2:43 |
+| 67 | [Look At That Girl](https://open.spotify.com/track/3Dnfvd4VGayvFaAMe1YTzE) | [Guy Mitchell](https://open.spotify.com/artist/1YAtBHWaWzZnkaoSFHGTBV) | [The Very Best of Guy Mitchell](https://open.spotify.com/album/7u2Iowg6LckE5uQyoYHzBz) | 2:53 |
 | 68 | [Walking My Baby Back Home](https://open.spotify.com/track/0zLMXELSW0q0HvBvVLF139) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [Street Of Memories](https://open.spotify.com/album/6PN0sBIqdjtodywtNBBzrX) | 2:23 |
 | 69 | [Wanted \(with Henri René & His Orchestra and Chorus\)](https://open.spotify.com/track/554BJuPGuQB8u1PKg4LBvB) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [Henri René & His Orchestra and Chorus](https://open.spotify.com/artist/6Sf3oBWXwLFaEDDprUAc4v) | [Very Best Of](https://open.spotify.com/album/4KB7NVgy3aKibqM1VqHd84) | 3:05 |
 | 70 | [Love Is A Many Splendoured Thing](https://open.spotify.com/track/1p3Ae3lSSaJWCHHLrsFNKq) | [The Four Aces](https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy) | [Call The Midwife](https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3) | 3:00 |

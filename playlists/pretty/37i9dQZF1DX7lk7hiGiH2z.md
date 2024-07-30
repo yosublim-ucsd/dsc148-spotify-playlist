@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Plantschen, Eis & Freibadpommes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,382 likes - 45 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,405 likes - 45 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 40 | [Baller mit meinem Rad](https://open.spotify.com/track/4mqMxZjFLrTi7lwPdnYxHm) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Meine Mütze und Ich](https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5) | 2:47 |
 | 41 | [Das Farbenlied](https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Lern\- und Spaßlieder](https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL) | 3:06 |
 | 42 | [Sommerzeit](https://open.spotify.com/track/4QBmgphP6uIJq3G2wnG55h) | [Nilsen](https://open.spotify.com/artist/13x0bektBEknCM276OqYMn), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Sommerzeit](https://open.spotify.com/album/3hUAQEXxyiYRDFoJ1FhFxs) | 2:14 |
-| 43 | [Wir wollen Sonne \(Verde e amarelo\)](https://open.spotify.com/track/47ALOYPkzNdCqqzcS58Wsu) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Sommerkinder](https://open.spotify.com/album/6yWDhurBL3quArg4JJ7WgH) | 3:39 |
-| 44 | [Das Sommertier](https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9) | [Hurra Kinderlieder](https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a) | [Das Sommertier](https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz) | 2:27 |
+| 43 | [Das Sommertier](https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9) | [Hurra Kinderlieder](https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a) | [Das Sommertier](https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz) | 2:27 |
+| 44 | [Wir wollen Sonne \(Verde e amarelo\)](https://open.spotify.com/track/47ALOYPkzNdCqqzcS58Wsu) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Sommerkinder](https://open.spotify.com/album/6yWDhurBL3quArg4JJ7WgH) | 3:39 |
 | 45 | [Urlaub unter Freunden](https://open.spotify.com/track/3eZrUbyFij1Kzk4hVMBroR) | [Die Lollipops](https://open.spotify.com/artist/6rZqH8GxGkk8qoDVwjC8Nt) | [Zusammen sind wir doppelt stark\-Unser Freundschaftsalbum](https://open.spotify.com/album/6VDjPoe7YZFBNkCntEfkQS) | 3:33 |
 
 Snapshot ID: `ZpD3mAAAAADyCbwjEfQhIjVSS033MIlZ`

@@ -1,6 +1,6 @@
 {
   "description": "The biggest Christmas songs of all time.",
-  "num_followers": 5558884,
+  "num_followers": 5558446,
   "original_name": "Christmas Hits",
   "owner": {
     "name": "Spotify",
@@ -515,38 +515,6 @@
     {
       "added_at": "2024-07-08 19:06:00",
       "album": {
-        "name": "Elvis' Christmas Album",
-        "url": "https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 129173,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
-    },
-    {
-      "added_at": "2024-07-08 19:06:00",
-      "album": {
-        "name": "A Donny Hathaway Collection",
-        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/38xhBO2AKrJnjdjVnhJES6"
-    },
-    {
-      "added_at": "2024-07-08 19:06:00",
-      "album": {
         "name": "Greatest Christmas Songs",
         "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
       },
@@ -567,6 +535,38 @@
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa"
+    },
+    {
+      "added_at": "2024-07-08 19:06:00",
+      "album": {
+        "name": "A Donny Hathaway Collection",
+        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/38xhBO2AKrJnjdjVnhJES6"
+    },
+    {
+      "added_at": "2024-07-08 19:06:00",
+      "album": {
+        "name": "Elvis' Christmas Album",
+        "url": "https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 129173,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
     },
     {
       "added_at": "2024-07-08 19:06:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-07-08 19:06:00",
       "album": {
+        "name": "Rockin' Little Christmas",
+        "url": "https://open.spotify.com/album/5hZivEHAxRLhYfsaNdPzkU"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 164573,
+      "name": "Run Rudolph Run",
+      "url": "https://open.spotify.com/track/30WHma5z5Sty54jbtoxYEy"
+    },
+    {
+      "added_at": "2024-07-08 19:06:00",
+      "album": {
         "name": "These Are Special Times",
         "url": "https://open.spotify.com/album/32MpBKgfq3OJWbqEFcTwWP"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 161973,
       "name": "Man With The Bag",
       "url": "https://open.spotify.com/track/18g50kFt5uwVeCzQbrCvAO"
-    },
-    {
-      "added_at": "2024-07-08 19:06:00",
-      "album": {
-        "name": "Christmas With Nat, Dean And Bing",
-        "url": "https://open.spotify.com/album/5nn0oYdYM0JOQjSdGDUh5Z"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 85226,
-      "name": "Joy To The World",
-      "url": "https://open.spotify.com/track/5jjsm4Jjq8xjDaue3rW9Go"
     },
     {
       "added_at": "2024-07-08 19:06:00",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2024-07-08 19:06:00",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/47R6Qd78zYkPWvNebvnA4e"
+        "name": "Christmas With Nat, Dean And Bing",
+        "url": "https://open.spotify.com/album/5nn0oYdYM0JOQjSdGDUh5Z"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 267226,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/6Lv9ozIdb06duB01e6ZpNQ"
+      "duration_ms": 85226,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/5jjsm4Jjq8xjDaue3rW9Go"
     }
   ],
   "unique_name": "Christmas Hits",

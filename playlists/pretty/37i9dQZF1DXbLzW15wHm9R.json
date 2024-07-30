@@ -1,13 +1,45 @@
 {
   "description": "Original and synced songs that will stay with you long after the credits roll...Cover: Twisters",
-  "num_followers": 157656,
+  "num_followers": 157641,
   "original_name": "needle drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqAOFwAAAACs94MqltAtz5HaqxP8uKkg",
+  "snapshot_id": "ZqgG5wAAAAByIVq2dKQ+PX+z9EX53yEt",
   "tracks": [
+    {
+      "added_at": "2024-07-29 21:17:27",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
+      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
+    },
+    {
+      "added_at": "2024-07-29 21:17:27",
+      "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/2kTCDrMzts2IAoEGv6CAZq"
+      },
+      "artists": [
+        {
+          "name": "August Moon",
+          "url": "https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA"
+        }
+      ],
+      "duration_ms": 161408,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/6u0hAAm6FNykukqrnglyrF"
+    },
     {
       "added_at": "2024-07-12 22:22:35",
       "album": {
@@ -863,34 +895,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 219453,
-      "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/5rurggqwwudn9clMdcchxT"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },
@@ -907,26 +911,6 @@
       "duration_ms": 158040,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray)",
-      "url": "https://open.spotify.com/track/0AAMnNeIc6CdnfNU85GwCH"
     },
     {
       "added_at": "2024-06-07 04:00:00",

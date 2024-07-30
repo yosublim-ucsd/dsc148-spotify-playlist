@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 
 > The biggest Christmas songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,558,884 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,558,446 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 | 28 | [Last Christmas](https://open.spotify.com/track/5xDrO9DEDJGUQGfyoHvgDJ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas Kisses](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) | 3:23 |
 | 29 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/2QpN1ZVw8eJO5f7WcvUA1k) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 2:24 |
 | 30 | [My Only Wish \(This Year\)](https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [My Only Wish \(This Year\)](https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL) | 4:15 |
-| 31 | [Blue Christmas](https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 2:09 |
+| 31 | [It's Beginning to Look a Lot Like Christmas \(with Mitchell Ayres & His Orchestra\)](https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [The Fontane Sisters](https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15), [Mitchell Ayres & His Orchestra](https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 2:35 |
 | 32 | [This Christmas](https://open.spotify.com/track/38xhBO2AKrJnjdjVnhJES6) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 3:51 |
-| 33 | [It's Beginning to Look a Lot Like Christmas \(with Mitchell Ayres & His Orchestra\)](https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [The Fontane Sisters](https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15), [Mitchell Ayres & His Orchestra](https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 2:35 |
+| 33 | [Blue Christmas](https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 2:09 |
 | 34 | [White Christmas \- 1947 Version](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) | 2:57 |
 | 35 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 |
 | 36 | [Deck The Hall](https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 1:08 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 | 92 | [Santa's Coming for Us](https://open.spotify.com/track/3AlpkljBS1AU7HFVPms8K6) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas](https://open.spotify.com/album/0DB01cPUt66gHPLL1JcdQq) | 3:26 |
 | 93 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/5SyQ5OhqrkJGb35V7RBoL0) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [The Winter Album](https://open.spotify.com/album/4ouVWPI2PNjbd0zjXmfaOS) | 4:12 |
 | 94 | [Frosty The Snowman](https://open.spotify.com/track/6MPpnJDLk37GEIM0iGGITd) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Christmas](https://open.spotify.com/album/3cfRNKKs0by89V5C1uPDm3) | 2:13 |
-| 95 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/4M3K1gnHJnE3cIrAcKZQr3) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These Are Special Times](https://open.spotify.com/album/32MpBKgfq3OJWbqEFcTwWP) | 4:14 |
-| 96 | [Man With The Bag](https://open.spotify.com/track/18g50kFt5uwVeCzQbrCvAO) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Man With The Bag](https://open.spotify.com/album/3NpQCCaahU3jIgug1N89EV) | 2:41 |
-| 97 | [Joy To The World](https://open.spotify.com/track/5jjsm4Jjq8xjDaue3rW9Go) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Christmas With Nat, Dean And Bing](https://open.spotify.com/album/5nn0oYdYM0JOQjSdGDUh5Z) | 1:25 |
+| 95 | [Run Rudolph Run](https://open.spotify.com/track/30WHma5z5Sty54jbtoxYEy) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rockin' Little Christmas](https://open.spotify.com/album/5hZivEHAxRLhYfsaNdPzkU) | 2:44 |
+| 96 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/4M3K1gnHJnE3cIrAcKZQr3) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These Are Special Times](https://open.spotify.com/album/32MpBKgfq3OJWbqEFcTwWP) | 4:14 |
+| 97 | [Man With The Bag](https://open.spotify.com/track/18g50kFt5uwVeCzQbrCvAO) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Man With The Bag](https://open.spotify.com/album/3NpQCCaahU3jIgug1N89EV) | 2:41 |
 | 98 | [What Christmas Means To Me](https://open.spotify.com/track/2qoZNAP3JLyIOtbsPtBjvV) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Someday At Christmas](https://open.spotify.com/album/0zdNmxXNCOFIFsTpJ4Q6uq) | 2:27 |
 | 99 | [Sleigh Ride](https://open.spotify.com/track/79a2ejVzj2SpXkpWdfv1Co) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/15up0e6AFIYZbmErIVPU3p) | 2:55 |
-| 100 | [O Holy Night](https://open.spotify.com/track/6Lv9ozIdb06duB01e6ZpNQ) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/47R6Qd78zYkPWvNebvnA4e) | 4:27 |
+| 100 | [Joy To The World](https://open.spotify.com/track/5jjsm4Jjq8xjDaue3rW9Go) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Christmas With Nat, Dean And Bing](https://open.spotify.com/album/5nn0oYdYM0JOQjSdGDUh5Z) | 1:25 |
 
 Snapshot ID: `Zow4mAAAAADx6mkuu4OPTIX8TMIronS9`

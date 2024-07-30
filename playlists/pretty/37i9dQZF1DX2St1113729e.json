@@ -1,6 +1,6 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Ana Farelo",
-  "num_followers": 215857,
+  "num_followers": 215858,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "Heaven Is A Place On Earth",
+        "url": "https://open.spotify.com/album/6ygyRATKFx7jhF4A96v8IX"
+      },
+      "artists": [
+        {
+          "name": "UMBRA",
+          "url": "https://open.spotify.com/artist/1Fmx9ikFyywYVTyP28OMUr"
+        }
+      ],
+      "duration_ms": 125032,
+      "name": "Heaven Is A Place On Earth",
+      "url": "https://open.spotify.com/track/1MOnF73Cw0F9kDB2QEakgN"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "Sol",
         "url": "https://open.spotify.com/album/4Sk4n1yJtPoQzTyk39ZRqG"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 184500,
       "name": "Sol",
       "url": "https://open.spotify.com/track/2d4PohwToykbflmmcUCRXf"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Heaven Is A Place On Earth",
-        "url": "https://open.spotify.com/album/6ygyRATKFx7jhF4A96v8IX"
-      },
-      "artists": [
-        {
-          "name": "UMBRA",
-          "url": "https://open.spotify.com/artist/1Fmx9ikFyywYVTyP28OMUr"
-        }
-      ],
-      "duration_ms": 125032,
-      "name": "Heaven Is A Place On Earth",
-      "url": "https://open.spotify.com/track/1MOnF73Cw0F9kDB2QEakgN"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "HARAKIRI",
-        "url": "https://open.spotify.com/album/5tndicOFZ6DlGE5twFvzIX"
-      },
-      "artists": [
-        {
-          "name": "LUNA KI",
-          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "HARAKIRI",
-      "url": "https://open.spotify.com/track/6Rc2Mbj3V8xMQOqucCTsjh"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Nunca Volver\u00e1",
         "url": "https://open.spotify.com/album/0fUpATJfQ07qZX7PqKNkQa"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 177391,
       "name": "Nunca Volver\u00e1",
       "url": "https://open.spotify.com/track/5WdgPdIyyZoFztGaYKH1DY"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "HARAKIRI",
+        "url": "https://open.spotify.com/album/5tndicOFZ6DlGE5twFvzIX"
+      },
+      "artists": [
+        {
+          "name": "LUNA KI",
+          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "HARAKIRI",
+      "url": "https://open.spotify.com/track/6Rc2Mbj3V8xMQOqucCTsjh"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Ki Infinito",
-        "url": "https://open.spotify.com/album/5gGcb7PNZLT4gdiNyqKLLM"
-      },
-      "artists": [
-        {
-          "name": "Sticky M.A.",
-          "url": "https://open.spotify.com/artist/5o7fmoqHl79fzoCzeApdxm"
-        }
-      ],
-      "duration_ms": 133448,
-      "name": "Ki Infinito",
-      "url": "https://open.spotify.com/track/4mOT5hzDdxJEY2sZZW9at2"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "AFTER RAVE",
         "url": "https://open.spotify.com/album/4atZnxnlA1tBeNs8Bc55B2"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 212015,
       "name": "El Angel eres t\u00fa",
       "url": "https://open.spotify.com/track/79w7zBDLsyaITdPlgUUWYU"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Ki Infinito",
+        "url": "https://open.spotify.com/album/5gGcb7PNZLT4gdiNyqKLLM"
+      },
+      "artists": [
+        {
+          "name": "Sticky M.A.",
+          "url": "https://open.spotify.com/artist/5o7fmoqHl79fzoCzeApdxm"
+        }
+      ],
+      "duration_ms": 133448,
+      "name": "Ki Infinito",
+      "url": "https://open.spotify.com/track/4mOT5hzDdxJEY2sZZW9at2"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "Generaci\u00f3n de Cristal",
+        "url": "https://open.spotify.com/album/6Ypvyl8kqqTy3SMDZweZ8Y"
+      },
+      "artists": [
+        {
+          "name": "LUNA KI",
+          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
+        }
+      ],
+      "duration_ms": 213714,
+      "name": "Generaci\u00f3n de Cristal",
+      "url": "https://open.spotify.com/track/7FHbP7Q5AW5IMXsD9s1NA2"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "Torero (feat. alequi, BLNCO, Cma, Delgao, Fran Laoren, Mar\u00eda Escarmiento, Shy Kolbe & SUOB)",
         "url": "https://open.spotify.com/album/1PLDs8TC0e8UPD0fuiRQhZ"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 223777,
       "name": "Torero (feat. alequi, BLNCO, Cma, Delgao, Fran Laoren, Mar\u00eda Escarmiento, Shy Kolbe & SUOB)",
       "url": "https://open.spotify.com/track/7s4EGtj1mpWN3no66tSAEw"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Generaci\u00f3n de Cristal",
-        "url": "https://open.spotify.com/album/6Ypvyl8kqqTy3SMDZweZ8Y"
-      },
-      "artists": [
-        {
-          "name": "LUNA KI",
-          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
-        }
-      ],
-      "duration_ms": 213714,
-      "name": "Generaci\u00f3n de Cristal",
-      "url": "https://open.spotify.com/track/7FHbP7Q5AW5IMXsD9s1NA2"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Sin Noticias\u2026",
-        "url": "https://open.spotify.com/album/6RMmCCmNSWSHbntvBPmJcC"
-      },
-      "artists": [
-        {
-          "name": "Slappy Av",
-          "url": "https://open.spotify.com/artist/6GWTEzK62O11ilSUbVG7Fi"
-        }
-      ],
-      "duration_ms": 120629,
-      "name": "Sin Noticias\u2026",
-      "url": "https://open.spotify.com/track/5OtGiZ3BiLv5bP6Rplr0QU"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "guardian angel",
         "url": "https://open.spotify.com/album/46lr95nzgntYPq8cin5kN8"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 106666,
       "name": "guardian angel",
       "url": "https://open.spotify.com/track/7FvUAQmTuhOOYaDjuL0jdy"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Sin Noticias\u2026",
+        "url": "https://open.spotify.com/album/6RMmCCmNSWSHbntvBPmJcC"
+      },
+      "artists": [
+        {
+          "name": "Slappy Av",
+          "url": "https://open.spotify.com/artist/6GWTEzK62O11ilSUbVG7Fi"
+        }
+      ],
+      "duration_ms": 120629,
+      "name": "Sin Noticias\u2026",
+      "url": "https://open.spotify.com/track/5OtGiZ3BiLv5bP6Rplr0QU"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "C me apag\u00f3 el coso",
-        "url": "https://open.spotify.com/album/7y9G19YJdQI4nbfRZxEloG"
-      },
-      "artists": [
-        {
-          "name": "dinastia",
-          "url": "https://open.spotify.com/artist/34y6hMib20KsOtCnuXRNgp"
-        },
-        {
-          "name": "Halpe",
-          "url": "https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy"
-        }
-      ],
-      "duration_ms": 123410,
-      "name": "C me apag\u00f3 el coso",
-      "url": "https://open.spotify.com/track/33hPveqI2sVkwHGm0vrWGQ"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "GRIS",
         "url": "https://open.spotify.com/album/2qnDfIFPrpJcOxrfuNXqAr"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 125991,
       "name": "GRIS",
       "url": "https://open.spotify.com/track/1Uhtp4LoA7qxapCAimRaOz"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "C me apag\u00f3 el coso",
+        "url": "https://open.spotify.com/album/7y9G19YJdQI4nbfRZxEloG"
+      },
+      "artists": [
+        {
+          "name": "dinastia",
+          "url": "https://open.spotify.com/artist/34y6hMib20KsOtCnuXRNgp"
+        },
+        {
+          "name": "Halpe",
+          "url": "https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy"
+        }
+      ],
+      "duration_ms": 123410,
+      "name": "C me apag\u00f3 el coso",
+      "url": "https://open.spotify.com/track/33hPveqI2sVkwHGm0vrWGQ"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "INOCENTE",
-        "url": "https://open.spotify.com/album/4hVOaFq3mlzVybDaMMTxNG"
-      },
-      "artists": [
-        {
-          "name": "W.A.H.",
-          "url": "https://open.spotify.com/artist/5keKPrJcSL0pAmEyL9ArQN"
-        }
-      ],
-      "duration_ms": 140585,
-      "name": "INOCENTE",
-      "url": "https://open.spotify.com/track/1Q8iQTMgUPqnPWE1WSuXiW"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "LOVE 003",
         "url": "https://open.spotify.com/album/1tCti1oIrfocCG2CIGLVc4"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 147350,
       "name": "LOVE 003",
       "url": "https://open.spotify.com/track/12pQvOYiIJw5dtng80QMul"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "INOCENTE",
+        "url": "https://open.spotify.com/album/4hVOaFq3mlzVybDaMMTxNG"
+      },
+      "artists": [
+        {
+          "name": "W.A.H.",
+          "url": "https://open.spotify.com/artist/5keKPrJcSL0pAmEyL9ArQN"
+        }
+      ],
+      "duration_ms": 140585,
+      "name": "INOCENTE",
+      "url": "https://open.spotify.com/track/1Q8iQTMgUPqnPWE1WSuXiW"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "GUSTARLE A TU ABUELA",
+        "url": "https://open.spotify.com/album/51TWL63ENVfXT37Re745gH"
+      },
+      "artists": [
+        {
+          "name": "pobre lucca",
+          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
+        },
+        {
+          "name": "Talla",
+          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
+        }
+      ],
+      "duration_ms": 132903,
+      "name": "GUSTARLE A TU ABUELA",
+      "url": "https://open.spotify.com/track/17VZpzOsVTDEU0z5YV21WK"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "2005 a. A.",
         "url": "https://open.spotify.com/album/6XvEWWwGd7grI27bFKMDcu"
       },
@@ -1735,26 +1755,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "GUSTARLE A TU ABUELA",
-        "url": "https://open.spotify.com/album/51TWL63ENVfXT37Re745gH"
-      },
-      "artists": [
-        {
-          "name": "pobre lucca",
-          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
-        },
-        {
-          "name": "Talla",
-          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
-        }
-      ],
-      "duration_ms": 132903,
-      "name": "GUSTARLE A TU ABUELA",
-      "url": "https://open.spotify.com/track/17VZpzOsVTDEU0z5YV21WK"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Purgatorio_RMX",
         "url": "https://open.spotify.com/album/3I3pOaFLUOtxtDgKvQk8BQ"
       },
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "Checkpoint",
+        "url": "https://open.spotify.com/album/6Zwy3c6bbocheA4AZMtQId"
+      },
+      "artists": [
+        {
+          "name": "Traw",
+          "url": "https://open.spotify.com/artist/0p2hyflfP93qeIOd7Rx1gj"
+        }
+      ],
+      "duration_ms": 107168,
+      "name": "Checkpoint",
+      "url": "https://open.spotify.com/track/4iSfkr4D8N2TiDWfIrehEK"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "No Hab\u00eda Choice",
         "url": "https://open.spotify.com/album/3BxvaH2NoNQJcybK9fQzOM"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 171245,
       "name": "No Hab\u00eda Choice",
       "url": "https://open.spotify.com/track/57ig3SMp9E3Zj7h8CeCZyV"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Checkpoint",
-        "url": "https://open.spotify.com/album/6Zwy3c6bbocheA4AZMtQId"
-      },
-      "artists": [
-        {
-          "name": "Traw",
-          "url": "https://open.spotify.com/artist/0p2hyflfP93qeIOd7Rx1gj"
-        }
-      ],
-      "duration_ms": 107168,
-      "name": "Checkpoint",
-      "url": "https://open.spotify.com/track/4iSfkr4D8N2TiDWfIrehEK"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1991,22 +1991,18 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Sickk Boii % Sex Toii",
-        "url": "https://open.spotify.com/album/17Tcl0mwpjtlPxFeUi3lew"
+        "name": "ALAS Y GARRAS",
+        "url": "https://open.spotify.com/album/1jGCunUecbzbpPS0vyJdbt"
       },
       "artists": [
         {
-          "name": "Richard Sie",
-          "url": "https://open.spotify.com/artist/5PTfRln4bU7YX7htXdZRrB"
-        },
-        {
-          "name": "mauvetrip",
-          "url": "https://open.spotify.com/artist/5tGSRe3Dn91WESmIuRssIR"
+          "name": "Andrea Mir",
+          "url": "https://open.spotify.com/artist/6i4kEOvhG0iB0JhqY2r4vf"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Sickk Boii % Sex Toii",
-      "url": "https://open.spotify.com/track/1ypfpYpyp65NPOVb88OFPu"
+      "duration_ms": 194560,
+      "name": "TE MISSEO",
+      "url": "https://open.spotify.com/track/3bi8iYbc7r3cfiAJWc4INV"
     }
   ],
   "unique_name": "helium",

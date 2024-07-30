@@ -1,6 +1,6 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 61344,
+  "num_followers": 61432,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-07-25 23:00:00",
       "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/39taI2bbSNT7fnGryosOcA"
+      },
+      "artists": [
+        {
+          "name": "T.Williams",
+          "url": "https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Sensitive",
+      "url": "https://open.spotify.com/track/00fG8oeJxajguXsXrFtR9t"
+    },
+    {
+      "added_at": "2024-07-25 23:00:00",
+      "album": {
         "name": "Imizi YoBaba",
         "url": "https://open.spotify.com/album/7j5rY3B00sNgt44X46ipbs"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 388173,
       "name": "Imizi YoBaba",
       "url": "https://open.spotify.com/track/0TaQCJsB8uS5oUjUkPMMa3"
-    },
-    {
-      "added_at": "2024-07-25 23:00:00",
-      "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/39taI2bbSNT7fnGryosOcA"
-      },
-      "artists": [
-        {
-          "name": "T.Williams",
-          "url": "https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Sensitive",
-      "url": "https://open.spotify.com/track/00fG8oeJxajguXsXrFtR9t"
     },
     {
       "added_at": "2024-07-25 23:00:00",
@@ -707,18 +707,22 @@
     {
       "added_at": "2024-07-25 23:00:00",
       "album": {
-        "name": "Redemial Sounds Sessions #001 (Mixed by Buddynice)",
-        "url": "https://open.spotify.com/album/23Okqx3zwsLYLggZDwUtQJ"
+        "name": "I Care",
+        "url": "https://open.spotify.com/album/5hz2ki5HCvLLmWb28iG906"
       },
       "artists": [
         {
           "name": "Buddynice",
           "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
+        },
+        {
+          "name": "Kaysha",
+          "url": "https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy"
         }
       ],
-      "duration_ms": 3850792,
-      "name": "Redemial Sounds Sessions #001 (Mixed by Buddynice)",
-      "url": "https://open.spotify.com/track/2Mk7kt5qF8ueIAmk2vAZff"
+      "duration_ms": 264832,
+      "name": "I Care - Radio Edit",
+      "url": "https://open.spotify.com/track/4gXBXssvHxJ9kApYt4cyWP"
     },
     {
       "added_at": "2024-07-25 23:00:00",
@@ -803,22 +807,18 @@
     {
       "added_at": "2024-07-25 23:00:00",
       "album": {
-        "name": "I Care",
-        "url": "https://open.spotify.com/album/5hz2ki5HCvLLmWb28iG906"
+        "name": "Redemial Sounds Sessions #001 (Mixed by Buddynice)",
+        "url": "https://open.spotify.com/album/23Okqx3zwsLYLggZDwUtQJ"
       },
       "artists": [
         {
           "name": "Buddynice",
           "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
-        },
-        {
-          "name": "Kaysha",
-          "url": "https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy"
         }
       ],
-      "duration_ms": 264832,
-      "name": "I Care - Radio Edit",
-      "url": "https://open.spotify.com/track/4gXBXssvHxJ9kApYt4cyWP"
+      "duration_ms": 3850792,
+      "name": "Redemial Sounds Sessions #001 (Mixed by Buddynice)",
+      "url": "https://open.spotify.com/track/2Mk7kt5qF8ueIAmk2vAZff"
     },
     {
       "added_at": "2024-07-25 23:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-07-25 23:00:00",
       "album": {
+        "name": "Nkaoza EP",
+        "url": "https://open.spotify.com/album/5EzZZtib251P3QhlKtMfOg"
+      },
+      "artists": [
+        {
+          "name": "El Payo",
+          "url": "https://open.spotify.com/artist/4Exebvi8UCoxfdApC9vVKU"
+        }
+      ],
+      "duration_ms": 369045,
+      "name": "Dawnlands",
+      "url": "https://open.spotify.com/track/4t27eigLB2UK0oM7mXZRP2"
+    },
+    {
+      "added_at": "2024-07-25 23:00:00",
+      "album": {
         "name": "TARU",
         "url": "https://open.spotify.com/album/4klKbCQgeGUdp5ct3pwuFL"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 399661,
       "name": "VOICES",
       "url": "https://open.spotify.com/track/74jHixTwsXLdIKDKA7PK6V"
-    },
-    {
-      "added_at": "2024-07-25 23:00:00",
-      "album": {
-        "name": "Nkaoza EP",
-        "url": "https://open.spotify.com/album/5EzZZtib251P3QhlKtMfOg"
-      },
-      "artists": [
-        {
-          "name": "El Payo",
-          "url": "https://open.spotify.com/artist/4Exebvi8UCoxfdApC9vVKU"
-        }
-      ],
-      "duration_ms": 369045,
-      "name": "Dawnlands",
-      "url": "https://open.spotify.com/track/4t27eigLB2UK0oM7mXZRP2"
     },
     {
       "added_at": "2024-07-25 23:00:00",
@@ -963,18 +963,22 @@
     {
       "added_at": "2024-07-25 23:00:00",
       "album": {
-        "name": "King of Castles",
-        "url": "https://open.spotify.com/album/243FAgBWqvxnbuFEED8enP"
+        "name": "Mohaus, Vol. 2",
+        "url": "https://open.spotify.com/album/5jHezALSoHZvaqEjDurYDI"
       },
       "artists": [
         {
-          "name": "Pando G",
-          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
+          "name": "Bones",
+          "url": "https://open.spotify.com/artist/40Vr9VUq5tVrKOOsd68ojn"
+        },
+        {
+          "name": "TimAdeep",
+          "url": "https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq"
         }
       ],
-      "duration_ms": 313440,
-      "name": "King of Castles",
-      "url": "https://open.spotify.com/track/5yK4SXGC0P5ak5kO4mj8cg"
+      "duration_ms": 402051,
+      "name": "Nades",
+      "url": "https://open.spotify.com/track/1vprwSxdNiClJ0a8Vj5WpF"
     }
   ],
   "unique_name": "Deep House Session",

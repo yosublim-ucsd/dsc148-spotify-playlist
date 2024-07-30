@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Rap\. Cover: Wazir Patar
 
-108 songs - 5 hr 17 min
+109 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,12 +25,13 @@
 | [At The Afterparty](https://open.spotify.com/track/2IZOYSnYAaYgbfAQZwbmxK) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Deorachit](https://open.spotify.com/artist/2ZtfmE2WlGjnaHwtwHbZXh) | [At The Afterparty](https://open.spotify.com/album/3XhhCe9VFT7Ai41MbdabBj) | 2:22 | 2023-12-14 | 2024-01-04 |
 | [Bandook](https://open.spotify.com/track/0PI4h632z9m5GWEV5UuBJr) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Bandook](https://open.spotify.com/album/0sk24QdJxC9xo3pf0kUtnO) | 2:54 | 2023-11-24 | 2023-12-07 |
 | [Bar 4 Bar Champ 2023](https://open.spotify.com/track/1P2Un5t2ybxh43Wz5eSuF6) | [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [Bar 4 Bar Champ 2023](https://open.spotify.com/album/3aV2FnHhTFdvZATdsnHZwX) | 3:38 | 2023-03-18 | 2023-12-07 |
+| [Barks](https://open.spotify.com/track/5AcWXb7VURDdZeSLa75d71) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Azaad 4L](https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6) | [Barks](https://open.spotify.com/album/7hIJMW0abXIaHukdRuCp8l) | 2:23 | 2024-07-29 |  |
 | [Be Careful](https://open.spotify.com/track/0dqsYMuzld5YZRM6jUToQq) | [Fastmoney RK](https://open.spotify.com/artist/48r4tbkl8jwyqxbqWsCkuh), [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [Tarna](https://open.spotify.com/artist/5NKQMEArcrzIPct2RXdS7A) | [Be Careful](https://open.spotify.com/album/6nNopjEYxdELrzlNROKxnB) | 2:18 | 2023-03-18 | 2023-04-27 |
 | [Billo \(feat\. Natania\)](https://open.spotify.com/track/4PDCjwOGSwQkD4QRxih4zC) | [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ), [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [DESI TRILL Presents...Brown is Everywhere](https://open.spotify.com/album/5A0U2TgDKVUifuVckuQuFN) | 2:26 | 2024-05-10 | 2024-05-17 |
 | [Bold And Brave](https://open.spotify.com/track/2SFzf5hp9itASMzGykdVWZ) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Back To Skool](https://open.spotify.com/album/2nV3fDaXXox4sEs3NFllkG) | 2:30 | 2023-05-26 | 2024-04-19 |
 | [Bold And Brave](https://open.spotify.com/track/7HZzB7zkpy0AciPo7vsAkU) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Back To Skool](https://open.spotify.com/album/6YjJLpfds43mkfSObfw50s) | 2:30 | 2024-04-12 |  |
 | [Bulls Eye](https://open.spotify.com/track/7nMdJTQ4pxpu4Lhuldj9by) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Defcon 1](https://open.spotify.com/album/7rSDYG1PEOQP6aToDGxLNQ) | 2:28 | 2023-03-18 |  |
-| [Chakkar](https://open.spotify.com/track/6cVA32Qy5BJH7tfSd3SvRm) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Eyepatch](https://open.spotify.com/artist/1kmbGVNEUnTbq1yptaiOVj) | [Chakkar](https://open.spotify.com/album/1J4fg0GhFDmnqtimUJZZE3) | 2:36 | 2024-05-15 |  |
+| [Chakkar](https://open.spotify.com/track/6cVA32Qy5BJH7tfSd3SvRm) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Eyepatch](https://open.spotify.com/artist/1kmbGVNEUnTbq1yptaiOVj) | [Chakkar](https://open.spotify.com/album/1J4fg0GhFDmnqtimUJZZE3) | 2:36 | 2024-05-15 | 2024-07-30 |
 | [Chhalla](https://open.spotify.com/track/449kMnMfoDIy55ELNelpWJ) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G) | [MTV Hustle 03 Represent Episode 6](https://open.spotify.com/album/1IbAnKLZjXigERXiukqkiq) | 3:31 | 2023-11-08 | 2023-11-16 |
 | [Clutch Baliye](https://open.spotify.com/track/3qWI4prgSotUOGR4BfOreW) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Gagan](https://open.spotify.com/artist/3kfNgIiPN2rdxVEQg6L3lW) | [Clutch Baliye](https://open.spotify.com/album/2a7G4hLUBoE9vnPOBeyb4C) | 2:32 | 2023-03-18 | 2024-01-25 |
 | [DABBDA NAHI](https://open.spotify.com/track/6IXJSqbyXUf3yd2OIYxNVS) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Goldy Kingmeker](https://open.spotify.com/artist/3Py94OVGyh6M4Y5sNW5S7q) | [DABBDA NAHI](https://open.spotify.com/album/2o8fSGFa29bfbaCLr0af3b) | 3:49 | 2023-03-18 | 2023-04-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: AJ Lee & Blue Summit
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,608 likes - 116 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,618 likes - 116 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

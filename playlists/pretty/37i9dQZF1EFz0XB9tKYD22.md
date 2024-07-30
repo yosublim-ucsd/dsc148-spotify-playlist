@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305 likes - 310 songs - 18 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 305 likes - 308 songs - 18 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -293,10 +293,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 283 | [Getting Over You](https://open.spotify.com/track/7rd3I7NZWF8j8RAJz9ara9) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [The Story Of My Life](https://open.spotify.com/album/60PcwrE9VH7NImc13z7Y1J) | 3:31 |
 | 284 | [Giants](https://open.spotify.com/track/4CIZmd0bpwaklBdF5VSJBD) | [Jenn Beaupre](https://open.spotify.com/artist/3KcWzmH0pcsi3dawcj4F4n) | [Giants](https://open.spotify.com/album/560Rp60stLejpQ6Crmcttu) | 3:02 |
 | 285 | [Eye of the Storm](https://open.spotify.com/track/76kKA1Zn0XGmrmFJCd1rT3) | [J.K\. Hodge](https://open.spotify.com/artist/432Yia0hS9be99GSoEyf6J) | [All Your Heart's Desires](https://open.spotify.com/album/1Ox60vTK4USknHMiuo7lap) | 4:55 |
-| 286 | [Help](https://open.spotify.com/track/3oyoipK4mq2PJWKyuWuIOQ) | [Bride](https://open.spotify.com/artist/3G7qoMSLvu9Pmb0xGtf9fl) | [The Lost Reels, Vol\. 1 \(Retroarchives Edition\)](https://open.spotify.com/album/6eJnNrz7MA9XzcwPhEXQVD) | 3:29 |
-| 287 | [Life Goes On](https://open.spotify.com/track/5pLoDuBfIzQqvbYS3rsjsD) | [Cold Creek County](https://open.spotify.com/artist/7H2DHycCwUN8oOSrhmJn8M) | [Life Goes On](https://open.spotify.com/album/5tTs7LPgDVxLklvEfLKZT1) | 3:36 |
-| 288 | [Cowgirls \- Single Version](https://open.spotify.com/track/0GRGeRSeMWac3RpcI4jGQp) | [Kerry Harvick](https://open.spotify.com/artist/3FuKcBOAWzDzWJ79VDBCBb) | [Cowgirls](https://open.spotify.com/album/7svXYfNK6UsY0d1lJV3zwF) | 3:06 |
-| 289 | [If You Were A Country Girl](https://open.spotify.com/track/0z7CPCDePaauQh9g1k5VZl) | [Demps](https://open.spotify.com/artist/5Gx523vSXLobJkopSyany4) | [If You Were A Country Girl](https://open.spotify.com/album/7dGxG3XxGN6AOm6nz2oUi0) | 2:37 |
+| 286 | [Life Goes On](https://open.spotify.com/track/5pLoDuBfIzQqvbYS3rsjsD) | [Cold Creek County](https://open.spotify.com/artist/7H2DHycCwUN8oOSrhmJn8M) | [Life Goes On](https://open.spotify.com/album/5tTs7LPgDVxLklvEfLKZT1) | 3:36 |
+| 287 | [Help](https://open.spotify.com/track/3oyoipK4mq2PJWKyuWuIOQ) | [Bride](https://open.spotify.com/artist/3G7qoMSLvu9Pmb0xGtf9fl) | [The Lost Reels, Vol\. 1 \(Retroarchives Edition\)](https://open.spotify.com/album/6eJnNrz7MA9XzcwPhEXQVD) | 3:29 |
+| 288 | [If You Were A Country Girl](https://open.spotify.com/track/0z7CPCDePaauQh9g1k5VZl) | [Demps](https://open.spotify.com/artist/5Gx523vSXLobJkopSyany4) | [If You Were A Country Girl](https://open.spotify.com/album/7dGxG3XxGN6AOm6nz2oUi0) | 2:37 |
+| 289 | [Cowgirls \- Single Version](https://open.spotify.com/track/0GRGeRSeMWac3RpcI4jGQp) | [Kerry Harvick](https://open.spotify.com/artist/3FuKcBOAWzDzWJ79VDBCBb) | [Cowgirls](https://open.spotify.com/album/7svXYfNK6UsY0d1lJV3zwF) | 3:06 |
 | 290 | [I've Forgotten You](https://open.spotify.com/track/0dqoJp7npFDTwqinf6TTvY) | [Michelle Wright](https://open.spotify.com/artist/1Kp8PxFfeU5CFHkITQF9sY) | [Everything And More](https://open.spotify.com/album/3C63y4p2NxDkfLVoUbkdTu) | 3:48 |
 | 291 | [Out Of Alabama](https://open.spotify.com/track/1PlsPge8Uq57kpvc5ocfgU) | [Cole Deggs](https://open.spotify.com/artist/3w3hlPIjdr9bpHTeqiRcUp), [Lonesome](https://open.spotify.com/artist/53Ol66LwKH0SIYSIJQiLCb) | [Cole Deggs & The Lonesome](https://open.spotify.com/album/24HjdHttpP68Xs1VVO1nIz) | 3:00 |
 | 292 | [Be With Me](https://open.spotify.com/track/5TiZ2akfNYUdW8XuU12o7A) | [Carrie Manolakos](https://open.spotify.com/artist/15ptZqEJWDBnhVx6fqaCWV) | [The 44th Chord](https://open.spotify.com/album/4sI9S8KTGVc1duKMmW1iWM) | 3:21 |
@@ -310,13 +310,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 300 | [Hot Concrete](https://open.spotify.com/track/7IouEbgLhlP7tWw3eED4UT) | [Drunken Immortals](https://open.spotify.com/artist/2sQNxKrfy0k3fjHLJLJLbH) | [Hot Concrete](https://open.spotify.com/album/26vKfIBehbY1N3s57ouyRD) | 4:14 |
 | 301 | [Warm Beer](https://open.spotify.com/track/0WWGVgziMt8xHUIsqbtyoy) | [Big City Lights](https://open.spotify.com/artist/2omfQ7RvqrjJPdhqNhavaf) | [Warm Beer](https://open.spotify.com/album/7cpESNXQ4fsBvBnbZjKwr1) | 3:22 |
 | 302 | [I'd Leave Me](https://open.spotify.com/track/4UF5EoUWWo81L5R1r1SeoB) | [Lisa Dames](https://open.spotify.com/artist/3z4BbAHE3txFTKRAHzSf6g) | [No One Like Me](https://open.spotify.com/album/5uPmFmgoAUAwc94wUYYsui) | 3:30 |
-| 303 | [Love You Right](https://open.spotify.com/track/2JkTdxltC22nEQPXR9wrqh) | [Lindsey Walker](https://open.spotify.com/artist/6HjkMXAIbRvdtppck8j2Cp) | [Our Glory](https://open.spotify.com/album/4EHCZliOHYNPffIinC2SnS) | 5:09 |
-| 304 | [Take It](https://open.spotify.com/track/6wWHLZJve0TSnY4v4jaSCj) | [Verena Pötzl](https://open.spotify.com/artist/1qKHy8x5tLVxyTAecm0JkU) | [Taken Unaware](https://open.spotify.com/album/4hOFJz4iRC5dVk1BIAihVF) | 3:24 |
-| 305 | [Web of Lies](https://open.spotify.com/track/2E6f2r945tYOVUYlPWgDCo) | [Pam Jackson](https://open.spotify.com/artist/6hF0EFyjOBs213RdDv8swc) | [Dream a Little Bigger](https://open.spotify.com/album/3LL6YCz4gsYAZiz5cAEksV) | 2:51 |
-| 306 | [Queen of Hearts](https://open.spotify.com/track/1h7MHoxIW1Md110MR6j1Iy) | [Rose Hips](https://open.spotify.com/artist/2L100CUtatmSVrJ9Vcj4eM) | [Witch Doctor](https://open.spotify.com/album/5246tB6NI5zSqor9lE1vo5) | 5:03 |
-| 307 | [This Time Of Year](https://open.spotify.com/track/5I4vX0BnOj8Hkb2pyln7s3) | [Melanie Morgan](https://open.spotify.com/artist/5SW32PeH4qJv83WrsbKaXL) | [Goodbye Birmingham](https://open.spotify.com/album/43WOGGhIFomvkV9tunjaA6) | 5:14 |
-| 308 | [Everything \(Karaoke Version With Lead Vocal\) \[Originally Performed By Jessica Andrews\]](https://open.spotify.com/track/7jLsz9fup5JHANKCaw3XLd) | [Country Karaoke Cow Boys](https://open.spotify.com/artist/1T9rOYmodcUr7fU94l3EB1) | [Everything](https://open.spotify.com/album/21tLYuZvwdw1OynFGigcDf) | 4:08 |
-| 309 | [Make It Out](https://open.spotify.com/track/7lQnAxzNfWpHpL1VsA3gzy) | [Zaya Tha Flysta](https://open.spotify.com/artist/1CtP580MCBT8LGke5Riu35), [Mackie Fresh](https://open.spotify.com/artist/3ARzxhq2yh9R0eVClho12c) | [Welcome To The Underground](https://open.spotify.com/album/0jHN4uEq9DXiSYPUTVuxVU) | 3:14 |
-| 310 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
+| 303 | [Take It](https://open.spotify.com/track/6wWHLZJve0TSnY4v4jaSCj) | [Verena Pötzl](https://open.spotify.com/artist/1qKHy8x5tLVxyTAecm0JkU) | [Taken Unaware](https://open.spotify.com/album/4hOFJz4iRC5dVk1BIAihVF) | 3:24 |
+| 304 | [Web of Lies](https://open.spotify.com/track/2E6f2r945tYOVUYlPWgDCo) | [Pam Jackson](https://open.spotify.com/artist/6hF0EFyjOBs213RdDv8swc) | [Dream a Little Bigger](https://open.spotify.com/album/3LL6YCz4gsYAZiz5cAEksV) | 2:51 |
+| 305 | [Queen of Hearts](https://open.spotify.com/track/1h7MHoxIW1Md110MR6j1Iy) | [Rose Hips](https://open.spotify.com/artist/2L100CUtatmSVrJ9Vcj4eM) | [Witch Doctor](https://open.spotify.com/album/5246tB6NI5zSqor9lE1vo5) | 5:03 |
+| 306 | [This Time Of Year](https://open.spotify.com/track/5I4vX0BnOj8Hkb2pyln7s3) | [Melanie Morgan](https://open.spotify.com/artist/5SW32PeH4qJv83WrsbKaXL) | [Goodbye Birmingham](https://open.spotify.com/album/43WOGGhIFomvkV9tunjaA6) | 5:14 |
+| 307 | [Everything \(Karaoke Version With Lead Vocal\) \[Originally Performed By Jessica Andrews\]](https://open.spotify.com/track/7jLsz9fup5JHANKCaw3XLd) | [Country Karaoke Cow Boys](https://open.spotify.com/artist/1T9rOYmodcUr7fU94l3EB1) | [Everything](https://open.spotify.com/album/21tLYuZvwdw1OynFGigcDf) | 4:08 |
+| 308 | [Make It Out](https://open.spotify.com/track/7lQnAxzNfWpHpL1VsA3gzy) | [Zaya Tha Flysta](https://open.spotify.com/artist/1CtP580MCBT8LGke5Riu35), [Mackie Fresh](https://open.spotify.com/artist/3ARzxhq2yh9R0eVClho12c) | [Welcome To The Underground](https://open.spotify.com/album/0jHN4uEq9DXiSYPUTVuxVU) | 3:14 |
 
-Snapshot ID: `AbX7rAAAAACgSP9vfzCxZCFjf64v9YLy`
+Snapshot ID: `AbYBTAAAAAD+d3qrJVD2xHtS0OCz9MED`

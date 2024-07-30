@@ -4,7 +4,7 @@
 
 > Finesse, Shiva, Capo Plaza e AVA in cover della playlist urban più grande d'Italia 🔥
 
-568 songs - 1 day 3 hr 54 min
+569 songs - 1 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [All'Ultimo Respiro](https://open.spotify.com/track/4gXJIop7onForUMENJ7HjW) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [RAP ITALIANO OLD SCHOOL HITS](https://open.spotify.com/album/6PP2pdxkdWtsEEXT17AZwe) | 4:29 | 2024-01-02 | 2024-01-04 |
 | [Alleluia \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/1MboxS3hV7Wr8UVO59uRth) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 2:40 | 2022-11-24 | 2023-04-28 |
 | [Alé \(feat\. Capo Plaza\)](https://open.spotify.com/track/1i0oabK4KhsbIJr029XStL) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 3:20 | 2024-03-28 |  |
-| [Amore Mio \(feat\. Sfera Ebbasta, Jul\)](https://open.spotify.com/track/644oTknCDmxS3O8ZQWqt3Q) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 3:41 | 2024-03-28 |  |
+| [Amore Mio \(feat\. Sfera Ebbasta, Jul\)](https://open.spotify.com/track/644oTknCDmxS3O8ZQWqt3Q) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 3:41 | 2024-03-28 | 2024-07-30 |
 | [Ancora](https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Ancora](https://open.spotify.com/album/6ZEXxjoXce42TAPSQtzCs6) | 2:51 | 2023-06-22 | 2023-12-01 |
 | [Ancora Qua \(feat\. Tedua\)](https://open.spotify.com/track/30TvIcbkoDh6j7hhKjs4Jg) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [FERITE](https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz) | 2:44 | 2024-05-02 |  |
 | [Andrea](https://open.spotify.com/track/03j2Lo97VCDprSk8oLb8Gi) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Andrea](https://open.spotify.com/album/1mbwNDgFojWsQfJCN46Izm) | 3:05 | 2022-05-09 | 2022-05-23 |
@@ -225,6 +225,7 @@
 | [GRAFFITI \(feat\. Bresh\)](https://open.spotify.com/track/64rCnKKEHAS84Q93hQBzIg) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [RADIO SAKURA](https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo) | 2:47 | 2024-03-07 | 2024-03-15 |
 | [GRAMMELOT](https://open.spotify.com/track/0QZYznuUxIPXs7gY8CPvS4) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [The Globe](https://open.spotify.com/album/0Wp32iRbmSA3VvGZmAYjDv) | 1:36 | 2023-10-05 | 2023-12-01 |
 | [GRAN TORINO \(Red Bull 64 Bars\)](https://open.spotify.com/track/5XgHAgZ2grYFvHjLQdhiVk) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Sine](https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n) | [GRAN TORINO \(Red Bull 64 Bars\)](https://open.spotify.com/album/4mvXxyQrvPrh5Ym8DBvAAY) | 3:57 | 2024-02-01 | 2024-02-14 |
+| [gRaZie A Dio](https://open.spotify.com/track/0NUzLcrkkXeztSVlJYHOug) | [yungest Moonstar](https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [sFaCioLaTe miXTaPe](https://open.spotify.com/album/7qj8awQvM423Uvc0VpxtXq) | 2:09 | 2024-07-29 |  |
 | [Grazie la zone](https://open.spotify.com/track/5DQQfgrqgRpkUO6HXtx1jK) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cœur blanc](https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k) | 3:38 | 2022-12-08 | 2023-01-27 |
 | [Grazie, Addio](https://open.spotify.com/track/1LqJ8OhvEjnMRKq4PWiaik) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [Habitat Cielo](https://open.spotify.com/album/7sBtYYq0pLiMncQC7NxlKc) | 2:36 | 2023-04-20 | 2023-05-19 |
 | [GTA](https://open.spotify.com/track/1sMzjYyFSWexHB145BgD6O) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd), [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN) | [Ghettosuperstar](https://open.spotify.com/album/4EjqOuqjcPm50M6cMZwGYN) | 2:37 | 2023-04-06 | 2023-06-09 |

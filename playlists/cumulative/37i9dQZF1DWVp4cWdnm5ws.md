@@ -2,9 +2,9 @@
 
 ### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
-> Discover new artists on the horizon this 2024\. Cover: BINI
+> Discover new artists on the horizon this 2024\. Cover: Denise Julia
 
-207 songs - 12 hr 47 min
+208 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [To Pick a Lock](https://open.spotify.com/track/2s0E9y9CCJhs9KqEcYtGx8) | [Elle Sebastian](https://open.spotify.com/artist/3tZLOm9eJAxX6Q0xkEGjWo) | [To Pick a Lock](https://open.spotify.com/album/27dbQwfPkrwR4Mn4JAH7CU) | 5:12 | 2021-11-25 | 2022-03-25 |
 | [Totoo](https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Kenaniah](https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7) | 4:40 | 2023-07-21 | 2024-04-03 |
 | [Tumitigil Ang Mundo](https://open.spotify.com/track/5fuBcv4rZP0mtjNSj3UPsk) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Tumitigil Ang Mundo](https://open.spotify.com/album/2Jg15zG5g9QnXZT0O1Wjjj) | 4:07 | 2022-07-15 | 2022-12-01 |
+| [twin flames](https://open.spotify.com/track/0Ik9LPqXs0DYConyjqvEFR) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [twin flames](https://open.spotify.com/album/4xW0IPIKToGIy3HMAnYOj1) | 2:53 | 2024-07-29 |  |
 | [Twin Flames](https://open.spotify.com/track/0l0m2RjO5KtBl2fZ4CgmiT) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [Lewis Maxwell](https://open.spotify.com/artist/5OsuXDA4kXucz8ZFujKr5T), [Ghauri](https://open.spotify.com/artist/43EGUEg0Wg5ahrwhW38qlv) | [Twin Flames](https://open.spotify.com/album/3fgOfjLn4w1J9fmVUJdNEp) | 3:38 | 2022-03-24 | 2022-10-15 |
 | [Twin Flames](https://open.spotify.com/track/3vYyA9bj5lVknfqY0PDIEb) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [Lewis Maxwell](https://open.spotify.com/artist/5OsuXDA4kXucz8ZFujKr5T), [Ghauri](https://open.spotify.com/artist/43EGUEg0Wg5ahrwhW38qlv) | [3rd Eye](https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg) | 3:38 | 2022-09-29 | 2022-12-01 |
 | [Ulap](https://open.spotify.com/track/0en1kxNAvVQxLpbteRTG7L) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Ulap](https://open.spotify.com/album/6ciETtX9ufaXBFRClmnnNG) | 6:45 | 2021-11-25 | 2022-03-25 |

@@ -999,6 +999,24 @@
     },
     {
       "album": {
+        "name": "A\u00fan Te Veo",
+        "url": "https://open.spotify.com/album/5ZG2B564RbdcYWLEjheU77"
+      },
+      "artists": [
+        {
+          "name": "Sami Kaur",
+          "url": "https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150766,
+      "name": "A\u00fan Te Veo",
+      "url": "https://open.spotify.com/track/3fB2azt4qGQTs2KbSsEmjH"
+    },
+    {
+      "album": {
         "name": "A\u0301tica",
         "url": "https://open.spotify.com/album/2UEDt340ibuHflO6Hd2ZEs"
       },
@@ -9858,6 +9876,24 @@
       "duration_ms": 131500,
       "name": "Seuls ensemble",
       "url": "https://open.spotify.com/track/5r0ag6p51d3VOF8rVaL09E"
+    },
+    {
+      "album": {
+        "name": "Shade of Honey",
+        "url": "https://open.spotify.com/album/39a7DwC1KypXA1B4890uvr"
+      },
+      "artists": [
+        {
+          "name": "Dawn Geller",
+          "url": "https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167357,
+      "name": "Shade of Honey",
+      "url": "https://open.spotify.com/track/1RYJqZKLckqbTDLTyoOG1g"
     },
     {
       "album": {

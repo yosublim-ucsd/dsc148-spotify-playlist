@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 195738,
+  "num_followers": 195763,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAABLCor9eTMSjwztJ+qmEMiW",
+  "snapshot_id": "ZqWKAAAAAABnA/s/wZ309zwxKxBP85wQ",
   "tracks": [
     {
       "added_at": null,
@@ -119,26 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 50721,
-      "name": "SMOKE HOUR \u2605 WILLIE NELSON",
-      "url": "https://open.spotify.com/track/2dv2DYn0V0j0Wx6Ra40bce"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Willie Nelson American Outlaw (Live)",
         "url": "https://open.spotify.com/album/5heTM7q5ly9IPwJIFSbKLp"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 134266,
       "name": "Roll Me Up and Smoke Me When I Die - Live",
       "url": "https://open.spotify.com/track/5iis9J2sptrUy0VIpFVIg1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 50721,
+      "name": "SMOKE HOUR \u2605 WILLIE NELSON",
+      "url": "https://open.spotify.com/track/2dv2DYn0V0j0Wx6Ra40bce"
     },
     {
       "added_at": null,
@@ -743,6 +743,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Lukas Nelson",
+          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
+        }
+      ],
+      "duration_ms": 242280,
+      "name": "Just Breathe (feat. Lukas Nelson)",
+      "url": "https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Country Boy Can Survive (Box Set)",
         "url": "https://open.spotify.com/album/2mUqVFSr5l4W2Hpm8t3Gfm"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 148440,
       "name": "Mind Your Own Business",
       "url": "https://open.spotify.com/track/4raGevWiW8i1gactXulebp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Lukas Nelson",
-          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
-        }
-      ],
-      "duration_ms": 242280,
-      "name": "Just Breathe (feat. Lukas Nelson)",
-      "url": "https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA"
     },
     {
       "added_at": null,
@@ -1167,6 +1167,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 259360,
+      "name": "Georgia On My Mind",
+      "url": "https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Highwayman 2",
         "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 175000,
       "name": "Songs That Make a Difference",
       "url": "https://open.spotify.com/track/7pcpTlDSjqceuUHWqFiMLf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 259360,
-      "name": "Georgia On My Mind",
-      "url": "https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e"
     },
     {
       "added_at": null,

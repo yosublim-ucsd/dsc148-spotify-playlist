@@ -2,7 +2,7 @@
 
 ### [Ambyar](https://open.spotify.com/playlist/37i9dQZF1DX4V6WLWzdIgr)
 
-> Sedihe koyo ngene, nggak bahaya ta? 😢
+> Sedihe koyo ngene, jangan ya dek ya! 😢
 
 93 songs - 7 hr 47 min
 

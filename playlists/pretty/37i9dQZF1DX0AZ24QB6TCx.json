@@ -1,6 +1,6 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 311430,
+  "num_followers": 311435,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 251694,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "The Last Goodbye Remixes N\u00b0.2",
         "url": "https://open.spotify.com/album/6DKA6hXo5KPvSBGLUL1kky"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 251903,
       "name": "This Version Of You - Joseph Ray Remix",
       "url": "https://open.spotify.com/track/1oWf71EPQVlawCcygiCbMy"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 251694,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
     },
     {
       "added_at": "2024-02-23 00:01:00",

@@ -1,6 +1,6 @@
 {
   "description": "Extra van je vrije tijd genieten voor jong en oud.",
-  "num_followers": 99271,
+  "num_followers": 99292,
   "original_name": "Quality Time",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "Mama Said",
-        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 242640,
-      "name": "It Ain't Over 'Til It's Over",
-      "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
       },
@@ -679,6 +663,22 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
+        "name": "Mama Said",
+        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 242640,
+      "name": "It Ain't Over 'Til It's Over",
+      "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
         "name": "Crowded House",
         "url": "https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG"
       },
@@ -691,6 +691,22 @@
       "duration_ms": 236933,
       "name": "Don't Dream It's Over",
       "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
+        "name": "Jolene (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -723,22 +739,6 @@
       "duration_ms": 209546,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/0aJrYfARfCKzv6gXjhs4SZ"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
-        "name": "Jolene (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 161533,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "Breakfast In America (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 159346,
-      "name": "Breakfast In America - 2010 Remastered",
-      "url": "https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 179693,
       "name": "At Last",
       "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
+        "name": "Breakfast In America (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 159346,
+      "name": "Breakfast In America - 2010 Remastered",
+      "url": "https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
+        "name": "Tell Mama",
+        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 156653,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
         "name": "Aretha Now",
         "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
@@ -967,22 +983,6 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "Tell Mama",
-        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 156653,
-      "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
         "name": "Dusty... Definitely",
         "url": "https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN"
       },
@@ -995,22 +995,6 @@
       "duration_ms": 164173,
       "name": "Spooky",
       "url": "https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
-        "name": "For Once In My Life",
-        "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 169800,
-      "name": "For Once In My Life",
-      "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
+        "name": "For Once In My Life",
+        "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 169800,
+      "name": "For Once In My Life",
+      "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
         "name": "Escapology",
         "url": "https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 331200,
-      "name": "Rosanna",
-      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 233173,
       "name": "It's Too Late",
       "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 331200,
+      "name": "Rosanna",
+      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 206386,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
         "name": "Be My Baby: The Very Best of The Ronettes",
         "url": "https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 269840,
       "name": "Holding Back the Years - 2008 Remaster",
       "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 206386,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "Fire And Water",
-        "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 330643,
-      "name": "All Right Now",
-      "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
         "name": "The Beatles 1967 - 1970 (Remastered)",
         "url": "https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 215733,
       "name": "Don't Let Me Down - Remastered 2009",
       "url": "https://open.spotify.com/track/3evG0BIqEFMMP7lVJh1cSf"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
+        "name": "Fire And Water",
+        "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 330643,
+      "name": "All Right Now",
+      "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "I Feel the Earth Move",
-      "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
         "name": "Backspacer",
         "url": "https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 215853,
       "name": "Just Breathe",
       "url": "https://open.spotify.com/track/6i81qFkru6Kj1IEsB7KNp2"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "I Feel the Earth Move",
+      "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/6LoXZrgX1DhvUN6hFhs0AW"
+      },
+      "artists": [
+        {
+          "name": "Ten Sharp",
+          "url": "https://open.spotify.com/artist/0ap24Mjt6qlze8v667KlaF"
+        }
+      ],
+      "duration_ms": 272983,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6lbme14HiDWYmGiw1I2Dv6"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
         "name": "Outlandos D'Amour (Remastered 2003)",
         "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
       },
@@ -1871,18 +1887,18 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/6LoXZrgX1DhvUN6hFhs0AW"
+        "name": "With A Little Help From My Friends",
+        "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
       },
       "artists": [
         {
-          "name": "Ten Sharp",
-          "url": "https://open.spotify.com/artist/0ap24Mjt6qlze8v667KlaF"
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
         }
       ],
-      "duration_ms": 272983,
-      "name": "You",
-      "url": "https://open.spotify.com/track/6lbme14HiDWYmGiw1I2Dv6"
+      "duration_ms": 312173,
+      "name": "With A Little Help From My Friends",
+      "url": "https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -1907,18 +1923,18 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "With A Little Help From My Friends",
-        "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
       },
       "artists": [
         {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 312173,
-      "name": "With A Little Help From My Friends",
-      "url": "https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK"
+      "duration_ms": 217400,
+      "name": "Don't Think Twice, It's All Right",
+      "url": "https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -1935,22 +1951,6 @@
       "duration_ms": 313533,
       "name": "Sledgehammer",
       "url": "https://open.spotify.com/track/029NqmIySn1kOY305AAhxT"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Don't Think Twice, It's All Right",
-      "url": "https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "Caustic Love",
-        "url": "https://open.spotify.com/album/0DnxCSZdeApVBVfcWsm3IJ"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 373133,
-      "name": "Iron Sky",
-      "url": "https://open.spotify.com/track/2bcC9Xyi40wnI7Od5uch31"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
         "name": "Completely Well",
         "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 324733,
       "name": "The Thrill Is Gone",
       "url": "https://open.spotify.com/track/4NQfrmGs9iQXVQI9IpRhjM"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
+        "name": "Caustic Love",
+        "url": "https://open.spotify.com/album/0DnxCSZdeApVBVfcWsm3IJ"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 373133,
+      "name": "Iron Sky",
+      "url": "https://open.spotify.com/track/2bcC9Xyi40wnI7Od5uch31"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "The Collection (Standard Edition)",
-        "url": "https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 228573,
-      "name": "Ironic",
-      "url": "https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 291200,
       "name": "Graceland",
       "url": "https://open.spotify.com/track/51KKQAgYFoJHgVIuJWHdHb"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
+        "name": "The Collection (Standard Edition)",
+        "url": "https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 228573,
+      "name": "Ironic",
+      "url": "https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -2559,22 +2559,6 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "Purple Rain",
-        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 520786,
-      "name": "Purple Rain",
-      "url": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
         "name": "Destination",
         "url": "https://open.spotify.com/album/3x1XCT7NsJOtQp7DEbPS3X"
       },
@@ -2591,18 +2575,18 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "Snow (Hey Oh)",
-        "url": "https://open.spotify.com/album/45AEwWiI7JPZolwc2Xwaoc"
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
       },
       "artists": [
         {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 334666,
-      "name": "Snow (Hey Oh)",
-      "url": "https://open.spotify.com/track/6fgbQt13JlpN59PytgTMsA"
+      "duration_ms": 520786,
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -2619,6 +2603,22 @@
       "duration_ms": 380497,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/1msXkHv84LKikJGKcfdGBu"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
+        "name": "Snow (Hey Oh)",
+        "url": "https://open.spotify.com/album/45AEwWiI7JPZolwc2Xwaoc"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 334666,
+      "name": "Snow (Hey Oh)",
+      "url": "https://open.spotify.com/track/6fgbQt13JlpN59PytgTMsA"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -3327,6 +3327,22 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/22MtHr01EzeL6jmc5uwpHC"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/7H8zey5My6uNdD2TxeCb9F"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
         "name": "(What's The Story) Morning Glory? (Deluxe Edition) [Remastered]",
         "url": "https://open.spotify.com/album/6ozp33PI3p9AdddB6ZL3xQ"
       },
@@ -3359,18 +3375,18 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/22MtHr01EzeL6jmc5uwpHC"
+        "name": "Woodland - EP",
+        "url": "https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF"
       },
       "artists": [
         {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
         }
       ],
-      "duration_ms": 263000,
-      "name": "Don't Speak",
-      "url": "https://open.spotify.com/track/7H8zey5My6uNdD2TxeCb9F"
+      "duration_ms": 210080,
+      "name": "Bloom - Bonus Track",
+      "url": "https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -3387,22 +3403,6 @@
       "duration_ms": 334040,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/2SbsvihBJmgNKZ4qkXFWrp"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
-        "name": "Woodland - EP",
-        "url": "https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 210080,
-      "name": "Bloom - Bonus Track",
-      "url": "https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -3439,18 +3439,18 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "Time of the Season",
-        "url": "https://open.spotify.com/album/3xhlrGx740Jp150YJMD40I"
+        "name": "Out Of Time (U.S. Version)",
+        "url": "https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD"
       },
       "artists": [
         {
-          "name": "The Zombies",
-          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
         }
       ],
-      "duration_ms": 214026,
-      "name": "Time of the Season",
-      "url": "https://open.spotify.com/track/6im4Ks6SWUqwTGp7Cft1e7"
+      "duration_ms": 267733,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -3471,18 +3471,18 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "Out Of Time (U.S. Version)",
-        "url": "https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD"
+        "name": "Time of the Season",
+        "url": "https://open.spotify.com/album/3xhlrGx740Jp150YJMD40I"
       },
       "artists": [
         {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
         }
       ],
-      "duration_ms": 267733,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB"
+      "duration_ms": 214026,
+      "name": "Time of the Season",
+      "url": "https://open.spotify.com/track/6im4Ks6SWUqwTGp7Cft1e7"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -3503,6 +3503,22 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
+        "name": "Up From Below",
+        "url": "https://open.spotify.com/album/3yfisavFdGTrjFf9Ecpbio"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "duration_ms": 306320,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/10ViidwjGLCfVtGPfdcszR"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
         "name": "Best of Bowie",
         "url": "https://open.spotify.com/album/2PEAajl89bIS4eWMk7zlbV"
       },
@@ -3519,22 +3535,6 @@
       "duration_ms": 231426,
       "name": "This Is Not America - 2002 Remaster",
       "url": "https://open.spotify.com/track/3Tc5BaETZ8E6p1xlSNotzt"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
-        "name": "Up From Below",
-        "url": "https://open.spotify.com/album/3yfisavFdGTrjFf9Ecpbio"
-      },
-      "artists": [
-        {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
-        }
-      ],
-      "duration_ms": 306320,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/10ViidwjGLCfVtGPfdcszR"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -3635,6 +3635,22 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
+        "name": "The Joshua Tree (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/2qKmY7yt0kXdzSQxYAu9eZ"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 277480,
+      "name": "I Still Haven't Found What I'm Looking For - Remastered 2007",
+      "url": "https://open.spotify.com/track/7gozgbG5EBTukCFWToTRA5"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
         "name": "The Breakthrough",
         "url": "https://open.spotify.com/album/5cnNuunPepqlcT0VoFdLOh"
       },
@@ -3655,6 +3671,22 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
+        "name": "Super Trouper",
+        "url": "https://open.spotify.com/album/1nVUhbpkGwlTKxSIF6UJyM"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 294720,
+      "name": "The Winner Takes It All",
+      "url": "https://open.spotify.com/track/5kBZR12AntJUTo9UeAsKqP"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
         "name": "Fickle Heart (Plus Two Bonus Cuts)",
         "url": "https://open.spotify.com/album/0sXMbAJXXbkoJDbrbIiQgo"
       },
@@ -3667,54 +3699,6 @@
       "duration_ms": 240746,
       "name": "Driver's Seat",
       "url": "https://open.spotify.com/track/0fJFBbpUxTwjhh1ScBQjeX"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
-        "name": "The Joshua Tree (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/2qKmY7yt0kXdzSQxYAu9eZ"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 277480,
-      "name": "I Still Haven't Found What I'm Looking For - Remastered 2007",
-      "url": "https://open.spotify.com/track/7gozgbG5EBTukCFWToTRA5"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
-        "name": "Songs In A Minor (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 237626,
-      "name": "How Come You Don't Call Me",
-      "url": "https://open.spotify.com/track/5bAEFsQjo0DEJalVwFVmsW"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "Right As Rain",
-      "url": "https://open.spotify.com/track/1ARkKt39O6WQqE0QEpZntu"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -3739,6 +3723,22 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "Right As Rain",
+      "url": "https://open.spotify.com/track/1ARkKt39O6WQqE0QEpZntu"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/2yPVB4tLlnfBl8SgcX8qDv"
       },
@@ -3755,18 +3755,18 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "Back Home Again",
-        "url": "https://open.spotify.com/album/33KGuaxYmTlMgauIxfovy6"
+        "name": "Songs In A Minor (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
       },
       "artists": [
         {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 178266,
-      "name": "Annie's Song",
-      "url": "https://open.spotify.com/track/5qxFudz7A6PGptviHsz4Yd"
+      "duration_ms": 237626,
+      "name": "How Come You Don't Call Me",
+      "url": "https://open.spotify.com/track/5bAEFsQjo0DEJalVwFVmsW"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -3803,34 +3803,18 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "Faders Up 2 - Live in Amsterdam",
-        "url": "https://open.spotify.com/album/14rEB8965wj3A3ki6wW0Mh"
+        "name": "Back Home Again",
+        "url": "https://open.spotify.com/album/33KGuaxYmTlMgauIxfovy6"
       },
       "artists": [
         {
-          "name": "Triggerfinger",
-          "url": "https://open.spotify.com/artist/3UhIlk54Oe4ja06V962ptU"
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
         }
       ],
-      "duration_ms": 213551,
-      "name": "I Follow Rivers - Bonus Track - Live @ Giel VARA/3FM",
-      "url": "https://open.spotify.com/track/2yq1oOQZo3vm6Ij4EQrOYx"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
-        "name": "Ice On Fire (Remastered With Bonus Tracks)",
-        "url": "https://open.spotify.com/album/77IyyuuRV7IDN1ri7mBEuI"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 343240,
-      "name": "Nikita",
-      "url": "https://open.spotify.com/track/5lBI9isMBEHRn5Wxde058W"
+      "duration_ms": 178266,
+      "name": "Annie's Song",
+      "url": "https://open.spotify.com/track/5qxFudz7A6PGptviHsz4Yd"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -3863,6 +3847,38 @@
       "duration_ms": 218000,
       "name": "The Cave",
       "url": "https://open.spotify.com/track/2wT4SF6jRAl0GZvLO3QLeh"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
+        "name": "Faders Up 2 - Live in Amsterdam",
+        "url": "https://open.spotify.com/album/14rEB8965wj3A3ki6wW0Mh"
+      },
+      "artists": [
+        {
+          "name": "Triggerfinger",
+          "url": "https://open.spotify.com/artist/3UhIlk54Oe4ja06V962ptU"
+        }
+      ],
+      "duration_ms": 213551,
+      "name": "I Follow Rivers - Bonus Track - Live @ Giel VARA/3FM",
+      "url": "https://open.spotify.com/track/2yq1oOQZo3vm6Ij4EQrOYx"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
+        "name": "Ice On Fire (Remastered With Bonus Tracks)",
+        "url": "https://open.spotify.com/album/77IyyuuRV7IDN1ri7mBEuI"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 343240,
+      "name": "Nikita",
+      "url": "https://open.spotify.com/track/5lBI9isMBEHRn5Wxde058W"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -3979,38 +3995,6 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "Flaming Pie",
-        "url": "https://open.spotify.com/album/3MOZq52pZgMoRkqeZOvsfF"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 129666,
-      "name": "Great Day",
-      "url": "https://open.spotify.com/track/7MmPNXEjEeg1hy46aqfTbu"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
-        "name": "Super Trouper",
-        "url": "https://open.spotify.com/album/1nVUhbpkGwlTKxSIF6UJyM"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 294720,
-      "name": "The Winner Takes It All",
-      "url": "https://open.spotify.com/track/5kBZR12AntJUTo9UeAsKqP"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
         "name": "Singles Collection: The London Years",
         "url": "https://open.spotify.com/album/3U5sp7r1709xjvP2g6XJv5"
       },
@@ -4023,6 +4007,22 @@
       "duration_ms": 289373,
       "name": "You Can't Always Get What You Want - Single Version",
       "url": "https://open.spotify.com/track/7htJkucLPIyXonYgv7Pkpo"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
+        "name": "Flaming Pie",
+        "url": "https://open.spotify.com/album/3MOZq52pZgMoRkqeZOvsfF"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 129666,
+      "name": "Great Day",
+      "url": "https://open.spotify.com/track/7MmPNXEjEeg1hy46aqfTbu"
     },
     {
       "added_at": "2024-04-01 12:27:42",

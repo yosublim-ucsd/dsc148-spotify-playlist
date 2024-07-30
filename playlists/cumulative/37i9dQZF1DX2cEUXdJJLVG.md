@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-365 songs - 21 hr 44 min
+366 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Come to Me \- Late Night Version](https://open.spotify.com/track/4dsuDBdmva1gGqx35pd8Zy) | [Bkk](https://open.spotify.com/artist/37iEII5f2rWL5OxjUZ2wWw), [Bora](https://open.spotify.com/artist/5jedSTtBRn1JoOsIop4A6t) | [Come to Me \(Late Night Version\)](https://open.spotify.com/album/5XCPXsYrIWAlwbMQjv9VAq) | 3:07 | 2022-09-09 | 2024-05-10 |
 | [Competition](https://open.spotify.com/track/5dn0MR5bno68I4XDlbqmzI) | [City Park](https://open.spotify.com/artist/6sBplUXsbsTyUAgWo0xHzQ) | [Competition](https://open.spotify.com/album/0rrHKCszdH61BLjgwOu8cn) | 3:20 | 2023-02-17 |  |
 | [Control](https://open.spotify.com/track/1C26HwnwtIwLlSHJdB2iZw) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Control](https://open.spotify.com/album/3o3OAEZXFVzDavifKXa1aV) | 3:07 | 2022-09-09 | 2023-07-08 |
+| [Could It Be Love](https://open.spotify.com/track/4SGuRDKb78T5tJMGhGPdR9) | [IAMNOBODI](https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg), [Hugh Augustine](https://open.spotify.com/artist/48ehq0jR23nak2ZDDU6uff), [Todd Zack Jr.](https://open.spotify.com/artist/2bt82NyaCILDtSoTHlwdMl) | [Could It Be Love](https://open.spotify.com/album/0Q0IYSjbhb4jRLuBgcDMsI) | 2:58 | 2024-07-29 |  |
 | [Counterfeit](https://open.spotify.com/track/5qIRiXFqGI65EZuYtfyY53) | [HOLOW](https://open.spotify.com/artist/0iFmnAL0wjQU7r07tV4J09), [Eliza Roe](https://open.spotify.com/artist/1Y0jbCdHXiQlyV2fhxroqW) | [Counterfeit](https://open.spotify.com/album/24dCga7ILfqzQWDmAppQiy) | 2:49 | 2022-09-09 | 2022-10-15 |
 | [Curious](https://open.spotify.com/track/5xzBNmj3NUGsQ9O1VLelKe) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Curious](https://open.spotify.com/album/5hOKdnm5Aba2WQI7k64Pom) | 3:42 | 2022-09-09 | 2022-10-15 |
 | [Dancin Like a Fool](https://open.spotify.com/track/4wI11xnaKJAayVFBTHd6LM) | [Souldrippin](https://open.spotify.com/artist/1b0D9jgh2pJtPsKjU1gyS5), [Darius Dante](https://open.spotify.com/artist/1QCRuNTOqoXVN7F39fWxz5), [Hari Loco](https://open.spotify.com/artist/3nPiCfsgxJlJAkdPPVG2hQ) | [Dancin Like a Fool](https://open.spotify.com/album/6MY3TcKo5VPo3ANxeuVM6G) | 3:04 | 2023-07-13 |  |

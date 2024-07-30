@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-937 songs - 1 day 12 hr 24 min
+938 songs - 1 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,6 +392,7 @@
 | [Kopo](https://open.spotify.com/track/5OleafVdjWJZXpgH0xogCQ) | [ShoPaRo](https://open.spotify.com/artist/2GkroNSOCAW3rYkMfZyfdn), [Karma Kush](https://open.spotify.com/artist/46c7S778Q0SzgxgdPQriL0), [Meraki99](https://open.spotify.com/artist/1Ahnk99UWwxfK79NVSjcnI) | [Kopo](https://open.spotify.com/album/6FL1U7mZv2170IdhZuXduy) | 1:53 | 2023-01-13 |  |
 | [la donna e la chitarra](https://open.spotify.com/track/5goDbdYkF4ogWljlBSqoKb) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [la donna e la chitarra](https://open.spotify.com/album/6soofQydUlYQbMl16Mbs2f) | 1:45 | 2022-04-15 | 2022-06-25 |
 | [Lakeview Hotel](https://open.spotify.com/track/64KLZ6ghwEzRH6yAoNfEj2) | [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv), [Charlie Young](https://open.spotify.com/artist/5HPpufL8VIMnpG7423YMmH) | [Lakeview Hotel](https://open.spotify.com/album/0e5iO95x8kua0wwFU0H3qe) | 2:33 | 2022-04-15 | 2023-10-13 |
+| [lalalala](https://open.spotify.com/track/3y8x4FedCk7oZp1EdTSimF) | [Zoulzest](https://open.spotify.com/artist/3033U6vVNxs1vUC8wKuv6F) | [lalalala](https://open.spotify.com/album/0HE6pMfXCjvZPBh3dwzgzo) | 2:29 | 2024-07-26 |  |
 | [Lantana](https://open.spotify.com/track/2FoFXdEp7Vq0F6WnX5C2pp) | [Rooey](https://open.spotify.com/artist/5y2hfguiOBZAN1WUEyi2cv) | [Lantana](https://open.spotify.com/album/5UNOpQ3MBnoqtzUWQLKYYl) | 3:00 | 2022-09-02 | 2023-11-17 |
 | [Last Call 2](https://open.spotify.com/track/0li4HOpLhTA5YlEz4jUPOj) | [gambino M](https://open.spotify.com/artist/0eyPSClzklAcWC8maQbHiQ) | [Last Call 2](https://open.spotify.com/album/7d4zf1MRpZTrUx0RWqCV05) | 2:00 | 2022-04-15 | 2022-09-17 |
 | [Last Mission](https://open.spotify.com/track/68eeyMyBLYvpBKuKlGEFgv) | [Svanen](https://open.spotify.com/artist/2YuspxUFYn3GTgnk5boTvi) | [Last Mission](https://open.spotify.com/album/2yE00pVDJf10PO5Zop9Akg) | 3:07 | 2022-04-15 |  |
@@ -788,7 +789,7 @@
 | [supajam](https://open.spotify.com/track/0EJPiTVZZJ4LIrfQcQpDlI) | [Camden Clown](https://open.spotify.com/artist/56yn1U5TaMjH6ENhDdlWfM) | [supajam](https://open.spotify.com/album/2qoWl3DKNFoKvMQSv79tl0) | 2:00 | 2023-12-15 |  |
 | [Supalonley](https://open.spotify.com/track/3Bhi8rQjwOviWEpnt17Ser) | [Instant Influence](https://open.spotify.com/artist/5Enyz9z97MuIj0QCfUOT1X) | [Supalonely](https://open.spotify.com/album/3gT6m4IDzhjMUot8ZgKAIM) | 3:07 | 2022-11-25 |  |
 | [Superfly](https://open.spotify.com/track/6jT11modKRcuxt9pmvAzy2) | [Kevoe West](https://open.spotify.com/artist/6Va1VmR8BklpY5M7UBlhqU) | [Superfly](https://open.spotify.com/album/4jqthv8J5DGQ40yFC2zNjF) | 1:51 | 2022-04-15 | 2022-07-29 |
-| [Superman in the Tree](https://open.spotify.com/track/3zK9cqal7EHHYp9f328vcv) | [Siktem](https://open.spotify.com/artist/3k4YXZEqBj8L4UsiPf8fgr) | [Superman in the Tree](https://open.spotify.com/album/2XIDp5ZIYl5oycOJLee6xD) | 2:14 | 2022-05-20 |  |
+| [Superman in the Tree](https://open.spotify.com/track/3zK9cqal7EHHYp9f328vcv) | [Siktem](https://open.spotify.com/artist/3k4YXZEqBj8L4UsiPf8fgr) | [Superman in the Tree](https://open.spotify.com/album/2XIDp5ZIYl5oycOJLee6xD) | 2:14 | 2022-05-20 | 2024-07-30 |
 | [Surf Tiger](https://open.spotify.com/track/0jwpEqWMwo5fR1XQXic4lg) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Surf Tiger](https://open.spotify.com/album/4jTtUszaxX0G32HP7nG2SE) | 3:02 | 2023-10-20 |  |
 | [Surfing Cats](https://open.spotify.com/track/3nhlmeGm7FdqFo3rVO7hS2) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Surfing Cats](https://open.spotify.com/album/0DCV1oGMFWeM9lB2pvYPaN) | 2:08 | 2024-03-22 |  |
 | [Surroundings](https://open.spotify.com/track/5YmU5VNKazzBih5dXGIhBf) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Surroundings](https://open.spotify.com/album/2IPez7qLA9jrHocjh7qckN) | 2:38 | 2024-02-23 |  |

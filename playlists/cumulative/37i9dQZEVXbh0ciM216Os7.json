@@ -2589,6 +2589,32 @@
     },
     {
       "album": {
+        "name": "Un Soffio Elettrico",
+        "url": "https://open.spotify.com/album/1yMMNgTabeC8W3rkZEDWYT"
+      },
+      "artists": [
+        {
+          "name": "Sofia Pozdniakova",
+          "url": "https://open.spotify.com/artist/28jCHlgyIWLcbpofFiqDXN"
+        },
+        {
+          "name": "Giovanni Mancuso",
+          "url": "https://open.spotify.com/artist/3ckX8taRtbAKQc3iChGagk"
+        },
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454372,
+      "name": "Bed Aria",
+      "url": "https://open.spotify.com/track/7g4cRC1Qpshg6zL48aAVW3"
+    },
+    {
+      "album": {
         "name": "Before",
         "url": "https://open.spotify.com/album/3kpPInXtsy178RPtVTviuf"
       },
@@ -10516,7 +10542,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-29",
+      "date_removed": null,
       "duration_ms": 338018,
       "name": "FRENCH RAP JAM - Live",
       "url": "https://open.spotify.com/track/06ocEas9zMiYgU6gY3n2x7"
@@ -19488,7 +19514,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 842626,
       "name": "Music in Contrary Motion",
       "url": "https://open.spotify.com/track/0WBsx78AJcAOy16O3Y18Wu"
@@ -22022,7 +22048,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 232092,
       "name": "O\u00d9 VA LA VIE - Live",
       "url": "https://open.spotify.com/track/282YkdNNEu3bbp8tQfr5ig"

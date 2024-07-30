@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 
 > Nur tote Fische schwimmen mit dem Strom\. Cover: Yu
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,791 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,800 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 | 22 | [maria mag nur kaviar](https://open.spotify.com/track/4fmSdDMyrWjWKaB1VlCiyu) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B) | [maria mag nur kaviar](https://open.spotify.com/album/2OUvZEpZ16DEVbeGpLj9BL) | 2:21 |
 | 23 | [Kannst du bei mir bleiben?](https://open.spotify.com/track/6P2p63GZxlsvoegju9iH1Z) | [RAR](https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya) | [Kannst du bei mir bleiben?](https://open.spotify.com/album/4HfWSo2GOcajhwKOetWw4x) | 2:12 |
 | 24 | [Karussell](https://open.spotify.com/track/30w4Rt68tx8Ea1qPP47AIM) | [STOCKMANN](https://open.spotify.com/artist/4qJ4NLG3pHFfFxOBhQmDzm), [Crystal F](https://open.spotify.com/artist/6oZhc4ONSAMn6RYg6o6VWL), [SERPENTIN](https://open.spotify.com/artist/5OqZTCIS0UcVN7tPiUtGEF) | [Karussell](https://open.spotify.com/album/1jBkxZqTpkUpciIR5CAOEK) | 2:56 |
-| 25 | [Lied vom donnernden Leben](https://open.spotify.com/track/3tjMED46XQfYPDrL4gQ3mP) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ) | [Lied vom donnernden Leben](https://open.spotify.com/album/65UtkkQeSJ3SK2gDnWpc8B) | 2:46 |
-| 26 | [Lesbisch](https://open.spotify.com/track/15PJXv3g9r3Q6RLkotwpWf) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [Lesbisch](https://open.spotify.com/album/1pbnCXnVelZ9NF1G6nJVNI) | 3:23 |
+| 25 | [Lesbisch](https://open.spotify.com/track/15PJXv3g9r3Q6RLkotwpWf) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [Lesbisch](https://open.spotify.com/album/1pbnCXnVelZ9NF1G6nJVNI) | 3:23 |
+| 26 | [Lied vom donnernden Leben](https://open.spotify.com/track/3tjMED46XQfYPDrL4gQ3mP) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ) | [Lied vom donnernden Leben](https://open.spotify.com/album/65UtkkQeSJ3SK2gDnWpc8B) | 2:46 |
 | 27 | [Therapie](https://open.spotify.com/track/0qDvx4nKq97cNYR3udSFBj) | [Wanda](https://open.spotify.com/artist/6Kg9EvjSnEm5swmrvWCJyB) | [Therapie](https://open.spotify.com/album/42NQ4ja4LsyTICmR1tL3vC) | 2:46 |
 | 28 | [BAUM](https://open.spotify.com/track/4fH8xERQuzAh1pfn5ZEQkS) | [Mine](https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ) | [BAUM](https://open.spotify.com/album/4JGG9900H46EBP4vR0GYyI) | 3:08 |
 | 29 | [Der Weg zu zweit](https://open.spotify.com/track/1m5sm7IfjJzHWBDsK2FC0r) | [Frittenbude](https://open.spotify.com/artist/7jy0nL3F5ehHJxXYMBImkk) | [Der Weg zu zweit](https://open.spotify.com/album/2oDEOQhPicIKRZ19vWOwF1) | 2:32 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 | 41 | [Leon](https://open.spotify.com/track/4hu0vB1JaMHGaV4SJADNZs) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Leon](https://open.spotify.com/album/1vquxy6exp4vtCQnEFNgms) | 3:15 |
 | 42 | [Muttertag](https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw) | [Antilopen Gang](https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB) | [Muttertag](https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN) | 1:06 |
 | 43 | [Ein Spiel \(feat\. piya\)](https://open.spotify.com/track/1klDCE1ebQnTf9cds6I0hW) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo), [piya](https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh) | [Ein Spiel \(feat\. piya\)](https://open.spotify.com/album/1MxxDZjHKqlHiS4xuNx8VT) | 3:33 |
-| 44 | [König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw) | [Traumatin](https://open.spotify.com/artist/7a3E1IT2qaGIq6M4cW2NtV) | [König Der Welt](https://open.spotify.com/album/6iP34lE8L8EDx6JGgHPMB6) | 3:28 |
-| 45 | [Das Neue Normal](https://open.spotify.com/track/4JZzUgcFrkWisEO1yirDj7) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [Das Neue Normal](https://open.spotify.com/album/6X5diaWcPFGcsNMjwnWZdC) | 3:33 |
+| 44 | [Das Neue Normal](https://open.spotify.com/track/4JZzUgcFrkWisEO1yirDj7) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [Das Neue Normal](https://open.spotify.com/album/6X5diaWcPFGcsNMjwnWZdC) | 3:33 |
+| 45 | [König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw) | [Traumatin](https://open.spotify.com/artist/7a3E1IT2qaGIq6M4cW2NtV) | [König Der Welt](https://open.spotify.com/album/6iP34lE8L8EDx6JGgHPMB6) | 3:28 |
 | 46 | [So schreibt man seinen Song](https://open.spotify.com/track/0r10l0wnJ9SwV0rnQxBORe) | [Olli Schulz](https://open.spotify.com/artist/3FFqyoSbYAiE91jM3DAUb1) | [Vom Rand der Zeit](https://open.spotify.com/album/6dOkDpALZWcL8uuic3LjoH) | 3:23 |
 | 47 | [Marmelade Und Himbeereis](https://open.spotify.com/track/3CrC7C45IHGfkD5Z1SOSOH) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [Marmelade Und Himbeereis](https://open.spotify.com/album/064OxNn7XPDjxpmaKu57Di) | 3:48 |
 | 48 | [Skandal im Patriarchat](https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Skandal im Patriarchat](https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB) | 3:22 |

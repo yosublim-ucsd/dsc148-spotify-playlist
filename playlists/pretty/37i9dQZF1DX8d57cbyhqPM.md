@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > Du Congo, au monde\. 🌍 Photo: Ninho & Niska
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,226 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,261 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 34 | [Appétit](https://open.spotify.com/track/4GlpPG7BAHnPIMsN1Lvs3E) | [Good Nation](https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1), [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Appétit](https://open.spotify.com/album/5IyRubKxgtcZFQcyR0zX52) | 2:53 |
 | 35 | [Makila : Wablé](https://open.spotify.com/track/1YQNuvUhIjaYbNi7FV2SVN) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Makila : Wablé](https://open.spotify.com/album/1RCo2Oha1mmxXBebMYwAap) | 3:45 |
 | 36 | [Biso Mibale \(feat\. Jungeli\)](https://open.spotify.com/track/5Ymv6tlT7HgheiAfiU12mN) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Biso Mibale \(feat\. Jungeli\)](https://open.spotify.com/album/2qJCFSI8a3jNLyusz1opBU) | 2:57 |
-| 37 | [Nani](https://open.spotify.com/track/7hOpOQGiOrt5Ba2mwy5IU2) | [Danyka](https://open.spotify.com/artist/5BcGTHxcGIGryQTS4DqFsu) | [Nani](https://open.spotify.com/album/0UNtUQKkDVPwhFi6MbEq9Y) | 2:49 |
+| 37 | [Nani](https://open.spotify.com/track/7hOpOQGiOrt5Ba2mwy5IU2) | [Danyka](https://open.spotify.com/artist/2tnbUoKzRBCMVMV2ZYVqry) | [Nani](https://open.spotify.com/album/0UNtUQKkDVPwhFi6MbEq9Y) | 2:49 |
 | 38 | [Ne doute pas](https://open.spotify.com/track/3jjR16AsYxadkidrptGLYc) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Ne doute pas](https://open.spotify.com/album/7L3GB3sojKXCcMZtGtPKaO) | 3:05 |
 | 39 | [Fondili](https://open.spotify.com/track/7FTTX6qzR4TSPeyOxo2N2b) | [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay) | [Fondili](https://open.spotify.com/album/6nMH7VGRdE4HOSRRr2jdaQ) | 4:21 |
 | 40 | [Bokoko](https://open.spotify.com/track/1DSdM1nslwDn8JlHElw6Yc) | [Roga Roga](https://open.spotify.com/artist/2L1TvC8zgIymRxaa32TWug), [Extra Musica](https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K) | [Bokoko \(Extra Musica\)](https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6) | 4:12 |

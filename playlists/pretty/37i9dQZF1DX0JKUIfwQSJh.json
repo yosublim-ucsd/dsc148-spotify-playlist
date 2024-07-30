@@ -1,6 +1,6 @@
 {
   "description": "Rewind and unwind with sirens of the seventies and eighties.",
-  "num_followers": 886298,
+  "num_followers": 886413,
   "original_name": "70s & 80s Acoustic",
   "owner": {
     "name": "Spotify",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-03-25 16:59:03",
       "album": {
-        "name": "Every Picture Tells A Story",
-        "url": "https://open.spotify.com/album/4h1e47X26VQHXCjNZZ5P3v"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 350266,
-      "name": "Maggie May",
-      "url": "https://open.spotify.com/track/2LpirOWiA4eslLRuPpQT7V"
-    },
-    {
-      "added_at": "2024-03-25 16:59:03",
-      "album": {
         "name": "Vanilla Sky (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/5BTAqof8FIlVhXa1JsclU7"
       },
@@ -955,18 +939,42 @@
     {
       "added_at": "2024-03-25 16:59:03",
       "album": {
-        "name": "Acoustic Classics",
-        "url": "https://open.spotify.com/album/0mdNFhL4wFRkM1RK0mekqH"
+        "name": "The Complete Trio Collection",
+        "url": "https://open.spotify.com/album/25X28V6p34T7dNc2x7Vzt4"
       },
       "artists": [
         {
-          "name": "Peter Frampton",
-          "url": "https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 309760,
-      "name": "Baby, I Love Your Way",
-      "url": "https://open.spotify.com/track/3bhgNgvkuYUpvT3Aa8nobd"
+      "duration_ms": 216573,
+      "name": "Wildflowers - Remastered",
+      "url": "https://open.spotify.com/track/1J7BEJg43wE2fCJiXPY1xq"
+    },
+    {
+      "added_at": "2024-03-25 16:59:03",
+      "album": {
+        "name": "Every Picture Tells A Story",
+        "url": "https://open.spotify.com/album/4h1e47X26VQHXCjNZZ5P3v"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 350266,
+      "name": "Maggie May",
+      "url": "https://open.spotify.com/track/2LpirOWiA4eslLRuPpQT7V"
     },
     {
       "added_at": "2024-03-25 16:59:03",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,829 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,841 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,16 +46,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 36 | [Home](https://open.spotify.com/track/1wD2C9vWlPgmRa2hw1RdA0) | [bailey](https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM), [T\. Matthias](https://open.spotify.com/artist/2R7k2SovVWGhTcvPx1JbQv) | [Home](https://open.spotify.com/album/66O2AlsvHJhKtaXtSZGias) | 2:45 |
 | 37 | [So I Want You \- Mike Jasom Edit](https://open.spotify.com/track/2WBDnb2sYNqU2VHE3xf5or) | [Mike Jasom](https://open.spotify.com/artist/4NkFX8DIlWt8ZFL8CsdPGB) | [So I Want You \(Mike Jasom Edit\)](https://open.spotify.com/album/5gxu9cMSUfhq3H0aGVAy30) | 1:56 |
 | 38 | [sometimes i feel like saying goodbye \(feat\. Sondae\)](https://open.spotify.com/track/0QcO66hidLPUiazab9hprm) | [Jonny was Here.](https://open.spotify.com/artist/23nRxsR5E3ALBpT8Cl2Vbv), [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [sometimes i feel like saying goodbye \(feat\. Sondae\)](https://open.spotify.com/album/13tOrmLKmRMR8KlZE9U9mr) | 3:14 |
-| 39 | [Del Oro](https://open.spotify.com/track/5YgEN0XaRJo5EEiWuXDTqv) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Del Oro](https://open.spotify.com/album/5EmgZrhnGC2kXDJrN3Lnx0) | 6:14 |
-| 40 | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/album/08YZCza6AHI7EThW8xyX8L) | 3:47 |
+| 39 | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/album/08YZCza6AHI7EThW8xyX8L) | 3:47 |
+| 40 | [Del Oro](https://open.spotify.com/track/5YgEN0XaRJo5EEiWuXDTqv) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Del Oro](https://open.spotify.com/album/5EmgZrhnGC2kXDJrN3Lnx0) | 6:14 |
 | 41 | [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 |
 | 42 | [Have U](https://open.spotify.com/track/39x2AFARnc2ovMRtxw272B) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Have U](https://open.spotify.com/album/4WblkRJ8yUZ7OAG2Klyb9h) | 2:41 |
 | 43 | [I'll miss you](https://open.spotify.com/track/0DFVqaUmTttd4wozHaxcRe) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [I'll miss you](https://open.spotify.com/album/08p5Y9EHxOAyFrDDy6Bxr4) | 2:46 |
 | 44 | [DON'T KNOW WHERE I'M GOING](https://open.spotify.com/track/314xWohgRBDE8tjVFc2dmv) | [YOURS](https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7) | [DON’T KNOW WHERE I’M GOING](https://open.spotify.com/album/1dmZt5XUmpZsWeesKtwY8I) | 3:06 |
 | 45 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 |
 | 46 | [CHROMA 003 Bi83](https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6) | [DOVE](https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 003](https://open.spotify.com/album/635sAhOGiqkb11OZDCTRyk) | 3:56 |
-| 47 | [side by side \(feat\. Empress Of\) \[rebirth\]](https://open.spotify.com/track/2eBDPaRvjNs0Ek4fuFzOZx) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [side by side \(feat\. Empress Of\) \[rebirth\]](https://open.spotify.com/album/6crVJqqqNJekqNgp4FNp7u) | 3:15 |
-| 48 | [Something Right](https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2), [Molly Moonwater](https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O) | [Something Right](https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI) | 2:55 |
+| 47 | [Something Right](https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2), [Molly Moonwater](https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O) | [Something Right](https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI) | 2:55 |
+| 48 | [side by side \(feat\. Empress Of\) \[rebirth\]](https://open.spotify.com/track/2eBDPaRvjNs0Ek4fuFzOZx) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [side by side \(feat\. Empress Of\) \[rebirth\]](https://open.spotify.com/album/6crVJqqqNJekqNgp4FNp7u) | 3:15 |
 | 49 | [run away](https://open.spotify.com/track/2SN7ULJRUGp4GWFRAaWTbr) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS), [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [run away](https://open.spotify.com/album/4UQZ0IUOWZOrfx7lrTxWEe) | 3:12 |
 | 50 | [Need 2](https://open.spotify.com/track/0wkr8bQUqNLdfmbeDUJMqg) | [Does it matter](https://open.spotify.com/artist/00fhyHwDkhykp7qxLsbvch) | [Need 2](https://open.spotify.com/album/79ZaIlw5sTErnWdbgJvFQ0) | 2:05 |
 

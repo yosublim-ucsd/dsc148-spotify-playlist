@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc88qbKkzeR0.md) - [plain]
 
 > Curated by Dan Levy\. Watch Good Grief now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,008 likes - 22 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,039 likes - 22 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 63 | [Might Forgive You](https://open.spotify.com/track/3cqriOBTkCgxoNWmH8Eq4o) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Might Forgive You / Tkm](https://open.spotify.com/album/2AshOHb8iyEpEUNSlENZuj) | 4:09 |
 | 64 | [Temporal](https://open.spotify.com/track/7kfc7aJkA3yh5OdrN45nfd) | [Xavier Martinex](https://open.spotify.com/artist/1XLR7wR5X9EWHrL5BYV8oY) | [Temporal](https://open.spotify.com/album/57fdApG6bFRgvE2b5nZbh8) | 2:56 |
 | 65 | [Hurting](https://open.spotify.com/track/5Dt2gX8GCNJ85oWOlNUlTB) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Pala](https://open.spotify.com/album/6cLebEH9n07yXZGQj5G7qG) | 5:02 |
-| 66 | [Lilas](https://open.spotify.com/track/5gb4DPjRoVA3y4O5KMmmQq) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [Edén](https://open.spotify.com/album/6C3AAFYwOUqOHA8HNmizA9) | 3:33 |
-| 67 | [LLUVIA](https://open.spotify.com/track/31aKmRsmEV8SPw54VlAQXN) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [LLUVIA](https://open.spotify.com/album/6CxBqU8z9qtUjJlg8RkiX9) | 3:38 |
+| 66 | [LLUVIA](https://open.spotify.com/track/31aKmRsmEV8SPw54VlAQXN) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [LLUVIA](https://open.spotify.com/album/6CxBqU8z9qtUjJlg8RkiX9) | 3:38 |
+| 67 | [Lilas](https://open.spotify.com/track/5gb4DPjRoVA3y4O5KMmmQq) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [Edén](https://open.spotify.com/album/6C3AAFYwOUqOHA8HNmizA9) | 3:33 |
 | 68 | [Strangers](https://open.spotify.com/track/3OG1FcdabAqljk4irWH3Uu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Strangers](https://open.spotify.com/album/5fKWSlweaDx1wZwTE00bit) | 3:40 |
 | 69 | [Tears at Bae](https://open.spotify.com/track/3WPFFAjIYYGnfRkjO29lqQ) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Tears at Bae](https://open.spotify.com/album/0nVGuICcGzCEm3A3psO84B) | 3:22 |
 

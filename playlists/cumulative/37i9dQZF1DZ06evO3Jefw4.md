@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3Jefw4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3Jefw4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3Jefw4)
 
-### [This Is Katy Perry](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Jefw4)
+### [This Is ケイティ・ペリー](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Jefw4)
 
-> This is Katy Perry\. The essential tracks, all in one playlist.
+> This is ケイティ・ペリー。アーティストの代表曲をひとつのプレイリストに。
 
 101 songs - 5 hr 57 min
 

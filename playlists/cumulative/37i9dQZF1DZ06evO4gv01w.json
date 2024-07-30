@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
+  "description": "This Is Larkin Poe. Los temas esenciales, todos en una lista.",
   "name": "This Is Larkin Poe",
   "tracks": [
     {
@@ -184,7 +184,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 298309,
       "name": "Back Down South / Blue Sky - Live In Concert",
       "url": "https://open.spotify.com/track/7A3Is9WNbjQ0QneOwqNOJQ"
@@ -2474,7 +2474,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 192351,
       "name": "Tears Of Blue To Gold",
       "url": "https://open.spotify.com/track/604I2KSZvAA3fjbZpAbJ5v"
@@ -2492,7 +2492,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 192351,
       "name": "Tears Of Blue To Gold",
       "url": "https://open.spotify.com/track/7MUvUiKIp9eAJ8C9QZxpsq"

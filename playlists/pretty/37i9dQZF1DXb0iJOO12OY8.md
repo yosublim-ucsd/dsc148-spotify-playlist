@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 
 > 😵‍💫
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,188 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,189 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,17 +44,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 34 | [Volare](https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Volare](https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg) | 2:38 |
 | 35 | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF) | 3:06 |
 | 36 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 |
-| 37 | [Da vi var to](https://open.spotify.com/track/66mAcIc3VtfVTgae4gVeBV) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Da vi var to](https://open.spotify.com/album/5kubT1Uexezpd5eejqQDgZ) | 3:07 |
-| 38 | [Tenk Inte](https://open.spotify.com/track/2pqQRRFqx4N2vgUpyNCjeZ) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Tenk Inte](https://open.spotify.com/album/76PgNeucZNboWgBKHP25kB) | 2:53 |
+| 37 | [Tenk Inte](https://open.spotify.com/track/2pqQRRFqx4N2vgUpyNCjeZ) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Tenk Inte](https://open.spotify.com/album/76PgNeucZNboWgBKHP25kB) | 2:53 |
+| 38 | [Da vi var to](https://open.spotify.com/track/66mAcIc3VtfVTgae4gVeBV) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Da vi var to](https://open.spotify.com/album/5kubT1Uexezpd5eejqQDgZ) | 3:07 |
 | 39 | [Sølvskje](https://open.spotify.com/track/6XuknnhHp56njzcXXnHuJg) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Sølvskje](https://open.spotify.com/album/6Wz4lDw5OdxQ34eeGrCVKW) | 2:17 |
 | 40 | [Back To My Roots](https://open.spotify.com/track/5ZF1gvQjreeqNFqWtjwupo) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Back To My Roots](https://open.spotify.com/album/61hVGkro1cIvIgHYOLrr0g) | 3:00 |
 | 41 | [beat up car](https://open.spotify.com/track/7FBsCEfKsrj5hbcn5PZDyP) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [beat up car](https://open.spotify.com/album/4SOi9qG5Lv1vDedaGGQlwu) | 3:34 |
 | 42 | [når du slår ut håret blir jeg slått ut](https://open.spotify.com/track/2tqcI5NvNbt9F8fP33I9B5) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [når du slår ut håret blir jeg slått ut](https://open.spotify.com/album/1wOjIjsn0o2fPE0OkrOdHv) | 1:57 |
 | 43 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 |
 | 44 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 |
-| 45 | [Bonanza \(feat\. Greekazo\)](https://open.spotify.com/track/2Oum9Ze9GhdDUiMaa7FLZ3) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [Roc Boyz, Vol\. 3](https://open.spotify.com/album/4hFby8Laxy4VLwG888kx9g) | 2:18 |
-| 46 | [hva om jeg slutta å bry meg](https://open.spotify.com/track/4X1EwzdgQpIIqzHO5HVYQ2) | [lille Caesar](https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR) | [hva om jeg slutta å bry meg](https://open.spotify.com/album/0r8iLgMrTIDdsa5ourX69b) | 3:06 |
-| 47 | [Superhelt Steez](https://open.spotify.com/track/4FoRpi0ILF4DEj8rAP578w) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 3:02 |
+| 45 | [hva om jeg slutta å bry meg](https://open.spotify.com/track/4X1EwzdgQpIIqzHO5HVYQ2) | [lille Caesar](https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR) | [hva om jeg slutta å bry meg](https://open.spotify.com/album/0r8iLgMrTIDdsa5ourX69b) | 3:06 |
+| 46 | [Superhelt Steez](https://open.spotify.com/track/4FoRpi0ILF4DEj8rAP578w) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 3:02 |
+| 47 | [Bonanza \(feat\. Greekazo\)](https://open.spotify.com/track/2Oum9Ze9GhdDUiMaa7FLZ3) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [Roc Boyz, Vol\. 3](https://open.spotify.com/album/4hFby8Laxy4VLwG888kx9g) | 2:18 |
 | 48 | [En gång till](https://open.spotify.com/track/2vd8CskGdduZW0LvVvXW7f) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [En gång till](https://open.spotify.com/album/4DHfWTM0wLOcsvPftNzluD) | 2:25 |
 | 49 | [Lever Livet](https://open.spotify.com/track/03EVFwVKaimcw3ZNkoU6x7) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Lever Livet](https://open.spotify.com/album/753mxKgIv1sOihb9r6R7Zl) | 2:53 |
 | 50 | [Sommerkveld](https://open.spotify.com/track/1OFK0wpcRZRwzUWcavILuP) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv) | [Sommerkveld](https://open.spotify.com/album/4oPECM7pXcS0mxDTs2E70w) | 2:12 |

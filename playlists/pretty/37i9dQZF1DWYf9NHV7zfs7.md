@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 
 > y nada más que pop ✨✨✨<br/>📷 Un Verano
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,880 likes - 85 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,893 likes - 85 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 69 | [Mil Horas](https://open.spotify.com/track/6c7s0wN0CahLzgB7VbWJKa) | [Cachorro Lopez](https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Mil Horas](https://open.spotify.com/album/6tJzhzcKJZVuUUOp4c2fUn) | 3:00 |
 | 70 | [La Fuerza del Engaño](https://open.spotify.com/track/2KrzUHEX4tL0zZOKHFQmqG) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Manantial](https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE) | 3:27 |
 | 71 | [LA FORMA DE TUS HUESOS](https://open.spotify.com/track/020DdY7OHn2cAA0YLCeGTn) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [LA FORMA DE TUS HUESOS](https://open.spotify.com/album/7yrAWLchX3RIrXiry3qge3) | 3:32 |
-| 72 | [Baum Baum](https://open.spotify.com/track/6WkfdgfHTdpmVHcB3Jn4ks) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI DELUXE](https://open.spotify.com/album/4OpNEfxBSiv9bqjQRxpD2A) | 2:34 |
-| 73 | [EL PROCESO](https://open.spotify.com/track/7jRTjCPPxpUBSdx5jh05az) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [EL PROCESO](https://open.spotify.com/album/0btfCnFxFTTJ9xgs6j4bLr) | 2:36 |
+| 72 | [EL PROCESO](https://open.spotify.com/track/7jRTjCPPxpUBSdx5jh05az) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [EL PROCESO](https://open.spotify.com/album/0btfCnFxFTTJ9xgs6j4bLr) | 2:36 |
+| 73 | [Baum Baum](https://open.spotify.com/track/6WkfdgfHTdpmVHcB3Jn4ks) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI DELUXE](https://open.spotify.com/album/4OpNEfxBSiv9bqjQRxpD2A) | 2:34 |
 | 74 | [Llamame](https://open.spotify.com/track/3oqI8s2Aj0MUOop1j2vqoN) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [PITADA](https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH) | 3:28 |
 | 75 | [Tu Sonrisa](https://open.spotify.com/track/2fvS1uq09HxUdb5TacY4af) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Momentos](https://open.spotify.com/album/4otpESFklCmaNyfdxaRueD) | 3:36 |
 | 76 | [Soy débil Sr.](https://open.spotify.com/track/4zN8UMrNeEoJSggUC5EfBn) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Soy débil Sr.](https://open.spotify.com/album/6XLmWFiQkDJ756tIB01dd7) | 3:45 |

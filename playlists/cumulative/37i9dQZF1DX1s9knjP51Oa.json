@@ -758,7 +758,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 129889,
       "name": "An Invitation",
       "url": "https://open.spotify.com/track/2tx8VSE18uvJ5SKd5N6kGd"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 141628,
       "name": "Answer",
       "url": "https://open.spotify.com/track/1FlBxmsJyCXMViFVNYFHv4"
@@ -3898,6 +3898,24 @@
       "duration_ms": 152500,
       "name": "Eridani",
       "url": "https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0"
+    },
+    {
+      "album": {
+        "name": "Escondidas",
+        "url": "https://open.spotify.com/album/52j4FXkBGwmYA8Jq8xuhKt"
+      },
+      "artists": [
+        {
+          "name": "Francine Ga\u00e9tane",
+          "url": "https://open.spotify.com/artist/6gMlkMM2jbGYhiNAzcR6Zw"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134866,
+      "name": "Escondidas",
+      "url": "https://open.spotify.com/track/5uUdiK8TRiaRR8iLGZsBOt"
     },
     {
       "album": {

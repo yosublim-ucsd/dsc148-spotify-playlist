@@ -1,6 +1,6 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 2293174,
+  "num_followers": 2293146,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
@@ -107,18 +107,22 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "Love & Hate",
-        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
+        "name": "All The Little Lights (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/25bKp06DTIMODKnzXQf4gR"
       },
       "artists": [
         {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 427093,
-      "name": "Love & Hate",
-      "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
+      "duration_ms": 256986,
+      "name": "Let Her Go (feat. Ed Sheeran) - Anniversary Edition",
+      "url": "https://open.spotify.com/track/1nHKI4L5pWrN5CUvW07nHP"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -139,22 +143,18 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "All The Little Lights (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/25bKp06DTIMODKnzXQf4gR"
+        "name": "Love & Hate",
+        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
       },
       "artists": [
         {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         }
       ],
-      "duration_ms": 256986,
-      "name": "Let Her Go (feat. Ed Sheeran) - Anniversary Edition",
-      "url": "https://open.spotify.com/track/1nHKI4L5pWrN5CUvW07nHP"
+      "duration_ms": 427093,
+      "name": "Love & Hate",
+      "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -875,18 +875,18 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "Sofia",
-        "url": "https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa"
+        "name": "Doomsday",
+        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
       },
       "artists": [
         {
-          "name": "Alexa Popov",
-          "url": "https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE"
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
         }
       ],
-      "duration_ms": 138336,
-      "name": "Spring has sprung",
-      "url": "https://open.spotify.com/track/3wsMlLVsaUa2hlUmXAZgzg"
+      "duration_ms": 189506,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "Doomsday",
-        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
+        "name": "Sofia",
+        "url": "https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa"
       },
       "artists": [
         {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+          "name": "Alexa Popov",
+          "url": "https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE"
         }
       ],
-      "duration_ms": 189506,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
+      "duration_ms": 138336,
+      "name": "Spring has sprung",
+      "url": "https://open.spotify.com/track/3wsMlLVsaUa2hlUmXAZgzg"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "Dual",
-        "url": "https://open.spotify.com/album/4vCwbb8M7HVTPGrDGsTYh4"
-      },
-      "artists": [
-        {
-          "name": "Meadowlark",
-          "url": "https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs"
-        }
-      ],
-      "duration_ms": 211805,
-      "name": "Fly - Acoustic",
-      "url": "https://open.spotify.com/track/2YVK7RkwslK62gTCWboDPM"
-    },
-    {
-      "added_at": "2024-07-05 22:48:35",
-      "album": {
         "name": "Like I Used To (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 233013,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1"
+    },
+    {
+      "added_at": "2024-07-05 22:48:35",
+      "album": {
+        "name": "Dual",
+        "url": "https://open.spotify.com/album/4vCwbb8M7HVTPGrDGsTYh4"
+      },
+      "artists": [
+        {
+          "name": "Meadowlark",
+          "url": "https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs"
+        }
+      ],
+      "duration_ms": 211805,
+      "name": "Fly - Acoustic",
+      "url": "https://open.spotify.com/track/2YVK7RkwslK62gTCWboDPM"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "Angela (Single Version)",
-        "url": "https://open.spotify.com/album/5WQjTqCdzCAFQFVsMoUXm0"
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 178840,
-      "name": "Angela (Single Version)",
-      "url": "https://open.spotify.com/track/5kGBSOrKYmhRfdPBw4xD8D"
+      "duration_ms": 217463,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
+        "name": "Angela (Single Version)",
+        "url": "https://open.spotify.com/album/5WQjTqCdzCAFQFVsMoUXm0"
       },
       "artists": [
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 217463,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
+      "duration_ms": 178840,
+      "name": "Angela (Single Version)",
+      "url": "https://open.spotify.com/track/5kGBSOrKYmhRfdPBw4xD8D"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "Weatherman",
-        "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
-      },
-      "artists": [
-        {
-          "name": "Hush Kids",
-          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
-        }
-      ],
-      "duration_ms": 211509,
-      "name": "Weatherman",
-      "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
-    },
-    {
-      "added_at": "2024-07-05 22:48:35",
-      "album": {
         "name": "When Smoke Rises",
         "url": "https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 181372,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA"
+    },
+    {
+      "added_at": "2024-07-05 22:48:35",
+      "album": {
+        "name": "Weatherman",
+        "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
+      },
+      "artists": [
+        {
+          "name": "Hush Kids",
+          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
+        }
+      ],
+      "duration_ms": 211509,
+      "name": "Weatherman",
+      "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "Rolling On",
-        "url": "https://open.spotify.com/album/0LXGdiWrkYMuLxfRbGW4FX"
-      },
-      "artists": [
-        {
-          "name": "Ryan Harris",
-          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
-        }
-      ],
-      "duration_ms": 176748,
-      "name": "Rolling On",
-      "url": "https://open.spotify.com/track/5QZHOS6ipp8liMXtvzIscD"
-    },
-    {
-      "added_at": "2024-07-05 22:48:35",
-      "album": {
         "name": "I Know You Know Me (With Matt Berninger)",
         "url": "https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 199123,
       "name": "I Know You Know Me (With Matt Berninger)",
       "url": "https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc"
+    },
+    {
+      "added_at": "2024-07-05 22:48:35",
+      "album": {
+        "name": "Rolling On",
+        "url": "https://open.spotify.com/album/0LXGdiWrkYMuLxfRbGW4FX"
+      },
+      "artists": [
+        {
+          "name": "Ryan Harris",
+          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
+        }
+      ],
+      "duration_ms": 176748,
+      "name": "Rolling On",
+      "url": "https://open.spotify.com/track/5QZHOS6ipp8liMXtvzIscD"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "Signs of Life",
-        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "System",
-      "url": "https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE"
-    },
-    {
-      "added_at": "2024-07-05 22:48:35",
-      "album": {
         "name": "With You - A Sweet Little Love Song Demo",
         "url": "https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 154573,
       "name": "With You - A Sweet Little Love Song Demo",
       "url": "https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS"
+    },
+    {
+      "added_at": "2024-07-05 22:48:35",
+      "album": {
+        "name": "Signs of Life",
+        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "System",
+      "url": "https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "Rosemary",
-        "url": "https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 254200,
-      "name": "Feel Alive Again",
-      "url": "https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2"
-    },
-    {
-      "added_at": "2024-07-05 22:48:35",
-      "album": {
         "name": "Loving Takes This Course - a Tribute to the Songs of Kath Bloom",
         "url": "https://open.spotify.com/album/45Ae8sd3ZB5gbBHNNIZaGY"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "Golden (Acoustic)",
-        "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
+        "name": "Rosemary",
+        "url": "https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h"
       },
       "artists": [
         {
-          "name": "Becca Mancari",
-          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
         }
       ],
-      "duration_ms": 307312,
-      "name": "Golden (Acoustic)",
-      "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
+      "duration_ms": 254200,
+      "name": "Feel Alive Again",
+      "url": "https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -1423,6 +1407,22 @@
       "duration_ms": 246413,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
+    },
+    {
+      "added_at": "2024-07-05 22:48:35",
+      "album": {
+        "name": "Golden (Acoustic)",
+        "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
+      },
+      "artists": [
+        {
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+        }
+      ],
+      "duration_ms": 307312,
+      "name": "Golden (Acoustic)",
+      "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "Chemicals",
-        "url": "https://open.spotify.com/album/2aInGJWGVkBDcMZZfYVvA1"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/2wDuq7nBkGJjO4ykq3aJ4D"
-    },
-    {
-      "added_at": "2024-07-05 22:48:35",
-      "album": {
         "name": "Some People I Know",
         "url": "https://open.spotify.com/album/1BpdKszhtmmlaOqG3McH0g"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 139060,
       "name": "Red And Gold",
       "url": "https://open.spotify.com/track/0t0RCYwio7OT0mtCAmv5mS"
+    },
+    {
+      "added_at": "2024-07-05 22:48:35",
+      "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/2aInGJWGVkBDcMZZfYVvA1"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/2wDuq7nBkGJjO4ykq3aJ4D"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/1RYP4jpaZn8uKR2HLSPLWm"
-      },
-      "artists": [
-        {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Sinking Ship",
-      "url": "https://open.spotify.com/track/1kYeZHJpBpbGQPlF9jznCs"
-    },
-    {
-      "added_at": "2024-07-05 22:48:35",
-      "album": {
         "name": "The Harrow & The Harvest",
         "url": "https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 220866,
       "name": "Digging Shelters",
       "url": "https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX"
+    },
+    {
+      "added_at": "2024-07-05 22:48:35",
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/1RYP4jpaZn8uKR2HLSPLWm"
+      },
+      "artists": [
+        {
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Sinking Ship",
+      "url": "https://open.spotify.com/track/1kYeZHJpBpbGQPlF9jznCs"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -1839,18 +1839,18 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+        "name": "Bashed Out",
+        "url": "https://open.spotify.com/album/7DbfCArRXJvf4cgKWPUHIv"
       },
       "artists": [
         {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
         }
       ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+      "duration_ms": 221120,
+      "name": "Bashed Out",
+      "url": "https://open.spotify.com/track/1chmZUBdfxoLWN1LCZ6HLO"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -1871,38 +1871,6 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "Neon",
-        "url": "https://open.spotify.com/album/0vOvZxXtpGfj8lguolWtcZ"
-      },
-      "artists": [
-        {
-          "name": "Sam Moss",
-          "url": "https://open.spotify.com/artist/1l5DL2eLjMMvgwKX5Ysw9j"
-        }
-      ],
-      "duration_ms": 151172,
-      "name": "Rust",
-      "url": "https://open.spotify.com/track/4Ob6C4hbiVGVAmP0nP1i4U"
-    },
-    {
-      "added_at": "2024-07-05 22:48:35",
-      "album": {
-        "name": "Bashed Out",
-        "url": "https://open.spotify.com/album/7DbfCArRXJvf4cgKWPUHIv"
-      },
-      "artists": [
-        {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
-        }
-      ],
-      "duration_ms": 221120,
-      "name": "Bashed Out",
-      "url": "https://open.spotify.com/track/1chmZUBdfxoLWN1LCZ6HLO"
-    },
-    {
-      "added_at": "2024-07-05 22:48:35",
-      "album": {
         "name": "Matin\u00e9e",
         "url": "https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl"
       },
@@ -1919,18 +1887,18 @@
     {
       "added_at": "2024-07-05 22:48:35",
       "album": {
-        "name": "Jenny Jenkins (Acoustic)",
-        "url": "https://open.spotify.com/album/2KMCjuIn9c73564EGhRH9u"
+        "name": "Neon",
+        "url": "https://open.spotify.com/album/0vOvZxXtpGfj8lguolWtcZ"
       },
       "artists": [
         {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+          "name": "Sam Moss",
+          "url": "https://open.spotify.com/artist/1l5DL2eLjMMvgwKX5Ysw9j"
         }
       ],
-      "duration_ms": 241215,
-      "name": "Jenny Jenkins (Acoustic)",
-      "url": "https://open.spotify.com/track/2oF3Ipzuj03PoAmRX9LDXf"
+      "duration_ms": 151172,
+      "name": "Rust",
+      "url": "https://open.spotify.com/track/4Ob6C4hbiVGVAmP0nP1i4U"
     },
     {
       "added_at": "2024-07-05 22:48:35",
@@ -1951,6 +1919,38 @@
       "duration_ms": 220864,
       "name": "I Hope It Takes You Higher - Acoustic",
       "url": "https://open.spotify.com/track/71aHrUacV9bMtm1qCqJuwZ"
+    },
+    {
+      "added_at": "2024-07-05 22:48:35",
+      "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+    },
+    {
+      "added_at": "2024-07-05 22:48:35",
+      "album": {
+        "name": "Jenny Jenkins (Acoustic)",
+        "url": "https://open.spotify.com/album/2KMCjuIn9c73564EGhRH9u"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 241215,
+      "name": "Jenny Jenkins (Acoustic)",
+      "url": "https://open.spotify.com/track/2oF3Ipzuj03PoAmRX9LDXf"
     },
     {
       "added_at": "2024-07-05 22:48:35",

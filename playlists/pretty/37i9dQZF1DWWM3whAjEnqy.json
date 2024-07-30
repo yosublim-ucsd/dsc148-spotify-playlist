@@ -1,6 +1,6 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 43465,
+  "num_followers": 43467,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Pretty Lady",
-        "url": "https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 277908,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Snow",
         "url": "https://open.spotify.com/album/1D7wVgT1HGxwLGqSnLf0lg"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 273533,
       "name": "Chateau",
       "url": "https://open.spotify.com/track/1LIbTjMdFP15jIXGkcICSU"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Pretty Lady",
+        "url": "https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 277908,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -527,22 +527,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Simply Paradise",
-        "url": "https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM"
+        "name": "Paint",
+        "url": "https://open.spotify.com/album/6J8EzIkd1LeP07kIF77RNz"
       },
       "artists": [
         {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        },
-        {
-          "name": "Ryan Paris",
-          "url": "https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC"
+          "name": "Holy Holy",
+          "url": "https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2"
         }
       ],
-      "duration_ms": 155695,
-      "name": "Simply Paradise",
-      "url": "https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ"
+      "duration_ms": 259964,
+      "name": "True Lovers",
+      "url": "https://open.spotify.com/track/5RHY7WkAjAhpxuPN0CTd4F"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -563,18 +559,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Paint",
-        "url": "https://open.spotify.com/album/6J8EzIkd1LeP07kIF77RNz"
+        "name": "Simply Paradise",
+        "url": "https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM"
       },
       "artists": [
         {
-          "name": "Holy Holy",
-          "url": "https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2"
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        },
+        {
+          "name": "Ryan Paris",
+          "url": "https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC"
         }
       ],
-      "duration_ms": 259964,
-      "name": "True Lovers",
-      "url": "https://open.spotify.com/track/5RHY7WkAjAhpxuPN0CTd4F"
+      "duration_ms": 155695,
+      "name": "Simply Paradise",
+      "url": "https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Chimney's Afire",
-        "url": "https://open.spotify.com/album/4PucMCxh5r2SNaAtZNcvzw"
-      },
-      "artists": [
-        {
-          "name": "Josh Pyke",
-          "url": "https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "The Summer",
-      "url": "https://open.spotify.com/track/2xN6Xkcx09kPPlNR7gPZRV"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Angus & Julia Stone (Deluxe)",
         "url": "https://open.spotify.com/album/6w97X470r5gNmmfBkwPm04"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Mystik",
-        "url": "https://open.spotify.com/album/00yAwDfu7JLRlhvHSchMzu"
+        "name": "Chimney's Afire",
+        "url": "https://open.spotify.com/album/4PucMCxh5r2SNaAtZNcvzw"
       },
       "artists": [
         {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+          "name": "Josh Pyke",
+          "url": "https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH"
         }
       ],
-      "duration_ms": 249296,
-      "name": "Mystik",
-      "url": "https://open.spotify.com/track/0NnVzBW6TJLaEzcyXjqRDH"
+      "duration_ms": 203800,
+      "name": "The Summer",
+      "url": "https://open.spotify.com/track/2xN6Xkcx09kPPlNR7gPZRV"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -767,6 +751,22 @@
       "duration_ms": 226733,
       "name": "London Still",
       "url": "https://open.spotify.com/track/2uoxXaadBpSWEmIXSaVMYi"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Mystik",
+        "url": "https://open.spotify.com/album/00yAwDfu7JLRlhvHSchMzu"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 249296,
+      "name": "Mystik",
+      "url": "https://open.spotify.com/track/0NnVzBW6TJLaEzcyXjqRDH"
     },
     {
       "added_at": "2023-11-15 02:04:48",

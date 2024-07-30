@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-891 songs - 1 day 14 hr 5 min
+892 songs - 1 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Aster](https://open.spotify.com/track/72KJyAtPYTjzfDeSZbe9h3) | [Tig Martin](https://open.spotify.com/artist/6M0BLRIxPxH1xbsvQdNsdi) | [Aster](https://open.spotify.com/album/3dGQkAUu05FoXDBLANmMow) | 2:42 | 2021-12-07 | 2022-11-12 |
 | [Au matin du magicien](https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW) | [Leo Nocta](https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI) | [Au matin du magicien](https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ) | 2:02 | 2024-01-09 |  |
 | [Auf dem Felde](https://open.spotify.com/track/41DUMAp3y9qP384vrS0f2r) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Auf dem Felde](https://open.spotify.com/album/0EROhvEiWfGx9i9btcWQQm) | 1:48 | 2021-12-07 | 2022-03-18 |
-| [Aufgang der Sonne](https://open.spotify.com/track/4iCLo3ZjF6V1RW4Wz18KMz) | [Ploxxio](https://open.spotify.com/artist/6x1wQEYS0lwy0BOZUF6WFa) | [Praxedis](https://open.spotify.com/album/5fpiyyKknRiCj5joBh4VA0) | 2:52 | 2022-03-16 |  |
+| [Aufgang der Sonne](https://open.spotify.com/track/4iCLo3ZjF6V1RW4Wz18KMz) | [Ploxxio](https://open.spotify.com/artist/6x1wQEYS0lwy0BOZUF6WFa) | [Praxedis](https://open.spotify.com/album/5fpiyyKknRiCj5joBh4VA0) | 2:52 | 2022-03-16 | 2024-07-30 |
 | [Autres temps, autres mœurs](https://open.spotify.com/track/6aGvF7goNzrTx03ZK6EJOX) | [Prewitt Massé](https://open.spotify.com/artist/4A2bJABmFzaDnZwBris4yj) | [Autres temps, autres mœurs](https://open.spotify.com/album/2UTphZZpH1w90kHCB0hfz7) | 2:00 | 2021-12-07 | 2022-10-14 |
 | [Autumn Leaf](https://open.spotify.com/track/79q3lBKpjZLlfgfybAIRaO) | [Esperanza](https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa) | [Autumn Leaf](https://open.spotify.com/album/7bvRmwCxFVH5AntdH5j6H7) | 2:27 | 2021-12-07 | 2022-08-26 |
 | [Autumnal](https://open.spotify.com/track/6i653T49GCokF7aFcgG76h) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [Autumnal](https://open.spotify.com/album/7a7f6qmks202aOFuAfomMM) | 2:04 | 2023-12-12 |  |
@@ -135,6 +135,7 @@
 | [Calm Skies](https://open.spotify.com/track/2IpHdNslMW4mijoiTKF3j3) | [Edu Lahmar](https://open.spotify.com/artist/2cUQRSrBnFd4OKJKhlVVDc) | [Calm Skies](https://open.spotify.com/album/3Z6ejTSGeCcThfOjvv5sP4) | 2:07 | 2021-12-07 | 2022-03-17 |
 | [Calolziocorte](https://open.spotify.com/track/1eq8ybJ7diRj2rGsVwNVv6) | [Grazia Bellini](https://open.spotify.com/artist/03r4oR4wLUyjzpYtSf2RDS) | [Calolziocorte](https://open.spotify.com/album/1OchRw8VptiaBKQvFPbcdi) | 2:20 | 2024-04-22 |  |
 | [Canyon, Catch Your Thoughts](https://open.spotify.com/track/1DZgGPsQfkz9JUTzP2qQVr) | [Warble](https://open.spotify.com/artist/6c97PAHbxfwJuLjV7gpwUb) | [Canyon, Catch Your Thoughts](https://open.spotify.com/album/59OTSpWsLdw5IVPFTnzr3v) | 2:15 | 2022-10-24 | 2024-03-26 |
+| [Cara Al Cielo](https://open.spotify.com/track/28uqO9pe8CK4oEcPv9kd6v) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Cara Al Cielo](https://open.spotify.com/album/0vTQlMsVMMItZFkNcniAC4) | 2:22 | 2024-07-29 |  |
 | [Cascada](https://open.spotify.com/track/7dMT5XlXtLoFkUBzJapLUr) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Cascada](https://open.spotify.com/album/7IQlp6U0qYQuaYZqgD96Z0) | 3:09 | 2022-11-11 |  |
 | [Cascade](https://open.spotify.com/track/17kS1C8S66paes4e3YNYsb) | [Bear Paige](https://open.spotify.com/artist/58QsixPAQcOShUMHUhDb4o) | [Cascade](https://open.spotify.com/album/2X3dNuKEQxi29u22VtL2gj) | 2:16 | 2021-12-07 | 2022-10-25 |
 | [Chalet](https://open.spotify.com/track/2oXoqsL0WnuxFnX3fpGsSz) | [Michèle Lefurgey](https://open.spotify.com/artist/7ib6lMOvVIMzRc4tPCEtHV) | [Chalet](https://open.spotify.com/album/4uKDACa5QRlBZ5Qoagz42Y) | 2:03 | 2021-12-07 | 2022-07-20 |
@@ -245,7 +246,7 @@
 | [Fallen Leaves](https://open.spotify.com/track/7sLmX8Xykhu6LXWHU3Srpe) | [Vígi Seaghdh](https://open.spotify.com/artist/1fuodmtnFQEX05Pbf3rPBm) | [Fallen Leaves](https://open.spotify.com/album/4zsGlA5IklmOnQNmf7jmPb) | 2:37 | 2023-11-20 |  |
 | [Falling Free](https://open.spotify.com/track/4MQnnlw2lF9HJNqW4HghUj) | [Henriette Wieder](https://open.spotify.com/artist/7GWPvFRZCifzgsgILH13s0) | [Falling Free](https://open.spotify.com/album/1A9ErVeCwy2x7bkSct9y4h) | 2:47 | 2024-05-14 |  |
 | [Falling Trees](https://open.spotify.com/track/6chDSMcaPisS0Dg7IiU1kD) | [Jared Chance Taylor](https://open.spotify.com/artist/29GfkEnuiaWJrX3uM4PPLt) | [Falling Trees](https://open.spotify.com/album/1cEko5IGVvuTgQe5HEB2l3) | 2:42 | 2022-01-04 | 2023-10-07 |
-| [Fare la limonata](https://open.spotify.com/track/2iydu5wmxnchiJVB9dfztj) | [Anastasio Confortola](https://open.spotify.com/artist/5SAOTTBvdu5AMwEDSHSa5X) | [Fare la limonata](https://open.spotify.com/album/4HxWgxFOuhiIVqIC4KSU5W) | 2:48 | 2022-03-01 |  |
+| [Fare la limonata](https://open.spotify.com/track/2iydu5wmxnchiJVB9dfztj) | [Anastasio Confortola](https://open.spotify.com/artist/5SAOTTBvdu5AMwEDSHSa5X) | [Fare la limonata](https://open.spotify.com/album/4HxWgxFOuhiIVqIC4KSU5W) | 2:48 | 2022-03-01 | 2024-07-30 |
 | [Feathers](https://open.spotify.com/track/4T4P5i4RkTHRlGuBqbxSnA) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Feathers](https://open.spotify.com/album/7I0s6MBfw5VWHSReQ6NqWB) | 2:37 | 2021-12-07 | 2022-05-06 |
 | [Feeling for the next](https://open.spotify.com/track/0g9bBv0gQr8qdehaRoV1Rw) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Feeling for the next](https://open.spotify.com/album/46RY7EANNUMjv9zUg4Hr3n) | 2:04 | 2023-06-16 |  |
 | [Felicity](https://open.spotify.com/track/42ozgVjsCxPmH6vSFTXAHW) | [Hugo Reilly](https://open.spotify.com/artist/5uVINFbw5tZH9G7fFQBEZd) | [Felicity](https://open.spotify.com/album/2lTOtqyZKZaX5kiw9JKqC4) | 2:02 | 2021-12-07 | 2022-05-06 |
@@ -480,7 +481,7 @@
 | [Morning Dance](https://open.spotify.com/track/1HNWHlc0OfRnCCeoLAwKzJ) | [Don Sisley](https://open.spotify.com/artist/7uIga0e3GsnHK7VO4IqHq3) | [Morning Dance](https://open.spotify.com/album/3DD7atkh8NCnmAkRff4Qlt) | 2:25 | 2023-11-06 |  |
 | [Morning Frost](https://open.spotify.com/track/62lauFlgnyCxmKnCrdXHBj) | [Tom Merrall](https://open.spotify.com/artist/6yA3IxrqgMBl7qOZDJZ3hG) | [Morning Frost](https://open.spotify.com/album/22tSnBD38TgaLWbMzbfNXM) | 1:52 | 2023-06-16 | 2023-07-26 |
 | [Morning Skyline](https://open.spotify.com/track/0W9zDuwcQaRyxk7Z4peRmM) | [Dale Brenan](https://open.spotify.com/artist/3SZHAoiLC6bI4R1Ih2iD5W) | [Morning Skyline](https://open.spotify.com/album/3a54uonmLjDZ9vH1TnXNvs) | 2:29 | 2021-12-07 | 2022-08-26 |
-| [Morning\-Star](https://open.spotify.com/track/7x29ikGEInCzC5IrN3zMhI) | [Avi Mehta](https://open.spotify.com/artist/6IVlVzl5f2aKF9GORwMkoi) | [Morning\-Star](https://open.spotify.com/album/1Rl1DJxb2b5XCWOVD1xrBo) | 3:00 | 2022-03-01 |  |
+| [Morning\-Star](https://open.spotify.com/track/7x29ikGEInCzC5IrN3zMhI) | [Avi Mehta](https://open.spotify.com/artist/6IVlVzl5f2aKF9GORwMkoi) | [Morning\-Star](https://open.spotify.com/album/1Rl1DJxb2b5XCWOVD1xrBo) | 3:00 | 2022-03-01 | 2024-07-30 |
 | [Motion](https://open.spotify.com/track/1ETktQHotqA5mRLE3ABnin) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Motion](https://open.spotify.com/album/0jyrfxsP4q6BGHSY03TOYw) | 3:17 | 2022-11-11 |  |
 | [Moving on](https://open.spotify.com/track/6G8LanLXd3GVoae2jwx4bE) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Moving on](https://open.spotify.com/album/2YbzBN9aTNdoV4g5nj1iB7) | 2:52 | 2024-05-14 |  |
 | [Murano](https://open.spotify.com/track/5tI8I6kgeIodtuD1V8ILSj) | [Afon Aéron](https://open.spotify.com/artist/4gpaQ0BoaJDQ4tCyUMNS0k) | [Murano](https://open.spotify.com/album/64NZxa9YtUVAVq8rVdTQte) | 2:37 | 2024-04-15 |  |

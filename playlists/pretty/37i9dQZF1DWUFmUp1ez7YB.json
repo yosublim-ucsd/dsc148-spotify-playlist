@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de la salsa de ayer y hoy en un s\u00f3lo lugar. Foto: Joe Arroyo",
-  "num_followers": 756717,
+  "num_followers": 756963,
   "original_name": "Dame Salsa",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
+        "name": "De Ti Depende",
+        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 409080,
+      "name": "Peri\u00f3dico De Ayer",
+      "url": "https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
         "name": "La F\u00f3rmula",
         "url": "https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 267016,
       "name": "La F\u00f3rmula",
       "url": "https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
-        "name": "De Ti Depende",
-        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 409080,
-      "name": "Peri\u00f3dico De Ayer",
-      "url": "https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -947,26 +947,6 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "El Juicio",
-        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 369120,
-      "name": "Aguanile",
-      "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
         "name": "Fruko el Grande",
         "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 294000,
       "name": "El Preso",
       "url": "https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
+        "name": "El Juicio",
+        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 369120,
+      "name": "Aguanile",
+      "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "TROPICALIA",
-        "url": "https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        },
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Con Dinero y Sin Dinero",
-      "url": "https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
         "name": "Desde Un Principio / From The Beginning",
         "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 366200,
       "name": "Vivir Lo Nuestro",
       "url": "https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
+        "name": "TROPICALIA",
+        "url": "https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Con Dinero y Sin Dinero",
+      "url": "https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "Vacilando Rico Con Zaperoko",
-        "url": "https://open.spotify.com/album/3jwWgq2Ajd7BuMMiEUqGm9"
+        "name": "El Maestro",
+        "url": "https://open.spotify.com/album/4rFrbQB32GXz7zs6vPCaTH"
       },
       "artists": [
         {
-          "name": "ZAPEROKO La Resistencia Salsera del Callao",
-          "url": "https://open.spotify.com/artist/2Wict4UYAJ0d0Lj6yasKif"
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
         }
       ],
-      "duration_ms": 849425,
-      "name": "Vacilando Rico Con Zaperoko",
-      "url": "https://open.spotify.com/track/3ZbDXbJIUCVCJz8APyIUYE"
+      "duration_ms": 502920,
+      "name": "El Fais\u00e1n",
+      "url": "https://open.spotify.com/track/3BGiEoReFSNG1gUlYvWiWG"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "El Maestro",
-        "url": "https://open.spotify.com/album/4rFrbQB32GXz7zs6vPCaTH"
+        "name": "Vacilando Rico Con Zaperoko",
+        "url": "https://open.spotify.com/album/3jwWgq2Ajd7BuMMiEUqGm9"
       },
       "artists": [
         {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+          "name": "ZAPEROKO La Resistencia Salsera del Callao",
+          "url": "https://open.spotify.com/artist/2Wict4UYAJ0d0Lj6yasKif"
         }
       ],
-      "duration_ms": 502920,
-      "name": "El Fais\u00e1n",
-      "url": "https://open.spotify.com/track/3BGiEoReFSNG1gUlYvWiWG"
+      "duration_ms": 849425,
+      "name": "Vacilando Rico Con Zaperoko",
+      "url": "https://open.spotify.com/track/3ZbDXbJIUCVCJz8APyIUYE"
     },
     {
       "added_at": "2024-06-21 20:58:37",

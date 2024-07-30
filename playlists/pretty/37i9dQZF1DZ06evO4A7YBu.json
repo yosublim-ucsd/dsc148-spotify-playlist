@@ -1,12 +1,12 @@
 {
   "description": "This is Static-X. The essential tracks, all in one playlist.",
-  "num_followers": 36273,
+  "num_followers": 36288,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAAA/eVpPBulBMYeHZmNn0qIs",
+  "snapshot_id": "ZqWKAAAAAACB3V+oXRHyq4wZgH3sGoYb",
   "tracks": [
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Jic Boi",
-      "url": "https://open.spotify.com/track/3nHUUCHlIX84DXbNwdltrZ"
+      "duration_ms": 243343,
+      "name": "Terrible Lie - Bonus Track",
+      "url": "https://open.spotify.com/track/4K0aSGvZHYAwdinsncDhvT"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 243343,
-      "name": "Terrible Lie - Bonus Track",
-      "url": "https://open.spotify.com/track/4K0aSGvZHYAwdinsncDhvT"
+      "duration_ms": 178000,
+      "name": "Jic Boi",
+      "url": "https://open.spotify.com/track/3nHUUCHlIX84DXbNwdltrZ"
     },
     {
       "added_at": null,

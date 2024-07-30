@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Jos\u00e9 y El Toro en portada.",
-  "num_followers": 535206,
+  "num_followers": 535212,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-07-26 13:35:38",
       "album": {
+        "name": "Contigo En La Distancia",
+        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        }
+      ],
+      "duration_ms": 115200,
+      "name": "Toda una Vida",
+      "url": "https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo"
+    },
+    {
+      "added_at": "2024-07-26 13:35:38",
+      "album": {
         "name": "La Sonora Santanera en Su 60 Aniversario",
         "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 182200,
       "name": "Fruto Robado (with Cristian Castro)",
       "url": "https://open.spotify.com/track/3UtyEX1laEeTjcq6m6H0zd"
-    },
-    {
-      "added_at": "2024-07-26 13:35:38",
-      "album": {
-        "name": "Contigo En La Distancia",
-        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
-      },
-      "artists": [
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        }
-      ],
-      "duration_ms": 115200,
-      "name": "Toda una Vida",
-      "url": "https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo"
     },
     {
       "added_at": "2024-07-26 13:35:38",
@@ -667,22 +667,18 @@
     {
       "added_at": "2024-07-26 13:35:38",
       "album": {
-        "name": "La Sonora Santanera en Su 60 Aniversario",
-        "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
+        "name": "S\u00f3lo T\u00fa",
+        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
       },
       "artists": [
         {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         }
       ],
-      "duration_ms": 183026,
-      "name": "Amor de Cabaret (with R\u00edo Roma)",
-      "url": "https://open.spotify.com/track/5JeyXbf7CrVQ8DqwFikN0P"
+      "duration_ms": 187754,
+      "name": "S\u00f3lo T\u00fa",
+      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
     },
     {
       "added_at": "2024-07-26 13:35:38",
@@ -703,18 +699,22 @@
     {
       "added_at": "2024-07-26 13:35:38",
       "album": {
-        "name": "S\u00f3lo T\u00fa",
-        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
+        "name": "La Sonora Santanera en Su 60 Aniversario",
+        "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
       },
       "artists": [
         {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
         }
       ],
-      "duration_ms": 187754,
-      "name": "S\u00f3lo T\u00fa",
-      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
+      "duration_ms": 183026,
+      "name": "Amor de Cabaret (with R\u00edo Roma)",
+      "url": "https://open.spotify.com/track/5JeyXbf7CrVQ8DqwFikN0P"
     },
     {
       "added_at": "2024-07-26 13:35:38",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-07-26 13:35:38",
       "album": {
+        "name": "Ac\u00fastico En Vivo Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/3UT78KFaMa9cr1hdSSWUUl"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 272213,
+      "name": "Este Terco Coraz\u00f3n - En Vivo Los Estudios Churubusco M\u00e9xico DF/2011",
+      "url": "https://open.spotify.com/track/6kVMMYHWdZFuAOYLRTtcdT"
+    },
+    {
+      "added_at": "2024-07-26 13:35:38",
+      "album": {
         "name": "Mi Alma Gemela Muri\u00f3",
         "url": "https://open.spotify.com/album/46J4AvKqh2ObGqi02wmv9r"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 195728,
       "name": "Mi Alma Gemela Muri\u00f3",
       "url": "https://open.spotify.com/track/0U47POZTC0KCkaQBveFgyk"
-    },
-    {
-      "added_at": "2024-07-26 13:35:38",
-      "album": {
-        "name": "Ac\u00fastico En Vivo Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/3UT78KFaMa9cr1hdSSWUUl"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 272213,
-      "name": "Este Terco Coraz\u00f3n - En Vivo Los Estudios Churubusco M\u00e9xico DF/2011",
-      "url": "https://open.spotify.com/track/6kVMMYHWdZFuAOYLRTtcdT"
     },
     {
       "added_at": "2024-07-26 13:35:38",
@@ -1175,22 +1175,22 @@
     {
       "added_at": "2024-07-26 13:35:38",
       "album": {
-        "name": "Para No Romperme",
-        "url": "https://open.spotify.com/album/4uBW6lEyQZtqMokjqkmNHh"
+        "name": "Mexicana (feat. Lila Downs)",
+        "url": "https://open.spotify.com/album/6GXrUyjqYJr6b8W4IOwHLU"
       },
       "artists": [
         {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
         },
         {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 171413,
-      "name": "Para No Romperme",
-      "url": "https://open.spotify.com/track/7BcgW4kJU9ERyAB0EBx7Xr"
+      "duration_ms": 199296,
+      "name": "Mexicana (feat. Lila Downs)",
+      "url": "https://open.spotify.com/track/3x5e0oHuy9ViEbPYCKKsCz"
     },
     {
       "added_at": "2024-07-26 13:35:38",
@@ -1219,22 +1219,22 @@
     {
       "added_at": "2024-07-26 13:35:38",
       "album": {
-        "name": "Mexicana (feat. Lila Downs)",
-        "url": "https://open.spotify.com/album/6GXrUyjqYJr6b8W4IOwHLU"
+        "name": "Para No Romperme",
+        "url": "https://open.spotify.com/album/4uBW6lEyQZtqMokjqkmNHh"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
         },
         {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
         }
       ],
-      "duration_ms": 199296,
-      "name": "Mexicana (feat. Lila Downs)",
-      "url": "https://open.spotify.com/track/3x5e0oHuy9ViEbPYCKKsCz"
+      "duration_ms": 171413,
+      "name": "Para No Romperme",
+      "url": "https://open.spotify.com/track/7BcgW4kJU9ERyAB0EBx7Xr"
     },
     {
       "added_at": "2024-07-26 13:35:38",
@@ -1479,18 +1479,22 @@
     {
       "added_at": "2024-07-26 13:35:38",
       "album": {
-        "name": "Improbable",
-        "url": "https://open.spotify.com/album/22GqTBokcsZFpo3iIRzHZq"
+        "name": "Noche Sensacional",
+        "url": "https://open.spotify.com/album/7zWTzor9FhwJC513rjjMda"
       },
       "artists": [
         {
-          "name": "Leiden",
-          "url": "https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI"
+          "name": "Chabuco",
+          "url": "https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl"
+        },
+        {
+          "name": "Dayhan D\u00edaz",
+          "url": "https://open.spotify.com/artist/3L2JdDvaqkXdtw0DTnxLSa"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Improbable",
-      "url": "https://open.spotify.com/track/63q0cRDrf9ggONS650fOah"
+      "duration_ms": 197000,
+      "name": "Noche Sensacional",
+      "url": "https://open.spotify.com/track/6L2rOHvZAwPCp2FqYmyvZ5"
     },
     {
       "added_at": "2024-07-26 13:35:38",
@@ -1511,22 +1515,18 @@
     {
       "added_at": "2024-07-26 13:35:38",
       "album": {
-        "name": "Noche Sensacional",
-        "url": "https://open.spotify.com/album/7zWTzor9FhwJC513rjjMda"
+        "name": "Improbable",
+        "url": "https://open.spotify.com/album/22GqTBokcsZFpo3iIRzHZq"
       },
       "artists": [
         {
-          "name": "Chabuco",
-          "url": "https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl"
-        },
-        {
-          "name": "Dayhan D\u00edaz",
-          "url": "https://open.spotify.com/artist/3L2JdDvaqkXdtw0DTnxLSa"
+          "name": "Leiden",
+          "url": "https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Noche Sensacional",
-      "url": "https://open.spotify.com/track/6L2rOHvZAwPCp2FqYmyvZ5"
+      "duration_ms": 154000,
+      "name": "Improbable",
+      "url": "https://open.spotify.com/track/63q0cRDrf9ggONS650fOah"
     },
     {
       "added_at": "2024-07-26 13:35:38",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2024-07-26 13:35:38",
       "album": {
+        "name": "Palabras",
+        "url": "https://open.spotify.com/album/1GwVQQYncZKZDTdE7yN0Ef"
+      },
+      "artists": [
+        {
+          "name": "Hayd\u00e9e Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Palabras",
+      "url": "https://open.spotify.com/track/6F93ygd6pZO7gD3PJWozCy"
+    },
+    {
+      "added_at": "2024-07-26 13:35:38",
+      "album": {
         "name": "Te Tocaba A Ti Llorar",
         "url": "https://open.spotify.com/album/1QdQqLnwuQsKnfZ5blD3Al"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 193426,
       "name": "Te Tocaba A Ti Llorar",
       "url": "https://open.spotify.com/track/69wyLBhOeKlS4VcilXZhzN"
-    },
-    {
-      "added_at": "2024-07-26 13:35:38",
-      "album": {
-        "name": "Palabras",
-        "url": "https://open.spotify.com/album/1GwVQQYncZKZDTdE7yN0Ef"
-      },
-      "artists": [
-        {
-          "name": "Hayd\u00e9e Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Palabras",
-      "url": "https://open.spotify.com/track/6F93ygd6pZO7gD3PJWozCy"
     },
     {
       "added_at": "2024-07-26 13:35:38",

@@ -1,6 +1,6 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 1910,
+  "num_followers": 1952,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Una Semana",
-        "url": "https://open.spotify.com/album/6btnX8ER1IHMIUqmmQfFVY"
-      },
-      "artists": [
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        }
-      ],
-      "duration_ms": 183703,
-      "name": "Una Semana",
-      "url": "https://open.spotify.com/track/7oERzx2IvTweeSXU7S8wdO"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "CARAMELOS",
         "url": "https://open.spotify.com/album/3xfXp5kKVbWTMvO7bmOGWQ"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 165818,
       "name": "CARAMELOS",
       "url": "https://open.spotify.com/track/4gC0DGimATZgd8lZW4n0aR"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Una Semana",
+        "url": "https://open.spotify.com/album/6btnX8ER1IHMIUqmmQfFVY"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "duration_ms": 183703,
+      "name": "Una Semana",
+      "url": "https://open.spotify.com/track/7oERzx2IvTweeSXU7S8wdO"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "DAME LOVE",
-        "url": "https://open.spotify.com/album/0hOVNf2dTQBla88xQe9N2D"
-      },
-      "artists": [
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        }
-      ],
-      "duration_ms": 190557,
-      "name": "DAME LOVE",
-      "url": "https://open.spotify.com/track/5gUCERVwTOn0Oe3CnHVhdZ"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "Lo 100to",
         "url": "https://open.spotify.com/album/7L8uuFGSNjnHX5uwxWXHTM"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 190000,
       "name": "Lo 100to",
       "url": "https://open.spotify.com/track/5K7DierHuSWyzmCzPNapd8"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "DAME LOVE",
+        "url": "https://open.spotify.com/album/0hOVNf2dTQBla88xQe9N2D"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "duration_ms": 190557,
+      "name": "DAME LOVE",
+      "url": "https://open.spotify.com/track/5gUCERVwTOn0Oe3CnHVhdZ"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1663,6 +1663,34 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "Te Olvidaste",
+        "url": "https://open.spotify.com/album/7o3ow8EjVCdksUVEWAy8GB"
+      },
+      "artists": [
+        {
+          "name": "Lautaro Lopez",
+          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
+        },
+        {
+          "name": "G Sony",
+          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
+        },
+        {
+          "name": "Federico Iv\u00e1n",
+          "url": "https://open.spotify.com/artist/5kh1pBADKzJQ5f3J5M2MKh"
+        },
+        {
+          "name": "FIM Records",
+          "url": "https://open.spotify.com/artist/6kglzxqEyySD25zaxbPBK8"
+        }
+      ],
+      "duration_ms": 196858,
+      "name": "Te Olvidaste",
+      "url": "https://open.spotify.com/track/0gcddDMFQDGDaSpBwac7Wz"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "Tus Dudas",
         "url": "https://open.spotify.com/album/5oV1gkM0ob9Gy1jP0enzVO"
       },
@@ -1719,34 +1747,6 @@
       "duration_ms": 180000,
       "name": "Adicto",
       "url": "https://open.spotify.com/track/44bbiqusWRVrq2SUasYvQe"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "Te Olvidaste",
-        "url": "https://open.spotify.com/album/7o3ow8EjVCdksUVEWAy8GB"
-      },
-      "artists": [
-        {
-          "name": "Lautaro Lopez",
-          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
-        },
-        {
-          "name": "G Sony",
-          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
-        },
-        {
-          "name": "Federico Iv\u00e1n",
-          "url": "https://open.spotify.com/artist/5kh1pBADKzJQ5f3J5M2MKh"
-        },
-        {
-          "name": "FIM Records",
-          "url": "https://open.spotify.com/artist/6kglzxqEyySD25zaxbPBK8"
-        }
-      ],
-      "duration_ms": 196858,
-      "name": "Te Olvidaste",
-      "url": "https://open.spotify.com/track/0gcddDMFQDGDaSpBwac7Wz"
     },
     {
       "added_at": "2024-07-26 04:59:00",

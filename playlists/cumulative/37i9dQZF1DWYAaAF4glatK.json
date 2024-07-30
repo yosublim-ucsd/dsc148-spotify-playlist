@@ -792,7 +792,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 147960,
       "name": "Body",
       "url": "https://open.spotify.com/track/5XczRlAEBuLVLGEeeNfItf"
@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 159106,
       "name": "Chez toi, chez moi",
       "url": "https://open.spotify.com/track/0gOjmVqeKWFByLqpPTTrJF"
@@ -1913,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "feelslikeimfallinginlove",
+        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237803,
+      "name": "feelslikeimfallinginlove",
+      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
+    },
+    {
+      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
       },
@@ -2544,10 +2562,36 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 237866,
       "name": "I love you",
       "url": "https://open.spotify.com/track/6jDe94y1dbLDU53Q1NPxLH"
+    },
+    {
+      "album": {
+        "name": "I LUV U (Sunny)",
+        "url": "https://open.spotify.com/album/6JkTXvpBZqnJewWj7fcvPT"
+      },
+      "artists": [
+        {
+          "name": "Alex Gaudino",
+          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
+        },
+        {
+          "name": "BLENDER",
+          "url": "https://open.spotify.com/artist/6IwTZTN2WX3s6jmbSHoBNS"
+        },
+        {
+          "name": "Ragdoll",
+          "url": "https://open.spotify.com/artist/1b5ySdJlXoI66RZLyxKxLl"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164280,
+      "name": "I LUV U (Sunny)",
+      "url": "https://open.spotify.com/track/4t2fT4JBAyjwi7ZLMwl9l9"
     },
     {
       "album": {
@@ -3380,7 +3424,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 168355,
       "name": "Miles On It",
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
@@ -3510,7 +3554,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 148135,
       "name": "Multiply",
       "url": "https://open.spotify.com/track/0d8qNWRwQafcOXAyw6FxiB"
@@ -3536,6 +3580,28 @@
       "duration_ms": 208135,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
+    },
+    {
+      "album": {
+        "name": "LVDR",
+        "url": "https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181973,
+      "name": "M\u00e9lanine",
+      "url": "https://open.spotify.com/track/0t7d6wbJLS2A31yqlHFew7"
     },
     {
       "album": {
@@ -4170,7 +4236,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 181666,
       "name": "Punter\u00eda",
       "url": "https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc"
@@ -4535,6 +4601,32 @@
     },
     {
       "album": {
+        "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
+        "url": "https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "The Jammin Kid",
+          "url": "https://open.spotify.com/artist/5lYLjuNcfxE03jj9QWxA7X"
+        },
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179016,
+      "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
+      "url": "https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u"
+    },
+    {
+      "album": {
         "name": "Shakira: Bzrp Music Sessions, Vol. 53",
         "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
       },
@@ -4664,6 +4756,24 @@
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
+    },
+    {
+      "album": {
+        "name": "SOIS PAS TIMIDE",
+        "url": "https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165978,
+      "name": "SOIS PAS TIMIDE",
+      "url": "https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo"
     },
     {
       "album": {
@@ -5296,7 +5406,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 181340,
       "name": "Tonight (D.I.Y.A)",
       "url": "https://open.spotify.com/track/1FYAysfZgA82W5QA8SwdwI"
@@ -5723,6 +5833,36 @@
     },
     {
       "album": {
+        "name": "Where Do I Go (DJ Antoine & Mad Mark 2k24 Mix)",
+        "url": "https://open.spotify.com/album/3bSgdpBX0uV9OkEKysp8Ha"
+      },
+      "artists": [
+        {
+          "name": "DJ Antoine",
+          "url": "https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        },
+        {
+          "name": "Mad Mark",
+          "url": "https://open.spotify.com/artist/3yBEHAINorE3uSvsCmyCwQ"
+        },
+        {
+          "name": "INFINITY",
+          "url": "https://open.spotify.com/artist/5FRJL1Agthaj5R9gwbOPvw"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145353,
+      "name": "Where Do I Go - DJ Antoine & Mad Mark 2k24 Mix",
+      "url": "https://open.spotify.com/track/0qDiKOEdW1Yc6tmYTIhzBv"
+    },
+    {
+      "album": {
         "name": "WHERE SHE GOES",
         "url": "https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB"
       },
@@ -5862,6 +6002,40 @@
       "duration_ms": 203360,
       "name": "X SI VOLVEMOS",
       "url": "https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk"
+    },
+    {
+      "album": {
+        "name": "Yamore",
+        "url": "https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C"
+      },
+      "artists": [
+        {
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "name": "Benja (NL)",
+          "url": "https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI"
+        },
+        {
+          "name": "Franc Fala",
+          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
+        },
+        {
+          "name": "Ces\u00e1ria Evora",
+          "url": "https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Yamore",
+      "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
     },
     {
       "album": {

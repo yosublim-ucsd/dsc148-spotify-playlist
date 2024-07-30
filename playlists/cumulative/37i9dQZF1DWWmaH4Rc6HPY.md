@@ -2,9 +2,9 @@
 
 ### [Pop Rock Latino](https://open.spotify.com/playlist/37i9dQZF1DWWmaH4Rc6HPY)
 
-> ¡Rock para cantar en todos lados! Hombres G y Reik en portada.
+> ¡Rock para cantar en todos lados! Elsa y Elmar en portada.
 
-151 songs - 8 hr 19 min
+155 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Adentro Brilla El Sol](https://open.spotify.com/track/2Y985lqSz23xEgUhdRZK28) | [Tunacola](https://open.spotify.com/artist/0E0FX8RYDfwseJAhwO9AK2) | [Todo es Ceremonia en el Jardin Salvaje](https://open.spotify.com/album/1cwkQ7TFUp35Gju5Y7DL2L) | 3:04 | 2023-10-06 | 2024-05-07 |
 | [Adictos](https://open.spotify.com/track/3qQ6e7Tr6vIkBij4gCbiMY) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Adictos](https://open.spotify.com/album/2ASS2Lr0zsC6UidDeAqqpN) | 3:57 | 2023-10-06 | 2024-06-22 |
 | [Afortunado](https://open.spotify.com/track/4h2vY6LwbH7iRwsUKcYwK2) | [Erik Canales](https://open.spotify.com/artist/3QC4AtX2khtjq72uLVULZQ) | [Afortunado](https://open.spotify.com/album/2Pv16vm77OrrF4VcY889hQ) | 3:32 | 2023-10-06 | 2024-05-07 |
-| [Al Borde del Infinito](https://open.spotify.com/track/3dQtpFYJ8FlwxWFov1jXYq) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Al Borde del Infinito](https://open.spotify.com/album/5MO5FGNuMfF0gWPmjk0dOC) | 4:09 | 2024-07-12 |  |
+| [Al Borde del Infinito](https://open.spotify.com/track/3dQtpFYJ8FlwxWFov1jXYq) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Al Borde del Infinito](https://open.spotify.com/album/5MO5FGNuMfF0gWPmjk0dOC) | 4:09 | 2024-07-12 | 2024-07-30 |
 | [Al menos ahora](https://open.spotify.com/track/6kNQlhadPJ8kl0VKLpc98D) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Al menos ahora](https://open.spotify.com/album/2Sa9nqApJXS2hx9Ff0jf6R) | 3:03 | 2024-04-05 | 2024-05-07 |
 | [Al Menos Ahora](https://open.spotify.com/track/6rqizuyQlbBhoyiosfomqR) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [AAAAAA](https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi) | 3:03 | 2023-10-06 | 2024-04-19 |
 | [Algo De Verdad](https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Algo De Verdad](https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV) | 2:27 | 2023-10-06 | 2024-05-18 |
@@ -23,6 +23,7 @@
 | [Ansiedad](https://open.spotify.com/track/6HMvXSoGDvH7bdodbanNRI) | [Valen Madanes](https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW) | [Ansiedad](https://open.spotify.com/album/3CcGC27xjlj7Tav8aPffog) | 2:41 | 2023-10-06 | 2024-05-07 |
 | [As I Lay Chillin](https://open.spotify.com/track/4ot97CRpxPgUMvmUf2v6Bd) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [As I Lay Chillin](https://open.spotify.com/album/454tTDruADdrGZ5rYHZqfr) | 3:40 | 2023-10-06 | 2024-05-07 |
 | [Atardeció sin vos](https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Cómo decir adiós?](https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T) | 2:36 | 2023-10-06 |  |
+| [B2B](https://open.spotify.com/track/2O3BEHByns7nuvEL9xvlp6) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [B2B](https://open.spotify.com/album/3mikcTyYjM5eKBjdrOaPfT) | 3:02 | 2024-07-29 |  |
 | [Bacardí](https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu) | [Pet Friendly](https://open.spotify.com/artist/10cs4jDg6ozMG8A80e5aoW) | [Bacardí](https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G) | 2:31 | 2023-10-06 | 2024-05-07 |
 | [Bilingües](https://open.spotify.com/track/6euS235KVmpywN68iAVM9j) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Bilingües](https://open.spotify.com/album/2oP9WaSwMpMHagFAtwQkJq) | 2:54 | 2024-05-06 |  |
 | [Brillante Sobre el Mic \- EADDA9223](https://open.spotify.com/track/3gnbXX0Fv5iiUvxZVX2O2x) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Brillante Sobre el Mic \- EADDA9223](https://open.spotify.com/album/1qZYz4prjJ6jqO99G9G7Vh) | 4:06 | 2023-10-06 |  |
@@ -51,8 +52,8 @@
 | [Dinamita](https://open.spotify.com/track/2b7pavYKy50tsrlhSUXqBn) | [Bala](https://open.spotify.com/artist/1KSyJ6T61RxbnR3ksp5Ehp) | [Dinamita](https://open.spotify.com/album/1SAoYE0RLlIDHeF2n8CjTE) | 2:13 | 2023-10-06 | 2024-05-07 |
 | [Dynamite \- BTS Cover](https://open.spotify.com/track/2JoAFuXvqXXgx3uz2EocAf) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Dynamite \(BTS Cover\)](https://open.spotify.com/album/1JODpfzlBb9GIi9537dZ1e) | 3:04 | 2023-10-06 | 2024-04-24 |
 | [ECLIPSE](https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [ECLIPSE](https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu) | 2:33 | 2023-10-06 |  |
-| [El Amor Es un Juego de Perdedores](https://open.spotify.com/track/1iPK5UXUetYDBRoDgwjvHA) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [El Amor Es un Juego de Perdedores](https://open.spotify.com/album/1Xxs2T7CHUycFvPg7rj2La) | 3:28 | 2024-05-17 |  |
-| [El Nuevo Amor](https://open.spotify.com/track/4ewO4CRFVkcD0IcTvGCSGc) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Desandando Mis Pasos](https://open.spotify.com/album/2Murx2ffqeCVKyJhnVHjpC) | 2:27 | 2024-01-19 |  |
+| [El Amor Es un Juego de Perdedores](https://open.spotify.com/track/1iPK5UXUetYDBRoDgwjvHA) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [El Amor Es un Juego de Perdedores](https://open.spotify.com/album/1Xxs2T7CHUycFvPg7rj2La) | 3:28 | 2024-05-17 | 2024-07-30 |
+| [El Nuevo Amor](https://open.spotify.com/track/4ewO4CRFVkcD0IcTvGCSGc) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Desandando Mis Pasos](https://open.spotify.com/album/2Murx2ffqeCVKyJhnVHjpC) | 2:27 | 2024-01-19 | 2024-07-30 |
 | [El paraíso \#2](https://open.spotify.com/track/0Sk0gQDXrdlrCFk8xFYOrx) | [Mikel Izal](https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8), [María de Juan](https://open.spotify.com/artist/3JOaesg3hFdm9PjUAlAevb), [Liam Garner](https://open.spotify.com/artist/01Ct72ERdVHRVlFDdl3cAF) | [El paraíso \#2](https://open.spotify.com/album/64GURwXiHXbcjdCIxk6Bpu) | 2:54 | 2024-07-08 |  |
 | [El Pasadiscos](https://open.spotify.com/track/31s0p9OAXYb2K7rXjcKJqZ) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [El Pasadiscos](https://open.spotify.com/album/0XJWpTC7paTTz3V6KQbQTW) | 4:30 | 2024-05-14 |  |
 | [EL PEOR](https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [EL PEOR](https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv) | 1:54 | 2023-10-06 |  |
@@ -62,10 +63,12 @@
 | [Estás Dormida](https://open.spotify.com/track/5n66NHjgWybVQBwNDq710a) | [Rock And Lovers](https://open.spotify.com/artist/18f0fAWI5vioFhhwzz3UEF) | [Estás Dormida](https://open.spotify.com/album/0z9NFb3G6T8O35iubt1hAo) | 3:34 | 2023-10-06 | 2024-05-07 |
 | [Faltas Tú](https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Faltas Tú](https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia) | 3:21 | 2024-04-05 |  |
 | [FBI](https://open.spotify.com/track/5gxQpTNE0oQb7Orf2QbnFX) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [FBI](https://open.spotify.com/album/7nISyqRwUIfAYATsvHgdgS) | 2:24 | 2023-10-06 | 2024-05-18 |
+| [Frágil \- Acústico](https://open.spotify.com/track/790I7HQcQPuAYV3KQighlo) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Frágil \(Acústico\)](https://open.spotify.com/album/5pSWTmKOjHKFAI4DI4OydD) | 2:56 | 2024-07-29 |  |
 | [Habla Mal](https://open.spotify.com/track/0uoiez05RIe7pbR7AWcK0z) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Habla Mal](https://open.spotify.com/album/2gwP19vcS4TQiHCidOuGZC) | 2:54 | 2023-10-06 | 2024-06-29 |
 | [Hablar de Flores](https://open.spotify.com/track/5Kl2aRgbzHQGpzMgCmpWAS) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Hablar de Flores](https://open.spotify.com/album/1QaPbNvQv3yEVQ3S1V70P7) | 3:09 | 2024-05-14 |  |
 | [Jodido Sin Ti](https://open.spotify.com/track/3gYE83kjjPZpsxgJ1HnOo3) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Jodido Sin Ti](https://open.spotify.com/album/37MEKBQVt7evqaeNjgRC5U) | 2:45 | 2024-05-14 |  |
-| [La Herida](https://open.spotify.com/track/1TmGgQDLKQHm2GzGDjsnFd) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [La Herida](https://open.spotify.com/album/0rer1BBpahM8okGG9wZEBG) | 3:45 | 2023-10-06 |  |
+| [Ké MaL](https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ké MaL](https://open.spotify.com/album/2GHyrL2mwHWmw1vmQfCrNv) | 3:08 | 2024-07-29 |  |
+| [La Herida](https://open.spotify.com/track/1TmGgQDLKQHm2GzGDjsnFd) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [La Herida](https://open.spotify.com/album/0rer1BBpahM8okGG9wZEBG) | 3:45 | 2023-10-06 | 2024-07-30 |
 | [La Puerta](https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Puerta](https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH) | 3:03 | 2023-10-06 |  |
 | [La Radio](https://open.spotify.com/track/6I3rExLgeUHOywZib48I9G) | [The Fam](https://open.spotify.com/artist/4vfh2t9u9b9Ekc43M8PcYH) | [La Radio](https://open.spotify.com/album/3gDnUMtlxFjzmCKRSHi5we) | 2:58 | 2024-04-05 | 2024-05-07 |
 | [La Radio](https://open.spotify.com/track/7u5dWxjBLUGLZqYLwtvGPE) | [The Fam](https://open.spotify.com/artist/4vfh2t9u9b9Ekc43M8PcYH) | [Amor en Tiempos Modernos](https://open.spotify.com/album/0PgNKUnpukIOSFMszWueL7) | 2:58 | 2023-10-06 | 2024-04-19 |
@@ -143,6 +146,7 @@
 | [Stuck in California](https://open.spotify.com/track/2p4rM1zKE2lK5tFVBd7Bik) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [Aldo Carpes](https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ) | [Stuck in California](https://open.spotify.com/album/5mYJbspcX61gtTI7wrAROt) | 2:06 | 2023-10-06 | 2024-05-07 |
 | [Sólo Lo Bueno Quedará](https://open.spotify.com/track/11cMrX3bUlKx3nu68hoXb4) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Sólo Lo Bueno Quedará](https://open.spotify.com/album/49u9AqmZFz9U7RuoQRp5UV) | 2:32 | 2023-10-06 | 2024-05-07 |
 | [Sólo Quédate En Silencio](https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sólo Quédate En Silencio](https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB) | 3:55 | 2023-10-06 |  |
+| [Tatuada Tu Huella](https://open.spotify.com/track/3kecVPMKY0zcw4RrfL6Wx1) | [David Otero](https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h) | [Tatuada Tu Huella](https://open.spotify.com/album/6qGXLHOEFxneHVoU0VNNR0) | 4:06 | 2024-07-29 |  |
 | [Te Amé Temprano](https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [IRENE ALEJANDRA](https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb) | 3:37 | 2024-05-31 |  |
 | [Te Arde](https://open.spotify.com/track/4pTBwkH4jQUUAtBKL2Npv7) | [Mar Rendón](https://open.spotify.com/artist/7Fk848MU19rSzUvRNwtpV8) | [Te Arde](https://open.spotify.com/album/28TfhtyFWwtxdNOYXi0EzL) | 2:42 | 2023-10-06 | 2024-06-29 |
 | [Te Desenamoraste](https://open.spotify.com/track/5A20iH28ulrJ8U3WfCmsJM) | [Drake Bell](https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne) | [Te Desenamoraste](https://open.spotify.com/album/7LKSwnfdobqRHjOtUHMn1D) | 2:42 | 2024-06-21 |  |

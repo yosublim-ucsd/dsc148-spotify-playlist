@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-226 songs - 19 hr 53 min
+228 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Action](https://open.spotify.com/track/7xCFUkcVQiHiFFi6yfOJxm) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Action](https://open.spotify.com/album/7k3IUuffIMangIYqbINKrb) | 6:09 | 2023-03-29 | 2023-07-28 |
 | [Addiction \- Original Mix](https://open.spotify.com/track/5WVYs7RVxu9RyFfOMBFsxI) | [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q), [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Addiction](https://open.spotify.com/album/3eVU8slwm0M3yv43Xvjk4F) | 6:30 | 2022-07-05 | 2024-06-15 |
 | [Adrenaline](https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [Adrenaline](https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh) | 6:53 | 2022-07-05 | 2023-03-29 |
-| [Affection \- Radio Edit](https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Affection](https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP) | 4:31 | 2022-07-05 |  |
+| [Affection \- Radio Edit](https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Affection](https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP) | 4:31 | 2022-07-05 | 2024-07-30 |
 | [All Eyes On Me](https://open.spotify.com/track/4NURWqdoXhUpm85DkD0al8) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ) | [All Eyes On Me](https://open.spotify.com/album/5H8RWIGN18k3PrPumFy28f) | 3:38 | 2023-03-29 | 2023-04-09 |
 | [All the Things She Said](https://open.spotify.com/track/6FxRH7N7Q86i6aixaSYYzx) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [All the Things She Said](https://open.spotify.com/album/6GxNLOlFGgl6J3cvLGN81l) | 2:45 | 2024-06-21 |  |
 | [Alle meine Raver](https://open.spotify.com/track/3UShLxr87usr5yQ6G3GVKK) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8), [Ben Dust](https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo) | [Alle meine Raver](https://open.spotify.com/album/3u1t460lF2E1dS547CkEg4) | 5:14 | 2023-03-29 | 2024-04-20 |
@@ -116,6 +116,7 @@
 | [Lonely Traveller](https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Lonely Traveller](https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit) | 6:06 | 2022-10-01 | 2023-10-21 |
 | [Losing Gravity](https://open.spotify.com/track/2lCJlVxUXg7hE187mVPLZm) | [Carbon](https://open.spotify.com/artist/5BSvQ8klrDFPpCJ3TujFoK) | [Losing Gravity](https://open.spotify.com/album/3WJC7hFCWhLXkDw0lrf85s) | 6:03 | 2023-09-08 | 2023-10-04 |
 | [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 | 2023-08-09 |  |
+| [Luna](https://open.spotify.com/track/4KEsZFbFgEdaBfBjCijKnX) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ), [Sam WOLFE](https://open.spotify.com/artist/1Hu2YwTv9wmxC8sppVVUA4) | [Luna](https://open.spotify.com/album/4n2DzX9Ow9SA7L2dKVy4Mc) | 3:52 | 2024-07-29 |  |
 | [Machine Pulse](https://open.spotify.com/track/0BKfE3aTw6dy7im1IZldMG) | [Chris Veron](https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S) | [Machine Pulse](https://open.spotify.com/album/34I15SYM2dCpWDBvFddUor) | 3:41 | 2023-11-10 |  |
 | [Mars Powder \- Radio Edit](https://open.spotify.com/track/3PJkEdIheSss9bhIdqnQju) | [Chris Veron](https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S) | [Mars Powder](https://open.spotify.com/album/7cuM14P80mW17Tzi4bYxGm) | 4:03 | 2022-07-05 | 2022-07-09 |
 | [Maschine](https://open.spotify.com/track/5mX46VGRf2zGXrSQ2utxbA) | [Kaufmann \(DE\)](https://open.spotify.com/artist/4vyVLlQZTWLkuvSXaNMv4v) | [Maschine](https://open.spotify.com/album/21s6LGNDIZ6TMdEIDZbgO8) | 6:47 | 2022-07-11 | 2022-07-29 |
@@ -164,6 +165,7 @@
 | [Rebirth](https://open.spotify.com/track/4N8P1RCABm0BBiTKCRThTh) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Rebirth](https://open.spotify.com/album/3hxZY3I3EEj1IriFow919T) | 6:40 | 2023-10-13 | 2024-03-21 |
 | [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 | 2023-04-13 |  |
 | [Reflection](https://open.spotify.com/track/67dg2dYPGza76ZEnp7k00d) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Reflection EP](https://open.spotify.com/album/4Qqe2c9VgbdnbFO2F7AyGe) | 6:46 | 2023-03-29 | 2023-05-07 |
+| [Remedy](https://open.spotify.com/track/1j611ghQfHnBMnqSZCoxc8) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Remedy](https://open.spotify.com/album/0q5uRkPKHeKcNoco1IuZ8R) | 2:43 | 2024-07-29 |  |
 | [Ritual](https://open.spotify.com/track/5tPC9sy0oSG2snV5L3PYB1) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4) | [Umbilicis Universalis](https://open.spotify.com/album/67vRbAKHrUlH3ejiXFDKQy) | 7:00 | 2022-07-05 | 2022-07-24 |
 | [Roar](https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Roar](https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp) | 5:55 | 2024-04-12 |  |
 | [Robot](https://open.spotify.com/track/1ozpkbaIyJ4lL2pUHbzTRW) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Robot](https://open.spotify.com/album/1qqb2o1QPUWO4mK2y5WV8A) | 3:25 | 2024-03-20 |  |
@@ -232,7 +234,7 @@
 | [You Can't Stop Us](https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [You Can't Stop Us](https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM) | 2:22 | 2022-08-15 |  |
 | [You Look at Me](https://open.spotify.com/track/05L5ExA33eJEEiuTwXB1up) | [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N) | [You Look at Me](https://open.spotify.com/album/5o5sPwEAVLG92IQVlTRTr0) | 6:07 | 2022-07-05 | 2023-03-29 |
 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 | 2022-07-05 |  |
-| [Your Mind](https://open.spotify.com/track/5NZdurYcFYOg3s2YyzeVgE) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Your Mind](https://open.spotify.com/album/1r6UqJJNidWeu594zRPySp) | 8:22 | 2024-03-20 |  |
+| [Your Mind](https://open.spotify.com/track/5NZdurYcFYOg3s2YyzeVgE) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Your Mind](https://open.spotify.com/album/1r6UqJJNidWeu594zRPySp) | 8:22 | 2024-03-20 | 2024-07-30 |
 | [Zulu](https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Zulu](https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF) | 4:58 | 2022-07-05 |  |
 
 \*This playlist was first scraped on 2022-07-07. Prior content cannot be recovered.

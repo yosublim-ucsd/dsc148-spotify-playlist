@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 312102,
+  "num_followers": 312193,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-07-12 23:58:49",
       "album": {
+        "name": "1 em 100",
+        "url": "https://open.spotify.com/album/0KoCTcxxhSOwdrqD6j5hnq"
+      },
+      "artists": [
+        {
+          "name": "Cammie",
+          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
+        }
+      ],
+      "duration_ms": 189071,
+      "name": "1 em 100",
+      "url": "https://open.spotify.com/track/78rRWqZIwDD7f9yjsEHpD1"
+    },
+    {
+      "added_at": "2024-07-12 23:58:49",
+      "album": {
         "name": "Paga pra Ver",
         "url": "https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 137333,
       "name": "Apela\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0IN3WGJIqcwnypFHtGpoZJ"
-    },
-    {
-      "added_at": "2024-07-12 23:58:49",
-      "album": {
-        "name": "1 em 100",
-        "url": "https://open.spotify.com/album/0KoCTcxxhSOwdrqD6j5hnq"
-      },
-      "artists": [
-        {
-          "name": "Cammie",
-          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
-        }
-      ],
-      "duration_ms": 189071,
-      "name": "1 em 100",
-      "url": "https://open.spotify.com/track/78rRWqZIwDD7f9yjsEHpD1"
     },
     {
       "added_at": "2024-07-12 23:58:49",

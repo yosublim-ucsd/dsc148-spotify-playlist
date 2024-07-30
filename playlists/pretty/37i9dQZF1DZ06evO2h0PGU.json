@@ -1,12 +1,12 @@
 {
-  "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
-  "num_followers": 45394,
+  "description": "This is Yeah Yeah Yeahs. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 45407,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAADJ4y+MvjNGNy9egysBMv6B",
+  "snapshot_id": "ZqWKAAAAAACs1SENrb65aMuhqKsQ6q89",
   "tracks": [
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 306733,
-      "name": "Lovebomb",
-      "url": "https://open.spotify.com/track/2YFSU2cMrGevlkNG5J7rOd"
+      "duration_ms": 267626,
+      "name": "Different Today",
+      "url": "https://open.spotify.com/track/1NI4ZiPR8hcROfDz1Dz3WH"
     },
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 267626,
-      "name": "Different Today",
-      "url": "https://open.spotify.com/track/1NI4ZiPR8hcROfDz1Dz3WH"
+      "duration_ms": 306733,
+      "name": "Lovebomb",
+      "url": "https://open.spotify.com/track/2YFSU2cMrGevlkNG5J7rOd"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fever To Tell",
-        "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 135906,
-      "name": "Cold Light",
-      "url": "https://open.spotify.com/track/7at9CaHEFTsV3J5KXSYzSc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Show Your Bones",
         "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 145666,
       "name": "Honeybear",
       "url": "https://open.spotify.com/track/4UZtZ5EV1f1GbvWgee28J7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fever To Tell",
+        "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 135906,
+      "name": "Cold Light",
+      "url": "https://open.spotify.com/track/7at9CaHEFTsV3J5KXSYzSc"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fever To Tell",
-        "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 184126,
-      "name": "Poor Song",
-      "url": "https://open.spotify.com/track/1RxQPRnSbq13hMic24x6uQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Me Know + Gold Lion (Diplo Remix) + Gold Lion (Nick Remix)",
         "url": "https://open.spotify.com/album/7mkTnMGmhZfNnEFwLLCv1k"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 210066,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/4pIfmU3tWHcXHTHr9RaAzi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fever To Tell",
+        "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 184126,
+      "name": "Poor Song",
+      "url": "https://open.spotify.com/track/1RxQPRnSbq13hMic24x6uQ"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yeah Yeah Yeahs",
-        "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 120773,
-      "name": "Art Star",
-      "url": "https://open.spotify.com/track/4qGVGT2JQbwUk9XzUKhnNY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Blitz! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 242080,
       "name": "Dragon Queen",
       "url": "https://open.spotify.com/track/1ek6eqeBi1u72pUpDi37oF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yeah Yeah Yeahs",
+        "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 120773,
+      "name": "Art Star",
+      "url": "https://open.spotify.com/track/4qGVGT2JQbwUk9XzUKhnNY"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yeah Yeah Yeahs",
-        "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/5Ogny8gvGtJxEqpO8qByVV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spotify Singles (Recorded At Spotify Studios NYC)",
         "url": "https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 197759,
       "name": "Thirteen - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2VsdSmOcXPGJVRfp9EP7nL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yeah Yeah Yeahs",
+        "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/5Ogny8gvGtJxEqpO8qByVV"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yeah Yeah Yeahs",
-        "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 203746,
-      "name": "Our Time",
-      "url": "https://open.spotify.com/track/6ElTU01KPyBpBkhQnDpQux"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Blitz!",
         "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 212880,
       "name": "Faces",
       "url": "https://open.spotify.com/track/6Yw3IyoSf5S05g1nTB6woC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yeah Yeah Yeahs",
+        "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 203746,
+      "name": "Our Time",
+      "url": "https://open.spotify.com/track/6ElTU01KPyBpBkhQnDpQux"
     },
     {
       "added_at": null,

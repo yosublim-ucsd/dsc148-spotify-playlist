@@ -2,7 +2,7 @@
 
 ### [This Is Biosphere](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ov2lQ)
 
-> This Is Biosphere\. Los temas esenciales, todos en una lista.
+> This is Biosphere\. The essential tracks, all in one playlist.
 
 166 songs - 13 hr 48 min
 
@@ -169,9 +169,9 @@
 | [Visit](https://open.spotify.com/track/5YiAoW2Pq8l3SwTo364Nd2) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Insomnia](https://open.spotify.com/album/1VL4JpgnHsA8Q9Vqp5wNlF) | 1:28 | 2023-08-25 | 2023-09-13 |
 | [Warmed By the Drift](https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 6:50 | 2022-05-29 |  |
 | [Warp/Warpable](https://open.spotify.com/track/6qImwuFi8EzQFm4I7FLcH5) | [Arne Nordheim](https://open.spotify.com/artist/4QsuzR3mlNOZqmhvyPKFME), [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr), [Deathprod](https://open.spotify.com/artist/7o8rvnbMRm0zygvVauFqaO) | [Nordheim Transformed](https://open.spotify.com/album/30O89DMxubRNxxncKnFXdX) | 4:57 | 2022-05-29 | 2022-10-13 |
-| [When I Leave](https://open.spotify.com/track/6j7yUdvm5GHumn0crkzGH6) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 5:54 | 2024-07-25 | 2024-07-29 |
+| [When I Leave](https://open.spotify.com/track/6j7yUdvm5GHumn0crkzGH6) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 5:54 | 2024-07-25 |  |
 | [When I Leave \- Finely Tuned Version](https://open.spotify.com/track/64HnjUbbmrAzK8QnUmCtRR) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque \(2016 Reissue Version\)](https://open.spotify.com/album/5PMRqcZu3T90ensFTSSB67) | 6:45 | 2022-08-17 | 2022-09-26 |
-| [Whole Forests Of Them Appearing](https://open.spotify.com/track/5dlFor9vsIMB4Nf71nK8kE) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Departed Glories](https://open.spotify.com/album/2lL1nUryXdhuT1A4E0Uwtb) | 5:28 | 2022-06-13 |  |
+| [Whole Forests Of Them Appearing](https://open.spotify.com/track/5dlFor9vsIMB4Nf71nK8kE) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Departed Glories](https://open.spotify.com/album/2lL1nUryXdhuT1A4E0Uwtb) | 5:28 | 2022-06-13 | 2024-07-30 |
 | [With Precious Benefits To Both](https://open.spotify.com/track/7oFtmhVs4jk16rFvikGmHq) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Departed Glories](https://open.spotify.com/album/78KLYq0YJ5vgbPy9BYlpz9) | 4:42 | 2022-07-24 | 2022-11-27 |
 | [Wolfgang´s Wave](https://open.spotify.com/track/7re1JtuVKMjZggjswFVoUU) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Inland Delta](https://open.spotify.com/album/2JjR9KTuYLUDLctLpcAYiq) | 5:12 | 2023-12-13 | 2024-05-10 |
 

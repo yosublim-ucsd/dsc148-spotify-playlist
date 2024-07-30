@@ -1,12 +1,12 @@
 {
-  "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 50193,
+  "description": "This Is ATARASHII GAKKO!. Los temas esenciales, todos en una lista.",
+  "num_followers": 50202,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAACGLUErY6h5CpPhgsUscxN4",
+  "snapshot_id": "ZqWKAAAAAAArLtCU+mYWHA9rWWQVKD2C",
   "tracks": [
     {
       "added_at": null,
@@ -143,8 +143,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "WOO! GO!",
-        "url": "https://open.spotify.com/album/6TeEBQZuGMjY3cu7e6JjUX"
+        "name": "NAINAINAI",
+        "url": "https://open.spotify.com/album/2oPLzwhrlQP7twoamxxlhN"
       },
       "artists": [
         {
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 199413,
-      "name": "WOO! GO!",
-      "url": "https://open.spotify.com/track/4BfXAxcuOyPRWcUHCasVit"
+      "duration_ms": 193877,
+      "name": "NAINAINAI",
+      "url": "https://open.spotify.com/track/4tkhZR7YJfvpvD5D8o2MUY"
     },
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAINAINAI",
-        "url": "https://open.spotify.com/album/2oPLzwhrlQP7twoamxxlhN"
+        "name": "WOO! GO!",
+        "url": "https://open.spotify.com/album/6TeEBQZuGMjY3cu7e6JjUX"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 193877,
-      "name": "NAINAINAI",
-      "url": "https://open.spotify.com/track/4tkhZR7YJfvpvD5D8o2MUY"
+      "duration_ms": 199413,
+      "name": "WOO! GO!",
+      "url": "https://open.spotify.com/track/4BfXAxcuOyPRWcUHCasVit"
     },
     {
       "added_at": null,

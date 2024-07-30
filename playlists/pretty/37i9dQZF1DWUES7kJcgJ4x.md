@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 
 > Modernas, rebeldes y divertidas, ¡Así son ellas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,691 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,697 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 | 32 | [El Juguete Extraordinario](https://open.spotify.com/track/3b7NqPaGppHqg5gubaJNen) | [Alicia Granados](https://open.spotify.com/artist/4MdLsOw1fEglZyW9qkEaft) | [Profesor](https://open.spotify.com/album/1bqkkVj2oGYrp9832YeIfc) | 2:08 |
 | 33 | [Tengo 17 Años](https://open.spotify.com/track/6MhIzu7jyYl7lCmAGLPhNZ) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Rocio Durcal \- Canciones De Juventud Los Años Prodigiosos De Una Artista Inolvidable 1962\- 1972](https://open.spotify.com/album/13lSObYUJPdxDePasnJxYh) | 3:01 |
 | 34 | [Tómbola](https://open.spotify.com/track/2NUTJK1BazWlFoHiRQzlTw) | [Marisol](https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n) | [Marisol\. La Pequeña Estrella](https://open.spotify.com/album/6w4u33Z6xVyAUJOnDNkmcT) | 2:32 |
-| 35 | [Datemi Un Martello](https://open.spotify.com/track/7c8pZpotK38DHT5M7zu2xR) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [Rita Pavone](https://open.spotify.com/album/5WTAc7on7wkTCB9RAUJLcC) | 2:49 |
-| 36 | [These Boots Are Made For Walkin'](https://open.spotify.com/track/2nwCO1PqpvyoFIvq3Vrj8N) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Boots](https://open.spotify.com/album/62FTy4WqUxi3paBlxOhh4M) | 2:46 |
+| 35 | [These Boots Are Made For Walkin'](https://open.spotify.com/track/2nwCO1PqpvyoFIvq3Vrj8N) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Boots](https://open.spotify.com/album/62FTy4WqUxi3paBlxOhh4M) | 2:46 |
+| 36 | [Datemi Un Martello](https://open.spotify.com/track/7c8pZpotK38DHT5M7zu2xR) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [Rita Pavone](https://open.spotify.com/album/5WTAc7on7wkTCB9RAUJLcC) | 2:49 |
 | 37 | [Pata Pata \- Stereo Version](https://open.spotify.com/track/7d3cKDG22Ig9kZOS1qsq3S) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/1y0oTN8oxJPyY06ypQBDFv) | 3:00 |
 | 38 | [To Sir With Love](https://open.spotify.com/track/5ox7YOS0Tovw2OIp1T4Ste) | [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [Greatest Hits](https://open.spotify.com/album/7aFxNDhGJl5Jy0wUyydqSI) | 2:43 |
 | 39 | [Ne Me Laisse Pas L'Aimer](https://open.spotify.com/track/4D2nYW0lvUSkkaQsD9B21F) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Bubble Gum \(Vol\. 2\)](https://open.spotify.com/album/2OMk77L7S7Fprc3LFmx3l0) | 1:57 |

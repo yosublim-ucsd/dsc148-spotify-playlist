@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Robe.",
-  "num_followers": 578594,
+  "num_followers": 578654,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Arena En Los Bolsillos",
-        "url": "https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf"
-      },
-      "artists": [
-        {
-          "name": "Manolo Garcia",
-          "url": "https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "Pajaros de Barro",
-      "url": "https://open.spotify.com/track/4B6ko7lt1sUtyFzBDF4yfK"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
         "name": "Sin Enchufe",
         "url": "https://open.spotify.com/album/4ek3tTygesccVT9WDCkgKj"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 263679,
       "name": "Carolina - En directo 2000",
       "url": "https://open.spotify.com/track/4UtREbGYnd1nZLckEb5y8J"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Arena En Los Bolsillos",
+        "url": "https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf"
+      },
+      "artists": [
+        {
+          "name": "Manolo Garcia",
+          "url": "https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "Pajaros de Barro",
+      "url": "https://open.spotify.com/track/4B6ko7lt1sUtyFzBDF4yfK"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "El D\u00eda Que T\u00fa Te Marches",
-        "url": "https://open.spotify.com/album/2HLsMqrSQzRdPzoi0NzijC"
-      },
-      "artists": [
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        }
-      ],
-      "duration_ms": 208101,
-      "name": "El D\u00eda Que T\u00fa Te Marches",
-      "url": "https://open.spotify.com/track/5chHtm0x86aE3jxmylJA6z"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
         "name": "Muy Deficiente",
         "url": "https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 250093,
       "name": "El roce de tu cuerpo",
       "url": "https://open.spotify.com/track/3EPd9riN2R8Zjl6GkrxxGl"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "El D\u00eda Que T\u00fa Te Marches",
+        "url": "https://open.spotify.com/album/2HLsMqrSQzRdPzoi0NzijC"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "duration_ms": 208101,
+      "name": "El D\u00eda Que T\u00fa Te Marches",
+      "url": "https://open.spotify.com/track/5chHtm0x86aE3jxmylJA6z"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Veneno En La Piel",
-        "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
-      },
-      "artists": [
-        {
-          "name": "Radio Futura",
-          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Veneno en la Piel",
-      "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
         "name": "Heroes De Los 80",
         "url": "https://open.spotify.com/album/6Lml9AoEtkTD7BW6J57wzd"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 293533,
       "name": "El ritmo del garaje",
       "url": "https://open.spotify.com/track/020aPMXlwYFpPB7cI8Kuc1"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Veneno En La Piel",
+        "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
+      },
+      "artists": [
+        {
+          "name": "Radio Futura",
+          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Veneno en la Piel",
+      "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Maneras De Vivir",
-        "url": "https://open.spotify.com/album/62ej3kUjSLwWV9MnAtb20s"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f1o",
-          "url": "https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ"
-        }
-      ],
-      "duration_ms": 252933,
-      "name": "Maneras de Vivir (Single Estudio)",
-      "url": "https://open.spotify.com/track/7kCiAaismDVaCjpyGF3YJB"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
         "name": "Rock & Roll Star - 30 a\u00f1os",
         "url": "https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 214560,
       "name": "Cadillac solitario",
       "url": "https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Maneras De Vivir",
+        "url": "https://open.spotify.com/album/62ej3kUjSLwWV9MnAtb20s"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f1o",
+          "url": "https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ"
+        }
+      ],
+      "duration_ms": 252933,
+      "name": "Maneras de Vivir (Single Estudio)",
+      "url": "https://open.spotify.com/track/7kCiAaismDVaCjpyGF3YJB"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Correos",
-        "url": "https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY"
+        "name": "Destrozares, Canciones para el Final de los Tiempos",
+        "url": "https://open.spotify.com/album/0XAsAUaEDTl6wlOAMhqfDS"
       },
       "artists": [
         {
-          "name": "Platero Y Tu",
-          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
+          "name": "Robe",
+          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
         }
       ],
-      "duration_ms": 236413,
-      "name": "Cigarrito",
-      "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
+      "duration_ms": 429000,
+      "name": "Del Tiempo Perdido",
+      "url": "https://open.spotify.com/track/6SJHY69ciIGbp8JspeEbki"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Destrozares, Canciones para el Final de los Tiempos",
-        "url": "https://open.spotify.com/album/0XAsAUaEDTl6wlOAMhqfDS"
+        "name": "Correos",
+        "url": "https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY"
       },
       "artists": [
         {
-          "name": "Robe",
-          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
+          "name": "Platero Y Tu",
+          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
         }
       ],
-      "duration_ms": 429000,
-      "name": "Del Tiempo Perdido",
-      "url": "https://open.spotify.com/track/6SJHY69ciIGbp8JspeEbki"
+      "duration_ms": 236413,
+      "name": "Cigarrito",
+      "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "El Cantante",
-        "url": "https://open.spotify.com/album/6ABpN7mRcyrXXC587LaBJW"
-      },
-      "artists": [
-        {
-          "name": "Pole.",
-          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
-        }
-      ],
-      "duration_ms": 169857,
-      "name": "Jugadora",
-      "url": "https://open.spotify.com/track/3dkkjfO6Ljul67LJg1H327"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
         "name": "Vispera De Todos Los Santos",
         "url": "https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 294200,
       "name": "Palabras Para Julia",
       "url": "https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "El Cantante",
+        "url": "https://open.spotify.com/album/6ABpN7mRcyrXXC587LaBJW"
+      },
+      "artists": [
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+        }
+      ],
+      "duration_ms": 169857,
+      "name": "Jugadora",
+      "url": "https://open.spotify.com/track/3dkkjfO6Ljul67LJg1H327"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Los Zigarros",
-        "url": "https://open.spotify.com/album/2j5gSZN3pvMMBSLBJ6dhNP"
-      },
-      "artists": [
-        {
-          "name": "Los Zigarros",
-          "url": "https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M"
-        }
-      ],
-      "duration_ms": 197853,
-      "name": "Hablar, Hablar, Hablar...",
-      "url": "https://open.spotify.com/track/4OP27AFFqUJ8de27sOIIku"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
         "name": "Estoy aqu\u00ed (feat. La Pegatina)",
         "url": "https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 176747,
       "name": "Estoy aqu\u00ed (feat. La Pegatina)",
       "url": "https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Los Zigarros",
+        "url": "https://open.spotify.com/album/2j5gSZN3pvMMBSLBJ6dhNP"
+      },
+      "artists": [
+        {
+          "name": "Los Zigarros",
+          "url": "https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M"
+        }
+      ],
+      "duration_ms": 197853,
+      "name": "Hablar, Hablar, Hablar...",
+      "url": "https://open.spotify.com/track/4OP27AFFqUJ8de27sOIIku"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
+        "name": "Mediterr\u00e1naeo",
+        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
+      },
+      "artists": [
+        {
+          "name": "Los Rebeldes",
+          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "Mediterraneo",
+      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
         "name": "\u00bfD\u00f3nde est\u00e1s? (feat. Bunbury, Andr\u00e9s Calamaro y Loquillo)",
         "url": "https://open.spotify.com/album/4wXXumUtvJ94pKiLxsIOz3"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 245440,
       "name": "Sorprendente",
       "url": "https://open.spotify.com/track/6Xueg8DmwhkU4xf0Q3xlWN"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "Mediterr\u00e1naeo",
-        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
-      },
-      "artists": [
-        {
-          "name": "Los Rebeldes",
-          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "Mediterraneo",
-      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
     },
     {
       "added_at": "2024-07-25 22:00:00",

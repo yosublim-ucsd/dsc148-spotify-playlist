@@ -4,7 +4,7 @@
 
 > Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2406spotifypkerndwbjny446&utm\_campaign=2406spotify&utm\_source=sptfy\_na&utm\_medium=ernd\_wbjny\_acq\_deslnk&utm\_term=spotifyusers&utm\_content=nooffer&voucher\[\]=XXXXXXXXXXXXXX">Peacock</a>.
 
-755 songs - 1 day 16 hr 55 min
+756 songs - 1 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,6 +529,7 @@
 | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You & I](https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX) | 2:44 | 2023-09-13 |  |
 | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu) | 2:44 | 2023-09-13 | 2024-06-13 |
 | [Pretty Girl Era](https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Pretty Girl Era](https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY) | 2:35 | 2024-06-21 |  |
+| [Proof](https://open.spotify.com/track/3cC5hwcjXlVOrgTpnoc44o) | [Gracie Moses](https://open.spotify.com/artist/26pbK4LF8X2Otc9ZezgNAU) | [Proof](https://open.spotify.com/album/5mRVz4dOy7P6MSirPISDg9) | 3:07 | 2024-07-29 |  |
 | [Push It](https://open.spotify.com/track/7JJL99zRYDgAQzlOeWlUeE) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [The Best Of Salt\-N\-Pepa: 20th Century Masters \- The Millennium Collection](https://open.spotify.com/album/5zdPBV7bOAYAu2vBCEV3Sv) | 4:28 | 2022-08-19 | 2023-07-19 |
 | [Pushin On](https://open.spotify.com/track/6ZhEeyHE8SyjQRzRwIWHyG) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc) | [Sequels](https://open.spotify.com/album/5eHFt6Ecfv45j25kI1KLxN) | 3:02 | 2024-07-03 |  |
 | [Radioactive](https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) | 3:06 | 2023-08-16 | 2024-06-13 |

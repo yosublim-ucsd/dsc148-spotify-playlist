@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,494 songs - 3 day 10 hr 9 min
+1,495 songs - 3 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -823,7 +823,8 @@
 | [Magic](https://open.spotify.com/track/7ckHoMRErhCP9QMqGRPnLv) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/7A52XPHtuD0dvuwMzV52qN) | 3:04 | 2022-05-06 | 2022-06-29 |
 | [Magic Shop](https://open.spotify.com/track/5MTGPkmiUuud9NkA0sl2nI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) | 4:35 | 2022-01-02 | 2022-01-04 |
 | [Mahboubi](https://open.spotify.com/track/27n9doXhe3B7cXmkAwrisR) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY), [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Mahboubi](https://open.spotify.com/album/61LTNXwa7FboRRdkzH5dP7) | 3:01 | 2024-06-21 | 2024-06-23 |
-| [Mahboul Ana](https://open.spotify.com/track/2YmbOhmRPDZ5XD5l9jROln) | [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Mahboul Ana](https://open.spotify.com/album/5S0X8OEdaDeVvvH5EoSlxY) | 3:05 | 2024-07-23 |  |
+| [MAHBOUL ANA](https://open.spotify.com/track/5rusgnCjnF2WyGwg5KTLKm) | [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [MAHBOUL ANA](https://open.spotify.com/album/5jVleLW3RXnIYDWor0ws6c) | 3:05 | 2024-07-29 |  |
+| [Mahboul Ana](https://open.spotify.com/track/2YmbOhmRPDZ5XD5l9jROln) | [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Mahboul Ana](https://open.spotify.com/album/5S0X8OEdaDeVvvH5EoSlxY) | 3:05 | 2024-07-23 | 2024-07-30 |
 | [MAHBOULA](https://open.spotify.com/track/4AS0ncb4OzzAjwvsgWu9XV) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [MAHBOULA](https://open.spotify.com/album/6xxm174FrG6Mni52k9UFWL) | 2:49 | 2024-05-25 |  |
 | [Major Distribution](https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:50 | 2022-11-05 | 2022-11-12 |
 | [Makayn Tahed](https://open.spotify.com/track/49b7BrIj4LRwie8XVq8yrt) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 3:09 | 2023-06-24 | 2023-07-03 |

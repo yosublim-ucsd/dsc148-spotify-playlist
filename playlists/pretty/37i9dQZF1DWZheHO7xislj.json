@@ -1,6 +1,6 @@
 {
   "description": "Perfect music for perfect food.",
-  "num_followers": 140806,
+  "num_followers": 140807,
   "original_name": "Soul Cuisine",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Lioness: Hidden Treasures",
-        "url": "https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 169373,
-      "name": "Our Day Will Come",
-      "url": "https://open.spotify.com/track/4NDpn6yfD5aqafYWFEaJDz"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "One Eighty",
         "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 324040,
       "name": "Biggest Part of Me",
       "url": "https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Lioness: Hidden Treasures",
+        "url": "https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 169373,
+      "name": "Our Day Will Come",
+      "url": "https://open.spotify.com/track/4NDpn6yfD5aqafYWFEaJDz"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Right On Time",
-        "url": "https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Johnson",
-          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
-        }
-      ],
-      "duration_ms": 299066,
-      "name": "Strawberry Letter 23",
-      "url": "https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Take from Me",
         "url": "https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 213933,
       "name": "Easy to Come Home",
       "url": "https://open.spotify.com/track/3UZ8WlceXd5kDmnpNvA8Dd"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Johnson",
+          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
+        }
+      ],
+      "duration_ms": 299066,
+      "name": "Strawberry Letter 23",
+      "url": "https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "You Send Me",
-      "url": "https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Tell It Like It Is - The Par Lo Years",
         "url": "https://open.spotify.com/album/1kUKkxMjMVZRw6yK34l37g"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 165960,
       "name": "Tell It Like It Is",
       "url": "https://open.spotify.com/track/7GSRH3L0HAM3StkAkYVamC"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "You Send Me",
+      "url": "https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "No Beginning No End",
-        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 208555,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/11pd7go1eobijf2rxN5YbG"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Stax-Volt: The Complete Singles 1959-1968",
         "url": "https://open.spotify.com/album/0RPeS6tlJfJt1GQ1XilhkH"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 200626,
       "name": "Try A Little Tenderness",
       "url": "https://open.spotify.com/track/50W9PJjr1Euo9FFoqw90eL"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "No Beginning No End",
+        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "duration_ms": 208555,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/11pd7go1eobijf2rxN5YbG"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Loose Fit",
-        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
-      },
-      "artists": [
-        {
-          "name": "Ruben Hein",
-          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "Traffic Jam",
-      "url": "https://open.spotify.com/track/3cKMxZt3WTp0tIiF3j2rX3"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Radio Music Society",
         "url": "https://open.spotify.com/album/50ZGiAqYPxQpDVs7QT2ys8"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 316866,
       "name": "Black Gold",
       "url": "https://open.spotify.com/track/0Y1qnAow1UCOZuVfK47sPl"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Loose Fit",
+        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "Traffic Jam",
+      "url": "https://open.spotify.com/track/3cKMxZt3WTp0tIiF3j2rX3"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Baltimore",
-        "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "The Family",
-      "url": "https://open.spotify.com/track/14wpG5eRZwU73l6TYrvgkT"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Sing Me a Song",
         "url": "https://open.spotify.com/album/0N6sFugBivjG1IEUlriDHN"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 244586,
       "name": "Lift My Blues",
       "url": "https://open.spotify.com/track/0OKGYoLV41gGrNyfNpWlsa"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Baltimore",
+        "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "The Family",
+      "url": "https://open.spotify.com/track/14wpG5eRZwU73l6TYrvgkT"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2119,6 +2119,22 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
+        "name": "No Beginning No End",
+        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "duration_ms": 329254,
+      "name": "It's All Over Your Body",
+      "url": "https://open.spotify.com/track/4CxtiOaM0QyPxWQQ7cQtCz"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
         "name": "Playlist: The ATCO Singles",
         "url": "https://open.spotify.com/album/0zkLCUERzDJPllFrpPWCDG"
       },
@@ -2135,22 +2151,6 @@
       "duration_ms": 174706,
       "name": "I'm About Loving You",
       "url": "https://open.spotify.com/track/6pR8Q9MsvqEs4xXyig4mR4"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
-        "name": "No Beginning No End",
-        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 329254,
-      "name": "It's All Over Your Body",
-      "url": "https://open.spotify.com/track/4CxtiOaM0QyPxWQQ7cQtCz"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2219,6 +2219,22 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
+        "name": "No Beginning No End",
+        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "duration_ms": 278855,
+      "name": "Come To My Door - Acoustic Version",
+      "url": "https://open.spotify.com/track/41MjJj7Kosc7ykXU9DGH8N"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
         "name": "Chaka",
         "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
       },
@@ -2279,22 +2295,6 @@
       "duration_ms": 178966,
       "name": "Give Me a Reason",
       "url": "https://open.spotify.com/track/59wDvYiusncM52rcGTV8dP"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
-        "name": "No Beginning No End",
-        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 278855,
-      "name": "Come To My Door - Acoustic Version",
-      "url": "https://open.spotify.com/track/41MjJj7Kosc7ykXU9DGH8N"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Down To Earth",
-        "url": "https://open.spotify.com/album/5JycxUvp3crGxKV3i3Vjl3"
-      },
-      "artists": [
-        {
-          "name": "The Undisputed Truth",
-          "url": "https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw"
-        }
-      ],
-      "duration_ms": 208293,
-      "name": "Brother Louie",
-      "url": "https://open.spotify.com/track/1QXhI3IfDBZiPtPID25FE1"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Blue Note Trip: Jazzanova - Lookin' Back / Movin' On",
         "url": "https://open.spotify.com/album/5xAymHaEllHdMWol6Fl5Wq"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 369226,
       "name": "Think Twice",
       "url": "https://open.spotify.com/track/6V0xxNmBP6lurDkTigzMnp"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/5JycxUvp3crGxKV3i3Vjl3"
+      },
+      "artists": [
+        {
+          "name": "The Undisputed Truth",
+          "url": "https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw"
+        }
+      ],
+      "duration_ms": 208293,
+      "name": "Brother Louie",
+      "url": "https://open.spotify.com/track/1QXhI3IfDBZiPtPID25FE1"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2695,22 +2695,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Songs In A Minor (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 237626,
-      "name": "How Come You Don't Call Me",
-      "url": "https://open.spotify.com/track/5bAEFsQjo0DEJalVwFVmsW"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ"
       },
@@ -2727,6 +2711,22 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
+        "name": "Songs In A Minor (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 237626,
+      "name": "How Come You Don't Call Me",
+      "url": "https://open.spotify.com/track/5bAEFsQjo0DEJalVwFVmsW"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
         "name": "I Put A Spell On You",
         "url": "https://open.spotify.com/album/13jolTb1DQl8IVPczYtQJ3"
       },
@@ -2739,6 +2739,38 @@
       "duration_ms": 155026,
       "name": "I Put A Spell On You",
       "url": "https://open.spotify.com/track/0C5ex13H3zRMsqSROZu78W"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/7uG6DZHTBiDlrSXA43WpMb"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 237866,
+      "name": "Seven Days in Sunny June",
+      "url": "https://open.spotify.com/track/04hWLKwZKdwl1mZHafiphV"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Bet Ain't Worth the Hand / Bad Bad News",
+        "url": "https://open.spotify.com/album/7Csuf8rJjBOP4GK11pPCw7"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 207306,
+      "name": "Bad Bad News",
+      "url": "https://open.spotify.com/track/5CDrDzan4wRW3Dj4LD6meH"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2775,22 +2807,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/7uG6DZHTBiDlrSXA43WpMb"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 237866,
-      "name": "Seven Days in Sunny June",
-      "url": "https://open.spotify.com/track/04hWLKwZKdwl1mZHafiphV"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO"
       },
@@ -2807,6 +2823,22 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/5FeiZwAMqXeirKjp60E03b"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Nothing Can Come Between Us",
+      "url": "https://open.spotify.com/track/6fM23mbGiKidAOuTExfpdv"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
         "name": "Jim",
         "url": "https://open.spotify.com/album/3Hoe3hptCyII2pA7tNEAab"
       },
@@ -2819,22 +2851,6 @@
       "duration_ms": 242720,
       "name": "Little Bit of Feel Good",
       "url": "https://open.spotify.com/track/0cIoSMR8kFaJHF8eGgHBHs"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
-        "name": "Bet Ain't Worth the Hand / Bad Bad News",
-        "url": "https://open.spotify.com/album/7Csuf8rJjBOP4GK11pPCw7"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 207306,
-      "name": "Bad Bad News",
-      "url": "https://open.spotify.com/track/5CDrDzan4wRW3Dj4LD6meH"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2871,6 +2887,38 @@
       "duration_ms": 205573,
       "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3oI95Uihdvu7uCiirC1DQA"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "The Ultimate Collection: The Commodores",
+        "url": "https://open.spotify.com/album/1ZIP9kXi6QAj0SWzHGfocI"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 304026,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/2jGfOCUOXBxrV63jlFVZMV"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "The Very Best Of The Staple Singers",
+        "url": "https://open.spotify.com/album/1jkwBngCquhmnteY7cXjm9"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "I'll Take You There",
+      "url": "https://open.spotify.com/track/4j0M3v7GPijfIrzjN8QcuK"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2923,22 +2971,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Stronger Than Pride",
-        "url": "https://open.spotify.com/album/5FeiZwAMqXeirKjp60E03b"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Nothing Can Come Between Us",
-      "url": "https://open.spotify.com/track/6fM23mbGiKidAOuTExfpdv"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Mr. Big Stuff (Remastered)",
         "url": "https://open.spotify.com/album/0VUpqywWXd86fGSTs5LwpT"
       },
@@ -2983,22 +3015,6 @@
       "duration_ms": 271440,
       "name": "This Land Is Your Land",
       "url": "https://open.spotify.com/track/1FE45v3BxmGjFiDwuSpeDJ"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
-        "name": "The Ultimate Collection: The Commodores",
-        "url": "https://open.spotify.com/album/1ZIP9kXi6QAj0SWzHGfocI"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 304026,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/2jGfOCUOXBxrV63jlFVZMV"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -3051,18 +3067,22 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "The Very Best Of The Staple Singers",
-        "url": "https://open.spotify.com/album/1jkwBngCquhmnteY7cXjm9"
+        "name": "Motown: The Complete No. 1's",
+        "url": "https://open.spotify.com/album/0iv3gV69jA1YY2H0UTy9yF"
       },
       "artists": [
         {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+          "name": "Diana Ross & The Supremes",
+          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
+        },
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
         }
       ],
-      "duration_ms": 196826,
-      "name": "I'll Take You There",
-      "url": "https://open.spotify.com/track/4j0M3v7GPijfIrzjN8QcuK"
+      "duration_ms": 187106,
+      "name": "I'm Gonna Make You Love Me",
+      "url": "https://open.spotify.com/track/0XaJ8Fk3d8eZa9RZGUat0e"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -3303,22 +3323,6 @@
       "duration_ms": 264920,
       "name": "After The Love Has Gone",
       "url": "https://open.spotify.com/track/0c3Xqt6MesEzKVGdoKandP"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
-        "name": "The 50 Greatest Songs",
-        "url": "https://open.spotify.com/album/02BqgvQgdF71E6QcOjKpAp"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 234853,
-      "name": "Cherish",
-      "url": "https://open.spotify.com/track/4gjIpRYh26lwooGb2EIbef"
     }
   ],
   "unique_name": "Soul Cuisine",

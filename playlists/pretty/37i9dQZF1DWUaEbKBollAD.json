@@ -1,31 +1,75 @@
 {
   "description": "<a href=\"spotify:artist:4iHnLagnnmgiIwMSm1wuTq\">Giorgia Angiuli</a>'s favorite tracks. Updated regularly. Curated by Giorgia Angiuli. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 45838,
+  "num_followers": 45856,
   "original_name": "Giorgia Angiuli's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnSmnAAAAAChGoc+rXte63czwraydQXy",
+  "snapshot_id": "ZqeknAAAAABV6us+4VPoFiEJOFVsIVia",
   "tracks": [
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
-        "name": "Break The Dawn",
-        "url": "https://open.spotify.com/album/7b160WFBcTFZXZzqq48cMv"
+        "name": "Spiritum (The Remixes)",
+        "url": "https://open.spotify.com/album/0Y2oWCQtDxs7xtRSnEzs6i"
       },
       "artists": [
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Shibui",
+          "url": "https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4"
+        },
         {
           "name": "Giorgia Angiuli",
           "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
         }
       ],
-      "duration_ms": 213541,
-      "name": "Break The Dawn",
-      "url": "https://open.spotify.com/track/5nSUxatVj9pTnSKHAVtDR5"
+      "duration_ms": 213429,
+      "name": "Spiritum - Giorgia Angiuli Remix",
+      "url": "https://open.spotify.com/track/2bi41qfJ9J6yCNVecYZfSt"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
+      "album": {
+        "name": "On The Road",
+        "url": "https://open.spotify.com/album/5TOBa8ERugPC0syjSU8SQd"
+      },
+      "artists": [
+        {
+          "name": "SUMIA",
+          "url": "https://open.spotify.com/artist/0GNaI8xPr4mxPoF5Ku8Rpa"
+        }
+      ],
+      "duration_ms": 215500,
+      "name": "On The Road",
+      "url": "https://open.spotify.com/track/714Ile0WQOorAkduRufKqh"
+    },
+    {
+      "added_at": "2024-07-29 14:18:04",
+      "album": {
+        "name": "Club SPF",
+        "url": "https://open.spotify.com/album/1S1nz42FJFwaHAu4Xm8yz4"
+      },
+      "artists": [
+        {
+          "name": "Zorza",
+          "url": "https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr"
+        }
+      ],
+      "duration_ms": 195447,
+      "name": "Club SPF",
+      "url": "https://open.spotify.com/track/2yOYSXAfliIfK20gDnLBvr"
+    },
+    {
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Mantra EP",
         "url": "https://open.spotify.com/album/1ciTAED3gTIYBfhA3MpGNT"
@@ -45,7 +89,7 @@
       "url": "https://open.spotify.com/track/7800ZSDHsmcAhhwTY8jHQ2"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Te Amo Madrid",
         "url": "https://open.spotify.com/album/0ULzCsCrzvEQIZhfceq5om"
@@ -61,7 +105,7 @@
       "url": "https://open.spotify.com/track/3E8XrHNaQJYeDIPrfnEStJ"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Dominator",
         "url": "https://open.spotify.com/album/79oVopXRclTCTCjE2LzR81"
@@ -77,7 +121,7 @@
       "url": "https://open.spotify.com/track/2qfOLRhFtFiHjAEvc0J4fI"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "In The Darkness EP",
         "url": "https://open.spotify.com/album/6MKZPT1EmkBCy3KNK7dTGy"
@@ -93,7 +137,7 @@
       "url": "https://open.spotify.com/track/4yjnf8QWoK8xrH2JwWS37r"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Jericho",
         "url": "https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh"
@@ -109,7 +153,7 @@
       "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Heaven Is For Warriors EP",
         "url": "https://open.spotify.com/album/0foqG98xclmbCe33QsRMll"
@@ -125,7 +169,23 @@
       "url": "https://open.spotify.com/track/6AWUWCMEF31w9e0yvGiFBl"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
+      "album": {
+        "name": "Break The Dawn",
+        "url": "https://open.spotify.com/album/7b160WFBcTFZXZzqq48cMv"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "duration_ms": 213541,
+      "name": "Break The Dawn",
+      "url": "https://open.spotify.com/track/5nSUxatVj9pTnSKHAVtDR5"
+    },
+    {
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Psychedelic Awakening",
         "url": "https://open.spotify.com/album/6SZ4525Ke0Eu3ZmJLEFeJY"
@@ -141,7 +201,7 @@
       "url": "https://open.spotify.com/track/7m0xP08bcvcHFVnlEzOhBG"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Inside My Head",
         "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
@@ -157,7 +217,7 @@
       "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Aleluya feat. Mireia Clua",
         "url": "https://open.spotify.com/album/0w2i8JB5THzHPRQR0BhU1r"
@@ -177,7 +237,7 @@
       "url": "https://open.spotify.com/track/14NAojx9aX2o5bhQolJWJK"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Darkly Yours EP",
         "url": "https://open.spotify.com/album/6POModEFwAbejmac6UGQAh"
@@ -193,7 +253,7 @@
       "url": "https://open.spotify.com/track/5dj96moRuaIOZCE0boVj19"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Gigantia EP",
         "url": "https://open.spotify.com/album/5QxDIWuPMNGi941SRjktS2"
@@ -209,43 +269,7 @@
       "url": "https://open.spotify.com/track/35nQObHeEnyN9j2HQ6CbrB"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
-      "album": {
-        "name": "You & Me",
-        "url": "https://open.spotify.com/album/1nbX5SpbInsusz0qYRcrr2"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "Anfisa Letyago",
-          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
-        }
-      ],
-      "duration_ms": 170645,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/4mwYnQIIIQMZ2fv1bA1v9E"
-    },
-    {
-      "added_at": "2024-06-20 22:01:00",
-      "album": {
-        "name": "Ego Is The Enemy",
-        "url": "https://open.spotify.com/album/7FrQOPp4y98Cvf6NXQfggr"
-      },
-      "artists": [
-        {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
-        }
-      ],
-      "duration_ms": 185379,
-      "name": "Ego Is The Enemy",
-      "url": "https://open.spotify.com/track/2omtwYPfscqQc2XjOSmJOy"
-    },
-    {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Soulstice",
         "url": "https://open.spotify.com/album/0SuGNn5zkJSHyiJA1Q4rbe"
@@ -261,7 +285,7 @@
       "url": "https://open.spotify.com/track/4ODwlv8IZ0PQrqgM8iVOb8"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Spiritum",
         "url": "https://open.spotify.com/album/3DLisv8F3tPRnqRgAwPmxn"
@@ -285,7 +309,7 @@
       "url": "https://open.spotify.com/track/1Ck2WX9Gw7zIFlhc6kZRu9"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Relax Shiva",
         "url": "https://open.spotify.com/album/0Qp3gmNLo5zqYutS7F0wDe"
@@ -301,7 +325,7 @@
       "url": "https://open.spotify.com/track/6bU5V5LKTHjFB9LvJaH0xH"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Sogno Infinito",
         "url": "https://open.spotify.com/album/4BFCsYT9An8sb36FltNyql"
@@ -317,23 +341,23 @@
       "url": "https://open.spotify.com/track/21Gt0Vm6OuTjOEIEMx1eCl"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
-        "name": "Cyclone",
-        "url": "https://open.spotify.com/album/5Ucv7elKwwqA1gPGtyWQIi"
+        "name": "Ego Is The Enemy",
+        "url": "https://open.spotify.com/album/7FrQOPp4y98Cvf6NXQfggr"
       },
       "artists": [
         {
-          "name": "Ekob",
-          "url": "https://open.spotify.com/artist/33P0PQE89A08SdElgLlzfw"
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
         }
       ],
-      "duration_ms": 109338,
-      "name": "Body Refuel - Radio Edit",
-      "url": "https://open.spotify.com/track/4Hu4w1yke9QPpqm0BZ1Vxd"
+      "duration_ms": 185379,
+      "name": "Ego Is The Enemy",
+      "url": "https://open.spotify.com/track/2omtwYPfscqQc2XjOSmJOy"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Glitch In Time EP",
         "url": "https://open.spotify.com/album/2cX9QC3jope2AZovyjGmih"
@@ -349,7 +373,7 @@
       "url": "https://open.spotify.com/track/5VbAmXpu7hkFdF31o0FSYZ"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Obsidian (Oscar L Remix)",
         "url": "https://open.spotify.com/album/4Nf2HEt1CHXJPe6TTpxaeP"
@@ -369,7 +393,7 @@
       "url": "https://open.spotify.com/track/1cZyeFJcOTOTEyDDmgQL8j"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Everything Is Life",
         "url": "https://open.spotify.com/album/4zZJjcnFOzc9XWiuFtEpOE"
@@ -385,7 +409,7 @@
       "url": "https://open.spotify.com/track/5kJu55pjJfj62nIvcRwYMO"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Fading",
         "url": "https://open.spotify.com/album/4bUlfYprHew2m5NsyzD84I"
@@ -401,23 +425,7 @@
       "url": "https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
-      "album": {
-        "name": "Thank You So Much",
-        "url": "https://open.spotify.com/album/52nZh4I7scACkidYNOrLhD"
-      },
-      "artists": [
-        {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
-        }
-      ],
-      "duration_ms": 368640,
-      "name": "Thank You So Much",
-      "url": "https://open.spotify.com/track/4GQmmt4MNqJJJvQeLUNqCN"
-    },
-    {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "FORTE Remixes, Pt. 01",
         "url": "https://open.spotify.com/album/3o4x76PS3Wo12ToLw8U8Ev"
@@ -437,7 +445,7 @@
       "url": "https://open.spotify.com/track/7xf3mveUjX2RmOjfMzRNWO"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Biosph\u00e8re",
         "url": "https://open.spotify.com/album/2Cu8QDxQTHq57dOO2GfkFO"
@@ -453,7 +461,7 @@
       "url": "https://open.spotify.com/track/4yxlVbgJ5OdE9ipFOSMNGP"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/01Jp0tJMYp8MNRQVAk7liX"
@@ -469,7 +477,7 @@
       "url": "https://open.spotify.com/track/3HdrzXCHvjBX39wYnAKc2c"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Kreature",
         "url": "https://open.spotify.com/album/5OIj5hMZE8GCZsp6ihZYAu"
@@ -485,7 +493,7 @@
       "url": "https://open.spotify.com/track/3IwWvapDWkJzHr1rfSOP2S"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Homologic (Dubfire & Fedele Remix)",
         "url": "https://open.spotify.com/album/44V06jzSd4Mvz6PkE3GV3S"
@@ -509,7 +517,7 @@
       "url": "https://open.spotify.com/track/3ybQK3RNlnLe1x4jc3lNhp"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Emerge",
         "url": "https://open.spotify.com/album/5hZsoDf7rizzN6AqU3qYIZ"
@@ -525,7 +533,7 @@
       "url": "https://open.spotify.com/track/41Suz8eMIQXvKdOtkeBYEU"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Howling",
         "url": "https://open.spotify.com/album/5Eg7XnolnMI5OkKabGwdcu"
@@ -541,7 +549,7 @@
       "url": "https://open.spotify.com/track/49rXRdCXdDvdXGQRpvuvoZ"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "No One Takes Me Down",
         "url": "https://open.spotify.com/album/1nvVBiIJJEp2fvfx78kdEK"
@@ -561,7 +569,7 @@
       "url": "https://open.spotify.com/track/1z1fjczM3nuXLBdJHt3WVp"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Garbage",
         "url": "https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ"
@@ -577,7 +585,7 @@
       "url": "https://open.spotify.com/track/56p0LzMVbPMQU4Gf5rsK8e"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "A New Beginning",
         "url": "https://open.spotify.com/album/3gYqA8Jt9Yi2xK76eDRiXa"
@@ -593,7 +601,7 @@
       "url": "https://open.spotify.com/track/1qB3FEc372Xpgdh6pP71z3"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Kua",
         "url": "https://open.spotify.com/album/0SsNWOTQmf6rUjoa6w9waM"
@@ -609,7 +617,7 @@
       "url": "https://open.spotify.com/track/7hUZJ8lupDInaXfbNLsdC8"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Outside World (Bart Skils & Weska Remix)",
         "url": "https://open.spotify.com/album/4rogCzyAHLJp4hYu6W4TKl"
@@ -633,7 +641,7 @@
       "url": "https://open.spotify.com/track/1hNuuUPJWU7c7gZCrNiMYs"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Dusk",
         "url": "https://open.spotify.com/album/4AlP7d5GNEl7h00l6XvkAo"
@@ -649,7 +657,7 @@
       "url": "https://open.spotify.com/track/6RAH1GzmFzMgEsNYxHwSyr"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Psytrance Illusions",
         "url": "https://open.spotify.com/album/39D8OJEixStOiwQAKolaSe"
@@ -665,7 +673,7 @@
       "url": "https://open.spotify.com/track/7cgc7LsayrPtYm732w24Nb"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Let The Mystery Be EP",
         "url": "https://open.spotify.com/album/5Ad9GU35famqDHUXkKm66K"
@@ -681,7 +689,7 @@
       "url": "https://open.spotify.com/track/4AzIEXbsTGHbEJzKEuSND5"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv"
@@ -697,7 +705,7 @@
       "url": "https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Killer Machine",
         "url": "https://open.spotify.com/album/5tbyLz98nz0uYmfgdSZnwu"
@@ -713,23 +721,7 @@
       "url": "https://open.spotify.com/track/6Y0s43nhtwwjhkbkMFOgE6"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
-      "album": {
-        "name": "Green Rework",
-        "url": "https://open.spotify.com/album/1qtJVVV0QmXTWzIv0FCif4"
-      },
-      "artists": [
-        {
-          "name": "Space Motion",
-          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
-        }
-      ],
-      "duration_ms": 433278,
-      "name": "Green Rework",
-      "url": "https://open.spotify.com/track/6dDHMXEY5Vm2yXakvnwALO"
-    },
-    {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Nidze",
         "url": "https://open.spotify.com/album/6FvRbxYYNGhiFaduk88vhi"
@@ -753,7 +745,7 @@
       "url": "https://open.spotify.com/track/6Yb1HE6Da4Z9UMhgVYXRbh"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Freie Sicht feat. Acud",
         "url": "https://open.spotify.com/album/0DFeLHLXOOW6jCUB77FUq0"
@@ -777,7 +769,7 @@
       "url": "https://open.spotify.com/track/5jjM09V3op14MffQeJeXAN"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Disconnect",
         "url": "https://open.spotify.com/album/7qeenvf8UtdEFN1bCB0Adc"
@@ -809,7 +801,7 @@
       "url": "https://open.spotify.com/track/0xjLPJViOccQ5EBKu7CsUz"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Impossible (&ME Remix)",
         "url": "https://open.spotify.com/album/4HmgIUcdgMfWDJYQdxhy6o"
@@ -833,7 +825,7 @@
       "url": "https://open.spotify.com/track/0TVcPTk3MMkT6WqkuatPSr"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Canc\u00fan",
         "url": "https://open.spotify.com/album/3iNNWsYTyOYjukDSczPikU"
@@ -849,7 +841,7 @@
       "url": "https://open.spotify.com/track/5Iu6g7iiycDv4m6ZEg2QC6"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Be One Wachaka",
         "url": "https://open.spotify.com/album/42TFcA37URBMWHAUniIJPM"
@@ -869,7 +861,7 @@
       "url": "https://open.spotify.com/track/66fPvJebZWxlDF5x3ZwcjK"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Radical Romantics",
         "url": "https://open.spotify.com/album/0GCoy0h2laaZlhKhnjjRpe"
@@ -885,7 +877,7 @@
       "url": "https://open.spotify.com/track/0A5JyxmjVbXpYjUEYZAYtL"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Universal Consciousness EP",
         "url": "https://open.spotify.com/album/4hLx8gxka0a3rYc2sBN3fQ"
@@ -901,7 +893,7 @@
       "url": "https://open.spotify.com/track/17SCJbXeu121LBiittnXTI"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Underwater",
         "url": "https://open.spotify.com/album/2d8RWfMRjbjRRHIlIif6k0"
@@ -925,7 +917,7 @@
       "url": "https://open.spotify.com/track/5X0Jg0pte4sHFIaSHa1sXL"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Racos",
         "url": "https://open.spotify.com/album/5PSU21vZRXiUoArUwTHKIf"
@@ -945,7 +937,59 @@
       "url": "https://open.spotify.com/track/5dRF9o0qHnXWcjwL01H7yj"
     },
     {
-      "added_at": "2024-06-20 22:01:00",
+      "added_at": "2024-07-29 14:18:04",
+      "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/1nbX5SpbInsusz0qYRcrr2"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Anfisa Letyago",
+          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
+        }
+      ],
+      "duration_ms": 170645,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/4mwYnQIIIQMZ2fv1bA1v9E"
+    },
+    {
+      "added_at": "2024-07-29 14:18:04",
+      "album": {
+        "name": "Bam Bam Bam",
+        "url": "https://open.spotify.com/album/4jHm21WJUVm9ti6jVCc8dc"
+      },
+      "artists": [
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "duration_ms": 325573,
+      "name": "Bam Bam Bam",
+      "url": "https://open.spotify.com/track/0CocMPzPz9t5bEQZI6sTH8"
+    },
+    {
+      "added_at": "2024-07-29 14:18:04",
+      "album": {
+        "name": "Sacred Chants of Shiva",
+        "url": "https://open.spotify.com/album/1YIp5NKAM9vdbt2uB4uai3"
+      },
+      "artists": [
+        {
+          "name": "Singers of the Art of Living",
+          "url": "https://open.spotify.com/artist/0yl2Dss8OxbolyTnWFqKbi"
+        }
+      ],
+      "duration_ms": 358093,
+      "name": "Shiva Manas Puja",
+      "url": "https://open.spotify.com/track/7spGN3NecAk8fm5CARxL0X"
+    },
+    {
+      "added_at": "2024-07-29 14:18:04",
       "album": {
         "name": "Holy Harmony",
         "url": "https://open.spotify.com/album/7yglOQYi1MFs7bBAY2OWXZ"
@@ -963,38 +1007,6 @@
       "duration_ms": 4320440,
       "name": "Holy Harmony",
       "url": "https://open.spotify.com/track/67iPIPYUDCW30vZ83lBR8J"
-    },
-    {
-      "added_at": "2024-06-20 22:01:00",
-      "album": {
-        "name": "Bam Bam Bam",
-        "url": "https://open.spotify.com/album/4jHm21WJUVm9ti6jVCc8dc"
-      },
-      "artists": [
-        {
-          "name": "Mha Iri",
-          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
-        }
-      ],
-      "duration_ms": 325573,
-      "name": "Bam Bam Bam",
-      "url": "https://open.spotify.com/track/0CocMPzPz9t5bEQZI6sTH8"
-    },
-    {
-      "added_at": "2024-06-20 22:01:00",
-      "album": {
-        "name": "Sacred Chants of Shiva",
-        "url": "https://open.spotify.com/album/1YIp5NKAM9vdbt2uB4uai3"
-      },
-      "artists": [
-        {
-          "name": "Singers of the Art of Living",
-          "url": "https://open.spotify.com/artist/0yl2Dss8OxbolyTnWFqKbi"
-        }
-      ],
-      "duration_ms": 358093,
-      "name": "Shiva Manas Puja",
-      "url": "https://open.spotify.com/track/7spGN3NecAk8fm5CARxL0X"
     }
   ],
   "unique_name": "Giorgia Angiuli's track IDs",

@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 663918,
+  "num_followers": 664060,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAAAssv75dIHGbzj6A5UY/YEN",
+  "snapshot_id": "ZqWKAAAAAABrA5QUszSGOZA4Pj0G0/Ck",
   "tracks": [
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 229280,
+      "name": "Open Your Heart",
+      "url": "https://open.spotify.com/track/3kme5Qos8h04yrKxsgur79"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
         "url": "https://open.spotify.com/album/6smIdnnGseiA4jiEcOjcic"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 250280,
       "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
       "url": "https://open.spotify.com/track/0pk1hxhJLBSZZ5RKBhcwOa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 229280,
-      "name": "Open Your Heart",
-      "url": "https://open.spotify.com/track/3kme5Qos8h04yrKxsgur79"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 280973,
-      "name": "Don't Tell Me",
-      "url": "https://open.spotify.com/track/23EhTCPRTlLVM6VQUyh8bH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -503,22 +487,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evita: The Complete Motion Picture Music Soundtrack",
-        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
+        "name": "Music",
+        "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
       },
       "artists": [
         {
           "name": "Madonna",
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Jonathan Pryce",
-          "url": "https://open.spotify.com/artist/26fxwQv5dbSx7ow4faauEh"
         }
       ],
-      "duration_ms": 84560,
-      "name": "Your Little Body's Slowly Breaking Down",
-      "url": "https://open.spotify.com/track/1qzb4SRSRvgp9xIgd6A135"
+      "duration_ms": 280973,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/23EhTCPRTlLVM6VQUyh8bH"
     },
     {
       "added_at": null,
@@ -543,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 273533,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/3afv9TL8ixr4T9VbiKnrwe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VULGAR (with Madonna)",
         "url": "https://open.spotify.com/album/2yKZrKET8g66x3bKPFfmTT"
       },
@@ -575,6 +539,42 @@
       "duration_ms": 155258,
       "name": "VULGAR (with Madonna)",
       "url": "https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evita: The Complete Motion Picture Music Soundtrack",
+        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Jonathan Pryce",
+          "url": "https://open.spotify.com/artist/26fxwQv5dbSx7ow4faauEh"
+        }
+      ],
+      "duration_ms": 84560,
+      "name": "Your Little Body's Slowly Breaking Down",
+      "url": "https://open.spotify.com/track/1qzb4SRSRvgp9xIgd6A135"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 273533,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/3afv9TL8ixr4T9VbiKnrwe"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 170840,
-      "name": "You Must Love Me",
-      "url": "https://open.spotify.com/track/78JPL7uIfs6Imm57r1QETk"
+      "duration_ms": 335733,
+      "name": "Don't Cry for Me Argentina",
+      "url": "https://open.spotify.com/track/0bLRXQaWzmSXRXPmP6JnEF"
     },
     {
       "added_at": null,
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 335733,
-      "name": "Don't Cry for Me Argentina",
-      "url": "https://open.spotify.com/track/0bLRXQaWzmSXRXPmP6JnEF"
+      "duration_ms": 170840,
+      "name": "You Must Love Me",
+      "url": "https://open.spotify.com/track/78JPL7uIfs6Imm57r1QETk"
     },
     {
       "added_at": null,

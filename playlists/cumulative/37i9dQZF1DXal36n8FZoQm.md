@@ -4,7 +4,7 @@
 
 > It's time to return to the dojo\. Listen to all the music from Cobra Kai, new season coming soon to Netflix.
 
-197 songs - 11 hr 44 min
+198 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Back In the Game](https://open.spotify.com/track/2XjeZEdPK7Qo66Z7ONp854) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Black Dog Barking \(Special Edition\)](https://open.spotify.com/album/2ByV33s2Y1uJRAooa8ivrn) | 3:25 | 2022-01-07 | 2024-04-19 |
 | [Back In The Game](https://open.spotify.com/track/5S5GRSDNdEPjNjj07gORMf) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Black Dog Barking \(Special Edition\)](https://open.spotify.com/album/4ulIP4JbW6KegM8KNC02k5) | 3:25 | 2022-01-07 | 2024-07-19 |
 | [Back In the Game](https://open.spotify.com/track/7nXOn8lKqoN2bP35LfgIgL) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Black Dog Barking](https://open.spotify.com/album/6AbeBnRjJOIQNojzrU4NMA) | 3:25 | 2022-01-07 | 2022-11-13 |
+| [Battle of Brothers](https://open.spotify.com/track/07bYFZV8asMZqzgVdo2Ev3) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 6, Part 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/3FCqUcqiJXJbhHCKIkxh3o) | 5:03 | 2024-07-29 |  |
 | [Believe in Yourself](https://open.spotify.com/track/0YVhUwdbwzGu9RVWRUQaWF) | [REMMI](https://open.spotify.com/artist/14eQOEJwQwEFzqlaXuSMjf) | [Believe in Yourself](https://open.spotify.com/album/1vD3R2jh5gGq3GP9jQkbKs) | 3:08 | 2022-01-07 | 2024-07-19 |
 | [Better Off This Way](https://open.spotify.com/track/4J0J5yU0fmbsOwF1Rophkp) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:11 | 2024-07-17 |  |
 | [Bigger](https://open.spotify.com/track/3GUMnKnOBMnjJP0d9Sc6A7) | [Steven Cooper](https://open.spotify.com/artist/4qFYJ5Gbp4DpskZDJ7LtAa), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Life & Love](https://open.spotify.com/album/5z3jT6EbMUQnS4Arl7LRVc) | 3:15 | 2022-01-07 | 2024-07-19 |

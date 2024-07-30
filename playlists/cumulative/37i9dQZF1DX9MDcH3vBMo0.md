@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-764 songs - 1 day 9 hr 15 min
+766 songs - 1 day 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Autumn Song](https://open.spotify.com/track/5D1S7lI0guR6YcGcKjtNbq) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Autumn Song](https://open.spotify.com/album/3wWlrBCF10tWs73IQIUnJA) | 2:30 | 2023-11-13 |  |
 | [Avalanche](https://open.spotify.com/track/1kQFxgqG3KcKErQlvH66lz) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Avalanche](https://open.spotify.com/album/0VG2I88bspS6L3rgcTC3Dm) | 2:16 | 2022-04-21 | 2023-05-04 |
 | [Avignon](https://open.spotify.com/track/5TAVI2qJFJMSsfR3qB5Bub) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Avignon](https://open.spotify.com/album/6y7OWImxz4xSyspxzKsLvl) | 2:43 | 2023-09-11 |  |
+| [Aún Te Veo](https://open.spotify.com/track/3fB2azt4qGQTs2KbSsEmjH) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Aún Te Veo](https://open.spotify.com/album/5ZG2B564RbdcYWLEjheU77) | 2:30 | 2024-07-29 |  |
 | [Ática](https://open.spotify.com/track/07g8nWc95mnGgPfRlRq075) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Ática](https://open.spotify.com/album/2UEDt340ibuHflO6Hd2ZEs) | 2:29 | 2022-04-21 | 2023-10-03 |
 | [Balett](https://open.spotify.com/track/5akA0ZrfTGKwyjtHc4fr0p) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Papillon](https://open.spotify.com/album/4efBGcJ0YfvTrZvvKFEJj6) | 4:38 | 2022-04-21 | 2022-07-20 |
 | [Ballerina Light](https://open.spotify.com/track/5Eq3qZckwqaLZq2yEsUAvU) | [Ingemar Aberg](https://open.spotify.com/artist/7qA4SXXE0nQFNPN2qLmT4H) | [Ballerina Light](https://open.spotify.com/album/1E1NYgXEpG8vZWzJl7Y3Mh) | 2:41 | 2022-04-21 | 2022-09-24 |
@@ -570,6 +571,7 @@
 | [Serre moi](https://open.spotify.com/track/2J2YbfMi4b49wVRM0lA2Jt) | [Mainfred Arthur](https://open.spotify.com/artist/5VoUklN2MckOEW7KeF3H4P) | [Serre moi](https://open.spotify.com/album/6hZux9ZZSBKeTAgbtFvmM9) | 2:25 | 2022-04-21 | 2024-04-04 |
 | [Settle Down In Somewhere](https://open.spotify.com/track/1e8NCyJxZaMd1XNZhKO9ez) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Settle Down In Somewhere](https://open.spotify.com/album/3nVJWV34H2s7zigZIZnxTr) | 2:37 | 2022-04-21 | 2023-10-03 |
 | [Seuls ensemble](https://open.spotify.com/track/5r0ag6p51d3VOF8rVaL09E) | [Jean\-Marie Daviau](https://open.spotify.com/artist/4LsnrByAb2moZP6XcRHA8e) | [Seuls ensemble](https://open.spotify.com/album/1C7WhYl4YSRxMtEZSOE4tH) | 2:11 | 2022-04-21 | 2023-07-04 |
+| [Shade of Honey](https://open.spotify.com/track/1RYJqZKLckqbTDLTyoOG1g) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Shade of Honey](https://open.spotify.com/album/39a7DwC1KypXA1B4890uvr) | 2:47 | 2024-07-29 |  |
 | [Shadow Lake](https://open.spotify.com/track/670ju7vreYMZdh22AfhQ9N) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Shadow Lake](https://open.spotify.com/album/5ERM8QWfXBDp2ohI01V0Xz) | 2:31 | 2023-12-18 | 2024-02-03 |
 | [Shadows](https://open.spotify.com/track/2OQmujYu7g2xFB61Syic6X) | [Mark Pike](https://open.spotify.com/artist/5tgpewfGPEl1Xt7ZfpL0rU) | [Shadows](https://open.spotify.com/album/6euODh2yNm4Jkt8mej5RHF) | 4:12 | 2022-04-21 | 2022-07-21 |
 | [Shapes of Shadows](https://open.spotify.com/track/2UxUFKb6Fo7zxrjQVNXEGz) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Shapes of Shadows](https://open.spotify.com/album/0qxvEI2Shp9ezZIzth2Jpg) | 3:26 | 2022-07-20 | 2024-03-19 |

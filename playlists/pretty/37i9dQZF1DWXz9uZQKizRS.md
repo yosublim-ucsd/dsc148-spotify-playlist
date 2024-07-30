@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Igor Herbut, Dawid Tyszkowski
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,042 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,044 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Latem](https://open.spotify.com/track/04aFFKwZDaOMSNZRxeq7H2) | [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX), [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Latem](https://open.spotify.com/album/4gZuMSy6Nl72X2FvTClO3B) | 4:53 |
-| 2 | [Można](https://open.spotify.com/track/52vC20FdPjQTcENZuUCy4C) | [Nosowska](https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul), [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4) | [Można](https://open.spotify.com/album/5kk3OcTyltZF9aeUa3H5Ah) | 4:00 |
-| 3 | [Sierpień](https://open.spotify.com/track/0tH24ae0FBxOucvo21QW01) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [WAWA](https://open.spotify.com/album/1FaiUUAQ26t9Xrv0ItyiLV) | 3:16 |
-| 4 | [Poproszę więcej siebie](https://open.spotify.com/track/53LjYUbwHKVBxyqsMYVLTG) | [Kwiat Jabłoni](https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB) | [Poproszę więcej siebie](https://open.spotify.com/album/5n2dZDqOQYSuLcbhuRevhF) | 3:09 |
-| 5 | [epicentrum](https://open.spotify.com/track/2gCNm0DrdB0kbhFSfGsC0O) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [epicentrum](https://open.spotify.com/album/5Nnjs9uBxHkRpn3t2yn5my) | 2:19 |
-| 6 | [my](https://open.spotify.com/track/19dHt2hh8aaWNCDC3ReLZY) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [my](https://open.spotify.com/album/19GsnIluYB9d42QHswzfej) | 3:36 |
-| 7 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 |
-| 8 | [Niebo](https://open.spotify.com/track/1v5ABm7hr2XBx9RButUtJh) | [Galecki](https://open.spotify.com/artist/3IK9XKgPI53fY6E48Oi5S4) | [Niebo](https://open.spotify.com/album/1eQB1O1BbF5eZhvuKPKKpB) | 3:34 |
-| 9 | [Wolne duchy](https://open.spotify.com/track/3eNAqHexMFGCvtzaMwkjEH) | [Męskie Granie Orkiestra](https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG), [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X) | [Wolne duchy \(feat\. Daria Zawiałow, Mrozu & Kacperczyk\)](https://open.spotify.com/album/3TNtZ6k211KiaNhldNtGie) | 3:05 |
-| 10 | [NIGDY NIE ZAKOCHAM SIĘ](https://open.spotify.com/track/3YUc20JqdQyeMYPCshA6AG) | [Ofelia](https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX) | [NIGDY NIE ZAKOCHAM SIĘ](https://open.spotify.com/album/5cc2v2DnjLnKzWT3p8ISqR) | 3:44 |
+| 1 | [Można](https://open.spotify.com/track/52vC20FdPjQTcENZuUCy4C) | [Nosowska](https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul), [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4) | [Można](https://open.spotify.com/album/5kk3OcTyltZF9aeUa3H5Ah) | 4:00 |
+| 2 | [my](https://open.spotify.com/track/19dHt2hh8aaWNCDC3ReLZY) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [my](https://open.spotify.com/album/19GsnIluYB9d42QHswzfej) | 3:36 |
+| 3 | [Poproszę więcej siebie](https://open.spotify.com/track/53LjYUbwHKVBxyqsMYVLTG) | [Kwiat Jabłoni](https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB) | [Poproszę więcej siebie](https://open.spotify.com/album/5n2dZDqOQYSuLcbhuRevhF) | 3:09 |
+| 4 | [Latem](https://open.spotify.com/track/04aFFKwZDaOMSNZRxeq7H2) | [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX), [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Latem](https://open.spotify.com/album/4gZuMSy6Nl72X2FvTClO3B) | 4:53 |
+| 5 | [Sierpień](https://open.spotify.com/track/0tH24ae0FBxOucvo21QW01) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [WAWA](https://open.spotify.com/album/1FaiUUAQ26t9Xrv0ItyiLV) | 3:16 |
+| 6 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 |
+| 7 | [NIGDY NIE ZAKOCHAM SIĘ](https://open.spotify.com/track/3YUc20JqdQyeMYPCshA6AG) | [Ofelia](https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX) | [NIGDY NIE ZAKOCHAM SIĘ](https://open.spotify.com/album/5cc2v2DnjLnKzWT3p8ISqR) | 3:44 |
+| 8 | [epicentrum](https://open.spotify.com/track/2gCNm0DrdB0kbhFSfGsC0O) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [epicentrum](https://open.spotify.com/album/5Nnjs9uBxHkRpn3t2yn5my) | 2:19 |
+| 9 | [Niebo](https://open.spotify.com/track/1v5ABm7hr2XBx9RButUtJh) | [Galecki](https://open.spotify.com/artist/3IK9XKgPI53fY6E48Oi5S4) | [Niebo](https://open.spotify.com/album/1eQB1O1BbF5eZhvuKPKKpB) | 3:34 |
+| 10 | [Wolne duchy](https://open.spotify.com/track/3eNAqHexMFGCvtzaMwkjEH) | [Męskie Granie Orkiestra](https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG), [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X) | [Wolne duchy \(feat\. Daria Zawiałow, Mrozu & Kacperczyk\)](https://open.spotify.com/album/3TNtZ6k211KiaNhldNtGie) | 3:05 |
 | 11 | [Masz czas](https://open.spotify.com/track/33stdwj6XPzeZnWAU8rpGI) | [Happysad](https://open.spotify.com/artist/4NkE5k5xSRm6eVE7vMhqD6) | [Masz czas](https://open.spotify.com/album/3Il2nxIPCyu26bdGr8Y2aC) | 3:10 |
 | 12 | [nanana \- z filmu „Drużyna A\(A\)”](https://open.spotify.com/track/2QWniP8acBEmDa3nkdBOMw) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [nanana \- z filmu „Drużyna A\(A\)”](https://open.spotify.com/album/6hyWOn14ZqwVZbqlQpgi8O) | 2:08 |
 | 13 | [BIAŁY BEZ](https://open.spotify.com/track/5y2S26rk7wsJffWji7MUIp) | [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [Chloe Martini](https://open.spotify.com/artist/6vhgsnZ2dLDaLDog3pqP2d), [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [NIE CIERPIE NIE](https://open.spotify.com/album/02e0lE7f2bukYoOJWwBSPT) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 99 | [Peron](https://open.spotify.com/track/4nDKB41PC9p4atL5KD8wLI) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [PROJEKT WOW](https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms) | [Peron](https://open.spotify.com/album/3Ql2LGYrdsMpxsaLG33SlK) | 2:46 |
 | 100 | [Po kościach](https://open.spotify.com/track/6U9m9iSlQrTkS95HOx9jJk) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx), [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Po kościach](https://open.spotify.com/album/44ic9Cal3asmquP07OOQDz) | 3:47 |
 
-Snapshot ID: `ZqLK4AAAAABXU33vx9gm2es0nxUnw9cB`
+Snapshot ID: `ZqeNBgAAAAAYPjbUVualyUWSFHtFmAU5`

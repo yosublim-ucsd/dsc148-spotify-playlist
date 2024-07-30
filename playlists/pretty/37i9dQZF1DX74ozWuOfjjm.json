@@ -1,13 +1,29 @@
 {
   "description": "Listen to women at full volume. Cover: Wafia",
-  "num_followers": 45260,
+  "num_followers": 45256,
   "original_name": "EQUAL AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zp8qwAAAAAA1qshafC+UJwwiobPnm7Sx",
+  "snapshot_id": "ZqegYAAAAAC1jigR32AYHuPi3rb/8yYv",
   "tracks": [
+    {
+      "added_at": "2024-07-23 04:00:00",
+      "album": {
+        "name": "Won't Hold My Breath",
+        "url": "https://open.spotify.com/album/6ATPgYP2TcaHNDq2Od6WCs"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Hass",
+          "url": "https://open.spotify.com/artist/1ngeTsUw6Wo2W4TTgTSCcC"
+        }
+      ],
+      "duration_ms": 166421,
+      "name": "Won't Hold My Breath",
+      "url": "https://open.spotify.com/track/5UK487suwwzt6dLCeSGlIa"
+    },
     {
       "added_at": "2024-07-23 04:00:00",
       "album": {
@@ -27,18 +43,82 @@
     {
       "added_at": "2024-07-23 04:00:00",
       "album": {
-        "name": "Won't Hold My Breath",
-        "url": "https://open.spotify.com/album/6ATPgYP2TcaHNDq2Od6WCs"
+        "name": "A Complicated Truth",
+        "url": "https://open.spotify.com/album/3m7GBpcTbTX4Oamc6oeHsj"
       },
       "artists": [
         {
-          "name": "Yasmin Hass",
-          "url": "https://open.spotify.com/artist/1ngeTsUw6Wo2W4TTgTSCcC"
+          "name": "Missy Higgins",
+          "url": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
         }
       ],
-      "duration_ms": 166421,
-      "name": "Won't Hold My Breath",
-      "url": "https://open.spotify.com/track/5UK487suwwzt6dLCeSGlIa"
+      "duration_ms": 305320,
+      "name": "A Complicated Truth",
+      "url": "https://open.spotify.com/track/7liP5U5gYOIb1yjjpP30dZ"
+    },
+    {
+      "added_at": "2024-07-29 14:00:00",
+      "album": {
+        "name": "Nobody's Baby",
+        "url": "https://open.spotify.com/album/6AyXzG3yU8Xm9IFYS15Fdu"
+      },
+      "artists": [
+        {
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+        }
+      ],
+      "duration_ms": 155322,
+      "name": "Nobody's Baby",
+      "url": "https://open.spotify.com/track/1Hb6xEZ9eEmalnpNoPTwcc"
+    },
+    {
+      "added_at": "2024-07-29 14:00:00",
+      "album": {
+        "name": "Just Like North",
+        "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 184334,
+      "name": "Just Like North",
+      "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
+    },
+    {
+      "added_at": "2024-07-23 04:00:00",
+      "album": {
+        "name": "Pinwheel",
+        "url": "https://open.spotify.com/album/0nXwkcJewtE7JVH15XGYnj"
+      },
+      "artists": [
+        {
+          "name": "Harper Bloom",
+          "url": "https://open.spotify.com/artist/57SMUbet36EnQb3LBuXWtV"
+        }
+      ],
+      "duration_ms": 144833,
+      "name": "Pinwheel",
+      "url": "https://open.spotify.com/track/7aReVO6Kj9EpdsO2rU8qKl"
+    },
+    {
+      "added_at": "2024-07-29 14:00:00",
+      "album": {
+        "name": "WHY DO YOU HATE ME?",
+        "url": "https://open.spotify.com/album/1JUucwGCSxaYw87tnPXtSy"
+      },
+      "artists": [
+        {
+          "name": "RARIA",
+          "url": "https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY"
+        }
+      ],
+      "duration_ms": 132310,
+      "name": "WHY DO YOU HATE ME?",
+      "url": "https://open.spotify.com/track/4zuEIiREfhd0nWrWKUkwmz"
     },
     {
       "added_at": "2024-07-23 04:00:00",
@@ -111,38 +191,6 @@
     {
       "added_at": "2024-07-23 04:00:00",
       "album": {
-        "name": "A Complicated Truth",
-        "url": "https://open.spotify.com/album/3m7GBpcTbTX4Oamc6oeHsj"
-      },
-      "artists": [
-        {
-          "name": "Missy Higgins",
-          "url": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
-        }
-      ],
-      "duration_ms": 305320,
-      "name": "A Complicated Truth",
-      "url": "https://open.spotify.com/track/7liP5U5gYOIb1yjjpP30dZ"
-    },
-    {
-      "added_at": "2024-07-23 04:00:00",
-      "album": {
-        "name": "Pinwheel",
-        "url": "https://open.spotify.com/album/0nXwkcJewtE7JVH15XGYnj"
-      },
-      "artists": [
-        {
-          "name": "Harper Bloom",
-          "url": "https://open.spotify.com/artist/57SMUbet36EnQb3LBuXWtV"
-        }
-      ],
-      "duration_ms": 144833,
-      "name": "Pinwheel",
-      "url": "https://open.spotify.com/track/7aReVO6Kj9EpdsO2rU8qKl"
-    },
-    {
-      "added_at": "2024-07-23 04:00:00",
-      "album": {
         "name": "Discoth\u00e8que Inside My Head",
         "url": "https://open.spotify.com/album/7f7H6iXK3osVKuBxLG7lpA"
       },
@@ -187,6 +235,38 @@
       "duration_ms": 194933,
       "name": "East Coast",
       "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
+    },
+    {
+      "added_at": "2024-07-29 14:00:00",
+      "album": {
+        "name": "Two Friends",
+        "url": "https://open.spotify.com/album/3AyO9wJl2IB3PRZSX2Mogs"
+      },
+      "artists": [
+        {
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "Two Friends",
+      "url": "https://open.spotify.com/track/7KqNayeKNptUTwqL57uvBd"
+    },
+    {
+      "added_at": "2024-07-29 14:00:00",
+      "album": {
+        "name": "Deep Sea Creatures",
+        "url": "https://open.spotify.com/album/6gleG0hAiXn4q0YANq7xLE"
+      },
+      "artists": [
+        {
+          "name": "Sophie May",
+          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
+        }
+      ],
+      "duration_ms": 194535,
+      "name": "Marianne",
+      "url": "https://open.spotify.com/track/1Z8YRF5YY06FOnA6Oiwpaa"
     },
     {
       "added_at": "2024-07-23 04:00:00",
@@ -1075,22 +1155,6 @@
     {
       "added_at": "2024-07-23 04:00:00",
       "album": {
-        "name": "Loving Me Lover",
-        "url": "https://open.spotify.com/album/0AleWkO3Bq3IfF5WxtCyKZ"
-      },
-      "artists": [
-        {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
-        }
-      ],
-      "duration_ms": 202261,
-      "name": "Loving Me Lover",
-      "url": "https://open.spotify.com/track/1ssaRxZU0QoRFIgrHEVDqr"
-    },
-    {
-      "added_at": "2024-07-23 04:00:00",
-      "album": {
         "name": "Personal",
         "url": "https://open.spotify.com/album/4GkPkDIQWAuBpAjvswA9uB"
       },
@@ -1179,22 +1243,6 @@
     {
       "added_at": "2024-07-23 04:00:00",
       "album": {
-        "name": "Shapeshifter",
-        "url": "https://open.spotify.com/album/0mfYRLKHbGtozSzkKMmUol"
-      },
-      "artists": [
-        {
-          "name": "CXLOE",
-          "url": "https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R"
-        }
-      ],
-      "duration_ms": 146383,
-      "name": "Shapeshifter",
-      "url": "https://open.spotify.com/track/5bmGMXvdLlUdLp0qYauHcC"
-    },
-    {
-      "added_at": "2024-07-23 04:00:00",
-      "album": {
         "name": "Take Me to the River",
         "url": "https://open.spotify.com/album/2uZazZt5CXCpf5KPzSzh2V"
       },
@@ -1207,22 +1255,6 @@
       "duration_ms": 264066,
       "name": "Take Me to the River",
       "url": "https://open.spotify.com/track/5vmYMS6FR2b7J57OG0Cscl"
-    },
-    {
-      "added_at": "2024-07-23 04:00:00",
-      "album": {
-        "name": "Talk Of The Town",
-        "url": "https://open.spotify.com/album/2KRWlyZxV4PFVaJBdqmQ20"
-      },
-      "artists": [
-        {
-          "name": "JessB",
-          "url": "https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Talk Of The Town",
-      "url": "https://open.spotify.com/track/4jsJN2XFzPnXDtK781zHNT"
     },
     {
       "added_at": "2024-07-23 04:00:00",
@@ -1459,26 +1491,6 @@
     {
       "added_at": "2024-07-23 04:00:00",
       "album": {
-        "name": "All Night (feat. LAUREL)",
-        "url": "https://open.spotify.com/album/5oIHA8IYx2koRMMzifLCaV"
-      },
-      "artists": [
-        {
-          "name": "Kita Alexander",
-          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
-        },
-        {
-          "name": "LAUREL",
-          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
-        }
-      ],
-      "duration_ms": 170955,
-      "name": "All Night (feat. LAUREL)",
-      "url": "https://open.spotify.com/track/70YNlheifxJIlRKnS9G5be"
-    },
-    {
-      "added_at": "2024-07-23 04:00:00",
-      "album": {
         "name": "Forget You",
         "url": "https://open.spotify.com/album/2IZUTQgdCkWtazXjExCJ09"
       },
@@ -1627,22 +1639,6 @@
       "duration_ms": 210381,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/5EeqvDL2BckMvhbNtOEHAh"
-    },
-    {
-      "added_at": "2024-07-23 04:00:00",
-      "album": {
-        "name": "dead end kids",
-        "url": "https://open.spotify.com/album/1teNbZLz3PUefD4NXLocTl"
-      },
-      "artists": [
-        {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
-        }
-      ],
-      "duration_ms": 197993,
-      "name": "dead end kids",
-      "url": "https://open.spotify.com/track/54w5kOv00WeffHtdNs6Ut4"
     },
     {
       "added_at": "2024-07-23 04:00:00",

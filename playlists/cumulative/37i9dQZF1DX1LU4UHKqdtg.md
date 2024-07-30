@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ＆TEAM
 
-1,132 songs - 2 day 13 hr 5 min
+1,133 songs - 2 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1084,6 +1084,7 @@
 | [Yellow Gang](https://open.spotify.com/track/5QBrOei7ufS1YKeDCj1z2g) | [Ash\-B](https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Yellow Gang](https://open.spotify.com/album/5GbM16ZUU3LKQrJpwXnAPH) | 2:27 | 2022-04-05 | 2022-06-29 |
 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 | 2023-02-14 | 2023-07-19 |
 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-10 | 2022-09-21 |
+| [You](https://open.spotify.com/track/6MfWIdV9e9vu3V34L225B5) | [JINJIN \(ASTRO\)](https://open.spotify.com/artist/3U8ZnKIeY7sgQkIHjQDlHA) | [JIN LAB Project 4\. \[You\]](https://open.spotify.com/album/4dvlOLOSqR0oOW1bNtXZDb) | 3:18 | 2024-07-29 |  |
 | [You & Me \(Coachella ver.\)](https://open.spotify.com/track/0Vz146N2GxkVJw4kSGXrNi) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 | 2023-10-06 | 2023-12-22 |
 | [You Problem](https://open.spotify.com/track/2rCPeuzBY9NEX9VNshkjmH) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm) | 3:19 | 2021-12-23 | 2022-03-02 |
 | [YOU+ME=7942](https://open.spotify.com/track/5E2aYgi77oSMJ5dGzAbLpc) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 2nd Mini Album 'SUMMER BEAT!'](https://open.spotify.com/album/03QRqvvQFLDaJM711Gkn03) | 2:22 | 2024-06-28 |  |

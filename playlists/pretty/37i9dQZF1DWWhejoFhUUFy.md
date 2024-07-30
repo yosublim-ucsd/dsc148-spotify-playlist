@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,635 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,652 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 71 | [Yeh Jaane Kaisa Raaz Hai](https://open.spotify.com/track/3oOS9fuJ4tfu533xytOGLt) | [Farhan Akhtar](https://open.spotify.com/artist/0XL6ie7a0NY5FM05b9Rn5L) | [Zindagi Na Milegi Dobara](https://open.spotify.com/album/6Baavsh6HfNka1IyvPrr24) | 1:17 |
 | 72 | [Zaroori Nahi](https://open.spotify.com/track/12O0B3JWQMQH94BKLqMHcv) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Dhun](https://open.spotify.com/album/4WogXQVX9nOrjbaTzFXnGN) | 2:19 |
 | 73 | [Tu Kahaan \- 1 Min Music](https://open.spotify.com/track/1CPhllOfBgOtTTDe05tSEw) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) | [Tu Kahaan \(1 Min Music\)](https://open.spotify.com/album/5QdhLeikSse9wFEokUM2Gw) | 1:00 |
-| 74 | [Qareeb](https://open.spotify.com/track/4x8yhZPbOuqJ2PLg4QmrL0) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II), [Shayan Rashid](https://open.spotify.com/artist/1ikVRNcb5keuzlwiP8mJbb) | [Qareeb](https://open.spotify.com/album/6mcoV5gev8Ol1wHu6mDO1o) | 2:30 |
-| 75 | [Tum Jaise Ho](https://open.spotify.com/track/7ofq7AcSmMCB2fKpj1iDoo) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Tum Jaise Ho](https://open.spotify.com/album/40CMf6LyJR9XT0gaUuQdX0) | 4:10 |
+| 74 | [Tum Jaise Ho](https://open.spotify.com/track/7ofq7AcSmMCB2fKpj1iDoo) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Tum Jaise Ho](https://open.spotify.com/album/40CMf6LyJR9XT0gaUuQdX0) | 4:10 |
+| 75 | [Qareeb](https://open.spotify.com/track/4x8yhZPbOuqJ2PLg4QmrL0) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II), [Shayan Rashid](https://open.spotify.com/artist/1ikVRNcb5keuzlwiP8mJbb) | [Qareeb](https://open.spotify.com/album/6mcoV5gev8Ol1wHu6mDO1o) | 2:30 |
 
 Snapshot ID: `ZpTRpwAAAACPes+6ZRUGwVQTKVpCDUmO`

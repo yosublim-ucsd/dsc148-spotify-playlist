@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Q´ Lokura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,544 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,575 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 45 | [Olvidarte de Mi Jamas Podras](https://open.spotify.com/track/7iSjpEVClrTJ490HArIKny) | [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo), [Taweno](https://open.spotify.com/artist/2KVjU9zRtlHYjglHWKMyez), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Olvidarte de Mi Jamas Podras](https://open.spotify.com/album/6vjNYZjE6MCDbEGSQM4mwF) | 3:13 |
 | 46 | [Mi Cama No Habla](https://open.spotify.com/track/6wcnesWi7KJsghP4vP2fDb) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Te Suena?](https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK) | 3:29 |
 | 47 | [Te hubieras ido antes](https://open.spotify.com/track/0UFblMYjI2whiXqupAz4gF) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [En la piel](https://open.spotify.com/album/6atk3EZyEKZF03JBdTeRVQ) | 5:10 |
-| 48 | [Fina](https://open.spotify.com/track/1bJFcb4w9JpTni9JhLR3nC) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Revolución](https://open.spotify.com/album/6y0PhvJMN0XRm3agpOIflg) | 2:42 |
-| 49 | [Despechada \(Cover\) \- En Vivo](https://open.spotify.com/track/1487Hvk6G70cTk3LcD4zZP) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Despechada \(Cover\) \[En Vivo\]](https://open.spotify.com/album/7uXNegW0zpr5lrRo9YNiOl) | 2:52 |
+| 48 | [Despechada \(Cover\) \- En Vivo](https://open.spotify.com/track/1487Hvk6G70cTk3LcD4zZP) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Despechada \(Cover\) \[En Vivo\]](https://open.spotify.com/album/7uXNegW0zpr5lrRo9YNiOl) | 2:52 |
+| 49 | [Fina](https://open.spotify.com/track/1bJFcb4w9JpTni9JhLR3nC) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Revolución](https://open.spotify.com/album/6y0PhvJMN0XRm3agpOIflg) | 2:42 |
 | 50 | [Soy Cordobes](https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:02 |
 | 51 | [Ramito de violetas](https://open.spotify.com/track/4sVEoWwh0kjipzZ9UGvSz9) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Sergio Oliva and Freddy Zavaley](https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC) | [Bien Ahí !](https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B) | 5:31 |
 | 52 | [Piensa en Mí \(En Vivo\)](https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Tu Amante En Secreto](https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ) | 3:44 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 69 | [Anti Amor](https://open.spotify.com/track/3XnGmGMsZKUUslNt2Nr0V4) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [Anti Amor](https://open.spotify.com/album/4Ak5qyIHTsPMDAgNeWIA5C) | 3:00 |
 | 70 | [Beso a beso](https://open.spotify.com/track/0vV3UvotpuHNC3mmKbUpSS) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Hugh Padgham](https://open.spotify.com/artist/2tFojFgpu9xoQ04HsTZMDl), [Sergio Oliva](https://open.spotify.com/artist/7sgBCRIyPmIsvElpnK4QMM) | [Beso a Beso \(con La Mona\)](https://open.spotify.com/album/4fvkyGJYsQKr4jzWg3xhok) | 5:03 |
 | 71 | [La Pupera](https://open.spotify.com/track/3HQBrVgetHZaR3Avz2Z0a5) | [La Mona Jimenez / los caligaris](https://open.spotify.com/artist/7HEznwudX95hTcdrRYizZf) | [La Pupera](https://open.spotify.com/album/4mzV7a4BD2u2ektjbPkG7U) | 2:28 |
-| 72 | [Muero \(feat\. Eugenia Quevedo\)](https://open.spotify.com/track/29MFesnqGPh4zA66sViKt9) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Muero \(feat\. Eugenia Quevedo\)](https://open.spotify.com/album/1sw7RzeT2J98lbW73sjxcS) | 4:24 |
-| 73 | [Luna](https://open.spotify.com/track/2OuHEXGwys30H9dKO6Lbeu) | [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ) | [Luna](https://open.spotify.com/album/0kvSSwYnvisc11aKzslkHC) | 2:32 |
+| 72 | [Luna](https://open.spotify.com/track/2OuHEXGwys30H9dKO6Lbeu) | [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ) | [Luna](https://open.spotify.com/album/0kvSSwYnvisc11aKzslkHC) | 2:32 |
+| 73 | [Muero \(feat\. Eugenia Quevedo\)](https://open.spotify.com/track/29MFesnqGPh4zA66sViKt9) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Muero \(feat\. Eugenia Quevedo\)](https://open.spotify.com/album/1sw7RzeT2J98lbW73sjxcS) | 4:24 |
 | 74 | [Somos lo Que Fuimos \- Remix](https://open.spotify.com/track/1NMLQOcIXPRwYXh9P8BycF) | [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Somos lo Que Fuimos \(Remix\)](https://open.spotify.com/album/3qqA25D7Ml4EywTyEJMVCx) | 3:53 |
 | 75 | [Dejame Intentar](https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Dejame Intentar](https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC) | 2:01 |
 | 76 | [Loca de Amor \- Vestido Azul](https://open.spotify.com/track/3GdmO5bwrMkfitfcOS3MZv) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Loca de Amor \- Vestido Azul](https://open.spotify.com/album/38iP1WBkUkBCLK1pwedSlk) | 6:06 |

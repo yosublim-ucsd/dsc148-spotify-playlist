@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAACCJwN463YUq3lSMdI2BmKF",
+  "snapshot_id": "ZqWKAAAAAACMXf8ypy2pKhdqi+OPbkQG",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Things Will Matter",
-        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
+        "name": "Things Will Matter (Redux)",
+        "url": "https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 252253,
-      "name": "Black Mire",
-      "url": "https://open.spotify.com/track/41TpGLxHszelYWCBZklrsJ"
+      "duration_ms": 233000,
+      "name": "Radar - Redux",
+      "url": "https://open.spotify.com/track/2hq4lskxMTho1REmBrGLmG"
     },
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Things Will Matter (Redux)",
-        "url": "https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm"
+        "name": "Things Will Matter",
+        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Radar - Redux",
-      "url": "https://open.spotify.com/track/2hq4lskxMTho1REmBrGLmG"
+      "duration_ms": 252253,
+      "name": "Black Mire",
+      "url": "https://open.spotify.com/track/41TpGLxHszelYWCBZklrsJ"
     },
     {
       "added_at": null,

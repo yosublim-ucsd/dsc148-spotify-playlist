@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-186 songs - 11 hr 57 min
+187 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,8 +41,9 @@
 | [Cry](https://open.spotify.com/track/5lrF6CM7EclW9KFIkGVycm) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Friday's Child \(Bonus Tracks\)](https://open.spotify.com/album/7EatTXBEeO444ceZAAH7pw) | 4:22 | 2022-07-24 |  |
 | [Daydreaming](https://open.spotify.com/track/5WS84S6J67LJT8tHyE7otp) | [Alice Wondering](https://open.spotify.com/artist/2fz7bKNbqtzbbNN0slkUBp) | [Daydreaming](https://open.spotify.com/album/3EJfRbY1iKcv8oqG1BglzY) | 4:35 | 2022-08-28 |  |
 | [Don't Let Me Down](https://open.spotify.com/track/17my6iBMd8qwYN2AZkTM5B) | [PJ & Duncan](https://open.spotify.com/artist/6x9DlX8BIJFFXMLScv0KDB), [Ant & Dec](https://open.spotify.com/artist/2gmeFH5Iz8UEA7K0OHDePQ) | [B Sides](https://open.spotify.com/album/6t4FKATeqkOSX5p6CKz7gX) | 4:17 | 2021-12-27 |  |
-| [Don't Let Me Down](https://open.spotify.com/track/22ZpKYkR6pgBpNvAJAVtja) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [The Essential](https://open.spotify.com/album/5Wg92LM7Y8ITdVpT72qQ1k) | 4:46 | 2022-07-24 |  |
+| [Don't Let Me Down](https://open.spotify.com/track/22ZpKYkR6pgBpNvAJAVtja) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [The Essential](https://open.spotify.com/album/5Wg92LM7Y8ITdVpT72qQ1k) | 4:46 | 2022-07-24 | 2024-07-30 |
 | [Don't Let Me Down](https://open.spotify.com/track/4mqnkUBTnxKbnzTzA1FXRJ) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [The Essential Will Young](https://open.spotify.com/album/5xcTzzjzn4mpmVpsNMuuC8) | 4:46 | 2021-12-27 | 2022-07-25 |
+| [Don't Let Me Down](https://open.spotify.com/track/6AHLNk8luePtX6bUjA3hEW) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [From Now On \(Bonus Tracks\)](https://open.spotify.com/album/6CikpwBZ9d6duiV4Tu3yMs) | 4:46 | 2024-07-29 |  |
 | [Don't Let Me Go](https://open.spotify.com/track/7Gmfbj4VEinMWqLCKdbxeD) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [World of Our Own \(Expanded Edition\)](https://open.spotify.com/album/5FECTGZ9UdITzeo7o0AhUZ) | 3:28 | 2021-12-27 |  |
 | [Don't Wanna Let You Go](https://open.spotify.com/track/4r1WgNj8sGOSeG8qROc6NG) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG), [Stargate](https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd) | [Invincible](https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG) | 3:24 | 2021-12-27 |  |
 | [Don't Weigh Me Down](https://open.spotify.com/track/2S2GEzXQjblhoGmUN5TEB4) | [Joana Zimmer](https://open.spotify.com/artist/340O8IdnPypHteCD0Z5DPL) | [The Voice In Me](https://open.spotify.com/album/6c3SCdN0M0AlbxxxlGduQk) | 4:10 | 2021-12-27 |  |

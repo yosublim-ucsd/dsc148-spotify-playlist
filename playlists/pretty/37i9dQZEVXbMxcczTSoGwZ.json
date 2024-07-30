@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Finland.",
-  "num_followers": 159572,
+  "num_followers": 159604,
   "original_name": "Top 50 - Finland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LjmvcAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Ljr+mAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-07-28 09:14:07",
+      "added_at": "2024-07-29 08:43:17",
       "album": {
         "name": "Luotathan",
         "url": "https://open.spotify.com/album/1JH90V2dgSBiHZbuCzgIIZ"
@@ -29,23 +29,23 @@
       "url": "https://open.spotify.com/track/0hua7obC2aRxJdPkSoFKEu"
     },
     {
-      "added_at": "2024-07-28 09:14:07",
+      "added_at": "2024-07-29 08:43:17",
       "album": {
-        "name": "Sirkus",
-        "url": "https://open.spotify.com/album/3ncKZQQaLP3Ikw1vpIX24F"
+        "name": "Viva La Vida or Death and All His Friends",
+        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
       },
       "artists": [
         {
-          "name": "SHRTY",
-          "url": "https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 172347,
-      "name": "Sirkus",
-      "url": "https://open.spotify.com/track/0Ekrxw3lGOi3upnMTH90VY"
+      "duration_ms": 242373,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
     },
     {
-      "added_at": "2024-07-28 09:14:07",
+      "added_at": "2024-07-29 08:43:17",
       "album": {
         "name": "Vaarallinen Nainen",
         "url": "https://open.spotify.com/album/21Lc9yZqlkPlPUo9og8lua"
@@ -65,7 +65,23 @@
       "url": "https://open.spotify.com/track/0XWzwurinuiDIyvlq0lx93"
     },
     {
-      "added_at": "2024-07-28 09:14:07",
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "Sirkus",
+        "url": "https://open.spotify.com/album/3ncKZQQaLP3Ikw1vpIX24F"
+      },
+      "artists": [
+        {
+          "name": "SHRTY",
+          "url": "https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2"
+        }
+      ],
+      "duration_ms": 172347,
+      "name": "Sirkus",
+      "url": "https://open.spotify.com/track/0Ekrxw3lGOi3upnMTH90VY"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
       "album": {
         "name": "Vaisto (feat. Juuna Chill)",
         "url": "https://open.spotify.com/album/3CvcY3DQFo8nLf8pA4qCG5"
@@ -85,59 +101,7 @@
       "url": "https://open.spotify.com/track/31lZDgdGLl7bzGcVqtuWdr"
     },
     {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "Stadi (Alicia)",
-        "url": "https://open.spotify.com/album/1Q3cD40iLszO4uvmc0kH87"
-      },
-      "artists": [
-        {
-          "name": "OLGA",
-          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
-        },
-        {
-          "name": "Isac Elliot",
-          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
-        }
-      ],
-      "duration_ms": 142584,
-      "name": "Stadi (Alicia)",
-      "url": "https://open.spotify.com/track/7gHubaWZNQNvLieogqkVmA"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "Timanttei",
-        "url": "https://open.spotify.com/album/2jjNtxMNjutr0uo6rXln3p"
-      },
-      "artists": [
-        {
-          "name": "Mirella",
-          "url": "https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ"
-        }
-      ],
-      "duration_ms": 209074,
-      "name": "Timanttei",
-      "url": "https://open.spotify.com/track/3BZB8nRPdxDmG2X5Mzlq7X"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "Viva La Vida or Death and All His Friends",
-        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "Viva La Vida",
-      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
+      "added_at": "2024-07-29 08:43:17",
       "album": {
         "name": "Me Vs. Maailma (feat. Sexmane)",
         "url": "https://open.spotify.com/album/09A9MT3hwFHGjoWrG3efxa"
@@ -157,27 +121,91 @@
       "url": "https://open.spotify.com/track/6jL8913OKAhtrefgueIRHR"
     },
     {
-      "added_at": "2024-07-28 09:14:07",
+      "added_at": "2024-07-29 08:43:17",
       "album": {
-        "name": "H\u00e4it\u00e4 pidelly",
-        "url": "https://open.spotify.com/album/1y1tfyzF2qlXl9FgriI1EB"
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
       },
       "artists": [
         {
-          "name": "Robin Packalen",
-          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
-        },
-        {
-          "name": "Tupe.",
-          "url": "https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 182746,
-      "name": "H\u00e4it\u00e4 pidelly",
-      "url": "https://open.spotify.com/track/6Y7TST1IwwlQqGGpmQjfEO"
+      "duration_ms": 266773,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
     },
     {
-      "added_at": "2024-07-28 09:14:07",
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "Stadi (Alicia)",
+        "url": "https://open.spotify.com/album/1Q3cD40iLszO4uvmc0kH87"
+      },
+      "artists": [
+        {
+          "name": "OLGA",
+          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
+        },
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        }
+      ],
+      "duration_ms": 142584,
+      "name": "Stadi (Alicia)",
+      "url": "https://open.spotify.com/track/7gHubaWZNQNvLieogqkVmA"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "Timanttei",
+        "url": "https://open.spotify.com/album/2jjNtxMNjutr0uo6rXln3p"
+      },
+      "artists": [
+        {
+          "name": "Mirella",
+          "url": "https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ"
+        }
+      ],
+      "duration_ms": 209074,
+      "name": "Timanttei",
+      "url": "https://open.spotify.com/track/3BZB8nRPdxDmG2X5Mzlq7X"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 267866,
+      "name": "A Sky Full of Stars",
+      "url": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
       "album": {
         "name": "En sit\u00e4 tarkoittanut",
         "url": "https://open.spotify.com/album/58lUia8zs4GrvsxDt6v3vO"
@@ -197,7 +225,43 @@
       "url": "https://open.spotify.com/track/00PdQeNpWlEzqrMN3eauPl"
     },
     {
-      "added_at": "2024-07-28 09:14:07",
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "H\u00e4it\u00e4 pidelly",
+        "url": "https://open.spotify.com/album/1y1tfyzF2qlXl9FgriI1EB"
+      },
+      "artists": [
+        {
+          "name": "Robin Packalen",
+          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
+        },
+        {
+          "name": "Tupe.",
+          "url": "https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5"
+        }
+      ],
+      "duration_ms": 182746,
+      "name": "H\u00e4it\u00e4 pidelly",
+      "url": "https://open.spotify.com/track/6Y7TST1IwwlQqGGpmQjfEO"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/5GykKNn2KjofEoA8SpNnuw"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 278719,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7wBrglFVTNCcW6IhdgBkm1"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
       "album": {
         "name": "Viimeinen pisara (feat. Etta)",
         "url": "https://open.spotify.com/album/1ZonF7ec14BnRP96ifuD96"
@@ -217,27 +281,7 @@
       "url": "https://open.spotify.com/track/6cbIICgbxjXqt90w3xMJrH"
     },
     {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "Juostaan (feat. Sexmane)",
-        "url": "https://open.spotify.com/album/7iRrwEdTiGkPZN8foy5XQ7"
-      },
-      "artists": [
-        {
-          "name": "Sara Siipola",
-          "url": "https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup"
-        },
-        {
-          "name": "Sexmane",
-          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
-        }
-      ],
-      "duration_ms": 201333,
-      "name": "Juostaan (feat. Sexmane)",
-      "url": "https://open.spotify.com/track/5Yn8jOYR59KhHQdhwiQdXO"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
+      "added_at": "2024-07-29 08:43:17",
       "album": {
         "name": "Lightskinboy (feat. Sexmane)",
         "url": "https://open.spotify.com/album/3ZtPi15BOXrYLDSrRH1eIv"
@@ -257,227 +301,7 @@
       "url": "https://open.spotify.com/track/1PUwncTlHx89aP8nIfObSO"
     },
     {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "Juhannusy\u00f6 / M\u00f6kkiel\u00e4m\u00e4\u00e4",
-        "url": "https://open.spotify.com/album/41GFDVxUGZTYn18GLNlOZV"
-      },
-      "artists": [
-        {
-          "name": "Portion Boys",
-          "url": "https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv"
-        },
-        {
-          "name": "Kake Randelin",
-          "url": "https://open.spotify.com/artist/2ECoOJ3zAmnbZoCwTaf9A2"
-        }
-      ],
-      "duration_ms": 195546,
-      "name": "Juhannusy\u00f6",
-      "url": "https://open.spotify.com/track/2lwbCSDiToiRgz0W79aW3D"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "Mammanpoika",
-        "url": "https://open.spotify.com/album/5fbnqAvIARnsZQxguaNYWK"
-      },
-      "artists": [
-        {
-          "name": "Ege Zulu",
-          "url": "https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O"
-        },
-        {
-          "name": "BEHM",
-          "url": "https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE"
-        }
-      ],
-      "duration_ms": 181250,
-      "name": "Tunnista tuntiin",
-      "url": "https://open.spotify.com/track/0SUcbn6qR8N07qb7QOIkN2"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "Rallikansa",
-        "url": "https://open.spotify.com/album/5BTt8tCXm12OiXAjQxiNDq"
-      },
-      "artists": [
-        {
-          "name": "JVG",
-          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
-        }
-      ],
-      "duration_ms": 192372,
-      "name": "Rallikansa",
-      "url": "https://open.spotify.com/track/1tE3e0tfkZ4q8wC9fMcAoP"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 266773,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "Aurinkoon",
-        "url": "https://open.spotify.com/album/2aiTG7ZgcwTxQobX1nScjj"
-      },
-      "artists": [
-        {
-          "name": "HUGO",
-          "url": "https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ"
-        }
-      ],
-      "duration_ms": 147291,
-      "name": "Aurinkoon",
-      "url": "https://open.spotify.com/track/1jyva7msC2LeaBA9jFCsLZ"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "Pisara meress\u00e4",
-        "url": "https://open.spotify.com/album/3fTUkVNp5a3EgCh9Q4NpXA"
-      },
-      "artists": [
-        {
-          "name": "KUUMAA",
-          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
-        }
-      ],
-      "duration_ms": 160106,
-      "name": "Satama",
-      "url": "https://open.spotify.com/track/3uFYqmo1tBXqITBLsnHsUx"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 309600,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 267866,
-      "name": "A Sky Full of Stars",
-      "url": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "Tireht\u00f6\u00f6ri",
-        "url": "https://open.spotify.com/album/5D0Gba4iAUAEa2O9lx8sP6"
-      },
-      "artists": [
-        {
-          "name": "Spekti",
-          "url": "https://open.spotify.com/artist/05qPtpcSltJZLI9sj0qm3B"
-        }
-      ],
-      "duration_ms": 163080,
-      "name": "Tireht\u00f6\u00f6ri",
-      "url": "https://open.spotify.com/track/3JaLpRa7UO4CdF8Q0TOJjn"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "Ihanuuteni blondiina",
-        "url": "https://open.spotify.com/album/6tXApzjqBeRz5HrloYHZY1"
-      },
-      "artists": [
-        {
-          "name": "Niilo",
-          "url": "https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab"
-        },
-        {
-          "name": "Antti",
-          "url": "https://open.spotify.com/artist/3fffaY315C3TsG3Nt3YZHm"
-        }
-      ],
-      "duration_ms": 160812,
-      "name": "Ihanuuteni blondiina",
-      "url": "https://open.spotify.com/track/0YWhcwLqzS4QkrmH8dogWS"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "Uuteen eiliseen",
-        "url": "https://open.spotify.com/album/2uahHrGh6lQtXvzKG3smIG"
-      },
-      "artists": [
-        {
-          "name": "Mirella",
-          "url": "https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ"
-        }
-      ],
-      "duration_ms": 164597,
-      "name": "Uuteen eiliseen",
-      "url": "https://open.spotify.com/track/7F8qxqsIVThVPpSlxJSXVs"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "Mylo Xyloto",
-        "url": "https://open.spotify.com/album/5GykKNn2KjofEoA8SpNnuw"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 278719,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7wBrglFVTNCcW6IhdgBkm1"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 227032,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
+      "added_at": "2024-07-29 08:43:17",
       "album": {
         "name": "A Head Full of Dreams",
         "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
@@ -493,43 +317,27 @@
       "url": "https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy"
     },
     {
-      "added_at": "2024-07-28 09:14:07",
+      "added_at": "2024-07-29 08:43:17",
       "album": {
-        "name": "TRAFIK!",
-        "url": "https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB"
+        "name": "Juostaan (feat. Sexmane)",
+        "url": "https://open.spotify.com/album/7iRrwEdTiGkPZN8foy5XQ7"
       },
       "artists": [
         {
-          "name": "K\u00e4\u00e4rij\u00e4",
-          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+          "name": "Sara Siipola",
+          "url": "https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup"
         },
         {
-          "name": "Joost",
-          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
         }
       ],
-      "duration_ms": 132888,
-      "name": "TRAFIK!",
-      "url": "https://open.spotify.com/track/4VDEbsqJED0VOLm7sF21su"
+      "duration_ms": 201333,
+      "name": "Juostaan (feat. Sexmane)",
+      "url": "https://open.spotify.com/track/5Yn8jOYR59KhHQdhwiQdXO"
     },
     {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "Maljapuhe",
-        "url": "https://open.spotify.com/album/67W0t8gyf1vasqr0k8zCUh"
-      },
-      "artists": [
-        {
-          "name": "Bee",
-          "url": "https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f"
-        }
-      ],
-      "duration_ms": 158159,
-      "name": "Maljapuhe",
-      "url": "https://open.spotify.com/track/0Qlx6e4luybsQ4nDhhlC1h"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
+      "added_at": "2024-07-29 08:43:17",
       "album": {
         "name": "Memories...Do Not Open",
         "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
@@ -549,7 +357,223 @@
       "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
     },
     {
-      "added_at": "2024-07-28 09:14:07",
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "Mammanpoika",
+        "url": "https://open.spotify.com/album/5fbnqAvIARnsZQxguaNYWK"
+      },
+      "artists": [
+        {
+          "name": "Ege Zulu",
+          "url": "https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O"
+        },
+        {
+          "name": "BEHM",
+          "url": "https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE"
+        }
+      ],
+      "duration_ms": 181250,
+      "name": "Tunnista tuntiin",
+      "url": "https://open.spotify.com/track/0SUcbn6qR8N07qb7QOIkN2"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "Rallikansa",
+        "url": "https://open.spotify.com/album/5BTt8tCXm12OiXAjQxiNDq"
+      },
+      "artists": [
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+        }
+      ],
+      "duration_ms": 192372,
+      "name": "Rallikansa",
+      "url": "https://open.spotify.com/track/1tE3e0tfkZ4q8wC9fMcAoP"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "Juhannusy\u00f6 / M\u00f6kkiel\u00e4m\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/41GFDVxUGZTYn18GLNlOZV"
+      },
+      "artists": [
+        {
+          "name": "Portion Boys",
+          "url": "https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv"
+        },
+        {
+          "name": "Kake Randelin",
+          "url": "https://open.spotify.com/artist/2ECoOJ3zAmnbZoCwTaf9A2"
+        }
+      ],
+      "duration_ms": 195546,
+      "name": "Juhannusy\u00f6",
+      "url": "https://open.spotify.com/track/2lwbCSDiToiRgz0W79aW3D"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 307879,
+      "name": "Clocks",
+      "url": "https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "A Head Full of Dreams",
+        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 263786,
+      "name": "Adventure of a Lifetime",
+      "url": "https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "X&Y",
+        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "Aurinkoon",
+        "url": "https://open.spotify.com/album/2aiTG7ZgcwTxQobX1nScjj"
+      },
+      "artists": [
+        {
+          "name": "HUGO",
+          "url": "https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ"
+        }
+      ],
+      "duration_ms": 147291,
+      "name": "Aurinkoon",
+      "url": "https://open.spotify.com/track/1jyva7msC2LeaBA9jFCsLZ"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "Pisara meress\u00e4",
+        "url": "https://open.spotify.com/album/3fTUkVNp5a3EgCh9Q4NpXA"
+      },
+      "artists": [
+        {
+          "name": "KUUMAA",
+          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
+        }
+      ],
+      "duration_ms": 160106,
+      "name": "Satama",
+      "url": "https://open.spotify.com/track/3uFYqmo1tBXqITBLsnHsUx"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "feelslikeimfallinginlove",
+        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 237803,
+      "name": "feelslikeimfallinginlove",
+      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "Uuteen eiliseen",
+        "url": "https://open.spotify.com/album/2uahHrGh6lQtXvzKG3smIG"
+      },
+      "artists": [
+        {
+          "name": "Mirella",
+          "url": "https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ"
+        }
+      ],
+      "duration_ms": 164597,
+      "name": "Uuteen eiliseen",
+      "url": "https://open.spotify.com/track/7F8qxqsIVThVPpSlxJSXVs"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "Mowgli",
+        "url": "https://open.spotify.com/album/017Q2cv3auxsQmWWQj2mlO"
+      },
+      "artists": [
+        {
+          "name": "KERZA",
+          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Mowgli",
+      "url": "https://open.spotify.com/track/44i0pQGFw0hq3YzBYvYZaC"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "Tireht\u00f6\u00f6ri",
+        "url": "https://open.spotify.com/album/5D0Gba4iAUAEa2O9lx8sP6"
+      },
+      "artists": [
+        {
+          "name": "Spekti",
+          "url": "https://open.spotify.com/artist/05qPtpcSltJZLI9sj0qm3B"
+        }
+      ],
+      "duration_ms": 163080,
+      "name": "Tireht\u00f6\u00f6ri",
+      "url": "https://open.spotify.com/track/3JaLpRa7UO4CdF8Q0TOJjn"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "Music Of The Spheres",
+        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 206681,
+      "name": "Higher Power",
+      "url": "https://open.spotify.com/track/65OR4ywy8Cgs3FDHK82Idl"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
       "album": {
         "name": "Norjalaista puuta",
         "url": "https://open.spotify.com/album/36yFPOq7YIsFpIodxohXzu"
@@ -565,23 +589,59 @@
       "url": "https://open.spotify.com/track/3cTTpe7rLFrgdLPY9DQB0s"
     },
     {
-      "added_at": "2024-07-28 09:14:07",
+      "added_at": "2024-07-29 08:43:17",
       "album": {
-        "name": "Hulluus saa mut huutamaan",
-        "url": "https://open.spotify.com/album/4IggzRJts3hnEupAx1jibG"
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/5GykKNn2KjofEoA8SpNnuw"
       },
       "artists": [
         {
-          "name": "Sexmane",
-          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 202689,
-      "name": "Hulluus saa mut huutamaan",
-      "url": "https://open.spotify.com/track/60C39X0cMU3CGamo0ifQhK"
+      "duration_ms": 285159,
+      "name": "Charlie Brown",
+      "url": "https://open.spotify.com/track/0x5CxIxVZUxwOQbwiVLS6J"
     },
     {
-      "added_at": "2024-07-28 09:14:07",
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 227032,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "TRAFIK!",
+        "url": "https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        },
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        }
+      ],
+      "duration_ms": 132888,
+      "name": "TRAFIK!",
+      "url": "https://open.spotify.com/track/4VDEbsqJED0VOLm7sF21su"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
       "album": {
         "name": "Rauhaa",
         "url": "https://open.spotify.com/album/1tBc5Z4KadITFBbIp6Y9YU"
@@ -605,47 +665,75 @@
       "url": "https://open.spotify.com/track/1LgLXYqd3JYcHXfwHbszaZ"
     },
     {
-      "added_at": "2024-07-28 09:14:07",
+      "added_at": "2024-07-29 08:43:17",
       "album": {
-        "name": "Pedro",
-        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
+        "name": "Maljapuhe",
+        "url": "https://open.spotify.com/album/67W0t8gyf1vasqr0k8zCUh"
       },
       "artists": [
         {
-          "name": "Jaxomy",
-          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
-        },
-        {
-          "name": "Agatino Romero",
-          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
-        },
-        {
-          "name": "Raffaella Carr\u00e0",
-          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+          "name": "Bee",
+          "url": "https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f"
         }
       ],
-      "duration_ms": 144846,
-      "name": "Pedro",
-      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
+      "duration_ms": 158159,
+      "name": "Maljapuhe",
+      "url": "https://open.spotify.com/track/0Qlx6e4luybsQ4nDhhlC1h"
     },
     {
-      "added_at": "2024-07-28 09:14:07",
+      "added_at": "2024-07-29 08:43:17",
       "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+        "name": "Ihanuuteni blondiina",
+        "url": "https://open.spotify.com/album/6tXApzjqBeRz5HrloYHZY1"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Niilo",
+          "url": "https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab"
+        },
+        {
+          "name": "Antti",
+          "url": "https://open.spotify.com/artist/3fffaY315C3TsG3Nt3YZHm"
         }
       ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+      "duration_ms": 160812,
+      "name": "Ihanuuteni blondiina",
+      "url": "https://open.spotify.com/track/0YWhcwLqzS4QkrmH8dogWS"
     },
     {
-      "added_at": "2024-07-28 09:14:07",
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "Hulluus saa mut huutamaan",
+        "url": "https://open.spotify.com/album/4IggzRJts3hnEupAx1jibG"
+      },
+      "artists": [
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "duration_ms": 202689,
+      "name": "Hulluus saa mut huutamaan",
+      "url": "https://open.spotify.com/track/60C39X0cMU3CGamo0ifQhK"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "soittorasia",
+        "url": "https://open.spotify.com/album/49lFM84P2mYvVgbDWvDdZu"
+      },
+      "artists": [
+        {
+          "name": "pehmoaino",
+          "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr"
+        }
+      ],
+      "duration_ms": 237506,
+      "name": "valssi",
+      "url": "https://open.spotify.com/track/5enVWJXH9X2Biou4niupoJ"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
       "album": {
         "name": "Prinsessa (feat. baka\u00ae)",
         "url": "https://open.spotify.com/album/3oybXiUqKzYBOzQHSfS3ii"
@@ -665,23 +753,95 @@
       "url": "https://open.spotify.com/track/6ioqZb07eWdepb7NaBt2xA"
     },
     {
-      "added_at": "2024-07-28 09:14:07",
+      "added_at": "2024-07-29 08:43:17",
       "album": {
-        "name": "Mowgli",
-        "url": "https://open.spotify.com/album/017Q2cv3auxsQmWWQj2mlO"
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
       },
       "artists": [
         {
-          "name": "KERZA",
-          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 136800,
-      "name": "Mowgli",
-      "url": "https://open.spotify.com/track/44i0pQGFw0hq3YzBYvYZaC"
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-07-28 09:14:07",
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "Taulut (feat. Costi)",
+        "url": "https://open.spotify.com/album/7iOPxPm0nJsc5lHX3fBg6F"
+      },
+      "artists": [
+        {
+          "name": "HUGO",
+          "url": "https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ"
+        },
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "duration_ms": 197027,
+      "name": "Taulut (feat. Costi)",
+      "url": "https://open.spotify.com/track/150cifhtXjdhDdr07scSVG"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "V\u00e4\u00e4r\u00e4\u00e4n aikaan (feat. HUGO)",
+        "url": "https://open.spotify.com/album/1G8dR2Y01aQNhN46zacoMf"
+      },
+      "artists": [
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        },
+        {
+          "name": "HUGO",
+          "url": "https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ"
+        }
+      ],
+      "duration_ms": 182579,
+      "name": "V\u00e4\u00e4r\u00e4\u00e4n aikaan (feat. HUGO)",
+      "url": "https://open.spotify.com/track/1iZOPk4TnPpL1NOqCXSoRv"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
+      "album": {
+        "name": "Kokonainen",
+        "url": "https://open.spotify.com/album/50lul7y5PIQ46XQJmcHvwk"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "duration_ms": 159024,
+      "name": "Kokonainen",
+      "url": "https://open.spotify.com/track/2NAxJ9C0aUPsGTEwUfD8lN"
+    },
+    {
+      "added_at": "2024-07-29 08:43:17",
       "album": {
         "name": "Italia",
         "url": "https://open.spotify.com/album/7FmnNsINdI92aApGrd4vcT"
@@ -705,102 +865,10 @@
       "url": "https://open.spotify.com/track/5dSmtvguWDB0oXMFUbUyYK"
     },
     {
-      "added_at": "2024-07-28 09:14:07",
+      "added_at": "2024-07-29 08:43:17",
       "album": {
-        "name": "Mi Amore (feat. Ege Zulu)",
-        "url": "https://open.spotify.com/album/4JSbaUoAZke1tOOqTMjosP"
-      },
-      "artists": [
-        {
-          "name": "Karim B",
-          "url": "https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi"
-        },
-        {
-          "name": "Ege Zulu",
-          "url": "https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O"
-        }
-      ],
-      "duration_ms": 183721,
-      "name": "Mi Amore (feat. Ege Zulu)",
-      "url": "https://open.spotify.com/track/4ZX9P2D0gkCumSKJEWqp6e"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "Taulut (feat. Costi)",
-        "url": "https://open.spotify.com/album/7iOPxPm0nJsc5lHX3fBg6F"
-      },
-      "artists": [
-        {
-          "name": "HUGO",
-          "url": "https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ"
-        },
-        {
-          "name": "Costi",
-          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
-        }
-      ],
-      "duration_ms": 197027,
-      "name": "Taulut (feat. Costi)",
-      "url": "https://open.spotify.com/track/150cifhtXjdhDdr07scSVG"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "Kokonainen",
-        "url": "https://open.spotify.com/album/50lul7y5PIQ46XQJmcHvwk"
-      },
-      "artists": [
-        {
-          "name": "Ares",
-          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
-        }
-      ],
-      "duration_ms": 159024,
-      "name": "Kokonainen",
-      "url": "https://open.spotify.com/track/2NAxJ9C0aUPsGTEwUfD8lN"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "V\u00e4\u00e4r\u00e4\u00e4n aikaan (feat. HUGO)",
-        "url": "https://open.spotify.com/album/1G8dR2Y01aQNhN46zacoMf"
-      },
-      "artists": [
-        {
-          "name": "AHTI",
-          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
-        },
-        {
-          "name": "HUGO",
-          "url": "https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ"
-        }
-      ],
-      "duration_ms": 182579,
-      "name": "V\u00e4\u00e4r\u00e4\u00e4n aikaan (feat. HUGO)",
-      "url": "https://open.spotify.com/track/1iZOPk4TnPpL1NOqCXSoRv"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "soittorasia",
-        "url": "https://open.spotify.com/album/49lFM84P2mYvVgbDWvDdZu"
-      },
-      "artists": [
-        {
-          "name": "pehmoaino",
-          "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr"
-        }
-      ],
-      "duration_ms": 237506,
-      "name": "valssi",
-      "url": "https://open.spotify.com/track/5enVWJXH9X2Biou4niupoJ"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "A Head Full of Dreams",
-        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
       },
       "artists": [
         {
@@ -808,109 +876,29 @@
           "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 263786,
-      "name": "Adventure of a Lifetime",
-      "url": "https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M"
+      "duration_ms": 227093,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
     },
     {
-      "added_at": "2024-07-28 09:14:07",
+      "added_at": "2024-07-29 08:43:17",
       "album": {
-        "name": "Lupaa et s\u00e4 l\u00e4het",
-        "url": "https://open.spotify.com/album/3Z3oF6JddtFYHYMY3JFCct"
-      },
-      "artists": [
-        {
-          "name": "ANI",
-          "url": "https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T"
-        },
-        {
-          "name": "VIIVI",
-          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
-        }
-      ],
-      "duration_ms": 203909,
-      "name": "Lupaa et s\u00e4 l\u00e4het",
-      "url": "https://open.spotify.com/track/7MR91GiYTmxI5U9oKhqn9c"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "Hyvikset ja pahikset",
-        "url": "https://open.spotify.com/album/24CZMvczsQC6vHMB05weD0"
-      },
-      "artists": [
-        {
-          "name": "KUUMAA",
-          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
-        }
-      ],
-      "duration_ms": 181947,
-      "name": "Ylivoimainen",
-      "url": "https://open.spotify.com/track/4TXoHT9YxXfczvs2ccf5MK"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "Selvii p\u00e4ivii",
-        "url": "https://open.spotify.com/album/3acDUN7PzZpC8N21Pm2Ty5"
-      },
-      "artists": [
-        {
-          "name": "Jore & Zpoppa",
-          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
-        }
-      ],
-      "duration_ms": 180031,
-      "name": "Selvii p\u00e4ivii",
-      "url": "https://open.spotify.com/track/4aDQIhFNwywQ7Ch0kJCXF0"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+        "name": "Music Of The Spheres",
+        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
       },
       "artists": [
         {
           "name": "Coldplay",
           "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 307879,
-      "name": "Clocks",
-      "url": "https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns"
-    },
-    {
-      "added_at": "2024-07-28 09:14:07",
-      "album": {
-        "name": "Hyvikset ja pahikset",
-        "url": "https://open.spotify.com/album/24CZMvczsQC6vHMB05weD0"
-      },
-      "artists": [
+        },
         {
-          "name": "KUUMAA",
-          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 183806,
-      "name": "Tulipalo",
-      "url": "https://open.spotify.com/track/50MCpRAPLw8KXn8j6j2yb7"
+      "duration_ms": 226198,
+      "name": "My Universe",
+      "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
     }
   ],
   "unique_name": "Top 50 - Finland",

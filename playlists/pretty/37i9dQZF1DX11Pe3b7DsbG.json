@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 232098,
+  "num_followers": 232083,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -743,54 +743,6 @@
     {
       "added_at": "2024-06-14 21:41:58",
       "album": {
-        "name": "Da M\u00fasica",
-        "url": "https://open.spotify.com/album/39xsVtekCnsMAsaPiXurfM"
-      },
-      "artists": [
-        {
-          "name": "Arlindo Cruz & Sombrinha",
-          "url": "https://open.spotify.com/artist/01eLJvqYzaz2V1wMCu0wXE"
-        }
-      ],
-      "duration_ms": 264466,
-      "name": "Pintou uma Lua L\u00e1",
-      "url": "https://open.spotify.com/track/4gTgc97a6GDA8KpQB0eeGr"
-    },
-    {
-      "added_at": "2024-06-14 21:41:58",
-      "album": {
-        "name": "Tudo Que Sou, Vol. 1: Fragmentos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/17clMnpX0WwlXFt3v7rmEW"
-      },
-      "artists": [
-        {
-          "name": "Toninho Geraes",
-          "url": "https://open.spotify.com/artist/1XavFymdZWNz3HyS5jkStp"
-        }
-      ],
-      "duration_ms": 267545,
-      "name": "Alma Bo\u00eamia - Ao Vivo",
-      "url": "https://open.spotify.com/track/54pvIGtbbIUy5qhVNPDfCt"
-    },
-    {
-      "added_at": "2024-06-14 21:41:58",
-      "album": {
-        "name": "Jorge 70: Ao Vivo em S\u00e3o Paulo, Pt. 1",
-        "url": "https://open.spotify.com/album/2E1JGC6suXlgoQQqGYgqQ8"
-      },
-      "artists": [
-        {
-          "name": "Jorge Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
-        }
-      ],
-      "duration_ms": 251850,
-      "name": "Eu e Voc\u00ea Sempre - Ao Vivo",
-      "url": "https://open.spotify.com/track/2XXa3wavj9vwz353ezqLUx"
-    },
-    {
-      "added_at": "2024-06-14 21:41:58",
-      "album": {
         "name": "Sambabook Jo\u00e3o Nogueira, 2",
         "url": "https://open.spotify.com/album/6FOkfUj1Mv1ySctRjW3GY0"
       },
@@ -875,6 +827,54 @@
       "duration_ms": 278853,
       "name": "Clube do Samba",
       "url": "https://open.spotify.com/track/0hR8aII8gulgOK3r5UxfDq"
+    },
+    {
+      "added_at": "2024-06-14 21:41:58",
+      "album": {
+        "name": "Da M\u00fasica",
+        "url": "https://open.spotify.com/album/39xsVtekCnsMAsaPiXurfM"
+      },
+      "artists": [
+        {
+          "name": "Arlindo Cruz & Sombrinha",
+          "url": "https://open.spotify.com/artist/01eLJvqYzaz2V1wMCu0wXE"
+        }
+      ],
+      "duration_ms": 264466,
+      "name": "Pintou uma Lua L\u00e1",
+      "url": "https://open.spotify.com/track/4gTgc97a6GDA8KpQB0eeGr"
+    },
+    {
+      "added_at": "2024-06-14 21:41:58",
+      "album": {
+        "name": "Tudo Que Sou, Vol. 1: Fragmentos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/17clMnpX0WwlXFt3v7rmEW"
+      },
+      "artists": [
+        {
+          "name": "Toninho Geraes",
+          "url": "https://open.spotify.com/artist/1XavFymdZWNz3HyS5jkStp"
+        }
+      ],
+      "duration_ms": 267545,
+      "name": "Alma Bo\u00eamia - Ao Vivo",
+      "url": "https://open.spotify.com/track/54pvIGtbbIUy5qhVNPDfCt"
+    },
+    {
+      "added_at": "2024-06-14 21:41:58",
+      "album": {
+        "name": "Jorge 70: Ao Vivo em S\u00e3o Paulo, Pt. 1",
+        "url": "https://open.spotify.com/album/2E1JGC6suXlgoQQqGYgqQ8"
+      },
+      "artists": [
+        {
+          "name": "Jorge Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
+        }
+      ],
+      "duration_ms": 251850,
+      "name": "Eu e Voc\u00ea Sempre - Ao Vivo",
+      "url": "https://open.spotify.com/track/2XXa3wavj9vwz353ezqLUx"
     },
     {
       "added_at": "2024-06-14 21:41:58",

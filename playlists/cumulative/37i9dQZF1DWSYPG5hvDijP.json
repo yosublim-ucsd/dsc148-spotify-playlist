@@ -733,6 +733,24 @@
     },
     {
       "album": {
+        "name": "Bambaiyya",
+        "url": "https://open.spotify.com/album/5RgbalAqEptsXQKgvwZ2X8"
+      },
+      "artists": [
+        {
+          "name": "Nazz",
+          "url": "https://open.spotify.com/artist/7iEUKVcv42PUcIS696yadB"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135724,
+      "name": "Bambaiyya",
+      "url": "https://open.spotify.com/track/2P9K6C6D38v6RnVihnHnVK"
+    },
+    {
+      "album": {
         "name": "Bana Hi Nahi Tha",
         "url": "https://open.spotify.com/album/47tdU90RtfE3Kmz8Ocqvd9"
       },
@@ -1170,7 +1188,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 184852,
       "name": "Bombay Moves",
       "url": "https://open.spotify.com/track/2QspUoTUtBxckm2zsZenrw"
@@ -1539,6 +1557,24 @@
     },
     {
       "album": {
+        "name": "Chalis",
+        "url": "https://open.spotify.com/album/5Mp4zVYRkIbJ4AZyXB27Nw"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184421,
+      "name": "Chalis",
+      "url": "https://open.spotify.com/track/3Y2QAPM1Vsw7yKKnVMsxhD"
+    },
+    {
+      "album": {
         "name": "Chhod Dala",
         "url": "https://open.spotify.com/album/4so9xrFmNkNW58CfxtjkbT"
       },
@@ -1590,7 +1626,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 182032,
       "name": "Cigarette",
       "url": "https://open.spotify.com/track/7siESYnNXs5qpSE983tmfG"
@@ -1820,7 +1856,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 173333,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/2CHQ8qhsE2N1bXsZn1nnqA"
@@ -2748,6 +2784,24 @@
       "duration_ms": 231044,
       "name": "GOAT SHIT",
       "url": "https://open.spotify.com/track/2TElxFZeWPs9DhQGZWh6Oa"
+    },
+    {
+      "album": {
+        "name": "God Bless You",
+        "url": "https://open.spotify.com/album/3ZDNJuCmV1mlUf3Z5dLvJ2"
+      },
+      "artists": [
+        {
+          "name": "Vijay Dk",
+          "url": "https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156245,
+      "name": "God Bless You",
+      "url": "https://open.spotify.com/track/2Q6ajrXPICNctahJ9jeiYn"
     },
     {
       "album": {
@@ -3958,7 +4012,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 215000,
       "name": "Khushi",
       "url": "https://open.spotify.com/track/0YTo1oipx4slTncqlOitxe"
@@ -4364,6 +4418,32 @@
       "duration_ms": 181379,
       "name": "Like A Snake",
       "url": "https://open.spotify.com/track/1pCyNu4mgeZP0qqHNMTjWJ"
+    },
+    {
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/0chBFczOejfqe24XLkAVLj"
+      },
+      "artists": [
+        {
+          "name": "Dakait",
+          "url": "https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7"
+        },
+        {
+          "name": "Aniket Raturi",
+          "url": "https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS"
+        },
+        {
+          "name": "2FISTD",
+          "url": "https://open.spotify.com/artist/08e2eWa0q9i4FZS6n8V4Rs"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204935,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/2xjK6X8vX06yZK8DnYQ9V0"
     },
     {
       "album": {
@@ -5652,7 +5732,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 204336,
       "name": "Open Letter",
       "url": "https://open.spotify.com/track/5lzRi3ZTFUPYwOO2rKT8eD"
@@ -5894,6 +5974,28 @@
       "duration_ms": 199672,
       "name": "Prarthana",
       "url": "https://open.spotify.com/track/3l3BzT3Ovdx2mQK366r5Ei"
+    },
+    {
+      "album": {
+        "name": "MIXED FEELINGS",
+        "url": "https://open.spotify.com/album/68eF34hzy5zePuzwqX5PIS"
+      },
+      "artists": [
+        {
+          "name": "KALAM INK",
+          "url": "https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd"
+        },
+        {
+          "name": "CJ CHIRAG",
+          "url": "https://open.spotify.com/artist/5FcuZLglRfOZQMF0tDPxDV"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184329,
+      "name": "PREACHER",
+      "url": "https://open.spotify.com/track/1C99ZFDmchpWnOXgRk9B2U"
     },
     {
       "album": {
@@ -7226,7 +7328,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 170109,
       "name": "Vaisa Ni Hu",
       "url": "https://open.spotify.com/track/3ig5bnosRJREI2I3wz4JTb"
@@ -7478,6 +7580,24 @@
       "duration_ms": 184087,
       "name": "Whoa There Nelly",
       "url": "https://open.spotify.com/track/6Rskn0hM0xj3t03foHpH7C"
+    },
+    {
+      "album": {
+        "name": "WIDE AWAKE",
+        "url": "https://open.spotify.com/album/5jIa47UVXJidZQILZU1bML"
+      },
+      "artists": [
+        {
+          "name": "DRV",
+          "url": "https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144657,
+      "name": "WIDE AWAKE",
+      "url": "https://open.spotify.com/track/3uRQUNQZ6oWgYHbHsrZSUH"
     },
     {
       "album": {

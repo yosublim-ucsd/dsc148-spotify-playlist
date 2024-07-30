@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Tomo Como Rey en portada.",
-  "num_followers": 463293,
+  "num_followers": 463336,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -715,38 +715,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Salon Victoria",
-        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
-      },
-      "artists": [
-        {
-          "name": "Salon Victoria",
-          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
-        }
-      ],
-      "duration_ms": 189480,
-      "name": "Maldita Soledad",
-      "url": "https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "Circolog\u00eda",
-        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 179720,
-      "name": "Que Corran",
-      "url": "https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "La Gata Bajo la Lluvia",
         "url": "https://open.spotify.com/album/24pjyz91cui77AWSqBxSaX"
       },
@@ -767,6 +735,38 @@
       "duration_ms": 192939,
       "name": "La Gata Bajo la Lluvia",
       "url": "https://open.spotify.com/track/2IvTvoNZP4zYhIBWRfzADg"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Circolog\u00eda",
+        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 179720,
+      "name": "Que Corran",
+      "url": "https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Salon Victoria",
+        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
+      },
+      "artists": [
+        {
+          "name": "Salon Victoria",
+          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
+        }
+      ],
+      "duration_ms": 189480,
+      "name": "Maldita Soledad",
+      "url": "https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp"
+      },
+      "artists": [
+        {
+          "name": "Los Victorios",
+          "url": "https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj"
+        }
+      ],
+      "duration_ms": 190012,
+      "name": "El Peor Momento",
+      "url": "https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
         "name": "Rompecabezas (feat. NATURE)",
         "url": "https://open.spotify.com/album/1NArE1RQb0IoIYGnhw5Ixu"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 276932,
       "name": "Rompecabezas (feat. NATURE)",
       "url": "https://open.spotify.com/track/5jE7DHWEY9A51mloK9rMhj"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp"
-      },
-      "artists": [
-        {
-          "name": "Los Victorios",
-          "url": "https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj"
-        }
-      ],
-      "duration_ms": 190012,
-      "name": "El Peor Momento",
-      "url": "https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
+        "name": "Revolusound Contra Sistema",
+        "url": "https://open.spotify.com/album/6ttamnxtAQ0pSALD625bUH"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Corrupci\u00f3n Ska",
+      "url": "https://open.spotify.com/track/4kl5KRleflL90aIGrhBtqX"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
         "name": "La Bolsa",
         "url": "https://open.spotify.com/album/6wbS0YyaDg2mbJDkZBk1el"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 199541,
       "name": "La Bolsa",
       "url": "https://open.spotify.com/track/2qSbz1afvswRV4g7fT3dgj"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "Revolusound Contra Sistema",
-        "url": "https://open.spotify.com/album/6ttamnxtAQ0pSALD625bUH"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Corrupci\u00f3n Ska",
-      "url": "https://open.spotify.com/track/4kl5KRleflL90aIGrhBtqX"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
+        "name": "Don't Worry Be Happy",
+        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
+      },
+      "artists": [
+        {
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+        }
+      ],
+      "duration_ms": 225018,
+      "name": "Don`t Worry Be Happy",
+      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
         "name": "40Tone",
         "url": "https://open.spotify.com/album/1gnxgQefmYaU1A8j5X59BI"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 127181,
       "name": "40Tone",
       "url": "https://open.spotify.com/track/6YVKjXSrlV3tNAZefiSFWu"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "Don't Worry Be Happy",
-        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
-      },
-      "artists": [
-        {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
-        }
-      ],
-      "duration_ms": 225018,
-      "name": "Don`t Worry Be Happy",
-      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
     },
     {
       "added_at": "2024-07-26 06:00:00",

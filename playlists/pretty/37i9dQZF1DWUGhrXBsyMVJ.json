@@ -1,6 +1,6 @@
 {
   "description": "Unforgettable love songs from the 1950s.",
-  "num_followers": 272036,
+  "num_followers": 272144,
   "original_name": "50s Love Songs",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-07-14 11:21:34",
       "album": {
-        "name": "The Best Of The Crew Cuts",
-        "url": "https://open.spotify.com/album/7dQg87XegvtSinDdZ1p0VP"
-      },
-      "artists": [
-        {
-          "name": "The Crew Cuts",
-          "url": "https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv"
-        }
-      ],
-      "duration_ms": 168893,
-      "name": "Sh-Boom",
-      "url": "https://open.spotify.com/track/7G2jAmiYUDZKyk7npVrgX8"
-    },
-    {
-      "added_at": "2024-07-14 11:21:34",
-      "album": {
         "name": "Rock with Sedaka (Expanded Edition)",
         "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 159693,
       "name": "Calendar Girl",
       "url": "https://open.spotify.com/track/7Gpx2fNJiilvrf9Ss8qbit"
+    },
+    {
+      "added_at": "2024-07-14 11:21:34",
+      "album": {
+        "name": "The Best Of The Crew Cuts",
+        "url": "https://open.spotify.com/album/7dQg87XegvtSinDdZ1p0VP"
+      },
+      "artists": [
+        {
+          "name": "The Crew Cuts",
+          "url": "https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv"
+        }
+      ],
+      "duration_ms": 168893,
+      "name": "Sh-Boom",
+      "url": "https://open.spotify.com/track/7G2jAmiYUDZKyk7npVrgX8"
     },
     {
       "added_at": "2024-07-14 11:21:34",
@@ -503,22 +503,18 @@
     {
       "added_at": "2024-07-14 11:21:34",
       "album": {
-        "name": "Elvis 30 #1 Hits",
-        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2"
       },
       "artists": [
         {
           "name": "Elvis Presley",
           "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        },
-        {
-          "name": "The Jordanaires",
-          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
         }
       ],
-      "duration_ms": 168906,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/4HVSaFbEwvptCAzLlOr2UZ"
+      "duration_ms": 133866,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/036VdTP0ggdePwbvbFuT8w"
     },
     {
       "added_at": "2024-07-14 11:21:34",
@@ -659,18 +655,22 @@
     {
       "added_at": "2024-07-14 11:21:34",
       "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2"
+        "name": "Elvis 30 #1 Hits",
+        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
       },
       "artists": [
         {
           "name": "Elvis Presley",
           "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
         }
       ],
-      "duration_ms": 133866,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/036VdTP0ggdePwbvbFuT8w"
+      "duration_ms": 168906,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/4HVSaFbEwvptCAzLlOr2UZ"
     },
     {
       "added_at": "2024-07-14 11:21:34",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-07-14 11:21:34",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5Okmxm0sMbAifTrTd2dTy2"
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
       },
       "artists": [
         {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 128840,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/4BT0ShbzEpeo4j9JQWrfZk"
+      "duration_ms": 205706,
+      "name": "Too Young",
+      "url": "https://open.spotify.com/track/44ZAlAAn0bAEzUJgZky04H"
     }
   ],
   "unique_name": "50s Love Songs",

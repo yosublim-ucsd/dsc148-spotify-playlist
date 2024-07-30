@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover :  Krishnam Pranaya Sakhi\n",
-  "num_followers": 58089,
+  "num_followers": 58126,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqNk3QAAAAAoIdUxhJjbzSsFdeEzfNmQ",
+  "snapshot_id": "ZqeO9AAAAAAZd4AL9f+V0U9t0J8OofSg",
   "tracks": [
     {
       "added_at": "2024-07-26 08:56:15",
@@ -27,6 +27,30 @@
       "duration_ms": 150320,
       "name": "Parapancha Gama Gama (From \"Powder\")",
       "url": "https://open.spotify.com/track/6QuKhsfpCh54jrPphwdGyV"
+    },
+    {
+      "added_at": "2024-07-29 04:55:35",
+      "album": {
+        "name": "Helu Gelathi (From \"Ibbani Tabbida Ileyali\")",
+        "url": "https://open.spotify.com/album/6cqIuYdUZjCkaN9jYOlfR1"
+      },
+      "artists": [
+        {
+          "name": "Charan Raj",
+          "url": "https://open.spotify.com/artist/1ouBpMzbHI9hMAdqZwIheV"
+        },
+        {
+          "name": "Gagan Baderiya",
+          "url": "https://open.spotify.com/artist/0288VNkaL5hm0SBDGEv5uq"
+        },
+        {
+          "name": "Nagarjun Sharma",
+          "url": "https://open.spotify.com/artist/6y0fX1VsvikMf62did3WY1"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "Helu Gelathi (From \"Ibbani Tabbida Ileyali\")",
+      "url": "https://open.spotify.com/track/20TE5yIQQXnxp3qxTh1SwM"
     },
     {
       "added_at": "2024-07-26 08:57:01",
@@ -77,28 +101,24 @@
       "url": "https://open.spotify.com/track/0LNLgN8Prqzm7OsMO88e3L"
     },
     {
-      "added_at": "2024-07-25 13:45:31",
+      "added_at": "2024-07-29 12:45:23",
       "album": {
-        "name": "Ilege Banda Maleye (From \"Murphy\")",
-        "url": "https://open.spotify.com/album/2Q5t8p5xMgVR0w3SSTD3Sp"
+        "name": "Kya Lafda (From \"Double ISMART\")(Kannada)",
+        "url": "https://open.spotify.com/album/6EnM5ib8KvpQdRfrPpJ5lc"
       },
       "artists": [
         {
-          "name": "Rajat Hegde",
-          "url": "https://open.spotify.com/artist/0KUITfL95SqUmYtOBPjLtW"
+          "name": "Chethan Kumar",
+          "url": "https://open.spotify.com/artist/3zMAaXwoMBtxeIzUQjiXcy"
         },
         {
-          "name": "Keerthan Holla",
-          "url": "https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re"
-        },
-        {
-          "name": "K. S. Harisankar",
-          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
+          "name": "Meghana Joshi",
+          "url": "https://open.spotify.com/artist/3XM4lz5T2oLAI5Bu95TGhv"
         }
       ],
-      "duration_ms": 272975,
-      "name": "Ilege Banda Maleye (From \"Murphy\")",
-      "url": "https://open.spotify.com/track/0FALclXBdKAAdMBAxtasQ8"
+      "duration_ms": 271470,
+      "name": "Kya Lafda (From \"Double ISMART\")(Kannada)",
+      "url": "https://open.spotify.com/track/65YhQjihIAsP1lqRPN2JCY"
     },
     {
       "added_at": "2024-05-28 10:34:47",
@@ -123,6 +143,30 @@
       "duration_ms": 200374,
       "name": "My Marriage is Fixed (From \"Krishnam Pranaya Sakhi\")",
       "url": "https://open.spotify.com/track/06dfByjLibFeOmhFAy6hLr"
+    },
+    {
+      "added_at": "2024-07-25 13:45:31",
+      "album": {
+        "name": "Ilege Banda Maleye (From \"Murphy\")",
+        "url": "https://open.spotify.com/album/2Q5t8p5xMgVR0w3SSTD3Sp"
+      },
+      "artists": [
+        {
+          "name": "Rajat Hegde",
+          "url": "https://open.spotify.com/artist/0KUITfL95SqUmYtOBPjLtW"
+        },
+        {
+          "name": "Keerthan Holla",
+          "url": "https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re"
+        },
+        {
+          "name": "K. S. Harisankar",
+          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
+        }
+      ],
+      "duration_ms": 272975,
+      "name": "Ilege Banda Maleye (From \"Murphy\")",
+      "url": "https://open.spotify.com/track/0FALclXBdKAAdMBAxtasQ8"
     },
     {
       "added_at": "2024-07-22 11:19:08",
@@ -1775,54 +1819,6 @@
       "duration_ms": 260191,
       "name": "Nodoka (From \"Pushpa 2 The Rule\") [KANNADA]",
       "url": "https://open.spotify.com/track/1WAf9IPeXPci5N5tpz3CfT"
-    },
-    {
-      "added_at": "2024-05-22 08:24:44",
-      "album": {
-        "name": "Elli Hode Nee (From \"Ramana Avatara\")",
-        "url": "https://open.spotify.com/album/02peMQph3GJgHNXmYOMI6m"
-      },
-      "artists": [
-        {
-          "name": "Pancham Jeeva",
-          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
-        },
-        {
-          "name": "Judah Sandhy",
-          "url": "https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V"
-        },
-        {
-          "name": "Vikas Pampapathi",
-          "url": "https://open.spotify.com/artist/1BBIHUOyYTFDRFkOui8Y2f"
-        }
-      ],
-      "duration_ms": 215764,
-      "name": "Elli Hode Nee (From \"Ramana Avatara\")",
-      "url": "https://open.spotify.com/track/0XTj9jLyV9ybEhHvppq4ph"
-    },
-    {
-      "added_at": "2024-05-29 09:44:38",
-      "album": {
-        "name": "Music Shop Murthy (Kannada)",
-        "url": "https://open.spotify.com/album/4axwoVetCLGeyb5vxDhRl5"
-      },
-      "artists": [
-        {
-          "name": "Pavan",
-          "url": "https://open.spotify.com/artist/3DsYnBCj82o1618kqGdGKp"
-        },
-        {
-          "name": "Prasanna Kumar M S",
-          "url": "https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ"
-        },
-        {
-          "name": "Kishore Vishwakarma",
-          "url": "https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ"
-        }
-      ],
-      "duration_ms": 138744,
-      "name": "Andkondang Agutta",
-      "url": "https://open.spotify.com/track/4CaicpU9DNpOQaauNMCwbk"
     }
   ],
   "unique_name": "Latest Kannada",

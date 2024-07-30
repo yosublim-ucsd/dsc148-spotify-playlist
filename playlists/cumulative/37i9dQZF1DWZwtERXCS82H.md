@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-758 songs - 1 day 8 hr 50 min
+760 songs - 1 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Avignon](https://open.spotify.com/track/5TAVI2qJFJMSsfR3qB5Bub) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Avignon](https://open.spotify.com/album/6y7OWImxz4xSyspxzKsLvl) | 2:43 | 2023-09-11 |  |
 | [Aviron](https://open.spotify.com/track/6AZJTapFookh7e2ot25hZE) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Prospicio](https://open.spotify.com/album/2Jva3LhKgM8We64wBcUtAX) | 2:30 | 2022-04-15 | 2023-08-08 |
 | [Awakening](https://open.spotify.com/track/4NtQxFOAJhJdScCIgEZkeN) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Awakening](https://open.spotify.com/album/5vsFLDIbHA9rWnTLfM6n6Q) | 1:57 | 2022-06-07 | 2023-07-25 |
+| [Aún Te Veo](https://open.spotify.com/track/3fB2azt4qGQTs2KbSsEmjH) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Aún Te Veo](https://open.spotify.com/album/5ZG2B564RbdcYWLEjheU77) | 2:30 | 2024-07-29 |  |
 | [Ática](https://open.spotify.com/track/07g8nWc95mnGgPfRlRq075) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Ática](https://open.spotify.com/album/2UEDt340ibuHflO6Hd2ZEs) | 2:29 | 2022-04-15 | 2023-10-03 |
 | [Ballade Pour Elly](https://open.spotify.com/track/0p6olbVHkNaijGRG6IDEnK) | [Oscar Sundberg](https://open.spotify.com/artist/15IHLyiNk8DVf00tp661dp) | [Ballade Pour Elly](https://open.spotify.com/album/4S1yWI2jYomspKaEy8tnoZ) | 4:03 | 2023-04-12 |  |
 | [Beauty Of You](https://open.spotify.com/track/6zkZvCIEpgUUgCz7qSK3Nc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Beauty Of You](https://open.spotify.com/album/0Od2qq1KiShZ1Px1Rkka3x) | 2:16 | 2022-04-15 | 2024-04-04 |
@@ -554,6 +555,7 @@
 | [Settle Down In Somewhere](https://open.spotify.com/track/1e8NCyJxZaMd1XNZhKO9ez) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Settle Down In Somewhere](https://open.spotify.com/album/3nVJWV34H2s7zigZIZnxTr) | 2:37 | 2022-04-15 | 2023-08-08 |
 | [seulement vous](https://open.spotify.com/track/7k0Bl76i5qEYv3lTDwvQBC) | [Germain Lesage](https://open.spotify.com/artist/0ygpa3BkVD5ZYljYGF54EK) | [seulement vous](https://open.spotify.com/album/0qlzv0RHDVgNc77X7uiKMH) | 1:46 | 2022-09-20 | 2023-07-25 |
 | [Seuls ensemble](https://open.spotify.com/track/5r0ag6p51d3VOF8rVaL09E) | [Jean\-Marie Daviau](https://open.spotify.com/artist/4LsnrByAb2moZP6XcRHA8e) | [Seuls ensemble](https://open.spotify.com/album/1C7WhYl4YSRxMtEZSOE4tH) | 2:11 | 2022-04-15 | 2023-07-25 |
+| [Shade of Honey](https://open.spotify.com/track/1RYJqZKLckqbTDLTyoOG1g) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Shade of Honey](https://open.spotify.com/album/39a7DwC1KypXA1B4890uvr) | 2:47 | 2024-07-29 |  |
 | [Shadow Lake](https://open.spotify.com/track/670ju7vreYMZdh22AfhQ9N) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Shadow Lake](https://open.spotify.com/album/5ERM8QWfXBDp2ohI01V0Xz) | 2:31 | 2023-12-12 |  |
 | [Shadows](https://open.spotify.com/track/2OQmujYu7g2xFB61Syic6X) | [Mark Pike](https://open.spotify.com/artist/5tgpewfGPEl1Xt7ZfpL0rU) | [Shadows](https://open.spotify.com/album/6euODh2yNm4Jkt8mej5RHF) | 4:12 | 2022-04-15 | 2024-01-05 |
 | [Shared Shelter](https://open.spotify.com/track/2gtgt4HljfLVdXRMPG9QiA) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Shared Shelter](https://open.spotify.com/album/0s1hXlZf3ioJGkBzNKuQpQ) | 2:41 | 2022-04-15 | 2023-08-08 |

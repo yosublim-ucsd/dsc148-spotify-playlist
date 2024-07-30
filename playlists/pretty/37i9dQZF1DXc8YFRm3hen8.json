@@ -1,6 +1,6 @@
 {
   "description": "La banda de sonido de tu d\u00eda.",
-  "num_followers": 174740,
+  "num_followers": 174753,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
@@ -219,18 +219,18 @@
     {
       "added_at": "2024-07-25 18:13:41",
       "album": {
-        "name": "Nunca Lo Olvides",
-        "url": "https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui"
+        "name": "Alta Suciedad",
+        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
       },
       "artists": [
         {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 299810,
-      "name": "Nunca Lo Olvides",
-      "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
+      "duration_ms": 217373,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0jePqZlutXGa8xz6NNyKAy"
     },
     {
       "added_at": "2024-07-25 18:13:41",
@@ -255,34 +255,18 @@
     {
       "added_at": "2024-07-25 18:13:41",
       "album": {
-        "name": "Alta Suciedad",
-        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
+        "name": "Nunca Lo Olvides",
+        "url": "https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
         }
       ],
-      "duration_ms": 217373,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0jePqZlutXGa8xz6NNyKAy"
-    },
-    {
-      "added_at": "2024-07-25 18:13:41",
-      "album": {
-        "name": "Por ces\u00e1rea",
-        "url": "https://open.spotify.com/album/633jS6fM44Zbr1gyI0eF19"
-      },
-      "artists": [
-        {
-          "name": "Dillom",
-          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
-        }
-      ],
-      "duration_ms": 216837,
-      "name": "Cirug\u00eda",
-      "url": "https://open.spotify.com/track/0uFRDicafe9Gto0v2pk3kT"
+      "duration_ms": 299810,
+      "name": "Nunca Lo Olvides",
+      "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
     },
     {
       "added_at": "2024-07-25 18:13:41",
@@ -299,6 +283,22 @@
       "duration_ms": 289760,
       "name": "Creo",
       "url": "https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ"
+    },
+    {
+      "added_at": "2024-07-25 18:13:41",
+      "album": {
+        "name": "Por ces\u00e1rea",
+        "url": "https://open.spotify.com/album/633jS6fM44Zbr1gyI0eF19"
+      },
+      "artists": [
+        {
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+        }
+      ],
+      "duration_ms": 216837,
+      "name": "Cirug\u00eda",
+      "url": "https://open.spotify.com/track/0uFRDicafe9Gto0v2pk3kT"
     },
     {
       "added_at": "2024-07-25 18:13:41",

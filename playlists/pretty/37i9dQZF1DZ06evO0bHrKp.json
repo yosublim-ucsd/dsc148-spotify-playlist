@@ -1,12 +1,12 @@
 {
   "description": "This is Sum 41. The essential tracks, all in one playlist.",
-  "num_followers": 197252,
+  "num_followers": 197303,
   "original_name": "This Is Sum 41",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAADYb/FbcZTS/HTtuHSWtfeR",
+  "snapshot_id": "ZqWKAAAAAABfwePsp74RM0Pbw9ZSbG95",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+        "name": "Underclass Hero",
+        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 169960,
-      "name": "Motivation",
-      "url": "https://open.spotify.com/track/6joQ1zE0lhx0UazVTK05Xc"
+      "duration_ms": 291360,
+      "name": "With Me",
+      "url": "https://open.spotify.com/track/1OTvWduKQV0MQd2gnGM9He"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Underclass Hero",
-        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 291360,
-      "name": "With Me",
-      "url": "https://open.spotify.com/track/1OTvWduKQV0MQd2gnGM9He"
+      "duration_ms": 169960,
+      "name": "Motivation",
+      "url": "https://open.spotify.com/track/6joQ1zE0lhx0UazVTK05Xc"
     },
     {
       "added_at": null,

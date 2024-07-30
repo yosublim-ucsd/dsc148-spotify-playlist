@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,757 likes - 57 songs - 2 hr 57 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,762 likes - 57 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 44 | [Close To Me](https://open.spotify.com/track/7okvb2Sh9WlEMZ0voGpswh) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Another World](https://open.spotify.com/album/1zS4ssyuOpe7CIJh1LJ6DX) | 2:55 |
 | 45 | [What Does Forever Mean?](https://open.spotify.com/track/5dcIvtcsBl5g7QZs7SUUiS) | [LTN](https://open.spotify.com/artist/2IK99qf3aYxFWkgCkc7kQ3), [Ghostbeat](https://open.spotify.com/artist/6HM5cyDWiTq4ijhdsaRZiS), [Adara](https://open.spotify.com/artist/3ZejoaXlP3oqmmTseylLDY) | [What Does Forever Mean?](https://open.spotify.com/album/0BwmiI2w6mkzMCwBfLeT2f) | 3:44 |
 | 46 | [Freefall](https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Freefall](https://open.spotify.com/album/0tcGYRO1ZwobReqGzMR883) | 3:39 |
-| 47 | [Alice](https://open.spotify.com/track/73bZS69zrQVAwaMvollH4C) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer), [Joseph Michael Jury](https://open.spotify.com/artist/1xEXXaVvXbXTIqHeDrDRlH) | [Alice \(feat Joe Jury\)](https://open.spotify.com/album/62ekWJbgV7Yno7Zwc7zpE3) | 3:09 |
+| 47 | [Alice](https://open.spotify.com/track/73bZS69zrQVAwaMvollH4C) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [Alice \(feat Joe Jury\)](https://open.spotify.com/album/62ekWJbgV7Yno7Zwc7zpE3) | 3:09 |
 | 48 | [Every Breath](https://open.spotify.com/track/6mTWTcuOnCGktsCXeCEEjK) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Every Breath](https://open.spotify.com/album/4UUnFvSEbJhp6Tyuut9ncu) | 3:25 |
 | 49 | [Syndicate](https://open.spotify.com/track/1f8QitnYrBjCu2zMHGGxNj) | [Renegade System](https://open.spotify.com/artist/1yeqihLwOY64E9YKgpc1BQ) | [Syndicate](https://open.spotify.com/album/6f9I9J1Eslbkv8uAj9bJQu) | 3:59 |
 | 50 | [Drumroll Please](https://open.spotify.com/track/4lIeR1zvv0J8lEVRVI58NQ) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj) | [Drumroll Please](https://open.spotify.com/album/2qoUIOVBI5xG8NqBziLCYd) | 2:19 |

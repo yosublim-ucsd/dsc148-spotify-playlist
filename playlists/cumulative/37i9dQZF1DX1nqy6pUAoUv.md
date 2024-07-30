@@ -4,7 +4,7 @@
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Rhiannon Giddens
 
-249 songs - 16 hr 13 min
+250 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Bloomsday](https://open.spotify.com/track/2kRPwBHZQTot91lTuElVmK) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Bloomsday](https://open.spotify.com/album/2rfQho2fgiLBVquouCUbKy) | 3:19 | 2021-10-13 | 2022-07-29 |
 | [Bloomsday](https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:19 | 2022-02-25 | 2024-04-19 |
 | [Blue Heron](https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 4:28 | 2021-10-13 |  |
-| [Boots of Spanish Leather \(feat\. Diana DeMuth\)](https://open.spotify.com/track/70ToRlumcpgqvPQMcqnsji) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX), [Diana DeMuth](https://open.spotify.com/artist/1EGJoRmXcYb7biwtm8r0ln) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 4:53 | 2021-10-13 |  |
+| [Boots of Spanish Leather \(feat\. Diana DeMuth\)](https://open.spotify.com/track/70ToRlumcpgqvPQMcqnsji) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX), [Diana DeMuth](https://open.spotify.com/artist/1EGJoRmXcYb7biwtm8r0ln) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 4:53 | 2021-10-13 | 2024-07-30 |
 | [Brand New Day \- Live](https://open.spotify.com/track/3WD8P9edih2uKioQu218Ct) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Live at the Paramount](https://open.spotify.com/album/4WpmLRfmXFom0gjfLb9FWG) | 2:57 | 2021-10-13 | 2022-06-08 |
 | [Breakin' Ground](https://open.spotify.com/track/2yi1jPkYB2WVdC2z9uNxyG) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Breakin' Ground](https://open.spotify.com/album/55tT9zsQepZmarLKDYFTcl) | 3:04 | 2021-10-13 |  |
 | [breathe again](https://open.spotify.com/track/2exUyljlhoH86MlcicuUXd) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:49 | 2022-02-25 | 2024-04-19 |
@@ -140,6 +140,7 @@
 | [Love and Chains](https://open.spotify.com/track/5kQ69AMKeII7YLjdtTEmM9) | [Viv & Riley](https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H) | [Vivian Leva & Riley Calcagno](https://open.spotify.com/album/3xwM9xDjO2nOTeC6VCwPUN) | 3:37 | 2023-06-23 | 2024-04-19 |
 | [Love Farewell](https://open.spotify.com/track/6cvKWfzh1NTJMWXaAIVt63) | [Jake Xerxes Fussell](https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33) | [Good and Green Again](https://open.spotify.com/album/0Yak3Y7E8UjlUGSEn4DUuM) | 3:58 | 2022-02-25 |  |
 | [Love Part Three](https://open.spotify.com/track/5OoccFPlv12WWzdzJfcrfx) | [Dani Larkin](https://open.spotify.com/artist/6s74lp18Qqs5s46mJKtxWi) | [Love Part Three](https://open.spotify.com/album/5Quw6izA6Ub8cmeFIYLxnt) | 4:27 | 2021-10-13 | 2024-07-13 |
+| [Love Will Win the War](https://open.spotify.com/track/2vsm6CwQSxeAL2SAFQdQf9) | [Darden Smith](https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA) | [Everything](https://open.spotify.com/album/3vmJA3thCzpAOBHWsQp9Ov) | 3:54 | 2024-07-05 |  |
 | [Lucid Lucy](https://open.spotify.com/track/6Xw7qv0H03e7bPBIH6tMQQ) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Simple Syrup](https://open.spotify.com/album/1WO7SNNBa9NddGXi3UDNjF) | 3:37 | 2021-10-13 |  |
 | [Machine](https://open.spotify.com/track/0VhedNKd5Ca71G1zsn3XTT) | [Emily Barker](https://open.spotify.com/artist/25uHIpsCWoj8wEHFOEhbuV) | [A Dark Murmuration of Words](https://open.spotify.com/album/0Ng0jOnn1nO0WshVGE19fo) | 3:17 | 2021-10-13 | 2022-07-27 |
 | [Maggie May](https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Banjo Babes](https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb) | 4:05 | 2022-02-25 |  |

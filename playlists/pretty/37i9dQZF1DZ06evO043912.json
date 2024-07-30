@@ -1,12 +1,12 @@
 {
   "description": "This is King Sunny Ade. The essential tracks, all in one playlist.",
-  "num_followers": 5678,
+  "num_followers": 5680,
   "original_name": "This Is King Sunny Ade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAACwUQjIyT6YgHlOnQelR2Ol",
+  "snapshot_id": "ZqWKAAAAAAC0j2v5PNDdVTVZbKK56Czz",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classics, Vol. 1: Let Them Say & Edide",
-        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 212775,
-      "name": "Komi Komi",
-      "url": "https://open.spotify.com/track/4Rpna21W80qkJwyg1WtuAw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Check \"E\"",
         "url": "https://open.spotify.com/album/1Lnu3WlDhPOpz6IWdXmBUh"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 464549,
       "name": "Chief George Oyedele",
       "url": "https://open.spotify.com/track/11ScdgNDCBPXziBKtF8GIH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classics, Vol. 1: Let Them Say & Edide",
+        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 212775,
+      "name": "Komi Komi",
+      "url": "https://open.spotify.com/track/4Rpna21W80qkJwyg1WtuAw"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Degrees North",
-        "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 540106,
-      "name": "Ariya",
-      "url": "https://open.spotify.com/track/0chro0oQ5d6hRZLtXg9yD5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Check \"E\"",
         "url": "https://open.spotify.com/album/1Lnu3WlDhPOpz6IWdXmBUh"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 148520,
       "name": "Omo Se Koko",
       "url": "https://open.spotify.com/track/4G7H7RygxVOueRUdBsYYF9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seven Degrees North",
+        "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 540106,
+      "name": "Ariya",
+      "url": "https://open.spotify.com/track/0chro0oQ5d6hRZLtXg9yD5"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "E Dide [Get Up]",
-        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "E Dide E Mujo",
-      "url": "https://open.spotify.com/track/5sHSZQIZhpjXjVmOAagkPt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best of the Classic Years",
         "url": "https://open.spotify.com/album/6Y5SoiYENbNuTBc6mTUKG9"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 71626,
       "name": "African Beats Lu Nsere",
       "url": "https://open.spotify.com/track/1LV8wFaEEMJFG8Z5x57YPq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "E Dide [Get Up]",
+        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "E Dide E Mujo",
+      "url": "https://open.spotify.com/track/5sHSZQIZhpjXjVmOAagkPt"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "E Dide [Get Up]",
-        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Ode La Alaga",
-      "url": "https://open.spotify.com/track/3MjF9ApEZlJXKQrPTU14Mv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Classics, Vol. 1: Let Them Say & Edide",
         "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 93578,
       "name": "E Yi Ga",
       "url": "https://open.spotify.com/track/7hQWQu6FLh2EtCHtNY9O3M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "E Dide [Get Up]",
+        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Ode La Alaga",
+      "url": "https://open.spotify.com/track/3MjF9ApEZlJXKQrPTU14Mv"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Juju Music",
+        "url": "https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 428800,
+      "name": "Ja Funmi",
+      "url": "https://open.spotify.com/track/7LLyEy0GVYBpziR5O06ZZv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Synchro System (THEMBA's Herd Mix)",
         "url": "https://open.spotify.com/album/3TOKdWOHRvx0YgBin9w8H6"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 212256,
       "name": "Synchro System (THEMBA's Herd Mix)",
       "url": "https://open.spotify.com/track/04xSgQhyNYILbEhEVmJn9F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Juju Music",
-        "url": "https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 428800,
-      "name": "Ja Funmi",
-      "url": "https://open.spotify.com/track/7LLyEy0GVYBpziR5O06ZZv"
     },
     {
       "added_at": null,

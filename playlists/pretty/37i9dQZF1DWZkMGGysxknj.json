@@ -1,6 +1,6 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 812067,
+  "num_followers": 812064,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "CSN",
+        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 274040,
+      "name": "Shadow Captain",
+      "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/5DphHIaiZBFZvI1epMUjMZ"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 178852,
       "name": "Saturday Nights",
       "url": "https://open.spotify.com/track/7d3s1XpWyIHZq20ie2ghSp"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "CSN",
-        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 274040,
-      "name": "Shadow Captain",
-      "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Happy Now (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3NQLd4nYN0KfiZsU6M3xlm"
-      },
-      "artists": [
-        {
-          "name": "Linn Brikell",
-          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Happy Now - Acoustic",
-      "url": "https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/5W7UsE6bg6hx9ygRaebphc"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 143896,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/7Kn7TYpJT0fjv5he98acyq"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Happy Now (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3NQLd4nYN0KfiZsU6M3xlm"
+      },
+      "artists": [
+        {
+          "name": "Linn Brikell",
+          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Happy Now - Acoustic",
+      "url": "https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/30yS0uvaCdl5ANFuupquVk"
-      },
-      "artists": [
-        {
-          "name": "Reason",
-          "url": "https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6"
-        }
-      ],
-      "duration_ms": 244946,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/3vwj1C07osOH8vqi6qmOoY"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "If I Can't Have You",
         "url": "https://open.spotify.com/album/120k8Zuxhz77mxl5fLXPuB"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 242776,
       "name": "If I Can't Have You",
       "url": "https://open.spotify.com/track/0NREkFloGwchkD4AKHZ10Y"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/30yS0uvaCdl5ANFuupquVk"
+      },
+      "artists": [
+        {
+          "name": "Reason",
+          "url": "https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6"
+        }
+      ],
+      "duration_ms": 244946,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/3vwj1C07osOH8vqi6qmOoY"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "New Rules",
-        "url": "https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA"
-      },
-      "artists": [
-        {
-          "name": "Postcards & Polaroids",
-          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Sweet but Psycho",
         "url": "https://open.spotify.com/album/5ZaipsjftYgiq8axb6Iv5e"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 188712,
       "name": "Sweet but Psycho - Acoustic",
       "url": "https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "New Rules",
+        "url": "https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA"
+      },
+      "artists": [
+        {
+          "name": "Postcards & Polaroids",
+          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Saudade (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG"
-      },
-      "artists": [
-        {
-          "name": "Ale Aguirre",
-          "url": "https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS"
-        }
-      ],
-      "duration_ms": 238817,
-      "name": "Saudade - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Two Lives EP",
         "url": "https://open.spotify.com/album/121sNhgDvl16qTW2Jtb4NC"
       },
@@ -1727,22 +1711,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Covers EP",
-        "url": "https://open.spotify.com/album/02Rt1McqlJZerdru6Xlovs"
+        "name": "Saudade (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG"
       },
       "artists": [
         {
-          "name": "Postcards & Polaroids",
-          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
-        },
-        {
-          "name": "Sad Boy",
-          "url": "https://open.spotify.com/artist/4meJBHK5f4F36FJAPqO2qC"
+          "name": "Ale Aguirre",
+          "url": "https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS"
         }
       ],
-      "duration_ms": 145075,
-      "name": "Girls Like You",
-      "url": "https://open.spotify.com/track/67Mij0TZUmIB9ZmjkZXtN8"
+      "duration_ms": 238817,
+      "name": "Saudade - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1807,6 +1787,26 @@
       "duration_ms": 213041,
       "name": "Ay, Amor \u2665\ufe0e",
       "url": "https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Covers EP",
+        "url": "https://open.spotify.com/album/02Rt1McqlJZerdru6Xlovs"
+      },
+      "artists": [
+        {
+          "name": "Postcards & Polaroids",
+          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
+        },
+        {
+          "name": "Sad Boy",
+          "url": "https://open.spotify.com/artist/4meJBHK5f4F36FJAPqO2qC"
+        }
+      ],
+      "duration_ms": 145075,
+      "name": "Girls Like You",
+      "url": "https://open.spotify.com/track/67Mij0TZUmIB9ZmjkZXtN8"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/3Zm85V97fhnqWGUNxblt5E"
-      },
-      "artists": [
-        {
-          "name": "Praia Grande",
-          "url": "https://open.spotify.com/artist/3jenbdOP2dkX9QKDODbi1v"
-        }
-      ],
-      "duration_ms": 225674,
-      "name": "Clocks",
-      "url": "https://open.spotify.com/track/6erAapz0pGmUY5koXSnhqT"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Mito",
         "url": "https://open.spotify.com/album/6ELoILaST1j1C4UNFZO2vW"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 234478,
       "name": "Mito",
       "url": "https://open.spotify.com/track/0yN1zA3OSihsVrAwymehwX"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/3Zm85V97fhnqWGUNxblt5E"
+      },
+      "artists": [
+        {
+          "name": "Praia Grande",
+          "url": "https://open.spotify.com/artist/3jenbdOP2dkX9QKDODbi1v"
+        }
+      ],
+      "duration_ms": 225674,
+      "name": "Clocks",
+      "url": "https://open.spotify.com/track/6erAapz0pGmUY5koXSnhqT"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2185,22 +2185,6 @@
       "url": "https://open.spotify.com/track/1i4I5mPDn6GdHlO43c2O27"
     },
     {
-      "added_at": "2024-05-24 00:17:45",
-      "album": {
-        "name": "The Best Sea",
-        "url": "https://open.spotify.com/album/6viJOxH6ZeWSFqiigxA1a1"
-      },
-      "artists": [
-        {
-          "name": "Marta Del Grandi",
-          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
-        }
-      ],
-      "duration_ms": 141897,
-      "name": "The Best Sea",
-      "url": "https://open.spotify.com/track/0s5KsQzfARUoA6aqOcZ2m1"
-    },
-    {
       "added_at": "2023-06-09 14:25:05",
       "album": {
         "name": "The Day I Left Hanoi",
@@ -2231,6 +2215,22 @@
       "duration_ms": 181733,
       "name": "Tuyo",
       "url": "https://open.spotify.com/track/1SsXzDNEMxcdQgodjAL1eZ"
+    },
+    {
+      "added_at": "2024-05-24 00:17:45",
+      "album": {
+        "name": "The Best Sea",
+        "url": "https://open.spotify.com/album/6viJOxH6ZeWSFqiigxA1a1"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "duration_ms": 141897,
+      "name": "The Best Sea",
+      "url": "https://open.spotify.com/track/0s5KsQzfARUoA6aqOcZ2m1"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2475,22 +2475,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Una Forma de Energi\u0301a Que Ilumina las Cosas",
-        "url": "https://open.spotify.com/album/0CiWilvMV56ugYkjd8Ct1O"
+        "name": "Atlas: Seven",
+        "url": "https://open.spotify.com/album/3xyLM733s9O4Is7m4VgaQi"
       },
       "artists": [
         {
-          "name": "N\u00fameros Primos",
-          "url": "https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7"
-        },
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
         }
       ],
-      "duration_ms": 200944,
-      "name": "Una Forma de Energi\u0301a Que Ilumina las Cosas",
-      "url": "https://open.spotify.com/track/3SHUNQPRPLs8ro0wqQg1bX"
+      "duration_ms": 263124,
+      "name": "Atlas: Seven",
+      "url": "https://open.spotify.com/track/2LzOMk2irKa51zmGyQKNmK"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2511,18 +2507,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Atlas: Seven",
-        "url": "https://open.spotify.com/album/3xyLM733s9O4Is7m4VgaQi"
+        "name": "Una Forma de Energi\u0301a Que Ilumina las Cosas",
+        "url": "https://open.spotify.com/album/0CiWilvMV56ugYkjd8Ct1O"
       },
       "artists": [
         {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+          "name": "N\u00fameros Primos",
+          "url": "https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7"
+        },
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
         }
       ],
-      "duration_ms": 263124,
-      "name": "Atlas: Seven",
-      "url": "https://open.spotify.com/track/2LzOMk2irKa51zmGyQKNmK"
+      "duration_ms": 200944,
+      "name": "Una Forma de Energi\u0301a Que Ilumina las Cosas",
+      "url": "https://open.spotify.com/track/3SHUNQPRPLs8ro0wqQg1bX"
     },
     {
       "added_at": "2023-06-09 14:25:05",

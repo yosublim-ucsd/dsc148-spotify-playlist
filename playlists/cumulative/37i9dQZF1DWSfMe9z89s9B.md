@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Dua Saleh
 
-1,245 songs - 2 day 17 hr 48 min
+1,246 songs - 2 day 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [cross my heart](https://open.spotify.com/track/1GnTBbaFtxNkHEjUsWEdNu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 2:26 | 2023-09-22 | 2024-04-19 |
 | [cross my heart](https://open.spotify.com/track/3nLSxpwZrU4ugAMVxYOHJe) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [cross my heart](https://open.spotify.com/album/4NK2abDnkV5FqI0q32DLL9) | 2:26 | 2023-09-22 | 2024-02-12 |
 | [cross my heart](https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [cross my heart](https://open.spotify.com/album/1MpZGsYzbDWKLwfJOijcVA) | 2:26 | 2023-09-22 | 2023-11-30 |
+| [crossfire](https://open.spotify.com/track/7dRUUyfuO73X0pLRQqgJvv) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [crossfire](https://open.spotify.com/album/41PzuNRsISalIrXzdw35V0) | 2:21 | 2024-07-26 |  |
 | [Cruel](https://open.spotify.com/track/6uJdUARnEctC9X4nrbaNP5) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Cruel](https://open.spotify.com/album/62ft4e9TqvJRNaUt9QYk2F) | 3:06 | 2023-09-08 | 2024-02-24 |
 | [Cruel World \- Jim\-E Stack Remix](https://open.spotify.com/track/1xKNnjZkSyj2QbkqruJyCr) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Cruel World \(Jim\-E Stack Remix\)](https://open.spotify.com/album/5Dh7p39Uf8JUkT8P74LfgS) | 3:12 | 2022-04-01 | 2022-04-13 |
 | [Cry No More](https://open.spotify.com/track/6OwH1gyEMEZHDfQ3li6R3z) | [Chlo Chlo](https://open.spotify.com/artist/5WSw7GP4vHRXIFz648S3OW), [Ranger](https://open.spotify.com/artist/6QtbSwzlGllHgDOk5EiTwM) | [Cry No More](https://open.spotify.com/album/1RAljLiZBe7u0QXIIqFJWS) | 3:18 | 2021-11-05 | 2022-01-06 |
@@ -1125,7 +1126,7 @@
 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 | 2023-08-25 | 2024-03-30 |
 | [Tried To Fly .](https://open.spotify.com/track/7LdBSqbWyWGBKYboMQghPF) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Tried To Fly .](https://open.spotify.com/album/18Qyq8CXpenmGAgVzRNrIA) | 2:59 | 2023-09-08 | 2023-10-22 |
 | [Trouble](https://open.spotify.com/track/3L7HXWRZMkSR7dEi4ttJOj) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Trouble](https://open.spotify.com/album/7arfU7Nnx72FDYB83muIRY) | 3:04 | 2021-10-15 | 2022-07-24 |
-| [Truman Show](https://open.spotify.com/track/4IzjDkQrKWLLUXQK4sAXZ3) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3), [L3GION](https://open.spotify.com/artist/2CGaMJdUQ5ArTPKYli1Lf4) | [Truman Show](https://open.spotify.com/album/5pNVjKBlfgVJO7EuZ4wdk1) | 2:57 | 2024-06-07 |  |
+| [Truman Show](https://open.spotify.com/track/4IzjDkQrKWLLUXQK4sAXZ3) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3), [L3GION](https://open.spotify.com/artist/2CGaMJdUQ5ArTPKYli1Lf4) | [Truman Show](https://open.spotify.com/album/5pNVjKBlfgVJO7EuZ4wdk1) | 2:57 | 2024-06-07 | 2024-07-30 |
 | [Trust](https://open.spotify.com/track/6YecmNnABghHDPTNlG3md5) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Trust](https://open.spotify.com/album/4R536rrBEQjh7g1MrhasoS) | 2:45 | 2022-10-07 | 2022-12-03 |
 | [Trust Nobody](https://open.spotify.com/track/60noSWJZxLxgZBzmOKxckF) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Trust Nobody](https://open.spotify.com/album/3Ysfk40yB4vJNCjflkD7tZ) | 3:15 | 2021-11-05 | 2022-07-29 |
 | [Trust Nobody](https://open.spotify.com/track/7ceXCl3ndsTFrH60P1c0io) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [AT LEAST WE HAVE THIS](https://open.spotify.com/album/6nnAy3W80YnGUj7t2wf2tr) | 3:15 | 2022-06-10 | 2022-08-09 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 
 ### [This Is AWOLNATION](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2yLRw4)
 
-> This is AWOLNATION\. The essential tracks, all in one playlist.
+> This is AWOLNATION\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,950 likes - 52 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,956 likes - 52 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 | 38 | [California Halo Blue](https://open.spotify.com/track/3mC4kKsdyjzVGpISqAnWnW) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j) | 3:53 |
 | 39 | [Take A Chance On Me \(feat\. Jewel\)](https://open.spotify.com/track/2QZpV3KZnDfqrvOfJNcvCY) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 4:01 |
 | 40 | [Jealous Buffoon](https://open.spotify.com/track/6RwLKfndAAn4vr1AjN3UYd) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Here Come the Runts](https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV) | 3:09 |
-| 41 | [Dark Matter](https://open.spotify.com/track/3PvTeXRn3F1C0GWIGuTms7) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Dark Matter](https://open.spotify.com/album/3ho4ck0V08Aetowu6YBYeS) | 2:35 |
-| 42 | [Table for One \(feat\. Elohim\)](https://open.spotify.com/track/7fE5PFt7j1aNGdCEM89qxN) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Table for One \(feat\. Elohim\)](https://open.spotify.com/album/6Vh3fdmfzij1qT1KVHapZQ) | 4:38 |
+| 41 | [Table for One \(feat\. Elohim\)](https://open.spotify.com/track/7fE5PFt7j1aNGdCEM89qxN) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Table for One \(feat\. Elohim\)](https://open.spotify.com/album/6Vh3fdmfzij1qT1KVHapZQ) | 4:38 |
+| 42 | [Dark Matter](https://open.spotify.com/track/3PvTeXRn3F1C0GWIGuTms7) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Dark Matter](https://open.spotify.com/album/3ho4ck0V08Aetowu6YBYeS) | 2:35 |
 | 43 | [Eye In The Sky \(feat\. Beck\)](https://open.spotify.com/track/4JxXyhC4FAALmp7uXrmsrG) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 4:03 |
 | 44 | [Here Come the Runts](https://open.spotify.com/track/5HWpx5Pjj9wFROhreH612d) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Here Come the Runts](https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV) | 3:19 |
 | 45 | [Shoestrings](https://open.spotify.com/track/0QvqrTGC7FSolbg8rQbHGa) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 3:11 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 | 51 | [Flagpole Sitta \(feat\. Elohim\)](https://open.spotify.com/track/5KcdcUuL8YI3PqeQIvJj2H) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 4:09 |
 | 52 | [Swinging from the Castles](https://open.spotify.com/track/6Vr85PSTw31QO9lplFapFL) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 3:02 |
 
-Snapshot ID: `ZqQ4gAAAAAD2kie6JSs6lxBexzavzLzE`
+Snapshot ID: `ZqWKAAAAAADTNIJufKOH0N8ksjbgyYCP`

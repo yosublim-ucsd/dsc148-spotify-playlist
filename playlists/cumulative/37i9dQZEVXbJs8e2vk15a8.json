@@ -18670,7 +18670,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 150000,
       "name": "JOYRIDE",
       "url": "https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0"
@@ -25423,6 +25423,32 @@
     },
     {
       "album": {
+        "name": "MONTAGEM VOZES PROFUNDAS (Remixes)",
+        "url": "https://open.spotify.com/album/7AjQV13ch86ps6TKjBsuFS"
+      },
+      "artists": [
+        {
+          "name": "DJ MAXZZ",
+          "url": "https://open.spotify.com/artist/3rX0drWPVa50yFG3HqzX0T"
+        },
+        {
+          "name": "DJ JL3 DA ZN",
+          "url": "https://open.spotify.com/artist/68J0b3Hj9aurxWUiy9FUMu"
+        },
+        {
+          "name": "DJ CD 011",
+          "url": "https://open.spotify.com/artist/33wh7J44m0CrsAFj2LuRk2"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144359,
+      "name": "MONTAGEM VOZES PROFUNDAS - Ultra Slowed",
+      "url": "https://open.spotify.com/track/3o3dIYuLIZfAO2kXP3eXrN"
+    },
+    {
+      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/4la7tekVTUdbviX90UvBS9"
       },
@@ -30920,7 +30946,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 186365,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
@@ -39644,7 +39670,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-29",
+      "date_removed": null,
       "duration_ms": 358000,
       "name": "True Love",
       "url": "https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW"

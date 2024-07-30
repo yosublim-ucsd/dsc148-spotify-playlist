@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T?si=NjKdf\-zpT96sXoM\_EXjuZw">Elsy Wameyo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,504 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,510 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

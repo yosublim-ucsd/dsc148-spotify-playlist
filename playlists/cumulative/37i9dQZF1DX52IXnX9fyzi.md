@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-489 songs - 21 hr 11 min
+490 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Candice](https://open.spotify.com/track/29jQKqToqxKPsDy2IeKjan) | [Flavio Apicella](https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v) | [Candice](https://open.spotify.com/album/4dAIB4LbNy3LCupWfH8oxD) | 3:34 | 2022-04-14 | 2022-06-08 |
 | [Canyon, Catch Your Thoughts](https://open.spotify.com/track/1DZgGPsQfkz9JUTzP2qQVr) | [Warble](https://open.spotify.com/artist/6c97PAHbxfwJuLjV7gpwUb) | [Canyon, Catch Your Thoughts](https://open.spotify.com/album/59OTSpWsLdw5IVPFTnzr3v) | 2:15 | 2022-10-26 |  |
 | [Caprices](https://open.spotify.com/track/4K3o0HPO3OaGKWpR5h16J7) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Caprices](https://open.spotify.com/album/7rgQ2DAqWGBUWs1fCn4ZNd) | 2:10 | 2022-08-30 |  |
+| [Cara Al Cielo](https://open.spotify.com/track/28uqO9pe8CK4oEcPv9kd6v) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Cara Al Cielo](https://open.spotify.com/album/0vTQlMsVMMItZFkNcniAC4) | 2:22 | 2024-07-29 |  |
 | [Chanceux](https://open.spotify.com/track/5wgH8YJwzSVVWM8a1bfcq0) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Chanceux](https://open.spotify.com/album/3VqA48JuoaMtT5OJReQ6X0) | 3:16 | 2024-02-14 |  |
 | [Change](https://open.spotify.com/track/3QPEngaGqubH9qeo3MrPv2) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Change](https://open.spotify.com/album/0Y1JlLPyUEvslc0SaI5cXL) | 5:19 | 2022-10-26 |  |
 | [Changed hands](https://open.spotify.com/track/2Z1H2RAC182S3k4F1hCnt8) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Changed hands](https://open.spotify.com/album/30F0AtMEQhM2C2inOm5Ynj) | 2:56 | 2024-02-14 |  |
@@ -444,7 +445,7 @@
 | [Two Stones and a Paper](https://open.spotify.com/track/0FsKFO75OXjI6wKeoVSqCo) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Two Stones and a Paper](https://open.spotify.com/album/14G5gOiTgSot8XRvhGKLp9) | 2:21 | 2023-11-21 |  |
 | [Un Lent Mouvement](https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Un Lent Mouvement](https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb) | 2:41 | 2022-04-14 | 2022-12-24 |
 | [Un mazzolino di rose](https://open.spotify.com/track/0Z9EGceqg3e1PlatNVcb6n) | [Fulvio Neri](https://open.spotify.com/artist/6uYBrTfn9labgPGjkU4OkO) | [Un mazzolino di rose](https://open.spotify.com/album/3sgL5k7GHsCOUNkG5pvt2n) | 3:18 | 2022-04-14 | 2024-03-05 |
-| [Un peu d'espoir](https://open.spotify.com/track/43PPeEImtgU8I1a7Wm41bt) | [Brielle De Villiers](https://open.spotify.com/artist/04Xt0qmp91mLlKm5aFsWWW) | [Un peu d'espoir](https://open.spotify.com/album/1G3A5OJ2NooyclJwgrCHGD) | 2:13 | 2022-04-14 |  |
+| [Un peu d'espoir](https://open.spotify.com/track/43PPeEImtgU8I1a7Wm41bt) | [Brielle De Villiers](https://open.spotify.com/artist/04Xt0qmp91mLlKm5aFsWWW) | [Un peu d'espoir](https://open.spotify.com/album/1G3A5OJ2NooyclJwgrCHGD) | 2:13 | 2022-04-14 | 2024-07-30 |
 | [Unconditional](https://open.spotify.com/track/7eriWSdbkuFHBM6qiHIEq8) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Unconditional](https://open.spotify.com/album/1uy7xtQ94KNqMtQnr2KNCO) | 2:24 | 2022-04-14 | 2022-04-28 |
 | [Under the Tree](https://open.spotify.com/track/47q2Yzs2VG88llrNWH2icn) | [Sara Hoffman](https://open.spotify.com/artist/5E1w0yu3MqU1W1OaUT1fs1) | [Under the Tree](https://open.spotify.com/album/0Ba8rZUhKEBC4dqp2iP301) | 3:04 | 2024-03-04 |  |
 | [Underverse](https://open.spotify.com/track/2FqPT4G4ygSSRTerAfyUD6) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [In Faith](https://open.spotify.com/album/2URSgPPCKlKmsGqcDxfygl) | 3:12 | 2022-07-15 |  |

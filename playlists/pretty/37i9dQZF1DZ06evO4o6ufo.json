@@ -1,12 +1,12 @@
 {
-  "description": "This Is Panter B\u00e9lico. Los temas esenciales, todos en una lista.",
-  "num_followers": 62537,
+  "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
+  "num_followers": 62638,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAACjQbPmM1Wl5f+ojvYzM9b2",
+  "snapshot_id": "ZqWKAAAAAAA43HP5SzYm/3AqbkulxtFu",
   "tracks": [
     {
       "added_at": null,
@@ -759,22 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Popurr\u00ed: La Muerte de Manuelon / El \u00c1rbol",
-        "url": "https://open.spotify.com/album/61EXPkgwfysplYrG10cgUK"
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
       },
       "artists": [
         {
-          "name": "Mario \"El Cachorro\" Delgado",
-          "url": "https://open.spotify.com/artist/2C6aTaybjOqqtdTxKx8xTX"
-        },
-        {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
         }
       ],
-      "duration_ms": 496138,
-      "name": "Popurr\u00ed: La Muerte de Manuelon / El \u00c1rbol",
-      "url": "https://open.spotify.com/track/6RShqonMgBX0XRPtG7O2Am"
+      "duration_ms": 205901,
+      "name": "El Due\u00f1o Del Palenque (En Vivo)",
+      "url": "https://open.spotify.com/track/2qi4fMw9JfMQGbiFi92EfU"
     },
     {
       "added_at": null,
@@ -795,22 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
+        "name": "Popurr\u00ed: La Muerte de Manuelon / El \u00c1rbol",
+        "url": "https://open.spotify.com/album/61EXPkgwfysplYrG10cgUK"
       },
       "artists": [
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "Mario \"El Cachorro\" Delgado",
+          "url": "https://open.spotify.com/artist/2C6aTaybjOqqtdTxKx8xTX"
         },
         {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 205901,
-      "name": "El Due\u00f1o Del Palenque (En Vivo)",
-      "url": "https://open.spotify.com/track/2qi4fMw9JfMQGbiFi92EfU"
+      "duration_ms": 496138,
+      "name": "Popurr\u00ed: La Muerte de Manuelon / El \u00c1rbol",
+      "url": "https://open.spotify.com/track/6RShqonMgBX0XRPtG7O2Am"
     },
     {
       "added_at": null,

@@ -2,13 +2,13 @@
 
 ### [This Is Kodak Black](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2oTcyc)
 
-> This is Kodak Black\. The essential tracks, all in one playlist.
+> This Is Kodak Black\. Los temas esenciales, todos en una lista.
 
-119 songs - 6 hr 19 min
+120 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1800 Degrees](https://open.spotify.com/track/0EShjURNsCxbi5JpZjqCNG) | [Vulture Love](https://open.spotify.com/artist/021z3GxpIYc4ykwfHY5G5O), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Vulture Love Presents: The Last Zombies on Earth](https://open.spotify.com/album/1f0CTYUfYgfehhyKnR4noN) | 2:35 | 2024-06-10 |  |
+| [1800 Degrees](https://open.spotify.com/track/0EShjURNsCxbi5JpZjqCNG) | [Vulture Love](https://open.spotify.com/artist/021z3GxpIYc4ykwfHY5G5O), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Vulture Love Presents: The Last Zombies on Earth](https://open.spotify.com/album/1f0CTYUfYgfehhyKnR4noN) | 2:35 | 2024-06-10 | 2024-07-30 |
 | [2'CY](https://open.spotify.com/track/3R0SI46gC5a9BfFKXtbtSo) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [2'CY](https://open.spotify.com/album/1OeImrfH0v0zDItzvbov9y) | 2:59 | 2023-11-10 | 2023-12-14 |
 | [300 Blackout](https://open.spotify.com/track/3y3NwQPQAjKCunRz2eKggA) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kutthroat Bill: Vol\. 1](https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs) | 2:46 | 2022-10-29 | 2023-12-30 |
 | [All That \(with Kodak Black\)](https://open.spotify.com/track/4pE1289TEn8kZ87N08lPOp) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 1:49 | 2022-10-28 | 2022-10-30 |
@@ -125,6 +125,7 @@
 | [Water \(Drowning Pt\. 2\) \[feat\. Kodak Black\]](https://open.spotify.com/track/3xXI0QxPxPnexMc8wxPOYA) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 3:26 | 2023-06-18 | 2024-07-10 |
 | [Water \(Drowning Pt\. 2\) \[feat\. Kodak Black\]](https://open.spotify.com/track/6yDPFrHZLQbQa9Itd2J4Gp) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Me vs\. Myself](https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03) | 3:26 | 2022-12-10 | 2023-06-18 |
 | [What It Is \(Block Boy\) \(with Kodak Black\)](https://open.spotify.com/track/1O8zCu3dLLPxkbGfIsbRgE) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [What It Is \(Block Boy\) \(with Kodak Black\)](https://open.spotify.com/album/1O9xrX782LqLx4Z60528Ih) | 3:43 | 2023-03-21 |  |
+| [Yak's Prayer \(feat\. Kodak Black\)](https://open.spotify.com/track/2TWYm2ojFFrcq6y2utrCcx) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Faith Of A Mustard Seed](https://open.spotify.com/album/0WUrlWBRvpGtiPfU7RK46R) | 3:24 | 2024-07-30 |  |
 | [Z Look Jamaican](https://open.spotify.com/track/2Lw5B2B1KsssGf5NbjDeyj) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Boy Kodak](https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu) | 2:36 | 2022-10-28 | 2024-07-03 |
 | [ZEZE \(feat\. Travis Scott & Offset\)](https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 3:48 | 2022-10-28 |  |
 

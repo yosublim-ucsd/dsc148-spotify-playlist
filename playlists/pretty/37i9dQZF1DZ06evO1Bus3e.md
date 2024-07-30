@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Bus3e.md) - [plain]
 
 ### [This Is Arsenal Efectivo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Bus3e)
 
-> This Is Arsenal Efectivo\. Los temas esenciales, todos en una lista.
+> This is Arsenal Efectivo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,029 likes - 22 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,030 likes - 22 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Bus3e.md) - [plain]
 | 21 | [El Vivo Retrato \(Ivan Archivaldo\)](https://open.spotify.com/track/3gwyEB1bV3xdtl4gbfxAXt) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:44 |
 | 22 | [L.A\. Dank](https://open.spotify.com/track/7ygyBnWDSAPAyrr6s66tCr) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Seguiremos Trabajando](https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4) | 3:32 |
 
-Snapshot ID: `ZqQ4gAAAAAB5pEZm4gE2tIB4cWjCsXsI`
+Snapshot ID: `ZqWKAAAAAADSAdvHu2qTOmlnP4appZAD`

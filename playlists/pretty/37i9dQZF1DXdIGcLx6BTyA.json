@@ -723,22 +723,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Asunder",
-        "url": "https://open.spotify.com/album/0ld0jOVy5wuXqUqCU7Xpf8"
-      },
-      "artists": [
-        {
-          "name": "Ward Davis",
-          "url": "https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Time to Move On",
-      "url": "https://open.spotify.com/track/3RKbdvirSHpLVwbwQRqtZE"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Wine, Beer, Whiskey (Radio Edit)",
         "url": "https://open.spotify.com/album/4Th8fDtKCTD6lrmK43tcqR"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 184266,
       "name": "Wine, Beer, Whiskey - Radio Edit",
       "url": "https://open.spotify.com/track/2q4ooWQ4KvVhN2oX44m2D4"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Asunder",
+        "url": "https://open.spotify.com/album/0ld0jOVy5wuXqUqCU7Xpf8"
+      },
+      "artists": [
+        {
+          "name": "Ward Davis",
+          "url": "https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Time to Move On",
+      "url": "https://open.spotify.com/track/3RKbdvirSHpLVwbwQRqtZE"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Honky Tonk Hell",
-        "url": "https://open.spotify.com/album/7A07KizyQlXTvwFY0Nj0XF"
-      },
-      "artists": [
-        {
-          "name": "Gabe Lee",
-          "url": "https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Honky Tonk Hell",
-      "url": "https://open.spotify.com/track/6zBCsjkZd6SLDX32I8ZzrF"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Nightfall",
         "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 190173,
       "name": "Over Drinking",
       "url": "https://open.spotify.com/track/6pmUZU4mDjodUy7LEbxKYZ"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Honky Tonk Hell",
+        "url": "https://open.spotify.com/album/7A07KizyQlXTvwFY0Nj0XF"
+      },
+      "artists": [
+        {
+          "name": "Gabe Lee",
+          "url": "https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Honky Tonk Hell",
+      "url": "https://open.spotify.com/track/6zBCsjkZd6SLDX32I8ZzrF"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1055,22 +1055,18 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Alone Together Sessions",
-        "url": "https://open.spotify.com/album/0Sw1qWpwK8FANIuvvKTYLE"
+        "name": "Joshua Tree",
+        "url": "https://open.spotify.com/album/604SYSnLaQAYume81vqV1z"
       },
       "artists": [
         {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
-        },
-        {
-          "name": "Ray Wylie Hubbard",
-          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+          "name": "Ruthie Collins",
+          "url": "https://open.spotify.com/artist/4qf3V2xmsI9GDIkQGlMfwV"
         }
       ],
-      "duration_ms": 293346,
-      "name": "Drunken Poet's Dream [feat. Ray Wylie Hubbard] (Alone Together Sessions)",
-      "url": "https://open.spotify.com/track/6k7HGFpPdXf1mMz1VvdFdo"
+      "duration_ms": 251880,
+      "name": "Joshua Tree",
+      "url": "https://open.spotify.com/track/36XvVcxYLXYOQj37McVSHD"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1091,18 +1087,22 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Joshua Tree",
-        "url": "https://open.spotify.com/album/604SYSnLaQAYume81vqV1z"
+        "name": "Alone Together Sessions",
+        "url": "https://open.spotify.com/album/0Sw1qWpwK8FANIuvvKTYLE"
       },
       "artists": [
         {
-          "name": "Ruthie Collins",
-          "url": "https://open.spotify.com/artist/4qf3V2xmsI9GDIkQGlMfwV"
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        },
+        {
+          "name": "Ray Wylie Hubbard",
+          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
         }
       ],
-      "duration_ms": 251880,
-      "name": "Joshua Tree",
-      "url": "https://open.spotify.com/track/36XvVcxYLXYOQj37McVSHD"
+      "duration_ms": 293346,
+      "name": "Drunken Poet's Dream [feat. Ray Wylie Hubbard] (Alone Together Sessions)",
+      "url": "https://open.spotify.com/track/6k7HGFpPdXf1mMz1VvdFdo"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1155,22 +1155,6 @@
       "duration_ms": 299333,
       "name": "Goddamn Lonely Love",
       "url": "https://open.spotify.com/track/7ekj86VgKXB5XFTwVYnTQP"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "What It Is",
-        "url": "https://open.spotify.com/album/440AzTicFLovCInQhORffL"
-      },
-      "artists": [
-        {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
-        }
-      ],
-      "duration_ms": 186639,
-      "name": "Be There",
-      "url": "https://open.spotify.com/track/25fvTbY7ZwGM8l9NMucYn4"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1251,6 +1235,22 @@
       "duration_ms": 171692,
       "name": "Heading South",
       "url": "https://open.spotify.com/track/2c8WbESPtql9rRE2lB9Wwl"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "What It Is",
+        "url": "https://open.spotify.com/album/440AzTicFLovCInQhORffL"
+      },
+      "artists": [
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        }
+      ],
+      "duration_ms": 186639,
+      "name": "Be There",
+      "url": "https://open.spotify.com/track/25fvTbY7ZwGM8l9NMucYn4"
     },
     {
       "added_at": "2024-03-25 16:53:27",

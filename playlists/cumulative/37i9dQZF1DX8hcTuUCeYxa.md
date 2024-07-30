@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Yannis & The Yaw, Tony Allen
 
-206 songs - 11 hr 38 min
+207 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,5 +214,6 @@
 | [words fell out](https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo) | [Goat Girl](https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ) | [words fell out](https://open.spotify.com/album/4CQHKJVMCBxvBmJ077een7) | 3:01 | 2024-06-28 | 2024-07-05 |
 | [X's](https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [X's](https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I) | 3:03 | 2024-07-11 |  |
 | [You’re Breaking My Heart](https://open.spotify.com/track/2tAGHHcz1YPbZRAfgS8DP9) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [You’re Breaking My Heart](https://open.spotify.com/album/6tlW066bFMZhLN0LHFUB59) | 3:29 | 2024-06-28 | 2024-07-05 |
+| [Ålesund](https://open.spotify.com/track/4syqHeYnrj8AFIod3ZRjwp) | [Jules Ahoi](https://open.spotify.com/artist/2l1xTBTIBaAiJhekoLM8mk) | [Ålesund](https://open.spotify.com/album/238i7M528Ub09DRdC4sU3E) | 4:31 | 2024-07-29 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

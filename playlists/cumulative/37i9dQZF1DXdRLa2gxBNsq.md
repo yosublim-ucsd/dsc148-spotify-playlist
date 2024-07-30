@@ -2,9 +2,9 @@
 
 ### [Punk Español](https://open.spotify.com/playlist/37i9dQZF1DXdRLa2gxBNsq)
 
-> No, el punk español NO ESTÁ MUERTO\. Foto: Manolo Kabezabolo.
+> No, el punk español NO ESTÁ MUERTO\. Foto: La Polla Records.
 
-175 songs - 9 hr 9 min
+176 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,11 +30,11 @@
 | [Bajo el Cielo Negro](https://open.spotify.com/track/3BdWDjwdQFl8Fga7ZeekQF) | [Último Rekurso](https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9), [Bestia Parda](https://open.spotify.com/artist/1CgnghupyXlLJolwnG5wIM) | [En los Márgenes](https://open.spotify.com/album/5iLVmcfJsSCKHfbJQ49YwM) | 2:21 | 2024-07-19 |  |
 | [Basura](https://open.spotify.com/track/2Lwyx3R8KUFq2bHuiwccty) | [Pota en la Sopa](https://open.spotify.com/artist/4fOyA8pQ1Td1iE1kCPKCOO) | [Basura](https://open.spotify.com/album/1hSJoS6GhfnxqtJabaTXhg) | 2:50 | 2024-06-20 |  |
 | [Borratxos y Orgullosos](https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc) | [Josetxu Piperrak & The Riber Rock Band](https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG) | [Borratxos y Orgullosos](https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE) | 3:43 | 2024-05-09 |  |
-| [Cagaos](https://open.spotify.com/track/3e7AB1GaRkyul3pV29OgQy) | [Colapso](https://open.spotify.com/artist/1OxK8rUG1jNXdFo1XW0V1e) | [Cagaos](https://open.spotify.com/album/0QqTtUg9lUnYb9IXQJQ87K) | 2:37 | 2024-05-09 |  |
+| [Cagaos](https://open.spotify.com/track/3e7AB1GaRkyul3pV29OgQy) | [Colapso](https://open.spotify.com/artist/1OxK8rUG1jNXdFo1XW0V1e) | [Cagaos](https://open.spotify.com/album/0QqTtUg9lUnYb9IXQJQ87K) | 2:37 | 2024-05-09 | 2024-07-30 |
 | [Camela or Die 2.0](https://open.spotify.com/track/0JM8G9uBHKuXZF33JDK8aH) | [Me Fritos and the Gimme Cheetos](https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr) | [Camela or Die 2.0](https://open.spotify.com/album/0KQsewvuOlmVHhxisVupVb) | 2:59 | 2023-12-08 |  |
 | [Carmina](https://open.spotify.com/track/6sBOPHCgO76219oKKdcNRk) | [Gambas kon fimosis](https://open.spotify.com/artist/40OKyYEkjN3NZoX7u27Z4d) | [Carmina](https://open.spotify.com/album/0kT3ZFANXGHBowR2akMNg5) | 1:28 | 2024-02-08 | 2024-05-10 |
 | [Cenizas del Capitalismo](https://open.spotify.com/track/1d6OkDRgwp0dTrBUutv6kq) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Delicias de una Falsa Democracia](https://open.spotify.com/album/6gSsvTqcLIOJ1gx6cy8jRg) | 2:32 | 2023-12-08 | 2024-04-19 |
-| [Contra el Mar](https://open.spotify.com/track/7MF0JmLAmM3HczGPc1YVYz) | [Presión](https://open.spotify.com/artist/5gkvUdA8hymxi0Vnlw5LoI) | [Contra el Mar](https://open.spotify.com/album/6JlX6G26bdreUH3t6Q21LK) | 3:19 | 2024-07-12 |  |
+| [Contra el Mar](https://open.spotify.com/track/7MF0JmLAmM3HczGPc1YVYz) | [Presión](https://open.spotify.com/artist/5gkvUdA8hymxi0Vnlw5LoI) | [Contra el Mar](https://open.spotify.com/album/6JlX6G26bdreUH3t6Q21LK) | 3:19 | 2024-07-12 | 2024-07-30 |
 | [Control de Masas](https://open.spotify.com/track/1wraUGXXMRMPpFglQuZhU4) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Control de Masas](https://open.spotify.com/album/0wDmAO63FZOYvotxqeCOlm) | 3:41 | 2024-04-18 |  |
 | [Corazón ardiendo](https://open.spotify.com/track/60zBmfg2Hle1y4VaUfISOo) | [Bihotza](https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR) | [Corazón ardiendo](https://open.spotify.com/album/0cRzS0eYvsw7rIRN2cTs97) | 3:01 | 2024-06-20 |  |
 | [Corona de espinas](https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL) | [Bihotza](https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR) | [Corona de espinas](https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB) | 3:37 | 2024-04-05 |  |
@@ -86,7 +86,7 @@
 | [Gernika](https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp) | [M.C.D.](https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3) | [Jódete](https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL) | 3:47 | 2023-12-08 |  |
 | [He Visto](https://open.spotify.com/track/7caiZ8Vj8ouLzgDNfx2xZ0) | [Guillotina Punk Rock](https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d) | [He Visto](https://open.spotify.com/album/6BU8iwhJ0JlRPXQUEwhHCZ) | 3:28 | 2024-05-09 | 2024-06-21 |
 | [Herida de Guerra](https://open.spotify.com/track/5KoHwSm2KNjjm1O26hIjby) | [Konsumo Respeto](https://open.spotify.com/artist/1RmcjyvKHwr9TCZqfHMflP) | [Ahora Que Se Ha Ido el Sol](https://open.spotify.com/album/1oh9N9kZ3JeJXdyJ8iCVFb) | 4:00 | 2023-12-08 | 2024-04-19 |
-| [Herida de guerra](https://open.spotify.com/track/16MDTJlQK8LcZW9IkladLD) | [Konsumo Respeto](https://open.spotify.com/artist/1RmcjyvKHwr9TCZqfHMflP) | [Ahora que se ha ido el sol](https://open.spotify.com/album/1uM5thAotEBcFCuF0G4eJl) | 4:00 | 2024-06-20 | 2024-07-25 |
+| [Herida de guerra](https://open.spotify.com/track/16MDTJlQK8LcZW9IkladLD) | [Konsumo Respeto](https://open.spotify.com/artist/1RmcjyvKHwr9TCZqfHMflP) | [Ahora que se ha ido el sol](https://open.spotify.com/album/1uM5thAotEBcFCuF0G4eJl) | 4:00 | 2024-06-20 |  |
 | [Histeria](https://open.spotify.com/track/1yvuEnWoS4I2jXKxMHBnxP) | [Kamikazes](https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy) | [Histeria](https://open.spotify.com/album/4nmW4nhjBCRidHlCzzAP1l) | 3:05 | 2024-06-27 | 2024-07-20 |
 | [HISTERIA](https://open.spotify.com/track/4IVWKhpc6VDcyg1fHq5T20) | [LUCY](https://open.spotify.com/artist/1926SAsv8WWBm0XOn84Pso) | [HISTERIA](https://open.spotify.com/album/01MRCootqvHnsCJ5j0IhZm) | 2:28 | 2024-07-12 |  |
 | [Historia triste](https://open.spotify.com/track/0DJLkaZlg6JbwAg9VZzbYq) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Impuesto Revolucionario](https://open.spotify.com/album/7iA4YreHDh5ozVdpg4kZcm) | 3:07 | 2023-12-08 |  |
@@ -97,7 +97,7 @@
 | [Jarama](https://open.spotify.com/track/749QVthAEMdMPQdZBLQ98S) | [Boikot](https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn) | [Jarama](https://open.spotify.com/album/0Xturr8pgzoF9M6gb0UPlh) | 3:37 | 2023-12-08 |  |
 | [Jimmy Jazz](https://open.spotify.com/track/5JU3KxDurO5jxRS6oXDKFN) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [Aizkolari](https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6) | 2:07 | 2023-12-08 |  |
 | [Kaña](https://open.spotify.com/track/71fXglmSTgkzXe3h8PHuFK) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Kaña a los Que Nos Quieren Pisar](https://open.spotify.com/album/1K7K7dy09VWhi9nKlsIkGx) | 4:36 | 2023-12-08 | 2024-04-19 |
-| [Kaña](https://open.spotify.com/track/77UVdHUTHvECJJ0xcmooGX) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Kaña a los Que Nos Quieren Pisar](https://open.spotify.com/album/475lQDKfTnB0nSuGgnov06) | 4:36 | 2024-04-18 | 2024-07-29 |
+| [Kaña](https://open.spotify.com/track/77UVdHUTHvECJJ0xcmooGX) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Kaña a los Que Nos Quieren Pisar](https://open.spotify.com/album/475lQDKfTnB0nSuGgnov06) | 4:36 | 2024-04-18 |  |
 | [Ke Felicidad!](https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk) | [Discordia](https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG) | [Versos de Rabia](https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2) | 3:37 | 2023-12-08 |  |
 | [Killer](https://open.spotify.com/track/4mbzjrFyniK1qqgWgpEsgL) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [Criatura](https://open.spotify.com/album/3VnnePO0pWXdHCS1fBbNar) | 3:26 | 2023-12-08 | 2024-04-19 |
 | [Kualkier Día](https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B) | [Piperrak](https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou) | [Arde Ribera](https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s) | 4:09 | 2023-12-08 |  |
@@ -114,7 +114,7 @@
 | [Lola](https://open.spotify.com/track/150HpH0TzhcVwKASywBPs5) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [4 Años, 2 Meses y 1 Día](https://open.spotify.com/album/5MbsgT9tlRbyZEMZzFS2y1) | 3:40 | 2023-12-08 | 2024-04-19 |
 | [Love the Antros](https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi) | [Karne Cruda](https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf) | [Love the Antros](https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv) | 2:35 | 2024-07-12 |  |
 | [Maki Navaja, El Último Chorisso](https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR) | [Tijuana in blue](https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4) | [A Bocajarro + Sopla Sopla](https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r) | 4:49 | 2023-12-08 |  |
-| [Mañanitas Tristes](https://open.spotify.com/track/2mqNssH1HbTbZZ3tlUxUq2) | [Belcro](https://open.spotify.com/artist/4tmbWd3f0koaAlvyWhCHih) | [Mañanitas Tristes](https://open.spotify.com/album/2oSYLsiA8RivZIifOF0PSe) | 1:53 | 2024-07-12 |  |
+| [Mañanitas Tristes](https://open.spotify.com/track/2mqNssH1HbTbZZ3tlUxUq2) | [Belcro](https://open.spotify.com/artist/4tmbWd3f0koaAlvyWhCHih) | [Mañanitas Tristes](https://open.spotify.com/album/2oSYLsiA8RivZIifOF0PSe) | 1:53 | 2024-07-12 | 2024-07-30 |
 | [Mi Mejor Colega \- original](https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE) | [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy) | [No Hay Agua](https://open.spotify.com/album/1apZlul36uZlJunetvaxoq) | 2:04 | 2023-12-08 |  |
 | [Mi Primer Amor](https://open.spotify.com/track/2oRmhBSPhWNScSkwR7x8xi) | [Piperrak](https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou) | [Arde Ribera](https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s) | 2:50 | 2023-12-08 |  |
 | [Mierda De Ciudad](https://open.spotify.com/track/6lSJZiZqWU8Qt1fJVeFZEv) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [Aizkolari](https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6) | 3:17 | 2023-12-08 |  |
@@ -181,6 +181,7 @@
 | [Vpo](https://open.spotify.com/track/3Eo8g7AdbPGmODRv3yZidD) | [Bellotaris Fallecidos](https://open.spotify.com/artist/7witIEaYssgO9srRY85ZLl) | [Y el Que Sea Feo Que Haga los Recaos de Noche](https://open.spotify.com/album/5I2wNu3nGj7oHCIFtH1Yne) | 1:36 | 2024-07-19 |  |
 | [Y las que quedarán](https://open.spotify.com/track/0W5XjAGzQhcAgtUJqrB9RO) | [A Cuchillo](https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ) | [Y las que quedarán](https://open.spotify.com/album/1XlgAEyavzQhZiQkD89J09) | 4:12 | 2024-04-18 | 2024-06-01 |
 | [Y Sigo en Pie](https://open.spotify.com/track/0XozUY7OB1r1bLcZV26iHp) | [Skontra](https://open.spotify.com/artist/3HlwB3k98CWsCN3o6nxQPi), [Odio Visceral](https://open.spotify.com/artist/2lwEjYspY5gmirh0mSmliA) | [Semeya de la Rabia](https://open.spotify.com/album/0jexOHFXIH5oUghZyrCWBN) | 4:02 | 2023-12-08 | 2024-04-19 |
+| [Y sigo en pie](https://open.spotify.com/track/1mHavFRruSCwupKzTVGoys) | [Skontra](https://open.spotify.com/artist/3HlwB3k98CWsCN3o6nxQPi), [Odio Visceral](https://open.spotify.com/artist/2lwEjYspY5gmirh0mSmliA) | [Semeya de la Rabia](https://open.spotify.com/album/7k0IbB4wqVVTof6Z8kGG1F) | 4:02 | 2024-07-29 |  |
 | [¿IA o estupidez humana?](https://open.spotify.com/track/1j9lzxIksQYcNf9zajvo9M) | [Def Con Dos](https://open.spotify.com/artist/1O4hqQz2nV0jrlF9VEFBNK) | [¿IA o estupidez humana?](https://open.spotify.com/album/6uxs1rvRX7q0IsjBk3xIZE) | 1:58 | 2024-06-20 | 2024-07-13 |
 | [Águila de San Juan](https://open.spotify.com/track/6oW0Inpf6H8MdB2J0CkiQA) | [Agujero de Salida](https://open.spotify.com/artist/7D0L7Vm6qrkih6yhdMkWwh) | [Águila de San Juan](https://open.spotify.com/album/37g6iRobVhDKTLMovkCNAM) | 3:31 | 2024-04-18 | 2024-05-10 |
 

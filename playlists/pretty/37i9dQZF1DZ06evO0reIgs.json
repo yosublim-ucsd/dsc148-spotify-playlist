@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 81469,
+  "num_followers": 81466,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAAA4hdxXpVfGEG0qG8+KUDDO",
+  "snapshot_id": "ZqWKAAAAAACBmoXS1hZ8Ban6Rbfgoyag",
   "tracks": [
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As 25 Horas de Le Mans",
-        "url": "https://open.spotify.com/album/0bH3nq5jLOk2PwSqUA3A5Z"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 194965,
-      "name": "As 25 Horas de Le Mans",
-      "url": "https://open.spotify.com/track/4I5M8Y32OkiQ3YIakP0HTN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teoria do Ciclo da \u00c1gua",
         "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 275905,
       "name": "Garota",
       "url": "https://open.spotify.com/track/6ripdgnZJ8hGfVO6jp5ISV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As 25 Horas de Le Mans",
+        "url": "https://open.spotify.com/album/0bH3nq5jLOk2PwSqUA3A5Z"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 194965,
+      "name": "As 25 Horas de Le Mans",
+      "url": "https://open.spotify.com/track/4I5M8Y32OkiQ3YIakP0HTN"
     },
     {
       "added_at": null,
@@ -1091,26 +1091,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nosso Jeito",
-        "url": "https://open.spotify.com/album/5HczXa5wbSx9VZ21cORK7B"
+        "name": "Do Caos ao Nirvana",
+        "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
       },
       "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
         {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
-          "name": "Jailhouse",
-          "url": "https://open.spotify.com/artist/6QuV7w29AgBJFHxKVzRyJY"
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
         }
       ],
-      "duration_ms": 190720,
-      "name": "Nosso Jeito",
-      "url": "https://open.spotify.com/track/0JHcoeYllu3QHCtuCUrqYf"
+      "duration_ms": 185454,
+      "name": "Hey Boy",
+      "url": "https://open.spotify.com/track/7opmuePHHDBml8hNvrza4R"
     },
     {
       "added_at": null,
@@ -1143,26 +1143,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do Caos ao Nirvana",
-        "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
+        "name": "Nosso Jeito",
+        "url": "https://open.spotify.com/album/5HczXa5wbSx9VZ21cORK7B"
       },
       "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
         {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
-          "name": "NOG",
-          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+          "name": "Jailhouse",
+          "url": "https://open.spotify.com/artist/6QuV7w29AgBJFHxKVzRyJY"
         }
       ],
-      "duration_ms": 185454,
-      "name": "Hey Boy",
-      "url": "https://open.spotify.com/track/7opmuePHHDBml8hNvrza4R"
+      "duration_ms": 190720,
+      "name": "Nosso Jeito",
+      "url": "https://open.spotify.com/track/0JHcoeYllu3QHCtuCUrqYf"
     },
     {
       "added_at": null,
@@ -1223,30 +1223,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hip Hop Machine Temporada 2",
-        "url": "https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI"
+        "name": "Do Caos ao Nirvana",
+        "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
       },
       "artists": [
         {
-          "name": "Leo Gandelman",
-          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
-        },
-        {
-          "name": "Machine Series",
-          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
-        },
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
         }
       ],
-      "duration_ms": 198811,
-      "name": "25 Horas De Le Mans",
-      "url": "https://open.spotify.com/track/0etSiQ9mgcDKGg8v6eLR9A"
+      "duration_ms": 208695,
+      "name": "No Cais",
+      "url": "https://open.spotify.com/track/2iFG2rANNj7cbebbhKqAv3"
     }
   ],
   "unique_name": "This Is Cynthia Luz",

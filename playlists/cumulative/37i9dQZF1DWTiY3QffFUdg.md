@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-203 songs - 11 hr 12 min
+204 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Calling](https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV) | [Ellis Moss](https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ) | [Calling](https://open.spotify.com/album/5dl10Bi93YCk2BvuFrCc5r) | 3:16 | 2024-01-26 | 2024-03-12 |
 | [Can't Fight The Moonlight](https://open.spotify.com/track/1rtnGo1NBXhgcxcRMzl5RB) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Can't Fight The Moonlight](https://open.spotify.com/album/3PSHf7TnrG5dMDJLbpo6lK) | 1:56 | 2024-07-12 |  |
 | [Can't Get You out of My Head](https://open.spotify.com/track/5M5KUXnWP2pB3NugBHcER9) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [LAUWEND](https://open.spotify.com/artist/12QQZ0RBLnfB2MS8FrwmmM), [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Can't Get You out of My Head](https://open.spotify.com/album/6JGdqchvfbGFc2cMnLdZBn) | 2:28 | 2023-09-01 |  |
-| [Chase The Sun \- VIP](https://open.spotify.com/track/5KGDSRODIjVBAN040ovdQw) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci) | [Chase The Sun \(VIP\)](https://open.spotify.com/album/162y1Nz7mvmRpChNXHQNwu) | 4:01 | 2023-08-11 |  |
+| [Chase The Sun \- VIP](https://open.spotify.com/track/5KGDSRODIjVBAN040ovdQw) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci) | [Chase The Sun \(VIP\)](https://open.spotify.com/album/162y1Nz7mvmRpChNXHQNwu) | 4:01 | 2023-08-11 | 2024-07-30 |
 | [Children \- Radio Edit](https://open.spotify.com/track/7Bg90Jhm3Dhtu7m2YCpo6C) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children](https://open.spotify.com/album/4pAD0l5icphM5TC1A4q8Yn) | 3:26 | 2023-08-11 |  |
 | [CHORMA](https://open.spotify.com/track/78sIUhDEOuD5mpSr1zwDwg) | [MILES](https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt), [Greg Willen](https://open.spotify.com/artist/51ltJZ6rB893AdzgCxSOV3) | [CHORMA](https://open.spotify.com/album/2HVE0ZmEDKkasHZhWVmImV) | 3:03 | 2023-08-11 | 2023-09-03 |
 | [Close To You](https://open.spotify.com/track/5NFCZQEma4ll0SD00lS6FQ) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Close To You](https://open.spotify.com/album/5IQSHIPD6Z8EBTTjHI8uUM) | 3:23 | 2023-08-11 | 2023-10-11 |
@@ -56,6 +56,7 @@
 | [Diamonds On My Mind](https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Diamonds On My Mind](https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs) | 2:48 | 2023-08-25 |  |
 | [Drop It Down](https://open.spotify.com/track/6euR4VW88wRwG6TTXI8YEE) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Drop It Down](https://open.spotify.com/album/7u26VusojvClzoCafHyzcV) | 3:26 | 2024-01-26 | 2024-02-01 |
 | [Drugs From Amsterdam \- Reinier Zonneveld Remix](https://open.spotify.com/track/3lBsiMe2z1zIrXz3xcUxhs) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam \(Reinier Zonneveld Remix\)](https://open.spotify.com/album/4hdHSpgwZ89L8c4q2oaoco) | 3:53 | 2023-08-11 | 2023-10-27 |
+| [Dudadu \- Remix](https://open.spotify.com/track/1v7IYDSkzrw3dHm89nS54V) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Dudadu \(Remix\)](https://open.spotify.com/album/59MJX4jPYt1zzNWvOc4J7m) | 3:02 | 2024-07-26 |  |
 | [Elevate \- Original Mix](https://open.spotify.com/track/4WxCuOB9TmEVLqmlRgd19D) | [SRVD](https://open.spotify.com/artist/2nhdOVEJpiDFkwcaBxpWCP), [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3), [Patrick Mason](https://open.spotify.com/artist/36TuJoh0o1hF6TsZIggHH0) | [Elevate](https://open.spotify.com/album/2qGIRzjAMjubg9552YZTOI) | 8:13 | 2023-08-11 | 2023-08-15 |
 | [Embrace Me Now \- Techno Radio Edit](https://open.spotify.com/track/53IGqGELRPyyp6DfK2eeRT) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Embrace Me Now](https://open.spotify.com/album/26WVXNlx1rvdcgZBLdqH70) | 3:12 | 2023-08-11 | 2023-09-04 |
 | [Energy](https://open.spotify.com/track/6CebMvPnu1c7CPCAaSXFuY) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Energy](https://open.spotify.com/album/59T65v0ZNe7z8dDd5kR2Kq) | 2:52 | 2024-02-16 |  |

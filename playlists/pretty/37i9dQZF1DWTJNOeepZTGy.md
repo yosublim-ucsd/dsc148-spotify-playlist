@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 
 > As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,878 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,894 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 44 | [Nobody](https://open.spotify.com/track/0jesM7wcZacJWJde6noqB9) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Nobody](https://open.spotify.com/album/2ahLt7NaAwx6sK1MkPPAD5) | 3:27 |
 | 45 | [Lovin' You](https://open.spotify.com/track/1JPJQLSYAvPp4qnzC8Uk6Y) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Essential O'Jays](https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8) | 5:17 |
 | 46 | [You Were Meant for Me](https://open.spotify.com/track/4RSKpohiL1nDPn7rGxsBYl) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Never My Love: The Anthology](https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO) | 3:51 |
-| 47 | [No Limit](https://open.spotify.com/track/22Ixvd6v1ofmishJchJfvN) | [Kindred The Family Soul](https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy) | [The Arrival](https://open.spotify.com/album/1Woxlek5HEVQeWQaXcJDA2) | 3:36 |
-| 48 | [Anniversary \- Radio Edit](https://open.spotify.com/track/2wmHH8Xc9P2RN6fGDH4ON6) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [20th Century Masters: The Millennium Collection: Best Of Tony! Toni! Tone!](https://open.spotify.com/album/3ER3DiMgMVNPJRS2UjwEiz) | 4:32 |
-| 49 | [Heaven Sent](https://open.spotify.com/track/6KTPvBjPoFdFOe5qHLXZk0) | [Donnie](https://open.spotify.com/artist/3fvn4MvWJXwY17wpwnlgJN) | [The Colored Section](https://open.spotify.com/album/1LOlC0sCNpY3O18pR59Ald) | 5:03 |
+| 47 | [Anniversary \- Radio Edit](https://open.spotify.com/track/2wmHH8Xc9P2RN6fGDH4ON6) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [20th Century Masters: The Millennium Collection: Best Of Tony! Toni! Tone!](https://open.spotify.com/album/3ER3DiMgMVNPJRS2UjwEiz) | 4:32 |
+| 48 | [Heaven Sent](https://open.spotify.com/track/6KTPvBjPoFdFOe5qHLXZk0) | [Donnie](https://open.spotify.com/artist/3fvn4MvWJXwY17wpwnlgJN) | [The Colored Section](https://open.spotify.com/album/1LOlC0sCNpY3O18pR59Ald) | 5:03 |
+| 49 | [No Limit](https://open.spotify.com/track/22Ixvd6v1ofmishJchJfvN) | [Kindred The Family Soul](https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy) | [The Arrival](https://open.spotify.com/album/1Woxlek5HEVQeWQaXcJDA2) | 3:36 |
 | 50 | [Love Like Yours And Mine](https://open.spotify.com/track/76PUohgHDZNGvj7uXFLpAC) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0) | [Love Like Yours And Mine](https://open.spotify.com/album/18o37lm8WSUU10qNWCbQfp) | 3:39 |
 
 Snapshot ID: `ZowxmwAAAADj42wEs4RTCDKBHN5zJdPH`

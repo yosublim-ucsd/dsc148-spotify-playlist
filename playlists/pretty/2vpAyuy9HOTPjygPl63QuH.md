@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 10,965 likes - 53 songs - 2 hr 45 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 10,974 likes - 54 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,5 +61,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 51 | [Move Your Body \- Short Version](https://open.spotify.com/track/36zCQBmyIz9NSuLmLbpqHm) | [Dimitri Antek](https://open.spotify.com/artist/5LWZRAlKar4joGU0fVqmNf) | [Move Your Body](https://open.spotify.com/album/31npS1cc6UcE5TZ5D5vydu) | 3:23 |
 | 52 | [Last Night \- Edit](https://open.spotify.com/track/6ANbGesrQ7znWfcZA0CCDy) | [Dimitri Antek](https://open.spotify.com/artist/5LWZRAlKar4joGU0fVqmNf) | [Last Night](https://open.spotify.com/album/6OOVP9ni5eWMTlL3WHC2Pt) | 3:21 |
 | 53 | [Time](https://open.spotify.com/track/4ijQ2jgdFKCVlqgPTDCmea) | [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [Time](https://open.spotify.com/album/356QbLLLBhlgRb0GEOS2cV) | 2:24 |
+| 54 | [The Way You Act](https://open.spotify.com/track/28Dj2arHz2IM8PMSI5NCjz) | [Labeeb](https://open.spotify.com/artist/5Wm9RIPoJKWlJNEE9iZDe0) | [The Way You Act](https://open.spotify.com/album/7aV6ojZOYkd9FGvSXayF8c) | 3:38 |
 
-Snapshot ID: `AAAjEhIVa9on1H1xqZQpSFjLIYS2Iac7`
+Snapshot ID: `AAAjEye+mRNcSSiqYo+CTR8nPaOnNpXo`

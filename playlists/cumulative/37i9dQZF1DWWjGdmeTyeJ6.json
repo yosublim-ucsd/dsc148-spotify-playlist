@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music by independent artists and labels. Cover: Dot., Artwork: Isu Kim.",
+  "description": "The best new music by independent artists and labels. Cover: Dot., Artwork: Isu Kim",
   "name": "Fresh Finds",
   "tracks": [
     {
@@ -5126,6 +5126,24 @@
       "duration_ms": 230259,
       "name": "Almost Forever",
       "url": "https://open.spotify.com/track/3wx37zQZm1LDSMe3W1I1K2"
+    },
+    {
+      "album": {
+        "name": "Stay Close",
+        "url": "https://open.spotify.com/album/12kk0qysLqq0hh0pMZRD1k"
+      },
+      "artists": [
+        {
+          "name": "Tigeroak",
+          "url": "https://open.spotify.com/artist/5438LSbtMXzEmfe0qZRff0"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172741,
+      "name": "Alone a Lot",
+      "url": "https://open.spotify.com/track/50lNZYg7Vw5ZfDazuZ282n"
     },
     {
       "album": {
@@ -22190,6 +22208,24 @@
       "duration_ms": 138875,
       "name": "Come Roll With Me",
       "url": "https://open.spotify.com/track/0Fb9fDfg83UbuvVrFMuJu1"
+    },
+    {
+      "album": {
+        "name": "Come To My House",
+        "url": "https://open.spotify.com/album/683Ze2XpLW2ohwPWpSKzq4"
+      },
+      "artists": [
+        {
+          "name": "Lucy Tun",
+          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200744,
+      "name": "Come To My House",
+      "url": "https://open.spotify.com/track/7aTYdP588hjgw1s0VBDkfB"
     },
     {
       "album": {
@@ -52720,7 +52756,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 228018,
       "name": "I Love You More Than Yesterday",
       "url": "https://open.spotify.com/track/3dPSHuGMORdds3vGmqPdJf"
@@ -58025,7 +58061,7 @@
     },
     {
       "album": {
-        "name": "Jungle",
+        "name": "jungle",
         "url": "https://open.spotify.com/album/4bZ6u5RDYajHIfSenUNdwe"
       },
       "artists": [
@@ -58040,9 +58076,9 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 165942,
-      "name": "Jungle",
+      "name": "jungle",
       "url": "https://open.spotify.com/track/2awBXPPzbOhux8MwSLozg9"
     },
     {
@@ -68346,7 +68382,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 227560,
       "name": "Matador",
       "url": "https://open.spotify.com/track/6idR1ncIgw5X6Nj2DUR6tC"
@@ -86862,7 +86898,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 213250,
       "name": "puma",
       "url": "https://open.spotify.com/track/0vUkmgjokgPCqgJcODNMlZ"
@@ -115634,7 +115670,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 263500,
       "name": "Vinalhaven",
       "url": "https://open.spotify.com/track/4KgTdZON9IsR6jkOUbTIA3"
@@ -121852,6 +121888,24 @@
       "duration_ms": 252800,
       "name": "Would You Love Me Anyway?",
       "url": "https://open.spotify.com/track/3NzCQuUAMhCSzLRuo6YWIY"
+    },
+    {
+      "album": {
+        "name": "Wouldn't Believe",
+        "url": "https://open.spotify.com/album/0nF4WVXPunDRsNw9c1LTOd"
+      },
+      "artists": [
+        {
+          "name": "BAKEY",
+          "url": "https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198363,
+      "name": "Wouldn't Believe",
+      "url": "https://open.spotify.com/track/1H5pIpTTiuxYnzzeOlGYYf"
     },
     {
       "album": {

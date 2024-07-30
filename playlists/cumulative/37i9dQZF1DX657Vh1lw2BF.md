@@ -4,7 +4,7 @@
 
 > أفضل الاغاني العراقية\. الغلاف:ياسر عبدالوهاب
 
-139 songs - 8 hr 31 min
+140 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Atrak \- عطرك](https://open.spotify.com/track/2QtVbvCqhwmhorkdu1BS6t) | [Jalal Al Zain](https://open.spotify.com/artist/2FJoZRKDb3AokC3SITAV8E) | [Atrak \(عطرك\)](https://open.spotify.com/album/4YFT5NIXxVZgl7IbijSa4U) | 4:10 | 2023-11-16 |  |
 | [Awel Chams](https://open.spotify.com/track/3DqaHwwxJ92RRjKrCyAA4q) | [Mahmood AlGhiath](https://open.spotify.com/artist/7L7OKjCuLFVhDc0tA0RmVi) | [Awel Chams](https://open.spotify.com/album/4v7PpdXPSkCyGnUA76Ofgu) | 3:05 | 2023-12-29 |  |
 | [Awel Mara](https://open.spotify.com/track/5PIUdhw0npMzWozHZzC7Dg) | [Raad And Methaq](https://open.spotify.com/artist/2TS6Y2HXkANqlIC7ZNi5zq) | [Awel Mara](https://open.spotify.com/album/2j8kRtxQ6mzA5TsWFMTWj8) | 4:03 | 2022-05-06 | 2023-01-11 |
+| [Aybaah](https://open.spotify.com/track/1KXneoXsShNeFRupir2Hpp) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Aybaah](https://open.spotify.com/album/6NwcjGw9Vm7SodEEZdWlST) | 3:39 | 2024-07-29 |  |
 | [B6ela](https://open.spotify.com/track/17XYX4C5jRSsFRMgiJJc0B) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [B6ALA](https://open.spotify.com/album/5WrUyFuqqb8sVRR5SYewqg) | 2:56 | 2022-05-06 | 2022-10-26 |
 | [Baad Nerga Ma Areed](https://open.spotify.com/track/4mdAb5pWJd5B6bs4tH19zZ) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Baad Nerga Ma Areed](https://open.spotify.com/album/5d3CnENBiFVZBUwBGNHlEY) | 3:52 | 2022-05-06 | 2023-04-27 |
 | [Baatrk Atnfas](https://open.spotify.com/track/2vKRNP5PHsHTa8deqEVLTe) | [Raad And Methaq](https://open.spotify.com/artist/2TS6Y2HXkANqlIC7ZNi5zq) | [Baatrk Atnfas](https://open.spotify.com/album/0q5kruQKz4fQDyXp1rqyHm) | 3:12 | 2022-12-02 | 2023-09-30 |

@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 179652,
+  "num_followers": 179666,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Black Sun",
-        "url": "https://open.spotify.com/album/6b7USoPQHOlfaelSrPPVo9"
+        "name": "Vincent Neil Emerson",
+        "url": "https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x"
       },
       "artists": [
         {
-          "name": "Irma",
-          "url": "https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f"
+          "name": "Vincent Neil Emerson",
+          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
         }
       ],
-      "duration_ms": 206634,
-      "name": "Black Sun",
-      "url": "https://open.spotify.com/track/63UtBlg0KZZYueVi6r8DQp"
+      "duration_ms": 293240,
+      "name": "Learnin' to Drown",
+      "url": "https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -851,18 +851,18 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Vincent Neil Emerson",
-        "url": "https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x"
+        "name": "Black Sun",
+        "url": "https://open.spotify.com/album/6b7USoPQHOlfaelSrPPVo9"
       },
       "artists": [
         {
-          "name": "Vincent Neil Emerson",
-          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
+          "name": "Irma",
+          "url": "https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f"
         }
       ],
-      "duration_ms": 293240,
-      "name": "Learnin' to Drown",
-      "url": "https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX"
+      "duration_ms": 206634,
+      "name": "Black Sun",
+      "url": "https://open.spotify.com/track/63UtBlg0KZZYueVi6r8DQp"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 268080,
-      "name": "Blue Heron",
-      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "Wildflowers in the Graveyard",
         "url": "https://open.spotify.com/album/4e7AgMaSwpEFUgBOw2aBPS"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 180977,
       "name": "Wildflowers in the Graveyard",
       "url": "https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 268080,
+      "name": "Blue Heron",
+      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 162473,
+      "name": "Lonesome Old River Blues",
+      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
         "name": "Songs of Our Native Daughters",
         "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 234200,
       "name": "Black Myself",
       "url": "https://open.spotify.com/track/5cH2yuvqPh7IsqetGmSoAE"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 162473,
-      "name": "Lonesome Old River Blues",
-      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Blonde On The Tracks (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7ybHj4IkUqoN3NOCsFBO4i"
-      },
-      "artists": [
-        {
-          "name": "Emma Swift",
-          "url": "https://open.spotify.com/artist/3H6AuhYMI6U7kxuC7pfG3R"
-        }
-      ],
-      "duration_ms": 276576,
-      "name": "Queen Jane Approximately",
-      "url": "https://open.spotify.com/track/6x8GZhkP0rOLQJSkhWR27Y"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "Gold Record",
         "url": "https://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 325093,
       "name": "Pigeons",
       "url": "https://open.spotify.com/track/5v11vzJ8bvdCkUm6yBUKsF"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "Blonde On The Tracks (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7ybHj4IkUqoN3NOCsFBO4i"
+      },
+      "artists": [
+        {
+          "name": "Emma Swift",
+          "url": "https://open.spotify.com/artist/3H6AuhYMI6U7kxuC7pfG3R"
+        }
+      ],
+      "duration_ms": 276576,
+      "name": "Queen Jane Approximately",
+      "url": "https://open.spotify.com/track/6x8GZhkP0rOLQJSkhWR27Y"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Lorraine",
-        "url": "https://open.spotify.com/album/51pYSEkHVj2zC8Eaoo1NoA"
-      },
-      "artists": [
-        {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
-        }
-      ],
-      "duration_ms": 273893,
-      "name": "Lorraine",
-      "url": "https://open.spotify.com/track/3jHOkEZCTrMeKXniGvZDwc"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "Come and Fill My Soul",
         "url": "https://open.spotify.com/album/6qOOKnMN7tlHHe4xNKiYQS"
       },
@@ -1687,22 +1671,34 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Vignettes",
-        "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
+        "name": "Lorraine",
+        "url": "https://open.spotify.com/album/51pYSEkHVj2zC8Eaoo1NoA"
       },
       "artists": [
         {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
-        },
-        {
-          "name": "Diana DeMuth",
-          "url": "https://open.spotify.com/artist/1EGJoRmXcYb7biwtm8r0ln"
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
         }
       ],
-      "duration_ms": 293776,
-      "name": "Boots of Spanish Leather (feat. Diana DeMuth)",
-      "url": "https://open.spotify.com/track/70ToRlumcpgqvPQMcqnsji"
+      "duration_ms": 273893,
+      "name": "Lorraine",
+      "url": "https://open.spotify.com/track/3jHOkEZCTrMeKXniGvZDwc"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/3vmJA3thCzpAOBHWsQp9Ov"
+      },
+      "artists": [
+        {
+          "name": "Darden Smith",
+          "url": "https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA"
+        }
+      ],
+      "duration_ms": 234253,
+      "name": "Love Will Win the War",
+      "url": "https://open.spotify.com/track/2vsm6CwQSxeAL2SAFQdQf9"
     }
   ],
   "unique_name": "Contemporary Folk",

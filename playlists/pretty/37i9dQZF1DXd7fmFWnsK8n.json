@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3\u306e\u714c\u3073\u3084\u304b\u306a\u7269\u8a9e\u3092\u5f69\u308b\u697d\u66f2\u305f\u3061\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Enjoy Music from the game & anime series of \u201cIDOLiSH 7\u201d!  \u00a9\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3",
-  "num_followers": 70078,
+  "num_followers": 70085,
   "original_name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 -IDOLiSH7-",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,38 @@
     {
       "added_at": "2024-07-09 18:20:26",
       "album": {
+        "name": "Up to the nines",
+        "url": "https://open.spotify.com/album/1LxWjUZtuezPIfpCjcy9UI"
+      },
+      "artists": [
+        {
+          "name": "\u4e5d\u6761 \u5929 (CV.\u6589\u85e4\u58ee\u99ac)",
+          "url": "https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm"
+        }
+      ],
+      "duration_ms": 231440,
+      "name": "Up to the nines",
+      "url": "https://open.spotify.com/track/5WCAE4qLOIDCWd25ySLeCJ"
+    },
+    {
+      "added_at": "2024-07-09 18:20:26",
+      "album": {
+        "name": "IMPERIAL CHAIN",
+        "url": "https://open.spotify.com/album/5LEMeHQkS5yakdGYSQsbn7"
+      },
+      "artists": [
+        {
+          "name": "\u0179OO\u013b",
+          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
+        }
+      ],
+      "duration_ms": 252920,
+      "name": "IMPERIAL CHAIN",
+      "url": "https://open.spotify.com/track/2aeYYVYK2upJ0gmQ7GosK1"
+    },
+    {
+      "added_at": "2024-07-09 18:20:26",
+      "album": {
         "name": "\u7537\u5b50\u30bf\u30eb\u30e2\u30ce!\u301cMATSURI\u301c",
         "url": "https://open.spotify.com/album/3JAiGYbiI1NoTUZ4lr8sKr"
       },
@@ -479,38 +511,6 @@
       "duration_ms": 230933,
       "name": "\u7537\u5b50\u30bf\u30eb\u30e2\u30ce!\u301cMATSURI\u301c",
       "url": "https://open.spotify.com/track/69JI7KoDdAFl59LCsg0n84"
-    },
-    {
-      "added_at": "2024-07-09 18:20:26",
-      "album": {
-        "name": "IMPERIAL CHAIN",
-        "url": "https://open.spotify.com/album/5LEMeHQkS5yakdGYSQsbn7"
-      },
-      "artists": [
-        {
-          "name": "\u0179OO\u013b",
-          "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
-        }
-      ],
-      "duration_ms": 252920,
-      "name": "IMPERIAL CHAIN",
-      "url": "https://open.spotify.com/track/2aeYYVYK2upJ0gmQ7GosK1"
-    },
-    {
-      "added_at": "2024-07-09 18:20:26",
-      "album": {
-        "name": "Up to the nines",
-        "url": "https://open.spotify.com/album/1LxWjUZtuezPIfpCjcy9UI"
-      },
-      "artists": [
-        {
-          "name": "\u4e5d\u6761 \u5929 (CV.\u6589\u85e4\u58ee\u99ac)",
-          "url": "https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm"
-        }
-      ],
-      "duration_ms": 231440,
-      "name": "Up to the nines",
-      "url": "https://open.spotify.com/track/5WCAE4qLOIDCWd25ySLeCJ"
     },
     {
       "added_at": "2024-07-09 18:20:26",
@@ -935,18 +935,18 @@
     {
       "added_at": "2024-07-09 18:20:26",
       "album": {
-        "name": "ONE dream",
-        "url": "https://open.spotify.com/album/1xjzWuNAvuMdKaFUs3FF0E"
+        "name": "June is Natural",
+        "url": "https://open.spotify.com/album/5bLKKcHymzP2IS0dSeweTh"
       },
       "artists": [
         {
-          "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
-          "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
+          "name": "\u516d\u5f25\u30ca\u30ae (CV.\u6c5f\u53e3\u62d3\u4e5f)",
+          "url": "https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a"
         }
       ],
-      "duration_ms": 268000,
-      "name": "ONE dream",
-      "url": "https://open.spotify.com/track/6cYCUqJd87A0N472I17G9e"
+      "duration_ms": 242013,
+      "name": "June is Natural",
+      "url": "https://open.spotify.com/track/4xFYYIWrWIZ0pTSQaTSopH"
     },
     {
       "added_at": "2024-07-09 18:20:26",
@@ -983,24 +983,24 @@
     {
       "added_at": "2024-07-09 18:20:26",
       "album": {
-        "name": "June is Natural",
-        "url": "https://open.spotify.com/album/5bLKKcHymzP2IS0dSeweTh"
+        "name": "ONE dream",
+        "url": "https://open.spotify.com/album/1xjzWuNAvuMdKaFUs3FF0E"
       },
       "artists": [
         {
-          "name": "\u516d\u5f25\u30ca\u30ae (CV.\u6c5f\u53e3\u62d3\u4e5f)",
-          "url": "https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a"
+          "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
+          "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
         }
       ],
-      "duration_ms": 242013,
-      "name": "June is Natural",
-      "url": "https://open.spotify.com/track/4xFYYIWrWIZ0pTSQaTSopH"
+      "duration_ms": 268000,
+      "name": "ONE dream",
+      "url": "https://open.spotify.com/track/6cYCUqJd87A0N472I17G9e"
     },
     {
       "added_at": "2024-07-09 18:20:26",
       "album": {
-        "name": "einsatZ",
-        "url": "https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph"
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/7oF2ENI6Jr9g9Rmi3zHcLX"
       },
       "artists": [
         {
@@ -1008,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol"
         }
       ],
-      "duration_ms": 237426,
-      "name": "4-ROAR",
-      "url": "https://open.spotify.com/track/4yAb7ilxkakHlpVv6Orxxd"
+      "duration_ms": 246746,
+      "name": "No Sacrifice",
+      "url": "https://open.spotify.com/track/6dDfgZ38eXNgk6aX9kWVxs"
     },
     {
       "added_at": "2024-07-09 18:20:26",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-07-09 18:20:26",
       "album": {
+        "name": "Dejavu",
+        "url": "https://open.spotify.com/album/2sxCRIMhFNNPInRgTdOmM5"
+      },
+      "artists": [
+        {
+          "name": "\u68d7 \u5df3\u6ce2 (CV.\u897f\u5c71\u5b8f\u592a\u6717)",
+          "url": "https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj"
+        }
+      ],
+      "duration_ms": 235013,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/2x96Uek1encMpPxzZfRixB"
+    },
+    {
+      "added_at": "2024-07-09 18:20:26",
+      "album": {
         "name": "i7",
         "url": "https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 269466,
       "name": "Fly away!",
       "url": "https://open.spotify.com/track/2OAEvzy1GXV40vszTJQtu4"
-    },
-    {
-      "added_at": "2024-07-09 18:20:26",
-      "album": {
-        "name": "Dejavu",
-        "url": "https://open.spotify.com/album/2sxCRIMhFNNPInRgTdOmM5"
-      },
-      "artists": [
-        {
-          "name": "\u68d7 \u5df3\u6ce2 (CV.\u897f\u5c71\u5b8f\u592a\u6717)",
-          "url": "https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj"
-        }
-      ],
-      "duration_ms": 235013,
-      "name": "Dejavu",
-      "url": "https://open.spotify.com/track/2x96Uek1encMpPxzZfRixB"
     },
     {
       "added_at": "2024-07-09 18:20:26",

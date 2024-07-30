@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Jorja Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,749,860 likes - 173 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,749,819 likes - 173 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

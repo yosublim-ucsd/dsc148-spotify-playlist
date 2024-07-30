@@ -1,12 +1,12 @@
 {
   "description": "This is Big Mama Thornton. The essential tracks, all in one playlist.",
-  "num_followers": 13289,
+  "num_followers": 13290,
   "original_name": "This Is Big Mama Thornton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAACdHfP4eBs3ZC/L0n4ZzR0e",
+  "snapshot_id": "ZqWKAAAAAAB31JBqAtTpayAQlQOhRHWg",
   "tracks": [
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 278986,
-      "name": "Rolling Stone",
-      "url": "https://open.spotify.com/track/4YSbLqmsZdXwnATOo6w1ER"
+      "duration_ms": 311906,
+      "name": "Big Mama Swings",
+      "url": "https://open.spotify.com/track/4T3FE0qQMLbWPzLjejvW9G"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stronger Than Dirt",
-        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Ain't Nothin' You Can Do",
-      "url": "https://open.spotify.com/track/5xuRbSGk9NtXOIhLnov3E1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sassy Mama - Live at The Rising Sun Celebrity Jazz Club (2022 Remaster)",
         "url": "https://open.spotify.com/album/24FbIjyheRChKtXPRveBEF"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stronger Than Dirt",
+        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Ain't Nothin' You Can Do",
+      "url": "https://open.spotify.com/track/5xuRbSGk9NtXOIhLnov3E1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vanguard Visionaries",
         "url": "https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1"
       },
@@ -636,25 +636,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 311906,
-      "name": "Big Mama Swings",
-      "url": "https://open.spotify.com/track/4T3FE0qQMLbWPzLjejvW9G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jail",
-        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 356472,
-      "name": "Jail",
-      "url": "https://open.spotify.com/track/6UfkzygIHyHn7UeMTzWsny"
+      "duration_ms": 278986,
+      "name": "Rolling Stone",
+      "url": "https://open.spotify.com/track/4YSbLqmsZdXwnATOo6w1ER"
     },
     {
       "added_at": null,
@@ -675,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jail",
+        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 356472,
+      "name": "Jail",
+      "url": "https://open.spotify.com/track/6UfkzygIHyHn7UeMTzWsny"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stronger Than Dirt",
         "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
       },
@@ -687,6 +687,70 @@
       "duration_ms": 239000,
       "name": "Rollin' Stone",
       "url": "https://open.spotify.com/track/7HnlJFHCO11PLFRztEsGba"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Complete Vanguard Recordings",
+        "url": "https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 292973,
+      "name": "Lost City",
+      "url": "https://open.spotify.com/track/3WGHCI52pWHbcVPTouKbOK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Europe",
+        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/6rFIrlE27ICQ9FQ3n3ZCVo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roots Of Rock & Roll",
+        "url": "https://open.spotify.com/album/361U0QdVGbCscARmmFWU40"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 400846,
+      "name": "Ball And Chain - Live (Version 1)",
+      "url": "https://open.spotify.com/track/2tDhAQmGszDfGc0zfxzxAS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sassy Mama!",
+        "url": "https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 465106,
+      "name": "Mr. Cool",
+      "url": "https://open.spotify.com/track/78qFFh8ovPynpVChRwz8I8"
     },
     {
       "added_at": null,
@@ -711,70 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roots Of Rock & Roll",
-        "url": "https://open.spotify.com/album/361U0QdVGbCscARmmFWU40"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 400846,
-      "name": "Ball And Chain - Live (Version 1)",
-      "url": "https://open.spotify.com/track/2tDhAQmGszDfGc0zfxzxAS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Europe",
-        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "I Need Your Love",
-      "url": "https://open.spotify.com/track/6rFIrlE27ICQ9FQ3n3ZCVo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Complete Vanguard Recordings",
-        "url": "https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 292973,
-      "name": "Lost City",
-      "url": "https://open.spotify.com/track/3WGHCI52pWHbcVPTouKbOK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sassy Mama!",
-        "url": "https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 465106,
-      "name": "Mr. Cool",
-      "url": "https://open.spotify.com/track/78qFFh8ovPynpVChRwz8I8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jail",
         "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
       },
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 243506,
-      "name": "Oh Happy Day",
-      "url": "https://open.spotify.com/track/7licYK3c8r4IcQ4DyiHDeE"
+      "duration_ms": 205000,
+      "name": "Sheriff O.E. & Me",
+      "url": "https://open.spotify.com/track/09FeLwnxUGibd5q41UkRYj"
     },
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Mama's Home (35 Classic Tracks)",
-        "url": "https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        },
-        {
-          "name": "Johnny Chandler",
-          "url": "https://open.spotify.com/artist/6nvncmBGwNc3aHuoQuxhCC"
-        }
-      ],
-      "duration_ms": 168106,
-      "name": "You Did Me Wrong",
-      "url": "https://open.spotify.com/track/4BP0AJ383Ywi4cTeYc1LO1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sassy Mama!",
         "url": "https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR"
       },
@@ -843,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Precious & Rare: Big Mama Thornton",
+        "url": "https://open.spotify.com/album/2pOwJN6EjTB2vKLIIcmXXV"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 164866,
+      "name": "Laugh, Laugh, Laugh",
+      "url": "https://open.spotify.com/track/2pzuKTc2vEY6R8N3I8Koxx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jail",
         "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
       },
@@ -852,9 +848,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Sheriff O.E. & Me",
-      "url": "https://open.spotify.com/track/09FeLwnxUGibd5q41UkRYj"
+      "duration_ms": 243506,
+      "name": "Oh Happy Day",
+      "url": "https://open.spotify.com/track/7licYK3c8r4IcQ4DyiHDeE"
     }
   ],
   "unique_name": "This Is Big Mama Thornton",

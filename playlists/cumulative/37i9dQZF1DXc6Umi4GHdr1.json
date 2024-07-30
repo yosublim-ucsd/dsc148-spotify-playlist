@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Along rusty rails",
+        "url": "https://open.spotify.com/album/60chGCUrcfMTQD2WxZsqyC"
+      },
+      "artists": [
+        {
+          "name": "Oma Holt",
+          "url": "https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130981,
+      "name": "Along rusty rails",
+      "url": "https://open.spotify.com/track/5xgTVeCBbRQ2rHl33azMw2"
+    },
+    {
+      "album": {
         "name": "Altai",
         "url": "https://open.spotify.com/album/2nrYZcCUiavKgeH2f07zlz"
       },
@@ -1576,7 +1594,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 166003,
       "name": "Dorival",
       "url": "https://open.spotify.com/track/1sgihll2tdAfRm3ko1Bay3"
@@ -3200,7 +3218,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 142750,
       "name": "Little Brook",
       "url": "https://open.spotify.com/track/7qNq3sxKEdzYWvxLSLkj0J"
@@ -6060,6 +6078,24 @@
       "duration_ms": 188813,
       "name": "Tree Circle",
       "url": "https://open.spotify.com/track/03CLghlf8FCjjjhvZg3OjC"
+    },
+    {
+      "album": {
+        "name": "Tree House",
+        "url": "https://open.spotify.com/album/7KIVvFb75KSvmUYs8Qf6ss"
+      },
+      "artists": [
+        {
+          "name": "Ashton Foster",
+          "url": "https://open.spotify.com/artist/6lleSq8jhlTKsIH0GeGSM4"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145224,
+      "name": "Tree House",
+      "url": "https://open.spotify.com/track/54ecb4bpZDXz6k5dFiP3xg"
     },
     {
       "album": {

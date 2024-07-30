@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 346218,
+  "num_followers": 346280,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 196975,
+      "name": "High",
+      "url": "https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY"
+    },
+    {
+      "added_at": "2024-07-26 09:47:49",
+      "album": {
         "name": "Skin to Skin",
         "url": "https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 172500,
       "name": "U Lyk My Style",
       "url": "https://open.spotify.com/track/0QlmR1LoIFAyYJKWUFYAeH"
-    },
-    {
-      "added_at": "2024-07-26 09:47:49",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 196975,
-      "name": "High",
-      "url": "https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY"
     },
     {
       "added_at": "2024-07-26 09:47:49",
@@ -1303,6 +1303,42 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
+        "name": "Ching",
+        "url": "https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa"
+      },
+      "artists": [
+        {
+          "name": "GEE LEE",
+          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
+        }
+      ],
+      "duration_ms": 118604,
+      "name": "Ching",
+      "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
+    },
+    {
+      "added_at": "2024-07-26 09:47:49",
+      "album": {
+        "name": "Shaken To My Soul (feat. Ruti)",
+        "url": "https://open.spotify.com/album/1fTzvmo6yNAAvvHxt77t4L"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "Ruti",
+          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
+        }
+      ],
+      "duration_ms": 211208,
+      "name": "Shaken To My Soul (feat. Ruti)",
+      "url": "https://open.spotify.com/track/4R6zTX10cS2t8CLIhDkolC"
+    },
+    {
+      "added_at": "2024-07-26 09:47:49",
+      "album": {
         "name": "Can't Afford Me",
         "url": "https://open.spotify.com/album/5fvbVCtflFWtKsOpidiAqw"
       },
@@ -1339,46 +1375,6 @@
       "duration_ms": 200246,
       "name": "Everything Is Everything",
       "url": "https://open.spotify.com/track/7ijDV8QPQEIDPmjxZ3xtDV"
-    },
-    {
-      "added_at": "2024-07-26 09:47:49",
-      "album": {
-        "name": "Let Me Know (The Cypher)",
-        "url": "https://open.spotify.com/album/3txhzSqd1Lc9Nig7CF5eH0"
-      },
-      "artists": [
-        {
-          "name": "Kadeem Tyrell",
-          "url": "https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh"
-        },
-        {
-          "name": "Shae Universe",
-          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
-        },
-        {
-          "name": "Geovarn",
-          "url": "https://open.spotify.com/artist/1et4HAt8HCJJWuqW6hGWhk"
-        }
-      ],
-      "duration_ms": 241475,
-      "name": "Let Me Know - The Cypher",
-      "url": "https://open.spotify.com/track/3yra5xBw7oHIU1hqDisA7j"
-    },
-    {
-      "added_at": "2024-07-26 09:47:49",
-      "album": {
-        "name": "Ching",
-        "url": "https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa"
-      },
-      "artists": [
-        {
-          "name": "GEE LEE",
-          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
-        }
-      ],
-      "duration_ms": 118604,
-      "name": "Ching",
-      "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
     },
     {
       "added_at": "2024-07-26 09:47:49",

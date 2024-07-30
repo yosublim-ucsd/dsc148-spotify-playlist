@@ -4,7 +4,7 @@
 
 > Energetic tracks from the 1990s to boost your running session.
 
-116 songs - 7 hr 43 min
+117 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Blue \(Da Ba Dee\) \- Gabry Ponte Ice Pop Radio](https://open.spotify.com/track/5QRAfvKPyQpwt897Jc0glg) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf) | 4:43 | 2023-01-03 | 2024-03-21 |
 | [C'est La Vie](https://open.spotify.com/track/0P6CPJrNJ1Zt755CQTWg3S) | [B\*Witched](https://open.spotify.com/artist/72eP0W3rIhkxd0NHGg4w4u) | [C'est la Vie: The Collection](https://open.spotify.com/album/1zrWYaf1JGvFpRLfp8nDyn) | 2:53 | 2021-10-12 |  |
 | [Cruel Summer](https://open.spotify.com/track/1ntjFaRNVpC1V2cKekUnU5) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Flowers](https://open.spotify.com/album/4oXtR5JbdA9PLwbR49zx9Q) | 3:35 | 2021-03-30 | 2022-07-23 |
-| [Crush](https://open.spotify.com/track/6YXWauQKn5nQVhcC4KVplQ) | [Jennifer Paige](https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1) | [Jennifer Paige](https://open.spotify.com/album/0uKakjHwamECXOBi80uvNv) | 3:19 | 2023-05-18 |  |
+| [Crush](https://open.spotify.com/track/6YXWauQKn5nQVhcC4KVplQ) | [Jennifer Paige](https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1) | [Jennifer Paige](https://open.spotify.com/album/0uKakjHwamECXOBi80uvNv) | 3:19 | 2023-05-18 | 2024-07-30 |
 | [Da Ya Think I'm Sexy?](https://open.spotify.com/track/0gTFo2Va6oImBxUZOEOg9T) | [N\-Trance](https://open.spotify.com/artist/45InkbGypoMk5nVX6dsHkt), [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Da Ya Think I'm Sexy?](https://open.spotify.com/album/1pXHEk0IX0foNN22eCe1h6) | 4:22 | 2021-12-20 | 2022-05-06 |
 | [Dance Into The Light](https://open.spotify.com/track/4oKHWJpgJKHcBvqyUNYQey) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Dance Into The Light](https://open.spotify.com/album/2Wh9PCfd0bmwGTsV2W6iDZ) | 4:22 | 2021-03-30 | 2022-07-29 |
 | [Dance into the Light \- 2016 Remaster](https://open.spotify.com/track/6JRBGmf5T7QjFQPWTwBdbs) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Dance into the Light \(Deluxe Edition\)](https://open.spotify.com/album/1Qchu0DOadzKxJyfHYA4p4) | 4:24 | 2022-10-06 | 2022-11-13 |
@@ -83,6 +83,7 @@
 | [MMMBop](https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Middle Of Nowhere](https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h) | 4:28 | 2023-05-18 |  |
 | [Moving on Up](https://open.spotify.com/track/6vGW3d8X48CBaLdU0PQbey) | [M People](https://open.spotify.com/artist/3lcbKPLl0ci2mKRdcP5Etf) | [The Best Of M People](https://open.spotify.com/album/1AUt6QIAn6HmaNhTCmKQ1D) | 3:35 | 2022-03-24 |  |
 | [Mr\. Jones](https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ) | 4:32 | 2023-05-18 |  |
+| [My Lovin' \(You're Never Gonna Get It\)](https://open.spotify.com/track/3R97rNX7JnmshCWBwOSFet) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Funky Divas](https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA) | 4:41 | 2023-05-18 |  |
 | [New York City Boy \- 2017 Remaster](https://open.spotify.com/track/7KeoeLwqtTIIgeHkvgxkeT) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Nightlife: Further Listening 1996 \- 2000 \(2017 Remaster\)](https://open.spotify.com/album/4XyL4Vum37Wh3vKu4DhRek) | 5:15 | 2021-03-30 | 2023-05-19 |
 | [Now That We Found Love](https://open.spotify.com/track/1KONmY3enP3r3nIPQidWAy) | [Heavy D & The Boyz](https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3), [Aaron Hall](https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn) | [Peaceful Journey](https://open.spotify.com/album/4bAwnTaD8QcruiVdb1zzzY) | 4:18 | 2021-03-30 | 2023-05-19 |
 | [One Night in Heaven](https://open.spotify.com/track/3oGTqZLEQl6YeWGR5icFCV) | [M People](https://open.spotify.com/artist/3lcbKPLl0ci2mKRdcP5Etf) | [The Best Of M People](https://open.spotify.com/album/0IKlTpNMgoWaEs6QZIZBWN) | 4:24 | 2021-03-30 | 2022-07-29 |

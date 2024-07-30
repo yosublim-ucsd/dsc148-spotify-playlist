@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-187 songs - 9 hr 10 min
+189 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Meditative Notes](https://open.spotify.com/track/20M4Bb3bH6kvht89yfn5iI) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Meditative Notes](https://open.spotify.com/album/4AMboqDV93QgvWtLrOja29) | 2:43 | 2023-04-28 | 2024-04-02 |
 | [Melville \(Meditation\)](https://open.spotify.com/track/0dvYoaVUiMJAbBtAIbr590) | [Lake Melville](https://open.spotify.com/artist/2qZD20bVk0hgogpaDPbxmG) | [Lake Melville](https://open.spotify.com/album/0YmbS2yy0hXBM2GHpXo28c) | 2:39 | 2023-04-28 |  |
 | [Metamorphosis](https://open.spotify.com/track/67le4yadjiFCZ3bQXZITEN) | [Harmonic Pathways](https://open.spotify.com/artist/50w3lD1tVFon2IBD8jRBOO), [Nature on Record](https://open.spotify.com/artist/4XC4r2EEPyi9Ox0ZinPaIV) | [Emergence](https://open.spotify.com/album/5npmxbN4pCm1CHhjxHmFuf) | 3:24 | 2023-04-28 |  |
-| [Misty Glade](https://open.spotify.com/track/3TCqP8YgwG2VCdhHF3bMzO) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Misty Glade](https://open.spotify.com/album/1oOiCZ9Fr49EpOmBkCp9vV) | 3:50 | 2024-06-03 |  |
+| [Misty Glade](https://open.spotify.com/track/3TCqP8YgwG2VCdhHF3bMzO) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Misty Glade](https://open.spotify.com/album/1oOiCZ9Fr49EpOmBkCp9vV) | 3:50 | 2024-06-03 | 2024-07-30 |
 | [Mitra´s Morning](https://open.spotify.com/track/0RqfPOB10K1N5ehf2Tbqfc) | [Sangenjaya](https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl) | [Mitra´s Morning](https://open.spotify.com/album/5Wt5uingdBJRJr7aBmFF0Y) | 2:35 | 2023-10-06 |  |
 | [My Sanctuary](https://open.spotify.com/track/3MiOoOWcIVfxT4DtiVx7RW) | [Clouds of Calm](https://open.spotify.com/artist/4aFC3M76kBNOVNH1YIvtaD) | [My Sanctuary](https://open.spotify.com/album/6LD9SZaxij45q5VylWfDpM) | 3:31 | 2023-04-28 | 2024-06-04 |
 | [My Small River](https://open.spotify.com/track/5fN8PCKlavnzmBMXIO0tOA) | [Emma Hill](https://open.spotify.com/artist/1hGnGmcdjO6QvsPqWchLI1) | [My Small River](https://open.spotify.com/album/5CkowVwBbCxYp48CVxQ9ph) | 2:59 | 2023-06-09 |  |
@@ -156,7 +156,7 @@
 | [Solemn Echo](https://open.spotify.com/track/5NtSWnA98CIXpE6HloLurX) | [Stormfields](https://open.spotify.com/artist/1PlgaV9zKrbKabenfaMf0C) | [Solemn Echo](https://open.spotify.com/album/4b8EHzObZBqI6KXyU3DE2g) | 2:12 | 2023-04-28 |  |
 | [Somos Tierra](https://open.spotify.com/track/7AVLKd5agjTZWrfjxBTMHX) | [Ancestral Beats](https://open.spotify.com/artist/5s5I6gLsXrfTFt91nIznYb) | [Somos Tierra](https://open.spotify.com/album/6xGYEZBKtcLC7KIKJOrXSM) | 2:54 | 2023-04-28 | 2023-05-27 |
 | [Song Of Nature](https://open.spotify.com/track/4LvTLzxeWPn6XUpCmE93iH) | [Ziwambe](https://open.spotify.com/artist/4C4pHnRWJY0ROkqEynVy7z) | [Song Of Nature](https://open.spotify.com/album/0nMiF2yBds8CV1LqnTHMsV) | 2:26 | 2023-09-22 |  |
-| [Soothing Ripples](https://open.spotify.com/track/7GBZtRWRBnA0zhnuNrvoct) | [Applied Rest](https://open.spotify.com/artist/2riZE0wAuN7vPwKnEo8eGX) | [Soothing Ripples](https://open.spotify.com/album/4c2ImLyXKB23EToI6NP8UE) | 2:49 | 2023-04-28 |  |
+| [Soothing Ripples](https://open.spotify.com/track/7GBZtRWRBnA0zhnuNrvoct) | [Applied Rest](https://open.spotify.com/artist/2riZE0wAuN7vPwKnEo8eGX) | [Soothing Ripples](https://open.spotify.com/album/4c2ImLyXKB23EToI6NP8UE) | 2:49 | 2023-04-28 | 2024-07-30 |
 | [Soothing River Currents](https://open.spotify.com/track/5wadEWywibUs6MUP61h8kE) | [Binaural Healing Frequencies](https://open.spotify.com/artist/0O3hasNaQ353zIkDpwn4Ul) | [Soothing River Currents](https://open.spotify.com/album/74sFp2e1f4L9PKjonje0J5) | 2:50 | 2023-12-01 |  |
 | [Spa Rituals](https://open.spotify.com/track/1t2XiLdfC6zk4cRV2WNxvP) | [Ayivah](https://open.spotify.com/artist/4MFiKatqBIbFbdEZscWA8o) | [Spa Rituals](https://open.spotify.com/album/1HgapXIzrXEU18Wgw5Jhyb) | 2:31 | 2024-02-15 | 2024-04-02 |
 | [Stream of Harmony](https://open.spotify.com/track/2vsrtWukHPNJq6T0rt38rk) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Stream of Harmony](https://open.spotify.com/album/76eHssQQ8jisSTZwuiqC0R) | 2:57 | 2024-04-01 |  |
@@ -175,6 +175,7 @@
 | [The Unknown](https://open.spotify.com/track/2Ty0lPGjFDvIKKwRuZqGg4) | [Circle Soda](https://open.spotify.com/artist/3g9nH3mgwpI5wuHkeio1vK) | [The Unknown](https://open.spotify.com/album/4x3f30IIvpiiTN5sXEPWV1) | 2:48 | 2023-04-28 |  |
 | [Tibetan Bowl Peace](https://open.spotify.com/track/1ZAcQ8bAiiRMITWLqZ3gFW) | [Dynamic Dimension](https://open.spotify.com/artist/2PWrvQ39kze8AxXW31eP69) | [Tibetan Bowl Healing](https://open.spotify.com/album/6pO8SRJZiGERpaUl1GUnf6) | 4:06 | 2023-04-28 |  |
 | [Tranquility](https://open.spotify.com/track/5jjwni9fUP9YT9AJsXFv3g) | [Elysio Stone](https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp) | [Tranquility](https://open.spotify.com/album/0XN0oD4b0FwAy5URSvWFXk) | 2:43 | 2023-04-28 | 2024-04-02 |
+| [Tree Spirits](https://open.spotify.com/track/4r1O9hHMjiStkmn9iXnYDE) | [Waves Of Aware](https://open.spotify.com/artist/2q4nJLQKqcI65BMW9CuORq) | [Tree Spirits](https://open.spotify.com/album/0iceXQlw0yp36EITpApP5z) | 2:24 | 2024-07-19 |  |
 | [Tremulous Rest](https://open.spotify.com/track/0OD5s7BZbIiHiA2wwjuuCI) | [Ethel Rohling](https://open.spotify.com/artist/4ZAnqmX1z5YWccy2P8YEya) | [Tremulous Rest](https://open.spotify.com/album/1dxcdpHa4Mv0sabHi33BvV) | 2:09 | 2023-04-28 | 2024-06-26 |
 | [Tributary Balance](https://open.spotify.com/track/6iCoaYHHA82MZZnxi6nt9h) | [Ezmae Forrest](https://open.spotify.com/artist/6ruCfksOefHsnWf3TjGJYn) | [Tributary Balance](https://open.spotify.com/album/0jeMzKkXb7a3vVLn2EbBkX) | 3:07 | 2023-04-28 |  |
 | [Under the Maple Tree](https://open.spotify.com/track/5nlU4XAwnmZzqDuq3TucEY) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Under the Maple Tree](https://open.spotify.com/album/3ew2zUnWSZDZH0DEYo5sRO) | 3:40 | 2023-12-01 |  |
@@ -185,6 +186,7 @@
 | [Verdure](https://open.spotify.com/track/7iEfhRXZpaI1w7zkj9Np5U) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Verdure](https://open.spotify.com/album/4BNcZNVXeCRvxdIEdykxOi) | 2:45 | 2023-04-28 |  |
 | [Vibo Nuovo](https://open.spotify.com/track/5MP7fS5PCPoQhQdggjW3md) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Vibo Nuovo](https://open.spotify.com/album/2rCtZcfFt7svYlB7xuAn5i) | 3:34 | 2024-02-15 | 2024-04-02 |
 | [Visie](https://open.spotify.com/track/57mmBXolEEyg7pQZfmLB3Y) | [Femke Edelijn](https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G) | [Visie](https://open.spotify.com/album/03IvFQYVBG3UO2m4dkLVHW) | 2:41 | 2023-04-28 |  |
+| [Walking The Path](https://open.spotify.com/track/2h0VLSP2AR1QKe3I3rJJvN) | [Sacred Orb](https://open.spotify.com/artist/3wo048mZLUY53Pp4KNXIQH) | [Walking The Path](https://open.spotify.com/album/0ArZ7AkBPUeJYrglsiUlCX) | 3:09 | 2024-07-19 |  |
 | [Wave Son](https://open.spotify.com/track/1zISOcapD0WOYWovAxE9Si) | [Sam Bucciana](https://open.spotify.com/artist/4A7ZW9rJIvRiyu3pgxQW1j) | [Wave Son](https://open.spotify.com/album/4icmQJ3f32Xcz6FniCqQJE) | 2:38 | 2024-05-01 |  |
 | [Wavy](https://open.spotify.com/track/2ZmBus1Smzpa4qRNkWd1Bu) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [Wavy](https://open.spotify.com/album/0qGpUKxTfjjsUZJ0Hx3Jf2) | 4:02 | 2023-04-28 |  |
 | [Where I Belong](https://open.spotify.com/track/5eB7WeAkom0NaB4Q5jEfeT) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [A Free Spirit](https://open.spotify.com/album/25RUQBt47toM0l7s8mvnh5) | 2:51 | 2023-04-28 | 2024-06-04 |

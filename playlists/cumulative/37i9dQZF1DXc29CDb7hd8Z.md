@@ -4,7 +4,7 @@
 
 > Everything will look beautiful if you're inspired by the simplicity of instrumental music.
 
-162 songs - 8 hr 46 min
+163 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Jeremy and Maureen](https://open.spotify.com/track/7ISwUxOAvFJhIM7Q9c1mcu) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Jeremy and Maureen](https://open.spotify.com/album/6ObwhBlnMPwTSXYgSGJZgf) | 3:24 | 2021-09-10 |  |
 | [Ker Yegu](https://open.spotify.com/track/1e4fUWZRPW7H3a1ZX0MARA) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Kerber](https://open.spotify.com/album/0L9QNawAYPBbMOkHD1tZOM) | 4:34 | 2021-09-10 | 2024-04-19 |
 | [Ker Yegu](https://open.spotify.com/track/2maI2rqhSgHfqNnz4c7Ymn) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Ker Yegu](https://open.spotify.com/album/7g7ytUsfYU1Ak5ElqOvOFt) | 4:34 | 2021-09-10 |  |
+| [La Cuna del Cisne](https://open.spotify.com/track/5YTa4iuyMjso4skLWLYRe0) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV) | [Yo No Soy Marinero](https://open.spotify.com/album/7Lg3d27iQnRX3Is6yEXho5) | 2:33 | 2024-07-29 |  |
 | [La danse](https://open.spotify.com/track/4CAunVmQgP1a3DCNh6tYOI) | [Jacco Wynia](https://open.spotify.com/artist/2eECDzEtWx8eIi22B4rCAn) | [La danse](https://open.spotify.com/album/3YvjIS6Pk5F3vO0dvs8LPB) | 3:29 | 2021-09-10 |  |
 | [Les Etudes](https://open.spotify.com/track/57YVVhWcChlS42r0EmA9aT) | [Mark Souzek](https://open.spotify.com/artist/472ZY6kKXhDcCXcOV0wxc2) | [Les Etudes](https://open.spotify.com/album/20xAiDerOnti3f8MWMmpg7) | 1:45 | 2021-09-10 |  |
 | [Les Pillow Sisters sans électronique](https://open.spotify.com/track/2vMA9FuXiwliJqwDyo18UI) | [Singleton](https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8) | [Les Pillow Sisters sans électronique](https://open.spotify.com/album/2G6iQn1DCLgcLiA6hmRA2T) | 2:47 | 2021-09-10 |  |

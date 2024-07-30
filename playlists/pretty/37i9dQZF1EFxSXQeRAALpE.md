@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxSXQeRAALpE.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wb3dcSPYJ6xlVpP6HG0u8">Kristen Anderson\-Lopez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233 likes - 139 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 235 likes - 139 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxSXQeRAALpE.md) - [plain]
 | 4 | [Do You Want to Build a Snowman? \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/2yi7HZrBOC4bMUSTcs4VK6) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Agatha Lee Monn](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp), [Katie Lopez](https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:26 |
 | 5 | [Show Yourself](https://open.spotify.com/track/50WeOnXhM1H7AZEeIDoWfZ) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Evan Rachel Wood](https://open.spotify.com/artist/3MyB0MyKec3Jq0AH2llk7v) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 4:20 |
 | 6 | [For the First Time in Forever \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/70b5Sq3ePOu3Gqg0hjlOtR) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:45 |
-| 7 | [In Summer \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/285xiuxDq0tEg2RuISS3Eu) | [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY) | [Disney Summer Songs , Vol\. 2](https://open.spotify.com/album/4AORimNOUL0YaMx9jYx2G8) | 1:50 |
+| 7 | [In Summer \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/285xiuxDq0tEg2RuISS3Eu) | [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY) | [Disney Summer Songs , Vol\. 2](https://open.spotify.com/album/4AORimNOUL0YaMx9jYx2G8) | 1:54 |
 | 8 | [Some Things Never Change \- From "Frozen 2"/Soundtrack Version](https://open.spotify.com/track/6s9eRp2cduUNhuDhs3XHPp) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY), [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB), [Cast of Frozen 2](https://open.spotify.com/artist/0PYSU1xJn8ay3ckZYsumdH) | [Disney Summer Songs](https://open.spotify.com/album/6qykGE5x584duyLVYcnojE) | 3:29 |
 | 9 | [All Is Found](https://open.spotify.com/track/61HVbcNeRACZpyvHrc3AnD) | [Evan Rachel Wood](https://open.spotify.com/artist/3MyB0MyKec3Jq0AH2llk7v) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 2:05 |
 | 10 | [When I Am Older](https://open.spotify.com/track/1Tt7zr1yDbKbT8L4jzSZ74) | [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 1:51 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxSXQeRAALpE.md) - [plain]
 | 138 | [Dory and Marlin \- Spoken Word Version](https://open.spotify.com/track/3Il1kKnsOInlcnBC3We8wl) | [Marlin](https://open.spotify.com/artist/3bNuWq0M8RfS3YzVOWcgWY), [Dory](https://open.spotify.com/artist/1IQVpBd8xRLcprKrByAgHN) | [Finding Nemo: The Musical](https://open.spotify.com/album/6Jlc1ESl3gRnF4u4M7OKVC) | 0:25 |
 | 139 | [You Don't Belong](https://open.spotify.com/track/25cxwxkIgXBD5HtdBWd4aH) | [Up Here \- Cast](https://open.spotify.com/artist/69aGXX2T28iQOy1teJy61L), [Emilia Suárez](https://open.spotify.com/artist/63N2LyprPztDL4WwgiZ7L5), [MaKena Jackson](https://open.spotify.com/artist/5BAHeUrDhy4RUC55ZLYeaC), [Maya Sistruck](https://open.spotify.com/artist/2AgDl5kTDamgT6g5EeJAXQ) | [Up Here \(Original Series Soundtrack\)](https://open.spotify.com/album/4ytsQEFFvWKALIRLkMBZxx) | 0:24 |
 
-Snapshot ID: `AbX73gAAAABrDFjD7ROwXXX/ooNRIB+Q`
+Snapshot ID: `AbYBfgAAAACi3VZ21Kbq8GNb0pPDldBE`

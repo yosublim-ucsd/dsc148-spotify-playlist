@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2024.",
-  "num_followers": 2747,
+  "num_followers": 2750,
   "original_name": "BISE Festival 2024",
   "owner": {
     "name": "Spotify",
@@ -609,22 +609,6 @@
       "url": "https://open.spotify.com/track/0kzApf7h9Z4fpkjYnhtCYC"
     },
     {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "Folie",
-        "url": "https://open.spotify.com/album/10zfAail7mEa7dOw45R7Mc"
-      },
-      "artists": [
-        {
-          "name": "MIMOSA",
-          "url": "https://open.spotify.com/artist/64XUJ8nVZaAZ8U42pvw7Rl"
-        }
-      ],
-      "duration_ms": 171933,
-      "name": "Folie",
-      "url": "https://open.spotify.com/track/0Ueh3QgfcnrlBipgoWjkDW"
-    },
-    {
       "added_at": "2024-01-15 17:31:32",
       "album": {
         "name": "528Hz",
@@ -639,6 +623,22 @@
       "duration_ms": 165833,
       "name": "Don't Waste My Time",
       "url": "https://open.spotify.com/track/4fJ0WgBtMm3pFlt8E0IBql"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "Folie",
+        "url": "https://open.spotify.com/album/10zfAail7mEa7dOw45R7Mc"
+      },
+      "artists": [
+        {
+          "name": "MIMOSA",
+          "url": "https://open.spotify.com/artist/64XUJ8nVZaAZ8U42pvw7Rl"
+        }
+      ],
+      "duration_ms": 171933,
+      "name": "Folie",
+      "url": "https://open.spotify.com/track/0Ueh3QgfcnrlBipgoWjkDW"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -725,6 +725,22 @@
       "url": "https://open.spotify.com/track/0c1Iaj3inW4dmaDbfAeibU"
     },
     {
+      "added_at": "2024-01-15 17:31:32",
+      "album": {
+        "name": "528Hz",
+        "url": "https://open.spotify.com/album/7i6HxReY7m9wHSOdh3au8V"
+      },
+      "artists": [
+        {
+          "name": "\u00c9NA\u00c9",
+          "url": "https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM"
+        }
+      ],
+      "duration_ms": 188647,
+      "name": "Pardon",
+      "url": "https://open.spotify.com/track/4LrqruvRJpaiLcgpOPPRnR"
+    },
+    {
       "added_at": "2023-11-23 11:08:33",
       "album": {
         "name": "FUCK IT WE BALL !",
@@ -743,22 +759,6 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "Mocha Venti",
-        "url": "https://open.spotify.com/album/0VJLc085rGD75EjFgylXeX"
-      },
-      "artists": [
-        {
-          "name": "IPNDEGO",
-          "url": "https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj"
-        }
-      ],
-      "duration_ms": 144186,
-      "name": "Photoshop",
-      "url": "https://open.spotify.com/track/26m1xQ0kBoSmO9PgdDFeJO"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
         "name": "and I can't breathe enough",
         "url": "https://open.spotify.com/album/0iBUtzkE1HWBM0ESN3407j"
       },
@@ -773,20 +773,20 @@
       "url": "https://open.spotify.com/track/2VMYVC78nVxCy2Xw3orm4P"
     },
     {
-      "added_at": "2024-01-15 17:31:32",
+      "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "528Hz",
-        "url": "https://open.spotify.com/album/7i6HxReY7m9wHSOdh3au8V"
+        "name": "Mocha Venti",
+        "url": "https://open.spotify.com/album/0VJLc085rGD75EjFgylXeX"
       },
       "artists": [
         {
-          "name": "\u00c9NA\u00c9",
-          "url": "https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM"
+          "name": "IPNDEGO",
+          "url": "https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj"
         }
       ],
-      "duration_ms": 188647,
-      "name": "Pardon",
-      "url": "https://open.spotify.com/track/4LrqruvRJpaiLcgpOPPRnR"
+      "duration_ms": 144186,
+      "name": "Photoshop",
+      "url": "https://open.spotify.com/track/26m1xQ0kBoSmO9PgdDFeJO"
     },
     {
       "added_at": "2023-11-23 11:08:33",

@@ -1,6 +1,6 @@
 {
   "description": "Groovy, dancy, funky stuff. When in doubt, turn this on at the party.\n",
-  "num_followers": 319440,
+  "num_followers": 319474,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,22 @@
     {
       "added_at": "2024-02-16 18:16:21",
       "album": {
+        "name": "Metamodernity",
+        "url": "https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 162663,
+      "name": "Metamodernity",
+      "url": "https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj"
+    },
+    {
+      "added_at": "2024-02-16 18:16:21",
+      "album": {
         "name": "Perfect (Exceeder)",
         "url": "https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 161271,
       "name": "Perfect (Exceeder)",
       "url": "https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT"
-    },
-    {
-      "added_at": "2024-02-16 18:16:21",
-      "album": {
-        "name": "Metamodernity",
-        "url": "https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 162663,
-      "name": "Metamodernity",
-      "url": "https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj"
     },
     {
       "added_at": "2024-03-22 19:56:32",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-02-16 18:16:21",
       "album": {
+        "name": "Someone's EP II",
+        "url": "https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "duration_ms": 231192,
+      "name": "go with u",
+      "url": "https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz"
+    },
+    {
+      "added_at": "2024-02-16 18:16:21",
+      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 226280,
       "name": "Don't Play",
       "url": "https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW"
-    },
-    {
-      "added_at": "2024-02-16 18:16:21",
-      "album": {
-        "name": "Someone's EP II",
-        "url": "https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        }
-      ],
-      "duration_ms": 231192,
-      "name": "go with u",
-      "url": "https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz"
     },
     {
       "added_at": "2024-02-16 18:16:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Hardwell
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,964 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,175 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 71 | [Motor](https://open.spotify.com/track/59YkyPuZCXyiLmcmSNKRtH) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Motor](https://open.spotify.com/album/0x6mXhYCkb1icLuxTLhAr4) | 3:02 |
 | 72 | [In My Bones](https://open.spotify.com/track/005Tc9RHU1uHpjutQrXrk7) | [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu), [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M), [SBSTN](https://open.spotify.com/artist/1NC5UXrIWNEj6zQ46obvkq) | [In My Bones](https://open.spotify.com/album/0MbZtjKTw7xjIFhyEWnW3l) | 3:18 |
 | 73 | [In My Head](https://open.spotify.com/track/6vFGJHTdxHzmBy8wD4BeZ0) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [In My Head](https://open.spotify.com/album/5SO1KxfsK1skoei8GucD7D) | 3:58 |
-| 74 | [I Wanna Dance](https://open.spotify.com/track/4bcSR43b8OvRabgkXfrWK1) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [I Wanna Dance](https://open.spotify.com/album/7f6x4rUCzkq3BLI2xd2Azo) | 2:22 |
-| 75 | [Living On Video \(feat\. DTale\) \[Festival Mix\]](https://open.spotify.com/track/25s0xJhSEJhpiyRPVnsvtU) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [DTale](https://open.spotify.com/artist/6kNzhTpSxGfG0dxqMuraWy) | [Living On Video \(feat\. DTale\) \[Festival Mix\]](https://open.spotify.com/album/3ilMBUiEE7oTOExAPwkV84) | 3:01 |
+| 74 | [Living On Video \(feat\. DTale\) \[Festival Mix\]](https://open.spotify.com/track/25s0xJhSEJhpiyRPVnsvtU) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [DTale](https://open.spotify.com/artist/6kNzhTpSxGfG0dxqMuraWy) | [Living On Video \(feat\. DTale\) \[Festival Mix\]](https://open.spotify.com/album/3ilMBUiEE7oTOExAPwkV84) | 3:01 |
+| 75 | [I Wanna Dance](https://open.spotify.com/track/4bcSR43b8OvRabgkXfrWK1) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [I Wanna Dance](https://open.spotify.com/album/7f6x4rUCzkq3BLI2xd2Azo) | 2:22 |
 | 76 | [Control](https://open.spotify.com/track/0A0CZzjON3WXZvEyPoA6GQ) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Control](https://open.spotify.com/album/6sD3U3E72UvI8Od8I6QoiA) | 2:55 |
 | 77 | [Rise Up](https://open.spotify.com/track/50QgswlQoQIx6Zr2mS7Bnp) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Rise Up](https://open.spotify.com/album/39qKI7hCcOnnrnXPoPbW11) | 3:49 |
 | 78 | [Flight 303](https://open.spotify.com/track/3VSwrup744za8NcJwdlbbL) | [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU) | [Tranceformation](https://open.spotify.com/album/20n8FSFvvV8YiaYB5huDTL) | 2:34 |
 | 79 | [Cannonball \- Will Sparks Remix](https://open.spotify.com/track/4wRKAezWo1oLA0g2fw0XE9) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Cannonball \(Will Sparks Remix\)](https://open.spotify.com/album/5zaayiAD6wljfJTYmS33A8) | 4:03 |
 | 80 | [Tamara](https://open.spotify.com/track/0iXHcWtw4npb2FPf6Gh5js) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Tamara](https://open.spotify.com/album/1Lsqnc5hGVO25f0DPh8PgD) | 3:26 |
 
-Snapshot ID: `ZqLK4AAAAAARUKfsP4197CAEa7+Gd23N`
+Snapshot ID: `ZqeEfQAAAADKRYFRCoOGcA2g9hQhG3Oj`

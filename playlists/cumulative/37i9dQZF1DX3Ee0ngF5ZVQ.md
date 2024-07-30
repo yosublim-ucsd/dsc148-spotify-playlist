@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Hudson Westbrook
 
-638 songs - 1 day 14 hr 5 min
+639 songs - 1 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,7 +488,7 @@
 | [Speed](https://open.spotify.com/track/60BoWg2kyax4s2Pyjgaqsi) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Speed](https://open.spotify.com/album/2hdi5HXVz9vF7b7gUXJ3E4) | 4:30 | 2023-03-10 | 2023-09-02 |
 | [Spinnin'](https://open.spotify.com/track/0k1MIumc7GxFeiQsKgRBys) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Wandering Star](https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab) | 4:13 | 2023-10-27 |  |
 | [Start over Somewhere](https://open.spotify.com/track/7kdic1HVv2OjJH8dYpNdRP) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Start over Somewhere](https://open.spotify.com/album/06ZzHXrAtmH0Jhfptoz1Zc) | 4:06 | 2024-03-01 | 2024-05-03 |
-| [Starts in a Bar](https://open.spotify.com/track/5Qpq6TsAObkMLfB7q1z4Qc) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ) | 2:59 | 2023-09-01 |  |
+| [Starts in a Bar](https://open.spotify.com/track/5Qpq6TsAObkMLfB7q1z4Qc) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ) | 2:59 | 2023-09-01 | 2024-07-30 |
 | [State You Left Me In](https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [State You Left Me In](https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd) | 5:25 | 2023-03-17 | 2024-07-23 |
 | [Stay](https://open.spotify.com/track/37s7g1BDBh9n8dSF2iWBNd) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Stay](https://open.spotify.com/album/4j8zbgOMEK1MdNCMfZFBhg) | 3:24 | 2024-01-19 |  |
 | [Stay Tuned](https://open.spotify.com/track/2dOtM9EeM3bhQvzOWEQPwP) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Stay Tuned](https://open.spotify.com/album/6o4nLp0Ra5dW31bxWk91s6) | 3:20 | 2022-04-01 |  |
@@ -619,6 +619,7 @@
 | [Whiskey](https://open.spotify.com/track/6XHyGwW1pu2vIVhtt8M5uf) | [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Whiskey](https://open.spotify.com/album/44mK7NKStFXVAF5MgIpyaq) | 4:01 | 2021-12-17 | 2022-07-26 |
 | [Whiskey Miss Me](https://open.spotify.com/track/20ZFbsmpYhFYNIMrBPKCMz) | [Hannah Kay](https://open.spotify.com/artist/1lqIzlQxMBRSQt5A5hx0Sc) | [Whiskey Miss Me](https://open.spotify.com/album/5YeXMUcKBluvCPtNFYUbk6) | 3:00 | 2021-12-17 | 2023-09-02 |
 | [Whiskey Over Wine](https://open.spotify.com/track/6HcEsb3pfAs2UJJZWE2xKa) | [David McMahon](https://open.spotify.com/artist/7jaxYfWErivORgwy5NvaNT), [Jake Parshall](https://open.spotify.com/artist/5lQnbSk0GQNuECY8I53g0U) | [Whiskey Over Wine](https://open.spotify.com/album/6CGjZb0VFhDnV0zaZOw9Bs) | 3:50 | 2021-12-17 | 2022-03-19 |
+| [Whiskey Talkin'](https://open.spotify.com/track/77nXV5ruIgLksNc0LsGhRr) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Whiskey Talkin'](https://open.spotify.com/album/0D1jO7MDJE07Qc5G0JZIJ7) | 3:33 | 2024-07-26 |  |
 | [Whiskey When I'm Gone](https://open.spotify.com/track/4NMrYRUW7GHSZhlUaqnG38) | [Cooper Mohrmann](https://open.spotify.com/artist/4b5lxXh8G3bCrO4q8fTTkk) | [Whiskey When I'm Gone](https://open.spotify.com/album/32GyLIWTsXlW1F54Zxns1R) | 3:47 | 2021-12-17 | 2022-07-22 |
 | [Who Am I to Judge](https://open.spotify.com/track/5lBUnmTbiFEuaqgU3zx9iR) | [Logan Jahnke](https://open.spotify.com/artist/7lTjwioILltF3hqmn6BjNg), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Who Am I to Judge](https://open.spotify.com/album/3AklkzomSJInr5QA0MyHyD) | 3:52 | 2022-07-08 | 2023-02-25 |
 | [Who I Am](https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Who I Am](https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY) | 4:17 | 2023-09-01 |  |

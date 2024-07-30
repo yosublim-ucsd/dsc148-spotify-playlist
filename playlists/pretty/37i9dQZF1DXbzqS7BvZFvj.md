@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,918 likes - 78 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,927 likes - 78 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

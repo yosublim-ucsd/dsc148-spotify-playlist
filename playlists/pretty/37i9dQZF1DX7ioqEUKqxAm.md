@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ioqEUKqxAm.md) - [plain]
 
 > 注目の新進クリエイターを紹介するRADAR（レイダー）がスタート！お気に入りの番組を発掘しよう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 203 likes - 9 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 202 likes - 9 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

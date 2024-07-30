@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 
 ### [This Is Alexisonfire](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2YnrKQ)
 
-> This is Alexisonfire\. The essential tracks, all in one playlist.
+> This is Alexisonfire\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,816 likes - 39 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,820 likes - 39 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 22 | [We Are the End](https://open.spotify.com/track/2xSXidQMWwJOhH0x22uePn) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl) | 3:46 |
 | 23 | [Get Fighted](https://open.spotify.com/track/0PzEqBOcfOMU9FZRjeNiz0) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 3:05 |
 | 24 | [Counterparts and Number Them](https://open.spotify.com/track/1Hez08ojkopWzM5dTroCJT) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 2:19 |
-| 25 | [Conditional Love](https://open.spotify.com/track/1DkbJB2RctViYLK3DnGo2Y) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 2:53 |
-| 26 | [Familiar Drugs](https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Familiar Drugs](https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B) | 4:18 |
+| 25 | [Familiar Drugs](https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Familiar Drugs](https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B) | 4:18 |
+| 26 | [Conditional Love](https://open.spotify.com/track/1DkbJB2RctViYLK3DnGo2Y) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 2:53 |
 | 27 | [Midnight Regulations](https://open.spotify.com/track/5ku47u1TTWQiq2YwPckmdx) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 4:11 |
 | 28 | [Little Girls Pointing and Laughing](https://open.spotify.com/track/5b0ZFCqgkYc3XdA4cbjT2S) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 4:52 |
-| 29 | [Dark Night of the Soul](https://open.spotify.com/track/0S6bcfQHDPZPRcU4EV3jxk) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 6:02 |
-| 30 | [Accept Crime \- Live](https://open.spotify.com/track/7JTQuGvm5y837W5j9cfLK6) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [\(LIVE\) \- Born & Raised 2022, St Catharines ON](https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip) | 3:20 |
+| 29 | [Accept Crime \- Live](https://open.spotify.com/track/7JTQuGvm5y837W5j9cfLK6) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [\(LIVE\) \- Born & Raised 2022, St Catharines ON](https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip) | 3:20 |
+| 30 | [Dark Night of the Soul](https://open.spotify.com/track/0S6bcfQHDPZPRcU4EV3jxk) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 6:02 |
 | 31 | [Emerald Street](https://open.spotify.com/track/5l85aKbiWzcvUTMwBqC5AJ) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 3:15 |
 | 32 | [Adelleda](https://open.spotify.com/track/2USjkYb3JFNr9HDZcMUQ8H) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 5:14 |
 | 33 | [Charlie Sheen vs\. Henry Rollins](https://open.spotify.com/track/4nEPLRQ0oW3bgp8fL7CbIo) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [The Switcheroo Series](https://open.spotify.com/album/0TTp9wSNMiDXxb8003wzAP) | 3:39 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 38 | [Jubella \- Live](https://open.spotify.com/track/2DeLdi7dH3cb57BMXe8GiS) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [\(LIVE\) \- Born & Raised 2022, St Catharines ON](https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip) | 3:04 |
 | 39 | [Thrones](https://open.spotify.com/track/5K7prEZuUXRJFJoecoOmuk) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis \(Bonus Tracks\)](https://open.spotify.com/album/2nNVfMFWChevVdrt8HYuuT) | 4:15 |
 
-Snapshot ID: `ZqQ4gAAAAACFJ/36aZgEazS5zDOnrK8W`
+Snapshot ID: `ZqWKAAAAAADZuKRZKjtUC5Zr2KW/oapm`

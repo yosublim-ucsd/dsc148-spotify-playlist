@@ -1,6 +1,6 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 106484,
+  "num_followers": 106497,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
@@ -807,18 +807,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Desprogramado",
-        "url": "https://open.spotify.com/album/4NgiQKB70vqBCVe9TsWjWL"
+        "name": "SUPERSTICIONES: Remixes",
+        "url": "https://open.spotify.com/album/1ur69lVV9gt3FuGhXD02Sf"
       },
       "artists": [
         {
-          "name": "Hipnotica",
-          "url": "https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY"
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        },
+        {
+          "name": "Rosario Ortega",
+          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
         }
       ],
-      "duration_ms": 181845,
-      "name": "Desprogramado",
-      "url": "https://open.spotify.com/track/79v8NJzeW6pXkL6vWbIGY1"
+      "duration_ms": 204782,
+      "name": "Amores Callejeros - Bolero Remix",
+      "url": "https://open.spotify.com/track/4TiuSDziSZ8QClZZYWfOqJ"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -843,22 +847,18 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "SUPERSTICIONES: Remixes",
-        "url": "https://open.spotify.com/album/1ur69lVV9gt3FuGhXD02Sf"
+        "name": "Desprogramado",
+        "url": "https://open.spotify.com/album/4NgiQKB70vqBCVe9TsWjWL"
       },
       "artists": [
         {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        },
-        {
-          "name": "Rosario Ortega",
-          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
+          "name": "Hipnotica",
+          "url": "https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY"
         }
       ],
-      "duration_ms": 204782,
-      "name": "Amores Callejeros - Bolero Remix",
-      "url": "https://open.spotify.com/track/4TiuSDziSZ8QClZZYWfOqJ"
+      "duration_ms": 181845,
+      "name": "Desprogramado",
+      "url": "https://open.spotify.com/track/79v8NJzeW6pXkL6vWbIGY1"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "en diciembre (me haces falta)",
+        "url": "https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK"
+      },
+      "artists": [
+        {
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+        }
+      ],
+      "duration_ms": 237261,
+      "name": "en diciembre (me haces falta)",
+      "url": "https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "Juntos",
         "url": "https://open.spotify.com/album/6Ncx8sbeQ6XziNq6qaVIw3"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 181930,
       "name": "Juntos",
       "url": "https://open.spotify.com/track/574OhLjdADffJIg7wZojF6"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "en diciembre (me haces falta)",
-        "url": "https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK"
-      },
-      "artists": [
-        {
-          "name": "gabriela arcos",
-          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
-        }
-      ],
-      "duration_ms": 237261,
-      "name": "en diciembre (me haces falta)",
-      "url": "https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Pensamientos",
-        "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 209732,
-      "name": "Pedazo de Cielo",
-      "url": "https://open.spotify.com/track/4XnRvw9vNKN9tGolXFDZrR"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "sin dormir",
         "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 180750,
       "name": "sin dormir",
       "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Pensamientos",
+        "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 209732,
+      "name": "Pedazo de Cielo",
+      "url": "https://open.spotify.com/track/4XnRvw9vNKN9tGolXFDZrR"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "3D",
-        "url": "https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz"
+        "name": "Las Heridas",
+        "url": "https://open.spotify.com/album/1YbjaWrc4nPrynTDCvOIwd"
       },
       "artists": [
         {
-          "name": "Santi Celli",
-          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
+          "name": "Francisca y Los Exploradores",
+          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
         }
       ],
-      "duration_ms": 135942,
-      "name": "C\u00f3mo olvidar",
-      "url": "https://open.spotify.com/track/4ZQDnvCAnMJLiIiEj2hxbP"
+      "duration_ms": 205522,
+      "name": "Las Heridas",
+      "url": "https://open.spotify.com/track/5tSRZ0kysfMalFuqqNT8XE"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "3D",
+        "url": "https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz"
+      },
+      "artists": [
+        {
+          "name": "Santi Celli",
+          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
+        }
+      ],
+      "duration_ms": 135942,
+      "name": "C\u00f3mo olvidar",
+      "url": "https://open.spotify.com/track/4ZQDnvCAnMJLiIiEj2hxbP"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/5lpEBuXr9cSb1jXnOySI0g"
       },
@@ -1659,18 +1675,18 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Las Heridas",
-        "url": "https://open.spotify.com/album/1YbjaWrc4nPrynTDCvOIwd"
+        "name": "Tuna",
+        "url": "https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq"
       },
       "artists": [
         {
-          "name": "Francisca y Los Exploradores",
-          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
         }
       ],
-      "duration_ms": 205522,
-      "name": "Las Heridas",
-      "url": "https://open.spotify.com/track/5tSRZ0kysfMalFuqqNT8XE"
+      "duration_ms": 221250,
+      "name": "Tuna",
+      "url": "https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1695,18 +1711,18 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Tuna",
-        "url": "https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq"
+        "name": "Cu\u00e1ntas Veces M\u00e1s",
+        "url": "https://open.spotify.com/album/4qT91jTnhI8WklGt5putrF"
       },
       "artists": [
         {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
         }
       ],
-      "duration_ms": 221250,
-      "name": "Tuna",
-      "url": "https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv"
+      "duration_ms": 203000,
+      "name": "Cu\u00e1ntas Veces M\u00e1s",
+      "url": "https://open.spotify.com/track/20PCWULdClhxMbCzNEABSo"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1723,22 +1739,6 @@
       "duration_ms": 242755,
       "name": "X AMOR",
       "url": "https://open.spotify.com/track/3dVxdzni1LpSrHY4trEbMK"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Cu\u00e1ntas Veces M\u00e1s",
-        "url": "https://open.spotify.com/album/4qT91jTnhI8WklGt5putrF"
-      },
-      "artists": [
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Cu\u00e1ntas Veces M\u00e1s",
-      "url": "https://open.spotify.com/track/20PCWULdClhxMbCzNEABSo"
     },
     {
       "added_at": "2024-07-19 03:00:00",

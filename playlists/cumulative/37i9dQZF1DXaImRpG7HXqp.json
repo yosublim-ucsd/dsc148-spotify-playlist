@@ -2044,7 +2044,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 138343,
       "name": "Camille",
       "url": "https://open.spotify.com/track/4P54GDmbRxofEfNOqtB9on"
@@ -4792,7 +4792,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 171259,
       "name": "Havana Vieja",
       "url": "https://open.spotify.com/track/5ykTeQ3ky7XyS7js8jqRNW"
@@ -6632,7 +6632,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 153100,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/5pfzrd9taKYygxPmahSWJ4"
@@ -7050,7 +7050,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 146483,
       "name": "Luna De Miel",
       "url": "https://open.spotify.com/track/4SZHMmupzClfrRXX96g4JD"
@@ -10474,7 +10474,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 120977,
       "name": "Solus Iterum",
       "url": "https://open.spotify.com/track/4xFhPhpAFyMFMZkySfjcIC"
@@ -11230,7 +11230,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 120845,
       "name": "Surface of the Sun",
       "url": "https://open.spotify.com/track/2IUkpsHo1AnuzROkH97dUc"
@@ -11792,6 +11792,24 @@
       "duration_ms": 135652,
       "name": "The small things in life",
       "url": "https://open.spotify.com/track/77RRa9i2ITwLznWo4Q9HPv"
+    },
+    {
+      "album": {
+        "name": "The Sparrow",
+        "url": "https://open.spotify.com/album/5xYhfr9t2SaSqXuQB4Ncdp"
+      },
+      "artists": [
+        {
+          "name": "Ronald Emery",
+          "url": "https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134807,
+      "name": "The Sparrow",
+      "url": "https://open.spotify.com/track/6DCQM8eWsMPqhDbonEUHvu"
     },
     {
       "album": {
@@ -12822,6 +12840,24 @@
       "duration_ms": 136356,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/1JUePRPMGRhATh4dupz75d"
+    },
+    {
+      "album": {
+        "name": "Warm Winds",
+        "url": "https://open.spotify.com/album/1KlFEgMtktwFRxgN3SpgkP"
+      },
+      "artists": [
+        {
+          "name": "Morgan Fleich",
+          "url": "https://open.spotify.com/artist/0fA5ejVShbNdZWiw5CB1l1"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176665,
+      "name": "Warm Winds",
+      "url": "https://open.spotify.com/track/6FLTmuEnGxh5MGAApUsN1x"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 261706,
+  "num_followers": 261794,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "This Old Heart Of Mine",
-        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Soul Men",
         "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 159000,
       "name": "Soul Man",
       "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "This Old Heart Of Mine",
+        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Spirit Of America",
-        "url": "https://open.spotify.com/album/1j3ak8bXvTij3YcWXb6laH"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 133893,
-      "name": "Barbara Ann",
-      "url": "https://open.spotify.com/track/2KOt2JrCB720UxIbyzweQo"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Hey! Baby (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 143627,
       "name": "Hey! Baby - Remastered",
       "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Spirit Of America",
+        "url": "https://open.spotify.com/album/1j3ak8bXvTij3YcWXb6laH"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 133893,
+      "name": "Barbara Ann",
+      "url": "https://open.spotify.com/track/2KOt2JrCB720UxIbyzweQo"
     },
     {
       "added_at": "2023-05-30 09:14:29",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 128199,
-      "name": "One Fine Day",
-      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Knock On Wood",
         "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 189840,
       "name": "Knock on Wood",
       "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 128199,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Monkees (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0YoVLoHDgFdeRfVxCJWjLq"
-      },
-      "artists": [
-        {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "Last Train to Clarksville - Original Stereo Version; 2006 Remaster",
-      "url": "https://open.spotify.com/track/20wbR4HxNaR4gWjMLQvUp2"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Things & Other Things",
         "url": "https://open.spotify.com/album/7wyMqH6vUeHYT09iaWhtx3"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 151413,
       "name": "Things",
       "url": "https://open.spotify.com/track/5hgei65n0pGJ9uUHo8v2en"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Monkees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0YoVLoHDgFdeRfVxCJWjLq"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "Last Train to Clarksville - Original Stereo Version; 2006 Remaster",
+      "url": "https://open.spotify.com/track/20wbR4HxNaR4gWjMLQvUp2"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1999,6 +1999,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/5xJJSAj0WIYZ5fW77IfORk"
+      },
+      "artists": [
+        {
+          "name": "Fontella Bass",
+          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
+        }
+      ],
+      "duration_ms": 176426,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/7cKeMrlyGpfOshlldqoILo"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "The EMI Years - Best Of The Swinging Blue Jeans",
         "url": "https://open.spotify.com/album/7fpIPCHQxBjahH7mfMiylL"
       },
@@ -2171,22 +2187,6 @@
       "duration_ms": 154946,
       "name": "I Only Want To Be With You",
       "url": "https://open.spotify.com/track/0FlITClPKfKqQxVHzFD3iF"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/5xJJSAj0WIYZ5fW77IfORk"
-      },
-      "artists": [
-        {
-          "name": "Fontella Bass",
-          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
-        }
-      ],
-      "duration_ms": 176426,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/7cKeMrlyGpfOshlldqoILo"
     },
     {
       "added_at": "2022-06-16 22:02:00",

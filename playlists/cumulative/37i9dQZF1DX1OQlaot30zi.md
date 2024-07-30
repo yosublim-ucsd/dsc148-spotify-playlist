@@ -2,7 +2,7 @@
 
 ### [Novità Rap Italiano](https://open.spotify.com/playlist/37i9dQZF1DX1OQlaot30zi)
 
-> Sempre aggiornata\. Con nuovi brani di Fedez, yungest Moonstar, VillaBanks, Rocco Hunt e tanti altri! 🔥
+> Sempre aggiornata\. Con nuovi brani di Finesse, yungest Moonstar, VillaBanks, Rocco Hunt e tanti altri! 🔥
 
 4,009 songs - 7 day 12 hr 18 min
 
@@ -3125,7 +3125,7 @@
 | [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/2I3yY1YL9JPDyOznnyiJnJ) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 2:56 | 2023-04-27 | 2023-06-02 |
 | [rosa ricci \(kimchi\)](https://open.spotify.com/track/3iYS8B4ARRdxN0uISrOt2Y) | [Skinny Pain](https://open.spotify.com/artist/5lyciGRvINB5Ju8CUM7arX) | [rosa ricci \(kimchi\)](https://open.spotify.com/album/73dYwRePEb3KcyMoui2k3A) | 1:53 | 2024-01-12 | 2024-01-19 |
 | [Rosalyn](https://open.spotify.com/track/7bxrxFJkCOYxrcbZwKsRzY) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Rosalyn](https://open.spotify.com/album/4iPWRaCy4GqUYLbVfwGIZ5) | 2:37 | 2023-12-07 | 2024-01-05 |
-| [ROSALÍA](https://open.spotify.com/track/5KufYWIsB9CwXMqM93jhBD) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL), [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq), [LETHAL ESPRESSO](https://open.spotify.com/artist/28vHJJtC0LsCtFie11cCwV) | [ROSALÍA](https://open.spotify.com/album/56LIwDN3xS4YZvKdma7emL) | 2:42 | 2024-07-26 |  |
+| [ROSALÍA](https://open.spotify.com/track/5KufYWIsB9CwXMqM93jhBD) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL), [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq), [LETHAL ESPRESSO](https://open.spotify.com/artist/28vHJJtC0LsCtFie11cCwV) | [ROSALÍA](https://open.spotify.com/album/56LIwDN3xS4YZvKdma7emL) | 2:42 | 2024-07-26 | 2024-07-30 |
 | [Rose Senza Spine](https://open.spotify.com/track/2XJc9OFlT2gWcieSgxlfHP) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt) | [Rose Senza Spine](https://open.spotify.com/album/4LCVI9qr0bxmKQUfX7OaIH) | 2:06 | 2022-08-31 | 2022-09-16 |
 | [Rosso](https://open.spotify.com/track/2XqyK1IrxLGqkSFvpoWNPr) | [Abe Kayn](https://open.spotify.com/artist/1U7o0SH2ec5y6KnMJgyjGn) | [Rosso](https://open.spotify.com/album/66DCvDJXPtpxuthndzTjZq) | 3:08 | 2022-09-22 | 2022-10-07 |
 | [Rosso Fuoco](https://open.spotify.com/track/5dpmfVEMO4Lb2lHSEzpK68) | [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP), [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [Brava Gente](https://open.spotify.com/artist/4mGFiauNMsVwgTFpcDfr7T) | [Rosso Fuoco](https://open.spotify.com/album/488oHGsY9aP0vynkOBwZCE) | 3:47 | 2024-04-18 | 2024-05-10 |

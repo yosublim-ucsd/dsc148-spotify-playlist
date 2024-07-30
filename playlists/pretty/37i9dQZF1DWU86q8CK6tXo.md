@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: DOE
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,353 likes - 41 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,350 likes - 41 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 35 | [Streetwise](https://open.spotify.com/track/5SDW0aLSetWzFS1676VgXQ) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e), [xmal](https://open.spotify.com/artist/20DDNwdmrT61u9Wat7cv7H) | [Streetwise](https://open.spotify.com/album/62gfDniQmmdW6ttPGDukYv) | 2:06 |
 | 36 | [Riding Around In The Dark](https://open.spotify.com/track/7LTNjzQRoE0LMGyzymXTpU) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Riding Around In The Dark](https://open.spotify.com/album/5AOciqgWEcZRjz0D85Hktj) | 3:26 |
 | 37 | [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 |
-| 38 | [Self Doubt](https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Self Doubt](https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt) | 2:54 |
-| 39 | [can't stand it](https://open.spotify.com/track/6ElYocyMBSR3LHqGQGmA2r) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [can't stand it](https://open.spotify.com/album/3XXJLgzB9eOg1oiEy0j2bD) | 3:05 |
+| 38 | [can't stand it](https://open.spotify.com/track/6ElYocyMBSR3LHqGQGmA2r) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [can't stand it](https://open.spotify.com/album/3XXJLgzB9eOg1oiEy0j2bD) | 3:05 |
+| 39 | [Self Doubt](https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Self Doubt](https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt) | 2:54 |
 | 40 | [Can't Be Still](https://open.spotify.com/track/6XUTviMKLT68nRa3Sowgn2) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Can't Be Still](https://open.spotify.com/album/2jCBWWbsHm37ZGLybkiJvF) | 2:58 |
 | 41 | [she wants me too](https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [wilt](https://open.spotify.com/album/3kmDFMtB0dcW12p62brgKG) | 2:41 |
 

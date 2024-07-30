@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: NCT 127\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,860 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,846 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 86 | [Sweater \- Orchestral Version](https://open.spotify.com/track/04qZBrSALT0FSxG42XLexl) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Sweater \(Orchestral Version\)](https://open.spotify.com/album/3ito8Q4onJ9uQFAR3omfWb) | 3:57 |
 | 87 | [Christmas Again](https://open.spotify.com/track/5ILo7uxYAwyLoWazhHxGnD) | [1set](https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl) | [Christmas Again](https://open.spotify.com/album/5svceOWCU5WtrzUWxS9xHu) | 3:46 |
 | 88 | [THE CHRISTMAS SONG](https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [メリクリ](https://open.spotify.com/album/082g95CJ0YhcNAjxf2MMgT) | 5:10 |
-| 89 | [Movie Winter](https://open.spotify.com/track/0P00r0hbz9yKs4DtBCzqVu) | [Tarin](https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO) | [Movie Winter](https://open.spotify.com/album/34q66uq3KaL6CTlqDmTvyc) | 2:45 |
+| 89 | [Grass under Snow](https://open.spotify.com/track/5yqrLjLXElOOj8cW1eH0If) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [GGS](https://open.spotify.com/artist/1skhcLxnX5M0NK59U7b1I2), [psv:gun](https://open.spotify.com/artist/6nLtSzTBaODlpfv1oQr7v0) | [Grass under Snow](https://open.spotify.com/album/2bUVBzFqxI4LmcgM58rDro) | 2:58 |
 | 90 | [I’ve Been Naughty, Mr\. Claus](https://open.spotify.com/track/7qYUVzCY85b8UM2GaTXhkN) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Letters to Santa](https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0) | 2:20 |
-| 91 | [Grass under Snow](https://open.spotify.com/track/5yqrLjLXElOOj8cW1eH0If) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [GGS](https://open.spotify.com/artist/1skhcLxnX5M0NK59U7b1I2), [psv:gun](https://open.spotify.com/artist/6nLtSzTBaODlpfv1oQr7v0) | [Grass under Snow](https://open.spotify.com/album/2bUVBzFqxI4LmcgM58rDro) | 2:58 |
+| 91 | [Movie Winter](https://open.spotify.com/track/0P00r0hbz9yKs4DtBCzqVu) | [Tarin](https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO) | [Movie Winter](https://open.spotify.com/album/34q66uq3KaL6CTlqDmTvyc) | 2:45 |
 | 92 | [Christmas in July](https://open.spotify.com/track/1XbMklm5bn9DRpRyvePwow) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) | [Christmas in July](https://open.spotify.com/album/0euAPwcmvqbw78ptNqYxN2) | 3:59 |
 | 93 | [MY GROWN UP CHRISTMAS LIST](https://open.spotify.com/track/2ONdR1GlPowCViNz74KE7h) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [HITMAN PROJECT \#1 : A TRIBUTE TO THE HITMAN,DAVID FOSTER](https://open.spotify.com/album/7eRKeHsGJe7gtSUwoaHTqQ) | 4:49 |
 | 94 | [Jingle Bells](https://open.spotify.com/track/2CKdHKVgFiemZTZucPJY4q) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [MIDNIGHT CHRISTMAS](https://open.spotify.com/album/5W65ubAkiJzldtaloU3G13) | 2:22 |
 | 95 | [It's Christmas](https://open.spotify.com/track/1rG5ROBk7oNa2qRZO9gBcz) | [FNC ARTIST](https://open.spotify.com/artist/1skD49OqyAqPbSUpVyxEP0) | [FNC LAB \#2 'It's Christmas'](https://open.spotify.com/album/5T3gFIMhsV2HuCRmZNgo2S) | 3:50 |
 | 96 | [This Is Your Winter Song](https://open.spotify.com/track/5y7C6vS8d8IjAKZkeTrMRT) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [This Is Your Winter Song](https://open.spotify.com/album/5WWvltjF8gA414aWghDCsy) | 2:44 |
 | 97 | [Candle](https://open.spotify.com/track/7LhjwLkKvbjT30PBvKePTP) | [COLL!N](https://open.spotify.com/artist/3EmUmzIFFTstnAgwjuGDAN) | [Candle](https://open.spotify.com/album/6lzlBNGpzNf5P7IsVXNpzS) | 3:33 |
-| 98 | [Our Christmas](https://open.spotify.com/track/2WDVWdP70Qnns3npkhFifx) | [Kylie](https://open.spotify.com/artist/27RtTaeXQFUQDLv0END7m2) | [Our Christmas](https://open.spotify.com/album/7gLFBDqORHLD8wZrTSQdih) | 3:36 |
-| 99 | [Winter Love](https://open.spotify.com/track/7n4kpBR9G7CG63mpgTL4PG) | [Han Hye Jin × Kian84](https://open.spotify.com/artist/4KFAsqbXoxSl5hJJEaBsjW) | [Winter Love](https://open.spotify.com/album/2y7bytKsMaFJzaMX4dyxBS) | 3:33 |
+| 98 | [Winter Love](https://open.spotify.com/track/7n4kpBR9G7CG63mpgTL4PG) | [Han Hye Jin × Kian84](https://open.spotify.com/artist/4KFAsqbXoxSl5hJJEaBsjW) | [Winter Love](https://open.spotify.com/album/2y7bytKsMaFJzaMX4dyxBS) | 3:33 |
+| 99 | [Our Christmas](https://open.spotify.com/track/2WDVWdP70Qnns3npkhFifx) | [Kylie](https://open.spotify.com/artist/27RtTaeXQFUQDLv0END7m2) | [Our Christmas](https://open.spotify.com/album/7gLFBDqORHLD8wZrTSQdih) | 3:36 |
 | 100 | [BETTER DAYS](https://open.spotify.com/track/7uLKlZkikc5Efk0t5y6hEE) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1), [Kang Min Hee](https://open.spotify.com/artist/3yvJrrnTj0rlI3DJ8NMnKH), [YODAYOUNG](https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w) | [BRANDNEW YEAR 2020: BRANDNEW UP](https://open.spotify.com/album/51McPKBbRxnG8Uu1243Xl9) | 4:11 |
 
 Snapshot ID: `ZZusswAAAAB5hnudvTfe+GBClXzsysaS`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,254 likes - 81 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,284 likes - 81 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,14 +15,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 | 5 | [Life As We Knew It](https://open.spotify.com/track/2GMPd1Imsdm4l9nQAdLKEe) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Life As We Knew It](https://open.spotify.com/album/3F8Wf8zgwhjhisqdpTGcG5) | 3:37 |
 | 6 | [Lake Tahoe](https://open.spotify.com/track/1WzAwlgMrKrbImVPK7nxHY) | [Mac Lawlor](https://open.spotify.com/artist/0GaniHLie4Bik5osPQxfM3) | [Lake Tahoe](https://open.spotify.com/album/7qDXnV1wkeeCjx3ryDWHyk) | 3:02 |
 | 7 | [Beyond Any Doubt](https://open.spotify.com/track/0hKUf6QOZ9IPA8tMnghi51) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Beyond Any Doubt](https://open.spotify.com/album/7fapRWAW0Gi5HWxspy0yC5) | 2:48 |
-| 8 | [Tiempo Diferente](https://open.spotify.com/track/2Ydby2f4z6soHFOJ5vwksZ) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [Tiempo Diferente](https://open.spotify.com/album/7Hop5OQe2ynxNv0CoOUR9g) | 2:27 |
-| 9 | [Não quebre meu coração](https://open.spotify.com/track/5tbaj51irlL5qMPt9aokTV) | [Jose Luis Minguez](https://open.spotify.com/artist/6SGQqtwYmt7PRq59A3N0kY) | [Não quebre meu coração](https://open.spotify.com/album/44t0sTuExv0q5bgwDHR71l) | 2:58 |
-| 10 | [Meyehualco](https://open.spotify.com/track/60TA1wktj8y67xnmyH0ISC) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Meyehualco](https://open.spotify.com/album/5JO6noENoD4vyFxpfUWWZA) | 4:13 |
-| 11 | [For Chamela](https://open.spotify.com/track/0FMvC8A6rUM0y3iU9dI3rH) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [El Invernadero](https://open.spotify.com/album/1e44e9HKQvfv1Jiru5pF2y) | 3:01 |
-| 12 | [Jobim: Road to the Sun](https://open.spotify.com/track/6LhNIBQ3c711HIIhwWoFpx) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Sharon Isbin](https://open.spotify.com/artist/3TXeUeBzDNk93uvzr0byAu) | [Latin Romances for Guitar](https://open.spotify.com/album/3NUzY7X9ebHv9lJpQBtIrQ) | 2:32 |
-| 13 | [Madrigale](https://open.spotify.com/track/5ypdfYneEqII1aOckEzzfz) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Madrigale](https://open.spotify.com/album/74i60tfoF7VnXZgTjGJj5o) | 3:10 |
-| 14 | [Walking Around Santiago](https://open.spotify.com/track/547zA3UNGPouhvPF0LCpt7) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Walking Around Santiago](https://open.spotify.com/album/0ZIPPkIC1LFYM3W5HyPewJ) | 4:46 |
-| 15 | [Holding Hands](https://open.spotify.com/track/6XUTzew4WENpk18JlfU9BU) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Holding Hands](https://open.spotify.com/album/5tdIQB7ClKnQJNAONbtcTy) | 2:28 |
+| 8 | [Não quebre meu coração](https://open.spotify.com/track/5tbaj51irlL5qMPt9aokTV) | [Jose Luis Minguez](https://open.spotify.com/artist/6SGQqtwYmt7PRq59A3N0kY) | [Não quebre meu coração](https://open.spotify.com/album/44t0sTuExv0q5bgwDHR71l) | 2:58 |
+| 9 | [For Chamela](https://open.spotify.com/track/0FMvC8A6rUM0y3iU9dI3rH) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [El Invernadero](https://open.spotify.com/album/1e44e9HKQvfv1Jiru5pF2y) | 3:01 |
+| 10 | [Tiempo Diferente](https://open.spotify.com/track/2Ydby2f4z6soHFOJ5vwksZ) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [Tiempo Diferente](https://open.spotify.com/album/7Hop5OQe2ynxNv0CoOUR9g) | 2:27 |
+| 11 | [Jobim: Road to the Sun](https://open.spotify.com/track/6LhNIBQ3c711HIIhwWoFpx) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Sharon Isbin](https://open.spotify.com/artist/3TXeUeBzDNk93uvzr0byAu) | [Latin Romances for Guitar](https://open.spotify.com/album/3NUzY7X9ebHv9lJpQBtIrQ) | 2:32 |
+| 12 | [Walking Around Santiago](https://open.spotify.com/track/547zA3UNGPouhvPF0LCpt7) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Walking Around Santiago](https://open.spotify.com/album/0ZIPPkIC1LFYM3W5HyPewJ) | 4:46 |
+| 13 | [Meyehualco](https://open.spotify.com/track/60TA1wktj8y67xnmyH0ISC) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Meyehualco](https://open.spotify.com/album/5JO6noENoD4vyFxpfUWWZA) | 4:13 |
+| 14 | [Holding Hands](https://open.spotify.com/track/6XUTzew4WENpk18JlfU9BU) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Holding Hands](https://open.spotify.com/album/5tdIQB7ClKnQJNAONbtcTy) | 2:28 |
+| 15 | [Madrigale](https://open.spotify.com/track/5ypdfYneEqII1aOckEzzfz) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Madrigale](https://open.spotify.com/album/74i60tfoF7VnXZgTjGJj5o) | 3:10 |
 | 16 | [This is the beginning...](https://open.spotify.com/track/3UOmZJVEVNj3LPkJlofNkl) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [This is the beginning...](https://open.spotify.com/album/55f8Mnc04zTO4mWeGQ6Mcj) | 2:28 |
 | 17 | [Gipsy Sister](https://open.spotify.com/track/7L9Y5i00XIU2l3JO2vfig8) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Gipsy Sister](https://open.spotify.com/album/2oZUHoAzexwdbvLDi0pURK) | 2:36 |
 | 18 | [Seed](https://open.spotify.com/track/3VgV3RLmCE7PrXvOjCc6sq) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Seed](https://open.spotify.com/album/7KVUNVwGXvGuNxAItcX4IH) | 3:26 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 | 80 | [Summer Bolero](https://open.spotify.com/track/2TpnRrHffsh7aeYgPWrGdK) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Summer Bolero](https://open.spotify.com/album/5FOX3HXCU2JH47vrNSUnAy) | 3:19 |
 | 81 | [Perfidia](https://open.spotify.com/track/5WQ5a7ixw5DJ5uyQZGD8FP) | [Las Palmas Rosas](https://open.spotify.com/artist/5JoX8uKllGc2qsVy76rgsM) | [Las Palmas Rosas](https://open.spotify.com/album/6JhI7GjDswt6CqQi0cyyuo) | 2:58 |
 
-Snapshot ID: `ZphpEAAAAAC3bcgBCK4vy6QyVnFF9ZV1`
+Snapshot ID: `ZqdpvgAAAABsRnURXcUGA5WM3G3ArM+k`

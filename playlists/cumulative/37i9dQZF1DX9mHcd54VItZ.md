@@ -4,7 +4,7 @@
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs?si=ZMYXmHpdSGeH9FknanH8Tw">Jo Black</a>
 
-492 songs - 1 day 5 hr 21 min
+493 songs - 1 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Hold On](https://open.spotify.com/track/31oIFvE1Vc8wnKqPyRdIgu) | [Jonny and the Fellow Revellers](https://open.spotify.com/artist/07WFFoO9ByGnuhq4c8dwH8) | [Hold On](https://open.spotify.com/album/7dH1gsdcvGYlURx0XWzbiR) | 3:36 | 2023-03-30 | 2023-06-02 |
 | [Hold You](https://open.spotify.com/track/2em2HgEcpE1OAJevg8suiw) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Hold You](https://open.spotify.com/album/7eHKq7xyL3UBRP0hwPUGq1) | 4:05 | 2023-08-31 | 2023-12-15 |
 | [Hollow](https://open.spotify.com/track/629X30psE0HDVwMflpkOKm) | [Soul Suture](https://open.spotify.com/artist/1GKLeylQc3yEtf4ulo0fmA), [Fred Honig](https://open.spotify.com/artist/3BJIJ0jOquRFcoRJn5yPAf) | [The Art of Escape / The Escape of Art](https://open.spotify.com/album/3IdU7v0EYjbZgfztsrZCKl) | 4:03 | 2021-09-02 | 2022-03-18 |
+| [Hoogtyd](https://open.spotify.com/track/53EswYQ2pvFULtB93JbgBS) | [Fran Prins](https://open.spotify.com/artist/5zh2qxLSYvBzIPLMhVNfUv) | [Hoogtyd](https://open.spotify.com/album/3wkMmzlLUUDWNQHT507Lyv) | 3:32 | 2024-07-28 |  |
 | [Hoop \(In Die Donker\)](https://open.spotify.com/track/0rewZ2OgrKpqifSqioVWs8) | [Jammer](https://open.spotify.com/artist/4fFAhBaPkNqlELaWEY9jHf) | [Hoop \(In Die Donker\)](https://open.spotify.com/album/4z2lEEAcjmXoZR5CpQ0T5W) | 2:57 | 2024-04-12 |  |
 | [Hou Bene Hou](https://open.spotify.com/track/0PwwO8REYMl65SU8esvtxc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Hou Bene Hou](https://open.spotify.com/album/56hil9lgMhYIeR3kabttwB) | 4:07 | 2023-09-15 | 2024-01-05 |
 | [Hounds Loose](https://open.spotify.com/track/4dtIYwgOPuFZrjOKygyLl9) | [Dan Patlansky](https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5) | [Hounds Loose](https://open.spotify.com/album/3QmIoMDXgmOIMj9oCPnjlO) | 3:44 | 2021-11-25 | 2022-08-05 |
@@ -293,7 +294,7 @@
 | [MONSTER](https://open.spotify.com/track/114TXFPWIi2iISkXtGjLCN) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Brogan the band](https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc) | [MONSTER](https://open.spotify.com/album/3IWzdjrJFlVaom1WYTzngo) | 2:38 | 2022-09-15 | 2022-11-18 |
 | [Mud](https://open.spotify.com/track/5byP45prtT0kxbXDWM4S0n) | [Wonderwolf](https://open.spotify.com/artist/5v2qeKbxQBq5iKIZNp9w5A) | [Mud](https://open.spotify.com/album/4Ne7tTIbyzladfzbwO2y8x) | 3:07 | 2023-04-14 | 2023-06-09 |
 | [Murmurs](https://open.spotify.com/track/4Bje2kBjtCQBKGpZAN8onp) | [Pierre Stemmett](https://open.spotify.com/artist/2xei4TwXqWutkMSxSCXSKS) | [Murmurs](https://open.spotify.com/album/1ZCeM4FJo7Gqh1crcLsuT1) | 4:10 | 2024-07-04 |  |
-| [My Ek\(skuus\)](https://open.spotify.com/track/5BVm8JglDc7zHRuNTlux6D) | [Dans Dans Lisa](https://open.spotify.com/artist/6Kasz09T76a1IAveNC2xZH) | [Die gids vir grootword](https://open.spotify.com/album/1NmIZyDHE2FJmqH5EZPejU) | 3:37 | 2024-01-04 |  |
+| [My Ek\(skuus\)](https://open.spotify.com/track/5BVm8JglDc7zHRuNTlux6D) | [Dans Dans Lisa](https://open.spotify.com/artist/6Kasz09T76a1IAveNC2xZH) | [Die gids vir grootword](https://open.spotify.com/album/1NmIZyDHE2FJmqH5EZPejU) | 3:37 | 2024-01-04 | 2024-07-30 |
 | [My Favourite Place](https://open.spotify.com/track/32N9WJD9Zatt2ejxTkvZuT) | [Shortstraw](https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt) | [My Favourite Place](https://open.spotify.com/album/5B7kv69LuD5m0OKtZUSJ11) | 3:29 | 2021-12-02 | 2022-11-18 |
 | [My Hart Is 'n Trein](https://open.spotify.com/track/0UBxkP3u0lvRJRgpL7ew7N) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [My Hart Is 'n Trein](https://open.spotify.com/album/3rVVd7WGdBVSKmQco86Y2J) | 3:44 | 2024-03-08 | 2024-05-07 |
 | [My Name Is Freedom](https://open.spotify.com/track/6WvHk5ZGK8p945lHPjRpWt) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [My Name Is Freedom](https://open.spotify.com/album/1JG8bied0mmLZIxrhNYrk4) | 3:42 | 2024-02-22 | 2024-03-30 |

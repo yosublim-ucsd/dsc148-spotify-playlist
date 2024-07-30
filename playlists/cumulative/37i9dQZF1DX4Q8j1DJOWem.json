@@ -465,6 +465,28 @@
     },
     {
       "album": {
+        "name": "Love & Secret",
+        "url": "https://open.spotify.com/album/5Nf4Rf9Xankkmsb4737GM6"
+      },
+      "artists": [
+        {
+          "name": "Percy",
+          "url": "https://open.spotify.com/artist/1YDIuX4Pe5XwZmInJ4GYGr"
+        },
+        {
+          "name": "YUNGTARR",
+          "url": "https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148394,
+      "name": "Love & Secret",
+      "url": "https://open.spotify.com/track/2Uj75SjWw9utBe64kYbUU8"
+    },
+    {
+      "album": {
         "name": "May I?",
         "url": "https://open.spotify.com/album/75lB1IBnVNFwuC9c974gsh"
       },
@@ -766,7 +788,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 224000,
       "name": "so good so bad",
       "url": "https://open.spotify.com/track/0w6zTpil7ny1enDWlFLMff"
@@ -1578,7 +1600,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 254433,
       "name": "\u0e08\u0e33\u0e15\u0e49\u0e2d\u0e07\u0e25\u0e32",
       "url": "https://open.spotify.com/track/7tkz8JRnB7IPyXm4403Czz"
@@ -1874,6 +1896,28 @@
       "duration_ms": 257142,
       "name": "\u0e15\u0e48\u0e2d\u0e08\u0e32\u0e01\u0e04\u0e37\u0e19\u0e19\u0e35\u0e49 (\u0e09\u0e31\u0e19\u0e08\u0e30\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e41\u0e25\u0e49\u0e27) - Gloomy",
       "url": "https://open.spotify.com/track/0dXpGBC0pUivUk96OrptbQ"
+    },
+    {
+      "album": {
+        "name": "\u0e15\u0e49\u0e32\u0e19\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 (magnetize)",
+        "url": "https://open.spotify.com/album/2Yf5NftN7hgVHKKWUkhykr"
+      },
+      "artists": [
+        {
+          "name": "MXFRUIT",
+          "url": "https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G"
+        },
+        {
+          "name": "XX",
+          "url": "https://open.spotify.com/artist/67ESbusyanUlxkaZ06dYrJ"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252897,
+      "name": "\u0e15\u0e49\u0e32\u0e19\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 (magnetize)",
+      "url": "https://open.spotify.com/track/5HTpwZZ7Xg5YRSbwrkvnZG"
     },
     {
       "album": {
@@ -2820,6 +2864,24 @@
       "duration_ms": 195157,
       "name": "\u0e2d\u0e32\u0e1a\u0e19\u0e49\u0e33\u0e15\u0e32",
       "url": "https://open.spotify.com/track/6GWjK0rBQScvGI5fiw4NP4"
+    },
+    {
+      "album": {
+        "name": "\u0e2d\u0e35\u0e01\u0e2a\u0e31\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07",
+        "url": "https://open.spotify.com/album/4lZ4coRqcqMKvMrlG0ReGN"
+      },
+      "artists": [
+        {
+          "name": "CORNBOI",
+          "url": "https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250200,
+      "name": "\u0e2d\u0e35\u0e01\u0e2a\u0e31\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07",
+      "url": "https://open.spotify.com/track/1u8t3ijcMISRh2N87qZMS4"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Alejandro y Maria Laura.",
-  "num_followers": 124805,
+  "num_followers": 124825,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-07-26 09:29:03",
       "album": {
-        "name": "Y tu compa\u00f1\u00eda (canci\u00f3n original para la pel\u00edcula \"Voy a desaparecer\")",
-        "url": "https://open.spotify.com/album/27OlaeVGKFWzZqgA9alrO8"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Vidanauta",
-          "url": "https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Y tu compa\u00f1\u00eda - canci\u00f3n original para la pel\u00edcula \"Voy a desaparecer\"",
-      "url": "https://open.spotify.com/track/3fxahF4LqeH1Jcs9WTMEBW"
-    },
-    {
-      "added_at": "2024-07-26 09:29:03",
-      "album": {
         "name": "Fins a maig no revisc",
         "url": "https://open.spotify.com/album/0nfAMwME4AZNOSaYuBVdWu"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 167513,
       "name": "Terra banyada",
       "url": "https://open.spotify.com/track/5z1r7JONnKjiZiJEHpaRVg"
+    },
+    {
+      "added_at": "2024-07-26 09:29:03",
+      "album": {
+        "name": "Y tu compa\u00f1\u00eda (canci\u00f3n original para la pel\u00edcula \"Voy a desaparecer\")",
+        "url": "https://open.spotify.com/album/27OlaeVGKFWzZqgA9alrO8"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Vidanauta",
+          "url": "https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Y tu compa\u00f1\u00eda - canci\u00f3n original para la pel\u00edcula \"Voy a desaparecer\"",
+      "url": "https://open.spotify.com/track/3fxahF4LqeH1Jcs9WTMEBW"
     },
     {
       "added_at": "2024-07-26 09:29:03",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-07-26 09:29:03",
       "album": {
-        "name": "Regalizz",
-        "url": "https://open.spotify.com/album/53sFr03wfuWm5O8TEPOYO3"
-      },
-      "artists": [
-        {
-          "name": "La Helen",
-          "url": "https://open.spotify.com/artist/0i32iL4Kb92Zp16W8322t7"
-        }
-      ],
-      "duration_ms": 224410,
-      "name": "Regalizz",
-      "url": "https://open.spotify.com/track/5dzFBixg9nfMGBHRX3T4R1"
-    },
-    {
-      "added_at": "2024-07-26 09:29:03",
-      "album": {
         "name": "S\u20acR\u20acNATA",
         "url": "https://open.spotify.com/album/3RU9SZ2PmXjmE88AuZRdzi"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 177240,
       "name": "S\u20acR\u20acNATA",
       "url": "https://open.spotify.com/track/4mEnD46xTBJPaDc7M7sfXO"
+    },
+    {
+      "added_at": "2024-07-26 09:29:03",
+      "album": {
+        "name": "Regalizz",
+        "url": "https://open.spotify.com/album/53sFr03wfuWm5O8TEPOYO3"
+      },
+      "artists": [
+        {
+          "name": "La Helen",
+          "url": "https://open.spotify.com/artist/0i32iL4Kb92Zp16W8322t7"
+        }
+      ],
+      "duration_ms": 224410,
+      "name": "Regalizz",
+      "url": "https://open.spotify.com/track/5dzFBixg9nfMGBHRX3T4R1"
     },
     {
       "added_at": "2024-07-26 09:29:03",
@@ -1623,18 +1623,34 @@
     {
       "added_at": "2024-07-26 09:29:03",
       "album": {
-        "name": "Crezco y no lo veo",
-        "url": "https://open.spotify.com/album/7xxxbjh0tmefVgDoqJjjvr"
+        "name": "Casida de la Rosa",
+        "url": "https://open.spotify.com/album/0qrGsG3sUTVCgYtNQI8LHI"
       },
       "artists": [
         {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+          "name": "Magal\u00ed Datzira",
+          "url": "https://open.spotify.com/artist/4Wwktb7LI1OtXAWRO6Hln4"
         }
       ],
-      "duration_ms": 190561,
-      "name": "Crezco y no lo veo",
-      "url": "https://open.spotify.com/track/42lBWRathPCNc7MX35eQg6"
+      "duration_ms": 331442,
+      "name": "Casida de la Rosa",
+      "url": "https://open.spotify.com/track/7Dpg9kyPOZDv5N5QWUW08J"
+    },
+    {
+      "added_at": "2024-07-26 09:29:03",
+      "album": {
+        "name": "Vidrieritas",
+        "url": "https://open.spotify.com/album/7coLrKNPKAPDZfgLotJ1VW"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda de la Flor",
+          "url": "https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3"
+        }
+      ],
+      "duration_ms": 215786,
+      "name": "Vidrieritas",
+      "url": "https://open.spotify.com/track/0iII2cRRg31qEKRmfKx545"
     },
     {
       "added_at": "2024-07-26 09:29:03",
@@ -1659,34 +1675,18 @@
     {
       "added_at": "2024-07-26 09:29:03",
       "album": {
-        "name": "Vidrieritas",
-        "url": "https://open.spotify.com/album/7coLrKNPKAPDZfgLotJ1VW"
+        "name": "Crezco y no lo veo",
+        "url": "https://open.spotify.com/album/7xxxbjh0tmefVgDoqJjjvr"
       },
       "artists": [
         {
-          "name": "Mar\u00eda de la Flor",
-          "url": "https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3"
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
         }
       ],
-      "duration_ms": 215786,
-      "name": "Vidrieritas",
-      "url": "https://open.spotify.com/track/0iII2cRRg31qEKRmfKx545"
-    },
-    {
-      "added_at": "2024-07-26 09:29:03",
-      "album": {
-        "name": "Casida de la Rosa",
-        "url": "https://open.spotify.com/album/0qrGsG3sUTVCgYtNQI8LHI"
-      },
-      "artists": [
-        {
-          "name": "Magal\u00ed Datzira",
-          "url": "https://open.spotify.com/artist/4Wwktb7LI1OtXAWRO6Hln4"
-        }
-      ],
-      "duration_ms": 331442,
-      "name": "Casida de la Rosa",
-      "url": "https://open.spotify.com/track/7Dpg9kyPOZDv5N5QWUW08J"
+      "duration_ms": 190561,
+      "name": "Crezco y no lo veo",
+      "url": "https://open.spotify.com/track/42lBWRathPCNc7MX35eQg6"
     },
     {
       "added_at": "2024-07-26 09:29:03",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-07-26 09:29:03",
       "album": {
-        "name": "Camino al Bemb\u00e9",
-        "url": "https://open.spotify.com/album/4XeP79F6lHKf2YZgR3Ggtb"
-      },
-      "artists": [
-        {
-          "name": "Carey",
-          "url": "https://open.spotify.com/artist/0oxfm2BvNWiRi3WwmcOdQy"
-        }
-      ],
-      "duration_ms": 203393,
-      "name": "Camino al Bemb\u00e9",
-      "url": "https://open.spotify.com/track/4PzPtQgbDCaRajfbppvNBd"
-    },
-    {
-      "added_at": "2024-07-26 09:29:03",
-      "album": {
         "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
         "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 175905,
       "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
       "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
+    },
+    {
+      "added_at": "2024-07-26 09:29:03",
+      "album": {
+        "name": "Camino al Bemb\u00e9",
+        "url": "https://open.spotify.com/album/4XeP79F6lHKf2YZgR3Ggtb"
+      },
+      "artists": [
+        {
+          "name": "Carey",
+          "url": "https://open.spotify.com/artist/0oxfm2BvNWiRi3WwmcOdQy"
+        }
+      ],
+      "duration_ms": 203393,
+      "name": "Camino al Bemb\u00e9",
+      "url": "https://open.spotify.com/track/4PzPtQgbDCaRajfbppvNBd"
     },
     {
       "added_at": "2024-07-26 09:29:03",
@@ -1827,22 +1827,22 @@
     {
       "added_at": "2024-07-26 09:29:03",
       "album": {
-        "name": "Flores Muertas - Exasperaci\u00f3n",
-        "url": "https://open.spotify.com/album/40nmbLLwLKedYbZMloYwi5"
+        "name": "Siembro",
+        "url": "https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA"
       },
       "artists": [
         {
-          "name": "Emilia y Pablo",
-          "url": "https://open.spotify.com/artist/4yHD7XAN2Xtk203wG7Gzad"
+          "name": "Alvaro Ruiz",
+          "url": "https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg"
         },
         {
-          "name": "Ni\u00f1o de Elche",
-          "url": "https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP"
+          "name": "Raquel Riba Rossy",
+          "url": "https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe"
         }
       ],
-      "duration_ms": 264341,
-      "name": "Flores Muertas - Exasperaci\u00f3n",
-      "url": "https://open.spotify.com/track/1vqms5cN3piIB1VdH0zsfI"
+      "duration_ms": 231373,
+      "name": "Siembro",
+      "url": "https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk"
     }
   ],
   "unique_name": "Cancionistas",

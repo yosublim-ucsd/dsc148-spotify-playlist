@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-200 songs - 9 hr 1 min
+201 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Endlich](https://open.spotify.com/track/0QzBw7xBO5q6plc8hX5z7B) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Endlich](https://open.spotify.com/album/6EYlet7J4aCY3zTqqhl8eB) | 2:10 | 2024-04-03 |  |
 | [Entering](https://open.spotify.com/track/0PNGMJaRWetzMOir1QAKoC) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Entering](https://open.spotify.com/album/2EoKBXAOzplEACZ4PXmK4I) | 1:49 | 2022-12-21 |  |
 | [Equinoxe](https://open.spotify.com/track/58xUMSrmEvYUyHzGR9tYtL) | [Koëlíne](https://open.spotify.com/artist/1HytzswsY9X9XTD2Douni6) | [Equinoxe](https://open.spotify.com/album/4DWD8YqJ3S8NAVsTImbZ23) | 2:55 | 2022-08-03 |  |
+| [Escondidas](https://open.spotify.com/track/5uUdiK8TRiaRR8iLGZsBOt) | [Francine Gaétane](https://open.spotify.com/artist/6gMlkMM2jbGYhiNAzcR6Zw) | [Escondidas](https://open.spotify.com/album/52j4FXkBGwmYA8Jq8xuhKt) | 2:14 | 2024-07-29 |  |
 | [Essential Truth](https://open.spotify.com/track/4BwITU6em6YieY3bHak4JH) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Essential Truth](https://open.spotify.com/album/7z9Y1XoWUzB4HwBosSMlIy) | 2:49 | 2022-08-26 |  |
 | [Every Waking Moment](https://open.spotify.com/track/24Eavl6flA0caVwQDtXnAq) | [Kendra Logozar](https://open.spotify.com/artist/7rwhybBLjf5jWQsmXfwJhd) | [Every Waking Moment](https://open.spotify.com/album/2z08XS1HOcqBCEubRfk2dS) | 1:55 | 2022-08-03 | 2023-06-21 |
 | [Excavation](https://open.spotify.com/track/3kOJMvFCOHykQws1qsVMsu) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Ruminate](https://open.spotify.com/album/4pOyBEYZRfEGsbSOinaytz) | 3:24 | 2022-08-03 |  |
@@ -78,7 +79,7 @@
 | [Golden Hour](https://open.spotify.com/track/7cY9kWU1cPLJ1wxxvKEZMh) | [Leila Milki](https://open.spotify.com/artist/4DXSD40PBK0g20FwbdMUON) | [Springtime Improvisations](https://open.spotify.com/album/5ezMUY3NhgxPsufHezSG7D) | 1:34 | 2022-08-03 |  |
 | [Hallowed Ground](https://open.spotify.com/track/7C8w6cZETAiUxJ0xtkBcuu) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Hallowed Ground](https://open.spotify.com/album/2tH19CDOZgXO3d5hLwQbY2) | 2:41 | 2022-10-24 |  |
 | [Healing Begins](https://open.spotify.com/track/7MHN5EduWiVbYCFBdo2hkJ) | [Katia Waizel](https://open.spotify.com/artist/2fG2mbIMWrjg3vepzDjAh0) | [Healing Begins](https://open.spotify.com/album/7dsWPNgn6y7whMrI9nG9V1) | 2:59 | 2022-08-03 |  |
-| [Hiemalis](https://open.spotify.com/track/0UcRrIl4Ti4xSdp314ZASI) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Hiemalis](https://open.spotify.com/album/0qCnC2Syuf544DFygP9Q4i) | 2:47 | 2022-08-03 |  |
+| [Hiemalis](https://open.spotify.com/track/0UcRrIl4Ti4xSdp314ZASI) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Hiemalis](https://open.spotify.com/album/0qCnC2Syuf544DFygP9Q4i) | 2:47 | 2022-08-03 | 2024-07-30 |
 | [Hind \- Voiceless \- Harpa Sessions](https://open.spotify.com/track/3xgrIw8JY1aqdD5yNAB5OH) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Hind / Aska \(Harpa Sessions\)](https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2) | 1:38 | 2022-10-04 |  |
 | [Holunder](https://open.spotify.com/track/5Aki6jU7ZhW2ChqPYULD6W) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Holunder](https://open.spotify.com/album/3Xmq3Xkg8QTkn9ObMIKyoz) | 2:30 | 2023-02-21 |  |
 | [hope](https://open.spotify.com/track/6MI1zRSrHQVCXPQ9QkrHue) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [hope](https://open.spotify.com/album/3OvVqq5lE0CpAxbQm9P1k8) | 3:10 | 2022-08-03 |  |
@@ -124,7 +125,7 @@
 | [My Beloved Twin Flame...](https://open.spotify.com/track/0h7S5ygplBgAWP990wIRs6) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 2:47 | 2022-08-03 |  |
 | [No More Goodbyes](https://open.spotify.com/track/6HCRtBZl2Ez50aHXh2JRds) | [Wyatt Elil](https://open.spotify.com/artist/2krX8gm9Nw3Bdp7vniNwum) | [Through Valleys](https://open.spotify.com/album/6j2Q4yWL0niKxmWAplQolc) | 2:23 | 2022-12-21 |  |
 | [nocturnal summer](https://open.spotify.com/track/5fGKMCSBHAhRW9923UBO3c) | [forever day](https://open.spotify.com/artist/2xZ6v1AA2KEKLIYafq7a0a) | [nocturnal summer & road to isabelle](https://open.spotify.com/album/23aavgdGxGJIduhBWoOfSu) | 2:37 | 2024-07-16 |  |
-| [Nocturne](https://open.spotify.com/track/14sKAbkXofaqoVmEP52Ire) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq) | [Nocturne](https://open.spotify.com/album/2cW49A7JOvYRYQj5gNCBKi) | 2:32 | 2022-08-03 |  |
+| [Nocturne](https://open.spotify.com/track/14sKAbkXofaqoVmEP52Ire) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq) | [Nocturne](https://open.spotify.com/album/2cW49A7JOvYRYQj5gNCBKi) | 2:32 | 2022-08-03 | 2024-07-30 |
 | [Nocturne I](https://open.spotify.com/track/6f9DfXmjSQ7u2D9AzwA6l2) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Somnio Novo](https://open.spotify.com/album/0BlgO0ukeZGE8VM3VaTaGk) | 2:53 | 2022-08-03 |  |
 | [Old Letter](https://open.spotify.com/track/6eNCYZyPFmSn4KgAJYDwdw) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Old Letter](https://open.spotify.com/album/19YyBSJeId988PBpUu0EMv) | 3:54 | 2023-01-26 | 2023-04-20 |
 | [Old Letter](https://open.spotify.com/track/3Ou4VHEilRM3CLJ4TkxBzY) | [Guido Heeneman](https://open.spotify.com/artist/2e4x0REh1E5gnXL9fNkidv), [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Old Letter](https://open.spotify.com/album/00PzQJppWlGGLdMCmBQtfy) | 3:54 | 2022-10-04 | 2023-02-09 |
@@ -206,7 +207,7 @@
 | [When the leaves start to fall](https://open.spotify.com/track/70vSsnVESDO3ASOxKlgRkI) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [When the leaves start to fall](https://open.spotify.com/album/65pB6B1PKVYEZ41xxkpHdn) | 2:20 | 2023-02-21 |  |
 | [Willmine](https://open.spotify.com/track/3gdErGbZwv6gjdF0sJdzhK) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [Fredenwalde \- Teil I](https://open.spotify.com/album/6qdMFbDQ5og47ujZmZjwhF) | 3:31 | 2022-08-03 | 2023-06-21 |
 | [Wordless](https://open.spotify.com/track/1uPUd2SfgzHtiK9BoTZOKt) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Songs From Home](https://open.spotify.com/album/54VCz99ZaV868ym0fbKyDI) | 1:51 | 2022-08-26 |  |
-| [Yellow Entropy](https://open.spotify.com/track/4s28L8kAdHZs0GfwnsYsZw) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Yellow Entropy](https://open.spotify.com/album/7hJKROzZs61p529YVcxaWM) | 2:11 | 2022-08-03 |  |
+| [Yellow Entropy](https://open.spotify.com/track/4s28L8kAdHZs0GfwnsYsZw) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Yellow Entropy](https://open.spotify.com/album/7hJKROzZs61p529YVcxaWM) | 2:11 | 2022-08-03 | 2024-07-30 |
 | [à Gauche](https://open.spotify.com/track/5HEdhvXyFdSy1IxlX6c6nM) | [Pablo Jean Baptiste](https://open.spotify.com/artist/5gtl7HjPLF8fDkzHiAyfnV) | [à Gauche](https://open.spotify.com/album/66F48yfYfHtqgtlKXRS88V) | 2:06 | 2022-10-24 |  |
 
 \*This playlist was first scraped on 2022-08-12. Prior content cannot be recovered.

@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 183820,
       "name": "American Girl",
       "url": "https://open.spotify.com/track/3PRTKWFigJCi47YAEsBpiP"
@@ -401,6 +401,28 @@
     },
     {
       "album": {
+        "name": "Bulletproof (feat. Avril Lavigne)",
+        "url": "https://open.spotify.com/album/1tEc7o0AbTqnl3RA873yHK"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183919,
+      "name": "Bulletproof (feat. Avril Lavigne)",
+      "url": "https://open.spotify.com/track/3Hns0fETEXY84fGjboAbT7"
+    },
+    {
+      "album": {
         "name": "Never Enough",
         "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
       },
@@ -618,7 +640,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 208063,
       "name": "Cowboys and Plowboys",
       "url": "https://open.spotify.com/track/1YfyfFBZ7cY7wgwtZEq3tf"
@@ -1434,7 +1456,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 184106,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/4wYCasaUMf0fz0ZNgrehHr"
@@ -1658,7 +1680,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 232138,
       "name": "Jesus Saves",
       "url": "https://open.spotify.com/track/6Jp2r3WXDaQ61f1ydATsVS"
@@ -2233,6 +2255,24 @@
     },
     {
       "album": {
+        "name": "Westerly",
+        "url": "https://open.spotify.com/album/6nkTWPOKgd7UakmuaiO1Tj"
+      },
+      "artists": [
+        {
+          "name": "The Washboard Union",
+          "url": "https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193586,
+      "name": "New Paint",
+      "url": "https://open.spotify.com/track/7i5NR1XK1dKR8bUDwoHiuu"
+    },
+    {
+      "album": {
         "name": "Next Thing You Know",
         "url": "https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp"
       },
@@ -2422,10 +2462,28 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 202280,
       "name": "Old Fashioned Feeling",
       "url": "https://open.spotify.com/track/1mlFsqgc3lgTCboLATYHBo"
+    },
+    {
+      "album": {
+        "name": "Poet\u2019s Resum\u00e9",
+        "url": "https://open.spotify.com/album/575dPLrl892d2TGGeZHDj8"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188166,
+      "name": "One Bad Habit",
+      "url": "https://open.spotify.com/track/4N0yUfSgo2lnpJzufrqAoY"
     },
     {
       "album": {
@@ -2752,7 +2810,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 210639,
       "name": "Running Out Of Time",
       "url": "https://open.spotify.com/track/4qIdRNZsrZ0HHPq73AWGQW"
@@ -2770,7 +2828,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 178307,
       "name": "Sad Girl Summer",
       "url": "https://open.spotify.com/track/5KnhMcUwUatvRHzIXQEVOG"
@@ -2984,7 +3042,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 173000,
       "name": "Songs About Whiskey",
       "url": "https://open.spotify.com/track/7crxg59CxoOqSxhHC7I6LY"
@@ -3082,7 +3140,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 167200,
       "name": "Spotlight",
       "url": "https://open.spotify.com/track/1ZvUudh4rpo0a5WIbrwJoc"
@@ -3190,7 +3248,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 177293,
       "name": "The Architect",
       "url": "https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm"
@@ -3576,7 +3634,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 132293,
       "name": "Well Alright",
       "url": "https://open.spotify.com/track/0aHDkn2yqKsDhLptXjQhPt"

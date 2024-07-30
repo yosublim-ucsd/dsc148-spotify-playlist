@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 318796,
+  "num_followers": 318869,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-07-19 16:20:21",
       "album": {
+        "name": "Flor de Aruanda",
+        "url": "https://open.spotify.com/album/0zIowT1jTcN8v8bFa8t0Er"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "duration_ms": 183146,
+      "name": "Flor de Aruanda",
+      "url": "https://open.spotify.com/track/53UWKafwpKToHDBB286Q0e"
+    },
+    {
+      "added_at": "2024-07-19 16:20:21",
+      "album": {
         "name": "Andei S\u00f3",
         "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 357533,
       "name": "Andei S\u00f3",
       "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
-    },
-    {
-      "added_at": "2024-07-19 16:20:21",
-      "album": {
-        "name": "Flor de Aruanda",
-        "url": "https://open.spotify.com/album/0zIowT1jTcN8v8bFa8t0Er"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        }
-      ],
-      "duration_ms": 183146,
-      "name": "Flor de Aruanda",
-      "url": "https://open.spotify.com/track/53UWKafwpKToHDBB286Q0e"
     },
     {
       "added_at": "2024-07-19 16:20:21",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-07-19 16:20:21",
       "album": {
+        "name": "O Amor Venceu",
+        "url": "https://open.spotify.com/album/3x1JYZZhhtiGBt0knJ0mfl"
+      },
+      "artists": [
+        {
+          "name": "Luc DubWise",
+          "url": "https://open.spotify.com/artist/0NXMeMdtkYLVWlvL9mPIGU"
+        }
+      ],
+      "duration_ms": 187884,
+      "name": "O Amor Venceu",
+      "url": "https://open.spotify.com/track/1OJs9U8EpYxyTtawy8mRRg"
+    },
+    {
+      "added_at": "2024-07-19 16:20:21",
+      "album": {
         "name": "O Que te Faz Viver",
         "url": "https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 242948,
       "name": "Flying High",
       "url": "https://open.spotify.com/track/7CJpiMB7cKSuV4BYgtkV6C"
-    },
-    {
-      "added_at": "2024-07-19 16:20:21",
-      "album": {
-        "name": "O Amor Venceu",
-        "url": "https://open.spotify.com/album/3x1JYZZhhtiGBt0knJ0mfl"
-      },
-      "artists": [
-        {
-          "name": "Luc DubWise",
-          "url": "https://open.spotify.com/artist/0NXMeMdtkYLVWlvL9mPIGU"
-        }
-      ],
-      "duration_ms": 187884,
-      "name": "O Amor Venceu",
-      "url": "https://open.spotify.com/track/1OJs9U8EpYxyTtawy8mRRg"
     },
     {
       "added_at": "2024-07-19 16:20:21",

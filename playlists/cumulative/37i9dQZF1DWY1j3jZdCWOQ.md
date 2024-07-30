@@ -4,7 +4,7 @@
 
 > Spain minus the S =
 
-293 songs - 15 hr 11 min
+294 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Kiwi](https://open.spotify.com/track/33SNO8AaciGbNaQFkxvPrW) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 2:56 | 2023-09-08 |  |
 | [La La](https://open.spotify.com/track/3MpR460YBQfy8WJLQZghuD) | [The Cab](https://open.spotify.com/artist/2C2sVVXanbOpymYBMpsi89) | [Symphony Soldier](https://open.spotify.com/album/27kmprYNLOGnR8roobHW5D) | 3:24 | 2022-03-03 | 2022-04-21 |
 | [Leave Her](https://open.spotify.com/track/4AbYZMzeVqGE8Ys4wbI0PT) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Withering](https://open.spotify.com/album/1EX0HxNyID0uOOiKeYF9wG) | 2:44 | 2024-07-19 |  |
-| [Leave Me Alone](https://open.spotify.com/track/1cIi1x8ANjMO97wH5OfYO1) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [RAZZMATAZZ](https://open.spotify.com/album/7q8hYYZgsIQCXibLzwiPll) | 3:35 | 2021-12-08 |  |
+| [Leave Me Alone](https://open.spotify.com/track/1cIi1x8ANjMO97wH5OfYO1) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [RAZZMATAZZ](https://open.spotify.com/album/7q8hYYZgsIQCXibLzwiPll) | 3:35 | 2021-12-08 | 2024-07-30 |
 | [leave me for dead](https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [leave me for dead](https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO) | 2:56 | 2023-09-08 | 2023-11-21 |
 | [Let's Kill Tonight](https://open.spotify.com/track/14uvyd51Ha7FihKHlOtUig) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 3:33 | 2022-01-21 | 2022-04-10 |
 | [LIFE'S A BIT](https://open.spotify.com/track/17r3SCcSZ9EVohyGJbnMCq) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [LIFE'S A BIT](https://open.spotify.com/album/1f3vBv7UFvchpTfSfEWX6w) | 2:30 | 2021-12-08 | 2022-07-29 |
@@ -280,6 +280,7 @@
 | [Visitation Of The Ghost](https://open.spotify.com/track/0UspsjF4bHzpQdvHvKM3hV) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 4:23 | 2021-12-08 | 2024-05-23 |
 | [Viva Las Vengeance](https://open.spotify.com/track/2XRh87n9CQoWkWW94H3Min) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/0pTYrZO3W4KyciXKM2fqei) | 3:26 | 2022-07-29 | 2022-08-10 |
 | [Voices In My Head](https://open.spotify.com/track/5XUuldRjPXcP5QxyEN4IXT) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Voices In My Head](https://open.spotify.com/album/7r9WVGq5YRQ4eeYUYzmk8b) | 3:11 | 2022-12-01 | 2023-03-25 |
+| [Vultures \(feat\. PVRIS\)](https://open.spotify.com/track/0O1APvs7Bfe7YaQO8ekg1z) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Nosebleeds: Encore](https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ) | 2:58 | 2024-07-29 |  |
 | [We Don't Wanna Talk](https://open.spotify.com/track/7Gzs6HvJBEBSxsNkXwBqay) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Nowhere](https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO) | 2:39 | 2024-05-22 |  |
 | [We're All Falling Apart](https://open.spotify.com/track/7uhPrSyqbRDSwWd0JBTsA7) | [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [We're All Falling Apart](https://open.spotify.com/album/35IjLV9YXGSRULuZlhqAO1) | 3:02 | 2021-12-08 | 2022-04-21 |
 | [Weirdo](https://open.spotify.com/track/3GEcWJB535LBfwF1lyWGAD) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Weirdo](https://open.spotify.com/album/1R0W4HzWUdAMy9TuDH8x1Z) | 3:45 | 2022-01-21 | 2022-02-05 |

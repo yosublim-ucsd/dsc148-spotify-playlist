@@ -1,6 +1,6 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Paola Navarrete & Adanowsky.",
-  "num_followers": 58016,
+  "num_followers": 58030,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "poco a poquito",
-        "url": "https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "poco a poquito",
-      "url": "https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Cuando Empec\u00e9 a Quererte",
         "url": "https://open.spotify.com/album/25doXoyYkwPZvdyKUcI0Sw"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 185866,
       "name": "Cuando Empec\u00e9 a Quererte",
       "url": "https://open.spotify.com/track/7uZpmSxgoSoor0D6kx254a"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "poco a poquito",
+        "url": "https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "poco a poquito",
+      "url": "https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Cuentas Pendientes",
-        "url": "https://open.spotify.com/album/7vPKBes3WuXF8xfT5ZC3EI"
-      },
-      "artists": [
-        {
-          "name": "Letizia Vocos",
-          "url": "https://open.spotify.com/artist/77rQe9vdtoafAbGNaiowu8"
-        }
-      ],
-      "duration_ms": 163793,
-      "name": "Cuentas Pendientes",
-      "url": "https://open.spotify.com/track/3YxoIY40PgKDBjKHDHUQAe"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Suerte para m\u00ed",
         "url": "https://open.spotify.com/album/6CW5eGVqBR2o3EmF7Ti8iX"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Coraz\u00f3n de Metal",
-        "url": "https://open.spotify.com/album/6akKOPEnC76tjH5SaSCVns"
+        "name": "Cuentas Pendientes",
+        "url": "https://open.spotify.com/album/7vPKBes3WuXF8xfT5ZC3EI"
       },
       "artists": [
         {
-          "name": "B\u00e1rbara Jorcin",
-          "url": "https://open.spotify.com/artist/4DQnZeuDDLSiEOcLFrKLT6"
+          "name": "Letizia Vocos",
+          "url": "https://open.spotify.com/artist/77rQe9vdtoafAbGNaiowu8"
         }
       ],
-      "duration_ms": 175408,
-      "name": "Coraz\u00f3n de Metal",
-      "url": "https://open.spotify.com/track/2WfjpO5nlmUHSN0NLQs6IQ"
+      "duration_ms": 163793,
+      "name": "Cuentas Pendientes",
+      "url": "https://open.spotify.com/track/3YxoIY40PgKDBjKHDHUQAe"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -583,6 +567,22 @@
       "duration_ms": 191583,
       "name": "Hurac\u00e1n",
       "url": "https://open.spotify.com/track/1bfVtL4K4hlzxw2enSM40V"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Coraz\u00f3n de Metal",
+        "url": "https://open.spotify.com/album/6akKOPEnC76tjH5SaSCVns"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Jorcin",
+          "url": "https://open.spotify.com/artist/4DQnZeuDDLSiEOcLFrKLT6"
+        }
+      ],
+      "duration_ms": 175408,
+      "name": "Coraz\u00f3n de Metal",
+      "url": "https://open.spotify.com/track/2WfjpO5nlmUHSN0NLQs6IQ"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Para\u00edso Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2fPlyQwOTDnwE0nnpxzWuZ"
+      },
+      "artists": [
+        {
+          "name": "Luca Bocci",
+          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
+        }
+      ],
+      "duration_ms": 206777,
+      "name": "M\u00fasica de Computadora",
+      "url": "https://open.spotify.com/track/3URE4Okm8FmExP0AcyqrMI"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "Alguien Como T\u00fa",
         "url": "https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 204241,
       "name": "Track Track",
       "url": "https://open.spotify.com/track/3iYRLqDPD52FsVEKPE5Ro8"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Para\u00edso Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2fPlyQwOTDnwE0nnpxzWuZ"
-      },
-      "artists": [
-        {
-          "name": "Luca Bocci",
-          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
-        }
-      ],
-      "duration_ms": 206777,
-      "name": "M\u00fasica de Computadora",
-      "url": "https://open.spotify.com/track/3URE4Okm8FmExP0AcyqrMI"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -971,26 +971,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Mis Amantes",
-        "url": "https://open.spotify.com/album/1clEtt82cNNqkh6YWU2fBc"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        },
-        {
-          "name": "Kastiello",
-          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
-        }
-      ],
-      "duration_ms": 229622,
-      "name": "Mis Amantes",
-      "url": "https://open.spotify.com/track/0Z02F4Jh582ZU59skYyXUD"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "El Plan Mayor",
         "url": "https://open.spotify.com/album/3gwoxCZpCCpcWlmuoR0efY"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 172725,
       "name": "El Plan Mayor",
       "url": "https://open.spotify.com/track/7JlpH2WqjABcFULmtNIMeM"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Mis Amantes",
+        "url": "https://open.spotify.com/album/1clEtt82cNNqkh6YWU2fBc"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        },
+        {
+          "name": "Kastiello",
+          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
+        }
+      ],
+      "duration_ms": 229622,
+      "name": "Mis Amantes",
+      "url": "https://open.spotify.com/track/0Z02F4Jh582ZU59skYyXUD"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Sigo Llorando",
-        "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
-      },
-      "artists": [
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 223349,
-      "name": "Sigo Llorando",
-      "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Un Nuevo Ritmo",
         "url": "https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 213164,
       "name": "Un Nuevo Ritmo",
       "url": "https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Sigo Llorando",
+        "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
+      },
+      "artists": [
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "duration_ms": 223349,
+      "name": "Sigo Llorando",
+      "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/7CTYEjeve7mpzQ4gCJYn9C"
-      },
-      "artists": [
-        {
-          "name": "martuli",
-          "url": "https://open.spotify.com/artist/5nR5kX61auDJNnU64hAIBc"
-        }
-      ],
-      "duration_ms": 186608,
-      "name": "Terapia",
-      "url": "https://open.spotify.com/track/11dJmpR21O80TucauhNsVN"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "D\u00edas En Casa",
         "url": "https://open.spotify.com/album/6v6HHXpXjmwo2gA1S1gPuk"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 185305,
       "name": "D\u00edas En Casa",
       "url": "https://open.spotify.com/track/2psoGV7y4CIpqdqjTCL6jK"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/7CTYEjeve7mpzQ4gCJYn9C"
+      },
+      "artists": [
+        {
+          "name": "martuli",
+          "url": "https://open.spotify.com/artist/5nR5kX61auDJNnU64hAIBc"
+        }
+      ],
+      "duration_ms": 186608,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/11dJmpR21O80TucauhNsVN"
     }
   ],
   "unique_name": "mandarina",

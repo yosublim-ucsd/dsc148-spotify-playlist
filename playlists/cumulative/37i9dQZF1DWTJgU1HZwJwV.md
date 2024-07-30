@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-498 songs - 21 hr 8 min
+500 songs - 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Al Final Del Camino](https://open.spotify.com/track/0rtEFDsmOs9sZYZ6wEZ8Al) | [Manuel Gonza](https://open.spotify.com/artist/0DvrI5NcxFYxzaySshEJxw) | [Al Final Del Camino](https://open.spotify.com/album/3DFKaYFInRa8c8afBeefYv) | 1:54 | 2022-11-25 | 2023-09-14 |
 | [Albarracín](https://open.spotify.com/track/1Syf6EfG7o04qESj65mxOv) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Albarracín](https://open.spotify.com/album/3xlEDW390BcYtfFMesVcv8) | 1:42 | 2022-08-12 | 2023-09-14 |
 | [All Because I Found You](https://open.spotify.com/track/7nMYvgw89GfmCixfIopY3J) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [All Because I Found You](https://open.spotify.com/album/1bAwPcodbxhx19GvgzYSsX) | 3:11 | 2023-04-28 | 2023-06-23 |
+| [Along rusty rails](https://open.spotify.com/track/5xgTVeCBbRQ2rHl33azMw2) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Along rusty rails](https://open.spotify.com/album/60chGCUrcfMTQD2WxZsqyC) | 2:10 | 2024-07-29 |  |
 | [Altai](https://open.spotify.com/track/5xnMxcqVARosZ7Uwr4D04M) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Altai](https://open.spotify.com/album/2nrYZcCUiavKgeH2f07zlz) | 2:59 | 2023-09-29 |  |
 | [Always With You](https://open.spotify.com/track/5ItGFvCvkLI4wm2dXycCCs) | [Maitre](https://open.spotify.com/artist/4lz66um9dJ0YB7ugJHeoZe) | [Always With You](https://open.spotify.com/album/5T3Ix0PNlLeAhemjXwjBH9) | 2:27 | 2023-08-10 |  |
 | [Amanda's Rose](https://open.spotify.com/track/7irnzCCAnHTmWyH8KfIp2j) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [Amanda's Rose](https://open.spotify.com/album/7qFUeny2ZIqb4hMfs7JyzV) | 1:55 | 2023-04-28 | 2023-06-23 |
@@ -163,6 +164,7 @@
 | [Flickering](https://open.spotify.com/track/626xcRaDQa8wTLniVI14dY) | [Dan Lauften](https://open.spotify.com/artist/1nUr7Y05ABzaFcKpkg6l65) | [Flickering](https://open.spotify.com/album/4wSMizTu9VA7nDu1iZZGwx) | 1:41 | 2023-05-19 | 2023-09-14 |
 | [Floreio](https://open.spotify.com/track/5qse6XR40QbLoS8jRCwpXa) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Floreio](https://open.spotify.com/album/3BeHMO8k913Cci8qpbitgu) | 2:37 | 2023-10-27 | 2024-04-20 |
 | [For A Light Blue Light](https://open.spotify.com/track/7M5Rp2Hxv169779gEJPVal) | [Vincenzo Adelini](https://open.spotify.com/artist/2DCXusMUJpcFfPM786dD8v) | [For A Light Blue Light](https://open.spotify.com/album/3WUgkg9hH1j16Q5jOQ8kJv) | 3:10 | 2022-07-22 | 2023-02-25 |
+| [For Maria](https://open.spotify.com/track/6wF7xHW9hOUx6QQdLMPwHn) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [For Maria](https://open.spotify.com/album/2HssMLECVBQcY9YN0ZV6cC) | 1:46 | 2024-07-29 |  |
 | [For Me & You](https://open.spotify.com/track/4dnC5VgcrkUn4INXveBDPo) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [For Me & You](https://open.spotify.com/album/2I0en39qwIl6RW1l37H9gJ) | 2:19 | 2023-03-24 | 2023-06-23 |
 | [Forgotten notes](https://open.spotify.com/track/0xSBCt0AvtYVICiGHQNcUN) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Forgotten notes](https://open.spotify.com/album/5Vgpt5Fuexb0CerDTCew5Y) | 2:40 | 2024-02-23 |  |
 | [Fortnight ago](https://open.spotify.com/track/2WjxJuMb7Fl3wi0hQtnkFA) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Fortnight ago](https://open.spotify.com/album/2pDbN5sRfuZUA7W7gCAciD) | 2:03 | 2023-05-19 |  |
@@ -228,7 +230,7 @@
 | [l' Étourneau](https://open.spotify.com/track/1MPq0sJ5RK1uiSjX98atNy) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [l' Étourneau](https://open.spotify.com/album/39OOI2bfToxavuTyJRXz0i) | 2:49 | 2023-01-20 | 2023-05-20 |
 | [La Blanca Cortina](https://open.spotify.com/track/7BeoyBoC4sovWZ29bLQ45a) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [La Blanca Cortina](https://open.spotify.com/album/7qcp5ez81UUzzIsP8e9lir) | 2:42 | 2022-06-17 | 2022-09-09 |
 | [La Casa Azul](https://open.spotify.com/track/0LhGpWeO8ZQx8xJMGqqDGv) | [Lester Paredes](https://open.spotify.com/artist/6qmJhBPj3ROsuH7bLDODMf) | [La Casa Azul](https://open.spotify.com/album/4mDvOJZA7IuRtXJkuIY67l) | 3:31 | 2022-06-17 | 2023-05-20 |
-| [La Condesa](https://open.spotify.com/track/2AGOxoYeqI7nFJMA2AmG27) | [Chico Getz](https://open.spotify.com/artist/2PDfdIdjY7tHMa20yxpBhW) | [La Condesa](https://open.spotify.com/album/3l9FBpt6oDAkq9UMGgBQwZ) | 3:14 | 2022-06-17 |  |
+| [La Condesa](https://open.spotify.com/track/2AGOxoYeqI7nFJMA2AmG27) | [Chico Getz](https://open.spotify.com/artist/2PDfdIdjY7tHMa20yxpBhW) | [La Condesa](https://open.spotify.com/album/3l9FBpt6oDAkq9UMGgBQwZ) | 3:14 | 2022-06-17 | 2024-07-30 |
 | [La Fenice](https://open.spotify.com/track/1x8cTmOxmRcRmySayLAJ9C) | [Matthias Trapp](https://open.spotify.com/artist/5WKLrD3PamTJ6XPLeI3CXg) | [La Fenice](https://open.spotify.com/album/50dvR7Lo3Ir9wMOfpiby3Y) | 2:39 | 2024-01-12 |  |
 | [La Largo](https://open.spotify.com/track/3olW01y6J6xJK9bORKX2lN) | [Raphael de Santiago](https://open.spotify.com/artist/7swmr8PxBMfAXdEoDFzmpY) | [La Largo](https://open.spotify.com/album/0NpneUFE5gYog3A8QUfwsr) | 2:04 | 2023-02-24 | 2023-06-23 |
 | [La Mestis](https://open.spotify.com/track/0blt7mXlKmi52DXcYUKiQL) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [La Mestis](https://open.spotify.com/album/0VPJYGbYJsCCMvWujKVoj7) | 2:00 | 2022-06-17 | 2024-04-05 |
@@ -323,7 +325,7 @@
 | [Ordinary Sunday](https://open.spotify.com/track/0bdtCy7wrMYa7gc8mCo955) | [Lorenzo Campagnoli](https://open.spotify.com/artist/1pOPhkviofSIVzyPUrqXzc) | [Ordinary Sunday](https://open.spotify.com/album/4y2UZDXDXi233wq6ozCNG7) | 2:44 | 2024-05-10 |  |
 | [Origen](https://open.spotify.com/track/2UtJpKi98wfLk6ERrmXpEC) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Origen](https://open.spotify.com/album/7KWJU3ICNaArmjYfM3N7Oq) | 1:47 | 2022-09-02 | 2023-09-14 |
 | [Ouarzazate](https://open.spotify.com/track/4KLHM8BsHxjA74q1H1wvnx) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Ouarzazate](https://open.spotify.com/album/1RJxkHUhvj6k3a7WGoIaX3) | 2:17 | 2022-12-23 | 2023-10-13 |
-| [Outerinho](https://open.spotify.com/track/07ulGbvQJporStcKaTxnaY) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Pescadores](https://open.spotify.com/album/6PZrP9DIw8EYEwkuyZm7Pj) | 3:05 | 2022-06-17 |  |
+| [Outerinho](https://open.spotify.com/track/07ulGbvQJporStcKaTxnaY) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Pescadores](https://open.spotify.com/album/6PZrP9DIw8EYEwkuyZm7Pj) | 3:05 | 2022-06-17 | 2024-07-30 |
 | [Pas de regrets](https://open.spotify.com/track/5Ko1nyPgelm5DGLt35AvF4) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Pas de regrets](https://open.spotify.com/album/3RIcJZm8cTD2IbxQW007Zc) | 2:46 | 2022-10-28 | 2023-05-20 |
 | [Paseo](https://open.spotify.com/track/1AVfqtcAyTCKQNp36mdSk9) | [Oliver Leonardo](https://open.spotify.com/artist/2tn2eGCJFEG139hn8b1UIj) | [Leme](https://open.spotify.com/album/2N7E7yXlRKE3pwFMmspN1z) | 2:43 | 2022-06-17 | 2023-04-29 |
 | [Passages](https://open.spotify.com/track/409nrkfFWjJSF0JiWne0HY) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Passages](https://open.spotify.com/album/1XU36ZyjSyRQc6UDpqPVfq) | 2:04 | 2023-09-29 |  |

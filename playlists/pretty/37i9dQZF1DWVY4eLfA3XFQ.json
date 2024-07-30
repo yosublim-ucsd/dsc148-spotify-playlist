@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring AYYBO \ud83d\udc7d\ud83d\udc7d 50% techno, 50% house",
-  "num_followers": 633356,
+  "num_followers": 632639,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1065,6 +1065,26 @@
       "url": "https://open.spotify.com/track/4TNiHQs5zO3slGpbBwutVB"
     },
     {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Bitch, Don't Kill My Vibe",
+        "url": "https://open.spotify.com/album/0apMOjnx6oMN06Fr5VrK5W"
+      },
+      "artists": [
+        {
+          "name": "Trace",
+          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+        },
+        {
+          "name": "Liquid Rose",
+          "url": "https://open.spotify.com/artist/0zHBCBYJo29r8RvsfjUIIN"
+        }
+      ],
+      "duration_ms": 157558,
+      "name": "Bitch, Don't Kill My Vibe",
+      "url": "https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW"
+    },
+    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Who's That Girl (JL & Afterman Mix)",
@@ -1087,26 +1107,6 @@
       "duration_ms": 320624,
       "name": "Who's That Girl - JL & Afterman Mix",
       "url": "https://open.spotify.com/track/0iPwcwbrS0ZMIvqvyQw1Qs"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Bitch, Don't Kill My Vibe",
-        "url": "https://open.spotify.com/album/0apMOjnx6oMN06Fr5VrK5W"
-      },
-      "artists": [
-        {
-          "name": "Trace",
-          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
-        },
-        {
-          "name": "Liquid Rose",
-          "url": "https://open.spotify.com/artist/0zHBCBYJo29r8RvsfjUIIN"
-        }
-      ],
-      "duration_ms": 157558,
-      "name": "Bitch, Don't Kill My Vibe",
-      "url": "https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1417,22 +1417,6 @@
       "url": "https://open.spotify.com/track/7qhYyXBbL12mPyj93PyUBb"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Vogue",
-        "url": "https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 192187,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"
-    },
-    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Friends Around (Set It Off)",
@@ -1451,6 +1435,22 @@
       "duration_ms": 155238,
       "name": "Friends Around (Set It Off)",
       "url": "https://open.spotify.com/track/02jOuqt9tjSlAP7xPiW7ej"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 192187,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1605,6 +1605,22 @@
       "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
     },
     {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "High For This",
+        "url": "https://open.spotify.com/album/0D5083Azr6y2h23yoccdxC"
+      },
+      "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        }
+      ],
+      "duration_ms": 241870,
+      "name": "High For This",
+      "url": "https://open.spotify.com/track/3EVdjxPeVxFBMcVVnwJhQv"
+    },
+    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "She's In The Club (feat. Asal)",
@@ -1623,78 +1639,6 @@
       "duration_ms": 188011,
       "name": "She's In The Club (feat. Asal)",
       "url": "https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "High For This",
-        "url": "https://open.spotify.com/album/0D5083Azr6y2h23yoccdxC"
-      },
-      "artists": [
-        {
-          "name": "PARISI",
-          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
-        }
-      ],
-      "duration_ms": 241870,
-      "name": "High For This",
-      "url": "https://open.spotify.com/track/3EVdjxPeVxFBMcVVnwJhQv"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Hustlin'",
-        "url": "https://open.spotify.com/album/4xHL13vhsW8TZ6EQcjVgJJ"
-      },
-      "artists": [
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        }
-      ],
-      "duration_ms": 159534,
-      "name": "Hustlin'",
-      "url": "https://open.spotify.com/track/08j5W9R5lK3sBXo1A4zgGz"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "I Love It",
-        "url": "https://open.spotify.com/album/35VzFsBlvx9XGP2hziKKLh"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        }
-      ],
-      "duration_ms": 166299,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "No Reason (Chris Lake Remix)",
-        "url": "https://open.spotify.com/album/3TEApFY0nZSH1JTceGBK53"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        }
-      ],
-      "duration_ms": 257419,
-      "name": "No Reason - Chris Lake Remix",
-      "url": "https://open.spotify.com/track/2SUKj6aVC879FqCSfVoQPR"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1719,6 +1663,62 @@
       "duration_ms": 182000,
       "name": "IBIZA",
       "url": "https://open.spotify.com/track/2UWGoFGAYstslkTzLnHLXq"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "I Love It",
+        "url": "https://open.spotify.com/album/35VzFsBlvx9XGP2hziKKLh"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        }
+      ],
+      "duration_ms": 166299,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Hustlin'",
+        "url": "https://open.spotify.com/album/4xHL13vhsW8TZ6EQcjVgJJ"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        }
+      ],
+      "duration_ms": 159534,
+      "name": "Hustlin'",
+      "url": "https://open.spotify.com/track/08j5W9R5lK3sBXo1A4zgGz"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "No Reason (Chris Lake Remix)",
+        "url": "https://open.spotify.com/album/3TEApFY0nZSH1JTceGBK53"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "duration_ms": 257419,
+      "name": "No Reason - Chris Lake Remix",
+      "url": "https://open.spotify.com/track/2SUKj6aVC879FqCSfVoQPR"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1781,22 +1781,6 @@
       "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Push Me",
-        "url": "https://open.spotify.com/album/3m6uciqlh8hgjNHiX0NSXh"
-      },
-      "artists": [
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Push Me",
-      "url": "https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "One Of A Kind",
@@ -1811,6 +1795,22 @@
       "duration_ms": 138725,
       "name": "One Of A Kind",
       "url": "https://open.spotify.com/track/0GL2DIZoRorbVbsRejFCaW"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Push Me",
+        "url": "https://open.spotify.com/album/3m6uciqlh8hgjNHiX0NSXh"
+      },
+      "artists": [
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Push Me",
+      "url": "https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1905,6 +1905,26 @@
       "url": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb"
     },
     {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Noche Y Dia",
+        "url": "https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ],
+      "duration_ms": 152601,
+      "name": "Noche Y Dia",
+      "url": "https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa"
+    },
+    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Spring Girl (Vintage Culture Remix)",
@@ -1929,42 +1949,6 @@
       "url": "https://open.spotify.com/track/2SCkpXTuQOvXySjlz9O1JH"
     },
     {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Noche Y Dia",
-        "url": "https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs"
-      },
-      "artists": [
-        {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
-        },
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        }
-      ],
-      "duration_ms": 152601,
-      "name": "Noche Y Dia",
-      "url": "https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "You Know It",
-        "url": "https://open.spotify.com/album/1pQyujwr8WMM8nXV21a5tY"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        }
-      ],
-      "duration_ms": 235680,
-      "name": "You Know It",
-      "url": "https://open.spotify.com/track/64Kw68jjKqqYK5hQrCkrVT"
-    },
-    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Tarantula (Max Styler Remix)",
@@ -1983,6 +1967,22 @@
       "duration_ms": 201243,
       "name": "Tarantula - Max Styler Remix",
       "url": "https://open.spotify.com/track/4WAKHKHloHdmPPfxgW8HAn"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "You Know It",
+        "url": "https://open.spotify.com/album/1pQyujwr8WMM8nXV21a5tY"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 235680,
+      "name": "You Know It",
+      "url": "https://open.spotify.com/track/64Kw68jjKqqYK5hQrCkrVT"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -2023,6 +2023,30 @@
       "duration_ms": 199472,
       "name": "Diamond Therapy",
       "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0Wc6Ik5EgcO3NlYvcIRPxi"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Be Cool",
+          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
+        },
+        {
+          "name": "Alexander Som",
+          "url": "https://open.spotify.com/artist/22tboof8TJ0m7PjeuRzQeW"
+        },
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "duration_ms": 187086,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/6x9z3M0LJ87EZ6AhvgPxL5"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2079,30 +2103,6 @@
       "duration_ms": 177619,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/12zQfnvVvxduyDUfxlw65T"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/0Wc6Ik5EgcO3NlYvcIRPxi"
-      },
-      "artists": [
-        {
-          "name": "Yolanda Be Cool",
-          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
-        },
-        {
-          "name": "Alexander Som",
-          "url": "https://open.spotify.com/artist/22tboof8TJ0m7PjeuRzQeW"
-        },
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        }
-      ],
-      "duration_ms": 187086,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/6x9z3M0LJ87EZ6AhvgPxL5"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2189,22 +2189,6 @@
       "url": "https://open.spotify.com/track/1TCJjzvQn6zaIzckTZiabG"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Freddie's Warmup",
-        "url": "https://open.spotify.com/album/00igoxLQ6l5h5fXz00No8m"
-      },
-      "artists": [
-        {
-          "name": "Vlado",
-          "url": "https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi"
-        }
-      ],
-      "duration_ms": 120930,
-      "name": "Freddie's Warmup",
-      "url": "https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay"
-    },
-    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Ballo",
@@ -2221,6 +2205,22 @@
       "url": "https://open.spotify.com/track/24QACMi7RvevNfpkEoS18p"
     },
     {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Freddie's Warmup",
+        "url": "https://open.spotify.com/album/00igoxLQ6l5h5fXz00No8m"
+      },
+      "artists": [
+        {
+          "name": "Vlado",
+          "url": "https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi"
+        }
+      ],
+      "duration_ms": 120930,
+      "name": "Freddie's Warmup",
+      "url": "https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay"
+    },
+    {
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "I Can't Take No More",
@@ -2235,6 +2235,22 @@
       "duration_ms": 157784,
       "name": "I Can't Take No More",
       "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -2257,22 +2273,6 @@
       "url": "https://open.spotify.com/track/1b8Fw5fYEZHHholqLkqzfX"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
-    },
-    {
       "added_at": "2024-02-09 05:00:00",
       "album": {
         "name": "Done",
@@ -2287,6 +2287,22 @@
       "duration_ms": 185624,
       "name": "Done",
       "url": "https://open.spotify.com/track/49WMXexA9yViG267eOhxGn"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "No Guest List",
+        "url": "https://open.spotify.com/album/6ca7Pb96E9hZh8QFCANfHs"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        }
+      ],
+      "duration_ms": 158906,
+      "name": "No Guest List",
+      "url": "https://open.spotify.com/track/3LKg0CXVZx5ToWLLK7ugHE"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2307,22 +2323,6 @@
       "duration_ms": 120595,
       "name": "Kattapult (James Hype Edit)",
       "url": "https://open.spotify.com/track/1bq0odxoXVY7pJbwk6uLcD"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "No Guest List",
-        "url": "https://open.spotify.com/album/6ca7Pb96E9hZh8QFCANfHs"
-      },
-      "artists": [
-        {
-          "name": "San Pacho",
-          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
-        }
-      ],
-      "duration_ms": 158906,
-      "name": "No Guest List",
-      "url": "https://open.spotify.com/track/3LKg0CXVZx5ToWLLK7ugHE"
     },
     {
       "added_at": "2024-06-21 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "a journey through ephemeral moments",
-  "num_followers": 12246,
+  "num_followers": 12250,
   "original_name": "transience",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpnkwAAAAACjDBEwJU7CJKSVZ4nlnTSu",
+  "snapshot_id": "ZqgXzwAAAACgGFHjuWjJMWLuxYCv2Z1Q",
   "tracks": [
     {
       "added_at": "2022-11-17 23:02:33",
@@ -157,20 +157,20 @@
       "url": "https://open.spotify.com/track/4QqtiaLzHXB1PAIgZVbBWo"
     },
     {
-      "added_at": "2022-01-13 01:08:52",
+      "added_at": "2024-07-29 22:29:35",
       "album": {
-        "name": "Nictitating Membrane (GC164) / Wing Rowing (K08)",
-        "url": "https://open.spotify.com/album/4Kkw0udedWQQjDK12GZEBz"
+        "name": "Yo No Soy Marinero",
+        "url": "https://open.spotify.com/album/7Lg3d27iQnRX3Is6yEXho5"
       },
       "artists": [
         {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
         }
       ],
-      "duration_ms": 150681,
-      "name": "Wing Rowing (K08)",
-      "url": "https://open.spotify.com/track/5yhu9EH05oY5M3wxmqDwwa"
+      "duration_ms": 153249,
+      "name": "La Cuna del Cisne",
+      "url": "https://open.spotify.com/track/5YTa4iuyMjso4skLWLYRe0"
     },
     {
       "added_at": "2024-07-05 03:19:52",
@@ -195,6 +195,22 @@
       "duration_ms": 357705,
       "name": "Onda tropical, I. Rebajado",
       "url": "https://open.spotify.com/track/1eZkkqimRQ4rZx1TqRsYsl"
+    },
+    {
+      "added_at": "2022-01-13 01:08:52",
+      "album": {
+        "name": "Nictitating Membrane (GC164) / Wing Rowing (K08)",
+        "url": "https://open.spotify.com/album/4Kkw0udedWQQjDK12GZEBz"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        }
+      ],
+      "duration_ms": 150681,
+      "name": "Wing Rowing (K08)",
+      "url": "https://open.spotify.com/track/5yhu9EH05oY5M3wxmqDwwa"
     },
     {
       "added_at": "2024-05-23 23:19:14",
@@ -285,22 +301,6 @@
       "url": "https://open.spotify.com/track/5EuanBT58m17JqKxCeqbQI"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "TNT",
-        "url": "https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg"
-      },
-      "artists": [
-        {
-          "name": "Tortoise",
-          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
-        }
-      ],
-      "duration_ms": 284666,
-      "name": "Ten-Day Interval",
-      "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
-    },
-    {
       "added_at": "2022-09-03 03:50:05",
       "album": {
         "name": "Black Earth",
@@ -339,6 +339,22 @@
       "duration_ms": 210000,
       "name": "five",
       "url": "https://open.spotify.com/track/0Xzw9kW28pJfzAwPZTqNPt"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "TNT",
+        "url": "https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg"
+      },
+      "artists": [
+        {
+          "name": "Tortoise",
+          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
+        }
+      ],
+      "duration_ms": 284666,
+      "name": "Ten-Day Interval",
+      "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
     },
     {
       "added_at": "2022-05-18 00:18:47",
@@ -421,22 +437,6 @@
       "url": "https://open.spotify.com/track/41SnX1GhhrekILw4cS8zhc"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Big Sun",
-        "url": "https://open.spotify.com/album/4ML85VhWPuIOtXqR1Dl7TW"
-      },
-      "artists": [
-        {
-          "name": "Chassol",
-          "url": "https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp"
-        }
-      ],
-      "duration_ms": 239200,
-      "name": "Birds, Pt. I",
-      "url": "https://open.spotify.com/track/5GDteA9nob1rnxgE1KFx5l"
-    },
-    {
       "added_at": "2024-06-19 16:43:41",
       "album": {
         "name": "three",
@@ -495,6 +495,22 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
+        "name": "Big Sun",
+        "url": "https://open.spotify.com/album/4ML85VhWPuIOtXqR1Dl7TW"
+      },
+      "artists": [
+        {
+          "name": "Chassol",
+          "url": "https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp"
+        }
+      ],
+      "duration_ms": 239200,
+      "name": "Birds, Pt. I",
+      "url": "https://open.spotify.com/track/5GDteA9nob1rnxgE1KFx5l"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
         "name": "Hex",
         "url": "https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP"
       },
@@ -507,6 +523,22 @@
       "duration_ms": 593866,
       "name": "Pendulum Man",
       "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
+    },
+    {
+      "added_at": "2024-07-05 03:19:52",
+      "album": {
+        "name": "Fight / Flight",
+        "url": "https://open.spotify.com/album/58d5bd7ZjFMidKY1PZnWNi"
+      },
+      "artists": [
+        {
+          "name": "Alex Kozobolis",
+          "url": "https://open.spotify.com/artist/6fsUe68biDsnK9f8G41rNO"
+        }
+      ],
+      "duration_ms": 68853,
+      "name": "Flight",
+      "url": "https://open.spotify.com/track/2rgf48jupb8QsIBLC50J4Z"
     },
     {
       "added_at": "2023-12-12 19:48:08",
@@ -529,22 +561,6 @@
       "url": "https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo"
     },
     {
-      "added_at": "2024-07-05 03:19:52",
-      "album": {
-        "name": "Fight / Flight",
-        "url": "https://open.spotify.com/album/58d5bd7ZjFMidKY1PZnWNi"
-      },
-      "artists": [
-        {
-          "name": "Alex Kozobolis",
-          "url": "https://open.spotify.com/artist/6fsUe68biDsnK9f8G41rNO"
-        }
-      ],
-      "duration_ms": 68853,
-      "name": "Flight",
-      "url": "https://open.spotify.com/track/2rgf48jupb8QsIBLC50J4Z"
-    },
-    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "The Pillow Sisters",
@@ -561,22 +577,6 @@
       "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Millions Now Living Will Never Die",
-        "url": "https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh"
-      },
-      "artists": [
-        {
-          "name": "Tortoise",
-          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
-        }
-      ],
-      "duration_ms": 327826,
-      "name": "Glass Museum",
-      "url": "https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0"
-    },
-    {
       "added_at": "2022-09-03 03:50:05",
       "album": {
         "name": "Black Earth",
@@ -591,6 +591,22 @@
       "duration_ms": 458693,
       "name": "Maximum Black",
       "url": "https://open.spotify.com/track/6RHJvMCoUgQ5CSBFUEL9RI"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Millions Now Living Will Never Die",
+        "url": "https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh"
+      },
+      "artists": [
+        {
+          "name": "Tortoise",
+          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
+        }
+      ],
+      "duration_ms": 327826,
+      "name": "Glass Museum",
+      "url": "https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0"
     },
     {
       "added_at": "2024-04-12 00:45:23",
@@ -689,22 +705,6 @@
       "url": "https://open.spotify.com/track/5HZOBZ7ugfGLcUMmoI9n1Z"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Skalpel",
-        "url": "https://open.spotify.com/album/6fEN3yig9kpmZ0oiJbFRuE"
-      },
-      "artists": [
-        {
-          "name": "Skalpel",
-          "url": "https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q"
-        }
-      ],
-      "duration_ms": 251840,
-      "name": "Theme from 'Behind the Curtain'",
-      "url": "https://open.spotify.com/track/2VeYKsOmvGnN9Wd0RTDPuC"
-    },
-    {
       "added_at": "2022-02-25 04:13:05",
       "album": {
         "name": "Marrow",
@@ -719,6 +719,22 @@
       "duration_ms": 279464,
       "name": "Marrow",
       "url": "https://open.spotify.com/track/5Yazj7mltNE4Dpntdv8ToR"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Skalpel",
+        "url": "https://open.spotify.com/album/6fEN3yig9kpmZ0oiJbFRuE"
+      },
+      "artists": [
+        {
+          "name": "Skalpel",
+          "url": "https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q"
+        }
+      ],
+      "duration_ms": 251840,
+      "name": "Theme from 'Behind the Curtain'",
+      "url": "https://open.spotify.com/track/2VeYKsOmvGnN9Wd0RTDPuC"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -909,22 +925,6 @@
       "url": "https://open.spotify.com/track/05X88treE9dTwwHuJNBCcu"
     },
     {
-      "added_at": "2024-04-12 00:43:48",
-      "album": {
-        "name": "Sharko III",
-        "url": "https://open.spotify.com/album/3H6BhpPQlClUmtmWU64Nf8"
-      },
-      "artists": [
-        {
-          "name": "Sharko",
-          "url": "https://open.spotify.com/artist/5veoEV952L2RgoVqspFtJ5"
-        }
-      ],
-      "duration_ms": 76013,
-      "name": "Stuck T",
-      "url": "https://open.spotify.com/track/1BuhApIz9YlT3vEcQfLxnI"
-    },
-    {
       "added_at": "2022-02-18 04:38:12",
       "album": {
         "name": "atomic bombs atomic bonds i love you",
@@ -939,6 +939,22 @@
       "duration_ms": 327600,
       "name": "atomic bombs atomic bonds i love you",
       "url": "https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt"
+    },
+    {
+      "added_at": "2024-04-12 00:43:48",
+      "album": {
+        "name": "Sharko III",
+        "url": "https://open.spotify.com/album/3H6BhpPQlClUmtmWU64Nf8"
+      },
+      "artists": [
+        {
+          "name": "Sharko",
+          "url": "https://open.spotify.com/artist/5veoEV952L2RgoVqspFtJ5"
+        }
+      ],
+      "duration_ms": 76013,
+      "name": "Stuck T",
+      "url": "https://open.spotify.com/track/1BuhApIz9YlT3vEcQfLxnI"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1319,22 +1335,6 @@
       "duration_ms": 1088375,
       "name": "Mira",
       "url": "https://open.spotify.com/track/2fnOqI8zN1VYYlup3H1zJS"
-    },
-    {
-      "added_at": "2022-09-30 02:23:59",
-      "album": {
-        "name": "Marilene (Somewhere in Texas)",
-        "url": "https://open.spotify.com/album/77JuxMNZxYkDmhDzFywvn7"
-      },
-      "artists": [
-        {
-          "name": "Gigi Masin",
-          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
-        }
-      ],
-      "duration_ms": 475734,
-      "name": "Marilene - Somewhere in Texas",
-      "url": "https://open.spotify.com/track/6jVbgzKpU5TV5Vijk7TD37"
     }
   ],
   "unique_name": "transience",

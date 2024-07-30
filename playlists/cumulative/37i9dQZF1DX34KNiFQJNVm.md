@@ -2,7 +2,7 @@
 
 ### [Novidades da Semana](https://open.spotify.com/playlist/37i9dQZF1DX34KNiFQJNVm)
 
-> Os lançamentos dessa semana incluem Mari Fernandez com Zé Felipe, KayBlack, BIN e muito mais!
+> Os lançamentos dessa semana incluem POCAH, Kevi Jonny com Matheus & Kauan e muito mais!
 
 11,448 songs - 24 day 4 hr 49 min
 

@@ -1129,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "Yo No Soy Marinero",
+        "url": "https://open.spotify.com/album/7Lg3d27iQnRX3Is6yEXho5"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153249,
+      "name": "La Cuna del Cisne",
+      "url": "https://open.spotify.com/track/5YTa4iuyMjso4skLWLYRe0"
+    },
+    {
+      "album": {
         "name": "La danse",
         "url": "https://open.spotify.com/album/3YvjIS6Pk5F3vO0dvs8LPB"
       },

@@ -4,7 +4,7 @@
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-166 songs - 11 hr 11 min
+167 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Joy Spring](https://open.spotify.com/track/2oMaXY0yiWhAEWD7SutXh2) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Clifford Brown And Max Roach](https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG) | 6:50 | 2021-12-16 |  |
 | [Jump Up](https://open.spotify.com/track/2N4oRvZUu8RWkjdBjLQJKt) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR), [The Three Sounds](https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi) | [LD+3](https://open.spotify.com/album/7LI05bZ0W1MaDccphFQqzj) | 6:37 | 2021-12-16 | 2022-01-14 |
 | [Just You, Just Me](https://open.spotify.com/track/0Dvn6bjMSqv2N50h1AESbu) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 2:24 | 2021-12-16 |  |
-| [Le Coiffeur](https://open.spotify.com/track/2dk9zmPIOjVXhUgeLgfKNU) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 7:02 | 2021-12-16 |  |
+| [Le Coiffeur](https://open.spotify.com/track/2dk9zmPIOjVXhUgeLgfKNU) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 7:02 | 2021-12-16 | 2024-07-30 |
 | [Lester Leaps In \- Remastered 2007/Rudy Van Gelder Edition](https://open.spotify.com/track/2Obs77V8lAuS1v0UK4eSDV) | [Eddie "Lockjaw" Davis](https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i), [Buddy Tate](https://open.spotify.com/artist/6epXhvywkJ2aWjO6e5LJ0U), [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Arnett Cobb](https://open.spotify.com/artist/6ui4w9G4l3CxehFTGTQtPX) | [Very Saxy \(Rudy Van Gelder Remasters\)](https://open.spotify.com/album/5m6ee2VB6ii18zIqlsx6Va) | 6:12 | 2024-06-03 |  |
 | [Let Me Take You for a Walk](https://open.spotify.com/track/1zcCvJeGmcLQFfYHlcDnf1) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Sun of June](https://open.spotify.com/album/6TlZkjAIMdUs3jOkafcrh4) | 5:06 | 2022-11-17 | 2024-04-19 |
 | [Let's Call The Whole Thing Off](https://open.spotify.com/track/6NDaYWg85ZnJ3Ae0WkILWh) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 4:11 | 2022-09-01 | 2023-02-08 |
@@ -151,6 +151,7 @@
 | [The Feeling is Mutual](https://open.spotify.com/track/6hRotep2BbjGYmHHjj6soQ) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [The Feeling is Mutual](https://open.spotify.com/album/0NiWeiNpFi6hBoPJ7NCmHk) | 4:14 | 2022-05-19 |  |
 | [The Lady Is A Tramp](https://open.spotify.com/track/3nAemrbXMrnBEHElLvwcIX) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Love, Ella](https://open.spotify.com/album/1y5KGkUKO0NG32MhIIagCA) | 3:21 | 2021-12-16 | 2022-10-20 |
 | [The Lemonade Song](https://open.spotify.com/track/5eAJSGOYirIncdKsFF2m6x) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [The Lemonade Song](https://open.spotify.com/album/0kO0MoMp04oGJzEJDwT7r0) | 2:34 | 2021-12-16 | 2022-06-09 |
+| [The Maids of Cadiz](https://open.spotify.com/track/4bWBoq1eRtKWzJfkyuGGFm) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr), [Jan Lundgren](https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI) | [The Maids of Cadiz](https://open.spotify.com/album/6RcW99RU60XhcZl2bqA29j) | 6:17 | 2024-07-26 |  |
 | [The Moon Is Made of Gold](https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi) | [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [Balm in Gilead](https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e) | 3:00 | 2021-12-16 |  |
 | [The More I See You \- Rudy Van Gelder Edition](https://open.spotify.com/track/42iATJYN5S908wQMReeDkV) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Roll Call](https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7) | 6:47 | 2022-05-25 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/4jCoxXaEKeTWkQ7HL1d5de) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Two Of A Mind](https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn) | 7:21 | 2022-06-28 | 2022-11-09 |

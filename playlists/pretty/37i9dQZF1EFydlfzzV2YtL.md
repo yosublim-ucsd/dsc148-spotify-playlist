@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,323 likes - 164 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,322 likes - 164 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 97 | [Silence](https://open.spotify.com/track/5xRXGn1oGliR7DdL6GSyUA) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [THE S\(EX\) TAPES \[Extended\]](https://open.spotify.com/album/6hhMIHEN6xFMs8Ylj5Bvkj) | 2:36 |
 | 98 | [Something To Hold On To](https://open.spotify.com/track/4dUDznt8BZxEK4CMLF1pqB) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:38 |
 | 99 | [Hurt By You](https://open.spotify.com/track/2p0lczXtvV9R5J9aFwjevJ) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:07 |
-| 100 | [Open Up \(Dis Le Moi\)](https://open.spotify.com/track/2hGOs9C4qwQ3rsTACjbPDA) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Lola Dubini](https://open.spotify.com/artist/2x75QYHxdSfn3aPchQkJGc) | [Open Up \(Dis Le Moi\)](https://open.spotify.com/album/5eymzLKtLKptq8XfFr0fXY) | 2:48 |
-| 101 | [Easy To Miss](https://open.spotify.com/track/0wmHqFVoBT0vjDSilB6R2M) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody's Born With A Broken Heart](https://open.spotify.com/album/34AFxONmJ08r2blbMQCNXj) | 2:49 |
+| 100 | [Easy To Miss](https://open.spotify.com/track/0wmHqFVoBT0vjDSilB6R2M) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody's Born With A Broken Heart](https://open.spotify.com/album/34AFxONmJ08r2blbMQCNXj) | 2:49 |
+| 101 | [Open Up \(Dis Le Moi\)](https://open.spotify.com/track/2hGOs9C4qwQ3rsTACjbPDA) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Lola Dubini](https://open.spotify.com/artist/2x75QYHxdSfn3aPchQkJGc) | [Open Up \(Dis Le Moi\)](https://open.spotify.com/album/5eymzLKtLKptq8XfFr0fXY) | 2:48 |
 | 102 | [Villa](https://open.spotify.com/track/0DHHH5p8RtNcKMkNdZvgpw) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ) | [Bad Intentions](https://open.spotify.com/album/4F1ozgQLd1ouFs63Tndy6Q) | 3:01 |
 | 103 | [Are We Alone?](https://open.spotify.com/track/4XFERj1ZN9fknrjMTkDOU6) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [How Will You Know If You Never Try](https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe) | 3:23 |
 | 104 | [Already Gone \(feat\. Emily Warren\)](https://open.spotify.com/track/2PQxXvYHGCGF6qXx2xL24V) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [For Love EP](https://open.spotify.com/album/2iScKyaNw1LL46ZYuJt4fD) | 3:58 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 163 | [Like That](https://open.spotify.com/track/0jFF83NzwA74b6xmTkqT0U) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:17 |
 | 164 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 
-Snapshot ID: `AbX73gAAAABAjqn5XpBUPutbBP0UWXC3`
+Snapshot ID: `AbYBfgAAAACxFNCqSxJDIiW5PKStaMkg`

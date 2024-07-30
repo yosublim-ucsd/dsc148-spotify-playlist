@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-1,541 songs - 2 day 19 hr 23 min
+1,542 songs - 2 day 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1169,6 +1169,7 @@
 | [RTAS](https://open.spotify.com/track/0Mao2we09TRrQshpxDYAXp) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [RTAS](https://open.spotify.com/album/70RnlMDQE7FBMx29ZFtNqW) | 2:11 | 2023-07-06 | 2023-09-29 |
 | [Runt Bordet](https://open.spotify.com/track/5D1vMZ02SPGYU3212jmBBq) | [Lucaz](https://open.spotify.com/artist/7n2WwvF0ngNkWVvh7EW6IZ), [T.G Boogie](https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d) | [Runt Bordet](https://open.spotify.com/album/53Rb4cJmKhu4Olebai8TIO) | 2:16 | 2023-05-25 | 2023-07-07 |
 | [Rädda mig](https://open.spotify.com/track/412YYGmYAYGhQUycB3GPoc) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ), [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Rädda mig](https://open.spotify.com/album/6NyE3oHY83RrfypKR1FFbu) | 2:23 | 2022-12-08 | 2023-03-18 |
+| [RÄTT & FEL](https://open.spotify.com/track/179XVuqKFmRH2uYHe1JAcI) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [RÄTT & FEL](https://open.spotify.com/album/3JwpRGw1884mK1G1Cw4lYE) | 2:19 | 2024-07-29 |  |
 | [Röd Laser](https://open.spotify.com/track/3hVHWx8UILDq3tSEg5trOZ) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Röd Laser](https://open.spotify.com/album/4XQSMJeqCRczYBbhW7pE3P) | 2:11 | 2022-09-12 | 2022-10-28 |
 | [Röda Samtal](https://open.spotify.com/track/5fx4lG4wgbHX0Qp7p88iW9) | [PreGame](https://open.spotify.com/artist/0MeqrNMZbF4Nv9HCwmi0qC) | [Röda Samtal](https://open.spotify.com/album/3VcSIismoBASpN6h91w8TU) | 2:04 | 2023-08-24 | 2023-09-20 |
 | [Rösten](https://open.spotify.com/track/0CosqxAwNE3c9HGwPuGxey) | [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN), [Cestar](https://open.spotify.com/artist/1p5MGlN01vwR008ce7818d) | [Rösten](https://open.spotify.com/album/5V96peNSzY61RsILw3pu17) | 2:47 | 2023-08-03 | 2023-09-08 |

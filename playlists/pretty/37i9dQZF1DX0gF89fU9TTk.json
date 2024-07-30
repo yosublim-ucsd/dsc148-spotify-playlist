@@ -1,6 +1,6 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: <spotify:artist:0qZ8aSF0iMCQI99AAXikF8\">ELEVATION RHYTHM</a>",
-  "num_followers": 134021,
+  "num_followers": 134054,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H"
+      },
+      "artists": [
+        {
+          "name": "Gateway Youth",
+          "url": "https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM"
+        }
+      ],
+      "duration_ms": 200324,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
         "name": "Introspection",
         "url": "https://open.spotify.com/album/04kCPiYgaj7QN3wdaZbXMV"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 211960,
       "name": "Introspection",
       "url": "https://open.spotify.com/track/4bWIOGHOtUP2RGFulZLFCo"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H"
-      },
-      "artists": [
-        {
-          "name": "Gateway Youth",
-          "url": "https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM"
-        }
-      ],
-      "duration_ms": 200324,
-      "name": "Earth",
-      "url": "https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Yes He Does",
-        "url": "https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 206606,
-      "name": "Yes He Does",
-      "url": "https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Break Out",
         "url": "https://open.spotify.com/album/6fHknY4BtYJ5qQ0AgK42wV"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 235580,
       "name": "Break Out - Studio Single",
       "url": "https://open.spotify.com/track/11aBOrLAA0yjNooqF3eWW8"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Yes He Does",
+        "url": "https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 206606,
+      "name": "Yes He Does",
+      "url": "https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Out With The Old (Live)",
-        "url": "https://open.spotify.com/album/4ol0uz7qLTMUVytyNIzTCW"
-      },
-      "artists": [
-        {
-          "name": "planetboom",
-          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
-        }
-      ],
-      "duration_ms": 226513,
-      "name": "Out With The Old - Live",
-      "url": "https://open.spotify.com/track/2vAuPGpj2b2yOBW61If0E0"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Zeal (allskate remix)",
         "url": "https://open.spotify.com/album/4fUccHGUHkLJA87XzAoNEm"
       },
@@ -799,26 +783,18 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Father, Son and Holy Ghost",
-        "url": "https://open.spotify.com/album/7gXMkLx45jfDEZuw8zwJQk"
+        "name": "Out With The Old (Live)",
+        "url": "https://open.spotify.com/album/4ol0uz7qLTMUVytyNIzTCW"
       },
       "artists": [
         {
-          "name": "Ocean & The Ghost",
-          "url": "https://open.spotify.com/artist/3ytwqUISAunRjhTvQwNTQg"
-        },
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Abbie Gamboa",
-          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+          "name": "planetboom",
+          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
         }
       ],
-      "duration_ms": 245248,
-      "name": "Father, Son and Holy Ghost",
-      "url": "https://open.spotify.com/track/2AMk9AgjMvsIKbTvsT2bSE"
+      "duration_ms": 226513,
+      "name": "Out With The Old - Live",
+      "url": "https://open.spotify.com/track/2vAuPGpj2b2yOBW61If0E0"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -855,6 +831,30 @@
       "duration_ms": 243509,
       "name": "Keep In Step - Live",
       "url": "https://open.spotify.com/track/1sGVoxezS8GxpH3caseKg2"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Father, Son and Holy Ghost",
+        "url": "https://open.spotify.com/album/7gXMkLx45jfDEZuw8zwJQk"
+      },
+      "artists": [
+        {
+          "name": "Ocean & The Ghost",
+          "url": "https://open.spotify.com/artist/3ytwqUISAunRjhTvQwNTQg"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "duration_ms": 245248,
+      "name": "Father, Son and Holy Ghost",
+      "url": "https://open.spotify.com/track/2AMk9AgjMvsIKbTvsT2bSE"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Desert River",
-        "url": "https://open.spotify.com/album/7gN9awdgR8kiB5ruwrGJS4"
-      },
-      "artists": [
-        {
-          "name": "Equippers Worship",
-          "url": "https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1"
-        }
-      ],
-      "duration_ms": 196653,
-      "name": "More Than Enough",
-      "url": "https://open.spotify.com/track/0Uoz45N2pYmBBSezCRT4In"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Vol 1",
         "url": "https://open.spotify.com/album/0Dgm0ZiKnnlLTcaKOi3WBI"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 250360,
       "name": "Lay My Life Down",
       "url": "https://open.spotify.com/track/0TiZq0k9qa5ert1tToofZX"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Desert River",
+        "url": "https://open.spotify.com/album/7gN9awdgR8kiB5ruwrGJS4"
+      },
+      "artists": [
+        {
+          "name": "Equippers Worship",
+          "url": "https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1"
+        }
+      ],
+      "duration_ms": 196653,
+      "name": "More Than Enough",
+      "url": "https://open.spotify.com/track/0Uoz45N2pYmBBSezCRT4In"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Holding on to Me",
-        "url": "https://open.spotify.com/album/5V02N3G7e4Lle1myANHLCI"
-      },
-      "artists": [
-        {
-          "name": "Calling Glory",
-          "url": "https://open.spotify.com/artist/77Ide50jAEqgy2kRn2Nmc0"
-        }
-      ],
-      "duration_ms": 231645,
-      "name": "Holding on to Me",
-      "url": "https://open.spotify.com/track/0NBJe10Be0dfgUT09eTk7H"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Go Tell The World / Overflow (Live)",
         "url": "https://open.spotify.com/album/5bRgF2e7mpKj0nM0hsf26k"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 200133,
       "name": "Go Tell The World - Live",
       "url": "https://open.spotify.com/track/0zS1ePx7XKEo9XFdIMccHN"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Holding on to Me",
+        "url": "https://open.spotify.com/album/5V02N3G7e4Lle1myANHLCI"
+      },
+      "artists": [
+        {
+          "name": "Calling Glory",
+          "url": "https://open.spotify.com/artist/77Ide50jAEqgy2kRn2Nmc0"
+        }
+      ],
+      "duration_ms": 231645,
+      "name": "Holding on to Me",
+      "url": "https://open.spotify.com/track/0NBJe10Be0dfgUT09eTk7H"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Space God (Live)",
-        "url": "https://open.spotify.com/album/1dKi7MRpG4qcuJXPHEmPVZ"
-      },
-      "artists": [
-        {
-          "name": "Metro Collective Worship",
-          "url": "https://open.spotify.com/artist/3v3nuJodbuZr1ofB6Aqzrn"
-        }
-      ],
-      "duration_ms": 227250,
-      "name": "Space God - Live",
-      "url": "https://open.spotify.com/track/3NYEyiTHTZPp9CDNBzNEv9"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "You Are Here",
         "url": "https://open.spotify.com/album/3yIgUz5UgZZtWw76FTbYSa"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 276006,
       "name": "You Are Here (Studio)",
       "url": "https://open.spotify.com/track/567dVhDLaA5Opwh557ZSAo"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Space God (Live)",
+        "url": "https://open.spotify.com/album/1dKi7MRpG4qcuJXPHEmPVZ"
+      },
+      "artists": [
+        {
+          "name": "Metro Collective Worship",
+          "url": "https://open.spotify.com/artist/3v3nuJodbuZr1ofB6Aqzrn"
+        }
+      ],
+      "duration_ms": 227250,
+      "name": "Space God - Live",
+      "url": "https://open.spotify.com/track/3NYEyiTHTZPp9CDNBzNEv9"
     },
     {
       "added_at": "2024-06-25 03:27:03",

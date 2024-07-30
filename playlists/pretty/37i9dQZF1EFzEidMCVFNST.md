@@ -290,8 +290,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 280 | [Coração Sem Coração \- Ao Vivo](https://open.spotify.com/track/7HkmL5pIL8tRIS3eR451rw) | [PH e Michel](https://open.spotify.com/artist/2K4WKKLOh0k8NwbzDRgIqi) | [Nova História \(Ao Vivo\)](https://open.spotify.com/album/3Ul7XitH9jyzFBl7H9qo8Y) | 2:42 |
 | 281 | [Só Quero Te Ouvir Falar](https://open.spotify.com/track/1tedgYQ4PqYiVhCuOekeb4) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Cabrera](https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2) | [Só Quero Te Ouvir Falar](https://open.spotify.com/album/2N7ntTLi6QT7eSt58yYPrU) | 2:12 |
 | 282 | [Tome em Dobro \- Ao Vivo](https://open.spotify.com/track/7FR5edySOAl7pWYXYACQxT) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/3xARTbC8AX5eSYmmdTEcVT) | 3:04 |
-| 283 | [Ela Só Quer Dançar](https://open.spotify.com/track/6UkAgJQ8jOzjmLEtioHFDv) | [Juccas](https://open.spotify.com/artist/5LmURMRHOHzltNHdQgOLVH) | [Juccas](https://open.spotify.com/album/5uhMXLSu7mke6zGSveWl5w) | 2:55 |
-| 284 | [Só Mais uma Vez](https://open.spotify.com/track/0YCitdMV92FN2z9ALuPbZm) | [Relber & Allan](https://open.spotify.com/artist/5fmbAOW4NPz1TY2cRg25ec) | [Ao Vivo em Ipatinga](https://open.spotify.com/album/3tRQwceVDVtPaRoFxpMaOQ) | 3:53 |
+| 283 | [Só Mais uma Vez](https://open.spotify.com/track/0YCitdMV92FN2z9ALuPbZm) | [Relber & Allan](https://open.spotify.com/artist/5fmbAOW4NPz1TY2cRg25ec) | [Ao Vivo em Ipatinga](https://open.spotify.com/album/3tRQwceVDVtPaRoFxpMaOQ) | 3:53 |
+| 284 | [Ela Só Quer Dançar](https://open.spotify.com/track/6UkAgJQ8jOzjmLEtioHFDv) | [Juccas](https://open.spotify.com/artist/5LmURMRHOHzltNHdQgOLVH) | [Juccas](https://open.spotify.com/album/5uhMXLSu7mke6zGSveWl5w) | 2:55 |
 | 285 | [Deu a Louca Nessa Raba](https://open.spotify.com/track/5UZIU262qdyMcE0n8z0Icj) | [Thamy](https://open.spotify.com/artist/5NUcO47R7xlNLpeQiHhqol), [Edu Donna](https://open.spotify.com/artist/3O7If1JfH3Fgjr9qmN1T3d) | [Deu a Louca Nessa Raba](https://open.spotify.com/album/2SqYJWJW7kwQTRV7ftpaB5) | 2:33 |
 | 286 | [Exemplo](https://open.spotify.com/track/3arTCOZ3JP84zaB4v5gMSM) | [Ruanzinho](https://open.spotify.com/artist/3F6YQLCVjGIS7MHQnFOd61) | [Confissões de um Apaixonado](https://open.spotify.com/album/4dJWLnArL6r95Li2hBHtu1) | 3:32 |
 | 287 | [Palavras Não Amam \- Ao Vivo](https://open.spotify.com/track/09deR4vwLCYErfYjXoETxj) | [Maria Cecília & Rodolfo](https://open.spotify.com/artist/1oOTUMbydEi6ogss5Klsom) | [Em Fases \(Ao Vivo\)](https://open.spotify.com/album/20NsobT5lxHSvdbOmi24kF) | 2:42 |
@@ -364,4 +364,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 354 | [A Mala](https://open.spotify.com/track/63c83YDpAv9lNMki7WxpvD) | [Banda Os3](https://open.spotify.com/artist/11h78bXFcmu3cQrNsRSulG) | [A Mala](https://open.spotify.com/album/4g6F3WuVRHQVHQSKaDxVmK) | 2:44 |
 | 355 | [Ciúme Doido](https://open.spotify.com/track/02ci6a7onTK8CT6NEn6XoY) | [Caúzzo](https://open.spotify.com/artist/7ITxrki6AXPCK5mnUSTs1O) | [Ciúme Doido](https://open.spotify.com/album/3fA6Nv5mzfzGc9hcESbkh6) | 2:57 |
 
-Snapshot ID: `AbX73gAAAACg4ncpXm4Vs3quR3g/EF04`
+Snapshot ID: `AbYBfgAAAABnFu6AriAq6vJd4Q8de+G+`

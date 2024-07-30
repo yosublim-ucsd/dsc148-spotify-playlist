@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-552 songs - 2 day 4 hr 37 min
+553 songs - 2 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Coconut Mango](https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj) | [Arrangement](https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e) | [Coconut Mango](https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj) | 5:25 | 2021-10-06 |  |
 | [Comfort Chain](https://open.spotify.com/track/0Db8f7uikjXxH3qHe0UKoW) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/01qVg4PWWaeremZOHDVRS1) | 3:04 | 2022-03-30 | 2024-04-19 |
 | [Comfort Chain](https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK) | 3:04 | 2022-03-30 | 2023-06-18 |
-| [Concise](https://open.spotify.com/track/4H0wNqcWYEZBW94oBygF0k) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Tim Story](https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc) | [Lunz 3](https://open.spotify.com/album/4tTZ05DMgT3Y4Mpc72AyLC) | 2:43 | 2021-10-06 |  |
+| [Concise](https://open.spotify.com/track/4H0wNqcWYEZBW94oBygF0k) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Tim Story](https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc) | [Lunz 3](https://open.spotify.com/album/4tTZ05DMgT3Y4Mpc72AyLC) | 2:43 | 2021-10-06 | 2024-07-30 |
 | [Consumed \(In Key\)](https://open.spotify.com/track/0eJxW0WKebD7r7f1RHRqp6) | [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy), [Plastikman](https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n), [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83) | [Consumed In Key](https://open.spotify.com/album/00dUezlxTHmpfW165QLbEW) | 11:34 | 2022-04-07 | 2022-07-29 |
 | [Creatura](https://open.spotify.com/track/3HwM404FecueIoHgUGl6b1) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Natura](https://open.spotify.com/album/1ZCpJ8e52gDDTWL5UMr5Dm) | 4:12 | 2022-04-09 | 2022-07-29 |
 | [Crystal Candles for Magical Days \- Kathia Rudametkin Remix](https://open.spotify.com/track/6dVZD0tFFz0XoX5sCmMIQp) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb), [Kathia Rudametkin](https://open.spotify.com/artist/4Jfq4lRAxklhQdmQNIboBp) | [Dreamy Hamilton \(Remixes\)](https://open.spotify.com/album/4X40gozRTAuJrosoKxf9M6) | 7:57 | 2022-12-20 | 2023-02-15 |
@@ -391,6 +391,7 @@
 | [Right Right Right](https://open.spotify.com/track/4eHxj67kulo8NO4l7RexJl) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72) | 7:25 | 2022-07-08 | 2023-01-10 |
 | [Right Right Right](https://open.spotify.com/track/6L7bf5DjI6xolumK6fkMwL) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Right Right Right](https://open.spotify.com/album/11dyjZEqT2IYvosQUqnYG4) | 7:25 | 2022-07-08 | 2022-09-19 |
 | [Ripples](https://open.spotify.com/track/77Ym3LUFp9h8IEfNgsikM5) | [下村真一](https://open.spotify.com/artist/3SdUSWIfgDNcjPXuxM5a97) | [みぞうふく](https://open.spotify.com/album/6i7TYq9zinFSMVMHWnri0y) | 6:28 | 2022-10-01 | 2022-10-15 |
+| [RITUAL \(palace\)](https://open.spotify.com/track/23glDLdns3JnzpaFdY8eH8) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn) | [RITUAL \(palace\)](https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U) | 5:55 | 2024-07-29 |  |
 | [Rivers That You Cannot See](https://open.spotify.com/track/26bA7q3YUyxrGwftjN1Z7K) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Roped In](https://open.spotify.com/album/2TWvHZBa5cru4yanQijv5I) | 3:55 | 2021-10-06 |  |
 | [Roam](https://open.spotify.com/track/6oYjrjG8hRNSIciAqD8rSs) | [BlankFor.ms](https://open.spotify.com/artist/615yNPoQmv8zHJUSZxDr6E), [Colloboh](https://open.spotify.com/artist/0o0jvQAplepjQaJYbXCEVl) | [Roam](https://open.spotify.com/album/3RUlErZZOPYcIudrHC6XAb) | 4:28 | 2022-10-14 | 2022-10-28 |
 | [Rocky Mountains](https://open.spotify.com/track/46onaZFYtcf0JDnLggx7yT) | [Wendy Carlos](https://open.spotify.com/artist/5MmXZQUGs0eXP5PV79iKrB), [Rachel Elkind](https://open.spotify.com/artist/26WQwAYoinO6Cda6Gwy7yR) | [The Shining \(Selections from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7eA1RWzxtmV8x4DO1IKHfI) | 2:53 | 2022-10-14 | 2022-10-28 |

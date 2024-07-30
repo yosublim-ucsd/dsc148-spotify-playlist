@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-604 songs - 1 day 17 hr 54 min
+606 songs - 1 day 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,7 +312,8 @@
 | [Love Can Do That](https://open.spotify.com/track/2OKK2s7XOjqsfwMErdbi7G) | [Elaine Paige](https://open.spotify.com/artist/7KckozT8XPOqtgJjpAcrnA) | [Love Can Do That](https://open.spotify.com/album/269hwhejxSAHEk91uGaVaA) | 4:26 | 2023-12-30 |  |
 | [Love Can Move Mountains](https://open.spotify.com/track/26y7efaUQkdbl5ouBQMHu1) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [All The Way..\. A Decade Of Song](https://open.spotify.com/album/6NXCAZgAzjPmueK0ZgYgba) | 3:58 | 2023-12-30 |  |
 | [Love Cuts Deep](https://open.spotify.com/track/39puNJ8CncH1zTMeBgNAEb) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 3:48 | 2023-12-30 |  |
-| [Love Found Me](https://open.spotify.com/track/3oz3Pj7rbhiFnZPak0GGyp) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Renaissance \(Boxset\)](https://open.spotify.com/album/2nXdt2kzRDGDTDbrudfms9) | 4:39 | 2023-12-30 |  |
+| [Love Found Me](https://open.spotify.com/track/3oz3Pj7rbhiFnZPak0GGyp) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Renaissance \(Boxset\)](https://open.spotify.com/album/2nXdt2kzRDGDTDbrudfms9) | 4:39 | 2023-12-30 | 2024-07-30 |
+| [Love Found Me](https://open.spotify.com/track/4Hr7JlMioKQK8SFjT4l5ea) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Bad Girls](https://open.spotify.com/album/6U8lKtn8JrqnUsnE3tTP6r) | 4:39 | 2024-07-29 |  |
 | [Love Is a Wonderful Thing](https://open.spotify.com/track/2LCIRBYUBMFy9hL81qthi1) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Time, Love & Tenderness](https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm) | 4:42 | 2024-07-10 |  |
 | [Love Is All That Matters](https://open.spotify.com/track/1lieKlQXApNKa5RqNGUpOa) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Every Day Is a New Day](https://open.spotify.com/album/06Oz3WGqsrMwHz4VmtUORF) | 4:10 | 2023-12-30 |  |
 | [Love Is Like A Drug](https://open.spotify.com/track/52ogSPjOwsAnUddLs1pC26) | [Linda Teodosiu](https://open.spotify.com/artist/3WQjKUnRZKZWFuHQKx6Afh) | [Under Pressure](https://open.spotify.com/album/6Ke46Z5FisAAuMtH7IK8de) | 3:22 | 2023-12-30 |  |
@@ -358,7 +359,8 @@
 | [Next Plane Out](https://open.spotify.com/track/1p9CqOzaTceVjCy2DR1Tn0) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:57 | 2023-12-30 |  |
 | [Ni un Segundo Quiero Perder](https://open.spotify.com/track/61vudQgu4m5kiz0QpwGUFY) | [Barilari](https://open.spotify.com/artist/0bEinswrM8NYuppKnMljIg) | [Canciones Doradas](https://open.spotify.com/album/1wsnUNgL7SJVZ04vmCV405) | 5:02 | 2024-07-10 |  |
 | [Nic Nás Nezastaví](https://open.spotify.com/track/027HCxtutlZLuErAbNKOoi) | [Karel Gott](https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM), [Gabriela Gunčíková](https://open.spotify.com/artist/1hP5sHxrXXIEoobF4EGcie) | [Dotek Lásky](https://open.spotify.com/album/4xLycbbzp5p1gxGR7YZMtd) | 3:51 | 2023-12-30 |  |
-| [No Cambies Nunca](https://open.spotify.com/track/1OJWlKLKnn08aK89mr44I6) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Renaissance \(Boxset\)](https://open.spotify.com/album/2nXdt2kzRDGDTDbrudfms9) | 4:38 | 2023-12-30 |  |
+| [No Cambies Nunca](https://open.spotify.com/track/1OJWlKLKnn08aK89mr44I6) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Renaissance \(Boxset\)](https://open.spotify.com/album/2nXdt2kzRDGDTDbrudfms9) | 4:38 | 2023-12-30 | 2024-07-30 |
+| [No Cambies Nunca](https://open.spotify.com/track/2U0clXQyTV2lxmeKIWshkl) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Chicas Malas](https://open.spotify.com/album/2VHB7b8lO8ha35k3u8jtdo) | 4:38 | 2024-07-29 |  |
 | [No Doubt About It](https://open.spotify.com/track/6tLOzrwr95TUmRALKXnWfN) | [Touch](https://open.spotify.com/artist/3nAHXZZGsY3Mgjuh5qv7UG) | [Hot Chocolate](https://open.spotify.com/album/5ZcR4RP2d9H3ZEDlLwmlGX) | 4:40 | 2024-07-24 |  |
 | [No Fool No More](https://open.spotify.com/track/1RhaF2Eq1Zg1zR1MIaY9I1) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48), [Mick Guzauski](https://open.spotify.com/artist/5kBkJhHwbshC3wJJphhkMz) | [Best Of](https://open.spotify.com/album/1dVhczEhJUyJpao75GZkA2) | 4:17 | 2023-12-30 |  |
 | [No Known Cure](https://open.spotify.com/track/7ahbAPouPlckdehl0ilTy4) | [Jamali](https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0) | [Yours Fatally](https://open.spotify.com/album/7dQkn95399PE46yHU2f0Nv) | 3:32 | 2024-07-10 |  |

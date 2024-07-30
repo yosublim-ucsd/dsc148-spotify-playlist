@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 513 songs - 1 day 9 hr 51 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 514 songs - 1 day 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -521,5 +521,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 511 | [Sunrise](https://open.spotify.com/track/3gaH8NE0t7SBKhUIjv0SYv) | [Yeasayer](https://open.spotify.com/artist/04HvbIwBccFmRie5ATX4ft) | [All Hour Cymbals](https://open.spotify.com/album/6mVyKlhq3v2IHeksO38syx) | 4:06 |
 | 512 | [Native Belle](https://open.spotify.com/track/28N9Albx54zeZwhccbk3qR) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Ark](https://open.spotify.com/album/7Mpy0YPUymmzOopyQrMXw5) | 3:52 |
 | 513 | [Gostar do Mundo](https://open.spotify.com/track/4JFbDXnpgNLxX83jJytV15) | [Sessa](https://open.spotify.com/artist/6ijeN3MhwnbRfo86gH5McZ) | [Estrela Acesa](https://open.spotify.com/album/6INpt0l0lIDYZKAKO8vIC5) | 2:21 |
+| 514 | [Dreaming, backwards](https://open.spotify.com/track/5rYwlaFTyCKfkwOJKbjTp1) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Turbulence](https://open.spotify.com/album/3KgzhcQdPTZOkIXHuxpiYH) | 3:33 |
 
-Snapshot ID: `AAAGSdgoGUsiuRQLQa1ri3Nd9NnRoL3b`
+Snapshot ID: `AAAGSpt4YWdrtUbXOZcIv/gHGllDiEyD`

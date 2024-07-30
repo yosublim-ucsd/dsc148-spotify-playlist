@@ -1,12 +1,12 @@
 {
-  "description": "This is ClariS. The essential tracks, all in one playlist.",
+  "description": "This is ClariS\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
   "num_followers": 19239,
   "original_name": "This Is ClariS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAAA10obFt+c7KYz+RSWTbc45",
+  "snapshot_id": "ZqWKAAAAAABkR/ULF+RdTzlCetLwCtM8",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Masquerade",
-        "url": "https://open.spotify.com/album/0pd3XK1IV3sHiJeQYselxG"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 237730,
-      "name": "Masquerade",
-      "url": "https://open.spotify.com/track/2NZ0LH20J4E7XiHdTMPsm5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SHIORI",
         "url": "https://open.spotify.com/album/00paTaIXU1wa5JRcpZE21q"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 341746,
       "name": "\u541b\u306e\u77e5\u3089\u306a\u3044\u7269\u8a9e",
       "url": "https://open.spotify.com/track/4LggOGijGZuwoiYBXKoPM0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/0pd3XK1IV3sHiJeQYselxG"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 237730,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/2NZ0LH20J4E7XiHdTMPsm5"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
         }
       ],
-      "duration_ms": 242426,
-      "name": "\u672a\u6765\u822a\u8def",
-      "url": "https://open.spotify.com/track/331BiE6TuMyXIS1scMjPR9"
+      "duration_ms": 223306,
+      "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/5lNM7MBQz4IKHCuPec3mYx"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
         }
       ],
-      "duration_ms": 223306,
-      "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/5lNM7MBQz4IKHCuPec3mYx"
+      "duration_ms": 242426,
+      "name": "\u672a\u6765\u822a\u8def",
+      "url": "https://open.spotify.com/track/331BiE6TuMyXIS1scMjPR9"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ClariS 10th Anniversary BEST - Pink Moon -",
-        "url": "https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 259213,
-      "name": "irony -season 02-",
-      "url": "https://open.spotify.com/track/6TrMn2s2KGLq00pQZNM5FB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fight!!",
         "url": "https://open.spotify.com/album/60l2pA1I8kZMLL74TxVyBV"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 228906,
       "name": "\u604b\u5f85\u304b\u3050\u3084",
       "url": "https://open.spotify.com/track/5ep05xtwwRBQWoFlkCBezI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ClariS 10th Anniversary BEST - Pink Moon -",
+        "url": "https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 259213,
+      "name": "irony -season 02-",
+      "url": "https://open.spotify.com/track/6TrMn2s2KGLq00pQZNM5FB"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u3075\u3049\u308a\u3089",
-        "url": "https://open.spotify.com/album/3ah4RPsC1U9fGp3sSLdtsi"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "\u541b\u8272",
-      "url": "https://open.spotify.com/track/62AcHFZEOPip5hGuaKoRpz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUMMER TRACKS \uff0d\u590f\u306e\u3046\u305f\uff0d",
         "url": "https://open.spotify.com/album/6RdqPyLLLJr8K96ppojbgC"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 159520,
       "name": "\u604b\u306e\u30d0\u30ab\u30f3\u30b9",
       "url": "https://open.spotify.com/track/5AoEKI3ai8YPdhnBYqloud"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u3075\u3049\u308a\u3089",
+        "url": "https://open.spotify.com/album/3ah4RPsC1U9fGp3sSLdtsi"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "\u541b\u8272",
+      "url": "https://open.spotify.com/track/62AcHFZEOPip5hGuaKoRpz"
     }
   ],
   "unique_name": "This Is ClariS",

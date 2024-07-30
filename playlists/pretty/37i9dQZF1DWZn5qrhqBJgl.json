@@ -1,6 +1,6 @@
 {
   "description": "Dope global beat makers. <a href=\"spotify:artist:4fOizZJsCaT3RYpqNdeGKk\">Thanks Joey</a>",
-  "num_followers": 119335,
+  "num_followers": 119376,
   "original_name": "Dope Beats",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/0aHNCKqYpx2fKtWo5b08Ut"
+      },
+      "artists": [
+        {
+          "name": "Aldo Levitt",
+          "url": "https://open.spotify.com/artist/5wWlIBXDyTwVhqpbHrhmjw"
+        }
+      ],
+      "duration_ms": 169690,
+      "name": "Breakaway",
+      "url": "https://open.spotify.com/track/2G0oEXtrGhy2xJKB2bLhuo"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
         "name": "The Ace",
         "url": "https://open.spotify.com/album/1zg8XpwtPKoLgGurMkz5Op"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 144968,
       "name": "The Ace",
       "url": "https://open.spotify.com/track/3YphbgGJ1GfEGhMmIOthk6"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/0aHNCKqYpx2fKtWo5b08Ut"
-      },
-      "artists": [
-        {
-          "name": "Aldo Levitt",
-          "url": "https://open.spotify.com/artist/5wWlIBXDyTwVhqpbHrhmjw"
-        }
-      ],
-      "duration_ms": 169690,
-      "name": "Breakaway",
-      "url": "https://open.spotify.com/track/2G0oEXtrGhy2xJKB2bLhuo"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/5LNZcwaftnv3Guu9h7wtAe"
-      },
-      "artists": [
-        {
-          "name": "Djamil",
-          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
-        }
-      ],
-      "duration_ms": 165957,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/7uzPqqddeuLnSf22N4nCJm"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Adults",
         "url": "https://open.spotify.com/album/2VS6Va3gr1cGiMi2E9SPPE"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 217163,
       "name": "Adults",
       "url": "https://open.spotify.com/track/7qw54hVGKg32hCy37pOkqA"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/5LNZcwaftnv3Guu9h7wtAe"
+      },
+      "artists": [
+        {
+          "name": "Djamil",
+          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
+        }
+      ],
+      "duration_ms": 165957,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/7uzPqqddeuLnSf22N4nCJm"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Farmingdale",
-        "url": "https://open.spotify.com/album/0H08iAhi6Cv8iSh2QfZBuO"
-      },
-      "artists": [
-        {
-          "name": "Goldspell",
-          "url": "https://open.spotify.com/artist/2gmP9WC9aV1ETtETCW0yF1"
-        }
-      ],
-      "duration_ms": 180427,
-      "name": "Farmingdale",
-      "url": "https://open.spotify.com/track/2JT5TckTZ2eLRMUeT4c3vJ"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Tank",
         "url": "https://open.spotify.com/album/2Q1wocAY05F8VaxnXqfVZM"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 167138,
       "name": "Tank - Instrumental",
       "url": "https://open.spotify.com/track/6Q7nTYBffkZSNebWmz0XSQ"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Farmingdale",
+        "url": "https://open.spotify.com/album/0H08iAhi6Cv8iSh2QfZBuO"
+      },
+      "artists": [
+        {
+          "name": "Goldspell",
+          "url": "https://open.spotify.com/artist/2gmP9WC9aV1ETtETCW0yF1"
+        }
+      ],
+      "duration_ms": 180427,
+      "name": "Farmingdale",
+      "url": "https://open.spotify.com/track/2JT5TckTZ2eLRMUeT4c3vJ"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Act Upon",
-        "url": "https://open.spotify.com/album/4SuOSkTWZgHNY2HAD8SDmB"
-      },
-      "artists": [
-        {
-          "name": "Nadamondi",
-          "url": "https://open.spotify.com/artist/4y5xvBnDBSkmelTGDShAhJ"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Peepers",
-      "url": "https://open.spotify.com/track/2QOgqwD5LGbYjneDPaO8Lq"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Be Mine",
         "url": "https://open.spotify.com/album/3D4AoTdYFTk0kWbSd9kBR8"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 122587,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/0H1tDY1dWsJk4f7Y9TmzdN"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Act Upon",
+        "url": "https://open.spotify.com/album/4SuOSkTWZgHNY2HAD8SDmB"
+      },
+      "artists": [
+        {
+          "name": "Nadamondi",
+          "url": "https://open.spotify.com/artist/4y5xvBnDBSkmelTGDShAhJ"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Peepers",
+      "url": "https://open.spotify.com/track/2QOgqwD5LGbYjneDPaO8Lq"
     },
     {
       "added_at": "2022-03-22 11:23:16",

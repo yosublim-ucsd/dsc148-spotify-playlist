@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 148958,
       "name": "Escape to Azuchi",
       "url": "https://open.spotify.com/track/6It6PE4gj1vA4Rc1joIj1N"
@@ -1790,6 +1790,24 @@
       "duration_ms": 222576,
       "name": "Friendzone (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/2rX3swM25DhNwg7mTjnzbG"
+    },
+    {
+      "album": {
+        "name": "Forgotten Warrior",
+        "url": "https://open.spotify.com/album/4FTgevo0wbSAh8IID9N8PE"
+      },
+      "artists": [
+        {
+          "name": "JazzyCal",
+          "url": "https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Furusato",
+      "url": "https://open.spotify.com/track/4zXhKgFP2JGm4c1CW0sxJ3"
     },
     {
       "album": {

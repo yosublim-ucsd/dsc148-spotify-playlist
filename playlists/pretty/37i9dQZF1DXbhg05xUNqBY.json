@@ -1,6 +1,6 @@
 {
   "description": "As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.",
-  "num_followers": 350361,
+  "num_followers": 350358,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,26 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Happily Hidden",
+        "url": "https://open.spotify.com/album/5fCirlLG6ch2MFWyOA5B9b"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        },
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        }
+      ],
+      "duration_ms": 233129,
+      "name": "Happily Hidden (with John Mark McMillan)",
+      "url": "https://open.spotify.com/track/1KSbEDEuafGfz2fuioe5uK"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Holy Forever (Instrumental)",
         "url": "https://open.spotify.com/album/5ldWFChwbA9CB4j0tcTgWO"
       },
@@ -311,22 +331,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Ever Closer",
-        "url": "https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc"
-      },
-      "artists": [
-        {
-          "name": "Shaylee Simeone",
-          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
-        }
-      ],
-      "duration_ms": 232687,
-      "name": "Ever Closer",
-      "url": "https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Shalom",
         "url": "https://open.spotify.com/album/1rTB3LVsO0KH1BAdLPiv7M"
       },
@@ -343,22 +347,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Happily Hidden",
-        "url": "https://open.spotify.com/album/5fCirlLG6ch2MFWyOA5B9b"
+        "name": "Ever Closer",
+        "url": "https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc"
       },
       "artists": [
         {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        },
-        {
-          "name": "John Mark McMillan",
-          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
         }
       ],
-      "duration_ms": 233129,
-      "name": "Happily Hidden (with John Mark McMillan)",
-      "url": "https://open.spotify.com/track/1KSbEDEuafGfz2fuioe5uK"
+      "duration_ms": 232687,
+      "name": "Ever Closer",
+      "url": "https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Need",
-        "url": "https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
-        }
-      ],
-      "duration_ms": 202661,
-      "name": "Need",
-      "url": "https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "A King & His Kindness",
         "url": "https://open.spotify.com/album/0IRJOZdtvLrek403fb6Skm"
       },
@@ -591,22 +575,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Eternal Light",
-        "url": "https://open.spotify.com/album/4Uu6h9lxpfhgqSoeLtieDg"
+        "name": "Need",
+        "url": "https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR"
       },
       "artists": [
         {
-          "name": "Paul Zach",
-          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
-        },
-        {
-          "name": "Liz Vice",
-          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
         }
       ],
-      "duration_ms": 247000,
-      "name": "Eternal Light",
-      "url": "https://open.spotify.com/track/3fVy9ZwVwkJ3FRrgkyTJbU"
+      "duration_ms": 202661,
+      "name": "Need",
+      "url": "https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -627,6 +607,26 @@
       "duration_ms": 265286,
       "name": "God You Are (feat. Josh Baldwin)",
       "url": "https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Eternal Light",
+        "url": "https://open.spotify.com/album/4Uu6h9lxpfhgqSoeLtieDg"
+      },
+      "artists": [
+        {
+          "name": "Paul Zach",
+          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
+        },
+        {
+          "name": "Liz Vice",
+          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Eternal Light",
+      "url": "https://open.spotify.com/track/3fVy9ZwVwkJ3FRrgkyTJbU"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -667,30 +667,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Sing Over Me",
-        "url": "https://open.spotify.com/album/4AQORsFEoINGvG3OHHe9GY"
-      },
-      "artists": [
-        {
-          "name": "The Porter's Gate",
-          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
-        },
-        {
-          "name": "Taylor Leonhardt",
-          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
-        },
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 254007,
-      "name": "Sing Over Me",
-      "url": "https://open.spotify.com/track/7DKKu0q6waqnlTLyjFmGqk"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Valley (CalledOut Music Remix)",
         "url": "https://open.spotify.com/album/6K8MrDCAJxTbGdBNKgXiLp"
       },
@@ -723,6 +699,30 @@
       "duration_ms": 224094,
       "name": "Rest",
       "url": "https://open.spotify.com/track/2EeTkq8DEzBCpxSuyqWDIP"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Sing Over Me",
+        "url": "https://open.spotify.com/album/4AQORsFEoINGvG3OHHe9GY"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+        },
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 254007,
+      "name": "Sing Over Me",
+      "url": "https://open.spotify.com/track/7DKKu0q6waqnlTLyjFmGqk"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "With My Lips",
+        "url": "https://open.spotify.com/album/7ysLHTgjBdICqLs8K3AN8Y"
+      },
+      "artists": [
+        {
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "With My Lips",
+      "url": "https://open.spotify.com/track/2qnqbfdgQ0NyApL6VfANb1"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Have My Heart",
         "url": "https://open.spotify.com/album/0VYPJJVnnlaarZXaQFWsu1"
       },
@@ -799,18 +815,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "With My Lips",
-        "url": "https://open.spotify.com/album/7ysLHTgjBdICqLs8K3AN8Y"
+        "name": "Lord I Need You",
+        "url": "https://open.spotify.com/album/77mEymfxxxjH6oWSQyYHkv"
       },
       "artists": [
         {
-          "name": "Tenielle Neda",
-          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
         }
       ],
-      "duration_ms": 218920,
-      "name": "With My Lips",
-      "url": "https://open.spotify.com/track/2qnqbfdgQ0NyApL6VfANb1"
+      "duration_ms": 197930,
+      "name": "Lord I Need You",
+      "url": "https://open.spotify.com/track/7hvQqahYALb8wX0kCF4aAB"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -843,22 +859,6 @@
       "duration_ms": 187264,
       "name": "Known, Seen, Loved (LIVE from the Quarry)",
       "url": "https://open.spotify.com/track/6MNE9n9N3c48kO0BfQb6Fd"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Lord I Need You",
-        "url": "https://open.spotify.com/album/77mEymfxxxjH6oWSQyYHkv"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        }
-      ],
-      "duration_ms": 197930,
-      "name": "Lord I Need You",
-      "url": "https://open.spotify.com/track/7hvQqahYALb8wX0kCF4aAB"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -935,30 +935,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "You're Still God (Live)",
-        "url": "https://open.spotify.com/album/3obzpfiA5DQ4vKaAodPyF2"
-      },
-      "artists": [
-        {
-          "name": "Songs From The Soil",
-          "url": "https://open.spotify.com/artist/7oAEmbGGT20HyZ3wqxeSDH"
-        },
-        {
-          "name": "Junior Garr",
-          "url": "https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2"
-        },
-        {
-          "name": "Emmanuel Smith",
-          "url": "https://open.spotify.com/artist/4IS9eOKlUy42cLkSMDXl8b"
-        }
-      ],
-      "duration_ms": 281141,
-      "name": "You're Still God - Live",
-      "url": "https://open.spotify.com/track/1e2WTH5rBj0ed5gkisv1sl"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "I Could Sing Of Your Love Forever",
         "url": "https://open.spotify.com/album/622dM9HGzrpibDW8zGAIIh"
       },
@@ -987,6 +963,30 @@
       "duration_ms": 320080,
       "name": "You Are Fullness",
       "url": "https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "You're Still God (Live)",
+        "url": "https://open.spotify.com/album/3obzpfiA5DQ4vKaAodPyF2"
+      },
+      "artists": [
+        {
+          "name": "Songs From The Soil",
+          "url": "https://open.spotify.com/artist/7oAEmbGGT20HyZ3wqxeSDH"
+        },
+        {
+          "name": "Junior Garr",
+          "url": "https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2"
+        },
+        {
+          "name": "Emmanuel Smith",
+          "url": "https://open.spotify.com/artist/4IS9eOKlUy42cLkSMDXl8b"
+        }
+      ],
+      "duration_ms": 281141,
+      "name": "You're Still God - Live",
+      "url": "https://open.spotify.com/track/1e2WTH5rBj0ed5gkisv1sl"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Praise (Acoustic)",
+        "url": "https://open.spotify.com/album/4I9rsSnnGg4sD0XmgdQMn8"
+      },
+      "artists": [
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Praise - Acoustic",
+      "url": "https://open.spotify.com/track/57XEAHdFMHLq6A6eJ7CedW"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "The Joy of Being Together (Live)",
         "url": "https://open.spotify.com/album/62kV7kb7TNpRUMvDPx1qxE"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 309360,
       "name": "Altogether Good - Live",
       "url": "https://open.spotify.com/track/5h2gWs1LegrggJao1uO3s7"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "For The Ones We Love",
-        "url": "https://open.spotify.com/album/0F8iAIGNpZ25HDiZiNVsmq"
-      },
-      "artists": [
-        {
-          "name": "Jonas Myrin",
-          "url": "https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "For The Ones We Love",
-      "url": "https://open.spotify.com/track/04SDrly80EKgl1vlnskm7J"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Praise (Acoustic)",
-        "url": "https://open.spotify.com/album/4I9rsSnnGg4sD0XmgdQMn8"
+        "name": "For The Ones We Love",
+        "url": "https://open.spotify.com/album/0F8iAIGNpZ25HDiZiNVsmq"
       },
       "artists": [
         {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+          "name": "Jonas Myrin",
+          "url": "https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Praise - Acoustic",
-      "url": "https://open.spotify.com/track/57XEAHdFMHLq6A6eJ7CedW"
+      "duration_ms": 209760,
+      "name": "For The Ones We Love",
+      "url": "https://open.spotify.com/track/04SDrly80EKgl1vlnskm7J"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Worship Anywhere: Live from Camp NewBreed",
-        "url": "https://open.spotify.com/album/5BCKzBSDLSpS7RHBgmgExp"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 294106,
-      "name": "Certainly (Live)",
-      "url": "https://open.spotify.com/track/7w0VUpbOxDzu0ogn7ZQkfF"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "JUBILATION",
         "url": "https://open.spotify.com/album/629pdeYK3aEP2oCVgo8Vyv"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 410365,
       "name": "Eden Restored - Live",
       "url": "https://open.spotify.com/track/7pmM87UsSeda7D8K8avnFU"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Worship Anywhere: Live from Camp NewBreed",
+        "url": "https://open.spotify.com/album/5BCKzBSDLSpS7RHBgmgExp"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 294106,
+      "name": "Certainly (Live)",
+      "url": "https://open.spotify.com/track/7w0VUpbOxDzu0ogn7ZQkfF"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1515,6 +1515,26 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Steady My Heart",
+        "url": "https://open.spotify.com/album/22JhHEYI0GDqojMDo1WEol"
+      },
+      "artists": [
+        {
+          "name": "METRUTH",
+          "url": "https://open.spotify.com/artist/6vUiVJcOvGX0EhBr4GiMrb"
+        },
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        }
+      ],
+      "duration_ms": 236832,
+      "name": "Steady My Heart",
+      "url": "https://open.spotify.com/track/5RUgtcjWx3cTxHuSqlKUCl"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Let It Be So",
         "url": "https://open.spotify.com/album/6iBkN0coZ7G9wILcvWCi0g"
       },
@@ -1543,26 +1563,6 @@
       "duration_ms": 196221,
       "name": "Enough For Me",
       "url": "https://open.spotify.com/track/4mAjvXpzW7mVwakpDWgukZ"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Steady My Heart",
-        "url": "https://open.spotify.com/album/22JhHEYI0GDqojMDo1WEol"
-      },
-      "artists": [
-        {
-          "name": "METRUTH",
-          "url": "https://open.spotify.com/artist/6vUiVJcOvGX0EhBr4GiMrb"
-        },
-        {
-          "name": "Christian Singleton",
-          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
-        }
-      ],
-      "duration_ms": 236832,
-      "name": "Steady My Heart",
-      "url": "https://open.spotify.com/track/5RUgtcjWx3cTxHuSqlKUCl"
     },
     {
       "added_at": "2024-07-26 09:52:44",

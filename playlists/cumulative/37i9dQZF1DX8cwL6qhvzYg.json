@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 181480,
       "name": "Espejeando",
       "url": "https://open.spotify.com/track/2Q6HtprKOlth8j6KNFs6fC"
@@ -2390,6 +2390,24 @@
       "duration_ms": 223160,
       "name": "Llorar",
       "url": "https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu"
+    },
+    {
+      "album": {
+        "name": "Llorar",
+        "url": "https://open.spotify.com/album/4FhJUozm8iSdIDobne1KHN"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223160,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/74Z5qPgObksbUqTLsMetwO"
     },
     {
       "album": {

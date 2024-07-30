@@ -1,6 +1,6 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 67267,
+  "num_followers": 67283,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-05 15:39:09",
       "album": {
-        "name": "Ludzie prosci",
-        "url": "https://open.spotify.com/album/6chn887fKwWnMV4fYifmRv"
-      },
-      "artists": [
-        {
-          "name": "Mesajah",
-          "url": "https://open.spotify.com/artist/4y484bkOThTJopbKXdp3qC"
-        }
-      ],
-      "duration_ms": 230504,
-      "name": "Kazdego dnia",
-      "url": "https://open.spotify.com/track/79zCUDHcdzl40CRmIeOLI5"
-    },
-    {
-      "added_at": "2024-07-05 15:39:09",
-      "album": {
         "name": "Nie k\u0142am \u017ce mnie kochasz",
         "url": "https://open.spotify.com/album/4E8A1oe3EKWx8AFeFJ0Fz0"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 186026,
       "name": "Nie k\u0142am \u017ce mnie kochasz",
       "url": "https://open.spotify.com/track/0Xj3MeniDBK33I1YZcqlqP"
+    },
+    {
+      "added_at": "2024-07-05 15:39:09",
+      "album": {
+        "name": "Ludzie prosci",
+        "url": "https://open.spotify.com/album/6chn887fKwWnMV4fYifmRv"
+      },
+      "artists": [
+        {
+          "name": "Mesajah",
+          "url": "https://open.spotify.com/artist/4y484bkOThTJopbKXdp3qC"
+        }
+      ],
+      "duration_ms": 230504,
+      "name": "Kazdego dnia",
+      "url": "https://open.spotify.com/track/79zCUDHcdzl40CRmIeOLI5"
     },
     {
       "added_at": "2024-07-05 15:39:09",

@@ -1,12 +1,12 @@
 {
-  "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 170350,
+  "description": "This is Emicida. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 170355,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAACl0FOs+ejbRpPv81f8TpI4",
+  "snapshot_id": "ZqWKAAAAAACAZU6Do9Cl9sO86B5lzoKc",
   "tracks": [
     {
       "added_at": null,
@@ -248,21 +248,17 @@
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         },
         {
-          "name": "Fabiana Cozza",
-          "url": "https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151"
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
         },
         {
-          "name": "Pastor Henrique Vieira",
-          "url": "https://open.spotify.com/artist/34Bz0hL5bQMYbaYzn4ZmCZ"
-        },
-        {
-          "name": "Pastoras do Ros\u00e1rio",
-          "url": "https://open.spotify.com/artist/5Niazs4Q5CWc74ygGVUYY8"
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
         }
       ],
-      "duration_ms": 355866,
-      "name": "Principia (feat. Fabiana Cozza, Pastor Henrique Vieira & Pastoras do Ros\u00e1rio)",
-      "url": "https://open.spotify.com/track/1wTuMYmA3AJC7zKg6cuu19"
+      "duration_ms": 249000,
+      "name": "Quem Tem Um Amigo (Tem Tudo) (feat. Zeca Pagodinho & Tokyo Ska Paradise Orchestra)",
+      "url": "https://open.spotify.com/track/4yEBOuDHhrFeGXyXNJ3C4y"
     },
     {
       "added_at": null,
@@ -332,17 +328,21 @@
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         },
         {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+          "name": "Fabiana Cozza",
+          "url": "https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151"
         },
         {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+          "name": "Pastor Henrique Vieira",
+          "url": "https://open.spotify.com/artist/34Bz0hL5bQMYbaYzn4ZmCZ"
+        },
+        {
+          "name": "Pastoras do Ros\u00e1rio",
+          "url": "https://open.spotify.com/artist/5Niazs4Q5CWc74ygGVUYY8"
         }
       ],
-      "duration_ms": 249000,
-      "name": "Quem Tem Um Amigo (Tem Tudo) (feat. Zeca Pagodinho & Tokyo Ska Paradise Orchestra)",
-      "url": "https://open.spotify.com/track/4yEBOuDHhrFeGXyXNJ3C4y"
+      "duration_ms": 355866,
+      "name": "Principia (feat. Fabiana Cozza, Pastor Henrique Vieira & Pastoras do Ros\u00e1rio)",
+      "url": "https://open.spotify.com/track/1wTuMYmA3AJC7zKg6cuu19"
     },
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
-        "url": "https://open.spotify.com/album/57PWjWHzqzODblomXxnQca"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Rafa Kabelo",
-          "url": "https://open.spotify.com/artist/1f45kEQGljLiTKsb3hX5Dj"
-        }
-      ],
-      "duration_ms": 240117,
-      "name": "Alma G\u00eamea",
-      "url": "https://open.spotify.com/track/4XlMzWC8jUKd6nTXcQmWF8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Amor \u00c9 Tudo de Bom",
         "url": "https://open.spotify.com/album/4Id5nvGsp6yQhkoSxCcauN"
       },
@@ -535,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AmarElo - Ao Vivo",
-        "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
+        "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
+        "url": "https://open.spotify.com/album/57PWjWHzqzODblomXxnQca"
       },
       "artists": [
         {
@@ -544,13 +524,13 @@
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         },
         {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+          "name": "Rafa Kabelo",
+          "url": "https://open.spotify.com/artist/1f45kEQGljLiTKsb3hX5Dj"
         }
       ],
-      "duration_ms": 305213,
-      "name": "9nha / Eu Gosto Dela - Ao Vivo",
-      "url": "https://open.spotify.com/track/5OR3l3lAJBgkQb0viiYjKJ"
+      "duration_ms": 240117,
+      "name": "Alma G\u00eamea",
+      "url": "https://open.spotify.com/track/4XlMzWC8jUKd6nTXcQmWF8"
     },
     {
       "added_at": null,
@@ -579,18 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pantera Negra",
-        "url": "https://open.spotify.com/album/235FXq3fhpJ3VqUX5Qjvrj"
+        "name": "AmarElo - Ao Vivo",
+        "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
       },
       "artists": [
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
         }
       ],
-      "duration_ms": 199613,
-      "name": "Pantera Negra",
-      "url": "https://open.spotify.com/track/3oA8ovg8QzMjPTwG7kezA3"
+      "duration_ms": 305213,
+      "name": "9nha / Eu Gosto Dela - Ao Vivo",
+      "url": "https://open.spotify.com/track/5OR3l3lAJBgkQb0viiYjKJ"
     },
     {
       "added_at": null,
@@ -607,6 +591,22 @@
       "duration_ms": 176920,
       "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
       "url": "https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pantera Negra",
+        "url": "https://open.spotify.com/album/235FXq3fhpJ3VqUX5Qjvrj"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 199613,
+      "name": "Pantera Negra",
+      "url": "https://open.spotify.com/track/3oA8ovg8QzMjPTwG7kezA3"
     },
     {
       "added_at": null,
@@ -751,46 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Criolo E Emicida Ao Vivo (Live)",
-        "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Evandro Fi\u00f3ti",
-          "url": "https://open.spotify.com/artist/0mXdPvdqQete31NQDPBlT4"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "S\u00f3 Mais Uma Noite - Live",
-      "url": "https://open.spotify.com/track/4dr8LN0s4WhnLLTzfsZkj5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "10 Anos de Triunfo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 284693,
-      "name": "Ooorra - Ao Vivo",
-      "url": "https://open.spotify.com/track/1YyrCYFzq2cqG6Rfggqqda"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock In Rio (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
       },
@@ -815,22 +775,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mil Coisas",
-        "url": "https://open.spotify.com/album/5531Q6ELSF96I2DG5ECnPY"
+        "name": "10 Anos de Triunfo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
       },
       "artists": [
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
         }
       ],
-      "duration_ms": 202800,
-      "name": "Mil Coisas",
-      "url": "https://open.spotify.com/track/0c68eyAdaqYMdyVBjygaOK"
+      "duration_ms": 284693,
+      "name": "Ooorra - Ao Vivo",
+      "url": "https://open.spotify.com/track/1YyrCYFzq2cqG6Rfggqqda"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Criolo E Emicida Ao Vivo (Live)",
+        "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Evandro Fi\u00f3ti",
+          "url": "https://open.spotify.com/artist/0mXdPvdqQete31NQDPBlT4"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "S\u00f3 Mais Uma Noite - Live",
+      "url": "https://open.spotify.com/track/4dr8LN0s4WhnLLTzfsZkj5"
     },
     {
       "added_at": null,
@@ -859,6 +839,26 @@
       "duration_ms": 277480,
       "name": "Oy\u00e1 - Sorriso Negro - Ao Vivo",
       "url": "https://open.spotify.com/track/7rrlAo0OyWwpaRbDDSe9BB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mil Coisas",
+        "url": "https://open.spotify.com/album/5531Q6ELSF96I2DG5ECnPY"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Mil Coisas",
+      "url": "https://open.spotify.com/track/0c68eyAdaqYMdyVBjygaOK"
     },
     {
       "added_at": null,
@@ -935,26 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quintal",
-        "url": "https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 180448,
-      "name": "Melhor Rem\u00e9dio",
-      "url": "https://open.spotify.com/track/5NtTHQEcdXhVZbevOxAh5a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock In Rio (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 246320,
       "name": "Oi Compadre - Ao Vivo",
       "url": "https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quintal",
+        "url": "https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 180448,
+      "name": "Melhor Rem\u00e9dio",
+      "url": "https://open.spotify.com/track/5NtTHQEcdXhVZbevOxAh5a"
     },
     {
       "added_at": null,
@@ -1015,30 +1015,94 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doozicabraba e a Revolu\u00e7\u00e3o Silenciosa",
-        "url": "https://open.spotify.com/album/24FRiS4aTYXDcL48UPknP7"
+        "name": "Sambabook Jorge Arag\u00e3o, Vol. 3",
+        "url": "https://open.spotify.com/album/42ssjVUGGuHY0nOVOwcgXT"
       },
       "artists": [
+        {
+          "name": "Jorge Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
+        },
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Sandra De S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+        },
+        {
+          "name": "Vander Lee",
+          "url": "https://open.spotify.com/artist/61BsnDVXUUSASD04kvzMs1"
+        },
+        {
+          "name": "Joyce C\u00e2ndido",
+          "url": "https://open.spotify.com/artist/3KlU8ZNbRdGSe2hGY5aUF9"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         },
         {
-          "name": "Beatnick",
-          "url": "https://open.spotify.com/artist/1wvKPzgThaFccAELYVQzKI"
+          "name": "Xande De Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
         },
         {
-          "name": "K-Salaam",
-          "url": "https://open.spotify.com/artist/7eDtRejmiXPmd5LeRZeuM6"
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
         },
         {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        },
+        {
+          "name": "Grupo Fundo De Quintal",
+          "url": "https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr"
+        },
+        {
+          "name": "Luciana Mello",
+          "url": "https://open.spotify.com/artist/0rzVUhvOIVNUbY6uKCpGfb"
+        },
+        {
+          "name": "Maria Rita",
+          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
+        },
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        },
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        },
+        {
+          "name": "Luiz Melodia",
+          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
+        },
+        {
+          "name": "Baby Do Brasil",
+          "url": "https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls"
+        },
+        {
+          "name": "Thais Macedo",
+          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
         }
       ],
-      "duration_ms": 258666,
-      "name": "Num \u00c9 S\u00f3 Ver",
-      "url": "https://open.spotify.com/track/3tJPVeNIvz1AWtQZXYZagx"
+      "duration_ms": 199560,
+      "name": "Vou Festejar",
+      "url": "https://open.spotify.com/track/4oNk9WpCEytgOdYms1x5Fr"
     }
   ],
   "unique_name": "This Is Emicida",

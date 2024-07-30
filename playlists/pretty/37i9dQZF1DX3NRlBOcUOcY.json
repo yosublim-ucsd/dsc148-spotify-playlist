@@ -1,6 +1,6 @@
 {
   "description": "Good vibes only! Aqu\u00ed solo hay buena vibra.",
-  "num_followers": 442384,
+  "num_followers": 442390,
   "original_name": "Buenas Vibras",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-07-26 16:13:35",
       "album": {
-        "name": "Contrato",
-        "url": "https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 204391,
-      "name": "Contrato",
-      "url": "https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG"
-    },
-    {
-      "added_at": "2024-07-26 16:13:35",
-      "album": {
         "name": "Energ\u00eda Bacana",
         "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 147720,
       "name": "Energ\u00eda Bacana",
       "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
+    },
+    {
+      "added_at": "2024-07-26 16:13:35",
+      "album": {
+        "name": "Contrato",
+        "url": "https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 204391,
+      "name": "Contrato",
+      "url": "https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG"
     },
     {
       "added_at": "2024-07-26 16:13:35",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-07-26 16:13:35",
       "album": {
+        "name": "LOVEO",
+        "url": "https://open.spotify.com/album/00lZ4WPWOw5BdLJAPMtvrr"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 173868,
+      "name": "LOVEO",
+      "url": "https://open.spotify.com/track/0rBVM75Fqi5U6rCm2m5iTK"
+    },
+    {
+      "added_at": "2024-07-26 16:13:35",
+      "album": {
         "name": "PLIS",
         "url": "https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 222800,
       "name": "PLIS",
       "url": "https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z"
-    },
-    {
-      "added_at": "2024-07-26 16:13:35",
-      "album": {
-        "name": "LOVEO",
-        "url": "https://open.spotify.com/album/00lZ4WPWOw5BdLJAPMtvrr"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 173868,
-      "name": "LOVEO",
-      "url": "https://open.spotify.com/track/0rBVM75Fqi5U6rCm2m5iTK"
     },
     {
       "added_at": "2024-07-26 16:13:35",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-07-26 16:13:35",
       "album": {
-        "name": "AMOR",
-        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 180857,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
-    },
-    {
-      "added_at": "2024-07-26 16:13:35",
-      "album": {
         "name": "XT4S1S",
         "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 219320,
       "name": "XT4S1S",
       "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
+    },
+    {
+      "added_at": "2024-07-26 16:13:35",
+      "album": {
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 180857,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
     },
     {
       "added_at": "2024-07-26 16:13:35",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-07-26 16:13:35",
       "album": {
-        "name": "Volare",
-        "url": "https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc"
+        "name": "CHILDSTAR",
+        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 147598,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
+      "duration_ms": 176040,
+      "name": "ATARI",
+      "url": "https://open.spotify.com/track/26Fvbip1soBIK5RWJYco05"
     },
     {
       "added_at": "2024-07-26 16:13:35",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2024-07-26 16:13:35",
       "album": {
-        "name": "CHILDSTAR",
-        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
+        "name": "Volare",
+        "url": "https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc"
       },
       "artists": [
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 176040,
-      "name": "ATARI",
-      "url": "https://open.spotify.com/track/26Fvbip1soBIK5RWJYco05"
+      "duration_ms": 147598,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
     },
     {
       "added_at": "2024-07-26 16:13:35",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-07-26 16:13:35",
       "album": {
+        "name": "PLAYA SATURNO",
+        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "CUKI",
+      "url": "https://open.spotify.com/track/3tYDYSZU2Wn7zudbFEJeko"
+    },
+    {
+      "added_at": "2024-07-26 16:13:35",
+      "album": {
         "name": "Buenos D\u00edas",
         "url": "https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 199826,
       "name": "Buenos D\u00edas",
       "url": "https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K"
-    },
-    {
-      "added_at": "2024-07-26 16:13:35",
-      "album": {
-        "name": "PLAYA SATURNO",
-        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "CUKI",
-      "url": "https://open.spotify.com/track/3tYDYSZU2Wn7zudbFEJeko"
     },
     {
       "added_at": "2024-07-26 16:13:35",
@@ -1799,30 +1799,6 @@
     {
       "added_at": "2024-07-26 16:13:35",
       "album": {
-        "name": "BlessDeluxury",
-        "url": "https://open.spotify.com/album/0MkMu019XCFwwuL1ftHKmQ"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "The Rudeboyz",
-          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
-        }
-      ],
-      "duration_ms": 181272,
-      "name": "DIFERENTE",
-      "url": "https://open.spotify.com/track/0zjlDOMaan6IH87OFaosuZ"
-    },
-    {
-      "added_at": "2024-07-26 16:13:35",
-      "album": {
         "name": "BELLAQUERIA",
         "url": "https://open.spotify.com/album/2wljB7jT9Wkfp2o7cKz2Fb"
       },
@@ -1843,6 +1819,30 @@
       "duration_ms": 213951,
       "name": "BELLAQUERIA",
       "url": "https://open.spotify.com/track/4idfodHR51jrjpuIww8HGw"
+    },
+    {
+      "added_at": "2024-07-26 16:13:35",
+      "album": {
+        "name": "BlessDeluxury",
+        "url": "https://open.spotify.com/album/0MkMu019XCFwwuL1ftHKmQ"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        }
+      ],
+      "duration_ms": 181272,
+      "name": "DIFERENTE",
+      "url": "https://open.spotify.com/track/0zjlDOMaan6IH87OFaosuZ"
     },
     {
       "added_at": "2024-07-26 16:13:35",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-07-26 16:13:35",
       "album": {
-        "name": "Baja California",
-        "url": "https://open.spotify.com/album/3qbsCGFjewj30dvxqRJiJf"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 187315,
-      "name": "Baja California",
-      "url": "https://open.spotify.com/track/3XAMueRejgCY1TEJDX1gv0"
-    },
-    {
-      "added_at": "2024-07-26 16:13:35",
-      "album": {
         "name": "Kapun",
         "url": "https://open.spotify.com/album/5Eotsaakg0bfG9AM9UROwW"
       },
@@ -1919,6 +1903,22 @@
     {
       "added_at": "2024-07-26 16:13:35",
       "album": {
+        "name": "Baja California",
+        "url": "https://open.spotify.com/album/3qbsCGFjewj30dvxqRJiJf"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 187315,
+      "name": "Baja California",
+      "url": "https://open.spotify.com/track/3XAMueRejgCY1TEJDX1gv0"
+    },
+    {
+      "added_at": "2024-07-26 16:13:35",
+      "album": {
         "name": "Amor Pasajero",
         "url": "https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls"
       },
@@ -1931,6 +1931,26 @@
       "duration_ms": 152080,
       "name": "Amor Pasajero",
       "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
+    },
+    {
+      "added_at": "2024-07-26 16:13:35",
+      "album": {
+        "name": "CHAO BEBE",
+        "url": "https://open.spotify.com/album/7C2TalJn5YLPTuY7tA0ok5"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 206499,
+      "name": "CHAO BEBE",
+      "url": "https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ"
     },
     {
       "added_at": "2024-07-26 16:13:35",
@@ -2007,26 +2027,6 @@
       "duration_ms": 205714,
       "name": "EL CANTANTE DEL GHETTO",
       "url": "https://open.spotify.com/track/4qqQXznNVnBO8L4yv3GeKr"
-    },
-    {
-      "added_at": "2024-07-26 16:13:35",
-      "album": {
-        "name": "CHAO BEBE",
-        "url": "https://open.spotify.com/album/7C2TalJn5YLPTuY7tA0ok5"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 206499,
-      "name": "CHAO BEBE",
-      "url": "https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ"
     },
     {
       "added_at": "2024-07-26 16:13:35",

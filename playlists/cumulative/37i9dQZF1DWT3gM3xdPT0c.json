@@ -1600,7 +1600,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 133234,
       "name": "Early Morning Dream",
       "url": "https://open.spotify.com/track/2KUeoLhXvZqN5079fo0Xls"
@@ -5900,6 +5900,24 @@
       "duration_ms": 136356,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/1JUePRPMGRhATh4dupz75d"
+    },
+    {
+      "album": {
+        "name": "Warm Winds",
+        "url": "https://open.spotify.com/album/1KlFEgMtktwFRxgN3SpgkP"
+      },
+      "artists": [
+        {
+          "name": "Morgan Fleich",
+          "url": "https://open.spotify.com/artist/0fA5ejVShbNdZWiw5CB1l1"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176665,
+      "name": "Warm Winds",
+      "url": "https://open.spotify.com/track/6FLTmuEnGxh5MGAApUsN1x"
     },
     {
       "album": {

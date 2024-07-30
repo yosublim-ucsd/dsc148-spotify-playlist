@@ -1,6 +1,6 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  <a href=\"spotify:artist:2d8NsBa8O4C6bgQatFP5V4\">nobigdyl.</a>",
-  "num_followers": 46567,
+  "num_followers": 46639,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "I Love It",
-        "url": "https://open.spotify.com/album/2Xy6iLb2skc9sP2LVw8W00"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 162403,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/33gnHgG4uhgFpdig9KkwgV"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "Working it out",
         "url": "https://open.spotify.com/album/2rkz3xnC2V6ZR1K658V2Kp"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 176470,
       "name": "Working it out",
       "url": "https://open.spotify.com/track/7ntAFhTGZ8DLdM26HDHrHc"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "I Love It",
+        "url": "https://open.spotify.com/album/2Xy6iLb2skc9sP2LVw8W00"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 162403,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/33gnHgG4uhgFpdig9KkwgV"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -623,30 +623,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "moMINTs",
-        "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
-      },
-      "artists": [
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        },
-        {
-          "name": "Foggieraw",
-          "url": "https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM"
-        },
-        {
-          "name": "Royce Da 5'9\"",
-          "url": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
-        }
-      ],
-      "duration_ms": 175250,
-      "name": "HEAD TO HADES",
-      "url": "https://open.spotify.com/track/58sGcIFRdGOQ7bUi62HBes"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "PRAISE!",
         "url": "https://open.spotify.com/album/5duxSW1GJxNxMmap4GRJlL"
       },
@@ -695,6 +671,30 @@
       "duration_ms": 382855,
       "name": "PRAISE!",
       "url": "https://open.spotify.com/track/1jZendUOQVhjPxMBPoh86b"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "moMINTs",
+        "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Foggieraw",
+          "url": "https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM"
+        },
+        {
+          "name": "Royce Da 5'9\"",
+          "url": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
+        }
+      ],
+      "duration_ms": 175250,
+      "name": "HEAD TO HADES",
+      "url": "https://open.spotify.com/track/58sGcIFRdGOQ7bUi62HBes"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "MAN DOWN",
-        "url": "https://open.spotify.com/album/1Pqo50wK8molwXT0fEye3h"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        }
-      ],
-      "duration_ms": 151663,
-      "name": "MAN DOWN",
-      "url": "https://open.spotify.com/track/4J5YUxG50J9LrQ3Twv9jY9"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "It Could Be Worse",
         "url": "https://open.spotify.com/album/4hhMSsLW0rRcNmXFF9qWPw"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 144021,
       "name": "It Could Be Worse",
       "url": "https://open.spotify.com/track/1pn9N05evZd09npQBnsC31"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "MAN DOWN",
+        "url": "https://open.spotify.com/album/1Pqo50wK8molwXT0fEye3h"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        }
+      ],
+      "duration_ms": 151663,
+      "name": "MAN DOWN",
+      "url": "https://open.spotify.com/track/4J5YUxG50J9LrQ3Twv9jY9"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/4CA9N7MLaMCFUrGZddg7FD"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        }
+      ],
+      "duration_ms": 139742,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/1yeDabwKWVLBN8DoJMtwK5"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
         "name": "Praise",
         "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 123478,
       "name": "Praise",
       "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/4CA9N7MLaMCFUrGZddg7FD"
-      },
-      "artists": [
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        }
-      ],
-      "duration_ms": 139742,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/1yeDabwKWVLBN8DoJMtwK5"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "Wins",
-        "url": "https://open.spotify.com/album/5UtwE8AZGxOUIIntICw3Bq"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 155287,
-      "name": "Wins",
-      "url": "https://open.spotify.com/track/4vlHzPQvMeDi5ISpZpeF3x"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "In Christ",
         "url": "https://open.spotify.com/album/7rDG8GrtObQcl9AH2XtFzu"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 187826,
       "name": "In Christ",
       "url": "https://open.spotify.com/track/5tpdyvZ3cRVPPR6koEyg6H"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "Wins",
+        "url": "https://open.spotify.com/album/5UtwE8AZGxOUIIntICw3Bq"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 155287,
+      "name": "Wins",
+      "url": "https://open.spotify.com/track/4vlHzPQvMeDi5ISpZpeF3x"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "Reality Checks",
-        "url": "https://open.spotify.com/album/2HhfhRKQym6KfjQdQAZ4Wo"
-      },
-      "artists": [
-        {
-          "name": "Dru Bex",
-          "url": "https://open.spotify.com/artist/11hR4oPRwSDzaUMTPzYuoe"
-        }
-      ],
-      "duration_ms": 190909,
-      "name": "Reality Checks",
-      "url": "https://open.spotify.com/track/0hgTeA5UfYmCzhf7z1uFlz"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "PROBLEMATIC (Remix) [feat. Travis Hobson]",
         "url": "https://open.spotify.com/album/5b9tiP4w6snbFuC8RD1Y86"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 143512,
       "name": "PROBLEMATIC (feat. Travis Hobson) - Remix",
       "url": "https://open.spotify.com/track/7vHeVhBP5XS9bX4INHAVHw"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "Reality Checks",
+        "url": "https://open.spotify.com/album/2HhfhRKQym6KfjQdQAZ4Wo"
+      },
+      "artists": [
+        {
+          "name": "Dru Bex",
+          "url": "https://open.spotify.com/artist/11hR4oPRwSDzaUMTPzYuoe"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Reality Checks",
+      "url": "https://open.spotify.com/track/0hgTeA5UfYmCzhf7z1uFlz"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
+        "name": "Throne",
+        "url": "https://open.spotify.com/album/3ymogYBsMvQFO8jf0uwLpQ"
+      },
+      "artists": [
+        {
+          "name": "Kelo",
+          "url": "https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv"
+        }
+      ],
+      "duration_ms": 162899,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/416twUmy9zFdu6h5EUQKDR"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
         "name": "No Popstar",
         "url": "https://open.spotify.com/album/6Mj4lFRr13kDnwKVz9AEW9"
       },
@@ -1763,38 +1779,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "Throne",
-        "url": "https://open.spotify.com/album/3ymogYBsMvQFO8jf0uwLpQ"
-      },
-      "artists": [
-        {
-          "name": "Kelo",
-          "url": "https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv"
-        }
-      ],
-      "duration_ms": 162899,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/416twUmy9zFdu6h5EUQKDR"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "believe",
-        "url": "https://open.spotify.com/album/0y47M4ia6gXB0QCJ7tz012"
-      },
-      "artists": [
-        {
-          "name": "Sajan Nauriyal",
-          "url": "https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6"
-        }
-      ],
-      "duration_ms": 155094,
-      "name": "believe",
-      "url": "https://open.spotify.com/track/7cwcU3UHeJs4RejjIhDoKt"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "Great Is He",
         "url": "https://open.spotify.com/album/0F2g2Lr7ejLUJkLKToHRSf"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 255798,
       "name": "Heart Of Stone",
       "url": "https://open.spotify.com/track/6lvpoTzcmKZ1j0GceiPvdz"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "believe",
+        "url": "https://open.spotify.com/album/0y47M4ia6gXB0QCJ7tz012"
+      },
+      "artists": [
+        {
+          "name": "Sajan Nauriyal",
+          "url": "https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6"
+        }
+      ],
+      "duration_ms": 155094,
+      "name": "believe",
+      "url": "https://open.spotify.com/track/7cwcU3UHeJs4RejjIhDoKt"
     },
     {
       "added_at": "2024-06-28 07:29:32",

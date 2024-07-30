@@ -4,7 +4,7 @@
 
 > lowkey crying.
 
-424 songs - 18 hr 34 min
+425 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Au lecteur curieux](https://open.spotify.com/track/4pKj48uAM0lhxKdg74zJBw) | [Meara Meloquin](https://open.spotify.com/artist/2r3IU74miMmV4b9Qm9kp37) | [Au lecteur curieux](https://open.spotify.com/album/3I68HnQ0IGVaJ6qvXhWeSu) | 2:23 | 2022-06-06 |  |
 | [Autumn Leaf](https://open.spotify.com/track/79q3lBKpjZLlfgfybAIRaO) | [Esperanza](https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa) | [Autumn Leaf](https://open.spotify.com/album/7bvRmwCxFVH5AntdH5j6H7) | 2:27 | 2021-12-14 |  |
 | [Avec un sourire](https://open.spotify.com/track/4PyMaTZJUWcSOhxK4cQQao) | [Tyra Lindqvist](https://open.spotify.com/artist/0i0eyDR8HC7sY4eUNKIAtI) | [Avec un sourire](https://open.spotify.com/album/1OH6bBfilcRBUOZDupZFQm) | 2:30 | 2022-07-06 | 2023-11-08 |
+| [Aún Te Veo](https://open.spotify.com/track/3fB2azt4qGQTs2KbSsEmjH) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Aún Te Veo](https://open.spotify.com/album/5ZG2B564RbdcYWLEjheU77) | 2:30 | 2024-07-29 |  |
 | [Bay Of Thoughts](https://open.spotify.com/track/3Q0B335WfWmGc1thG0HeTz) | [Suraj Ives](https://open.spotify.com/artist/4VPaJH2YvHn7jNz6SVVgwn) | [Bay Of Thoughts](https://open.spotify.com/album/7MEaC9FXiVb9QpRH7qfORp) | 2:20 | 2023-05-09 |  |
 | [Bells](https://open.spotify.com/track/698afgx5ev4sqwZBTqHpoW) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Bells](https://open.spotify.com/album/22blhd4TSXEcQCJ13UmToB) | 3:21 | 2022-03-30 |  |
 | [Beneath the Crystal Veil](https://open.spotify.com/track/6BCLePB0VnQFPJzywUI5NA) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3) | [Beneath the Crystal Veil](https://open.spotify.com/album/5I8aud98hM9NxJbHTAp3yB) | 2:33 | 2021-12-14 | 2023-10-11 |
@@ -384,7 +385,7 @@
 | [Valse Lente](https://open.spotify.com/track/7mu0xMw6sH2EZXl7rknVYN) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Valse Lente](https://open.spotify.com/album/0hT69ykQ29rpDL5ai2NxZ8) | 2:35 | 2021-12-14 | 2022-03-18 |
 | [Varazdin](https://open.spotify.com/track/4MbjcL460D3UHueKiREBPZ) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Varazdin](https://open.spotify.com/album/4vYwpkP10mwLThSSeYpsoV) | 1:46 | 2022-07-06 | 2023-11-16 |
 | [Vaults](https://open.spotify.com/track/53EoWPKv7FO9uTu6a7UPR2) | [Reginald Easter](https://open.spotify.com/artist/6iUeBAwdvdJ6jB3iVNPYAL) | [Vaults](https://open.spotify.com/album/1u7QPnbzTFfJngypn0BBVB) | 3:05 | 2021-12-14 | 2022-06-07 |
-| [Včeraj](https://open.spotify.com/track/6o71Foef4Jf2LMFnHuvQo4) | [Zemfira Mironova](https://open.spotify.com/artist/7HdmWISDuEN6CX1zXXaK8H) | [Včeraj](https://open.spotify.com/album/5gR375qQkGA51v1fB4euT9) | 2:05 | 2021-12-14 |  |
+| [Včeraj](https://open.spotify.com/track/6o71Foef4Jf2LMFnHuvQo4) | [Zemfira Mironova](https://open.spotify.com/artist/7HdmWISDuEN6CX1zXXaK8H) | [Včeraj](https://open.spotify.com/album/5gR375qQkGA51v1fB4euT9) | 2:05 | 2021-12-14 | 2024-07-30 |
 | [Ved](https://open.spotify.com/track/75XNNOrKVTwJ1lEGbE1a8q) | [Anton Lindholm](https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP) | [Ved](https://open.spotify.com/album/0d3FPiEWqaJoxUaJgSSvNg) | 2:17 | 2023-11-14 |  |
 | [Vento leggero](https://open.spotify.com/track/6ksVNrLijeVZjx4zmWKzQQ) | [Aglisia](https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh) | [Vento leggero](https://open.spotify.com/album/36CdDJmXetrsM84GKsQGwB) | 3:00 | 2022-02-16 |  |
 | [Vesper](https://open.spotify.com/track/0Xo93N3lMP488UozSVcWqw) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Beyond The Gloom](https://open.spotify.com/album/59FiFCeY0eKjQpTMvLgb7E) | 2:12 | 2023-09-05 | 2023-10-26 |

@@ -20269,6 +20269,24 @@
     },
     {
       "album": {
+        "name": "JIN LAB Project 4. [You]",
+        "url": "https://open.spotify.com/album/4dvlOLOSqR0oOW1bNtXZDb"
+      },
+      "artists": [
+        {
+          "name": "JINJIN (ASTRO)",
+          "url": "https://open.spotify.com/artist/3U8ZnKIeY7sgQkIHjQDlHA"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6MfWIdV9e9vu3V34L225B5"
+    },
+    {
+      "album": {
         "name": "JENNIE Special Single [You & Me]",
         "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
       },

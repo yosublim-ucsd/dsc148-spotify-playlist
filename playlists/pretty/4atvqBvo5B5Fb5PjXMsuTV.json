@@ -1,13 +1,153 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 28 Jul 16:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 30 Jul 22:03 UTC.",
   "num_followers": 80,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAJ/G/PWu+ipUADdOkMqfUI8/chnEVp",
+  "snapshot_id": "AAAKAnzBAEPx2FcpsoY9uQln0+iCnoAw",
   "tracks": [
+    {
+      "added_at": "2024-07-29 22:03:15",
+      "album": {
+        "name": "If I Was Abducted By Aliens",
+        "url": "https://open.spotify.com/album/2P7F7SSH9F2wv70Ii7v5VE"
+      },
+      "artists": [
+        {
+          "name": "Dirty Nice",
+          "url": "https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g"
+        }
+      ],
+      "duration_ms": 166132,
+      "name": "If I Was Abducted By Aliens",
+      "url": "https://open.spotify.com/track/7cgwbjiVtsfFSYYsrpOsPI"
+    },
+    {
+      "added_at": "2024-07-29 22:03:15",
+      "album": {
+        "name": "FLY",
+        "url": "https://open.spotify.com/album/625XC0V9Yy5Ftclw7R1nUD"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Cherish",
+          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+        }
+      ],
+      "duration_ms": 239351,
+      "name": "FLY",
+      "url": "https://open.spotify.com/track/5boCLf0x3ieEVXBXIjRKQo"
+    },
+    {
+      "added_at": "2024-07-29 04:05:11",
+      "album": {
+        "name": "Protector",
+        "url": "https://open.spotify.com/album/0Lg5U1P4p7c2jjzZStHPkm"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 289193,
+      "name": "Protector",
+      "url": "https://open.spotify.com/track/246PeUwGKXRy9Uvl3lQU9U"
+    },
+    {
+      "added_at": "2024-07-29 16:03:05",
+      "album": {
+        "name": "Joker Lips",
+        "url": "https://open.spotify.com/album/5J3znEDi6fLt9hRSVF8Ukc"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 181040,
+      "name": "Joker Lips",
+      "url": "https://open.spotify.com/track/6tYgLXfFUhNDe6QHZmsJzX"
+    },
+    {
+      "added_at": "2024-07-29 04:05:11",
+      "album": {
+        "name": "Failstate",
+        "url": "https://open.spotify.com/album/6FrjXIoevSDuqDYvuxvGkT"
+      },
+      "artists": [
+        {
+          "name": "Gravemind",
+          "url": "https://open.spotify.com/artist/2GaM9ww6p0aBZ8omjfINAH"
+        },
+        {
+          "name": "Mick Gordon",
+          "url": "https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y"
+        }
+      ],
+      "duration_ms": 182434,
+      "name": "Failstate",
+      "url": "https://open.spotify.com/track/3azEr1hhru3U90cc8Y2aH8"
+    },
+    {
+      "added_at": "2024-07-29 04:05:11",
+      "album": {
+        "name": "Hanging from the Ceiling",
+        "url": "https://open.spotify.com/album/7f8TqbOhjME7h1EZtjxSc9"
+      },
+      "artists": [
+        {
+          "name": "Acidgvrl",
+          "url": "https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f"
+        },
+        {
+          "name": "irichan!",
+          "url": "https://open.spotify.com/artist/0hk7xvuMOqeUb0MWDkWwH6"
+        }
+      ],
+      "duration_ms": 142921,
+      "name": "Hanging from the Ceiling",
+      "url": "https://open.spotify.com/track/66DDx6xdVC0SqHFCardl5a"
+    },
+    {
+      "added_at": "2024-07-29 16:03:05",
+      "album": {
+        "name": "Please Summer!",
+        "url": "https://open.spotify.com/album/2F0OiYvZqmcfCZ8lFm9v6B"
+      },
+      "artists": [
+        {
+          "name": "KWON EUNBI",
+          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+        }
+      ],
+      "duration_ms": 239280,
+      "name": "Please Summer!",
+      "url": "https://open.spotify.com/track/0MEjDaCkQ90NpegfbwBMZ1"
+    },
+    {
+      "added_at": "2024-07-29 16:03:05",
+      "album": {
+        "name": "Hi-Five",
+        "url": "https://open.spotify.com/album/4pe4BLnbONwKENMUxzYpq9"
+      },
+      "artists": [
+        {
+          "name": "ME:I",
+          "url": "https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC"
+        }
+      ],
+      "duration_ms": 165493,
+      "name": "Hi-Five",
+      "url": "https://open.spotify.com/track/2tInxej0SuDFc5c94x4GBB"
+    },
     {
       "added_at": "2024-07-28 16:03:46",
       "album": {
@@ -172,8 +312,8 @@
           "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         },
         {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0jRzRAdDRdEtz2advDjqx5"
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
         }
       ],
       "duration_ms": 161259,
@@ -707,142 +847,6 @@
       "duration_ms": 183857,
       "name": "Dig Your Man",
       "url": "https://open.spotify.com/track/0I2wfSfWHOu5vn1LyPN67P"
-    },
-    {
-      "added_at": "2024-07-26 14:57:43",
-      "album": {
-        "name": "FVKVRVND",
-        "url": "https://open.spotify.com/album/3iihqMrOyJ3qC5XMBJQ4MT"
-      },
-      "artists": [
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        }
-      ],
-      "duration_ms": 268732,
-      "name": "FVKVRVND",
-      "url": "https://open.spotify.com/track/2YVizOAT1yNq7Say1AhrJR"
-    },
-    {
-      "added_at": "2024-07-26 22:03:34",
-      "album": {
-        "name": "ZAZA",
-        "url": "https://open.spotify.com/album/5qXSlNCHQuaL5DnOP0JSK1"
-      },
-      "artists": [
-        {
-          "name": "Smoke DZA",
-          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
-        }
-      ],
-      "duration_ms": 148489,
-      "name": "ZAZA",
-      "url": "https://open.spotify.com/track/6hVACzif1nps4w5dbUKy4i"
-    },
-    {
-      "added_at": "2024-07-27 04:03:39",
-      "album": {
-        "name": "TILL I DIE",
-        "url": "https://open.spotify.com/album/1u3OUPTtbrr1lA6ml6gjHJ"
-      },
-      "artists": [
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        },
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        }
-      ],
-      "duration_ms": 199314,
-      "name": "TILL I DIE",
-      "url": "https://open.spotify.com/track/6HseMEzSf4mxnUem0O1hJp"
-    },
-    {
-      "added_at": "2024-07-26 04:03:20",
-      "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/45U3g8nL4BlpuD93BmbIv5"
-      },
-      "artists": [
-        {
-          "name": "Hunxho",
-          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
-        }
-      ],
-      "duration_ms": 124728,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/6LM7O0ujf9VfPleIQA1bWm"
-    },
-    {
-      "added_at": "2024-07-25 22:03:21",
-      "album": {
-        "name": "Alone In The Darkness",
-        "url": "https://open.spotify.com/album/2LrDCyBgEEZMoWwxRGbSUQ"
-      },
-      "artists": [
-        {
-          "name": "SIAMES",
-          "url": "https://open.spotify.com/artist/68NOjWuVYBRXzYwhel3jAl"
-        }
-      ],
-      "duration_ms": 203419,
-      "name": "Alone In The Darkness",
-      "url": "https://open.spotify.com/track/4C05h8hyVDmJY3XHJJEvxS"
-    },
-    {
-      "added_at": "2024-07-26 10:02:57",
-      "album": {
-        "name": "Fires",
-        "url": "https://open.spotify.com/album/5Bcp5nraUtNgfvinzOwV0A"
-      },
-      "artists": [
-        {
-          "name": "Trae Tha Truth",
-          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 124917,
-      "name": "Fires",
-      "url": "https://open.spotify.com/track/7tuplUZWycOudn832iuQk3"
-    },
-    {
-      "added_at": "2024-07-27 04:03:39",
-      "album": {
-        "name": "Vulture",
-        "url": "https://open.spotify.com/album/3NMlQpQmM9UTilzO3WaPM7"
-      },
-      "artists": [
-        {
-          "name": "EBK Jaaybo",
-          "url": "https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX"
-        }
-      ],
-      "duration_ms": 188119,
-      "name": "Vulture",
-      "url": "https://open.spotify.com/track/77Q0N60N7yV8JhXPhwWeTQ"
-    },
-    {
-      "added_at": "2024-07-26 04:03:20",
-      "album": {
-        "name": "M4D LUV",
-        "url": "https://open.spotify.com/album/4q7ZGmbDGNH3ZXRfKWqHbJ"
-      },
-      "artists": [
-        {
-          "name": "MILLENNIUM PARADE",
-          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "M4D LUV",
-      "url": "https://open.spotify.com/track/1VvnwevAQLDauz6iZbbxDv"
     }
   ],
   "unique_name": "New Singles Now",

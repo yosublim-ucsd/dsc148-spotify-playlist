@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,127 likes - 105 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,130 likes - 105 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 104 | [HORSE MOM](https://open.spotify.com/track/3OnGfPJyPy1vlK3BTE7cun) | [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [HORSE MOM](https://open.spotify.com/album/53NveX5n9BNu6cTXSsuYcf) | 3:10 |
 | 105 | [I Turned Around](https://open.spotify.com/track/5Vy43CUekEODFlPXYVdpS8) | [Doug Seegers](https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm), [Eva Eastwood](https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH) | [I Turned Around](https://open.spotify.com/album/1GxnntN1xYZJjnLXoe1Vi8) | 2:11 |
 
-Snapshot ID: `ZqLK4AAAAADnTtPzI4C2RAvRDV+bfda/`
+Snapshot ID: `ZqdZsAAAAADRWc5H6DmbU70I3Dj3EVS2`

@@ -1,6 +1,6 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 653553,
+  "num_followers": 653669,
   "original_name": "Energy Booster: K-Pop",
   "owner": {
     "name": "Spotify",
@@ -783,8 +783,8 @@
     {
       "added_at": "2024-07-24 11:12:47",
       "album": {
-        "name": "ODDINARY",
-        "url": "https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q"
+        "name": "SLASH",
+        "url": "https://open.spotify.com/album/7pu8cy2ZNnN2rlLlkXXwq9"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         }
       ],
-      "duration_ms": 182757,
-      "name": "MANIAC",
-      "url": "https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR"
+      "duration_ms": 191626,
+      "name": "SLASH",
+      "url": "https://open.spotify.com/track/2MKGrYH1PyPAUKu2Sl8IaT"
     },
     {
       "added_at": "2024-07-24 11:12:47",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-07-24 11:12:47",
       "album": {
+        "name": "Beatbox - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 205133,
+      "name": "Beatbox",
+      "url": "https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB"
+    },
+    {
+      "added_at": "2024-07-24 11:12:47",
+      "album": {
         "name": "HOW?",
         "url": "https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 152400,
       "name": "plot twist",
       "url": "https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj"
-    },
-    {
-      "added_at": "2024-07-24 11:12:47",
-      "album": {
-        "name": "Beatbox - The 2nd Album Repackage",
-        "url": "https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 205133,
-      "name": "Beatbox",
-      "url": "https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB"
     },
     {
       "added_at": "2024-07-24 11:12:47",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-07-24 11:12:47",
       "album": {
-        "name": "RIIZING - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/52DnBWGBeFmhQP5fkpVPoO"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 152889,
-      "name": "Boom Boom Bass",
-      "url": "https://open.spotify.com/track/6Ixrp3yXfzv5brZXmZuXXN"
-    },
-    {
-      "added_at": "2024-07-24 11:12:47",
-      "album": {
         "name": "DREAM( )SCAPE",
         "url": "https://open.spotify.com/album/7aIpspBgbsrUgU7nWvz5sp"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 188080,
       "name": "Smoothie",
       "url": "https://open.spotify.com/track/5qrFeNSIrwIc0B6Elp16Dl"
+    },
+    {
+      "added_at": "2024-07-24 11:12:47",
+      "album": {
+        "name": "RIIZING - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/52DnBWGBeFmhQP5fkpVPoO"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 152889,
+      "name": "Boom Boom Bass",
+      "url": "https://open.spotify.com/track/6Ixrp3yXfzv5brZXmZuXXN"
     },
     {
       "added_at": "2024-07-24 11:12:47",

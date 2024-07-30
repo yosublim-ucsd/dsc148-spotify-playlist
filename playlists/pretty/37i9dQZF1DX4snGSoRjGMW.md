@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 
 > Soul meets blues\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,646 likes - 80 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,694 likes - 80 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

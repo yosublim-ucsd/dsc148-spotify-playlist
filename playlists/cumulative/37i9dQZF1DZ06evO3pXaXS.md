@@ -2,9 +2,9 @@
 
 ### [This Is The Police](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3pXaXS)
 
-> This is: The Police\. Alle wichtigen Tracks in einer Playlist.
+> This is The Police\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 59 min
+63 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Shadows In The Rain](https://open.spotify.com/track/5oC43QkhoMplHxrlAK0wBW) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Zenyatta Mondatta \(Remastered 2003\)](https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ) | 5:02 | 2024-05-14 | 2024-07-18 |
 | [Shambelle](https://open.spotify.com/track/2jn9j0RG0UKukFZAviVCbG) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 5:10 | 2022-09-17 |  |
 | [So Lonely](https://open.spotify.com/track/2wnsBaxrmkthIFAm6vqCuX) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 4:49 | 2022-09-17 |  |
+| [Someone To Talk To](https://open.spotify.com/track/5kijcc1kZNSFcEboJsDVkF) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Super Deluxe Edition\)](https://open.spotify.com/album/4IdDVb3BntFlGHKrFA5sea) | 3:04 | 2024-07-30 |  |
 | [Spirits In The Material World](https://open.spotify.com/track/4frelkLhC4ATqJH9VGJztu) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered 2003\)](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 2:59 | 2022-09-17 |  |
 | [Synchronicity I](https://open.spotify.com/track/0eZvCQAK6hsPSlcfqzREvB) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 3:23 | 2022-09-17 |  |
 | [Synchronicity II](https://open.spotify.com/track/5ynO8cYFjDwELIZfFHHeYe) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 5:00 | 2022-09-17 |  |

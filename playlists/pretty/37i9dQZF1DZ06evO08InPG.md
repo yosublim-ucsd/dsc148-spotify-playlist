@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 
 > This is Machine Head\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,583 likes - 50 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,587 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 | 45 | [Clenching the Fists of Dissent](https://open.spotify.com/track/7ao9MKmhkjeFxw0alndkdM) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Blackening](https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI) | 10:36 |
 | 46 | [Behind A Mask](https://open.spotify.com/track/7bcjXWbCi5FpRf48oca8JJ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Catharsis](https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq) | 4:07 |
 | 47 | [Be Still and Know](https://open.spotify.com/track/3cVniBBRC955LHAXiXGER0) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Unto the Locust \(Special Edition\)](https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz) | 5:43 |
-| 48 | [Exhale the Vile](https://open.spotify.com/track/0xHplW3Y2M3f4wOgGLa3F2) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 4:56 |
-| 49 | [Crashing Around You](https://open.spotify.com/track/6FlLqxn1lNuVo8J5xABDcb) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Supercharger](https://open.spotify.com/album/4W35ayLEiRSBBaN4Ov1of1) | 3:13 |
+| 48 | [Crashing Around You](https://open.spotify.com/track/6FlLqxn1lNuVo8J5xABDcb) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Supercharger](https://open.spotify.com/album/4W35ayLEiRSBBaN4Ov1of1) | 3:13 |
+| 49 | [Exhale the Vile](https://open.spotify.com/track/0xHplW3Y2M3f4wOgGLa3F2) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 4:56 |
 | 50 | [Struck a Nerve](https://open.spotify.com/track/296Tab5qscBCWU8rsOb8uf) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The More Things Change...](https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL) | 3:33 |
 
-Snapshot ID: `ZqQ4gAAAAACtCRr1j5pELBQXjSKQauNd`
+Snapshot ID: `ZqWKAAAAAAD+rZtsOOvWNKvI1flFcWSr`

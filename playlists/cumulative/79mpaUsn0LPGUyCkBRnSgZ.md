@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-714 songs - 1 day 22 hr 54 min
+715 songs - 1 day 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Down to the Waterline](https://open.spotify.com/track/0NnuQYRXNIzncgftfbTV3P) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe) | 4:02 | 2023-08-03 |  |
 | [drake era](https://open.spotify.com/track/2lHu8kPlCkYID8BeU3EAwz) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [black ben carson](https://open.spotify.com/album/1oDgCslpzVA6zATNLPFo7f) | 3:57 | 2022-01-17 | 2023-07-31 |
 | [Drake Era](https://open.spotify.com/track/3gKtBvLJwuh2dg6x1dLDah) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Black Ben Carson](https://open.spotify.com/album/6Y7UjxYGvWGxY5KZDafQKi) | 3:57 | 2023-07-30 | 2023-08-02 |
+| [Dreaming, backwards](https://open.spotify.com/track/5rYwlaFTyCKfkwOJKbjTp1) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Turbulence](https://open.spotify.com/album/3KgzhcQdPTZOkIXHuxpiYH) | 3:33 | 2024-07-29 |  |
 | [Drive](https://open.spotify.com/track/3geRffSf6eAruhg23RkpKV) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 4:31 | 2022-06-16 | 2023-12-14 |
 | [Drone](https://open.spotify.com/track/3ZQpms23dgtgox86dd7eGV) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [Time to Go Home](https://open.spotify.com/album/6qGYhu450Xc73YbNAVkM3U) | 4:33 | 2023-08-12 |  |
 | [Dumbest Girl Alive](https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 2:17 | 2023-03-17 | 2023-04-03 |

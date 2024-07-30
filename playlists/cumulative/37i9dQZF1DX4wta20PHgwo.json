@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "(I Don't Stand) a Ghost of a Chance (With You) [Live]",
+        "url": "https://open.spotify.com/album/3SkGdRWT8XuhZl5dlau4NP"
+      },
+      "artists": [
+        {
+          "name": "Bill Charlap Trio",
+          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315606,
+      "name": "(I Don't Stand) a Ghost of a Chance (With You) - Live",
+      "url": "https://open.spotify.com/track/3QJB8tBtStugugXGaJFHJr"
+    },
+    {
+      "album": {
         "name": "49th Parallel",
         "url": "https://open.spotify.com/album/29iyAKlz6R1mgwKrzOybop"
       },
@@ -240,7 +258,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 252629,
       "name": "Ack V\u00e4rmeland, Du Sk\u00f6na",
       "url": "https://open.spotify.com/track/7yPwVv5eIzLAV6wlb5b5bn"
@@ -3474,7 +3492,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 303680,
       "name": "I Can\u2019t Make You Love Me",
       "url": "https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0"
@@ -6018,7 +6036,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-29",
+      "date_removed": null,
       "duration_ms": 231506,
       "name": "On and On",
       "url": "https://open.spotify.com/track/6kWTNMxiPjj7Ph7wEEk2gS"

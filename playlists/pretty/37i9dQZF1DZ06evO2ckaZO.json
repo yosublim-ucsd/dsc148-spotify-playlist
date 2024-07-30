@@ -1,12 +1,12 @@
 {
   "description": "This is Ice Spice. The essential tracks, all in one playlist.",
-  "num_followers": 64139,
+  "num_followers": 64199,
   "original_name": "This Is Ice Spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAAACjs/WaYNxJ1zMvY3L5pVN",
+  "snapshot_id": "ZqWKAAAAAABbPsRtfgpptMSTLGKxILbY",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y2K!",
+        "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 116571,
+      "name": "BB Belt",
+      "url": "https://open.spotify.com/track/3oLlS8NTMdePBohjgPZKk1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Like..?",
         "url": "https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 159370,
       "name": "Gangsta Boo (with Lil Tjay)",
       "url": "https://open.spotify.com/track/2g5q0UpOOFMNOcHGaMG4b0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y2K!",
-        "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 116571,
-      "name": "BB Belt",
-      "url": "https://open.spotify.com/track/3oLlS8NTMdePBohjgPZKk1"
     },
     {
       "added_at": null,
@@ -343,6 +343,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y2K!",
+        "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 162077,
+      "name": "Bitch I'm Packin' (with Gunna)",
+      "url": "https://open.spotify.com/track/2rJZIb1hE25Fp58ayrG7eg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Clarity",
         "url": "https://open.spotify.com/album/5N6REUhO5E2MviBC6thktg"
       },
@@ -355,22 +375,6 @@
       "duration_ms": 108169,
       "name": "No Clarity",
       "url": "https://open.spotify.com/track/0tnT8B415mZyOYETy2ulVv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y2K!",
-        "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 159999,
-      "name": "Popa",
-      "url": "https://open.spotify.com/track/5WODIX9TtDrmD9oAFFoxkG"
     },
     {
       "added_at": null,
@@ -407,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y2K!",
+        "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 159999,
+      "name": "Popa",
+      "url": "https://open.spotify.com/track/5WODIX9TtDrmD9oAFFoxkG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Euphoric",
         "url": "https://open.spotify.com/album/4Myiyj4LgdPiGZg2BzOtt5"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 113424,
       "name": "Euphoric",
       "url": "https://open.spotify.com/track/7eVMSaoemrk7HiuZp33A3l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y2K!",
-        "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 162077,
-      "name": "Bitch I'm Packin' (with Gunna)",
-      "url": "https://open.spotify.com/track/2rJZIb1hE25Fp58ayrG7eg"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be a Lady",
-        "url": "https://open.spotify.com/album/2O2f6deLC6CypQx1yPowXy"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 81860,
-      "name": "Be a Lady",
-      "url": "https://open.spotify.com/track/4nQPTDWfelAXJN1VyXmksI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y2K!",
         "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 161032,
       "name": "Plenty Sun",
       "url": "https://open.spotify.com/track/64V1QOrbbWGRG3nHpLLeEm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be a Lady",
+        "url": "https://open.spotify.com/album/2O2f6deLC6CypQx1yPowXy"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 81860,
+      "name": "Be a Lady",
+      "url": "https://open.spotify.com/track/4nQPTDWfelAXJN1VyXmksI"
     },
     {
       "added_at": null,

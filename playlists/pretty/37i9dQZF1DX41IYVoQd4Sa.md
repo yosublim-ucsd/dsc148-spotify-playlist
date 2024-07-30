@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל\. קאבר: דודו טסה
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,903 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,909 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,23 +50,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 40 | [עכשיו זה ברור](https://open.spotify.com/track/73Jk7n3oRhHQwGbqZaGhPz) | [Gil Bar Hadas](https://open.spotify.com/artist/3Y9inlj5vz1rd0vzgw6tCJ) | [עכשיו זה ברור](https://open.spotify.com/album/4h5okaeqvmjLvXOraI1JxI) | 3:38 |
 | 41 | [מעונה לעונה](https://open.spotify.com/track/22jXWfwJBMhBXgA9rVDffX) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [מעונה לעונה](https://open.spotify.com/album/05Fd43H9kijfdRJECTCYBV) | 3:33 |
 | 42 | [Wild Wonder](https://open.spotify.com/track/6jLzdA8hcaEBYVjtGYfP09) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY) | [Wild Wonder](https://open.spotify.com/album/5ye1IukbFGXuGABrWuTMoB) | 4:08 |
-| 43 | [Petrified](https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV) | [David Lerner](https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR) | [Petrified](https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP) | 4:12 |
-| 44 | [האם נדע להיוולד שוב מחדש](https://open.spotify.com/track/6icmYzENBRjRO5AKIP2kBz) | [The Backyard](https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB) | [האם נדע להיוולד שוב מחדש](https://open.spotify.com/album/5rzvnCtCEJk4pGsxx8OkFL) | 3:46 |
-| 45 | [לב](https://open.spotify.com/track/2kxiveWK7YFaSdecpSwCrP) | [יוגב גלוסמן](https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO) | [לב](https://open.spotify.com/album/4gaVOXO7NvJwgXhQQ2SIRj) | 3:45 |
-| 46 | [אהבה עצמית](https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [אהבה עצמית](https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW) | 4:05 |
+| 43 | [האם נדע להיוולד שוב מחדש](https://open.spotify.com/track/6icmYzENBRjRO5AKIP2kBz) | [The Backyard](https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB) | [האם נדע להיוולד שוב מחדש](https://open.spotify.com/album/5rzvnCtCEJk4pGsxx8OkFL) | 3:46 |
+| 44 | [Petrified](https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV) | [David Lerner](https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR) | [Petrified](https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP) | 4:12 |
+| 45 | [אהבה עצמית](https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [אהבה עצמית](https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW) | 4:05 |
+| 46 | [לב](https://open.spotify.com/track/2kxiveWK7YFaSdecpSwCrP) | [יוגב גלוסמן](https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO) | [לב](https://open.spotify.com/album/4gaVOXO7NvJwgXhQQ2SIRj) | 3:45 |
 | 47 | [אני רוצה את החיים שלי בחזרה](https://open.spotify.com/track/6XXmUYotqTIbx9xOd9lQqW) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [אני רוצה את החיים שלי בחזרה](https://open.spotify.com/album/6LJUzUbBtkwmgpCosXc0jh) | 2:48 |
 | 48 | [Smile Again](https://open.spotify.com/track/1lQjJ8jEgRtlvHWK16JyER) | [Aviram](https://open.spotify.com/artist/7qRREBnshFcjRrO934sLF8) | [You Are What You Do](https://open.spotify.com/album/2zpV0nJZs5H56fETTAynlx) | 3:20 |
 | 49 | [במקום אחר](https://open.spotify.com/track/6m3qxagd6VP0zpBnfd6MXi) | [Yoni Rechter](https://open.spotify.com/artist/05YG290otZjn1UMHXjEqxh) | [במקום אחר](https://open.spotify.com/album/0Ch02uieisTBRUvU3i5vfJ) | 3:25 |
 | 50 | [עת לאהוב](https://open.spotify.com/track/1dK2qSifRQNbHlhgImIstf) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [עת לאהוב](https://open.spotify.com/album/2EN0t3s8obVmls1bxVbcHO) | 3:08 |
 | 51 | [תמיד ילדים](https://open.spotify.com/track/4ZB8VUBs5WXlfRXFtXMZqq) | [Noifeld's Glasses](https://open.spotify.com/artist/4moIrr6CFQSWiglLx5q9SS), [Guy Mazig](https://open.spotify.com/artist/2Ky0L9EAz66AEhFfeak23R) | [תמיד ילדים](https://open.spotify.com/album/0uWDmGSuYnaD9xbd7zioIS) | 3:28 |
-| 52 | [לבזבז לך את הזמן](https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק ב'](https://open.spotify.com/album/21absbNyeEXykXGFsK62mP) | 3:16 |
-| 53 | [Goodbye Mary](https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Goodbye Mary](https://open.spotify.com/album/5KsciL7LLiqealaHqXw82a) | 3:03 |
+| 52 | [Goodbye Mary](https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Goodbye Mary](https://open.spotify.com/album/5KsciL7LLiqealaHqXw82a) | 3:03 |
+| 53 | [שוב לא יכולתי לישון](https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [Eder 2 Lipschitz](https://open.spotify.com/artist/2omk6v84kD0vX9TaAZ7jR2), [יהודה עדר](https://open.spotify.com/artist/5LhqNdFK1YXr8qcf7is7Kh), [הרי ליפשיץ](https://open.spotify.com/artist/3JygULwEzXNWvwWyhJMP5s) | [שוב לא יכולתי לישון](https://open.spotify.com/album/43mFIYYPdf1tqmpqYA1wpM) | 3:10 |
 | 54 | [הכל פה משובש](https://open.spotify.com/track/5H7rrKBPj7xyU3XrRpP6FI) | [The Backyard](https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB) | [הכל פה משובש](https://open.spotify.com/album/6P206uroOIPyQqQ1WFovt6) | 3:39 |
-| 55 | [ומה נשאר](https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa) | [Ilan Peled](https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [ומה נשאר](https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy) | 3:55 |
-| 56 | [שוב לא יכולתי לישון](https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [Eder 2 Lipschitz](https://open.spotify.com/artist/2omk6v84kD0vX9TaAZ7jR2), [יהודה עדר](https://open.spotify.com/artist/5LhqNdFK1YXr8qcf7is7Kh), [הרי ליפשיץ](https://open.spotify.com/artist/3JygULwEzXNWvwWyhJMP5s) | [שוב לא יכולתי לישון](https://open.spotify.com/album/43mFIYYPdf1tqmpqYA1wpM) | 3:10 |
-| 57 | [Carry me home](https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [Water on Water](https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P) | 5:08 |
-| 58 | [צ'ופ צ'ופ](https://open.spotify.com/track/6EC5YNG81bMVfxX56u0j9T) | [סלון קורטינה](https://open.spotify.com/artist/4c2Lkr9QFX5ifjlLKgFd5o), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [צ'ופ צ'ופ](https://open.spotify.com/album/5ZciqquzRfFvGev2NZhwgs) | 2:37 |
-| 59 | [לחיות](https://open.spotify.com/track/57AB4nVaoAcCE11UBwOuhB) | [Daniela Spector](https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W) | [לחיות](https://open.spotify.com/album/15e4Iu5sz7Efpn3yC51uCD) | 4:07 |
+| 55 | [לבזבז לך את הזמן](https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק ב'](https://open.spotify.com/album/21absbNyeEXykXGFsK62mP) | 3:16 |
+| 56 | [Carry me home](https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [Water on Water](https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P) | 5:08 |
+| 57 | [ומה נשאר](https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa) | [Ilan Peled](https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [ומה נשאר](https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy) | 3:55 |
+| 58 | [לחיות](https://open.spotify.com/track/57AB4nVaoAcCE11UBwOuhB) | [Daniela Spector](https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W) | [לחיות](https://open.spotify.com/album/15e4Iu5sz7Efpn3yC51uCD) | 4:07 |
+| 59 | [צ'ופ צ'ופ](https://open.spotify.com/track/6EC5YNG81bMVfxX56u0j9T) | [סלון קורטינה](https://open.spotify.com/artist/4c2Lkr9QFX5ifjlLKgFd5o), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [צ'ופ צ'ופ](https://open.spotify.com/album/5ZciqquzRfFvGev2NZhwgs) | 2:37 |
 | 60 | [היי אחות](https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn) | [Aya Zahavi Feiglin](https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2) | [היי אחות](https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB) | 3:49 |
 
 Snapshot ID: `ZqK80AAAAADzCSKEILjTc+2+0+nOVAyO`

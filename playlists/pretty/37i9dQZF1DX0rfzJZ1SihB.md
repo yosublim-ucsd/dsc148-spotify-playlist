@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rfzJZ1SihB.md) - [plain]
 
 > 2024 年金曲 35 全名單出爐！和 Spotify 一起全力支持優秀歌手與傑出作品！
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,847 likes - 106 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,842 likes - 106 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

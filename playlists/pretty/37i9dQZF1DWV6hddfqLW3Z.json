@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 797824,
+  "num_followers": 797851,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,22 @@
     {
       "added_at": "2024-07-26 15:07:29",
       "album": {
+        "name": "P\u00fablico",
+        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 131426,
+      "name": "Devolva-Me (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
+    },
+    {
+      "added_at": "2024-07-26 15:07:29",
+      "album": {
         "name": "COR",
         "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 201452,
       "name": "Amarelo, azul e branco",
       "url": "https://open.spotify.com/track/2LOIoeI16A8jjKubPKoCSa"
-    },
-    {
-      "added_at": "2024-07-26 15:07:29",
-      "album": {
-        "name": "P\u00fablico",
-        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
-      },
-      "artists": [
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 131426,
-      "name": "Devolva-Me (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
     },
     {
       "added_at": "2024-07-26 15:07:29",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-07-26 15:07:29",
       "album": {
+        "name": "Flora - EP",
+        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Vem conversar",
+      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
+    },
+    {
+      "added_at": "2024-07-26 15:07:29",
+      "album": {
         "name": "PRISCILLA",
         "url": "https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 205640,
       "name": "BOSSA (feat. P\u00e9ricles)",
       "url": "https://open.spotify.com/track/1ueVf1rPWSALnfLdenJZUq"
-    },
-    {
-      "added_at": "2024-07-26 15:07:29",
-      "album": {
-        "name": "Flora - EP",
-        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Vem conversar",
-      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
     },
     {
       "added_at": "2024-07-26 15:07:29",
@@ -951,30 +951,6 @@
     {
       "added_at": "2024-07-26 15:07:29",
       "album": {
-        "name": "Um Vento Passou (para Paul Simon)",
-        "url": "https://open.spotify.com/album/33UAU0Ydepj6ohDfiUFPPp"
-      },
-      "artists": [
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        },
-        {
-          "name": "Esperanza Spalding",
-          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
-        },
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 276973,
-      "name": "Um Vento Passou (para Paul Simon) [Feat. Paul Simon]",
-      "url": "https://open.spotify.com/track/7aFU5mdJcsyhP6UAteoDiH"
-    },
-    {
-      "added_at": "2024-07-26 15:07:29",
-      "album": {
         "name": "A Morte de um Deus de Sal",
         "url": "https://open.spotify.com/album/019T33OgzsIGyamxapvv6V"
       },
@@ -1007,6 +983,30 @@
       "duration_ms": 203810,
       "name": "A Morte de um Deus de Sal",
       "url": "https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy"
+    },
+    {
+      "added_at": "2024-07-26 15:07:29",
+      "album": {
+        "name": "Um Vento Passou (para Paul Simon)",
+        "url": "https://open.spotify.com/album/33UAU0Ydepj6ohDfiUFPPp"
+      },
+      "artists": [
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        },
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        },
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 276973,
+      "name": "Um Vento Passou (para Paul Simon) [Feat. Paul Simon]",
+      "url": "https://open.spotify.com/track/7aFU5mdJcsyhP6UAteoDiH"
     },
     {
       "added_at": "2024-07-26 15:07:29",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-26 15:07:29",
       "album": {
-        "name": "Na Medida do Imposs\u00edvel Ao Vivo No Inhotim (\u00c1lbum Comentado)",
-        "url": "https://open.spotify.com/album/6duND4qwkaiUAyVFsoJUfB"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Takai",
-          "url": "https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE"
-        }
-      ],
-      "duration_ms": 207933,
-      "name": "I Don't Want To Talk About It",
-      "url": "https://open.spotify.com/track/79hHaRraMY1E8t8U2TS7jK"
-    },
-    {
-      "added_at": "2024-07-26 15:07:29",
-      "album": {
         "name": "Lanca Perfume E Outras Manias",
         "url": "https://open.spotify.com/album/4XLbkcXDkeCPrCInaG9bvS"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 314240,
       "name": "Lan\u00e7a Perfume",
       "url": "https://open.spotify.com/track/3RCoY39kzmHdnvCvHeGh3K"
+    },
+    {
+      "added_at": "2024-07-26 15:07:29",
+      "album": {
+        "name": "Na Medida do Imposs\u00edvel Ao Vivo No Inhotim (\u00c1lbum Comentado)",
+        "url": "https://open.spotify.com/album/6duND4qwkaiUAyVFsoJUfB"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Takai",
+          "url": "https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE"
+        }
+      ],
+      "duration_ms": 207933,
+      "name": "I Don't Want To Talk About It",
+      "url": "https://open.spotify.com/track/79hHaRraMY1E8t8U2TS7jK"
     },
     {
       "added_at": "2024-07-26 15:07:29",

@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-948 songs - 2 day 9 hr 21 min
+949 songs - 2 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -558,7 +558,7 @@
 | [My Favourite Mistake](https://open.spotify.com/track/1sPQ7UdfZSeyDWiLCNpzmP) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Susanne Teutenberg](https://open.spotify.com/artist/1Xx7LP7rI1PIQeCtr6mN7K) | [My Favourite Mistake](https://open.spotify.com/album/3wx7Cl43qUKymyCUcHij79) | 3:23 | 2021-12-17 | 2022-03-12 |
 | [My Favourite Regret](https://open.spotify.com/track/28WhIQXVtwRjFxtmWwQPFJ) | [Costa](https://open.spotify.com/artist/7IIb3I34G7MKHkscqTWPIJ), [Emilya Buchan](https://open.spotify.com/artist/51BgE8J8VoDwG5Ee8tt3D8) | [My Favourite Regret](https://open.spotify.com/album/1fKNkaqCHCBH9U9kC75w2x) | 3:29 | 2023-04-07 | 2023-09-30 |
 | [My Guiding Light](https://open.spotify.com/track/6WQ0dxunGQuNXVNYmkDXfU) | [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n), [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR) | [My Guiding Light](https://open.spotify.com/album/62I1qDECH4NTIbBFtMSaJz) | 3:45 | 2021-12-17 | 2022-12-10 |
-| [My Silver Lining](https://open.spotify.com/track/0mcJHIEb7aTQ2HKojKUJNO) | [Kaimo K](https://open.spotify.com/artist/3pHzhNMn89uU2Sux4KW1qN), [Hanna Finsen](https://open.spotify.com/artist/5aszqubLG0rR6bsz8BAzwP) | [My Silver Lining](https://open.spotify.com/album/6Ut9OeHJzxxXB0wYHx6OZ0) | 3:51 | 2024-02-16 |  |
+| [My Silver Lining](https://open.spotify.com/track/0mcJHIEb7aTQ2HKojKUJNO) | [Kaimo K](https://open.spotify.com/artist/3pHzhNMn89uU2Sux4KW1qN), [Hanna Finsen](https://open.spotify.com/artist/5aszqubLG0rR6bsz8BAzwP) | [My Silver Lining](https://open.spotify.com/album/6Ut9OeHJzxxXB0wYHx6OZ0) | 3:51 | 2024-02-16 | 2024-07-30 |
 | [Mystery Land](https://open.spotify.com/track/6rfu5u7FoVAjwWe5FMCXU0) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR) | [Mystery Land](https://open.spotify.com/album/4QskDsUUCcNFRUjORs6ii6) | 3:44 | 2022-02-04 | 2022-08-27 |
 | [Mystery Land \- Abstract Vision Remix](https://open.spotify.com/track/0oM8WkhtcYFbO0sBIk4lQj) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Abstract Vision](https://open.spotify.com/artist/38ll04WO5aX23GmDvdneOr) | [Mystery Land \(Abstract Vision Remix\)](https://open.spotify.com/album/0HjlbIXGVYGWGNgOgVEGay) | 3:30 | 2023-02-03 | 2023-02-18 |
 | [Namaqua](https://open.spotify.com/track/1xAGRuYdaCx6lGAuDNtfxp) | [Protoculture](https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96) | [Namaqua](https://open.spotify.com/album/2qJ52WvCqgrBjN26i9dzV3) | 3:58 | 2021-12-17 | 2023-02-25 |
@@ -614,6 +614,7 @@
 | [Open Your Eyes](https://open.spotify.com/track/0xCdgF66ktkaVpiFXoXlp0) | [Inrayzex](https://open.spotify.com/artist/2OQGGn8Wi28QOTks6NroWf) | [Suanda Music Radio Top 20 \(May 2022\)](https://open.spotify.com/album/2qRknvwmzLJAl0TF18dTMv) | 3:23 | 2022-05-20 | 2022-07-29 |
 | [Orbit 37](https://open.spotify.com/track/40fFjxtsBoIdTEL71kbp39) | [Rub!k](https://open.spotify.com/artist/5U2wxAflSm2aCkV61rqhX2) | [Orbit 37](https://open.spotify.com/album/1F6PBJ4VSUq4KqoQVjPppM) | 2:54 | 2022-05-27 | 2023-05-20 |
 | [Orbital](https://open.spotify.com/track/293aty9q7lfkX34uMS9m1J) | [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR) | [Orbital](https://open.spotify.com/album/2yLAOO3R8McWCjTDJYF12F) | 3:29 | 2024-07-12 |  |
+| [Orion](https://open.spotify.com/track/4jUfgt75bm6jogy5iMLVEZ) | [Driftmoon](https://open.spotify.com/artist/4iMFxtzAcgUfbsagyY3Vla), [Hel:sløwed](https://open.spotify.com/artist/153wxN1mEz167KM0a34zss) | [Orion](https://open.spotify.com/album/0bzJlohenSutVgiW39yXI1) | 3:15 | 2024-07-26 |  |
 | [Orkaan](https://open.spotify.com/track/0VFjEgr9njZFDUqOYvW4lT) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [Maarten de Jong](https://open.spotify.com/artist/1Rkbc6XIHQ89uq9n1a8kGY) | [Orkaan](https://open.spotify.com/album/66lxk1HRuQvpRsplqxZaOT) | 3:15 | 2023-05-19 | 2023-06-10 |
 | [Other Days](https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL) | [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs) | [Other Days](https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS) | 4:05 | 2022-06-10 | 2022-07-16 |
 | [Other Eye](https://open.spotify.com/track/4R7fUqdunkboVEVxVZQC3K) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Gabriel & Dresden](https://open.spotify.com/artist/64KfnYe81Wld2AkG4bkGIV), [Sub Teal](https://open.spotify.com/artist/3oqiDRfqAdXhjdGh4eY3hT) | [Other Eye](https://open.spotify.com/album/2RdgrxAAz38mRRmIsNbEhS) | 4:59 | 2023-08-04 |  |

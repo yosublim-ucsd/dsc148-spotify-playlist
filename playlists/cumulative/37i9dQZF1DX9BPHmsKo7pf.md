@@ -2,9 +2,9 @@
 
 ### [Hot Hits România](https://open.spotify.com/playlist/37i9dQZF1DX9BPHmsKo7pf)
 
-> Cele mai de succes 50 de hituri în România\. Cover: Sevdaliza, Pabllo Vittar, Yseult
+> Cele mai de succes 50 de hituri în România\. Cover: Babasha
 
-58 songs - 2 hr 41 min
+59 songs - 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-07-01 |  |
 | [Burj Khalifa](https://open.spotify.com/track/1XnSv4BUz58CBzioQap0V1) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Sheik](https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW) | [Burj Khalifa](https://open.spotify.com/album/2VU7IC0UMSavJkd7mbpr7P) | 2:31 | 2024-07-01 |  |
 | [Ciocolata](https://open.spotify.com/track/1CbI1EWcf3KFg4QJsKa3aT) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66) | [Ciocolata](https://open.spotify.com/album/70F5lVP5WzSrN3kcqK3jC4) | 2:49 | 2024-07-01 |  |
+| [CĂPITAN](https://open.spotify.com/track/00vWmTHP6E63KXqIdbgsm9) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR) | [CĂPITAN](https://open.spotify.com/album/36tJXOX1DLnVvDRoLfcBpM) | 3:29 | 2024-07-29 |  |
 | [Dame La Mano](https://open.spotify.com/track/1IF9KwFc9CzUUlLtVSK4Sx) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [El Pasado](https://open.spotify.com/album/6Khaxo5eONr9En7sT8Fvjn) | 2:54 | 2024-07-01 |  |
 | [De la dela](https://open.spotify.com/track/4qQDJp46yZj6xz8mwq91v7) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [De la dela](https://open.spotify.com/album/6pba5ksDHtVywuKyhlpzmy) | 3:23 | 2024-07-01 |  |
 | [Decibeli](https://open.spotify.com/track/0ogZ6EecrYbNQhKIQCCXyz) | [Alex Botea](https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz) | [Decibeli](https://open.spotify.com/album/5jylDMNyLWXD1Jcgt4GKgA) | 3:54 | 2024-07-01 | 2024-07-16 |
@@ -46,7 +47,7 @@
 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-07-01 |  |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-07-01 |  |
 | [Pe un pat](https://open.spotify.com/track/5kR18jBm2HQaavnVSVg3a8) | [Iuly Neamtu](https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Pe un pat](https://open.spotify.com/album/21zqnnQMRL5GHAMzDOcX81) | 2:37 | 2024-07-01 |  |
-| [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-07-01 |  |
+| [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-07-01 | 2024-07-30 |
 | [PRAF 3](https://open.spotify.com/track/1JZG2Uy2YX81JVWFGpz16J) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [PRAF 3](https://open.spotify.com/album/0eQ1ejoOl4WVZBVbuCKcIi) | 3:07 | 2024-07-22 |  |
 | [Păi naa](https://open.spotify.com/track/3BAZCKKEbilNdQgTSLBca9) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Păi naa](https://open.spotify.com/album/3DEotmKWHGF5DUHwXfgu5Q) | 2:40 | 2024-07-01 |  |
 | [REGINA](https://open.spotify.com/track/5yGAxh5wM6di5gmlD79jDY) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [REGINA](https://open.spotify.com/album/5v1ISrc4VsxiFhoxJj1Qk8) | 2:18 | 2024-07-01 |  |

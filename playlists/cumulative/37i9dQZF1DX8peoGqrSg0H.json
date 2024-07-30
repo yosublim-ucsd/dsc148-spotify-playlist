@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Aftercry",
+        "url": "https://open.spotify.com/album/0EzeQWsY83xRG35HMF1wsG"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231200,
+      "name": "Aftercry",
+      "url": "https://open.spotify.com/track/0lWlgVOKrCpa1AQfvlIZqM"
+    },
+    {
+      "album": {
         "name": "ALALA (To The Top) - Single",
         "url": "https://open.spotify.com/album/2sLjFbcHqYmFW0ue0Ivlwl"
       },
@@ -8160,7 +8178,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-30",
       "duration_ms": 255957,
       "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01 (Hook) (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e41\u0e1f\u0e19\u0e1c\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19 My School President)",
       "url": "https://open.spotify.com/track/3IPNXwdcnW8WSMvUPl66hI"

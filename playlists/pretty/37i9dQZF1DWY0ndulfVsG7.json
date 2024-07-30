@@ -1,6 +1,6 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Yovie Widianto, Lyodra",
-  "num_followers": 55847,
+  "num_followers": 55867,
   "original_name": "Berjiran",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-07-25 17:17:46",
       "album": {
-        "name": "Seperti Seharusnya",
-        "url": "https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL"
-      },
-      "artists": [
-        {
-          "name": "Noah",
-          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
-        }
-      ],
-      "duration_ms": 266306,
-      "name": "Separuh Aku",
-      "url": "https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq"
-    },
-    {
-      "added_at": "2024-07-25 17:17:46",
-      "album": {
         "name": "And the Story Continues...",
         "url": "https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 241763,
       "name": "Takkan Terganti",
       "url": "https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB"
+    },
+    {
+      "added_at": "2024-07-25 17:17:46",
+      "album": {
+        "name": "Seperti Seharusnya",
+        "url": "https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL"
+      },
+      "artists": [
+        {
+          "name": "Noah",
+          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
+        }
+      ],
+      "duration_ms": 266306,
+      "name": "Separuh Aku",
+      "url": "https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq"
     },
     {
       "added_at": "2024-07-25 17:17:46",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-07-25 17:17:46",
       "album": {
-        "name": "Confession No.1",
-        "url": "https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v"
-      },
-      "artists": [
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        }
-      ],
-      "duration_ms": 251454,
-      "name": "Terima Kasih Cinta",
-      "url": "https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi"
-    },
-    {
-      "added_at": "2024-07-25 17:17:46",
-      "album": {
         "name": "Setengah Mati Merindu",
         "url": "https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 276146,
       "name": "Bukan Dia Tapi Aku",
       "url": "https://open.spotify.com/track/5dhJhL42WWQLYBUTbMtLF7"
+    },
+    {
+      "added_at": "2024-07-25 17:17:46",
+      "album": {
+        "name": "Confession No.1",
+        "url": "https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 251454,
+      "name": "Terima Kasih Cinta",
+      "url": "https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi"
     },
     {
       "added_at": "2024-07-25 17:17:46",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-07-25 17:17:46",
       "album": {
+        "name": "Kembali",
+        "url": "https://open.spotify.com/album/6fr7fkitqzxiVfe6d6oCGQ"
+      },
+      "artists": [
+        {
+          "name": "Rossa",
+          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+        }
+      ],
+      "duration_ms": 241493,
+      "name": "Aku Bukan Untukmu",
+      "url": "https://open.spotify.com/track/2DonLaO8H1Pa6MbuM2wbkf"
+    },
+    {
+      "added_at": "2024-07-25 17:17:46",
+      "album": {
         "name": "Satu Hati Sejuta Cinta",
         "url": "https://open.spotify.com/album/78rrGhb8kb4g0P8ewToKIo"
       },
@@ -659,26 +675,6 @@
       "duration_ms": 239506,
       "name": "Mabuk Cinta",
       "url": "https://open.spotify.com/track/7gWcfdZVM1uunqG6trmQVG"
-    },
-    {
-      "added_at": "2024-07-25 17:17:46",
-      "album": {
-        "name": "Love, Life & Music",
-        "url": "https://open.spotify.com/album/427i70YCWKnkDAvvHjsxMp"
-      },
-      "artists": [
-        {
-          "name": "Rossa",
-          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
-        },
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        }
-      ],
-      "duration_ms": 254013,
-      "name": "Kamu Yang Kutunggu",
-      "url": "https://open.spotify.com/track/6RxfiwKHEUCWSR7vRE4b5g"
     },
     {
       "added_at": "2024-07-25 17:17:46",
@@ -727,6 +723,26 @@
       "duration_ms": 271267,
       "name": "Panasea",
       "url": "https://open.spotify.com/track/3EXh4IzbdHQtf3pL2DCOaS"
+    },
+    {
+      "added_at": "2024-07-25 17:17:46",
+      "album": {
+        "name": "Love, Life & Music",
+        "url": "https://open.spotify.com/album/427i70YCWKnkDAvvHjsxMp"
+      },
+      "artists": [
+        {
+          "name": "Rossa",
+          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+        },
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 254013,
+      "name": "Kamu Yang Kutunggu",
+      "url": "https://open.spotify.com/track/6RxfiwKHEUCWSR7vRE4b5g"
     },
     {
       "added_at": "2024-07-25 17:17:46",
@@ -811,22 +827,6 @@
       "duration_ms": 258331,
       "name": "Sudah Ku Tahu",
       "url": "https://open.spotify.com/track/5aErufES0TkxM2HE9SrzW9"
-    },
-    {
-      "added_at": "2024-07-25 17:17:46",
-      "album": {
-        "name": "Percubaan Pertama",
-        "url": "https://open.spotify.com/album/4KirOg5DKkGSOE8PWr15YT"
-      },
-      "artists": [
-        {
-          "name": "Aizat Amdan",
-          "url": "https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu"
-        }
-      ],
-      "duration_ms": 211160,
-      "name": "Lagu Kita",
-      "url": "https://open.spotify.com/track/1M3VWshwnG5op9B8UT0s5W"
     }
   ],
   "unique_name": "Berjiran",

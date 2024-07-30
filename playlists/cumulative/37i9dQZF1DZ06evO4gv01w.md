@@ -2,7 +2,7 @@
 
 ### [This Is Larkin Poe](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4gv01w)
 
-> This is Larkin Poe\. The essential tracks, all in one playlist.
+> This Is Larkin Poe\. Los temas esenciales, todos en una lista.
 
 143 songs - 8 hr 7 min
 
@@ -16,7 +16,7 @@
 | [Back Down South](https://open.spotify.com/track/4dIg5U5YxiSTdO2J5usw1m) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Tyler Bryant](https://open.spotify.com/artist/2v92dBj0AnGGPVyuxesKZi) | [Self Made Man](https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea) | 3:54 | 2023-11-10 |  |
 | [Back Down South \(feat\. Tyler Bryant\)](https://open.spotify.com/track/5C2mhGbVEmeqFQvenp7z04) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Tyler Bryant](https://open.spotify.com/artist/2v92dBj0AnGGPVyuxesKZi) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:54 | 2023-03-21 | 2024-07-20 |
 | [Back Down South / Blue Sky \(Live In Concert\)](https://open.spotify.com/track/12x2ehVZJy3ZXLYWxXwCL5) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Nu Deco Ensemble](https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK) | [Paint The Roses \(Live In Concert\)](https://open.spotify.com/album/2rIe2vSV47OAhOBLNtCWmu) | 4:58 | 2022-08-08 | 2023-03-26 |
-| [Back Down South / Blue Sky \- Live In Concert](https://open.spotify.com/track/7A3Is9WNbjQ0QneOwqNOJQ) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Nu Deco Ensemble](https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK) | [Paint The Roses \(Live In Concert\)](https://open.spotify.com/album/02FRIUcCGRWYsN7ZeIksRg) | 4:58 | 2023-04-08 | 2024-04-05 |
+| [Back Down South / Blue Sky \- Live In Concert](https://open.spotify.com/track/7A3Is9WNbjQ0QneOwqNOJQ) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Nu Deco Ensemble](https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK) | [Paint The Roses \(Live In Concert\)](https://open.spotify.com/album/02FRIUcCGRWYsN7ZeIksRg) | 4:58 | 2023-04-08 |  |
 | [Back Down South / Blue Sky \- Live in Concert](https://open.spotify.com/track/7GgR1SfYuFbORwvVdVq6h9) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Nu Deco Ensemble](https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK) | [Paint The Roses \(Live in Concert\)](https://open.spotify.com/album/5u6igDbmfkKA1PW3DBItKH) | 4:58 | 2023-03-25 | 2023-05-01 |
 | [Bad Spell](https://open.spotify.com/track/3xMat5dBN7UXgK8a6E8n93) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bad Spell](https://open.spotify.com/album/2uX8wXgr0jog1Xz6vZSxLS) | 3:15 | 2022-11-01 | 2022-11-23 |
 | [Bad Spell](https://open.spotify.com/track/5TS1lP8hWsGMjjblpVrUnI) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:15 | 2022-11-24 |  |
@@ -139,8 +139,8 @@
 | [Take What You Want](https://open.spotify.com/track/7sWWzkcObUVBnQT4TIae22) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme) | 2:59 | 2023-07-03 |  |
 | [Take What You Want](https://open.spotify.com/track/7yzGHEaHdojlhWejgqwmkX) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft) | 2:59 | 2022-08-05 | 2023-03-27 |
 | [Tears Of Blue To Gold](https://open.spotify.com/track/1Pcj2cc5mMvIUfZ7HgfHaD) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 3:12 | 2022-08-05 | 2023-03-26 |
-| [Tears Of Blue To Gold](https://open.spotify.com/track/604I2KSZvAA3fjbZpAbJ5v) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:12 | 2023-03-25 | 2024-07-27 |
-| [Tears Of Blue To Gold](https://open.spotify.com/track/7MUvUiKIp9eAJ8C9QZxpsq) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea) | 3:12 | 2023-11-10 |  |
+| [Tears Of Blue To Gold](https://open.spotify.com/track/604I2KSZvAA3fjbZpAbJ5v) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:12 | 2023-03-25 |  |
+| [Tears Of Blue To Gold](https://open.spotify.com/track/7MUvUiKIp9eAJ8C9QZxpsq) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea) | 3:12 | 2023-11-10 | 2024-07-30 |
 | [Tired](https://open.spotify.com/track/3qBOQ0NdjQyTUHJLhTv70H) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Thom Hell](https://open.spotify.com/artist/3KwfPMspVY0W2KRZLJqfWW) | [The Sound of the Ocean Sound](https://open.spotify.com/album/1R7itsLluYqsOGTDVVEeaV) | 3:46 | 2022-08-05 | 2022-10-12 |
 | [To Myself](https://open.spotify.com/track/69e8OlPGNV0yAZlOjbbsRy) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Spring](https://open.spotify.com/album/39T4bgcPVXPhJorYSvErpp) | 3:48 | 2022-08-05 | 2022-10-13 |
 | [Tom Devil](https://open.spotify.com/track/2PuIl8FZD4khF7lAt4UK2t) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 2:44 | 2023-06-16 | 2023-06-18 |

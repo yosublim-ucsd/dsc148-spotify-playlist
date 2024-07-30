@@ -1,6 +1,6 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Maya Hawke",
-  "num_followers": 1395385,
+  "num_followers": 1395357,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Monoflora",
-        "url": "https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE"
-      },
-      "artists": [
-        {
-          "name": "River Whyless",
-          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
-        }
-      ],
-      "duration_ms": 223400,
-      "name": "Michigan Cherry",
-      "url": "https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Never Alone",
         "url": "https://open.spotify.com/album/3JqNfyou9m91bGd9s7HMMU"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 143560,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/19F9zI5CTg1MZAVMA9EQ5P"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Monoflora",
+        "url": "https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE"
+      },
+      "artists": [
+        {
+          "name": "River Whyless",
+          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
+        }
+      ],
+      "duration_ms": 223400,
+      "name": "Michigan Cherry",
+      "url": "https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Nothing to Lose",
-        "url": "https://open.spotify.com/album/3MLs9OSTBURXZ87o8ItJSp"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 237666,
-      "name": "Nothing to Lose",
-      "url": "https://open.spotify.com/track/434io34sIbKCD3KzuoJCg5"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Only One",
         "url": "https://open.spotify.com/album/0fzG0DP1dF2MEGyuhZHj5w"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 189093,
       "name": "Only One",
       "url": "https://open.spotify.com/track/5MXegzzvDfUSfwpf8a0FCq"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Nothing to Lose",
+        "url": "https://open.spotify.com/album/3MLs9OSTBURXZ87o8ItJSp"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 237666,
+      "name": "Nothing to Lose",
+      "url": "https://open.spotify.com/track/434io34sIbKCD3KzuoJCg5"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
-      },
-      "artists": [
-        {
-          "name": "Cujo Moon",
-          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
-        }
-      ],
-      "duration_ms": 211517,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Pacific",
         "url": "https://open.spotify.com/album/3zjU4Uu8DvEBpnsHbLDvyQ"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
+      },
+      "artists": [
+        {
+          "name": "Cujo Moon",
+          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
+        }
+      ],
+      "duration_ms": 211517,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "A Month Or Two",
         "url": "https://open.spotify.com/album/5nki9hMoIsCxIQeV4enHBh"
       },
@@ -831,22 +831,6 @@
       "duration_ms": 191226,
       "name": "A Month Or Two",
       "url": "https://open.spotify.com/track/002nFT2kRsfvS0d17AwWsB"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Appaloosa Bones",
-        "url": "https://open.spotify.com/album/4IVf6mYykPiEoqT099AXsX"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "Watchman",
-      "url": "https://open.spotify.com/track/4oKf0G986QhGLG8I9dpqP0"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -887,6 +871,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Appaloosa Bones",
+        "url": "https://open.spotify.com/album/4IVf6mYykPiEoqT099AXsX"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 198893,
+      "name": "Watchman",
+      "url": "https://open.spotify.com/track/4oKf0G986QhGLG8I9dpqP0"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "and we\u2019ll leave it there\u2026",
         "url": "https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d"
       },
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Hadsel",
+        "url": "https://open.spotify.com/album/1jhgsccCbT1WXtmGUuZvIA"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 294835,
+      "name": "Hadsel",
+      "url": "https://open.spotify.com/track/0qYdqIxjSTK9Wu7wuPZ2i4"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Ready or Not (feat. Sierra Ferrell)",
         "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 192901,
       "name": "Ready or Not (feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Hadsel",
-        "url": "https://open.spotify.com/album/1jhgsccCbT1WXtmGUuZvIA"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 294835,
-      "name": "Hadsel",
-      "url": "https://open.spotify.com/track/0qYdqIxjSTK9Wu7wuPZ2i4"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Flightless Bird",
-        "url": "https://open.spotify.com/album/0nUFM9Cp9ujDdaPcncHb79"
-      },
-      "artists": [
-        {
-          "name": "Jol\u00e9",
-          "url": "https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu"
-        }
-      ],
-      "duration_ms": 96358,
-      "name": "Flightless Bird",
-      "url": "https://open.spotify.com/track/2WiJ9KoNcPvBmxSQMg3gYy"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Somewhere in Chicago",
         "url": "https://open.spotify.com/album/37mNFjjiRfZRCwfGflAsrM"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 345291,
       "name": "Wide As Heaven",
       "url": "https://open.spotify.com/track/03Qi8RSv6ndk9jLQU7VEFx"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Flightless Bird",
+        "url": "https://open.spotify.com/album/0nUFM9Cp9ujDdaPcncHb79"
+      },
+      "artists": [
+        {
+          "name": "Jol\u00e9",
+          "url": "https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu"
+        }
+      ],
+      "duration_ms": 96358,
+      "name": "Flightless Bird",
+      "url": "https://open.spotify.com/track/2WiJ9KoNcPvBmxSQMg3gYy"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/4bSQZ9k6Rsx62M98LbPxHf"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        }
+      ],
+      "duration_ms": 214598,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/55JCwReTzeAOTBHxM6w2en"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Pelican Canyon",
         "url": "https://open.spotify.com/album/6x9fbiMJmJKBqM3Pz94yiR"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 227160,
       "name": "Pelican Canyon",
       "url": "https://open.spotify.com/track/49qJvUShIV2XKLvp4KvcBa"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "The Beginning",
-        "url": "https://open.spotify.com/album/4bSQZ9k6Rsx62M98LbPxHf"
-      },
-      "artists": [
-        {
-          "name": "Tasha",
-          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
-        }
-      ],
-      "duration_ms": 214598,
-      "name": "The Beginning",
-      "url": "https://open.spotify.com/track/55JCwReTzeAOTBHxM6w2en"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Slow Down",
         "url": "https://open.spotify.com/album/4W0eSdwEKYKRZH99zoeSSA"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 233854,
       "name": "Partner in Crime - Spotify Singles",
       "url": "https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "How Will I Know",
-        "url": "https://open.spotify.com/album/1YcaL2P5m19EqlJ6ULmcIo"
-      },
-      "artists": [
-        {
-          "name": "Riley Pearce",
-          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
-        }
-      ],
-      "duration_ms": 206473,
-      "name": "How Will I Know",
-      "url": "https://open.spotify.com/track/34cibrAB4rrPbGb58vaHtD"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Would You Mind Please Pulling Me Close?",
         "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
       },
@@ -1883,6 +1867,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Redwoods",
+        "url": "https://open.spotify.com/album/4b9qOXsdeuAWheQ9tZ8KIb"
+      },
+      "artists": [
+        {
+          "name": "Hayden Everett",
+          "url": "https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc"
+        }
+      ],
+      "duration_ms": 262097,
+      "name": "Redwoods",
+      "url": "https://open.spotify.com/track/0FaOXf47qPawRGGa2aILRo"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "colour in life",
         "url": "https://open.spotify.com/album/1NqI2jWZ4Mbi9vFHlxiz2A"
       },
@@ -1899,18 +1899,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Redwoods",
-        "url": "https://open.spotify.com/album/4b9qOXsdeuAWheQ9tZ8KIb"
+        "name": "How Will I Know",
+        "url": "https://open.spotify.com/album/1YcaL2P5m19EqlJ6ULmcIo"
       },
       "artists": [
         {
-          "name": "Hayden Everett",
-          "url": "https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc"
+          "name": "Riley Pearce",
+          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
         }
       ],
-      "duration_ms": 262097,
-      "name": "Redwoods",
-      "url": "https://open.spotify.com/track/0FaOXf47qPawRGGa2aILRo"
+      "duration_ms": 206473,
+      "name": "How Will I Know",
+      "url": "https://open.spotify.com/track/34cibrAB4rrPbGb58vaHtD"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2095,18 +2095,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "When I Was Younger",
-        "url": "https://open.spotify.com/album/03QaM9aGaUe4aMrI8gGICH"
+        "name": "The Pressing In",
+        "url": "https://open.spotify.com/album/0jLITJvsGDolvrwDU3U5mM"
       },
       "artists": [
         {
-          "name": "Bonny Light Horseman",
-          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
+          "name": "Eliza King",
+          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
         }
       ],
-      "duration_ms": 197416,
-      "name": "When I Was Younger",
-      "url": "https://open.spotify.com/track/26nb8UvZLmzQgwCOXBGTtf"
+      "duration_ms": 270923,
+      "name": "My Beloved",
+      "url": "https://open.spotify.com/track/4zmRB0EP0QgUBY0sEh6OZy"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2123,6 +2123,22 @@
       "duration_ms": 217439,
       "name": "Stone",
       "url": "https://open.spotify.com/track/7ByCBSiSnTIiI8E3wp6gof"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "When I Was Younger",
+        "url": "https://open.spotify.com/album/03QaM9aGaUe4aMrI8gGICH"
+      },
+      "artists": [
+        {
+          "name": "Bonny Light Horseman",
+          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
+        }
+      ],
+      "duration_ms": 197416,
+      "name": "When I Was Younger",
+      "url": "https://open.spotify.com/track/26nb8UvZLmzQgwCOXBGTtf"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2179,22 +2195,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "The Pressing In",
-        "url": "https://open.spotify.com/album/0jLITJvsGDolvrwDU3U5mM"
-      },
-      "artists": [
-        {
-          "name": "Eliza King",
-          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
-        }
-      ],
-      "duration_ms": 270923,
-      "name": "My Beloved",
-      "url": "https://open.spotify.com/track/4zmRB0EP0QgUBY0sEh6OZy"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Head of Roses",
         "url": "https://open.spotify.com/album/3GQfoIqcz1eNgQXsPkzVk0"
       },
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/3aiBsLE0pQDTtZLO21UqZ8"
-      },
-      "artists": [
-        {
-          "name": "Jaguar Sun",
-          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
-        }
-      ],
-      "duration_ms": 217513,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/5YBqVqm8LmaIkrRSSfTMQk"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Rock N' Roll Ain't for Me",
         "url": "https://open.spotify.com/album/7EYxXB1MfMwdmwV123RInX"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 258946,
       "name": "I Don't Think You're an Angel (Anymore)",
       "url": "https://open.spotify.com/track/6Hbt5RBxPN1QBvNdlyGMuO"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3aiBsLE0pQDTtZLO21UqZ8"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "duration_ms": 217513,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/5YBqVqm8LmaIkrRSSfTMQk"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2291,6 +2291,30 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Songs of Our Native Daughters",
+        "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
+      },
+      "artists": [
+        {
+          "name": "Our Native Daughters",
+          "url": "https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 336206,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/7ib8eTk4c9HKGFwbhGUvWN"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/6hwvM9utzQaeFWzj3Mpu6d"
       },
@@ -2327,30 +2351,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Songs of Our Native Daughters",
-        "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
-      },
-      "artists": [
-        {
-          "name": "Our Native Daughters",
-          "url": "https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW"
-        },
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 336206,
-      "name": "You're Not Alone",
-      "url": "https://open.spotify.com/track/7ib8eTk4c9HKGFwbhGUvWN"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Sam Amidon",
         "url": "https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m"
       },
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "The World We Built",
-        "url": "https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 328120,
-      "name": "Everything Looks Better (In Hindsight)",
-      "url": "https://open.spotify.com/track/4IL5B1c7iUHMA5Rr1ucNo6"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "A Turning of the Tide: Side A",
         "url": "https://open.spotify.com/album/5SrqsAmZRJ7gO46b6B5UPe"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 340760,
       "name": "When the Storm Sets In",
       "url": "https://open.spotify.com/track/4W9VyT8DnQ6BsdmQgIaR7a"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "The World We Built",
+        "url": "https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 328120,
+      "name": "Everything Looks Better (In Hindsight)",
+      "url": "https://open.spotify.com/track/4IL5B1c7iUHMA5Rr1ucNo6"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2467,6 +2467,22 @@
       "duration_ms": 228492,
       "name": "A Thread to Find",
       "url": "https://open.spotify.com/track/1zHpGGZ5Q6Plp9eWVAQMu6"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "If It's Time",
+        "url": "https://open.spotify.com/album/0IOPxMOglDEaAhaLghdvIV"
+      },
+      "artists": [
+        {
+          "name": "Hayden Calnin",
+          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
+        }
+      ],
+      "duration_ms": 257417,
+      "name": "If It's Time",
+      "url": "https://open.spotify.com/track/0heiWLMaIUmgWkbY41eBI3"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2547,22 +2563,6 @@
       "duration_ms": 225354,
       "name": "Strange",
       "url": "https://open.spotify.com/track/4O354RXGtWktEKC6fMM1CM"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "If It's Time",
-        "url": "https://open.spotify.com/album/0IOPxMOglDEaAhaLghdvIV"
-      },
-      "artists": [
-        {
-          "name": "Hayden Calnin",
-          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
-        }
-      ],
-      "duration_ms": 257417,
-      "name": "If It's Time",
-      "url": "https://open.spotify.com/track/0heiWLMaIUmgWkbY41eBI3"
     },
     {
       "added_at": "2024-07-12 04:00:00",

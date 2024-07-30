@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 21578,
+  "num_followers": 21579,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqQ4gAAAAAAfplBf+rMbwGUD1EMQAWFf",
+  "snapshot_id": "ZqWKAAAAAADASzzdE5vkMUzBKmZVZ0a9",
   "tracks": [
     {
       "added_at": null,
@@ -395,6 +395,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "10 Anos de Caju, Vol. 1",
+        "url": "https://open.spotify.com/album/3MrMVmydFjA8VMdWI2wBKq"
+      },
+      "artists": [
+        {
+          "name": "Caju Pra Baixo",
+          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 203350,
+      "name": "Rid\u00edculo",
+      "url": "https://open.spotify.com/track/0UrxKvv83kMW231Fl3ylN6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ladeira da Vida",
         "url": "https://open.spotify.com/album/2gjNuzeCoJy6YMU3udbhHw"
       },
@@ -427,26 +447,6 @@
       "duration_ms": 291166,
       "name": "Ladeira da Vida",
       "url": "https://open.spotify.com/track/6xKnsvZ0O06BvQcT2Prt2A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "10 Anos de Caju, Vol. 1",
-        "url": "https://open.spotify.com/album/3MrMVmydFjA8VMdWI2wBKq"
-      },
-      "artists": [
-        {
-          "name": "Caju Pra Baixo",
-          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 203350,
-      "name": "Rid\u00edculo",
-      "url": "https://open.spotify.com/track/0UrxKvv83kMW231Fl3ylN6"
     },
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "5458",
-        "url": "https://open.spotify.com/album/530LB9H9MD7SmG5QbnvNsV"
-      },
-      "artists": [
-        {
-          "name": "Luan Otten",
-          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 187629,
-      "name": "5458",
-      "url": "https://open.spotify.com/track/6sJRnHsNWIT2yoW5Uhp1bs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Agora",
         "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "5458",
+        "url": "https://open.spotify.com/album/530LB9H9MD7SmG5QbnvNsV"
+      },
+      "artists": [
+        {
+          "name": "Luan Otten",
+          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 187629,
+      "name": "5458",
+      "url": "https://open.spotify.com/track/6sJRnHsNWIT2yoW5Uhp1bs"
     },
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tava Tudo Tranquilin",
-        "url": "https://open.spotify.com/album/3ZedGOE0bZPeLL2CENOSHn"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Tava Tudo Tranquilin",
-      "url": "https://open.spotify.com/track/5Uaxvx1iQUPSpZqz6NRzdf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Posturadin",
         "url": "https://open.spotify.com/album/66QOsOeesc7RCRddsMOLKo"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 226521,
       "name": "Posturadin",
       "url": "https://open.spotify.com/track/60nf4kVvOPfKPL8C9INkCI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tava Tudo Tranquilin",
+        "url": "https://open.spotify.com/album/3ZedGOE0bZPeLL2CENOSHn"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Tava Tudo Tranquilin",
+      "url": "https://open.spotify.com/track/5Uaxvx1iQUPSpZqz6NRzdf"
     },
     {
       "added_at": null,
@@ -995,6 +995,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "S\u00f3 Mais Uma Vez",
+        "url": "https://open.spotify.com/album/3ZksynPYqm5UAwOC90bXW1"
+      },
+      "artists": [
+        {
+          "name": "Anselmo Ralph",
+          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 187564,
+      "name": "S\u00f3 Mais Uma Vez",
+      "url": "https://open.spotify.com/track/2QGcSUUq9dKu2DGkTUIDu5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00f3s",
         "url": "https://open.spotify.com/album/132yCJcTYjzemvRMtLKIep"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 216344,
       "name": "Cabe\u00e7a erguida",
       "url": "https://open.spotify.com/track/0QLvzqKWTmSXLexxrn3n4K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S\u00f3 Mais Uma Vez",
-        "url": "https://open.spotify.com/album/3ZksynPYqm5UAwOC90bXW1"
-      },
-      "artists": [
-        {
-          "name": "Anselmo Ralph",
-          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 187564,
-      "name": "S\u00f3 Mais Uma Vez",
-      "url": "https://open.spotify.com/track/2QGcSUUq9dKu2DGkTUIDu5"
     },
     {
       "added_at": null,
@@ -1111,26 +1111,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tudo Vai Mudar",
-        "url": "https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt"
+        "name": "Poesia Ac\u00fastica #9: Melhor Forma (LOCOS Remix)",
+        "url": "https://open.spotify.com/album/0T25XNwakPTqyCio9TaeKJ"
       },
       "artists": [
         {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+          "name": "LOCOS",
+          "url": "https://open.spotify.com/artist/5hj8WfJMICGwPJlihxIpmE"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
         },
         {
           "name": "Lourena",
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
         }
       ],
-      "duration_ms": 173553,
-      "name": "Tudo Vai Mudar",
-      "url": "https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829"
+      "duration_ms": 113442,
+      "name": "Poesia Ac\u00fastica #9: Melhor Forma - LOCOS Remix",
+      "url": "https://open.spotify.com/track/7z3OQBFYClg9rHbUX2o0yQ"
     },
     {
       "added_at": null,
@@ -1159,26 +1159,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poesia Ac\u00fastica #9: Melhor Forma (LOCOS Remix)",
-        "url": "https://open.spotify.com/album/0T25XNwakPTqyCio9TaeKJ"
+        "name": "Tudo Vai Mudar",
+        "url": "https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt"
       },
       "artists": [
         {
-          "name": "LOCOS",
-          "url": "https://open.spotify.com/artist/5hj8WfJMICGwPJlihxIpmE"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
         },
         {
           "name": "Lourena",
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
         }
       ],
-      "duration_ms": 113442,
-      "name": "Poesia Ac\u00fastica #9: Melhor Forma - LOCOS Remix",
-      "url": "https://open.spotify.com/track/7z3OQBFYClg9rHbUX2o0yQ"
+      "duration_ms": 173553,
+      "name": "Tudo Vai Mudar",
+      "url": "https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829"
     },
     {
       "added_at": null,

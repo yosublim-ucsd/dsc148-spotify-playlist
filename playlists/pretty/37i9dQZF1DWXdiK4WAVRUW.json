@@ -1,6 +1,6 @@
 {
   "description": "The most memorable country hits from the 2010s. Cover: Luke Bryan",
-  "num_followers": 600401,
+  "num_followers": 600537,
   "original_name": "2010s Country",
   "owner": {
     "name": "Spotify",
@@ -731,26 +731,6 @@
     {
       "added_at": "2024-07-18 13:38:33",
       "album": {
-        "name": "One Thing Right",
-        "url": "https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 181823,
-      "name": "One Thing Right",
-      "url": "https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4"
-    },
-    {
-      "added_at": "2024-07-18 13:38:33",
-      "album": {
         "name": "Haywire",
         "url": "https://open.spotify.com/album/4AwUix40p2isD6wvEBPpQ8"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 207040,
       "name": "Farmer's Daughter",
       "url": "https://open.spotify.com/track/5zGqTc1WQUe8XqqdnrpKTV"
+    },
+    {
+      "added_at": "2024-07-18 13:38:33",
+      "album": {
+        "name": "One Thing Right",
+        "url": "https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 181823,
+      "name": "One Thing Right",
+      "url": "https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4"
     },
     {
       "added_at": "2024-07-18 13:38:33",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-07-18 13:38:33",
       "album": {
-        "name": "If I Know Me",
-        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 208280,
-      "name": "The Way I Talk",
-      "url": "https://open.spotify.com/track/21LRaD9rB3v7p7DDCZsW4y"
-    },
-    {
-      "added_at": "2024-07-18 13:38:33",
-      "album": {
         "name": "Sunshine & Whiskey",
         "url": "https://open.spotify.com/album/5VYrfPF3z9311jpQYEWjof"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 182400,
       "name": "Sunshine & Whiskey",
       "url": "https://open.spotify.com/track/6aNwDe5YH5YUPlpHkku52w"
+    },
+    {
+      "added_at": "2024-07-18 13:38:33",
+      "album": {
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 208280,
+      "name": "The Way I Talk",
+      "url": "https://open.spotify.com/track/21LRaD9rB3v7p7DDCZsW4y"
     },
     {
       "added_at": "2024-07-18 13:38:33",
@@ -963,26 +963,6 @@
     {
       "added_at": "2024-07-18 13:38:33",
       "album": {
-        "name": "If I Know Me",
-        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 197253,
-      "name": "Up Down (feat. Florida Georgia Line)",
-      "url": "https://open.spotify.com/track/3EWMoDIm6lzuR0zQKtuCJX"
-    },
-    {
-      "added_at": "2024-07-18 13:38:33",
-      "album": {
         "name": "God's Country",
         "url": "https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx"
       },
@@ -995,6 +975,22 @@
       "duration_ms": 205106,
       "name": "God's Country",
       "url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K"
+    },
+    {
+      "added_at": "2024-07-18 13:38:33",
+      "album": {
+        "name": "Clancy's Tavern",
+        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 223386,
+      "name": "Red Solo Cup",
+      "url": "https://open.spotify.com/track/4YKAOXyqkKZ5gOZR0AmVMN"
     },
     {
       "added_at": "2024-07-18 13:38:33",
@@ -1015,18 +1011,22 @@
     {
       "added_at": "2024-07-18 13:38:33",
       "album": {
-        "name": "Clancy's Tavern",
-        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 223386,
-      "name": "Red Solo Cup",
-      "url": "https://open.spotify.com/track/4YKAOXyqkKZ5gOZR0AmVMN"
+      "duration_ms": 197253,
+      "name": "Up Down (feat. Florida Georgia Line)",
+      "url": "https://open.spotify.com/track/3EWMoDIm6lzuR0zQKtuCJX"
     },
     {
       "added_at": "2024-07-18 13:38:33",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-07-18 13:38:33",
       "album": {
-        "name": "Seasons Change",
-        "url": "https://open.spotify.com/album/2DFoTBlnZYCW4FuHAZxJMj"
-      },
-      "artists": [
-        {
-          "name": "Scotty McCreery",
-          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
-        }
-      ],
-      "duration_ms": 241146,
-      "name": "Five More Minutes",
-      "url": "https://open.spotify.com/track/3qTmB5HxP9ilJaiM6B1yuk"
-    },
-    {
-      "added_at": "2024-07-18 13:38:33",
-      "album": {
         "name": "BRINGING BACK THE SUNSHINE",
         "url": "https://open.spotify.com/album/0daIqjuhsQqXoeII3pBSeT"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 233480,
       "name": "Sangria",
       "url": "https://open.spotify.com/track/0p1HtkrNYxv0iDfEKwXSTp"
+    },
+    {
+      "added_at": "2024-07-18 13:38:33",
+      "album": {
+        "name": "Seasons Change",
+        "url": "https://open.spotify.com/album/2DFoTBlnZYCW4FuHAZxJMj"
+      },
+      "artists": [
+        {
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+        }
+      ],
+      "duration_ms": 241146,
+      "name": "Five More Minutes",
+      "url": "https://open.spotify.com/track/3qTmB5HxP9ilJaiM6B1yuk"
     },
     {
       "added_at": "2024-07-18 13:38:33",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-07-18 13:38:33",
       "album": {
-        "name": "Hunter Hayes (Encore)",
-        "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
-      },
-      "artists": [
-        {
-          "name": "Hunter Hayes",
-          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "Wanted",
-      "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
-    },
-    {
-      "added_at": "2024-07-18 13:38:33",
-      "album": {
         "name": "Montevallo",
         "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 243706,
       "name": "Take Your Time",
       "url": "https://open.spotify.com/track/6DEaND0SHv3sC11xobZLiy"
+    },
+    {
+      "added_at": "2024-07-18 13:38:33",
+      "album": {
+        "name": "Hunter Hayes (Encore)",
+        "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "Wanted",
+      "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
     },
     {
       "added_at": "2024-07-18 13:38:33",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-07-18 13:38:33",
       "album": {
-        "name": "The Breaker",
-        "url": "https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 263120,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
-    },
-    {
-      "added_at": "2024-07-18 13:38:33",
-      "album": {
         "name": "Own The Night",
         "url": "https://open.spotify.com/album/2OecGqWoNWvW2VH4HUixjo"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 218840,
       "name": "Just A Kiss",
       "url": "https://open.spotify.com/track/2OXidlnDThZR3zf36k6DVL"
+    },
+    {
+      "added_at": "2024-07-18 13:38:33",
+      "album": {
+        "name": "The Breaker",
+        "url": "https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 263120,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
     },
     {
       "added_at": "2024-07-18 13:38:33",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2024-07-18 13:38:33",
       "album": {
-        "name": "Here's To The Good Times",
-        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Get Your Shine On",
-      "url": "https://open.spotify.com/track/6s9ICeczYOfbHHIaSMq9jd"
-    },
-    {
-      "added_at": "2024-07-18 13:38:33",
-      "album": {
         "name": "Happy Endings",
         "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 176893,
       "name": "No Such Thing as a Broken Heart",
       "url": "https://open.spotify.com/track/0OlS52TmtK2gPaEtdmr7DN"
+    },
+    {
+      "added_at": "2024-07-18 13:38:33",
+      "album": {
+        "name": "Here's To The Good Times",
+        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Get Your Shine On",
+      "url": "https://open.spotify.com/track/6s9ICeczYOfbHHIaSMq9jd"
     },
     {
       "added_at": "2024-07-18 13:38:33",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2024-07-18 13:38:33",
       "album": {
-        "name": "Get Closer (Deluxe Version)",
-        "url": "https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 273586,
-      "name": "Long Hot Summer",
-      "url": "https://open.spotify.com/track/3PY88239tYBnAv5LQoU2oY"
-    },
-    {
-      "added_at": "2024-07-18 13:38:33",
-      "album": {
         "name": "Days of Gold",
         "url": "https://open.spotify.com/album/59ePhOhLFvSOFG4L5FRGzp"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 191040,
       "name": "Beachin'",
       "url": "https://open.spotify.com/track/5dNGORzxFb5z3v7vSAFkTU"
+    },
+    {
+      "added_at": "2024-07-18 13:38:33",
+      "album": {
+        "name": "Get Closer (Deluxe Version)",
+        "url": "https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 273586,
+      "name": "Long Hot Summer",
+      "url": "https://open.spotify.com/track/3PY88239tYBnAv5LQoU2oY"
     },
     {
       "added_at": "2024-07-18 13:38:33",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2024-07-18 13:38:33",
       "album": {
-        "name": "I'm A Fire",
-        "url": "https://open.spotify.com/album/53ljIT3F5IV2YP0fVdlSGo"
-      },
-      "artists": [
-        {
-          "name": "David Nail",
-          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Whatever She's Got",
-      "url": "https://open.spotify.com/track/4PJXT82AZtlDW4Q71b43oz"
-    },
-    {
-      "added_at": "2024-07-18 13:38:33",
-      "album": {
         "name": "Die From A Broken Heart",
         "url": "https://open.spotify.com/album/4DPIFHZfh65TPPGem973zy"
       },
@@ -2071,22 +2055,18 @@
     {
       "added_at": "2024-07-18 13:38:33",
       "album": {
-        "name": "Ripcord",
-        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
+        "name": "I'm A Fire",
+        "url": "https://open.spotify.com/album/53ljIT3F5IV2YP0fVdlSGo"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "David Nail",
+          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
         }
       ],
-      "duration_ms": 184040,
-      "name": "The Fighter",
-      "url": "https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim"
+      "duration_ms": 236800,
+      "name": "Whatever She's Got",
+      "url": "https://open.spotify.com/track/4PJXT82AZtlDW4Q71b43oz"
     },
     {
       "added_at": "2024-07-18 13:38:33",
@@ -2107,6 +2087,26 @@
       "duration_ms": 217466,
       "name": "Setting the World On Fire (with P!NK)",
       "url": "https://open.spotify.com/track/7AclP0W2jy6yrbvBiC4prQ"
+    },
+    {
+      "added_at": "2024-07-18 13:38:33",
+      "album": {
+        "name": "Ripcord",
+        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 184040,
+      "name": "The Fighter",
+      "url": "https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim"
     },
     {
       "added_at": "2024-07-18 13:38:33",
@@ -2159,6 +2159,22 @@
       "duration_ms": 218946,
       "name": "Think of You",
       "url": "https://open.spotify.com/track/6W9W8dSswA8KNegvl3W97V"
+    },
+    {
+      "added_at": "2024-07-18 13:38:33",
+      "album": {
+        "name": "The Big Revival",
+        "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 182213,
+      "name": "Save It for a Rainy Day",
+      "url": "https://open.spotify.com/track/6wfTb2he5ANMQSFnlamnyi"
     },
     {
       "added_at": "2024-07-18 13:38:33",
@@ -2247,22 +2263,6 @@
     {
       "added_at": "2024-07-18 13:38:33",
       "album": {
-        "name": "The Big Revival",
-        "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 182213,
-      "name": "Save It for a Rainy Day",
-      "url": "https://open.spotify.com/track/6wfTb2he5ANMQSFnlamnyi"
-    },
-    {
-      "added_at": "2024-07-18 13:38:33",
-      "album": {
         "name": "Crash My Party",
         "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
       },
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2024-07-18 13:38:33",
       "album": {
-        "name": "We Are Tonight",
-        "url": "https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h"
-      },
-      "artists": [
-        {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
-        }
-      ],
-      "duration_ms": 232106,
-      "name": "We Are Tonight",
-      "url": "https://open.spotify.com/track/2EvddT8rcO99bKH0rDHAYG"
-    },
-    {
-      "added_at": "2024-07-18 13:38:33",
-      "album": {
         "name": "Stronger",
         "url": "https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO"
       },
@@ -2347,18 +2331,18 @@
     {
       "added_at": "2024-07-18 13:38:33",
       "album": {
-        "name": "Bring You Back",
-        "url": "https://open.spotify.com/album/7weU5IWFfeueNG5V68CTTT"
+        "name": "We Are Tonight",
+        "url": "https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h"
       },
       "artists": [
         {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
         }
       ],
-      "duration_ms": 181209,
-      "name": "Don't Ya",
-      "url": "https://open.spotify.com/track/3Qe097eJNp9MfpT2PieEw0"
+      "duration_ms": 232106,
+      "name": "We Are Tonight",
+      "url": "https://open.spotify.com/track/2EvddT8rcO99bKH0rDHAYG"
     },
     {
       "added_at": "2024-07-18 13:38:33",
@@ -2379,6 +2363,22 @@
     {
       "added_at": "2024-07-18 13:38:33",
       "album": {
+        "name": "Bring You Back",
+        "url": "https://open.spotify.com/album/7weU5IWFfeueNG5V68CTTT"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 181209,
+      "name": "Don't Ya",
+      "url": "https://open.spotify.com/track/3Qe097eJNp9MfpT2PieEw0"
+    },
+    {
+      "added_at": "2024-07-18 13:38:33",
+      "album": {
         "name": "Lady Antebellum",
         "url": "https://open.spotify.com/album/3MHTGwjWJhfcc3yBnvo6yh"
       },
@@ -2395,18 +2395,18 @@
     {
       "added_at": "2024-07-18 13:38:33",
       "album": {
-        "name": "We Are Tonight",
-        "url": "https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h"
+        "name": "Judge Jerrod & The Hung Jury",
+        "url": "https://open.spotify.com/album/3VzLXlCQo9voFegEhlJPd9"
       },
       "artists": [
         {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+          "name": "Jerrod Niemann",
+          "url": "https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7"
         }
       ],
-      "duration_ms": 200533,
-      "name": "Hey Girl",
-      "url": "https://open.spotify.com/track/4CcrLWFQY4dRGMbUR59cSp"
+      "duration_ms": 193733,
+      "name": "Lover, Lover",
+      "url": "https://open.spotify.com/track/5UzU0qw21okODBNUnxptVo"
     },
     {
       "added_at": "2024-07-18 13:38:33",
@@ -2423,22 +2423,6 @@
       "duration_ms": 208893,
       "name": "Rich",
       "url": "https://open.spotify.com/track/4H0vNUFcHPz5lytcLjwqkr"
-    },
-    {
-      "added_at": "2024-07-18 13:38:33",
-      "album": {
-        "name": "Judge Jerrod & The Hung Jury",
-        "url": "https://open.spotify.com/album/3VzLXlCQo9voFegEhlJPd9"
-      },
-      "artists": [
-        {
-          "name": "Jerrod Niemann",
-          "url": "https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Lover, Lover",
-      "url": "https://open.spotify.com/track/5UzU0qw21okODBNUnxptVo"
     },
     {
       "added_at": "2024-07-18 13:38:33",
@@ -2491,6 +2475,22 @@
     {
       "added_at": "2024-07-18 13:38:33",
       "album": {
+        "name": "We Are Tonight",
+        "url": "https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h"
+      },
+      "artists": [
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+        }
+      ],
+      "duration_ms": 200533,
+      "name": "Hey Girl",
+      "url": "https://open.spotify.com/track/4CcrLWFQY4dRGMbUR59cSp"
+    },
+    {
+      "added_at": "2024-07-18 13:38:33",
+      "album": {
         "name": "Things That We Drink To",
         "url": "https://open.spotify.com/album/7CgrejBVsP6OeA3WgxDPPc"
       },
@@ -2539,22 +2539,6 @@
     {
       "added_at": "2024-07-18 13:38:33",
       "album": {
-        "name": "Road Less Traveled",
-        "url": "https://open.spotify.com/album/296hswDnxvymjboFBxvmI5"
-      },
-      "artists": [
-        {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Road Less Traveled",
-      "url": "https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57"
-    },
-    {
-      "added_at": "2024-07-18 13:38:33",
-      "album": {
         "name": "A.M.",
         "url": "https://open.spotify.com/album/3cyLH6iUGPjEsZIUFnJfd3"
       },
@@ -2567,6 +2551,22 @@
       "duration_ms": 217413,
       "name": "Lonely Eyes",
       "url": "https://open.spotify.com/track/2j79NtwxoWDmkiH4MGwdLq"
+    },
+    {
+      "added_at": "2024-07-18 13:38:33",
+      "album": {
+        "name": "Road Less Traveled",
+        "url": "https://open.spotify.com/album/296hswDnxvymjboFBxvmI5"
+      },
+      "artists": [
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Road Less Traveled",
+      "url": "https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57"
     },
     {
       "added_at": "2024-07-18 13:38:33",
@@ -2891,22 +2891,6 @@
     {
       "added_at": "2024-07-18 13:38:33",
       "album": {
-        "name": "Rebels on the Run",
-        "url": "https://open.spotify.com/album/5Fyd02GgT2LAvd812dZ0Lm"
-      },
-      "artists": [
-        {
-          "name": "Montgomery Gentry",
-          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
-        }
-      ],
-      "duration_ms": 201840,
-      "name": "Where I Come From",
-      "url": "https://open.spotify.com/track/10ps1I1sIMRNZW11eceN7W"
-    },
-    {
-      "added_at": "2024-07-18 13:38:33",
-      "album": {
         "name": "Ignite the Night (Party Edition)",
         "url": "https://open.spotify.com/album/5lkRYpePZze7eng9Spx1Gq"
       },
@@ -2923,18 +2907,18 @@
     {
       "added_at": "2024-07-18 13:38:33",
       "album": {
-        "name": "10,000 Towns",
-        "url": "https://open.spotify.com/album/6JXJKuUgJ3AKpU9gh9RJs6"
+        "name": "Rebels on the Run",
+        "url": "https://open.spotify.com/album/5Fyd02GgT2LAvd812dZ0Lm"
       },
       "artists": [
         {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+          "name": "Montgomery Gentry",
+          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
         }
       ],
-      "duration_ms": 219213,
-      "name": "Drunk Last Night",
-      "url": "https://open.spotify.com/track/4hnK8P3v7kE7T4PMBYwRhu"
+      "duration_ms": 201840,
+      "name": "Where I Come From",
+      "url": "https://open.spotify.com/track/10ps1I1sIMRNZW11eceN7W"
     },
     {
       "added_at": "2024-07-18 13:38:33",
@@ -2951,6 +2935,22 @@
       "duration_ms": 216040,
       "name": "Redneck Crazy",
       "url": "https://open.spotify.com/track/4lcXNTm9JrQpJYXqsENmFI"
+    },
+    {
+      "added_at": "2024-07-18 13:38:33",
+      "album": {
+        "name": "10,000 Towns",
+        "url": "https://open.spotify.com/album/6JXJKuUgJ3AKpU9gh9RJs6"
+      },
+      "artists": [
+        {
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        }
+      ],
+      "duration_ms": 219213,
+      "name": "Drunk Last Night",
+      "url": "https://open.spotify.com/track/4hnK8P3v7kE7T4PMBYwRhu"
     },
     {
       "added_at": "2024-07-18 13:38:33",
@@ -3071,22 +3071,6 @@
     {
       "added_at": "2024-07-18 13:38:33",
       "album": {
-        "name": "Love and War",
-        "url": "https://open.spotify.com/album/43xH1kPS7aNKc2WJtUHRAs"
-      },
-      "artists": [
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        }
-      ],
-      "duration_ms": 229338,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/1IO13V09b01gLSbmZJZ9dM"
-    },
-    {
-      "added_at": "2024-07-18 13:38:33",
-      "album": {
         "name": "Suffer in Peace",
         "url": "https://open.spotify.com/album/2aUyGuWWZhUTBoBb3l2ym5"
       },
@@ -3099,6 +3083,22 @@
       "duration_ms": 196000,
       "name": "A Guy Walks Into a Bar",
       "url": "https://open.spotify.com/track/16PNN9wK1LbedzcTp7y8y0"
+    },
+    {
+      "added_at": "2024-07-18 13:38:33",
+      "album": {
+        "name": "Love and War",
+        "url": "https://open.spotify.com/album/43xH1kPS7aNKc2WJtUHRAs"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "duration_ms": 229338,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/1IO13V09b01gLSbmZJZ9dM"
     },
     {
       "added_at": "2024-07-18 13:38:33",

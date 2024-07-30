@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Rangga Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,090 likes - 88 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,468 likes - 88 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

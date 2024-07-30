@@ -2165,6 +2165,24 @@
     },
     {
       "album": {
+        "name": "Red Ridge Road",
+        "url": "https://open.spotify.com/album/3v0jNmPIt6mj7vRB2H1umM"
+      },
+      "artists": [
+        {
+          "name": "Alfons Daiminger",
+          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163514,
+      "name": "Red Ridge Road",
+      "url": "https://open.spotify.com/track/2BNF35bgujUs1KtGl5Xww0"
+    },
+    {
+      "album": {
         "name": "Red Roses",
         "url": "https://open.spotify.com/album/4ahdVWqHe9HBFjoBfq5w9O"
       },

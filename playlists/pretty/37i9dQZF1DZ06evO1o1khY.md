@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,577 likes - 43 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,606 likes - 43 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 31 | [Unh Unh](https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:49 |
 | 32 | [Set The Tone](https://open.spotify.com/track/0MSe6jp83mHI6jqZqoyeZz) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [Set The Tone](https://open.spotify.com/album/7ptT0eB5rLQRUlUAULqJjX) | 3:03 |
 | 33 | [In The Trunk \(feat\. GloRilla\)](https://open.spotify.com/track/6srN4L7q0KzHeXFbi5K2pd) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [In The Trunk \(feat\. GloRilla\)](https://open.spotify.com/album/1MD6MPOCOu6Ejid7adoSVg) | 2:45 |
-| 34 | [Cha Cha Cha \(GloRilla, Fivio Foreign\)](https://open.spotify.com/track/7KNccGSE8lwRn9Gu0BY8Q6) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art 2](https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA) | 3:31 |
-| 35 | [Outside](https://open.spotify.com/track/6dzhoFsAUAbTAeJgL7gMaG) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Niki Pooh](https://open.spotify.com/artist/3hG09J3PPVnHvslivvE3GX) | [Outside](https://open.spotify.com/album/1rRGUmICffgc41b0BRj0kC) | 2:35 |
+| 34 | [Outside](https://open.spotify.com/track/6dzhoFsAUAbTAeJgL7gMaG) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Niki Pooh](https://open.spotify.com/artist/3hG09J3PPVnHvslivvE3GX) | [Outside](https://open.spotify.com/album/1rRGUmICffgc41b0BRj0kC) | 2:35 |
+| 35 | [Cha Cha Cha \(GloRilla, Fivio Foreign\)](https://open.spotify.com/track/7KNccGSE8lwRn9Gu0BY8Q6) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art 2](https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA) | 3:31 |
 | 36 | [When She Drunk](https://open.spotify.com/track/0wjB4Pndeqcp6QO9HFKhdX) | [Big Homiie G](https://open.spotify.com/artist/3IG49Dhngr903hQWOFzmlh), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Self Made Self Paid](https://open.spotify.com/album/30FjRjmPxOqIV8EgKDJTGk) | 3:10 |
 | 37 | [Big Shit \- Prod\. by Sunny Gob](https://open.spotify.com/track/7LrEMRvMU0UnNWjuZuHacj) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sunny Gob](https://open.spotify.com/artist/78ZZffmlwqaR1NNoYKRnFo) | [Big Shit](https://open.spotify.com/album/47iTiC280nbUCYKSexLoAO) | 2:20 |
 | 38 | [Can’t Get ‘Em](https://open.spotify.com/track/6DXOKzHb12X2Cg6xN8M2Z9) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [FCK GIRL SZN](https://open.spotify.com/album/190BmxsocJbQBw3yNdluVN) | 2:15 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 42 | [Bestfrenn \(feat\. GloRilla\)](https://open.spotify.com/track/2c8XhH3CD3Ztja2MIBxILf) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Bestfrenn \(feat\. GloRilla\)](https://open.spotify.com/album/2PH99JWwjb865QK15qvO0m) | 2:18 |
 | 43 | [Jealous Ass Bitch](https://open.spotify.com/track/6k9g8At55mymrYreujzg7E) | [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq) | [Jealous Ass Bitch](https://open.spotify.com/album/2xP93aYArN1U0RxKUFoqXn) | 3:43 |
 
-Snapshot ID: `ZqQ4gAAAAAD16qzselq2CcgWtRNWy9pK`
+Snapshot ID: `ZqWKAAAAAABBswUUxASuU7pwcPVL3W1u`

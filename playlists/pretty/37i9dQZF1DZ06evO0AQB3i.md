@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AQB3i.md) - [plain]
 
 ### [This Is Alabama Shakes](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0AQB3i)
 
-> This is Alabama Shakes\. The essential tracks, all in one playlist.
+> This is Alabama Shakes\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,731 likes - 19 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,738 likes - 19 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AQB3i.md) - [plain]
 | 18 | [Rise To The Sun](https://open.spotify.com/track/32RWolRSVulfcVQlZSWu1E) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 3:08 |
 | 19 | [Guess Who](https://open.spotify.com/track/45JLSLXRMQJabYtPtSuBmV) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:15 |
 
-Snapshot ID: `ZqQ4gAAAAAC0buWFCF+KdmW0ofEgFOMi`
+Snapshot ID: `ZqWKAAAAAAC7VqTBpYjeCy8Z6eBcfLWY`
