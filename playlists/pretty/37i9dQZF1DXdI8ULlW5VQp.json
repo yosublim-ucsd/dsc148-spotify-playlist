@@ -1,6 +1,6 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Lila Downs, Ni\u00f1a Pastori y Soledad en portada.",
-  "num_followers": 70299,
+  "num_followers": 70324,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
@@ -631,26 +631,6 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
-        "name": "Juego De Feria",
-        "url": "https://open.spotify.com/album/4mFw8K0Ts3T6yQourMWESD"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        },
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 157146,
-      "name": "Juego De Feria",
-      "url": "https://open.spotify.com/track/5tVNRjHFayBzyOPSpUniDF"
-    },
-    {
-      "added_at": "2024-07-11 02:20:32",
-      "album": {
         "name": "palacio <3",
         "url": "https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 234453,
       "name": "pesimista",
       "url": "https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk"
+    },
+    {
+      "added_at": "2024-07-11 02:20:32",
+      "album": {
+        "name": "Juego De Feria",
+        "url": "https://open.spotify.com/album/4mFw8K0Ts3T6yQourMWESD"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        },
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 157146,
+      "name": "Juego De Feria",
+      "url": "https://open.spotify.com/track/5tVNRjHFayBzyOPSpUniDF"
     },
     {
       "added_at": "2024-07-11 02:20:32",

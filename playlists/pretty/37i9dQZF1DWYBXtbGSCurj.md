@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Ryu The Runner
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,912 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,991 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 21 | [Suco de Fruta](https://open.spotify.com/track/47vNIixENMn2RxcNrGwOlo) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN) | [Dialeto Delinquente](https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB) | 2:20 |
 | 22 | [Sacrifícios](https://open.spotify.com/track/2iOqhcypCqgQnpEXQ57EFM) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Estrela do Rap](https://open.spotify.com/album/29BE8XW1c7IjLGXh1fvBoO) | 3:51 |
 | 23 | [Me Chama Pelo Meu Vulgo](https://open.spotify.com/track/31ruhXo3xWYJUfGk1uU77y) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [O Cara Do Momento, Vol\. 2](https://open.spotify.com/album/35C0UUdgV8mkuBaJrxbagf) | 2:48 |
-| 24 | [Isso É Culpa da Marijuana](https://open.spotify.com/track/4sTOgbTaeQ4hPMO6HatnC0) | [OGBEATZZ](https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [Isso É Culpa da Marijuana](https://open.spotify.com/album/0Ys5ksMSP0Ic5Axg4A9VHw) | 2:19 |
+| 24 | [Isso É Culpa da Marijuana](https://open.spotify.com/track/4sTOgbTaeQ4hPMO6HatnC0) | [OGBEATZZ](https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [Isso É Culpa da Marijuana](https://open.spotify.com/album/0Ys5ksMSP0Ic5Axg4A9VHw) | 1:49 |
 | 25 | [Patrício's](https://open.spotify.com/track/6HVzQ2xHsE7nfRrD8zTawj) | [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Rubro](https://open.spotify.com/artist/12Q1vJ1wMjyzZMmW4QOcgw) | [Patrício's](https://open.spotify.com/album/2EJRCax1RjXOvZk2Dvg0xB) | 4:33 |
 | 26 | [Seu Job](https://open.spotify.com/track/2YENQseYfuRAaZoUrQ9wGa) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [DU'L](https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [Coelho](https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa) | [Para Todas do Job](https://open.spotify.com/album/7mIgIX5BUaCP24wnK28OG7) | 4:15 |
 | 27 | [Nos Embalos de Jersey a Noite](https://open.spotify.com/track/6spunQxxCbEoXCVcQtaY2N) | [Legusta Beatz](https://open.spotify.com/artist/17eEAtKFuzP5NRBx7vpRfv), [Berêta](https://open.spotify.com/artist/3T44lVfLAXe4Q1aaRHyecq), [DigZion](https://open.spotify.com/artist/6KA0fZvlGGzqfj2aQ5mDza) | [Degusta](https://open.spotify.com/album/7BZPAwG0qXGZPkxs0Dwh2x) | 2:46 |

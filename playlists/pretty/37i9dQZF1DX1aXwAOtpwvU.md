@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj swojego nowego ulubionego artystę\. Cover:  <a href="spotify:artist:251W9nU4osxaBuBkU9HXT3">Jea Mira</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,541 likes - 78 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,565 likes - 78 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 27 | [b a n d s m u t a s ó w](https://open.spotify.com/track/7fNw0SddmoicL9svh4qHvh) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [b a n d s m u t a s ó w](https://open.spotify.com/album/4y2AzTSKgbhRTnMvUnr2CF) | 2:54 |
 | 28 | [The Letter](https://open.spotify.com/track/04cOPYuvkcPdjhx8Km0EHw) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [The Letter](https://open.spotify.com/album/7vafvLFZqrGoo8VsGDZMvf) | 4:13 |
 | 29 | [GRAWITACJA](https://open.spotify.com/track/7pQkDJXFDCJUY0sSbbc8i9) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [charlie moncler](https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV) | [in real life](https://open.spotify.com/album/00WMFLvaeDOplwURq1E2t7) | 3:05 |
-| 30 | [Uczucia](https://open.spotify.com/track/1ay25zXov7yoR2D8ZAjxKZ) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Uczucia](https://open.spotify.com/album/5OXM3lcdxWN406CT9FZEan) | 2:06 |
+| 30 | [uczucia](https://open.spotify.com/track/1ay25zXov7yoR2D8ZAjxKZ) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [uczucia](https://open.spotify.com/album/5OXM3lcdxWN406CT9FZEan) | 2:06 |
 | 31 | [Mam koleżankę](https://open.spotify.com/track/0OM0RY3tiPFLXf3xQvg1Ln) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Mam koleżankę](https://open.spotify.com/album/05PFH0lCFfQf5ugOwjDHL9) | 3:31 |
 | 32 | [Tide](https://open.spotify.com/track/5W6KWPUZBDYlK0KExEQEhb) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Tide](https://open.spotify.com/album/0tuj1xBC3aKWlNXtmpjhR8) | 3:16 |
 | 33 | [Promil](https://open.spotify.com/track/2V11pbwkbgi3gj2tei1zl7) | [Szczyl](https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm), [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I) | [Promil](https://open.spotify.com/album/1P0XxaPUVjqD9T8C7Km4qt) | 3:26 |

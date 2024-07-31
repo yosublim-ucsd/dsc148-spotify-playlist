@@ -1,12 +1,12 @@
 {
   "description": "This is The Doors. The essential tracks, all in one playlist.",
-  "num_followers": 656456,
+  "num_followers": 656527,
   "original_name": "This Is The Doors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqWKAAAAAAD5XJ5UFazPmtfR2B8ivDcs",
+  "snapshot_id": "ZqbbgAAAAAAsUI8z07micnOSIZOSnEeN",
   "tracks": [
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 155493,
-      "name": "Wild Child",
-      "url": "https://open.spotify.com/track/5QTKB8UOaBO9zvWr6ap05R"
+      "duration_ms": 146026,
+      "name": "Runnin' Blue",
+      "url": "https://open.spotify.com/track/0y2Vz9T2PImD6YUdMq9Ebl"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 146026,
-      "name": "Runnin' Blue",
-      "url": "https://open.spotify.com/track/0y2Vz9T2PImD6YUdMq9Ebl"
+      "duration_ms": 155493,
+      "name": "Wild Child",
+      "url": "https://open.spotify.com/track/5QTKB8UOaBO9zvWr6ap05R"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
       "duration_ms": 39229,
       "name": "I Am Troubled - 2019 Remaster",
       "url": "https://open.spotify.com/track/4jj0yIh4mBIZEwjJwDVCYZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strange Nights of Stone",
+        "url": "https://open.spotify.com/album/7bs3oHD0CaOQxUSdjr3osB"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 39360,
+      "name": "Petition the Lord with Prayer - Live in Vancouver, 1970",
+      "url": "https://open.spotify.com/track/7FPHpesUZ791sGiYKQpQG4"
     },
     {
       "added_at": null,

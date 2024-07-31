@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAcxZclYWTAX3qOqBLrNTc8lC2Q6GlL",
+  "snapshot_id": "AAAcxkZEm77sGnVf+iOidVFgPpwnjQbB",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -2663,6 +2663,22 @@
       "duration_ms": 238420,
       "name": "Montego Slay",
       "url": "https://open.spotify.com/track/6WBzCRqjK96aKBvKiIyiZO"
+    },
+    {
+      "added_at": "2024-07-30 21:24:54",
+      "album": {
+        "name": "I No Longer Fear the Razor Guarding My Heel (III)",
+        "url": "https://open.spotify.com/album/3WEiXCyMnt06uLuJ6GqizD"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 120058,
+      "name": "Soul Doubt",
+      "url": "https://open.spotify.com/track/1i0r2mb2SaHFjphF1dtizV"
     }
   ],
   "unique_name": "main ",

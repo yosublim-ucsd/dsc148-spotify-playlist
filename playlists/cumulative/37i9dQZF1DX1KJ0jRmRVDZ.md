@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,167 songs - 2 day 18 hr 34 min
+1,168 songs - 2 day 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -887,7 +887,7 @@
 | [大世界](https://open.spotify.com/track/1a7BlQS3Yxpa3OnahoCSL3) | [Eye](https://open.spotify.com/artist/3zqz8Khnygbv4LJia0v0iY) | [大世界](https://open.spotify.com/album/0jLXgxBtvx8WSTdC9f89nO) | 3:46 | 2023-01-03 | 2023-01-11 |
 | [大人なフリして。](https://open.spotify.com/track/5FSHMjTeYFhdP2YZCEoY9L) | [すいそうぐらし](https://open.spotify.com/artist/6jkFpm0ACKBzgIfqPrPXdm) | [大人なフリして。](https://open.spotify.com/album/2AxbuzSaivqqcmbrksRl7H) | 4:04 | 2022-06-21 | 2022-07-15 |
 | [大正毛断嬢](https://open.spotify.com/track/1BMYTegDArEvTu6OtRTm3F) | [真壁寂室](https://open.spotify.com/artist/1jHAyENmIKAznYXh2FONXc) | [大正毛断嬢](https://open.spotify.com/album/4eYZH8ZeWOxiLC44RqUEe6) | 3:28 | 2022-07-19 | 2022-07-21 |
-| [大脳的なランデブー](https://open.spotify.com/track/2peXRsKoFZMyy30Zi3dhLH) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [大脳的なランデブー](https://open.spotify.com/album/5wJn8Yo0FqeSsvfUgrlXhx) | 2:12 | 2024-04-23 |  |
+| [大脳的なランデブー](https://open.spotify.com/track/2peXRsKoFZMyy30Zi3dhLH) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [大脳的なランデブー](https://open.spotify.com/album/5wJn8Yo0FqeSsvfUgrlXhx) | 2:12 | 2024-04-23 | 2024-07-31 |
 | [天ノ弱](https://open.spotify.com/track/34qfGndmeLECaqkzrU3rzO) | [うみくん](https://open.spotify.com/artist/7AeFUOB2BZuIkeq2S6FpIp) | [【ボカロ曲を原キーで】高音厨で有名な総再生数1億超えのうみくんがベストアルバムを出した件について【歌ってみた】\#略してうみくんベスト](https://open.spotify.com/album/1vSU30hiVRoci2fIoAvQee) | 3:10 | 2022-10-18 | 2022-10-28 |
 | [天国](https://open.spotify.com/track/0RzrwWlaFDU7f3KYCQEFx4) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu) | [CASTLE](https://open.spotify.com/album/5nrbYNmaCFjlO2NcBfQc9o) | 3:13 | 2022-06-28 | 2022-07-27 |
 | [天国の改札](https://open.spotify.com/track/7dIvHqdCVZGukFm7t5pCDm) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [天国の改札](https://open.spotify.com/album/2zsjn8Uim7Av20vNKJCLQn) | 0:53 | 2022-06-09 | 2022-07-27 |
@@ -1139,6 +1139,7 @@
 | [銃の部品](https://open.spotify.com/track/0AmXho7WWR4MprccR2pILw) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [銃の部品](https://open.spotify.com/album/3lF7gg3xzznR7gL6IKm4LB) | 2:34 | 2022-06-30 | 2023-04-05 |
 | [銃口をこちらに向けて](https://open.spotify.com/track/7GzZsxf9J58UfldRY23OgN) | [さんひ](https://open.spotify.com/artist/4idudB1HgSIESccE67FbNf) | [銃口をこちらに向けて](https://open.spotify.com/album/0LZodbYRVVSW6VNnqTzi9m) | 3:14 | 2022-06-30 | 2022-07-06 |
 | [錠剤](https://open.spotify.com/track/04niDJQ3mzjkwzvid0Otoi) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [錠剤](https://open.spotify.com/album/6HHGhheEmIzbAL6XBMxViH) | 3:24 | 2022-11-08 | 2023-03-10 |
+| [鎌倉STYLE](https://open.spotify.com/track/7uuGRrAHErHkzp51tFzcd7) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [鎌倉STYLE](https://open.spotify.com/album/0hJnHL8N0cRUKPSLeEWS6W) | 3:20 | 2024-07-26 |  |
 | [鏡よ鏡](https://open.spotify.com/track/5lVo2vV7jtO80HFQ8UcjBJ) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [鏡よ鏡](https://open.spotify.com/album/5x5UhyjIHJCpzRaz1RIKWK) | 3:30 | 2022-07-26 | 2022-07-28 |
 | [阿修羅ちゃん](https://open.spotify.com/track/0cN6iBeCR7NgeBeTIKjLml) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 3:15 | 2022-07-07 | 2022-10-28 |
 | [陽だまり](https://open.spotify.com/track/6AE3QlMBz7KcoQKG8LXfIh) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 5:13 | 2024-01-25 | 2024-01-31 |

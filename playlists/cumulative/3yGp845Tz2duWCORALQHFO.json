@@ -5699,6 +5699,24 @@
     },
     {
       "album": {
+        "name": "King Of My City",
+        "url": "https://open.spotify.com/album/0es88FJMP1T7cCYTUtQrBd"
+      },
+      "artists": [
+        {
+          "name": "Firebeatz",
+          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "King Of My City",
+      "url": "https://open.spotify.com/track/0JTzJptbgYblebDNwtUmHI"
+    },
+    {
+      "album": {
         "name": "Kiss From A Rose",
         "url": "https://open.spotify.com/album/7hWYQeuLz8pL88CqfFLroi"
       },

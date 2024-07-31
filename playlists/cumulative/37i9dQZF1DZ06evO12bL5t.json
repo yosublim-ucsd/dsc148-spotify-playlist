@@ -1010,10 +1010,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 161998,
       "name": "Pasajes De La Vida",
       "url": "https://open.spotify.com/track/3Z5upGPXmrFYWmDsTvw5Yv"
+    },
+    {
+      "album": {
+        "name": "Los Archivos",
+        "url": "https://open.spotify.com/album/4jE5oGRkiVBQJKJQuAY3q4"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188265,
+      "name": "Payonazo",
+      "url": "https://open.spotify.com/track/0ZJ1fc3DkuUwrgqriASaSR"
     },
     {
       "album": {

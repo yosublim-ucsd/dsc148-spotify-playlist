@@ -1,12 +1,12 @@
 {
   "description": "This is Finch. The essential tracks, all in one playlist.",
-  "num_followers": 2964,
+  "num_followers": 2963,
   "original_name": "This Is Finch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqWKAAAAAAC8nDIRwAjxBuQTF2Rz9RzN",
+  "snapshot_id": "ZqbbgAAAAABKOl8rRD/uFbNtDUXW+zit",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 203466,
-      "name": "Back To Oblivion",
-      "url": "https://open.spotify.com/track/3gj736rPpN4UutbCVWV62F"
+      "duration_ms": 321306,
+      "name": "Play Dead",
+      "url": "https://open.spotify.com/track/3ojxuJsIWtGciC7LFB4hds"
     },
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 185386,
-      "name": "A Piece Of Mind",
-      "url": "https://open.spotify.com/track/4FhWqSmp6ROi6QVTgO1oJQ"
+      "duration_ms": 279133,
+      "name": "Bitemarks And Bloodstains",
+      "url": "https://open.spotify.com/track/4vojoAgXcYu8NZQpYfaOYD"
     },
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 189786,
-      "name": "Anywhere But Here",
-      "url": "https://open.spotify.com/track/5Uh2jLUewjnVWXA1LLjQQn"
+      "duration_ms": 203466,
+      "name": "Back To Oblivion",
+      "url": "https://open.spotify.com/track/3gj736rPpN4UutbCVWV62F"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 279133,
-      "name": "Bitemarks And Bloodstains",
-      "url": "https://open.spotify.com/track/4vojoAgXcYu8NZQpYfaOYD"
+      "duration_ms": 185386,
+      "name": "A Piece Of Mind",
+      "url": "https://open.spotify.com/track/4FhWqSmp6ROi6QVTgO1oJQ"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 321306,
-      "name": "Play Dead",
-      "url": "https://open.spotify.com/track/3ojxuJsIWtGciC7LFB4hds"
+      "duration_ms": 189786,
+      "name": "Anywhere But Here",
+      "url": "https://open.spotify.com/track/5Uh2jLUewjnVWXA1LLjQQn"
     },
     {
       "added_at": null,

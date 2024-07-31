@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Apache 207, AYLIVA",
-  "num_followers": 582965,
+  "num_followers": 582992,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
+        "name": "Lautlos",
+        "url": "https://open.spotify.com/album/1RufCOYft4nmhYXpYZQKmW"
+      },
+      "artists": [
+        {
+          "name": "Morpheuz",
+          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Lautlos",
+      "url": "https://open.spotify.com/track/2Y0jnnVN1KDg8On65Rw2Hk"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
         "name": "Bis zur Spree (feat. Juju)",
         "url": "https://open.spotify.com/album/4b8uHELxuYPysvbaUi4Ip7"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 165219,
       "name": "Bis zur Spree (feat. Juju)",
       "url": "https://open.spotify.com/track/46Hmjs6AR6xrxDFlFkmXHi"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "Lautlos",
-        "url": "https://open.spotify.com/album/1RufCOYft4nmhYXpYZQKmW"
-      },
-      "artists": [
-        {
-          "name": "Morpheuz",
-          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Lautlos",
-      "url": "https://open.spotify.com/track/2Y0jnnVN1KDg8On65Rw2Hk"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Nie wieder sehen",
-        "url": "https://open.spotify.com/album/74nmPMbAbjYQDEtwtHF5ZY"
-      },
-      "artists": [
-        {
-          "name": "Juju",
-          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
-        }
-      ],
-      "duration_ms": 161212,
-      "name": "Nie wieder sehen",
-      "url": "https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
         "name": "Majestic",
         "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 160226,
       "name": "Passion (feat. Paula Hartmann)",
       "url": "https://open.spotify.com/track/0npHflJzLWZ6svbq5Abnfo"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Nie wieder sehen",
+        "url": "https://open.spotify.com/album/74nmPMbAbjYQDEtwtHF5ZY"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        }
+      ],
+      "duration_ms": 161212,
+      "name": "Nie wieder sehen",
+      "url": "https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
+        "name": "Elbe",
+        "url": "https://open.spotify.com/album/49fAdOAW2qhJWhpDayFcKg"
+      },
+      "artists": [
+        {
+          "name": "Bozza",
+          "url": "https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb"
+        }
+      ],
+      "duration_ms": 195653,
+      "name": "Elbe",
+      "url": "https://open.spotify.com/track/2kvJnNMqnimkCZUUWjOINy"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
         "name": "SUPERHERO Pt. II",
         "url": "https://open.spotify.com/album/1p6GawomVK5DiIi2WLHW69"
       },
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Elbe",
-        "url": "https://open.spotify.com/album/49fAdOAW2qhJWhpDayFcKg"
+        "name": "Bei Nacht",
+        "url": "https://open.spotify.com/album/2HCVxU3SoAeBBrHO81Du6B"
       },
       "artists": [
         {
-          "name": "Bozza",
-          "url": "https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb"
+          "name": "AYLIVA",
+          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
         }
       ],
-      "duration_ms": 195653,
-      "name": "Elbe",
-      "url": "https://open.spotify.com/track/2kvJnNMqnimkCZUUWjOINy"
+      "duration_ms": 174000,
+      "name": "Bei Nacht",
+      "url": "https://open.spotify.com/track/53vyWY4myvD6qPh1z54Itx"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1219,22 +1235,6 @@
       "duration_ms": 184615,
       "name": "Erkl\u00e4re mir die Liebe",
       "url": "https://open.spotify.com/track/0K6QpySe2WtrAR2wXKheVh"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "Bei Nacht",
-        "url": "https://open.spotify.com/album/2HCVxU3SoAeBBrHO81Du6B"
-      },
-      "artists": [
-        {
-          "name": "AYLIVA",
-          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Bei Nacht",
-      "url": "https://open.spotify.com/track/53vyWY4myvD6qPh1z54Itx"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Bis ins Grab",
-        "url": "https://open.spotify.com/album/2hgBF2jOKJaLBwCMyWYEFP"
-      },
-      "artists": [
-        {
-          "name": "YFG Pave",
-          "url": "https://open.spotify.com/artist/4Ck46WZxqzpKUInvcgVF1C"
-        }
-      ],
-      "duration_ms": 146927,
-      "name": "Bis ins Grab",
-      "url": "https://open.spotify.com/track/6DidG1r0xh9EuZtCC3Snnq"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
         "name": "BERETTA",
         "url": "https://open.spotify.com/album/01Vdj2RKaAShfenS7e9wvh"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 212006,
       "name": "BERETTA",
       "url": "https://open.spotify.com/track/5T8d11vkU2b3bIRSMIBrCC"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Bis ins Grab",
+        "url": "https://open.spotify.com/album/2hgBF2jOKJaLBwCMyWYEFP"
+      },
+      "artists": [
+        {
+          "name": "YFG Pave",
+          "url": "https://open.spotify.com/artist/4Ck46WZxqzpKUInvcgVF1C"
+        }
+      ],
+      "duration_ms": 146927,
+      "name": "Bis ins Grab",
+      "url": "https://open.spotify.com/track/6DidG1r0xh9EuZtCC3Snnq"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
+        "name": "Ein Auge blau",
+        "url": "https://open.spotify.com/album/3CM6jDh6ms00unaBkIReQF"
+      },
+      "artists": [
+        {
+          "name": "Peter Fox",
+          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
+        }
+      ],
+      "duration_ms": 182396,
+      "name": "Ein Auge blau",
+      "url": "https://open.spotify.com/track/1po98uYmh7Wf2GFBOKQNGF"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
         "name": "6 Minuten",
         "url": "https://open.spotify.com/album/28KN9ZvJ3YMKhMKqht0wZ0"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 174673,
       "name": "6 Minuten",
       "url": "https://open.spotify.com/track/2yCA2pTaO6RaU8r9o8CpnI"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "Ein Auge blau",
-        "url": "https://open.spotify.com/album/3CM6jDh6ms00unaBkIReQF"
-      },
-      "artists": [
-        {
-          "name": "Peter Fox",
-          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
-        }
-      ],
-      "duration_ms": 182396,
-      "name": "Ein Auge blau",
-      "url": "https://open.spotify.com/track/1po98uYmh7Wf2GFBOKQNGF"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1811,6 +1811,26 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
+        "name": "Ein Jahr (feat. Montez)",
+        "url": "https://open.spotify.com/album/3LjJ01pSUYqUCqHf2ahgJD"
+      },
+      "artists": [
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        },
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "duration_ms": 176077,
+      "name": "Ein Jahr (feat. Montez)",
+      "url": "https://open.spotify.com/track/1umWYzhtxWxlVvnvfWLbT4"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
         "name": "Happy Birthday",
         "url": "https://open.spotify.com/album/38Ooz0yzDGiiRA7tzZq580"
       },
@@ -1827,22 +1847,6 @@
       "duration_ms": 216421,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/2IEsTp4cFNOZVBNshXLB6k"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "\u00dcber dem Himmel",
-        "url": "https://open.spotify.com/album/0dD2s725NhOZk8K1aHWUpK"
-      },
-      "artists": [
-        {
-          "name": "Florentina",
-          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
-        }
-      ],
-      "duration_ms": 146616,
-      "name": "\u00dcber dem Himmel",
-      "url": "https://open.spotify.com/track/2L3haxcF7UmI94PEx25VZ4"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1867,38 +1871,34 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Ein Jahr (feat. Montez)",
-        "url": "https://open.spotify.com/album/3LjJ01pSUYqUCqHf2ahgJD"
+        "name": "\u00dcber dem Himmel",
+        "url": "https://open.spotify.com/album/0dD2s725NhOZk8K1aHWUpK"
       },
       "artists": [
         {
-          "name": "Capital Bra",
-          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
-        },
-        {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
         }
       ],
-      "duration_ms": 176077,
-      "name": "Ein Jahr (feat. Montez)",
-      "url": "https://open.spotify.com/track/1umWYzhtxWxlVvnvfWLbT4"
+      "duration_ms": 146616,
+      "name": "\u00dcber dem Himmel",
+      "url": "https://open.spotify.com/track/2L3haxcF7UmI94PEx25VZ4"
     },
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "nur liebe, immer.",
-        "url": "https://open.spotify.com/album/5Smkfw2oCHkVJeGWgo0ylD"
+        "name": "Bitterkalt",
+        "url": "https://open.spotify.com/album/75I9L51LVqoKmZCBWYigsX"
       },
       "artists": [
         {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+          "name": "C\u00c9LINE",
+          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
         }
       ],
-      "duration_ms": 146346,
-      "name": "luft holen",
-      "url": "https://open.spotify.com/track/4LOGPJg8TsT0RC5xyvLN30"
+      "duration_ms": 145195,
+      "name": "Bitterkalt",
+      "url": "https://open.spotify.com/track/1yBLbvFknx6TPhInLR3bOh"
     }
   ],
   "unique_name": "Rap in deep",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Sylwia Grzeszczak
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,417 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,482 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 25 | [Szum](https://open.spotify.com/track/4dbp2q4IPbDvmDlECn3Xii) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Szum](https://open.spotify.com/album/2S6yeWf41bXsVaVnQ8AskE) | 3:53 |
 | 26 | [Nad wodę \(feat\. Tribbs\)](https://open.spotify.com/track/3Ugq1h32zAd2ILdNZMdCJp) | [WERSOW](https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [Nad wodę \(feat\. Tribbs\)](https://open.spotify.com/album/00qlmn8FxtemR5WGnKLehA) | 2:35 |
 | 27 | [Od kiedy jesteś](https://open.spotify.com/track/06WAHlXnCIn6DkelXwtUOd) | [Dominik Dudek](https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx) | [Od kiedy jesteś](https://open.spotify.com/album/5tEKJkeIlU6xbnwnwpQHqo) | 3:02 |
-| 28 | [ŻYCZENIE](https://open.spotify.com/track/5NCbw8iGoUGHmUfmfKfgSL) | [Lija](https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5) | [ŻYCZENIE](https://open.spotify.com/album/5uuqDKz4fqciOPrua2DMEP) | 2:53 |
+| 28 | [ŻYCZENIE](https://open.spotify.com/track/5NCbw8iGoUGHmUfmfKfgSL) | [LIJA](https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5) | [ŻYCZENIE](https://open.spotify.com/album/5uuqDKz4fqciOPrua2DMEP) | 2:53 |
 | 29 | [Dziewczyno Piękna](https://open.spotify.com/track/7i8r3Oev7BKcdtz78yD57J) | [Skolim](https://open.spotify.com/artist/3RJrimoFyTK3SoTF4TaDSA), [Cleo](https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR) | [Dziewczyno Piękna](https://open.spotify.com/album/5rmAn1OCT6Oo4CuSWVBBRZ) | 2:25 |
 | 30 | [Ile Dać Mam](https://open.spotify.com/track/3gvJeMSwp2UUnibGpmdIhh) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [Ile Dać Mam](https://open.spotify.com/album/3FOwkmBHiI1FpgMhrNsJW1) | 2:48 |
 | 31 | [CHCĘ TYLKO KRZYCZEĆ](https://open.spotify.com/track/1pHyRBjIwgNvmKYCsI3BRD) | [Cyrko](https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL) | [CHCĘ TYLKO KRZYCZEĆ](https://open.spotify.com/album/5ywUP1yvmqZLjsopZWQxQt) | 2:41 |

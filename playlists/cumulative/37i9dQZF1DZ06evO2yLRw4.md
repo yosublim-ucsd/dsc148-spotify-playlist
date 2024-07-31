@@ -2,7 +2,7 @@
 
 ### [This Is AWOLNATION](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2yLRw4)
 
-> This is AWOLNATION\. Todos os maiores hits em uma só playlist.
+> This is AWOLNATION\. The essential tracks, all in one playlist.
 
 66 songs - 4 hr 2 min
 

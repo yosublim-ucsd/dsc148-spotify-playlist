@@ -1,12 +1,12 @@
 {
   "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Myla",
-  "num_followers": 1308009,
+  "num_followers": 1308443,
   "original_name": "Lagi Viral",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqL0tAAAAAAyD4G2v6blMRo5OirpmrFr",
+  "snapshot_id": "ZqimUQAAAABfrIypjDwxfLUyMrBZ8rUr",
   "tracks": [
     {
       "added_at": "2024-07-18 22:46:19",
@@ -55,6 +55,22 @@
       "duration_ms": 196343,
       "name": "Aku Yang Jatuh Cinta",
       "url": "https://open.spotify.com/track/2JqsSFo6HqOxnmxBtHfNY6"
+    },
+    {
+      "added_at": "2024-07-30 08:37:37",
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs"
+      },
+      "artists": [
+        {
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+        }
+      ],
+      "duration_ms": 226706,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
     },
     {
       "added_at": "2024-07-18 22:46:19",
@@ -709,6 +725,22 @@
       "url": "https://open.spotify.com/track/4Gmkqn3V7IMTkOmmiX7cbb"
     },
     {
+      "added_at": "2024-07-30 08:37:37",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
+      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
+    },
+    {
       "added_at": "2024-07-26 00:58:28",
       "album": {
         "name": "Smeraldo Garden Marching Band (feat. Loco)",
@@ -985,6 +1017,22 @@
       "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
     },
     {
+      "added_at": "2024-07-30 08:37:37",
+      "album": {
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
+    },
+    {
       "added_at": "2024-07-26 00:58:28",
       "album": {
         "name": "Suwung O Aja Yakan",
@@ -1183,6 +1231,22 @@
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "added_at": "2024-07-30 08:37:37",
+      "album": {
+        "name": "Tertunda",
+        "url": "https://open.spotify.com/album/2VFTEFxdxHpNU1RCqVpd26"
+      },
+      "artists": [
+        {
+          "name": "dbatlayar",
+          "url": "https://open.spotify.com/artist/6Cl2MkL95uTSdGnkT0epnG"
+        }
+      ],
+      "duration_ms": 232100,
+      "name": "Tertunda",
+      "url": "https://open.spotify.com/track/5BN10Fpx563bPV5Bs6Ogv3"
     },
     {
       "added_at": "2024-07-18 22:46:19",

@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 46768,
+  "num_followers": 46778,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqWKAAAAAACT0LwrpL77WLMak7stA/5N",
+  "snapshot_id": "ZqbbgAAAAABPv6z/0s+uNri7u/teyz3N",
   "tracks": [
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancid (5)",
-        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 70933,
-      "name": "Antennas",
-      "url": "https://open.spotify.com/track/6vYgCVhPyr6cSzyROqf8fd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Indestructible",
         "url": "https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 251260,
       "name": "Arrested in Shanghai",
       "url": "https://open.spotify.com/track/3eMpWrJhO6XsiOanQTDpax"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rancid (5)",
+        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 70933,
+      "name": "Antennas",
+      "url": "https://open.spotify.com/track/6vYgCVhPyr6cSzyROqf8fd"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancid",
-        "url": "https://open.spotify.com/album/4ptHCnj9ZvHibMqdPFx5Bt"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 116990,
-      "name": "Media Controller",
-      "url": "https://open.spotify.com/track/5kZ1u8QbdjHDb4mtcdZrWp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tomorrow Never Comes",
         "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 72608,
       "name": "Mud, Blood, & Gold",
       "url": "https://open.spotify.com/track/3bHZv692gQiEzKiQ7iwdvr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rancid",
+        "url": "https://open.spotify.com/album/4ptHCnj9ZvHibMqdPFx5Bt"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 116990,
+      "name": "Media Controller",
+      "url": "https://open.spotify.com/track/5kZ1u8QbdjHDb4mtcdZrWp"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancid",
-        "url": "https://open.spotify.com/album/4ptHCnj9ZvHibMqdPFx5Bt"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 165056,
-      "name": "I'm Not The Only One",
-      "url": "https://open.spotify.com/track/0hQsjOwKenWlkf1ND67pfn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let The Dominoes Fall (Expanded Version)",
         "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 120480,
       "name": "Disconnected",
       "url": "https://open.spotify.com/track/6m4HKtDDwzVHdZAW6GMNdH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rancid",
+        "url": "https://open.spotify.com/album/4ptHCnj9ZvHibMqdPFx5Bt"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 165056,
+      "name": "I'm Not The Only One",
+      "url": "https://open.spotify.com/track/0hQsjOwKenWlkf1ND67pfn"
     }
   ],
   "unique_name": "This Is Rancid",

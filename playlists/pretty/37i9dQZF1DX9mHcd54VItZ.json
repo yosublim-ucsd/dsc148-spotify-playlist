@@ -1,6 +1,6 @@
 {
   "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs?si=ZMYXmHpdSGeH9FknanH8Tw\">Jo Black</a>",
-  "num_followers": 19288,
+  "num_followers": 19311,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Ewigheid (Remastered 2024)",
-        "url": "https://open.spotify.com/album/2U8RKMXqNsceEJCC1XGaTa"
-      },
-      "artists": [
-        {
-          "name": "Millennium",
-          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
-        }
-      ],
-      "duration_ms": 240489,
-      "name": "Alleen - Remastered 2024",
-      "url": "https://open.spotify.com/track/5US58PJyctlJoImyWqsyvZ"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
         "name": "Vanfokkingtasties Akoesties",
         "url": "https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 210520,
       "name": "Dagdronk",
       "url": "https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
+        "name": "Ewigheid (Remastered 2024)",
+        "url": "https://open.spotify.com/album/2U8RKMXqNsceEJCC1XGaTa"
+      },
+      "artists": [
+        {
+          "name": "Millennium",
+          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
+        }
+      ],
+      "duration_ms": 240489,
+      "name": "Alleen - Remastered 2024",
+      "url": "https://open.spotify.com/track/5US58PJyctlJoImyWqsyvZ"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Revolusie, Romantiek, Ruk en Rol",
-        "url": "https://open.spotify.com/album/528vOlag3lv4aOPia804bY"
-      },
-      "artists": [
-        {
-          "name": "Glaskas",
-          "url": "https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Die Liedjie Oor Die Meisie (Ek Wil Jou H\u00ea)",
-      "url": "https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
         "name": "Bloeisels",
         "url": "https://open.spotify.com/album/21Wolo015jpmELBve2nf8E"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 202250,
       "name": "Kan Ek Met Jou Dans",
       "url": "https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
+        "name": "Revolusie, Romantiek, Ruk en Rol",
+        "url": "https://open.spotify.com/album/528vOlag3lv4aOPia804bY"
+      },
+      "artists": [
+        {
+          "name": "Glaskas",
+          "url": "https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Die Liedjie Oor Die Meisie (Ek Wil Jou H\u00ea)",
+      "url": "https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Voel Jy Dit?",
-        "url": "https://open.spotify.com/album/0woO4IsAbmDoxLE2INCuE7"
-      },
-      "artists": [
-        {
-          "name": "Vancoet",
-          "url": "https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG"
-        }
-      ],
-      "duration_ms": 171823,
-      "name": "Voel Jy Dit?",
-      "url": "https://open.spotify.com/track/6PHxsiho5eloCFvuYseB7Y"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
         "name": "96-03 The Singles",
         "url": "https://open.spotify.com/album/5bYKIrlRp4F2CIVcG9MgyO"
       },
@@ -563,18 +547,34 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/1eufrzhisuPjdBsiToqi1e"
+        "name": "Voel Jy Dit?",
+        "url": "https://open.spotify.com/album/0woO4IsAbmDoxLE2INCuE7"
       },
       "artists": [
         {
-          "name": "Pony Jones",
-          "url": "https://open.spotify.com/artist/7AzbYu4z6CpgR2OSrb4DM2"
+          "name": "Vancoet",
+          "url": "https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG"
         }
       ],
-      "duration_ms": 161813,
-      "name": "Burn Out",
-      "url": "https://open.spotify.com/track/4wqprYlbbIwIucBMEJHwSY"
+      "duration_ms": 171823,
+      "name": "Voel Jy Dit?",
+      "url": "https://open.spotify.com/track/6PHxsiho5eloCFvuYseB7Y"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
+        "name": "VRY WIL ONS WEES",
+        "url": "https://open.spotify.com/album/5g2Hb6znFRVOa8XUhVx4Uo"
+      },
+      "artists": [
+        {
+          "name": "Jonah",
+          "url": "https://open.spotify.com/artist/1cyng9F206AdhCPdiBueLk"
+        }
+      ],
+      "duration_ms": 179426,
+      "name": "VRY WIL ONS WEES",
+      "url": "https://open.spotify.com/track/1QQVztQfIgz8Yfp8sttEtY"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -595,18 +595,18 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "VRY WIL ONS WEES",
-        "url": "https://open.spotify.com/album/5g2Hb6znFRVOa8XUhVx4Uo"
+        "name": "One",
+        "url": "https://open.spotify.com/album/1eufrzhisuPjdBsiToqi1e"
       },
       "artists": [
         {
-          "name": "Jonah",
-          "url": "https://open.spotify.com/artist/1cyng9F206AdhCPdiBueLk"
+          "name": "Pony Jones",
+          "url": "https://open.spotify.com/artist/7AzbYu4z6CpgR2OSrb4DM2"
         }
       ],
-      "duration_ms": 179426,
-      "name": "VRY WIL ONS WEES",
-      "url": "https://open.spotify.com/track/1QQVztQfIgz8Yfp8sttEtY"
+      "duration_ms": 161813,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/4wqprYlbbIwIucBMEJHwSY"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
+        "name": "Hoogtyd",
+        "url": "https://open.spotify.com/album/3wkMmzlLUUDWNQHT507Lyv"
+      },
+      "artists": [
+        {
+          "name": "Fran Prins",
+          "url": "https://open.spotify.com/artist/5zh2qxLSYvBzIPLMhVNfUv"
+        }
+      ],
+      "duration_ms": 212459,
+      "name": "Hoogtyd",
+      "url": "https://open.spotify.com/track/53EswYQ2pvFULtB93JbgBS"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
         "name": "Battering Lamb",
         "url": "https://open.spotify.com/album/4qvCXMGH7dfliEGXYvXdaw"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 204800,
       "name": "Battering Lamb",
       "url": "https://open.spotify.com/track/7vwVsjEnWkCLgQRc6gbFFw"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
-        "name": "Dans Deur Die Donker",
-        "url": "https://open.spotify.com/album/63sTwGlgIvUrLTz5ZimooE"
-      },
-      "artists": [
-        {
-          "name": "Fokofpolisiekar",
-          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
-        }
-      ],
-      "duration_ms": 182589,
-      "name": "Dans Deur Die Donker",
-      "url": "https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Hoogtyd",
-        "url": "https://open.spotify.com/album/3wkMmzlLUUDWNQHT507Lyv"
+        "name": "Dans Deur Die Donker",
+        "url": "https://open.spotify.com/album/63sTwGlgIvUrLTz5ZimooE"
       },
       "artists": [
         {
-          "name": "Fran Prins",
-          "url": "https://open.spotify.com/artist/5zh2qxLSYvBzIPLMhVNfUv"
+          "name": "Fokofpolisiekar",
+          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
         }
       ],
-      "duration_ms": 212459,
-      "name": "Hoogtyd",
-      "url": "https://open.spotify.com/track/53EswYQ2pvFULtB93JbgBS"
+      "duration_ms": 182589,
+      "name": "Dans Deur Die Donker",
+      "url": "https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6"
     }
   ],
   "unique_name": "SA Rock ",

@@ -5,6 +5,36 @@
   "tracks": [
     {
       "album": {
+        "name": "...What About Now?",
+        "url": "https://open.spotify.com/album/0qgDGLGt3fn9H8sFRJSTlz"
+      },
+      "artists": [
+        {
+          "name": "Lone Tusker",
+          "url": "https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl"
+        },
+        {
+          "name": "Alberto Ciccarini",
+          "url": "https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS"
+        },
+        {
+          "name": "Poul",
+          "url": "https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj"
+        },
+        {
+          "name": "Josh Reflex",
+          "url": "https://open.spotify.com/artist/00VzYlg9s04mj3d8oOth4P"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "...What About Now?",
+      "url": "https://open.spotify.com/track/61fvdEDiVyH4I8cZROIOUx"
+    },
+    {
+      "album": {
         "name": "A Beautiful Day",
         "url": "https://open.spotify.com/album/0hh39BDESfC79aQgECpasi"
       },
@@ -334,7 +364,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 121470,
       "name": "Almost a Lover",
       "url": "https://open.spotify.com/track/2Kz5VfjMtgbvEOfUc0RU2F"
@@ -586,6 +616,24 @@
       "duration_ms": 157090,
       "name": "Baby I'm Yours",
       "url": "https://open.spotify.com/track/0qTbFobPCgr6ctfkTSKbG8"
+    },
+    {
+      "album": {
+        "name": "Baby It's Summer",
+        "url": "https://open.spotify.com/album/22T8gPzYB2g3EH0V8qHRQm"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lite",
+          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Baby It's Summer",
+      "url": "https://open.spotify.com/track/44X38Z5svzeNZ2lYaIAT0v"
     },
     {
       "album": {
@@ -996,7 +1044,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 139000,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/2ikLgPH52UtXukvFH8xQWv"
@@ -1335,6 +1383,24 @@
     },
     {
       "album": {
+        "name": "Close to Me",
+        "url": "https://open.spotify.com/album/0xYuIvQFTHmGH0SFawWFfp"
+      },
+      "artists": [
+        {
+          "name": "Max Oazo",
+          "url": "https://open.spotify.com/artist/5uNCgXcFgj0OyipmIk8ZUi"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211624,
+      "name": "Close to Me",
+      "url": "https://open.spotify.com/track/7MnPqlRg4XPv9cqHF76tbs"
+    },
+    {
+      "album": {
         "name": "Close To You",
         "url": "https://open.spotify.com/album/3gXHjpxAOIY7S3BczNKDeq"
       },
@@ -1490,7 +1556,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 169621,
       "name": "Control",
       "url": "https://open.spotify.com/track/2kylyEHdOEwsvWzm3PnQIQ"
@@ -1858,6 +1924,24 @@
       "duration_ms": 176705,
       "name": "Daydreams",
       "url": "https://open.spotify.com/track/5LsKH0xvpdlKdE0RUR023Q"
+    },
+    {
+      "album": {
+        "name": "Days Go By",
+        "url": "https://open.spotify.com/album/1U2nDCVDwxBfq0rZQpI3Ax"
+      },
+      "artists": [
+        {
+          "name": "Y.V.E. 48",
+          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159642,
+      "name": "Days Go By",
+      "url": "https://open.spotify.com/track/23EsgI4ZCW4ONfbFgyVjbl"
     },
     {
       "album": {
@@ -2544,7 +2628,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 130750,
       "name": "Fading Away",
       "url": "https://open.spotify.com/track/7jQ1vlGPE6FzQSNCnCsM2v"
@@ -2786,7 +2870,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 194288,
       "name": "Feels Like Paradise",
       "url": "https://open.spotify.com/track/1kUoZXVgTMT9TakkZY6DZf"
@@ -3105,6 +3189,24 @@
     },
     {
       "album": {
+        "name": "Get You The Moon",
+        "url": "https://open.spotify.com/album/1LDvI7zJlNVPUpmYh0WasO"
+      },
+      "artists": [
+        {
+          "name": "Saxena",
+          "url": "https://open.spotify.com/artist/4RmAlZapfAsWhj2k1pHsKe"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156885,
+      "name": "Get You The Moon",
+      "url": "https://open.spotify.com/track/3ciO40CQHrP5rYDhoMfOWQ"
+    },
+    {
+      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/6GLRGSuUh59G6KrsGW1QgU"
       },
@@ -3161,6 +3263,36 @@
     },
     {
       "album": {
+        "name": "Give You The Night",
+        "url": "https://open.spotify.com/album/7uzaZzOinXcbO5GwupNwep"
+      },
+      "artists": [
+        {
+          "name": "Koa",
+          "url": "https://open.spotify.com/artist/4bTth1ur0qKM60o2f5kEXU"
+        },
+        {
+          "name": "Bashment Yc",
+          "url": "https://open.spotify.com/artist/4TJKZVZaype5bnSZYy66Q4"
+        },
+        {
+          "name": "Oing",
+          "url": "https://open.spotify.com/artist/2u5jpW3Xbb26uME8g5ixiB"
+        },
+        {
+          "name": "YEWON",
+          "url": "https://open.spotify.com/artist/31LsEvoz8kkOblYwA2dfQc"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Give You The Night",
+      "url": "https://open.spotify.com/track/1Erd2ArVwvqmvQSZ1oj2zS"
+    },
+    {
+      "album": {
         "name": "Go Insane",
         "url": "https://open.spotify.com/album/2zLnQUtnEhi0u51UhJvM3g"
       },
@@ -3172,7 +3304,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 130434,
       "name": "Go Insane",
       "url": "https://open.spotify.com/track/63F5su8UafOr42Ixl49jPY"
@@ -3404,7 +3536,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 118965,
       "name": "Hearts Collide",
       "url": "https://open.spotify.com/track/3EbeZtfFbp2zAYZyJv55Kg"
@@ -3749,6 +3881,32 @@
     },
     {
       "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/3J0mqMUXUMAeOA2yKi7Ky0"
+      },
+      "artists": [
+        {
+          "name": "Vowed",
+          "url": "https://open.spotify.com/artist/75xXmkKj5zuv8qNlqP2VIY"
+        },
+        {
+          "name": "Theodor Rosenberg",
+          "url": "https://open.spotify.com/artist/1iwpozrddUbEbAXwVRYuof"
+        },
+        {
+          "name": "Nito-Onna",
+          "url": "https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193548,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/1uY36cFG5Sr7WKuWTjd6s9"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/7FddB5ZB33rW6GC88JFhNh"
       },
@@ -3967,6 +4125,24 @@
     },
     {
       "album": {
+        "name": "I Don't Need You",
+        "url": "https://open.spotify.com/album/0qC3o6ssC7IS7bEZ3fQaBn"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "I Don't Need You",
+      "url": "https://open.spotify.com/track/08hBQCNt6DRzZQs8gkJEIL"
+    },
+    {
+      "album": {
         "name": "I Don't Wanna Know",
         "url": "https://open.spotify.com/album/0uBJVRlz1fFjgiDFzRKqpK"
       },
@@ -4168,7 +4344,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 182268,
       "name": "I'll Be Alright",
       "url": "https://open.spotify.com/track/6kJPj0Z5a7XWsio8PXTbLY"
@@ -4216,6 +4392,32 @@
       "duration_ms": 163200,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/6ToE2TSyqyKTNfSgcHxyA4"
+    },
+    {
+      "album": {
+        "name": "I'll Be Waiting",
+        "url": "https://open.spotify.com/album/5mT18YiGtav50szSmwO2Nf"
+      },
+      "artists": [
+        {
+          "name": "Saxena",
+          "url": "https://open.spotify.com/artist/4RmAlZapfAsWhj2k1pHsKe"
+        },
+        {
+          "name": "live to love",
+          "url": "https://open.spotify.com/artist/4fthU4xExNwotqJYN2fq3w"
+        },
+        {
+          "name": "july",
+          "url": "https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150514,
+      "name": "I'll Be Waiting",
+      "url": "https://open.spotify.com/track/09aDzP8kamZbe1IImnjY17"
     },
     {
       "album": {
@@ -4599,6 +4801,24 @@
     },
     {
       "album": {
+        "name": "Just For A Moment",
+        "url": "https://open.spotify.com/album/2ZL28OmYk450SU38r3M6PQ"
+      },
+      "artists": [
+        {
+          "name": "SAINT.",
+          "url": "https://open.spotify.com/artist/4PJPu8KnXK18EAZheLcxwK"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146254,
+      "name": "Just For A Moment",
+      "url": "https://open.spotify.com/track/2u2crwMRf9iUvo4JR89Cax"
+    },
+    {
+      "album": {
         "name": "Just Let Go",
         "url": "https://open.spotify.com/album/4bchuimjnR9IeoeNZMAQoq"
       },
@@ -4636,7 +4856,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 163657,
       "name": "Just U & Me",
       "url": "https://open.spotify.com/track/3r60F21EtRExJH1kmKe4iR"
@@ -4927,6 +5147,32 @@
     },
     {
       "album": {
+        "name": "Leave Before You Love Me",
+        "url": "https://open.spotify.com/album/3El7v0c3SJhia17150Eqv0"
+      },
+      "artists": [
+        {
+          "name": "KORFAL",
+          "url": "https://open.spotify.com/artist/2QBONbHeIoYO3SbEBOYMpV"
+        },
+        {
+          "name": "Ernar",
+          "url": "https://open.spotify.com/artist/32KPoYZtDacGAVUE6MmhOK"
+        },
+        {
+          "name": "LoudN\u00e6ss",
+          "url": "https://open.spotify.com/artist/3oRaVv5ml3NIVotlPXVl9w"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Leave Before You Love Me",
+      "url": "https://open.spotify.com/track/6HDAs0r81Xha21sT1KnuYT"
+    },
+    {
+      "album": {
         "name": "Let Her Go",
         "url": "https://open.spotify.com/album/0KIh0cKeTkiZ0NJgOXfR2o"
       },
@@ -5064,6 +5310,32 @@
       "duration_ms": 184173,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/1prkZSe9bHalA9qVpxSVth"
+    },
+    {
+      "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/56164mz4VmmEc8M9Vo6213"
+      },
+      "artists": [
+        {
+          "name": "Lone Tusker",
+          "url": "https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl"
+        },
+        {
+          "name": "Fo\u00ednix",
+          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
+        },
+        {
+          "name": "Geoff Duncan",
+          "url": "https://open.spotify.com/artist/1oXBhBpbEfp8p2mp5ipx2N"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169870,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/3U3tIVyEKyByZTTw080md5"
     },
     {
       "album": {
@@ -5430,7 +5702,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 115188,
       "name": "Looking for You",
       "url": "https://open.spotify.com/track/4Hh6lJfX2pOVPqdfJ8GmZv"
@@ -5963,6 +6235,36 @@
     },
     {
       "album": {
+        "name": "Magical place (feat. IOVA) [Remixes]",
+        "url": "https://open.spotify.com/album/36gFYJadJDxWNwvo2zwNp7"
+      },
+      "artists": [
+        {
+          "name": "Dj Sava",
+          "url": "https://open.spotify.com/artist/0rDSGIC4lIxx1zc0eGJY42"
+        },
+        {
+          "name": "DJ Dark",
+          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
+        },
+        {
+          "name": "MD DJ",
+          "url": "https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD"
+        },
+        {
+          "name": "IOVA",
+          "url": "https://open.spotify.com/artist/6ywdLBfxLvrNw4l25x4Q0O"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Magical place (feat. IOVA) - Dj Dark & MD Dj Remix",
+      "url": "https://open.spotify.com/track/6fuJ46PG4wJyOQdDPcLSk8"
+    },
+    {
+      "album": {
         "name": "Make It Up To You",
         "url": "https://open.spotify.com/album/3mqqgH5xFQva15hTeR2i5R"
       },
@@ -6048,7 +6350,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 149032,
       "name": "Maybe In The Summer",
       "url": "https://open.spotify.com/track/7foJ5hOQ0i4oJbgtjdUa0w"
@@ -6154,6 +6456,32 @@
       "duration_ms": 140800,
       "name": "Middle Of The Night",
       "url": "https://open.spotify.com/track/2jk1D4XSvC4L4H8dtDmX5R"
+    },
+    {
+      "album": {
+        "name": "Million Miles",
+        "url": "https://open.spotify.com/album/5TRcZcBW7qadS5REkoQRPO"
+      },
+      "artists": [
+        {
+          "name": "\u00c6j",
+          "url": "https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41"
+        },
+        {
+          "name": "Ruxolf",
+          "url": "https://open.spotify.com/artist/35UJGn6qRHJ2rWqWJl9ps5"
+        },
+        {
+          "name": "Jordan Jade",
+          "url": "https://open.spotify.com/artist/3fOL1ZASYHeb9zZxP0YXNz"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "Million Miles",
+      "url": "https://open.spotify.com/track/3efWEdQrAdIFvvjzby1I22"
     },
     {
       "album": {
@@ -6327,6 +6655,32 @@
     },
     {
       "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/4Un7MXRY9M4ewryUKEyEU1"
+      },
+      "artists": [
+        {
+          "name": "Summer Dusk",
+          "url": "https://open.spotify.com/artist/21Nw1hStsfi6uDLK6WGzm3"
+        },
+        {
+          "name": "Saxena",
+          "url": "https://open.spotify.com/artist/4RmAlZapfAsWhj2k1pHsKe"
+        },
+        {
+          "name": "Josiah Nichols",
+          "url": "https://open.spotify.com/artist/0lRQLoQrjE7zLSlLoh1uk3"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/0uVdY1kG6mar4uyn63iJqK"
+    },
+    {
+      "album": {
         "name": "Murder On The Dancefloor",
         "url": "https://open.spotify.com/album/6NIGzChRDEi06XbymNn2Gb"
       },
@@ -6496,7 +6850,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 160295,
       "name": "Neverland",
       "url": "https://open.spotify.com/track/6YlVsp5W6vj81HINKAgneT"
@@ -6862,7 +7216,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 190400,
       "name": "Only Way",
       "url": "https://open.spotify.com/track/5Pz7tQgDJLGp4lvBEcu0yM"
@@ -7020,7 +7374,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 158979,
       "name": "Over You",
       "url": "https://open.spotify.com/track/5ITjUucH19eHJvfh7iUIhw"
@@ -7148,6 +7502,24 @@
       "duration_ms": 214855,
       "name": "Pleasure & Pain",
       "url": "https://open.spotify.com/track/3aQbews2UsaZk2wEbsCvrE"
+    },
+    {
+      "album": {
+        "name": "Prayer In C",
+        "url": "https://open.spotify.com/album/4tVi9WvdZzBpd8zsI0P0Qo"
+      },
+      "artists": [
+        {
+          "name": "Offmind",
+          "url": "https://open.spotify.com/artist/085SqcJuCauCoaZ9ZXGAzb"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159203,
+      "name": "Prayer In C",
+      "url": "https://open.spotify.com/track/3y9GDhOJ8GUFIa3DOqLAPZ"
     },
     {
       "album": {
@@ -7853,6 +8225,62 @@
     },
     {
       "album": {
+        "name": "Shivers",
+        "url": "https://open.spotify.com/album/6S8FSuOb7nuuCXn9GgJsSr"
+      },
+      "artists": [
+        {
+          "name": "Alberto Ciccarini",
+          "url": "https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS"
+        },
+        {
+          "name": "Poul",
+          "url": "https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj"
+        },
+        {
+          "name": "\u00c6j",
+          "url": "https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41"
+        },
+        {
+          "name": "Josh Reflex",
+          "url": "https://open.spotify.com/artist/00VzYlg9s04mj3d8oOth4P"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160861,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/5eLKW8TzpiZsJmKxARWcvo"
+    },
+    {
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/1HEeUhoxsJDWK9dOL1cakm"
+      },
+      "artists": [
+        {
+          "name": "Lone Tusker",
+          "url": "https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl"
+        },
+        {
+          "name": "Fo\u00ednix",
+          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
+        },
+        {
+          "name": "Rory Hope",
+          "url": "https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/2byCVqyzzpEdlAIDEVCZhd"
+    },
+    {
+      "album": {
         "name": "Sing To You",
         "url": "https://open.spotify.com/album/5oqiNDfc4Q2NyxojCjgWOo"
       },
@@ -8311,6 +8739,28 @@
     },
     {
       "album": {
+        "name": "Stereo Love",
+        "url": "https://open.spotify.com/album/4KpAPQ1wUucCTjDczgr8LP"
+      },
+      "artists": [
+        {
+          "name": "Altr\u00f8x",
+          "url": "https://open.spotify.com/artist/045vOffxVPFfgpn3qjn5Yo"
+        },
+        {
+          "name": "Faruk Orman",
+          "url": "https://open.spotify.com/artist/53ZTq0HA8Ay02PiMs4e4Sq"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172380,
+      "name": "Stereo Love",
+      "url": "https://open.spotify.com/track/4hO4Twdj9Ws5Im10rprrm3"
+    },
+    {
+      "album": {
         "name": "Still Standing",
         "url": "https://open.spotify.com/album/2y6Wy5MRwQL8PRUWF0afAY"
       },
@@ -8402,7 +8852,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 156426,
       "name": "Stress You",
       "url": "https://open.spotify.com/track/5NvBcltC9SGWoo9GnIrkhn"
@@ -8626,6 +9076,32 @@
       "duration_ms": 200769,
       "name": "Summer Love",
       "url": "https://open.spotify.com/track/3cuoNCWAR8qyiMpecD1oK4"
+    },
+    {
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/4Cpxne39CXzAZ3LKKclTS9"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Wittner",
+          "url": "https://open.spotify.com/artist/6DitGfT7dcBLUsY5ETeuAj"
+        },
+        {
+          "name": "Chlo\u00e9 H\u00e9tier",
+          "url": "https://open.spotify.com/artist/0H6slz0xCeit42HAFGZdwa"
+        },
+        {
+          "name": "absoludvic",
+          "url": "https://open.spotify.com/artist/3qRi9h0Zv12TQmGYERs3ZK"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112363,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/4x0qdMtNn1ntpUmbNcC6iA"
     },
     {
       "album": {
@@ -8881,6 +9357,28 @@
     },
     {
       "album": {
+        "name": "Take It Easy",
+        "url": "https://open.spotify.com/album/3CCwjRyfPPnkSbypQz0D7U"
+      },
+      "artists": [
+        {
+          "name": "just Fede",
+          "url": "https://open.spotify.com/artist/7uXJKN6U0eK8uWOdKAUNkP"
+        },
+        {
+          "name": "Johnny Chicago",
+          "url": "https://open.spotify.com/artist/3zvkVa6tS4vVWltR4CLNV4"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155721,
+      "name": "Take It Easy",
+      "url": "https://open.spotify.com/track/138WIAG4MuVT77Ynr42vt3"
+    },
+    {
+      "album": {
         "name": "Take It Slow",
         "url": "https://open.spotify.com/album/1Vu3BmfYbqRmNyOy3Eb7WF"
       },
@@ -9032,6 +9530,32 @@
       "duration_ms": 124957,
       "name": "That Could Be Us",
       "url": "https://open.spotify.com/track/5Jo1DvQ6auXLFx6QD3SC5I"
+    },
+    {
+      "album": {
+        "name": "The Boys Of Summer",
+        "url": "https://open.spotify.com/album/31XBvtJJ3fQkQUrRukoq1E"
+      },
+      "artists": [
+        {
+          "name": "Lone Tusker",
+          "url": "https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl"
+        },
+        {
+          "name": "Fo\u00ednix",
+          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
+        },
+        {
+          "name": "Geoff Duncan",
+          "url": "https://open.spotify.com/artist/1oXBhBpbEfp8p2mp5ipx2N"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "The Boys Of Summer",
+      "url": "https://open.spotify.com/track/5oeG2dP6Qda3ueQEllB7pW"
     },
     {
       "album": {
@@ -9233,6 +9757,24 @@
     },
     {
       "album": {
+        "name": "The Sun Is Up Forever",
+        "url": "https://open.spotify.com/album/4E2TcDaegufL6YTbOzHiqR"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224739,
+      "name": "The Sun Is Up Forever",
+      "url": "https://open.spotify.com/track/1Lb1S77Ooubhoy3sz509aY"
+    },
+    {
+      "album": {
         "name": "The Time Is Now",
         "url": "https://open.spotify.com/album/3eJ5ijHkTaYc4CLkRWdvWw"
       },
@@ -9413,6 +9955,24 @@
     },
     {
       "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/5UIrl1EOp7KzqxtfAiwxmZ"
+      },
+      "artists": [
+        {
+          "name": "Paratone",
+          "url": "https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161053,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/3hEPKX4FgfYPhBjSw1Nejq"
+    },
+    {
+      "album": {
         "name": "Tried To Forget You",
         "url": "https://open.spotify.com/album/0gLOn1qRKayW4wBTU9baxc"
       },
@@ -9494,6 +10054,24 @@
       "duration_ms": 194400,
       "name": "Until The End Of Time",
       "url": "https://open.spotify.com/track/0Zv5hSYT7LD7GFRO8Ip0oU"
+    },
+    {
+      "album": {
+        "name": "Up At Night",
+        "url": "https://open.spotify.com/album/6DDnONcoqkv97XDFxc59nO"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Arnold",
+          "url": "https://open.spotify.com/artist/7bSNahMBuhzMOwCAn57FB5"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174375,
+      "name": "Up At Night",
+      "url": "https://open.spotify.com/track/3HMFkGrSmhzEVNatvkfSZj"
     },
     {
       "album": {
@@ -9592,6 +10170,24 @@
       "duration_ms": 157201,
       "name": "Waiting For A Better Day",
       "url": "https://open.spotify.com/track/7FYeUV7zqjm7nFNC32g6BY"
+    },
+    {
+      "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/1qz08a4bbEiVN4P4nykzMq"
+      },
+      "artists": [
+        {
+          "name": "Saxena",
+          "url": "https://open.spotify.com/artist/4RmAlZapfAsWhj2k1pHsKe"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/4uLWlY98F6LnKZSGLy1Ohm"
     },
     {
       "album": {
@@ -9766,6 +10362,24 @@
       "duration_ms": 151000,
       "name": "Way To Go",
       "url": "https://open.spotify.com/track/5sfwEVocOCjqkikU6bc5eY"
+    },
+    {
+      "album": {
+        "name": "We Can't Be Friends",
+        "url": "https://open.spotify.com/album/3ge8qO6UbK84OmAK5Altae"
+      },
+      "artists": [
+        {
+          "name": "Lone Tusker",
+          "url": "https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146572,
+      "name": "We Can't Be Friends",
+      "url": "https://open.spotify.com/track/3ha7L5WWZdhIpnNrzduKW8"
     },
     {
       "album": {
@@ -10422,7 +11036,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 158000,
       "name": "You're Somebody Else",
       "url": "https://open.spotify.com/track/2wLIUEezoxZDKBtK3Qzmbk"

@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-949 songs - 2 day 9 hr 24 min
+950 songs - 2 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,7 @@
 | [Forever](https://open.spotify.com/track/4C6uD2tR7wwLoR1KIgk7Hb) | [Omnia](https://open.spotify.com/artist/0XZkeCAlpiO5qcIlAJzZaA) | [Forever](https://open.spotify.com/album/3v8q4sJs2qAGUqCmyjkb6M) | 2:55 | 2021-12-17 | 2022-03-12 |
 | [Forever \- Christopher Corrigan Remix](https://open.spotify.com/track/3SZTrJcyuLhAoPTwLDl0Je) | [Dj T.H.](https://open.spotify.com/artist/4ulezsrIi1ZZ4uUx1QqasZ), [FAWZY](https://open.spotify.com/artist/3aTYYBTJCGSfPEPR9JJ4mj), [Christopher Corrigan](https://open.spotify.com/artist/2JJD0m0hYRMyHElA7d3tH8), [Rebecca Louise Burch](https://open.spotify.com/artist/2xakyy51UCHjVwIvHGNpdY) | [Forever](https://open.spotify.com/album/5zp9XkQBSaz7i8A8t8j6bo) | 3:28 | 2023-05-26 | 2024-05-18 |
 | [Forever \- ReOrder Remix](https://open.spotify.com/track/3mLO9dgG0FJIThfk0mJhZV) | [The Space Brothers](https://open.spotify.com/artist/4nb1tQbYZYqvr50cdTqek5), [ReOrder](https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy) | [Forever \(ReOrder Remix\)](https://open.spotify.com/album/7iyCfXKiGypOsJ9n3QAeNB) | 3:34 | 2022-09-30 | 2023-06-10 |
-| [Forever Gold](https://open.spotify.com/track/1iEEB0kgTbrHMc18B6omHH) | [Siskin](https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi) | [We Are Siskin](https://open.spotify.com/album/4eUNxvdi6SR3cPSJXnla8P) | 3:22 | 2024-01-05 |  |
+| [Forever Gold](https://open.spotify.com/track/1iEEB0kgTbrHMc18B6omHH) | [Siskin](https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi) | [We Are Siskin](https://open.spotify.com/album/4eUNxvdi6SR3cPSJXnla8P) | 3:22 | 2024-01-05 | 2024-07-31 |
 | [Forever Gone](https://open.spotify.com/track/12ql9Gpl4AJf3F7HKyGIPE) | [Dan Stone](https://open.spotify.com/artist/5AqacAhvN8JCsr00Qk9tb7) | [Forever Gone](https://open.spotify.com/album/5gCV2YJdRRhm1CFiVIF2LG) | 3:23 | 2024-05-31 |  |
 | [Forever Young](https://open.spotify.com/track/5SNg13REo7ed6Dm0sXGgz8) | [LÜRUM](https://open.spotify.com/artist/1Vvf6trCvl5ip6tARuClxO) | [Forever Young](https://open.spotify.com/album/3nsCfqGPYeibfc4sidOnX7) | 3:15 | 2023-12-15 |  |
 | [Forgiven Not Forgotten](https://open.spotify.com/track/3WPkQDALdIsNZ1SY6bn9u2) | [Armage](https://open.spotify.com/artist/5osCJde09pUw1QmfuhX4Fb), [Tiff Lacey](https://open.spotify.com/artist/6wmyaMNIjZ26DmwgQDWKoE) | [Forgiven Not Forgotten](https://open.spotify.com/album/1AVr7oXAZMBisRjZWiM4dU) | 3:48 | 2023-02-24 | 2023-06-10 |
@@ -561,6 +561,7 @@
 | [My Silver Lining](https://open.spotify.com/track/0mcJHIEb7aTQ2HKojKUJNO) | [Kaimo K](https://open.spotify.com/artist/3pHzhNMn89uU2Sux4KW1qN), [Hanna Finsen](https://open.spotify.com/artist/5aszqubLG0rR6bsz8BAzwP) | [My Silver Lining](https://open.spotify.com/album/6Ut9OeHJzxxXB0wYHx6OZ0) | 3:51 | 2024-02-16 | 2024-07-30 |
 | [Mystery Land](https://open.spotify.com/track/6rfu5u7FoVAjwWe5FMCXU0) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR) | [Mystery Land](https://open.spotify.com/album/4QskDsUUCcNFRUjORs6ii6) | 3:44 | 2022-02-04 | 2022-08-27 |
 | [Mystery Land \- Abstract Vision Remix](https://open.spotify.com/track/0oM8WkhtcYFbO0sBIk4lQj) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Abstract Vision](https://open.spotify.com/artist/38ll04WO5aX23GmDvdneOr) | [Mystery Land \(Abstract Vision Remix\)](https://open.spotify.com/album/0HjlbIXGVYGWGNgOgVEGay) | 3:30 | 2023-02-03 | 2023-02-18 |
+| [Mystica](https://open.spotify.com/track/51pX2IgyFW8fMnUqp85cVF) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [Mystica](https://open.spotify.com/album/62G2jRCYlKWE8ytFEJyiL5) | 4:40 | 2024-07-26 |  |
 | [Namaqua](https://open.spotify.com/track/1xAGRuYdaCx6lGAuDNtfxp) | [Protoculture](https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96) | [Namaqua](https://open.spotify.com/album/2qJ52WvCqgrBjN26i9dzV3) | 3:58 | 2021-12-17 | 2023-02-25 |
 | [Nano](https://open.spotify.com/track/5gPpluoXmKY3CGaWzppHbS) | [SØNIN](https://open.spotify.com/artist/3SH652OkhCjni8ksczeEdC) | [Nano / Nightlife](https://open.spotify.com/album/6RiWNmtptWDW48eO02XRa0) | 3:10 | 2024-01-19 |  |
 | [Nebula](https://open.spotify.com/track/3PzvRstHC1ItqEZhdH4NmX) | [Aly & Fila](https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h), [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR) | [Nebula](https://open.spotify.com/album/3ZFqk2ooSITO1bMzhielGh) | 4:12 | 2024-06-21 |  |

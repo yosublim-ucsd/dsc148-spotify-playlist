@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 205628,
       "name": "Go",
       "url": "https://open.spotify.com/track/0IWdo0wOFJ8eZkWVyvO0k2"
@@ -1440,6 +1440,32 @@
       "duration_ms": 84400,
       "name": "IMOTO AYAKO",
       "url": "https://open.spotify.com/track/5Y2ku4mwqkyaqMjRS50z8l"
+    },
+    {
+      "album": {
+        "name": "Liberation",
+        "url": "https://open.spotify.com/album/3zUB4c3GjjuXIJ7cZUKEyH"
+      },
+      "artists": [
+        {
+          "name": "JUBEE",
+          "url": "https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba"
+        },
+        {
+          "name": "OMSB",
+          "url": "https://open.spotify.com/artist/69qFe6XoI53jVctgtSug7d"
+        },
+        {
+          "name": "Submerse",
+          "url": "https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232960,
+      "name": "Impala feat. OMSB",
+      "url": "https://open.spotify.com/track/29UHVjCvpHSwG1U1Xo1Qfw"
     },
     {
       "album": {
@@ -2620,7 +2646,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 130285,
       "name": "Red Bull 64 Bars",
       "url": "https://open.spotify.com/track/18nTSkuJ1QqmGWje7Vg0kN"
@@ -3656,6 +3682,32 @@
       "duration_ms": 148418,
       "name": "YW",
       "url": "https://open.spotify.com/track/2TaoYfJcOMXsiDZPI9FPwA"
+    },
+    {
+      "album": {
+        "name": "\u304a\u3060\u3061",
+        "url": "https://open.spotify.com/album/4tM4mq5sPPOy4k0bxRLvZE"
+      },
+      "artists": [
+        {
+          "name": "XENO",
+          "url": "https://open.spotify.com/artist/7BTcTywq9yvwNUWzNOLasA"
+        },
+        {
+          "name": "S4K.clear",
+          "url": "https://open.spotify.com/artist/1e4sGAGa0MBi9b3UEbAPqs"
+        },
+        {
+          "name": "henrik",
+          "url": "https://open.spotify.com/artist/6mDdDpQhGGcH26KydElubc"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259340,
+      "name": "\u304a\u3060\u3061",
+      "url": "https://open.spotify.com/track/1u9MYtPBt81ZFcKApyxteF"
     },
     {
       "album": {

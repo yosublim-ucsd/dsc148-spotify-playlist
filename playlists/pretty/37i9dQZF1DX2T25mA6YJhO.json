@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Barry B, Carolina Durante.",
-  "num_followers": 19409,
+  "num_followers": 19420,
   "original_name": "Rock 2024",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Y no lo ves",
-        "url": "https://open.spotify.com/album/59pD3E1YOQ2vTDxHAL2v8z"
-      },
-      "artists": [
-        {
-          "name": "Embusteros",
-          "url": "https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE"
-        }
-      ],
-      "duration_ms": 171740,
-      "name": "Y no lo ves",
-      "url": "https://open.spotify.com/track/5ds91qYmtz0fSPwQgUBIJi"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
         "name": "Al Amanecer",
         "url": "https://open.spotify.com/album/0tvM7MTPrI9bASHbYn89Xy"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 191617,
       "name": "Al Amanecer",
       "url": "https://open.spotify.com/track/5FMnqUbLGqWi0Y12MCVYSN"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Y no lo ves",
+        "url": "https://open.spotify.com/album/59pD3E1YOQ2vTDxHAL2v8z"
+      },
+      "artists": [
+        {
+          "name": "Embusteros",
+          "url": "https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE"
+        }
+      ],
+      "duration_ms": 171740,
+      "name": "Y no lo ves",
+      "url": "https://open.spotify.com/track/5ds91qYmtz0fSPwQgUBIJi"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -731,8 +731,8 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Entre todas lo arreglamos",
-        "url": "https://open.spotify.com/album/1GrpjkyXqYNV5dZuO2iiSx"
+        "name": "El d\u00eda no me da",
+        "url": "https://open.spotify.com/album/2iCobXpDOaBzIXIb7agybP"
       },
       "artists": [
         {
@@ -740,25 +740,9 @@
           "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
         }
       ],
-      "duration_ms": 167088,
-      "name": "Viernes",
-      "url": "https://open.spotify.com/track/5VXpWsJuT0MOw0Tb6iNu6O"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "The Last of Us",
-        "url": "https://open.spotify.com/album/3m706HSNKqmnycUdWYt7Zw"
-      },
-      "artists": [
-        {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
-        }
-      ],
-      "duration_ms": 270137,
-      "name": "The Last of Us",
-      "url": "https://open.spotify.com/track/2WxZ92Q1q5NPbdJbJx7k8q"
+      "duration_ms": 227448,
+      "name": "El d\u00eda no me da",
+      "url": "https://open.spotify.com/track/0qzQEe6xg8dkoco1DHinMq"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -779,6 +763,22 @@
       "duration_ms": 181638,
       "name": "Martes 13",
       "url": "https://open.spotify.com/track/0KVfyqqSuwWeX5aWe954m9"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "The Last of Us",
+        "url": "https://open.spotify.com/album/3m706HSNKqmnycUdWYt7Zw"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "duration_ms": 270137,
+      "name": "The Last of Us",
+      "url": "https://open.spotify.com/track/2WxZ92Q1q5NPbdJbJx7k8q"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -871,8 +871,8 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "El d\u00eda no me da",
-        "url": "https://open.spotify.com/album/2iCobXpDOaBzIXIb7agybP"
+        "name": "Entre todas lo arreglamos",
+        "url": "https://open.spotify.com/album/1GrpjkyXqYNV5dZuO2iiSx"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
         }
       ],
-      "duration_ms": 227448,
-      "name": "El d\u00eda no me da",
-      "url": "https://open.spotify.com/track/0qzQEe6xg8dkoco1DHinMq"
+      "duration_ms": 167088,
+      "name": "Viernes",
+      "url": "https://open.spotify.com/track/5VXpWsJuT0MOw0Tb6iNu6O"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Tu nombre es una puerta por cerrar",
-        "url": "https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH"
-      },
-      "artists": [
-        {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
-        }
-      ],
-      "duration_ms": 244164,
-      "name": "Tu nombre es una puerta por cerrar",
-      "url": "https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
         "name": "Azul Oscuro Casi Negro",
         "url": "https://open.spotify.com/album/6wRuSSafJuAgVM61XEStGj"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 160301,
       "name": "Azul Oscuro Casi Negro",
       "url": "https://open.spotify.com/track/5WkLIlcbax45uOOoNqFacQ"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Tu nombre es una puerta por cerrar",
+        "url": "https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "duration_ms": 244164,
+      "name": "Tu nombre es una puerta por cerrar",
+      "url": "https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
+        "name": "Pu\u00f1ales",
+        "url": "https://open.spotify.com/album/5rQunDenYk2OKE9Fuzxa0O"
+      },
+      "artists": [
+        {
+          "name": "La Culpa",
+          "url": "https://open.spotify.com/artist/677roxlr69mbWMLY6MMGnx"
+        }
+      ],
+      "duration_ms": 104443,
+      "name": "Pu\u00f1ales",
+      "url": "https://open.spotify.com/track/7fYvRL7RWPduTzrEcOgKlS"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
         "name": "Angel Genetics",
         "url": "https://open.spotify.com/album/2RlMCybg9FBNhmXYotqmyM"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 193045,
       "name": "Me jode",
       "url": "https://open.spotify.com/track/2Cn6flTGpTY7vdYdYkJMkR"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "Pu\u00f1ales",
-        "url": "https://open.spotify.com/album/5rQunDenYk2OKE9Fuzxa0O"
-      },
-      "artists": [
-        {
-          "name": "La Culpa",
-          "url": "https://open.spotify.com/artist/677roxlr69mbWMLY6MMGnx"
-        }
-      ],
-      "duration_ms": 104443,
-      "name": "Pu\u00f1ales",
-      "url": "https://open.spotify.com/track/7fYvRL7RWPduTzrEcOgKlS"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
+        "name": "Arder en Fuego",
+        "url": "https://open.spotify.com/album/79Q52YHjjoTEgzpiOrA2ZB"
+      },
+      "artists": [
+        {
+          "name": "Ojos Pardos",
+          "url": "https://open.spotify.com/artist/60KgmRLqSZArlIE22XoBgb"
+        }
+      ],
+      "duration_ms": 230250,
+      "name": "Arder en Fuego",
+      "url": "https://open.spotify.com/track/3JHcfsP9SZP77qZ7ueGbuk"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
         "name": "Al Amanecer",
         "url": "https://open.spotify.com/album/4JfvYkC4ih4egFoHmMr7ZG"
       },
@@ -1167,22 +1183,6 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "T\u00fa y Yo y Todos Los Dem\u00e1s",
-        "url": "https://open.spotify.com/album/6JzNwePjl9hkA2qOMfjKAe"
-      },
-      "artists": [
-        {
-          "name": "Joder Juan",
-          "url": "https://open.spotify.com/artist/6aBkrLdqbTaGgefSznMub9"
-        }
-      ],
-      "duration_ms": 119767,
-      "name": "T\u00fa y Yo y Todos Los Dem\u00e1s",
-      "url": "https://open.spotify.com/track/7t9c6SRwCC0ezuAsz9PDNQ"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
         "name": "La Excusa Perfecta",
         "url": "https://open.spotify.com/album/51pAvbdBsnJGDBxrNN3Ax5"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 156510,
       "name": "Vino el Amor",
       "url": "https://open.spotify.com/track/7LWvckYxoIoPb1QW6OnrEb"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "T\u00fa y Yo y Todos Los Dem\u00e1s",
+        "url": "https://open.spotify.com/album/6JzNwePjl9hkA2qOMfjKAe"
+      },
+      "artists": [
+        {
+          "name": "Joder Juan",
+          "url": "https://open.spotify.com/artist/6aBkrLdqbTaGgefSznMub9"
+        }
+      ],
+      "duration_ms": 119767,
+      "name": "T\u00fa y Yo y Todos Los Dem\u00e1s",
+      "url": "https://open.spotify.com/track/7t9c6SRwCC0ezuAsz9PDNQ"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1263,18 +1279,18 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3"
+        "name": "Todo Ir\u00e1 Bien",
+        "url": "https://open.spotify.com/album/63trf8Z60h09bjYiYOMesB"
       },
       "artists": [
         {
-          "name": "Amor L\u00edquido",
-          "url": "https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc"
+          "name": "Victorias",
+          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
         }
       ],
-      "duration_ms": 137344,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8"
+      "duration_ms": 198851,
+      "name": "Todo Ir\u00e1 Bien",
+      "url": "https://open.spotify.com/track/2spHoHAGAQlOI3twB5QRVl"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1295,18 +1311,18 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Todo Ir\u00e1 Bien",
-        "url": "https://open.spotify.com/album/63trf8Z60h09bjYiYOMesB"
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3"
       },
       "artists": [
         {
-          "name": "Victorias",
-          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
+          "name": "Amor L\u00edquido",
+          "url": "https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc"
         }
       ],
-      "duration_ms": 198851,
-      "name": "Todo Ir\u00e1 Bien",
-      "url": "https://open.spotify.com/track/2spHoHAGAQlOI3twB5QRVl"
+      "duration_ms": 137344,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Madrid Nos Pertenece",
-        "url": "https://open.spotify.com/album/0kc3AM6xjhP4sgo0dzIFK6"
-      },
-      "artists": [
-        {
-          "name": "Biznaga",
-          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
-        }
-      ],
-      "duration_ms": 221532,
-      "name": "Madrid Nos Pertenece",
-      "url": "https://open.spotify.com/track/0wxl1J7P9LqVDsNJKjFMvv"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
         "name": "Darveider",
         "url": "https://open.spotify.com/album/3DujoKOCP2JsIRslD8QnfT"
       },
@@ -1355,6 +1355,22 @@
       "duration_ms": 156375,
       "name": "Darveider",
       "url": "https://open.spotify.com/track/2KaOOQ2130RPjcnz8A1DuR"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Madrid Nos Pertenece",
+        "url": "https://open.spotify.com/album/0kc3AM6xjhP4sgo0dzIFK6"
+      },
+      "artists": [
+        {
+          "name": "Biznaga",
+          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
+        }
+      ],
+      "duration_ms": 221532,
+      "name": "Madrid Nos Pertenece",
+      "url": "https://open.spotify.com/track/0wxl1J7P9LqVDsNJKjFMvv"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "La Carretera Nocturna",
-        "url": "https://open.spotify.com/album/0y63H2mHzKyQJnTR8sGkD9"
-      },
-      "artists": [
-        {
-          "name": "Tri\u00e1ngulo de Amor Bizarro",
-          "url": "https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "La Carretera Nocturna",
-      "url": "https://open.spotify.com/track/1PJpxElpWQucgRdV8voVRA"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
         "name": "Rosquilla de canela",
         "url": "https://open.spotify.com/album/5j3euieoInLiYr65q5nEgh"
       },
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "p0pper",
-        "url": "https://open.spotify.com/album/2WQgZmFIxitM7eGZ9HECWl"
+        "name": "La Carretera Nocturna",
+        "url": "https://open.spotify.com/album/0y63H2mHzKyQJnTR8sGkD9"
       },
       "artists": [
         {
-          "name": "Ru\u00efnosa y las Strippers de Rahola",
-          "url": "https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT"
+          "name": "Tri\u00e1ngulo de Amor Bizarro",
+          "url": "https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e"
         }
       ],
-      "duration_ms": 213308,
-      "name": "p0pper",
-      "url": "https://open.spotify.com/track/06BKn2S0alWLPcLHH0pkOe"
+      "duration_ms": 204173,
+      "name": "La Carretera Nocturna",
+      "url": "https://open.spotify.com/track/1PJpxElpWQucgRdV8voVRA"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1435,6 +1435,22 @@
       "duration_ms": 199266,
       "name": "Pronto",
       "url": "https://open.spotify.com/track/036ALWFM6JnbGJ7buxZ2xE"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "p0pper",
+        "url": "https://open.spotify.com/album/2WQgZmFIxitM7eGZ9HECWl"
+      },
+      "artists": [
+        {
+          "name": "Ru\u00efnosa y las Strippers de Rahola",
+          "url": "https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT"
+        }
+      ],
+      "duration_ms": 213308,
+      "name": "p0pper",
+      "url": "https://open.spotify.com/track/06BKn2S0alWLPcLHH0pkOe"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1587,6 +1603,22 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
+        "name": "Si Piensas En M\u00ed",
+        "url": "https://open.spotify.com/album/0UlukI2zr6iWqA76bjhrcQ"
+      },
+      "artists": [
+        {
+          "name": "Mujeres",
+          "url": "https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO"
+        }
+      ],
+      "duration_ms": 244146,
+      "name": "Si Piensas en M\u00ed",
+      "url": "https://open.spotify.com/track/1LGZYAqFUZli9lE8ZkAGvp"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
         "name": "Como Ladrones Sorprendidos",
         "url": "https://open.spotify.com/album/515qU2fMggG3p2WD50Axhs"
       },
@@ -1619,34 +1651,18 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Si Piensas En M\u00ed",
-        "url": "https://open.spotify.com/album/0UlukI2zr6iWqA76bjhrcQ"
+        "name": "La Persiana",
+        "url": "https://open.spotify.com/album/6I0BwhwKpTxhMLIZFf8ejU"
       },
       "artists": [
         {
-          "name": "Mujeres",
-          "url": "https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO"
+          "name": "Apartamentos Acapulco",
+          "url": "https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT"
         }
       ],
-      "duration_ms": 244146,
-      "name": "Si Piensas en M\u00ed",
-      "url": "https://open.spotify.com/track/1LGZYAqFUZli9lE8ZkAGvp"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "agosto",
-        "url": "https://open.spotify.com/album/0eIk5M7jExLB3SLpmgitMz"
-      },
-      "artists": [
-        {
-          "name": "garb\u00ed",
-          "url": "https://open.spotify.com/artist/0VqZ86s4Z8DHDNHFwYf0oM"
-        }
-      ],
-      "duration_ms": 208862,
-      "name": "agosto",
-      "url": "https://open.spotify.com/track/2rMCjGUXkg9eyweQPcwvRX"
+      "duration_ms": 126504,
+      "name": "La Persiana",
+      "url": "https://open.spotify.com/track/5aOMpTOHYx1omSlIATG1XO"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1663,22 +1679,6 @@
       "duration_ms": 114276,
       "name": "Formigal",
       "url": "https://open.spotify.com/track/24HJLq3JqAZYEgNINk7kiJ"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "La Persiana",
-        "url": "https://open.spotify.com/album/6I0BwhwKpTxhMLIZFf8ejU"
-      },
-      "artists": [
-        {
-          "name": "Apartamentos Acapulco",
-          "url": "https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT"
-        }
-      ],
-      "duration_ms": 126504,
-      "name": "La Persiana",
-      "url": "https://open.spotify.com/track/5aOMpTOHYx1omSlIATG1XO"
     }
   ],
   "unique_name": "Rock 2024",

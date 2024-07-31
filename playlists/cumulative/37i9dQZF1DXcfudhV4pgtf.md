@@ -4,10 +4,11 @@
 
 > <a href="spotify:artist:7icoOm5fKKPo49jVxoj1Cq">Anfisa Letyago</a>'s favorite tracks\. Updated regularly\. Curated by Anfisa Letyago\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-100 songs - 8 hr 49 min
+101 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1998 \- Anfisa Letyago Remix](https://open.spotify.com/track/0J0FhbUPbiddqk4xbrIDrh) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [1998 \(Anfisa Letyago Remix\)](https://open.spotify.com/album/4eO1VRh3jrgJRDzNs3RE25) | 4:04 | 2024-07-30 |  |
 | [21F](https://open.spotify.com/track/3IeWSMvwQcKXAPfQDGIf0R) | [Anna Kost](https://open.spotify.com/artist/3I5IACZdrxcIUHqQnpiItF) | [See Life Better](https://open.spotify.com/album/6ozKTLgYIWU4sgHtWIqXNr) | 5:08 | 2023-02-21 | 2024-01-31 |
 | [About U \- ParteNope Remix](https://open.spotify.com/track/4fq0h6ddMZzeUa0Z0CAeEf) | [Gaston Fiore](https://open.spotify.com/artist/3uqt6nGempzAwX3uap01qn), [ParteNope](https://open.spotify.com/artist/7ctU2FxtLcJgkZXfaJf713) | [About U](https://open.spotify.com/album/2GPnt3gxonQcRROzrOAjQ0) | 5:24 | 2024-01-30 |  |
 | [Adjib](https://open.spotify.com/track/0ZGX5sgE9SWzBTP3w4zlg8) | [Sina XX](https://open.spotify.com/artist/60perU8GxsiR4Rup8KT9XU) | [Adjib](https://open.spotify.com/album/7udC668Xn66dB6AbP8jxeB) | 6:12 | 2024-01-30 |  |
@@ -44,7 +45,7 @@
 | [Hands OFF You](https://open.spotify.com/track/2yOo3pzy3J25mLHezNIBJz) | [Adiel](https://open.spotify.com/artist/1yetl1fEx0mE16k164jXvw) | [Everything in Between EP](https://open.spotify.com/album/2GfZCrYlD1p86pdsaeYyoG) | 5:44 | 2023-02-21 | 2024-01-31 |
 | [Haze \- David Löhlein Remix](https://open.spotify.com/track/0V4rAiBx2u4539lEqRCEBQ) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq), [David Löhlein](https://open.spotify.com/artist/2RibmjRGf8SiwxdCQZ9N1C) | [Haze Remixes](https://open.spotify.com/album/7g1Rj26ma74ZKBPmnAA09M) | 5:02 | 2023-02-21 | 2024-01-31 |
 | [Haze \- FILM Remix](https://open.spotify.com/track/74aCBEoZBRNwK4wdS5Ep6g) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq), [FILM](https://open.spotify.com/artist/7zaagdALQjtxmHTIRa3H2T) | [Haze Remixes](https://open.spotify.com/album/7g1Rj26ma74ZKBPmnAA09M) | 5:41 | 2023-02-21 | 2024-01-31 |
-| [Haze \- Original Mix](https://open.spotify.com/track/5BzsY9SIZapFmhjQgb1W3F) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Haze](https://open.spotify.com/album/6s6pgnKGwTGC8wqTfvB2ZW) | 3:49 | 2024-01-30 |  |
+| [Haze \- Original Mix](https://open.spotify.com/track/5BzsY9SIZapFmhjQgb1W3F) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Haze](https://open.spotify.com/album/6s6pgnKGwTGC8wqTfvB2ZW) | 3:49 | 2024-01-30 | 2024-07-31 |
 | [Hazel Theme](https://open.spotify.com/track/05VyoqeeD8imc5w5UgJmUD) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 1:51 | 2023-02-21 | 2024-01-31 |
 | [Heavy](https://open.spotify.com/track/0eUEWjOUCU6rX7Peq2R7rR) | [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [Hotflush On The Floor 6](https://open.spotify.com/album/37fVtsLXAMARnfVQGtigh0) | 6:22 | 2024-01-30 |  |
 | [Heavy](https://open.spotify.com/track/7sPerpuqSL5EfHNQ7QuQPd) | [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [Heavy](https://open.spotify.com/album/5wBnyoQ8ADse95YJtdxiox) | 6:22 | 2023-02-21 | 2024-01-31 |

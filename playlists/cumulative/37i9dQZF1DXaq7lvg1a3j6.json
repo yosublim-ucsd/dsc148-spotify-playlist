@@ -1969,6 +1969,32 @@
     },
     {
       "album": {
+        "name": "Punjabi Munde (From \"Ghudchadi\")",
+        "url": "https://open.spotify.com/album/0Zj6qRgAjhcK7MTTw7UAf1"
+      },
+      "artists": [
+        {
+          "name": "Sukhbir",
+          "url": "https://open.spotify.com/artist/7bcSOvqOKoyZqU41p5YuoJ"
+        },
+        {
+          "name": "Lijo George",
+          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
+        },
+        {
+          "name": "Tulsi Kumar",
+          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197111,
+      "name": "Punjabi Munde (From \"Ghudchadi\")",
+      "url": "https://open.spotify.com/track/7r8x7Uc5PtyMs0ZOviCWxM"
+    },
+    {
+      "album": {
         "name": "Hasee Toh Phasee (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3PxXJhlxSQkj8JO7IXy0FE"
       },
@@ -2154,7 +2180,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 244920,
       "name": "Rum Whisky (From \"Vicky Donor\")",
       "url": "https://open.spotify.com/track/2IbvIRyVjgKOOTn3DJuOk9"

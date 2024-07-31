@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx?si=CtHImU\_HR3aNPd5uZmAMUQ>Lebo Sekgobela</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,300 likes - 100 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,454 likes - 100 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

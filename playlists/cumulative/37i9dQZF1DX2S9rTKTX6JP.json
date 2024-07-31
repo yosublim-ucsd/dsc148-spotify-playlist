@@ -663,6 +663,28 @@
     },
     {
       "album": {
+        "name": "Black Haired Girl",
+        "url": "https://open.spotify.com/album/7qbPwATVYs5drh2TcURDt7"
+      },
+      "artists": [
+        {
+          "name": "Jesse Malin",
+          "url": "https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls"
+        },
+        {
+          "name": "Billie Joe Armstrong",
+          "url": "https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177160,
+      "name": "Black Haired Girl",
+      "url": "https://open.spotify.com/track/2TwPYiJmam0lmuscobFGML"
+    },
+    {
+      "album": {
         "name": "Black Hole Sun",
         "url": "https://open.spotify.com/album/1fh2yEipcfET3dKdHQ7owj"
       },
@@ -2158,7 +2180,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 194426,
       "name": "Growin' Up - acoustic at home",
       "url": "https://open.spotify.com/track/65KqSqOTL5DbFYU5d2kcaT"

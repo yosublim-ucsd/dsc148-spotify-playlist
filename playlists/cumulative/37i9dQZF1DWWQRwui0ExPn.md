@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,889 songs - 10 day 21 hr 9 min
+6,890 songs - 10 day 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2154,7 +2154,7 @@
 | [Follow the Light](https://open.spotify.com/track/5DYrui8LydVL0AzSkrUvgG) | [TABAL](https://open.spotify.com/artist/3xGCm4ewXGKJFwrrwummsJ), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Follow the Light](https://open.spotify.com/album/2cktuAkyfSxvzoQZZvpxJl) | 2:22 | 2020-04-08 | 2021-09-04 |
 | [Fonder](https://open.spotify.com/track/6BQ2J4QxrlBvdDeIY5gArD) | [braj mahal](https://open.spotify.com/artist/2uHJReWme1oJ0jaXD1fiHT) | [Fonder](https://open.spotify.com/album/3kCh0tbS4bsQLhWXFCRXaJ) | 1:35 | 2021-01-05 | 2021-04-03 |
 | [Foolish Love](https://open.spotify.com/track/3Kc8zB1zRloroYVMJuaEmR) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Foolish Love](https://open.spotify.com/album/1ldDRMfBc4JYD1DQBH8LCT) | 1:51 | 2021-07-29 | 2022-03-12 |
-| [Footprints](https://open.spotify.com/track/2iUUEVttCsDlHdipmllDo9) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [Footprints](https://open.spotify.com/album/2PwyKPD6KReAULVZpGCZ3y) | 1:45 | 2023-12-08 |  |
+| [Footprints](https://open.spotify.com/track/2iUUEVttCsDlHdipmllDo9) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [Footprints](https://open.spotify.com/album/2PwyKPD6KReAULVZpGCZ3y) | 1:45 | 2023-12-08 | 2024-07-31 |
 | [for hire](https://open.spotify.com/track/6IoHBjBeOLB88llhgOX6Za) | [Pellets Brew](https://open.spotify.com/artist/0Hxef8gwqqPVy0rbAvpEAz) | [for hire](https://open.spotify.com/album/1tLwiMmTBCC3l20I7hXOvq) | 2:02 | 2021-10-20 | 2022-04-15 |
 | [For moments I feel faint](https://open.spotify.com/track/3sIswN4uYoDFjAP2eTDdQo) | [Long Lex](https://open.spotify.com/artist/015Z0270CgmlU2g9mxfO3T) | [For moments I feel faint](https://open.spotify.com/album/0xZVV0yJrTVjUumCMMZyL0) | 2:05 | 2023-02-07 | 2023-04-28 |
 | [For My Lady](https://open.spotify.com/track/6xGgMpySXg8CfzxapgyBXF) | [Linkrust](https://open.spotify.com/artist/3W6MD03BtPEx7yJnj9jT2z) | [For My Lady](https://open.spotify.com/album/39WIrERkwZ0s3P3XG669Zb) | 2:42 | 2022-05-27 | 2022-08-27 |
@@ -2836,6 +2836,7 @@
 | [In Bloom](https://open.spotify.com/track/4kCn7I2m2h2ulihOsXS8wa) | [Geórgia Neve](https://open.spotify.com/artist/7oR5FuTIzTDDGzh8c4bEsT) | [In Bloom](https://open.spotify.com/album/1QincOaGyk3MFDdQVsReE3) | 2:36 | 2022-04-23 | 2022-10-14 |
 | [In Bloom](https://open.spotify.com/track/3ALL3Dw44pw5Sy0rAeNo4F) | [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR) | [In Bloom](https://open.spotify.com/album/6mOhFQ5RbKZDbLqSDPWqMb) | 2:17 | 2021-10-20 | 2022-04-24 |
 | [In Cities in Tongues \- Study Mix](https://open.spotify.com/track/2FGSLRE2jkXihI4L8QO6j2) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe), [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [In Cities in Tongues \(Study Mix\)](https://open.spotify.com/album/6a1FfpoDc3bk6lmanavufE) | 2:39 | 2021-06-18 | 2022-01-14 |
+| [In Comparison With](https://open.spotify.com/track/2kRqoND9nTZ6ShVTWPQ3Y6) | [State Artefact](https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q) | [In Comparison With](https://open.spotify.com/album/3vvMXi4IWwUbgQi7S2oxJP) | 3:22 | 2024-07-26 |  |
 | [In Depth](https://open.spotify.com/track/7qu4Xo5Tq9BNgLKWx3PxtD) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [In Depth](https://open.spotify.com/album/3UxDfnhMQ0mkwaKJlLEpV2) | 2:33 | 2021-10-20 | 2022-04-24 |
 | [In Front of the Opera](https://open.spotify.com/track/59XW3pUnVC56SFLiEFLvss) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [In Front of the Opera](https://open.spotify.com/album/3qFGJiyAtNF5Zfy5lTyQTD) | 2:06 | 2021-06-08 | 2022-01-14 |
 | [In Her Mind](https://open.spotify.com/track/0TvJASLNEqBuPOpzsVNNMA) | [Lou Filou](https://open.spotify.com/artist/6CUArmqtKpviCeaJS2QUzH), [vlows](https://open.spotify.com/artist/1I8vSPgZriud0yvXK55JHt) | [In Her Mind](https://open.spotify.com/album/0fgANIRVPHa8zDIGOCBXXK) | 1:42 | 2022-04-15 | 2022-09-09 |

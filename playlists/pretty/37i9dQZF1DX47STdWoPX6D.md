@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > New songs from CHH's up and coming artists!  Cover: <a href="spotify:artist:2Vt6gyhUH7Vj2cybfQWOqM">Parris Chariz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,521 likes - 55 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,534 likes - 55 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

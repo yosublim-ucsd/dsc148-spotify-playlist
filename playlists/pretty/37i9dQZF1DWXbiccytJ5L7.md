@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 
 > Country rap hits of today and tomorrow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,649 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,727 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 10 | [SHOOT THE LOCK](https://open.spotify.com/track/3EXdrPdRuTmJFcPYvNR1PT) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [SHOOT THE LOCK](https://open.spotify.com/album/3orD58TRYdUHChxr39TkcP) | 2:41 |
 | 11 | [Hold Our Own](https://open.spotify.com/track/1AEylK0tRkpw4dKE1pyhyd) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr) | [Target Practice](https://open.spotify.com/album/4UXqLULHYCflnysccRMF5L) | 2:32 |
 | 12 | [Take It To The Country](https://open.spotify.com/track/1qcjsNLdP7D9RLx41TBOD4) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [Johnny Day](https://open.spotify.com/artist/6ghe1ekLf6O0HUaKGBsNcA) | [Take It To The Country](https://open.spotify.com/album/2HTMQHiALfWzN183lrWwaZ) | 2:25 |
-| 13 | [King of Ca$hville](https://open.spotify.com/track/14iJQEf3h8CU0n0vstNEj1) | [Kountry Boi](https://open.spotify.com/artist/4sPLPkzmZHiEvpkIKSjUOT), [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq), [Colt Graves](https://open.spotify.com/artist/26YgSVVJxvx1LQsollyBjQ) | [King of Ca$hville](https://open.spotify.com/album/287Yi7kvHlUjp6a1glkXTZ) | 3:07 |
+| 13 | [King of Ca$hville](https://open.spotify.com/track/14iJQEf3h8CU0n0vstNEj1) | [Kountry Boi](https://open.spotify.com/artist/4sPLPkzmZHiEvpkIKSjUOT), [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq), [Colt Graves](https://open.spotify.com/artist/26YgSVVJxvx1LQsollyBjQ), [Audio Chateau](https://open.spotify.com/artist/4rtX2hxqvqi1IMDmA8dVDD) | [King of Ca$hville](https://open.spotify.com/album/287Yi7kvHlUjp6a1glkXTZ) | 3:07 |
 | 14 | [Southern Land](https://open.spotify.com/track/2bX3Cb6QE8OetYBwJKnd0o) | [Taylor Ray Holbrook](https://open.spotify.com/artist/58nB2Z6IiDdTUTwHYw56xI), [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn) | [Southern Land](https://open.spotify.com/album/06O3dxp8QBUjimf94haj4q) | 3:42 |
 | 15 | [Hunnids In A Honky Tonk \(feat\. Paul Wall\)](https://open.spotify.com/track/0mGVfytxzgPXgGJf7RknpU) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg) | [Hunnids In A Honky Tonk \(feat\. Paul Wall\)](https://open.spotify.com/album/3BW2kxCEMimQumskwX0Q9b) | 3:17 |
 | 16 | [Diesel Gang](https://open.spotify.com/track/4PAOoxMolPJnNqkUDmGI4r) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Diesel Gang](https://open.spotify.com/album/5nF2qDdVwzg2rAfxVygEtb) | 2:18 |

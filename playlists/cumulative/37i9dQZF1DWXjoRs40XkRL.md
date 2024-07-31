@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-290 songs - 1 day 0 hr 39 min
+291 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Ae Ri](https://open.spotify.com/track/1LjyG0SBQCuRegAwznLZL1) | [prithviraj singh sisodiya](https://open.spotify.com/artist/1hFBrEVmvnO6xMKgP9z5zd) | [Ae Ri](https://open.spotify.com/album/2z3shDcoGDm7cVqgPe7JRG) | 2:33 | 2024-04-19 | 2024-06-05 |
 | [Ae Ri Sakhi](https://open.spotify.com/track/5p54INLXgza6Do7nTsFPpG) | [kSaya](https://open.spotify.com/artist/4N8z2CTrbGkT50OoGj3Z2P), [Pooja Gaitonde](https://open.spotify.com/artist/7h7RCEJXdzbsEulBquEQJW), [Prasad Gaitonde](https://open.spotify.com/artist/6OKKST2lo5Q4zOpmOLS7ja) | [Ae Ri Sakhi](https://open.spotify.com/album/4AZg2InQrYXVO1LZOK7zuH) | 4:14 | 2022-05-17 | 2023-05-24 |
 | [Aeri Sakhi](https://open.spotify.com/track/5pIoYxBjHCaO0M0gl1KOmP) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK) | [Carmonies \- Thumri](https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs) | 3:39 | 2023-08-01 | 2023-09-26 |
-| [Aeri Sakhi \(An Eternal Poem of Love\)](https://open.spotify.com/track/5a40BRFDUlmbv5P9F6IIXs) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4) | [Aeri Sakhi \(An Eternal Poem of Love\)](https://open.spotify.com/album/4r8Xz5RxDO7MV0oG50tSdQ) | 3:08 | 2022-05-17 |  |
+| [Aeri Sakhi \(An Eternal Poem of Love\)](https://open.spotify.com/track/5a40BRFDUlmbv5P9F6IIXs) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4) | [Aeri Sakhi \(An Eternal Poem of Love\)](https://open.spotify.com/album/4r8Xz5RxDO7MV0oG50tSdQ) | 3:08 | 2022-05-17 | 2024-07-31 |
 | [Aerii Sakhi Morae \- Qawwaali Remake](https://open.spotify.com/track/6yDxb6X3NJbvDIRRlAypQZ) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [The Story Now](https://open.spotify.com/album/2g3LlbaNuDG4erK9gJSKTm) | 5:03 | 2022-05-17 | 2023-07-29 |
 | [Aja Sawariya \- Remix](https://open.spotify.com/track/2c8olBjlarZbL6nUKn0vGM) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Gurbax](https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [The Spindoctor](https://open.spotify.com/artist/2bUONMhpskrzUmRkpZUVu3) | [Aja Sawariya \(Remix\)](https://open.spotify.com/album/0EfCp9ysBs6OCmckczM2lf) | 2:56 | 2023-08-30 | 2024-06-04 |
 | [Akeli Dar Lage](https://open.spotify.com/track/0Fkz1sfYAK6z8Yut4EVD4D) | [Abhijit Pohankar](https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY), [Ramakant Gaikwad](https://open.spotify.com/artist/4qfbDj4ydFDTxGFklq4Ajj), [Samarth Desai](https://open.spotify.com/artist/0GjFXeu7FwaS5KVldRtKw4), [Amit Mishra](https://open.spotify.com/artist/1Cr4oTUz9yoA9FORBlX396) | [Akeli Dar Lage](https://open.spotify.com/album/7gc7BvRVhaXC2r4vtLQLy5) | 4:04 | 2023-10-06 |  |
@@ -50,6 +50,7 @@
 | [Barsan Lagi](https://open.spotify.com/track/2bAQFyRpTjpCaTPp7G7F55) | [Leena Bose](https://open.spotify.com/artist/0b0W2yD1KHcihQiJSltxY0), [Raahi](https://open.spotify.com/artist/7ohyp9mPElIYE1N1atYCr2) | [Barsan Lagi](https://open.spotify.com/album/22UIMIvTAKwgEdCi3axHu0) | 2:52 | 2023-09-05 | 2023-09-15 |
 | [Barse Badariya](https://open.spotify.com/track/6bzSij587sWRb0KtBrtgId) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Barse Badariya](https://open.spotify.com/album/0eLSHpbVhqOiflg2rCm2zo) | 3:03 | 2022-05-17 | 2023-10-07 |
 | [Barse More Naina](https://open.spotify.com/track/5uujAs6ESgsPXwUYvbwlON) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Barse More Naina](https://open.spotify.com/album/0xVOTxx8rhWsD25L6sw6jg) | 3:18 | 2023-07-05 |  |
+| [Bhagwaan](https://open.spotify.com/track/2dJtvlQNYOyblWQlWjZynb) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Bhagwaan](https://open.spotify.com/album/7MrqeUhJJfwDk45JztAF9j) | 4:34 | 2024-07-30 |  |
 | [Bhim](https://open.spotify.com/track/2CpX8zSTnl2yJIFyiXMgHx) | [Joel Veena](https://open.spotify.com/artist/1jHZD5DHGnhcb2XCmwx1pj) | [Bhim](https://open.spotify.com/album/1Mw4V0SJP9YBRyVJK8YsXT) | 4:38 | 2022-05-17 | 2023-06-22 |
 | [Bhor Bhayi](https://open.spotify.com/track/64txAeGrepJepCeaFvNLH2) | [INSYNC](https://open.spotify.com/artist/19vhG6MY7yUn1uyBFHfK40) | [Bhor Bhayi](https://open.spotify.com/album/2Ufh4166inMXn43jqGmQ7r) | 5:14 | 2023-09-11 |  |
 | [Blessing the Bride \(Baisa\)](https://open.spotify.com/track/79osQzagWc3CI97LvAXXWH) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Romy](https://open.spotify.com/artist/5bk4s1Xe4xxlrTcRC9Dwek) | [Shades of Cashmere](https://open.spotify.com/album/14rJsFPIXADiSOxf9uIrZo) | 3:49 | 2022-05-17 | 2023-07-21 |

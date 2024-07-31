@@ -2039,6 +2039,24 @@
     },
     {
       "album": {
+        "name": "Fjord",
+        "url": "https://open.spotify.com/album/04H8WtE9iGuS0cU9xGWJLs"
+      },
+      "artists": [
+        {
+          "name": "Ey\u00f8ni",
+          "url": "https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Fjord",
+      "url": "https://open.spotify.com/track/3nb0mXvI0kiyo4dQUZx1Tj"
+    },
+    {
+      "album": {
         "name": "Fleeting Glance",
         "url": "https://open.spotify.com/album/1vjY2YeQaqshe98GinMtH5"
       },

@@ -428,7 +428,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 230283,
       "name": "Bakir",
       "url": "https://open.spotify.com/track/2ZLWxFGNauOddLUTWcvsok"
@@ -1312,6 +1312,24 @@
       "duration_ms": 230029,
       "name": "Maazom",
       "url": "https://open.spotify.com/track/2vQF0IxnmS298QNT0wkqej"
+    },
+    {
+      "album": {
+        "name": "Mahma Sar",
+        "url": "https://open.spotify.com/album/4aKgcNWhxMBYZyk3u6vjdn"
+      },
+      "artists": [
+        {
+          "name": "Abadi Al Johar",
+          "url": "https://open.spotify.com/artist/1y7XnZ7jxpZXKQAvez1bYf"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240299,
+      "name": "Mahma Sar",
+      "url": "https://open.spotify.com/track/1DmeuZVKKUhFZT3nnVANXb"
     },
     {
       "album": {

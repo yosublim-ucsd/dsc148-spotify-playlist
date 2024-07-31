@@ -1,12 +1,12 @@
 {
-  "description": "This is Yeah Yeah Yeahs. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 45407,
+  "description": "This Is Yeah Yeah Yeahs. Los temas esenciales, todos en una lista.",
+  "num_followers": 45424,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqWKAAAAAACs1SENrb65aMuhqKsQ6q89",
+  "snapshot_id": "ZqbbgAAAAAA7NjjUxmhLRu5Ey2I7ZypE",
   "tracks": [
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 267626,
-      "name": "Different Today",
-      "url": "https://open.spotify.com/track/1NI4ZiPR8hcROfDz1Dz3WH"
+      "duration_ms": 306733,
+      "name": "Lovebomb",
+      "url": "https://open.spotify.com/track/2YFSU2cMrGevlkNG5J7rOd"
     },
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 306733,
-      "name": "Lovebomb",
-      "url": "https://open.spotify.com/track/2YFSU2cMrGevlkNG5J7rOd"
+      "duration_ms": 267626,
+      "name": "Different Today",
+      "url": "https://open.spotify.com/track/1NI4ZiPR8hcROfDz1Dz3WH"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Show Your Bones",
-        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 145666,
-      "name": "Honeybear",
-      "url": "https://open.spotify.com/track/4UZtZ5EV1f1GbvWgee28J7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fever To Tell",
         "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 135906,
       "name": "Cold Light",
       "url": "https://open.spotify.com/track/7at9CaHEFTsV3J5KXSYzSc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 145666,
+      "name": "Honeybear",
+      "url": "https://open.spotify.com/track/4UZtZ5EV1f1GbvWgee28J7"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Know + Gold Lion (Diplo Remix) + Gold Lion (Nick Remix)",
-        "url": "https://open.spotify.com/album/7mkTnMGmhZfNnEFwLLCv1k"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 210066,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/4pIfmU3tWHcXHTHr9RaAzi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fever To Tell",
         "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 184126,
       "name": "Poor Song",
       "url": "https://open.spotify.com/track/1RxQPRnSbq13hMic24x6uQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Me Know + Gold Lion (Diplo Remix) + Gold Lion (Nick Remix)",
+        "url": "https://open.spotify.com/album/7mkTnMGmhZfNnEFwLLCv1k"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 210066,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/4pIfmU3tWHcXHTHr9RaAzi"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "War Child Presents Heroes Vol. 1",
-        "url": "https://open.spotify.com/album/3CexvRERthb6hU86Npa7e2"
+        "name": "Spotify Singles (Recorded At Spotify Studios NYC)",
+        "url": "https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 156360,
-      "name": "Sheena Is A Punk Rocker",
-      "url": "https://open.spotify.com/track/1OdnxNgJTn7qJHDbQyerT5"
+      "duration_ms": 197759,
+      "name": "Thirteen - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2VsdSmOcXPGJVRfp9EP7nL"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles (Recorded At Spotify Studios NYC)",
-        "url": "https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY"
+        "name": "War Child Presents Heroes Vol. 1",
+        "url": "https://open.spotify.com/album/3CexvRERthb6hU86Npa7e2"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 197759,
-      "name": "Thirteen - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2VsdSmOcXPGJVRfp9EP7nL"
+      "duration_ms": 156360,
+      "name": "Sheena Is A Punk Rocker",
+      "url": "https://open.spotify.com/track/1OdnxNgJTn7qJHDbQyerT5"
     },
     {
       "added_at": null,

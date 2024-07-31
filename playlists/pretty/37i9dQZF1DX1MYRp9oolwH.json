@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Mr. Bachchan",
-  "num_followers": 130985,
+  "num_followers": 131036,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpNSJAAAAADB4yOz4kMwl3yvb2U15pOz",
+  "snapshot_id": "ZqixegAAAABJykyQmhTp6SX0HZyuNjeu",
   "tracks": [
     {
       "added_at": "2024-07-10 05:39:26",
@@ -55,6 +55,26 @@
       "duration_ms": 282000,
       "name": "Ullaasam (From \"Saripodhaa Sanivaaram\")",
       "url": "https://open.spotify.com/track/0ROW5t0PWyBS6k0UizBr6c"
+    },
+    {
+      "added_at": "2024-07-30 09:25:14",
+      "album": {
+        "name": "Kya Lafda (From \"Double ISMART\")(Telugu)",
+        "url": "https://open.spotify.com/album/1m2T5YHndF1qX7r1xBFaho"
+      },
+      "artists": [
+        {
+          "name": "Dhanunjay Seepana",
+          "url": "https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0"
+        },
+        {
+          "name": "Sindhuja Srinivasan",
+          "url": "https://open.spotify.com/artist/1vB0Gi450P8znsVn6J5sjm"
+        }
+      ],
+      "duration_ms": 271500,
+      "name": "Kya Lafda (From \"Double ISMART\")(Telugu)",
+      "url": "https://open.spotify.com/track/1LAp48f6hb6LYqYFFb4EHV"
     },
     {
       "added_at": "2024-05-29 05:44:55",

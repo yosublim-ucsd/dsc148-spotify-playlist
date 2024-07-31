@@ -6,7 +6,7 @@
     "name": "IW Music",
     "url": "https://open.spotify.com/user/ikwong1979"
   },
-  "snapshot_id": "AAAk1Lw2UD1RJBl3ExBoIw9dQMxHz7Ze",
+  "snapshot_id": "AAAk1bgMGQoUy+DtjVO4y5KZCH2UQ/LA",
   "tracks": [
     {
       "added_at": "2024-02-12 06:27:00",
@@ -1079,6 +1079,38 @@
       "duration_ms": 60000,
       "name": "Hopeful",
       "url": "https://open.spotify.com/track/55ESWvZcBMSFU0R1cwSTDG"
+    },
+    {
+      "added_at": "2024-07-30 14:56:52",
+      "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/6wxCyPlB5QcvBXLrkkq3EC"
+      },
+      "artists": [
+        {
+          "name": "Melody Lake",
+          "url": "https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7"
+        }
+      ],
+      "duration_ms": 60535,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/2RP93uPtPEcOTLLltaVvJS"
+    },
+    {
+      "added_at": "2024-07-30 14:56:52",
+      "album": {
+        "name": "Hills",
+        "url": "https://open.spotify.com/album/2nBQTD4MMw5NAnXZOX4GmU"
+      },
+      "artists": [
+        {
+          "name": "Nature Dreams",
+          "url": "https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo"
+        }
+      ],
+      "duration_ms": 60361,
+      "name": "Hills",
+      "url": "https://open.spotify.com/track/6mJiHWwkMkj5YJ7UFyeCPQ"
     },
     {
       "added_at": "2024-02-12 06:27:00",

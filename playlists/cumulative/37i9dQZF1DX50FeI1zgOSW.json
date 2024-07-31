@@ -6495,6 +6495,28 @@
     },
     {
       "album": {
+        "name": "Vaanavil Niraikava",
+        "url": "https://open.spotify.com/album/1aPEw9PFTwaabMyK9ruHaI"
+      },
+      "artists": [
+        {
+          "name": "Surya Srini",
+          "url": "https://open.spotify.com/artist/4tFeh0q2MQjHjcZZZBkzTZ"
+        },
+        {
+          "name": "Swathi Ramachandran",
+          "url": "https://open.spotify.com/artist/1CMNk9Dj9LnPTskACXf6p8"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240253,
+      "name": "Vaanavil Niraikava",
+      "url": "https://open.spotify.com/track/25ubcWEzWuOm4nb2IFQVrs"
+    },
+    {
+      "album": {
         "name": "Vaasam Pesum",
         "url": "https://open.spotify.com/album/65uesvauWksGXmaSS78K1L"
       },

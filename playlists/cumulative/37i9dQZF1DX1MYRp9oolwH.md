@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Mr\. Bachchan
 
-215 songs - 14 hr 5 min
+216 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Kurise Megham](https://open.spotify.com/track/0nohRcqiBbohaUhYUcGAr4) | [Yelender Mahaveer](https://open.spotify.com/artist/6uYo1bg81A6otaP6qsI7Ap), [Deepthi Bogaraju](https://open.spotify.com/artist/6A3cMmxlkyh05KknY1i5i0) | [Dhostan](https://open.spotify.com/album/3oWPbCPZCmim0kJbUKhSPe) | 3:41 | 2022-11-19 | 2023-04-25 |
 | [Kushi Title Song \(From "Kushi"\)](https://open.spotify.com/track/1SuFZNCwocZu6lIp40GPmv) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Shiva Nirvana](https://open.spotify.com/artist/1gajAFPKcgGySskFCZ7qQD) | [Kushi Title Song \(From "Kushi"\)](https://open.spotify.com/album/0v4KjnCMa3ZURbn9qJ0W8o) | 3:30 | 2023-07-28 | 2023-08-03 |
 | [Kushi Title Song \(From "Kushi"\) \(Telugu\)](https://open.spotify.com/track/3Trl1pPBlTQfzWvHDlTvfR) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Kushi Title Song \(From "Kushi"\) \(Telugu\)](https://open.spotify.com/album/6FJ7RPoVzmPFp4QN6pGONQ) | 3:30 | 2023-07-28 |  |
+| [Kya Lafda \(From "Double ISMART"\)\(Telugu\)](https://open.spotify.com/track/1LAp48f6hb6LYqYFFb4EHV) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Sindhuja Srinivasan](https://open.spotify.com/artist/1vB0Gi450P8znsVn6J5sjm) | [Kya Lafda \(From "Double ISMART"\)\(Telugu\)](https://open.spotify.com/album/1m2T5YHndF1qX7r1xBFaho) | 4:31 | 2024-07-30 |  |
 | [Lachamammo \(From "Like Share And Subscribe"\)](https://open.spotify.com/track/3G0LnjOp98H5jrxfgetRse) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Gorati Venkanna](https://open.spotify.com/artist/44kFHSzysWdNgR3KwXE226) | [Lachamammo \(From "Like Share And Subscribe"\) \- Single](https://open.spotify.com/album/3OfRXebQsZq6ThISYyCC2R) | 3:48 | 2022-11-01 | 2023-04-25 |
 | [Lalana \(From "LGM \(Telugu\)"\)](https://open.spotify.com/track/5nClSarCW9enQgWpeblJfU) | [Ramesh Thamilmani](https://open.spotify.com/artist/1DPRhvqBKE7SL5QJJmK08W), [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [Lalana \[From "LGM \(Telugu\)"\]](https://open.spotify.com/album/21ziosEL6sBHvMZns1cp5r) | 2:57 | 2023-06-16 | 2023-09-17 |
 | [Maatina Rane Radhe](https://open.spotify.com/track/24EhkjFnj6zj92YdPrRyue) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Chittam Maharani](https://open.spotify.com/album/3AMTlgVVBK9MRZxXRCQuM6) | 3:26 | 2023-01-24 | 2023-02-21 |

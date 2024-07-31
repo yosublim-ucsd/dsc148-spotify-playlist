@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: Son Tae Jin\(손태진\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-832 songs - 1 day 23 hr 33 min
+833 songs - 1 day 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Balsam tender passion](https://open.spotify.com/track/1M0thnvXdixd8mWmMWfC9Y) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Bongsungah school PART1](https://open.spotify.com/album/2u4uuAYzwv4AsETUiQcssS) | 3:17 | 2022-05-03 | 2022-06-08 |
 | [Barefooted youth](https://open.spotify.com/track/2quEJ0O0lsvl46cyvCiiaJ) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART13](https://open.spotify.com/album/4yKuRJirB0B52jwjVYoJ17) | 3:26 | 2022-04-21 |  |
 | [Be filial](https://open.spotify.com/track/4Ca35aakgbqEkvjx42VIN7) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center PART7](https://open.spotify.com/album/7MQC5I1mXnuget0Se48yOQ) | 3:04 | 2022-05-03 | 2022-06-30 |
-| [Be My Teresa](https://open.spotify.com/track/4dsWEpLJIZmWwlZydHKGFe) | [Jo Jung Min](https://open.spotify.com/artist/4fcBdN2QDEF58oIK2D4rzh) | [Be My Teresa](https://open.spotify.com/album/0tNmXBvof9bjnlKXv63QhI) | 3:17 | 2022-04-22 |  |
+| [Be My Teresa](https://open.spotify.com/track/4dsWEpLJIZmWwlZydHKGFe) | [Jo Jung Min](https://open.spotify.com/artist/4fcBdN2QDEF58oIK2D4rzh) | [Be My Teresa](https://open.spotify.com/album/0tNmXBvof9bjnlKXv63QhI) | 3:17 | 2022-04-22 | 2024-07-31 |
 | [Be nice when I am with you](https://open.spotify.com/track/3y702EYrPtdFtFSgTWYqmA) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Bongsungah school PART4](https://open.spotify.com/album/3cCGXsqslsRzZhBiKWKhWB) | 3:30 | 2022-04-07 | 2022-07-27 |
 | [Beautiful](https://open.spotify.com/track/3bN8OTTw09eZA7IGZJIPFm) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART32](https://open.spotify.com/album/2ILRXQMJw8fGbuz7vhvShU) | 3:43 | 2022-04-22 | 2022-07-25 |
 | [Beautiful day](https://open.spotify.com/track/2TR93BdahtOCytkNkl4J45) | [Youngki](https://open.spotify.com/artist/2u6u4hr9H1B70v4m5CKq1R) | [기막힌 유산 \(Original Television Soundtrack\) Pt\. 17](https://open.spotify.com/album/7it71jDEWeK6bWYMc4jmAT) | 3:38 | 2022-04-22 | 2022-07-26 |
@@ -358,6 +358,7 @@
 | [Let's live in Seoul](https://open.spotify.com/track/17RtMYFvvUkesJ9DqlbJj9) | [Yujin Jeon](https://open.spotify.com/artist/3BFcxv7uPQ7efI42KZtDfY) | [MISS TROT2 PRELIMINARY BEST PART2](https://open.spotify.com/album/2GXTij5DayYJdpScEjYUSx) | 2:47 | 2022-04-07 |  |
 | [Let's live in Seoul.](https://open.spotify.com/track/6ciwM8gbW3300SH99cLkdm) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART27](https://open.spotify.com/album/2DU9d9af7JUSwchkA6gBTs) | 3:40 | 2022-05-03 | 2022-05-08 |
 | [Let's live well](https://open.spotify.com/track/1tsJFibqTkO7d25zReZuEx) | [Han Ga Bin](https://open.spotify.com/artist/5VXpgnStSS71wk0kWGKwQv) | [Let's live well](https://open.spotify.com/album/1AIMQpdcdh5ux4PXEN62hG) | 3:44 | 2023-10-16 | 2023-11-28 |
+| [LETTER FROM THE NORTH](https://open.spotify.com/track/2poco0FPu50RWBI978tYFF) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [KOREA VS JAPAN TROT SHOW BEST](https://open.spotify.com/album/3Um3ku07ay7QoFCaUyBlCX) | 2:49 | 2024-06-17 |  |
 | [Life like a picnic](https://open.spotify.com/track/49MB7eig87ztCpFWkGoRgi) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Bongsungah school PART4](https://open.spotify.com/album/3cCGXsqslsRzZhBiKWKhWB) | 3:26 | 2022-05-03 | 2022-07-29 |
 | [Like him who gave me a smile](https://open.spotify.com/track/4hhGH6jgN6lDDuJ9dwUHef) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART21](https://open.spotify.com/album/5KVlaX4w5qg5rRa9zrsWxZ) | 3:37 | 2022-05-03 | 2022-07-28 |
 | [Like rain and music](https://open.spotify.com/track/0x5zyKPpptM8xwgL8mscvC) | [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Bongsungah school PART11](https://open.spotify.com/album/5m6Y65eU3N3LmBJlzh0fzo) | 4:31 | 2022-05-03 | 2022-06-24 |

@@ -1965,6 +1965,24 @@
     },
     {
       "album": {
+        "name": "AG! Calling",
+        "url": "https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183186,
+      "name": "Fly High",
+      "url": "https://open.spotify.com/track/7BFgL3I4BB3gYrxfQsBF5t"
+    },
+    {
+      "album": {
         "name": "fly with the night",
         "url": "https://open.spotify.com/album/4gI6NqgDPRzTNYzHko6Cyv"
       },
@@ -9404,7 +9422,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 227789,
       "name": "\u30cf\u30d4\u30e1\u30e2",
       "url": "https://open.spotify.com/track/2hz3whjkJaTfEt71OehMPI"
@@ -9444,6 +9462,24 @@
       "duration_ms": 218453,
       "name": "\u30cf\u30ec\u30ce\u30d0\u30c6\u30a4\u30af\u30aa\u30fc\u30d0\u30fc",
       "url": "https://open.spotify.com/track/5MjSRZxbySa60WgKcvo3dy"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30ec\u6674\u30ec\u30e6\u30ab\u30a4\uff08TV\u30a2\u30cb\u30e1\u300c\u6642\u3005\u30dc\u30bd\u30c3\u3068\u30ed\u30b7\u30a2\u8a9e\u3067\u30c7\u30ec\u308b\u96a3\u306e\u30a2\u30fc\u30ea\u30e3\u3055\u3093\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\uff09",
+        "url": "https://open.spotify.com/album/3DDGxVLZh1qq1EnKxG1ANP"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30fc\u30ea\u30e3\uff08CV\uff1a\u4e0a\u5742\u3059\u307f\u308c\uff09",
+          "url": "https://open.spotify.com/artist/6T2BNiyW0J5qbP0t2MS2Bk"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212193,
+      "name": "\u30cf\u30ec\u6674\u30ec\u30e6\u30ab\u30a4",
+      "url": "https://open.spotify.com/track/1663gb8VtFxxRsgBz5jaN7"
     },
     {
       "album": {
@@ -9688,7 +9724,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 282948,
       "name": "\u30d5\u30a1\u30fc\u30b9\u30c8\u30d4\u30ea\u30aa\u30c9.",
       "url": "https://open.spotify.com/track/3dHuX10pYY0oPbW6ouDd2S"
@@ -10728,7 +10764,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-30",
+      "date_removed": null,
       "duration_ms": 269031,
       "name": "\u5916\u9053\u8b83\u6b4c",
       "url": "https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC"
@@ -11250,7 +11286,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 224099,
       "name": "\u60f3\u3044\u51fa\u304c\u3044\u3063\u3071\u3044",
       "url": "https://open.spotify.com/track/5IlEKA3reRm4JKpg4gMn9R"

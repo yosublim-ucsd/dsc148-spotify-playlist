@@ -5051,6 +5051,24 @@
     },
     {
       "album": {
+        "name": "Colorblind",
+        "url": "https://open.spotify.com/album/77cInQFumMTB0g5W5WlMSa"
+      },
+      "artists": [
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177682,
+      "name": "Colorblind",
+      "url": "https://open.spotify.com/track/4QuLvVp76ztgtugmHQ3AoM"
+    },
+    {
+      "album": {
         "name": "Colorful Beat",
         "url": "https://open.spotify.com/album/7Eb3aFzgBo2pap0rpMMfQ3"
       },

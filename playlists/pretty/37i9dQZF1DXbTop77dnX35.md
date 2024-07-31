@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from ODUMODUBLVCK, Boj, Llona, Tekno, Yemi Alade and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,056 likes - 59 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,187 likes - 59 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 54 | [The Best Part \- Remix](https://open.spotify.com/track/5bjDy4hqNIyGYttuxzvGjT) | [Savy Henry](https://open.spotify.com/artist/6Wf1QL4mEnFckePmc4nPjT), [Mariechan](https://open.spotify.com/artist/6uUSNroJE7n5EvrPre1VCI) | [The Best Part \(Remix\)](https://open.spotify.com/album/1OIaoXhy5EmtP0hV8IgZ6o) | 2:27 |
 | 55 | [Wake And See](https://open.spotify.com/track/1r3vSnuJonDRwOP9kRMQq8) | [Adam Srae](https://open.spotify.com/artist/3QxhXJxbonsOqLObAIuKAE) | [Wake And See](https://open.spotify.com/album/4Zjy9qc6hCRtFbCmF0GQIU) | 3:30 |
 | 56 | [IMA IMA](https://open.spotify.com/track/5pjCe0XeP4ZQKb0A5xxmsT) | [Ceore](https://open.spotify.com/artist/79L5NoqccyFlgVMFT8RrzC), [Luigi Anywhere](https://open.spotify.com/artist/5a9qc56VdoSQ7pw6d464GK) | [IMA IMA](https://open.spotify.com/album/4nMxNUlpi1wO4WO7018Bsh) | 3:12 |
-| 57 | [Game Over](https://open.spotify.com/track/2fZu9R6C46L67e3dH5xBcx) | [Spy Shitta](https://open.spotify.com/artist/4LTESjldd92V5ZxhEITidD) | [Game Over](https://open.spotify.com/album/6RVwiaqssDPZkQ0gzAdFq0) | 2:28 |
+| 57 | [Game Over](https://open.spotify.com/track/2fZu9R6C46L67e3dH5xBcx) | [Spy Shitta](https://open.spotify.com/artist/4LTESjldd92V5ZxhEITidD) | [Game Over](https://open.spotify.com/album/6RVwiaqssDPZkQ0gzAdFq0) | 2:30 |
 | 58 | [L'amour Tragique](https://open.spotify.com/track/2exMo2G1fSaHkemQLs6qFw) | [Purple Plutonian](https://open.spotify.com/artist/0QoerOSDiXcbJUmLg6U9qT) | [L'amour Tragique](https://open.spotify.com/album/127xsIHpwz9yF7ChBVVhX2) | 3:09 |
 | 59 | [Black Bullet](https://open.spotify.com/track/0Rwi0YXTX64xHhGZJr1aeV) | [Standoutszn](https://open.spotify.com/artist/5w3xij5qj6YL95HeYFfqyS), [Dēfa OF](https://open.spotify.com/artist/4x5voQlcujqHFS4qJcdNsF) | [Black Bullet](https://open.spotify.com/album/1TrnfYkPIH22xEyqFmDDiE) | 3:18 |
 

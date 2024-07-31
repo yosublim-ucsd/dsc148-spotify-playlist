@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Drotoch
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,443 likes - 159 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,446 likes - 159 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 5 | [Willow](https://open.spotify.com/track/054AmGa7s4Pq9X9nmtJvCz) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Kowloon Demos](https://open.spotify.com/album/7ySns1kCZwDoIoVVTzuCBK) | 3:17 |
 | 6 | [what about tomorrow?](https://open.spotify.com/track/0Dc4r9yOP9PlGyL7h6sqtW) | [ben chow](https://open.spotify.com/artist/3O9Vari0d5odpXVPlRT04w), [bee](https://open.spotify.com/artist/67cRv3IqYI4b4rZTUg7BBs) | [what about tomorrow?](https://open.spotify.com/album/6F8CcUftSr0kXBy6oju4HU) | 3:33 |
 | 7 | [DSE最鍾意](https://open.spotify.com/track/15L9NIvWWjAAVMdKxsBsuy) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [DSE最鍾意](https://open.spotify.com/album/6YAjY3YXeFHSybyxI8xn3G) | 2:46 |
-| 8 | [冇有形狀 \- 壞數學 VERSION](https://open.spotify.com/track/4s5kbw5mtf2AgXZzrkJLjI) | [Bad Math](https://open.spotify.com/artist/07IjEAbgCClbsODsIrdxeo), [XSGACHA 小本生燈](https://open.spotify.com/artist/78CZPfx44NXnJAR0bxEaXw) | [冇有形狀 \(壞數學 VERSION\)](https://open.spotify.com/album/22YYxCpNNtdxu7VajaOcQU) | 5:26 |
+| 8 | [冇有形狀 \- 壞數學 VERSION](https://open.spotify.com/track/4s5kbw5mtf2AgXZzrkJLjI) | [XSGACHA 小本生燈](https://open.spotify.com/artist/78CZPfx44NXnJAR0bxEaXw), [Bad Math](https://open.spotify.com/artist/07IjEAbgCClbsODsIrdxeo) | [冇有形狀 \(壞數學 VERSION\)](https://open.spotify.com/album/22YYxCpNNtdxu7VajaOcQU) | 5:26 |
 | 9 | [devilsdisstrack](https://open.spotify.com/track/1Kg1LZq9x1eittBD2fzD4N) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [devilsdisstrack](https://open.spotify.com/album/0mFFBAVNg2fzpEI9ryda69) | 2:22 |
 | 10 | [是 Am](https://open.spotify.com/track/7uMHJYzGXsSPeeFrGEIxjI) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [是 Am](https://open.spotify.com/album/0bMv2UDQtyg5ww8D61LrVX) | 6:29 |
 | 11 | [just a girl](https://open.spotify.com/track/1wCNvSk0OxcLaOZwzRG1KL) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo) | [just a girl](https://open.spotify.com/album/5s3R6iGe2tJQcrpH0jeMRh) | 2:58 |

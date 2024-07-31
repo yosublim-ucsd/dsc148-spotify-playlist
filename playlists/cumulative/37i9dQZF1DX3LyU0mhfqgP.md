@@ -2,9 +2,9 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Felix Jaehn
+> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Benedict Cork
 
-1,277 songs - 2 day 20 hr 50 min
+1,279 songs - 2 day 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,7 @@
 | [deep in the woods](https://open.spotify.com/track/7ayHmrEXPuiglJ1pYlko8h) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [deep in the woods](https://open.spotify.com/album/6p1H52i4HyDOrdrBUF0uI4) | 3:09 | 2022-06-24 | 2022-08-01 |
 | [degree](https://open.spotify.com/track/497KalbUMS3DGzUwfua4wm) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [degree](https://open.spotify.com/album/31JzMN121QUIzt6nxQz93c) | 3:12 | 2022-02-11 | 2022-04-11 |
 | [Despertar](https://open.spotify.com/track/4eYTJkjurpWAOvsEmG5W8A) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Despertar](https://open.spotify.com/album/7GMhyohcuBcKYnfR7FMM8L) | 3:15 | 2023-05-09 | 2023-06-02 |
-| [deszcz](https://open.spotify.com/track/3Po2TlXn1bcRsSujzbNkk2) | [RAF](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [romantyzuję EP](https://open.spotify.com/album/1npaNdX2BlFVJut1qvGzpR) | 2:22 | 2024-07-09 |  |
+| [deszcz](https://open.spotify.com/track/3Po2TlXn1bcRsSujzbNkk2) | [RAF](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [romantyzuję EP](https://open.spotify.com/album/1npaNdX2BlFVJut1qvGzpR) | 2:22 | 2024-07-09 | 2024-07-31 |
 | [Devotion](https://open.spotify.com/track/5IcivgTMTJQFxh0ug2sg65) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [My Soft Machine](https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn) | 2:45 | 2023-10-10 | 2023-11-14 |
 | [Diary Entry](https://open.spotify.com/track/1nrYyJjjY74BS8w40vVQmF) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Diary Entry](https://open.spotify.com/album/5spyMJk3tjLaMb0IamqZLs) | 3:35 | 2022-04-15 | 2022-07-28 |
 | [Did You Settle Down Too Soon](https://open.spotify.com/track/5T7PoODCm2YYd5N4IbWUUr) | [Brandon Stansell](https://open.spotify.com/artist/7oTLMAni4yK84Nwsta0fYz) | [Did You Settle Down Too Soon](https://open.spotify.com/album/3h2xq62A7iX7XMix2Br0ss) | 2:59 | 2021-12-17 | 2022-01-09 |
@@ -448,6 +448,7 @@
 | [Grog d'Pilha](https://open.spotify.com/track/38y0HYQgnw8Y6VuTOAFmkx) | [Sara Tavares](https://open.spotify.com/artist/57zZoaRDFEjqRwq6FlT0va) | [Grog d'Pilha](https://open.spotify.com/album/1FUTIJ9OdcQ86eiSW4FUxo) | 3:08 | 2023-01-24 | 2023-03-08 |
 | [Guard My Heart](https://open.spotify.com/track/3FMgKNOeL9mCQkZQb55siA) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Guard My Heart](https://open.spotify.com/album/3IQpUNq1c1zSE9q4WjkMkR) | 4:07 | 2024-02-13 | 2024-04-10 |
 | [Gucci Knife \(feat\. MASN\)](https://open.spotify.com/track/1nhtP8put1KkwqdrZcA1Gi) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Gucci Knife \(feat\. MASN\)](https://open.spotify.com/album/0MJRKW8pwyQH16WQlMXiH7) | 2:31 | 2021-12-17 | 2022-01-15 |
+| [GUCCIYANKA](https://open.spotify.com/track/7Kcpk2RlS5NbBYXugy4P3c) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO), [Lemon](https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B) | [GUCCIYANKA](https://open.spotify.com/album/6xpAYSfNGIR12Rau2xbtz7) | 3:24 | 2024-07-30 |  |
 | [guho](https://open.spotify.com/track/2TRzTQjxpMGr0pC4pFsGkF) | [Dom Guyot](https://open.spotify.com/artist/5ygKtDod9YYPAe0574Cwk0) | [guho](https://open.spotify.com/album/7h3X5100yBreMGlOQFDswl) | 3:32 | 2023-03-07 | 2023-04-01 |
 | [Guilty Conscience](https://open.spotify.com/track/5f4O6EoPQRLjTY9waVSamq) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Analysis Paralysis](https://open.spotify.com/album/6jXVI1qo7iRCK8GrnMsjW7) | 1:58 | 2023-09-12 | 2023-10-11 |
 | [Hacia el Fondo \- En Vivo](https://open.spotify.com/track/5TBEXPwE9N1ewl0S9BioRi) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [La Explosión de los Pájaros \(En Vivo\)](https://open.spotify.com/album/1yb85mqcjKVMhtH6ArF6lr) | 4:03 | 2023-04-13 | 2023-05-10 |
@@ -528,7 +529,7 @@
 | [i belong to you](https://open.spotify.com/track/1HgeKwvlxU1ScR9pExHrQS) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [i belong to you](https://open.spotify.com/album/7yZzjlDLPVx72ecjraESoI) | 3:04 | 2022-04-01 | 2022-10-08 |
 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 | 2022-01-21 | 2022-10-29 |
 | [i didn't know any better](https://open.spotify.com/track/3h8QfnbdQKKcYm086PsMQ2) | [Miki Ratsula](https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30) | [i owe it to myself](https://open.spotify.com/album/5nE9Ce10HEVXUj1qcqnE1E) | 3:31 | 2022-03-25 | 2022-07-27 |
-| [I Do](https://open.spotify.com/track/5KMaaEKQkELaj1vxMu5YEZ) | [Mani Orrason](https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2) | [Blue Skies Motel](https://open.spotify.com/album/5iI2whl1ujFd9PoxRuH4qC) | 2:54 | 2024-07-16 |  |
+| [I Do](https://open.spotify.com/track/5KMaaEKQkELaj1vxMu5YEZ) | [Mani Orrason](https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2) | [Blue Skies Motel](https://open.spotify.com/album/5iI2whl1ujFd9PoxRuH4qC) | 2:54 | 2024-07-16 | 2024-07-31 |
 | [i don't believe in God](https://open.spotify.com/track/4gQ76st50BNwJg6jOLBwvv) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [through the telescope](https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3) | 3:21 | 2024-06-05 |  |
 | [I Don't Love You](https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [I Don't Love You](https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n) | 4:11 | 2024-03-12 | 2024-04-19 |
 | [I Don't Love You](https://open.spotify.com/track/3yv0PNx5lOY0YQ7P3FOXW8) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [I Don't Love You](https://open.spotify.com/album/2JSzdaZgvPilynY4B3VrCN) | 4:11 | 2024-04-16 | 2024-05-07 |
@@ -869,6 +870,7 @@
 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 | 2022-08-19 | 2022-12-01 |
 | [Photograph](https://open.spotify.com/track/7qG7bsMPOmiMt0uT13cLx5) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 4:41 | 2022-06-17 | 2022-12-01 |
 | [Picnic In The Park](https://open.spotify.com/track/1H9RljOIfrpDXj8tBYi746) | [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6) | [Picnic In The Park](https://open.spotify.com/album/7vGvMZJ2EcjqALGYxRmAuB) | 2:57 | 2023-01-24 | 2023-03-08 |
+| [Pink Cheetah Print Slip](https://open.spotify.com/track/2CSeGqjIIhvmkgcJDqkKzl) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Pink Cheetah Print Slip](https://open.spotify.com/album/4gqxim6w1bqZSNOjIJPP6s) | 1:47 | 2024-07-30 |  |
 | [pink socks](https://open.spotify.com/track/5IN43BAneT10FMf3jBoAgY) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [pink socks](https://open.spotify.com/album/3BRe7wgNSy0EmqO4KVHLcu) | 2:20 | 2021-12-17 | 2022-01-22 |
 | [Pintas de punki](https://open.spotify.com/track/3pYacQzqMUP25Tz1UuJzFL) | [mis amigas fuman todas](https://open.spotify.com/artist/7KdIqg2BmTqrSTJm19a8me) | [Pintas de punki](https://open.spotify.com/album/7f6EA73EsumyisyCgmjHyS) | 3:06 | 2023-03-07 | 2023-04-01 |
 | [Play God](https://open.spotify.com/track/1JeNe2MbM5ho0WpCXOCbJ8) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Play God](https://open.spotify.com/album/7E9KWeTboK20nXJ5bzMElQ) | 3:47 | 2023-11-14 | 2023-11-30 |

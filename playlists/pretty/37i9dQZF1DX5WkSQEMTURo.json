@@ -1,12 +1,12 @@
 {
   "description": "Everyone deserves a happy ending. Listen to the music from the Deadpool series, including Deadpool & Wolverine, now playing in theaters. ",
-  "num_followers": 234371,
+  "num_followers": 255234,
   "original_name": "Deadpool Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqgDDwAAAACbDEAFkpimgb3HO4Q1Z4Hg",
+  "snapshot_id": "ZqlT9AAAAABP2SVtv5+VjTVVlyvoKFKg",
   "tracks": [
     {
       "added_at": "2024-07-17 16:00:00",
@@ -41,6 +41,42 @@
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
     },
     {
+      "added_at": "2024-07-30 20:58:28",
+      "album": {
+        "name": "This Is How We Do It",
+        "url": "https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL"
+      },
+      "artists": [
+        {
+          "name": "Montell Jordan",
+          "url": "https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT"
+        },
+        {
+          "name": "Wino",
+          "url": "https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "This Is How We Do It",
+      "url": "https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD"
+    },
+    {
+      "added_at": "2024-07-30 20:58:28",
+      "album": {
+        "name": "What're We Doing Here",
+        "url": "https://open.spotify.com/album/0di1rlD8Afel1VLF06lRxK"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "duration_ms": 184842,
+      "name": "What're We Doing Here",
+      "url": "https://open.spotify.com/track/23r4WNoHCVaLypbxeHMu8p"
+    },
+    {
       "added_at": "2024-07-17 16:00:00",
       "album": {
         "name": "Angel Of The Morning",
@@ -57,20 +93,52 @@
       "url": "https://open.spotify.com/track/27QxL30kLR6RyIjLXCMFdU"
     },
     {
-      "added_at": "2024-07-23 18:31:01",
+      "added_at": "2024-07-30 20:58:28",
       "album": {
-        "name": "SLASH",
-        "url": "https://open.spotify.com/album/7pu8cy2ZNnN2rlLlkXXwq9"
+        "name": "Life Is A Wreck",
+        "url": "https://open.spotify.com/album/0PJylfQ4Uq7AYWiCnTHx2R"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "MISFIT",
+          "url": "https://open.spotify.com/artist/78iiCm3WRr7dbhidSiH5wn"
         }
       ],
-      "duration_ms": 191626,
-      "name": "SLASH",
-      "url": "https://open.spotify.com/track/2MKGrYH1PyPAUKu2Sl8IaT"
+      "duration_ms": 219758,
+      "name": "The Kid",
+      "url": "https://open.spotify.com/track/0G2QtlKCKNVjWV0qqaUehK"
+    },
+    {
+      "added_at": "2024-07-30 20:58:28",
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/72q556evH5PI7Wg9vI8DMV"
+      },
+      "artists": [
+        {
+          "name": "Janine the Machine",
+          "url": "https://open.spotify.com/artist/5e7kpnFCxD159HQyi1NyrF"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/1UNIoNxqJlhcUYZzRys7mu"
+    },
+    {
+      "added_at": "2024-07-30 20:58:28",
+      "album": {
+        "name": "Money Life",
+        "url": "https://open.spotify.com/album/5vz5BzTmhhKL0XV1o8P6Ep"
+      },
+      "artists": [
+        {
+          "name": "B. Stew",
+          "url": "https://open.spotify.com/artist/6lRbYRYUPBEmPQMuzPQDjb"
+        }
+      ],
+      "duration_ms": 132571,
+      "name": "Money Life",
+      "url": "https://open.spotify.com/track/1lxaKXyIxvmc9j9WvzdZ5o"
     },
     {
       "added_at": "2024-07-17 16:00:00",
@@ -107,6 +175,22 @@
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
+    },
+    {
+      "added_at": "2024-07-23 18:31:01",
+      "album": {
+        "name": "SLASH",
+        "url": "https://open.spotify.com/album/7pu8cy2ZNnN2rlLlkXXwq9"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 191626,
+      "name": "SLASH",
+      "url": "https://open.spotify.com/track/2MKGrYH1PyPAUKu2Sl8IaT"
     },
     {
       "added_at": "2024-07-17 16:00:00",
@@ -193,6 +277,38 @@
       "url": "https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1"
     },
     {
+      "added_at": "2024-07-30 20:58:28",
+      "album": {
+        "name": "Sports",
+        "url": "https://open.spotify.com/album/5jyfyM8Cinnh05OswtWv41"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "If This Is It",
+      "url": "https://open.spotify.com/track/2pAdtQuiEVGr7nOXGiv7t4"
+    },
+    {
+      "added_at": "2024-07-30 20:58:28",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 312293,
+      "name": "Hells Bells",
+      "url": "https://open.spotify.com/track/69QHm3pustz01CJRwdo20z"
+    },
+    {
       "added_at": "2024-07-17 16:00:00",
       "album": {
         "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
@@ -277,6 +393,46 @@
       "url": "https://open.spotify.com/track/2cJ32oKOM4socjP9DE6jhU"
     },
     {
+      "added_at": "2024-07-30 20:58:28",
+      "album": {
+        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
+      },
+      "artists": [
+        {
+          "name": "Ziv Zaifman",
+          "url": "https://open.spotify.com/artist/2cQr2KbzdRtIFlfbHGnNsL"
+        },
+        {
+          "name": "Hugh Jackman",
+          "url": "https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2"
+        },
+        {
+          "name": "Michelle Williams",
+          "url": "https://open.spotify.com/artist/2LAqcqAQ8KPTsl1HBgBrqM"
+        }
+      ],
+      "duration_ms": 269453,
+      "name": "A Million Dreams",
+      "url": "https://open.spotify.com/track/0RoA7ObU6phWpqhlC9zH4Z"
+    },
+    {
+      "added_at": "2024-07-30 20:58:28",
+      "album": {
+        "name": "Like a Prayer",
+        "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 340866,
+      "name": "Like a Prayer",
+      "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
+    },
+    {
       "added_at": "2024-07-17 16:00:00",
       "album": {
         "name": "A Brand New Me: Aretha Franklin (with The Royal Philharmonic Orchestra)",
@@ -297,6 +453,22 @@
       "url": "https://open.spotify.com/track/0VAmZrLpRYKRejQfcx57AU"
     },
     {
+      "added_at": "2024-07-30 20:58:28",
+      "album": {
+        "name": "Urban Legend",
+        "url": "https://open.spotify.com/album/6N4HsorZ9eem2382qojhPe"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Bring Em Out",
+      "url": "https://open.spotify.com/track/7oAZVxmRCVFanxK7tk16vv"
+    },
+    {
       "added_at": "2024-07-17 16:00:00",
       "album": {
         "name": "Nimrod",
@@ -313,10 +485,10 @@
       "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-07-30 20:58:28",
       "album": {
-        "name": "Deadpool & Wolverine (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7tTd4gjNDz51x9jXHdP73D"
+        "name": "Deadpool & Wolverine (Original Score)",
+        "url": "https://open.spotify.com/album/2GdlXrmMB8sjkVytMyPHLj"
       },
       "artists": [
         {
@@ -324,9 +496,41 @@
           "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
         }
       ],
-      "duration_ms": 109548,
+      "duration_ms": 109546,
       "name": "LFG - Theme from \"Deadpool & Wolverine\"",
-      "url": "https://open.spotify.com/track/5m14N7UR6nG69ccaQ0Qssa"
+      "url": "https://open.spotify.com/track/3POqRDYN7FMsDEzkgJeRbs"
+    },
+    {
+      "added_at": "2024-07-30 20:58:28",
+      "album": {
+        "name": "Deadpool & Wolverine (Original Score)",
+        "url": "https://open.spotify.com/album/2GdlXrmMB8sjkVytMyPHLj"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "duration_ms": 148893,
+      "name": "Deadpool Has a Theme",
+      "url": "https://open.spotify.com/track/0HRPKGVAoswVhP34npi9R9"
+    },
+    {
+      "added_at": "2024-07-30 20:58:28",
+      "album": {
+        "name": "Deadpool & Wolverine (Original Score)",
+        "url": "https://open.spotify.com/album/2GdlXrmMB8sjkVytMyPHLj"
+      },
+      "artists": [
+        {
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
+        }
+      ],
+      "duration_ms": 184880,
+      "name": "Finger-Lickin' Dead-Inside Pixie Slab of Third Rate Dime-Store Nut-Milk",
+      "url": "https://open.spotify.com/track/3SJbEPizsIzx0W3hOdDXBq"
     },
     {
       "added_at": "2024-07-29 21:01:03",
@@ -684,22 +888,6 @@
           "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
         }
       ],
-      "duration_ms": 148893,
-      "name": "Deadpool Has a Theme",
-      "url": "https://open.spotify.com/track/04Wx36KOFx2HuyVOyDGs44"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Deadpool & Wolverine (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7tTd4gjNDz51x9jXHdP73D"
-      },
-      "artists": [
-        {
-          "name": "Rob Simonsen",
-          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
-        }
-      ],
       "duration_ms": 149786,
       "name": "Eating My Feelings",
       "url": "https://open.spotify.com/track/4ndLwBC1LcTT4qm5GkF4z1"
@@ -719,22 +907,6 @@
       "duration_ms": 132613,
       "name": "I Love This Part",
       "url": "https://open.spotify.com/track/2gCfqpErDBhsUw21iQPJal"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Deadpool & Wolverine (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7tTd4gjNDz51x9jXHdP73D"
-      },
-      "artists": [
-        {
-          "name": "Rob Simonsen",
-          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
-        }
-      ],
-      "duration_ms": 184880,
-      "name": "Finger-Lickin' Dead-Inside Pixie Slab of Third Rate Dime-Store Nut-Milk",
-      "url": "https://open.spotify.com/track/5e8bHj0xsowpopZYivOrJi"
     },
     {
       "added_at": "2024-07-26 04:00:00",

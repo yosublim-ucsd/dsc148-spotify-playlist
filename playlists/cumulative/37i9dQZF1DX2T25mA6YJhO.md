@@ -4,13 +4,13 @@
 
 > Súbete a la nueva ola del rock español\. Foto: Barry B, Carolina Durante.
 
-122 songs - 6 hr 27 min
+123 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5 meses](https://open.spotify.com/track/2yNYMqWDnZ6Z8cvE1H5D8o) | [Agudo](https://open.spotify.com/artist/7AV6djETiJOxkb38gsU3Y6) | [5 MESES](https://open.spotify.com/album/5qN6vm6Z4nW90l4m072RoY) | 3:11 | 2024-06-27 | 2024-07-12 |
 | [Adelante](https://open.spotify.com/track/5NvqDMHAL38UTfNQFizEWm) | [levitants](https://open.spotify.com/artist/5Ed1kJRHN0Uj0BhGbRNutV) | [Adelante](https://open.spotify.com/album/4TGfWV8k3nPN3DFbjNplCJ) | 4:00 | 2024-06-27 |  |
-| [agosto](https://open.spotify.com/track/2rMCjGUXkg9eyweQPcwvRX) | [garbí](https://open.spotify.com/artist/0VqZ86s4Z8DHDNHFwYf0oM) | [agosto](https://open.spotify.com/album/0eIk5M7jExLB3SLpmgitMz) | 3:28 | 2024-07-18 |  |
+| [agosto](https://open.spotify.com/track/2rMCjGUXkg9eyweQPcwvRX) | [garbí](https://open.spotify.com/artist/0VqZ86s4Z8DHDNHFwYf0oM) | [agosto](https://open.spotify.com/album/0eIk5M7jExLB3SLpmgitMz) | 3:28 | 2024-07-18 | 2024-07-31 |
 | [Al Amanecer](https://open.spotify.com/track/5FMnqUbLGqWi0Y12MCVYSN) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Al Amanecer](https://open.spotify.com/album/0tvM7MTPrI9bASHbYn89Xy) | 3:11 | 2024-07-11 |  |
 | [Al Amanecer](https://open.spotify.com/track/4e53xhYzdbAWuZu6dqfDOh) | [Monteperdido](https://open.spotify.com/artist/3GxxpOZw5vZ4Z5Wxesav1y), [Marco](https://open.spotify.com/artist/5NIA81lu3aTT72RVQ20l2W) | [Al Amanecer](https://open.spotify.com/album/4JfvYkC4ih4egFoHmMr7ZG) | 2:54 | 2024-06-27 |  |
 | [Al Final](https://open.spotify.com/track/5IUDQPpcD9MGMQDRDb2Fvw) | [Muro María](https://open.spotify.com/artist/5INts4xs8Jf1Rpnkd6Zd2Y) | [Al Final](https://open.spotify.com/album/1JThc0vxLAFqk4pj6jPkYa) | 3:04 | 2024-06-27 |  |
@@ -18,6 +18,7 @@
 | [Angel Genetics](https://open.spotify.com/track/27JBVGR4cIeWEzU39zIRJl) | [Nudozurdo](https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0) | [Angel Genetics](https://open.spotify.com/album/2RlMCybg9FBNhmXYotqmyM) | 5:04 | 2024-06-27 |  |
 | [Antes era campo todo esto](https://open.spotify.com/track/6jGI3vbERKOJdY4QnnCy66) | [El Buen Hijo](https://open.spotify.com/artist/6G4LAz42NNVfLTq2eSNPvr) | [Antes era campo todo esto](https://open.spotify.com/album/2prGPwqXPUcXxjwQ2WFTaR) | 3:04 | 2024-06-27 |  |
 | [Apuntando a tu sien](https://open.spotify.com/track/54f5xQWeTgoZ9T28xS3no1) | [Mi Capitán](https://open.spotify.com/artist/5IFjdKpLNCRPCRxdeXlFY9) | [Como Ladrones Sorprendidos](https://open.spotify.com/album/515qU2fMggG3p2WD50Axhs) | 3:26 | 2024-06-27 |  |
+| [Arder en Fuego](https://open.spotify.com/track/3JHcfsP9SZP77qZ7ueGbuk) | [Ojos Pardos](https://open.spotify.com/artist/60KgmRLqSZArlIE22XoBgb) | [Arder en Fuego](https://open.spotify.com/album/79Q52YHjjoTEgzpiOrA2ZB) | 3:50 | 2024-07-25 |  |
 | [Azul Oscuro Casi Negro](https://open.spotify.com/track/5WkLIlcbax45uOOoNqFacQ) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm), [Diamante Negro](https://open.spotify.com/artist/51WUBWxuW4MAoBwuYraA4v) | [Azul Oscuro Casi Negro](https://open.spotify.com/album/6wRuSSafJuAgVM61XEStGj) | 2:40 | 2024-06-27 |  |
 | [Bailaremos](https://open.spotify.com/track/6NKepMBqaJaR2DLpZgROgY) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Calle Liberación](https://open.spotify.com/album/4CpKVhjbOlHsTu9kblFMMQ) | 3:44 | 2024-06-27 |  |
 | [Barrio](https://open.spotify.com/track/3vfxWUBtICQbiSlemtDSmL) | [Impacto Vudu](https://open.spotify.com/artist/4q9S9g5IA3WQtjeNa11obo) | [Barrio](https://open.spotify.com/album/0ltN0HsRNUxEB1OsFuiH93) | 3:05 | 2024-06-27 |  |

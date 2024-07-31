@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyczwg2TmSH.md) - [plain]
 
 > Music from and inspired by Thelma the Unicorn, now streaming on Netflix\.  Cover and curated by: Brittany Howard
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,667 likes - 21 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,684 likes - 21 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

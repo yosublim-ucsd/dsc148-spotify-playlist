@@ -2,9 +2,9 @@
 
 ### [This Is Rashid](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3v7h3h)
 
-> This is Rashid\. Todos os maiores hits em uma só playlist.
+> This is Rashid\. The essential tracks, all in one playlist.
 
-70 songs - 4 hr 53 min
+71 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Que Assim Seja](https://open.spotify.com/track/6rwAC9JAN7BMO6tLR61y9X) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Que Assim Seja](https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu) | 3:26 | 2023-09-18 |  |
 | [Quem Tem Um Amigo \(Tem Tudo\) \(Remix\) \(feat\. Zeca Pagodinho, Tokyo Ska Paradise Orchestra & Rashid\)](https://open.spotify.com/track/08WrWXRoXim0i1RkSVlpJ3) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Quem Tem Um Amigo \(Tem Tudo\)](https://open.spotify.com/album/3yCfk5tZsvi3cWfLPzsqf3) | 4:06 | 2023-09-18 |  |
 | [Quem Vem Lá?](https://open.spotify.com/track/388PWP6VLyA5UFDrSkVJl2) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [Seis Sons](https://open.spotify.com/album/5TuZ4UVa6g5ZtGBe9YOPKY) | 2:53 | 2024-06-28 | 2024-07-06 |
+| [Quero Ver Segurar](https://open.spotify.com/track/63g4tLM1priHgH8eqUJSpP) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Que Assim Seja](https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu) | 3:20 | 2024-07-31 |  |
 | [Química](https://open.spotify.com/track/5ibpnsWL2cbPHZryVdZtHF) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Crise](https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91) | 3:24 | 2023-09-18 | 2024-04-27 |
 | [Recordações](https://open.spotify.com/track/1alIVYE2bdhYwNalVu3htc) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Kamau](https://open.spotify.com/artist/4eEZCRtFHFEiAuR2wdNVYX) | [Posfácio](https://open.spotify.com/album/1c46EPnRi9wrhdUUIJTgxT) | 4:22 | 2023-09-18 |  |
 | [Ruaterapia \(feat\. Mano Brown & Max De Castro\)](https://open.spotify.com/track/2ZGZ0fvF2TmYWWxsUmxcui) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ), [Max de Castro](https://open.spotify.com/artist/2R66z213mp5GWy6iF1aqZn) | [A Coragem da Luz](https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl) | 3:31 | 2023-09-18 |  |
@@ -76,7 +77,7 @@
 | [Virando a Mesa](https://open.spotify.com/track/2utZpgJA3ajxmGpJ8TOSUR) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Daniel Cohen](https://open.spotify.com/artist/0vEWuXIn1tvEEVNTL0pgSP) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 4:21 | 2023-09-18 |  |
 | [Vão](https://open.spotify.com/track/4Jwt9IFBRD3vE0BxosMUB8) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Jota Guetto](https://open.spotify.com/artist/5ivBmxg3ntlqNqWkIuv6P2) | [Seis Sons](https://open.spotify.com/album/5TuZ4UVa6g5ZtGBe9YOPKY) | 3:31 | 2024-06-27 | 2024-07-01 |
 | [Vício](https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 3:55 | 2023-09-18 |  |
-| [¿Te Quedas Conmigo?](https://open.spotify.com/track/623XPwxBQuqKe7YPwYrQl0) | [Canal RCN](https://open.spotify.com/artist/1H4lcG48Xmqp5SmFwgwuYL), [Ailén](https://open.spotify.com/artist/6EBltB8KhOI3eluJ5pR8kM), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [ROJO CARMESÍ](https://open.spotify.com/album/5Vga0Q1mohQ81WLTaWTHQj) | 2:29 | 2024-06-25 |  |
+| [¿Te Quedas Conmigo?](https://open.spotify.com/track/623XPwxBQuqKe7YPwYrQl0) | [Canal RCN](https://open.spotify.com/artist/1H4lcG48Xmqp5SmFwgwuYL), [Ailén](https://open.spotify.com/artist/6EBltB8KhOI3eluJ5pR8kM), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [ROJO CARMESÍ](https://open.spotify.com/album/5Vga0Q1mohQ81WLTaWTHQj) | 2:29 | 2024-06-25 | 2024-07-31 |
 | [Éramos Iguais \(feat\. Daniela Araújo & Rashid\)](https://open.spotify.com/track/27YVyh5IDUSnjC23NlUfOw) | [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Boaz Novaz](https://open.spotify.com/album/1POssn3x8pJZztmDsUFXUM) | 4:27 | 2023-09-18 | 2023-11-11 |
 
 \*This playlist was first scraped on 2023-09-19. Prior content cannot be recovered.

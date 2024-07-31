@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 156850,
       "name": "1978",
       "url": "https://open.spotify.com/track/4WaJE7gOVSpnN5HSSU7b4C"
@@ -310,7 +310,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 158425,
       "name": "Air Drums",
       "url": "https://open.spotify.com/track/4a2FVBJkTspMTNM81VNByA"
@@ -400,7 +400,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 243809,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/6kjP9hwgKBzKo0psteGFDY"
@@ -818,7 +818,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 180000,
       "name": "Boiling Room",
       "url": "https://open.spotify.com/track/5wdAiwQ6QsqH6tHWcE76qM"
@@ -894,7 +894,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 174193,
       "name": "Bring It",
       "url": "https://open.spotify.com/track/47Zi8Y4YmuddsAAvrZOhSk"
@@ -934,7 +934,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 175714,
       "name": "Bumpin'",
       "url": "https://open.spotify.com/track/4cRh8GLkf85Dl8dsceZMqp"
@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 236250,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/4C87nkudWPwtorbwG9uwgq"
@@ -1486,7 +1486,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 166962,
       "name": "Crave The Bassline",
       "url": "https://open.spotify.com/track/3y3UuLjc5nTLvcBkNk47qV"
@@ -1850,7 +1850,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 229438,
       "name": "East Bounce",
       "url": "https://open.spotify.com/track/6RwZ2HhlgX1MDo3l5ek0a4"
@@ -2374,7 +2374,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 190476,
       "name": "Good And Bad",
       "url": "https://open.spotify.com/track/2NGMUyLWCB43kUlse3CSXy"
@@ -2928,7 +2928,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 184370,
       "name": "I Don't Wanna Rush",
       "url": "https://open.spotify.com/track/3cJLvOe20mubVRkWEpgN9G"
@@ -3286,7 +3286,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 193159,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/59pJM2rkgW47uV5kpyVvvw"
@@ -3697,6 +3697,24 @@
     },
     {
       "album": {
+        "name": "KMAG YOYO (& Other American Stories)",
+        "url": "https://open.spotify.com/album/1DZTkteQGTi9Ko7CwZKnWc"
+      },
+      "artists": [
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259399,
+      "name": "KMAG YOYO",
+      "url": "https://open.spotify.com/track/54BYHlZdV2QsnoPPSnAK8t"
+    },
+    {
+      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
@@ -3780,7 +3798,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 178586,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/3oxviUT5U8KqDcC91Ve5bz"
@@ -3868,7 +3886,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 195473,
       "name": "Let's Go Dancing - Matroda Remix",
       "url": "https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N"
@@ -4290,7 +4308,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 175784,
       "name": "Mentally In Miami",
       "url": "https://open.spotify.com/track/1QCgmq566LZX7sSHH7u3DU"
@@ -5326,7 +5344,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 202857,
       "name": "Rouge",
       "url": "https://open.spotify.com/track/3SYmkeHUo3ZS1YXgYzvyVi"
@@ -5708,7 +5726,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 198144,
       "name": "So Bad",
       "url": "https://open.spotify.com/track/2it0K7P3FoPI4aq2ufYO1f"
@@ -6338,7 +6356,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 178333,
       "name": "The Mindshaker",
       "url": "https://open.spotify.com/track/6fEAu7JRaeepDU0HJn0Kce"
@@ -7272,7 +7290,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 241889,
       "name": "You Don't",
       "url": "https://open.spotify.com/track/1jgWfe6EqPovDLzVX4dG9k"
@@ -7290,7 +7308,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 225120,
       "name": "You Right",
       "url": "https://open.spotify.com/track/58GOSPgDqiSblEpGD9gFda"

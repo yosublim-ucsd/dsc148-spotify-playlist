@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-510 songs - 1 day 11 hr 4 min
+511 songs - 1 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Kronetics](https://open.spotify.com/track/7ptMboU1nMdzpOE0wRMSWk) | [Joel Christian Goffin](https://open.spotify.com/artist/658h552Ad4Rs9s9jwcWVuF) | [Kronetics](https://open.spotify.com/album/0BfqkgTfwn4GV0CRJvMx7V) | 5:14 | 2020-10-20\* |  |
 | [L'etoile](https://open.spotify.com/track/3J2Z9YsMPYTH31IniFMiW9) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq), [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt) | [Du Nord](https://open.spotify.com/album/3oXN64PxXKUKYVt6elfyWp) | 3:59 | 2024-03-01 | 2024-04-19 |
 | [L'etoile](https://open.spotify.com/track/7IvdJ01TBvQHtD5inw52lG) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq), [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt) | [Du Nord](https://open.spotify.com/album/50MjjfEEI1EayrtiSIYf3y) | 3:59 | 2020-11-20 | 2022-07-28 |
+| [La Cuna del Cisne](https://open.spotify.com/track/5YTa4iuyMjso4skLWLYRe0) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV) | [Yo No Soy Marinero](https://open.spotify.com/album/7Lg3d27iQnRX3Is6yEXho5) | 2:33 | 2024-07-30 |  |
 | [Labyrinthine](https://open.spotify.com/track/78crZjUoVtj9ebTpsWuquw) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Nepenthe](https://open.spotify.com/album/1rMSF8WzsF016bhkREx45l) | 4:32 | 2021-02-06 | 2021-02-12 |
 | [Ladies and Gentlemen, Boys and Girls](https://open.spotify.com/track/05evDaMKv7HFTh5pCgQOQ1) | [Georg Holm](https://open.spotify.com/artist/4OU61rumTw5SE0j6mSbxI9), [Orri Páll Dýrason](https://open.spotify.com/artist/36klGB7wO2STxR7BVKS0z9), [Hilmar Örn Hilmarsson](https://open.spotify.com/artist/3p5cqyRrl8N8aYx2yMKBB1), [Kjartan Holm](https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo) | [Circe \(Music Composed for "The Show of Shows"\)](https://open.spotify.com/album/3IukcW0m2lrgz9dV49pxZA) | 8:05 | 2020-12-04 | 2020-12-11 |
 | [Land](https://open.spotify.com/track/7qEcI9JpmtOhs6yE2lil7a) | [Kosuke Anamizu](https://open.spotify.com/artist/5KB7zhJ6Lqyy4lKhspWe33), [Moshimoss](https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme) | [Land](https://open.spotify.com/album/2xbGlIjbjxZUmLt9ShLCh2) | 3:34 | 2024-05-31 |  |
@@ -387,7 +388,7 @@
 | [Solanales](https://open.spotify.com/track/6U0l3hk3oTtNtPwk2Ekjxl) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Solanales](https://open.spotify.com/album/4giTq8C1Ss1e9PM8k88H1I) | 5:32 | 2022-03-04 |  |
 | [Solitude I](https://open.spotify.com/track/31leo5SqxFz5BndXp3HKqw) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 3:49 | 2022-07-22 | 2023-02-18 |
 | [Solitude I](https://open.spotify.com/track/4tkzQ9Eg3OeuZuAH8O3aUl) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq) | 3:49 | 2023-02-17 | 2024-04-19 |
-| [Solitude I](https://open.spotify.com/track/3KcxIhIMJD7jrsrpczNbfU) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitude I](https://open.spotify.com/album/05wfC9H8BLS6pFtI8X0S3G) | 3:49 | 2020-10-23 |  |
+| [Solitude I](https://open.spotify.com/track/3KcxIhIMJD7jrsrpczNbfU) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitude I](https://open.spotify.com/album/05wfC9H8BLS6pFtI8X0S3G) | 3:49 | 2020-10-23 | 2024-07-31 |
 | [Solo? Repeat!](https://open.spotify.com/track/4rpuwusdTpMytfW6lbeqHe) | [Anne Müller](https://open.spotify.com/artist/5sn5Gi5tH5ozpL8C3Y1uWl) | [Heliopause](https://open.spotify.com/album/3SZT7TfzSJaIdoHI8ttOBD) | 6:20 | 2021-02-06 | 2021-02-12 |
 | [Solun](https://open.spotify.com/track/08PNlrjeBSn4gpse2bHvMa) | [Neuhaus](https://open.spotify.com/artist/4jqFsKvoRVy323hdBsyO5d) | [Solun](https://open.spotify.com/album/72QN68cWkQCVFdSzqgdvHU) | 6:08 | 2020-11-06 | 2021-01-15 |
 | [Somersault](https://open.spotify.com/track/4Tjsng3a8esls6YG4F5stt) | [Suntapes](https://open.spotify.com/artist/2KyzezGvw1FSzXXjsWOji6), [Tomas Johan Kristian](https://open.spotify.com/artist/2Qo92IgDhEwpCnPL07d2TZ) | [Somersault](https://open.spotify.com/album/63LVsprZWfyUhv7rUQE5Rw) | 2:36 | 2022-03-25 |  |

@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-355 songs - 18 hr 48 min
+356 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,8 @@
 | [Terrified](https://open.spotify.com/track/4ypvGTFFUV8yJasEl7toew) | [Nicolas Haelg](https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd) | [Terrified](https://open.spotify.com/album/56LHiKifAUCoXz8v2fWWR7) | 2:25 | 2021-10-29 | 2022-07-29 |
 | [The Best Part](https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [The Best Part](https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU) | 4:10 | 2022-05-31 |  |
 | [The Boy Is Mine](https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF) | [James Mac](https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB), [Vall](https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD), [Rosalie](https://open.spotify.com/artist/58PEgJMZGqZ5d3CHYJTGv7) | [The Boy Is Mine](https://open.spotify.com/album/3vmR5tggRYJhVhuB0j1uVc) | 3:21 | 2023-08-18 | 2024-04-19 |
-| [The Boy Is Mine](https://open.spotify.com/track/50h41j7w8keWHQfnhxZPE4) | [James Mac](https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB), [Vall](https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD), [Rosalie](https://open.spotify.com/artist/58PEgJMZGqZ5d3CHYJTGv7) | [The Boy Is Mine](https://open.spotify.com/album/30B2youGWSN86FLTcS1kre) | 3:21 | 2024-06-07 |  |
+| [The Boy Is Mine](https://open.spotify.com/track/50h41j7w8keWHQfnhxZPE4) | [James Mac](https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB), [Vall](https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD), [Rosalie](https://open.spotify.com/artist/58PEgJMZGqZ5d3CHYJTGv7) | [The Boy Is Mine](https://open.spotify.com/album/30B2youGWSN86FLTcS1kre) | 3:21 | 2024-06-07 | 2024-07-31 |
+| [The Door \- CYRIL Remix](https://open.spotify.com/track/6VD3T09spn64tjPcBih64P) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Door \(CYRIL Remix\)](https://open.spotify.com/album/0lFoxDrwrNWwtfw1KohwAN) | 3:30 | 2024-07-26 |  |
 | [The Festival Has Begun](https://open.spotify.com/track/7qZjrBnEXRA8I8NpQfqKdd) | [Edmofo](https://open.spotify.com/artist/0YFbuIzBUfAK1FqcEvxnqQ) | [The Festival Has Begun](https://open.spotify.com/album/4fpB0EwvrJtVP9MQBLRQtT) | 3:29 | 2023-01-27 | 2023-03-11 |
 | [The Future](https://open.spotify.com/track/6HXdL92qb3doVllJ5yChnd) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [The Future](https://open.spotify.com/album/6fx6KRK3aaWihej7lWLO5s) | 3:44 | 2023-01-27 | 2024-07-27 |
 | [The Girl From Ipanema](https://open.spotify.com/track/0wUcGwJ6oyVwHITvLqpEj0) | [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti), [Joel Coopa](https://open.spotify.com/artist/36Wo4JMbqaHm0wzCuDxBuD), [Chacel](https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep) | [The Girl From Ipanema](https://open.spotify.com/album/5SWdwrXdY8JeyxtnamN7mL) | 2:57 | 2022-03-25 | 2022-04-21 |

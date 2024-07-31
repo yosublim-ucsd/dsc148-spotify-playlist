@@ -3643,6 +3643,24 @@
     },
     {
       "album": {
+        "name": "Gratitudes",
+        "url": "https://open.spotify.com/album/5yAzxuffvIYzatSiyrvodj"
+      },
+      "artists": [
+        {
+          "name": "Rosie Lowe",
+          "url": "https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196873,
+      "name": "Gratitudes",
+      "url": "https://open.spotify.com/track/7t5fVlHWLM2fGM9eIICVon"
+    },
+    {
+      "album": {
         "name": "Angels & Queens (Deluxe)",
         "url": "https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2"
       },
@@ -10624,7 +10642,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 156500,
       "name": "When You're Lonely",
       "url": "https://open.spotify.com/track/0cGzG9CFE3l6HygfUzr6Uo"

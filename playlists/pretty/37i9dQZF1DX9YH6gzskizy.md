@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YH6gzskizy.md) - [plain]
 
 > You are a mood, so is this playlist\. ✨ Cover \- Zaeden
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,742 likes - 61 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,744 likes - 61 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

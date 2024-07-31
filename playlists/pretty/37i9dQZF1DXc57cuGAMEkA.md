@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。藤井風, XG, YOASOBI, MILLENNIUM PARADE and more! cover: 藤井風
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,788 likes - 79 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,806 likes - 79 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 55 | [Trust Me](https://open.spotify.com/track/6N9yWlPP4Ha96AfkXHgaqk) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Trust Me](https://open.spotify.com/album/0cCvsiXoR8TDNDdO38w05C) | 3:49 |
 | 56 | [THE FUTURE DAYBREAK \- \(映画 『仮面ライダーガッチャード ザ・フューチャー・デイブレイク』主題歌\)](https://open.spotify.com/track/7uHGpZqq9UN7g6U6lME03O) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [THE FUTURE DAYBREAK \(映画 『仮面ライダーガッチャード ザ・フューチャー・デイブレイク』主題歌\)](https://open.spotify.com/album/2pApDw9WgFXlwV7AD1qoNS) | 4:14 |
 | 57 | [クレイジー☆ビート](https://open.spotify.com/track/2clfmkpZxpWXVKNkR7QV4u) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [クレイジー☆ビート](https://open.spotify.com/album/3Xe78xYT8X6kxwYgV0jWJ3) | 3:12 |
-| 58 | [ヒトゴト](https://open.spotify.com/track/35bYDGSXXQdDO4ioaVuyx9) | [HITOGOTO](https://open.spotify.com/artist/6SVwLbFkRf9djuC309LHT3), [Kento Nakajima](https://open.spotify.com/artist/0V90rxm3LYoRcbq6i792Bt) | [ヒトゴト](https://open.spotify.com/album/1Bqq9W1v01QqxsvVvM09ff) | 2:55 |
+| 58 | [ヒトゴト](https://open.spotify.com/track/35bYDGSXXQdDO4ioaVuyx9) | [HITOGOTO](https://open.spotify.com/artist/6SVwLbFkRf9djuC309LHT3), [Kento Nakajima](https://open.spotify.com/artist/0V90rxm3LYoRcbq6i792Bt), [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [ヒトゴト](https://open.spotify.com/album/1Bqq9W1v01QqxsvVvM09ff) | 2:55 |
 | 59 | [PAROPARO G](https://open.spotify.com/track/5Ki6GiDDuFvAjvsyferQjO) | [E.V.P](https://open.spotify.com/artist/33yCAphqucbYTVBGfcJrjU), [Chinza Dopeness](https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho), [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [PAROPARO G](https://open.spotify.com/album/6bT1zDT7iBryIANoAw6cCq) | 4:03 |
 | 60 | [うなぎ浪漫](https://open.spotify.com/track/3JZhHzqSnS0T61qlyVtOnC) | [TOKAGE](https://open.spotify.com/artist/3NX2AWnLNRftExCEoBaXVB), [SOCKS](https://open.spotify.com/artist/2pJg8flIdE3z4C9mJBgRuw) | [うなぎ浪漫](https://open.spotify.com/album/6dp8HbOxNfnmMaTfI8whPU) | 3:32 |
 | 61 | [WORK OF ART \(feat\. Jaden\)](https://open.spotify.com/track/1c2qoYVi2LBQWDN2tp9v5S) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [WORK OF ART \(feat\. Jaden\)](https://open.spotify.com/album/7siF6s5KBVuJJUydAo7WgL) | 3:24 |

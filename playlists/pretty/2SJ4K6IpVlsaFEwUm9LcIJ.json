@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: july-aug 2024 (previous playlists archived on my profile)",
-  "num_followers": 20701,
+  "num_followers": 20706,
   "original_name": "living alone",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAK0oZZc6Dk0x+oSYta3lLQWKobaduc",
+  "snapshot_id": "AAAK0zIK202tTcfQb0y/DN9d1mHf42Cl",
   "tracks": [
     {
       "added_at": "2024-07-12 00:10:32",
@@ -591,6 +591,22 @@
       "duration_ms": 144275,
       "name": "Pre-munitions",
       "url": "https://open.spotify.com/track/7Bw7Dv6BCHA9O0AmzggOax"
+    },
+    {
+      "added_at": "2024-07-30 02:04:34",
+      "album": {
+        "name": "Joker Lips",
+        "url": "https://open.spotify.com/album/5J3znEDi6fLt9hRSVF8Ukc"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 181040,
+      "name": "Joker Lips",
+      "url": "https://open.spotify.com/track/6tYgLXfFUhNDe6QHZmsJzX"
     }
   ],
   "unique_name": "living alone",

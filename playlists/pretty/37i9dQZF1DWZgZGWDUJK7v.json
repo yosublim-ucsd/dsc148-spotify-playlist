@@ -1,6 +1,6 @@
 {
   "description": "Meet the popular webtoon OSTs now! (Cover: True Beauty(\uc5ec\uc2e0\uac15\ub9bc)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 90756,
+  "num_followers": 90780,
   "original_name": "K-Webtoon OSTs (\uc6f9\ud230 OSTs)",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-07-24 08:52:26",
       "album": {
-        "name": "I'm the Queen in This Life (Original Soundtrack) Part.1",
-        "url": "https://open.spotify.com/album/6J2BUKL9hLJstdpnKBwDdl"
-      },
-      "artists": [
-        {
-          "name": "LEESEO",
-          "url": "https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "MAY LILY",
-      "url": "https://open.spotify.com/track/3jFz8MinepMJRlKkW1QMnj"
-    },
-    {
-      "added_at": "2024-07-24 08:52:26",
-      "album": {
         "name": "The Moment My Heart (She is My Type\u2661 X KYUHYUN)",
         "url": "https://open.spotify.com/album/4i1sZysnsbV5bIAyALa04J"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 233040,
       "name": "The Moment My Heart (She is My Type\u2661 X KYUHYUN)",
       "url": "https://open.spotify.com/track/2wmFuAxSzNVgTSVjGAoiJ5"
+    },
+    {
+      "added_at": "2024-07-24 08:52:26",
+      "album": {
+        "name": "I'm the Queen in This Life (Original Soundtrack) Part.1",
+        "url": "https://open.spotify.com/album/6J2BUKL9hLJstdpnKBwDdl"
+      },
+      "artists": [
+        {
+          "name": "LEESEO",
+          "url": "https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "MAY LILY",
+      "url": "https://open.spotify.com/track/3jFz8MinepMJRlKkW1QMnj"
     },
     {
       "added_at": "2024-07-24 08:52:26",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-07-24 08:52:26",
       "album": {
-        "name": "How about you? (No Office Romance! X THE BOYZ) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/1xXbRj29uRvRA7iT7aKT3N"
-      },
-      "artists": [
-        {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "How about you?",
-      "url": "https://open.spotify.com/track/6bOuFd9CLbQA8IKRWwVVBP"
-    },
-    {
-      "added_at": "2024-07-24 08:52:26",
-      "album": {
         "name": "Like the Wind Didn't Blow (Original Soundtrack from the Webtoon A Not So Fairy Tale)",
         "url": "https://open.spotify.com/album/4DVZ3PnWvWRn7nJVutnFBR"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 163373,
       "name": "Like the Wind Didn\u2019t Blow",
       "url": "https://open.spotify.com/track/2pj014QfWlS46Y3E2kK5qO"
+    },
+    {
+      "added_at": "2024-07-24 08:52:26",
+      "album": {
+        "name": "How about you? (No Office Romance! X THE BOYZ) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/1xXbRj29uRvRA7iT7aKT3N"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "How about you?",
+      "url": "https://open.spotify.com/track/6bOuFd9CLbQA8IKRWwVVBP"
     },
     {
       "added_at": "2024-07-24 08:52:26",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-07-24 08:52:26",
       "album": {
+        "name": "Lee Doona Project Part 2",
+        "url": "https://open.spotify.com/album/3SbEpnysVLtpggH0EhIbw6"
+      },
+      "artists": [
+        {
+          "name": "Lee Doona",
+          "url": "https://open.spotify.com/artist/4Fe7UZzZH1SDtWLRYSAQ3n"
+        }
+      ],
+      "duration_ms": 212426,
+      "name": "Something I want to tell you only.",
+      "url": "https://open.spotify.com/track/3BUSJoHhZDqu4AynpNQ7Mx"
+    },
+    {
+      "added_at": "2024-07-24 08:52:26",
+      "album": {
         "name": "\uc774\ub7f0 \ub0b4 \ub9d8 (\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784 X HAAN & Chan)",
         "url": "https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 250211,
       "name": "A Beautiful Farewell",
       "url": "https://open.spotify.com/track/3dFiJSq3woyVfZtUoJQ9pq"
-    },
-    {
-      "added_at": "2024-07-24 08:52:26",
-      "album": {
-        "name": "Lee Doona Project Part 2",
-        "url": "https://open.spotify.com/album/3SbEpnysVLtpggH0EhIbw6"
-      },
-      "artists": [
-        {
-          "name": "Lee Doona",
-          "url": "https://open.spotify.com/artist/4Fe7UZzZH1SDtWLRYSAQ3n"
-        }
-      ],
-      "duration_ms": 212426,
-      "name": "Something I want to tell you only.",
-      "url": "https://open.spotify.com/track/3BUSJoHhZDqu4AynpNQ7Mx"
     },
     {
       "added_at": "2024-07-24 08:52:26",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-07-24 08:52:26",
       "album": {
-        "name": "First Love Story (Original Soundtrack from the Webtoon Fight For My Way)",
-        "url": "https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ"
-      },
-      "artists": [
-        {
-          "name": "Baek A Yeon",
-          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
-        }
-      ],
-      "duration_ms": 207773,
-      "name": "First Love Story",
-      "url": "https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY"
-    },
-    {
-      "added_at": "2024-07-24 08:52:26",
-      "album": {
         "name": "I'M BACK (Killer Peter X BLAS\u00c9)[Original Webtoon Soundtrack]",
         "url": "https://open.spotify.com/album/3welRhhSY9rNNa9PPSqP4h"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 176711,
       "name": "I'M BACK",
       "url": "https://open.spotify.com/track/6sy2Gh0U6gUQ4jYG3ydwvd"
+    },
+    {
+      "added_at": "2024-07-24 08:52:26",
+      "album": {
+        "name": "First Love Story (Original Soundtrack from the Webtoon Fight For My Way)",
+        "url": "https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        }
+      ],
+      "duration_ms": 207773,
+      "name": "First Love Story",
+      "url": "https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY"
     },
     {
       "added_at": "2024-07-24 08:52:26",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-07-24 08:52:26",
       "album": {
-        "name": "Living as A Villain OST Part.18 (Soundtrack)",
-        "url": "https://open.spotify.com/album/7HXjoRtOSdGEOeKf1u6soW"
-      },
-      "artists": [
-        {
-          "name": "Dearming",
-          "url": "https://open.spotify.com/artist/1Zs3RqrUagA8l69VbL5aJx"
-        }
-      ],
-      "duration_ms": 200409,
-      "name": "You didn't love me from the beginning",
-      "url": "https://open.spotify.com/track/0gjJEpjTCU5jZeqCwduQD4"
-    },
-    {
-      "added_at": "2024-07-24 08:52:26",
-      "album": {
         "name": "\uc8fd\uc774\uace0 \uc2f6\uc740 \ub098\uc758 \uc804\ubcf5 \uc655\uc790\ub2d8 OST Part.13 (Soundtrack)",
         "url": "https://open.spotify.com/album/4R2AwCEtMKFcx479JbgGPb"
       },
@@ -1047,34 +1031,18 @@
     {
       "added_at": "2024-07-24 08:52:26",
       "album": {
-        "name": "\ubc84\ub824\uc9c4 \uc655\ub140\ub294 \ubc18\uc5ed\ud55c\ub2e4(Original Webtoon Soundtrack) Pt.28",
-        "url": "https://open.spotify.com/album/0ASiUU8wKeZDaZ1N2INV1F"
+        "name": "Living as A Villain OST Part.18 (Soundtrack)",
+        "url": "https://open.spotify.com/album/7HXjoRtOSdGEOeKf1u6soW"
       },
       "artists": [
         {
-          "name": "\uc804\ud558\uc5f0",
-          "url": "https://open.spotify.com/artist/4pJfr9tmGQ8VU6AaLZ2sNp"
+          "name": "Dearming",
+          "url": "https://open.spotify.com/artist/1Zs3RqrUagA8l69VbL5aJx"
         }
       ],
-      "duration_ms": 257428,
-      "name": "\uc5f0",
-      "url": "https://open.spotify.com/track/6UQUim9WrXBBlBlZODLA0t"
-    },
-    {
-      "added_at": "2024-07-24 08:52:26",
-      "album": {
-        "name": "\ubc14\uc774\ud2b8\ubbf8 (Original Webtoon Soundtrack) Pt.20",
-        "url": "https://open.spotify.com/album/3skFiykxDtnPExs0m25jGi"
-      },
-      "artists": [
-        {
-          "name": "05",
-          "url": "https://open.spotify.com/artist/4vItQUuV7osVvOHUARHBnS"
-        }
-      ],
-      "duration_ms": 242186,
-      "name": "\ubaab",
-      "url": "https://open.spotify.com/track/6lArlDCsWvxFjBK4UyxZi1"
+      "duration_ms": 200409,
+      "name": "You didn't love me from the beginning",
+      "url": "https://open.spotify.com/track/0gjJEpjTCU5jZeqCwduQD4"
     },
     {
       "added_at": "2024-07-24 08:52:26",
@@ -1131,6 +1099,38 @@
       "duration_ms": 196210,
       "name": "Only if I have you",
       "url": "https://open.spotify.com/track/3A4Sa8vjPGVpG0YHSCrFqq"
+    },
+    {
+      "added_at": "2024-07-24 08:52:26",
+      "album": {
+        "name": "\ubc84\ub824\uc9c4 \uc655\ub140\ub294 \ubc18\uc5ed\ud55c\ub2e4(Original Webtoon Soundtrack) Pt.28",
+        "url": "https://open.spotify.com/album/0ASiUU8wKeZDaZ1N2INV1F"
+      },
+      "artists": [
+        {
+          "name": "\uc804\ud558\uc5f0",
+          "url": "https://open.spotify.com/artist/4pJfr9tmGQ8VU6AaLZ2sNp"
+        }
+      ],
+      "duration_ms": 257428,
+      "name": "\uc5f0",
+      "url": "https://open.spotify.com/track/6UQUim9WrXBBlBlZODLA0t"
+    },
+    {
+      "added_at": "2024-07-24 08:52:26",
+      "album": {
+        "name": "\ubc14\uc774\ud2b8\ubbf8 (Original Webtoon Soundtrack) Pt.20",
+        "url": "https://open.spotify.com/album/3skFiykxDtnPExs0m25jGi"
+      },
+      "artists": [
+        {
+          "name": "05",
+          "url": "https://open.spotify.com/artist/4vItQUuV7osVvOHUARHBnS"
+        }
+      ],
+      "duration_ms": 242186,
+      "name": "\ubaab",
+      "url": "https://open.spotify.com/track/6lArlDCsWvxFjBK4UyxZi1"
     },
     {
       "added_at": "2024-07-24 08:52:26",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-07-24 08:52:26",
       "album": {
-        "name": "Yeolguk Scandal (Original Soundtrack), Part. 1",
-        "url": "https://open.spotify.com/album/5YoeNDokyfGSGFwvjTbEPj"
-      },
-      "artists": [
-        {
-          "name": "PARK MIN HYE",
-          "url": "https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ"
-        }
-      ],
-      "duration_ms": 250653,
-      "name": "Empty Spot",
-      "url": "https://open.spotify.com/track/3iFZyOkHyT7pMNJ6y4u1Z8"
-    },
-    {
-      "added_at": "2024-07-24 08:52:26",
-      "album": {
         "name": "Miss you.. want to caress you (Something Between Us X Monday Kiz)",
         "url": "https://open.spotify.com/album/09KjzzpY8alpaYvkzI4fxX"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 242573,
       "name": "Miss you.. want to caress you (Something Between Us X Monday Kiz)",
       "url": "https://open.spotify.com/track/0hItNTeDE4VYgm8lxxzlir"
+    },
+    {
+      "added_at": "2024-07-24 08:52:26",
+      "album": {
+        "name": "Yeolguk Scandal (Original Soundtrack), Part. 1",
+        "url": "https://open.spotify.com/album/5YoeNDokyfGSGFwvjTbEPj"
+      },
+      "artists": [
+        {
+          "name": "PARK MIN HYE",
+          "url": "https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ"
+        }
+      ],
+      "duration_ms": 250653,
+      "name": "Empty Spot",
+      "url": "https://open.spotify.com/track/3iFZyOkHyT7pMNJ6y4u1Z8"
     },
     {
       "added_at": "2024-07-24 08:52:26",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-07-24 08:52:26",
       "album": {
-        "name": "Dr. Choi Ki Seok (Original Webtoon Soundtrack) Pt.4",
-        "url": "https://open.spotify.com/album/0nmZwQAXIexeYz0FLNNZ7Q"
-      },
-      "artists": [
-        {
-          "name": "Mackelli",
-          "url": "https://open.spotify.com/artist/3U1caC0cdwaoCO94Kj38C7"
-        }
-      ],
-      "duration_ms": 228333,
-      "name": "About time",
-      "url": "https://open.spotify.com/track/640mnKfbSWaw7ZVHtqW5qT"
-    },
-    {
-      "added_at": "2024-07-24 08:52:26",
-      "album": {
         "name": "\uc0ac\ub791\ub3c4 \uc5c6\uc774 \uacb0\ud63c OST Part.9 (Soundtrack)",
         "url": "https://open.spotify.com/album/7yoWIYagwoss6PRdFqLCSj"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 195351,
       "name": "You let me live as myself",
       "url": "https://open.spotify.com/track/5FNR1Ly5BCFQddWcth5RzP"
+    },
+    {
+      "added_at": "2024-07-24 08:52:26",
+      "album": {
+        "name": "Dr. Choi Ki Seok (Original Webtoon Soundtrack) Pt.4",
+        "url": "https://open.spotify.com/album/0nmZwQAXIexeYz0FLNNZ7Q"
+      },
+      "artists": [
+        {
+          "name": "Mackelli",
+          "url": "https://open.spotify.com/artist/3U1caC0cdwaoCO94Kj38C7"
+        }
+      ],
+      "duration_ms": 228333,
+      "name": "About time",
+      "url": "https://open.spotify.com/track/640mnKfbSWaw7ZVHtqW5qT"
     },
     {
       "added_at": "2024-07-24 08:52:26",

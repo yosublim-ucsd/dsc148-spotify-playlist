@@ -4,7 +4,7 @@
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 
-387 songs - 19 hr 59 min
+389 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Brown 50 Hz](https://open.spotify.com/track/3ez3vUUPb1y7MZDiGWzUps) | [Spectral Noise](https://open.spotify.com/artist/1p8WCbswSlqh1i4IZYOdzk) | [Waves Of Brown Noise](https://open.spotify.com/album/0LefnmOtTYfEOBwJXlE1mk) | 3:43 | 2022-01-21 |  |
 | [Brown Aeroplane Noise](https://open.spotify.com/track/0FNWFA80A3IH9V6N3FQocG) | [Fluffy Duffy](https://open.spotify.com/artist/5Zar2ecaQrP2jeYjnjNk9p) | [Brown Aeroplane Noise](https://open.spotify.com/album/5wIZf8Xl04XQkUc7AWmx9u) | 2:50 | 2022-10-26 |  |
 | [Brown Bear Snooze](https://open.spotify.com/track/2lWoOGFVUdW85qAKJufXmJ) | [Noyze Freq](https://open.spotify.com/artist/7jcF6NyCPOiSFrDsiBBPWl) | [Brown Bear Snooze](https://open.spotify.com/album/57Q1VGpmkKLG8K6IajVSYK) | 5:27 | 2024-07-26 |  |
-| [Brown Bliss](https://open.spotify.com/track/7uRbLcmwaIdmbBKGn39q28) | [Pointillism](https://open.spotify.com/artist/6JirfCD0iO9srNDD1PEuyZ) | [Brown Noise Waves](https://open.spotify.com/album/5Jpzfi4aOGwQyvfkhuUkFU) | 2:38 | 2024-07-26 |  |
+| [Brown Bliss](https://open.spotify.com/track/7uRbLcmwaIdmbBKGn39q28) | [Pointillism](https://open.spotify.com/artist/6JirfCD0iO9srNDD1PEuyZ) | [Brown Noise Waves](https://open.spotify.com/album/5Jpzfi4aOGwQyvfkhuUkFU) | 2:38 | 2024-07-26 | 2024-07-31 |
 | [Brown Bliss 190 Hz](https://open.spotify.com/track/1ziJYQN5A3QNvkAhWw31Do) | [Ambient Newton](https://open.spotify.com/artist/6TalusfpNttE4ezxrf9VeF) | [Brown Bliss](https://open.spotify.com/album/1SO6AHP2ZWkkfvxuEoDT78) | 3:01 | 2022-12-16 |  |
 | [Brown Bliss 250 Hz Q 1 \- Seamless](https://open.spotify.com/track/1i92x6LMGFvTvtqGWLBqw4) | [Mentatranque](https://open.spotify.com/artist/3bw6drBJri5MxagDKwjRr7) | [Brown Bliss](https://open.spotify.com/album/6eXlffD6lBYQwW2nvWL5xq) | 2:57 | 2022-10-26 |  |
 | [Brown Cave Noise 500 hz](https://open.spotify.com/track/4pG9fNVZkna57sxfjsQ4sz) | [Dr\. Dreammaker](https://open.spotify.com/artist/761jLrJ3YSvCWz7F0NPZJY) | [Brown Noise Baby Sleep](https://open.spotify.com/album/6sceELYDd1Snkp6VG9hhY9) | 3:10 | 2022-06-14 | 2022-12-17 |
@@ -296,7 +296,9 @@
 | [Meditation Hum Noise](https://open.spotify.com/track/2HXHPCsC9J7Y7bviP23qfm) | [Above Cloud 9](https://open.spotify.com/artist/52LnYKZEJPQhT1ePuMVxnb) | [Noise Meditations](https://open.spotify.com/album/5yeKP9HLiFEzGPDVEjfTJB) | 3:12 | 2022-01-07 | 2022-12-17 |
 | [Meditative Brown Noise](https://open.spotify.com/track/1AmRa0N5eKc7OLsam5GOdb) | [Noise Eternity](https://open.spotify.com/artist/0BMo2rAO5oSO9aSnjumKOD) | [Tranquil Brown Noise](https://open.spotify.com/album/0VSQtAxsuUSEKmIfQnPhbD) | 2:54 | 2023-10-26 |  |
 | [Meditative Noise](https://open.spotify.com/track/7xXP9ysqubm7UfxmZfv63x) | [Focus Frequency](https://open.spotify.com/artist/7M7Z5YhclUy7AjsdZEN8X4) | [Meditative Noise](https://open.spotify.com/album/2gc9kWLQhE5kbxZFBNnoEM) | 2:00 | 2022-01-07 | 2022-07-30 |
+| [Mellow Brown Noise](https://open.spotify.com/track/1FVOpQvNnXtEn4fs7jzjav) | [The SubOceaners](https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R) | [Mellow Brown Noise](https://open.spotify.com/album/4PxbdCWxg4EFZqgf8Qxlfv) | 4:45 | 2024-07-26 |  |
 | [Mellow Brown Noise Mind](https://open.spotify.com/track/7nbgSm2S5M9w5cROSckTmM) | [The Tone\-Gens](https://open.spotify.com/artist/3lda2alb3vN921wjgmWhsq) | [Mellow Brown Noise Mind](https://open.spotify.com/album/2uTSZ47ybAkM5m5ItI8bEk) | 4:53 | 2024-01-10 |  |
+| [Melodic Brown Noise for Relaxation](https://open.spotify.com/track/2qwWvEcV1b6ymvI8Z8q1h8) | [Power of Noise](https://open.spotify.com/artist/3Alz3IxsrOfvx4mpnJ8dLl) | [Melodic Brown Noise for Relaxation](https://open.spotify.com/album/10zfbv4ckTY4pcNXGIPbjI) | 2:58 | 2024-07-26 |  |
 | [Mindful Brown Noise](https://open.spotify.com/track/2Bfw6lDeURvYO6qDhPlzKD) | [High Above The Clouds](https://open.spotify.com/artist/0TGwwqBPOAEsrEQKOT2FVY) | [Mindful Brown Noise](https://open.spotify.com/album/2iMT6dvSyaPApqE6WdCurr) | 4:23 | 2024-07-26 |  |
 | [Mother Nature Brown Noise](https://open.spotify.com/track/257E4a5tb1Fs63wB94rl5K) | [Andiman](https://open.spotify.com/artist/1eDXoT9A8y5E9xIDrHV4yH) | [Baby Sleep Brown Noise](https://open.spotify.com/album/1X1p7zdya8kn57EXdwkd25) | 2:17 | 2022-12-16 |  |
 | [Mother Nature Sings The Brown Noise](https://open.spotify.com/track/1vAFKdX7G6lRDERa1Me3a4) | [Breez Bing](https://open.spotify.com/artist/6etNuBwGVHTfpyZmaoZHFH) | [The Brown Noise Lullaby](https://open.spotify.com/album/0JvSaEWuFbUL6dFlT7JtjZ) | 2:24 | 2022-10-26 |  |
@@ -336,7 +338,7 @@
 | [Sandman's Brown Noise](https://open.spotify.com/track/0LV04oOWUzFDsiH5KM1c79) | [Marion Marrón](https://open.spotify.com/artist/1vqu8syPI7SLsn6bJasrbO) | [Brown For Insomniacs](https://open.spotify.com/album/0qIRn3o3TwTFaekTi3EL2Z) | 3:21 | 2022-12-16 |  |
 | [Sands \(Noise\)](https://open.spotify.com/track/1MmbW93FfYeMBcWp8eBkBy) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Brown Noise Hz](https://open.spotify.com/album/5Eh7GZpQT9dfjyMz4NUdvk) | 3:18 | 2022-09-08 |  |
 | [Serene Brown Noise](https://open.spotify.com/track/6OHrJYCOYPR1PgISZvXOtK) | [Binaural Feels](https://open.spotify.com/artist/2bKTmGzvL5O7dxNlapbAoQ) | [Sounds of Brown](https://open.spotify.com/album/5TVRsAW8oly4Laks8kyvcc) | 2:57 | 2024-07-26 | 2024-07-30 |
-| [Serene Brown Noise](https://open.spotify.com/track/0jEUCSQCeZ4Mexcg4pZtdi) | [Noise Advisor](https://open.spotify.com/artist/28Xwzrz7nVTqirstVfbxF1) | [Serene Brown Noise](https://open.spotify.com/album/1LtpxFvsxgvd3kOUkUyjrn) | 2:32 | 2024-07-26 |  |
+| [Serene Brown Noise](https://open.spotify.com/track/0jEUCSQCeZ4Mexcg4pZtdi) | [Noise Advisor](https://open.spotify.com/artist/28Xwzrz7nVTqirstVfbxF1) | [Serene Brown Noise](https://open.spotify.com/album/1LtpxFvsxgvd3kOUkUyjrn) | 2:32 | 2024-07-26 | 2024-07-31 |
 | [Sleep Ambient Brown Noise](https://open.spotify.com/track/6r7YXtEES9ljlIVe7yM8cY) | [Arx](https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI) | [Sleep Ambient Brown Noise](https://open.spotify.com/album/5rzrTfIsPGRKhbABABV9kT) | 2:44 | 2022-07-29 | 2023-10-27 |
 | [Sleep Better Brown Noise](https://open.spotify.com/track/08IV7uYBSSj1gauyO1Agvl) | [The Brownian Sleepers](https://open.spotify.com/artist/0knYqGnaAzMnPYgvzubyNN) | [Sleep Better Brown Noise](https://open.spotify.com/album/7fchdO4BkCHIpCbM15VNfX) | 4:43 | 2024-07-26 |  |
 | [Sleep Noise \(574hz, 1\-pole, loopable\)](https://open.spotify.com/track/0AIorzspateLHJQsc0CZzg) | [Ali Noise](https://open.spotify.com/artist/51qGEABC0Z9GNKIzgELIji) | [Pink Dreams](https://open.spotify.com/album/1i1ztj2IlhIQncvGLT96Fc) | 2:10 | 2022-01-07 | 2022-12-17 |

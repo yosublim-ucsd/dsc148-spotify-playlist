@@ -1,6 +1,6 @@
 {
   "description": "Ruhunu dinlendirece\u011fin bu kutsal ayda yolculu\u011funa e\u015flik edecek ney ezgileri. G\u00f6rsel: Sultanahmet Camii",
-  "num_followers": 11783,
+  "num_followers": 11781,
   "original_name": "Ramazan",
   "owner": {
     "name": "Spotify",
@@ -183,66 +183,22 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
-        "name": "Yaz\u0131 Tura (Orijinal Film M\u00fczikleri)",
-        "url": "https://open.spotify.com/album/2YogtOfOlZxWYjzxlV9K8Z"
+        "name": "Mevlana Mevlevi (Turkish Mysticism Sounds)",
+        "url": "https://open.spotify.com/album/5RTvwAV001kuyu3Bs7pMW2"
       },
       "artists": [
         {
-          "name": "Erkan O\u011fur",
-          "url": "https://open.spotify.com/artist/7HIccJjwPhWkLVKu0gGJgB"
-        }
-      ],
-      "duration_ms": 112105,
-      "name": "Tekbir",
-      "url": "https://open.spotify.com/track/0AkMJVSyIWegyBgUAC9zfI"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
-        "name": "Mektup",
-        "url": "https://open.spotify.com/album/4QucsOQHLZ44FXNvsQKU0d"
-      },
-      "artists": [
+          "name": "Kaz\u0131m Girit",
+          "url": "https://open.spotify.com/artist/0VdsemSaQ4B9K4Hbhwc519"
+        },
         {
-          "name": "Yans\u0131malar",
-          "url": "https://open.spotify.com/artist/4jsnmssl9zb8t0liXybjYD"
+          "name": "Murat Da\u011fl\u0131",
+          "url": "https://open.spotify.com/artist/5597pcDzVHJa1wUmVt6Vtr"
         }
       ],
-      "duration_ms": 415658,
-      "name": "Bahar",
-      "url": "https://open.spotify.com/track/7FUtGyiSNK2WNNPeWITnv2"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
-        "name": "The Nay 2",
-        "url": "https://open.spotify.com/album/4PSqBhWXCXztSv6ByTI7Q2"
-      },
-      "artists": [
-        {
-          "name": "Yunus Emre",
-          "url": "https://open.spotify.com/artist/7CVv3iuSoKUaEwbMF452rZ"
-        }
-      ],
-      "duration_ms": 138360,
-      "name": "Ben Y\u00fcr\u00fcr\u00fcm",
-      "url": "https://open.spotify.com/track/0BmoZp6aDQOak3MKe9Ufy1"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
-        "name": "Turkey: The Turkish Ney",
-        "url": "https://open.spotify.com/album/5V1cn21rjWnC8kn3YYB6ci"
-      },
-      "artists": [
-        {
-          "name": "Kudsi Erguner",
-          "url": "https://open.spotify.com/artist/5BlN5l4Xh3Hsbj91NyP9lI"
-        }
-      ],
-      "duration_ms": 445040,
-      "name": "Makam Ferahfeza: Pesrev",
-      "url": "https://open.spotify.com/track/3xYMouSka21K56BmzRUOpf"
+      "duration_ms": 219898,
+      "name": "Huzur",
+      "url": "https://open.spotify.com/track/0KeejjurbY9OjXu8espe8s"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -267,22 +223,66 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
-        "name": "Mevlana Mevlevi (Turkish Mysticism Sounds)",
-        "url": "https://open.spotify.com/album/5RTvwAV001kuyu3Bs7pMW2"
+        "name": "The Nay 2",
+        "url": "https://open.spotify.com/album/4PSqBhWXCXztSv6ByTI7Q2"
       },
       "artists": [
         {
-          "name": "Kaz\u0131m Girit",
-          "url": "https://open.spotify.com/artist/0VdsemSaQ4B9K4Hbhwc519"
-        },
-        {
-          "name": "Murat Da\u011fl\u0131",
-          "url": "https://open.spotify.com/artist/5597pcDzVHJa1wUmVt6Vtr"
+          "name": "Yunus Emre",
+          "url": "https://open.spotify.com/artist/7CVv3iuSoKUaEwbMF452rZ"
         }
       ],
-      "duration_ms": 219898,
-      "name": "Huzur",
-      "url": "https://open.spotify.com/track/0KeejjurbY9OjXu8espe8s"
+      "duration_ms": 138360,
+      "name": "Ben Y\u00fcr\u00fcr\u00fcm",
+      "url": "https://open.spotify.com/track/0BmoZp6aDQOak3MKe9Ufy1"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
+        "name": "Yaz\u0131 Tura (Orijinal Film M\u00fczikleri)",
+        "url": "https://open.spotify.com/album/2YogtOfOlZxWYjzxlV9K8Z"
+      },
+      "artists": [
+        {
+          "name": "Erkan O\u011fur",
+          "url": "https://open.spotify.com/artist/7HIccJjwPhWkLVKu0gGJgB"
+        }
+      ],
+      "duration_ms": 112105,
+      "name": "Tekbir",
+      "url": "https://open.spotify.com/track/0AkMJVSyIWegyBgUAC9zfI"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
+        "name": "Turkey: The Turkish Ney",
+        "url": "https://open.spotify.com/album/5V1cn21rjWnC8kn3YYB6ci"
+      },
+      "artists": [
+        {
+          "name": "Kudsi Erguner",
+          "url": "https://open.spotify.com/artist/5BlN5l4Xh3Hsbj91NyP9lI"
+        }
+      ],
+      "duration_ms": 445040,
+      "name": "Makam Ferahfeza: Pesrev",
+      "url": "https://open.spotify.com/track/3xYMouSka21K56BmzRUOpf"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
+        "name": "Mektup",
+        "url": "https://open.spotify.com/album/4QucsOQHLZ44FXNvsQKU0d"
+      },
+      "artists": [
+        {
+          "name": "Yans\u0131malar",
+          "url": "https://open.spotify.com/artist/4jsnmssl9zb8t0liXybjYD"
+        }
+      ],
+      "duration_ms": 415658,
+      "name": "Bahar",
+      "url": "https://open.spotify.com/track/7FUtGyiSNK2WNNPeWITnv2"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -319,6 +319,26 @@
       "duration_ms": 111853,
       "name": "Huzurun Yolu",
       "url": "https://open.spotify.com/track/2uUqKI98yYHo4NxxiCYqSX"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
+        "name": "Mevlana Mevlevi (Turkish Mysticism Sounds)",
+        "url": "https://open.spotify.com/album/5RTvwAV001kuyu3Bs7pMW2"
+      },
+      "artists": [
+        {
+          "name": "Kaz\u0131m Girit",
+          "url": "https://open.spotify.com/artist/0VdsemSaQ4B9K4Hbhwc519"
+        },
+        {
+          "name": "Murat Da\u011fl\u0131",
+          "url": "https://open.spotify.com/artist/5597pcDzVHJa1wUmVt6Vtr"
+        }
+      ],
+      "duration_ms": 269871,
+      "name": "Hakikat",
+      "url": "https://open.spotify.com/track/12Uxmwn0kopbL8ejceA5sz"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -371,22 +391,6 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
-        "name": "Turkey: The Turkish Ney",
-        "url": "https://open.spotify.com/album/5V1cn21rjWnC8kn3YYB6ci"
-      },
-      "artists": [
-        {
-          "name": "Kudsi Erguner",
-          "url": "https://open.spotify.com/artist/5BlN5l4Xh3Hsbj91NyP9lI"
-        }
-      ],
-      "duration_ms": 339666,
-      "name": "Makam Ferahfeza: Taksim",
-      "url": "https://open.spotify.com/track/7CNb4mtt0JsryOeMkKr3MY"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
         "name": "Sufi, Vol. 4 (Ney & Bendir)",
         "url": "https://open.spotify.com/album/1VBBwn33WFkN8YnRqijXVm"
       },
@@ -423,6 +427,22 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
+        "name": "Turkey: The Turkish Ney",
+        "url": "https://open.spotify.com/album/5V1cn21rjWnC8kn3YYB6ci"
+      },
+      "artists": [
+        {
+          "name": "Kudsi Erguner",
+          "url": "https://open.spotify.com/artist/5BlN5l4Xh3Hsbj91NyP9lI"
+        }
+      ],
+      "duration_ms": 339666,
+      "name": "Makam Ferahfeza: Taksim",
+      "url": "https://open.spotify.com/track/7CNb4mtt0JsryOeMkKr3MY"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
         "name": "Neyzen",
         "url": "https://open.spotify.com/album/2DkjUP7kajtpgvsLvyRx0L"
       },
@@ -439,22 +459,18 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
-        "name": "Mevlana Mevlevi (Turkish Mysticism Sounds)",
-        "url": "https://open.spotify.com/album/5RTvwAV001kuyu3Bs7pMW2"
+        "name": "Ney Dinletisi, Vol. 1",
+        "url": "https://open.spotify.com/album/5156CHi13Q9MKiuE3IRTRz"
       },
       "artists": [
         {
-          "name": "Kaz\u0131m Girit",
-          "url": "https://open.spotify.com/artist/0VdsemSaQ4B9K4Hbhwc519"
-        },
-        {
-          "name": "Murat Da\u011fl\u0131",
-          "url": "https://open.spotify.com/artist/5597pcDzVHJa1wUmVt6Vtr"
+          "name": "Kervan City",
+          "url": "https://open.spotify.com/artist/0e5fIkfRh7wcDxKnQOaaIS"
         }
       ],
-      "duration_ms": 269871,
-      "name": "Hakikat",
-      "url": "https://open.spotify.com/track/12Uxmwn0kopbL8ejceA5sz"
+      "duration_ms": 199818,
+      "name": "Uyan Ey G\u00f6zlerim",
+      "url": "https://open.spotify.com/track/0iZ4IXNuFeQM5j7ZJp0div"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -479,38 +495,6 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
-        "name": "A\u015fk ile Me\u015fk / Makamlarla \u0130l\u00e2hiler 2",
-        "url": "https://open.spotify.com/album/6mU5Yg4tTyxxPD936N6ng5"
-      },
-      "artists": [
-        {
-          "name": "Ubeydullah Sezikli",
-          "url": "https://open.spotify.com/artist/1xiy8XwCNzhZt5hoBKpD9N"
-        }
-      ],
-      "duration_ms": 104880,
-      "name": "Acema\u015firan Pe\u015frev",
-      "url": "https://open.spotify.com/track/4rr1uAG5Q1z6BFm1e2lsnZ"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
-        "name": "Ney Dinletisi, Vol. 1",
-        "url": "https://open.spotify.com/album/5156CHi13Q9MKiuE3IRTRz"
-      },
-      "artists": [
-        {
-          "name": "Kervan City",
-          "url": "https://open.spotify.com/artist/0e5fIkfRh7wcDxKnQOaaIS"
-        }
-      ],
-      "duration_ms": 199818,
-      "name": "Uyan Ey G\u00f6zlerim",
-      "url": "https://open.spotify.com/track/0iZ4IXNuFeQM5j7ZJp0div"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
         "name": "S\u00fckr\u00fc Tunar - T\u00fcrk Musikisinin Unutulmayan Bestecileri 10 (The Unforgettable Composers Of Turkish Music)",
         "url": "https://open.spotify.com/album/7i3TgRfo8b9Cyp0tTNRBdi"
       },
@@ -527,6 +511,22 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
+        "name": "A\u015fk ile Me\u015fk / Makamlarla \u0130l\u00e2hiler 2",
+        "url": "https://open.spotify.com/album/6mU5Yg4tTyxxPD936N6ng5"
+      },
+      "artists": [
+        {
+          "name": "Ubeydullah Sezikli",
+          "url": "https://open.spotify.com/artist/1xiy8XwCNzhZt5hoBKpD9N"
+        }
+      ],
+      "duration_ms": 104880,
+      "name": "Acema\u015firan Pe\u015frev",
+      "url": "https://open.spotify.com/track/4rr1uAG5Q1z6BFm1e2lsnZ"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
         "name": "Breath of the Sufi",
         "url": "https://open.spotify.com/album/43jU5mw2LhMafOSAgp7GK3"
       },
@@ -539,22 +539,6 @@
       "duration_ms": 173531,
       "name": "Voice of the Sufi",
       "url": "https://open.spotify.com/track/10oERYuAOrmGcDAWflcW9F"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
-        "name": "Neyzen",
-        "url": "https://open.spotify.com/album/2DkjUP7kajtpgvsLvyRx0L"
-      },
-      "artists": [
-        {
-          "name": "Volkan Ka\u00e7ak",
-          "url": "https://open.spotify.com/artist/2HkYkLLd6ks449Rbvp2Hip"
-        }
-      ],
-      "duration_ms": 154853,
-      "name": "Bestenigar Taksim",
-      "url": "https://open.spotify.com/track/28RLD9ttPkH6IqxwDoUNJa"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -615,6 +599,46 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
+        "name": "Neyzen",
+        "url": "https://open.spotify.com/album/2DkjUP7kajtpgvsLvyRx0L"
+      },
+      "artists": [
+        {
+          "name": "Volkan Ka\u00e7ak",
+          "url": "https://open.spotify.com/artist/2HkYkLLd6ks449Rbvp2Hip"
+        }
+      ],
+      "duration_ms": 154853,
+      "name": "Bestenigar Taksim",
+      "url": "https://open.spotify.com/track/28RLD9ttPkH6IqxwDoUNJa"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
+        "name": "Ney Se\u00e7kileri (Instrumental)",
+        "url": "https://open.spotify.com/album/17fgRWwCdT5ylJpqCBph2t"
+      },
+      "artists": [
+        {
+          "name": "S\u00fcleyman Erguner",
+          "url": "https://open.spotify.com/artist/0HpFsCxk1wv6CuW1Buql19"
+        },
+        {
+          "name": "Ihsan \u00d6zgen",
+          "url": "https://open.spotify.com/artist/41JqJkjqMDOAwE6YwTmgIM"
+        },
+        {
+          "name": "Koray Safkan",
+          "url": "https://open.spotify.com/artist/6hhKItEh23qiyaPhIcZ88b"
+        }
+      ],
+      "duration_ms": 435066,
+      "name": "\u015eevkefza Hicaz Pe\u015frev",
+      "url": "https://open.spotify.com/track/4zgWTJaxVDQRhCpxfeoJQo"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
         "name": "Ney Taksimleri",
         "url": "https://open.spotify.com/album/1PtQTnNQIvBjNSicBkTFmi"
       },
@@ -651,50 +675,6 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
-        "name": "Sufi Ney Box Set, Vol. 2 (4 Alb\u00fcm 49 Eser)",
-        "url": "https://open.spotify.com/album/1rPOKsT7W6Yw0H3l7aeTWP"
-      },
-      "artists": [
-        {
-          "name": "\u0130rfan Bulut",
-          "url": "https://open.spotify.com/artist/6cgzItip0Ka3LS1AycUk63"
-        },
-        {
-          "name": "Murat Da\u011fl\u0131",
-          "url": "https://open.spotify.com/artist/5597pcDzVHJa1wUmVt6Vtr"
-        }
-      ],
-      "duration_ms": 308140,
-      "name": "Duru - H\u00fcseyni Taksim",
-      "url": "https://open.spotify.com/track/0m08kpbdGrxj1YuwZtVAJb"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
-        "name": "Ney Se\u00e7kileri (Instrumental)",
-        "url": "https://open.spotify.com/album/17fgRWwCdT5ylJpqCBph2t"
-      },
-      "artists": [
-        {
-          "name": "S\u00fcleyman Erguner",
-          "url": "https://open.spotify.com/artist/0HpFsCxk1wv6CuW1Buql19"
-        },
-        {
-          "name": "Ihsan \u00d6zgen",
-          "url": "https://open.spotify.com/artist/41JqJkjqMDOAwE6YwTmgIM"
-        },
-        {
-          "name": "Koray Safkan",
-          "url": "https://open.spotify.com/artist/6hhKItEh23qiyaPhIcZ88b"
-        }
-      ],
-      "duration_ms": 435066,
-      "name": "\u015eevkefza Hicaz Pe\u015frev",
-      "url": "https://open.spotify.com/track/4zgWTJaxVDQRhCpxfeoJQo"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
         "name": "Ney Taksimleri / Dinle Ney'den (Enstrumental, Vol. 1)",
         "url": "https://open.spotify.com/album/1Ek9svPcKKmyVARdbjas6N"
       },
@@ -711,26 +691,6 @@
       "duration_ms": 263146,
       "name": "U\u015f\u015fak \u0130lahiler",
       "url": "https://open.spotify.com/track/1FEOekvfha7BrAq3xvTlzW"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
-        "name": "Sufi Ney Box Set, Vol. 2 (4 Alb\u00fcm 49 Eser)",
-        "url": "https://open.spotify.com/album/1rPOKsT7W6Yw0H3l7aeTWP"
-      },
-      "artists": [
-        {
-          "name": "Arzu Kopuz \u00c7elik",
-          "url": "https://open.spotify.com/artist/2hzE5PRtNqpb6HTjy9aaSp"
-        },
-        {
-          "name": "Pelin Ba\u015far",
-          "url": "https://open.spotify.com/artist/10vB42Xbs9WZ5fNx1dfy41"
-        }
-      ],
-      "duration_ms": 241520,
-      "name": "Uyan Ey G\u00f6zlerim",
-      "url": "https://open.spotify.com/track/1FenJWsJmMlvaHtfJ6OH2y"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -755,6 +715,62 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
+        "name": "Sufi Ney Box Set, Vol. 2 (4 Alb\u00fcm 49 Eser)",
+        "url": "https://open.spotify.com/album/1rPOKsT7W6Yw0H3l7aeTWP"
+      },
+      "artists": [
+        {
+          "name": "\u0130rfan Bulut",
+          "url": "https://open.spotify.com/artist/6cgzItip0Ka3LS1AycUk63"
+        },
+        {
+          "name": "Murat Da\u011fl\u0131",
+          "url": "https://open.spotify.com/artist/5597pcDzVHJa1wUmVt6Vtr"
+        }
+      ],
+      "duration_ms": 308140,
+      "name": "Duru - H\u00fcseyni Taksim",
+      "url": "https://open.spotify.com/track/0m08kpbdGrxj1YuwZtVAJb"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
+        "name": "Sufi Ney Box Set, Vol. 2 (4 Alb\u00fcm 49 Eser)",
+        "url": "https://open.spotify.com/album/1rPOKsT7W6Yw0H3l7aeTWP"
+      },
+      "artists": [
+        {
+          "name": "Arzu Kopuz \u00c7elik",
+          "url": "https://open.spotify.com/artist/2hzE5PRtNqpb6HTjy9aaSp"
+        },
+        {
+          "name": "Pelin Ba\u015far",
+          "url": "https://open.spotify.com/artist/10vB42Xbs9WZ5fNx1dfy41"
+        }
+      ],
+      "duration_ms": 241520,
+      "name": "Uyan Ey G\u00f6zlerim",
+      "url": "https://open.spotify.com/track/1FenJWsJmMlvaHtfJ6OH2y"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
+        "name": "Ney Taksimleri",
+        "url": "https://open.spotify.com/album/1PtQTnNQIvBjNSicBkTFmi"
+      },
+      "artists": [
+        {
+          "name": "Ahmet Seny\u00fcz",
+          "url": "https://open.spotify.com/artist/5ZVCBPnrNgDIhaVrDPeJsp"
+        }
+      ],
+      "duration_ms": 117446,
+      "name": "Mahur",
+      "url": "https://open.spotify.com/track/6k2nnqwjeWk1ooxZyNdSdf"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
         "name": "Mevlana Mevlevi Box Set (3 Alb\u00fcm)",
         "url": "https://open.spotify.com/album/52RaT1w7jrdPI3CAdQ76hz"
       },
@@ -771,18 +787,22 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
-        "name": "Mevlana Mevlevi Box Set (3 Alb\u00fcm)",
-        "url": "https://open.spotify.com/album/52RaT1w7jrdPI3CAdQ76hz"
+        "name": "Dinle Ney'den - Ney Taksimleri",
+        "url": "https://open.spotify.com/album/3xQwqAomn5uvTcAKdfpDsg"
       },
       "artists": [
         {
-          "name": "Erdin\u00e7 \u015eenyaylar",
-          "url": "https://open.spotify.com/artist/0thmtYuAMzuqQlPgShS32R"
+          "name": "Ender Do\u011fan",
+          "url": "https://open.spotify.com/artist/26DartuodtiMAfG96nMTjs"
+        },
+        {
+          "name": "Yahya Soyyi\u011fit",
+          "url": "https://open.spotify.com/artist/59fB0C2c3FUmbohp88FpDK"
         }
       ],
-      "duration_ms": 194720,
-      "name": "Acem K\u00fcrdi Selanik T\u00fcrk\u00fcs\u00fc / B\u00fclb\u00fcl\u00fcm Alt\u0131n Kafeste",
-      "url": "https://open.spotify.com/track/3GQUrmQNkiCM894h46Ohuh"
+      "duration_ms": 307017,
+      "name": "U\u015f\u015fak Saz Semaisi",
+      "url": "https://open.spotify.com/track/7HOQx6VsHG2g807XJB7hsv"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -811,18 +831,38 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
-        "name": "Ney Taksimleri",
-        "url": "https://open.spotify.com/album/1PtQTnNQIvBjNSicBkTFmi"
+        "name": "Mevlana Mevlevi Box Set (3 Alb\u00fcm)",
+        "url": "https://open.spotify.com/album/52RaT1w7jrdPI3CAdQ76hz"
       },
       "artists": [
         {
-          "name": "Ahmet Seny\u00fcz",
-          "url": "https://open.spotify.com/artist/5ZVCBPnrNgDIhaVrDPeJsp"
+          "name": "Erdin\u00e7 \u015eenyaylar",
+          "url": "https://open.spotify.com/artist/0thmtYuAMzuqQlPgShS32R"
         }
       ],
-      "duration_ms": 117446,
-      "name": "Mahur",
-      "url": "https://open.spotify.com/track/6k2nnqwjeWk1ooxZyNdSdf"
+      "duration_ms": 194720,
+      "name": "Acem K\u00fcrdi Selanik T\u00fcrk\u00fcs\u00fc / B\u00fclb\u00fcl\u00fcm Alt\u0131n Kafeste",
+      "url": "https://open.spotify.com/track/3GQUrmQNkiCM894h46Ohuh"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
+        "name": "Dinle Ney'den - Ney Taksimleri",
+        "url": "https://open.spotify.com/album/3xQwqAomn5uvTcAKdfpDsg"
+      },
+      "artists": [
+        {
+          "name": "Ender Do\u011fan",
+          "url": "https://open.spotify.com/artist/26DartuodtiMAfG96nMTjs"
+        },
+        {
+          "name": "Yahya Soyyi\u011fit",
+          "url": "https://open.spotify.com/artist/59fB0C2c3FUmbohp88FpDK"
+        }
+      ],
+      "duration_ms": 291134,
+      "name": "Acemk\u00fcrdi Saz Samaisi",
+      "url": "https://open.spotify.com/track/7oH0BWl4YP5ybUFdjzTesa"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -847,26 +887,6 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
-        "name": "Dinle Ney'den - Ney Taksimleri",
-        "url": "https://open.spotify.com/album/3xQwqAomn5uvTcAKdfpDsg"
-      },
-      "artists": [
-        {
-          "name": "Ender Do\u011fan",
-          "url": "https://open.spotify.com/artist/26DartuodtiMAfG96nMTjs"
-        },
-        {
-          "name": "Yahya Soyyi\u011fit",
-          "url": "https://open.spotify.com/artist/59fB0C2c3FUmbohp88FpDK"
-        }
-      ],
-      "duration_ms": 307017,
-      "name": "U\u015f\u015fak Saz Semaisi",
-      "url": "https://open.spotify.com/track/7HOQx6VsHG2g807XJB7hsv"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
         "name": "Sufi Ney-III",
         "url": "https://open.spotify.com/album/6BgGj0UqHnhn8BBKO113kT"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 425840,
       "name": "Dost Gerek Bize",
       "url": "https://open.spotify.com/track/2TfKlRep0SOFqE42VpA9n7"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
-        "name": "Dinle Ney'den - Ney Taksimleri",
-        "url": "https://open.spotify.com/album/3xQwqAomn5uvTcAKdfpDsg"
-      },
-      "artists": [
-        {
-          "name": "Ender Do\u011fan",
-          "url": "https://open.spotify.com/artist/26DartuodtiMAfG96nMTjs"
-        },
-        {
-          "name": "Yahya Soyyi\u011fit",
-          "url": "https://open.spotify.com/artist/59fB0C2c3FUmbohp88FpDK"
-        }
-      ],
-      "duration_ms": 291134,
-      "name": "Acemk\u00fcrdi Saz Samaisi",
-      "url": "https://open.spotify.com/track/7oH0BWl4YP5ybUFdjzTesa"
     }
   ],
   "unique_name": "Ramazan",

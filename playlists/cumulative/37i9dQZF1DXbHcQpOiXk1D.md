@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: berlioz
 
-612 songs - 1 day 19 hr 26 min
+613 songs - 1 day 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [Much Better \(Suitcase\)](https://open.spotify.com/track/3zNK6buz7vo1Kkp0yGCbES) | [Halfpenny](https://open.spotify.com/artist/5VjfZxLgu20M5RiLtSn8q3) | [Much Better \(Suitcase\)](https://open.spotify.com/album/4uPaDfrZnYmcvxMCGzH2vN) | 5:12 | 2022-03-08 | 2022-04-18 |
 | [My Life \(feat\. James Coleman\)](https://open.spotify.com/track/3b4LQJFtUKK1Ax947YouHl) | [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [James Coleman](https://open.spotify.com/artist/5WOmgJ1aLsF878tbEMpSD9) | [My Life \(feat\. James Coleman\)](https://open.spotify.com/album/3nXnB05LKorXxehY5QevoA) | 7:47 | 2021-12-17 | 2022-07-29 |
 | [My Love](https://open.spotify.com/track/0xV9H4ED3bpdTQwYLy75D0) | [Hagan](https://open.spotify.com/artist/0OvwOTSbNyHM0nnyvdCxNU), [Meron T](https://open.spotify.com/artist/40jBR1w46zqDUfbVQttJrb) | [My Love](https://open.spotify.com/album/1iOsZjDI58pcyADCBrk1gJ) | 4:27 | 2022-09-16 | 2022-10-15 |
+| [My Type](https://open.spotify.com/track/6GWFVXScr30DquUSJTkwZB) | [Bea Maher](https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf) | [My Type](https://open.spotify.com/album/34uZsXy8PS9LIrP3fIkuzl) | 3:52 | 2024-07-18 |  |
 | [Mystics \(feat\. Venna\) \- Live at Joshua Tree](https://open.spotify.com/track/1pemIyUJIPDQ2fWciNrh6z) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience Live at Joshua Tree \(Presented by Soulection\)](https://open.spotify.com/album/2LrvbyF11d4ZlI1UAnLbEC) | 3:47 | 2023-11-17 | 2024-04-12 |
 | [Mystics \- Live](https://open.spotify.com/track/5LvYyX92OBI2bNAdfT98X9) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience Live at Joshua Tree \(Presented by Soulection\)](https://open.spotify.com/album/0kJc3MpSWk7zlItn5DOJOg) | 3:47 | 2022-08-18 | 2023-03-12 |
 | [Never Doubt](https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Never Doubt](https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3) | 4:10 | 2023-11-24 |  |
@@ -556,7 +557,7 @@
 | [Turn Back Time](https://open.spotify.com/track/0KsTQ9OhlpJYxFUicQNcaH) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Turn Back Time](https://open.spotify.com/album/0ado2qZLcbZzaYLvrwjPej) | 2:54 | 2022-03-08 | 2022-04-20 |
 | [Turquoise Galaxy](https://open.spotify.com/track/443JNQpv6lz4wxnHZKV7wH) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [Black Classical Music](https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET) | 3:11 | 2023-11-24 | 2023-12-24 |
 | [Turquoise Galaxy](https://open.spotify.com/track/71vcxMgWBvsUbwtRBzk2Vd) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [Black Classical Music](https://open.spotify.com/album/2A5yzYdLTVTLQaCp4CTKwG) | 3:11 | 2024-04-18 | 2024-07-19 |
-| [TV Dinners](https://open.spotify.com/track/7nJ58q6TZPNJSugTUGq8vy) | [O.](https://open.spotify.com/artist/0R2UqQKBdSADXMN2Gx5CrB) | [WeirdOs](https://open.spotify.com/album/48rRditt0gLVgDEMt1DoY6) | 4:29 | 2024-06-20 |  |
+| [TV Dinners](https://open.spotify.com/track/7nJ58q6TZPNJSugTUGq8vy) | [O.](https://open.spotify.com/artist/0R2UqQKBdSADXMN2Gx5CrB) | [WeirdOs](https://open.spotify.com/album/48rRditt0gLVgDEMt1DoY6) | 4:29 | 2024-06-20 | 2024-07-31 |
 | [Twenties](https://open.spotify.com/track/5Ntgp1ZwLyVXDf7FwWra2K) | [Rosie Frater\-Taylor](https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL) | [Twenties](https://open.spotify.com/album/6hqgL9Ev3uGwXsdfXEhYc9) | 2:56 | 2024-01-12 | 2024-04-05 |
 | [Twisti](https://open.spotify.com/track/6vGzNnn7cMAQQMqdlAmV72) | [Phinoshey](https://open.spotify.com/artist/6uezhA7jyBZRKsHW97uD4O) | [Sun From Kibera](https://open.spotify.com/album/4RQrcKmMRdOovhB3KzWBuu) | 2:18 | 2021-12-17 | 2022-07-08 |
 | [Ultraviolet](https://open.spotify.com/track/0zFbX6EwMuGagU4qj75GJt) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Monument](https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC) | 5:12 | 2022-07-28 | 2022-11-04 |

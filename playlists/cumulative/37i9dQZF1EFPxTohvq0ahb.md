@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2ckx1BRKkKzM7KyRZ3iKZo">Ester Dean</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-128 songs - 7 hr 9 min
+129 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Solo Quiero \(Somebody To Love\) \- From Songland](https://open.spotify.com/track/0eXEFvCwPFyGNo8SOSn0fB) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Solo Quiero \(Somebody To Love\) \[From Songland\]](https://open.spotify.com/album/72jUFUDCBSH8NVGH9TyDp8) | 2:52 | 2023-12-30 |  |
 | [Somebody To Love](https://open.spotify.com/track/2z8S9ARUXOXWT9h0PdF4yP) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:01 | 2023-12-30 |  |
 | [Something New \(From "Songland"\)](https://open.spotify.com/track/50Bj5QzuSCCVK5RQVTZ1lq) | [Ollie Gabriel](https://open.spotify.com/artist/4TNVwxe6cso3F2sGxA2KLG) | [Something New \(From "Songland"\)](https://open.spotify.com/album/1tg1aHD3MEqCdveJvJnlQm) | 3:37 | 2023-12-30 |  |
+| [Somewhere in Vegas](https://open.spotify.com/track/305JUOn2scJ85yXmf2zT2G) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Somewhere in Vegas](https://open.spotify.com/album/3MzfiAvF6hweDfGmWRyMWR) | 2:44 | 2024-07-30 |  |
 | [Stick Around](https://open.spotify.com/track/1SZ5EEmCQ03fRAHnFNYW8N) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Stick Around](https://open.spotify.com/album/19NGecACGLBEsTA8Pyi4PG) | 3:30 | 2023-12-30 |  |
 | [Sway \- From Songland](https://open.spotify.com/track/0GGlWxiq7PLzAFlqDvbuvh) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Sway \(From Songland\)](https://open.spotify.com/album/6TySLr5b3fQz3EepElqFYT) | 2:27 | 2023-12-30 |  |
 | [Talk That Talk](https://open.spotify.com/track/4MPEYbqv4tAuLagNNmukjy) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Talk That Talk \(Explicit\)](https://open.spotify.com/album/16ySsalaP2FiKVDlYCWnYh) | 3:29 | 2023-12-30 |  |

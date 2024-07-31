@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-195 songs - 8 hr 39 min
+196 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Early Rio](https://open.spotify.com/track/0rpf1OhSfp8hkOsFhONU0d) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Early Rio](https://open.spotify.com/album/2a1LMvKsH5AowfwGC49jhI) | 2:40 | 2023-01-12 |  |
 | [Eat More Fruits](https://open.spotify.com/track/5zWf9Ug3ubWOizrx9iDnTi) | [Sweet Spot Lab](https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At) | [Eat More Fruits](https://open.spotify.com/album/3JENHK40xUTH4VgMbxrZVu) | 2:16 | 2023-10-13 |  |
 | [El Platanal](https://open.spotify.com/track/5euxtzHFyA4WAbbERfT0eg) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Monte Adentro](https://open.spotify.com/album/0Rsap5JXIEDLxkhTVNT3Kr) | 2:23 | 2023-01-13 |  |
+| [Ensueño](https://open.spotify.com/track/449WDT4cxUdfySxwnuTinu) | [flâneur](https://open.spotify.com/artist/1u1zs47JhYDIbDkFjamdzx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Porcel](https://open.spotify.com/artist/5Hk0Mny2WBqXDCWicNmD2G) | [Ensueño](https://open.spotify.com/album/3db73nhhJH7DLraNobxn1q) | 2:38 | 2024-07-25 |  |
 | [Fade Away](https://open.spotify.com/track/788O8dH7FJlO7SebmtLqj4) | [Nokimo](https://open.spotify.com/artist/2fjTdMf7j8dewPfWXh2Thq), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Fade Away](https://open.spotify.com/album/5T3fTXo9oHhsE1NzN45vQj) | 2:12 | 2023-01-12 | 2023-06-21 |
 | [Fever, Fever](https://open.spotify.com/track/7D9UKc1To1SiOrQGcAMjM3) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Fever, Fever](https://open.spotify.com/album/6fl21BaGkpjnUQa5x9V2Vz) | 2:44 | 2023-01-12 |  |
 | [Flat Out](https://open.spotify.com/track/055fovAr3EQTHeSIgre4ZE) | [Peter Olyni Jr.](https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO) | [Flat Out](https://open.spotify.com/album/1obXVW12h6lb33uWGKUksN) | 2:19 | 2024-03-25 |  |
@@ -93,7 +94,7 @@
 | [Iris](https://open.spotify.com/track/1lZj8bgdCrkLFCd7WXjTyd) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [c e c e l i e](https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX), [jazz\_rabbit](https://open.spotify.com/artist/2ljuC6YzA818simZ2TgEc2), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Iris](https://open.spotify.com/album/0eUrglnLadODz1h6yqu3io) | 2:34 | 2023-01-12 |  |
 | [Jetlag](https://open.spotify.com/track/0HFPMPIPGy0o9ocbHMNz2P) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Cloudscape](https://open.spotify.com/album/1fN2VRfRVaRSJCn6hS4bgo) | 2:26 | 2024-07-25 |  |
 | [Jezerro](https://open.spotify.com/track/0wO5Kuq82JCh1w5XZBSqiZ) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Jezerro](https://open.spotify.com/album/0zRaAbN8C00tQH0nQJB5UE) | 2:33 | 2023-01-13 |  |
-| [Jonde](https://open.spotify.com/track/0hvhmLGNOEy6qlNodaGTWX) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Jonde](https://open.spotify.com/album/2PAu7Dzy32vksH99LQho5k) | 2:47 | 2023-01-12 |  |
+| [Jonde](https://open.spotify.com/track/0hvhmLGNOEy6qlNodaGTWX) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Jonde](https://open.spotify.com/album/2PAu7Dzy32vksH99LQho5k) | 2:47 | 2023-01-12 | 2024-07-31 |
 | [Keep Cruising](https://open.spotify.com/track/3XvmzqTtljQMpSGqvxA6IO) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA) | [Keep Cruising](https://open.spotify.com/album/1tFPg1D0lkIdF5KQyh4fWT) | 3:56 | 2023-01-12 |  |
 | [Kind Of Blue In Green](https://open.spotify.com/track/5McZisEwv6FzvGSh0PM77K) | [alamodilla](https://open.spotify.com/artist/3CBCmX5r8ViX4viPLFyVmN) | [Kind Of Blue In Green](https://open.spotify.com/album/1U1Zp9IDjrqrpo00IT9MVH) | 2:38 | 2023-03-28 | 2023-04-14 |
 | [Kruisin'](https://open.spotify.com/track/6ghuMTXlPGarm2SaPxrxcY) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Kruisin'](https://open.spotify.com/album/5jRxlX5baGFYSlK4XJ9K2a) | 2:51 | 2023-09-29 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Historias y versos que tocan la piel. ",
-  "num_followers": 276062,
+  "num_followers": 276104,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1"
+      },
+      "artists": [
+        {
+          "name": "Obie Bermudez",
+          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Todo El A\u00f1o",
+      "url": "https://open.spotify.com/track/7usrCxShd2epjMs0GDClGP"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Tres De Copas",
         "url": "https://open.spotify.com/album/0KDMxNFaMvMwc58iRZul3i"
       },
@@ -843,18 +859,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1"
+        "name": "N\u00f3mada",
+        "url": "https://open.spotify.com/album/2OQpoFrcbrhVCWzjNFJF4l"
       },
       "artists": [
         {
-          "name": "Obie Bermudez",
-          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
+          "name": "Alejandro Santiago",
+          "url": "https://open.spotify.com/artist/7yc8RHPDlQji4ztS6pgrk0"
         }
       ],
-      "duration_ms": 240866,
-      "name": "Todo El A\u00f1o",
-      "url": "https://open.spotify.com/track/7usrCxShd2epjMs0GDClGP"
+      "duration_ms": 212133,
+      "name": "Obsceno",
+      "url": "https://open.spotify.com/track/5fqLZkJiVyAPWJs7oc4YC1"
     },
     {
       "added_at": "2022-03-01 04:08:22",
@@ -871,22 +887,6 @@
       "duration_ms": 205333,
       "name": "Destino",
       "url": "https://open.spotify.com/track/0Tvel29tfH38v5q9CXQC3y"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "N\u00f3mada",
-        "url": "https://open.spotify.com/album/2OQpoFrcbrhVCWzjNFJF4l"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Santiago",
-          "url": "https://open.spotify.com/artist/7yc8RHPDlQji4ztS6pgrk0"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Obsceno",
-      "url": "https://open.spotify.com/track/5fqLZkJiVyAPWJs7oc4YC1"
     },
     {
       "added_at": "2021-07-29 16:46:05",

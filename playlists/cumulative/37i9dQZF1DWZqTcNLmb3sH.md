@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover :  Krishnam Pranaya Sakhi
 
-1,262 songs - 3 day 4 hr 51 min
+1,263 songs - 3 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -875,6 +875,7 @@
 | [Nenape Jotheyali](https://open.spotify.com/track/19z0Vg7lATIokLegPWfa2z) | [L\. V\. Revanth](https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB) | [Raja Rani Roarer Rocket](https://open.spotify.com/album/6mhO76NborMqdZH9Fc21JE) | 4:52 | 2022-11-25 | 2023-02-04 |
 | [Nenapelli Eega](https://open.spotify.com/track/4sMuno4hnbfTB8s556K7YO) | [Mallika Matti](https://open.spotify.com/artist/4Xk6OszWpduC3wOjYoIhls) | [Juliet 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2kuhP7XCIBFnCFaLHOn4Ty) | 3:19 | 2023-03-03 | 2023-06-08 |
 | [Nenapina Butthi \(from "Vasanthakalada Hoogalu"\)](https://open.spotify.com/track/5MpATkYPz61er1KBPs2xod) | [Pratham](https://open.spotify.com/artist/7qsu0SYzX2qKmd9GcUmbOt), [Bharath Janardhan](https://open.spotify.com/artist/1XahZIYu35FIpKehAg9nh5) | [Nenapina Butthi \(from "Vasanthakalada Hoogalu"\)](https://open.spotify.com/album/0WABjnudlWngyLpkVC8B8p) | 3:18 | 2023-10-17 | 2023-12-30 |
+| [Nenapina Butti \(From "Kabandha''\)](https://open.spotify.com/track/0ftOpIMiILvTaRc7eZG2c2) | [Shreyas B Rao](https://open.spotify.com/artist/52sNToJGR0Sh41ur2jGsp2), [Raghothama N S](https://open.spotify.com/artist/23SVcQ2QiconhMN4ZU1NZu), [K Kalyan](https://open.spotify.com/artist/48lApU5PPixk0Szsxibdw3), [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5) | [Nenapina Butti \(From "Kabandha''\)](https://open.spotify.com/album/7LKooLM8kgyMb7rKSXIjRR) | 4:22 | 2024-07-30 |  |
 | [Nenapina Haadiyali Onti Payana](https://open.spotify.com/track/33ezCL2OsXqV7aY8eLn9d8) | [Sai Shree Kiran](https://open.spotify.com/artist/3IFRMLwQfpRE3lv3Dek4ev), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Nenapina Haadiyali Onti Payana](https://open.spotify.com/album/0CBWBe54BDxagI3hxq7Ezl) | 4:43 | 2023-01-17 | 2023-06-08 |
 | [Nenapina Haadiyali Onti Payana](https://open.spotify.com/track/4vrOrErsZaQzVUnT0SivbD) | [Sai Shree Kiran](https://open.spotify.com/artist/3IFRMLwQfpRE3lv3Dek4ev), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Nenapina Haadiyali Onti Payana](https://open.spotify.com/album/1w4NyU9IjX05ltUZ78EyaK) | 4:43 | 2023-01-17 | 2023-05-13 |
 | [Nenapina Hudugiye \(From "Hero"\)](https://open.spotify.com/track/5dtow6KwqEW0ZZ1VLOYnqr) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Nenapina Hudugiye \(From "Hero"\)](https://open.spotify.com/album/3uzAWMRgyeLL2o6RPRUi1t) | 3:01 | 2021-12-06 | 2022-03-14 |

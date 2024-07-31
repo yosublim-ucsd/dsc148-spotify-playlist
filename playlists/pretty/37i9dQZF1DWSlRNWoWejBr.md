@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ginga y balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,966 likes - 70 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,061 likes - 70 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 5 | [Brota no meu Setor](https://open.spotify.com/track/3t7pLiF7cakKBduLdbcXgn) | [WZ Beat](https://open.spotify.com/artist/7hL2l7lWkA75BpTp7bPEt9), [DJ Lp da Zo](https://open.spotify.com/artist/0wghsfFBxVKtRtFJ4gPAVo), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [Rd Sucessada Oficial](https://open.spotify.com/artist/2bGRYJ6vlxcdy4ykoUDTNr) | [Brota no meu Setor](https://open.spotify.com/album/1TAj3VWxeKgoxBbVvj34Rx) | 1:35 |
 | 6 | [MTG \- BARRACO DELA LÁ](https://open.spotify.com/track/2l6YkP5Rj1w3GsrhE7cDqx) | [DJ GUIZIN DA SERRA](https://open.spotify.com/artist/4PW52baZsb4808PBbSn2a7), [MC Marlon PH](https://open.spotify.com/artist/3uSPe0aATQvPSLWin1kZsQ) | [MTG \- BARRACO DELA LÁ](https://open.spotify.com/album/3ks2icfvnL1iRYzEB24w51) | 2:29 |
 | 7 | [Achei que era Pagode](https://open.spotify.com/track/2NmunJ0EJbE2oFbs1CIOeQ) | [Mc Priscila](https://open.spotify.com/artist/0q3ElVcc042mnCyUBce8CG), [Dj Olliver](https://open.spotify.com/artist/6akRUh5g0XiVQaZj6U23fd) | [Achei que era Pagode](https://open.spotify.com/album/2Xv52XBe67uFQJzEDAW4nH) | 3:00 |
-| 8 | [CHIHIRO](https://open.spotify.com/track/0GtGtRY3SB3tlfLYiFtrEw) | [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [CHIHIRO](https://open.spotify.com/album/7bjKMqVLAEYU4q7TWrzOs6) | 2:31 |
+| 8 | [CHIHIRO](https://open.spotify.com/track/0GtGtRY3SB3tlfLYiFtrEw) | [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [MTG CHIHIRO](https://open.spotify.com/album/7bjKMqVLAEYU4q7TWrzOs6) | 2:31 |
 | 9 | [Ela Joga na Hora](https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k) | [Mc Pogba](https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO), [DJ Guih Da ZO](https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx) | [Ela Joga na Hora](https://open.spotify.com/album/5Q5Q1X31y4eM4A4Nz7cGKb) | 2:12 |
 | 10 | [Deixa Eu Ser Seu Romeu](https://open.spotify.com/track/08FbjJaapnrQ0zk36j1R9p) | [DJ CVB 011](https://open.spotify.com/artist/0av3xCloXoeMDNlOghdF5g), [MC FURI SP](https://open.spotify.com/artist/08zGM1dFzkWuPJ0rpz5Tq4), [G7 MUSIC BR](https://open.spotify.com/artist/4fPR5Tro0vdgsaMZanGjZ4) | [Deixa Eu Ser Seu Romeu](https://open.spotify.com/album/3LuexrCV0bHQQMW56Ju6I8) | 3:10 |
 | 11 | [Eu Vou Dançando Sem Você](https://open.spotify.com/track/3wDxeVA7WvPEe6MO1jIgxm) | [Dj Leo Lg](https://open.spotify.com/artist/7fhK7EsjjzfFurFz8FAlDe) | [Eu Vou Dançando Sem Você](https://open.spotify.com/album/1132MvmoT9oqARN98UlkNS) | 1:53 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Listen to the hottest songs from LGBTQIA+ artists. Cover: Felix Jaehn ",
+  "description": "Listen to the hottest songs from LGBTQIA+ artists. Cover: Benedict Cork",
   "name": "GLOW",
   "tracks": [
     {
@@ -5286,7 +5286,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 142500,
       "name": "deszcz",
       "url": "https://open.spotify.com/track/3Po2TlXn1bcRsSujzbNkk2"
@@ -8377,6 +8377,28 @@
     },
     {
       "album": {
+        "name": "GUCCIYANKA",
+        "url": "https://open.spotify.com/album/6xpAYSfNGIR12Rau2xbtz7"
+      },
+      "artists": [
+        {
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
+        },
+        {
+          "name": "Lemon",
+          "url": "https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204492,
+      "name": "GUCCIYANKA",
+      "url": "https://open.spotify.com/track/7Kcpk2RlS5NbBYXugy4P3c"
+    },
+    {
+      "album": {
         "name": "guho",
         "url": "https://open.spotify.com/album/7h3X5100yBreMGlOQFDswl"
       },
@@ -9888,7 +9910,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 174676,
       "name": "I Do",
       "url": "https://open.spotify.com/track/5KMaaEKQkELaj1vxMu5YEZ"
@@ -16328,6 +16350,24 @@
       "duration_ms": 177073,
       "name": "Picnic In The Park",
       "url": "https://open.spotify.com/track/1H9RljOIfrpDXj8tBYi746"
+    },
+    {
+      "album": {
+        "name": "Pink Cheetah Print Slip",
+        "url": "https://open.spotify.com/album/4gqxim6w1bqZSNOjIJPP6s"
+      },
+      "artists": [
+        {
+          "name": "Charlie Houston",
+          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107337,
+      "name": "Pink Cheetah Print Slip",
+      "url": "https://open.spotify.com/track/2CSeGqjIIhvmkgcJDqkKzl"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This is Aphex Twin. The essential tracks, all in one playlist.",
+  "description": "This is Aphex Twin. Track-track unggulan, semuanya dalam satu playlist.",
   "name": "This Is Aphex Twin",
   "tracks": [
     {
@@ -628,7 +628,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 153320,
       "name": "Bbydhyonchord",
       "url": "https://open.spotify.com/track/0lLCH4mtQQYp6ASyJqhzgN"
@@ -1532,6 +1532,24 @@
       "duration_ms": 213706,
       "name": "Logan Rock Witch",
       "url": "https://open.spotify.com/track/6y8jQsfUEPZuhcxpHzk0zn"
+    },
+    {
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31093,
+      "name": "Lornaderek",
+      "url": "https://open.spotify.com/track/5kaxW5pnSdnTvxD2SqPUuy"
     },
     {
       "album": {

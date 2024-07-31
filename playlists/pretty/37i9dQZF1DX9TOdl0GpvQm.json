@@ -1,6 +1,6 @@
 {
   "description": "Walk the threshold into the netherworld...",
-  "num_followers": 164866,
+  "num_followers": 164930,
   "original_name": "Hauntology",
   "owner": {
     "name": "Spotify",
@@ -123,26 +123,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "The Unexplained",
-        "url": "https://open.spotify.com/album/5CYVndFVBDUo22RBVUXxAn"
-      },
-      "artists": [
-        {
-          "name": "Ataraxia",
-          "url": "https://open.spotify.com/artist/5kn8t9YN76msojqGv6hgIz"
-        },
-        {
-          "name": "Mort Garson",
-          "url": "https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha"
-        }
-      ],
-      "duration_ms": 199533,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/2GSXCJIdyPZJoRynXpwkvn"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "Study Series 07: Autumnal Activities",
         "url": "https://open.spotify.com/album/4kszHqLUfAllYvodM8wM5r"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 168126,
       "name": "November Sequence",
       "url": "https://open.spotify.com/track/20izJg7Kft3HmOtmalKBl2"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "The Unexplained",
+        "url": "https://open.spotify.com/album/5CYVndFVBDUo22RBVUXxAn"
+      },
+      "artists": [
+        {
+          "name": "Ataraxia",
+          "url": "https://open.spotify.com/artist/5kn8t9YN76msojqGv6hgIz"
+        },
+        {
+          "name": "Mort Garson",
+          "url": "https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha"
+        }
+      ],
+      "duration_ms": 199533,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/2GSXCJIdyPZJoRynXpwkvn"
     },
     {
       "added_at": "2023-12-20 05:33:08",
@@ -263,6 +263,22 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
+        "name": "Other Channels",
+        "url": "https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D"
+      },
+      "artists": [
+        {
+          "name": "The Advisory Circle",
+          "url": "https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S"
+        }
+      ],
+      "duration_ms": 207866,
+      "name": "Sundial",
+      "url": "https://open.spotify.com/track/6RuZpxDrZ5xGMRQB0Eodp4"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
         "name": "Inter-Dimensional Music",
         "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 369765,
       "name": "Nexus On The Beach",
       "url": "https://open.spotify.com/track/6LMAeSiM6YiiGsfE1G4jUD"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "Other Channels",
-        "url": "https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D"
-      },
-      "artists": [
-        {
-          "name": "The Advisory Circle",
-          "url": "https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S"
-        }
-      ],
-      "duration_ms": 207866,
-      "name": "Sundial",
-      "url": "https://open.spotify.com/track/6RuZpxDrZ5xGMRQB0Eodp4"
     },
     {
       "added_at": "2024-02-02 04:14:57",
@@ -421,22 +421,6 @@
       "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
     },
     {
-      "added_at": "2024-01-30 05:51:05",
-      "album": {
-        "name": "Magda",
-        "url": "https://open.spotify.com/album/5VDhlo398SCiqC5XSoPUDl"
-      },
-      "artists": [
-        {
-          "name": "Donato Dozzy",
-          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
-        }
-      ],
-      "duration_ms": 522000,
-      "name": "Velluto",
-      "url": "https://open.spotify.com/track/0RQ0QSEuVZJkW4Sr48vW9p"
-    },
-    {
       "added_at": "2021-10-27 14:20:30",
       "album": {
         "name": "Traces of Time",
@@ -451,6 +435,22 @@
       "duration_ms": 716373,
       "name": "Valley of the Birds",
       "url": "https://open.spotify.com/track/02Zatp9qpcjzaO6JdjWLRK"
+    },
+    {
+      "added_at": "2024-01-30 05:51:05",
+      "album": {
+        "name": "Magda",
+        "url": "https://open.spotify.com/album/5VDhlo398SCiqC5XSoPUDl"
+      },
+      "artists": [
+        {
+          "name": "Donato Dozzy",
+          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
+        }
+      ],
+      "duration_ms": 522000,
+      "name": "Velluto",
+      "url": "https://open.spotify.com/track/0RQ0QSEuVZJkW4Sr48vW9p"
     },
     {
       "added_at": "2023-12-20 05:17:07",
@@ -633,26 +633,6 @@
       "url": "https://open.spotify.com/track/2yPwst86GlebGzgaO78CjQ"
     },
     {
-      "added_at": "2022-03-11 06:00:33",
-      "album": {
-        "name": "Hypernormality",
-        "url": "https://open.spotify.com/album/5s2MU4pZMy6B3guYWxlLX5"
-      },
-      "artists": [
-        {
-          "name": "\u00d6",
-          "url": "https://open.spotify.com/artist/2f1BFOhuLHw7mXfquuG85y"
-        },
-        {
-          "name": "N\u00f6mak",
-          "url": "https://open.spotify.com/artist/6rbVD4QiFbfXuqHaZ6DxEY"
-        }
-      ],
-      "duration_ms": 316693,
-      "name": "St Henri",
-      "url": "https://open.spotify.com/track/2Zu8GTKVR2iXR3ZJIbbky3"
-    },
-    {
       "added_at": "2021-10-27 14:20:30",
       "album": {
         "name": "Tropical Cosmic Sounds from Space (Compiled by El Palmas)",
@@ -671,6 +651,26 @@
       "duration_ms": 136366,
       "name": "Arriving To Davida",
       "url": "https://open.spotify.com/track/5QsVuOfSlSr2n7KdpPcaoA"
+    },
+    {
+      "added_at": "2022-03-11 06:00:33",
+      "album": {
+        "name": "Hypernormality",
+        "url": "https://open.spotify.com/album/5s2MU4pZMy6B3guYWxlLX5"
+      },
+      "artists": [
+        {
+          "name": "\u00d6",
+          "url": "https://open.spotify.com/artist/2f1BFOhuLHw7mXfquuG85y"
+        },
+        {
+          "name": "N\u00f6mak",
+          "url": "https://open.spotify.com/artist/6rbVD4QiFbfXuqHaZ6DxEY"
+        }
+      ],
+      "duration_ms": 316693,
+      "name": "St Henri",
+      "url": "https://open.spotify.com/track/2Zu8GTKVR2iXR3ZJIbbky3"
     },
     {
       "added_at": "2023-02-14 04:48:37",
@@ -819,6 +819,26 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
+        "name": "The Power (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5jHpOG03Uzop0cHriE1z72"
+      },
+      "artists": [
+        {
+          "name": "Gazelle Twin",
+          "url": "https://open.spotify.com/artist/0O9n1swkbCd1KqV2QrSVHl"
+        },
+        {
+          "name": "Max de Wardener",
+          "url": "https://open.spotify.com/artist/0Nz05huPXhsMC0iyVVlqZG"
+        }
+      ],
+      "duration_ms": 96597,
+      "name": "First Day",
+      "url": "https://open.spotify.com/track/7J4V7ZzCiHFZ3lGjIVTJh3"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
         "name": "Seelen",
         "url": "https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3"
       },
@@ -851,22 +871,18 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "The Power (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5jHpOG03Uzop0cHriE1z72"
+        "name": "S\u00e9ance at Hobs Lane",
+        "url": "https://open.spotify.com/album/50dd5Emb8udvftgSFCRwv6"
       },
       "artists": [
         {
-          "name": "Gazelle Twin",
-          "url": "https://open.spotify.com/artist/0O9n1swkbCd1KqV2QrSVHl"
-        },
-        {
-          "name": "Max de Wardener",
-          "url": "https://open.spotify.com/artist/0Nz05huPXhsMC0iyVVlqZG"
+          "name": "Mount Vernon Arts Lab",
+          "url": "https://open.spotify.com/artist/37aUQIcdo49KgggYxVKcQY"
         }
       ],
-      "duration_ms": 96597,
-      "name": "First Day",
-      "url": "https://open.spotify.com/track/7J4V7ZzCiHFZ3lGjIVTJh3"
+      "duration_ms": 193346,
+      "name": "The Black Drop",
+      "url": "https://open.spotify.com/track/3Q6uOdluKWobVlA5590G5i"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -883,22 +899,6 @@
       "duration_ms": 848256,
       "name": "Flowers Of Evil",
       "url": "https://open.spotify.com/track/39yNHxks286iIcWLmQCg2m"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "S\u00e9ance at Hobs Lane",
-        "url": "https://open.spotify.com/album/50dd5Emb8udvftgSFCRwv6"
-      },
-      "artists": [
-        {
-          "name": "Mount Vernon Arts Lab",
-          "url": "https://open.spotify.com/artist/37aUQIcdo49KgggYxVKcQY"
-        }
-      ],
-      "duration_ms": 193346,
-      "name": "The Black Drop",
-      "url": "https://open.spotify.com/track/3Q6uOdluKWobVlA5590G5i"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1001,6 +1001,22 @@
       "url": "https://open.spotify.com/track/6zBMShkhey4dGfJb9DjHxS"
     },
     {
+      "added_at": "2022-02-21 20:35:59",
+      "album": {
+        "name": "Switched On Ra",
+        "url": "https://open.spotify.com/album/2q3htL7CiskaRfbmV1xXnn"
+      },
+      "artists": [
+        {
+          "name": "Bitchin Bajas",
+          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
+        }
+      ],
+      "duration_ms": 389780,
+      "name": "Lanquidity",
+      "url": "https://open.spotify.com/track/2MCWogZJ7AcXkRwRN0xV73"
+    },
+    {
       "added_at": "2021-10-27 14:20:30",
       "album": {
         "name": "Lazy",
@@ -1019,22 +1035,6 @@
       "duration_ms": 296479,
       "name": "Sleep",
       "url": "https://open.spotify.com/track/2V5fHNhW9C1D5eSKx8zeSb"
-    },
-    {
-      "added_at": "2022-02-21 20:35:59",
-      "album": {
-        "name": "Switched On Ra",
-        "url": "https://open.spotify.com/album/2q3htL7CiskaRfbmV1xXnn"
-      },
-      "artists": [
-        {
-          "name": "Bitchin Bajas",
-          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
-        }
-      ],
-      "duration_ms": 389780,
-      "name": "Lanquidity",
-      "url": "https://open.spotify.com/track/2MCWogZJ7AcXkRwRN0xV73"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1177,6 +1177,26 @@
       "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
     },
     {
+      "added_at": "2022-04-06 03:05:40",
+      "album": {
+        "name": "The Spectral Corridor",
+        "url": "https://open.spotify.com/album/0VLbHcZxY9nKSnuQjSwrGV"
+      },
+      "artists": [
+        {
+          "name": "The House In the Woods",
+          "url": "https://open.spotify.com/artist/6fopY1TSYnXYGO9AUFW9Ej"
+        },
+        {
+          "name": "Pye Corner Audio",
+          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
+        }
+      ],
+      "duration_ms": 511898,
+      "name": "Spectral Corridor Part 4",
+      "url": "https://open.spotify.com/track/4VzYC6ZbJFuHQaDmWiIFPW"
+    },
+    {
       "added_at": "2022-09-26 22:17:41",
       "album": {
         "name": "In Free Fall",
@@ -1207,26 +1227,6 @@
       "duration_ms": 132000,
       "name": "Cuckoo Clock",
       "url": "https://open.spotify.com/track/3U9CTNsTK9tILwGcJkUxJG"
-    },
-    {
-      "added_at": "2022-04-06 03:05:40",
-      "album": {
-        "name": "The Spectral Corridor",
-        "url": "https://open.spotify.com/album/0VLbHcZxY9nKSnuQjSwrGV"
-      },
-      "artists": [
-        {
-          "name": "The House In the Woods",
-          "url": "https://open.spotify.com/artist/6fopY1TSYnXYGO9AUFW9Ej"
-        },
-        {
-          "name": "Pye Corner Audio",
-          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
-        }
-      ],
-      "duration_ms": 511898,
-      "name": "Spectral Corridor Part 4",
-      "url": "https://open.spotify.com/track/4VzYC6ZbJFuHQaDmWiIFPW"
     },
     {
       "added_at": "2022-03-30 05:15:55",
@@ -1311,22 +1311,18 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Somniloquy",
-        "url": "https://open.spotify.com/album/5sTdTyQqBnMfI48NyZLBfo"
+        "name": "Study Series 02: Cycles and Seasons",
+        "url": "https://open.spotify.com/album/3aveIyfZNhiUTOO1618y0T"
       },
       "artists": [
         {
-          "name": "Pram",
-          "url": "https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8"
-        },
-        {
-          "name": "Andy Votel",
-          "url": "https://open.spotify.com/artist/67wOTDjbsUMW6tQgR54yLN"
+          "name": "The Advisory Circle",
+          "url": "https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S"
         }
       ],
-      "duration_ms": 274333,
-      "name": "The Last Astronaut - Andy Votel Mix",
-      "url": "https://open.spotify.com/track/1Yddi8T49f9KwEMn7RnZSN"
+      "duration_ms": 242308,
+      "name": "New Dimensions In",
+      "url": "https://open.spotify.com/track/0lle1Oh7IBpWWvChKZRlEW"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1347,6 +1343,26 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
+        "name": "Somniloquy",
+        "url": "https://open.spotify.com/album/5sTdTyQqBnMfI48NyZLBfo"
+      },
+      "artists": [
+        {
+          "name": "Pram",
+          "url": "https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8"
+        },
+        {
+          "name": "Andy Votel",
+          "url": "https://open.spotify.com/artist/67wOTDjbsUMW6tQgR54yLN"
+        }
+      ],
+      "duration_ms": 274333,
+      "name": "The Last Astronaut - Andy Votel Mix",
+      "url": "https://open.spotify.com/track/1Yddi8T49f9KwEMn7RnZSN"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
         "name": "Ouroborindra",
         "url": "https://open.spotify.com/album/5AzeLnYYLMOmvdTjkNKvrd"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 326426,
       "name": "It is narrow here",
       "url": "https://open.spotify.com/track/1QUNKDYuz1vxpRAHitxj9i"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "Study Series 02: Cycles and Seasons",
-        "url": "https://open.spotify.com/album/3aveIyfZNhiUTOO1618y0T"
-      },
-      "artists": [
-        {
-          "name": "The Advisory Circle",
-          "url": "https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S"
-        }
-      ],
-      "duration_ms": 242308,
-      "name": "New Dimensions In",
-      "url": "https://open.spotify.com/track/0lle1Oh7IBpWWvChKZRlEW"
     },
     {
       "added_at": "2022-05-24 01:10:52",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "The Outer Church",
-        "url": "https://open.spotify.com/album/6IcsNmgZq6Cqg2RKsFcfZP"
-      },
-      "artists": [
-        {
-          "name": "IX Tab",
-          "url": "https://open.spotify.com/artist/7rbFNR4jkkhIWbyprQDCoT"
-        }
-      ],
-      "duration_ms": 327000,
-      "name": "The Burned Wretch",
-      "url": "https://open.spotify.com/track/6AHp595UrB4D6oORflyENV"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "Translate",
         "url": "https://open.spotify.com/album/0Sn4h3jqTAWbVvoFHqG2Od"
       },
@@ -1521,20 +1505,36 @@
       "url": "https://open.spotify.com/track/73mbs56c0QxBUrzHUBkDPg"
     },
     {
-      "added_at": "2023-12-12 20:36:27",
+      "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "El Tonto",
-        "url": "https://open.spotify.com/album/7zPK13GhWDQlCIebA48xxE"
+        "name": "The Outer Church",
+        "url": "https://open.spotify.com/album/6IcsNmgZq6Cqg2RKsFcfZP"
       },
       "artists": [
         {
-          "name": "Radiotr\u00f3nica",
-          "url": "https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN"
+          "name": "IX Tab",
+          "url": "https://open.spotify.com/artist/7rbFNR4jkkhIWbyprQDCoT"
         }
       ],
-      "duration_ms": 133853,
-      "name": "La Nebulosa",
-      "url": "https://open.spotify.com/track/7bnAhrmY8bSH8cw8zmI8DK"
+      "duration_ms": 327000,
+      "name": "The Burned Wretch",
+      "url": "https://open.spotify.com/track/6AHp595UrB4D6oORflyENV"
+    },
+    {
+      "added_at": "2023-02-27 18:31:54",
+      "album": {
+        "name": "Origen",
+        "url": "https://open.spotify.com/album/4qbGp9cj61TMzAeFAtEUj8"
+      },
+      "artists": [
+        {
+          "name": "A. M.",
+          "url": "https://open.spotify.com/artist/2GetULOyoPrlJ6DentO2Wa"
+        }
+      ],
+      "duration_ms": 313600,
+      "name": "Francis K.",
+      "url": "https://open.spotify.com/track/7EIlPzBmqzRRUdriseY4XP"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1553,20 +1553,20 @@
       "url": "https://open.spotify.com/track/70rEL6J2nQ6MPs3ovlomEn"
     },
     {
-      "added_at": "2023-02-27 18:31:54",
+      "added_at": "2023-12-12 20:36:27",
       "album": {
-        "name": "Origen",
-        "url": "https://open.spotify.com/album/4qbGp9cj61TMzAeFAtEUj8"
+        "name": "El Tonto",
+        "url": "https://open.spotify.com/album/7zPK13GhWDQlCIebA48xxE"
       },
       "artists": [
         {
-          "name": "A. M.",
-          "url": "https://open.spotify.com/artist/2GetULOyoPrlJ6DentO2Wa"
+          "name": "Radiotr\u00f3nica",
+          "url": "https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN"
         }
       ],
-      "duration_ms": 313600,
-      "name": "Francis K.",
-      "url": "https://open.spotify.com/track/7EIlPzBmqzRRUdriseY4XP"
+      "duration_ms": 133853,
+      "name": "La Nebulosa",
+      "url": "https://open.spotify.com/track/7bnAhrmY8bSH8cw8zmI8DK"
     },
     {
       "added_at": "2021-10-27 14:20:30",

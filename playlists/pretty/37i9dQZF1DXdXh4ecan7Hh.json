@@ -1,6 +1,6 @@
 {
   "description": "County's best like you've never heard before. Cover: Jackson Dean, Josh Ross, ERNEST and 49 Winchester",
-  "num_followers": 114717,
+  "num_followers": 114719,
   "original_name": "Spotify Singles: Country",
   "owner": {
     "name": "Spotify",
@@ -920,22 +920,6 @@
       "added_at": "2024-01-24 18:24:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1aKSRHzPIuoTP2sbcT7iRi"
-      },
-      "artists": [
-        {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
-        }
-      ],
-      "duration_ms": 312586,
-      "name": "One More Try - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0QeopWycQsDAo0p1sp3OcQ"
-    },
-    {
-      "added_at": "2024-01-24 18:24:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
       },
       "artists": [
@@ -947,6 +931,22 @@
       "duration_ms": 195053,
       "name": "Good Together - Recorded At Revolution Studios, Toronto",
       "url": "https://open.spotify.com/track/5cnouImxhCqfrgzl6oxIZX"
+    },
+    {
+      "added_at": "2024-01-24 18:24:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1aKSRHzPIuoTP2sbcT7iRi"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "duration_ms": 312586,
+      "name": "One More Try - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0QeopWycQsDAo0p1sp3OcQ"
     },
     {
       "added_at": "2024-01-24 18:24:48",
@@ -1048,22 +1048,6 @@
       "added_at": "2024-01-24 18:24:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        }
-      ],
-      "duration_ms": 256278,
-      "name": "Un-Break My Heart - Spotify Singles",
-      "url": "https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1"
-    },
-    {
-      "added_at": "2024-01-24 18:24:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1aKSRHzPIuoTP2sbcT7iRi"
       },
       "artists": [
@@ -1080,17 +1064,33 @@
       "added_at": "2024-01-24 18:24:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0eEpAjX1A8PhmqDrDvWP4b"
+        "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
       },
       "artists": [
         {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
         }
       ],
-      "duration_ms": 202690,
-      "name": "Blue Tacoma - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/2j8r46vPmaj1O1G1R6r3il"
+      "duration_ms": 256278,
+      "name": "Un-Break My Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1"
+    },
+    {
+      "added_at": "2024-01-24 18:24:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0BVShHjHQNedwKZsjLeB3H"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 287440,
+      "name": "Cover Me Up - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6qi0gC43ZZ0dAtLwdamJ0I"
     },
     {
       "added_at": "2024-01-24 18:24:48",
@@ -1112,17 +1112,17 @@
       "added_at": "2024-01-24 18:24:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0BVShHjHQNedwKZsjLeB3H"
+        "url": "https://open.spotify.com/album/0eEpAjX1A8PhmqDrDvWP4b"
       },
       "artists": [
         {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
         }
       ],
-      "duration_ms": 287440,
-      "name": "Cover Me Up - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6qi0gC43ZZ0dAtLwdamJ0I"
+      "duration_ms": 202690,
+      "name": "Blue Tacoma - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/2j8r46vPmaj1O1G1R6r3il"
     },
     {
       "added_at": "2024-01-24 18:24:48",
@@ -1160,17 +1160,17 @@
       "added_at": "2024-01-24 18:24:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
+        "url": "https://open.spotify.com/album/0BVShHjHQNedwKZsjLeB3H"
       },
       "artists": [
         {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
         }
       ],
-      "duration_ms": 250733,
-      "name": "Best Shot - Spotify Singles",
-      "url": "https://open.spotify.com/track/6rrLJj8UgltvAustzZhK1w"
+      "duration_ms": 234873,
+      "name": "My Old Man - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/30x7X9Mjo0Spbb2POIc3E0"
     },
     {
       "added_at": "2024-01-24 18:24:48",

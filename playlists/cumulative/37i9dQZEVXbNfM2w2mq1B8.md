@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Bulgaria.
 
-1,695 songs - 3 day 23 hr 14 min
+1,696 songs - 3 day 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Airport](https://open.spotify.com/track/3vh1Aptqt8lvpudQhnCc5v) | [DJ Damyan](https://open.spotify.com/artist/39mjWoyHE5RMghSx70h7pI), [Azis](https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1) | [Airport](https://open.spotify.com/album/2ls4vyJQWoQh5iszEyyonp) | 3:49 | 2022-12-20 | 2023-02-01 |
 | [Akula](https://open.spotify.com/track/79J8ETyLFUdFTDZHXNNKie) | [Emilia](https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU), [DENIS TEOFIKOV](https://open.spotify.com/artist/5QO5nSTzmwGYnTFsJb8Gq6) | [Akula](https://open.spotify.com/album/6BteQoVu3Fss6bMWUgpHn7) | 3:31 | 2021-10-27 | 2021-10-28 |
 | [Alcohol](https://open.spotify.com/track/1Oxshg4204lRdcogzvdP4x) | [Emilia](https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU), [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [Alcohol](https://open.spotify.com/album/57UKx4LXqW0P7PmT9OHXw8) | 3:11 | 2022-09-18 | 2023-12-21 |
-| [Alcohol](https://open.spotify.com/track/7FDCQfEwJDsOlv655b1Qsv) | [Emilia](https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU), [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [Turbulence](https://open.spotify.com/album/2HJHlusCd0Gd9VXLhtvAjy) | 3:11 | 2023-12-20 |  |
+| [Alcohol](https://open.spotify.com/track/7FDCQfEwJDsOlv655b1Qsv) | [Emilia](https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU), [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [Turbulence](https://open.spotify.com/album/2HJHlusCd0Gd9VXLhtvAjy) | 3:11 | 2023-12-20 | 2024-07-31 |
 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-07-10 |  |
 | [ALIEN SUPERSTAR](https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:35 | 2022-07-30 | 2022-08-02 |
 | [Alive](https://open.spotify.com/track/0NNYtLmfBa13Rf8nv7ONsF) | [Krolly Music](https://open.spotify.com/artist/5j8ys3TMvYXhns46Anh2cy) | [Moonlight](https://open.spotify.com/album/4wUQgilaUaXjJsUWe6RUTT) | 2:51 | 2023-11-10 | 2023-11-12 |
@@ -215,6 +215,7 @@
 | [BVHT!](https://open.spotify.com/track/13GRVUH2tL94b9yHCkLHRm) | [Rizziatta](https://open.spotify.com/artist/4GnyxayfC823P4cQ87aiud) | [REDEYE](https://open.spotify.com/album/1VqvKZeG7dPToIHAso6KnA) | 1:59 | 2022-09-20 | 2022-10-23 |
 | [bye](https://open.spotify.com/track/1Rweq7vNjK4kZBbGrmxQsl) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:44 | 2024-03-09 | 2024-03-14 |
 | [Bye Bye](https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Bye Bye](https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb) | 1:48 | 2022-10-15 | 2022-10-17 |
+| [Bye Bye Bye \- From Deadpool and Wolverine Soundtrack](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 | 2024-07-30 |  |
 | [Bëttr 0ff](https://open.spotify.com/track/0r9ZhD7QEbIAcvfhDkIsdV) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:50 | 2023-02-25 | 2023-02-27 |
 | [c l o s e](https://open.spotify.com/track/4YiY551vHi6glMtgVxuqAy) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:48 | 2021-05-16 | 2021-05-17 |
 | [Call Out My Name](https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 3:48 | 2022-06-28 | 2023-03-10 |

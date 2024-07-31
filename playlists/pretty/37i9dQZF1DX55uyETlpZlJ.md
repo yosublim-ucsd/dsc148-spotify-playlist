@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,387 likes - 76 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,390 likes - 76 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 6 | [BRAHMA BAREDA YAAKINGE](https://open.spotify.com/track/1tfn40F6YmXE7W4yEnDIL3) | [Suraj Jois](https://open.spotify.com/artist/27GwuwHp0LlzXjAyZYniSp) | [BRAHMA BAREDA YAAKINGE](https://open.spotify.com/album/1rJ7M1YHchppCUDNVRqYDV) | 4:31 |
 | 7 | [Haaru Nee Gari Bichi](https://open.spotify.com/track/4dYYaHNqKXfpVcDqnDm9xV) | [Annapurna Chalageri](https://open.spotify.com/artist/6BRGRsI7IQMvUBmJpg5w5q) | [Haaru Nee Gari Bichi](https://open.spotify.com/album/18coGuzXg3JZdbp1YhtQGL) | 3:23 |
 | 8 | [Aadidavara Manava Balle](https://open.spotify.com/track/1Z0wlM0rNfb1J3ywtQ9465) | [Puornausri D](https://open.spotify.com/artist/1T5JDdqWTbT57tpBZtviqX), [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ) | [Aadidavara Manava Balle](https://open.spotify.com/album/3EtWYbsmP7VFfCZK6q7ICM) | 4:07 |
-| 9 | [Iru Jothe Endhu](https://open.spotify.com/track/7j8Bt3CSX0aQzUr8Wil4lN) | [Dr Nithin S](https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD), [Vaishnavi](https://open.spotify.com/artist/6EvZzYQvYz8M9s2JOXpe9e), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr) | [Iru Jothe Endhu](https://open.spotify.com/album/7697h4IU2P4ddZaP4kwO24) | 3:40 |
+| 9 | [Iru Jothe Endhu](https://open.spotify.com/track/7j8Bt3CSX0aQzUr8Wil4lN) | [Dr Nithin S](https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD), [Vaishnavi](https://open.spotify.com/artist/5cOsPxjOTOovRWboflO8CZ), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr) | [Iru Jothe Endhu](https://open.spotify.com/album/7697h4IU2P4ddZaP4kwO24) | 3:40 |
 | 10 | [Amalu](https://open.spotify.com/track/6wQcIY7csh8pNjdRIPpGsS) | [Nayan Meti](https://open.spotify.com/artist/6nwWvk6JlBmwe4jCnkimnd), [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr) | [Amalu](https://open.spotify.com/album/28JRQOBgS56TdjewpaFYk9) | 2:16 |
 | 11 | [Preethi andre higena](https://open.spotify.com/track/2II577XDmMSECcdZAUAxVz) | [Dolwin Kolalagiri](https://open.spotify.com/artist/7DDPhsid60HBOEoTP3bQOk), [Prashanth Kankanady](https://open.spotify.com/artist/0TG2p7nnb1iIbddC4YFyx5), [Vidya Suvarna](https://open.spotify.com/artist/34qIICjea7gcCbwklDhmq2) | [Preethi andre higena](https://open.spotify.com/album/3p60JgIzxmvRLRqwpUXaRO) | 3:57 |
 | 12 | [Vone Vone](https://open.spotify.com/track/0bs8ek0Ua5gjoaGc9Rkgjg) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Vone Vone](https://open.spotify.com/album/7fZeTyWiRoqj4dRcUx6rwm) | 1:53 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best cuts from the underground, at the heart of club culture 💎💎
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,329 likes - 100 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,501 likes - 100 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 | 71 | [Late Night Love](https://open.spotify.com/track/0qFtIHwXKO5orVkasAHDlh) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [Dreams Of A Dancefloor EP](https://open.spotify.com/album/5nQWnGTyv8hPti6XkHKdZ4) | 11:52 |
 | 72 | [Dreaming Still](https://open.spotify.com/track/1sJkC6vimqL34rIQgfMtRg) | [Manami](https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB) | [Dreaming Still](https://open.spotify.com/album/2qjqxXYfAeJIpIsq79UDFC) | 5:14 |
 | 73 | [Luv](https://open.spotify.com/track/50sAxbAOfoiCOSZfNljcac) | [Bored Lord](https://open.spotify.com/artist/651d6TuQaZF6XaRONhiS2n) | [Name It](https://open.spotify.com/album/5hWHm4vyqYpKKOZaMv558j) | 4:57 |
-| 74 | [Skin Like Rose \- SINGLE / SPLIT EP](https://open.spotify.com/track/2ARBDCIvnKqY2WboXMQAJt) | [KIM SWIM](https://open.spotify.com/artist/5wRR3aLJ5lZslvIQtugEGt) | [Skin Like Rose](https://open.spotify.com/album/5XoSV636RoJDTxMhaeuEYH) | 2:28 |
+| 74 | [Skin Like Rose](https://open.spotify.com/track/2ARBDCIvnKqY2WboXMQAJt) | [KIM SWIM](https://open.spotify.com/artist/5wRR3aLJ5lZslvIQtugEGt) | [Skin Like Rose](https://open.spotify.com/album/5XoSV636RoJDTxMhaeuEYH) | 2:28 |
 | 75 | [Carabiner \- Ciel's Reoriented Dub](https://open.spotify.com/track/5qlfhIvFTYYodQkv7RJubK) | [Bertie](https://open.spotify.com/artist/0GMPfX8H0ik2NMPMXEqnkI), [Ciel](https://open.spotify.com/artist/1Rv2Pete1cFEKlDYk0hjWl) | [Carabiner EP \(Deluxe Edition\)](https://open.spotify.com/album/5N9cYvF9gnDPCnu2ktBOUu) | 6:28 |
 | 76 | [Blåmerke](https://open.spotify.com/track/4O9tWSpHVHQQ8vZtGKgJac) | [SUCHI](https://open.spotify.com/artist/1O9dpGFcvuAU0tuAUpYg3N) | [Blåmerke](https://open.spotify.com/album/7IFc9W4Agnd155X70xQqh6) | 5:09 |
 | 77 | [PRIVATE LINK](https://open.spotify.com/track/0hZ4RO9BbDKjIN6gK90rPN) | [Lake Hills](https://open.spotify.com/artist/5y5zEG94qXEAbvj1kP0SR5) | [PRIVATE LINK](https://open.spotify.com/album/4Rmre0O4oaysE7BCXnBDxw) | 6:10 |

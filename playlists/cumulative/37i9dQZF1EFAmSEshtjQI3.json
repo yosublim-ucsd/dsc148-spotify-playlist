@@ -273,6 +273,24 @@
     },
     {
       "album": {
+        "name": "Lullaby Versions of Aitana",
+        "url": "https://open.spotify.com/album/6UiWhpHVN9pgySpp8DCdyQ"
+      },
+      "artists": [
+        {
+          "name": "The Cat and Owl",
+          "url": "https://open.spotify.com/artist/1wSLqKGKyRUnpf65pir8L6"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400199,
+      "name": "Mas De Lo Que Aposte",
+      "url": "https://open.spotify.com/track/4X2ezaWpxfNSCVEJ9yFB9h"
+    },
+    {
+      "album": {
         "name": "Si Te Soy Sincera",
         "url": "https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS"
       },

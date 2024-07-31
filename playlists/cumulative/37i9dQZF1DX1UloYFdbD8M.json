@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Benny Dayal",
+  "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Masala Coffee",
   "name": "Malayalam Indie",
   "tracks": [
     {
@@ -528,6 +528,24 @@
       "duration_ms": 333000,
       "name": "Bhagavathi",
       "url": "https://open.spotify.com/track/7IveVDpt6GAmdO2KU3SPw0"
+    },
+    {
+      "album": {
+        "name": "Bhagwaan",
+        "url": "https://open.spotify.com/album/7MrqeUhJJfwDk45JztAF9j"
+      },
+      "artists": [
+        {
+          "name": "Masala Coffee",
+          "url": "https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274110,
+      "name": "Bhagwaan",
+      "url": "https://open.spotify.com/track/2dJtvlQNYOyblWQlWjZynb"
     },
     {
       "album": {
@@ -3362,6 +3380,28 @@
       "duration_ms": 315714,
       "name": "Rebirth - Original Cut",
       "url": "https://open.spotify.com/track/3THJqla3aCc8CWyaKUTyvX"
+    },
+    {
+      "album": {
+        "name": "Roobaroo",
+        "url": "https://open.spotify.com/album/3wTzyleRaiwA1RdvHd6kId"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "Muhammed Ashkar",
+          "url": "https://open.spotify.com/artist/5XRVxdeC5uUmWp1ehZ9HKz"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220799,
+      "name": "Roobaroo",
+      "url": "https://open.spotify.com/track/2FvgMjHhoVgqwAN0Eyaxnq"
     },
     {
       "album": {

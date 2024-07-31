@@ -4,7 +4,7 @@
 
 > killer rock & alternative covers\. Cover: Paramore
 
-365 songs - 23 hr 35 min
+366 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Behind Blue Eyes](https://open.spotify.com/track/63mkh4yABneHUVhvLCtGau) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Lost & Found: Limp Bizkit](https://open.spotify.com/album/5wBG03REi81WTGvXskKo3E) | 4:30 | 2020-12-16 | 2022-07-29 |
 | [Billie Jean](https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Carry On](https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb) | 4:41 | 2020-12-16 |  |
 | [Black Dog](https://open.spotify.com/track/4n1bdGyTiVDcP8CR0XgMAa) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Black Dog](https://open.spotify.com/album/3GNuyeOQ0lPcB4HnJtnN3Y) | 4:47 | 2022-01-28 | 2022-07-29 |
+| [Black Haired Girl](https://open.spotify.com/track/2TwPYiJmam0lmuscobFGML) | [Jesse Malin](https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls), [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG) | [Black Haired Girl](https://open.spotify.com/album/7qbPwATVYs5drh2TcURDt7) | 2:57 | 2024-07-30 |  |
 | [Black Hole Sun](https://open.spotify.com/track/6D2gXbeLojuNlaYxno8MmF) | [Evan Konrad](https://open.spotify.com/artist/1kbwbl2LLa2zBfnKQbvw6Y) | [Black Hole Sun](https://open.spotify.com/album/1fh2yEipcfET3dKdHQ7owj) | 3:27 | 2022-03-25 | 2022-04-19 |
 | [Blank Generation \- Studio Version \- Recorded at Electric Lady Studios](https://open.spotify.com/track/1cHKubFP60htes9wa4Y5JO) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Live At Electric Lady](https://open.spotify.com/album/1OMEu56fo3rz6Oo0e0vYxQ) | 3:53 | 2020-12-16 |  |
 | [Blinded By The Light \- From "Super Troopers 2" Soundtrack](https://open.spotify.com/track/3kgtj0csPcN5uqPyEObXu9) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Blinded By The Light \(From "Super Troopers 2" Soundtrack\)](https://open.spotify.com/album/35CSAGjxuiLJhGEQ1KoRY9) | 4:36 | 2020-12-16 |  |
@@ -123,7 +124,7 @@
 | [Give Me One Reason \(The Plug\)](https://open.spotify.com/track/5N27JJr0UkCu0kWkiPIygQ) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [The Human Condition \(Deluxe Edition\)](https://open.spotify.com/album/4ZtEyTG6s7MfPjoEDrxH9C) | 3:34 | 2022-06-17 | 2024-04-19 |
 | [Given Up](https://open.spotify.com/track/6EQxZoqEiQPQwapC7xc9au) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Given Up](https://open.spotify.com/album/3qx8nIPVGYJ49EeCrFCsdZ) | 3:21 | 2020-12-16 | 2022-04-28 |
 | [God's Gonna Cut You Down](https://open.spotify.com/track/0FkcmHJOsWE80rlpzfT0Pq) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [God's Gonna Cut You Down](https://open.spotify.com/album/1aGCsyMzwIyDgkfUwSwFcf) | 2:40 | 2020-12-16 |  |
-| [Growin' Up \- acoustic at home](https://open.spotify.com/track/65KqSqOTL5DbFYU5d2kcaT) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Matter of Time](https://open.spotify.com/album/55Owto4BUyYuTJOFXEE0AX) | 3:14 | 2020-12-24 |  |
+| [Growin' Up \- acoustic at home](https://open.spotify.com/track/65KqSqOTL5DbFYU5d2kcaT) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Matter of Time](https://open.spotify.com/album/55Owto4BUyYuTJOFXEE0AX) | 3:14 | 2020-12-24 | 2024-07-31 |
 | [Hallelujah](https://open.spotify.com/track/74X1epeRufHckhuX1KFD04) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace \(Legacy Edition\)](https://open.spotify.com/album/07Fr36M0hRPJrSJMFWGnvD) | 6:53 | 2022-03-25 | 2022-04-21 |
 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 | 2022-06-17 | 2024-04-19 |
 | [Hard To Handle](https://open.spotify.com/track/05NYcsjJwOYq4jIiKPVj9p) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Shake Your Money Maker](https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3) | 3:08 | 2020-12-16 |  |

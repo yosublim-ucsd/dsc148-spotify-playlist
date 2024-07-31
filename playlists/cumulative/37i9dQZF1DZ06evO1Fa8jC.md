@@ -2,7 +2,7 @@
 
 ### [This Is Los Cafres](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Fa8jC)
 
-> This is Los Cafres\. The essential tracks, all in one playlist.
+> This is Los Cafres\. Todos os maiores hits em uma só playlist.
 
 84 songs - 6 hr 7 min
 

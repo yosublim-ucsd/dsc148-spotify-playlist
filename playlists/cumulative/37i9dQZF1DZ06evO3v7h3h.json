@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-19",
-  "description": "This is Rashid. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Rashid. The essential tracks, all in one playlist.",
   "name": "This Is Rashid",
   "tracks": [
     {
@@ -1233,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "Que Assim Seja",
+        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200678,
+      "name": "Quero Ver Segurar",
+      "url": "https://open.spotify.com/track/63g4tLM1priHgH8eqUJSpP"
+    },
+    {
+      "album": {
         "name": "Crise",
         "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
       },
@@ -1632,7 +1650,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 149760,
       "name": "\u00bfTe Quedas Conmigo?",
       "url": "https://open.spotify.com/track/623XPwxBQuqKe7YPwYrQl0"

@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Fjord",
+        "url": "https://open.spotify.com/album/04H8WtE9iGuS0cU9xGWJLs"
+      },
+      "artists": [
+        {
+          "name": "Ey\u00f8ni",
+          "url": "https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Fjord",
+      "url": "https://open.spotify.com/track/3nb0mXvI0kiyo4dQUZx1Tj"
+    },
+    {
+      "album": {
         "name": "Fleurs de cerisier",
         "url": "https://open.spotify.com/album/6GNx3naU5PE4SjscEVOfCS"
       },
@@ -1414,7 +1432,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 171142,
       "name": "resting song",
       "url": "https://open.spotify.com/track/0xLmbr7Y8dCbwwMoh2tL5P"
@@ -1972,7 +1990,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 196175,
       "name": "true love",
       "url": "https://open.spotify.com/track/2miVNPUhCCc5VFAOQkqWay"

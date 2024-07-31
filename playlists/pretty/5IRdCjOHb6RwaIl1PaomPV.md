@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New music from Devon Again and MRD, plus the latest cuts from SURF GANG, benzii + more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,724 likes - 100 songs - 5 hr 9 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,726 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

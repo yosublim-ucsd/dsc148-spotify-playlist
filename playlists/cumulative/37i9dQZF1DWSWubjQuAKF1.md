@@ -4,7 +4,7 @@
 
 > nasze brzmienie ✨ Cover: Livka
 
-134 songs - 6 hr 21 min
+135 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [CHCĘ TYLKO KRZYCZEĆ](https://open.spotify.com/track/1pHyRBjIwgNvmKYCsI3BRD) | [Cyrko](https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL) | [CHCĘ TYLKO KRZYCZEĆ](https://open.spotify.com/album/5ywUP1yvmqZLjsopZWQxQt) | 2:41 | 2024-07-04 |  |
 | [chiaroscuro](https://open.spotify.com/track/0it9ytMrLUNz7UcHz9glAa) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [chiaroscuro](https://open.spotify.com/album/2botQzHLmHyVKwnKdmumIp) | 3:01 | 2024-06-28 |  |
 | [Chyba że z Tobą](https://open.spotify.com/track/0peRfvtx1Je91FxQtii5DJ) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [Chyba że z Tobą](https://open.spotify.com/album/1OeMB0KFN400gB3IrwQK7L) | 2:11 | 2024-06-28 | 2024-07-12 |
+| [chłodniejsze noce](https://open.spotify.com/track/2MI9NuIHwCn6aLf90erAtQ) | [Seweryn](https://open.spotify.com/artist/3GpmeiPTFU97GPeokRl0RZ) | [chłodniejsze noce](https://open.spotify.com/album/1WJlceX1m1d2Qp4MigRlZZ) | 2:10 | 2024-07-25 |  |
 | [chłopcy](https://open.spotify.com/track/4BupR2P5QwoQNudwGNz2f4) | [RYSIA](https://open.spotify.com/artist/3sobbRn7Mx3TM6HAACPYTp) | [chłopcy](https://open.spotify.com/album/0HyxlVOaa4Cf7KTSdDGzWN) | 2:24 | 2024-06-28 | 2024-07-19 |
 | [Clean girl era](https://open.spotify.com/track/2IXBRcjntKv4h9TNYwun2B) | [Klaudia](https://open.spotify.com/artist/3dWkm8gaXw4aS2fKk36z2o) | [Clean girl era](https://open.spotify.com/album/1Yn1UeZ9gBYllO6S1mzfdE) | 2:37 | 2024-07-18 |  |
 | [cześć](https://open.spotify.com/track/6AS5rQyTrxZhx78KLODdo8) | [iga casp](https://open.spotify.com/artist/3voDFCGW20SxhuZ8Far400), [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [cześć](https://open.spotify.com/album/3BVpfC5UOknCXhYprn9mfb) | 3:03 | 2024-06-28 | 2024-07-27 |
@@ -106,7 +107,7 @@
 | [Poszukam](https://open.spotify.com/track/6CGJGXApyiw0Gu5pzVx0W2) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Pośród Snów EP](https://open.spotify.com/album/7u5KWpB6S7YaJhhKYzXkDg) | 2:26 | 2024-07-11 |  |
 | [Priorytety](https://open.spotify.com/track/3Q3U0azD3REhtU7nLrhabj) | [Alan Cyprysiak](https://open.spotify.com/artist/0gbd0sFWxT28CVsxZ6J6Ig) | [Priorytety](https://open.spotify.com/album/2B46Wx88prs5gPWMnvFMVO) | 4:27 | 2024-06-28 |  |
 | [PRZYJEDŹ](https://open.spotify.com/track/0IXLaTUyJmNj10p6qKknaI) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | [PRZYJEDŹ](https://open.spotify.com/album/1TN2HoEtch1vrO3EldGcQ0) | 2:29 | 2024-06-28 |  |
-| [Pętle](https://open.spotify.com/track/2XwIPfgqL1ZcvTdDAwOfkE) | [Dereal](https://open.spotify.com/artist/7HRamaztrCxQDrYR0Z1Sx3) | [Pętle](https://open.spotify.com/album/0VM7z6lryDDKmfqONMDpwa) | 2:15 | 2024-07-04 |  |
+| [Pętle](https://open.spotify.com/track/2XwIPfgqL1ZcvTdDAwOfkE) | [Dereal](https://open.spotify.com/artist/7HRamaztrCxQDrYR0Z1Sx3) | [Pętle](https://open.spotify.com/album/0VM7z6lryDDKmfqONMDpwa) | 2:15 | 2024-07-04 | 2024-07-31 |
 | [rychło](https://open.spotify.com/track/7MelYNEVwd91gVDJFpu6it) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [rychło](https://open.spotify.com/album/45wHP18JKaFAEMuUQHoKmm) | 3:37 | 2024-06-28 |  |
 | [Safe Zone](https://open.spotify.com/track/7vU0fgnjfwRuAGDDNSmfGn) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Safe zone](https://open.spotify.com/album/00FCqeV2zeakDhDWTziDQG) | 3:02 | 2024-06-28 |  |
 | [Sangria](https://open.spotify.com/track/2eOZVNpzl3BxAlUduZfUPu) | [MILI JACK](https://open.spotify.com/artist/545f9s9IidY421Nw3QtyhO) | [Sangria](https://open.spotify.com/album/6Ad8k07iiHmD9wbuNfAM03) | 2:40 | 2024-06-28 |  |
@@ -141,6 +142,6 @@
 | [zimny dzień](https://open.spotify.com/track/2pEaRv3Qbc1UzuJF0pMJfU) | [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [zimny dzień](https://open.spotify.com/album/5hX0TIgitm0kVNwgLOrL6x) | 2:57 | 2024-06-28 | 2024-07-19 |
 | [znów patrzysz tak](https://open.spotify.com/track/39d5agbwOlaEMFA04UnaOu) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2) | [znów patrzysz tak](https://open.spotify.com/album/4eHhOzhzyKKr4kyIm79oDK) | 3:11 | 2024-07-25 |  |
 | [ZORZE POLARNE](https://open.spotify.com/track/4JNdDbvLlsAWhrMGYiqIFW) | [młody podago](https://open.spotify.com/artist/36a1D1m5xIlco1bKlirhZX) | [ZORZE POLARNE](https://open.spotify.com/album/0PB5Z0hgBToVQMK60MenFE) | 2:34 | 2024-06-28 | 2024-07-12 |
-| [ŻYCZENIE](https://open.spotify.com/track/5NCbw8iGoUGHmUfmfKfgSL) | [Lija](https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5) | [ŻYCZENIE](https://open.spotify.com/album/5uuqDKz4fqciOPrua2DMEP) | 2:53 | 2024-07-25 |  |
+| [ŻYCZENIE](https://open.spotify.com/track/5NCbw8iGoUGHmUfmfKfgSL) | [LIJA](https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5) | [ŻYCZENIE](https://open.spotify.com/album/5uuqDKz4fqciOPrua2DMEP) | 2:53 | 2024-07-25 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

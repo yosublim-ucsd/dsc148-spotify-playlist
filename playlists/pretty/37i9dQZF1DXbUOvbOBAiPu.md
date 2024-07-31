@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: Calvin Harris & Ellie Goulding
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,639 likes - 83 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,645 likes - 83 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 48 | [Another Idea of Fun](https://open.spotify.com/track/6ow71WJw2He34iUOB1gPp0) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [Another Idea of Fun](https://open.spotify.com/album/7eXQQIfWuRL6fXuBfI5T9B) | 4:14 |
 | 49 | [Bird's eye view](https://open.spotify.com/track/24QzCCBTDdF4z5D9JFdpfz) | [Lukx](https://open.spotify.com/artist/088lBQuoSkAYyCp6AQpmpY), [Dad](https://open.spotify.com/artist/7kvGG9tuBj9Xm3A7xokVh0) | [Bird's eye view](https://open.spotify.com/album/0jNr7xWsX3tUibWryRQPqB) | 3:12 |
 | 50 | [Crie](https://open.spotify.com/track/0OxtPSOrFIpklQkBfVDSvX) | [SYN](https://open.spotify.com/artist/0FeRSQGWJUh7IgoRom1qdP) | [Crie](https://open.spotify.com/album/4QylmZQn4fVLAtou3xhMhc) | 3:02 |
-| 51 | [Zéro par mois](https://open.spotify.com/track/2NnB2R2wQgOrkOvnJWV4eM) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD), [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Zéro par mois](https://open.spotify.com/album/72aUzvdkjxOJWmuQpxAx3z) | 2:21 |
+| 51 | [ZÉRO PAR MOIS](https://open.spotify.com/track/2NnB2R2wQgOrkOvnJWV4eM) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD), [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [ZÉRO PAR MOIS](https://open.spotify.com/album/72aUzvdkjxOJWmuQpxAx3z) | 2:21 |
 | 52 | [Solo](https://open.spotify.com/track/2zsc2x7K1yknCbzCH7JXaO) | [Golgoth](https://open.spotify.com/artist/6YPGhj88VOEmQ6e9qTotvA) | [Solo](https://open.spotify.com/album/1SwyFqWukA8RpIbdaqo4o7) | 2:39 |
 | 53 | [Digest](https://open.spotify.com/track/6Q9KwZkFtTKLAAB8iOTpbZ) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Digest](https://open.spotify.com/album/7y5e3W5HAauq6oES8aJtbk) | 2:26 |
 | 54 | [Peace & Love](https://open.spotify.com/track/2Y2DiA8VA05lw1SDNCcVhL) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebel Queen](https://open.spotify.com/album/6LHuKanB3fdLZhTQNdB2l1) | 3:48 |

@@ -1,12 +1,12 @@
 {
-  "description": "This Is The Kid LAROI. Los temas esenciales, todos en una lista.",
-  "num_followers": 229411,
+  "description": "This is The Kid LAROI. The essential tracks, all in one playlist.",
+  "num_followers": 229447,
   "original_name": "This Is The Kid LAROI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqWKAAAAAADYdp34OmzZ/yZdzsAH7qFE",
+  "snapshot_id": "ZqbbgAAAAAD8zE2r6pN9UQxqcDl5Zvzg",
   "tracks": [
     {
       "added_at": null,
@@ -699,6 +699,22 @@
       "duration_ms": 171692,
       "name": "My City",
       "url": "https://open.spotify.com/track/0DqIzDu0BK4dkhABRt4iFT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5NAZBw4kl4CLl8N14lGxQy"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 117857,
+      "name": "Shot For Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/4rVpFdm9XDYC27qxJvjLRS"
     }
   ],
   "unique_name": "This Is The Kid LAROI",

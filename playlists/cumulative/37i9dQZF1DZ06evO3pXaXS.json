@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Synchronicity (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4IdDVb3BntFlGHKrFA5sea"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202106,
+      "name": "Every Bomb You Make",
+      "url": "https://open.spotify.com/track/2k7p1BXc82S8Yj5vKIaTJi"
+    },
+    {
+      "album": {
         "name": "Synchronicity (Remastered 2003)",
         "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
       },

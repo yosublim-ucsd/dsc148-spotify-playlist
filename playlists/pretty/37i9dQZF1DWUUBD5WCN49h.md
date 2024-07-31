@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Godwin
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,523 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,528 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 25 | [Tsunami](https://open.spotify.com/track/7LXtxeGpTasvQpRirYkQco) | [WaiKid](https://open.spotify.com/artist/4Y4QHTHS8v9GNGEZ4Xh90Q) | [Love & Passion](https://open.spotify.com/album/1SMBiXBDGdKYBTBZg2gO2h) | 3:23 |
 | 26 | [Inside](https://open.spotify.com/track/2oggtjZEvlUtmXq5flIu3K) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Finding Nimo Series: The Capsule](https://open.spotify.com/album/0kHfQtPsWfqcwnUCjwqlmg) | 2:36 |
 | 27 | [hadija \(khadija\)](https://open.spotify.com/track/6xmqQyCjotRRPUN7WVODdj) | [The.wav](https://open.spotify.com/artist/1OiTKR7t69UAVnJYfbOPf4) | [hadija \(khadija\)](https://open.spotify.com/album/6cp9Q2sHU7P0Qsc2EZTOLx) | 3:37 |
-| 28 | [Game Over](https://open.spotify.com/track/2fZu9R6C46L67e3dH5xBcx) | [Spy Shitta](https://open.spotify.com/artist/4LTESjldd92V5ZxhEITidD) | [Game Over](https://open.spotify.com/album/6RVwiaqssDPZkQ0gzAdFq0) | 2:28 |
+| 28 | [Game Over](https://open.spotify.com/track/2fZu9R6C46L67e3dH5xBcx) | [Spy Shitta](https://open.spotify.com/artist/4LTESjldd92V5ZxhEITidD) | [Game Over](https://open.spotify.com/album/6RVwiaqssDPZkQ0gzAdFq0) | 2:30 |
 | 29 | [FADE](https://open.spotify.com/track/2sGCOzmkJCTRzUlurmnRYW) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [MONOCHROME RADIO](https://open.spotify.com/album/2LBqxBoNbVgb6lioat3POo) | 2:28 |
 | 30 | [Love Me](https://open.spotify.com/track/3MSuBkZsG0AadmK3zv1laN) | [Kwame O](https://open.spotify.com/artist/2wTlbPw0IBeIlBU4EtygJo), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t), [Yu K](https://open.spotify.com/artist/35FzuoWZbS3jewNlG7mCcU) | [Love Me](https://open.spotify.com/album/7D0JDtrNn8qhH816DhCpp1) | 2:40 |
 | 31 | [Stay Real](https://open.spotify.com/track/6PNRhwTmlllt9PpwdTTeUH) | [Wakayna](https://open.spotify.com/artist/2EBDxWF1HabOhhHbJDTVo4) | [Stay Real](https://open.spotify.com/album/4tLBelbEf00cVT0D8L4ZU3) | 2:55 |

@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "1998 (Anfisa Letyago Remix)",
+        "url": "https://open.spotify.com/album/4eO1VRh3jrgJRDzNs3RE25"
+      },
+      "artists": [
+        {
+          "name": "Binary Finary",
+          "url": "https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe"
+        },
+        {
+          "name": "Anfisa Letyago",
+          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244619,
+      "name": "1998 - Anfisa Letyago Remix",
+      "url": "https://open.spotify.com/track/0J0FhbUPbiddqk4xbrIDrh"
+    },
+    {
+      "album": {
         "name": "See Life Better",
         "url": "https://open.spotify.com/album/6ozKTLgYIWU4sgHtWIqXNr"
       },
@@ -692,7 +714,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 229690,
       "name": "Haze - Original Mix",
       "url": "https://open.spotify.com/track/5BzsY9SIZapFmhjQgb1W3F"

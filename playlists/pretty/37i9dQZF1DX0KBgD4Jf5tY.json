@@ -1,6 +1,6 @@
 {
   "description": "Il meglio della musica indipendente italiana! Cover: <a href=\"spotify:artist:0ez4Y0vHwlRCrqGIkChC3Q\">T\u00c4RA</a>",
-  "num_followers": 8600,
+  "num_followers": 8599,
   "original_name": "Fresh Finds Italia",
   "owner": {
     "name": "Spotify",
@@ -59,26 +59,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Lipstick",
-        "url": "https://open.spotify.com/album/1ZRb9Qqq4H3lDBXcuy8Ngg"
-      },
-      "artists": [
-        {
-          "name": "Sillyelly",
-          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
-        },
-        {
-          "name": "EnimraK",
-          "url": "https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Lipstick",
-      "url": "https://open.spotify.com/track/6yPgRE2ybGQnCorD4Ysp1s"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "QUARTERBACK",
         "url": "https://open.spotify.com/album/3X3nJXGwt8nfGs9oLQdfQF"
       },
@@ -95,6 +75,26 @@
       "duration_ms": 177128,
       "name": "QUARTERBACK",
       "url": "https://open.spotify.com/track/2tBoEbmJ2vizuK7Kjsc4Xo"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Lipstick",
+        "url": "https://open.spotify.com/album/1ZRb9Qqq4H3lDBXcuy8Ngg"
+      },
+      "artists": [
+        {
+          "name": "Sillyelly",
+          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
+        },
+        {
+          "name": "EnimraK",
+          "url": "https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Lipstick",
+      "url": "https://open.spotify.com/track/6yPgRE2ybGQnCorD4Ysp1s"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -247,6 +247,22 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
+        "name": "Cuore di plastica",
+        "url": "https://open.spotify.com/album/133fvM0w0I7MYBWpea2FnP"
+      },
+      "artists": [
+        {
+          "name": "GIIN",
+          "url": "https://open.spotify.com/artist/5FqDKPJK3RSwGTW4rlBJFM"
+        }
+      ],
+      "duration_ms": 182126,
+      "name": "Cuore di plastica",
+      "url": "https://open.spotify.com/track/60z4eK84ANB9UZZuAe2cNr"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
         "name": "Cinque canzoni",
         "url": "https://open.spotify.com/album/49nKcArx2pJqBGJvvI6dug"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 223557,
       "name": "Federico",
       "url": "https://open.spotify.com/track/7BoOBKS1Hjp8emEya78hA2"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "Cuore di plastica",
-        "url": "https://open.spotify.com/album/133fvM0w0I7MYBWpea2FnP"
-      },
-      "artists": [
-        {
-          "name": "GIIN",
-          "url": "https://open.spotify.com/artist/5FqDKPJK3RSwGTW4rlBJFM"
-        }
-      ],
-      "duration_ms": 182126,
-      "name": "Cuore di plastica",
-      "url": "https://open.spotify.com/track/60z4eK84ANB9UZZuAe2cNr"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
+        "name": "NON CAMBIO MAI",
+        "url": "https://open.spotify.com/album/6fScpbLp2m9nBFCbOCP2ND"
+      },
+      "artists": [
+        {
+          "name": "Alessia Dalia",
+          "url": "https://open.spotify.com/artist/7ItlEnUdJ8rhanA9Tf2uRc"
+        }
+      ],
+      "duration_ms": 166968,
+      "name": "NON CAMBIO MAI",
+      "url": "https://open.spotify.com/track/1suAKLt3OIwoVECcdSvQGq"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
         "name": "Lacrima Nuova",
         "url": "https://open.spotify.com/album/7xNYqNekje9BsbaCYZG7ip"
       },
@@ -631,18 +647,18 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "NON CAMBIO MAI",
-        "url": "https://open.spotify.com/album/6fScpbLp2m9nBFCbOCP2ND"
+        "name": "paura di morire",
+        "url": "https://open.spotify.com/album/4BAei2Ld3o6mtKGuSREqhD"
       },
       "artists": [
         {
-          "name": "Alessia Dalia",
-          "url": "https://open.spotify.com/artist/7ItlEnUdJ8rhanA9Tf2uRc"
+          "name": "Brokenkidzz",
+          "url": "https://open.spotify.com/artist/5YoIT0p6aIAuLfxbK4D6mb"
         }
       ],
-      "duration_ms": 166968,
-      "name": "NON CAMBIO MAI",
-      "url": "https://open.spotify.com/track/1suAKLt3OIwoVECcdSvQGq"
+      "duration_ms": 128920,
+      "name": "paura di morire",
+      "url": "https://open.spotify.com/track/7Kmv8kPvI0Zad70P2jRmNK"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -659,22 +675,6 @@
       "duration_ms": 123830,
       "name": "Offline",
       "url": "https://open.spotify.com/track/7yxDBNu6S9WmylPqJ4bmgX"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "paura di morire",
-        "url": "https://open.spotify.com/album/4BAei2Ld3o6mtKGuSREqhD"
-      },
-      "artists": [
-        {
-          "name": "Brokenkidzz",
-          "url": "https://open.spotify.com/artist/5YoIT0p6aIAuLfxbK4D6mb"
-        }
-      ],
-      "duration_ms": 128920,
-      "name": "paura di morire",
-      "url": "https://open.spotify.com/track/7Kmv8kPvI0Zad70P2jRmNK"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Tulipano",
-        "url": "https://open.spotify.com/album/7pitv105FPuAQIKwiKGpLU"
-      },
-      "artists": [
-        {
-          "name": "APOLLO QUATTRO",
-          "url": "https://open.spotify.com/artist/4s6RBNeuADV5LVSl0lI0m8"
-        }
-      ],
-      "duration_ms": 122916,
-      "name": "Tulipano",
-      "url": "https://open.spotify.com/track/1YnODCsdwUw3d0dyO7qogW"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "Marea",
         "url": "https://open.spotify.com/album/66NCbMSBW2Fk31nmtSvhuy"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 172481,
       "name": "Marea",
       "url": "https://open.spotify.com/track/1dGE2w5GZZeRk2gO6KfX06"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Tulipano",
+        "url": "https://open.spotify.com/album/7pitv105FPuAQIKwiKGpLU"
+      },
+      "artists": [
+        {
+          "name": "APOLLO QUATTRO",
+          "url": "https://open.spotify.com/artist/4s6RBNeuADV5LVSl0lI0m8"
+        }
+      ],
+      "duration_ms": 122916,
+      "name": "Tulipano",
+      "url": "https://open.spotify.com/track/1YnODCsdwUw3d0dyO7qogW"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Ad Occhi Aperti",
-        "url": "https://open.spotify.com/album/5s0su3k09HeBuNPKuyvU47"
-      },
-      "artists": [
-        {
-          "name": "Anita Cane Violins",
-          "url": "https://open.spotify.com/artist/4o0yqv6vXY7VZiHXFhCBhP"
-        }
-      ],
-      "duration_ms": 243789,
-      "name": "Ad Occhi Aperti",
-      "url": "https://open.spotify.com/track/3NMAYytFJOcIbYAhdJr3gj"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "Scriverci solo di notte",
         "url": "https://open.spotify.com/album/57n8Jmc4tyUJkTGXuP2MHp"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 160950,
       "name": "Scriverci solo di notte",
       "url": "https://open.spotify.com/track/6w3zQHAECBgWwAjGuYz1jd"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Ad Occhi Aperti",
+        "url": "https://open.spotify.com/album/5s0su3k09HeBuNPKuyvU47"
+      },
+      "artists": [
+        {
+          "name": "Anita Cane Violins",
+          "url": "https://open.spotify.com/artist/4o0yqv6vXY7VZiHXFhCBhP"
+        }
+      ],
+      "duration_ms": 243789,
+      "name": "Ad Occhi Aperti",
+      "url": "https://open.spotify.com/track/3NMAYytFJOcIbYAhdJr3gj"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -859,26 +859,18 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "CTRL Z (feat. lica)",
-        "url": "https://open.spotify.com/album/6v4DZZ6a16W4euHYJnQt9E"
+        "name": "COME SEMBRA",
+        "url": "https://open.spotify.com/album/6bHSfXnPXUoUVZqhAtKmyG"
       },
       "artists": [
         {
-          "name": "HERESIA",
-          "url": "https://open.spotify.com/artist/3HG7cwBJ7k7m2JBfFo21tL"
-        },
-        {
-          "name": "Swan",
-          "url": "https://open.spotify.com/artist/6c3y5GxfMe6dWgUtTLnnCE"
-        },
-        {
-          "name": "lica",
-          "url": "https://open.spotify.com/artist/2qjCczhvzHWCP9VtAKYA0R"
+          "name": "Incubo",
+          "url": "https://open.spotify.com/artist/0IdAopcNZfTVh5Lx8H3sDm"
         }
       ],
-      "duration_ms": 169310,
-      "name": "CTRL Z (feat. lica)",
-      "url": "https://open.spotify.com/track/2b4CreHZGsJeMYQAVLryDw"
+      "duration_ms": 186463,
+      "name": "COME SEMBRA",
+      "url": "https://open.spotify.com/track/2wpK0bmYeIN0S695bPoZI2"
     }
   ],
   "unique_name": "Fresh Finds Italia",

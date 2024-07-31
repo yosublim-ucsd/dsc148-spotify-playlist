@@ -1,6 +1,6 @@
 {
   "description": "Roll the windows down and take a few risks out on the open, country roads.",
-  "num_followers": 32230,
+  "num_followers": 32228,
   "original_name": "The Road Less Traveled",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
+        "name": "Old News",
+        "url": "https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY"
+      },
+      "artists": [
+        {
+          "name": "The Steel Woods",
+          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
+        }
+      ],
+      "duration_ms": 251498,
+      "name": "All of These Years",
+      "url": "https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
         "name": "Hold My Beer, Vol. 2",
         "url": "https://open.spotify.com/album/4UvP4sa5O6YQP1xr7Yb1xK"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 193931,
       "name": "Rodeo Clown",
       "url": "https://open.spotify.com/track/0rbXbCiZAocA7bYP8JbQx2"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "Old News",
-        "url": "https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY"
-      },
-      "artists": [
-        {
-          "name": "The Steel Woods",
-          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
-        }
-      ],
-      "duration_ms": 251498,
-      "name": "All of These Years",
-      "url": "https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Wine, Beer, Whiskey (Radio Edit)",
-        "url": "https://open.spotify.com/album/4Th8fDtKCTD6lrmK43tcqR"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 184266,
-      "name": "Wine, Beer, Whiskey - Radio Edit",
-      "url": "https://open.spotify.com/track/2q4ooWQ4KvVhN2oX44m2D4"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Asunder",
         "url": "https://open.spotify.com/album/0ld0jOVy5wuXqUqCU7Xpf8"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 229573,
       "name": "Time to Move On",
       "url": "https://open.spotify.com/track/3RKbdvirSHpLVwbwQRqtZE"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Wine, Beer, Whiskey (Radio Edit)",
+        "url": "https://open.spotify.com/album/4Th8fDtKCTD6lrmK43tcqR"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 184266,
+      "name": "Wine, Beer, Whiskey - Radio Edit",
+      "url": "https://open.spotify.com/track/2q4ooWQ4KvVhN2oX44m2D4"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 190173,
-      "name": "Over Drinking",
-      "url": "https://open.spotify.com/track/6pmUZU4mDjodUy7LEbxKYZ"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Honky Tonk Hell",
         "url": "https://open.spotify.com/album/7A07KizyQlXTvwFY0Nj0XF"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 233600,
       "name": "Honky Tonk Hell",
       "url": "https://open.spotify.com/track/6zBCsjkZd6SLDX32I8ZzrF"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 190173,
+      "name": "Over Drinking",
+      "url": "https://open.spotify.com/track/6pmUZU4mDjodUy7LEbxKYZ"
     },
     {
       "added_at": "2024-03-25 16:53:27",

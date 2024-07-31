@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Kalki 2898 Ad",
-  "num_followers": 123306,
+  "num_followers": 123539,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zp9zEgAAAADDFuVIY/3y5NoScKwUtOY/",
+  "snapshot_id": "ZqiwvgAAAABYHJsqqwN2Oe4nbXbO17kI",
   "tracks": [
     {
       "added_at": "2024-06-16 12:40:05",
@@ -31,6 +31,30 @@
       "duration_ms": 163354,
       "name": "Bhairava Anthem (From \"Kalki 2898 Ad\") (Telugu)",
       "url": "https://open.spotify.com/track/5kNydYWkUyXh4zVoy8QDmC"
+    },
+    {
+      "added_at": "2024-07-30 09:22:06",
+      "album": {
+        "name": "Ullaasam (From \"Saripodhaa Sanivaaram\")",
+        "url": "https://open.spotify.com/album/6Pofs9s7Bm0UVK94nenVJs"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Krishna Lasya Muthyala",
+          "url": "https://open.spotify.com/artist/6Xe2lU4AiHXTk3ehxlm7Ms"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Ullaasam (From \"Saripodhaa Sanivaaram\")",
+      "url": "https://open.spotify.com/track/0ROW5t0PWyBS6k0UizBr6c"
     },
     {
       "added_at": "2024-07-23 09:08:34",
@@ -135,30 +159,6 @@
       "duration_ms": 230866,
       "name": "Gumma (From \"Ambajipeta Marriage Band\")",
       "url": "https://open.spotify.com/track/30CBQmKZ0fugbhs7ExGT1e"
-    },
-    {
-      "added_at": "2024-07-18 06:24:33",
-      "album": {
-        "name": "Murari",
-        "url": "https://open.spotify.com/album/6kl5gAF0jqGb9iKdLVGBHr"
-      },
-      "artists": [
-        {
-          "name": "Jikki",
-          "url": "https://open.spotify.com/artist/1cXMzsmYVsprIfgnqOmgRg"
-        },
-        {
-          "name": "Sunitha",
-          "url": "https://open.spotify.com/artist/74S8YRi4XQ5yf9ToSzuY80"
-        },
-        {
-          "name": "Sandhya",
-          "url": "https://open.spotify.com/artist/5pBJLl0z3HoPLzPI95P6PN"
-        }
-      ],
-      "duration_ms": 321619,
-      "name": "Alanati Ramachandrudu",
-      "url": "https://open.spotify.com/track/2SyVdOenmbDSjUGoFprS2x"
     },
     {
       "added_at": "2024-06-25 09:12:10",

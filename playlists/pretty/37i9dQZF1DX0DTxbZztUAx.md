@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DTxbZztUAx.md) - [plain]
 
 > Find love\. Find success\. Find yourself\. Listen to the music from and inspired by The Perfect Find, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,859 likes - 22 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,882 likes - 22 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

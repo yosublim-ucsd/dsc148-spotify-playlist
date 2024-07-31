@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Aisi Koi Baarish",
+        "url": "https://open.spotify.com/album/6d9sG3ghiBThK3Nh0EkcGq"
+      },
+      "artists": [
+        {
+          "name": "Samira Koppikar",
+          "url": "https://open.spotify.com/artist/4u3Da1oOLaZawlwHqhDV9e"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194249,
+      "name": "Aisi Koi Baarish",
+      "url": "https://open.spotify.com/track/28Xi0hvb1Ejd3K2Yn4JsRF"
+    },
+    {
+      "album": {
         "name": "Aisi Woh Baarish",
         "url": "https://open.spotify.com/album/0XCgG0d1PVfqfGd0k4ryWG"
       },

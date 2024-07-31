@@ -1,6 +1,6 @@
 {
   "description": "POST HUMAN: NeX GEn is out! Foto: Bring Me The Horizon",
-  "num_followers": 112653,
+  "num_followers": 112641,
   "original_name": "do rockeeee",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "Velhos H\u00e1bitos",
+        "url": "https://open.spotify.com/album/2IYAuvdKeMNCXInRr8TV4G"
+      },
+      "artists": [
+        {
+          "name": "Ref\u00fagio",
+          "url": "https://open.spotify.com/artist/1tnALlMyBbsShTBbAHWjLr"
+        }
+      ],
+      "duration_ms": 289932,
+      "name": "Ressaca Moral",
+      "url": "https://open.spotify.com/track/5Ho70E7ZDyHqr3iCWM1X63"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "isolation demos",
         "url": "https://open.spotify.com/album/1PJHCDU1CibYqQGeDN8Bvu"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 120943,
       "name": "grave inside my head",
       "url": "https://open.spotify.com/track/1ckva68ysL3kpDRkZII6vK"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Velhos H\u00e1bitos",
-        "url": "https://open.spotify.com/album/2IYAuvdKeMNCXInRr8TV4G"
-      },
-      "artists": [
-        {
-          "name": "Ref\u00fagio",
-          "url": "https://open.spotify.com/artist/1tnALlMyBbsShTBbAHWjLr"
-        }
-      ],
-      "duration_ms": 289932,
-      "name": "Ressaca Moral",
-      "url": "https://open.spotify.com/track/5Ho70E7ZDyHqr3iCWM1X63"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
+        "name": "Even When I\u2019m Not With You",
+        "url": "https://open.spotify.com/album/38nUbLUn1QQvxiYOSezqJU"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "Even When I\u2019m Not With You",
+      "url": "https://open.spotify.com/track/4FUT5585FDMRFq7z5ZprHC"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
         "name": "maybe (feat. Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/36fDvdG4hmUbfLgauLOFgG"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 170133,
       "name": "maybe (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/1Al4Z4K76RCKj31mExavs7"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
-        "name": "Even When I\u2019m Not With You",
-        "url": "https://open.spotify.com/album/38nUbLUn1QQvxiYOSezqJU"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "Even When I\u2019m Not With You",
-      "url": "https://open.spotify.com/track/4FUT5585FDMRFq7z5ZprHC"
     }
   ],
   "unique_name": "do rockeeee",

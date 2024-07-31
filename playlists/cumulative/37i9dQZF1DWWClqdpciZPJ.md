@@ -4,20 +4,22 @@
 
 > Music from "The Irregular at Magic High School"! /音楽で辿る「魔法科高校の劣等生」の世界。©2023 佐島 勤/KADOKAWA/魔法科高校3製作委員会
 
-50 songs - 2 hr 42 min
+52 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [101](https://open.spotify.com/track/1b6hY9rNcupzlFrYwrFIsy) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [101 / 夜光](https://open.spotify.com/album/1XBNJ4XudzAs9NILcE500K) | 4:21 | 2024-04-05 |  |
+| [Both Sides Of The Story](https://open.spotify.com/track/7xGoVAltGzMQfrb3X1P5bt) | [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [魔法科高校の劣等生 ダブルセブン編＆スティープルチェース編＆古都内乱編オリジナルサウンドトラック](https://open.spotify.com/album/7MhQ8UOwr9EBAAszLvERft) | 3:28 | 2024-07-30 |  |
 | [code break](https://open.spotify.com/track/1DLgxHsg9VnFTEy3vVFPfO) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [魔法科高校の劣等生　オリジナルサウンドトラック　1](https://open.spotify.com/album/3bOzsps2IDmX1y6Zfqn5TX) | 3:55 | 2024-04-05 |  |
 | [DOSKOI](https://open.spotify.com/track/2pfOBdPulLWUwp58L5vOFj) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [劇場版 魔法科高校の劣等生 星を呼ぶ少女 オリジナルサウンドトラック \(Selected Edition\)](https://open.spotify.com/album/24FfgBhdr1PRRCYGlYgXlz) | 1:20 | 2024-04-05 |  |
 | [failure](https://open.spotify.com/track/22uhSqZzwwG1KCElYXDnP3) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [劇場版 魔法科高校の劣等生 星を呼ぶ少女 オリジナルサウンドトラック \(Selected Edition\)](https://open.spotify.com/album/24FfgBhdr1PRRCYGlYgXlz) | 2:02 | 2024-04-05 |  |
+| [Falling Snow](https://open.spotify.com/track/05TSZW8dsL184sz965AUuW) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [魔法科高校の劣等生 ダブルセブン編＆スティープルチェース編＆古都内乱編オリジナルサウンドトラック](https://open.spotify.com/album/7MhQ8UOwr9EBAAszLvERft) | 2:32 | 2024-07-30 |  |
 | [Fearful valentine](https://open.spotify.com/track/0uimhgH7d26u78rM5ZKANF) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [魔法科高校の劣等生 来訪者編 オリジナルサウンドトラック](https://open.spotify.com/album/6W4Oxl69LS2U8uDokrBCMg) | 2:19 | 2024-04-05 |  |
 | [Flying](https://open.spotify.com/track/0bffHYc1oAQU77lq5ydSVF) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [魔法科高校の劣等生　オリジナルサウンドトラック　2](https://open.spotify.com/album/4vOTV64OsmSYWSxL7a1dRE) | 4:12 | 2024-04-05 |  |
 | [Fraud](https://open.spotify.com/track/2WYOWq1yxxUQpW4sesJkwP) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [魔法科高校の劣等生　オリジナルサウンドトラック　1](https://open.spotify.com/album/3bOzsps2IDmX1y6Zfqn5TX) | 3:45 | 2024-04-05 |  |
 | [Frozen Order](https://open.spotify.com/track/0Pf6F4jegfMwtXP0i85Sdt) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [魔法科高校の優等生 オリジナルサウンドトラック](https://open.spotify.com/album/1OEGHpEZs4QWFxr53fbCQx) | 3:28 | 2024-04-05 |  |
-| [Girl's talk](https://open.spotify.com/track/2d64Ezgdedg5bu2mXHoamg) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [魔法科高校の劣等生　オリジナルサウンドトラック　2](https://open.spotify.com/album/4vOTV64OsmSYWSxL7a1dRE) | 2:29 | 2024-04-05 |  |
-| [Grab it](https://open.spotify.com/track/4MyofO1ZBUXav0ZLgPcUHx) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [魔法科高校の劣等生 来訪者編 オリジナルサウンドトラック](https://open.spotify.com/album/6W4Oxl69LS2U8uDokrBCMg) | 2:59 | 2024-04-05 |  |
+| [Girl's talk](https://open.spotify.com/track/2d64Ezgdedg5bu2mXHoamg) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [魔法科高校の劣等生　オリジナルサウンドトラック　2](https://open.spotify.com/album/4vOTV64OsmSYWSxL7a1dRE) | 2:29 | 2024-04-05 | 2024-07-31 |
+| [Grab it](https://open.spotify.com/track/4MyofO1ZBUXav0ZLgPcUHx) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [魔法科高校の劣等生 来訪者編 オリジナルサウンドトラック](https://open.spotify.com/album/6W4Oxl69LS2U8uDokrBCMg) | 2:59 | 2024-04-05 | 2024-07-31 |
 | [grilletto](https://open.spotify.com/track/0TBwmvuN2qmTPdpm48Xhg3) | [GARNiDELiA](https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6) | [grilletto](https://open.spotify.com/album/6nET0YeRkbV3zJrkR0eJ4W) | 4:07 | 2024-04-05 |  |
 | [HNM](https://open.spotify.com/track/4mNGGU6xeP4K5Rwf565KCg) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v) | [劇場版 魔法科高校の劣等生 星を呼ぶ少女 オリジナルサウンドトラック \(Selected Edition\)](https://open.spotify.com/album/24FfgBhdr1PRRCYGlYgXlz) | 1:54 | 2024-04-05 |  |
 | [Howling](https://open.spotify.com/track/4VAC43TEP0QUT3bdwdlNAz) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [Howling](https://open.spotify.com/album/7BSWQP5UyC3Jb79lHeagpQ) | 4:08 | 2024-04-05 |  |

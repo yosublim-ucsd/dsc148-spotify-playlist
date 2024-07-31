@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: LAUSBUB",
+  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: \u52a0\u85e4\u30df\u30ea\u30e4 + LANA",
   "name": "EQUAL Japan",
   "tracks": [
     {
@@ -222,7 +222,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 155593,
       "name": "90s crush",
       "url": "https://open.spotify.com/track/3drvYH6aDxJ0I4eASKXNn3"
@@ -1630,7 +1630,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 150750,
       "name": "Brainstop",
       "url": "https://open.spotify.com/track/3Ly4ZqMazZxQgF7iiP3Zri"
@@ -2360,6 +2360,24 @@
       "duration_ms": 142019,
       "name": "Citrus",
       "url": "https://open.spotify.com/track/2ur5MmFkk0EMZXP8pDP4IY"
+    },
+    {
+      "album": {
+        "name": "CLAP CLAP",
+        "url": "https://open.spotify.com/album/6xWmlmVYL8Kda7Pzh5rFYu"
+      },
+      "artists": [
+        {
+          "name": "Maki Goto",
+          "url": "https://open.spotify.com/artist/5pJEdeLmuXxPjXLDoXDaP0"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221766,
+      "name": "CLAP CLAP",
+      "url": "https://open.spotify.com/track/6L1XkeAPSKoZN9z5YmFxB1"
     },
     {
       "album": {
@@ -5538,7 +5556,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 160839,
       "name": "hi cheese",
       "url": "https://open.spotify.com/track/4Zyxca7r0qONFXynfkGXx1"
@@ -5732,7 +5750,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 217000,
       "name": "Hitsujigumo",
       "url": "https://open.spotify.com/track/2YSybXboavdEVDBF4ysw2g"
@@ -7952,6 +7970,28 @@
       "duration_ms": 201300,
       "name": "Lobby - feat. valknee",
       "url": "https://open.spotify.com/track/0DgP5ua5hKwB4dmjDD8n8c"
+    },
+    {
+      "album": {
+        "name": "LONELY",
+        "url": "https://open.spotify.com/album/6V5Kq4L9VMG3zhBO0FmtcZ"
+      },
+      "artists": [
+        {
+          "name": "Miliyah",
+          "url": "https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND"
+        },
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286400,
+      "name": "LONELY",
+      "url": "https://open.spotify.com/track/13iGOxPi9XuTpXcc8EejKr"
     },
     {
       "album": {
@@ -10860,7 +10900,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 261538,
       "name": "plastics girl",
       "url": "https://open.spotify.com/track/7hMijTHcJqMjsM2DmCSTE9"
@@ -12859,6 +12899,24 @@
     },
     {
       "album": {
+        "name": "SOMETHING AIN'T RIGHT",
+        "url": "https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "SOMETHING AIN'T RIGHT",
+      "url": "https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum"
+    },
+    {
+      "album": {
         "name": "Sour Heart",
         "url": "https://open.spotify.com/album/1omvXKTbAVKPArsEkljrs4"
       },
@@ -14338,7 +14396,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 200212,
       "name": "THIS IS JAPANESE GIRL",
       "url": "https://open.spotify.com/track/5psoHRZLny713ndQc6X9up"
@@ -16000,7 +16058,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 188010,
       "name": "WOKE UP",
       "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
@@ -16934,6 +16992,24 @@
       "duration_ms": 244933,
       "name": "\u3042\u304b\u308b\u3044\u307f\u3089\u3044",
       "url": "https://open.spotify.com/track/3o5o6MnUmkfY0bWf4Qtwmq"
+    },
+    {
+      "album": {
+        "name": "GENE",
+        "url": "https://open.spotify.com/album/02YMpTWtl4ZYGwyDtDpSKl"
+      },
+      "artists": [
+        {
+          "name": "a\u5b50",
+          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197800,
+      "name": "\u3042\u305f\u3057\u306e\u5168\u90e8\u3092\u611b\u305b\u306a\u3044",
+      "url": "https://open.spotify.com/track/40BWfinCBSQnaCBRuVqBfh"
     },
     {
       "album": {
@@ -19087,6 +19163,24 @@
     },
     {
       "album": {
+        "name": "\u30cf\u30a4\u30a8\u30fc\u30b9\u30ca\u30f3\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/4ZHJRDBCYVAazMCS0SO56e"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188130,
+      "name": "\u30cf\u30a4\u30a8\u30fc\u30b9\u30ca\u30f3\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/6DuWwQPRJwbfTygikrxOJv"
+    },
+    {
+      "album": {
         "name": "\u30cf\u30c3\u30d4\u30a3\u30a8\u30f3\u30c9",
         "url": "https://open.spotify.com/album/7lbeoNGyoikSnCGVyEdiKn"
       },
@@ -20198,6 +20292,28 @@
       "duration_ms": 312413,
       "name": "\u4e2d\u5ead\u306e\u5c11\u5973\u305f\u3061",
       "url": "https://open.spotify.com/track/0Ghck1vu23AVykjizjQrYk"
+    },
+    {
+      "album": {
+        "name": "\u4e59 (feat. NENE)",
+        "url": "https://open.spotify.com/album/4oBeNXrvD0bKUdVLBtNo5A"
+      },
+      "artists": [
+        {
+          "name": "Thelma Aoyama",
+          "url": "https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD"
+        },
+        {
+          "name": "NENE",
+          "url": "https://open.spotify.com/artist/0GWd1nAGTQBkliv0zhbaqo"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231033,
+      "name": "\u4e59 (feat. NENE)",
+      "url": "https://open.spotify.com/track/4S0kTyodr1Ajr4VwgCl8V7"
     },
     {
       "album": {
@@ -22624,6 +22740,24 @@
       "duration_ms": 196000,
       "name": "\u864e\u8996\u7708\u3005",
       "url": "https://open.spotify.com/track/4Azzy23yDYsOlg99UdF68S"
+    },
+    {
+      "album": {
+        "name": "\u8703\u6c17\u697c",
+        "url": "https://open.spotify.com/album/5DJKBXc6OyavLzdYQdHHdg"
+      },
+      "artists": [
+        {
+          "name": "Gestalt Girl",
+          "url": "https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "\u8703\u6c17\u697c",
+      "url": "https://open.spotify.com/track/5uKZfmX2Bel2rlWyuKvpSe"
     },
     {
       "album": {

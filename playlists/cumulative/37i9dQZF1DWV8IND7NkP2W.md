@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-744 songs - 1 day 9 hr 30 min
+745 songs - 1 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Balkan's note](https://open.spotify.com/track/7kS133srGVKhP0pcpCakvh) | [Otoji + Ray](https://open.spotify.com/artist/0b90iQpNWuYUH8vr0NyhOA) | [Balkan's note](https://open.spotify.com/album/5fN5rupmALg7QxMiPvfw2o) | 3:45 | 2021-12-23 | 2022-07-26 |
 | [Barefoot](https://open.spotify.com/track/3PYn6FdmTO1qzQc1QE97sM) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [Barefoot](https://open.spotify.com/album/4J050LlYmPuvPouu9rBoVj) | 2:40 | 2024-06-07 |  |
 | [bay](https://open.spotify.com/track/0fTKmtZaWDLDl40LSzug3v) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [bay](https://open.spotify.com/album/5WP2xh5FcWDrsKnNHMGVQR) | 3:12 | 2021-12-23 | 2022-07-29 |
-| [Beat Diary 917](https://open.spotify.com/track/3wej7iiqQ7tdKfxLVT4m0x) | [16FLIP](https://open.spotify.com/artist/5FDuoCFktB6LXQ73XCPFvT) | [16FLIP \-Atomosphere'22\-](https://open.spotify.com/album/5pusvt9Hq28gJ79xgoFQzH) | 0:45 | 2022-05-26 |  |
+| [Beat Diary 917](https://open.spotify.com/track/3wej7iiqQ7tdKfxLVT4m0x) | [16FLIP](https://open.spotify.com/artist/5FDuoCFktB6LXQ73XCPFvT) | [16FLIP \-Atomosphere'22\-](https://open.spotify.com/album/5pusvt9Hq28gJ79xgoFQzH) | 0:45 | 2022-05-26 | 2024-07-31 |
 | [Bedroom](https://open.spotify.com/track/5SUZg6W98l9ycWumNLKue3) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [work\_1](https://open.spotify.com/album/6rtxQdAjGjKoBgVuzGZ4xs) | 1:16 | 2021-12-23 |  |
 | [Before The Dawn](https://open.spotify.com/track/5I6LbB47jbWkDOzKOrUNlF) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Before The Dawn](https://open.spotify.com/album/1dddOp0aC7pN0Vh7f1GKTK) | 1:15 | 2021-12-23 | 2022-07-25 |
 | [beginning](https://open.spotify.com/track/0o3doNBnx1bZ1jwC1Ctd9l) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [beginning](https://open.spotify.com/album/5ghXbPt9oQ8WbZKstyKDfR) | 2:32 | 2023-08-10 | 2024-02-22 |
@@ -385,6 +385,7 @@
 | [Malasana](https://open.spotify.com/track/1ebFEGV0DGIQUc7ejH8GnG) | [Yokohono](https://open.spotify.com/artist/6wN9Myp6ZoPeY86ST60sGU) | [Malasana](https://open.spotify.com/album/6f47OmhcecfY9X72S3xPWC) | 1:50 | 2022-03-31 | 2022-04-16 |
 | [Many "Scratch" Perry](https://open.spotify.com/track/6id8EVvF7aRAK59y8wCYAc) | [Kōya Ogata](https://open.spotify.com/artist/22uFYUbePeINzJYB9CQOwZ) | [blank space \-vol.2\-](https://open.spotify.com/album/33hAQUBAuB1msJ2Mk3hnWh) | 6:13 | 2021-12-23 | 2023-03-25 |
 | [Manzanita](https://open.spotify.com/track/6MclGTlLUfEZ4cxCUuLS4t) | [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi), [Toranpetto](https://open.spotify.com/artist/2v5PisngtMQhGwRq6k9Bbn), [BrandonLee Cierley](https://open.spotify.com/artist/6TCS4quLkqSnAMbwfkKzAt) | [Manzanita](https://open.spotify.com/album/27d2oVqyvCb4lpC3NwOcNZ) | 2:32 | 2021-12-23 | 2022-07-25 |
+| [MAR](https://open.spotify.com/track/38mHYq8J7mGPl7M9S6aGlS) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [MAR](https://open.spotify.com/album/4tikL23aWFPLQIkS7DH0vO) | 2:49 | 2024-07-26 |  |
 | [Mark Calaway](https://open.spotify.com/track/0kU9nVxyWSvOQGo51p1PFX) | [Tatwoine](https://open.spotify.com/artist/4b6MXJUkXdvgcfxDYJVEjo) | [hoodies](https://open.spotify.com/album/5upkRVgXztEBJuH7uGGChP) | 2:12 | 2021-12-23 | 2022-07-25 |
 | [Meisekimu](https://open.spotify.com/track/1dI0PZUAVLIDxIp34Zkj2s) | [Osaki](https://open.spotify.com/artist/5mBv1P6ffkM2YlJvsBJlze) | [Meisekimu](https://open.spotify.com/album/2wJY88DddxuSn9i04bP0v3) | 3:05 | 2022-01-06 | 2022-04-18 |
 | [melancholic](https://open.spotify.com/track/2mVGm6EUAar5nWqoQUtCps) | [Dyelo think](https://open.spotify.com/artist/7lhzvvDG8CInm97fUkCoC4) | [standalone collective](https://open.spotify.com/album/2YIsDVIu9bKbLXAlnBFKTw) | 2:10 | 2022-01-13 | 2022-06-29 |

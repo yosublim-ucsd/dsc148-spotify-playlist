@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 62638,
+  "num_followers": 62715,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqWKAAAAAAA43HP5SzYm/3AqbkulxtFu",
+  "snapshot_id": "ZqbbgAAAAACY1bMSR/xQpnNPIYIjiGQU",
   "tracks": [
     {
       "added_at": null,
@@ -838,11 +838,15 @@
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Los Nuevos Rebeldes",
+          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
         }
       ],
-      "duration_ms": 178175,
-      "name": "El Puente Roto (En Vivo)",
-      "url": "https://open.spotify.com/track/7exNpJsnVhoErwT2wvO1AY"
+      "duration_ms": 155991,
+      "name": "El Compa Koki (En Vivo)",
+      "url": "https://open.spotify.com/track/69778UGlmKlyVTkMkC9YvC"
     },
     {
       "added_at": null,
@@ -854,15 +858,11 @@
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        },
-        {
-          "name": "Los Nuevos Rebeldes",
-          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
         }
       ],
-      "duration_ms": 155991,
-      "name": "El Compa Koki (En Vivo)",
-      "url": "https://open.spotify.com/track/69778UGlmKlyVTkMkC9YvC"
+      "duration_ms": 178175,
+      "name": "El Puente Roto (En Vivo)",
+      "url": "https://open.spotify.com/track/7exNpJsnVhoErwT2wvO1AY"
     },
     {
       "added_at": null,

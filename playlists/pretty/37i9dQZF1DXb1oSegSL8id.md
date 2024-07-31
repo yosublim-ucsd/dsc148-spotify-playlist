@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,873 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 829,889 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 84 | [ASSIM NASCE UM BÊBADO](https://open.spotify.com/track/3p3iOpzsKOGMeNBaexBXXR) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [ASSIM NASCE UM BÊBADO](https://open.spotify.com/album/4eSeT6FOFd9VmN4tCyyQc3) | 3:43 |
 | 85 | [Tô de Boa \- Ao vivo](https://open.spotify.com/track/19u7ucz8tazDZL1daf5y23) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Vou pro Sereno](https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 2:52 |
 | 86 | [Graveto \- Ao Vivo](https://open.spotify.com/track/7AZPao1jegnylQcnDfNBxl) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Pagode Do Pericão II, Pt\. 2 \(Ao Vivo\)](https://open.spotify.com/album/65vNfWkaQhnrT7ndLZQ0Z0) | 2:48 |
-| 87 | [Beijo Doce / Brilho de Cristal \- Ao Vivo](https://open.spotify.com/track/11VYX2ahtiOE3ql9xcZxiC) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Beijo Doce / Brilho de Cristal \(Ao Vivo\)](https://open.spotify.com/album/6yaax26e6Q88p0dG3PdmCk) | 3:11 |
+| 87 | [Pot\-Pourri: Teu Segredo / Já Tentei](https://open.spotify.com/track/03kadiWfqWgnmjlDEhfN8k) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Infinito 2021, Vol.2](https://open.spotify.com/album/2N8l2cxeIlx0LKzQGUGQjy) | 6:22 |
 | 88 | [Teste de Farmácia \- Ao Vivo](https://open.spotify.com/track/0ZwGhDJHceKPvg3UAb5OMQ) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco in Boston \(Ao Vivo\)](https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo) | 2:38 |
-| 89 | [Pot\-Pourri: Teu Segredo / Já Tentei](https://open.spotify.com/track/03kadiWfqWgnmjlDEhfN8k) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Infinito 2021, Vol.2](https://open.spotify.com/album/2N8l2cxeIlx0LKzQGUGQjy) | 6:22 |
+| 89 | [Beijo Doce / Brilho de Cristal \- Ao Vivo](https://open.spotify.com/track/11VYX2ahtiOE3ql9xcZxiC) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Beijo Doce / Brilho de Cristal \(Ao Vivo\)](https://open.spotify.com/album/6yaax26e6Q88p0dG3PdmCk) | 3:11 |
 | 90 | [De Garrafa A Pior \- Ao Vivo](https://open.spotify.com/track/359Cwd8UJFsF8qM9zJjaCz) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo\)](https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j) | 2:42 |
 | 91 | [Buzina \- Ao Vivo](https://open.spotify.com/track/2fK6kCPjXbQHReLi3H64xa) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Equilíbrio \(Ao Vivo\)](https://open.spotify.com/album/5oFcg58VXbLAvFFHEy4hd4) | 2:42 |
 | 92 | [Pirata e Tesouro / Duas Paixões / Idem / Livre pra Voar / Oi Amor \- Ao Vivo](https://open.spotify.com/track/2SaRCZqpayygyXxKb5sAfH) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [Pirata e Tesouro / Duas Paixões / Idem / Livre pra Voar / Oi Amor \(Ao Vivo\)](https://open.spotify.com/album/2nUov8cvXReM3gpk3Os8PR) | 8:00 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Cafres. The essential tracks, all in one playlist.",
-  "num_followers": 157624,
+  "description": "This is Los Cafres. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 157650,
   "original_name": "This Is Los Cafres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqWKAAAAAABuxRn+TYVun/16jSKlfL01",
+  "snapshot_id": "ZqbbgAAAAACG7mEUURAE40Gi0TSKNkaD",
   "tracks": [
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alas Canciones",
-        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
+        "name": "Nice Time (Bob Marley)",
+        "url": "https://open.spotify.com/album/4aQICjjARpQgUnGEf3FaFe"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 309106,
-      "name": "Alas Canciones",
-      "url": "https://open.spotify.com/track/4f1q6kRlO1qyw7pZIPG3Tp"
+      "duration_ms": 210050,
+      "name": "Nice Time",
+      "url": "https://open.spotify.com/track/6zTmBVtXNBKJvVsb2rJiHd"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nice Time (Bob Marley)",
-        "url": "https://open.spotify.com/album/4aQICjjARpQgUnGEf3FaFe"
+        "name": "Alas Canciones",
+        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 210050,
-      "name": "Nice Time",
-      "url": "https://open.spotify.com/track/6zTmBVtXNBKJvVsb2rJiHd"
+      "duration_ms": 309106,
+      "name": "Alas Canciones",
+      "url": "https://open.spotify.com/track/4f1q6kRlO1qyw7pZIPG3Tp"
     },
     {
       "added_at": null,

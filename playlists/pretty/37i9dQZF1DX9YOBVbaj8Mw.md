@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,368 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,370 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 30 | [Parallel](https://open.spotify.com/track/5IDSkpDCyBqFDwQymVLJ1j) | [Aga Derlak](https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l) | [Parallel](https://open.spotify.com/album/2Gkmdh5PAFJkjNSDuCiW4b) | 7:46 |
 | 31 | [Jezioro szczęścia \- Bonus Track](https://open.spotify.com/track/16r1IlfSqrBVYKVeZvdmzl) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY), [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ) | [Sadza Delux](https://open.spotify.com/album/7cukwLQ4grlGJcB3rFAfBA) | 3:35 |
 | 32 | [Nieba nie ma](https://open.spotify.com/track/2DSZJstkmFvGHA8iQO0b9G) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [OMEN](https://open.spotify.com/album/0kK9SKko1fs7wDayiYv4mD) | 2:58 |
-| 33 | [Wiem, że ci ciężko](https://open.spotify.com/track/5pCfadURq3FyeLjIfbJQdA) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Mój kot zaginął i już raczej nie wróci](https://open.spotify.com/album/3zJrFaN9gkHc32uBAwh6CT) | 3:31 |
-| 34 | [Ja Się Wcale Nie Chwalę](https://open.spotify.com/track/6BGeRP62GNdpbiS4iGtI0Q) | [DJ 600V](https://open.spotify.com/artist/1f5Eu4igDRi2LNNY837AdS), [Kaliber 44](https://open.spotify.com/artist/2UTeT9IOjc4x9MeQWA0Hrx) | [Produkcja Hip\-Hop Ciemna/Jasna](https://open.spotify.com/album/47WX4JHl2oMXyXV6rPagKt) | 4:23 |
-| 35 | [MARIA PRZED OŁTARZEM](https://open.spotify.com/track/4cAlhZl3ytWpHKkAosthiB) | [Mery Spolsky](https://open.spotify.com/artist/4U3Mh4fpzJb7XD1CR1ZbDx) | [EROTIK ERA](https://open.spotify.com/album/6KXlPEuTkJITCD6zzCeAjF) | 3:00 |
+| 33 | [MARIA PRZED OŁTARZEM](https://open.spotify.com/track/4cAlhZl3ytWpHKkAosthiB) | [Mery Spolsky](https://open.spotify.com/artist/4U3Mh4fpzJb7XD1CR1ZbDx) | [EROTIK ERA](https://open.spotify.com/album/6KXlPEuTkJITCD6zzCeAjF) | 3:00 |
+| 34 | [Wiem, że ci ciężko](https://open.spotify.com/track/5pCfadURq3FyeLjIfbJQdA) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Mój kot zaginął i już raczej nie wróci](https://open.spotify.com/album/3zJrFaN9gkHc32uBAwh6CT) | 3:31 |
+| 35 | [Ja Się Wcale Nie Chwalę](https://open.spotify.com/track/6BGeRP62GNdpbiS4iGtI0Q) | [DJ 600V](https://open.spotify.com/artist/1f5Eu4igDRi2LNNY837AdS), [Kaliber 44](https://open.spotify.com/artist/2UTeT9IOjc4x9MeQWA0Hrx) | [Produkcja Hip\-Hop Ciemna/Jasna](https://open.spotify.com/album/47WX4JHl2oMXyXV6rPagKt) | 4:23 |
 | 36 | [Mam potrzebę](https://open.spotify.com/track/4aX4Mywt3VV5FG3wilFRnS) | [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x) | [TAM](https://open.spotify.com/album/25ZzpEQG9zQWrxjUNVfZBQ) | 4:12 |
 | 37 | [Piękna degrengolada](https://open.spotify.com/track/2ftszX8lq1fTOnmT4Y24nB) | [Nosowska](https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul) | [DEGRENGOLADA](https://open.spotify.com/album/3jfees0Gp4stDu3DsNm89h) | 4:07 |
 | 38 | [lekka jak powietrze](https://open.spotify.com/track/5CKxg5M0vYrRqekWveuSbl) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [przestrzeń](https://open.spotify.com/album/6vd5tpfLPPJ3Bo2VyStDqA) | 3:37 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 77 | [Nie Zabijaj Ze Strachu](https://open.spotify.com/track/2bXbfkqYThRRiJ31615RQb) | [Dragon](https://open.spotify.com/artist/1vA0SsWYp5ynlgRUFskT1E) | [Unde Malum](https://open.spotify.com/album/1wbVSZuqVyKjynWekKUhsq) | 4:30 |
 | 78 | [Full Speed No Brakes](https://open.spotify.com/track/69305G8R3qlddRjRZSq38d) | [Boogie Boys](https://open.spotify.com/artist/5GqQE5CztlJNgrbayqqR8P) | [Full Speed No Brakes](https://open.spotify.com/album/1oWwgqATXgnQLLzbuqjf3z) | 2:42 |
 | 79 | [Wicher](https://open.spotify.com/track/3RMrUbkkndNsqWgDMI9hNC) | [Ugory](https://open.spotify.com/artist/0klnXt9e0AfPQVFpKq9XH9) | [Wicher](https://open.spotify.com/album/064J59XhoaytObENeSH9fJ) | 3:36 |
-| 80 | [Polski blues](https://open.spotify.com/track/1GNHK7y8giTkgo01AKn7K1) | [Sławek Wierzcholski](https://open.spotify.com/artist/7bWJ5zf6p3rM0ucHZ3BD4y), [Nocna Zmiana Bluesa](https://open.spotify.com/artist/0KirHnU7pIfeMYWSJ6xm8I) | [Koncert w Rozmarino](https://open.spotify.com/album/4LLbHBbAUAe5mN3XqiKwHi) | 5:01 |
-| 81 | [Serce Otwarte Na Pół](https://open.spotify.com/track/3XywU8Sg5a5VKT2jROPisX) | [Michał Aftyka Quintet](https://open.spotify.com/artist/2xS21KB9yVv474txV9ODfT) | [Frukstrakt](https://open.spotify.com/album/5c3QN5r2Z8rpafADwmhjCn) | 3:31 |
+| 80 | [Serce Otwarte Na Pół](https://open.spotify.com/track/3XywU8Sg5a5VKT2jROPisX) | [Michał Aftyka Quintet](https://open.spotify.com/artist/2xS21KB9yVv474txV9ODfT) | [Frukstrakt](https://open.spotify.com/album/5c3QN5r2Z8rpafADwmhjCn) | 3:31 |
+| 81 | [Polski blues](https://open.spotify.com/track/1GNHK7y8giTkgo01AKn7K1) | [Sławek Wierzcholski](https://open.spotify.com/artist/7bWJ5zf6p3rM0ucHZ3BD4y), [Nocna Zmiana Bluesa](https://open.spotify.com/artist/0KirHnU7pIfeMYWSJ6xm8I) | [Koncert w Rozmarino](https://open.spotify.com/album/4LLbHBbAUAe5mN3XqiKwHi) | 5:01 |
 | 82 | [Tiritaka](https://open.spotify.com/track/55krx4SNu1AJ6vwrqxdpsq) | [Kazimierz Jonkisz Quintet](https://open.spotify.com/artist/3QxJW501Ah3SdMt3w3aO22) | [TiriTaka \(Polish Jazz, Vol\. 62\)](https://open.spotify.com/album/2nDgX64PdLDyHtOX4nEHJf) | 6:09 |
 | 83 | [Thousand Yard Stare](https://open.spotify.com/track/3vauEysg2vel5mIgm4ssJ2) | [Tomasz Chyła Quintet](https://open.spotify.com/artist/6Db18G8qBvMvBeOI4MkGB9) | [Music We Like To Dance To](https://open.spotify.com/album/5QMwMd6LQO5ObL7bzze6Ud) | 7:38 |
 | 84 | [De Joe](https://open.spotify.com/track/5oilZfKTkGUkrc3Tz61Nae) | [Zbigniew Jakubek](https://open.spotify.com/artist/2QN2CzqwVf0PuYBeZQ4pfV), [Marek Raduli](https://open.spotify.com/artist/7y3dWNMj9SrdKhFbXlFP4e), [Michał Grott](https://open.spotify.com/artist/5vTufkZ6dLqe3QdmONx2Mu), [Michał Dąbrówka](https://open.spotify.com/artist/57zOJBgXcOxWWMh1Z5KnDr) | [De Joe](https://open.spotify.com/album/2KgKvBhZtJqFQfWxR8Nnjt) | 8:01 |

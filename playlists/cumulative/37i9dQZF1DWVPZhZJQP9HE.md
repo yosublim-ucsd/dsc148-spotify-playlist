@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-549 songs - 1 day 8 hr 37 min
+550 songs - 1 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Falling in Love](https://open.spotify.com/track/5ojSfxtUyEaEBqJOHICOfo) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [MC DEVESH](https://open.spotify.com/artist/3eelw9NJgb9Gx5X80SHhiT) | [UNO](https://open.spotify.com/album/5jCWwNIkjqZAw1jocQt0sA) | 3:37 | 2024-04-29 |  |
 | [Flow la Povom](https://open.spotify.com/track/7eLPUz0OoBkfywudbcNJMY) | [Vetti Payan Venkat](https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e), [Santhosh Arumugam](https://open.spotify.com/artist/3arPP9VYEaY6BV2Ekw3McO) | [Flow la Povom](https://open.spotify.com/album/4A2ejRsabVIsL9HnQUIkpL) | 3:56 | 2022-11-07 | 2023-03-09 |
 | [Flowla Povom \(Rerelease\)](https://open.spotify.com/track/1W7bqk1ugI4pAf86WwQ1Na) | [Vetti Payan Venkat](https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e), [Santhosh Arumugam](https://open.spotify.com/artist/3arPP9VYEaY6BV2Ekw3McO) | [Flowla Povom \(Rerelease\)](https://open.spotify.com/album/4x7j4qp4Fwu7uAFyOwAxWc) | 3:56 | 2024-05-31 |  |
+| [Follow](https://open.spotify.com/track/4OFQByHmefFNvNwuEtPkWl) | [bebhumika](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [pixl.](https://open.spotify.com/artist/3Lf8QtJRE01j9Hqyd5bVRC) | [Follow](https://open.spotify.com/album/3q074oTlvh5FBfOZUhsJFt) | 3:16 | 2024-07-30 |  |
 | [Gandhari \- Tamil](https://open.spotify.com/track/1cwF0UONpG1sy5mqqb5RRL) | [Pawan Ch](https://open.spotify.com/artist/26FsIvdczntiZCsifDzKOK), [Vaish](https://open.spotify.com/artist/3UUCWlU2bPEuKMAoUeiJBD) | [Gandhari \(Tamil\)](https://open.spotify.com/album/0xlkH2wMrUW0Xzy09fE6bo) | 3:17 | 2022-11-05 | 2023-02-07 |
 | [God Damn Money](https://open.spotify.com/track/7pTrmAGQTNJjigU122skdm) | [Gana Bala](https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg), [Bobo Shashi](https://open.spotify.com/artist/207e202Dz3barZ9ij9jGpR), [Yuki Praveen](https://open.spotify.com/artist/6Nke0y2Gwq2uESBYvuz7Qq) | [Ketta Kelu](https://open.spotify.com/album/0lIvorfxIaF4QK3LFQwrje) | 3:46 | 2021-12-01 | 2022-08-12 |
 | [Gumbala Suthuvom](https://open.spotify.com/track/6X7jmbWjNkgvIrNtrlOwsY) | [Gaana Stephen](https://open.spotify.com/artist/78Nmz8hbKDRtkZ6NUUyMe0), [Bennet Christopher](https://open.spotify.com/artist/0y0M3qVG12u7oVdSXyNaJL) | [Gumbala Suthuvom](https://open.spotify.com/album/1lDXZ8L0DR5dfRWH2k63u3) | 4:06 | 2021-12-01 | 2022-08-12 |

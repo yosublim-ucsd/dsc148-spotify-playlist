@@ -2,9 +2,9 @@
 
 ### [Frontline \-ヒップホップ最前線\-](https://open.spotify.com/playlist/37i9dQZF1DXbzqS7BvZFvj)
 
-> 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Ice Spice
+> 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: kZm
 
-756 songs - 1 day 14 hr 37 min
+757 songs - 1 day 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -559,6 +559,7 @@
 | [Robberies](https://open.spotify.com/track/6rQ9mLqGGyqGqqMkUbZBhb) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Robberies](https://open.spotify.com/album/2TTGhSL8VlgeoPac0G4aK0) | 2:08 | 2023-06-23 | 2023-07-21 |
 | [ROBOSHOTTA \(feat\. Burna Boy\)](https://open.spotify.com/track/7DiylLh1Kdcd1q1dWRcJNq) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [BLOCKBUSTA](https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN) | 2:05 | 2023-12-08 | 2024-01-26 |
 | [ROCKET](https://open.spotify.com/track/7wgZCec9TpT6OPH8gKK0fG) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ROCKET](https://open.spotify.com/album/6AJH32yVIKjKu93tSgn0El) | 2:46 | 2024-06-28 | 2024-07-19 |
+| [ROKUDENASHI](https://open.spotify.com/track/3yQruCLOH32RXx0fsHVuSx) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [ROKUDENASHI](https://open.spotify.com/album/17jfTXkpA80mIfA6QDJDUm) | 3:01 | 2024-07-30 |  |
 | [rose](https://open.spotify.com/track/15fhBj4sGuW34BnFhGrFLG) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [rose](https://open.spotify.com/album/2lUNF3Bekt51s8qRWBCelL) | 2:16 | 2023-08-22 | 2023-11-18 |
 | [Rotary Telephone](https://open.spotify.com/track/4eR0HKJGudoyfLKtx7kXmE) | [Atmosphere](https://open.spotify.com/artist/1GAS0rb4L8VTPvizAx2O9J), [Slug](https://open.spotify.com/artist/6Lz3nv3y0hhdKkyrApFCZD), [Ant](https://open.spotify.com/artist/71C1AXi9lDQXnSKZjeTYiI) | [Talk Talk / Rotary Telephone](https://open.spotify.com/album/20JjurNzXAU6LY86wb7vaA) | 3:23 | 2023-10-13 | 2023-11-11 |
 | [Runnin'](https://open.spotify.com/track/3FQNBS4mPXhO1MdGN6e7Ro) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Dream Mclean](https://open.spotify.com/artist/0ojBbzNVKsx1wFf7Ag3YIv), [Dame](https://open.spotify.com/artist/7lKsazBrIDEv76YQzFt05s), [Wallace Rice](https://open.spotify.com/artist/2jBrnxIU5OlEBG0DQY3Lqu) | [Runnin'](https://open.spotify.com/album/7cMWr0CvqMT4R2TW3DiL6f) | 3:26 | 2023-11-09 | 2023-11-18 |

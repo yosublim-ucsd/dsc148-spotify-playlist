@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Fake Fruit
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,481 likes - 126 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,515 likes - 126 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

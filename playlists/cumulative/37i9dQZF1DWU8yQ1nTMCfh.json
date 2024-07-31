@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 181766,
       "name": "Diamante Roto",
       "url": "https://open.spotify.com/track/6mbN4jhQvgyDYL2bK6tQKx"
@@ -4786,6 +4786,24 @@
       "duration_ms": 193560,
       "name": "Talism\u00e1n",
       "url": "https://open.spotify.com/track/2vcPTBC2Qi5yR6LCUgysdx"
+    },
+    {
+      "album": {
+        "name": "Tatuada Tu Huella",
+        "url": "https://open.spotify.com/album/6qGXLHOEFxneHVoU0VNNR0"
+      },
+      "artists": [
+        {
+          "name": "David Otero",
+          "url": "https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246573,
+      "name": "Tatuada Tu Huella",
+      "url": "https://open.spotify.com/track/3kecVPMKY0zcw4RrfL6Wx1"
     },
     {
       "album": {

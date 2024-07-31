@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Tigirlily Gold, Post Malone with Luke Combs, Kacey Musgraves and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,714 likes - 93 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,832 likes - 93 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 31 | [Whiskey Talkin'](https://open.spotify.com/track/77nXV5ruIgLksNc0LsGhRr) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Whiskey Talkin'](https://open.spotify.com/album/0D1jO7MDJE07Qc5G0JZIJ7) | 3:33 |
 | 32 | [Quitter](https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Quitter](https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz) | 2:41 |
 | 33 | [Mar Vista](https://open.spotify.com/track/43gp7MaYgSkXtd7W7uHnQK) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Mar Vista](https://open.spotify.com/album/44Brw7YcFYBaUlhkPe1D8B) | 3:04 |
-| 34 | [Famous for a Heartache \(feat\. Vincent Mason\)](https://open.spotify.com/track/4Yx9k7A5duuC8m8LKaHI2r) | [Eli Winders](https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w), [Vincent Mason](https://open.spotify.com/artist/5zn3k8gMt8SFgxpt5k43ct) | [Famous for a Heartache \(feat\. Vincent Mason\)](https://open.spotify.com/album/7fXhzjecl2uwRH6q23bVFb) | 3:21 |
+| 34 | [Famous for a Heartache \(feat\. Vincent Mason\)](https://open.spotify.com/track/4Yx9k7A5duuC8m8LKaHI2r) | [Eli Winders](https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w), [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Famous for a Heartache \(feat\. Vincent Mason\)](https://open.spotify.com/album/7fXhzjecl2uwRH6q23bVFb) | 3:21 |
 | 35 | [Right Where We Left Off](https://open.spotify.com/track/5JyoezUiIiO8O4Dj5Vhrl4) | [Kaleb Sanders](https://open.spotify.com/artist/4hsCKTS1M5pg7uIJuotsDB) | [Right Where We Left Off](https://open.spotify.com/album/6gBQ46fv84zeT9tQEmfl4v) | 3:35 |
 | 36 | [I Believe](https://open.spotify.com/track/2OWWVJ4aCJfaATMozLKkQz) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [I Believe](https://open.spotify.com/album/3cZYZeskSVIYAUdBYarTCE) | 2:59 |
 | 37 | [Trail Blazer](https://open.spotify.com/track/54WqMLMlFkC20N0rfzZpqo) | [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m) | [Trail Blazer](https://open.spotify.com/album/5OlbzjibdFIOsYeChX96F8) | 2:33 |

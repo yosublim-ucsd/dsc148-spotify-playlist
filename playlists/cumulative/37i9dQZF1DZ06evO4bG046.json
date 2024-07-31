@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "This Is Los Jaivas. Los temas esenciales, todos en una lista.",
+  "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
   "name": "This Is Los Jaivas",
   "tracks": [
     {
@@ -727,6 +727,24 @@
     },
     {
       "album": {
+        "name": "Los Jaivas En Vivo: Gira Chile '88 (2024 Remasterizado)",
+        "url": "https://open.spotify.com/album/2nEUAKd34r9jyE4HPj0Le9"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334282,
+      "name": "La Quebr\u00e1 del Aj\u00ed (En Vivo) - 2024 Remasterizado",
+      "url": "https://open.spotify.com/track/01lR96aXi7yDhQib5gDGa5"
+    },
+    {
+      "album": {
         "name": "La Ventana (Remasterizado 2020)",
         "url": "https://open.spotify.com/album/2UA6E9ixt1ukbgsiAB6Xs4"
       },
@@ -738,7 +756,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 283189,
       "name": "La Quebr\u00e1 del Aj\u00ed (Remasterizado 2020)",
       "url": "https://open.spotify.com/track/4kF8dikOtIXirzaj0RFAH8"
@@ -980,10 +998,28 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 254973,
       "name": "P\u00e1jaro Errante",
       "url": "https://open.spotify.com/track/0oNeWVEmDu8GDClUK0AXRS"
+    },
+    {
+      "album": {
+        "name": "Los Jaivas En Vivo: Gira Chile '88 (2024 Remasterizado)",
+        "url": "https://open.spotify.com/album/2nEUAKd34r9jyE4HPj0Le9"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276886,
+      "name": "P\u00e1jaro Errante (En Vivo) - 2024 Remasterizado",
+      "url": "https://open.spotify.com/track/25kgsjn8FoXusT6TO9HIRQ"
     },
     {
       "album": {

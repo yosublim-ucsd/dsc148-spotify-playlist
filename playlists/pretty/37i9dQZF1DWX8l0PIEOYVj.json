@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass. Cover: CloZee and LSDREAM",
-  "num_followers": 474703,
+  "num_followers": 474670,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -1127,42 +1127,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "EDGE (The Remixes)",
-        "url": "https://open.spotify.com/album/6NIM6v3gwobJAy7IY5jNJA"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "EDGE - Blanke Remix",
-      "url": "https://open.spotify.com/track/3NQinJIWliMnzomwtQzVNR"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Taking It Slow",
-        "url": "https://open.spotify.com/album/6ndnVrxgFH5zjvzjhIxA2r"
-      },
-      "artists": [
-        {
-          "name": "JVNA",
-          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
-        }
-      ],
-      "duration_ms": 160400,
-      "name": "Taking It Slow",
-      "url": "https://open.spotify.com/track/2QEcMk01oiYdAd0Lq4MKBL"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Don't Look Down (Hold On)",
         "url": "https://open.spotify.com/album/5XbWNkpJ1SaK5XCz3BZzDE"
       },
@@ -1183,6 +1147,42 @@
       "duration_ms": 245333,
       "name": "Don't Look Down (Hold On)",
       "url": "https://open.spotify.com/track/65krG6c3veTz66mIdSU16f"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Taking It Slow",
+        "url": "https://open.spotify.com/album/6ndnVrxgFH5zjvzjhIxA2r"
+      },
+      "artists": [
+        {
+          "name": "JVNA",
+          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
+        }
+      ],
+      "duration_ms": 160400,
+      "name": "Taking It Slow",
+      "url": "https://open.spotify.com/track/2QEcMk01oiYdAd0Lq4MKBL"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "EDGE (The Remixes)",
+        "url": "https://open.spotify.com/album/6NIM6v3gwobJAy7IY5jNJA"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "EDGE - Blanke Remix",
+      "url": "https://open.spotify.com/track/3NQinJIWliMnzomwtQzVNR"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1519,6 +1519,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Trailblazer",
+        "url": "https://open.spotify.com/album/4nHlVdgTYa0Uod3o4sfXFr"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stranger",
+          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        },
+        {
+          "name": "ProbCause",
+          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
+        }
+      ],
+      "duration_ms": 238628,
+      "name": "Trailblazer",
+      "url": "https://open.spotify.com/track/5psgWqa4cMrANthb7UcfBR"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/758dRwMuCONb5iIYRyqxfu"
       },
@@ -1607,26 +1627,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Trailblazer",
-        "url": "https://open.spotify.com/album/4nHlVdgTYa0Uod3o4sfXFr"
-      },
-      "artists": [
-        {
-          "name": "Liquid Stranger",
-          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
-        },
-        {
-          "name": "ProbCause",
-          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
-        }
-      ],
-      "duration_ms": 238628,
-      "name": "Trailblazer",
-      "url": "https://open.spotify.com/track/5psgWqa4cMrANthb7UcfBR"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Heavy Heart",
         "url": "https://open.spotify.com/album/6W3jyRwWtdd7ZIOATdzkOt"
       },
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/3EsFLxuzw23LOKbaG33jAe"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stranger",
+          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        }
+      ],
+      "duration_ms": 286779,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/67lUp5rf0rzq8PhAZ805Lc"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "In The Cold",
         "url": "https://open.spotify.com/album/4tFVMKFJs5PXf4Nk01Yrmn"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 196233,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/3yH2YuRNJcXfwjgd7nFIMX"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/3EsFLxuzw23LOKbaG33jAe"
-      },
-      "artists": [
-        {
-          "name": "Liquid Stranger",
-          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
-        }
-      ],
-      "duration_ms": 286779,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/67lUp5rf0rzq8PhAZ805Lc"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2055,6 +2055,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Pyroclastic",
+        "url": "https://open.spotify.com/album/2fMKtEJt9BgUGbX5J00F39"
+      },
+      "artists": [
+        {
+          "name": "Chime",
+          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
+        },
+        {
+          "name": "Skybreak",
+          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
+        }
+      ],
+      "duration_ms": 208200,
+      "name": "Pyroclastic",
+      "url": "https://open.spotify.com/track/1xcPjGqDvj0ftzVficnBbB"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "COME BACK HOME",
         "url": "https://open.spotify.com/album/0f6J3OVa7XztlTuQgdI595"
       },
@@ -2075,26 +2095,6 @@
       "duration_ms": 177142,
       "name": "COME BACK HOME",
       "url": "https://open.spotify.com/track/0WeqUDwiPd186VrFROE2KA"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "iloveitwhentheyrun",
-        "url": "https://open.spotify.com/album/3XlSEKQ4K8luPp5icnTYKo"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        },
-        {
-          "name": "Conrad",
-          "url": "https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC"
-        }
-      ],
-      "duration_ms": 188793,
-      "name": "get my way",
-      "url": "https://open.spotify.com/track/03JEVI9w0PKZ7e2h72XAfl"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2139,6 +2139,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "iloveitwhentheyrun",
+        "url": "https://open.spotify.com/album/3XlSEKQ4K8luPp5icnTYKo"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        },
+        {
+          "name": "Conrad",
+          "url": "https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC"
+        }
+      ],
+      "duration_ms": 188793,
+      "name": "get my way",
+      "url": "https://open.spotify.com/track/03JEVI9w0PKZ7e2h72XAfl"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Someone To Forget",
         "url": "https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO"
       },
@@ -2155,26 +2175,6 @@
       "duration_ms": 241714,
       "name": "Someone To Forget",
       "url": "https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Pyroclastic",
-        "url": "https://open.spotify.com/album/2fMKtEJt9BgUGbX5J00F39"
-      },
-      "artists": [
-        {
-          "name": "Chime",
-          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
-        },
-        {
-          "name": "Skybreak",
-          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
-        }
-      ],
-      "duration_ms": 208200,
-      "name": "Pyroclastic",
-      "url": "https://open.spotify.com/track/1xcPjGqDvj0ftzVficnBbB"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2267,26 +2267,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Pretty",
-        "url": "https://open.spotify.com/album/37K98ckkRemcrhTTlWH8gD"
-      },
-      "artists": [
-        {
-          "name": "Luci",
-          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
-        },
-        {
-          "name": "Synymata",
-          "url": "https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC"
-        }
-      ],
-      "duration_ms": 203793,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/2eTUSRtyzATmgkOGrx0QPR"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Help Me",
         "url": "https://open.spotify.com/album/6KBUEVEIUgW9RiEzL8bNB9"
       },
@@ -2303,6 +2283,26 @@
       "duration_ms": 195775,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/33dJ18Itb7N0WRABXJh2bH"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/37K98ckkRemcrhTTlWH8gD"
+      },
+      "artists": [
+        {
+          "name": "Luci",
+          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
+        },
+        {
+          "name": "Synymata",
+          "url": "https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC"
+        }
+      ],
+      "duration_ms": 203793,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/2eTUSRtyzATmgkOGrx0QPR"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2363,26 +2363,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Sanctum Eternal (Au5 Remix)",
-        "url": "https://open.spotify.com/album/4qzWs2qpwfAuEPAUqero4Q"
-      },
-      "artists": [
-        {
-          "name": "Essenger",
-          "url": "https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE"
-        },
-        {
-          "name": "Au5",
-          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
-        }
-      ],
-      "duration_ms": 277333,
-      "name": "Sanctum Eternal - Au5 Remix",
-      "url": "https://open.spotify.com/track/0PIEY8OKPZYcOb0jztJdCm"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Good in Goodbye",
         "url": "https://open.spotify.com/album/1UlMDQn059Zho0E2dZXlyH"
       },
@@ -2399,6 +2379,26 @@
       "duration_ms": 180000,
       "name": "Good in Goodbye",
       "url": "https://open.spotify.com/track/3MaPMbwBZSyBQOob8QFnRV"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Sanctum Eternal (Au5 Remix)",
+        "url": "https://open.spotify.com/album/4qzWs2qpwfAuEPAUqero4Q"
+      },
+      "artists": [
+        {
+          "name": "Essenger",
+          "url": "https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE"
+        },
+        {
+          "name": "Au5",
+          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
+        }
+      ],
+      "duration_ms": 277333,
+      "name": "Sanctum Eternal - Au5 Remix",
+      "url": "https://open.spotify.com/track/0PIEY8OKPZYcOb0jztJdCm"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2439,30 +2439,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Different Future",
-        "url": "https://open.spotify.com/album/2uBUb7Fs1UDBVAkuQItRxf"
+        "name": "Made For",
+        "url": "https://open.spotify.com/album/6YEB4gTyYiACoJsBkYCRiS"
       },
       "artists": [
         {
-          "name": "Last Heroes",
-          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
+          "name": "Hoang",
+          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
         },
         {
-          "name": "STAR SEED",
-          "url": "https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd"
+          "name": "n\u00f8ll",
+          "url": "https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL"
         },
         {
-          "name": "Liu Bei",
-          "url": "https://open.spotify.com/artist/5g8huPwwthukeiOFPFfvJ8"
-        },
-        {
-          "name": "LeyeT",
-          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
         }
       ],
-      "duration_ms": 204923,
-      "name": "Different Future",
-      "url": "https://open.spotify.com/track/266xopBiawptt9tviXJLlg"
+      "duration_ms": 200869,
+      "name": "Made For",
+      "url": "https://open.spotify.com/track/3wPIAfjNvZqSDdyEU95gxI"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2491,66 +2487,30 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Made For",
-        "url": "https://open.spotify.com/album/6YEB4gTyYiACoJsBkYCRiS"
+        "name": "Different Future",
+        "url": "https://open.spotify.com/album/2uBUb7Fs1UDBVAkuQItRxf"
       },
       "artists": [
         {
-          "name": "Hoang",
-          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
+          "name": "Last Heroes",
+          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
         },
         {
-          "name": "n\u00f8ll",
-          "url": "https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL"
+          "name": "STAR SEED",
+          "url": "https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd"
         },
         {
-          "name": "RUNN",
-          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+          "name": "Liu Bei",
+          "url": "https://open.spotify.com/artist/5g8huPwwthukeiOFPFfvJ8"
+        },
+        {
+          "name": "LeyeT",
+          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
         }
       ],
-      "duration_ms": 200869,
-      "name": "Made For",
-      "url": "https://open.spotify.com/track/3wPIAfjNvZqSDdyEU95gxI"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Heaven Again",
-        "url": "https://open.spotify.com/album/7oP8wBi22HDnIVxEjrHmeC"
-      },
-      "artists": [
-        {
-          "name": "Wurme",
-          "url": "https://open.spotify.com/artist/3rOSH7IovBDpCELYQq4gSJ"
-        },
-        {
-          "name": "Marc Rain",
-          "url": "https://open.spotify.com/artist/1acCVrk05rfolkBU3M6b7f"
-        },
-        {
-          "name": "Jetason",
-          "url": "https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Heaven Again",
-      "url": "https://open.spotify.com/track/03MzMaGtcNGKBkgQqJ1oUF"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Nobody Compares",
-        "url": "https://open.spotify.com/album/1Qc38fCylJ6HKvgWfxAxUA"
-      },
-      "artists": [
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Nobody Compares",
-      "url": "https://open.spotify.com/track/7BixD2gRYSkttEeP8emwdc"
+      "duration_ms": 204923,
+      "name": "Different Future",
+      "url": "https://open.spotify.com/track/266xopBiawptt9tviXJLlg"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2591,6 +2551,46 @@
       "duration_ms": 288000,
       "name": "Empty Space",
       "url": "https://open.spotify.com/track/7xT99lphDyMw4UCkKquxf9"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Nobody Compares",
+        "url": "https://open.spotify.com/album/1Qc38fCylJ6HKvgWfxAxUA"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Nobody Compares",
+      "url": "https://open.spotify.com/track/7BixD2gRYSkttEeP8emwdc"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Heaven Again",
+        "url": "https://open.spotify.com/album/7oP8wBi22HDnIVxEjrHmeC"
+      },
+      "artists": [
+        {
+          "name": "Wurme",
+          "url": "https://open.spotify.com/artist/3rOSH7IovBDpCELYQq4gSJ"
+        },
+        {
+          "name": "Marc Rain",
+          "url": "https://open.spotify.com/artist/1acCVrk05rfolkBU3M6b7f"
+        },
+        {
+          "name": "Jetason",
+          "url": "https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Heaven Again",
+      "url": "https://open.spotify.com/track/03MzMaGtcNGKBkgQqJ1oUF"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -3019,22 +3019,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Heavyweight",
-        "url": "https://open.spotify.com/album/7ICVdwlhoyj8l3qGNGxHm8"
-      },
-      "artists": [
-        {
-          "name": "KU\u010cKA",
-          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
-        }
-      ],
-      "duration_ms": 159309,
-      "name": "Heavyweight",
-      "url": "https://open.spotify.com/track/3fTRhDnOTFnO1vvpqJ8G2n"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Back to Me",
         "url": "https://open.spotify.com/album/0eOJ5jalpbkCVsWuiH1Rwp"
       },
@@ -3051,6 +3035,22 @@
       "duration_ms": 268800,
       "name": "Back to Me",
       "url": "https://open.spotify.com/track/7rOnrDcSOyPRSLq7YcfLPt"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Heavyweight",
+        "url": "https://open.spotify.com/album/7ICVdwlhoyj8l3qGNGxHm8"
+      },
+      "artists": [
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "duration_ms": 159309,
+      "name": "Heavyweight",
+      "url": "https://open.spotify.com/track/3fTRhDnOTFnO1vvpqJ8G2n"
     },
     {
       "added_at": "2024-07-26 04:00:00",

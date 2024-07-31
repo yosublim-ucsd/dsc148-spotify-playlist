@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Joe Mettle",
-  "num_followers": 11538,
+  "num_followers": 11556,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-07-26 08:00:32",
       "album": {
-        "name": "Wave on Wave",
-        "url": "https://open.spotify.com/album/5c5L5aWBD5XRmq82nR2RP6"
-      },
-      "artists": [
-        {
-          "name": "Leslie Skye",
-          "url": "https://open.spotify.com/artist/5AZX66LDF11JZi7fGkGzun"
-        }
-      ],
-      "duration_ms": 221800,
-      "name": "Wave on Wave",
-      "url": "https://open.spotify.com/track/7tAxugE49EdNSzMM4DZtBa"
-    },
-    {
-      "added_at": "2024-07-26 08:00:32",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 264788,
       "name": "Awurade Ye",
       "url": "https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST"
+    },
+    {
+      "added_at": "2024-07-26 08:00:32",
+      "album": {
+        "name": "Wave on Wave",
+        "url": "https://open.spotify.com/album/5c5L5aWBD5XRmq82nR2RP6"
+      },
+      "artists": [
+        {
+          "name": "Leslie Skye",
+          "url": "https://open.spotify.com/artist/5AZX66LDF11JZi7fGkGzun"
+        }
+      ],
+      "duration_ms": 221800,
+      "name": "Wave on Wave",
+      "url": "https://open.spotify.com/track/7tAxugE49EdNSzMM4DZtBa"
     },
     {
       "added_at": "2024-07-26 08:00:32",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-07-26 08:00:32",
       "album": {
+        "name": "Adom Grace",
+        "url": "https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 290527,
+      "name": "Adom Grace",
+      "url": "https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas"
+    },
+    {
+      "added_at": "2024-07-26 08:00:32",
+      "album": {
         "name": "VICTORY",
         "url": "https://open.spotify.com/album/0aLj0BdIYW7zKIG2Eq1hQU"
       },
@@ -755,6 +771,42 @@
       "duration_ms": 236769,
       "name": "VICTORY",
       "url": "https://open.spotify.com/track/5Fv2TM7J9kzWzy17PwnQPW"
+    },
+    {
+      "added_at": "2024-07-26 08:00:32",
+      "album": {
+        "name": "Borborbor Gospel Medley",
+        "url": "https://open.spotify.com/album/6AfJx9o8D0VztTeuIxy189"
+      },
+      "artists": [
+        {
+          "name": "Bethel Revival Choir",
+          "url": "https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz"
+        }
+      ],
+      "duration_ms": 517432,
+      "name": "Borborbor Gospel Medley",
+      "url": "https://open.spotify.com/track/35kYZLjrvvDkEMZ20ELLT3"
+    },
+    {
+      "added_at": "2024-07-26 08:00:32",
+      "album": {
+        "name": "Come and See",
+        "url": "https://open.spotify.com/album/6Le36V9KISl0nz7lJicj5g"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        },
+        {
+          "name": "Piesie Esther",
+          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
+        }
+      ],
+      "duration_ms": 342981,
+      "name": "Come and See",
+      "url": "https://open.spotify.com/track/23GEN8dLBDYRAiDSno0eP2"
     },
     {
       "added_at": "2024-07-26 08:00:32",
@@ -783,58 +835,6 @@
     {
       "added_at": "2024-07-26 08:00:32",
       "album": {
-        "name": "Borborbor Gospel Medley",
-        "url": "https://open.spotify.com/album/6AfJx9o8D0VztTeuIxy189"
-      },
-      "artists": [
-        {
-          "name": "Bethel Revival Choir",
-          "url": "https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz"
-        }
-      ],
-      "duration_ms": 517432,
-      "name": "Borborbor Gospel Medley",
-      "url": "https://open.spotify.com/track/35kYZLjrvvDkEMZ20ELLT3"
-    },
-    {
-      "added_at": "2024-07-26 08:00:32",
-      "album": {
-        "name": "Adom Grace",
-        "url": "https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 290527,
-      "name": "Adom Grace",
-      "url": "https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas"
-    },
-    {
-      "added_at": "2024-07-26 08:00:32",
-      "album": {
-        "name": "Come and See",
-        "url": "https://open.spotify.com/album/6Le36V9KISl0nz7lJicj5g"
-      },
-      "artists": [
-        {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
-        },
-        {
-          "name": "Piesie Esther",
-          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
-        }
-      ],
-      "duration_ms": 342981,
-      "name": "Come and See",
-      "url": "https://open.spotify.com/track/23GEN8dLBDYRAiDSno0eP2"
-    },
-    {
-      "added_at": "2024-07-26 08:00:32",
-      "album": {
         "name": "Deeper Touch",
         "url": "https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 781930,
       "name": "Deeper Medley",
       "url": "https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg"
+    },
+    {
+      "added_at": "2024-07-26 08:00:32",
+      "album": {
+        "name": "Nyansabuakwa Nyame",
+        "url": "https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 356200,
+      "name": "Nyansabuakwa Nyame",
+      "url": "https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD"
     },
     {
       "added_at": "2024-07-26 08:00:32",
@@ -879,26 +895,6 @@
       "duration_ms": 274599,
       "name": "Se Mekume Ho",
       "url": "https://open.spotify.com/track/3ojCyHzmRr5hNsEn4zeTqH"
-    },
-    {
-      "added_at": "2024-07-26 08:00:32",
-      "album": {
-        "name": "Ghana Local Praise Medley",
-        "url": "https://open.spotify.com/album/6JMeaFneyim4EC2BxMYMGw"
-      },
-      "artists": [
-        {
-          "name": "DOXA WAVE GH",
-          "url": "https://open.spotify.com/artist/1zqLzdhDVwbe35i4IFrgf6"
-        },
-        {
-          "name": "Shadrach Mensah Kwesi",
-          "url": "https://open.spotify.com/artist/6WRzw7R2P5DfMPXZAulY7e"
-        }
-      ],
-      "duration_ms": 566414,
-      "name": "Ghana Local Praise Medley",
-      "url": "https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV"
     }
   ],
   "unique_name": "Aseda",

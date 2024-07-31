@@ -4,7 +4,7 @@
 
 > 
 
-1,558 songs - 3 day 12 hr 35 min
+1,559 songs - 3 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Closer & Closer \(Lust\)](https://open.spotify.com/track/33I6EMlyKVXZFexDSOWJw9) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Closer & Closer \(Lust\)](https://open.spotify.com/album/0e21VAdWXglV2uNwQczLdE) | 3:10 | 2024-04-09 |  |
 | [Cocaïne Bear](https://open.spotify.com/track/4JX4MNQP4oyQPGcO2H0gAD) | [Radium](https://open.spotify.com/artist/5YG7cC1VX7Nh7AjUOf6PcG), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [I Am Frenchcore 13](https://open.spotify.com/album/4lvMC9qCt7b9SgzVpxAzya) | 4:09 | 2023-06-24 |  |
 | [Collab One](https://open.spotify.com/track/1z9Q3Z9yroCb4RyMpsXNN3) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p), [Karun](https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT) | [Collab One](https://open.spotify.com/album/6MXNCYHBITJDdVtbNMquJp) | 2:52 | 2023-05-01 |  |
+| [Colorblind](https://open.spotify.com/track/4QuLvVp76ztgtugmHQ3AoM) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Colorblind](https://open.spotify.com/album/77cInQFumMTB0g5W5WlMSa) | 2:57 | 2024-07-30 |  |
 | [Colorful Beat](https://open.spotify.com/track/2hMi08697bmdUVXOxabQ88) | [Srav3R](https://open.spotify.com/artist/5doDHBkL33VHZXcqAuQBj0), [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [Yume\(CV:Oda Karin\)](https://open.spotify.com/artist/0IzBLBBVUBC37eOywLJnJq), [Yu\(CV:Takatsuki Miyuu\)](https://open.spotify.com/artist/3EV38xC3L5KAeKyQjhoEv3) | [Colorful Beat](https://open.spotify.com/album/7Eb3aFzgBo2pap0rpMMfQ3) | 2:16 | 2023-11-13 |  |
 | [COME 2 DADDY](https://open.spotify.com/track/6sxm18D8ySWK1c0NZX00k5) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl) | [COME 2 DADDY](https://open.spotify.com/album/0ZNypRPkBYqmA9dLSXr8PJ) | 2:42 | 2024-06-10 |  |
 | [Come Alive](https://open.spotify.com/track/1YlZ6MetMORMdsrwWXLV85) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Come Alive](https://open.spotify.com/album/2AMzGsyHFKzWVJ86BLBxUg) | 4:10 | 2023-09-22 |  |

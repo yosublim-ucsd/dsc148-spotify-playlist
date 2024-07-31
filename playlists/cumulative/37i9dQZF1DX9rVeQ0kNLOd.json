@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 196795,
       "name": "Grapefruit Moon",
       "url": "https://open.spotify.com/track/7AegA5XmYCR96pEEI35NLw"
@@ -2148,7 +2148,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 227666,
       "name": "No Time To Lose",
       "url": "https://open.spotify.com/track/70wXFwkMt7Ff9JYYDRU7mC"
@@ -2392,7 +2392,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 219239,
       "name": "RACE",
       "url": "https://open.spotify.com/track/6BALXTE4btzuEoCjdCFL31"
@@ -3567,6 +3567,28 @@
     },
     {
       "album": {
+        "name": "yokan",
+        "url": "https://open.spotify.com/album/2DlofrRkHldc6Cb5dm6dZT"
+      },
+      "artists": [
+        {
+          "name": "macico",
+          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
+        },
+        {
+          "name": "evening cinema",
+          "url": "https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176504,
+      "name": "yokan",
+      "url": "https://open.spotify.com/track/0ncp0LnvQKzwweTq7HIjn4"
+    },
+    {
+      "album": {
         "name": "You & I",
         "url": "https://open.spotify.com/album/45N5Sz0eCAuU90MYKF61Xl"
       },
@@ -3842,7 +3864,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-29",
+      "date_removed": null,
       "duration_ms": 223346,
       "name": "\u3053\u308c\u3060\u3051\u3067\u5341\u5206\u306a\u306e\u306b - (BASI REMIX)",
       "url": "https://open.spotify.com/track/6zQH04kpeG68psOniDOuyd"
@@ -4092,6 +4114,24 @@
       "duration_ms": 234213,
       "name": "\u307e\u305f\u305f\u304d",
       "url": "https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH"
+    },
+    {
+      "album": {
+        "name": "\u307e\u305f\u305f\u3073",
+        "url": "https://open.spotify.com/album/23fFju9jbNjgRSvrB2Ql6S"
+      },
+      "artists": [
+        {
+          "name": "CHIAKI SATO",
+          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250033,
+      "name": "\u307e\u305f\u305f\u3073",
+      "url": "https://open.spotify.com/track/0vYAQvD13yIkxb7121Z2tj"
     },
     {
       "album": {
@@ -5090,7 +5130,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 253526,
       "name": "\u5fd8\u308c\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/0suhDxWCySBmnehAxiJkG7"
@@ -5509,6 +5549,24 @@
     },
     {
       "album": {
+        "name": "Recipe",
+        "url": "https://open.spotify.com/album/47RmvUJTXC3QRzpiDN8MiF"
+      },
+      "artists": [
+        {
+          "name": "Simmer Pine",
+          "url": "https://open.spotify.com/artist/1aBq93WwCvNTicXVQ7B9vA"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215681,
+      "name": "\u6e1a",
+      "url": "https://open.spotify.com/track/4tSJfQosT5D2KlzhtIJzmB"
+    },
+    {
+      "album": {
         "name": "\u820c\u6253",
         "url": "https://open.spotify.com/album/5SxgjWfTuZEd3eqscDMU1v"
       },
@@ -5874,7 +5932,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 191689,
       "name": "\u9003\u907f\u884c",
       "url": "https://open.spotify.com/track/0iotyDF6RF5klVLztERO5Z"
@@ -6036,7 +6094,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 253364,
       "name": "\u9be8\u306e\u5b50",
       "url": "https://open.spotify.com/track/1b1XlfWkqe6bAsi5go0Ppg"

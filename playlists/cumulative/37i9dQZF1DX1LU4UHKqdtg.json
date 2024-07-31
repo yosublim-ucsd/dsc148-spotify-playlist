@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "You&Me",
+        "url": "https://open.spotify.com/album/4s0X27vaIZQHOdksekOMmE"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR-D&E",
+          "url": "https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226504,
+      "name": "24Lovers",
+      "url": "https://open.spotify.com/track/75kQL2NMfZHbrOlvo36etS"
+    },
+    {
+      "album": {
         "name": "28 Reasons - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw"
       },
@@ -4150,7 +4168,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 263133,
       "name": "Cry",
       "url": "https://open.spotify.com/track/786NGh40psKOdopTcri1Wj"
@@ -7185,6 +7203,28 @@
     },
     {
       "album": {
+        "name": "Go-Getters",
+        "url": "https://open.spotify.com/album/6L9qErYnQvH2xgsGn9ZJzN"
+      },
+      "artists": [
+        {
+          "name": "Mori Calliope",
+          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
+        },
+        {
+          "name": "Yoon",
+          "url": "https://open.spotify.com/artist/01ieSz0UhfrvFZzQHTCW9Z"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195979,
+      "name": "Go-Getters",
+      "url": "https://open.spotify.com/track/1HVZa1ezwRzomqVVfrfVO9"
+    },
+    {
+      "album": {
         "name": "SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'",
         "url": "https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f"
       },
@@ -7380,7 +7420,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 196400,
       "name": "GRAB ME - Japanese ver. -",
       "url": "https://open.spotify.com/track/4eCxt8h7dTYNrdsdpOJuW8"
@@ -8050,7 +8090,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 192600,
       "name": "hey! hey!",
       "url": "https://open.spotify.com/track/6vSpm3PAXA1PLyEINx3DJC"
@@ -12564,7 +12604,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 212062,
       "name": "One Kiss",
       "url": "https://open.spotify.com/track/2B0fIX58M69Y7kuPG86l7g"
@@ -12854,6 +12894,24 @@
       "duration_ms": 199826,
       "name": "Pain is Beautiful",
       "url": "https://open.spotify.com/track/6bU60cEu5E7l9unwEfGxjV"
+    },
+    {
+      "album": {
+        "name": "PANDA",
+        "url": "https://open.spotify.com/album/14bpdzXr1wJ7AnvNgM2Ij4"
+      },
+      "artists": [
+        {
+          "name": "Celest1a",
+          "url": "https://open.spotify.com/artist/7hMOFPZVD8QWoAXtaYWXld"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186560,
+      "name": "PANDA",
+      "url": "https://open.spotify.com/track/2QeuakrxtOESvNyROxyN1G"
     },
     {
       "album": {
@@ -13260,7 +13318,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 201226,
       "name": "Pitter-Patter-Love - JAPANESE ver.",
       "url": "https://open.spotify.com/track/07JfEFdoUWjTHh8CLWfF6J"
@@ -13913,6 +13971,24 @@
     },
     {
       "album": {
+        "name": "REBIRTH",
+        "url": "https://open.spotify.com/album/3c8T5hoHfAv938hHCLaWdB"
+      },
+      "artists": [
+        {
+          "name": "TRENDZ",
+          "url": "https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178533,
+      "name": "REBIRTH",
+      "url": "https://open.spotify.com/track/7aQSpk1UJBEXNkGw1duIjs"
+    },
+    {
+      "album": {
         "name": "Redlight",
         "url": "https://open.spotify.com/album/7jermIBGjkYPdB94Pi9uCn"
       },
@@ -14524,7 +14600,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 179426,
       "name": "SAINT",
       "url": "https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP"
@@ -15874,7 +15950,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 181760,
       "name": "Songbird - Japanese Ver.",
       "url": "https://open.spotify.com/track/3SCRXReEFR5yhw5jnMA0zE"
@@ -16344,7 +16420,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 175515,
       "name": "Step",
       "url": "https://open.spotify.com/track/4eecTuBlb0nM4DIVTmjWPa"
@@ -20662,7 +20738,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 184747,
       "name": "\u3086\u3089\u3086\u3089 -\u904b\u547d\u306e\u82b1-",
       "url": "https://open.spotify.com/track/6wpI5gQoIYWBJs9juUEvJI"

@@ -2,7 +2,7 @@
 
 ### [This Is Carrie Underwood](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2F0Lks)
 
-> This is Carrie Underwood\. The essential tracks, all in one playlist.
+> This is: Carrie Underwood\. Alle wichtigen Tracks in einer Playlist.
 
 79 songs - 4 hr 46 min
 

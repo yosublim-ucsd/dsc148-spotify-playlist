@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 232083,
+  "num_followers": 232081,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-06-14 21:41:58",
       "album": {
-        "name": "Nos Botequins Da Vida",
-        "url": "https://open.spotify.com/album/5jrnGYZ7bHuFqOG2GusH50"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 190106,
-      "name": "Olho por Olho",
-      "url": "https://open.spotify.com/track/6P71LmKrWTwnGBe4BYK5IG"
-    },
-    {
-      "added_at": "2024-06-14 21:41:58",
-      "album": {
         "name": "VIBE (Ao Vivo)",
         "url": "https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 169201,
       "name": "Prudente - Ao Vivo",
       "url": "https://open.spotify.com/track/5OkQbATpomh2u5D0YT2j63"
+    },
+    {
+      "added_at": "2024-06-14 21:41:58",
+      "album": {
+        "name": "Nos Botequins Da Vida",
+        "url": "https://open.spotify.com/album/5jrnGYZ7bHuFqOG2GusH50"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 190106,
+      "name": "Olho por Olho",
+      "url": "https://open.spotify.com/track/6P71LmKrWTwnGBe4BYK5IG"
     },
     {
       "added_at": "2024-06-14 21:41:58",
@@ -403,18 +403,18 @@
     {
       "added_at": "2024-06-14 21:41:58",
       "album": {
-        "name": "Gostoso Veneno",
-        "url": "https://open.spotify.com/album/3GVTWsxdNM3yBnjS6r5wbO"
+        "name": "Sentimento Brasileiro",
+        "url": "https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP"
       },
       "artists": [
         {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
         }
       ],
-      "duration_ms": 195493,
-      "name": "Gostoso Veneno",
-      "url": "https://open.spotify.com/track/2gfSAH2Cim8mwv4VPsqvId"
+      "duration_ms": 171293,
+      "name": "Quando o povo entra na dan\u00e7a",
+      "url": "https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F"
     },
     {
       "added_at": "2024-06-14 21:41:58",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-06-14 21:41:58",
       "album": {
+        "name": "Gostoso Veneno",
+        "url": "https://open.spotify.com/album/3GVTWsxdNM3yBnjS6r5wbO"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 195493,
+      "name": "Gostoso Veneno",
+      "url": "https://open.spotify.com/track/2gfSAH2Cim8mwv4VPsqvId"
+    },
+    {
+      "added_at": "2024-06-14 21:41:58",
+      "album": {
         "name": "Vers\u00e1til",
         "url": "https://open.spotify.com/album/6QLdS0DHJp6v493GZr9KOM"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 246733,
       "name": "Nas Asas da Can\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/7gW3883SbE306v3X4pKTWN"
-    },
-    {
-      "added_at": "2024-06-14 21:41:58",
-      "album": {
-        "name": "Sentimento Brasileiro",
-        "url": "https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 171293,
-      "name": "Quando o povo entra na dan\u00e7a",
-      "url": "https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F"
     },
     {
       "added_at": "2024-06-14 21:41:58",
@@ -679,70 +679,6 @@
     {
       "added_at": "2024-06-14 21:41:58",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 194291,
-      "name": "Faz uma loucura por mim - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/7jYmFjZ8l40WFNVf9mhX9P"
-    },
-    {
-      "added_at": "2024-06-14 21:41:58",
-      "album": {
-        "name": "Zeca Pagodinho",
-        "url": "https://open.spotify.com/album/2enLS4TGDR3l4FtvpqswEs"
-      },
-      "artists": [
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Spc",
-      "url": "https://open.spotify.com/track/0IEbtavzyWh3EHchvR5Jjt"
-    },
-    {
-      "added_at": "2024-06-14 21:41:58",
-      "album": {
-        "name": "Marcelo D2 - Canta Bezerra Da Silva",
-        "url": "https://open.spotify.com/album/3I564AuHICCCnWEBHbvtoP"
-      },
-      "artists": [
-        {
-          "name": "Marcelo D2",
-          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
-        }
-      ],
-      "duration_ms": 222600,
-      "name": "Partideiro Sem N\u00f3 Na Garganta",
-      "url": "https://open.spotify.com/track/4vrcEe4iwNrGJi0ODXljvx"
-    },
-    {
-      "added_at": "2024-06-14 21:41:58",
-      "album": {
-        "name": "Am\u00e9rica Brasil Ao Vivo (Live)",
-        "url": "https://open.spotify.com/album/41qwuDifJUPHTl57rEK83K"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 233346,
-      "name": "Tive Raz\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/76Ni49PIcJCfiuZuOxtn14"
-    },
-    {
-      "added_at": "2024-06-14 21:41:58",
-      "album": {
         "name": "Sambabook Jo\u00e3o Nogueira, 2",
         "url": "https://open.spotify.com/album/6FOkfUj1Mv1ySctRjW3GY0"
       },
@@ -827,6 +763,70 @@
       "duration_ms": 278853,
       "name": "Clube do Samba",
       "url": "https://open.spotify.com/track/0hR8aII8gulgOK3r5UxfDq"
+    },
+    {
+      "added_at": "2024-06-14 21:41:58",
+      "album": {
+        "name": "Zeca Pagodinho",
+        "url": "https://open.spotify.com/album/2enLS4TGDR3l4FtvpqswEs"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Spc",
+      "url": "https://open.spotify.com/track/0IEbtavzyWh3EHchvR5Jjt"
+    },
+    {
+      "added_at": "2024-06-14 21:41:58",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 194291,
+      "name": "Faz uma loucura por mim - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/7jYmFjZ8l40WFNVf9mhX9P"
+    },
+    {
+      "added_at": "2024-06-14 21:41:58",
+      "album": {
+        "name": "Marcelo D2 - Canta Bezerra Da Silva",
+        "url": "https://open.spotify.com/album/3I564AuHICCCnWEBHbvtoP"
+      },
+      "artists": [
+        {
+          "name": "Marcelo D2",
+          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
+        }
+      ],
+      "duration_ms": 222600,
+      "name": "Partideiro Sem N\u00f3 Na Garganta",
+      "url": "https://open.spotify.com/track/4vrcEe4iwNrGJi0ODXljvx"
+    },
+    {
+      "added_at": "2024-06-14 21:41:58",
+      "album": {
+        "name": "Am\u00e9rica Brasil Ao Vivo (Live)",
+        "url": "https://open.spotify.com/album/41qwuDifJUPHTl57rEK83K"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 233346,
+      "name": "Tive Raz\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/76Ni49PIcJCfiuZuOxtn14"
     },
     {
       "added_at": "2024-06-14 21:41:58",

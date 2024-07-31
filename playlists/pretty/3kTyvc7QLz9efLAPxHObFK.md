@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,557 songs - 3 day 12 hr 31 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,558 songs - 3 day 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1565,5 +1565,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1555 | [Unleash Me](https://open.spotify.com/track/0hLHpjZjdnTpIGy77tLcAp) | [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS), [Philip Jax](https://open.spotify.com/artist/4S9KVaizGGux3RLHsIgcm6) | [Unleash Me](https://open.spotify.com/album/5hF1K4i4CT4dtDCAol04CE) | 3:49 |
 | 1556 | [Psychopath](https://open.spotify.com/track/0dCv2iuLDwJv55RUaGfL4u) | [Abaddon](https://open.spotify.com/artist/3ujI46PHi7vombfnkjM8C3) | [Psychopath](https://open.spotify.com/album/0kw7Xi5YV0LTw32yTilP0t) | 2:41 |
 | 1557 | [Watch It](https://open.spotify.com/track/7fgiZI6F5V9Ii5UkhCGHnE) | [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e) | [Orbit](https://open.spotify.com/album/0FMn7bv3OZkg5wBnqIt3wv) | 2:45 |
+| 1558 | [Colorblind](https://open.spotify.com/track/4QuLvVp76ztgtugmHQ3AoM) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Colorblind](https://open.spotify.com/album/77cInQFumMTB0g5W5WlMSa) | 2:57 |
 
-Snapshot ID: `AAAGQofhDd1w65bsa7sWHtu025NdEQlP`
+Snapshot ID: `AAAGQyVJyNDNQoJtYeW4MvxIvJXJVoZk`

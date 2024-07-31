@@ -4,7 +4,7 @@
 
 > What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! A predicttion playlist that also Includes Summer 2023 edition &amp; bonus tracks.
 
-3,664 songs - 8 day 14 hr 40 min
+3,669 songs - 8 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2366,6 +2366,7 @@
 | [Only Have Eyes 42](https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:50 | 2023-07-20 |  |
 | [Only In America](https://open.spotify.com/track/3e41nkMyqcAwaQCXJVj87G) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 4:28 | 2020-11-17 | 2020-12-02 |
 | [Only One](https://open.spotify.com/track/11g4ZLlSgjwNPrlyBhhK5G) | [Blue Sails](https://open.spotify.com/artist/7K8pOBXISyUXE08MVIlt4O) | [Only One](https://open.spotify.com/album/4AcbBkKvqpHJvBwcW7A6Rn) | 4:48 | 2021-01-15 | 2021-01-30 |
+| [Only One \(Dr Fazz Remix\)](https://open.spotify.com/track/3R1Q802GR7MlAe0bHI7Qgb) | [Patrizia](https://open.spotify.com/artist/6pS7d2jzdv4aVYjGCVNpfm) | [Only One \(Dr Fazz Remix\)](https://open.spotify.com/album/1A1LNjc2VmRirDuHg9VLPp) | 5:13 | 2024-07-30 |  |
 | [only the beginning](https://open.spotify.com/track/2GoCmpyyMy9A794jxEWDs3) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [only the beginning](https://open.spotify.com/album/6dADrYm5dkxm9dyX4wnbza) | 3:55 | 2024-05-05 | 2024-05-19 |
 | [Only Us](https://open.spotify.com/track/4hsitJwVkpy8b7wDRzhVel) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Only Us](https://open.spotify.com/album/3gAF3FpWgNZKX3RfpFohQ0) | 3:07 | 2021-07-23 | 2021-08-08 |
 | [Only You](https://open.spotify.com/track/4FvLKbcWxrlLJMt22h1LsS) | [Nana M\. Rose](https://open.spotify.com/artist/11vVr1ilkEZxce5560jPmC) | [Only You](https://open.spotify.com/album/5XDHAQz6BNkw24l8mhpqVd) | 3:31 | 2023-03-17 | 2023-04-09 |
@@ -2580,6 +2581,7 @@
 | [Raise My Glass](https://open.spotify.com/track/1x9KbcTkVKr2tMtaeQDK3W) | [Joy Bogat](https://open.spotify.com/artist/4W9ZAgvkctnqPK6BftsaQg) | [Raise My Glass](https://open.spotify.com/album/4zjijMaqWre5fKBGVlAc6n) | 3:20 | 2023-08-25 | 2023-09-26 |
 | [Rank & File](https://open.spotify.com/track/3RPrTk3WZFlhgJy1hMF0gl) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Rank & File](https://open.spotify.com/album/7pL8GCf0YyK7o3u3o8sw3S) | 3:40 | 2023-07-21 | 2023-08-28 |
 | [Rank & File](https://open.spotify.com/track/61YRabDYZZ6RKmJQh7pO5Y) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Rank & File](https://open.spotify.com/album/187mOwjhQguBawGC2YVj2t) | 3:40 | 2020-08-20 | 2023-02-12 |
+| [RAP CITY.](https://open.spotify.com/track/3vC8X1MYpJarxDoAoDV7wn) | [AlexTheeMack](https://open.spotify.com/artist/3DGEtGMdwQgbRnpUCkBqht) | [RAP CITY.](https://open.spotify.com/album/2vJGnwccfkByypeFiPfNIg) | 2:42 | 2024-07-30 |  |
 | [RAPSTAR](https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [RAPSTAR](https://open.spotify.com/album/0SVzFcpsByITKgURaxXdsV) | 2:45 | 2021-07-07 | 2021-07-12 |
 | [Rapture \- Anton Ishutin Remix](https://open.spotify.com/track/0yJLLL0AHPD6FgXrN9MCaS) | [The Bossline](https://open.spotify.com/artist/2mqLyztNOo3DF8seytuHzE), [Anton Ishutin](https://open.spotify.com/artist/0RhuWNLtoucVMRmsSkCgWl) | [Rapture \(Anton Ishutin Remix\)](https://open.spotify.com/album/09OlFbn7LCZnEkNgjZ0f8P) | 3:06 | 2024-01-30 | 2024-02-11 |
 | [Rat Race](https://open.spotify.com/track/3168WGPuA0Ru8GsuGOCAz2) | [Droo's Peace Crush](https://open.spotify.com/artist/3QPEx65Ji9k03ZCwPbmYED) | ['79 Playlist](https://open.spotify.com/album/03MvJvmxaiESXRyq5TG1oz) | 3:12 | 2021-08-13 | 2021-08-28 |
@@ -2691,6 +2693,7 @@
 | [Rusty](https://open.spotify.com/track/5ZzDIbj1SSnoavG06nyhvJ) | [Josh Wood](https://open.spotify.com/artist/2TBKG49Vsd9V7z0jaEAjLV) | [Rusty](https://open.spotify.com/album/6WDsaHbCuGFb2PAhgGd68c) | 3:47 | 2020-04-04 | 2020-04-20 |
 | [RWH](https://open.spotify.com/track/5CkSpEdTCQfKaYJyAhZcKW) | [51b](https://open.spotify.com/artist/3t4dtvAzT6mSui1MHYMpWg) | [RWH](https://open.spotify.com/album/6oVK0B8ZteUj4EGr4cFubz) | 3:08 | 2022-05-06 | 2022-05-22 |
 | [RYB.mp3](https://open.spotify.com/track/3pkR3wTJnxe5RlLUerHrDt) | [A\-D](https://open.spotify.com/artist/7p43xMnbaLAqV1fpHfJ6Qz) | [RYB.mp3](https://open.spotify.com/album/3dQkgwLRNOgTZGw0HcJBle) | 2:16 | 2023-02-24 | 2023-03-20 |
+| [S&S \(feat\. Kitty Gata\)](https://open.spotify.com/track/0ynb6eGoj2yZ2CArB4L1rA) | [Kevin K\-Rob Robertson](https://open.spotify.com/artist/5mWd0wdfJKXAsRDJDRH8Fk), [Kitty Gata](https://open.spotify.com/artist/33hflp6cIJjL6w46NwsJ1x) | [S&S \(feat\. Kitty Gata\)](https://open.spotify.com/album/3cxkeqjEmCVgMWiSStzj37) | 2:56 | 2024-07-30 |  |
 | [Sability](https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sability](https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy) | 2:46 | 2023-07-20 |  |
 | [Sacred Regard](https://open.spotify.com/track/3MyHoGJTvAircDrgQIRByo) | [Rachel Fannan](https://open.spotify.com/artist/45NEcLQE6r8oramtHa7tAe), [Jacob Miller](https://open.spotify.com/artist/5ETV1D5HBcoygYbYGEAln6) | [Sacred Regard](https://open.spotify.com/album/7sw7BoLzX5aEHvU3wxgzHX) | 3:34 | 2021-09-18 | 2021-10-03 |
 | [Sad Baby](https://open.spotify.com/track/6yDO6Sc8BqeAKruur5601B) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Sad Baby](https://open.spotify.com/album/1MMgsQcs2mV3XalOFcJIo9) | 3:40 | 2023-02-27 | 2023-03-20 |
@@ -2712,6 +2715,7 @@
 | [Sandalwood](https://open.spotify.com/track/6DrGoTpeDWLCqAQhZu00U8) | [Corner Booth](https://open.spotify.com/artist/5jYtzQRbrCxGPBwGkcd6lV) | [Sandalwood](https://open.spotify.com/album/0EpIUOLztVpy8znJ39CSbX) | 2:00 | 2022-12-16 | 2023-01-07 |
 | [Sane](https://open.spotify.com/track/0FBgkwLxutVS5lMtQtWlDp) | [Lilou](https://open.spotify.com/artist/61g7c2T0RXuYhlmcp2IsTM) | [Sane](https://open.spotify.com/album/53mWXp5331eqw4tTO3X9Xz) | 2:51 | 2021-05-13 | 2021-06-10 |
 | [Sangria](https://open.spotify.com/track/47IgSDN8Geml7rIpFfoaaT) | [H.MIL](https://open.spotify.com/artist/3DDL8chhP6vNMIqngs4VBr), [pre kai ro](https://open.spotify.com/artist/0oXFTo5u9yH1zht6gIt4wY) | [Sangria](https://open.spotify.com/album/072CH1UWkglrS6ZBNiZvqU) | 2:54 | 2022-05-19 | 2022-06-05 |
+| [Santa](https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/3uzutRS5qX4ng5Skjh5S6W) | 3:13 | 2024-07-30 |  |
 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 | 2022-07-26 | 2024-04-30 |
 | [Satellite](https://open.spotify.com/track/3WKk6tpOlFLHfFO3TjbtHY) | [Brainheart](https://open.spotify.com/artist/6WbG5UvM4fTvxSms7Gj2hI), [Brett Miller](https://open.spotify.com/artist/5WKSAch6loISTLupOa9Ilb) | [Satellite](https://open.spotify.com/album/63fqq3L24swfaSEo0oOxRf) | 3:30 | 2021-05-08 | 2021-05-23 |
 | [Satellites](https://open.spotify.com/track/4v74mKZC0SdE27w1hNLuPk) | [Space Tyger](https://open.spotify.com/artist/5QWJAFJTKlbLapjN5YtGBT) | [Satellites](https://open.spotify.com/album/0xYio9d8CUa5v7GReFDns1) | 4:00 | 2021-04-30 | 2021-05-16 |
@@ -3626,6 +3630,7 @@
 | [You & Me](https://open.spotify.com/track/0j8Czyl6iYqRiQn1feRtsh) | [Steph Devine](https://open.spotify.com/artist/6ZOjeqFeVNL0cPgouVRcHd) | [You & Me](https://open.spotify.com/album/2mAh6k3S7CISqRa7HanmhN) | 3:02 | 2021-11-24 | 2021-12-18 |
 | [You Ain't Got Me](https://open.spotify.com/track/2LhRZFpsFCgLu0DnvsMiOG) | [Marty O'Neill](https://open.spotify.com/artist/3tIkLvNAAQfZdJwbDASQsz) | [You Ain't Got Me](https://open.spotify.com/album/2uwdZ2fwxDSz3XrEUPn9FT) | 3:21 | 2024-02-25 | 2024-03-08 |
 | [You Ain't The Problem](https://open.spotify.com/track/3zJ5RDG0bLQAV2rntFgUtb) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [KIWANUKA](https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ) | 4:09 | 2021-07-11 | 2024-04-21 |
+| [You and I](https://open.spotify.com/track/3iVLIQ2ClqhIRTovJmGD5N) | [Karmacoda](https://open.spotify.com/artist/4X45nKUBNLpHB92NUo3TQE) | [You And I](https://open.spotify.com/album/6vTdjz4RfvsQLeVxz4wkfD) | 4:06 | 2024-07-30 |  |
 | [YOU AND ME](https://open.spotify.com/track/7M3aUBCjzYesKw48OpodZp) | [BIG STEPPA DREW](https://open.spotify.com/artist/31MG765lNhM0TvM5xVR4qp) | [YOU AND ME](https://open.spotify.com/album/4Uw4tNp4dHkOamBlOgZmlZ) | 3:00 | 2023-07-31 | 2023-08-20 |
 | [You and Me](https://open.spotify.com/track/2lXZW8tjjKA7aXZpu38UNU) | [Rick Lee Vinson Group](https://open.spotify.com/artist/3ud8WUBCxWNSmXLqT1YJyq) | [You and Me](https://open.spotify.com/album/6MiWE62h0AIX5Y5ZSQD2NQ) | 3:05 | 2022-12-30 | 2023-01-21 |
 | [You Are](https://open.spotify.com/track/6eMHZ5sZ649EZ8fDzdlEJZ) | [Fare](https://open.spotify.com/artist/1zg4OV4mAjexgjWEtBAd72) | [You Don't Get Me / You Are](https://open.spotify.com/album/4Qs4oBcpnfkq7lJMqPmngh) | 3:33 | 2019-09-29\* | 2019-10-09 |

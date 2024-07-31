@@ -1,6 +1,6 @@
 {
   "description": "Father of the symphony and string quartet, and teacher to both Mozart and Beethoven. This is Haydn.",
-  "num_followers": 77369,
+  "num_followers": 77381,
   "original_name": "This Is Haydn",
   "owner": {
     "name": "Spotify",
@@ -199,30 +199,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Haydn: Symphony Nos. 104 & 94 'Surprise'",
-        "url": "https://open.spotify.com/album/5KyxVX4Mf8TPcuEGul3QUs"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Oliver von Dohnanyi",
-          "url": "https://open.spotify.com/artist/4iQfrN4XKLUrtRfTUX54ne"
-        },
-        {
-          "name": "Slovak Philharmonic",
-          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
-        }
-      ],
-      "duration_ms": 355413,
-      "name": "Symphony No. 94 in G Major \"Surprise\": II. Andante",
-      "url": "https://open.spotify.com/track/3IehhHgOoLAK6h9nJz0vZ6"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Haydn: Piano Trios Nos. 39 \"Gypsy\" & 43-45",
         "url": "https://open.spotify.com/album/4LSxh7ez4cnOH6uFXqAH5q"
       },
@@ -239,26 +215,6 @@
       "duration_ms": 356733,
       "name": "Piano Trio No. 39 in G Major, Hob. XV: 25 'Gypsy\": I. Andante",
       "url": "https://open.spotify.com/track/1d0mVkzYmxp822pjE2JVrM"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Haydn: Complete Piano Trios, Vol. 1 - Fischer: one bar wonder",
-        "url": "https://open.spotify.com/album/4lA4fApKQ011SDnbe6RaGi"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Trio Gaspard",
-          "url": "https://open.spotify.com/artist/0uq8O8713svA6zUJC982Vs"
-        }
-      ],
-      "duration_ms": 206480,
-      "name": "Trio No. 40, Op. 73 No. 3 (Hob. XV: 26): Trio No. 40, Op. 73 No. 3 (Hob. XV: 26): II. Adagio",
-      "url": "https://open.spotify.com/track/5E1yYKKZIyVlsVpxyUH6EC"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -283,6 +239,50 @@
       "duration_ms": 479681,
       "name": "Symphony No. 92 in G Major, Hob. 1:92 \"Oxford Symphony\": I. Adagio - Allegro spiritoso",
       "url": "https://open.spotify.com/track/6su8WsxgKHN7wm93zIZQ7q"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Haydn: Complete Piano Trios, Vol. 1 - Fischer: one bar wonder",
+        "url": "https://open.spotify.com/album/4lA4fApKQ011SDnbe6RaGi"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Trio Gaspard",
+          "url": "https://open.spotify.com/artist/0uq8O8713svA6zUJC982Vs"
+        }
+      ],
+      "duration_ms": 206480,
+      "name": "Trio No. 40, Op. 73 No. 3 (Hob. XV: 26): Trio No. 40, Op. 73 No. 3 (Hob. XV: 26): II. Adagio",
+      "url": "https://open.spotify.com/track/5E1yYKKZIyVlsVpxyUH6EC"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Haydn: Symphony Nos. 104 & 94 'Surprise'",
+        "url": "https://open.spotify.com/album/5KyxVX4Mf8TPcuEGul3QUs"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Oliver von Dohnanyi",
+          "url": "https://open.spotify.com/artist/4iQfrN4XKLUrtRfTUX54ne"
+        },
+        {
+          "name": "Slovak Philharmonic",
+          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
+        }
+      ],
+      "duration_ms": 355413,
+      "name": "Symphony No. 94 in G Major \"Surprise\": II. Andante",
+      "url": "https://open.spotify.com/track/3IehhHgOoLAK6h9nJz0vZ6"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -387,6 +387,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Haydn: Die sieben letzten Worte unseres Erl\u00f6sers am Kreuze (The Seven Last Words of Christ on the Cross)",
+        "url": "https://open.spotify.com/album/7fcEmjjIqDpDdBhlvMFEWW"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Cuarteto Casals",
+          "url": "https://open.spotify.com/artist/1FUwvrAST5IPF5fxqMz7vS"
+        }
+      ],
+      "duration_ms": 501533,
+      "name": "The Seven Last Words of Christ, Hob.XX:2: Sonata II \"F\u00fcrwahr, ich sag' es dir\" (Grave e cantabile)",
+      "url": "https://open.spotify.com/track/0b5ErGJr4brN0Es73O2BS3"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Haydn: Symphonies Nos. 92, 93, & 97-99",
         "url": "https://open.spotify.com/album/6MW6687ZuwLgLwbOJ9U5j3"
       },
@@ -407,26 +427,6 @@
       "duration_ms": 448503,
       "name": "Symphony No. 92 in G Major, Hob. 1:92 \"Oxford Symphony\": II. Adagio cantabile",
       "url": "https://open.spotify.com/track/1oStfg4y3wqWl7FK0SQ7yr"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Haydn: Die sieben letzten Worte unseres Erl\u00f6sers am Kreuze (The Seven Last Words of Christ on the Cross)",
-        "url": "https://open.spotify.com/album/7fcEmjjIqDpDdBhlvMFEWW"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Cuarteto Casals",
-          "url": "https://open.spotify.com/artist/1FUwvrAST5IPF5fxqMz7vS"
-        }
-      ],
-      "duration_ms": 501533,
-      "name": "The Seven Last Words of Christ, Hob.XX:2: Sonata II \"F\u00fcrwahr, ich sag' es dir\" (Grave e cantabile)",
-      "url": "https://open.spotify.com/track/0b5ErGJr4brN0Es73O2BS3"
     },
     {
       "added_at": "2022-07-29 04:01:00",

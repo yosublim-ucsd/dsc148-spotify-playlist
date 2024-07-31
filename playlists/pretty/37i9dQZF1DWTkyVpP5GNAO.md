@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > A Dios sea toda la gloria y alabanza\. Foto: <a href="spotify:artist:2miffAnnUvKSyB9ykA2su9">Living</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,326 likes - 65 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,441 likes - 65 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

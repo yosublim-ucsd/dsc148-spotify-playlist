@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Fuer\-za Regida! Puras rolitas frescas para comenzar el finde con el pie derecho, ¡Pero no te enamores! 😮‍💨🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,147 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,323 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 10 | [La Glocksita](https://open.spotify.com/track/2i46vPYKwHqAQnflk843DF) | [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S) | [La Glocksita](https://open.spotify.com/album/07nMGZR9rAYM4wWFSlOHNf) | 2:33 |
 | 11 | [Puñetas Mentales](https://open.spotify.com/track/40nYf67uhqRpDnd16YtwIy) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Puñetas Mentales](https://open.spotify.com/album/1oH11RKBdgdcieYOq8JzgN) | 2:18 |
 | 12 | [Desvelado](https://open.spotify.com/track/01cHKRDp6YvBnOWbM796Zp) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Desvelado](https://open.spotify.com/album/5if43lQ81T2ZnwzcMD3By0) | 3:42 |
-| 13 | [Modo Avión](https://open.spotify.com/track/1ryYSuGQPSdXMVHV14oXgY) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Modo Avión](https://open.spotify.com/album/5DtCz9uK1UUeNjpjmixtZo) | 2:55 |
+| 13 | [Modo Avión](https://open.spotify.com/track/1ryYSuGQPSdXMVHV14oXgY) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Modo Avión](https://open.spotify.com/album/5DtCz9uK1UUeNjpjmixtZo) | 2:57 |
 | 14 | [El Jefe F](https://open.spotify.com/track/4eGikg72FZdoSXj9k0Zd64) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Y Lo Que Falta](https://open.spotify.com/album/7EQkzeNShMds3OuAn8VKRE) | 3:29 |
 | 15 | [Marbella](https://open.spotify.com/track/3YNf8wa1hHcwmJQeMrrrBX) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Marbella](https://open.spotify.com/album/103oYDFlPuP4UuYFeHxQbX) | 2:50 |
 | 16 | [Hot Honey](https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Hot Honey](https://open.spotify.com/album/2OB4KiVHmAuD7CGpMmiqC5) | 2:47 |

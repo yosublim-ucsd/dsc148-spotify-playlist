@@ -240,7 +240,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 219533,
       "name": "BANG!!!",
       "url": "https://open.spotify.com/track/0GbTk360zzHOkQqyS6hvUz"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 178938,
       "name": "BATMAN",
       "url": "https://open.spotify.com/track/2mjmpNRKFWlPXiN3KCfK8t"
@@ -1559,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/2yF7hXYwvJiV27KWSUUcMl"
+      },
+      "artists": [
+        {
+          "name": "Are Square",
+          "url": "https://open.spotify.com/artist/57YbNDKxQBIRzIjsLSfhCY"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228700,
+      "name": "GLORY",
+      "url": "https://open.spotify.com/track/2ElIOMmJFVGE2l4rZsRjsy"
+    },
+    {
+      "album": {
         "name": "God Speed (feat. WARGASM (UK))",
         "url": "https://open.spotify.com/album/0mu1GjpR57D8aStHJyyboQ"
       },
@@ -2795,6 +2813,24 @@
     },
     {
       "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/2CpgOP94gBLcx93uqJnJGU"
+      },
+      "artists": [
+        {
+          "name": "Sable Hills",
+          "url": "https://open.spotify.com/artist/5mm28xbkq6ve1l63dXo7Cn"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159230,
+      "name": "Misfortune",
+      "url": "https://open.spotify.com/track/1cBYQGzX0JKMS4KhbM10s4"
+    },
+    {
+      "album": {
         "name": "ANTITHESE",
         "url": "https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK"
       },
@@ -3506,6 +3542,28 @@
       "duration_ms": 216428,
       "name": "RATATATA",
       "url": "https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml"
+    },
+    {
+      "album": {
+        "name": "Liberation",
+        "url": "https://open.spotify.com/album/3zUB4c3GjjuXIJ7cZUKEyH"
+      },
+      "artists": [
+        {
+          "name": "JUBEE",
+          "url": "https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba"
+        },
+        {
+          "name": "TAKESHI UEDA",
+          "url": "https://open.spotify.com/artist/3KRIWusy94atZg8vRiudX1"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191174,
+      "name": "Re-create",
+      "url": "https://open.spotify.com/track/12AbMuvF8W54iKkfarNIcV"
     },
     {
       "album": {
@@ -4604,7 +4662,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 173279,
       "name": "These Magic Words",
       "url": "https://open.spotify.com/track/4RgwEZ392WaZCYOKOq3ALC"
@@ -4688,6 +4746,24 @@
       "duration_ms": 216000,
       "name": "TRAINWRECK",
       "url": "https://open.spotify.com/track/6M9JP2dPz86JPyXeSIyOoh"
+    },
+    {
+      "album": {
+        "name": "Trrrrrrrrrrrrrrrrrrrue Lies",
+        "url": "https://open.spotify.com/album/5MHdG9qpN0sAcNByz8CdEF"
+      },
+      "artists": [
+        {
+          "name": "Ling tosite sigure",
+          "url": "https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233393,
+      "name": "Trrrrrrrrrrrrrrrrrrrue Lies",
+      "url": "https://open.spotify.com/track/7cYeQLqaEOENOG7liSwfay"
     },
     {
       "album": {
@@ -5614,7 +5690,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 240550,
       "name": "\u30e6\u30a8\u30cb",
       "url": "https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET"

@@ -1,6 +1,6 @@
 {
   "description": "The perfect mixtape for an anime fight scene. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.",
-  "num_followers": 1130646,
+  "num_followers": 1131191,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Riders",
-        "url": "https://open.spotify.com/album/4wYMrn6j9KBrYtek968NoK"
-      },
-      "artists": [
-        {
-          "name": "onimanxd",
-          "url": "https://open.spotify.com/artist/6LsSeFRnEOLIJHCpIhlP9b"
-        }
-      ],
-      "duration_ms": 107620,
-      "name": "Riders",
-      "url": "https://open.spotify.com/track/6wk8RkIpZ6mbQigwKPr1oW"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "50k",
         "url": "https://open.spotify.com/album/3fW5MHf8i7zGW8HpwQsnVe"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 129229,
       "name": "50k",
       "url": "https://open.spotify.com/track/0xbReDSQvm20f1PKsos4bh"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Riders",
+        "url": "https://open.spotify.com/album/4wYMrn6j9KBrYtek968NoK"
+      },
+      "artists": [
+        {
+          "name": "onimanxd",
+          "url": "https://open.spotify.com/artist/6LsSeFRnEOLIJHCpIhlP9b"
+        }
+      ],
+      "duration_ms": 107620,
+      "name": "Riders",
+      "url": "https://open.spotify.com/track/6wk8RkIpZ6mbQigwKPr1oW"
     },
     {
       "added_at": "2024-06-11 20:16:14",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "7AM",
-        "url": "https://open.spotify.com/album/6Mf15O3wMv52ySP3aSTre1"
-      },
-      "artists": [
-        {
-          "name": "Adrian",
-          "url": "https://open.spotify.com/artist/5uK6fW2LmljRHZEmHKv9tA"
-        }
-      ],
-      "duration_ms": 145950,
-      "name": "7AM",
-      "url": "https://open.spotify.com/track/3HoSi38l1e6E1K1lHWUCeV"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "V-12",
         "url": "https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 140460,
       "name": "V-12",
       "url": "https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "7AM",
+        "url": "https://open.spotify.com/album/6Mf15O3wMv52ySP3aSTre1"
+      },
+      "artists": [
+        {
+          "name": "Adrian",
+          "url": "https://open.spotify.com/artist/5uK6fW2LmljRHZEmHKv9tA"
+        }
+      ],
+      "duration_ms": 145950,
+      "name": "7AM",
+      "url": "https://open.spotify.com/track/3HoSi38l1e6E1K1lHWUCeV"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Dalai Lama",
-        "url": "https://open.spotify.com/album/78gNxj2hj39is15hwP82IC"
-      },
-      "artists": [
-        {
-          "name": "Shotgun Willy",
-          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
-        }
-      ],
-      "duration_ms": 135433,
-      "name": "Dalai Lama",
-      "url": "https://open.spotify.com/track/3OXPEU3MLoJTWQmozs4IVc"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "RUN UP!",
         "url": "https://open.spotify.com/album/6MoWt5Hvt4tdkrer9dppB5"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 139005,
       "name": "RUN UP!",
       "url": "https://open.spotify.com/track/7oDUCu36rMex65tc03C8er"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Dalai Lama",
+        "url": "https://open.spotify.com/album/78gNxj2hj39is15hwP82IC"
+      },
+      "artists": [
+        {
+          "name": "Shotgun Willy",
+          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
+        }
+      ],
+      "duration_ms": 135433,
+      "name": "Dalai Lama",
+      "url": "https://open.spotify.com/track/3OXPEU3MLoJTWQmozs4IVc"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1335,18 +1335,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "BLACKED OUT",
-        "url": "https://open.spotify.com/album/6NNH2nFEZqwaHWONf8qTvJ"
+        "name": "Heart Attack",
+        "url": "https://open.spotify.com/album/45zTQIoXr2QXHDM9DFgs9L"
       },
       "artists": [
         {
-          "name": "777villain",
-          "url": "https://open.spotify.com/artist/1W1JrFrwTTyv081hWOQJa7"
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        },
+        {
+          "name": "Musicality",
+          "url": "https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3"
         }
       ],
-      "duration_ms": 133392,
-      "name": "BLACKED OUT",
-      "url": "https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6"
+      "duration_ms": 98344,
+      "name": "Heart Attack",
+      "url": "https://open.spotify.com/track/3nSEvbi2v1z1QATbznIvTT"
     }
   ],
   "unique_name": "sh\u014dnen",

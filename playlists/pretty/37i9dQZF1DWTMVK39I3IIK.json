@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste nye knive i dansk musik! <a href=\"spotify:artist:6J9AFauvtJJ8brNaiWwWat\">Sira Jovina</a> p\u00e5 forsiden\ud83d\udd2a",
-  "num_followers": 23316,
+  "num_followers": 23317,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "Maler",
+        "url": "https://open.spotify.com/album/4oE9RcZnqrhAxkYIrzmffP"
+      },
+      "artists": [
+        {
+          "name": "BONF\u00cd",
+          "url": "https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia"
+        }
+      ],
+      "duration_ms": 151395,
+      "name": "Maler",
+      "url": "https://open.spotify.com/track/2klZrdYgQZqwIqX1aMzBKZ"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "Berlin (feat. Marcus.wav)",
         "url": "https://open.spotify.com/album/3UoNkriZF8Mtot3EcPU7cL"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 172079,
       "name": "Berlin (feat. Marcus.wav)",
       "url": "https://open.spotify.com/track/79pkpQo5RSxW8QKzktg7Su"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Maler",
-        "url": "https://open.spotify.com/album/4oE9RcZnqrhAxkYIrzmffP"
-      },
-      "artists": [
-        {
-          "name": "BONF\u00cd",
-          "url": "https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia"
-        }
-      ],
-      "duration_ms": 151395,
-      "name": "Maler",
-      "url": "https://open.spotify.com/track/2klZrdYgQZqwIqX1aMzBKZ"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "SHE-REX",
-        "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
-      },
-      "artists": [
-        {
-          "name": "eee gee",
-          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
-        }
-      ],
-      "duration_ms": 232465,
-      "name": "promise to pick up the phone",
-      "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "ENGLE & BLAA MAERKER",
         "url": "https://open.spotify.com/album/5uhCZB1SB8Lo0wsNylID2x"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 174017,
       "name": "oslo til k\u00f8benhavn",
       "url": "https://open.spotify.com/track/4FFE1XM8TPBwG0C6kUkBdg"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "SHE-REX",
+        "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
+      },
+      "artists": [
+        {
+          "name": "eee gee",
+          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
+        }
+      ],
+      "duration_ms": 232465,
+      "name": "promise to pick up the phone",
+      "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Formskifter",
-        "url": "https://open.spotify.com/album/2v4FKfFPRtDVc2hjuysIxl"
-      },
-      "artists": [
-        {
-          "name": "Joyce",
-          "url": "https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow"
-        }
-      ],
-      "duration_ms": 195833,
-      "name": "Formskifter",
-      "url": "https://open.spotify.com/track/6JjLdYF4tnAR6tJt9bypOu"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "7\"",
         "url": "https://open.spotify.com/album/339UrGqZIVQUud5XLmUNz1"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 171000,
       "name": "AUTOSTRADA",
       "url": "https://open.spotify.com/track/0USF4aKnHq5vhyv2EY6Ts7"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Formskifter",
+        "url": "https://open.spotify.com/album/2v4FKfFPRtDVc2hjuysIxl"
+      },
+      "artists": [
+        {
+          "name": "Joyce",
+          "url": "https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow"
+        }
+      ],
+      "duration_ms": 195833,
+      "name": "Formskifter",
+      "url": "https://open.spotify.com/track/6JjLdYF4tnAR6tJt9bypOu"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Amager Forbr\u00e6nding",
-        "url": "https://open.spotify.com/album/4Bkf4gR14UujSaNy6WlX8H"
-      },
-      "artists": [
-        {
-          "name": "Carl Emil Petersen",
-          "url": "https://open.spotify.com/artist/110Rr0Zj9wSL6vOlh9DEyW"
-        }
-      ],
-      "duration_ms": 184075,
-      "name": "Levende Billeder",
-      "url": "https://open.spotify.com/track/586R54PZL7ylXFu9UIiPTx"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Ny Og N\u00e6",
         "url": "https://open.spotify.com/album/10LVG1XLuoTivi3WYvPqkD"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 191437,
       "name": "Ny Og N\u00e6",
       "url": "https://open.spotify.com/track/3Qrb34pY41bEv1UaFy9li9"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Amager Forbr\u00e6nding",
+        "url": "https://open.spotify.com/album/4Bkf4gR14UujSaNy6WlX8H"
+      },
+      "artists": [
+        {
+          "name": "Carl Emil Petersen",
+          "url": "https://open.spotify.com/artist/110Rr0Zj9wSL6vOlh9DEyW"
+        }
+      ],
+      "duration_ms": 184075,
+      "name": "Levende Billeder",
+      "url": "https://open.spotify.com/track/586R54PZL7ylXFu9UIiPTx"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "GENSTART",
-        "url": "https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11"
+        "name": "Noget For Nogen",
+        "url": "https://open.spotify.com/album/4cTBw8cEyxgshlZz5SO447"
       },
       "artists": [
         {
-          "name": "PATINA",
-          "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
+          "name": "Pauline",
+          "url": "https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl"
         }
       ],
-      "duration_ms": 280244,
-      "name": "Genstart",
-      "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
+      "duration_ms": 204000,
+      "name": "Noget For Nogen",
+      "url": "https://open.spotify.com/track/6nzQ4R4i3g70M0ZKo8qaiT"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "GENSTART",
+        "url": "https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11"
+      },
+      "artists": [
+        {
+          "name": "PATINA",
+          "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
+        }
+      ],
+      "duration_ms": 280244,
+      "name": "Genstart",
+      "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "Piratradio",
         "url": "https://open.spotify.com/album/355gSMNGokAKgdynsIfQ43"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 168750,
       "name": "Kemisk",
       "url": "https://open.spotify.com/track/2BKwxqYyt1R8FwNS87BpCt"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Bedre",
-        "url": "https://open.spotify.com/album/0zsJJ0AfLC7ZBePfhHK88h"
-      },
-      "artists": [
-        {
-          "name": "Bette",
-          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
-        }
-      ],
-      "duration_ms": 170727,
-      "name": "Bedre",
-      "url": "https://open.spotify.com/track/5Ql2mALNZqpOGjIniaI5sY"
     }
   ],
   "unique_name": "ung kniv ",

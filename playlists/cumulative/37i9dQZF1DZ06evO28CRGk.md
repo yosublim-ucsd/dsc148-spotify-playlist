@@ -2,7 +2,7 @@
 
 ### [This Is Marco Polo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO28CRGk)
 
-> This is Marco Polo\. The essential tracks, all in one playlist.
+> This Is Marco Polo\. Los temas esenciales, todos en una lista.
 
 89 songs - 4 hr 50 min
 
@@ -41,7 +41,7 @@
 | [Hero](https://open.spotify.com/track/2Ffk1ykh4yfruyAtmv3l12) | [Masta Ace & Marco Polo](https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA), [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO) | [Richmond Hill](https://open.spotify.com/album/4LBpILPiB0gp6GTdTVeF3V) | 2:48 | 2024-01-27 |  |
 | [Hold Up](https://open.spotify.com/track/31OZegULDzG3uE33Nl8iSw) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Torae](https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0), [Sean Price](https://open.spotify.com/artist/2x6jz70u3sZq75tW10akUW), [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv) | [Double Barrel](https://open.spotify.com/album/7uXm1HHw3rQZMCoGQadLSY) | 3:07 | 2023-12-13 |  |
 | [Hood Tales](https://open.spotify.com/track/1DxkvpBgOKQpVYpNIajrvl) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Port Authority: Instrumentals](https://open.spotify.com/album/1lcRcpO52ZmsfWhtn6USOx) | 4:00 | 2024-02-14 | 2024-02-25 |
-| [Hołd Bloków Absolwentom](https://open.spotify.com/track/7uo7SvFn7zQNA5hU7c1Cf8) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Kartagina](https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz) | 3:26 | 2024-07-11 |  |
+| [Hołd Bloków Absolwentom](https://open.spotify.com/track/7uo7SvFn7zQNA5hU7c1Cf8) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Kartagina](https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz) | 3:26 | 2024-07-11 | 2024-07-31 |
 | [Intro](https://open.spotify.com/track/5RLiRsg9rbAp8vnYXidCIV) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [O.C.](https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q) | [Port Authority](https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc) | 1:23 | 2023-12-13 | 2024-05-19 |
 | [Jordan Theory](https://open.spotify.com/track/3LPIzQNQtqXMvPKJUlyuwJ) | [Masta Ace & Marco Polo](https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA), [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Richmond Hill](https://open.spotify.com/album/4LBpILPiB0gp6GTdTVeF3V) | 3:01 | 2024-02-13 | 2024-03-04 |
 | [Kings](https://open.spotify.com/track/6b8ftCJXOdx922FW2KKOSB) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Masta Ace & Marco Polo](https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA) | [A Breukelen Story \(Deluxe Edition\)](https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw) | 3:08 | 2023-12-13 |  |
@@ -96,6 +96,6 @@
 | [Wish They Could Be](https://open.spotify.com/track/35EsLVJuOpVUAzfXXFmUXY) | [Young Cord](https://open.spotify.com/artist/4GsLwjyt4SV4Tvle1zTtdU), [Young Boss](https://open.spotify.com/artist/4S9JHkwPHHcx0H7AVNHspz), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Da Connect](https://open.spotify.com/album/0EdTUAAnThfFVBkZ4Y79G3) | 3:34 | 2024-04-04 | 2024-04-07 |
 | [Wrong One](https://open.spotify.com/track/40H22sFbazRwISu76U1qh0) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Wordsworth](https://open.spotify.com/artist/6de0XwbJtLyirUZUqte7aD) | [Port Authority](https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc) | 3:41 | 2023-12-13 | 2024-07-07 |
 | [You & I](https://open.spotify.com/track/0hHZgJRrnN2ysNf4LqN8G3) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Masta Ace & Marco Polo](https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA) | [A Breukelen Story \(Deluxe Edition\)](https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw) | 3:10 | 2023-12-13 |  |
-| [Żywy lub Martwy](https://open.spotify.com/track/6Iyj5JsEk9agqb2J8XSQqB) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Kartagina](https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz) | 3:59 | 2024-07-23 | 2024-07-29 |
+| [Żywy lub Martwy](https://open.spotify.com/track/6Iyj5JsEk9agqb2J8XSQqB) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Kartagina](https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz) | 3:59 | 2024-07-23 |  |
 
 \*This playlist was first scraped on 2023-12-14. Prior content cannot be recovered.

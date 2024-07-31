@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,780 songs - 1 day 12 hr 45 min
+1,782 songs - 1 day 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [Comforted Arr\. For Cello](https://open.spotify.com/track/0DW08jiApegOvpvkK5pvpo) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Comforted Arr\. For Cello](https://open.spotify.com/album/7ADQVaUOlYB3nkXEN6IJci) | 1:00 | 2023-10-21 |  |
 | [Comforting Lights](https://open.spotify.com/track/19qqaA15zXllWhxSIE8if6) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Mountain Light](https://open.spotify.com/album/1PSqu4HWNBqTxWtKYbcQOU) | 1:03 | 2022-01-27 |  |
 | [Coming To Life](https://open.spotify.com/track/3Yz90SD2sV5kZG74GS8Yo6) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Memory](https://open.spotify.com/album/7kE0OegnxT0EQeo3gRCEeK) | 1:17 | 2022-01-12 |  |
+| [Connection](https://open.spotify.com/track/2RP93uPtPEcOTLLltaVvJS) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Connection](https://open.spotify.com/album/6wxCyPlB5QcvBXLrkkq3EC) | 1:00 | 2024-07-30 |  |
 | [Connections](https://open.spotify.com/track/2mXj5DpuJJcoJ1DdJtIAo1) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Cello Moods](https://open.spotify.com/album/66eiIKbumufa9makcayfER) | 1:16 | 2022-01-12 |  |
 | [Constant Reminders](https://open.spotify.com/track/1DotoqFrrnUXTPsBqDjcli) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Journeys](https://open.spotify.com/album/1e5hDdHVnh9RKGu4akLgZE) | 1:41 | 2022-01-12 |  |
 | [Contemplate](https://open.spotify.com/track/3QObWJzUMxqOkTJeBYiIEk) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Overcome](https://open.spotify.com/album/2P1dLjwu0Pwq46QZFOiwMX) | 1:02 | 2022-04-29 |  |
@@ -753,6 +754,7 @@
 | [Hidden Paths](https://open.spotify.com/track/19W5bY6RJ58W0jYB1lUQqB) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Hidden Paths](https://open.spotify.com/album/1JyS8znPyVx640PYnv6zFR) | 1:01 | 2022-11-01 |  |
 | [Hiking](https://open.spotify.com/track/0eC7fbmLCsIYIwch3Sf6mn) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Bloom](https://open.spotify.com/album/6nVYM30CCCe5AAbIrXkXC5) | 1:29 | 2022-01-12 |  |
 | [Hills](https://open.spotify.com/track/581w1jXNwXJMFL69w9Ksid) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 | 2024-01-30 |
+| [Hills](https://open.spotify.com/track/6mJiHWwkMkj5YJ7UFyeCPQ) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Hills](https://open.spotify.com/album/2nBQTD4MMw5NAnXZOX4GmU) | 1:00 | 2024-07-30 |  |
 | [Hold My Hand](https://open.spotify.com/track/3Cq8ZoVxpOAbz7jz8tfWgN) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Soft Strings](https://open.spotify.com/album/633Q4gSm8Mc205tuBQ84Vz) | 1:29 | 2022-01-12 |  |
 | [Home](https://open.spotify.com/track/24j1BbJXzzmazQOFHmsjut) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Dreaming](https://open.spotify.com/album/3nPCZ7PFvfpRyuSFUq026c) | 1:19 | 2022-01-12 |  |
 | [Home In The Distance](https://open.spotify.com/track/0uBDF9UCh6MFvrhEn8bJtH) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Soaring](https://open.spotify.com/album/0M1455WqEoRjvehxgXmICI) | 1:04 | 2022-03-03 |  |

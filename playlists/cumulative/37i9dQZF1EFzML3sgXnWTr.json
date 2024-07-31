@@ -1023,6 +1023,24 @@
     },
     {
       "album": {
+        "name": "RANDAGI",
+        "url": "https://open.spotify.com/album/5oRlxAHKgPHEO5cwSOk8U3"
+      },
+      "artists": [
+        {
+          "name": "Holden",
+          "url": "https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197343,
+      "name": "RANDAGI",
+      "url": "https://open.spotify.com/track/0UFNkuBGeda7Rx2JTidBcu"
+    },
+    {
+      "album": {
         "name": "NoRd",
         "url": "https://open.spotify.com/album/1F0O90sZiD6E1iKVizRn2s"
       },

@@ -2,7 +2,7 @@
 
 ### [This Is Codiciado](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0meNX2)
 
-> This is Codiciado\. The essential tracks, all in one playlist.
+> This is Codiciado\. Tutti i brani in un'unica playlist.
 
 33 songs - 1 hr 52 min
 

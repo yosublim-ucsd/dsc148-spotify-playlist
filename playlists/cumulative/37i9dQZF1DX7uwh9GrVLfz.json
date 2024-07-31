@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: \u30e4\u30f3\u30b0\u30b9\u30ad\u30cb\u30fc",
+  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: PK shampoo",
   "name": "Punk Japan",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 192453,
       "name": "\"Let it die -Subete wa isutori game-\" (Let it die -All is musical chairs-)",
       "url": "https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi"
@@ -8565,6 +8565,28 @@
     },
     {
       "album": {
+        "name": "Straight Up",
+        "url": "https://open.spotify.com/album/4pIsjjQsa4krzRpcI2sds5"
+      },
+      "artists": [
+        {
+          "name": "The BONEZ",
+          "url": "https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ"
+        },
+        {
+          "name": "Kj",
+          "url": "https://open.spotify.com/artist/2dSWXwLgHi3PrwT9l1CKDq"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252300,
+      "name": "Straight Up",
+      "url": "https://open.spotify.com/track/01yS4eW9jeCPXJgz6I7DxJ"
+    },
+    {
+      "album": {
         "name": "Smoke!!",
         "url": "https://open.spotify.com/album/7vFJI5E9v7jFfxhCCXsIX2"
       },
@@ -9178,7 +9200,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 162322,
       "name": "TOKYO ASH",
       "url": "https://open.spotify.com/track/5nBE5YTtvIWxQYvTOG76Wz"
@@ -10768,6 +10790,24 @@
       "duration_ms": 209966,
       "name": "\u306a\u3089\u306f\u3099\u9752\u6625\u3088",
       "url": "https://open.spotify.com/track/25OeqQAsSTAb3CAmz03Cml"
+    },
+    {
+      "album": {
+        "name": "\u8f1d\u304f\u3082\u306e\u5929\u3088\u308a\u5815\u3061",
+        "url": "https://open.spotify.com/album/77Ll0Q93NYrFRA6lsF5UpK"
+      },
+      "artists": [
+        {
+          "name": "PK shampoo",
+          "url": "https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144653,
+      "name": "\u3072\u3068\u3064\u306e\u66f2\u304c\u3067\u304d\u308b\u307e\u3067",
+      "url": "https://open.spotify.com/track/5WzC0LHb2Ebb6Jz0v56D8y"
     },
     {
       "album": {
@@ -12673,6 +12713,24 @@
     },
     {
       "album": {
+        "name": "\u5929\u4f7f\u306b\u306a\u308b\u304b\u3082\u3057\u308c\u306a\u3044",
+        "url": "https://open.spotify.com/album/7IpuaGkwY82D6R0uQgZAJo"
+      },
+      "artists": [
+        {
+          "name": "PK shampoo",
+          "url": "https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172053,
+      "name": "\u5929\u4f7f\u306b\u306a\u308b\u304b\u3082\u3057\u308c\u306a\u3044",
+      "url": "https://open.spotify.com/track/4i8VGvlJnZJrw7y5TBfMoT"
+    },
+    {
+      "album": {
         "name": "25 -A Tribute To Dragon Ash-(Another Edition)",
         "url": "https://open.spotify.com/album/4dyz7fp74JIqn8UzSkbeDd"
       },
@@ -14172,7 +14230,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 215744,
       "name": "\u97f3\u697d\u6e96\u5099\u5ba4",
       "url": "https://open.spotify.com/track/1q4dR0mGkAR90ete8WcEBL"

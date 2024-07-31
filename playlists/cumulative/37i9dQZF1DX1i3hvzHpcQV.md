@@ -2,7 +2,7 @@
 
 ### [Hot Hits Tamil](https://open.spotify.com/playlist/37i9dQZF1DX1i3hvzHpcQV)
 
-> Tune into the Hottest tracks of Kollywood!<br/>Cover : Aranmanai 4
+> Tune into the Hottest tracks of Kollywood!<br/>Cover : Raayan
 
 127 songs - 7 hr 36 min
 

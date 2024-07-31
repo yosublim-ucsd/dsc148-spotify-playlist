@@ -1,13 +1,29 @@
 {
-  "description": "Future K-Pop hits! Cover: NATTY and JULIE of KISS OF LIFE and Mark Tuan for VALORANT",
-  "num_followers": 811130,
+  "description": "Future K-Pop hits! Cover: JINJIN (ASTRO)",
+  "num_followers": 811187,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqDDrwAAAADAef4BgUUNx+CrDqOfMtHi",
+  "snapshot_id": "Zqi4eQAAAAAcff1JxMVUeIo4gTAq5Cg2",
   "tracks": [
+    {
+      "added_at": "2024-07-30 09:55:05",
+      "album": {
+        "name": "JIN LAB Project 4. [You]",
+        "url": "https://open.spotify.com/album/4dvlOLOSqR0oOW1bNtXZDb"
+      },
+      "artists": [
+        {
+          "name": "JINJIN (ASTRO)",
+          "url": "https://open.spotify.com/artist/3U8ZnKIeY7sgQkIHjQDlHA"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6MfWIdV9e9vu3V34L225B5"
+    },
     {
       "added_at": "2024-07-24 09:04:47",
       "album": {

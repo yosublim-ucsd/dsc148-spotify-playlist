@@ -4,7 +4,7 @@
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Gerson King Combo
 
-95 songs - 5 hr 39 min
+96 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Infinito](https://open.spotify.com/track/2J9Vz0qnw1OLt9U5nWhIIJ) | [Walmir Borges](https://open.spotify.com/artist/2175yP2byBY4mFDJnP1IKc) | [Sala da Música](https://open.spotify.com/album/7FeM0KsDLpSCo7HkbusAMx) | 3:42 | 2024-03-29 |  |
 | [Infinito](https://open.spotify.com/track/1kXcJBehzmagpKbpFdmeq5) | [Walmir Borges](https://open.spotify.com/artist/2175yP2byBY4mFDJnP1IKc) | [SalaDaMúsica](https://open.spotify.com/album/2Ij2a2St7zTz20KCNJoPOC) | 3:46 | 2023-12-08 | 2024-04-19 |
 | [Lady](https://open.spotify.com/track/6ltJBSMYhUCqRy0o7Sahvo) | [Jet Samba Black](https://open.spotify.com/artist/4CX370BwomD0OZVgmcPF63) | [Lady](https://open.spotify.com/album/1uH2xSpfp4GbXr0Smdr9LZ) | 3:18 | 2023-12-08 |  |
+| [Life Is What It Is](https://open.spotify.com/track/5qvmlbDzsS4bxFLE4zv1kD) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Life Is What It Is](https://open.spotify.com/album/56NxOtId0RSFVyW0fbDm3F) | 5:31 | 2024-07-30 |  |
 | [Luzes e Flashes](https://open.spotify.com/track/3KdtQeQ70qqCijTLlpbiBv) | [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed) | [Luzes e Flashes](https://open.spotify.com/album/06NOcxlBI6V5SkuRdQGItH) | 3:31 | 2023-12-08 |  |
 | [Madrugada Maldita](https://open.spotify.com/track/7llKQILmoH3Dsch8WFFoci) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Pedro Senna](https://open.spotify.com/artist/1VpBywbGRTON81xOXCreOu), [Ugo Ludovico](https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ) | [Madrugada Maldita](https://open.spotify.com/album/3fJrMuzxrJXTixxHxNupw1) | 3:57 | 2023-12-08 |  |
 | [Mais Um Voo](https://open.spotify.com/track/39uMV1Ix79vlMNssVxACuU) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Mais Um Voo](https://open.spotify.com/album/27ZKtXmfYS7OXGb1aKoI7U) | 3:14 | 2023-12-08 |  |
@@ -99,7 +100,7 @@
 | [Tanto Faz](https://open.spotify.com/track/4p1Xa19ZjMsJrQ7FcPgHoN) | [Miguel Veleda](https://open.spotify.com/artist/1KtARhr94LMpQvfO8IrY73) | [Tanto Faz](https://open.spotify.com/album/0hDHf8jeylbdNJ1fwqUH3h) | 3:25 | 2023-12-08 |  |
 | [Te Queria](https://open.spotify.com/track/6yTuKiHV6VjroS2PY7CZi4) | [Zeca Do Trombone](https://open.spotify.com/artist/1tqfGIpfy4hVG7TI5I19sx) | [Rota\-Mar](https://open.spotify.com/album/1B6ODhLoto26LTzsZQJgEx) | 2:49 | 2023-12-08 |  |
 | [Tomorrow](https://open.spotify.com/track/7rccgTxP2qi2wGRI0hLCUN) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv), [Cassiano](https://open.spotify.com/artist/23E2hrdvZnKUYpNZRIxhjx) | [Movimento](https://open.spotify.com/album/2Ih0oKZbfwF3PZgsDCqqof) | 4:08 | 2023-12-08 |  |
-| [tudo por você \(tipo pixote\)](https://open.spotify.com/track/4GBTlzpEEmeXa2BrK6ORFW) | [ieti](https://open.spotify.com/artist/12m12DbOfmeDQ3WHailSjx), [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [Nevs](https://open.spotify.com/artist/4x9tonVUuhOmOuDCpSQUjV), [EricBeatz](https://open.spotify.com/artist/6sPErN4KkLfCtU7vsybzG3), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [tudo por você \(tipo pixote\)](https://open.spotify.com/album/4zQihnvBaehZAK0svGGAcz) | 2:43 | 2023-12-08 |  |
+| [tudo por você \(tipo pixote\)](https://open.spotify.com/track/4GBTlzpEEmeXa2BrK6ORFW) | [ieti](https://open.spotify.com/artist/12m12DbOfmeDQ3WHailSjx), [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [Nevs](https://open.spotify.com/artist/4x9tonVUuhOmOuDCpSQUjV), [EricBeatz](https://open.spotify.com/artist/6sPErN4KkLfCtU7vsybzG3), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [tudo por você \(tipo pixote\)](https://open.spotify.com/album/4zQihnvBaehZAK0svGGAcz) | 2:43 | 2023-12-08 | 2024-07-31 |
 | [Vadiagem](https://open.spotify.com/track/2jJh9rkFfCYxkjtfbNdv0l) | [Hyldon](https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY) | [Sabor de amor](https://open.spotify.com/album/7ujzNhKq8tpx14MXkTLNBW) | 3:22 | 2023-12-08 |  |
 | [VAI VIVER](https://open.spotify.com/track/23vOjzeW7rjtZN2mdcDW1K) | [Rodrigo Sá](https://open.spotify.com/artist/1ttThBcIEeYfzDZ4rYT3Ho), [Champz](https://open.spotify.com/artist/23aUdKJQ97T0r0Ogp3yT4F) | [VAI VIVER](https://open.spotify.com/album/5B6jeiCMNzI9pTtcfmInm0) | 3:11 | 2023-12-08 |  |
 | [violão amarelo](https://open.spotify.com/track/04A6kvfVw3hJimApxX6hhr) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [OS GAROTIN DE SÃO GONÇALO](https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ) | 3:03 | 2024-05-10 |  |

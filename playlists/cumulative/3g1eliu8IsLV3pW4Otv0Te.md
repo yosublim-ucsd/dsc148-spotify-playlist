@@ -4,7 +4,7 @@
 
 > 
 
-213 songs - 14 hr 38 min
+214 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Strip That Down](https://open.spotify.com/track/4Ro98RCK90oHqqSZUnTFq5) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Strip That Down](https://open.spotify.com/album/4PrFFsJ2WAD46IXNdfx2dx) | 3:24 | 2019-04-05 |  |
 | [subconscious](https://open.spotify.com/track/7mDwXNqwxpK1nPqaJiPhc5) | [Jacoo](https://open.spotify.com/artist/65NrBzD3Jnf1iqbDjuUYjD) | [subconscious](https://open.spotify.com/album/28r9zbvyEp3fRbMD8Yupt2) | 3:06 | 2016-01-15 |  |
 | [Suffocate](https://open.spotify.com/track/1zgr42SsVORYzUEfWrYNdw) | [The Prototypes](https://open.spotify.com/artist/7F6nxkPQrlh4qWDetjgnpX) | [UKF Drum & Bass 2012](https://open.spotify.com/album/09j92c9KobGlhxS5erfpLJ) | 4:55 | 2016-01-15 |  |
+| [Suicidal Love](https://open.spotify.com/track/7FY6QQTpFO6G91bjut6uld) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [Coka Cobra](https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC) | [Suicidal Love](https://open.spotify.com/album/4LzNJPcHdePt52EwWp4wla) | 2:26 | 2024-07-30 |  |
 | [Summer \- Draper Remix](https://open.spotify.com/track/4KNrg4NXdv5fq6r130agst) | [Frank Hamilton](https://open.spotify.com/artist/4h1KKGcIKkVPfuH6K7nVYa), [Draper](https://open.spotify.com/artist/5Z8Qlj0jWh0OOmJ55EwSnu) | [Summer](https://open.spotify.com/album/3OE0jNtgMaNflJWEs9hd6u) | 5:09 | 2016-10-05 |  |
 | [Surrender](https://open.spotify.com/track/4T2l26ij73txdRG1HjfOew) | [Collin McLoughlin](https://open.spotify.com/artist/6oKeE1UH8FizqNPScqM1NE) | [Surrender](https://open.spotify.com/album/1SXZeuAWtKGCyIH8A3YfwX) | 3:56 | 2016-01-15 |  |
 | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/album/4b13SJlne61y53KSEwuQtD) | 3:32 | 2024-04-08 |  |

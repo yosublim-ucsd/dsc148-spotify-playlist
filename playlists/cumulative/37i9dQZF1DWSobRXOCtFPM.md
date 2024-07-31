@@ -4,7 +4,7 @@
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-293 songs - 1 day 4 hr 22 min
+294 songs - 1 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [How It Makes You Feel](https://open.spotify.com/track/46g53zC3XpVrDdBQ6eLjHY) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [Electronic Generations](https://open.spotify.com/album/6tvLPBwE0Yd4VLwsTvGL3Z) | 8:46 | 2023-02-13 | 2023-08-04 |
 | [I Am the Projector](https://open.spotify.com/track/3gjDMSkLime3TyHZXpgSbi) | [An On Bast](https://open.spotify.com/artist/4qIHzBkWUueYNuEl3xCDHs) | [Tender Perceptions](https://open.spotify.com/album/4O5hCAjwwVOh42ictNAf0K) | 6:49 | 2023-11-17 | 2024-04-30 |
 | [I Want Your Love \(Robosonic Remix\)](https://open.spotify.com/track/7kCFAFw5GlxePeI7daf52y) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Robosonic](https://open.spotify.com/artist/2XBuvmyzhH85j6sqv1fV3l) | [I Want Your Love \(Robosonic Remix\)](https://open.spotify.com/album/3CJoaK2XyXx7CSdCbvmyvS) | 6:08 | 2022-08-15 | 2023-02-14 |
+| [Ice](https://open.spotify.com/track/5bkRwgvGxPmv3v1gwSGrpA) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Ice \(20 Years Systematic\)](https://open.spotify.com/album/5ETfrXr5UXMt30DExDqjMo) | 6:07 | 2024-07-30 |  |
 | [In Motion \- Original Mix](https://open.spotify.com/track/3QCQ7ZoB6pqNqGT95FElWv) | [Marco Bailey](https://open.spotify.com/artist/23zJj2W0TQ0SvF4Fwo7mZK), [Sigvard](https://open.spotify.com/artist/6IrZoI6X8RzaqH4nMl8V3m) | [Unjust Images EP](https://open.spotify.com/album/3jw0JnPopHVbT5aomB5coZ) | 5:06 | 2022-08-15 | 2023-02-14 |
 | [In My Heart \- Carl Cox Remix](https://open.spotify.com/track/7H823ThTNZdVFpfiJCjl1f) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [In My Heart \(Carl Cox Remix\)](https://open.spotify.com/album/14Sr0sWU85bqAA9uPeNOUd) | 7:51 | 2023-06-20 | 2024-04-30 |
 | [Inferno](https://open.spotify.com/track/5TLCWDk3OqCe9mTPEJFbgU) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP) | [Inferno](https://open.spotify.com/album/16N2y3KI0P2lL7iFo45WjD) | 6:56 | 2023-02-13 | 2023-06-27 |

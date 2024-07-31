@@ -2,7 +2,7 @@
 
 ### [2024 Dove Awards ](https://open.spotify.com/playlist/37i9dQZF1DXbuw9ZO9Mfq5)
 
-> The nominees of the 55th annual GMA <a href="https://doveawards.com/">Dove Awards.</a> Tune in to the awards on Friday, Oct\. 4 at 8 & 10 pm ET exclusively on TBN & TBN+\. Cover \(Host\): <a href="spotify:artist:3SKza3YPBri1k43LB1Tqy4">Tauren Wells<a>
+> The nominees of the 55th annual GMA <a href="https://doveawards.com/">Dove Awards.</a> Tune in to the awards on Friday, Oct\. 4 at 8 & 10 pm ET on TBN & TBN+\.  Cover \(Host\): <a href="spotify:artist:3SKza3YPBri1k43LB1Tqy4">Tauren Wells<a>
 
 212 songs - 16 hr 40 min
 

@@ -2,9 +2,9 @@
 
 ### [Malayalam Indie](https://open.spotify.com/playlist/37i9dQZF1DX1UloYFdbD8M)
 
-> Super Cool Indie Tracks from Gods Own Country<br/>Cover: Benny Dayal
+> Super Cool Indie Tracks from Gods Own Country<br/>Cover: Masala Coffee
 
-214 songs - 14 hr 32 min
+216 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Be Free](https://open.spotify.com/track/5wfU3eM43UptY57VigdHzh) | [Vidya Vox](https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN) | [Kuthu Fire](https://open.spotify.com/album/22N9hU678amR5NiwIIlnEy) | 3:27 | 2024-01-15 | 2024-04-27 |
 | [BHAAVAM](https://open.spotify.com/track/0tbRl9AXpgaT8EQLmAEWdh) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [BHAAVAM](https://open.spotify.com/album/5Le5NUhFAZ65gKlxOSWe55) | 5:23 | 2023-11-06 |  |
 | [Bhagavathi](https://open.spotify.com/track/7IveVDpt6GAmdO2KU3SPw0) | [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c), [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l) | [Bhagavathi](https://open.spotify.com/album/1dIBUTZE5sRN6p33eWxSmT) | 5:33 | 2024-03-08 |  |
+| [Bhagwaan](https://open.spotify.com/track/2dJtvlQNYOyblWQlWjZynb) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Bhagwaan](https://open.spotify.com/album/7MrqeUhJJfwDk45JztAF9j) | 4:34 | 2024-07-30 |  |
 | [Bliss Adiche Dishqum Aayie \- From "Olam"](https://open.spotify.com/track/2V98irSeShcB8yZRqvXR9Q) | [Arun Thomas](https://open.spotify.com/artist/2a6BrIDvpkTMf00YJrRRuR), [Nauf Bava](https://open.spotify.com/artist/3MQZvamCrsH4LLsWy0AfMm) | [Bliss Adiche Dishqum Aayie \(From "Olam"\)](https://open.spotify.com/album/4L9rh1Cfjg6m2Lx7csfrJl) | 2:36 | 2023-06-29 | 2023-07-28 |
 | [Bloom in Green](https://open.spotify.com/track/6UhEBIm3jqq7l07WP1ckbA) | [Sekhar Menon](https://open.spotify.com/artist/1cpwQb4p8o8eFSWCfzGlYw), [Kavitha Mohan](https://open.spotify.com/artist/1R9gEh4Lzw6a5p4Ab569n6) | [Co Creation Project: Kappa Originals x Bloom In Green '22](https://open.spotify.com/album/12naOKwjLae6Z86tAl6BLL) | 4:20 | 2023-08-05 | 2024-02-19 |
 | [Butterflies](https://open.spotify.com/track/0cCMLMjOTegmcGdoJrfnDc) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Mridul Anil](https://open.spotify.com/artist/3uVGKUu4pjlBUJdV879eb3) | [Butterflies](https://open.spotify.com/album/0YNBOj4DQ2NzoIeMi5rvKN) | 3:34 | 2024-02-14 |  |
@@ -172,6 +173,7 @@
 | [Rasayayo \| The Story Teller](https://open.spotify.com/track/1eHQIi86wj1FmFOdNhxrOv) | [Bhadra Rajin](https://open.spotify.com/artist/2Z8xrdU7UXKkHgtJ3U4HZn), [Sudeep Palanad](https://open.spotify.com/artist/5gEbn8GU8GPvl5V7nnbHF3) | [Rasayayo \| The Story Teller](https://open.spotify.com/album/6zfAeISOe4tlq5Xf4soWsr) | 3:20 | 2023-10-10 |  |
 | [Raziya](https://open.spotify.com/track/1cG9k6DZDq61U8t9Uw1w1u) | [Narayani Gopan](https://open.spotify.com/artist/77CpK8W1pBsAITFE3zVeOI), [Akbar Khan](https://open.spotify.com/artist/7f7yBS7pfIS2DLyK2OgEzZ) | [Raziya](https://open.spotify.com/album/35fy04I0riev84gM05G5Lo) | 5:29 | 2023-06-19 | 2023-07-28 |
 | [Rebirth \- Original Cut](https://open.spotify.com/track/3THJqla3aCc8CWyaKUTyvX) | [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3) | [Rebirth \(Original Cut\)](https://open.spotify.com/album/41XM3M3hV9uadzQGT1yyNv) | 5:15 | 2024-06-10 |  |
+| [Roobaroo](https://open.spotify.com/track/2FvgMjHhoVgqwAN0Eyaxnq) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Muhammed Ashkar](https://open.spotify.com/artist/5XRVxdeC5uUmWp1ehZ9HKz) | [Roobaroo](https://open.spotify.com/album/3wTzyleRaiwA1RdvHd6kId) | 3:40 | 2024-07-30 |  |
 | [Roots \- Live](https://open.spotify.com/track/0sPgcRyCrdI2CTdJ35brMM) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Roots \(Live\)](https://open.spotify.com/album/3uKP1PerE1Kx0e6G8tskXZ) | 5:53 | 2023-07-27 | 2024-07-13 |
 | [Roses](https://open.spotify.com/track/12ungtim2fPt6ebI8RyFtd) | [AshaJeevan](https://open.spotify.com/artist/2NWmz0T0DY65DUDEF3aERn), [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Roses](https://open.spotify.com/album/6X7ET7nPqOy9Yhsnm5Trqu) | 3:26 | 2024-02-14 | 2024-05-25 |
 | [Sana \- Aaro Nee \- From "Think Specials"](https://open.spotify.com/track/3sFi34K2RKSTqEFLQ7HVLl) | [Sharan Rajamohanan](https://open.spotify.com/artist/1T7PhOdpNZ3sOUM7r6Qqkt), [Anand Sankar](https://open.spotify.com/artist/5a6vjcYewFeGYRnHLVF23k) | [Sana \- Aaro Nee \(From "Think Specials"\)](https://open.spotify.com/album/77I3U74J8dFJ2T3H1eWCsH) | 3:49 | 2024-02-26 |  |

@@ -6389,6 +6389,24 @@
     },
     {
       "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/6wxCyPlB5QcvBXLrkkq3EC"
+      },
+      "artists": [
+        {
+          "name": "Melody Lake",
+          "url": "https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60535,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/2RP93uPtPEcOTLLltaVvJS"
+    },
+    {
+      "album": {
         "name": "Cello Moods",
         "url": "https://open.spotify.com/album/66eiIKbumufa9makcayfER"
       },
@@ -13456,6 +13474,24 @@
       "duration_ms": 60000,
       "name": "Hills",
       "url": "https://open.spotify.com/track/581w1jXNwXJMFL69w9Ksid"
+    },
+    {
+      "album": {
+        "name": "Hills",
+        "url": "https://open.spotify.com/album/2nBQTD4MMw5NAnXZOX4GmU"
+      },
+      "artists": [
+        {
+          "name": "Nature Dreams",
+          "url": "https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60361,
+      "name": "Hills",
+      "url": "https://open.spotify.com/track/6mJiHWwkMkj5YJ7UFyeCPQ"
     },
     {
       "album": {

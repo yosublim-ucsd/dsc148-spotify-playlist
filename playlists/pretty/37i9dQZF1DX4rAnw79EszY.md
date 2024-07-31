@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rAnw79EszY.md) - [plain]
 
 > De Spotify redactie kiest het beste van 2023\. Cover: Marco Schuitmaker
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,037 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,035 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

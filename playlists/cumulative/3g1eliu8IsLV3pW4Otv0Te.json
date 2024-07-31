@@ -3479,6 +3479,28 @@
     },
     {
       "album": {
+        "name": "Suicidal Love",
+        "url": "https://open.spotify.com/album/4LzNJPcHdePt52EwWp4wla"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        },
+        {
+          "name": "Coka Cobra",
+          "url": "https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146190,
+      "name": "Suicidal Love",
+      "url": "https://open.spotify.com/track/7FY6QQTpFO6G91bjut6uld"
+    },
+    {
+      "album": {
         "name": "Summer",
         "url": "https://open.spotify.com/album/3OE0jNtgMaNflJWEs9hd6u"
       },

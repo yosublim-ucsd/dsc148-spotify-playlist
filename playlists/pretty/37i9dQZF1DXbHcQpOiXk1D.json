@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: berlioz",
-  "num_followers": 314475,
+  "num_followers": 314505,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Rising",
-        "url": "https://open.spotify.com/album/779CtOedaPfyu3SOhtvEEU"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Myra",
-          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
-        }
-      ],
-      "duration_ms": 367973,
-      "name": "Still Waters",
-      "url": "https://open.spotify.com/track/4F5JGx0pSUIOWjQBZFxpcm"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/55zeJMwqGYlju0shEdhG4A"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 181124,
       "name": "Wallflower",
       "url": "https://open.spotify.com/track/60ZR3PxtOjGXa6LVQlSdSr"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/779CtOedaPfyu3SOhtvEEU"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Myra",
+          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
+        }
+      ],
+      "duration_ms": 367973,
+      "name": "Still Waters",
+      "url": "https://open.spotify.com/track/4F5JGx0pSUIOWjQBZFxpcm"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
+        "name": "Funeka",
+        "url": "https://open.spotify.com/album/2xwYWGQYsWdjQTI9Wxacr5"
+      },
+      "artists": [
+        {
+          "name": "Cooks But We're Chefs",
+          "url": "https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Funeka",
+      "url": "https://open.spotify.com/track/3eNfjouyFU9bTAeBB4eirf"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
         "name": "I\u2019ll Do Whatever You Want",
         "url": "https://open.spotify.com/album/1eJCzWoOCQ4ikh7APacwOd"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 160893,
       "name": "comet (feat. Bel Cobain)",
       "url": "https://open.spotify.com/track/0JvJdbcXiX0iXsMwnsiwDN"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "Funeka",
-        "url": "https://open.spotify.com/album/2xwYWGQYsWdjQTI9Wxacr5"
-      },
-      "artists": [
-        {
-          "name": "Cooks But We're Chefs",
-          "url": "https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Funeka",
-      "url": "https://open.spotify.com/track/3eNfjouyFU9bTAeBB4eirf"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -975,26 +975,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Messimalism (Above Thought)",
-        "url": "https://open.spotify.com/album/0CjY2PxtolrVrSt4SLGUKn"
-      },
-      "artists": [
-        {
-          "name": "Emanative",
-          "url": "https://open.spotify.com/artist/5XNaa9EOra6P39TWGbCXuB"
-        },
-        {
-          "name": "Peter Zummo",
-          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
-        }
-      ],
-      "duration_ms": 404458,
-      "name": "Messimalism (Above Thought)",
-      "url": "https://open.spotify.com/track/7Bc6osTposJWE6bsej6fcv"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Could We Be More Remixes",
         "url": "https://open.spotify.com/album/1lLEKH0KEbDDW6Wgw4EEDA"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 304973,
       "name": "Somethings Going On (Miles James Remix)",
       "url": "https://open.spotify.com/track/7yf2KoMTGewH8szzkOwS9o"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Messimalism (Above Thought)",
+        "url": "https://open.spotify.com/album/0CjY2PxtolrVrSt4SLGUKn"
+      },
+      "artists": [
+        {
+          "name": "Emanative",
+          "url": "https://open.spotify.com/artist/5XNaa9EOra6P39TWGbCXuB"
+        },
+        {
+          "name": "Peter Zummo",
+          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
+        }
+      ],
+      "duration_ms": 404458,
+      "name": "Messimalism (Above Thought)",
+      "url": "https://open.spotify.com/track/7Bc6osTposJWE6bsej6fcv"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1087,30 +1087,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Be Myself",
-        "url": "https://open.spotify.com/album/1aSn9BV6hbllpcdVzJyrIW"
-      },
-      "artists": [
-        {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
-        },
-        {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        },
-        {
-          "name": "TAMBALA",
-          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
-        }
-      ],
-      "duration_ms": 227835,
-      "name": "Be Myself",
-      "url": "https://open.spotify.com/track/4KbDuejN3kCl68RNPPVt5h"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Infinite Reflections",
         "url": "https://open.spotify.com/album/0meFGx9eWzacSifnRoxwf0"
       },
@@ -1139,6 +1115,30 @@
       "duration_ms": 257624,
       "name": "Outer Sea",
       "url": "https://open.spotify.com/track/1XIgbKMs3Jf9n5QCuT7QTf"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Be Myself",
+        "url": "https://open.spotify.com/album/1aSn9BV6hbllpcdVzJyrIW"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        },
+        {
+          "name": "TAMBALA",
+          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
+        }
+      ],
+      "duration_ms": 227835,
+      "name": "Be Myself",
+      "url": "https://open.spotify.com/track/4KbDuejN3kCl68RNPPVt5h"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1191,38 +1191,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "The Silhouettes Project, Vol. 2",
-        "url": "https://open.spotify.com/album/6GjyshlYp4mykcyT7rxoAs"
-      },
-      "artists": [
-        {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
-        },
-        {
-          "name": "MANIK MC",
-          "url": "https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol"
-        },
-        {
-          "name": "Kojey Radical",
-          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
-        },
-        {
-          "name": "Paya",
-          "url": "https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO"
-        },
-        {
-          "name": "Joe Beard",
-          "url": "https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP"
-        }
-      ],
-      "duration_ms": 222653,
-      "name": "Hocus Pocus",
-      "url": "https://open.spotify.com/track/6Bidjfsyq4qbpwRCl2Cd85"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "In The Garden",
         "url": "https://open.spotify.com/album/0n2ihnzs8tWeIfHtMt9nNp"
       },
@@ -1243,6 +1211,22 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
+        "name": "Old Cape Cod",
+        "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 209043,
+      "name": "Old Cape Cod",
+      "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
         "name": "Rising",
         "url": "https://open.spotify.com/album/6TdOE1Wti5pSRxOW6Y9xT0"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 431293,
       "name": "Rising",
       "url": "https://open.spotify.com/track/7wf5JNpQcrsPTwN4h1lKCU"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
+        "name": "Outerstate",
+        "url": "https://open.spotify.com/album/6g1KJdlbI53M3T97ascW5N"
+      },
+      "artists": [
+        {
+          "name": "Kessoncoda",
+          "url": "https://open.spotify.com/artist/7k9JPWPcswdCrwPiQqjvXZ"
+        }
+      ],
+      "duration_ms": 202698,
+      "name": "Dreambend",
+      "url": "https://open.spotify.com/track/4ufGGHCXkK2v1gONKMcCyV"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Outerstate",
-        "url": "https://open.spotify.com/album/6g1KJdlbI53M3T97ascW5N"
-      },
-      "artists": [
-        {
-          "name": "Kessoncoda",
-          "url": "https://open.spotify.com/artist/7k9JPWPcswdCrwPiQqjvXZ"
-        }
-      ],
-      "duration_ms": 202698,
-      "name": "Dreambend",
-      "url": "https://open.spotify.com/track/4ufGGHCXkK2v1gONKMcCyV"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "The Liminality of Her",
         "url": "https://open.spotify.com/album/3tNvEZnLV5OAnOmII0jTiU"
       },
@@ -1323,18 +1307,34 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Old Cape Cod",
-        "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
+        "name": "The Silhouettes Project, Vol. 2",
+        "url": "https://open.spotify.com/album/6GjyshlYp4mykcyT7rxoAs"
       },
       "artists": [
         {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "MANIK MC",
+          "url": "https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        },
+        {
+          "name": "Paya",
+          "url": "https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO"
+        },
+        {
+          "name": "Joe Beard",
+          "url": "https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP"
         }
       ],
-      "duration_ms": 209043,
-      "name": "Old Cape Cod",
-      "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
+      "duration_ms": 222653,
+      "name": "Hocus Pocus",
+      "url": "https://open.spotify.com/track/6Bidjfsyq4qbpwRCl2Cd85"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "WeirdOs",
-        "url": "https://open.spotify.com/album/48rRditt0gLVgDEMt1DoY6"
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/34uZsXy8PS9LIrP3fIkuzl"
       },
       "artists": [
         {
-          "name": "O.",
-          "url": "https://open.spotify.com/artist/0R2UqQKBdSADXMN2Gx5CrB"
+          "name": "Bea Maher",
+          "url": "https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf"
         }
       ],
-      "duration_ms": 269034,
-      "name": "TV Dinners",
-      "url": "https://open.spotify.com/track/7nJ58q6TZPNJSugTUGq8vy"
+      "duration_ms": 232068,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/6GWFVXScr30DquUSJTkwZB"
     }
   ],
   "unique_name": "Jazz UK",

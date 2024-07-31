@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,779 likes - 225 songs - 12 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,776 likes - 225 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -188,8 +188,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 178 | [\(Because we\) Fall in Love](https://open.spotify.com/track/4Pohk9QnUp8243LofTr9Cn) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Polar](https://open.spotify.com/album/7ksHT5o2iwBZr0kDYL4LSa) | 3:06 |
 | 179 | [One Two Three](https://open.spotify.com/track/641mffMtAHVcWP4c8emiKw) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Share](https://open.spotify.com/album/3opQW3I787I5em9lRZptCo) | 3:14 |
 | 180 | [푸른 양철 스쿠터](https://open.spotify.com/track/7239i16Nl443yMpjXa6TFk) | [My Aunt Mary](https://open.spotify.com/artist/02ROLqtEjHtHUbCuon7bQU) | [Circle](https://open.spotify.com/album/2pzBzC03HzbNnjKNFrdb87) | 3:16 |
-| 181 | [공항 가는 길](https://open.spotify.com/track/59a8bElU9C0U0ZAewaCurc) | [My Aunt Mary](https://open.spotify.com/artist/02ROLqtEjHtHUbCuon7bQU) | [Just pop](https://open.spotify.com/album/0FF3bgrrpGh8PE4EAnwtxG) | 3:59 |
-| 182 | [골든 글러브](https://open.spotify.com/track/5HILgeHAObGjPKeCX4tY5s) | [My Aunt Mary](https://open.spotify.com/artist/02ROLqtEjHtHUbCuon7bQU) | [Just pop](https://open.spotify.com/album/0FF3bgrrpGh8PE4EAnwtxG) | 3:21 |
+| 181 | [공항 가는 길](https://open.spotify.com/track/59a8bElU9C0U0ZAewaCurc) | [My Aunt Mary](https://open.spotify.com/artist/02ROLqtEjHtHUbCuon7bQU) | [Just Pop](https://open.spotify.com/album/0FF3bgrrpGh8PE4EAnwtxG) | 3:59 |
+| 182 | [골든 글러브](https://open.spotify.com/track/5HILgeHAObGjPKeCX4tY5s) | [My Aunt Mary](https://open.spotify.com/artist/02ROLqtEjHtHUbCuon7bQU) | [Just Pop](https://open.spotify.com/album/0FF3bgrrpGh8PE4EAnwtxG) | 3:21 |
 | 183 | [A Day of Mercury](https://open.spotify.com/track/0ZnSRfXEfg5PpgY9WtJrXO) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Enlightenment](https://open.spotify.com/album/5mfhM5hlMcZdpuR0h4No0D) | 5:10 |
 | 184 | [Summer](https://open.spotify.com/track/3aeZV1y0ck9CMIUIdeOjBj) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [The Volunteers](https://open.spotify.com/album/0hwXFwuvVfZwn6asTargTD) | 4:11 |
 | 185 | [New Plant](https://open.spotify.com/track/79jgzziAIoymcQp3n2GL1M) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [New Plant](https://open.spotify.com/album/4x0sRy7NHBE1uEy8hiVKy3) | 5:02 |

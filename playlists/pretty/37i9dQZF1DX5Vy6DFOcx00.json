@@ -1,12 +1,12 @@
 {
   "description": "iykyk",
-  "num_followers": 3971091,
+  "num_followers": 3971459,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqJh6AAAAACuRW5H8OpM9+9CqfLgetmz",
+  "snapshot_id": "ZqjhWQAAAADCqp14jLeAsboLzV7J6Blm",
   "tracks": [
     {
       "added_at": "2024-07-08 22:11:18",
@@ -25,20 +25,44 @@
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
     },
     {
-      "added_at": "2024-07-24 04:38:26",
+      "added_at": "2024-07-30 12:47:08",
       "album": {
-        "name": "NO HANDS",
-        "url": "https://open.spotify.com/album/1Fjelo0jZ4i1iQZBsK0pOA"
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        }
+      ],
+      "duration_ms": 156988,
+      "name": "Mamushi (feat. Yuki Chiba)",
+      "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
+    },
+    {
+      "added_at": "2024-07-30 12:49:29",
+      "album": {
+        "name": "THE BADDEST (BADDER) [feat. Ayesha Erotica]",
+        "url": "https://open.spotify.com/album/1G7CTjjWqcPtHXaqLT8KSJ"
       },
       "artists": [
         {
           "name": "Joey Valence & Brae",
           "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        },
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
         }
       ],
       "duration_ms": 143994,
-      "name": "THE BADDEST",
-      "url": "https://open.spotify.com/track/4zop1FQ0ukwsBtXv4zrv5X"
+      "name": "THE BADDEST (BADDER) [feat. Ayesha Erotica]",
+      "url": "https://open.spotify.com/track/5tzcByvFyzRPHXrBgOaxkk"
     },
     {
       "added_at": "2024-07-04 01:59:42",
@@ -871,22 +895,6 @@
       "duration_ms": 190285,
       "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
       "url": "https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6"
-    },
-    {
-      "added_at": "2024-07-04 01:59:42",
-      "album": {
-        "name": "Trilogy",
-        "url": "https://open.spotify.com/album/2XGEyGU76kj55OdHWynX0S"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 295435,
-      "name": "Coming Down",
-      "url": "https://open.spotify.com/track/4q75XguyPrsduy70hcBVFu"
     }
   ],
   "unique_name": "big on the internet",

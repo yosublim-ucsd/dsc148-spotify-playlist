@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-1,229 songs - 2 day 17 hr 1 min
+1,230 songs - 2 day 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [3 Nap](https://open.spotify.com/track/0R7YvZPeHphkV48ffoGmsl) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Idegen](https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8) | 2:50 | 2023-03-07 | 2023-03-25 |
 | [3 Nap](https://open.spotify.com/track/1dApWF2K4c91sOq0esaufz) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Idegen](https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv) | 2:50 | 2023-02-03 | 2023-03-08 |
 | [3guriga](https://open.spotify.com/track/0aeoasiwc1pjuxU6datrSK) | [Ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM), [Csoky](https://open.spotify.com/artist/6RmLQbwTEDQrpIveY6gqtV) | [Sose Alszok](https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy) | 1:49 | 2023-04-08 | 2023-04-12 |
-| [3korty](https://open.spotify.com/track/5ZY255MSISgMrvHmRZux1E) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [memento](https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT) | 3:13 | 2023-05-02 |  |
+| [3korty](https://open.spotify.com/track/5ZY255MSISgMrvHmRZux1E) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [memento](https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT) | 3:13 | 2023-05-02 | 2024-07-31 |
 | [3korty \- LIVE](https://open.spotify.com/track/7GwnJvYPqVmbRdakEMwoFw) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Papp László Aréna LIVE \(2023\)](https://open.spotify.com/album/0jh4QHk8xp0mDHY2FXb3m1) | 3:16 | 2023-04-06 | 2023-05-08 |
 | [45 Primo](https://open.spotify.com/track/1iJSUAeT5x2fooS8jFg7cy) | [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM), [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [IGAZIAKÉRT](https://open.spotify.com/album/79TxTooMGOIBxL57zgx6n1) | 2:36 | 2024-06-13 | 2024-07-19 |
 | [4xNem](https://open.spotify.com/track/4mGgzjRyM6PojHS0dAS8YX) | [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [GG VS GRASA](https://open.spotify.com/album/4FR5aidnMiVra6a13qSoDQ) | 2:25 | 2023-02-18 | 2023-02-20 |
@@ -177,6 +177,7 @@
 | [Butter](https://open.spotify.com/track/2bgTY4UwhfBYhGT4HUYStN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/1HnJKmB4P6Z8RBdLMWx18w) | 2:44 | 2021-06-10 | 2021-07-15 |
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2021-05-23 | 2021-06-10 |
 | [Bye Bye](https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Bye Bye](https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb) | 1:48 | 2022-10-15 | 2022-10-17 |
+| [Bye Bye Bye \- From Deadpool and Wolverine Soundtrack](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 | 2024-07-30 |  |
 | [Bálnák](https://open.spotify.com/track/7whf09ip8uNvMoBgb3o9Yc) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E) | [Szörnyeteg](https://open.spotify.com/album/3fwAWokcyYJTxZWDsyOjYm) | 4:44 | 2021-07-31 | 2021-08-15 |
 | [béke](https://open.spotify.com/track/000n6Lx4yqUAslF1x3JeFY) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N), [Lord Panamo](https://open.spotify.com/artist/7veanrmdYNXRdmVxbsjSNh), [Copy Con](https://open.spotify.com/artist/4MRoZ6oimKRR9kpx4CEvbN) | [tripq](https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr) | 5:15 | 2023-08-25 | 2023-11-21 |
 | [Börtön Story](https://open.spotify.com/track/15EhnausqO4RT8OEvTOFS1) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [LOHUMA](https://open.spotify.com/artist/01zvCPi7iNQ9NY2wyS0FaE), [L0C0](https://open.spotify.com/artist/4uOrfv7NeGv32ngjsNJ1xf) | [Megáll Az Idő](https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg) | 1:25 | 2023-03-02 | 2023-03-06 |

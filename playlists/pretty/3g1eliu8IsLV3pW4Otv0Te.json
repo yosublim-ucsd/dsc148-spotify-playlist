@@ -6,7 +6,7 @@
     "name": "codym2011",
     "url": "https://open.spotify.com/user/codym2011"
   },
-  "snapshot_id": "AAAA5+E25pQaxDz7bDLXa+1+ytePP3F0",
+  "snapshot_id": "AAAA6FSgaEX8eHJdVjs05KznPJ9r2ZyJ",
   "tracks": [
     {
       "added_at": "2016-01-14 16:22:45",
@@ -3991,6 +3991,26 @@
       "duration_ms": 312899,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/7InqkJxeh2IuGREHrtUplt"
+    },
+    {
+      "added_at": "2024-07-30 16:23:43",
+      "album": {
+        "name": "Suicidal Love",
+        "url": "https://open.spotify.com/album/4LzNJPcHdePt52EwWp4wla"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        },
+        {
+          "name": "Coka Cobra",
+          "url": "https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC"
+        }
+      ],
+      "duration_ms": 146190,
+      "name": "Suicidal Love",
+      "url": "https://open.spotify.com/track/7FY6QQTpFO6G91bjut6uld"
     }
   ],
   "unique_name": "chill/DnB",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ymr6UES7vc.md) - [plain]
 
 > Simply rain
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,513 likes - 302 songs - 14 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,706 likes - 302 songs - 14 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,7 +130,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ymr6UES7vc.md) - [plain]
 | 120 | [Slumber Rain](https://open.spotify.com/track/2pUhY7tWx8egpw2qn84iSi) | [Nature Of Sweden](https://open.spotify.com/artist/7kgwMm8d2igABad4wfEKti) | [Rainy Mind](https://open.spotify.com/album/0dk1131P27XQgkbt8bbkiU) | 2:26 |
 | 121 | [Cosy Sunday Rain](https://open.spotify.com/track/7kUpfYMUijFCcNsKMnFvhv) | [Sjourn](https://open.spotify.com/artist/1XVR8eiXBwT6bnv7Bx6qFp) | [Cosy Sunday Rain](https://open.spotify.com/album/2nD8pACY6boiON9uVSaLJm) | 2:32 |
 | 122 | [Downpour Sounds & Heavy Clouds](https://open.spotify.com/track/4QAczT9AoSGadEcrp38LZe) | [Moon Spell FX](https://open.spotify.com/artist/2RPUdbStv0xD4iltkR3ba0) | [Downpour Sounds & Heavy Clouds](https://open.spotify.com/album/2UCaSGdytLgpIsZie6Jx9x) | 2:34 |
-| 123 | [Serene Raindrops](https://open.spotify.com/track/1urioq0FGv3e3NuTMMHd51) | [Raindog](https://open.spotify.com/artist/1grnh5vd3P1gDqLQbU8MdM) | [Serene Raindrops](https://open.spotify.com/album/3kgDhW7G20RL1I0SgZH3WR) | 2:57 |
+| 123 | [Serene Raindrops](https://open.spotify.com/track/1urioq0FGv3e3NuTMMHd51) | [Raindog](https://open.spotify.com/artist/51pC69EE18vJkW3g4FrUiu) | [Serene Raindrops](https://open.spotify.com/album/3kgDhW7G20RL1I0SgZH3WR) | 2:57 |
 | 124 | [Under the Rain Clouds](https://open.spotify.com/track/1MyeT7GjwylrPvcLsBSjds) | [Natur Musikanten](https://open.spotify.com/artist/1cnvjBS4O1gaKv7LAIzFFT) | [Endless Rain](https://open.spotify.com/album/68iEqOmVcOTDhYWQ6DwTUI) | 2:38 |
 | 125 | [Distant Rain](https://open.spotify.com/track/5yvsWvwVq8bYrltqTi9TxJ) | [Pacific Rain](https://open.spotify.com/artist/1bgpRrszIfYOXgzXcR02jP) | [Distant Rain](https://open.spotify.com/album/5hy25TSUbMLRjGzyQp0FMR) | 3:28 |
 | 126 | [Rainy Woodland](https://open.spotify.com/track/5iDpVUW4VPL2ZfuDVwQqIz) | [XTR Soundscapes](https://open.spotify.com/artist/4UhzSHdjRfhfUjGkuUObzY) | [Rainy Woodland](https://open.spotify.com/album/5pAsWfdaL1FZmE9OWbH4dl) | 2:40 |

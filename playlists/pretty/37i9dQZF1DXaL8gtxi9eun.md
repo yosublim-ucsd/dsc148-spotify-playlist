@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > أجمد أغاني البوب المصري كلها في قائمة واحدة\. غلاف: أنغام
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,782 likes - 41 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,800 likes - 41 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [هو انت مين](https://open.spotify.com/track/1qGEGcxFCJ0LhBCBSeZmqO) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [تيجي نسيب](https://open.spotify.com/album/2hq36WlHifY01YuBdfLv15) | 4:41 |
-| 2 | [كنا معدين](https://open.spotify.com/track/5wylUnXUG318OTSsVfmFv8) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [كنا معدين](https://open.spotify.com/album/4NrTvQ43jJ61FVrNolKWUE) | 2:55 |
+| 2 | [كنا معديين](https://open.spotify.com/track/5wylUnXUG318OTSsVfmFv8) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [كنا معديين](https://open.spotify.com/album/4NrTvQ43jJ61FVrNolKWUE) | 2:55 |
 | 3 | [Sadma](https://open.spotify.com/track/4EBcYRftM4nue57Ua31bNK) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Sadma](https://open.spotify.com/album/5X4Y77t5vLwviculy0kkDL) | 3:23 |
 | 4 | [Lem Ashamak](https://open.spotify.com/track/0dvjvNU9disvGnOFlZ3pMF) | [Soma](https://open.spotify.com/artist/4lVEjRrFtykgXkHL1YFEZN) | [Lem Ashamak](https://open.spotify.com/album/28zYSQHpPeUnvE0OJxHZVt) | 4:04 |
 | 5 | [Habayeb Albi](https://open.spotify.com/track/1CXQ0YBCjBpNjjzPB7WCxn) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Habayeb Albi](https://open.spotify.com/album/7nC3FjyXyZtIglo9Zphvfv) | 2:58 |

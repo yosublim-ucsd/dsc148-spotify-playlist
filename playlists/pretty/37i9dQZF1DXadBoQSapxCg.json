@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 312193,
+  "num_followers": 312189,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-07-12 23:58:49",
       "album": {
+        "name": "1 em 100",
+        "url": "https://open.spotify.com/album/0KoCTcxxhSOwdrqD6j5hnq"
+      },
+      "artists": [
+        {
+          "name": "Cammie",
+          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
+        }
+      ],
+      "duration_ms": 189071,
+      "name": "1 em 100",
+      "url": "https://open.spotify.com/track/78rRWqZIwDD7f9yjsEHpD1"
+    },
+    {
+      "added_at": "2024-07-12 23:58:49",
+      "album": {
         "name": "12 Horas",
         "url": "https://open.spotify.com/album/5VgIC6o6AQjqxIeLgkEod5"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 157056,
       "name": "12 Horas",
       "url": "https://open.spotify.com/track/0sL06GkUHIOiSpzPnOPHFy"
-    },
-    {
-      "added_at": "2024-07-12 23:58:49",
-      "album": {
-        "name": "1 em 100",
-        "url": "https://open.spotify.com/album/0KoCTcxxhSOwdrqD6j5hnq"
-      },
-      "artists": [
-        {
-          "name": "Cammie",
-          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
-        }
-      ],
-      "duration_ms": 189071,
-      "name": "1 em 100",
-      "url": "https://open.spotify.com/track/78rRWqZIwDD7f9yjsEHpD1"
     },
     {
       "added_at": "2024-07-12 23:58:49",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-07-12 23:58:49",
       "album": {
+        "name": "VEM",
+        "url": "https://open.spotify.com/album/5oWDd8ox89yqzqTHTD2NN3"
+      },
+      "artists": [
+        {
+          "name": "Davi Bandeira",
+          "url": "https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "VEM",
+      "url": "https://open.spotify.com/track/3oQwrk9FszQAZRLJKReF5G"
+    },
+    {
+      "added_at": "2024-07-12 23:58:49",
+      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/4ikm2H16e81LGmGL1VykAw"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 165350,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/5bfimwK5FYHMlaa93448w5"
-    },
-    {
-      "added_at": "2024-07-12 23:58:49",
-      "album": {
-        "name": "VEM",
-        "url": "https://open.spotify.com/album/5oWDd8ox89yqzqTHTD2NN3"
-      },
-      "artists": [
-        {
-          "name": "Davi Bandeira",
-          "url": "https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "VEM",
-      "url": "https://open.spotify.com/track/3oQwrk9FszQAZRLJKReF5G"
     },
     {
       "added_at": "2024-07-12 23:58:49",

@@ -1,6 +1,6 @@
 {
   "description": "Relive your favourite K-Drama moments with these classic soundtracks. (\uadf8 \uc2dc\uc808 \uadf8 \ub54c\uc758 \uac10\uc131\uc774 \ub2f4\uaca8 \uc788\ub294 OST \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.)",
-  "num_followers": 842950,
+  "num_followers": 843332,
   "original_name": "Best of Korean OSTs (OST \uba85\uace1 \ubca0\uc2a4\ud2b8)",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2024-06-25 04:53:09",
       "album": {
+        "name": "Good Person (2022)",
+        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
+      },
+      "artists": [
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Good Person (2022)",
+      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
+    },
+    {
+      "added_at": "2024-06-25 04:53:09",
+      "album": {
         "name": "Guardian (Original Television Soundtrack), Pt. 14",
         "url": "https://open.spotify.com/album/6uyqsQR7G7AWroOoH0eNMt"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 214851,
       "name": "Very, Slowly",
       "url": "https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H"
-    },
-    {
-      "added_at": "2024-06-25 04:53:09",
-      "album": {
-        "name": "Good Person (2022)",
-        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
-      },
-      "artists": [
-        {
-          "name": "HAECHAN",
-          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Good Person (2022)",
-      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
     },
     {
       "added_at": "2024-06-25 04:53:09",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-06-25 04:53:09",
       "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 5",
-        "url": "https://open.spotify.com/album/6HTmDMNeSk7pHV9CLfFUVu"
-      },
-      "artists": [
-        {
-          "name": "Eddy Kim",
-          "url": "https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "You are so beautiful",
-      "url": "https://open.spotify.com/track/2nJDePK69THatYkjkjQFE8"
-    },
-    {
-      "added_at": "2024-06-25 04:53:09",
-      "album": {
         "name": "Whats wrong with secretary kim OST Part.2",
         "url": "https://open.spotify.com/album/33Pnr6Xe94tVdfMvZKKntT"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 219506,
       "name": "It`s you",
       "url": "https://open.spotify.com/track/3dvPPS5KXskeRbrSY80gwt"
+    },
+    {
+      "added_at": "2024-06-25 04:53:09",
+      "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/6HTmDMNeSk7pHV9CLfFUVu"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kim",
+          "url": "https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "You are so beautiful",
+      "url": "https://open.spotify.com/track/2nJDePK69THatYkjkjQFE8"
     },
     {
       "added_at": "2024-06-25 04:53:09",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-06-25 04:53:09",
       "album": {
-        "name": "The Beauty Inside Pt. 4 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0BhoxE4nRkVv4GjS8draWN"
-      },
-      "artists": [
-        {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
-        }
-      ],
-      "duration_ms": 238862,
-      "name": "Beautiful Moment",
-      "url": "https://open.spotify.com/track/3SXg7A9M3pY2aWYdzQ0BMW"
-    },
-    {
-      "added_at": "2024-06-25 04:53:09",
-      "album": {
         "name": "Uncontrollably Fond OST Part.3",
         "url": "https://open.spotify.com/album/38OAXj0vgluZuiHo4o6Ml6"
       },
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2024-06-25 04:53:09",
       "album": {
-        "name": "Weightlifting Fairy Kim Bok Joo (Original Television Soundtrack, Pt. 2)",
-        "url": "https://open.spotify.com/album/1T8J131uP2pI7VuxSF2zp3"
+        "name": "The Beauty Inside Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0BhoxE4nRkVv4GjS8draWN"
       },
       "artists": [
         {
-          "name": "Vincent Blue",
-          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
         }
       ],
-      "duration_ms": 190173,
-      "name": "From now on",
-      "url": "https://open.spotify.com/track/6vic1TI7BdzAc9HM0LnAF0"
+      "duration_ms": 238862,
+      "name": "Beautiful Moment",
+      "url": "https://open.spotify.com/track/3SXg7A9M3pY2aWYdzQ0BMW"
     },
     {
       "added_at": "2024-06-25 04:53:09",
@@ -1299,6 +1283,22 @@
       "duration_ms": 242400,
       "name": "Dream",
       "url": "https://open.spotify.com/track/4C8IyegMjj5vmSdO4HUATk"
+    },
+    {
+      "added_at": "2024-06-25 04:53:09",
+      "album": {
+        "name": "Weightlifting Fairy Kim Bok Joo (Original Television Soundtrack, Pt. 2)",
+        "url": "https://open.spotify.com/album/1T8J131uP2pI7VuxSF2zp3"
+      },
+      "artists": [
+        {
+          "name": "Vincent Blue",
+          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
+        }
+      ],
+      "duration_ms": 190173,
+      "name": "From now on",
+      "url": "https://open.spotify.com/track/6vic1TI7BdzAc9HM0LnAF0"
     },
     {
       "added_at": "2024-06-25 04:53:09",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-06-25 04:53:09",
       "album": {
-        "name": "W OST Part.2",
-        "url": "https://open.spotify.com/album/5pcvUvnnXKju9j9qR5b7HK"
-      },
-      "artists": [
-        {
-          "name": "Park Boram",
-          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "Please say something, even though it is a lie",
-      "url": "https://open.spotify.com/track/3w1OiIgombILLvuVo8HRAm"
-    },
-    {
-      "added_at": "2024-06-25 04:53:09",
-      "album": {
         "name": "Descendants Of The Sun Pt.10 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2pnAzG7QBcvCcZFBvp1Pvl"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 260294,
       "name": "How Can I Love You",
       "url": "https://open.spotify.com/track/2bgOhdw80vH03155D5Bm3s"
+    },
+    {
+      "added_at": "2024-06-25 04:53:09",
+      "album": {
+        "name": "W OST Part.2",
+        "url": "https://open.spotify.com/album/5pcvUvnnXKju9j9qR5b7HK"
+      },
+      "artists": [
+        {
+          "name": "Park Boram",
+          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "Please say something, even though it is a lie",
+      "url": "https://open.spotify.com/track/3w1OiIgombILLvuVo8HRAm"
     },
     {
       "added_at": "2024-06-25 04:53:09",

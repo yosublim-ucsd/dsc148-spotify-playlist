@@ -329,6 +329,36 @@
     },
     {
       "album": {
+        "name": "BACK IT UP",
+        "url": "https://open.spotify.com/album/5ZX1a1D11m4TGf2CQikGNf"
+      },
+      "artists": [
+        {
+          "name": "Sam Silver",
+          "url": "https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0"
+        },
+        {
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+        },
+        {
+          "name": "Leap96",
+          "url": "https://open.spotify.com/artist/29Ym8UOoUTlN7vvt7JXX4e"
+        },
+        {
+          "name": "Michael Aristotle",
+          "url": "https://open.spotify.com/artist/0EcYNSzoHRKECzj0NEi109"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130681,
+      "name": "BACK IT UP",
+      "url": "https://open.spotify.com/track/5vKSIdnjFFnXX32usUzM4C"
+    },
+    {
+      "album": {
         "name": "Back Off",
         "url": "https://open.spotify.com/album/7IQ1hzoJ7ltY8DSsRaoNQs"
       },
@@ -384,7 +414,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 173571,
       "name": "BAD",
       "url": "https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy"
@@ -2101,6 +2131,28 @@
     },
     {
       "album": {
+        "name": "FIRST TRYP",
+        "url": "https://open.spotify.com/album/5R4Vp5Dbz0DDt5lyWu0HWk"
+      },
+      "artists": [
+        {
+          "name": "TRYPBOX",
+          "url": "https://open.spotify.com/artist/5r4lVYYPWIvbRMH4rlAeFj"
+        },
+        {
+          "name": "Chard",
+          "url": "https://open.spotify.com/artist/1c5eJZMDD3SpxsOHPDePUY"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Function",
+      "url": "https://open.spotify.com/track/727bRs7LxteQMWrrqzFDzQ"
+    },
+    {
+      "album": {
         "name": "Funk Master",
         "url": "https://open.spotify.com/album/2vyf5LRhUAdQLPMonaRDeO"
       },
@@ -2112,10 +2164,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 222857,
       "name": "Funk Master",
       "url": "https://open.spotify.com/track/76fbYUUA82dEq3N4t75KZT"
+    },
+    {
+      "album": {
+        "name": "This Is Night Bass: Vol. 10",
+        "url": "https://open.spotify.com/album/3dRBNtPbl6GLDSHUqwZecv"
+      },
+      "artists": [
+        {
+          "name": "Nicky Genesis",
+          "url": "https://open.spotify.com/artist/1xq1MjEyHp1BpwlxOe8jNM"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263225,
+      "name": "Funky Soul",
+      "url": "https://open.spotify.com/track/67TVFPxFRPfJ2FHu9t2LF2"
     },
     {
       "album": {
@@ -2229,6 +2299,32 @@
     },
     {
       "album": {
+        "name": "Get Loose (feat. LexBlaze)",
+        "url": "https://open.spotify.com/album/3vZ71dARheqUhoxXLp9gvf"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "Cave Studio",
+          "url": "https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE"
+        },
+        {
+          "name": "LexBlaze",
+          "url": "https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149956,
+      "name": "Get Loose (feat. LexBlaze)",
+      "url": "https://open.spotify.com/track/0qRMIJvnJRicT1XI0zkFYH"
+    },
+    {
+      "album": {
         "name": "Get Ruff",
         "url": "https://open.spotify.com/album/4gzrUX9EJ01Uy1uEco69tu"
       },
@@ -2240,7 +2336,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 194571,
       "name": "Get Ruff",
       "url": "https://open.spotify.com/track/4kNUICMwCz6XOuZFVNQsNi"
@@ -2448,6 +2544,24 @@
       "duration_ms": 243750,
       "name": "HAMMER (FIRE AGAIN)",
       "url": "https://open.spotify.com/track/4ftYyke3ojGfJb1ZnQR7q7"
+    },
+    {
+      "album": {
+        "name": "Hangin' On",
+        "url": "https://open.spotify.com/album/1QFag1soFAXSOXGoRQHp5G"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195942,
+      "name": "Hangin' On",
+      "url": "https://open.spotify.com/track/2QBYwDbhKUjOPNylueh8ti"
     },
     {
       "album": {
@@ -2914,7 +3028,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 193159,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/59pJM2rkgW47uV5kpyVvvw"
@@ -3042,6 +3156,32 @@
       "duration_ms": 238423,
       "name": "Kemet",
       "url": "https://open.spotify.com/track/601SQqPYiwOHk0tIc8F1A3"
+    },
+    {
+      "album": {
+        "name": "Kicks VIP",
+        "url": "https://open.spotify.com/album/0tNJ2ASUZoE4mYvTFVzfd2"
+      },
+      "artists": [
+        {
+          "name": "HODA",
+          "url": "https://open.spotify.com/artist/6947jU93LuBHWx7OLAh9gx"
+        },
+        {
+          "name": "Eloquin",
+          "url": "https://open.spotify.com/artist/6tRzzi6vUGERNBRbOkaOa1"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277514,
+      "name": "Kicks VIP",
+      "url": "https://open.spotify.com/track/54dzPLL5KHLffN3b2Ccg6O"
     },
     {
       "album": {
@@ -3708,7 +3848,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 190089,
       "name": "More Acid",
       "url": "https://open.spotify.com/track/76mLFEljVN42gbLT8Q7bBC"
@@ -3990,6 +4130,28 @@
       "duration_ms": 288095,
       "name": "Night Train",
       "url": "https://open.spotify.com/track/0zGHWnTtESiQrWwnCA1yBM"
+    },
+    {
+      "album": {
+        "name": "No Dress Code",
+        "url": "https://open.spotify.com/album/6ZbaZtNU9TvoiKgpyOlmpo"
+      },
+      "artists": [
+        {
+          "name": "Makla",
+          "url": "https://open.spotify.com/artist/1ngUu0NNbd7uGigLW2je0M"
+        },
+        {
+          "name": "AK RENNY",
+          "url": "https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192015,
+      "name": "No Dress Code",
+      "url": "https://open.spotify.com/track/5ZCGjM9fDprqDv79x9sp63"
     },
     {
       "album": {
@@ -4985,6 +5147,24 @@
     },
     {
       "album": {
+        "name": "Run Away",
+        "url": "https://open.spotify.com/album/0h8ntgIk2kGVdwzYGz9h42"
+      },
+      "artists": [
+        {
+          "name": "Hi-Jinks",
+          "url": "https://open.spotify.com/artist/27hoG7bXdeyFvUn1huSPh4"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/7JFKg60oHXVCk04O0Suf60"
+    },
+    {
+      "album": {
         "name": "MULTIPLICITY",
         "url": "https://open.spotify.com/album/1ej8yqRN2IM5SVUHXYgq0O"
       },
@@ -5094,6 +5274,28 @@
       "duration_ms": 240000,
       "name": "Screamer",
       "url": "https://open.spotify.com/track/6Y99os6uaE64HDEH82owVT"
+    },
+    {
+      "album": {
+        "name": "Se Concentra",
+        "url": "https://open.spotify.com/album/23LEeEoRaOVhQUVuMY0aHt"
+      },
+      "artists": [
+        {
+          "name": "MKJAY",
+          "url": "https://open.spotify.com/artist/20LoXYCfkUQLrhGAu0fXqC"
+        },
+        {
+          "name": "DKING",
+          "url": "https://open.spotify.com/artist/1NuBuDM9cl9FJowKGetfCS"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260987,
+      "name": "Se Concentra",
+      "url": "https://open.spotify.com/track/6wz6q9BNDLqadNoHxpMUys"
     },
     {
       "album": {
@@ -5238,7 +5440,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 239765,
       "name": "Solarpunk",
       "url": "https://open.spotify.com/track/5lcDRYPsytC3ZReAdRXSMN"
@@ -5486,7 +5688,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 159375,
       "name": "Sweet 'n' Sour - Phlegmatic Dogs Remix",
       "url": "https://open.spotify.com/track/2kzubU6PYcJU5z9SG9xaRL"
@@ -5530,7 +5732,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 169545,
       "name": "System Overload",
       "url": "https://open.spotify.com/track/0kT99suSJSWK3Imob3PPib"
@@ -5694,7 +5896,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 178333,
       "name": "The Mindshaker",
       "url": "https://open.spotify.com/track/6fEAu7JRaeepDU0HJn0Kce"
@@ -5882,7 +6084,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 191250,
       "name": "Thousand Sides",
       "url": "https://open.spotify.com/track/7DsJI3bDw7kkOGGdJuCVfp"
@@ -6032,6 +6234,24 @@
       "duration_ms": 180461,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/34UqmMwF7IEGAm9qLo0Loc"
+    },
+    {
+      "album": {
+        "name": "TR!!!GGERED!!!",
+        "url": "https://open.spotify.com/album/5vXZLJlmW2QE4by1WjANit"
+      },
+      "artists": [
+        {
+          "name": "Blinders",
+          "url": "https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141093,
+      "name": "TR!!!GGERED!!!",
+      "url": "https://open.spotify.com/track/4yVfQSlP6iArfe7JKz0vDA"
     },
     {
       "album": {

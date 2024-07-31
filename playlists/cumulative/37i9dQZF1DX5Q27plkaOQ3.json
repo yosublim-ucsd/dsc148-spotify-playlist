@@ -3078,7 +3078,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 267433,
       "name": "Dead To Rights",
       "url": "https://open.spotify.com/track/3xk4odE5KMjlQIDcprWmlO"
@@ -4738,6 +4738,28 @@
       "duration_ms": 260004,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/2ECMO2A2qQh6CMdxT8fHGO"
+    },
+    {
+      "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/3aEwKTDudMUykXpjH1tjU8"
+      },
+      "artists": [
+        {
+          "name": "Hostage Situation",
+          "url": "https://open.spotify.com/artist/1UnA09CtdmT16mvmzbXnON"
+        },
+        {
+          "name": "GorillaT",
+          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124081,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/2Zin7IOCSXxhQtdoFU4zdk"
     },
     {
       "album": {
@@ -10738,7 +10760,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/0kfXOuVx3xUjVgwvxQewcb"
@@ -14074,7 +14096,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 161777,
       "name": "TOTAL CHAOS",
       "url": "https://open.spotify.com/track/3yvhBol9Z36rchdml8zCUg"

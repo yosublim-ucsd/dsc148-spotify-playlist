@@ -4,7 +4,7 @@
 
 > <a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIVGQng2sQO2r>Corpus Christi</a>
 
-135 songs - 8 hr 7 min
+136 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,12 +22,13 @@
 | [A Novel Of War](https://open.spotify.com/track/5leJWyLClV1TS8oyvPHiqQ) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 2:48 | 2024-04-23 |  |
 | [A Pathetic Psalm](https://open.spotify.com/track/2tkXYoeNoONdzfrnpAwvHS) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 3:59 | 2024-04-23 |  |
 | [A Port In Any Storm](https://open.spotify.com/track/46Zdq2HrcAtolMCkXUwsEu) | [It Dies Today](https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC) | [Sirens](https://open.spotify.com/album/3k3ON7AVd9OZpIbnkzKQSy) | 3:14 | 2024-04-23 |  |
-| [A Threnody For Modern Romance](https://open.spotify.com/track/40hir97i5PBSkB3rURdnLl) | [It Dies Today](https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC) | [The Caitiff Choir](https://open.spotify.com/album/0EZB1xIDFvMnTLKI4YdlAb) | 3:30 | 2024-05-05 |  |
+| [A Threnody For Modern Romance](https://open.spotify.com/track/40hir97i5PBSkB3rURdnLl) | [It Dies Today](https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC) | [The Caitiff Choir](https://open.spotify.com/album/0EZB1xIDFvMnTLKI4YdlAb) | 3:30 | 2024-05-05 | 2024-07-31 |
 | [Alpha Omega](https://open.spotify.com/track/4Upj7Dz6tu1HBeIZfziOlE) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 3:55 | 2024-04-23 | 2024-07-28 |
 | [An Honourable Reign](https://open.spotify.com/track/4537kerrZrPCs8HeJ59BiJ) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [The Union of Crowns](https://open.spotify.com/album/5Gevx9epKInDurmIs308XV) | 3:59 | 2024-05-24 | 2024-07-14 |
 | [An Ocean Between Us](https://open.spotify.com/track/2wVY3XAbaIK0Kw2fzpuTSN) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [An Ocean Between Us](https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN) | 4:13 | 2024-05-10 | 2024-07-14 |
 | [Anodyne Sea](https://open.spotify.com/track/5XlgvmakaU9N7IoGabsJyk) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [The Powerless Rise](https://open.spotify.com/album/4vJxMmzmQsm0lvVo8QF6Lk) | 4:34 | 2024-04-23 | 2024-05-16 |
 | [Apologies Are For The Weak](https://open.spotify.com/track/64P6T5X31K9XQn5vtbbHej) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Apologies Are For The Weak](https://open.spotify.com/album/4gWkQbpz5yz9hwOxwlgUhn) | 3:12 | 2024-07-27 | 2024-07-30 |
+| [Back Burner](https://open.spotify.com/track/2Un8Qm3IkkLn6JiBVu7eVO) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Messengers](https://open.spotify.com/album/126EKQMA14uV6nfRBbRYNB) | 3:42 | 2024-07-31 |  |
 | [Baptized In Fire](https://open.spotify.com/track/279oUTTQzoqmNBPbPuNm3d) | [Corpus Christi](https://open.spotify.com/artist/66jyCx26AB2Yqeu8GY8skR) | [The Darker Shades Of White](https://open.spotify.com/album/78F8FoDXoxFVhyfpior32O) | 4:50 | 2024-05-24 | 2024-07-15 |
 | [Basic Hate](https://open.spotify.com/track/2KLLO8a5n7wNlVVPkvGYeo) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Blueprints](https://open.spotify.com/album/49N4elSQN0QVKzwOs0g1M2) | 3:40 | 2024-05-12 | 2024-05-14 |
 | [Become The Catalyst](https://open.spotify.com/track/3Q8HNCQq4NU8dd7qBv6m13) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [The Fall Of Ideals](https://open.spotify.com/album/5LFlBRrSKGrczYQ7avbJ5a) | 3:06 | 2024-06-14 | 2024-06-20 |

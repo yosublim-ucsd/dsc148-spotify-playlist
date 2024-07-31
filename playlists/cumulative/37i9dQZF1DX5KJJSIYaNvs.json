@@ -411,6 +411,24 @@
     },
     {
       "album": {
+        "name": "Aisi Koi Baarish",
+        "url": "https://open.spotify.com/album/6d9sG3ghiBThK3Nh0EkcGq"
+      },
+      "artists": [
+        {
+          "name": "Samira Koppikar",
+          "url": "https://open.spotify.com/artist/4u3Da1oOLaZawlwHqhDV9e"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194249,
+      "name": "Aisi Koi Baarish",
+      "url": "https://open.spotify.com/track/28Xi0hvb1Ejd3K2Yn4JsRF"
+    },
+    {
+      "album": {
         "name": "Angaaron (From \"Pushpa 2 The Rule\") [HINDI]",
         "url": "https://open.spotify.com/album/7i3rOAK3iPA96QAekZeOrh"
       },
@@ -2972,7 +2990,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 272093,
       "name": "Jogii - From \"aura\"",
       "url": "https://open.spotify.com/track/18JgzTj6dPk12W1C8TqBcb"
@@ -5068,7 +5086,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 186954,
       "name": "Nikat (From \"Kill\")",
       "url": "https://open.spotify.com/track/6cQvhkicAtFGbilgMI7Brt"
@@ -5498,6 +5516,32 @@
       "duration_ms": 181895,
       "name": "Parindey",
       "url": "https://open.spotify.com/track/1hB2v1jDsLe9ApvDYJ0twe"
+    },
+    {
+      "album": {
+        "name": "Party Fever",
+        "url": "https://open.spotify.com/album/2qVdGp8BiMtpnPYSAaJGZ8"
+      },
+      "artists": [
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Agni",
+          "url": "https://open.spotify.com/artist/3PPwUrqoLq5PbPq5p1onrZ"
+        },
+        {
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180625,
+      "name": "Party Fever",
+      "url": "https://open.spotify.com/track/2tbzVCoQSiQZ8oEmtdN6hF"
     },
     {
       "album": {

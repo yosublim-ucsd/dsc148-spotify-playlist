@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 403 songs - 1 day 1 hr 44 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 411 songs - 1 day 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -411,5 +411,13 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 401 | [cotton eye joe](https://open.spotify.com/track/13vwUuL2l4XoDKUr42ULLt) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [cotton eye joe](https://open.spotify.com/album/1QhH2QjT3n7WaJ5bSysO8L) | 2:50 |
 | 402 | [At a Moment's Notice](https://open.spotify.com/track/79sWENj1DxZlTsdzn57PnU) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [I Don't Make Me](https://open.spotify.com/album/0BMtMOLzV90U3DUWN868WZ) | 3:51 |
 | 403 | [scars](https://open.spotify.com/track/016z46SJwcRosW9Xb8JKmF) | [Novulent](https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0) | [scars](https://open.spotify.com/album/3nVunTBVbJO5fiCP6YlhuB) | 1:35 |
+| 404 | [I Don't Make Me](https://open.spotify.com/track/5vXifLWca80rlCiGVK9tdA) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Wishful Thinking \(At Its Best\)](https://open.spotify.com/album/3s8ye09tTmZjV0qbT9bloP) | 2:35 |
+| 405 | [Common Sense](https://open.spotify.com/track/0cGI8SEprwbLoCwKaGWGGc) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Wishful Thinking \(At Its Best\)](https://open.spotify.com/album/3s8ye09tTmZjV0qbT9bloP) | 2:56 |
+| 406 | [Obstacles](https://open.spotify.com/track/4WtmAIMcY6LAJuKfeJcRrG) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Wishful Thinking \(At Its Best\)](https://open.spotify.com/album/3s8ye09tTmZjV0qbT9bloP) | 3:26 |
+| 407 | [Modern Day New York](https://open.spotify.com/track/27GH0EfvA1t8IRj9INiYZp) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Wishful Thinking \(At Its Best\)](https://open.spotify.com/album/3s8ye09tTmZjV0qbT9bloP) | 4:14 |
+| 408 | [No, Thanks, Please](https://open.spotify.com/track/7hQmm1cvYYRE734UU494iM) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Wishful Thinking \(At Its Best\)](https://open.spotify.com/album/3s8ye09tTmZjV0qbT9bloP) | 2:41 |
+| 409 | [When I Say This, I Mean It](https://open.spotify.com/track/3KFq4lvB8Jbm5MEkdZmFa7) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Wishful Thinking \(At Its Best\)](https://open.spotify.com/album/3s8ye09tTmZjV0qbT9bloP) | 5:05 |
+| 410 | [You Gave It Your Best](https://open.spotify.com/track/38n6KBVwiV3tvXt3mIOrol) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Wishful Thinking \(At Its Best\)](https://open.spotify.com/album/3s8ye09tTmZjV0qbT9bloP) | 2:56 |
+| 411 | [Television](https://open.spotify.com/track/6VR69242G5jqPCtZLG8fL7) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Wishful Thinking \(At Its Best\)](https://open.spotify.com/album/3s8ye09tTmZjV0qbT9bloP) | 3:13 |
 
-Snapshot ID: `AAAGf3P20tYLOm6115hGcNPwbODRuQ7W`
+Snapshot ID: `AAAGh0e+RdXrE8KXImHlxHnstvq+izlE`

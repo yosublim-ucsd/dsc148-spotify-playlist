@@ -1,12 +1,12 @@
 {
   "description": "Tune into the finest of Tamil Indie music!\nCover : Sai Abhyankkar ",
-  "num_followers": 69930,
+  "num_followers": 69962,
   "original_name": "Tamil Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zqdg5wAAAAAPPs40W6iy5mgEA2pbbQYm",
+  "snapshot_id": "ZqjU0wAAAADyYAS0UMM5eYsl/Pe190MF",
   "tracks": [
     {
       "added_at": "2024-06-13 06:24:42",
@@ -147,6 +147,30 @@
       "duration_ms": 195642,
       "name": "Yaaro - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/32JtlUwj5lO1tJCj6j5glU"
+    },
+    {
+      "added_at": "2024-07-30 11:56:03",
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/3q074oTlvh5FBfOZUhsJFt"
+      },
+      "artists": [
+        {
+          "name": "bebhumika",
+          "url": "https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl"
+        },
+        {
+          "name": "Shalmali Kholgade",
+          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
+        },
+        {
+          "name": "pixl.",
+          "url": "https://open.spotify.com/artist/3Lf8QtJRE01j9Hqyd5bVRC"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/4OFQByHmefFNvNwuEtPkWl"
     },
     {
       "added_at": "2024-01-15 04:19:55",

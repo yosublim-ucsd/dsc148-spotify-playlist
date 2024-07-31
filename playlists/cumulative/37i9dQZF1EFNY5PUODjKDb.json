@@ -4605,6 +4605,44 @@
     },
     {
       "album": {
+        "name": "Aspects Of Love (Original London Cast Recording / Remastered 2005)",
+        "url": "https://open.spotify.com/album/3AhJavqwsQzTyp3PTeeF8l"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Michael Ball",
+          "url": "https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI"
+        },
+        {
+          "name": "Diana Morrison",
+          "url": "https://open.spotify.com/artist/0J6bhvX8y9dL9nihwHxwQo"
+        },
+        {
+          "name": "Kevin Colson",
+          "url": "https://open.spotify.com/artist/4iUtB3w5pCCnkqXn0sYyai"
+        },
+        {
+          "name": "Ann Crumb",
+          "url": "https://open.spotify.com/artist/3EGDTGoU2VeW0s3io8IbhC"
+        },
+        {
+          "name": "David Greer",
+          "url": "https://open.spotify.com/artist/1AGCEwTO3URmNaLxvc7SvR"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285813,
+      "name": "Jenny's Bedroom In Paris - Live",
+      "url": "https://open.spotify.com/track/4HnX9GvdNNF9MiCIXsIRmP"
+    },
+    {
+      "album": {
         "name": "Jesucristo Superstar",
         "url": "https://open.spotify.com/album/4hOZsnQgblAQzJRnDrgN8S"
       },
@@ -5270,7 +5308,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 104306,
       "name": "Lloyd Webber: Married Man",
       "url": "https://open.spotify.com/track/3HfJ7iKIDeQxFaL5gC3Fyy"
@@ -8091,6 +8129,24 @@
     },
     {
       "album": {
+        "name": "Ein Abend mit Karel Gott",
+        "url": "https://open.spotify.com/album/2QEZ8HsC0Xm74U3QlihdJu"
+      },
+      "artists": [
+        {
+          "name": "Karel Gott",
+          "url": "https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204826,
+      "name": "Schau, was Liebe \u00e4ndern kann",
+      "url": "https://open.spotify.com/track/5TPUZkIgpe2ompEItm24cp"
+    },
+    {
+      "album": {
         "name": "Joseph And The Amazing Technicolour Dreamcoat",
         "url": "https://open.spotify.com/album/3nR0NnxPzjTvMDKqFMinzu"
       },
@@ -10582,7 +10638,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-31",
       "duration_ms": 161840,
       "name": "Trying Not To Notice",
       "url": "https://open.spotify.com/track/5uyRZlALljwxziaiQO18mP"

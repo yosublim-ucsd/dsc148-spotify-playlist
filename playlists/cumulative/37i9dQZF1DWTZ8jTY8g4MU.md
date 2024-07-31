@@ -4,7 +4,7 @@
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: بدر العزي
 
-242 songs - 15 hr 52 min
+243 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [باقي الغلا](https://open.spotify.com/track/0JzrYY9zALUisVjhr8OXqJ) | [عمر بن عضيب](https://open.spotify.com/artist/6iOYl5la4To9M54shaGsTe) | [باقي الغلا](https://open.spotify.com/album/4RAx9XITESieu85cWge64C) | 3:05 | 2024-02-01 |  |
 | [بتروح عادي](https://open.spotify.com/track/2GxR28DVvyvL5VX6H45Wa0) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [بتروح عادي](https://open.spotify.com/album/4CFE56Ty8V8uTMwaEDQki7) | 3:16 | 2022-03-30 | 2022-11-02 |
 | [بتروح عادي](https://open.spotify.com/track/5EV02yzvrRIECmP67v53Do) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [بتروح عادي](https://open.spotify.com/album/4RPceVZW72FOh9mo7oXLPB) | 3:16 | 2022-08-31 | 2023-04-06 |
+| [بحر شوقك](https://open.spotify.com/track/7q6ZrmxcbkWbu885KJZurf) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [بحر شوقك](https://open.spotify.com/album/0tfIRDyimes4HjwHz2VEhF) | 3:32 | 2024-07-30 |  |
 | [تجاهلني](https://open.spotify.com/track/6R6zmKXsboLCYQ3hMNJlD4) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz), [عمار الكوفي](https://open.spotify.com/artist/1YN0hBRFU0rGPgvr0aMmHs) | [تجاهلني](https://open.spotify.com/album/5xjGNzBxIQXVliqj7TKoG6) | 2:58 | 2022-08-31 | 2022-11-02 |
 | [تجاهلني](https://open.spotify.com/track/6KGGBeH3rOopzg40XZ6Ser) | [فهد بن فصلا \| عمار الكوفي](https://open.spotify.com/artist/3kOlunmQrCQNixsuyALR7q) | [تجاهلني](https://open.spotify.com/album/3JD3t04qrQnYYq7mwoSS1F) | 2:58 | 2022-08-31 | 2023-04-27 |
 | [تراك العوض](https://open.spotify.com/track/1NqpDQaioRhjoYkAhP1kN0) | [فالح الطوق](https://open.spotify.com/artist/5Qt6zyL5RYskgj1bH9fK6g) | [تراك العوض](https://open.spotify.com/album/6tYwCVVVHWa65FXg8Z0ro1) | 3:29 | 2023-09-01 | 2024-01-04 |

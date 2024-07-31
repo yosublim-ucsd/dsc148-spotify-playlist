@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Jaziel Avilez y Gerardo Ortiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 665,194 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 665,286 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 12 | [Gallo Jugado](https://open.spotify.com/track/2Gsf7CIYK2NlGxuI4oFuuK) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Gallo Jugado](https://open.spotify.com/album/0fKc963dUVq6ZGdvIuQUxY) | 2:53 |
 | 13 | [Mazatlán Yo Te Vi](https://open.spotify.com/track/2sQqTJ8KJEpEkQqaaKcggH) | [Los Caliz](https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Mazatlán Yo Te Vi](https://open.spotify.com/album/2hfo1ZRNOb8q4EDodxt9Nr) | 2:33 |
 | 14 | [No Soy lo Que Ven](https://open.spotify.com/track/54BBKByRpMjh2UjrjGqFBE) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [No Soy lo Que Ven](https://open.spotify.com/album/4zx7eM6D3nfLSFycQwxuiy) | 2:54 |
-| 15 | [Modo Avión](https://open.spotify.com/track/1ryYSuGQPSdXMVHV14oXgY) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Modo Avión](https://open.spotify.com/album/5DtCz9uK1UUeNjpjmixtZo) | 2:55 |
+| 15 | [Modo Avión](https://open.spotify.com/track/1ryYSuGQPSdXMVHV14oXgY) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Modo Avión](https://open.spotify.com/album/5DtCz9uK1UUeNjpjmixtZo) | 2:57 |
 | 16 | [Porque La Demora](https://open.spotify.com/track/35NLjcLkYA5UZUaPKkhTnC) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Porque La Demora](https://open.spotify.com/album/6zUt368NvVDSN4UCMvGlv7) | 2:49 |
 | 17 | [Se Pintan Solos](https://open.spotify.com/track/7hIJCwoNsjD4GxJmVJZp4q) | [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG) | [Se Pintan Solos](https://open.spotify.com/album/16hX4kdaaLGlVsdPDMH7bW) | 3:20 |
 | 18 | [Van y Vienen](https://open.spotify.com/track/4gsfGbwx8F4p0Ob7XkoRTN) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Los Archivos](https://open.spotify.com/album/4jE5oGRkiVBQJKJQuAY3q4) | 3:38 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 33 | [Vida de Rey](https://open.spotify.com/track/3edsVTx431VcsgNdGV2p1T) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF), [Leonel el Ranchero](https://open.spotify.com/artist/1DN5Y1Kdhvz5LCWe5n61p6) | [Vida de Rey](https://open.spotify.com/album/5J4JPaJLcyg8mgooBvW9XW) | 4:02 |
 | 34 | [Tan Sensual](https://open.spotify.com/track/7yvhrqpYUxRRsDR13kViYx) | [Uriel AR](https://open.spotify.com/artist/1YqbztCgjTZ6GcrQ6cDI3K) | [Tan Sensual](https://open.spotify.com/album/0xb7mU6F7EyMMtPbjLQUIM) | 3:23 |
 | 35 | [De La S Pal Desierto](https://open.spotify.com/track/5kImjZh0B48gVlmqJd1Pk2) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3) | [De La S Pal Desierto](https://open.spotify.com/album/4ZzGCjTk1XGRZTtXfHZjhI) | 3:11 |
-| 36 | [Los Cumbiambera Del Ghetto](https://open.spotify.com/track/3rivjw4cIp0EbsYm1EFsl0) | [Ratchetón](https://open.spotify.com/artist/3KtoMerxi4LwxzYytFbgx5), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ), [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk) | [Los Cumbiambera Del Ghetto](https://open.spotify.com/album/0sFrz1w5QdpDD7MWOLCqoy) | 2:18 |
+| 36 | [La Cumbiambera Del Ghetto](https://open.spotify.com/track/3rivjw4cIp0EbsYm1EFsl0) | [Ratchetón](https://open.spotify.com/artist/3KtoMerxi4LwxzYytFbgx5), [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ) | [La Cumbiambera Del Ghetto](https://open.spotify.com/album/0sFrz1w5QdpDD7MWOLCqoy) | 2:18 |
 | 37 | [Buena Suerte](https://open.spotify.com/track/5vSUDGmWkJjGhrUaI3ntpJ) | [Galvancillo](https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV) | [Buena Suerte](https://open.spotify.com/album/1MMrKGyyOpVAfYrvRrRN6p) | 2:36 |
 | 38 | [Golpe De Suerte](https://open.spotify.com/track/5hppYWhKXeTmKQttrFalDU) | [Grupo Fernandez](https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik), [Grupo El Sistema](https://open.spotify.com/artist/1ZsO0mRu281l2t1eM7Arik) | [Golpe De Suerte](https://open.spotify.com/album/2TWWn7bcxfBwL3Kc8OCCvU) | 2:55 |
 | 39 | [Moviendo Nieve](https://open.spotify.com/track/4r0dF9ejuVfwAGtJ0F5puj) | [Los de la Treinta](https://open.spotify.com/artist/1xH6LRIaMe9dMjg72jcaLw), [El Flako](https://open.spotify.com/artist/1eQ6mMfISnp987IhbwUlEh), [Jesus Payan e Imparables](https://open.spotify.com/artist/7y24WJ50nXUe8p8P4doUup) | [Moviendo Nieve](https://open.spotify.com/album/1p4U0wBBfSr04dBUGRWTVA) | 3:31 |

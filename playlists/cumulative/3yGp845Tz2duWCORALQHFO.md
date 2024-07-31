@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-596 songs - 1 day 8 hr 15 min
+597 songs - 1 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Keep Moving](https://open.spotify.com/track/3yumhQpNemHHC26Q5MAjaR) | [Mark & Marcus](https://open.spotify.com/artist/26WRHtbVQPtq61fBjYDg3z) | [Keep Moving](https://open.spotify.com/album/33pxaLKjZ0NjclpXQMTSru) | 3:04 | 2024-05-31 | 2024-06-08 |
 | [Keep Running](https://open.spotify.com/track/0Qdrt4scL06gfBy2jNnXqB) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [Keep Running](https://open.spotify.com/album/10H11duJcDXKqFA6qZs0ri) | 3:30 | 2024-05-17 | 2024-05-25 |
 | [Kill The Vibe](https://open.spotify.com/track/4Mw1vqYfDWL2d8dJLWFYQp) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [Kill The Vibe](https://open.spotify.com/album/3RajPAonNivFPajGSnsh42) | 2:46 | 2024-05-30 | 2024-06-08 |
+| [King Of My City](https://open.spotify.com/track/0JTzJptbgYblebDNwtUmHI) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [King Of My City](https://open.spotify.com/album/0es88FJMP1T7cCYTUtQrBd) | 2:48 | 2024-07-30 |  |
 | [Kiss From A Rose](https://open.spotify.com/track/5LNFAjkC0DhgUfiQcKHrX4) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1), [Walter Phillips](https://open.spotify.com/artist/59WleqeZMvAUVl6ROkjahJ) | [Kiss From A Rose](https://open.spotify.com/album/7hWYQeuLz8pL88CqfFLroi) | 2:35 | 2024-06-28 | 2024-07-06 |
 | [Kitsune Maison Freestyle](https://open.spotify.com/track/6n8VUJwJoANGLHfWf38gJv) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Kitsune Maison Freestyle](https://open.spotify.com/album/3RR6dCCUou6EdHrHVOQV1r) | 3:54 | 2024-07-19 | 2024-07-27 |
 | [Kungfoo](https://open.spotify.com/track/2vTB9PNWru7AHfQL9kE6mg) | [Aryue](https://open.spotify.com/artist/2lna8m2wZ99CFigsSOAqcb), [Nick Havsen](https://open.spotify.com/artist/1MISHmlS06R8ba7RVsn0A3) | [Kungfoo](https://open.spotify.com/album/4dvHW92u75Bzpql7k2IZ8V) | 2:12 | 2024-07-05 | 2024-07-12 |

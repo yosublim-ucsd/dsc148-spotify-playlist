@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 66 | [Meu Tudo em Um \- Ao Vivo](https://open.spotify.com/track/6TqNnUzRyR3qbms7iv4r8e) | [Thiago Martins](https://open.spotify.com/artist/6YC7cpdxB25jOfSXC8JQCd) | [7550 Dias \(Ao Vivo\)](https://open.spotify.com/album/4h8Xr4AE0gZWazLvT2liCn) | 2:39 |
 | 67 | [Eu Nunca \- Ao Vivo](https://open.spotify.com/track/1Z5iFSUX9zbuGKhwC6QwjV) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W) | [Equilíbrio \(Ao Vivo\)](https://open.spotify.com/album/5oFcg58VXbLAvFFHEy4hd4) | 2:52 |
 | 68 | [Tem Que Ter Você \- Ao Vivo](https://open.spotify.com/track/4kGsTk6pmppL1k0HYq4a5H) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Ao Vivo Em São Paulo \- Deluxe](https://open.spotify.com/album/4yqE9BgU3r6tMfR3cVhwEw) | 3:18 |
-| 69 | [Ar Condicionado no 15](https://open.spotify.com/track/3dZw9O0EtGveuwRZv1yYqM) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [As Melhores](https://open.spotify.com/album/2DtXt6a4mvrtcGMj56c0H4) | 2:47 |
+| 69 | [Ar Condicionado no 15](https://open.spotify.com/track/3dZw9O0EtGveuwRZv1yYqM) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [As Melhores \(Ao Vivo\)](https://open.spotify.com/album/2DtXt6a4mvrtcGMj56c0H4) | 2:47 |
 | 70 | [Por Mim Eu Te Deixava Agora \- Ao Vivo](https://open.spotify.com/track/3Z9YJd5bdrxRVWWFDcFOPW) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [\#Trintou \(Ao Vivo\)](https://open.spotify.com/album/6C8HEltnMup1vEJf7sOZEg) | 2:34 |
 | 71 | [Aí Você Chegou \- Ao Vivo](https://open.spotify.com/track/2CnbBhqGAzvPTBxm95pYLx) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose Ao Vivo](https://open.spotify.com/album/52rIL56BICJZfbDlDZBCci) | 2:41 |
 | 72 | [Todo Santo Dia \- Ao Vivo em Brasília](https://open.spotify.com/track/6oawWaoP5QKnmWfsmnDGfh) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Diego & Victor Hugo Ao Vivo em Brasília](https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7) | 3:01 |
@@ -364,4 +364,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 354 | [A Mala](https://open.spotify.com/track/63c83YDpAv9lNMki7WxpvD) | [Banda Os3](https://open.spotify.com/artist/11h78bXFcmu3cQrNsRSulG) | [A Mala](https://open.spotify.com/album/4g6F3WuVRHQVHQSKaDxVmK) | 2:44 |
 | 355 | [Ciúme Doido](https://open.spotify.com/track/02ci6a7onTK8CT6NEn6XoY) | [Caúzzo](https://open.spotify.com/artist/7ITxrki6AXPCK5mnUSTs1O) | [Ciúme Doido](https://open.spotify.com/album/3fA6Nv5mzfzGc9hcESbkh6) | 2:57 |
 
-Snapshot ID: `AbYBfgAAAABnFu6AriAq6vJd4Q8de+G+`
+Snapshot ID: `AbYG4gAAAAB8bXIMaXtnEdDqPCaScRAG`

@@ -125,6 +125,28 @@
     },
     {
       "album": {
+        "name": "Raayan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6cqYgHZhpSKKb7xUuxJCAr"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249027,
+      "name": "Adangaatha Asuran",
+      "url": "https://open.spotify.com/track/1JKjaWrHqLRu47B9o5qpay"
+    },
+    {
+      "album": {
         "name": "Adangaatha Asuran (From \"Raayan\")",
         "url": "https://open.spotify.com/album/6gcIDhQn4z8318osjgVNME"
       },

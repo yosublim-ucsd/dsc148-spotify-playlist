@@ -2,7 +2,7 @@
 
 ### [This Is Little Jesus](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3b6YN5)
 
-> This is Little Jesus\. The essential tracks, all in one playlist.
+> This is Little Jesus。アーティストの代表曲をひとつのプレイリストに。
 
 47 songs - 3 hr 12 min
 

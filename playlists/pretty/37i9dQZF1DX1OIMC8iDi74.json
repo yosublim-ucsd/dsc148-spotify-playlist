@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap. Cover: Control Freak",
-  "num_followers": 889096,
+  "num_followers": 888429,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Dhunga",
-        "url": "https://open.spotify.com/album/1YFhDt1XvJHuk8eN3dyaaY"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Toxic Rob",
-          "url": "https://open.spotify.com/artist/2xVWDstqnCMt8lKP8VXpzc"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "Dhunga",
-      "url": "https://open.spotify.com/track/14CuAxOwFn2346hrXXx5Cj"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Cyanide",
         "url": "https://open.spotify.com/album/0PjSvHusBgifniYJcyBsBp"
       },
@@ -1771,22 +1751,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Tidal Memory Exo",
-        "url": "https://open.spotify.com/album/7CQp27clxVYy6Ou6jXht6g"
-      },
-      "artists": [
-        {
-          "name": "Iglooghost",
-          "url": "https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB"
-        }
-      ],
-      "duration_ms": 194415,
-      "name": "Pulse Angel",
-      "url": "https://open.spotify.com/track/1MJNPfHWMenmtuGPCMhx8L"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "ORIGINAL STEPPA",
         "url": "https://open.spotify.com/album/4atLTvYvrVroGsB8qwiBrc"
       },
@@ -1807,6 +1771,42 @@
       "duration_ms": 126000,
       "name": "ORIGINAL STEPPA",
       "url": "https://open.spotify.com/track/55ucCWk6NNfQBDDEiVvBIQ"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Tidal Memory Exo",
+        "url": "https://open.spotify.com/album/7CQp27clxVYy6Ou6jXht6g"
+      },
+      "artists": [
+        {
+          "name": "Iglooghost",
+          "url": "https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB"
+        }
+      ],
+      "duration_ms": 194415,
+      "name": "Pulse Angel",
+      "url": "https://open.spotify.com/track/1MJNPfHWMenmtuGPCMhx8L"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Dhunga",
+        "url": "https://open.spotify.com/album/1YFhDt1XvJHuk8eN3dyaaY"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Toxic Rob",
+          "url": "https://open.spotify.com/artist/2xVWDstqnCMt8lKP8VXpzc"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "Dhunga",
+      "url": "https://open.spotify.com/track/14CuAxOwFn2346hrXXx5Cj"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1847,30 +1847,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "For The Love Of Bounce",
-        "url": "https://open.spotify.com/album/0JVygXqxUp7sIyDrFDiRvB"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "UK Ting",
-      "url": "https://open.spotify.com/track/3PuTUAsUTR7D3PnYtW1yj4"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "In The Sky",
         "url": "https://open.spotify.com/album/0JHdqE1akiFDDTcWM7oJAw"
       },
@@ -1883,26 +1859,6 @@
       "duration_ms": 233142,
       "name": "In The Sky",
       "url": "https://open.spotify.com/track/3Z0aVXkpXQhpYosTStTu4t"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Buckshots",
-        "url": "https://open.spotify.com/album/7mKDEqYo9CuJaN8S2vrwn5"
-      },
-      "artists": [
-        {
-          "name": "GorillaT",
-          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
-        },
-        {
-          "name": "Hostage Situation",
-          "url": "https://open.spotify.com/artist/1UnA09CtdmT16mvmzbXnON"
-        }
-      ],
-      "duration_ms": 161797,
-      "name": "Buckshots",
-      "url": "https://open.spotify.com/track/2kyAeu0jE7sKArUWSQRFbH"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1923,6 +1879,42 @@
       "duration_ms": 157637,
       "name": "DYSPHORIA",
       "url": "https://open.spotify.com/track/23DEUXkuHskvqvM1j5VrGa"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/0WtFIQsJ2ooIj5gR2lzxzL"
+      },
+      "artists": [
+        {
+          "name": "sumthin sumthin",
+          "url": "https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm"
+        }
+      ],
+      "duration_ms": 200571,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/5XJeq3Et1eL0paiOhnxCpc"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Buckshots",
+        "url": "https://open.spotify.com/album/7mKDEqYo9CuJaN8S2vrwn5"
+      },
+      "artists": [
+        {
+          "name": "GorillaT",
+          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
+        },
+        {
+          "name": "Hostage Situation",
+          "url": "https://open.spotify.com/artist/1UnA09CtdmT16mvmzbXnON"
+        }
+      ],
+      "duration_ms": 161797,
+      "name": "Buckshots",
+      "url": "https://open.spotify.com/track/2kyAeu0jE7sKArUWSQRFbH"
     }
   ],
   "unique_name": "Trap Mojito",
