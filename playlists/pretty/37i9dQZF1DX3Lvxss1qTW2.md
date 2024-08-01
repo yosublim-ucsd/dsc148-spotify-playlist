@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. <br/>Cover:  Llona
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,787 likes - 79 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,820 likes - 79 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

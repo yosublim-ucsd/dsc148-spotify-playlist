@@ -1171,6 +1171,32 @@
     },
     {
       "album": {
+        "name": "Diamond Ni",
+        "url": "https://open.spotify.com/album/6wKaSU621x7uBILAM1s52O"
+      },
+      "artists": [
+        {
+          "name": "Jigar Saraiya",
+          "url": "https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op"
+        },
+        {
+          "name": "Aditya Gadhvi",
+          "url": "https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW"
+        },
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192900,
+      "name": "Diamond Ni",
+      "url": "https://open.spotify.com/track/65KnUdLcbq2D8Ko9NtEGpW"
+    },
+    {
+      "album": {
         "name": "Gadar 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Oxg8wfDhPIrEBM9Yz7ilI"
       },

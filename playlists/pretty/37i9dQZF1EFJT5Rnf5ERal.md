@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,447 likes - 259 songs - 12 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,445 likes - 259 songs - 12 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,8 +153,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 143 | [CAUTIOUS \(feat\. Tay Keith\)](https://open.spotify.com/track/1M7uameaPY3xlxMde3WLFl) | [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Gutta Baby](https://open.spotify.com/album/2sGx2Tx6PtiBlC7LGO8qNz) | 2:42 |
 | 144 | [No Chorus Pt\. 10](https://open.spotify.com/track/0OGTaYJGsB7yj14sp40dNi) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Who Am I 3](https://open.spotify.com/album/5vCT8VY0nSeLUZge8NRVMZ) | 3:05 |
 | 145 | [Batman](https://open.spotify.com/track/4nt3Zn8CqmVTEVQuYToMqy) | [Ugly God](https://open.spotify.com/artist/3Fdm9TFJQCLmC3AWMuGExi) | [Bumps & Bruises \(Deluxe\)](https://open.spotify.com/album/4jrtlSzTql4HkG8e4LVGyo) | 2:53 |
-| 146 | [City On Lock](https://open.spotify.com/track/6DDNOwpA8MHEylWVQdyVFq) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 2:18 |
-| 147 | [Big Mama](https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky) | 2:54 |
+| 146 | [Big Mama](https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky) | 2:54 |
+| 147 | [City On Lock](https://open.spotify.com/track/6DDNOwpA8MHEylWVQdyVFq) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 2:18 |
 | 148 | [Nike Swoosh \(feat\. YG\)](https://open.spotify.com/track/36Sw1oAj6mI17Ro5NShpXS) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Simi](https://open.spotify.com/album/6NrsgXTJ3x2RRR8b0v2M7S) | 2:31 |
 | 149 | [Smoke \(with EST Gee\)](https://open.spotify.com/track/1jr4IuubT6GD9KpkNFcKcn) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bacc 2 Da Bloc](https://open.spotify.com/album/2ItyhC5YTQMXGLb6OmZljr) | 2:08 |
 | 150 | [Winter](https://open.spotify.com/track/7iLsC6yFhe6Bw68HFhtYB2) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Winter](https://open.spotify.com/album/0UP6JBzXhj0nGzWNmwkRpl) | 3:32 |
@@ -268,4 +268,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 258 | [Drill Back \(with Tay Keith & Anti Da Menace\)](https://open.spotify.com/track/2P28cEFfp6mlS8kscFfIVQ) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:12 |
 | 259 | [That’s Him \(with Tay Keith\)](https://open.spotify.com/track/6PpLYEioOcGe67driLklfo) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:45 |
 
-Snapshot ID: `AbYG7AAAAADOLHbSiyi3cHCdLnC+K5mn`
+Snapshot ID: `AbYMyQAAAABO38Jc14w5vyc5yt705L67`

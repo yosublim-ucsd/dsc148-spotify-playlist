@@ -1,6 +1,6 @@
 {
   "description": "House music lives here. United under one roof, featuring Gordo",
-  "num_followers": 1935434,
+  "num_followers": 1935023,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
@@ -839,30 +839,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
-        "url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 216979,
-      "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
-      "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7"
       },
@@ -883,6 +859,30 @@
       "duration_ms": 178935,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
+        "url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "duration_ms": 216979,
+      "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
+      "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 134846,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Amana",
         "url": "https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN"
       },
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 134846,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "On Again",
         "url": "https://open.spotify.com/album/7nvs25pVNGNgouWAm1Kb86"
       },
@@ -1267,26 +1267,6 @@
       "duration_ms": 228000,
       "name": "On Again",
       "url": "https://open.spotify.com/track/5vASuVQkngtFoCOczem52V"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "More Baby",
-        "url": "https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 175856,
-      "name": "More Baby",
-      "url": "https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1307,6 +1287,26 @@
       "duration_ms": 170008,
       "name": "Blue Berries",
       "url": "https://open.spotify.com/track/7M4GUQ0CZU5A9CO2hkadG4"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "More Baby",
+        "url": "https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 175856,
+      "name": "More Baby",
+      "url": "https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1707,6 +1707,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Things We Do",
+        "url": "https://open.spotify.com/album/5krTXg5iqcn8FAUu14Yv0N"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        },
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        }
+      ],
+      "duration_ms": 184218,
+      "name": "Things We Do",
+      "url": "https://open.spotify.com/track/11COdwDnYW7vFzYABuv407"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Hey Boy Hey Girl (ARTBAT Remix)",
         "url": "https://open.spotify.com/album/5iPUTw7ZqnL3X53FdUVWmz"
       },
@@ -1763,26 +1783,6 @@
       "duration_ms": 174330,
       "name": "Can't Play Myself (A Tribute To Amy)",
       "url": "https://open.spotify.com/track/6GrLwf1LdBCmkBOsmOcbPp"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Things We Do",
-        "url": "https://open.spotify.com/album/5krTXg5iqcn8FAUu14Yv0N"
-      },
-      "artists": [
-        {
-          "name": "Jengi",
-          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
-        },
-        {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
-        }
-      ],
-      "duration_ms": 184218,
-      "name": "Things We Do",
-      "url": "https://open.spotify.com/track/11COdwDnYW7vFzYABuv407"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1931,26 +1931,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Biggest Regret (feat. Bbyafricka)",
-        "url": "https://open.spotify.com/album/665xiVHsc2ocmkIN5xBynI"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "Bbyafricka",
-          "url": "https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W"
-        }
-      ],
-      "duration_ms": 230613,
-      "name": "Biggest Regret (feat. Bbyafricka)",
-      "url": "https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "See You Sweat",
         "url": "https://open.spotify.com/album/4AUlxBbuEVzK645RFnaD4i"
       },
@@ -1967,6 +1947,46 @@
       "duration_ms": 209280,
       "name": "See You Sweat",
       "url": "https://open.spotify.com/track/0sC4CNFI8FdKJUDuYPdDiw"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Feel My Needs",
+        "url": "https://open.spotify.com/album/4611D7Vc8zCLn49NiKqpjn"
+      },
+      "artists": [
+        {
+          "name": "WEISS",
+          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
+        },
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Feel My Needs",
+      "url": "https://open.spotify.com/track/38D7JeZb1SZfzZo6wGJGae"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Biggest Regret (feat. Bbyafricka)",
+        "url": "https://open.spotify.com/album/665xiVHsc2ocmkIN5xBynI"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Bbyafricka",
+          "url": "https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W"
+        }
+      ],
+      "duration_ms": 230613,
+      "name": "Biggest Regret (feat. Bbyafricka)",
+      "url": "https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2003,26 +2023,6 @@
       "duration_ms": 212538,
       "name": "Find A Way",
       "url": "https://open.spotify.com/track/51ehuSdtKvrsBGNWLOfQWE"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Feel My Needs",
-        "url": "https://open.spotify.com/album/4611D7Vc8zCLn49NiKqpjn"
-      },
-      "artists": [
-        {
-          "name": "WEISS",
-          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
-        },
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Feel My Needs",
-      "url": "https://open.spotify.com/track/38D7JeZb1SZfzZo6wGJGae"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2167,6 +2167,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Bonito",
+        "url": "https://open.spotify.com/album/0GRAvBOREScwdewiySp05v"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "duration_ms": 195365,
+      "name": "Bonito",
+      "url": "https://open.spotify.com/track/0HGX3Sk2Wp4ibJDyW9hvdY"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Role Model",
         "url": "https://open.spotify.com/album/3sxeCXtywWoYIcpGj5aGKm"
       },
@@ -2187,22 +2203,6 @@
       "duration_ms": 206000,
       "name": "Role Model",
       "url": "https://open.spotify.com/track/5CSfhQ8ql3ofBE8PsQnQfR"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Bonito",
-        "url": "https://open.spotify.com/album/0GRAvBOREScwdewiySp05v"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        }
-      ],
-      "duration_ms": 195365,
-      "name": "Bonito",
-      "url": "https://open.spotify.com/track/0HGX3Sk2Wp4ibJDyW9hvdY"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Lift You Up",
-        "url": "https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 133234,
-      "name": "Lift You Up",
-      "url": "https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Hella Good",
         "url": "https://open.spotify.com/album/7r5MlpWk6gQ2fCRDWjUIzn"
       },
@@ -2431,6 +2415,50 @@
       "duration_ms": 175757,
       "name": "Hella Good",
       "url": "https://open.spotify.com/track/1ck6fXDzbKiWKCVSfqxsUB"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Lift You Up",
+        "url": "https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 133234,
+      "name": "Lift You Up",
+      "url": "https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Richa",
+        "url": "https://open.spotify.com/album/0eVRLEB9kzWxWbQPNzprnu"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        },
+        {
+          "name": "Avi Snow",
+          "url": "https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        },
+        {
+          "name": "Tamir Regev",
+          "url": "https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk"
+        }
+      ],
+      "duration_ms": 242540,
+      "name": "Richa",
+      "url": "https://open.spotify.com/track/0tNhC1gTRuLH000EDfMEYf"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2475,26 +2503,6 @@
       "duration_ms": 156022,
       "name": "Stay Together (Baby Baby) [feat. Vula]",
       "url": "https://open.spotify.com/track/5Wwrj8E4h3bJQjOvzpPg9T"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "I Am The One",
-        "url": "https://open.spotify.com/album/6EigqdKdQ2B8bxnJrIGLN9"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        },
-        {
-          "name": "TOBEHONEST",
-          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
-        }
-      ],
-      "duration_ms": 200624,
-      "name": "I Am The One",
-      "url": "https://open.spotify.com/track/6c6aGOsp8aME26mlghPuBd"
     }
   ],
   "unique_name": "Housewerk",

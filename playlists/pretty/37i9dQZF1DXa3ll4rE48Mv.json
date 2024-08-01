@@ -1,6 +1,6 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Bikini Kill",
-  "num_followers": 195926,
+  "num_followers": 195959,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Stupid Rich Boy",
-        "url": "https://open.spotify.com/album/4nm42ZsRXme9nzR2bLvb3e"
-      },
-      "artists": [
-        {
-          "name": "Froggy",
-          "url": "https://open.spotify.com/artist/7xzT4aBGEZvQJKZWbhTxyt"
-        }
-      ],
-      "duration_ms": 263546,
-      "name": "Stupid Rich Boy",
-      "url": "https://open.spotify.com/track/62iqRRViLrPJgm2IFf3bI5"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Space Armadillo",
         "url": "https://open.spotify.com/album/1kmqlVDVxcMG4L5xXniZD2"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Dream Nails",
-        "url": "https://open.spotify.com/album/6QXxOZNDngKIYagFOLC9uc"
+        "name": "Stupid Rich Boy",
+        "url": "https://open.spotify.com/album/4nm42ZsRXme9nzR2bLvb3e"
       },
       "artists": [
         {
-          "name": "Dream Nails",
-          "url": "https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB"
+          "name": "Froggy",
+          "url": "https://open.spotify.com/artist/7xzT4aBGEZvQJKZWbhTxyt"
         }
       ],
-      "duration_ms": 159308,
-      "name": "Jillian",
-      "url": "https://open.spotify.com/track/0lhxZB33L7xpd0HzlpEyBa"
+      "duration_ms": 263546,
+      "name": "Stupid Rich Boy",
+      "url": "https://open.spotify.com/track/62iqRRViLrPJgm2IFf3bI5"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -999,6 +983,22 @@
       "duration_ms": 224440,
       "name": "Mackerel's Funky Mission",
       "url": "https://open.spotify.com/track/40vNItT9RcL9FOD9M2p6wb"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Dream Nails",
+        "url": "https://open.spotify.com/album/6QXxOZNDngKIYagFOLC9uc"
+      },
+      "artists": [
+        {
+          "name": "Dream Nails",
+          "url": "https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB"
+        }
+      ],
+      "duration_ms": 159308,
+      "name": "Jillian",
+      "url": "https://open.spotify.com/track/0lhxZB33L7xpd0HzlpEyBa"
     },
     {
       "added_at": "2024-05-22 11:00:00",

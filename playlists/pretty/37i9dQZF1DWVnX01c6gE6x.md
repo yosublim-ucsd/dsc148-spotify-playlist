@@ -2,23 +2,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 
 ### [RADAR Podcasters México](https://open.spotify.com/playlist/37i9dQZF1DWVnX01c6gE6x)
 
-> Podcasts que necesitas tener en el RADAR\. En la portada: <a href="https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf?si=6a965904f3154f5c">Chisme Corporativo</a>
+> Podcasts que necesitas tener en el RADAR\. En la portada: <a href="https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ?si=aee7681de4dd411e">Casos de la Risa Real</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,856 likes - 12 songs - 14 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,860 likes - 12 songs - 14 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [15\. NETFLIX: Innovación, Supervivencia y Éxito](https://open.spotify.com/episode/4k77uaFBqWvSZTvpzXIm6T) | [Chisme Corporativo](https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf) | [Chisme Corporativo](https://open.spotify.com/album/4zeEGCXH4Au4WdokuRvJHf) | 1:07:23 |
-| 2 | [Episodio 096 / Quejitas dosmileras](https://open.spotify.com/episode/7y890MjTLIv5LymrE3T7yT) | [Buzón de quejas](https://open.spotify.com/show/08gpvHpEXuLEI9mqoIfDPa) | [Buzón de quejas](https://open.spotify.com/album/08gpvHpEXuLEI9mqoIfDPa) | 1:05:50 |
-| 3 | [Capítulo 17: Cruda](https://open.spotify.com/episode/60s6JaajXpdIAumKX9dwjW) | [Casos de la Risa Real](https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ) | [Casos de la Risa Real](https://open.spotify.com/album/1oqmfEuvybQ41YrSbPgEhZ) | 1:03:20 |
-| 4 | [T3 I EP.2 I RETOS I FT\. TEO ](https://open.spotify.com/episode/6GzweweyNX4mwBLcd3salZ) | [Lclub Podcast](https://open.spotify.com/show/1NR8RVbhxvIz5BPILejfVZ) | [Lclub Podcast](https://open.spotify.com/album/1NR8RVbhxvIz5BPILejfVZ) | 1:17:35 |
-| 5 | [Practicas Paranormales y Mi Experiencia con el Catolicismo Ft Mariana Maus](https://open.spotify.com/episode/6kFZV8QvIW750mUbYRftSc) | [Se Regalan Sustos](https://open.spotify.com/show/3oHILWpLvqwNMCFDLI6kTb) | [Se Regalan Sustos](https://open.spotify.com/album/3oHILWpLvqwNMCFDLI6kTb) | 1:22:21 |
-| 6 | [OVULANDO Y PELIGRANDO](https://open.spotify.com/episode/5JxLBlw6oVhRUSOEP8TBNe) | [LAS BOTARGAS PODCAST](https://open.spotify.com/show/0rvDGNVn0DW9borbedX88t) | [LAS BOTARGAS PODCAST](https://open.spotify.com/album/0rvDGNVn0DW9borbedX88t) | 1:19:13 |
-| 7 | [14\. OnlyFans: La revolución del contenido XXX](https://open.spotify.com/episode/47ZDLi2R623z0wNMaa5twZ) | [Chisme Corporativo](https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf) | [Chisme Corporativo](https://open.spotify.com/album/4zeEGCXH4Au4WdokuRvJHf) | 1:12:15 |
-| 8 | [Episodio 097 / Embrujé a mi pareja](https://open.spotify.com/episode/0qAWa06rBOlExTGtsDzZrM) | [Buzón de quejas](https://open.spotify.com/show/08gpvHpEXuLEI9mqoIfDPa) | [Buzón de quejas](https://open.spotify.com/album/08gpvHpEXuLEI9mqoIfDPa) | 1:06:30 |
-| 9 | [Capítulo 16: Fantasmas en escuelas](https://open.spotify.com/episode/7f43c6gsbvdKP1iTCtwUJ4) | [Casos de la Risa Real](https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ) | [Casos de la Risa Real](https://open.spotify.com/album/1oqmfEuvybQ41YrSbPgEhZ) | 1:09:35 |
-| 10 | [T3 I EP.3 I LO JAMÁS CONTADO](https://open.spotify.com/episode/3jkAmmA86Ibl8LVqSDMVyi) | [Lclub Podcast](https://open.spotify.com/show/1NR8RVbhxvIz5BPILejfVZ) | [Lclub Podcast](https://open.spotify.com/album/1NR8RVbhxvIz5BPILejfVZ) | 1:10:06 |
-| 11 | [Los Papás más Siniestros de la Internet \| Especial Día del Padre](https://open.spotify.com/episode/6yKXiLUiydYQmVdcOhvT6P) | [Se Regalan Sustos](https://open.spotify.com/show/3oHILWpLvqwNMCFDLI6kTb) | [Se Regalan Sustos](https://open.spotify.com/album/3oHILWpLvqwNMCFDLI6kTb) | 1:31:27 |
-| 12 | [ROMPIENDO MOLDES](https://open.spotify.com/episode/0NcofAbWfRkRkPMovCmaH1) | [LAS BOTARGAS PODCAST](https://open.spotify.com/show/0rvDGNVn0DW9borbedX88t) | [LAS BOTARGAS PODCAST](https://open.spotify.com/album/0rvDGNVn0DW9borbedX88t) | 1:02:44 |
+| 1 | [Capítulo 21: Zoológicos](https://open.spotify.com/episode/7jLwJUwlqQdfsnv2NWKyGp) | [Casos de la Risa Real](https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ) | [Casos de la Risa Real](https://open.spotify.com/album/1oqmfEuvybQ41YrSbPgEhZ) | 1:13:45 |
+| 2 | [Episodio 106 / Quejitas de hacer el super](https://open.spotify.com/episode/5fRMYaAZAPzikhv8ZEp9NX) | [Buzón de quejas](https://open.spotify.com/show/08gpvHpEXuLEI9mqoIfDPa) | [Buzón de quejas](https://open.spotify.com/album/08gpvHpEXuLEI9mqoIfDPa) | 1:12:20 |
+| 3 | [Amarres de brujería y maldiciones de parejas ](https://open.spotify.com/episode/613uB61F6Iuh0gBPtQzjc6) | [Se Regalan Sustos](https://open.spotify.com/show/3oHILWpLvqwNMCFDLI6kTb) | [Se Regalan Sustos](https://open.spotify.com/album/3oHILWpLvqwNMCFDLI6kTb) | 1:00:56 |
+| 4 | [T3 I EP.7 I ADRENALINA I FT\. MANUNA](https://open.spotify.com/episode/2ItamVRgjNKfGkcncpFSsg) | [Lclub Podcast](https://open.spotify.com/show/1NR8RVbhxvIz5BPILejfVZ) | [Lclub Podcast](https://open.spotify.com/album/1NR8RVbhxvIz5BPILejfVZ) | 59:15 |
+| 5 | [19\. Airbnb: El crecimiento imparable de la compañía de alojamiento más grande del mundo](https://open.spotify.com/episode/0vxqB3OihNVJMPIhROiEwV) | [Chisme Corporativo](https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf) | [Chisme Corporativo](https://open.spotify.com/album/4zeEGCXH4Au4WdokuRvJHf) | 1:29:21 |
+| 6 | [ROMPIENDO MOLDES](https://open.spotify.com/episode/0NcofAbWfRkRkPMovCmaH1) | [LAS BOTARGAS PODCAST](https://open.spotify.com/show/0rvDGNVn0DW9borbedX88t) | [LAS BOTARGAS PODCAST](https://open.spotify.com/album/0rvDGNVn0DW9borbedX88t) | 1:02:44 |
+| 7 | [Capítulo 20: Asaltos](https://open.spotify.com/episode/2BoJYQUWLZ3VcoSWFsAg5I) | [Casos de la Risa Real](https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ) | [Casos de la Risa Real](https://open.spotify.com/album/1oqmfEuvybQ41YrSbPgEhZ) | 1:32:00 |
+| 8 | [Episodio 105 / Robé al ratero](https://open.spotify.com/episode/6P3waH9Bb7VnUpKqH1boPM) | [Buzón de quejas](https://open.spotify.com/show/08gpvHpEXuLEI9mqoIfDPa) | [Buzón de quejas](https://open.spotify.com/album/08gpvHpEXuLEI9mqoIfDPa) | 1:07:00 |
+| 9 | [La Maldición de la Suegra, Intentó Acabar con su propio Nieto FT Fepo](https://open.spotify.com/episode/3TL14025u9YgGWOoYxBj2m) | [Se Regalan Sustos](https://open.spotify.com/show/3oHILWpLvqwNMCFDLI6kTb) | [Se Regalan Sustos](https://open.spotify.com/album/3oHILWpLvqwNMCFDLI6kTb) | 1:31:54 |
+| 10 | [T3 I EP.6 I MOMENTOS LOTSO](https://open.spotify.com/episode/0UqChF60P14psrqbwrebTL) | [Lclub Podcast](https://open.spotify.com/show/1NR8RVbhxvIz5BPILejfVZ) | [Lclub Podcast](https://open.spotify.com/album/1NR8RVbhxvIz5BPILejfVZ) | 1:15:38 |
+| 11 | [18\. COSTCO: El 3er retailer más grande del mundo](https://open.spotify.com/episode/3JvF2wUwZXz8D6GPn9TKqW) | [Chisme Corporativo](https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf) | [Chisme Corporativo](https://open.spotify.com/album/4zeEGCXH4Au4WdokuRvJHf) | 1:11:23 |
+| 12 | [OVULANDO Y PELIGRANDO](https://open.spotify.com/episode/5JxLBlw6oVhRUSOEP8TBNe) | [LAS BOTARGAS PODCAST](https://open.spotify.com/show/0rvDGNVn0DW9borbedX88t) | [LAS BOTARGAS PODCAST](https://open.spotify.com/album/0rvDGNVn0DW9borbedX88t) | 1:19:13 |
 
-Snapshot ID: `ZoRAbQAAAAAR07GcKvKOmgI8N+7upde9`
+Snapshot ID: `ZqreEAAAAACNlKa26ntOrljXBgK5HyHM`

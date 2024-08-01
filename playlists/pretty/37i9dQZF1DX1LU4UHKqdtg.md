@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ＆TEAM
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,595 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,608 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 15 | [XO \(Only If You Say Yes\)](https://open.spotify.com/track/3RkSwrsIadAvqVtMp5yhaB) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) | 3:08 |
 | 16 | [PANDA](https://open.spotify.com/track/2QeuakrxtOESvNyROxyN1G) | [Celest1a](https://open.spotify.com/artist/7hMOFPZVD8QWoAXtaYWXld) | [PANDA](https://open.spotify.com/album/14bpdzXr1wJ7AnvNgM2Ij4) | 3:06 |
 | 17 | [Shout it out](https://open.spotify.com/track/0LVZgEoVis1hCRKTHTCJ1Z) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Gibberish](https://open.spotify.com/album/5pZFs7Yt5xDHQW6gXSFtqm) | 4:30 |
-| 18 | [24Lovers](https://open.spotify.com/track/75kQL2NMfZHbrOlvo36etS) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [You&Me](https://open.spotify.com/album/4s0X27vaIZQHOdksekOMmE) | 3:46 |
+| 18 | [24Lovers](https://open.spotify.com/track/75kQL2NMfZHbrOlvo36etS) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [YOU&ME](https://open.spotify.com/album/4s0X27vaIZQHOdksekOMmE) | 3:46 |
 | 19 | [You](https://open.spotify.com/track/6MfWIdV9e9vu3V34L225B5) | [JINJIN \(ASTRO\)](https://open.spotify.com/artist/3U8ZnKIeY7sgQkIHjQDlHA) | [JIN LAB Project 4\. \[You\]](https://open.spotify.com/album/4dvlOLOSqR0oOW1bNtXZDb) | 3:18 |
 | 20 | [Hot Mess](https://open.spotify.com/track/1SaLI6o5GhfcaxPVAJoD3r) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hot Mess](https://open.spotify.com/album/2PvpuCui1GVO8DkFcCHzYU) | 3:12 |
 | 21 | [呼んで\(Blur\)](https://open.spotify.com/track/2SNquIiDoUWBtfjgnNykVS) | [UNICODE](https://open.spotify.com/artist/3dX0pAE3FigjTzBiHajRra) | [HELLO WORLD](https://open.spotify.com/album/3aixxl8ncnD4dFE6eFQ6ll) | 3:03 |

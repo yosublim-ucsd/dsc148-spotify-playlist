@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-663 songs - 1 day 19 hr 16 min
+664 songs - 1 day 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Counterfeit](https://open.spotify.com/track/6kCmpwaWFOODvxBVyFz1Ql) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:36 | 2024-01-29 |  |
 | [Countin' Up](https://open.spotify.com/track/6UFG7GbMAeeMijEyrp6f1D) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nasty](https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1) | 2:30 | 2024-01-29 |  |
 | [Crave](https://open.spotify.com/track/1Eu00VxwsLMjHI6nQZ9RtW) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Hidden Figures: The Album](https://open.spotify.com/album/5ydGsF9Qy1IZsFmLRpJ4oc) | 2:53 | 2024-01-29 | 2024-07-16 |
-| [Cross the Border](https://open.spotify.com/track/26jvFY5r6AN5kuJmih4GpF) | [Philly's Most Wanted](https://open.spotify.com/artist/2nmNj8czpBZkCVZSbx5W2i) | [Get Down Or Lay Down \(U.S\. Explicit\)](https://open.spotify.com/album/1jrJslDyJ6t59uGaEUChw0) | 4:15 | 2024-01-29 |  |
+| [Cross the Border](https://open.spotify.com/track/26jvFY5r6AN5kuJmih4GpF) | [Philly's Most Wanted](https://open.spotify.com/artist/2nmNj8czpBZkCVZSbx5W2i) | [Get Down Or Lay Down \(U.S\. Explicit\)](https://open.spotify.com/album/1jrJslDyJ6t59uGaEUChw0) | 4:15 | 2024-01-29 | 2024-08-01 |
 | [CuDi Spazzin'](https://open.spotify.com/track/6IkgkqjnMKXF7cbvNQ8tQ0) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [A Kid Named Cudi](https://open.spotify.com/album/2blXZboio9DF8VC39LmUag) | 3:06 | 2024-06-20 | 2024-06-22 |
 | [Daddy \(feat\. Malice\)](https://open.spotify.com/track/5CvQFtv43kydVS2RitEuBF) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [No Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Wanderland](https://open.spotify.com/album/0oVfSWG46NWpFt1mpm1TWF) | 3:50 | 2024-06-20 | 2024-06-22 |
 | [Danger](https://open.spotify.com/track/0zzRxtfO5FGxKdqq4OKmlw) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dark & Wild](https://open.spotify.com/album/35voVqYGkotyJ945O9egDY) | 4:05 | 2024-01-29 | 2024-04-05 |
@@ -447,6 +447,7 @@
 | [Perfect Defect](https://open.spotify.com/track/6YVJJwg4BErTU7SdL7XdBR) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Nothing \(Deluxe Explicit Version\)](https://open.spotify.com/album/1yy1UWlWsmbOJzQmcHlMyx) | 3:42 | 2024-06-24 | 2024-07-03 |
 | [Perpetual Nights](https://open.spotify.com/track/0pY8hAX9fQsssx20qX30n1) | [Maxine Ashley](https://open.spotify.com/artist/5fYyfkrYbHDQreGr7cUul0) | [Moodswings](https://open.spotify.com/album/04cbd1zXbQrOuXfsTPmUpt) | 3:32 | 2024-06-20 | 2024-06-22 |
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2024-01-29 |  |
+| [PINK LIKE SUKI](https://open.spotify.com/track/75aKhlE0JTqaVuTsDDdtD3) | [Pebbles&TamTam](https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of) | [PINK LIKE SUKI](https://open.spotify.com/album/1V25vUnBtkGB5EI0GqaMnB) | 2:30 | 2024-07-31 |  |
 | [Play It Off \- Album Version / Explicit](https://open.spotify.com/track/02ORKNJXIhiLVUDpC6PfoH) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Suit](https://open.spotify.com/album/7xt2MWlSFHNP2NcHWE4W3b) | 3:48 | 2024-06-20 | 2024-06-22 |
 | [Playa You Don't Know](https://open.spotify.com/track/7plc58WbKukGln1glwcZrp) | [Slim Thug](https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE) | [Already Platinum](https://open.spotify.com/album/17Qo2HmJC5RtOVkJ9rxBlP) | 4:27 | 2024-06-20 | 2024-06-22 |
 | [Please Don't Mind](https://open.spotify.com/track/3kUiht3ClxHdylTa9Cmfi6) | [Philly's Most Wanted](https://open.spotify.com/artist/2nmNj8czpBZkCVZSbx5W2i) | [Get Down Or Lay Down \(U.S\. Explicit\)](https://open.spotify.com/album/1jrJslDyJ6t59uGaEUChw0) | 3:59 | 2024-06-20 | 2024-06-22 |

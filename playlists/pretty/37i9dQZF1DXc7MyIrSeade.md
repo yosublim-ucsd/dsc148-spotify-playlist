@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7MyIrSeade.md) - [plain]
 
 > Cele mai bune piese pop ale anului 2023\. Cover: Andia, Deliric
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,288 likes - 50 songs - 2 hr 31 min
+[](https://open.spotify.com/user/null) - 1,289 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

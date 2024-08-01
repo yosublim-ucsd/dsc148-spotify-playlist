@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Luke Combs",
-  "num_followers": 126190,
+  "num_followers": 126258,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "In Your Love (Live From Radio City Music Hall)",
-        "url": "https://open.spotify.com/album/1I20hO7qTPRcHrjDaDaeI9"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 242573,
-      "name": "In Your Love - Live From Radio City Music Hall",
-      "url": "https://open.spotify.com/track/1vlF4jSU2nAWMjsGkzgFio"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Unapologetically (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 197600,
       "name": "Landslide - Live from Nashville",
       "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "In Your Love (Live From Radio City Music Hall)",
+        "url": "https://open.spotify.com/album/1I20hO7qTPRcHrjDaDaeI9"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 242573,
+      "name": "In Your Love - Live From Radio City Music Hall",
+      "url": "https://open.spotify.com/track/1vlF4jSU2nAWMjsGkzgFio"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO"
-      },
-      "artists": [
-        {
-          "name": "Alison Krauss & Union Station",
-          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
-        }
-      ],
-      "duration_ms": 198253,
-      "name": "Forget About It - Live From The Louisville Palace, Kentucky / 2002",
-      "url": "https://open.spotify.com/track/57ttBdIRG5KtdwJOZQtd9E"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Still The One: Live From Vegas",
         "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 270186,
       "name": "Any Man Of Mine - Live",
       "url": "https://open.spotify.com/track/5V9PVHVvD7He5oWUo69YsQ"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+        }
+      ],
+      "duration_ms": 198253,
+      "name": "Forget About It - Live From The Louisville Palace, Kentucky / 2002",
+      "url": "https://open.spotify.com/track/57ttBdIRG5KtdwJOZQtd9E"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Tell Me Why (Live)",
-        "url": "https://open.spotify.com/album/2eiFxvSfTfCuAi0TgSbMT7"
-      },
-      "artists": [
-        {
-          "name": "Wynonna",
-          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
-        }
-      ],
-      "duration_ms": 212285,
-      "name": "Tell Me Why - Live",
-      "url": "https://open.spotify.com/track/1plzgdb3hbyAYa5t2DcBrV"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Wreckage (Live)",
         "url": "https://open.spotify.com/album/0kfcUkCxICzTR7iO6owi9O"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 211773,
       "name": "Wreckage - Live",
       "url": "https://open.spotify.com/track/5zHB9D7aOex9INWtPJt1Kb"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Tell Me Why (Live)",
+        "url": "https://open.spotify.com/album/2eiFxvSfTfCuAi0TgSbMT7"
+      },
+      "artists": [
+        {
+          "name": "Wynonna",
+          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
+        }
+      ],
+      "duration_ms": 212285,
+      "name": "Tell Me Why - Live",
+      "url": "https://open.spotify.com/track/1plzgdb3hbyAYa5t2DcBrV"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1707,22 +1707,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "61 Days In Church Volume 5",
-        "url": "https://open.spotify.com/album/6TKll42LRpYtifeJcNmifp"
+        "name": "61 Days In Church Volume 3",
+        "url": "https://open.spotify.com/album/3LIQDQZgWiRaBgydD5BgA3"
       },
       "artists": [
         {
           "name": "Eric Church",
           "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        },
-        {
-          "name": "Chuck Leavell",
-          "url": "https://open.spotify.com/artist/3Dj8QpO2yUyElSCfiatKI9"
         }
       ],
-      "duration_ms": 311273,
-      "name": "Jack Daniels - Live At Pepsi Center, Denver, CO / April 5, 2017",
-      "url": "https://open.spotify.com/track/1LM6osoVFLDv2x0VNvMMNz"
+      "duration_ms": 240356,
+      "name": "These Boots - Live At Talking Stick Resort Arena, Phoenix, AZ / March 28, 2017",
+      "url": "https://open.spotify.com/track/40lYJ3Ew1g03YQlgbvy5jv"
     },
     {
       "added_at": "2024-06-28 04:00:00",

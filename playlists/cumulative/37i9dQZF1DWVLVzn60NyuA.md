@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-485 songs - 1 day 1 hr 41 min
+486 songs - 1 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,7 @@
 | [Murder She Wrote](https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:05 | 2021-12-16 |  |
 | [Muévelo](https://open.spotify.com/track/4VgYtXCVJ7IbWAZ5ryfvEQ) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Muévelo](https://open.spotify.com/album/6sTdi5hrN3uFhARaqbikjG) | 3:14 | 2022-03-25 | 2022-10-03 |
 | [My Touch \- Dutch Remix](https://open.spotify.com/track/5SBy2tOnecAyebZwPD21YP) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Lauwtje](https://open.spotify.com/artist/1yWjbmwKNd1q0PI1V1BuQ7), [Rich2Gether](https://open.spotify.com/artist/7JEKwHEyxkl7GMIZmTVllb) | [My Touch \(Dutch Remix\)](https://open.spotify.com/album/3HLfgkzaDwQCwURps1jIZ5) | 3:08 | 2021-12-16 | 2022-01-11 |
-| [MYKILLI](https://open.spotify.com/track/3a9VWWcadXinOPMQzJS8uU) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [MYKILLI](https://open.spotify.com/album/4kxvEeZjpSgb5Ondj6UHuu) | 2:24 | 2021-12-16 |  |
+| [MYKILLI](https://open.spotify.com/track/3a9VWWcadXinOPMQzJS8uU) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [MYKILLI](https://open.spotify.com/album/4kxvEeZjpSgb5Ondj6UHuu) | 2:24 | 2021-12-16 | 2024-08-01 |
 | [Mysterious](https://open.spotify.com/track/3X5X93xYL8Qwd6l0DuajPT) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Mysterious](https://open.spotify.com/album/0wCfJvi08X1dBz01JbFEIY) | 2:44 | 2022-10-17 | 2023-03-18 |
 | [N'y pense plus](https://open.spotify.com/track/5KCH6zWcx5qUYbmp0uaaE7) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [N'y pense plus](https://open.spotify.com/album/6OZw1o9TZEgHLnggVYmqLS) | 3:32 | 2021-12-16 | 2023-03-01 |
 | [Nesesari](https://open.spotify.com/track/1yOt3NUFWpYbnFW6ISj59h) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Philkeyz](https://open.spotify.com/artist/4f2Osmfrp1z54Y2d7Nf8vf) | [No Bad Songz](https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS) | 2:58 | 2022-07-28 | 2024-04-19 |
@@ -467,6 +467,7 @@
 | [Vibe \(feat\. Popcaan\)](https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Vibe](https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty) | 3:15 | 2021-12-16 |  |
 | [Vitamine \(Remix\) feat\. Ya Levis](https://open.spotify.com/track/0cuBU0NjEZImmFEFn7kVsb) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Vitamine](https://open.spotify.com/album/3R3KNEZBmPYbxGVNtqZo4q) | 2:34 | 2022-07-28 |  |
 | [W \(feat\. Gunna\)](https://open.spotify.com/track/6xW2g0c5uSoa3S6xk9eI4j) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [W \(feat\. Gunna\)](https://open.spotify.com/album/4CGh0wfCdEh3xZVHx8uJK5) | 3:50 | 2021-12-16 | 2022-12-09 |
+| [Wahala \(feat\. Olamide\)](https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Wahala \(feat\. Olamide\)](https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW) | 2:50 | 2024-07-31 |  |
 | [Waist](https://open.spotify.com/track/09GxVTSERxrO6vWrVunG28) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Waist](https://open.spotify.com/album/7LhTAgCz2wPQwoZ8KKRmF9) | 2:20 | 2021-12-16 | 2022-05-17 |
 | [Waistline](https://open.spotify.com/track/0wd6imcxxLZhP7cTzyBeua) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Waistline](https://open.spotify.com/album/6EdcTJXFmTNBtPbujaXYJ6) | 2:45 | 2022-03-31 |  |
 | [Watch Gyal](https://open.spotify.com/track/2FeKLg2n8ihb3EizrFkgTF) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Young Pow](https://open.spotify.com/artist/5HgMDgDYbps3DtUYHSFtUd) | [Watch Gyal](https://open.spotify.com/album/4h9bO98vGQKw3O54WDRXY8) | 2:57 | 2022-04-14 | 2022-05-13 |

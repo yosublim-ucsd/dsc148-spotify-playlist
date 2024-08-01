@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-396 songs - 18 hr 49 min
+397 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Assume](https://open.spotify.com/track/1Pbfj8p5E54sqiKb8hHLnp) | [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy), [Kamisa 10](https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs) | [Assume](https://open.spotify.com/album/3Rr9SrIZvXGp1BxyrzdNRR) | 2:33 | 2024-07-26 |  |
 | [Assunto Resolvido \- Ao Vivo](https://open.spotify.com/track/24EXVPq3gNMuIMpSHL1IfE) | [Danilo Bottrel](https://open.spotify.com/artist/3dbCf6Y9R7lzKi3B2jfv9I) | [Ao Vivo em Escarpas do Lago](https://open.spotify.com/album/6pnuFzOE6JfL8dPxdlE3Io) | 2:50 | 2024-01-29 |  |
 | [Atiradinha \- Ao Vivo](https://open.spotify.com/track/1tAyd99jKjRkXWyNxZyF3a) | [Roniel & Rafael](https://open.spotify.com/artist/4z1aUeMY7RekXdGPu41qZf) | [Arrastão \(Ao Vivo\)](https://open.spotify.com/album/1U40IXgYkRS2g2npfi8lAC) | 2:19 | 2024-01-29 |  |
+| [Atual idiota](https://open.spotify.com/track/6s1wQxdeFgdncUqXu4cnK5) | [Milord](https://open.spotify.com/artist/6FBgdfsSHL91n4Be3qfAaK) | [Verão 2024](https://open.spotify.com/album/7rjxAtzuAOlrZ6FgbieMu1) | 2:37 | 2024-07-31 |  |
 | [Até Nunca Mais](https://open.spotify.com/track/2usm5XOFde2zSxaKJ3fNLN) | [Everton e Marcos](https://open.spotify.com/artist/3vWwVA0XeEpUj1hjIBwPzg) | [Ressurgindo das Cinzas](https://open.spotify.com/album/59dkg3TPf2DnpHtWqFQvI9) | 2:51 | 2024-03-26 |  |
 | [Até Nunca Mais](https://open.spotify.com/track/1KpJLFtyb5vILOtDHPHTYC) | [Luis Morall](https://open.spotify.com/artist/4znAbxlWOo5iilmf7yVh2X), [Vinícius o Baixinho](https://open.spotify.com/artist/6abOe7bMUkJaJNNdUkFRVq) | [Antes Só do Que Mal Acompanhado](https://open.spotify.com/album/3pZSgI8oEeP7Xa6937gqug) | 3:15 | 2024-01-29 | 2024-02-25 |
 | [Aí Você Chegou \- Ao Vivo](https://open.spotify.com/track/2CnbBhqGAzvPTBxm95pYLx) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose Ao Vivo](https://open.spotify.com/album/52rIL56BICJZfbDlDZBCci) | 2:41 | 2024-01-29 |  |

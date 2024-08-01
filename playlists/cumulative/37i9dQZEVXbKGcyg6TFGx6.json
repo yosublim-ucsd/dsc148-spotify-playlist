@@ -2498,7 +2498,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -4246,7 +4246,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 133932,
       "name": "Bauch Beine Po",
       "url": "https://open.spotify.com/track/64f3yNXsi2Vk76odcHCOnw"
@@ -5682,7 +5682,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 171216,
       "name": "Boucan (feat. Franglish)",
       "url": "https://open.spotify.com/track/6jElwivDtkQUv9QFGrdN26"
@@ -8769,6 +8769,24 @@
     },
     {
       "album": {
+        "name": "Broken Mind",
+        "url": "https://open.spotify.com/album/5TsUeubfHvwM2qz5SeZgPs"
+      },
+      "artists": [
+        {
+          "name": "PHARI",
+          "url": "https://open.spotify.com/artist/2g01pmAHntm6KV7KGnYXRS"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282480,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/0tgnKADuRdUzawpe7D5sFI"
+    },
+    {
+      "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
       },
@@ -9454,7 +9472,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -13202,7 +13220,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
@@ -13902,7 +13920,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -14362,7 +14380,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -19372,7 +19390,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-23",
+      "date_removed": null,
       "duration_ms": 152304,
       "name": "It's Not Right But It's Okay",
       "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
@@ -21489,6 +21507,24 @@
     },
     {
       "album": {
+        "name": "Let\u00edm Pre\u010d",
+        "url": "https://open.spotify.com/album/0Y2YRZm92xAfcAdAxrcBs3"
+      },
+      "artists": [
+        {
+          "name": "Pridenyyy",
+          "url": "https://open.spotify.com/artist/0dRs07n8iv66EMgge37Pux"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Let\u00edm Pre\u010d",
+      "url": "https://open.spotify.com/track/7kanLPfQx9GxY9uwW1QGra"
+    },
+    {
+      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
       },
@@ -22372,7 +22408,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -27841,6 +27877,24 @@
     },
     {
       "album": {
+        "name": "Out Of Space",
+        "url": "https://open.spotify.com/album/3CxI36IUyv7a83eRLv8g7E"
+      },
+      "artists": [
+        {
+          "name": "Fakin B\u016fh",
+          "url": "https://open.spotify.com/artist/1GsB3GfxMb3SakVVaUSPYO"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174937,
+      "name": "Out Of Space",
+      "url": "https://open.spotify.com/track/372uT5UzHtylg0haxKxCaF"
+    },
+    {
+      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
@@ -28684,7 +28738,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
@@ -41952,6 +42006,32 @@
       "duration_ms": 169130,
       "name": "You",
       "url": "https://open.spotify.com/track/0BpQQPRcsANJXekANH4tcn"
+    },
+    {
+      "album": {
+        "name": "You & Me (Rivo Remix)",
+        "url": "https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Eliza Doolittle",
+          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
+        },
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208524,
+      "name": "You & Me - Rivo Remix",
+      "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"
     },
     {
       "album": {

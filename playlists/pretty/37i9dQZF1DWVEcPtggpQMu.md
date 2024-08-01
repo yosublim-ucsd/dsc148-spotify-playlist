@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. <br/>Cover:  <a href="https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L?si=VRcFx1eMTmSA5UJOEob43A">Maglera Doe Boy</a>, <a href="https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9?si=AoM3VlWeQACLBn4TysFn4g">25K</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,271 likes - 55 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,428 likes - 55 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [2 Headed Goat \(feat\. Maglera Doe Boy\)](https://open.spotify.com/track/7CLjQObdlzcRIagWpxxLEX) | [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [2 Headed Goat \(feat\. Maglera Doe Boy\)](https://open.spotify.com/album/5Oqq3iTaCUByEo7O1edk3l) | 3:13 |
+| 1 | [2 Headed Goat \(feat\. Maglera Doe Boy\)](https://open.spotify.com/track/7CLjQObdlzcRIagWpxxLEX) | [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [2 Headed Goat \(feat\. Maglera Doe Boy\)](https://open.spotify.com/album/5Oqq3iTaCUByEo7O1edk3l) | 3:14 |
 | 2 | [Year 24](https://open.spotify.com/track/1lYUZRJQCMQRqZZeVi2bdk) | [K.Keed](https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Year 24](https://open.spotify.com/album/0Z1s1zNLmgxefGwmalRsR3) | 3:16 |
 | 3 | [Abekho](https://open.spotify.com/track/7wb5FuOqOswDqHl4U4T8bQ) | [Sonwabile](https://open.spotify.com/artist/10nJhya28FQvYO31jFYZry), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Abekho](https://open.spotify.com/album/3BMX6pWfzzS6PCKvaDYFVu) | 2:40 |
 | 4 | [IMALI \(feat\. Usimamane\)](https://open.spotify.com/track/1RBaJ70iuXwK6Wyu457Q3t) | [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras), [Wordz](https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd), [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [ONLY THE BRAVE](https://open.spotify.com/album/0VIKRgqgvDdXNNfbGhUfnp) | 2:27 |

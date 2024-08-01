@@ -942,7 +942,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-29",
+      "date_removed": null,
       "duration_ms": 191387,
       "name": "Born To Race",
       "url": "https://open.spotify.com/track/0yWGRRHjwNOdApEm2gbbex"
@@ -6801,6 +6801,32 @@
     },
     {
       "album": {
+        "name": "Solo Quiero (Somebody To Love) [From Songland]",
+        "url": "https://open.spotify.com/album/72jUFUDCBSH8NVGH9TyDp8"
+      },
+      "artists": [
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        },
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        },
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172813,
+      "name": "Solo Quiero (Somebody To Love) - From Songland",
+      "url": "https://open.spotify.com/track/0eXEFvCwPFyGNo8SOSn0fB"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -7755,6 +7781,28 @@
     },
     {
       "album": {
+        "name": "A Lively Mind",
+        "url": "https://open.spotify.com/album/0qKDq3Ca3Hn08Qa5uz6dcx"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Ryan Tedder",
+          "url": "https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324746,
+      "name": "The Way I Feel",
+      "url": "https://open.spotify.com/track/2h2b3gdWnNs1NoaWeVNBiY"
+    },
+    {
+      "album": {
         "name": "The World I Knew (From Disneynature African Cats)",
         "url": "https://open.spotify.com/album/3RwyE2ilKxOwUOwEUtiECu"
       },
@@ -8114,6 +8162,28 @@
       "duration_ms": 273960,
       "name": "Unbroken",
       "url": "https://open.spotify.com/track/1PDmepvxFGC6jP1GTs7rne"
+    },
+    {
+      "album": {
+        "name": "From The Inside Out",
+        "url": "https://open.spotify.com/album/1AlBB0rTOKDXK2k7lf9tUT"
+      },
+      "artists": [
+        {
+          "name": "Stan Walker",
+          "url": "https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY"
+        },
+        {
+          "name": "Israel",
+          "url": "https://open.spotify.com/artist/6ZIjO7ivv7IxVuyD4HqrAD"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226306,
+      "name": "Unbroken - Israel Remix",
+      "url": "https://open.spotify.com/track/4fijxCLZxkask6LJH51Hzg"
     },
     {
       "album": {

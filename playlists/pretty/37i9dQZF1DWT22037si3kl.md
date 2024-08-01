@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > bgl é seu estilo ser original vocês já sabem\. Foto: Tz da Coronel
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,850 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,956 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 26 | [Sem Compaixão](https://open.spotify.com/track/7KDDrAqNSOdEUeNvAOEExR) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Sem Compaixão](https://open.spotify.com/album/0iyqDsb8sbXxhhvMdn4YB2) | 3:22 |
 | 27 | [Não Me Para](https://open.spotify.com/track/6yFMentQMLOkh24pjQJgsQ) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [Ascensão do Cisne Negro](https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ) | 3:29 |
 | 28 | [TAMBOR](https://open.spotify.com/track/6lUV4vN68pfhLI4k0NSBYP) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [DIAS ANTES DO CAOS](https://open.spotify.com/album/2BFosqa97kxv0HBBeB02d8) | 2:27 |
-| 29 | [Estrela do Rap](https://open.spotify.com/track/6m1sOoKp7asednKyzmlAXX) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs) | [Estrela do Rap](https://open.spotify.com/album/29BE8XW1c7IjLGXh1fvBoO) | 2:11 |
-| 30 | [Academia de Jugg](https://open.spotify.com/track/6vg2QOZtkhIGHoMIcJ1qB8) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Correia](https://open.spotify.com/artist/40PO0UxAov5MmpZFHqyPFv) | [IAMBINHU](https://open.spotify.com/album/7BpvuVN4bsFdncN2KLkBLU) | 2:00 |
+| 29 | [Academia de Jugg](https://open.spotify.com/track/6vg2QOZtkhIGHoMIcJ1qB8) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Correia](https://open.spotify.com/artist/40PO0UxAov5MmpZFHqyPFv) | [IAMBINHU](https://open.spotify.com/album/7BpvuVN4bsFdncN2KLkBLU) | 2:00 |
+| 30 | [Estrela do Rap](https://open.spotify.com/track/6m1sOoKp7asednKyzmlAXX) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs) | [Estrela do Rap](https://open.spotify.com/album/29BE8XW1c7IjLGXh1fvBoO) | 2:11 |
 | 31 | [Hostil](https://open.spotify.com/track/0i6gPQcHSl1nwjBtFOXDQW) | [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Liam Fenti](https://open.spotify.com/artist/1xn0u925Z25C7ZW8FstGRX) | [Unique](https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL) | 3:03 |
 | 32 | [Milionário e José Rico](https://open.spotify.com/track/0VtURljcxQxeuCmeVZ6bsx) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Taurus, Vol\. 2](https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4) | 2:07 |
 | 33 | [CHECK OUT](https://open.spotify.com/track/3ez90zOWaFaPBSONOrdKvc) | [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [MAGIC SHOW](https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW) | 3:22 |

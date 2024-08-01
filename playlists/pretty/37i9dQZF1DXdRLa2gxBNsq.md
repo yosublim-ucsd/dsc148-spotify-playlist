@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: La Polla Records.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,665 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,690 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 64 | [No Olvidamos, 3 de Marzo](https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [No Olvidamos, 3 de Marzo \- Single](https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE) | 3:51 |
 | 65 | [Cuidado](https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Cuidado](https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8) | 2:57 |
 | 66 | [El Infierno Es Demasiado Dulce](https://open.spotify.com/track/4QVgYxK4QKLyeygg5EtSXN) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX), [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS), [Yugular](https://open.spotify.com/artist/2oBhhi0QflSGHexns2KTsM), [Odio a Muerte](https://open.spotify.com/artist/5JXhckF5PfoPReuIwDuGnS) | [El Infierno Es Demasiado Dulce](https://open.spotify.com/album/66xSqjqAaAlwUgaXEeQJmu) | 2:50 |
-| 67 | [Ellos Dicen Mierda \(Live\)](https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl) | [La Polla](https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J) | [Punk Latino Vol\. 1](https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN) | 4:26 |
-| 68 | [Su Acierto](https://open.spotify.com/track/2M3WZ5z8yjKpD59NtRMUCO) | [Engaño Manifiesto](https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c) | [Su Acierto](https://open.spotify.com/album/5ttntv8iVQSKCHBpAhRRqr) | 2:45 |
+| 67 | [Su Acierto](https://open.spotify.com/track/2M3WZ5z8yjKpD59NtRMUCO) | [Engaño Manifiesto](https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c) | [Su Acierto](https://open.spotify.com/album/5ttntv8iVQSKCHBpAhRRqr) | 2:45 |
+| 68 | [Ellos Dicen Mierda \(Live\)](https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl) | [La Polla](https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J) | [Punk Latino Vol\. 1](https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN) | 4:26 |
 | 69 | [Esto Es un Atraco](https://open.spotify.com/track/3N8PAev6WMEWX1Qc4rV3hl) | [La Marmita](https://open.spotify.com/artist/5TT38W8qp72XwEz7ngbC06), [Burning](https://open.spotify.com/artist/5nhDsJ4yNy8BD4LbGMsb1v), [Salida Nula](https://open.spotify.com/artist/6PhjQPENxSE6grsBqEq1Ph), [MEZ\-K](https://open.spotify.com/artist/2ax2F8KW5sK9yMJEEpivqP), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [Esto Es un Atraco](https://open.spotify.com/album/6qrOJ9gopojGNYlYBQWZ7Q) | 2:56 |
 | 70 | [Ser Libre](https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Ser Libre](https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH) | 3:36 |
 | 71 | [Reino Sin Futuro](https://open.spotify.com/track/3z4RWsGoalHEUkzMJqb1B6) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Reino Sin Futuro](https://open.spotify.com/album/40VVUxVi7onk4QfvdYRoqZ) | 3:12 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 79 | [Borratxos y Orgullosos](https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc) | [Josetxu Piperrak & The Riber Rock Band](https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG) | [Borratxos y Orgullosos](https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE) | 3:43 |
 | 80 | [Bajo el Cielo Negro](https://open.spotify.com/track/3BdWDjwdQFl8Fga7ZeekQF) | [Último Rekurso](https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9), [Bestia Parda](https://open.spotify.com/artist/1CgnghupyXlLJolwnG5wIM) | [En los Márgenes](https://open.spotify.com/album/5iLVmcfJsSCKHfbJQ49YwM) | 2:21 |
 | 81 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 |
-| 82 | [Sálvate Si Puedes \- Remasterizado 2024](https://open.spotify.com/track/7a7Cno4XnbKNUuIw2SCmv9) | [Salvate Si Puedes](https://open.spotify.com/artist/67ewRE9t9RsKG7pOWZtaac) | [A Quien Pueda Interesar \(Remasterizado 2024\)](https://open.spotify.com/album/0jk5qU3Z9l4EASdK6Avc8Q) | 2:45 |
-| 83 | [Vpo](https://open.spotify.com/track/3Eo8g7AdbPGmODRv3yZidD) | [Bellotaris Fallecidos](https://open.spotify.com/artist/7witIEaYssgO9srRY85ZLl) | [Y el Que Sea Feo Que Haga los Recaos de Noche](https://open.spotify.com/album/5I2wNu3nGj7oHCIFtH1Yne) | 1:36 |
+| 82 | [Vpo](https://open.spotify.com/track/3Eo8g7AdbPGmODRv3yZidD) | [Bellotaris Fallecidos](https://open.spotify.com/artist/7witIEaYssgO9srRY85ZLl) | [Y el Que Sea Feo Que Haga los Recaos de Noche](https://open.spotify.com/album/5I2wNu3nGj7oHCIFtH1Yne) | 1:36 |
+| 83 | [Sálvate Si Puedes \- Remasterizado 2024](https://open.spotify.com/track/7a7Cno4XnbKNUuIw2SCmv9) | [Salvate Si Puedes](https://open.spotify.com/artist/67ewRE9t9RsKG7pOWZtaac) | [A Quien Pueda Interesar \(Remasterizado 2024\)](https://open.spotify.com/album/0jk5qU3Z9l4EASdK6Avc8Q) | 2:45 |
 | 84 | [El Dolor](https://open.spotify.com/track/1e3R1i0tkAIV1yRg677CtK) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [El Dolor](https://open.spotify.com/album/5lRFiSidcGCGoNY3y3pFnM) | 4:00 |
 | 85 | [HISTERIA](https://open.spotify.com/track/4IVWKhpc6VDcyg1fHq5T20) | [LUCY](https://open.spotify.com/artist/1926SAsv8WWBm0XOn84Pso) | [HISTERIA](https://open.spotify.com/album/01MRCootqvHnsCJ5j0IhZm) | 2:28 |
 | 86 | [Humanos](https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX) | [Humanos](https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy) | 2:31 |

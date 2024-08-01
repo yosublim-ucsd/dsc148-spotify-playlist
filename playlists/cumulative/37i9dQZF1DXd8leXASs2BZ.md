@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: YungFLX
 
-571 songs - 1 day 2 hr 17 min
+572 songs - 1 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [chouhachi](https://open.spotify.com/track/7HHO3TQv4CKNVa4Vxg2M6i) | [DAB](https://open.spotify.com/artist/3yYumedujiQlRToKP478wS) | [chouhachi](https://open.spotify.com/album/73mudsrUDLRUiaRJ0gp9sm) | 3:21 | 2024-03-21 | 2024-04-19 |
 | [City Flag](https://open.spotify.com/track/03MAIrxY1r3THbcKj0Mfvy) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [City Flag](https://open.spotify.com/album/1iXvP0VFfGGH1VbFNtmRFS) | 2:05 | 2024-05-15 | 2024-07-17 |
 | [CLOVER](https://open.spotify.com/track/3tEPX2fSLx5ugdhl0QpKng) | [Sound's Deli](https://open.spotify.com/artist/7dd46Nuonbm2HO2pZ8bdgB) | [CLOVER](https://open.spotify.com/album/1AKbPWDyGF2nTwVWuOsz7D) | 3:59 | 2024-01-30 | 2024-05-29 |
+| [coco freestyle](https://open.spotify.com/track/0PRduxqXvtIlqGoFuQrJzQ) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [Re:Born Tape](https://open.spotify.com/album/7Ab9dMLW61DCd83WtO8NaL) | 2:43 | 2024-07-31 |  |
 | [Cold Town](https://open.spotify.com/track/4o7giTDxOBnMWLI4VTiz3l) | [18stop](https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF), [Rommy Montana](https://open.spotify.com/artist/2dFmXiOy1pDl1uAgP7wzQe) | [Cold Town](https://open.spotify.com/album/0kVXGkSYMFSQlBKK3e47PQ) | 2:25 | 2023-12-14 | 2024-03-06 |
 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 | 2024-01-23 | 2024-05-29 |
 | [come around](https://open.spotify.com/track/26Ea1ELPf9Lhe7qZnwfilu) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [come around](https://open.spotify.com/album/3jBzXZ0H7dgK9NA7GCgWUe) | 3:45 | 2024-03-21 | 2024-04-17 |

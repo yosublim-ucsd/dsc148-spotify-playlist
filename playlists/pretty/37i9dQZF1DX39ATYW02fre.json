@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 234280,
+  "num_followers": 234332,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,18 @@
     {
       "added_at": "2024-07-05 00:01:00",
       "album": {
-        "name": "Favourite Place",
-        "url": "https://open.spotify.com/album/0hi96KFhhFchURSGce2nq1"
+        "name": "Kiasmos",
+        "url": "https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d"
       },
       "artists": [
         {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        },
-        {
-          "name": "Fractures",
-          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
+          "name": "Kiasmos",
+          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
         }
       ],
-      "duration_ms": 180100,
-      "name": "Favourite Place",
-      "url": "https://open.spotify.com/track/36bQ9KQlmwNZnccm7MMjjP"
+      "duration_ms": 360705,
+      "name": "Looped",
+      "url": "https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD"
     },
     {
       "added_at": "2024-07-05 00:01:00",
@@ -359,18 +355,22 @@
     {
       "added_at": "2024-07-05 00:01:00",
       "album": {
-        "name": "Kiasmos",
-        "url": "https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d"
+        "name": "Favourite Place",
+        "url": "https://open.spotify.com/album/0hi96KFhhFchURSGce2nq1"
       },
       "artists": [
         {
-          "name": "Kiasmos",
-          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        },
+        {
+          "name": "Fractures",
+          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
         }
       ],
-      "duration_ms": 360705,
-      "name": "Looped",
-      "url": "https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD"
+      "duration_ms": 180100,
+      "name": "Favourite Place",
+      "url": "https://open.spotify.com/track/36bQ9KQlmwNZnccm7MMjjP"
     },
     {
       "added_at": "2024-07-05 00:01:00",

@@ -1,6 +1,6 @@
 {
   "description": "let the dj set u free",
-  "num_followers": 223435,
+  "num_followers": 223499,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Silver Linings",
-        "url": "https://open.spotify.com/album/0JPGUlvwYA8enb1XhaUIbh"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 223336,
-      "name": "Satisfied - Edit",
-      "url": "https://open.spotify.com/track/378c4bnvmnfAoMTSIOveDX"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Rhythm (Of The Night)",
         "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 201621,
       "name": "Rhythm (Of The Night)",
       "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Silver Linings",
+        "url": "https://open.spotify.com/album/0JPGUlvwYA8enb1XhaUIbh"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 223336,
+      "name": "Satisfied - Edit",
+      "url": "https://open.spotify.com/track/378c4bnvmnfAoMTSIOveDX"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1395,58 +1395,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Mid Air",
-        "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        },
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 234053,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/6P10HAaNFfKsdWPJyKd6Di"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "SET ME FREE",
-        "url": "https://open.spotify.com/album/1y5ZBGShGAM5JxDOE1LNrW"
-      },
-      "artists": [
-        {
-          "name": "Mattilo",
-          "url": "https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC"
-        }
-      ],
-      "duration_ms": 178330,
-      "name": "SET ME FREE",
-      "url": "https://open.spotify.com/track/2M7S8QWAYNkYiA6lSl47YB"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "not sorry",
-        "url": "https://open.spotify.com/album/3L7BJtYn9iXPXqTpHLUYxn"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 190113,
-      "name": "not sorry",
-      "url": "https://open.spotify.com/track/6yIBiB7kctd505SPcP2inR"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Heartbreak",
         "url": "https://open.spotify.com/album/37B1K70ov6LUqjIvuWsonh"
       },
@@ -1467,6 +1415,58 @@
       "duration_ms": 144253,
       "name": "Heartbreak",
       "url": "https://open.spotify.com/track/0Gbpzzf8oLuFNSLYAvov3I"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Mid Air",
+        "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 234053,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/6P10HAaNFfKsdWPJyKd6Di"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "not sorry",
+        "url": "https://open.spotify.com/album/3L7BJtYn9iXPXqTpHLUYxn"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 190113,
+      "name": "not sorry",
+      "url": "https://open.spotify.com/track/6yIBiB7kctd505SPcP2inR"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "SET ME FREE",
+        "url": "https://open.spotify.com/album/1y5ZBGShGAM5JxDOE1LNrW"
+      },
+      "artists": [
+        {
+          "name": "Mattilo",
+          "url": "https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC"
+        }
+      ],
+      "duration_ms": 178330,
+      "name": "SET ME FREE",
+      "url": "https://open.spotify.com/track/2M7S8QWAYNkYiA6lSl47YB"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1523,58 +1523,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Peace In Silence",
-        "url": "https://open.spotify.com/album/2HWW3aVU03g1T6cuHqs3kx"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Nate Traveller",
-          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "Peace In Silence",
-      "url": "https://open.spotify.com/track/1GsurkwM6YwfQ9rNr14Of8"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Safe In My Arms / YourLove",
-        "url": "https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        }
-      ],
-      "duration_ms": 172129,
-      "name": "YourLove",
-      "url": "https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 198451,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/6mglq83ABZ8iEldnQYskVg"
       },
@@ -1599,6 +1547,58 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Peace In Silence",
+        "url": "https://open.spotify.com/album/2HWW3aVU03g1T6cuHqs3kx"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "Peace In Silence",
+      "url": "https://open.spotify.com/track/1GsurkwM6YwfQ9rNr14Of8"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 198451,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Safe In My Arms / YourLove",
+        "url": "https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "duration_ms": 172129,
+      "name": "YourLove",
+      "url": "https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Little Planets - Remix",
         "url": "https://open.spotify.com/album/1jyr9byDQASsa5aR5oQbqg"
       },
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "back2u",
-        "url": "https://open.spotify.com/album/6cUrisGrUcNCsju0VImSyG"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "GUDFELLA",
-          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
-        }
-      ],
-      "duration_ms": 158906,
-      "name": "back2u",
-      "url": "https://open.spotify.com/track/3OL5rQRsVGNTUaaDDqrIiL"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN"
       },
@@ -1655,6 +1635,26 @@
       "duration_ms": 204567,
       "name": "Be Someone",
       "url": "https://open.spotify.com/track/3OCFPScaJuLwmHJkqtVWoL"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "back2u",
+        "url": "https://open.spotify.com/album/6cUrisGrUcNCsju0VImSyG"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        }
+      ],
+      "duration_ms": 158906,
+      "name": "back2u",
+      "url": "https://open.spotify.com/track/3OL5rQRsVGNTUaaDDqrIiL"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Freefall",
+        "url": "https://open.spotify.com/album/0tcGYRO1ZwobReqGzMR883"
+      },
+      "artists": [
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 219250,
+      "name": "Freefall",
+      "url": "https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Discipline",
         "url": "https://open.spotify.com/album/4N0eQEqf5YaMlGQ3VyFRRq"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 195757,
       "name": "My Mistake",
       "url": "https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Freefall",
-        "url": "https://open.spotify.com/album/0tcGYRO1ZwobReqGzMR883"
-      },
-      "artists": [
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 219250,
-      "name": "Freefall",
-      "url": "https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2123,6 +2123,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "THERE 4 U",
+        "url": "https://open.spotify.com/album/0lSwV1L7rakokVE9Uny2Nf"
+      },
+      "artists": [
+        {
+          "name": "Alex LeMirage",
+          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "THERE 4 U",
+      "url": "https://open.spotify.com/track/214XTwNwwp16zM1id05Xxj"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "LOVE U BETTER",
         "url": "https://open.spotify.com/album/1uUrVX8qOLxOOKYtHkbw7b"
       },
@@ -2139,18 +2155,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "THERE 4 U",
-        "url": "https://open.spotify.com/album/0lSwV1L7rakokVE9Uny2Nf"
+        "name": "Sister",
+        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
       },
       "artists": [
         {
-          "name": "Alex LeMirage",
-          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
         }
       ],
-      "duration_ms": 200000,
-      "name": "THERE 4 U",
-      "url": "https://open.spotify.com/track/214XTwNwwp16zM1id05Xxj"
+      "duration_ms": 268829,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2187,22 +2203,6 @@
       "duration_ms": 221538,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/5MgK46SeLyGkhtb81v38Ks"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Sister",
-        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 268829,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
     },
     {
       "added_at": "2024-07-26 04:00:00",

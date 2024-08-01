@@ -6403,6 +6403,24 @@
     },
     {
       "album": {
+        "name": "JO-DEKI",
+        "url": "https://open.spotify.com/album/1kNoIaapMgPL7ztHDAQ7ru"
+      },
+      "artists": [
+        {
+          "name": "POLKADOT STINGRAY",
+          "url": "https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "JO-DEKI",
+      "url": "https://open.spotify.com/track/1fu67FayCYkKtlxBgXE74w"
+    },
+    {
+      "album": {
         "name": "JOHJI",
         "url": "https://open.spotify.com/album/6Mv4qwCruIA7hkMAoCwPOt"
       },

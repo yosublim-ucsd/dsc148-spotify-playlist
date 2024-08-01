@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance & electronic by independent artists and labels. Cover: Ben Gerrans. Artwork by Rewina Beshue.",
+  "description": "The best new dance & electronic by independent artists and labels. Cover: davey. Artwork by Rewina Beshue.",
   "name": "Fresh Finds Dance",
   "tracks": [
     {
@@ -230,6 +230,24 @@
       "duration_ms": 275537,
       "name": "180",
       "url": "https://open.spotify.com/track/044Pe0QnRSNOuOSayWnqSQ"
+    },
+    {
+      "album": {
+        "name": "2 Chant",
+        "url": "https://open.spotify.com/album/1b9SN3tFXHYmNVw5czsegw"
+      },
+      "artists": [
+        {
+          "name": "davey",
+          "url": "https://open.spotify.com/artist/7D84vm1nZXH6drPV8L9e6D"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292344,
+      "name": "2 Chant",
+      "url": "https://open.spotify.com/track/6Q2Uo9k489aSA83ZFrhSlZ"
     },
     {
       "album": {
@@ -4530,7 +4548,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 210133,
       "name": "Bon Bon",
       "url": "https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q"
@@ -10608,7 +10626,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 383589,
       "name": "Don't Wait",
       "url": "https://open.spotify.com/track/5c65o3KNnBQaKTK9Jp2TRr"
@@ -11960,7 +11978,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 229444,
       "name": "Enough",
       "url": "https://open.spotify.com/track/2s1WrQ4gYF1sf6A532AiNn"
@@ -17808,7 +17826,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 317939,
       "name": "HONEY",
       "url": "https://open.spotify.com/track/3zP3GUeML163NQR1jMfcIp"
@@ -23879,6 +23897,36 @@
     },
     {
       "album": {
+        "name": "Manse",
+        "url": "https://open.spotify.com/album/3lTKJV5YbLrqIU3RIYi7an"
+      },
+      "artists": [
+        {
+          "name": "Orisha",
+          "url": "https://open.spotify.com/artist/6sFT6HMV13MNQHmpYHM6gq"
+        },
+        {
+          "name": "Meloko",
+          "url": "https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg"
+        },
+        {
+          "name": "Selim Sivade",
+          "url": "https://open.spotify.com/artist/6zQCqwr5oCLdfbvY3n3LIn"
+        },
+        {
+          "name": "Bi A\u00f1a Ara Abure",
+          "url": "https://open.spotify.com/artist/12grsKYTb7kDdAhhGeaMmH"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401951,
+      "name": "Manse",
+      "url": "https://open.spotify.com/track/3sHfCnLdo93yGHDxnCUImr"
+    },
+    {
+      "album": {
         "name": "Manu Elle",
         "url": "https://open.spotify.com/album/3EnweTBNIgtQkKwRvyARGw"
       },
@@ -24278,6 +24326,24 @@
       "duration_ms": 288164,
       "name": "Method of Groove",
       "url": "https://open.spotify.com/track/2EzcuZ8rNKwOrTcfOM7VGk"
+    },
+    {
+      "album": {
+        "name": "Mi Corazon",
+        "url": "https://open.spotify.com/album/48knaTGhE5Ovfe5zOijkEr"
+      },
+      "artists": [
+        {
+          "name": "MAKS (FR)",
+          "url": "https://open.spotify.com/artist/0C3AuNGBY39ioSTA79TzMz"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241935,
+      "name": "Mi Corazon",
+      "url": "https://open.spotify.com/track/3w8r4jpqZWvxcMzbgZd6kC"
     },
     {
       "album": {
@@ -24698,7 +24764,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 202096,
       "name": "Moments",
       "url": "https://open.spotify.com/track/5ZA9IFvOTvAhAhyTIlZ6ML"
@@ -28887,6 +28953,24 @@
     },
     {
       "album": {
+        "name": "pattern",
+        "url": "https://open.spotify.com/album/0yrHBksnSFGtDETVc4HTFW"
+      },
+      "artists": [
+        {
+          "name": "sweepy",
+          "url": "https://open.spotify.com/artist/4lHXCZWKKjkCN5IOO6Hl3P"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130041,
+      "name": "pattern",
+      "url": "https://open.spotify.com/track/3z7mJURng2kqpyUkCofoQt"
+    },
+    {
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/3Y1lboWzn2kyYjVDOwkBjd"
       },
@@ -30166,7 +30250,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 216500,
       "name": "Pull In Near Colima",
       "url": "https://open.spotify.com/track/7B0dtBt41baTe0T3VbYKll"
@@ -33656,6 +33740,24 @@
       "duration_ms": 282240,
       "name": "Small Talk",
       "url": "https://open.spotify.com/track/4cfgKND5Tr3M6W96ZrKqZ0"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/5eM2N950CGsqOM20ccLDYs"
+      },
+      "artists": [
+        {
+          "name": "Atelier",
+          "url": "https://open.spotify.com/artist/6OdAP3bmab4X74sypKMOtu"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167735,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/680iLPZk4KQNnTeHDPbGDW"
     },
     {
       "album": {
@@ -40444,6 +40546,28 @@
       "duration_ms": 259282,
       "name": "Vesper",
       "url": "https://open.spotify.com/track/19MI4vOCHcaDs7zhH9PCDi"
+    },
+    {
+      "album": {
+        "name": "ALWAYS",
+        "url": "https://open.spotify.com/album/6kUOenj0BpAgvKP3Vk0WPi"
+      },
+      "artists": [
+        {
+          "name": "Luis V",
+          "url": "https://open.spotify.com/artist/12Y3P0t9K2ShPGHHJbZduX"
+        },
+        {
+          "name": "Sa\u00efna",
+          "url": "https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164774,
+      "name": "VHS (feat. Sa\u00efna)",
+      "url": "https://open.spotify.com/track/4phwdhd2Xk2htc45eoRYFG"
     },
     {
       "album": {

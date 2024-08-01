@@ -1,6 +1,6 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Mochakk",
-  "num_followers": 488186,
+  "num_followers": 488355,
   "original_name": "All New Dance",
   "owner": {
     "name": "Spotify",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-07-26 04:56:04",
       "album": {
-        "name": "Higher for Your Love",
-        "url": "https://open.spotify.com/album/5FlfqSEtHvLomZNqZx3IvY"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "Higher for Your Love",
-      "url": "https://open.spotify.com/track/3jPiGG9qwNllJKk0Vbohdf"
-    },
-    {
-      "added_at": "2024-07-26 04:56:04",
-      "album": {
         "name": "Say",
         "url": "https://open.spotify.com/album/0vIwbOMkRUnDXg9hXD693d"
       },
@@ -1051,22 +1035,18 @@
     {
       "added_at": "2024-07-26 04:56:04",
       "album": {
-        "name": "Trailblazer",
-        "url": "https://open.spotify.com/album/4nHlVdgTYa0Uod3o4sfXFr"
+        "name": "Higher for Your Love",
+        "url": "https://open.spotify.com/album/5FlfqSEtHvLomZNqZx3IvY"
       },
       "artists": [
         {
-          "name": "Liquid Stranger",
-          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
-        },
-        {
-          "name": "ProbCause",
-          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
         }
       ],
-      "duration_ms": 238628,
-      "name": "Trailblazer",
-      "url": "https://open.spotify.com/track/5psgWqa4cMrANthb7UcfBR"
+      "duration_ms": 171034,
+      "name": "Higher for Your Love",
+      "url": "https://open.spotify.com/track/3jPiGG9qwNllJKk0Vbohdf"
     },
     {
       "added_at": "2024-07-26 04:56:04",
@@ -1091,26 +1071,6 @@
     {
       "added_at": "2024-07-26 04:56:04",
       "album": {
-        "name": "End of Beginning - Remixed",
-        "url": "https://open.spotify.com/album/46Hf96Qwp1DNPO9hKbl9VE"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 187170,
-      "name": "End of Beginning - Channel Tres Remix",
-      "url": "https://open.spotify.com/track/7yNmKyAT8YD83WsRaDNF6B"
-    },
-    {
-      "added_at": "2024-07-26 04:56:04",
-      "album": {
         "name": "Underneath The Strobelights (Exhale VA005)",
         "url": "https://open.spotify.com/album/5N6EQkLrN8qryijUD1SF90"
       },
@@ -1127,7 +1087,7 @@
     {
       "added_at": "2024-07-26 04:56:04",
       "album": {
-        "name": "Coraz\u00f3n",
+        "name": "Coraz\u00f3n / Death by Disco Pt 2",
         "url": "https://open.spotify.com/album/4217Ui5bxrqSH3vuGrT20q"
       },
       "artists": [
@@ -1137,8 +1097,48 @@
         }
       ],
       "duration_ms": 180650,
-      "name": "Coraz\u00f3n",
+      "name": "Coraz\u00f3n / Death by Disco Pt 2",
       "url": "https://open.spotify.com/track/5ePlrWLaehge6VpooLOiwt"
+    },
+    {
+      "added_at": "2024-07-26 04:56:04",
+      "album": {
+        "name": "Trailblazer",
+        "url": "https://open.spotify.com/album/4nHlVdgTYa0Uod3o4sfXFr"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stranger",
+          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        },
+        {
+          "name": "ProbCause",
+          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
+        }
+      ],
+      "duration_ms": 238628,
+      "name": "Trailblazer",
+      "url": "https://open.spotify.com/track/5psgWqa4cMrANthb7UcfBR"
+    },
+    {
+      "added_at": "2024-07-26 04:56:04",
+      "album": {
+        "name": "End of Beginning - Remixed",
+        "url": "https://open.spotify.com/album/46Hf96Qwp1DNPO9hKbl9VE"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 187170,
+      "name": "End of Beginning - Channel Tres Remix",
+      "url": "https://open.spotify.com/track/7yNmKyAT8YD83WsRaDNF6B"
     },
     {
       "added_at": "2024-07-26 04:56:04",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-07-26 04:56:04",
       "album": {
-        "name": "Another World",
-        "url": "https://open.spotify.com/album/1zS4ssyuOpe7CIJh1LJ6DX"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        }
-      ],
-      "duration_ms": 177756,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/76oZCBwQdihccib1CS6yiK"
-    },
-    {
-      "added_at": "2024-07-26 04:56:04",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/4QopFPTULH28wBGUtdk0eb"
       },
@@ -1247,6 +1231,38 @@
     {
       "added_at": "2024-07-26 04:56:04",
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/1GdqL2xW6eVsnBhTRQmTVc"
+      },
+      "artists": [
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        }
+      ],
+      "duration_ms": 241768,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/5YoLcp1bzRTN8sNWXuGvxu"
+    },
+    {
+      "added_at": "2024-07-26 04:56:04",
+      "album": {
+        "name": "Another World",
+        "url": "https://open.spotify.com/album/1zS4ssyuOpe7CIJh1LJ6DX"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "duration_ms": 177756,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/76oZCBwQdihccib1CS6yiK"
+    },
+    {
+      "added_at": "2024-07-26 04:56:04",
+      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/39rUd9drR7qfnOBdueS0yb"
       },
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2024-07-26 04:56:04",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/1GdqL2xW6eVsnBhTRQmTVc"
-      },
-      "artists": [
-        {
-          "name": "Patrick Topping",
-          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
-        }
-      ],
-      "duration_ms": 241768,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/5YoLcp1bzRTN8sNWXuGvxu"
-    },
-    {
-      "added_at": "2024-07-26 04:56:04",
-      "album": {
         "name": "Maximum",
         "url": "https://open.spotify.com/album/0HljOn1QoHyjlZHqjPHgm0"
       },
@@ -1299,6 +1299,22 @@
       "duration_ms": 205384,
       "name": "Maximum",
       "url": "https://open.spotify.com/track/52d7hMqDso3KSzTKT9c0tl"
+    },
+    {
+      "added_at": "2024-07-26 04:56:04",
+      "album": {
+        "name": "Sonedo",
+        "url": "https://open.spotify.com/album/5UN4enHN5YEzvokllwCvKu"
+      },
+      "artists": [
+        {
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+        }
+      ],
+      "duration_ms": 234193,
+      "name": "Sonedo",
+      "url": "https://open.spotify.com/track/2IKnVsP0WnVj5k1ueK3U0z"
     },
     {
       "added_at": "2024-07-26 04:56:04",
@@ -1319,22 +1335,6 @@
       "duration_ms": 210000,
       "name": "The Miracle Makers - Edit",
       "url": "https://open.spotify.com/track/0sqnuQkjkWjHjC5j7bgPo1"
-    },
-    {
-      "added_at": "2024-07-26 04:56:04",
-      "album": {
-        "name": "Sonedo",
-        "url": "https://open.spotify.com/album/5UN4enHN5YEzvokllwCvKu"
-      },
-      "artists": [
-        {
-          "name": "Hot Since 82",
-          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
-        }
-      ],
-      "duration_ms": 234193,
-      "name": "Sonedo",
-      "url": "https://open.spotify.com/track/2IKnVsP0WnVj5k1ueK3U0z"
     },
     {
       "added_at": "2024-07-26 04:56:04",
@@ -1419,6 +1419,30 @@
     {
       "added_at": "2024-07-26 04:56:04",
       "album": {
+        "name": "Give It Up",
+        "url": "https://open.spotify.com/album/3jnATeKH6f3qYef820wW6j"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "The Good Men",
+          "url": "https://open.spotify.com/artist/6i3dwduFX5pMgkijTVRvmX"
+        },
+        {
+          "name": "Chocolate Puma",
+          "url": "https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA"
+        }
+      ],
+      "duration_ms": 190147,
+      "name": "Give It Up",
+      "url": "https://open.spotify.com/track/7qMTqzmYW9FDZg6184Fs4n"
+    },
+    {
+      "added_at": "2024-07-26 04:56:04",
+      "album": {
         "name": "Corporate Shakespeare (Azzecca Remix)",
         "url": "https://open.spotify.com/album/5HmVtPcN1OPMEsryhEdd6h"
       },
@@ -1451,30 +1475,6 @@
       "duration_ms": 182008,
       "name": "Dancers Friendly",
       "url": "https://open.spotify.com/track/7KEVaU0YRSd9Sdtw1ofpqr"
-    },
-    {
-      "added_at": "2024-07-26 04:56:04",
-      "album": {
-        "name": "Give It Up",
-        "url": "https://open.spotify.com/album/3jnATeKH6f3qYef820wW6j"
-      },
-      "artists": [
-        {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
-        },
-        {
-          "name": "The Good Men",
-          "url": "https://open.spotify.com/artist/6i3dwduFX5pMgkijTVRvmX"
-        },
-        {
-          "name": "Chocolate Puma",
-          "url": "https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA"
-        }
-      ],
-      "duration_ms": 190147,
-      "name": "Give It Up",
-      "url": "https://open.spotify.com/track/7qMTqzmYW9FDZg6184Fs4n"
     },
     {
       "added_at": "2024-07-26 04:56:04",
@@ -1551,22 +1551,22 @@
     {
       "added_at": "2024-07-26 04:56:04",
       "album": {
-        "name": "To The Club",
-        "url": "https://open.spotify.com/album/6FeEAKGv25NvQLMpopmu8o"
+        "name": "Hellbound",
+        "url": "https://open.spotify.com/album/3Laz09fHvm5f5lRPkkaJ6E"
       },
       "artists": [
         {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+          "name": "MashBit",
+          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
         },
         {
-          "name": "Spankox",
-          "url": "https://open.spotify.com/artist/15VeucLAy98diDPJ0T3J2V"
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
         }
       ],
-      "duration_ms": 180937,
-      "name": "To The Club",
-      "url": "https://open.spotify.com/track/08owNR8LaRREKGk40OFX8r"
+      "duration_ms": 177723,
+      "name": "Hellbound",
+      "url": "https://open.spotify.com/track/5fvVLhYMv13ygNvYlHaB5f"
     },
     {
       "added_at": "2024-07-26 04:56:04",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2024-07-26 04:56:04",
       "album": {
+        "name": "To The Club",
+        "url": "https://open.spotify.com/album/6FeEAKGv25NvQLMpopmu8o"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Spankox",
+          "url": "https://open.spotify.com/artist/15VeucLAy98diDPJ0T3J2V"
+        }
+      ],
+      "duration_ms": 180937,
+      "name": "To The Club",
+      "url": "https://open.spotify.com/track/08owNR8LaRREKGk40OFX8r"
+    },
+    {
+      "added_at": "2024-07-26 04:56:04",
+      "album": {
         "name": "So Different",
         "url": "https://open.spotify.com/album/36Qxy0uYkoTu5sVWvIzoVZ"
       },
@@ -1607,26 +1627,6 @@
       "duration_ms": 180000,
       "name": "So Different",
       "url": "https://open.spotify.com/track/7ncQlEWDcux4xhuoGzY2Lc"
-    },
-    {
-      "added_at": "2024-07-26 04:56:04",
-      "album": {
-        "name": "Hellbound",
-        "url": "https://open.spotify.com/album/3Laz09fHvm5f5lRPkkaJ6E"
-      },
-      "artists": [
-        {
-          "name": "MashBit",
-          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 177723,
-      "name": "Hellbound",
-      "url": "https://open.spotify.com/track/5fvVLhYMv13ygNvYlHaB5f"
     },
     {
       "added_at": "2024-07-26 04:56:04",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2024-07-26 04:56:04",
       "album": {
+        "name": "Push That",
+        "url": "https://open.spotify.com/album/1yCMePPdB5S7c8MKTudZZH"
+      },
+      "artists": [
+        {
+          "name": "Stoley",
+          "url": "https://open.spotify.com/artist/3zhrErhSD05oqdDKVs8UVR"
+        }
+      ],
+      "duration_ms": 205278,
+      "name": "Push That",
+      "url": "https://open.spotify.com/track/1xOYdelTPr55KdHr3iiojn"
+    },
+    {
+      "added_at": "2024-07-26 04:56:04",
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/1Rk6pVGxmV8bM64wOCYqUN"
       },
@@ -1799,18 +1815,18 @@
     {
       "added_at": "2024-07-26 04:56:04",
       "album": {
-        "name": "Push That",
-        "url": "https://open.spotify.com/album/1yCMePPdB5S7c8MKTudZZH"
+        "name": "LFO",
+        "url": "https://open.spotify.com/album/02qqZ59ObAC7IcDIE9WfDw"
       },
       "artists": [
         {
-          "name": "Stoley",
-          "url": "https://open.spotify.com/artist/3zhrErhSD05oqdDKVs8UVR"
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
         }
       ],
-      "duration_ms": 205278,
-      "name": "Push That",
-      "url": "https://open.spotify.com/track/1xOYdelTPr55KdHr3iiojn"
+      "duration_ms": 170625,
+      "name": "LFO",
+      "url": "https://open.spotify.com/track/4WoToF6YK8PFPnykFt8bXI"
     },
     {
       "added_at": "2024-07-26 04:56:04",
@@ -1831,22 +1847,6 @@
       "duration_ms": 240125,
       "name": "Burn This City",
       "url": "https://open.spotify.com/track/5NeeU7IPXNRtpxFGKIoHf1"
-    },
-    {
-      "added_at": "2024-07-26 04:56:04",
-      "album": {
-        "name": "LFO",
-        "url": "https://open.spotify.com/album/02qqZ59ObAC7IcDIE9WfDw"
-      },
-      "artists": [
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
-        }
-      ],
-      "duration_ms": 170625,
-      "name": "LFO",
-      "url": "https://open.spotify.com/track/4WoToF6YK8PFPnykFt8bXI"
     },
     {
       "added_at": "2024-07-26 04:56:04",
@@ -1959,6 +1959,26 @@
     {
       "added_at": "2024-07-26 04:56:04",
       "album": {
+        "name": "Dance For Me",
+        "url": "https://open.spotify.com/album/6KgUsZ1RMePMnMOhmwIU1D"
+      },
+      "artists": [
+        {
+          "name": "MADGRRL",
+          "url": "https://open.spotify.com/artist/5kDQRbBoi2kxCHuR3YXzaX"
+        },
+        {
+          "name": "T A N E",
+          "url": "https://open.spotify.com/artist/76vKcd8tKbbD9Ryrmsshgn"
+        }
+      ],
+      "duration_ms": 168371,
+      "name": "Dance For Me",
+      "url": "https://open.spotify.com/track/5VuQbGNZEpBzMPWYl84IF1"
+    },
+    {
+      "added_at": "2024-07-26 04:56:04",
+      "album": {
         "name": "MyLuv",
         "url": "https://open.spotify.com/album/0gGRm53BOeEqC2geap5iq4"
       },
@@ -1975,26 +1995,6 @@
       "duration_ms": 177924,
       "name": "MyLuv",
       "url": "https://open.spotify.com/track/3RZJacRvfr3MdWc6TCNTzi"
-    },
-    {
-      "added_at": "2024-07-26 04:56:04",
-      "album": {
-        "name": "Yoruba Riddim, Log On",
-        "url": "https://open.spotify.com/album/144aXOCHsVHC2hfohrKNmz"
-      },
-      "artists": [
-        {
-          "name": "Mel\u00e9",
-          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
-        },
-        {
-          "name": "KILIMANJARO",
-          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
-        }
-      ],
-      "duration_ms": 228571,
-      "name": "Yoruba Riddim",
-      "url": "https://open.spotify.com/track/0TrVS90gLpKq2okJ66AEfz"
     },
     {
       "added_at": "2024-07-26 04:56:04",
@@ -2019,6 +2019,26 @@
     {
       "added_at": "2024-07-26 04:56:04",
       "album": {
+        "name": "Yoruba Riddim, Log On",
+        "url": "https://open.spotify.com/album/144aXOCHsVHC2hfohrKNmz"
+      },
+      "artists": [
+        {
+          "name": "Mel\u00e9",
+          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
+        },
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "Yoruba Riddim",
+      "url": "https://open.spotify.com/track/0TrVS90gLpKq2okJ66AEfz"
+    },
+    {
+      "added_at": "2024-07-26 04:56:04",
+      "album": {
         "name": "Too Late Now (feat. Emma Cannon)",
         "url": "https://open.spotify.com/album/5Yz33apFY93jn3qR70PdTC"
       },
@@ -2035,26 +2055,6 @@
       "duration_ms": 143164,
       "name": "Too Late Now (feat. Emma Cannon)",
       "url": "https://open.spotify.com/track/3V5weOpt700MJjoM3ksJdY"
-    },
-    {
-      "added_at": "2024-07-26 04:56:04",
-      "album": {
-        "name": "Dance For Me",
-        "url": "https://open.spotify.com/album/6KgUsZ1RMePMnMOhmwIU1D"
-      },
-      "artists": [
-        {
-          "name": "MADGRRL",
-          "url": "https://open.spotify.com/artist/5kDQRbBoi2kxCHuR3YXzaX"
-        },
-        {
-          "name": "T A N E",
-          "url": "https://open.spotify.com/artist/76vKcd8tKbbD9Ryrmsshgn"
-        }
-      ],
-      "duration_ms": 168371,
-      "name": "Dance For Me",
-      "url": "https://open.spotify.com/track/5VuQbGNZEpBzMPWYl84IF1"
     },
     {
       "added_at": "2024-07-26 04:56:04",
@@ -2091,6 +2091,22 @@
     {
       "added_at": "2024-07-26 04:56:04",
       "album": {
+        "name": "Outta Ya Mind",
+        "url": "https://open.spotify.com/album/325C9CA1QrzTkCSenjx0Vd"
+      },
+      "artists": [
+        {
+          "name": "Juliet Fox",
+          "url": "https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Outta Ya Mind",
+      "url": "https://open.spotify.com/track/6ugTym81onnCL22QBmWb87"
+    },
+    {
+      "added_at": "2024-07-26 04:56:04",
+      "album": {
         "name": "DOMINATOR - ROSEY GOLD & JAY MUSIC VS HUMAN RESOURCE",
         "url": "https://open.spotify.com/album/1qyfoCN8GQCZOG2BR7T5nZ"
       },
@@ -2109,24 +2125,8 @@
         }
       ],
       "duration_ms": 412631,
-      "name": "DOMINATOR - ROSEY GOLD & JAY MUSIC VS HUMAN RESOURCE",
+      "name": "DOMINATOR - ROSEY GOLD & JAY MUSIC vs. HUMAN RESOURCE",
       "url": "https://open.spotify.com/track/09LnLn1TaUrkSdKukKfQOM"
-    },
-    {
-      "added_at": "2024-07-26 04:56:04",
-      "album": {
-        "name": "Outta Ya Mind",
-        "url": "https://open.spotify.com/album/325C9CA1QrzTkCSenjx0Vd"
-      },
-      "artists": [
-        {
-          "name": "Juliet Fox",
-          "url": "https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Outta Ya Mind",
-      "url": "https://open.spotify.com/track/6ugTym81onnCL22QBmWb87"
     },
     {
       "added_at": "2024-07-26 04:56:04",
@@ -2187,6 +2187,22 @@
     {
       "added_at": "2024-07-26 04:56:04",
       "album": {
+        "name": "Dirty House",
+        "url": "https://open.spotify.com/album/7EGX0x5CGqvST9QfUgDEuv"
+      },
+      "artists": [
+        {
+          "name": "Jonasu",
+          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
+        }
+      ],
+      "duration_ms": 131173,
+      "name": "Dirty House",
+      "url": "https://open.spotify.com/track/69dFRzBNRbXnNYEb3u0IZu"
+    },
+    {
+      "added_at": "2024-07-26 04:56:04",
+      "album": {
         "name": "CHICAGO",
         "url": "https://open.spotify.com/album/6hu0zFx194QGKc9688odcC"
       },
@@ -2207,22 +2223,6 @@
       "duration_ms": 310153,
       "name": "CHICAGO",
       "url": "https://open.spotify.com/track/0A6UNi1Sc3jttE5atlPd7L"
-    },
-    {
-      "added_at": "2024-07-26 04:56:04",
-      "album": {
-        "name": "Dirty House",
-        "url": "https://open.spotify.com/album/7EGX0x5CGqvST9QfUgDEuv"
-      },
-      "artists": [
-        {
-          "name": "Jonasu",
-          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
-        }
-      ],
-      "duration_ms": 131173,
-      "name": "Dirty House",
-      "url": "https://open.spotify.com/track/69dFRzBNRbXnNYEb3u0IZu"
     },
     {
       "added_at": "2024-07-26 04:56:04",

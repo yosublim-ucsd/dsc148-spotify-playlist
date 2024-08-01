@@ -2,9 +2,9 @@
 
 ### [Brillas](https://open.spotify.com/playlist/37i9dQZF1DX7yaR5d7FkNX)
 
-> ✨❤️🌹Para Rocanlovers en compañía de Technicolor Fabrics y Hello Seahorse
+> ✨❤️🌹Para Rocanlovers en compañía de Peces Raros
 
-240 songs - 14 hr 39 min
+244 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,12 +13,12 @@
 | [AAP](https://open.spotify.com/track/5KoFGCIAuX9aFVUXaJawvW) | [Cosmic Brothers](https://open.spotify.com/artist/08tsg7xu6UKkxOjSqvn8ba) | [AAP](https://open.spotify.com/album/0vpfrMyERPmFF1wA7XqOeJ) | 5:41 | 2023-04-24 | 2023-07-01 |
 | [Abismo](https://open.spotify.com/track/05jqbc1rLQEO7ChyHBmE6V) | [Costa Felina](https://open.spotify.com/artist/742Og7D5C7u1USoNJHNiOT) | [Abismo](https://open.spotify.com/album/4F5ItUjqDeZ15OTQHd4Aky) | 3:37 | 2024-07-12 |  |
 | [Abril](https://open.spotify.com/track/1iDw6gQPCiRaXlzvnryPKh) | [Salvador y el Unicornio](https://open.spotify.com/artist/4rrx0ClvlnMpZTDX4Uasbm) | [La Fama](https://open.spotify.com/album/21Xq8rEbyJpRyLkvEUot7l) | 3:02 | 2022-01-28 | 2023-07-01 |
-| [Acelerar](https://open.spotify.com/track/1hP1iHCGOaA9GraLDeBt2O) | [Ross J\. Rodrigo](https://open.spotify.com/artist/7ziN1J53NW2enUFbxd01C4) | [Acelerar](https://open.spotify.com/album/0FMudSMcFuKShSYkXAApP3) | 3:22 | 2023-03-17 |  |
+| [Acelerar](https://open.spotify.com/track/1hP1iHCGOaA9GraLDeBt2O) | [Ross J\. Rodrigo](https://open.spotify.com/artist/7ziN1J53NW2enUFbxd01C4) | [Acelerar](https://open.spotify.com/album/0FMudSMcFuKShSYkXAApP3) | 3:22 | 2023-03-17 | 2024-08-01 |
 | [Acicálame](https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Correspondencia](https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa) | 3:22 | 2022-04-26 | 2023-07-01 |
 | [Acá](https://open.spotify.com/track/3f7lb7Y4YUaxQb8a0YP9Qr) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [TRAUMADOS](https://open.spotify.com/album/0r8YRk6T4vdpRE8StwonTV) | 4:10 | 2024-07-12 |  |
 | [Adentro Brilla El Sol](https://open.spotify.com/track/2Y985lqSz23xEgUhdRZK28) | [Tunacola](https://open.spotify.com/artist/0E0FX8RYDfwseJAhwO9AK2) | [Todo es Ceremonia en el Jardin Salvaje](https://open.spotify.com/album/1cwkQ7TFUp35Gju5Y7DL2L) | 3:04 | 2023-05-05 |  |
 | [Al Borde del Infinito](https://open.spotify.com/track/3dQtpFYJ8FlwxWFov1jXYq) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Al Borde del Infinito](https://open.spotify.com/album/5MO5FGNuMfF0gWPmjk0dOC) | 4:09 | 2024-07-12 |  |
-| [Algo De Verdad](https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Algo De Verdad](https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV) | 2:27 | 2023-04-14 |  |
+| [Algo De Verdad](https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Algo De Verdad](https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV) | 2:27 | 2023-04-14 | 2024-08-01 |
 | [Algo Es Mejor](https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Algo Es Mejor](https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r) | 4:01 | 2022-01-28 |  |
 | [Alto Riesgo](https://open.spotify.com/track/6mBGhOa2l2bltOh12QiHbl) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Alto Riesgo](https://open.spotify.com/album/5gXL83O1KlPQoJRAWkUMM2) | 3:27 | 2022-01-28 |  |
 | [Alucinante](https://open.spotify.com/track/7gkw2rnb9fr0jFibCEjeTK) | [Monte Casino](https://open.spotify.com/artist/5ar40BBA3PLuS5Ac8D8zon), [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Alucinante](https://open.spotify.com/album/2zFnVvMJjnuqG8bTLSdcDg) | 2:37 | 2022-01-28 | 2023-07-01 |
@@ -46,6 +46,7 @@
 | [Brújula](https://open.spotify.com/track/1VhoDw3C8fgncrOliUMmqo) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Brújula](https://open.spotify.com/album/4SFSnrvdW1hIqUPR3qLobz) | 4:12 | 2022-01-28 | 2022-08-02 |
 | [Buenos Días, Tardes Ya](https://open.spotify.com/track/2R199UIEVC34Nou5YQahMj) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Buenos Días, Tardes Ya](https://open.spotify.com/album/5yelo0AalKgvc2TzyOXbJ2) | 4:12 | 2022-01-28 | 2023-11-07 |
 | [Cachito De Galaxia](https://open.spotify.com/track/6T0ATRfwd6t1xEuVS2hgGN) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [La Historia Sin Fin](https://open.spotify.com/album/6k6jrCUKBeZflALDUS8UF3) | 4:57 | 2022-02-25 |  |
+| [Cada Quien](https://open.spotify.com/track/4ayJaxA5MjPEopjWYNMAbr) | [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP), [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx) | [Cada Quien](https://open.spotify.com/album/4QS3kIW0YTZAMZMkaJ1mLH) | 3:04 | 2024-07-31 |  |
 | [Califórnica](https://open.spotify.com/track/50gjhPjZCyQpya1Bcq2BNe) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Monarca](https://open.spotify.com/album/2Y2jwkzcM6CszpX1FEghEw) | 3:30 | 2022-04-26 | 2023-07-01 |
 | [Carta de Amor](https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Carta de Amor](https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF) | 2:56 | 2023-11-22 |  |
 | [Cerca](https://open.spotify.com/track/2qZ146aMtXEx3mQ4qLijol) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Cerca](https://open.spotify.com/album/7H9c1oaTs6DRLoRM1SR3it) | 4:43 | 2023-02-10 | 2024-03-05 |
@@ -129,6 +130,7 @@
 | [Insatisfecho](https://open.spotify.com/track/12bpuwhO89NZuKgcWAM7tN) | [PJAMA](https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH) | [Insatisfecho](https://open.spotify.com/album/67677bOS0mEinGuIto707S) | 3:07 | 2022-01-28 | 2023-07-01 |
 | [Invierno](https://open.spotify.com/track/7Lt1pDskyOACrikOmHGz98) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:16 | 2022-11-24 | 2023-12-23 |
 | [Irresponsables](https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn) | 2:36 | 2022-01-28 |  |
+| [Ké MaL](https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ké MaL](https://open.spotify.com/album/2GHyrL2mwHWmw1vmQfCrNv) | 3:08 | 2024-07-31 |  |
 | [La Llamada](https://open.spotify.com/track/7LDc6HR0Z2wvcPmlH3zvAG) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [La Llamada](https://open.spotify.com/album/7HKAzGH5Lo7v2WYRIAuZDt) | 4:09 | 2023-10-23 | 2024-06-18 |
 | [La Magia](https://open.spotify.com/track/3XJmD5suzFUBHJ7sizBAiy) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 4:05 | 2022-01-28 | 2024-04-19 |
 | [La Magia](https://open.spotify.com/track/6Z8JXcW9fQuNRXznoBMfgp) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/7F82fBlo73zEKEauNfNQLP) | 4:05 | 2022-01-28 |  |
@@ -155,6 +157,7 @@
 | [MELANCOLÍA](https://open.spotify.com/track/5spLk611BNLAjZF4YHhn2r) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [MELANCOLÍA](https://open.spotify.com/album/59hsT0IGncAPHWmuhoDetX) | 4:22 | 2023-06-23 | 2023-07-21 |
 | [Mi + 1](https://open.spotify.com/track/7vr6sOiAkiDVteYSmg5FNU) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM), [Sofia Ellar](https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR) | [Mi + 1](https://open.spotify.com/album/6zNItkFIgiGd0ZK35jt6fM) | 2:46 | 2024-06-17 |  |
 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 | 2023-06-02 |  |
+| [Mirada](https://open.spotify.com/track/0tXFWZC3ZF44vgi0h2o4iI) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [MIRADA](https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM) | 2:47 | 2024-07-31 |  |
 | [Monitor](https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 3:57 | 2022-01-28 |  |
 | [Morrita Azul](https://open.spotify.com/track/5ugkK2FaDZNOT2qT6G1wyW) | [Lengua de Mapa](https://open.spotify.com/artist/0IdsdNuZXciBVnTTNjJS3A) | [Morrita Azul](https://open.spotify.com/album/6v9VzXOcsqq4ZfCe593lYs) | 3:57 | 2024-02-23 |  |
 | [Movimiento](https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Astronomía Interior](https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu) | 3:23 | 2023-01-27 |  |
@@ -166,9 +169,10 @@
 | [Más Amor](https://open.spotify.com/track/4oOlfa8rQrTXq2eh0mKbpR) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9), [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [Más Amor](https://open.spotify.com/album/05lBHsy6OFNJLNQuKFYJqZ) | 2:43 | 2023-11-06 | 2024-02-24 |
 | [Máscara de Niña](https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Máscara de Niña](https://open.spotify.com/album/5oYBMmeTlPZcIqwqSL9iEw) | 3:14 | 2023-03-24 | 2024-03-05 |
 | [Nada Importa Tanto](https://open.spotify.com/track/7lJ9hBAw1M1HEzVv2DDTJd) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Nada Importa Tanto](https://open.spotify.com/album/5amLYy53WJ55Ga58lgv1w4) | 2:59 | 2024-06-28 |  |
+| [Nada para siempre](https://open.spotify.com/track/4DxAIWAKUuiGe9yEBx6TeB) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Artificial](https://open.spotify.com/album/2RuOgjec3N5frlq6O5MgUI) | 3:49 | 2024-07-31 |  |
 | [Nada Que No Quieras Tú](https://open.spotify.com/track/6PQc1dYKcIjQGmHZReUTvk) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Redes Sociales](https://open.spotify.com/album/1dTlq4zPoV7Lv2Q5ZcTKNE) | 3:02 | 2022-04-26 | 2023-07-01 |
 | [nadie me cae bien](https://open.spotify.com/track/35bu49h6EEYptKobXmBQma) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [nadie me cae bien](https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea) | 3:48 | 2022-01-28 | 2023-12-23 |
-| [Nena, dime algo.](https://open.spotify.com/track/3arnuYBuNFads3xhmztypA) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Nena, dime algo.](https://open.spotify.com/album/4LNN7H1otfd8z5TFIlQCEY) | 2:36 | 2023-04-07 |  |
+| [Nena, dime algo.](https://open.spotify.com/track/3arnuYBuNFads3xhmztypA) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Nena, dime algo.](https://open.spotify.com/album/4LNN7H1otfd8z5TFIlQCEY) | 2:36 | 2023-04-07 | 2024-08-01 |
 | [No](https://open.spotify.com/track/5WtamSoWfV3Zj2NKMSTGhy) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [No](https://open.spotify.com/album/63zjSmsePSeevbbaSB80Ga) | 3:44 | 2022-01-28 | 2023-07-01 |
 | [No Digas Nada](https://open.spotify.com/track/6YiWdUMnMUJ84Ik9JUG7NL) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [No Digas Nada](https://open.spotify.com/album/11oUQbgiKOlQopjkZhvp5Z) | 4:07 | 2023-09-01 |  |
 | [No Me Provoques](https://open.spotify.com/track/1SMw2ZiOmzU9xogXlBS4Nq) | [Javier Blake](https://open.spotify.com/artist/7rWuyGabaLQSmsHpZJkMzx) | [No Me Provoques](https://open.spotify.com/album/7etvFe4PKI8GYRNVsAIcND) | 4:36 | 2022-01-28 | 2023-07-01 |
@@ -188,7 +192,7 @@
 | [Pensándote](https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Pensándote](https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv) | 2:27 | 2023-06-09 | 2024-05-14 |
 | [Perdóname](https://open.spotify.com/track/4B8nYFNBkksyZiiiT9PfwP) | [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Perdóname](https://open.spotify.com/album/0cBmNrY7sXXQRE1REBcJvF) | 3:36 | 2024-02-16 |  |
 | [Perfecta](https://open.spotify.com/track/7mLR5xbc4HG6u1BOKcQzxL) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Tiempos Mejores](https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9) | 3:23 | 2022-01-28 | 2023-07-01 |
-| [Perra Soledad](https://open.spotify.com/track/6wYF5EU5fLmemMGDGaIaVF) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9) | [Perra Soledad](https://open.spotify.com/album/3doJ5jjjid4alv36j9yssG) | 3:30 | 2023-03-03 |  |
+| [Perra Soledad](https://open.spotify.com/track/6wYF5EU5fLmemMGDGaIaVF) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9) | [Perra Soledad](https://open.spotify.com/album/3doJ5jjjid4alv36j9yssG) | 3:30 | 2023-03-03 | 2024-08-01 |
 | [Pijamas](https://open.spotify.com/track/1AYgMuI3cgL5EjnfhnZVoq) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 3:29 | 2022-01-28 |  |
 | [Plate of Pie](https://open.spotify.com/track/4xsHMYE4RkggbBGFDiSYNr) | [Base Stereo Club](https://open.spotify.com/artist/4WCxqglOLB9kHPSsTNap7q) | [Plate of Pie](https://open.spotify.com/album/41G02cfTAHtRlAUfxoclLb) | 4:33 | 2022-03-18 | 2023-07-01 |
 | [playaplaya](https://open.spotify.com/track/6ZajgXF30GEtlVDRaqygui) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [playaplaya](https://open.spotify.com/album/5yB8QFZFsq5NqmrlErBlwQ) | 2:45 | 2024-04-23 |  |

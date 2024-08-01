@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-507 songs - 22 hr 45 min
+508 songs - 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA) | 4:08 | 2023-12-21 |  |
 | [Get You Alone](https://open.spotify.com/track/1QWpPdRbTRSWpsmBZzD9cA) | [Higher Lane](https://open.spotify.com/artist/1FlwGYjqpPXt0kzomFYgmX) | [Get You Alone](https://open.spotify.com/album/680uc78BjvGgwXi2hRLFuV) | 2:51 | 2024-05-03 | 2024-06-15 |
 | [Ghost](https://open.spotify.com/track/1xGlU3G0gt9nUXDYjS2xNd) | [DAV5](https://open.spotify.com/artist/47dPr2uiIrwKz4ALQ6ejWG), [ALEV](https://open.spotify.com/artist/6aJbn3lXAQsFM3tl742XaD), [Ekzail](https://open.spotify.com/artist/0kxmk8FU8SykcX1PpUXw9w), [Cession](https://open.spotify.com/artist/6jQxnDzHiCsFrLlH5gV5Uh) | [Ghost](https://open.spotify.com/album/1KYhnQCgCoeaB1sw82f7ZS) | 2:25 | 2024-04-05 | 2024-05-03 |
+| [Ghost Town](https://open.spotify.com/track/19itbobOJr7meDdkebuv5k) | [Dūne](https://open.spotify.com/artist/5TtvkENnGTgiOTO8gTbTmo) | [Ghost Town](https://open.spotify.com/album/28MPwSRvKMee3hR3lGqZnz) | 2:24 | 2024-07-31 |  |
 | [Going Up](https://open.spotify.com/track/3HIaZIdc6ZJHdrldptfRpR) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Going Up](https://open.spotify.com/album/5VwDEyeptaWpEg5Wi2pQ4F) | 2:14 | 2024-01-18 |  |
 | [Gone](https://open.spotify.com/track/4KQMJ2iLtRNtv7s2rSDMOg) | [Polyline](https://open.spotify.com/artist/6dEvYvzMFqS3ADtQ0hGsWc), [Phonic Youth](https://open.spotify.com/artist/19j2mxQkCDl6jNS9s6bf3D) | [Gone](https://open.spotify.com/album/6Akq8POXXtnSCqrl69v374) | 3:24 | 2024-01-19 | 2024-03-16 |
 | [Good Life \(feat\. Elderbrook\)](https://open.spotify.com/track/7FJVrTfU5eWPQowHttM4Rp) | [goodlife](https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Good Life \(feat\. Elderbrook\)](https://open.spotify.com/album/7CwDbwqPjE0Ik2c5C0MSAw) | 2:47 | 2023-11-21 |  |

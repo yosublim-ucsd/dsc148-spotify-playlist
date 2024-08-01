@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-510 songs - 1 day 6 hr 18 min
+511 songs - 1 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Egyptian Luvr \(feat\. Aminé and Dana Williams\)](https://open.spotify.com/track/4uToWVHXLtKEEboNsG3n2u) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Dear Annie](https://open.spotify.com/album/16bkk7YWytTk5I3VPMU4mv) | 4:16 | 2022-04-03 | 2022-04-16 |
 | [Elasto](https://open.spotify.com/track/0joWz6mlWQtcREQzYurLVo) | [Schwey](https://open.spotify.com/artist/1HjpNX0zNXYbHe38hMgDgZ), [Artemis](https://open.spotify.com/artist/1weRXyXXSBxar799mDmQ2v) | [Schwey](https://open.spotify.com/album/46W9GXfRJpQdlYs9cCus0m) | 3:42 | 2021-12-23 | 2022-07-29 |
 | [empties](https://open.spotify.com/track/50RKXiXT8FqHInz2N1AixD) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [empties](https://open.spotify.com/album/4eGoLvI3uw3abndYvmTFsc) | 3:27 | 2022-03-24 | 2022-04-16 |
+| [Enchanté](https://open.spotify.com/track/10wbN21d8FXT0cFIaCw1yV) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Enchanté](https://open.spotify.com/album/563FrJ2AfhKQj1nqYCISaM) | 2:42 | 2024-07-26 |  |
 | [Evergreen \(You Didn’t Deserve Me At All\) \- Live At NPR's Tiny Desk](https://open.spotify.com/track/2gByHvt8cLpctREvU835gT) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Evergreen \(You Didn't Deserve Me At All\) \[Live At NPR's Tiny Desk\]](https://open.spotify.com/album/1wuLdAWwgUfKx78vR4VXDj) | 4:52 | 2022-10-20 | 2022-11-18 |
 | [F.N.A.P.](https://open.spotify.com/track/2hvHJKYzUulhYtSauN0U6l) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [F.N.A.P.](https://open.spotify.com/album/0uIapDw7UWY2omzVtBGUfE) | 2:51 | 2023-09-08 | 2023-11-17 |
 | [Fade Out \- FOFU remix](https://open.spotify.com/track/1SJI6TfA3Rc5e2aXnBIDyE) | [fofu](https://open.spotify.com/artist/0s7Hki24pRQahhMRpU7n1U), [SARA\-J](https://open.spotify.com/artist/5o11pS7iIyQ2H4Uw587jyL), [starRo](https://open.spotify.com/artist/2kvBsTdtEvwUGOaSDDiKZg) | [Fade Out \(FOFU remix\)](https://open.spotify.com/album/2r7uJi4YQI4fhWEsYnmVs1) | 3:25 | 2022-03-24 | 2022-04-18 |
@@ -326,7 +327,7 @@
 | [R e s e n t m e n t](https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e s e n t m e n t](https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi) | 3:44 | 2023-07-06 | 2024-02-16 |
 | [RACING](https://open.spotify.com/track/2pUmPWadj3IHlwjztX4KRm) | [Ferge X Fisherman](https://open.spotify.com/artist/0fNCdYRIRFern2T46bEVDV) | [RACING](https://open.spotify.com/album/59YLKCcSuRDwKAvJ2A3Bsc) | 3:08 | 2024-01-18 | 2024-01-26 |
 | [Ramble In The Rainbow](https://open.spotify.com/track/3WYs9M0Cn1h9D6bHlfBjYW) | [TAMTAM](https://open.spotify.com/artist/3McQeN9sXTIvZHACTtsutN) | [Ramble In The Rainbow](https://open.spotify.com/album/21XAQLhqdawyfWcf4iC6Sq) | 4:03 | 2024-01-18 | 2024-05-10 |
-| [React](https://open.spotify.com/track/3ok8eAQioOTORzkuJ8pHZk) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [React](https://open.spotify.com/album/65scBPZ6DNuKCjcQkeJnjB) | 2:41 | 2024-05-09 |  |
+| [React](https://open.spotify.com/track/3ok8eAQioOTORzkuJ8pHZk) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [React](https://open.spotify.com/album/65scBPZ6DNuKCjcQkeJnjB) | 2:41 | 2024-05-09 | 2024-08-01 |
 | [Real Good \- Kan Sano Remix](https://open.spotify.com/track/0i8cpVrAhgU8AVUbbksw8o) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Real Good \(Kan Sano Remix\)](https://open.spotify.com/album/0EWaHIvuG9d95xvmPTy2rR) | 3:08 | 2022-12-01 | 2023-02-28 |
 | [Real Lovin’](https://open.spotify.com/track/4B8hyy8Q6OlOJr8T6VtDxK) | [sheidA](https://open.spotify.com/artist/4cCmlLDD6JcIEM4RaDIxaZ) | [Real Lovin’](https://open.spotify.com/album/1WdnXljnp3waCoXApZuo3L) | 3:26 | 2022-03-24 | 2022-04-15 |
 | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/album/5frBRYEzuxcYkqgwDH82Sj) | 2:57 | 2021-12-23 | 2022-11-19 |

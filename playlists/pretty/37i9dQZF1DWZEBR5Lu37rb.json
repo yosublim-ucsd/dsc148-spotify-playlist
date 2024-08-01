@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 68399,
+  "num_followers": 68497,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Wetin",
-        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
-      },
-      "artists": [
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        }
-      ],
-      "duration_ms": 78946,
-      "name": "Wetin",
-      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Rose Gold",
         "url": "https://open.spotify.com/album/0iGhXnhrNFxaSnZN0CK6ML"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 233000,
       "name": "Suited",
       "url": "https://open.spotify.com/track/1ANr6ZNtwd8klYxYdXLR7t"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Wetin",
+        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "duration_ms": 78946,
+      "name": "Wetin",
+      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -736,8 +736,8 @@
       },
       "artists": [
         {
-          "name": "Intaba Yase Dubai",
-          "url": "https://open.spotify.com/artist/2j6fdvCneiKmXX8rsYEoU6"
+          "name": "Intabayasedubai",
+          "url": "https://open.spotify.com/artist/1W06EJ2okvibjqv4Ae2ZBK"
         }
       ],
       "duration_ms": 300773,
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Break Through",
-        "url": "https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL"
-      },
-      "artists": [
-        {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
-        }
-      ],
-      "duration_ms": 246884,
-      "name": "Mansa",
-      "url": "https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Hiyo Lento",
         "url": "https://open.spotify.com/album/5bzpGxfaAfxhaeMRXWjYql"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 335840,
       "name": "Sponky Ponky",
       "url": "https://open.spotify.com/track/3aP5INLpRhdPK4PXWUVpIH"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Break Through",
+        "url": "https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "duration_ms": 246884,
+      "name": "Mansa",
+      "url": "https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1135,30 +1135,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Fine Wine (feat. King Promise & Joeboy)",
-        "url": "https://open.spotify.com/album/3f6FbIilED8NakLgcWAhqi"
-      },
-      "artists": [
-        {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Fine Wine (feat. King Promise & Joeboy)",
-      "url": "https://open.spotify.com/track/3E3WIVDBt4rX4N2kRrwSah"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Sondela (feat. Yumbs, Raspy, Blxckie, Riky Rick & Tshego)",
         "url": "https://open.spotify.com/album/7JpIFYw3A6DlTK8PsoZ8PA"
       },
@@ -1195,6 +1171,30 @@
       "duration_ms": 246822,
       "name": "Sondela (feat. Yumbs, Raspy, Blxckie, Riky Rick & Tshego)",
       "url": "https://open.spotify.com/track/0Fts0ctd6WoZPjffe6VlCD"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Fine Wine (feat. King Promise & Joeboy)",
+        "url": "https://open.spotify.com/album/3f6FbIilED8NakLgcWAhqi"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Fine Wine (feat. King Promise & Joeboy)",
+      "url": "https://open.spotify.com/track/3E3WIVDBt4rX4N2kRrwSah"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Uliza Kiatu",
-        "url": "https://open.spotify.com/album/02iYIjv0w9avU0ievBGw2p"
-      },
-      "artists": [
-        {
-          "name": "H_art the Band",
-          "url": "https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1"
-        }
-      ],
-      "duration_ms": 258226,
-      "name": "Uliza Kiatu",
-      "url": "https://open.spotify.com/track/2jpPjMCRGg976CM9VuhkEg"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Bald Men Love Better",
         "url": "https://open.spotify.com/album/0mh0omjloNFwYzudtlk8xZ"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 174807,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/6HFRsC9QAkBU6zQwgmTS15"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Uliza Kiatu",
+        "url": "https://open.spotify.com/album/02iYIjv0w9avU0ievBGw2p"
+      },
+      "artists": [
+        {
+          "name": "H_art the Band",
+          "url": "https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1"
+        }
+      ],
+      "duration_ms": 258226,
+      "name": "Uliza Kiatu",
+      "url": "https://open.spotify.com/track/2jpPjMCRGg976CM9VuhkEg"
     },
     {
       "added_at": "2024-05-22 11:00:00",

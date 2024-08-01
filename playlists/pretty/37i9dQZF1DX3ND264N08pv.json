@@ -1,6 +1,6 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 74191,
+  "num_followers": 74214,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-07-26 06:15:12",
       "album": {
+        "name": "NEED FOR SPEED",
+        "url": "https://open.spotify.com/album/3bNU00DAypHgWuehEIl935"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "2 Tha Rhythm",
+      "url": "https://open.spotify.com/track/6rJxvDAAgoVDxi3x6ZMBYp"
+    },
+    {
+      "added_at": "2024-07-26 06:15:12",
+      "album": {
         "name": "Xtreme Audio (Official Thunderdome 2023 Anthem)",
         "url": "https://open.spotify.com/album/4nykZzCf7uHImgFojMhUmG"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 155076,
       "name": "Someone To Understand",
       "url": "https://open.spotify.com/track/2id33zu9qH4rfLR8qPvr8v"
-    },
-    {
-      "added_at": "2024-07-26 06:15:12",
-      "album": {
-        "name": "NEED FOR SPEED",
-        "url": "https://open.spotify.com/album/3bNU00DAypHgWuehEIl935"
-      },
-      "artists": [
-        {
-          "name": "Lil Texas",
-          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
-        }
-      ],
-      "duration_ms": 145200,
-      "name": "2 Tha Rhythm",
-      "url": "https://open.spotify.com/track/6rJxvDAAgoVDxi3x6ZMBYp"
     },
     {
       "added_at": "2024-07-26 06:15:12",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-07-26 06:15:12",
       "album": {
-        "name": "Wake Up Now",
-        "url": "https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7"
-      },
-      "artists": [
-        {
-          "name": "Lem-X",
-          "url": "https://open.spotify.com/artist/0fL3nn53Jlg7RK0cuciX6n"
-        }
-      ],
-      "duration_ms": 202678,
-      "name": "Wake Up Now",
-      "url": "https://open.spotify.com/track/6yY0KTwtGv0F8xmKLsRXsk"
-    },
-    {
-      "added_at": "2024-07-26 06:15:12",
-      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/4BWyDlJgFG1aPEF7NvHFEM"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 234846,
       "name": "Higher",
       "url": "https://open.spotify.com/track/1QdqN2pX7iLIhN9XmxReGX"
+    },
+    {
+      "added_at": "2024-07-26 06:15:12",
+      "album": {
+        "name": "Wake Up Now",
+        "url": "https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7"
+      },
+      "artists": [
+        {
+          "name": "Lem-X",
+          "url": "https://open.spotify.com/artist/0fL3nn53Jlg7RK0cuciX6n"
+        }
+      ],
+      "duration_ms": 202678,
+      "name": "Wake Up Now",
+      "url": "https://open.spotify.com/track/6yY0KTwtGv0F8xmKLsRXsk"
     },
     {
       "added_at": "2024-07-26 06:15:12",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2024-07-26 06:15:12",
       "album": {
-        "name": "Mutilate",
-        "url": "https://open.spotify.com/album/1N5ZJaQFOrT6GJnqUW2c6b"
-      },
-      "artists": [
-        {
-          "name": "Chapter V",
-          "url": "https://open.spotify.com/artist/1YYs95M2z6CIPc0zWfMrab"
-        },
-        {
-          "name": "Amduscias",
-          "url": "https://open.spotify.com/artist/2s2uHpjXIyzhPIXkm8iP2y"
-        }
-      ],
-      "duration_ms": 230281,
-      "name": "Mutilate",
-      "url": "https://open.spotify.com/track/5Th8O9vWzImhIqb1kO8TLE"
-    },
-    {
-      "added_at": "2024-07-26 06:15:12",
-      "album": {
         "name": "Furious Anger",
         "url": "https://open.spotify.com/album/7J9ZqsUWwH6sxRqAUeeEvR"
       },
@@ -1287,18 +1267,22 @@
     {
       "added_at": "2024-07-26 06:15:12",
       "album": {
-        "name": "Dopameme",
-        "url": "https://open.spotify.com/album/7mrKtXt92sGdK4IIkBJNO0"
+        "name": "Mutilate",
+        "url": "https://open.spotify.com/album/1N5ZJaQFOrT6GJnqUW2c6b"
       },
       "artists": [
         {
-          "name": "D-Fence",
-          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+          "name": "Chapter V",
+          "url": "https://open.spotify.com/artist/1YYs95M2z6CIPc0zWfMrab"
+        },
+        {
+          "name": "Amduscias",
+          "url": "https://open.spotify.com/artist/2s2uHpjXIyzhPIXkm8iP2y"
         }
       ],
-      "duration_ms": 217200,
-      "name": "SIUU!",
-      "url": "https://open.spotify.com/track/2OWCrAs7CVXECZax6Qhuuc"
+      "duration_ms": 230281,
+      "name": "Mutilate",
+      "url": "https://open.spotify.com/track/5Th8O9vWzImhIqb1kO8TLE"
     },
     {
       "added_at": "2024-07-26 06:15:12",
@@ -1319,6 +1303,22 @@
       "duration_ms": 235734,
       "name": "The Roots - Official Harmony of Hardcore 2023 Anthem",
       "url": "https://open.spotify.com/track/6z0i14WyHNAdQq889bnSu8"
+    },
+    {
+      "added_at": "2024-07-26 06:15:12",
+      "album": {
+        "name": "Dopameme",
+        "url": "https://open.spotify.com/album/7mrKtXt92sGdK4IIkBJNO0"
+      },
+      "artists": [
+        {
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+        }
+      ],
+      "duration_ms": 217200,
+      "name": "SIUU!",
+      "url": "https://open.spotify.com/track/2OWCrAs7CVXECZax6Qhuuc"
     },
     {
       "added_at": "2024-07-26 06:15:12",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-07-26 06:15:12",
       "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
-      },
-      "artists": [
-        {
-          "name": "Remzcore",
-          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
-        }
-      ],
-      "duration_ms": 178975,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
-    },
-    {
-      "added_at": "2024-07-26 06:15:12",
-      "album": {
         "name": "The Ultimate Sound",
         "url": "https://open.spotify.com/album/2yxYtxZZmQDIchjXz0gegW"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 161419,
       "name": "The Ultimate Sound",
       "url": "https://open.spotify.com/track/2Jum2ypFvxaNcLWHUyi17g"
+    },
+    {
+      "added_at": "2024-07-26 06:15:12",
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
+      },
+      "artists": [
+        {
+          "name": "Remzcore",
+          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
+        }
+      ],
+      "duration_ms": 178975,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
     },
     {
       "added_at": "2024-07-26 06:15:12",

@@ -4,10 +4,11 @@
 
 > Sedihe koyo ngene, jangan ya dek ya! 😢
 
-93 songs - 7 hr 47 min
+95 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Aku Ikhlas](https://open.spotify.com/track/3J7M5HDn36qvbRbMdliuPx) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Aku Ikhlas](https://open.spotify.com/album/5SaNNiY8jcjCsDlFuohkkP) | 4:36 | 2024-07-31 |  |
 | [Aku Ikhlas](https://open.spotify.com/track/1dZjGhHlaCFHQuSIQrRxJv) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Aku Ikhlas](https://open.spotify.com/album/2jYDJuEDD143eZxnYzL1Q5) | 4:38 | 2021-09-08 |  |
 | [Aku Sing Lungo](https://open.spotify.com/track/2xk7P9Y2bzsCblzrXnOkBa) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Aku Sing Lungo](https://open.spotify.com/album/2yTxYLV1Z4QMZYjEX6ctHO) | 5:56 | 2024-04-04 |  |
 | [Angel](https://open.spotify.com/track/1J6ws7eOvY1GKzTdd3rrau) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Angel](https://open.spotify.com/album/27YY9UwgvQI4sQ6PR1FFUq) | 4:47 | 2021-09-08 |  |
@@ -48,6 +49,7 @@
 | [Kurangku Opo](https://open.spotify.com/track/5v2gEm7WZNJChdoNqgGSxA) | [Ronda Genk](https://open.spotify.com/artist/67H1jUlHffu3RzhSAWRl7z) | [Kurangku Opo](https://open.spotify.com/album/5rCg6XiVS9xmBiUEoYn0Dq) | 6:28 | 2023-08-09 |  |
 | [Lagu Galau](https://open.spotify.com/track/3czrfH9M8dT34boJCL6iwV) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A), [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Lagu Galau](https://open.spotify.com/album/2ssc0LBXdKKmPoQSKivKIy) | 4:15 | 2023-02-16 |  |
 | [Lamunan](https://open.spotify.com/track/3qcJp9jySepnPFWY2LyLNZ) | [Niken Salindry](https://open.spotify.com/artist/3p8LxkUdPRd5hPtdTSrCoS) | [Lamunan](https://open.spotify.com/album/0wTA1S91a9PDRMbKC11zch) | 5:04 | 2024-05-27 |  |
+| [LDR "Langgeng Dayaning Rasa" \- Live](https://open.spotify.com/track/4mkqoe1yptnwU5S537fYlT) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [LDR "Langgeng Dayaning Rasa" \(Live\)](https://open.spotify.com/album/43ADbfX3YZNScepulXm8dO) | 5:10 | 2024-07-31 |  |
 | [LDR \( layang dungo restu \)](https://open.spotify.com/track/0tcEJ791a3aF6pTusqkJep) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [LDR \( layang dungo restu \)](https://open.spotify.com/album/4e5KcsAGBMNwbfuDBspCRe) | 5:29 | 2021-09-08 |  |
 | [Lilakno Lungaku](https://open.spotify.com/track/6knc0ByasDCvGNlQPHYUFX) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/50hlFnDrEYiYp0lOReAxgb) | 5:35 | 2021-09-08 | 2023-10-19 |
 | [Lilakno Lungaku](https://open.spotify.com/track/6eQL36g0j3GlofcGauLJH7) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/1sf4AWv0GiLGTzRrfAhgDA) | 5:35 | 2023-10-11 | 2024-01-12 |

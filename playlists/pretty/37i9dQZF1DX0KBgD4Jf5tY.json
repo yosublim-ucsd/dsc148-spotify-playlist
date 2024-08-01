@@ -1,6 +1,6 @@
 {
   "description": "Il meglio della musica indipendente italiana! Cover: <a href=\"spotify:artist:0ez4Y0vHwlRCrqGIkChC3Q\">T\u00c4RA</a>",
-  "num_followers": 8599,
+  "num_followers": 8600,
   "original_name": "Fresh Finds Italia",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Un Po' Mi Pento",
-        "url": "https://open.spotify.com/album/0OQ3aWMS4UEnBVPcvYhzM2"
-      },
-      "artists": [
-        {
-          "name": "Aria",
-          "url": "https://open.spotify.com/artist/3QptZmsuqUYGVDlrC02wdD"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "Un Po' Mi Pento",
-      "url": "https://open.spotify.com/track/4YlZwnSFO7m3xqIsybfYwR"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "Berlino",
         "url": "https://open.spotify.com/album/36PeW7WZE4KZtSrLQmi2U9"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 134318,
       "name": "Berlino",
       "url": "https://open.spotify.com/track/6MzinKgAsG2a6xmxYJUbZx"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Un Po' Mi Pento",
+        "url": "https://open.spotify.com/album/0OQ3aWMS4UEnBVPcvYhzM2"
+      },
+      "artists": [
+        {
+          "name": "Aria",
+          "url": "https://open.spotify.com/artist/3QptZmsuqUYGVDlrC02wdD"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "Un Po' Mi Pento",
+      "url": "https://open.spotify.com/track/4YlZwnSFO7m3xqIsybfYwR"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "L'ultima mezz'ora",
-        "url": "https://open.spotify.com/album/37H1a1CLMD2QSnj5L4A9sb"
-      },
-      "artists": [
-        {
-          "name": "ANSIAH",
-          "url": "https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB"
-        }
-      ],
-      "duration_ms": 176372,
-      "name": "L'ultima mezz'ora",
-      "url": "https://open.spotify.com/track/6ATipis5X5ZhJtQFtA5Moe"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "SCOSSA",
         "url": "https://open.spotify.com/album/22u6JwJ82A6MOjnyyUs64J"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 136991,
       "name": "SCOSSA",
       "url": "https://open.spotify.com/track/3NlEvR8t03NXhAaD9ceirk"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "L'ultima mezz'ora",
+        "url": "https://open.spotify.com/album/37H1a1CLMD2QSnj5L4A9sb"
+      },
+      "artists": [
+        {
+          "name": "ANSIAH",
+          "url": "https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB"
+        }
+      ],
+      "duration_ms": 176372,
+      "name": "L'ultima mezz'ora",
+      "url": "https://open.spotify.com/track/6ATipis5X5ZhJtQFtA5Moe"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Il vento del nord",
-        "url": "https://open.spotify.com/album/6qaturmycSCGiH4mEasn0n"
-      },
-      "artists": [
-        {
-          "name": "43.Nove",
-          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
-        }
-      ],
-      "duration_ms": 143666,
-      "name": "Il vento del nord",
-      "url": "https://open.spotify.com/track/0JVTxEufKPHHUn0GWZ2qsK"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "attenta",
         "url": "https://open.spotify.com/album/0f38GwWhVKAj6EgnIkeV1P"
       },
@@ -455,6 +439,38 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
+        "name": "Il vento del nord",
+        "url": "https://open.spotify.com/album/6qaturmycSCGiH4mEasn0n"
+      },
+      "artists": [
+        {
+          "name": "43.Nove",
+          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
+        }
+      ],
+      "duration_ms": 143666,
+      "name": "Il vento del nord",
+      "url": "https://open.spotify.com/track/0JVTxEufKPHHUn0GWZ2qsK"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "NON CAMBIO MAI",
+        "url": "https://open.spotify.com/album/6fScpbLp2m9nBFCbOCP2ND"
+      },
+      "artists": [
+        {
+          "name": "Alessia Dalia",
+          "url": "https://open.spotify.com/artist/7ItlEnUdJ8rhanA9Tf2uRc"
+        }
+      ],
+      "duration_ms": 166968,
+      "name": "NON CAMBIO MAI",
+      "url": "https://open.spotify.com/track/1suAKLt3OIwoVECcdSvQGq"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
         "name": "Panna",
         "url": "https://open.spotify.com/album/0WDVNhN1nl7prWI9ammy88"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 206000,
       "name": "Panna",
       "url": "https://open.spotify.com/track/5B8LQBnX92lMKghnalqQYA"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "Stessa Storia",
-        "url": "https://open.spotify.com/album/1P2wMBou83imuVwKWwCsne"
-      },
-      "artists": [
-        {
-          "name": "Vicfenty",
-          "url": "https://open.spotify.com/artist/04VQO0F9eUWJdV3QcEjZEg"
-        }
-      ],
-      "duration_ms": 218236,
-      "name": "Stessa Storia",
-      "url": "https://open.spotify.com/track/7KZ9pIkfIqo3BCqBIT2drz"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
+        "name": "Stessa Storia",
+        "url": "https://open.spotify.com/album/1P2wMBou83imuVwKWwCsne"
+      },
+      "artists": [
+        {
+          "name": "Vicfenty",
+          "url": "https://open.spotify.com/artist/04VQO0F9eUWJdV3QcEjZEg"
+        }
+      ],
+      "duration_ms": 218236,
+      "name": "Stessa Storia",
+      "url": "https://open.spotify.com/track/7KZ9pIkfIqo3BCqBIT2drz"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
         "name": "Pi\u00f9 Tempo Per Gli Amici",
         "url": "https://open.spotify.com/album/2Jv4J6iv2PwZNLbFnqK6AB"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 154285,
       "name": "Pi\u00f9 Tempo Per Gli Amici",
       "url": "https://open.spotify.com/track/4sGnGqPvdlrYhSaGgtbZID"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "NON CAMBIO MAI",
-        "url": "https://open.spotify.com/album/6fScpbLp2m9nBFCbOCP2ND"
-      },
-      "artists": [
-        {
-          "name": "Alessia Dalia",
-          "url": "https://open.spotify.com/artist/7ItlEnUdJ8rhanA9Tf2uRc"
-        }
-      ],
-      "duration_ms": 166968,
-      "name": "NON CAMBIO MAI",
-      "url": "https://open.spotify.com/track/1suAKLt3OIwoVECcdSvQGq"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Voglio di pi\u00f9",
-        "url": "https://open.spotify.com/album/4IsmRQLMNSJXAHFgymX6UF"
-      },
-      "artists": [
-        {
-          "name": "estro",
-          "url": "https://open.spotify.com/artist/20UtSgbibao6RDTnUyiyIn"
-        }
-      ],
-      "duration_ms": 155446,
-      "name": "Voglio di pi\u00f9",
-      "url": "https://open.spotify.com/track/4MmOYatHoZD8hzDbRnKPB7"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "paura di morire",
         "url": "https://open.spotify.com/album/4BAei2Ld3o6mtKGuSREqhD"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 128920,
       "name": "paura di morire",
       "url": "https://open.spotify.com/track/7Kmv8kPvI0Zad70P2jRmNK"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Voglio di pi\u00f9",
+        "url": "https://open.spotify.com/album/4IsmRQLMNSJXAHFgymX6UF"
+      },
+      "artists": [
+        {
+          "name": "estro",
+          "url": "https://open.spotify.com/artist/20UtSgbibao6RDTnUyiyIn"
+        }
+      ],
+      "duration_ms": 155446,
+      "name": "Voglio di pi\u00f9",
+      "url": "https://open.spotify.com/track/4MmOYatHoZD8hzDbRnKPB7"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "SOTTO CASSA",
-        "url": "https://open.spotify.com/album/4DA8rH0nzQ0CaBcngpOmet"
-      },
-      "artists": [
-        {
-          "name": "n1chxlas",
-          "url": "https://open.spotify.com/artist/4aGmDcjK1jQgGm8ah08Udx"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "SOTTO CASSA",
-      "url": "https://open.spotify.com/track/0VlOYUE0jR7pMcWX3n0f4N"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "Marea",
         "url": "https://open.spotify.com/album/66NCbMSBW2Fk31nmtSvhuy"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 172481,
       "name": "Marea",
       "url": "https://open.spotify.com/track/1dGE2w5GZZeRk2gO6KfX06"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "SOTTO CASSA",
+        "url": "https://open.spotify.com/album/4DA8rH0nzQ0CaBcngpOmet"
+      },
+      "artists": [
+        {
+          "name": "n1chxlas",
+          "url": "https://open.spotify.com/artist/4aGmDcjK1jQgGm8ah08Udx"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "SOTTO CASSA",
+      "url": "https://open.spotify.com/track/0VlOYUE0jR7pMcWX3n0f4N"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
+        "name": "Scriverci solo di notte",
+        "url": "https://open.spotify.com/album/57n8Jmc4tyUJkTGXuP2MHp"
+      },
+      "artists": [
+        {
+          "name": "Bordeaux",
+          "url": "https://open.spotify.com/artist/64IcDilEU6X8Caozoixn0V"
+        }
+      ],
+      "duration_ms": 160950,
+      "name": "Scriverci solo di notte",
+      "url": "https://open.spotify.com/track/6w3zQHAECBgWwAjGuYz1jd"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
         "name": "Gothic Royelle//Qui Da Me",
         "url": "https://open.spotify.com/album/6dYd6W7g2port6VMhmyj8T"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 155336,
       "name": "Gothic Royelle//Qui Da Me",
       "url": "https://open.spotify.com/track/5IzQeUGrRCk159gTHtChLd"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "Scriverci solo di notte",
-        "url": "https://open.spotify.com/album/57n8Jmc4tyUJkTGXuP2MHp"
-      },
-      "artists": [
-        {
-          "name": "Bordeaux",
-          "url": "https://open.spotify.com/artist/64IcDilEU6X8Caozoixn0V"
-        }
-      ],
-      "duration_ms": 160950,
-      "name": "Scriverci solo di notte",
-      "url": "https://open.spotify.com/track/6w3zQHAECBgWwAjGuYz1jd"
     },
     {
       "added_at": "2024-07-18 22:01:00",

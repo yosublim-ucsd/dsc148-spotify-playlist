@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u3010\u30bb\u30c8\u30ea\u516c\u958b\u30112024\u5e747\u670813\u65e5~15\u65e5\u306b\u958b\u50ac\u3055\u308c\u305fKep1er JAPAN CONCERT 2024 \uff1cKep1going\uff1e\u306e\u30bb\u30c3\u30c8\u30ea\u30b9\u30c8\u3092\u516c\u958b\uff01 *7\u670815\u65e5(\u6708\u30fb\u795d)\u6700\u7d42\u516c\u6f14\u306e\u30bb\u30c3\u30c8\u30ea\u30b9\u30c8",
-  "name": "On Tour Japan: Kep1er",
+  "description": "\u30e1\u30f3\u30d0\u30fc\u304b\u3089\u306e\u97f3\u58f0\u30e1\u30c3\u30bb\u30fc\u30b8\u5165\u308a\u300eLE SSERAFIM FAN MEETING \u2018FEARNADA\u2019 2024 S/S - JAPAN\u300f\u30bb\u30c3\u30c8\u30ea\u30b9\u30c8\u3092\u516c\u958b\uff01",
+  "name": "On Tour Japan: LESSERAFIM",
   "tracks": [
     {
       "album": {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 201320,
       "name": "Another Dream (Kep1er Version)",
       "url": "https://open.spotify.com/track/4YAZcAxgoqHyMvrZoPq11F"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 200000,
       "name": "Back to the City",
       "url": "https://open.spotify.com/track/1ns5ZeDUT2RJeJMcc2xlv3"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 201453,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/6BsVR4ZcDN3sbUyljIEEPI"
@@ -398,6 +398,24 @@
       "duration_ms": 197462,
       "name": "Chewing Gum",
       "url": "https://open.spotify.com/track/1oacrRLAurXf6ylXFhF2YT"
+    },
+    {
+      "album": {
+        "name": "Choices",
+        "url": "https://open.spotify.com/album/4mpznsEPjMQrvD7laIx9UI"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201026,
+      "name": "Choices",
+      "url": "https://open.spotify.com/track/0THn1agoZT9wJXkITUz6dJ"
     },
     {
       "album": {
@@ -466,7 +484,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 199893,
       "name": "Cruise",
       "url": "https://open.spotify.com/track/1ajjWWBfU1Si0GmkIK9dSr"
@@ -484,7 +502,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 176746,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/6jql35WDVQEgTRHvUTPOrd"
@@ -502,7 +520,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 177680,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/2CRQl4MahB8KwSIa1o38pZ"
@@ -520,7 +538,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 186146,
       "name": "Dear Diary",
       "url": "https://open.spotify.com/track/5pnKaTeGITcJJkbBPWC8Vy"
@@ -610,7 +628,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 207026,
       "name": "Don't Lose Your Smile",
       "url": "https://open.spotify.com/track/2ZBHjPLYlp8BdmtQjo5vW6"
@@ -707,6 +725,24 @@
     },
     {
       "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164545,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
+    },
+    {
+      "album": {
         "name": "NewJeans 2nd EP 'Get Up'",
         "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
       },
@@ -722,6 +758,42 @@
       "duration_ms": 151373,
       "name": "ETA",
       "url": "https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d"
+    },
+    {
+      "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185538,
+      "name": "Eve, Psyche & The Bluebeard\u2019s wife",
+      "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
+    },
+    {
+      "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206831,
+      "name": "FEARNOT (Between you, me and the lamppost)",
+      "url": "https://open.spotify.com/track/0sNfFxw3pJkVmRsgY781vM"
     },
     {
       "album": {
@@ -790,7 +862,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 186680,
       "name": "Giddy (Japanese version)",
       "url": "https://open.spotify.com/track/37evnDodh0CQjny46wTwiC"
@@ -848,7 +920,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 187786,
       "name": "Grand Prix",
       "url": "https://open.spotify.com/track/5btc1Il6aABmVNUOjooNK8"
@@ -884,7 +956,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 213760,
       "name": "Highlight",
       "url": "https://open.spotify.com/track/2VJrDLdiLcw9bSZMe73sWG"
@@ -974,7 +1046,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 214826,
       "name": "I do! Do you?",
       "url": "https://open.spotify.com/track/7wFeVMTlgOu910OH9RctRI"
@@ -1014,6 +1086,114 @@
       "duration_ms": 185280,
       "name": "ISTJ",
       "url": "https://open.spotify.com/track/43Pmqpiw4zFY77pT5QdxQ8"
+    },
+    {
+      "album": {
+        "name": "LE SSERAFIM FAN MEETING \u2018FEARNADA\u2019 2024 S/S - JAPAN",
+        "url": "https://open.spotify.com/album/3qZYoaWgCGUqjaHksKI398"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46549,
+      "name": "LE SSERAFIM comment 1",
+      "url": "https://open.spotify.com/track/19psBJ2aZBNIxYtKPc1uVA"
+    },
+    {
+      "album": {
+        "name": "LE SSERAFIM FAN MEETING \u2018FEARNADA\u2019 2024 S/S - JAPAN",
+        "url": "https://open.spotify.com/album/3qZYoaWgCGUqjaHksKI398"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 25493,
+      "name": "LE SSERAFIM comment 2",
+      "url": "https://open.spotify.com/track/7EpyNZ0AV2kdxQ4nyc00ki"
+    },
+    {
+      "album": {
+        "name": "LE SSERAFIM FAN MEETING \u2018FEARNADA\u2019 2024 S/S - JAPAN",
+        "url": "https://open.spotify.com/album/3qZYoaWgCGUqjaHksKI398"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31168,
+      "name": "LE SSERAFIM comment 3",
+      "url": "https://open.spotify.com/track/3FNwtF7zNgWCbXKADuhWbI"
+    },
+    {
+      "album": {
+        "name": "LE SSERAFIM FAN MEETING \u2018FEARNADA\u2019 2024 S/S - JAPAN",
+        "url": "https://open.spotify.com/album/3qZYoaWgCGUqjaHksKI398"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 18965,
+      "name": "LE SSERAFIM comment 4",
+      "url": "https://open.spotify.com/track/27tXo0pIO9guwcrrwmogjZ"
+    },
+    {
+      "album": {
+        "name": "LE SSERAFIM FAN MEETING \u2018FEARNADA\u2019 2024 S/S - JAPAN",
+        "url": "https://open.spotify.com/album/3qZYoaWgCGUqjaHksKI398"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 19669,
+      "name": "LE SSERAFIM comment 5",
+      "url": "https://open.spotify.com/track/27CfaqTgHVyM8UrDaiHJpX"
+    },
+    {
+      "album": {
+        "name": "LE SSERAFIM FAN MEETING \u2018FEARNADA\u2019 2024 S/S - JAPAN",
+        "url": "https://open.spotify.com/album/3qZYoaWgCGUqjaHksKI398"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 27754,
+      "name": "LE SSERAFIM comment 6",
+      "url": "https://open.spotify.com/track/1wPfBXM5BbV3cQXGfYOtQe"
     },
     {
       "album": {
@@ -1082,7 +1262,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 199813,
       "name": "LVLY",
       "url": "https://open.spotify.com/track/4245mprsIXRpaSg9U89ow1"
@@ -1136,7 +1316,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 192533,
       "name": "MVSK (Japanese version)",
       "url": "https://open.spotify.com/track/5qYl1K4c4cdDnKUN94j4Tz"
@@ -1197,6 +1377,24 @@
     },
     {
       "album": {
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166491,
+      "name": "No Celestial",
+      "url": "https://open.spotify.com/track/21ApmVGIzIAIDSBdHu6SVt"
+    },
+    {
+      "album": {
         "name": "FIRST IMPACT",
         "url": "https://open.spotify.com/album/52HBqGcl4FIRwJ3iNYcliA"
       },
@@ -1208,7 +1406,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 247666,
       "name": "O.O.O (Over&Over&Over) (Kep1er Version)",
       "url": "https://open.spotify.com/track/0o8GhuCWzLcI5JeGZNcbOc"
@@ -1280,7 +1478,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 182920,
       "name": "PROBLEM",
       "url": "https://open.spotify.com/track/1Rht2nH4v3S3J39J7jBJel"
@@ -1388,7 +1586,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 214466,
       "name": "Shine (Kep1er Version)",
       "url": "https://open.spotify.com/track/2Qh7lvmoMg5oGpscQRvflD"
@@ -1406,7 +1604,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 183400,
       "name": "Shooting Star",
       "url": "https://open.spotify.com/track/6iINhMZAsZltmpyVWDanfk"
@@ -1428,6 +1626,24 @@
       "duration_ms": 186333,
       "name": "Skateboard",
       "url": "https://open.spotify.com/track/7ik0uSROwZ9hxoFGsw6uPs"
+    },
+    {
+      "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166384,
+      "name": "Smart",
+      "url": "https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T"
     },
     {
       "album": {
@@ -1496,7 +1712,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 165693,
       "name": "Straight Line",
       "url": "https://open.spotify.com/track/1HBYsYVdX49Gi1lrmqmk63"
@@ -1532,7 +1748,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 154293,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/7GvWR4mvfvzvWtVXBcU23t"
@@ -1572,6 +1788,24 @@
       "duration_ms": 191000,
       "name": "Supernatural",
       "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
+    },
+    {
+      "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157179,
+      "name": "Swan Song",
+      "url": "https://open.spotify.com/track/2GquhrcHbl2zOnF5javAFp"
     },
     {
       "album": {
@@ -1622,7 +1856,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 211533,
       "name": "tOgether fOrever",
       "url": "https://open.spotify.com/track/4lEyfMaUwdioK1MxfSVBPw"
@@ -1644,6 +1878,32 @@
       "duration_ms": 206791,
       "name": "Trigger the fever - Bonus Track",
       "url": "https://open.spotify.com/track/1b0EgjAcJAkOlMh1U5zXLU"
+    },
+    {
+      "album": {
+        "name": "UNFORGIVEN (Japanese ver.)",
+        "url": "https://open.spotify.com/album/28unbkaJvfdbM5zffw9vpc"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "\u30ca\u30a4\u30eb\u30fb\u30ed\u30b8\u30e3\u30fc\u30b9",
+          "url": "https://open.spotify.com/artist/7sKzaEQMrAbbO3Q3cTzazQ"
+        },
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182933,
+      "name": "UNFORGIVEN - Japanese ver.",
+      "url": "https://open.spotify.com/track/07Kq5cRJkYNieu1rge3PZX"
     },
     {
       "album": {
@@ -1676,7 +1936,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 216053,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/7gooZXJC9D84HshVe1KYCX"
@@ -1694,7 +1954,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 184413,
       "name": "WA DA DA (Japanese version)",
       "url": "https://open.spotify.com/track/1P4YrRRKdiG26Zuv10tmLb"
@@ -1730,7 +1990,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 197746,
       "name": "We Fresh (Japanese version)",
       "url": "https://open.spotify.com/track/2jZ4n7cW3cSUMdiM5ICEGr"
@@ -1766,7 +2026,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 195226,
       "name": "Wing Wing",
       "url": "https://open.spotify.com/track/1uKI4JKUIUJC0aXJqKCl6y"
@@ -1788,6 +2048,24 @@
       "duration_ms": 197600,
       "name": "Yogurt Shake",
       "url": "https://open.spotify.com/track/0XirDL81ptA2KlrZVpjP0k"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e5\u30a8\u30ea\u30fc (Prod. imase)",
+        "url": "https://open.spotify.com/album/6mw2LvoVp9MP0jMv0ZuJla"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163813,
+      "name": "\u30b8\u30e5\u30a8\u30ea\u30fc (Prod. imase)",
+      "url": "https://open.spotify.com/track/1PeBPKbOCc370rnLKploBL"
     },
     {
       "album": {

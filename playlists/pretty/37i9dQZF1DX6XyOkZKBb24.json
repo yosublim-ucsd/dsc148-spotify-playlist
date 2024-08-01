@@ -1,6 +1,6 @@
 {
   "description": "Snuggling in for the evening with a nice soundtrack",
-  "num_followers": 196739,
+  "num_followers": 196805,
   "original_name": "Mellow Evening",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-07-12 19:57:57",
       "album": {
+        "name": "The Pains Of Growing",
+        "url": "https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "Out Of Love",
+      "url": "https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb"
+    },
+    {
+      "added_at": "2024-07-12 19:57:57",
+      "album": {
         "name": "Cozy",
         "url": "https://open.spotify.com/album/4xsI12SdxzxVyikl8PRuX3"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 165339,
       "name": "Cozy",
       "url": "https://open.spotify.com/track/5mRFZlOAptPpimncCeBxoJ"
-    },
-    {
-      "added_at": "2024-07-12 19:57:57",
-      "album": {
-        "name": "The Pains Of Growing",
-        "url": "https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Out Of Love",
-      "url": "https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb"
     },
     {
       "added_at": "2024-07-12 19:57:57",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-07-12 19:57:57",
       "album": {
+        "name": "This Is All Yours",
+        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 225017,
+      "name": "Warm Foothills",
+      "url": "https://open.spotify.com/track/1YUcTZ0ehoHY6G6Prhcbj0"
+    },
+    {
+      "added_at": "2024-07-12 19:57:57",
+      "album": {
         "name": "In My Imagination",
         "url": "https://open.spotify.com/album/6GVdXBg3rFTbg3fB1MJ7pa"
       },
@@ -1147,26 +1163,6 @@
       "duration_ms": 204316,
       "name": "In My Imagination",
       "url": "https://open.spotify.com/track/0f5My552DeGLhVrDWWKpIE"
-    },
-    {
-      "added_at": "2024-07-12 19:57:57",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        },
-        {
-          "name": "Chris Isaak",
-          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
-        }
-      ],
-      "duration_ms": 291447,
-      "name": "Wicked Game - Recorded at Electric Lady Studios, NYC (feat. Chris Isaak)",
-      "url": "https://open.spotify.com/track/7rSSVVqC2sqDhmt1LfWm3J"
     },
     {
       "added_at": "2024-07-12 19:57:57",
@@ -1187,18 +1183,22 @@
     {
       "added_at": "2024-07-12 19:57:57",
       "album": {
-        "name": "This Is All Yours",
-        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2"
       },
       "artists": [
         {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        },
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
         }
       ],
-      "duration_ms": 225017,
-      "name": "Warm Foothills",
-      "url": "https://open.spotify.com/track/1YUcTZ0ehoHY6G6Prhcbj0"
+      "duration_ms": 291447,
+      "name": "Wicked Game - Recorded at Electric Lady Studios, NYC (feat. Chris Isaak)",
+      "url": "https://open.spotify.com/track/7rSSVVqC2sqDhmt1LfWm3J"
     },
     {
       "added_at": "2024-07-12 19:57:57",

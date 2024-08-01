@@ -2,13 +2,13 @@
 
 ### [This Is Los Tiranos Del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Pawqn)
 
-> This Is Los Tiranos Del Norte\. Los temas esenciales, todos en una lista.
+> This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
 87 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Aguanta Corazón](https://open.spotify.com/track/0CWwxmdt8IJK8V9sKsimiA) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Homenaje a Los Invasores](https://open.spotify.com/album/77cenBu4ilcCyiu4iARvrG) | 2:16 | 2024-06-01 |  |
+| [Aguanta Corazón](https://open.spotify.com/track/0CWwxmdt8IJK8V9sKsimiA) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Homenaje a Los Invasores](https://open.spotify.com/album/77cenBu4ilcCyiu4iARvrG) | 2:16 | 2024-06-01 | 2024-08-01 |
 | [Amor de Ayer](https://open.spotify.com/track/0owdTmklmyKpjCJwoIDD0l) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Tesoros de Coleccion, Vol\. 2](https://open.spotify.com/album/1KxMT0hlHsrGLSO1gvVFYD) | 3:10 | 2022-06-01 |  |
 | [Anillo Grabado](https://open.spotify.com/track/22AeO4I8LrDlgWVx970V8y) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Asomate a Mi Alma](https://open.spotify.com/album/4YBewtZ8JtwPqZT1h7IFph) | 2:48 | 2022-06-01 |  |
 | [Arrepientete](https://open.spotify.com/track/0FagG8oiMGPW99LZspwr8Y) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Exitos De Oro](https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ) | 3:16 | 2022-06-01 |  |

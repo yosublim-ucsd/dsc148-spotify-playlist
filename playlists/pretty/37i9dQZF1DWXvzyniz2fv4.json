@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158152,
+  "num_followers": 158142,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
+        "name": "S\u00f3 Voc\u00ea",
+        "url": "https://open.spotify.com/album/3YEj5RWK9A7mBr7tAMrw5X"
+      },
+      "artists": [
+        {
+          "name": "DONATTO",
+          "url": "https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "S\u00f3 Voc\u00ea",
+      "url": "https://open.spotify.com/track/5Q9syxX74CVGr7QVD0OjTU"
+    },
+    {
+      "added_at": "2024-07-26 03:03:00",
+      "album": {
         "name": "O Cravo e a Flor",
         "url": "https://open.spotify.com/album/0ikJdVueCeBJrvoAVZm5Ve"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 186000,
       "name": "O Cravo e a Flor",
       "url": "https://open.spotify.com/track/7xWbDSH4hl6lQYAq3MKBec"
-    },
-    {
-      "added_at": "2024-07-26 03:03:00",
-      "album": {
-        "name": "S\u00f3 Voc\u00ea",
-        "url": "https://open.spotify.com/album/3YEj5RWK9A7mBr7tAMrw5X"
-      },
-      "artists": [
-        {
-          "name": "DONATTO",
-          "url": "https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "S\u00f3 Voc\u00ea",
-      "url": "https://open.spotify.com/track/5Q9syxX74CVGr7QVD0OjTU"
     },
     {
       "added_at": "2024-07-26 03:03:00",
@@ -791,30 +791,6 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
-        "name": "Alta Defini\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4pJDsHvG7lWdavLkKhw5B6"
-      },
-      "artists": [
-        {
-          "name": "Ari",
-          "url": "https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE"
-        },
-        {
-          "name": "Teo Guedx",
-          "url": "https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M"
-        },
-        {
-          "name": "Felipe Play",
-          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
-        }
-      ],
-      "duration_ms": 123380,
-      "name": "Alta Defini\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4ohGvOx61aiTYyrkLh687P"
-    },
-    {
-      "added_at": "2024-07-26 03:03:00",
-      "album": {
         "name": "Original MTK #2 - Se Voc\u00ea Vier",
         "url": "https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP"
       },
@@ -835,6 +811,30 @@
       "duration_ms": 264547,
       "name": "Original MTK #2 - Se Voc\u00ea Vier",
       "url": "https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE"
+    },
+    {
+      "added_at": "2024-07-26 03:03:00",
+      "album": {
+        "name": "Alta Defini\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4pJDsHvG7lWdavLkKhw5B6"
+      },
+      "artists": [
+        {
+          "name": "Ari",
+          "url": "https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE"
+        },
+        {
+          "name": "Teo Guedx",
+          "url": "https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M"
+        },
+        {
+          "name": "Felipe Play",
+          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
+        }
+      ],
+      "duration_ms": 123380,
+      "name": "Alta Defini\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4ohGvOx61aiTYyrkLh687P"
     },
     {
       "added_at": "2024-07-26 03:03:00",
@@ -899,6 +899,34 @@
       "duration_ms": 175000,
       "name": "Ela \u00c9 Um V\u00edcio",
       "url": "https://open.spotify.com/track/4rn4T3egGnLa8i7TsKaozp"
+    },
+    {
+      "added_at": "2024-07-26 03:03:00",
+      "album": {
+        "name": "50 Tons De Um Sentimento",
+        "url": "https://open.spotify.com/album/4jeMgRuSSLiFiYZDvndksH"
+      },
+      "artists": [
+        {
+          "name": "Sergin",
+          "url": "https://open.spotify.com/artist/45lMcW3J9GBxK5zdc6bOlW"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        },
+        {
+          "name": "Hunter",
+          "url": "https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Boa Noite Mo\u00e7a",
+      "url": "https://open.spotify.com/track/2PbzRTnmac3yqvI1bjk1ri"
     },
     {
       "added_at": "2024-07-26 03:03:00",
@@ -999,30 +1027,26 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
-        "name": "50 Tons De Um Sentimento",
-        "url": "https://open.spotify.com/album/4jeMgRuSSLiFiYZDvndksH"
+        "name": "Nossa Viagem",
+        "url": "https://open.spotify.com/album/1llvdGgxHkX8ivOSwb8u3i"
       },
       "artists": [
         {
-          "name": "Sergin",
-          "url": "https://open.spotify.com/artist/45lMcW3J9GBxK5zdc6bOlW"
+          "name": "MARCELA",
+          "url": "https://open.spotify.com/artist/3hFbbks3zwyoCO6GEBu3wt"
         },
         {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+          "name": "Lucas Laypold",
+          "url": "https://open.spotify.com/artist/2sSSTdSI4Dmb0O8GWRWoo2"
         },
         {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        },
-        {
-          "name": "Hunter",
-          "url": "https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n"
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Boa Noite Mo\u00e7a",
-      "url": "https://open.spotify.com/track/2PbzRTnmac3yqvI1bjk1ri"
+      "duration_ms": 156800,
+      "name": "Nossa Viagem",
+      "url": "https://open.spotify.com/track/2CYjW7iosrYhe80Ydm6PEz"
     },
     {
       "added_at": "2024-07-26 03:03:00",
@@ -1059,30 +1083,6 @@
       "duration_ms": 163030,
       "name": "Fim de Semana",
       "url": "https://open.spotify.com/track/0WhV2RQb0a7WDoJnMQRbnt"
-    },
-    {
-      "added_at": "2024-07-26 03:03:00",
-      "album": {
-        "name": "Nossa Viagem",
-        "url": "https://open.spotify.com/album/1llvdGgxHkX8ivOSwb8u3i"
-      },
-      "artists": [
-        {
-          "name": "MARCELA",
-          "url": "https://open.spotify.com/artist/3hFbbks3zwyoCO6GEBu3wt"
-        },
-        {
-          "name": "Lucas Laypold",
-          "url": "https://open.spotify.com/artist/2sSSTdSI4Dmb0O8GWRWoo2"
-        },
-        {
-          "name": "Original Quality",
-          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "Nossa Viagem",
-      "url": "https://open.spotify.com/track/2CYjW7iosrYhe80Ydm6PEz"
     },
     {
       "added_at": "2024-07-26 03:03:00",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
-        "name": "Sua Boca",
-        "url": "https://open.spotify.com/album/713CT4lO8XlIET42xTkGfd"
-      },
-      "artists": [
-        {
-          "name": "Fashion Piva",
-          "url": "https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk"
-        },
-        {
-          "name": "Zamba",
-          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Sua Boca",
-      "url": "https://open.spotify.com/track/6uQBN4yMHx5RylUXXrEnfg"
-    },
-    {
-      "added_at": "2024-07-26 03:03:00",
-      "album": {
         "name": "Madrugada",
         "url": "https://open.spotify.com/album/13GBj5j1CbozJAYrgkxbOP"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 136901,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/1HEy5wolNdmeHCB9Qw6At7"
+    },
+    {
+      "added_at": "2024-07-26 03:03:00",
+      "album": {
+        "name": "Sua Boca",
+        "url": "https://open.spotify.com/album/713CT4lO8XlIET42xTkGfd"
+      },
+      "artists": [
+        {
+          "name": "Fashion Piva",
+          "url": "https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk"
+        },
+        {
+          "name": "Zamba",
+          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Sua Boca",
+      "url": "https://open.spotify.com/track/6uQBN4yMHx5RylUXXrEnfg"
     },
     {
       "added_at": "2024-07-26 03:03:00",
@@ -1375,18 +1375,30 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
-        "name": "Perto do Sol",
-        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
+        "name": "Interfone",
+        "url": "https://open.spotify.com/album/3isbuTBsnIoXfDg7bGedYs"
       },
       "artists": [
         {
-          "name": "RNT",
-          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
+          "name": "Sergin",
+          "url": "https://open.spotify.com/artist/45lMcW3J9GBxK5zdc6bOlW"
+        },
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/5OQwCMHaNZ6FtVcVNkkShY"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        },
+        {
+          "name": "Juan Branco",
+          "url": "https://open.spotify.com/artist/4IeVdoR6r3NmxRDZIeVhU3"
         }
       ],
-      "duration_ms": 168292,
-      "name": "Perto do Sol",
-      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
+      "duration_ms": 232000,
+      "name": "Interfone",
+      "url": "https://open.spotify.com/track/2BKAS8KxZW3AlAqHzFjACm"
     }
   ],
   "unique_name": "Resenha na Praia",

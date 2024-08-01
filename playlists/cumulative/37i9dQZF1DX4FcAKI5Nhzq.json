@@ -17851,6 +17851,24 @@
     },
     {
       "album": {
+        "name": "TANG TANG TANG",
+        "url": "https://open.spotify.com/album/7KbRFBho6KkcUce18v0Jbe"
+      },
+      "artists": [
+        {
+          "name": "90TAN (BTOB)",
+          "url": "https://open.spotify.com/artist/5S49V9loYR0Glq8uJM91bs"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152173,
+      "name": "TANG TANG TANG",
+      "url": "https://open.spotify.com/track/5kHVtfzcIIlbQsDUixt788"
+    },
+    {
+      "album": {
         "name": "\"TO INFINITY.\"",
         "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
       },

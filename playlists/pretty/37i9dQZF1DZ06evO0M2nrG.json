@@ -1,12 +1,12 @@
 {
-  "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 66270,
+  "description": "This is Mike Bah\u00eda. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 66272,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqbbgAAAAACfuztXTjmMFXQhZ+Dxgz0L",
+  "snapshot_id": "ZqgtAAAAAABJixBIXc3eynCyT041UUZd",
   "tracks": [
     {
       "added_at": null,
@@ -495,26 +495,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ay Amor",
-        "url": "https://open.spotify.com/album/0FmAqrlA3BYvuFvLuH7ron"
+        "name": "Qui\u00e9reme",
+        "url": "https://open.spotify.com/album/680aKPMc7XA59sKyJ8mTCv"
       },
       "artists": [
         {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        },
-        {
-          "name": "\u00d1ejo",
-          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
         }
       ],
-      "duration_ms": 209669,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/2DIhapIzZgaCojayfVUNc7"
+      "duration_ms": 182222,
+      "name": "Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/5N99e6LuN2tknGikNAwl8n"
     },
     {
       "added_at": null,
@@ -535,18 +527,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qui\u00e9reme",
-        "url": "https://open.spotify.com/album/680aKPMc7XA59sKyJ8mTCv"
+        "name": "Ay Amor",
+        "url": "https://open.spotify.com/album/0FmAqrlA3BYvuFvLuH7ron"
       },
       "artists": [
         {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
         }
       ],
-      "duration_ms": 182222,
-      "name": "Qui\u00e9reme",
-      "url": "https://open.spotify.com/track/5N99e6LuN2tknGikNAwl8n"
+      "duration_ms": 209669,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/2DIhapIzZgaCojayfVUNc7"
     },
     {
       "added_at": null,

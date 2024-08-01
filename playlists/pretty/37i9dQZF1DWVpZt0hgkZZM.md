@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,908 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,922 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 68 | [Caliventura](https://open.spotify.com/track/5P1vcUYy4BxJA1jWpSXPia) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Narcos, Vol\. 2 \(More Music from the Netflix Original Series\)](https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB) | 3:38 |
 | 69 | [Encanto](https://open.spotify.com/track/3AxARmSZAUeLbeXNfEAYFv) | [El Tropicombo](https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM), [Elkin Serna](https://open.spotify.com/artist/2cVWJswg6JyYxrtfwo4nun) | [Historia Musical de el Tropicombo](https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx) | 4:02 |
 | 70 | [Con los Crespos Hechos](https://open.spotify.com/track/0JhZ96xBAor5yrPd96KG7D) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Historia Musical de los Embajadores Vallenatos: 36 Grandes Éxitos](https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI) | 4:43 |
-| 71 | [Se Me Perdió la Cadenita](https://open.spotify.com/track/3GHagaqsSRMhMG8XjUXnKR) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Historia Musical de la Sonora Dinamita: 40 Éxitos](https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD) | 2:35 |
-| 72 | [Los Camarones](https://open.spotify.com/track/5LBuNwKEvl3v49kUfDLikn) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Homenaje a los Alegres Vallenatos](https://open.spotify.com/album/5QgtF4pnp5Z67fPrFXgJCE) | 2:19 |
+| 71 | [Luz de Cumbia](https://open.spotify.com/track/0HItkk1upCaJ3CIkug0cF3) | [Anibal Velasquez](https://open.spotify.com/artist/0wTrWHg7n7oL5UGT0I3VqE), [José Velásquez](https://open.spotify.com/artist/6tgbHKkvt86JIm5cc3EHJg) | [Historia Musical de Aníbal Velásquez](https://open.spotify.com/album/5EsZaXFKjzsUMgFYmaaAkk) | 2:50 |
+| 72 | [Se Me Perdió la Cadenita](https://open.spotify.com/track/3GHagaqsSRMhMG8XjUXnKR) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Historia Musical de la Sonora Dinamita: 40 Éxitos](https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD) | 2:35 |
 | 73 | [La Muy Indigna](https://open.spotify.com/track/3lVg1gybSX9ltUDga4joCD) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo) | [Éxitos los Tupamaros](https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM) | 4:01 |
-| 74 | [Luz de Cumbia](https://open.spotify.com/track/0HItkk1upCaJ3CIkug0cF3) | [Anibal Velasquez](https://open.spotify.com/artist/0wTrWHg7n7oL5UGT0I3VqE), [José Velásquez](https://open.spotify.com/artist/6tgbHKkvt86JIm5cc3EHJg) | [Historia Musical de Aníbal Velásquez](https://open.spotify.com/album/5EsZaXFKjzsUMgFYmaaAkk) | 2:50 |
+| 74 | [Los Camarones](https://open.spotify.com/track/5LBuNwKEvl3v49kUfDLikn) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Homenaje a los Alegres Vallenatos](https://open.spotify.com/album/5QgtF4pnp5Z67fPrFXgJCE) | 2:19 |
 | 75 | [Fuma el Barco](https://open.spotify.com/track/5JldI8C9KpyQTOxtX181Nb) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK) | [Historia Musical de Latin Brothers](https://open.spotify.com/album/3jjm4AU9sojwfHVH4zHXll) | 5:03 |
 | 76 | [Qué Lindo Es Quererte](https://open.spotify.com/track/5dhPGn3nfPomL90UgEbq5n) | [El Tropicombo](https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM), [Elkin Serna](https://open.spotify.com/artist/2cVWJswg6JyYxrtfwo4nun) | [Historia Musical de el Tropicombo](https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx) | 3:54 |
 | 77 | [Si Me Dejaras \(Te Necesito\)](https://open.spotify.com/track/2p6nkFtOHOgpGYkYejAIlY) | [Los Ocho De Colombia](https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO), [Éder Ortega](https://open.spotify.com/artist/10F9S7qIt4XGUIovk8wuqZ) | [Historia Musical de los Ocho de Colombia](https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq) | 4:07 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 96 | [Muero por Verla](https://open.spotify.com/track/2CIWM6twdjSFIsw2LSVKyc) | [Luis Mateus](https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW), [La Nueva Generación](https://open.spotify.com/artist/3yxxiR793umYevxROWGMqv) | [Historia Musical de 14 Vallenatos Románticos](https://open.spotify.com/album/3LMhF3xPIjr9e2e9sdFR9U) | 4:38 |
 | 97 | [No Pude Quitarte las Espinas](https://open.spotify.com/track/6BEFSPf7fEJCWdTtNprn3j) | [Erick Escobar](https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W), [Nayo Quintero](https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO) | [Historia Musical de 14 Vallenatos Románticos](https://open.spotify.com/album/3LMhF3xPIjr9e2e9sdFR9U) | 3:55 |
 | 98 | [Roberto Ruiz](https://open.spotify.com/track/0k47sNciLjPUyxr5Gq6GgC) | [La Sonora Cordobesa](https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK) | [Historia Musical de la Sonora Cordobesa](https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0) | 2:27 |
-| 99 | [Amaneciendo](https://open.spotify.com/track/2Q8w3QB6xBd46JAaXiVVbf) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Legado de la Música Tropical](https://open.spotify.com/album/5sGKNe6TAW206I3Fg5Tcwy) | 3:34 |
+| 99 | [Te Están Matando los Años](https://open.spotify.com/track/6ofpm7g9hRfIDuP2VDY4u5) | [Lucho Cuadros](https://open.spotify.com/artist/4mJGHbUaO9nCMEU1uSascK), [Eliecer Ochoa](https://open.spotify.com/artist/1Wp7AgwEYs4sKtPCjvChwP) | [Historia Musical 14 Cañonazos \(1971 \- 1980\)](https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx) | 3:34 |
 | 100 | [El Eco y el Carretero](https://open.spotify.com/track/4lMlLqCKleGBiztVjpnpKl) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Historia Musical de Afrosound: 40 Éxitos](https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM) | 2:28 |
 
 Snapshot ID: `ZpG4gwAAAAA8eZ2OUgwoM5LaYsgIOGK3`

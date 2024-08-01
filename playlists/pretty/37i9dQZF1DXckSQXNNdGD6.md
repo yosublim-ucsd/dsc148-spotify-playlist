@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Agoney.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,267 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,271 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,15 +44,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 34 | [Collar Fular](https://open.spotify.com/track/4s2eThXBozqzc54PX5ZfvJ) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [Collar Fular](https://open.spotify.com/album/1JuSedkicPVexihsz6qHuP) | 2:12 |
 | 35 | [MADRE MÍA EL ASCO QUE ME DAS](https://open.spotify.com/track/30J1epk1XS8p0pFttAPZ4b) | [Ladilla Rusa](https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF) | [MADRE MÍA EL ASCO QUE ME DAS](https://open.spotify.com/album/4aCUBRVvC3l1aFMZ1Vp9Yr) | 3:39 |
 | 36 | [LA LUNA](https://open.spotify.com/track/0Oe5FDm7zS2cz4WDRW2erw) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [LA LUNA](https://open.spotify.com/album/3ETnGzTDjhnrVudUbcc4TG) | 1:57 |
-| 37 | [Me Gustas Demasiado \- Remix](https://open.spotify.com/track/0NXhi0ibdZ0lk5JT6kjfgw) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD), [Aida Redru](https://open.spotify.com/artist/3Xoz7YMI4DBfoEJYVWc0JJ), [Zeper](https://open.spotify.com/artist/3tNfCak31ds75TVqS3wEIL) | [Me Gustas Demasiado \- Remix](https://open.spotify.com/album/192BQCY2BJGJtpNAuaJLQc) | 2:41 |
-| 38 | [Confieso](https://open.spotify.com/track/0CMhIGS8QEIIq92amMvZCe) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [Confieso](https://open.spotify.com/album/2ySp1RZ1gkmH1aVIFkR2sU) | 3:00 |
-| 39 | [Por España \- Banda Sonora Original de la Película ¡Cortén!](https://open.spotify.com/track/3l3Ea4AyUl64PJ15tLcKCM) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92), [Papa Topo](https://open.spotify.com/artist/5bj2pIzyYR99GUinn9fKAN) | [Por España \(Banda Sonora Original de la Película ¡Cortén!\)](https://open.spotify.com/album/46FkNDxYkjXvDxB5VeoHOo) | 4:25 |
-| 40 | [LAS 12](https://open.spotify.com/track/1dXGCiV6HBjCqsp7lzioJi) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d) | [LAS 12](https://open.spotify.com/album/6F4y3KOBfxEA2Zs6N5Ztbl) | 2:27 |
+| 37 | [Confieso](https://open.spotify.com/track/0CMhIGS8QEIIq92amMvZCe) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [Confieso](https://open.spotify.com/album/2ySp1RZ1gkmH1aVIFkR2sU) | 3:00 |
+| 38 | [Me Gustas Demasiado \- Remix](https://open.spotify.com/track/0NXhi0ibdZ0lk5JT6kjfgw) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD), [Aida Redru](https://open.spotify.com/artist/3Xoz7YMI4DBfoEJYVWc0JJ), [Zeper](https://open.spotify.com/artist/3tNfCak31ds75TVqS3wEIL) | [Me Gustas Demasiado \- Remix](https://open.spotify.com/album/192BQCY2BJGJtpNAuaJLQc) | 2:41 |
+| 39 | [LAS 12](https://open.spotify.com/track/1dXGCiV6HBjCqsp7lzioJi) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d) | [LAS 12](https://open.spotify.com/album/6F4y3KOBfxEA2Zs6N5Ztbl) | 2:27 |
+| 40 | [Por España \- Banda Sonora Original de la Película ¡Cortén!](https://open.spotify.com/track/3l3Ea4AyUl64PJ15tLcKCM) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92), [Papa Topo](https://open.spotify.com/artist/5bj2pIzyYR99GUinn9fKAN) | [Por España \(Banda Sonora Original de la Película ¡Cortén!\)](https://open.spotify.com/album/46FkNDxYkjXvDxB5VeoHOo) | 4:25 |
 | 41 | [Aitana O'Caña](https://open.spotify.com/track/7yoxipcKVR52kAV8kMLJsU) | [Turista Sueca](https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7) | [Aitana O'Caña](https://open.spotify.com/album/4Iwvq5gd7DVHzYqa8dCg0u) | 2:52 |
 | 42 | [Intacto](https://open.spotify.com/track/4jOI70Kq9jCpGbxEt80c7m) | [Agoney](https://open.spotify.com/artist/4jKvQ93sRiKroRRaAI6Fqk) | [Intacto](https://open.spotify.com/album/64rIfd9Cgllr89y2dbkgwU) | 3:15 |
 | 43 | [Disfraz de tigre](https://open.spotify.com/track/5cME04YK44GYaVeVHMTbdL) | [Hidrogenesse](https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY) | [Animalitos](https://open.spotify.com/album/5JBrDB9iD7huWT5y6LCFPC) | 3:45 |
-| 44 | [33](https://open.spotify.com/track/5JBtPAHeH3p2q7w0p14TJ3) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [33](https://open.spotify.com/album/0MrBdxJiBDtIPyujW0nGzT) | 3:39 |
-| 45 | [invisible](https://open.spotify.com/track/2xhKj6tAJ4g3BzhJR8JZkl) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [invisible](https://open.spotify.com/album/5SBLJieZS1BQbNOqTXnQ01) | 3:09 |
+| 44 | [invisible](https://open.spotify.com/track/2xhKj6tAJ4g3BzhJR8JZkl) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [invisible](https://open.spotify.com/album/5SBLJieZS1BQbNOqTXnQ01) | 3:09 |
+| 45 | [33](https://open.spotify.com/track/5JBtPAHeH3p2q7w0p14TJ3) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [33](https://open.spotify.com/album/0MrBdxJiBDtIPyujW0nGzT) | 3:39 |
 | 46 | [No vaya a ser](https://open.spotify.com/track/3QVP0l1NB4MS0mVXWVuao6) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo \(Edición especial\)](https://open.spotify.com/album/1jLNPWcykNvUNoWBWBPjep) | 3:18 |
 | 47 | [HETERO](https://open.spotify.com/track/7e39dVZt37PASe2c1c8Xdu) | [VALENTINO](https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0) | [HETERO](https://open.spotify.com/album/62CiORkFOOAQEa61gYD8aQ) | 2:38 |
 | 48 | [Arboleda Bien Plantada](https://open.spotify.com/track/7DQSEa2uqg5QsiIIMT91Ev) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO), [Raül Refree](https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy) | [Manual de Cortejo](https://open.spotify.com/album/1g0iT6TvvvVFfheThXR0Dk) | 3:38 |

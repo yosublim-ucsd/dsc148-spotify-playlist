@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-877 songs - 1 day 23 hr 38 min
+878 songs - 1 day 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [Goriye](https://open.spotify.com/track/73xwtIVQno0EEoiiFpbjG4) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Goriye](https://open.spotify.com/album/0be9lG0TVPkMnTupK6YGvF) | 2:44 | 2022-03-11 | 2022-04-06 |
 | [Grace](https://open.spotify.com/track/5iZR5MN9qvGgnyOblSdlH1) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Grace](https://open.spotify.com/album/3BIuAv9phvIqWSXhgWCfXV) | 3:00 | 2022-09-26 | 2023-08-22 |
 | [Gucci](https://open.spotify.com/track/7GG8loWh3JFsNtWGps6ALe) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a) | [Gucci](https://open.spotify.com/album/2c5DFrT8ceNAIr7A0QXecf) | 2:36 | 2021-12-02 | 2022-04-06 |
-| [Guitar \- From the Album "XYZ"](https://open.spotify.com/track/76XQ1JrztUciUlQHYIXLl0) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Guitar](https://open.spotify.com/album/2cZavSlbZLnEpU938tCGuG) | 2:32 | 2022-08-16 |  |
+| [Guitar \- From the Album "XYZ"](https://open.spotify.com/track/76XQ1JrztUciUlQHYIXLl0) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Guitar](https://open.spotify.com/album/2cZavSlbZLnEpU938tCGuG) | 2:32 | 2022-08-16 | 2024-08-01 |
 | [Guitar Sikhda](https://open.spotify.com/track/7HGhE2zK1VToDev4SLCXHK) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA) | [Do Gabru \- Jassi Gill & Amrit Maan](https://open.spotify.com/album/4NA7IQDtm526DqzmqxWiZr) | 3:09 | 2023-02-16 | 2023-05-06 |
 | [Gulaab](https://open.spotify.com/track/0WBxmNri8xbHC8Kf6P9AlM) | [Supreme Sidhu](https://open.spotify.com/artist/1ZepPUbPtyDgmq1ktCLqcN), [Raaginder](https://open.spotify.com/artist/0aS41TT32O5PsnAB7qZj7L) | [Gulaab](https://open.spotify.com/album/2dvmqXZLpzSRDO6Adkkzq0) | 2:56 | 2024-01-25 | 2024-03-09 |
 | [Gulab](https://open.spotify.com/track/1CMivY02VCtga3xT7AyfQ4) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Loverboy](https://open.spotify.com/album/67uk6VOF3UDB3JW5pKycnF) | 2:39 | 2024-05-17 |  |
@@ -808,6 +808,7 @@
 | [Toronto Wala Gabhru](https://open.spotify.com/track/3sDN39Dmqny4KiNAVn9JYk) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [Lost Treasures](https://open.spotify.com/album/60224gsHzqN70VFJ3EsTuX) | 2:24 | 2023-02-20 | 2024-04-04 |
 | [Touch](https://open.spotify.com/track/7N1GIRDrB1l14np1AT6EED) | [Sama Blake](https://open.spotify.com/artist/19jOqaZTvseWAgi4PaQJrd), [Rameet Sandhu](https://open.spotify.com/artist/3DvttNUNkwPw64Hp3BFsEP) | [Touch](https://open.spotify.com/album/7xbXd6O3AFkSHBeCnZ14Gi) | 3:09 | 2022-07-15 | 2022-08-18 |
 | [Trouble Maker](https://open.spotify.com/track/3TAVm9vSyDhvTEHcdVesjV) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Mxrci](https://open.spotify.com/artist/2Nqey0jwMuyuUKuQ8f1d7D) | [Trouble Maker](https://open.spotify.com/album/7watxaAZ25ax1NQHbduhgU) | 2:38 | 2022-10-12 | 2023-02-04 |
+| [Tu](https://open.spotify.com/track/2GzjIHQ87BF2zgbmmthZzO) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Tu](https://open.spotify.com/album/7JWCWWOkIr1AFB7jxjRgQ9) | 2:12 | 2024-07-31 |  |
 | [Tu Hi Das De](https://open.spotify.com/track/65hNUaQSau704UtsRZVhKy) | [Tedi Pagg](https://open.spotify.com/artist/6tWHWFyjq1e6xsPDsOxhca), [Simar Panag](https://open.spotify.com/artist/17wXdpGNHQ2vJ1ccoToqGC), [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t) | [Tu Hi Das De](https://open.spotify.com/album/5ZYR477Cw4aZu3NDhBKXrW) | 2:52 | 2021-12-02 | 2022-12-16 |
 | [Tu Jaanda Ae](https://open.spotify.com/track/68inwrhs0ggPlJhlqVHuCM) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ) | [Tu Jaanda Ae](https://open.spotify.com/album/1LD9gtlHV6Mh4aeke1ebOw) | 4:10 | 2022-03-29 | 2022-04-06 |
 | [Tu Jhoom](https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye) | [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Tu Jhoom](https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M) | 6:37 | 2022-02-24 | 2022-04-06 |

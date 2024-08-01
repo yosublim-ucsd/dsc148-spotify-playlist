@@ -4,7 +4,7 @@
 
 > songs to live byyyyy\. cover: Medium Build
 
-2,903 songs - 6 day 12 hr 46 min
+2,905 songs - 6 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2104,6 +2104,7 @@
 | [Sad to Breathe](https://open.spotify.com/track/1NtoOI83OIXz4NXPj2VaKV) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Sad to Breathe](https://open.spotify.com/album/0sGBhfoO2V3a2gJejL2Li6) | 3:34 | 2023-04-21 | 2023-05-20 |
 | [safety](https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [safety](https://open.spotify.com/album/4hIil1T0kwD96mdWyCOaNT) | 3:03 | 2022-08-03 | 2022-09-10 |
 | [Sailor](https://open.spotify.com/track/2cHuQV2Iag6phx3viexosw) | [DEEGAN](https://open.spotify.com/artist/70KADh6rh0ljLJZtvH8LYi) | [Sailor](https://open.spotify.com/album/190liWGIaL7xOYYz08ikgd) | 3:48 | 2019-09-21 | 2020-01-10 |
+| [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-07-31 |  |
 | [Salad](https://open.spotify.com/track/04wGd81Dnp8M8gPqCQXs07) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 4:34 | 2023-04-05 | 2023-06-24 |
 | [Salad](https://open.spotify.com/track/6b9vXH45z5ShTRDLXU8wbU) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Salad](https://open.spotify.com/album/3kH1n17Ze7d9WldgFDNB2E) | 4:34 | 2023-04-05 | 2023-04-10 |
 | [Sally](https://open.spotify.com/track/0qFZubf0FS0xxropyslwYJ) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sally](https://open.spotify.com/album/4fRbVJ1B6nbRrPdKLg3aYo) | 4:33 | 2023-03-10 | 2023-04-25 |
@@ -2145,6 +2146,7 @@
 | [See You Later](https://open.spotify.com/track/4OHXUCTieg7Ba4My21pFz8) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [See You Later](https://open.spotify.com/album/1mdcunvWOgYgFxGk2BH67i) | 2:42 | 2019-10-11 | 2019-10-29 |
 | [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 | 2022-04-29 | 2022-07-07 |
 | [See you soon](https://open.spotify.com/track/1seLWPX7HzMY1FZ4lrGXuD) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [See you soon](https://open.spotify.com/album/5zHP6l5Pc7gtmqwiXjb8bV) | 3:38 | 2024-01-26 | 2024-06-18 |
+| [Seed of a Seed](https://open.spotify.com/track/2dLVXnwdnstcHIRTJMgqsx) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Seed of a Seed](https://open.spotify.com/album/77Q7ZGkqC4k1GjgoSdMrYa) | 2:44 | 2024-07-31 |  |
 | [Seeds](https://open.spotify.com/track/4BwGU8l91SQWeVqnWqWClh) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Seeds](https://open.spotify.com/album/16F9QOwv3lMvYiTscoFD4Q) | 3:39 | 2022-02-11 | 2022-04-09 |
 | [Selene](https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Selene](https://open.spotify.com/album/5vM130oQKE5jQ22EgX7Cy7) | 4:54 | 2023-03-17 | 2023-11-18 |
 | [Self destruct](https://open.spotify.com/track/2ROJw0Y9Ypl79RYsYuqT3w) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [I Love My Girl, She's My Boy](https://open.spotify.com/album/6CS7IxjsKQAamJTVWvQWOF) | 2:53 | 2023-09-01 | 2023-12-14 |

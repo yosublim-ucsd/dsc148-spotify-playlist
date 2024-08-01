@@ -1,12 +1,12 @@
 {
   "description": "The home of rage rap. Cover: Destroy Lonely",
-  "num_followers": 64608,
+  "num_followers": 64610,
   "original_name": "RAGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zm2MyQAAAABOKb6aPwXB0RInkyEOBuKD",
+  "snapshot_id": "ZqpsRgAAAADNA7TiugglkMxbgmJ4BInj",
   "tracks": [
     {
       "added_at": "2024-06-15 12:43:38",
@@ -23,6 +23,82 @@
       "duration_ms": 212088,
       "name": "LUV 4 YA",
       "url": "https://open.spotify.com/track/2V9ssBr0S36RJdEXqAREfH"
+    },
+    {
+      "added_at": "2024-07-31 16:47:35",
+      "album": {
+        "name": "2012",
+        "url": "https://open.spotify.com/album/6ndv4g7482HJZ2pLAbpzrY"
+      },
+      "artists": [
+        {
+          "name": "DC The Don",
+          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+        }
+      ],
+      "duration_ms": 134680,
+      "name": "IDK IT DEPENDS",
+      "url": "https://open.spotify.com/track/0CgH8C1KQbv67P0birF4MN"
+    },
+    {
+      "added_at": "2024-07-31 16:47:35",
+      "album": {
+        "name": "Hate Me",
+        "url": "https://open.spotify.com/album/5MqrNKRQ1OjwtSiXjrzkjy"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "duration_ms": 161259,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/0QpiyJbgWUjyAQNqjIA5tO"
+    },
+    {
+      "added_at": "2024-07-31 16:54:30",
+      "album": {
+        "name": "ABU DHABI (w/ Lancey Foux)",
+        "url": "https://open.spotify.com/album/65nf2NivqigHee4vVjsRT5"
+      },
+      "artists": [
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "duration_ms": 154313,
+      "name": "ABU DHABI (w/ Lancey Foux)",
+      "url": "https://open.spotify.com/track/5sv52cIHSsKw66yhHFFXyj"
+    },
+    {
+      "added_at": "2024-07-31 16:54:30",
+      "album": {
+        "name": "Precision",
+        "url": "https://open.spotify.com/album/5a7AhbzPPOpwiiuI3ETuAe"
+      },
+      "artists": [
+        {
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 158367,
+      "name": "Precision",
+      "url": "https://open.spotify.com/track/2v0EGZ57xziY8aZMc79Hwl"
     },
     {
       "added_at": "2024-05-31 20:10:02",
@@ -835,74 +911,6 @@
       "duration_ms": 115347,
       "name": "Wokeup",
       "url": "https://open.spotify.com/track/3jM9VzF2d1AMUyTD8sTmPu"
-    },
-    {
-      "added_at": "2024-04-26 05:00:00",
-      "album": {
-        "name": "Playboi Carti",
-        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 181812,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl"
-    },
-    {
-      "added_at": "2024-04-26 05:00:00",
-      "album": {
-        "name": "Snotty World (Deluxe)",
-        "url": "https://open.spotify.com/album/5Fy36L5DnmGWWmAQsq4Ido"
-      },
-      "artists": [
-        {
-          "name": "Homixide Gang",
-          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
-        },
-        {
-          "name": "R5 Homixide",
-          "url": "https://open.spotify.com/artist/0dhgemnyYGddxaOFhqJ2Kw"
-        }
-      ],
-      "duration_ms": 100414,
-      "name": "5unna",
-      "url": "https://open.spotify.com/track/2M1LHRfp0vsJKjKfKxOUx3"
-    },
-    {
-      "added_at": "2024-04-26 05:00:00",
-      "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 158515,
-      "name": "Jennifer\u2019s Body",
-      "url": "https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG"
-    },
-    {
-      "added_at": "2024-04-26 05:00:00",
-      "album": {
-        "name": "Whole Lotta Red",
-        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 124093,
-      "name": "Vamp Anthem",
-      "url": "https://open.spotify.com/track/4CzhtKifG867Lu5DNQVBSA"
     }
   ],
   "unique_name": "RAGE",

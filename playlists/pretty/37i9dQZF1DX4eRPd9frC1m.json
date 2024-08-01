@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2586377,
+  "num_followers": 2586434,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2024-07-12 17:16:59",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72"
-      },
-      "artists": [
-        {
-          "name": "Guapdad 4000",
-          "url": "https://open.spotify.com/artist/7IPxnXcamcHPZLkLYfF9FH"
-        },
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/7GVx0VOMtTdjt3yzTQIbAG"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Fearless",
-      "url": "https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b"
-    },
-    {
-      "added_at": "2024-07-12 17:16:59",
-      "album": {
         "name": "NEXT LVL",
         "url": "https://open.spotify.com/album/1rhMrfqiJY4q1KtEzmjx2o"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 202374,
       "name": "Feel The Vibe",
       "url": "https://open.spotify.com/track/5uubpHWcBAXoPSoBXY45vW"
+    },
+    {
+      "added_at": "2024-07-12 17:16:59",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72"
+      },
+      "artists": [
+        {
+          "name": "Guapdad 4000",
+          "url": "https://open.spotify.com/artist/7IPxnXcamcHPZLkLYfF9FH"
+        },
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/7GVx0VOMtTdjt3yzTQIbAG"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b"
     },
     {
       "added_at": "2024-07-12 17:16:59",
@@ -1527,30 +1527,6 @@
     {
       "added_at": "2024-07-12 17:16:59",
       "album": {
-        "name": "UNSOUND 2",
-        "url": "https://open.spotify.com/album/1Y3qKvJSEFyxxVvK8p2dWf"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "Franky Nuts",
-          "url": "https://open.spotify.com/artist/3YZPramylP3cGeVkbykhVZ"
-        },
-        {
-          "name": "DeathbyRomy",
-          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Torture",
-      "url": "https://open.spotify.com/track/4Z3lOky8FsA5o53jM9nQg4"
-    },
-    {
-      "added_at": "2024-07-12 17:16:59",
-      "album": {
         "name": "Steps On You (Peep My Style)",
         "url": "https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt"
       },
@@ -1583,6 +1559,30 @@
       "duration_ms": 121849,
       "name": "Spirits Pt. 2",
       "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
+    },
+    {
+      "added_at": "2024-07-12 17:16:59",
+      "album": {
+        "name": "UNSOUND 2",
+        "url": "https://open.spotify.com/album/1Y3qKvJSEFyxxVvK8p2dWf"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Franky Nuts",
+          "url": "https://open.spotify.com/artist/3YZPramylP3cGeVkbykhVZ"
+        },
+        {
+          "name": "DeathbyRomy",
+          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Torture",
+      "url": "https://open.spotify.com/track/4Z3lOky8FsA5o53jM9nQg4"
     },
     {
       "added_at": "2024-07-12 17:16:59",

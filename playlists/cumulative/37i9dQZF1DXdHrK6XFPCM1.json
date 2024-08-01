@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 225312,
       "name": "Always",
       "url": "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus"
@@ -378,6 +378,28 @@
       "duration_ms": 388960,
       "name": "Come back to me",
       "url": "https://open.spotify.com/track/1PT8hWQvl2gRO1JhDcSUqN"
+    },
+    {
+      "album": {
+        "name": "coming home",
+        "url": "https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        },
+        {
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193105,
+      "name": "coming home",
+      "url": "https://open.spotify.com/track/3wWpmvEzgKQm7IHmzYsrni"
     },
     {
       "album": {
@@ -742,7 +764,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 238454,
       "name": "Hangang Gongwon",
       "url": "https://open.spotify.com/track/58DPUgbOVwsLfAOs2oQBk9"
@@ -977,6 +999,24 @@
     },
     {
       "album": {
+        "name": "Infatuated",
+        "url": "https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226714,
+      "name": "Infatuated",
+      "url": "https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS"
+    },
+    {
+      "album": {
         "name": "It's You",
         "url": "https://open.spotify.com/album/5GulvBNneCO2QRjoWVzhWI"
       },
@@ -1046,7 +1086,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 208769,
       "name": "IYKYK",
       "url": "https://open.spotify.com/track/1wkze3nOLQkWG9uHjHaKjc"
@@ -1107,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "coming home",
+        "url": "https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192124,
+      "name": "kembali",
+      "url": "https://open.spotify.com/track/4cekVvN19wjGowJmXb3sNF"
+    },
+    {
+      "album": {
         "name": "Kembali Pulang",
         "url": "https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih"
       },
@@ -1158,7 +1216,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
@@ -2172,6 +2230,28 @@
       "duration_ms": 220433,
       "name": "Wildest Dreams (Taylor's Version)",
       "url": "https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL"
+    },
+    {
+      "album": {
+        "name": "With You (feat. Aswad Anuar)",
+        "url": "https://open.spotify.com/album/50WMtF6oBYcbja0JawYF2T"
+      },
+      "artists": [
+        {
+          "name": "Sarah Suhairi",
+          "url": "https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh"
+        },
+        {
+          "name": "Aswad Anuar",
+          "url": "https://open.spotify.com/artist/1B1M93wNXmybMqjQCcjgIR"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212079,
+      "name": "With You (feat. Aswad Anuar)",
+      "url": "https://open.spotify.com/track/6ceBB340aX6EUqLZpelyk2"
     },
     {
       "album": {

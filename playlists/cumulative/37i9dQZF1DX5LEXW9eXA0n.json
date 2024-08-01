@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: AIRI KANNA(\uc544\uc774\ub9ac \uce78\ub098)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: Hwang In Wook(\ud669\uc778\uc6b1)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -856,7 +856,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 238826,
       "name": "Agony",
       "url": "https://open.spotify.com/track/4kFgtNqcmwoQmFEwiv6f1C"
@@ -1765,6 +1765,24 @@
     },
     {
       "album": {
+        "name": "Good Partner (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/6C21O1blhlQQdHjhq8pBAz"
+      },
+      "artists": [
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237906,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/6e2JgoDoG0ADpGKTcQ0zAB"
+    },
+    {
+      "album": {
         "name": "B-Side",
         "url": "https://open.spotify.com/album/5BaFlgq8oi3I0ql6zj1gmu"
       },
@@ -1960,7 +1978,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 275840,
       "name": "Because There Is Love",
       "url": "https://open.spotify.com/track/70oz4lCNYc3v3p1prvisYO"
@@ -2368,7 +2386,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 207453,
       "name": "Blooming just for you",
       "url": "https://open.spotify.com/track/2HPWrzo08BqVptseRrk2GI"
@@ -5366,7 +5384,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 237480,
       "name": "Falling Slowly",
       "url": "https://open.spotify.com/track/7efGmCE7FPDKmwyWnbcU0p"
@@ -5579,6 +5597,24 @@
     },
     {
       "album": {
+        "name": "First Love (2024)",
+        "url": "https://open.spotify.com/album/6MSoRdWkzQjGIgMMWZbxRb"
+      },
+      "artists": [
+        {
+          "name": "BUMJIN",
+          "url": "https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254146,
+      "name": "First Love (2024)",
+      "url": "https://open.spotify.com/track/0Z6POhrfjT7NfnufL6UM9q"
+    },
+    {
+      "album": {
         "name": "First Love (feat.SOLE)",
         "url": "https://open.spotify.com/album/2LI26wCTae3Ujx8YLUwAG2"
       },
@@ -5652,6 +5688,24 @@
       "duration_ms": 235133,
       "name": "FLAG",
       "url": "https://open.spotify.com/track/0LvrQEsWwKL1X30rHYiYUw"
+    },
+    {
+      "album": {
+        "name": "Flirting",
+        "url": "https://open.spotify.com/album/0LbXOtK5soHLXU7Ahzc0up"
+      },
+      "artists": [
+        {
+          "name": "Hwang In Wook",
+          "url": "https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246386,
+      "name": "Flirting",
+      "url": "https://open.spotify.com/track/0sNm6uJlooT2vfybQDeEv0"
     },
     {
       "album": {
@@ -6052,6 +6106,24 @@
       "duration_ms": 253760,
       "name": "Full Bloom",
       "url": "https://open.spotify.com/track/6rX4ZMxZC6spPAIsr0i7j2"
+    },
+    {
+      "album": {
+        "name": "GAWUI",
+        "url": "https://open.spotify.com/album/0KkUP0OArDCZSYBy4tiiNP"
+      },
+      "artists": [
+        {
+          "name": "Ahn Ye Eun",
+          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221375,
+      "name": "GAWUI",
+      "url": "https://open.spotify.com/track/4LLoEHK5A5GIJKW7Yatosq"
     },
     {
       "album": {
@@ -6961,6 +7033,24 @@
     },
     {
       "album": {
+        "name": "Hitomio Tojite",
+        "url": "https://open.spotify.com/album/1zZ45eUO8njWPET8hCM9Mo"
+      },
+      "artists": [
+        {
+          "name": "YOONWON",
+          "url": "https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343071,
+      "name": "Hitomio Tojite",
+      "url": "https://open.spotify.com/track/3Hf14iQ8Yx9feBxGEeMGlO"
+    },
+    {
+      "album": {
         "name": "Hobby",
         "url": "https://open.spotify.com/album/08Elmqrujo2Zyf8BmOJnLI"
       },
@@ -7008,7 +7098,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 232026,
       "name": "Hold Me Back",
       "url": "https://open.spotify.com/track/69Bx1c9Hzv7IZGkLyFCeMw"
@@ -8136,6 +8226,24 @@
       "duration_ms": 169448,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj"
+    },
+    {
+      "album": {
+        "name": "I miss you now",
+        "url": "https://open.spotify.com/album/7Jg8bn3YwRRX1kfg2yzIbO"
+      },
+      "artists": [
+        {
+          "name": "HAE YOON",
+          "url": "https://open.spotify.com/artist/2hD3aiYb8kpzjuxoLvqckk"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209200,
+      "name": "I miss you now",
+      "url": "https://open.spotify.com/track/5TgCwXtQxDTDh9AVNLDEni"
     },
     {
       "album": {
@@ -10650,7 +10758,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 280426,
       "name": "Let\u2019s Breathe for a While",
       "url": "https://open.spotify.com/track/26haC2I4xS8KIqPMZVHEIO"
@@ -11508,7 +11616,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 191160,
       "name": "Love Fool",
       "url": "https://open.spotify.com/track/78ArztlRnP0iatNE9GJNJB"
@@ -12092,7 +12200,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 229373,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/5btyWod77lGbqKjEGRBvGw"
@@ -12326,7 +12434,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 213476,
       "name": "Me, Myself",
       "url": "https://open.spotify.com/track/32tdszpJz2MosFHjn2iSmi"
@@ -12878,6 +12986,24 @@
       "duration_ms": 235050,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/0DIec6uDOoIvvNUWnoiL5J"
+    },
+    {
+      "album": {
+        "name": "More than yesterday",
+        "url": "https://open.spotify.com/album/27psbZejGjSKM7GpR4BXRz"
+      },
+      "artists": [
+        {
+          "name": "Hwang Karam",
+          "url": "https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253360,
+      "name": "More than yesterday",
+      "url": "https://open.spotify.com/track/4A3i56Rh3sm2lzXQp3ly9U"
     },
     {
       "album": {
@@ -13944,7 +14070,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 210194,
       "name": "Nothing Ever",
       "url": "https://open.spotify.com/track/3e33rlL7TVHv1FuEYOqF2l"
@@ -14661,6 +14787,24 @@
     },
     {
       "album": {
+        "name": "Orange Flower",
+        "url": "https://open.spotify.com/album/7njdluhWmaZFoDslWfbceC"
+      },
+      "artists": [
+        {
+          "name": "KIM YOUNGHEUM",
+          "url": "https://open.spotify.com/artist/4aIJgOMlBlNDc7pxXKGJeW"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186186,
+      "name": "Orange Flower",
+      "url": "https://open.spotify.com/track/4wV0IQK4NgoIkfvwbJ5gBM"
+    },
+    {
+      "album": {
         "name": "ordinary farewell",
         "url": "https://open.spotify.com/album/20BErIiY911MKyHgfx1Mne"
       },
@@ -14708,7 +14852,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 186760,
       "name": "Our Memories",
       "url": "https://open.spotify.com/track/28o99oVARf9l6KxQch2iji"
@@ -16017,6 +16161,24 @@
     },
     {
       "album": {
+        "name": "Second love",
+        "url": "https://open.spotify.com/album/1Q0PvlQflbbOgSKYSYe5uL"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257786,
+      "name": "Second love",
+      "url": "https://open.spotify.com/track/7rtiRvjNbd05I1KSUVblzK"
+    },
+    {
+      "album": {
         "name": "See you in the evening",
         "url": "https://open.spotify.com/album/3llkSnfUdej1mQdDxnyZQj"
       },
@@ -16220,7 +16382,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 255546,
       "name": "Silent Dial",
       "url": "https://open.spotify.com/track/0b48ZGG7Pu3cfNXXiQbOwF"
@@ -16950,7 +17112,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 198146,
       "name": "Spring has come (with Yang Da-Il)",
       "url": "https://open.spotify.com/track/6nAvfX95tDniO0CvctHnIf"
@@ -17607,6 +17769,28 @@
     },
     {
       "album": {
+        "name": "Summer Wave",
+        "url": "https://open.spotify.com/album/35eBbxM0rgDaQJJ1AWq9EB"
+      },
+      "artists": [
+        {
+          "name": "Gitae",
+          "url": "https://open.spotify.com/artist/7AQ2PocMnNWx7lwz4E1or6"
+        },
+        {
+          "name": "YOON JI HWAN",
+          "url": "https://open.spotify.com/artist/6zWAOib8XIaq1ttDw7u2j4"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225200,
+      "name": "Summer Wave",
+      "url": "https://open.spotify.com/track/5T13pGrcDtRkBoEIDqTAfN"
+    },
+    {
+      "album": {
         "name": "Sun Shower (A Business Proposal OST Part.3)",
         "url": "https://open.spotify.com/album/27s8y4T4C2XIP9y4Rv5AO2"
       },
@@ -17644,6 +17828,24 @@
       "duration_ms": 195133,
       "name": "Sunday Latte",
       "url": "https://open.spotify.com/track/3I13LUlIE4ou7Ene2qkjOY"
+    },
+    {
+      "album": {
+        "name": "Supppperman's dream",
+        "url": "https://open.spotify.com/album/2CCq19fvsTdzafRqISmF8K"
+      },
+      "artists": [
+        {
+          "name": "Supppperman",
+          "url": "https://open.spotify.com/artist/4MsSecxgHDVQGEx9SPQSDP"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216066,
+      "name": "Supppperman's dream",
+      "url": "https://open.spotify.com/track/5Ohuk0qPL3zvRdqT91WV58"
     },
     {
       "album": {
@@ -17910,7 +18112,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 235506,
       "name": "Tell Me It's Not a Dream",
       "url": "https://open.spotify.com/track/7nxoUuqcsDfv3PsPGeciWy"
@@ -19796,7 +19998,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 205493,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/2rgjOD5RmUh3V6rmx3eLkm"
@@ -20506,7 +20708,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 248390,
       "name": "Weird",
       "url": "https://open.spotify.com/track/0MUJdif0DqzHsJCpBnD3PN"
@@ -21973,6 +22175,24 @@
     },
     {
       "album": {
+        "name": "You Look Stunning",
+        "url": "https://open.spotify.com/album/14QhabL43BROoePN79sojH"
+      },
+      "artists": [
+        {
+          "name": "MRT",
+          "url": "https://open.spotify.com/artist/2wczizmPu6o01FTA7XpIYj"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173929,
+      "name": "You Look Stunning",
+      "url": "https://open.spotify.com/track/49OA28vZqXIIUZrtWwe29U"
+    },
+    {
+      "album": {
         "name": "You may live in happiness (2022)",
         "url": "https://open.spotify.com/album/6Bnnguv7ITOcrnTcqGQIy8"
       },
@@ -22436,6 +22656,24 @@
       "duration_ms": 253240,
       "name": "\uadf8\ub0a0\uc758 \uadf8\ub300\uc5ec",
       "url": "https://open.spotify.com/track/01Phm3foggf3vXgAbQy1ht"
+    },
+    {
+      "album": {
+        "name": "\uadf8\ub300\ub294 \ub0b4 \uc804\ubd80",
+        "url": "https://open.spotify.com/album/3oNHCfdrDo9MPM4ECkrLXu"
+      },
+      "artists": [
+        {
+          "name": "\uc5d0\uc2a4\ud504\ub808\uc18c",
+          "url": "https://open.spotify.com/artist/1g96qRd97CluyECfqXV20q"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187191,
+      "name": "\uadf8\ub304 \ub098\uc758 \uc0ac\ub791 \ub098\ub294 \uadf8\ub300\uc0ac\ub791",
+      "url": "https://open.spotify.com/track/4JDNcHS6M0uJHRRQXPhdZo"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-715 songs - 2 day 17 hr 11 min
+716 songs - 2 day 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [How It Feels \(feat\. Lauren L'aimant\)](https://open.spotify.com/track/76UBVe7ZXMJj8rXwIfFUPZ) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [How It Feels \(feat\. Lauren L'aimant\)](https://open.spotify.com/album/3j1TIHTviPzFeR2rx57l1Q) | 3:26 | 2024-02-16 |  |
 | [Howl](https://open.spotify.com/track/4lkLsglTs7eccuclitXPxH) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Le Chev](https://open.spotify.com/artist/1oEH4JTWyTSulZ2xqxLw4N) | [Howl](https://open.spotify.com/album/035PQLE8Al9oFmTACBwtky) | 3:00 | 2024-01-19 | 2024-05-27 |
 | [Human Aura \- Massano Remix](https://open.spotify.com/track/2b0eZppcdEDh0NvMPHrlgv) | [Yubik](https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Human Aura](https://open.spotify.com/album/0loNravFAcXbiWG50QZzk8) | 6:44 | 2022-08-05 | 2024-03-14 |
+| [Human Rights](https://open.spotify.com/track/4VEzfo8GKXvW1f5oviqM1c) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Human Rights](https://open.spotify.com/album/1LLTlN8lue1Wwneob0Sm2y) | 4:54 | 2024-07-26 |  |
 | [Hummingbird \- Arnas D Remix](https://open.spotify.com/track/4vwO2jLIsbKPH5Ra3BEJja) | [Wolf Ear & Fassbender](https://open.spotify.com/artist/3WoHhepzRb4A1m5esS2v2r), [Arnas D](https://open.spotify.com/artist/0Kx8kDxWUfetjFFkeQLcoX) | [Hummingbird](https://open.spotify.com/album/7vitgaCxhbUcK7mPaxsihV) | 7:58 | 2021-04-21 | 2022-07-02 |
 | [Hustla](https://open.spotify.com/track/1UnZUwKsQsmwSdsvKm2QRm) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Hustla](https://open.spotify.com/album/4oofnyX49L9k555nOKILFI) | 2:41 | 2024-02-23 | 2024-06-22 |
 | [Hypertrophy of Heart](https://open.spotify.com/track/42bZq7YzcIsrIpbQesd5nh) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO), [Hydrah](https://open.spotify.com/artist/7mx6m8w71DBSnLTV3i7wVk) | [Hypertrophy of Heart](https://open.spotify.com/album/0omAadju0KB3bL3G8a35Gb) | 5:00 | 2021-06-25 | 2023-04-29 |
@@ -444,7 +445,7 @@
 | [Nebelmaschine](https://open.spotify.com/track/1f6YJOTRtxb9EvDd46vrNN) | [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1) | [Nebelmaschine](https://open.spotify.com/album/4IvVSbxqt0zYSWW8PvuVKQ) | 6:47 | 2021-05-07 | 2022-07-23 |
 | [Nevada](https://open.spotify.com/track/3gCskbRL90fyXnTg6kNaUu) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Late Sun](https://open.spotify.com/album/1JGBUKbvb8xKBddvKP0ASW) | 6:03 | 2021-12-13 | 2022-05-06 |
 | [Nevada](https://open.spotify.com/track/4eP7VbswtkGd5Hlyj4E7Qx) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Late Sun](https://open.spotify.com/album/4HZ1rAyZ7KwvfnsVq5hNKD) | 6:03 | 2022-07-01 | 2024-04-19 |
-| [Never](https://open.spotify.com/track/0OO9FgFioNaXMAJb6k4AqF) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Camerøn](https://open.spotify.com/artist/6DF72UNKeFlipp9UZ2vRXH), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Never](https://open.spotify.com/album/2bKaMNe7DDjXRHlmdho0gv) | 3:59 | 2024-04-26 |  |
+| [Never](https://open.spotify.com/track/0OO9FgFioNaXMAJb6k4AqF) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Camerøn](https://open.spotify.com/artist/6DF72UNKeFlipp9UZ2vRXH), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Never](https://open.spotify.com/album/2bKaMNe7DDjXRHlmdho0gv) | 3:59 | 2024-04-26 | 2024-08-01 |
 | [Never Alone \- Patrice Bäumel Remix](https://open.spotify.com/track/5ZgaPxJRrPyIhbpeytTFYO) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Patrice Bäumel](https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT) | [Never Alone \(Patrice Bäumel Remix\)](https://open.spotify.com/album/188eX1q8qweT4oRiFBZqSd) | 8:56 | 2022-12-02 | 2022-12-17 |
 | [Never Ending](https://open.spotify.com/track/2bO6oJIdBwN6OfWFbMr3qD) | [00Zicky](https://open.spotify.com/artist/12cfYIEB508tIyRhgf8Hla), [Joy Kitikonti](https://open.spotify.com/artist/4JrU565LFXyKjDaHhdmPR6) | [Never Ending](https://open.spotify.com/album/5Ou23LWntsIBDkrAGquae0) | 7:20 | 2021-12-10 | 2022-07-29 |
 | [Never Loved](https://open.spotify.com/track/0meP7qfCsxGij4zDvQPDxd) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Visage 6 \(Never Loved\)](https://open.spotify.com/album/577ICRjIydiQOkjRzKkGNX) | 4:13 | 2022-09-02 | 2024-02-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 
 > Nur tote Fische schwimmen mit dem Strom\. Cover: Yu
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,805 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,808 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 | 42 | [Muttertag](https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw) | [Antilopen Gang](https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB) | [Muttertag](https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN) | 1:06 |
 | 43 | [Ein Spiel \(feat\. piya\)](https://open.spotify.com/track/1klDCE1ebQnTf9cds6I0hW) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo), [piya](https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh) | [Ein Spiel \(feat\. piya\)](https://open.spotify.com/album/1MxxDZjHKqlHiS4xuNx8VT) | 3:33 |
 | 44 | [König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw) | [Traumatin](https://open.spotify.com/artist/7a3E1IT2qaGIq6M4cW2NtV) | [König Der Welt](https://open.spotify.com/album/6iP34lE8L8EDx6JGgHPMB6) | 3:28 |
-| 45 | [Leon](https://open.spotify.com/track/4hu0vB1JaMHGaV4SJADNZs) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Leon](https://open.spotify.com/album/1vquxy6exp4vtCQnEFNgms) | 3:15 |
-| 46 | [So schreibt man seinen Song](https://open.spotify.com/track/0r10l0wnJ9SwV0rnQxBORe) | [Olli Schulz](https://open.spotify.com/artist/3FFqyoSbYAiE91jM3DAUb1) | [Vom Rand der Zeit](https://open.spotify.com/album/6dOkDpALZWcL8uuic3LjoH) | 3:23 |
+| 45 | [So schreibt man seinen Song](https://open.spotify.com/track/0r10l0wnJ9SwV0rnQxBORe) | [Olli Schulz](https://open.spotify.com/artist/3FFqyoSbYAiE91jM3DAUb1) | [Vom Rand der Zeit](https://open.spotify.com/album/6dOkDpALZWcL8uuic3LjoH) | 3:23 |
+| 46 | [Leon](https://open.spotify.com/track/4hu0vB1JaMHGaV4SJADNZs) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Leon](https://open.spotify.com/album/1vquxy6exp4vtCQnEFNgms) | 3:15 |
 | 47 | [Marmelade Und Himbeereis](https://open.spotify.com/track/3CrC7C45IHGfkD5Z1SOSOH) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [Marmelade Und Himbeereis](https://open.spotify.com/album/064OxNn7XPDjxpmaKu57Di) | 3:48 |
 | 48 | [Skandal im Patriarchat](https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Skandal im Patriarchat](https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB) | 3:22 |
 | 49 | [Das Fest](https://open.spotify.com/track/15ttYbkCS4LGeBYEBKpdJe) | [Oehl](https://open.spotify.com/artist/0LLCimRswRk6Ks5oBJ4Abp) | [Das Fest](https://open.spotify.com/album/6wsAw2KnjH439LE0oLd0YI) | 2:44 |
-| 50 | [I.C.E\. 2 \(feat\. Kryptik Joe and Rocko Schamoni\)](https://open.spotify.com/track/3fcIZ7Ia4Rr4DdBlWfjfDh) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83), [Kryptik Joe](https://open.spotify.com/artist/1NmLear8QhZBLkRxsnY1iR), [Rocko Schamoni](https://open.spotify.com/artist/1Enw1OhPzkUmYl8daiaBtS) | [I.C.E\. 2 \(feat\. Kryptik Joe and Rocko Schamoni\)](https://open.spotify.com/album/74u87GFTbOrj1PiRtY8Nh1) | 2:46 |
+| 50 | [Panik](https://open.spotify.com/track/3TO48iUyVSruxeUotD1NyK) | [Graustufe West](https://open.spotify.com/artist/74MTnOR9ipJaUNf31xWPLF) | [Panik](https://open.spotify.com/album/1cgt9r3pmssq7iwJ1WoDux) | 3:32 |
 
 Snapshot ID: `ZqLK4AAAAADk7cHK5Gxx4lwVGAyh1tFJ`

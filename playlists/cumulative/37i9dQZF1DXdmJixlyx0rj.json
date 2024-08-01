@@ -827,6 +827,28 @@
     },
     {
       "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/31mGG6ijRDvh5CccbgO8wT"
+      },
+      "artists": [
+        {
+          "name": "ChoA",
+          "url": "https://open.spotify.com/artist/4Nw7hgyeIEP5w5ehrMNKpq"
+        },
+        {
+          "name": "Juncoco",
+          "url": "https://open.spotify.com/artist/1VO8DNH2pIBgyrjNz9V7Td"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173106,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/5LRhz7ACO25w0sa1BXF6Av"
+    },
+    {
+      "album": {
         "name": "Catch Me If You Can",
         "url": "https://open.spotify.com/album/27NAxJQBKFRNNC3mpcunGv"
       },
@@ -2350,7 +2372,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 163533,
       "name": "Naro",
       "url": "https://open.spotify.com/track/1jUhDjHa2En0BBDlxb43oK"

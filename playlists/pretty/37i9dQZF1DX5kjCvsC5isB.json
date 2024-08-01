@@ -1,6 +1,6 @@
 {
   "description": "the bold women of rock & alternative today. Cover: The Warning",
-  "num_followers": 298705,
+  "num_followers": 298759,
   "original_name": "Fierce Femmes",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
+        "name": "MADRA",
+        "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 199220,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/1kiw6IXeTauPy3L964yxoZ"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
         "name": "Remains of Us",
         "url": "https://open.spotify.com/album/2gxw4M7PiKHj1nYogMZY2z"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 242666,
       "name": "Remains of Us",
       "url": "https://open.spotify.com/track/6PY6sVyljtBGLd5lXHKeXA"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
-        "name": "MADRA",
-        "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 199220,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/1kiw6IXeTauPy3L964yxoZ"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
+        "name": "This Wasn't Meant For You Anyway",
+        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 194066,
+      "name": "Wish You Were Dead",
+      "url": "https://open.spotify.com/track/7oWGcQfpSXUL8c61p6ycrh"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
         "name": "The Blob",
         "url": "https://open.spotify.com/album/0gAyeWtpqYOvJHH63QDbfQ"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 142467,
       "name": "The Blob",
       "url": "https://open.spotify.com/track/0QKgoPaVYMUL4mFxX3SyWd"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
-        "name": "This Wasn't Meant For You Anyway",
-        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 194066,
-      "name": "Wish You Were Dead",
-      "url": "https://open.spotify.com/track/7oWGcQfpSXUL8c61p6ycrh"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -427,30 +427,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Burn The Witch",
-        "url": "https://open.spotify.com/album/1pZGazPWeMdbQFBdEQUXm0"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        },
-        {
-          "name": "Tommy Genesis",
-          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
-        },
-        {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
-        }
-      ],
-      "duration_ms": 175959,
-      "name": "Burn The Witch",
-      "url": "https://open.spotify.com/track/4Ne4UbfqgXcBdIsYHjvR6y"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Other Side (feat. Charlotte Sands)",
         "url": "https://open.spotify.com/album/7fN1RNlLuPuOjEl4tJW2PP"
       },
@@ -499,6 +475,30 @@
       "duration_ms": 224395,
       "name": "Holy Touch",
       "url": "https://open.spotify.com/track/4OX2oCV4aZHnmCf1Woh0FG"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Burn The Witch",
+        "url": "https://open.spotify.com/album/1pZGazPWeMdbQFBdEQUXm0"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        },
+        {
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+        },
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        }
+      ],
+      "duration_ms": 175959,
+      "name": "Burn The Witch",
+      "url": "https://open.spotify.com/track/4Ne4UbfqgXcBdIsYHjvR6y"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "You Can't Put A Price On Fun",
-        "url": "https://open.spotify.com/album/3ypNothOPxns9O8DIJubYb"
-      },
-      "artists": [
-        {
-          "name": "Chloe Slater",
-          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
-        }
-      ],
-      "duration_ms": 200449,
-      "name": "Price On Fun",
-      "url": "https://open.spotify.com/track/3RVdfN1q7TMQKywRmtfhdD"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "The CARR Show",
         "url": "https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 149106,
       "name": "Spiral City",
       "url": "https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "You Can't Put A Price On Fun",
+        "url": "https://open.spotify.com/album/3ypNothOPxns9O8DIJubYb"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "duration_ms": 200449,
+      "name": "Price On Fun",
+      "url": "https://open.spotify.com/track/3RVdfN1q7TMQKywRmtfhdD"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Johnny",
-        "url": "https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r"
-      },
-      "artists": [
-        {
-          "name": "CARR",
-          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
-        }
-      ],
-      "duration_ms": 149786,
-      "name": "Johnny",
-      "url": "https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "you were good to me (deluxe)",
         "url": "https://open.spotify.com/album/1nWwnKK3hYQmO8tCRY6S0T"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 246909,
       "name": "ghost",
       "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Johnny",
+        "url": "https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r"
+      },
+      "artists": [
+        {
+          "name": "CARR",
+          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
+        }
+      ],
+      "duration_ms": 149786,
+      "name": "Johnny",
+      "url": "https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Honda Civic",
-        "url": "https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM"
-      },
-      "artists": [
-        {
-          "name": "Lauran Hibberd",
-          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
-        }
-      ],
-      "duration_ms": 170520,
-      "name": "Honda Civic",
-      "url": "https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "IDC AT ALL",
         "url": "https://open.spotify.com/album/4wMtz7zQFP5Sbjf5djv5lo"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 201320,
       "name": "IDC AT ALL",
       "url": "https://open.spotify.com/track/0L0wwswP2xOiWv25Out7nn"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Honda Civic",
+        "url": "https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM"
+      },
+      "artists": [
+        {
+          "name": "Lauran Hibberd",
+          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
+        }
+      ],
+      "duration_ms": 170520,
+      "name": "Honda Civic",
+      "url": "https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Together We Are One, You and I",
-        "url": "https://open.spotify.com/album/2WOw5ZQrrab9Gxr3ZYxrk3"
-      },
-      "artists": [
-        {
-          "name": "mercury",
-          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
-        }
-      ],
-      "duration_ms": 312413,
-      "name": "Born In Early May",
-      "url": "https://open.spotify.com/track/62RtrW0grZ2EUF3FetcbOK"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Sometimes, Forever",
         "url": "https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn"
       },
@@ -1003,22 +987,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Always Get This Way",
-        "url": "https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0"
-      },
-      "artists": [
-        {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
-        }
-      ],
-      "duration_ms": 174258,
-      "name": "Always Get This Way",
-      "url": "https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Don't Need You",
         "url": "https://open.spotify.com/album/35gFs2xTjmciWt5UXv4RwC"
       },
@@ -1031,6 +999,38 @@
       "duration_ms": 206470,
       "name": "Don't Need You",
       "url": "https://open.spotify.com/track/6tpwK4QEA9IlWGv3KuaR6n"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Together We Are One, You and I",
+        "url": "https://open.spotify.com/album/2WOw5ZQrrab9Gxr3ZYxrk3"
+      },
+      "artists": [
+        {
+          "name": "mercury",
+          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
+        }
+      ],
+      "duration_ms": 312413,
+      "name": "Born In Early May",
+      "url": "https://open.spotify.com/track/62RtrW0grZ2EUF3FetcbOK"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Always Get This Way",
+        "url": "https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 174258,
+      "name": "Always Get This Way",
+      "url": "https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 197906,
-      "name": "One Of The Pack",
-      "url": "https://open.spotify.com/track/79QWntL6utGA8UWExmcmCn"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Raw Raw",
         "url": "https://open.spotify.com/album/2EichogWsvmDmpN6tdZov0"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 177933,
       "name": "Raw Raw",
       "url": "https://open.spotify.com/track/3sBofbRnJphNVu5SdBxzKQ"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 197906,
+      "name": "One Of The Pack",
+      "url": "https://open.spotify.com/track/79QWntL6utGA8UWExmcmCn"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Subaru",
-        "url": "https://open.spotify.com/album/7guvApCNYwEuxPmrdw6Q91"
-      },
-      "artists": [
-        {
-          "name": "Winona Fighter",
-          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
-        }
-      ],
-      "duration_ms": 173049,
-      "name": "Subaru",
-      "url": "https://open.spotify.com/track/0gk5BT44sWRHeiSJ0frTGO"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Scaredy Pants",
         "url": "https://open.spotify.com/album/6RpUP5myGMEJ5its0cz20C"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 192440,
       "name": "Scaredy Pants",
       "url": "https://open.spotify.com/track/0UH3qGCpQF9t1jwINUnq2R"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Subaru",
+        "url": "https://open.spotify.com/album/7guvApCNYwEuxPmrdw6Q91"
+      },
+      "artists": [
+        {
+          "name": "Winona Fighter",
+          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+        }
+      ],
+      "duration_ms": 173049,
+      "name": "Subaru",
+      "url": "https://open.spotify.com/track/0gk5BT44sWRHeiSJ0frTGO"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Heavy Pour",
-        "url": "https://open.spotify.com/album/3Wts0iKSOrE244mqwSS0kN"
-      },
-      "artists": [
-        {
-          "name": "Pillow Queens",
-          "url": "https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d"
-        }
-      ],
-      "duration_ms": 230984,
-      "name": "Heavy Pour",
-      "url": "https://open.spotify.com/track/0QAc3lLqDEseK9I3G18fiF"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Hate You When You Party",
         "url": "https://open.spotify.com/album/5oDm9L1HZpWELHtEpDamTn"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 214226,
       "name": "Hate You When You Party",
       "url": "https://open.spotify.com/track/4fh7Ymv5hojW13vBLOJ8yj"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Heavy Pour",
+        "url": "https://open.spotify.com/album/3Wts0iKSOrE244mqwSS0kN"
+      },
+      "artists": [
+        {
+          "name": "Pillow Queens",
+          "url": "https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d"
+        }
+      ],
+      "duration_ms": 230984,
+      "name": "Heavy Pour",
+      "url": "https://open.spotify.com/track/0QAc3lLqDEseK9I3G18fiF"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "SILYMI",
-        "url": "https://open.spotify.com/album/6e9e4kvwl1CY0HtQ92vGbg"
-      },
-      "artists": [
-        {
-          "name": "TeZATalks",
-          "url": "https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W"
-        }
-      ],
-      "duration_ms": 149388,
-      "name": "SILYMI",
-      "url": "https://open.spotify.com/track/2z1tHGVkMogil6jUCbZowQ"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Squeeze",
         "url": "https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT"
       },
@@ -1627,18 +1611,18 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "poser",
-        "url": "https://open.spotify.com/album/2cYM6qi8MBNjQIwfAcJa3C"
+        "name": "SILYMI",
+        "url": "https://open.spotify.com/album/6e9e4kvwl1CY0HtQ92vGbg"
       },
       "artists": [
         {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+          "name": "TeZATalks",
+          "url": "https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W"
         }
       ],
-      "duration_ms": 169065,
-      "name": "poser",
-      "url": "https://open.spotify.com/track/4gBuBzYl2X0j38iKbo02Rl"
+      "duration_ms": 149388,
+      "name": "SILYMI",
+      "url": "https://open.spotify.com/track/2z1tHGVkMogil6jUCbZowQ"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1655,6 +1639,22 @@
       "duration_ms": 202986,
       "name": "WHAT A MAN",
       "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "poser",
+        "url": "https://open.spotify.com/album/2cYM6qi8MBNjQIwfAcJa3C"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 169065,
+      "name": "poser",
+      "url": "https://open.spotify.com/track/4gBuBzYl2X0j38iKbo02Rl"
     }
   ],
   "unique_name": "Fierce Femmes",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "\u2728\u2764\ufe0f\ud83c\udf39Para Rocanlovers en compa\u00f1\u00eda de Technicolor Fabrics y Hello Seahorse ",
+  "description": "\u2728\u2764\ufe0f\ud83c\udf39Para Rocanlovers en compa\u00f1\u00eda de Peces Raros",
   "name": "Brillas",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 202926,
       "name": "Acelerar",
       "url": "https://open.spotify.com/track/1hP1iHCGOaA9GraLDeBt2O"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 147853,
       "name": "Algo De Verdad",
       "url": "https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5"
@@ -710,6 +710,28 @@
       "duration_ms": 297053,
       "name": "Cachito De Galaxia",
       "url": "https://open.spotify.com/track/6T0ATRfwd6t1xEuVS2hgGN"
+    },
+    {
+      "album": {
+        "name": "Cada Quien",
+        "url": "https://open.spotify.com/album/4QS3kIW0YTZAMZMkaJ1mLH"
+      },
+      "artists": [
+        {
+          "name": "Jona Camacho",
+          "url": "https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP"
+        },
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184780,
+      "name": "Cada Quien",
+      "url": "https://open.spotify.com/track/4ayJaxA5MjPEopjWYNMAbr"
     },
     {
       "album": {
@@ -2279,6 +2301,24 @@
     },
     {
       "album": {
+        "name": "K\u00e9 MaL",
+        "url": "https://open.spotify.com/album/2GHyrL2mwHWmw1vmQfCrNv"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188035,
+      "name": "K\u00e9 MaL",
+      "url": "https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g"
+    },
+    {
+      "album": {
         "name": "La Llamada",
         "url": "https://open.spotify.com/album/7HKAzGH5Lo7v2WYRIAuZDt"
       },
@@ -2763,6 +2803,24 @@
     },
     {
       "album": {
+        "name": "MIRADA",
+        "url": "https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167522,
+      "name": "Mirada",
+      "url": "https://open.spotify.com/track/0tXFWZC3ZF44vgi0h2o4iI"
+    },
+    {
+      "album": {
         "name": "Monitor",
         "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
       },
@@ -2969,6 +3027,24 @@
     },
     {
       "album": {
+        "name": "Artificial",
+        "url": "https://open.spotify.com/album/2RuOgjec3N5frlq6O5MgUI"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229249,
+      "name": "Nada para siempre",
+      "url": "https://open.spotify.com/track/4DxAIWAKUuiGe9yEBx6TeB"
+    },
+    {
+      "album": {
         "name": "Redes Sociales",
         "url": "https://open.spotify.com/album/1dTlq4zPoV7Lv2Q5ZcTKNE"
       },
@@ -3024,7 +3100,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 156738,
       "name": "Nena, dime algo.",
       "url": "https://open.spotify.com/track/3arnuYBuNFads3xhmztypA"
@@ -3392,7 +3468,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 210163,
       "name": "Perra Soledad",
       "url": "https://open.spotify.com/track/6wYF5EU5fLmemMGDGaIaVF"

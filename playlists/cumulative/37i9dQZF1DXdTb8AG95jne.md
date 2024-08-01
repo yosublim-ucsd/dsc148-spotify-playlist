@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 10CM\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Meaningful Stone\(김뜻돌\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-752 songs - 1 day 22 hr 2 min
+753 songs - 1 day 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -605,6 +605,7 @@
 | [Sunset Memories \(Feat\. Kayla\)](https://open.spotify.com/track/0FBPTDfNG4uQX6Ysx8ZKEX) | [ZASMIIN](https://open.spotify.com/artist/0RjRLXt3YDQS3VWpqO7wB3), [Kayla](https://open.spotify.com/artist/27t2qopeNua4hsIj3mYtoi) | [Sunset Memories \(Feat\. Kayla\)](https://open.spotify.com/album/3BFSGN4NiChDGcZ7hEj5RS) | 3:44 | 2022-05-02 | 2022-05-26 |
 | [SUNspot](https://open.spotify.com/track/5k67kGeFPOr0VL23qRs4MO) | [Im DAI](https://open.spotify.com/artist/09wVtuZNFaYTjO4bDX8fKE) | [SUNspot](https://open.spotify.com/album/03xOGiHfyAGuem3wwaZx9h) | 3:02 | 2024-04-30 | 2024-05-10 |
 | [Supernova](https://open.spotify.com/track/5tR3DtTssLjT2pXuqeXopL) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [The Beginning](https://open.spotify.com/album/7vy3zY5P2Rht3IndB78A3H) | 3:58 | 2021-12-21 | 2022-07-01 |
+| [Supernova](https://open.spotify.com/track/6eqqVvqRJS5T3WCYMsj946) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [Supernova](https://open.spotify.com/album/4o72fxboi0RopWUmOTRxoe) | 4:19 | 2024-07-31 |  |
 | [Surf'low](https://open.spotify.com/track/6WVR7juPgizxYNduhYS6QL) | [Zeebomb](https://open.spotify.com/artist/1aIq7GSS8WSFfCmrcnshlg) | [Surf'low](https://open.spotify.com/album/2VoG8igcGtEPMUXSnLNOqv) | 4:42 | 2022-03-31 | 2022-04-20 |
 | [Surface](https://open.spotify.com/track/36ZlbORJkCV4wcC36IS6Zy) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Animation](https://open.spotify.com/album/678QsdsjapDnh9N9iCeFyp) | 3:46 | 2022-03-31 | 2022-04-07 |
 | [SURFER](https://open.spotify.com/track/394SLvh7rICTQKep7FnH5d) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [SURFER](https://open.spotify.com/album/1Vc4GVDQojuTTOXwoxu4T5) | 2:52 | 2021-12-21 | 2022-05-16 |
@@ -754,7 +755,7 @@
 | [슬퍼하지마 Don't be sad](https://open.spotify.com/track/6SU5PLvEAozLFwKRCI26NT) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [슬퍼하지마 Don't be sad](https://open.spotify.com/album/3a3bUbDgnFcZPHz6Fj4P5D) | 3:30 | 2024-01-15 | 2024-03-02 |
 | [실크 셔츠](https://open.spotify.com/track/16VP50D6es9JbzcCsEaHUm) | [위댄스 Wedance](https://open.spotify.com/artist/70GGUtoiE6D1EAgpsbntuG) | [실크 셔츠](https://open.spotify.com/album/3xa31ssGj9fokLcxaEAtNX) | 4:54 | 2024-04-30 | 2024-05-09 |
 | [어디쯤 있나요](https://open.spotify.com/track/3WAdDOETjUOylNrWj4ACNd) | [Sentimental Scenery](https://open.spotify.com/artist/3tAtWjLnNyZqmvfLx2dDJ7) | [H](https://open.spotify.com/album/12m0JCfmS6G5mMQa7ev5M1) | 3:28 | 2022-04-12 | 2022-04-17 |
-| [오늘밤은 어둠이 무서워요](https://open.spotify.com/track/6pZAmXnJflLRecgsHyJg15) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Life](https://open.spotify.com/album/7xbxy4bC51eZe4hc4gwyf6) | 3:26 | 2024-07-22 |  |
+| [오늘밤은 어둠이 무서워요](https://open.spotify.com/track/6pZAmXnJflLRecgsHyJg15) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Life](https://open.spotify.com/album/7xbxy4bC51eZe4hc4gwyf6) | 3:26 | 2024-07-22 | 2024-08-01 |
 | [오월의 나무](https://open.spotify.com/track/4SvybiKZukEaXOk4xA2laz) | [Lucite Tokki](https://open.spotify.com/artist/5AXPLM73kNsbt3lh5bysN9) | [오월의 나무](https://open.spotify.com/album/7eyIv9fDkaHtnVtJGj5It4) | 3:43 | 2022-03-31 | 2022-04-02 |
 | [오키나와 Okinawa](https://open.spotify.com/track/5WJtEElIz5vt7EOEGR97Yz) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [오키나와 Okinawa](https://open.spotify.com/album/16zuGRQCDsJsJL8psjJM9M) | 5:48 | 2021-12-12 | 2022-07-29 |
 | [잊고 살았던 것들](https://open.spotify.com/track/5cSY0Rpfgd9JapMTf9E45W) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [잊고 살았던 것들](https://open.spotify.com/album/3ntu3EDxTwnlUKnglHiUlh) | 3:06 | 2022-03-03 | 2022-06-10 |

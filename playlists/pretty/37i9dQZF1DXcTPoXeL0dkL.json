@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 202194,
+  "num_followers": 202216,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "30 Grandes Exitos",
-        "url": "https://open.spotify.com/album/17ieceXEhEKVIIb7BOMhmf"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Zuleta",
-          "url": "https://open.spotify.com/artist/3vjtBZfcllf1dc7lfyKKME"
-        }
-      ],
-      "duration_ms": 298666,
-      "name": "Mi Hermano Y Yo",
-      "url": "https://open.spotify.com/track/5ZakTBFmptmNMOw5gYsiAo"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
         "name": "Felipe Pel\u00e1ez 30 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 287346,
       "name": "Te Amo y Te Amo",
       "url": "https://open.spotify.com/track/35DHosusaWYuFw2gCyoKWL"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
+        "name": "30 Grandes Exitos",
+        "url": "https://open.spotify.com/album/17ieceXEhEKVIIb7BOMhmf"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Zuleta",
+          "url": "https://open.spotify.com/artist/3vjtBZfcllf1dc7lfyKKME"
+        }
+      ],
+      "duration_ms": 298666,
+      "name": "Mi Hermano Y Yo",
+      "url": "https://open.spotify.com/track/5ZakTBFmptmNMOw5gYsiAo"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
+        "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
+        "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
+      },
+      "artists": [
+        {
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+        }
+      ],
+      "duration_ms": 310933,
+      "name": "Sirena Encantadora",
+      "url": "https://open.spotify.com/track/3wVuD02J4ErPU2jp5QtX10"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
         "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
         "url": "https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 304560,
       "name": "Olv\u00eddala",
       "url": "https://open.spotify.com/track/0QUnzLeB2USzFv8OqJe8S8"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
-        "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
-        "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
-      },
-      "artists": [
-        {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
-        }
-      ],
-      "duration_ms": 286640,
-      "name": "Mi Diosa Humana",
-      "url": "https://open.spotify.com/track/42R1D09Q3wP8qBvHjd0xUy"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
+        "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
+        "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
+      },
+      "artists": [
+        {
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+        }
+      ],
+      "duration_ms": 286640,
+      "name": "Mi Diosa Humana",
+      "url": "https://open.spotify.com/track/42R1D09Q3wP8qBvHjd0xUy"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 292224,
       "name": "Volver",
       "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
-        "name": "Grandes Hits",
-        "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 308040,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/3sMUVwOyhOuQYFmpHfzBZn"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -467,18 +467,18 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
-        "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
+        "name": "Grandes Hits",
+        "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
       },
       "artists": [
         {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 310933,
-      "name": "Sirena Encantadora",
-      "url": "https://open.spotify.com/track/3wVuD02J4ErPU2jp5QtX10"
+      "duration_ms": 308040,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/3sMUVwOyhOuQYFmpHfzBZn"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -535,18 +535,18 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "Dif\u00edcil De Igualar",
-        "url": "https://open.spotify.com/album/2YCWN8hMvb8QYUEHkmGqDb"
+        "name": "Grandes \u00c9xitos - Los Embajadores Vallenatos",
+        "url": "https://open.spotify.com/album/2vttfGimI3QtJ8wlScNwTM"
       },
       "artists": [
         {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
         }
       ],
-      "duration_ms": 300786,
-      "name": "Me Ilusione",
-      "url": "https://open.spotify.com/track/1EiRuVyMKA7uSSeuWgCJiu"
+      "duration_ms": 266949,
+      "name": "El Santo Cach\u00f3n",
+      "url": "https://open.spotify.com/track/0ccHYF0xpaJe0fymGmr7ri"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "Grandes \u00c9xitos - Los Embajadores Vallenatos",
-        "url": "https://open.spotify.com/album/2vttfGimI3QtJ8wlScNwTM"
+        "name": "Dif\u00edcil De Igualar",
+        "url": "https://open.spotify.com/album/2YCWN8hMvb8QYUEHkmGqDb"
       },
       "artists": [
         {
-          "name": "Los Embajadores Vallenatos",
-          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 266949,
-      "name": "El Santo Cach\u00f3n",
-      "url": "https://open.spotify.com/track/0ccHYF0xpaJe0fymGmr7ri"
+      "duration_ms": 300786,
+      "name": "Me Ilusione",
+      "url": "https://open.spotify.com/track/1EiRuVyMKA7uSSeuWgCJiu"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -651,22 +651,6 @@
       "duration_ms": 252706,
       "name": "Parranda en el Cafetal",
       "url": "https://open.spotify.com/track/4t1HrUv6iMdLK6nDpvdMLi"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
-        "name": "\u2026Que viva el vallenato!",
-        "url": "https://open.spotify.com/album/0d2xaYm4ahP90Bdbm2Ea28"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 294640,
-      "name": "Si Tu Amor No Vuelve",
-      "url": "https://open.spotify.com/track/4frx1sI3l2Chq71SLHjiSx"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -751,6 +735,22 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
+        "name": "\u2026Que viva el vallenato!",
+        "url": "https://open.spotify.com/album/0d2xaYm4ahP90Bdbm2Ea28"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 294640,
+      "name": "Si Tu Amor No Vuelve",
+      "url": "https://open.spotify.com/track/4frx1sI3l2Chq71SLHjiSx"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
         "name": "Lo Mejor 17 Grandes Exitos",
         "url": "https://open.spotify.com/album/0tFhJvEQCCOtv50wxeowPz"
       },
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "Versi\u00f3n Original",
-        "url": "https://open.spotify.com/album/79bVLSKqyyQWGjQLI55HRw"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 266573,
-      "name": "Me Tiraste Al Mar",
-      "url": "https://open.spotify.com/track/6dqxQhRZG8bsBfJBQft24Y"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
         "name": "Homenaje",
         "url": "https://open.spotify.com/album/4iOAopfjsHSqsqpw5jbRVQ"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "S\u00f3lo Clasicos",
-        "url": "https://open.spotify.com/album/3S5zHT8Grf9yHPq2hvP6gm"
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
       },
       "artists": [
         {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 287093,
-      "name": "Dime C\u00f3mo Te Olvido",
-      "url": "https://open.spotify.com/track/3eY3uh3Rj7AkUM6A0qWnYt"
+      "duration_ms": 288533,
+      "name": "Te Sorprender\u00e1s",
+      "url": "https://open.spotify.com/track/7f4wlBeT8vqUDmom4Q676T"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -835,18 +819,34 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
+        "name": "Versi\u00f3n Original",
+        "url": "https://open.spotify.com/album/79bVLSKqyyQWGjQLI55HRw"
       },
       "artists": [
         {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 288533,
-      "name": "Te Sorprender\u00e1s",
-      "url": "https://open.spotify.com/track/7f4wlBeT8vqUDmom4Q676T"
+      "duration_ms": 266573,
+      "name": "Me Tiraste Al Mar",
+      "url": "https://open.spotify.com/track/6dqxQhRZG8bsBfJBQft24Y"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
+        "name": "S\u00f3lo Clasicos",
+        "url": "https://open.spotify.com/album/3S5zHT8Grf9yHPq2hvP6gm"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 287093,
+      "name": "Dime C\u00f3mo Te Olvido",
+      "url": "https://open.spotify.com/track/3eY3uh3Rj7AkUM6A0qWnYt"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "Mas Vallenato",
-        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 283293,
-      "name": "Cuando Casi Te Olvidaba",
-      "url": "https://open.spotify.com/track/5oPFYXq8KnZuYXiSUkjDFT"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
         "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
         "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 267186,
       "name": "Que Me Puedas Amar",
       "url": "https://open.spotify.com/track/3AS4n5gPVuRXwgVvsFzVtm"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
+        "name": "Rafael Orozco... Vive",
+        "url": "https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 264733,
+      "name": "Sombra Perdida",
+      "url": "https://open.spotify.com/track/53lr8moEbdEMtcrw5ostBy"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -987,18 +987,18 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "Rafael Orozco... Vive",
-        "url": "https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r"
+        "name": "Mas Vallenato",
+        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
       },
       "artists": [
         {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 264733,
-      "name": "Sombra Perdida",
-      "url": "https://open.spotify.com/track/53lr8moEbdEMtcrw5ostBy"
+      "duration_ms": 283293,
+      "name": "Cuando Casi Te Olvidaba",
+      "url": "https://open.spotify.com/track/5oPFYXq8KnZuYXiSUkjDFT"
     },
     {
       "added_at": "2024-07-12 22:13:52",

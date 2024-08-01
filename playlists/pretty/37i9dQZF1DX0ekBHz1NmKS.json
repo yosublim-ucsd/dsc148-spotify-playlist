@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. Cover: Jacqline",
-  "num_followers": 195676,
+  "num_followers": 195673,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "V\u00e4rldens b\u00e4sta piga",
+        "url": "https://open.spotify.com/album/6r1GG2IKdOvglgp1a46lv8"
+      },
+      "artists": [
+        {
+          "name": "Dr\u00e4ngarna",
+          "url": "https://open.spotify.com/artist/2HwptwPQ4lvpYimzOJcYoY"
+        }
+      ],
+      "duration_ms": 165468,
+      "name": "V\u00e4rldens b\u00e4sta piga",
+      "url": "https://open.spotify.com/track/0jXlLlM8bCViItOjfANDtE"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "201 (Till f\u00f6rm\u00e5n f\u00f6r Min Stora Dag)",
         "url": "https://open.spotify.com/album/0T8v3ZJdXOpKHM8RPfan74"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 160983,
       "name": "201 (Till f\u00f6rm\u00e5n f\u00f6r Min Stora Dag)",
       "url": "https://open.spotify.com/track/5guknVJ1c9Wjj7qT2FE8YH"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "V\u00e4rldens b\u00e4sta piga",
-        "url": "https://open.spotify.com/album/6r1GG2IKdOvglgp1a46lv8"
-      },
-      "artists": [
-        {
-          "name": "Dr\u00e4ngarna",
-          "url": "https://open.spotify.com/artist/2HwptwPQ4lvpYimzOJcYoY"
-        }
-      ],
-      "duration_ms": 165468,
-      "name": "V\u00e4rldens b\u00e4sta piga",
-      "url": "https://open.spotify.com/track/0jXlLlM8bCViItOjfANDtE"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "En v\u00e4n som du",
+        "url": "https://open.spotify.com/album/6O978opVcr08Fw4uoXSFW9"
+      },
+      "artists": [
+        {
+          "name": "Jacco",
+          "url": "https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk"
+        }
+      ],
+      "duration_ms": 198461,
+      "name": "En v\u00e4n som du",
+      "url": "https://open.spotify.com/track/3A02QRPJAWHPgk1UTP1TGM"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Elaine",
         "url": "https://open.spotify.com/album/2cyHxoHmfKnjN9F4cXZ8fw"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 183053,
       "name": "Elaine",
       "url": "https://open.spotify.com/track/02TJw6vUHpiFOFw3TVNjFK"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "En v\u00e4n som du",
-        "url": "https://open.spotify.com/album/6O978opVcr08Fw4uoXSFW9"
-      },
-      "artists": [
-        {
-          "name": "Jacco",
-          "url": "https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk"
-        }
-      ],
-      "duration_ms": 198461,
-      "name": "En v\u00e4n som du",
-      "url": "https://open.spotify.com/track/3A02QRPJAWHPgk1UTP1TGM"
     },
     {
       "added_at": "2024-06-27 22:00:00",

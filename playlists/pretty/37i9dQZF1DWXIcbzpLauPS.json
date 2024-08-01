@@ -1,6 +1,6 @@
 {
   "description": "metalcore at its best. Cover:Windwaker",
-  "num_followers": 930965,
+  "num_followers": 931000,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Fatalism",
+        "url": "https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "duration_ms": 268269,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/0jrOt6XnOTeZOd56U16Bfp"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
         "url": "https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 263161,
       "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
       "url": "https://open.spotify.com/track/1iv0Expr4TzDnx62w60oqN"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Fatalism",
-        "url": "https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5"
-      },
-      "artists": [
-        {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
-        }
-      ],
-      "duration_ms": 268269,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/0jrOt6XnOTeZOd56U16Bfp"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -395,18 +395,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Nightmare (The Devil)",
-        "url": "https://open.spotify.com/album/0hMtI2waRMun1xrQhhdsOA"
+        "name": "Forgive and Forget (feat. Fit For A King)",
+        "url": "https://open.spotify.com/album/2fgiy6FWbaru2ezpUNQ5bN"
       },
       "artists": [
         {
-          "name": "Fame on Fire",
-          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        },
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
         }
       ],
-      "duration_ms": 201110,
-      "name": "Nightmare (The Devil)",
-      "url": "https://open.spotify.com/track/0hCNHNnXTpUXsTpi7C8RsC"
+      "duration_ms": 215057,
+      "name": "Forgive And Forget (feat. Fit For A King)",
+      "url": "https://open.spotify.com/track/1SahhLAsfDwQnE83ga46Ak"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -427,6 +431,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Nightmare (The Devil)",
+        "url": "https://open.spotify.com/album/0hMtI2waRMun1xrQhhdsOA"
+      },
+      "artists": [
+        {
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+        }
+      ],
+      "duration_ms": 201110,
+      "name": "Nightmare (The Devil)",
+      "url": "https://open.spotify.com/track/0hCNHNnXTpUXsTpi7C8RsC"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Chaotic",
         "url": "https://open.spotify.com/album/7CVMgkiSYe0PWvm6umBTwj"
       },
@@ -439,26 +459,6 @@
       "duration_ms": 171794,
       "name": "Chaotic",
       "url": "https://open.spotify.com/track/4mdp26YsqfiqL6Fj9DJmaV"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Forgive and Forget (feat. Fit For A King)",
-        "url": "https://open.spotify.com/album/2fgiy6FWbaru2ezpUNQ5bN"
-      },
-      "artists": [
-        {
-          "name": "Miss May I",
-          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
-        },
-        {
-          "name": "Fit For A King",
-          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
-        }
-      ],
-      "duration_ms": 215057,
-      "name": "Forgive And Forget (feat. Fit For A King)",
-      "url": "https://open.spotify.com/track/1SahhLAsfDwQnE83ga46Ak"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Dreamstate",
-        "url": "https://open.spotify.com/album/72FaMZE6GlaPHXKm5DvTof"
-      },
-      "artists": [
-        {
-          "name": "Future Palace",
-          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
-        }
-      ],
-      "duration_ms": 240037,
-      "name": "Dreamstate",
-      "url": "https://open.spotify.com/track/53SIguo0ftQQXu9pXJENSo"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/5gjdJGvhsqHk1kI9rTTnhV"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 219759,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/6v9xDRtGAWrGO4ceRPadoo"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Dreamstate",
+        "url": "https://open.spotify.com/album/72FaMZE6GlaPHXKm5DvTof"
+      },
+      "artists": [
+        {
+          "name": "Future Palace",
+          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
+        }
+      ],
+      "duration_ms": 240037,
+      "name": "Dreamstate",
+      "url": "https://open.spotify.com/track/53SIguo0ftQQXu9pXJENSo"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -923,26 +923,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "New Devil",
-        "url": "https://open.spotify.com/album/208ZYeARcVCbjryVLd6Ynk"
-      },
-      "artists": [
-        {
-          "name": "Attila",
-          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
-        },
-        {
-          "name": "Dickie Allen",
-          "url": "https://open.spotify.com/artist/6S9zHyUlhi9qE08rIydg6E"
-        }
-      ],
-      "duration_ms": 139826,
-      "name": "New Devil",
-      "url": "https://open.spotify.com/track/0ohSJgHGItbcNmirqBGdHM"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Murder8",
         "url": "https://open.spotify.com/album/3iv3lzt8M01kjeGLR4dV9G"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 228493,
       "name": "Murder8",
       "url": "https://open.spotify.com/track/1iujWexZauOlEulLxjEzKm"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "New Devil",
+        "url": "https://open.spotify.com/album/208ZYeARcVCbjryVLd6Ynk"
+      },
+      "artists": [
+        {
+          "name": "Attila",
+          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
+        },
+        {
+          "name": "Dickie Allen",
+          "url": "https://open.spotify.com/artist/6S9zHyUlhi9qE08rIydg6E"
+        }
+      ],
+      "duration_ms": 139826,
+      "name": "New Devil",
+      "url": "https://open.spotify.com/track/0ohSJgHGItbcNmirqBGdHM"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "FLY AWAY",
+        "url": "https://open.spotify.com/album/7v3QQTTbPLDoUZ9lUhVbLd"
+      },
+      "artists": [
+        {
+          "name": "Ocean Grove",
+          "url": "https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU"
+        }
+      ],
+      "duration_ms": 161407,
+      "name": "FLY AWAY",
+      "url": "https://open.spotify.com/track/38yKm4HLvDFhg5NK20bFV1"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Frvst",
         "url": "https://open.spotify.com/album/73fgc0bIk0N7jumKsQVwYY"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 261506,
       "name": "Frvst",
       "url": "https://open.spotify.com/track/1jjjjubZ6PMuoJexEy82DA"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "FLY AWAY",
-        "url": "https://open.spotify.com/album/7v3QQTTbPLDoUZ9lUhVbLd"
-      },
-      "artists": [
-        {
-          "name": "Ocean Grove",
-          "url": "https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU"
-        }
-      ],
-      "duration_ms": 161407,
-      "name": "FLY AWAY",
-      "url": "https://open.spotify.com/track/38yKm4HLvDFhg5NK20bFV1"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1223,42 +1223,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Bl\u00fcdGod (feat. Taylor Barber)",
-        "url": "https://open.spotify.com/album/3L1QV2uTt9Y0tqG2Uyv9CL"
-      },
-      "artists": [
-        {
-          "name": "Crystal Lake",
-          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
-        },
-        {
-          "name": "Taylor Barber",
-          "url": "https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs"
-        }
-      ],
-      "duration_ms": 210156,
-      "name": "Bl\u00fcdGod (feat. Taylor Barber)",
-      "url": "https://open.spotify.com/track/73CqRvFzveR4Ckw9lrbG0z"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Remember Me",
-        "url": "https://open.spotify.com/album/7daOpSeAgyfQMEd3YbIGPZ"
-      },
-      "artists": [
-        {
-          "name": "Currents",
-          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
-        }
-      ],
-      "duration_ms": 244254,
-      "name": "Remember Me",
-      "url": "https://open.spotify.com/track/1xqt7wT0YY9YpP9jrTuVgG"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Underrated",
         "url": "https://open.spotify.com/album/1aL2qEsGMIWlw1fcwzPkFe"
       },
@@ -1279,6 +1243,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/7daOpSeAgyfQMEd3YbIGPZ"
+      },
+      "artists": [
+        {
+          "name": "Currents",
+          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
+        }
+      ],
+      "duration_ms": 244254,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/1xqt7wT0YY9YpP9jrTuVgG"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Remnant",
         "url": "https://open.spotify.com/album/3CrsGme4artDy50pspu7W2"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 245680,
       "name": "Remnant",
       "url": "https://open.spotify.com/track/0OHz95lQ56KTgqAME5GblU"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Bl\u00fcdGod (feat. Taylor Barber)",
+        "url": "https://open.spotify.com/album/3L1QV2uTt9Y0tqG2Uyv9CL"
+      },
+      "artists": [
+        {
+          "name": "Crystal Lake",
+          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
+        },
+        {
+          "name": "Taylor Barber",
+          "url": "https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs"
+        }
+      ],
+      "duration_ms": 210156,
+      "name": "Bl\u00fcdGod (feat. Taylor Barber)",
+      "url": "https://open.spotify.com/track/73CqRvFzveR4Ckw9lrbG0z"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Castle In The Sky",
-        "url": "https://open.spotify.com/album/0kDBMVEXfjZu41hYyzJ9Bl"
-      },
-      "artists": [
-        {
-          "name": "Within The Ruins",
-          "url": "https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y"
-        }
-      ],
-      "duration_ms": 304500,
-      "name": "Castle In The Sky",
-      "url": "https://open.spotify.com/track/3G6HSTP5Y63jis4xaOCmNT"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Better Written Villain",
         "url": "https://open.spotify.com/album/3sjkhgON2mP7sU0AKAT8v6"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 223297,
       "name": "Better Written Villain",
       "url": "https://open.spotify.com/track/0lJFKP46fC1Dtfmf1XeFc2"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Castle In The Sky",
+        "url": "https://open.spotify.com/album/0kDBMVEXfjZu41hYyzJ9Bl"
+      },
+      "artists": [
+        {
+          "name": "Within The Ruins",
+          "url": "https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y"
+        }
+      ],
+      "duration_ms": 304500,
+      "name": "Castle In The Sky",
+      "url": "https://open.spotify.com/track/3G6HSTP5Y63jis4xaOCmNT"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1451,6 +1451,22 @@
       "duration_ms": 210880,
       "name": "The Welcome Party",
       "url": "https://open.spotify.com/track/0SlmKiPJ4GpSPq6rnMLBSq"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Darker Colors (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HRxq68MnkH9ecuxVf9SPB"
+      },
+      "artists": [
+        {
+          "name": "What Lies Below",
+          "url": "https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj"
+        }
+      ],
+      "duration_ms": 198593,
+      "name": "suffer.",
+      "url": "https://open.spotify.com/track/7qAYv0vSlnaa5vknIChwcz"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Darker Colors (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HRxq68MnkH9ecuxVf9SPB"
-      },
-      "artists": [
-        {
-          "name": "What Lies Below",
-          "url": "https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj"
-        }
-      ],
-      "duration_ms": 198593,
-      "name": "suffer.",
-      "url": "https://open.spotify.com/track/7qAYv0vSlnaa5vknIChwcz"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Castaway",
         "url": "https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2"
       },
@@ -1551,22 +1551,6 @@
       "duration_ms": 242608,
       "name": "H.A.T.E.",
       "url": "https://open.spotify.com/track/2U0lKWBmv721fcs1cfWW65"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Break The Rules",
-        "url": "https://open.spotify.com/album/2pnNHGrnVLgTHgr46uv0fB"
-      },
-      "artists": [
-        {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Break The Rules",
-      "url": "https://open.spotify.com/track/1EvMSw0fUb3mlcIBqwQvLI"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1635,22 +1619,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Enter The Wall",
-        "url": "https://open.spotify.com/album/7KLuUqhjYU088Q0Xt1WCfU"
-      },
-      "artists": [
-        {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
-        }
-      ],
-      "duration_ms": 143946,
-      "name": "The Wall",
-      "url": "https://open.spotify.com/track/1WawIFyXJhxthsfFujjYez"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "I Hope You Choke",
         "url": "https://open.spotify.com/album/2cHzgepoOGSgCETJzyXPb6"
       },
@@ -1663,6 +1631,22 @@
       "duration_ms": 207660,
       "name": "I Hope You Choke",
       "url": "https://open.spotify.com/track/5tzQBDvosYbVemX5GLFkmB"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Break The Rules",
+        "url": "https://open.spotify.com/album/2pnNHGrnVLgTHgr46uv0fB"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Break The Rules",
+      "url": "https://open.spotify.com/track/1EvMSw0fUb3mlcIBqwQvLI"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1767,6 +1751,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Enter The Wall",
+        "url": "https://open.spotify.com/album/7KLuUqhjYU088Q0Xt1WCfU"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "duration_ms": 143946,
+      "name": "The Wall",
+      "url": "https://open.spotify.com/track/1WawIFyXJhxthsfFujjYez"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "MANIAC IN THE MIRROR",
         "url": "https://open.spotify.com/album/6iJo2AzITSakmnhRfm1TB4"
       },
@@ -1815,18 +1815,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Lighthouse",
-        "url": "https://open.spotify.com/album/6yEv9GYNLHZdqPRcQTg4Ew"
+        "name": "Nothing Inspires Forgiveness Quite Like Revenge",
+        "url": "https://open.spotify.com/album/3DfAAUOPBBaqQSBm6agznT"
       },
       "artists": [
         {
-          "name": "Rising Insane",
-          "url": "https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf"
+          "name": "Patient Sixty-Seven",
+          "url": "https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c"
         }
       ],
-      "duration_ms": 214282,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/1aHHwI79IBD4hHIWqQ7DyJ"
+      "duration_ms": 211653,
+      "name": "Nothing Inspires Forgiveness Quite Like Revenge",
+      "url": "https://open.spotify.com/track/70Q0xePiAhrp7HkGQ21pbp"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1847,18 +1847,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Nothing Inspires Forgiveness Quite Like Revenge",
-        "url": "https://open.spotify.com/album/3DfAAUOPBBaqQSBm6agznT"
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/6yEv9GYNLHZdqPRcQTg4Ew"
       },
       "artists": [
         {
-          "name": "Patient Sixty-Seven",
-          "url": "https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c"
+          "name": "Rising Insane",
+          "url": "https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf"
         }
       ],
-      "duration_ms": 211653,
-      "name": "Nothing Inspires Forgiveness Quite Like Revenge",
-      "url": "https://open.spotify.com/track/70Q0xePiAhrp7HkGQ21pbp"
+      "duration_ms": 214282,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/1aHHwI79IBD4hHIWqQ7DyJ"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Buried In Thorns",
-        "url": "https://open.spotify.com/album/1WOpoJ8OkF1MdOSnyhdzOW"
-      },
-      "artists": [
-        {
-          "name": "Convictions",
-          "url": "https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY"
-        }
-      ],
-      "duration_ms": 206380,
-      "name": "Buried In Thorns",
-      "url": "https://open.spotify.com/track/0wqUOfb0HekBuIJAmQ3EcU"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Pegasus",
         "url": "https://open.spotify.com/album/7EBnsR1bhRVITs48imBq5w"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 241800,
       "name": "The Reckoning",
       "url": "https://open.spotify.com/track/5TWO6RPpkaaan9mO7Uyou2"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Buried In Thorns",
+        "url": "https://open.spotify.com/album/1WOpoJ8OkF1MdOSnyhdzOW"
+      },
+      "artists": [
+        {
+          "name": "Convictions",
+          "url": "https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY"
+        }
+      ],
+      "duration_ms": 206380,
+      "name": "Buried In Thorns",
+      "url": "https://open.spotify.com/track/0wqUOfb0HekBuIJAmQ3EcU"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "What's Left Unsaid",
-        "url": "https://open.spotify.com/album/473iM0z7iwQsy74zcilsRw"
-      },
-      "artists": [
-        {
-          "name": "Foreign Hands",
-          "url": "https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "Shapeless in the Dark",
-      "url": "https://open.spotify.com/track/6BQEJ21c1hNkMHzPfedF7x"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Modern Error",
         "url": "https://open.spotify.com/album/1spLAp5HnKomU3UgbsgYz8"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 269786,
       "name": "Modern Error",
       "url": "https://open.spotify.com/track/3VHTWAPeU9RNnCCCeJRipL"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "What's Left Unsaid",
+        "url": "https://open.spotify.com/album/473iM0z7iwQsy74zcilsRw"
+      },
+      "artists": [
+        {
+          "name": "Foreign Hands",
+          "url": "https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "Shapeless in the Dark",
+      "url": "https://open.spotify.com/track/6BQEJ21c1hNkMHzPfedF7x"
     }
   ],
   "unique_name": "The Core",

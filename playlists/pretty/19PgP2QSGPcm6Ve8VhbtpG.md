@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/19PgP2QSGPcm6Ve8VhbtpG.md) - [plain]
 
 > The best of the 1980s classics from Michael Jackson, Journey, Whitney Houston, TOTO, AC/DC, Kenny Loggins, Billy Joel, Survivor + more\. Stranger Things, Top Gun, Back to the Future.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 2,521,207 likes - 118 songs - 8 hr 20 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 2,521,700 likes - 118 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/19PgP2QSGPcm6Ve8VhbtpG.md) - [plain]
 | 117 | [Doesn't Really Matter \- Remastered](https://open.spotify.com/track/0K7JxOMOrnq8JPHIcc3dow) | [Platinum Blonde](https://open.spotify.com/artist/5oxTKyMgf6POnzlqM1mduA) | [Standing in the Dark \(Remastered\)](https://open.spotify.com/album/5Emgk0H84ihiVRZQYkEN9T) | 4:05 |
 | 118 | [Vox](https://open.spotify.com/track/2wE71wqoIbbZx1exmZVHg1) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Touch](https://open.spotify.com/album/1iOM31S3nKvuDPauciuA3l) | 4:51 |
 
-Snapshot ID: `AAAMJYEEPW7r7GbOmHlKxaMwPs66P5vi`
+Snapshot ID: `AAAMJ/0vnsL9YRBjDBcTUVu5fc+9so8y`

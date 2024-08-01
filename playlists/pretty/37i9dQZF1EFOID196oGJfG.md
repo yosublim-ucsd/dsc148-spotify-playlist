@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOID196oGJfG.md) - [plain]
 | 14 | [Bad Boy!](https://open.spotify.com/track/2RlinrCj73yZ731f2zerOq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Bad Boy!](https://open.spotify.com/album/065coPus7A27Bk6nTD0Pqa) | 2:45 |
 | 15 | [body](https://open.spotify.com/track/6Vei3kKN9pPMpBZ9kgF1w8) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [body](https://open.spotify.com/album/1Ys8zFS9GLkPWlTnVX0n7b) | 3:51 |
 | 16 | [ferrari](https://open.spotify.com/track/1MGxxrE534VUAYOiWaWwR2) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [balloons don't float here](https://open.spotify.com/album/4Qb82ieP4gzGzJiRnUNYyw) | 3:45 |
-| 17 | [No Hard Feelings](https://open.spotify.com/track/5jtaYUfnk3dZ3VXlWGa4gL) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [No Hard Feelings](https://open.spotify.com/album/4v0Xc0dglvpfRkwr7CKCR2) | 3:25 |
-| 18 | [The Ruler](https://open.spotify.com/track/2PNPqJ8V4WZYtsZLgqScLW) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [The Ruler](https://open.spotify.com/album/0Y23xE35UnyPKLEilLkyGx) | 3:15 |
+| 17 | [The Ruler](https://open.spotify.com/track/2PNPqJ8V4WZYtsZLgqScLW) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [The Ruler](https://open.spotify.com/album/0Y23xE35UnyPKLEilLkyGx) | 3:15 |
+| 18 | [No Hard Feelings](https://open.spotify.com/track/5jtaYUfnk3dZ3VXlWGa4gL) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [No Hard Feelings](https://open.spotify.com/album/4v0Xc0dglvpfRkwr7CKCR2) | 3:25 |
 | 19 | [How Do You Know](https://open.spotify.com/track/1QiGePKveZjlbyZEcdYyF8) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 4:00 |
 | 20 | [Mad At You](https://open.spotify.com/track/4mLMiTNQEYs4K1S9ZPkBxA) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Mad At You](https://open.spotify.com/album/4kEWnZJmyrbhnAvRGvVyrK) | 3:28 |
 | 21 | [Till The Wheels Fall Off](https://open.spotify.com/track/5twbormkRFN0lYnHV2pRq1) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT) | 2:34 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOID196oGJfG.md) - [plain]
 | 31 | [Taylor For President](https://open.spotify.com/track/7czVP2qtvy65c14ear28QD) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Taylor For President](https://open.spotify.com/album/2rWXs8lKLXWT2AZT6Ph08E) | 2:12 |
 | 32 | [I Love It When You're Low](https://open.spotify.com/track/4SNXOFgK2f3TUkj4ZBt9T8) | [LORYN](https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ) | [Less Is More](https://open.spotify.com/album/3OAGrLvtuYjT7Zy6V3EKkp) | 3:06 |
 
-Snapshot ID: `AbYG2AAAAACht8zwz7hfidwUbI6nNDBb`
+Snapshot ID: `AbYMvAAAAACkKiQ3xnLgqbP7b+tsq+Gt`

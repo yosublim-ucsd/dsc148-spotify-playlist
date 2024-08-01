@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 83007,
+  "num_followers": 83146,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "Baby, I'm Yours",
+        "url": "https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN"
+      },
+      "artists": [
+        {
+          "name": "Barbara Lewis",
+          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
+        }
+      ],
+      "duration_ms": 148706,
+      "name": "Baby, I'm Yours",
+      "url": "https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "I Do Love You",
         "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 177946,
       "name": "I Do Love You",
       "url": "https://open.spotify.com/track/3J0VYipa6lrdBkjLM7j4iI"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "Frost Presents...Raza Radio",
-        "url": "https://open.spotify.com/album/5OcYPEWf4e0R673hpjY3Mj"
-      },
-      "artists": [
-        {
-          "name": "Lighter Shade Of Brown",
-          "url": "https://open.spotify.com/artist/7AyywyUcQP99oit737gZK2"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "On A Sunday Afternoon",
-      "url": "https://open.spotify.com/track/1cM25iyn6zKOfnywTNtvyb"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Baby, I'm Yours",
-        "url": "https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN"
+        "name": "Frost Presents...Raza Radio",
+        "url": "https://open.spotify.com/album/5OcYPEWf4e0R673hpjY3Mj"
       },
       "artists": [
         {
-          "name": "Barbara Lewis",
-          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
+          "name": "Lighter Shade Of Brown",
+          "url": "https://open.spotify.com/artist/7AyywyUcQP99oit737gZK2"
         }
       ],
-      "duration_ms": 148706,
-      "name": "Baby, I'm Yours",
-      "url": "https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe"
+      "duration_ms": 212880,
+      "name": "On A Sunday Afternoon",
+      "url": "https://open.spotify.com/track/1cM25iyn6zKOfnywTNtvyb"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "I'm On The Outside (Looking In)",
-        "url": "https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys"
-      },
-      "artists": [
-        {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
-        }
-      ],
-      "duration_ms": 192066,
-      "name": "I'm On The Outside (Looking In)",
-      "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Don't Tell Me",
         "url": "https://open.spotify.com/album/7mwaHlZf72E7QOdNo6kcyl"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 233430,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/2zu0W9Kgo53F0Cbv91jltm"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "I'm On The Outside (Looking In)",
+        "url": "https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys"
+      },
+      "artists": [
+        {
+          "name": "Little Anthony & The Imperials",
+          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+        }
+      ],
+      "duration_ms": 192066,
+      "name": "I'm On The Outside (Looking In)",
+      "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Somebody Please (Stereo Mix 2019)",
-        "url": "https://open.spotify.com/album/1RMHlSB5c8XFd6NIoi6fK6"
+        "name": "All the Hits and More",
+        "url": "https://open.spotify.com/album/4i54vVa9fnFTlGpFSh10Wc"
       },
       "artists": [
         {
-          "name": "The Vanguards",
-          "url": "https://open.spotify.com/artist/1Cxiw1j8YapEOhSmJWteHW"
+          "name": "Shep And The Limelites",
+          "url": "https://open.spotify.com/artist/3xaiq6cHhYX5xclwRkT6Jf"
         }
       ],
-      "duration_ms": 231825,
-      "name": "Somebody Please (Stereo Mix 2019)",
-      "url": "https://open.spotify.com/track/1U9MVMWI6hACLhgXI9JoFE"
+      "duration_ms": 174200,
+      "name": "Daddy's Home",
+      "url": "https://open.spotify.com/track/2Vr3XMnJyu60xBUUchWUrI"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "All the Hits and More",
-        "url": "https://open.spotify.com/album/4i54vVa9fnFTlGpFSh10Wc"
+        "name": "Somebody Please (Stereo Mix 2019)",
+        "url": "https://open.spotify.com/album/1RMHlSB5c8XFd6NIoi6fK6"
       },
       "artists": [
         {
-          "name": "Shep And The Limelites",
-          "url": "https://open.spotify.com/artist/3xaiq6cHhYX5xclwRkT6Jf"
+          "name": "The Vanguards",
+          "url": "https://open.spotify.com/artist/1Cxiw1j8YapEOhSmJWteHW"
         }
       ],
-      "duration_ms": 174200,
-      "name": "Daddy's Home",
-      "url": "https://open.spotify.com/track/2Vr3XMnJyu60xBUUchWUrI"
+      "duration_ms": 231825,
+      "name": "Somebody Please (Stereo Mix 2019)",
+      "url": "https://open.spotify.com/track/1U9MVMWI6hACLhgXI9JoFE"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Blue Eyes Crying In the Rain",
-        "url": "https://open.spotify.com/album/2F0Y7afprAxthyuz1LFxoC"
-      },
-      "artists": [
-        {
-          "name": "Little Caesar & the Romans",
-          "url": "https://open.spotify.com/artist/4jUkLFuoU0EMZbcP84QhsX"
-        }
-      ],
-      "duration_ms": 179480,
-      "name": "Those Oldies But Goodies Remind Me Of You",
-      "url": "https://open.spotify.com/track/6o3R69ldWuqUIQzSHKlu2I"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Looking Back 1961-1964",
         "url": "https://open.spotify.com/album/3b9B5jlDpGSwzMVMYKkDGX"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 177333,
       "name": "What Love Has Joined Together - Single Version",
       "url": "https://open.spotify.com/track/1mEToiltl9clpWzTfVHyCd"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Blue Eyes Crying In the Rain",
+        "url": "https://open.spotify.com/album/2F0Y7afprAxthyuz1LFxoC"
+      },
+      "artists": [
+        {
+          "name": "Little Caesar & the Romans",
+          "url": "https://open.spotify.com/artist/4jUkLFuoU0EMZbcP84QhsX"
+        }
+      ],
+      "duration_ms": 179480,
+      "name": "Those Oldies But Goodies Remind Me Of You",
+      "url": "https://open.spotify.com/track/6o3R69ldWuqUIQzSHKlu2I"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -2187,6 +2187,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "Nobody's Clown",
+        "url": "https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ"
+      },
+      "artists": [
+        {
+          "name": "Los Yesterdays",
+          "url": "https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Nobody's Clown",
+      "url": "https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "SalSoul",
         "url": "https://open.spotify.com/album/6ehe5lPsXzxcNU69NSCi0W"
       },
@@ -2231,22 +2247,6 @@
       "duration_ms": 287266,
       "name": "Always and Forever - Edit",
       "url": "https://open.spotify.com/track/0fKDnkXdfJwk0DEW9W83VY"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "Nobody's Clown",
-        "url": "https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ"
-      },
-      "artists": [
-        {
-          "name": "Los Yesterdays",
-          "url": "https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Nobody's Clown",
-      "url": "https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV"
     },
     {
       "added_at": "2024-01-05 17:02:31",

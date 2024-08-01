@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-606 songs - 1 day 18 hr 3 min
+607 songs - 1 day 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [It's My Time \- Radio Edit](https://open.spotify.com/track/0q1PTDRFl64tIskcoIs2EO) | [Jade Ewen](https://open.spotify.com/artist/7u44AAgf8SNIq2Kdw23vHD) | [It's My Time \(International Version\)](https://open.spotify.com/album/4wWVKiMSwH6tyf5kS4JMrM) | 3:17 | 2023-12-30 |  |
 | [It's Only My Heart \- Alternate Version](https://open.spotify.com/track/65VlkQugl1EffW1DvaBkTE) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 4:31 | 2023-12-30 |  |
 | [Je vous dis merci](https://open.spotify.com/track/7IkPmUXEccnXCalWiM4Nsg) | [Dominique Michalon](https://open.spotify.com/artist/6jPyZa4C2G5uSDZNOncrEx) | [Si je n'étais pas moi](https://open.spotify.com/album/3FThUQRthdThnpM7OsGKTr) | 3:53 | 2023-12-30 |  |
+| [Just Another Night](https://open.spotify.com/track/1U4SFDM4sTtv6imMDwou11) | [Jimmy Demers](https://open.spotify.com/artist/2TW2VZBWnhz5L2xk6WWct5) | [Dream A Little](https://open.spotify.com/album/7i2Cwl97MDdNDOHhPvJTuv) | 3:51 | 2024-07-31 |  |
 | [Just Like Jesse James](https://open.spotify.com/track/5JGdpqo9wrRtOZtui5GShI) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 4:05 | 2023-12-30 |  |
 | [Just the Thought of You](https://open.spotify.com/track/2EbRYotlbA3ZDKIk300jAS) | [Tony Hadley](https://open.spotify.com/artist/0wHrpPuQ3Qea6UXAc06ocM) | [The State of Play](https://open.spotify.com/album/1BrylrchcrwAWtTqM8ZJ7x) | 3:44 | 2023-12-30 |  |
 | [Just to Hear You Say That You Love Me \(with Tim McGraw\)](https://open.spotify.com/track/7m7V3K1yHLfJB2Sx9FKinU) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 4:28 | 2023-12-30 |  |

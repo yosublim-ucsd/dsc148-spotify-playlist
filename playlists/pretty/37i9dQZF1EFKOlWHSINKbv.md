@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34l1tsrbKtmGYuTEef0YFl">D'Mile</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,143 likes - 148 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,147 likes - 148 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,9 +128,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 118 | [Better](https://open.spotify.com/track/5hti7vGvZaAcfahfFdpflH) | [Tess Henley](https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv) | [Better](https://open.spotify.com/album/4gqJu8BjHIzyqJcXTQYX4f) | 2:46 |
 | 119 | [Wardrobe](https://open.spotify.com/track/1CgbQfXghlIMIrutpdWFWo) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Pulse](https://open.spotify.com/album/2aW8o2fX02d38656R9vNsx) | 3:31 |
 | 120 | [This Is What It Looks Like](https://open.spotify.com/track/4T56v5HtcI2xlxgDBTc9GC) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Rare](https://open.spotify.com/album/2Y6xQJuqeyr3YjGhQst4nF) | 5:01 |
-| 121 | [Casual Love \(feat\. Shaggy\)](https://open.spotify.com/track/1HTnPCCahgji49Ocub64XE) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Right Here Right Now](https://open.spotify.com/album/2aGFVwpZFTQXpxx9ag96cd) | 3:56 |
-| 122 | [I'm Good](https://open.spotify.com/track/38UeExWa31NHemCKdFVpCe) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Rare](https://open.spotify.com/album/2Y6xQJuqeyr3YjGhQst4nF) | 4:04 |
-| 123 | [Bar Song](https://open.spotify.com/track/2UWs1yE9D6PXiwhRBOQ2Nw) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 2:48 |
+| 121 | [Bar Song](https://open.spotify.com/track/2UWs1yE9D6PXiwhRBOQ2Nw) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 2:48 |
+| 122 | [Casual Love \(feat\. Shaggy\)](https://open.spotify.com/track/1HTnPCCahgji49Ocub64XE) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Right Here Right Now](https://open.spotify.com/album/2aGFVwpZFTQXpxx9ag96cd) | 3:56 |
+| 123 | [I'm Good](https://open.spotify.com/track/38UeExWa31NHemCKdFVpCe) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Rare](https://open.spotify.com/album/2Y6xQJuqeyr3YjGhQst4nF) | 4:04 |
 | 124 | [Long Distance](https://open.spotify.com/track/3xd8hdab4Y2NqhhZmJhuCv) | [Melanie Amaro](https://open.spotify.com/artist/5jWTiWBU6BfIEtcYwYA3nv) | [Long Distance](https://open.spotify.com/album/2R03toQwJHDzU2Cjx7mcAd) | 3:49 |
 | 125 | [Good Time x Trouble](https://open.spotify.com/track/7dZlFw9J5eK4hssDm0GIC6) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Nightmares & Lullabies \- Act 1](https://open.spotify.com/album/4w4O6rZqTzxz8yW2dIEnAA) | 4:35 |
 | 126 | [Two Up](https://open.spotify.com/track/6V0ajyvgaX22SQX8hk8qxp) | [Diggy](https://open.spotify.com/artist/2LuUALONla8DJRSCiGONBp) | [Unexpected Arrival](https://open.spotify.com/album/3rLALi4R1QAvZW86YCkoX2) | 3:30 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 147 | [Warzone \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/63S7ixo9OYf1VLCRjGoBWI) | [Keep Cool](https://open.spotify.com/artist/6YihZKGlCq75jYZbfRFrtt), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Warzone \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/4rKCnoYMhbRTdsaIxjjh7K) | 3:41 |
 | 148 | [First Place Loser \- Bonus Track](https://open.spotify.com/track/1d5AxYa4bOiTaHTOC3UvTg) | [Diddy \- Dirty Money](https://open.spotify.com/artist/2QYEvpsWUOjqaYuxDPTCmV) | [Last Train To Paris \(Deluxe\)](https://open.spotify.com/album/4Ofqtk9mm4nmBuCPhctq0e) | 4:28 |
 
-Snapshot ID: `AbYG7AAAAADk83tCS+B7XY/4LNun83wp`
+Snapshot ID: `AbYMygAAAAAyRYio0e0oT/zvm5EG6154`

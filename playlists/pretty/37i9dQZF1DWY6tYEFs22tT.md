@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Ice Spice, Mustard, Young Nudy and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,718 likes - 58 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,703 likes - 58 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 6 | [Ghetto \(feat\. Young Thug & Lil Durk\)](https://open.spotify.com/track/1uU143K4dObFyeykORAD0m) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Faith Of A Mustard Seed](https://open.spotify.com/album/0WUrlWBRvpGtiPfU7RK46R) | 3:57 |
 | 7 | [TGIF](https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [TGIF](https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D) | 2:44 |
 | 8 | [John Wayne \(feat\. Metro Boomin\)](https://open.spotify.com/track/4mfaQcqYhlv0X9xF2bDWxG) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [John Wayne \(feat\. Metro Boomin\)](https://open.spotify.com/album/4iJfINkNSOSt9sGoJ3FPNx) | 2:54 |
-| 9 | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/track/7aDvC7UzTZ47Hx5jJUX1sJ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [JT](https://open.spotify.com/artist/4cybvZ3pcSdD2xNFhIzrkk) | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/album/2wJwaumR3Y8PCM01JgJqSj) | 3:00 |
+| 9 | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/track/7aDvC7UzTZ47Hx5jJUX1sJ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/album/2wJwaumR3Y8PCM01JgJqSj) | 3:00 |
 | 10 | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/093MlZS93ZKlHpGkmb3k3W) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:22 |
 | 11 | [90's Baby](https://open.spotify.com/track/44qD9IskeQr9Qnm6wlIM60) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [City Cinderella](https://open.spotify.com/album/66HrXUpGRlJdwXIw7B9SQI) | 2:07 |
 | 12 | [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 43389,
+  "num_followers": 43391,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqbbgAAAAAD9R45PRKx8lId66DV7VbhT",
+  "snapshot_id": "ZqgtAAAAAAARYhiti8ZDy2h/Xk6nH9rR",
   "tracks": [
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "After the Gold Rush (Live from Calgary, AL. 2023)",
-        "url": "https://open.spotify.com/album/5KBjPeuLIyBBsCMAVTBn5k"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 256312,
-      "name": "After the Gold Rush - Live from Calgary, AL. 2023",
-      "url": "https://open.spotify.com/track/5mSZ68WFTCbaeRuXfoVkWO"
+      "duration_ms": 171666,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+        "name": "Livin' On A Prayer (Live from Red Bank, NJ. 2023)",
+        "url": "https://open.spotify.com/album/4zuRLz6Ot2IiSiRjErQ8qL"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 171666,
-      "name": "Firecracker",
-      "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
+      "duration_ms": 233858,
+      "name": "Living On A Prayer - Live from Red Bank, NJ. 2023",
+      "url": "https://open.spotify.com/track/4aW0xJmtaL7dkQrO7VHhEI"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "After the Gold Rush (Live from Calgary, AL. 2023)",
+        "url": "https://open.spotify.com/album/5KBjPeuLIyBBsCMAVTBn5k"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 256312,
+      "name": "After the Gold Rush - Live from Calgary, AL. 2023",
+      "url": "https://open.spotify.com/track/5mSZ68WFTCbaeRuXfoVkWO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cinnamon Girl (Live from Calgary, AL. 2023)",
         "url": "https://open.spotify.com/album/3mi2e18BqDgJGz1p8SZHqL"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 168503,
       "name": "Cinnamon Girl - Live from Calgary, AL. 2023",
       "url": "https://open.spotify.com/track/1fbqDTZADDqo1BpVtvFtIJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Livin' On A Prayer (Live from Red Bank, NJ. 2023)",
-        "url": "https://open.spotify.com/album/4zuRLz6Ot2IiSiRjErQ8qL"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 233858,
-      "name": "Living On A Prayer - Live from Red Bank, NJ. 2023",
-      "url": "https://open.spotify.com/track/4aW0xJmtaL7dkQrO7VHhEI"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Achin' to Be (Live from Minneapolis, MN. 2022)",
-        "url": "https://open.spotify.com/album/4q9REpF57x9pS415RYPX8j"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 235518,
-      "name": "Achin' to Be - Live from Minneapolis, MN. 2022.",
-      "url": "https://open.spotify.com/track/3E8dDz7zdObBTSz4RAUAu0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 162306,
       "name": "Haunted House",
       "url": "https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Achin' to Be (Live from Minneapolis, MN. 2022)",
+        "url": "https://open.spotify.com/album/4q9REpF57x9pS415RYPX8j"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 235518,
+      "name": "Achin' to Be - Live from Minneapolis, MN. 2022.",
+      "url": "https://open.spotify.com/track/3E8dDz7zdObBTSz4RAUAu0"
     },
     {
       "added_at": null,
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Do Not Feel Like Being Good",
-        "url": "https://open.spotify.com/album/0h8KSpVRjZMGy3FiNGRvlD"
+        "name": "Severance (Live From Edmonton, AL. 2023)",
+        "url": "https://open.spotify.com/album/0oAC1zUkG5iHxqgqsqodhz"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 195440,
-      "name": "How Much Light",
-      "url": "https://open.spotify.com/track/3QAM7H3PK833IO3fT1kS7Q"
+      "duration_ms": 246125,
+      "name": "Severance - Live from Edmonton, Al. 2023",
+      "url": "https://open.spotify.com/track/5zuIFRKFtKj0NoIdsVDXkF"
     }
   ],
   "unique_name": "This Is Ryan Adams",

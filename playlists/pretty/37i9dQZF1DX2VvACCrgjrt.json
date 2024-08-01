@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring Nostalgix",
-  "num_followers": 446253,
+  "num_followers": 446297,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1113,6 +1113,26 @@
       "url": "https://open.spotify.com/track/5zn6eUXHpt3JjEB7XAXyaf"
     },
     {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "DRENCH",
+        "url": "https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        },
+        {
+          "name": "Preme",
+          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
+        }
+      ],
+      "duration_ms": 197893,
+      "name": "DRENCH",
+      "url": "https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW"
+    },
+    {
       "added_at": "2024-04-26 04:00:00",
       "album": {
         "name": "The Don",
@@ -1135,26 +1155,6 @@
       "duration_ms": 166237,
       "name": "The Don",
       "url": "https://open.spotify.com/track/6amFTa4qtw7wHiSKNZsBUw"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "DRENCH",
-        "url": "https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H"
-      },
-      "artists": [
-        {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
-        },
-        {
-          "name": "Preme",
-          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
-        }
-      ],
-      "duration_ms": 197893,
-      "name": "DRENCH",
-      "url": "https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1485,26 +1485,6 @@
       "url": "https://open.spotify.com/track/3W4Kg9woGNvTG0TpR9gJs2"
     },
     {
-      "added_at": "2024-06-24 15:40:12",
-      "album": {
-        "name": "The Power",
-        "url": "https://open.spotify.com/album/2bdfOELL4elrcJ46EQW1jj"
-      },
-      "artists": [
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        },
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        }
-      ],
-      "duration_ms": 197841,
-      "name": "The Power",
-      "url": "https://open.spotify.com/track/2GaS9ec79BY9G6TW850wTe"
-    },
-    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "My Mind",
@@ -1523,6 +1503,26 @@
       "duration_ms": 184857,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/6PHkTkDcRZsp2WbZBZZbNe"
+    },
+    {
+      "added_at": "2024-06-24 15:40:12",
+      "album": {
+        "name": "The Power",
+        "url": "https://open.spotify.com/album/2bdfOELL4elrcJ46EQW1jj"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        },
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        }
+      ],
+      "duration_ms": 197841,
+      "name": "The Power",
+      "url": "https://open.spotify.com/track/2GaS9ec79BY9G6TW850wTe"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1605,22 +1605,6 @@
       "url": "https://open.spotify.com/track/23whPg6ma3qTOfKwgtvsv4"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Skank and Rave",
-        "url": "https://open.spotify.com/album/1XyRpYEMgYQvh44L7EVlpk"
-      },
-      "artists": [
-        {
-          "name": "Where It's ATT",
-          "url": "https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD"
-        }
-      ],
-      "duration_ms": 151634,
-      "name": "Skank and Rave",
-      "url": "https://open.spotify.com/track/5RxHbiXTa9mwjYDQ6mjhSM"
-    },
-    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Swagger Feet",
@@ -1639,6 +1623,22 @@
       "duration_ms": 209523,
       "name": "Swagger Feet",
       "url": "https://open.spotify.com/track/05zlLlHThHGTjH5Xpgb4n2"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Skank and Rave",
+        "url": "https://open.spotify.com/album/1XyRpYEMgYQvh44L7EVlpk"
+      },
+      "artists": [
+        {
+          "name": "Where It's ATT",
+          "url": "https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD"
+        }
+      ],
+      "duration_ms": 151634,
+      "name": "Skank and Rave",
+      "url": "https://open.spotify.com/track/5RxHbiXTa9mwjYDQ6mjhSM"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1685,22 +1685,6 @@
       "url": "https://open.spotify.com/track/3MpWDGfX21wKbaRBw0qBH4"
     },
     {
-      "added_at": "2024-06-24 15:40:12",
-      "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/4hRnKsXRJ2tjR64XAE8JbL"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 166299,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/3ZgB2mUHXuESVEkidu9GDC"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "I'm Drunk (feat. AMY MIY\u00da)",
@@ -1719,6 +1703,22 @@
       "duration_ms": 150234,
       "name": "I'm Drunk (feat. AMY MIY\u00da)",
       "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
+    },
+    {
+      "added_at": "2024-06-24 15:40:12",
+      "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/4hRnKsXRJ2tjR64XAE8JbL"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 166299,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/3ZgB2mUHXuESVEkidu9GDC"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1751,26 +1751,6 @@
       "duration_ms": 199186,
       "name": "Mud Season",
       "url": "https://open.spotify.com/track/3gmgRuhZrpfawnbjWPf6Ov"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Goons",
-        "url": "https://open.spotify.com/album/570lcnIjwcvVUCQAPNhOij"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Drezo",
-          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
-        }
-      ],
-      "duration_ms": 201904,
-      "name": "Goons",
-      "url": "https://open.spotify.com/track/4leBPYgRKj82Ce8ENp4Jxf"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1811,8 +1791,28 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Want My Love",
-        "url": "https://open.spotify.com/album/38rT6Cg4Szkmls0nYccnxd"
+        "name": "Goons",
+        "url": "https://open.spotify.com/album/570lcnIjwcvVUCQAPNhOij"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Drezo",
+          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
+        }
+      ],
+      "duration_ms": 201904,
+      "name": "Goons",
+      "url": "https://open.spotify.com/track/4leBPYgRKj82Ce8ENp4Jxf"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Stereo Function",
+        "url": "https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts"
       },
       "artists": [
         {
@@ -1820,13 +1820,33 @@
           "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
         },
         {
-          "name": "Nadia Gattas",
-          "url": "https://open.spotify.com/artist/1q5bqIr1FUGq2545aJSmlw"
+          "name": "Kage",
+          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
         }
       ],
-      "duration_ms": 157404,
-      "name": "Want My Love",
-      "url": "https://open.spotify.com/track/1VPOl6ZBsQYXXWkgXsBvEo"
+      "duration_ms": 206904,
+      "name": "Stereo Function",
+      "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Cheeky Little Club Banger",
+        "url": "https://open.spotify.com/album/3eBUIVfTVE2KjM8nRSbRuk"
+      },
+      "artists": [
+        {
+          "name": "Landis",
+          "url": "https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn"
+        },
+        {
+          "name": "Kxne",
+          "url": "https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD"
+        }
+      ],
+      "duration_ms": 134769,
+      "name": "Cheeky Little Club Banger",
+      "url": "https://open.spotify.com/track/2tLJLA0Z4N9BXhuJ6JEsDb"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1851,6 +1871,26 @@
       "duration_ms": 196800,
       "name": "Ignite",
       "url": "https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/7FjAK5OapRFX541hRkEFlM"
+      },
+      "artists": [
+        {
+          "name": "OVERWERK",
+          "url": "https://open.spotify.com/artist/2f9PTWJfMMDTAFZcvHy1Z5"
+        },
+        {
+          "name": "CODEUNIT",
+          "url": "https://open.spotify.com/artist/0OwyvnDOVdvrBhgHAkU9tC"
+        }
+      ],
+      "duration_ms": 242437,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/46LShzWCnFjCooJVFyKrKK"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1883,42 +1923,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Cheeky Little Club Banger",
-        "url": "https://open.spotify.com/album/3eBUIVfTVE2KjM8nRSbRuk"
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
       },
       "artists": [
         {
-          "name": "Landis",
-          "url": "https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn"
-        },
-        {
-          "name": "Kxne",
-          "url": "https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD"
+          "name": "THYKIER",
+          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
         }
       ],
-      "duration_ms": 134769,
-      "name": "Cheeky Little Club Banger",
-      "url": "https://open.spotify.com/track/2tLJLA0Z4N9BXhuJ6JEsDb"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Ascend",
-        "url": "https://open.spotify.com/album/7FjAK5OapRFX541hRkEFlM"
-      },
-      "artists": [
-        {
-          "name": "OVERWERK",
-          "url": "https://open.spotify.com/artist/2f9PTWJfMMDTAFZcvHy1Z5"
-        },
-        {
-          "name": "CODEUNIT",
-          "url": "https://open.spotify.com/artist/0OwyvnDOVdvrBhgHAkU9tC"
-        }
-      ],
-      "duration_ms": 242437,
-      "name": "Ascend",
-      "url": "https://open.spotify.com/track/46LShzWCnFjCooJVFyKrKK"
+      "duration_ms": 140160,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1939,22 +1955,6 @@
       "duration_ms": 149760,
       "name": "Dhunga",
       "url": "https://open.spotify.com/track/14CuAxOwFn2346hrXXx5Cj"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
-      },
-      "artists": [
-        {
-          "name": "THYKIER",
-          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "Just Like You",
-      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -2011,8 +2011,8 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Stereo Function",
-        "url": "https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts"
+        "name": "Want My Love",
+        "url": "https://open.spotify.com/album/38rT6Cg4Szkmls0nYccnxd"
       },
       "artists": [
         {
@@ -2020,33 +2020,13 @@
           "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
         },
         {
-          "name": "Kage",
-          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
+          "name": "Nadia Gattas",
+          "url": "https://open.spotify.com/artist/1q5bqIr1FUGq2545aJSmlw"
         }
       ],
-      "duration_ms": 206904,
-      "name": "Stereo Function",
-      "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Intoxicated",
-        "url": "https://open.spotify.com/album/35XprblJeDWF7j7KzUnyOl"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "No Thanks",
-          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
-        }
-      ],
-      "duration_ms": 196190,
-      "name": "Intoxicated",
-      "url": "https://open.spotify.com/track/31rfmss1bYtH3MxPGw6FwE"
+      "duration_ms": 157404,
+      "name": "Want My Love",
+      "url": "https://open.spotify.com/track/1VPOl6ZBsQYXXWkgXsBvEo"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2089,6 +2069,26 @@
       "url": "https://open.spotify.com/track/5Owdw7WjhY4NxHAecSSwF3"
     },
     {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Intoxicated",
+        "url": "https://open.spotify.com/album/35XprblJeDWF7j7KzUnyOl"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "No Thanks",
+          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
+        }
+      ],
+      "duration_ms": 196190,
+      "name": "Intoxicated",
+      "url": "https://open.spotify.com/track/31rfmss1bYtH3MxPGw6FwE"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Drinks & Pills",
@@ -2107,26 +2107,6 @@
       "duration_ms": 180000,
       "name": "Drinks & Pills",
       "url": "https://open.spotify.com/track/2iUALxU5pXPWRS8Qs9j8k8"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Chrome",
-        "url": "https://open.spotify.com/album/28LsxANYPdphsjifnCR1xo"
-      },
-      "artists": [
-        {
-          "name": "Luxo",
-          "url": "https://open.spotify.com/artist/3ECUg6kTV5tp9vJ2UFNYZ9"
-        },
-        {
-          "name": "PINEO & LOEB",
-          "url": "https://open.spotify.com/artist/7LildCOU5me58NKlvsLVRI"
-        }
-      ],
-      "duration_ms": 161428,
-      "name": "Chrome",
-      "url": "https://open.spotify.com/track/1MwOIwpxfqZtsnaBx9tswz"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2163,6 +2143,26 @@
       "duration_ms": 175492,
       "name": "Certified",
       "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Chrome",
+        "url": "https://open.spotify.com/album/28LsxANYPdphsjifnCR1xo"
+      },
+      "artists": [
+        {
+          "name": "Luxo",
+          "url": "https://open.spotify.com/artist/3ECUg6kTV5tp9vJ2UFNYZ9"
+        },
+        {
+          "name": "PINEO & LOEB",
+          "url": "https://open.spotify.com/artist/7LildCOU5me58NKlvsLVRI"
+        }
+      ],
+      "duration_ms": 161428,
+      "name": "Chrome",
+      "url": "https://open.spotify.com/track/1MwOIwpxfqZtsnaBx9tswz"
     },
     {
       "added_at": "2024-05-17 04:00:00",

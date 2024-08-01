@@ -194,7 +194,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 186123,
       "name": "Backdrops",
       "url": "https://open.spotify.com/track/1L6yd85lGhfCGbNwKKvcAp"
@@ -786,6 +786,32 @@
       "duration_ms": 212885,
       "name": "Do Beijo",
       "url": "https://open.spotify.com/track/10e7D2zxoamqizmQ03C1RK"
+    },
+    {
+      "album": {
+        "name": "Do Something!",
+        "url": "https://open.spotify.com/album/7wOOMSpNAHJO4vadu3V6RN"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131660,
+      "name": "Do Something!",
+      "url": "https://open.spotify.com/track/3qIfexWcDZUuSYQNogshMa"
     },
     {
       "album": {

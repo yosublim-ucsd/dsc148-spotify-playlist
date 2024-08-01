@@ -1,12 +1,12 @@
 {
   "description": "This is Big Daddy Weave. The essential tracks, all in one playlist.",
-  "num_followers": 11663,
+  "num_followers": 11669,
   "original_name": "This Is Big Daddy Weave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqbbgAAAAACuKK7jfsfnkpDX6Upr5N+k",
+  "snapshot_id": "ZqgtAAAAAADIg5MoCBsgisJC2jLC6p11",
   "tracks": [
     {
       "added_at": null,
@@ -235,18 +235,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Life Would Be Like",
-        "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
+        "name": "I Speak Jesus",
+        "url": "https://open.spotify.com/album/6oJY4rogX1Y9UHL2yL21TY"
       },
       "artists": [
         {
+          "name": "The Church Will Sing",
+          "url": "https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige"
+        },
+        {
           "name": "Big Daddy Weave",
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        },
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
         }
       ],
-      "duration_ms": 245280,
-      "name": "What Life Would Be Like",
-      "url": "https://open.spotify.com/track/71Mwr0v0cPykFBBpnYiSED"
+      "duration_ms": 257940,
+      "name": "I Speak Jesus",
+      "url": "https://open.spotify.com/track/3xc5C0e85ZJbXLz0nrANWt"
     },
     {
       "added_at": null,
@@ -307,26 +315,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Speak Jesus",
-        "url": "https://open.spotify.com/album/6oJY4rogX1Y9UHL2yL21TY"
+        "name": "What Life Would Be Like",
+        "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
       },
       "artists": [
         {
-          "name": "The Church Will Sing",
-          "url": "https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige"
-        },
-        {
           "name": "Big Daddy Weave",
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        },
-        {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
         }
       ],
-      "duration_ms": 257940,
-      "name": "I Speak Jesus",
-      "url": "https://open.spotify.com/track/3xc5C0e85ZJbXLz0nrANWt"
+      "duration_ms": 245280,
+      "name": "What Life Would Be Like",
+      "url": "https://open.spotify.com/track/71Mwr0v0cPykFBBpnYiSED"
     },
     {
       "added_at": null,

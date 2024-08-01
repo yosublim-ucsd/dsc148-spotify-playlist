@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Sofi Tukker
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,972 likes - 150 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,413 likes - 150 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 60 | [Heartache](https://open.spotify.com/track/39GZz9WxQpwJul7NnfBTb3) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2) | 4:35 |
 | 61 | [afterparty](https://open.spotify.com/track/5Yqv4XWZq1w2ECf9zLuven) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [afterparty](https://open.spotify.com/album/0pFg1h3Hq9kIdOBVhMhwM5) | 2:16 |
 | 62 | [Forever 2 \(Crush Mix\)](https://open.spotify.com/track/2QmEZAW1zKzoeA5hkheo8L) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Forever 2 \(Crush Mix\)](https://open.spotify.com/album/2TbQ4UscdZOQCTNas8MAhR) | 3:42 |
-| 63 | [My Head Is A Jungle](https://open.spotify.com/track/64n7L4Cz4aAChRXME2nqxc) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [t e s t p r e s s](https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u) | [My Head Is A Jungle](https://open.spotify.com/album/6hllbnCE9pVfztzBwrBiRt) | 2:27 |
+| 63 | [Jungle](https://open.spotify.com/track/64n7L4Cz4aAChRXME2nqxc) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [t e s t p r e s s](https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u) | [Jungle](https://open.spotify.com/album/6hllbnCE9pVfztzBwrBiRt) | 2:27 |
 | 64 | [DISCO TEARS](https://open.spotify.com/track/6Rb1l8eJXzLOMkjOAWcUj7) | [BLONDETING](https://open.spotify.com/artist/5tOtqDwpHljDsBGKASlPk2) | [DISCO TEARS](https://open.spotify.com/album/2vNkORn78G8ZQ7E9p9Ks7I) | 3:09 |
 | 65 | [Go Ghost](https://open.spotify.com/track/34mRNAdHE2chF02ibo2x6v) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [Go Ghost](https://open.spotify.com/album/4VfduOex5EZQ75OrgUdlBm) | 3:29 |
 | 66 | [Dreaming](https://open.spotify.com/track/7ilI1BbEZgxPRrUiaTTOjI) | [Ammara](https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I) | [Dreaming](https://open.spotify.com/album/37J5A2UvvwnQMOb6Q6wJa4) | 2:49 |

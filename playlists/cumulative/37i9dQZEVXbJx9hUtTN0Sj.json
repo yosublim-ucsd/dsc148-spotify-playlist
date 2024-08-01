@@ -612,7 +612,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 191069,
       "name": "Ancienne Belgique",
       "url": "https://open.spotify.com/track/3swiqXkSQyAlaPbJeUxlr9"
@@ -5037,6 +5037,24 @@
     },
     {
       "album": {
+        "name": "de l'accordeoniste a milord",
+        "url": "https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209800,
+      "name": "Hymne \u00e0 l'amour - Live",
+      "url": "https://open.spotify.com/track/7wQEazOrLEHSCMo3gEuV88"
+    },
+    {
+      "album": {
         "name": "Hypnagogic",
         "url": "https://open.spotify.com/album/3iSkxhQOLekkgwijdOGMo3"
       },
@@ -5552,7 +5570,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 226621,
       "name": "In And Out Of Love",
       "url": "https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h"
@@ -6512,7 +6530,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 256743,
       "name": "Last Night - Anyma x Layton Giordani Remix",
       "url": "https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a"
@@ -8960,7 +8978,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 154306,
       "name": "Peut-\u00eatre",
       "url": "https://open.spotify.com/track/5FjnIk95eLB6coCyYuUsB2"
@@ -9868,7 +9886,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 116589,
       "name": "Sarouel - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/0eDP9XFJn7ghObMOpJcPH9"
@@ -10764,7 +10782,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 179866,
       "name": "Summer Body",
       "url": "https://open.spotify.com/track/2jg0zwe6fa4oWjzy1EvcWg"
@@ -12922,7 +12940,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 140619,
       "name": "Y'a Plus d'Pardon - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/1MD5FbaGD4UhdSrOdzgCFX"

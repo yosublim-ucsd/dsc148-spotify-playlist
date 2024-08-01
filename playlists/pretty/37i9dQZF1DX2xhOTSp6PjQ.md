@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K?si=bMmUwoY1STqh07s0lB\_\_Jg">Umafikizolo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,974 likes - 60 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,305 likes - 60 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 40 | [Ntombo](https://open.spotify.com/track/5ELqcRmOE9PtoPlVIgAW4I) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe), [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Zulu Romance](https://open.spotify.com/album/5SjM0inqx4BSEQ7HP6CFYO) | 4:42 |
 | 41 | [Iphutha](https://open.spotify.com/track/3knGCYxFc2KracN0y36aN9) | [Umdumazi](https://open.spotify.com/artist/1FaD9YX3OovAhntq4aV1DC) | [Iphutha](https://open.spotify.com/album/2dANv8PXfSJmiiHJtdXPKJ) | 4:55 |
 | 42 | [Angsakhoni](https://open.spotify.com/track/21XL4xGIm6VhWSZF5uFYZb) | [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh) | [Angsakhoni](https://open.spotify.com/album/5BqRwQhNm7LwO4n9NcjzjO) | 4:56 |
-| 43 | [Nguye](https://open.spotify.com/track/5rO92QmCFzqbHgbwaJnwAH) | [Intaba Yase Dubai](https://open.spotify.com/artist/2j6fdvCneiKmXX8rsYEoU6), [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw), [Wave Rhyder](https://open.spotify.com/artist/2g6Idw9wnJRWM0viAxhRRX) | [Amagama](https://open.spotify.com/album/5iPOBiXSE3zgsZctEvp0UP) | 4:03 |
+| 43 | [Nguye](https://open.spotify.com/track/5rO92QmCFzqbHgbwaJnwAH) | [Intabayasedubai](https://open.spotify.com/artist/1W06EJ2okvibjqv4Ae2ZBK), [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw), [Wave Rhyder](https://open.spotify.com/artist/2g6Idw9wnJRWM0viAxhRRX) | [Amagama](https://open.spotify.com/album/5iPOBiXSE3zgsZctEvp0UP) | 4:03 |
 | 44 | [Wangisiza Baba](https://open.spotify.com/track/7JMQ6R7dqPH8CKivfUGLFj) | [Shwi No Mtekhala](https://open.spotify.com/artist/0hqM2qppNBOvYYQ36FsdBq) | [Greatest Moments Of](https://open.spotify.com/album/7j6pm8LrgP1BUfkc1UEu6H) | 5:38 |
 | 45 | [Dali Ungavumi](https://open.spotify.com/track/2yTHNZL9n8zd1LXRa6LT2W) | [Mshinwemali](https://open.spotify.com/artist/16Sxr5Kd5KJIUXTUVtmVOV), [Zothando](https://open.spotify.com/artist/2JKuODJH36pqK6s3gLcnVe) | [Dali Ungavumi](https://open.spotify.com/album/4TMSarXXnwy2RN5qD6tsKd) | 5:43 |
 | 46 | [Emendweni \(Official Audio\)](https://open.spotify.com/track/7y7rkoxppjGCyanzPR1Ni3) | [Ugatsheni](https://open.spotify.com/artist/2kUReuoaNS6Thgl4zFQA60) | [Inhlupheko](https://open.spotify.com/album/0COaJfx04ihKeZxxcw4j3x) | 4:54 |

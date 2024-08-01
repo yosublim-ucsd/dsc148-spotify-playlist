@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: Reality Club \(Indonesia\)
 
-1,431 songs - 3 day 14 hr 15 min
+1,432 songs - 3 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -869,6 +869,7 @@
 | [Peace Of Mind](https://open.spotify.com/track/7vgfpWpWc61Myfp0XqOgxD) | [Layton Wu](https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a) | [Blue Jeans](https://open.spotify.com/album/3FHg1VCDDl9c5cylYCd0vR) | 3:09 | 2024-06-21 | 2024-07-12 |
 | [Peace Of You](https://open.spotify.com/track/13U5ItKPNpnLGQ9k3XZlCb) | [Blackout On Mars](https://open.spotify.com/artist/77Rsubft2DC13eDnMHV8gW) | [Peace Of You](https://open.spotify.com/album/5UsrOvYQ0j1KRzdl2ArH4w) | 3:19 | 2023-03-23 | 2023-04-14 |
 | [Peak Season](https://open.spotify.com/track/2P7RLgJ1c7aJM17RImzE5y) | [Bedchamber](https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0) | [Capa City](https://open.spotify.com/album/2pGFuOxiVWmMeTLAAS5UJX) | 2:23 | 2023-07-06 | 2023-07-15 |
+| [Pentas Sandiwara](https://open.spotify.com/track/1fEgsbDomEXg2NXa6CaAUt) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [Pentas Sandiwara](https://open.spotify.com/album/1IjSlt19qg8tzbhyBtbdkR) | 4:04 | 2024-07-31 |  |
 | [People Never Change \- Radio Edit](https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [People Never Change](https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR) | 2:45 | 2024-05-16 | 2024-07-27 |
 | [Perfect](https://open.spotify.com/track/2PJpocUzoJDp8cG7Uq5XPA) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Perfect](https://open.spotify.com/album/69i0JGTuHXXxD3M0c3F3Mh) | 4:34 | 2023-07-14 | 2023-10-01 |
 | [perfect crime](https://open.spotify.com/track/3MXxxR1szyDyGz4tFvjEqi) | [Skinnyfabs](https://open.spotify.com/artist/3f0GZTXzBCmd5IBiMfsh1H) | [The Black Canvas](https://open.spotify.com/album/2334h24eIxcIbUym2SaPkP) | 2:55 | 2022-12-08 | 2023-01-27 |
@@ -977,7 +978,7 @@
 | [Shadow](https://open.spotify.com/track/4DmvVTpeLgQOhb5RZJOPmj) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g), [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Shadow](https://open.spotify.com/album/6uEBSqiCHj0LD3rWb8j0kS) | 3:46 | 2023-10-19 | 2023-10-27 |
 | [Shall We Dance](https://open.spotify.com/track/2iLzrjQXYYOUuiFFHO83oQ) | [INTROVERSE](https://open.spotify.com/artist/71md0yuGVfBVCun7P4AyKn) | [Shall We Dance](https://open.spotify.com/album/48hGFXBUSEgwg1nlsaFBQc) | 4:04 | 2024-02-01 | 2024-02-16 |
 | [Shangri\-La Is Calling](https://open.spotify.com/track/3mC9UEuISVfgymoY1YDTNn) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Shangri\-La Is Calling](https://open.spotify.com/album/2nsfd4IK5uWFrr598bf9iK) | 4:34 | 2022-07-08 | 2022-08-26 |
-| [sharp knife](https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [sharp knife](https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI) | 2:50 | 2023-06-08 |  |
+| [sharp knife](https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [sharp knife](https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI) | 2:50 | 2023-06-08 | 2024-08-01 |
 | [She Had a Habit of Meeting All of the Artists Backstage \(她有一個習慣在後台跟藝人見面\)](https://open.spotify.com/track/48cagymTknEzHyXOjVc6dv) | [Joanna Wang](https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C) | [Hotel La Rut \(破爛酒店\)](https://open.spotify.com/album/4KwldT3zrx1PGvblleu7wp) | 2:06 | 2024-05-09 | 2024-05-24 |
 | [She is a Dream Pop girl](https://open.spotify.com/track/7AIH2Yv5rg0gXNs0tAoSpq) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [She is a Dream Pop girl](https://open.spotify.com/album/1JcD5n1QyKHhJ1pnQMlhQi) | 3:23 | 2024-06-21 | 2024-07-12 |
 | [She Likes to Dance](https://open.spotify.com/track/26q20Hajvk9vLkaOY6eHYe) | [Peej](https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP) | [She Likes to Dance](https://open.spotify.com/album/4Ej7aO710TSFaKHBdwo7Xr) | 4:05 | 2024-03-28 | 2024-04-12 |

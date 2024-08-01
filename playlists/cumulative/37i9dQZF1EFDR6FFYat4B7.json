@@ -1007,6 +1007,24 @@
     },
     {
       "album": {
+        "name": "I Miss You Already + I Haven\u2019t Left Yet",
+        "url": "https://open.spotify.com/album/6iXKJVVucUkEKFiGDqyPgM"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187400,
+      "name": "Glitter & Honey",
+      "url": "https://open.spotify.com/track/4Ar1E0HhDOUwQyGzzHsED3"
+    },
+    {
+      "album": {
         "name": "Goin Up (feat. DyCy)",
         "url": "https://open.spotify.com/album/2xNyHrIBEJynLhUMtylDYZ"
       },

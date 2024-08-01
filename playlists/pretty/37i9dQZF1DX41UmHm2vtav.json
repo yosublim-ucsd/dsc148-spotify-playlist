@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 469261,
+  "num_followers": 469279,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2024-07-19 03:03:00",
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "JHart",
+          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
+        }
+      ],
+      "duration_ms": 179481,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
+    },
+    {
+      "added_at": "2024-07-19 03:03:00",
+      "album": {
         "name": "Lil\u00e1s",
         "url": "https://open.spotify.com/album/28FXnWF3WGPDZLgNP08M9W"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 187741,
       "name": "Lil\u00e1s",
       "url": "https://open.spotify.com/track/3MCmAAKZRaIFRhpfSYo6OP"
-    },
-    {
-      "added_at": "2024-07-19 03:03:00",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        },
-        {
-          "name": "JHart",
-          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
-        }
-      ],
-      "duration_ms": 179481,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
     },
     {
       "added_at": "2024-07-19 03:03:00",
@@ -1487,6 +1487,30 @@
     {
       "added_at": "2024-07-19 03:03:00",
       "album": {
+        "name": "Roda Gigante",
+        "url": "https://open.spotify.com/album/0pO3jAs20jXXsevyFf1R7o"
+      },
+      "artists": [
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        },
+        {
+          "name": "Zabot",
+          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
+        },
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        }
+      ],
+      "duration_ms": 178328,
+      "name": "Roda Gigante",
+      "url": "https://open.spotify.com/track/4ZbPzncqIaim9AhBaI5iO2"
+    },
+    {
+      "added_at": "2024-07-19 03:03:00",
+      "album": {
         "name": "EletroTribalistas",
         "url": "https://open.spotify.com/album/1LVeI6iW6g7RvgQBLoSLpb"
       },
@@ -1511,30 +1535,6 @@
       "duration_ms": 226745,
       "name": "Passe em Casa (feat. Margareth Menezes) - Eletr\u00f4nica",
       "url": "https://open.spotify.com/track/3lnPNtiKdNG5kLhQD4A7XV"
-    },
-    {
-      "added_at": "2024-07-19 03:03:00",
-      "album": {
-        "name": "Roda Gigante",
-        "url": "https://open.spotify.com/album/0pO3jAs20jXXsevyFf1R7o"
-      },
-      "artists": [
-        {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
-        },
-        {
-          "name": "Zabot",
-          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
-        },
-        {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
-        }
-      ],
-      "duration_ms": 178328,
-      "name": "Roda Gigante",
-      "url": "https://open.spotify.com/track/4ZbPzncqIaim9AhBaI5iO2"
     }
   ],
   "unique_name": "Festa na Praia",

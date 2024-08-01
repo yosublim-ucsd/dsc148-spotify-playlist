@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Oklin",
-  "num_followers": 131068,
+  "num_followers": 131075,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -711,26 +711,6 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
-        "name": "Cop\u00e3o",
-        "url": "https://open.spotify.com/album/68ZrYqDFuWdFnIMer8SPWT"
-      },
-      "artists": [
-        {
-          "name": "PJ HOUDINI",
-          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
-        },
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        }
-      ],
-      "duration_ms": 157850,
-      "name": "Cop\u00e3o",
-      "url": "https://open.spotify.com/track/1C5jnWmuSzQb7pKLA7hNGw"
-    },
-    {
-      "added_at": "2024-07-26 03:03:00",
-      "album": {
         "name": "Nois T\u00e1 Pra Cima",
         "url": "https://open.spotify.com/album/3maoNtBHXjBNJujQsr6qTi"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 156097,
       "name": "Nois T\u00e1 Pra Cima",
       "url": "https://open.spotify.com/track/0wxq6vOidSNO1GyzGtGwt3"
+    },
+    {
+      "added_at": "2024-07-26 03:03:00",
+      "album": {
+        "name": "Cop\u00e3o",
+        "url": "https://open.spotify.com/album/68ZrYqDFuWdFnIMer8SPWT"
+      },
+      "artists": [
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        }
+      ],
+      "duration_ms": 157850,
+      "name": "Cop\u00e3o",
+      "url": "https://open.spotify.com/track/1C5jnWmuSzQb7pKLA7hNGw"
     },
     {
       "added_at": "2024-07-26 03:03:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
-        "name": "Outra Hora",
-        "url": "https://open.spotify.com/album/6yHAyJrF3xvZj0Hb2kBpJw"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Outra Hora",
-      "url": "https://open.spotify.com/track/4ezcavj874X6qmOMdjIN1q"
-    },
-    {
-      "added_at": "2024-07-26 03:03:00",
-      "album": {
         "name": "Darma",
         "url": "https://open.spotify.com/album/5O0eyzHsfXfRQuHRV0X1tL"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 176633,
       "name": "Nosso Momento",
       "url": "https://open.spotify.com/track/0Veziue3ma20ib0JUzARrV"
+    },
+    {
+      "added_at": "2024-07-26 03:03:00",
+      "album": {
+        "name": "Outra Hora",
+        "url": "https://open.spotify.com/album/6yHAyJrF3xvZj0Hb2kBpJw"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Outra Hora",
+      "url": "https://open.spotify.com/track/4ezcavj874X6qmOMdjIN1q"
     },
     {
       "added_at": "2024-07-26 03:03:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
+        "name": "GLUVTRON: EXPER X",
+        "url": "https://open.spotify.com/album/4QsT1o0lD8ale3RKm7WXIk"
+      },
+      "artists": [
+        {
+          "name": "Big Rush",
+          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
+        }
+      ],
+      "duration_ms": 145990,
+      "name": "ROUBO",
+      "url": "https://open.spotify.com/track/1B0qFaktj8fIljxwimMJqn"
+    },
+    {
+      "added_at": "2024-07-26 03:03:00",
+      "album": {
         "name": "PATY DE CONDOMINIO",
         "url": "https://open.spotify.com/album/4kZoGO7t9LDfx7QEh7G7Wp"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 200039,
       "name": "Ela joga no 7",
       "url": "https://open.spotify.com/track/5vyu6cCIflFAmGZwnjyrq7"
-    },
-    {
-      "added_at": "2024-07-26 03:03:00",
-      "album": {
-        "name": "GLUVTRON: EXPER X",
-        "url": "https://open.spotify.com/album/4QsT1o0lD8ale3RKm7WXIk"
-      },
-      "artists": [
-        {
-          "name": "Big Rush",
-          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
-        }
-      ],
-      "duration_ms": 145990,
-      "name": "ROUBO",
-      "url": "https://open.spotify.com/track/1B0qFaktj8fIljxwimMJqn"
     },
     {
       "added_at": "2024-07-26 03:03:00",

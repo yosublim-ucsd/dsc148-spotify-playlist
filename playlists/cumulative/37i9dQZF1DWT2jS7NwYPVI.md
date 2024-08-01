@@ -4,7 +4,7 @@
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Sunflower Bean
 
-2,593 songs - 5 day 17 hr 6 min
+2,594 songs - 5 day 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2204,6 +2204,7 @@
 | [that b\*tch don't even kno my name...](https://open.spotify.com/track/5RgGQDoWdFGPRUxbb4olwx) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [that b\*tch don't even kno my name...](https://open.spotify.com/album/2fzAi6TqQrDhv6heenILWU) | 2:18 | 2024-03-29 | 2024-04-27 |
 | [THAT SUCKS!](https://open.spotify.com/track/3sXTe7czYwJXo8QsPifBzz) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [THAT SUCKS!](https://open.spotify.com/album/2CZCt0OJnQXrwFcWRRrje4) | 2:24 | 2023-05-26 | 2023-06-24 |
 | [That Time Of Year Always](https://open.spotify.com/track/67ys14tG3JWU0X4ia2FKOM) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [That Time Of Year Always](https://open.spotify.com/album/5nSVcLP93ZvIIIylPPJNRZ) | 3:34 | 2023-03-31 | 2023-05-20 |
+| [that's what time does](https://open.spotify.com/track/0gVgDuQ3qdETFClIrcLy2w) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [that's what time does](https://open.spotify.com/album/4lcvP3jaP1fZFrU7g9zeWH) | 3:08 | 2024-07-31 |  |
 | [That's Whatsup](https://open.spotify.com/track/3herCNBSg4n1FzufI334Mv) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [That's Whatsup](https://open.spotify.com/album/0SwGHuzXPbqYAMkc3vNjOM) | 3:02 | 2022-04-08 | 2022-06-04 |
 | [The 8th Of October \(To August 17th\)](https://open.spotify.com/track/5fCBlvLLFWvVz77TYQgDJq) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The 8th of October \(To August 17th\)](https://open.spotify.com/album/6lYrkx584iCFXeP5NdMOLH) | 5:59 | 2024-07-12 | 2024-07-19 |
 | [The Alchemist](https://open.spotify.com/track/4d5ynlKOWa4xkQKiymfW8y) | [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [The Alchemist](https://open.spotify.com/album/4CVhH2aMXn5F2Pxytbi0tV) | 2:38 | 2022-05-06 | 2022-07-09 |

@@ -1,6 +1,6 @@
 {
   "description": "The perfect mixtape for an anime fight scene. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.",
-  "num_followers": 1131191,
+  "num_followers": 1131780,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 99807,
-      "name": "WTH",
-      "url": "https://open.spotify.com/track/6J9UUQSQ9Vm9fh6vZgLlzu"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "50k",
         "url": "https://open.spotify.com/album/3fW5MHf8i7zGW8HpwQsnVe"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 129229,
       "name": "50k",
       "url": "https://open.spotify.com/track/0xbReDSQvm20f1PKsos4bh"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 99807,
+      "name": "WTH",
+      "url": "https://open.spotify.com/track/6J9UUQSQ9Vm9fh6vZgLlzu"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -741,22 +741,6 @@
       "url": "https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Young Kid",
-        "url": "https://open.spotify.com/album/4v61ZFQT5pnNrmvpO9DFLz"
-      },
-      "artists": [
-        {
-          "name": "IVOXYGEN",
-          "url": "https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm"
-        }
-      ],
-      "duration_ms": 209057,
-      "name": "Young Kid",
-      "url": "https://open.spotify.com/track/6EZE2Pr5Wc2UVkna4XRIBf"
-    },
-    {
       "added_at": "2024-06-11 20:16:14",
       "album": {
         "name": "Plenty Guns",
@@ -771,6 +755,22 @@
       "duration_ms": 86928,
       "name": "Plenty Guns",
       "url": "https://open.spotify.com/track/29gNXaDSlzN4DJtjPjscIJ"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Young Kid",
+        "url": "https://open.spotify.com/album/4v61ZFQT5pnNrmvpO9DFLz"
+      },
+      "artists": [
+        {
+          "name": "IVOXYGEN",
+          "url": "https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm"
+        }
+      ],
+      "duration_ms": 209057,
+      "name": "Young Kid",
+      "url": "https://open.spotify.com/track/6EZE2Pr5Wc2UVkna4XRIBf"
     },
     {
       "added_at": "2024-06-11 20:16:14",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "7AM",
-        "url": "https://open.spotify.com/album/6Mf15O3wMv52ySP3aSTre1"
-      },
-      "artists": [
-        {
-          "name": "Adrian",
-          "url": "https://open.spotify.com/artist/5uK6fW2LmljRHZEmHKv9tA"
-        }
-      ],
-      "duration_ms": 145950,
-      "name": "7AM",
-      "url": "https://open.spotify.com/track/3HoSi38l1e6E1K1lHWUCeV"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "My Swisher Sweet, But My Sig Sauer",
         "url": "https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 226932,
       "name": "My Swisher Sweet, But My Sig Sauer",
       "url": "https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "7AM",
+        "url": "https://open.spotify.com/album/6Mf15O3wMv52ySP3aSTre1"
+      },
+      "artists": [
+        {
+          "name": "Adrian",
+          "url": "https://open.spotify.com/artist/5uK6fW2LmljRHZEmHKv9tA"
+        }
+      ],
+      "duration_ms": 145950,
+      "name": "7AM",
+      "url": "https://open.spotify.com/track/3HoSi38l1e6E1K1lHWUCeV"
     },
     {
       "added_at": "2024-05-22 11:00:00",

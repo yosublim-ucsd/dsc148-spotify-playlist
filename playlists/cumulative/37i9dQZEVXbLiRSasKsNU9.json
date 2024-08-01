@@ -3936,7 +3936,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 170490,
       "name": "Aradan \u00c7ok Y\u0131llar Ge\u00e7ti",
       "url": "https://open.spotify.com/track/4CDY8eGMrkQjyOTkvsXiq0"
@@ -13089,6 +13089,28 @@
     },
     {
       "album": {
+        "name": "Dil Tu Jaan Tu",
+        "url": "https://open.spotify.com/album/4UPEfC1TJNAlObvA9a5Fkx"
+      },
+      "artists": [
+        {
+          "name": "Gurnazar",
+          "url": "https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W"
+        },
+        {
+          "name": "Chet Singh",
+          "url": "https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237333,
+      "name": "Dil Tu Jaan Tu",
+      "url": "https://open.spotify.com/track/69Qzz3yyQSsA0T95jLDoPL"
+    },
+    {
+      "album": {
         "name": "DILATA\u00c7\u00c3O HIPN\u00d3TICA 6.0",
         "url": "https://open.spotify.com/album/2bA0h58Fb6wT5ZgaP10sVs"
       },
@@ -13858,7 +13880,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 126080,
       "name": "Doucement - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/0j0pOCUmnBHvxjD2EDc3dk"
@@ -20326,7 +20348,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 105836,
       "name": "HAY LUPITA",
       "url": "https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4"

@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 56319,
+  "num_followers": 56341,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqbbgAAAAACrfoJZHMU8jGpd05gChOVp",
+  "snapshot_id": "ZqgtAAAAAABk7+i5o7i4c1G3xoaNUQbM",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is it a Crime?",
-        "url": "https://open.spotify.com/album/5oAULNPMLHj0FHSpNaQ8bc"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 200019,
-      "name": "Is it a Crime?",
-      "url": "https://open.spotify.com/track/6rpctcdfXgkguh2nr3Htby"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Call U Tomorrow",
         "url": "https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 186666,
       "name": "Call U Tomorrow",
       "url": "https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Is it a Crime?",
+        "url": "https://open.spotify.com/album/5oAULNPMLHj0FHSpNaQ8bc"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 200019,
+      "name": "Is it a Crime?",
+      "url": "https://open.spotify.com/track/6rpctcdfXgkguh2nr3Htby"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Lofi Christmas.",
+        "url": "https://open.spotify.com/album/18o8Xw3IFfjR6IoLsoY8xO"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 84000,
+      "name": "Home for the Holidays",
+      "url": "https://open.spotify.com/track/7yrfKopuTvSnedT9sfcG74"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nights & Days.",
         "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 119156,
       "name": "6:16am",
       "url": "https://open.spotify.com/track/5pTb9i96sgct5x6jyjwhrM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Lofi Christmas.",
-        "url": "https://open.spotify.com/album/18o8Xw3IFfjR6IoLsoY8xO"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 84000,
-      "name": "Home for the Holidays",
-      "url": "https://open.spotify.com/track/7yrfKopuTvSnedT9sfcG74"
     },
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bedroom Lofi",
-        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 118140,
-      "name": "Yes, You Love Me.",
-      "url": "https://open.spotify.com/track/0Aj3GRorN6QAFwwZlqXz6T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nights & Days.",
         "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 205734,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/0GQPdbDdcBCO8MUY8YKluB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bedroom Lofi",
+        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 118140,
+      "name": "Yes, You Love Me.",
+      "url": "https://open.spotify.com/track/0Aj3GRorN6QAFwwZlqXz6T"
     },
     {
       "added_at": null,
@@ -707,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bedroom Lofi",
-        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 67171,
-      "name": "A Piece Called Butterflies.",
-      "url": "https://open.spotify.com/track/1yqtrIUcRBXHOXPrHRcbjh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nights & Days.",
         "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 244453,
       "name": "Your Love Has Called Me Back",
       "url": "https://open.spotify.com/track/0ObkGoEBWzsWHvO9AcxptJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bedroom Lofi",
+        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 67171,
+      "name": "A Piece Called Butterflies.",
+      "url": "https://open.spotify.com/track/1yqtrIUcRBXHOXPrHRcbjh"
     },
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bedroom Lofi",
-        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 172140,
-      "name": "God Given Dreams",
-      "url": "https://open.spotify.com/track/15gmFPuXOMZV7l1Afj0JMM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nights & Days.",
         "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
       },
@@ -827,18 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Beautiful.",
-        "url": "https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K"
+        "name": "Bedroom Lofi",
+        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
       },
       "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 183656,
-      "name": "Heavenly Father",
-      "url": "https://open.spotify.com/track/7zZXxDiDWpCy9xcldN6lo9"
+      "duration_ms": 172140,
+      "name": "God Given Dreams",
+      "url": "https://open.spotify.com/track/15gmFPuXOMZV7l1Afj0JMM"
     },
     {
       "added_at": null,
@@ -863,22 +847,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bedroom Lofi",
-        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
+        "name": "It's Beautiful.",
+        "url": "https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K"
       },
       "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 208453,
-      "name": "7",
-      "url": "https://open.spotify.com/track/1601rgnttKbCiKaV83nY8K"
+      "duration_ms": 183656,
+      "name": "Heavenly Father",
+      "url": "https://open.spotify.com/track/7zZXxDiDWpCy9xcldN6lo9"
     },
     {
       "added_at": null,
@@ -899,6 +879,26 @@
       "duration_ms": 233078,
       "name": "Home",
       "url": "https://open.spotify.com/track/2xWxHd24lHBTnjl7SnbXB0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bedroom Lofi",
+        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 208453,
+      "name": "7",
+      "url": "https://open.spotify.com/track/1601rgnttKbCiKaV83nY8K"
     },
     {
       "added_at": null,

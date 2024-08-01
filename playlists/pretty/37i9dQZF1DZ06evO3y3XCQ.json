@@ -1,12 +1,12 @@
 {
   "description": "This is Thursday. The essential tracks, all in one playlist.",
-  "num_followers": 4310,
+  "num_followers": 4314,
   "original_name": "This Is Thursday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqbbgAAAAADuUavNg2QGIvRRR9yCZnjQ",
+  "snapshot_id": "ZqgtAAAAAACtQcPp78YvlA//FTRYqEok",
   "tracks": [
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Five Stories Falling",
-        "url": "https://open.spotify.com/album/4CRIaDaZQ2gkHYnX5Fzzdj"
+        "name": "No Devoluci\u00f3n",
+        "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 289080,
-      "name": "Jet Black New Year",
-      "url": "https://open.spotify.com/track/0FYBAFCpiZyNxdat3MBc3t"
+      "duration_ms": 201240,
+      "name": "Fast to the End",
+      "url": "https://open.spotify.com/track/0Fx8OAcWVq1Gugw29Ek4jd"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Devoluci\u00f3n",
-        "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
+        "name": "Five Stories Falling",
+        "url": "https://open.spotify.com/album/4CRIaDaZQ2gkHYnX5Fzzdj"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 201240,
-      "name": "Fast to the End",
-      "url": "https://open.spotify.com/track/0Fx8OAcWVq1Gugw29Ek4jd"
+      "duration_ms": 289080,
+      "name": "Jet Black New Year",
+      "url": "https://open.spotify.com/track/0FYBAFCpiZyNxdat3MBc3t"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 242066,
-      "name": "Dying in New Brunswick",
-      "url": "https://open.spotify.com/track/2HYHnHXUSQwczdpFQKW7xg"
+      "duration_ms": 223480,
+      "name": "Ian Curtis",
+      "url": "https://open.spotify.com/track/4fePHGj7DmOzuMRccSAgpO"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 223480,
-      "name": "Ian Curtis",
-      "url": "https://open.spotify.com/track/4fePHGj7DmOzuMRccSAgpO"
+      "duration_ms": 242066,
+      "name": "Dying in New Brunswick",
+      "url": "https://open.spotify.com/track/2HYHnHXUSQwczdpFQKW7xg"
     },
     {
       "added_at": null,

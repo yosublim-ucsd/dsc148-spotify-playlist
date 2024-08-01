@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Yasmin Santos e mais mulheres no volume máximo! Co\-curadoria com Yasmin Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,840 likes - 49 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,865 likes - 49 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 43 | [Assino com X / Do Outro Lado Da Cidade \- Ao Vivo](https://open.spotify.com/track/2PxkAKIQNYBO7RTKzhJMi5) | [Mikaely e Poliany](https://open.spotify.com/artist/4Hs8nCGN5OLyT1lIGQCkf3) | [Assino com X / Do Outro Lado Da Cidade \(Ao Vivo\)](https://open.spotify.com/album/1XVEi0YAuK5FcN4zIm03Gp) | 3:11 |
 | 44 | [Quero Você do Jeito Que Quiser](https://open.spotify.com/track/51uXmhqGR76tT2UeKZyeN6) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas, EP1](https://open.spotify.com/album/0Z4qKd1CG1VxOMt8knpoQK) | 3:35 |
 | 45 | [Flor E O Beija\-Flor](https://open.spotify.com/track/66N2SB1lgHPgJXVCjg6GXH) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Flor E O Beija\-Flor](https://open.spotify.com/album/1THJVUNwa03TGzh8tCJoJ3) | 3:22 |
-| 46 | [Cumbia Do Amor](https://open.spotify.com/track/6jYPKtej8Eb4DiiMxo2OUJ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol\. 3](https://open.spotify.com/album/1ZIOn3boIPlcctKdVNNHRm) | 2:41 |
-| 47 | [Te Amo Demais](https://open.spotify.com/track/60hB23SG2YUoJQ06Kv0TEG) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais](https://open.spotify.com/album/6ncYffPA8uomCY8DJ0EXL9) | 3:25 |
+| 46 | [Te Amo Demais](https://open.spotify.com/track/60hB23SG2YUoJQ06Kv0TEG) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais](https://open.spotify.com/album/6ncYffPA8uomCY8DJ0EXL9) | 3:25 |
+| 47 | [Cumbia Do Amor](https://open.spotify.com/track/6jYPKtej8Eb4DiiMxo2OUJ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol\. 3](https://open.spotify.com/album/1ZIOn3boIPlcctKdVNNHRm) | 2:41 |
 | 48 | [Me Ame Mais](https://open.spotify.com/track/1wGuEAmgb6vbOz2re9pMNz) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais](https://open.spotify.com/album/6ncYffPA8uomCY8DJ0EXL9) | 3:41 |
 | 49 | [Infiel / Amante Não Tem Lar](https://open.spotify.com/track/1UGU4fJbnBlLV5TrludieQ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais](https://open.spotify.com/album/6ncYffPA8uomCY8DJ0EXL9) | 5:18 |
 

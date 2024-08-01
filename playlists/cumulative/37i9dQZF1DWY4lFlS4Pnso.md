@@ -2,7 +2,7 @@
 
 ### [Hot Hits UK](https://open.spotify.com/playlist/37i9dQZF1DWY4lFlS4Pnso)
 
-> The UK's biggest playlist\. Cover: Jade
+> The UK's biggest playlist\. Cover: JADE
 
 197 songs - 10 hr 15 min
 

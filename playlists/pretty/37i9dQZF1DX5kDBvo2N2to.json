@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59220,
+  "num_followers": 59218,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "I'll Come Your Way",
-        "url": "https://open.spotify.com/album/2Ck1pJHLkPj5uZxstCJEO9"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "I'll Come Your Way",
-      "url": "https://open.spotify.com/track/3lk15upGEldLkgKm7f48QS"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "HON SA",
         "url": "https://open.spotify.com/album/7uyo0yNpkSeJrMR3cfnMMX"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 167479,
       "name": "HON SA",
       "url": "https://open.spotify.com/track/7Fm1A727O2wgbWcGyp15p8"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "I'll Come Your Way",
+        "url": "https://open.spotify.com/album/2Ck1pJHLkPj5uZxstCJEO9"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "I'll Come Your Way",
+      "url": "https://open.spotify.com/track/3lk15upGEldLkgKm7f48QS"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Crying Dove",
-        "url": "https://open.spotify.com/album/6xGehMsofWMuFW2nKYdmK7"
-      },
-      "artists": [
-        {
-          "name": "Edgar Homeros",
-          "url": "https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg"
-        }
-      ],
-      "duration_ms": 158552,
-      "name": "Upset",
-      "url": "https://open.spotify.com/track/1lmESvOXWfDSgVAAaIruLL"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Empty the Bags",
         "url": "https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 153559,
       "name": "Empty the Bags",
       "url": "https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Crying Dove",
+        "url": "https://open.spotify.com/album/6xGehMsofWMuFW2nKYdmK7"
+      },
+      "artists": [
+        {
+          "name": "Edgar Homeros",
+          "url": "https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg"
+        }
+      ],
+      "duration_ms": 158552,
+      "name": "Upset",
+      "url": "https://open.spotify.com/track/1lmESvOXWfDSgVAAaIruLL"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Blomma i city",
-        "url": "https://open.spotify.com/album/2UeQe6zB080WCiO0NIOIRi"
-      },
-      "artists": [
-        {
-          "name": "Johanna Frostling",
-          "url": "https://open.spotify.com/artist/4vbrC3LBk1yySodkSbG3IY"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "Blomma i city",
-      "url": "https://open.spotify.com/track/1kjhnKWwhrUFNxuOpzxy2S"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Till h\u00e4lften m\u00e4nniska, till h\u00e4lften moderat",
         "url": "https://open.spotify.com/album/7M2UQRwp5YgXHE2PvMShgG"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 284917,
       "name": "Till h\u00e4lften m\u00e4nniska, till h\u00e4lften moderat",
       "url": "https://open.spotify.com/track/6X1QmXwBadartUpzhUfgjS"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Blomma i city",
+        "url": "https://open.spotify.com/album/2UeQe6zB080WCiO0NIOIRi"
+      },
+      "artists": [
+        {
+          "name": "Johanna Frostling",
+          "url": "https://open.spotify.com/artist/4vbrC3LBk1yySodkSbG3IY"
+        }
+      ],
+      "duration_ms": 199626,
+      "name": "Blomma i city",
+      "url": "https://open.spotify.com/track/1kjhnKWwhrUFNxuOpzxy2S"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "GALAXER",
-        "url": "https://open.spotify.com/album/2gsf8X6S3JdlUeYzIAJDZI"
-      },
-      "artists": [
-        {
-          "name": "IRMELI",
-          "url": "https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv"
-        }
-      ],
-      "duration_ms": 189546,
-      "name": "GALAXER",
-      "url": "https://open.spotify.com/track/3j0U59EWvIZQ35Kaomvysz"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Big Nose",
         "url": "https://open.spotify.com/album/244WbaXCLVuZkRfUvLz2Sz"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 217586,
       "name": "Big Nose",
       "url": "https://open.spotify.com/track/0Vr1b1m2v5F4NorSjUUXym"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "GALAXER",
+        "url": "https://open.spotify.com/album/2gsf8X6S3JdlUeYzIAJDZI"
+      },
+      "artists": [
+        {
+          "name": "IRMELI",
+          "url": "https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv"
+        }
+      ],
+      "duration_ms": 189546,
+      "name": "GALAXER",
+      "url": "https://open.spotify.com/track/3j0U59EWvIZQ35Kaomvysz"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "jag m\u00e5r inte bra </3",
-        "url": "https://open.spotify.com/album/1vdEbu1fVuZwJdnRMTr9KM"
+        "name": "borde sagt hejd\u00e5 f\u00f6r ett tag sen",
+        "url": "https://open.spotify.com/album/5nj39MtTjPwl1E7XkDzNDl"
       },
       "artists": [
         {
-          "name": "BELL",
-          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
+          "name": "ASTE",
+          "url": "https://open.spotify.com/artist/5zYmm4lmcacjQo9zns3aDJ"
         }
       ],
-      "duration_ms": 155426,
-      "name": "jag m\u00e5r inte bra </3",
-      "url": "https://open.spotify.com/track/78IgWqUnswiKKwxnr4jbWI"
+      "duration_ms": 145401,
+      "name": "borde sagt hejd\u00e5 f\u00f6r ett tag sen",
+      "url": "https://open.spotify.com/track/4jh8asgmeHD8IU8V2Yw1K7"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "borde sagt hejd\u00e5 f\u00f6r ett tag sen",
-        "url": "https://open.spotify.com/album/5nj39MtTjPwl1E7XkDzNDl"
+        "name": "jag m\u00e5r inte bra </3",
+        "url": "https://open.spotify.com/album/1vdEbu1fVuZwJdnRMTr9KM"
       },
       "artists": [
         {
-          "name": "ASTE",
-          "url": "https://open.spotify.com/artist/5zYmm4lmcacjQo9zns3aDJ"
+          "name": "BELL",
+          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
         }
       ],
-      "duration_ms": 145401,
-      "name": "borde sagt hejd\u00e5 f\u00f6r ett tag sen",
-      "url": "https://open.spotify.com/track/4jh8asgmeHD8IU8V2Yw1K7"
+      "duration_ms": 155426,
+      "name": "jag m\u00e5r inte bra </3",
+      "url": "https://open.spotify.com/track/78IgWqUnswiKKwxnr4jbWI"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
+        "name": "Sexy",
+        "url": "https://open.spotify.com/album/5uAVsNYiC7FTKTGWUgfm5w"
+      },
+      "artists": [
+        {
+          "name": "Emma Liambi",
+          "url": "https://open.spotify.com/artist/79ni0gLHGqim5iM0lzKMLI"
+        }
+      ],
+      "duration_ms": 122307,
+      "name": "Sexy",
+      "url": "https://open.spotify.com/track/1cTJBsAwjKxZggc8HTeSrs"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
         "name": "Hayaku",
         "url": "https://open.spotify.com/album/2LczPni9Kre7g5291eA0gN"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 227739,
       "name": "Hayaku",
       "url": "https://open.spotify.com/track/4RAKxRPufWs8zWDsjslNBP"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
-        "name": "Sexy",
-        "url": "https://open.spotify.com/album/5uAVsNYiC7FTKTGWUgfm5w"
-      },
-      "artists": [
-        {
-          "name": "Emma Liambi",
-          "url": "https://open.spotify.com/artist/79ni0gLHGqim5iM0lzKMLI"
-        }
-      ],
-      "duration_ms": 122307,
-      "name": "Sexy",
-      "url": "https://open.spotify.com/track/1cTJBsAwjKxZggc8HTeSrs"
     },
     {
       "added_at": "2024-06-28 14:04:42",

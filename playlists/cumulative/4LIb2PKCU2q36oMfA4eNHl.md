@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-130 songs - 8 hr 13 min
+131 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/track/7EQigqw8SToxlAXF2YMqjg) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 6:26 | 2024-06-03 | 2024-07-13 |
 | [I'll Miss the System Here](https://open.spotify.com/track/1O5W8zxuyu5GWmuUbqnhCU) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three +](https://open.spotify.com/album/4pnU9CGKI2YneVwkqK6EIN) | 7:10 | 2024-05-10 | 2024-06-15 |
 | [if I can be honest](https://open.spotify.com/track/67jECssRLcbLlrtlCAaKGY) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [if I can be honest](https://open.spotify.com/album/3u1zyY9ivPRbLi9Am9FkJ8) | 3:23 | 2023-12-08 | 2024-04-13 |
-| [Inner \(for Jen\)](https://open.spotify.com/track/4VOVyIBfnrSQ2OZyISkn4g) | [Joel Shearer](https://open.spotify.com/artist/4HrrmVtL1VbUi15AvooVeR) | [The Sounds Inside Of Me When I Think Of You EP](https://open.spotify.com/album/3oajHb9mhmBvgqXvvhj5Bc) | 5:05 | 2024-02-09 |  |
+| [Inner \(for Jen\)](https://open.spotify.com/track/4VOVyIBfnrSQ2OZyISkn4g) | [Joel Shearer](https://open.spotify.com/artist/4HrrmVtL1VbUi15AvooVeR) | [The Sounds Inside Of Me When I Think Of You EP](https://open.spotify.com/album/3oajHb9mhmBvgqXvvhj5Bc) | 5:05 | 2024-02-09 | 2024-08-01 |
 | [Islas Canarias](https://open.spotify.com/track/0hRCdpKyqN25UFexMue0Pp) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1) | 3:10 | 2024-07-12 |  |
 | [Ithaca](https://open.spotify.com/track/49MMPosiIrORwUtdrG1eiQ) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Memory Morning](https://open.spotify.com/album/2LsEbodgqI6P1q7QEVe3P7) | 3:59 | 2024-04-19 |  |
 | [IZUMO](https://open.spotify.com/track/7alJ5Zy3imEzCCzwv9hEtq) | [Yui Onodera](https://open.spotify.com/artist/7mCcHxpwKyDj2aJZNGZP7e) | [Reflections 07](https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V) | 4:41 | 2023-12-08 |  |
@@ -138,5 +138,6 @@
 | [With Hope](https://open.spotify.com/track/2CNx1R95u2ILOFpxcgR1o1) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Chalk](https://open.spotify.com/album/7BwSbpmnlFAHrKpXdCrlcj) | 1:29 | 2024-02-16 | 2024-04-27 |
 | [You \- Odeon Remix](https://open.spotify.com/track/1zGHbWjSuSuG86mlW9eWSl) | [minds&machines](https://open.spotify.com/artist/2KxAw5fHhZUSuDNBuNACUQ), [Odeon](https://open.spotify.com/artist/3SWSnHWyLjxCkSREp4j6ye) | [Reflections 06](https://open.spotify.com/album/4rCoIoKUuFFEqHaNTpgvOx) | 2:55 | 2023-12-08 | 2024-01-13 |
 | [Your Depth Of Imagination](https://open.spotify.com/track/3RFMabGRVnc46cWqceyT9W) | [Talee](https://open.spotify.com/artist/7pf6HNkcy55zaCdFFOugju) | [My Mother Was A Synthesizer EP](https://open.spotify.com/album/21dxrmqpCfgpnMA4V2GocZ) | 2:38 | 2023-12-08 | 2023-12-16 |
+| [Your Love's Not Wasted](https://open.spotify.com/track/1at0ZV2iOErop550JQLyZR) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [Jakke](https://open.spotify.com/artist/4J2F2H9mhFcaXDs64WCMxQ) | [Your Love's Not Wasted](https://open.spotify.com/album/6a92sVEH9NRJWTpLbJfO9L) | 4:00 | 2024-07-31 |  |
 
 \*This playlist was first scraped on 2023-12-14. Prior content cannot be recovered.

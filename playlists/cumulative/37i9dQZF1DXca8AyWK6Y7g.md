@@ -4,7 +4,7 @@
 
 > your new favorite girl group just dropped 📸 Blusher
 
-2,131 songs - 4 day 11 hr 12 min
+2,133 songs - 4 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,7 @@
 | [Boys](https://open.spotify.com/track/3r6oQ66z8GfFNdAmjZr2ct) | [Kelianne](https://open.spotify.com/artist/29Umu6q2gjFj4rQCIvmLRm) | [Boys](https://open.spotify.com/album/5KObpEAV5b6d9f6X0Oi3TF) | 2:26 | 2022-01-28 | 2022-03-05 |
 | [Boys "R" Us](https://open.spotify.com/track/47EiQ0NtMyrAcV2dRfXrul) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [High Concept](https://open.spotify.com/album/5DSSWFgWsyelKKtMEUe1cK) | 2:09 | 2023-09-15 | 2023-10-24 |
 | [Boys Don't Cry](https://open.spotify.com/track/58IYY8DzJ4s9R260vyQfqT) | [Awgust](https://open.spotify.com/artist/0cC1TGgq52GNhAhed6SHj6) | [Boys Don’t Cry](https://open.spotify.com/album/3hVTz0IcG4DHFqj8TDiiaE) | 3:14 | 2022-04-08 | 2022-04-30 |
-| [Boys Like You](https://open.spotify.com/track/3MZeBZsYFViZ5OchHkv7NM) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Boys Like You](https://open.spotify.com/album/4lze7H8TQqIqnrRT9Sc351) | 3:27 | 2023-06-23 |  |
+| [Boys Like You](https://open.spotify.com/track/3MZeBZsYFViZ5OchHkv7NM) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Boys Like You](https://open.spotify.com/album/4lze7H8TQqIqnrRT9Sc351) | 3:27 | 2023-06-23 | 2024-08-01 |
 | [BOYTOY](https://open.spotify.com/track/0uhM3a59WXfYEsxbmjga6S) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [BOYTOY](https://open.spotify.com/album/1k4YvboPSkWRViqD1Jc4mI) | 1:50 | 2022-11-11 | 2024-05-18 |
 | [Brad Pitt](https://open.spotify.com/track/5F1TZVziCp4TuXIMCsIxwM) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Brad Pitt](https://open.spotify.com/album/2b1tEVkENOaP3ptVK0Zo9D) | 3:36 | 2022-05-13 | 2022-10-29 |
 | [Brand New](https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Brand New](https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP) | 2:36 | 2021-10-17 | 2021-11-14 |
@@ -606,6 +606,7 @@
 | [Eyes Wide Shut](https://open.spotify.com/track/2LyaOE8P7p8X0yofHVtF2D) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Eyes Wide Shut](https://open.spotify.com/album/6O7B3KJmgRfdn0OaCPv8Gq) | 3:22 | 2024-02-16 | 2024-03-23 |
 | [Eyes Wide Shut](https://open.spotify.com/track/3FhFlQuJiThN8PIUMHuikP) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Eyes Wide Shut](https://open.spotify.com/album/6dQOeD3fOJY5X5zU9GbjVM) | 3:43 | 2019-05-26\* | 2020-02-19 |
 | [F U Goodbye](https://open.spotify.com/track/205wK88loGkvq5Me6h3XZg) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [F U Goodbye](https://open.spotify.com/album/1qN1cdmp9anpdy8fohdvLo) | 2:46 | 2023-03-03 | 2023-04-23 |
+| [Fail](https://open.spotify.com/track/3wb0OtpuyUjZBOxa8HdxhL) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Fail](https://open.spotify.com/album/6EPz1cdBFPdjoXKdczgdbY) | 2:36 | 2024-07-26 |  |
 | [Failed English](https://open.spotify.com/track/7kj0SRhn9ovQ8N5dBtCPna) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Failed English](https://open.spotify.com/album/1BVE4R2Ze79EwSJ55Ha5hW) | 2:43 | 2021-12-03 | 2022-01-29 |
 | [Fake It](https://open.spotify.com/track/0x3jopI5vshBrfiVUjiC2X) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Fake It](https://open.spotify.com/album/13n0zQiVLZ3gAj8VmMWaST) | 3:41 | 2019-05-26\* | 2019-09-14 |
 | [fall apart](https://open.spotify.com/track/3WSsxt8SeWwrMoSRVNYvLM) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [hold on I still want you](https://open.spotify.com/album/2Qw3h6IV99voV3iKBiNRT8) | 2:35 | 2021-07-16 | 2022-01-08 |
@@ -933,7 +934,7 @@
 | [I Miss That](https://open.spotify.com/track/40yDp3u7EFOZvCNy0vgF6N) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [I Miss That](https://open.spotify.com/album/4MuCtbcpIOpHNGiD8Vd23o) | 2:39 | 2021-02-24 | 2021-10-12 |
 | [I NEED U, IN THE SUMMERTIME](https://open.spotify.com/track/5NqIHUcwfBDpc1rgTxKvyG) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g), [Chasu](https://open.spotify.com/artist/1qIVbNaFEyJ73CX72RM9Ts) | [I NEED U, IN THE SUMMERTIME](https://open.spotify.com/album/1qJMRM8qReo4zkBgHytyVE) | 2:38 | 2020-09-16 | 2021-01-15 |
 | [I Never Learn](https://open.spotify.com/track/5XlnAIPiOSEODsogL9Doxz) | [Ai Bendr](https://open.spotify.com/artist/0Ari1vZqizhkV9Pa1uC8oE) | [I Never Learn](https://open.spotify.com/album/3AUVlIKnnnWZAcqzxTKx4G) | 3:17 | 2022-01-14 | 2022-03-12 |
-| [i only smoke to feel bad](https://open.spotify.com/track/5gtAq2cTH1MpT2Ek8zv7mt) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [SPILT MILK](https://open.spotify.com/album/7bjMUmI8UUbAMWUIW0GCkk) | 3:00 | 2023-11-10 |  |
+| [i only smoke to feel bad](https://open.spotify.com/track/5gtAq2cTH1MpT2Ek8zv7mt) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [SPILT MILK](https://open.spotify.com/album/7bjMUmI8UUbAMWUIW0GCkk) | 3:00 | 2023-11-10 | 2024-08-01 |
 | [i remember](https://open.spotify.com/track/4MWFPLrhkekG6gcix2l3vJ) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [i remember](https://open.spotify.com/album/5fkoeeumL7hJ91pqy3XBYc) | 3:23 | 2021-10-08 | 2022-01-08 |
 | [I Sent My Therapist To Therapy](https://open.spotify.com/track/6ofVkSSWsDcnzRCNwrvpXB) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [I Sent My Therapist To Therapy](https://open.spotify.com/album/23nGL24RjKEvIEbiY2DVob) | 3:00 | 2023-12-08 |  |
 | [i should call my friends](https://open.spotify.com/track/7u0JipKqt3pIxbvgjOqd4R) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [i should call my friends](https://open.spotify.com/album/7qYCSuZ6kdIid6QrhuLAYe) | 2:39 | 2023-10-13 | 2023-11-11 |
@@ -1215,6 +1216,7 @@
 | [Marry Myself](https://open.spotify.com/track/0JbISF5Bbv2RFU06L8IPgq) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/2SUvcR80jnK667oQwXvMgK) | 3:02 | 2022-03-04 | 2022-03-26 |
 | [Mars](https://open.spotify.com/track/7Km5QlfgnM75S04D1YgQRE) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [Mars](https://open.spotify.com/album/3SRUBIc8AS3JX5tE8ePPvv) | 2:43 | 2023-04-22 | 2023-04-30 |
 | [martyr](https://open.spotify.com/track/4BaYa88YtE0WBDVKfTeUTP) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [honey catching season](https://open.spotify.com/album/0tGwBl1H2dLqrOPceQ8CS0) | 2:25 | 2022-10-14 | 2022-11-19 |
+| [Match To Memories](https://open.spotify.com/track/1wmHClgdhhnvSXtjhnWQcg) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Match To Memories](https://open.spotify.com/album/5dSBJEEPuzDPulYXTjnugi) | 2:50 | 2024-07-26 |  |
 | [Maybe Life Is Good](https://open.spotify.com/track/1Yg1vxpbL10eBFoKXHrFMn) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Maybe Life Is Good](https://open.spotify.com/album/3JrelA49G1d8BdKIaJ64YO) | 3:10 | 2024-02-09 |  |
 | [maybe she was the one](https://open.spotify.com/track/5vCj5yC2xLp39AEWAjvXZg) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [SUPERNOVA](https://open.spotify.com/album/13iFjYadDQpqOgMeKo3R4d) | 2:45 | 2024-03-29 | 2024-06-22 |
 | [Me, Myself & I](https://open.spotify.com/track/5Up89wdeUunZgEqD8VqOTx) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Me, Myself & I](https://open.spotify.com/album/7kH8gHFaH8GMjaybGYAPC8) | 2:53 | 2023-06-30 | 2023-07-31 |

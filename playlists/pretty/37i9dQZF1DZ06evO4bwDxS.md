@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bwDxS.md) - [plain]
 
 > This is Sabrina Carpenter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,776 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,504 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bwDxS.md) - [plain]
 | 32 | [Paris](https://open.spotify.com/track/359HNzfOXhCMHB1pNKhyfH) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 3:38 |
 | 33 | [On Purpose](https://open.spotify.com/track/1Xmjr9Cft2ZdiGVZPxhqCs) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [EVOLution](https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R) | 3:58 |
 | 34 | [Honeymoon Fades](https://open.spotify.com/track/2o2R6ghiVJfAqEXnlmOihz) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Honeymoon Fades](https://open.spotify.com/album/1Jur7yH65lqd3d4IH66uEf) | 3:15 |
-| 35 | [Eyes Wide Open](https://open.spotify.com/track/4pbrp5dxpqjfaf4GiS6YuO) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Eyes Wide Open](https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df) | 3:12 |
+| 35 | [Alien](https://open.spotify.com/track/0RUTnY2B3s05fZuCHsNaUP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Alien](https://open.spotify.com/album/3LXVxMUrioKZcoheV2zT3u) | 2:54 |
 | 36 | [Almost Love](https://open.spotify.com/track/1yXFAwSMDZmX2ZyDLLyQ9s) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 3:32 |
-| 37 | [Alien](https://open.spotify.com/track/0RUTnY2B3s05fZuCHsNaUP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Alien](https://open.spotify.com/album/3LXVxMUrioKZcoheV2zT3u) | 2:54 |
+| 37 | [Eyes Wide Open](https://open.spotify.com/track/4pbrp5dxpqjfaf4GiS6YuO) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Eyes Wide Open](https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df) | 3:12 |
 | 38 | [Pushing 20](https://open.spotify.com/track/1xMHC2XPuDyBWU1ULY7eMA) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 2:46 |
-| 39 | [We'll Be The Stars](https://open.spotify.com/track/7lqkNvVxJdYDCSAwSJNzHs) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Eyes Wide Open](https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df) | 3:06 |
+| 39 | [Shadows](https://open.spotify.com/track/65RTUeyKsXuiIocxEzYhMY) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [EVOLution](https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R) | 2:52 |
 | 40 | [prfct](https://open.spotify.com/track/75wU86jr8iIiBVfD3kU3cU) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 2:46 |
-| 41 | [Shadows](https://open.spotify.com/track/65RTUeyKsXuiIocxEzYhMY) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [EVOLution](https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R) | 2:52 |
+| 41 | [We'll Be The Stars](https://open.spotify.com/track/7lqkNvVxJdYDCSAwSJNzHs) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Eyes Wide Open](https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df) | 3:06 |
 | 42 | [In My Bed](https://open.spotify.com/track/1FjD1jpm51dH5LzLvrDVPY) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 3:09 |
-| 43 | [The Middle of Starting Over](https://open.spotify.com/track/5wX5skuafFdeF31vpM6Krl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Eyes Wide Open](https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df) | 3:32 |
+| 43 | [Hands](https://open.spotify.com/track/7ydN6k1pLu6GRJsJpFXnYu) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Hands](https://open.spotify.com/album/0VlO7qV6DhO0qyVrDOMpUn) | 2:46 |
 | 44 | [Diamonds Are Forever](https://open.spotify.com/track/2KTdmzSdPipwFYdUdilmi3) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 3:49 |
-| 45 | [Clouds \(with Sabrina Carpenter\)](https://open.spotify.com/track/0nCfCedKIf6EjWFt55AXum) | [Fin Argus](https://open.spotify.com/artist/1oDUPFTxn5JyS8MxUe9ko4), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [CLOUDS \(Music From The Disney+ Original Movie\)](https://open.spotify.com/album/6wxPYC9LuoJCtKtFw4UDgf) | 3:05 |
-| 46 | [Hands](https://open.spotify.com/track/7ydN6k1pLu6GRJsJpFXnYu) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Hands](https://open.spotify.com/album/0VlO7qV6DhO0qyVrDOMpUn) | 2:46 |
+| 45 | [The Middle of Starting Over](https://open.spotify.com/track/5wX5skuafFdeF31vpM6Krl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Eyes Wide Open](https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df) | 3:32 |
+| 46 | [Clouds \(with Sabrina Carpenter\)](https://open.spotify.com/track/0nCfCedKIf6EjWFt55AXum) | [Fin Argus](https://open.spotify.com/artist/1oDUPFTxn5JyS8MxUe9ko4), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [CLOUDS \(Music From The Disney+ Original Movie\)](https://open.spotify.com/album/6wxPYC9LuoJCtKtFw4UDgf) | 3:05 |
 | 47 | [Take On the World \- Theme Song From "Girl Meets World"](https://open.spotify.com/track/5lz0NiPw32Gq4kMIUJvuw2) | [Rowan Blanchard](https://open.spotify.com/artist/45af7IeC0N5gQ9cyoIFyS6), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Take On the World \(Theme Song From "Girl Meets World"\)](https://open.spotify.com/album/2gfzrQkA6WzsX13kOhf3wU) | 3:12 |
 | 48 | [I Can't Stop Me](https://open.spotify.com/track/1AVVv4FgNLxQlV64j7dfP1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 3:42 |
 | 49 | [Smoke and Fire](https://open.spotify.com/track/67zT3NI4tTOj8GreXetF6s) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Smoke and Fire](https://open.spotify.com/album/6BNXa8shuN3ANF4P0J2ElP) | 3:45 |
 | 50 | [Run and Hide](https://open.spotify.com/track/24fhYqs2KtWbHfY4Ngdf5U) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [EVOLution](https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R) | 3:29 |
 
-Snapshot ID: `ZqbbgAAAAABtkXy8TJaqsu9vxgWumqZX`
+Snapshot ID: `ZqgtAAAAAAChhuvU/K79aNLuD0YuttoZ`

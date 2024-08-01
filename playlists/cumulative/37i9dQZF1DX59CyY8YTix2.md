@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 礼賛 \(Raisan\)
 
-1,690 songs - 4 day 9 hr 7 min
+1,691 songs - 4 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [JANAINDAYO](https://open.spotify.com/track/2Ee7RTET4ZrfKJl6gXZTup) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [JANAINDAYO](https://open.spotify.com/album/7zLiRSoGuRjO4d5Ebmkqy0) | 3:00 | 2023-03-21 | 2023-04-16 |
 | [Jersey \- 2024 Ver.](https://open.spotify.com/track/2sRIsLEsOaIZkys9An4ET4) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/6Hl7O9yuwyCItVzotgCqF2) | 2:34 | 2024-03-07 | 2024-04-19 |
 | [Jiyu to Ao](https://open.spotify.com/track/6ETYfx49mPSSv26SnmsrWJ) | [S.O.H.B](https://open.spotify.com/artist/5NS5sPLW7SVGYC9IU7QAMe) | [Jiyu to Ao](https://open.spotify.com/album/5OGoUraVvL8rva8PSSLCBD) | 3:54 | 2024-02-20 | 2024-02-28 |
+| [JO\-DEKI](https://open.spotify.com/track/1fu67FayCYkKtlxBgXE74w) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [JO\-DEKI](https://open.spotify.com/album/1kNoIaapMgPL7ztHDAQ7ru) | 3:25 | 2024-07-30 |  |
 | [joke](https://open.spotify.com/track/21WdQDRDK2S2IwiAjNwub9) | [YMB](https://open.spotify.com/artist/4sRqEn62eCbn4ltnSZMNN5) | [joke](https://open.spotify.com/album/0H9WMlnLhHHh4UWnAysQuD) | 3:59 | 2022-06-21 | 2022-06-24 |
 | [Jun Bride](https://open.spotify.com/track/2ZkIaIzNRR6P29fFBMwyYY) | [MOSHIMO](https://open.spotify.com/artist/2wfyx0p7LKFYZh2SaM9pXy) | [Jun Bride](https://open.spotify.com/album/61aUgqGjFt1lz6ZgNJX5u1) | 4:18 | 2022-05-31 | 2022-07-15 |
 | [Just Be Alive](https://open.spotify.com/track/4OpfbKpEcLBFDFR5084S8q) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Not Unusual](https://open.spotify.com/album/3gx3krICQA5Q62l56pEHcB) | 2:53 | 2023-02-15 | 2023-03-01 |

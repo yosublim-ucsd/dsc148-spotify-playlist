@@ -10819,6 +10819,28 @@
     },
     {
       "album": {
+        "name": "SERIO CON ESE Q",
+        "url": "https://open.spotify.com/album/3zo7zq13zlZS9rVG6MQbdf"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247468,
+      "name": "SERIO CON ESE Q",
+      "url": "https://open.spotify.com/track/4kCGXKoHyfvpSF535X4Z4p"
+    },
+    {
+      "album": {
         "name": "SexeSexy",
         "url": "https://open.spotify.com/album/4enqG7rEC8J7vwzgSgrwrN"
       },

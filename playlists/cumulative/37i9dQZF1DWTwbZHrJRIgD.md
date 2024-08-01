@@ -4,7 +4,7 @@
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Baar Baar Dekho
 
-243 songs - 14 hr 36 min
+244 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Deewani](https://open.spotify.com/track/1pDvtLmrjzr5FSQItRLWxA) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Deewani](https://open.spotify.com/album/4gRgJLrR888KFtXndMZwox) | 2:54 | 2023-06-13 | 2023-09-29 |
 | [Deva Deva \(From "Brahmastra"\)](https://open.spotify.com/track/0IGXY47K2ha3AHfX57wY1O) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Deva Deva \(From "Brahmastra"\)](https://open.spotify.com/album/6zwucxlWusEUCZt6DeQJCu) | 4:39 | 2022-08-08 |  |
 | [Dheere Dheere](https://open.spotify.com/track/1i1Ew3JJhufofKiGdmUUXa) | [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Dheere Dheere](https://open.spotify.com/album/5N9QvcZqH8CWDAs2BWlx5G) | 2:32 | 2024-06-27 |  |
+| [Diamond Ni](https://open.spotify.com/track/65KnUdLcbq2D8Ko9NtEGpW) | [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Diamond Ni](https://open.spotify.com/album/6wKaSU621x7uBILAM1s52O) | 3:12 | 2024-07-31 |  |
 | [Dil Jhoom](https://open.spotify.com/track/11qnwt18ZckPqchzK2I3U7) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Gadar 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Oxg8wfDhPIrEBM9Yz7ilI) | 5:04 | 2023-12-14 |  |
 | [Dil Kya Kare](https://open.spotify.com/track/648GXyKI62FhbeBq0levWr) | [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz) | [Salaam\-E\-Ishq](https://open.spotify.com/album/2AYTX7A8GfZrlVwRTdt3QZ) | 5:27 | 2023-02-20 | 2023-03-21 |
 | [Dil Na Jaaneya](https://open.spotify.com/track/6zyozkRLgDlqZIUJzCwkgP) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Dil Na Jaaneya \(From "Good Newwz"\)](https://open.spotify.com/album/0pC6hbRSbTDIoDKk9aIPPR) | 3:51 | 2022-03-09 | 2023-02-21 |

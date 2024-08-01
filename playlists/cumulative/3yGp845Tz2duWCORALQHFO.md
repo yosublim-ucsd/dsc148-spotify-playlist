@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-597 songs - 1 day 8 hr 18 min
+599 songs - 1 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Here With You](https://open.spotify.com/track/5X1kuzL26fVOPuYNHT5Qlk) | [Spencer Newell](https://open.spotify.com/artist/5TuPKF4PK5PDgGuR9PlGfv), [Lokka Vox](https://open.spotify.com/artist/7Me2tT0W9VHJHchAtFVc2o) | [Here With You](https://open.spotify.com/album/5BFCvht5psPKfvcfxYaOYQ) | 3:51 | 2024-07-19 | 2024-07-27 |
 | [Hertz Donut](https://open.spotify.com/track/6sAaasAUka6mKyyOTQUJPk) | [JAWNS](https://open.spotify.com/artist/5dXHoJzpLuiEug5rSXeCib) | [Dogwater](https://open.spotify.com/album/6SXovZDtjTYPfYTZ0yVxHx) | 2:36 | 2024-05-24 | 2024-06-01 |
 | [Hey Boy Hey Girl \- ARTBAT Remix](https://open.spotify.com/track/6ncIQAyVDdHePrHc8HxIjv) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Hey Boy Hey Girl \(ARTBAT Remix\)](https://open.spotify.com/album/5iPUTw7ZqnL3X53FdUVWmz) | 3:12 | 2024-05-24 | 2024-06-01 |
+| [Hide & Seek](https://open.spotify.com/track/6cKjxAOIX8SNzud5VAKcfo) | [Marco Nobel](https://open.spotify.com/artist/5PZS7XY3NZHDnI6g3wGyAB), [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8) | [Hide & Seek](https://open.spotify.com/album/6PU4paO1TSQrzDWhq8BayY) | 2:30 | 2024-07-31 |  |
 | [High On Love](https://open.spotify.com/track/0K2VANgf1sgRsgJA3W205u) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Anne Gudrun](https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5) | [High On Love](https://open.spotify.com/album/1RS0vAX4YynNRKyxl7DoAw) | 2:56 | 2024-05-17 | 2024-05-25 |
 | [High On Love](https://open.spotify.com/track/3bDVIsUxLpuw2qHieqR39r) | [Freak E Beatz](https://open.spotify.com/artist/72PA5rE1ByXjTijXCZA48C), [LK](https://open.spotify.com/artist/2elbMDQdGCUjl9TXuJxYDY), [Anouk Leijenaar](https://open.spotify.com/artist/2rJwTXCN34Q0jRUCABmQxD) | [High On Love](https://open.spotify.com/album/5wCB7hHP6DiAQ9XXWUWoUO) | 2:57 | 2024-07-12 | 2024-07-19 |
 | [Higher Up](https://open.spotify.com/track/0B9CS0dve3MmaA4RrmJ5n8) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Chromatic](https://open.spotify.com/album/5MNSUiIcRSdUhiyumzPDB3) | 3:30 | 2024-06-07 | 2024-06-17 |
@@ -598,6 +599,7 @@
 | [World On Fire \- AK Statement Remix](https://open.spotify.com/track/2SSEorBEUSk7rCgiBBC0II) | [Alex Kunnari](https://open.spotify.com/artist/5t8dw8yCWNAezW6wP3ZOGh), [Bo Bruce](https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK), [AK](https://open.spotify.com/artist/3h8Rryl61DV4vQhAn1cLVH) | [World On Fire \(AK Statement Remix\)](https://open.spotify.com/album/5mrGpj3QU9HhJwx3upSemN) | 3:37 | 2024-06-16 | 2024-06-21 |
 | [WUB WUB](https://open.spotify.com/track/0prmgC69Ik1WBF8u1gQvXv) | [JALES](https://open.spotify.com/artist/5sqLaObOwRwfBNBxde1IQi) | [WUB WUB](https://open.spotify.com/album/3YB8TeYA23aYdeKc7LlKgM) | 2:08 | 2024-06-28 | 2024-07-06 |
 | [XTC](https://open.spotify.com/track/6UQp47gAFE7KmAhh3eutMb) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [XTC](https://open.spotify.com/album/5hmgtCgjbaSRGHY9B2W1w2) | 2:56 | 2024-07-12 | 2024-07-19 |
+| [Ya Asfour](https://open.spotify.com/track/7owU1FnKJA6K8Mcs3uHpcW) | [m00seT](https://open.spotify.com/artist/5rog4USbIpk9T5O1WwyV7g) | [Ya Asfour](https://open.spotify.com/album/7kxdjB0pmeoKnkBHecujTl) | 3:20 | 2024-07-31 |  |
 | [you are mine](https://open.spotify.com/track/5T1tAWGyTnPTLBkukw0RGN) | [sincerely Lue.](https://open.spotify.com/artist/68bqztJbjbjG36rYWZ0D5Y) | [you are mine](https://open.spotify.com/album/5SOrvURLv4rO1D3Wyy0Oxz) | 3:54 | 2024-05-22 | 2024-05-25 |
 | [You Are My Eternal Sunshine](https://open.spotify.com/track/0RmJm2BhjxAx1OzHomxjPp) | [Natalie Gioia](https://open.spotify.com/artist/7Im3RJDHc4svDzWNlSvoAO) | [You Are My Eternal Sunshine](https://open.spotify.com/album/0MMxJ20KCSKyKwBeRAHRdq) | 2:52 | 2024-06-28 | 2024-07-06 |
 | [You're Gonna Be Ok](https://open.spotify.com/track/5zj9j1K3gxkXsrNMUWdyTR) | [Rave Jesus](https://open.spotify.com/artist/3mPHVEre3DiAHKuOCBFP8D), [SON.](https://open.spotify.com/artist/4mA4iGdnkLQWW3klqWHbsJ) | [You're Gonna Be Ok](https://open.spotify.com/album/0buWgSBlbHzW6oHHliF6wM) | 5:18 | 2024-05-17 | 2024-06-08 |

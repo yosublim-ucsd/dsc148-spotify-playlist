@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: NECTA\)
 
-182 songs - 10 hr 14 min
+183 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Breakthrough \- taalthechoi Remix](https://open.spotify.com/track/2qM9XN5Wm4qqfjdfTGEK0Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [taalthechoi](https://open.spotify.com/artist/0Wz3NC2nQgeV1titlYTj4C) | [Breakthrough](https://open.spotify.com/album/7dU0vceNngXWT2XZUU4y9W) | 3:22 | 2024-06-28 |  |
 | [Bring Me On](https://open.spotify.com/track/5RZVt5SZKOy6xA5ZJ9Nvzc) | [LMNTRX](https://open.spotify.com/artist/3EQhBwReP6TxlTT9z8yIjD), [CIRE](https://open.spotify.com/artist/4cqhNd5e30i06T1YWl2uiJ), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Bring Me On](https://open.spotify.com/album/3HDGnj2sxPt7xkKpUGr4Jf) | 2:38 | 2024-04-05 | 2024-06-29 |
 | [BT14U](https://open.spotify.com/track/7I9ZGWFLz1AqaLEZqdeqHf) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [BT14U](https://open.spotify.com/album/6gdt5PwXLMsneqABEgilwQ) | 4:56 | 2024-06-28 |  |
+| [Butterfly](https://open.spotify.com/track/5LRhz7ACO25w0sa1BXF6Av) | [ChoA](https://open.spotify.com/artist/4Nw7hgyeIEP5w5ehrMNKpq), [Juncoco](https://open.spotify.com/artist/1VO8DNH2pIBgyrjNz9V7Td) | [Butterfly](https://open.spotify.com/album/31mGG6ijRDvh5CccbgO8wT) | 2:53 | 2024-07-16 |  |
 | [Catch Me If You Can](https://open.spotify.com/track/3pwUWPoXCyCk3s4TiAMxk3) | [Division One \(KR\)](https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ) | [Catch Me If You Can](https://open.spotify.com/album/27NAxJQBKFRNNC3mpcunGv) | 2:41 | 2024-04-05 |  |
 | [CHEMISTRY \(ROMderful Remix\)](https://open.spotify.com/track/4IakLOd0LViDhdsWKQkPio) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [THE RMXS: VOL\. 1](https://open.spotify.com/album/1U9kCtpLIvR3ahateASXvW) | 3:02 | 2024-04-18 | 2024-06-21 |
 | [Chi Mat Ba Ram+Rollin’ \- Remix](https://open.spotify.com/track/7i6q0bO7oTHzoPU6aQso6u) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [<Queendom2> Part.1\-2](https://open.spotify.com/album/0EympgU3LD2R2I4N5jmJO1) | 3:47 | 2024-06-28 |  |
@@ -117,7 +118,7 @@
 | [MOONLIGHT \- MOTi Remix](https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW) | [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [MOONLIGHT \(MOTi Remix\)](https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2) | 2:43 | 2024-06-28 |  |
 | [Motion](https://open.spotify.com/track/32XcX4loha6c8lxw0K1Fqb) | [Take Note](https://open.spotify.com/artist/5uaYpqX82XlELErGUfxrJ0), [GUILTY PLEASURE](https://open.spotify.com/artist/6O9RTpNUVUK7uLAiqmfiWP) | [Motion](https://open.spotify.com/album/1z3YUVgVdYbL7TnMIvD1gM) | 4:16 | 2024-06-28 |  |
 | [My Universe \- David Guetta Remix](https://open.spotify.com/track/5FvxRvrQ8qzKjBJ6ST9aiu) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [My Universe \(David Guetta Remix\)](https://open.spotify.com/album/4LcW19D6W1nHpvcJV5s2QI) | 3:19 | 2024-06-28 |  |
-| [Naro](https://open.spotify.com/track/1jUhDjHa2En0BBDlxb43oK) | [H93](https://open.spotify.com/artist/4wQ45RryJ6QjKtVkgo2LVw), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Naro](https://open.spotify.com/album/7iMoYjNMFSKSW7ewvLBSqU) | 2:43 | 2024-06-28 |  |
+| [Naro](https://open.spotify.com/track/1jUhDjHa2En0BBDlxb43oK) | [H93](https://open.spotify.com/artist/4wQ45RryJ6QjKtVkgo2LVw), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Naro](https://open.spotify.com/album/7iMoYjNMFSKSW7ewvLBSqU) | 2:43 | 2024-06-28 | 2024-08-01 |
 | [Naughty \- Demicat Remix](https://open.spotify.com/track/45g8e6lIciCHoaEDNbY7nA) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl), [Demicat](https://open.spotify.com/artist/3Geym1qRlviofLxjf1L0BK) | [iScreaM Vol.3 : Naughty Remix](https://open.spotify.com/album/5LU3bwPyZz69FfMR7e71SU) | 3:53 | 2024-04-05 | 2024-06-29 |
 | [Next Level \- Habstrakt Remix](https://open.spotify.com/track/34r29cNzzV4elD0XTz1ihT) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [iScreaM Vol.10 : Next Level Remixes](https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY) | 3:20 | 2024-04-05 | 2024-06-29 |
 | [Next Level \- IMLAY Remix](https://open.spotify.com/track/1OscRS80PF5n0hDkI9S1F2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) | [iScreaM Vol.10 : Next Level Remixes](https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY) | 3:45 | 2024-04-05 |  |

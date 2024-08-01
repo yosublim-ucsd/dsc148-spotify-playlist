@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best new pop music by independent artists and labels. Cover: f5ve Artwork by Paola Saliby",
+  "description": "The best new pop music by independent artists and labels. Cover: Hayes Warner Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 279365,
       "name": "A DAY IN THE LIFE",
       "url": "https://open.spotify.com/track/0PCxSSljCWFwstkOpjvJV7"
@@ -6354,7 +6354,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 144210,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/0fSPLwcm9PonqFKLgV08Yd"
@@ -6448,6 +6448,24 @@
       "duration_ms": 169505,
       "name": "BKGW",
       "url": "https://open.spotify.com/track/1OD9c17q9QQrWMirigs4HG"
+    },
+    {
+      "album": {
+        "name": "Black Girls Wanna Have Fun",
+        "url": "https://open.spotify.com/album/2B9StN4ktbzDyz0ZDHUbWm"
+      },
+      "artists": [
+        {
+          "name": "billie-angela",
+          "url": "https://open.spotify.com/artist/1USzYJ98DrLK7yVTyS9Zpm"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Black Girls Wanna Have Fun",
+      "url": "https://open.spotify.com/track/2S9Mi8kKLdfD5Xu0ypYKb5"
     },
     {
       "album": {
@@ -14472,7 +14490,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 207310,
       "name": "Directions",
       "url": "https://open.spotify.com/track/2Np85vuU5afD0yvi7cfl4r"
@@ -14490,7 +14508,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 176000,
       "name": "Dirt",
       "url": "https://open.spotify.com/track/58qj1rF4vvNsPjvYTN5g8Y"
@@ -22730,7 +22748,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 171235,
       "name": "Good Riddance",
       "url": "https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh"
@@ -24300,7 +24318,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 141368,
       "name": "Heartbreak In Heaven",
       "url": "https://open.spotify.com/track/3i3I7HyCJ3UxdJTY5LTaWs"
@@ -29984,7 +30002,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 215237,
       "name": "Inbetweener",
       "url": "https://open.spotify.com/track/4wYAbzIHl74dcW8ALGGyXK"
@@ -33530,7 +33548,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 230899,
       "name": "Like You Used To",
       "url": "https://open.spotify.com/track/6l6ycuWiB5kaDRAObqzedo"
@@ -35764,7 +35782,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 194799,
       "name": "lowdown",
       "url": "https://open.spotify.com/track/4s10wX7nZoqgP8erbDwekP"
@@ -41733,6 +41751,24 @@
     },
     {
       "album": {
+        "name": "America's Most Wanted",
+        "url": "https://open.spotify.com/album/3H8ZwRlhK13VDQC2ajSlh5"
+      },
+      "artists": [
+        {
+          "name": "Gabi Sklar",
+          "url": "https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Oh No!",
+      "url": "https://open.spotify.com/track/4kClzMyYm3f8gRkjBsGh0s"
+    },
+    {
+      "album": {
         "name": "Ohlala",
         "url": "https://open.spotify.com/album/6Ag2gD0bir2FPITJkXb4st"
       },
@@ -42837,6 +42873,24 @@
     },
     {
       "album": {
+        "name": "over it",
+        "url": "https://open.spotify.com/album/1Grpol4fv3YbPPBD2ONir7"
+      },
+      "artists": [
+        {
+          "name": "Brooke Stilla",
+          "url": "https://open.spotify.com/artist/7IwXjNoUzzZOUKcM8CArGi"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173551,
+      "name": "over it",
+      "url": "https://open.spotify.com/track/7b9dLyAEFGweixx7vfFbkN"
+    },
+    {
+      "album": {
         "name": "Over It",
         "url": "https://open.spotify.com/album/01Wvi5LrVAAtPweGj2908C"
       },
@@ -43858,6 +43912,24 @@
       "duration_ms": 175723,
       "name": "People Pleaser",
       "url": "https://open.spotify.com/track/37JkA8VfadzIqlp9WN7THv"
+    },
+    {
+      "album": {
+        "name": "Peppermint Sky",
+        "url": "https://open.spotify.com/album/2qRdKjU7UL9ozU9AX2iCNR"
+      },
+      "artists": [
+        {
+          "name": "Abi Carter",
+          "url": "https://open.spotify.com/artist/6ryJRp2gIl77hK36D8tz2m"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169870,
+      "name": "Peppermint Sky",
+      "url": "https://open.spotify.com/track/2jabv3amUzqPxqWInOQEHK"
     },
     {
       "album": {
@@ -45022,6 +45094,24 @@
       "duration_ms": 194646,
       "name": "Precious Pressure",
       "url": "https://open.spotify.com/track/02ZDVwSe8nFrCmhLaZruIN"
+    },
+    {
+      "album": {
+        "name": "Predator",
+        "url": "https://open.spotify.com/album/2kAKa8z3EuCnkadmNXeewO"
+      },
+      "artists": [
+        {
+          "name": "Hayes Warner",
+          "url": "https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181720,
+      "name": "Predator",
+      "url": "https://open.spotify.com/track/50einjgl3ERzlcGJPT5mWM"
     },
     {
       "album": {
@@ -50570,7 +50660,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 206675,
       "name": "Sinkin",
       "url": "https://open.spotify.com/track/5opTpapyE4tiRwhdr1dSgj"
@@ -53375,6 +53465,24 @@
     },
     {
       "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/0m7OQwuKOgU6lSYWbn4zWd"
+      },
+      "artists": [
+        {
+          "name": "Kat Penkin",
+          "url": "https://open.spotify.com/artist/1T5oohg2vb4T6d5kAdaCgs"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208923,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/2CITpCGqUIWmV0Zg8h18Lj"
+    },
+    {
+      "album": {
         "name": "Strangers With Memories",
         "url": "https://open.spotify.com/album/3U5CTSgIUq1iWoS1DGM0kI"
       },
@@ -53856,6 +53964,24 @@
       "duration_ms": 130214,
       "name": "Sugarcoat",
       "url": "https://open.spotify.com/track/7va86yuoSzZlEyVzrPBXP6"
+    },
+    {
+      "album": {
+        "name": "SugarCoats",
+        "url": "https://open.spotify.com/album/0t7AjDjrpEVaS3g99olQ6c"
+      },
+      "artists": [
+        {
+          "name": "NEVE",
+          "url": "https://open.spotify.com/artist/2sZ1bsMMDGUvXBvihXLZn2"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236332,
+      "name": "SugarCoats",
+      "url": "https://open.spotify.com/track/2NFSMU8wDY54hAKGM6ERUv"
     },
     {
       "album": {
@@ -57758,7 +57884,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 154450,
       "name": "This Isn't Over",
       "url": "https://open.spotify.com/track/019G5CuO3xezSEL6XaVtu7"
@@ -60510,6 +60636,24 @@
       "duration_ms": 206114,
       "name": "van gogh",
       "url": "https://open.spotify.com/track/5rfuxu9SeVji8qyeeltjI6"
+    },
+    {
+      "album": {
+        "name": "VCR Home Video",
+        "url": "https://open.spotify.com/album/7qBk7vFJkG2K73yGruM5Ow"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203711,
+      "name": "VCR Home Video",
+      "url": "https://open.spotify.com/track/12Tsnabj0nuyrLwG7yvxDb"
     },
     {
       "album": {
@@ -65068,6 +65212,24 @@
       "duration_ms": 156772,
       "name": "Young Wild & Alive",
       "url": "https://open.spotify.com/track/3dOL0hA5Lr3d5OWCPFVlZT"
+    },
+    {
+      "album": {
+        "name": "young wild & free",
+        "url": "https://open.spotify.com/album/4P0267ISb7jOxFTe6Gxe4L"
+      },
+      "artists": [
+        {
+          "name": "Harvey Brittain",
+          "url": "https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "young wild & free",
+      "url": "https://open.spotify.com/track/4YNmGqdF81pCTRO2YWp0ST"
     },
     {
       "album": {

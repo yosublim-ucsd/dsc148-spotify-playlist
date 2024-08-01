@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-715 songs - 1 day 22 hr 58 min
+717 songs - 1 day 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Arithmophobia](https://open.spotify.com/track/2gOfUuZ0FMpFVvCsjy0omI) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [The Madness Of Many](https://open.spotify.com/album/4Xm2aSISFdqLoJJACkZFUl) | 6:01 | 2024-05-31 |  |
 | [Army of Me](https://open.spotify.com/track/3vEmpJQC2p8h0U3OiBufQm) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 3:54 | 2022-10-01 |  |
 | [As Good As New](https://open.spotify.com/track/71or1G6CbfIttRDnBnTTAL) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 3:24 | 2023-01-18 |  |
+| [ascension](https://open.spotify.com/track/62MSbv3IJNlQdN2NMfOGny) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 3:12 | 2024-07-31 |  |
 | [Assata's Code](https://open.spotify.com/track/2aSkCiAqywd3LMmanvsYXi) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [Diani](https://open.spotify.com/artist/4g4T0gCzryRmUOfYDgrvyD) | [Liberation 2](https://open.spotify.com/album/0zsoWKnMDhi7TgMMST7sYn) | 2:02 | 2024-04-14 |  |
 | [Astral Weeks \- 1999 Remaster](https://open.spotify.com/track/0vz4iTEfsp2lunsRJeMzjj) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Astral Weeks](https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz) | 7:06 | 2022-07-31 | 2023-04-10 |
 | [Auctioneers](https://open.spotify.com/track/38OamTicvJLe8yYnO9E8uy) | [Mickey Hart](https://open.spotify.com/artist/4eh3NWjKDBI81nFl9uhWtU) | [RAMU](https://open.spotify.com/album/7IR0Hl68yWwXDJzTIQnwbn) | 2:41 | 2023-03-23 | 2023-07-09 |
@@ -92,6 +93,7 @@
 | [Better Git It in Your Soul](https://open.spotify.com/track/16nJl8NnriCJxraco5Zssm) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 7:20 | 2022-04-21 | 2023-12-14 |
 | [Better in My Memory](https://open.spotify.com/track/0eWCi968jvfFZiLSMiOeFD) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Rebecca Black Was Here](https://open.spotify.com/album/6vXI5FEqyxKPD2AFJd6rkC) | 2:50 | 2024-02-15 | 2024-06-12 |
 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 | 2023-05-22 | 2023-06-03 |
+| [Bi Lamban](https://open.spotify.com/track/6zONDwWrSN3qynCci8v98d) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [New Ancient Strings](https://open.spotify.com/album/4QYwF3SPWWDwoiS8SnKX4X) | 5:00 | 2024-07-31 |  |
 | [Bio18](https://open.spotify.com/track/4P0ne8HWGFCV8gac5zcEh4) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Changephobia](https://open.spotify.com/album/7v5Vuz4HyHldAgTG9NpcFY) | 4:01 | 2024-01-17 | 2024-02-08 |
 | [Bird's Nest](https://open.spotify.com/track/5ms47HpSovxUpNrHVxaAs3) | [Jordaan Mason](https://open.spotify.com/artist/5zInXkhCwoT9HGWgeKjKS6), [Jordaan Mason & The Horse Museum](https://open.spotify.com/artist/5EQ6WS0sO77AIhthug6S0U) | [Divorce Lawyers I Shaved My Head](https://open.spotify.com/album/6uxDtA96cuZ2FbPCT3EL40) | 4:02 | 2023-06-09 |  |
 | [Birds](https://open.spotify.com/track/4qrv4KMBrGVcaN5NU1TSlF) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Dead Cities, Red Seas & Lost Ghosts](https://open.spotify.com/album/44Sy39wQjQFX0jJOufXTvv) | 0:53 | 2023-06-03 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 170053,
+  "num_followers": 170065,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqbbgAAAAABHitXs+aMMzuv3jctqHNqC",
+  "snapshot_id": "ZqgtAAAAAACKGOfuuUPPys74Ep03A0mm",
   "tracks": [
     {
       "added_at": null,
@@ -935,6 +935,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Palomino",
+        "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 159546,
+      "name": "In His Arms",
+      "url": "https://open.spotify.com/track/3UAPebwkTgNpfZ6XUdHmzg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Cowboy Rides Away: Live From AT&T Stadium",
         "url": "https://open.spotify.com/album/2L2L5dwy8JCw6zqslBaASk"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 208160,
       "name": "All My Ex's Live In Texas - Live",
       "url": "https://open.spotify.com/track/61FfiL8hYFXh5qe7tuBsar"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Palomino",
-        "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 159546,
-      "name": "In His Arms",
-      "url": "https://open.spotify.com/track/3UAPebwkTgNpfZ6XUdHmzg"
     },
     {
       "added_at": null,

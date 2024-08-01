@@ -1,6 +1,6 @@
 {
   "description": "Voc\u00ea n\u00e3o para quando est\u00e1 cansado, s\u00f3 quando terminar!",
-  "num_followers": 2035,
+  "num_followers": 2061,
   "original_name": "Pegando Pesado",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
-        "name": "Disgusting",
-        "url": "https://open.spotify.com/album/7dh7xmoU6FjAIQgrBbltXV"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 213576,
-      "name": "In Between",
-      "url": "https://open.spotify.com/track/03jdl5GTBhKsgB1Yw8mVPh"
-    },
-    {
-      "added_at": "2024-07-05 13:31:30",
-      "album": {
         "name": "Satellite (U.S. Version)",
         "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 205026,
       "name": "Alive - Chris Lord-Alge Mix",
       "url": "https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr"
+    },
+    {
+      "added_at": "2024-07-05 13:31:30",
+      "album": {
+        "name": "Disgusting",
+        "url": "https://open.spotify.com/album/7dh7xmoU6FjAIQgrBbltXV"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 213576,
+      "name": "In Between",
+      "url": "https://open.spotify.com/track/03jdl5GTBhKsgB1Yw8mVPh"
     },
     {
       "added_at": "2024-07-05 13:31:30",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
-        "name": "Koi No Yokan",
-        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 164986,
-      "name": "Swerve City",
-      "url": "https://open.spotify.com/track/2OUR8g12h5qsGDs1v5lqvp"
-    },
-    {
-      "added_at": "2024-07-05 13:31:30",
-      "album": {
         "name": "Unleashed",
         "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 213586,
       "name": "Back from the Dead",
       "url": "https://open.spotify.com/track/7y9l4rJLsXQMHciCNSgZmi"
+    },
+    {
+      "added_at": "2024-07-05 13:31:30",
+      "album": {
+        "name": "Koi No Yokan",
+        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 164986,
+      "name": "Swerve City",
+      "url": "https://open.spotify.com/track/2OUR8g12h5qsGDs1v5lqvp"
     },
     {
       "added_at": "2024-07-05 13:31:30",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
-        "name": "Soldiers",
-        "url": "https://open.spotify.com/album/6wI2K6ApwaqRa80EEQlLzZ"
-      },
-      "artists": [
-        {
-          "name": "Otherwise",
-          "url": "https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa"
-        }
-      ],
-      "duration_ms": 241848,
-      "name": "Soldiers",
-      "url": "https://open.spotify.com/track/1iWgFnhR0oW5Mup8yXDAPW"
-    },
-    {
-      "added_at": "2024-07-05 13:31:30",
-      "album": {
         "name": "Asylum (Deluxe Edition)",
         "url": "https://open.spotify.com/album/23Kf2cl3kz7pFNKhl4iMp9"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 204826,
       "name": "Warrior",
       "url": "https://open.spotify.com/track/2TNPagu8Z4zvDOpmnktF00"
+    },
+    {
+      "added_at": "2024-07-05 13:31:30",
+      "album": {
+        "name": "Soldiers",
+        "url": "https://open.spotify.com/album/6wI2K6ApwaqRa80EEQlLzZ"
+      },
+      "artists": [
+        {
+          "name": "Otherwise",
+          "url": "https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa"
+        }
+      ],
+      "duration_ms": 241848,
+      "name": "Soldiers",
+      "url": "https://open.spotify.com/track/1iWgFnhR0oW5Mup8yXDAPW"
     },
     {
       "added_at": "2024-07-05 13:31:30",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL"
-      },
-      "artists": [
-        {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
-        },
-        {
-          "name": "Rob Halford",
-          "url": "https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy"
-        }
-      ],
-      "duration_ms": 247373,
-      "name": "Black Wedding (feat. Rob Halford)",
-      "url": "https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY"
-    },
-    {
-      "added_at": "2024-07-05 13:31:30",
-      "album": {
         "name": "Around the Fur",
         "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
       },
@@ -1331,18 +1311,22 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
-        "name": "The Black and White album",
-        "url": "https://open.spotify.com/album/3UpE4fszD4goeSoyZXq4dg"
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL"
       },
       "artists": [
         {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        },
+        {
+          "name": "Rob Halford",
+          "url": "https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy"
         }
       ],
-      "duration_ms": 205386,
-      "name": "Tick Tick Boom",
-      "url": "https://open.spotify.com/track/7xl2ZaOnKAxJyrkIQe2S43"
+      "duration_ms": 247373,
+      "name": "Black Wedding (feat. Rob Halford)",
+      "url": "https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY"
     },
     {
       "added_at": "2024-07-05 13:31:30",
@@ -1383,6 +1367,22 @@
       "duration_ms": 190706,
       "name": "Narcissistic Cannibal (feat. Skrillex & Kill the Noise)",
       "url": "https://open.spotify.com/track/65XY6Cx0263J5BPnY8mPyE"
+    },
+    {
+      "added_at": "2024-07-05 13:31:30",
+      "album": {
+        "name": "The Black and White album",
+        "url": "https://open.spotify.com/album/3UpE4fszD4goeSoyZXq4dg"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 205386,
+      "name": "Tick Tick Boom",
+      "url": "https://open.spotify.com/track/7xl2ZaOnKAxJyrkIQe2S43"
     },
     {
       "added_at": "2024-07-05 13:31:30",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
-        "name": "Billy Talent III",
-        "url": "https://open.spotify.com/album/58IwNbkCL527REhNX7emWv"
+        "name": "Immortalized (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS"
       },
       "artists": [
         {
-          "name": "Billy Talent",
-          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
         }
       ],
-      "duration_ms": 229533,
-      "name": "Devil on My Shoulder",
-      "url": "https://open.spotify.com/track/6M2EVaf2a9qhnY04CVvO95"
+      "duration_ms": 257836,
+      "name": "Immortalized",
+      "url": "https://open.spotify.com/track/7FChJg2hPG2uAZ3hmDg6xL"
     },
     {
       "added_at": "2024-07-05 13:31:30",
@@ -1499,18 +1499,34 @@
     {
       "added_at": "2024-07-05 13:31:30",
       "album": {
-        "name": "Immortalized (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS"
+        "name": "Billy Talent III",
+        "url": "https://open.spotify.com/album/58IwNbkCL527REhNX7emWv"
       },
       "artists": [
         {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+          "name": "Billy Talent",
+          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
         }
       ],
-      "duration_ms": 257836,
-      "name": "Immortalized",
-      "url": "https://open.spotify.com/track/7FChJg2hPG2uAZ3hmDg6xL"
+      "duration_ms": 229533,
+      "name": "Devil on My Shoulder",
+      "url": "https://open.spotify.com/track/6M2EVaf2a9qhnY04CVvO95"
+    },
+    {
+      "added_at": "2024-07-05 13:31:30",
+      "album": {
+        "name": "Jomsviking",
+        "url": "https://open.spotify.com/album/79GLbXCHnsOG9TBzvtS3sy"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "duration_ms": 263786,
+      "name": "Raise Your Horns",
+      "url": "https://open.spotify.com/track/5gNyrx8elXaXXs3vFC1ufZ"
     },
     {
       "added_at": "2024-07-05 13:31:30",
@@ -1547,22 +1563,6 @@
       "duration_ms": 244400,
       "name": "My Body",
       "url": "https://open.spotify.com/track/1KDYN3odJHnj9pqGHN3FVs"
-    },
-    {
-      "added_at": "2024-07-05 13:31:30",
-      "album": {
-        "name": "Jomsviking",
-        "url": "https://open.spotify.com/album/79GLbXCHnsOG9TBzvtS3sy"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 263786,
-      "name": "Raise Your Horns",
-      "url": "https://open.spotify.com/track/5gNyrx8elXaXXs3vFC1ufZ"
     },
     {
       "added_at": "2024-07-05 13:31:30",

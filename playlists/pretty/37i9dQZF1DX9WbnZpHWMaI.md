@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: Girl Ultra
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,638 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,650 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 11 | [set me free](https://open.spotify.com/track/6OwL6fdrcvoy92PPHo5wGP) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [composure](https://open.spotify.com/album/4Wbv9vgwg26DkAVDimPzxP) | 2:32 |
 | 12 | [You Know How](https://open.spotify.com/track/6g6KOjQq93bl3Ujeog9OeJ) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [You Know How](https://open.spotify.com/album/4OaqBumCibL27CLCFu3VxP) | 5:32 |
 | 13 | [Joy](https://open.spotify.com/track/2oKFozpMCSlgRUgzI63TlZ) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE) | [Joy](https://open.spotify.com/album/5yWgQgQfvVzrbd9P7rS00J) | 3:32 |
-| 14 | [Corazón](https://open.spotify.com/track/5ePlrWLaehge6VpooLOiwt) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Corazón](https://open.spotify.com/album/4217Ui5bxrqSH3vuGrT20q) | 3:00 |
+| 14 | [Corazón / Death by Disco Pt 2](https://open.spotify.com/track/5ePlrWLaehge6VpooLOiwt) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Corazón / Death by Disco Pt 2](https://open.spotify.com/album/4217Ui5bxrqSH3vuGrT20q) | 3:00 |
 | 15 | [Make Up](https://open.spotify.com/track/5huDOE63jdNZTiBODndFc1) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Make Up](https://open.spotify.com/album/6DfanlPWlL7jCWIUIISj8R) | 2:31 |
 | 16 | [Body \(feat\. Tima Dee\)](https://open.spotify.com/track/1HUUzEhzjOd26lGtcOvlyE) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP) | [Body \(feat\. Tima Dee\)](https://open.spotify.com/album/2MpvK6jRaDyD4y54OgbX58) | 2:45 |
 | 17 | [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 |

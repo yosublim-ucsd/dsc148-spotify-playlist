@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Jérémy Frerot au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,829 likes - 58 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,835 likes - 58 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 25 | [ZÉRO PAR MOIS](https://open.spotify.com/track/2NnB2R2wQgOrkOvnJWV4eM) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD), [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [ZÉRO PAR MOIS](https://open.spotify.com/album/72aUzvdkjxOJWmuQpxAx3z) | 2:21 |
 | 26 | [Peace & Love](https://open.spotify.com/track/2Y2DiA8VA05lw1SDNCcVhL) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebel Queen](https://open.spotify.com/album/6LHuKanB3fdLZhTQNdB2l1) | 3:48 |
 | 27 | [John Wayne \(feat\. Metro Boomin\)](https://open.spotify.com/track/4mfaQcqYhlv0X9xF2bDWxG) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [John Wayne \(feat\. Metro Boomin\)](https://open.spotify.com/album/4iJfINkNSOSt9sGoJ3FPNx) | 2:54 |
-| 28 | [Las Vegas](https://open.spotify.com/track/1IQ7K7VlR6vbATMo5Tt7SB) | [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU) | [Las Vegas](https://open.spotify.com/album/0F1vJ3NMMSBBgEITmjZEjx) | 1:57 |
+| 28 | [las vegas](https://open.spotify.com/track/1IQ7K7VlR6vbATMo5Tt7SB) | [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU), [BGRZ](https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz) | [las vegas](https://open.spotify.com/album/0F1vJ3NMMSBBgEITmjZEjx) | 1:57 |
 | 29 | [Rain Can't Reach Us](https://open.spotify.com/track/6raq4es8xYh6Rp8OJNBFYj) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Rain Can't Reach Us](https://open.spotify.com/album/4Zz6Sy6FAQWKQTgQMWiHTS) | 4:56 |
 | 30 | [Time Well Wasted](https://open.spotify.com/track/3aiuUpr6enuPjTyZcFhUlS) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Time Well Wasted](https://open.spotify.com/album/5QS64j2i3oaXlx3LdUwU45) | 2:50 |
 | 31 | [SCREAM MY NAME](https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [DISTRACTION / SCREAM MY NAME](https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy) | 2:40 |

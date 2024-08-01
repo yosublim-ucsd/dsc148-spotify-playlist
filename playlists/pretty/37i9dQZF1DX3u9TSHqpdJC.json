@@ -1,13 +1,173 @@
 {
-  "description": "The best new pop music by independent artists and labels. Cover: f5ve Artwork by Paola Saliby",
-  "num_followers": 213249,
+  "description": "The best new pop music by independent artists and labels. Cover: Hayes Warner Artwork by Paola Saliby",
+  "num_followers": 213354,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqCCsgAAAAAFsYE74eVxeLb0ubyBNavQ",
+  "snapshot_id": "Zqm2wAAAAAAiQtP+iuFaVa3tlYFwu0u8",
   "tracks": [
+    {
+      "added_at": "2024-07-31 04:00:00",
+      "album": {
+        "name": "Predator",
+        "url": "https://open.spotify.com/album/2kAKa8z3EuCnkadmNXeewO"
+      },
+      "artists": [
+        {
+          "name": "Hayes Warner",
+          "url": "https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH"
+        }
+      ],
+      "duration_ms": 181720,
+      "name": "Predator",
+      "url": "https://open.spotify.com/track/50einjgl3ERzlcGJPT5mWM"
+    },
+    {
+      "added_at": "2024-07-31 04:00:00",
+      "album": {
+        "name": "VCR Home Video",
+        "url": "https://open.spotify.com/album/7qBk7vFJkG2K73yGruM5Ow"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 203711,
+      "name": "VCR Home Video",
+      "url": "https://open.spotify.com/track/12Tsnabj0nuyrLwG7yvxDb"
+    },
+    {
+      "added_at": "2024-07-31 04:00:00",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/0m7OQwuKOgU6lSYWbn4zWd"
+      },
+      "artists": [
+        {
+          "name": "Kat Penkin",
+          "url": "https://open.spotify.com/artist/1T5oohg2vb4T6d5kAdaCgs"
+        }
+      ],
+      "duration_ms": 208923,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/2CITpCGqUIWmV0Zg8h18Lj"
+    },
+    {
+      "added_at": "2024-07-31 04:00:00",
+      "album": {
+        "name": "over it",
+        "url": "https://open.spotify.com/album/1Grpol4fv3YbPPBD2ONir7"
+      },
+      "artists": [
+        {
+          "name": "Brooke Stilla",
+          "url": "https://open.spotify.com/artist/7IwXjNoUzzZOUKcM8CArGi"
+        }
+      ],
+      "duration_ms": 173551,
+      "name": "over it",
+      "url": "https://open.spotify.com/track/7b9dLyAEFGweixx7vfFbkN"
+    },
+    {
+      "added_at": "2024-07-31 04:00:00",
+      "album": {
+        "name": "Peppermint Sky",
+        "url": "https://open.spotify.com/album/2qRdKjU7UL9ozU9AX2iCNR"
+      },
+      "artists": [
+        {
+          "name": "Abi Carter",
+          "url": "https://open.spotify.com/artist/6ryJRp2gIl77hK36D8tz2m"
+        }
+      ],
+      "duration_ms": 169870,
+      "name": "Peppermint Sky",
+      "url": "https://open.spotify.com/track/2jabv3amUzqPxqWInOQEHK"
+    },
+    {
+      "added_at": "2024-07-31 04:00:00",
+      "album": {
+        "name": "America's Most Wanted",
+        "url": "https://open.spotify.com/album/3H8ZwRlhK13VDQC2ajSlh5"
+      },
+      "artists": [
+        {
+          "name": "Gabi Sklar",
+          "url": "https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Oh No!",
+      "url": "https://open.spotify.com/track/4kClzMyYm3f8gRkjBsGh0s"
+    },
+    {
+      "added_at": "2024-07-31 04:00:00",
+      "album": {
+        "name": "Black Girls Wanna Have Fun",
+        "url": "https://open.spotify.com/album/2B9StN4ktbzDyz0ZDHUbWm"
+      },
+      "artists": [
+        {
+          "name": "billie-angela",
+          "url": "https://open.spotify.com/artist/1USzYJ98DrLK7yVTyS9Zpm"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "Black Girls Wanna Have Fun",
+      "url": "https://open.spotify.com/track/2S9Mi8kKLdfD5Xu0ypYKb5"
+    },
+    {
+      "added_at": "2024-07-31 04:00:00",
+      "album": {
+        "name": "SugarCoats",
+        "url": "https://open.spotify.com/album/0t7AjDjrpEVaS3g99olQ6c"
+      },
+      "artists": [
+        {
+          "name": "NEVE",
+          "url": "https://open.spotify.com/artist/2sZ1bsMMDGUvXBvihXLZn2"
+        }
+      ],
+      "duration_ms": 236332,
+      "name": "SugarCoats",
+      "url": "https://open.spotify.com/track/2NFSMU8wDY54hAKGM6ERUv"
+    },
+    {
+      "added_at": "2024-07-31 04:00:00",
+      "album": {
+        "name": "young wild & free",
+        "url": "https://open.spotify.com/album/4P0267ISb7jOxFTe6Gxe4L"
+      },
+      "artists": [
+        {
+          "name": "Harvey Brittain",
+          "url": "https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "young wild & free",
+      "url": "https://open.spotify.com/track/4YNmGqdF81pCTRO2YWp0ST"
+    },
+    {
+      "added_at": "2024-07-31 04:00:00",
+      "album": {
+        "name": "Directions",
+        "url": "https://open.spotify.com/album/49xouspXNkB6RuO5B7LV81"
+      },
+      "artists": [
+        {
+          "name": "Emma Rosen",
+          "url": "https://open.spotify.com/artist/540pn6wxgwVQHPuIgTdyzC"
+        }
+      ],
+      "duration_ms": 207310,
+      "name": "Directions",
+      "url": "https://open.spotify.com/track/2Np85vuU5afD0yvi7cfl4r"
+    },
     {
       "added_at": "2024-07-24 04:00:00",
       "album": {
@@ -135,22 +295,6 @@
       "duration_ms": 174004,
       "name": "Fun!",
       "url": "https://open.spotify.com/track/4fYn1czdTYCUghXdvIeHg3"
-    },
-    {
-      "added_at": "2024-07-24 04:00:00",
-      "album": {
-        "name": "Inbetweener",
-        "url": "https://open.spotify.com/album/5ppaoO6GLCSKM9gRpJhp4w"
-      },
-      "artists": [
-        {
-          "name": "Hanna Rautzenberg",
-          "url": "https://open.spotify.com/artist/4KsVHZ3XBKV7bIXF8x8q3y"
-        }
-      ],
-      "duration_ms": 215237,
-      "name": "Inbetweener",
-      "url": "https://open.spotify.com/track/4wYAbzIHl74dcW8ALGGyXK"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -451,22 +595,6 @@
       "duration_ms": 140125,
       "name": "LAUREL CANYON",
       "url": "https://open.spotify.com/track/4xiV0w3ymIK2OomdbumBu9"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "A DAY IN THE LIFE",
-        "url": "https://open.spotify.com/album/1rU7Y7BEYb8vuHBZFysGch"
-      },
-      "artists": [
-        {
-          "name": "SWO",
-          "url": "https://open.spotify.com/artist/6UvJUIvpXyFT0frVb5Dkio"
-        }
-      ],
-      "duration_ms": 279365,
-      "name": "A DAY IN THE LIFE",
-      "url": "https://open.spotify.com/track/0PCxSSljCWFwstkOpjvJV7"
     },
     {
       "added_at": "2024-07-10 04:00:00",
@@ -855,22 +983,6 @@
     {
       "added_at": "2024-07-10 04:00:00",
       "album": {
-        "name": "Bitter",
-        "url": "https://open.spotify.com/album/4yhCKFELdJwQhU9wAobBBK"
-      },
-      "artists": [
-        {
-          "name": "Madison Bequer",
-          "url": "https://open.spotify.com/artist/6cG80YmaXOteWYLTF8zQED"
-        }
-      ],
-      "duration_ms": 144210,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/0fSPLwcm9PonqFKLgV08Yd"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
         "name": "Burning Bones",
         "url": "https://open.spotify.com/album/1K8Ec1RazTtm8JFrt6YDf9"
       },
@@ -1035,38 +1147,6 @@
     {
       "added_at": "2024-07-10 04:00:00",
       "album": {
-        "name": "Dirt",
-        "url": "https://open.spotify.com/album/5FeVOvxRFQYkK2B64z9srE"
-      },
-      "artists": [
-        {
-          "name": "Tender Misfit",
-          "url": "https://open.spotify.com/artist/1fkaNNQRGflvAClVJM0b6I"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Dirt",
-      "url": "https://open.spotify.com/track/58qj1rF4vvNsPjvYTN5g8Y"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "Sinkin",
-        "url": "https://open.spotify.com/album/55Y7xlyJwEfrkytjrMCwFN"
-      },
-      "artists": [
-        {
-          "name": "Alvah",
-          "url": "https://open.spotify.com/artist/4KAw10GL1lbhp4C9XfRv6y"
-        }
-      ],
-      "duration_ms": 206675,
-      "name": "Sinkin",
-      "url": "https://open.spotify.com/track/5opTpapyE4tiRwhdr1dSgj"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
         "name": "TRUCE?",
         "url": "https://open.spotify.com/album/1JeVht8TRLyjSiZMOaKO2P"
       },
@@ -1179,22 +1259,6 @@
     {
       "added_at": "2024-07-10 04:00:00",
       "album": {
-        "name": "Good Riddance",
-        "url": "https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL"
-      },
-      "artists": [
-        {
-          "name": "Anna Lille",
-          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
-        }
-      ],
-      "duration_ms": 171235,
-      "name": "Good Riddance",
-      "url": "https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
         "name": "Rough Love",
         "url": "https://open.spotify.com/album/315te35WGbPTh4fYj1INfL"
       },
@@ -1207,54 +1271,6 @@
       "duration_ms": 261937,
       "name": "Rough Love",
       "url": "https://open.spotify.com/track/1uFZAtVtDcBxLMRTecIsFI"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "JESTERMAN",
-        "url": "https://open.spotify.com/album/2uhSDUavjgBCB46C5rYqUQ"
-      },
-      "artists": [
-        {
-          "name": "Keli Holiday",
-          "url": "https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM"
-        }
-      ],
-      "duration_ms": 194799,
-      "name": "lowdown",
-      "url": "https://open.spotify.com/track/4s10wX7nZoqgP8erbDwekP"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "Like You Used To",
-        "url": "https://open.spotify.com/album/7j3SAf1ObSZg3aWi1tkssR"
-      },
-      "artists": [
-        {
-          "name": "Hunter Daily",
-          "url": "https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW"
-        }
-      ],
-      "duration_ms": 230899,
-      "name": "Like You Used To",
-      "url": "https://open.spotify.com/track/6l6ycuWiB5kaDRAObqzedo"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "This Isn't Over",
-        "url": "https://open.spotify.com/album/6Pp7FsNjfsVdZfdo3ejSOk"
-      },
-      "artists": [
-        {
-          "name": "Abi Carter",
-          "url": "https://open.spotify.com/artist/6ryJRp2gIl77hK36D8tz2m"
-        }
-      ],
-      "duration_ms": 154450,
-      "name": "This Isn't Over",
-      "url": "https://open.spotify.com/track/019G5CuO3xezSEL6XaVtu7"
     },
     {
       "added_at": "2024-07-10 04:00:00",
@@ -1559,22 +1575,6 @@
       "duration_ms": 224503,
       "name": "Dead Inside",
       "url": "https://open.spotify.com/track/06jCPWlKJ0q8geGRTpud87"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "Heartbreak In Heaven",
-        "url": "https://open.spotify.com/album/4SUAVzKxDfY7XcoZ5BPMC3"
-      },
-      "artists": [
-        {
-          "name": "Gabi Sklar",
-          "url": "https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj"
-        }
-      ],
-      "duration_ms": 141368,
-      "name": "Heartbreak In Heaven",
-      "url": "https://open.spotify.com/track/3i3I7HyCJ3UxdJTY5LTaWs"
     },
     {
       "added_at": "2024-07-10 04:00:00",

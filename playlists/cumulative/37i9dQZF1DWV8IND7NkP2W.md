@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-745 songs - 1 day 9 hr 33 min
+746 songs - 1 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [chill oil](https://open.spotify.com/track/3zitR68UQPvSJXhj0VhVKB) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [chill oil](https://open.spotify.com/album/1EBszIXQGrExYYVJl0UaYV) | 2:35 | 2023-03-09 | 2024-04-19 |
 | [chill oil](https://open.spotify.com/track/7hLSrLW8vJvg51JQMTIueR) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [chill oil](https://open.spotify.com/album/58iP6i6bIiuqaaVF06sfK6) | 2:35 | 2023-03-09 | 2024-07-02 |
 | [China Town](https://open.spotify.com/track/701Pk1KCm0fvaaIvDOyxa9) | [Storkes](https://open.spotify.com/artist/3UTdFWlJlDUIdrUz8LSKom) | [China Town](https://open.spotify.com/album/4ntLlHvS9lEOx3KS2Dz9cR) | 2:32 | 2021-12-23 | 2023-03-23 |
-| [CHOP SUMMER](https://open.spotify.com/track/28EVgaOqYync8V1kOi63ds) | [Tha Omedetaz](https://open.spotify.com/artist/3tYjCmnVPzQP8lzbZzJfzL) | [YAZZY BEATS 暑中見舞](https://open.spotify.com/album/58aQfV4UZbPw8KDsUWAGkW) | 2:10 | 2021-12-23 |  |
+| [CHOP SUMMER](https://open.spotify.com/track/28EVgaOqYync8V1kOi63ds) | [Tha Omedetaz](https://open.spotify.com/artist/3tYjCmnVPzQP8lzbZzJfzL) | [YAZZY BEATS 暑中見舞](https://open.spotify.com/album/58aQfV4UZbPw8KDsUWAGkW) | 2:10 | 2021-12-23 | 2024-08-01 |
 | [choppy](https://open.spotify.com/track/6NqmlKB9tFfCIPof1uVcbk) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [choppy](https://open.spotify.com/album/1GQkAyBiePE7ZJ5N8HAAPh) | 2:13 | 2023-08-24 | 2023-09-29 |
 | [CHOUCHIN \(SOUND TOUR\)](https://open.spotify.com/track/484jkFwdfoURJBypnOLCl0) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31) | [CHOUCHIN \(SOUND TOUR\)](https://open.spotify.com/album/0OKZQaezckePqyi8OHSKQH) | 1:10 | 2022-04-14 | 2022-07-24 |
 | [Chōchin](https://open.spotify.com/track/5EUpp47BC9dw2iQM15hEps) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3), [Loafy Building](https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs) | [Chōchin](https://open.spotify.com/album/4VUkZyMyR0ZZM2cGPFMHFn) | 3:05 | 2021-12-23 |  |
@@ -133,6 +133,7 @@
 | [Coffee break with him](https://open.spotify.com/track/475cCO8ac84X7j34ilKNgo) | [CRAM](https://open.spotify.com/artist/2kuzzESZpVYXEbJPF1o82D), [matatabi](https://open.spotify.com/artist/789AFt8ySj9w5pcaSniyMz) | [LOOPER](https://open.spotify.com/album/5Xnk9x6LUOR2qdERcEcuG7) | 1:59 | 2021-12-23 | 2022-07-28 |
 | [Cold Concrete](https://open.spotify.com/track/4BoN3OsPTcoSYxM0WHVJks) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Cold Concrete](https://open.spotify.com/album/6v2LK3CCHzFmZKQea6UYPV) | 3:11 | 2022-03-03 | 2024-07-27 |
 | [Cold Lot](https://open.spotify.com/track/2CzYZfWwm2YF42vlHKCnOU) | [Burgundy Groove](https://open.spotify.com/artist/5KV5ps8Us33zxiMIED2dtt) | [Cold Lot](https://open.spotify.com/album/5zSkglZonnik5z9Bsr97xQ) | 1:40 | 2021-12-23 | 2022-01-01 |
+| [Come Check](https://open.spotify.com/track/36Dswj5u2J8eNiwTI3JILf) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Come Check](https://open.spotify.com/album/1gV3dWkfZ5Zz5ZLP4g3DrJ) | 2:26 | 2024-07-26 |  |
 | [Conflicted](https://open.spotify.com/track/1JZqTki6yClAdFr7tVq4YY) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Contrast](https://open.spotify.com/album/1UCeyBq2MJ7jjh7JG5IKMb) | 3:39 | 2022-07-28 | 2023-12-08 |
 | [Conflicted](https://open.spotify.com/track/4Rex03OZQCSqIgqWbmebTs) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Conflicted](https://open.spotify.com/album/0B4Zt2LmDh1aowk0YA5etb) | 3:39 | 2021-12-23 | 2022-07-25 |
 | [Consciousness \- Instrumental](https://open.spotify.com/track/3DTrG2Jw4UhKUwGNH5mfZn) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Consciousness \(Instrumental\)](https://open.spotify.com/album/2iCaKInX41qUE9dvpNDhzE) | 1:43 | 2021-12-23 | 2022-06-14 |

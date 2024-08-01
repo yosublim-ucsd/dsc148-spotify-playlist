@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,526 likes - 493 songs - 1 day 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,525 likes - 493 songs - 1 day 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 53 | [Jump \(with Trippie Redd\)](https://open.spotify.com/track/2OvV4NjEBRE9v8Oo7QeUCq) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Jump \(with Trippie Redd\)](https://open.spotify.com/album/2CH8od3NBJpsvqTdY3H1HH) | 3:27 |
 | 54 | [Hands](https://open.spotify.com/track/7ydN6k1pLu6GRJsJpFXnYu) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Hands](https://open.spotify.com/album/0VlO7qV6DhO0qyVrDOMpUn) | 2:46 |
 | 55 | [Nurse's Office](https://open.spotify.com/track/4fRzunTZ51UC0oNwoVqiKB) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 3:22 |
-| 56 | [I'm not Pretty](https://open.spotify.com/track/3promGTTwsn1N5D6RzaFMV) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [I'm not Pretty](https://open.spotify.com/album/7kpMsNJoM5X8kntRP4OzFg) | 1:58 |
-| 57 | [River](https://open.spotify.com/track/1yampU2t2LNWzEsCpUgHYJ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 2:42 |
+| 56 | [River](https://open.spotify.com/track/1yampU2t2LNWzEsCpUgHYJ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 2:42 |
+| 57 | [I'm not Pretty](https://open.spotify.com/track/3promGTTwsn1N5D6RzaFMV) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [I'm not Pretty](https://open.spotify.com/album/7kpMsNJoM5X8kntRP4OzFg) | 1:58 |
 | 58 | [Boyfriend](https://open.spotify.com/track/4QnC1bIaMSfDQvF4XDhV5M) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare \(Deluxe\)](https://open.spotify.com/album/3rA5CgccCbmCnJEzwGnDea) | 2:41 |
 | 59 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/5UHHuxxYFnuE5KBbpl4Hzu) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/3wLMnrlPtVSADxalu9kIxK) | 2:47 |
 | 60 | [Boys Will Be Boys](https://open.spotify.com/track/0vQcyuMEfRBd21ojZ62N2L) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 2:46 |
@@ -198,8 +198,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 188 | [Texas Man](https://open.spotify.com/track/6fDAGY50m6cnVBY8aUTi9d) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 3:44 |
 | 189 | [My Own Dance](https://open.spotify.com/track/1JWQRZr8rlmTAb74rFBUO5) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 2:41 |
 | 190 | [The Way You Don't Look At Me](https://open.spotify.com/track/4nD97NVwkp8pNWmhW2kgHd) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 2:28 |
-| 191 | [Don't Go](https://open.spotify.com/track/493DYJ6bdsVtHCpWBQlADr) | [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Don't Go](https://open.spotify.com/album/3m3QK4iaF4yBwce3cKMIpb) | 2:47 |
-| 192 | [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 |
+| 191 | [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 |
+| 192 | [Don't Go](https://open.spotify.com/track/493DYJ6bdsVtHCpWBQlADr) | [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Don't Go](https://open.spotify.com/album/3m3QK4iaF4yBwce3cKMIpb) | 2:47 |
 | 193 | [Born to Love U \(feat\. Jussie Smollett\)](https://open.spotify.com/track/66M603Q0gXv8qaM3IFiPrA) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jussie Smollett](https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm) | [Empire: The Complete Season 2](https://open.spotify.com/album/28L0OF7HJKdFUP5VZgdiz5) | 3:35 |
 | 194 | [Asking 4 It](https://open.spotify.com/track/42MC4Kh9LtGCUnjfUyY6S2) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 3:30 |
 | 195 | [Jinx](https://open.spotify.com/track/5SSOj3aJM1Vfee50grKpdp) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/47QfGuT6GNz7RLEyiJ6CLt) | 3:37 |
@@ -468,8 +468,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 458 | [Misery](https://open.spotify.com/track/6mCQhDWwQTnBJKIJ8bhJOH) | [Felix Marc](https://open.spotify.com/artist/0j6w8JsaZsx5Vs3qECKnAx) | [Alternative Facts \(Extended Edition\)](https://open.spotify.com/album/0vvuFLhI7FYveR3egAvsRf) | 5:28 |
 | 459 | [Hands Up](https://open.spotify.com/track/1834BpeEkLr1D4QECkvYvL) | [Semi Precious Weapons](https://open.spotify.com/artist/1AXeYOFxlCjSmmMdp4myG9) | [Aviation](https://open.spotify.com/album/3WUxIaY2CBU8H1swmdywD9) | 3:56 |
 | 460 | [Cherry Red](https://open.spotify.com/track/00CaWrS7SEQjRBDAhEeWtY) | [Victoria Duffield](https://open.spotify.com/artist/6J2Mlo8s6JMsJQr35ulpvI), [Jerzee](https://open.spotify.com/artist/1qtzQcRd0zCQspwUSxYHyV) | [Accelerate](https://open.spotify.com/album/56awP1qtGRq7w0REJbPBAE) | 3:01 |
-| 461 | [Vegas](https://open.spotify.com/track/2Fxx2DILYteh39yff8X5zq) | [Semi Precious Weapons](https://open.spotify.com/artist/1AXeYOFxlCjSmmMdp4myG9) | [Aviation](https://open.spotify.com/album/3WUxIaY2CBU8H1swmdywD9) | 2:55 |
-| 462 | [Funk Is On The One](https://open.spotify.com/track/4Isde3N1AFgQDqhFiYHraP) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 2:38 |
+| 461 | [Funk Is On The One](https://open.spotify.com/track/4Isde3N1AFgQDqhFiYHraP) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 2:38 |
+| 462 | [Vegas](https://open.spotify.com/track/2Fxx2DILYteh39yff8X5zq) | [Semi Precious Weapons](https://open.spotify.com/artist/1AXeYOFxlCjSmmMdp4myG9) | [Aviation](https://open.spotify.com/album/3WUxIaY2CBU8H1swmdywD9) | 2:55 |
 | 463 | [More To Learn](https://open.spotify.com/track/6aznIyz45o0yYLvMEHxRTj) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 2:46 |
 | 464 | [New Shoes](https://open.spotify.com/track/21Adcn1tBh797XAeqNtkrB) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 3:05 |
 | 465 | [Pyro](https://open.spotify.com/track/4bqosCAIpXVsOIHlnDWHff) | [Plasty](https://open.spotify.com/artist/6w2XClDdEAT8f9VX8JwW8g) | [Pyro](https://open.spotify.com/album/2ql83hLRHyncD1c3QakaYt) | 3:05 |
@@ -502,4 +502,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 492 | [Living A Lie](https://open.spotify.com/track/2mI14DzPxj1TZ3xIn5YQmI) | [Justin A\. G.](https://open.spotify.com/artist/5hEVcpUrC8MQdXTPv502jC) | [Here's To You, Here's To Me](https://open.spotify.com/album/1AlBjy74LvUvDCWXlgiJpb) | 2:29 |
 | 493 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 
-Snapshot ID: `AbYG4gAAAAC+RTFw/74Alxn/cqww4QRr`
+Snapshot ID: `AbYMwgAAAAA+6KZJTUXhDf2xnbLGBCR1`

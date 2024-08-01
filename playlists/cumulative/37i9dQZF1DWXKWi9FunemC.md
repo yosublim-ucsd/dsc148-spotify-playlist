@@ -4,7 +4,7 @@
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-205 songs - 14 hr 41 min
+206 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [I Know Just What You Need](https://open.spotify.com/track/0CBxM0vs1cT1YIw0GNnpuO) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [Rebekah Autumn](https://open.spotify.com/artist/20ed7TTssoM14jZNDm7dJJ) | [Love Secrets \(B\-Sides\)](https://open.spotify.com/album/1czXmSklT1QRyz24ZZes6e) | 3:33 | 2020-08-31 | 2024-04-19 |
 | [I Know Just What You Need](https://open.spotify.com/track/4yKLqYXt2tQaBw4qta5iMs) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [Rebekah Autumn](https://open.spotify.com/artist/20ed7TTssoM14jZNDm7dJJ) | [I Know Just What You Need](https://open.spotify.com/album/5Sn2cIEG2QQcTFAdrJ29BV) | 3:33 | 2020-08-31 | 2022-07-29 |
 | [I Need You](https://open.spotify.com/track/4X6BavAGe2L598JpttiAMV) | [Momentum Music](https://open.spotify.com/artist/2kpba1AKOu5D6aj3Wp4aKt) | [I Need You](https://open.spotify.com/album/24yRBhQPXjdpBY3ehksRvA) | 6:27 | 2020-08-31 | 2022-12-18 |
-| [I Never Knew](https://open.spotify.com/track/3nEEv82nVunaz0kGgyFWV8) | [Ben Ford](https://open.spotify.com/artist/10WbhRSfvwdGvzcOx0Ezgi) | [The Longing](https://open.spotify.com/album/6IpXfQ3ZV5OPxtfIUqvgMj) | 4:49 | 2020-08-31 |  |
+| [I Never Knew](https://open.spotify.com/track/3nEEv82nVunaz0kGgyFWV8) | [Ben Ford](https://open.spotify.com/artist/10WbhRSfvwdGvzcOx0Ezgi) | [The Longing](https://open.spotify.com/album/6IpXfQ3ZV5OPxtfIUqvgMj) | 4:49 | 2020-08-31 | 2024-08-01 |
 | [I See It Now](https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [I See It Now](https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D) | 3:09 | 2023-07-28 |  |
 | [I Surrender All \(reimagined\)](https://open.spotify.com/track/6voEoqZGWL69eZODjoVwkl) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE), [Matias Ruiz](https://open.spotify.com/artist/5WNzw88slVRQWQmnZTImUm), [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB) | [I Surrender All \(reimagined\)](https://open.spotify.com/album/5K31OWi27YzTGzchaIv3na) | 3:31 | 2023-07-28 | 2024-06-24 |
 | [I Want You](https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC) | [Jon Thurlow](https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B) | [Different Story](https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6) | 4:04 | 2020-08-31 |  |
@@ -125,6 +125,7 @@
 | [Love Together](https://open.spotify.com/track/5zfHzOElny9FesLftcnDoj) | [Holly Arrowsmith](https://open.spotify.com/artist/3vMKpgD6qgvEqjd7hW3r2X) | [A Dawn I Remember](https://open.spotify.com/album/7jMUzNnJXrJwfQK1puksoE) | 4:14 | 2020-08-31 | 2022-07-25 |
 | [Low](https://open.spotify.com/track/6QItZ6weEG0JXFb0Lm714q) | [Andrea Marie](https://open.spotify.com/artist/5J59mmHP5QFfepuvMgL2gS) | [Low](https://open.spotify.com/album/2IeNCiNUv60xjYPqYVqBFB) | 3:39 | 2020-08-31 | 2023-04-23 |
 | [Magnified \(Acoustic\)](https://open.spotify.com/track/4hA4SYhcGs5EuxHYW5VKgT) | [Ginny Owens](https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn) | [Magnified \(Acoustic\)](https://open.spotify.com/album/1ubwV6NBMwJxIFJgFSEYI4) | 3:31 | 2020-08-31 |  |
+| [Majesty](https://open.spotify.com/track/3E9U2sZ8cqCCVrPzJ6KGDq) | [Eliyah Black](https://open.spotify.com/artist/1exHNJVSFIsw0NR3OYk6fj), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [Majesty](https://open.spotify.com/album/5iRJ5hu2x25swvNmHOkYV6) | 3:17 | 2024-06-23 |  |
 | [Meadow](https://open.spotify.com/track/3cUCBZ7sjEtAsTw52gk0hm) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Meadow](https://open.spotify.com/album/7yi1fVFIgsSkBrhSMAmnAf) | 3:45 | 2020-08-31 |  |
 | [More Than Anything](https://open.spotify.com/track/6EDa0a42UOJHgcy4WIqwMY) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Samuel Lane](https://open.spotify.com/artist/7gjXbYoKHoNcdxVCBWpEKo) | [More Than Anything](https://open.spotify.com/album/0XZ65qQkiiz1TMDkZAsm92) | 7:17 | 2020-08-31 | 2022-07-29 |
 | [More Than Anything](https://open.spotify.com/track/7i0MfRdyGrNddq0H1dqSHR) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Samuel Lane](https://open.spotify.com/artist/7gjXbYoKHoNcdxVCBWpEKo) | [Here](https://open.spotify.com/album/2KA8x4fFCG9HGhmFszrorh) | 7:17 | 2020-08-31 | 2024-04-19 |

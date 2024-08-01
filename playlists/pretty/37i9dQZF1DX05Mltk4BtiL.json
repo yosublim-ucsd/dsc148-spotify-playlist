@@ -1,6 +1,6 @@
 {
   "description": "Nur tote Fische schwimmen mit dem Strom. Cover: Yu",
-  "num_followers": 112805,
+  "num_followers": 112808,
   "original_name": "Gegen den Strom",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Leon",
-        "url": "https://open.spotify.com/album/1vquxy6exp4vtCQnEFNgms"
-      },
-      "artists": [
-        {
-          "name": "Faber",
-          "url": "https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM"
-        }
-      ],
-      "duration_ms": 195800,
-      "name": "Leon",
-      "url": "https://open.spotify.com/track/4hu0vB1JaMHGaV4SJADNZs"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
         "name": "Vom Rand der Zeit",
         "url": "https://open.spotify.com/album/6dOkDpALZWcL8uuic3LjoH"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 203693,
       "name": "So schreibt man seinen Song",
       "url": "https://open.spotify.com/track/0r10l0wnJ9SwV0rnQxBORe"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Leon",
+        "url": "https://open.spotify.com/album/1vquxy6exp4vtCQnEFNgms"
+      },
+      "artists": [
+        {
+          "name": "Faber",
+          "url": "https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM"
+        }
+      ],
+      "duration_ms": 195800,
+      "name": "Leon",
+      "url": "https://open.spotify.com/track/4hu0vB1JaMHGaV4SJADNZs"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -823,26 +823,18 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "I.C.E. 2 (feat. Kryptik Joe and Rocko Schamoni)",
-        "url": "https://open.spotify.com/album/74u87GFTbOrj1PiRtY8Nh1"
+        "name": "Panik",
+        "url": "https://open.spotify.com/album/1cgt9r3pmssq7iwJ1WoDux"
       },
       "artists": [
         {
-          "name": "Chilly Gonzales",
-          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
-        },
-        {
-          "name": "Kryptik Joe",
-          "url": "https://open.spotify.com/artist/1NmLear8QhZBLkRxsnY1iR"
-        },
-        {
-          "name": "Rocko Schamoni",
-          "url": "https://open.spotify.com/artist/1Enw1OhPzkUmYl8daiaBtS"
+          "name": "Graustufe West",
+          "url": "https://open.spotify.com/artist/74MTnOR9ipJaUNf31xWPLF"
         }
       ],
-      "duration_ms": 166866,
-      "name": "I.C.E. 2 (feat. Kryptik Joe and Rocko Schamoni)",
-      "url": "https://open.spotify.com/track/3fcIZ7Ia4Rr4DdBlWfjfDh"
+      "duration_ms": 212630,
+      "name": "Panik",
+      "url": "https://open.spotify.com/track/3TO48iUyVSruxeUotD1NyK"
     }
   ],
   "unique_name": "Gegen den Strom",

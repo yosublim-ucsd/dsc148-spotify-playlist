@@ -4,7 +4,7 @@
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 
-389 songs - 20 hr 6 min
+390 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Brown Cozy Noise \- Seamless](https://open.spotify.com/track/00N4DgM8so0Pn1Pdb0m9Kc) | [Aileron](https://open.spotify.com/artist/2KETNse3N25ZwsHhq2iQnt) | [Brown Cozy Noise](https://open.spotify.com/album/3w4ELmY4aGFZKyNGO1BfZ9) | 2:55 | 2022-10-26 |  |
 | [Brown Focus Noise 400 Hz Soft Q](https://open.spotify.com/track/5AqHhTMO9sO70kzWu2ji3a) | [Aileron](https://open.spotify.com/artist/2KETNse3N25ZwsHhq2iQnt) | [Brown Cozy Noise](https://open.spotify.com/album/3w4ELmY4aGFZKyNGO1BfZ9) | 3:02 | 2022-10-26 |  |
 | [Brown Heavenly Noise](https://open.spotify.com/track/0SSchGW5zpdFghrt6pcVff) | [Natura Ferox](https://open.spotify.com/artist/4pxwvJBcr1c7RBwb1sZ2pH) | [Brown Heavenly Noise](https://open.spotify.com/album/0iBBk21u80JLwr4TO0tRGk) | 3:08 | 2022-10-26 |  |
+| [Brown Hues, Relaxing Noise](https://open.spotify.com/track/365JGMDr5NjXBlSNtRjma6) | [Serenity Soundscapes](https://open.spotify.com/artist/6ZEAX6DjITey4CqOpT2JgM) | [Brown Hues, Relaxing Noise](https://open.spotify.com/album/3lFsYM1gcIkdnk4ZMmqamN) | 2:46 | 2024-07-26 |  |
 | [Brown Low Frequencies](https://open.spotify.com/track/6mcsuKDL1ipawTzRLeK7aj) | [Bits & Noise](https://open.spotify.com/artist/7kcK3nZZHSgYrQLdexefpQ) | [Sleepy Brown Noise](https://open.spotify.com/album/3qoesic2OL9fJxpQkndILq) | 2:21 | 2023-01-20 |  |
 | [Brown Mellow Noise 360 Hz Light Q \- Seamless](https://open.spotify.com/track/3igT2HOsfVZgYTsTObLbxZ) | [Colorix](https://open.spotify.com/artist/0WFH9vqXxzL2VxCzHmWkdI) | [Brown Mellow Noise](https://open.spotify.com/album/2fXEf1Cp6hgnf9KnPYbp3k) | 3:00 | 2022-10-26 |  |
 | [Brown Noise \(200 Hz\)](https://open.spotify.com/track/0cGQpeLYa5Q0nbAlJah5UJ) | [The Floating Mind](https://open.spotify.com/artist/6RQp0xCGTdNkcTUhHvrtd8) | [Brown Noise For Relaxation](https://open.spotify.com/album/5lK8PAZsfA1l0muiYOjeos) | 3:32 | 2022-02-03 | 2022-12-17 |
@@ -319,7 +320,7 @@
 | [Private Jet Sleep](https://open.spotify.com/track/7rl3oe00C0iWzsdmRoIsuG) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [Deep Brown Noise](https://open.spotify.com/album/7lh4bkGQuYliAX27V3xKZa) | 3:19 | 2022-01-07 | 2024-07-27 |
 | [Pure Brown Noise](https://open.spotify.com/track/4sAMnCiEZoSfXBAmuukrlm) | [Le Noise](https://open.spotify.com/artist/08Mp5YOajqKd7QKAOeGuV4) | [Brown](https://open.spotify.com/album/4Jebo0PjnxQnFXVujlwr7M) | 2:40 | 2022-01-07 | 2022-12-17 |
 | [Pure Brown Noise](https://open.spotify.com/track/0koZthYkbZKXhmHYY1QKv7) | [Sleep In Space](https://open.spotify.com/artist/5yU8rZ0JcBNXpkdrxQpvwr) | [Brown Space Noise](https://open.spotify.com/album/6kYLgA9IHEYkeE26gbAJUp) | 3:14 | 2022-06-14 | 2023-01-21 |
-| [Quiet Brown](https://open.spotify.com/track/1Uf6E9MeNKjS2NV9Rspy9m) | [Atmospheric Endeavors](https://open.spotify.com/artist/3TNKOriU72JCIKSKVaebNC) | [Quiet Brown](https://open.spotify.com/album/5Nq9IHASAlMGwi3DLnLd64) | 2:38 | 2024-07-26 |  |
+| [Quiet Brown](https://open.spotify.com/track/1Uf6E9MeNKjS2NV9Rspy9m) | [Atmospheric Endeavors](https://open.spotify.com/artist/3TNKOriU72JCIKSKVaebNC) | [Quiet Brown](https://open.spotify.com/album/5Nq9IHASAlMGwi3DLnLd64) | 2:38 | 2024-07-26 | 2024-08-01 |
 | [Quiet Brown Noise](https://open.spotify.com/track/6tMXX0yekCeisaQkTTGoF9) | [Natural Samples](https://open.spotify.com/artist/47MfVCrL7T19D2H9T7C2Rs) | [Quiet Brown Noise](https://open.spotify.com/album/6lPmQqQikxuJ3Do9s2Jyes) | 3:00 | 2022-10-26 |  |
 | [Reduced Energy Brown Noise](https://open.spotify.com/track/4WpiXUXve9hrR0OO2I0xoH) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Sleep Sounds: Brown Noise](https://open.spotify.com/album/47q5pcy72hiv5bCM28B7rY) | 3:14 | 2022-10-26 |  |
 | [Regalis Brown Noise](https://open.spotify.com/track/4fLEjj85wPf6QGkOHV7368) | [Fortuna](https://open.spotify.com/artist/2gbFrZ06uCjIZsE1LS46uV) | [Concentration Meditation](https://open.spotify.com/album/5lZM5fS8a4N7JV1yqrz16U) | 2:48 | 2022-01-07 | 2022-06-15 |

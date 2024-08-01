@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Malcolm Jiyane Tree-O. Artwork: Joy Yamusangie.",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: oreglo. Artwork: Joy Yamusangie.",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -1327,6 +1327,24 @@
     },
     {
       "album": {
+        "name": "Alright Again",
+        "url": "https://open.spotify.com/album/4hnE3kBCgn8giMhgGPCV3W"
+      },
+      "artists": [
+        {
+          "name": "TILAR",
+          "url": "https://open.spotify.com/artist/6Sfc2PHahTkIKAzGM0wudB"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279759,
+      "name": "Alright Again",
+      "url": "https://open.spotify.com/track/4lQscRgRJFqxiAnRnHvwvC"
+    },
+    {
+      "album": {
         "name": "Altered Time",
         "url": "https://open.spotify.com/album/3ewzyQrB4kCYON9KVE5eVN"
       },
@@ -2322,7 +2340,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 353216,
       "name": "Bai\u00e3o de Gude",
       "url": "https://open.spotify.com/track/79DPA13wwNZJ8DOCupG6DK"
@@ -8927,6 +8945,24 @@
     },
     {
       "album": {
+        "name": "Fly Without You",
+        "url": "https://open.spotify.com/album/2oNgGNQ7OpEwjy3R8BP9e4"
+      },
+      "artists": [
+        {
+          "name": "Adam Bronstein",
+          "url": "https://open.spotify.com/artist/2iac100gufdHQ9T4Smph09"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292361,
+      "name": "Fly Without You",
+      "url": "https://open.spotify.com/track/7Ip9Aoj20ZoFBde4I0iJaQ"
+    },
+    {
+      "album": {
         "name": "Flyer",
         "url": "https://open.spotify.com/album/6MJUzDazCAbOKrLIJAml4z"
       },
@@ -12351,6 +12387,36 @@
     },
     {
       "album": {
+        "name": "It's Not Easy",
+        "url": "https://open.spotify.com/album/6Mmajs7loGaaExggiFY3Wu"
+      },
+      "artists": [
+        {
+          "name": "kare.pkg",
+          "url": "https://open.spotify.com/artist/1zNDc5aiWfgLbGjuzVwvor"
+        },
+        {
+          "name": "Moralify",
+          "url": "https://open.spotify.com/artist/4Ld9jKPphcNhjVH0LT2vQV"
+        },
+        {
+          "name": "Riccardo Oliva",
+          "url": "https://open.spotify.com/artist/3199MCKg3T4Hau16EXF9YA"
+        },
+        {
+          "name": "Moshun",
+          "url": "https://open.spotify.com/artist/7lPkehVfwXG33uW7QQqsJS"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237163,
+      "name": "It's Not Easy",
+      "url": "https://open.spotify.com/track/6Ed9h10MAWN91XlA87mVr0"
+    },
+    {
+      "album": {
         "name": "iv. \u00c9tude de Mars",
         "url": "https://open.spotify.com/album/1uit0kW0MMt9wqcTJfPBYX"
       },
@@ -14232,6 +14298,24 @@
       "duration_ms": 482337,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/5jqW4spT3uTT2iwksQfLSI"
+    },
+    {
+      "album": {
+        "name": "Ligurian Storm",
+        "url": "https://open.spotify.com/album/0wGyEGT5vUjSxQQwS2lczM"
+      },
+      "artists": [
+        {
+          "name": "SHOLTO",
+          "url": "https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Ligurian Storm",
+      "url": "https://open.spotify.com/track/6SlYU3fzGI9DeV1YiExpTI"
     },
     {
       "album": {
@@ -17458,7 +17542,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 263812,
       "name": "Nurture",
       "url": "https://open.spotify.com/track/28LBPCMASiwjiK1Sp8wfMF"
@@ -17636,7 +17720,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 311686,
       "name": "Ode Two",
       "url": "https://open.spotify.com/track/1CoNi5SlHAPZLGHsL57ril"
@@ -21048,7 +21132,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 199924,
       "name": "SAKURA",
       "url": "https://open.spotify.com/track/0NIEDjp3hwEeKetEvqy16x"
@@ -21118,7 +21202,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 156838,
       "name": "Samo",
       "url": "https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H"
@@ -21883,6 +21967,24 @@
     },
     {
       "album": {
+        "name": "SILLAGE",
+        "url": "https://open.spotify.com/album/7iCIhI2857lXGGIFVH6hqW"
+      },
+      "artists": [
+        {
+          "name": "FELLAS",
+          "url": "https://open.spotify.com/artist/0tPp444HptUz3awCO8IAB8"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263424,
+      "name": "SILLAGE",
+      "url": "https://open.spotify.com/track/4NXri3qT0jPNTSySEJSIwf"
+    },
+    {
+      "album": {
         "name": "Spirits",
         "url": "https://open.spotify.com/album/20RiUnVH3jrxH5RhtiQoJf"
       },
@@ -21938,7 +22040,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 113571,
       "name": "Simmer Up",
       "url": "https://open.spotify.com/track/5U8OTyD30HJb8DIhKDcVHn"
@@ -22698,7 +22800,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 364024,
       "name": "South African Jam",
       "url": "https://open.spotify.com/track/54WxmHt1Y5bUJDpsLUQAHa"
@@ -23998,6 +24100,24 @@
       "duration_ms": 137027,
       "name": "SWEAT",
       "url": "https://open.spotify.com/track/51J6zODpdYccdf3wVi6FTM"
+    },
+    {
+      "album": {
+        "name": "Sweatpants",
+        "url": "https://open.spotify.com/album/10svynsZw3WMuv4sDtn2gV"
+      },
+      "artists": [
+        {
+          "name": "Tremendous Aron",
+          "url": "https://open.spotify.com/artist/4jsBT3nAKLqkjrxCnPoTi5"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144757,
+      "name": "Sweatpants",
+      "url": "https://open.spotify.com/track/1MPhm34zwp1Tgsg4yrsHy0"
     },
     {
       "album": {
@@ -25511,6 +25631,24 @@
     },
     {
       "album": {
+        "name": "Outerstate",
+        "url": "https://open.spotify.com/album/6g1KJdlbI53M3T97ascW5N"
+      },
+      "artists": [
+        {
+          "name": "Kessoncoda",
+          "url": "https://open.spotify.com/artist/7k9JPWPcswdCrwPiQqjvXZ"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134793,
+      "name": "The Sum Of All The Parts",
+      "url": "https://open.spotify.com/track/3fWZ6GqCGuv2xtGVdQbAJP"
+    },
+    {
+      "album": {
         "name": "The Unknown",
         "url": "https://open.spotify.com/album/5HDcwGJboLB2BG1qAtYRaq"
       },
@@ -26056,7 +26194,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 184493,
       "name": "This Can't Be Love",
       "url": "https://open.spotify.com/track/4JIWviwMWPlTonNhZHetDc"
@@ -28836,6 +28974,44 @@
       "duration_ms": 123186,
       "name": "Window Sill Song",
       "url": "https://open.spotify.com/track/1q5VaTlGL7OBkcYO0CNlAo"
+    },
+    {
+      "album": {
+        "name": "Small Medium Large",
+        "url": "https://open.spotify.com/album/1UgxaWJZTYnOtoV3K2zCcT"
+      },
+      "artists": [
+        {
+          "name": "SML",
+          "url": "https://open.spotify.com/artist/5k8cbLF5EZnAhwDvHN6Toj"
+        },
+        {
+          "name": "Jeremiah Chiu",
+          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
+        },
+        {
+          "name": "Gregory Uhlmann",
+          "url": "https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S"
+        },
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        },
+        {
+          "name": "Booker Stardrum",
+          "url": "https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5"
+        },
+        {
+          "name": "Anna Butterss",
+          "url": "https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123186,
+      "name": "Window Sill Song",
+      "url": "https://open.spotify.com/track/2rUWmlW4wtrNRTojbRk7xP"
     },
     {
       "album": {

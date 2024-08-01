@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-384 songs - 19 hr 29 min
+385 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [How Can it Be Told](https://open.spotify.com/track/1POnpsBlNZyfJkfKF4GyAZ) | [Tony Martin](https://open.spotify.com/artist/5AHm2PdPYw9qsj1q1bhxj2) | [How Can it Be Told](https://open.spotify.com/album/62zDtuEmqBSmHQmuMrDoLW) | 3:18 | 2024-07-26 |  |
 | [How Deep Is The Ocean](https://open.spotify.com/track/224OIJI89a5EkEsZq8Tjfs) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 5:18 | 2024-07-26 |  |
 | [How Many Times?](https://open.spotify.com/track/1JtXlpLQNowEToxofguYXE) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [The Golden Age Of The Andrews Sisters \- The Unmistakable Voices Of The Swing Era](https://open.spotify.com/album/4Hn4fWsfXDoS9eB3oEQO5H) | 2:38 | 2024-07-26 |  |
-| [I Beg Your Pardon, Dear Old Broadway](https://open.spotify.com/track/1BPM4VIoLnU02EFO1z2nwe) | [Jackson Demott Hill](https://open.spotify.com/artist/2XPPff9bg6PFYIM6J8z8nB), [Alex Dreier](https://open.spotify.com/artist/2gndnq12MpluBeIfY1IHWS) | [Chip Deffaa's an Irving Berlin Travelogue](https://open.spotify.com/album/7jgewflbxoFZMjvWu5VQxr) | 2:33 | 2024-07-26 |  |
+| [I Beg Your Pardon, Dear Old Broadway](https://open.spotify.com/track/1BPM4VIoLnU02EFO1z2nwe) | [Jackson Demott Hill](https://open.spotify.com/artist/2XPPff9bg6PFYIM6J8z8nB), [Alex Dreier](https://open.spotify.com/artist/2gndnq12MpluBeIfY1IHWS) | [Chip Deffaa's an Irving Berlin Travelogue](https://open.spotify.com/album/7jgewflbxoFZMjvWu5VQxr) | 2:33 | 2024-07-26 | 2024-08-01 |
 | [I Can't Do Without You](https://open.spotify.com/track/5I0bQmdP8zMhacVg1iVW9a) | [Guy Lombardo & His Royal Canadians](https://open.spotify.com/artist/5fJ4w85NxFXyWlPU9wH6BE) | [Guy Lombardo & His Royal Canadians](https://open.spotify.com/album/3KhhvEzva69q1LDabGo3ru) | 3:25 | 2024-07-26 |  |
 | [I Can't Remember](https://open.spotify.com/track/0KdlDVIvKgT5cFLE58IVLM) | [Rudy Vallee and His Connecticut Yankees](https://open.spotify.com/artist/0rEBOEWe1XZ9M1tKAOjvbj) | [Old Man Harlem \(1931 \- 1933\)](https://open.spotify.com/album/6PiZzTyHDSS6GlI2NGao1I) | 3:17 | 2024-07-26 |  |
 | [I Can't Tell A Lie](https://open.spotify.com/track/6dqDPqUGonBNzIV4c9kYSd) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX), [Bob Crosby & His Orchestra](https://open.spotify.com/artist/6wUL6C3zRBBf4N0QwYdws4) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6UFYxC0oiZkmTijiBWzYXs) | 2:40 | 2024-07-26 |  |
@@ -355,6 +355,7 @@
 | [When I Hear You Play That Piano, Bill!](https://open.spotify.com/track/1T9bD3utNfstgD6t0jXThX) | [Chloe Brooks](https://open.spotify.com/artist/5ZECtMbFr1zxGMUK5KbBnM) | [Chip Deffaa's Irving Berlin Ragtime Rarities](https://open.spotify.com/album/5EEm4YvkC2TQpqk5RJeJ8W) | 2:12 | 2024-07-26 |  |
 | [When I Leave The World Behind](https://open.spotify.com/track/6MIx7HfUGj30qAgevxEJgm) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Feels Good, Feels Right](https://open.spotify.com/album/1cqkLB1EWnoSqRY6MN1SbH) | 2:51 | 2024-07-26 |  |
 | [When I Lost You](https://open.spotify.com/track/0dHf2BlrhDydLgZwzCMIga) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [All Alone](https://open.spotify.com/album/6msngKGFNEXcVOPdnqtyIp) | 3:42 | 2024-07-26 |  |
+| [When My Baby Smiles](https://open.spotify.com/track/4LssPLlvQzHWrfDysjl1XU) | [Seth Sikes](https://open.spotify.com/artist/4mGIcFabwtRfonEslMiKuD) | [Chip Deffaa's Irving Berlin: Love Songs and Such](https://open.spotify.com/album/0bxORsYeZ3Ixz5qHm1hkt8) | 2:37 | 2024-07-31 |  |
 | [When My Dreams Come True \(05\-03\-29\)](https://open.spotify.com/track/6nLAritD5uI0DW5OM2mXN2) | [Bix Beiderbecke with Paul Whiteman](https://open.spotify.com/artist/16ysRE1UahrtaTzqJaUFNV) | [Complete Jazz Series 1928 \- 1929](https://open.spotify.com/album/4pH9sUEiQ6SbiaK67DEs5j) | 3:07 | 2024-07-26 |  |
 | [When That Man Is Dead And Gone](https://open.spotify.com/track/3GDVRhZV7YRVlY50mA9I0l) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [The Complete Glenn Miller and His Orchestra](https://open.spotify.com/album/58rMb0yOYCIqwoDjdhwGlK) | 2:39 | 2024-07-26 |  |
 | [When the Curtain Falls](https://open.spotify.com/track/2zZxHwRpssaZ1tzlPFgamT) | [Jack Corbin](https://open.spotify.com/artist/2FPCxNPoRlkKYKx2KUOMjs), [Analise Scarpaci](https://open.spotify.com/artist/3x8IEkKbNzxJ25ekcKJir6) | [Chip Deffaa's the Irving Berlin Duets Album, Vol\. One](https://open.spotify.com/album/19ZhW9agrq42AZUWqd0rwG) | 3:31 | 2024-07-26 |  |

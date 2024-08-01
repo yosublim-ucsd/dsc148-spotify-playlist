@@ -1,6 +1,6 @@
 {
   "description": "J\u00e9r\u00e9my Frerot au top des nouveaut\u00e9s de la semaine !",
-  "num_followers": 349829,
+  "num_followers": 349835,
   "original_name": "New Music Friday France",
   "owner": {
     "name": "Spotify",
@@ -495,17 +495,21 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Las Vegas",
+        "name": "las vegas",
         "url": "https://open.spotify.com/album/0F1vJ3NMMSBBgEITmjZEjx"
       },
       "artists": [
         {
           "name": "MadeInParis",
           "url": "https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU"
+        },
+        {
+          "name": "BGRZ",
+          "url": "https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz"
         }
       ],
       "duration_ms": 117165,
-      "name": "Las Vegas",
+      "name": "las vegas",
       "url": "https://open.spotify.com/track/1IQ7K7VlR6vbATMo5Tt7SB"
     },
     {

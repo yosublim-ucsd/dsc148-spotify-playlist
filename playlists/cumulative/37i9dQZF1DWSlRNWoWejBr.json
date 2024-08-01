@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "A Barreira Vai Virar Baile",
+        "url": "https://open.spotify.com/album/0Ph9LwdZlbMNEiae2C4nMy"
+      },
+      "artists": [
+        {
+          "name": "MC Darlan",
+          "url": "https://open.spotify.com/artist/4Iahu1gr6JTMb4ZD1nyTR5"
+        },
+        {
+          "name": "Blogueirinho da Colina",
+          "url": "https://open.spotify.com/artist/4klYbN5wBLGbNRKMTjE4UL"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141692,
+      "name": "A Barreira Vai Virar Baile",
+      "url": "https://open.spotify.com/track/7GypINlzSk4NVBKDmv47Pf"
+    },
+    {
+      "album": {
         "name": "A Caminho do Bega",
         "url": "https://open.spotify.com/album/3MNPKL9eM0VsPsd1oc5FQ2"
       },
@@ -292,8 +314,8 @@
           "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
         },
         {
-          "name": "DJ JOAO DO INESTAN",
-          "url": "https://open.spotify.com/artist/2LBPyxub8DPGfVgKPw1j1A"
+          "name": "DJ JOAO DA INESTAN",
+          "url": "https://open.spotify.com/artist/1K3wppIvsUK99HODkiNgeu"
         }
       ],
       "date_added": "2023-10-06",
@@ -4094,7 +4116,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 118204,
       "name": "Pagode Russo - Vers\u00e3o BH",
       "url": "https://open.spotify.com/track/2aph9lbzZRsVr2WsMkJHQn"
@@ -4210,6 +4232,28 @@
       "duration_ms": 105629,
       "name": "Pelos Becos do Helipa",
       "url": "https://open.spotify.com/track/5XZuEj0G7iIiMjWPgVgvdz"
+    },
+    {
+      "album": {
+        "name": "Pensa Que \u00c9 Dois",
+        "url": "https://open.spotify.com/album/1yCiQjjUx0YdoQ4EJTk6JS"
+      },
+      "artists": [
+        {
+          "name": "MC Digu",
+          "url": "https://open.spotify.com/artist/3vcNcwMasVwgv5jPfdUwaE"
+        },
+        {
+          "name": "MC Pipokinha",
+          "url": "https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125227,
+      "name": "Pensa Que \u00c9 Dois",
+      "url": "https://open.spotify.com/track/396PHB0q5c3JVE3DyJlFHW"
     },
     {
       "album": {
@@ -5320,7 +5364,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 109384,
       "name": "Tipo Hollywood",
       "url": "https://open.spotify.com/track/6nvbXA95vgyThzj2Tbhank"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69 likes - 188 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 70 likes - 188 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 85 | [The Farmer's Daughter \- Live](https://open.spotify.com/track/6oYQCkPMDqap7y0IxeJjhl) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Sing Me Back Home: The Music Of Merle Haggard \(Live\)](https://open.spotify.com/album/3LILuEUwV5dBr7wjw8ESk2) | 2:55 |
 | 86 | [Fiddle Faddle](https://open.spotify.com/track/7FXu8mphx3UbHBR1LcnoFD) | [Byron Berline](https://open.spotify.com/artist/6NZD4FCwmNsEIS1CL1Y3io) | [Fiddle And A Song](https://open.spotify.com/album/3F9LR1yUStjTdrXJqOfiUz) | 2:03 |
 | 87 | [Can't Help Singing \(from Can't Help Singing\)](https://open.spotify.com/track/2lFuNnS5RAaoOKsCq92acR) | [Deanna Durbin](https://open.spotify.com/artist/3DgG8fJMf9FZlbRXIwfu2a) | [Legends \- Deanna Durbin](https://open.spotify.com/album/4OvGOMfmfx3BAz7vHIcECH) | 3:40 |
-| 88 | [Noah \- Remastered 2015](https://open.spotify.com/track/7HqQR0z9IaHeO2LT9f7dLH) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [I'm Tryin' To Get Home \(Remastered 2015\)](https://open.spotify.com/album/0k5I1omiyIRKxef8bpXRGX) | 6:57 |
-| 89 | [Save Me, Sister](https://open.spotify.com/track/4VNNNyKb5VhrkCeSkW3Nvy) | [Cab Calloway](https://open.spotify.com/artist/03cwCzIWQ8BRmXjGPDAL04) | [New York 1935\-1937, Vol\. A](https://open.spotify.com/album/4kP8rDV2ynkWMMNDKjJbD2) | 3:05 |
-| 90 | [The Marine's Hymn](https://open.spotify.com/track/0MFzIJzp7bKmUZloelwxFN) | [US Navy Band](https://open.spotify.com/artist/7mJ3QsXQ9NMZmCM5rATFS0) | [Music For Honors and Ceremonies](https://open.spotify.com/album/3fGs0Ol4K8dL3Sh463TEoZ) | 0:38 |
+| 88 | [The Marine's Hymn](https://open.spotify.com/track/0MFzIJzp7bKmUZloelwxFN) | [US Navy Band](https://open.spotify.com/artist/7mJ3QsXQ9NMZmCM5rATFS0) | [Music For Honors and Ceremonies](https://open.spotify.com/album/3fGs0Ol4K8dL3Sh463TEoZ) | 0:38 |
+| 89 | [Noah \- Remastered 2015](https://open.spotify.com/track/7HqQR0z9IaHeO2LT9f7dLH) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [I'm Tryin' To Get Home \(Remastered 2015\)](https://open.spotify.com/album/0k5I1omiyIRKxef8bpXRGX) | 6:57 |
+| 90 | [Save Me, Sister](https://open.spotify.com/track/4VNNNyKb5VhrkCeSkW3Nvy) | [Cab Calloway](https://open.spotify.com/artist/03cwCzIWQ8BRmXjGPDAL04) | [New York 1935\-1937, Vol\. A](https://open.spotify.com/album/4kP8rDV2ynkWMMNDKjJbD2) | 3:05 |
 | 91 | [Dance of the Golden Crock](https://open.spotify.com/track/4dSvDe7ncbjhJkUH3hVeX7) | [Burton Lane](https://open.spotify.com/artist/2I94yBi5nYiyVs00T7NxWA), [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA) | [Finian's Rainbow \(New Broadway Cast Recording\)](https://open.spotify.com/album/03R8He29oPPJAQC3uYyAq1) | 3:28 |
 | 92 | [Here's to Your Illusions](https://open.spotify.com/track/1KwwoClXnNPbpLFDSICTSd) | [Kate Baldwin](https://open.spotify.com/artist/7v9S5rwclGrPpm3jdoJcJa) | [Let's See What Happens](https://open.spotify.com/album/4ogteRE8HANS0KjRv4oujr) | 2:27 |
 | 93 | [Bubbles \- Remastered Version](https://open.spotify.com/track/17Zu3LHy5OCrOU1ffJs0xD) | [Gay Purr\-ee \- Robert Goulet, Red Buttons & The Mellow Men](https://open.spotify.com/artist/5SaoszaaPgJUs79gIJUf6o) | [Gay Purr\-ee O.S.T.](https://open.spotify.com/album/3t19c4lLYobOu1BMwgUBsz) | 2:48 |
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 187 | [Intro to Necessity](https://open.spotify.com/track/7BiVEwi5DvPSFb8Z2WE518) | [David Staller](https://open.spotify.com/artist/3NZQn55ReTcDxkdftWW1Az), [Terri White](https://open.spotify.com/artist/79Gxi9msUDwqFtEvocmAJN) | [Finian's Rainbow \(Irish Repertory Theatre Cast Recording\)](https://open.spotify.com/album/1MmpLk5yBwgHevhiGh3FVB) | 0:27 |
 | 188 | [Be Yourself](https://open.spotify.com/track/6yxG4DUyWo3TOuOVSLlFy9) | [RICHYFEIN](https://open.spotify.com/artist/2d0qI4NoEE9GH20qXpByph), [Dukeee](https://open.spotify.com/artist/45dEm7cqNob0CT3raETqHO) | [Trip On My Mind](https://open.spotify.com/album/5Pk2fExyrgdBebtERAEppx) | 2:55 |
 
-Snapshot ID: `AbYG2AAAAACMnQCp8DSirewrCOw6HEhb`
+Snapshot ID: `AbYMuAAAAAARdh41WHgRkh5KL4xSII/4`

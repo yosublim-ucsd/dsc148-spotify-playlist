@@ -1127,6 +1127,24 @@
     },
     {
       "album": {
+        "name": "open this wall",
+        "url": "https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "ascension",
+      "url": "https://open.spotify.com/track/62MSbv3IJNlQdN2NMfOGny"
+    },
+    {
+      "album": {
         "name": "Liberation 2",
         "url": "https://open.spotify.com/album/0zsoWKnMDhi7TgMMST7sYn"
       },
@@ -1550,6 +1568,28 @@
       "duration_ms": 207680,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
+    },
+    {
+      "album": {
+        "name": "New Ancient Strings",
+        "url": "https://open.spotify.com/album/4QYwF3SPWWDwoiS8SnKX4X"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        },
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300466,
+      "name": "Bi Lamban",
+      "url": "https://open.spotify.com/track/6zONDwWrSN3qynCci8v98d"
     },
     {
       "album": {

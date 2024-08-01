@@ -1,6 +1,6 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 252538,
+  "num_followers": 252670,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
-        "name": "Baila Santa Fe",
-        "url": "https://open.spotify.com/album/0RUvlrD7zsXmEr69VRg1CU"
-      },
-      "artists": [
-        {
-          "name": "La Groupera",
-          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
-        }
-      ],
-      "duration_ms": 189911,
-      "name": "Mal Amor",
-      "url": "https://open.spotify.com/track/0S7HkobUN0HrvaHZaQsmE5"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
         "name": "Solo un Momento",
         "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 204669,
       "name": "Dej\u00e9moslo As\u00ed",
       "url": "https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
+        "name": "Baila Santa Fe",
+        "url": "https://open.spotify.com/album/0RUvlrD7zsXmEr69VRg1CU"
+      },
+      "artists": [
+        {
+          "name": "La Groupera",
+          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
+        }
+      ],
+      "duration_ms": 189911,
+      "name": "Mal Amor",
+      "url": "https://open.spotify.com/track/0S7HkobUN0HrvaHZaQsmE5"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
+        "name": "Por Amor A La M\u00fasica",
+        "url": "https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Y Que De M\u00ed",
+      "url": "https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
         "name": "Simplemente Nag\u00fcel",
         "url": "https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 181946,
       "name": "El Hospicio",
       "url": "https://open.spotify.com/track/4I17shszGarI3lEcneeEEK"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
-        "name": "El Aguante Contin\u00faa...En Concierto (En Vivo)",
-        "url": "https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a"
-      },
-      "artists": [
-        {
-          "name": "Mario Pereyra y Su Banda",
-          "url": "https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y"
-        }
-      ],
-      "duration_ms": 137786,
-      "name": "Hasta el Sol de Hoy (En Vivo)",
-      "url": "https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
-        "name": "Por Amor A La M\u00fasica",
-        "url": "https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW"
+        "name": "El Aguante Contin\u00faa...En Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a"
       },
       "artists": [
         {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+          "name": "Mario Pereyra y Su Banda",
+          "url": "https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y"
         }
       ],
-      "duration_ms": 201066,
-      "name": "Y Que De M\u00ed",
-      "url": "https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci"
+      "duration_ms": 137786,
+      "name": "Hasta el Sol de Hoy (En Vivo)",
+      "url": "https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -711,18 +711,18 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
-        "name": "Simplemente Nag\u00fcel",
-        "url": "https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh"
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
       },
       "artists": [
         {
-          "name": "Simplemente Naguel",
-          "url": "https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh"
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
         }
       ],
-      "duration_ms": 181680,
-      "name": "Te So\u00f1\u00e9 una Vez",
-      "url": "https://open.spotify.com/track/1blhnIXhg3Bpt2qzVVxPRD"
+      "duration_ms": 207957,
+      "name": "Que Ser\u00e1 de Ti",
+      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -739,6 +739,22 @@
       "duration_ms": 275720,
       "name": "Amor De Chat",
       "url": "https://open.spotify.com/track/0Yjs4dV82xl4GF63wrXm7i"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
+        "name": "Simplemente Nag\u00fcel",
+        "url": "https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh"
+      },
+      "artists": [
+        {
+          "name": "Simplemente Naguel",
+          "url": "https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "Te So\u00f1\u00e9 una Vez",
+      "url": "https://open.spotify.com/track/1blhnIXhg3Bpt2qzVVxPRD"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -791,22 +807,6 @@
       "duration_ms": 233429,
       "name": "Placer y Olvido",
       "url": "https://open.spotify.com/track/5R4Lbt2Y8MIR1SZ0z8nZvw"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 207957,
-      "name": "Que Ser\u00e1 de Ti",
-      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -871,22 +871,6 @@
       "duration_ms": 186986,
       "name": "Vuelve Mi Amor",
       "url": "https://open.spotify.com/track/1YQExirdEk4Xh525kr4SHW"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
-        "name": "No se va",
-        "url": "https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0"
-      },
-      "artists": [
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
-        }
-      ],
-      "duration_ms": 258937,
-      "name": "No se va",
-      "url": "https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -967,6 +951,22 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
+        "name": "No se va",
+        "url": "https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "duration_ms": 258937,
+      "name": "No se va",
+      "url": "https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
         "name": "Sinf\u00f3nico 45 A\u00f1os - En Vivo",
         "url": "https://open.spotify.com/album/46VxYWDLPoZ9l3RFWQ2iDH"
       },
@@ -983,22 +983,6 @@
       "duration_ms": 251374,
       "name": "Perra",
       "url": "https://open.spotify.com/track/5HgNYJmYucAPD2UpuQfL3t"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
-        "name": "Mensajes del Corazon",
-        "url": "https://open.spotify.com/album/1J0EOSLqRsHdjfJpcbyGaW"
-      },
-      "artists": [
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
-        }
-      ],
-      "duration_ms": 262803,
-      "name": "Flor P\u00e1lida",
-      "url": "https://open.spotify.com/track/20DbqQ7SNfIbid1UG8LnVq"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
+        "name": "Mensajes del Corazon",
+        "url": "https://open.spotify.com/album/1J0EOSLqRsHdjfJpcbyGaW"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "duration_ms": 262803,
+      "name": "Flor P\u00e1lida",
+      "url": "https://open.spotify.com/track/20DbqQ7SNfIbid1UG8LnVq"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
         "name": "Juntando Las Almas",
         "url": "https://open.spotify.com/album/5sbfEnlkljlsbgW04Dr9To"
       },
@@ -1063,42 +1063,6 @@
       "duration_ms": 200386,
       "name": "Enganchados 2 (Contigo me gusta / No me acostumbro)",
       "url": "https://open.spotify.com/track/5YOF7OshUzsTYSayUZoHG4"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
-        "name": "Te Sorprender\u00e1s",
-        "url": "https://open.spotify.com/album/603RFxAyL68TKKtSUe4YT8"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel El Brujo",
-          "url": "https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk"
-        },
-        {
-          "name": "Mario Luis",
-          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
-        }
-      ],
-      "duration_ms": 188140,
-      "name": "Te Sorprender\u00e1s",
-      "url": "https://open.spotify.com/track/1E8z534drq0XGV06iu2HWS"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
-        "name": "Universo Paralelo",
-        "url": "https://open.spotify.com/album/2HYbtLvbsiMkRMCIWOIR3R"
-      },
-      "artists": [
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
-        }
-      ],
-      "duration_ms": 219434,
-      "name": "Universo Paralelo",
-      "url": "https://open.spotify.com/track/0FAkM72jn2VQNu1YztHwx1"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -1119,6 +1083,26 @@
       "duration_ms": 415610,
       "name": "Se que me extra\u00f1a / El no es mejor que yo / Anda / Vienes a pedir Perd\u00f3n / La Morocha",
       "url": "https://open.spotify.com/track/2j4MmBMy3cifR0MZrr6ndu"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
+        "name": "Te Sorprender\u00e1s",
+        "url": "https://open.spotify.com/album/603RFxAyL68TKKtSUe4YT8"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel El Brujo",
+          "url": "https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk"
+        },
+        {
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+        }
+      ],
+      "duration_ms": 188140,
+      "name": "Te Sorprender\u00e1s",
+      "url": "https://open.spotify.com/track/1E8z534drq0XGV06iu2HWS"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -1171,6 +1155,22 @@
       "duration_ms": 294093,
       "name": "Si Tu No Estas",
       "url": "https://open.spotify.com/track/6cZ1wwLjxLgLqLlX6zuVkl"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
+        "name": "Universo Paralelo",
+        "url": "https://open.spotify.com/album/2HYbtLvbsiMkRMCIWOIR3R"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "duration_ms": 219434,
+      "name": "Universo Paralelo",
+      "url": "https://open.spotify.com/track/0FAkM72jn2VQNu1YztHwx1"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
-        "name": "Que Ves",
-        "url": "https://open.spotify.com/album/7Jak5Qw5IKpjAPKuQXCEjg"
+        "name": "Dime Quien",
+        "url": "https://open.spotify.com/album/5JGEI3LM5WuF2EIbSS4JQw"
       },
       "artists": [
         {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+          "name": "La San Francisco",
+          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
         }
       ],
-      "duration_ms": 243456,
-      "name": "Que Ves",
-      "url": "https://open.spotify.com/track/4aLUsiY86kVcHl6pKa3KjR"
+      "duration_ms": 163800,
+      "name": "Dime Quien",
+      "url": "https://open.spotify.com/track/7AKR1lkC72e7oD722zkKbz"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
-        "name": "Dime Quien",
-        "url": "https://open.spotify.com/album/5JGEI3LM5WuF2EIbSS4JQw"
+        "name": "Que Ves",
+        "url": "https://open.spotify.com/album/7Jak5Qw5IKpjAPKuQXCEjg"
       },
       "artists": [
         {
-          "name": "La San Francisco",
-          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 163800,
-      "name": "Dime Quien",
-      "url": "https://open.spotify.com/track/7AKR1lkC72e7oD722zkKbz"
+      "duration_ms": 243456,
+      "name": "Que Ves",
+      "url": "https://open.spotify.com/track/4aLUsiY86kVcHl6pKa3KjR"
     },
     {
       "added_at": "2024-05-24 03:00:00",

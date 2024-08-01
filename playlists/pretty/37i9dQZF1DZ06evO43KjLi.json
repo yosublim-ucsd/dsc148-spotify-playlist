@@ -1,12 +1,12 @@
 {
   "description": "This is Esteban Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 21120,
+  "num_followers": 21124,
   "original_name": "This Is Esteban Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqbbgAAAAADyBnitvFqyWv41En7I77jt",
+  "snapshot_id": "ZqgtAAAAAADrrZr5Ujcob8/Vp7QEA7uk",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 177205,
-      "name": "La G\u00fcera",
-      "url": "https://open.spotify.com/track/6QedahwFMlsiWRILwtZJUG"
+      "duration_ms": 220570,
+      "name": "Videos y Fotos",
+      "url": "https://open.spotify.com/track/7LZ8mtSwAwgAopE8cCjeGw"
     },
     {
       "added_at": null,
@@ -263,22 +263,6 @@
       "duration_ms": 215869,
       "name": "Whiskey and Tequila",
       "url": "https://open.spotify.com/track/7rJCLLO5ukvTRQxjpmDvOd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don Esteban",
-        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 231378,
-      "name": "Que Tiene de Malo",
-      "url": "https://open.spotify.com/track/3uUvQGiUZMj8WzG5Vo1MCz"
     },
     {
       "added_at": null,
@@ -303,6 +287,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don Esteban",
+        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 231378,
+      "name": "Que Tiene de Malo",
+      "url": "https://open.spotify.com/track/3uUvQGiUZMj8WzG5Vo1MCz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tragos y Cigarros",
         "url": "https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S"
       },
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 220570,
-      "name": "Videos y Fotos",
-      "url": "https://open.spotify.com/track/7LZ8mtSwAwgAopE8cCjeGw"
+      "duration_ms": 177205,
+      "name": "La G\u00fcera",
+      "url": "https://open.spotify.com/track/6QedahwFMlsiWRILwtZJUG"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 228048,
-      "name": "Frostix",
-      "url": "https://open.spotify.com/track/1MQ0aEWXfQiuoPqyuZDxhn"
+      "duration_ms": 194793,
+      "name": "Sigue Vivo",
+      "url": "https://open.spotify.com/track/4dXxpBzdOd9ltzzqsY9vRM"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 194793,
-      "name": "Sigue Vivo",
-      "url": "https://open.spotify.com/track/4dXxpBzdOd9ltzzqsY9vRM"
+      "duration_ms": 228048,
+      "name": "Frostix",
+      "url": "https://open.spotify.com/track/1MQ0aEWXfQiuoPqyuZDxhn"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [This Is Eyshila](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1WNcEb)
 
-> This is: Eyshila\. Alle wichtigen Tracks in einer Playlist.
+> This is Eyshila\. The essential tracks, all in one playlist.
 
 68 songs - 6 hr 2 min
 

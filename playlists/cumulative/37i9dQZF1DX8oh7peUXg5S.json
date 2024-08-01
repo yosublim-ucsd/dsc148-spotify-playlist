@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Andr\u00e9s Su\u00e1rez.",
+  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Luis Eduardo Aute.",
   "name": "Cantautores",
   "tracks": [
     {
@@ -1701,6 +1701,28 @@
     },
     {
       "album": {
+        "name": "De camino al camino",
+        "url": "https://open.spotify.com/album/4AaZtzB96HeZZUuJNwFQPS"
+      },
+      "artists": [
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        },
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340756,
+      "name": "El Panadero",
+      "url": "https://open.spotify.com/track/3RktUXfSVu6OEZJRQzOAPj"
+    },
+    {
+      "album": {
         "name": "Canciones 1980-2009",
         "url": "https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u"
       },
@@ -2748,6 +2770,24 @@
       "duration_ms": 201160,
       "name": "Libre te quiero",
       "url": "https://open.spotify.com/track/2fBCjtFq4Xzue65sCFxAof"
+    },
+    {
+      "album": {
+        "name": "Llegas t\u00fa",
+        "url": "https://open.spotify.com/album/1Yl5dq5EX3iweirK4qub8c"
+      },
+      "artists": [
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160452,
+      "name": "Llegas t\u00fa",
+      "url": "https://open.spotify.com/track/7cr1yg8r6ELife74riXE9W"
     },
     {
       "album": {
@@ -4002,7 +4042,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 223730,
       "name": "Pienso en ti - Sesiones Moraima 2",
       "url": "https://open.spotify.com/track/2KerP0uIno08ZTvG5lDv8H"
@@ -5140,7 +5180,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 285500,
       "name": "Tierna nana ya",
       "url": "https://open.spotify.com/track/6uL2nkNDZZh74l0Mu37ke0"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x0y4AP3Q3A.md) - [plain]
 
 > Najlepsi i najlepiej rockujący na polskiej scenie\. Cover: Wojtek Szumański
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,118 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,119 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,11 +4,12 @@
 
 > This is Herencia de Patrones\. The essential tracks, all in one playlist.
 
-68 songs - 3 hr 34 min
+69 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [99 Problemas](https://open.spotify.com/track/6Td09iZqppMRhWaCCJiplg) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [99 Problemas](https://open.spotify.com/album/2d5jDHiiFvFnxLO3pFVpeA) | 3:12 | 2024-01-29 |  |
+| [99 Problemas](https://open.spotify.com/track/6Td09iZqppMRhWaCCJiplg) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [99 Problemas](https://open.spotify.com/album/2d5jDHiiFvFnxLO3pFVpeA) | 3:12 | 2024-01-29 | 2024-08-01 |
+| [A Lo Mejor](https://open.spotify.com/track/3MabVV3VuTSsYSLwRatx9g) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Los Archivos](https://open.spotify.com/album/4jE5oGRkiVBQJKJQuAY3q4) | 4:22 | 2024-08-01 |  |
 | [Bien Pilas](https://open.spotify.com/track/2D3GD6rdUMvYrezCeeoPWT) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Bien Pilas](https://open.spotify.com/album/3B5VpXorHXwY9my6lY8VAp) | 2:45 | 2024-04-16 |  |
 | [Bolista](https://open.spotify.com/track/25gHie42igZIOaRlBXQQtH) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 4:08 | 2024-02-18 | 2024-03-16 |
 | [Buen Ejemplo](https://open.spotify.com/track/0IZfXjvd4yF8obhsr1SKbe) | [Hermanos Figueroa](https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Buen Ejemplo](https://open.spotify.com/album/6uStvNsIm7ymwGUAbRk5gW) | 3:25 | 2024-01-29 |  |

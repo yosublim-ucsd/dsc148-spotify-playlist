@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,800 likes - 35 songs - 1 hr 43 min
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,801 likes - 35 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 | 25 | [Angel Of My Dreams \- FOR THE CLUB](https://open.spotify.com/track/0Nu27dIqk4JaqsvAOgKfJE) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams \(FOR THE CLUB\)](https://open.spotify.com/album/7atJPiQ40Wq2rm40Bx99QH) | 2:54 |
 | 26 | [freak](https://open.spotify.com/track/3GDFkQNGiF84lLClkWRUyG) | [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [freak](https://open.spotify.com/album/2B9hefcqfF3iOnAdzto2VF) | 2:55 |
 | 27 | [Angel Of My Dreams \- FOR THE CLUB](https://open.spotify.com/track/0Nu27dIqk4JaqsvAOgKfJE) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams \(FOR THE CLUB\)](https://open.spotify.com/album/7atJPiQ40Wq2rm40Bx99QH) | 2:54 |
-| 28 | [Life Size](https://open.spotify.com/track/2MktD7t0SE7FOeVWSdoEGX) | [Mahalia](https://open.spotify.com/artist/6mU3WkvcWgHoNG5OlLdsOz), [Take A Daytrip](https://open.spotify.com/artist/4djKrdEueYr8atAhknG6vt) | [Life Size](https://open.spotify.com/album/46OasNzqh720kxVoXB7YMC) | 2:31 |
+| 28 | [Life Size](https://open.spotify.com/track/2MktD7t0SE7FOeVWSdoEGX) | [Mahalia](https://open.spotify.com/artist/6mU3WkvcWgHoNG5OlLdsOz), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [Life Size](https://open.spotify.com/album/46OasNzqh720kxVoXB7YMC) | 2:31 |
 | 29 | [Angel Of My Dreams \- FOR THE CLUB](https://open.spotify.com/track/0Nu27dIqk4JaqsvAOgKfJE) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams \(FOR THE CLUB\)](https://open.spotify.com/album/7atJPiQ40Wq2rm40Bx99QH) | 2:54 |
 | 30 | [Match To Memories](https://open.spotify.com/track/1wmHClgdhhnvSXtjhnWQcg) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Match To Memories](https://open.spotify.com/album/5dSBJEEPuzDPulYXTjnugi) | 2:50 |
 | 31 | [Angel Of My Dreams \- FOR THE CLUB](https://open.spotify.com/track/0Nu27dIqk4JaqsvAOgKfJE) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams \(FOR THE CLUB\)](https://open.spotify.com/album/7atJPiQ40Wq2rm40Bx99QH) | 2:54 |

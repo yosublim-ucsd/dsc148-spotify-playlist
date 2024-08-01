@@ -1,6 +1,6 @@
 {
   "description": "We hear you.",
-  "num_followers": 1193345,
+  "num_followers": 1193395,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 279306,
+      "name": "Pictures of Us",
+      "url": "https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "Say Goodbye",
         "url": "https://open.spotify.com/album/29gE3OIitSeBAcDEUvaDWp"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 150415,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/3xNIVmBIe839tAsoGe3A4b"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 279306,
-      "name": "Pictures of Us",
-      "url": "https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Unpeeled",
-        "url": "https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 280213,
-      "name": "Right Before My Eyes - Unpeeled",
-      "url": "https://open.spotify.com/track/7d6qX28ITEgBUhCJ86SeYq"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Pendant",
         "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 235832,
       "name": "Pendant",
       "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Unpeeled",
+        "url": "https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 280213,
+      "name": "Right Before My Eyes - Unpeeled",
+      "url": "https://open.spotify.com/track/7d6qX28ITEgBUhCJ86SeYq"
     },
     {
       "added_at": "2024-03-07 21:03:22",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "THE GIRL WILL BE OKAY",
-        "url": "https://open.spotify.com/album/5Iv87ZOJiSAfvxYyarcdts"
-      },
-      "artists": [
-        {
-          "name": "RC AVENUE",
-          "url": "https://open.spotify.com/artist/72l1FxPT1pEy9kuGz2UC1w"
-        }
-      ],
-      "duration_ms": 96125,
-      "name": "THE GIRL WILL BE OKAY",
-      "url": "https://open.spotify.com/track/0QbzrbAp8Mfu1cdmFRbgBx"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "curse,",
         "url": "https://open.spotify.com/album/7M6YYETrlwqiUxHBqaz5eO"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 238734,
       "name": "curse,",
       "url": "https://open.spotify.com/track/4sOhW5vsO7eCC0OaxQi7DJ"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "THE GIRL WILL BE OKAY",
+        "url": "https://open.spotify.com/album/5Iv87ZOJiSAfvxYyarcdts"
+      },
+      "artists": [
+        {
+          "name": "RC AVENUE",
+          "url": "https://open.spotify.com/artist/72l1FxPT1pEy9kuGz2UC1w"
+        }
+      ],
+      "duration_ms": 96125,
+      "name": "THE GIRL WILL BE OKAY",
+      "url": "https://open.spotify.com/track/0QbzrbAp8Mfu1cdmFRbgBx"
     },
     {
       "added_at": "2024-03-07 21:03:22",
@@ -881,22 +881,6 @@
       "url": "https://open.spotify.com/track/4ys3qPP1YnF2IgEB2x8EOW"
     },
     {
-      "added_at": "2024-05-10 21:58:08",
-      "album": {
-        "name": "Why Did I Laugh Anyway",
-        "url": "https://open.spotify.com/album/3fX1AK2lHmZlTYQMRbmVI1"
-      },
-      "artists": [
-        {
-          "name": "Dev Lemons",
-          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
-        }
-      ],
-      "duration_ms": 189311,
-      "name": "Why Did I Laugh Anyway",
-      "url": "https://open.spotify.com/track/6djLGpfM8gPfaENZK5CvqL"
-    },
-    {
       "added_at": "2023-09-29 20:20:52",
       "album": {
         "name": "are you sleeping alone again?",
@@ -911,6 +895,22 @@
       "duration_ms": 126857,
       "name": "are you sleeping alone again?",
       "url": "https://open.spotify.com/track/6abYlQGJf3JvvvZHfBryo4"
+    },
+    {
+      "added_at": "2024-05-10 21:58:08",
+      "album": {
+        "name": "Why Did I Laugh Anyway",
+        "url": "https://open.spotify.com/album/3fX1AK2lHmZlTYQMRbmVI1"
+      },
+      "artists": [
+        {
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+        }
+      ],
+      "duration_ms": 189311,
+      "name": "Why Did I Laugh Anyway",
+      "url": "https://open.spotify.com/track/6djLGpfM8gPfaENZK5CvqL"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -961,6 +961,22 @@
       "url": "https://open.spotify.com/track/4zIJESN3Y2Yu3aY9cJtbyG"
     },
     {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Dark Corners and Alchemy",
+        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 153915,
+      "name": "princes of melancholia",
+      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
+    },
+    {
       "added_at": "2024-05-10 21:58:08",
       "album": {
         "name": "Hang In There",
@@ -979,22 +995,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Dark Corners and Alchemy",
-        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 153915,
-      "name": "princes of melancholia",
-      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "the way we used to love.",
         "url": "https://open.spotify.com/album/5TpuZa5jlD6Jf3Kf6qglHo"
       },
@@ -1007,6 +1007,22 @@
       "duration_ms": 225600,
       "name": "disappear",
       "url": "https://open.spotify.com/track/5YVuTCLDxjS8pORppZhNsf"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Smile in the Face of the Devil",
+        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 158714,
+      "name": "Smile in the Face of the Devil",
+      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
     },
     {
       "added_at": "2024-05-10 21:58:08",
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Smile in the Face of the Devil",
-        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
+        "name": "VERY ALONE",
+        "url": "https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK"
       },
       "artists": [
         {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+          "name": "Zaia",
+          "url": "https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz"
         }
       ],
-      "duration_ms": 158714,
-      "name": "Smile in the Face of the Devil",
-      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
+      "duration_ms": 131146,
+      "name": "VERY ALONE",
+      "url": "https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1055,22 +1071,6 @@
       "duration_ms": 173446,
       "name": "handgun",
       "url": "https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "VERY ALONE",
-        "url": "https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK"
-      },
-      "artists": [
-        {
-          "name": "Zaia",
-          "url": "https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz"
-        }
-      ],
-      "duration_ms": 131146,
-      "name": "VERY ALONE",
-      "url": "https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "nowhere to hide",
-        "url": "https://open.spotify.com/album/22uIeW2YT5GtSjg6Tc5zh0"
-      },
-      "artists": [
-        {
-          "name": "Kamal.",
-          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
-        }
-      ],
-      "duration_ms": 171937,
-      "name": "nowhere to hide",
-      "url": "https://open.spotify.com/track/7xxMS1SNunq6HeBjqiswid"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Covered In Hether",
         "url": "https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 160675,
       "name": "End Of The World",
       "url": "https://open.spotify.com/track/5fayurvS00m3T7fcXBkb7e"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "nowhere to hide",
+        "url": "https://open.spotify.com/album/22uIeW2YT5GtSjg6Tc5zh0"
+      },
+      "artists": [
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        }
+      ],
+      "duration_ms": 171937,
+      "name": "nowhere to hide",
+      "url": "https://open.spotify.com/track/7xxMS1SNunq6HeBjqiswid"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1661,22 +1661,6 @@
       "url": "https://open.spotify.com/track/2jQWDgZhvkTREAXi7R0Vnf"
     },
     {
-      "added_at": "2023-10-16 20:29:38",
-      "album": {
-        "name": "trust exercises",
-        "url": "https://open.spotify.com/album/7F8Up4TqiQZO2cdsVUDUY8"
-      },
-      "artists": [
-        {
-          "name": "hard life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
-        }
-      ],
-      "duration_ms": 214002,
-      "name": "trust exercises",
-      "url": "https://open.spotify.com/track/3NEPYiw4V5tmQLguweXgPP"
-    },
-    {
       "added_at": "2023-09-29 20:20:52",
       "album": {
         "name": "emma, u up?",
@@ -1691,6 +1675,22 @@
       "duration_ms": 144000,
       "name": "emma, u up?",
       "url": "https://open.spotify.com/track/5Z7WYPOCE6FCbg3NZrYDvh"
+    },
+    {
+      "added_at": "2023-10-16 20:29:38",
+      "album": {
+        "name": "trust exercises",
+        "url": "https://open.spotify.com/album/7F8Up4TqiQZO2cdsVUDUY8"
+      },
+      "artists": [
+        {
+          "name": "hard life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        }
+      ],
+      "duration_ms": 214002,
+      "name": "trust exercises",
+      "url": "https://open.spotify.com/track/3NEPYiw4V5tmQLguweXgPP"
     }
   ],
   "unique_name": "idk.",

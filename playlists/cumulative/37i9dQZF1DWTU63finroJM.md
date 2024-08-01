@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: Annural Khalid.
 
-1,532 songs - 3 day 11 hr 48 min
+1,533 songs - 3 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\(Chyba\) Ostatni Dzień](https://open.spotify.com/track/2gp67Tm8jYHSP7Pg6y9CHf) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [\(Chyba\) Ostatni Dzień](https://open.spotify.com/album/6p7FZUkev82iOCQkyHaVDX) | 2:48 | 2023-05-22 | 2023-09-02 |
 | [\(if\) only](https://open.spotify.com/track/15BLMoHLOBy9XDc5iDc0ax) | [tanny ng](https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei) | [amber's playlist](https://open.spotify.com/album/10dLMvINSliOIpydkbpUPY) | 3:12 | 2023-10-13 | 2024-03-16 |
 | [\*67](https://open.spotify.com/track/4vsG4nLNSzgArBYj2jimM6) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Young Martino](https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [\*67](https://open.spotify.com/album/5l10Hgkpbx7V3TpLkFE3Nw) | 4:10 | 2022-03-24 | 2022-04-20 |
+| [10 out of 10](https://open.spotify.com/track/3fTpEVNXla3OEavoAqXmF0) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE), [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [10 out of 10](https://open.spotify.com/album/6MVYiE2oxVEPBVTrG9xo9D) | 2:57 | 2024-07-26 |  |
 | [10x Better](https://open.spotify.com/track/7FjRthQOOmRWrjiX8WrzES) | [Marielle Kraft](https://open.spotify.com/artist/2RQN5dFKtdR5cXWsZtSldV) | [10x Better](https://open.spotify.com/album/3ntas0JGMXsNPBBMcUybDE) | 2:21 | 2024-04-19 |  |
 | [111](https://open.spotify.com/track/3awqYya8UX0SwGL6bnuLdL) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Red Farrow](https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [111](https://open.spotify.com/album/2hntq8BeyRXcd87uEmxaqD) | 3:50 | 2022-03-24 | 2022-07-29 |
 | [111](https://open.spotify.com/track/6nbl8mfvdmnhtlbexXu6J9) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Red Farrow](https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [111](https://open.spotify.com/album/3DlFiBv8uC3GjtaY0l9bhU) | 3:50 | 2022-06-29 | 2022-08-02 |
@@ -43,7 +44,7 @@
 | [A Thousand Miles](https://open.spotify.com/track/3yT2hnLcZU6rf1BK6rbP0c) | [Route 83](https://open.spotify.com/artist/5uppePcM1uv6mrpw29yEds) | [A Thousand Miles](https://open.spotify.com/album/1o0LX5mf6NvumR95bokpcd) | 3:27 | 2022-02-03 | 2022-03-14 |
 | [A Tu Novia](https://open.spotify.com/track/5HGyi8k0gzxmvz5G1X9faK) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [Antisocial](https://open.spotify.com/album/0fymQT4sKyeNdAJoQi79Gz) | 3:32 | 2022-03-24 | 2022-04-20 |
 | [Abendkleider und Nadelstreifen](https://open.spotify.com/track/5xMX2H3NpXB0Kv1nRTSB8O) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Universum regelt](https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh) | 2:47 | 2022-09-08 | 2023-05-09 |
-| [ABOMINATION](https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [ABOMINATION](https://open.spotify.com/album/6am19f0GGzZgJYTSvGCuSr) | 3:18 | 2024-04-12 |  |
+| [ABOMINATION](https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [ABOMINATION](https://open.spotify.com/album/6am19f0GGzZgJYTSvGCuSr) | 3:18 | 2024-04-12 | 2024-08-01 |
 | [Above the time](https://open.spotify.com/track/42sQpZwEqmeQODfNbhbfnA) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Above the time](https://open.spotify.com/album/6899JCGBYPw0iFQAhUsQ1C) | 2:43 | 2022-11-25 | 2023-04-13 |
 | [Above the time](https://open.spotify.com/track/6QC0bfSGU8tjpMurAUlnt2) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Above the time](https://open.spotify.com/album/4QJW5zsSdP1oDdNmm5zQ8x) | 2:43 | 2023-02-17 | 2023-05-31 |
 | [Abran la Puerta a la Paz](https://open.spotify.com/track/4xgFkL3iSFCPoHBrqJ85T0) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H) | [Voy Pa Allá](https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4) | 4:11 | 2022-03-24 | 2022-04-21 |

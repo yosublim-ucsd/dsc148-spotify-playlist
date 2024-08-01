@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Calvin Harris and Ellie Goulding \(pictured\), Central Cee, Jorja Smith and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 856,216 likes - 119 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 856,265 likes - 119 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 5 | [Lucky](https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lucky](https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX) | 3:18 |
 | 6 | [Somedays](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Somedays](https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK) | 3:27 |
 | 7 | [Soca](https://open.spotify.com/track/0YVnSnoAEFYKNdsNSSNaoC) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [Soca](https://open.spotify.com/album/4qOdMNuIadjeRDbWunbWgp) | 2:46 |
-| 8 | [Life Size](https://open.spotify.com/track/2MktD7t0SE7FOeVWSdoEGX) | [Mahalia](https://open.spotify.com/artist/6mU3WkvcWgHoNG5OlLdsOz), [Take A Daytrip](https://open.spotify.com/artist/4djKrdEueYr8atAhknG6vt) | [Life Size](https://open.spotify.com/album/46OasNzqh720kxVoXB7YMC) | 2:31 |
+| 8 | [Life Size](https://open.spotify.com/track/2MktD7t0SE7FOeVWSdoEGX) | [Mahalia](https://open.spotify.com/artist/6mU3WkvcWgHoNG5OlLdsOz), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [Life Size](https://open.spotify.com/album/46OasNzqh720kxVoXB7YMC) | 2:31 |
 | 9 | [Rain Can't Reach Us](https://open.spotify.com/track/6raq4es8xYh6Rp8OJNBFYj) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Rain Can't Reach Us](https://open.spotify.com/album/4Zz6Sy6FAQWKQTgQMWiHTS) | 4:56 |
 | 10 | [Call It What You Like](https://open.spotify.com/track/19thWvK8cJVrcE27CgmRO3) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Call It What You Like](https://open.spotify.com/album/0xIthbyKWIGoE8d2JsaZwW) | 2:54 |
 | 11 | [We Won](https://open.spotify.com/track/0rLGYykaXj89TBOXq6Aief) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [We Won](https://open.spotify.com/album/55nxNL1bRIIN6oHM2Jb5c7) | 2:46 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 80 | [16 dogs](https://open.spotify.com/track/6evha6l77b3R2dxTKRVXjh) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [16 dogs](https://open.spotify.com/album/0kIWwzGOGMXcgqRxZBW1h3) | 2:40 |
 | 81 | [Get Back To You](https://open.spotify.com/track/0rfKOy4TA3vF4UitzYGQmQ) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Get Back To You](https://open.spotify.com/album/3wPIhRMeGQ8s6g7UyCzdk3) | 4:07 |
 | 82 | [Ex Boyfriend](https://open.spotify.com/track/7n3wqMgEQVIKdM791haDBG) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Ex Boyfriend](https://open.spotify.com/album/3dWgaQ4prMrZcPYN08zoTh) | 3:22 |
-| 83 | [Corazón](https://open.spotify.com/track/5ePlrWLaehge6VpooLOiwt) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Corazón](https://open.spotify.com/album/4217Ui5bxrqSH3vuGrT20q) | 3:00 |
+| 83 | [Corazón / Death by Disco Pt 2](https://open.spotify.com/track/5ePlrWLaehge6VpooLOiwt) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Corazón / Death by Disco Pt 2](https://open.spotify.com/album/4217Ui5bxrqSH3vuGrT20q) | 3:00 |
 | 84 | [Embellishments](https://open.spotify.com/track/3XWxiU3qDMdmr9xgC0Xg6D) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [Embellishments](https://open.spotify.com/album/7KKeaAAYBMT02ACJK50Tn8) | 2:09 |
 | 85 | [togethertogether](https://open.spotify.com/track/0d2L0ATy8bW0Cvb4tJKNLa) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [togethertogether](https://open.spotify.com/album/1TSuSb8kO5iOaJWv4Mf0Fy) | 3:44 |
 | 86 | [Pressure](https://open.spotify.com/track/3rLyUo8KBJCP5YPA3Getfj) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [12 Summers](https://open.spotify.com/album/2vwrznrv1jDOypUWHGKTi5) | 2:19 |
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 100 | [You Saved Me](https://open.spotify.com/track/3F8n9EaoR8j0PWdCA5S51O) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [God Reigns](https://open.spotify.com/album/5LJZt7IPdGdbJbYKTcj5YN) | 3:12 |
 | 101 | [Charlie's Comet](https://open.spotify.com/track/2Y7Z6kTzPQFwStThi451lf) | [Mandrake Handshake](https://open.spotify.com/artist/3tW2ocpP6a9HqZoWgn45kn) | [Charlie's Comet](https://open.spotify.com/album/5Rfey08LMXUVIPlXr3r6HH) | 4:02 |
 | 102 | [Patience](https://open.spotify.com/track/5TrYG8zcjoit4ZdYWrwUnW) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Patience](https://open.spotify.com/album/0Uxar0jhip7in5QfGC5mYS) | 2:51 |
-| 103 | [Come Round](https://open.spotify.com/track/5OoYMAlVOTEyKZ69eOpDCy) | [Mowgs](https://open.spotify.com/artist/5B6fjdBghQykaZm20DtDP9), [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Come Round](https://open.spotify.com/album/6h9frmhFPRwaYyCvp590dz) | 2:42 |
+| 103 | [Come Around](https://open.spotify.com/track/5OoYMAlVOTEyKZ69eOpDCy) | [Mowgs](https://open.spotify.com/artist/5B6fjdBghQykaZm20DtDP9), [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Come Around](https://open.spotify.com/album/6h9frmhFPRwaYyCvp590dz) | 2:42 |
 | 104 | [Something](https://open.spotify.com/track/4Fm4WjA6vy7LZOACjA9qRH) | [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Something](https://open.spotify.com/album/6yzcU7vz2DDRFWFNwpm4E2) | 2:53 |
 | 105 | [Brinks](https://open.spotify.com/track/7LeJw09P5PrB97HJlXLk1P) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Kcid](https://open.spotify.com/artist/32qT6FOyPTR6PysajRroBl) | [Brinks](https://open.spotify.com/album/5SDK4J79vnzqvz0qxYJthR) | 4:16 |
 | 106 | [Guilty](https://open.spotify.com/track/6m1J8D9SGvfOxpA3RC3bD6) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Guilty](https://open.spotify.com/album/7LuYrvLkdzxHarZHNFLvYq) | 2:51 |

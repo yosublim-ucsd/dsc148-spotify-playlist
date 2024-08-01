@@ -4,7 +4,7 @@
 
 > Si está pegao, está aquí\. Feat\. Beny Jr
 
-606 songs - 1 day 9 hr 40 min
+607 songs - 1 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,6 +491,7 @@
 | [Se Va](https://open.spotify.com/track/6ccKcHU9zglIBSop0tkKhs) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Se Va](https://open.spotify.com/album/3niJjxTeQfaP0j86bDksq6) | 2:47 | 2023-10-26 | 2023-10-28 |
 | [SEDA](https://open.spotify.com/track/1YnChEM51BVZ5dRhbVFEMl) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:10 | 2023-10-16 | 2024-04-23 |
 | [Sensual Bebé](https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Sensual Bebé](https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC) | 3:29 | 2022-03-10 | 2022-07-27 |
+| [SERIO CON ESE Q](https://open.spotify.com/track/4kCGXKoHyfvpSF535X4Z4p) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [SERIO CON ESE Q](https://open.spotify.com/album/3zo7zq13zlZS9rVG6MQbdf) | 4:07 | 2024-07-31 |  |
 | [SexeSexy](https://open.spotify.com/track/5YfGs3ieDe7tYnI0yOajp9) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [SexeSexy](https://open.spotify.com/album/4enqG7rEC8J7vwzgSgrwrN) | 3:52 | 2024-04-01 | 2024-04-12 |
 | [SHE TELLS ME](https://open.spotify.com/track/1srH58DEczLtwZL7vp6Inr) | [3dnan](https://open.spotify.com/artist/0sYwl6DQa61XcXmqaWQldz), [RIFISOUL](https://open.spotify.com/artist/45bEt8NEILygekiRTbsBhz) | [SHE TELLS ME](https://open.spotify.com/album/1jIZdx4Gk1UrsnDNerYqFb) | 2:40 | 2024-04-25 | 2024-04-30 |
 | [Si La Calle Llama \- Remix](https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 4:00 | 2023-03-21 | 2023-11-24 |

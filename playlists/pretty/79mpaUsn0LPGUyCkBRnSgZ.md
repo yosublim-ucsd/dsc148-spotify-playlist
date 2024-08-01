@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 512 songs - 1 day 9 hr 48 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 514 songs - 1 day 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -520,5 +520,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 510 | [Sunrise](https://open.spotify.com/track/3gaH8NE0t7SBKhUIjv0SYv) | [Yeasayer](https://open.spotify.com/artist/04HvbIwBccFmRie5ATX4ft) | [All Hour Cymbals](https://open.spotify.com/album/6mVyKlhq3v2IHeksO38syx) | 4:06 |
 | 511 | [Native Belle](https://open.spotify.com/track/28N9Albx54zeZwhccbk3qR) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Ark](https://open.spotify.com/album/7Mpy0YPUymmzOopyQrMXw5) | 3:52 |
 | 512 | [Gostar do Mundo](https://open.spotify.com/track/4JFbDXnpgNLxX83jJytV15) | [Sessa](https://open.spotify.com/artist/6ijeN3MhwnbRfo86gH5McZ) | [Estrela Acesa](https://open.spotify.com/album/6INpt0l0lIDYZKAKO8vIC5) | 2:21 |
+| 513 | [Bi Lamban](https://open.spotify.com/track/6zONDwWrSN3qynCci8v98d) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [New Ancient Strings](https://open.spotify.com/album/4QYwF3SPWWDwoiS8SnKX4X) | 5:00 |
+| 514 | [ascension](https://open.spotify.com/track/62MSbv3IJNlQdN2NMfOGny) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 3:12 |
 
-Snapshot ID: `AAAGTNa+cql5sFB9WQ61ft1JTIA6JxoA`
+Snapshot ID: `AAAGTle8jApnrVp1mBUIvFHnvlpR5JwD`

@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: My Hair is Bad
 
-1,630 songs - 4 day 6 hr 50 min
+1,631 songs - 4 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [Isshoukonomama](https://open.spotify.com/track/60cWyPsmoAicYR6UHQyqoI) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Isshoukonomama](https://open.spotify.com/album/4HuZRJ6P8hZxYhQ7CsHfVh) | 4:43 | 2023-05-30 | 2023-07-05 |
 | [Jane](https://open.spotify.com/track/4AadyyEVbQuhLV9FggUJPj) | [Flying Kids](https://open.spotify.com/artist/7okQeABLQpbyFXz1L9sTpd) | [Jane](https://open.spotify.com/album/6H4Xeb4atKRrpojmtfiS3g) | 4:38 | 2024-01-09 | 2024-01-17 |
 | [Jersey \- 2024 Ver.](https://open.spotify.com/track/2sRIsLEsOaIZkys9An4ET4) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/6Hl7O9yuwyCItVzotgCqF2) | 2:34 | 2024-03-07 | 2024-04-19 |
+| [JO\-DEKI](https://open.spotify.com/track/1fu67FayCYkKtlxBgXE74w) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [JO\-DEKI](https://open.spotify.com/album/1kNoIaapMgPL7ztHDAQ7ru) | 3:25 | 2024-07-30 |  |
 | [JOHJI](https://open.spotify.com/track/1trPyHkA0NvuY8jfYLEruI) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [JOHJI](https://open.spotify.com/album/6Mv4qwCruIA7hkMAoCwPOt) | 4:48 | 2023-12-12 | 2024-01-31 |
 | [Journey](https://open.spotify.com/track/1k7idRCVXSQCDoE9de5ixM) | [Czecho No Republic](https://open.spotify.com/artist/1FdojLtbHge9K5DlOsHrkd) | [Journey](https://open.spotify.com/album/6XiWEl4R6EDfOuug8Pc5GU) | 4:12 | 2023-03-23 | 2023-04-20 |
 | [Jurassic](https://open.spotify.com/track/0okYcNqMBFmSwf2xeECPpd) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Jurassic](https://open.spotify.com/album/6XDBprGtBpzB7t0dHP85fs) | 2:57 | 2023-07-18 | 2023-07-20 |

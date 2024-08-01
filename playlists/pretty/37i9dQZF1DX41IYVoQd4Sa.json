@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05d3\u05d5\u05d3\u05d5 \u05d8\u05e1\u05d4",
-  "num_followers": 29921,
+  "num_followers": 29929,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
+        "name": "Until The Morning",
+        "url": "https://open.spotify.com/album/6e1fxnLrU2cp5GxPbko4Oq"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guy",
+          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
+        }
+      ],
+      "duration_ms": 151719,
+      "name": "Until The Morning",
+      "url": "https://open.spotify.com/track/5EMgxRd9V5ARW4b3aRol1L"
+    },
+    {
+      "added_at": "2024-07-25 21:00:00",
+      "album": {
         "name": "\u05db\u05db\u05d4 \u05d6\u05d4",
         "url": "https://open.spotify.com/album/0Q8Ok7CxprEMtjPKR6XA2e"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 248146,
       "name": "\u05db\u05db\u05d4 \u05d6\u05d4",
       "url": "https://open.spotify.com/track/4JzG1XWdSjEKlRJMlVWJ3f"
-    },
-    {
-      "added_at": "2024-07-25 21:00:00",
-      "album": {
-        "name": "Until The Morning",
-        "url": "https://open.spotify.com/album/6e1fxnLrU2cp5GxPbko4Oq"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guy",
-          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
-        }
-      ],
-      "duration_ms": 151719,
-      "name": "Until The Morning",
-      "url": "https://open.spotify.com/track/5EMgxRd9V5ARW4b3aRol1L"
     },
     {
       "added_at": "2024-07-25 21:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
-        "name": "Wild Wonder",
-        "url": "https://open.spotify.com/album/5ye1IukbFGXuGABrWuTMoB"
-      },
-      "artists": [
-        {
-          "name": "Balkan Beat Box",
-          "url": "https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY"
-        }
-      ],
-      "duration_ms": 248158,
-      "name": "Wild Wonder",
-      "url": "https://open.spotify.com/track/6jLzdA8hcaEBYVjtGYfP09"
-    },
-    {
-      "added_at": "2024-07-25 21:00:00",
-      "album": {
         "name": "\u05d4\u05d0\u05dd \u05e0\u05d3\u05e2 \u05dc\u05d4\u05d9\u05d5\u05d5\u05dc\u05d3 \u05e9\u05d5\u05d1 \u05de\u05d7\u05d3\u05e9",
         "url": "https://open.spotify.com/album/5rzvnCtCEJk4pGsxx8OkFL"
       },
@@ -767,18 +751,18 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
-        "name": "Petrified",
-        "url": "https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP"
+        "name": "Wild Wonder",
+        "url": "https://open.spotify.com/album/5ye1IukbFGXuGABrWuTMoB"
       },
       "artists": [
         {
-          "name": "David Lerner",
-          "url": "https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR"
+          "name": "Balkan Beat Box",
+          "url": "https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY"
         }
       ],
-      "duration_ms": 252456,
-      "name": "Petrified",
-      "url": "https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV"
+      "duration_ms": 248158,
+      "name": "Wild Wonder",
+      "url": "https://open.spotify.com/track/6jLzdA8hcaEBYVjtGYfP09"
     },
     {
       "added_at": "2024-07-25 21:00:00",
@@ -799,6 +783,22 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
+        "name": "Petrified",
+        "url": "https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP"
+      },
+      "artists": [
+        {
+          "name": "David Lerner",
+          "url": "https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR"
+        }
+      ],
+      "duration_ms": 252456,
+      "name": "Petrified",
+      "url": "https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV"
+    },
+    {
+      "added_at": "2024-07-25 21:00:00",
+      "album": {
         "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05d0\u05ea \u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d1\u05d7\u05d6\u05e8\u05d4",
         "url": "https://open.spotify.com/album/6LJUzUbBtkwmgpCosXc0jh"
       },
@@ -811,22 +811,6 @@
       "duration_ms": 168923,
       "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05d0\u05ea \u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d1\u05d7\u05d6\u05e8\u05d4",
       "url": "https://open.spotify.com/track/6XXmUYotqTIbx9xOd9lQqW"
-    },
-    {
-      "added_at": "2024-07-25 21:00:00",
-      "album": {
-        "name": "\u05dc\u05d1",
-        "url": "https://open.spotify.com/album/4gaVOXO7NvJwgXhQQ2SIRj"
-      },
-      "artists": [
-        {
-          "name": "\u05d9\u05d5\u05d2\u05d1 \u05d2\u05dc\u05d5\u05e1\u05de\u05df",
-          "url": "https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO"
-        }
-      ],
-      "duration_ms": 225800,
-      "name": "\u05dc\u05d1",
-      "url": "https://open.spotify.com/track/2kxiveWK7YFaSdecpSwCrP"
     },
     {
       "added_at": "2024-07-25 21:00:00",
@@ -847,18 +831,18 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
-        "name": "\u05d1\u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05e8",
-        "url": "https://open.spotify.com/album/0Ch02uieisTBRUvU3i5vfJ"
+        "name": "\u05dc\u05d1",
+        "url": "https://open.spotify.com/album/4gaVOXO7NvJwgXhQQ2SIRj"
       },
       "artists": [
         {
-          "name": "Yoni Rechter",
-          "url": "https://open.spotify.com/artist/05YG290otZjn1UMHXjEqxh"
+          "name": "\u05d9\u05d5\u05d2\u05d1 \u05d2\u05dc\u05d5\u05e1\u05de\u05df",
+          "url": "https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO"
         }
       ],
-      "duration_ms": 205720,
-      "name": "\u05d1\u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05e8",
-      "url": "https://open.spotify.com/track/6m3qxagd6VP0zpBnfd6MXi"
+      "duration_ms": 225800,
+      "name": "\u05dc\u05d1",
+      "url": "https://open.spotify.com/track/2kxiveWK7YFaSdecpSwCrP"
     },
     {
       "added_at": "2024-07-25 21:00:00",
@@ -879,6 +863,22 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
+        "name": "\u05d1\u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05e8",
+        "url": "https://open.spotify.com/album/0Ch02uieisTBRUvU3i5vfJ"
+      },
+      "artists": [
+        {
+          "name": "Yoni Rechter",
+          "url": "https://open.spotify.com/artist/05YG290otZjn1UMHXjEqxh"
+        }
+      ],
+      "duration_ms": 205720,
+      "name": "\u05d1\u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05e8",
+      "url": "https://open.spotify.com/track/6m3qxagd6VP0zpBnfd6MXi"
+    },
+    {
+      "added_at": "2024-07-25 21:00:00",
+      "album": {
         "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
         "url": "https://open.spotify.com/album/0uWDmGSuYnaD9xbd7zioIS"
       },
@@ -895,6 +895,22 @@
       "duration_ms": 208000,
       "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
       "url": "https://open.spotify.com/track/4ZB8VUBs5WXlfRXFtXMZqq"
+    },
+    {
+      "added_at": "2024-07-25 21:00:00",
+      "album": {
+        "name": "\u05d4\u05db\u05dc \u05e4\u05d4 \u05de\u05e9\u05d5\u05d1\u05e9",
+        "url": "https://open.spotify.com/album/6P206uroOIPyQqQ1WFovt6"
+      },
+      "artists": [
+        {
+          "name": "The Backyard",
+          "url": "https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "\u05d4\u05db\u05dc \u05e4\u05d4 \u05de\u05e9\u05d5\u05d1\u05e9",
+      "url": "https://open.spotify.com/track/5H7rrKBPj7xyU3XrRpP6FI"
     },
     {
       "added_at": "2024-07-25 21:00:00",
@@ -943,18 +959,18 @@
     {
       "added_at": "2024-07-25 21:00:00",
       "album": {
-        "name": "\u05d4\u05db\u05dc \u05e4\u05d4 \u05de\u05e9\u05d5\u05d1\u05e9",
-        "url": "https://open.spotify.com/album/6P206uroOIPyQqQ1WFovt6"
+        "name": "Water on Water",
+        "url": "https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P"
       },
       "artists": [
         {
-          "name": "The Backyard",
-          "url": "https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB"
+          "name": "Roni Alter",
+          "url": "https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN"
         }
       ],
-      "duration_ms": 219000,
-      "name": "\u05d4\u05db\u05dc \u05e4\u05d4 \u05de\u05e9\u05d5\u05d1\u05e9",
-      "url": "https://open.spotify.com/track/5H7rrKBPj7xyU3XrRpP6FI"
+      "duration_ms": 308093,
+      "name": "Carry me home",
+      "url": "https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog"
     },
     {
       "added_at": "2024-07-25 21:00:00",
@@ -971,22 +987,6 @@
       "duration_ms": 196914,
       "name": "\u05dc\u05d1\u05d6\u05d1\u05d6 \u05dc\u05da \u05d0\u05ea \u05d4\u05d6\u05de\u05df",
       "url": "https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav"
-    },
-    {
-      "added_at": "2024-07-25 21:00:00",
-      "album": {
-        "name": "Water on Water",
-        "url": "https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P"
-      },
-      "artists": [
-        {
-          "name": "Roni Alter",
-          "url": "https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN"
-        }
-      ],
-      "duration_ms": 308093,
-      "name": "Carry me home",
-      "url": "https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog"
     },
     {
       "added_at": "2024-07-25 21:00:00",

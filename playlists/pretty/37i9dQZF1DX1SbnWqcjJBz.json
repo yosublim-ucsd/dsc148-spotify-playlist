@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 113381,
+  "num_followers": 113430,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Hook Me Up",
-        "url": "https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37"
-      },
-      "artists": [
-        {
-          "name": "The Veronicas",
-          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
-        }
-      ],
-      "duration_ms": 255360,
-      "name": "Untouched",
-      "url": "https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "One Heart",
         "url": "https://open.spotify.com/album/1H4QtgObVxPXea86RvJgv9"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 240600,
       "name": "I Drove All Night",
       "url": "https://open.spotify.com/track/3zN4OLeBAN7LwAr442bB8E"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Hook Me Up",
+        "url": "https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37"
+      },
+      "artists": [
+        {
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+        }
+      ],
+      "duration_ms": 255360,
+      "name": "Untouched",
+      "url": "https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -879,26 +879,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Cherry (feat. Hayley Kiyoko)",
-        "url": "https://open.spotify.com/album/1h0qJIukGxKxxG4lfT0UOf"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        },
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 152511,
-      "name": "Cherry (feat. Hayley Kiyoko)",
-      "url": "https://open.spotify.com/track/1o9kTjiWJ5lTgKonUK6jAU"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "I\u2019m Ready (with Demi Lovato)",
         "url": "https://open.spotify.com/album/44msshHeN6irJ1md7GVSlU"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 200838,
       "name": "I\u2019m Ready (with Demi Lovato)",
       "url": "https://open.spotify.com/track/1fipvP2zmef6vN2IwXfJhY"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Cherry (feat. Hayley Kiyoko)",
+        "url": "https://open.spotify.com/album/1h0qJIukGxKxxG4lfT0UOf"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        },
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 152511,
+      "name": "Cherry (feat. Hayley Kiyoko)",
+      "url": "https://open.spotify.com/track/1o9kTjiWJ5lTgKonUK6jAU"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "A Joyful Noise",
-        "url": "https://open.spotify.com/album/6AKGyIfiwcptAUUzLDB0Gd"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 211853,
-      "name": "Move in the Right Direction",
-      "url": "https://open.spotify.com/track/4hjfOnzzrrrDAGt286htU6"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "With The Music I Die (Deluxe)",
         "url": "https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 197586,
       "name": "Dirty Talk",
       "url": "https://open.spotify.com/track/0MX8RxbgtZWRGZRE0Z6zNS"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "A Joyful Noise",
+        "url": "https://open.spotify.com/album/6AKGyIfiwcptAUUzLDB0Gd"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 211853,
+      "name": "Move in the Right Direction",
+      "url": "https://open.spotify.com/track/4hjfOnzzrrrDAGt286htU6"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Alexis Jordan",
+        "url": "https://open.spotify.com/album/6W0rJuDT17aWbYca3dzzz6"
+      },
+      "artists": [
+        {
+          "name": "Alexis Jordan",
+          "url": "https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/7spFEoLxDv20MEg9paKaQ5"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "TREAT MYSELF",
         "url": "https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 176947,
       "name": "Wave (feat. Mike Sabath)",
       "url": "https://open.spotify.com/track/0kOUusNPraZGQfqcnA1zoP"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Alexis Jordan",
-        "url": "https://open.spotify.com/album/6W0rJuDT17aWbYca3dzzz6"
-      },
-      "artists": [
-        {
-          "name": "Alexis Jordan",
-          "url": "https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1"
-        }
-      ],
-      "duration_ms": 236400,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/7spFEoLxDv20MEg9paKaQ5"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1675,22 +1675,18 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "D\u00e9j\u00e0 vu",
-        "url": "https://open.spotify.com/album/09IChrkzmFo9ZZroCRYujr"
+        "name": "My Love Ultimate Essential Collection",
+        "url": "https://open.spotify.com/album/2v0al3Hr4YsxSR5vGWE0OJ"
       },
       "artists": [
         {
-          "name": "Giorgio Moroder",
-          "url": "https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO"
-        },
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
         }
       ],
-      "duration_ms": 212413,
-      "name": "Tom's Diner (feat. Britney Spears)",
-      "url": "https://open.spotify.com/track/73Iz0ppjXiDwgXqXaMd9Xp"
+      "duration_ms": 211306,
+      "name": "I'm Alive",
+      "url": "https://open.spotify.com/track/1l8wkh5QZFK8oPqLeLJRy2"
     }
   ],
   "unique_name": "Deserved",

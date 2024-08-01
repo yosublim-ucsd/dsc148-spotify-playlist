@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 158642,
+  "num_followers": 158691,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Miroirs",
-        "url": "https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu"
-      },
-      "artists": [
-        {
-          "name": "Joseph Kamel",
-          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
-        }
-      ],
-      "duration_ms": 156413,
-      "name": "Celui qui part",
-      "url": "https://open.spotify.com/track/4ZeveNuwkv5cUrkDsx2eGQ"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Nonante-Cinq",
         "url": "https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 164956,
       "name": "Libre",
       "url": "https://open.spotify.com/track/5h9OvsTeNydBaZp7swQubV"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Miroirs",
+        "url": "https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        }
+      ],
+      "duration_ms": 156413,
+      "name": "Celui qui part",
+      "url": "https://open.spotify.com/track/4ZeveNuwkv5cUrkDsx2eGQ"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "caravane",
-        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
-      },
-      "artists": [
-        {
-          "name": "Rapha\u00ebl",
-          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Ne partons pas f\u00e2ch\u00e9s",
-      "url": "https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "PYRAMIDE",
         "url": "https://open.spotify.com/album/4SGj2EwogAMqiN2imHvJSb"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
-        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
+        "name": "caravane",
+        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
       },
       "artists": [
         {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+          "name": "Rapha\u00ebl",
+          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
         }
       ],
-      "duration_ms": 184077,
-      "name": "Nue",
-      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
+      "duration_ms": 193000,
+      "name": "Ne partons pas f\u00e2ch\u00e9s",
+      "url": "https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -663,6 +647,22 @@
       "duration_ms": 205973,
       "name": "L'horloge tourne",
       "url": "https://open.spotify.com/track/1sphiFFp9zrlSLmpFhywRV"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
+        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 184077,
+      "name": "Nue",
+      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Repenti",
+        "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
+      },
+      "artists": [
+        {
+          "name": "Renan Luce",
+          "url": "https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J"
+        }
+      ],
+      "duration_ms": 215813,
+      "name": "Les voisines",
+      "url": "https://open.spotify.com/track/3moelwvWkm8rliDyjywgA1"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "\u00c9ph\u00e9m\u00e8re",
         "url": "https://open.spotify.com/album/3THI8m0WtBsYrdxKsRuS3w"
       },
@@ -839,22 +855,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Repenti",
-        "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
-      },
-      "artists": [
-        {
-          "name": "Renan Luce",
-          "url": "https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J"
-        }
-      ],
-      "duration_ms": 215813,
-      "name": "Les voisines",
-      "url": "https://open.spotify.com/track/3moelwvWkm8rliDyjywgA1"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "La femme id\u00e9ale",
         "url": "https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne"
       },
@@ -871,18 +871,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "13",
-        "url": "https://open.spotify.com/album/5NFN9HK3cvDaYnEtmHUVbo"
+        "name": "Camelia Jordana",
+        "url": "https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT"
       },
       "artists": [
         {
-          "name": "Indochine",
-          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+          "name": "Cam\u00e9lia Jordana",
+          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
         }
       ],
-      "duration_ms": 326186,
-      "name": "Un \u00e9t\u00e9 fran\u00e7ais",
-      "url": "https://open.spotify.com/track/4Ngeca4zs304bDnDh3pjzI"
+      "duration_ms": 166493,
+      "name": "Non non non (Ecouter Barbara)",
+      "url": "https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -903,18 +903,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Camelia Jordana",
-        "url": "https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT"
+        "name": "13",
+        "url": "https://open.spotify.com/album/5NFN9HK3cvDaYnEtmHUVbo"
       },
       "artists": [
         {
-          "name": "Cam\u00e9lia Jordana",
-          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
         }
       ],
-      "duration_ms": 166493,
-      "name": "Non non non (Ecouter Barbara)",
-      "url": "https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc"
+      "duration_ms": 326186,
+      "name": "Un \u00e9t\u00e9 fran\u00e7ais",
+      "url": "https://open.spotify.com/track/4Ngeca4zs304bDnDh3pjzI"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Belle Ile En Mer",
+        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
+      },
+      "artists": [
+        {
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+        }
+      ],
+      "duration_ms": 250746,
+      "name": "Rockollection",
+      "url": "https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "\u00e0 2 \u00e0 3",
         "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 201138,
       "name": "Call on me - feat. Ed Sheeran",
       "url": "https://open.spotify.com/track/2Hn8kSDjl8qAJ0BVgFYcnp"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Belle Ile En Mer",
-        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
-      },
-      "artists": [
-        {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
-        }
-      ],
-      "duration_ms": 250746,
-      "name": "Rockollection",
-      "url": "https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "A l'envers",
-        "url": "https://open.spotify.com/album/6gVpnC0Dvjuv1XOVPnkGr6"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Goldman",
-          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
-        }
-      ],
-      "duration_ms": 349293,
-      "name": "Il suffira d'un signe",
-      "url": "https://open.spotify.com/track/0xt1kT5tYW6BkwqGdOyUbA"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Collection",
         "url": "https://open.spotify.com/album/7CidHDoNltKs2NfPSIn3Ol"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 232440,
       "name": "Sur la route",
       "url": "https://open.spotify.com/track/5NFbXrKAou3S8Jg0heGyW8"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "A l'envers",
+        "url": "https://open.spotify.com/album/6gVpnC0Dvjuv1XOVPnkGr6"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+        }
+      ],
+      "duration_ms": 349293,
+      "name": "Il suffira d'un signe",
+      "url": "https://open.spotify.com/track/0xt1kT5tYW6BkwqGdOyUbA"
     },
     {
       "added_at": "2024-05-23 22:00:00",

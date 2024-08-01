@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Mozey",
-  "num_followers": 62061,
+  "num_followers": 62075,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -1043,22 +1043,18 @@
     {
       "added_at": "2024-07-25 19:21:42",
       "album": {
-        "name": "Wild (Disrupta Remix)",
-        "url": "https://open.spotify.com/album/27xGHAAYqDjQM04UIFVT8W"
+        "name": "Take You Higher",
+        "url": "https://open.spotify.com/album/50rZcGSInCDVzBai5jQuo7"
       },
       "artists": [
         {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        },
-        {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
         }
       ],
-      "duration_ms": 186500,
-      "name": "Wild - Disrupta Remix",
-      "url": "https://open.spotify.com/track/1siHenGtsl36Q6vs7c20O9"
+      "duration_ms": 204357,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/2T3fASr8VAc8sCs9A31VUz"
     },
     {
       "added_at": "2024-07-25 19:21:42",
@@ -1083,18 +1079,22 @@
     {
       "added_at": "2024-07-25 19:21:42",
       "album": {
-        "name": "Take You Higher",
-        "url": "https://open.spotify.com/album/50rZcGSInCDVzBai5jQuo7"
+        "name": "Wild (Disrupta Remix)",
+        "url": "https://open.spotify.com/album/27xGHAAYqDjQM04UIFVT8W"
       },
       "artists": [
         {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
         }
       ],
-      "duration_ms": 204357,
-      "name": "Take You Higher",
-      "url": "https://open.spotify.com/track/2T3fASr8VAc8sCs9A31VUz"
+      "duration_ms": 186500,
+      "name": "Wild - Disrupta Remix",
+      "url": "https://open.spotify.com/track/1siHenGtsl36Q6vs7c20O9"
     },
     {
       "added_at": "2024-07-25 19:21:42",

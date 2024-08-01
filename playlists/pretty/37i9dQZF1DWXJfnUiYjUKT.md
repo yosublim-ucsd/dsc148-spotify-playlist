@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,177 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,210 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 22 | [I Ain't Sayin'](https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [I Ain't Sayin'](https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d) | 2:54 |
 | 23 | [MIRACLE WORKER](https://open.spotify.com/track/1D9ByxtOr0trURwGmKG7wm) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [CHILD OF GOD](https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb) | 3:03 |
 | 24 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 |
-| 25 | [Life Size](https://open.spotify.com/track/2MktD7t0SE7FOeVWSdoEGX) | [Mahalia](https://open.spotify.com/artist/6mU3WkvcWgHoNG5OlLdsOz), [Take A Daytrip](https://open.spotify.com/artist/4djKrdEueYr8atAhknG6vt) | [Life Size](https://open.spotify.com/album/46OasNzqh720kxVoXB7YMC) | 2:31 |
+| 25 | [Life Size](https://open.spotify.com/track/2MktD7t0SE7FOeVWSdoEGX) | [Mahalia](https://open.spotify.com/artist/6mU3WkvcWgHoNG5OlLdsOz), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [Life Size](https://open.spotify.com/album/46OasNzqh720kxVoXB7YMC) | 2:31 |
 | 26 | [Most Wanted](https://open.spotify.com/track/3ol70ZGonP9HTEQSKhZYcY) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Most Wanted](https://open.spotify.com/album/4dMG65PpEgLhnAKMGbi2ge) | 2:43 |
 | 27 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 |
 | 28 | [Visions of Dallas](https://open.spotify.com/track/2DZMQkB8lSBelyDGMIOXoI) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Visions of Dallas](https://open.spotify.com/album/3ooXOWd62SBpKLmbTGosHp) | 3:27 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 38 | [The Same Bitch!](https://open.spotify.com/track/1NiHPhOiEqtqxIyuvF5X4E) | [Sarah Defne Gray](https://open.spotify.com/artist/6TbjlN6D9H1Oa7I1o31QtS) | [The Same Bitch!](https://open.spotify.com/album/3pqKZZppo8LYgke5rJaUsK) | 3:26 |
 | 39 | [SCREAM MY NAME](https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [DISTRACTION / SCREAM MY NAME](https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy) | 2:40 |
 | 40 | [I LO<3 MY EX](https://open.spotify.com/track/375yP07IehIfCK16Ba4bne) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [I LO<3 MY EX](https://open.spotify.com/album/5qvwNc0eA0wUE1q5K3F0vK) | 2:50 |
-| 41 | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/track/7aDvC7UzTZ47Hx5jJUX1sJ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [JT](https://open.spotify.com/artist/4cybvZ3pcSdD2xNFhIzrkk) | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/album/2wJwaumR3Y8PCM01JgJqSj) | 3:00 |
+| 41 | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/track/7aDvC7UzTZ47Hx5jJUX1sJ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/album/2wJwaumR3Y8PCM01JgJqSj) | 3:00 |
 | 42 | [Chills \(Feel My Love\)](https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Chills \(Feel My Love\)](https://open.spotify.com/album/5D3qYKt4IFBEQENqzzlh1Y) | 2:43 |
 | 43 | [fine print](https://open.spotify.com/track/5DaioYi0j9yvJu56KE7FYl) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [fine print](https://open.spotify.com/album/2XhQW0H9sVSzQ82JJ9m1wJ) | 2:20 |
 | 44 | [Butterfly](https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Butterfly](https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV) | 3:13 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 96 | [Predator](https://open.spotify.com/track/50einjgl3ERzlcGJPT5mWM) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [Predator](https://open.spotify.com/album/2kAKa8z3EuCnkadmNXeewO) | 3:01 |
 | 97 | [DURO](https://open.spotify.com/track/6ndhH1Tj2ffz1xWoYQ2e6I) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [¡BANG BANG!](https://open.spotify.com/album/2ug2WZctSV73uTG44lJ3GM) | 2:22 |
 | 98 | [Counting The Days](https://open.spotify.com/track/5WS5tU5fDBhSy3soud3bic) | [The Hanseroth Twins](https://open.spotify.com/artist/3WuWtZ0K4xLMVB2tuZswIZ) | [Vera](https://open.spotify.com/album/2bMv75cm4yqxRklbRe5Zj2) | 4:40 |
-| 99 | [Corazón](https://open.spotify.com/track/5ePlrWLaehge6VpooLOiwt) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Corazón](https://open.spotify.com/album/4217Ui5bxrqSH3vuGrT20q) | 3:00 |
+| 99 | [Corazón / Death by Disco Pt 2](https://open.spotify.com/track/5ePlrWLaehge6VpooLOiwt) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Corazón / Death by Disco Pt 2](https://open.spotify.com/album/4217Ui5bxrqSH3vuGrT20q) | 3:00 |
 | 100 | [Rain Can't Reach Us](https://open.spotify.com/track/6raq4es8xYh6Rp8OJNBFYj) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Rain Can't Reach Us](https://open.spotify.com/album/4Zz6Sy6FAQWKQTgQMWiHTS) | 4:56 |
 
 Snapshot ID: `ZqO/tAAAAABDZZycjsnFwL3645OHJrjn`

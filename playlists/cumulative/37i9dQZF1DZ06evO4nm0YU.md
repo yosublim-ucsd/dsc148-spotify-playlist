@@ -2,7 +2,7 @@
 
 ### [This Is Héctor Lavoe](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nm0YU)
 
-> This is Héctor Lavoe\. Todos os maiores hits em uma só playlist.
+> This Is Héctor Lavoe\. Los temas esenciales, todos en una lista.
 
 67 songs - 6 hr 12 min
 

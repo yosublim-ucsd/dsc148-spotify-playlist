@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 250000,
       "name": "Aaja - Stripped Version",
       "url": "https://open.spotify.com/track/6RBoeJVWQmesmSzl5ole38"
@@ -1474,6 +1474,24 @@
       "duration_ms": 250000,
       "name": "Dil Beparvah - The Dewarists, Season 5",
       "url": "https://open.spotify.com/track/4kXkT9HF9ZfDjuv3LIKcwJ"
+    },
+    {
+      "album": {
+        "name": "Dil Besabar",
+        "url": "https://open.spotify.com/album/7bstmsZGHaiZfupqDfk9NA"
+      },
+      "artists": [
+        {
+          "name": "Azadd",
+          "url": "https://open.spotify.com/artist/03iLvvBbav8KGD0s6j8bPA"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "Dil Besabar",
+      "url": "https://open.spotify.com/track/5LV90I2HKJFJ8GMNaS75ZA"
     },
     {
       "album": {

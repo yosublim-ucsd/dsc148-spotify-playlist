@@ -219,6 +219,28 @@
     },
     {
       "album": {
+        "name": "AKNG BHLA SAYO",
+        "url": "https://open.spotify.com/album/5u82bPV7Isp4Uhr4sJMrnn"
+      },
+      "artists": [
+        {
+          "name": "Just Hush",
+          "url": "https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF"
+        },
+        {
+          "name": "Mistah Lefty",
+          "url": "https://open.spotify.com/artist/7eyFrCQySwCVAi5g8YgV4X"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217600,
+      "name": "AKNG BHLA SAYO",
+      "url": "https://open.spotify.com/track/5ay2w1HasPkX5YDDzp2evO"
+    },
+    {
+      "album": {
         "name": "ALABAMBANG",
         "url": "https://open.spotify.com/album/5Wlq2jyxmMzh0RceGkqmTb"
       },
@@ -590,6 +612,24 @@
       "duration_ms": 196246,
       "name": "BNK",
       "url": "https://open.spotify.com/track/3cWuWcQwMxakmBaZCFZkEZ"
+    },
+    {
+      "album": {
+        "name": "Bukas Pa",
+        "url": "https://open.spotify.com/album/6HVeMy5Sxr3T54MvPYWKE6"
+      },
+      "artists": [
+        {
+          "name": "Sica",
+          "url": "https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225555,
+      "name": "Bukas Pa",
+      "url": "https://open.spotify.com/track/62I2yNEQVegBCapuS7UPSd"
     },
     {
       "album": {
@@ -1938,7 +1978,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 194911,
       "name": "LWKY",
       "url": "https://open.spotify.com/track/0k4oIMUqetHzgMTLw7vxJe"
@@ -2056,7 +2096,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 152066,
       "name": "Malaking P - Rich N**** Shit Remix",
       "url": "https://open.spotify.com/track/3UsQ5xVmuxXhZkJOJbVDed"
@@ -2104,7 +2144,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 288855,
       "name": "Manatili",
       "url": "https://open.spotify.com/track/3coArR1muD6ainIHX2ynk4"
@@ -2684,6 +2724,24 @@
       "duration_ms": 123116,
       "name": "RAW",
       "url": "https://open.spotify.com/track/6YK6D1wwSEK2DfAC6HXR2m"
+    },
+    {
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/0WO2RnfXjz2WeYDsRhQP98"
+      },
+      "artists": [
+        {
+          "name": "Shanti Dope",
+          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174025,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/2rHlkGQAXF0Z0mKWsC38d0"
     },
     {
       "album": {

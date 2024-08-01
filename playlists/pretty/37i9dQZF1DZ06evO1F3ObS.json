@@ -1,12 +1,12 @@
 {
-  "description": "This is ReoNa. The essential tracks, all in one playlist.",
+  "description": "This Is ReoNa. Los temas esenciales, todos en una lista.",
   "num_followers": 20717,
   "original_name": "This Is ReoNa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqbbgAAAAAC7JGSzM1MFfettvfEuL0vC",
+  "snapshot_id": "ZqgtAAAAAAAUl8enxcFYiec9L9/yDvHN",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 189866,
+      "name": "SACRA",
+      "url": "https://open.spotify.com/track/3ZAzz9T4ANqovBZBJkOiVh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 301253,
       "name": "ALONE",
       "url": "https://open.spotify.com/track/7gAEbjSCRgZhE1YjiO5ZPV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HUMAN",
-        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 189866,
-      "name": "SACRA",
-      "url": "https://open.spotify.com/track/3ZAzz9T4ANqovBZBJkOiVh"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "forget-me-not",
-        "url": "https://open.spotify.com/album/4PwgqiO9jB02M92C6YfGo2"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 314706,
-      "name": "\u30c8\u30a6\u30b7\u30f3\u30c0\u30a4",
-      "url": "https://open.spotify.com/track/24X8oKzZfqG7eQ3XhN0kSf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ANIMA (Special Edition)",
         "url": "https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 353546,
       "name": "\u30df\u30df\u30c3\u30af",
       "url": "https://open.spotify.com/track/6KvzNhC0ZEJrEQNMrC4u3t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "forget-me-not",
+        "url": "https://open.spotify.com/album/4PwgqiO9jB02M92C6YfGo2"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 314706,
+      "name": "\u30c8\u30a6\u30b7\u30f3\u30c0\u30a4",
+      "url": "https://open.spotify.com/track/24X8oKzZfqG7eQ3XhN0kSf"
     },
     {
       "added_at": null,

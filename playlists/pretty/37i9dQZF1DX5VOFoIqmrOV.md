@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Hi Nanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,451 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,551 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 40 | [Gaaju Bomma](https://open.spotify.com/track/7xmkMdxtGt9jEQVyQK8TP8) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Hi Nanna](https://open.spotify.com/album/1dpKR9xGrVPqN4l78ymrKD) | 4:26 |
 | 41 | [Telisiney Na Nuvvey](https://open.spotify.com/track/6f7qFjos0WWqvtEnwFDS0a) | [L\. V\. Revanth](https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB) | [Arjun Reddy](https://open.spotify.com/album/1tqm6TOZEJfsjJagQPFbyd) | 4:12 |
 | 42 | [Choosa Choosa](https://open.spotify.com/track/0iIvZ25h16B9DhjptYp8hK) | [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk), [Sniggy](https://open.spotify.com/artist/0ioIcfFt7AbPVmSInTsWX6) | [Dhruva](https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM) | 3:20 |
-| 43 | [Ammaadi \(From "Hi Nanna"\)](https://open.spotify.com/track/3bPDmXZO6aMcH3h8bkTAdN) | [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Ammaadi \(From "Hi Nanna"\)](https://open.spotify.com/album/0wSKxp1N4ux0vbWGFx7Fhs) | 3:39 |
-| 44 | [Hey Pillagaada](https://open.spotify.com/track/3A3vrhAzRGaK92PtFzndjS) | [Sindhuri](https://open.spotify.com/artist/42hb3CC6jTpF3vve0FkquG), [Sinov Raj](https://open.spotify.com/artist/0Xk1j528pHoL2oervr3qP0) | [Fidaa](https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh) | 4:08 |
+| 43 | [Hey Pillagaada](https://open.spotify.com/track/3A3vrhAzRGaK92PtFzndjS) | [Sindhuri](https://open.spotify.com/artist/42hb3CC6jTpF3vve0FkquG), [Sinov Raj](https://open.spotify.com/artist/0Xk1j528pHoL2oervr3qP0) | [Fidaa](https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh) | 4:08 |
+| 44 | [Ammaadi \(From "Hi Nanna"\)](https://open.spotify.com/track/3bPDmXZO6aMcH3h8bkTAdN) | [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Ammaadi \(From "Hi Nanna"\)](https://open.spotify.com/album/0wSKxp1N4ux0vbWGFx7Fhs) | 3:39 |
 | 45 | [Rang de](https://open.spotify.com/track/2x3Plafnj7QE5VU3mFI7f7) | [Ramya](https://open.spotify.com/artist/7gVwxXFMkSYwYGNHIt77qU), [Rahul Nambiar](https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP), [Shivani](https://open.spotify.com/artist/1YgwDFQvwbprfD17tGUjje) | [Aa Aaa](https://open.spotify.com/album/6v3wCqXfxeBqt63zXTCQOY) | 4:01 |
 | 46 | [Boss Party \(From "Waltair Veerayya"\)](https://open.spotify.com/track/4sJ9X27MSCue4d0t48MXwe) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [Boss Party \(From "Waltair Veerayya"\)](https://open.spotify.com/album/0JB0Brs2tTPzy9Su8TKLGl) | 3:20 |
 | 47 | [Love Me Again](https://open.spotify.com/track/3OmarYHeUC6ZWPX9tkBrDv) | [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB) | [Nannaku Prematho](https://open.spotify.com/album/7Cz9TMxapJs5HgAP3QHBJo) | 4:06 |

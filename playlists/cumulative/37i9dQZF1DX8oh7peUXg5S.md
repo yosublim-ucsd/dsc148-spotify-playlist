@@ -2,9 +2,9 @@
 
 ### [Cantautores](https://open.spotify.com/playlist/37i9dQZF1DX8oh7peUXg5S)
 
-> El don de cantar y componer, una playlist llena de talento\. Foto: Andrés Suárez.
+> El don de cantar y componer, una playlist llena de talento\. Foto: Luis Eduardo Aute.
 
-295 songs - 18 hr 48 min
+297 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [El Meteco \(Le Métèque\)](https://open.spotify.com/track/5Wsk3PjvEpeyJADawCDHsJ) | [Marina Rossell](https://open.spotify.com/artist/4VtMHmnigTKtWyQR71len2) | [Canta Moustaki y Canciones de la Resistencia](https://open.spotify.com/album/7igLnNu1BTR55GnN49wfoW) | 3:25 | 2022-06-09 | 2022-07-29 |
 | [El novio de la muerte](https://open.spotify.com/track/1A1iR17dcSXzkhMZyYSOSn) | [javier álvarez](https://open.spotify.com/artist/7npPHFVavArmlInnza5R5n) | [Grandes Exitos](https://open.spotify.com/album/6XlZhZZ0tjPOTZhdyRDIul) | 4:00 | 2022-06-09 | 2022-07-28 |
 | [El Otro](https://open.spotify.com/track/3rSMP6Rx0DxlXN01DWotof) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [El Otro](https://open.spotify.com/album/6pl3ZsD89ASk91SpE61Gt5) | 3:36 | 2024-05-21 | 2024-06-29 |
+| [El Panadero](https://open.spotify.com/track/3RktUXfSVu6OEZJRQzOAPj) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [De camino al camino](https://open.spotify.com/album/4AaZtzB96HeZZUuJNwFQPS) | 5:40 | 2024-07-31 |  |
 | [El sitio de mi recreo](https://open.spotify.com/track/2tkMVjFwDzUCG3ulmz3fCb) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Canciones 1980\-2009](https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u) | 3:10 | 2022-06-09 |  |
 | [El Sitio De Mi Recreo](https://open.spotify.com/track/0uWLyUK9WECq0nKz0DiA4A) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Oceano De Sol](https://open.spotify.com/album/0Bh08k9p3L0X9mUU3iDUyp) | 3:10 | 2022-06-30 | 2024-04-19 |
 | [El Viaje](https://open.spotify.com/track/0XR0jBbghtl9mPFu2sdrkw) | [Conchita](https://open.spotify.com/artist/0TPv1jIhKn4d0boGDxy4LI) | [El Viaje](https://open.spotify.com/album/6yYEqaQ9hk4TSbimaDF7Dw) | 4:41 | 2022-06-09 | 2022-11-25 |
@@ -147,6 +148,7 @@
 | [Las Cosas Que Importan](https://open.spotify.com/track/7wMI2biNviwKOMqK53OEzu) | [Hirahi Afonso](https://open.spotify.com/artist/5mh519bztRWlB587VIHYlh), [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [LO PURO](https://open.spotify.com/album/0FSNoh3jzgyMrFT5oYfWP6) | 3:34 | 2023-10-12 | 2023-12-15 |
 | [Las Cuatro y Diez](https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 2:37 | 2022-06-09 |  |
 | [Libre te quiero](https://open.spotify.com/track/2fBCjtFq4Xzue65sCFxAof) | [Amancio Prada](https://open.spotify.com/artist/2zzdcDYrrZE11oQ4xo2Ufr) | [Canciones de amor y celda](https://open.spotify.com/album/6Jpai5ZKz0dAXOukKeFqro) | 3:21 | 2022-06-09 | 2022-07-25 |
+| [Llegas tú](https://open.spotify.com/track/7cr1yg8r6ELife74riXE9W) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Llegas tú](https://open.spotify.com/album/1Yl5dq5EX3iweirK4qub8c) | 2:40 | 2024-07-31 |  |
 | [Llévame](https://open.spotify.com/track/5fDaVlO4UbfxPro5AlYtfM) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [El Abrazo](https://open.spotify.com/album/2dSkUbpQomxuCshAMKSt18) | 2:59 | 2024-04-25 | 2024-05-22 |
 | [Lo llaman vida](https://open.spotify.com/track/4Rk6Xfsj274vKcg1n4zvmm) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO), [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Lo llaman vida](https://open.spotify.com/album/3J3B93yIAPY0ybp9GuxTr1) | 3:18 | 2023-05-05 | 2023-05-30 |
 | [Lo Niego Todo](https://open.spotify.com/track/4OpjKvt0ZXA117dqzOrV1y) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Lo Niego Todo](https://open.spotify.com/album/5hkq8Af2XQd5wYSQwscjOs) | 4:42 | 2022-06-09 | 2022-07-29 |
@@ -209,7 +211,7 @@
 | [Pasaba por Aqui](https://open.spotify.com/track/6XhZIUzlCGABARgSgZby2v) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 2:52 | 2023-02-16 | 2024-01-29 |
 | [Peces de Ciudad \(feat\. Pablo López\)](https://open.spotify.com/track/7sLYuvEf4lqz6zSnjYBkkP) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Pablo López](https://open.spotify.com/artist/4uyqaioPEdClDxU6zvYlAZ) | [Peces de Ciudad \(feat\. Pablo López\)](https://open.spotify.com/album/1z62EMbonbN8m5fjpzT9cn) | 6:30 | 2022-06-09 |  |
 | [Pelea](https://open.spotify.com/track/6QR5lxnnoHQYp2mzPaQLoA) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i) | [Pelea](https://open.spotify.com/album/4qdxRH2Bky1scYkme2xAY9) | 4:21 | 2024-03-21 | 2024-05-10 |
-| [Pienso en ti \- Sesiones Moraima 2](https://open.spotify.com/track/2KerP0uIno08ZTvG5lDv8H) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe) | [Pienso en ti \(Sesiones Moraima 2\)](https://open.spotify.com/album/6ApaVcN0OP4DWSwgQuq58a) | 3:43 | 2024-06-20 |  |
+| [Pienso en ti \- Sesiones Moraima 2](https://open.spotify.com/track/2KerP0uIno08ZTvG5lDv8H) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe) | [Pienso en ti \(Sesiones Moraima 2\)](https://open.spotify.com/album/6ApaVcN0OP4DWSwgQuq58a) | 3:43 | 2024-06-20 | 2024-08-01 |
 | [Poetas Andaluces \(I Parte\)](https://open.spotify.com/track/61l9BfUUnFcrXFnC6smGBB) | [Aguaviva](https://open.spotify.com/artist/1e5nxeHvABiwpD6UG5J21f) | [Poetas Andaluces](https://open.spotify.com/album/04oTnscF3tloAc3mTRYLTt) | 2:07 | 2022-06-09 | 2022-06-19 |
 | [Por el Bulevar de los Sueños Rotos](https://open.spotify.com/track/7KcFlbQmzhVczGMor3Fhr9) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Esta Boca Es Mia](https://open.spotify.com/album/5PRLhyzly43RBl6ZAeydzk) | 3:58 | 2022-06-09 |  |
 | [Por qué te vas](https://open.spotify.com/track/3Gj5CDzCdq01ftkxGxhdeH) | [javier álvarez](https://open.spotify.com/artist/7npPHFVavArmlInnza5R5n) | [Las 100 mejores canciones del Pop Español](https://open.spotify.com/album/4T1zaLt2uHXf8qAscsSP60) | 2:54 | 2022-06-09 | 2022-07-27 |
@@ -266,7 +268,7 @@
 | [Te Quiero Porque Te Quiero \(Fandangos\)](https://open.spotify.com/track/0t5E6QD5qzDhZjdC1P2ukP) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Te Quiero Porque Te Quiero \(Fandangos\)](https://open.spotify.com/album/4Hh0e0hN5P3Ch6FOZrHx58) | 3:22 | 2022-10-14 | 2022-11-18 |
 | [Te sigo soñando \(feat\. Luz Casal\) \- En Estudio Uno](https://open.spotify.com/track/3A0nxq1JYftweBELu8rxP0) | [DePedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb), [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [Te sigo soñando \(feat\. Luz Casal\) \[En Estudio Uno\]](https://open.spotify.com/album/52nuQBcfmXxwM5LRXNscI9) | 4:16 | 2022-06-09 | 2022-07-29 |
 | [Terra](https://open.spotify.com/track/5Uw24VY2ItLdhCXARPpuPd) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Carta Aberta](https://open.spotify.com/album/1JVc6xReXLJbKpVlTKg03e) | 4:30 | 2022-11-24 | 2023-03-18 |
-| [Tierna nana ya](https://open.spotify.com/track/6uL2nkNDZZh74l0Mu37ke0) | [Gabriel Vidanauta](https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ), [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [Tierna nana ya](https://open.spotify.com/album/7EHOl9faglUlMGJiUptMaM) | 4:45 | 2024-06-14 |  |
+| [Tierna nana ya](https://open.spotify.com/track/6uL2nkNDZZh74l0Mu37ke0) | [Gabriel Vidanauta](https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ), [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [Tierna nana ya](https://open.spotify.com/album/7EHOl9faglUlMGJiUptMaM) | 4:45 | 2024-06-14 | 2024-08-01 |
 | [Tierra](https://open.spotify.com/track/6mR0ZA4DxvAHBihaXgI3oD) | [Xoel López](https://open.spotify.com/artist/59bV1Zv97BwGJYy6O2SvUx) | [Atlántico](https://open.spotify.com/album/0gROV7KbeA7uF7XAgHtDpX) | 3:58 | 2022-06-09 | 2022-11-13 |
 | [Tinta y Tiempo](https://open.spotify.com/track/3sNmeMXgzDw5887ClDLfXH) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Tinta y Tiempo](https://open.spotify.com/album/7drLytofGXezhYswIuCGHu) | 4:09 | 2022-06-30 | 2022-09-23 |
 | [Toda la vida, un día \- Mov.4: El Peso](https://open.spotify.com/track/2KZJSQqoiH6EfifV3Yn3ph) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw), [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Toda la vida, un día \(Mov.4: El Peso\)](https://open.spotify.com/album/3dvVyG9YsiillnEGGZYgVU) | 4:24 | 2023-02-16 | 2023-03-18 |

@@ -1,6 +1,6 @@
 {
   "description": "Taking it back to the 2010s. Cover: Cordae",
-  "num_followers": 335977,
+  "num_followers": 335986,
   "original_name": "2010s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-07-02 00:01:35",
       "album": {
-        "name": "Oxymoron (Deluxe)",
-        "url": "https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS"
-      },
-      "artists": [
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "Man Of The Year",
-      "url": "https://open.spotify.com/track/5SsR3wtCOafDmZgvIdRhSm"
-    },
-    {
-      "added_at": "2024-07-02 00:01:35",
-      "album": {
         "name": "DiCaprio 2",
         "url": "https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY"
       },
@@ -1587,22 +1571,18 @@
     {
       "added_at": "2024-07-02 00:01:35",
       "album": {
-        "name": "Cilvia Demo",
-        "url": "https://open.spotify.com/album/6JF49ixyHmOgS0Rsda2k42"
+        "name": "Oxymoron (Deluxe)",
+        "url": "https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS"
       },
       "artists": [
         {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
         }
       ],
-      "duration_ms": 167276,
-      "name": "West Savannah (feat. SZA)",
-      "url": "https://open.spotify.com/track/0Gt4nGWoATcQFL38a1NRao"
+      "duration_ms": 216013,
+      "name": "Man Of The Year",
+      "url": "https://open.spotify.com/track/5SsR3wtCOafDmZgvIdRhSm"
     },
     {
       "added_at": "2024-07-02 00:01:35",
@@ -1623,6 +1603,26 @@
       "duration_ms": 193026,
       "name": "Hot (feat. Gunna)",
       "url": "https://open.spotify.com/track/5Z8HZM6iQMhhqyPcCGY5g9"
+    },
+    {
+      "added_at": "2024-07-02 00:01:35",
+      "album": {
+        "name": "Cilvia Demo",
+        "url": "https://open.spotify.com/album/6JF49ixyHmOgS0Rsda2k42"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 167276,
+      "name": "West Savannah (feat. SZA)",
+      "url": "https://open.spotify.com/track/0Gt4nGWoATcQFL38a1NRao"
     },
     {
       "added_at": "2024-07-02 00:01:35",
@@ -1739,22 +1739,46 @@
     {
       "added_at": "2024-07-02 00:01:35",
       "album": {
-        "name": "Oxymoron (Deluxe)",
-        "url": "https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS"
+        "name": "The Beautiful & Damned",
+        "url": "https://open.spotify.com/album/1VAc77UvK5wj8ZSWCo3V2b"
       },
       "artists": [
         {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
         },
         {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 278066,
-      "name": "Studio",
-      "url": "https://open.spotify.com/track/29gsi1zZrZxdStACmTQB0Z"
+      "duration_ms": 245386,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/2DQ1ITjI0YoLFzuADN1ZBW"
+    },
+    {
+      "added_at": "2024-07-02 00:01:35",
+      "album": {
+        "name": "Birds In The Trap Sing McKnight",
+        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 252256,
+      "name": "pick up the phone",
+      "url": "https://open.spotify.com/track/20dP2DaMHIAmwWAbp7peSr"
     },
     {
       "added_at": "2024-07-02 00:01:35",
@@ -1783,46 +1807,22 @@
     {
       "added_at": "2024-07-02 00:01:35",
       "album": {
-        "name": "Birds In The Trap Sing McKnight",
-        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
+        "name": "Oxymoron (Deluxe)",
+        "url": "https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS"
       },
       "artists": [
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
         },
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
         }
       ],
-      "duration_ms": 252256,
-      "name": "pick up the phone",
-      "url": "https://open.spotify.com/track/20dP2DaMHIAmwWAbp7peSr"
-    },
-    {
-      "added_at": "2024-07-02 00:01:35",
-      "album": {
-        "name": "The Beautiful & Damned",
-        "url": "https://open.spotify.com/album/1VAc77UvK5wj8ZSWCo3V2b"
-      },
-      "artists": [
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 245386,
-      "name": "No Limit",
-      "url": "https://open.spotify.com/track/2DQ1ITjI0YoLFzuADN1ZBW"
+      "duration_ms": 278066,
+      "name": "Studio",
+      "url": "https://open.spotify.com/track/29gsi1zZrZxdStACmTQB0Z"
     },
     {
       "added_at": "2024-07-02 00:01:35",

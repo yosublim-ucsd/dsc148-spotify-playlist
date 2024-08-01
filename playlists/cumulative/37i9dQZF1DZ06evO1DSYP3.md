@@ -4,7 +4,7 @@
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-78 songs - 3 hr 38 min
+79 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [What We On \(feat\. E\-40\)](https://open.spotify.com/track/0TLAn4Hzf9fTtprPfDgjY4) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [What We On \(feat\. E\-40\)](https://open.spotify.com/album/6NCCYWOcEUB5jCMzBtgiql) | 2:53 | 2024-01-29 |  |
 | [What's That?](https://open.spotify.com/track/4tYg2Yu3cmuJHDclO5vrnx) | [Will Hill ](https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [What's That?](https://open.spotify.com/album/3dJlSNBvBzbBlVVJrK99qz) | 2:20 | 2024-01-29 |  |
 | [WHO ELSE YOU KNOW!?](https://open.spotify.com/track/2MFzLd6FjVkUQzQIolalpO) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [MALACHI](https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [MAJORLY INDEPENDENT](https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b) | 2:49 | 2024-07-10 |  |
-| [YANKIN!](https://open.spotify.com/track/7jICgMZ4vEkAirE1gxMMZm) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [D\-LO](https://open.spotify.com/artist/40uPOeOQVWuNb6imBRJWjR), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Raymon Marco](https://open.spotify.com/artist/2hk2X7xeg4QEQwKdnvl0JG), [MALACHI](https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb) | [YANKIN!](https://open.spotify.com/album/4UzCUrPGInWVchMROi7XEV) | 3:58 | 2024-07-08 |  |
+| [YANKIN!](https://open.spotify.com/track/7jICgMZ4vEkAirE1gxMMZm) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [D\-LO](https://open.spotify.com/artist/40uPOeOQVWuNb6imBRJWjR), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Raymon Marco](https://open.spotify.com/artist/2hk2X7xeg4QEQwKdnvl0JG), [MALACHI](https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb) | [YANKIN!](https://open.spotify.com/album/4UzCUrPGInWVchMROi7XEV) | 3:58 | 2024-07-08 | 2024-08-01 |
+| [YANKIN!](https://open.spotify.com/track/7xkfjJyZbGXTDG9NnXF7aP) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [D\-LO](https://open.spotify.com/artist/40uPOeOQVWuNb6imBRJWjR), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Raymon Marco](https://open.spotify.com/artist/2hk2X7xeg4QEQwKdnvl0JG), [MALACHI](https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb) | [MAJORLY INDEPENDENT](https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b) | 3:58 | 2024-08-01 |  |
 | [Zen Mode \(feat\. P\-Lo\)](https://open.spotify.com/track/3PnklmqqCm1caXi093GlVH) | [MANILA GREY](https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [No Saints on Knight Street](https://open.spotify.com/album/4NcVOJfCpGq5BFEhhvjge4) | 2:37 | 2024-01-30 | 2024-02-18 |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

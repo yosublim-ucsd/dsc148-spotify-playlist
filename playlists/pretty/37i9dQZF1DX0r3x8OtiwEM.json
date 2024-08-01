@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 951828,
+  "num_followers": 951976,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "All I Got",
-        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 304390,
-      "name": "All I Got",
-      "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Those Days",
         "url": "https://open.spotify.com/album/2Vvb4crZUQD03YL5NObxCX"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 227987,
       "name": "Those Days",
       "url": "https://open.spotify.com/track/5AE9gV2YLkcGwbgcObklNi"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "All I Got",
+        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 304390,
+      "name": "All I Got",
+      "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -747,6 +747,38 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Light up my dark",
+        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 208937,
+      "name": "Light up my dark",
+      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Holocene, Pt. II",
+        "url": "https://open.spotify.com/album/0tR8cyT01xwg5DDuMdQCys"
+      },
+      "artists": [
+        {
+          "name": "Klangphonics",
+          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
+        }
+      ],
+      "duration_ms": 414600,
+      "name": "Holocene, Pt. II",
+      "url": "https://open.spotify.com/track/1H2Dq1kyLUWl0QW8CLzDZb"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Electric",
         "url": "https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX"
       },
@@ -767,22 +799,6 @@
       "duration_ms": 261290,
       "name": "Electric",
       "url": "https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Holocene, Pt. II",
-        "url": "https://open.spotify.com/album/0tR8cyT01xwg5DDuMdQCys"
-      },
-      "artists": [
-        {
-          "name": "Klangphonics",
-          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
-        }
-      ],
-      "duration_ms": 414600,
-      "name": "Holocene, Pt. II",
-      "url": "https://open.spotify.com/track/1H2Dq1kyLUWl0QW8CLzDZb"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -859,18 +875,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Light up my dark",
-        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/6fsPFECJJpDQQpbh1mYtwu"
       },
       "artists": [
         {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+          "name": "Super Flu",
+          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
         }
       ],
-      "duration_ms": 208937,
-      "name": "Light up my dark",
-      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
+      "duration_ms": 230000,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/5JIC3AqDuyFtva4oExpNcx"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -911,38 +927,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/6fsPFECJJpDQQpbh1mYtwu"
+        "name": "Under Dark (Innellea Remix)",
+        "url": "https://open.spotify.com/album/73M7uXFpI1ftn1cS2RZjfO"
       },
       "artists": [
         {
-          "name": "Super Flu",
-          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/5JIC3AqDuyFtva4oExpNcx"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Slipstream (feat. Julia Church)",
-        "url": "https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
         },
         {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
         }
       ],
-      "duration_ms": 252073,
-      "name": "Slipstream (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB"
+      "duration_ms": 405887,
+      "name": "Under Dark - Innellea Remix",
+      "url": "https://open.spotify.com/track/5nHc8CmiPllMzHbJhhx3KS"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -963,22 +963,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Under Dark (Innellea Remix)",
-        "url": "https://open.spotify.com/album/73M7uXFpI1ftn1cS2RZjfO"
+        "name": "Slipstream (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o"
       },
       "artists": [
         {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         },
         {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
         }
       ],
-      "duration_ms": 405887,
-      "name": "Under Dark - Innellea Remix",
-      "url": "https://open.spotify.com/track/5nHc8CmiPllMzHbJhhx3KS"
+      "duration_ms": 252073,
+      "name": "Slipstream (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Walking On Water (feat. Totally Enormous Extinct Dinosaurs)",
+        "url": "https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "Walking On Water (feat. Totally Enormous Extinct Dinosaurs)",
+      "url": "https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Alone (Stephan Jolk Remix)",
         "url": "https://open.spotify.com/album/6WqGjERSNf5IhAMwk2iKfs"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 212903,
       "name": "Alone - Stephan Jolk Remix",
       "url": "https://open.spotify.com/track/2nvfQ9c2pi8OFiYb59I1gu"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Walking On Water (feat. Totally Enormous Extinct Dinosaurs)",
-        "url": "https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "Walking On Water (feat. Totally Enormous Extinct Dinosaurs)",
-      "url": "https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg"
     },
     {
       "added_at": "2024-07-26 04:00:00",

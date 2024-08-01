@@ -1,60 +1,44 @@
 {
-  "description": "The best new dance & electronic by independent artists and labels. Cover: Ben Gerrans. Artwork by Rewina Beshue.",
-  "num_followers": 181727,
+  "description": "The best new dance & electronic by independent artists and labels. Cover: davey. Artwork by Rewina Beshue.",
+  "num_followers": 181851,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqMfQAAAAABKxrA9m3hLuTJ1gxmfZKB0",
+  "snapshot_id": "ZqpzDQAAAADoPndbidpGWVaausrtxtOT",
   "tracks": [
     {
-      "added_at": "2024-07-24 17:53:28",
+      "added_at": "2024-07-31 17:23:25",
       "album": {
-        "name": "I Wanna Be",
-        "url": "https://open.spotify.com/album/5I7LyERZamTJGWF2HDycLU"
+        "name": "2 Chant",
+        "url": "https://open.spotify.com/album/1b9SN3tFXHYmNVw5czsegw"
       },
       "artists": [
         {
-          "name": "Ben Gerrans",
-          "url": "https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z"
+          "name": "davey",
+          "url": "https://open.spotify.com/artist/7D84vm1nZXH6drPV8L9e6D"
         }
       ],
-      "duration_ms": 208571,
-      "name": "I Wanna Be",
-      "url": "https://open.spotify.com/track/0ZZTW26SgUCu25AU5l5UDy"
+      "duration_ms": 292344,
+      "name": "2 Chant",
+      "url": "https://open.spotify.com/track/6Q2Uo9k489aSA83ZFrhSlZ"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-07-31 17:23:25",
       "album": {
-        "name": "On Your Face",
-        "url": "https://open.spotify.com/album/0rtSDOapzjp7Cp8HLfBVWd"
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/5eM2N950CGsqOM20ccLDYs"
       },
       "artists": [
         {
-          "name": "Noise Cans",
-          "url": "https://open.spotify.com/artist/1ECKbPx4YhCU4SgKq8pfAc"
+          "name": "Atelier",
+          "url": "https://open.spotify.com/artist/6OdAP3bmab4X74sypKMOtu"
         }
       ],
-      "duration_ms": 142285,
-      "name": "On Your Face",
-      "url": "https://open.spotify.com/track/0QiOlPQbIBoGHO4mCp2cBC"
-    },
-    {
-      "added_at": "2024-07-24 17:53:28",
-      "album": {
-        "name": "Come To My House",
-        "url": "https://open.spotify.com/album/683Ze2XpLW2ohwPWpSKzq4"
-      },
-      "artists": [
-        {
-          "name": "Lucy Tun",
-          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
-        }
-      ],
-      "duration_ms": 200744,
-      "name": "Come To My House",
-      "url": "https://open.spotify.com/track/7aTYdP588hjgw1s0VBDkfB"
+      "duration_ms": 167735,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/680iLPZk4KQNnTeHDPbGDW"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -77,6 +61,22 @@
       "url": "https://open.spotify.com/track/5Www92j9UCkB0NZJTWnvcg"
     },
     {
+      "added_at": "2024-07-24 17:53:28",
+      "album": {
+        "name": "Come To My House",
+        "url": "https://open.spotify.com/album/683Ze2XpLW2ohwPWpSKzq4"
+      },
+      "artists": [
+        {
+          "name": "Lucy Tun",
+          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
+        }
+      ],
+      "duration_ms": 200744,
+      "name": "Come To My House",
+      "url": "https://open.spotify.com/track/7aTYdP588hjgw1s0VBDkfB"
+    },
+    {
       "added_at": "2024-06-27 04:03:44",
       "album": {
         "name": "Snog",
@@ -93,20 +93,76 @@
       "url": "https://open.spotify.com/track/3HM98iPblYJraH2pQIwlti"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-07-31 17:23:25",
       "album": {
-        "name": "don't come back",
-        "url": "https://open.spotify.com/album/11cbxbrYCNcdzRMAbbKZop"
+        "name": "ALWAYS",
+        "url": "https://open.spotify.com/album/6kUOenj0BpAgvKP3Vk0WPi"
       },
       "artists": [
         {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+          "name": "Luis V",
+          "url": "https://open.spotify.com/artist/12Y3P0t9K2ShPGHHJbZduX"
+        },
+        {
+          "name": "Sa\u00efna",
+          "url": "https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9"
         }
       ],
-      "duration_ms": 189000,
-      "name": "don't come back",
-      "url": "https://open.spotify.com/track/3tPrgyExznmJs4wA51yXlJ"
+      "duration_ms": 164774,
+      "name": "VHS (feat. Sa\u00efna)",
+      "url": "https://open.spotify.com/track/4phwdhd2Xk2htc45eoRYFG"
+    },
+    {
+      "added_at": "2024-07-24 17:53:28",
+      "album": {
+        "name": "I Wanna Be",
+        "url": "https://open.spotify.com/album/5I7LyERZamTJGWF2HDycLU"
+      },
+      "artists": [
+        {
+          "name": "Ben Gerrans",
+          "url": "https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z"
+        }
+      ],
+      "duration_ms": 208571,
+      "name": "I Wanna Be",
+      "url": "https://open.spotify.com/track/0ZZTW26SgUCu25AU5l5UDy"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Push That",
+        "url": "https://open.spotify.com/album/1yCMePPdB5S7c8MKTudZZH"
+      },
+      "artists": [
+        {
+          "name": "Stoley",
+          "url": "https://open.spotify.com/artist/3zhrErhSD05oqdDKVs8UVR"
+        }
+      ],
+      "duration_ms": 205278,
+      "name": "Push That",
+      "url": "https://open.spotify.com/track/1xOYdelTPr55KdHr3iiojn"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Is This Real Love",
+        "url": "https://open.spotify.com/album/5aG8nRt1EPYyrO2UNo6oIA"
+      },
+      "artists": [
+        {
+          "name": "Peace Bringa",
+          "url": "https://open.spotify.com/artist/6lNuZfZqCWUtNZJtoiHfqM"
+        },
+        {
+          "name": "Vincent & Jules",
+          "url": "https://open.spotify.com/artist/7hM7HvhHXLCydzgR24VqP9"
+        }
+      ],
+      "duration_ms": 182769,
+      "name": "Is This Real Love",
+      "url": "https://open.spotify.com/track/6NTukeIafDUeYPzJdcu7AM"
     },
     {
       "added_at": "2024-07-24 17:53:28",
@@ -143,22 +199,6 @@
       "duration_ms": 153213,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/47CYEfRZNEHq9UXALEP7Z4"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Push That",
-        "url": "https://open.spotify.com/album/1yCMePPdB5S7c8MKTudZZH"
-      },
-      "artists": [
-        {
-          "name": "Stoley",
-          "url": "https://open.spotify.com/artist/3zhrErhSD05oqdDKVs8UVR"
-        }
-      ],
-      "duration_ms": 205278,
-      "name": "Push That",
-      "url": "https://open.spotify.com/track/1xOYdelTPr55KdHr3iiojn"
     },
     {
       "added_at": "2024-07-24 17:53:28",
@@ -209,6 +249,22 @@
       "url": "https://open.spotify.com/track/6ul9aRluTKN8OIPgUF8qZS"
     },
     {
+      "added_at": "2024-07-31 17:23:25",
+      "album": {
+        "name": "pattern",
+        "url": "https://open.spotify.com/album/0yrHBksnSFGtDETVc4HTFW"
+      },
+      "artists": [
+        {
+          "name": "sweepy",
+          "url": "https://open.spotify.com/artist/4lHXCZWKKjkCN5IOO6Hl3P"
+        }
+      ],
+      "duration_ms": 130041,
+      "name": "pattern",
+      "url": "https://open.spotify.com/track/3z7mJURng2kqpyUkCofoQt"
+    },
+    {
       "added_at": "2024-06-12 18:22:48",
       "album": {
         "name": "All My Friends Are Hot",
@@ -257,22 +313,6 @@
       "url": "https://open.spotify.com/track/044Pe0QnRSNOuOSayWnqSQ"
     },
     {
-      "added_at": "2024-07-24 17:53:28",
-      "album": {
-        "name": "Care About Us",
-        "url": "https://open.spotify.com/album/45hlbDtsscYZaQsmC5YipS"
-      },
-      "artists": [
-        {
-          "name": "1111",
-          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
-        }
-      ],
-      "duration_ms": 212192,
-      "name": "Care About Us",
-      "url": "https://open.spotify.com/track/77ogYT00fpfHIdnge99wc4"
-    },
-    {
       "added_at": "2024-06-20 04:47:08",
       "album": {
         "name": "The Lost Carnival Tapes",
@@ -289,6 +329,54 @@
       "url": "https://open.spotify.com/track/0vUkmgjokgPCqgJcODNMlZ"
     },
     {
+      "added_at": "2024-07-31 17:23:25",
+      "album": {
+        "name": "Mi Corazon",
+        "url": "https://open.spotify.com/album/48knaTGhE5Ovfe5zOijkEr"
+      },
+      "artists": [
+        {
+          "name": "MAKS (FR)",
+          "url": "https://open.spotify.com/artist/0C3AuNGBY39ioSTA79TzMz"
+        }
+      ],
+      "duration_ms": 241935,
+      "name": "Mi Corazon",
+      "url": "https://open.spotify.com/track/3w8r4jpqZWvxcMzbgZd6kC"
+    },
+    {
+      "added_at": "2024-07-24 17:53:28",
+      "album": {
+        "name": "Care About Us",
+        "url": "https://open.spotify.com/album/45hlbDtsscYZaQsmC5YipS"
+      },
+      "artists": [
+        {
+          "name": "1111",
+          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
+        }
+      ],
+      "duration_ms": 212192,
+      "name": "Care About Us",
+      "url": "https://open.spotify.com/track/77ogYT00fpfHIdnge99wc4"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "TOUCH",
+        "url": "https://open.spotify.com/album/6VIslz7ZiqFzzZ13V7iUKp"
+      },
+      "artists": [
+        {
+          "name": "NoKlich\u00e9",
+          "url": "https://open.spotify.com/artist/4LqcQvo6HhY2bRVYF3RBih"
+        }
+      ],
+      "duration_ms": 218537,
+      "name": "TOUCH",
+      "url": "https://open.spotify.com/track/7rzfAVLkRQxevXsY2VaKKq"
+    },
+    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "YOU SHOULD KNOW IT",
@@ -303,6 +391,22 @@
       "duration_ms": 236307,
       "name": "YOU SHOULD KNOW IT",
       "url": "https://open.spotify.com/track/7p53cGdgUVxLosFQcr1cHL"
+    },
+    {
+      "added_at": "2024-05-08 19:36:43",
+      "album": {
+        "name": "Beb\u00e9",
+        "url": "https://open.spotify.com/album/65gP9MmcCUBQHGTovrOoGx"
+      },
+      "artists": [
+        {
+          "name": "Sloujin",
+          "url": "https://open.spotify.com/artist/1SVGLbXBihRMJWiImKwPOe"
+        }
+      ],
+      "duration_ms": 178908,
+      "name": "Beb\u00e9",
+      "url": "https://open.spotify.com/track/3toqyoTLmmXxqf9JmGdiLX"
     },
     {
       "added_at": "2024-07-24 17:53:28",
@@ -357,6 +461,98 @@
       "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
     },
     {
+      "added_at": "2024-07-03 22:16:33",
+      "album": {
+        "name": "library",
+        "url": "https://open.spotify.com/album/7a2Gvdzcg91guMenhk4W6G"
+      },
+      "artists": [
+        {
+          "name": "Boone",
+          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "library",
+      "url": "https://open.spotify.com/track/6mz3QCVaJ2RAKqLJiokShY"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "On Your Face",
+        "url": "https://open.spotify.com/album/0rtSDOapzjp7Cp8HLfBVWd"
+      },
+      "artists": [
+        {
+          "name": "Noise Cans",
+          "url": "https://open.spotify.com/artist/1ECKbPx4YhCU4SgKq8pfAc"
+        }
+      ],
+      "duration_ms": 142285,
+      "name": "On Your Face",
+      "url": "https://open.spotify.com/track/0QiOlPQbIBoGHO4mCp2cBC"
+    },
+    {
+      "added_at": "2024-07-31 17:23:25",
+      "album": {
+        "name": "Manse",
+        "url": "https://open.spotify.com/album/3lTKJV5YbLrqIU3RIYi7an"
+      },
+      "artists": [
+        {
+          "name": "Orisha",
+          "url": "https://open.spotify.com/artist/6sFT6HMV13MNQHmpYHM6gq"
+        },
+        {
+          "name": "Meloko",
+          "url": "https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg"
+        },
+        {
+          "name": "Selim Sivade",
+          "url": "https://open.spotify.com/artist/6zQCqwr5oCLdfbvY3n3LIn"
+        },
+        {
+          "name": "Bi A\u00f1a Ara Abure",
+          "url": "https://open.spotify.com/artist/12grsKYTb7kDdAhhGeaMmH"
+        }
+      ],
+      "duration_ms": 401951,
+      "name": "Manse",
+      "url": "https://open.spotify.com/track/3sHfCnLdo93yGHDxnCUImr"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "don't come back",
+        "url": "https://open.spotify.com/album/11cbxbrYCNcdzRMAbbKZop"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "don't come back",
+      "url": "https://open.spotify.com/track/3tPrgyExznmJs4wA51yXlJ"
+    },
+    {
+      "added_at": "2024-01-26 22:15:12",
+      "album": {
+        "name": "The Auction",
+        "url": "https://open.spotify.com/album/4s1Ra8QnO5KdmEhkPUTYlt"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "duration_ms": 176363,
+      "name": "The Auction",
+      "url": "https://open.spotify.com/track/0fyatRJCPPj2V6maXthHIu"
+    },
+    {
       "added_at": "2024-05-23 03:04:18",
       "album": {
         "name": "Never Leave",
@@ -389,36 +585,24 @@
       "url": "https://open.spotify.com/track/2QFFM9WXVKhangOz59nEn0"
     },
     {
-      "added_at": "2024-07-24 17:53:28",
+      "added_at": "2024-07-10 17:56:31",
       "album": {
-        "name": "Just Peachy",
-        "url": "https://open.spotify.com/album/0gctMneODMSL1lKMSyq98X"
+        "name": "Latinas",
+        "url": "https://open.spotify.com/album/0F7c9mmhmFlXLWmavGnFOT"
       },
       "artists": [
         {
-          "name": "Melon Bomb",
-          "url": "https://open.spotify.com/artist/349BkyqZ2AuEDoloKq9EFS"
-        }
-      ],
-      "duration_ms": 337500,
-      "name": "Just Peachy",
-      "url": "https://open.spotify.com/track/7gEDfMAl7VplM1TDjYwaGe"
-    },
-    {
-      "added_at": "2024-01-26 22:15:12",
-      "album": {
-        "name": "The Auction",
-        "url": "https://open.spotify.com/album/4s1Ra8QnO5KdmEhkPUTYlt"
-      },
-      "artists": [
+          "name": "EJ3000",
+          "url": "https://open.spotify.com/artist/6dpX7szxr75uXCxiqhp7Cu"
+        },
         {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+          "name": "MichaelBM",
+          "url": "https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl"
         }
       ],
-      "duration_ms": 176363,
-      "name": "The Auction",
-      "url": "https://open.spotify.com/track/0fyatRJCPPj2V6maXthHIu"
+      "duration_ms": 146507,
+      "name": "Latinas",
+      "url": "https://open.spotify.com/track/7wWhS49wnWFdFqVQRBBXvu"
     },
     {
       "added_at": "2024-07-24 17:53:28",
@@ -469,26 +653,6 @@
       "url": "https://open.spotify.com/track/4dFiYMd6w1uOJsm2SYKLzU"
     },
     {
-      "added_at": "2024-07-10 17:56:31",
-      "album": {
-        "name": "Latinas",
-        "url": "https://open.spotify.com/album/0F7c9mmhmFlXLWmavGnFOT"
-      },
-      "artists": [
-        {
-          "name": "EJ3000",
-          "url": "https://open.spotify.com/artist/6dpX7szxr75uXCxiqhp7Cu"
-        },
-        {
-          "name": "MichaelBM",
-          "url": "https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl"
-        }
-      ],
-      "duration_ms": 146507,
-      "name": "Latinas",
-      "url": "https://open.spotify.com/track/7wWhS49wnWFdFqVQRBBXvu"
-    },
-    {
       "added_at": "2024-07-03 22:16:33",
       "album": {
         "name": "Party Time",
@@ -519,6 +683,22 @@
       "duration_ms": 174225,
       "name": "Need You",
       "url": "https://open.spotify.com/track/32EbZeoDAXpEyxiTm3mG6P"
+    },
+    {
+      "added_at": "2024-07-24 17:53:28",
+      "album": {
+        "name": "Just Peachy",
+        "url": "https://open.spotify.com/album/0gctMneODMSL1lKMSyq98X"
+      },
+      "artists": [
+        {
+          "name": "Melon Bomb",
+          "url": "https://open.spotify.com/artist/349BkyqZ2AuEDoloKq9EFS"
+        }
+      ],
+      "duration_ms": 337500,
+      "name": "Just Peachy",
+      "url": "https://open.spotify.com/track/7gEDfMAl7VplM1TDjYwaGe"
     },
     {
       "added_at": "2024-07-24 17:53:28",
@@ -571,22 +751,6 @@
       "duration_ms": 162406,
       "name": "U REALLY HURT ME",
       "url": "https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy"
-    },
-    {
-      "added_at": "2024-05-08 19:36:43",
-      "album": {
-        "name": "Beb\u00e9",
-        "url": "https://open.spotify.com/album/65gP9MmcCUBQHGTovrOoGx"
-      },
-      "artists": [
-        {
-          "name": "Sloujin",
-          "url": "https://open.spotify.com/artist/1SVGLbXBihRMJWiImKwPOe"
-        }
-      ],
-      "duration_ms": 178908,
-      "name": "Beb\u00e9",
-      "url": "https://open.spotify.com/track/3toqyoTLmmXxqf9JmGdiLX"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -693,22 +857,6 @@
       "url": "https://open.spotify.com/track/6C0qnaMsSpHWwCdQXPpK06"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "TOUCH",
-        "url": "https://open.spotify.com/album/6VIslz7ZiqFzzZ13V7iUKp"
-      },
-      "artists": [
-        {
-          "name": "NoKlich\u00e9",
-          "url": "https://open.spotify.com/artist/4LqcQvo6HhY2bRVYF3RBih"
-        }
-      ],
-      "duration_ms": 218537,
-      "name": "TOUCH",
-      "url": "https://open.spotify.com/track/7rzfAVLkRQxevXsY2VaKKq"
-    },
-    {
       "added_at": "2024-07-10 17:56:31",
       "album": {
         "name": "Last Calls EP",
@@ -783,26 +931,6 @@
       "duration_ms": 247684,
       "name": "never let u",
       "url": "https://open.spotify.com/track/3zQCKVbt7gy4GvP4l5l3Jk"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Is This Real Love",
-        "url": "https://open.spotify.com/album/5aG8nRt1EPYyrO2UNo6oIA"
-      },
-      "artists": [
-        {
-          "name": "Peace Bringa",
-          "url": "https://open.spotify.com/artist/6lNuZfZqCWUtNZJtoiHfqM"
-        },
-        {
-          "name": "Vincent & Jules",
-          "url": "https://open.spotify.com/artist/7hM7HvhHXLCydzgR24VqP9"
-        }
-      ],
-      "duration_ms": 182769,
-      "name": "Is This Real Love",
-      "url": "https://open.spotify.com/track/6NTukeIafDUeYPzJdcu7AM"
     },
     {
       "added_at": "2024-07-17 16:00:00",
@@ -939,22 +1067,6 @@
       "duration_ms": 175031,
       "name": "Booty Bounce",
       "url": "https://open.spotify.com/track/04ktis0kZEQgmUfwEl0qor"
-    },
-    {
-      "added_at": "2024-07-03 22:16:33",
-      "album": {
-        "name": "library",
-        "url": "https://open.spotify.com/album/7a2Gvdzcg91guMenhk4W6G"
-      },
-      "artists": [
-        {
-          "name": "Boone",
-          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "library",
-      "url": "https://open.spotify.com/track/6mz3QCVaJ2RAKqLJiokShY"
     },
     {
       "added_at": "2024-07-10 17:56:31",
@@ -1257,22 +1369,6 @@
       "url": "https://open.spotify.com/track/1Mu31xsS4kVaXByJhf9M0A"
     },
     {
-      "added_at": "2024-05-08 19:36:43",
-      "album": {
-        "name": "Bon Bon",
-        "url": "https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Bon Bon",
-      "url": "https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q"
-    },
-    {
       "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "HI NRG // Moments",
@@ -1385,22 +1481,6 @@
       "url": "https://open.spotify.com/track/2YwzOdsHE06Xkg50nIFtYq"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "HONEY",
-        "url": "https://open.spotify.com/album/5D35QfVprO5Nz16J8pjEuu"
-      },
-      "artists": [
-        {
-          "name": "GAZZI",
-          "url": "https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK"
-        }
-      ],
-      "duration_ms": 317939,
-      "name": "HONEY",
-      "url": "https://open.spotify.com/track/3zP3GUeML163NQR1jMfcIp"
-    },
-    {
       "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "For Now Im Here",
@@ -1497,26 +1577,6 @@
       "url": "https://open.spotify.com/track/2Ejo1bRHzv4mzHl7RbMZoT"
     },
     {
-      "added_at": "2024-06-05 19:51:45",
-      "album": {
-        "name": "Jewels",
-        "url": "https://open.spotify.com/album/7w0aGvreLMz7dGW1G78Ym5"
-      },
-      "artists": [
-        {
-          "name": "Dwson",
-          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
-        },
-        {
-          "name": "Aizo Clutch",
-          "url": "https://open.spotify.com/artist/52prduwoZJCA7ql3zPG6Bl"
-        }
-      ],
-      "duration_ms": 383589,
-      "name": "Don't Wait",
-      "url": "https://open.spotify.com/track/5c65o3KNnBQaKTK9Jp2TRr"
-    },
-    {
       "added_at": "2024-05-31 15:14:11",
       "album": {
         "name": "forgive u",
@@ -1549,22 +1609,6 @@
       "url": "https://open.spotify.com/track/5fj3PwaRTnpDQpNWTytTgy"
     },
     {
-      "added_at": "2024-05-23 03:04:18",
-      "album": {
-        "name": "Pull In Near Colima",
-        "url": "https://open.spotify.com/album/74xEUFO5tLm9pL0xQplVZr"
-      },
-      "artists": [
-        {
-          "name": "Rigby On The Run",
-          "url": "https://open.spotify.com/artist/0V5ey6hrKrO3oYb7JCcM86"
-        }
-      ],
-      "duration_ms": 216500,
-      "name": "Pull In Near Colima",
-      "url": "https://open.spotify.com/track/7B0dtBt41baTe0T3VbYKll"
-    },
-    {
       "added_at": "2024-05-17 04:00:00",
       "album": {
         "name": "IT MIGHT BE THE DRUGS",
@@ -1579,22 +1623,6 @@
       "duration_ms": 219892,
       "name": "IT MIGHT BE THE DRUGS",
       "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
-    },
-    {
-      "added_at": "2024-05-23 03:04:18",
-      "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/2OxY7YomhRLZKtKGkm6Fv3"
-      },
-      "artists": [
-        {
-          "name": "DJ Planet Express",
-          "url": "https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg"
-        }
-      ],
-      "duration_ms": 202096,
-      "name": "Moments",
-      "url": "https://open.spotify.com/track/5ZA9IFvOTvAhAhyTIlZ6ML"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1679,22 +1707,6 @@
       "duration_ms": 210461,
       "name": "Cigarette",
       "url": "https://open.spotify.com/track/5xiiqiCNaFVAged8VtyEnM"
-    },
-    {
-      "added_at": "2024-05-01 17:01:39",
-      "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/0gQyJuBWFaessWNz0rvzvb"
-      },
-      "artists": [
-        {
-          "name": "Atura",
-          "url": "https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei"
-        }
-      ],
-      "duration_ms": 229444,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/2s1WrQ4gYF1sf6A532AiNn"
     },
     {
       "added_at": "2024-05-03 04:00:00",

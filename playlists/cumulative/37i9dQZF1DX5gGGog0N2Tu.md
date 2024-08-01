@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5gGGog0N2Tu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5gGGog0N2Tu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5gGGog0N2Tu)
 
-### [brat summer](https://open.spotify.com/playlist/37i9dQZF1DX5gGGog0N2Tu)
+### [pov: la tua estate è un film](https://open.spotify.com/playlist/37i9dQZF1DX5gGGog0N2Tu)
 
-> 365 party girl, i'm a brat when i'm bumpin' that 🍏💚🌴🥥🛳️
+> 365 party girl 🍏💚🌴🥥🛳️
 
 203 songs - 10 hr 38 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > En samling av de bästa svenska låtarna just nu\. Cover: Jacqline
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,676 likes - 106 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,673 likes - 106 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 24 | [Lika Bra Vi Skrattar](https://open.spotify.com/track/7APwoGXVCunTZU3FycVIcT) | [2 Blyga Läppar](https://open.spotify.com/artist/04UWvFdSYUV4wv6UJ0mARE) | [Lika Bra Vi Skrattar](https://open.spotify.com/album/5hQAVGevehrWXTsvxgYYFF) | 2:38 |
 | 25 | [Sommarnätter](https://open.spotify.com/track/3c1KrqOhuqTigFZTev07rK) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC), [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9) | [Sommarnätter](https://open.spotify.com/album/1aC01cXxZVXtqigdiN5RQu) | 2:24 |
 | 26 | [Maskinen är tillbaka](https://open.spotify.com/track/2qvgrcWLxkvdZCXJVzh7Yw) | [Maskinen](https://open.spotify.com/artist/6nDcZd5c9z3OS5hWvCsWBf) | [Maskinen är tillbaka](https://open.spotify.com/album/77XVwKfKdyawzhtiiU3ljm) | 2:19 |
-| 27 | [201 \(Till förmån för Min Stora Dag\)](https://open.spotify.com/track/5guknVJ1c9Wjj7qT2FE8YH) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN), [Amy Deasismont](https://open.spotify.com/artist/0pseTX8XD9hjhIknJ07rK9) | [201 \(Till förmån för Min Stora Dag\)](https://open.spotify.com/album/0T8v3ZJdXOpKHM8RPfan74) | 2:40 |
-| 28 | [Världens bästa piga](https://open.spotify.com/track/0jXlLlM8bCViItOjfANDtE) | [Drängarna](https://open.spotify.com/artist/2HwptwPQ4lvpYimzOJcYoY) | [Världens bästa piga](https://open.spotify.com/album/6r1GG2IKdOvglgp1a46lv8) | 2:45 |
+| 27 | [Världens bästa piga](https://open.spotify.com/track/0jXlLlM8bCViItOjfANDtE) | [Drängarna](https://open.spotify.com/artist/2HwptwPQ4lvpYimzOJcYoY) | [Världens bästa piga](https://open.spotify.com/album/6r1GG2IKdOvglgp1a46lv8) | 2:45 |
+| 28 | [201 \(Till förmån för Min Stora Dag\)](https://open.spotify.com/track/5guknVJ1c9Wjj7qT2FE8YH) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN), [Amy Deasismont](https://open.spotify.com/artist/0pseTX8XD9hjhIknJ07rK9) | [201 \(Till förmån för Min Stora Dag\)](https://open.spotify.com/album/0T8v3ZJdXOpKHM8RPfan74) | 2:40 |
 | 29 | [Hur förklarar man sånt för datorer?](https://open.spotify.com/track/1L7NKwG84v0yvSeU2hv9IU) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [Hur förklarar man sånt för datorer?](https://open.spotify.com/album/1fgPCDkgF39t2671KiaL89) | 3:50 |
 | 30 | [Whole Damn Summer](https://open.spotify.com/track/3ArB9nvOdiTAYyfgjEojrg) | [Kiana](https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g) | [Whole Damn Summer](https://open.spotify.com/album/6pbrBaGrAjelkXqXUOvFUf) | 2:42 |
 | 31 | [When she holds me](https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [When she holds me](https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt) | 4:03 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 71 | [Sockerdricka](https://open.spotify.com/track/0BRiFaYDS7IbM2YO0DFvrP) | [Petrus](https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG) | [Sockerdricka](https://open.spotify.com/album/4OJ1YpiBv213DlnbVmYXYf) | 3:22 |
 | 72 | [Confused](https://open.spotify.com/track/5zQI37GHThm4TLAFgD4ivt) | [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [Confused](https://open.spotify.com/album/6BoYdLoD7Y6ZOT6pnsLInu) | 2:09 |
 | 73 | [Pappa](https://open.spotify.com/track/6oHZYJdNPWSFnOjigxUc78) | [Atmosfär](https://open.spotify.com/artist/1lyKZwLfr7m2hug2svSdUh) | [Pappa](https://open.spotify.com/album/15NiHKbQoeA3poJIq7TxBM) | 3:09 |
-| 74 | [Elaine](https://open.spotify.com/track/02TJw6vUHpiFOFw3TVNjFK) | [Hagsätra Sport](https://open.spotify.com/artist/0QAkm7atdiO4zIMNQDKkua), [Niklas Strömstedt](https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu), [Andreas Johnson](https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC) | [Elaine](https://open.spotify.com/album/2cyHxoHmfKnjN9F4cXZ8fw) | 3:03 |
-| 75 | [En vän som du](https://open.spotify.com/track/3A02QRPJAWHPgk1UTP1TGM) | [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk) | [En vän som du](https://open.spotify.com/album/6O978opVcr08Fw4uoXSFW9) | 3:18 |
+| 74 | [En vän som du](https://open.spotify.com/track/3A02QRPJAWHPgk1UTP1TGM) | [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk) | [En vän som du](https://open.spotify.com/album/6O978opVcr08Fw4uoXSFW9) | 3:18 |
+| 75 | [Elaine](https://open.spotify.com/track/02TJw6vUHpiFOFw3TVNjFK) | [Hagsätra Sport](https://open.spotify.com/artist/0QAkm7atdiO4zIMNQDKkua), [Niklas Strömstedt](https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu), [Andreas Johnson](https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC) | [Elaine](https://open.spotify.com/album/2cyHxoHmfKnjN9F4cXZ8fw) | 3:03 |
 | 76 | [Underbart är kort](https://open.spotify.com/track/3nBH4JLXw1XJuoMXxiuizQ) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Underbart är kort](https://open.spotify.com/album/3DLq7TpZfPda8HtNA8CIsx) | 2:18 |
 | 77 | [Heartbeat](https://open.spotify.com/track/7GK7HWp2xsLkVGU2apwFan) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Heartbeat](https://open.spotify.com/album/7hmdO5DOqskwVbiLPs2YGV) | 4:02 |
 | 78 | [ITU](https://open.spotify.com/track/76QeAjK4hohWISYPPRG6aB) | [Gamebojj](https://open.spotify.com/artist/3tL3V3oYCfUDA6eECPGw1j) | [ITU](https://open.spotify.com/album/1XGtPfBQiibTyAciRath3V) | 2:19 |

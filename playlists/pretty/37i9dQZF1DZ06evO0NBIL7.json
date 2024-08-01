@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqbbgAAAAAD0iqgY6uHZVJb86Wcv0qBe",
+  "snapshot_id": "ZqgtAAAAAACL0v5gqq+rdCSZD6JI1ntS",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coma Happy",
-        "url": "https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn"
+        "name": "Bullet Head",
+        "url": "https://open.spotify.com/album/4mAztvpmTbElHVxPovWSIG"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 187945,
-      "name": "Inside Joke",
-      "url": "https://open.spotify.com/track/1hiwRdBC9i80riLD0qn9Xp"
+      "duration_ms": 163699,
+      "name": "Young Blood",
+      "url": "https://open.spotify.com/track/2FGDUtevCco1pUEzomho3z"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bullet Head",
-        "url": "https://open.spotify.com/album/4mAztvpmTbElHVxPovWSIG"
+        "name": "Coma Happy",
+        "url": "https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 163699,
-      "name": "Young Blood",
-      "url": "https://open.spotify.com/track/2FGDUtevCco1pUEzomho3z"
+      "duration_ms": 187945,
+      "name": "Inside Joke",
+      "url": "https://open.spotify.com/track/1hiwRdBC9i80riLD0qn9Xp"
     },
     {
       "added_at": null,

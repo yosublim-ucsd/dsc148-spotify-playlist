@@ -4,7 +4,7 @@
 
 > 
 
-307 songs - 20 hr 37 min
+308 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Del Oro](https://open.spotify.com/track/5YgEN0XaRJo5EEiWuXDTqv) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Del Oro](https://open.spotify.com/album/5EmgZrhnGC2kXDJrN3Lnx0) | 6:14 | 2024-06-04 |  |
 | [Departed](https://open.spotify.com/track/7udizCkehDvHpPbG6smnVe) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Departed](https://open.spotify.com/album/0ycL1vGVZTadGTkcq1vlxR) | 2:14 | 2024-05-28 |  |
 | [Deserve It](https://open.spotify.com/track/4I30X0g4MxH2BAW4RaHaxK) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [Deserve It](https://open.spotify.com/album/0YVo6K9Uw6oR3cvk55d2Pr) | 3:22 | 2022-07-13 | 2022-08-20 |
+| [Devices](https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Devices / Green](https://open.spotify.com/album/3KxNq8zMtKQkZlZqnsW3xm) | 5:10 | 2024-07-31 |  |
 | [Dimcola Reprise](https://open.spotify.com/track/0LZ644PkmA75gs9Hj4Re63) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX) | [Dimcola Reprise](https://open.spotify.com/album/17FjdgDKMBf8pdOlAsop07) | 2:30 | 2023-04-12 | 2023-05-05 |
 | [Dimensional Collapse](https://open.spotify.com/track/66xZGaUTemdYDePZaUWrRM) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX) | [Akousmatikous](https://open.spotify.com/album/2rIjJDL6c2IlN8rrWOhwGD) | 3:40 | 2023-05-19 | 2023-08-18 |
 | [Dimitri](https://open.spotify.com/track/1a4uzwj1AaLhwWN8rUQxjg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Love Heart Cheat Code](https://open.spotify.com/album/4JdePMYeuoe34rqQ1D19K0) | 4:28 | 2024-06-28 |  |
@@ -168,7 +169,7 @@
 | [LADY](https://open.spotify.com/track/49LUs902uTt3X0OBz5nWb4) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd), [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e) | [LADY](https://open.spotify.com/album/3088SZvfQYnSQsAGsxUbgi) | 3:44 | 2023-06-07 | 2023-09-06 |
 | [Last Before Lights](https://open.spotify.com/track/4XJzx9heqQe10RmwHRVYIl) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [All Hours](https://open.spotify.com/album/3IR4b0tGlu8yYzHFix9TwN) | 6:06 | 2021-10-15 | 2022-06-29 |
 | [Let it Happen](https://open.spotify.com/track/5du6RlNwVWrLWOS5Vj0pE3) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Let it Happen](https://open.spotify.com/album/0H8otaUAcaHZx3oe6RllV8) | 6:43 | 2022-08-03 | 2022-08-24 |
-| [Life](https://open.spotify.com/track/4fKGoKVkyAgZK3p3CoiZIa) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [Life](https://open.spotify.com/album/2kxvs0BMPQVRlBo5KnqkDz) | 4:16 | 2024-05-16 |  |
+| [Life](https://open.spotify.com/track/4fKGoKVkyAgZK3p3CoiZIa) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [Life](https://open.spotify.com/album/2kxvs0BMPQVRlBo5KnqkDz) | 4:16 | 2024-05-16 | 2024-08-01 |
 | [Life In A Mind](https://open.spotify.com/track/4JVF59QcAnw65v74ZK4DW2) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Tread](https://open.spotify.com/album/5wKXfInna4rPKYVhdiSgQA) | 5:03 | 2021-10-22 | 2022-07-06 |
 | [lift off!](https://open.spotify.com/track/1lsuQNbQXg0smdcAaRpmja) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [lift off!](https://open.spotify.com/album/5PCGG2ken65WpPN06uqa08) | 3:34 | 2024-07-15 |  |
 | [Light Of Day](https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Light Of Day](https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu) | 6:40 | 2022-07-13 | 2023-05-19 |

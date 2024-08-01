@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Calvin Harris, Ellie Goulding
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,517 likes - 99 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,515 likes - 99 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 17 | [Délire](https://open.spotify.com/track/0on5VgHRlqTsBFZjKxUVEd) | [Trafiquinte](https://open.spotify.com/artist/5HdWyNYybG0xZOdJOShrd6), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Délire](https://open.spotify.com/album/4sbg44B5nIufuoSt5Zflsy) | 2:23 |
 | 18 | [Digest](https://open.spotify.com/track/6Q9KwZkFtTKLAAB8iOTpbZ) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Digest](https://open.spotify.com/album/7y5e3W5HAauq6oES8aJtbk) | 2:26 |
 | 19 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 |
-| 20 | [WOLLTEN FREI SEIN \(feat\. reezy\)](https://open.spotify.com/track/7BpQAkjefbApWBUtKmVMjh) | [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [XABAT](https://open.spotify.com/album/3y1jMB1QNho4bbmungXFxo) | 4:23 |
+| 20 | [WOLLTEN FREI SEIN \(feat\. reezy\)](https://open.spotify.com/track/7BpQAkjefbApWBUtKmVMjh) | [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [Safraoui](https://open.spotify.com/artist/1xlPEhjbFqhrDjaAvyvueX), [Jamal](https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU) | [XABAT](https://open.spotify.com/album/3y1jMB1QNho4bbmungXFxo) | 4:23 |
 | 21 | [Durch den Monsun](https://open.spotify.com/track/6h0YGk9uOGKp7mcqs7mtkX) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [Durch den Monsun](https://open.spotify.com/album/55SC7ryefIZm4fsusRiSvE) | 2:35 |
 | 22 | [Heat](https://open.spotify.com/track/4CICAO2tOivfuYQJD19wQf) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Heat](https://open.spotify.com/album/0TKD0FPj0eYCu8HnihRXme) | 3:44 |
 | 23 | [Roulette](https://open.spotify.com/track/6WCXJhQsP3ykIr1kOfO7dh) | [Sarah](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Roulette](https://open.spotify.com/album/6xSWwCb4pBor8WwaMQ9GWW) | 2:50 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 86 | [8 stufen](https://open.spotify.com/track/7dDTdZHDyxGhyjjlvYHebZ) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [8 stufen](https://open.spotify.com/album/6rZMZ81XtYHcEQF6FhWmYs) | 3:01 |
 | 87 | [Glücksgefühle](https://open.spotify.com/track/0mmERFgGkny6o1ZRSKoV4H) | [Pietro Lombardi](https://open.spotify.com/artist/387fj6TuPJ3y2H8ViAm6r0) | [Glücksgefühle](https://open.spotify.com/album/6UstfICjSncadnkmPfae6i) | 2:20 |
 | 88 | [Qseng](https://open.spotify.com/track/58zhW0UVchSp3XUnbYlgsq) | [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv) | [Qseng](https://open.spotify.com/album/0FkH7LtLSOCAR4KKwBWRwB) | 2:01 |
-| 89 | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/track/7aDvC7UzTZ47Hx5jJUX1sJ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [JT](https://open.spotify.com/artist/4cybvZ3pcSdD2xNFhIzrkk) | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/album/2wJwaumR3Y8PCM01JgJqSj) | 3:00 |
+| 89 | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/track/7aDvC7UzTZ47Hx5jJUX1sJ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/album/2wJwaumR3Y8PCM01JgJqSj) | 3:00 |
 | 90 | [Not Today](https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Not Today](https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN) | 3:06 |
 | 91 | [Hier](https://open.spotify.com/track/4pixX8XnfVkmLWQDMANjG9) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [Verlieren/Gefunden](https://open.spotify.com/album/5sHrdD7S86kT85JsOtxOgi) | 2:26 |
 | 92 | [The Same Bitch!](https://open.spotify.com/track/1NiHPhOiEqtqxIyuvF5X4E) | [Sarah Defne Gray](https://open.spotify.com/artist/6TbjlN6D9H1Oa7I1o31QtS) | [The Same Bitch!](https://open.spotify.com/album/3pqKZZppo8LYgke5rJaUsK) | 3:26 |

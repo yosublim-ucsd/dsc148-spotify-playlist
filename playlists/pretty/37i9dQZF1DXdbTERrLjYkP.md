@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent writing their own songs\. Cover: Abi Carter
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,175 likes - 85 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,192 likes - 85 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [A Hollywood Sign](https://open.spotify.com/track/3e5pd6rXyzoM7Rd6e8P4gq) | [Hana Effron](https://open.spotify.com/artist/0PuSBKhWgCshAY7m8hbDlj) | [Let's Talk](https://open.spotify.com/album/5KarE4XDeYR5Yk6A9wFyow) | 3:31 |
-| 2 | [Peppermint Sky](https://open.spotify.com/track/2jabv3amUzqPxqWInOQEHK) | [Abi Carter](https://open.spotify.com/artist/6ryJRp2gIl77hK36D8tz2m) | [Peppermint Sky](https://open.spotify.com/album/2qRdKjU7UL9ozU9AX2iCNR) | 2:49 |
+| 1 | [Peppermint Sky](https://open.spotify.com/track/2jabv3amUzqPxqWInOQEHK) | [Abi Carter](https://open.spotify.com/artist/6ryJRp2gIl77hK36D8tz2m) | [Peppermint Sky](https://open.spotify.com/album/2qRdKjU7UL9ozU9AX2iCNR) | 2:49 |
+| 2 | [A Hollywood Sign](https://open.spotify.com/track/3e5pd6rXyzoM7Rd6e8P4gq) | [Hana Effron](https://open.spotify.com/artist/0PuSBKhWgCshAY7m8hbDlj) | [Let's Talk](https://open.spotify.com/album/5KarE4XDeYR5Yk6A9wFyow) | 3:31 |
 | 3 | [Pretty Baby](https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Pretty Baby](https://open.spotify.com/album/3r1xlXd5nl8DgO9RGJWZZO) | 3:23 |
 | 4 | [Sweet Emotion](https://open.spotify.com/track/1D6wWuhDf19IsCFDOR9rlP) | [Diego Gonzalez](https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd) | [Sweet Emotion](https://open.spotify.com/album/2lEKDGHS0zidrlmckGqmB0) | 3:08 |
 | 5 | [look what you did](https://open.spotify.com/track/1lqC1iUuA9xROuLPdR87Mt) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [look what you did](https://open.spotify.com/album/5y6B6WamjdWeACbHeijgXT) | 3:57 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 84 | [Isn't It Obvious](https://open.spotify.com/track/5QDtGxC2khjwLEq1bXhdEj) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Isn't It Obvious](https://open.spotify.com/album/20qybCQYkW2B6pONKi8u0v) | 2:38 |
 | 85 | [Better Days](https://open.spotify.com/track/0RnlIQrxNByQNC0bgZJT7d) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Days](https://open.spotify.com/album/7Fe71b1KgLUwV4bYErTJBc) | 2:47 |
 
-Snapshot ID: `ZqMfQAAAAABWJzpR0Re5IFTokdv6aJHu`
+Snapshot ID: `ZqqvxgAAAADcw0+IjvrBxv+Hw43jmWxb`

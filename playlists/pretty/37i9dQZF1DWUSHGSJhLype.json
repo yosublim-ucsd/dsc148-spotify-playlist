@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi farofa a\u00e7a\u00ed cm peixe frito enfim desfrute / Foto: NATTAN, Ana Castela",
-  "num_followers": 531583,
+  "num_followers": 531711,
   "original_name": "PURO CALDO DE BRASIL",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,26 @@
     {
       "added_at": "2024-07-29 13:51:44",
       "album": {
+        "name": "Torre Eiffel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0bqJ8OprnMh9bSwEWmrvh4"
+      },
+      "artists": [
+        {
+          "name": "Manu",
+          "url": "https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r"
+        },
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "duration_ms": 202678,
+      "name": "Torre Eiffel - Ao Vivo",
+      "url": "https://open.spotify.com/track/54UGdW621lBINbfMWJmmSO"
+    },
+    {
+      "added_at": "2024-07-29 13:51:44",
+      "album": {
         "name": "Mtg Quero Te Encontrar",
         "url": "https://open.spotify.com/album/3pEubhqsNBQdsxgM3knWYh"
       },
@@ -191,26 +211,6 @@
     {
       "added_at": "2024-07-29 13:51:44",
       "album": {
-        "name": "Torre Eiffel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0bqJ8OprnMh9bSwEWmrvh4"
-      },
-      "artists": [
-        {
-          "name": "Manu",
-          "url": "https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r"
-        },
-        {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        }
-      ],
-      "duration_ms": 202678,
-      "name": "Torre Eiffel - Ao Vivo",
-      "url": "https://open.spotify.com/track/54UGdW621lBINbfMWJmmSO"
-    },
-    {
-      "added_at": "2024-07-29 13:51:44",
-      "album": {
         "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
       },
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-07-29 13:51:44",
       "album": {
-        "name": "Mari No Barzinho (Ao Vivo No RJ)",
-        "url": "https://open.spotify.com/album/6iBPOik18bu37n3mLNGwbx"
-      },
-      "artists": [
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        }
-      ],
-      "duration_ms": 161610,
-      "name": "P\u00e1gina De Ex - Ao Vivo",
-      "url": "https://open.spotify.com/track/2kFaWbpzQzpaJ0H6PskR6k"
-    },
-    {
-      "added_at": "2024-07-29 13:51:44",
-      "album": {
         "name": "N\u00e3o Fosse T\u00e3o Tarde (MTG Remix)",
         "url": "https://open.spotify.com/album/0m8qklpIFESodRkIOqJ7Ni"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 117230,
       "name": "N\u00e3o Fosse T\u00e3o Tarde - MTG Remix",
       "url": "https://open.spotify.com/track/6gjsnEQxLqVkieeloQTozN"
+    },
+    {
+      "added_at": "2024-07-29 13:51:44",
+      "album": {
+        "name": "Mari No Barzinho (Ao Vivo No RJ)",
+        "url": "https://open.spotify.com/album/6iBPOik18bu37n3mLNGwbx"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "duration_ms": 161610,
+      "name": "P\u00e1gina De Ex - Ao Vivo",
+      "url": "https://open.spotify.com/track/2kFaWbpzQzpaJ0H6PskR6k"
     },
     {
       "added_at": "2024-07-29 13:51:44",
@@ -771,30 +771,6 @@
     {
       "added_at": "2024-07-29 13:51:44",
       "album": {
-        "name": "Barulho do Prazer",
-        "url": "https://open.spotify.com/album/0JtVCOEjMooHhVATtwnLC6"
-      },
-      "artists": [
-        {
-          "name": "Henry Freitas",
-          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 150399,
-      "name": "Barulho do Prazer",
-      "url": "https://open.spotify.com/track/1RGluLu2l8NMZHyOg0rxiu"
-    },
-    {
-      "added_at": "2024-07-29 13:51:44",
-      "album": {
         "name": "Clack Bum",
         "url": "https://open.spotify.com/album/5u1yWj74PxP12ZqVUcn78H"
       },
@@ -815,6 +791,30 @@
       "duration_ms": 141230,
       "name": "Clack Bum",
       "url": "https://open.spotify.com/track/5DrDpWyvharQkhsloNTN9W"
+    },
+    {
+      "added_at": "2024-07-29 13:51:44",
+      "album": {
+        "name": "Barulho do Prazer",
+        "url": "https://open.spotify.com/album/0JtVCOEjMooHhVATtwnLC6"
+      },
+      "artists": [
+        {
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 150399,
+      "name": "Barulho do Prazer",
+      "url": "https://open.spotify.com/track/1RGluLu2l8NMZHyOg0rxiu"
     },
     {
       "added_at": "2024-07-29 13:51:44",
@@ -855,6 +855,26 @@
     {
       "added_at": "2024-07-29 13:51:44",
       "album": {
+        "name": "MTG CHIHIRO",
+        "url": "https://open.spotify.com/album/7bjKMqVLAEYU4q7TWrzOs6"
+      },
+      "artists": [
+        {
+          "name": "Mul\u00fa",
+          "url": "https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "CHIHIRO",
+      "url": "https://open.spotify.com/track/0GtGtRY3SB3tlfLYiFtrEw"
+    },
+    {
+      "added_at": "2024-07-29 13:51:44",
+      "album": {
         "name": "Pane no Sistema",
         "url": "https://open.spotify.com/album/2dmlFvtOu5sd5ktVMiNMNZ"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 214090,
       "name": "Pane no Sistema",
       "url": "https://open.spotify.com/track/7GjAXYuxjuXPbQJzRnNdob"
-    },
-    {
-      "added_at": "2024-07-29 13:51:44",
-      "album": {
-        "name": "MTG CHIHIRO",
-        "url": "https://open.spotify.com/album/7bjKMqVLAEYU4q7TWrzOs6"
-      },
-      "artists": [
-        {
-          "name": "Mul\u00fa",
-          "url": "https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "CHIHIRO",
-      "url": "https://open.spotify.com/track/0GtGtRY3SB3tlfLYiFtrEw"
     },
     {
       "added_at": "2024-07-29 13:51:44",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-07-29 13:51:44",
       "album": {
-        "name": "Halls na L\u00edngua",
-        "url": "https://open.spotify.com/album/21gJooS1uexxzD1qkDcw09"
-      },
-      "artists": [
-        {
-          "name": "Kadu Martins",
-          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
-        }
-      ],
-      "duration_ms": 192320,
-      "name": "Halls na L\u00edngua",
-      "url": "https://open.spotify.com/track/4pWsXhLUdtBKlw9npIXZAl"
-    },
-    {
-      "added_at": "2024-07-29 13:51:44",
-      "album": {
         "name": "Balan\u00e7o da Rede",
         "url": "https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 166435,
       "name": "Balan\u00e7o da Rede",
       "url": "https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt"
+    },
+    {
+      "added_at": "2024-07-29 13:51:44",
+      "album": {
+        "name": "Halls na L\u00edngua",
+        "url": "https://open.spotify.com/album/21gJooS1uexxzD1qkDcw09"
+      },
+      "artists": [
+        {
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+        }
+      ],
+      "duration_ms": 192320,
+      "name": "Halls na L\u00edngua",
+      "url": "https://open.spotify.com/track/4pWsXhLUdtBKlw9npIXZAl"
     },
     {
       "added_at": "2024-07-29 13:51:44",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-07-29 13:51:44",
       "album": {
+        "name": "MF No Rio, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2P8zuC56lsghvc5KHP4rfQ"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        }
+      ],
+      "duration_ms": 202411,
+      "name": "Altas Loucurinhas (Uni Duni T\u00ea) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2kBbHpJTc7MWs8F3XhClBD"
+    },
+    {
+      "added_at": "2024-07-29 13:51:44",
+      "album": {
         "name": "S\u00f3 um Pagode (Ao Vivo)",
         "url": "https://open.spotify.com/album/4RTvrQ9CgC2jhjOBya0RaZ"
       },
@@ -1171,26 +1187,6 @@
       "duration_ms": 141388,
       "name": "S\u00f3 um Pagode - Ao Vivo",
       "url": "https://open.spotify.com/track/0kIhdc2rN4TCBzvZ1MtVmz"
-    },
-    {
-      "added_at": "2024-07-29 13:51:44",
-      "album": {
-        "name": "Virado No Pagode (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1SXOjReTOGWZo79wMUR0v3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        },
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        }
-      ],
-      "duration_ms": 176247,
-      "name": "Matadinha De Saudade - Ao Vivo",
-      "url": "https://open.spotify.com/track/3XqhtjiycwDxCpGqUFTtlW"
     },
     {
       "added_at": "2024-07-29 13:51:44",
@@ -1211,18 +1207,22 @@
     {
       "added_at": "2024-07-29 13:51:44",
       "album": {
-        "name": "MF No Rio, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2P8zuC56lsghvc5KHP4rfQ"
+        "name": "Virado No Pagode (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1SXOjReTOGWZo79wMUR0v3"
       },
       "artists": [
         {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        },
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
         }
       ],
-      "duration_ms": 202411,
-      "name": "Altas Loucurinhas (Uni Duni T\u00ea) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2kBbHpJTc7MWs8F3XhClBD"
+      "duration_ms": 176247,
+      "name": "Matadinha De Saudade - Ao Vivo",
+      "url": "https://open.spotify.com/track/3XqhtjiycwDxCpGqUFTtlW"
     },
     {
       "added_at": "2024-07-29 13:51:44",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2024-07-29 13:51:44",
       "album": {
-        "name": "Golzinho Vermelho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7ua7P2NJBNVH5Jej9PVMv3"
-      },
-      "artists": [
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        }
-      ],
-      "duration_ms": 155050,
-      "name": "Golzinho Vermelho - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Htol3nnPzphX76oORiNHb"
-    },
-    {
-      "added_at": "2024-07-29 13:51:44",
-      "album": {
         "name": "Ao Vivo em Fortaleza",
         "url": "https://open.spotify.com/album/3M5e9wnEYLRGlavA36KwAr"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 180410,
       "name": "Comunica\u00e7\u00e3o Falhou - Ao Vivo",
       "url": "https://open.spotify.com/track/7bhvRvE56NHBvedx0EeALS"
+    },
+    {
+      "added_at": "2024-07-29 13:51:44",
+      "album": {
+        "name": "Golzinho Vermelho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7ua7P2NJBNVH5Jej9PVMv3"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "duration_ms": 155050,
+      "name": "Golzinho Vermelho - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Htol3nnPzphX76oORiNHb"
     },
     {
       "added_at": "2024-07-29 13:51:44",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2024-07-29 13:51:44",
       "album": {
-        "name": "Reivete-se 3.0",
-        "url": "https://open.spotify.com/album/4pTd3gXvJKxLClVdXVhi8G"
-      },
-      "artists": [
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 167786,
-      "name": "Macetando",
-      "url": "https://open.spotify.com/track/1T9dxi40GuNW3gNRHwk8P4"
-    },
-    {
-      "added_at": "2024-07-29 13:51:44",
-      "album": {
         "name": "10 Anos (Ao Vivo / Vol.1)",
         "url": "https://open.spotify.com/album/22jto4LUwVyh5A3Q3Fr4s1"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 144298,
       "name": "Quando Apaga A Luz - Ao Vivo",
       "url": "https://open.spotify.com/track/1UtFywx23D3gScleyACbgD"
+    },
+    {
+      "added_at": "2024-07-29 13:51:44",
+      "album": {
+        "name": "Reivete-se 3.0",
+        "url": "https://open.spotify.com/album/4pTd3gXvJKxLClVdXVhi8G"
+      },
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 167786,
+      "name": "Macetando",
+      "url": "https://open.spotify.com/track/1T9dxi40GuNW3gNRHwk8P4"
     },
     {
       "added_at": "2024-07-29 13:51:44",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2024-07-29 13:51:44",
       "album": {
+        "name": "Onde Tu Vai Sentar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0B8P5we7BnNCq7MU7vVHs7"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        },
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 182640,
+      "name": "Onde Tu Vai Sentar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1EabI1QbflYnmXuMKtlzbI"
+    },
+    {
+      "added_at": "2024-07-29 13:51:44",
+      "album": {
         "name": "DAN\u00c7A PRA ME PROVOCAR",
         "url": "https://open.spotify.com/album/4JtRus7fWmpFCHpkw4htzq"
       },
@@ -1587,26 +1607,6 @@
       "duration_ms": 288764,
       "name": "Wonderful Pagode Rmx",
       "url": "https://open.spotify.com/track/33sVci9mshFZmvaRXCRlL4"
-    },
-    {
-      "added_at": "2024-07-29 13:51:44",
-      "album": {
-        "name": "Onde Tu Vai Sentar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0B8P5we7BnNCq7MU7vVHs7"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        },
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 182640,
-      "name": "Onde Tu Vai Sentar - Ao Vivo",
-      "url": "https://open.spotify.com/track/1EabI1QbflYnmXuMKtlzbI"
     },
     {
       "added_at": "2024-07-29 13:51:44",

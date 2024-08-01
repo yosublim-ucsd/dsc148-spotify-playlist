@@ -1,13 +1,29 @@
 {
   "description": "?! ft. Lil Yachty",
-  "num_followers": 747529,
+  "num_followers": 747591,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpFzEgAAAABDnVvkUiHEyyiDAcGJ8/lw",
+  "snapshot_id": "Zqpp+AAAAAB4pSGxkwevENUJmrfW89ML",
   "tracks": [
+    {
+      "added_at": "2024-07-31 16:43:52",
+      "album": {
+        "name": "Lavender Town",
+        "url": "https://open.spotify.com/album/4brjWTy34iHnVEmiDk8bUc"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "duration_ms": 180157,
+      "name": "Lavender Town",
+      "url": "https://open.spotify.com/track/3Fn2y02qGuYdftsSkPGhJ2"
+    },
     {
       "added_at": "2024-07-02 17:43:07",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 179320,
       "name": "Lithonia",
       "url": "https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23"
+    },
+    {
+      "added_at": "2024-05-31 05:00:00",
+      "album": {
+        "name": "PULL UP",
+        "url": "https://open.spotify.com/album/1brHIGC0EiM5onDMz2aCB9"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "duration_ms": 140143,
+      "name": "PULL UP",
+      "url": "https://open.spotify.com/track/35wqLh4Ht76d4YIUU2oNXq"
     },
     {
       "added_at": "2024-07-12 18:16:50",
@@ -41,6 +73,42 @@
       "url": "https://open.spotify.com/track/7AGOsBjHLrI2tjAlcsO5e7"
     },
     {
+      "added_at": "2024-07-31 16:43:52",
+      "album": {
+        "name": "stArlight",
+        "url": "https://open.spotify.com/album/03zxfkzxIFPaeaLTT0BgTG"
+      },
+      "artists": [
+        {
+          "name": "Johnny Yukon",
+          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
+        }
+      ],
+      "duration_ms": 142054,
+      "name": "stArlight",
+      "url": "https://open.spotify.com/track/0c84ujMSVptmZp1ZXXgJNz"
+    },
+    {
+      "added_at": "2024-07-31 16:43:52",
+      "album": {
+        "name": "One Wish (feat. Childish Gambino)",
+        "url": "https://open.spotify.com/album/4zqd0pJeSANOHYaNRlR4hV"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 195502,
+      "name": "One Wish (feat. Childish Gambino)",
+      "url": "https://open.spotify.com/track/3iHpwGD3h3Bj87KrJEBMI4"
+    },
+    {
       "added_at": "2024-06-15 02:48:51",
       "album": {
         "name": "Sugabby",
@@ -57,22 +125,6 @@
       "url": "https://open.spotify.com/track/58IuYAWUpmXJh9YGPFQhCt"
     },
     {
-      "added_at": "2024-07-12 18:16:50",
-      "album": {
-        "name": "KONA",
-        "url": "https://open.spotify.com/album/4SooABiVOLdO10ozHsOG4M"
-      },
-      "artists": [
-        {
-          "name": "Kona",
-          "url": "https://open.spotify.com/artist/0Fj3PWpJ3TVPiUOtBSi8O6"
-        }
-      ],
-      "duration_ms": 193086,
-      "name": "ENTER THE VOID",
-      "url": "https://open.spotify.com/track/6hWdEh6Y5An7odLtTcWQPU"
-    },
-    {
       "added_at": "2024-06-04 13:05:03",
       "album": {
         "name": "IGOR",
@@ -87,6 +139,22 @@
       "duration_ms": 195320,
       "name": "NEW MAGIC WAND",
       "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
+    },
+    {
+      "added_at": "2024-07-31 16:43:52",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/4v1zsnYBE04zhTeEx9q24j"
+      },
+      "artists": [
+        {
+          "name": "Croosh",
+          "url": "https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT"
+        }
+      ],
+      "duration_ms": 99374,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/1Glgwi772JtfZGpHAtvqP3"
     },
     {
       "added_at": "2024-07-02 17:43:07",
@@ -153,22 +221,6 @@
       "url": "https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q"
     },
     {
-      "added_at": "2024-05-31 05:00:00",
-      "album": {
-        "name": "PULL UP",
-        "url": "https://open.spotify.com/album/1brHIGC0EiM5onDMz2aCB9"
-      },
-      "artists": [
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
-        }
-      ],
-      "duration_ms": 140143,
-      "name": "PULL UP",
-      "url": "https://open.spotify.com/track/35wqLh4Ht76d4YIUU2oNXq"
-    },
-    {
       "added_at": "2024-06-14 05:03:48",
       "album": {
         "name": "AT.LONG.LAST.A$AP",
@@ -207,22 +259,6 @@
       "duration_ms": 130944,
       "name": "DEVIL IS A LIE",
       "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
-    },
-    {
-      "added_at": "2024-07-12 18:16:50",
-      "album": {
-        "name": "Didn't Have To",
-        "url": "https://open.spotify.com/album/5VVKWRiULbJkKeAJTysitg"
-      },
-      "artists": [
-        {
-          "name": "Tama Gucci",
-          "url": "https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5"
-        }
-      ],
-      "duration_ms": 140024,
-      "name": "Didn't Have To",
-      "url": "https://open.spotify.com/track/5t2FrzAyXGGZGq8I1UacCu"
     },
     {
       "added_at": "2024-05-31 05:00:00",
@@ -287,6 +323,22 @@
       "duration_ms": 139000,
       "name": "DREAMS I SEE",
       "url": "https://open.spotify.com/track/4mamncqmgsPaWkBaemFijf"
+    },
+    {
+      "added_at": "2024-07-12 18:16:50",
+      "album": {
+        "name": "Didn't Have To",
+        "url": "https://open.spotify.com/album/5VVKWRiULbJkKeAJTysitg"
+      },
+      "artists": [
+        {
+          "name": "Tama Gucci",
+          "url": "https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5"
+        }
+      ],
+      "duration_ms": 140024,
+      "name": "Didn't Have To",
+      "url": "https://open.spotify.com/track/5t2FrzAyXGGZGq8I1UacCu"
     },
     {
       "added_at": "2024-06-15 17:07:08",
@@ -407,46 +459,6 @@
       "duration_ms": 140000,
       "name": "SELL ME SICKNESS SELL ME HEALTH (EAZY T)",
       "url": "https://open.spotify.com/track/3pssREoUYhs7NTPF3iv6wL"
-    },
-    {
-      "added_at": "2024-06-28 17:11:24",
-      "album": {
-        "name": "GEMINI!",
-        "url": "https://open.spotify.com/album/1oocvwkq7m9gmJma0SceUi"
-      },
-      "artists": [
-        {
-          "name": "LUCKI",
-          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 169933,
-      "name": "BIGGAVEL",
-      "url": "https://open.spotify.com/track/4fZBMzTZjq7Z9f5y7bAGTi"
-    },
-    {
-      "added_at": "2024-06-28 17:11:24",
-      "album": {
-        "name": "3000",
-        "url": "https://open.spotify.com/album/1ZAwb96b5S063HJ6lEKnBY"
-      },
-      "artists": [
-        {
-          "name": "nusar3000",
-          "url": "https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex"
-        },
-        {
-          "name": "Six Sex",
-          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
-        }
-      ],
-      "duration_ms": 146156,
-      "name": "MELAZA",
-      "url": "https://open.spotify.com/track/4slhDuJPNVuLD0ZHSS0VAL"
     },
     {
       "added_at": "2024-06-28 17:11:24",
@@ -609,22 +621,6 @@
       "url": "https://open.spotify.com/track/2dVmZ5FPuBsZY8XwK7CRSc"
     },
     {
-      "added_at": "2024-06-15 17:07:08",
-      "album": {
-        "name": "belly",
-        "url": "https://open.spotify.com/album/4BUsKvZKPQXKLHQYeBxQZ2"
-      },
-      "artists": [
-        {
-          "name": "Drewbyrd",
-          "url": "https://open.spotify.com/artist/67kmAPaXes2HLVDJphvWMH"
-        }
-      ],
-      "duration_ms": 205454,
-      "name": "belly",
-      "url": "https://open.spotify.com/track/6wXETuMJUaYHwoMYSi1Vr0"
-    },
-    {
       "added_at": "2024-05-31 05:00:00",
       "album": {
         "name": "Gangsta",
@@ -683,22 +679,6 @@
     {
       "added_at": "2024-05-31 14:57:30",
       "album": {
-        "name": "Slow D's",
-        "url": "https://open.spotify.com/album/2BsvmkgJ8ly4e7MVQ9S0RL"
-      },
-      "artists": [
-        {
-          "name": "Lully",
-          "url": "https://open.spotify.com/artist/1NvmP6svMv6qjhaCM35vRQ"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Slow D's",
-      "url": "https://open.spotify.com/track/37xEZM1nrOU20WkutEJxcw"
-    },
-    {
-      "added_at": "2024-05-31 14:57:30",
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/2EYgpRvuCQT4mw7NybPRF0"
       },
@@ -711,38 +691,6 @@
       "duration_ms": 209798,
       "name": "Changes",
       "url": "https://open.spotify.com/track/4kCQBniDnYszCKJYYPcH4c"
-    },
-    {
-      "added_at": "2024-05-31 05:00:00",
-      "album": {
-        "name": "Demon Days",
-        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 222640,
-      "name": "Feel Good Inc.",
-      "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT"
-    },
-    {
-      "added_at": "2024-06-14 05:03:48",
-      "album": {
-        "name": "The Melodic Blue",
-        "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 270670,
-      "name": "trademark usa",
-      "url": "https://open.spotify.com/track/15hJmqqEtASVXl6sM7i4UF"
     },
     {
       "added_at": "2024-05-31 05:00:00",
@@ -797,22 +745,6 @@
       "url": "https://open.spotify.com/track/0mxMMetknt24PVQxAHwXAZ"
     },
     {
-      "added_at": "2024-06-04 13:06:04",
-      "album": {
-        "name": "Nightlife",
-        "url": "https://open.spotify.com/album/1O2FPFDjmyEOSTfqNuuuNG"
-      },
-      "artists": [
-        {
-          "name": "Phantogram",
-          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
-        }
-      ],
-      "duration_ms": 258186,
-      "name": "Don't Move",
-      "url": "https://open.spotify.com/track/1BeNZQORyV0jEF2toAmrsA"
-    },
-    {
       "added_at": "2024-05-31 05:00:00",
       "album": {
         "name": "OXY1*",
@@ -827,22 +759,6 @@
       "duration_ms": 137642,
       "name": "RIPPED JEANS",
       "url": "https://open.spotify.com/track/4nQTSJGyfCNNgw0jQVgk9S"
-    },
-    {
-      "added_at": "2024-05-31 05:00:00",
-      "album": {
-        "name": "sins (let me in)",
-        "url": "https://open.spotify.com/album/67sbzjPbujx9SQwLyOetYg"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        }
-      ],
-      "duration_ms": 128326,
-      "name": "sins (let me in)",
-      "url": "https://open.spotify.com/track/6EQLN1Fl8oy46k4FMwhxug"
     },
     {
       "added_at": "2024-05-31 05:00:00",
@@ -963,26 +879,6 @@
     {
       "added_at": "2024-05-31 05:00:00",
       "album": {
-        "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
-        "url": "https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        },
-        {
-          "name": "Fabiana Martone",
-          "url": "https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1"
-        }
-      ],
-      "duration_ms": 244075,
-      "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
-      "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
-    },
-    {
-      "added_at": "2024-05-31 05:00:00",
-      "album": {
         "name": "NO THANK YOU",
         "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
       },
@@ -995,26 +891,6 @@
       "duration_ms": 245819,
       "name": "Gorilla",
       "url": "https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r"
-    },
-    {
-      "added_at": "2024-05-31 05:00:00",
-      "album": {
-        "name": "Two Tens (feat. Anderson .Paak)",
-        "url": "https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 152371,
-      "name": "Two Tens (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
     },
     {
       "added_at": "2024-05-31 14:57:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Tan Bionica & Airbag
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,338 likes - 100 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,358 likes - 100 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 38 | [Tan Lejos](https://open.spotify.com/track/3XsRIqq4RnHfTRrHdZnNIm) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones en Vivo en Latinoamérica](https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP) | 4:44 |
 | 39 | [Yo Tomo \- Live In Buenos Aires / 2001](https://open.spotify.com/track/3AjtTcyP76C5Cwb0qfvPM6) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 3:46 |
 | 40 | [Ya No Estás \- En Vivo en el Luna Park](https://open.spotify.com/track/3c8v1vkAFkEMn17asSMldf) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 3:34 |
-| 41 | [A Dónde Vas \- Acústico en Vivo](https://open.spotify.com/track/5En6kK2Xn4HgYQBhBgcxY0) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg), [Facundo Soto](https://open.spotify.com/artist/7iHo4CLGchMwwtiCxfyGem) | [Instante Eterno \(acústico en Vivo\)](https://open.spotify.com/album/3strzjXT1o3fjp6TmC67ev) | 3:47 |
-| 42 | [Traicionero \- En Vivo en el Estadio Único](https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [En Vivo en el Estadio Único](https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp) | 5:41 |
-| 43 | [Nike es la Cultura \- En Vivo, Sábado 13 de Diciembre de 2014 / Mendoza](https://open.spotify.com/track/3Q4hJ8NSxwg4NrnjDY2yTg) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Nike es la Cultura \(En Vivo, Sábado 13 de Diciembre de 2014 / Mendoza\)](https://open.spotify.com/album/4vbEXau7Yb3FLROSipkzQv) | 5:46 |
+| 41 | [Nike es la Cultura \- En Vivo, Sábado 13 de Diciembre de 2014 / Mendoza](https://open.spotify.com/track/3Q4hJ8NSxwg4NrnjDY2yTg) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Nike es la Cultura \(En Vivo, Sábado 13 de Diciembre de 2014 / Mendoza\)](https://open.spotify.com/album/4vbEXau7Yb3FLROSipkzQv) | 5:46 |
+| 42 | [A Dónde Vas \- Acústico en Vivo](https://open.spotify.com/track/5En6kK2Xn4HgYQBhBgcxY0) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg), [Facundo Soto](https://open.spotify.com/artist/7iHo4CLGchMwwtiCxfyGem) | [Instante Eterno \(acústico en Vivo\)](https://open.spotify.com/album/3strzjXT1o3fjp6TmC67ev) | 3:47 |
+| 43 | [Traicionero \- En Vivo en el Estadio Único](https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [En Vivo en el Estadio Único](https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp) | 5:41 |
 | 44 | [Una Nueva Noche Fria \- Vivo \- Mezclado y Masterizado 2017](https://open.spotify.com/track/4Fckaw7KFh4qXmwwVp6mDJ) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Concierto Obras 30 y 31 Julio, Parte Uno \(En Vivo\)](https://open.spotify.com/album/7CiCajBytiFZ69hJUny0s4) | 4:27 |
 | 45 | [El Viejo \(En Vivo\)](https://open.spotify.com/track/7dF2tY2XnIJCfAn5xEegm0) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Pepsi Music 2005](https://open.spotify.com/album/3tXQQLWOJSgvCHqmGGCd1N) | 3:15 |
 | 46 | [Paisano de Hurlingham](https://open.spotify.com/track/2UOJsDtVLCdSbwbhd2qSl3) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Divididos en Vélez \- Agradecer y Seguir](https://open.spotify.com/album/2TrRaAq10CSLmQV03lmQQy) | 6:08 |

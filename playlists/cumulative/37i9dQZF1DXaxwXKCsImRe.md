@@ -4,7 +4,7 @@
 
 > RADAR = promoting exciting artists! RADAR BNLX: <a href="spotify:artist:11T0XSkxSB5KUPTe8P8BOl">Sylvie Kreusch</a> \(cover\), The Vices, Berre, The Indien & Roxy Dekker
 
-187 songs - 9 hr 52 min
+188 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [popstar](https://open.spotify.com/track/6C2xaC4vv2eRwLqcy564vw) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [popstar](https://open.spotify.com/album/3QHPerVUNjQTLaEXilaMjE) | 3:08 | 2021-12-10 | 2022-03-19 |
 | [RELAPSE](https://open.spotify.com/track/3SuTqS0CuFnVxC52vBArPy) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [TEETH OUT](https://open.spotify.com/album/6wE7d28Rxv1y1v2FSaYnW2) | 2:37 | 2021-12-10 | 2022-10-18 |
 | [Ribéry](https://open.spotify.com/track/4LSO1o2dTqJedirEoyBNP0) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Ribéry](https://open.spotify.com/album/0qTO7678yKV6K6fdeFIb1Q) | 2:54 | 2023-06-23 | 2024-04-11 |
+| [Ride Away](https://open.spotify.com/track/3LsMYyzxZhp1Fg6Ehc40nw) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Ride Away](https://open.spotify.com/album/3wHNpeAiczJyp3OmVSWNTf) | 5:13 | 2024-07-31 |  |
 | [Roddels](https://open.spotify.com/track/4LgdcClmqjGVmtPi6Sbfr7) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Roddels](https://open.spotify.com/album/0AKNcOmJM09yEmaPDh0zrB) | 2:17 | 2023-03-23 | 2023-09-15 |
 | [Romance in Great Britain](https://open.spotify.com/track/4t51Fwx665meFGj1DJwweV) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Romance in Great Britain](https://open.spotify.com/album/14YzhyJwBKhmtshaBaINzQ) | 3:21 | 2022-03-18 | 2022-10-09 |
 | [Romance in Great Britain](https://open.spotify.com/track/7qHn95y6Fry3I6t87HekQ5) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Romance in Great Britain](https://open.spotify.com/album/3gL5sXknuYa2VCjr5bA5UT) | 3:21 | 2022-10-05 | 2023-05-10 |
@@ -179,7 +180,7 @@
 | [Turn Around](https://open.spotify.com/track/2tEnmxLtnpbhuSks6aOxeL) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Too Young](https://open.spotify.com/album/5ZfCvmBhlJhVyKFLits0lx) | 2:44 | 2021-12-10 | 2022-10-18 |
 | [Vlieg Hoog](https://open.spotify.com/track/42kJZkC1MFlarkImGzLk7r) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Vlieg Hoog](https://open.spotify.com/album/3CsqojxAZHZpVQW7TFYoGQ) | 2:41 | 2023-09-14 | 2024-01-19 |
 | [walk away](https://open.spotify.com/track/1efwGUw4z68vJLVEhR0WZi) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [walk away](https://open.spotify.com/album/2HxzENWnGfFlHRWjawrf6B) | 2:55 | 2022-08-25 | 2023-09-15 |
-| [Walk Walk](https://open.spotify.com/track/1DBkUFoOcyd9wWGHB9ENv2) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Montbray](https://open.spotify.com/album/4ZoaUVTqltgDW5THX0hxHY) | 4:51 | 2024-07-01 |  |
+| [Walk Walk](https://open.spotify.com/track/1DBkUFoOcyd9wWGHB9ENv2) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Montbray](https://open.spotify.com/album/4ZoaUVTqltgDW5THX0hxHY) | 4:51 | 2024-07-01 | 2024-08-01 |
 | [Wet Dream](https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA) | 2:20 | 2022-02-03 | 2023-05-10 |
 | [What Goes, Let Go](https://open.spotify.com/track/1T9PWBFDewu2lz6R2Obydp) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [What Goes, Let Go](https://open.spotify.com/album/5rIh0IGTwv2Y7m10VnJb4k) | 4:34 | 2021-12-10 | 2022-07-29 |
 | [What Goes, Let Go](https://open.spotify.com/track/21jath1y9BcbV3tZKUXFw4) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [What Goes, Let Go](https://open.spotify.com/album/1YqDdcokv3cDe2819uRPrw) | 4:34 | 2022-07-12 | 2023-01-28 |

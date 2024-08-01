@@ -5577,6 +5577,24 @@
     },
     {
       "album": {
+        "name": "I Wanna Be Loved (Just A Little Better)",
+        "url": "https://open.spotify.com/album/57QKPE7R7BYQ29aX0npMIg"
+      },
+      "artists": [
+        {
+          "name": "Alison Goldfrapp",
+          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188546,
+      "name": "I Wanna Be Loved (Just A Little Better)",
+      "url": "https://open.spotify.com/track/1KwZQmJ03PN3hye7NF4iiA"
+    },
+    {
+      "album": {
         "name": "I Wanna Be Software",
         "url": "https://open.spotify.com/album/53t7HLPMqdHgtJCMmiQkvL"
       },
@@ -8360,10 +8378,28 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 158785,
       "name": "Overglow",
       "url": "https://open.spotify.com/track/59ktWn8FpeyX81PqYxwWEy"
+    },
+    {
+      "album": {
+        "name": "Overglow - Jade's Version",
+        "url": "https://open.spotify.com/album/1SaS2ssPPvz59jfrn7vx2e"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192923,
+      "name": "Overglow - Jade's Version",
+      "url": "https://open.spotify.com/track/7GaiFXhUML7c5n6dSpCQme"
     },
     {
       "album": {
@@ -8400,7 +8436,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 166266,
       "name": "Padam Padam",
       "url": "https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac"

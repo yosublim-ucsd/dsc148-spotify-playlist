@@ -144,7 +144,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 162160,
       "name": "17",
       "url": "https://open.spotify.com/track/6Xd7Hqo1E5jnX5GtEt53xi"
@@ -2236,6 +2236,24 @@
       "duration_ms": 171263,
       "name": "I Do",
       "url": "https://open.spotify.com/track/0QTI2S5oOheSLU8WQuGmja"
+    },
+    {
+      "album": {
+        "name": "I SAID NO SIR",
+        "url": "https://open.spotify.com/album/7dXJI3nbNQJG0zRHPzc4qg"
+      },
+      "artists": [
+        {
+          "name": "Davina Michelle",
+          "url": "https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183086,
+      "name": "I SAID NO SIR",
+      "url": "https://open.spotify.com/track/22UKbVtcfHOaGpCceEpTgi"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [This Is Gustavo Santaolalla](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2TG848)
 
-> This is Gustavo Santaolalla\. The essential tracks, all in one playlist.
+> This Is Gustavo Santaolalla\. Los temas esenciales, todos en una lista.
 
 82 songs - 3 hr 21 min
 
@@ -80,7 +80,7 @@
 | [The Path \(A New Beginning\)](https://open.spotify.com/track/1hdDnQRPinE8hxYhW3uy6u) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 2:47 | 2023-08-31 |  |
 | [The Settlement](https://open.spotify.com/track/7naQN2rKMnye6uuzV2L0wh) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 0:50 | 2024-01-10 | 2024-03-14 |
 | [The Wings](https://open.spotify.com/track/3oQpVsTPxbMobnIjeogbJz) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 1:52 | 2023-08-31 |  |
-| [There Is No Girl](https://open.spotify.com/track/54Ybc5gEmC1Vdm2hqazAr1) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Juan Luqui](https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:05 | 2024-01-31 |  |
+| [There Is No Girl](https://open.spotify.com/track/54Ybc5gEmC1Vdm2hqazAr1) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Juan Luqui](https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:05 | 2024-01-31 | 2024-08-01 |
 | [Thin Ice](https://open.spotify.com/track/65ROuREUdXBKfTVoSkQRRJ) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Before the Flood \(Music from the Motion Picture\)](https://open.spotify.com/album/6nFtsE7rZHInooqb9QYGrn) | 1:05 | 2023-08-31 | 2024-06-19 |
 | [Tu Razón de Ser](https://open.spotify.com/track/6sOfBWX3tE0VV7Vs00lFfF) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Tu Razón de Ser](https://open.spotify.com/album/2ckiB0VrtKwKt14mgNqOWn) | 3:26 | 2023-08-31 | 2024-06-13 |
 | [Un Poquito de Tu Amor \- Remasterizado](https://open.spotify.com/track/1M2nk7ZecdvJJYEHuiPyYd) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [G.A.S\. \(Remasterizado\)](https://open.spotify.com/album/4V5SgHTbnLS1ZR4ToEFGqM) | 2:55 | 2023-08-31 | 2024-07-22 |
@@ -88,7 +88,7 @@
 | [Unbroken](https://open.spotify.com/track/6KAf1Y6OHR34qdmgUFO5zf) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us Part II \(Original Soundtrack\)](https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC) | 4:38 | 2023-08-31 |  |
 | [Vanishing Grace](https://open.spotify.com/track/5TBJdXataXjsbjcXsCtUeP) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 2:06 | 2023-08-31 |  |
 | [Yarará](https://open.spotify.com/track/5yZF5BdTmtdQitz89YBMYL) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [SUR](https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA) | 2:50 | 2023-12-13 |  |
-| [Zenda \- 2024 Remaster](https://open.spotify.com/track/2b1YIeZgof9nVmPwdDi4mP) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco \(2024 Remaster\)](https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB) | 3:23 | 2024-06-21 | 2024-07-16 |
+| [Zenda \- 2024 Remaster](https://open.spotify.com/track/2b1YIeZgof9nVmPwdDi4mP) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco \(2024 Remaster\)](https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB) | 3:23 | 2024-06-21 |  |
 | [¿Qué Ves?](https://open.spotify.com/track/2yJMtBIyGkFmzvYj9vW4lf) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo) | [Divididos en Vélez \- Agradecer y Seguir](https://open.spotify.com/album/2TrRaAq10CSLmQV03lmQQy) | 9:31 | 2024-01-28 | 2024-02-14 |
 
 \*This playlist was first scraped on 2023-09-01. Prior content cannot be recovered.

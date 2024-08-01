@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 33573,
+  "num_followers": 33592,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-07-26 08:47:15",
       "album": {
-        "name": "Small Money",
-        "url": "https://open.spotify.com/album/3wxXvsPsPxi0ZDrbPGmiB4"
-      },
-      "artists": [
-        {
-          "name": "Nasboi",
-          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "Small Money",
-      "url": "https://open.spotify.com/track/5jYCb3QsnXxS2Qh5HzwT7J"
-    },
-    {
-      "added_at": "2024-07-26 08:47:15",
-      "album": {
         "name": "Saba Julukisa (feat. Mfana Kah Gogo & Spux)",
         "url": "https://open.spotify.com/album/7n1TxSwhsdR6p10jptrKhL"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 366573,
       "name": "Saba Julukisa (feat. Mfana Kah Gogo & Spux)",
       "url": "https://open.spotify.com/track/2jQx6kd1QLapry5vwk7Zb7"
+    },
+    {
+      "added_at": "2024-07-26 08:47:15",
+      "album": {
+        "name": "Small Money",
+        "url": "https://open.spotify.com/album/3wxXvsPsPxi0ZDrbPGmiB4"
+      },
+      "artists": [
+        {
+          "name": "Nasboi",
+          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "Small Money",
+      "url": "https://open.spotify.com/track/5jYCb3QsnXxS2Qh5HzwT7J"
     },
     {
       "added_at": "2024-07-26 08:47:15",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-07-26 08:47:15",
       "album": {
+        "name": "Finish Me (AEIOU)",
+        "url": "https://open.spotify.com/album/3WcAZQlQPsmeewc90tLg7H"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "duration_ms": 91428,
+      "name": "Finish Me (AEIOU)",
+      "url": "https://open.spotify.com/track/2u5YJtmjz0wRISSek8g2tS"
+    },
+    {
+      "added_at": "2024-07-26 08:47:15",
+      "album": {
         "name": "Like (feat. Kizz Daniel)",
         "url": "https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 158520,
       "name": "My Brother",
       "url": "https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X"
-    },
-    {
-      "added_at": "2024-07-26 08:47:15",
-      "album": {
-        "name": "Finish Me (AEIOU)",
-        "url": "https://open.spotify.com/album/3WcAZQlQPsmeewc90tLg7H"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        }
-      ],
-      "duration_ms": 91428,
-      "name": "Finish Me (AEIOU)",
-      "url": "https://open.spotify.com/track/2u5YJtmjz0wRISSek8g2tS"
     },
     {
       "added_at": "2024-07-26 08:47:15",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2024-07-26 08:47:15",
       "album": {
-        "name": "The One (Chop Life)",
-        "url": "https://open.spotify.com/album/5nECl8Xw4BiWM7PSuI6dDl"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        },
-        {
-          "name": "Yaba Buluku Boyz",
-          "url": "https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi"
-        }
-      ],
-      "duration_ms": 196471,
-      "name": "The One (Chop Life)",
-      "url": "https://open.spotify.com/track/4QrZSUg5xCZpFKDIhJMU2Q"
-    },
-    {
-      "added_at": "2024-07-26 08:47:15",
-      "album": {
         "name": "Ogologo",
         "url": "https://open.spotify.com/album/0YDsVfN2COubjqikZUnDTq"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 146417,
       "name": "Ogologo",
       "url": "https://open.spotify.com/track/2FIo6itkvFUH8Gze6SWh4V"
+    },
+    {
+      "added_at": "2024-07-26 08:47:15",
+      "album": {
+        "name": "The One (Chop Life)",
+        "url": "https://open.spotify.com/album/5nECl8Xw4BiWM7PSuI6dDl"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        },
+        {
+          "name": "Yaba Buluku Boyz",
+          "url": "https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi"
+        }
+      ],
+      "duration_ms": 196471,
+      "name": "The One (Chop Life)",
+      "url": "https://open.spotify.com/track/4QrZSUg5xCZpFKDIhJMU2Q"
     },
     {
       "added_at": "2024-07-26 08:47:15",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2024-07-26 08:47:15",
       "album": {
+        "name": "More Kashcoming, Vol. 2",
+        "url": "https://open.spotify.com/album/7rihBCOnj640TOFRJD1FKz"
+      },
+      "artists": [
+        {
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        },
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        }
+      ],
+      "duration_ms": 141678,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/264HkpmqRAHqlGHQJSKMIp"
+    },
+    {
+      "added_at": "2024-07-26 08:47:15",
+      "album": {
         "name": "Ou LaLa",
         "url": "https://open.spotify.com/album/706j5YG7t3JsiCxqQ7s71U"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 144424,
       "name": "Ou LaLa",
       "url": "https://open.spotify.com/track/2msCrATPZfgGUn4MWdnFlA"
-    },
-    {
-      "added_at": "2024-07-26 08:47:15",
-      "album": {
-        "name": "More Kashcoming, Vol. 2",
-        "url": "https://open.spotify.com/album/7rihBCOnj640TOFRJD1FKz"
-      },
-      "artists": [
-        {
-          "name": "Kashcoming",
-          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
-        },
-        {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        }
-      ],
-      "duration_ms": 141678,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/264HkpmqRAHqlGHQJSKMIp"
     }
   ],
   "unique_name": "Keep Fit Club ",

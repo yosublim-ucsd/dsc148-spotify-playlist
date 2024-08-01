@@ -1,12 +1,12 @@
 {
-  "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 184068,
+  "description": "This Is Talking Heads. Los temas esenciales, todos en una lista.",
+  "num_followers": 184107,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqbbgAAAAABRHF7AYf0kN/6Mf+W32e0t",
+  "snapshot_id": "ZqgtAAAAAAAAbYjYyPPiBBuExdB101ym",
   "tracks": [
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Songs About Buildings and Food (Deluxe Version)",
-        "url": "https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ"
+        "name": "Fear of Music",
+        "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 158106,
-      "name": "The Girl Wants to Be with the Girls - 2005 Remaster",
-      "url": "https://open.spotify.com/track/3tAFhUlDu5rRmpKDsw0oCn"
+      "duration_ms": 159426,
+      "name": "Paper",
+      "url": "https://open.spotify.com/track/3kfsFQhrPxNKmZLgm26u0U"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fear of Music",
-        "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
+        "name": "More Songs About Buildings and Food (Deluxe Version)",
+        "url": "https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 159426,
-      "name": "Paper",
-      "url": "https://open.spotify.com/track/3kfsFQhrPxNKmZLgm26u0U"
+      "duration_ms": 158106,
+      "name": "The Girl Wants to Be with the Girls - 2005 Remaster",
+      "url": "https://open.spotify.com/track/3tAFhUlDu5rRmpKDsw0oCn"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
       "duration_ms": 271813,
       "name": "Love for Sale - 2005 Remaster",
       "url": "https://open.spotify.com/track/1RqNYDlHoHNdr3QGLtzKtb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fear of Music",
+        "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/5oTq6IxaYmUF6TIVc6f7BL"
     },
     {
       "added_at": null,
@@ -779,22 +795,6 @@
       "duration_ms": 210013,
       "name": "Memories Can't Wait - 2005 Remaster",
       "url": "https://open.spotify.com/track/4Gw9ACmKi3O2vP8UwJqF0M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fear of Music",
-        "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/5oTq6IxaYmUF6TIVc6f7BL"
     },
     {
       "added_at": null,

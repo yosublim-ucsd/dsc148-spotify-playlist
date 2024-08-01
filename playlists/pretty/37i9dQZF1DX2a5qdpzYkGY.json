@@ -1,6 +1,6 @@
 {
   "description": "a journey through ephemeral moments",
-  "num_followers": 12253,
+  "num_followers": 12257,
   "original_name": "transience",
   "owner": {
     "name": "Spotify",
@@ -541,6 +541,22 @@
       "url": "https://open.spotify.com/track/2rgf48jupb8QsIBLC50J4Z"
     },
     {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "The Pillow Sisters",
+        "url": "https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM"
+      },
+      "artists": [
+        {
+          "name": "Singleton",
+          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
+        }
+      ],
+      "duration_ms": 159158,
+      "name": "The Pillow Sisters",
+      "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
+    },
+    {
       "added_at": "2023-12-12 19:48:08",
       "album": {
         "name": "Cape Cod Cottage",
@@ -559,22 +575,6 @@
       "duration_ms": 148556,
       "name": "Discovery at the Beach",
       "url": "https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "The Pillow Sisters",
-        "url": "https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM"
-      },
-      "artists": [
-        {
-          "name": "Singleton",
-          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
-        }
-      ],
-      "duration_ms": 159158,
-      "name": "The Pillow Sisters",
-      "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
     },
     {
       "added_at": "2022-09-03 03:50:05",
@@ -1029,22 +1029,6 @@
       "url": "https://open.spotify.com/track/5z8WzfZK6sapGFHOUYxbHW"
     },
     {
-      "added_at": "2024-04-12 00:45:23",
-      "album": {
-        "name": "Le jour et la nuit du r\u00e9el",
-        "url": "https://open.spotify.com/album/0SGlqX0au6eBPzbyu1WiA3"
-      },
-      "artists": [
-        {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
-        }
-      ],
-      "duration_ms": 131120,
-      "name": "Night looping - Movement I",
-      "url": "https://open.spotify.com/track/4zVsCgH8X9n8GcJDkAIoda"
-    },
-    {
       "added_at": "2022-03-03 00:47:36",
       "album": {
         "name": "El Momento",
@@ -1065,24 +1049,20 @@
       "url": "https://open.spotify.com/track/5RlcIRD2XWzFMP0qeGqFlK"
     },
     {
-      "added_at": "2024-03-21 23:52:34",
+      "added_at": "2024-04-12 00:45:23",
       "album": {
-        "name": "For You, Please",
-        "url": "https://open.spotify.com/album/5IMvo5JT3t0t5u91Ybw7JL"
+        "name": "Le jour et la nuit du r\u00e9el",
+        "url": "https://open.spotify.com/album/0SGlqX0au6eBPzbyu1WiA3"
       },
       "artists": [
         {
-          "name": "Arhkota",
-          "url": "https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ"
-        },
-        {
-          "name": "Lubna Maher",
-          "url": "https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb"
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
         }
       ],
-      "duration_ms": 205205,
-      "name": "For You, Please",
-      "url": "https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb"
+      "duration_ms": 131120,
+      "name": "Night looping - Movement I",
+      "url": "https://open.spotify.com/track/4zVsCgH8X9n8GcJDkAIoda"
     },
     {
       "added_at": "2022-09-15 12:57:17",
@@ -1105,6 +1085,26 @@
       "url": "https://open.spotify.com/track/07MubErPyTNwhPmls9B2ov"
     },
     {
+      "added_at": "2024-03-21 23:52:34",
+      "album": {
+        "name": "For You, Please",
+        "url": "https://open.spotify.com/album/5IMvo5JT3t0t5u91Ybw7JL"
+      },
+      "artists": [
+        {
+          "name": "Arhkota",
+          "url": "https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ"
+        },
+        {
+          "name": "Lubna Maher",
+          "url": "https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb"
+        }
+      ],
+      "duration_ms": 205205,
+      "name": "For You, Please",
+      "url": "https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb"
+    },
+    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Wandering II (Ed Carlsen Rework)",
@@ -1125,22 +1125,6 @@
       "url": "https://open.spotify.com/track/23waihwNlV6zZsnwU3kXRW"
     },
     {
-      "added_at": "2022-03-16 01:05:35",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT"
-      },
-      "artists": [
-        {
-          "name": "Asaph S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
-        }
-      ],
-      "duration_ms": 316285,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ"
-    },
-    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Ugly Orange",
@@ -1155,6 +1139,22 @@
       "duration_ms": 259724,
       "name": "Ugly Orange",
       "url": "https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P"
+    },
+    {
+      "added_at": "2022-03-16 01:05:35",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT"
+      },
+      "artists": [
+        {
+          "name": "Asaph S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
+        }
+      ],
+      "duration_ms": 316285,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ"
     },
     {
       "added_at": "2023-01-03 03:48:53",

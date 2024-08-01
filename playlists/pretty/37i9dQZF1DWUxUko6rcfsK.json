@@ -1,13 +1,29 @@
 {
   "description": "Het leven is prachtig en dat verdient goede muziek",
-  "num_followers": 163780,
+  "num_followers": 163772,
   "original_name": "Beautiful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zqd3mgAAAAALPAmmwIGIbX8G+oNZ67r3",
+  "snapshot_id": "Zqno3gAAAABUVgwm1tWfTLkqLvh7+qxk",
   "tracks": [
+    {
+      "added_at": "2024-07-29 11:06:02",
+      "album": {
+        "name": "White Noise",
+        "url": "https://open.spotify.com/album/5OCYn7QlVlbhTR85jsLb1R"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 171752,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/67q6hY7zzDqgFtBGd4SWZB"
+    },
     {
       "added_at": "2024-07-29 11:06:02",
       "album": {
@@ -39,22 +55,6 @@
       "duration_ms": 161567,
       "name": "High",
       "url": "https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ"
-    },
-    {
-      "added_at": "2024-07-29 11:06:02",
-      "album": {
-        "name": "White Noise",
-        "url": "https://open.spotify.com/album/5OCYn7QlVlbhTR85jsLb1R"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 171752,
-      "name": "White Noise",
-      "url": "https://open.spotify.com/track/67q6hY7zzDqgFtBGd4SWZB"
     },
     {
       "added_at": "2024-07-29 11:06:02",

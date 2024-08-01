@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Representando la cultura con orgullo. Representing with pride! Cover: Danny Ocean",
+  "description": "Representando la cultura con orgullo. Representing with pride! Cover: Rawayana, Mau y Ricky",
   "name": "Made In Venezuela",
   "tracks": [
     {
@@ -952,7 +952,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 316840,
       "name": "Due\u00f1o de Nada",
       "url": "https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9"
@@ -1257,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "venequia.",
+        "url": "https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132336,
+      "name": "escala en Panam\u00e1",
+      "url": "https://open.spotify.com/track/7KhdmSkSsouQhiSCFad0Ou"
+    },
+    {
+      "album": {
         "name": "The Good Trip",
         "url": "https://open.spotify.com/album/0xlPK1D3VcRtgT29aZX2VY"
       },
@@ -1334,10 +1352,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 229375,
       "name": "Hennessy",
       "url": "https://open.spotify.com/track/2Cz3yDcBoePfcJCYdpYZCC"
+    },
+    {
+      "album": {
+        "name": "Home Alone",
+        "url": "https://open.spotify.com/album/0Bfeaf1WqowUo8XndE8YC4"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146165,
+      "name": "Home Alone",
+      "url": "https://open.spotify.com/track/7ogQ0MiP4rmNLiGvJzFmuH"
     },
     {
       "album": {
@@ -2053,6 +2093,28 @@
     },
     {
       "album": {
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240964,
+      "name": "Orion",
+      "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
+    },
+    {
+      "album": {
         "name": "Pan Con Miel",
         "url": "https://open.spotify.com/album/3550c67ffZKqFF19wbtM15"
       },
@@ -2274,7 +2336,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 139591,
       "name": "Qu\u00edtate La Ropa",
       "url": "https://open.spotify.com/track/2uHSh5ZPsVGDTL7rfPRL1R"

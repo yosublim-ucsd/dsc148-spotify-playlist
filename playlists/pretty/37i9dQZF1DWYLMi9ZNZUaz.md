@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: Andree Right Hand
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,909 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,978 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 39 | [Yêu 5](https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS) | [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Yêu 5](https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr) | 4:00 |
 | 40 | [Bảo Tàng](https://open.spotify.com/track/2ctmaWoBxLBYiZB7AKmK1D) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Bảo Tàng](https://open.spotify.com/album/4ZaeSyWcJmXC2tJgU70q31) | 3:05 |
 | 41 | [tình yêu có nghĩa là gì?](https://open.spotify.com/track/1Vla7vXcM0zimotYpresDT) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 2:13 |
-| 42 | [Đánh Đổi \(ft\. RPT MCK\)](https://open.spotify.com/track/2doGmsaPLdot51o80juiYU) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 3:46 |
-| 43 | [Xin Đừng Nhấc Máy](https://open.spotify.com/track/4Rbnxa7kFSpCHNPJ3uZhtR) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [Han Sara](https://open.spotify.com/artist/7sI2avJ3MyFstC9oKNM7py), [Masew](https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq) | [Xin Đừng Nhấc Máy](https://open.spotify.com/album/7Jzha1P8JmEFO0oyr3SbB8) | 3:07 |
+| 42 | [Xin Đừng Nhấc Máy](https://open.spotify.com/track/4Rbnxa7kFSpCHNPJ3uZhtR) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [Han Sara](https://open.spotify.com/artist/7sI2avJ3MyFstC9oKNM7py), [Masew](https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq) | [Xin Đừng Nhấc Máy](https://open.spotify.com/album/7Jzha1P8JmEFO0oyr3SbB8) | 3:07 |
+| 43 | [Đánh Đổi \(ft\. RPT MCK\)](https://open.spotify.com/track/2doGmsaPLdot51o80juiYU) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 3:46 |
 | 44 | [Nhạc Trap Căng Nhất 2023](https://open.spotify.com/track/2aRg0cOGQ5k0rs3AK5nJPD) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [RPT JasonDilla](https://open.spotify.com/artist/2UHHfc0InrWSmUkiuss6f4), [24k.Right](https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0) | [420ent.](https://open.spotify.com/album/7IP9ElXmlMp3U8fbFUpkKV) | 3:33 |
 | 45 | [Hẹn Gặp Em Dưới Ánh Trăng](https://open.spotify.com/track/0s7RyyUlQfd8mnnboHe18n) | [MANBO](https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV) | [Hẹn Gặp Em Dưới Ánh Trăng](https://open.spotify.com/album/19nGMLMd8gjMQwgh2aYmsx) | 3:42 |
 | 46 | [Cho Mình Em](https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi) | [Cho Mình Em](https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr) | 3:26 |
 | 47 | [TOKYO Cypher](https://open.spotify.com/track/0eKIEiMHZv0pOxz4iGOXda) | [Lil Wuyn](https://open.spotify.com/artist/3Wj34lTDJnPp70u4YCl4jz), [16 BrT](https://open.spotify.com/artist/4jIoCS5bJr2TQ2SIbSPnwR), [16 Typh](https://open.spotify.com/artist/5U1dINFKjJlYNOSdMrHlRh) | [TOKYO Cypher](https://open.spotify.com/album/2lwCWQ7DzQNv8fqJKQ9AbL) | 2:58 |
 | 48 | [Càng Cua](https://open.spotify.com/track/6zrQLaZG0OlT63oUDwFKri) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Càng Cua](https://open.spotify.com/album/6MuNwqjIXFTqiAp7gDMG6F) | 2:19 |
-| 49 | [Thiêu Thân](https://open.spotify.com/track/2QyOYFAxW2khNYee4yeT6r) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [Sofia](https://open.spotify.com/artist/0obXkAXG0Ivhjj6TK6QZfd), [Châu Đăng Khoa](https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk), [Masew](https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq) | [Thiêu Thân](https://open.spotify.com/album/5IRZs8eeDLf4flNXbWJ4K9) | 3:18 |
+| 49 | [người điên](https://open.spotify.com/track/2QUU1AtY5fndKDNbr17EFk) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 2:27 |
 | 50 | [Việc Nên Làm](https://open.spotify.com/track/3TBZ2VchMRulZU8SbJx0Sc) | [Rocky CDE](https://open.spotify.com/artist/2lnesmkx2eGDj0wTUv61Ch), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [VCC Left Hand](https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI) | [GOLDEN BOY](https://open.spotify.com/album/0Vroo2lvsi4jASGrBTyoxH) | 4:34 |
 
 Snapshot ID: `ZqmTDgAAAADBS4oE1mm+1QbF5BQOGCHW`

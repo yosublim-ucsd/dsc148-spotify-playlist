@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 
 > Samara en tête de la playlist numéro un en Tunisie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,273 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,337 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,17 +17,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 7 | [Souk](https://open.spotify.com/track/0xbh3QhQx7S3GLEOWXWzGr) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Souk](https://open.spotify.com/album/60yaMTkfX5OtAOnnrD8ya2) | 3:40 |
 | 8 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 |
 | 9 | [Manetfergou](https://open.spotify.com/track/3cPaU2mPl07jFske7Oa6BM) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Mdayda](https://open.spotify.com/album/3FSUMn0xQilIzfsPjyQptP) | 3:17 |
-| 10 | [Snini](https://open.spotify.com/track/0HfJiW1HlCPHwYhhHBstki) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Snini](https://open.spotify.com/album/3aL9zVG5FgHl8hAj5njI78) | 4:07 |
-| 11 | [Streams](https://open.spotify.com/track/6Vtl6NEo5P7SIz1FI4jfv3) | [Noor Arjoun](https://open.spotify.com/artist/6XNtfxejdOwe52THEb2FBA), [Selim Arjoun](https://open.spotify.com/artist/1x5vwzJm10nLzIyspRRPu1), [Dhalma](https://open.spotify.com/artist/5nBnuz27wNFubJjmRTRNPC) | [Streams](https://open.spotify.com/album/5S6j2JUXKM6XD3bltc5Mqu) | 5:03 |
-| 12 | [Youm Wara Youm](https://open.spotify.com/track/6m0J0ilqGXXymj3rhpXZQ8) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Youm Wara Youm](https://open.spotify.com/album/6cVs1Uwsa3c0zrqXHtpUz6) | 3:44 |
-| 13 | [SPIDER](https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [SPIDER](https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf) | 3:08 |
-| 14 | [Layam](https://open.spotify.com/track/6qM1V0fvAHohEXuCKvaYfz) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Layam](https://open.spotify.com/album/3dAcWL49dX4oxXcxkKUBW6) | 4:52 |
+| 10 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 |
+| 11 | [Snini](https://open.spotify.com/track/0HfJiW1HlCPHwYhhHBstki) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Snini](https://open.spotify.com/album/3aL9zVG5FgHl8hAj5njI78) | 4:07 |
+| 12 | [Streams](https://open.spotify.com/track/6Vtl6NEo5P7SIz1FI4jfv3) | [Noor Arjoun](https://open.spotify.com/artist/6XNtfxejdOwe52THEb2FBA), [Selim Arjoun](https://open.spotify.com/artist/1x5vwzJm10nLzIyspRRPu1), [Dhalma](https://open.spotify.com/artist/5nBnuz27wNFubJjmRTRNPC) | [Streams](https://open.spotify.com/album/5S6j2JUXKM6XD3bltc5Mqu) | 5:03 |
+| 13 | [Youm Wara Youm](https://open.spotify.com/track/6m0J0ilqGXXymj3rhpXZQ8) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Youm Wara Youm](https://open.spotify.com/album/6cVs1Uwsa3c0zrqXHtpUz6) | 3:44 |
+| 14 | [SPIDER](https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [SPIDER](https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf) | 3:08 |
 | 15 | [AIINA](https://open.spotify.com/track/4X168iMrm9b87RamMluLB9) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [AIINA](https://open.spotify.com/album/0QyCU2T4aN86JIywRt25mp) | 3:11 |
 | 16 | [Ya Aazem Douar](https://open.spotify.com/track/0X1QSVSsI8QPZyODS8271v) | [Cheb Bachir](https://open.spotify.com/artist/52tue7QYDGQeyJM4e5U6KZ), [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Ya Aazem Douar](https://open.spotify.com/album/2YiBjxEbczGqHWmwlm2oV6) | 3:21 |
-| 17 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 |
-| 18 | [9RIBA](https://open.spotify.com/track/0yVjaVZFhhE6tiL0BOCEpO) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [9RIBA](https://open.spotify.com/album/5uO6Nxnr8TruPSyhDpqFKD) | 4:00 |
-| 19 | [Zin Ezzin](https://open.spotify.com/track/0d1dGOyQ6IRdMB27pNFSFl) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Zin Ezzin](https://open.spotify.com/album/4qphrOAqIotjpK2oghKmxt) | 3:08 |
-| 20 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
+| 17 | [9RIBA](https://open.spotify.com/track/0yVjaVZFhhE6tiL0BOCEpO) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [9RIBA](https://open.spotify.com/album/5uO6Nxnr8TruPSyhDpqFKD) | 4:00 |
+| 18 | [Zin Ezzin](https://open.spotify.com/track/0d1dGOyQ6IRdMB27pNFSFl) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Zin Ezzin](https://open.spotify.com/album/4qphrOAqIotjpK2oghKmxt) | 3:08 |
+| 19 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
+| 20 | [Ya Hbiba](https://open.spotify.com/track/4ZXgd5kB5RlIaWYTFRK21s) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB), [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Ya Hbiba](https://open.spotify.com/album/6ihZzPCW3FjyeZ2FJ7vxqJ) | 3:06 |
 | 21 | [Ganeni](https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 2:57 |
 | 22 | [Raby Yostor](https://open.spotify.com/track/7vXf6XzqsUYqQ9Ky3Z0adb) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Raby Yostor](https://open.spotify.com/album/6MWT9JJ0rjhtLdSLNaPhcs) | 3:04 |
 | 23 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 49 | [Netmanelk Kol El Khiir](https://open.spotify.com/track/1gDdQjwwE1oN5MdjQ40lRw) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Netmanelk Kol El Khiir](https://open.spotify.com/album/0GqpIWbuB1eiOL068TgMxc) | 2:25 |
 | 50 | [Binetna Layem](https://open.spotify.com/track/1jAQdXTEXfuVHALTavUjM4) | [D\-Boy](https://open.spotify.com/artist/5lzHwZFme9EybZygeGKMA0) | [Binetna Layem](https://open.spotify.com/album/6Ut6jmti17RQK7YJLyzdGs) | 3:22 |
 
-Snapshot ID: `ZqDZpAAAAADnABXoTwl2hsIRphOx9qCa`
+Snapshot ID: `ZqnWwAAAAACUFYyLmvPqxnvV+gmrmOVz`

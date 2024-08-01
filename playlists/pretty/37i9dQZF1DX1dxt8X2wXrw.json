@@ -1,6 +1,6 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 66634,
+  "num_followers": 66635,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-07-12 04:08:58",
       "album": {
-        "name": "Spite",
-        "url": "https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 159213,
-      "name": "Spite",
-      "url": "https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw"
-    },
-    {
-      "added_at": "2024-07-12 04:08:58",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/5yir0QnXLpVD6RAgNYXTQ5"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 154285,
       "name": "For You",
       "url": "https://open.spotify.com/track/7tbNKCzFhCZANduSwaRYwf"
+    },
+    {
+      "added_at": "2024-07-12 04:08:58",
+      "album": {
+        "name": "Spite",
+        "url": "https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 159213,
+      "name": "Spite",
+      "url": "https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw"
     },
     {
       "added_at": "2024-07-23 04:00:00",
@@ -377,6 +377,22 @@
       "url": "https://open.spotify.com/track/5C9anXz5T3PY3A5YkH66cn"
     },
     {
+      "added_at": "2024-07-23 04:00:00",
+      "album": {
+        "name": "Not Today",
+        "url": "https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 186300,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR"
+    },
+    {
       "added_at": "2024-07-12 04:08:58",
       "album": {
         "name": "NO SZNS",
@@ -415,18 +431,26 @@
     {
       "added_at": "2024-07-23 04:00:00",
       "album": {
-        "name": "Not Today",
-        "url": "https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN"
+        "name": "Bando Stone and The New World",
+        "url": "https://open.spotify.com/album/1jzqiffupvhniPZB4aBNEv"
       },
       "artists": [
         {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         }
       ],
-      "duration_ms": 186300,
-      "name": "Not Today",
-      "url": "https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR"
+      "duration_ms": 229999,
+      "name": "In The Night",
+      "url": "https://open.spotify.com/track/2EUHzaq7xrJNMayRzaoH9Z"
     },
     {
       "added_at": "2024-07-23 04:00:00",
@@ -469,30 +493,6 @@
       "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
     },
     {
-      "added_at": "2024-07-23 04:00:00",
-      "album": {
-        "name": "Bando Stone and The New World",
-        "url": "https://open.spotify.com/album/1jzqiffupvhniPZB4aBNEv"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 229999,
-      "name": "In The Night",
-      "url": "https://open.spotify.com/track/2EUHzaq7xrJNMayRzaoH9Z"
-    },
-    {
       "added_at": "2024-07-12 04:08:58",
       "album": {
         "name": "Lahai",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-07-12 04:08:58",
       "album": {
-        "name": "just want u to feel something",
-        "url": "https://open.spotify.com/album/2r5DAHu0DCVj3mrlKvLuP8"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 170151,
-      "name": "just want u to feel something",
-      "url": "https://open.spotify.com/track/0vv46oAg2S7DFKNvQ4kkst"
-    },
-    {
-      "added_at": "2024-07-12 04:08:58",
-      "album": {
         "name": "Capable of love",
         "url": "https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 223680,
       "name": "Capable of love",
       "url": "https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN"
+    },
+    {
+      "added_at": "2024-07-12 04:08:58",
+      "album": {
+        "name": "just want u to feel something",
+        "url": "https://open.spotify.com/album/2r5DAHu0DCVj3mrlKvLuP8"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 170151,
+      "name": "just want u to feel something",
+      "url": "https://open.spotify.com/track/0vv46oAg2S7DFKNvQ4kkst"
     },
     {
       "added_at": "2024-07-12 04:08:58",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-07-12 04:08:58",
       "album": {
-        "name": "Watch Me",
-        "url": "https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 220311,
-      "name": "Watch Me",
-      "url": "https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr"
-    },
-    {
-      "added_at": "2024-07-12 04:08:58",
-      "album": {
         "name": "Lucid Dreams",
         "url": "https://open.spotify.com/album/7G7v6Di7EhJ1fuldgIoUkN"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 182453,
       "name": "Lucid Dreams",
       "url": "https://open.spotify.com/track/4BGcVxS20x7sLA2uKp5wJU"
+    },
+    {
+      "added_at": "2024-07-12 04:08:58",
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 220311,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr"
     },
     {
       "added_at": "2024-07-12 04:08:58",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-07-12 04:08:58",
       "album": {
+        "name": "VOYCONTODO",
+        "url": "https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "duration_ms": 137114,
+      "name": "VOYCONTODO",
+      "url": "https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf"
+    },
+    {
+      "added_at": "2024-07-12 04:08:58",
+      "album": {
         "name": "thicc",
         "url": "https://open.spotify.com/album/7CGatMISsY9SZCJhVsYiT5"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 222682,
       "name": "thicc",
       "url": "https://open.spotify.com/track/3tda2VED1rPj3MmVf3mXTo"
-    },
-    {
-      "added_at": "2024-07-12 04:08:58",
-      "album": {
-        "name": "VOYCONTODO",
-        "url": "https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy"
-      },
-      "artists": [
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 137114,
-      "name": "VOYCONTODO",
-      "url": "https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf"
     },
     {
       "added_at": "2024-07-12 04:08:58",

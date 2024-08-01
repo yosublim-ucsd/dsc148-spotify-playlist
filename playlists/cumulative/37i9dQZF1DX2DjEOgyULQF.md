@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-189 songs - 9 hr 16 min
+190 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Imitating Reflections](https://open.spotify.com/track/0SETmmxlQchBbRxvJpZTp3) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Imitating Reflections](https://open.spotify.com/album/7LmA2P6Of7fTlkqHdv9ex1) | 2:23 | 2023-04-28 |  |
 | [Infinite Potential](https://open.spotify.com/track/66w2QkVBFwKcZm4DvN3FLv) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Infinite Potential](https://open.spotify.com/album/5GL2UD3ZEqT1AaTx5Bbsl9) | 2:17 | 2024-06-03 |  |
 | [Inside the Heart](https://open.spotify.com/track/57zWmPhfZleSqpv59pzraX) | [Büdi Siebert](https://open.spotify.com/artist/6Wiy9Dr9ZTdgfoVoXwZ0da) | [Wave Hands Like Clouds](https://open.spotify.com/album/4nf94iBRiWVGlOqMZgip9S) | 4:47 | 2024-02-15 | 2024-04-02 |
+| [Introspective Thoughts Gamma \(88\-176hz\)](https://open.spotify.com/track/4Kd0E840XEJnAPxl1tktZY) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Introspective Thoughts Gamma](https://open.spotify.com/album/6cEWrmi0Zw37PcVVRaOtS3) | 2:48 | 2024-07-19 |  |
 | [Invitado De La Naturaleza](https://open.spotify.com/track/4BsGi3xKuLzJ5rIOnOPwYN) | [Elysio Stone](https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp) | [Invitado De La Naturaleza](https://open.spotify.com/album/5p2lBL3zw0Ga9L9WskiXJk) | 3:33 | 2023-04-28 | 2024-04-02 |
 | [Janai](https://open.spotify.com/track/0FE4eD4T4bDvdrItF6xnZ1) | [Arch](https://open.spotify.com/artist/3DeXMhW341Jkl4APFrFCmL) | [Janai](https://open.spotify.com/album/24itL7dI8Nnws6rpTFrLv1) | 2:51 | 2024-02-15 | 2024-04-02 |
 | [Jangal](https://open.spotify.com/track/2WpxMJwXbM0iQnSozptqy4) | [Ka Wadhwa](https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv) | [Jangal](https://open.spotify.com/album/6DbllMEJuZiMW3IyflkbFx) | 3:22 | 2023-08-11 |  |
@@ -180,7 +181,7 @@
 | [Tributary Balance](https://open.spotify.com/track/6iCoaYHHA82MZZnxi6nt9h) | [Ezmae Forrest](https://open.spotify.com/artist/6ruCfksOefHsnWf3TjGJYn) | [Tributary Balance](https://open.spotify.com/album/0jeMzKkXb7a3vVLn2EbBkX) | 3:07 | 2023-04-28 |  |
 | [Under the Maple Tree](https://open.spotify.com/track/5nlU4XAwnmZzqDuq3TucEY) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Under the Maple Tree](https://open.spotify.com/album/3ew2zUnWSZDZH0DEYo5sRO) | 3:40 | 2023-12-01 |  |
 | [Universal Flow](https://open.spotify.com/track/2EnUrCq7Dqvxvx1k3TxVaT) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Universal Flow](https://open.spotify.com/album/5Gk6erdt0eQwJv4Mt6OFLZ) | 2:48 | 2024-06-03 |  |
-| [Up Above](https://open.spotify.com/track/3OIg6QE59Pye3cK1oRCp54) | [Amosento](https://open.spotify.com/artist/1TA2SmsBfupnHplKJkEajW) | [You are a miracle](https://open.spotify.com/album/0eZSO9dRfHPub2fkBev7nE) | 3:43 | 2023-04-28 |  |
+| [Up Above](https://open.spotify.com/track/3OIg6QE59Pye3cK1oRCp54) | [Amosento](https://open.spotify.com/artist/1TA2SmsBfupnHplKJkEajW) | [You are a miracle](https://open.spotify.com/album/0eZSO9dRfHPub2fkBev7nE) | 3:43 | 2023-04-28 | 2024-08-01 |
 | [Vedana](https://open.spotify.com/track/4Bz2Y5mv3GEtxrlHQzheMB) | [Kamamatsu](https://open.spotify.com/artist/2MXArrDWK0b0kaxFz4OtCQ) | [Vedana](https://open.spotify.com/album/35JiT2cKAXYsielBXaC5Cz) | 2:23 | 2023-04-28 | 2023-07-29 |
 | [Verdancy](https://open.spotify.com/track/3mBcz9IUFbbZOWPBRcqSVQ) | [Harmonic Pathways](https://open.spotify.com/artist/50w3lD1tVFon2IBD8jRBOO), [Nature on Record](https://open.spotify.com/artist/4XC4r2EEPyi9Ox0ZinPaIV) | [Emergence](https://open.spotify.com/album/5npmxbN4pCm1CHhjxHmFuf) | 2:37 | 2023-04-28 |  |
 | [Verdure](https://open.spotify.com/track/7iEfhRXZpaI1w7zkj9Np5U) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Verdure](https://open.spotify.com/album/4BNcZNVXeCRvxdIEdykxOi) | 2:45 | 2023-04-28 |  |

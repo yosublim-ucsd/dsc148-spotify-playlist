@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/4NHX5R0Td6ooWh1a34AhtB?si=qPn48dWDT6CKMBc8gJwZTw">STATE OFFF</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,071 likes - 55 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,069 likes - 55 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Places](https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Places](https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM) | 3:31 |
 | 2 | [Sauti](https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [African Children's Choir](https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud) | [Sauti](https://open.spotify.com/album/3tIC65kvqHU5C2npreZSSH) | 3:28 |
 | 3 | [Durban Funk](https://open.spotify.com/track/7tjHviioNrTpheUJplhceZ) | [STATE OFFF](https://open.spotify.com/artist/4NHX5R0Td6ooWh1a34AhtB) | [Simulacra](https://open.spotify.com/album/6DW42TxsvHrlt5UTc7gXg5) | 5:23 |
-| 4 | [Things you Love](https://open.spotify.com/track/1HDJlzNrCXrspyHmynZNMN) | [Aero Manyelo](https://open.spotify.com/artist/637OrGlmcAsqUNdFQPj79Z), [Dr Catcher](https://open.spotify.com/artist/0DrGBHDo0wfReHFhaHtEo4) | [Things you Love](https://open.spotify.com/album/5EugR2Veit91H04zSLf6lN) | 6:41 |
+| 4 | [Things you Love](https://open.spotify.com/track/1HDJlzNrCXrspyHmynZNMN) | [Aero Manyelo](https://open.spotify.com/artist/637OrGlmcAsqUNdFQPj79Z), [DR CATCHER](https://open.spotify.com/artist/3qCdsKtQZvP21TYHeynyYX) | [Things you Love](https://open.spotify.com/album/5EugR2Veit91H04zSLf6lN) | 6:41 |
 | 5 | [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 |
 | 6 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
 | 7 | [Digane](https://open.spotify.com/track/2jRH7jNpx7kqTHLyay4Fhe) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Digane](https://open.spotify.com/album/01w2MOtpTJWuQafvkTqR6v) | 2:42 |

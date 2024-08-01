@@ -1,6 +1,6 @@
 {
   "description": "Towa Bird takes over, highlighting some of her favorite LGBTQIA+ indie/alternative/rock artists.",
-  "num_followers": 167496,
+  "num_followers": 167616,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Less of You",
-        "url": "https://open.spotify.com/album/5ToS3Ko163aEjhvmKr5qht"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "Less of You",
-      "url": "https://open.spotify.com/track/3IqGOQkS07q8HhGpGc4bjV"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Always Forever",
         "url": "https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 185160,
       "name": "Always Forever",
       "url": "https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Less of You",
+        "url": "https://open.spotify.com/album/5ToS3Ko163aEjhvmKr5qht"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 193493,
+      "name": "Less of You",
+      "url": "https://open.spotify.com/track/3IqGOQkS07q8HhGpGc4bjV"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -485,22 +485,6 @@
       "url": "https://open.spotify.com/track/7F1xUyDoz9vSbwSaCryT5x"
     },
     {
-      "added_at": "2024-06-21 15:51:27",
-      "album": {
-        "name": "Perfume",
-        "url": "https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH"
-      },
-      "artists": [
-        {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
-        }
-      ],
-      "duration_ms": 219964,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq"
-    },
-    {
       "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "To Learn",
@@ -515,6 +499,22 @@
       "duration_ms": 244800,
       "name": "(You) On My Arm",
       "url": "https://open.spotify.com/track/29nzgSkf11owK8vO9iBgCq"
+    },
+    {
+      "added_at": "2024-06-21 15:51:27",
+      "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "duration_ms": 219964,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu"
     },
     {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Your Mother's Name",
-        "url": "https://open.spotify.com/album/71Ylf2ND4lfFUJmJ4gTk3U"
-      },
-      "artists": [
-        {
-          "name": "Susannah Joffe",
-          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
-        }
-      ],
-      "duration_ms": 231659,
-      "name": "Your Mother's Name",
-      "url": "https://open.spotify.com/track/6andWFPbmPzbgdKcEamIq9"
-    },
-    {
       "added_at": "2024-06-21 15:51:27",
       "album": {
         "name": "Stay Proud of Me",
@@ -819,6 +803,22 @@
       "duration_ms": 215773,
       "name": "I Feel You",
       "url": "https://open.spotify.com/track/0Csdi7iivwev8WSaBsum0r"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Your Mother's Name",
+        "url": "https://open.spotify.com/album/71Ylf2ND4lfFUJmJ4gTk3U"
+      },
+      "artists": [
+        {
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+        }
+      ],
+      "duration_ms": 231659,
+      "name": "Your Mother's Name",
+      "url": "https://open.spotify.com/track/6andWFPbmPzbgdKcEamIq9"
     },
     {
       "added_at": "2024-06-21 15:51:27",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Wild Heart",
-        "url": "https://open.spotify.com/album/0YHvPJPXebNHPw0vSRA0OI"
-      },
-      "artists": [
-        {
-          "name": "Towa Bird",
-          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Wild Heart",
-      "url": "https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Mad",
         "url": "https://open.spotify.com/album/268yQJnYEw2Zdu8ZPwyifa"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 228040,
       "name": "Mad",
       "url": "https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Wild Heart",
+        "url": "https://open.spotify.com/album/0YHvPJPXebNHPw0vSRA0OI"
+      },
+      "artists": [
+        {
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Wild Heart",
+      "url": "https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1169,22 +1169,6 @@
       "url": "https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5"
     },
     {
-      "added_at": "2024-06-21 15:51:27",
-      "album": {
-        "name": "Name Your Sorrow",
-        "url": "https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF"
-      },
-      "artists": [
-        {
-          "name": "Pillow Queens",
-          "url": "https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d"
-        }
-      ],
-      "duration_ms": 230984,
-      "name": "Heavy Pour",
-      "url": "https://open.spotify.com/track/6PRM5tpuPQbv7y7Jr4lU5m"
-    },
-    {
       "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "Freak Mode",
@@ -1199,6 +1183,22 @@
       "duration_ms": 157669,
       "name": "Freak Mode",
       "url": "https://open.spotify.com/track/0Itw1DHI4ZfgskoX22k9I7"
+    },
+    {
+      "added_at": "2024-06-21 15:51:27",
+      "album": {
+        "name": "Name Your Sorrow",
+        "url": "https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF"
+      },
+      "artists": [
+        {
+          "name": "Pillow Queens",
+          "url": "https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d"
+        }
+      ],
+      "duration_ms": 230984,
+      "name": "Heavy Pour",
+      "url": "https://open.spotify.com/track/6PRM5tpuPQbv7y7Jr4lU5m"
     },
     {
       "added_at": "2024-06-21 04:00:00",

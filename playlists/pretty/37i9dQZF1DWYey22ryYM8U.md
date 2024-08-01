@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 
 > Hits con sabor\. Cover: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,970 likes - 59 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,965 likes - 59 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

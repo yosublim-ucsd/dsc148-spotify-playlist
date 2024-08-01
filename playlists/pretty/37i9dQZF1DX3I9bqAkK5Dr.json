@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Jammers",
-  "num_followers": 33158,
+  "num_followers": 33160,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqiuDQAAAAC0rgm1pnvuQPV729LACVZ2",
+  "snapshot_id": "ZqnQbAAAAAAQPedEytfbEOFMu+BxYO8s",
   "tracks": [
     {
       "added_at": "2024-07-19 14:43:57",
@@ -63,6 +63,26 @@
       "duration_ms": 216428,
       "name": "Swapnam",
       "url": "https://open.spotify.com/track/473hTuGXsaU59XzBTJB1eA"
+    },
+    {
+      "added_at": "2024-07-31 05:49:32",
+      "album": {
+        "name": "SA NI SA GA MA",
+        "url": "https://open.spotify.com/album/4ciUgN97ydTzxfyWkYDEib"
+      },
+      "artists": [
+        {
+          "name": "MaaHaa",
+          "url": "https://open.spotify.com/artist/2nON7IMoqVBIWONZabqWBC"
+        },
+        {
+          "name": "Hemachandra Vedala",
+          "url": "https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "SA NI SA GA MA",
+      "url": "https://open.spotify.com/track/1s371qM1lEeyGneuZcD0EG"
     },
     {
       "added_at": "2024-07-16 09:28:33",

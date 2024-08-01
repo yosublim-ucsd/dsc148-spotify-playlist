@@ -1,6 +1,6 @@
 {
   "description": "Timeless Salsa from your favorite legends. Cover: Willie Col\u00f3n",
-  "num_followers": 1322646,
+  "num_followers": 1322920,
   "original_name": "Salsa Classics",
   "owner": {
     "name": "Spotify",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2024-04-18 21:57:35",
       "album": {
+        "name": "Sabor a Salsa",
+        "url": "https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z"
+      },
+      "artists": [
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        }
+      ],
+      "duration_ms": 376013,
+      "name": "La rebelion",
+      "url": "https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43"
+    },
+    {
+      "added_at": "2024-04-18 21:57:35",
+      "album": {
         "name": "La Salsa Met\u00e1lica Volvi\u00f3 Con Todos los Hierros",
         "url": "https://open.spotify.com/album/0axC56ZBZxOVR8hSCx22ZR"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 284706,
       "name": "Micaela",
       "url": "https://open.spotify.com/track/1NQpbF1vSX5pxCbUDk6ww5"
-    },
-    {
-      "added_at": "2024-04-18 21:57:35",
-      "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 351813,
-      "name": "Esa Mujer",
-      "url": "https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI"
     },
     {
       "added_at": "2024-04-18 21:57:35",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2024-04-18 21:57:35",
       "album": {
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 351813,
+      "name": "Esa Mujer",
+      "url": "https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI"
+    },
+    {
+      "added_at": "2024-04-18 21:57:35",
+      "album": {
         "name": "Sentimental de Punta a Punta",
         "url": "https://open.spotify.com/album/0tUMgQJLd38NQD7OSFPQgK"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 323683,
       "name": "Oiga, Mire, Vea - Salsa",
       "url": "https://open.spotify.com/track/4YGSpi9g7ohPFO8TXpvSUZ"
-    },
-    {
-      "added_at": "2024-04-18 21:57:35",
-      "album": {
-        "name": "Sabor a Salsa",
-        "url": "https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z"
-      },
-      "artists": [
-        {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        }
-      ],
-      "duration_ms": 376013,
-      "name": "La rebelion",
-      "url": "https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43"
     },
     {
       "added_at": "2024-04-18 21:57:35",

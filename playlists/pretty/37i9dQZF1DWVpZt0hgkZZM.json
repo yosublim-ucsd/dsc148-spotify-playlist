@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 32908,
+  "num_followers": 32922,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Historia Musical de An\u00edbal Vel\u00e1squez",
+        "url": "https://open.spotify.com/album/5EsZaXFKjzsUMgFYmaaAkk"
+      },
+      "artists": [
+        {
+          "name": "Anibal Velasquez",
+          "url": "https://open.spotify.com/artist/0wTrWHg7n7oL5UGT0I3VqE"
+        },
+        {
+          "name": "Jos\u00e9 Vel\u00e1squez",
+          "url": "https://open.spotify.com/artist/6tgbHKkvt86JIm5cc3EHJg"
+        }
+      ],
+      "duration_ms": 170027,
+      "name": "Luz de Cumbia",
+      "url": "https://open.spotify.com/track/0HItkk1upCaJ3CIkug0cF3"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Historia Musical de la Sonora Dinamita: 40 \u00c9xitos",
         "url": "https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD"
       },
@@ -1223,22 +1243,6 @@
       "duration_ms": 155946,
       "name": "Se Me Perdi\u00f3 la Cadenita",
       "url": "https://open.spotify.com/track/3GHagaqsSRMhMG8XjUXnKR"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Homenaje a los Alegres Vallenatos",
-        "url": "https://open.spotify.com/album/5QgtF4pnp5Z67fPrFXgJCE"
-      },
-      "artists": [
-        {
-          "name": "Los 50 De Joselito",
-          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
-        }
-      ],
-      "duration_ms": 139813,
-      "name": "Los Camarones",
-      "url": "https://open.spotify.com/track/5LBuNwKEvl3v49kUfDLikn"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1259,22 +1263,18 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de An\u00edbal Vel\u00e1squez",
-        "url": "https://open.spotify.com/album/5EsZaXFKjzsUMgFYmaaAkk"
+        "name": "Homenaje a los Alegres Vallenatos",
+        "url": "https://open.spotify.com/album/5QgtF4pnp5Z67fPrFXgJCE"
       },
       "artists": [
         {
-          "name": "Anibal Velasquez",
-          "url": "https://open.spotify.com/artist/0wTrWHg7n7oL5UGT0I3VqE"
-        },
-        {
-          "name": "Jos\u00e9 Vel\u00e1squez",
-          "url": "https://open.spotify.com/artist/6tgbHKkvt86JIm5cc3EHJg"
+          "name": "Los 50 De Joselito",
+          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
         }
       ],
-      "duration_ms": 170027,
-      "name": "Luz de Cumbia",
-      "url": "https://open.spotify.com/track/0HItkk1upCaJ3CIkug0cF3"
+      "duration_ms": 139813,
+      "name": "Los Camarones",
+      "url": "https://open.spotify.com/track/5LBuNwKEvl3v49kUfDLikn"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1703,18 +1703,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Legado de la M\u00fasica Tropical",
-        "url": "https://open.spotify.com/album/5sGKNe6TAW206I3Fg5Tcwy"
+        "name": "Historia Musical 14 Ca\u00f1onazos (1971 - 1980)",
+        "url": "https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx"
       },
       "artists": [
         {
-          "name": "Los 50 De Joselito",
-          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
+          "name": "Lucho Cuadros",
+          "url": "https://open.spotify.com/artist/4mJGHbUaO9nCMEU1uSascK"
+        },
+        {
+          "name": "Eliecer Ochoa",
+          "url": "https://open.spotify.com/artist/1Wp7AgwEYs4sKtPCjvChwP"
         }
       ],
-      "duration_ms": 214464,
-      "name": "Amaneciendo",
-      "url": "https://open.spotify.com/track/2Q8w3QB6xBd46JAaXiVVbf"
+      "duration_ms": 214226,
+      "name": "Te Est\u00e1n Matando los A\u00f1os",
+      "url": "https://open.spotify.com/track/6ofpm7g9hRfIDuP2VDY4u5"
     },
     {
       "added_at": "2024-07-12 23:11:55",

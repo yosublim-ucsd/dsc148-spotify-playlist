@@ -519,6 +519,28 @@
     },
     {
       "album": {
+        "name": "Balas y Chocolate",
+        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "La Farsante (with Juan Gabriel)",
+      "url": "https://open.spotify.com/track/6PtwPotNH129EOf0tEl26f"
+    },
+    {
+      "album": {
         "name": "Tree Of Life",
         "url": "https://open.spotify.com/album/6dTFO9uEZRMA8vVPRCAfKU"
       },
@@ -928,7 +950,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 156149,
       "name": "Pon Que Dale",
       "url": "https://open.spotify.com/track/3ErQOQJdOZkHyFQgDaOric"

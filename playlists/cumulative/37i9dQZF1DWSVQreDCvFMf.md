@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Over October
 
-114 songs - 7 hr 17 min
+115 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Nilalang](https://open.spotify.com/track/7eMn5OCApyTgqrPPoLJWBq) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Nilalang](https://open.spotify.com/album/7vTwHNQJy2vVhbhDfmF6NY) | 3:29 | 2024-07-19 |  |
 | [Oh Giliw Ko](https://open.spotify.com/track/1WhbuhFMIV9DzgbNX6JV09) | [The Knobs](https://open.spotify.com/artist/5SChS914naD0ev5pHTFMdt) | [Oh Giliw Ko](https://open.spotify.com/album/0Oexw3mJOsG9gHFkgzmu5I) | 5:16 | 2024-07-08 |  |
 | [Oh, Giliw](https://open.spotify.com/track/5oV4B6QECdCASfEfElcIQA) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Oh, Giliw](https://open.spotify.com/album/7naEAFv60JMoihI6OABet9) | 4:01 | 2024-07-02 |  |
+| [Oksihina](https://open.spotify.com/track/06VwVWrnYSTIikz801hGwD) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Oksihina](https://open.spotify.com/album/0YEPa646R98Iqp2GDqsl29) | 3:24 | 2024-07-31 |  |
 | [OTW](https://open.spotify.com/track/0mGAvPp4Vlmvl0nyLTxa5B) | [Kylu](https://open.spotify.com/artist/2zx8nVKyacp2vJXUX5S5t5), [Yamada](https://open.spotify.com/artist/6TvBl6ilNrLLzaF6t60pOI) | [OTW](https://open.spotify.com/album/1v3iD7TUq8F7PFCbIKunhw) | 3:12 | 2024-07-02 |  |
 | [Pagbigyan](https://open.spotify.com/track/6hHyv6Lw3z6wlQO8f8unOC) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Pagbigyan](https://open.spotify.com/album/35FpOjf15ugBMGuf3Bem3w) | 4:44 | 2024-07-26 |  |
 | [pagod na \(sayo\)](https://open.spotify.com/track/64AtBQlNawUk2nVIsLxwVF) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [pagod na \(sayo\)](https://open.spotify.com/album/1EB8V0k7Dy67Ind6gCvIiF) | 4:56 | 2024-07-02 | 2024-07-27 |

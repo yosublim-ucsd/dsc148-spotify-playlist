@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 356906,
       "name": "Come over (Live)",
       "url": "https://open.spotify.com/track/0KeV45Mymsh8RcyX1yvXuR"
@@ -1085,6 +1085,24 @@
     },
     {
       "album": {
+        "name": "Shoulders",
+        "url": "https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226185,
+      "name": "Walk on Water",
+      "url": "https://open.spotify.com/track/4s23CQT2CMFhIxYn9MyNLw"
+    },
+    {
+      "album": {
         "name": "Live at the Belly Up",
         "url": "https://open.spotify.com/album/6UVg3eBRR5lOpg2t6Cx4pk"
       },
@@ -1096,7 +1114,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 241862,
       "name": "Walk on Water (Live)",
       "url": "https://open.spotify.com/track/20Om9CwtsWPkWBghIxRU1k"

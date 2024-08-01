@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 
 ### [Los Gallos](https://open.spotify.com/playlist/37i9dQZF1DX5moeZr1JWKb)
 
-> Estas son las grandes voces del Hip Hop\. Foto: Kei Linch & Nanpa Básico
+> Estas son las grandes voces del Hip Hop\. Foto: Akapellah
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,840 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,846 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Un Pelito y Un Tamal](https://open.spotify.com/track/3EPHagMulVWYwuefchltK6) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [dj spizike](https://open.spotify.com/artist/24k3vSCXZUr1KNu8DbvQGm) | [Un Pelito y Un Tamal](https://open.spotify.com/album/69d8lxsfANufzR41UZThPM) | 2:06 |
-| 2 | [Más que reales](https://open.spotify.com/track/39Pw6j6Sd5J9qZv6aPO3WQ) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Más que reales](https://open.spotify.com/album/0KzQpzNACgLCK99YTBHqvQ) | 3:24 |
-| 3 | [La Sabia Escuela](https://open.spotify.com/track/22JYKMt5XrcRQO0dzY5fwE) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Pedro Elías](https://open.spotify.com/album/0K2ccPqz7qApwmiZF1f3BM) | 4:35 |
+| 1 | [La Sabia Escuela](https://open.spotify.com/track/22JYKMt5XrcRQO0dzY5fwE) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Pedro Elías](https://open.spotify.com/album/0K2ccPqz7qApwmiZF1f3BM) | 4:35 |
+| 2 | [Un Pelito y Un Tamal](https://open.spotify.com/track/3EPHagMulVWYwuefchltK6) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [dj spizike](https://open.spotify.com/artist/24k3vSCXZUr1KNu8DbvQGm) | [Un Pelito y Un Tamal](https://open.spotify.com/album/69d8lxsfANufzR41UZThPM) | 2:06 |
+| 3 | [Más que reales](https://open.spotify.com/track/39Pw6j6Sd5J9qZv6aPO3WQ) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Más que reales](https://open.spotify.com/album/0KzQpzNACgLCK99YTBHqvQ) | 3:24 |
 | 4 | [TILIN CHILIN](https://open.spotify.com/track/2k7aMVmc4NDfW464qeDGJi) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre), [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL), [DEUXER](https://open.spotify.com/artist/2mv4oA2PU10YE6FiKlfk5j) | [TILIN CHILIN \(feat\. DEUXER\)](https://open.spotify.com/album/4Flr5Wozv2ho5e1YGCCGhi) | 4:14 |
 | 5 | [Orgullo Rolo](https://open.spotify.com/track/43L9Q1jIDLzeaL1J8klKgI) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Realidad Mental](https://open.spotify.com/artist/6XsBz8I4WvzbqSHP5pVrtD), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Orgullo Rolo](https://open.spotify.com/album/14FDrpL3A4iOvG3o4W7p9G) | 3:44 |
 | 6 | [Querido Frank](https://open.spotify.com/track/6jPdkC03Y7tZpG5D9QEnTz) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Querido Frank](https://open.spotify.com/album/1wsbwoBGhOC9rvqiMumxLG) | 2:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 | 74 | [Tararea](https://open.spotify.com/track/0Go1Z1pGPbCGv1dADfSbLn) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/6PpSdpOYFAsR81W6X3SrbT) | 3:19 |
 | 75 | [Mal Ejemplo](https://open.spotify.com/track/1IwdJy0egbXlhmY6dmTU9j) | [Gordo Sarkasmus](https://open.spotify.com/artist/38N7geKwv6xd2fESw199BD), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [ZetaZeta](https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7) | [Mal Ejemplo](https://open.spotify.com/album/26dgbqThI76gzXN2lTAcfK) | 3:11 |
 
-Snapshot ID: `ZpCtUAAAAAA1OQGNnZLz4HF3Dj4Z5Wkx`
+Snapshot ID: `ZqpvtgAAAADBzyfKdOElQPGfz9LfHjP4`

@@ -1,12 +1,12 @@
 {
-  "description": "This is Djonga. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 198549,
+  "description": "This is Djonga. The essential tracks, all in one playlist.",
+  "num_followers": 198580,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqbbgAAAAAAM2dp8+3uF0MS7hCQXWMf4",
+  "snapshot_id": "ZqgtAAAAAADUg+4dUWcZ9ULj66cwBigM",
   "tracks": [
     {
       "added_at": null,
@@ -263,30 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Dono do Lugar",
-        "url": "https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
-        },
-        {
-          "name": "Sarah Guedes",
-          "url": "https://open.spotify.com/artist/3ybwxfy04ny7tphw3AXobG"
-        }
-      ],
-      "duration_ms": 184554,
-      "name": "penumbra",
-      "url": "https://open.spotify.com/track/3u5NstXNmXnze12HTZqURo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inocente \"Demotape\"",
         "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
       },
@@ -307,6 +283,30 @@
       "duration_ms": 209141,
       "name": "da lua",
       "url": "https://open.spotify.com/track/0F1FsfYvx7eyAC64EPzD7S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Dono do Lugar",
+        "url": "https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+        },
+        {
+          "name": "Sarah Guedes",
+          "url": "https://open.spotify.com/artist/3ybwxfy04ny7tphw3AXobG"
+        }
+      ],
+      "duration_ms": 184554,
+      "name": "penumbra",
+      "url": "https://open.spotify.com/track/3u5NstXNmXnze12HTZqURo"
     },
     {
       "added_at": null,
@@ -1143,6 +1143,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O MENINO QUE QUERIA SER DEUS",
+        "url": "https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 199951,
+      "name": "AT\u00cdPICO",
+      "url": "https://open.spotify.com/track/0PnZJZwuVFs6rPlYuFkTpi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NU",
         "url": "https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 228631,
       "name": "Xapral\u00e1",
       "url": "https://open.spotify.com/track/6l9UA6IlEGFl1RVAncqvwo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O MENINO QUE QUERIA SER DEUS",
-        "url": "https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 199951,
-      "name": "AT\u00cdPICO",
-      "url": "https://open.spotify.com/track/0PnZJZwuVFs6rPlYuFkTpi"
     },
     {
       "added_at": null,

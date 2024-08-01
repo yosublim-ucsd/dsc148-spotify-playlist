@@ -1,13 +1,45 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: HAPPY LANDING",
-  "num_followers": 74611,
+  "num_followers": 74757,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqKYaQAAAADK8NjZqBnRyyEuGp6lNQF+",
+  "snapshot_id": "ZqpfgAAAAAB/0nE7bSQ2DNKuhogDts0m",
   "tracks": [
+    {
+      "added_at": "2024-07-31 16:00:00",
+      "album": {
+        "name": "Taste The Dirt",
+        "url": "https://open.spotify.com/album/5SFkvjzqD5QmOARqp1MIDm"
+      },
+      "artists": [
+        {
+          "name": "Steinza",
+          "url": "https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD"
+        }
+      ],
+      "duration_ms": 176931,
+      "name": "Taste The Dirt",
+      "url": "https://open.spotify.com/track/4tZbVjtbfPj5KpRAEXQQgP"
+    },
+    {
+      "added_at": "2024-07-31 16:00:00",
+      "album": {
+        "name": "Windsor",
+        "url": "https://open.spotify.com/album/6UuovWQYJsC1XsE5YRV5KD"
+      },
+      "artists": [
+        {
+          "name": "yours, andrew",
+          "url": "https://open.spotify.com/artist/2Q9oxqDIcJefvaJrVy4jv9"
+        }
+      ],
+      "duration_ms": 182490,
+      "name": "Windsor",
+      "url": "https://open.spotify.com/track/7pvk9RiV4IsebYyefzMrUw"
+    },
     {
       "added_at": "2024-07-03 14:20:32",
       "album": {
@@ -39,6 +71,118 @@
       "duration_ms": 180169,
       "name": "My, My, My",
       "url": "https://open.spotify.com/track/6IuUIvYSLfpsc9YUNrzotf"
+    },
+    {
+      "added_at": "2024-07-31 16:00:00",
+      "album": {
+        "name": "Not What I Thought",
+        "url": "https://open.spotify.com/album/1rQgEO2Aq7ob4waylnTHLa"
+      },
+      "artists": [
+        {
+          "name": "Katy Pinke",
+          "url": "https://open.spotify.com/artist/4HjpmUM8nl5tPeY1xmN4fQ"
+        }
+      ],
+      "duration_ms": 201875,
+      "name": "Not What I Thought",
+      "url": "https://open.spotify.com/track/7aq8ecjw6QGRd6sMdDTSfN"
+    },
+    {
+      "added_at": "2024-07-31 16:00:00",
+      "album": {
+        "name": "Can I Freak Out in the Honda",
+        "url": "https://open.spotify.com/album/4oYcKoK2uEh4ezx3Ck1jW7"
+      },
+      "artists": [
+        {
+          "name": "Cayden Wemple",
+          "url": "https://open.spotify.com/artist/0hzr8TCwUaFkbq03iJ7W0q"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "Can I Freak Out in the Honda",
+      "url": "https://open.spotify.com/track/2Ppigkqf43t6RU3EpSSshb"
+    },
+    {
+      "added_at": "2024-07-31 16:00:00",
+      "album": {
+        "name": "Television",
+        "url": "https://open.spotify.com/album/2ZDYd4EXIdsFEy6gxR2ked"
+      },
+      "artists": [
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/0VeDmQvivAadp6TiI4vrda"
+        }
+      ],
+      "duration_ms": 197700,
+      "name": "Television",
+      "url": "https://open.spotify.com/track/4H2lnHcTRBLvBCrqJtrwq1"
+    },
+    {
+      "added_at": "2024-07-31 16:00:00",
+      "album": {
+        "name": "Blue Dreams",
+        "url": "https://open.spotify.com/album/5lljRxy7hHRhUzXOSoNU29"
+      },
+      "artists": [
+        {
+          "name": "Holly Arrowsmith",
+          "url": "https://open.spotify.com/artist/3vMKpgD6qgvEqjd7hW3r2X"
+        }
+      ],
+      "duration_ms": 252506,
+      "name": "Swan Dive",
+      "url": "https://open.spotify.com/track/19N1T1fY79pLLAihd0o8gB"
+    },
+    {
+      "added_at": "2024-07-31 16:00:00",
+      "album": {
+        "name": "Ur Mom",
+        "url": "https://open.spotify.com/album/56ySI9Faoq0M74LRuFQWDa"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hill",
+          "url": "https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Ur Mom",
+      "url": "https://open.spotify.com/track/6fX7l5ZcofJOwbb4C9uq5C"
+    },
+    {
+      "added_at": "2024-07-31 16:00:00",
+      "album": {
+        "name": "Hold You Close",
+        "url": "https://open.spotify.com/album/0uctn4hHo3Iaapr7E3UFkc"
+      },
+      "artists": [
+        {
+          "name": "Anna McClellan",
+          "url": "https://open.spotify.com/artist/2Y8G3abt5hRU7X9RNi7dlZ"
+        }
+      ],
+      "duration_ms": 116906,
+      "name": "Hold You Close",
+      "url": "https://open.spotify.com/track/03OzOnXyFEBSQnJ1VJLgD4"
+    },
+    {
+      "added_at": "2024-07-31 16:00:00",
+      "album": {
+        "name": "Can't Quit",
+        "url": "https://open.spotify.com/album/1D19fsmex2NLMiza4mFECw"
+      },
+      "artists": [
+        {
+          "name": "Big Warm Bed",
+          "url": "https://open.spotify.com/artist/5BZYKfGniYY4g6bk1dohQQ"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Can't Quit",
+      "url": "https://open.spotify.com/track/5oulOvuG9jdMle3Slw70q0"
     },
     {
       "added_at": "2024-07-25 18:24:41",
@@ -1491,170 +1635,6 @@
       "duration_ms": 250560,
       "name": "Green Morning",
       "url": "https://open.spotify.com/track/42VWxciaW70cNreVvpx368"
-    },
-    {
-      "added_at": "2024-05-22 16:34:37",
-      "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/15YyAiSJSwhmGJHFjYGLdU"
-      },
-      "artists": [
-        {
-          "name": "Niamh Regan",
-          "url": "https://open.spotify.com/artist/5vQdYaBacVe00yHMbpnRVa"
-        }
-      ],
-      "duration_ms": 193438,
-      "name": "Music",
-      "url": "https://open.spotify.com/track/6HrcOG9ILLgEZZ28FyQLaL"
-    },
-    {
-      "added_at": "2024-05-22 16:34:37",
-      "album": {
-        "name": "Wild Geese",
-        "url": "https://open.spotify.com/album/7nhOxgSW1mGtfWYNvmtzz0"
-      },
-      "artists": [
-        {
-          "name": "Liv Greene",
-          "url": "https://open.spotify.com/artist/2UltodJ8HNFM8hNpVyD5Ae"
-        }
-      ],
-      "duration_ms": 214876,
-      "name": "Wild Geese",
-      "url": "https://open.spotify.com/track/38jCElKYHdWG9f0DsPB3Q9"
-    },
-    {
-      "added_at": "2024-05-22 16:34:37",
-      "album": {
-        "name": "Rockdale",
-        "url": "https://open.spotify.com/album/77l40wbAkDypi1otMXLN3K"
-      },
-      "artists": [
-        {
-          "name": "Orebolo",
-          "url": "https://open.spotify.com/artist/5dUvPdohZCubdo8k4oG2Mx"
-        }
-      ],
-      "duration_ms": 375312,
-      "name": "Rockdale",
-      "url": "https://open.spotify.com/track/1wP9autTu3EpTzFQBfYzIS"
-    },
-    {
-      "added_at": "2024-05-15 15:14:27",
-      "album": {
-        "name": "i can",
-        "url": "https://open.spotify.com/album/0xIikGAXipJFQvGzFP24Wl"
-      },
-      "artists": [
-        {
-          "name": "Esha Tewari",
-          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
-        }
-      ],
-      "duration_ms": 261545,
-      "name": "i can",
-      "url": "https://open.spotify.com/track/2zZ2W6aATb8fue7MK1sqAf"
-    },
-    {
-      "added_at": "2024-05-15 15:14:27",
-      "album": {
-        "name": "i don't feel safe in my body",
-        "url": "https://open.spotify.com/album/5HwvUgkqsBLd0A6J3zqgR3"
-      },
-      "artists": [
-        {
-          "name": "Mikayla Geier",
-          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
-        }
-      ],
-      "duration_ms": 163859,
-      "name": "i don't feel safe in my body",
-      "url": "https://open.spotify.com/track/7MnYbB8EA6aKVlqJ6Nsek9"
-    },
-    {
-      "added_at": "2024-04-17 04:00:00",
-      "album": {
-        "name": "Show You (Truck Song)",
-        "url": "https://open.spotify.com/album/2xVVvxrck67p3TY2Vu5sqW"
-      },
-      "artists": [
-        {
-          "name": "Esme Emerson",
-          "url": "https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "Show You (Truck Song)",
-      "url": "https://open.spotify.com/track/5fPo8kJRHPUoa9JD1WWqwT"
-    },
-    {
-      "added_at": "2024-05-08 04:00:00",
-      "album": {
-        "name": "Sunwarmed",
-        "url": "https://open.spotify.com/album/59VwIN9sQruODzORauynKX"
-      },
-      "artists": [
-        {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
-        }
-      ],
-      "duration_ms": 178417,
-      "name": "Sunwarmed",
-      "url": "https://open.spotify.com/track/2NN9upqz79D5uLDoiaPOx4"
-    },
-    {
-      "added_at": "2024-05-15 15:14:27",
-      "album": {
-        "name": "Guardian",
-        "url": "https://open.spotify.com/album/7MPLdIGd9bOArCHAyeU9VA"
-      },
-      "artists": [
-        {
-          "name": "Memorial",
-          "url": "https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc"
-        },
-        {
-          "name": "Lomelda",
-          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
-        }
-      ],
-      "duration_ms": 182034,
-      "name": "Guardian",
-      "url": "https://open.spotify.com/track/4dwRDbXzwMYR53hJ2YD5KR"
-    },
-    {
-      "added_at": "2024-05-15 15:14:27",
-      "album": {
-        "name": "home on the range",
-        "url": "https://open.spotify.com/album/0ZHPMLO1uAycrb3E8RCrMi"
-      },
-      "artists": [
-        {
-          "name": "wilter",
-          "url": "https://open.spotify.com/artist/2Dhzt5rI1go7tAIIlTAz7R"
-        }
-      ],
-      "duration_ms": 226989,
-      "name": "home on the range",
-      "url": "https://open.spotify.com/track/3UVBJCa53mJUl86apapS8D"
-    },
-    {
-      "added_at": "2024-05-15 15:14:27",
-      "album": {
-        "name": "Big Dipper",
-        "url": "https://open.spotify.com/album/1dq3GRvrZHKFFqAtKRhsQK"
-      },
-      "artists": [
-        {
-          "name": "Half Waif",
-          "url": "https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj"
-        }
-      ],
-      "duration_ms": 247040,
-      "name": "Big Dipper",
-      "url": "https://open.spotify.com/track/5w1j6wa1DfBxfirOe4Lk0G"
     },
     {
       "added_at": "2024-05-01 04:00:00",

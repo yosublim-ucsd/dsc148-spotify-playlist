@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 
 > Floor fillers and big streamers of 2014.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,440 likes - 81 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,516 likes - 81 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 | 59 | [Wicked Wonderland](https://open.spotify.com/track/0zQXwzM2gtGfClqBBTsKXp) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Wicked Wonderland](https://open.spotify.com/album/0sto8hJizRoPKSQoFo57d9) | 3:37 |
 | 60 | [Wild Eyes](https://open.spotify.com/track/6CZSePF4e6DJbraNkjgJ6d) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [RAVVEL](https://open.spotify.com/artist/0ONN78qj6zuTEsmal4ZJKG) | [Wild Eyes](https://open.spotify.com/album/1mL75lJ1xc6QiePLukGLKB) | 3:24 |
 | 61 | [One Day \(Vandaag\) \- Radio Edit](https://open.spotify.com/track/7qRtIcMaDnaJYmQDPpMgTe) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [One Day \(Vandaag\)](https://open.spotify.com/album/418vL0rOxoVcELcvu51fg9) | 3:41 |
-| 62 | [Miami 82 \- Kygo Remix](https://open.spotify.com/track/2DFT4mdft2yUPs7rX6coSd) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Armada Deep House Selection, Vol\. 3 \(The Finest Deep House Tunes\)](https://open.spotify.com/album/5ibzTdYFvMukXN8J6ZEzvF) | 5:41 |
-| 63 | [All The Way](https://open.spotify.com/track/6g3zlVzqVgg8sqAYDhsWSL) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours \(Deluxe\)](https://open.spotify.com/album/2xX0ZnW2kG0qpIjnvEVl8s) | 2:59 |
+| 62 | [All The Way](https://open.spotify.com/track/6g3zlVzqVgg8sqAYDhsWSL) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours \(Deluxe\)](https://open.spotify.com/album/2xX0ZnW2kG0qpIjnvEVl8s) | 2:59 |
+| 63 | [Miami 82 \- Kygo Remix](https://open.spotify.com/track/2DFT4mdft2yUPs7rX6coSd) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Armada Deep House Selection, Vol\. 3 \(The Finest Deep House Tunes\)](https://open.spotify.com/album/5ibzTdYFvMukXN8J6ZEzvF) | 5:41 |
 | 64 | [Do It Again](https://open.spotify.com/track/44eQkbofZeY7rEPnPdobwa) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Do It Again](https://open.spotify.com/album/5rgGVO0mjqDYsHQnD4XkJV) | 5:06 |
 | 65 | [Tremor \- Sensation 2014 Anthem; Radio Edit](https://open.spotify.com/track/5xhlXPI81zTycdILy3e038) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Tremor \(Sensation 2014 Anthem; Radio Edit\)](https://open.spotify.com/album/0ExfeH4t1YraNIHtbhNgIi) | 3:13 |
 | 66 | [Cocaine Model](https://open.spotify.com/track/5MxDkXp4X06zjnIUqvEvdQ) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Nightday \(EP\)](https://open.spotify.com/album/1sZNLQ70ksj1gVRbaf7yBP) | 4:15 |

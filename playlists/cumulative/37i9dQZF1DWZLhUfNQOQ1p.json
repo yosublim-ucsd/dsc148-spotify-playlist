@@ -3245,6 +3245,36 @@
     },
     {
       "album": {
+        "name": "Jolie Fille (feat. Layefa)",
+        "url": "https://open.spotify.com/album/2B7azjSRe8rJHfCBTJGzlV"
+      },
+      "artists": [
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        },
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Layefa",
+          "url": "https://open.spotify.com/artist/7MkQpNkd549FwPBbgkGyE8"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194442,
+      "name": "Jolie Fille (feat. Layefa)",
+      "url": "https://open.spotify.com/track/4sOLtnLeIFwO4YUUSV5DM5"
+    },
+    {
+      "album": {
         "name": "JOY (Head To The Sky)",
         "url": "https://open.spotify.com/album/3lmxO2QJCTxkr2ERMZHwFu"
       },
@@ -6292,7 +6322,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 287037,
       "name": "Summer In The Ends",
       "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"

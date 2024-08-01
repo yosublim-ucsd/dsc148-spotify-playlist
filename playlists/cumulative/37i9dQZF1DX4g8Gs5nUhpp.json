@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng ca kh\u00fac n\u00e0y. \u1ea2nh b\u00eca: Kai \u0110inh, MIN, Ho\u00e0ng D\u0169ng",
+  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng ca kh\u00fac n\u00e0y. \u1ea2nh b\u00eca: Rhymastic",
   "name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 240000,
       "name": "10 Ng\u00e0n N\u0103m",
       "url": "https://open.spotify.com/track/76KYaCx7UjHwlnrqzcovLZ"
@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 148880,
       "name": "Don't C\u00f4i",
       "url": "https://open.spotify.com/track/3ukrFH17Zl6iEZ2QJ1Zwiy"
@@ -1753,6 +1753,28 @@
     },
     {
       "album": {
+        "name": "Ai C\u0169ng Ph\u1ea3i B\u1eaft \u0110\u1ea7u T\u1eeb \u0110\u00e2u \u0110\u00f3",
+        "url": "https://open.spotify.com/album/4faMbTZifuYsBllYHZsFKJ"
+      },
+      "artists": [
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        },
+        {
+          "name": "marzuz",
+          "url": "https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201589,
+      "name": "Exit Sign",
+      "url": "https://open.spotify.com/track/4nXrVH5xwN1w6TpmP7uu8n"
+    },
+    {
+      "album": {
         "name": "Finding You",
         "url": "https://open.spotify.com/album/3SZoj251qJDnDf9heYFepJ"
       },
@@ -1768,7 +1790,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 191000,
       "name": "Finding You",
       "url": "https://open.spotify.com/track/0g7d8Y9Y2BP8qFZDzngnSz"
@@ -1882,6 +1904,36 @@
       "duration_ms": 205846,
       "name": "GIAYPHUT",
       "url": "https://open.spotify.com/track/07b849p3xuq03EdlAo4CKX"
+    },
+    {
+      "album": {
+        "name": "Girl H\u00e0 N\u1ed9i",
+        "url": "https://open.spotify.com/album/557Iv8OfqS2MlVhHj9wPu9"
+      },
+      "artists": [
+        {
+          "name": "SIXTYUPTOWN",
+          "url": "https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay"
+        },
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        },
+        {
+          "name": "Lu",
+          "url": "https://open.spotify.com/artist/0QRUD41ltP8vhaAIxMZb2H"
+        },
+        {
+          "name": "Rem",
+          "url": "https://open.spotify.com/artist/1njilcHXinpoFdb02K4sK2"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234500,
+      "name": "Girl H\u00e0 N\u1ed9i (ft. Dangrangto, Lu, Rem)",
+      "url": "https://open.spotify.com/track/3nOQ8LlNDS2U9vohMlBWJq"
     },
     {
       "album": {
@@ -2424,7 +2476,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 244218,
       "name": "Kh\u00f4ng Y\u00eau Xin \u0110\u1eebng N\u00f3i - Piano Version",
       "url": "https://open.spotify.com/track/53vcJaw0rQEux8YK9EDOxE"
@@ -2482,7 +2534,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 216220,
       "name": "Lan Man",
       "url": "https://open.spotify.com/track/3hqOrxH5qPlvrApcb7Ac8c"
@@ -3108,6 +3160,36 @@
       "duration_ms": 232173,
       "name": "Ng\u00f5 Ch\u1ea1m",
       "url": "https://open.spotify.com/track/0Qs29ApstkrU5T8S5Hxazw"
+    },
+    {
+      "album": {
+        "name": "ng\u01b0\u1eddi b\u00e1n n\u1ed7i bu\u1ed3n",
+        "url": "https://open.spotify.com/album/4FjcMPgzGx5oF3V1NIt3Yv"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00ed Ph\u01b0\u01a1ng Anh",
+          "url": "https://open.spotify.com/artist/1OnnVNvbz0OsApDXHUX2bM"
+        },
+        {
+          "name": "Trung Qu\u00e2n",
+          "url": "https://open.spotify.com/artist/5Cf9nBDNc99UFkq9Yqap7Q"
+        },
+        {
+          "name": "RIN9",
+          "url": "https://open.spotify.com/artist/6InVt9jASvsJY7qA60AGzf"
+        },
+        {
+          "name": "DREAMeR",
+          "url": "https://open.spotify.com/artist/1f3aY4gX0O9B59iQyZXY0I"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240444,
+      "name": "ng\u01b0\u1eddi b\u00e1n n\u1ed7i bu\u1ed3n",
+      "url": "https://open.spotify.com/track/0Tc4FDsS2QLk78RqKT7YG1"
     },
     {
       "album": {
@@ -5134,6 +5216,24 @@
       "duration_ms": 222079,
       "name": "V\u0169 Tr\u1ee5 C\u00f3 Anh",
       "url": "https://open.spotify.com/track/2fZ2YiLZWcRGugosefLKJH"
+    },
+    {
+      "album": {
+        "name": "V\u1eeba H\u1eadn V\u1eeba Y\u00eau",
+        "url": "https://open.spotify.com/album/0PUR1NmDoTbqBPD9Uxa54N"
+      },
+      "artists": [
+        {
+          "name": "Trung Tu",
+          "url": "https://open.spotify.com/artist/6NmGVS8nPcqW6tnevWF3Zg"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157239,
+      "name": "V\u1eeba H\u1eadn V\u1eeba Y\u00eau",
+      "url": "https://open.spotify.com/track/1oVbTGLd8EgyeWBoqAYBD0"
     },
     {
       "album": {

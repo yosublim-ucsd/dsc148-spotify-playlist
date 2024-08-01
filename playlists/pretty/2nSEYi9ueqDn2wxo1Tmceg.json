@@ -1,13 +1,33 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: Alex Izenberg",
-  "num_followers": 66836,
+  "num_followers": 66832,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAPyKV+N1sS9RUEiu56rcaw/rcEtK9J",
+  "snapshot_id": "AAAPy/8cKbbH7w5mmUZP+jS6gnHWIAsF",
   "tracks": [
+    {
+      "added_at": "2024-07-31 08:36:42",
+      "album": {
+        "name": "Take The People To The River!",
+        "url": "https://open.spotify.com/album/6N5FwgOqIqgb4SfOn4lQQk"
+      },
+      "artists": [
+        {
+          "name": "Steve Mason",
+          "url": "https://open.spotify.com/artist/4ieS1hHc74D9RXhkyoriDU"
+        },
+        {
+          "name": "Warmduscher",
+          "url": "https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR"
+        }
+      ],
+      "duration_ms": 414259,
+      "name": "People To The River! - Warmduscher Remix",
+      "url": "https://open.spotify.com/track/7Bi4Bes5dzT9lTdLG6lKl9"
+    },
     {
       "added_at": "2024-07-24 14:18:30",
       "album": {

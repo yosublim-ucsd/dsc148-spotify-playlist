@@ -4341,6 +4341,24 @@
     },
     {
       "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
+      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
+    },
+    {
+      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -4654,7 +4672,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 298693,
       "name": "Candy",
       "url": "https://open.spotify.com/track/4h5m56ExHLPUC9NGz7U1Qa"
@@ -9936,6 +9954,24 @@
       "duration_ms": 182741,
       "name": "Funky Friday",
       "url": "https://open.spotify.com/track/01IQ4aQgOf0Kkq3a273hmO"
+    },
+    {
+      "album": {
+        "name": "G Stands for Geezer",
+        "url": "https://open.spotify.com/album/4FDIzO3XZeNnCSyouK1EJj"
+      },
+      "artists": [
+        {
+          "name": "Plenty In The Tank",
+          "url": "https://open.spotify.com/artist/452oa1FnyEdCUygkcNz4NQ"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176065,
+      "name": "G Stands for Geezer",
+      "url": "https://open.spotify.com/track/3GAakFyEFST6xI7aVaI2zh"
     },
     {
       "album": {
@@ -22682,7 +22718,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"

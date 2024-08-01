@@ -2,7 +2,7 @@
 
 ### [This Is Danny Ocean](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3lWjLU)
 
-> This Is Danny Ocean\. Los temas esenciales, todos en una lista.
+> This is Danny Ocean\. The essential tracks, all in one playlist.
 
 76 songs - 3 hr 55 min
 

@@ -4,7 +4,7 @@
 
 > Symphonic and power metal at its most epic\. Cover: Nightwish
 
-611 songs - 1 day 22 hr 46 min
+612 songs - 1 day 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Deadnight Warrior](https://open.spotify.com/track/6KzQedLjxK2WTnN7B1zn16) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Deadnight Warrior](https://open.spotify.com/album/4udcCVFs8yisGUOUnpB0zK) | 2:53 | 2023-03-24 | 2023-04-15 |
 | [Death Turns a Blind Eye](https://open.spotify.com/track/1rMyi6rRj9eN3Fd2pGxWo3) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [Marcela Bovio](https://open.spotify.com/artist/5tXNu1Z66uFlhcDSdRLP6i) | [Death Turns a Blind Eye](https://open.spotify.com/album/4MAKiNZ83l1aNAXfdgrXDA) | 5:32 | 2021-06-19 | 2021-10-23 |
 | [Decayer](https://open.spotify.com/track/6BZFeisu2l3kkVm2C2hYzK) | [Pray for Sound](https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx) | [Dreamer](https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu) | 4:46 | 2022-07-13 | 2022-07-23 |
+| [Deified](https://open.spotify.com/track/57X3y9aTt59bXdszZm1U8C) | [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Deified](https://open.spotify.com/album/0s6HINWvUrRD3EmQG8YRPn) | 3:56 | 2024-07-26 |  |
 | [Deliver Us From Evil](https://open.spotify.com/track/4Cb1AimuiTJ5szNlCcf895) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Deliver Us From Evil](https://open.spotify.com/album/1ZnC7l78DJRZ3Tjhn4IyvO) | 5:21 | 2021-12-04 | 2022-06-18 |
 | [Delusion](https://open.spotify.com/track/6A6aJxfbI3FxwZLZpGYkpV) | [Without Warning](https://open.spotify.com/artist/4t91G6AzXhhZXQkbpZX7Fe) | [Delusion](https://open.spotify.com/album/1zDi3Uv4ss4Hm8qjPzDivj) | 3:04 | 2021-10-09 | 2022-05-14 |
 | [Demons Are A Girl's Best Friend](https://open.spotify.com/track/12frB4w7ukdn1hzfBiWRjq) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v), [Alissa White\-Gluz](https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg) | [Demons Are A Girl's Best Friend](https://open.spotify.com/album/6SFftjmYjvGAvRa2k8WHWC) | 3:37 | 2021-06-11 | 2021-06-25 |
@@ -536,7 +537,7 @@
 | [The Unkillable Soldier](https://open.spotify.com/track/1h98WxD3tsMfb4YlB2wBDS) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Unkillable Soldier](https://open.spotify.com/album/3wjhgpXJu4BWzOilpLkYte) | 4:11 | 2022-02-11 |  |
 | [The Void in Aimless Flight](https://open.spotify.com/track/3FwQ6Db9MTZjF0f6B2gWvW) | [Telepathy](https://open.spotify.com/artist/7tgHFZQScvUy74xbYvKp3q) | [The Void in Aimless Flight](https://open.spotify.com/album/1iRnt99Vhzq711xiW7ioSi) | 6:44 | 2022-07-13 | 2022-07-28 |
 | [The Wicked Rule The Night](https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Ralf Scheepers](https://open.spotify.com/artist/0r4DFjrsHb3Qf3L8NBdPGV) | [The Wicked Rule The Night](https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf) | 4:24 | 2022-05-20 |  |
-| [The Widow Maker \- feat\. Gunship](https://open.spotify.com/track/2wEefjLWT91c7AyTuiStmi) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP), [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [The Widow Maker](https://open.spotify.com/album/2ivXd8Ca3ECnX7ILZoNpbP) | 3:55 | 2022-03-18 |  |
+| [The Widow Maker \- feat\. Gunship](https://open.spotify.com/track/2wEefjLWT91c7AyTuiStmi) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP), [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [The Widow Maker](https://open.spotify.com/album/2ivXd8Ca3ECnX7ILZoNpbP) | 3:55 | 2022-03-18 | 2024-08-01 |
 | [Then To Hell With You](https://open.spotify.com/track/1rrh2Aqj7390GGeGIcDuel) | [Liquorworks](https://open.spotify.com/artist/5N0HHSj9VyFK76Q22rU3FJ) | [Psycho Soundwaves](https://open.spotify.com/album/264qJqO8tNxzqU473ghu6O) | 7:22 | 2022-07-13 | 2022-07-30 |
 | [This God is Dead](https://open.spotify.com/track/458kbmGS0DVDs1OMb7V0WC) | [Seven Spires](https://open.spotify.com/artist/2lP1T5oI2BjkLq9axMhG2o), [Roy Khan](https://open.spotify.com/artist/4hEwWtHVjJSCHpsimklGoe) | [This God is Dead](https://open.spotify.com/album/3X9qoDSRongWIaNG8pN60y) | 10:37 | 2021-06-04 | 2021-08-14 |
 | [Three Kings](https://open.spotify.com/track/0d40sFweIfsIqQSeIzLvHH) | [Genus Ordinis Dei](https://open.spotify.com/artist/4PorUDN5C5JRpJtinoVyTD) | [Three Kings](https://open.spotify.com/album/6jKXhTly2KwOXwO7ojA8oM) | 4:36 | 2024-06-24 | 2024-07-10 |

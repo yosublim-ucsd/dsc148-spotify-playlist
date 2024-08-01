@@ -2,7 +2,7 @@
 
 ### [Los Gallos](https://open.spotify.com/playlist/37i9dQZF1DX5moeZr1JWKb)
 
-> Estas son las grandes voces del Hip Hop\. Foto: Kei Linch & Nanpa Básico
+> Estas son las grandes voces del Hip Hop\. Foto: Akapellah
 
 138 songs - 7 hr 28 min
 

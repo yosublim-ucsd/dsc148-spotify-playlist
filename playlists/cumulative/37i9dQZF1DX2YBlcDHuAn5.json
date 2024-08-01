@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Angel By My Side",
+        "url": "https://open.spotify.com/album/4wFPcdUu0pljx0iDtvaPOz"
+      },
+      "artists": [
+        {
+          "name": "Boaz",
+          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195713,
+      "name": "Angel By My Side",
+      "url": "https://open.spotify.com/track/6FLRq82j1YsKLOQb2XU7g6"
+    },
+    {
+      "album": {
         "name": "Anybody Else But Me",
         "url": "https://open.spotify.com/album/4rWkiDyXhDqN2Lm1Zg08sv"
       },
@@ -2170,7 +2188,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 157280,
       "name": "Sweet Sweet Honey",
       "url": "https://open.spotify.com/track/7Ar25ZQBS3no4k5X0hGrcP"

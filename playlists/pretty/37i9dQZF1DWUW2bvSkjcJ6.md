@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Calvin Harris, Ellie Goulding
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,785 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,859 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 16 | [High](https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High](https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD) | 3:16 |
 | 17 | [Allein Allein](https://open.spotify.com/track/0FlTOYJxfZvYsXf8Cyahyt) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [INNERVERSE](https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf), [FREY](https://open.spotify.com/artist/5F96KjVVl5nnGRkXs8E8Za) | [Allein Allein](https://open.spotify.com/album/2xSMhp31viwXmp1oZGKdLs) | 2:39 |
 | 18 | [Heat](https://open.spotify.com/track/4CICAO2tOivfuYQJD19wQf) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Heat](https://open.spotify.com/album/0TKD0FPj0eYCu8HnihRXme) | 3:44 |
-| 19 | [WOLLTEN FREI SEIN \(feat\. reezy\)](https://open.spotify.com/track/7BpQAkjefbApWBUtKmVMjh) | [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [XABAT](https://open.spotify.com/album/3y1jMB1QNho4bbmungXFxo) | 4:23 |
+| 19 | [WOLLTEN FREI SEIN \(feat\. reezy\)](https://open.spotify.com/track/7BpQAkjefbApWBUtKmVMjh) | [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [Safraoui](https://open.spotify.com/artist/1xlPEhjbFqhrDjaAvyvueX), [Jamal](https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU) | [XABAT](https://open.spotify.com/album/3y1jMB1QNho4bbmungXFxo) | 4:23 |
 | 20 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 |
 | 21 | [The Feeling You Get](https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ask That God](https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m) | 4:16 |
 | 22 | [nein sagen](https://open.spotify.com/track/4PJjQI2F4l2GthbgixsgZG) | [oddworld](https://open.spotify.com/artist/4moOyBAkXsIAbF3pplCtv8), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [nein sagen](https://open.spotify.com/album/6zsKzq6Qg8fOhCn8WnIEzJ) | 2:27 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 67 | [8 stufen](https://open.spotify.com/track/7dDTdZHDyxGhyjjlvYHebZ) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [8 stufen](https://open.spotify.com/album/6rZMZ81XtYHcEQF6FhWmYs) | 3:01 |
 | 68 | [Glücksgefühle](https://open.spotify.com/track/0mmERFgGkny6o1ZRSKoV4H) | [Pietro Lombardi](https://open.spotify.com/artist/387fj6TuPJ3y2H8ViAm6r0) | [Glücksgefühle](https://open.spotify.com/album/6UstfICjSncadnkmPfae6i) | 2:20 |
 | 69 | [Qseng](https://open.spotify.com/track/58zhW0UVchSp3XUnbYlgsq) | [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv) | [Qseng](https://open.spotify.com/album/0FkH7LtLSOCAR4KKwBWRwB) | 2:01 |
-| 70 | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/track/7aDvC7UzTZ47Hx5jJUX1sJ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [JT](https://open.spotify.com/artist/4cybvZ3pcSdD2xNFhIzrkk) | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/album/2wJwaumR3Y8PCM01JgJqSj) | 3:00 |
+| 70 | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/track/7aDvC7UzTZ47Hx5jJUX1sJ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/album/2wJwaumR3Y8PCM01JgJqSj) | 3:00 |
 | 71 | [Not Today](https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Not Today](https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN) | 3:06 |
 | 72 | [The Same Bitch!](https://open.spotify.com/track/1NiHPhOiEqtqxIyuvF5X4E) | [Sarah Defne Gray](https://open.spotify.com/artist/6TbjlN6D9H1Oa7I1o31QtS) | [The Same Bitch!](https://open.spotify.com/album/3pqKZZppo8LYgke5rJaUsK) | 3:26 |
 | 73 | [nicht verlieben](https://open.spotify.com/track/71wQPepXn7iKezQca3sd4N) | [FEDX](https://open.spotify.com/artist/1i6K6RNWO4mV9LNVls5eFc), [Elly](https://open.spotify.com/artist/5ESkKkvLe33xT9Jsr8GBDt) | [nicht verlieben](https://open.spotify.com/album/5IzojasuR8wUbVx5q8rfEo) | 2:50 |

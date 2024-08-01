@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Hinds
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,123,108 likes - 127 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,123,188 likes - 127 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,30 +64,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 54 | [Chicken](https://open.spotify.com/track/0nEVjbu58y0cghChyOoxW8) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Chicken](https://open.spotify.com/album/2MKGBJYKuJFWgEg3IWGYqD) | 4:22 |
 | 55 | [Rock N Roller](https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Rock N Roller](https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K) | 3:43 |
 | 56 | [PSYCHO](https://open.spotify.com/track/1CwXFT3pDiMCPmvv3Ohfli) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [PSYCHO](https://open.spotify.com/album/453RlEBiL47ArcRDW2PwUd) | 3:18 |
-| 57 | [Never Need Me](https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Never Need Me](https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi) | 3:25 |
-| 58 | [Gravedigger](https://open.spotify.com/track/3logNIIMhLuY9A70jyChjD) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Gravedigger](https://open.spotify.com/album/2TEdyZ0ZfaUWts1U1PBoLr) | 2:44 |
-| 59 | [Touch](https://open.spotify.com/track/3m00PT6J1B5E0n7eJBRZPg) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Touch](https://open.spotify.com/album/0GzQBO3yXjOmFgFCSkon64) | 2:08 |
-| 60 | [I Was A Sailor](https://open.spotify.com/track/2qO4PvWDojlplbvSrCBUvF) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [I Was A Sailor](https://open.spotify.com/album/2RPZ0G0ZFhbewbFhi6u4em) | 4:00 |
-| 61 | [Glasgow](https://open.spotify.com/track/6bu97rYhlHjuEAq3KbmtR9) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Glasgow](https://open.spotify.com/album/5luIDZpDnPFdiTpMLLhRYK) | 3:34 |
-| 62 | [breakdown.](https://open.spotify.com/track/3a4PdwwaddhYbZnp0lxqyz) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [breakdown.](https://open.spotify.com/album/7EDOy8ue9MwE27BRwBT1fd) | 2:43 |
-| 63 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 |
-| 64 | [Happy](https://open.spotify.com/track/6ztjccAfxl3jVmvujjSUyI) | [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD), [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Happy](https://open.spotify.com/album/0W0yP0NOGxtwi2UEeWhk2K) | 2:59 |
-| 65 | [clairbourne practice](https://open.spotify.com/track/0WOkDmX7J2SGm8MDe2rWBc) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [clairbourne practice](https://open.spotify.com/album/2yVBjpKNmNUTK6RACxnBF6) | 3:07 |
-| 66 | [Blow It](https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Blow It](https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk) | 2:44 |
-| 67 | [Outta My Head](https://open.spotify.com/track/3NcheXileql4RI8n6sLumL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Outta My Head](https://open.spotify.com/album/3KIcGRLylPWgD0GF762Eln) | 2:52 |
-| 68 | [MORE](https://open.spotify.com/track/15ppK3GWBNfun3hkViRr6M) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [MORE](https://open.spotify.com/album/7ci2YpLQNXtOJTWhqMIhH9) | 3:43 |
-| 69 | [Bad Childhood](https://open.spotify.com/track/5oY69dzVj2R3xZXEdgCR3S) | [Letdown.](https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1) | [Bad Childhood](https://open.spotify.com/album/3rEjmhY3zBkWjERM0DTjrL) | 2:40 |
-| 70 | [Love Insurrection](https://open.spotify.com/track/0CNqLDmqmMDFoTExbsVaN0) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Love Insurrection](https://open.spotify.com/album/0lc5YaTdQfZd5L7zPpRK7Y) | 6:19 |
-| 71 | [Little Chaos](https://open.spotify.com/track/2UGWhW5YmrEDUDRB3H1fif) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Little Chaos](https://open.spotify.com/album/7xP8WWOKNqBhItpZ2j7OXM) | 2:54 |
-| 72 | [Stevie Nicks](https://open.spotify.com/track/15oZEfoDRFS7AzO2aeRpHk) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Stevie Nicks](https://open.spotify.com/album/6oVEbvZItYDzzlXN8cUDcp) | 2:47 |
-| 73 | [Wild Horses](https://open.spotify.com/track/5eN5nGmW92Iuzh77yM1Qd4) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Wild Horses](https://open.spotify.com/album/5tZVK7vHvdmh3AOMr6X1dd) | 3:51 |
-| 74 | [Dumb](https://open.spotify.com/track/3PSIl7zXEYf05YJkgjXPsJ) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [Dumb](https://open.spotify.com/album/1doLhvPAjLanwEheuR4WgN) | 3:16 |
-| 75 | [Vultures \(feat\. PVRIS\)](https://open.spotify.com/track/0O1APvs7Bfe7YaQO8ekg1z) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Nosebleeds: Encore](https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ) | 2:58 |
-| 76 | [tidal wave](https://open.spotify.com/track/2D5IDhHCuwWLmz1e499pZf) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [tidal wave](https://open.spotify.com/album/6iF2RBE0lrba8zSOuQslW8) | 2:27 |
-| 77 | [Pennsylvania Queen](https://open.spotify.com/track/4QSeEyFOfCt9H7YAE7igFO) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Song and Dance](https://open.spotify.com/album/3pXl7bC879gCm2cLIZjDP2) | 2:16 |
-| 78 | [Strawberry Jam](https://open.spotify.com/track/2ANtjCxEa3I883stgWh5Mz) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Strawberry Jam](https://open.spotify.com/album/3WtWzLerFbkjmu2Uh2f2k9) | 3:32 |
-| 79 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 |
-| 80 | [Run It Back](https://open.spotify.com/track/2gSVKq4fs4rYE6ukeKnVWi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Loveseat](https://open.spotify.com/album/3CLGTVOXKLB8W4eyLJO85A) | 2:27 |
+| 57 | [Gravedigger](https://open.spotify.com/track/3logNIIMhLuY9A70jyChjD) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Gravedigger](https://open.spotify.com/album/2TEdyZ0ZfaUWts1U1PBoLr) | 2:44 |
+| 58 | [Touch](https://open.spotify.com/track/3m00PT6J1B5E0n7eJBRZPg) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Touch](https://open.spotify.com/album/0GzQBO3yXjOmFgFCSkon64) | 2:08 |
+| 59 | [I Was A Sailor](https://open.spotify.com/track/2qO4PvWDojlplbvSrCBUvF) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [I Was A Sailor](https://open.spotify.com/album/2RPZ0G0ZFhbewbFhi6u4em) | 4:00 |
+| 60 | [Glasgow](https://open.spotify.com/track/6bu97rYhlHjuEAq3KbmtR9) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Glasgow](https://open.spotify.com/album/5luIDZpDnPFdiTpMLLhRYK) | 3:34 |
+| 61 | [breakdown.](https://open.spotify.com/track/3a4PdwwaddhYbZnp0lxqyz) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [breakdown.](https://open.spotify.com/album/7EDOy8ue9MwE27BRwBT1fd) | 2:43 |
+| 62 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 |
+| 63 | [Happy](https://open.spotify.com/track/6ztjccAfxl3jVmvujjSUyI) | [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD), [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Happy](https://open.spotify.com/album/0W0yP0NOGxtwi2UEeWhk2K) | 2:59 |
+| 64 | [clairbourne practice](https://open.spotify.com/track/0WOkDmX7J2SGm8MDe2rWBc) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [clairbourne practice](https://open.spotify.com/album/2yVBjpKNmNUTK6RACxnBF6) | 3:07 |
+| 65 | [Blow It](https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Blow It](https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk) | 2:44 |
+| 66 | [Outta My Head](https://open.spotify.com/track/3NcheXileql4RI8n6sLumL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Outta My Head](https://open.spotify.com/album/3KIcGRLylPWgD0GF762Eln) | 2:52 |
+| 67 | [MORE](https://open.spotify.com/track/15ppK3GWBNfun3hkViRr6M) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [MORE](https://open.spotify.com/album/7ci2YpLQNXtOJTWhqMIhH9) | 3:43 |
+| 68 | [Bad Childhood](https://open.spotify.com/track/5oY69dzVj2R3xZXEdgCR3S) | [Letdown.](https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1) | [Bad Childhood](https://open.spotify.com/album/3rEjmhY3zBkWjERM0DTjrL) | 2:40 |
+| 69 | [Love Insurrection](https://open.spotify.com/track/0CNqLDmqmMDFoTExbsVaN0) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Love Insurrection](https://open.spotify.com/album/0lc5YaTdQfZd5L7zPpRK7Y) | 6:19 |
+| 70 | [Little Chaos](https://open.spotify.com/track/2UGWhW5YmrEDUDRB3H1fif) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Little Chaos](https://open.spotify.com/album/7xP8WWOKNqBhItpZ2j7OXM) | 2:54 |
+| 71 | [Stevie Nicks](https://open.spotify.com/track/15oZEfoDRFS7AzO2aeRpHk) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Stevie Nicks](https://open.spotify.com/album/6oVEbvZItYDzzlXN8cUDcp) | 2:47 |
+| 72 | [Wild Horses](https://open.spotify.com/track/5eN5nGmW92Iuzh77yM1Qd4) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Wild Horses](https://open.spotify.com/album/5tZVK7vHvdmh3AOMr6X1dd) | 3:51 |
+| 73 | [Dumb](https://open.spotify.com/track/3PSIl7zXEYf05YJkgjXPsJ) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [Dumb](https://open.spotify.com/album/1doLhvPAjLanwEheuR4WgN) | 3:16 |
+| 74 | [Vultures \(feat\. PVRIS\)](https://open.spotify.com/track/0O1APvs7Bfe7YaQO8ekg1z) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Nosebleeds: Encore](https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ) | 2:58 |
+| 75 | [tidal wave](https://open.spotify.com/track/2D5IDhHCuwWLmz1e499pZf) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [tidal wave](https://open.spotify.com/album/6iF2RBE0lrba8zSOuQslW8) | 2:27 |
+| 76 | [Pennsylvania Queen](https://open.spotify.com/track/4QSeEyFOfCt9H7YAE7igFO) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Song and Dance](https://open.spotify.com/album/3pXl7bC879gCm2cLIZjDP2) | 2:16 |
+| 77 | [Strawberry Jam](https://open.spotify.com/track/2ANtjCxEa3I883stgWh5Mz) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Strawberry Jam](https://open.spotify.com/album/3WtWzLerFbkjmu2Uh2f2k9) | 3:32 |
+| 78 | [Never Need Me](https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Never Need Me](https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi) | 3:25 |
+| 79 | [Run It Back](https://open.spotify.com/track/2gSVKq4fs4rYE6ukeKnVWi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Loveseat](https://open.spotify.com/album/3CLGTVOXKLB8W4eyLJO85A) | 2:27 |
+| 80 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 |
 | 81 | [Aftertaste](https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [Aftertaste](https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY) | 3:34 |
 | 82 | [want](https://open.spotify.com/track/0fuglRZh54xvwLKAbnFAKE) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [want](https://open.spotify.com/album/626gFk89gkv78mPCZhePMq) | 2:24 |
 | 83 | [All Your Life](https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [All Your Life](https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu) | 3:41 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 126 | [Love On The Outside](https://open.spotify.com/track/3jl676aK6eGkmcQxizfPRh) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Love On The Outside](https://open.spotify.com/album/3B9HjAh429LhGc19K0hue7) | 3:58 |
 | 127 | [Light Runner](https://open.spotify.com/track/3AfwSzagDnKTUXc7lqVzdx) | [GIFT](https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op) | [Light Runner](https://open.spotify.com/album/5332cXGaZBLunKipWgcz1c) | 3:35 |
 
-Snapshot ID: `ZqMfQAAAAADXq/TeM87Nu/BsbtkBEDEz`
+Snapshot ID: `ZqprVAAAAADtBi25yaCf0afnj15X/fI2`

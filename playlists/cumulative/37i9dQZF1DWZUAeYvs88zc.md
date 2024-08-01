@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [24](https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [24](https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ) | 2:13 | 2021-10-21 | 2024-07-27 |
+| [24](https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [24](https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ) | 2:13 | 2021-10-21 |  |
 | [4 In The Morning](https://open.spotify.com/track/64fSdRkaB7ksxI9suUGYmi) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [The Sweet Escape](https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp) | 4:51 | 2019-07-28 | 2019-08-10 |
 | [8 Letters](https://open.spotify.com/track/4zRZAmBQP8vhNPf9i9opXt) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [8 Letters](https://open.spotify.com/album/2qIbHfs93z6eDwGoAdCkXA) | 3:10 | 2019-05-26\* | 2021-10-02 |
 | [8Track \- Spotify Singles](https://open.spotify.com/track/03erzHIEr9Oiv6u5OADpXB) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [8Track \(Spotify Singles\)](https://open.spotify.com/album/20UErVpYtx3XM72nRTWQcI) | 3:12 | 2021-11-20 | 2022-07-29 |
@@ -252,7 +252,7 @@
 | [Jealous \- Bakermat Remix](https://open.spotify.com/track/7BOu5S45QjJhriKH2QyvCj) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Jealous \(Remixes\)](https://open.spotify.com/album/4tCOKUKVTUDGhndvawdcjv) | 4:10 | 2019-07-27 | 2019-08-09 |
 | [John Hughes Movie](https://open.spotify.com/track/1rY5sQ6hjIWP6juaRCs455) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This](https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86) | 3:36 | 2021-09-29 | 2022-07-29 |
 | [Josslyn](https://open.spotify.com/track/0UhKDHeZw2kHOz9HiRNFBH) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [The Results Of My Poor Judgement](https://open.spotify.com/album/0qXVEBzNL34X3NgqmI8hH4) | 3:09 | 2020-05-31 | 2021-10-23 |
-| [Joyride](https://open.spotify.com/track/6n8KUQZOne1iMIyJYhWUrj) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Joyride](https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA) | 2:59 | 2024-06-14 |  |
+| [Joyride](https://open.spotify.com/track/6n8KUQZOne1iMIyJYhWUrj) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Joyride](https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA) | 2:59 | 2024-06-14 | 2024-08-01 |
 | [Just A Memory \(feat\. Regina Spektor\)](https://open.spotify.com/track/0mfSivZmglC3Hfn0NzssOY) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [A Moment Apart \(Deluxe Edition\)](https://open.spotify.com/album/4MRcN8PhMhBe84tcPLe2QJ) | 3:56 | 2019-05-26\* | 2021-10-13 |
 | [Just for me](https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just for me](https://open.spotify.com/album/00fcDjvEq4elj756TESO0c) | 1:55 | 2021-10-01 | 2022-09-26 |
 | [Kamikaze](https://open.spotify.com/track/2cKo2UWaGTK2DCkn1T4vXW) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Ten Love Songs](https://open.spotify.com/album/3jviKiBoZrkHLQZYIReWCh) | 5:11 | 2019-07-29 | 2019-08-09 |

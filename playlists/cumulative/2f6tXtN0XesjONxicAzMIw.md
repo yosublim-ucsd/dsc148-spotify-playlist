@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/2f6tXtN0XesjONxicAzMIw.md) - cumulative - [plain](/playlists/plain/2f6tXtN0XesjONxicAzMIw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2f6tXtN0XesjONxicAzMIw)
 
-### [2000s HITS THROWBACKS \| TOP 100 SONGS](https://open.spotify.com/playlist/2f6tXtN0XesjONxicAzMIw)
+### [2000s HITS THROWBACKS](https://open.spotify.com/playlist/2f6tXtN0XesjONxicAzMIw)
 
-> The best of 2000s Y2K nostalgia, from Shakira, Usher, The White Stripes, Beyonce, Outkast, Wheatus, The Fray, Avril Lavigne + more.
+> The best of 2000s Y2K nostalgia, from \*NSYNC's &quot;Bye Bye Bye&quot; \(from Deadpool and Wolverine\), to Shakira, Usher, The White Stripes, Beyonce, Outkast, Wheatus, The Fray, Avril Lavigne + more.
 
 218 songs - 14 hr 12 min
 

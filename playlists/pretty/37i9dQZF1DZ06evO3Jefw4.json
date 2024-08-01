@@ -1,12 +1,12 @@
 {
-  "description": "This is Katy Perry. The essential tracks, all in one playlist.",
-  "num_followers": 1165507,
+  "description": "This is Katy Perry. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 1165597,
   "original_name": "This Is Katy Perry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqbbgAAAAABBtuPCgrs5furrN6iK/a31",
+  "snapshot_id": "ZqgtAAAAAACNlByvpAIfKPv0OweN2bCB",
   "tracks": [
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Of The Boys",
-        "url": "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "Waking Up In Vegas",
-      "url": "https://open.spotify.com/track/6fvxos1qSHrIgOkKw4dhWS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where We Started",
         "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 182026,
       "name": "Where We Started",
       "url": "https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "Waking Up In Vegas",
+      "url": "https://open.spotify.com/track/6fvxos1qSHrIgOkKw4dhWS"
     },
     {
       "added_at": null,

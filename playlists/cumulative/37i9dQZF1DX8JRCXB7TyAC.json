@@ -134,7 +134,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 180000,
       "name": "Aakhar Baat",
       "url": "https://open.spotify.com/track/3kVwoKUC9bOMHbgo1oeDgn"
@@ -829,6 +829,24 @@
     },
     {
       "album": {
+        "name": "Document",
+        "url": "https://open.spotify.com/album/2GQZdnBCslzoKfgCMjbz91"
+      },
+      "artists": [
+        {
+          "name": "Devender Ahlawat",
+          "url": "https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220741,
+      "name": "Document",
+      "url": "https://open.spotify.com/track/1feOpUkRMcB6kwGvoLW7C4"
+    },
+    {
+      "album": {
         "name": "Dole Laadle",
         "url": "https://open.spotify.com/album/5Ca9Nx2w4IUCXAtBy5vuyq"
       },
@@ -1214,7 +1232,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 143086,
       "name": "Haryanvi Swag",
       "url": "https://open.spotify.com/track/3pnigHrG7LXFjnH3lbUcTz"
@@ -1934,7 +1952,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 206896,
       "name": "Ram Ram Karke",
       "url": "https://open.spotify.com/track/7LDvvW9IqGzDcoRdX2k5it"
@@ -2058,6 +2076,32 @@
       "duration_ms": 187692,
       "name": "Salute",
       "url": "https://open.spotify.com/track/6kk3T6M88cunWGspzNqlVr"
+    },
+    {
+      "album": {
+        "name": "Samjhota (feat. Kay D)",
+        "url": "https://open.spotify.com/album/0WIaCSH8K0G9fFjqqoLthR"
+      },
+      "artists": [
+        {
+          "name": "Masoom Sharma",
+          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
+        },
+        {
+          "name": "Monty Sehrawat",
+          "url": "https://open.spotify.com/artist/6WpldzFXzmtrk0RydeZrL4"
+        },
+        {
+          "name": "Kay D",
+          "url": "https://open.spotify.com/artist/7xThNFckeyb6roLYdLmyEm"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128796,
+      "name": "Samjhota (feat. Kay D)",
+      "url": "https://open.spotify.com/track/2oHMFQHewclqxeNP8zt7yZ"
     },
     {
       "album": {
@@ -2310,6 +2354,28 @@
       "duration_ms": 217200,
       "name": "Up Se",
       "url": "https://open.spotify.com/track/6z5wmqjuVxsvvmKHylA8Ga"
+    },
+    {
+      "album": {
+        "name": "Western Up",
+        "url": "https://open.spotify.com/album/59eweM489JYi1Lseo4Wx8k"
+      },
+      "artists": [
+        {
+          "name": "Eshan Bhati",
+          "url": "https://open.spotify.com/artist/2wjfEAuQR3ymFMZhyo7aBf"
+        },
+        {
+          "name": "Ajitesh",
+          "url": "https://open.spotify.com/artist/2QflLKBdw8HuzSNVCuIFE3"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181995,
+      "name": "Western Up",
+      "url": "https://open.spotify.com/track/0tUTTFuPwxeA3FJzNwxEO5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > De mooiste en nieuwste liedjes van het moment\. Cover: Chris Stapleton & Dua Lipa
 
-465 songs - 1 day 2 hr 48 min
+466 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [Never Gonna Not Dance Again](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again](https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR) | 3:45 | 2023-02-23 | 2023-05-26 |
 | [Never Had To Know](https://open.spotify.com/track/0wVrS0Jg01HNeJcs5TyUBK) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Never Had To Know](https://open.spotify.com/album/4Zxmi8lD3dGz5OuRS5qvtU) | 3:31 | 2023-02-23 | 2023-05-19 |
 | [Never Look Back](https://open.spotify.com/track/3K3bZDkHev8R7Clcqs2u8M) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Never Look Back](https://open.spotify.com/album/4GVxVTIaQg7zEEQ2Fqsu0q) | 2:42 | 2023-04-21 | 2023-10-13 |
-| [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 | 2024-05-24 |  |
+| [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 | 2024-05-24 | 2024-08-01 |
 | [Nickel For Goodbye](https://open.spotify.com/track/0mozpacigd082TTRqi5IZc) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Nickel For Goodbye](https://open.spotify.com/album/4xROG3RcoNOVF8A7IycHEI) | 3:51 | 2023-09-11 | 2024-05-14 |
 | [Night Moves](https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:08 | 2023-02-23 | 2023-03-18 |
 | [Nine Lives](https://open.spotify.com/track/3fJ4cLwaHlv9CSnKMf6FsO) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [Nine Lives](https://open.spotify.com/album/5Ct1RQG2vHREzV3Jjpjxfm) | 3:26 | 2024-05-02 | 2024-07-19 |
@@ -378,6 +378,7 @@
 | [Take My Heart](https://open.spotify.com/track/7i6ba4Pz9c6i0TnDKUmI7F) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/1AqN9WyeYYPPLEvclp2xlI) | 4:18 | 2023-03-30 | 2023-06-20 |
 | [Take My Heart](https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:18 | 2023-06-08 | 2023-10-28 |
 | [Taking My Love Back](https://open.spotify.com/track/4kCKaipCawfr34DfyrBVgu) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Taking My Love Back](https://open.spotify.com/album/66xNNEPz96RqJIKlw6728p) | 2:21 | 2024-07-18 |  |
+| [talk shit](https://open.spotify.com/track/6IEtI05pJzht8zp6u5P9kv) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK) | 3:13 | 2024-07-31 |  |
 | [Tears of the Sun](https://open.spotify.com/track/0U0850sVMddqs30TXrUGke) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Tears of the Sun](https://open.spotify.com/album/0hs0T9OK0KqfvjdEu12CJs) | 3:14 | 2023-02-23 | 2023-03-31 |
 | [Telephone](https://open.spotify.com/track/2ComEzkj1haK6a6iUpV0kQ) | [Lenny Monsou](https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3) | [Telephone](https://open.spotify.com/album/022o3XqoWm4c2KfaWyz3jf) | 3:01 | 2024-06-20 |  |
 | [Tell Me More](https://open.spotify.com/track/1jBN9OHMe8Fi39mazoXHvS) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tell Me More](https://open.spotify.com/album/2l7I3NR8pYbyDaTdwjYkMU) | 3:23 | 2023-04-06 | 2023-11-03 |

@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-311 songs - 17 hr 43 min
+312 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Egyptian Pools](https://open.spotify.com/track/0apbliJUvsg6R6l126454r) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Meditation](https://open.spotify.com/album/45vmwHPfY2GXUo098coEyg) | 2:10 | 2024-07-02 |  |
 | [endure pain](https://open.spotify.com/track/5jA3XlSxDfv4IZFltS6Mgj) | [samashi](https://open.spotify.com/artist/31VUMUK0O502Uw3YE3BPiV) | [Oldschool Memories](https://open.spotify.com/album/4KVVvtVBpXWvKCeRAtP1Bq) | 3:54 | 2024-07-02 |  |
 | [Escape to Azuchi](https://open.spotify.com/track/6It6PE4gj1vA4Rc1joIj1N) | [Amudo](https://open.spotify.com/artist/450Pl1XHVOL4a2NofP0Kan) | [Escape to Azuchi](https://open.spotify.com/album/0ySeNwPlXwAJtzHPdarLP1) | 2:28 | 2024-07-02 | 2024-07-30 |
-| [Eternal Beauty](https://open.spotify.com/track/6Jsv1iMcvsn6d6XScz1dlq) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Sleeping Soul](https://open.spotify.com/album/0ke8WCdALew5qZUPHsgScT) | 2:56 | 2024-07-02 |  |
+| [Eternal Beauty](https://open.spotify.com/track/6Jsv1iMcvsn6d6XScz1dlq) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Sleeping Soul](https://open.spotify.com/album/0ke8WCdALew5qZUPHsgScT) | 2:56 | 2024-07-02 | 2024-08-01 |
 | [Eternal Youth](https://open.spotify.com/track/0ytvsZOerGzUWfHXVT2Sgy) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 3:25 | 2024-07-02 |  |
 | [Even Though My Heart Breaks](https://open.spotify.com/track/6oUnqotL3a95tbuMTmafPj) | [FLY TO THE SKY](https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC) | [Back in Time](https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt) | 4:23 | 2022-05-03 | 2022-09-09 |
 | [Ex](https://open.spotify.com/track/1mZttLRYMGTq4m88qbgCE7) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 3:37 | 2022-05-03 | 2022-07-28 |
@@ -195,6 +195,7 @@
 | [Origin of Love](https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Origin of Love](https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q) | 3:52 | 2022-12-24 | 2024-07-03 |
 | [Our Cinema \#1 \- Someone Special](https://open.spotify.com/track/5ZDyD7L5khCYry5X8JAb9s) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Our Cinema \#1 \- Someone Special](https://open.spotify.com/album/1xn2D8pK6x33cOM8jXKlzS) | 3:21 | 2022-05-03 | 2024-07-03 |
 | [Our Cinema \#2 \- Dancing](https://open.spotify.com/track/6D9XN0mRQZRBcte4IZReCE) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Our Cinema \#2 \- Dancing](https://open.spotify.com/album/1NOp8pcedKfCeUj43mmbhC) | 3:30 | 2022-05-03 | 2023-05-01 |
+| [Pagoda in the Mist](https://open.spotify.com/track/1i0KIPkkwU4jxVsWFqo7Bn) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Sleeping Soul](https://open.spotify.com/album/0ke8WCdALew5qZUPHsgScT) | 2:59 | 2024-07-02 |  |
 | [Parade](https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:02 | 2022-06-30 | 2022-09-09 |
 | [path of the wind](https://open.spotify.com/track/0ovVhnQz8l1HfVl94qxtuC) | [aekasora](https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa) | [Simple Things](https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz) | 3:35 | 2024-07-02 |  |
 | [Peaceful Soul](https://open.spotify.com/track/53CiO8QfS58x43Sw3ogeJ0) | [Wolf Schranze](https://open.spotify.com/artist/4MtvBs0l4svT0L3QQLwPMM) | [Peaceful Soul](https://open.spotify.com/album/4T9UniU7N9yAue7cgCywr7) | 1:48 | 2024-07-02 |  |

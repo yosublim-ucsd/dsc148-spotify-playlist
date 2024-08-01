@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Azad Flow",
+        "url": "https://open.spotify.com/album/19lviU83gPUwQCgWSjDBgW"
+      },
+      "artists": [
+        {
+          "name": "RP Singh",
+          "url": "https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Azad Flow",
+      "url": "https://open.spotify.com/track/0LfJnwfZhEP2I2j61M5vLd"
+    },
+    {
+      "album": {
         "name": "Baat Kaam Ki",
         "url": "https://open.spotify.com/album/0jvPFGl6X2BldSiCtzhUgg"
       },
@@ -1491,6 +1509,24 @@
     },
     {
       "album": {
+        "name": "Desi Hood",
+        "url": "https://open.spotify.com/album/36B93HW3IYVWNVZH0qPaCR"
+      },
+      "artists": [
+        {
+          "name": "Krish Rao",
+          "url": "https://open.spotify.com/artist/0iwEynjG3vgrTK0dj5QHxl"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148275,
+      "name": "Desi Hood",
+      "url": "https://open.spotify.com/track/1ytkL95GzG5FfFHozezQFx"
+    },
+    {
+      "album": {
         "name": "Desi Raag",
         "url": "https://open.spotify.com/album/0S2KO9ca9CcyNkmJO4c8kO"
       },
@@ -1510,7 +1546,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 164671,
       "name": "Desi Pavega",
       "url": "https://open.spotify.com/track/0yeaXNtt81sOxNFi8FmcQv"
@@ -3448,7 +3484,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 193636,
       "name": "Mcoca",
       "url": "https://open.spotify.com/track/1xbltijhuDs1FqqnBplv8l"
@@ -3718,7 +3754,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 192891,
       "name": "Never Again",
       "url": "https://open.spotify.com/track/4TFuhfk6IxRCGLAY4TVl5M"
@@ -5472,6 +5508,28 @@
       "duration_ms": 174300,
       "name": "Way Up",
       "url": "https://open.spotify.com/track/1AJJ89QS4Iegh7ifstG7J5"
+    },
+    {
+      "album": {
+        "name": "Western Up",
+        "url": "https://open.spotify.com/album/59eweM489JYi1Lseo4Wx8k"
+      },
+      "artists": [
+        {
+          "name": "Eshan Bhati",
+          "url": "https://open.spotify.com/artist/2wjfEAuQR3ymFMZhyo7aBf"
+        },
+        {
+          "name": "Ajitesh",
+          "url": "https://open.spotify.com/artist/2QflLKBdw8HuzSNVCuIFE3"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181995,
+      "name": "Western Up",
+      "url": "https://open.spotify.com/track/0tUTTFuPwxeA3FJzNwxEO5"
     },
     {
       "album": {

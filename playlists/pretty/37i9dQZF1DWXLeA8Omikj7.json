@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:space:electronica_chill\">Hypnotic electronic</a> for studies and a relax.",
-  "num_followers": 3643656,
+  "num_followers": 3643814,
   "original_name": "Brain Food",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,26 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/5shEy0r5JuKQR5QVFigHCV"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        },
+        {
+          "name": "East Forest",
+          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
+        }
+      ],
+      "duration_ms": 356373,
+      "name": "Let You In (feat. East Forest)",
+      "url": "https://open.spotify.com/track/4i1blcUTYgdbgz9dRbzgtG"
+    },
+    {
+      "added_at": "2024-07-12 17:00:59",
+      "album": {
         "name": "Burst",
         "url": "https://open.spotify.com/album/5zmdoVs8pjlNgOGuRfPqOz"
       },
@@ -227,26 +247,6 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/5shEy0r5JuKQR5QVFigHCV"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
-        },
-        {
-          "name": "East Forest",
-          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
-        }
-      ],
-      "duration_ms": 356373,
-      "name": "Let You In (feat. East Forest)",
-      "url": "https://open.spotify.com/track/4i1blcUTYgdbgz9dRbzgtG"
-    },
-    {
-      "added_at": "2024-07-12 17:00:59",
-      "album": {
         "name": "Parallel",
         "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
       },
@@ -259,6 +259,22 @@
       "duration_ms": 306970,
       "name": "Parallel 6",
       "url": "https://open.spotify.com/track/3rI6J22xq3t8RDpxIOBo1C"
+    },
+    {
+      "added_at": "2024-07-12 17:00:59",
+      "album": {
+        "name": "Flow State",
+        "url": "https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "Slow Buchla Sunshine",
+      "url": "https://open.spotify.com/track/4cwLYDk0qjI7hiwVA5TVSn"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -283,22 +299,6 @@
       "duration_ms": 287541,
       "name": "And Then You Came",
       "url": "https://open.spotify.com/track/3jOZEvgu6UoEp77kzJjfHS"
-    },
-    {
-      "added_at": "2024-07-12 17:00:59",
-      "album": {
-        "name": "Flow State",
-        "url": "https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "Slow Buchla Sunshine",
-      "url": "https://open.spotify.com/track/4cwLYDk0qjI7hiwVA5TVSn"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -511,22 +511,18 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/0c8tH9ryCK1MPGqQdi8sMS"
+        "name": "The Science Of Patterns",
+        "url": "https://open.spotify.com/album/3rkD1ZE9dt5rSGt3Y56RWh"
       },
       "artists": [
         {
-          "name": "AK",
-          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
-        },
-        {
-          "name": "Sublab",
-          "url": "https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx"
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
         }
       ],
-      "duration_ms": 233333,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/4RQKsEW72d4Oipy55ivJ26"
+      "duration_ms": 225800,
+      "name": "Dream as Memory",
+      "url": "https://open.spotify.com/track/0dKEf6u1dlX16AcY2ygHLy"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -547,18 +543,22 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
-        "name": "The Science Of Patterns",
-        "url": "https://open.spotify.com/album/3rkD1ZE9dt5rSGt3Y56RWh"
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/0c8tH9ryCK1MPGqQdi8sMS"
       },
       "artists": [
         {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
+        },
+        {
+          "name": "Sublab",
+          "url": "https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx"
         }
       ],
-      "duration_ms": 225800,
-      "name": "Dream as Memory",
-      "url": "https://open.spotify.com/track/0dKEf6u1dlX16AcY2ygHLy"
+      "duration_ms": 233333,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/4RQKsEW72d4Oipy55ivJ26"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -603,26 +603,18 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
-        "name": "Vast (ANNA Remix)",
-        "url": "https://open.spotify.com/album/0m4Z3Ku62Qd4NkQCvSeRiD"
+        "name": "Love Exposure",
+        "url": "https://open.spotify.com/album/3GOcUvecKCw6ImtEP8wldX"
       },
       "artists": [
         {
-          "name": "Sandrayati",
-          "url": "https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+          "name": "Croquet Club",
+          "url": "https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6"
         }
       ],
-      "duration_ms": 206769,
-      "name": "Vast - ANNA Remix",
-      "url": "https://open.spotify.com/track/3rES34MzcM8hnKW9y2EzpH"
+      "duration_ms": 201320,
+      "name": "You Left Me",
+      "url": "https://open.spotify.com/track/18IYGcquutjcLam5wN7HRq"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -651,18 +643,26 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
-        "name": "Love Exposure",
-        "url": "https://open.spotify.com/album/3GOcUvecKCw6ImtEP8wldX"
+        "name": "Vast (ANNA Remix)",
+        "url": "https://open.spotify.com/album/0m4Z3Ku62Qd4NkQCvSeRiD"
       },
       "artists": [
         {
-          "name": "Croquet Club",
-          "url": "https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6"
+          "name": "Sandrayati",
+          "url": "https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
         }
       ],
-      "duration_ms": 201320,
-      "name": "You Left Me",
-      "url": "https://open.spotify.com/track/18IYGcquutjcLam5wN7HRq"
+      "duration_ms": 206769,
+      "name": "Vast - ANNA Remix",
+      "url": "https://open.spotify.com/track/3rES34MzcM8hnKW9y2EzpH"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
+        "name": "Pentagram",
+        "url": "https://open.spotify.com/album/339J9hyRpfNw5RAhmdcauO"
+      },
+      "artists": [
+        {
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Scene 2",
+      "url": "https://open.spotify.com/track/0MrHjYitcj2AM851dimyn3"
+    },
+    {
+      "added_at": "2024-07-12 17:00:59",
+      "album": {
         "name": "Flown",
         "url": "https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 339656,
       "name": "Told",
       "url": "https://open.spotify.com/track/5DTdyiGi5pmFo8POdtSqoN"
-    },
-    {
-      "added_at": "2024-07-12 17:00:59",
-      "album": {
-        "name": "Pentagram",
-        "url": "https://open.spotify.com/album/339J9hyRpfNw5RAhmdcauO"
-      },
-      "artists": [
-        {
-          "name": "Gui Boratto",
-          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Scene 2",
-      "url": "https://open.spotify.com/track/0MrHjYitcj2AM851dimyn3"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
-        "name": "The Ineffable Truth",
-        "url": "https://open.spotify.com/album/4wcUbqKSiZv4kNoJ3KOmrS"
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/5vD0muiLazbhIk0QxNNm8M"
       },
       "artists": [
         {
-          "name": "G Jones",
-          "url": "https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC"
+          "name": "ALIGN",
+          "url": "https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I"
         }
       ],
-      "duration_ms": 268160,
-      "name": "Everything All at Once",
-      "url": "https://open.spotify.com/track/2FCu1NM98eXCds1M0ikzWj"
+      "duration_ms": 121967,
+      "name": "Embrace",
+      "url": "https://open.spotify.com/track/1EDueL4DmDnPDYmxFZb54V"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/5vD0muiLazbhIk0QxNNm8M"
+        "name": "The Ineffable Truth",
+        "url": "https://open.spotify.com/album/4wcUbqKSiZv4kNoJ3KOmrS"
       },
       "artists": [
         {
-          "name": "ALIGN",
-          "url": "https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I"
+          "name": "G Jones",
+          "url": "https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC"
         }
       ],
-      "duration_ms": 121967,
-      "name": "Embrace",
-      "url": "https://open.spotify.com/track/1EDueL4DmDnPDYmxFZb54V"
+      "duration_ms": 268160,
+      "name": "Everything All at Once",
+      "url": "https://open.spotify.com/track/2FCu1NM98eXCds1M0ikzWj"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
-        "name": "One More Hour",
-        "url": "https://open.spotify.com/album/0sp3BCsO6JxuD7JkWl8HAH"
+        "name": "Terrace Rain/Grid Search",
+        "url": "https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI"
       },
       "artists": [
         {
-          "name": "Amtrac",
-          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+          "name": "Afternoon Bike Ride",
+          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
         }
       ],
-      "duration_ms": 337500,
-      "name": "One More Hour",
-      "url": "https://open.spotify.com/track/1sWnKhSzwYXkdS9ri2HwPE"
+      "duration_ms": 176548,
+      "name": "Terrace Rain",
+      "url": "https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -1235,50 +1235,18 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
-        "name": "Terrace Rain/Grid Search",
-        "url": "https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI"
+        "name": "One More Hour",
+        "url": "https://open.spotify.com/album/0sp3BCsO6JxuD7JkWl8HAH"
       },
       "artists": [
         {
-          "name": "Afternoon Bike Ride",
-          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
+          "name": "Amtrac",
+          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
         }
       ],
-      "duration_ms": 176548,
-      "name": "Terrace Rain",
-      "url": "https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA"
-    },
-    {
-      "added_at": "2024-07-12 17:00:59",
-      "album": {
-        "name": "Golden Hours, Pt. 1",
-        "url": "https://open.spotify.com/album/5jZ6dWSjl1sY8WGlXvWcaa"
-      },
-      "artists": [
-        {
-          "name": "Neighborhood Libraries",
-          "url": "https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt"
-        }
-      ],
-      "duration_ms": 427200,
-      "name": "[Time] Place",
-      "url": "https://open.spotify.com/track/7y5KNFzUITQC3ObeFkf9cj"
-    },
-    {
-      "added_at": "2024-07-12 17:00:59",
-      "album": {
-        "name": "Quiet Corners Of My Mind",
-        "url": "https://open.spotify.com/album/5vvhB33PqaRiwyAyuUWqjM"
-      },
-      "artists": [
-        {
-          "name": "Romare",
-          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
-        }
-      ],
-      "duration_ms": 268237,
-      "name": "Quiet Corners Of My Mind",
-      "url": "https://open.spotify.com/track/10G4nVNI2Jyvi7bLrbZBEK"
+      "duration_ms": 337500,
+      "name": "One More Hour",
+      "url": "https://open.spotify.com/track/1sWnKhSzwYXkdS9ri2HwPE"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -1299,22 +1267,34 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
-        "name": "Ado",
-        "url": "https://open.spotify.com/album/1hhreVbCDJSPfPhkQgmck5"
+        "name": "Quiet Corners Of My Mind",
+        "url": "https://open.spotify.com/album/5vvhB33PqaRiwyAyuUWqjM"
       },
       "artists": [
         {
-          "name": "Janus Rasmussen",
-          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
-        },
-        {
-          "name": "David Bergm\u00fcller",
-          "url": "https://open.spotify.com/artist/3ft977utbcwtn9thhB5JGw"
+          "name": "Romare",
+          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
         }
       ],
-      "duration_ms": 195152,
-      "name": "Ado",
-      "url": "https://open.spotify.com/track/4OtBXgoxCt5L6Jlr9aXzpn"
+      "duration_ms": 268237,
+      "name": "Quiet Corners Of My Mind",
+      "url": "https://open.spotify.com/track/10G4nVNI2Jyvi7bLrbZBEK"
+    },
+    {
+      "added_at": "2024-07-12 17:00:59",
+      "album": {
+        "name": "Golden Hours, Pt. 1",
+        "url": "https://open.spotify.com/album/5jZ6dWSjl1sY8WGlXvWcaa"
+      },
+      "artists": [
+        {
+          "name": "Neighborhood Libraries",
+          "url": "https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt"
+        }
+      ],
+      "duration_ms": 427200,
+      "name": "[Time] Place",
+      "url": "https://open.spotify.com/track/7y5KNFzUITQC3ObeFkf9cj"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -1351,18 +1331,22 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
-        "name": "Mirror Mountain",
-        "url": "https://open.spotify.com/album/3hcYCXbWFUV5eP4wZPQn8K"
+        "name": "Ado",
+        "url": "https://open.spotify.com/album/1hhreVbCDJSPfPhkQgmck5"
       },
       "artists": [
         {
-          "name": "Hermitude",
-          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+          "name": "Janus Rasmussen",
+          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
+        },
+        {
+          "name": "David Bergm\u00fcller",
+          "url": "https://open.spotify.com/artist/3ft977utbcwtn9thhB5JGw"
         }
       ],
-      "duration_ms": 295198,
-      "name": "Flush with Love",
-      "url": "https://open.spotify.com/track/5pbpePKq40EPcbfQSlFHD3"
+      "duration_ms": 195152,
+      "name": "Ado",
+      "url": "https://open.spotify.com/track/4OtBXgoxCt5L6Jlr9aXzpn"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -1379,6 +1363,22 @@
       "duration_ms": 139354,
       "name": "Home Pt. 1",
       "url": "https://open.spotify.com/track/6saPrg6S00jIed8tGj6DpW"
+    },
+    {
+      "added_at": "2024-07-12 17:00:59",
+      "album": {
+        "name": "Mirror Mountain",
+        "url": "https://open.spotify.com/album/3hcYCXbWFUV5eP4wZPQn8K"
+      },
+      "artists": [
+        {
+          "name": "Hermitude",
+          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+        }
+      ],
+      "duration_ms": 295198,
+      "name": "Flush with Love",
+      "url": "https://open.spotify.com/track/5pbpePKq40EPcbfQSlFHD3"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/2m7ty72Y36LBf9pdEKJRdW"
-      },
-      "artists": [
-        {
-          "name": "Oatmello",
-          "url": "https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O"
-        },
-        {
-          "name": "Cloudchord",
-          "url": "https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG"
-        }
-      ],
-      "duration_ms": 112207,
-      "name": "Topaz",
-      "url": "https://open.spotify.com/track/397FlWenFDWA1G6DdFmhdq"
-    },
-    {
-      "added_at": "2024-07-12 17:00:59",
-      "album": {
         "name": "Closed for Renovations",
         "url": "https://open.spotify.com/album/5AesdWGty4ye8UdrwBL4Jw"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 163978,
       "name": "Closed for Renovations",
       "url": "https://open.spotify.com/track/3eHg10L5NVIz84J4oRTZRG"
+    },
+    {
+      "added_at": "2024-07-12 17:00:59",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/2m7ty72Y36LBf9pdEKJRdW"
+      },
+      "artists": [
+        {
+          "name": "Oatmello",
+          "url": "https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O"
+        },
+        {
+          "name": "Cloudchord",
+          "url": "https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG"
+        }
+      ],
+      "duration_ms": 112207,
+      "name": "Topaz",
+      "url": "https://open.spotify.com/track/397FlWenFDWA1G6DdFmhdq"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -1687,22 +1687,18 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
-        "name": "CTG",
-        "url": "https://open.spotify.com/album/7xdjpdKWXPxXYynt2DDFG0"
+        "name": "Forms",
+        "url": "https://open.spotify.com/album/4YvpJz98NQQHdLlmOw04ZX"
       },
       "artists": [
         {
-          "name": "Branko",
-          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
-        },
-        {
-          "name": "I\u00fari Oliveira",
-          "url": "https://open.spotify.com/artist/6OUoXZid4ik4nXQ4FuYLPg"
+          "name": "Rohne",
+          "url": "https://open.spotify.com/artist/2GL5OJQQ0qp2rtth8iy6Kf"
         }
       ],
-      "duration_ms": 198000,
-      "name": "CTG",
-      "url": "https://open.spotify.com/track/5JlEWsqXWnIT4rPTJF3bny"
+      "duration_ms": 277000,
+      "name": "Dawn Aura",
+      "url": "https://open.spotify.com/track/1olQnzmTbzlIv6enpgppXS"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -1743,18 +1739,22 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
-        "name": "Forms",
-        "url": "https://open.spotify.com/album/4YvpJz98NQQHdLlmOw04ZX"
+        "name": "CTG",
+        "url": "https://open.spotify.com/album/7xdjpdKWXPxXYynt2DDFG0"
       },
       "artists": [
         {
-          "name": "Rohne",
-          "url": "https://open.spotify.com/artist/2GL5OJQQ0qp2rtth8iy6Kf"
+          "name": "Branko",
+          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
+        },
+        {
+          "name": "I\u00fari Oliveira",
+          "url": "https://open.spotify.com/artist/6OUoXZid4ik4nXQ4FuYLPg"
         }
       ],
-      "duration_ms": 277000,
-      "name": "Dawn Aura",
-      "url": "https://open.spotify.com/track/1olQnzmTbzlIv6enpgppXS"
+      "duration_ms": 198000,
+      "name": "CTG",
+      "url": "https://open.spotify.com/track/5JlEWsqXWnIT4rPTJF3bny"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
-      },
-      "artists": [
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        }
-      ],
-      "duration_ms": 322315,
-      "name": "20211130",
-      "url": "https://open.spotify.com/track/47LxyN0FVTAxSemYRpGFYr"
-    },
-    {
-      "added_at": "2024-07-12 17:00:59",
-      "album": {
         "name": "COLD",
         "url": "https://open.spotify.com/album/4QhlBt0hppsc1JmWptgMKc"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 236906,
       "name": "COLD",
       "url": "https://open.spotify.com/track/5nNgbJyYK0sBjvIW97FWUu"
+    },
+    {
+      "added_at": "2024-07-12 17:00:59",
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "duration_ms": 322315,
+      "name": "20211130",
+      "url": "https://open.spotify.com/track/47LxyN0FVTAxSemYRpGFYr"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -1935,6 +1935,22 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
+        "name": "Eurybia",
+        "url": "https://open.spotify.com/album/4ZqTaLiWcfUe2focRp293x"
+      },
+      "artists": [
+        {
+          "name": "Francesca Heart",
+          "url": "https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT"
+        }
+      ],
+      "duration_ms": 186082,
+      "name": "L'Inno delle Oceanine alla Bellezza e alla Fortuna",
+      "url": "https://open.spotify.com/track/1imCY3nm7hkJVyRX5KIfvu"
+    },
+    {
+      "added_at": "2024-07-12 17:00:59",
+      "album": {
         "name": "We Should Chill On The Windowsill More",
         "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 326129,
       "name": "Far From Home",
       "url": "https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9"
-    },
-    {
-      "added_at": "2024-07-12 17:00:59",
-      "album": {
-        "name": "Glare",
-        "url": "https://open.spotify.com/album/7sQt3KcCaK8Xky9F1oatJn"
-      },
-      "artists": [
-        {
-          "name": "The M Machine",
-          "url": "https://open.spotify.com/artist/62rW7FjQy7clhBDHuumg22"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "The Warehouse",
-      "url": "https://open.spotify.com/track/6cofOcVh37qyVEuBBVd6Wi"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
-        "name": "Bearded Fireworm",
-        "url": "https://open.spotify.com/album/3oJHNvLKrp708XlgVTjFbG"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Bearded Fireworm",
-      "url": "https://open.spotify.com/track/4M8eiodme1wpFvyVujDz9m"
-    },
-    {
-      "added_at": "2024-07-12 17:00:59",
-      "album": {
         "name": "memphis",
         "url": "https://open.spotify.com/album/2EGO4ULEQ7dq6tW0G1fbYQ"
       },
@@ -2015,18 +1999,34 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
-        "name": "Eurybia",
-        "url": "https://open.spotify.com/album/4ZqTaLiWcfUe2focRp293x"
+        "name": "Bearded Fireworm",
+        "url": "https://open.spotify.com/album/3oJHNvLKrp708XlgVTjFbG"
       },
       "artists": [
         {
-          "name": "Francesca Heart",
-          "url": "https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 186082,
-      "name": "L'Inno delle Oceanine alla Bellezza e alla Fortuna",
-      "url": "https://open.spotify.com/track/1imCY3nm7hkJVyRX5KIfvu"
+      "duration_ms": 198000,
+      "name": "Bearded Fireworm",
+      "url": "https://open.spotify.com/track/4M8eiodme1wpFvyVujDz9m"
+    },
+    {
+      "added_at": "2024-07-12 17:00:59",
+      "album": {
+        "name": "Glare",
+        "url": "https://open.spotify.com/album/7sQt3KcCaK8Xky9F1oatJn"
+      },
+      "artists": [
+        {
+          "name": "The M Machine",
+          "url": "https://open.spotify.com/artist/62rW7FjQy7clhBDHuumg22"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "The Warehouse",
+      "url": "https://open.spotify.com/track/6cofOcVh37qyVEuBBVd6Wi"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
-        "name": "Happiness",
-        "url": "https://open.spotify.com/album/1IBs9mhunaMiOGQAOJzpwx"
-      },
-      "artists": [
-        {
-          "name": "Omfeel",
-          "url": "https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ"
-        }
-      ],
-      "duration_ms": 239803,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/5B3sPlmTPuWqkNIhPks00u"
-    },
-    {
-      "added_at": "2024-07-12 17:00:59",
-      "album": {
         "name": "Singularity",
         "url": "https://open.spotify.com/album/1nvzBC1M3dlCMIxfUCBhlO"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 201826,
       "name": "Echo Dissolve",
       "url": "https://open.spotify.com/track/6c2HWpuYwsuDCEalqiV4Jb"
+    },
+    {
+      "added_at": "2024-07-12 17:00:59",
+      "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/1IBs9mhunaMiOGQAOJzpwx"
+      },
+      "artists": [
+        {
+          "name": "Omfeel",
+          "url": "https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ"
+        }
+      ],
+      "duration_ms": 239803,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/5B3sPlmTPuWqkNIhPks00u"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -2127,18 +2127,18 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
-        "name": "Ghosted",
-        "url": "https://open.spotify.com/album/0DCNR7DuF8b0MDU3wAH10w"
+        "name": "First Opus",
+        "url": "https://open.spotify.com/album/19FFct3GihJy9CKw9BeVFN"
       },
       "artists": [
         {
-          "name": "Sonny Side Up",
-          "url": "https://open.spotify.com/artist/4gFsE3BJKgBw4VdueiIrEl"
+          "name": "Sinjin Hawke",
+          "url": "https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN"
         }
       ],
-      "duration_ms": 157557,
-      "name": "Ghosted",
-      "url": "https://open.spotify.com/track/4zCWCBENCHWgSag7BXsuJL"
+      "duration_ms": 122352,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/7dy1n3TtiCfmCYG1EeAXGZ"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -2159,6 +2159,22 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
+        "name": "Ghosted",
+        "url": "https://open.spotify.com/album/0DCNR7DuF8b0MDU3wAH10w"
+      },
+      "artists": [
+        {
+          "name": "Sonny Side Up",
+          "url": "https://open.spotify.com/artist/4gFsE3BJKgBw4VdueiIrEl"
+        }
+      ],
+      "duration_ms": 157557,
+      "name": "Ghosted",
+      "url": "https://open.spotify.com/track/4zCWCBENCHWgSag7BXsuJL"
+    },
+    {
+      "added_at": "2024-07-12 17:00:59",
+      "album": {
         "name": "Baby, We're Ascending",
         "url": "https://open.spotify.com/album/5C2OE4duZUCuR4EEahyUPT"
       },
@@ -2175,38 +2191,6 @@
       "duration_ms": 387160,
       "name": "Baby, We're Ascending",
       "url": "https://open.spotify.com/track/3Nn6tQg6gYqCMZR0IpiiFJ"
-    },
-    {
-      "added_at": "2024-07-12 17:00:59",
-      "album": {
-        "name": "First Opus",
-        "url": "https://open.spotify.com/album/19FFct3GihJy9CKw9BeVFN"
-      },
-      "artists": [
-        {
-          "name": "Sinjin Hawke",
-          "url": "https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN"
-        }
-      ],
-      "duration_ms": 122352,
-      "name": "Shimmer",
-      "url": "https://open.spotify.com/track/7dy1n3TtiCfmCYG1EeAXGZ"
-    },
-    {
-      "added_at": "2024-07-12 17:00:59",
-      "album": {
-        "name": "Yu",
-        "url": "https://open.spotify.com/album/0iwiwHyXryr3N8zjHzJdRm"
-      },
-      "artists": [
-        {
-          "name": "Player Dave",
-          "url": "https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Yu",
-      "url": "https://open.spotify.com/track/00EGZT3cVfYHUKEONXdk3Q"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -2243,34 +2227,18 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
-        "name": "Statik",
-        "url": "https://open.spotify.com/album/7pkufIE73xUXW2A8qqXsid"
+        "name": "Yu",
+        "url": "https://open.spotify.com/album/0iwiwHyXryr3N8zjHzJdRm"
       },
       "artists": [
         {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+          "name": "Player Dave",
+          "url": "https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0"
         }
       ],
-      "duration_ms": 334589,
-      "name": "Ray",
-      "url": "https://open.spotify.com/track/0Hh09VwsjC67FlO12frFuU"
-    },
-    {
-      "added_at": "2024-07-12 17:00:59",
-      "album": {
-        "name": "Surrender Yourself",
-        "url": "https://open.spotify.com/album/1bRFR71dDq9KA6tjnKJo6u"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Hart",
-          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
-        }
-      ],
-      "duration_ms": 347413,
-      "name": "Surrender Yourself",
-      "url": "https://open.spotify.com/track/0RZ5bH3jU33OtO1PAhfXh5"
+      "duration_ms": 160000,
+      "name": "Yu",
+      "url": "https://open.spotify.com/track/00EGZT3cVfYHUKEONXdk3Q"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -2295,18 +2263,18 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
-        "name": "Seven",
-        "url": "https://open.spotify.com/album/2DfpchZyQ3r7kLgSajX2o3"
+        "name": "Surrender Yourself",
+        "url": "https://open.spotify.com/album/1bRFR71dDq9KA6tjnKJo6u"
       },
       "artists": [
         {
-          "name": "Koreless",
-          "url": "https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA"
+          "name": "Lawrence Hart",
+          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
         }
       ],
-      "duration_ms": 355061,
-      "name": "Seven",
-      "url": "https://open.spotify.com/track/66cGEca0mM1syYeB0jIKci"
+      "duration_ms": 347413,
+      "name": "Surrender Yourself",
+      "url": "https://open.spotify.com/track/0RZ5bH3jU33OtO1PAhfXh5"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -2363,6 +2331,38 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
+        "name": "Seven",
+        "url": "https://open.spotify.com/album/2DfpchZyQ3r7kLgSajX2o3"
+      },
+      "artists": [
+        {
+          "name": "Koreless",
+          "url": "https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA"
+        }
+      ],
+      "duration_ms": 355061,
+      "name": "Seven",
+      "url": "https://open.spotify.com/track/66cGEca0mM1syYeB0jIKci"
+    },
+    {
+      "added_at": "2024-07-12 17:00:59",
+      "album": {
+        "name": "Statik",
+        "url": "https://open.spotify.com/album/7pkufIE73xUXW2A8qqXsid"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        }
+      ],
+      "duration_ms": 334589,
+      "name": "Ray",
+      "url": "https://open.spotify.com/track/0Hh09VwsjC67FlO12frFuU"
+    },
+    {
+      "added_at": "2024-07-12 17:00:59",
+      "album": {
         "name": "Tessellations",
         "url": "https://open.spotify.com/album/6YCaCzDfVKoweQNkaEmQXP"
       },
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/1Ff2oSlw18ClcWPl5TsVM1"
-      },
-      "artists": [
-        {
-          "name": "Embee",
-          "url": "https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/5epMdylltsD0tLc8TCkt9M"
-    },
-    {
-      "added_at": "2024-07-12 17:00:59",
-      "album": {
         "name": "STUDY: Buttercream Bookworm",
         "url": "https://open.spotify.com/album/2ERWcZjYH3rvHaU7SBo4uw"
       },
@@ -2415,18 +2399,18 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
-        "name": "the family we find",
-        "url": "https://open.spotify.com/album/67zHY0h8gHftAP9SruFsEK"
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1Ff2oSlw18ClcWPl5TsVM1"
       },
       "artists": [
         {
-          "name": "Leaving Laurel",
-          "url": "https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t"
+          "name": "Embee",
+          "url": "https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF"
         }
       ],
-      "duration_ms": 297009,
-      "name": "the family we find",
-      "url": "https://open.spotify.com/track/4mRizEvssoz0Gyjey3igaJ"
+      "duration_ms": 170666,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/5epMdylltsD0tLc8TCkt9M"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -2443,6 +2427,22 @@
       "duration_ms": 227173,
       "name": "Do Androids Dream Part 3 - Original Mix",
       "url": "https://open.spotify.com/track/11zgbmLoSt0Yd48x13KCPn"
+    },
+    {
+      "added_at": "2024-07-12 17:00:59",
+      "album": {
+        "name": "wherever you end up",
+        "url": "https://open.spotify.com/album/1tfclMy22yk1IeCrwb5LIn"
+      },
+      "artists": [
+        {
+          "name": "dj poolboi",
+          "url": "https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ"
+        }
+      ],
+      "duration_ms": 148150,
+      "name": "wherever you end up",
+      "url": "https://open.spotify.com/track/7LLL33wfg5jS9ApaUCK0YO"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -2467,38 +2467,18 @@
     {
       "added_at": "2024-07-12 17:00:59",
       "album": {
-        "name": "wherever you end up",
-        "url": "https://open.spotify.com/album/1tfclMy22yk1IeCrwb5LIn"
+        "name": "the family we find",
+        "url": "https://open.spotify.com/album/67zHY0h8gHftAP9SruFsEK"
       },
       "artists": [
         {
-          "name": "dj poolboi",
-          "url": "https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ"
+          "name": "Leaving Laurel",
+          "url": "https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t"
         }
       ],
-      "duration_ms": 148150,
-      "name": "wherever you end up",
-      "url": "https://open.spotify.com/track/7LLL33wfg5jS9ApaUCK0YO"
-    },
-    {
-      "added_at": "2024-07-12 17:00:59",
-      "album": {
-        "name": "Juno (Remixes)",
-        "url": "https://open.spotify.com/album/6cJZO8hsPb3cnTHO2L0Y8C"
-      },
-      "artists": [
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
-        },
-        {
-          "name": "Aparde",
-          "url": "https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS"
-        }
-      ],
-      "duration_ms": 279600,
-      "name": "Merlins Head - Aparde Remix",
-      "url": "https://open.spotify.com/track/6P34heTQ18iaF6sKWCa8TW"
+      "duration_ms": 297009,
+      "name": "the family we find",
+      "url": "https://open.spotify.com/track/4mRizEvssoz0Gyjey3igaJ"
     },
     {
       "added_at": "2024-07-12 17:00:59",
@@ -2531,6 +2511,26 @@
       "duration_ms": 142759,
       "name": "Before",
       "url": "https://open.spotify.com/track/29v3pHTKuYzcCvW1Y6Dgp3"
+    },
+    {
+      "added_at": "2024-07-12 17:00:59",
+      "album": {
+        "name": "Juno (Remixes)",
+        "url": "https://open.spotify.com/album/6cJZO8hsPb3cnTHO2L0Y8C"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        },
+        {
+          "name": "Aparde",
+          "url": "https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS"
+        }
+      ],
+      "duration_ms": 279600,
+      "name": "Merlins Head - Aparde Remix",
+      "url": "https://open.spotify.com/track/6P34heTQ18iaF6sKWCa8TW"
     },
     {
       "added_at": "2024-07-12 17:00:59",

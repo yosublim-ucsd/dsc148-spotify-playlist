@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Podcasts que necesitas tener en el RADAR. En la portada: <a href=\"https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf?si=6a965904f3154f5c\">Chisme Corporativo</a>",
+  "description": "Podcasts que necesitas tener en el RADAR. En la portada: <a href=\"https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ?si=aee7681de4dd411e\">Casos de la Risa Real</a>",
   "name": "RADAR Podcasters M\u00e9xico",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 4335072,
       "name": "14. OnlyFans: La revoluci\u00f3n del contenido XXX",
       "url": "https://open.spotify.com/episode/47ZDLi2R623z0wNMaa5twZ"
@@ -34,10 +34,46 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 4043546,
       "name": "15. NETFLIX: Innovaci\u00f3n, Supervivencia y \u00c9xito",
       "url": "https://open.spotify.com/episode/4k77uaFBqWvSZTvpzXIm6T"
+    },
+    {
+      "album": {
+        "name": "Chisme Corporativo",
+        "url": "https://open.spotify.com/album/4zeEGCXH4Au4WdokuRvJHf"
+      },
+      "artists": [
+        {
+          "name": "Chisme Corporativo",
+          "url": "https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4283062,
+      "name": "18. COSTCO: El 3er retailer m\u00e1s grande del mundo",
+      "url": "https://open.spotify.com/episode/3JvF2wUwZXz8D6GPn9TKqW"
+    },
+    {
+      "album": {
+        "name": "Chisme Corporativo",
+        "url": "https://open.spotify.com/album/4zeEGCXH4Au4WdokuRvJHf"
+      },
+      "artists": [
+        {
+          "name": "Chisme Corporativo",
+          "url": "https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5361580,
+      "name": "19. Airbnb: El crecimiento imparable de la compa\u00f1\u00eda de alojamiento m\u00e1s grande del mundo",
+      "url": "https://open.spotify.com/episode/0vxqB3OihNVJMPIhROiEwV"
     },
     {
       "album": {
@@ -56,6 +92,24 @@
       "duration_ms": 3431888,
       "name": "ACEPTARME O RESIGNARME",
       "url": "https://open.spotify.com/episode/7B8geGNxZtjPXEiZvkgPkE"
+    },
+    {
+      "album": {
+        "name": "Se Regalan Sustos",
+        "url": "https://open.spotify.com/album/3oHILWpLvqwNMCFDLI6kTb"
+      },
+      "artists": [
+        {
+          "name": "Se Regalan Sustos",
+          "url": "https://open.spotify.com/show/3oHILWpLvqwNMCFDLI6kTb"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3656537,
+      "name": "Amarres de brujer\u00eda y maldiciones de parejas ",
+      "url": "https://open.spotify.com/episode/613uB61F6Iuh0gBPtQzjc6"
     },
     {
       "album": {
@@ -106,7 +160,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 4175908,
       "name": "Cap\u00edtulo 16: Fantasmas en escuelas",
       "url": "https://open.spotify.com/episode/7f43c6gsbvdKP1iTCtwUJ4"
@@ -124,10 +178,46 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 3800581,
       "name": "Cap\u00edtulo 17: Cruda",
       "url": "https://open.spotify.com/episode/60s6JaajXpdIAumKX9dwjW"
+    },
+    {
+      "album": {
+        "name": "Casos de la Risa Real",
+        "url": "https://open.spotify.com/album/1oqmfEuvybQ41YrSbPgEhZ"
+      },
+      "artists": [
+        {
+          "name": "Casos de la Risa Real",
+          "url": "https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5520848,
+      "name": "Cap\u00edtulo 20: Asaltos",
+      "url": "https://open.spotify.com/episode/2BoJYQUWLZ3VcoSWFsAg5I"
+    },
+    {
+      "album": {
+        "name": "Casos de la Risa Real",
+        "url": "https://open.spotify.com/album/1oqmfEuvybQ41YrSbPgEhZ"
+      },
+      "artists": [
+        {
+          "name": "Casos de la Risa Real",
+          "url": "https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4425926,
+      "name": "Cap\u00edtulo 21: Zool\u00f3gicos",
+      "url": "https://open.spotify.com/episode/7jLwJUwlqQdfsnv2NWKyGp"
     },
     {
       "album": {
@@ -268,7 +358,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 3950016,
       "name": "Episodio 096 / Quejitas dosmileras",
       "url": "https://open.spotify.com/episode/7y890MjTLIv5LymrE3T7yT"
@@ -286,10 +376,46 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 3990016,
       "name": "Episodio 097 / Embruj\u00e9 a mi pareja",
       "url": "https://open.spotify.com/episode/0qAWa06rBOlExTGtsDzZrM"
+    },
+    {
+      "album": {
+        "name": "Buz\u00f3n de quejas",
+        "url": "https://open.spotify.com/album/08gpvHpEXuLEI9mqoIfDPa"
+      },
+      "artists": [
+        {
+          "name": "Buz\u00f3n de quejas",
+          "url": "https://open.spotify.com/show/08gpvHpEXuLEI9mqoIfDPa"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4020010,
+      "name": "Episodio 105 / Rob\u00e9 al ratero",
+      "url": "https://open.spotify.com/episode/6P3waH9Bb7VnUpKqH1boPM"
+    },
+    {
+      "album": {
+        "name": "Buz\u00f3n de quejas",
+        "url": "https://open.spotify.com/album/08gpvHpEXuLEI9mqoIfDPa"
+      },
+      "artists": [
+        {
+          "name": "Buz\u00f3n de quejas",
+          "url": "https://open.spotify.com/show/08gpvHpEXuLEI9mqoIfDPa"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4340010,
+      "name": "Episodio 106 / Quejitas de hacer el super",
+      "url": "https://open.spotify.com/episode/5fRMYaAZAPzikhv8ZEp9NX"
     },
     {
       "album": {
@@ -338,6 +464,24 @@
           "url": "https://open.spotify.com/show/3oHILWpLvqwNMCFDLI6kTb"
         }
       ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5514134,
+      "name": "La Maldici\u00f3n de la Suegra, Intent\u00f3 Acabar con su propio Nieto FT Fepo",
+      "url": "https://open.spotify.com/episode/3TL14025u9YgGWOoYxBj2m"
+    },
+    {
+      "album": {
+        "name": "Se Regalan Sustos",
+        "url": "https://open.spotify.com/album/3oHILWpLvqwNMCFDLI6kTb"
+      },
+      "artists": [
+        {
+          "name": "Se Regalan Sustos",
+          "url": "https://open.spotify.com/show/3oHILWpLvqwNMCFDLI6kTb"
+        }
+      ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
       "date_removed": "2024-07-03",
@@ -358,7 +502,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 5487360,
       "name": "Los Pap\u00e1s m\u00e1s Siniestros de la Internet | Especial D\u00eda del Padre",
       "url": "https://open.spotify.com/episode/6yKXiLUiydYQmVdcOhvT6P"
@@ -412,7 +556,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 4941738,
       "name": "Practicas Paranormales y Mi Experiencia con el Catolicismo Ft Mariana Maus",
       "url": "https://open.spotify.com/episode/6kFZV8QvIW750mUbYRftSc"
@@ -538,7 +682,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 4655448,
       "name": "T3 I EP.2 I RETOS I FT. TEO ",
       "url": "https://open.spotify.com/episode/6GzweweyNX4mwBLcd3salZ"
@@ -556,10 +700,46 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 4206840,
       "name": "T3 I EP.3 I LO JAM\u00c1S CONTADO",
       "url": "https://open.spotify.com/episode/3jkAmmA86Ibl8LVqSDMVyi"
+    },
+    {
+      "album": {
+        "name": "Lclub Podcast",
+        "url": "https://open.spotify.com/album/1NR8RVbhxvIz5BPILejfVZ"
+      },
+      "artists": [
+        {
+          "name": "Lclub Podcast",
+          "url": "https://open.spotify.com/show/1NR8RVbhxvIz5BPILejfVZ"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4538901,
+      "name": "T3 I EP.6 I MOMENTOS LOTSO",
+      "url": "https://open.spotify.com/episode/0UqChF60P14psrqbwrebTL"
+    },
+    {
+      "album": {
+        "name": "Lclub Podcast",
+        "url": "https://open.spotify.com/album/1NR8RVbhxvIz5BPILejfVZ"
+      },
+      "artists": [
+        {
+          "name": "Lclub Podcast",
+          "url": "https://open.spotify.com/show/1NR8RVbhxvIz5BPILejfVZ"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3555328,
+      "name": "T3 I EP.7 I ADRENALINA I FT. MANUNA",
+      "url": "https://open.spotify.com/episode/2ItamVRgjNKfGkcncpFSsg"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVnX01c6gE6x"

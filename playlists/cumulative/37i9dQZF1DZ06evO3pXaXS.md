@@ -2,9 +2,9 @@
 
 ### [This Is The Police](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3pXaXS)
 
-> This is The Police\. The essential tracks, all in one playlist.
+> This Is The Police\. Les titres incontournables, réunis dans une seule et même playlist.
 
-64 songs - 4 hr 5 min
+65 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [One World \(Not Three\)](https://open.spotify.com/track/61vPMevL4UysTHUKAEbV8j) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered 2003\)](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 4:46 | 2024-06-03 | 2024-07-21 |
 | [Peanuts](https://open.spotify.com/track/7Jsli31ZTv3TI28qcXzEkE) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 3:54 | 2022-12-01 | 2024-07-22 |
 | [Reggatta De Blanc](https://open.spotify.com/track/2EEp2vTGSRDSLHWUF80EZZ) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc \(Remastered 2003\)](https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6) | 3:05 | 2022-09-19 |  |
+| [Rock And Roll Music](https://open.spotify.com/track/3rxg2m40EClckontG296I1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Super Deluxe Edition\)](https://open.spotify.com/album/4IdDVb3BntFlGHKrFA5sea) | 1:55 | 2024-08-01 |  |
 | [Roxanne](https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 3:11 | 2022-09-17 |  |
 | [Secret Journey](https://open.spotify.com/track/1klFQ3R5AN86f0moMUdSYS) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered 2003\)](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 3:33 | 2022-09-17 |  |
 | [Shadows In The Rain](https://open.spotify.com/track/5oC43QkhoMplHxrlAK0wBW) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Zenyatta Mondatta \(Remastered 2003\)](https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ) | 5:02 | 2024-05-14 | 2024-07-18 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:4nVa6XlBFlIkF6msW57PHp\">Hanumankind</a>\n",
+  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:5Gsj3FkPmxWlrvS79SWDCF\">C Stunna</a>\n",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -6853,6 +6853,24 @@
     },
     {
       "album": {
+        "name": "Still Stuntin",
+        "url": "https://open.spotify.com/album/52QL2dmfC7a39FpAtZBE6u"
+      },
+      "artists": [
+        {
+          "name": "C Stunna",
+          "url": "https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130450,
+      "name": "Draymond Green",
+      "url": "https://open.spotify.com/track/62cW2UIA6FE6ZJpjALlcAz"
+    },
+    {
+      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/64NMWyav09WLCvDw0vDK3a"
       },
@@ -7386,6 +7404,28 @@
       "duration_ms": 116470,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/50xNbQVtCz0GY10WBlc45l"
+    },
+    {
+      "album": {
+        "name": "Right or Wrong",
+        "url": "https://open.spotify.com/album/1LynotNCLC2Q1g08KQX9TC"
+      },
+      "artists": [
+        {
+          "name": "RW 5ive",
+          "url": "https://open.spotify.com/artist/10EeD8ckn8gnq59j5oR0yb"
+        },
+        {
+          "name": "Lil Joc",
+          "url": "https://open.spotify.com/artist/1ZjFjZcPidokRavUYyltIo"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "everybody",
+      "url": "https://open.spotify.com/track/4BfPAZUK2bUT0dCbNiZoAk"
     },
     {
       "album": {
@@ -8276,7 +8316,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 255975,
       "name": "FOOD 4 THOUGHT",
       "url": "https://open.spotify.com/track/4S5rUj24T7gJsddQIKd4gy"
@@ -9104,6 +9144,24 @@
       "duration_ms": 150909,
       "name": "Ghetto",
       "url": "https://open.spotify.com/track/0QVk6PwSRUvEd69ySUgISU"
+    },
+    {
+      "album": {
+        "name": "Undefeated",
+        "url": "https://open.spotify.com/album/7DBO9QIDQD3utcWqHyu2uy"
+      },
+      "artists": [
+        {
+          "name": "Eddie Valero",
+          "url": "https://open.spotify.com/artist/36D0kxl3fMPvw8tK0SoSKS"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149635,
+      "name": "Ghostface",
+      "url": "https://open.spotify.com/track/6BZ5oaLZ59lTunXWXTTUCN"
     },
     {
       "album": {
@@ -10459,6 +10517,28 @@
     },
     {
       "album": {
+        "name": "L.Aliens",
+        "url": "https://open.spotify.com/album/4H42hGgLs7OhNWndTB2dfi"
+      },
+      "artists": [
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        },
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232835,
+      "name": "House Party (feat. WESTSIDE BOOGIE)",
+      "url": "https://open.spotify.com/track/2H3xAIQJ3AWsfPHH93rmSa"
+    },
+    {
+      "album": {
         "name": "Houston",
         "url": "https://open.spotify.com/album/74CvpjIheYmmwEqHO9b7kV"
       },
@@ -11708,7 +11788,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 142124,
       "name": "just try",
       "url": "https://open.spotify.com/track/7jORUeegIZZKj6v1LPcsDQ"
@@ -11744,7 +11824,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 178981,
       "name": "Katana",
       "url": "https://open.spotify.com/track/4IDVtE6XNoPicVq3b58pep"
@@ -13515,6 +13595,24 @@
     },
     {
       "album": {
+        "name": "Low Threshold",
+        "url": "https://open.spotify.com/album/0oVywVbsr6kOzNGouOROiR"
+      },
+      "artists": [
+        {
+          "name": "Navy Blue",
+          "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139963,
+      "name": "Low Threshold",
+      "url": "https://open.spotify.com/track/6O5jpdYModeTkJJxn5d6Z9"
+    },
+    {
+      "album": {
         "name": "Luck You",
         "url": "https://open.spotify.com/album/2FnOcq6uUbcQaedphbBzO7"
       },
@@ -13956,7 +14054,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 279528,
       "name": "MANTO",
       "url": "https://open.spotify.com/track/7Gu0awrdJUvfRNDoXIIAMF"
@@ -18463,6 +18561,24 @@
     },
     {
       "album": {
+        "name": "Rag\u00f9",
+        "url": "https://open.spotify.com/album/6ZdZbpvsuwjraZ1lgxdh5P"
+      },
+      "artists": [
+        {
+          "name": "Langston Bristol",
+          "url": "https://open.spotify.com/artist/06gQAoURCBTZrRk850fP16"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136767,
+      "name": "Rag\u00f9",
+      "url": "https://open.spotify.com/track/7aUVgyMYfSJGToawDJEScM"
+    },
+    {
+      "album": {
         "name": "Rainy Day In Hollywood",
         "url": "https://open.spotify.com/album/2DPM8FitI45AKMyTLtLalG"
       },
@@ -18672,7 +18788,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 160880,
       "name": "Red Soda",
       "url": "https://open.spotify.com/track/4JA60FXjZSWPh43tMeo7cZ"
@@ -19080,6 +19196,32 @@
       "duration_ms": 147692,
       "name": "ROBINHOOD",
       "url": "https://open.spotify.com/track/7l6lKwJH1FRfR8MimLfymI"
+    },
+    {
+      "album": {
+        "name": "Jwet",
+        "url": "https://open.spotify.com/album/6waqAeuUtwseyNljV6xRGA"
+      },
+      "artists": [
+        {
+          "name": "Van Buren Records",
+          "url": "https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj"
+        },
+        {
+          "name": "ET",
+          "url": "https://open.spotify.com/artist/4kIIiurtO0dbNOffyNpbAi"
+        },
+        {
+          "name": "invada",
+          "url": "https://open.spotify.com/artist/3FBvF7C8P5IztMR7Mbxc3X"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108968,
+      "name": "Rock Music",
+      "url": "https://open.spotify.com/track/6vR959otNtVQHRcdGhQLBB"
     },
     {
       "album": {
@@ -19642,7 +19784,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 155193,
       "name": "Say Yes (feat. Hunxho)",
       "url": "https://open.spotify.com/track/4sBa5JbT61tNRZfDPJht5f"
@@ -21672,7 +21814,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 175676,
       "name": "sunflower",
       "url": "https://open.spotify.com/track/61qm1E6dcMLm9CUNf03ik0"
@@ -21982,6 +22124,24 @@
       "duration_ms": 148994,
       "name": "TAKE TIME FOR MYSELF",
       "url": "https://open.spotify.com/track/483fOSKLspJj5Lk7X7EKt8"
+    },
+    {
+      "album": {
+        "name": "TAKE U DEA",
+        "url": "https://open.spotify.com/album/4wviLmt15qCqmisiS3iVZ4"
+      },
+      "artists": [
+        {
+          "name": "SALIMATA",
+          "url": "https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "TAKE U DEA",
+      "url": "https://open.spotify.com/track/2yIZKdJRTyHHS8E0B3lyNn"
     },
     {
       "album": {
@@ -25880,7 +26040,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 108837,
       "name": "Zoned Out",
       "url": "https://open.spotify.com/track/60O6renwTsjzUuxl9K1oi6"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Ice Spice, Post Malone, Aqyila, Halsey and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,276 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,298 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 42 | [Guilty](https://open.spotify.com/track/6m1J8D9SGvfOxpA3RC3bD6) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Guilty](https://open.spotify.com/album/7LuYrvLkdzxHarZHNFLvYq) | 2:51 |
 | 43 | [Fifty Bop](https://open.spotify.com/track/3c84kdRlOHHe6xFv1XEJsO) | [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC) | [The Eternal Now](https://open.spotify.com/album/6nFkw5CEZ1aCwCKO7m2Dqh) | 2:32 |
 | 44 | [LIFESTYLE](https://open.spotify.com/track/50v9IKJoA8b1Qqx7wwdZzf) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [LIFESTYLE](https://open.spotify.com/album/7MQy2VfgrtsZz4hXvsQOz4) | 2:51 |
-| 45 | [Life Size](https://open.spotify.com/track/2MktD7t0SE7FOeVWSdoEGX) | [Mahalia](https://open.spotify.com/artist/6mU3WkvcWgHoNG5OlLdsOz), [Take A Daytrip](https://open.spotify.com/artist/4djKrdEueYr8atAhknG6vt) | [Life Size](https://open.spotify.com/album/46OasNzqh720kxVoXB7YMC) | 2:31 |
+| 45 | [Life Size](https://open.spotify.com/track/2MktD7t0SE7FOeVWSdoEGX) | [Mahalia](https://open.spotify.com/artist/6mU3WkvcWgHoNG5OlLdsOz), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [Life Size](https://open.spotify.com/album/46OasNzqh720kxVoXB7YMC) | 2:31 |
 | 46 | [Alimony](https://open.spotify.com/track/7Lkb8cyy1iLuLCUhfMOpJJ) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Alimony](https://open.spotify.com/album/75PVKU0GHALIqPZ92fpTvf) | 3:15 |
-| 47 | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/track/7aDvC7UzTZ47Hx5jJUX1sJ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [JT](https://open.spotify.com/artist/4cybvZ3pcSdD2xNFhIzrkk) | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/album/2wJwaumR3Y8PCM01JgJqSj) | 3:00 |
+| 47 | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/track/7aDvC7UzTZ47Hx5jJUX1sJ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/album/2wJwaumR3Y8PCM01JgJqSj) | 3:00 |
 | 48 | [MET GALA BLOW!](https://open.spotify.com/track/1qiY1H3ul2hqp7Qt1CHU4M) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [See You When I See You...](https://open.spotify.com/album/7aRJGPbG0SFq32II2YBk7L) | 2:43 |
 | 49 | [No One Else Like Me](https://open.spotify.com/track/5XlMj49P3jjmXpAdVGOLyW) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Made by These Moments](https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe) | 4:17 |
 | 50 | [Gold Mine](https://open.spotify.com/track/5lYSnVlaBoMTjCcyOisuul) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Gold Mine](https://open.spotify.com/album/3sbWLPR57oRvmo1DgJNpi0) | 2:58 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 91 | [Dig Your Man](https://open.spotify.com/track/0I2wfSfWHOu5vn1LyPN67P) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Dig Your Man](https://open.spotify.com/album/7rKNpL7tkiKJmCklMkzvSA) | 3:03 |
 | 92 | [Say It](https://open.spotify.com/track/4ECElyra9QYGTPM1qXkbcc) | [Sophia Fracassi](https://open.spotify.com/artist/7MPa3OSyGyLNq9CedDr2LT) | [Say It](https://open.spotify.com/album/44Se2VyCILahLn7Lqaq4wX) | 2:59 |
 | 93 | [Bending Over Backwards](https://open.spotify.com/track/4HyPn4ut2n0c4w8IrUc3Ix) | [Bria Salmena](https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8) | [Bending Over Backwards](https://open.spotify.com/album/5wwzWtVWGhtKrI4mWwxu67) | 3:55 |
-| 94 | [Corazón](https://open.spotify.com/track/5ePlrWLaehge6VpooLOiwt) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Corazón](https://open.spotify.com/album/4217Ui5bxrqSH3vuGrT20q) | 3:00 |
+| 94 | [Corazón / Death by Disco Pt 2](https://open.spotify.com/track/5ePlrWLaehge6VpooLOiwt) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Corazón / Death by Disco Pt 2](https://open.spotify.com/album/4217Ui5bxrqSH3vuGrT20q) | 3:00 |
 | 95 | [I Am \(I Was\)](https://open.spotify.com/track/5UDWdCGRYjjvJ7MB13mES0) | [Crack Cloud](https://open.spotify.com/artist/10butpS2A0V5nRIu2YDrKI) | [Red Mile](https://open.spotify.com/album/6VD4YOtrGNaVfGoIetOqHb) | 5:34 |
 | 96 | [SEXY LUV](https://open.spotify.com/track/6McXDJGycK8EAS0d0QXI1D) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [SEXY LUV](https://open.spotify.com/album/3VKmqN6BtdOFiWbxkXFMLp) | 2:29 |
 | 97 | [Long Dark Night](https://open.spotify.com/track/3geRAOC9ZYJQxA1f2RZrYC) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Long Dark Night](https://open.spotify.com/album/692UfApwZN5hJ7rRIfcSde) | 3:33 |

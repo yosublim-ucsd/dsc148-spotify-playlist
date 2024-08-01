@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 
 > ¡Muévete al ritmo de las Cumbias! <br/>Cover: Nicki Nicole
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,261 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,268 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 84 | [Amores Como el Nuestro](https://open.spotify.com/track/5B5ESVyQywgJI0kD0gUlHJ) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9), [Flor De Cumbia](https://open.spotify.com/artist/0vU2vjB0JnqPkuYV7zkYtW) | [Amores Como el Nuestro](https://open.spotify.com/album/1676169Nezgo33tdsUOdIe) | 3:19 |
 | 85 | [Cumbia Del Clavi](https://open.spotify.com/track/7H5t2fboweenWJMXeNGRVu) | [Los Morales](https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h), [El Clavijas](https://open.spotify.com/artist/10t2ZueXTVRNzyjd7tOXTQ) | [Cumbia Del Clavi](https://open.spotify.com/album/4ICPECk52pvNK0J0nvVPYY) | 2:49 |
 | 86 | [Me Aceptaste \- En Vivo](https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [JJ Araujo](https://open.spotify.com/artist/0DupYCzJV3DYvyPKpDzNAU) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 2:08 |
-| 87 | [Tengo Que Hablarte](https://open.spotify.com/track/0vWv9I3D4ZI0lTXDIQptaY) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Tengo Que Hablarte](https://open.spotify.com/album/0I2iHPYstFqHAdPOZt3Z9J) | 2:25 |
-| 88 | [Pedazo de papel](https://open.spotify.com/track/7wfkddz9GOQwhp4XpnCbUs) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Pedazo de papel](https://open.spotify.com/album/1HfXPWyVeJyUfE6Wi9ILCa) | 3:56 |
+| 87 | [Pedazo de papel](https://open.spotify.com/track/7wfkddz9GOQwhp4XpnCbUs) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Pedazo de papel](https://open.spotify.com/album/1HfXPWyVeJyUfE6Wi9ILCa) | 3:56 |
+| 88 | [Tengo Que Hablarte](https://open.spotify.com/track/0vWv9I3D4ZI0lTXDIQptaY) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Tengo Que Hablarte](https://open.spotify.com/album/0I2iHPYstFqHAdPOZt3Z9J) | 2:25 |
 | 89 | [LADRONA \- con Mario Luis](https://open.spotify.com/track/1D48FEMp0AvOBfiveK8M4R) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [LADRONA \- con Mario Luis](https://open.spotify.com/album/4YosCnSnhwNbaHthn1bk93) | 2:57 |
 | 90 | [Quiero Volar](https://open.spotify.com/track/4KjYJXjnkHfEtJtSNUX2CO) | [Jorge Meza Y Su Tropi Colombia](https://open.spotify.com/artist/745IcJOBUvnbNsDKAMyUVa) | [25 Exitos De Oro](https://open.spotify.com/album/4Jdm5lcAdUPVswN57HShNy) | 4:46 |
 | 91 | [EL AMOR DE SU VIDA](https://open.spotify.com/track/435g6uM0Atz3MyYwafHEss) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 2:45 |

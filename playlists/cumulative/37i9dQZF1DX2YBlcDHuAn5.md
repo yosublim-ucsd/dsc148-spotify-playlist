@@ -4,12 +4,13 @@
 
 > De mooiste muziek: Americana \| Country
 
-152 songs - 9 hr 14 min
+153 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All Good](https://open.spotify.com/track/51imPDYWGqCNEA94TsBHhS) | [Tip Jar](https://open.spotify.com/artist/0efqZTMypVgrLzEb7syIOT) | [All Good](https://open.spotify.com/album/5FWV48bFKI7v4vWEPN7x2t) | 3:06 | 2024-07-25 |  |
 | [All The Good Times](https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:36 | 2023-02-23 | 2024-04-19 |
+| [Angel By My Side](https://open.spotify.com/track/6FLRq82j1YsKLOQb2XU7g6) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Angel By My Side](https://open.spotify.com/album/4wFPcdUu0pljx0iDtvaPOz) | 3:15 | 2024-07-31 |  |
 | [Anybody Else But Me](https://open.spotify.com/track/6bO44ywoBjbe2XeI1lgTm5) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl) | [Anybody Else But Me](https://open.spotify.com/album/4rWkiDyXhDqN2Lm1Zg08sv) | 3:31 | 2024-03-07 | 2024-05-12 |
 | [Aphrodite](https://open.spotify.com/track/6noeTONJnM5NukhaQYsqDQ) | [Donna Blue](https://open.spotify.com/artist/2p3WhDRwfMseVi8f04ODpd) | [Aphrodite](https://open.spotify.com/album/4Z9VwS2ksXpFBdn5pSxfoQ) | 3:18 | 2024-02-01 | 2024-07-27 |
 | [Babe I'm Gonna Leave You \- Extended Version](https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Babe I'm Gonna Leave You \(Extended Version\)](https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL) | 4:54 | 2023-02-23 |  |
@@ -123,7 +124,7 @@
 | [Sugah Rush](https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Sugah Rush](https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm) | 2:40 | 2023-09-29 |  |
 | [Sunday Mornin' Opry](https://open.spotify.com/track/6Jfb3uNm1yt6emEGQAewJI) | [Robert Weston](https://open.spotify.com/artist/5ZOFiP5vFptuf3R28i8IxY) | [Sunday Mornin' Opry](https://open.spotify.com/album/6FzbHSdMrzVR0o6C1GN5Rp) | 3:22 | 2023-11-09 | 2024-03-13 |
 | [Sunrise](https://open.spotify.com/track/4sf3h7pItFhKub8I57Tl04) | [The Golden Glows](https://open.spotify.com/artist/5CMKkypfO8LrvYHEoTment) | [Sunrise](https://open.spotify.com/album/2m4JpjrTwYc9qGASbsbrJT) | 3:27 | 2023-09-07 | 2023-11-06 |
-| [Sweet Sweet Honey](https://open.spotify.com/track/7Ar25ZQBS3no4k5X0hGrcP) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Sweet Sweet Honey](https://open.spotify.com/album/4K1XPMLh8ixfLJ00FgyvFj) | 2:37 | 2023-10-05 |  |
+| [Sweet Sweet Honey](https://open.spotify.com/track/7Ar25ZQBS3no4k5X0hGrcP) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Sweet Sweet Honey](https://open.spotify.com/album/4K1XPMLh8ixfLJ00FgyvFj) | 2:37 | 2023-10-05 | 2024-08-01 |
 | [Sweet Symphony \(with Chris Stapleton\)](https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Sweet Symphony](https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7) | 3:48 | 2023-02-23 | 2024-06-28 |
 | [Take A Ride](https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN) | [Sam Saxton](https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04) | [Take A Ride](https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q) | 3:33 | 2023-02-23 |  |
 | [The Ballad of Lisa Marie Montgomery](https://open.spotify.com/track/1PDGJwXHeE6cMQaZjLXNTX) | [Jasper Schalks](https://open.spotify.com/artist/1rVfa0RepB2c2WIQeaetbL) | [The Ballad of Lisa Marie Montgomery](https://open.spotify.com/album/0Ccia2X6qrLwws03GhJNvK) | 5:58 | 2023-06-22 | 2023-06-30 |

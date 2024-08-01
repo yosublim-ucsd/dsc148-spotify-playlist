@@ -4,7 +4,7 @@
 
 > De beste Nederlandse liedjes\. Cover: Roxy Dekker
 
-272 songs - 14 hr 11 min
+273 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [100 SMSjes](https://open.spotify.com/track/4MA4LxSsJRbj4axg1uTi2n) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [100 SMSjes](https://open.spotify.com/album/1HmekW64bQZwKdjXqxhSmG) | 2:31 | 2023-02-24 | 2024-02-14 |
 | [1234](https://open.spotify.com/track/0ZcTWDFmCidCFw4pPr7ekO) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [De Tijd Gaat Mooie Dingen Doen](https://open.spotify.com/album/6myczO3dCuLnjSoUS6yOfY) | 2:36 | 2024-02-13 | 2024-07-10 |
 | [17](https://open.spotify.com/track/2jCIZqFN87ZEp8wcLL4g9V) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [17](https://open.spotify.com/album/3boWcgeAND5yZTVMtBT5i7) | 2:42 | 2023-12-21 | 2024-04-19 |
-| [17](https://open.spotify.com/track/6Xd7Hqo1E5jnX5GtEt53xi) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [17](https://open.spotify.com/album/70RE2v6ce8EB3CajsAzv2c) | 2:42 | 2024-04-16 |  |
+| [17](https://open.spotify.com/track/6Xd7Hqo1E5jnX5GtEt53xi) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [17](https://open.spotify.com/album/70RE2v6ce8EB3CajsAzv2c) | 2:42 | 2024-04-16 | 2024-08-01 |
 | [17 Miljoen Mensen \- Live @538 in Ahoy](https://open.spotify.com/track/7e42rjxCt8tPjglU9VyBcz) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [17 Miljoen Mensen \(Live @538 in Ahoy\)](https://open.spotify.com/album/5yEomRiNf4W4hXsNiuZVIX) | 1:47 | 2023-02-24 | 2023-06-15 |
 | [22](https://open.spotify.com/track/5JCqQhNm1yk64c8mumKn1a) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [22](https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC) | 2:53 | 2023-06-14 | 2024-02-16 |
 | [Achterop](https://open.spotify.com/track/5JtmyVfB56KjesfcJlIQAA) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS) | [Achterop](https://open.spotify.com/album/2tgx3JQhnAX4QbyBKki3fT) | 2:40 | 2023-02-24 | 2023-11-11 |
@@ -123,6 +123,7 @@
 | [Hurt Me](https://open.spotify.com/track/2rkf3F19As1KUykfS45TQv) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Hurt Me](https://open.spotify.com/album/36Wlc2fxWoilGfYwd7SaC4) | 3:05 | 2024-07-25 |  |
 | [Hypnose](https://open.spotify.com/track/4qghq0qfx432ZSTF7DhUPT) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Hypnose](https://open.spotify.com/album/3SyrnhZBklWC6wMamSxfQF) | 2:32 | 2023-09-21 | 2023-12-11 |
 | [I Do](https://open.spotify.com/track/0QTI2S5oOheSLU8WQuGmja) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Beste Zangers 2023 \(Duncan Laurence\)](https://open.spotify.com/album/7d9Z8E52D6So8lzxJQ67y3) | 2:51 | 2023-09-28 | 2024-02-08 |
+| [I SAID NO SIR](https://open.spotify.com/track/22UKbVtcfHOaGpCceEpTgi) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [I SAID NO SIR](https://open.spotify.com/album/7dXJI3nbNQJG0zRHPzc4qg) | 3:03 | 2024-07-31 |  |
 | [Iemand Anders](https://open.spotify.com/track/00Gy9pxJXHzCoRwXi5CUeJ) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Iemand Anders](https://open.spotify.com/album/0Du6lXqUfjPK0DJjqKzQIL) | 3:03 | 2024-02-07 | 2024-03-14 |
 | [Ik Dans Even Door](https://open.spotify.com/track/570C5OuN8T1SKL4fHzaYcD) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm), [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2022 \(Kika Aflevering\)](https://open.spotify.com/album/1nsKLut0cSDbMjlEl0BTyD) | 2:16 | 2023-02-24 | 2023-09-02 |
 | [Ik Kom Weer Thuis](https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Ik Kom Weer Thuis](https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk) | 3:03 | 2023-02-24 |  |

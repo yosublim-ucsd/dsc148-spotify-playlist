@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,746 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,795 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 50 | [The Ocean](https://open.spotify.com/track/1QEasBeUReqzE4kHXLWzny) | [AVALAN ROKSTON](https://open.spotify.com/artist/3WqiBOiSB2FlD25EX9893G), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Avalan](https://open.spotify.com/artist/13v2M5UZ3bbOCGmuvo7uFw), [Rokston](https://open.spotify.com/artist/5XWSzLJ3W6zr7Hf1XhNvPP) | [The Ocean](https://open.spotify.com/album/36oj2t9bAdWr4WCJbgM4UB) | 3:26 |
 | 51 | [MOON](https://open.spotify.com/track/0wsPWksjRwQkYofsre9rMD) | [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI), [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [MOON](https://open.spotify.com/album/77E1Q1IxMPpC96tLpXzrvy) | 3:27 |
 | 52 | [Ever Been Punched](https://open.spotify.com/track/5ImCWFZ4baU82mNbKyTxCQ) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [Ever Been Punched](https://open.spotify.com/album/4dXQcKAqasUFoPzKAF1hmg) | 2:14 |
-| 53 | [Hold On](https://open.spotify.com/track/5sizxLomyRS75lQAiZE9XQ) | [Sodame](https://open.spotify.com/artist/3VIJ6cbkj4myvA1RYaM409), [NOTSOBAD](https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ), [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp) | [Hold On](https://open.spotify.com/album/4i7dScxuRdyhZ9gAuIjrWz) | 2:36 |
+| 53 | [Hold On](https://open.spotify.com/track/5sizxLomyRS75lQAiZE9XQ) | [So Damn Easy](https://open.spotify.com/artist/0iF7EwKXn4RCeLPPPduhxO), [NOTSOBAD](https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ), [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp) | [Hold On](https://open.spotify.com/album/4i7dScxuRdyhZ9gAuIjrWz) | 2:36 |
 | 54 | [Take A Shot](https://open.spotify.com/track/4YXAytc643cMbarAELipy2) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Take A Shot](https://open.spotify.com/album/4wCHVHdCmlNmDErZGRhU5q) | 3:03 |
 | 55 | [Price Tag](https://open.spotify.com/track/0QHAH01T5MQGGBfDy8HD4A) | [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA), [NOISETIME](https://open.spotify.com/artist/0oW7WNHDC1tqLU3urqLKbC) | [Price Tag](https://open.spotify.com/album/4msZptdRtg0BKla3ykVkOT) | 2:14 |
 | 56 | [How Do You Love? \(feat\. Mougleta\)](https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Reverie](https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6) | 3:30 |

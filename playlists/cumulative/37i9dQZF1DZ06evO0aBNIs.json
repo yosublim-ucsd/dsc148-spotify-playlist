@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "This Is Avril Lavigne. Los temas esenciales, todos en una lista.",
+  "description": "This is Avril Lavigne. The essential tracks, all in one playlist.",
   "name": "This Is Avril Lavigne",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-21",
+      "date_removed": null,
       "duration_ms": 251493,
       "name": "Anything but Ordinary",
       "url": "https://open.spotify.com/track/6STHWwMa2vbr1nKArQH7hd"

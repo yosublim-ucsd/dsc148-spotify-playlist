@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25764,
+  "num_followers": 25766,
   "original_name": "NEW EDM 2024 \u26a1 EDM HITS 2024 \u26a1 MUSICA ELECTRONICA 2024",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABgSSd123valpjV/FKVuOFQRqVfS3d7",
+  "snapshot_id": "AABgS9CNBnThm2va/gS5jWAjv2wsFnJ7",
   "tracks": [
     {
       "added_at": "2024-07-25 16:41:59",
@@ -381,6 +381,22 @@
       "url": "https://open.spotify.com/track/1aBqacTN1GPoMggJCShzZM"
     },
     {
+      "added_at": "2024-07-31 19:31:52",
+      "album": {
+        "name": "Ya Asfour",
+        "url": "https://open.spotify.com/album/7kxdjB0pmeoKnkBHecujTl"
+      },
+      "artists": [
+        {
+          "name": "m00seT",
+          "url": "https://open.spotify.com/artist/5rog4USbIpk9T5O1WwyV7g"
+        }
+      ],
+      "duration_ms": 200454,
+      "name": "Ya Asfour",
+      "url": "https://open.spotify.com/track/7owU1FnKJA6K8Mcs3uHpcW"
+    },
+    {
       "added_at": "2024-07-26 12:19:20",
       "album": {
         "name": "One Night",
@@ -463,6 +479,26 @@
       "duration_ms": 253770,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7"
+    },
+    {
+      "added_at": "2024-07-31 19:31:52",
+      "album": {
+        "name": "Hide & Seek",
+        "url": "https://open.spotify.com/album/6PU4paO1TSQrzDWhq8BayY"
+      },
+      "artists": [
+        {
+          "name": "Marco Nobel",
+          "url": "https://open.spotify.com/artist/5PZS7XY3NZHDnI6g3wGyAB"
+        },
+        {
+          "name": "SUNGYOO",
+          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
+        }
+      ],
+      "duration_ms": 150840,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/6cKjxAOIX8SNzud5VAKcfo"
     },
     {
       "added_at": "2024-07-25 16:41:59",

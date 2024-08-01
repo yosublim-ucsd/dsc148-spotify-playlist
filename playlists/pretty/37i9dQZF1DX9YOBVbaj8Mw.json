@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Pokolenie Ko\u0144ca \u015awiata",
-        "url": "https://open.spotify.com/album/1AIy2wSd4TWW0CjP1ibZsp"
-      },
-      "artists": [
-        {
-          "name": "Kacperczyk",
-          "url": "https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X"
-        }
-      ],
-      "duration_ms": 168351,
-      "name": "Jakbym zjad\u0142 mentosy i popi\u0142 je col\u0105",
-      "url": "https://open.spotify.com/track/2nc3VYvWHGckELkcmzssWa"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Some Old Songs",
         "url": "https://open.spotify.com/album/4pi2SfwEVD3fDgBcCcKMee"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 206415,
       "name": "Your Kiss",
       "url": "https://open.spotify.com/track/1iOB2whhdE8L8tspsrOQcL"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Pokolenie Ko\u0144ca \u015awiata",
+        "url": "https://open.spotify.com/album/1AIy2wSd4TWW0CjP1ibZsp"
+      },
+      "artists": [
+        {
+          "name": "Kacperczyk",
+          "url": "https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X"
+        }
+      ],
+      "duration_ms": 168351,
+      "name": "Jakbym zjad\u0142 mentosy i popi\u0142 je col\u0105",
+      "url": "https://open.spotify.com/track/2nc3VYvWHGckELkcmzssWa"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1255,6 +1255,30 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
+        "name": "COINCIDENCE",
+        "url": "https://open.spotify.com/album/0dEvwkzElOY7uyOS4nAusy"
+      },
+      "artists": [
+        {
+          "name": "Pawe\u0142 Tomaszewski",
+          "url": "https://open.spotify.com/artist/2U5CeMzclm8FsB70aHxcty"
+        },
+        {
+          "name": "Orkiestra Symfoniczna Filharmonii w Szczecinie",
+          "url": "https://open.spotify.com/artist/5IjEkWFtLiekTB9T7BVKnp"
+        },
+        {
+          "name": "Filharmonia Szczecin",
+          "url": "https://open.spotify.com/artist/09vWiQtJO8uV7v6F5FIupy"
+        }
+      ],
+      "duration_ms": 127535,
+      "name": "Coincidence - Part 1 - Prologue",
+      "url": "https://open.spotify.com/track/7mWqeujJUaztW33EGT8Pc3"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
         "name": "Dziadoskie piosenki o mi\u0142o\u015bci",
         "url": "https://open.spotify.com/album/224o8MDqjyjMcZ8NPGvwrU"
       },
@@ -1287,30 +1311,6 @@
       "duration_ms": 172000,
       "name": "IMAGO SWAN",
       "url": "https://open.spotify.com/track/1L80n5Kwmx1gCqMMJPH8wY"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
-        "name": "COINCIDENCE",
-        "url": "https://open.spotify.com/album/0dEvwkzElOY7uyOS4nAusy"
-      },
-      "artists": [
-        {
-          "name": "Pawe\u0142 Tomaszewski",
-          "url": "https://open.spotify.com/artist/2U5CeMzclm8FsB70aHxcty"
-        },
-        {
-          "name": "Orkiestra Symfoniczna Filharmonii w Szczecinie",
-          "url": "https://open.spotify.com/artist/5IjEkWFtLiekTB9T7BVKnp"
-        },
-        {
-          "name": "Filharmonia Szczecin",
-          "url": "https://open.spotify.com/artist/09vWiQtJO8uV7v6F5FIupy"
-        }
-      ],
-      "duration_ms": 127535,
-      "name": "Coincidence - Part 1 - Prologue",
-      "url": "https://open.spotify.com/track/7mWqeujJUaztW33EGT8Pc3"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "TiriTaka (Polish Jazz, Vol. 62)",
-        "url": "https://open.spotify.com/album/2nDgX64PdLDyHtOX4nEHJf"
-      },
-      "artists": [
-        {
-          "name": "Kazimierz Jonkisz Quintet",
-          "url": "https://open.spotify.com/artist/3QxJW501Ah3SdMt3w3aO22"
-        }
-      ],
-      "duration_ms": 369013,
-      "name": "Tiritaka",
-      "url": "https://open.spotify.com/track/55krx4SNu1AJ6vwrqxdpsq"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Music We Like To Dance To",
         "url": "https://open.spotify.com/album/5QMwMd6LQO5ObL7bzze6Ud"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 458733,
       "name": "Thousand Yard Stare",
       "url": "https://open.spotify.com/track/3vauEysg2vel5mIgm4ssJ2"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "TiriTaka (Polish Jazz, Vol. 62)",
+        "url": "https://open.spotify.com/album/2nDgX64PdLDyHtOX4nEHJf"
+      },
+      "artists": [
+        {
+          "name": "Kazimierz Jonkisz Quintet",
+          "url": "https://open.spotify.com/artist/3QxJW501Ah3SdMt3w3aO22"
+        }
+      ],
+      "duration_ms": 369013,
+      "name": "Tiritaka",
+      "url": "https://open.spotify.com/track/55krx4SNu1AJ6vwrqxdpsq"
     },
     {
       "added_at": "2024-03-25 08:52:09",

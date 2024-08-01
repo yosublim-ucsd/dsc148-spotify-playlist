@@ -1,47 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Hong Kong.",
-  "num_followers": 112793,
+  "num_followers": 112805,
   "original_name": "Top 50 - Hong Kong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LjxNwAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Lj2mSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-07-30 09:31:10",
-      "album": {
-        "name": "\u597d\u5f97\u592a\u904e\u4efd",
-        "url": "https://open.spotify.com/album/7ArKSf70Be8fzHxDxBHAim"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "\u597d\u5f97\u592a\u904e\u4efd",
-      "url": "https://open.spotify.com/track/1jQE96DjtfpWGjSqK6Gfnr"
-    },
-    {
-      "added_at": "2024-07-30 09:31:10",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 170887,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-      "added_at": "2024-07-30 09:31:10",
+      "added_at": "2024-07-31 09:02:26",
       "album": {
         "name": "Hey Hey OK!",
         "url": "https://open.spotify.com/album/3oLxZGJGt6R9K7GI1fuW6m"
@@ -57,7 +25,39 @@
       "url": "https://open.spotify.com/track/4pJWCkQnPeXfDyqouuBJ77"
     },
     {
-      "added_at": "2024-07-30 09:31:10",
+      "added_at": "2024-07-31 09:02:26",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
+    },
+    {
+      "added_at": "2024-07-31 09:02:26",
+      "album": {
+        "name": "\u597d\u5f97\u592a\u904e\u4efd",
+        "url": "https://open.spotify.com/album/7ArKSf70Be8fzHxDxBHAim"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "\u597d\u5f97\u592a\u904e\u4efd",
+      "url": "https://open.spotify.com/track/1jQE96DjtfpWGjSqK6Gfnr"
+    },
+    {
+      "added_at": "2024-07-31 09:02:26",
       "album": {
         "name": "\u5ca9\u5dc9",
         "url": "https://open.spotify.com/album/3TCBQ5KfzuoHIZxV3Xk2eh"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/4ja627NyIBCz7wO2dYr83g"
     },
     {
-      "added_at": "2024-07-30 09:31:10",
+      "added_at": "2024-07-31 09:02:26",
       "album": {
         "name": "\u9ed1\u6708",
         "url": "https://open.spotify.com/album/19zosC2FOPsQlNKqmOmP8X"
@@ -89,39 +89,7 @@
       "url": "https://open.spotify.com/track/60DcGRqdHMk9H3sat9bcHW"
     },
     {
-      "added_at": "2024-07-30 09:31:10",
-      "album": {
-        "name": "\u6fe4",
-        "url": "https://open.spotify.com/album/2fwUdeULjPXQyCvKdUbIoI"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 232489,
-      "name": "\u6fe4",
-      "url": "https://open.spotify.com/track/1xRMtDxiU8xxAlaDscHIoT"
-    },
-    {
-      "added_at": "2024-07-30 09:31:10",
-      "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/2xJTRjTHMPl7OkPplpvvjN"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 246143,
-      "name": "Dummy",
-      "url": "https://open.spotify.com/track/2CwGJLH5jTBlVQhMfjCc6e"
-    },
-    {
-      "added_at": "2024-07-30 09:31:10",
+      "added_at": "2024-07-31 09:02:26",
       "album": {
         "name": "\u6df1\u95a8",
         "url": "https://open.spotify.com/album/2KCTK4HgfH3dOaWiA7tTB9"
@@ -137,23 +105,23 @@
       "url": "https://open.spotify.com/track/6apc6NX2mDQ59mortxddQQ"
     },
     {
-      "added_at": "2024-07-30 09:31:10",
+      "added_at": "2024-07-31 09:02:26",
       "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
+        "name": "\u6fe4",
+        "url": "https://open.spotify.com/album/2fwUdeULjPXQyCvKdUbIoI"
       },
       "artists": [
         {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
         }
       ],
-      "duration_ms": 182293,
-      "name": "Love Me Again",
-      "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
+      "duration_ms": 232489,
+      "name": "\u6fe4",
+      "url": "https://open.spotify.com/track/1xRMtDxiU8xxAlaDscHIoT"
     },
     {
-      "added_at": "2024-07-30 09:31:10",
+      "added_at": "2024-07-31 09:02:26",
       "album": {
         "name": "\u6df1\u95a8 feat. Kelly Chen \u9673\u6167\u7433",
         "url": "https://open.spotify.com/album/3OSRx8acDQauCZ3ef1SbBo"
@@ -173,23 +141,39 @@
       "url": "https://open.spotify.com/track/10YtrR4JpndrvuI2vohpUM"
     },
     {
-      "added_at": "2024-07-30 09:31:10",
+      "added_at": "2024-07-31 09:02:26",
       "album": {
-        "name": "\u4ee5\u5b64\u7368\u547d\u540d",
-        "url": "https://open.spotify.com/album/6YuX0KTUbL6SWPx4ammv6X"
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/2xJTRjTHMPl7OkPplpvvjN"
       },
       "artists": [
         {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
         }
       ],
-      "duration_ms": 228860,
-      "name": "\u4ee5\u5b64\u7368\u547d\u540d",
-      "url": "https://open.spotify.com/track/2gQoBhLuUmJqelyTrZfkKD"
+      "duration_ms": 246143,
+      "name": "Dummy",
+      "url": "https://open.spotify.com/track/2CwGJLH5jTBlVQhMfjCc6e"
     },
     {
-      "added_at": "2024-07-30 09:31:10",
+      "added_at": "2024-07-31 09:02:26",
+      "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
+    },
+    {
+      "added_at": "2024-07-31 09:02:26",
       "album": {
         "name": "MY LIFE",
         "url": "https://open.spotify.com/album/7Cvi0ScXPo1eLJTkxdJlA9"
@@ -205,23 +189,23 @@
       "url": "https://open.spotify.com/track/5GNtunR5AJb8bVoovm8vnz"
     },
     {
-      "added_at": "2024-07-30 09:31:10",
+      "added_at": "2024-07-31 09:02:26",
       "album": {
-        "name": "FRI(END)S",
-        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
+        "name": "\u4ee5\u5b64\u7368\u547d\u540d",
+        "url": "https://open.spotify.com/album/6YuX0KTUbL6SWPx4ammv6X"
       },
       "artists": [
         {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
         }
       ],
-      "duration_ms": 148082,
-      "name": "FRI(END)S",
-      "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
+      "duration_ms": 228860,
+      "name": "\u4ee5\u5b64\u7368\u547d\u540d",
+      "url": "https://open.spotify.com/track/2gQoBhLuUmJqelyTrZfkKD"
     },
     {
-      "added_at": "2024-07-30 09:31:10",
+      "added_at": "2024-07-31 09:02:26",
       "album": {
         "name": "Dear My Friend,",
         "url": "https://open.spotify.com/album/63tXaSpdAXnGGTAR9obRz3"
@@ -237,7 +221,23 @@
       "url": "https://open.spotify.com/track/11IqNbLOD4s4nVYSuEttFR"
     },
     {
-      "added_at": "2024-07-30 09:31:10",
+      "added_at": "2024-07-31 09:02:26",
+      "album": {
+        "name": "FRI(END)S",
+        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 148082,
+      "name": "FRI(END)S",
+      "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
+    },
+    {
+      "added_at": "2024-07-31 09:02:26",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-07-30 09:31:10",
+      "added_at": "2024-07-31 09:02:26",
       "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-07-30 09:31:10",
+      "added_at": "2024-07-31 09:02:26",
       "album": {
         "name": "\u81f3\u5c11\u505a\u4e00\u4ef6\u96e2\u8b5c\u7684\u4e8b",
         "url": "https://open.spotify.com/album/4ExqABTnuhxEXKYr0MI8L6"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/2oOemghuOplk25PORF4s39"
     },
     {
-      "added_at": "2024-07-30 09:31:10",
+      "added_at": "2024-07-31 09:02:26",
       "album": {
         "name": "Thank You Postman",
         "url": "https://open.spotify.com/album/167G8Hb89AttSYPeFhTuqP"
@@ -301,7 +301,71 @@
       "url": "https://open.spotify.com/track/4o3KjIcDPZ2ReW2b94htYD"
     },
     {
-      "added_at": "2024-07-30 09:31:10",
+      "added_at": "2024-07-31 09:02:26",
+      "album": {
+        "name": "\u7dca\u6025\u806f\u7d61\u4eba",
+        "url": "https://open.spotify.com/album/1jSjHcc494JZrMD6keZ0UU"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "duration_ms": 222668,
+      "name": "\u7dca\u6025\u806f\u7d61\u4eba",
+      "url": "https://open.spotify.com/track/1sb71AvysPMJlsx4qYtTpG"
+    },
+    {
+      "added_at": "2024-07-31 09:02:26",
+      "album": {
+        "name": "Inner l Child",
+        "url": "https://open.spotify.com/album/1acqgOtA58NJJsMi7315ds"
+      },
+      "artists": [
+        {
+          "name": "Kaho Hung",
+          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
+        }
+      ],
+      "duration_ms": 219385,
+      "name": "\u9ed1\u73bb\u7483",
+      "url": "https://open.spotify.com/track/65TyCkIJtF8hDF599vCXwe"
+    },
+    {
+      "added_at": "2024-07-31 09:02:26",
+      "album": {
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 160688,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
+    },
+    {
+      "added_at": "2024-07-31 09:02:26",
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
+    },
+    {
+      "added_at": "2024-07-31 09:02:26",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -321,103 +385,7 @@
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
     },
     {
-      "added_at": "2024-07-30 09:31:10",
-      "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186365,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
-    },
-    {
-      "added_at": "2024-07-30 09:31:10",
-      "album": {
-        "name": "Inner l Child",
-        "url": "https://open.spotify.com/album/1acqgOtA58NJJsMi7315ds"
-      },
-      "artists": [
-        {
-          "name": "Kaho Hung",
-          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
-        }
-      ],
-      "duration_ms": 219385,
-      "name": "\u9ed1\u73bb\u7483",
-      "url": "https://open.spotify.com/track/65TyCkIJtF8hDF599vCXwe"
-    },
-    {
-      "added_at": "2024-07-30 09:31:10",
-      "album": {
-        "name": "\u7dca\u6025\u806f\u7d61\u4eba",
-        "url": "https://open.spotify.com/album/1jSjHcc494JZrMD6keZ0UU"
-      },
-      "artists": [
-        {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        }
-      ],
-      "duration_ms": 222668,
-      "name": "\u7dca\u6025\u806f\u7d61\u4eba",
-      "url": "https://open.spotify.com/track/1sb71AvysPMJlsx4qYtTpG"
-    },
-    {
-      "added_at": "2024-07-30 09:31:10",
-      "album": {
-        "name": "SUPER REAL ME",
-        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 160688,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
-    },
-    {
-      "added_at": "2024-07-30 09:31:10",
-      "album": {
-        "name": "\u8d81\u4f60\u65c5\u884c\u6642\u642c\u8d70",
-        "url": "https://open.spotify.com/album/7vgzAkU2PYTSsVKX71LqtH"
-      },
-      "artists": [
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
-        }
-      ],
-      "duration_ms": 235251,
-      "name": "\u8d81\u4f60\u65c5\u884c\u6642\u642c\u8d70",
-      "url": "https://open.spotify.com/track/77UfzMhwaH8Nl0LuydjrHH"
-    },
-    {
-      "added_at": "2024-07-30 09:31:10",
-      "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/4MxSuIIvLMFtfL5pwa0cJh"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 212734,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/47QP509sXnE54NwhzoMHAi"
-    },
-    {
-      "added_at": "2024-07-30 09:31:10",
+      "added_at": "2024-07-31 09:02:26",
       "album": {
         "name": "\u8ab0\u80fd\u907f\u958b\u6200\u611b\u9019\u4e8b\u60c5",
         "url": "https://open.spotify.com/album/60AGWPJFsCEY6pfPCs9B0n"
@@ -437,39 +405,39 @@
       "url": "https://open.spotify.com/track/0tKTDRnl8qagYtRuHQ1sBY"
     },
     {
-      "added_at": "2024-07-30 09:31:10",
+      "added_at": "2024-07-31 09:02:26",
       "album": {
-        "name": "TO WHOM IT MAY CONCERN",
-        "url": "https://open.spotify.com/album/3eTjNOLjVqpNBzxVTlrIkF"
+        "name": "\u8d81\u4f60\u65c5\u884c\u6642\u642c\u8d70",
+        "url": "https://open.spotify.com/album/7vgzAkU2PYTSsVKX71LqtH"
       },
       "artists": [
         {
-          "name": "Yan Ting",
-          "url": "https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q"
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
         }
       ],
-      "duration_ms": 217644,
-      "name": "\u4e09\u751f\u6709\u5e78",
-      "url": "https://open.spotify.com/track/7sKrSZ1EDBtSkCIHs6MGKh"
+      "duration_ms": 235251,
+      "name": "\u8d81\u4f60\u65c5\u884c\u6642\u642c\u8d70",
+      "url": "https://open.spotify.com/track/77UfzMhwaH8Nl0LuydjrHH"
     },
     {
-      "added_at": "2024-07-30 09:31:10",
+      "added_at": "2024-07-31 09:02:26",
       "album": {
-        "name": "Lost at first sight",
-        "url": "https://open.spotify.com/album/3PuUcAi2et3wlpngZRntA5"
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/4MxSuIIvLMFtfL5pwa0cJh"
       },
       "artists": [
         {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
         }
       ],
-      "duration_ms": 244006,
-      "name": "Lost at first sight",
-      "url": "https://open.spotify.com/track/4tejvhLkdvPYn4p90jk5QS"
+      "duration_ms": 212734,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/47QP509sXnE54NwhzoMHAi"
     },
     {
-      "added_at": "2024-07-30 09:31:10",
+      "added_at": "2024-07-31 09:02:26",
       "album": {
         "name": "ON",
         "url": "https://open.spotify.com/album/3s4zwwsOeM9KkNIglv5HLj"
@@ -485,247 +453,23 @@
       "url": "https://open.spotify.com/track/2Yccw4AWlnf8BMcD4rnlFc"
     },
     {
-      "added_at": "2024-07-30 09:31:10",
+      "added_at": "2024-07-31 09:02:26",
       "album": {
-        "name": "Let go",
-        "url": "https://open.spotify.com/album/22lJ0X3uJ53RhyaeeGzwOO"
+        "name": "TO WHOM IT MAY CONCERN",
+        "url": "https://open.spotify.com/album/3eTjNOLjVqpNBzxVTlrIkF"
       },
       "artists": [
         {
-          "name": "Nancy Kwai",
-          "url": "https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy"
+          "name": "Yan Ting",
+          "url": "https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q"
         }
       ],
-      "duration_ms": 230581,
-      "name": "Let go",
-      "url": "https://open.spotify.com/track/0VKdwugDTY088b1J84QH3e"
+      "duration_ms": 217644,
+      "name": "\u4e09\u751f\u6709\u5e78",
+      "url": "https://open.spotify.com/track/7sKrSZ1EDBtSkCIHs6MGKh"
     },
     {
-      "added_at": "2024-07-30 09:31:10",
-      "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
-    },
-    {
-      "added_at": "2024-07-30 09:31:10",
-      "album": {
-        "name": "How Sweet",
-        "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "How Sweet",
-      "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
-    },
-    {
-      "added_at": "2024-07-30 09:31:10",
-      "album": {
-        "name": "Sticky",
-        "url": "https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 157120,
-      "name": "Sticky",
-      "url": "https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO"
-    },
-    {
-      "added_at": "2024-07-30 09:31:10",
-      "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 138213,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
-    },
-    {
-      "added_at": "2024-07-30 09:31:10",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
-    },
-    {
-      "added_at": "2024-07-30 09:31:10",
-      "album": {
-        "name": "Armageddon - The 1st Album",
-        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm"
-    },
-    {
-      "added_at": "2024-07-30 09:31:10",
-      "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-      "added_at": "2024-07-30 09:31:10",
-      "album": {
-        "name": "TREBLE",
-        "url": "https://open.spotify.com/album/21ZCD2XHS74GxHvDxaXLJK"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "duration_ms": 221733,
-      "name": "\u9694\u7246\u6709\u8033",
-      "url": "https://open.spotify.com/track/4sguC2oBIqfn8WmMmReOYb"
-    },
-    {
-      "added_at": "2024-07-30 09:31:10",
-      "album": {
-        "name": "\u4ecd\u5728",
-        "url": "https://open.spotify.com/album/7kJcWoA7dZNzznm9wuSHyo"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
-        }
-      ],
-      "duration_ms": 278670,
-      "name": "\u4ecd\u5728",
-      "url": "https://open.spotify.com/track/1rPPxVHA0YWiUzxzuFlQDN"
-    },
-    {
-      "added_at": "2024-07-30 09:31:10",
-      "album": {
-        "name": "ATE",
-        "url": "https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 148051,
-      "name": "Chk Chk Boom",
-      "url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH"
-    },
-    {
-      "added_at": "2024-07-30 09:31:10",
-      "album": {
-        "name": "\u518d\u898b \u5be7\u975c\u6d77",
-        "url": "https://open.spotify.com/album/7udQZHJGU6wIeWSbKgQtbV"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
-        }
-      ],
-      "duration_ms": 250677,
-      "name": "\u518d\u898b \u5be7\u975c\u6d77",
-      "url": "https://open.spotify.com/track/3mVO7XaN9ULGNuXteiCOz3"
-    },
-    {
-      "added_at": "2024-07-30 09:31:10",
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Slow Dancing",
-      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
-    },
-    {
-      "added_at": "2024-07-30 09:31:10",
-      "album": {
-        "name": "This is MC",
-        "url": "https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "duration_ms": 263133,
-      "name": "\u4e16\u4e00",
-      "url": "https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm"
-    },
-    {
-      "added_at": "2024-07-30 09:31:10",
-      "album": {
-        "name": "\u6d6a\u6f2b\u6bba\u6b7b\u5de8\u87f9\u5ea7",
-        "url": "https://open.spotify.com/album/7yMSjlEGWD3lU3ayZbZbVw"
-      },
-      "artists": [
-        {
-          "name": "Anson Lo \u76e7\u701a\u9706",
-          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
-        }
-      ],
-      "duration_ms": 244488,
-      "name": "\u6d6a\u6f2b\u6bba\u6b7b\u5de8\u87f9\u5ea7",
-      "url": "https://open.spotify.com/track/2fOpn6RdCJzcYl32PZCMM3"
-    },
-    {
-      "added_at": "2024-07-30 09:31:10",
+      "added_at": "2024-07-31 09:02:26",
       "album": {
         "name": "No Strings Attached",
         "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
@@ -741,7 +485,215 @@
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
     },
     {
-      "added_at": "2024-07-30 09:31:10",
+      "added_at": "2024-07-31 09:02:26",
+      "album": {
+        "name": "Lost at first sight",
+        "url": "https://open.spotify.com/album/3PuUcAi2et3wlpngZRntA5"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "duration_ms": 244006,
+      "name": "Lost at first sight",
+      "url": "https://open.spotify.com/track/4tejvhLkdvPYn4p90jk5QS"
+    },
+    {
+      "added_at": "2024-07-31 09:02:26",
+      "album": {
+        "name": "Let go",
+        "url": "https://open.spotify.com/album/22lJ0X3uJ53RhyaeeGzwOO"
+      },
+      "artists": [
+        {
+          "name": "Nancy Kwai",
+          "url": "https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy"
+        }
+      ],
+      "duration_ms": 230581,
+      "name": "Let go",
+      "url": "https://open.spotify.com/track/0VKdwugDTY088b1J84QH3e"
+    },
+    {
+      "added_at": "2024-07-31 09:02:26",
+      "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
+    },
+    {
+      "added_at": "2024-07-31 09:02:26",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2024-07-31 09:02:26",
+      "album": {
+        "name": "Sticky",
+        "url": "https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 157120,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO"
+    },
+    {
+      "added_at": "2024-07-31 09:02:26",
+      "album": {
+        "name": "How Sweet",
+        "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "How Sweet",
+      "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
+    },
+    {
+      "added_at": "2024-07-31 09:02:26",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 138213,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
+    },
+    {
+      "added_at": "2024-07-31 09:02:26",
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "added_at": "2024-07-31 09:02:26",
+      "album": {
+        "name": "Armageddon - The 1st Album",
+        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm"
+    },
+    {
+      "added_at": "2024-07-31 09:02:26",
+      "album": {
+        "name": "\u6d6a\u6f2b\u6bba\u6b7b\u5de8\u87f9\u5ea7",
+        "url": "https://open.spotify.com/album/7yMSjlEGWD3lU3ayZbZbVw"
+      },
+      "artists": [
+        {
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+        }
+      ],
+      "duration_ms": 244488,
+      "name": "\u6d6a\u6f2b\u6bba\u6b7b\u5de8\u87f9\u5ea7",
+      "url": "https://open.spotify.com/track/2fOpn6RdCJzcYl32PZCMM3"
+    },
+    {
+      "added_at": "2024-07-31 09:02:26",
+      "album": {
+        "name": "TREBLE",
+        "url": "https://open.spotify.com/album/21ZCD2XHS74GxHvDxaXLJK"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "duration_ms": 221733,
+      "name": "\u9694\u7246\u6709\u8033",
+      "url": "https://open.spotify.com/track/4sguC2oBIqfn8WmMmReOYb"
+    },
+    {
+      "added_at": "2024-07-31 09:02:26",
+      "album": {
+        "name": "This is MC",
+        "url": "https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "duration_ms": 263133,
+      "name": "\u4e16\u4e00",
+      "url": "https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm"
+    },
+    {
+      "added_at": "2024-07-31 09:02:26",
+      "album": {
+        "name": "TREBLE",
+        "url": "https://open.spotify.com/album/21ZCD2XHS74GxHvDxaXLJK"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "duration_ms": 205845,
+      "name": "\u8207\u6211\u7121\u95dc",
+      "url": "https://open.spotify.com/track/7kwk6IdfKLnP1srqfXVOjq"
+    },
+    {
+      "added_at": "2024-07-31 09:02:26",
       "album": {
         "name": "TREBLE",
         "url": "https://open.spotify.com/album/21ZCD2XHS74GxHvDxaXLJK"
@@ -761,23 +713,87 @@
       "url": "https://open.spotify.com/track/2T8ppyUVF1TJT1Mjd7nmWK"
     },
     {
-      "added_at": "2024-07-30 09:31:10",
+      "added_at": "2024-07-31 09:02:26",
       "album": {
-        "name": "TREBLE",
-        "url": "https://open.spotify.com/album/21ZCD2XHS74GxHvDxaXLJK"
+        "name": "\u4ecd\u5728",
+        "url": "https://open.spotify.com/album/7kJcWoA7dZNzznm9wuSHyo"
       },
       "artists": [
         {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
         }
       ],
-      "duration_ms": 205845,
-      "name": "\u8207\u6211\u7121\u95dc",
-      "url": "https://open.spotify.com/track/7kwk6IdfKLnP1srqfXVOjq"
+      "duration_ms": 278670,
+      "name": "\u4ecd\u5728",
+      "url": "https://open.spotify.com/track/1rPPxVHA0YWiUzxzuFlQDN"
     },
     {
-      "added_at": "2024-07-30 09:31:10",
+      "added_at": "2024-07-31 09:02:26",
+      "album": {
+        "name": "MONEY",
+        "url": "https://open.spotify.com/album/2orrREvtatwHRERaqcrMg8"
+      },
+      "artists": [
+        {
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+        }
+      ],
+      "duration_ms": 202538,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/4bzylGLMAjkb8AYCcsu96R"
+    },
+    {
+      "added_at": "2024-07-31 09:02:26",
+      "album": {
+        "name": "\u518d\u898b \u5be7\u975c\u6d77",
+        "url": "https://open.spotify.com/album/7udQZHJGU6wIeWSbKgQtbV"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "duration_ms": 250677,
+      "name": "\u518d\u898b \u5be7\u975c\u6d77",
+      "url": "https://open.spotify.com/track/3mVO7XaN9ULGNuXteiCOz3"
+    },
+    {
+      "added_at": "2024-07-31 09:02:26",
+      "album": {
+        "name": "ATE",
+        "url": "https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 148051,
+      "name": "Chk Chk Boom",
+      "url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH"
+    },
+    {
+      "added_at": "2024-07-31 09:02:26",
+      "album": {
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
+    {
+      "added_at": "2024-07-31 09:02:26",
       "album": {
         "name": "Armageddon - The 1st Album",
         "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
@@ -793,7 +809,7 @@
       "url": "https://open.spotify.com/track/6i8MbzVn4nzyjUcSoVcz7B"
     },
     {
-      "added_at": "2024-07-30 09:31:10",
+      "added_at": "2024-07-31 09:02:26",
       "album": {
         "name": "\u4f5c\u54c1\u7684\u8aaa\u8a71",
         "url": "https://open.spotify.com/album/6vSggspaaAO0boTq0JQfhQ"
@@ -807,22 +823,6 @@
       "duration_ms": 252746,
       "name": "\u4f5c\u54c1\u7684\u8aaa\u8a71",
       "url": "https://open.spotify.com/track/1dBroK67DSaaEE5kvkVjzG"
-    },
-    {
-      "added_at": "2024-07-30 09:31:10",
-      "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     }
   ],
   "unique_name": "Top 50 - Hong Kong",

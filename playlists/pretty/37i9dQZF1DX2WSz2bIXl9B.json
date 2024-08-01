@@ -1,13 +1,93 @@
 {
   "description": "P\u00f3dcasts que necesitas mantener en tu RADAR: Somos Estupendas, Sof\u00e1 manta y crimen, Radio La Pera, La placita amarilla,  Coquetas y bravas.\n",
-  "num_followers": 3378,
+  "num_followers": 3380,
   "original_name": "RADAR Podcasters Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Za47bAAAAACB9HonapPoLh+HeXSTAjxz",
+  "snapshot_id": "ZqpXswAAAADGl83fyNIOjdiZG6qg+Aht",
   "tracks": [
+    {
+      "added_at": "2024-07-31 15:26:43",
+      "album": {
+        "name": "Sof\u00e1, manta y crimen",
+        "url": "https://open.spotify.com/album/0v1o4D5OPo4EVqKeekyWhL"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00e1, manta y crimen",
+          "url": "https://open.spotify.com/show/0v1o4D5OPo4EVqKeekyWhL"
+        }
+      ],
+      "duration_ms": 6893674,
+      "name": "FINAL DE TEMPORADA | 2x45 Ed Gein & La ni\u00f1a de la caja",
+      "url": "https://open.spotify.com/episode/0HJFyvi57NbTFHBKkIu6Op"
+    },
+    {
+      "added_at": "2024-07-31 15:26:43",
+      "album": {
+        "name": "Somos Estupendas",
+        "url": "https://open.spotify.com/album/06JgN4AkNage0vqyc8a1AD"
+      },
+      "artists": [
+        {
+          "name": "Somos Estupendas",
+          "url": "https://open.spotify.com/show/06JgN4AkNage0vqyc8a1AD"
+        }
+      ],
+      "duration_ms": 2695530,
+      "name": "C\u00f3mo no dejar que me bloqueen mis miedos | Ep. 172",
+      "url": "https://open.spotify.com/episode/2cslLycMFBnu0MqM5uQ6JQ"
+    },
+    {
+      "added_at": "2024-07-31 15:26:43",
+      "album": {
+        "name": "La placita amarilla",
+        "url": "https://open.spotify.com/album/5ks6F7OJe3BB72V3y04Kmz"
+      },
+      "artists": [
+        {
+          "name": "La placita amarilla",
+          "url": "https://open.spotify.com/show/5ks6F7OJe3BB72V3y04Kmz"
+        }
+      ],
+      "duration_ms": 7235520,
+      "name": "2x24 JORDI WILD | \u00bfCu\u00e1nto gana? Debate de Mr Tartaria, \u00bfBukele en The Wild Project? Gu\u00eda para montar un podcast",
+      "url": "https://open.spotify.com/episode/7oZ9l0M2NhiNYWXslVKnik"
+    },
+    {
+      "added_at": "2024-07-31 15:26:43",
+      "album": {
+        "name": "Radio La Pera",
+        "url": "https://open.spotify.com/album/1dFgIzX4ApzkKigwlWbTVA"
+      },
+      "artists": [
+        {
+          "name": "Radio La Pera",
+          "url": "https://open.spotify.com/show/1dFgIzX4ApzkKigwlWbTVA"
+        }
+      ],
+      "duration_ms": 5317481,
+      "name": "Mensaje a nuestro yo adolescente | Radio La Pera 2x22",
+      "url": "https://open.spotify.com/episode/7wXaxXkjguEJneCjBma85p"
+    },
+    {
+      "added_at": "2024-07-31 15:26:43",
+      "album": {
+        "name": "Coquetas y Bravas",
+        "url": "https://open.spotify.com/album/2gKA3hjG6fWeHUgRlGEynA"
+      },
+      "artists": [
+        {
+          "name": "Coquetas y Bravas",
+          "url": "https://open.spotify.com/show/2gKA3hjG6fWeHUgRlGEynA"
+        }
+      ],
+      "duration_ms": 4752450,
+      "name": "El derradeiro de la temporada, Q&A | 3x35",
+      "url": "https://open.spotify.com/episode/2Zc6nfUQfZWw6PfVOwyLn8"
+    },
     {
       "added_at": "2024-01-22 09:51:27",
       "album": {

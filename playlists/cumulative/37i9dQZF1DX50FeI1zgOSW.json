@@ -169,6 +169,24 @@
     },
     {
       "album": {
+        "name": "Agaladhu",
+        "url": "https://open.spotify.com/album/25NIqVyEhp9CtoTR6iozCU"
+      },
+      "artists": [
+        {
+          "name": "V. Kiran Varsith",
+          "url": "https://open.spotify.com/artist/0UOZzdUG9XB5NIhkxSzJrP"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202698,
+      "name": "Agaladhu",
+      "url": "https://open.spotify.com/track/5Dv7lp6wfSPwhT2lOy9jj9"
+    },
+    {
+      "album": {
         "name": "Alavilla Azhagiye",
         "url": "https://open.spotify.com/album/0m5QDfTQuK0gz9h1hHsDMd"
       },
@@ -3494,10 +3512,32 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 268051,
       "name": "Medhuvaay Medhuvaay",
       "url": "https://open.spotify.com/track/1NXB8bGXRYy0CR0vXIZNHI"
+    },
+    {
+      "album": {
+        "name": "Meenu",
+        "url": "https://open.spotify.com/album/08i3xSuoGshAB78Qaj0ttz"
+      },
+      "artists": [
+        {
+          "name": "A.R Sai Shravanya",
+          "url": "https://open.spotify.com/artist/67hmOl78H5aT3rs6PcO6CR"
+        },
+        {
+          "name": "Rama Priya Yegasivanathan",
+          "url": "https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Meenu",
+      "url": "https://open.spotify.com/track/4LPtOxsnWaSvXp4QNEELZc"
     },
     {
       "album": {
@@ -4446,6 +4486,28 @@
       "duration_ms": 102509,
       "name": "On Air",
       "url": "https://open.spotify.com/track/3LI5iF14x57wIfyhTpC3S4"
+    },
+    {
+      "album": {
+        "name": "Ondraga Selvoma",
+        "url": "https://open.spotify.com/album/2IP8Ynr4w9PzOP7ZKayy5Y"
+      },
+      "artists": [
+        {
+          "name": "Abu",
+          "url": "https://open.spotify.com/artist/4FtcEHxEhiObUuhFYmkrA5"
+        },
+        {
+          "name": "Pokkishiya Sandra",
+          "url": "https://open.spotify.com/artist/5rIDcip6HVD2OYSswkTYtz"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360694,
+      "name": "Ondraga Selvoma",
+      "url": "https://open.spotify.com/track/6CXT1nFECaAO2eH4l7Nuel"
     },
     {
       "album": {

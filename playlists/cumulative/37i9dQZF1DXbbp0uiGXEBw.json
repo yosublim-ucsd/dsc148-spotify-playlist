@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "C\u00f9ng Chi Pu t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. ",
+  "description": "C\u00f9ng Ph\u01b0\u01a1ng M\u1ef9 Chi t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. ",
   "name": "EQUAL Vietnam",
   "tracks": [
     {
@@ -274,7 +274,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 274620,
       "name": "B\u00f3ng Ph\u00f9 Hoa",
       "url": "https://open.spotify.com/track/3fw9v7CztM2mqu1jCtbg9f"
@@ -3050,7 +3050,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 243640,
       "name": "nh\u1eefng \u0111\u1ed1m s\u00e1ng",
       "url": "https://open.spotify.com/track/1TJtZKZFq2rdh9Wfpm15Nw"
@@ -3334,7 +3334,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 227441,
       "name": "Ph\u1ea3i L\u00f2ng Anh",
       "url": "https://open.spotify.com/track/0MIg7hUu4Pa90AX7lGO9ei"
@@ -3982,7 +3982,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 185665,
       "name": "Tr\u00e1i Tim Em C\u0169ng Bi\u1ebft \u0110au",
       "url": "https://open.spotify.com/track/3xgG9C4ACPGQfYGjahrvVx"
@@ -4481,6 +4481,32 @@
     },
     {
       "album": {
+        "name": "V\u0169 Tr\u1ee5 C\u00f2 Bay",
+        "url": "https://open.spotify.com/album/1ksb2CCSSuCuu4TdoJp5cH"
+      },
+      "artists": [
+        {
+          "name": "Ph\u01b0\u01a1ng M\u1ef9 Chi",
+          "url": "https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF"
+        },
+        {
+          "name": "DTAP",
+          "url": "https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG"
+        },
+        {
+          "name": "Ph\u00e1o",
+          "url": "https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220957,
+      "name": "V\u0169 Tr\u1ee5 C\u00f3 Anh (feat. Ph\u00e1o)",
+      "url": "https://open.spotify.com/track/4bOwnJwm4Zy1vjnndHFLHj"
+    },
+    {
+      "album": {
         "name": "V\u01b0\u1eddn Hoa Con C\u00e1 (feat. Ng\u1eafn)",
         "url": "https://open.spotify.com/album/5c2sPcxLeCUn0kbwhg0A0U"
       },
@@ -4946,6 +4972,28 @@
       "duration_ms": 247368,
       "name": "\u0110\u1ea1i Minh Tinh",
       "url": "https://open.spotify.com/track/48D6GbuJqsGLTkNm6QvYwl"
+    },
+    {
+      "album": {
+        "name": "V\u0169 Tr\u1ee5 C\u00f2 Bay",
+        "url": "https://open.spotify.com/album/1ksb2CCSSuCuu4TdoJp5cH"
+      },
+      "artists": [
+        {
+          "name": "Ph\u01b0\u01a1ng M\u1ef9 Chi",
+          "url": "https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF"
+        },
+        {
+          "name": "DTAP",
+          "url": "https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165370,
+      "name": "\u0110\u1ea9y Xe B\u00f2",
+      "url": "https://open.spotify.com/track/513yY4zlOPYCAnqH614sl1"
     },
     {
       "album": {

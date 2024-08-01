@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,696 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,757 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 47 | [Life Goes On \- Alok Remix](https://open.spotify.com/track/7Gwx8Ry5me7Mpd2oRQyikF) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Life Goes On \(Alok Remix\)](https://open.spotify.com/album/1U0bfwnhIZaygrKy4X2fX8) | 2:37 |
 | 48 | [BREAK MY SOUL \- will.i.am Remix](https://open.spotify.com/track/5EooBH2mT6qcsPY8ZgZPVW) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [BREAK MY SOUL REMIXES](https://open.spotify.com/album/43geArd3U23pTVjqzTSnkI) | 3:58 |
 | 49 | [Say So \(Jax Jones Midnight Snack Remix\)](https://open.spotify.com/track/7qrO2oI0A9DW6wQPjSADxx) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Say So \(Jax Jones Midnight Snack Remix\)](https://open.spotify.com/album/6pbeqvCzbgBigh3zo8SSit) | 3:30 |
-| 50 | [Lovers In A Past Life \(with Rag'n'Bone Man\) \- Westend Remix](https://open.spotify.com/track/1mEsNYnNvLyG7enKUZ6l83) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Lovers In A Past Life \(Westend Remix\)](https://open.spotify.com/album/4iIX8tATPedKUMG0dmsKMJ) | 3:25 |
+| 50 | [Cardboard Box \- Happi Remix](https://open.spotify.com/track/3Y9cvPqBb5Dnpc2MpG6f3j) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [Cardboard Box](https://open.spotify.com/album/7GKgn6QLyZrGQ1atBIfhY0) | 2:30 |
 
 Snapshot ID: `ZpoyggAAAABYJL9n7t0TFy7AEtoAj2TJ`

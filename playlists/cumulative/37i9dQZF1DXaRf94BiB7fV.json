@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Tushar Mathur, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Ehsaas Band, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -5199,6 +5199,24 @@
     },
     {
       "album": {
+        "name": "Dil Mein Thoda Sa",
+        "url": "https://open.spotify.com/album/0ppxaU8C9xdliTrUCxM7NT"
+      },
+      "artists": [
+        {
+          "name": "Gaurav Agrawal",
+          "url": "https://open.spotify.com/artist/4HhD2GH1866v1KvZfYCF0V"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222456,
+      "name": "Dil Mein Thoda Sa",
+      "url": "https://open.spotify.com/track/2eBWFPefQnjrEMZDECXg5U"
+    },
+    {
+      "album": {
         "name": "Dil Mera",
         "url": "https://open.spotify.com/album/2f5fU9dudh2KcYepfGEy62"
       },
@@ -6212,7 +6230,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 144054,
       "name": "Every Day Of The Week",
       "url": "https://open.spotify.com/track/3TyUsgcoYBgfYKa9ShDng7"
@@ -8140,6 +8158,28 @@
       "duration_ms": 271701,
       "name": "Hindi Bole",
       "url": "https://open.spotify.com/track/6yAVgyH1iGHeN1ycvETTVb"
+    },
+    {
+      "album": {
+        "name": "Ho Savera",
+        "url": "https://open.spotify.com/album/690vcyjxcrzMMgi54ulMkz"
+      },
+      "artists": [
+        {
+          "name": "Priyanshi Srivastava",
+          "url": "https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo"
+        },
+        {
+          "name": "Suvankar Chatterjee",
+          "url": "https://open.spotify.com/artist/5KCVOltmLBQLofTjn8kSYo"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "Ho Savera",
+      "url": "https://open.spotify.com/track/5ENhWLxHCaUP5EVh1I1Bbn"
     },
     {
       "album": {
@@ -12315,6 +12355,24 @@
     },
     {
       "album": {
+        "name": "Khwabon Keh Parindey (From \"Khudsar\")",
+        "url": "https://open.spotify.com/album/6fMFR5HutlteRpB6VY5wIN"
+      },
+      "artists": [
+        {
+          "name": "Ehsaas Band",
+          "url": "https://open.spotify.com/artist/0O9IGVhIDZ5UxKptHpPzi7"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301663,
+      "name": "Khwabon Keh Parindey - From \"Khudsar\"",
+      "url": "https://open.spotify.com/track/67bZECY1lR8JXywSyapYvn"
+    },
+    {
+      "album": {
         "name": "Khwahishein",
         "url": "https://open.spotify.com/album/4OiJwmxyhzKvXnZB4JqB53"
       },
@@ -13278,7 +13336,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 238758,
       "name": "Le Ja Re",
       "url": "https://open.spotify.com/track/4b0zJze6X4NL3s1N0TT729"
@@ -14352,7 +14410,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 143750,
       "name": "Manzil",
       "url": "https://open.spotify.com/track/5TqpQ90aYDRYEYg5mjJxjg"
@@ -14770,6 +14828,24 @@
       "duration_ms": 300560,
       "name": "Mela",
       "url": "https://open.spotify.com/track/1tuZpWlT7D0ZfJjmHT43FJ"
+    },
+    {
+      "album": {
+        "name": "Mele Mein Cchota Baccha",
+        "url": "https://open.spotify.com/album/1Psxlp9HLPeDeT3B6caItI"
+      },
+      "artists": [
+        {
+          "name": "Joell",
+          "url": "https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151759,
+      "name": "Mele Mein Cchota Baccha",
+      "url": "https://open.spotify.com/track/1JTTxdXYnPeVIXce7J2D5y"
     },
     {
       "album": {
@@ -15450,7 +15526,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 225599,
       "name": "Moti",
       "url": "https://open.spotify.com/track/328NG89XHn6XHYUsK5Yd1q"
@@ -17107,6 +17183,28 @@
     },
     {
       "album": {
+        "name": "Parinda",
+        "url": "https://open.spotify.com/album/0ADUt0Xpmdk7sPk90uebXl"
+      },
+      "artists": [
+        {
+          "name": "Pankaj Saini",
+          "url": "https://open.spotify.com/artist/3er6Z09NSRHHyPK3UGac4B"
+        },
+        {
+          "name": "Kuvam Sethi",
+          "url": "https://open.spotify.com/artist/5Qjkcg0LZJcH0HDyz9n33V"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214717,
+      "name": "Parinda",
+      "url": "https://open.spotify.com/track/3YYk8CSCSmCepJr6952QjB"
+    },
+    {
+      "album": {
         "name": "Parindey",
         "url": "https://open.spotify.com/album/5pKCwUrUfPFBkwSURFyS01"
       },
@@ -18247,6 +18345,24 @@
     },
     {
       "album": {
+        "name": "Ready To Breathe",
+        "url": "https://open.spotify.com/album/5uDvXxZ5mvGZXqdCs7X7J4"
+      },
+      "artists": [
+        {
+          "name": "Rahul Advani",
+          "url": "https://open.spotify.com/artist/4ol2EjDnh4lRaTk3lfFtQb"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243395,
+      "name": "Ready To Breathe",
+      "url": "https://open.spotify.com/track/570UIy8Y4SlP0sGJmkw3ss"
+    },
+    {
+      "album": {
         "name": "Realize (Live at Her Village)",
         "url": "https://open.spotify.com/album/3HKWjzepDpKV0I5IzszPHm"
       },
@@ -18592,6 +18708,24 @@
       "duration_ms": 270449,
       "name": "Rijhaaun",
       "url": "https://open.spotify.com/track/4yguCbiNZVvdJGRMm122Q3"
+    },
+    {
+      "album": {
+        "name": "Roko Na",
+        "url": "https://open.spotify.com/album/5n0bVlnP6viCM66MqBe9OL"
+      },
+      "artists": [
+        {
+          "name": "Alchemy",
+          "url": "https://open.spotify.com/artist/3wtbgKMLTqcBw9vDjbyDLP"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223715,
+      "name": "Roko Na",
+      "url": "https://open.spotify.com/track/6MHd4PUpU7Sa8xEyozPUZK"
     },
     {
       "album": {
@@ -19050,7 +19184,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 253759,
       "name": "Saanvare",
       "url": "https://open.spotify.com/track/0mtG2X6MZQLTqqVGsACRGU"
@@ -21405,6 +21539,24 @@
     },
     {
       "album": {
+        "name": "Tamanna Meri",
+        "url": "https://open.spotify.com/album/60tUIPyv7SGsOpiZFc4dvB"
+      },
+      "artists": [
+        {
+          "name": "Bheema",
+          "url": "https://open.spotify.com/artist/2GXpkdrCqlyNlSS1jCE7NH"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94696,
+      "name": "Tamanna Meri",
+      "url": "https://open.spotify.com/track/5jpgZ7sO54q8rWfFfDCYwX"
+    },
+    {
+      "album": {
         "name": "Tan Kha Gayi Ye Tankha",
         "url": "https://open.spotify.com/album/7cqVlSMnCGA2ahxPPsyY7b"
       },
@@ -23566,7 +23718,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 213818,
       "name": "twentytwo",
       "url": "https://open.spotify.com/track/1hjGbbBKZ1JDjDHczpp8Rh"
@@ -23690,7 +23842,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 126000,
       "name": "Uljha",
       "url": "https://open.spotify.com/track/7ADK4zhYFgz021VrkW8hUL"
@@ -25154,7 +25306,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 200333,
       "name": "Ye Safar",
       "url": "https://open.spotify.com/track/5L2jOBhaa9CEzm22OwLRRq"

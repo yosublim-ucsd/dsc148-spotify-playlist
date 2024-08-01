@@ -1,12 +1,12 @@
 {
-  "description": "This Is Alexander Stewart. Los temas esenciales, todos en una lista.",
-  "num_followers": 31924,
+  "description": "This is: Alexander Stewart. Alle wichtigen Tracks in einer Playlist.",
+  "num_followers": 31942,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqbbgAAAAADlXTtxOdUK1r+4IdmCxwJF",
+  "snapshot_id": "ZqgtAAAAAACFxQyUvK/Q/lMoOXKgw9/Y",
   "tracks": [
     {
       "added_at": null,
@@ -143,8 +143,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "broken by you",
-        "url": "https://open.spotify.com/album/3xGBQIPJYhqeSkTF53Jr70"
+        "name": "he never will",
+        "url": "https://open.spotify.com/album/3LRXevJN62aaXJZuxPPVJI"
       },
       "artists": [
         {
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 172000,
-      "name": "broken by you",
-      "url": "https://open.spotify.com/track/472jZF9DQbbJlp6Zg58aai"
+      "duration_ms": 171133,
+      "name": "he never will",
+      "url": "https://open.spotify.com/track/3gt3BD4A92u4nv6oS5Jkmq"
     },
     {
       "added_at": null,
@@ -175,8 +175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "he never will",
-        "url": "https://open.spotify.com/album/3LRXevJN62aaXJZuxPPVJI"
+        "name": "broken by you",
+        "url": "https://open.spotify.com/album/3xGBQIPJYhqeSkTF53Jr70"
       },
       "artists": [
         {
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 171133,
-      "name": "he never will",
-      "url": "https://open.spotify.com/track/3gt3BD4A92u4nv6oS5Jkmq"
+      "duration_ms": 172000,
+      "name": "broken by you",
+      "url": "https://open.spotify.com/track/472jZF9DQbbJlp6Zg58aai"
     },
     {
       "added_at": null,

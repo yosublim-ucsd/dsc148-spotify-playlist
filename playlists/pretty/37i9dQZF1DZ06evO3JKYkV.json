@@ -1,12 +1,12 @@
 {
-  "description": "This is Aphex Twin. Track-track unggulan, semuanya dalam satu playlist.",
-  "num_followers": 65770,
+  "description": "This is Aphex Twin. The essential tracks, all in one playlist.",
+  "num_followers": 65789,
   "original_name": "This Is Aphex Twin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqbbgAAAAAD/9eD73cWke+NQRQkRLd4G",
+  "snapshot_id": "ZqgtAAAAAABu3tsvWf3upHe8XwTPFOoD",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Digeridoo (Expanded Edition)",
-        "url": "https://open.spotify.com/album/58H1ArDcd3bUzOK0cn31lD"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 432938,
-      "name": "Digeridoo - 2022 Remaster",
-      "url": "https://open.spotify.com/track/2Fh8MjqWLFCoiOOHQRfqgq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blackbox Life Recorder 21f / in a room7 F760",
         "url": "https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 233755,
       "name": "in a room7 F760",
       "url": "https://open.spotify.com/track/3sFYzy26BTS3te7WV8QeLx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Digeridoo (Expanded Edition)",
+        "url": "https://open.spotify.com/album/58H1ArDcd3bUzOK0cn31lD"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 432938,
+      "name": "Digeridoo - 2022 Remaster",
+      "url": "https://open.spotify.com/track/2Fh8MjqWLFCoiOOHQRfqgq"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Syro",
-        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 631240,
-      "name": "XMAS_EVET10 [120][thanaton3 mix]",
-      "url": "https://open.spotify.com/track/3QwQ9oyEWD1Ufx7WfiJ4bn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Computer Controlled Acoustic Instruments pt2 EP",
         "url": "https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 631240,
+      "name": "XMAS_EVET10 [120][thanaton3 mix]",
+      "url": "https://open.spotify.com/track/3QwQ9oyEWD1Ufx7WfiJ4bn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "...I Care Because You Do",
         "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
       },
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 231413,
-      "name": "Mookid",
-      "url": "https://open.spotify.com/track/75Ml44CCprAbusMbPZuHEr"
+      "duration_ms": 459280,
+      "name": "Acrid Avid Jam Shred",
+      "url": "https://open.spotify.com/track/6RjEg1YpdNJlXrGOy4KeVs"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Syro",
-        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 58586,
-      "name": "fz pseudotimestretch+e+3 [138.85]",
-      "url": "https://open.spotify.com/track/1xUwLbfbNoulgxRHeOAI04"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Digeridoo (Expanded Edition)",
         "url": "https://open.spotify.com/album/58H1ArDcd3bUzOK0cn31lD"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 58586,
+      "name": "fz pseudotimestretch+e+3 [138.85]",
+      "url": "https://open.spotify.com/track/1xUwLbfbNoulgxRHeOAI04"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "...I Care Because You Do",
         "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
       },
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 459280,
-      "name": "Acrid Avid Jam Shred",
-      "url": "https://open.spotify.com/track/6RjEg1YpdNJlXrGOy4KeVs"
+      "duration_ms": 231413,
+      "name": "Mookid",
+      "url": "https://open.spotify.com/track/75Ml44CCprAbusMbPZuHEr"
     },
     {
       "added_at": null,

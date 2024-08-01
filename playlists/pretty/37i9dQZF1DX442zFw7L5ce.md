@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,643 likes - 41 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,657 likes - 41 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 26 | [Andala Raakshasive](https://open.spotify.com/track/5xUZRi3ph5h01vbgx3u65X) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Oke Okkadu](https://open.spotify.com/album/1WCAy8NWpdJ0NtzBTtxXvu) | 6:13 |
 | 27 | [Nagumomu Thaarale \(From "Radhe Shyam"\)](https://open.spotify.com/track/5fnYbqciSco0Y0uMNilDTt) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr) | [Nagumomu Thaarale \(From "Radhe Shyam"\)](https://open.spotify.com/album/1ZCjfkLge20C5RUuULA5v7) | 4:54 |
 | 28 | [Aakasam](https://open.spotify.com/track/4wKiaLGUIAdgRBSv80aeBW) | [Sumangaly](https://open.spotify.com/artist/0WpkyIAATl5W540KCSEUwX), [Kid Sathya](https://open.spotify.com/artist/2nzTUPkoUDOpQsQWzIUEQn) | [Kalusukovalani](https://open.spotify.com/album/2z84b5n0ZwZa3exP90AHiu) | 4:46 |
-| 29 | [Urumulu Nimuvvalai](https://open.spotify.com/track/2rTmVSZOPnS9jrgcl6EjV0) | [Rajesh, Sujatha](https://open.spotify.com/artist/13Da3IxfSztUGGPXJOy6i4) | [Chandralekha](https://open.spotify.com/album/0u0QnbKBaBNm3yRNps6KRl) | 4:31 |
-| 30 | [Rooba Rooba](https://open.spotify.com/track/7gVqTSJ4Mr5uKkM9yhQKop) | [Shahil Hada](https://open.spotify.com/artist/4Rn2NNAPBegkcTSPz54jcc), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Orange](https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj) | 5:14 |
+| 29 | [Rooba Rooba](https://open.spotify.com/track/7gVqTSJ4Mr5uKkM9yhQKop) | [Shahil Hada](https://open.spotify.com/artist/4Rn2NNAPBegkcTSPz54jcc), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Orange](https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj) | 5:14 |
+| 30 | [Urumulu Nimuvvalai](https://open.spotify.com/track/2rTmVSZOPnS9jrgcl6EjV0) | [Rajesh, Sujatha](https://open.spotify.com/artist/13Da3IxfSztUGGPXJOy6i4) | [Chandralekha](https://open.spotify.com/album/0u0QnbKBaBNm3yRNps6KRl) | 4:31 |
 | 31 | [Beautiful Girl](https://open.spotify.com/track/3P8sXN7vsucV5k80lReeeq) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Life Is Beautiful](https://open.spotify.com/album/1Hd2y0smTAvVSTvJeXj5lW) | 4:43 |
 | 32 | [Adireti](https://open.spotify.com/track/5lsstDSoCsN8SRh5NxwGcK) | [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Bharateeyudu](https://open.spotify.com/album/5wbNqlJ4LukhEsQcqty9Po) | 5:51 |
 | 33 | [Chandrakala](https://open.spotify.com/track/0KuVYY7tHWcwbvR0FSwrEo) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Rita Thyagarajan](https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF) | [Adhurs](https://open.spotify.com/album/62IHYuxj0BTHw3BgrjRlQO) | 4:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,510 likes - 306 songs - 17 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,513 likes - 306 songs - 17 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -212,8 +212,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 202 | [Heart & Soul](https://open.spotify.com/track/61yTqIK1JeO1V6bwOeTKSb) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [Heart & Soul](https://open.spotify.com/album/6sxWIQBXdPaom8CiG0IMOT) | 2:42 |
 | 203 | [Worth My While](https://open.spotify.com/track/61yCjv5bKruUBDmbsls0Pn) | [Manny Norté](https://open.spotify.com/artist/5IZXhE6DcoszTt30hAeJuw), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Worth My While](https://open.spotify.com/album/4xjs0e8UUcJ7HUWrapvqR5) | 3:25 |
 | 204 | [Rude Love \- Live Acoustic](https://open.spotify.com/track/6qL7vsuhKpkqjKzWnFn3iM) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Rude Love \(Acoustic Versions\)](https://open.spotify.com/album/3YrwPhks1IDgK3ETB3wHNw) | 2:59 |
-| 205 | [Be Without You](https://open.spotify.com/track/2hy8VUlygF2HoKQJbkAKkn) | [KStewart](https://open.spotify.com/artist/4jQF2fKZDX6pQIPWwsNWyp) | [Be Without You](https://open.spotify.com/album/4iONmkExzW0E1uyH1pmdEj) | 3:20 |
-| 206 | [Stranger](https://open.spotify.com/track/4MUsd6bLYntVKqF1Msk5Vd) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Get To Know](https://open.spotify.com/album/1vlHG5JJCSsWBuA5vPTY7Q) | 3:52 |
+| 205 | [Stranger](https://open.spotify.com/track/4MUsd6bLYntVKqF1Msk5Vd) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Get To Know](https://open.spotify.com/album/1vlHG5JJCSsWBuA5vPTY7Q) | 3:52 |
+| 206 | [Be Without You](https://open.spotify.com/track/2hy8VUlygF2HoKQJbkAKkn) | [KStewart](https://open.spotify.com/artist/4jQF2fKZDX6pQIPWwsNWyp) | [Be Without You](https://open.spotify.com/album/4iONmkExzW0E1uyH1pmdEj) | 3:20 |
 | 207 | [Inside Of Me \- Radio Edit](https://open.spotify.com/track/06otM0LvTEQr5tofhO3eWo) | [My Digital Enemy](https://open.spotify.com/artist/7xwN3wuAbcvsSsY4fj1iLA) | [Inside Of Me](https://open.spotify.com/album/6Ikxxt68oAMp9IS5bxmEE6) | 2:39 |
 | 208 | [Interruption](https://open.spotify.com/track/6SGo3xaUbZEu8GfvtaCJzS) | [Tiana Blake](https://open.spotify.com/artist/0dQdwOMacJwwE8Tattr1XI) | [Interruption](https://open.spotify.com/album/3qYHfrjfjposJMFWg1Tj1F) | 3:08 |
 | 209 | [I’m Not Okay But I Know I’m Going To Be](https://open.spotify.com/track/6QY9QsU8KypFpl2Pi46KYs) | [Raleigh Ritchie](https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq) | [I’m Not Okay But I Know I’m Going To Be](https://open.spotify.com/album/58yK3KLH0wJwCPHJAs2Eg5) | 3:55 |
@@ -315,4 +315,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 305 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 306 | [See You When I Look At You](https://open.spotify.com/track/3qjXYDCuRWVmCulEsCAM3L) | [King Lowkey Tha Bread Winner](https://open.spotify.com/artist/1xHrLzZi7eNjqQUcSIpiUp) | [Real Recognize Real But I Peep The Fake Too](https://open.spotify.com/album/2wj9RYyXjMuHLvlTHMmPb6) | 2:47 |
 
-Snapshot ID: `AbYG4gAAAABZlITusGHE24Zzzc0TFUg1`
+Snapshot ID: `AbYMwgAAAADkL1h3Q84oICMGHhuu2ObX`

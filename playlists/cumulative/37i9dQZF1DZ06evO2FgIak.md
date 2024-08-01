@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2FgIak.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2FgIak) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2FgIak)
 
-### [This Is マディ・ウォーターズ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2FgIak)
+### [This Is Muddy Waters](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2FgIak)
 
-> This is マディ・ウォーターズ。アーティストの代表曲をひとつのプレイリストに。
+> This is Muddy Waters\. The essential tracks, all in one playlist.
 
 139 songs - 9 hr 27 min
 

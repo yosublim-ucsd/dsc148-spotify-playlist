@@ -2,7 +2,7 @@
 
 ### [EQUAL](https://open.spotify.com/playlist/37i9dQZF1DWU8quswnFt3c)
 
-> Listen to women at full volume from across the world\. Cover: Nia Archives.
+> Listen to women at full volume from across the world\. Cover: Céline Dion.
 
 2,007 songs - 4 day 14 hr 52 min
 
@@ -755,7 +755,7 @@
 | [ICU](https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA) | 4:01 | 2023-01-04 | 2023-02-02 |
 | [idc](https://open.spotify.com/track/407aJoHyCCUs8trkkrHy4i) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [idc](https://open.spotify.com/album/7ArQiiYfgEeFr0QQJHRWQQ) | 3:23 | 2023-08-02 | 2023-09-07 |
 | [idundomuchtalkingnow](https://open.spotify.com/track/669OXkisqk5sChjgpcwaTI) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [Jonwl](https://open.spotify.com/artist/1acr3vZX3WVbX6dXdwjyhz) | [idundomuchtalkingnow](https://open.spotify.com/album/30aPnV4ctObMcAxSlO2uPx) | 3:45 | 2023-11-08 | 2023-11-30 |
-| [idź](https://open.spotify.com/track/1vqahNTuy2YjW9Vywuog3w) | [Alicja](https://open.spotify.com/artist/1QDigvoDqzcojpLCK6soAb) | [nie wracam](https://open.spotify.com/album/4Zmx2snI7W2imHGADlCup1) | 3:31 | 2024-07-03 |  |
+| [idź](https://open.spotify.com/track/1vqahNTuy2YjW9Vywuog3w) | [Alicja](https://open.spotify.com/artist/1QDigvoDqzcojpLCK6soAb) | [nie wracam](https://open.spotify.com/album/4Zmx2snI7W2imHGADlCup1) | 3:31 | 2024-07-03 | 2024-08-01 |
 | [if i fall for you](https://open.spotify.com/track/1vtHdaq48zvFsHjYkn8R9a) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [if i fall for you](https://open.spotify.com/album/5ZmHCATrtaAL8awlrlxBZW) | 3:06 | 2023-04-05 | 2024-01-11 |
 | [If I Weren't Me](https://open.spotify.com/track/5VGDusp81Ed3T9xACRw5Os) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [If I Weren't Me](https://open.spotify.com/album/0aLX2BbaYcSi6nvOqY9EM7) | 2:31 | 2023-05-03 | 2024-01-11 |
 | [IFHJ](https://open.spotify.com/track/4QdTBFM7VsIu84jfCxVMsv) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [IFHJ](https://open.spotify.com/album/2PBAoczL4wDcwup5IF0yeN) | 2:36 | 2022-09-07 | 2022-10-05 |
@@ -795,7 +795,7 @@
 | [it keeps on raining](https://open.spotify.com/track/7oPm32eIHb11cm4FJadA5p) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [it keeps on raining](https://open.spotify.com/album/0Qxp8yImfA544GEVQGvyQj) | 3:22 | 2022-08-03 | 2022-09-01 |
 | [it keeps on raining](https://open.spotify.com/track/0z422bE04PCpYL5r998aWp) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 3:22 | 2022-08-03 | 2022-09-09 |
 | [It's A No From Me](https://open.spotify.com/track/6xRevLNVt6fBDEueLFQAM4) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT), [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [It's A No From Me](https://open.spotify.com/album/0H0ZGtrZT81cG5x0lMf9sw) | 2:07 | 2024-05-15 | 2024-06-04 |
-| [It's All Coming Back to Me Now](https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 7:36 | 2023-10-04 | 2023-11-17 |
+| [It's All Coming Back to Me Now](https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 7:36 | 2023-10-04 |  |
 | [It's Gonna Be Okay, Baby](https://open.spotify.com/track/5lH5KTgUiP5CSjGctZusTQ) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 5:44 | 2024-07-03 | 2024-07-18 |
 | [it's murder](https://open.spotify.com/track/3ln8AnWliwXUEGbEsrKddF) | [judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [it's murder](https://open.spotify.com/album/3L2UQRrfGnsdHY47SDsyC7) | 2:46 | 2024-01-10 | 2024-02-08 |
 | [It's Ok If You Forget Me](https://open.spotify.com/track/312zSwwbPU7C3sTmro4Wx9) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [It's Ok If You Forget Me](https://open.spotify.com/album/2C91kmyDRWZdm0wR8dK1Wn) | 3:24 | 2024-06-19 | 2024-07-04 |

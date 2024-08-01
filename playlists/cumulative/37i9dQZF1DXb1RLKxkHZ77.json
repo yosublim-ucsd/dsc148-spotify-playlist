@@ -1452,7 +1452,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 241236,
       "name": "Bukan Dengan Dia",
       "url": "https://open.spotify.com/track/03mQ3i9vPCEYO9KVi9qjHb"
@@ -4457,6 +4457,24 @@
     },
     {
       "album": {
+        "name": "coming home",
+        "url": "https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192124,
+      "name": "kembali",
+      "url": "https://open.spotify.com/track/4cekVvN19wjGowJmXb3sNF"
+    },
+    {
+      "album": {
         "name": "Kembali Beraksi",
         "url": "https://open.spotify.com/album/3R5CJTjkIdD5vXVLq8behk"
       },
@@ -6598,7 +6616,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 238473,
       "name": "Pergilah Cinta",
       "url": "https://open.spotify.com/track/1vfkegBOtAeEz9QL9TPe5q"
@@ -9009,6 +9027,28 @@
     },
     {
       "album": {
+        "name": "Terlalu Cinta",
+        "url": "https://open.spotify.com/album/02xTkZ9qQYEA5GtUgnsEcG"
+      },
+      "artists": [
+        {
+          "name": "Yovie Widianto",
+          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
+        },
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259040,
+      "name": "Terlalu Cinta",
+      "url": "https://open.spotify.com/track/3zmN19fLAcKeDaajrIdWLB"
+    },
+    {
+      "album": {
         "name": "Terlalu Rindu",
         "url": "https://open.spotify.com/album/6rpYbCUQtbzAt9rkk6xoIY"
       },
@@ -9118,7 +9158,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 254189,
       "name": "Tersemogakan",
       "url": "https://open.spotify.com/track/4DOc22yZdsjVPvlrACYIqA"
@@ -9568,6 +9608,28 @@
       "duration_ms": 245147,
       "name": "Wanita Biasa",
       "url": "https://open.spotify.com/track/5Gk5wniF0YSpkKMPmQqaxZ"
+    },
+    {
+      "album": {
+        "name": "With You (feat. Aswad Anuar)",
+        "url": "https://open.spotify.com/album/50WMtF6oBYcbja0JawYF2T"
+      },
+      "artists": [
+        {
+          "name": "Sarah Suhairi",
+          "url": "https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh"
+        },
+        {
+          "name": "Aswad Anuar",
+          "url": "https://open.spotify.com/artist/1B1M93wNXmybMqjQCcjgIR"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212079,
+      "name": "With You (feat. Aswad Anuar)",
+      "url": "https://open.spotify.com/track/6ceBB340aX6EUqLZpelyk2"
     },
     {
       "album": {

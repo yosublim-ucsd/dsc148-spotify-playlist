@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-1,799 songs - 3 day 20 hr 18 min
+1,800 songs - 3 day 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [7 DAM](https://open.spotify.com/track/0u4LafmewDz5L2FNqqWGud) | [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY) | [7 DAM](https://open.spotify.com/album/6Mu6pSBimQAd9i334j2nQw) | 2:14 | 2024-06-06 | 2024-07-21 |
 | [7 DAM](https://open.spotify.com/track/3wqUx2hnHutdVYW7uWTc0J) | [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY) | [WIRTUOZ](https://open.spotify.com/album/1gK5TWRqoEPMmEToOeNJ7n) | 2:14 | 2024-07-20 |  |
 | [8MILA](https://open.spotify.com/track/5zOQ3PjlARswR8wvJaby8A) | [Guzior](https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV) | [8MILA](https://open.spotify.com/album/4aKvcMUnw2chfeJ8aa9FY0) | 3:23 | 2024-04-06 | 2024-04-10 |
-| [911](https://open.spotify.com/track/0spb4Kfcsn8t37E1Qv7f3m) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [OG ENZO](https://open.spotify.com/artist/4NvUzGnIZ4z0sSD4bnX3zi) | [911](https://open.spotify.com/album/0tbekMBVgamh1qFEoZJuio) | 2:29 | 2024-07-04 |  |
+| [911](https://open.spotify.com/track/0spb4Kfcsn8t37E1Qv7f3m) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [OG ENZO](https://open.spotify.com/artist/4NvUzGnIZ4z0sSD4bnX3zi) | [911](https://open.spotify.com/album/0tbekMBVgamh1qFEoZJuio) | 2:29 | 2024-07-04 | 2024-08-01 |
 | [:\(](https://open.spotify.com/track/7abEPkeDrajfoTxUBjuQ3G) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [</3 + :\(](https://open.spotify.com/album/4mD7rKj1et3PjyYy8Bw4yM) | 2:55 | 2022-11-19 | 2022-12-19 |
 | [</3](https://open.spotify.com/track/14154tJOTjeyeOyhnqP4QM) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [</3 + :\(](https://open.spotify.com/album/4mD7rKj1et3PjyYy8Bw4yM) | 2:11 | 2022-11-19 | 2023-02-15 |
 | [@champagnepapi](https://open.spotify.com/track/1y62mw3mC3mtVOOtjrVVl1) | [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF) | [TTHE GRIND](https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP) | 2:31 | 2024-04-06 | 2024-05-03 |
@@ -654,6 +654,7 @@
 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 | 2022-03-01 | 2022-04-01 |
 | [Inny Świat](https://open.spotify.com/track/3f0nuItdnejs29CxqAABFG) | [Dobry Dzieciak](https://open.spotify.com/artist/0WKYgJo3VGbcb70N1OHjcH), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Wowo](https://open.spotify.com/artist/1EBJRC9rAAPpR2Ru3O6OY0) | [Inny Świat](https://open.spotify.com/album/3NAOi7pSOXdX6mGS0GptTt) | 2:25 | 2023-07-07 | 2023-07-15 |
 | [Intro](https://open.spotify.com/track/1o5oOrnleiwHct6lFiJZCy) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd) | [Pretty Boy](https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ) | 0:39 | 2022-06-25 | 2022-06-27 |
+| [INTRODESTRUKCJA](https://open.spotify.com/track/1T4n3A9KWa2Gno5tJlMqwf) | [Macias](https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho), [White Widow](https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0) | [INTRODESTRUKCJA](https://open.spotify.com/album/2Ww21uhTbsK2Z3b6yb9GRA) | 2:14 | 2024-07-31 |  |
 | [Invisible dress \- Maro Music x Skytech Remix / Short Edit](https://open.spotify.com/track/6M399qo2yoIDnoOOQMbaZR) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Maro Music](https://open.spotify.com/artist/4iHE8t7vhPwUX0TrF4cETN), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [Invisible dress \(Maro Music x Skytech Remix\)](https://open.spotify.com/album/56EF56plj0lM0YZBCSP6Do) | 2:27 | 2021-03-27\* | 2021-05-05 |
 | [Irenka](https://open.spotify.com/track/6dcPod878kgc8qUAZ4mcCG) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Irenka](https://open.spotify.com/album/3RBWb4HlzXRG0pD0eHdnwF) | 3:33 | 2021-05-09 | 2021-05-13 |
 | [IRL](https://open.spotify.com/track/0Mh7nzWn5BHJSenmaUSEt6) | [Bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [IRL](https://open.spotify.com/album/4Aimo27fuTWEN871U2TQ5H) | 2:31 | 2023-02-13 | 2023-04-13 |

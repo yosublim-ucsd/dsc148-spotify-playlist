@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjsMIYcvmi.md) - [plain]
 
 > Hey \(office\) DJ, turn the music up! 👩‍💻
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,990 likes - 70 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,993 likes - 70 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjsMIYcvmi.md) - [plain]
 | 59 | [Don't Answer](https://open.spotify.com/track/7r4ktpN7S9DORPXVoyXaBN) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Don't Answer](https://open.spotify.com/album/3t08Js8O3fPiiPBSba91z6) | 3:42 |
 | 60 | [Colours & Lights](https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Colours & Lights](https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO) | 3:08 |
 | 61 | [Better Days \- Mejores Días \(with KHEA\)](https://open.spotify.com/track/0Y0xENhvytKvGEgEVd82D4) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Better Days \- Mejores Días \(with KHEA\)](https://open.spotify.com/album/2oVCeLycUdkke9NNXyEoWk) | 2:24 |
-| 62 | [Future](https://open.spotify.com/track/3rZ29lqgtrpuIIuCdZaxEA) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Everything's Blurred But You](https://open.spotify.com/album/3ZNxdIgd8wFuQcFj6WhF6O) | 3:29 |
-| 63 | [Little Things](https://open.spotify.com/track/6e9LfLjJyQvJdIAkNPPU8u) | [Roan Ash](https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U) | [Little Things](https://open.spotify.com/album/1ZKejl4URkEWj3I6f2ppsL) | 3:36 |
+| 62 | [Little Things](https://open.spotify.com/track/6e9LfLjJyQvJdIAkNPPU8u) | [Roan Ash](https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U) | [Little Things](https://open.spotify.com/album/1ZKejl4URkEWj3I6f2ppsL) | 3:36 |
+| 63 | [Future](https://open.spotify.com/track/3rZ29lqgtrpuIIuCdZaxEA) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Everything's Blurred But You](https://open.spotify.com/album/3ZNxdIgd8wFuQcFj6WhF6O) | 3:29 |
 | 64 | [If The World Was Ending \(feat\. Julia Michaels\) \- Original Demo](https://open.spotify.com/track/1WnKdiEPEvd1Meo3gUipPe) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If The World Was Ending \(feat\. Julia Michaels\) \[Original Demo\]](https://open.spotify.com/album/1YjKDpybD8SS9rSHCjhvFq) | 3:31 |
 | 65 | [Memories](https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Memories](https://open.spotify.com/album/3nR9B40hYLKLcR0Eph3Goc) | 3:09 |
 | 66 | [By The Way](https://open.spotify.com/track/7rhryng8NGv5rVCi6Qf2g5) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [Motheo Moleko](https://open.spotify.com/artist/5Wh08VDk9Jz2FMLFUhThjT) | [By The Way](https://open.spotify.com/album/3wJrUiBLCxGHDJTo9zFo4A) | 3:42 |

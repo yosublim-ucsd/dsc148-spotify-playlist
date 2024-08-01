@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Thandii
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,316 likes - 197 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,311 likes - 197 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

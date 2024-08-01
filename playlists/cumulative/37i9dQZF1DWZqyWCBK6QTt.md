@@ -4,7 +4,7 @@
 
 > The songs you love, in ways you’ve never heard before\. Cover: hemlocke springs
 
-430 songs - 1 day 2 hr 33 min
+431 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [Watermelon Sugar \(featuring Avenue Beat\)](https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [Spotify Singles](https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs) | 2:57 | 2021-09-24 |  |
 | [Watermelon Sugar \- Spotify Singles](https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Watermelon Sugar \(Spotify Singles\)](https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3) | 2:09 | 2024-05-16 |  |
 | [we can't be friends \(wait for your love\) \- Spotify Singles](https://open.spotify.com/track/0eMGIcWRTh8mYD9DNPjdo3) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [we can't be friends \(wait for your love\) \- Spotify Singles](https://open.spotify.com/album/7hMUB0og6WfdFk0C1Z2td0) | 4:05 | 2024-05-16 |  |
+| [we can’t be friends \(wait for your love\) \- Spotify Singles \(Live from Spotify House\)](https://open.spotify.com/track/1KlElnmGdKIKpwt7dw49N3) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [we can’t be friends \(wait for your love\) \- Spotify Singles \(Live from Spotify House\)](https://open.spotify.com/album/47qJZGcFVszKNYUjEEPNz9) | 3:53 | 2024-07-31 |  |
 | [We Know Who U R \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5dSiMAfH0yR7lFkhkeR9IA) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Spotify Singles](https://open.spotify.com/album/72rhxNzk3Lm3I6zT1YqYQx) | 3:42 | 2021-09-24 | 2022-07-17 |
 | [We Know Who U R \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/64Ck5Rsc77cOzdiqElhgUj) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Spotify Singles](https://open.spotify.com/album/2ucvkJnUz1XNMtrglreeEn) | 3:42 | 2022-06-07 | 2024-01-06 |
 | [We Know Who U R \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/670QRS1t9T5bzDpOUT16UF) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Spotify Singles](https://open.spotify.com/album/2S7OvlJZZdUxc33ZynZAvb) | 3:42 | 2023-10-02 | 2024-03-11 |
@@ -432,7 +433,7 @@
 | [Yellow \- Spotify Singles](https://open.spotify.com/track/6VDuCryADxIMCNLCfyovtO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Yellow \- Spotify Singles](https://open.spotify.com/album/6lzLiRiEqZHySJVfbv86i0) | 4:29 | 2024-04-12 |  |
 | [Yesterday \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/55BnnFc5P6bpgsZtzPXahA) | [Guordan Banks](https://open.spotify.com/artist/4lwPGsAG5qnfn1JOtESnYZ) | [Spotify Singles](https://open.spotify.com/album/1IUpkbo5AN4rZqzyPppbg7) | 4:07 | 2021-09-24 | 2022-07-29 |
 | [You and Your Folks, Me and My Folks \- Recorded at East West Studios](https://open.spotify.com/track/4gtHfvLdEVcGGRL2CkWjKr) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Spotify Singles](https://open.spotify.com/album/736ZS6qpLRbwq2y2clVA26) | 4:12 | 2021-09-24 | 2022-07-26 |
-| [you broke me first \- Spotify Singles](https://open.spotify.com/track/07Fxhwe3dsM2EkLAqTfrcF) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Spotify Singles](https://open.spotify.com/album/568wiTPWt5kE0Zk3joRigo) | 3:05 | 2021-09-24 |  |
+| [you broke me first \- Spotify Singles](https://open.spotify.com/track/07Fxhwe3dsM2EkLAqTfrcF) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Spotify Singles](https://open.spotify.com/album/568wiTPWt5kE0Zk3joRigo) | 3:05 | 2021-09-24 | 2024-08-01 |
 | [You Can Call Me Al \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2AgqXfsn2W4lXjchlqRyz1) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Spotify Singles](https://open.spotify.com/album/3PtrWbEYEoqYWpgMeIAFb9) | 3:08 | 2021-09-24 |  |
 | [You Need To Calm Down \- Recorded At Abbey Road Studios, London](https://open.spotify.com/track/636fGHC8LlkdwUoNhYDPjR) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Spotify Singles](https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE) | 3:15 | 2021-09-24 | 2022-07-29 |
 | [You'll Be In My Heart \- Spotify Singles](https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Spotify Singles](https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz) | 4:01 | 2022-10-03 |  |

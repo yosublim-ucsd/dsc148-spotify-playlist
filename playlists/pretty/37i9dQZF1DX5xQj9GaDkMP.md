@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xQj9GaDkMP.md) - [plain]
 
 ### [スローバックTHURSDAY: 1998年のヒット曲](https://open.spotify.com/playlist/37i9dQZF1DX5xQj9GaDkMP)
 
-> スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: GLAY ■ CD生産枚数が合計で約4億5717万枚と国内史上最高を記録　■「ハマの大魔神」（佐々木主浩）、「凡人・軍人・変人」（田中真紀子）、「だっちゅーの」（パイレーツ）
+> スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 宇多田ヒカル ■ CD生産枚数が合計で約4億5717万枚と国内史上最高を記録　■「ハマの大魔神」（佐々木主浩）、「凡人・軍人・変人」（田中真紀子）、「だっちゅーの」（パイレーツ）
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,546 likes - 99 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,549 likes - 99 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Throwback Thursday with FM COCOLO: 1998年特集](https://open.spotify.com/episode/3HqrR5DbOKhEcyOZlqe9TM) | [Spotify "スローバックTHURSDAY with FM COCOLO"](https://open.spotify.com/show/4S3eXAVbG6i2eGwimwLG4I) | [Spotify "スローバックTHURSDAY with FM COCOLO"](https://open.spotify.com/album/4S3eXAVbG6i2eGwimwLG4I) | 21:46 |
-| 2 | [誘惑](https://open.spotify.com/track/2GlOmBRGlF9B2ylosoYRim) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [THE GREAT VACATION VOL.2 \~SUPER BEST OF GLAY\~](https://open.spotify.com/album/1YqYsMDvB1CBGgDo3VYK80) | 4:21 |
-| 3 | [HONEY \- Remastered 2022](https://open.spotify.com/track/4BFWM87zjensjLlOjnlNqE) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [ray \(Remastered 2022\)](https://open.spotify.com/album/6Km0eJ6M9NL89fzpHb26iq) | 3:48 |
-| 4 | [Automatic](https://open.spotify.com/track/1wLvwJisZFxQYqjWJ6x16t) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Automatic / time will tell](https://open.spotify.com/album/2wXEWu8WAfXMQvbDb5vzJv) | 5:12 |
+| 2 | [Automatic](https://open.spotify.com/track/1wLvwJisZFxQYqjWJ6x16t) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Automatic / time will tell](https://open.spotify.com/album/2wXEWu8WAfXMQvbDb5vzJv) | 5:12 |
+| 3 | [誘惑](https://open.spotify.com/track/2GlOmBRGlF9B2ylosoYRim) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [THE GREAT VACATION VOL.2 \~SUPER BEST OF GLAY\~](https://open.spotify.com/album/1YqYsMDvB1CBGgDo3VYK80) | 4:21 |
+| 4 | [HONEY \- Remastered 2022](https://open.spotify.com/track/4BFWM87zjensjLlOjnlNqE) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [ray \(Remastered 2022\)](https://open.spotify.com/album/6Km0eJ6M9NL89fzpHb26iq) | 3:48 |
 | 5 | [つつみ込むように･･･](https://open.spotify.com/track/2YMbBShmkH9LvW3hKztcVZ) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [つつみ込むように・・・](https://open.spotify.com/album/64UxqPFvBs10eOq73xwdtp) | 5:50 |
 | 6 | [my graduation](https://open.spotify.com/track/2hVd9JbsiyErluM1fF4hdF) | [SPEED](https://open.spotify.com/artist/3VpWtcxsAiE148UkrC1yt9) | [RISE](https://open.spotify.com/album/33hF124jJh2VaDbijwAbFl) | 5:43 |
 | 7 | [Timing～タイミング～](https://open.spotify.com/track/3tDBL8DhIAhcDFCe6YZ8kF) | [ブラック・ビスケッツ](https://open.spotify.com/artist/0BwamWEHmgdWwM3AoGxyay) | [Timing～タイミング～](https://open.spotify.com/album/2quClXj35SQrnBhZxbrn5S) | 4:09 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xQj9GaDkMP.md) - [plain]
 | 98 | [My Father's Eyes](https://open.spotify.com/track/7zXqmgoZNRHNFgFAOoxhx6) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Pilgrim](https://open.spotify.com/album/3NciWxb2An4XoNC0AaYyNK) | 5:23 |
 | 99 | [Fly Away](https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 3:41 |
 
-Snapshot ID: `ZVS9kwAAAABodEzz1dIsV6rdNw/lHhav`
+Snapshot ID: `ZqpRcAAAAAA76XGmFjefRVwuN2OeY4Vq`

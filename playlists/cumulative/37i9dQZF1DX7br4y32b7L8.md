@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-530 songs - 1 day 2 hr 49 min
+532 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Burning Love \- with The Royal Philharmonic Orchestra](https://open.spotify.com/track/7E6IYKyvJ7dfYl3iTRmozl) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra](https://open.spotify.com/album/3BYCjGZjrTkilIY7U25fNt) | 3:29 | 2024-04-23 |  |
 | [Butta My Bread](https://open.spotify.com/track/3aJF7HsFOwuUAFOaRMQCxR) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Butta My Bread](https://open.spotify.com/album/3WlxlO16ydHEisWjriRpHk) | 2:28 | 2023-07-25 | 2023-12-15 |
 | [Buurman Uit Berlijn \- Radio Edit](https://open.spotify.com/track/22OehECsOcoKPjcLkLzBBr) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Buurman Uit Berlijn](https://open.spotify.com/album/7kzvFxJhbI6deTcwJjSYOE) | 3:14 | 2024-02-06 | 2024-04-17 |
+| [Bye Bye Bye](https://open.spotify.com/track/4r8lRYnoOGdEi6YyI5OC1o) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/5hMd4vAfSUT1cbYCnRUako) | 3:20 | 2024-07-31 |  |
 | [Bécane \- A COLORS SHOW](https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane \- A COLORS SHOW](https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB) | 3:02 | 2023-11-23 | 2024-01-26 |
 | [C'EST LA VIE \(Lip Filler\)](https://open.spotify.com/track/1DZWlEkkYFWrswBQzGkaQ6) | [Z1NO](https://open.spotify.com/artist/4bfQkUZTG4S8I7sP8UlXvU) | [C'EST LA VIE \(Lip Filler\)](https://open.spotify.com/album/2qI0RA6npmX2rv8NSqF5G6) | 3:36 | 2024-03-08 | 2024-04-17 |
 | [Call It Like I See It](https://open.spotify.com/track/5zpR9iel4xXiZ3HP9owOiL) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Call It Like I See It](https://open.spotify.com/album/2Wamb4m82wexz3C88JFlmy) | 3:04 | 2024-06-12 | 2024-06-21 |
@@ -250,6 +251,7 @@
 | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/track/0QRhtV1MwywpkLTvCdMaWq) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Christoph Andersson](https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED) | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/album/1tmjsiIUIlF0Zyaj2J5vI1) | 4:57 | 2024-03-21 |  |
 | [Lady Killers II \- Christoph Andersson Remix](https://open.spotify.com/track/1xUddpWyEuYl5T3mduKnOJ) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Christoph Andersson](https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED) | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/album/08JECZoQNpeSledQtNZp6H) | 4:57 | 2024-04-06 | 2024-04-19 |
 | [Last Night](https://open.spotify.com/track/7K3BhSpAxZBznislvUMVtn) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 2:43 | 2023-06-14 | 2023-06-27 |
+| [LAURA](https://open.spotify.com/track/3GmzvtBcGm0bxQvpRZUnzb) | [DavineP](https://open.spotify.com/artist/1LPGs7TFPT9ssRp0c4ZFDf), [DonkersMusic](https://open.spotify.com/artist/4EoIE7UBBQnbpMFfFJ8UBr) | [LAURA](https://open.spotify.com/album/60RWrbhe0B5S03N1IvyRFh) | 1:47 | 2024-07-31 |  |
 | [Lavender Haze \- Acoustic Version](https://open.spotify.com/track/0O2yLXhJtcp69Ll233Q6xS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lavender Haze \(Acoustic Version\)](https://open.spotify.com/album/54F0VYmKpYQok1ydOZhsYC) | 2:54 | 2023-04-05 | 2023-04-19 |
 | [Layla](https://open.spotify.com/track/18tV3JqwwB5Acsa8vP12lp) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/1ba0iVHm6wU4hfVfb8fKhl) | 2:43 | 2023-04-11 | 2023-09-01 |
 | [Leidseplein](https://open.spotify.com/track/0Hi3vw8XJ14gs9zE721zmN) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Leidseplein](https://open.spotify.com/album/3qrxL8lc4PrftAnuTvxpgC) | 2:41 | 2023-03-24 | 2023-07-11 |

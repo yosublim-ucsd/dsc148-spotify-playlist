@@ -1,6 +1,6 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 355698,
+  "num_followers": 355756,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
         "name": "The Dull Drums - EP",
         "url": "https://open.spotify.com/album/4VK3Q5h20xhrakwpBnxDDf"
       },
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Heavy Metal Heart",
-        "url": "https://open.spotify.com/album/5MNqC4Po5g4wdCxYmY1Flx"
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
       },
       "artists": [
         {
-          "name": "The Blessing Business",
-          "url": "https://open.spotify.com/artist/2EZCT6ZL6Gb4pCiXQCkeet"
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
         }
       ],
-      "duration_ms": 167658,
-      "name": "Moment in Time",
-      "url": "https://open.spotify.com/track/2HajMMSxvXSFDUPbFy0GuR"
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -1067,6 +1051,22 @@
       "duration_ms": 225640,
       "name": "Wandered Away",
       "url": "https://open.spotify.com/track/2jEeajNK4i658NEy0O4706"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
+        "name": "Heavy Metal Heart",
+        "url": "https://open.spotify.com/album/5MNqC4Po5g4wdCxYmY1Flx"
+      },
+      "artists": [
+        {
+          "name": "The Blessing Business",
+          "url": "https://open.spotify.com/artist/2EZCT6ZL6Gb4pCiXQCkeet"
+        }
+      ],
+      "duration_ms": 167658,
+      "name": "Moment in Time",
+      "url": "https://open.spotify.com/track/2HajMMSxvXSFDUPbFy0GuR"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Gathering",
-        "url": "https://open.spotify.com/album/6HHnPXXmJBzlsQE4ieQxYi"
-      },
-      "artists": [
-        {
-          "name": "Josh Ritter",
-          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
-        }
-      ],
-      "duration_ms": 182520,
-      "name": "Feels Like Lightning",
-      "url": "https://open.spotify.com/track/5TGbpdNpZzI4oK95QWWdyh"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
         "name": "Beggars & Ballers (feat. Jay Nash, Tony Lucca & Matt Duke)",
         "url": "https://open.spotify.com/album/48j9hWlUBaUGBDvL9mUt34"
       },
@@ -1267,18 +1251,34 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Never Break EP",
-        "url": "https://open.spotify.com/album/1tdRdrWNCNpLtjpel7rjZG"
+        "name": "Gathering",
+        "url": "https://open.spotify.com/album/6HHnPXXmJBzlsQE4ieQxYi"
       },
       "artists": [
         {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
         }
       ],
-      "duration_ms": 155160,
-      "name": "Never Break",
-      "url": "https://open.spotify.com/track/3usBViVaNvJsFkFxUpOxCP"
+      "duration_ms": 182520,
+      "name": "Feels Like Lightning",
+      "url": "https://open.spotify.com/track/5TGbpdNpZzI4oK95QWWdyh"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
+        "name": "Make Peace with That",
+        "url": "https://open.spotify.com/album/69KtzbWEQ6c6bS7VkJBoRe"
+      },
+      "artists": [
+        {
+          "name": "Field Guide",
+          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
+        }
+      ],
+      "duration_ms": 143709,
+      "name": "Me & You",
+      "url": "https://open.spotify.com/track/1esIV2S5HilbhErjBf8Drn"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Make Peace with That",
-        "url": "https://open.spotify.com/album/69KtzbWEQ6c6bS7VkJBoRe"
+        "name": "Never Break EP",
+        "url": "https://open.spotify.com/album/1tdRdrWNCNpLtjpel7rjZG"
       },
       "artists": [
         {
-          "name": "Field Guide",
-          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
         }
       ],
-      "duration_ms": 143709,
-      "name": "Me & You",
-      "url": "https://open.spotify.com/track/1esIV2S5HilbhErjBf8Drn"
+      "duration_ms": 155160,
+      "name": "Never Break",
+      "url": "https://open.spotify.com/track/3usBViVaNvJsFkFxUpOxCP"
     },
     {
       "added_at": "2024-07-05 21:33:59",

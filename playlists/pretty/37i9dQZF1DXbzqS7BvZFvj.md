@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: kZm
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,924 likes - 79 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,919 likes - 79 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 11 | [力をくれ](https://open.spotify.com/track/35FFFojzUUlFAwKIXCPvNi) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [力をくれ](https://open.spotify.com/album/7qu1zz3XI91cCz99mhHg33) | 3:16 |
 | 12 | [On Dat Money \(with Cardi B\)](https://open.spotify.com/track/4uDc2WS8rwMUc0UfYnB3rg) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [On Dat Money \(with Cardi B\)](https://open.spotify.com/album/2ZyzkQnzmn0NvxhVz9Ntwn) | 2:31 |
 | 13 | [Somebody Save Me](https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:50 |
-| 14 | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/track/7aDvC7UzTZ47Hx5jJUX1sJ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [JT](https://open.spotify.com/artist/4cybvZ3pcSdD2xNFhIzrkk) | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/album/2wJwaumR3Y8PCM01JgJqSj) | 3:00 |
+| 14 | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/track/7aDvC7UzTZ47Hx5jJUX1sJ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/album/2wJwaumR3Y8PCM01JgJqSj) | 3:00 |
 | 15 | [Dreamin'](https://open.spotify.com/track/4XmcwGiMSrUcfCOsh9vw4B) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [Dreamin'](https://open.spotify.com/album/0dndwGladqdj1dI4nli8Po) | 4:00 |
 | 16 | [DNA](https://open.spotify.com/track/3J7DuP14w3O0kPLv2R4XKQ) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [busy](https://open.spotify.com/album/2Ot6hGHgIvzuoKRE1CEp0I) | 3:50 |
 | 17 | [El Pistolero](https://open.spotify.com/track/5lM3HtMkk3JuFWLAEZc08H) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Hotel Diablo: Floor 13 Edition](https://open.spotify.com/album/0qy27pEGeF1grFdsnK27w4) | 2:38 |

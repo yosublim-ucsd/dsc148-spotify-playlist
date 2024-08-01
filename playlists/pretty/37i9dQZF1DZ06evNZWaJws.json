@@ -1,12 +1,12 @@
 {
-  "description": "This Is Los Tucanes De Tijuana. Los temas esenciales, todos en una lista.",
-  "num_followers": 307564,
+  "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
+  "num_followers": 307631,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqbbgAAAAACiw6+T9onmRN0b59PVnw4m",
+  "snapshot_id": "ZqgtAAAAAAD/4zeHBUqx3q0z2EDyIjG5",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "14 Tucanazos Bien Pesados",
-        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 198324,
-      "name": "El Borrego",
-      "url": "https://open.spotify.com/track/7hVGVarDgrC7FCOslZFcAo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perdoname Mi Amor",
         "url": "https://open.spotify.com/album/4KgOvpbyQyjBOovq69Hfs2"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 174773,
       "name": "Suena La Banda",
       "url": "https://open.spotify.com/track/5IsIBQ58FTGKxCHOkWOqio"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "14 Tucanazos Bien Pesados",
+        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 198324,
+      "name": "El Borrego",
+      "url": "https://open.spotify.com/track/7hVGVarDgrC7FCOslZFcAo"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comandante 09",
-        "url": "https://open.spotify.com/album/7rtZbELF943xf6Q9pTkzSf"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 236342,
-      "name": "Comandante 09",
-      "url": "https://open.spotify.com/track/2lZsJdASV0DPyhx6kaDdyE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Time \u2013 Season Three \"Comandante En Jefe\"",
         "url": "https://open.spotify.com/album/6SKPul83B5nz0Q3nRDi1Qb"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 173417,
       "name": "La Captura III",
       "url": "https://open.spotify.com/track/1K0oylCNTT52iBWl42iyYD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comandante 09",
+        "url": "https://open.spotify.com/album/7rtZbELF943xf6Q9pTkzSf"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 236342,
+      "name": "Comandante 09",
+      "url": "https://open.spotify.com/track/2lZsJdASV0DPyhx6kaDdyE"
     },
     {
       "added_at": null,

@@ -8430,7 +8430,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 167213,
       "name": "MAJO",
       "url": "https://open.spotify.com/track/0CRU6MdxT0fuptw7GoGrrA"
@@ -13218,6 +13218,24 @@
       "duration_ms": 186903,
       "name": "Stay",
       "url": "https://open.spotify.com/track/1k0n7ivZxSYQatf6BECpP8"
+    },
+    {
+      "album": {
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/4KZMoDuxwSYP63bhbnMqe3"
     },
     {
       "album": {

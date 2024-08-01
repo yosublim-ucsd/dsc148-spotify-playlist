@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Igor Herbut, Dawid Tyszkowski
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,054 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,058 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 89 | [Błyszczę \(projekt BABIE LATO, Santander Letnie Brzmienia\)](https://open.spotify.com/track/66kAvz6wTw38hMVxigPWSX) | [BABIE LATO](https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G), [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY), [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ), [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [2K88](https://open.spotify.com/artist/1U1CwZeD8SU65TWHjLoPFY) | [Błyszczę \(projekt BABIE LATO, Santander Letnie Brzmienia\)](https://open.spotify.com/album/5jVGlWFfHISHIzj1OvUYrQ) | 2:59 |
 | 90 | [origami](https://open.spotify.com/track/0pVZChscauW6UcGyGPotBR) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [origami](https://open.spotify.com/album/2pVvZ1AwfGj9c0gJT7FD8u) | 2:37 |
 | 91 | [Oczy](https://open.spotify.com/track/2sWNACVt9KzGsfFowOKULO) | [jucho](https://open.spotify.com/artist/77vikLG5M479F4GJeXPmjJ), [Domowe Melodie](https://open.spotify.com/artist/60afMnL1mSfYcDUL39pAvf) | [Oczy](https://open.spotify.com/album/24y3mcIfSAtS6EKj6uAbBC) | 2:33 |
-| 92 | [Wspaniały świat](https://open.spotify.com/track/6Lk1PBaUq82Uu4iYhGQd0J) | [Meek, Oh Why?](https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT) | [Wspaniały świat](https://open.spotify.com/album/5tCV1jri0G3Mr5iQ4z2LLJ) | 2:37 |
+| 92 | [Wspaniały świat](https://open.spotify.com/track/6Lk1PBaUq82Uu4iYhGQd0J) | [Meek, Oh Why?](https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT), [BIESY](https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr) | [Wspaniały świat](https://open.spotify.com/album/5tCV1jri0G3Mr5iQ4z2LLJ) | 2:37 |
 | 93 | [Ocean](https://open.spotify.com/track/6IdIY0pXH9j0PSatRSNK95) | [SKUBAS](https://open.spotify.com/artist/5BoG8WljgEsbLOtoK5IAok), [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Ocean](https://open.spotify.com/album/7zZ2MmpYoDN9WWTwL0srYR) | 3:05 |
 | 94 | [List](https://open.spotify.com/track/6dIbKVYPCA4zjEzLMlhZcS) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [List](https://open.spotify.com/album/2DrBeLTZRrETD9GhHXvAoh) | 3:37 |
 | 95 | [Beze Mnie](https://open.spotify.com/track/0ZeQbTqUFBUYrg6B3qYOv9) | [Nene Heroine](https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR), [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK), [jan tymoteusz](https://open.spotify.com/artist/47tOCG7OGq0vpbmRd35di0) | [in three colors \[live\]](https://open.spotify.com/album/2giwDNFZhiXnOHokxlwCre) | 5:32 |

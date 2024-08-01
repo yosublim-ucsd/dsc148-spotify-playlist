@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36331,
+  "num_followers": 36341,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -383,18 +383,22 @@
     {
       "added_at": "2024-07-29 10:05:21",
       "album": {
-        "name": "Heaven or Hell",
-        "url": "https://open.spotify.com/album/1KD8pU9XCRSfQmbyafLGZ9"
+        "name": "Ready For It All",
+        "url": "https://open.spotify.com/album/5wNuexzZN13IT8t76ajew8"
       },
       "artists": [
         {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+          "name": "Remady",
+          "url": "https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc"
+        },
+        {
+          "name": "Amanda Wilson",
+          "url": "https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1"
         }
       ],
-      "duration_ms": 187854,
-      "name": "Heaven or Hell",
-      "url": "https://open.spotify.com/track/7LsZXp9kvN4JagYUwGRGo8"
+      "duration_ms": 152816,
+      "name": "Ready For It All",
+      "url": "https://open.spotify.com/track/0oIlZ9KBMQnhHOw9uFAJm8"
     },
     {
       "added_at": "2024-07-29 10:05:21",
@@ -435,22 +439,18 @@
     {
       "added_at": "2024-07-29 10:05:21",
       "album": {
-        "name": "Ready For It All",
-        "url": "https://open.spotify.com/album/5wNuexzZN13IT8t76ajew8"
+        "name": "Heaven or Hell",
+        "url": "https://open.spotify.com/album/1KD8pU9XCRSfQmbyafLGZ9"
       },
       "artists": [
         {
-          "name": "Remady",
-          "url": "https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc"
-        },
-        {
-          "name": "Amanda Wilson",
-          "url": "https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1"
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
         }
       ],
-      "duration_ms": 152816,
-      "name": "Ready For It All",
-      "url": "https://open.spotify.com/track/0oIlZ9KBMQnhHOw9uFAJm8"
+      "duration_ms": 187854,
+      "name": "Heaven or Hell",
+      "url": "https://open.spotify.com/track/7LsZXp9kvN4JagYUwGRGo8"
     },
     {
       "added_at": "2024-07-29 10:05:21",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-07-29 10:05:21",
       "album": {
-        "name": "TikTak",
-        "url": "https://open.spotify.com/album/4r7bzEFYlW0JelO4TOVCOk"
-      },
-      "artists": [
-        {
-          "name": "F\u00e4aschtb\u00e4nkler",
-          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
-        }
-      ],
-      "duration_ms": 163143,
-      "name": "TikTak",
-      "url": "https://open.spotify.com/track/0XAowYuRYwsuEZUtNhBsA2"
-    },
-    {
-      "added_at": "2024-07-29 10:05:21",
-      "album": {
         "name": "Electus",
         "url": "https://open.spotify.com/album/12BfPxoETgAfdrgRVu36jS"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 152946,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1rEmNxRPedLH6KwGEunAnZ"
+    },
+    {
+      "added_at": "2024-07-29 10:05:21",
+      "album": {
+        "name": "TikTak",
+        "url": "https://open.spotify.com/album/4r7bzEFYlW0JelO4TOVCOk"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "duration_ms": 163143,
+      "name": "TikTak",
+      "url": "https://open.spotify.com/track/0XAowYuRYwsuEZUtNhBsA2"
     },
     {
       "added_at": "2024-07-29 10:05:21",
@@ -747,34 +747,18 @@
     {
       "added_at": "2024-07-29 10:05:21",
       "album": {
-        "name": "Du kriegst mich nicht zur\u00fcck",
-        "url": "https://open.spotify.com/album/4cxJotBAgV0ZOmROIezp6k"
+        "name": "Frostbites",
+        "url": "https://open.spotify.com/album/0dctcL4tY0cRluTW5lSrcT"
       },
       "artists": [
         {
-          "name": "Faber",
-          "url": "https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM"
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
         }
       ],
-      "duration_ms": 207986,
-      "name": "Du kriegst mich nicht zur\u00fcck",
-      "url": "https://open.spotify.com/track/2yPmT3WjYGFtqn9NqiejjB"
-    },
-    {
-      "added_at": "2024-07-29 10:05:21",
-      "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/1aglfhSGUMbBBU3OGkw5y0"
-      },
-      "artists": [
-        {
-          "name": "Marc Sway",
-          "url": "https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w"
-        }
-      ],
-      "duration_ms": 180373,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/0K8zPoD9XCfHt1Q2qVGmq2"
+      "duration_ms": 179164,
+      "name": "Frostbites",
+      "url": "https://open.spotify.com/track/3xCMJOdaGSB0WiAZ8gAW3d"
     },
     {
       "added_at": "2024-07-29 10:05:21",
@@ -795,18 +779,34 @@
     {
       "added_at": "2024-07-29 10:05:21",
       "album": {
-        "name": "Frostbites",
-        "url": "https://open.spotify.com/album/0dctcL4tY0cRluTW5lSrcT"
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/1aglfhSGUMbBBU3OGkw5y0"
       },
       "artists": [
         {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+          "name": "Marc Sway",
+          "url": "https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w"
         }
       ],
-      "duration_ms": 179164,
-      "name": "Frostbites",
-      "url": "https://open.spotify.com/track/3xCMJOdaGSB0WiAZ8gAW3d"
+      "duration_ms": 180373,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/0K8zPoD9XCfHt1Q2qVGmq2"
+    },
+    {
+      "added_at": "2024-07-29 10:05:21",
+      "album": {
+        "name": "Du kriegst mich nicht zur\u00fcck",
+        "url": "https://open.spotify.com/album/4cxJotBAgV0ZOmROIezp6k"
+      },
+      "artists": [
+        {
+          "name": "Faber",
+          "url": "https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "Du kriegst mich nicht zur\u00fcck",
+      "url": "https://open.spotify.com/track/2yPmT3WjYGFtqn9NqiejjB"
     },
     {
       "added_at": "2024-07-29 10:05:21",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-07-29 10:05:21",
       "album": {
-        "name": "Champions",
-        "url": "https://open.spotify.com/album/0ojmsZGPDsKXQRYtua7bhT"
-      },
-      "artists": [
-        {
-          "name": "Pegasus",
-          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
-        }
-      ],
-      "duration_ms": 152644,
-      "name": "Champions",
-      "url": "https://open.spotify.com/track/1stHdQgmNNeuVMjKlpobVs"
-    },
-    {
-      "added_at": "2024-07-29 10:05:21",
-      "album": {
         "name": "Counting Days",
         "url": "https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2"
       },
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2024-07-29 10:05:21",
       "album": {
-        "name": "Julia",
-        "url": "https://open.spotify.com/album/59GWFnfxZuC00B708ZeKvk"
+        "name": "Champions",
+        "url": "https://open.spotify.com/album/0ojmsZGPDsKXQRYtua7bhT"
       },
       "artists": [
         {
-          "name": "Andryy",
-          "url": "https://open.spotify.com/artist/7EOSMyuCedHppuXhVBsbEP"
+          "name": "Pegasus",
+          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
         }
       ],
-      "duration_ms": 194379,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/6CTHHyCpJqqZiHQ8IdTKX3"
+      "duration_ms": 152644,
+      "name": "Champions",
+      "url": "https://open.spotify.com/track/1stHdQgmNNeuVMjKlpobVs"
     },
     {
       "added_at": "2024-07-29 10:05:21",
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2024-07-29 10:05:21",
       "album": {
-        "name": "Can't Be Loved",
-        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
+        "name": "Julia",
+        "url": "https://open.spotify.com/album/59GWFnfxZuC00B708ZeKvk"
       },
       "artists": [
         {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+          "name": "Andryy",
+          "url": "https://open.spotify.com/artist/7EOSMyuCedHppuXhVBsbEP"
         }
       ],
-      "duration_ms": 171696,
-      "name": "Can't Be Loved",
-      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
+      "duration_ms": 194379,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/6CTHHyCpJqqZiHQ8IdTKX3"
     },
     {
       "added_at": "2024-07-29 10:05:21",
@@ -1111,6 +1095,54 @@
     {
       "added_at": "2024-07-29 10:05:21",
       "album": {
+        "name": "Can't Be Loved",
+        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
+      },
+      "artists": [
+        {
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "Can't Be Loved",
+      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
+    },
+    {
+      "added_at": "2024-07-29 10:05:21",
+      "album": {
+        "name": "Surfer Girl",
+        "url": "https://open.spotify.com/album/7AUCY4FBxSUUzHp2YX5nkg"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Benedek",
+          "url": "https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu"
+        }
+      ],
+      "duration_ms": 219267,
+      "name": "Surfer Girl",
+      "url": "https://open.spotify.com/track/3WLqSWEgz0Dxo2D5qKfXAP"
+    },
+    {
+      "added_at": "2024-07-29 10:05:21",
+      "album": {
+        "name": "Maggie",
+        "url": "https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp"
+      },
+      "artists": [
+        {
+          "name": "Linda Elys",
+          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+        }
+      ],
+      "duration_ms": 179617,
+      "name": "Maggie",
+      "url": "https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk"
+    },
+    {
+      "added_at": "2024-07-29 10:05:21",
+      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/0F00CHsYzsEIYuVK8GjYu6"
       },
@@ -1123,38 +1155,6 @@
       "duration_ms": 155268,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/4SemVHStVzeOBprnKQ3ADo"
-    },
-    {
-      "added_at": "2024-07-29 10:05:21",
-      "album": {
-        "name": "NEW FRIENDS",
-        "url": "https://open.spotify.com/album/2uwdWxWE4KHOuKHRQyx99Y"
-      },
-      "artists": [
-        {
-          "name": "Skyler Wind",
-          "url": "https://open.spotify.com/artist/6NgwMYnjqJakjMbMECN2qT"
-        }
-      ],
-      "duration_ms": 173183,
-      "name": "NEW FRIENDS",
-      "url": "https://open.spotify.com/track/6Qag39kJfma6CtUwPk45Qf"
-    },
-    {
-      "added_at": "2024-07-29 10:05:21",
-      "album": {
-        "name": "Daredevil",
-        "url": "https://open.spotify.com/album/1eLoAa0EpSIq1QhDUeEgaa"
-      },
-      "artists": [
-        {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
-        }
-      ],
-      "duration_ms": 153883,
-      "name": "Daredevil",
-      "url": "https://open.spotify.com/track/1edoaqKUVDzWNs4flkvNPw"
     }
   ],
   "unique_name": "Swiss Made",

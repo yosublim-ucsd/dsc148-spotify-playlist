@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。藤井風, XG, YOASOBI, MILLENNIUM PARADE and more! cover: 藤井風
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,806 likes - 79 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,822 likes - 79 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 59 | [PAROPARO G](https://open.spotify.com/track/5Ki6GiDDuFvAjvsyferQjO) | [E.V.P](https://open.spotify.com/artist/33yCAphqucbYTVBGfcJrjU), [Chinza Dopeness](https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho), [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [PAROPARO G](https://open.spotify.com/album/6bT1zDT7iBryIANoAw6cCq) | 4:03 |
 | 60 | [うなぎ浪漫](https://open.spotify.com/track/3JZhHzqSnS0T61qlyVtOnC) | [TOKAGE](https://open.spotify.com/artist/3NX2AWnLNRftExCEoBaXVB), [SOCKS](https://open.spotify.com/artist/2pJg8flIdE3z4C9mJBgRuw) | [うなぎ浪漫](https://open.spotify.com/album/6dp8HbOxNfnmMaTfI8whPU) | 3:32 |
 | 61 | [WORK OF ART \(feat\. Jaden\)](https://open.spotify.com/track/1c2qoYVi2LBQWDN2tp9v5S) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [WORK OF ART \(feat\. Jaden\)](https://open.spotify.com/album/7siF6s5KBVuJJUydAo7WgL) | 3:24 |
-| 62 | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/track/7aDvC7UzTZ47Hx5jJUX1sJ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [JT](https://open.spotify.com/artist/4cybvZ3pcSdD2xNFhIzrkk) | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/album/2wJwaumR3Y8PCM01JgJqSj) | 3:00 |
+| 62 | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/track/7aDvC7UzTZ47Hx5jJUX1sJ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/album/2wJwaumR3Y8PCM01JgJqSj) | 3:00 |
 | 63 | [Saturday Mornings \(feat\. Lil Wayne\)](https://open.spotify.com/track/2dk1fsLg7YEsKJdVm4P5cu) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Saturday Mornings \(feat\. Lil Wayne\)](https://open.spotify.com/album/3IySMEnXL20Sm0ZwZXxS66) | 4:23 |
 | 64 | [Gold Mine](https://open.spotify.com/track/5lYSnVlaBoMTjCcyOisuul) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Gold Mine](https://open.spotify.com/album/3sbWLPR57oRvmo1DgJNpi0) | 2:58 |
 | 65 | [FASHO](https://open.spotify.com/track/3CcOvobFZW42wJBh5oXd7Q) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [Woodie Gochild](https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [AT H1GHR](https://open.spotify.com/album/4FxVsRxBjnKKCrHZ6YldQO) | 7:03 |

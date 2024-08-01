@@ -446,7 +446,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 231724,
       "name": "Blame You (feat. Dylan)",
       "url": "https://open.spotify.com/track/1OO7bKqN3XRDb0W6B3wM6i"
@@ -574,6 +574,24 @@
       "duration_ms": 363782,
       "name": "Can't Destroy Love",
       "url": "https://open.spotify.com/track/25uYgeEbQmZdQVd0xQQzMn"
+    },
+    {
+      "album": {
+        "name": "Can't Get You Out of My Head",
+        "url": "https://open.spotify.com/album/0R7TWIazXEIYBhYgMQBoEA"
+      },
+      "artists": [
+        {
+          "name": "Dwin",
+          "url": "https://open.spotify.com/artist/00OLN5o0Ba1W6KkjRi5jWd"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162083,
+      "name": "Can't Get You Out of My Head",
+      "url": "https://open.spotify.com/track/61fJFEna3BOXOUK6vlzjAC"
     },
     {
       "album": {
@@ -716,7 +734,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 142720,
       "name": "Conveniency",
       "url": "https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU"
@@ -2098,7 +2116,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 219836,
       "name": "Kites",
       "url": "https://open.spotify.com/track/5wngvewYbGMedJ6y86xz0O"

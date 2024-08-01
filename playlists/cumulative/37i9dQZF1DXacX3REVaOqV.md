@@ -4,7 +4,7 @@
 
 > The best in house music
 
-464 songs - 1 day 7 hr 36 min
+465 songs - 1 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Easy Baby](https://open.spotify.com/track/6x9zA8ibdDsEJtxEeeMNor) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Mo Selleck](https://open.spotify.com/artist/2TmLgEfzFDJ2afLTxXd2Aa) | [Easy Baby](https://open.spotify.com/album/7qEDuTjre2FiyLzwj7eIlw) | 2:43 | 2024-03-07 |  |
 | [Elle \- Amorhouse & Fennel Club Mix](https://open.spotify.com/track/6N6gSsS03vNEBmzJksbNXE) | [Hanna Haïs](https://open.spotify.com/artist/6cnRri5dkUwbn0jsjXJrdA), [Amorhouse & Fennel](https://open.spotify.com/artist/1G3WFc0Aj1yOwJlNlK4cK1) | [Elle](https://open.spotify.com/album/1Pi6vU17WMFQMTVN4fr0k6) | 6:17 | 2022-04-14 | 2022-07-29 |
 | [Envision \- Âme Remix](https://open.spotify.com/track/7IXVjnFnFsGQ21qBV3Uo1T) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Envision Remixes](https://open.spotify.com/album/6h5GzvE8M453rbfa8NKjwK) | 9:16 | 2022-07-28 | 2022-10-14 |
-| [Eros](https://open.spotify.com/track/3HJr6Bql5OLIqMfg2qm990) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Eros](https://open.spotify.com/album/5JbjrwkXD1x8OWzaeONVXM) | 4:44 | 2022-04-26 |  |
+| [Eros](https://open.spotify.com/track/3HJr6Bql5OLIqMfg2qm990) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Eros](https://open.spotify.com/album/5JbjrwkXD1x8OWzaeONVXM) | 4:44 | 2022-04-26 | 2024-08-01 |
 | [Estafette](https://open.spotify.com/track/0UXSed2eRwzvuxfBRkKhKS) | [Rene Amesz](https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m) | [Estafette](https://open.spotify.com/album/5x3AwREKuHLcJMFm1g28Um) | 3:11 | 2022-04-14 | 2022-07-28 |
 | [Everybody Everybody \(TCTS Remix\) \- Edit](https://open.spotify.com/track/16LMJP0ci9YHA0kmNUjE1H) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io) | [All Blessed \(Deluxe\)](https://open.spotify.com/album/2UVSFpPFmYxa3teEBxXkP8) | 3:29 | 2022-05-16 | 2023-02-05 |
 | [Everyday People](https://open.spotify.com/track/68FsnsTl1yNJKX8RYgbcMy) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys) | [Everyday People](https://open.spotify.com/album/1LJpax4mCpovZiAJUZFChP) | 2:45 | 2024-04-11 |  |
@@ -466,6 +466,7 @@
 | [You Do](https://open.spotify.com/track/3w5icXq5sD6OqSXTMJH8v9) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [You Do](https://open.spotify.com/album/37UuuBfGL1b06mmEpeLyrl) | 2:29 | 2023-09-07 |  |
 | [You Give Me A Feeling](https://open.spotify.com/track/1YKp8PG1DEQJ0hLc2CJGO8) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [You Give Me A Feeling](https://open.spotify.com/album/4N1rhGq5PivmmavHBBDz12) | 3:05 | 2022-04-14 | 2023-02-25 |
 | [You Give Me A Feeling](https://open.spotify.com/track/2qRKTg13LJGHO4fmQTWT7x) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [You Give Me A Feeling](https://open.spotify.com/album/2UUluViWyFRdmxqsNap7hm) | 3:05 | 2023-02-16 | 2024-04-12 |
+| [You Got Heat \- Radio edit](https://open.spotify.com/track/6hH6ecSGyv2kXfMbknEX9S) | [Mick Jansen](https://open.spotify.com/artist/3GTeyz3C1JlYooq2HzwwcT), [Jerry Luca](https://open.spotify.com/artist/6rHDQG5EAhPAO9tLNh8LQr) | [You Got Heat](https://open.spotify.com/album/40YAosrDFxpayxG1FGoTRk) | 3:33 | 2024-07-25 |  |
 | [You Got Me Calling](https://open.spotify.com/track/0DE977kfUvSfnPtwl8P9t3) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [YAX.X](https://open.spotify.com/artist/0dPvgsYtDUI9Wcr0WREIJK), [SABRI](https://open.spotify.com/artist/3leOdlQnLg9bSTFJY9WCSP) | [You Got Me Calling](https://open.spotify.com/album/63IP36b0gsQzP3S8hAUvY4) | 2:39 | 2022-05-19 | 2024-05-24 |
 | [You're in My System \- Dennis Quin Vocal Mix](https://open.spotify.com/track/7uRqCJHRsrkBU5W3RG0cnL) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Jerome Sydenham](https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B), [Troy Denari](https://open.spotify.com/artist/2cNKz5QJgfclP9Ay7Okghv), [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [You're in My System \(Dennis Quin Remixes\)](https://open.spotify.com/album/11hmXIEpilxzxlCKjdaK6U) | 6:05 | 2022-04-14 | 2023-09-01 |
 | [You've Got To Let Go If You Want To Be Free](https://open.spotify.com/track/5kVXjAxYDkN57tZQi0JKya) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [You've Got To Let Go If You Want To Be Free](https://open.spotify.com/album/7nJFzH65HZDY5qeRwdo421) | 4:13 | 2022-04-14 | 2024-02-08 |

@@ -4,7 +4,7 @@
 
 > Canciones deliciosas para relajarse y pasarla chill junto a la piscina\. 🏖️🏊🍹
 
-196 songs - 13 hr 6 min
+197 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Are You Feeling Sad?](https://open.spotify.com/track/6iTHsvN6Mi2xaQ0igLNvTD) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Are You Feeling Sad?](https://open.spotify.com/album/5wTdvOpWCOokNlDRQDyLSm) | 2:38 | 2023-08-14 | 2024-06-01 |
 | [Atlantic Oscillations](https://open.spotify.com/track/2qJrhIwk58tTBSLI85VCJe) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Atlantic Oscillations](https://open.spotify.com/album/3ZLy3uTgrCAw9pNNpoEUZE) | 5:51 | 2023-08-14 | 2024-06-20 |
 | [Aurora Dijo Adiós](https://open.spotify.com/track/2Z82k4TZ7rLmyxrw8ApeQI) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Aurora Dijo Adiós](https://open.spotify.com/album/16k4HKRG2p2d3E7k6dmzHJ) | 3:41 | 2023-03-20 | 2023-07-29 |
-| [Backdrops](https://open.spotify.com/track/1L6yd85lGhfCGbNwKKvcAp) | [Walientinho](https://open.spotify.com/artist/4qVK77FWzEGLmP1Vw1I9or) | [Backdrops](https://open.spotify.com/album/7uabdAZxN8OvV4ZO3yRoJC) | 3:06 | 2023-08-14 |  |
+| [Backdrops](https://open.spotify.com/track/1L6yd85lGhfCGbNwKKvcAp) | [Walientinho](https://open.spotify.com/artist/4qVK77FWzEGLmP1Vw1I9or) | [Backdrops](https://open.spotify.com/album/7uabdAZxN8OvV4ZO3yRoJC) | 3:06 | 2023-08-14 | 2024-08-01 |
 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 | 2024-04-18 |  |
 | [beachin](https://open.spotify.com/track/3urYUGRvToBI4u87OzsSMZ) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 3:15 | 2023-05-25 |  |
 | [Beginning \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/6DKILAX03B9oLWDaLkw1Vp) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Beginning \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/7DcdXnMiadzyxSlQnLIsCo) | 5:50 | 2023-08-14 |  |
@@ -46,6 +46,7 @@
 | [Descends](https://open.spotify.com/track/0z5fkd9sWqGpQd6cr8y0dH) | [Weekend Affair](https://open.spotify.com/artist/0dZXa7OgcOzv3tNUagbKb7) | [Du rivage](https://open.spotify.com/album/1RRsys1mwPSPsA0qbWHIWD) | 3:34 | 2023-03-20 |  |
 | [Discoman](https://open.spotify.com/track/5YpB83TMSxvNw3F7SMikHq) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Discoman](https://open.spotify.com/album/0A2nttPiJAdDfjkmt9l2vT) | 3:40 | 2023-03-20 |  |
 | [Do Beijo](https://open.spotify.com/track/10e7D2zxoamqizmQ03C1RK) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Processman](https://open.spotify.com/artist/3uxDCjxvaZzVs1BJQJk38I), [Henriq Ch](https://open.spotify.com/artist/178JYHPD8js9YtWaHcjviR) | [Do Beijo](https://open.spotify.com/album/7l9QhlNZYar3Z72LHj3UHr) | 3:32 | 2023-08-14 | 2024-07-12 |
+| [Do Something!](https://open.spotify.com/track/3qIfexWcDZUuSYQNogshMa) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C), [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [Do Something!](https://open.spotify.com/album/7wOOMSpNAHJO4vadu3V6RN) | 2:11 | 2024-07-31 |  |
 | [Dominoes](https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:57 | 2023-08-14 | 2024-04-19 |
 | [Dominoes](https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Dominoes](https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp) | 2:57 | 2023-05-24 | 2023-09-15 |
 | [Don't Sing \(Polo & Pan Remix\)](https://open.spotify.com/track/3e4OoM7ltrDn63xcZccpj1) | [Data](https://open.spotify.com/artist/75QkeG5yBHVCybZurCrMa8), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Don't Sing](https://open.spotify.com/album/7HGiUWfOslsBiDEeJkzy4V) | 5:11 | 2023-03-20 |  |

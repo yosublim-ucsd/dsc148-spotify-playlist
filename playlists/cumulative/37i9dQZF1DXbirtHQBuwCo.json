@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 152910,
       "name": "Best Lover",
       "url": "https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq"
@@ -3202,6 +3202,28 @@
       "duration_ms": 215425,
       "name": "Crime (Feat. Dok2)",
       "url": "https://open.spotify.com/track/2yqRx63j0kH9GrddlVPYL1"
+    },
+    {
+      "album": {
+        "name": "Monthly AP - July, 2024",
+        "url": "https://open.spotify.com/album/5BCngzkElUQIXCYhDT4qhY"
+      },
+      "artists": [
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+        },
+        {
+          "name": "INJAE",
+          "url": "https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Crossroad (Prod. TII)",
+      "url": "https://open.spotify.com/track/41kobftscgCdRBcMaa2DjG"
     },
     {
       "album": {
@@ -6611,6 +6633,24 @@
     },
     {
       "album": {
+        "name": "gimbap",
+        "url": "https://open.spotify.com/album/50xp8elLZomzlu6uE4RebW"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210680,
+      "name": "it's my fault",
+      "url": "https://open.spotify.com/track/3CQJRcZf9yNgIDCQBllfxx"
+    },
+    {
+      "album": {
         "name": "It\u2019s on me",
         "url": "https://open.spotify.com/album/63KlbY062pYL6vDjIT5xYJ"
       },
@@ -9726,7 +9766,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 169893,
       "name": "ONCE AGAIN",
       "url": "https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn"
@@ -13037,6 +13077,24 @@
     },
     {
       "album": {
+        "name": "Treat Me Better",
+        "url": "https://open.spotify.com/album/0FhphJWHqernJzgewzKawK"
+      },
+      "artists": [
+        {
+          "name": "Riaan",
+          "url": "https://open.spotify.com/artist/18ddvXa7OXbffUym1vpjim"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177613,
+      "name": "Treat Me Better",
+      "url": "https://open.spotify.com/track/1hmaRc3ZDI9M1v06q0sDom"
+    },
+    {
+      "album": {
         "name": "Trigger",
         "url": "https://open.spotify.com/album/1w7t4Q5OfS3HA0nPirbgde"
       },
@@ -14106,7 +14164,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 161375,
       "name": "WHY, WHY, WHY",
       "url": "https://open.spotify.com/track/0k46RHQDiZrP8eDgY4bd3v"

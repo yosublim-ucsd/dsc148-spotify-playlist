@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > Dukh Dard Peeda!  🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,125 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,208 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 42 | [Wafa Na Raas Aayee](https://open.spotify.com/track/7rjFYm6THGNETjg3vb1Tof) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS) | [Wafa Na Raas Aayee](https://open.spotify.com/album/4SJ1Bg3UAbnkLiaqkHcwaz) | 4:48 |
 | 43 | [Mehendi Wale Haath](https://open.spotify.com/track/3H4H5AuUK3t28rJNo1Pbfl) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjana Sanghi](https://open.spotify.com/artist/0nFIPa2qOn5ODHEWi3Ywan) | [Mehendi Wale Haath](https://open.spotify.com/album/27tWgZZCTAUBHTS7h2sBhQ) | 3:30 |
 | 44 | [Tujhe Bhoolna Toh Chaaha](https://open.spotify.com/track/1mp0zS57ydCqZp9Tm4VvIy) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa) | [Tujhe Bhoolna Toh Chaaha](https://open.spotify.com/album/2W6ZCzLC2pezmRYJQKbr2C) | 4:35 |
-| 45 | [Bechari](https://open.spotify.com/track/6VVMuz3uTe7EYEmBglksGb) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Bechari](https://open.spotify.com/album/6wAUIl8geX8NIrYlBLe2Xj) | 4:43 |
-| 46 | [Rootho Na](https://open.spotify.com/track/3iianNzrInP4BTd6NYCq3g) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Rootho Na](https://open.spotify.com/album/7hqFafe5aIpab9Tx78q5mn) | 3:50 |
+| 45 | [Rootho Na](https://open.spotify.com/track/3iianNzrInP4BTd6NYCq3g) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Rootho Na](https://open.spotify.com/album/7hqFafe5aIpab9Tx78q5mn) | 3:50 |
+| 46 | [Bechari](https://open.spotify.com/track/6VVMuz3uTe7EYEmBglksGb) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Bechari](https://open.spotify.com/album/6wAUIl8geX8NIrYlBLe2Xj) | 4:43 |
 | 47 | [Baat Nahi Karni](https://open.spotify.com/track/2u3HW8mIXavURNop5FD8cn) | [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Baat Nahi Karni](https://open.spotify.com/album/7AUxWTsDcbo99LRXGKW7ia) | 3:50 |
 | 48 | [Tod Da E Dil](https://open.spotify.com/track/1WTwFMVRQvkx9fRpCKNrJ9) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Tod Da E Dil](https://open.spotify.com/album/5psXEF4Sj4mSQa1KlJLPEy) | 2:37 |
 | 49 | [Aisi Teri Yaadein](https://open.spotify.com/track/0zQT8LBspIhHQ1RUFzTe5D) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Rocky Khanna](https://open.spotify.com/artist/706HpBx83UlG2Shf6zTnSC) | [Aisi Teri Yaadein](https://open.spotify.com/album/7r6qLiVCn35vuJafG6JlNB) | 4:55 |

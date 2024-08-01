@@ -1,37 +1,27 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain](/playlists/plain/37i9dQZF1DXcaYebsRphft) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcaYebsRphft)
 
-### [On Tour Japan: Kep1er](https://open.spotify.com/playlist/37i9dQZF1DXcaYebsRphft)
+### [On Tour Japan: LESSERAFIM](https://open.spotify.com/playlist/37i9dQZF1DXcaYebsRphft)
 
-> 【セトリ公開】2024年7月13日\~15日に開催されたKep1er JAPAN CONCERT 2024 ＜Kep1going＞のセットリストを公開！ \*7月15日\(月・祝\)最終公演のセットリスト
+> メンバーからの音声メッセージ入り『LE SSERAFIM FAN MEETING ‘FEARNADA’ 2024 S/S \- JAPAN』セットリストを公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,504 likes - 25 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,221 likes - 15 songs - 29 min 24 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LVLY](https://open.spotify.com/track/4245mprsIXRpaSg9U89ow1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [LOVESTRUCK!](https://open.spotify.com/album/7LmVnv26vUmzSfnTjeF3AD) | 3:19 |
-| 2 | [Straight Line](https://open.spotify.com/track/1HBYsYVdX49Gi1lrmqmk63) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Straight Line](https://open.spotify.com/album/58nZRpRVzO9INTkg5Ystph) | 2:45 |
-| 3 | [PROBLEM](https://open.spotify.com/track/1Rht2nH4v3S3J39J7jBJel) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1going On](https://open.spotify.com/album/0hiqhyNqW4ZtH8qUZIAewI) | 3:02 |
-| 4 | [Grand Prix](https://open.spotify.com/track/5btc1Il6aABmVNUOjooNK8) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Grand Prix](https://open.spotify.com/album/6lriTwnKW6GIKoRYOJ2Dy9) | 3:07 |
-| 5 | [MVSK \(Japanese version\)](https://open.spotify.com/track/5qYl1K4c4cdDnKUN94j4Tz) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1going](https://open.spotify.com/album/7vehBp2yn4AlDZw0SQ8IHf) | 3:12 |
-| 6 | [Giddy \(Japanese version\)](https://open.spotify.com/track/37evnDodh0CQjny46wTwiC) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1going](https://open.spotify.com/album/7vehBp2yn4AlDZw0SQ8IHf) | 3:06 |
-| 7 | [Wing Wing](https://open.spotify.com/track/1uKI4JKUIUJC0aXJqKCl6y) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Wing Wing](https://open.spotify.com/album/4SJ6tb6ajzNrmLY5w92XyD) | 3:15 |
-| 8 | [Daisy](https://open.spotify.com/track/6jql35WDVQEgTRHvUTPOrd) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<FLY\-UP> \- Special Edition \-](https://open.spotify.com/album/2vVvnTCd3Nazq9eC7RKMHL) | 2:56 |
-| 9 | [Celebrate](https://open.spotify.com/track/6BsVR4ZcDN3sbUyljIEEPI) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1going](https://open.spotify.com/album/7vehBp2yn4AlDZw0SQ8IHf) | 3:21 |
-| 10 | [Highlight](https://open.spotify.com/track/2VJrDLdiLcw9bSZMe73sWG) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1going](https://open.spotify.com/album/7vehBp2yn4AlDZw0SQ8IHf) | 3:33 |
-| 11 | [Cruise](https://open.spotify.com/track/1ajjWWBfU1Si0GmkIK9dSr) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1going](https://open.spotify.com/album/7vehBp2yn4AlDZw0SQ8IHf) | 3:19 |
-| 12 | [Don't Lose Your Smile](https://open.spotify.com/track/2ZBHjPLYlp8BdmtQjo5vW6) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1going](https://open.spotify.com/album/7vehBp2yn4AlDZw0SQ8IHf) | 3:27 |
-| 13 | [Dear Diary](https://open.spotify.com/track/5pnKaTeGITcJJkbBPWC8Vy) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1going On](https://open.spotify.com/album/0hiqhyNqW4ZtH8qUZIAewI) | 3:06 |
-| 14 | [I do! Do you?](https://open.spotify.com/track/7wFeVMTlgOu910OH9RctRI) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [I do! Do you?](https://open.spotify.com/album/3UZfvVHePm0ROe6EcJEwMl) | 3:34 |
-| 15 | [Utopia](https://open.spotify.com/track/7gooZXJC9D84HshVe1KYCX) | [Unicorn](https://open.spotify.com/artist/1TcbgUzUz9pA3mN30ZXnHl) | [Girls Planet 999 \- Creation Mission](https://open.spotify.com/album/1udXKryzOCDM3HfMrzacDb) | 3:36 |
-| 16 | [Shine \(Kep1er Version\)](https://open.spotify.com/track/2Qh7lvmoMg5oGpscQRvflD) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/52HBqGcl4FIRwJ3iNYcliA) | 3:34 |
-| 17 | [O.O.O \(Over&Over&Over\) \(Kep1er Version\)](https://open.spotify.com/track/0o8GhuCWzLcI5JeGZNcbOc) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/52HBqGcl4FIRwJ3iNYcliA) | 4:07 |
-| 18 | [Shooting Star](https://open.spotify.com/track/6iINhMZAsZltmpyVWDanfk) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1going On](https://open.spotify.com/album/0hiqhyNqW4ZtH8qUZIAewI) | 3:03 |
-| 19 | [We Fresh \(Japanese version\)](https://open.spotify.com/track/2jZ4n7cW3cSUMdiM5ICEGr) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1going](https://open.spotify.com/album/7vehBp2yn4AlDZw0SQ8IHf) | 3:17 |
-| 20 | [WA DA DA \(Japanese version\)](https://open.spotify.com/track/1P4YrRRKdiG26Zuv10tmLb) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<FLY\-UP> \- Special Edition \-](https://open.spotify.com/album/2vVvnTCd3Nazq9eC7RKMHL) | 3:04 |
-| 21 | [Back to the City](https://open.spotify.com/track/1ns5ZeDUT2RJeJMcc2xlv3) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [LOVESTRUCK!](https://open.spotify.com/album/7LmVnv26vUmzSfnTjeF3AD) | 3:20 |
-| 22 | [tOgether fOrever](https://open.spotify.com/track/4lEyfMaUwdioK1MxfSVBPw) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<FLY\-BY> \- Special Edition \-](https://open.spotify.com/album/3knTfpvtA87E82OLyDJJWS) | 3:31 |
-| 23 | [Another Dream \(Kep1er Version\)](https://open.spotify.com/track/4YAZcAxgoqHyMvrZoPq11F) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/52HBqGcl4FIRwJ3iNYcliA) | 3:21 |
-| 24 | [Sugar](https://open.spotify.com/track/7GvWR4mvfvzvWtVXBcU23t) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<FLY\-HIGH> \- Special Edition \-](https://open.spotify.com/album/48HXlZ0LviGDHnGon1gyTm) | 2:34 |
-| 25 | [Daisy](https://open.spotify.com/track/2CRQl4MahB8KwSIa1o38pZ) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1going](https://open.spotify.com/album/7vehBp2yn4AlDZw0SQ8IHf) | 2:57 |
+| 1 | [LE SSERAFIM comment 1](https://open.spotify.com/track/19psBJ2aZBNIxYtKPc1uVA) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [LE SSERAFIM FAN MEETING ‘FEARNADA’ 2024 S/S \- JAPAN](https://open.spotify.com/album/3qZYoaWgCGUqjaHksKI398) | 0:46 |
+| 2 | [Smart](https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:46 |
+| 3 | [Choices](https://open.spotify.com/track/0THn1agoZT9wJXkITUz6dJ) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Choices](https://open.spotify.com/album/4mpznsEPjMQrvD7laIx9UI) | 3:21 |
+| 4 | [No Celestial](https://open.spotify.com/track/21ApmVGIzIAIDSBdHu6SVt) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 2:46 |
+| 5 | [LE SSERAFIM comment 2](https://open.spotify.com/track/7EpyNZ0AV2kdxQ4nyc00ki) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [LE SSERAFIM FAN MEETING ‘FEARNADA’ 2024 S/S \- JAPAN](https://open.spotify.com/album/3qZYoaWgCGUqjaHksKI398) | 0:25 |
+| 6 | [Swan Song](https://open.spotify.com/track/2GquhrcHbl2zOnF5javAFp) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:37 |
+| 7 | [FEARNOT \(Between you, me and the lamppost\)](https://open.spotify.com/track/0sNfFxw3pJkVmRsgY781vM) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:26 |
+| 8 | [LE SSERAFIM comment 3](https://open.spotify.com/track/3FNwtF7zNgWCbXKADuhWbI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [LE SSERAFIM FAN MEETING ‘FEARNADA’ 2024 S/S \- JAPAN](https://open.spotify.com/album/3qZYoaWgCGUqjaHksKI398) | 0:31 |
+| 9 | [UNFORGIVEN \- Japanese ver.](https://open.spotify.com/track/07Kq5cRJkYNieu1rge3PZX) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ナイル・ロジャース](https://open.spotify.com/artist/7sKzaEQMrAbbO3Q3cTzazQ), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UNFORGIVEN \(Japanese ver.\)](https://open.spotify.com/album/28unbkaJvfdbM5zffw9vpc) | 3:02 |
+| 10 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 |
+| 11 | [LE SSERAFIM comment 4](https://open.spotify.com/track/27tXo0pIO9guwcrrwmogjZ) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [LE SSERAFIM FAN MEETING ‘FEARNADA’ 2024 S/S \- JAPAN](https://open.spotify.com/album/3qZYoaWgCGUqjaHksKI398) | 0:18 |
+| 12 | [ジュエリー \(Prod\. imase\)](https://open.spotify.com/track/1PeBPKbOCc370rnLKploBL) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ジュエリー \(Prod\. imase\)](https://open.spotify.com/album/6mw2LvoVp9MP0jMv0ZuJla) | 2:43 |
+| 13 | [LE SSERAFIM comment 5](https://open.spotify.com/track/27CfaqTgHVyM8UrDaiHJpX) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [LE SSERAFIM FAN MEETING ‘FEARNADA’ 2024 S/S \- JAPAN](https://open.spotify.com/album/3qZYoaWgCGUqjaHksKI398) | 0:19 |
+| 14 | [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 |
+| 15 | [LE SSERAFIM comment 6](https://open.spotify.com/track/1wPfBXM5BbV3cQXGfYOtQe) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [LE SSERAFIM FAN MEETING ‘FEARNADA’ 2024 S/S \- JAPAN](https://open.spotify.com/album/3qZYoaWgCGUqjaHksKI398) | 0:27 |
 
-Snapshot ID: `ZpUBMAAAAABzlgNvDt8QagUhYK9xlkxM`
+Snapshot ID: `ZqreEAAAAADbBqVN9mMV92LYVGP1mMiY`

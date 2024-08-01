@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-504 songs - 1 day 7 hr 51 min
+505 songs - 1 day 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [All for You](https://open.spotify.com/track/1aHiADbmDJi1ukmZghtvIn) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [All for You](https://open.spotify.com/album/7Ckd5Akndk0AC2HAhbQgdT) | 4:13 | 2024-02-02 |  |
 | [All I Want](https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [All In All](https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN) | 7:48 | 2020-12-22 | 2023-12-02 |
 | [All This Love](https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [All This Love](https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb) | 3:53 | 2024-07-12 |  |
-| [Alone in the Mountains](https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Alone in the Mountains](https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4) | 3:16 | 2023-04-21 |  |
+| [Alone in the Mountains](https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Alone in the Mountains](https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4) | 3:16 | 2023-04-21 | 2024-08-01 |
 | [Antidote](https://open.spotify.com/track/5WTeFqk3rVakNfKSsZQYrF) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Antidote](https://open.spotify.com/album/3u6dsqF6OwR0UtwQXAt5XX) | 4:53 | 2020-12-22 | 2022-07-29 |
 | [Anxious](https://open.spotify.com/track/1Ym5VTu587kLmzWFzS4ePa) | [Holy Ghost!](https://open.spotify.com/artist/2Vhc7Y0Kc6HzMC6glKM4h6) | [Anxious](https://open.spotify.com/album/3XitazgHhYwNBfccOAeVte) | 4:45 | 2020-12-22 | 2022-04-21 |
 | [As It Was](https://open.spotify.com/track/1i92UFFkxtKv4tYNzt1X1b) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [As It Was](https://open.spotify.com/album/58i1O2d95vxAnDhkySrVOU) | 3:46 | 2023-11-17 | 2024-05-25 |
@@ -184,6 +184,7 @@
 | [He](https://open.spotify.com/track/6ysRK6One7O5GiRVvrs0x1) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/6DnxZc9FT5qSMKKFDdviO2) | 4:28 | 2020-12-22 | 2022-04-21 |
 | [Heartbeat Highway](https://open.spotify.com/track/2YbJ0qJ5uqOPfLGvqMLkaK) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Heartbeat Highway](https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r) | 3:41 | 2023-11-10 |  |
 | [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 | 2023-06-30 | 2024-01-27 |
+| [Heat](https://open.spotify.com/track/4CICAO2tOivfuYQJD19wQf) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Heat](https://open.spotify.com/album/0TKD0FPj0eYCu8HnihRXme) | 3:44 | 2024-07-26 |  |
 | [Heat\-Wave](https://open.spotify.com/track/5RwQuZtvlmLq6rutrcugxF) | [Daniel T.](https://open.spotify.com/artist/2KV7SeH81I26dNswIYrNeY) | [Heat\-Wave](https://open.spotify.com/album/205mIe44luLaMWMijo4ukX) | 5:56 | 2020-12-22 | 2022-07-05 |
 | [Heights](https://open.spotify.com/track/1OCrb7dmygmJiDcjdFAPR8) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heights](https://open.spotify.com/album/59IswWk54vUt2dT0tvSzPJ) | 2:54 | 2020-12-22 | 2023-12-16 |
 | [Here We Are Again](https://open.spotify.com/track/3CLsZEY8QC4ZTBJGF47sGp) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Here We Are Again](https://open.spotify.com/album/1LWzd1ZpdNVucRD7kPEqXb) | 3:27 | 2020-12-22 | 2022-04-20 |

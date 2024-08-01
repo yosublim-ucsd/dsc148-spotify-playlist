@@ -4,7 +4,7 @@
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Ric Hassani
 
-627 songs - 1 day 7 hr 11 min
+628 songs - 1 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Enjoyment](https://open.spotify.com/track/0C1wC8uhOzENMF59dxYmnK) | [Jujuboy Star](https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a) | [Enjoyment](https://open.spotify.com/album/5OCy2YLDVn8yNVwxVVW7E1) | 3:06 | 2021-10-14 | 2022-03-25 |
 | [Escape](https://open.spotify.com/track/2syWCWxrwfqBqBLKMRCb1N) | [Novemba](https://open.spotify.com/artist/2Eiiy3N1dxC8elC8kIkoHJ) | [Escapade](https://open.spotify.com/album/5Crdlhgl0QFmuOGxfTvjke) | 3:14 | 2023-02-03 | 2023-03-04 |
 | [Everyday](https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Everyday](https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7) | 2:46 | 2024-05-03 |  |
-| [Everyday \(I Dey Pray\)](https://open.spotify.com/track/2lOvnEOUtbHlU461mlEfM4) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8), [Aema](https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2) | [no PITY](https://open.spotify.com/album/6hkdE1QM4zUBloZsI9RxKi) | 2:57 | 2024-03-08 |  |
+| [Everyday \(I Dey Pray\)](https://open.spotify.com/track/2lOvnEOUtbHlU461mlEfM4) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8), [Aema](https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2) | [no PITY](https://open.spotify.com/album/6hkdE1QM4zUBloZsI9RxKi) | 2:57 | 2024-03-08 | 2024-08-01 |
 | [Everyday Love](https://open.spotify.com/track/6wXRsCSsGwY1bfXK3BaZ7L) | [Rebecca Garton](https://open.spotify.com/artist/10SSWFHswODW4VG1y56JbL), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Everyday Love](https://open.spotify.com/album/5YuQhH8F5KA5xqSZYbgZzp) | 3:53 | 2023-05-26 | 2023-06-03 |
 | [Everything](https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Don't Tell Anyone](https://open.spotify.com/album/7DWtbxvd2vX3mNwVAO44iY) | 2:57 | 2023-05-26 | 2024-03-01 |
 | [EX BOYFRIEND](https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [EX BOYFRIEND](https://open.spotify.com/album/1OVZQ2AGHb6fQM0CFAviQq) | 2:14 | 2022-06-30 | 2022-12-19 |
@@ -537,6 +537,7 @@
 | [Steady](https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:23 | 2021-10-14 | 2023-02-24 |
 | [STONES](https://open.spotify.com/track/00ti8nTfpzn8rGt9tqBfTI) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Love & Isolation](https://open.spotify.com/album/4sMkAZXTXdtFikLhLqviyZ) | 2:47 | 2021-10-14 | 2022-03-04 |
 | [Stranger](https://open.spotify.com/track/1ySzohfiLo3l12pcqW40p3) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Stranger](https://open.spotify.com/album/4Q4uGd58eng0BxY3aAF7Bo) | 3:08 | 2023-06-09 | 2023-07-18 |
+| [Stronger](https://open.spotify.com/track/4KZMoDuxwSYP63bhbnMqe3) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Jiggy Forever](https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp) | 2:21 | 2024-07-31 |  |
 | [Stuck on You](https://open.spotify.com/track/423xcjejlvFG1TfGTarhXv) | [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [Stuck on You](https://open.spotify.com/album/0bmPEGlbryicq5k1oqpaj0) | 3:09 | 2024-05-24 |  |
 | [Summer Breeze](https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Summer Breeze](https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb) | 3:58 | 2023-06-09 | 2024-03-22 |
 | [Summer in the Ends \- Juls Zikomo Remix](https://open.spotify.com/track/53Skuiqa6vxJkllH99ajXn) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Zikomo](https://open.spotify.com/artist/1dAZApOwTI2FsXbgfmfrmm), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Summer in the Ends \(Juls Zikomo Remix\)](https://open.spotify.com/album/7y8luOJivmYwb7CaniGjnJ) | 3:45 | 2022-02-10 | 2022-03-12 |

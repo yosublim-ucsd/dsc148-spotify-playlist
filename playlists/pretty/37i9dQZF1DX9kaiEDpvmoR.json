@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92188,
+  "num_followers": 92186,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "The Border",
-        "url": "https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 165306,
-      "name": "Kiss Me When You're Through",
-      "url": "https://open.spotify.com/track/72Z9rtqBAHGUGWkFu2DCnD"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Like No One Could",
         "url": "https://open.spotify.com/album/3XgrclsnTqtc3U4UVXOydF"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 167101,
       "name": "Like No One Could",
       "url": "https://open.spotify.com/track/7HYVCFYBAUnYobUqgx4k4n"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "The Border",
+        "url": "https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 165306,
+      "name": "Kiss Me When You're Through",
+      "url": "https://open.spotify.com/track/72Z9rtqBAHGUGWkFu2DCnD"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Parents",
-        "url": "https://open.spotify.com/album/1rkY67qjeWpzsLp5suW0Y0"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 126175,
-      "name": "Parents",
-      "url": "https://open.spotify.com/track/5QCBY9fU0gViLSVkZaJnTk"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Solen g\u00e5r aldrig ner",
         "url": "https://open.spotify.com/album/2y5tJvYtWXmNNXizFcF9LT"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 160095,
       "name": "Solen g\u00e5r aldrig ner",
       "url": "https://open.spotify.com/track/7sWi4kUiI1o0dmp72tfZpS"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Parents",
+        "url": "https://open.spotify.com/album/1rkY67qjeWpzsLp5suW0Y0"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 126175,
+      "name": "Parents",
+      "url": "https://open.spotify.com/track/5QCBY9fU0gViLSVkZaJnTk"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Mordbrand",
-        "url": "https://open.spotify.com/album/1Qq4f6MVfVz1QG0NSvSB6D"
-      },
-      "artists": [
-        {
-          "name": "Arvid Nero",
-          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
-        }
-      ],
-      "duration_ms": 218103,
-      "name": "Mordbrand",
-      "url": "https://open.spotify.com/track/5wcN4IzrDi0vEEAL5etavw"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "F\u00f6rbjudna tankar",
         "url": "https://open.spotify.com/album/0jEvZDn9Q701djBnQeZEAj"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 139354,
       "name": "F\u00f6rbjudna tankar",
       "url": "https://open.spotify.com/track/23fBN1sw5DBKnADUPxUicl"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Mordbrand",
+        "url": "https://open.spotify.com/album/1Qq4f6MVfVz1QG0NSvSB6D"
+      },
+      "artists": [
+        {
+          "name": "Arvid Nero",
+          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+        }
+      ],
+      "duration_ms": 218103,
+      "name": "Mordbrand",
+      "url": "https://open.spotify.com/track/5wcN4IzrDi0vEEAL5etavw"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Vingar",
-        "url": "https://open.spotify.com/album/3IhYDgccVPQzJ8Y0x1O7au"
-      },
-      "artists": [
-        {
-          "name": "ORKID",
-          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Vingar",
-      "url": "https://open.spotify.com/track/2tv7wKMIWw9Z1NpcTN3XX5"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "L\u00e4ngs den l\u00e5nga v\u00e4gen hem",
         "url": "https://open.spotify.com/album/0d5l4YtBo05EtOpBNbhDgP"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 231346,
       "name": "L\u00e4ngs den l\u00e5nga v\u00e4gen hem",
       "url": "https://open.spotify.com/track/5ukUg5wFfgwbsAPfWfTAy4"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Vingar",
+        "url": "https://open.spotify.com/album/3IhYDgccVPQzJ8Y0x1O7au"
+      },
+      "artists": [
+        {
+          "name": "ORKID",
+          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Vingar",
+      "url": "https://open.spotify.com/track/2tv7wKMIWw9Z1NpcTN3XX5"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "What You\u2019re Saying To Me",
+        "url": "https://open.spotify.com/album/5K5czoyYx8Dk2RQQvXegDH"
+      },
+      "artists": [
+        {
+          "name": "Doug Seegers",
+          "url": "https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm"
+        },
+        {
+          "name": "Eva Eastwood",
+          "url": "https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "What You\u2019re Saying To Me",
+      "url": "https://open.spotify.com/track/0jY0xjUoBeeYxrV8ORQ1OM"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "I Had Some Help",
         "url": "https://open.spotify.com/album/0R3ZYHphV3n1PZTc7GKYSo"
       },
@@ -1435,26 +1455,6 @@
       "duration_ms": 309166,
       "name": "Draw Me Closer 2.0",
       "url": "https://open.spotify.com/track/3bGe284cdgFwa0nMOJ9uQA"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "What You\u2019re Saying To Me",
-        "url": "https://open.spotify.com/album/5K5czoyYx8Dk2RQQvXegDH"
-      },
-      "artists": [
-        {
-          "name": "Doug Seegers",
-          "url": "https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm"
-        },
-        {
-          "name": "Eva Eastwood",
-          "url": "https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "What You\u2019re Saying To Me",
-      "url": "https://open.spotify.com/track/0jY0xjUoBeeYxrV8ORQ1OM"
     },
     {
       "added_at": "2024-06-27 22:00:00",

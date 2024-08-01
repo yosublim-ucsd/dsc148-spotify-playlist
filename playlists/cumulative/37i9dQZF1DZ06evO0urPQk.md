@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO0urPQk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0urPQk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0urPQk)
 
-### [This Is Nana Mizuki](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urPQk)
+### [This Is 水樹奈々](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urPQk)
 
-> This is: Nana Mizuki\. Alle wichtigen Tracks in einer Playlist.
+> This is 水樹奈々\. The essential tracks, all in one playlist.
 
-115 songs - 8 hr 6 min
+116 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,12 +72,13 @@
 | [Red Breeze](https://open.spotify.com/track/0O8snDCXDEnK10SPvSvMS0) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [DELIGHTED REVIVER](https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO) | 4:32 | 2022-07-26 | 2022-10-14 |
 | [RUSH&DUSH!](https://open.spotify.com/track/06mywJgnTCE0uby1Z8dOMQ) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ETERNAL BLAZE](https://open.spotify.com/album/2nvexCedsx1QDH9CuCD0cV) | 3:26 | 2023-02-16 | 2023-02-25 |
 | [Sacred Force](https://open.spotify.com/track/2PoIB3gqN5EREhzyp2AYQm) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [BRIGHT STREAM](https://open.spotify.com/album/0XDdDSPWk1o4qcUDkAETMb) | 3:07 | 2022-06-09 |  |
-| [SCARLET KNIGHT](https://open.spotify.com/track/7goJieTP7XVVLMLdb5OFHd) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM II](https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN) | 4:10 | 2022-07-04 |  |
+| [SCARLET KNIGHT](https://open.spotify.com/track/7goJieTP7XVVLMLdb5OFHd) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM II](https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN) | 4:10 | 2022-07-04 | 2024-08-01 |
 | [SECRET AMBITION](https://open.spotify.com/track/5AB3codJ16dli3H2HmJyki) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM II](https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN) | 4:23 | 2022-06-09 | 2023-02-04 |
 | [Stand by you](https://open.spotify.com/track/4LXraG9aZEKp0eeIFxs1zU) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [DELIGHTED REVIVER](https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO) | 4:31 | 2022-07-09 | 2022-10-13 |
 | [STARTING NOW!](https://open.spotify.com/track/3hAyDY3024JUVmiIaBpcz0) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 3:28 | 2022-06-09 | 2022-12-30 |
 | [still in the groove](https://open.spotify.com/track/2s7GsHpgF9GTA6Hfc53FUK) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [DREAM SKIPPER](https://open.spotify.com/album/38Va1ns3qc0w6juNJeEaWs) | 4:30 | 2023-09-12 | 2023-10-11 |
 | [suddenly\~巡り合えて\~](https://open.spotify.com/track/3Vmcy6TdOR1zYQeNDFzTcV) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM](https://open.spotify.com/album/0JOdN0FpOm7Z224Svf5OaT) | 4:31 | 2022-06-09 | 2022-09-17 |
+| [suddenly～巡り合えて～](https://open.spotify.com/track/4MXUwNO0m6GMKF2jZoF9im) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [suddenly～巡り合えて～/Brilliant Star](https://open.spotify.com/album/77QWLaQMMeSTpkzOQGkM1n) | 4:32 | 2024-08-01 |  |
 | [Sugar Doughnuts](https://open.spotify.com/track/5Cv67fj74PhUgO26qRvBO5) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Sugar Doughnuts](https://open.spotify.com/album/1sNavFjkIPQAuHhIUTSm9O) | 3:26 | 2023-10-04 |  |
 | [Sweet Dealer](https://open.spotify.com/track/4IjnYMOjXRejldCjJrKk8A) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [CANNONBALL RUNNING](https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8) | 3:46 | 2023-09-25 | 2023-10-05 |
 | [sympathy](https://open.spotify.com/track/3mbnIQdoRv6fmObdReIPKm) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ADRENALIZED](https://open.spotify.com/album/5YJyrGRr8FE3IRZdaTG94T) | 3:20 | 2024-04-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover:   <a href="spotify:artist:6e8OTLDQpaz1Tl2GEaxsNj">Matthew West</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,888 likes - 98 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,916 likes - 98 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 12 | [Drive](https://open.spotify.com/track/4e8lXxOrEBJfvyx2zoZ0K3) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [Drive](https://open.spotify.com/album/6fTzSgdtC6r0rASnYHaPaJ) | 3:13 |
 | 13 | [Jesus Will](https://open.spotify.com/track/5KRZm2rZjqlOWdBTm2P4wM) | [Sean Rodriguez](https://open.spotify.com/artist/2ifliJZxSO9sNpZY4ItwPY) | [Jesus Will](https://open.spotify.com/album/1JYjrgKpfsWolFbO5wHgGD) | 3:18 |
 | 14 | [Oceans \(Where Feet May Fail\) \- Acoustic](https://open.spotify.com/track/3jOUk86JA4V8gSnDHKBNAS) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Oceans \(Where Feet May Fail\) \[Acoustic\]](https://open.spotify.com/album/1AlA9bGjGYKNLh79zqZO4P) | 3:55 |
-| 15 | [Poor In Spirit \- Live](https://open.spotify.com/track/1r481zZyjH3m3bDvHu9jCH) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [The Pressing In: Piano Sessions](https://open.spotify.com/album/3qwA60ZIxRxpd7RZ3xNSD3) | 4:49 |
+| 15 | [Poor In Spirit \- Live](https://open.spotify.com/track/1r481zZyjH3m3bDvHu9jCH) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa), [Brett Shaw](https://open.spotify.com/artist/0cPXxP2NntqpqKvXqRjbfP) | [The Pressing In: Piano Sessions](https://open.spotify.com/album/3qwA60ZIxRxpd7RZ3xNSD3) | 4:49 |
 | 16 | [We'll have to see](https://open.spotify.com/track/2UpzdGHT7H9zu52U58SOlM) | [Meyta](https://open.spotify.com/artist/60cyMKkZ9lTL1KwfvzK7Mc) | [We’ll have to see](https://open.spotify.com/album/1kKDf95wOYu2wUbpDE9nqa) | 2:02 |
 | 17 | [Madman](https://open.spotify.com/track/6gvTT1r01kZYd8xYvIfuAB) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Madman](https://open.spotify.com/album/6JqkLE1K5MWkJfe8nP0Spl) | 2:16 |
 | 18 | [My Love](https://open.spotify.com/track/4qYBn5stKMdNS14SZfgRL1) | [Ivan Theva](https://open.spotify.com/artist/5DXiy58vu9lP6cW5eKDeBg) | [My Love](https://open.spotify.com/album/7bXz8wbmO4gyygphTEppzz) | 4:17 |

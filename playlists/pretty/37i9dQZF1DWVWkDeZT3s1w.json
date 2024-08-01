@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 102267,
+  "num_followers": 102311,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -167,22 +167,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Sin Sendero",
-        "url": "https://open.spotify.com/album/2ANVtDVy4ib21lbrZJLK2C"
-      },
-      "artists": [
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        }
-      ],
-      "duration_ms": 213646,
-      "name": "Sin Sendero",
-      "url": "https://open.spotify.com/track/20G6EzPINihLGvToMI49Dd"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "This is Not America (feat. Ibeyi)",
         "url": "https://open.spotify.com/album/5J11N6p7TBOMPE5bg9mbax"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 231332,
       "name": "This is Not America (feat. Ibeyi)",
       "url": "https://open.spotify.com/track/7d8LusdMBU3yWUSWBpETjG"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Sin Sendero",
+        "url": "https://open.spotify.com/album/2ANVtDVy4ib21lbrZJLK2C"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "duration_ms": 213646,
+      "name": "Sin Sendero",
+      "url": "https://open.spotify.com/track/20G6EzPINihLGvToMI49Dd"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -339,6 +339,22 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
+        "name": "Striptease",
+        "url": "https://open.spotify.com/album/0xElYfxH7E9JXw5Sq3s8Gi"
+      },
+      "artists": [
+        {
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "R\u00ede Cuando Puedas",
+      "url": "https://open.spotify.com/track/18YCZgBpjvd7OiDzlqffj9"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
         "name": "Tributos",
         "url": "https://open.spotify.com/album/0dEUXKP7jRiyUDny8TbivE"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 213097,
       "name": "Tributos",
       "url": "https://open.spotify.com/track/6QtAJqBqwwsbQBG0shnhQr"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
-        "name": "Striptease",
-        "url": "https://open.spotify.com/album/0xElYfxH7E9JXw5Sq3s8Gi"
-      },
-      "artists": [
-        {
-          "name": "El Chojin",
-          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "R\u00ede Cuando Puedas",
-      "url": "https://open.spotify.com/track/18YCZgBpjvd7OiDzlqffj9"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
+        "name": "Sistema (Remix)",
+        "url": "https://open.spotify.com/album/0EuMrANorUJnRWTdYK4hpP"
+      },
+      "artists": [
+        {
+          "name": "Se\u00f1or Marrano",
+          "url": "https://open.spotify.com/artist/4TGavohrECqpfWpLz6QhkG"
+        },
+        {
+          "name": "Eddy Mugre",
+          "url": "https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25"
+        }
+      ],
+      "duration_ms": 240837,
+      "name": "Sistema - Remix",
+      "url": "https://open.spotify.com/track/6ll4ikMqvDVEEs0da9zNqZ"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
         "name": "Escorpi\u00f3n",
         "url": "https://open.spotify.com/album/3U0wjZVkZ7qtblFGLIzqpA"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 172925,
       "name": "Escorpi\u00f3n",
       "url": "https://open.spotify.com/track/48djoywLHuEwUlOpZP1tMR"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
-        "name": "Sistema (Remix)",
-        "url": "https://open.spotify.com/album/0EuMrANorUJnRWTdYK4hpP"
-      },
-      "artists": [
-        {
-          "name": "Se\u00f1or Marrano",
-          "url": "https://open.spotify.com/artist/4TGavohrECqpfWpLz6QhkG"
-        },
-        {
-          "name": "Eddy Mugre",
-          "url": "https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25"
-        }
-      ],
-      "duration_ms": 240837,
-      "name": "Sistema - Remix",
-      "url": "https://open.spotify.com/track/6ll4ikMqvDVEEs0da9zNqZ"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Gala",
-        "url": "https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6"
-      },
-      "artists": [
-        {
-          "name": "Bronko Yotte",
-          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
-        },
-        {
-          "name": "Masquemusica",
-          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Merced",
-      "url": "https://open.spotify.com/track/5XpnNLZd75PpnF7dbNAzOq"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "El Mundo en Abstinencia",
         "url": "https://open.spotify.com/album/7rk2Op7j5T5qENRsNdWEHx"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 184255,
       "name": "Matar o Morir",
       "url": "https://open.spotify.com/track/1ApXrpI3xopc2kaOpq46vV"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Gala",
+        "url": "https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6"
+      },
+      "artists": [
+        {
+          "name": "Bronko Yotte",
+          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
+        },
+        {
+          "name": "Masquemusica",
+          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Merced",
+      "url": "https://open.spotify.com/track/5XpnNLZd75PpnF7dbNAzOq"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
+        "name": "Sigo Aqu\u00ed",
+        "url": "https://open.spotify.com/album/0upXP4hatmm8rDYzs4bBZ3"
+      },
+      "artists": [
+        {
+          "name": "Yhezid",
+          "url": "https://open.spotify.com/artist/5oGpSYiI9nGrWQYVDECnQI"
+        }
+      ],
+      "duration_ms": 199833,
+      "name": "Sigo Aqu\u00ed",
+      "url": "https://open.spotify.com/track/5vfgyg1w34KJMQT2Q3ClyV"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
         "name": "Jamming Sin Fronteras",
         "url": "https://open.spotify.com/album/1Bt7lT0WFNHlvd1yGC8zlJ"
       },
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Sigo Aqu\u00ed",
-        "url": "https://open.spotify.com/album/0upXP4hatmm8rDYzs4bBZ3"
-      },
-      "artists": [
-        {
-          "name": "Yhezid",
-          "url": "https://open.spotify.com/artist/5oGpSYiI9nGrWQYVDECnQI"
-        }
-      ],
-      "duration_ms": 199833,
-      "name": "Sigo Aqu\u00ed",
-      "url": "https://open.spotify.com/track/5vfgyg1w34KJMQT2Q3ClyV"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "P\u00f3lvora",
         "url": "https://open.spotify.com/album/6wfXg2gEg4atcD1jNZrzUf"
       },
@@ -1575,6 +1575,22 @@
       "duration_ms": 204669,
       "name": "Soy Pueblo",
       "url": "https://open.spotify.com/track/6Q1FsZ9JLsKWHQVwMdwk71"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Flow Leyenda",
+        "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
+      },
+      "artists": [
+        {
+          "name": "Flaco Flow y Melanina",
+          "url": "https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2"
+        }
+      ],
+      "duration_ms": 194042,
+      "name": "Flow Leyenda",
+      "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1599,22 +1615,6 @@
       "duration_ms": 183013,
       "name": "Prometo",
       "url": "https://open.spotify.com/track/6KhHjRqNsyY8IUH0A8besf"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
-        "name": "Flow Leyenda",
-        "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
-      },
-      "artists": [
-        {
-          "name": "Flaco Flow y Melanina",
-          "url": "https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2"
-        }
-      ],
-      "duration_ms": 194042,
-      "name": "Flow Leyenda",
-      "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1779,6 +1779,38 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
+        "name": "Ars Magna / Miradas",
+        "url": "https://open.spotify.com/album/16HBbvrdIhOmqACyHvSlZa"
+      },
+      "artists": [
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        }
+      ],
+      "duration_ms": 284770,
+      "name": "Mi Propio Cielo",
+      "url": "https://open.spotify.com/track/64Gtc50srT8uAef6aOgkyY"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Siempreviva",
+        "url": "https://open.spotify.com/album/263pNkZ0JorxekXYAmCkO0"
+      },
+      "artists": [
+        {
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        }
+      ],
+      "duration_ms": 190528,
+      "name": "Bienvenidx",
+      "url": "https://open.spotify.com/track/4AZ9qnUdWe1r7twDSTRhCw"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
         "name": "Algo Bien",
         "url": "https://open.spotify.com/album/6KUZQ0l1keA5Dlo3ovaYRW"
       },
@@ -1803,22 +1835,6 @@
       "duration_ms": 271058,
       "name": "Algo Bien",
       "url": "https://open.spotify.com/track/6NJKTfYmo9AgGTtjkgKwr5"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
-        "name": "Siempreviva",
-        "url": "https://open.spotify.com/album/263pNkZ0JorxekXYAmCkO0"
-      },
-      "artists": [
-        {
-          "name": "Mare Advertencia Lirika",
-          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
-        }
-      ],
-      "duration_ms": 190528,
-      "name": "Bienvenidx",
-      "url": "https://open.spotify.com/track/4AZ9qnUdWe1r7twDSTRhCw"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1903,26 +1919,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Cora",
-        "url": "https://open.spotify.com/album/0zz6EViiEPDUKt6IZRUDCc"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 164536,
-      "name": "Legendarios",
-      "url": "https://open.spotify.com/track/5flzNTZypqHAQtcMn1ARBl"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "Can + Zoo \u00cdndigo",
         "url": "https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM"
       },
@@ -1939,18 +1935,22 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Ars Magna / Miradas",
-        "url": "https://open.spotify.com/album/16HBbvrdIhOmqACyHvSlZa"
+        "name": "Cora",
+        "url": "https://open.spotify.com/album/0zz6EViiEPDUKt6IZRUDCc"
       },
       "artists": [
         {
-          "name": "Nach",
-          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         }
       ],
-      "duration_ms": 284770,
-      "name": "Mi Propio Cielo",
-      "url": "https://open.spotify.com/track/64Gtc50srT8uAef6aOgkyY"
+      "duration_ms": 164536,
+      "name": "Legendarios",
+      "url": "https://open.spotify.com/track/5flzNTZypqHAQtcMn1ARBl"
     },
     {
       "added_at": "2024-06-21 06:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is MUNA. The essential tracks, all in one playlist.",
-  "num_followers": 14557,
+  "num_followers": 14568,
   "original_name": "This Is MUNA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqbbgAAAAAB8usWpPxOsfEu0v5jqbU6p",
+  "snapshot_id": "ZqgtAAAAAAAV/87UUYrbLYoOekQ2mkOm",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tegan and Sara Present the Con X: Covers",
-        "url": "https://open.spotify.com/album/3ADMYew7OUYnMPF1EHOIe9"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 177320,
-      "name": "Relief Next to Me",
-      "url": "https://open.spotify.com/track/5sCJS9pnT3xPShr4TeMGFV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In My Way",
         "url": "https://open.spotify.com/album/2AYySKA04nhtLWNvxjGbG9"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 200772,
       "name": "In My Way",
       "url": "https://open.spotify.com/track/5NfpIjvaqEbrG46NmE3adV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tegan and Sara Present the Con X: Covers",
+        "url": "https://open.spotify.com/album/3ADMYew7OUYnMPF1EHOIe9"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 177320,
+      "name": "Relief Next to Me",
+      "url": "https://open.spotify.com/track/5sCJS9pnT3xPShr4TeMGFV"
     },
     {
       "added_at": null,

@@ -939,6 +939,24 @@
     },
     {
       "album": {
+        "name": "N\u00e3o \u00e9 Fake News (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6mN4EHMitusrKyEkK0qMP9"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206010,
+      "name": "N\u00e3o e Fake News - Ao Vivo",
+      "url": "https://open.spotify.com/track/7ppdjcT5GGPSRKBdMR1BSN"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Saia do Meu Lado",
         "url": "https://open.spotify.com/album/0pnp12WSBG4PP1DhFWVoQq"
       },
@@ -958,24 +976,6 @@
       "duration_ms": 216127,
       "name": "N\u00e3o Saia do Meu Lado",
       "url": "https://open.spotify.com/track/5mi0KvTGzuMvPbm16vY9su"
-    },
-    {
-      "album": {
-        "name": "N\u00e3o \u00e9 Fake News (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6mN4EHMitusrKyEkK0qMP9"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        }
-      ],
-      "date_added": "2023-10-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 206010,
-      "name": "N\u00e3o \u00e9 Fake News - Ao Vivo",
-      "url": "https://open.spotify.com/track/7ppdjcT5GGPSRKBdMR1BSN"
     },
     {
       "album": {

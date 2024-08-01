@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PP3DA4J0N8.md) - [plain]
 
 > Sounds of birds, rain, and forest ambience.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,059,451 likes - 118 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,059,653 likes - 118 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PP3DA4J0N8.md) - [plain]
 | 24 | [Magical Rainforest](https://open.spotify.com/track/5gKbTObGEDjqpB6pTzu1Ht) | [Accuweather](https://open.spotify.com/artist/2Y7k2YqDWE9s1eSuQlaWNi) | [The Sound Of Rain](https://open.spotify.com/album/4GarWDiMBHvz8hQudi2Ql4) | 2:25 |
 | 25 | [Taking Cover From Rain](https://open.spotify.com/track/4h7CjznZSWhWp7hgotMUjM) | [Zuni](https://open.spotify.com/artist/4im5G9baIDRzJa4xpPdDz6) | [precip](https://open.spotify.com/album/2wmOEwDHDcPHuSkJM7NDcp) | 2:35 |
 | 26 | [Rainforest](https://open.spotify.com/track/50wosj4pWpL1QHCB49mbSF) | [Rain Gems](https://open.spotify.com/artist/7nqNjOPOP42fmpwjBxWVQq) | [Rainforest Soundscapes](https://open.spotify.com/album/4eohimUm2km4KEQAMLNs2w) | 2:42 |
-| 27 | [Exotic Rain](https://open.spotify.com/track/1QqL0tGCIs4ZTfM210rORQ) | [Hawaii Rain](https://open.spotify.com/artist/6nD5OttvcqKRwZCo91p0lR) | [Part 1](https://open.spotify.com/album/61Xw48UHlclilzBtRpzTZK) | 3:21 |
-| 28 | [Rainforest Serenade](https://open.spotify.com/track/0dguPNtnbUCe083OmrABuA) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Calming Rainforest Paradise](https://open.spotify.com/album/1E7KduKpRq5w5iEYZujOVS) | 2:24 |
+| 27 | [Rainforest Serenade](https://open.spotify.com/track/0dguPNtnbUCe083OmrABuA) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Calming Rainforest Paradise](https://open.spotify.com/album/1E7KduKpRq5w5iEYZujOVS) | 2:24 |
+| 28 | [Exotic Rain](https://open.spotify.com/track/1QqL0tGCIs4ZTfM210rORQ) | [Hawaii Rain](https://open.spotify.com/artist/6nD5OttvcqKRwZCo91p0lR) | [Part 1](https://open.spotify.com/album/61Xw48UHlclilzBtRpzTZK) | 3:21 |
 | 29 | [Scandinavian Forest Rain Sound](https://open.spotify.com/track/0U72R7eOGDPit3iw1Wg0mh) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Rain Sounds Vol\. 3](https://open.spotify.com/album/6PaBSB3g4H0XmRaZvTDqkE) | 2:37 |
 | 30 | [Soothing Rain](https://open.spotify.com/track/5B7KrnudyvVieOvbrXG9Gs) | [Nuwan](https://open.spotify.com/artist/5Ntegr8o61PSRvEl9sazRU) | [Umbrella Sounds](https://open.spotify.com/album/4QzTCRjIsx21xIL0L8JaHi) | 2:39 |
 | 31 | [Ocean Calmness](https://open.spotify.com/track/3PRHjxciZrPsj9IVyv6sbF) | [Aqua Mori](https://open.spotify.com/artist/57mq2ABiWJNQXkliuTjn8X) | [Ocean Calmness](https://open.spotify.com/album/3XU2dLIkoFYTqIlpZOKpqA) | 2:06 |
@@ -90,10 +90,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PP3DA4J0N8.md) - [plain]
 | 80 | [Rain is Beautiful](https://open.spotify.com/track/5azKWb8ExTmXlH6rxbN8eF) | [Super Natural](https://open.spotify.com/artist/01bfsddtGYcZOQLOB4ZVlU) | [Rain is Beautiful](https://open.spotify.com/album/6gBcZzDGzP4trj9PNybbau) | 3:42 |
 | 81 | [Birds Love Rain](https://open.spotify.com/track/1LIThJzbfd81yH4wLxqAEF) | [Sleep, Study, Focus](https://open.spotify.com/artist/1KLREyUk3MawnpXeaicU5J) | [Natural Rain](https://open.spotify.com/album/4OcEKcgz6h3tbx5nLDPfdh) | 2:30 |
 | 82 | [Forest Bird Sounds](https://open.spotify.com/track/2aFhqv8uOQZyLz6i4GoeMZ) | [Zen Master](https://open.spotify.com/artist/21uWwnRDYtnaQC1KLHaS2a) | [Forest Birds](https://open.spotify.com/album/5nHZ9xOHu1wU9x3bLopZff) | 2:17 |
-| 83 | [Peaceful Rain Ambience](https://open.spotify.com/track/6RTdL85sBmsW9pxBQgCzs6) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Peaceful Rain and Rivers](https://open.spotify.com/album/3CTMmgxrc6wu8sMjqYx1Oh) | 3:07 |
-| 84 | [Rain In The Garden](https://open.spotify.com/track/4QYnie1z5zm6gfFzFfhbye) | [Let It Rain](https://open.spotify.com/artist/2HQWUP9lYec3fWJ6VbSFdG) | [Garden Rain](https://open.spotify.com/album/2B422CHROjn9jI9YjumQbH) | 2:22 |
-| 85 | [Rainy Bird Watching](https://open.spotify.com/track/5u2m64wLvLfKaQzE7v82KX) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Dream Rain](https://open.spotify.com/album/0mToNLq2Y6LR4M9diREzg2) | 4:03 |
-| 86 | [Soothing Birdsong by the River](https://open.spotify.com/track/1c7KLz2RGsDoW58JiTT2L1) | [El Naturel](https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX) | [Soothing Birdsong by the River](https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf) | 3:04 |
+| 83 | [Rain In The Garden](https://open.spotify.com/track/4QYnie1z5zm6gfFzFfhbye) | [Let It Rain](https://open.spotify.com/artist/2HQWUP9lYec3fWJ6VbSFdG) | [Garden Rain](https://open.spotify.com/album/2B422CHROjn9jI9YjumQbH) | 2:22 |
+| 84 | [Peaceful Rain Ambience](https://open.spotify.com/track/6RTdL85sBmsW9pxBQgCzs6) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Peaceful Rain and Rivers](https://open.spotify.com/album/3CTMmgxrc6wu8sMjqYx1Oh) | 3:07 |
+| 85 | [Soothing Birdsong by the River](https://open.spotify.com/track/1c7KLz2RGsDoW58JiTT2L1) | [El Naturel](https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX) | [Soothing Birdsong by the River](https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf) | 3:04 |
+| 86 | [Rainy Bird Watching](https://open.spotify.com/track/5u2m64wLvLfKaQzE7v82KX) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Dream Rain](https://open.spotify.com/album/0mToNLq2Y6LR4M9diREzg2) | 4:03 |
 | 87 | [Rain in The Forest](https://open.spotify.com/track/0wLnaxf8uumoySqw1dW9rR) | [TELEKROME](https://open.spotify.com/artist/74hvVWKEz8DlYrkKrE97TV) | [Rain Sounds 2](https://open.spotify.com/album/3rgvsuxRWRjTEyIdM9qPXT) | 2:21 |
 | 88 | [Smoothe Suburban Forest Rain 2](https://open.spotify.com/track/2BhG0szLZb5rqpIdXu0hGh) | [Mori Desu](https://open.spotify.com/artist/3pocUa48FP2N3zVmIKRYxv) | [Smoothe Suburban Forest Rain](https://open.spotify.com/album/0Dk4VKHbpAqFAxntBbiAwG) | 2:34 |
 | 89 | [Soul Healing Birds](https://open.spotify.com/track/2xDAhRpg274IdUlSwrUKeG) | [Soul Healer](https://open.spotify.com/artist/1QptpPG5DCnj1GVwooQpAi) | [Soul Healing Birds](https://open.spotify.com/album/4NPlWnO0Q7j8rk6CyosvKo) | 2:25 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PP3DA4J0N8.md) - [plain]
 | 92 | [April Rain](https://open.spotify.com/track/7KB9VZg79SNkaBesrOOJMT) | [Beatrice Birds](https://open.spotify.com/artist/3hNMJQgn87uH4qAjdbkjUL) | [April Rain](https://open.spotify.com/album/5Dgk3JIGt2uzlxaxmNMBdY) | 2:06 |
 | 93 | [Rainy days and rainy nights](https://open.spotify.com/track/61CisvCUB10noyCW0aqarL) | [Rayne](https://open.spotify.com/artist/1RNXA2cIljrRol5nvV2Eoy) | [Rainy days and rainy nights](https://open.spotify.com/album/31zKedn6ADYfeacflh843e) | 3:28 |
 | 94 | [Atlanta Rain](https://open.spotify.com/track/07CtNdTuh11zJQlwoVkLCW) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Rainy Summer Days](https://open.spotify.com/album/6TpQ6fU21enN1K6iDu9Mij) | 2:50 |
-| 95 | [Small Birds and Swirling Stream](https://open.spotify.com/track/01wmtbMHxi9M5swTTWl40Y) | [Alisha Pearce](https://open.spotify.com/artist/0BCrRTZJYvA0AkHRhPdfln) | [Small Birds and Swirling Stream](https://open.spotify.com/album/5Cm3gkO6u5UXY7moX1QMod) | 2:29 |
-| 96 | [Birds In The Rain 2](https://open.spotify.com/track/3s5v98UeRuJMI34SLYbxn8) | [Aire Vega](https://open.spotify.com/artist/7cAoFd2D0GjQOI14qyK3xB) | [Birds In The Rain](https://open.spotify.com/album/3mvHnfHYBtBiCwCLfCVARb) | 2:00 |
+| 95 | [Birds In The Rain 2](https://open.spotify.com/track/3s5v98UeRuJMI34SLYbxn8) | [Aire Vega](https://open.spotify.com/artist/7cAoFd2D0GjQOI14qyK3xB) | [Birds In The Rain](https://open.spotify.com/album/3mvHnfHYBtBiCwCLfCVARb) | 2:00 |
+| 96 | [Small Birds and Swirling Stream](https://open.spotify.com/track/01wmtbMHxi9M5swTTWl40Y) | [Alisha Pearce](https://open.spotify.com/artist/0BCrRTZJYvA0AkHRhPdfln) | [Small Birds and Swirling Stream](https://open.spotify.com/album/5Cm3gkO6u5UXY7moX1QMod) | 2:29 |
 | 97 | [Birds By The River \- Green Noise](https://open.spotify.com/track/2o5mGn0YoP9bVseUcslrbi) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Soothing Green Noise](https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW) | 2:37 |
 | 98 | [Wildwood Meditation](https://open.spotify.com/track/3h2KfUN6qMnM85VxTVyx1t) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Relaxing Forest Harmony](https://open.spotify.com/album/1ipaOQEUmzSMJGC7xvOQ81) | 3:56 |
 | 99 | [Medium Rain on Bedroom Window](https://open.spotify.com/track/5aVBGmsRjiCR6BYUzfZ2ci) | [Ambiworld](https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG) | [Rainy Days](https://open.spotify.com/album/4jytIojtPIuP2goIz9oGwK) | 5:20 |

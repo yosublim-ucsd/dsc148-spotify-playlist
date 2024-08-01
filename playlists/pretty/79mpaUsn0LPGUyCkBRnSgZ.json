@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAGTNa+cql5sFB9WQ61ft1JTIA6JxoA",
+  "snapshot_id": "AAAGTle8jApnrVp1mBUIvFHnvlpR5JwD",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -8507,6 +8507,42 @@
       "duration_ms": 141290,
       "name": "Gostar do Mundo",
       "url": "https://open.spotify.com/track/4JFbDXnpgNLxX83jJytV15"
+    },
+    {
+      "added_at": "2024-07-31 18:25:17",
+      "album": {
+        "name": "New Ancient Strings",
+        "url": "https://open.spotify.com/album/4QYwF3SPWWDwoiS8SnKX4X"
+      },
+      "artists": [
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        },
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        }
+      ],
+      "duration_ms": 300466,
+      "name": "Bi Lamban",
+      "url": "https://open.spotify.com/track/6zONDwWrSN3qynCci8v98d"
+    },
+    {
+      "added_at": "2024-07-31 18:25:27",
+      "album": {
+        "name": "open this wall",
+        "url": "https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "ascension",
+      "url": "https://open.spotify.com/track/62MSbv3IJNlQdN2NMfOGny"
     }
   ],
   "unique_name": "Zacklog",

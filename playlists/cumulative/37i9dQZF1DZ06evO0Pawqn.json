@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This Is Los Tiranos Del Norte. Los temas esenciales, todos en una lista.",
+  "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
   "name": "This Is Los Tiranos Del Norte",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 136730,
       "name": "Aguanta Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0CWwxmdt8IJK8V9sKsimiA"

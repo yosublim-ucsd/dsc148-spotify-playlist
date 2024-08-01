@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 122630,
+  "num_followers": 122670,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "UM S\u00d3",
+        "url": "https://open.spotify.com/album/3NEwEbyUBvhPNoil4FFta9"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 182890,
+      "name": "Dia de Sorte",
+      "url": "https://open.spotify.com/track/0bJ5Pa8GqcyC4PNYcHQDeN"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Princess of China",
         "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 206693,
       "name": "Princess of China - Acoustic",
       "url": "https://open.spotify.com/track/2tKqZsc0epdLrsNUT6y0Ls"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "UM S\u00d3",
-        "url": "https://open.spotify.com/album/3NEwEbyUBvhPNoil4FFta9"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 182890,
-      "name": "Dia de Sorte",
-      "url": "https://open.spotify.com/track/0bJ5Pa8GqcyC4PNYcHQDeN"
     },
     {
       "added_at": "2024-07-12 03:00:00",

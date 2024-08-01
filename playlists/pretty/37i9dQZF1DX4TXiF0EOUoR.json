@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 200199,
+  "num_followers": 200367,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
@@ -575,26 +575,6 @@
     {
       "added_at": "2024-07-25 20:15:36",
       "album": {
-        "name": "el taca taca ta (remix)",
-        "url": "https://open.spotify.com/album/2OG8ON3G040SHedULEvXon"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Nuevo Amanecer",
-          "url": "https://open.spotify.com/artist/5PYRJEcuO4GwG3LEiowJQc"
-        },
-        {
-          "name": "La Kumbre Con K",
-          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
-        }
-      ],
-      "duration_ms": 242112,
-      "name": "el taca taca ta - remix",
-      "url": "https://open.spotify.com/track/588dUhigU4hLeFcbXzFI0q"
-    },
-    {
-      "added_at": "2024-07-25 20:15:36",
-      "album": {
         "name": "De Nueva Cuenta",
         "url": "https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4"
       },
@@ -611,6 +591,22 @@
       "duration_ms": 178933,
       "name": "Por Una Lagrima",
       "url": "https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5"
+    },
+    {
+      "added_at": "2024-07-25 20:15:36",
+      "album": {
+        "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
+        "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense de Acero",
+          "url": "https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe"
+        }
+      ],
+      "duration_ms": 135146,
+      "name": "El Sauce y la Palma",
+      "url": "https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1"
     },
     {
       "added_at": "2024-07-25 20:15:36",
@@ -647,18 +643,22 @@
     {
       "added_at": "2024-07-25 20:15:36",
       "album": {
-        "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
-        "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
+        "name": "el taca taca ta (remix)",
+        "url": "https://open.spotify.com/album/2OG8ON3G040SHedULEvXon"
       },
       "artists": [
         {
-          "name": "Banda Sinaloense de Acero",
-          "url": "https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe"
+          "name": "Conjunto Nuevo Amanecer",
+          "url": "https://open.spotify.com/artist/5PYRJEcuO4GwG3LEiowJQc"
+        },
+        {
+          "name": "La Kumbre Con K",
+          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
         }
       ],
-      "duration_ms": 135146,
-      "name": "El Sauce y la Palma",
-      "url": "https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1"
+      "duration_ms": 242112,
+      "name": "el taca taca ta - remix",
+      "url": "https://open.spotify.com/track/588dUhigU4hLeFcbXzFI0q"
     },
     {
       "added_at": "2024-07-25 20:15:36",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-07-25 20:15:36",
       "album": {
-        "name": "De Puro Gusto! (18 A\u00f1os de Trayectoria)",
-        "url": "https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx"
-      },
-      "artists": [
-        {
-          "name": "Banda Monarca de Morelia",
-          "url": "https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn"
-        }
-      ],
-      "duration_ms": 180197,
-      "name": "La Amachona - Sones para Jaripeo",
-      "url": "https://open.spotify.com/track/6ZrBD31V7AhBqnCcDDEibM"
-    },
-    {
-      "added_at": "2024-07-25 20:15:36",
-      "album": {
         "name": "El Chavo del Ocho (The Elephant Never Forgets)",
         "url": "https://open.spotify.com/album/3cGKC5MjiEJiCpG3InChD9"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 166876,
       "name": "El Chavo del Ocho (The Elephant Never Forgets)",
       "url": "https://open.spotify.com/track/5cFY7DAekksn0hroUe8K02"
+    },
+    {
+      "added_at": "2024-07-25 20:15:36",
+      "album": {
+        "name": "De Puro Gusto! (18 A\u00f1os de Trayectoria)",
+        "url": "https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx"
+      },
+      "artists": [
+        {
+          "name": "Banda Monarca de Morelia",
+          "url": "https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn"
+        }
+      ],
+      "duration_ms": 180197,
+      "name": "La Amachona - Sones para Jaripeo",
+      "url": "https://open.spotify.com/track/6ZrBD31V7AhBqnCcDDEibM"
     },
     {
       "added_at": "2024-07-25 20:15:36",

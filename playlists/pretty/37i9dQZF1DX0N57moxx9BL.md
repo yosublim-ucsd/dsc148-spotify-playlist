@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover:  <a href="spotify:artist:4uOFEWy9mIcvQbr03IbPcL">Manafest</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,124 likes - 82 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,155 likes - 82 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 50 | [Holy Savior](https://open.spotify.com/track/4Iv4RGVktNQmC60UH3HjMu) | [The Rock Music](https://open.spotify.com/artist/0c8xYlEYETimOaLlGZcMVk), [Kelsea Yetton](https://open.spotify.com/artist/6PQ6WHlRAdmly59ZGcA7D4) | [Holy Savior](https://open.spotify.com/album/2A5zE1ptlwgo6bLuRYhzUB) | 5:03 |
 | 51 | [When Angels & Serpents Dance \- 2022 Remixed & Remastered](https://open.spotify.com/track/0J9gierW99wkbmJqZVD6T3) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/6aMuZClWGBnBfYeNr36peJ) | 3:14 |
 | 52 | [Way You Love Me](https://open.spotify.com/track/7hJtAHrevoIBIJFKvs23gn) | [XXI](https://open.spotify.com/artist/7dPci6f1wSaMR2McjBdb4C) | [Inside Out](https://open.spotify.com/album/5uWqsBukvP6JMHqeI7F0ME) | 3:53 |
-| 53 | [Fear of Missing Out](https://open.spotify.com/track/4NvVIO4OXlYGLXTqcnl9EC) | [Honor & Glory](https://open.spotify.com/artist/16bPRQeTKQ7kM03xe3n3e6) | [Honor & Glory](https://open.spotify.com/album/2itu4IaIrGFui5Y117djYw) | 4:31 |
+| 53 | [Fear of Missing Out](https://open.spotify.com/track/4NvVIO4OXlYGLXTqcnl9EC) | [Honor & Glory](https://open.spotify.com/artist/16bPRQeTKQ7kM03xe3n3e6), [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Honor & Glory](https://open.spotify.com/album/2itu4IaIrGFui5Y117djYw) | 4:31 |
 | 54 | [Promise You're Coming Home](https://open.spotify.com/track/6GQCJQD37FBX4ppIfS5qOF) | [Zahna](https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F) | [Stronger Than Death](https://open.spotify.com/album/1Zm1eAKdcDlIHoeZr2l4mh) | 3:42 |
 | 55 | [Undefeated](https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [By Faith](https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK) | 3:06 |
 | 56 | [Apology](https://open.spotify.com/track/29jYOUhgAWcuKunBAXNqhX) | [World Gone Cold](https://open.spotify.com/artist/1fihHtoFxoZZAdiSethXnr) | [Apology](https://open.spotify.com/album/2yzZZwf1oXZvHwGOY2cgs9) | 4:10 |

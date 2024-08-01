@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Porque no to' e' Dembow en RD loco\. Portada: El Alfa, Nfasis
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,875 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,990 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 36 | [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 |
 | 37 | [Lokisla](https://open.spotify.com/track/5k4YmMdNXdzN8zOdYxHet2) | [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Harryson](https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm), [EL PERROTE WZ](https://open.spotify.com/artist/06VlyIMw7ZPYhc6wNu4f4D), [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F) | [Lokisla](https://open.spotify.com/album/6tQmUnaSJ4TkqvdfujoYIZ) | 4:24 |
 | 38 | [Yo Enfocado](https://open.spotify.com/track/3Oi5p52ULUtCgeAsbIBRJg) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Yo Enfocado](https://open.spotify.com/album/1NwXale8SgifEbslKgf0Xn) | 1:50 |
-| 39 | [NI HAO](https://open.spotify.com/track/37XfaNQ0wbmG10RTMbU7dV) | [Yuriel Es Musica](https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Nasty Soundz](https://open.spotify.com/artist/7JySIQKxlCxB4IvCq589RC), [Lúi Onthebeat](https://open.spotify.com/artist/6I04prIA9Rbc12zZrwsFuu) | [NI HAO](https://open.spotify.com/album/1gW1rMt9xRA5Sldn3ULQOn) | 2:46 |
+| 39 | [NI HAO](https://open.spotify.com/track/37XfaNQ0wbmG10RTMbU7dV) | [Yuriel Es Musica](https://open.spotify.com/artist/1wHaQslJt6H89ArcgEV9qK), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Nasty Soundz](https://open.spotify.com/artist/1eKOoRdNnFiMxsOCfMaoVR), [Lúi Onthebeat](https://open.spotify.com/artist/6I04prIA9Rbc12zZrwsFuu) | [NI HAO](https://open.spotify.com/album/1gW1rMt9xRA5Sldn3ULQOn) | 2:46 |
 | 40 | [Helicoptero](https://open.spotify.com/track/4xGuA6Amh6K4MVoxXgYrKU) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Helicoptero](https://open.spotify.com/album/6OOgmb8FF0GxEH0FzttnLD) | 2:17 |
 | 41 | [Me la Subió](https://open.spotify.com/track/2ALlACw9HxS1naFyAwXj3Z) | [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F), [La Melma Music](https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Me la Subió](https://open.spotify.com/album/1i38hc6tT9Ysz1DkCT0Kwq) | 1:40 |
 | 42 | [Mi Flaca](https://open.spotify.com/track/0QzZqrEZ4FpviHkpafy5lQ) | [Dilon Baby](https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN), [DJ Kiko El De Lo Alka](https://open.spotify.com/artist/3Yw1hzqrJkVzGIliYmCKvF) | [Mi Flaca](https://open.spotify.com/album/0x9ue70sk15y8M4EDjGLHx) | 1:50 |

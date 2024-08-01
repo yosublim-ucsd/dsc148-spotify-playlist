@@ -1447,6 +1447,24 @@
     },
     {
       "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/5hMd4vAfSUT1cbYCnRUako"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200560,
+      "name": "Bye Bye Bye",
+      "url": "https://open.spotify.com/track/4r8lRYnoOGdEi6YyI5OC1o"
+    },
+    {
+      "album": {
         "name": "B\u00e9cane - A COLORS SHOW",
         "url": "https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB"
       },
@@ -4842,6 +4860,28 @@
       "duration_ms": 163854,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/7K3BhSpAxZBznislvUMVtn"
+    },
+    {
+      "album": {
+        "name": "LAURA",
+        "url": "https://open.spotify.com/album/60RWrbhe0B5S03N1IvyRFh"
+      },
+      "artists": [
+        {
+          "name": "DavineP",
+          "url": "https://open.spotify.com/artist/1LPGs7TFPT9ssRp0c4ZFDf"
+        },
+        {
+          "name": "DonkersMusic",
+          "url": "https://open.spotify.com/artist/4EoIE7UBBQnbpMFfFJ8UBr"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107715,
+      "name": "LAURA",
+      "url": "https://open.spotify.com/track/3GmzvtBcGm0bxQvpRZUnzb"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 483821,
+  "num_followers": 483939,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "Discovering The Waterfront",
-        "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 207586,
-      "name": "My Heroine",
-      "url": "https://open.spotify.com/track/6NDoBIaqTHdcudaR8RDJNw"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
         "name": "A Flair For The Dramatic",
         "url": "https://open.spotify.com/album/6LkthUHeWKSJsXhjs7SXFq"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 264413,
       "name": "Yeah Boy and Doll Face",
       "url": "https://open.spotify.com/track/51rIDh0FOCNCFkdbtIOyU0"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "Discovering The Waterfront",
+        "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 207586,
+      "name": "My Heroine",
+      "url": "https://open.spotify.com/track/6NDoBIaqTHdcudaR8RDJNw"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "Dear Diary, My Teen Angst Has A Body Count",
-        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
-      },
-      "artists": [
-        {
-          "name": "From First To Last",
-          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
-        }
-      ],
-      "duration_ms": 233762,
-      "name": "Note to Self",
-      "url": "https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
         "name": "The Art Of Drowning",
         "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 207693,
       "name": "The Days Of The Phoenix",
       "url": "https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "Dear Diary, My Teen Angst Has A Body Count",
+        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
+      },
+      "artists": [
+        {
+          "name": "From First To Last",
+          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
+        }
+      ],
+      "duration_ms": 233762,
+      "name": "Note to Self",
+      "url": "https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -735,18 +735,18 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl"
+        "name": "What To Do When You Are Dead",
+        "url": "https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK"
       },
       "artists": [
         {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+          "name": "Armor For Sleep",
+          "url": "https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H"
         }
       ],
-      "duration_ms": 237826,
-      "name": "Boiled Frogs",
-      "url": "https://open.spotify.com/track/344tr5lxfDxXdcvz67kvlO"
+      "duration_ms": 228706,
+      "name": "Car Underwater",
+      "url": "https://open.spotify.com/track/4CilIy3dA3P9Tq2NFqKEOX"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "What To Do When You Are Dead",
-        "url": "https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK"
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl"
       },
       "artists": [
         {
-          "name": "Armor For Sleep",
-          "url": "https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H"
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 228706,
-      "name": "Car Underwater",
-      "url": "https://open.spotify.com/track/4CilIy3dA3P9Tq2NFqKEOX"
+      "duration_ms": 237826,
+      "name": "Boiled Frogs",
+      "url": "https://open.spotify.com/track/344tr5lxfDxXdcvz67kvlO"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "Vheissu",
-        "url": "https://open.spotify.com/album/4pwaQ1jEWLrcCvYFDJVWbl"
-      },
-      "artists": [
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        }
-      ],
-      "duration_ms": 254853,
-      "name": "Image Of The Invisible",
-      "url": "https://open.spotify.com/track/19XQb9uJRmHwxb0EOVXkvn"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
         "name": "Wires...And The Concept Of Breathing",
         "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 194906,
       "name": "All It Takes For Your Dreams To Come True",
       "url": "https://open.spotify.com/track/7DtwEwGYdcZDlXDoDmW0zo"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "Vheissu",
+        "url": "https://open.spotify.com/album/4pwaQ1jEWLrcCvYFDJVWbl"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 254853,
+      "name": "Image Of The Invisible",
+      "url": "https://open.spotify.com/track/19XQb9uJRmHwxb0EOVXkvn"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
+        "name": "Wires...And The Concept Of Breathing",
+        "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
+      },
+      "artists": [
+        {
+          "name": "A Skylit Drive",
+          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
+        }
+      ],
+      "duration_ms": 198693,
+      "name": "I'm Not A Thief, I'm A Treasure Hunter",
+      "url": "https://open.spotify.com/track/146UE7we0gOcTQ118xmR0A"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
         "name": "Redeemer",
         "url": "https://open.spotify.com/album/7ju4BQgiknmVAQSb2V3vky"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 203200,
       "name": "Here I Stand",
       "url": "https://open.spotify.com/track/2hSpvEjeA8y2yGcFBCgwHd"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
-        "name": "Wires...And The Concept Of Breathing",
-        "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
-      },
-      "artists": [
-        {
-          "name": "A Skylit Drive",
-          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
-        }
-      ],
-      "duration_ms": 198693,
-      "name": "I'm Not A Thief, I'm A Treasure Hunter",
-      "url": "https://open.spotify.com/track/146UE7we0gOcTQ118xmR0A"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "Between the Heart and the Synapse",
-        "url": "https://open.spotify.com/album/1M5DYiubn2ko8OpUs0lhEt"
-      },
-      "artists": [
-        {
-          "name": "The Receiving End Of Sirens",
-          "url": "https://open.spotify.com/artist/57fbnHozNJMl16yNzt4agV"
-        }
-      ],
-      "duration_ms": 318120,
-      "name": "Planning a Prison Break",
-      "url": "https://open.spotify.com/track/02bp2Aq5cFTUfDnOYJxuuL"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
         "name": "Hail Destroyer",
         "url": "https://open.spotify.com/album/21rFHsmF8bEOVq7fYvCr67"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 196680,
       "name": "Hail Destroyer",
       "url": "https://open.spotify.com/track/1G6dOWV5WuDkg78BCT77uX"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "Between the Heart and the Synapse",
+        "url": "https://open.spotify.com/album/1M5DYiubn2ko8OpUs0lhEt"
+      },
+      "artists": [
+        {
+          "name": "The Receiving End Of Sirens",
+          "url": "https://open.spotify.com/artist/57fbnHozNJMl16yNzt4agV"
+        }
+      ],
+      "duration_ms": 318120,
+      "name": "Planning a Prison Break",
+      "url": "https://open.spotify.com/track/02bp2Aq5cFTUfDnOYJxuuL"
     }
   ],
   "unique_name": "Chaos Anthems",

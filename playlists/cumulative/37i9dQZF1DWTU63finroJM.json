@@ -93,6 +93,28 @@
     },
     {
       "album": {
+        "name": "10 out of 10",
+        "url": "https://open.spotify.com/album/6MVYiE2oxVEPBVTrG9xo9D"
+      },
+      "artists": [
+        {
+          "name": "LIU KOI",
+          "url": "https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE"
+        },
+        {
+          "name": "reina",
+          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177525,
+      "name": "10 out of 10",
+      "url": "https://open.spotify.com/track/3fTpEVNXla3OEavoAqXmF0"
+    },
+    {
+      "album": {
         "name": "10x Better",
         "url": "https://open.spotify.com/album/3ntas0JGMXsNPBBMcUybDE"
       },
@@ -698,7 +720,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 198549,
       "name": "ABOMINATION",
       "url": "https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN"

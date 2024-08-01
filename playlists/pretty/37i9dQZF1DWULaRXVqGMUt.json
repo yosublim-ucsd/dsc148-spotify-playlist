@@ -1,6 +1,6 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 51924,
+  "num_followers": 51959,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Battin' The Boogie",
-        "url": "https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6"
-      },
-      "artists": [
-        {
-          "name": "Frank Muschalle",
-          "url": "https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "Killer Miller",
-      "url": "https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "No Hats",
         "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
       },
@@ -627,18 +611,34 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Rum and Coke",
-        "url": "https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm"
+        "name": "Battin' The Boogie",
+        "url": "https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6"
       },
       "artists": [
         {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+          "name": "Frank Muschalle",
+          "url": "https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD"
         }
       ],
-      "duration_ms": 208067,
-      "name": "501 Boogie",
-      "url": "https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA"
+      "duration_ms": 141666,
+      "name": "Killer Miller",
+      "url": "https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Boogie Woogie Kid",
+        "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
+      },
+      "artists": [
+        {
+          "name": "Boogie Woogie Kid",
+          "url": "https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Five Stacked High",
+      "url": "https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
+        "name": "Rum and Coke",
+        "url": "https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 208067,
+      "name": "501 Boogie",
+      "url": "https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
         "name": "Boogie Woogie Motel Swing",
         "url": "https://open.spotify.com/album/0EmDWj8gCidHysCCqaqluP"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 123626,
       "name": "Sue's Boogie",
       "url": "https://open.spotify.com/track/1ARHw0RdJKh9OOGVuXtPqP"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
-        "name": "Boogie Woogie Kid",
-        "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
-      },
-      "artists": [
-        {
-          "name": "Boogie Woogie Kid",
-          "url": "https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Five Stacked High",
-      "url": "https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv"
     },
     {
       "added_at": "2024-05-30 16:27:59",

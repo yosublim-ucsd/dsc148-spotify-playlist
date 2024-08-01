@@ -5073,6 +5073,24 @@
     },
     {
       "album": {
+        "name": "Dream A Little",
+        "url": "https://open.spotify.com/album/7i2Cwl97MDdNDOHhPvJTuv"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Demers",
+          "url": "https://open.spotify.com/artist/2TW2VZBWnhz5L2xk6WWct5"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231666,
+      "name": "Just Another Night",
+      "url": "https://open.spotify.com/track/1U4SFDM4sTtv6imMDwou11"
+    },
+    {
+      "album": {
         "name": "Heart Of Stone",
         "url": "https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK"
       },

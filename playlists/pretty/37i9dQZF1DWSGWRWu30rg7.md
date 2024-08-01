@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Adifa
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,589 likes - 86 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,591 likes - 86 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 41 | [Greedy](https://open.spotify.com/track/5FYnl9ZJkkB7SlQsfSWx3z) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Greedy](https://open.spotify.com/album/4gPCF2bVowiYubLshSzfHE) | 2:30 |
 | 42 | [Make Ur Move, Plz](https://open.spotify.com/track/2Emcg1SfTyZBRJ2cqPHZJQ) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Lovecycle](https://open.spotify.com/album/5qxc6Ojbm8WfekBpBm70YD) | 3:08 |
 | 43 | [Until We Meet Again](https://open.spotify.com/track/31zPI3pOHZfRygOISAOPxS) | [Fian Perdana](https://open.spotify.com/artist/6lEaureVXZJQJD8R87Y0LZ) | [Until We Meet Again](https://open.spotify.com/album/7umiM342ioJmHLcgFOui3R) | 3:34 |
-| 44 | [Perihal Omongan Belaka](https://open.spotify.com/track/5NvkE6eEGrEsRRtaeesrzS) | [Bahtera](https://open.spotify.com/artist/2WDrCD9s0OofV19aGzNbib) | [Perihal Omongan Belaka](https://open.spotify.com/album/4JIgzeMbWz9zaTwJxCUnbT) | 5:08 |
+| 44 | [Perihal Omongan Belaka](https://open.spotify.com/track/5NvkE6eEGrEsRRtaeesrzS) | [Bahtera](https://open.spotify.com/artist/28a3YGz0pW3DZb5Dvr9M0d) | [Perihal Omongan Belaka](https://open.spotify.com/album/4JIgzeMbWz9zaTwJxCUnbT) | 5:08 |
 | 45 | [OMG!](https://open.spotify.com/track/3uAzH3IdqDIxKOHeiM8jT4) | [Sweet Layla](https://open.spotify.com/artist/37FgZXMny7WGhpiyJZxnEi) | [OMG!](https://open.spotify.com/album/35hECgTME78cunSx9SUKEE) | 2:56 |
 | 46 | [Di Saat Cinta Cintanya](https://open.spotify.com/track/71BLmKvQ0hu4moTx8XkyVh) | [Martian](https://open.spotify.com/artist/5BvwxVjJ6IZyzG9EZvq28H) | [Di Saat Cinta Cintanya](https://open.spotify.com/album/65yQcuO11sdzlZhkn8ahoM) | 3:39 |
 | 47 | [Keep on Dancing](https://open.spotify.com/track/4V2VQw0BmvWCXv4WxrT7rC) | [We Are Neurotic](https://open.spotify.com/artist/6Md8JmF20ZQgz6g54LqdIA) | [Keep on Dancing](https://open.spotify.com/album/74d9kaLOARlWZ5cG5PVxJW) | 2:59 |

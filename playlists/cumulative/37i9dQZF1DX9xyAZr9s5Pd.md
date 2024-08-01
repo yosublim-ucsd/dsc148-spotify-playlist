@@ -2,9 +2,9 @@
 
 ### [Indie Andinos](https://open.spotify.com/playlist/37i9dQZF1DX9xyAZr9s5Pd)
 
-> ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Alejandro y Maria Laura
+> ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: La Vida Bohème
 
-87 songs - 4 hr 53 min
+89 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Instinto animal \(feat\. MIDGVRD\)](https://open.spotify.com/track/0foOszlISRhxEiMkhXiT5s) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Niko La Fábrica](https://open.spotify.com/artist/77gpdl9ket58wQczszbrno), [Vera Delacruz](https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt), [MIDGVRD](https://open.spotify.com/artist/5lk0yGPdXrs0aLIAinwp7m) | [Instinto animal \(feat\. MIDGVRD\)](https://open.spotify.com/album/2BAKcFK5EO9r8BokUYraDv) | 3:34 | 2023-09-22 | 2023-11-18 |
 | [Isla](https://open.spotify.com/track/4swPh5TSwItemozohe2cO2) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Aurora](https://open.spotify.com/album/60N60tN9VlpH7ai211GRb1) | 2:55 | 2023-09-22 |  |
 | [Jardines](https://open.spotify.com/track/4xvuJOjKCZCdGwbr2Hfz61) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h) | [Así Hablan Los Pájaros](https://open.spotify.com/album/3wTBXeIlfG8qeV1RQav0C2) | 3:38 | 2023-09-22 | 2023-11-18 |
+| [La Vida Mejor](https://open.spotify.com/track/3sM86J5TsZTaATv1kTBLa0) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Será](https://open.spotify.com/album/0JPRp5NYnHzJd9FxyIvKZd) | 4:17 | 2024-07-31 |  |
 | [La Vida Sin Ti Apesta](https://open.spotify.com/track/3MOT7l7lFwecHZdtvPnoAY) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [La Vida Sin Ti Apesta](https://open.spotify.com/album/7Kdd2OVrDy83cDzCLPMjLL) | 3:08 | 2024-03-01 | 2024-05-18 |
 | [las consecuencias](https://open.spotify.com/track/0x3M7EQkASM6NQW53mNK9d) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [las consecuencias](https://open.spotify.com/album/2jcKhSAes8tIw5GXH91Ks9) | 3:11 | 2023-09-22 |  |
 | [Las Cosas Simples](https://open.spotify.com/track/3nO0c6dxcZqrDW4WTEtKUr) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Las Cosas Simples](https://open.spotify.com/album/4gq30p37s9VgAovyUtfDqz) | 4:07 | 2024-02-16 |  |
@@ -69,12 +70,13 @@
 | [No Te Vayas Nunca](https://open.spotify.com/track/5FMfpa1gMxWPg3INPurOI4) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [No Te Vayas Nunca](https://open.spotify.com/album/1UvWnU9UKjbxzKbLxk8Njx) | 3:21 | 2023-09-22 |  |
 | [No Tengo Tiempo](https://open.spotify.com/track/0J5PXybiNqoNQrethIsoDX) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [No Tengo Tiempo](https://open.spotify.com/album/3QYc5uXxdDb6NpSIl9FUyV) | 2:50 | 2023-09-22 |  |
 | [No Tengo Tiempo](https://open.spotify.com/track/7hmvkFDZGMLaRyHMBySatI) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [ARMN](https://open.spotify.com/album/5ZKQlMu308fEdUEOYXUjIp) | 2:50 | 2023-10-13 | 2024-04-19 |
-| [Nublado](https://open.spotify.com/track/1JhzXJFe4rvHFVHmRb3bQS) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Nublado](https://open.spotify.com/album/1bqvDiNrpVCeI8RbsgayEb) | 3:50 | 2023-09-22 |  |
+| [Nublado](https://open.spotify.com/track/1JhzXJFe4rvHFVHmRb3bQS) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Nublado](https://open.spotify.com/album/1bqvDiNrpVCeI8RbsgayEb) | 3:50 | 2023-09-22 | 2024-08-01 |
 | [Nudos](https://open.spotify.com/track/2rMcMfA9vNbXBHMKKYBacM) | [Da Pawn](https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy) | [Residencia Azul](https://open.spotify.com/album/7a0NP5cqVBLSe6YofHXcGL) | 4:40 | 2023-09-22 |  |
 | [Nunca Nunca](https://open.spotify.com/track/01RidTuR638AM20oXDqD1u) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj), [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Nunca Nunca](https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6) | 2:51 | 2023-09-22 |  |
 | [Puquio](https://open.spotify.com/track/7AU74ElllykOv422FjsU1E) | [Triste Domingo](https://open.spotify.com/artist/5wWTQAmSqsyuPXtjNm0oos) | [Puquio](https://open.spotify.com/album/4gLcpquRoWzxLjF0451BD6) | 2:56 | 2023-09-22 | 2023-09-30 |
 | [Quiero Verte Así](https://open.spotify.com/track/1i9wjyXgsdGFbY8ZeRaThL) | [Pablo Trujillo](https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb), [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Quiero Verte Así](https://open.spotify.com/album/1IOjKmdCCz7Ci6ZRnv2b3j) | 3:04 | 2023-09-22 | 2024-07-06 |
 | [Quisiera](https://open.spotify.com/track/58s4Lbsh8MBAFoJ7Aeaex8) | [Flor de Jamaica](https://open.spotify.com/artist/4jS676NJhUIjqAjmDzKG5f) | [Quisiera](https://open.spotify.com/album/3HJ3fRk2KTki8HvqsoLWm6) | 3:44 | 2023-09-22 |  |
+| [Radio Capital](https://open.spotify.com/track/4RryeZ8UEUYuN4K6x4Quxr) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Nuestra](https://open.spotify.com/album/6e5qfLCN4V5x4aH0cMX4dO) | 4:32 | 2024-07-31 |  |
 | [RELA](https://open.spotify.com/track/1D0WGWoxhwaeGfxWiRt1sw) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Carita Feliz \| Carita Triste \(Deluxe\)](https://open.spotify.com/album/5Bk9I9wmvglASEK0yJDIqJ) | 2:55 | 2023-09-22 | 2024-07-06 |
 | [Resurrección](https://open.spotify.com/track/5HqnE9PwuOuqg73YhX2bpZ) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ), [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [ORILLAS](https://open.spotify.com/album/3QK5vLsPeBj9oItoA5YkAo) | 4:50 | 2023-09-22 | 2023-10-21 |
 | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v) | 3:40 | 2023-09-22 | 2024-02-17 |
@@ -86,7 +88,7 @@
 | [Suficiente](https://open.spotify.com/track/1tHIfjP3YPkoTLLTmW0BUP) | [Gran Radio Riviera](https://open.spotify.com/artist/3RUegLawnCVTlcsbFk6fUq), [YIYI](https://open.spotify.com/artist/7AN8elJtTMhsDuKjTZOYKZ) | [0\-800 HOY](https://open.spotify.com/album/6GzCj4kV2236LdiDBg6VHP) | 4:05 | 2023-09-22 | 2023-09-30 |
 | [Sólo Lo Bueno Quedará](https://open.spotify.com/track/11cMrX3bUlKx3nu68hoXb4) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Sólo Lo Bueno Quedará](https://open.spotify.com/album/49u9AqmZFz9U7RuoQRp5UV) | 2:32 | 2023-09-22 |  |
 | [Te Vi Llegar](https://open.spotify.com/track/3nCpJyVWHs4kZEt7YHMmlu) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [Te Vi Llegar](https://open.spotify.com/album/2zfz1eDKYqFNonW0krxxPa) | 2:01 | 2024-02-16 |  |
-| [Te Vi Mudar](https://open.spotify.com/track/7Akzl1WkuD75hZzmr0oJxU) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Te Vi Mudar](https://open.spotify.com/album/56QdvJzTIUDA3IisAblZhz) | 2:54 | 2023-09-22 |  |
+| [Te Vi Mudar](https://open.spotify.com/track/7Akzl1WkuD75hZzmr0oJxU) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Te Vi Mudar](https://open.spotify.com/album/56QdvJzTIUDA3IisAblZhz) | 2:54 | 2023-09-22 | 2024-08-01 |
 | [Tenemos que hablar](https://open.spotify.com/track/1pSwtcaRE3LbpKiOK00l4N) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Tenemos que hablar](https://open.spotify.com/album/4bza078y7xvT1KpPoVzbx2) | 3:33 | 2023-09-22 |  |
 | [Tenerlo Todo](https://open.spotify.com/track/4A1AUgroSbwqntkE5wZjW5) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [ARMN](https://open.spotify.com/album/5ZKQlMu308fEdUEOYXUjIp) | 3:07 | 2023-09-29 | 2024-02-17 |
 | [Tobogán Amarillo](https://open.spotify.com/track/2rpN7T4X1UV0OBydtgIYzF) | [Efecto Gloria](https://open.spotify.com/artist/1Bl24yyAYpdgZx3xRYD2TR) | [Tobogán Amarillo](https://open.spotify.com/album/3i43C2uh0Z6y85UQUU8K26) | 4:31 | 2023-09-22 |  |

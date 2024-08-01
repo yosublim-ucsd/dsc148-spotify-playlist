@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. \(Cover: RIIZE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,002 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,996 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 15 | [Uptown Girl](https://open.spotify.com/track/2SbgEZmdCShwBOCx7joLve) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Uptown Girl \[THE SEASONS: Artist with Zico\]](https://open.spotify.com/album/5KllkVQYm5mfWdp0ZlkXOl) | 2:59 |
 | 16 | [self\-esteem](https://open.spotify.com/track/1wRbciVT2RaEoFeb9cGhqx) | [JINJIN \(ASTRO\)](https://open.spotify.com/artist/3U8ZnKIeY7sgQkIHjQDlHA) | [JIN LAB Project 3\. \[self\-esteem\]](https://open.spotify.com/album/7LZb9iCFhmRrDozntrP0mw) | 3:42 |
 | 17 | [There's problem](https://open.spotify.com/track/6jQurIKVlO3L7VInX6tccq) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [There's problem](https://open.spotify.com/album/2N0uwYFxYMOce1LtppQuom) | 2:46 |
-| 18 | [ATOTA](https://open.spotify.com/track/6cukVZgW3h5sIHCIrjk02w) | [SYNDI8](https://open.spotify.com/artist/5HHejyMFWMQNvLNNp39mjz) | [MVP](https://open.spotify.com/album/3n39mQpmq4GljjByNDOvku) | 2:54 |
+| 18 | [ATOTA](https://open.spotify.com/track/6cukVZgW3h5sIHCIrjk02w) | [SYI\\IDI8](https://open.spotify.com/artist/6j4dd5ZSyWrTHqXlTEVapr) | [MVP](https://open.spotify.com/album/3n39mQpmq4GljjByNDOvku) | 2:54 |
 | 19 | [20](https://open.spotify.com/track/5RKOv93gklmKCI1YqmYUUo) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [20](https://open.spotify.com/album/4HmfQKakoYL6zCO4EOoeom) | 3:29 |
 | 20 | [On My Scars \(feat.Lil Cherry, Dbo\)](https://open.spotify.com/track/2nRXFF4FE6NhUo0Sy6uCBS) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst) | [On My Scars \(feat.Lil Cherry, Dbo\)](https://open.spotify.com/album/5ffj6G6sXr3NXtlQFnUybz) | 3:18 |
 | 21 | [BADVILLAIN](https://open.spotify.com/track/3BBBK2wYC1TLOyBLnSfWTI) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [OVERSTEP](https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ) | 3:09 |

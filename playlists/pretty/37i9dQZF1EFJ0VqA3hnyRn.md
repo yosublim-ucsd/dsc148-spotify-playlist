@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306 likes - 255 songs - 15 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 307 likes - 255 songs - 15 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,8 +225,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 215 | [You The One](https://open.spotify.com/track/6lrkdix2etZFi4EERKbrdL) | [EBEN](https://open.spotify.com/artist/0mZsmXegjYM7hNw0QGE5b7) | [You The One](https://open.spotify.com/album/5VFVeblZu48dMUdLGxsnje) | 2:12 |
 | 216 | [Angel](https://open.spotify.com/track/0BAARl1iTAHL89HtvjlpfU) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [King Of Hearts \(Deluxe\)](https://open.spotify.com/album/3aAONJf7r1uJXF9ErDaJBx) | 2:59 |
 | 217 | [Guns High](https://open.spotify.com/track/2SHDv2qlZnfXZUkdHecpPZ) | [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [DJ Khaled Presents Ace Hood Gutta](https://open.spotify.com/album/026UHaCSPyAdsz12UNzYFN) | 4:10 |
-| 218 | [Win Win](https://open.spotify.com/track/7EYtUMHG5IfvZud1bf0AMl) | [B\. Smyth](https://open.spotify.com/artist/76JyRfZDqhAIow2Awv91iW), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Florida Files](https://open.spotify.com/album/5plWds6ATedVEKS39ENeBu) | 4:06 |
-| 219 | [Winning](https://open.spotify.com/track/3EdrRiufsqlZbQZTj6F82F) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [CiCi](https://open.spotify.com/album/2SCqEnMiuSZG4scznyel9x) | 2:30 |
+| 218 | [Winning](https://open.spotify.com/track/3EdrRiufsqlZbQZTj6F82F) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [CiCi](https://open.spotify.com/album/2SCqEnMiuSZG4scznyel9x) | 2:30 |
+| 219 | [Win Win](https://open.spotify.com/track/7EYtUMHG5IfvZud1bf0AMl) | [B\. Smyth](https://open.spotify.com/artist/76JyRfZDqhAIow2Awv91iW), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Florida Files](https://open.spotify.com/album/5plWds6ATedVEKS39ENeBu) | 4:06 |
 | 220 | [All On Your Body](https://open.spotify.com/track/0cJ2E7TrVBe5mOOl0Eq8Wg) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale) | [Neon](https://open.spotify.com/album/22CbLhGKCX4cWs8ajlo1bm) | 2:49 |
 | 221 | [Grown Man Cry](https://open.spotify.com/track/4nuq3ahtDol0fj6oBOpc2b) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD) | [The Artist](https://open.spotify.com/album/4lYhbvNpqi84aKPr6FiX85) | 3:38 |
 | 222 | [Time After Time](https://open.spotify.com/track/6aZnSlxQmeChHpuKMmYh0u) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Time After Time](https://open.spotify.com/album/4GpRAwq2wyt7GttDqZGLjA) | 3:33 |
@@ -264,4 +264,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 254 | [Sunshine \(feat\. JRDN\)](https://open.spotify.com/track/3eWXjX7WDpyGA6btOQTZj2) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs) | [Kardi Gras Vol\. 1: The Clash](https://open.spotify.com/album/4ZyGxmDt2ugDMQsaBmSKi5) | 3:46 |
 | 255 | [Gugoo Game \(feat\. PIKO太郎\)](https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7) | [吳映潔 GEmma Wu](https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm) | [GX](https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO) | 2:08 |
 
-Snapshot ID: `AbYG7AAAAADult4cp1n/8TK9avDINS5e`
+Snapshot ID: `AbYMzAAAAACLjIJOubbSWSQMROEKjijE`

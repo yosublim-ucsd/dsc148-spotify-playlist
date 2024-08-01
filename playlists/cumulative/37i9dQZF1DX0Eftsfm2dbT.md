@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: LEX
 
-930 songs - 2 day 0 hr 1 min
+931 songs - 2 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [City of Dreams \- Remix](https://open.spotify.com/track/1jLOzPEfQ4HEF4DFJJ7qvC) | [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [$MOKE OG](https://open.spotify.com/artist/4mdCLBVUWqX7l01s8Olnjx), [018](https://open.spotify.com/artist/09nnt8eDrHlZtp6XPusqaN) | [City of Dreams \(Remix\)](https://open.spotify.com/album/30x3oQ1y1eVcdBx6lOJMlx) | 2:54 | 2024-07-11 |  |
 | [Cloud](https://open.spotify.com/track/4DjUTo5NhS4MgsSZMc8MCr) | [in\-d](https://open.spotify.com/artist/53Mz6ePoXI88zSbdiRavSo) | [Cloud](https://open.spotify.com/album/2zpTmknuqqywtD3n2MxQzr) | 3:44 | 2023-12-13 | 2024-02-21 |
 | [CLOVER](https://open.spotify.com/track/3tEPX2fSLx5ugdhl0QpKng) | [Sound's Deli](https://open.spotify.com/artist/7dd46Nuonbm2HO2pZ8bdgB) | [CLOVER](https://open.spotify.com/album/1AKbPWDyGF2nTwVWuOsz7D) | 3:59 | 2024-01-30 | 2024-06-05 |
+| [coco freestyle](https://open.spotify.com/track/0PRduxqXvtIlqGoFuQrJzQ) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [Re:Born Tape](https://open.spotify.com/album/7Ab9dMLW61DCd83WtO8NaL) | 2:43 | 2024-07-31 |  |
 | [Cold Life](https://open.spotify.com/track/2dr8YOQ4qVdwe7quKIhSph) | [Eric.B.Jr](https://open.spotify.com/artist/5iiCEORKky6Ecc38uEUXX0), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [EASTSIDEBABY](https://open.spotify.com/album/78aZZPnT74tVsYwP9kMMvs) | 3:34 | 2024-07-10 |  |
 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 | 2024-01-23 | 2024-04-17 |
 | [COMFORTABLE](https://open.spotify.com/track/2AlJhfTeZbbotAlPPV3D8G) | [Shurkn Pap](https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB), [KOWICHI](https://open.spotify.com/artist/6CbooCqOA6MI23syacRER2) | [JIYU](https://open.spotify.com/album/1DlOMgYpMzmGrcBSoioKHB) | 2:45 | 2023-09-28 | 2023-09-30 |

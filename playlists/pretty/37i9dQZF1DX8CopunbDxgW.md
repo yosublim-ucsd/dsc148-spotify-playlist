@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: TOKiMONSTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,203 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,223 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Corazón](https://open.spotify.com/track/5ePlrWLaehge6VpooLOiwt) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Corazón](https://open.spotify.com/album/4217Ui5bxrqSH3vuGrT20q) | 3:00 |
+| 1 | [Corazón / Death by Disco Pt 2](https://open.spotify.com/track/5ePlrWLaehge6VpooLOiwt) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Corazón / Death by Disco Pt 2](https://open.spotify.com/album/4217Ui5bxrqSH3vuGrT20q) | 3:00 |
 | 2 | [GLIMMER.](https://open.spotify.com/track/5TK4IOdSlCvnsoj5txC7S0) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [SNAKEGANG](https://open.spotify.com/artist/7FuPPJX0pZUYlBAsf7cAIZ) | [SNAKEGANG EP Volume 1](https://open.spotify.com/album/0WaPDGSO9jDHgvlSNuBiuu) | 2:38 |
 | 3 | [Vhs](https://open.spotify.com/track/5DMCdNpx797b2P2CnpGgna) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Vhs](https://open.spotify.com/album/14pWWbSsZa90kidIfHK7Nm) | 4:29 |
 | 4 | [stArlight](https://open.spotify.com/track/0c84ujMSVptmZp1ZXXgJNz) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [stArlight](https://open.spotify.com/album/03zxfkzxIFPaeaLTT0BgTG) | 2:22 |

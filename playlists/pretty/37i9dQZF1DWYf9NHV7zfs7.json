@@ -1,6 +1,6 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Un Verano",
-  "num_followers": 52915,
+  "num_followers": 52936,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
+        "name": "Todo el D\u00eda As\u00ed",
+        "url": "https://open.spotify.com/album/1hM9onmRwyME8M8E1X0OgR"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 215492,
+      "name": "Todo el D\u00eda As\u00ed",
+      "url": "https://open.spotify.com/track/1EAOYGRgF3eUJLZMSfin7P"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
         "name": "Quiromancia",
         "url": "https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 213948,
       "name": "Las Flores (feat. Los Aut\u00e9nticos Decadentes)",
       "url": "https://open.spotify.com/track/6HOoeolSylzuUcPXLlbPtK"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
-        "name": "Todo el D\u00eda As\u00ed",
-        "url": "https://open.spotify.com/album/1hM9onmRwyME8M8E1X0OgR"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 215492,
-      "name": "Todo el D\u00eda As\u00ed",
-      "url": "https://open.spotify.com/track/1EAOYGRgF3eUJLZMSfin7P"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "P\u00f3stumo",
-        "url": "https://open.spotify.com/album/3GyuGgiV1VhQpYmwaCtQWQ"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        }
-      ],
-      "duration_ms": 214004,
-      "name": "P\u00f3stumo",
-      "url": "https://open.spotify.com/track/17EDLQzOKhHbwxCZBE8W5w"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "Pensando en Ti",
         "url": "https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH"
       },
@@ -1151,6 +1135,38 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
+        "name": "P\u00f3stumo",
+        "url": "https://open.spotify.com/album/3GyuGgiV1VhQpYmwaCtQWQ"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "duration_ms": 214004,
+      "name": "P\u00f3stumo",
+      "url": "https://open.spotify.com/track/17EDLQzOKhHbwxCZBE8W5w"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "EL PROCESO",
+        "url": "https://open.spotify.com/album/0btfCnFxFTTJ9xgs6j4bLr"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 156812,
+      "name": "EL PROCESO",
+      "url": "https://open.spotify.com/track/7jRTjCPPxpUBSdx5jh05az"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
         "name": "Me Diste la Espalda",
         "url": "https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 202492,
       "name": "Me Diste la Espalda",
       "url": "https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
-        "name": "Dame Chance (Rayuela)",
-        "url": "https://open.spotify.com/album/1hrrlLfySKB6NgmMTcIBhL"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 152560,
-      "name": "Dame Chance (Rayuela)",
-      "url": "https://open.spotify.com/track/2czAQ067Yr4PTyCA22I1Pe"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
+        "name": "Dame Chance (Rayuela)",
+        "url": "https://open.spotify.com/album/1hrrlLfySKB6NgmMTcIBhL"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 152560,
+      "name": "Dame Chance (Rayuela)",
+      "url": "https://open.spotify.com/track/2czAQ067Yr4PTyCA22I1Pe"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
         "name": "Manantial",
         "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 207133,
       "name": "La Fuerza del Enga\u00f1o",
       "url": "https://open.spotify.com/track/2KrzUHEX4tL0zZOKHFQmqG"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
-        "name": "EL PROCESO",
-        "url": "https://open.spotify.com/album/0btfCnFxFTTJ9xgs6j4bLr"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 156812,
-      "name": "EL PROCESO",
-      "url": "https://open.spotify.com/track/7jRTjCPPxpUBSdx5jh05az"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
+        "name": "Octubre",
+        "url": "https://open.spotify.com/album/1vWfcvPOganIkpIhEK4AHP"
+      },
+      "artists": [
+        {
+          "name": "TULI",
+          "url": "https://open.spotify.com/artist/0ZONTh5kX91I8H6sa8QOlZ"
+        }
+      ],
+      "duration_ms": 144535,
+      "name": "Octubre",
+      "url": "https://open.spotify.com/track/1ZZ7l7oqFHzKMfIVfOr8WI"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
         "name": "4 Paredes",
         "url": "https://open.spotify.com/album/4FgQmBHpbdaLUukZNwDpRt"
       },
@@ -1407,26 +1423,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "L\u00e1grimas y Flores (feat. Natalie Perez)",
-        "url": "https://open.spotify.com/album/6GkLBhohzpGAdnnLmkBAKX"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        },
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 217810,
-      "name": "L\u00e1grimas y Flores (feat. Natalie Perez)",
-      "url": "https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "Monoambiente en Capital",
         "url": "https://open.spotify.com/album/1HjSFjgizVFIZ9c1aG9VC7"
       },
@@ -1447,6 +1443,26 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
+        "name": "L\u00e1grimas y Flores (feat. Natalie Perez)",
+        "url": "https://open.spotify.com/album/6GkLBhohzpGAdnnLmkBAKX"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        },
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 217810,
+      "name": "L\u00e1grimas y Flores (feat. Natalie Perez)",
+      "url": "https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
         "name": "Conducci\u00f3n Temeraria",
         "url": "https://open.spotify.com/album/3jzSeHQDDQ8lLI59mYhVC0"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 212044,
       "name": "En tu casa o en la m\u00eda (feat. Conociendo Rusia)",
       "url": "https://open.spotify.com/track/6Y6dbhxP8gesJ5oTr7lBmi"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
-        "name": "Octubre",
-        "url": "https://open.spotify.com/album/1vWfcvPOganIkpIhEK4AHP"
-      },
-      "artists": [
-        {
-          "name": "TULI",
-          "url": "https://open.spotify.com/artist/0ZONTh5kX91I8H6sa8QOlZ"
-        }
-      ],
-      "duration_ms": 144535,
-      "name": "Octubre",
-      "url": "https://open.spotify.com/track/1ZZ7l7oqFHzKMfIVfOr8WI"
     }
   ],
   "unique_name": "Esto es Pop",

@@ -1,12 +1,12 @@
 {
   "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
-  "num_followers": 462597,
+  "num_followers": 463209,
   "original_name": "This Is Zach Bryan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqbbgAAAAADGkFwfufTsbPfSEzp5JCBf",
+  "snapshot_id": "ZqgtAAAAAADy+UgG3/E0cJd061FIRYHX",
   "tracks": [
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 185173,
-      "name": "Boons",
-      "url": "https://open.spotify.com/track/5hrGuVnNc8tkRgkW38J5Vv"
+      "duration_ms": 239410,
+      "name": "Oak Island",
+      "url": "https://open.spotify.com/track/3XbIhTYl6a0uXPyO43eiXa"
     },
     {
       "added_at": null,
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 239410,
-      "name": "Oak Island",
-      "url": "https://open.spotify.com/track/3XbIhTYl6a0uXPyO43eiXa"
+      "duration_ms": 185173,
+      "name": "Boons",
+      "url": "https://open.spotify.com/track/5hrGuVnNc8tkRgkW38J5Vv"
     },
     {
       "added_at": null,

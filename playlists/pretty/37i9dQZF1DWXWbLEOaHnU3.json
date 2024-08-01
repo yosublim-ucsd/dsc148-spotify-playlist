@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 548700,
+  "num_followers": 548772,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -359,26 +359,22 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Sympathize",
-        "url": "https://open.spotify.com/album/4xzuhuNKGITX36QYB09tlk"
+        "name": "All Gone",
+        "url": "https://open.spotify.com/album/3h9i8vXutqHGH5QkxUEG6o"
       },
       "artists": [
         {
-          "name": "Ranji",
-          "url": "https://open.spotify.com/artist/6Tu0luJL7EoFv1RsHZP30p"
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
         },
         {
-          "name": "Davee",
-          "url": "https://open.spotify.com/artist/4bPPMaeetFSybJAoj46xc2"
-        },
-        {
-          "name": "Ela",
-          "url": "https://open.spotify.com/artist/13wo29ljmUgZlFZB2py2vj"
+          "name": "Jacob",
+          "url": "https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN"
         }
       ],
-      "duration_ms": 308785,
-      "name": "Sympathize",
-      "url": "https://open.spotify.com/track/6X3DD4NUiJaOtPTt98QIkP"
+      "duration_ms": 229436,
+      "name": "All Gone",
+      "url": "https://open.spotify.com/track/6imZUICpik2ZVecP0MO3aF"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -403,22 +399,26 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "All Gone",
-        "url": "https://open.spotify.com/album/3h9i8vXutqHGH5QkxUEG6o"
+        "name": "Sympathize",
+        "url": "https://open.spotify.com/album/4xzuhuNKGITX36QYB09tlk"
       },
       "artists": [
         {
-          "name": "Durs",
-          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
+          "name": "Ranji",
+          "url": "https://open.spotify.com/artist/6Tu0luJL7EoFv1RsHZP30p"
         },
         {
-          "name": "Jacob",
-          "url": "https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN"
+          "name": "Davee",
+          "url": "https://open.spotify.com/artist/4bPPMaeetFSybJAoj46xc2"
+        },
+        {
+          "name": "Ela",
+          "url": "https://open.spotify.com/artist/13wo29ljmUgZlFZB2py2vj"
         }
       ],
-      "duration_ms": 229436,
-      "name": "All Gone",
-      "url": "https://open.spotify.com/track/6imZUICpik2ZVecP0MO3aF"
+      "duration_ms": 308785,
+      "name": "Sympathize",
+      "url": "https://open.spotify.com/track/6X3DD4NUiJaOtPTt98QIkP"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -699,30 +699,6 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Hero (Infected Mushroom Remix)",
-        "url": "https://open.spotify.com/album/3YxzVruTjT2lnAmr2EgQOz"
-      },
-      "artists": [
-        {
-          "name": "Pegboard Nerds",
-          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
-        },
-        {
-          "name": "Elizaveta",
-          "url": "https://open.spotify.com/artist/2a9bCkqCkLvXM0s3uPvR7M"
-        },
-        {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
-        }
-      ],
-      "duration_ms": 304394,
-      "name": "Hero - Infected Mushroom Remix",
-      "url": "https://open.spotify.com/track/5e447qV9VjEOQfGM682o3W"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
         "name": "Be Right",
         "url": "https://open.spotify.com/album/2QNCS4JDIBqgNdj7m8P99x"
       },
@@ -743,6 +719,30 @@
       "duration_ms": 500281,
       "name": "Be Right - Asgard Remix",
       "url": "https://open.spotify.com/track/3w4iGiKW0BM8B6M8MNMvxa"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
+        "name": "Hero (Infected Mushroom Remix)",
+        "url": "https://open.spotify.com/album/3YxzVruTjT2lnAmr2EgQOz"
+      },
+      "artists": [
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        },
+        {
+          "name": "Elizaveta",
+          "url": "https://open.spotify.com/artist/2a9bCkqCkLvXM0s3uPvR7M"
+        },
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        }
+      ],
+      "duration_ms": 304394,
+      "name": "Hero - Infected Mushroom Remix",
+      "url": "https://open.spotify.com/track/5e447qV9VjEOQfGM682o3W"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -855,22 +855,26 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Mind Is God - Single",
-        "url": "https://open.spotify.com/album/14vUJhUnVc1lhx0fRTAiep"
+        "name": "STFD (Remix)",
+        "url": "https://open.spotify.com/album/7I7kTiZ5UcBnkIHbgzoJ4A"
       },
       "artists": [
         {
-          "name": "Space Tribe",
-          "url": "https://open.spotify.com/artist/748vK7dsovMo6AepldQGI9"
+          "name": "Omiki",
+          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
         },
         {
-          "name": "Mad Maxx",
-          "url": "https://open.spotify.com/artist/4NxdtrVLPVumYVGjJhnWOv"
+          "name": "WHITENO1SE",
+          "url": "https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2"
+        },
+        {
+          "name": "TeZATalks",
+          "url": "https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W"
         }
       ],
-      "duration_ms": 540000,
-      "name": "Mind Is God - Original Mix",
-      "url": "https://open.spotify.com/track/2a0MXNSukUC3ZfORJNmW6n"
+      "duration_ms": 178206,
+      "name": "STFD (Remix)",
+      "url": "https://open.spotify.com/track/3cr4nLS3rbzII8fqvsDO5N"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -895,26 +899,22 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "STFD (Remix)",
-        "url": "https://open.spotify.com/album/7I7kTiZ5UcBnkIHbgzoJ4A"
+        "name": "Mind Is God - Single",
+        "url": "https://open.spotify.com/album/14vUJhUnVc1lhx0fRTAiep"
       },
       "artists": [
         {
-          "name": "Omiki",
-          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
+          "name": "Space Tribe",
+          "url": "https://open.spotify.com/artist/748vK7dsovMo6AepldQGI9"
         },
         {
-          "name": "WHITENO1SE",
-          "url": "https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2"
-        },
-        {
-          "name": "TeZATalks",
-          "url": "https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W"
+          "name": "Mad Maxx",
+          "url": "https://open.spotify.com/artist/4NxdtrVLPVumYVGjJhnWOv"
         }
       ],
-      "duration_ms": 178206,
-      "name": "STFD (Remix)",
-      "url": "https://open.spotify.com/track/3cr4nLS3rbzII8fqvsDO5N"
+      "duration_ms": 540000,
+      "name": "Mind Is God - Original Mix",
+      "url": "https://open.spotify.com/track/2a0MXNSukUC3ZfORJNmW6n"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/2d7QLkR0exGfc514HvfWFo"
+      },
+      "artists": [
+        {
+          "name": "The Brick Slayer",
+          "url": "https://open.spotify.com/artist/4o17UxuZhBYV6kRVQTqaQb"
+        }
+      ],
+      "duration_ms": 272350,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/60P4NFoheamHGCvC1lDU2G"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
         "name": "Music Is My Remedy",
         "url": "https://open.spotify.com/album/4BXnjRvqUm9CD8DL7VoU7v"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 306857,
       "name": "Music Is My Remedy",
       "url": "https://open.spotify.com/track/6jzgprpVQTyDlNHD8E8jEI"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/2d7QLkR0exGfc514HvfWFo"
-      },
-      "artists": [
-        {
-          "name": "The Brick Slayer",
-          "url": "https://open.spotify.com/artist/4o17UxuZhBYV6kRVQTqaQb"
-        }
-      ],
-      "duration_ms": 272350,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/60P4NFoheamHGCvC1lDU2G"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1091,30 +1091,6 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Sun & Moon (Blastoyz Remix)",
-        "url": "https://open.spotify.com/album/7ySVLJX79BVx2eCAu0oUQG"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Richard Bedford",
-          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
-        },
-        {
-          "name": "Blastoyz",
-          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
-        }
-      ],
-      "duration_ms": 211002,
-      "name": "Sun & Moon - Blastoyz Remix",
-      "url": "https://open.spotify.com/track/4co3il6gimSyfEgN9MV4cl"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
         "name": "Huna (feat. Ravid Kahalani)",
         "url": "https://open.spotify.com/album/2zCbJe1hvzAZqkP4JIJMHc"
       },
@@ -1135,6 +1111,30 @@
       "duration_ms": 145714,
       "name": "Huna (feat. Ravid Kahalani)",
       "url": "https://open.spotify.com/track/2MTosWcPKh92SAzZgZhVlc"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
+        "name": "Sun & Moon (Blastoyz Remix)",
+        "url": "https://open.spotify.com/album/7ySVLJX79BVx2eCAu0oUQG"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Richard Bedford",
+          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+        },
+        {
+          "name": "Blastoyz",
+          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+        }
+      ],
+      "duration_ms": 211002,
+      "name": "Sun & Moon - Blastoyz Remix",
+      "url": "https://open.spotify.com/track/4co3il6gimSyfEgN9MV4cl"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
+        "name": "Carmen",
+        "url": "https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF"
+      },
+      "artists": [
+        {
+          "name": "Skazi",
+          "url": "https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3"
+        },
+        {
+          "name": "Invisible Reality",
+          "url": "https://open.spotify.com/artist/5689fXaoEmJsLSPv3y18An"
+        }
+      ],
+      "duration_ms": 243428,
+      "name": "Carmen",
+      "url": "https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/3DhPzL19TNQPuwdDeodmbB"
       },
@@ -1247,26 +1267,6 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Carmen",
-        "url": "https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF"
-      },
-      "artists": [
-        {
-          "name": "Skazi",
-          "url": "https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3"
-        },
-        {
-          "name": "Invisible Reality",
-          "url": "https://open.spotify.com/artist/5689fXaoEmJsLSPv3y18An"
-        }
-      ],
-      "duration_ms": 243428,
-      "name": "Carmen",
-      "url": "https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
         "name": "The Hook",
         "url": "https://open.spotify.com/album/6eKYwQDPRKIdZQnC5K1r1Q"
       },
@@ -1287,30 +1287,6 @@
       "duration_ms": 285217,
       "name": "The Hook",
       "url": "https://open.spotify.com/track/2KJc0tlouvIy4xwwlp40Hr"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
-        "name": "Stupid as Fvck (Physis Remix)",
-        "url": "https://open.spotify.com/album/5rKCuh31YA9TKTnt4u5cSD"
-      },
-      "artists": [
-        {
-          "name": "Neelix",
-          "url": "https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB"
-        },
-        {
-          "name": "Symphonix",
-          "url": "https://open.spotify.com/artist/3YrMuDBgkI3zUJUAyKfxFm"
-        },
-        {
-          "name": "Physis",
-          "url": "https://open.spotify.com/artist/1IM0Mnml2ITEkXZoULnu6Z"
-        }
-      ],
-      "duration_ms": 329565,
-      "name": "Stupid as Fvck (Physis Remix)",
-      "url": "https://open.spotify.com/track/7sR7TTMwNmLvQWSMgAr16f"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1359,6 +1335,30 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
+        "name": "Stupid as Fvck (Physis Remix)",
+        "url": "https://open.spotify.com/album/5rKCuh31YA9TKTnt4u5cSD"
+      },
+      "artists": [
+        {
+          "name": "Neelix",
+          "url": "https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB"
+        },
+        {
+          "name": "Symphonix",
+          "url": "https://open.spotify.com/artist/3YrMuDBgkI3zUJUAyKfxFm"
+        },
+        {
+          "name": "Physis",
+          "url": "https://open.spotify.com/artist/1IM0Mnml2ITEkXZoULnu6Z"
+        }
+      ],
+      "duration_ms": 329565,
+      "name": "Stupid as Fvck (Physis Remix)",
+      "url": "https://open.spotify.com/track/7sR7TTMwNmLvQWSMgAr16f"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/2VOqFMtSaJVbxhRlegRD7g"
       },
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Extra-Terra",
-        "url": "https://open.spotify.com/album/1wlbaEPwoSGMN3llxTjsQ4"
-      },
-      "artists": [
-        {
-          "name": "GRAViiTY",
-          "url": "https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY"
-        }
-      ],
-      "duration_ms": 231269,
-      "name": "Extra-Terra",
-      "url": "https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
         "name": "Remixes",
         "url": "https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 491666,
       "name": "Sapana - Avalon Remix",
       "url": "https://open.spotify.com/track/5XOsVtC4JMqNUVg48w9z13"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
+        "name": "Extra-Terra",
+        "url": "https://open.spotify.com/album/1wlbaEPwoSGMN3llxTjsQ4"
+      },
+      "artists": [
+        {
+          "name": "GRAViiTY",
+          "url": "https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY"
+        }
+      ],
+      "duration_ms": 231269,
+      "name": "Extra-Terra",
+      "url": "https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1559,22 +1559,18 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Behind",
-        "url": "https://open.spotify.com/album/5Pi3BlWvAQUYvgGoedaLvt"
+        "name": "The Call",
+        "url": "https://open.spotify.com/album/3LHeVMaE1w7GtJFh4bQWm8"
       },
       "artists": [
         {
-          "name": "Durs",
-          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
-        },
-        {
-          "name": "Deep Kontakt",
-          "url": "https://open.spotify.com/artist/0y3Swirv7gm6gjXl2sayna"
+          "name": "Mr. Nobody",
+          "url": "https://open.spotify.com/artist/4J6qnj4HFAbciwpszkh8mm"
         }
       ],
-      "duration_ms": 273375,
-      "name": "Behind",
-      "url": "https://open.spotify.com/track/1kYEeWOIctxfaPSFFUkExZ"
+      "duration_ms": 305142,
+      "name": "The Call",
+      "url": "https://open.spotify.com/track/5OxmiELPa75lgDBN5Kuj09"
     }
   ],
   "unique_name": "Psytrance Supernova",

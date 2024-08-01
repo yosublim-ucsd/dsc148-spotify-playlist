@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Hardwell
 
-473 songs - 1 day 0 hr 41 min
+474 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [Save Me](https://open.spotify.com/track/2JZqPb0miqjFSyVPqMfSta) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Save Me](https://open.spotify.com/album/1k7Xv6WrWBxsLb8KHV46PF) | 2:41 | 2022-12-27 | 2023-01-03 |
 | [Seduction](https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [The Seduction EP](https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh) | 3:11 | 2023-04-06 | 2023-04-21 |
 | [SELF DESTRUCT](https://open.spotify.com/track/4zhG9ruZL1Kj64X5zLiCcO) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [SELF DESTRUCT](https://open.spotify.com/album/3OavI82lANHClWoPPERADE) | 4:02 | 2022-08-25 | 2023-01-03 |
+| [Seven Nation Army](https://open.spotify.com/track/7BFwwCduDBbDG9fk9SlAYm) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [KRAIZ](https://open.spotify.com/artist/5RbgNkBwfYSM8yIYXn0Gwk) | [Seven Nation Army](https://open.spotify.com/album/3CPKAtHz1wxfXacap7HbDk) | 2:37 | 2024-07-25 |  |
 | [Sex Drugs Energie](https://open.spotify.com/track/6aB7mV6RHoshGo2ExvoRVQ) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Sex Drugs Energie](https://open.spotify.com/album/2oesdWZzEYr7AE2jsLyjTe) | 2:32 | 2023-11-16 | 2023-12-31 |
 | [Shake The Building](https://open.spotify.com/track/24Fvsa3e7tf6ladJsbpUlI) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58), [MC Ambush](https://open.spotify.com/artist/18T0SpXY06tqdiyBTYTIgi) | [Shake The Building](https://open.spotify.com/album/5gk0ZhsuJ7izSgwjc7Uzcd) | 2:42 | 2023-04-27 | 2023-10-06 |
 | [She Movin'](https://open.spotify.com/track/2Mx93ho6F2ovN2FA4vs3Ud) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9) | [She Movin'](https://open.spotify.com/album/5bFs3EpDL14QlNqfyKEvVl) | 3:37 | 2022-06-02 | 2022-08-19 |
@@ -402,7 +403,7 @@
 | [Switch Back](https://open.spotify.com/track/1M0hRg4ccFGMqi00ITrxNv) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Switch Back](https://open.spotify.com/album/5b6uOk8B0jOexZIOqOrt3x) | 2:45 | 2022-04-14 | 2023-02-17 |
 | [Synergy](https://open.spotify.com/track/5KkxBEAqnxcfibAepMZSyA) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Synergy](https://open.spotify.com/album/10FiVORbZ6sRGYLWkP3PQ4) | 3:29 | 2023-04-13 | 2023-09-15 |
 | [Take Me Away Again](https://open.spotify.com/track/2meQ2wSIBU8OQDKlJcJk5j) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Take Me Away Again](https://open.spotify.com/album/3FOqjkgC6qqes6K3Ejly3B) | 3:25 | 2023-01-26 | 2024-01-05 |
-| [Take Me Back](https://open.spotify.com/track/7vvNxVTviMy2dwIhaziOab) | [NGD Project](https://open.spotify.com/artist/43ljqQ6a2nZ0VVjv3ocf9q), [Steeper](https://open.spotify.com/artist/2uTLykyg4Wk5zBw3Xttmsh) | [Take Me Back](https://open.spotify.com/album/4XCFFpSnvapubSs8rUcrkp) | 2:49 | 2024-03-21 |  |
+| [Take Me Back](https://open.spotify.com/track/7vvNxVTviMy2dwIhaziOab) | [NGD Project](https://open.spotify.com/artist/43ljqQ6a2nZ0VVjv3ocf9q), [Steeper](https://open.spotify.com/artist/2uTLykyg4Wk5zBw3Xttmsh) | [Take Me Back](https://open.spotify.com/album/4XCFFpSnvapubSs8rUcrkp) | 2:49 | 2024-03-21 | 2024-08-01 |
 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 | 2022-04-21 | 2022-05-01 |
 | [Tamara](https://open.spotify.com/track/0iXHcWtw4npb2FPf6Gh5js) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Tamara](https://open.spotify.com/album/1Lsqnc5hGVO25f0DPh8PgD) | 3:26 | 2024-07-04 | 2024-07-31 |
 | [TARAKA \- Tiësto Remix](https://open.spotify.com/track/3tDhrE0UftmIEuPwBLUf7d) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [TARAKA \(Tiësto Remix\)](https://open.spotify.com/album/6busnvOpzGXyFGe7hJXMa3) | 4:24 | 2022-12-02 | 2023-12-21 |

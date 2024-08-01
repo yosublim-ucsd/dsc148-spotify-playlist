@@ -1,6 +1,6 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 769396,
+  "num_followers": 769516,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
-        "name": "Billy Jack",
-        "url": "https://open.spotify.com/album/30WtXdVFAmiTnuVn5WheWf"
-      },
-      "artists": [
-        {
-          "name": "honeyhoney",
-          "url": "https://open.spotify.com/artist/22tQF7y3PwRuU6ZWAV2oTM"
-        }
-      ],
-      "duration_ms": 285680,
-      "name": "Thin Line",
-      "url": "https://open.spotify.com/track/1jgr7hrjegI0n8fEcY06vy"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
         "name": "Nothing But The Water",
         "url": "https://open.spotify.com/album/30b3ZKCE7CxRNumi4XojDD"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 164200,
       "name": "Nothing But The Water (I)",
       "url": "https://open.spotify.com/track/4f9F6CSTaJeMyvn1Plu89U"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
+        "name": "Billy Jack",
+        "url": "https://open.spotify.com/album/30WtXdVFAmiTnuVn5WheWf"
+      },
+      "artists": [
+        {
+          "name": "honeyhoney",
+          "url": "https://open.spotify.com/artist/22tQF7y3PwRuU6ZWAV2oTM"
+        }
+      ],
+      "duration_ms": 285680,
+      "name": "Thin Line",
+      "url": "https://open.spotify.com/track/1jgr7hrjegI0n8fEcY06vy"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
+        "name": "Bastard Children",
+        "url": "https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG"
+      },
+      "artists": [
+        {
+          "name": "Vudu Sister",
+          "url": "https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "Dead Man's Pocket",
+      "url": "https://open.spotify.com/track/1SbnUcfbqd0EdkczKJbEDK"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
         "name": "Twin",
         "url": "https://open.spotify.com/album/5GhI019oC8mS6czOfouj2J"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 196890,
       "name": "Where the Enemy Sleeps (feat. Lucette)",
       "url": "https://open.spotify.com/track/17YEHsH3LwT9yqqQhuid8k"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
-        "name": "Bastard Children",
-        "url": "https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG"
-      },
-      "artists": [
-        {
-          "name": "Vudu Sister",
-          "url": "https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "Dead Man's Pocket",
-      "url": "https://open.spotify.com/track/1SbnUcfbqd0EdkczKJbEDK"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
+        "name": "Gravity Well",
+        "url": "https://open.spotify.com/album/4x3oQDSVcs6pZCooX5p9DB"
+      },
+      "artists": [
+        {
+          "name": "Rose's Pawn Shop",
+          "url": "https://open.spotify.com/artist/1LJtIL5oefyNjM2r2FomZ3"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "Country Blues",
+      "url": "https://open.spotify.com/track/4902sigaZA0IflQ6FdWmtk"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
         "name": "Daughter, Daughter",
         "url": "https://open.spotify.com/album/0OaUiE3t8fSKBr0yJva0vw"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 205022,
       "name": "Daughter, Daughter",
       "url": "https://open.spotify.com/track/1GLsKI9ZvoahRB8UTsKBxC"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
-        "name": "Gravity Well",
-        "url": "https://open.spotify.com/album/4x3oQDSVcs6pZCooX5p9DB"
-      },
-      "artists": [
-        {
-          "name": "Rose's Pawn Shop",
-          "url": "https://open.spotify.com/artist/1LJtIL5oefyNjM2r2FomZ3"
-        }
-      ],
-      "duration_ms": 203546,
-      "name": "Country Blues",
-      "url": "https://open.spotify.com/track/4902sigaZA0IflQ6FdWmtk"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
-        "name": "Horehound",
-        "url": "https://open.spotify.com/album/748kQyYY7WAP6fMSBjV7l8"
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/3otJWr2xpdvZJGNS303RCZ"
       },
       "artists": [
         {
-          "name": "The Dead Weather",
-          "url": "https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V"
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
         }
       ],
-      "duration_ms": 380160,
-      "name": "Will There Be Enough Water?",
-      "url": "https://open.spotify.com/track/3Bx2b6DkK0lOLuwnLVaULP"
+      "duration_ms": 177306,
+      "name": "Fault Line",
+      "url": "https://open.spotify.com/track/20hLTXbjj0jhiyOQFwIqa0"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
+        "name": "Horehound",
+        "url": "https://open.spotify.com/album/748kQyYY7WAP6fMSBjV7l8"
+      },
+      "artists": [
+        {
+          "name": "The Dead Weather",
+          "url": "https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V"
+        }
+      ],
+      "duration_ms": 380160,
+      "name": "Will There Be Enough Water?",
+      "url": "https://open.spotify.com/track/3Bx2b6DkK0lOLuwnLVaULP"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
         "name": "Raise Hell",
         "url": "https://open.spotify.com/album/0igXZxXbAV5a5EkVcQdlxb"
       },
@@ -1435,18 +1451,18 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
-        "name": "Howl",
-        "url": "https://open.spotify.com/album/3otJWr2xpdvZJGNS303RCZ"
+        "name": "Ashkelon",
+        "url": "https://open.spotify.com/album/4Hg3nMjHlIr0wtswiknM5z"
       },
       "artists": [
         {
-          "name": "Black Rebel Motorcycle Club",
-          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
         }
       ],
-      "duration_ms": 177306,
-      "name": "Fault Line",
-      "url": "https://open.spotify.com/track/20hLTXbjj0jhiyOQFwIqa0"
+      "duration_ms": 313867,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/3lwBgpUnYL2pnPGRlWEkd9"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -1619,22 +1635,6 @@
       "duration_ms": 216200,
       "name": "Hell's Bells",
       "url": "https://open.spotify.com/track/1BNm9pxX5cmZOq15o0mNEl"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
-        "name": "Real Midnight",
-        "url": "https://open.spotify.com/album/7mFltVGJpL7QSFfPAdWeMZ"
-      },
-      "artists": [
-        {
-          "name": "Birds of Chicago",
-          "url": "https://open.spotify.com/artist/2nyv8yYjMSkvUr9OwEQhVf"
-        }
-      ],
-      "duration_ms": 184466,
-      "name": "Barley",
-      "url": "https://open.spotify.com/track/0h7329EnhfoaUEu2sN8o1U"
     }
   ],
   "unique_name": "Southern Gothic",

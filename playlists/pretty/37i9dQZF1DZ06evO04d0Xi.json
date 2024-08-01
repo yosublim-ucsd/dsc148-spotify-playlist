@@ -1,12 +1,12 @@
 {
-  "description": "This is: Fernanda Brum. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 71750,
+  "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
+  "num_followers": 71759,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqbbgAAAAAChX4yyQX+l/Rl34V1NfrOY",
+  "snapshot_id": "ZqgtAAAAAADvWqhWNJcYCyJY2T9i+Cvj",
   "tracks": [
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Algu\u00e9m",
+        "url": "https://open.spotify.com/album/4FOLCFEUgdKB8jH7Z1JNa3"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "Algu\u00e9m",
+      "url": "https://open.spotify.com/track/4U1p9bONY3EWkPhk7Vb8Gt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
         "url": "https://open.spotify.com/album/0GQdUpiAJQOZgm8JA0tpfu"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 273670,
       "name": "Como Se Cura a Ferida",
       "url": "https://open.spotify.com/track/1MGocqM5nUccHth3CL3y79"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Algu\u00e9m",
-        "url": "https://open.spotify.com/album/4FOLCFEUgdKB8jH7Z1JNa3"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 229373,
-      "name": "Algu\u00e9m",
-      "url": "https://open.spotify.com/track/4U1p9bONY3EWkPhk7Vb8Gt"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonhos",
-        "url": "https://open.spotify.com/album/1sUvDkBy5POHFyvSuuKmBC"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 206657,
-      "name": "Seu Lugar",
-      "url": "https://open.spotify.com/track/5N4nevHlaNbF5jUNlxUsZo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cura-me",
         "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 305342,
       "name": "Adorai, Adonai",
       "url": "https://open.spotify.com/track/5oHXT1Q1gqtfxnbyjjGITZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sonhos",
+        "url": "https://open.spotify.com/album/1sUvDkBy5POHFyvSuuKmBC"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 206657,
+      "name": "Seu Lugar",
+      "url": "https://open.spotify.com/track/5N4nevHlaNbF5jUNlxUsZo"
     },
     {
       "added_at": null,
@@ -875,22 +875,6 @@
       "duration_ms": 275604,
       "name": "Imagine (Ao Vivo)",
       "url": "https://open.spotify.com/track/7i3FmPXzZ09XKSECqPSDLi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paix\u00e3o de Cristo - O Musical",
-        "url": "https://open.spotify.com/album/3FQM2qMVhkS4lnXVtpHZnO"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 193004,
-      "name": "Vinho e P\u00e3o",
-      "url": "https://open.spotify.com/track/5sI3nwxI5IncAepXQYhEod"
     },
     {
       "added_at": null,
@@ -927,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Paix\u00e3o de Cristo - O Musical",
+        "url": "https://open.spotify.com/album/3FQM2qMVhkS4lnXVtpHZnO"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 193004,
+      "name": "Vinho e P\u00e3o",
+      "url": "https://open.spotify.com/track/5sI3nwxI5IncAepXQYhEod"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Escreve",
         "url": "https://open.spotify.com/album/23VnB0ZTqln1XnMUinTGW2"
       },
@@ -939,6 +939,22 @@
       "duration_ms": 275590,
       "name": "Escreve",
       "url": "https://open.spotify.com/track/6e2qXHWkxNNJyROemErInw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9s Real Pra Mim",
+        "url": "https://open.spotify.com/album/3IAu3yi2pl9l3sF8wUv69A"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 334413,
+      "name": "\u00c9s Real pra Mim",
+      "url": "https://open.spotify.com/track/2hsERnD409nL9T06rhZC01"
     },
     {
       "added_at": null,
@@ -959,22 +975,6 @@
       "duration_ms": 416194,
       "name": "Jesus, Meu Primeiro Amor",
       "url": "https://open.spotify.com/track/4DiKminQ3591BMQpmWgZvj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c9s Real Pra Mim",
-        "url": "https://open.spotify.com/album/3IAu3yi2pl9l3sF8wUv69A"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 334413,
-      "name": "\u00c9s Real pra Mim",
-      "url": "https://open.spotify.com/track/2hsERnD409nL9T06rhZC01"
     },
     {
       "added_at": null,

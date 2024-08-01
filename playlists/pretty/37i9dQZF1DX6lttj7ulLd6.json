@@ -1,6 +1,6 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 222360,
+  "num_followers": 222574,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
@@ -343,26 +343,6 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
-        "name": "Pearls",
-        "url": "https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF"
-      },
-      "artists": [
-        {
-          "name": "Gail Jhonson",
-          "url": "https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc"
-        },
-        {
-          "name": "Nelson Braxton",
-          "url": "https://open.spotify.com/artist/3Jd4iNOHLWDkR3hAER3GLt"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "Pacific Breeze",
-      "url": "https://open.spotify.com/track/2dYkPKqJHjz9GIQ33grJaN"
-    },
-    {
-      "added_at": "2024-07-22 09:14:02",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/11cJrPEgWk8xpK8MqRegfd"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 282666,
       "name": "Surrender (feat. Boney James)",
       "url": "https://open.spotify.com/track/3XS01xqHzkICimJBDwy0iA"
+    },
+    {
+      "added_at": "2024-07-22 09:14:02",
+      "album": {
+        "name": "Pearls",
+        "url": "https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF"
+      },
+      "artists": [
+        {
+          "name": "Gail Jhonson",
+          "url": "https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc"
+        },
+        {
+          "name": "Nelson Braxton",
+          "url": "https://open.spotify.com/artist/3Jd4iNOHLWDkR3hAER3GLt"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Pacific Breeze",
+      "url": "https://open.spotify.com/track/2dYkPKqJHjz9GIQ33grJaN"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
-        "name": "Last Look",
-        "url": "https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx"
-      },
-      "artists": [
-        {
-          "name": "Torcuato Mariano",
-          "url": "https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR"
-        }
-      ],
-      "duration_ms": 303106,
-      "name": "Ocean Way",
-      "url": "https://open.spotify.com/track/670qTzPNB0Ikn0lBTilHbx"
-    },
-    {
-      "added_at": "2024-07-22 09:14:02",
-      "album": {
         "name": "Love's Melody",
         "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
       },
@@ -447,6 +431,22 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
+        "name": "Last Look",
+        "url": "https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx"
+      },
+      "artists": [
+        {
+          "name": "Torcuato Mariano",
+          "url": "https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR"
+        }
+      ],
+      "duration_ms": 303106,
+      "name": "Ocean Way",
+      "url": "https://open.spotify.com/track/670qTzPNB0Ikn0lBTilHbx"
+    },
+    {
+      "added_at": "2024-07-22 09:14:02",
+      "album": {
         "name": "Perfect Moment",
         "url": "https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr"
       },
@@ -459,6 +459,22 @@
       "duration_ms": 274466,
       "name": "Autumn Day",
       "url": "https://open.spotify.com/track/2w3XMjQfcfO2cS1T0xXcDu"
+    },
+    {
+      "added_at": "2024-07-22 09:14:02",
+      "album": {
+        "name": "Born 2 Groove",
+        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 301240,
+      "name": "Mr. Groove",
+      "url": "https://open.spotify.com/track/16hiBwYiCd0crSiBtCXsMN"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -495,22 +511,6 @@
       "duration_ms": 144729,
       "name": "Battery Park",
       "url": "https://open.spotify.com/track/4eT8pcYWhhcGST01XuzcKp"
-    },
-    {
-      "added_at": "2024-07-22 09:14:02",
-      "album": {
-        "name": "Born 2 Groove",
-        "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 301240,
-      "name": "Mr. Groove",
-      "url": "https://open.spotify.com/track/16hiBwYiCd0crSiBtCXsMN"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
+        "name": "Love and Paragraphs",
+        "url": "https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu"
+      },
+      "artists": [
+        {
+          "name": "Chris Standring",
+          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
+        }
+      ],
+      "duration_ms": 243560,
+      "name": "Have Your Cake And Eat It",
+      "url": "https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD"
+    },
+    {
+      "added_at": "2024-07-22 09:14:02",
+      "album": {
         "name": "It's All Good",
         "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
       },
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
-        "name": "Love and Paragraphs",
-        "url": "https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu"
-      },
-      "artists": [
-        {
-          "name": "Chris Standring",
-          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
-        }
-      ],
-      "duration_ms": 243560,
-      "name": "Have Your Cake And Eat It",
-      "url": "https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD"
-    },
-    {
-      "added_at": "2024-07-22 09:14:02",
-      "album": {
         "name": "Beaches",
         "url": "https://open.spotify.com/album/0ETUDbr9SDuqPDz0Dau0G5"
       },
@@ -1063,22 +1063,6 @@
       "duration_ms": 227328,
       "name": "Beaches",
       "url": "https://open.spotify.com/track/1qlNWZGVTcyrCyfeTJgUFD"
-    },
-    {
-      "added_at": "2024-07-22 09:14:02",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/6DnOL6zVqcQh1iJQiH1KhQ"
-      },
-      "artists": [
-        {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
-        }
-      ],
-      "duration_ms": 280866,
-      "name": "Lover For Life",
-      "url": "https://open.spotify.com/track/16FwzfpZJii63cnol8sDcA"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -1115,22 +1099,18 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
-        "name": "Out Of A Dream",
-        "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6DnOL6zVqcQh1iJQiH1KhQ"
       },
       "artists": [
         {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        },
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
         }
       ],
-      "duration_ms": 253815,
-      "name": "Just One Wish",
-      "url": "https://open.spotify.com/track/4QCLC4WSJMXjZ17QhkWl3f"
+      "duration_ms": 280866,
+      "name": "Lover For Life",
+      "url": "https://open.spotify.com/track/16FwzfpZJii63cnol8sDcA"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -1147,6 +1127,26 @@
       "duration_ms": 215291,
       "name": "Howling At The Moon",
       "url": "https://open.spotify.com/track/5IyU0HxuVZzOE21069VnO4"
+    },
+    {
+      "added_at": "2024-07-22 09:14:02",
+      "album": {
+        "name": "Out Of A Dream",
+        "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        },
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 253815,
+      "name": "Just One Wish",
+      "url": "https://open.spotify.com/track/4QCLC4WSJMXjZ17QhkWl3f"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
-        "name": "Emily",
-        "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Everett",
-          "url": "https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI"
-        }
-      ],
-      "duration_ms": 244874,
-      "name": "The Last Kiss",
-      "url": "https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC"
-    },
-    {
-      "added_at": "2024-07-22 09:14:02",
-      "album": {
         "name": "Smooth Creations the Album, Pt. 1",
         "url": "https://open.spotify.com/album/5NRxQH0cNTSE9JsssWVYDI"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 376000,
       "name": "Let's Get It Started",
       "url": "https://open.spotify.com/track/27ALXHt5hgiu3iAUyStMcx"
+    },
+    {
+      "added_at": "2024-07-22 09:14:02",
+      "album": {
+        "name": "Emily",
+        "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Everett",
+          "url": "https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI"
+        }
+      ],
+      "duration_ms": 244874,
+      "name": "The Last Kiss",
+      "url": "https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
+        "name": "Driving West",
+        "url": "https://open.spotify.com/album/1raCakTNJ9bGvnN42gRnjd"
+      },
+      "artists": [
+        {
+          "name": "Melrose Avenue",
+          "url": "https://open.spotify.com/artist/6tbVfkdVtrSqHtNdgEjMc1"
+        }
+      ],
+      "duration_ms": 190232,
+      "name": "Driving West",
+      "url": "https://open.spotify.com/track/7voJqXn9Ee7Iaw7Wr0qarI"
+    },
+    {
+      "added_at": "2024-07-22 09:14:02",
+      "album": {
         "name": "last of the leather jackets",
         "url": "https://open.spotify.com/album/5miUYG6kDcPOTCwGJqvRHJ"
       },
@@ -1491,18 +1507,18 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
-        "name": "Driving West",
-        "url": "https://open.spotify.com/album/1raCakTNJ9bGvnN42gRnjd"
+        "name": "Club 1600",
+        "url": "https://open.spotify.com/album/6iUHScjeLYf1SiN2WmRM3z"
       },
       "artists": [
         {
-          "name": "Melrose Avenue",
-          "url": "https://open.spotify.com/artist/6tbVfkdVtrSqHtNdgEjMc1"
+          "name": "Club 1600",
+          "url": "https://open.spotify.com/artist/1juPaCPPvPqkkocbYuedXn"
         }
       ],
-      "duration_ms": 190232,
-      "name": "Driving West",
-      "url": "https://open.spotify.com/track/7voJqXn9Ee7Iaw7Wr0qarI"
+      "duration_ms": 283000,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2q0sURcwpuIIZ9CIcivt6x"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -1539,18 +1555,18 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
-        "name": "Club 1600",
-        "url": "https://open.spotify.com/album/6iUHScjeLYf1SiN2WmRM3z"
+        "name": "Melrose Avenue",
+        "url": "https://open.spotify.com/album/5E4dQbOoOdl3LQIKFWbuT0"
       },
       "artists": [
         {
-          "name": "Club 1600",
-          "url": "https://open.spotify.com/artist/1juPaCPPvPqkkocbYuedXn"
+          "name": "Melrose Avenue",
+          "url": "https://open.spotify.com/artist/6tbVfkdVtrSqHtNdgEjMc1"
         }
       ],
-      "duration_ms": 283000,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2q0sURcwpuIIZ9CIcivt6x"
+      "duration_ms": 175930,
+      "name": "Melrose Avenue",
+      "url": "https://open.spotify.com/track/4uWBdsYOAqJhkfzpLWbEsA"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -1567,22 +1583,6 @@
       "duration_ms": 187951,
       "name": "High Pines",
       "url": "https://open.spotify.com/track/6GZpEePdoYCWUEkJbGjSvI"
-    },
-    {
-      "added_at": "2024-07-22 09:14:02",
-      "album": {
-        "name": "Melrose Avenue",
-        "url": "https://open.spotify.com/album/5E4dQbOoOdl3LQIKFWbuT0"
-      },
-      "artists": [
-        {
-          "name": "Melrose Avenue",
-          "url": "https://open.spotify.com/artist/6tbVfkdVtrSqHtNdgEjMc1"
-        }
-      ],
-      "duration_ms": 175930,
-      "name": "Melrose Avenue",
-      "url": "https://open.spotify.com/track/4uWBdsYOAqJhkfzpLWbEsA"
     },
     {
       "added_at": "2024-07-22 09:14:02",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-07-22 09:14:02",
       "album": {
+        "name": "The Dubble",
+        "url": "https://open.spotify.com/album/4PFrstLSNUox98INthlTQT"
+      },
+      "artists": [
+        {
+          "name": "Lou Lizza",
+          "url": "https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "The Dubble",
+      "url": "https://open.spotify.com/track/3ngMgAjrvFnJ4rozyKphL7"
+    },
+    {
+      "added_at": "2024-07-22 09:14:02",
+      "album": {
         "name": "astro turf",
         "url": "https://open.spotify.com/album/0JhHKbPRXA27WAv0zdsiMC"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 220374,
       "name": "astro turf",
       "url": "https://open.spotify.com/track/1dqdp3to5A8HVYU9yYxe1n"
-    },
-    {
-      "added_at": "2024-07-22 09:14:02",
-      "album": {
-        "name": "The Dubble",
-        "url": "https://open.spotify.com/album/4PFrstLSNUox98INthlTQT"
-      },
-      "artists": [
-        {
-          "name": "Lou Lizza",
-          "url": "https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "The Dubble",
-      "url": "https://open.spotify.com/track/3ngMgAjrvFnJ4rozyKphL7"
     },
     {
       "added_at": "2024-07-22 09:14:02",

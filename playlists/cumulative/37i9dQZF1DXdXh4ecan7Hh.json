@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "County's best like you've never heard before. Cover: Jackson Dean, Josh Ross, ERNEST and 49 Winchester",
+  "description": "County's best like you've never heard before. Cover: Keith Urban at Spotify House",
   "name": "Spotify Singles: Country",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 250733,
       "name": "Best Shot - Spotify Singles",
       "url": "https://open.spotify.com/track/6rrLJj8UgltvAustzZhK1w"
@@ -920,7 +920,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 208949,
       "name": "Love Someone (feat. Sabina Ddumba) - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/0XxW0lU2ZgFvMzVF6F3Xb5"
@@ -978,7 +978,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-23",
+      "date_removed": null,
       "duration_ms": 259373,
       "name": "Man in the Mirror - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/4olvbCz8avPRUGi5l6hz7b"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-29",
+      "date_removed": null,
       "duration_ms": 157025,
       "name": "Much Too Young (To Feel This Damn Old) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2wZrc1KD0oKVec9hpTtOD3"
@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 185331,
       "name": "Reasons - Recorded At Sound Stage Nashville",
       "url": "https://open.spotify.com/track/3ORTR7IKpwANt7TdbGwfwN"
@@ -1440,6 +1440,24 @@
       "duration_ms": 233973,
       "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
       "url": "https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw"
+    },
+    {
+      "album": {
+        "name": "Say Something - Spotify Singles (Live from Spotify House)",
+        "url": "https://open.spotify.com/album/3ysOkwf6EyopPKqxGaj9Ls"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214316,
+      "name": "Say Something - Spotify Singles (Live from Spotify House)",
+      "url": "https://open.spotify.com/track/7sXPuvRWsaOoUzno4NHXtt"
     },
     {
       "album": {
@@ -1605,6 +1623,24 @@
     },
     {
       "album": {
+        "name": "There\u2019s Your Trouble - Spotify Singles",
+        "url": "https://open.spotify.com/album/3mdDFYUab8j947TvSXLeMC"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191949,
+      "name": "There\u2019s Your Trouble - Spotify Singles (Live from Spotify House)",
+      "url": "https://open.spotify.com/track/3XNThMhQwdrRvPax42wzKQ"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt"
       },
@@ -1714,6 +1750,24 @@
       "duration_ms": 177261,
       "name": "Watermelon Sugar (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
+    },
+    {
+      "album": {
+        "name": "we can\u2019t be friends (wait for your love) - Spotify Singles (Live from Spotify House)",
+        "url": "https://open.spotify.com/album/47qJZGcFVszKNYUjEEPNz9"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233400,
+      "name": "we can\u2019t be friends (wait for your love) - Spotify Singles (Live from Spotify House)",
+      "url": "https://open.spotify.com/track/1KlElnmGdKIKpwt7dw49N3"
     },
     {
       "album": {

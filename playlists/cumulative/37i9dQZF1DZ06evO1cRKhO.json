@@ -448,7 +448,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-29",
+      "date_removed": null,
       "duration_ms": 160466,
       "name": "Angelica",
       "url": "https://open.spotify.com/track/3S7rMn7iMmRJeD6wWYwzsz"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 204698,
       "name": "Arc Hive",
       "url": "https://open.spotify.com/track/3MyJ4MYNczi8sjZb4eiJrF"
@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-29",
+      "date_removed": null,
       "duration_ms": 948600,
       "name": "Duo for Accordion & Bandoneon",
       "url": "https://open.spotify.com/track/0Q7j4wnChUGkIhxVfmVzDv"
@@ -1404,7 +1404,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 123266,
       "name": "Greetings",
       "url": "https://open.spotify.com/track/5bvxJ8sY9LsMo9qR0HfNoS"
@@ -1772,7 +1772,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 215880,
       "name": "Jupiter Smiles",
       "url": "https://open.spotify.com/track/3USmotICBcaGGxPfqATu64"
@@ -1828,7 +1828,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 193159,
       "name": "Last Night in the Holocene",
       "url": "https://open.spotify.com/track/7JWRsHoHsEcl2iD8fl0Vru"
@@ -1854,7 +1854,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 216013,
       "name": "Lines of Inevitability",
       "url": "https://open.spotify.com/track/3CNI9FT4WuBhQYux5VwdF0"
@@ -2968,7 +2968,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 324358,
       "name": "Saxifraga Cotyledon",
       "url": "https://open.spotify.com/track/0KaZK2XsEioFtIoPGclo0K"
@@ -3076,7 +3076,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 329586,
       "name": "Shear Viscosity",
       "url": "https://open.spotify.com/track/1ddvHU5FBTRdvoqsNTYKBK"
@@ -3124,7 +3124,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 243653,
       "name": "Silvia",
       "url": "https://open.spotify.com/track/5UtlbbhPS9yHx3ujQ2SRwW"
@@ -3286,7 +3286,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 780466,
       "name": "Spin Density",
       "url": "https://open.spotify.com/track/5P5vf7XIvku60wurI5VZCI"
@@ -3598,7 +3598,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-25",
+      "date_removed": null,
       "duration_ms": 448306,
       "name": "The Last Time",
       "url": "https://open.spotify.com/track/0KKtoErDaqimf2hZfEw3VL"
@@ -3810,7 +3810,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 364080,
       "name": "Then we were not there",
       "url": "https://open.spotify.com/track/3rEw3Qnam3kvW2wTAnpQr3"
@@ -3926,7 +3926,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 545000,
       "name": "Traces",
       "url": "https://open.spotify.com/track/53lH61JaOTUJXX9fU6Fzns"
@@ -3978,7 +3978,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-30",
+      "date_removed": null,
       "duration_ms": 319532,
       "name": "Trientalis Europaea",
       "url": "https://open.spotify.com/track/3DlkpH9BmBI9FAmIFFOUkq"
@@ -4390,7 +4390,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-29",
+      "date_removed": null,
       "duration_ms": 427695,
       "name": "Vaccinium Myrtillus",
       "url": "https://open.spotify.com/track/04iUS6mYbmKESivrKn1HtD"

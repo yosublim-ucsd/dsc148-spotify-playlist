@@ -1,6 +1,6 @@
 {
   "description": "These shoes are not made for running, they just look nice for the playlist cover.",
-  "num_followers": 616110,
+  "num_followers": 616147,
   "original_name": "Rock 'n' Run",
   "owner": {
     "name": "Spotify",
@@ -875,18 +875,18 @@
     {
       "added_at": "2024-05-27 20:14:18",
       "album": {
-        "name": "Chalk",
-        "url": "https://open.spotify.com/album/5tN7YlTteG5wZV44sNx1r6"
+        "name": "Club Majesty",
+        "url": "https://open.spotify.com/album/2PzfMWIpq6JKucGhkS1X5M"
       },
       "artists": [
         {
-          "name": "Split Chain",
-          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
+          "name": "Royal Republic",
+          "url": "https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS"
         }
       ],
-      "duration_ms": 149263,
-      "name": "Chalk",
-      "url": "https://open.spotify.com/track/4Cvpb8DicKbLSiftBmac99"
+      "duration_ms": 168333,
+      "name": "Fireman & Dancer",
+      "url": "https://open.spotify.com/track/5Ylm93lRkYCLo6jUeF1VnG"
     },
     {
       "added_at": "2024-05-27 20:14:18",
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-05-27 20:14:18",
       "album": {
-        "name": "Club Majesty",
-        "url": "https://open.spotify.com/album/2PzfMWIpq6JKucGhkS1X5M"
+        "name": "Chalk",
+        "url": "https://open.spotify.com/album/5tN7YlTteG5wZV44sNx1r6"
       },
       "artists": [
         {
-          "name": "Royal Republic",
-          "url": "https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS"
+          "name": "Split Chain",
+          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
         }
       ],
-      "duration_ms": 168333,
-      "name": "Fireman & Dancer",
-      "url": "https://open.spotify.com/track/5Ylm93lRkYCLo6jUeF1VnG"
+      "duration_ms": 149263,
+      "name": "Chalk",
+      "url": "https://open.spotify.com/track/4Cvpb8DicKbLSiftBmac99"
     },
     {
       "added_at": "2024-05-27 20:14:18",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-05-27 20:14:18",
       "album": {
-        "name": "Freak of Nature",
-        "url": "https://open.spotify.com/album/3G9FJTEpXcL0vYIX31RGP6"
-      },
-      "artists": [
-        {
-          "name": "Heart Attack Man",
-          "url": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN"
-        }
-      ],
-      "duration_ms": 202889,
-      "name": "Freak Of Nature",
-      "url": "https://open.spotify.com/track/4paB6XEsrPmRtX2xua5WTL"
-    },
-    {
-      "added_at": "2024-05-27 20:14:18",
-      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/4IwjeX8i1iYBtbBLkLpGhy"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 193813,
       "name": "Bones",
       "url": "https://open.spotify.com/track/7GPj3fZpLZcG5UERy1VLKb"
+    },
+    {
+      "added_at": "2024-05-27 20:14:18",
+      "album": {
+        "name": "Freak of Nature",
+        "url": "https://open.spotify.com/album/3G9FJTEpXcL0vYIX31RGP6"
+      },
+      "artists": [
+        {
+          "name": "Heart Attack Man",
+          "url": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN"
+        }
+      ],
+      "duration_ms": 202889,
+      "name": "Freak Of Nature",
+      "url": "https://open.spotify.com/track/4paB6XEsrPmRtX2xua5WTL"
     },
     {
       "added_at": "2024-05-27 20:14:18",

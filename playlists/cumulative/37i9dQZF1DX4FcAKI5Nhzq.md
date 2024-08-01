@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: JINJIN \(ASTRO\)
 
-1,116 songs - 2 day 12 hr 56 min
+1,117 songs - 2 day 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -949,6 +949,7 @@
 | [Talk 2 Me Nice](https://open.spotify.com/track/729F2Yqzq0h67aCpFzZBeY) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [S:INEMA](https://open.spotify.com/album/5eOTrxzkXgD6uMDP5kWW0j) | 3:58 | 2022-11-10 | 2023-02-01 |
 | [Talk Saxy](https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Talk Saxy](https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0) | 3:10 | 2023-10-27 | 2024-02-27 |
 | [Tamed\-Dashed](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:16 | 2021-10-13 | 2022-01-05 |
+| [TANG TANG TANG](https://open.spotify.com/track/5kHVtfzcIIlbQsDUixt788) | [90TAN \(BTOB\)](https://open.spotify.com/artist/5S49V9loYR0Glq8uJM91bs) | [TANG TANG TANG](https://open.spotify.com/album/7KbRFBho6KkcUce18v0Jbe) | 2:32 | 2024-08-01 |  |
 | [TANG!♡](https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | ["TO INFINITY."](https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy) | 2:58 | 2021-12-09 | 2022-01-13 |
 | [TANK](https://open.spotify.com/track/3ucx0k0IosRjrsmQc34zUW) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:48 | 2022-03-22 | 2022-08-13 |
 | [Tap Tap](https://open.spotify.com/track/6h1gyj7xNRLKy7dNAfEFsI) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [Liminality \- EP.LOVE](https://open.spotify.com/album/5zh19l4Nbzqd8h9Y7F74do) | 3:06 | 2022-11-18 | 2023-01-19 |

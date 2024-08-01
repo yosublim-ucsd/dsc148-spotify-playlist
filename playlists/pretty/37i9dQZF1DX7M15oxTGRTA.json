@@ -1,6 +1,6 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 136335,
+  "num_followers": 136378,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "Rapture",
-        "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 250266,
-      "name": "Caught Up in the Rapture",
-      "url": "https://open.spotify.com/track/1Df1rxgMob1qQudexDEKuu"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
         "name": "Rope A Dope Style",
         "url": "https://open.spotify.com/album/65gxRNu9BBpc0M1KydPtta"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "The Essential Isley Brothers",
-        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
       },
       "artists": [
         {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
         }
       ],
-      "duration_ms": 337333,
-      "name": "For the Love of You, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
+      "duration_ms": 250266,
+      "name": "Caught Up in the Rapture",
+      "url": "https://open.spotify.com/track/1Df1rxgMob1qQudexDEKuu"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -711,6 +695,22 @@
       "duration_ms": 388546,
       "name": "Come Live With Me Angel",
       "url": "https://open.spotify.com/track/7gs18umrgrIpRlDQIzKhpH"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
+        "name": "The Essential Isley Brothers",
+        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 337333,
+      "name": "For the Love of You, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -1267,22 +1267,18 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/7LzHNQgKpTd9tkiKNcWyLK"
+        "name": "Nossa Imagina\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9"
       },
       "artists": [
         {
-          "name": "Rufus & Chaka Khan",
-          "url": "https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm"
-        },
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+          "name": "Don Beto",
+          "url": "https://open.spotify.com/artist/7yuXKHgZGdEX0z4Fvx4laa"
         }
       ],
-      "duration_ms": 200840,
-      "name": "Sweet Thing",
-      "url": "https://open.spotify.com/track/69eoS6bEWWfMac4TL36UiM"
+      "duration_ms": 216333,
+      "name": "Pensando Nela",
+      "url": "https://open.spotify.com/track/4FFDhzWVlhcg0Y6ujrYsm0"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -1303,18 +1299,22 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "Nossa Imagina\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9"
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/7LzHNQgKpTd9tkiKNcWyLK"
       },
       "artists": [
         {
-          "name": "Don Beto",
-          "url": "https://open.spotify.com/artist/7yuXKHgZGdEX0z4Fvx4laa"
+          "name": "Rufus & Chaka Khan",
+          "url": "https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 216333,
-      "name": "Pensando Nela",
-      "url": "https://open.spotify.com/track/4FFDhzWVlhcg0Y6ujrYsm0"
+      "duration_ms": 200840,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/69eoS6bEWWfMac4TL36UiM"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "Nossa Imagina\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9"
-      },
-      "artists": [
-        {
-          "name": "Don Beto",
-          "url": "https://open.spotify.com/artist/7yuXKHgZGdEX0z4Fvx4laa"
-        }
-      ],
-      "duration_ms": 215106,
-      "name": "Num Para\u00edso",
-      "url": "https://open.spotify.com/track/70EBZBh1LIwvYuzdvtvPCI"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
         "name": "Girassol",
         "url": "https://open.spotify.com/album/2z2VudqDCv38Pp6VuQvQmw"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 250200,
       "name": "(Our Love) Don't Throw It All Away",
       "url": "https://open.spotify.com/track/1Rj2vKjzAVzsnmofZzYFWh"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
+        "name": "Nossa Imagina\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9"
+      },
+      "artists": [
+        {
+          "name": "Don Beto",
+          "url": "https://open.spotify.com/artist/7yuXKHgZGdEX0z4Fvx4laa"
+        }
+      ],
+      "duration_ms": 215106,
+      "name": "Num Para\u00edso",
+      "url": "https://open.spotify.com/track/70EBZBh1LIwvYuzdvtvPCI"
     },
     {
       "added_at": "2024-07-09 17:06:54",

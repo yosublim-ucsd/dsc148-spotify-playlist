@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Bigsam
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,311 likes - 84 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,327 likes - 84 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

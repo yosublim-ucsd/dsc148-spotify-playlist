@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 32876,
+  "num_followers": 32877,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqbbgAAAAABQMqHpoXb+bW9oXHnm0ZEJ",
+  "snapshot_id": "ZqgtAAAAAAC/NuHEj9TsEcRpX8eItp6l",
   "tracks": [
     {
       "added_at": null,
@@ -283,6 +283,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grandson",
+        "url": "https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 163013,
+      "name": "Real Oppy (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/33b88WhmUTvmavA6yAsKQp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Almighty So 2",
         "url": "https://open.spotify.com/album/6xw2hoSzBYynn2dGmERunp"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 157500,
       "name": "Neph Nem (feat. Ballout & G Herbo)",
       "url": "https://open.spotify.com/track/0IzqRBC2zj2ejfg5EvZ3o9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grandson",
-        "url": "https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN"
-      },
-      "artists": [
-        {
-          "name": "King Von",
-          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 163013,
-      "name": "Real Oppy (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/33b88WhmUTvmavA6yAsKQp"
     },
     {
       "added_at": null,
@@ -627,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hall of Fame",
-        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 161627,
-      "name": "Go Part 1 (with G Herbo)",
-      "url": "https://open.spotify.com/track/1EnWTwagv0XR5OJ51WMdzj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saint (feat. Imanbek)",
         "url": "https://open.spotify.com/album/4lLjPjFenQKdAB7LzAtxUP"
       },
@@ -675,26 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Coldest",
-        "url": "https://open.spotify.com/album/0V2BZLpJjyk4eey1BOC9st"
+        "name": "Hall of Fame",
+        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
       },
       "artists": [
         {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
         }
       ],
-      "duration_ms": 202788,
-      "name": "Mike Jack (feat. G Herbo & Rob49)",
-      "url": "https://open.spotify.com/track/5PqtvOUAjO6XXSbGcvA7Oo"
+      "duration_ms": 161627,
+      "name": "Go Part 1 (with G Herbo)",
+      "url": "https://open.spotify.com/track/1EnWTwagv0XR5OJ51WMdzj"
     },
     {
       "added_at": null,
@@ -719,6 +695,30 @@
       "duration_ms": 214344,
       "name": "Honestly (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/1UF7rVR5zDEKLBcFtbumOY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Coldest",
+        "url": "https://open.spotify.com/album/0V2BZLpJjyk4eey1BOC9st"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "duration_ms": 202788,
+      "name": "Mike Jack (feat. G Herbo & Rob49)",
+      "url": "https://open.spotify.com/track/5PqtvOUAjO6XXSbGcvA7Oo"
     },
     {
       "added_at": null,

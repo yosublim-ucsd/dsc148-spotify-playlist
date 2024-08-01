@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover new Punjabi artists! Cover: Kalra Saab",
+  "description": "Discover new Punjabi artists! Cover: Sahil Cheema",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -20,6 +20,32 @@
       "duration_ms": 158126,
       "name": ".45",
       "url": "https://open.spotify.com/track/0N4n4lBbSRT1HwjXhrrtvs"
+    },
+    {
+      "album": {
+        "name": "900TASK",
+        "url": "https://open.spotify.com/album/4Bzqv6N0EBpQcycY7PtPyq"
+      },
+      "artists": [
+        {
+          "name": "JASKARAN",
+          "url": "https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K"
+        },
+        {
+          "name": "dox",
+          "url": "https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4"
+        },
+        {
+          "name": "Karigar",
+          "url": "https://open.spotify.com/artist/6BSvdM5bDjeGF7dAaprE5k"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216086,
+      "name": "900TASK",
+      "url": "https://open.spotify.com/track/0J6Y7x3emmC5EL8yB2ST8E"
     },
     {
       "album": {
@@ -100,6 +126,28 @@
       "duration_ms": 154239,
       "name": "Akhiyan",
       "url": "https://open.spotify.com/track/6Bfd1hyQ5AOqiBHlA3AAck"
+    },
+    {
+      "album": {
+        "name": "Att",
+        "url": "https://open.spotify.com/album/7vIksV0AHUeZNYWasymdPw"
+      },
+      "artists": [
+        {
+          "name": "Venom",
+          "url": "https://open.spotify.com/artist/5lZ9zdkK3hlyU2m2WyoPDZ"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Att",
+      "url": "https://open.spotify.com/track/56qSePm8XOkRVKb8u8avmN"
     },
     {
       "album": {
@@ -187,6 +235,24 @@
     },
     {
       "album": {
+        "name": "Catalyst",
+        "url": "https://open.spotify.com/album/0JmCZGVOuHcDueYD27gDbB"
+      },
+      "artists": [
+        {
+          "name": "SAHIL CHEEMA",
+          "url": "https://open.spotify.com/artist/386AhN34S4IHWkG8mGM1g6"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181458,
+      "name": "Catalyst",
+      "url": "https://open.spotify.com/track/2xeg4WcbQCLKC0LiEd2web"
+    },
+    {
+      "album": {
         "name": "Chann",
         "url": "https://open.spotify.com/album/6yAF3pRecIAH5DhG5hb1Qv"
       },
@@ -264,7 +330,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 161739,
       "name": "Classy Munde",
       "url": "https://open.spotify.com/track/0vx2I7u0GZEr394HpbsHHf"
@@ -312,10 +378,36 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 135157,
       "name": "Curl Girl",
       "url": "https://open.spotify.com/track/3An2lEZESaVaEIZGlF9OfJ"
+    },
+    {
+      "album": {
+        "name": "Daaka",
+        "url": "https://open.spotify.com/album/5ptGgx2VMoUZUAKjd1mxsK"
+      },
+      "artists": [
+        {
+          "name": "Arav Sidhu",
+          "url": "https://open.spotify.com/artist/3d0dIOz8qi6JggSHq6FECE"
+        },
+        {
+          "name": "Sargi Maan",
+          "url": "https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc"
+        },
+        {
+          "name": "Gaiphy",
+          "url": "https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145647,
+      "name": "Daaka",
+      "url": "https://open.spotify.com/track/3ZqJTzZ8ZMprzw9QHyGY5d"
     },
     {
       "album": {
@@ -334,6 +426,28 @@
       "duration_ms": 151578,
       "name": "Don't Care Zafar Brar",
       "url": "https://open.spotify.com/track/4MHgUhqvflHic2d2RVsdos"
+    },
+    {
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/3amPlcoQ8ZifGXfq016JYK"
+      },
+      "artists": [
+        {
+          "name": "Shahat Gill",
+          "url": "https://open.spotify.com/artist/7JYrslpC4w9YRhzwFDZSZV"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114193,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/14vkIURua4zQpM11RG43A1"
     },
     {
       "album": {
@@ -392,7 +506,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 148965,
       "name": "Feels",
       "url": "https://open.spotify.com/track/1qlpg9yjuSPL5TG9oVC0FN"
@@ -432,7 +546,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 220000,
       "name": "Gal Sun",
       "url": "https://open.spotify.com/track/1O9S8NLFyzvWMwZmaNnafd"
@@ -596,7 +710,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 133714,
       "name": "L.VE",
       "url": "https://open.spotify.com/track/2WtRHMfiXygJrP5rzQknXv"
@@ -768,7 +882,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 261874,
       "name": "Meri Sorry",
       "url": "https://open.spotify.com/track/1KiRR1KUh4w8UFkj7nBei9"
@@ -816,10 +930,28 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 152000,
       "name": "Mithiyan Maar Ke",
       "url": "https://open.spotify.com/track/7pgosVSOiaC5lP1kXn6OJI"
+    },
+    {
+      "album": {
+        "name": "Munda Hot",
+        "url": "https://open.spotify.com/album/52bA3D2RbWLwPetelaMBgT"
+      },
+      "artists": [
+        {
+          "name": "Ravonlyy",
+          "url": "https://open.spotify.com/artist/4jxAIkgeW8CZnkMIOrAX9h"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Munda Hot",
+      "url": "https://open.spotify.com/track/4Yjj5jvHi4uxtVuaY1zA1N"
     },
     {
       "album": {
@@ -842,6 +974,24 @@
       "duration_ms": 150927,
       "name": "Muqabala",
       "url": "https://open.spotify.com/track/10LE4vS4t6omJmadQQeqOg"
+    },
+    {
+      "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/6WScQSs1sHzEVUcM3MRmVZ"
+      },
+      "artists": [
+        {
+          "name": "Uday Bath",
+          "url": "https://open.spotify.com/artist/248BJTjfR3ElYcIKa32FqX"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "New Moon",
+      "url": "https://open.spotify.com/track/3sFUxSznTr0Nhvx6Mz4D8s"
     },
     {
       "album": {
@@ -1154,7 +1304,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 230400,
       "name": "Vajah (feat. Sandeep Aulakh)",
       "url": "https://open.spotify.com/track/6fCcsyrtvmHZykKYFETAMq"
@@ -1184,6 +1334,32 @@
       "duration_ms": 167211,
       "name": "Vanjara",
       "url": "https://open.spotify.com/track/6c3aaV7TSnCCnDAfPFwUAj"
+    },
+    {
+      "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/4Sly6dIWIWsz2e5RWsq9YM"
+      },
+      "artists": [
+        {
+          "name": "Amninder Bugga",
+          "url": "https://open.spotify.com/artist/0RE6WCjLuveGFO35kHluZL"
+        },
+        {
+          "name": "Prabh Bains",
+          "url": "https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y"
+        },
+        {
+          "name": "Chet Singh",
+          "url": "https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/5As6ZOdkqBx22guNsTBquo"
     },
     {
       "album": {

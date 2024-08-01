@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 
 > Fue durante los '70 que el Rock se manifestó como un gigante a nivel mundial\. Argentina no fue la excepción\.  Foto: <a href="spotify:artist:10vtHOCA3qPLmrGylgO2F1">Manal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,548 likes - 55 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,548 likes - 55 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,16 +52,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 42 | [Oye Dios Que Me Has Dado](https://open.spotify.com/track/7xfYEIvk2qRxODCefqdOuR) | [Polifemo](https://open.spotify.com/artist/5kt7SkycNsq8vbKoFb3QxO) | [Serie De Oro](https://open.spotify.com/album/0K5znMCZ80jQtl2zqMCoyE) | 3:49 |
 | 43 | [Figuración](https://open.spotify.com/track/2ZXPZV2w9KSEH6YXJQwFBP) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 3:32 |
 | 44 | [Más Fuerte Que El Hombre](https://open.spotify.com/track/0kCvymt8ka2hQqecsJDC4h) | [El Reloj](https://open.spotify.com/artist/4qZeDZdBD3NiWVbkwX2Lpx) | [El Reloj](https://open.spotify.com/album/3xIkQ0YsEyRvjEY1a8KdXc) | 3:09 |
-| 45 | [Vamos A Buscar La Luz \- Remastered Version](https://open.spotify.com/track/7eVl8VDo6nzNvZbzkW2kc2) | [Aeroblus](https://open.spotify.com/artist/0oIxiHRBpqq0VJe3wOY8Qr) | [Aeroblus](https://open.spotify.com/album/5rapG1i2HxcbyOwtUTnKHe) | 3:53 |
-| 46 | [Los Delirios del Mariscal](https://open.spotify.com/track/56vhyP9UvLtGYUbeBBxqke) | [Crucis](https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g) | [Los Delirios del Mariscal](https://open.spotify.com/album/1IQKV1zaM2GihjCXjZTdeJ) | 10:03 |
+| 45 | [Los Delirios del Mariscal](https://open.spotify.com/track/56vhyP9UvLtGYUbeBBxqke) | [Crucis](https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g) | [Los Delirios del Mariscal](https://open.spotify.com/album/1IQKV1zaM2GihjCXjZTdeJ) | 10:03 |
+| 46 | [Vamos A Buscar La Luz \- Remastered Version](https://open.spotify.com/track/7eVl8VDo6nzNvZbzkW2kc2) | [Aeroblus](https://open.spotify.com/artist/0oIxiHRBpqq0VJe3wOY8Qr) | [Aeroblus](https://open.spotify.com/album/5rapG1i2HxcbyOwtUTnKHe) | 3:53 |
 | 47 | [Envases de Todo](https://open.spotify.com/track/7gIUh5iGYpTagqtq74hvs0) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E) | [David Lebon](https://open.spotify.com/album/2sVpQXYG4nKgpJ5F3Q84RC) | 7:11 |
 | 48 | [Se Ama O No Se Ama](https://open.spotify.com/track/7sYM4xTvfR0N3UkRT9n7Vp) | [La Cofradia De La Flor Solar](https://open.spotify.com/artist/5wkCcDqHUaJbR79G5rEEpL) | [La Cofradía De La Flor Solar](https://open.spotify.com/album/13AoE3gnX1NjlEmlNZmhUR) | 4:26 |
 | 49 | [La Casa De La Mente](https://open.spotify.com/track/4o4LVmNCWYAisLF8j9yc69) | [Espiritu](https://open.spotify.com/artist/5QH5oyyvZkvgzAiENV3tph) | [Crisálida](https://open.spotify.com/album/373aJj6wGlb49JD46Qhh7Q) | 6:55 |
 | 50 | [Seminare](https://open.spotify.com/track/5bXhx2vO2N4ZwUi0QFn4HU) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Serú Girán](https://open.spotify.com/album/576AZwSw776mNOkg1UZtpc) | 3:23 |
 | 51 | [Sucio y Desprolijo](https://open.spotify.com/track/3dHo3940xcnvQaci88jAgg) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 3](https://open.spotify.com/album/0Wo1WKPuu11lJ68YhOO85X) | 4:33 |
-| 52 | [En el país de la libertad](https://open.spotify.com/track/0lfov5kPf3ejdXkhJA7aBB) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [León Gieco \(LP\)](https://open.spotify.com/album/3NCJaYCdXcXJTm042Yxxrs) | 3:09 |
-| 53 | [Apocalipsis](https://open.spotify.com/track/30czyV8neTmYprYxbOd5mY) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [La Biblia](https://open.spotify.com/album/1gwVgLfNVV7xb8Ke0qlTna) | 4:47 |
-| 54 | [La mamá de Jimmy \- León Gieco](https://open.spotify.com/track/5ZOOHkuzNi2e2zdwphse4e) | [Porsuigieco](https://open.spotify.com/artist/4LoFcBNitqIC130rvzS6BG) | [PorSuiGieco](https://open.spotify.com/album/4tYYZ1hDtg6A8CjtuBarb2) | 3:39 |
-| 55 | [Completamente Nervioso \- Remastered Version](https://open.spotify.com/track/3JO0HoztZFs5N3R8LZ9Agp) | [Aeroblus](https://open.spotify.com/artist/0oIxiHRBpqq0VJe3wOY8Qr) | [Aeroblus](https://open.spotify.com/album/5rapG1i2HxcbyOwtUTnKHe) | 3:04 |
+| 52 | [Completamente Nervioso \- Remastered Version](https://open.spotify.com/track/3JO0HoztZFs5N3R8LZ9Agp) | [Aeroblus](https://open.spotify.com/artist/0oIxiHRBpqq0VJe3wOY8Qr) | [Aeroblus](https://open.spotify.com/album/5rapG1i2HxcbyOwtUTnKHe) | 3:04 |
+| 53 | [En el país de la libertad](https://open.spotify.com/track/0lfov5kPf3ejdXkhJA7aBB) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [León Gieco \(LP\)](https://open.spotify.com/album/3NCJaYCdXcXJTm042Yxxrs) | 3:09 |
+| 54 | [Apocalipsis](https://open.spotify.com/track/30czyV8neTmYprYxbOd5mY) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [La Biblia](https://open.spotify.com/album/1gwVgLfNVV7xb8Ke0qlTna) | 4:47 |
+| 55 | [Viernes, 3 AM](https://open.spotify.com/track/0pudcmeGkwDCCRrnkbIY7W) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [La Grasa De Las Capitales](https://open.spotify.com/album/1UHipEAE5QRHaIM8giC8hs) | 4:06 |
 
 Snapshot ID: `ZmozJAAAAAC4VTOdcgUQR8DwWq5UFV24`

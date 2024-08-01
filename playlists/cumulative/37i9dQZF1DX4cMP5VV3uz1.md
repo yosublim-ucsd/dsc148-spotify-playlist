@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-263 songs - 15 hr 40 min
+264 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Rudeboy](https://open.spotify.com/track/0XT8UILzCWoXZMvfmo8iNw) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl) | [Rudeboy](https://open.spotify.com/album/3v0fWFBlLysKoEOk7Kuhqr) | 2:54 | 2024-07-25 |  |
 | [Run \(Part 1\)](https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Sofia](https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb) | [Run \(Part 1\)](https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs) | 2:15 | 2024-03-01 |  |
 | [Run Up \(Unknown T\)](https://open.spotify.com/track/2d4Opt89xsBbTSOEnl8WPn) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [What Came Before](https://open.spotify.com/album/66wsQbESMquuw0lNDvgcK1) | 3:16 | 2022-09-30 | 2024-02-25 |
+| [Sabertooth](https://open.spotify.com/track/64s8GIvCDNvc18VwcFGoie) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m) | [Sabertooth](https://open.spotify.com/album/4DI3HslyOQV0GdZOFveRwl) | 4:26 | 2024-07-25 |  |
 | [Say My Name](https://open.spotify.com/track/2kFEAt6h5leSlJlgmo71Dr) | [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Say My Name](https://open.spotify.com/album/6kkuauy1P7R77eJxQ3F2pD) | 2:39 | 2024-07-25 |  |
 | [Selecta](https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Selecta](https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF) | 2:49 | 2022-09-30 | 2023-07-13 |
 | [Selecta \(feat\. Stefflon Don\)](https://open.spotify.com/track/6TlFnB8GBrlILKv5qy27Sn) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [2 RUFF, Vol\. 1](https://open.spotify.com/album/4SjzjaFsXvXiS7quZFzYEl) | 3:09 | 2023-11-17 |  |
@@ -258,7 +259,7 @@
 | [Want You](https://open.spotify.com/track/3QRE0rMSiI6ceS0ZOxFblB) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Want You](https://open.spotify.com/album/1gwNOFmeMRGzIj2752iJEB) | 4:07 | 2023-05-19 | 2024-02-23 |
 | [Want You](https://open.spotify.com/track/4nrcPumLm5ozA8qOEHcVm2) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Want You](https://open.spotify.com/album/099tQXLTaW2A2pdLqX1dbL) | 4:07 | 2022-09-30 | 2023-05-19 |
 | [Wasted Youth \(feat\. Cat Burns\) \- \[IVY\] Remix](https://open.spotify.com/track/0bJV0wJnOCHNGetX12UX9t) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [Wasted Youth \(feat\. Cat Burns\) \[\[IVY\] Remix\]](https://open.spotify.com/album/4skDqItwjbLSSLQlp5IdvE) | 3:09 | 2024-02-23 |  |
-| [Wearing My Tracky](https://open.spotify.com/track/3TIyaYkKMobsb4xW76eBW4) | [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m) | [Wearing My Tracky](https://open.spotify.com/album/4Ec2pA8NiSIl9OlvTwBKxH) | 1:45 | 2024-07-25 |  |
+| [Wearing My Tracky](https://open.spotify.com/track/3TIyaYkKMobsb4xW76eBW4) | [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m) | [Wearing My Tracky](https://open.spotify.com/album/4Ec2pA8NiSIl9OlvTwBKxH) | 1:45 | 2024-07-25 | 2024-08-01 |
 | [When It Rains, It Pours](https://open.spotify.com/track/0Qb8vbig4Wky0RKhOWh2Ze) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [When It Rains, It Pours](https://open.spotify.com/album/7gw75X0Cp4ya2yz6tW0Rio) | 3:17 | 2022-09-30 | 2024-06-01 |
 | [When It Rains, It Pours \(feat\. Coco, Mr Traumatik & Songer\) \- Shapes Remix](https://open.spotify.com/track/5XDS88WPZRekqrBBfawjI5) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Shapes](https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw) | [When It Rains, It Pours \(Shapes Remix\) \(feat\. Coco, Mr Traumatik & Songer\)](https://open.spotify.com/album/3lxi18DxYCsn3fMv2F4Y9L) | 4:14 | 2022-09-30 | 2024-06-28 |
 | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2ypJ0tKO8imaWL0SlgUeVJ) | 3:24 | 2023-04-13 | 2024-07-27 |

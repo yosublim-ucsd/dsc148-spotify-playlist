@@ -666,7 +666,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 189283,
       "name": "BADVILLAIN",
       "url": "https://open.spotify.com/track/3BBBK2wYC1TLOyBLnSfWTI"
@@ -6098,6 +6098,24 @@
       "duration_ms": 159933,
       "name": "Rising",
       "url": "https://open.spotify.com/track/6QCPweR3aP6nj7P43WpiZs"
+    },
+    {
+      "album": {
+        "name": "Roll Up",
+        "url": "https://open.spotify.com/album/2mIf1bG4rK1Z9XHn04gSZE"
+      },
+      "artists": [
+        {
+          "name": "BLACKSWAN",
+          "url": "https://open.spotify.com/artist/2ujaWf015QoP7x1u20Yq5G"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Roll Up",
+      "url": "https://open.spotify.com/track/2KIyd36V2ejCrvlYU1Ci1K"
     },
     {
       "album": {

@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9?si=An5akDcLTCSvbW2VfyZ6qw">Øbed</a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA?si=Swca4L32TSm8xYiM9mBkDw">KWESI AMEWUGA</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,355 likes - 59 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,380 likes - 59 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [sundays](https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [sundays](https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP) | 2:54 |
-| 2 | [3:30](https://open.spotify.com/track/3oPg26PoYh2LriJ4aUUVYt) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [3:30](https://open.spotify.com/album/4UZrOGejXG1MBO4wFbLDjz) | 3:41 |
+| 1 | [3:30](https://open.spotify.com/track/3oPg26PoYh2LriJ4aUUVYt) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [3:30](https://open.spotify.com/album/4UZrOGejXG1MBO4wFbLDjz) | 3:41 |
+| 2 | [sundays](https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [sundays](https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP) | 2:54 |
 | 3 | [Tender](https://open.spotify.com/track/0ksIA7j9t41d6i3sSvjeaq) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/2qXvUtcDzC8UycI1ccMWFw) | 3:03 |
 | 4 | [Addict](https://open.spotify.com/track/4QllNTTcfilJCmYGM7bJtw) | [Sarnilo](https://open.spotify.com/artist/0ignuXgngSTxY87ZzRwZ8C), [Mzwaa](https://open.spotify.com/artist/0mebykC539Ik5ijTNBY1FJ) | [Addict](https://open.spotify.com/album/6VCFjahARQWF0GW9mEUf7I) | 3:36 |
 | 5 | [BASSA](https://open.spotify.com/track/1KTXudaZZUN1St7KGUBCIt) | [theSylk](https://open.spotify.com/artist/2L2grh74IRlntoxALvCDiX), [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH), [Jake Cromwell](https://open.spotify.com/artist/3lghkRo1hFX4SQ21tmTybh) | [BASSA](https://open.spotify.com/album/3jnBopniBSlzdEfL6Y5PhA) | 2:54 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 58 | [Just Because](https://open.spotify.com/track/6S0SOCYKxo2v4CFbFLgidP) | [EESKAY](https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG) | [Just Because](https://open.spotify.com/album/5j391FfDImvRZh71UJqgAK) | 2:44 |
 | 59 | [6am](https://open.spotify.com/track/48dRw6vJWQRi3R0yzgOeg7) | [Adam Srae](https://open.spotify.com/artist/3QxhXJxbonsOqLObAIuKAE) | [6am](https://open.spotify.com/album/4dt4ye11OubQ24nOw9GTXP) | 2:21 |
 
-Snapshot ID: `Zpb7cAAAAADnTuUjoK0/raB0cJ+6SgRD`
+Snapshot ID: `ZqnxTQAAAACnmxJ+m/xMoVXCYQulaNNB`

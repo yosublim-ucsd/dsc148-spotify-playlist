@@ -1,6 +1,6 @@
 {
   "description": "John Otto, take 'em to the Matthews Bridge!",
-  "num_followers": 1908946,
+  "num_followers": 1909335,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-07-26 16:34:35",
       "album": {
-        "name": "Babylon (Revised Online Music)",
-        "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 236013,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
-    },
-    {
-      "added_at": "2024-07-26 16:34:35",
-      "album": {
         "name": "Dysfunction",
         "url": "https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 282093,
       "name": "Mudshovel",
       "url": "https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD"
+    },
+    {
+      "added_at": "2024-07-26 16:34:35",
+      "album": {
+        "name": "Babylon (Revised Online Music)",
+        "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 236013,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
     },
     {
       "added_at": "2024-07-26 16:34:35",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2024-07-26 16:34:35",
       "album": {
-        "name": "Soulfly",
-        "url": "https://open.spotify.com/album/5cAwcJxr5mVnuA7TLAYPTc"
+        "name": "14 Shades of Grey",
+        "url": "https://open.spotify.com/album/6PntFOrFJdHpXE9xzjhkyR"
       },
       "artists": [
         {
-          "name": "Soulfly",
-          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
         }
       ],
-      "duration_ms": 246733,
-      "name": "Bleed",
-      "url": "https://open.spotify.com/track/5dOA0yswTUbMiiPCTQfnsx"
+      "duration_ms": 215266,
+      "name": "Price to Play",
+      "url": "https://open.spotify.com/track/6WV1sNIE0gG9cIdQ27vuvI"
     },
     {
       "added_at": "2024-07-26 16:34:35",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2024-07-26 16:34:35",
       "album": {
-        "name": "14 Shades of Grey",
-        "url": "https://open.spotify.com/album/6PntFOrFJdHpXE9xzjhkyR"
+        "name": "Soulfly",
+        "url": "https://open.spotify.com/album/5cAwcJxr5mVnuA7TLAYPTc"
       },
       "artists": [
         {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+          "name": "Soulfly",
+          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
         }
       ],
-      "duration_ms": 215266,
-      "name": "Price to Play",
-      "url": "https://open.spotify.com/track/6WV1sNIE0gG9cIdQ27vuvI"
+      "duration_ms": 246733,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/5dOA0yswTUbMiiPCTQfnsx"
     },
     {
       "added_at": "2024-07-26 16:34:35",

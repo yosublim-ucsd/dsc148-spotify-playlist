@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 122286,
+  "num_followers": 122350,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-07-25 17:00:00",
       "album": {
-        "name": "Jiwa Yang Bersedih",
-        "url": "https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL"
-      },
-      "artists": [
-        {
-          "name": "Ghea Indrawari",
-          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
-        }
-      ],
-      "duration_ms": 278219,
-      "name": "Jiwa Yang Bersedih",
-      "url": "https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0"
-    },
-    {
-      "added_at": "2024-07-25 17:00:00",
-      "album": {
         "name": "Tak Kan Hilang",
         "url": "https://open.spotify.com/album/6JmBf13wUd3kJEdoXgbZy5"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 241714,
       "name": "Tak Kan Hilang",
       "url": "https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu"
+    },
+    {
+      "added_at": "2024-07-25 17:00:00",
+      "album": {
+        "name": "Jiwa Yang Bersedih",
+        "url": "https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL"
+      },
+      "artists": [
+        {
+          "name": "Ghea Indrawari",
+          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
+        }
+      ],
+      "duration_ms": 278219,
+      "name": "Jiwa Yang Bersedih",
+      "url": "https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0"
     },
     {
       "added_at": "2024-07-25 17:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-07-25 17:00:00",
       "album": {
-        "name": "Meraih Bintang",
-        "url": "https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL"
-      },
-      "artists": [
-        {
-          "name": "Geisha",
-          "url": "https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y"
-        }
-      ],
-      "duration_ms": 234546,
-      "name": "Karena Kamu",
-      "url": "https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD"
-    },
-    {
-      "added_at": "2024-07-25 17:00:00",
-      "album": {
         "name": "Bersamamu",
         "url": "https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2024-07-25 17:00:00",
       "album": {
-        "name": "Kenyataan Perasaan",
-        "url": "https://open.spotify.com/album/61AGUY22dIy89vcxCUvC00"
+        "name": "Meraih Bintang",
+        "url": "https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL"
       },
       "artists": [
         {
-          "name": "Kerispatih",
-          "url": "https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ"
+          "name": "Geisha",
+          "url": "https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y"
         }
       ],
-      "duration_ms": 277498,
-      "name": "Mengenangmu",
-      "url": "https://open.spotify.com/track/6l9L0ssWzD5XI1aJgVFpaS"
+      "duration_ms": 234546,
+      "name": "Karena Kamu",
+      "url": "https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD"
     },
     {
       "added_at": "2024-07-25 17:00:00",
@@ -775,6 +759,22 @@
       "duration_ms": 274041,
       "name": "Mencintaimu",
       "url": "https://open.spotify.com/track/26aNjbOgTVrFZEx7was69A"
+    },
+    {
+      "added_at": "2024-07-25 17:00:00",
+      "album": {
+        "name": "Kenyataan Perasaan",
+        "url": "https://open.spotify.com/album/61AGUY22dIy89vcxCUvC00"
+      },
+      "artists": [
+        {
+          "name": "Kerispatih",
+          "url": "https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ"
+        }
+      ],
+      "duration_ms": 277498,
+      "name": "Mengenangmu",
+      "url": "https://open.spotify.com/track/6l9L0ssWzD5XI1aJgVFpaS"
     },
     {
       "added_at": "2024-07-25 17:00:00",

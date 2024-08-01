@@ -520,7 +520,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 224055,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/7GBoZol58dFOLCXe588dbv"
@@ -5218,6 +5218,28 @@
       "duration_ms": 159033,
       "name": "WORSTA",
       "url": "https://open.spotify.com/track/2eB0wixaJVpigMJthzTeGX"
+    },
+    {
+      "album": {
+        "name": "Written By Holy Cow!",
+        "url": "https://open.spotify.com/album/3Ubf6xEUMzT0HqKsGy3Q6B"
+      },
+      "artists": [
+        {
+          "name": "Imman Vijay",
+          "url": "https://open.spotify.com/artist/5I0kqjiVuNcomVmnFVhvX3"
+        },
+        {
+          "name": "Meiarivu",
+          "url": "https://open.spotify.com/artist/0hCIMGzjKCTxoHrfbJ17jw"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203478,
+      "name": "Written By Holy Cow!",
+      "url": "https://open.spotify.com/track/0dy7bIOZTmu9SdHygEUvdU"
     },
     {
       "album": {

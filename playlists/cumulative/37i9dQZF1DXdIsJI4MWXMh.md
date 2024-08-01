@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena!
 
-132 songs - 9 hr 2 min
+133 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Tatuaje](https://open.spotify.com/track/04iJD3f7nwF1wuM8b8FPmk) | [Los Pincheira del sur Oficial](https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR) | [Puro Sur Puro Chile](https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG) | 3:35 | 2023-03-03 |  |
 | [Te Amo y Te Amaré](https://open.spotify.com/track/1S9uBRXAELOLZX0G9iCrCY) | [Los Rancheros de Plata](https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK) | [Princesita Mía](https://open.spotify.com/album/6kTtSL54fq8ISSk4d95L5Z) | 6:31 | 2023-03-03 |  |
 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/2CdxmSPq2YLHWemapVnw7j) | [Amor Sureño](https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y) | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/album/0LtVrgVbR0Q9SP2Zj1Bx8z) | 3:39 | 2023-03-03 |  |
-| [Te Hice Mal / Enséñame a Olvidar / Vida de Mi Vida \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/track/6ogw9osyfTycNSy5UaGvdX) | [Los Kuatreros Del Sur](https://open.spotify.com/artist/1uf5mwjVjGlTj38TRAB4k8) | [Te Hice Mal / Enséñame a Olvidar / Vida de Mi Vida \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/album/4xpAa7gkfJeFZUVoxdI7bG) | 12:19 | 2023-03-03 |  |
+| [Te Hice Mal / Enséñame a Olvidar / Vida de Mi Vida \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/track/6ogw9osyfTycNSy5UaGvdX) | [Los Kuatreros Del Sur](https://open.spotify.com/artist/1uf5mwjVjGlTj38TRAB4k8) | [Te Hice Mal / Enséñame a Olvidar / Vida de Mi Vida \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/album/4xpAa7gkfJeFZUVoxdI7bG) | 12:19 | 2023-03-03 | 2024-08-01 |
 | [Te Lavaste la Cara y el Mono No](https://open.spotify.com/track/4NSeSrdpLhJd0Q6RL4fVn8) | [Los Gatos Negros](https://open.spotify.com/artist/65F6OtLWx2jRUCjEgjj9D6) | [Rancheras Populares 16 Éxitos \(Vol\. 3\)](https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr) | 2:49 | 2023-03-03 | 2024-04-19 |
 | [Tenemos Sed](https://open.spotify.com/track/3tUZSfOxeROwCicMofYeew) | [La Banda Tropikal de Vallenar](https://open.spotify.com/artist/61S5D7HbBCFMHFV77354nD) | [Con Más Sed, Sed, Sed](https://open.spotify.com/album/36JZENel0gYjI758f7wdDL) | 3:31 | 2023-03-03 |  |
 | [Traicionera / Como Dejar de Amarte / Entre Golpes y Besos \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/track/6UsLVRx4zeVOkqJrHV2fZF) | [Los Charros de Luchito y Rafael](https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq) | [Traicionera / Como Dejar de Amarte / Entre Golpes y Besos \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/album/4dkGzuwOhPqQWkU0IZmNut) | 11:24 | 2023-03-03 |  |
@@ -133,6 +133,7 @@
 | [Tus Mentiras](https://open.spotify.com/track/6hVSRMIzwSJ5jBXJyk1oKd) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN) | [Nacieron para Triunfar, Vol\. 1](https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0) | 4:33 | 2023-03-03 |  |
 | [Tú](https://open.spotify.com/track/18Y1trnwM37pqHtMtZYFMq) | [Los Pincheira del Sur](https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z), [Los Inseparables](https://open.spotify.com/artist/1i2GXZdxpWHbdHJczBTSLm) | [Tú](https://open.spotify.com/album/6mQtinz30aDoHEkPNalyBS) | 4:23 | 2023-03-03 | 2024-04-19 |
 | [Un Lobo Está Llorando](https://open.spotify.com/track/59zQnQvkMLAIe8k2vUCS66) | [Los Lobos del Sur](https://open.spotify.com/artist/3FCBnIlgoRwCdoWpUN85ck) | [Un Lobo Está Llorando](https://open.spotify.com/album/6Geby7blTCI2vcP1Pm2DGR) | 4:25 | 2023-03-03 | 2024-04-19 |
+| [Una Asesina](https://open.spotify.com/track/7eiRJ8pHqh2hHPwGt1Onsb) | [Kevin y Sus Lumaquinos](https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E) | [Una Asesina](https://open.spotify.com/album/6WlJ3NLnNwaNZHPUHCWuUD) | 4:02 | 2024-06-12 |  |
 | [Una Cerveza \- Remix](https://open.spotify.com/track/5Zc7p3LzwpM1DZ65toAj1l) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Una Cerveza \(Remix\)](https://open.spotify.com/album/5LgepBhce1HDTSO8Ko6e1G) | 3:16 | 2023-03-03 |  |
 | [Vamos a Amarla los Dos](https://open.spotify.com/track/70DhDnXmCJeDIzFKwUVaTJ) | [Los Rancheros de Plata](https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK) | [Vuelve la Mezcla Perfecta](https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou) | 4:28 | 2023-03-03 |  |
 | [Vivo la Vida](https://open.spotify.com/track/5dSElsITPbdki1S7PuWtjV) | [Relámpagos de Chile](https://open.spotify.com/artist/0jnjgwYULpi1D4dn6k7RlD) | [Para Mi Gente Campesina](https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE) | 3:12 | 2023-03-03 |  |

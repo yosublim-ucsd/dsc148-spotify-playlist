@@ -4,7 +4,7 @@
 
 > Samara en tête de la playlist numéro un en Tunisie.
 
-223 songs - 13 hr 33 min
+224 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [La Loum](https://open.spotify.com/track/7pL1hO8qcS60CqWNqGAsZX) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [La Loum](https://open.spotify.com/album/3V5xcUcgTtSELeMEplZYO9) | 3:53 | 2022-08-29 | 2023-02-09 |
 | [Labes](https://open.spotify.com/track/3H52df9m7BwrTE5wnZjAad) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Labes](https://open.spotify.com/album/2sJR68ckXbB5gJy0WcDTbP) | 6:06 | 2022-11-22 | 2022-11-27 |
 | [Lamma](https://open.spotify.com/track/76dTTUyLKgEuKRuImvjlQj) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Lamma](https://open.spotify.com/album/2qtvzn4F3p3I7tQcq8xtNF) | 3:25 | 2021-12-30 | 2022-07-12 |
-| [Layam](https://open.spotify.com/track/6qM1V0fvAHohEXuCKvaYfz) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Layam](https://open.spotify.com/album/3dAcWL49dX4oxXcxkKUBW6) | 4:52 | 2024-01-29 |  |
+| [Layam](https://open.spotify.com/track/6qM1V0fvAHohEXuCKvaYfz) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Layam](https://open.spotify.com/album/3dAcWL49dX4oxXcxkKUBW6) | 4:52 | 2024-01-29 | 2024-08-01 |
 | [Lekbida Tmerjet](https://open.spotify.com/track/6qumsDpLKX99one4xNrZkc) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI), [Dhaf](https://open.spotify.com/artist/5nl9XGwpeR6xL7UCNuUgk4) | [Lekbida Tmerjet](https://open.spotify.com/album/5HIsHvcHz1C2z54ukhjMQ6) | 3:49 | 2023-03-22 | 2023-05-17 |
 | [Life's Good Ft\. Hamza Erwy](https://open.spotify.com/track/6rlFvEbpscB11H9xiE3ugV) | [Manel Amara](https://open.spotify.com/artist/2E6PtFWoDSwZ3VXTVCbdpN), [Hamza Erwy](https://open.spotify.com/artist/5caNOvWTfYtjikSTgZEqrN) | [Life's Good Ft\. Hamza Erwy](https://open.spotify.com/album/7qNUVFaCNSeUzFZ1RZDhXc) | 3:30 | 2022-09-07 | 2022-09-13 |
 | [Lil](https://open.spotify.com/track/58ZDRk8fyRvesaCYGro0Di) | [Joujma](https://open.spotify.com/artist/6J3OrlKMbWMx60M7QuDJsf) | [Lil](https://open.spotify.com/album/7JFYWTodPY8Eb2UsKFEYlB) | 3:00 | 2023-01-16 | 2024-06-15 |
@@ -207,6 +207,7 @@
 | [Ya Denya](https://open.spotify.com/track/16whsA6oQEJDzjKWa4hept) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ya Denya](https://open.spotify.com/album/2gS3rvgJD2djvs01xHCVAQ) | 4:12 | 2021-12-10 | 2022-12-06 |
 | [Ya Ghayeb](https://open.spotify.com/track/5RYSSnBAmeYKCCb8bEOG6u) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Ya Ghayeb](https://open.spotify.com/album/2f3kngWBR5wP05M5hdUZXH) | 2:09 | 2023-12-21 |  |
 | [Ya Hasra](https://open.spotify.com/track/46w0RuHSg4LYbMh1JjJU8j) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ya Hasra](https://open.spotify.com/album/0lHDyY2aMHz4WQrjFSpb20) | 5:40 | 2021-12-10 | 2022-03-01 |
+| [Ya Hbiba](https://open.spotify.com/track/4ZXgd5kB5RlIaWYTFRK21s) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB), [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Ya Hbiba](https://open.spotify.com/album/6ihZzPCW3FjyeZ2FJ7vxqJ) | 3:06 | 2024-07-31 |  |
 | [Ya houb achbik](https://open.spotify.com/track/4FW0O8tnwhgyB5opZtXvsn) | [Nour Chiba](https://open.spotify.com/artist/4RKA21fU9i82HeiNACGsgD) | [Rabouh essahriya](https://open.spotify.com/album/3YtnawJjeuZYcwrsvlrB2e) | 4:55 | 2022-09-12 | 2022-09-15 |
 | [Ya laymi](https://open.spotify.com/track/24oXPBDSSzhNF12yXpxUhE) | [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk) | [Ya laymi](https://open.spotify.com/album/4rh4V5WvntbsRpyDSnH4eB) | 3:20 | 2023-01-10 | 2023-03-15 |
 | [Ya Lil](https://open.spotify.com/track/3hvJHXAuKeSRSShUEl9v0c) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ya Lil](https://open.spotify.com/album/4jcoGlVZZi1hu3PhxxIeqB) | 2:46 | 2023-02-20 | 2024-06-15 |

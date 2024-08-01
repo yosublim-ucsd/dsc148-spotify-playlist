@@ -1,6 +1,6 @@
 {
   "description": "Perfect music for perfect food.",
-  "num_followers": 140803,
+  "num_followers": 140800,
   "original_name": "Soul Cuisine",
   "owner": {
     "name": "Spotify",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Stax-Volt: The Complete Singles 1959-1968",
-        "url": "https://open.spotify.com/album/0RPeS6tlJfJt1GQ1XilhkH"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Try A Little Tenderness",
-      "url": "https://open.spotify.com/track/50W9PJjr1Euo9FFoqw90eL"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Home Again (Deluxe Version)",
         "url": "https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 249745,
       "name": "Tell Me A Tale",
       "url": "https://open.spotify.com/track/6GQQz48swxNlRrhflWmd2q"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Stax-Volt: The Complete Singles 1959-1968",
+        "url": "https://open.spotify.com/album/0RPeS6tlJfJt1GQ1XilhkH"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Try A Little Tenderness",
+      "url": "https://open.spotify.com/track/50W9PJjr1Euo9FFoqw90eL"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "The Way I See It",
-        "url": "https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP"
-      },
-      "artists": [
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
-        }
-      ],
-      "duration_ms": 148240,
-      "name": "Let's Take a Walk",
-      "url": "https://open.spotify.com/track/0VMOq5oltI4Mmld5fUaoTO"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Definitive Soul: Spinners",
         "url": "https://open.spotify.com/album/4Njh8ZQ1VG46bOo8YBF2L9"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 191786,
       "name": "I'll Be Around - 2003 Remaster",
       "url": "https://open.spotify.com/track/3HFdPsHeAtmIrCz5fOYnp4"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "The Way I See It",
+        "url": "https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP"
+      },
+      "artists": [
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        }
+      ],
+      "duration_ms": 148240,
+      "name": "Let's Take a Walk",
+      "url": "https://open.spotify.com/track/0VMOq5oltI4Mmld5fUaoTO"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Definitive Soul: Spinners",
-        "url": "https://open.spotify.com/album/4Njh8ZQ1VG46bOo8YBF2L9"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 249480,
-      "name": "Could It Be I'm Falling in Love - 2003 Remaster",
-      "url": "https://open.spotify.com/track/0aQQWzYCSXu92bloNvQCrn"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "W.E.L.F.A.R.E",
         "url": "https://open.spotify.com/album/0K7EdB3RJI0gUvy6US0hIB"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 168004,
       "name": "W.E.L.F.A.R.E",
       "url": "https://open.spotify.com/track/4NfabFAMEHaKVbPoG8xmQ2"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Definitive Soul: Spinners",
+        "url": "https://open.spotify.com/album/4Njh8ZQ1VG46bOo8YBF2L9"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 249480,
+      "name": "Could It Be I'm Falling in Love - 2003 Remaster",
+      "url": "https://open.spotify.com/track/0aQQWzYCSXu92bloNvQCrn"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2135,6 +2135,22 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
+        "name": "No Beginning No End",
+        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "duration_ms": 329254,
+      "name": "It's All Over Your Body",
+      "url": "https://open.spotify.com/track/4CxtiOaM0QyPxWQQ7cQtCz"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
         "name": "Playlist: The ATCO Singles",
         "url": "https://open.spotify.com/album/0zkLCUERzDJPllFrpPWCDG"
       },
@@ -2151,22 +2167,6 @@
       "duration_ms": 174706,
       "name": "I'm About Loving You",
       "url": "https://open.spotify.com/track/6pR8Q9MsvqEs4xXyig4mR4"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
-        "name": "No Beginning No End",
-        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 329254,
-      "name": "It's All Over Your Body",
-      "url": "https://open.spotify.com/track/4CxtiOaM0QyPxWQQ7cQtCz"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Patches",
-        "url": "https://open.spotify.com/album/2AcHC18egTq63cyBagwINA"
-      },
-      "artists": [
-        {
-          "name": "Clarence Carter",
-          "url": "https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB"
-        }
-      ],
-      "duration_ms": 159040,
-      "name": "Your Love Lifted Me",
-      "url": "https://open.spotify.com/track/15F4bGHoQrlwmbBGTAfcu3"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "The Look Of Love - Burt Bacharach Songbook",
         "url": "https://open.spotify.com/album/34pw7PTVYdcEkfHnIo9jx2"
       },
@@ -2303,22 +2287,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Give Me a Reason",
-        "url": "https://open.spotify.com/album/5xDDJqVki1FKnyLOn5UhTs"
-      },
-      "artists": [
-        {
-          "name": "The Tibbs",
-          "url": "https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw"
-        }
-      ],
-      "duration_ms": 178966,
-      "name": "Give Me a Reason",
-      "url": "https://open.spotify.com/track/59wDvYiusncM52rcGTV8dP"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "No Beginning No End",
         "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
       },
@@ -2331,6 +2299,38 @@
       "duration_ms": 278855,
       "name": "Come To My Door - Acoustic Version",
       "url": "https://open.spotify.com/track/41MjJj7Kosc7ykXU9DGH8N"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Patches",
+        "url": "https://open.spotify.com/album/2AcHC18egTq63cyBagwINA"
+      },
+      "artists": [
+        {
+          "name": "Clarence Carter",
+          "url": "https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB"
+        }
+      ],
+      "duration_ms": 159040,
+      "name": "Your Love Lifted Me",
+      "url": "https://open.spotify.com/track/15F4bGHoQrlwmbBGTAfcu3"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Give Me a Reason",
+        "url": "https://open.spotify.com/album/5xDDJqVki1FKnyLOn5UhTs"
+      },
+      "artists": [
+        {
+          "name": "The Tibbs",
+          "url": "https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw"
+        }
+      ],
+      "duration_ms": 178966,
+      "name": "Give Me a Reason",
+      "url": "https://open.spotify.com/track/59wDvYiusncM52rcGTV8dP"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2823,6 +2823,22 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
+        "name": "Signed Sealed And Delivered",
+        "url": "https://open.spotify.com/album/4QxPK644Vy4FQrtMF90CMe"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "We Can Work It Out",
+      "url": "https://open.spotify.com/track/6AplSHtiSr0cqimR27ghdV"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO"
       },
@@ -2875,22 +2891,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "The Ultimate Collection: The Commodores",
-        "url": "https://open.spotify.com/album/1ZIP9kXi6QAj0SWzHGfocI"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 304026,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/2jGfOCUOXBxrV63jlFVZMV"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Satellite Love",
         "url": "https://open.spotify.com/album/3r1Iys136c5qNKJ8dbEDe1"
       },
@@ -2903,6 +2903,38 @@
       "duration_ms": 259640,
       "name": "Forgive My Soul",
       "url": "https://open.spotify.com/track/0JY8yEPCX2Ehs5BWIb6Z6K"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Going To A Go-Go",
+        "url": "https://open.spotify.com/album/3k6u76lSaKt4FrxSphXPRj"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "The Tracks Of My Tears",
+      "url": "https://open.spotify.com/track/3AR9uXc8JbOVfe92kzmJTH"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "The Ultimate Collection: The Commodores",
+        "url": "https://open.spotify.com/album/1ZIP9kXi6QAj0SWzHGfocI"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 304026,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/2jGfOCUOXBxrV63jlFVZMV"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2935,22 +2967,6 @@
       "duration_ms": 228173,
       "name": "What's Going On",
       "url": "https://open.spotify.com/track/0IUTOvJZ6brXtvMZWipush"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
-        "name": "Signed Sealed And Delivered",
-        "url": "https://open.spotify.com/album/4QxPK644Vy4FQrtMF90CMe"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "We Can Work It Out",
-      "url": "https://open.spotify.com/track/6AplSHtiSr0cqimR27ghdV"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -3099,22 +3115,6 @@
       "duration_ms": 263693,
       "name": "Neither One Of Us (Wants To Be The First To Say Goodbye)",
       "url": "https://open.spotify.com/track/1u19N7mWVxSvHIcOGM3wak"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
-        "name": "Going To A Go-Go",
-        "url": "https://open.spotify.com/album/3k6u76lSaKt4FrxSphXPRj"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "The Tracks Of My Tears",
-      "url": "https://open.spotify.com/track/3AR9uXc8JbOVfe92kzmJTH"
     },
     {
       "added_at": "2024-07-08 07:31:01",

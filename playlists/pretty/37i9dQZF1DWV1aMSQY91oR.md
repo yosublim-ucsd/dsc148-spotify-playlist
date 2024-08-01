@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest hip\-hop, refreshed weekly\. Cover: Mustard
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,422 likes - 49 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,438 likes - 49 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 5 | [John Wayne \(feat\. Metro Boomin\)](https://open.spotify.com/track/4mfaQcqYhlv0X9xF2bDWxG) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [John Wayne \(feat\. Metro Boomin\)](https://open.spotify.com/album/4iJfINkNSOSt9sGoJ3FPNx) | 2:54 |
 | 6 | [Beckham](https://open.spotify.com/track/60lAoxcyDvRbcNY82VEoEA) | [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Kai Swervo](https://open.spotify.com/artist/1frmN1C7BmO6wKo7iQhar2), [KJ Swervo](https://open.spotify.com/artist/3VzzWMyEQci155HpLwKVZc), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [Beckham](https://open.spotify.com/album/1GNQ8Lr4qLa6XTTm7Xuwgw) | 2:04 |
 | 7 | [Saturday Mornings \(feat\. Lil Wayne\)](https://open.spotify.com/track/2dk1fsLg7YEsKJdVm4P5cu) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Saturday Mornings \(feat\. Lil Wayne\)](https://open.spotify.com/album/3IySMEnXL20Sm0ZwZXxS66) | 4:23 |
-| 8 | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/track/7aDvC7UzTZ47Hx5jJUX1sJ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [JT](https://open.spotify.com/artist/4cybvZ3pcSdD2xNFhIzrkk) | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/album/2wJwaumR3Y8PCM01JgJqSj) | 3:00 |
+| 8 | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/track/7aDvC7UzTZ47Hx5jJUX1sJ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/album/2wJwaumR3Y8PCM01JgJqSj) | 3:00 |
 | 9 | [WHO DO YOU KNOW?](https://open.spotify.com/track/1oIiu8RHYJglhz2NQPW4wR) | [4sante](https://open.spotify.com/artist/2GJUNhi3knOQjYM9OPq8yD) | [WHO DO YOU KNOW?](https://open.spotify.com/album/0GQoqhgABNr7DcQFrSAiv7) | 2:41 |
 | 10 | [Suki Suki](https://open.spotify.com/track/5Kfn1mWqzS1lDsZEzfVH3p) | [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Suki Suki](https://open.spotify.com/album/0PboUdl2xp7PebjNhLTITI) | 2:08 |
 | 11 | [NOT ALL THAT](https://open.spotify.com/track/2K0ULBaljOe2NCOqtuqyxB) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [NOT ALL THAT](https://open.spotify.com/album/69s31hDJvmYWwJx2TOIUHo) | 2:22 |

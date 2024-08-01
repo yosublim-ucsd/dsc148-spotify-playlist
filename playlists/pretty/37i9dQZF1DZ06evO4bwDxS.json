@@ -1,12 +1,12 @@
 {
   "description": "This is Sabrina Carpenter. The essential tracks, all in one playlist.",
-  "num_followers": 338776,
+  "num_followers": 339504,
   "original_name": "This Is Sabrina Carpenter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqbbgAAAAABtkXy8TJaqsu9vxgWumqZX",
+  "snapshot_id": "ZqgtAAAAAAChhuvU/K79aNLuD0YuttoZ",
   "tracks": [
     {
       "added_at": null,
@@ -583,38 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 192720,
-      "name": "Eyes Wide Open",
-      "url": "https://open.spotify.com/track/4pbrp5dxpqjfaf4GiS6YuO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Singular Act I",
-        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 212360,
-      "name": "Almost Love",
-      "url": "https://open.spotify.com/track/1yXFAwSMDZmX2ZyDLLyQ9s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alien",
         "url": "https://open.spotify.com/album/3LXVxMUrioKZcoheV2zT3u"
       },
@@ -635,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singular Act II",
-        "url": "https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP"
+        "name": "Singular Act I",
+        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
       },
       "artists": [
         {
@@ -644,9 +612,9 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 166233,
-      "name": "Pushing 20",
-      "url": "https://open.spotify.com/track/1xMHC2XPuDyBWU1ULY7eMA"
+      "duration_ms": 212360,
+      "name": "Almost Love",
+      "url": "https://open.spotify.com/track/1yXFAwSMDZmX2ZyDLLyQ9s"
     },
     {
       "added_at": null,
@@ -660,15 +628,15 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 186880,
-      "name": "We'll Be The Stars",
-      "url": "https://open.spotify.com/track/7lqkNvVxJdYDCSAwSJNzHs"
+      "duration_ms": 192720,
+      "name": "Eyes Wide Open",
+      "url": "https://open.spotify.com/track/4pbrp5dxpqjfaf4GiS6YuO"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Singular Act I",
-        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
+        "name": "Singular Act II",
+        "url": "https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP"
       },
       "artists": [
         {
@@ -676,9 +644,9 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 166533,
-      "name": "prfct",
-      "url": "https://open.spotify.com/track/75wU86jr8iIiBVfD3kU3cU"
+      "duration_ms": 166233,
+      "name": "Pushing 20",
+      "url": "https://open.spotify.com/track/1xMHC2XPuDyBWU1ULY7eMA"
     },
     {
       "added_at": null,
@@ -699,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singular Act II",
-        "url": "https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP"
+        "name": "Singular Act I",
+        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
       },
       "artists": [
         {
@@ -708,9 +676,9 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 189980,
-      "name": "In My Bed",
-      "url": "https://open.spotify.com/track/1FjD1jpm51dH5LzLvrDVPY"
+      "duration_ms": 166533,
+      "name": "prfct",
+      "url": "https://open.spotify.com/track/75wU86jr8iIiBVfD3kU3cU"
     },
     {
       "added_at": null,
@@ -724,15 +692,15 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 212760,
-      "name": "The Middle of Starting Over",
-      "url": "https://open.spotify.com/track/5wX5skuafFdeF31vpM6Krl"
+      "duration_ms": 186880,
+      "name": "We'll Be The Stars",
+      "url": "https://open.spotify.com/track/7lqkNvVxJdYDCSAwSJNzHs"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Singular Act I",
-        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
+        "name": "Singular Act II",
+        "url": "https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP"
       },
       "artists": [
         {
@@ -740,29 +708,9 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 229533,
-      "name": "Diamonds Are Forever",
-      "url": "https://open.spotify.com/track/2KTdmzSdPipwFYdUdilmi3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CLOUDS (Music From The Disney+ Original Movie)",
-        "url": "https://open.spotify.com/album/6wxPYC9LuoJCtKtFw4UDgf"
-      },
-      "artists": [
-        {
-          "name": "Fin Argus",
-          "url": "https://open.spotify.com/artist/1oDUPFTxn5JyS8MxUe9ko4"
-        },
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 185687,
-      "name": "Clouds (with Sabrina Carpenter)",
-      "url": "https://open.spotify.com/track/0nCfCedKIf6EjWFt55AXum"
+      "duration_ms": 189980,
+      "name": "In My Bed",
+      "url": "https://open.spotify.com/track/1FjD1jpm51dH5LzLvrDVPY"
     },
     {
       "added_at": null,
@@ -787,6 +735,58 @@
       "duration_ms": 166909,
       "name": "Hands",
       "url": "https://open.spotify.com/track/7ydN6k1pLu6GRJsJpFXnYu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singular Act I",
+        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 229533,
+      "name": "Diamonds Are Forever",
+      "url": "https://open.spotify.com/track/2KTdmzSdPipwFYdUdilmi3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 212760,
+      "name": "The Middle of Starting Over",
+      "url": "https://open.spotify.com/track/5wX5skuafFdeF31vpM6Krl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CLOUDS (Music From The Disney+ Original Movie)",
+        "url": "https://open.spotify.com/album/6wxPYC9LuoJCtKtFw4UDgf"
+      },
+      "artists": [
+        {
+          "name": "Fin Argus",
+          "url": "https://open.spotify.com/artist/1oDUPFTxn5JyS8MxUe9ko4"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 185687,
+      "name": "Clouds (with Sabrina Carpenter)",
+      "url": "https://open.spotify.com/track/0nCfCedKIf6EjWFt55AXum"
     },
     {
       "added_at": null,

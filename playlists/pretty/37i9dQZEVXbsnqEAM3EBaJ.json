@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAC0hbhht+L2CeZUDq4b0KSU",
+  "snapshot_id": "AAAAAAAAAAB3RYkI9+EW1hjNwzDwx45R",
   "tracks": [
     {
       "added_at": "2024-07-26 04:00:00",
@@ -27,6 +27,22 @@
       "duration_ms": 258269,
       "name": "Mariposa Peregrina",
       "url": "https://open.spotify.com/track/4gMeMbcQg2susBehVPgZwS"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Bruce Springsteen & The E Street Band - The Reunion Tour '99",
+        "url": "https://open.spotify.com/album/4jNMmcMXt3rQsta5LGWI4Q"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 223318,
+      "name": "The Ties That Bind - Live at Staples Center, Los Angeles, CA - 10/23/1999",
+      "url": "https://open.spotify.com/track/57SjNJSHWhBAsZkRWEfTDJ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -71,22 +87,6 @@
       "duration_ms": 362869,
       "name": "Acordes De Calma En El Espejo De La Mente",
       "url": "https://open.spotify.com/track/0p68bv1ONm80Kj5d4S8U03"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Bruce Springsteen & The E Street Band - The Reunion Tour '99",
-        "url": "https://open.spotify.com/album/4jNMmcMXt3rQsta5LGWI4Q"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 223318,
-      "name": "The Ties That Bind - Live at Staples Center, Los Angeles, CA - 10/23/1999",
-      "url": "https://open.spotify.com/track/57SjNJSHWhBAsZkRWEfTDJ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Like A Stone (Reimagined)",
-        "url": "https://open.spotify.com/album/6xCsPSZ3THpZRrYPox5kK2"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 287631,
-      "name": "Like A Stone - Reimagined",
-      "url": "https://open.spotify.com/track/2EHZpEtgE48ztROdwkPgfQ"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Hot Rails To Hell (Live)",
         "url": "https://open.spotify.com/album/0Q4w3H4RI9IBeVQ592IiyE"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 300741,
       "name": "Hot Rails To Hell - Live",
       "url": "https://open.spotify.com/track/4TbSWPR1D2y0cc01Z6lk2g"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Like A Stone (Reimagined)",
+        "url": "https://open.spotify.com/album/6xCsPSZ3THpZRrYPox5kK2"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 287631,
+      "name": "Like A Stone - Reimagined",
+      "url": "https://open.spotify.com/track/2EHZpEtgE48ztROdwkPgfQ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Shikanoko Nokonoko Koshitantan Meme",
-        "url": "https://open.spotify.com/album/25xw8BXlctmH3CxyTwJTBV"
-      },
-      "artists": [
-        {
-          "name": "The Covers Duo",
-          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
-        }
-      ],
-      "duration_ms": 326393,
-      "name": "Shikanoko Nokonoko Koshitantan Meme",
-      "url": "https://open.spotify.com/track/7pmP9JHlkAwa2UUN1mv49U"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/5zVhUz76UL3A1VXftq6g76"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 210174,
       "name": "Proof",
       "url": "https://open.spotify.com/track/5ASY9hrg61fOhdQ1isNbQm"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Shikanoko Nokonoko Koshitantan Meme",
+        "url": "https://open.spotify.com/album/25xw8BXlctmH3CxyTwJTBV"
+      },
+      "artists": [
+        {
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+        }
+      ],
+      "duration_ms": 326393,
+      "name": "Shikanoko Nokonoko Koshitantan Meme",
+      "url": "https://open.spotify.com/track/7pmP9JHlkAwa2UUN1mv49U"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "The Cave We Fear To Enter",
+        "url": "https://open.spotify.com/album/17NEYsWWUrE1vhgPzS11n6"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 307000,
+      "name": "The Cave We Fear to Enter",
+      "url": "https://open.spotify.com/track/1ZMDs14YVVl7dwcZk5C1Se"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Corona de espinas",
         "url": "https://open.spotify.com/album/7a0OPrgyDJVQmlvYKwKkCS"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 162493,
       "name": "Carro\u00f1eros",
       "url": "https://open.spotify.com/track/5oLYaER3SiprE8r5pc2feM"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "The Cave We Fear To Enter",
-        "url": "https://open.spotify.com/album/17NEYsWWUrE1vhgPzS11n6"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 307000,
-      "name": "The Cave We Fear to Enter",
-      "url": "https://open.spotify.com/track/1ZMDs14YVVl7dwcZk5C1Se"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Wilderness",
+        "url": "https://open.spotify.com/album/2s1J15Gm1NHPu7dXmv81uj"
+      },
+      "artists": [
+        {
+          "name": "Eyes Set To Kill",
+          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
+        }
+      ],
+      "duration_ms": 202758,
+      "name": "Wilderness",
+      "url": "https://open.spotify.com/track/3r2cEBiAQ0fiq4FM867d4y"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Herzblut",
         "url": "https://open.spotify.com/album/1i2onR9f7wxakNqJF3HfBc"
       },
@@ -791,22 +807,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Wilderness",
-        "url": "https://open.spotify.com/album/2s1J15Gm1NHPu7dXmv81uj"
-      },
-      "artists": [
-        {
-          "name": "Eyes Set To Kill",
-          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
-        }
-      ],
-      "duration_ms": 202758,
-      "name": "Wilderness",
-      "url": "https://open.spotify.com/track/3r2cEBiAQ0fiq4FM867d4y"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Fading Like A Rose - EP",
         "url": "https://open.spotify.com/album/4cZWw7DhPFapr3GcoTCxVi"
       },
@@ -819,26 +819,6 @@
       "duration_ms": 155409,
       "name": "Fading Like A Rose (Everytime Remix)",
       "url": "https://open.spotify.com/track/165eiC8yyWkBZo26oDtFLl"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Can You Feel the Love Tonight (From \"A Whole New Sound\")",
-        "url": "https://open.spotify.com/album/3NuSK3YNeKeP1GdnYj8KY9"
-      },
-      "artists": [
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 173350,
-      "name": "Can You Feel the Love Tonight - From \"A Whole New Sound\"",
-      "url": "https://open.spotify.com/track/372ltCYz1uLID85yHqe7S9"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -883,38 +863,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Pretty Good To Feel Something",
-        "url": "https://open.spotify.com/album/1cPLGYaAsxln3s6UgpboQw"
+        "name": "Can You Feel the Love Tonight (From \"A Whole New Sound\")",
+        "url": "https://open.spotify.com/album/3NuSK3YNeKeP1GdnYj8KY9"
       },
       "artists": [
         {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 186679,
-      "name": "Pretty Good To Feel Something",
-      "url": "https://open.spotify.com/track/4JNMzNr6ukpwa6ALIMnkje"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Symphony No. 6 in B Minor, Op. 74 \"Pathetique\"",
-        "url": "https://open.spotify.com/album/3yFWMFIp37EDPdMl6lAZAW"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
         },
         {
-          "name": "Graub\u00fcnden Classical Archive",
-          "url": "https://open.spotify.com/artist/0djqxl12PvNPETXilusYSp"
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 622645,
-      "name": "Symphony No. 6 in B Minor, Op. 74 \"Pathetique\": 4. Finale. Adagio lamentoso",
-      "url": "https://open.spotify.com/track/7CyUo4HNS3vtbxs3PDJ5ql"
+      "duration_ms": 173350,
+      "name": "Can You Feel the Love Tonight - From \"A Whole New Sound\"",
+      "url": "https://open.spotify.com/track/372ltCYz1uLID85yHqe7S9"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -955,6 +919,42 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Symphony No. 6 in B Minor, Op. 74 \"Pathetique\"",
+        "url": "https://open.spotify.com/album/3yFWMFIp37EDPdMl6lAZAW"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Graub\u00fcnden Classical Archive",
+          "url": "https://open.spotify.com/artist/0djqxl12PvNPETXilusYSp"
+        }
+      ],
+      "duration_ms": 622645,
+      "name": "Symphony No. 6 in B Minor, Op. 74 \"Pathetique\": 4. Finale. Adagio lamentoso",
+      "url": "https://open.spotify.com/track/7CyUo4HNS3vtbxs3PDJ5ql"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Pretty Good To Feel Something",
+        "url": "https://open.spotify.com/album/1cPLGYaAsxln3s6UgpboQw"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 186679,
+      "name": "Pretty Good To Feel Something",
+      "url": "https://open.spotify.com/track/4JNMzNr6ukpwa6ALIMnkje"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Music Legends Little Richard : The Rock Icon's Hits",
         "url": "https://open.spotify.com/album/1szqqlvJIgCcGz4tIg7gGe"
       },
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Focus 12",
-        "url": "https://open.spotify.com/album/14f9Wbk9l84KkMEpmsYSAF"
-      },
-      "artists": [
-        {
-          "name": "Focus",
-          "url": "https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR"
-        }
-      ],
-      "duration_ms": 247587,
-      "name": "B\u00e9la",
-      "url": "https://open.spotify.com/track/0qbP8PDOjSTQG2RyCO5RjM"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "I Have Notes",
         "url": "https://open.spotify.com/album/4l89gOBML1oUH3Yow6GEUY"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 160986,
       "name": "Couldn't Love You More",
       "url": "https://open.spotify.com/track/76Xe5O7neH9OCBYvqeEZsJ"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Focus 12",
+        "url": "https://open.spotify.com/album/14f9Wbk9l84KkMEpmsYSAF"
+      },
+      "artists": [
+        {
+          "name": "Focus",
+          "url": "https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR"
+        }
+      ],
+      "duration_ms": 247587,
+      "name": "B\u00e9la",
+      "url": "https://open.spotify.com/track/0qbP8PDOjSTQG2RyCO5RjM"
     },
     {
       "added_at": "2024-07-26 04:00:00",

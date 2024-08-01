@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 
 > Die Playlist zur Wasserpfeife\. Cover: Dardan, Azet
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,835 likes - 80 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,934 likes - 80 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 | 46 | [GT3](https://open.spotify.com/track/5wdcKoYgwVApdWppuAcu5z) | [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm) | [GT3](https://open.spotify.com/album/0YcabEA6BOtTKW51Yh8Gi9) | 2:50 |
 | 47 | [Favela Type Beat](https://open.spotify.com/track/0yfe4whuXtjif5WQt4uXGu) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl) | [Favela Type Beat](https://open.spotify.com/album/6Jy1my0Y51UIeZSmp37P9K) | 2:27 |
 | 48 | [On/Off](https://open.spotify.com/track/5X63FvEXgMGIt7LF6U7v2W) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [On/Off](https://open.spotify.com/album/6fV2gDEnZrkEDz5ENTaL8x) | 2:27 |
-| 49 | [WOLLTEN FREI SEIN \(feat\. reezy\)](https://open.spotify.com/track/7BpQAkjefbApWBUtKmVMjh) | [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [XABAT](https://open.spotify.com/album/3y1jMB1QNho4bbmungXFxo) | 4:23 |
+| 49 | [WOLLTEN FREI SEIN \(feat\. reezy\)](https://open.spotify.com/track/7BpQAkjefbApWBUtKmVMjh) | [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [Safraoui](https://open.spotify.com/artist/1xlPEhjbFqhrDjaAvyvueX), [Jamal](https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU) | [XABAT](https://open.spotify.com/album/3y1jMB1QNho4bbmungXFxo) | 4:23 |
 | 50 | [Bebe](https://open.spotify.com/track/3EZUSLfczqLsAs3Uxitand) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [Bebe](https://open.spotify.com/album/2XqyLXSNdseCNG4JfB1EEy) | 2:24 |
 | 51 | [Papaya](https://open.spotify.com/track/7JPVbntiN50pjt6zgHUp1C) | [Zuna](https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e) | [Papaya](https://open.spotify.com/album/3bZuAHMBXninEemtwwRSg1) | 2:25 |
 | 52 | [La Money](https://open.spotify.com/track/1VtKoSmJv42wi1LcZhAGaa) | [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [La Money](https://open.spotify.com/album/1bCRla0Yx0JNoTYkbjGqQ9) | 2:31 |

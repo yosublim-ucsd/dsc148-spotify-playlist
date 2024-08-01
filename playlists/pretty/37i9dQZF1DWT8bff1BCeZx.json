@@ -1,6 +1,6 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 16756,
+  "num_followers": 16763,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
@@ -429,26 +429,6 @@
       "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
     },
     {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
-        "name": "Overflow (Live)",
-        "url": "https://open.spotify.com/album/7wiyNbURRHwc16s1teLYlk"
-      },
-      "artists": [
-        {
-          "name": "Transformation Worship",
-          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
-        },
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 372736,
-      "name": "Overflow - Live",
-      "url": "https://open.spotify.com/track/4929bxPQHzXBD2SEMFb2AM"
-    },
-    {
       "added_at": "2024-07-19 00:01:00",
       "album": {
         "name": "All Over The World",
@@ -471,6 +451,26 @@
       "duration_ms": 186666,
       "name": "All Over The World",
       "url": "https://open.spotify.com/track/0QQXbuDmrGBcxVSNjCbAjs"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
+        "name": "Overflow (Live)",
+        "url": "https://open.spotify.com/album/7wiyNbURRHwc16s1teLYlk"
+      },
+      "artists": [
+        {
+          "name": "Transformation Worship",
+          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 372736,
+      "name": "Overflow - Live",
+      "url": "https://open.spotify.com/track/4929bxPQHzXBD2SEMFb2AM"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -785,6 +785,22 @@
       "url": "https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL"
     },
     {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Mo",
+        "url": "https://open.spotify.com/album/5KFaENnGwan5wdkO4UB1mK"
+      },
+      "artists": [
+        {
+          "name": "Piesie Esther",
+          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
+        }
+      ],
+      "duration_ms": 212573,
+      "name": "Mo",
+      "url": "https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ"
+    },
+    {
       "added_at": "2024-06-07 00:01:00",
       "album": {
         "name": "Congratulations",
@@ -807,22 +823,6 @@
       "duration_ms": 186909,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/66BBI9oQqeABCpHkEUVqgW"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Mo",
-        "url": "https://open.spotify.com/album/5KFaENnGwan5wdkO4UB1mK"
-      },
-      "artists": [
-        {
-          "name": "Piesie Esther",
-          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "Mo",
-      "url": "https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -865,20 +865,24 @@
       "url": "https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI"
     },
     {
-      "added_at": "2024-03-29 00:01:00",
+      "added_at": "2024-05-10 00:01:00",
       "album": {
-        "name": "Welenga",
-        "url": "https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ"
+        "name": "Oba Alasepe",
+        "url": "https://open.spotify.com/album/7h0BhlNZZUnG78qmDvsSmq"
       },
       "artists": [
         {
-          "name": "Beracah",
-          "url": "https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i"
+          "name": "Paul Tomisin",
+          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
+        },
+        {
+          "name": "Tope Alabi",
+          "url": "https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU"
         }
       ],
-      "duration_ms": 195970,
-      "name": "Welenga",
-      "url": "https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r"
+      "duration_ms": 271448,
+      "name": "Oba Alasepe",
+      "url": "https://open.spotify.com/track/5vv4lLVRcJOouMTJ2IKdBz"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -901,24 +905,20 @@
       "url": "https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO"
     },
     {
-      "added_at": "2024-05-10 00:01:00",
+      "added_at": "2024-03-29 00:01:00",
       "album": {
-        "name": "Oba Alasepe",
-        "url": "https://open.spotify.com/album/7h0BhlNZZUnG78qmDvsSmq"
+        "name": "Welenga",
+        "url": "https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ"
       },
       "artists": [
         {
-          "name": "Paul Tomisin",
-          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
-        },
-        {
-          "name": "Tope Alabi",
-          "url": "https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU"
+          "name": "Beracah",
+          "url": "https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i"
         }
       ],
-      "duration_ms": 271448,
-      "name": "Oba Alasepe",
-      "url": "https://open.spotify.com/track/5vv4lLVRcJOouMTJ2IKdBz"
+      "duration_ms": 195970,
+      "name": "Welenga",
+      "url": "https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r"
     },
     {
       "added_at": "2024-03-15 00:01:00",

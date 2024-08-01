@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-675 songs - 1 day 13 hr 58 min
+677 songs - 1 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB) | 2:54 | 2024-03-29 | 2024-05-25 |
 | [I Met Sarah in the Bathroom](https://open.spotify.com/track/0mr8FAnN9X70p5KRUwMIJx) | [awfultune](https://open.spotify.com/artist/1vkWdqcabQ1swciXipkLBj) | [I Met Sarah in the Bathroom](https://open.spotify.com/album/3z7kfJNZsrAjHY3Q24N4QQ) | 2:01 | 2021-07-18 | 2021-07-31 |
 | [I Think I Like You](https://open.spotify.com/track/6yOxL1xfPkv9Z9zvpNrMDU) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Band CAMINO](https://open.spotify.com/album/1N5ZRHDLAv92FHZ4fRYhCi) | 3:02 | 2021-10-02 | 2022-04-09 |
+| [I Wanna Be Loved \(Just A Little Better\)](https://open.spotify.com/track/1KwZQmJ03PN3hye7NF4iiA) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [I Wanna Be Loved \(Just A Little Better\)](https://open.spotify.com/album/57QKPE7R7BYQ29aX0npMIg) | 3:08 | 2024-07-31 |  |
 | [I Wanna Be Software](https://open.spotify.com/track/6Qnw1wRWCxdpKV7xlv0706) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Illangelo](https://open.spotify.com/artist/1aji1uMIIghmeNmhanEqyD) | [I Wanna Be Software](https://open.spotify.com/album/53t7HLPMqdHgtJCMmiQkvL) | 3:38 | 2023-07-30 | 2023-09-05 |
 | [I Wanted to Keep You](https://open.spotify.com/track/4H5QTP8dcCF43mplpAja28) | [NOVACUB](https://open.spotify.com/artist/5AgzqwERKzaLXw6wSL5LcO) | [I Wanted to Keep You](https://open.spotify.com/album/1fCPIcTrS1wkX529mzWDWw) | 2:48 | 2021-10-02 | 2022-03-26 |
 | [I will fall](https://open.spotify.com/track/7BTtFGSWdfpj4bMPWBlQzH) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Lost](https://open.spotify.com/album/19iU0Zz3hNQwWCSjJaR5LI) | 4:38 | 2023-04-28 | 2023-05-20 |
@@ -458,9 +459,10 @@
 | [Our Way Home \(Re\-Work\)](https://open.spotify.com/track/5iviRSZyd7GNlaERSDr69L) | [Flora Fauna](https://open.spotify.com/artist/2oTotWwl83oAocMNwsEWW1), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Our Way Home \(Re\-Work\)](https://open.spotify.com/album/79drYmMiLBgkr7dtoRoRyN) | 2:59 | 2022-01-14 | 2022-03-12 |
 | [Out \(Out\)](https://open.spotify.com/track/4LZEs2TkZLQcCmaHa6GBfH) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Out \(Out\)](https://open.spotify.com/album/2yklb70De4aHLT2bTlJX3d) | 4:24 | 2022-02-18 | 2022-03-26 |
 | [Over](https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Over](https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE) | 3:37 | 2023-02-24 | 2024-05-25 |
-| [Overglow](https://open.spotify.com/track/59ktWn8FpeyX81PqYxwWEy) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Overglow](https://open.spotify.com/album/6Q3YEMqS3cN2pX8bakdNdE) | 2:38 | 2024-07-19 |  |
+| [Overglow](https://open.spotify.com/track/59ktWn8FpeyX81PqYxwWEy) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Overglow](https://open.spotify.com/album/6Q3YEMqS3cN2pX8bakdNdE) | 2:38 | 2024-07-19 | 2024-08-01 |
+| [Overglow \- Jade's Version](https://open.spotify.com/track/7GaiFXhUML7c5n6dSpCQme) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Overglow \- Jade's Version](https://open.spotify.com/album/1SaS2ssPPvz59jfrn7vx2e) | 3:12 | 2024-07-31 |  |
 | [Overthinking](https://open.spotify.com/track/1rQkqnN2ky1KmchT66eWFu) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Overthinking](https://open.spotify.com/album/73w5XKOuWg456VuawuUH47) | 2:54 | 2022-05-20 | 2023-04-22 |
-| [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-05-19 |  |
+| [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-05-19 | 2024-08-01 |
 | [Padam Padam](https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 2:46 | 2023-11-10 | 2024-04-19 |
 | [Pain Goes Away](https://open.spotify.com/track/65flXM7XbfRCY2UdBf6UrW) | [Refs](https://open.spotify.com/artist/7yxpGyw5CZPsrTPpkERpc4) | [Stories](https://open.spotify.com/album/15LF2XANVOYyWG8Hv8TVNp) | 3:28 | 2021-07-10 | 2021-10-14 |
 | [Paradise City](https://open.spotify.com/track/73jwOBEHGhnsXTXlePzfLF) | [Micky Blue](https://open.spotify.com/artist/74RDfhi3g8pfpmMCrQUtpF) | [Paradise City](https://open.spotify.com/album/65EFkcp9ogFAr0XUyYJBi9) | 3:33 | 2022-04-16 | 2022-07-26 |

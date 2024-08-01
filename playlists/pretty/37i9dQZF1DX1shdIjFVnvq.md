@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1shdIjFVnvq.md) - [plain]
 
 > Can't stop, won't stop! Cover: Ufo361
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,278 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,292 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1shdIjFVnvq.md) - [plain]
 | 16 | [Licht aus](https://open.spotify.com/track/2ICTOUkSaXWPrdJGZhJIkS) | [DANO](https://open.spotify.com/artist/0Yu9Wl3q10ZvjBaRN82LIr) | [Licht aus](https://open.spotify.com/album/6rr25QYhr7Npg4qRfFoR7i) | 2:15 |
 | 17 | [TRAUM](https://open.spotify.com/track/2Ff2FEo4Mx1pxEooBtYRJO) | [KIDD KAWAKI](https://open.spotify.com/artist/117qzw3tdGJOdskljHEz7E), [KAI$eR](https://open.spotify.com/artist/05RavFGI8wKr5OhDc6FDiC) | [TRAUM](https://open.spotify.com/album/5rKISdAGQgtpM3S4b6mpd7) | 2:46 |
 | 18 | [Went Hollywood For A Year](https://open.spotify.com/track/6jTMRe8mJjZUrpECpUs3cT) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Went Hollywood For A Year](https://open.spotify.com/album/5IxhwWNAh6EFXZO5xWZT8K) | 2:07 |
-| 19 | [Himmel Leer](https://open.spotify.com/track/1iZy5e1JQcMCICG1flsRNl) | [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Himmel Leer](https://open.spotify.com/album/0uxNKoR5OgxbwKJH97LxyK) | 3:02 |
+| 19 | [444](https://open.spotify.com/track/5cBq3Gi5YAC3uHXeirULQB) | [YFG Pave](https://open.spotify.com/artist/4Ck46WZxqzpKUInvcgVF1C) | [444](https://open.spotify.com/album/51MOG5KfpINdy199XNU9Py) | 2:28 |
 | 20 | [letzter tag](https://open.spotify.com/track/0xu6dHIkh2eaLAhMRR3da0) | [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F) | [lieder vom leben](https://open.spotify.com/album/6lTnRSnWUH4ROGLZWn1cOW) | 3:09 |
 | 21 | [PRETTY LIL SHAWTY](https://open.spotify.com/track/6Is9gynDxpWAxDwC1AokLy) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [PRETTY LIL SHAWTY](https://open.spotify.com/album/2gwcLxt9EWRoFltgOeK4m5) | 2:46 |
-| 22 | [444](https://open.spotify.com/track/5cBq3Gi5YAC3uHXeirULQB) | [YFG Pave](https://open.spotify.com/artist/4Ck46WZxqzpKUInvcgVF1C) | [444](https://open.spotify.com/album/51MOG5KfpINdy199XNU9Py) | 2:28 |
+| 22 | [Himmel Leer](https://open.spotify.com/track/1iZy5e1JQcMCICG1flsRNl) | [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Himmel Leer](https://open.spotify.com/album/0uxNKoR5OgxbwKJH97LxyK) | 3:02 |
 | 23 | [Paranoia](https://open.spotify.com/track/0NvwGUa83Bg6arI7e0z4LC) | [NUGAT](https://open.spotify.com/artist/74yjU6gHx05PeHAokao6DS), [Savvy](https://open.spotify.com/artist/31PAzAvprOXLSA01ff7elC) | [Paranoia](https://open.spotify.com/album/2BGM0xo0uvpw0qaJxXbV4J) | 2:52 |
 | 24 | [Not So Bad \(Leans Gone Cold\)](https://open.spotify.com/track/4qZLvqy5Wg4sgQ9gKusb1B) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 3:18 |
 | 25 | [LOWLIFE](https://open.spotify.com/track/17OtbhQQ8Udj4NL57cv2mV) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [SIKI JACKSON](https://open.spotify.com/album/4lua2VQpqJYAKHK24oq6ou) | 2:50 |
@@ -77,16 +77,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1shdIjFVnvq.md) - [plain]
 | 67 | [Bandobaby](https://open.spotify.com/track/7boObDJdYuCPRUpoWWVmrY) | [Sosa La M](https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC) | [Bandobaby](https://open.spotify.com/album/5tKhFf4aj7z4C9rljQsZg6) | 1:43 |
 | 68 | [Fühlst du](https://open.spotify.com/track/5cHPMo64nOHGBORMiHRAHk) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Fühlst du](https://open.spotify.com/album/62GUjlJg6JvI7rKBcy8q9T) | 2:15 |
 | 69 | [KEIN BOCK](https://open.spotify.com/track/17nxI4xmWZ77QFqS6ORmXb) | [LUVRE47](https://open.spotify.com/artist/2qxkFauoxk34qhVdkgbqbz), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [KEIN BOCK](https://open.spotify.com/album/7a945kLwQNKTBlheutviOK) | 3:25 |
-| 70 | [Applaus](https://open.spotify.com/track/2xcCTxGQouhdtXBbnfqjLF) | [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Applaus](https://open.spotify.com/album/41wze4N3Ujbl9RhIuocqnv) | 2:36 |
-| 71 | [Can't Get It Back](https://open.spotify.com/track/7ypWDgxhvNIsDB3RPH6FSf) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9) | [Can't Get It Back](https://open.spotify.com/album/47St3rJPe4fEEd6fUPPTs8) | 2:47 |
+| 70 | [Can't Get It Back](https://open.spotify.com/track/7ypWDgxhvNIsDB3RPH6FSf) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9) | [Can't Get It Back](https://open.spotify.com/album/47St3rJPe4fEEd6fUPPTs8) | 2:47 |
+| 71 | [Applaus](https://open.spotify.com/track/2xcCTxGQouhdtXBbnfqjLF) | [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Applaus](https://open.spotify.com/album/41wze4N3Ujbl9RhIuocqnv) | 2:36 |
 | 72 | [Anders](https://open.spotify.com/track/4lzSnLOG22jku5KeUqHQeF) | [Dante YN](https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp) | [Anders](https://open.spotify.com/album/0q5J5FGV38y8CEHbxiEYNz) | 2:09 |
 | 73 | [IMMER NUR DU](https://open.spotify.com/track/4eMiuBSBvg86zJ7kWTQeQB) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [COUNTRYCLUB](https://open.spotify.com/album/1QyeGIoee2lKlZDJ37ODgF) | 2:14 |
 | 74 | [zeit zu gehen](https://open.spotify.com/track/1kcOpvFgvMrjZqYyBNrXRJ) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD), [LEX](https://open.spotify.com/artist/4sihWBudLgIj87L6PRfrpT) | [zeit zu gehen](https://open.spotify.com/album/7vZGGclFuHe3KxqSXUnjq9) | 3:54 |
-| 75 | [lana del rey](https://open.spotify.com/track/6amXqG5jwyO6PI4SQtRRt1) | [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F), [absent](https://open.spotify.com/artist/5jdx9iK9rdclHYrd80tPna) | [lana del rey](https://open.spotify.com/album/0jyygNDDGPTZfkDKUgvMt6) | 3:00 |
-| 76 | [Nostalgie](https://open.spotify.com/track/6AUuQdsDyBzF65zw4cjG5M) | [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Lonlee](https://open.spotify.com/album/5arNpuwGmkczhRMerGHaWb) | 2:50 |
-| 77 | [Wellness am Scherbenmeer](https://open.spotify.com/track/2dHskhyGCWoZdEagnUORUh) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Wellness am Scherbenmeer](https://open.spotify.com/album/27XEKmEg5kok4QosVdsH95) | 3:04 |
+| 75 | [All Night](https://open.spotify.com/track/4HPihl5dbwlsp1c6SKNccd) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9) | [All Night](https://open.spotify.com/album/7b2eJfHcAyf3THiv0MAwRu) | 2:16 |
+| 76 | [lana del rey](https://open.spotify.com/track/6amXqG5jwyO6PI4SQtRRt1) | [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F), [absent](https://open.spotify.com/artist/5jdx9iK9rdclHYrd80tPna) | [lana del rey](https://open.spotify.com/album/0jyygNDDGPTZfkDKUgvMt6) | 3:00 |
+| 77 | [Nostalgie](https://open.spotify.com/track/6AUuQdsDyBzF65zw4cjG5M) | [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Lonlee](https://open.spotify.com/album/5arNpuwGmkczhRMerGHaWb) | 2:50 |
 | 78 | [Für immer Zuhaus‘ \(feat\. Montez\)](https://open.spotify.com/track/6uYJJG8O09FDGSX6FMz3rz) | [Nio](https://open.spotify.com/artist/59QdJy846FAaNXcztOegY5), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Für immer Zuhaus‘ \(feat\. Montez\)](https://open.spotify.com/album/369u6YDhMq2L6RPy4cP7v6) | 2:24 |
-| 79 | [Normal zu lieben](https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Normal zu lieben](https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz) | 2:56 |
-| 80 | [Jerry & Tom](https://open.spotify.com/track/6wm7nuIQTOjviSpkk22F87) | [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY) | [Jerry & Tom](https://open.spotify.com/album/5XQAaHdqTMcx6Xratisi09) | 3:00 |
+| 79 | [Wellness am Scherbenmeer](https://open.spotify.com/track/2dHskhyGCWoZdEagnUORUh) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Wellness am Scherbenmeer](https://open.spotify.com/album/27XEKmEg5kok4QosVdsH95) | 3:04 |
+| 80 | [Normal zu lieben](https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Normal zu lieben](https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz) | 2:56 |
 
 Snapshot ID: `ZqLK4AAAAABjPFOVJvbzHKBTfzfCcUSj`

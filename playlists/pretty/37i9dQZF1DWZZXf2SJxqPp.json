@@ -1,12 +1,12 @@
 {
   "description": "Canciones deliciosas para relajarse y pasarla chill junto a la piscina. \ud83c\udfd6\ufe0f\ud83c\udfca\ud83c\udf79",
-  "num_followers": 139860,
+  "num_followers": 139889,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZprPpgAAAADiC2wL++ft9bN3jw0QVQJ3",
+  "snapshot_id": "ZqqJhQAAAAD9Np8wkHaQtirqE6PjtR0k",
   "tracks": [
     {
       "added_at": "2023-08-14 14:58:41",
@@ -173,28 +173,28 @@
       "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
     },
     {
-      "added_at": "2024-06-27 18:41:44",
+      "added_at": "2024-07-31 18:59:16",
       "album": {
-        "name": "Unconditional feat. Rationale (Girls of the Internet Remix)",
-        "url": "https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF"
+        "name": "Do Something!",
+        "url": "https://open.spotify.com/album/7wOOMSpNAHJO4vadu3V6RN"
       },
       "artists": [
         {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
         },
         {
-          "name": "Rationale",
-          "url": "https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy"
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
         },
         {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
         }
       ],
-      "duration_ms": 230064,
-      "name": "Unconditional feat. Rationale - Girls of the Internet Remix",
-      "url": "https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9"
+      "duration_ms": 131660,
+      "name": "Do Something!",
+      "url": "https://open.spotify.com/track/3qIfexWcDZUuSYQNogshMa"
     },
     {
       "added_at": "2024-05-30 23:14:49",
@@ -413,20 +413,28 @@
       "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
     },
     {
-      "added_at": "2023-08-14 14:58:41",
+      "added_at": "2024-06-27 18:41:44",
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+        "name": "Unconditional feat. Rationale (Girls of the Internet Remix)",
+        "url": "https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Rationale",
+          "url": "https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy"
+        },
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
         }
       ],
-      "duration_ms": 342189,
-      "name": "Time (You and I)",
-      "url": "https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3"
+      "duration_ms": 230064,
+      "name": "Unconditional feat. Rationale - Girls of the Internet Remix",
+      "url": "https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9"
     },
     {
       "added_at": "2024-06-26 19:12:18",
@@ -443,6 +451,38 @@
       "duration_ms": 221666,
       "name": "Purple Horizon",
       "url": "https://open.spotify.com/track/2W3QmPhnMnjUqgYBdG7HsT"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 342189,
+      "name": "Time (You and I)",
+      "url": "https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3"
+    },
+    {
+      "added_at": "2024-04-30 04:32:26",
+      "album": {
+        "name": "Sue\u00f1o Tepozteco",
+        "url": "https://open.spotify.com/album/22tzn7ePE020oZxBEPcNJG"
+      },
+      "artists": [
+        {
+          "name": "Israel Arteaga",
+          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
+        }
+      ],
+      "duration_ms": 293333,
+      "name": "Sue\u00f1o Tepozteco",
+      "url": "https://open.spotify.com/track/0XYBNhA9f9KGZhWZBaljls"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -465,38 +505,6 @@
       "url": "https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z"
     },
     {
-      "added_at": "2024-04-30 04:32:26",
-      "album": {
-        "name": "Sue\u00f1o Tepozteco",
-        "url": "https://open.spotify.com/album/22tzn7ePE020oZxBEPcNJG"
-      },
-      "artists": [
-        {
-          "name": "Israel Arteaga",
-          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
-        }
-      ],
-      "duration_ms": 293333,
-      "name": "Sue\u00f1o Tepozteco",
-      "url": "https://open.spotify.com/track/0XYBNhA9f9KGZhWZBaljls"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Caravelle",
-        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 209800,
-      "name": "Zoom Zoom",
-      "url": "https://open.spotify.com/track/1gWnuGAiTk3Q4yrIbwymUK"
-    },
-    {
       "added_at": "2024-07-01 18:08:26",
       "album": {
         "name": "Technicolor Dream",
@@ -515,22 +523,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Marechi\u00e0",
-        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
+        "name": "Caravelle",
+        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
       },
       "artists": [
         {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        },
-        {
-          "name": "C\u00e9lia Kameni",
-          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
         }
       ],
-      "duration_ms": 264929,
-      "name": "Marechi\u00e0",
-      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
+      "duration_ms": 209800,
+      "name": "Zoom Zoom",
+      "url": "https://open.spotify.com/track/1gWnuGAiTk3Q4yrIbwymUK"
     },
     {
       "added_at": "2024-05-23 01:03:12",
@@ -563,6 +567,26 @@
       "duration_ms": 203373,
       "name": "... per chi non muore",
       "url": "https://open.spotify.com/track/2VvRL86VeuoPTg0deFiDYI"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Marechi\u00e0",
+        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        },
+        {
+          "name": "C\u00e9lia Kameni",
+          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
+        }
+      ],
+      "duration_ms": 264929,
+      "name": "Marechi\u00e0",
+      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -667,26 +691,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Brazilian Compilation Series, Vol. 2",
-        "url": "https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Fatnotronic",
-          "url": "https://open.spotify.com/artist/5evxKull73cP7iadarMC99"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Esperar Pra Ver",
-      "url": "https://open.spotify.com/track/7baNYnxas4NlQXcoj6kSmp"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Rita Lee & Roberto \u2013 Classix Remix Vol. l",
         "url": "https://open.spotify.com/album/1dmsWqBXFAODlZHUyDCFZm"
       },
@@ -707,6 +711,42 @@
       "duration_ms": 195840,
       "name": "Mania De Voc\u00ea - Dubdogz & Watzgood Remix / Radio Edit",
       "url": "https://open.spotify.com/track/6oxlS3jlN3aVslynpnCEe5"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Brazilian Compilation Series, Vol. 2",
+        "url": "https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Fatnotronic",
+          "url": "https://open.spotify.com/artist/5evxKull73cP7iadarMC99"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Esperar Pra Ver",
+      "url": "https://open.spotify.com/track/7baNYnxas4NlQXcoj6kSmp"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Voyages",
+        "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
+      },
+      "artists": [
+        {
+          "name": "Tekkla",
+          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
+        }
+      ],
+      "duration_ms": 216104,
+      "name": "Voyages",
+      "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -761,20 +801,24 @@
       "url": "https://open.spotify.com/track/7fbdTbr12vcmJhWgp58dvO"
     },
     {
-      "added_at": "2023-08-14 14:58:41",
+      "added_at": "2023-10-24 02:02:26",
       "album": {
-        "name": "Voyages",
-        "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
+        "name": "Carrossel Do Tempo",
+        "url": "https://open.spotify.com/album/6NUf2RplmZ17qr6uDDUUVy"
       },
       "artists": [
         {
-          "name": "Tekkla",
-          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        },
+        {
+          "name": "Abr\u00e3o",
+          "url": "https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq"
         }
       ],
-      "duration_ms": 216104,
-      "name": "Voyages",
-      "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
+      "duration_ms": 297440,
+      "name": "Carrossel Do Tempo",
+      "url": "https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -809,40 +853,24 @@
       "url": "https://open.spotify.com/track/2SCHvVxxf591F0EsSNCsRK"
     },
     {
-      "added_at": "2023-10-28 00:57:17",
+      "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Madres",
-        "url": "https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5"
+        "name": "nice 2 me",
+        "url": "https://open.spotify.com/album/50pA39m1Je0bgfqqJFBBlT"
       },
       "artists": [
         {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 236129,
-      "name": "Madres",
-      "url": "https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k"
-    },
-    {
-      "added_at": "2023-10-24 02:02:26",
-      "album": {
-        "name": "Carrossel Do Tempo",
-        "url": "https://open.spotify.com/album/6NUf2RplmZ17qr6uDDUUVy"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
         },
         {
-          "name": "Abr\u00e3o",
-          "url": "https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq"
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
         }
       ],
-      "duration_ms": 297440,
-      "name": "Carrossel Do Tempo",
-      "url": "https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr"
+      "duration_ms": 171622,
+      "name": "nice 2 me",
+      "url": "https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj"
     },
     {
       "added_at": "2024-03-07 19:13:49",
@@ -867,26 +895,6 @@
       "duration_ms": 188368,
       "name": "Bella",
       "url": "https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "nice 2 me",
-        "url": "https://open.spotify.com/album/50pA39m1Je0bgfqqJFBBlT"
-      },
-      "artists": [
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        },
-        {
-          "name": "Tommy Villiers",
-          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
-        }
-      ],
-      "duration_ms": 171622,
-      "name": "nice 2 me",
-      "url": "https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -927,6 +935,38 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Caravelle",
+        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 289720,
+      "name": "Pays imaginaire",
+      "url": "https://open.spotify.com/track/7i5I4h7r2vkI2r9tgKjy0x"
+    },
+    {
+      "added_at": "2023-10-28 00:57:17",
+      "album": {
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 236129,
+      "name": "Madres",
+      "url": "https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Mon Cheri",
         "url": "https://open.spotify.com/album/6PmUVTmxKzphzJPIqCZbMJ"
       },
@@ -943,22 +983,6 @@
       "duration_ms": 248127,
       "name": "Mon Cheri",
       "url": "https://open.spotify.com/track/1Fu9QYiYh8izSKG0cqUXxn"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Caravelle",
-        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 289720,
-      "name": "Pays imaginaire",
-      "url": "https://open.spotify.com/track/7i5I4h7r2vkI2r9tgKjy0x"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1003,22 +1027,26 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Can't Stop Your Lovin'",
-        "url": "https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW"
+        "name": "froge.mp3",
+        "url": "https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7"
       },
       "artists": [
         {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
         },
         {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        },
+        {
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
         }
       ],
-      "duration_ms": 237533,
-      "name": "Can't Stop Your Lovin'",
-      "url": "https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz"
+      "duration_ms": 195226,
+      "name": "beachin",
+      "url": "https://open.spotify.com/track/3urYUGRvToBI4u87OzsSMZ"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1043,26 +1071,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "froge.mp3",
-        "url": "https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7"
+        "name": "Can't Stop Your Lovin'",
+        "url": "https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW"
       },
       "artists": [
         {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
         },
         {
-          "name": "Tommy Villiers",
-          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
-        },
-        {
-          "name": "piri & tommy",
-          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
         }
       ],
-      "duration_ms": 195226,
-      "name": "beachin",
-      "url": "https://open.spotify.com/track/3urYUGRvToBI4u87OzsSMZ"
+      "duration_ms": 237533,
+      "name": "Can't Stop Your Lovin'",
+      "url": "https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1415,6 +1439,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Rain Check",
+        "url": "https://open.spotify.com/album/48N0TU0by4ICq7n8UFn7q8"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sitts",
+          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
+        }
+      ],
+      "duration_ms": 136618,
+      "name": "Rain Check",
+      "url": "https://open.spotify.com/track/0qSAag81S96PZ38BBQlk7B"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Horizons",
         "url": "https://open.spotify.com/album/0cvFQyuT54tOUaVJVSTB5y"
       },
@@ -1435,18 +1475,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Rain Check",
-        "url": "https://open.spotify.com/album/48N0TU0by4ICq7n8UFn7q8"
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
       },
       "artists": [
         {
-          "name": "Dylan Sitts",
-          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
+          "name": "Amo Amo",
+          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
         }
       ],
-      "duration_ms": 136618,
-      "name": "Rain Check",
-      "url": "https://open.spotify.com/track/0qSAag81S96PZ38BBQlk7B"
+      "duration_ms": 275746,
+      "name": "Canta",
+      "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1527,18 +1567,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
+        "name": "TILT",
+        "url": "https://open.spotify.com/album/0X9CpcnwoPgzznLDDGx8PI"
       },
       "artists": [
         {
-          "name": "Amo Amo",
-          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
         }
       ],
-      "duration_ms": 275746,
-      "name": "Canta",
-      "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
+      "duration_ms": 227520,
+      "name": "Feels Like A Different Thing",
+      "url": "https://open.spotify.com/track/4koWjqTL62F8WSWpuhwpvu"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1555,22 +1595,6 @@
       "duration_ms": 196900,
       "name": "Une Beat Encore",
       "url": "https://open.spotify.com/track/1IcvRPjADDdJVqraXMk5W0"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "TILT",
-        "url": "https://open.spotify.com/album/0X9CpcnwoPgzznLDDGx8PI"
-      },
-      "artists": [
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "Feels Like A Different Thing",
-      "url": "https://open.spotify.com/track/4koWjqTL62F8WSWpuhwpvu"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1699,22 +1723,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "All Access",
-        "url": "https://open.spotify.com/album/2yghC1izlXbRMLXAvuZnPg"
-      },
-      "artists": [
-        {
-          "name": "Ben Eggs",
-          "url": "https://open.spotify.com/artist/2Oe8Eh7oyLV1CfJ8UjJ9Qd"
-        }
-      ],
-      "duration_ms": 186888,
-      "name": "All Access",
-      "url": "https://open.spotify.com/track/47lv0fs01NLcygKcnD9PFX"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Last Dream",
         "url": "https://open.spotify.com/album/19hum2Jtf27MsPyb9nEHK9"
       },
@@ -1767,6 +1775,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "All Access",
+        "url": "https://open.spotify.com/album/2yghC1izlXbRMLXAvuZnPg"
+      },
+      "artists": [
+        {
+          "name": "Ben Eggs",
+          "url": "https://open.spotify.com/artist/2Oe8Eh7oyLV1CfJ8UjJ9Qd"
+        }
+      ],
+      "duration_ms": 186888,
+      "name": "All Access",
+      "url": "https://open.spotify.com/track/47lv0fs01NLcygKcnD9PFX"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Zaim",
         "url": "https://open.spotify.com/album/0Mv3pPeTjhUFZhipQBFbSU"
       },
@@ -1815,22 +1839,6 @@
       "duration_ms": 257033,
       "name": "A bite of papaya",
       "url": "https://open.spotify.com/track/2jwKTqnvzrhj4b6Dhm07lW"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Backdrops",
-        "url": "https://open.spotify.com/album/7uabdAZxN8OvV4ZO3yRoJC"
-      },
-      "artists": [
-        {
-          "name": "Walientinho",
-          "url": "https://open.spotify.com/artist/4qVK77FWzEGLmP1Vw1I9or"
-        }
-      ],
-      "duration_ms": 186123,
-      "name": "Backdrops",
-      "url": "https://open.spotify.com/track/1L6yd85lGhfCGbNwKKvcAp"
     }
   ],
   "unique_name": "\u00a1A la Alberca!",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > Thor 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,911 likes - 87 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,909 likes - 87 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2928,7 +2928,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 194285,
       "name": "All Your Ways",
       "url": "https://open.spotify.com/track/6ejIRMgXA2xwtKyN7MTXJj"
@@ -3526,7 +3526,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 301506,
       "name": "Anansi",
       "url": "https://open.spotify.com/track/2eamE5xO4rhJf6hh1814Vw"
@@ -5446,7 +5446,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 128927,
       "name": "Bailababas",
       "url": "https://open.spotify.com/track/4tqWjUBzDsM9JEJYbF67RU"
@@ -10296,7 +10296,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 251906,
       "name": "Carry Me",
       "url": "https://open.spotify.com/track/7KSv02y37mrAy1LUbbSAy6"
@@ -12493,6 +12493,24 @@
     },
     {
       "album": {
+        "name": "EN LAS NUBES 5",
+        "url": "https://open.spotify.com/album/6wb2GpEtdcputOqzBlnZI8"
+      },
+      "artists": [
+        {
+          "name": "Andres Mora",
+          "url": "https://open.spotify.com/artist/76C2nonBVqhpsY61UP9tMR"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "COMO TE VA?",
+      "url": "https://open.spotify.com/track/1yl0M3XNSiA50gVI8wrde4"
+    },
+    {
+      "album": {
         "name": "Company",
         "url": "https://open.spotify.com/album/16HYUeWDdsIYunousi5lG1"
       },
@@ -12776,7 +12794,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 164012,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/0Bld5Lvb4UtWGpBxXZgdxj"
@@ -15540,7 +15558,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 95486,
       "name": "Die The Best",
       "url": "https://open.spotify.com/track/5rD6RHL6z2CpeTYUqbinu5"
@@ -16246,7 +16264,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 130664,
       "name": "Don Dada",
       "url": "https://open.spotify.com/track/3Q2xypNifUUx892kQK6oS6"
@@ -23540,7 +23558,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 241258,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/2pXm9s13qHTryW2rrQB6du"
@@ -24977,6 +24995,24 @@
     },
     {
       "album": {
+        "name": "Grass Wasn't Greener",
+        "url": "https://open.spotify.com/album/3tUjV1icibj8jgBOGl7iB2"
+      },
+      "artists": [
+        {
+          "name": "Dariodmusic",
+          "url": "https://open.spotify.com/artist/3i3SZMOjdT1T7xowjjtBLU"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194208,
+      "name": "Grass Wasn't Greener",
+      "url": "https://open.spotify.com/track/0Gb2pQMcuYKSW8bZghVZkL"
+    },
+    {
+      "album": {
         "name": "You Win",
         "url": "https://open.spotify.com/album/7IV74Hlpbqtlv6hskPX2vB"
       },
@@ -25196,7 +25232,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 310010,
       "name": "growing pains",
       "url": "https://open.spotify.com/track/0aJ4TF8p9BwxO8OusBLxqB"
@@ -25230,6 +25266,24 @@
       "duration_ms": 270493,
       "name": "Guantanamera (feat. Ms. Lauryn Hill, Celia Cruz & Jeni Fujita)",
       "url": "https://open.spotify.com/track/6g5ov3aSDUvvDkQKIcmZQI"
+    },
+    {
+      "album": {
+        "name": "Pet Your Dog More",
+        "url": "https://open.spotify.com/album/27yV3TI7rr4iHeQXmuO1Fi"
+      },
+      "artists": [
+        {
+          "name": "Phantomelo",
+          "url": "https://open.spotify.com/artist/0e52fRrgWuE2V31MUOKzTt"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162459,
+      "name": "Gum Love",
+      "url": "https://open.spotify.com/track/70JsGwiwYu72dWGJMtSlH3"
     },
     {
       "album": {
@@ -27184,7 +27238,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 207648,
       "name": "Honest",
       "url": "https://open.spotify.com/track/2yQmvTTUYK7UeOnKobyikc"
@@ -27720,7 +27774,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 97058,
       "name": "Human",
       "url": "https://open.spotify.com/track/38iuhI9ymUk3mj0Vips81w"
@@ -28692,7 +28746,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 288979,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/3yJlB7Y7iHJLjZIIsLIBL5"
@@ -37950,7 +38004,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 264500,
       "name": "Mamma",
       "url": "https://open.spotify.com/track/2HuLrAvfOfOhwRpqzX9UVY"
@@ -43289,6 +43343,24 @@
     },
     {
       "album": {
+        "name": "Light Darkness",
+        "url": "https://open.spotify.com/album/2WuVr6ZDtEuvWjQrpXAn4C"
+      },
+      "artists": [
+        {
+          "name": "Hosei Lawees",
+          "url": "https://open.spotify.com/artist/1uUN87Xw7z316iZmzR46a2"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213727,
+      "name": "Nostalgic",
+      "url": "https://open.spotify.com/track/4FHJjYIB6BYssofiW1cG7P"
+    },
+    {
+      "album": {
         "name": "One Life",
         "url": "https://open.spotify.com/album/47dOZm3aGQAJ6iZC6fFkaK"
       },
@@ -46026,7 +46098,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 138750,
       "name": "Palmerita",
       "url": "https://open.spotify.com/track/0FTOxjxei1i37xxpmOOGN3"
@@ -54722,7 +54794,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 196696,
       "name": "Some Type of Way",
       "url": "https://open.spotify.com/track/3g1mR1wV5dzIspD1xaO3NR"
@@ -54932,6 +55004,24 @@
       "duration_ms": 161625,
       "name": "Someone's In The Room",
       "url": "https://open.spotify.com/track/5B2ZFJW0oQtgwx985KLcnv"
+    },
+    {
+      "album": {
+        "name": "My Life Your Entertainment, Vol. 1",
+        "url": "https://open.spotify.com/album/39eafUKcVGZ9VU5z1A2InN"
+      },
+      "artists": [
+        {
+          "name": "Kevin Harrison",
+          "url": "https://open.spotify.com/artist/1fz8FWeX9HY6xuQtjORVfc"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224992,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/03bhxJeqUt30mCYK5Qttj3"
     },
     {
       "album": {
@@ -55969,6 +56059,24 @@
     },
     {
       "album": {
+        "name": "STAY FRIENDS",
+        "url": "https://open.spotify.com/album/6MtKE4duJODVSVd9AkrtTf"
+      },
+      "artists": [
+        {
+          "name": "Bruklin",
+          "url": "https://open.spotify.com/artist/4fjAtF6VmMxQHxKI5C3HPO"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "STAY FRIENDS",
+      "url": "https://open.spotify.com/track/68nEOP3dEphz3tpd7eXFti"
+    },
+    {
+      "album": {
         "name": "Stay Over",
         "url": "https://open.spotify.com/album/1M5S3aAflyUhHkWV1XOmmQ"
       },
@@ -56906,6 +57014,24 @@
       "duration_ms": 192781,
       "name": "Suitcase",
       "url": "https://open.spotify.com/track/4aTAN54HmMq1mxrlQI9ofX"
+    },
+    {
+      "album": {
+        "name": "Sumerian Times",
+        "url": "https://open.spotify.com/album/09pqGdU0O9UyYa27ebbAxt"
+      },
+      "artists": [
+        {
+          "name": "Dragonetti",
+          "url": "https://open.spotify.com/artist/3wLzaPu8E7UhWiASJjvcnj"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295903,
+      "name": "Sumerian Times",
+      "url": "https://open.spotify.com/track/2etUunzmuaCp0istBJY112"
     },
     {
       "album": {
@@ -59028,7 +59154,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 205106,
       "name": "tbh",
       "url": "https://open.spotify.com/track/0cKC6bA7NiX7ogWa60zscP"
@@ -63126,7 +63252,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 161904,
       "name": "TU MIA",
       "url": "https://open.spotify.com/track/5h6vbCAYcUCW9KfXyYSfg3"
@@ -64158,7 +64284,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-01",
       "duration_ms": 163902,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/5aeZzetAqugIhW81mR7Zr7"

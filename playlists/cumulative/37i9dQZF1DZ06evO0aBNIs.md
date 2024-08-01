@@ -2,14 +2,14 @@
 
 ### [This Is Avril Lavigne](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0aBNIs)
 
-> This Is Avril Lavigne\. Los temas esenciales, todos en una lista.
+> This is Avril Lavigne\. The essential tracks, all in one playlist.
 
 59 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alice \- Extended Version](https://open.spotify.com/track/4gLVsEaNMpzkCAM0hXgDoi) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 5:00 | 2024-05-15 | 2024-07-17 |
-| [Anything but Ordinary](https://open.spotify.com/track/6STHWwMa2vbr1nKArQH7hd) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:11 | 2023-12-21 | 2024-07-21 |
+| [Anything but Ordinary](https://open.spotify.com/track/6STHWwMa2vbr1nKArQH7hd) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:11 | 2023-12-21 |  |
 | [Avalanche](https://open.spotify.com/track/0ZzF9Y0nJoBc8iMkITxDYv) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 3:39 | 2024-05-25 | 2024-06-12 |
 | [Bad Girl \(feat\. Marilyn Manson\)](https://open.spotify.com/track/1HiV8vDg7l9eKp6abjvA7P) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Avril Lavigne \(Expanded Edition\)](https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l) | 2:54 | 2023-12-13 |  |
 | [Bad Reputation](https://open.spotify.com/track/58ZYHG6xGz1Lx25FsvVH1A) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 2:42 | 2023-12-13 |  |

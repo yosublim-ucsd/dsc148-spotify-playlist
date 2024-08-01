@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Backbone (The Desert Child)",
+        "url": "https://open.spotify.com/album/2Rq8kjXYYa8XE9RWp7AnaM"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211573,
+      "name": "Backbone (The Desert Child)",
+      "url": "https://open.spotify.com/track/2VbDkiirW1CqJYms2jbqPV"
+    },
+    {
+      "album": {
         "name": "Barricades & Brickwalls",
         "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
       },

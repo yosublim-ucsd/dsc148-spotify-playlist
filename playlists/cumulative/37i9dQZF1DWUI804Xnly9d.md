@@ -4,13 +4,13 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-373 songs - 21 hr 12 min
+374 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aa Bhi Jaa](https://open.spotify.com/track/2UhGH6QOvugViwXNTLEN2L) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Do Aur Do Pyaar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4u9BrvsOQ5Cda7oKgIvSAa) | 2:24 | 2024-04-15 | 2024-06-29 |
 | [Aa Milke Baate Zindagi](https://open.spotify.com/track/4OLU7HbSkmhoxuoZCEO1Vo) | [Sagar Siddham](https://open.spotify.com/artist/3XldFTs2E3AIRnP6ht5jcL), [Pallavi Jamindar Siddham](https://open.spotify.com/artist/5IUmaGr0oynNc6WnOoT3Ee) | [Aa Milke Baate Zindagi](https://open.spotify.com/album/1p3RjUC8pYQ3TAS57zLuHb) | 4:07 | 2024-01-15 | 2024-02-21 |
-| [Aaja \- Stripped Version](https://open.spotify.com/track/6RBoeJVWQmesmSzl5ole38) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Sapne](https://open.spotify.com/album/2Lw9o65L8txLwH8Tg4jvWy) | 4:10 | 2024-01-19 |  |
+| [Aaja \- Stripped Version](https://open.spotify.com/track/6RBoeJVWQmesmSzl5ole38) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Sapne](https://open.spotify.com/album/2Lw9o65L8txLwH8Tg4jvWy) | 4:10 | 2024-01-19 | 2024-08-01 |
 | [Aaja Baija Tu \(Acoustic\) \[From "Brand Bollywood Downunder"\]](https://open.spotify.com/track/05QSnz2l3DhwciiKegHcgs) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Epr Iyer](https://open.spotify.com/artist/5tusfwYTSzhe2meWRNp9tj) | [Aaja Baija Tu \(Acoustic\) \[From "Brand Bollywood Downunder"\]](https://open.spotify.com/album/1grfWEwxGjLiMqqajwpNIy) | 2:42 | 2024-02-20 | 2024-05-29 |
 | [Aangan](https://open.spotify.com/track/5fQ68f0syCRx6dJoJvyxEh) | [Arjun Tikadar](https://open.spotify.com/artist/6xVuJatFzZDvLRsU3mGAsn), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Aangan](https://open.spotify.com/album/1Y8jcvhXzOdX8n8JkxniVT) | 3:32 | 2023-10-26 | 2023-11-16 |
 | [Aao Na](https://open.spotify.com/track/02np8DlVPt6HmV44uHjz6J) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Aao Na](https://open.spotify.com/album/1ntc4C1mdubIGfhVRlYFfz) | 2:38 | 2024-02-29 | 2024-03-16 |
@@ -80,6 +80,7 @@
 | [Dhuaan](https://open.spotify.com/track/7AVao1FclGwn9U2J9IG2Ax) | [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) | [Dhuaan](https://open.spotify.com/album/3TzWaLcyDRndLFSuIEvUK4) | 3:30 | 2023-07-28 | 2023-09-09 |
 | [Dil Bawra \- Acoustic](https://open.spotify.com/track/74REMfDydJQMVQvFfMzch4) | [Anirudh Deshmukh](https://open.spotify.com/artist/3HiO5a3yy7KtslxTJrBLNL) | [Dil Bawra \(Acoustic\)](https://open.spotify.com/album/22b6VAH3yYUmT9a1VMcWsu) | 4:08 | 2023-05-17 | 2023-06-03 |
 | [Dil Beparvah \- The Dewarists, Season 5](https://open.spotify.com/track/4kXkT9HF9ZfDjuv3LIKcwJ) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Dhruv Bhola](https://open.spotify.com/artist/4b0Zi3RZUUv8QdkBkMhc8x), [Nikhil Vasudevan](https://open.spotify.com/artist/3hprnpHtvBrFI09rVHkjZZ) | [Dil Beparvah \(The Dewarists, Season 5\)](https://open.spotify.com/album/03CDp0VEvqgFEXoo8gXNru) | 4:10 | 2023-05-17 | 2024-02-06 |
+| [Dil Besabar](https://open.spotify.com/track/5LV90I2HKJFJ8GMNaS75ZA) | [Azadd](https://open.spotify.com/artist/03iLvvBbav8KGD0s6j8bPA) | [Dil Besabar](https://open.spotify.com/album/7bstmsZGHaiZfupqDfk9NA) | 3:10 | 2024-07-31 |  |
 | [Dil Bhara](https://open.spotify.com/track/1FufKIAGNgVJXmvxGih7MI) | [Akash Tripathi](https://open.spotify.com/artist/04QPutAh48ciDXsD7yuzl4) | [Dil Bhara](https://open.spotify.com/album/18enJ7jL95iojIBGAnZwub) | 2:56 | 2023-09-26 | 2024-01-13 |
 | [Dil Ki Kahani](https://open.spotify.com/track/63PAklGYefhEPUWMXiONSC) | [Anandi Aheeri](https://open.spotify.com/artist/24FIQnYu0IgWUXE6qvXYPe) | [Dil Ki Kahani](https://open.spotify.com/album/7mhklP1bZglS3XGjIxefhE) | 3:46 | 2024-03-15 | 2024-05-10 |
 | [Dil Mein Thoda Sa](https://open.spotify.com/track/2eBWFPefQnjrEMZDECXg5U) | [Gaurav Agrawal](https://open.spotify.com/artist/4HhD2GH1866v1KvZfYCF0V) | [Dil Mein Thoda Sa](https://open.spotify.com/album/0ppxaU8C9xdliTrUCxM7NT) | 3:42 | 2024-07-30 |  |

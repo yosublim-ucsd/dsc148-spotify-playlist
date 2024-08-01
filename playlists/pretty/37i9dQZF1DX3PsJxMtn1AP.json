@@ -1,13 +1,53 @@
 {
   "description": "A sonic wonderland of mesmerizing tunes...",
-  "num_followers": 74518,
+  "num_followers": 74519,
   "original_name": "Kaleidoscope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqgW1AAAAADJdYhaHwQJuXpq9bqER13l",
+  "snapshot_id": "ZqqJSAAAAAAHzvdJ+SyUhpQWdpE5u7Wu",
   "tracks": [
+    {
+      "added_at": "2024-07-31 18:58:16",
+      "album": {
+        "name": "Volume",
+        "url": "https://open.spotify.com/album/3aRodSz8ayohU1HBctdB8W"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 238027,
+      "name": "Volume",
+      "url": "https://open.spotify.com/track/16P6DJm6ESmSIC8YRlLdmG"
+    },
+    {
+      "added_at": "2024-07-31 18:58:16",
+      "album": {
+        "name": "Do Something!",
+        "url": "https://open.spotify.com/album/7wOOMSpNAHJO4vadu3V6RN"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "duration_ms": 131660,
+      "name": "Do Something!",
+      "url": "https://open.spotify.com/track/3qIfexWcDZUuSYQNogshMa"
+    },
     {
       "added_at": "2024-07-19 20:43:15",
       "album": {

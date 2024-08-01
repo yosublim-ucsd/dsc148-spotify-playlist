@@ -4,7 +4,7 @@
 
 > A sonic wonderland of mesmerizing tunes...
 
-358 songs - 22 hr 49 min
+360 songs - 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Dime Quién Te Crees](https://open.spotify.com/track/2X3ExwVJneq6ZBgQ5RYttn) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Dime Quién Te Crees](https://open.spotify.com/album/40ekzsY4RSZwUBflHazKMO) | 3:54 | 2023-05-12 | 2023-06-02 |
 | [Dimensión 3000](https://open.spotify.com/track/2fAqFthuQMx8GLYZ7STM7x) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Dimensión 3000](https://open.spotify.com/album/6RpSAyKtW4MorocKI0aV2z) | 3:22 | 2024-05-29 | 2024-07-05 |
 | [DNA](https://open.spotify.com/track/26TkOFSOucGIFYJ61JqWYO) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [MEARSY](https://open.spotify.com/artist/4XU5z6Bk3DqlfqeyI1gcy1) | [DNA](https://open.spotify.com/album/0qTMc4nbPpF7mZT6DzLri1) | 2:16 | 2023-06-16 | 2023-08-02 |
+| [Do Something!](https://open.spotify.com/track/3qIfexWcDZUuSYQNogshMa) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C), [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [Do Something!](https://open.spotify.com/album/7wOOMSpNAHJO4vadu3V6RN) | 2:11 | 2024-07-31 |  |
 | [Doll](https://open.spotify.com/track/718j4dLgigKSHiRYiHuhMC) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Doll](https://open.spotify.com/album/233GhcZaDayKcSfRtx5rW3) | 3:31 | 2024-01-06 | 2024-03-23 |
 | [Dominoes](https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Dominoes](https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp) | 2:57 | 2023-05-24 | 2023-08-12 |
 | [Doritos & Fritos](https://open.spotify.com/track/1jPPKYq1s1HhIjAiqrnRR8) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:16 | 2023-04-14 | 2023-05-09 |
@@ -347,6 +348,7 @@
 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2023-07-28 | 2023-08-25 |
 | [vampiro](https://open.spotify.com/track/50swtPDEWetyPIuK4Pug08) | [Kiddie Gang](https://open.spotify.com/artist/1BIPunmLho7BYxe9gD4bFg) | [vampiro](https://open.spotify.com/album/0Mic1a4JCZSEf1dAujC8x4) | 2:58 | 2023-03-31 | 2023-06-15 |
 | [violeta](https://open.spotify.com/track/1bPR1P5FjnoPPW5c238VUA) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [casa de espejos](https://open.spotify.com/album/5mURp5KUNgHFfOLcQ42brK) | 2:45 | 2024-01-02 | 2024-03-13 |
+| [Volume](https://open.spotify.com/track/16P6DJm6ESmSIC8YRlLdmG) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Volume](https://open.spotify.com/album/3aRodSz8ayohU1HBctdB8W) | 3:58 | 2024-07-31 |  |
 | [VOLVER \(instrumental\)](https://open.spotify.com/track/7yXlGX1tlIYn5wZcJbJB6f) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [DATA \(Instrumental\)](https://open.spotify.com/album/1PueylpRcNPGRgr8i8tbXR) | 3:00 | 2024-01-06 | 2024-03-08 |
 | [Vurgunum Ama Acelesi Yok](https://open.spotify.com/track/1yiWGEADkJPYlMalqk1VfC) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Anadolu Ejderi](https://open.spotify.com/album/6lADF6NT8H5p3KCdHE3CfZ) | 4:45 | 2023-03-31 | 2023-04-20 |
 | [Walk Away](https://open.spotify.com/track/0h04l7hE4CrYjdRFbk4c4O) | [Catpack](https://open.spotify.com/artist/68KbEcrrJYafVy6ChYVqyt), [Amber Navran](https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH), [Jacob Mann](https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F), [Phil Beaudreau](https://open.spotify.com/artist/3U6rbhm05Jzcux0IOP0poA) | [Walk Away](https://open.spotify.com/album/6KK8Hcp5en0xPxmOfHuen0) | 3:02 | 2024-05-03 | 2024-06-28 |

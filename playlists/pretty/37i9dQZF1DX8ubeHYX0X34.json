@@ -1,6 +1,6 @@
 {
   "description": "Timeless Pakistani hits, all in one place. Cover - Junaid Jamshed",
-  "num_followers": 52286,
+  "num_followers": 52310,
   "original_name": "All Time Pakistani Hits",
   "owner": {
     "name": "Spotify",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
-        "name": "Bewafa",
-        "url": "https://open.spotify.com/album/31EKix5WSmQMNWLj1Je8dg"
-      },
-      "artists": [
-        {
-          "name": "Imran Khan",
-          "url": "https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js"
-        }
-      ],
-      "duration_ms": 224853,
-      "name": "Bewafa",
-      "url": "https://open.spotify.com/track/4FcknXDJ8yW2QYUl0cm6uJ"
-    },
-    {
-      "added_at": "2024-06-06 13:15:46",
-      "album": {
         "name": "Roshni",
         "url": "https://open.spotify.com/album/3EYMIeGNfYcvIWYuujWKOb"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 268822,
       "name": "Dupatta",
       "url": "https://open.spotify.com/track/0yfpjCf7E4uNENnqaaOw4I"
+    },
+    {
+      "added_at": "2024-06-06 13:15:46",
+      "album": {
+        "name": "Bewafa",
+        "url": "https://open.spotify.com/album/31EKix5WSmQMNWLj1Je8dg"
+      },
+      "artists": [
+        {
+          "name": "Imran Khan",
+          "url": "https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js"
+        }
+      ],
+      "duration_ms": 224853,
+      "name": "Bewafa",
+      "url": "https://open.spotify.com/track/4FcknXDJ8yW2QYUl0cm6uJ"
     },
     {
       "added_at": "2024-06-06 13:15:46",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
-        "name": "Amplifier",
-        "url": "https://open.spotify.com/album/5EC9dpKhvj5niMAA4HRmfQ"
-      },
-      "artists": [
-        {
-          "name": "Imran Khan",
-          "url": "https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Amplifier",
-      "url": "https://open.spotify.com/track/0l1i3nJ4aDMk0inxnvzYTz"
-    },
-    {
-      "added_at": "2024-06-06 13:15:46",
-      "album": {
         "name": "Pyaas",
         "url": "https://open.spotify.com/album/6tR4OP2sLkYlUgdaz1y9bW"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 238427,
       "name": "Mukhra",
       "url": "https://open.spotify.com/track/31KZ3ZymFdyO1quVkpot2c"
+    },
+    {
+      "added_at": "2024-06-06 13:15:46",
+      "album": {
+        "name": "Chandni Raatein",
+        "url": "https://open.spotify.com/album/1Ub0yU5Xc7iTG68iirGQZa"
+      },
+      "artists": [
+        {
+          "name": "Ali Haider",
+          "url": "https://open.spotify.com/artist/6fJXLs7sAIUz7TLJwe1HqY"
+        }
+      ],
+      "duration_ms": 388786,
+      "name": "Chandni Raatein",
+      "url": "https://open.spotify.com/track/0n3soc0bTxQslLiMpbgZyk"
     }
   ],
   "unique_name": "All Time Pakistani Hits",

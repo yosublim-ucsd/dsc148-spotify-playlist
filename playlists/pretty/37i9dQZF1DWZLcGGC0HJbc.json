@@ -1,13 +1,61 @@
 {
   "description": "Even alleen met de muziek zijn.",
-  "num_followers": 93325,
+  "num_followers": 93329,
   "original_name": "A Walk Alone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqNARgAAAAB925B0hU6RD3QVKBk/Ii67",
+  "snapshot_id": "Zqqz4AAAAADK03Au0rAqQsXu26il7xDX",
   "tracks": [
+    {
+      "added_at": "2024-07-26 06:20:54",
+      "album": {
+        "name": "Old Fashioned Parade",
+        "url": "https://open.spotify.com/album/2GnftziZGeLkdME4YYmzBR"
+      },
+      "artists": [
+        {
+          "name": "Bianca Steck",
+          "url": "https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ"
+        }
+      ],
+      "duration_ms": 198089,
+      "name": "Old Fashioned Parade",
+      "url": "https://open.spotify.com/track/4GF989jpzXhdUbDW8yGEO4"
+    },
+    {
+      "added_at": "2024-07-26 06:20:54",
+      "album": {
+        "name": "Aisle 6",
+        "url": "https://open.spotify.com/album/5uBb7hM05jypCsZo2Kd1ve"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "duration_ms": 185390,
+      "name": "Aisle 6",
+      "url": "https://open.spotify.com/track/6imuRuYPVTDg3XIKLrAuav"
+    },
+    {
+      "added_at": "2024-07-26 06:20:54",
+      "album": {
+        "name": "It Isn't Me",
+        "url": "https://open.spotify.com/album/2u8ZrvmRIfT9FzKgK66k95"
+      },
+      "artists": [
+        {
+          "name": "Douglas Firs",
+          "url": "https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4"
+        }
+      ],
+      "duration_ms": 164282,
+      "name": "It Isn't Me",
+      "url": "https://open.spotify.com/track/1bLF11yYGWJ2dthC7kIXjC"
+    },
     {
       "added_at": "2024-07-26 06:20:54",
       "album": {
@@ -43,22 +91,6 @@
     {
       "added_at": "2024-07-26 06:20:54",
       "album": {
-        "name": "Old Fashioned Parade",
-        "url": "https://open.spotify.com/album/2GnftziZGeLkdME4YYmzBR"
-      },
-      "artists": [
-        {
-          "name": "Bianca Steck",
-          "url": "https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ"
-        }
-      ],
-      "duration_ms": 198089,
-      "name": "Old Fashioned Parade",
-      "url": "https://open.spotify.com/track/4GF989jpzXhdUbDW8yGEO4"
-    },
-    {
-      "added_at": "2024-07-26 06:20:54",
-      "album": {
         "name": "it takes a long time to feel free",
         "url": "https://open.spotify.com/album/6NyDZz7SJAGHJp6W0roRPP"
       },
@@ -75,22 +107,6 @@
     {
       "added_at": "2024-07-26 06:20:54",
       "album": {
-        "name": "Aisle 6",
-        "url": "https://open.spotify.com/album/5uBb7hM05jypCsZo2Kd1ve"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 185390,
-      "name": "Aisle 6",
-      "url": "https://open.spotify.com/track/6imuRuYPVTDg3XIKLrAuav"
-    },
-    {
-      "added_at": "2024-07-26 06:20:54",
-      "album": {
         "name": "Glad You Did",
         "url": "https://open.spotify.com/album/7q9stc9skBvyNLron7OBLR"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 191613,
       "name": "Glad You Did",
       "url": "https://open.spotify.com/track/1DKLLuYIHZsI2uqrT1WjRZ"
-    },
-    {
-      "added_at": "2024-07-26 06:20:54",
-      "album": {
-        "name": "It Isn't Me",
-        "url": "https://open.spotify.com/album/2u8ZrvmRIfT9FzKgK66k95"
-      },
-      "artists": [
-        {
-          "name": "Douglas Firs",
-          "url": "https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4"
-        }
-      ],
-      "duration_ms": 164282,
-      "name": "It Isn't Me",
-      "url": "https://open.spotify.com/track/1bLF11yYGWJ2dthC7kIXjC"
     },
     {
       "added_at": "2024-07-26 06:20:54",

@@ -4,7 +4,7 @@
 
 > They say teamwork makes the dream work 🤝
 
-333 songs - 17 hr 55 min
+336 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Sad in the Summer \(feat\. Lily Rose\)](https://open.spotify.com/track/29Zod043iIX27WBv0duEDn) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg) | 3:21 | 2023-05-23 | 2024-05-24 |
 | [Same Beer Different Problem](https://open.spotify.com/track/2bLa8N2vtooX5Sc0r1NmzO) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Same Beer Different Problem](https://open.spotify.com/album/699sP9cMgoC77MayudRDkk) | 3:00 | 2022-05-26 | 2023-05-24 |
 | [Save Me](https://open.spotify.com/track/1rnYNAJPAb586NhetosdNW) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Self Medicated](https://open.spotify.com/album/5LtYMFZoC0elRSipbMV5sw) | 4:00 | 2022-05-26 | 2023-05-24 |
+| [Say Something \- Spotify Singles \(Live from Spotify House\)](https://open.spotify.com/track/7sXPuvRWsaOoUzno4NHXtt) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Say Something \- Spotify Singles \(Live from Spotify House\)](https://open.spotify.com/album/3ysOkwf6EyopPKqxGaj9Ls) | 3:34 | 2024-07-31 |  |
 | [Second Guessing](https://open.spotify.com/track/2ZTXbDrErq1NUMVJUrClpe) | [Griffen Palmer](https://open.spotify.com/artist/00b93R5OC1EHaBxEdQUfAQ) | [Unlearn](https://open.spotify.com/album/6xxVuTd7JuGPvDUr6Anf8t) | 3:09 | 2023-06-01 | 2024-05-24 |
 | [See You Next Summer](https://open.spotify.com/track/4UHcW6UABWfi7GwFI5jBcS) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Tennessee Truth](https://open.spotify.com/album/3JXT0VtuMwE4kdZh0KErF8) | 2:37 | 2024-05-23 | 2024-06-11 |
 | [Seeing Someone Else](https://open.spotify.com/track/0fgZNZZPgRy4PoU4moGtvi) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Seeing Someone Else](https://open.spotify.com/album/4oAvf42fOYgtFbVdoslw6n) | 3:26 | 2022-05-26 | 2023-05-24 |
@@ -288,6 +289,7 @@
 | [The Road](https://open.spotify.com/track/6IsIpPApmefLa6dfop4xYX) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [The Road](https://open.spotify.com/album/4wXPYoDHriG75HyGDPtXiq) | 4:28 | 2022-05-26 | 2023-05-24 |
 | [The Weekend](https://open.spotify.com/track/48tAdjG4ng2JfECa7OQujk) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [The Devil Don't Sleep](https://open.spotify.com/album/42YmulIH1BikBWdnqelvnb) | 3:07 | 2022-05-26 | 2023-05-24 |
 | [There Was This Girl](https://open.spotify.com/track/7grWGhX8SHNmyGOkMNVMCt) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:14 | 2022-05-26 | 2023-05-24 |
+| [There’s Your Trouble \- Spotify Singles \(Live from Spotify House\)](https://open.spotify.com/track/3XNThMhQwdrRvPax42wzKQ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [There’s Your Trouble \- Spotify Singles](https://open.spotify.com/album/3mdDFYUab8j947TvSXLeMC) | 3:11 | 2024-07-31 |  |
 | [These Days](https://open.spotify.com/track/1EEhU59CbUAW8TaLpxqNNZ) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Drinkin' Songs: The Collection](https://open.spotify.com/album/1NrOk9xRbIjuo17XiPOIuq) | 2:52 | 2022-05-26 | 2023-05-24 |
 | [Things A Man Oughta Know](https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 3:23 | 2022-05-26 | 2023-05-24 |
 | [Thinkin Bout Cheatin](https://open.spotify.com/track/2F1LDKuU8hULlUUXEfirdN) | [Mae Estes](https://open.spotify.com/artist/6352GDDDFjnbhNMDbCRIuX) | [Before the Record](https://open.spotify.com/album/7xBhOOo1DHoz6scABUlTKI) | 3:42 | 2023-06-01 | 2024-05-24 |
@@ -312,6 +314,7 @@
 | [Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [True Believers](https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8) | 4:58 | 2022-05-26 | 2023-05-24 |
 | [Wasted Prayers](https://open.spotify.com/track/1WvGfMf2HNlM6Rk9BbZSJx) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Wasted Prayers](https://open.spotify.com/album/5MvARiRgNiMgbxYWaX6EOa) | 3:24 | 2023-06-01 | 2024-05-24 |
 | [Wasted Prayers](https://open.spotify.com/track/1ueHPv2kx017YoF1kizVQ3) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Wasted Prayers](https://open.spotify.com/album/5tDfKw0zwUKKDRZEqsGdz3) | 3:24 | 2023-07-31 | 2024-04-19 |
+| [we can’t be friends \(wait for your love\) \- Spotify Singles \(Live from Spotify House\)](https://open.spotify.com/track/1KlElnmGdKIKpwt7dw49N3) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [we can’t be friends \(wait for your love\) \- Spotify Singles \(Live from Spotify House\)](https://open.spotify.com/album/47qJZGcFVszKNYUjEEPNz9) | 3:53 | 2024-07-31 |  |
 | [We Got History](https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [This Is the Heavy](https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS) | 3:23 | 2023-05-23 |  |
 | [Wedding or a Funeral](https://open.spotify.com/track/55GjJoCI3Qud9FpoyZBZls) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Wedding or a Funeral](https://open.spotify.com/album/0r28l8Sge3hgdRgplnCfj1) | 2:22 | 2024-05-23 |  |
 | [What Happens Now?](https://open.spotify.com/track/4cQ8Os8Gf1GgAkzoFQg8Az) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:33 | 2024-05-23 |  |
