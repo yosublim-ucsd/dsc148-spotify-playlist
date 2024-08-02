@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 35972,
+  "num_followers": 35980,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqgtAAAAAADR8Z9UpWqaQXvcklqTkvSP",
+  "snapshot_id": "Zql+gAAAAADPNv/xR7AIjzXGPyFMbbe+",
   "tracks": [
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 288080,
-      "name": "Slam (Angel Miners)",
-      "url": "https://open.spotify.com/track/3KdzzDeRqASjUuRkvft7Db"
+      "duration_ms": 233133,
+      "name": "California Halo Blue",
+      "url": "https://open.spotify.com/track/3mC4kKsdyjzVGpISqAnWnW"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 233133,
-      "name": "California Halo Blue",
-      "url": "https://open.spotify.com/track/3mC4kKsdyjzVGpISqAnWnW"
+      "duration_ms": 288080,
+      "name": "Slam (Angel Miners)",
+      "url": "https://open.spotify.com/track/3KdzzDeRqASjUuRkvft7Db"
     },
     {
       "added_at": null,
@@ -771,6 +771,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/02JHHLFl8FLvBU1QwQCeod"
+      },
+      "artists": [
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        },
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 155040,
+      "name": "Dark Matter",
+      "url": "https://open.spotify.com/track/34Urb4ACJPDLOkpGBgli2P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
       },
@@ -780,25 +800,9 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 292439,
-      "name": "Some Kind of Joke",
-      "url": "https://open.spotify.com/track/2VlHWRniOo0XzzXOfovzIA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Freaking Me Out",
-        "url": "https://open.spotify.com/album/6cnxGth7ym2xo7cPphvgE0"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 208230,
-      "name": "Freaking Me Out",
-      "url": "https://open.spotify.com/track/2EgCA8OSliOqPRn30n6XmQ"
+      "duration_ms": 191200,
+      "name": "Shoestrings",
+      "url": "https://open.spotify.com/track/0QvqrTGC7FSolbg8rQbHGa"
     },
     {
       "added_at": null,
@@ -843,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Freaking Me Out",
+        "url": "https://open.spotify.com/album/6cnxGth7ym2xo7cPphvgE0"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 208230,
+      "name": "Freaking Me Out",
+      "url": "https://open.spotify.com/track/2EgCA8OSliOqPRn30n6XmQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
       },
@@ -852,29 +872,9 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 191200,
-      "name": "Shoestrings",
-      "url": "https://open.spotify.com/track/0QvqrTGC7FSolbg8rQbHGa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/3ho4ck0V08Aetowu6YBYeS"
-      },
-      "artists": [
-        {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
-        },
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 155040,
-      "name": "Dark Matter",
-      "url": "https://open.spotify.com/track/3PvTeXRn3F1C0GWIGuTms7"
+      "duration_ms": 292439,
+      "name": "Some Kind of Joke",
+      "url": "https://open.spotify.com/track/2VlHWRniOo0XzzXOfovzIA"
     },
     {
       "added_at": null,

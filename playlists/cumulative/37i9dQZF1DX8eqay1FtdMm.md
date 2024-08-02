@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: SEO EUNKWANG\(서은광\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Sohyang\(소향\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-550 songs - 1 day 11 hr 58 min
+551 songs - 1 day 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,7 +426,7 @@
 | [Thank You](https://open.spotify.com/track/1xzC5lmJfG21PJBAeQaBam) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Favorite Winter](https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp) | 4:38 | 2022-12-14 | 2023-01-25 |
 | [The Destruction Of The Shell](https://open.spotify.com/track/62V1fAl9jYjZiXNuxuSoFI) | [N.EX.T](https://open.spotify.com/artist/1BvcPcQ3raChuHJcAJrvGy) | [The Return Of N.EX.T Pt\. 1 The Being](https://open.spotify.com/album/4hK0Hd9GwgldreY6AtH4JT) | 9:53 | 2024-05-29 | 2024-06-06 |
 | [the different way](https://open.spotify.com/track/4DWbNWDPmwahzwPtQN2Dtz) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [SHE](https://open.spotify.com/album/7ru2skAL25CnTn4Y8Tg0QY) | 3:37 | 2024-01-12 | 2024-02-09 |
-| [The Eternal Moment](https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Red Moon: Beyond The Light](https://open.spotify.com/album/5Id1UecoJT2agC8uag0jL6) | 4:04 | 2021-12-20 |  |
+| [The Eternal Moment](https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Red Moon: Beyond The Light](https://open.spotify.com/album/5Id1UecoJT2agC8uag0jL6) | 4:04 | 2021-12-20 | 2024-08-02 |
 | [The Gift](https://open.spotify.com/track/2PTnOo4kxWsyTlRc3hwiBo) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [The Gift](https://open.spotify.com/album/5Bkjj4PGtK7078kTvQhvXS) | 3:46 | 2022-01-27 | 2022-07-22 |
 | [The Leopard of Killimanjaro](https://open.spotify.com/track/5PIr3ZJAhdAbWJx0f3Qoc3) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [Through The Darkness OST Part.4](https://open.spotify.com/album/4udEUd1K2GcbAgw8VUufEO) | 4:21 | 2022-03-21 | 2022-06-12 |
 | [The Letter](https://open.spotify.com/track/761kP7yDzrhyFjn6Og7Piz) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [\[Vol.7\] You Hee yul's Sketchbook 10th Anniversary Project : 3rd Voice 'Sketchbook X Yang Da Il'](https://open.spotify.com/album/0ATgzdCJ5ykg7KF3YcMtD4) | 5:05 | 2021-12-27 | 2022-07-05 |
@@ -449,6 +449,7 @@
 | [This is me](https://open.spotify.com/track/2VnAN5tR2Y4raaPcAEFE9u) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [멜로디책방 Part 6](https://open.spotify.com/album/1WIfzWPSJiACHtURL458Xt) | 3:02 | 2021-12-20 | 2022-04-21 |
 | [This Song](https://open.spotify.com/track/7GyKbTE1bVgWXr3tiqp3H1) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [This Song](https://open.spotify.com/album/7mS4NsnK5NSwh5e3HEzyYP) | 5:11 | 2021-12-27 | 2022-06-27 |
 | [Through the Night](https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Through the Night](https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld) | 4:13 | 2021-12-20 |  |
+| [Til You Love Me Again](https://open.spotify.com/track/6kG4Yi4Rc0J89uO6XjXRkP) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [Til You Love Me Again](https://open.spotify.com/album/6OaslAXGQ01iqNXx816Qeo) | 4:43 | 2024-08-01 |  |
 | [TIME](https://open.spotify.com/track/0OtneDXQUyQeYyaCJNwcQi) | [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x) | [Now On, Showtime! \(Original Television Soundtrack\) \- 'TIME'](https://open.spotify.com/album/3DVBKjlaEM1nYLh6h3Uz6X) | 3:36 | 2022-05-03 | 2022-05-12 |
 | [Time Spent Walking Through Memories \(Feat\. 10CM\)](https://open.spotify.com/track/484dgUyawknLkNyQfXoDkh) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Memories](https://open.spotify.com/album/38BploYaSSuEFrk7974uX1) | 3:34 | 2023-09-11 | 2023-12-02 |
 | [Time Will Tell](https://open.spotify.com/track/6tW1aWmAspjwqkdBKOn9uV) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Circular](https://open.spotify.com/album/4lRCZxpFrnsWWdeT0T0qVn) | 4:23 | 2022-04-01 | 2022-04-16 |

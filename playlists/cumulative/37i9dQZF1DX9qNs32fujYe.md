@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Powerwolf
 
-927 songs - 2 day 20 hr 10 min
+928 songs - 2 day 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [Hellbreaker](https://open.spotify.com/track/2s79XUW9f2VTs3Jgs1tzJP) | [Motorjesus](https://open.spotify.com/artist/5ZD2aRanslnMOZ7EO9Onde) | [Hellbreaker](https://open.spotify.com/album/4tN4z7UnYMD8ENTHX0z9ZW) | 4:07 | 2021-12-17 | 2022-07-28 |
 | [Hellfire Thunderbolt](https://open.spotify.com/track/008eogHQPXUzUuIURJoZuJ) | [KK's Priest](https://open.spotify.com/artist/0bDUXDIVbwZC0NVw26b4D3) | [Hellfire Thunderbolt](https://open.spotify.com/album/0uzXsHn4u4M052Ok4Vfz2u) | 3:49 | 2021-12-17 | 2022-07-27 |
 | [Hephaistos](https://open.spotify.com/track/29pGGSryvaKUklXcCkpiBI) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E) | [Hephaistos](https://open.spotify.com/album/0DIvSc4l7bbgBlpi479nQI) | 4:06 | 2021-12-17 | 2022-07-27 |
+| [Heroes](https://open.spotify.com/track/2PlPpcspUIj23Jh1chR46K) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Heroes](https://open.spotify.com/album/2nFATbGbMdVWFd9OdtLLsN) | 3:45 | 2024-08-01 |  |
 | [Heroes Are Calling](https://open.spotify.com/track/0QOEWQEowuJUz7LRIe3F6b) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heroes Are Calling](https://open.spotify.com/album/5vTfNc6mJuhXr2O3UIER3e) | 2:59 | 2024-04-19 |  |
 | [Higher](https://open.spotify.com/track/00U3KfqUWAsJV8GE2mi14b) | [NorthTale](https://open.spotify.com/artist/0cxYOcvgOWW1MJEoWeuCvg) | [Higher](https://open.spotify.com/album/3pp9yIzgFspykfMxcUhf54) | 3:45 | 2021-12-17 | 2022-04-21 |
 | [Highlander \- English Version](https://open.spotify.com/track/6pihX9dY5MGrWIXNk2qqys) | [Feuerschwanz](https://open.spotify.com/artist/2Ct54gNxKnYLnXk9HhviMI) | [Highlander](https://open.spotify.com/album/3hkHaaVtwSP3sWoQsj1mA5) | 3:19 | 2024-03-08 | 2024-06-24 |
@@ -624,7 +625,7 @@
 | [Rankarumpu](https://open.spotify.com/track/5Hvhu1kJEcP90itIQSbn5f) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy) | [Rankarumpu](https://open.spotify.com/album/6qHZPsB4nMMI602L2iJ4pK) | 2:43 | 2024-04-05 |  |
 | [Raven's Flight](https://open.spotify.com/track/0Ov6o6FSQLOlllOm10ESwQ) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Berserker](https://open.spotify.com/album/0svoIboyRzqgRpvBDbJtUE) | 5:20 | 2021-12-17 | 2022-07-26 |
 | [Re\-Vision](https://open.spotify.com/track/7oH5PloCvUrTxcaRBgsZBa) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Re\-Vision](https://open.spotify.com/album/3cZYVDFa2tUQUif0YxklQG) | 3:04 | 2024-01-26 | 2024-04-20 |
-| [Ready for War](https://open.spotify.com/track/2wHyS4cZZlyvu0QRn2C9kr) | [Onlap](https://open.spotify.com/artist/5vkIUHgmiNIPn4Beoh2QPc) | [Waves](https://open.spotify.com/album/04VYNvlmq2CWrCXLKFDtjL) | 4:24 | 2024-06-21 |  |
+| [Ready for War](https://open.spotify.com/track/2wHyS4cZZlyvu0QRn2C9kr) | [Onlap](https://open.spotify.com/artist/5vkIUHgmiNIPn4Beoh2QPc) | [Waves](https://open.spotify.com/album/04VYNvlmq2CWrCXLKFDtjL) | 4:24 | 2024-06-21 | 2024-08-02 |
 | [Reaggression](https://open.spotify.com/track/0Q81O7nuF9F1WxAyQ8UtEJ) | [Flotsam & Jetsam](https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz) | [Blood in the Water](https://open.spotify.com/album/6pNMEpHq9E6z40Miw7l9Ax) | 4:10 | 2021-12-17 | 2022-07-28 |
 | [Reap What You Sow](https://open.spotify.com/track/1R4a0l8uoZydhxVCgmmjCr) | [Jaded Heart](https://open.spotify.com/artist/2T5aannIdmhbbNMF0Eap4u) | [Reap What You Sow](https://open.spotify.com/album/0gGaqrXAa5X8C4XjTBYr21) | 3:06 | 2022-01-14 | 2022-04-15 |
 | [Rebellion \(The Clans Are Marching\) \- Remastered Version](https://open.spotify.com/track/1P5B3ARqjPkB9yCNPZq9jV) | [Grave Digger](https://open.spotify.com/artist/6mfghV4I1CD17FOhDKq7cJ) | [Tunes Of War \(Remastered 2006\)](https://open.spotify.com/album/4ZNfzHslrjITU8iqfzCAL8) | 4:04 | 2021-12-17 | 2024-04-20 |

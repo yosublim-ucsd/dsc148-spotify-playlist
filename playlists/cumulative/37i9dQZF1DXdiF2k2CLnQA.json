@@ -172,7 +172,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 186905,
       "name": "ANGEL SONG (feat. David Draiman)",
       "url": "https://open.spotify.com/track/2P8gpYwOOL37vKoDqCFXS9"
@@ -212,6 +212,24 @@
       "duration_ms": 307333,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/0ZxfEDSNGmttbh6tL0LuBb"
+    },
+    {
+      "album": {
+        "name": "Birthday",
+        "url": "https://open.spotify.com/album/41iAihj3VUoUpOLRMReypO"
+      },
+      "artists": [
+        {
+          "name": "Blues Pills",
+          "url": "https://open.spotify.com/artist/2lmQ4CUnjmLIIfnwZdRmMY"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205990,
+      "name": "Bad Choices",
+      "url": "https://open.spotify.com/track/4owIs1SnK0EtEY0nOOQFUj"
     },
     {
       "album": {
@@ -356,7 +374,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 296131,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/6uMpIkuSzk6iRmtzS9TIPR"
@@ -457,6 +475,24 @@
     },
     {
       "album": {
+        "name": "Dream Stealer",
+        "url": "https://open.spotify.com/album/6XEYQ3lAGzmK2JtT5ADpld"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269853,
+      "name": "Dream Stealer",
+      "url": "https://open.spotify.com/track/5oQHPf5TmzfR55syUrSIeR"
+    },
+    {
+      "album": {
         "name": "Empire",
         "url": "https://open.spotify.com/album/4AWRm5AIt0KJoo7RIH0dVp"
       },
@@ -468,7 +504,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 260859,
       "name": "Empire",
       "url": "https://open.spotify.com/track/0kbdnyL1f91rMM0eSyjqMm"
@@ -634,7 +670,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 241773,
       "name": "Get a Grip",
       "url": "https://open.spotify.com/track/2tGrdc5Hryxq2dIiSS1egV"
@@ -688,10 +724,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 272467,
       "name": "Hail To The King",
       "url": "https://open.spotify.com/track/6jlcTlI4CD4TxOCbdQPa4l"
+    },
+    {
+      "album": {
+        "name": "Mister Misery",
+        "url": "https://open.spotify.com/album/6fKArz5J5tdK4eSFEe7YDF"
+      },
+      "artists": [
+        {
+          "name": "Mister Misery",
+          "url": "https://open.spotify.com/artist/6Dj5ptalBwr1kD35IljMeg"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209368,
+      "name": "Haters",
+      "url": "https://open.spotify.com/track/31I91d5SGQt7hEyZgz8Ng3"
     },
     {
       "album": {
@@ -724,7 +778,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 179976,
       "name": "Heroes Are Calling",
       "url": "https://open.spotify.com/track/0QOEWQEowuJUz7LRIe3F6b"
@@ -767,6 +821,28 @@
     },
     {
       "album": {
+        "name": "Hosting the Shadow (feat. Randy Blythe)",
+        "url": "https://open.spotify.com/album/0KP2z07uVLOhT0pUHL8enr"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        },
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261213,
+      "name": "Hosting the Shadow (feat. Randy Blythe)",
+      "url": "https://open.spotify.com/track/5kGYXoTex44RouWpcc6MD0"
+    },
+    {
+      "album": {
         "name": "Hung Up",
         "url": "https://open.spotify.com/album/2Wr2NYshHbYFGGEuhnlqKN"
       },
@@ -796,7 +872,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 189600,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/4AbOnVhLJh4eR4xp1cLxCQ"
@@ -904,7 +980,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 245240,
       "name": "Jesus He Knows Me",
       "url": "https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP"
@@ -958,10 +1034,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 258573,
       "name": "Lazerlove",
       "url": "https://open.spotify.com/track/7rMAh5pNlYmkNGn1kTByol"
+    },
+    {
+      "album": {
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172506,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI"
     },
     {
       "album": {
@@ -1048,7 +1142,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 214053,
       "name": "Make It All Right",
       "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
@@ -1084,7 +1178,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 210877,
       "name": "Metal Gods",
       "url": "https://open.spotify.com/track/5HvXKqvNY52gHBHDSw4O2r"
@@ -1182,7 +1276,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 212706,
       "name": "Pain In Every Way",
       "url": "https://open.spotify.com/track/7MhqFkmXyoGWLMSS0Zoc2W"
@@ -1572,7 +1666,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 222705,
       "name": "The Doomsday Clock",
       "url": "https://open.spotify.com/track/3JckPqchoAniLrxyRiq82j"
@@ -1662,7 +1756,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 223631,
       "name": "The House That Jack Built",
       "url": "https://open.spotify.com/track/4uR8xYi87Ld7i3vrPAv3A0"
@@ -1788,7 +1882,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 206218,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/6PA4LL6g9HxAa9lfBl1Ttp"
@@ -1806,7 +1900,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 255706,
       "name": "What's The Point",
       "url": "https://open.spotify.com/track/6pkmsBSvrgzFgkIIMQJxVw"
@@ -1824,7 +1918,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 220413,
       "name": "Wow! Wow! Wow!",
       "url": "https://open.spotify.com/track/65UAJffAS7gUxrqYBIqrU2"
@@ -1842,10 +1936,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 300487,
       "name": "Wreckage",
       "url": "https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB"
+    },
+    {
+      "album": {
+        "name": "\u00a71 (Radio Edit)",
+        "url": "https://open.spotify.com/album/3OK5MthdysdgLjnK6Un45k"
+      },
+      "artists": [
+        {
+          "name": "Opeth",
+          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286173,
+      "name": "\u00a71 - Radio Edit",
+      "url": "https://open.spotify.com/track/1wkWkXCdHR4nGViHA3I9Yc"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdiF2k2CLnQA"

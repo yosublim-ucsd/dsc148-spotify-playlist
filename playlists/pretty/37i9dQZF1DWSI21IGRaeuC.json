@@ -1,6 +1,6 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 38047,
+  "num_followers": 38077,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Supermodel Thick",
+        "url": "https://open.spotify.com/album/1WBrocFNoWaAwV1n7y4UTo"
+      },
+      "artists": [
+        {
+          "name": "Jho Roscioli",
+          "url": "https://open.spotify.com/artist/1YyeTuJ8IrPSpPiZMq0rhH"
+        }
+      ],
+      "duration_ms": 326357,
+      "name": "Supermodel Thick",
+      "url": "https://open.spotify.com/track/4czwcLS8x96vBcCDAFBeKv"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Un Beso",
         "url": "https://open.spotify.com/album/71dCpK7C3y77Ku9tbu7YwZ"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 417145,
       "name": "I Am Somebody",
       "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Supermodel Thick",
-        "url": "https://open.spotify.com/album/1WBrocFNoWaAwV1n7y4UTo"
-      },
-      "artists": [
-        {
-          "name": "Jho Roscioli",
-          "url": "https://open.spotify.com/artist/1YyeTuJ8IrPSpPiZMq0rhH"
-        }
-      ],
-      "duration_ms": 326357,
-      "name": "Supermodel Thick",
-      "url": "https://open.spotify.com/track/4czwcLS8x96vBcCDAFBeKv"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Amused EP",
-        "url": "https://open.spotify.com/album/71ViKLNXZ55srxn3MZN4Js"
-      },
-      "artists": [
-        {
-          "name": "Havoc & Lawn",
-          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Amused",
-      "url": "https://open.spotify.com/track/6HwWPFDSqwHiWdjCdHHi6G"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Vamo",
         "url": "https://open.spotify.com/album/5fpcn6vdsxTyh1m3XmGDHA"
       },
@@ -1731,6 +1715,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Amused EP",
+        "url": "https://open.spotify.com/album/71ViKLNXZ55srxn3MZN4Js"
+      },
+      "artists": [
+        {
+          "name": "Havoc & Lawn",
+          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Amused",
+      "url": "https://open.spotify.com/track/6HwWPFDSqwHiWdjCdHHi6G"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "YAP EP",
         "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
       },
@@ -1743,30 +1743,6 @@
       "duration_ms": 246474,
       "name": "YAP",
       "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "You\u00b4re So Just Just",
-        "url": "https://open.spotify.com/album/3x4oMcvGVAT0Eomho0KAGX"
-      },
-      "artists": [
-        {
-          "name": "Rework",
-          "url": "https://open.spotify.com/artist/626m9wrDRLw3o3quwRrafu"
-        },
-        {
-          "name": "Seth Troxler",
-          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
-        },
-        {
-          "name": "Ryan Crosson",
-          "url": "https://open.spotify.com/artist/5ZJEkLV6krzRy59l6dlYJx"
-        }
-      ],
-      "duration_ms": 417300,
-      "name": "You're So Just Just - Seth Troxler x Ryan Crosson Remix",
-      "url": "https://open.spotify.com/track/1rXWi5LOQTes7AHv4JiP1f"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1803,6 +1779,30 @@
       "duration_ms": 150644,
       "name": "Wyle Up",
       "url": "https://open.spotify.com/track/5KhuJU1rzOCbzdw7w8y02W"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "You\u00b4re So Just Just",
+        "url": "https://open.spotify.com/album/3x4oMcvGVAT0Eomho0KAGX"
+      },
+      "artists": [
+        {
+          "name": "Rework",
+          "url": "https://open.spotify.com/artist/626m9wrDRLw3o3quwRrafu"
+        },
+        {
+          "name": "Seth Troxler",
+          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
+        },
+        {
+          "name": "Ryan Crosson",
+          "url": "https://open.spotify.com/artist/5ZJEkLV6krzRy59l6dlYJx"
+        }
+      ],
+      "duration_ms": 417300,
+      "name": "You're So Just Just - Seth Troxler x Ryan Crosson Remix",
+      "url": "https://open.spotify.com/track/1rXWi5LOQTes7AHv4JiP1f"
     }
   ],
   "unique_name": "Minimal Tech",

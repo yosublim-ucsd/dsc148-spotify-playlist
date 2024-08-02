@@ -4,7 +4,7 @@
 
 > What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! A predicttion playlist that also Includes Summer 2023 edition &amp; bonus tracks.
 
-3,676 songs - 8 day 15 hr 22 min
+3,678 songs - 8 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1145,6 +1145,7 @@
 | [For Love](https://open.spotify.com/track/7zSS9Z6V4Mwvx9xcaCdeHf) | [Antone](https://open.spotify.com/artist/1oNWLC92WftObvYoV5HpYN) | [For Love](https://open.spotify.com/album/526A6Ct8ixrJWodK2OdqYl) | 4:36 | 2023-08-22 | 2023-09-01 |
 | [For The Money](https://open.spotify.com/track/2dGYoVUGSIJXwhV8yHbXWp) | [Jaymie Deville](https://open.spotify.com/artist/18JfXVpoIu9X7IDN9u5Jwx) | [For The Money](https://open.spotify.com/album/6T2suPHv0O76sz2JCt6WhV) | 2:53 | 2020-05-08 | 2020-05-24 |
 | [For What It's Worth](https://open.spotify.com/track/2ZBwoldduPeQoXBWePnrYV) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [For What It's Worth](https://open.spotify.com/album/4pNtsSNcYf87OeQPUALNaR) | 3:10 | 2020-08-20 | 2023-08-28 |
+| [For What?](https://open.spotify.com/track/1yKDheHjRsMOugDSA2edJn) | [Anais Chantal](https://open.spotify.com/artist/053jjj6s5jNLvPEA4HblcU) | [Recipe](https://open.spotify.com/album/1jvJ40I0ioAVt2IziPKnm0) | 3:15 | 2024-08-01 |  |
 | [For You](https://open.spotify.com/track/0IjErhFzJGqXZ8jSgNTJ3t) | [Bryana Helena](https://open.spotify.com/artist/6xwMwJ8TJmDuxKLdX01Jvd) | [For You](https://open.spotify.com/album/0Yil0po4CZ0vqPFwiIsRPv) | 3:31 | 2024-02-20 | 2024-02-28 |
 | [For You](https://open.spotify.com/track/726h3Tn8sodAzPz6FVCraT) | [Sheldon Ferguson](https://open.spotify.com/artist/3tnuhB00OI05TfyLPpKN1I), [Drew Harmony](https://open.spotify.com/artist/13rJ0mJNZbRE6ykLwgi8iu) | [Prelude](https://open.spotify.com/album/6hk2VxGBABQ8EOq7L7spPP) | 3:20 | 2019-11-03 | 2019-11-24 |
 | [For Your Love](https://open.spotify.com/track/5ED36ctggkVCfKRKuNml8O) | [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [For Your Love](https://open.spotify.com/album/7pXp13wiHydzfejBQq9obb) | 4:27 | 2020-12-20 | 2021-01-06 |
@@ -1760,7 +1761,7 @@
 | [Lady Lady Lady \- Acoustic](https://open.spotify.com/track/630MyFOvn0Ik3LpyLZyyTE) | [Sean Kool](https://open.spotify.com/artist/7L3wTnkJU2jSzeOyX30nKR) | [Lady Lady Lady \(Acoustic\)](https://open.spotify.com/album/2smTy9OWQjLXJsZt3MjY5K) | 5:04 | 2022-03-11 | 2022-03-31 |
 | [Lady Luck](https://open.spotify.com/track/3fVcdqx80sdILBkrgHTjmV) | [Luke Morris](https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi) | [Lady Luck](https://open.spotify.com/album/3FuNUW8290xWKBrmnXEwyq) | 4:41 | 2021-02-06 | 2021-02-20 |
 | [Lana Del Rey](https://open.spotify.com/track/7dxPX2S5jh5yqS5QqIy1NP) | [Akili Ni Mali](https://open.spotify.com/artist/0EFDRfMFz6WJAMpEC2nBcG) | [Lana Del Rey](https://open.spotify.com/album/5Su9D7P4sI61Zuszz6I5WF) | 4:17 | 2023-09-09 | 2023-12-14 |
-| [Landslide \- Live](https://open.spotify.com/track/5LPLCJpfHQaBuwYRseaicK) | [Niesja](https://open.spotify.com/artist/2vZ8xAYDRj9itu0vLpmB4R) | [Landslide \(Live\)](https://open.spotify.com/album/2ne0oFv8OlmQQsej6CEeg4) | 5:23 | 2024-07-21 |  |
+| [Landslide \- Live](https://open.spotify.com/track/5LPLCJpfHQaBuwYRseaicK) | [Niesja](https://open.spotify.com/artist/2vZ8xAYDRj9itu0vLpmB4R) | [Landslide \(Live\)](https://open.spotify.com/album/2ne0oFv8OlmQQsej6CEeg4) | 5:23 | 2024-07-21 | 2024-08-02 |
 | [Larga Vida](https://open.spotify.com/track/77s5oCZ0eI59BygbuicR4W) | [Xavi Jordan](https://open.spotify.com/artist/5H1dqpna1LZM58Estbgg6B) | [Larga Vida](https://open.spotify.com/album/1OJa8YSZ5UYW7wb5K6K6yv) | 2:22 | 2023-08-27 | 2023-09-26 |
 | [Las Grandes Bañistas](https://open.spotify.com/track/1a0bNJu5SZKoxZB4IXUUbA) | [Xackal](https://open.spotify.com/artist/6I8vp2QeDqh8HDpUP1ZjpB) | [Las Grandes Bañistas](https://open.spotify.com/album/5OpYJcsXKiKmbvykoTEviR) | 3:41 | 2020-12-11 | 2020-12-26 |
 | [Las Vegas Will You Marry Me](https://open.spotify.com/track/33xZh3jEHKNIWCTmvvyL81) | [Dennis Bono](https://open.spotify.com/artist/2PNqDNuYzvppDUV0tKHJT9), [Dan Slider & The Vegas Headliner Big Band](https://open.spotify.com/artist/0zGQ8R1ViCcF5nYCg8DMmj) | [Las Vegas Will You Marry Me](https://open.spotify.com/album/07PoqhcscnvZxIGV34j75B) | 2:58 | 2023-06-13 | 2023-06-27 |
@@ -3247,6 +3248,7 @@
 | [Tie Dye](https://open.spotify.com/track/6ZxZOd4DlZe4QjKRomAyRa) | [BVDHI](https://open.spotify.com/artist/4TNhxa3GHw0Fi0gBODRdES) | [Tie Dye](https://open.spotify.com/album/40E6nmBI9QotYRWQttJTbq) | 3:27 | 2024-02-14 | 2024-02-26 |
 | [Tiger Stripes](https://open.spotify.com/track/2rtu9krlsAiVFlshbnpi4F) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [Tiger Stripes](https://open.spotify.com/album/5R5dXGurhNE129cI5SUBuz) | 3:16 | 2021-10-22 | 2022-01-09 |
 | [Tight Dress](https://open.spotify.com/track/0JoeGZ7DTdEIqc0HXDIIE9) | [Calimar](https://open.spotify.com/artist/41y0PB4FjGdsHB7y7izHZh) | [Tight Dress](https://open.spotify.com/album/7uoaULjzVQxccf0krQAnwT) | 3:52 | 2023-03-04 | 2023-03-29 |
+| [Til My Dying Day](https://open.spotify.com/track/7tBu9Cw1GSNKziwbDQJWmY) | [Mike Cavanaugh](https://open.spotify.com/artist/4LDBs5aidl2cZ5WOvJ8u7X) | [Til My Dying Day](https://open.spotify.com/album/2xJl1M93lRGFFYQHTtqFSE) | 3:39 | 2024-08-01 |  |
 | [Till Death Do Us Part](https://open.spotify.com/track/2CNvda3yzlwNuYnUtru0Lt) | [Anthony Bond](https://open.spotify.com/artist/2Bed1ilbSEnR29J7BXw2l3) | [Till Death Do Us Part](https://open.spotify.com/album/7nro3uUerblHDxzpFhUHvU) | 2:56 | 2023-03-04 | 2023-03-29 |
 | [Time](https://open.spotify.com/track/5KtIbToah0ZWXDQ1qBFOcr) | [Khalia](https://open.spotify.com/artist/5uA8O34StZ6xb6rFLKXgZR), [ZJ Sparks](https://open.spotify.com/artist/3KfenkrbzqCZcJTA49nShf), [Loud City](https://open.spotify.com/artist/32qMqnULiJK7mNiYKrx3P1) | [Time](https://open.spotify.com/album/0zYC1DJFYLnpM1cZzqYi1f) | 3:20 | 2022-12-11 | 2023-01-03 |
 | [Time](https://open.spotify.com/track/1tCVaXCM7eDo7SIlogAuMT) | [Sol Y Motion](https://open.spotify.com/artist/24AY9nmcbCmv0EHlXmE01o) | [Time](https://open.spotify.com/album/21BSeaOQbd98648kmYd5yu) | 4:35 | 2022-09-02 | 2022-09-18 |

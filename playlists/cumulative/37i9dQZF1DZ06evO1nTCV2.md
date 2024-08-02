@@ -2,9 +2,9 @@
 
 ### [This Is Ryan Adams](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1nTCV2)
 
-> This is Ryan Adams\. The essential tracks, all in one playlist.
+> This Is Ryan Adams\. Sus mejores éxitos, todos en una playlist.
 
-217 songs - 13 hr 17 min
+218 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Ashes And Fire \- Live at Carnegie Hall, May 14\. 2022](https://open.spotify.com/track/1aI3MHzQFVgWJey2T4pBTG) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Return to Carnegie Hall](https://open.spotify.com/album/2owktfAn8N3ZeiQl75G58Q) | 3:54 | 2023-08-27 | 2024-01-04 |
 | [At Home with the Animals](https://open.spotify.com/track/5KvE3LLB8ZpHMM3iGC7diz) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 3:54 | 2022-08-03 | 2022-08-05 |
 | [Atlantic City](https://open.spotify.com/track/58D6qBdHSRzRklrlyH81H8) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Nebraska](https://open.spotify.com/album/4Rb3ltIWEi0OnVNNv03RHh) | 3:59 | 2023-01-07 | 2024-01-05 |
+| [Atlantic City \- Live from Red Bank, NJ\. 2023](https://open.spotify.com/track/5BGEiUpMYYA29Utvp0yPrQ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Livin' On A Prayer \(Live from Red Bank, NJ\. 2023\)](https://open.spotify.com/album/4zuRLz6Ot2IiSiRjErQ8qL) | 3:58 | 2024-08-02 |  |
 | [Avalanche](https://open.spotify.com/track/5R1vxqzPxyA31YODI5nRIR) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:06 | 2022-01-16 | 2022-05-17 |
 | [Baby I Love You](https://open.spotify.com/track/1npZLnadIut8UfjsqYSOBh) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Baby I Love You](https://open.spotify.com/album/0jeQl3GruPQyRKe0h4wU8a) | 3:24 | 2022-01-11 | 2022-03-31 |
 | [Bad Blood](https://open.spotify.com/track/0Pq0pa6k5m7D3mUG1nFQwi) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 3:55 | 2022-01-11 |  |
@@ -161,7 +162,7 @@
 | [Runaway Train \- Live from Minneapolis, MN\. 2022.](https://open.spotify.com/track/2ZLRiipzf76aJeuFZRrYSc) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Runaway Train \(Live from Minneapolis, MN\. 2022.\)](https://open.spotify.com/album/6U26PW2LjoFnSS9VTehfRR) | 3:57 | 2024-05-13 | 2024-07-23 |
 | [Schizophrenic Babylon](https://open.spotify.com/track/4kbX5HsIZ3bks6pwHE1pO1) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 2:21 | 2022-04-06 | 2022-05-31 |
 | [Self Defense](https://open.spotify.com/track/7LU42REV9PNkZfnivCckZb) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Star Sign](https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS) | 3:40 | 2024-01-17 | 2024-05-11 |
-| [Severance \- Live from Edmonton, Al\. 2023](https://open.spotify.com/track/5zuIFRKFtKj0NoIdsVDXkF) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Severance \(Live From Edmonton, AL\. 2023\)](https://open.spotify.com/album/0oAC1zUkG5iHxqgqsqodhz) | 4:06 | 2024-06-23 |  |
+| [Severance \- Live from Edmonton, Al\. 2023](https://open.spotify.com/track/5zuIFRKFtKj0NoIdsVDXkF) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Severance \(Live From Edmonton, AL\. 2023\)](https://open.spotify.com/album/0oAC1zUkG5iHxqgqsqodhz) | 4:06 | 2024-06-23 | 2024-08-02 |
 | [Shake It Off](https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 4:06 | 2022-01-12 |  |
 | [She's Electric](https://open.spotify.com/track/5OWANrISXNvKurp0owtdtC) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Morning Glory](https://open.spotify.com/album/7IlQpxt7VLEUVgh4eSRFAO) | 4:36 | 2023-04-18 | 2023-07-10 |
 | [Shine Through the Dark](https://open.spotify.com/track/2EcmwoX8991c6taoaUqyz4) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Live from Nowhere Near You, Vol\. II](https://open.spotify.com/album/5CFonSO5h0obDN2LLYHqXw) | 2:37 | 2023-06-11 | 2023-11-11 |

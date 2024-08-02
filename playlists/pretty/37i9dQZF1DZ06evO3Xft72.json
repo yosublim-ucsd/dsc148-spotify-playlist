@@ -1,12 +1,12 @@
 {
-  "description": "This is Def Leppard. The essential tracks, all in one playlist.",
-  "num_followers": 275387,
+  "description": "This is Def Leppard. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 275446,
   "original_name": "This Is Def Leppard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqgtAAAAAAC+NA7eHkovnCRIcTAJd5bZ",
+  "snapshot_id": "Zql+gAAAAAD3ksBkpZCu98Tvh00xyNX2",
   "tracks": [
     {
       "added_at": null,
@@ -359,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pyromania",
+        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 254501,
+      "name": "Comin' Under Fire",
+      "url": "https://open.spotify.com/track/3uzikCqfwbnNJ8JhtcJTVP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Just Like 73 (Tom Morello Version)",
         "url": "https://open.spotify.com/album/7afy0Ytt67hzFxYlLzmKyq"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 223133,
       "name": "Just Like 73 - Tom Morello Version",
       "url": "https://open.spotify.com/track/11DxHa7QIQ5NfdiHstN2O2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pyromania",
-        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 254501,
-      "name": "Comin' Under Fire",
-      "url": "https://open.spotify.com/track/3uzikCqfwbnNJ8JhtcJTVP"
     },
     {
       "added_at": null,
@@ -627,30 +627,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drastic Symphonies",
-        "url": "https://open.spotify.com/album/3PDLbK0bOItRcERH1ScztR"
+        "name": "Slang (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3LpT9dg2VmGmWd57TNKxl7"
       },
       "artists": [
         {
           "name": "Def Leppard",
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        },
-        {
-          "name": "Robert Ziegler",
-          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
-        },
-        {
-          "name": "Ian Maclay",
-          "url": "https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS"
         }
       ],
-      "duration_ms": 355972,
-      "name": "Hysteria",
-      "url": "https://open.spotify.com/track/1xr60ad0ceUktHQ1qDn44Q"
+      "duration_ms": 320164,
+      "name": "All I Want Is Everything",
+      "url": "https://open.spotify.com/track/4AxFwURtLHp0P65wO8glIV"
     },
     {
       "added_at": null,
@@ -687,6 +675,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Drastic Symphonies",
+        "url": "https://open.spotify.com/album/3PDLbK0bOItRcERH1ScztR"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        },
+        {
+          "name": "Ian Maclay",
+          "url": "https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS"
+        }
+      ],
+      "duration_ms": 355972,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/1xr60ad0ceUktHQ1qDn44Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slang (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3LpT9dg2VmGmWd57TNKxl7"
       },
@@ -696,9 +712,9 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 320164,
-      "name": "All I Want Is Everything",
-      "url": "https://open.spotify.com/track/4AxFwURtLHp0P65wO8glIV"
+      "duration_ms": 157841,
+      "name": "Slang",
+      "url": "https://open.spotify.com/track/3hmvOZ03dCWNTX1bB9k2gI"
     },
     {
       "added_at": null,
@@ -747,22 +763,6 @@
       "duration_ms": 217799,
       "name": "Tear It Down",
       "url": "https://open.spotify.com/track/3pH9Vu1LNBXMUptZbmipFF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slang (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3LpT9dg2VmGmWd57TNKxl7"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 157841,
-      "name": "Slang",
-      "url": "https://open.spotify.com/track/3hmvOZ03dCWNTX1bB9k2gI"
     },
     {
       "added_at": null,

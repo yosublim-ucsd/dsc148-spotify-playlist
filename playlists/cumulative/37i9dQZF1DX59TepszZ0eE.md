@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx?si=CtHImU\_HR3aNPd5uZmAMUQ>Lebo Sekgobela</a>
 
-296 songs - 1 day 6 hr 28 min
+298 songs - 1 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,9 +167,11 @@
 | [Ngithol’ uMhlobo \(Live\)](https://open.spotify.com/track/2Uzyf7cUYKJdkYaDGYvmgn) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [Spirit Of Praise, Vol\. 9 \(Live\)](https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv) | 8:33 | 2023-09-15 | 2024-02-02 |
 | [Ngiyamazi Umhlengi Wami \- Live At Cedarwoods of Sandton, 2023](https://open.spotify.com/track/2kUmCaHL6wXqq9CgTpqCBG) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Ngiyamazi Umhlengi Wam \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/3746LVUDdq2j4dzJAyZVbG) | 3:59 | 2024-02-23 |  |
 | [Ngiyazi uMhlengi Wami \(Deluxe\) \- Live](https://open.spotify.com/track/7kZjl6ZYdTgZ8rJ0a7a1RM) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Ngiyazi uMhlengi Wami \(Deluxe\) \[Live\]](https://open.spotify.com/album/58a7JZmLzeiZIppnzF2ziJ) | 9:21 | 2023-12-08 |  |
+| [Ngiza Ngokukholwa \(Live at the Durban Icc\)](https://open.spotify.com/track/7ni9SGonngu16zwAbFwVW9) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 28 \(Live at the Durban Icc\)](https://open.spotify.com/album/2F6EYWwEN8z7yuzjtV5WB2) | 10:36 | 2024-08-02 |  |
 | [Ngobekezela \- Live](https://open.spotify.com/track/0GawoSqYLlB2VjTjhAtFC3) | [S'fiso Ncwane](https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES) | [Kulungile Baba Live](https://open.spotify.com/album/2LrlhOhIwh3ebdqYSbTAuD) | 2:47 | 2024-04-05 |  |
 | [Ngobekezela \- Live at Durban ICC RSA](https://open.spotify.com/track/7cbzm3WHC4J30wwQ3BVELA) | [S'fiso Ncwane](https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES) | [Kulungile Baba \(Live at Durban ICC RSA\)](https://open.spotify.com/album/5kqAiJJg7CAG2sCzg6mnHa) | 2:47 | 2019-01-06 | 2024-04-19 |
 | [Ngoziphilela](https://open.spotify.com/track/6U0474ZSk2nJIYrYr5nr4G) | [Karabo M](https://open.spotify.com/artist/2eedswVJzymieGtsQyUN2r), [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Ngoziphilela](https://open.spotify.com/album/6fbV9fOh86AldX8ewDfhW9) | 4:04 | 2021-10-14 | 2023-03-18 |
+| [Ngoziphilela Ngomthandazo](https://open.spotify.com/track/3uaa8MjF6P0JYJwBdzkNww) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3), [Mphostoli We Keyboard](https://open.spotify.com/artist/1lgM1mjTHzMVjWZv08fTIN) | [Ngoziphilela Ngomthandazo](https://open.spotify.com/album/3Dm1OvOSDwg49R5JLCiwSu) | 3:31 | 2024-08-02 |  |
 | [Nguna Phakade \(Live\)](https://open.spotify.com/track/0oSn99YO48dZWxNox6oHYF) | [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Mo Roriseng \(Live at Mosaiek Theatre, 2023\)](https://open.spotify.com/album/0KDGCLqGhPxcY8FN5PYtd4) | 11:08 | 2023-10-27 |  |
 | [Nithini Webantu \(Ilizwi Lenkosi\)](https://open.spotify.com/track/2IvSE2xIirukcfM3pIOdlV) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Nithini Webantu \(Ilizwi Lenkosi\)](https://open.spotify.com/album/2jQWjxTc0RNj8BeCDck1E6) | 5:48 | 2023-07-21 | 2023-09-15 |
 | [Njalo](https://open.spotify.com/track/2gwFsGTXCpKErG0TcgMSN4) | [Mneshmane Blr](https://open.spotify.com/artist/4KnyqrllEsGhKrYAtW4q3C), [Nomakhuze Ndabula](https://open.spotify.com/artist/5V8tWlChyzmA3CtMgn1beJ), [Dr Dope](https://open.spotify.com/artist/511VpiGCdzuECpteBjWKuT), [Ab Central](https://open.spotify.com/artist/7e2fCmADEC45SvMhYJgEe0), [Boyzin Bee](https://open.spotify.com/artist/0RU8XphQbWwo1jxy1QCOiE) | [Njalo](https://open.spotify.com/album/3hBh2CltLi3ULKedOF7Y0m) | 5:17 | 2024-04-05 | 2024-07-12 |

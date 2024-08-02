@@ -4,7 +4,7 @@
 
 > It’s pop punk, it’s the best\. Celebrating 30 years of Hopeless Records.
 
-255 songs - 13 hr 57 min
+257 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,8 @@
 | [Unholy Confessions](https://open.spotify.com/track/78XFPcFYN8YFOHjtVwnPsl) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk) | 4:43 | 2024-06-28 |  |
 | [Unholy Confessions](https://open.spotify.com/track/6Y5DKaZn11PJy3hlsw2rKt) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r), [Hopelessly Devoted To You](https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8) | [Unholy Confessions](https://open.spotify.com/album/7q4jZunVEEHBCpTvU6AZuE) | 4:39 | 2024-06-28 |  |
 | [Untouched](https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Hook Me Up](https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37) | 4:15 | 2023-10-19 | 2023-12-02 |
+| [Vicious Love](https://open.spotify.com/track/3MruDgZarPs29xWZXn9D9L) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Hopelessly Devoted To You](https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8) | [Vicious Love](https://open.spotify.com/album/4rtTqz6nQNNzgeJluDCeML) | 2:48 | 2024-08-01 |  |
+| [Vicious Love](https://open.spotify.com/track/3GTapDdoEBfvla87bXolpq) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Resurrection](https://open.spotify.com/album/3CLXR1W9TabxVLY2lZbAS1) | 3:23 | 2024-08-01 |  |
 | [We Need More Bricks](https://open.spotify.com/track/5F3HNBitIp7FkxhBl8SNgW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [We Need More Bricks](https://open.spotify.com/album/4f5JujhyhXEY2XByzlfrvK) | 3:48 | 2024-01-09 |  |
 | [Weightless](https://open.spotify.com/track/0aZJGkkXR3DgaFqo5sB8ot) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:18 | 2023-10-19 |  |
 | [West Coast Christmas](https://open.spotify.com/track/0tk0q4170soGn03XGksWfn) | [Anarbor](https://open.spotify.com/artist/09J4zbHHwNNlN2tfgJIg21) | [Hopeless For The Holidays](https://open.spotify.com/album/6qL1j7QsfiESiZqLbMtMvN) | 3:14 | 2023-12-01 | 2024-01-10 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Cruz Cafun\u00e9",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Diegote",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -98,7 +98,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 144137,
       "name": "09/07",
       "url": "https://open.spotify.com/track/4BwVUtx3EARjkGlKdoaFm9"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 160124,
       "name": "AHORA Y ANTES",
       "url": "https://open.spotify.com/track/2wbRM0fSvUsD2QLsY1NuHo"
@@ -634,7 +634,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 151858,
       "name": "Altercado",
       "url": "https://open.spotify.com/track/0Uz7GP4TXH4Y4uAQQmBwH9"
@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 133800,
       "name": "BETTY BETTY",
       "url": "https://open.spotify.com/track/0NUCPmyrjOPsoXbEhAzh3Q"
@@ -2077,6 +2077,28 @@
     },
     {
       "album": {
+        "name": "Dale Gas",
+        "url": "https://open.spotify.com/album/4NdiyYmBXNpmtPsVRtN1jx"
+      },
+      "artists": [
+        {
+          "name": "Liz Forte",
+          "url": "https://open.spotify.com/artist/7GArathIWiQj50qNsBBLN1"
+        },
+        {
+          "name": "mauvetrip",
+          "url": "https://open.spotify.com/artist/5tGSRe3Dn91WESmIuRssIR"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101823,
+      "name": "Dale Gas",
+      "url": "https://open.spotify.com/track/7DG9SzakP8i8yYrokaK73f"
+    },
+    {
+      "album": {
         "name": "DE ABAJO DEL TODO",
         "url": "https://open.spotify.com/album/3cmqhjWKycBPorFg8puBik"
       },
@@ -2792,7 +2814,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 188000,
       "name": "Esmeralda",
       "url": "https://open.spotify.com/track/3FPi6QxKTIORgH4KDReY1a"
@@ -4109,6 +4131,24 @@
     },
     {
       "album": {
+        "name": "blu\u20acs",
+        "url": "https://open.spotify.com/album/4w81uLwtHNI0rgoLYBJCIT"
+      },
+      "artists": [
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133767,
+      "name": "la ra\u00edz d\u20acl mal",
+      "url": "https://open.spotify.com/track/6S8uVRVYlNsXLQ57FCWpt8"
+    },
+    {
+      "album": {
         "name": "La Retah\u00edla",
         "url": "https://open.spotify.com/album/0zxoJFfcJsOheEnbrrLvpB"
       },
@@ -4336,7 +4376,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 140769,
       "name": "Lo que sea",
       "url": "https://open.spotify.com/track/4ShHWfV9buMe6Enz30y6F0"
@@ -5038,6 +5078,28 @@
       "duration_ms": 150624,
       "name": "Me Tiene Mal",
       "url": "https://open.spotify.com/track/51inekd0e2msrJgyMt95xM"
+    },
+    {
+      "album": {
+        "name": "Cranesito y Robot\u00edn",
+        "url": "https://open.spotify.com/album/3WGFe29ltEHQfEkXCRORXD"
+      },
+      "artists": [
+        {
+          "name": "Cr\u00e1neo",
+          "url": "https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD"
+        },
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "Me trae loco",
+      "url": "https://open.spotify.com/track/61RA6u9ooSW5Wpm5kdQQ0f"
     },
     {
       "album": {
@@ -8280,7 +8342,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 282298,
       "name": "Volver",
       "url": "https://open.spotify.com/track/1eNd09nRUrqJSRYhbYnX9A"

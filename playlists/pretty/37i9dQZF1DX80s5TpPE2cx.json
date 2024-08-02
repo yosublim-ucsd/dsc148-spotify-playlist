@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 11268,
+  "num_followers": 11283,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 190104,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt"
+    },
+    {
+      "added_at": "2024-06-24 06:54:45",
+      "album": {
         "name": "Sweet Life",
         "url": "https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 186401,
       "name": "Sweet Life",
       "url": "https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq"
-    },
-    {
-      "added_at": "2024-06-24 06:54:45",
-      "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 190104,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt"
     },
     {
       "added_at": "2024-06-24 06:54:45",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
+        "name": "On My Life",
+        "url": "https://open.spotify.com/album/3Y2ydko8AudJ9Rc6N7yYUJ"
+      },
+      "artists": [
+        {
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+        }
+      ],
+      "duration_ms": 125607,
+      "name": "On My Life",
+      "url": "https://open.spotify.com/track/4Q80vNHSXSLYvmcQ0sYgWZ"
+    },
+    {
+      "added_at": "2024-06-24 06:54:45",
+      "album": {
         "name": "Freaky",
         "url": "https://open.spotify.com/album/6Pu1lSXtiqJ06JbfpR9x8h"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 237532,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/4l4GKn42jsZItX8FDdTet4"
-    },
-    {
-      "added_at": "2024-06-24 06:54:45",
-      "album": {
-        "name": "On My Life",
-        "url": "https://open.spotify.com/album/3Y2ydko8AudJ9Rc6N7yYUJ"
-      },
-      "artists": [
-        {
-          "name": "Laime",
-          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
-        }
-      ],
-      "duration_ms": 125607,
-      "name": "On My Life",
-      "url": "https://open.spotify.com/track/4Q80vNHSXSLYvmcQ0sYgWZ"
     },
     {
       "added_at": "2024-06-24 06:54:45",

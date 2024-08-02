@@ -291,6 +291,24 @@
     },
     {
       "album": {
+        "name": "Cray Cray",
+        "url": "https://open.spotify.com/album/4t5jMtlXpE1l0dx410QagB"
+      },
+      "artists": [
+        {
+          "name": "Conchis",
+          "url": "https://open.spotify.com/artist/3YfNCMy8SPjE7H8Xg3rVoB"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251466,
+      "name": "Cray Cray",
+      "url": "https://open.spotify.com/track/21aZ0rxNLbh50x0srJTAx7"
+    },
+    {
+      "album": {
         "name": "D\u00e9j\u00e0 vu",
         "url": "https://open.spotify.com/album/3j9XUjOd60zhagpcWVOfap"
       },
@@ -342,7 +360,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 230973,
       "name": "Eikun sit\u00e4 vaan l\u00e4hdin kyseleen",
       "url": "https://open.spotify.com/track/5avpyqsvp9i19ebJQwm53Q"
@@ -476,7 +494,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 137142,
       "name": "Friends",
       "url": "https://open.spotify.com/track/33YhrOX1yij2StBK724wql"
@@ -541,6 +559,24 @@
     },
     {
       "album": {
+        "name": "Gucci Bloom",
+        "url": "https://open.spotify.com/album/20JffAMoEFN1yqWzT0ZBOX"
+      },
+      "artists": [
+        {
+          "name": "Suru Bae",
+          "url": "https://open.spotify.com/artist/3whVF9Jmnr30PYss360yeF"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "Gucci Bloom",
+      "url": "https://open.spotify.com/track/5KeQ9ZHhqTfTvConK7TEpE"
+    },
+    {
+      "album": {
         "name": "Haluun n\u00e4hd\u00e4 sut uudestaan",
         "url": "https://open.spotify.com/album/6p1oPPRdyW5Hk7K5NyUV7g"
       },
@@ -588,7 +624,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 166213,
       "name": "Hayabana - Pop version",
       "url": "https://open.spotify.com/track/6uCrNNQcIEl0zKneTjmWG2"
@@ -682,7 +718,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 346255,
       "name": "I Forget - Richard X's Ihmisliigatyyli Remix",
       "url": "https://open.spotify.com/track/1NaAATQvwsSdIy6CdHo8iT"
@@ -837,6 +873,24 @@
     },
     {
       "album": {
+        "name": "Kes\u00e4sade",
+        "url": "https://open.spotify.com/album/6lnBNntMNnkN4PaPcBzkOU"
+      },
+      "artists": [
+        {
+          "name": "Hullu Pappila",
+          "url": "https://open.spotify.com/artist/11oyEtmgXfScC4NniWCCWT"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241628,
+      "name": "Kes\u00e4sade",
+      "url": "https://open.spotify.com/track/1qFDnZ6ZRYVEQoqpl2AHst"
+    },
+    {
+      "album": {
         "name": "Kiinalainen vesikidutus",
         "url": "https://open.spotify.com/album/1NVloyTGtDq1S8Uc5IlexP"
       },
@@ -884,7 +938,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 197526,
       "name": "Kirsikkapuu",
       "url": "https://open.spotify.com/track/5fXyiBXyg0kH3jbUHNIung"
@@ -1090,7 +1144,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 175326,
       "name": "Liikuppa, liikuppa, likka rukka",
       "url": "https://open.spotify.com/track/78o3RMCYZeYYqPQvTxV2YB"
@@ -1108,7 +1162,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 192374,
       "name": "lose my cool",
       "url": "https://open.spotify.com/track/6LZFsqJA882z80VvdrpTVh"
@@ -1184,7 +1238,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 235066,
       "name": "Mehil\u00e4isille",
       "url": "https://open.spotify.com/track/3N48BnWpdy2mpMWayo0mJu"
@@ -1404,10 +1458,28 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 205130,
       "name": "pid\u00e4 huolta",
       "url": "https://open.spotify.com/track/7cLH502QGa8Ot2XCRrUJTv"
+    },
+    {
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/1mA6Gzh4VaiTIkEAqKEtEJ"
+      },
+      "artists": [
+        {
+          "name": "Icons Of Elegance",
+          "url": "https://open.spotify.com/artist/4CGwhxlwo7fMWrVxJFHNNn"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226767,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/6xZrVbxTFYPb3CiLFl2NbW"
     },
     {
       "album": {
@@ -1462,6 +1534,24 @@
       "duration_ms": 217685,
       "name": "Pisamat",
       "url": "https://open.spotify.com/track/4i4d9x2Bw6Zv1xPHRomJdY"
+    },
+    {
+      "album": {
+        "name": "Pohjolan Kaiut",
+        "url": "https://open.spotify.com/album/3iZgIYxYvwBKNMU98gO1lg"
+      },
+      "artists": [
+        {
+          "name": "Ida Elina",
+          "url": "https://open.spotify.com/artist/5mJcgczkpoRKPDSK9aaZdL"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186988,
+      "name": "Pohjolan Kaiut",
+      "url": "https://open.spotify.com/track/4fkfhAt4etPaOrz4jvoJj1"
     },
     {
       "album": {
@@ -1609,6 +1699,42 @@
     },
     {
       "album": {
+        "name": "Kaikki samaa lauluu",
+        "url": "https://open.spotify.com/album/7hzesUnfCxv3l9Nv6T50cP"
+      },
+      "artists": [
+        {
+          "name": "V. H\u00e4rk\u00f6nen",
+          "url": "https://open.spotify.com/artist/4ZehtHHcgp2sF3REcUcA82"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216874,
+      "name": "Rakkaudesta tai linnuista - Studiolive",
+      "url": "https://open.spotify.com/track/2HhN0ROkg3CSAa4mJPTkbO"
+    },
+    {
+      "album": {
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/5HxVuK00xM2HjBw2e4sJ8D"
+      },
+      "artists": [
+        {
+          "name": "Cecil Opia",
+          "url": "https://open.spotify.com/artist/6gDK3tImweSZYhav1QdaYn"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206507,
+      "name": "Rouge",
+      "url": "https://open.spotify.com/track/0K8EP7nwJp4dFHBl5r3UgF"
+    },
+    {
+      "album": {
         "name": "Running Water",
         "url": "https://open.spotify.com/album/4GxHJmAB5IsYjxdDTTzhMG"
       },
@@ -1638,7 +1764,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 183614,
       "name": "Saippuaa",
       "url": "https://open.spotify.com/track/0CHP6eUaGKfOzRV7p0lRH9"
@@ -1762,7 +1888,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 184363,
       "name": "Skin & Bones - Mikey Enwright Remix",
       "url": "https://open.spotify.com/track/78pwVWMF1jcBB4pI20QJfj"
@@ -1798,7 +1924,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 252886,
       "name": "Sulle mit\u00e4\u00e4n vaikeaa",
       "url": "https://open.spotify.com/track/39N0gTICmkhE6NuQWIZKan"
@@ -1906,7 +2032,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 275025,
       "name": "Terveisin, G\u00f6sta",
       "url": "https://open.spotify.com/track/7qcFVfMBrmpytP5awe2MWD"
@@ -2058,7 +2184,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 181470,
       "name": "Ullaa ullaa",
       "url": "https://open.spotify.com/track/4ypkXE5BFAF2n6s5D7oZsX"

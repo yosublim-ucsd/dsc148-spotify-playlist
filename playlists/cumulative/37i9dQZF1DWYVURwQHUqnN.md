@@ -4,7 +4,7 @@
 
 > Photo : GIMS
 
-166 songs - 8 hr 4 min
+167 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [24](https://open.spotify.com/track/00anelAwwFxJXHD5MykhwG) | [Dj Quick](https://open.spotify.com/artist/4tjoob53d4b26AjGJ49kuF), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [24](https://open.spotify.com/album/7AVDqdCOZMjUSZdcuEUitO) | 3:09 | 2023-11-09 | 2023-12-15 |
 | [45](https://open.spotify.com/track/2FJychFhFkGOxKDGg8vBh8) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [SUR LE CHEMIN \(Phase 3\)](https://open.spotify.com/album/6yV4ZCSKZNoOJan78YLKan) | 2:54 | 2024-04-18 | 2024-06-21 |
 | [760](https://open.spotify.com/track/2MrFSzJuda5Hwp40iQfcdR) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [760](https://open.spotify.com/album/4434yKaCsQSw2tliaR2PvX) | 3:00 | 2023-09-28 | 2024-05-17 |
-| [A QUOI TU JOUES](https://open.spotify.com/track/2fAymB6lhuXEQOhIrJZERU) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [MEC DE CITÉ SIMPLE](https://open.spotify.com/album/1VF9TOozMuDyuFU5maRA6M) | 3:03 | 2024-06-20 |  |
+| [A QUOI TU JOUES](https://open.spotify.com/track/2fAymB6lhuXEQOhIrJZERU) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [MEC DE CITÉ SIMPLE](https://open.spotify.com/album/1VF9TOozMuDyuFU5maRA6M) | 3:03 | 2024-06-20 | 2024-08-02 |
 | [Ah ahah](https://open.spotify.com/track/0BidF0EwXUq4H5NUf7RCZN) | [Fresh La Douille](https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL), [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [Ah ahah](https://open.spotify.com/album/5s48YxF4E2bOlA4xWg8Bjn) | 2:39 | 2024-07-18 |  |
 | [Allez \(feat\. PLK & Naps\)](https://open.spotify.com/track/50XM4fyredImTQ4NLGaggW) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Allez \(feat\. PLK & Naps\)](https://open.spotify.com/album/0wMCJ6INLI8ssVC5x3azVU) | 3:11 | 2024-07-11 |  |
 | [Avec elle](https://open.spotify.com/track/2cjMxpKD3fAmM0iZPWHJri) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Avec elle](https://open.spotify.com/album/3zVzY7IdtotQVKGCPOUiBg) | 2:46 | 2023-10-12 | 2024-02-23 |
@@ -85,6 +85,7 @@
 | [MA DOUCE](https://open.spotify.com/track/3G9yB5mhAfdq3toymB5Pug) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [MA DOUCE](https://open.spotify.com/album/2ySxKt2YEOhxUcF0Iw5X1R) | 3:36 | 2024-02-22 | 2024-05-10 |
 | [MAMACITA](https://open.spotify.com/track/3qxnil0JyAWGS3vWxJyXEi) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MAMACITA](https://open.spotify.com/album/4ZhmFglWYBzjI1hxNsjUPN) | 3:08 | 2024-07-04 | 2024-07-27 |
 | [MAMI WATA](https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:53 | 2024-02-15 |  |
+| [Maylin](https://open.spotify.com/track/1xUafVKc4f8jZYX4SM0pMs) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Maylin](https://open.spotify.com/album/1HsirZCHLxa72qcUu5PWW0) | 2:54 | 2024-08-01 |  |
 | [MAÑANA](https://open.spotify.com/track/1sv3oqZL49le641hfHgtpX) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [N'A STRAGIA](https://open.spotify.com/album/4PxIHIjXAGQz2bYqy0CLtX) | 2:24 | 2023-09-28 | 2023-11-24 |
 | [Mes Lovés](https://open.spotify.com/track/1dpuodugAA3ZVyV0oXHUu4) | [Ponko](https://open.spotify.com/artist/2xzGVKiyGIsI4NomojrK39), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Mes Lovés](https://open.spotify.com/album/4hufR5ALDudDZxiReG2JiT) | 3:08 | 2024-06-20 |  |
 | [Mi madre](https://open.spotify.com/track/1OadAxUa6KVPyKAwEv0Duy) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv) | [Mi madre](https://open.spotify.com/album/0WFyhZC7hwGuL402U8aovY) | 3:19 | 2023-11-30 | 2024-06-21 |

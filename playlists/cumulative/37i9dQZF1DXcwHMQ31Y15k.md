@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Ndarboy Genk
 
-364 songs - 1 day 5 hr 56 min
+365 songs - 1 day 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Kesel \- Studio Version](https://open.spotify.com/track/1W9v2dH55jpVMOAcAjxarE) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Kesel \(Studio Version\)](https://open.spotify.com/album/1wGTcasaUfoIWZwpk9wkDW) | 5:48 | 2023-12-15 | 2024-06-14 |
 | [Kesupen](https://open.spotify.com/track/0vT8hjKUgnk3s1CiY2Khbl) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb), [Arman Harjo](https://open.spotify.com/artist/7IjOlGJhqTylWA6mf0PYfb) | [Kesupen](https://open.spotify.com/album/0SrIjGKjPvQtGCjndXHVCa) | 4:16 | 2024-02-29 | 2024-07-03 |
 | [Kesupen](https://open.spotify.com/track/7duhQGGQ1IeTTOU9CDuh36) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb), [Arman Harjo](https://open.spotify.com/artist/7IjOlGJhqTylWA6mf0PYfb) | [Kesupen](https://open.spotify.com/album/6LBOCC6Ihu7T8v0J1JcRwC) | 4:16 | 2024-03-14 | 2024-04-19 |
+| [Kimcil Kepolen](https://open.spotify.com/track/1D6XeGykrjmBAYwDS3yXxZ) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [NDX A.K.A\. Familia](https://open.spotify.com/album/2tkko0H0gYzg3jwEzfJQuc) | 4:01 | 2024-08-01 |  |
 | [Kisinan](https://open.spotify.com/track/57W31ORSD6sAOCYhoh7EFv) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Kisinan](https://open.spotify.com/album/4x5lktOv7MBMZEV2yqcMax) | 4:56 | 2023-10-12 | 2024-07-03 |
 | [Kisinan](https://open.spotify.com/track/5qcoVIjY77n3TGcvFCBuq7) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Kisinan](https://open.spotify.com/album/0Cya8IGdWAAqfogpm4lukg) | 5:18 | 2024-06-06 |  |
 | [Kisinan](https://open.spotify.com/track/109u6faz5ePtC558pTonCw) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [Kisinan](https://open.spotify.com/album/1gdPykbinggfyDSiAU4MWt) | 4:35 | 2023-08-01 | 2023-09-16 |

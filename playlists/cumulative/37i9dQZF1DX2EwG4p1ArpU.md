@@ -4,7 +4,7 @@
 
 > ネット発の新たな才能として注目を集めるシンガーソングライター、Eveの楽曲を1つのプレイリストに。Essential tracks from Japanese singer\-songwriter, Eve.
 
-127 songs - 9 hr 17 min
+128 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [君に世界](https://open.spotify.com/track/6wpRCHsYlbiTiqIR4gsM9H) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [おとぎ](https://open.spotify.com/album/4qxG3ARVfDBRKMFoLWs1Ct) | 3:55 | 2024-03-06 |  |
 | [夜は仄か](https://open.spotify.com/track/5UImLiCMG4kc3iLcOLHbiv) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻人](https://open.spotify.com/album/3TNwdnRmvCni7QV9lrvlQr) | 3:13 | 2024-03-06 |  |
 | [宵の明星](https://open.spotify.com/track/2oKtqN2HbY3aLiwuM9v5TA) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻廻奇譚 / 蒼のワルツ](https://open.spotify.com/album/5AXzkXGoyKh4KU8paELFVu) | 4:16 | 2024-03-06 |  |
+| [巻物語](https://open.spotify.com/track/7mUHehTb9L5DFVkn4DgGkt) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [巻物語](https://open.spotify.com/album/5LfXWc9pEHHDr22XJEDv2S) | 2:25 | 2024-08-01 |  |
 | [平行線](https://open.spotify.com/track/3v580RMq79nUPHqMFbsRco) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [廻人](https://open.spotify.com/album/3TNwdnRmvCni7QV9lrvlQr) | 4:39 | 2024-03-06 |  |
 | [廻人](https://open.spotify.com/track/2qRDbJCL0OIi7ntyBpSdnw) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻人](https://open.spotify.com/album/3TNwdnRmvCni7QV9lrvlQr) | 0:58 | 2024-03-06 |  |
 | [廻廻奇譚](https://open.spotify.com/track/5XodODtKKldKJuu4fuaqdN) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻人](https://open.spotify.com/album/3TNwdnRmvCni7QV9lrvlQr) | 3:41 | 2024-03-06 |  |

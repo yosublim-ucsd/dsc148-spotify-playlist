@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "La nuova scena indie italiana! Cover: Ganzo",
+  "description": "La nuova scena indie italiana! Cover: Lucrezia",
   "name": "Scuola Indie",
   "tracks": [
     {
@@ -652,7 +652,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 177786,
       "name": "FERMARE L'ET\u00c0 (feat. Enrico Nigiotti)",
       "url": "https://open.spotify.com/track/5cn3rW6VXCpI9dxysqx5fk"
@@ -1439,6 +1439,46 @@
     },
     {
       "album": {
+        "name": "ora che \u00e8 tutto ok",
+        "url": "https://open.spotify.com/album/6eWOyJwZq3jhUw15gRcUCn"
+      },
+      "artists": [
+        {
+          "name": "DANU",
+          "url": "https://open.spotify.com/artist/4hVodcSKHtJWb5fIRvzax7"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165914,
+      "name": "ora che \u00e8 tutto ok",
+      "url": "https://open.spotify.com/track/6u824ox1DRmQCXnm5erolv"
+    },
+    {
+      "album": {
+        "name": "Papapa",
+        "url": "https://open.spotify.com/album/6tjYWAUPpI6CYTLzombQvv"
+      },
+      "artists": [
+        {
+          "name": "200x100furo",
+          "url": "https://open.spotify.com/artist/60IyQ8YTpIuykM81hrkhsZ"
+        },
+        {
+          "name": "999folo",
+          "url": "https://open.spotify.com/artist/5M9Qo3gcWQvQVOa4CgH2lS"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162099,
+      "name": "Papapa",
+      "url": "https://open.spotify.com/track/6eVudiatEcu6VO2Yl15KCN"
+    },
+    {
+      "album": {
         "name": "ROCCASECCA",
         "url": "https://open.spotify.com/album/3m5LwAf3fBdc9THwhe0rj7"
       },
@@ -1856,7 +1896,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 188141,
       "name": "torno a casa presto",
       "url": "https://open.spotify.com/track/5B2jiOZt1lTUKszE38SFyK"

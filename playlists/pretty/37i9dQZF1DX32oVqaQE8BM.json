@@ -1,13 +1,45 @@
 {
   "description": "The ultimate chill out playlist.",
-  "num_followers": 768051,
+  "num_followers": 768214,
   "original_name": "Chill Out Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpPjgwAAAACap9vC75bWayj/HIgX5sq9",
+  "snapshot_id": "ZqsIQAAAAACFtNpGnYyFnNv748fn0h7K",
   "tracks": [
+    {
+      "added_at": "2024-08-01 04:00:00",
+      "album": {
+        "name": "under water",
+        "url": "https://open.spotify.com/album/75cnPM0ljMuhdcUfma695x"
+      },
+      "artists": [
+        {
+          "name": "super8memory",
+          "url": "https://open.spotify.com/artist/2ICYFkqo3OruO1QlpBzV8C"
+        }
+      ],
+      "duration_ms": 128394,
+      "name": "under water",
+      "url": "https://open.spotify.com/track/2CfvtzLblpnUl1n4Uzz5Rn"
+    },
+    {
+      "added_at": "2024-08-01 04:00:00",
+      "album": {
+        "name": "Rent",
+        "url": "https://open.spotify.com/album/5K9Yvjbzn5BdhpQyA4hJ2M"
+      },
+      "artists": [
+        {
+          "name": "RA DAR",
+          "url": "https://open.spotify.com/artist/25UwRVjERSaIMnOYX0ZaM1"
+        }
+      ],
+      "duration_ms": 149866,
+      "name": "Rent",
+      "url": "https://open.spotify.com/track/19iugsWjMy6wDD225VT35E"
+    },
     {
       "added_at": "2024-07-14 14:41:07",
       "album": {
@@ -139,22 +171,6 @@
     {
       "added_at": "2024-07-14 14:41:07",
       "album": {
-        "name": "The Sky Was Breathing",
-        "url": "https://open.spotify.com/album/17TPclqY7Njhy17Mw8ZDyP"
-      },
-      "artists": [
-        {
-          "name": "Pierre Sloane",
-          "url": "https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH"
-        }
-      ],
-      "duration_ms": 191294,
-      "name": "The Sky Was Breathing",
-      "url": "https://open.spotify.com/track/3lLf5WCpIvYg3GSskMxszu"
-    },
-    {
-      "added_at": "2024-07-14 14:41:07",
-      "album": {
         "name": "Blanket",
         "url": "https://open.spotify.com/album/7upEQocfRg69LCyh1DeIMs"
       },
@@ -167,6 +183,22 @@
       "duration_ms": 127741,
       "name": "Blanket",
       "url": "https://open.spotify.com/track/7y5FvLf4zFR4wyadweNWXy"
+    },
+    {
+      "added_at": "2024-07-14 14:41:07",
+      "album": {
+        "name": "firelight",
+        "url": "https://open.spotify.com/album/3rkXubv1KHQclzmDkdzMTW"
+      },
+      "artists": [
+        {
+          "name": "Greene Labyrinth",
+          "url": "https://open.spotify.com/artist/6oiYRGIhDRfbtZmzsfziUR"
+        }
+      ],
+      "duration_ms": 147875,
+      "name": "firelight",
+      "url": "https://open.spotify.com/track/7mzt9pwc0jo90oDh1oSN2Q"
     },
     {
       "added_at": "2024-07-14 14:41:07",
@@ -187,26 +219,6 @@
     {
       "added_at": "2024-07-14 14:41:07",
       "album": {
-        "name": "after a while",
-        "url": "https://open.spotify.com/album/6J6B75xjID00XXrVfO0Qm6"
-      },
-      "artists": [
-        {
-          "name": "cxlt.",
-          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
-        },
-        {
-          "name": "herman.",
-          "url": "https://open.spotify.com/artist/3WyJSGYPoo86oOCSCcWNr6"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "after a while",
-      "url": "https://open.spotify.com/track/0VZ1zeperKNOmRP1Q2DdoJ"
-    },
-    {
-      "added_at": "2024-07-14 14:41:07",
-      "album": {
         "name": "out to sea",
         "url": "https://open.spotify.com/album/2ISmy0vWGQEwofWjLbITW6"
       },
@@ -219,22 +231,6 @@
       "duration_ms": 148732,
       "name": "out to sea",
       "url": "https://open.spotify.com/track/0nOwu86Ng6UtnnovLh9hpP"
-    },
-    {
-      "added_at": "2024-07-14 14:41:07",
-      "album": {
-        "name": "Oceans",
-        "url": "https://open.spotify.com/album/4lFbvDty9iztttqrujuryt"
-      },
-      "artists": [
-        {
-          "name": "West Sun",
-          "url": "https://open.spotify.com/artist/11bJ0fFdkXZ9KIp85qIAKh"
-        }
-      ],
-      "duration_ms": 125070,
-      "name": "Oceans",
-      "url": "https://open.spotify.com/track/2Y1YRWYSvziWfg4aH61ImH"
     },
     {
       "added_at": "2024-07-14 14:41:07",
@@ -335,22 +331,6 @@
     {
       "added_at": "2024-07-14 14:41:07",
       "album": {
-        "name": "Es Princep",
-        "url": "https://open.spotify.com/album/7Jw7dNAFCFShEU9RqPrV3T"
-      },
-      "artists": [
-        {
-          "name": "Malacca",
-          "url": "https://open.spotify.com/artist/3CefIz6qIlfMy80r0vZJxX"
-        }
-      ],
-      "duration_ms": 234510,
-      "name": "Es Princep",
-      "url": "https://open.spotify.com/track/7c9yaTgbbybOhrzmKpaVRa"
-    },
-    {
-      "added_at": "2024-07-14 14:41:07",
-      "album": {
         "name": "Zenith",
         "url": "https://open.spotify.com/album/3wYX5UP6v3EeVC9KmLqpbq"
       },
@@ -379,6 +359,38 @@
       "duration_ms": 129854,
       "name": "Hearts",
       "url": "https://open.spotify.com/track/0eZJfUknR9uigunQEpNyuh"
+    },
+    {
+      "added_at": "2024-07-14 14:41:07",
+      "album": {
+        "name": "Organics",
+        "url": "https://open.spotify.com/album/60280VPItm1mMa8W8IOVfU"
+      },
+      "artists": [
+        {
+          "name": "Comfykids",
+          "url": "https://open.spotify.com/artist/755IegiHaN6XOu548LkDf2"
+        }
+      ],
+      "duration_ms": 160695,
+      "name": "Organics",
+      "url": "https://open.spotify.com/track/3gAjJQh87hW5RaXyxG8xaH"
+    },
+    {
+      "added_at": "2024-08-01 04:00:00",
+      "album": {
+        "name": "in the blossoms",
+        "url": "https://open.spotify.com/album/26OUgJJjfAvnmIvscwATCn"
+      },
+      "artists": [
+        {
+          "name": "Mikayl Blu",
+          "url": "https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj"
+        }
+      ],
+      "duration_ms": 181166,
+      "name": "in the blossoms",
+      "url": "https://open.spotify.com/track/5jaTCdcEMe7JJj6aOK5dim"
     },
     {
       "added_at": "2024-07-14 14:41:07",
@@ -499,22 +511,6 @@
     {
       "added_at": "2024-07-14 14:41:07",
       "album": {
-        "name": "Lemon Child",
-        "url": "https://open.spotify.com/album/5uThNBvv3WW0zbBNqPCGhP"
-      },
-      "artists": [
-        {
-          "name": "zeelax",
-          "url": "https://open.spotify.com/artist/03D808OZznKYdiJRbAfOhC"
-        }
-      ],
-      "duration_ms": 130800,
-      "name": "Lemon Child",
-      "url": "https://open.spotify.com/track/3QZoeBElUE59JRRZ8o5DDG"
-    },
-    {
-      "added_at": "2024-07-14 14:41:07",
-      "album": {
         "name": "The Sweetness",
         "url": "https://open.spotify.com/album/4HaSVgLxdob2oS542H1RGA"
       },
@@ -563,22 +559,6 @@
     {
       "added_at": "2024-07-14 14:41:07",
       "album": {
-        "name": "firelight",
-        "url": "https://open.spotify.com/album/3rkXubv1KHQclzmDkdzMTW"
-      },
-      "artists": [
-        {
-          "name": "Greene Labyrinth",
-          "url": "https://open.spotify.com/artist/6oiYRGIhDRfbtZmzsfziUR"
-        }
-      ],
-      "duration_ms": 147875,
-      "name": "firelight",
-      "url": "https://open.spotify.com/track/7mzt9pwc0jo90oDh1oSN2Q"
-    },
-    {
-      "added_at": "2024-07-14 14:41:07",
-      "album": {
         "name": "Golden Space",
         "url": "https://open.spotify.com/album/4eGDoVpLyMZKN8cn5Ui93m"
       },
@@ -607,22 +587,6 @@
       "duration_ms": 161500,
       "name": "Bali",
       "url": "https://open.spotify.com/track/6cghtkjFuFchr0pWS5u7Va"
-    },
-    {
-      "added_at": "2024-07-14 14:41:07",
-      "album": {
-        "name": "Organics",
-        "url": "https://open.spotify.com/album/60280VPItm1mMa8W8IOVfU"
-      },
-      "artists": [
-        {
-          "name": "Comfykids",
-          "url": "https://open.spotify.com/artist/755IegiHaN6XOu548LkDf2"
-        }
-      ],
-      "duration_ms": 160695,
-      "name": "Organics",
-      "url": "https://open.spotify.com/track/3gAjJQh87hW5RaXyxG8xaH"
     },
     {
       "added_at": "2024-07-14 14:41:07",
@@ -755,22 +719,6 @@
     {
       "added_at": "2024-07-14 14:41:07",
       "album": {
-        "name": "A New Beginnning",
-        "url": "https://open.spotify.com/album/2HV3DLyEXmXWJPRJzKp0Bt"
-      },
-      "artists": [
-        {
-          "name": "Light Stories",
-          "url": "https://open.spotify.com/artist/1UFfFo7p1fESUTWhD6N16B"
-        }
-      ],
-      "duration_ms": 136516,
-      "name": "A New Beginning",
-      "url": "https://open.spotify.com/track/2c1wxuPPU4bm8X7UrD8JAd"
-    },
-    {
-      "added_at": "2024-07-14 14:41:07",
-      "album": {
         "name": "Branching Spiral",
         "url": "https://open.spotify.com/album/6TS4jjFcfJGCK8P94MsWeZ"
       },
@@ -839,6 +787,38 @@
       "duration_ms": 174519,
       "name": "Pink Clouds",
       "url": "https://open.spotify.com/track/2YF1RVNUetGq90CbHz23tl"
+    },
+    {
+      "added_at": "2024-07-14 14:41:07",
+      "album": {
+        "name": "Es Princep",
+        "url": "https://open.spotify.com/album/7Jw7dNAFCFShEU9RqPrV3T"
+      },
+      "artists": [
+        {
+          "name": "Malacca",
+          "url": "https://open.spotify.com/artist/3CefIz6qIlfMy80r0vZJxX"
+        }
+      ],
+      "duration_ms": 234510,
+      "name": "Es Princep",
+      "url": "https://open.spotify.com/track/7c9yaTgbbybOhrzmKpaVRa"
+    },
+    {
+      "added_at": "2024-07-14 14:41:07",
+      "album": {
+        "name": "The Sky Was Breathing",
+        "url": "https://open.spotify.com/album/17TPclqY7Njhy17Mw8ZDyP"
+      },
+      "artists": [
+        {
+          "name": "Pierre Sloane",
+          "url": "https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH"
+        }
+      ],
+      "duration_ms": 191294,
+      "name": "The Sky Was Breathing",
+      "url": "https://open.spotify.com/track/3lLf5WCpIvYg3GSskMxszu"
     },
     {
       "added_at": "2024-07-14 14:41:07",
@@ -1051,22 +1031,6 @@
       "duration_ms": 218181,
       "name": "Deep Whispers",
       "url": "https://open.spotify.com/track/5y7Gi8XUtInGKz18QsIYgP"
-    },
-    {
-      "added_at": "2024-07-14 14:41:07",
-      "album": {
-        "name": "Ocean Silver",
-        "url": "https://open.spotify.com/album/1eKWpj6bv2R6TwqT5g0euZ"
-      },
-      "artists": [
-        {
-          "name": "LoDub",
-          "url": "https://open.spotify.com/artist/0r8v9ej0fnnyLhdF8YYz36"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "Ocean Silver",
-      "url": "https://open.spotify.com/track/7clefLUDCEMvTEj66Suv38"
     },
     {
       "added_at": "2024-07-14 14:41:07",
@@ -1619,22 +1583,6 @@
     {
       "added_at": "2024-07-14 14:41:07",
       "album": {
-        "name": "A New Beginnning",
-        "url": "https://open.spotify.com/album/2HV3DLyEXmXWJPRJzKp0Bt"
-      },
-      "artists": [
-        {
-          "name": "Light Stories",
-          "url": "https://open.spotify.com/artist/1UFfFo7p1fESUTWhD6N16B"
-        }
-      ],
-      "duration_ms": 169067,
-      "name": "State Of Logic",
-      "url": "https://open.spotify.com/track/75iOFFpJrvIzP4w40w35rB"
-    },
-    {
-      "added_at": "2024-07-14 14:41:07",
-      "album": {
         "name": "Arcadia",
         "url": "https://open.spotify.com/album/4n6GZA8loDKXCsE3cKGvv3"
       },
@@ -1947,6 +1895,26 @@
       "duration_ms": 181515,
       "name": "Selftalk",
       "url": "https://open.spotify.com/track/71YmQje7LJWXIFG9oH9MGG"
+    },
+    {
+      "added_at": "2024-07-14 14:41:07",
+      "album": {
+        "name": "after a while",
+        "url": "https://open.spotify.com/album/6J6B75xjID00XXrVfO0Qm6"
+      },
+      "artists": [
+        {
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        },
+        {
+          "name": "herman.",
+          "url": "https://open.spotify.com/artist/3WyJSGYPoo86oOCSCcWNr6"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "after a while",
+      "url": "https://open.spotify.com/track/0VZ1zeperKNOmRP1Q2DdoJ"
     },
     {
       "added_at": "2024-07-14 14:41:07",
@@ -2467,6 +2435,22 @@
       "duration_ms": 156800,
       "name": "CTRL_ALT_DLT",
       "url": "https://open.spotify.com/track/0I2jQDgn5wU64mTWv9HHfN"
+    },
+    {
+      "added_at": "2024-07-14 14:41:07",
+      "album": {
+        "name": "Lemon Child",
+        "url": "https://open.spotify.com/album/5uThNBvv3WW0zbBNqPCGhP"
+      },
+      "artists": [
+        {
+          "name": "zeelax",
+          "url": "https://open.spotify.com/artist/03D808OZznKYdiJRbAfOhC"
+        }
+      ],
+      "duration_ms": 130800,
+      "name": "Lemon Child",
+      "url": "https://open.spotify.com/track/3QZoeBElUE59JRRZ8o5DDG"
     },
     {
       "added_at": "2024-07-14 14:41:07",
@@ -3279,6 +3263,22 @@
     {
       "added_at": "2024-07-14 14:41:07",
       "album": {
+        "name": "Oceans",
+        "url": "https://open.spotify.com/album/4lFbvDty9iztttqrujuryt"
+      },
+      "artists": [
+        {
+          "name": "West Sun",
+          "url": "https://open.spotify.com/artist/11bJ0fFdkXZ9KIp85qIAKh"
+        }
+      ],
+      "duration_ms": 125070,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/2Y1YRWYSvziWfg4aH61ImH"
+    },
+    {
+      "added_at": "2024-07-14 14:41:07",
+      "album": {
         "name": "Hudson chills",
         "url": "https://open.spotify.com/album/4W3O9IQs8OKMdo7uVCrUlU"
       },
@@ -4043,22 +4043,6 @@
       "duration_ms": 172904,
       "name": "lipshells",
       "url": "https://open.spotify.com/track/2nfYoMN2329hAlwbPhVJuf"
-    },
-    {
-      "added_at": "2024-07-14 14:41:07",
-      "album": {
-        "name": "Honesty - Remix",
-        "url": "https://open.spotify.com/album/14MA1BYwnBTv5XZlwezpBC"
-      },
-      "artists": [
-        {
-          "name": "Eucalyptic",
-          "url": "https://open.spotify.com/artist/7fFV1CuS9eT92DKj0Zzpt9"
-        }
-      ],
-      "duration_ms": 194727,
-      "name": "Honesty (remix)",
-      "url": "https://open.spotify.com/track/4ee5oGHZjUw3vzr9vWaeJp"
     },
     {
       "added_at": "2024-07-14 14:41:07",

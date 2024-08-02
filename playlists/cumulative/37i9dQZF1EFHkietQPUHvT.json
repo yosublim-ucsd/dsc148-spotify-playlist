@@ -683,6 +683,24 @@
     },
     {
       "album": {
+        "name": "Love Like Us",
+        "url": "https://open.spotify.com/album/0hDq3gHJMQgfMW8vg8RttR"
+      },
+      "artists": [
+        {
+          "name": "Next In Line",
+          "url": "https://open.spotify.com/artist/5Xn9OPltcdrnTwLJ1ZoTPf"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178849,
+      "name": "Love Like Us",
+      "url": "https://open.spotify.com/track/4PUWuwvbqSKFvTZ5O0pqhF"
+    },
+    {
+      "album": {
         "name": "love u in the morning",
         "url": "https://open.spotify.com/album/77LUvtfw3URuvXMDPYLtxZ"
       },

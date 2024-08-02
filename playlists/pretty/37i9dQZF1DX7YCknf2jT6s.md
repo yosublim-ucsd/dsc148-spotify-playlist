@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Pat Metheny
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,558 likes - 100 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,577 likes - 100 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MoonDial](https://open.spotify.com/track/3sn5gqosgrs0y1ljACKUCt) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [MoonDial](https://open.spotify.com/album/4aomKJKtVLDAcWojmg9fvA) | 6:23 |
 | 2 | [iGosa](https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [iLadi](https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL) | 6:54 |
 | 3 | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe) | 3:59 |
-| 4 | [Is This Real?](https://open.spotify.com/track/4o4WxLBporwDoHkPF9II2Y) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Joe Cleveland](https://open.spotify.com/artist/1OREq1cp67WA7bvs7v1Ogg), [Stixx Taylor](https://open.spotify.com/artist/2eMTWZLa7eqnNsp71eM6Tg) | [Is This Real?](https://open.spotify.com/album/2JzZnSh1zPTOWpQwJXQ9i9) | 3:39 |
+| 4 | [Is This Real?](https://open.spotify.com/track/4o4WxLBporwDoHkPF9II2Y) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Joe Cleveland](https://open.spotify.com/artist/1OREq1cp67WA7bvs7v1Ogg), [Stixx Taylor](https://open.spotify.com/artist/2eMTWZLa7eqnNsp71eM6Tg), [DominiqueXavier](https://open.spotify.com/artist/5YqM4qQoLdJcGeN6rXQxkz) | [Is This Real?](https://open.spotify.com/album/2JzZnSh1zPTOWpQwJXQ9i9) | 3:39 |
 | 5 | [Cold As Hell](https://open.spotify.com/track/0mu1NEo7V5CbOytI64KUso) | [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [George Silva](https://open.spotify.com/artist/3DDRWYqflIqoIsIHKj8zJP), [Efajemue](https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1), [J Camden](https://open.spotify.com/artist/4p3PTvbzpHrCm8qjXETbYB) | [Friends & Family](https://open.spotify.com/album/2WArcxonkIlI82NeAG7T6Z) | 3:22 |
 | 6 | [Uno a Uno](https://open.spotify.com/track/0sh22MHosEnR7oMDZfryIY) | [Yamandu Costa](https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV), [Francesco Buzzurro](https://open.spotify.com/artist/7va7RuUDlM00yzRi2nrFX5) | [Uno a Uno](https://open.spotify.com/album/27ZqjeUNz2u28S8RVYnfH6) | 2:34 |
 | 7 | [The Love That I Feel](https://open.spotify.com/track/4Sq1bPCB5HM70lljG68qsZ) | [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF) | [The Love That I Feel](https://open.spotify.com/album/23xWaTO3WJEyFs2o17W3tz) | 2:37 |

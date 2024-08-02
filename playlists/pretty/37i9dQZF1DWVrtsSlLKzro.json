@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">electronic</a> melancholy < / 3",
-  "num_followers": 628638,
+  "num_followers": 628662,
   "original_name": "Sad Beats",
   "owner": {
     "name": "Spotify",
@@ -259,26 +259,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "I\u2019ll Find My Way To You",
-        "url": "https://open.spotify.com/album/21DMxcktIoXJynH4cUBz1F"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 264045,
-      "name": "I\u2019ll Find My Way To You",
-      "url": "https://open.spotify.com/track/2R2haDSmphwkn4kANdHU5P"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Other Side",
         "url": "https://open.spotify.com/album/1x58rOMA6gcxJdrgzbGVTo"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 206884,
       "name": "Other Side",
       "url": "https://open.spotify.com/track/74qKLdiiTnXNqh2Co21RlJ"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "I\u2019ll Find My Way To You",
+        "url": "https://open.spotify.com/album/21DMxcktIoXJynH4cUBz1F"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 264045,
+      "name": "I\u2019ll Find My Way To You",
+      "url": "https://open.spotify.com/track/2R2haDSmphwkn4kANdHU5P"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -567,22 +567,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Love You Better",
-        "url": "https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6"
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/4xiFocLVSRz0H1hxizkWOT"
       },
       "artists": [
         {
-          "name": "Killen.",
-          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
         }
       ],
-      "duration_ms": 185524,
-      "name": "Love You Better",
-      "url": "https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU"
+      "duration_ms": 193420,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6klB3i7WPg51WX78i3t9yQ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -607,18 +603,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/4xiFocLVSRz0H1hxizkWOT"
+        "name": "Love You Better",
+        "url": "https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6"
       },
       "artists": [
         {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
         }
       ],
-      "duration_ms": 193420,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6klB3i7WPg51WX78i3t9yQ"
+      "duration_ms": 185524,
+      "name": "Love You Better",
+      "url": "https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -747,26 +747,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "We Will Meet Again",
-        "url": "https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 201199,
-      "name": "We Will Meet Again",
-      "url": "https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/0Uxar0jhip7in5QfGC5mYS"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 171437,
       "name": "Patience",
       "url": "https://open.spotify.com/track/5TrYG8zcjoit4ZdYWrwUnW"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "We Will Meet Again",
+        "url": "https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 201199,
+      "name": "We Will Meet Again",
+      "url": "https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -831,26 +831,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Oh, Miles",
-        "url": "https://open.spotify.com/album/4qf7IxbVrv9eLCGpCA8Asu"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 333870,
-      "name": "Oh, Miles",
-      "url": "https://open.spotify.com/track/61Hn9ssQkVEWq4ZmPwHyzd"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "No Matter What",
         "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 202992,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Oh, Miles",
+        "url": "https://open.spotify.com/album/4qf7IxbVrv9eLCGpCA8Asu"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 333870,
+      "name": "Oh, Miles",
+      "url": "https://open.spotify.com/track/61Hn9ssQkVEWq4ZmPwHyzd"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Sweet Nothings (feat. Minke)",
-        "url": "https://open.spotify.com/album/6ArVpsDw6r6FJZY5lCW0Mi"
-      },
-      "artists": [
-        {
-          "name": "Holiday87",
-          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
-        },
-        {
-          "name": "Minke",
-          "url": "https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw"
-        }
-      ],
-      "duration_ms": 228845,
-      "name": "Sweet Nothings (feat. Minke)",
-      "url": "https://open.spotify.com/track/1C4c6ojhV5NJDIS8KpDNNo"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Love We Lost (with R3HAB)",
         "url": "https://open.spotify.com/album/2IlpXQUD25LyrLQ5anXjZG"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 136000,
       "name": "Love We Lost (with R3HAB)",
       "url": "https://open.spotify.com/track/2ayyzfxamdoNRDI0au3wva"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Sweet Nothings (feat. Minke)",
+        "url": "https://open.spotify.com/album/6ArVpsDw6r6FJZY5lCW0Mi"
+      },
+      "artists": [
+        {
+          "name": "Holiday87",
+          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
+        },
+        {
+          "name": "Minke",
+          "url": "https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw"
+        }
+      ],
+      "duration_ms": 228845,
+      "name": "Sweet Nothings (feat. Minke)",
+      "url": "https://open.spotify.com/track/1C4c6ojhV5NJDIS8KpDNNo"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1083,6 +1083,22 @@
       "duration_ms": 192160,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "don't come back",
+        "url": "https://open.spotify.com/album/11cbxbrYCNcdzRMAbbKZop"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "don't come back",
+      "url": "https://open.spotify.com/track/3tPrgyExznmJs4wA51yXlJ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1211,22 +1227,6 @@
       "duration_ms": 253121,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/26wuBc04catG1QQyYupr35"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "don't come back",
-        "url": "https://open.spotify.com/album/11cbxbrYCNcdzRMAbbKZop"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "don't come back",
-      "url": "https://open.spotify.com/track/3tPrgyExznmJs4wA51yXlJ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Nobody Like You (feat. Lost Boy)",
-        "url": "https://open.spotify.com/album/6ZLME08avWNb8HM2nGGCHv"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Lost Boy",
-          "url": "https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Nobody Like You (feat. Lost Boy)",
-      "url": "https://open.spotify.com/track/0tI7SJjaezftm7xOaaIG2u"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Nothing Good Comes Easy",
         "url": "https://open.spotify.com/album/0YTq3BQL2BoHNIrcnGn3sm"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 223129,
       "name": "Not In Love (feat. LOWES)",
       "url": "https://open.spotify.com/track/28MLM0VRhhcqtWzxsNLvwu"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Nobody Like You (feat. Lost Boy)",
+        "url": "https://open.spotify.com/album/6ZLME08avWNb8HM2nGGCHv"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Lost Boy",
+          "url": "https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Nobody Like You (feat. Lost Boy)",
+      "url": "https://open.spotify.com/track/0tI7SJjaezftm7xOaaIG2u"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1919,26 +1919,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "State Of Mind",
-        "url": "https://open.spotify.com/album/3tqijD8XuF8D6bJ9GWV6IN"
-      },
-      "artists": [
-        {
-          "name": "Duke & Jones",
-          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
-        },
-        {
-          "name": "Marlhy",
-          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
-        }
-      ],
-      "duration_ms": 205476,
-      "name": "State Of Mind",
-      "url": "https://open.spotify.com/track/1DxP9H5LlFb5ChzoCwgKyg"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Miss You (feat. GG Magree) [Seven Lions and Gem & Tauri Remix]",
         "url": "https://open.spotify.com/album/7dc72fttC6n7Q3agzyMV3f"
       },
@@ -1983,6 +1963,26 @@
       "duration_ms": 205413,
       "name": "i...",
       "url": "https://open.spotify.com/track/6RjDvJCnxjAOOEQ5TiqKLU"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "State Of Mind",
+        "url": "https://open.spotify.com/album/3tqijD8XuF8D6bJ9GWV6IN"
+      },
+      "artists": [
+        {
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
+        },
+        {
+          "name": "Marlhy",
+          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
+        }
+      ],
+      "duration_ms": 205476,
+      "name": "State Of Mind",
+      "url": "https://open.spotify.com/track/1DxP9H5LlFb5ChzoCwgKyg"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2083,6 +2083,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Fear Of Dying",
+        "url": "https://open.spotify.com/album/7BZGJSErmcnCgkARvNA77Q"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "Fear Of Dying",
+      "url": "https://open.spotify.com/track/3lVaRWkDwUkHveuSbilYdE"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Sail Away (feat. Jay Mason)",
         "url": "https://open.spotify.com/album/6UEOL9j71DS5c7yvHV5xUW"
       },
@@ -2099,22 +2115,6 @@
       "duration_ms": 252200,
       "name": "Sail Away (feat. Jay Mason)",
       "url": "https://open.spotify.com/track/4r9qyANhnnv7q2ENG2ggre"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Fear Of Dying",
-        "url": "https://open.spotify.com/album/7BZGJSErmcnCgkARvNA77Q"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "Fear Of Dying",
-      "url": "https://open.spotify.com/track/3lVaRWkDwUkHveuSbilYdE"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2735,26 +2735,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Between Broken",
-        "url": "https://open.spotify.com/album/4zUW6lwQf3wHRdYawFEEWQ"
-      },
-      "artists": [
-        {
-          "name": "Dabin",
-          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
-        },
-        {
-          "name": "Trella",
-          "url": "https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT"
-        }
-      ],
-      "duration_ms": 243027,
-      "name": "Starbright",
-      "url": "https://open.spotify.com/track/5LuQvkBG365ue36BMujtSz"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Colorblind (feat. Dayseeker)",
         "url": "https://open.spotify.com/album/7zxLuEY7mKLKdyWjnCfP35"
       },
@@ -2775,6 +2755,26 @@
       "duration_ms": 199285,
       "name": "Colorblind (feat. Dayseeker)",
       "url": "https://open.spotify.com/track/45CwQAnBujkKzbDKX5wJmv"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Between Broken",
+        "url": "https://open.spotify.com/album/4zUW6lwQf3wHRdYawFEEWQ"
+      },
+      "artists": [
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        {
+          "name": "Trella",
+          "url": "https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT"
+        }
+      ],
+      "duration_ms": 243027,
+      "name": "Starbright",
+      "url": "https://open.spotify.com/track/5LuQvkBG365ue36BMujtSz"
     },
     {
       "added_at": "2024-07-26 04:00:00",

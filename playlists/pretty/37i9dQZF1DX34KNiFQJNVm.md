@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem POCAH, Kevi Jonny com Matheus & Kauan e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,924,378 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,924,476 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 34 | [Tá tudo bem](https://open.spotify.com/track/57gQchHXmrP8jXLdFtE1rK) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [Filhos da Bahia](https://open.spotify.com/artist/5jlYABoYGpsLvmNSVNH4hL), [Zaia](https://open.spotify.com/artist/18eQFudQPWsDIAX5MdlxlC) | [Tá tudo bem](https://open.spotify.com/album/72HrXeAVyKTA82xRxV1ZIK) | 3:19 |
 | 35 | [Antes de Trair \- Ao Vivo](https://open.spotify.com/track/4qbNbLrwZ4BgW3Gmk4gMS0) | [Pagode do Adame](https://open.spotify.com/artist/4GrG809bkgPIchC0oGU1Z0) | [Antes de Trair \(Ao Vivo\)](https://open.spotify.com/album/1TsSwmOaFKbg1ck5RxKIEY) | 2:33 |
 | 36 | [Dá Pra Ser Feliz](https://open.spotify.com/track/4jU74AgC3F0M63YcCJKZGh) | [Gina Garcia](https://open.spotify.com/artist/0fAZVlEXJBxtUOx84fw7gj), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Dá Pra Ser Feliz](https://open.spotify.com/album/590OSdBmlpEOe8rVsLYVJs) | 3:22 |
-| 37 | [Vagabundo de Sorte](https://open.spotify.com/track/1jhIdI2Fwi0EBItHo85PTC) | [Gabrielzinho](https://open.spotify.com/artist/0fqfWVF68BfV7RFPemHhDs) | [No Corre Vol\. 01](https://open.spotify.com/album/6rtw2uJ0s7XO0oHPdlwXsX) | 2:42 |
+| 37 | [Vagabundo de Sorte \(Ao Vivo\)](https://open.spotify.com/track/1jhIdI2Fwi0EBItHo85PTC) | [Gabrielzinho](https://open.spotify.com/artist/0fqfWVF68BfV7RFPemHhDs) | [No Corre Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/6rtw2uJ0s7XO0oHPdlwXsX) | 2:42 |
 | 38 | [Vergonha Na Bagaceira](https://open.spotify.com/track/0Hj9godB8MoWtqzdnx3chI) | [Kaká e Pedrinho](https://open.spotify.com/artist/7HykrpnKhu6QMb2jh6SMQQ) | [Piração 3.0](https://open.spotify.com/album/7hfS72fxK3OxsF8vAZqInG) | 2:44 |
 | 39 | [Cold Blooded](https://open.spotify.com/track/4FKURHEBJawl7Da2OIocSz) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8), [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Cold Blooded](https://open.spotify.com/album/5JosVPtHNfu2O4m0QTIfab) | 2:41 |
-| 40 | [Chápeu Na Testa \- Sistema Diferente, Ao Vivo](https://open.spotify.com/track/1S5eV3IOyWT2Z6OIYiW3s4) | [Bruno Reis & Thiago](https://open.spotify.com/artist/2rJTiPZiYxJaAhyvNT2Thr), [New Music Play](https://open.spotify.com/artist/3k7MPOrJwbfxQS4ArgsNEG) | [Chápeu Na Testa \(Sistema Diferente\)](https://open.spotify.com/album/47ceBGWur7MUkojAAKJqnt) | 3:04 |
+| 40 | [Chapéu Na Testa \- Sistema Diferente, Ao Vivo](https://open.spotify.com/track/1S5eV3IOyWT2Z6OIYiW3s4) | [Bruno Reis & Thiago](https://open.spotify.com/artist/2rJTiPZiYxJaAhyvNT2Thr), [New Music Play](https://open.spotify.com/artist/3k7MPOrJwbfxQS4ArgsNEG) | [Chapéu Na Testa \(Sistema Diferente\)](https://open.spotify.com/album/47ceBGWur7MUkojAAKJqnt) | 3:04 |
 | 41 | [Pai, por quê?](https://open.spotify.com/track/6b0vkAnCfg31Bgaw9jHUgJ) | [Enzo Rabelo](https://open.spotify.com/artist/7m4l75rnuQbI88PGYVYLkm), [Bruno](https://open.spotify.com/artist/6xTE2Q6MPdXyS5FJ6JGURo) | [Pai, por quê?](https://open.spotify.com/album/4jEBtbySu9AelkzXQWUfpH) | 3:16 |
 | 42 | [Passa O Coração \- Ao Vivo](https://open.spotify.com/track/1QALOsGP1M2njqyqntnYan) | [Kart Love](https://open.spotify.com/artist/7FHGKU22zhtwuitt18w8jN), [Heitor Costa](https://open.spotify.com/artist/1f0uTZ6roXfWpYsN8V1QqM) | [Passa O Coração \(Ao Vivo\)](https://open.spotify.com/album/5J7m3aANMay151SJRZ8ViQ) | 2:08 |
 | 43 | [Gosto Mais De Vaquejada](https://open.spotify.com/track/2gwJNCXEqyQ6vdtrvXueP0) | [Grandão Vaqueiro](https://open.spotify.com/artist/1gveCzOmKMjqEMwuB5kKNH) | [Eu Gosto Mais de Vaquejada](https://open.spotify.com/album/4DVloTqjlWEXrvNsa2OtT4) | 2:38 |

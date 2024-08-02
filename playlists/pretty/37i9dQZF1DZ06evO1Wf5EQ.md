@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 
 ### [This Is Carlos Rafael Rivera](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Wf5EQ)
 
-> This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
+> This Is Carlos Rafael Rivera\. Les titres incontournables, réunis dans une seule et même playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 550 likes - 27 songs - 45 min 58 sec
 
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 | 26 | [Gabrielle](https://open.spotify.com/track/0RuBnQUTmflQVJi4VI556A) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Monsieur Spade \(Original Series Soundtrack\)](https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u) | 1:57 |
 | 27 | [Life Is Messy](https://open.spotify.com/track/4r0V4D1P9OVn7ogJsxwu1a) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Ezra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2UbyTUN7UOsnV6lT9ecAky) | 1:51 |
 
-Snapshot ID: `ZqgtAAAAAABsQwDcuuoQg35Bf4I8ftUh`
+Snapshot ID: `Zql+gAAAAAC5oKy5jDtqY2woMuax2hak`

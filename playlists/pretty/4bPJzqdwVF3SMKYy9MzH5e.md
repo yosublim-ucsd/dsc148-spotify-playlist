@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,928 songs - 4 day 7 hr 52 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,931 songs - 4 day 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1936,5 +1936,8 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1926 | [Liverpool Street In The Rain](https://open.spotify.com/track/2anY2gPJklTi9HcFx4Xdas) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [How The Dogs Chill, Vol.1](https://open.spotify.com/album/12KUsz5VGp0SNjfXPxNVjE) | 5:32 |
 | 1927 | [tension](https://open.spotify.com/track/01kclZe2YxCS39ykf4Wpzd) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [tension](https://open.spotify.com/album/4UKvA0W2eTUphnKu0TRRSo) | 2:10 |
 | 1928 | [autumnrust](https://open.spotify.com/track/0Ru66uwT3sAwSKZvsrRYzi) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [autumnrust](https://open.spotify.com/album/5CFrBU4tfzL5LyFSzEn81x) | 3:54 |
+| 1929 | [severed](https://open.spotify.com/track/5dS6OAmkHffFSWyyor7etp) | [shallowprayer](https://open.spotify.com/artist/3fu5lsDzkenXGoUT8dcykr) | [severed](https://open.spotify.com/album/69JvwNBbHjWCUYZaQlyPcQ) | 3:06 |
+| 1930 | [rotten](https://open.spotify.com/track/4UQEO2qie20yQZezxZvsAy) | [anna luna](https://open.spotify.com/artist/6uGADSP0D3HW4ZpALfJwUR) | [rotten](https://open.spotify.com/album/1t5r6vxPgVDjlUUYhiN0s5) | 2:10 |
+| 1931 | [Disguise](https://open.spotify.com/track/49Uj7to7tltsauzvbvDUZ1) | [Somewhere Special](https://open.spotify.com/artist/2uzCJprANXTMHARrvOIlWq) | [Disguise](https://open.spotify.com/album/7MVTglonJzo6LgHJI8MA92) | 2:20 |
 
-Snapshot ID: `AAADLKb3brwkbZNrfkGbtU7qFTjNX14j`
+Snapshot ID: `AAADL1K31GsvNpjtOCf87kAtzrK8e6z0`

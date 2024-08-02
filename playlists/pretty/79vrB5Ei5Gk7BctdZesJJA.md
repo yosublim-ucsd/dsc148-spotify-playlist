@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain]
 
 > Official Roadrunner Records Playlist \- This week's DEADNOISE.FM curator is Elaine from Wristmeetrazor
 
-[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,853 likes - 40 songs - 2 hr 37 min
+[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,854 likes - 40 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

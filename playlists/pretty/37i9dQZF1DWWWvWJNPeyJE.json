@@ -1,6 +1,6 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 310339,
+  "num_followers": 310428,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-06-24 11:06:47",
       "album": {
+        "name": "Jackie (Deluxe)",
+        "url": "https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "duration_ms": 256600,
+      "name": "Dance Like We're Making Love",
+      "url": "https://open.spotify.com/track/3biFdxByHgUhTbp2dG89zK"
+    },
+    {
+      "added_at": "2024-06-24 11:06:47",
+      "album": {
         "name": "Morning",
         "url": "https://open.spotify.com/album/65Jg9mmsgao1JJizzRt7em"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 253946,
       "name": "Morning",
       "url": "https://open.spotify.com/track/2E6S3NgbSG9NYwbdi6rWYB"
-    },
-    {
-      "added_at": "2024-06-24 11:06:47",
-      "album": {
-        "name": "Jackie (Deluxe)",
-        "url": "https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "Dance Like We're Making Love",
-      "url": "https://open.spotify.com/track/3biFdxByHgUhTbp2dG89zK"
     },
     {
       "added_at": "2024-06-24 11:06:47",

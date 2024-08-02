@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-20",
-  "description": "Just wanna Praise the Lord and chill. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH?si=0lJgMD1sS_mVVF1J_3ofwg>CalledOut Music",
+  "description": "Just wanna Praise the Lord and chill. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ?si=X1NzBr6TSTiCYrffTDZUQw>Sal Ly",
   "name": "Praise and Chill",
   "tracks": [
     {
@@ -3187,6 +3187,32 @@
     },
     {
       "album": {
+        "name": "Made Me",
+        "url": "https://open.spotify.com/album/7wzJBGTEo9gBQNEoAr777p"
+      },
+      "artists": [
+        {
+          "name": "Spillz Ochai",
+          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
+        },
+        {
+          "name": "R-Scar",
+          "url": "https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH"
+        },
+        {
+          "name": "SOD MUSIQ",
+          "url": "https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171723,
+      "name": "Made Me",
+      "url": "https://open.spotify.com/track/1yjDzsAmGhp2ERtpB0EGwE"
+    },
+    {
+      "album": {
         "name": "Majesty",
         "url": "https://open.spotify.com/album/5iRJ5hu2x25swvNmHOkYV6"
       },
@@ -4111,6 +4137,32 @@
     },
     {
       "album": {
+        "name": "Oliver Twist",
+        "url": "https://open.spotify.com/album/48z4etKzHz79arJUP135i3"
+      },
+      "artists": [
+        {
+          "name": "Nuelzo",
+          "url": "https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR"
+        },
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "A Tribe Apart",
+          "url": "https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Oliver Twist",
+      "url": "https://open.spotify.com/track/48bLWSgeOxYO524IMzYhR6"
+    },
+    {
+      "album": {
         "name": "Hallelujah Again (Revelation 19:3)",
         "url": "https://open.spotify.com/album/5HjyQX3GmSbNBL1bG3D6Gf"
       },
@@ -4808,6 +4860,24 @@
       "duration_ms": 129229,
       "name": "Sanity",
       "url": "https://open.spotify.com/track/1hRxHkgUvC9ir8gMlob3u5"
+    },
+    {
+      "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/2SyQwAaiJD1F2jx3mRZcpQ"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218180,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/0CMc04Rm7XZWjT1DwdYoHD"
     },
     {
       "album": {

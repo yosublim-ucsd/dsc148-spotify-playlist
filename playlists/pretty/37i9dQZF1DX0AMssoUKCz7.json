@@ -1,6 +1,6 @@
 {
   "description": "Take down the tempo but keep the dance party going with the biggest tropical house jams.",
-  "num_followers": 2236730,
+  "num_followers": 2236987,
   "original_name": "Tropical House",
   "owner": {
     "name": "Spotify",
@@ -383,18 +383,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Follow the Sun",
-        "url": "https://open.spotify.com/album/1lSdGLnnafiYlTMRKvXFae"
+        "name": "Sunbeams",
+        "url": "https://open.spotify.com/album/3GKSanPZhzbDXOgo9dY3pY"
       },
       "artists": [
         {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
         }
       ],
-      "duration_ms": 154313,
-      "name": "Follow the Sun",
-      "url": "https://open.spotify.com/track/5NhrlsuS5y4T4N7WbbEute"
+      "duration_ms": 147125,
+      "name": "Sunbeams",
+      "url": "https://open.spotify.com/track/16hV7KbASg4EWoEymJerRA"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Sunbeams",
-        "url": "https://open.spotify.com/album/3GKSanPZhzbDXOgo9dY3pY"
+        "name": "Follow the Sun",
+        "url": "https://open.spotify.com/album/1lSdGLnnafiYlTMRKvXFae"
       },
       "artists": [
         {
-          "name": "NSH",
-          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
         }
       ],
-      "duration_ms": 147125,
-      "name": "Sunbeams",
-      "url": "https://open.spotify.com/track/16hV7KbASg4EWoEymJerRA"
+      "duration_ms": 154313,
+      "name": "Follow the Sun",
+      "url": "https://open.spotify.com/track/5NhrlsuS5y4T4N7WbbEute"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1163,6 +1163,30 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Before LA",
+        "url": "https://open.spotify.com/album/4AkoffQBD7hYtcKwK3WENM"
+      },
+      "artists": [
+        {
+          "name": "Fo\u00ednix",
+          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
+        },
+        {
+          "name": "Chris Ruo",
+          "url": "https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        }
+      ],
+      "duration_ms": 171653,
+      "name": "Before LA",
+      "url": "https://open.spotify.com/track/71dVzENqh6brbKDWRmL5IE"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Where I Belong",
         "url": "https://open.spotify.com/album/1G0jW7eipMKCiiHml5Cwmq"
       },
@@ -1175,30 +1199,6 @@
       "duration_ms": 157375,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/1iMDLTTnmTivGA4bJ80F85"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Good Vibes",
-        "url": "https://open.spotify.com/album/6Z2rNJgd3Y3WdOpDjHTGjk"
-      },
-      "artists": [
-        {
-          "name": "SRTW",
-          "url": "https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD"
-        },
-        {
-          "name": "Nimus",
-          "url": "https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo"
-        },
-        {
-          "name": "madugo",
-          "url": "https://open.spotify.com/artist/5NstYi6AvKAVD0kroo0QVC"
-        }
-      ],
-      "duration_ms": 109830,
-      "name": "Good Vibes",
-      "url": "https://open.spotify.com/track/6iM5YlBhftinw3qHJdd2qp"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1227,6 +1227,30 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/6Z2rNJgd3Y3WdOpDjHTGjk"
+      },
+      "artists": [
+        {
+          "name": "SRTW",
+          "url": "https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD"
+        },
+        {
+          "name": "Nimus",
+          "url": "https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo"
+        },
+        {
+          "name": "madugo",
+          "url": "https://open.spotify.com/artist/5NstYi6AvKAVD0kroo0QVC"
+        }
+      ],
+      "duration_ms": 109830,
+      "name": "Good Vibes",
+      "url": "https://open.spotify.com/track/6iM5YlBhftinw3qHJdd2qp"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Blossom",
         "url": "https://open.spotify.com/album/5e33ZdqLTi4rBv0yVlSQfO"
       },
@@ -1243,30 +1267,6 @@
       "duration_ms": 130623,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/4SgjQcULlbOSQQqdpPQyHW"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Before LA",
-        "url": "https://open.spotify.com/album/4AkoffQBD7hYtcKwK3WENM"
-      },
-      "artists": [
-        {
-          "name": "Fo\u00ednix",
-          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
-        },
-        {
-          "name": "Chris Ruo",
-          "url": "https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY"
-        },
-        {
-          "name": "Robbie Rosen",
-          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
-        }
-      ],
-      "duration_ms": 171653,
-      "name": "Before LA",
-      "url": "https://open.spotify.com/track/71dVzENqh6brbKDWRmL5IE"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Probably Paradise",
-        "url": "https://open.spotify.com/album/1XPGR76SriABi9I1b794RV"
-      },
-      "artists": [
-        {
-          "name": "Luvine",
-          "url": "https://open.spotify.com/artist/4mxVvkFC2mmOJ5QXBdRSDy"
-        },
-        {
-          "name": "Lisa Rowe",
-          "url": "https://open.spotify.com/artist/4WCciDwAfaLXtcH4yjfaDq"
-        }
-      ],
-      "duration_ms": 123750,
-      "name": "Probably Paradise",
-      "url": "https://open.spotify.com/track/3ASJqw6Ih1vz1s44j7cPyS"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Tear Me Down (feat. Philip Rustad)",
         "url": "https://open.spotify.com/album/0RUNbRdWfIcWw8cawHYi1K"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 184500,
       "name": "Tear Me Down (feat. Philip Rustad)",
       "url": "https://open.spotify.com/track/71UYuIZf0TeXAjyy72COVr"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Probably Paradise",
+        "url": "https://open.spotify.com/album/1XPGR76SriABi9I1b794RV"
+      },
+      "artists": [
+        {
+          "name": "Luvine",
+          "url": "https://open.spotify.com/artist/4mxVvkFC2mmOJ5QXBdRSDy"
+        },
+        {
+          "name": "Lisa Rowe",
+          "url": "https://open.spotify.com/artist/4WCciDwAfaLXtcH4yjfaDq"
+        }
+      ],
+      "duration_ms": 123750,
+      "name": "Probably Paradise",
+      "url": "https://open.spotify.com/track/3ASJqw6Ih1vz1s44j7cPyS"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1907,26 +1907,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Money Trees",
-        "url": "https://open.spotify.com/album/23bqeyhRwGWrVJEJ00KXDP"
-      },
-      "artists": [
-        {
-          "name": "Phil Soda",
-          "url": "https://open.spotify.com/artist/6oOURapauLCNtDmaYMv78O"
-        },
-        {
-          "name": "Lucas Ariel",
-          "url": "https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T"
-        }
-      ],
-      "duration_ms": 166357,
-      "name": "Money Trees",
-      "url": "https://open.spotify.com/track/5I7P6BcKa3CLI5tC91Ee5p"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "House in The Woods",
         "url": "https://open.spotify.com/album/0fqeKt7ZQK5HGQbkeJTpHz"
       },
@@ -1943,6 +1923,26 @@
       "duration_ms": 128134,
       "name": "House in The Woods",
       "url": "https://open.spotify.com/track/2Ge6aFLbGMoAUqqw5tyDBu"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Money Trees",
+        "url": "https://open.spotify.com/album/23bqeyhRwGWrVJEJ00KXDP"
+      },
+      "artists": [
+        {
+          "name": "Phil Soda",
+          "url": "https://open.spotify.com/artist/6oOURapauLCNtDmaYMv78O"
+        },
+        {
+          "name": "Lucas Ariel",
+          "url": "https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T"
+        }
+      ],
+      "duration_ms": 166357,
+      "name": "Money Trees",
+      "url": "https://open.spotify.com/track/5I7P6BcKa3CLI5tC91Ee5p"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "I'll Be Alright",
-        "url": "https://open.spotify.com/album/621vQENf53N8IYGxFashcT"
-      },
-      "artists": [
-        {
-          "name": "Magnus Gunn",
-          "url": "https://open.spotify.com/artist/4CgaDc9IaWz2tHRO8T8lgi"
-        }
-      ],
-      "duration_ms": 182268,
-      "name": "I'll Be Alright",
-      "url": "https://open.spotify.com/track/6kJPj0Z5a7XWsio8PXTbLY"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Existe El Amor",
         "url": "https://open.spotify.com/album/3JyjkVtZ539jj7srxSCQGY"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 125094,
       "name": "Existe El Amor",
       "url": "https://open.spotify.com/track/1vrFjapAsAdYA2Xmtry5de"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "I'll Be Alright",
+        "url": "https://open.spotify.com/album/621vQENf53N8IYGxFashcT"
+      },
+      "artists": [
+        {
+          "name": "Magnus Gunn",
+          "url": "https://open.spotify.com/artist/4CgaDc9IaWz2tHRO8T8lgi"
+        }
+      ],
+      "duration_ms": 182268,
+      "name": "I'll Be Alright",
+      "url": "https://open.spotify.com/track/6kJPj0Z5a7XWsio8PXTbLY"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2767,22 +2767,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "One Call Away",
-        "url": "https://open.spotify.com/album/3xb5jbTtWPyIj52NmMMXm2"
+        "name": "DREAM",
+        "url": "https://open.spotify.com/album/0KbWlqnCqZYyjiMR1t1pBn"
       },
       "artists": [
         {
-          "name": "Kid On The Block",
-          "url": "https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH"
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
         },
         {
-          "name": "Namt\u00e9",
-          "url": "https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6"
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
         }
       ],
-      "duration_ms": 143030,
-      "name": "One Call Away",
-      "url": "https://open.spotify.com/track/3s4cYYRI8Prz7nqZRVDv8J"
+      "duration_ms": 160645,
+      "name": "DREAM",
+      "url": "https://open.spotify.com/track/3DIhIFClJnFyEdxj2ONqlw"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2807,6 +2807,26 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "One Call Away",
+        "url": "https://open.spotify.com/album/3xb5jbTtWPyIj52NmMMXm2"
+      },
+      "artists": [
+        {
+          "name": "Kid On The Block",
+          "url": "https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH"
+        },
+        {
+          "name": "Namt\u00e9",
+          "url": "https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6"
+        }
+      ],
+      "duration_ms": 143030,
+      "name": "One Call Away",
+      "url": "https://open.spotify.com/track/3s4cYYRI8Prz7nqZRVDv8J"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Not Giving You Up (Vandelux Remix)",
         "url": "https://open.spotify.com/album/0bWx6P1rLhb0q470e6JblG"
       },
@@ -2827,22 +2847,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "DREAM",
-        "url": "https://open.spotify.com/album/0KbWlqnCqZYyjiMR1t1pBn"
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/5JYMiZJ6aIRiK1liSUKK5r"
       },
       "artists": [
         {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
-        },
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+          "name": "Thomas Jack",
+          "url": "https://open.spotify.com/artist/6JmzdIDSQdeHg0pocIascm"
         }
       ],
-      "duration_ms": 160645,
-      "name": "DREAM",
-      "url": "https://open.spotify.com/track/3DIhIFClJnFyEdxj2ONqlw"
+      "duration_ms": 205714,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/14GVXonn2x13wYG00phRjM"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2867,22 +2883,6 @@
       "duration_ms": 182400,
       "name": "Do It All For You",
       "url": "https://open.spotify.com/track/6NObVhdEjWkH216Xq7MNup"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/5JYMiZJ6aIRiK1liSUKK5r"
-      },
-      "artists": [
-        {
-          "name": "Thomas Jack",
-          "url": "https://open.spotify.com/artist/6JmzdIDSQdeHg0pocIascm"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Soul",
-      "url": "https://open.spotify.com/track/14GVXonn2x13wYG00phRjM"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -3307,30 +3307,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "When You Love Someone",
-        "url": "https://open.spotify.com/album/6AaVw6FyWCbb3AiDR5FPc3"
-      },
-      "artists": [
-        {
-          "name": "Rolipso",
-          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
-        },
-        {
-          "name": "Fo\u00ednix",
-          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
-        },
-        {
-          "name": "James Stefano",
-          "url": "https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf"
-        }
-      ],
-      "duration_ms": 144923,
-      "name": "When You Love Someone",
-      "url": "https://open.spotify.com/track/0pRk0LA70mT0AGa0GWRA7s"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Backyard Stories \u2014 Summer Forever",
         "url": "https://open.spotify.com/album/2H4326zTOaXXdJ5h61biES"
       },
@@ -3363,6 +3339,30 @@
       "duration_ms": 179113,
       "name": "City of Love",
       "url": "https://open.spotify.com/track/3Cg22mWYpcDrCLWsgTaUwk"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "When You Love Someone",
+        "url": "https://open.spotify.com/album/6AaVw6FyWCbb3AiDR5FPc3"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "Fo\u00ednix",
+          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
+        },
+        {
+          "name": "James Stefano",
+          "url": "https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf"
+        }
+      ],
+      "duration_ms": 144923,
+      "name": "When You Love Someone",
+      "url": "https://open.spotify.com/track/0pRk0LA70mT0AGa0GWRA7s"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -3603,22 +3603,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "A Little Bit Closer",
-        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
-      },
-      "artists": [
-        {
-          "name": "SoN",
-          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "A Little Bit Closer",
-      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Shatterproof (Sebastian Davidson Remix)",
         "url": "https://open.spotify.com/album/74weVpLq86UNh1LlZjrcmu"
       },
@@ -3635,6 +3619,22 @@
       "duration_ms": 166693,
       "name": "Shatterproof - Sebastian Davidson Remix",
       "url": "https://open.spotify.com/track/3jkyGmk58RSeyTnhHDam7v"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "A Little Bit Closer",
+        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
+      },
+      "artists": [
+        {
+          "name": "SoN",
+          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "A Little Bit Closer",
+      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -3719,26 +3719,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "I Remember",
-        "url": "https://open.spotify.com/album/0xVS8f3EFMcmNo9uCF55dO"
-      },
-      "artists": [
-        {
-          "name": "Deerock",
-          "url": "https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh"
-        },
-        {
-          "name": "Taye",
-          "url": "https://open.spotify.com/artist/5KglBmg3ivkpxNMwDVTvXa"
-        }
-      ],
-      "duration_ms": 201655,
-      "name": "I Remember",
-      "url": "https://open.spotify.com/track/6tjo4rU1WlQyYm6eWlZFsU"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Wanderlust",
         "url": "https://open.spotify.com/album/79rM1OVbpQvs0RrmCzbnwk"
       },
@@ -3755,6 +3735,26 @@
       "duration_ms": 166000,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/6rLUqI3MUMGdaSYM6rfhbB"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "I Remember",
+        "url": "https://open.spotify.com/album/0xVS8f3EFMcmNo9uCF55dO"
+      },
+      "artists": [
+        {
+          "name": "Deerock",
+          "url": "https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh"
+        },
+        {
+          "name": "Taye",
+          "url": "https://open.spotify.com/artist/5KglBmg3ivkpxNMwDVTvXa"
+        }
+      ],
+      "duration_ms": 201655,
+      "name": "I Remember",
+      "url": "https://open.spotify.com/track/6tjo4rU1WlQyYm6eWlZFsU"
     },
     {
       "added_at": "2024-07-19 04:00:00",

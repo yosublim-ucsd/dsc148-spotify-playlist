@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92186,
+  "num_followers": 92178,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -687,42 +687,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Drakar",
-        "url": "https://open.spotify.com/album/39WTqqEmR9dZV7ygjX1TxE"
-      },
-      "artists": [
-        {
-          "name": "Niello",
-          "url": "https://open.spotify.com/artist/3oKLD3PuOc20nNDoSCKDY7"
-        },
-        {
-          "name": "Lisa Ekdahl",
-          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
-        }
-      ],
-      "duration_ms": 168566,
-      "name": "Drakar",
-      "url": "https://open.spotify.com/track/4ip89aAHN98ptLeYzpB3OS"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "We're In This Together",
-        "url": "https://open.spotify.com/album/1xMGQmpdFO9ctJdZhl4kgs"
-      },
-      "artists": [
-        {
-          "name": "Dotter",
-          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
-        }
-      ],
-      "duration_ms": 140533,
-      "name": "We're In This Together",
-      "url": "https://open.spotify.com/track/6NBg7sawDf6GjenlbBboAa"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/5Eia9IVqXdnCdYlH4bYIqy"
       },
@@ -743,6 +707,42 @@
       "duration_ms": 190920,
       "name": "DNA",
       "url": "https://open.spotify.com/track/7K0wD27Wui57iJGEVoKCkF"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "We're In This Together",
+        "url": "https://open.spotify.com/album/1xMGQmpdFO9ctJdZhl4kgs"
+      },
+      "artists": [
+        {
+          "name": "Dotter",
+          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+        }
+      ],
+      "duration_ms": 140533,
+      "name": "We're In This Together",
+      "url": "https://open.spotify.com/track/6NBg7sawDf6GjenlbBboAa"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Drakar",
+        "url": "https://open.spotify.com/album/39WTqqEmR9dZV7ygjX1TxE"
+      },
+      "artists": [
+        {
+          "name": "Niello",
+          "url": "https://open.spotify.com/artist/3oKLD3PuOc20nNDoSCKDY7"
+        },
+        {
+          "name": "Lisa Ekdahl",
+          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
+        }
+      ],
+      "duration_ms": 168566,
+      "name": "Drakar",
+      "url": "https://open.spotify.com/track/4ip89aAHN98ptLeYzpB3OS"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -799,26 +799,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Lucy Rider",
-        "url": "https://open.spotify.com/album/5CD61BtzWq6aPXULvnAnve"
-      },
-      "artists": [
-        {
-          "name": "Alberta Cross",
-          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
-        },
-        {
-          "name": "Katie Melua",
-          "url": "https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Lucy Rider",
-      "url": "https://open.spotify.com/track/7JhHxjF89Nd3c6MEtjXx24"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Fri till slut - Spotify Singles",
         "url": "https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 288155,
       "name": "Fri till slut - Spotify Singles",
       "url": "https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Lucy Rider",
+        "url": "https://open.spotify.com/album/5CD61BtzWq6aPXULvnAnve"
+      },
+      "artists": [
+        {
+          "name": "Alberta Cross",
+          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
+        },
+        {
+          "name": "Katie Melua",
+          "url": "https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Lucy Rider",
+      "url": "https://open.spotify.com/track/7JhHxjF89Nd3c6MEtjXx24"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "V\u00e5t cigg",
-        "url": "https://open.spotify.com/album/13aQpmGiwma9E39lQip4ip"
-      },
-      "artists": [
-        {
-          "name": "Lancelot",
-          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "V\u00e5t cigg",
-      "url": "https://open.spotify.com/track/5uHlBtaRXlyJhbMYAIBFRH"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Midsommardansen",
         "url": "https://open.spotify.com/album/1UNEdDLIdVQY5YGfuTWq4W"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 124601,
       "name": "Midsommardansen",
       "url": "https://open.spotify.com/track/4F3aW9AjSA4mt3nQB1NTKt"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "V\u00e5t cigg",
+        "url": "https://open.spotify.com/album/13aQpmGiwma9E39lQip4ip"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "V\u00e5t cigg",
+      "url": "https://open.spotify.com/track/5uHlBtaRXlyJhbMYAIBFRH"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Tillbaka i Brunnsvik",
-        "url": "https://open.spotify.com/album/6OWlwPVDf8HUyi9upjrDdc"
-      },
-      "artists": [
-        {
-          "name": "Magnus Carlson",
-          "url": "https://open.spotify.com/artist/4Ag5mrJhXH238pExZYJcaM"
-        }
-      ],
-      "duration_ms": 286200,
-      "name": "En v\u00e4rld v\u00e4rd att \u00e4lska",
-      "url": "https://open.spotify.com/track/14mvAyboIxOzI5UMeGqoJK"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Show Me",
         "url": "https://open.spotify.com/album/2iX8n3q3raSUgt3J1ejovV"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 218507,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/23mymG8MR8H4oQ6uyJ40cQ"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Tillbaka i Brunnsvik",
+        "url": "https://open.spotify.com/album/6OWlwPVDf8HUyi9upjrDdc"
+      },
+      "artists": [
+        {
+          "name": "Magnus Carlson",
+          "url": "https://open.spotify.com/artist/4Ag5mrJhXH238pExZYJcaM"
+        }
+      ],
+      "duration_ms": 286200,
+      "name": "En v\u00e4rld v\u00e4rd att \u00e4lska",
+      "url": "https://open.spotify.com/track/14mvAyboIxOzI5UMeGqoJK"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Lily Of The Valley",
-        "url": "https://open.spotify.com/album/7ivEAEyQvcQPzaRGKMbYcY"
-      },
-      "artists": [
-        {
-          "name": "Elin Lanto",
-          "url": "https://open.spotify.com/artist/4sAGoiErI2rWziF96i4eNT"
-        }
-      ],
-      "duration_ms": 189583,
-      "name": "Lily Of The Valley",
-      "url": "https://open.spotify.com/track/39xdvtTXTiWnkkLlJOfqTn"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Sommartider",
         "url": "https://open.spotify.com/album/4WEMP3mTVAWogpn0Dfpnll"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 160546,
       "name": "Sommartider",
       "url": "https://open.spotify.com/track/3jGs9Nt1ZoxJou5gVEEech"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Lily Of The Valley",
+        "url": "https://open.spotify.com/album/7ivEAEyQvcQPzaRGKMbYcY"
+      },
+      "artists": [
+        {
+          "name": "Elin Lanto",
+          "url": "https://open.spotify.com/artist/4sAGoiErI2rWziF96i4eNT"
+        }
+      ],
+      "duration_ms": 189583,
+      "name": "Lily Of The Valley",
+      "url": "https://open.spotify.com/track/39xdvtTXTiWnkkLlJOfqTn"
     },
     {
       "added_at": "2024-06-27 22:00:00",

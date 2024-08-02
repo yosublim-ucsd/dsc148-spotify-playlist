@@ -4,7 +4,7 @@
 
 > Your go\-to playlist for this week's hottest music featuring The Kid LAROI, Miley Cyrus, and more! Cover: Koe Wetzel
 
-816 songs - 1 day 17 hr 5 min
+817 songs - 1 day 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [I Hate Texas](https://open.spotify.com/track/6XLuWhRnXFxk6YXaEB0z75) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [I Hate Texas](https://open.spotify.com/album/5TYiF7DYOOQg63RNG4wUIT) | 3:44 | 2023-04-07 | 2023-05-06 |
 | [i hate waking up \(feat\. Rxseboy, SadBoyProlific & Alek Olsen\)](https://open.spotify.com/track/5ubG9w0UF7rCL5mkWVMcRJ) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z), [Alek Olsen](https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8) | [i hate waking up](https://open.spotify.com/album/2TJYtkN6IE8nunpi5waisp) | 3:03 | 2022-10-14 | 2022-10-22 |
 | [i hope i never fall in love](https://open.spotify.com/track/0cReJwYGe3GlKZ54PDzCm6) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [i hope i never fall in love](https://open.spotify.com/album/5mc2oRLJlsEleIHtNzQ1Zz) | 3:36 | 2024-07-12 |  |
+| [i hope i never fall in love](https://open.spotify.com/track/390iwei17tVqcJ0PMoA0JR) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Intermission](https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c) | 3:36 | 2024-07-12 |  |
 | [I Just Want a Lover](https://open.spotify.com/track/1rwMM6ixKWnsRQMUeRbXeT) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:21 | 2022-09-16 | 2023-02-16 |
 | [I Know \(feat\. Tenille Townes & Bryce Vine\)](https://open.spotify.com/track/5DU3wahsCBJ6kkyDBYpIRN) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [I Know \(feat\. Tenille Townes & Bryce Vine\)](https://open.spotify.com/album/67YRdAiqz6kybb31VrYo58) | 3:03 | 2023-06-23 | 2023-07-01 |
 | [I Like Big Trucks](https://open.spotify.com/track/4Br1OPEqim9i6HQXMZMgEI) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [I Like Big Trucks](https://open.spotify.com/album/1hMaCa5rG67ztGrn5VsdyF) | 2:49 | 2024-03-08 | 2024-05-03 |

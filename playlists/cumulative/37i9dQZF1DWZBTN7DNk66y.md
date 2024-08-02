@@ -2,9 +2,9 @@
 
 ### [Voces del Sur](https://open.spotify.com/playlist/37i9dQZF1DWZBTN7DNk66y)
 
-> El nuevo sonido de la canción sudamericana de la mano de Mocchi.
+> El nuevo sonido de la canción sudamericana de la mano de Mocchi
 
-111 songs - 6 hr 29 min
+112 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Latinoamérica \(Aquí estamos de pie\)](https://open.spotify.com/track/2LSLrUEM8IZ3WrUE4wv8vO) | [Lucrecia Pinto](https://open.spotify.com/artist/5RYdKjTrw6Z14Vwtd0f0nR), [Darío Sztajnszrajber](https://open.spotify.com/artist/453QsKyL010NjMRXi5hGcI) | [Latinoamérica \(Aquí estamos de pie\)](https://open.spotify.com/album/30yi1BdQylOAW2Y80Fe8Ej) | 6:07 | 2024-06-28 |  |
 | [Lo que necesito](https://open.spotify.com/track/3uTIEwwY9uHgmKEbkaGDFd) | [Seba Alfaro](https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk), [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Lo que necesito](https://open.spotify.com/album/4IsJ57gam4V2vSqrN5GlKT) | 3:20 | 2024-06-28 |  |
 | [lo\_divino](https://open.spotify.com/track/3cINNpglikeD4NAuTFMOaX) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [lo\_divino](https://open.spotify.com/album/2g6RJzn4rdlFwB3UgCX63A) | 3:21 | 2024-06-28 |  |
-| [Loca](https://open.spotify.com/track/0OXWX6Ftyyi5XTrF4ddd1k) | [Gabo Ferro](https://open.spotify.com/artist/085q57OvE341Q8n77AE9RT), [Edgardo Gonzalez](https://open.spotify.com/artist/3VnhYHJGJrZXNsfDtlAodX) | [Loca](https://open.spotify.com/album/76csASXSjCjWAFGT0p4BUS) | 2:58 | 2024-06-28 |  |
+| [Loca](https://open.spotify.com/track/0OXWX6Ftyyi5XTrF4ddd1k) | [Gabo Ferro](https://open.spotify.com/artist/085q57OvE341Q8n77AE9RT), [Edgardo Gonzalez](https://open.spotify.com/artist/3VnhYHJGJrZXNsfDtlAodX) | [Loca](https://open.spotify.com/album/76csASXSjCjWAFGT0p4BUS) | 2:58 | 2024-06-28 | 2024-08-02 |
 | [Los Ancestros](https://open.spotify.com/track/7epCtFajoM2z7QtbnY23W2) | [Lucio Mantel](https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk), [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [Los Ancestros](https://open.spotify.com/album/2CUmklyaIJvfKBU65k5o24) | 4:10 | 2024-06-28 |  |
 | [Los Andes](https://open.spotify.com/track/6bfd8pclPiJJ0Iunlt50xQ) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Los Andes](https://open.spotify.com/album/46HToLQXsQFmePBjJlF07j) | 2:35 | 2024-06-28 |  |
 | [Malagradecida](https://open.spotify.com/track/6ttA706vqyxFWRbq0zoL8x) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Porteña](https://open.spotify.com/album/1Cw28qlsCwgIBYnhgqEyzC) | 4:14 | 2024-06-28 |  |
@@ -76,6 +76,7 @@
 | [No me pidas que no sea un inconsciente](https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA) | [No me pidas que no sea un inconsciente](https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g) | 2:13 | 2024-06-28 |  |
 | [Odio despertar](https://open.spotify.com/track/5iHpMjibIkqUNAIw6jYWs1) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Odio despertar](https://open.spotify.com/album/4CIBXHoCuxl1Pbr4OjwWoS) | 4:27 | 2024-06-28 |  |
 | [Ojos De Fuego](https://open.spotify.com/track/4O0L4QnB2dYlNWa6OydjiQ) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN), [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Ojos De Fuego](https://open.spotify.com/album/5SWUp6WuA1XmRHXNzpEToq) | 5:14 | 2024-06-28 |  |
+| [Otra Galaxia](https://open.spotify.com/track/1VVlUSD40U9aOZAiFB0E7k) | [Lola Parda](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [Otra Galaxia](https://open.spotify.com/album/5RRNnY4IDP1uYewz5AzB1V) | 3:09 | 2024-08-01 |  |
 | [Otros Amores \- Versión Errante](https://open.spotify.com/track/3nPtP7lp0bJYFcYC6Sv4Uu) | [Rulo](https://open.spotify.com/artist/1hESVb5p8cUHjbj9YzfklQ), [El Mulu](https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM) | [Otros Amores \(Versión Errante\)](https://open.spotify.com/album/3HZ5ZGuLxbe2wmZrGD9A9w) | 4:01 | 2024-06-28 |  |
 | [Paloma](https://open.spotify.com/track/0P41zNTBw3MKrzV63z1niC) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Belencha](https://open.spotify.com/artist/76nNpUoU7lXyRKmoAkKPTM) | [Paloma](https://open.spotify.com/album/3UoBgE0AP3vztVe54V8oW1) | 2:40 | 2024-06-28 |  |
 | [Paloma quiero contarte](https://open.spotify.com/track/4hSPYZ86mCKEY1F838se7Q) | [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Canta a Víctor Jara](https://open.spotify.com/album/6V20HwYQNfkCVsLlqOoGul) | 2:55 | 2024-06-28 |  |

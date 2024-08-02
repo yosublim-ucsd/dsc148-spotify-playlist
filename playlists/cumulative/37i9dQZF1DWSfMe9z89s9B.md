@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Dua Saleh
 
-1,248 songs - 2 day 17 hr 57 min
+1,249 songs - 2 day 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 | 2022-06-10 | 2022-11-05 |
 | [Chocolate Hills](https://open.spotify.com/track/1No3OKWvdgtctLvSKQcREg) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Chocolate Hills](https://open.spotify.com/album/5PwD9RssnZnPRgDuP3s5hY) | 3:10 | 2022-01-28 | 2022-07-29 |
 | [CINDERELLA, Pt\. 2](https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [ONCE UPON A TIME](https://open.spotify.com/album/22UE2Lc7VdTqbkGmNBtMDu) | 2:10 | 2021-03-19 | 2022-07-05 |
-| [CIRCLE](https://open.spotify.com/track/6MsNRRTP7BIOUg0VnyGSEP) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [CIRCLE](https://open.spotify.com/album/0mhdhua5RuMwZWhrcshvEJ) | 1:30 | 2024-06-07 | 2024-07-31 |
+| [CIRCLE](https://open.spotify.com/track/6MsNRRTP7BIOUg0VnyGSEP) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [CIRCLE](https://open.spotify.com/album/0mhdhua5RuMwZWhrcshvEJ) | 1:30 | 2024-06-07 |  |
 | [circles](https://open.spotify.com/track/26EQGfXXAxCnrNA3d5BpfC) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [circles](https://open.spotify.com/album/5QQyX1Cc3XJ4oxLK3Wvpzc) | 2:28 | 2024-03-08 | 2024-03-24 |
 | [circles](https://open.spotify.com/track/5snFgC1DedpQ5yhJINZ70A) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [every night was the same](https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK) | 2:28 | 2024-03-08 | 2024-04-19 |
 | [City of Angels](https://open.spotify.com/track/6dQ2LusAx9Lr7NwkwHkYIC) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [City of Angels](https://open.spotify.com/album/7LuzVcbZIaIH3MYWo81k2q) | 2:10 | 2022-08-12 | 2022-10-10 |
@@ -383,6 +383,7 @@
 | [fitt \(with Amaarae\)](https://open.spotify.com/track/7ulh0asPyRT8nEkh3qbjBc) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [fitt \(with Amaarae\)](https://open.spotify.com/album/0rcevx17L0BaFLryqgEQZo) | 3:36 | 2022-04-01 | 2022-04-15 |
 | [FKA MESS](https://open.spotify.com/track/71itF9z7kqBaUIgoi80WqG) | [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL) | [FKA MESS](https://open.spotify.com/album/44vzwRlX0KWqnEf225EZ5S) | 6:01 | 2023-03-31 | 2023-04-22 |
 | [Flashbacks \(feat\. Miguel & St\. Beauty\)](https://open.spotify.com/track/2IQjNT6EXEEJhR3x5KnlOU) | [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [St\. Beauty](https://open.spotify.com/artist/4j5EnP4t2lSKolLuQh1xvn) | [BETTER](https://open.spotify.com/album/4CIhgtHyTy4FPY5XzILrfV) | 4:02 | 2021-03-19 | 2022-07-10 |
+| [FLIGHTS](https://open.spotify.com/track/1W12kMWCu5O4zZQMZ8vqjQ) | [JEMS!](https://open.spotify.com/artist/4gWkKMPLSCHcWWbw6ouXHe), [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [J.Robb](https://open.spotify.com/artist/2DfpfU9DpRLC3EuWLKyy4m) | [FLIGHTS](https://open.spotify.com/album/0u1o8ISszon1vkIkYQRRlA) | 3:52 | 2024-07-26 |  |
 | [float](https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana \(deluxe\)](https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS) | 3:37 | 2022-11-18 | 2023-05-27 |
 | [FLORIDA BABY](https://open.spotify.com/track/722k2gLamerL9i7bTlGJrm) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [FLORIDA BABY](https://open.spotify.com/album/4LTy8CCkKN3YCB6zQ4OJou) | 2:20 | 2024-03-15 |  |
 | [Flow State](https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Flow State](https://open.spotify.com/album/3RsIqH2zBlSWAnehnZ8KwP) | 4:02 | 2023-07-21 |  |
@@ -547,7 +548,7 @@
 | [If You Could See Me Now](https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [If You Could See Me Now](https://open.spotify.com/album/0Xet0Nvdl5P0gFa7cBCyY0) | 2:41 | 2022-09-02 | 2023-08-19 |
 | [If You Let Me](https://open.spotify.com/track/4gEQcoKNoLFLyhory3Y5Zr) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Sunbeam](https://open.spotify.com/album/0bfXZQxSJElGATQnCvFSMc) | 2:15 | 2021-10-08 | 2022-01-29 |
 | [ILLUSIONS](https://open.spotify.com/track/5brlbAE683E1wEzKDNT3B8) | [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [ILLUSIONS](https://open.spotify.com/album/4hBStZD5wKMAlhylLMACpT) | 3:58 | 2021-06-25 | 2022-01-27 |
-| [Imaan](https://open.spotify.com/track/1prJ8ZRyFjd60AYJOa9gbP) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Imaan](https://open.spotify.com/album/0DB3121n8MTCyE0LfhxIEX) | 3:34 | 2024-03-08 |  |
+| [Imaan](https://open.spotify.com/track/1prJ8ZRyFjd60AYJOa9gbP) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Imaan](https://open.spotify.com/album/0DB3121n8MTCyE0LfhxIEX) | 3:34 | 2024-03-08 | 2024-08-02 |
 | [Imaan](https://open.spotify.com/track/1ydE5C1KehuCQI8EM3qXrQ) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Imaan](https://open.spotify.com/album/671HQwwWo7sivjgFb4Qf1P) | 3:34 | 2024-03-08 | 2024-04-12 |
 | [Imaan](https://open.spotify.com/track/5xvYNmS5yLJr5Z18P25DYR) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Imaan](https://open.spotify.com/album/4365MmEKX6ImuvRiWtqagj) | 3:34 | 2024-03-08 | 2024-04-19 |
 | [IN THE AIR \(SPED UP\)](https://open.spotify.com/track/5NmLXvwNgcvE6DhJMxyIV6) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [IN THE AIR/BILL$ \(SPED UP\)](https://open.spotify.com/album/7CBAUpy4gg6DkJsNAfBf58) | 1:42 | 2022-09-09 | 2023-03-04 |
@@ -1128,7 +1129,7 @@
 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 | 2023-08-25 | 2024-03-30 |
 | [Tried To Fly .](https://open.spotify.com/track/7LdBSqbWyWGBKYboMQghPF) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Tried To Fly .](https://open.spotify.com/album/18Qyq8CXpenmGAgVzRNrIA) | 2:59 | 2023-09-08 | 2023-10-22 |
 | [Trouble](https://open.spotify.com/track/3L7HXWRZMkSR7dEi4ttJOj) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Trouble](https://open.spotify.com/album/7arfU7Nnx72FDYB83muIRY) | 3:04 | 2021-10-15 | 2022-07-24 |
-| [Truman Show](https://open.spotify.com/track/4IzjDkQrKWLLUXQK4sAXZ3) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3), [L3GION](https://open.spotify.com/artist/2CGaMJdUQ5ArTPKYli1Lf4) | [Truman Show](https://open.spotify.com/album/5pNVjKBlfgVJO7EuZ4wdk1) | 2:57 | 2024-06-07 |  |
+| [Truman Show](https://open.spotify.com/track/4IzjDkQrKWLLUXQK4sAXZ3) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3), [L3GION](https://open.spotify.com/artist/2CGaMJdUQ5ArTPKYli1Lf4) | [Truman Show](https://open.spotify.com/album/5pNVjKBlfgVJO7EuZ4wdk1) | 2:57 | 2024-06-07 | 2024-08-02 |
 | [Trust](https://open.spotify.com/track/6YecmNnABghHDPTNlG3md5) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Trust](https://open.spotify.com/album/4R536rrBEQjh7g1MrhasoS) | 2:45 | 2022-10-07 | 2022-12-03 |
 | [Trust Nobody](https://open.spotify.com/track/60noSWJZxLxgZBzmOKxckF) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Trust Nobody](https://open.spotify.com/album/3Ysfk40yB4vJNCjflkD7tZ) | 3:15 | 2021-11-05 | 2022-07-29 |
 | [Trust Nobody](https://open.spotify.com/track/7ceXCl3ndsTFrH60P1c0io) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [AT LEAST WE HAVE THIS](https://open.spotify.com/album/6nnAy3W80YnGUj7t2wf2tr) | 3:15 | 2022-06-10 | 2022-08-09 |

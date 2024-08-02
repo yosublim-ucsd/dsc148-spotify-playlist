@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1B3M4M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1B3M4M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1B3M4M)
 
-### [This Is James Newton Howard](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1B3M4M)
+### [This Is ジェームズ・ニュートン・ハワード](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1B3M4M)
 
-> This is James Newton Howard\. The essential tracks, all in one playlist.
+> This is ジェームズ・ニュートン・ハワード。アーティストの代表曲をひとつのプレイリストに。
 
 86 songs - 4 hr 42 min
 

@@ -2,9 +2,9 @@
 
 ### [Come Alive](https://open.spotify.com/playlist/37i9dQZF1DWYW0wKwdPj2g)
 
-> In the mood for live Christian and Gospel music? This is the one\. Cover: Sinach
+> In the mood for live Christian and Gospel music? This is the one\. Cover: Jimmy D Psalmist
 
-94 songs - 12 hr 20 min
+96 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Amen \- Live](https://open.spotify.com/track/5vVMTcdrdemhDKYsUeDq3m) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN) | [Amen \(Live\)](https://open.spotify.com/album/5jfl39rUw28zJbmYNf3BjA) | 3:20 | 2024-05-10 |  |
 | [Angel](https://open.spotify.com/track/3DnJJUC203F4Ax9UIXyBWB) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Angel](https://open.spotify.com/album/3CFs1r2mE6fxKunYkTwfHg) | 4:28 | 2024-03-01 |  |
 | [B'ola \(Live\)](https://open.spotify.com/track/6ooOrOuruo2lZdcOAl5tbe) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Sola Allyson](https://open.spotify.com/artist/3NRO4pLQaU0eXYX5SwYtAY) | [B'ola \(Live\)](https://open.spotify.com/album/6MOU4J2Bv7ABtMGrVkBd5E) | 10:50 | 2024-02-23 |  |
+| [Baba Yangu, Baba Yangu \- Live](https://open.spotify.com/track/1pRSMBzKzEbMiWMerX8hBm) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Baba Yangu, Baba Yangu \(Live\)](https://open.spotify.com/album/7k7hnvGI5oYtw0ZUwcvghF) | 4:49 | 2024-08-02 |  |
 | [Bambelela \(Live\)](https://open.spotify.com/track/3eyBfIEYWgMk1iEShi8BW2) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Legendary In His Presence 2 \(Live\)](https://open.spotify.com/album/3KZbqrfhkl3ljwelGQRRKS) | 7:19 | 2024-05-10 |  |
 | [Basuka/Ulungile \- Live](https://open.spotify.com/track/7Mz3ME939WZdk6I9ujBZuK) | [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [According to Grace](https://open.spotify.com/album/3WnBX1G2KGXiIkb970IyYm) | 4:54 | 2024-02-23 |  |
 | [Bayazibuza](https://open.spotify.com/track/33pRs7b2nBdqG7mCOHQuqh) | [Nduduzo Matse](https://open.spotify.com/artist/6pLZutxrnCCiFIcxy7drQK) | [New Sounds of Glory](https://open.spotify.com/album/1p9jZMfZfbpxRUbel7Ph07) | 5:00 | 2024-02-23 |  |
@@ -80,6 +81,7 @@
 | [Reign Lord \(Sovereign\) \- Live](https://open.spotify.com/track/4gHf19oU8KGnuUTNIJf6F7) | [Gap Worship](https://open.spotify.com/artist/6NO2s6R49ys1KmpSU8KWQa), [Anu Ropo](https://open.spotify.com/artist/6pOWF1wf8Vt8EoF4Ee5imF) | [Reign Lord \(Sovereign\) \[Live\]](https://open.spotify.com/album/0nux4SSbd3MQOUupsY10nT) | 10:30 | 2024-05-03 |  |
 | [Separate and Set Apart \- Live](https://open.spotify.com/track/73sM6yB7aVAnxIkXsmKSab) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs) | [Separate and Set Apart \(Live\)](https://open.spotify.com/album/2fJNJYJp9xgvszDVXqlp29) | 11:24 | 2024-07-19 |  |
 | [Sewakhile](https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT) | [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Greatest Hits](https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ) | 4:42 | 2024-02-23 |  |
+| [Sing For Joy](https://open.spotify.com/track/0cdH2VxYlwElQl4nN5DqjW) | [Ccioma](https://open.spotify.com/artist/4KUBNwD9GNCDXGGHJqRbpF) | [Sing For Joy](https://open.spotify.com/album/2bLnPf8G08JcrL4N4VWGQz) | 7:09 | 2024-08-02 |  |
 | [Siyabonga Jesu \(Wahamba Nathi\) \[Live\]](https://open.spotify.com/track/4nmRnP0r7F4apXJLxGQ3MG) | [Solly Mahlangu](https://open.spotify.com/artist/7mZOspv12XLvP1LQL6DmqR) | [Mwamba Mwamba \(Live\) Recorded at Big Top Arena Carnival City](https://open.spotify.com/album/2grRNjByBgEo00XJueSanO) | 6:51 | 2024-02-23 |  |
 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 | 2024-02-23 |  |
 | [Thath'Indawo \(Live\)](https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 7:55 | 2024-02-23 |  |

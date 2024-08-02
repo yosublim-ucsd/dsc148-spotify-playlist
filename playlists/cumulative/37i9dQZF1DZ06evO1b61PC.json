@@ -623,6 +623,32 @@
     },
     {
       "album": {
+        "name": "Wild One (Jai Wolf Club Babu Remix)",
+        "url": "https://open.spotify.com/album/32HMPGIwpx49uQr5dtt9KG"
+      },
+      "artists": [
+        {
+          "name": "MitiS",
+          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+        },
+        {
+          "name": "DEV",
+          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183923,
+      "name": "Wild One - Jai Wolf Club Babu Remix",
+      "url": "https://open.spotify.com/track/2PITIYqQKjiFMDDasXuYgd"
+    },
+    {
+      "album": {
         "name": "The Cure To Loneliness",
         "url": "https://open.spotify.com/album/3RUimnrKcKNrCXkBkjPhBG"
       },

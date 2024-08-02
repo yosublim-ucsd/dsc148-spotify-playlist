@@ -319,6 +319,28 @@
     },
     {
       "album": {
+        "name": "Aliens Attack",
+        "url": "https://open.spotify.com/album/3rEuxg00dlatIp4qviysQH"
+      },
+      "artists": [
+        {
+          "name": "Dsnt Matter",
+          "url": "https://open.spotify.com/artist/6kkot1U0JuuGTYEPEh2FXW"
+        },
+        {
+          "name": "Ali Bakgor",
+          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156707,
+      "name": "Aliens Attack",
+      "url": "https://open.spotify.com/track/4wI3Y8Sg6L3TQMDWxznaiD"
+    },
+    {
+      "album": {
         "name": "All I Got",
         "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
       },
@@ -2315,6 +2337,24 @@
     },
     {
       "album": {
+        "name": "Dun Dun",
+        "url": "https://open.spotify.com/album/4Ycyp1cQVW9VPOzlEdSk83"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209523,
+      "name": "Dun Dun",
+      "url": "https://open.spotify.com/track/48XuAKxSzr3nJBeU1yf0KM"
+    },
+    {
+      "album": {
         "name": "Dust",
         "url": "https://open.spotify.com/album/0VoOrwiOd0gp2zgDUyLQ9b"
       },
@@ -3678,7 +3718,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 297827,
       "name": "God Don't Leave Me Alone (Adam Sellouk Remix)",
       "url": "https://open.spotify.com/track/19VAPErGs8MwGm6Dxw0j1G"
@@ -8524,7 +8564,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 221346,
       "name": "Save Me - K\u00f6lsch Remix",
       "url": "https://open.spotify.com/track/1g8Ae2dCsTce1mu9yMZDAF"
@@ -9514,7 +9554,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 281904,
       "name": "Sweet Moment - CamelPhat Edit",
       "url": "https://open.spotify.com/track/7mt01juLvUigAvjsCxhN3n"
@@ -10198,6 +10238,24 @@
       "duration_ms": 201290,
       "name": "The Pulse Of Machine",
       "url": "https://open.spotify.com/track/1cUOfO7FdFwz5U5Jhm4Jwo"
+    },
+    {
+      "album": {
+        "name": "The Puzzle",
+        "url": "https://open.spotify.com/album/7glWasnboeGETrKnJZ3CtZ"
+      },
+      "artists": [
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334462,
+      "name": "The Puzzle",
+      "url": "https://open.spotify.com/track/6Fivn91TO0E7orLq2NcJwX"
     },
     {
       "album": {

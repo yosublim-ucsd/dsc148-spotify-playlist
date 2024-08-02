@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Pabllo Vittar, Sevdaliza, Yseult e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "Manu, Guilherme & Benuto e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -1883,6 +1883,24 @@
     },
     {
       "album": {
+        "name": "In Casa Vol. 02 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6piHanzJ5lggugcpXS5mzs"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155488,
+      "name": "Chorosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/1tAls12jSoUZPoj9cv7OAh"
+    },
+    {
+      "album": {
         "name": "Clickbait",
         "url": "https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ"
       },
@@ -3352,7 +3370,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 107102,
       "name": "Eu So Comi Ela uma Vez",
       "url": "https://open.spotify.com/track/7eoRm37Ta1jvGMiMRfOQoa"
@@ -3528,6 +3546,28 @@
       "duration_ms": 163324,
       "name": "Expectativa x Realidade",
       "url": "https://open.spotify.com/track/1wdhj1r7aeWVDUl9d18YKu"
+    },
+    {
+      "album": {
+        "name": "Experi\u00eancia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6pQEr64rW3rV156wGjmbKT"
+      },
+      "artists": [
+        {
+          "name": "Henrique Casttro",
+          "url": "https://open.spotify.com/artist/31LTPsEvAHPLNTMX06UdJK"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174640,
+      "name": "Experi\u00eancia - Ao Vivo",
+      "url": "https://open.spotify.com/track/4G0CNdwFI4oeHFVZDcqLvK"
     },
     {
       "album": {
@@ -4772,7 +4812,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 206538,
       "name": "Lua",
       "url": "https://open.spotify.com/track/1iilEnhis2SZrqGdcjKOY5"
@@ -8586,7 +8626,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 148000,
       "name": "Sorriso no Rosto",
       "url": "https://open.spotify.com/track/3kBYuWrGtx1tSHjzr0vlZh"
@@ -9786,6 +9826,28 @@
       "duration_ms": 154973,
       "name": "Vontade De Morder",
       "url": "https://open.spotify.com/track/4lsDFVKOVwPeAVw1hPOn7G"
+    },
+    {
+      "album": {
+        "name": "Wi-Fi (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4iPWQzXrICuvO2Dy7TztRw"
+      },
+      "artists": [
+        {
+          "name": "Traia V\u00e9ia",
+          "url": "https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161312,
+      "name": "Wi-Fi - Ao Vivo",
+      "url": "https://open.spotify.com/track/0S7o4sti5I5CAbbotTUzTM"
     },
     {
       "album": {

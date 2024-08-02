@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Abhijay Sharma
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,033 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,052 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 40 | [Aaghaz](https://open.spotify.com/track/19AP3k64HdqYVvVbXbgk45) | [Swattrex](https://open.spotify.com/artist/1c4IXYT2idOski3WEtfJpW), [Shubham](https://open.spotify.com/artist/68ZWfWtbgNFunDDaLEPqXY) | [Safar](https://open.spotify.com/album/696394NG1QEWfygeHt6nQk) | 3:59 |
 | 41 | [Tu Hai Sab Hai](https://open.spotify.com/track/14g8GrtXyIyHUdi37SxvtW) | [Savneet Singh](https://open.spotify.com/artist/3y7E2LWleEorGmUfFQ5qfY) | [Tu Hai Sab Hai](https://open.spotify.com/album/14H4tiC2cHjLNZ2lwz0lvx) | 3:57 |
 | 42 | [Khoya Khoya \- Duet Version](https://open.spotify.com/track/7qbfBl5UNP8SBNaUjbAZB6) | [KL Pamei](https://open.spotify.com/artist/10JY3GePCb2FoUtokVcMCT), [Koko Savino](https://open.spotify.com/artist/76un3J9Uu16Mg7kH75GXHk) | [Khoya Khoya \(Duet Version\)](https://open.spotify.com/album/4C3Ssv1fuw0CzIkIhc4O5y) | 3:51 |
-| 43 | [lately](https://open.spotify.com/track/1Kjn4ZIItYAlWKnV2do5P8) | [zefaan](https://open.spotify.com/artist/4nSfxCsPVDb92Q1oTslOHa) | [lately](https://open.spotify.com/album/7CDs4rG7lzxKTwMryMtLwr) | 2:20 |
+| 43 | [lately](https://open.spotify.com/track/1Kjn4ZIItYAlWKnV2do5P8) | [zefaan](https://open.spotify.com/artist/3yMB5SRUewrVIC4RiWR02V) | [lately](https://open.spotify.com/album/7CDs4rG7lzxKTwMryMtLwr) | 2:20 |
 | 44 | [Raise the Bar](https://open.spotify.com/track/1QjLbmzbn8C5XWOyihIFqy) | [Thermal And A Quarter](https://open.spotify.com/artist/6lF7uyAQEbDrnFNAXyyQQ6), [Rahul Matthan](https://open.spotify.com/artist/0m7jaffEAsz59yyvomHU0d) | [Raise the Bar](https://open.spotify.com/album/64dANZYewLBza5oHcxFeYn) | 5:42 |
 | 45 | [Tere Bina](https://open.spotify.com/track/3KQPMpUrA1hN2QGlFCNihh) | [Himangshu Bharali](https://open.spotify.com/artist/00dY65h6flKlnEsjSnVek7), [Mayukh](https://open.spotify.com/artist/19I0L8PB44SSGiPhpIjdmr) | [Tere Bina](https://open.spotify.com/album/7l5NVy7P8IqNrT0JZPm7Pp) | 2:20 |
 | 46 | [Majboor E Aag](https://open.spotify.com/track/1fYOKzD7B8I4kDEPNga0xk) | [Shivam Vashisht](https://open.spotify.com/artist/3gyUpopsFDSJ5Cg9N7dJoy) | [Majboor E Aag](https://open.spotify.com/album/6GNZz6ZdtFPp8kA0P6qhEF) | 2:53 |

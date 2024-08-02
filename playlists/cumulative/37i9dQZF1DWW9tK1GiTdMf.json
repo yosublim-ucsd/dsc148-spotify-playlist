@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "musica da gridare \ud83d\udde3\ufe0f\ud83d\udda4 cover: Fasma",
+  "description": "musica da gridare \ud83d\udde3\ufe0f\ud83d\udda4 CALI! in cover",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -5215,6 +5215,28 @@
     },
     {
       "album": {
+        "name": "DIFETTO",
+        "url": "https://open.spotify.com/album/4Lmgqgrh1aCP91SNcgDJbx"
+      },
+      "artists": [
+        {
+          "name": "Sun Dojo",
+          "url": "https://open.spotify.com/artist/3MRGrKnnFFaVCtsjOGIKgb"
+        },
+        {
+          "name": "Sconforto",
+          "url": "https://open.spotify.com/artist/39fZxJQG1MRejpGHq7r77Z"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172534,
+      "name": "DIFETTO",
+      "url": "https://open.spotify.com/track/43lPwYEbZ0AAxwCdMpXv1M"
+    },
+    {
+      "album": {
         "name": "Difficile",
         "url": "https://open.spotify.com/album/1j5249YgV6P4y1Q7I2Aw9Y"
       },
@@ -5446,7 +5468,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 167142,
       "name": "Diversa",
       "url": "https://open.spotify.com/track/22htPDxuFJ3yN9mFZevvc6"
@@ -6340,7 +6362,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 155031,
       "name": "Estate disperata",
       "url": "https://open.spotify.com/track/0AiKTREjmL2msn3KaFMmHr"
@@ -7542,7 +7564,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 130666,
       "name": "galassia glitter",
       "url": "https://open.spotify.com/track/5jhGhZFoJAoujQECb68ANs"
@@ -7622,7 +7644,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 141600,
       "name": "GENERAZIONE ANSIA",
       "url": "https://open.spotify.com/track/4uidJqvRKCt9FyDQ6rrvH5"
@@ -9778,7 +9800,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 164000,
       "name": "KUNAI",
       "url": "https://open.spotify.com/track/7DXE98mVWeIaq3MeJEMi2l"
@@ -14954,7 +14976,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 163851,
       "name": "PRINCIPESSA EMOSESSUALE (feat. Yans, Fulgur & Kunai)",
       "url": "https://open.spotify.com/track/0K5bV5eWohkMemuds1WMXx"
@@ -15482,6 +15504,28 @@
       "duration_ms": 189630,
       "name": "RAGAZZO DI PROVINCIA",
       "url": "https://open.spotify.com/track/0Y7SRuuID6ojrLeJb2bkQk"
+    },
+    {
+      "album": {
+        "name": "ReadyToDie (feat. Jack Out)",
+        "url": "https://open.spotify.com/album/1w8tDSUomAJrqrSzjdVIz9"
+      },
+      "artists": [
+        {
+          "name": "Decrow",
+          "url": "https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch"
+        },
+        {
+          "name": "Jack Out",
+          "url": "https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "ReadyToDie (feat. Jack Out)",
+      "url": "https://open.spotify.com/track/21ZtjhK2cryXUi6rZPhZr2"
     },
     {
       "album": {
@@ -17499,6 +17543,24 @@
     },
     {
       "album": {
+        "name": "SPARECCHIATA",
+        "url": "https://open.spotify.com/album/5D5jnodYfv34j19mchMlIx"
+      },
+      "artists": [
+        {
+          "name": "FLUOSEXXX",
+          "url": "https://open.spotify.com/artist/1ejTIvvUeDlzh43gbsw95u"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "SPARECCHIATA",
+      "url": "https://open.spotify.com/track/4azAKcJamLKIqIh9xL4pp1"
+    },
+    {
+      "album": {
         "name": "SPAZIALE!",
         "url": "https://open.spotify.com/album/7wVvkDYlLDV3YpYGd12s8U"
       },
@@ -18288,6 +18350,24 @@
       "duration_ms": 181529,
       "name": "SUI MURI",
       "url": "https://open.spotify.com/track/5M3SYjElWjKlD3jgONFw4w"
+    },
+    {
+      "album": {
+        "name": "Sulla cresta dell'ombra",
+        "url": "https://open.spotify.com/album/40ix8YGqLjWXpmGs6XS9QN"
+      },
+      "artists": [
+        {
+          "name": "Melli",
+          "url": "https://open.spotify.com/artist/37BpthbBCQS5I9Btu6hZqR"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156857,
+      "name": "Sulla cresta dell'ombra",
+      "url": "https://open.spotify.com/track/3hC8q6SN1WvHQVMAVNTXjt"
     },
     {
       "album": {
@@ -20359,6 +20439,24 @@
     },
     {
       "album": {
+        "name": "VITAMINE",
+        "url": "https://open.spotify.com/album/2VNB04Th2d4hQW5fo8C6M9"
+      },
+      "artists": [
+        {
+          "name": "CALI!",
+          "url": "https://open.spotify.com/artist/0Z2oleyYfipmfCvGMtKhph"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137596,
+      "name": "VITAMINE",
+      "url": "https://open.spotify.com/track/4ErJZNNrSFyklHrUBAAmcP"
+    },
+    {
+      "album": {
         "name": "Viziata",
         "url": "https://open.spotify.com/album/7dwcKWrFhwh6bbwncXDG3r"
       },
@@ -20828,6 +20926,24 @@
       "duration_ms": 158555,
       "name": "WTF",
       "url": "https://open.spotify.com/track/46cP2WBFgoi05vLZNKKfUp"
+    },
+    {
+      "album": {
+        "name": "HYPERPUNK (Deluxe)",
+        "url": "https://open.spotify.com/album/7GXLiTr867c7j35h3d6qhn"
+      },
+      "artists": [
+        {
+          "name": "Peri",
+          "url": "https://open.spotify.com/artist/25gKeRAlEboMka2vEcTJsl"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "X CHI?",
+      "url": "https://open.spotify.com/track/2BRgOWQqH0qzTB2IIOyaBV"
     },
     {
       "album": {

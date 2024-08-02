@@ -2,7 +2,7 @@
 
 ### [This Is Meg Smith](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NM7Yf)
 
-> This is: Meg Smith\. Alle wichtigen Tracks in einer Playlist.
+> This is Meg Smith\. The essential tracks, all in one playlist.
 
 24 songs - 1 hr 11 min
 

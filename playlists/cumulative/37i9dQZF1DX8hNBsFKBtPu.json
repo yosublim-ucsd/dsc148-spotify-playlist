@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Thor \ud83d\udc9c",
+  "description": "Det bedste nye pop \ud83d\udc9c Tones And I",
   "name": "Ny Pop (2)",
   "tracks": [
     {
@@ -1247,6 +1247,28 @@
     },
     {
       "album": {
+        "name": "In The Lonely Hour (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220253,
+      "name": "I\u2019m Not The Only One (feat. Alicia Keys)",
+      "url": "https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID"
+    },
+    {
+      "album": {
         "name": "Knuser Hjerter",
         "url": "https://open.spotify.com/album/5XmVWR5o42BWlXZ9o6fhvg"
       },
@@ -2039,6 +2061,28 @@
     },
     {
       "album": {
+        "name": "Stone (feat. Bakar)",
+        "url": "https://open.spotify.com/album/6vIEgwWLHseO0HD5OwmbDQ"
+      },
+      "artists": [
+        {
+          "name": "Lilah Pi",
+          "url": "https://open.spotify.com/artist/3qVWjgrCJKbbtPwfpnmwKo"
+        },
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200329,
+      "name": "Stone (feat. Bakar)",
+      "url": "https://open.spotify.com/track/75L5a5FbDcSKOZMwTNrZW6"
+    },
+    {
+      "album": {
         "name": "Storeb\u00e6ltsbroen",
         "url": "https://open.spotify.com/album/3Rd1qpiv4brUgL2qJrFL5q"
       },
@@ -2054,6 +2098,24 @@
       "duration_ms": 179034,
       "name": "Storeb\u00e6ltsbroen",
       "url": "https://open.spotify.com/track/7jnKJJB0H7Pl3uyw9ifY7X"
+    },
+    {
+      "album": {
+        "name": "S\u00e5 l\u00e6nge jeg er sexy.",
+        "url": "https://open.spotify.com/album/2d9nhH2AHzxAf1Bo2PfCs9"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150190,
+      "name": "S\u00e5 l\u00e6nge jeg er sexy.",
+      "url": "https://open.spotify.com/track/0fFMt9cc1EEQDIWLGDcqKd"
     },
     {
       "album": {
@@ -2220,6 +2282,24 @@
       "duration_ms": 156486,
       "name": "Til Sommer",
       "url": "https://open.spotify.com/track/0fdk2TnOF4TQgmsox9O2nZ"
+    },
+    {
+      "album": {
+        "name": "Beautifully Ordinary",
+        "url": "https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304812,
+      "name": "To Be Loved",
+      "url": "https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj"
     },
     {
       "album": {

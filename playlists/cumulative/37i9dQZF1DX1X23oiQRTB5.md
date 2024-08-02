@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Yorssy au top de la première playlist de rap français.
+> Tiakola au top de la première playlist de rap français.
 
-266 songs - 13 hr 38 min
+267 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [Signé](https://open.spotify.com/track/7gYpMsodGiFN0qMmz9FCTj) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Signé](https://open.spotify.com/album/0LQj4X4tGaXE4PwtZGQDuh) | 3:00 | 2023-06-29 | 2023-10-13 |
 | [Solitaire](https://open.spotify.com/track/4yYpZTbJPa6Uoct89yXdKf) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Solitaire](https://open.spotify.com/album/1w91fuTe3zAPvcSyGlZdvE) | 2:26 | 2022-09-15 | 2023-04-07 |
 | [Sosa](https://open.spotify.com/track/4lx26x6BggtyDtYZxUC0su) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Sosa](https://open.spotify.com/album/3omG7CP7Ipif4phk12EitY) | 2:43 | 2022-11-17 | 2023-04-21 |
-| [Special](https://open.spotify.com/track/2G4C8evrYTOcMhWNSKSBoy) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Special](https://open.spotify.com/album/6TGfYxyok74SZjidtVZB79) | 4:07 | 2023-10-05 |  |
+| [Special](https://open.spotify.com/track/2G4C8evrYTOcMhWNSKSBoy) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Special](https://open.spotify.com/album/6TGfYxyok74SZjidtVZB79) | 4:07 | 2023-10-05 | 2024-08-02 |
 | [Special](https://open.spotify.com/track/7AxbDCxi8MWazbVUR11nfK) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian & Special](https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn) | 4:07 | 2023-10-26 | 2024-04-19 |
 | [SPECIAL \(feat\. Nekfeu & Fousheé\)](https://open.spotify.com/track/11HLDMuPD3wh88XHw4udKO) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 3:51 | 2022-01-06 | 2022-02-11 |
 | [Sport Billy](https://open.spotify.com/track/04NLVvskT61Zh6SODtr6ZP) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Sport Billy](https://open.spotify.com/album/0ETFEUoh6Ii8Lhr8TJdjjV) | 2:09 | 2023-11-30 | 2023-12-22 |
@@ -250,6 +250,7 @@
 | [SURVIE](https://open.spotify.com/track/7yz9tcPQngQ19yAmRfQG7U) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [SURVIE](https://open.spotify.com/album/3QcMENeZLihP7vxPkieCLr) | 2:54 | 2024-05-30 | 2024-06-07 |
 | [T'aimerais \(feat\. Ziak\)](https://open.spotify.com/track/2Tm9ujeEWuBBsg6OPlRqvg) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Killemv](https://open.spotify.com/artist/6CVrtiamrDDp2RWzSMzHNf), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Saison 2](https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy) | 2:33 | 2024-01-18 |  |
 | [T'aimerais \(feat\. Ziak\)](https://open.spotify.com/track/659scToLVMQbD0vBdwuvFa) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Killemv](https://open.spotify.com/artist/6CVrtiamrDDp2RWzSMzHNf), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [T'aimerais \(feat\. Ziak\)](https://open.spotify.com/album/39BFIcWfCAGva6bjZ7MoUX) | 2:33 | 2023-12-21 | 2024-01-19 |
+| [T.I.A \- A COLORS SHOW](https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [T.I.A \- A COLORS SHOW](https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B) | 3:41 | 2024-08-01 |  |
 | [Talent](https://open.spotify.com/track/3H3TloF0bCS7SHy3ovObeo) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Talent](https://open.spotify.com/album/0gcdxiAStFBexluiXVfsgI) | 3:01 | 2022-11-10 | 2023-01-27 |
 | [Tchalla](https://open.spotify.com/track/3cFUv0LpvrvdAMAT2B4zhS) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [Tchalla](https://open.spotify.com/album/48WjMsMmHRLQTC2ZXqPwaw) | 3:45 | 2022-01-06 | 2022-05-20 |
 | [Temps en temps](https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Temps en temps](https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb) | 2:33 | 2024-01-18 |  |

@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: MEMI(\ub9e4\ubbf8)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 238276,
+  "num_followers": 238311,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,38 @@
     {
       "added_at": "2024-07-30 05:56:17",
       "album": {
+        "name": "I \u2260 DOLL",
+        "url": "https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT"
+      },
+      "artists": [
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+        }
+      ],
+      "duration_ms": 150269,
+      "name": "I \u2260 DOLL",
+      "url": "https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa"
+    },
+    {
+      "added_at": "2024-07-30 05:56:17",
+      "album": {
+        "name": "RED",
+        "url": "https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 176466,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM"
+    },
+    {
+      "added_at": "2024-07-30 05:56:17",
+      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h"
       },
@@ -639,38 +671,6 @@
       "duration_ms": 205386,
       "name": "Don't (feat. RM)",
       "url": "https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC"
-    },
-    {
-      "added_at": "2024-07-30 05:56:17",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 237576,
-      "name": "She's In The Rain",
-      "url": "https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00"
-    },
-    {
-      "added_at": "2024-07-30 05:56:17",
-      "album": {
-        "name": "I \u2260 DOLL",
-        "url": "https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT"
-      },
-      "artists": [
-        {
-          "name": "HUH YUNJIN",
-          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
-        }
-      ],
-      "duration_ms": 150269,
-      "name": "I \u2260 DOLL",
-      "url": "https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa"
     },
     {
       "added_at": "2024-07-30 05:56:17",
@@ -739,8 +739,8 @@
     {
       "added_at": "2024-07-30 05:56:17",
       "album": {
-        "name": "RED",
-        "url": "https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl"
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 176466,
-      "name": "RED",
-      "url": "https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM"
+      "duration_ms": 237576,
+      "name": "She's In The Rain",
+      "url": "https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00"
     },
     {
       "added_at": "2024-07-30 05:56:17",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-07-30 05:56:17",
       "album": {
+        "name": "OO-LI",
+        "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 244986,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq"
+    },
+    {
+      "added_at": "2024-07-30 05:56:17",
+      "album": {
         "name": "Lips (Feat. GISELLE)",
         "url": "https://open.spotify.com/album/7Bsrjk9Ct4lGx3jcxGcRIk"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 182693,
       "name": "Lips (Feat. GISELLE)",
       "url": "https://open.spotify.com/track/7aGZLiPMaMKupY4fwzDBb2"
-    },
-    {
-      "added_at": "2024-07-30 05:56:17",
-      "album": {
-        "name": "OO-LI",
-        "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
-      },
-      "artists": [
-        {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
-        }
-      ],
-      "duration_ms": 244986,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq"
     },
     {
       "added_at": "2024-07-30 05:56:17",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-07-30 05:56:17",
       "album": {
+        "name": "Golden Hour - SM STATION : NCT LAB",
+        "url": "https://open.spotify.com/album/1oPIuYqBhdPDGfoEYt8MrR"
+      },
+      "artists": [
+        {
+          "name": "MARK",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+        }
+      ],
+      "duration_ms": 199621,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/14sD1EmQ20kSJY3P0M82MY"
+    },
+    {
+      "added_at": "2024-07-30 05:56:17",
+      "album": {
         "name": "Bluetory",
         "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
       },
@@ -1327,6 +1343,22 @@
     {
       "added_at": "2024-07-30 05:56:17",
       "album": {
+        "name": "Regret of the Times (2024 aespa Remake Version) - SM STATION",
+        "url": "https://open.spotify.com/album/4Nav3JE8TIOFiuY5x95MIh"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 171946,
+      "name": "Regret of the Times - 2024 aespa Remake Version",
+      "url": "https://open.spotify.com/track/6WJTEsLxWtSIlXML3NVSzA"
+    },
+    {
+      "added_at": "2024-07-30 05:56:17",
+      "album": {
         "name": "minisode1 : Blue Hour",
         "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
       },
@@ -1359,22 +1391,6 @@
     {
       "added_at": "2024-07-30 05:56:17",
       "album": {
-        "name": "Regret of the Times (2024 aespa Remake Version) - SM STATION",
-        "url": "https://open.spotify.com/album/4Nav3JE8TIOFiuY5x95MIh"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 171946,
-      "name": "Regret of the Times - 2024 aespa Remake Version",
-      "url": "https://open.spotify.com/track/6WJTEsLxWtSIlXML3NVSzA"
-    },
-    {
-      "added_at": "2024-07-30 05:56:17",
-      "album": {
         "name": "[Apocalypse : Save us]",
         "url": "https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 185733,
       "name": "MAISON",
       "url": "https://open.spotify.com/track/2fyhv2ThM2PDqlc8HVs32e"
-    },
-    {
-      "added_at": "2024-07-30 05:56:17",
-      "album": {
-        "name": "Golden Hour - SM STATION : NCT LAB",
-        "url": "https://open.spotify.com/album/1oPIuYqBhdPDGfoEYt8MrR"
-      },
-      "artists": [
-        {
-          "name": "MARK",
-          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
-        }
-      ],
-      "duration_ms": 199621,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/14sD1EmQ20kSJY3P0M82MY"
     },
     {
       "added_at": "2024-07-30 05:56:17",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2024-07-30 05:56:17",
       "album": {
-        "name": "Lonely Stars",
-        "url": "https://open.spotify.com/album/01Jmjq2ScXdj8hufqKXrlP"
+        "name": "TAP - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/5PliHwqYkEzdXHZnA6scC0"
       },
       "artists": [
         {
-          "name": "SEUNGKWAN",
-          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+          "name": "TAEYONG",
+          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
         }
       ],
-      "duration_ms": 246120,
-      "name": "Lonely Stars (Korean Ver.)",
-      "url": "https://open.spotify.com/track/5EIMmyT519rdZzdeSGEj0m"
+      "duration_ms": 244293,
+      "name": "404 Loading",
+      "url": "https://open.spotify.com/track/13gq2LImslxP5pdi6nGTjO"
     },
     {
       "added_at": "2024-07-30 05:56:17",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2024-07-30 05:56:17",
       "album": {
-        "name": "TAP - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/5PliHwqYkEzdXHZnA6scC0"
+        "name": "Lonely Stars",
+        "url": "https://open.spotify.com/album/01Jmjq2ScXdj8hufqKXrlP"
       },
       "artists": [
         {
-          "name": "TAEYONG",
-          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
         }
       ],
-      "duration_ms": 244293,
-      "name": "404 Loading",
-      "url": "https://open.spotify.com/track/13gq2LImslxP5pdi6nGTjO"
+      "duration_ms": 246120,
+      "name": "Lonely Stars (Korean Ver.)",
+      "url": "https://open.spotify.com/track/5EIMmyT519rdZzdeSGEj0m"
     },
     {
       "added_at": "2024-07-30 05:56:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: july\-aug 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 20,717 likes - 37 songs - 2 hr 11 min
+[margeaux](https://open.spotify.com/user/1220511975) - 20,725 likes - 39 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,5 +45,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 35 | [Home Is in Your Head](https://open.spotify.com/track/1RLbifxzeiRb4VazXCn0H8) | [His Name Is Alive](https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL) | [Home Is in Your Head](https://open.spotify.com/album/7I0VFFotoizHk2FoNP3V9F) | 2:23 |
 | 36 | [Pre\-munitions](https://open.spotify.com/track/7Bw7Dv6BCHA9O0AmzggOax) | [Daedelus](https://open.spotify.com/artist/1YRGQOk4Mk9EpM6nTJhXtK) | [The Light Brigade](https://open.spotify.com/album/6yT4qGlJQE3Nvxf6MukGIZ) | 2:24 |
 | 37 | [Joker Lips](https://open.spotify.com/track/6tYgLXfFUhNDe6QHZmsJzX) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Joker Lips](https://open.spotify.com/album/5J3znEDi6fLt9hRSVF8Ukc) | 3:01 |
+| 38 | [There's That Grin](https://open.spotify.com/track/2rV6guDDixTkeYco2wJSST) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [Breakup Song](https://open.spotify.com/album/5JunU3flt52yhYBKhmUnM1) | 3:18 |
+| 39 | [The European Female \(In Celebration Of\)](https://open.spotify.com/track/5OCtkcIWYCJ8OTCixDREZh) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [Feline](https://open.spotify.com/album/7zLCiI9gWYWyn9E0SNWVki) | 4:00 |
 
-Snapshot ID: `AAAK0zIK202tTcfQb0y/DN9d1mHf42Cl`
+Snapshot ID: `AAAK1gCPqZeoComfYEWVxoah0nU3038W`

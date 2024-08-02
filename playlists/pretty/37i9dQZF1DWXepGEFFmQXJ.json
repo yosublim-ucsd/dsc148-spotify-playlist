@@ -1,12 +1,12 @@
 {
-  "description": "The cream of today's Country crop. Cover: Luke Combs, Post Malone",
-  "num_followers": 400839,
+  "description": "The cream of today's Country crop. Cover: Keith Urban",
+  "num_followers": 400953,
   "original_name": "Fresh Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqJaYAAAAADEktJcFYw2NbxcewJTbVa8",
+  "snapshot_id": "ZquU4AAAAACCC8ZskK2Fp1aTsUBYwak+",
   "tracks": [
     {
       "added_at": "2024-07-25 14:00:00",
@@ -29,10 +29,42 @@
       "url": "https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ"
     },
     {
-      "added_at": "2024-07-22 14:00:00",
+      "added_at": "2024-08-01 14:00:00",
       "album": {
-        "name": "Twisters: The Album",
-        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
+        "name": "hungover",
+        "url": "https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 186453,
+      "name": "better be tough",
+      "url": "https://open.spotify.com/track/0gmQyWfN1iSYnwLMOlMPLi"
+    },
+    {
+      "added_at": "2024-08-01 14:00:00",
+      "album": {
+        "name": "HEART LIKE A HOMETOWN",
+        "url": "https://open.spotify.com/album/4TPBKw24pLkjWbRJE0f5zf"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "HEART LIKE A HOMETOWN",
+      "url": "https://open.spotify.com/track/4GZPRyWoyXUuq7GuyfWvFR"
+    },
+    {
+      "added_at": "2024-08-01 14:00:00",
+      "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/1ZBApW42FpN1UPruOhf2Mp"
       },
       "artists": [
         {
@@ -40,9 +72,9 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 152133,
-      "name": "Dead End Road",
-      "url": "https://open.spotify.com/track/1unTSILv272aGjufNBJjQj"
+      "duration_ms": 204933,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/6Gv6oZhbWa1fBGcv5VwW8g"
     },
     {
       "added_at": "2024-07-22 14:00:00",
@@ -107,6 +139,42 @@
       "duration_ms": 239453,
       "name": "4x4xU",
       "url": "https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ"
+    },
+    {
+      "added_at": "2024-08-01 14:00:00",
+      "album": {
+        "name": "I Do (feat. Maddie & Tae)",
+        "url": "https://open.spotify.com/album/2c9wumdrF1G7CGk0ckyCLF"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        },
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "I Do (feat. Maddie & Tae)",
+      "url": "https://open.spotify.com/track/5hmPSqHHEE6mHZofGHj6Pb"
+    },
+    {
+      "added_at": "2024-07-22 14:00:00",
+      "album": {
+        "name": "Twisters: The Album",
+        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Dead End Road",
+      "url": "https://open.spotify.com/track/1unTSILv272aGjufNBJjQj"
     },
     {
       "added_at": "2024-07-22 14:00:00",
@@ -213,6 +281,26 @@
       "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
     },
     {
+      "added_at": "2024-08-01 14:00:00",
+      "album": {
+        "name": "Lonely Road (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 189356,
+      "name": "Lonely Road (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN"
+    },
+    {
       "added_at": "2024-07-22 14:00:00",
       "album": {
         "name": "Cowboys Cry Too (with Noah Kahan)",
@@ -279,6 +367,22 @@
       "duration_ms": 171142,
       "name": "Rather Be",
       "url": "https://open.spotify.com/track/0gLFZFnaOy3Fa2uBApznuW"
+    },
+    {
+      "added_at": "2024-08-01 14:00:00",
+      "album": {
+        "name": "Backbone (The Desert Child)",
+        "url": "https://open.spotify.com/album/2Rq8kjXYYa8XE9RWp7AnaM"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 211573,
+      "name": "Backbone (The Desert Child)",
+      "url": "https://open.spotify.com/track/2VbDkiirW1CqJYms2jbqPV"
     },
     {
       "added_at": "2024-07-22 14:00:00",
@@ -369,6 +473,38 @@
       "url": "https://open.spotify.com/track/11nmHJICkQ9emiYJJINygH"
     },
     {
+      "added_at": "2024-07-22 14:00:00",
+      "album": {
+        "name": "Fathers & Sons",
+        "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 236055,
+      "name": "Remember Him That Way",
+      "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
+    },
+    {
+      "added_at": "2024-08-01 14:00:00",
+      "album": {
+        "name": "Where The Lemons Grow",
+        "url": "https://open.spotify.com/album/43rwmuuCIyi5qM1SKz7gpa"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Shadbolt",
+          "url": "https://open.spotify.com/artist/4AnRUN3FJq0GZ0RCoRpgNC"
+        }
+      ],
+      "duration_ms": 163541,
+      "name": "Where the Lemons Grow",
+      "url": "https://open.spotify.com/track/7hwzNeopFPb5RSuIfNWzTB"
+    },
+    {
       "added_at": "2024-07-25 14:00:00",
       "album": {
         "name": "Life On The Flip Side",
@@ -437,22 +573,6 @@
       "url": "https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q"
     },
     {
-      "added_at": "2024-07-22 14:00:00",
-      "album": {
-        "name": "Fathers & Sons",
-        "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 236055,
-      "name": "Remember Him That Way",
-      "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
-    },
-    {
       "added_at": "2024-07-25 14:00:00",
       "album": {
         "name": "I Ain't Sayin'",
@@ -467,6 +587,22 @@
       "duration_ms": 174060,
       "name": "I Ain't Sayin'",
       "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
+    },
+    {
+      "added_at": "2024-08-01 14:00:00",
+      "album": {
+        "name": "Call It",
+        "url": "https://open.spotify.com/album/0xOxoDFnoSGcDtBA2nLWxB"
+      },
+      "artists": [
+        {
+          "name": "Chloe Styler",
+          "url": "https://open.spotify.com/artist/1KD6bHB3Oa9Gp3TuLtpLXX"
+        }
+      ],
+      "duration_ms": 248439,
+      "name": "Call It",
+      "url": "https://open.spotify.com/track/01enz5CyIPdU0KKhyN1lid"
     },
     {
       "added_at": "2024-07-22 14:00:00",
@@ -535,22 +671,6 @@
       "duration_ms": 288121,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/22AYv6oubrOclu24nNux0M"
-    },
-    {
-      "added_at": "2024-07-22 14:00:00",
-      "album": {
-        "name": "Man on the Moon",
-        "url": "https://open.spotify.com/album/42uGNihY12UIvkV5gEJLaI"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 187017,
-      "name": "Man on the Moon",
-      "url": "https://open.spotify.com/track/22UE7ARZNnAJHq1TObXLcc"
     },
     {
       "added_at": "2024-07-22 14:00:00",
@@ -671,22 +791,6 @@
     {
       "added_at": "2024-07-22 14:00:00",
       "album": {
-        "name": "Wish I Would",
-        "url": "https://open.spotify.com/album/5b0U4WH66cFtlbTiyrfZDz"
-      },
-      "artists": [
-        {
-          "name": "Tyla Rodrigues",
-          "url": "https://open.spotify.com/artist/5SwnYxaLFxCb2LQ7Kl7JAV"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Wish I Would",
-      "url": "https://open.spotify.com/track/39x5rVWEW7yse1X0A4uT5K"
-    },
-    {
-      "added_at": "2024-07-22 14:00:00",
-      "album": {
         "name": "Roads That Go Nowhere",
         "url": "https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir"
       },
@@ -719,54 +823,6 @@
       "duration_ms": 210950,
       "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
-    },
-    {
-      "added_at": "2024-07-22 14:00:00",
-      "album": {
-        "name": "Call It Magic",
-        "url": "https://open.spotify.com/album/75fNhcZUxb6xgmGjERA6Cw"
-      },
-      "artists": [
-        {
-          "name": "Homegrown Trio",
-          "url": "https://open.spotify.com/artist/2BVJ6xbABKHgRHAOXgaei2"
-        }
-      ],
-      "duration_ms": 202760,
-      "name": "Call It Magic",
-      "url": "https://open.spotify.com/track/3EZJD3WZvUoXYEa5x8wUVV"
-    },
-    {
-      "added_at": "2024-07-22 14:00:00",
-      "album": {
-        "name": "Born Lonely",
-        "url": "https://open.spotify.com/album/7000MO2d4WELTAJZdokU3d"
-      },
-      "artists": [
-        {
-          "name": "Matt Stell",
-          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
-        }
-      ],
-      "duration_ms": 210533,
-      "name": "Smooth",
-      "url": "https://open.spotify.com/track/334YfRsUNPz8YXKmnOfGdR"
-    },
-    {
-      "added_at": "2024-07-22 14:00:00",
-      "album": {
-        "name": "Volume 05: Runaway",
-        "url": "https://open.spotify.com/album/3jKUXpFiqWGVoKCfulH22G"
-      },
-      "artists": [
-        {
-          "name": "Bud Rokesky",
-          "url": "https://open.spotify.com/artist/1UJ1coJeMJWb3tEgAXKv67"
-        }
-      ],
-      "duration_ms": 181412,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/7gomutDGuHdzt9zYTEO43z"
     },
     {
       "added_at": "2024-07-22 14:00:00",
@@ -887,22 +943,6 @@
     {
       "added_at": "2024-07-22 14:00:00",
       "album": {
-        "name": "Something Stronger",
-        "url": "https://open.spotify.com/album/6kbchrqfLBXv8C5nHL0kBL"
-      },
-      "artists": [
-        {
-          "name": "Andrew Farriss",
-          "url": "https://open.spotify.com/artist/54gnZdaesI3BqLQG6srtBg"
-        }
-      ],
-      "duration_ms": 195377,
-      "name": "Something Stronger",
-      "url": "https://open.spotify.com/track/4D8QTpuGn0abO0HmdTI8Rs"
-    },
-    {
-      "added_at": "2024-07-22 14:00:00",
-      "album": {
         "name": "hummingbird",
         "url": "https://open.spotify.com/album/5XmOFWhZEZBR6VlQvs6dfR"
       },
@@ -979,22 +1019,6 @@
       "duration_ms": 192693,
       "name": "Devil You Know",
       "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
-    },
-    {
-      "added_at": "2024-07-22 14:00:00",
-      "album": {
-        "name": "Who You Did It With",
-        "url": "https://open.spotify.com/album/0fnNnH6wRaL8ih5rRra7Wj"
-      },
-      "artists": [
-        {
-          "name": "Max Jackson",
-          "url": "https://open.spotify.com/artist/6uxoiISyynknybWW6SQrTe"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Who You Did It With",
-      "url": "https://open.spotify.com/track/3XnEch29DpBSD0YLGIzNP4"
     },
     {
       "added_at": "2024-07-22 14:00:00",
@@ -1415,26 +1439,6 @@
       "duration_ms": 131186,
       "name": "Cowboy Cry",
       "url": "https://open.spotify.com/track/7bDf4FJfRCTXPnOqxWu5xG"
-    },
-    {
-      "added_at": "2024-07-22 14:00:00",
-      "album": {
-        "name": "NASHVILLE, TENNESSEE",
-        "url": "https://open.spotify.com/album/4aD7IAPv6OlCGoYWrUJZ3K"
-      },
-      "artists": [
-        {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 214708,
-      "name": "I Went To College / I Went To Jail (feat. Jelly Roll)",
-      "url": "https://open.spotify.com/track/7kKdZ6PNaVD4aqsA9jvnyv"
     },
     {
       "added_at": "2024-07-22 14:00:00",

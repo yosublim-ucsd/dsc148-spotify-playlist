@@ -21647,6 +21647,24 @@
     },
     {
       "album": {
+        "name": "Recipe",
+        "url": "https://open.spotify.com/album/1jvJ40I0ioAVt2IziPKnm0"
+      },
+      "artists": [
+        {
+          "name": "Anais Chantal",
+          "url": "https://open.spotify.com/artist/053jjj6s5jNLvPEA4HblcU"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "For What?",
+      "url": "https://open.spotify.com/track/1yKDheHjRsMOugDSA2edJn"
+    },
+    {
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/0Yil0po4CZ0vqPFwiIsRPv"
       },
@@ -33408,7 +33426,7 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 323777,
       "name": "Landslide - Live",
       "url": "https://open.spotify.com/track/5LPLCJpfHQaBuwYRseaicK"
@@ -61696,6 +61714,24 @@
       "duration_ms": 232500,
       "name": "Tight Dress",
       "url": "https://open.spotify.com/track/0JoeGZ7DTdEIqc0HXDIIE9"
+    },
+    {
+      "album": {
+        "name": "Til My Dying Day",
+        "url": "https://open.spotify.com/album/2xJl1M93lRGFFYQHTtqFSE"
+      },
+      "artists": [
+        {
+          "name": "Mike Cavanaugh",
+          "url": "https://open.spotify.com/artist/4LDBs5aidl2cZ5WOvJ8u7X"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219800,
+      "name": "Til My Dying Day",
+      "url": "https://open.spotify.com/track/7tBu9Cw1GSNKziwbDQJWmY"
     },
     {
       "album": {

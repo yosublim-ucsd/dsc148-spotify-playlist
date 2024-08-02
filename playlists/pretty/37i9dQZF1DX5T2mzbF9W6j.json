@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 109685,
+  "num_followers": 109687,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -927,18 +927,22 @@
     {
       "added_at": "2024-07-26 09:58:07",
       "album": {
-        "name": "Good Things",
-        "url": "https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0"
+        "name": "Va Banque",
+        "url": "https://open.spotify.com/album/2zZQCmGDsZGyG6u3w6b31m"
       },
       "artists": [
         {
-          "name": "Bea and her Business",
-          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+          "name": "Julia \u017bugaj",
+          "url": "https://open.spotify.com/artist/77ie7EUxZYh8rjBIUC76S1"
+        },
+        {
+          "name": "Daria Marx",
+          "url": "https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u"
         }
       ],
-      "duration_ms": 177373,
-      "name": "Good Things",
-      "url": "https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW"
+      "duration_ms": 178409,
+      "name": "Va Banque",
+      "url": "https://open.spotify.com/track/6Y9ji63BDB0OxG5K06xyNL"
     },
     {
       "added_at": "2024-07-26 09:58:07",
@@ -959,22 +963,18 @@
     {
       "added_at": "2024-07-26 09:58:07",
       "album": {
-        "name": "Va Banque",
-        "url": "https://open.spotify.com/album/2zZQCmGDsZGyG6u3w6b31m"
+        "name": "Good Things",
+        "url": "https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0"
       },
       "artists": [
         {
-          "name": "Julia \u017bugaj",
-          "url": "https://open.spotify.com/artist/77ie7EUxZYh8rjBIUC76S1"
-        },
-        {
-          "name": "Daria Marx",
-          "url": "https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u"
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
         }
       ],
-      "duration_ms": 178409,
-      "name": "Va Banque",
-      "url": "https://open.spotify.com/track/6Y9ji63BDB0OxG5K06xyNL"
+      "duration_ms": 177373,
+      "name": "Good Things",
+      "url": "https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW"
     },
     {
       "added_at": "2024-07-26 09:58:07",

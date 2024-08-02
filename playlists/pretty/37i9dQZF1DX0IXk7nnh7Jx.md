@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Listen to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:4gzyIFii6fWdCiLsP0bocC">The Gray Havens</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,629 likes - 85 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,640 likes - 85 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 60 | [Perfect Peace](https://open.spotify.com/track/07bnH9ucRiSiSQsIhqE52B) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Perfect Peace](https://open.spotify.com/album/2Ft65MibXY2DrNy3aTxbCX) | 3:13 |
 | 61 | [Fascination](https://open.spotify.com/track/5Gw9pGxKswaBAe7NCzxJ1q) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [A.Bishai](https://open.spotify.com/artist/3OLnkIUoCzl7AiVY9WAEuM) | [24/3](https://open.spotify.com/album/1FIhgPfQqOvDhsy0NBar0T) | 3:48 |
 | 62 | [hollow](https://open.spotify.com/track/5bOPDOpWydLeD3Cp6hikhM) | [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5) | [hollow](https://open.spotify.com/album/5lgtnGR1XbdY03VxVrefKf) | 2:32 |
-| 63 | [Father Song](https://open.spotify.com/track/5ZnzeK0guHHU7lVXB19DPy) | [Gideon Roberts](https://open.spotify.com/artist/6jaG4lKI1f0SeeWBCr2bfI) | [Father Song](https://open.spotify.com/album/55IC3yOUiWseZ4MT6yoEgX) | 4:59 |
+| 63 | [Father Song](https://open.spotify.com/track/5ZnzeK0guHHU7lVXB19DPy) | [Gideon Roberts](https://open.spotify.com/artist/6jaG4lKI1f0SeeWBCr2bfI) | [Father Song](https://open.spotify.com/album/55IC3yOUiWseZ4MT6yoEgX) | 4:58 |
 | 64 | [Hands on Me](https://open.spotify.com/track/4fJPzIrLQPeHl9ONB4bPCD) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Hands on Me](https://open.spotify.com/album/0biyWpaRqrmazzLwt0pqts) | 2:16 |
 | 65 | [God Almighty!](https://open.spotify.com/track/5hjmLdKVzaJnIacY2TvtlC) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [God Almighty!](https://open.spotify.com/album/4fdeqOozZzpO7k1Ab6uPsh) | 3:33 |
 | 66 | [Highs and Lows](https://open.spotify.com/track/1HdNqsGqTZp1MINmpvPYUM) | [Joshua's Giants](https://open.spotify.com/artist/6ULNzmxY00PU4YfT3ZZp7T), [Pat Soul](https://open.spotify.com/artist/41D38SWrxqpCfDZbQYzDKt) | [Highs and Lows](https://open.spotify.com/album/1VtoxG00XMJcYVFwn6HIWz) | 3:00 |

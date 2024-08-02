@@ -1,12 +1,12 @@
 {
-  "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
-  "num_followers": 239673,
+  "description": "This Is Eden Mu\u00f1oz. Los temas esenciales, todos en una lista.",
+  "num_followers": 239798,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqgtAAAAAABRIKa/8crAr5nlkUcRravy",
+  "snapshot_id": "Zql+gAAAAACKLGkYfB/ac23CNZ37H4R5",
   "tracks": [
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV",
-        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 150424,
-      "name": "LMV",
-      "url": "https://open.spotify.com/track/23U6cwNZHA0Zf8F1cVSA8F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Del Trigo",
         "url": "https://open.spotify.com/album/0Xf6CfmEEadTIyqmxWLImy"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 178864,
       "name": "El Del Trigo",
       "url": "https://open.spotify.com/track/0AVtMI07ElJJxViPO2Dg92"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 150424,
+      "name": "LMV",
+      "url": "https://open.spotify.com/track/23U6cwNZHA0Zf8F1cVSA8F"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 222571,
+      "name": "MX - MAD",
+      "url": "https://open.spotify.com/track/1CdFg273lkDDOA13pV8FXX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Me Ense\u00f1aste",
         "url": "https://open.spotify.com/album/1p1LvWM0ysgMEPmK8paYm0"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 213760,
       "name": "Tu Me Ense\u00f1aste",
       "url": "https://open.spotify.com/track/0367uF6vbcYnIYAgilNWYX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 222571,
-      "name": "MX - MAD",
-      "url": "https://open.spotify.com/track/1CdFg273lkDDOA13pV8FXX"
     },
     {
       "added_at": null,

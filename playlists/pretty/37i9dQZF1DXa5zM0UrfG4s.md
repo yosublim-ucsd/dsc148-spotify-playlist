@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > blir det en hvit sommer?
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,922 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,982 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,14 +27,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 17 | [Sju Fjell](https://open.spotify.com/track/04k0QThdHEp7kg3FpXVh0Q) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Sju Fjell](https://open.spotify.com/album/6G4i1PIp6o7sFrLThlIilQ) | 2:58 |
 | 18 | [Polare](https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM) | [Prilla Generalen](https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak) | [Polare](https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr) | 3:25 |
 | 19 | [Mekke bil \(feat\. Tor\-Anders Ringnes\)](https://open.spotify.com/track/4dqrmHVAq0GtWgb0oGXGAA) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Tor\-Anders Ringnes](https://open.spotify.com/artist/1C6ztSfBUGTx9lZ65HjqqW) | [Mekke bil \(feat\. Tor\-Anders Ringnes\)](https://open.spotify.com/album/5KudautWOwAQOyFVWhrGRt) | 2:28 |
-| 20 | [Min psykolog](https://open.spotify.com/track/4K93BTFaJE4QFqxdeNoC1C) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Min psykolog](https://open.spotify.com/album/5BjfK5TCoxyFrR8aQh94Gf) | 2:30 |
-| 21 | [Dunka](https://open.spotify.com/track/33c4dYHCS1bVYGJYF5iTPL) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Emil Assergård](https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm) | [Dunka](https://open.spotify.com/album/1nH0DrcdHX0wcTbb60sFs7) | 2:13 |
-| 22 | [Har du lyst har du lov](https://open.spotify.com/track/24fZgYryGyJ5ofUKhGRcpy) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Har du lyst har du lov](https://open.spotify.com/album/5lKiWb3gleGfRPCUrImexs) | 2:27 |
+| 20 | [Konge på bøgda](https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Konge på bøgda](https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb) | 3:00 |
+| 21 | [Har du lyst har du lov](https://open.spotify.com/track/24fZgYryGyJ5ofUKhGRcpy) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Har du lyst har du lov](https://open.spotify.com/album/5lKiWb3gleGfRPCUrImexs) | 2:27 |
+| 22 | [Dunka](https://open.spotify.com/track/33c4dYHCS1bVYGJYF5iTPL) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Emil Assergård](https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm) | [Dunka](https://open.spotify.com/album/1nH0DrcdHX0wcTbb60sFs7) | 2:13 |
 | 23 | [5 SHOTS](https://open.spotify.com/track/5CqyzTnsaP20NBBiDZZe5H) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [5 SHOTS](https://open.spotify.com/album/5TXQMV2n7TjC64TNQDmzln) | 2:08 |
 | 24 | [Muggene Er Megasvære \(Elsker Øl\)](https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK) | [DJ Anton](https://open.spotify.com/artist/3MPjnETEr8lNQAEk05Pxg8), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq) | [Muggene Er Megasvære \(Elsker Øl\)](https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw) | 2:52 |
 | 25 | [FREDAG](https://open.spotify.com/track/2BW06C7AAEjCdK6GVi2tzU) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c), [Jamze](https://open.spotify.com/artist/3OBoHiFRFSu5KaqskfBDPX) | [FREDAG](https://open.spotify.com/album/2FlDQsT40blZmH2HAt097u) | 2:07 |
 | 26 | [Hald deg fast](https://open.spotify.com/track/3RCG0v2Z1sDvZLYdFtAPbQ) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Hald deg fast](https://open.spotify.com/album/1g3bKt16foB6q1quIvBawh) | 3:21 |
-| 27 | [Konge på bøgda](https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Konge på bøgda](https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb) | 3:00 |
+| 27 | [Min psykolog](https://open.spotify.com/track/4K93BTFaJE4QFqxdeNoC1C) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Min psykolog](https://open.spotify.com/album/5BjfK5TCoxyFrR8aQh94Gf) | 2:30 |
 | 28 | [FREDAG](https://open.spotify.com/track/7CrzOLGSbr4PFi9F9PNcJ4) | [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [FREDAG](https://open.spotify.com/album/6zBuRXhywr33CSy1QXxd46) | 2:48 |
 | 29 | [Sånn So Det Va Før](https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ) | [Vassendgutane](https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2) | [Sånn So Det Va Før](https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm) | 4:38 |
 | 30 | [Hvit sommer](https://open.spotify.com/track/6MexyFGps6nfd5aDl1W50l) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Hvit sommer](https://open.spotify.com/album/6gzb9XtcWUz7Zkccyym86u) | 2:28 |

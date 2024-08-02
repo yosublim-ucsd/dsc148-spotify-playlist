@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: DON MALIK\(던말릭\)\)
 
-1,282 songs - 2 day 21 hr 32 min
+1,283 songs - 2 day 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -824,6 +824,7 @@
 | [On the street \(Feat\. ASH ISLAND\)](https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [On the street](https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU) | 3:29 | 2023-08-16 | 2024-03-09 |
 | [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 | 2023-03-03 | 2024-06-29 |
 | [On the top \(Feat\. The Quiett, Gist\)](https://open.spotify.com/track/2jkvI5zv8yDQKReAlyMj2t) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [L&B](https://open.spotify.com/album/5tXw2luJlRFJ4vqNZkzS6u) | 2:32 | 2024-02-20 | 2024-06-05 |
+| [One & Only](https://open.spotify.com/track/0kwttQkLxci6m9SU7XelgM) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [Delphinium](https://open.spotify.com/album/6jdlJrLRWyCnUnKUzhPG2T) | 2:42 | 2024-08-01 |  |
 | [one \(feat\. Paul Blanco, Kim Seungmin\)](https://open.spotify.com/track/6AWXGKo1zTjMV1WNjIpwhx) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [one & ashes](https://open.spotify.com/album/2LpbGE8qfrCjYykxO7v3of) | 3:16 | 2022-06-18 | 2022-08-13 |
 | [One Of A Kind](https://open.spotify.com/track/564mt2GNxiqnkony3q6PRH) | [다니엘 지칼](https://open.spotify.com/artist/2tsU4AP4cmCsMVxtoYS8DI) | [Fresh](https://open.spotify.com/album/555uOzuWShkK0slg9OaaaC) | 2:34 | 2024-03-05 | 2024-06-05 |
 | [One Snowy Day \(Feat\. SOLE\)](https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [One Snowy Day](https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo) | 4:00 | 2022-01-15 | 2022-07-08 |

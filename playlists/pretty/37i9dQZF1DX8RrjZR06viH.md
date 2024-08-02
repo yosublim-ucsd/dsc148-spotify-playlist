@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 
 > Sommersola er her <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,061 likes - 85 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,125 likes - 85 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 17 | [Tar Jeg Feil](https://open.spotify.com/track/606olj3PDQBde7TTAop4tA) | [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Tar Jeg Feil](https://open.spotify.com/album/4mjRBfM8Z5qh0EMVMSLtKy) | 4:05 |
 | 18 | [Josefin](https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Josefin](https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk) | 3:34 |
 | 19 | [Mona Lisa, Mona Lisa](https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Mona Lisa, Mona Lisa](https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r) | 2:52 |
-| 20 | [Kor e du?](https://open.spotify.com/track/6JfVQ0gSzYLDWZPPZoacVk) | [Sondre Justad](https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67) | [Kor e du?](https://open.spotify.com/album/6vtM7D6DXolebuT8Jk5qHf) | 3:20 |
-| 21 | [Frøken Oslo V](https://open.spotify.com/track/78LCLrKFF22QHmNExXnlWr) | [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [Frøken Oslo V](https://open.spotify.com/album/4qm9mJcERZOQJvIJ0UN6c1) | 2:07 |
+| 20 | [Frøken Oslo V](https://open.spotify.com/track/78LCLrKFF22QHmNExXnlWr) | [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [Frøken Oslo V](https://open.spotify.com/album/4qm9mJcERZOQJvIJ0UN6c1) | 2:07 |
+| 21 | [Kor e du?](https://open.spotify.com/track/6JfVQ0gSzYLDWZPPZoacVk) | [Sondre Justad](https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67) | [Kor e du?](https://open.spotify.com/album/6vtM7D6DXolebuT8Jk5qHf) | 3:20 |
 | 22 | [Som sommaren](https://open.spotify.com/track/5xDDfIvWw8td3jtA1icOsZ) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Som sommaren](https://open.spotify.com/album/4mXd1AbfVlHDZYdo0YfVGa) | 3:48 |
 | 23 | [Bølger](https://open.spotify.com/track/30NBm5D1W1MdfCgDZBuJYY) | [3TOS](https://open.spotify.com/artist/4kMHdk4Ci3GoVB1jGZTL4C) | [Bølger](https://open.spotify.com/album/1XKnyAAgscwpB0BgzR09TW) | 2:13 |
 | 24 | [A Potion For Love](https://open.spotify.com/track/5Xk6GwwLwQaklody4DslTD) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Potion For Love](https://open.spotify.com/album/79kiDzdz5iv1aQ68x4PJA0) | 3:36 |
@@ -79,19 +79,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 69 | [Sommerglød](https://open.spotify.com/track/1Iuhp27As7UTZayGl8tGaM) | [06 Boys](https://open.spotify.com/artist/0V2Y2bp26jVrvRYKtS33EN) | [Sommerglød](https://open.spotify.com/album/72HhszSLQI4pt5A6xzoFg7) | 2:13 |
 | 70 | [Sommerfugl](https://open.spotify.com/track/70WspLgBLUsL4THi8bCdUv) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg) | [Sommerfugl](https://open.spotify.com/album/4KwC2kDErFQk2s2CVepIzu) | 2:52 |
 | 71 | [Marilyn Monroe](https://open.spotify.com/track/0LTzekaSg1V34NHCDhITP2) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Marilyn Monroe](https://open.spotify.com/album/1yKRXICOj4bFCRK75e8DDw) | 2:54 |
-| 72 | [Hate Being Alone](https://open.spotify.com/track/3GMVYiGXxzDanIfoowfBOa) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [ELLE](https://open.spotify.com/album/3mufRbVLnu4dO8dP8fJRb0) | 3:05 |
-| 73 | [Bygda vår](https://open.spotify.com/track/7GkeilYNSQTNQnyX9YGibA) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Bygda vår](https://open.spotify.com/album/0LLyHCTAT1jgF0cnOioJJk) | 2:41 |
-| 74 | [Noen som forstår](https://open.spotify.com/track/0skJrhhZqWp7Q0Czpxxrlb) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [KLIPP MEG I TI OG LIM MEG SAMMEN](https://open.spotify.com/album/2g0oZHtjgfF5VMQJXR2f2g) | 3:15 |
+| 72 | [Bygda vår](https://open.spotify.com/track/7GkeilYNSQTNQnyX9YGibA) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Bygda vår](https://open.spotify.com/album/0LLyHCTAT1jgF0cnOioJJk) | 2:41 |
+| 73 | [Noen som forstår](https://open.spotify.com/track/0skJrhhZqWp7Q0Czpxxrlb) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [KLIPP MEG I TI OG LIM MEG SAMMEN](https://open.spotify.com/album/2g0oZHtjgfF5VMQJXR2f2g) | 3:15 |
+| 74 | [Hate Being Alone](https://open.spotify.com/track/3GMVYiGXxzDanIfoowfBOa) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [ELLE](https://open.spotify.com/album/3mufRbVLnu4dO8dP8fJRb0) | 3:05 |
 | 75 | [Tre sekunder](https://open.spotify.com/track/1YG1SeN28PvLdNzyBAeLww) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Tre sekunder](https://open.spotify.com/album/01OYb3IdBqhdxrRsTTlsIJ) | 3:09 |
-| 76 | [Vil ikke hjem](https://open.spotify.com/track/0Rpw1FEivr3Io9yjjOLXGw) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Vil ikke hjem](https://open.spotify.com/album/0hJvr0HkNM3oi9QbrmPGZf) | 2:41 |
-| 77 | [Trodde aldri](https://open.spotify.com/track/1DRxTny5DbSOfR8ctbUePs) | [Sunna Björk](https://open.spotify.com/artist/6egqnKljDSm5a8QuLbaF9k), [Regnvær](https://open.spotify.com/artist/527pgsBl16NWDwKewwEDki) | [Trodde aldri](https://open.spotify.com/album/2m4xkVRWuBOmWKInYu60dC) | 2:14 |
+| 76 | [Trodde aldri](https://open.spotify.com/track/1DRxTny5DbSOfR8ctbUePs) | [Sunna Björk](https://open.spotify.com/artist/6egqnKljDSm5a8QuLbaF9k), [Regnvær](https://open.spotify.com/artist/527pgsBl16NWDwKewwEDki) | [Trodde aldri](https://open.spotify.com/album/2m4xkVRWuBOmWKInYu60dC) | 2:14 |
+| 77 | [Vil ikke hjem](https://open.spotify.com/track/0Rpw1FEivr3Io9yjjOLXGw) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Vil ikke hjem](https://open.spotify.com/album/0hJvr0HkNM3oi9QbrmPGZf) | 2:41 |
 | 78 | [People Come And Go](https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [People Come And Go](https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN) | 2:34 |
 | 79 | [la meg ligge](https://open.spotify.com/track/1a6G7x79kvHEhOkeJBLXJj) | [Michelle Ullestad](https://open.spotify.com/artist/0ftXswGpAsqomAAg0YN1pI) | [la meg ligge](https://open.spotify.com/album/3YiyfDnirvlF06ibKAa6cI) | 3:30 |
 | 80 | [Never Let Me Go](https://open.spotify.com/track/4eU6WBjr2RXhTJSmJ0r22c) | [Metteson](https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD) | [Never Let Me Go](https://open.spotify.com/album/5K91iGlsM7YxI6JIojSZzm) | 3:36 |
 | 81 | [Hvalfangerbyen](https://open.spotify.com/track/1gWzPGtQeTDbaA1ee8e1Ji) | [Zimmermann](https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB) | [Hvalfangerbyen](https://open.spotify.com/album/6M2nSOHoe58dDU6dGluvWK) | 3:20 |
-| 82 | [Dangerous](https://open.spotify.com/track/16pWwIOwWNrS7Hrt6YDxok) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Dangerous](https://open.spotify.com/album/0EdDw4yXJ4x1X44QCkM8i1) | 3:30 |
-| 83 | [Synnes sumarvise](https://open.spotify.com/track/6sywAIdIEeNfGsQNEb3fbK) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Synnes sumarvise](https://open.spotify.com/album/3Ov9vdLXHJ8CWiiao8Yhnr) | 2:14 |
+| 82 | [Synnes sumarvise](https://open.spotify.com/track/6sywAIdIEeNfGsQNEb3fbK) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Synnes sumarvise](https://open.spotify.com/album/3Ov9vdLXHJ8CWiiao8Yhnr) | 2:14 |
+| 83 | [Dangerous](https://open.spotify.com/track/16pWwIOwWNrS7Hrt6YDxok) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Dangerous](https://open.spotify.com/album/0EdDw4yXJ4x1X44QCkM8i1) | 3:30 |
 | 84 | [Take Your Time \(Slow Down\)](https://open.spotify.com/track/01eRSf9IjbyWK7wjCygQRn) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [International Girl, Pt\. 1](https://open.spotify.com/album/4C8q9K3fEhwrEULk2akLR7) | 2:13 |
-| 85 | [Moving On](https://open.spotify.com/track/0HUByUXgU8lWbjraKlp6eA) | [Hannah Storm](https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL) | [Moving On](https://open.spotify.com/album/6bDFH4AggFFKfMEcVP1Jym) | 2:47 |
+| 85 | [Nostalgi](https://open.spotify.com/track/2KB8rqbA52HPAKBcutVp51) | [Kapteinen](https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9) | [Nostalgi](https://open.spotify.com/album/4DACSsBHMeZ8jKxcbZaA7w) | 2:37 |
 
-Snapshot ID: `ZpmQYAAAAABzBG/Qmdb0Romn4E6AhT+Y`
+Snapshot ID: `ZqwFYAAAAAApRuiDBPz5OuDY35+fMTQS`

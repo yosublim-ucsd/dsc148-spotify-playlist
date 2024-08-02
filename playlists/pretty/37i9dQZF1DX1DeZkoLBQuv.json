@@ -567,6 +567,26 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "\u00d3, Vinde, Adoremos",
+        "url": "https://open.spotify.com/album/18SwXFPhxjgOzEnJERhcBd"
+      },
+      "artists": [
+        {
+          "name": "Altomonte",
+          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
+        },
+        {
+          "name": "Zoe Lilly",
+          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "\u00d3, Vinde, Adoremos",
+      "url": "https://open.spotify.com/track/5DVZUWNEIsKUq12krk7On2"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Outra Vez, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3RZA19AblrMjpYWIVzPU59"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 282500,
       "name": "Como Um de N\u00f3s - Ao Vivo",
       "url": "https://open.spotify.com/track/1ALCSur6iFfGd1UuVoF0Td"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "\u00d3, Vinde, Adoremos",
-        "url": "https://open.spotify.com/album/18SwXFPhxjgOzEnJERhcBd"
-      },
-      "artists": [
-        {
-          "name": "Altomonte",
-          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
-        },
-        {
-          "name": "Zoe Lilly",
-          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "\u00d3, Vinde, Adoremos",
-      "url": "https://open.spotify.com/track/5DVZUWNEIsKUq12krk7On2"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 283933,
+      "name": "Por Amor a N\u00f3s",
+      "url": "https://open.spotify.com/track/5gvwPdd3q0sw1yKmUNEHTw"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Noite de Paz",
         "url": "https://open.spotify.com/album/385673vVXabsOzy5GjDQzn"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 241222,
       "name": "Noite de Paz",
       "url": "https://open.spotify.com/track/2wiRFWjjmgzWRjmg4qUdS1"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 283933,
-      "name": "Por Amor a N\u00f3s",
-      "url": "https://open.spotify.com/track/5gvwPdd3q0sw1yKmUNEHTw"
     },
     {
       "added_at": "2023-12-22 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7B4HyZbWHdY.md) - [plain]
 
 > Babae ka, hindi babae lang\. Celebrate Pinay power by listening here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,639 likes - 9 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,638 likes - 9 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

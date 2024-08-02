@@ -4,7 +4,7 @@
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.
 
-185 songs - 12 hr 50 min
+186 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Feel Holy](https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [Feel Holy](https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac) | 5:31 | 2024-06-23 |  |
 | [Follow Me](https://open.spotify.com/track/2Qq5fpfXnpqWvHsvXuMH3O) | [Angelique Marketon](https://open.spotify.com/artist/75aegD7DtUiK9w9LP9iwsA) | [Follow Me](https://open.spotify.com/album/0VUJTXs1I6cpspWGfjcIjJ) | 5:12 | 2024-06-23 | 2024-07-27 |
 | [For The Ones We Love](https://open.spotify.com/track/04SDrly80EKgl1vlnskm7J) | [Jonas Myrin](https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5) | [For The Ones We Love](https://open.spotify.com/album/0F8iAIGNpZ25HDiZiNVsmq) | 3:29 | 2024-07-26 |  |
-| [Glory I Couldn't See](https://open.spotify.com/track/1jkdHZdTLwM3kQ6LRIKUKw) | [Mike Donehey](https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2) | [Glory I Couldn't See](https://open.spotify.com/album/65yrsjMkCHqQmYn6IOsxRd) | 4:06 | 2024-07-26 |  |
+| [Glory I Couldn't See](https://open.spotify.com/track/1jkdHZdTLwM3kQ6LRIKUKw) | [Mike Donehey](https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2) | [Glory I Couldn't See](https://open.spotify.com/album/65yrsjMkCHqQmYn6IOsxRd) | 4:06 | 2024-07-26 | 2024-08-02 |
 | [God Who Saves](https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP) | [Shamina](https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb) | [From the Valley](https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H) | 4:39 | 2024-06-23 |  |
 | [God You Are \(feat\. Josh Baldwin\)](https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [God You Are](https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j) | 4:25 | 2021-10-31 |  |
 | [Good Shepherd](https://open.spotify.com/track/0qunForAChEb3cxRJ0KIZK) | [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [The Good Shepherd](https://open.spotify.com/album/2O83jwuM1ydrtVmRUax7W5) | 4:24 | 2024-07-26 |  |
@@ -116,6 +116,7 @@
 | [Nothing Else](https://open.spotify.com/track/41FnfKYB6m3uQSAzPC7Jfc) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE), [sxxnt.](https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1) | [Nothing Else](https://open.spotify.com/album/3qTycMB7VucF8cIv2ZbVu4) | 4:24 | 2021-10-31 | 2023-07-15 |
 | [Oceans \(Where Feet May Fail\) \- Acoustic](https://open.spotify.com/track/3jOUk86JA4V8gSnDHKBNAS) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Oceans \(Where Feet May Fail\) \[Acoustic\]](https://open.spotify.com/album/1AlA9bGjGYKNLh79zqZO4P) | 3:55 | 2024-07-26 |  |
 | [Omnipotent Yet Intimate](https://open.spotify.com/track/6gveqMRdyw6wxWgmSKW4vT) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [Omnipotent Yet Intimate](https://open.spotify.com/album/4qUDEpOHh14cpHgKrFLabN) | 4:39 | 2021-10-31 | 2023-08-10 |
+| [One Too Many Reasons](https://open.spotify.com/track/7oiLIRikWpTKBpwOLAJyJf) | [Cam Sakkara](https://open.spotify.com/artist/5Hc2dYOq4gQe6ktIvIvhy8) | [Conquering Eden](https://open.spotify.com/album/62kUV3z9wZSYdVb0cCyDxp) | 4:00 | 2024-07-26 |  |
 | [Ordinary Days](https://open.spotify.com/track/2vfvPpkSwFwsuppSHbLCoR) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Ordinary Days](https://open.spotify.com/album/7dFdGVoxZ8ZLnj1sdxhys5) | 4:08 | 2021-10-31 | 2024-06-23 |
 | [Overflow](https://open.spotify.com/track/732o97x5cTUkBSGTMkn00R) | [Madison Hamm](https://open.spotify.com/artist/2rhQrZikDlpjv7XQr6rlqT) | [Overflow](https://open.spotify.com/album/4XiTbwVZZDjQJOPYUPu4zz) | 3:25 | 2024-07-26 |  |
 | [Peace \- Acoustic](https://open.spotify.com/track/3MCsTv1aRe3rE7PDso4ses) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Peace](https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz) | 5:07 | 2021-10-31 | 2024-07-27 |

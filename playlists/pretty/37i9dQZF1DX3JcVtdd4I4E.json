@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom of pop.",
-  "num_followers": 6537,
+  "num_followers": 6542,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/3UteN8apwzmsGK7rhHjTXY"
-      },
-      "artists": [
-        {
-          "name": "Nea",
-          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
-        }
-      ],
-      "duration_ms": 192970,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/6cJ3VHRZqU71l4rA6K89gi"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "SHE-REX",
         "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 232465,
       "name": "promise to pick up the phone",
       "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/3UteN8apwzmsGK7rhHjTXY"
+      },
+      "artists": [
+        {
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+        }
+      ],
+      "duration_ms": 192970,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/6cJ3VHRZqU71l4rA6K89gi"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -815,18 +815,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "And Then Came You",
-        "url": "https://open.spotify.com/album/4hq1E3eP2GWZ7kdddv7MDS"
+        "name": "Partner In Crime",
+        "url": "https://open.spotify.com/album/6bt48pYHOYZUDHQLYZx01F"
       },
       "artists": [
         {
-          "name": "Maria Mena",
-          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
+          "name": "Maria Sur",
+          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
         }
       ],
-      "duration_ms": 195909,
-      "name": "And Then Came You",
-      "url": "https://open.spotify.com/track/2CuPyOrXSVSxFCpW0TjzdI"
+      "duration_ms": 155750,
+      "name": "Partner In Crime",
+      "url": "https://open.spotify.com/track/6iuni8ZCs2mPeUfmCsZqsg"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Partner In Crime",
-        "url": "https://open.spotify.com/album/6bt48pYHOYZUDHQLYZx01F"
+        "name": "And Then Came You",
+        "url": "https://open.spotify.com/album/4hq1E3eP2GWZ7kdddv7MDS"
       },
       "artists": [
         {
-          "name": "Maria Sur",
-          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
+          "name": "Maria Mena",
+          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
         }
       ],
-      "duration_ms": 155750,
-      "name": "Partner In Crime",
-      "url": "https://open.spotify.com/track/6iuni8ZCs2mPeUfmCsZqsg"
+      "duration_ms": 195909,
+      "name": "And Then Came You",
+      "url": "https://open.spotify.com/track/2CuPyOrXSVSxFCpW0TjzdI"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Roses N Guns",
-        "url": "https://open.spotify.com/album/62ECLLY1SK5EGvZ90GeIGx"
-      },
-      "artists": [
-        {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
-        }
-      ],
-      "duration_ms": 281547,
-      "name": "Roses N Guns",
-      "url": "https://open.spotify.com/track/3AKrDsF5ndU05s455qAs5Y"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "SMOKE",
         "url": "https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 204222,
       "name": "SMOKE",
       "url": "https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Roses N Guns",
+        "url": "https://open.spotify.com/album/62ECLLY1SK5EGvZ90GeIGx"
+      },
+      "artists": [
+        {
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+        }
+      ],
+      "duration_ms": 281547,
+      "name": "Roses N Guns",
+      "url": "https://open.spotify.com/track/3AKrDsF5ndU05s455qAs5Y"
     },
     {
       "added_at": "2024-02-08 23:00:00",

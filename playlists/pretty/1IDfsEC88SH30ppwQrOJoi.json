@@ -1,12 +1,12 @@
 {
   "description": "High energy, club songs from around the world! <a href=\"https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA\">Jaxomy</a> on the cover. Follow <a href=\"http://open.spotify.com/user/ultramusicofficial\">our profile</a> for more playlists.",
-  "num_followers": 14486,
+  "num_followers": 14484,
   "original_name": "Ultra Club Hits",
   "owner": {
     "name": "Ultra Records",
     "url": "https://open.spotify.com/user/ultramusicofficial"
   },
-  "snapshot_id": "AAAJigd2guTh5huTAkdnJxqjkfUiMEee",
+  "snapshot_id": "AAAJjA/Nh7agCBzIaLi5swYnnk4JpdjT",
   "tracks": [
     {
       "added_at": "2024-07-26 03:39:43",
@@ -27,6 +27,26 @@
       "duration_ms": 176030,
       "name": "Out of My Hands",
       "url": "https://open.spotify.com/track/6oRnGHtoBixS2qPYYL56ts"
+    },
+    {
+      "added_at": "2024-08-01 12:41:02",
+      "album": {
+        "name": "Naughty Girl",
+        "url": "https://open.spotify.com/album/28CvZoubvt5xdr5wyx3ZbW"
+      },
+      "artists": [
+        {
+          "name": "DJ S.K.T",
+          "url": "https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0"
+        },
+        {
+          "name": "James Haskell",
+          "url": "https://open.spotify.com/artist/5ry5gHsT7l1X84yGPZeVIj"
+        }
+      ],
+      "duration_ms": 184547,
+      "name": "Naughty Girl",
+      "url": "https://open.spotify.com/track/2BSgGFDMsopz6bHPww0UR4"
     },
     {
       "added_at": "2024-05-17 07:23:13",

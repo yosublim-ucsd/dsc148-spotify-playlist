@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 30,007 likes - 40 songs - 2 hr 36 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 30,010 likes - 40 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mahal](https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT) | 3:21 |
 | 2 | [Devices](https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Devices / Green](https://open.spotify.com/album/3KxNq8zMtKQkZlZqnsW3xm) | 5:10 |
 | 3 | [Drive](https://open.spotify.com/track/4I95FgYJkKw8HKrEli1WY2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [Drive](https://open.spotify.com/album/5YE4RbWYJXkRWQAXqNiNBv) | 3:43 |
-| 4 | [Forbidden Thing \(Kimmotsu\)](https://open.spotify.com/track/0a5EKnEXfZHtKATfNcmnks) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mahōgakkō](https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj) | 4:44 |
-| 5 | [lift off!](https://open.spotify.com/track/1lsuQNbQXg0smdcAaRpmja) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [lift off!](https://open.spotify.com/album/5PCGG2ken65WpPN06uqa08) | 3:34 |
-| 6 | [My Love](https://open.spotify.com/track/6aghmokpyn0soDHkTgaonm) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Posse EP Volume 2](https://open.spotify.com/album/5b8itMHqCiOnN8lN4REU5Y) | 4:15 |
+| 4 | [lift off!](https://open.spotify.com/track/1lsuQNbQXg0smdcAaRpmja) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [lift off!](https://open.spotify.com/album/5PCGG2ken65WpPN06uqa08) | 3:34 |
+| 5 | [My Love](https://open.spotify.com/track/6aghmokpyn0soDHkTgaonm) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Posse EP Volume 2](https://open.spotify.com/album/5b8itMHqCiOnN8lN4REU5Y) | 4:15 |
+| 6 | [Forbidden Thing \(Kimmotsu\)](https://open.spotify.com/track/0a5EKnEXfZHtKATfNcmnks) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mahōgakkō](https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj) | 4:44 |
 | 7 | [So Nice To Be In Love](https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp) | [So Nice To Be In Love](https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW) | 2:34 |
 | 8 | [blush](https://open.spotify.com/track/7IXV9ZmCAhyS2Kg8fWmuUT) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [blush](https://open.spotify.com/album/1WTz4JY0nQLsGPOqDgYSQl) | 2:43 |
 | 9 | [In The Dark](https://open.spotify.com/track/5syKbfJd2afOa2y93YQfTM) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [In The Dark](https://open.spotify.com/album/0zuZ4JU7RnSpe5fCQfzozl) | 4:18 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 39 | [A Moment Apart \- camoufly Remix](https://open.spotify.com/track/1LGEamUOVpiXa1RPsdhoH7) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Spinback Remixes](https://open.spotify.com/album/7wBTfpRnS7yaw5cdi3bWpu) | 3:16 |
 | 40 | [Departed](https://open.spotify.com/track/7udizCkehDvHpPbG6smnVe) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Departed](https://open.spotify.com/album/0ycL1vGVZTadGTkcq1vlxR) | 2:14 |
 
-Snapshot ID: `AAAPHBIG/c9m/VVUH8cakyeF+XzPFsvw`
+Snapshot ID: `AAAPHo5002XP8+old6Pv6BAbGHE0uKTA`

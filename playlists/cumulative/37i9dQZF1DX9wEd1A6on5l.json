@@ -247,6 +247,28 @@
     },
     {
       "album": {
+        "name": "Amapiano (Remix)",
+        "url": "https://open.spotify.com/album/7ahZBeqTFYzKKVGNs38HTX"
+      },
+      "artists": [
+        {
+          "name": "Bims",
+          "url": "https://open.spotify.com/artist/7mvvczRGyHKTZafmKFBFtr"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156994,
+      "name": "Amapiano - Remix",
+      "url": "https://open.spotify.com/track/4RVlMFix0GPwS5A0YfCe6l"
+    },
+    {
+      "album": {
         "name": "Qing Madi",
         "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
       },
@@ -823,6 +845,24 @@
     },
     {
       "album": {
+        "name": "Bad Decisions & Foreplay",
+        "url": "https://open.spotify.com/album/3j3vh7zL3GuCIVdbK8tZzd"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169571,
+      "name": "Bad Decisions & Foreplay",
+      "url": "https://open.spotify.com/track/5OUIh8ATWsEi5H4Oas0tKi"
+    },
+    {
+      "album": {
         "name": "Bad Girl (feat. Wande Coal & Victony)",
         "url": "https://open.spotify.com/album/0dqjwh8PHITjQOyJX5zTJq"
       },
@@ -1090,6 +1130,32 @@
       "duration_ms": 159965,
       "name": "bend you",
       "url": "https://open.spotify.com/track/4cukkgbgG9P9PKouQ462aV"
+    },
+    {
+      "album": {
+        "name": "Beng Beng Beng",
+        "url": "https://open.spotify.com/album/3xm1v6Cpd221YgVdfhEPFm"
+      },
+      "artists": [
+        {
+          "name": "Chop Daily",
+          "url": "https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG"
+        },
+        {
+          "name": "Ransom Beatz",
+          "url": "https://open.spotify.com/artist/6fzdE3sz7e6kFOwOywdmiy"
+        },
+        {
+          "name": "EESKAY",
+          "url": "https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142702,
+      "name": "Beng Beng Beng",
+      "url": "https://open.spotify.com/track/1QJr0nCavAGYteCOLUf2lN"
     },
     {
       "album": {
@@ -2790,7 +2856,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 127067,
       "name": "Duffel Bag",
       "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
@@ -4033,6 +4099,24 @@
     },
     {
       "album": {
+        "name": "Gon Gon / No Forget",
+        "url": "https://open.spotify.com/album/212j8iS52QLabW553im5hM"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "Gon Gon",
+      "url": "https://open.spotify.com/track/64t5AXI4zUzkiAcDImxNx9"
+    },
+    {
+      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/11Um6mbX3Mi0syR6IpDKqm"
       },
@@ -4838,7 +4922,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 160078,
       "name": "Jogo",
       "url": "https://open.spotify.com/track/1FvYnYoGgA4VSCCQYoyYLB"
@@ -6388,7 +6472,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 126213,
       "name": "Naija Funk",
       "url": "https://open.spotify.com/track/368hIemlcjDPQuYulhJrHE"
@@ -9330,7 +9414,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 203628,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/5yuP7KsSKbm3S94BGdK4Jy"

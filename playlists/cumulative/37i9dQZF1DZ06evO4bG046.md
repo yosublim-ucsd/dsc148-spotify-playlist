@@ -2,7 +2,7 @@
 
 ### [This Is Los Jaivas](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bG046)
 
-> This is Los Jaivas\. The essential tracks, all in one playlist.
+> This is Los Jaivas。アーティストの代表曲をひとつのプレイリストに。
 
 77 songs - 6 hr 57 min
 

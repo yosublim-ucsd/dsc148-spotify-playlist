@@ -1,13 +1,49 @@
 {
   "description": "It\u2019s pop punk, it\u2019s the best. Celebrating 30 years of Hopeless Records.",
-  "num_followers": 43708,
+  "num_followers": 43712,
   "original_name": "Best Of Pop Punk ",
   "owner": {
     "name": "Hopeless Records",
     "url": "https://open.spotify.com/user/hopelessrecords"
   },
-  "snapshot_id": "AAAa6lIvZ9cnb7p5h6LQL0q9zR5uBeXo",
+  "snapshot_id": "AAAa8HnTMHO0FxdL8jnR2RPR5HxJPDV3",
   "tracks": [
+    {
+      "added_at": "2024-08-01 23:09:22",
+      "album": {
+        "name": "Vicious Love",
+        "url": "https://open.spotify.com/album/4rtTqz6nQNNzgeJluDCeML"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        },
+        {
+          "name": "Hopelessly Devoted To You",
+          "url": "https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8"
+        }
+      ],
+      "duration_ms": 168965,
+      "name": "Vicious Love",
+      "url": "https://open.spotify.com/track/3MruDgZarPs29xWZXn9D9L"
+    },
+    {
+      "added_at": "2024-08-01 23:09:40",
+      "album": {
+        "name": "Resurrection",
+        "url": "https://open.spotify.com/album/3CLXR1W9TabxVLY2lZbAS1"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 203382,
+      "name": "Vicious Love",
+      "url": "https://open.spotify.com/track/3GTapDdoEBfvla87bXolpq"
+    },
     {
       "added_at": "2024-06-28 22:17:26",
       "album": {

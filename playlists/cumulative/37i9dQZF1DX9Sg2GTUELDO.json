@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u611f\u53d7\u8d85\u7d1a\u5973\u8072\u529b\u91cf\u3002Cover\uff1aNancy Kwai",
+  "description": "\u611f\u53d7\u8d85\u7d1a\u5973\u8072\u529b\u91cf\u3002Cover\uff1aVIVA",
   "name": "\u8d85\u7d1a\u5973\u8072",
   "tracks": [
     {
@@ -629,6 +629,24 @@
     },
     {
       "album": {
+        "name": "DTR",
+        "url": "https://open.spotify.com/album/2OnNKK0pybBa1p9oWy2ZMp"
+      },
+      "artists": [
+        {
+          "name": "VIVA",
+          "url": "https://open.spotify.com/artist/662zDVWmEH6bK7P5FaQ7GY"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154339,
+      "name": "DTR",
+      "url": "https://open.spotify.com/track/6ybBP43qQcKEGeDbZVflZu"
+    },
+    {
+      "album": {
         "name": "Dum Dum",
         "url": "https://open.spotify.com/album/0Ov3I6NuDV5d41mZhvSc9f"
       },
@@ -662,6 +680,24 @@
       "duration_ms": 207844,
       "name": "Eye to Eye",
       "url": "https://open.spotify.com/track/1M7etW6Eh6EL3Rh4jIXuRk"
+    },
+    {
+      "album": {
+        "name": "eyes on me.",
+        "url": "https://open.spotify.com/album/20NvVPIJJkNPeXUR6Xcf1Q"
+      },
+      "artists": [
+        {
+          "name": "Claudia Koh",
+          "url": "https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "eyes on me.",
+      "url": "https://open.spotify.com/track/5AVSje7hjvmKjxJEN3s26m"
     },
     {
       "album": {
@@ -1989,6 +2025,24 @@
     },
     {
       "album": {
+        "name": "\u4e00\u4eba\u4e4b\u4e0b",
+        "url": "https://open.spotify.com/album/1JdM7k7tnI7zHsQTcO2FrF"
+      },
+      "artists": [
+        {
+          "name": "J.Arie",
+          "url": "https://open.spotify.com/artist/1XtqhbH2mw54S87c4d4v2v"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274755,
+      "name": "\u4e00\u4eba\u4e4b\u4e0b",
+      "url": "https://open.spotify.com/track/5lLE94LzoxV3jhu5FIeLsx"
+    },
+    {
+      "album": {
         "name": "\u4e00\u500b\u4eba\u8d70\u8d70(\u96fb\u5f71\u300a1\u4eba\u5a5a\u79ae\u300b\u539f\u5275\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/1isihOJr9Ilh7kmT1hXBgG"
       },
@@ -2350,6 +2404,24 @@
       "duration_ms": 189628,
       "name": "\u4eba\u82e5\u6d77",
       "url": "https://open.spotify.com/track/3OkPxR6SOO8QKGS1brNmWN"
+    },
+    {
+      "album": {
+        "name": "\u4eca\u5e74\u7159\u82b1\u7279\u5225\u591a",
+        "url": "https://open.spotify.com/album/4VIS7XglZQEMxSodj6U0aK"
+      },
+      "artists": [
+        {
+          "name": "Apple \u51cc\u96ea\u6021",
+          "url": "https://open.spotify.com/artist/3k01I6i5Vdf4fxSCzCdZvp"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279669,
+      "name": "\u4eca\u5e74\u7159\u82b1\u7279\u5225\u591a",
+      "url": "https://open.spotify.com/track/5R60xmTx4XzH4Co3ZgIG2F"
     },
     {
       "album": {
@@ -5566,6 +5638,24 @@
       "duration_ms": 254521,
       "name": "\u8907\u96dc\u4e8b\u60c5\u7c21\u55ae\u5316",
       "url": "https://open.spotify.com/track/1GIY9FlL3RVtNwrR0KwKtq"
+    },
+    {
+      "album": {
+        "name": "\u89e3\u5492\u8aaa\u660e\u66f8",
+        "url": "https://open.spotify.com/album/7hCvLsp8Tky2C61PEdJlMT"
+      },
+      "artists": [
+        {
+          "name": "\u9e97\u82f1",
+          "url": "https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216434,
+      "name": "\u89e3\u5492\u8aaa\u660e\u66f8",
+      "url": "https://open.spotify.com/track/7LJbnO4dGlntR0BuzI7mTV"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-717 songs - 1 day 23 hr 6 min
+718 songs - 1 day 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Erase You](https://open.spotify.com/track/6arK7mjjvqG3cVLJrYVYYW) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Let Her Burn](https://open.spotify.com/album/7ejtUeGJ9QV8IQHEBRGRWr) | 3:17 | 2024-02-15 |  |
 | [Escape](https://open.spotify.com/track/5WG6oimqjMZHIUsbXvKVxI) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [GIZMO](https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1) | 2:19 | 2024-01-06 |  |
 | [Every Girl](https://open.spotify.com/track/3l4cnZdtNbVZgV3ICYh1Ni) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 3:45 | 2024-01-05 |  |
-| [Every Now and Then](https://open.spotify.com/track/76JZPE1ALAITC0KngD5Jhp) | [Ka](https://open.spotify.com/artist/0cmqAB0gdr6ObvjNrQJAQr) | [Descendants of Cain](https://open.spotify.com/album/0yhyMBfxKhjy1f7TsXXssl) | 3:34 | 2024-06-05 |  |
+| [Every Now and Then](https://open.spotify.com/track/76JZPE1ALAITC0KngD5Jhp) | [Ka](https://open.spotify.com/artist/0cmqAB0gdr6ObvjNrQJAQr) | [Descendants of Cain](https://open.spotify.com/album/0yhyMBfxKhjy1f7TsXXssl) | 3:34 | 2024-06-05 | 2024-08-02 |
 | [Everybody Up](https://open.spotify.com/track/2aQM2qQ09QdBv0OUC6SbaV) | [Ka](https://open.spotify.com/artist/0cmqAB0gdr6ObvjNrQJAQr) | [A Martyr's Reward](https://open.spotify.com/album/5MOODX5ZNXcbIyMLSluNbw) | 2:48 | 2023-03-25 |  |
 | [Everyday](https://open.spotify.com/track/0ameyezi8mF5HdFqBp7DLF) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 6:31 | 2023-05-06 |  |
 | [Everyone I Went to High School with Is Dead](https://open.spotify.com/track/2apsFfsxR5nkYkHaDMOs74) | [Mr\. Bungle](https://open.spotify.com/artist/2zq0uqN9Wq12tqrQQt1ozw) | [Disco Volante](https://open.spotify.com/album/0DK10k39r9LAZ7HgP1EPuB) | 2:45 | 2023-06-06 |  |
@@ -381,6 +381,7 @@
 | [Long Was The Year](https://open.spotify.com/track/4aUHXyMSMVfuLyz8FAEiNm) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [The Noise Made By People](https://open.spotify.com/album/10nM1bEq6nBmY5CvK9gDVI) | 3:38 | 2024-03-26 | 2024-05-20 |
 | [lookaliveandplaydead \(feat\. Quelle Chris, Mal Devisa, Denmark Vessey, Foonyap\)](https://open.spotify.com/track/6G36vIi1xI9SoLIq7hrIcL) | [Temps](https://open.spotify.com/artist/4PbGB2yeGKAyS7ZSZ5m9PU), [Quelle Chris](https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi), [Mal Devisa](https://open.spotify.com/artist/3YMOzNArPJIyR5Y5iIxOpi), [Denmark Vessey](https://open.spotify.com/artist/6o8VpmZLTJZfFUQhKCDYoZ), [Foonyap](https://open.spotify.com/artist/37cFjzZQ7aSlexb2IoNJgO) | [PARTY GATOR PURGATORY](https://open.spotify.com/album/0c9GiN1Zkg2Wz9Qk5AJa3l) | 4:22 | 2023-12-04 | 2024-07-09 |
 | [Looking For Someone](https://open.spotify.com/track/2lvM9dA12IIqBVU2aF5MaV) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Trespass](https://open.spotify.com/album/17hKeFpIov0cxAFQbGegEy) | 7:07 | 2023-10-30 | 2024-01-04 |
+| [Lose You](https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lucky For You](https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz) | 2:55 | 2024-08-01 |  |
 | [Loser](https://open.spotify.com/track/5NTZM8YYeKM2YsGSffVIge) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/1M1dhwZE65bqGfbUdMzvlj) | 3:55 | 2022-04-21 |  |
 | [Lost & Found](https://open.spotify.com/track/6jaLFu5HvfNrI1JmcM4eXu) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 5:14 | 2023-05-19 |  |
 | [Lost In Space / Great Scott / 22\-26](https://open.spotify.com/track/2XdGXvlyYtTlyMgpjXQMUY) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 1:22 | 2024-01-15 |  |

@@ -2,9 +2,9 @@
 
 ### [Scuola Indie](https://open.spotify.com/playlist/37i9dQZF1DX6O5gXioqvYB)
 
-> La nuova scena indie italiana! Cover: Ganzo
+> La nuova scena indie italiana! Cover: Lucrezia
 
-111 songs - 5 hr 21 min
+113 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [ex](https://open.spotify.com/track/2VfkDQelVVX0gVRRiQ5Ela) | [Tribo](https://open.spotify.com/artist/0I5wDcdDRRJpggrF6OcuTU) | [problemi di <3](https://open.spotify.com/album/7HmTgGbqO9YCqilo26IuLZ) | 3:39 | 2024-07-04 | 2024-07-27 |
 | [Farfalla](https://open.spotify.com/track/7tvhTjn5uZBNTBqeugZwPg) | [Pietro Mio](https://open.spotify.com/artist/51kKYDRaem5nTYfN58QAqb) | [Arriva..\. Pietro Mio!](https://open.spotify.com/album/6DdlmlMY96zeVY2hH1QyDS) | 2:39 | 2024-06-27 | 2024-07-05 |
 | [Federico](https://open.spotify.com/track/7BoOBKS1Hjp8emEya78hA2) | [Oratio](https://open.spotify.com/artist/01hSOvWdEIjgEGkJGhNuHn), [RENEE](https://open.spotify.com/artist/3aDh7Ke1Zh28igid7zJhmZ) | [Cinque canzoni](https://open.spotify.com/album/49nKcArx2pJqBGJvvI6dug) | 3:43 | 2024-07-11 |  |
-| [FERMARE L'ETÀ \(feat\. Enrico Nigiotti\)](https://open.spotify.com/track/5cn3rW6VXCpI9dxysqx5fk) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l), [Enrico Nigiotti](https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c) | [FERMARE L'ETÀ \(feat\. Enrico Nigiotti\)](https://open.spotify.com/album/0nG3UwE8qNTeJxpXBRRu3K) | 2:57 | 2024-06-27 |  |
+| [FERMARE L'ETÀ \(feat\. Enrico Nigiotti\)](https://open.spotify.com/track/5cn3rW6VXCpI9dxysqx5fk) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l), [Enrico Nigiotti](https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c) | [FERMARE L'ETÀ \(feat\. Enrico Nigiotti\)](https://open.spotify.com/album/0nG3UwE8qNTeJxpXBRRu3K) | 2:57 | 2024-06-27 | 2024-08-02 |
 | [Finto cielo](https://open.spotify.com/track/6mT2w1ht77DkG5aKXzSJhc) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [DUMBA](https://open.spotify.com/album/2CQnHbVVhkjReejy5XKOCO) | 2:20 | 2024-06-27 | 2024-07-27 |
 | [Fiori di Loto](https://open.spotify.com/track/2FlyhgIF6RSITRkLqUER1I) | [CIL](https://open.spotify.com/artist/6mt0m8Ugh2vjYBbMJEo5PJ) | [Fiori di Loto](https://open.spotify.com/album/0zo7LS0eClLj3T1xksBbc9) | 2:30 | 2024-06-27 | 2024-07-05 |
 | [foglio di carta](https://open.spotify.com/track/3vgbh5EKi4JeX8hi8jnyjN) | [fil](https://open.spotify.com/artist/2Dgp0r5wvNCnj5XdvGaK7u) | [foglio di carta](https://open.spotify.com/album/1fa0G9SW8dg3Al9yO8xz6w) | 2:39 | 2024-07-25 |  |
@@ -85,6 +85,8 @@
 | [odio l'estate.](https://open.spotify.com/track/2SX5vNtHYFuEs8P3rYUQHy) | [petra](https://open.spotify.com/artist/3yzgT3hMTtjPZ9GgmeFnCt) | [odio l'estate.](https://open.spotify.com/album/5xcCj6E31B8EL4028AshAl) | 2:36 | 2024-07-04 |  |
 | [Ogni maledetta domenica](https://open.spotify.com/track/0HS43s0nNeGFsnn1ZKlrxa) | [Sir Giove](https://open.spotify.com/artist/50Pi0iTbnC3hDmCx6Bge2i) | [Ogni maledetta domenica](https://open.spotify.com/album/74CMUCMtcxy97UijT94WGP) | 2:34 | 2024-06-27 | 2024-07-27 |
 | [Ogni mezz'ora](https://open.spotify.com/track/0xgNfO7phNkoWxCg7QdsQO) | [Evan](https://open.spotify.com/artist/5hZo9rZE0Tn6j7NPqxAYoE) | [Ogni mezz'ora](https://open.spotify.com/album/1biKlqwOF57CzP15mwgrnz) | 2:47 | 2024-07-18 |  |
+| [ora che è tutto ok](https://open.spotify.com/track/6u824ox1DRmQCXnm5erolv) | [DANU](https://open.spotify.com/artist/4hVodcSKHtJWb5fIRvzax7) | [ora che è tutto ok](https://open.spotify.com/album/6eWOyJwZq3jhUw15gRcUCn) | 2:45 | 2024-08-01 |  |
+| [Papapa](https://open.spotify.com/track/6eVudiatEcu6VO2Yl15KCN) | [200x100furo](https://open.spotify.com/artist/60IyQ8YTpIuykM81hrkhsZ), [999folo](https://open.spotify.com/artist/5M9Qo3gcWQvQVOa4CgH2lS) | [Papapa](https://open.spotify.com/album/6tjYWAUPpI6CYTLzombQvv) | 2:42 | 2024-08-01 |  |
 | [Penso Penso Penso](https://open.spotify.com/track/0Yx37LRuzSAWq3pfkWAh68) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [ROCCASECCA](https://open.spotify.com/album/3m5LwAf3fBdc9THwhe0rj7) | 2:37 | 2024-07-11 |  |
 | [Periferia](https://open.spotify.com/track/1EcVrX4oy3Z9mUjsvhsIEh) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Periferia](https://open.spotify.com/album/5imPI6T7UGse84jzoy1Zcy) | 3:05 | 2024-06-27 |  |
 | [piangerepiangerepiangere](https://open.spotify.com/track/1te6dJOM0uRlv4OvWTF0V0) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [le stelle\* il sole; l'arcobaleno\)\)](https://open.spotify.com/album/1AZSZ1CM8Xen3FmviWh1y7) | 4:21 | 2024-06-27 |  |
@@ -106,7 +108,7 @@
 | [SURF](https://open.spotify.com/track/4SWcY5POd5yyGBcP9uPzYp) | [WISM](https://open.spotify.com/artist/3LXTbapp18J0PmQEPPeXmO) | [SURF](https://open.spotify.com/album/22ezapOjCnojqDdOw4rzOZ) | 2:50 | 2024-07-11 |  |
 | [Terra Promessa](https://open.spotify.com/track/7zXVRY8P0o2NmYxNQ7CxgK) | [Fiori di Cadillac](https://open.spotify.com/artist/7MX0HjZPITk7J6eOFSjtOu) | [Terra Promessa](https://open.spotify.com/album/2GTlsoI6zoUHXLsMlWYIcf) | 2:55 | 2024-06-27 | 2024-07-05 |
 | [tilt](https://open.spotify.com/track/2JYtO885AdTPes9p3neSbF) | [Parrelle](https://open.spotify.com/artist/6AJOaOcW007r6QNjChDntx) | [tilt](https://open.spotify.com/album/61rbZKR0tNU5ImzbKQf9gz) | 2:49 | 2024-07-11 |  |
-| [torno a casa presto](https://open.spotify.com/track/5B2jiOZt1lTUKszE38SFyK) | [Dae](https://open.spotify.com/artist/6O1IK4RD34brPW8hT1JgyQ) | [torno a casa presto](https://open.spotify.com/album/568Mq2tEmW5mU5Kn3XwF2m) | 3:08 | 2024-06-27 |  |
+| [torno a casa presto](https://open.spotify.com/track/5B2jiOZt1lTUKszE38SFyK) | [Dae](https://open.spotify.com/artist/6O1IK4RD34brPW8hT1JgyQ) | [torno a casa presto](https://open.spotify.com/album/568Mq2tEmW5mU5Kn3XwF2m) | 3:08 | 2024-06-27 | 2024-08-02 |
 | [tuttoaposto](https://open.spotify.com/track/651BJ5dPNUhbW8n4KXhDla) | [Avanzi](https://open.spotify.com/artist/6NK8YVU9oLmjQ9VpM3cM8J) | [tuttoaposto](https://open.spotify.com/album/5YHA9Jty2aXbaZDzY0arMA) | 3:03 | 2024-06-27 | 2024-07-05 |
 | [Tè al limone](https://open.spotify.com/track/01MUVpv95WyB9h4eP5kY78) | [NYX](https://open.spotify.com/artist/1RzE3e8u66CAb4tAyhqK6i) | [Tè al limone](https://open.spotify.com/album/2JxjXBj48mmkjhoRibh0VR) | 2:51 | 2024-06-27 | 2024-07-12 |
 | [U mari](https://open.spotify.com/track/2eeSKDRJPFmgx2t0EYHGRM) | [Anna Castiglia](https://open.spotify.com/artist/3BSckhNAabodVgd9NkHyJV) | [U mari](https://open.spotify.com/album/4YlpSZ3HRsHEex7uo7LYec) | 2:46 | 2024-07-04 |  |

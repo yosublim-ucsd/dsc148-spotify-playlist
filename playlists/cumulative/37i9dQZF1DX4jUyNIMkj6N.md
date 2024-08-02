@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-299 songs - 18 hr 16 min
+300 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Away](https://open.spotify.com/track/4em9t89kgjEodZ8KHtDVYH) | [Morten Myklebust](https://open.spotify.com/artist/7zFc6IlzgDwyXojYH1GIkI), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Morten Myklebust](https://open.spotify.com/album/5BELCohj792Bq7FQCHJmic) | 2:58 | 2021-12-02 | 2022-07-29 |
 | [Babylon](https://open.spotify.com/track/6zlwcDw4sY6FOIfUhQ1alu) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Babylon](https://open.spotify.com/album/6nDSrdXMDzutmKsDPCif4h) | 3:40 | 2024-03-14 |  |
 | [Baltic Sea](https://open.spotify.com/track/3pcp6qB2kcuSgwSvNqdWSJ) | [Firstnighter](https://open.spotify.com/artist/4jAXgyZVfE6Meqn6nuzj2q) | [100 words for fear](https://open.spotify.com/album/5ZKPJYO4w2I99pR62sx70D) | 3:00 | 2021-12-02 | 2022-07-26 |
+| [Beautiful Woman](https://open.spotify.com/track/6q7Q8j4oso0rMmJj7xtCzV) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Beautiful Woman](https://open.spotify.com/album/2knOdaW7pPUpALJpNCZS1R) | 3:33 | 2024-08-01 |  |
 | [Because You Stick Around](https://open.spotify.com/track/0cxIZeqGJd1Q0CEdlMwkok) | [Hollow Hearts](https://open.spotify.com/artist/535JIzjpGG2fILdEOfiOGg) | [Because You Stick Around](https://open.spotify.com/album/7398bUZXNuN4nP2SqDnMRl) | 3:11 | 2022-06-02 | 2022-06-04 |
 | [Better Than Gold \- Live](https://open.spotify.com/track/75rKtYA2EhYSfVHty8C50Z) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Better Than Gold \(Live\)](https://open.spotify.com/album/65sHTY5qAGfbLLYQBZ9dep) | 4:00 | 2021-12-02 | 2022-07-29 |
 | [Big Bad Good](https://open.spotify.com/track/3KmLD1pdsVYGBO56FckkgJ) | [My Bubba](https://open.spotify.com/artist/09VsCALGBjeVE3pq9k085d) | [Big Bad Good](https://open.spotify.com/album/38N3wbSL5ERtnegxWGIzvu) | 3:41 | 2021-12-02 | 2022-07-27 |
@@ -203,7 +204,7 @@
 | [River \- Live](https://open.spotify.com/track/5gXUVnYtalAWVScaiw3Vmq) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Live 2020](https://open.spotify.com/album/3MfrdryGGjczqK1NalPSks) | 4:18 | 2021-12-02 | 2022-07-29 |
 | [Rolling Thunder](https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Rolling Thunder](https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc) | 4:01 | 2023-10-12 | 2024-06-09 |
 | [Romain's Place](https://open.spotify.com/track/36o9p1Xk3StK2x3jXE8P60) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Gardening, Pt\. 1](https://open.spotify.com/album/33f0npYRcXfQpXMwgrwh6v) | 3:44 | 2022-09-01 | 2023-01-27 |
-| [Salamina](https://open.spotify.com/track/77n2LesdLx0krLwVgsVIWn) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Salamina](https://open.spotify.com/album/7EFHatQ7I0LuZNNFmwIFeV) | 2:56 | 2024-07-25 |  |
+| [Salamina](https://open.spotify.com/track/77n2LesdLx0krLwVgsVIWn) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Salamina](https://open.spotify.com/album/7EFHatQ7I0LuZNNFmwIFeV) | 2:56 | 2024-07-25 | 2024-08-02 |
 | [Seasons](https://open.spotify.com/track/0oabsZs7Z8lsKGpaKyyjG2) | [August Flendahl](https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct) | [Seasons](https://open.spotify.com/album/3LK4XYyHKG5JZZ31DIEyuE) | 2:29 | 2022-01-06 | 2022-11-13 |
 | [Signals](https://open.spotify.com/track/5WWL4PVYEgeYQ7QdtT5hIM) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [EP](https://open.spotify.com/album/4b3tDQeODz833k7Dr9bYgw) | 4:01 | 2021-12-02 | 2022-07-29 |
 | [Signals](https://open.spotify.com/track/6drhkuOJp1qekWmTydy0Vt) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Floating Harmonies](https://open.spotify.com/album/47zAxwGvi23uYEItSkTRgY) | 4:01 | 2022-07-14 | 2024-04-19 |

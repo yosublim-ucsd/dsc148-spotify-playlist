@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-296 songs - 21 hr 44 min
+297 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Arabic Soul](https://open.spotify.com/track/3Le91iSDJVSRu0yMxQOOq6) | [Mehdi Yakin](https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1), [Anas Otman](https://open.spotify.com/artist/66kee8oYRhl1zR7PvNCpU9) | [Arabic Soul](https://open.spotify.com/album/5GyMokgjZwjk458LtSaMfH) | 4:33 | 2022-10-14 |  |
 | [Asha](https://open.spotify.com/track/0lLe5dTgMti1f8fvGCuFcm) | [Furkan Sert](https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I) | [Asha](https://open.spotify.com/album/4LPRpbAdUmN4tIWTwvVxgd) | 4:12 | 2023-02-04 | 2024-03-12 |
 | [Askim](https://open.spotify.com/track/1g1TCruAEc8W77EyhRFF1z) | [ilkan Muslu](https://open.spotify.com/artist/3tU2vh0n0CMrNvVkvh4Lxv) | [Mektup](https://open.spotify.com/album/5UEQORYi2EzSo38FaEzQij) | 3:32 | 2024-01-31 |  |
+| [Assos](https://open.spotify.com/track/2CzT0NyJHHA3HM5NiEA7Ut) | [Furkan Sert](https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I) | [Assos](https://open.spotify.com/album/2H9wB8ZyyfCSdqSg96Kpx3) | 4:08 | 2024-08-01 |  |
 | [August Diaries](https://open.spotify.com/track/6K6etxmlu4Y7J3dR77MK3N) | [DHARIA](https://open.spotify.com/artist/1psakk7GVUl85AnTEvwtk2) | [August Diaries](https://open.spotify.com/album/2qEWSsJCgemvb6SQAjqzXH) | 3:43 | 2020-12-13 | 2021-05-28 |
 | [Babel](https://open.spotify.com/track/0ZnwzjB40zdTZrEwPvaRqG) | [Otnicka](https://open.spotify.com/artist/3tSmEw5WMGAZ6sxt9Dt3Nt) | [Babel](https://open.spotify.com/album/2QHtq53qPyOo0fawuJcMns) | 3:18 | 2020-12-21 | 2022-10-09 |
 | [Bahja](https://open.spotify.com/track/4LZP8fuic1mSQpLGruxxcr) | [Tyrvnt](https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J) | [Bahja](https://open.spotify.com/album/5YfzAebZkmbl3DOrUjshDd) | 4:17 | 2022-03-13 | 2023-03-18 |
@@ -301,7 +302,7 @@
 | [Zagora](https://open.spotify.com/track/4ePH0udOkmmaS6CEASnj7N) | [So Dubbed](https://open.spotify.com/artist/7iIpChHfPHBIC5Yzt32xse), [Ravin](https://open.spotify.com/artist/3HCPQCRWBlwDmunTTzn3bb) | [Zagora](https://open.spotify.com/album/4zNoZkafLXtBaFAHG8i5u4) | 5:25 | 2022-06-27 | 2022-12-13 |
 | [Zamen \- Amine K Remix](https://open.spotify.com/track/3z9c90mEZypec8OYZGCAdr) | [Mario Bazouri](https://open.spotify.com/artist/1PW4Ka7Ui6PzpbWtxUI2k5), [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Sultan \(Inc\. Derun & Amine K Remix\)](https://open.spotify.com/album/13z2xBt6SaIvrkWtnOrp0G) | 6:51 | 2020-10-18\* | 2022-11-13 |
 | [Zid Lmel](https://open.spotify.com/track/3sqQqUMYB5HqyzIE9XRcyp) | [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn), [Maalem Hammam](https://open.spotify.com/artist/29PS9kUTTCcpFIKaP9DAx2) | [Healing Rituals](https://open.spotify.com/album/4e7kuCNjfnklXTS1dsR53y) | 7:50 | 2020-10-18\* | 2022-06-29 |
-| [ZMAN](https://open.spotify.com/track/0Nr4L8pTEp0K9JxKLnXOSz) | [OSENS](https://open.spotify.com/artist/4FyZwiPpDuUYiMYZXsTQ4D), [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp) | [The Universe of Buddha Bar](https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm) | 4:51 | 2022-12-13 |  |
+| [ZMAN](https://open.spotify.com/track/0Nr4L8pTEp0K9JxKLnXOSz) | [OSENS](https://open.spotify.com/artist/4FyZwiPpDuUYiMYZXsTQ4D), [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp) | [The Universe of Buddha Bar](https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm) | 4:51 | 2022-12-13 | 2024-08-02 |
 | [Çem Vano \- Remix](https://open.spotify.com/track/7zb0bX0Jd1xoL5lYxHzKta) | [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK) | [Mikail Aslan \- Çem Vano \(HVMZA Remix\)](https://open.spotify.com/album/0mWKvv4QJX1ne4ZZHL0YPM) | 5:59 | 2023-07-04 | 2023-09-05 |
 | [Детство \(Jad Halal Remix\)](https://open.spotify.com/track/2WilwAlTwOerWnvg6iYsPI) | [Rauf](https://open.spotify.com/artist/3p9D7WV7zSXawXq8qzSZLt), [Faik](https://open.spotify.com/artist/2QaHcHzbIucoNA73CkRaF2), [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Детство \(Jad Halal Remix\)](https://open.spotify.com/album/4Lp4X2wQn6Ly27v85Vg7GB) | 3:11 | 2020-10-18\* | 2021-03-30 |
 

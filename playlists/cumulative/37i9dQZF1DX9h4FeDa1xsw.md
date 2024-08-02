@@ -2,7 +2,7 @@
 
 ### [Vice Versa](https://open.spotify.com/playlist/37i9dQZF1DX9h4FeDa1xsw)
 
-> Photo : Carbonne
+> Photo : Gazo x Adèle Castillon
 
 47 songs - 2 hr 18 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Ice Spice, Post Malone, Aqyila, Halsey and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,298 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,339 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 42 | [Guilty](https://open.spotify.com/track/6m1J8D9SGvfOxpA3RC3bD6) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Guilty](https://open.spotify.com/album/7LuYrvLkdzxHarZHNFLvYq) | 2:51 |
 | 43 | [Fifty Bop](https://open.spotify.com/track/3c84kdRlOHHe6xFv1XEJsO) | [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC) | [The Eternal Now](https://open.spotify.com/album/6nFkw5CEZ1aCwCKO7m2Dqh) | 2:32 |
 | 44 | [LIFESTYLE](https://open.spotify.com/track/50v9IKJoA8b1Qqx7wwdZzf) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [LIFESTYLE](https://open.spotify.com/album/7MQy2VfgrtsZz4hXvsQOz4) | 2:51 |
-| 45 | [Life Size](https://open.spotify.com/track/2MktD7t0SE7FOeVWSdoEGX) | [Mahalia](https://open.spotify.com/artist/6mU3WkvcWgHoNG5OlLdsOz), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [Life Size](https://open.spotify.com/album/46OasNzqh720kxVoXB7YMC) | 2:31 |
+| 45 | [Life Size](https://open.spotify.com/track/2MktD7t0SE7FOeVWSdoEGX) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [Life Size](https://open.spotify.com/album/46OasNzqh720kxVoXB7YMC) | 2:31 |
 | 46 | [Alimony](https://open.spotify.com/track/7Lkb8cyy1iLuLCUhfMOpJJ) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Alimony](https://open.spotify.com/album/75PVKU0GHALIqPZ92fpTvf) | 3:15 |
 | 47 | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/track/7aDvC7UzTZ47Hx5jJUX1sJ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Chanel Bag \(feat\. JT\)](https://open.spotify.com/album/2wJwaumR3Y8PCM01JgJqSj) | 3:00 |
 | 48 | [MET GALA BLOW!](https://open.spotify.com/track/1qiY1H3ul2hqp7Qt1CHU4M) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [See You When I See You...](https://open.spotify.com/album/7aRJGPbG0SFq32II2YBk7L) | 2:43 |

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Canada](https://open.spotify.com/playlist/37i9dQZF1DWVxStm5ni6tl)
 
-> Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Cam Kahin
+> Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Shelailai
 
 1,455 songs - 3 day 2 hr 54 min
 

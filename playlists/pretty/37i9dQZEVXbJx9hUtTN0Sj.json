@@ -6,10 +6,30 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lj2mSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Lj7zGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
+      "album": {
+        "name": "Big Dawgs",
+        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "Big Dawgs",
+      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
+    },
+    {
+      "added_at": "2024-08-01 13:36:18",
       "album": {
         "name": "Yamore",
         "url": "https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C"
@@ -41,27 +61,7 @@
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
     },
     {
-      "added_at": "2024-07-31 13:19:41",
-      "album": {
-        "name": "Big Dawgs",
-        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
-      },
-      "artists": [
-        {
-          "name": "Hanumankind",
-          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
-        },
-        {
-          "name": "Kalmi",
-          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Big Dawgs",
-      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
-    },
-    {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
       "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
     },
     {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
       "album": {
         "name": "Chihiro",
         "url": "https://open.spotify.com/album/5zxkH4g9xsFZXrhbhm5N77"
@@ -101,39 +101,7 @@
       "url": "https://open.spotify.com/track/1antlMwNpOAXeUcIAx8FPB"
     },
     {
-      "added_at": "2024-07-31 13:19:41",
-      "album": {
-        "name": "Nouvelle \u00c9cole | Saison 3 | Partie 2 (S\u00e9rie Netflix)",
-        "url": "https://open.spotify.com/album/7IsXMsf593FfMSvHjV4WFn"
-      },
-      "artists": [
-        {
-          "name": "JYEUHAIR",
-          "url": "https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn"
-        }
-      ],
-      "duration_ms": 121043,
-      "name": "Peace - Nouvelle \u00c9cole",
-      "url": "https://open.spotify.com/track/44aVBwrB5qGHvsp9e8wVby"
-    },
-    {
-      "added_at": "2024-07-31 13:19:41",
-      "album": {
-        "name": "Nouvelle \u00c9cole | Saison 3 | Partie 1 (S\u00e9rie Netflix)",
-        "url": "https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6"
-      },
-      "artists": [
-        {
-          "name": "Yorssy",
-          "url": "https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc"
-        }
-      ],
-      "duration_ms": 129153,
-      "name": "CRF - Nouvelle \u00c9cole",
-      "url": "https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj"
-    },
-    {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
@@ -165,7 +133,39 @@
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
     },
     {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
+      "album": {
+        "name": "Nouvelle \u00c9cole | Saison 3 | Partie 2 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/7IsXMsf593FfMSvHjV4WFn"
+      },
+      "artists": [
+        {
+          "name": "JYEUHAIR",
+          "url": "https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn"
+        }
+      ],
+      "duration_ms": 121043,
+      "name": "Peace - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/44aVBwrB5qGHvsp9e8wVby"
+    },
+    {
+      "added_at": "2024-08-01 13:36:18",
+      "album": {
+        "name": "Nouvelle \u00c9cole | Saison 3 | Partie 1 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6"
+      },
+      "artists": [
+        {
+          "name": "Yorssy",
+          "url": "https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc"
+        }
+      ],
+      "duration_ms": 129153,
+      "name": "CRF - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj"
+    },
+    {
+      "added_at": "2024-08-01 13:36:18",
       "album": {
         "name": "Harpy Hare",
         "url": "https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz"
@@ -181,23 +181,7 @@
       "url": "https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT"
     },
     {
-      "added_at": "2024-07-31 13:19:41",
-      "album": {
-        "name": "Nouvelle \u00c9cole | Saison 3 | Partie 2 (S\u00e9rie Netflix)",
-        "url": "https://open.spotify.com/album/7IsXMsf593FfMSvHjV4WFn"
-      },
-      "artists": [
-        {
-          "name": "Dadi",
-          "url": "https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434"
-        }
-      ],
-      "duration_ms": 126080,
-      "name": "Doucement - Nouvelle \u00c9cole",
-      "url": "https://open.spotify.com/track/0j0pOCUmnBHvxjD2EDc3dk"
-    },
-    {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
       "album": {
         "name": "Eu Quero Tchu, Eu Quero Tcha",
         "url": "https://open.spotify.com/album/2vw1dlq865sW1jbMGxFvUC"
@@ -213,7 +197,23 @@
       "url": "https://open.spotify.com/track/36JlLKH7LEhEqsRljgtoW4"
     },
     {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
+      "album": {
+        "name": "Nouvelle \u00c9cole | Saison 3 | Partie 2 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/7IsXMsf593FfMSvHjV4WFn"
+      },
+      "artists": [
+        {
+          "name": "Dadi",
+          "url": "https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434"
+        }
+      ],
+      "duration_ms": 126080,
+      "name": "Doucement - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/0j0pOCUmnBHvxjD2EDc3dk"
+    },
+    {
+      "added_at": "2024-08-01 13:36:18",
       "album": {
         "name": "HAY LUPITA",
         "url": "https://open.spotify.com/album/2VOwmlyJzRjfMfofsNHTtR"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4"
     },
     {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
       "album": {
         "name": "The Spark",
         "url": "https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH"
     },
     {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
       "album": {
         "name": "TOO COOL TO BE CARELESS",
         "url": "https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5"
     },
     {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
       "album": {
         "name": "Gucci",
         "url": "https://open.spotify.com/album/092VaXFvXjdiDM3pREBoja"
@@ -281,75 +281,7 @@
       "url": "https://open.spotify.com/track/3gRnR33Z7eBeMXYrhPXRIX"
     },
     {
-      "added_at": "2024-07-31 13:19:41",
-      "album": {
-        "name": "Dvm Freestyle",
-        "url": "https://open.spotify.com/album/1P82vd5yCnpGFXugx0jd9Z"
-      },
-      "artists": [
-        {
-          "name": "Dadi",
-          "url": "https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434"
-        }
-      ],
-      "duration_ms": 145449,
-      "name": "Dvm Freestyle",
-      "url": "https://open.spotify.com/track/6nBhcljBxWZZY8wQwaXh0B"
-    },
-    {
-      "added_at": "2024-07-31 13:19:41",
-      "album": {
-        "name": "Pour que les \u00e9toiles brillent",
-        "url": "https://open.spotify.com/album/4vWm1nycJdOIaBGlkJ5iEa"
-      },
-      "artists": [
-        {
-          "name": "Youssef Swatt's",
-          "url": "https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "Remonter le temps",
-      "url": "https://open.spotify.com/track/7m7Tnbui4KRo5C51lhWigQ"
-    },
-    {
-      "added_at": "2024-07-31 13:19:41",
-      "album": {
-        "name": "Pour que les \u00e9toiles brillent",
-        "url": "https://open.spotify.com/album/4vWm1nycJdOIaBGlkJ5iEa"
-      },
-      "artists": [
-        {
-          "name": "Youssef Swatt's",
-          "url": "https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q"
-        },
-        {
-          "name": "Colt",
-          "url": "https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg"
-        }
-      ],
-      "duration_ms": 267733,
-      "name": "Etoile filante",
-      "url": "https://open.spotify.com/track/2CuuO2clMcQHYK0Sx0chvu"
-    },
-    {
-      "added_at": "2024-07-31 13:19:41",
-      "album": {
-        "name": "Cruise",
-        "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
-      },
-      "artists": [
-        {
-          "name": "ROYA",
-          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
-        }
-      ],
-      "duration_ms": 175708,
-      "name": "Cruise",
-      "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
-    },
-    {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
       "album": {
         "name": "MONTAGEM VOZES PROFUNDAS (Remixes)",
         "url": "https://open.spotify.com/album/7AjQV13ch86ps6TKjBsuFS"
@@ -373,7 +305,91 @@
       "url": "https://open.spotify.com/track/3o3dIYuLIZfAO2kXP3eXrN"
     },
     {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
+      "album": {
+        "name": "Cruise",
+        "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
+      },
+      "artists": [
+        {
+          "name": "ROYA",
+          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
+        }
+      ],
+      "duration_ms": 175708,
+      "name": "Cruise",
+      "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
+    },
+    {
+      "added_at": "2024-08-01 13:36:18",
+      "album": {
+        "name": "Pour que les \u00e9toiles brillent",
+        "url": "https://open.spotify.com/album/4vWm1nycJdOIaBGlkJ5iEa"
+      },
+      "artists": [
+        {
+          "name": "Youssef Swatt's",
+          "url": "https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q"
+        },
+        {
+          "name": "Colt",
+          "url": "https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg"
+        }
+      ],
+      "duration_ms": 267733,
+      "name": "Etoile filante",
+      "url": "https://open.spotify.com/track/2CuuO2clMcQHYK0Sx0chvu"
+    },
+    {
+      "added_at": "2024-08-01 13:36:18",
+      "album": {
+        "name": "Ohnana",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "Ohnana",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+    },
+    {
+      "added_at": "2024-08-01 13:36:18",
+      "album": {
+        "name": "Dvm Freestyle",
+        "url": "https://open.spotify.com/album/1P82vd5yCnpGFXugx0jd9Z"
+      },
+      "artists": [
+        {
+          "name": "Dadi",
+          "url": "https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434"
+        }
+      ],
+      "duration_ms": 145449,
+      "name": "Dvm Freestyle",
+      "url": "https://open.spotify.com/track/6nBhcljBxWZZY8wQwaXh0B"
+    },
+    {
+      "added_at": "2024-08-01 13:36:18",
+      "album": {
+        "name": "Pour que les \u00e9toiles brillent",
+        "url": "https://open.spotify.com/album/4vWm1nycJdOIaBGlkJ5iEa"
+      },
+      "artists": [
+        {
+          "name": "Youssef Swatt's",
+          "url": "https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "Remonter le temps",
+      "url": "https://open.spotify.com/track/7m7Tnbui4KRo5C51lhWigQ"
+    },
+    {
+      "added_at": "2024-08-01 13:36:18",
       "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
@@ -393,59 +409,7 @@
       "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
     },
     {
-      "added_at": "2024-07-31 13:19:41",
-      "album": {
-        "name": "Ohnana",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 156577,
-      "name": "Ohnana",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
-    },
-    {
-      "added_at": "2024-07-31 13:19:41",
-      "album": {
-        "name": "Ela Joga na Hora",
-        "url": "https://open.spotify.com/album/30Ytb0PG1tOv7JiKOTBK2v"
-      },
-      "artists": [
-        {
-          "name": "Mc Pogba",
-          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
-        },
-        {
-          "name": "DJ Guih Da ZO",
-          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
-        }
-      ],
-      "duration_ms": 132922,
-      "name": "Ela Joga na Hora",
-      "url": "https://open.spotify.com/track/6hZGsChumRhWG24OEh698c"
-    },
-    {
-      "added_at": "2024-07-31 13:19:41",
-      "album": {
-        "name": "JEUNE MALAGASY",
-        "url": "https://open.spotify.com/album/5EoW0PPTKRCHFjgQRICIID"
-      },
-      "artists": [
-        {
-          "name": "JYEUHAIR",
-          "url": "https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn"
-        }
-      ],
-      "duration_ms": 135569,
-      "name": "JEUNE MALAGASY",
-      "url": "https://open.spotify.com/track/52NNcLKY2nG2vcGnsR3q0J"
-    },
-    {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
       "album": {
         "name": "Beckham",
         "url": "https://open.spotify.com/album/1GNQ8Lr4qLa6XTTm7Xuwgw"
@@ -477,23 +441,7 @@
       "url": "https://open.spotify.com/track/60lAoxcyDvRbcNY82VEoEA"
     },
     {
-      "added_at": "2024-07-31 13:19:41",
-      "album": {
-        "name": "15",
-        "url": "https://open.spotify.com/album/1kPpMyLk2aWFhjP6Jw51Gn"
-      },
-      "artists": [
-        {
-          "name": "AMK",
-          "url": "https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi"
-        }
-      ],
-      "duration_ms": 192182,
-      "name": "Malya",
-      "url": "https://open.spotify.com/track/5XRSmVzOdT0dd3mMEWFnQC"
-    },
-    {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
       "album": {
         "name": "Dougie",
         "url": "https://open.spotify.com/album/2YqIzG6eIupPAFhUtrpp1R"
@@ -509,23 +457,27 @@
       "url": "https://open.spotify.com/track/3u4YjYq448qqRkUfJsbrnM"
     },
     {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
       "album": {
-        "name": "La Batteria",
-        "url": "https://open.spotify.com/album/5fWRKpCVzmZ0a7hDdBB4ru"
+        "name": "Ela Joga na Hora",
+        "url": "https://open.spotify.com/album/30Ytb0PG1tOv7JiKOTBK2v"
       },
       "artists": [
         {
-          "name": "DJ Gigola",
-          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+          "name": "Mc Pogba",
+          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
+        },
+        {
+          "name": "DJ Guih Da ZO",
+          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
         }
       ],
-      "duration_ms": 160000,
-      "name": "La Batteria",
-      "url": "https://open.spotify.com/track/09GeLKK8IwFBEUVzLlhVQ0"
+      "duration_ms": 132922,
+      "name": "Ela Joga na Hora",
+      "url": "https://open.spotify.com/track/6hZGsChumRhWG24OEh698c"
     },
     {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
       "album": {
         "name": "Knock Knock",
         "url": "https://open.spotify.com/album/1O5B3b01GvavFdbqOjWY9h"
@@ -545,59 +497,7 @@
       "url": "https://open.spotify.com/track/6Mn6vteZmu3fSyG1a8qB9q"
     },
     {
-      "added_at": "2024-07-31 13:19:41",
-      "album": {
-        "name": "Did It First (with Central Cee)",
-        "url": "https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 118002,
-      "name": "Did It First (with Central Cee)",
-      "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
-    },
-    {
-      "added_at": "2024-07-31 13:19:41",
-      "album": {
-        "name": "BAD!",
-        "url": "https://open.spotify.com/album/20Dy7eWEYXjTa3ZHvKG3N2"
-      },
-      "artists": [
-        {
-          "name": "Folie's",
-          "url": "https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c"
-        }
-      ],
-      "duration_ms": 161001,
-      "name": "BAD!",
-      "url": "https://open.spotify.com/track/5asnJ8gN6EStpEmZSEYjyC"
-    },
-    {
-      "added_at": "2024-07-31 13:19:41",
-      "album": {
-        "name": "D\u00e9testable",
-        "url": "https://open.spotify.com/album/6lW8IitF6FuaEtBDbhUoXr"
-      },
-      "artists": [
-        {
-          "name": "Dal\u00ed",
-          "url": "https://open.spotify.com/artist/02gko1zWBeKdi4oXeV8qfo"
-        }
-      ],
-      "duration_ms": 167120,
-      "name": "D\u00e9testable",
-      "url": "https://open.spotify.com/track/1Xhh0KjyQCZGKhwafMjwpH"
-    },
-    {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
       "album": {
         "name": "Don't Stop (The Music)",
         "url": "https://open.spotify.com/album/4vF5KckGOBr5srPsCy2SCN"
@@ -621,7 +521,127 @@
       "url": "https://open.spotify.com/track/6x0eMOT5uyCgtmOxzWVATc"
     },
     {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
+      "album": {
+        "name": "Did It First (with Central Cee)",
+        "url": "https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 118002,
+      "name": "Did It First (with Central Cee)",
+      "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
+    },
+    {
+      "added_at": "2024-08-01 13:36:18",
+      "album": {
+        "name": "La Batteria",
+        "url": "https://open.spotify.com/album/5fWRKpCVzmZ0a7hDdBB4ru"
+      },
+      "artists": [
+        {
+          "name": "DJ Gigola",
+          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "La Batteria",
+      "url": "https://open.spotify.com/track/09GeLKK8IwFBEUVzLlhVQ0"
+    },
+    {
+      "added_at": "2024-08-01 13:36:18",
+      "album": {
+        "name": "15",
+        "url": "https://open.spotify.com/album/1kPpMyLk2aWFhjP6Jw51Gn"
+      },
+      "artists": [
+        {
+          "name": "AMK",
+          "url": "https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi"
+        }
+      ],
+      "duration_ms": 192182,
+      "name": "Malya",
+      "url": "https://open.spotify.com/track/5XRSmVzOdT0dd3mMEWFnQC"
+    },
+    {
+      "added_at": "2024-08-01 13:36:18",
+      "album": {
+        "name": "BAD!",
+        "url": "https://open.spotify.com/album/20Dy7eWEYXjTa3ZHvKG3N2"
+      },
+      "artists": [
+        {
+          "name": "Folie's",
+          "url": "https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c"
+        }
+      ],
+      "duration_ms": 161001,
+      "name": "BAD!",
+      "url": "https://open.spotify.com/track/5asnJ8gN6EStpEmZSEYjyC"
+    },
+    {
+      "added_at": "2024-08-01 13:36:18",
+      "album": {
+        "name": "JEUNE MALAGASY",
+        "url": "https://open.spotify.com/album/5EoW0PPTKRCHFjgQRICIID"
+      },
+      "artists": [
+        {
+          "name": "JYEUHAIR",
+          "url": "https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn"
+        }
+      ],
+      "duration_ms": 135569,
+      "name": "JEUNE MALAGASY",
+      "url": "https://open.spotify.com/track/52NNcLKY2nG2vcGnsR3q0J"
+    },
+    {
+      "added_at": "2024-08-01 13:36:18",
+      "album": {
+        "name": "Papi",
+        "url": "https://open.spotify.com/album/0MJZ4UzanaEtPdYBTeuA20"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "Alina Pozi",
+          "url": "https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "Papi",
+      "url": "https://open.spotify.com/track/5nsGwIGBNcwYVAPNdZCYQV"
+    },
+    {
+      "added_at": "2024-08-01 13:36:18",
+      "album": {
+        "name": "D\u00e9testable",
+        "url": "https://open.spotify.com/album/6lW8IitF6FuaEtBDbhUoXr"
+      },
+      "artists": [
+        {
+          "name": "Dal\u00ed",
+          "url": "https://open.spotify.com/artist/02gko1zWBeKdi4oXeV8qfo"
+        }
+      ],
+      "duration_ms": 167120,
+      "name": "D\u00e9testable",
+      "url": "https://open.spotify.com/track/1Xhh0KjyQCZGKhwafMjwpH"
+    },
+    {
+      "added_at": "2024-08-01 13:36:18",
       "album": {
         "name": "On Met La Patate (Belgian Anthem)",
         "url": "https://open.spotify.com/album/11w20Jq6Z814UVnYFn08cx"
@@ -641,7 +661,23 @@
       "url": "https://open.spotify.com/track/3q8VDAS1z0x5VavigoDXHl"
     },
     {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
+      "album": {
+        "name": "Nouvelle \u00c9cole | Saison 3 | Partie 1 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6"
+      },
+      "artists": [
+        {
+          "name": "Damys",
+          "url": "https://open.spotify.com/artist/486eivvjMrA8ZyjYzlie10"
+        }
+      ],
+      "duration_ms": 84923,
+      "name": "Shifu - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/4yPrfU3LhXRETMdX7DjN86"
+    },
+    {
+      "added_at": "2024-08-01 13:36:18",
       "album": {
         "name": "TRAFIK!",
         "url": "https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB"
@@ -661,7 +697,7 @@
       "url": "https://open.spotify.com/track/4VDEbsqJED0VOLm7sF21su"
     },
     {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
       "album": {
         "name": "Red (From \"Descendants: The Rise of Red\")",
         "url": "https://open.spotify.com/album/6M4QzYGKgF2nkZw9VztN0s"
@@ -685,79 +721,7 @@
       "url": "https://open.spotify.com/track/1AP7xueWwO5AakWFYzttpV"
     },
     {
-      "added_at": "2024-07-31 13:19:41",
-      "album": {
-        "name": "Papi",
-        "url": "https://open.spotify.com/album/0MJZ4UzanaEtPdYBTeuA20"
-      },
-      "artists": [
-        {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
-        },
-        {
-          "name": "Alina Pozi",
-          "url": "https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "Papi",
-      "url": "https://open.spotify.com/track/5nsGwIGBNcwYVAPNdZCYQV"
-    },
-    {
-      "added_at": "2024-07-31 13:19:41",
-      "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
-    },
-    {
-      "added_at": "2024-07-31 13:19:41",
-      "album": {
-        "name": "Don't You Want Me (KI/KI Remix)",
-        "url": "https://open.spotify.com/album/7xADCLcpIhA57Qc1sW8SmJ"
-      },
-      "artists": [
-        {
-          "name": "Felix",
-          "url": "https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk"
-        },
-        {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
-        }
-      ],
-      "duration_ms": 227006,
-      "name": "Don't You Want Me - KI/KI Remix",
-      "url": "https://open.spotify.com/track/2HcD8DL6fVvASQWRFzmIVG"
-    },
-    {
-      "added_at": "2024-07-31 13:19:41",
-      "album": {
-        "name": "Monaco",
-        "url": "https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT"
-      },
-      "artists": [
-        {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        }
-      ],
-      "duration_ms": 141314,
-      "name": "Monaco",
-      "url": "https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY"
-    },
-    {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
       "album": {
         "name": "KEHLANI",
         "url": "https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm"
@@ -773,55 +737,7 @@
       "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
     },
     {
-      "added_at": "2024-07-31 13:19:41",
-      "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-      "added_at": "2024-07-31 13:19:41",
-      "album": {
-        "name": "Nouvelle \u00c9cole | Saison 3 | Partie 1 (S\u00e9rie Netflix)",
-        "url": "https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6"
-      },
-      "artists": [
-        {
-          "name": "Damys",
-          "url": "https://open.spotify.com/artist/486eivvjMrA8ZyjYzlie10"
-        }
-      ],
-      "duration_ms": 84923,
-      "name": "Shifu - Nouvelle \u00c9cole",
-      "url": "https://open.spotify.com/track/4yPrfU3LhXRETMdX7DjN86"
-    },
-    {
-      "added_at": "2024-07-31 13:19:41",
-      "album": {
-        "name": "Si Ai",
-        "url": "https://open.spotify.com/album/7JRTgBc4mvX7CfkfDhaLMK"
-      },
-      "artists": [
-        {
-          "name": "Tayna",
-          "url": "https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Si Ai",
-      "url": "https://open.spotify.com/track/27jIKs9ZEe4m19j3lx4E2b"
-    },
-    {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
       "album": {
         "name": "Kisses (feat. bbyclose)",
         "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
@@ -845,31 +761,23 @@
       "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
     },
     {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
       "album": {
-        "name": "In And Out Of Love",
-        "url": "https://open.spotify.com/album/3ieuC2fT9bBITfYugxOkwK"
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
       },
       "artists": [
         {
-          "name": "Rivo",
-          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Sharon Den Adel",
-          "url": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 226621,
-      "name": "In And Out Of Love",
-      "url": "https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h"
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
       "album": {
         "name": "de l'accordeoniste a milord",
         "url": "https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS"
@@ -885,7 +793,63 @@
       "url": "https://open.spotify.com/track/7wQEazOrLEHSCMo3gEuV88"
     },
     {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
+      "album": {
+        "name": "Don't You Want Me (KI/KI Remix)",
+        "url": "https://open.spotify.com/album/7xADCLcpIhA57Qc1sW8SmJ"
+      },
+      "artists": [
+        {
+          "name": "Felix",
+          "url": "https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk"
+        },
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "duration_ms": 227006,
+      "name": "Don't You Want Me - KI/KI Remix",
+      "url": "https://open.spotify.com/track/2HcD8DL6fVvASQWRFzmIVG"
+    },
+    {
+      "added_at": "2024-08-01 13:36:18",
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "added_at": "2024-08-01 13:36:18",
+      "album": {
+        "name": "Gaan We Weg?",
+        "url": "https://open.spotify.com/album/4SV6Y14WPFNuivMPrbfSas"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 141775,
+      "name": "Gaan We Weg?",
+      "url": "https://open.spotify.com/track/02nm2yGw7BygWmRcbFhAlC"
+    },
+    {
+      "added_at": "2024-08-01 13:36:18",
       "album": {
         "name": "Last Night (Anyma x Layton Giordani Remix)",
         "url": "https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa"
@@ -909,56 +873,100 @@
       "url": "https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a"
     },
     {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
       "album": {
-        "name": "Nouvelle \u00c9cole | Saison 3 | Partie 1 (S\u00e9rie Netflix)",
-        "url": "https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6"
+        "name": "Monaco",
+        "url": "https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT"
       },
       "artists": [
         {
-          "name": "Clara Charlotte",
-          "url": "https://open.spotify.com/artist/2j2XsTjam1x6HjXkoPu2ki"
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
         }
       ],
-      "duration_ms": 111000,
-      "name": "Avant-go\u00fbt - Nouvelle \u00c9cole",
-      "url": "https://open.spotify.com/track/5MXsJhqpma8RvMr98zMD7Q"
+      "duration_ms": 141314,
+      "name": "Monaco",
+      "url": "https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY"
     },
     {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
       "album": {
-        "name": "Gaan We Weg?",
-        "url": "https://open.spotify.com/album/4SV6Y14WPFNuivMPrbfSas"
+        "name": "Si Ai",
+        "url": "https://open.spotify.com/album/7JRTgBc4mvX7CfkfDhaLMK"
       },
       "artists": [
         {
-          "name": "Roxy Dekker",
-          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+          "name": "Tayna",
+          "url": "https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Si Ai",
+      "url": "https://open.spotify.com/track/27jIKs9ZEe4m19j3lx4E2b"
+    },
+    {
+      "added_at": "2024-08-01 13:36:18",
+      "album": {
+        "name": "In And Out Of Love",
+        "url": "https://open.spotify.com/album/3ieuC2fT9bBITfYugxOkwK"
+      },
+      "artists": [
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
         },
         {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Sharon Den Adel",
+          "url": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
         }
       ],
-      "duration_ms": 141775,
-      "name": "Gaan We Weg?",
-      "url": "https://open.spotify.com/track/02nm2yGw7BygWmRcbFhAlC"
+      "duration_ms": 226621,
+      "name": "In And Out Of Love",
+      "url": "https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h"
     },
     {
-      "added_at": "2024-07-31 13:19:41",
+      "added_at": "2024-08-01 13:36:18",
       "album": {
-        "name": "Pas de seum pour le summer",
-        "url": "https://open.spotify.com/album/3vgEOmPIh31vdESnU8CtYA"
+        "name": "Bombalaya (Blooom Remix)",
+        "url": "https://open.spotify.com/album/0Pn7tCMEM2cJINrr1gSTbE"
       },
       "artists": [
         {
-          "name": "Helena",
-          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+        },
+        {
+          "name": "Wolfy Lights",
+          "url": "https://open.spotify.com/artist/1VzKsrHWSH4Ij7dTWfPe7z"
+        },
+        {
+          "name": "Blooom",
+          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
         }
       ],
-      "duration_ms": 179866,
-      "name": "Summer Body",
-      "url": "https://open.spotify.com/track/2jg0zwe6fa4oWjzy1EvcWg"
+      "duration_ms": 248571,
+      "name": "Bombalaya - Blooom Remix",
+      "url": "https://open.spotify.com/track/5utINKwnXh1drV2vI9cnze"
+    },
+    {
+      "added_at": "2024-08-01 13:36:18",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
+      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
     }
   ],
   "unique_name": "Viral 50 - Belgium",

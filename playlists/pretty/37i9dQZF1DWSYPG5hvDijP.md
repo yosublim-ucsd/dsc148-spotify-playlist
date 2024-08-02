@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > New Hip Hop from India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,621 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,649 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 4 | [Like That](https://open.spotify.com/track/2xjK6X8vX06yZK8DnYQ9V0) | [Dakait](https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7), [Aniket Raturi](https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS), [2FISTD](https://open.spotify.com/artist/08e2eWa0q9i4FZS6n8V4Rs) | [Like That](https://open.spotify.com/album/0chBFczOejfqe24XLkAVLj) | 3:24 |
 | 5 | [Chalis](https://open.spotify.com/track/3Y2QAPM1Vsw7yKKnVMsxhD) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Chalis](https://open.spotify.com/album/5Mp4zVYRkIbJ4AZyXB27Nw) | 3:04 |
 | 6 | [Pitbull](https://open.spotify.com/track/3xJwshLcC50ZXeioGmIcdl) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [thekidd.wav](https://open.spotify.com/artist/5LxqBfBqjhbVLjEL32oMj0) | [Pitbull](https://open.spotify.com/album/322Q4AdwCHgFfpFvKossNs) | 2:50 |
-| 7 | [MIRZAPUR FREESTYLE](https://open.spotify.com/track/45JGbdPqNzEWfmh8SK0Kw9) | [SlowCheeta](https://open.spotify.com/artist/3XwzEefwYfxlv9xVyT7r63), [Arun Dev Yadav](https://open.spotify.com/artist/0RCdoxFQ7avFn6Hw0XUDVb) | [MIRZAPUR FREESTYLE](https://open.spotify.com/album/5v6nbdqZf51gYyqPcrAzNX) | 2:48 |
+| 7 | [MIRZAPUR FREESTYLE](https://open.spotify.com/track/45JGbdPqNzEWfmh8SK0Kw9) | [SlowCheeta](https://open.spotify.com/artist/3XwzEefwYfxlv9xVyT7r63), [Ink Heart](https://open.spotify.com/artist/010tbxYFwrOC8Nl2paePR6), [Arun Dev Yadav](https://open.spotify.com/artist/0RCdoxFQ7avFn6Hw0XUDVb) | [MIRZAPUR FREESTYLE](https://open.spotify.com/album/5v6nbdqZf51gYyqPcrAzNX) | 2:48 |
 | 8 | [God Bless You](https://open.spotify.com/track/2Q6ajrXPICNctahJ9jeiYn) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [God Bless You](https://open.spotify.com/album/3ZDNJuCmV1mlUf3Z5dLvJ2) | 2:36 |
 | 9 | [Muscle](https://open.spotify.com/track/5VwWJuCOIImBvob3omzvyz) | [Yung Delic](https://open.spotify.com/artist/6xJkqxT7KoJAHgmxmcjLOY), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Muscle](https://open.spotify.com/album/5n5MXVLwDgxXhyyRsqcTGu) | 2:24 |
 | 10 | [GABBAR](https://open.spotify.com/track/1onRB8Y9I8coG52cFeq5oD) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [PUNA](https://open.spotify.com/artist/6xxZ5ygLggYl3EXuzDezvo) | [MERI JAAN PEHLE NAACH](https://open.spotify.com/album/0EjqvUumscGjg4Y12yalkV) | 4:01 |

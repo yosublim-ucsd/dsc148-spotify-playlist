@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSRbZUjHUFIA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSRbZUjHUFIA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSRbZUjHUFIA)
 
-### [Work It: Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWSRbZUjHUFIA)
+### [Work It: Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWSRbZUjHUFIA)
 
-> Keep your workout 100 with these Hip Hop motivators.
+> Keep your workout 100 with these Hip\-Hop motivators.
 
 92 songs - 5 hr 13 min
 

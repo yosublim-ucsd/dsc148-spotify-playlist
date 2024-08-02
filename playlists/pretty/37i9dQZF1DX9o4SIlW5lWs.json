@@ -1,6 +1,6 @@
 {
   "description": "Al coraz\u00f3n! Foto: La Kuppe & Amar Azul.",
-  "num_followers": 223004,
+  "num_followers": 223058,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "La Luna y T\u00fa",
-        "url": "https://open.spotify.com/album/6tj3hUb520RFwQHHM5Osyk"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        },
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 216734,
-      "name": "La Luna y T\u00fa",
-      "url": "https://open.spotify.com/track/4PGopmEXr1E5OQa4eA8s8S"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "Sin Valent\u00edn",
         "url": "https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj"
       },
@@ -1191,8 +1171,28 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Tal Vez",
-        "url": "https://open.spotify.com/album/0vcZx00jaShxJrxL2Cvq5R"
+        "name": "La Luna y T\u00fa",
+        "url": "https://open.spotify.com/album/6tj3hUb520RFwQHHM5Osyk"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 216734,
+      "name": "La Luna y T\u00fa",
+      "url": "https://open.spotify.com/track/4PGopmEXr1E5OQa4eA8s8S"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "Adi\u00f3s",
+        "url": "https://open.spotify.com/album/36L4sUqaahp3FbF6kQWsgb"
       },
       "artists": [
         {
@@ -1200,13 +1200,13 @@
           "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
         },
         {
-          "name": "Axel",
-          "url": "https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE"
+          "name": "Gonzalo Castillo",
+          "url": "https://open.spotify.com/artist/77xPFPxusAy6VVAXc6pWFg"
         }
       ],
-      "duration_ms": 194884,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/50EYjJGCPa64EynOqTfWFu"
+      "duration_ms": 155134,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/2besF2Yj2Djnes75vwfVSs"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1803,22 +1803,18 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Fin de Semana Sin Ti",
-        "url": "https://open.spotify.com/album/6dK4IkKmd6CSyK69a8pXyE"
+        "name": "Grupo Play - Ahora juega en primera",
+        "url": "https://open.spotify.com/album/3Cb31lj9pek33puxonY1qM"
       },
       "artists": [
         {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Pushi",
-          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
         }
       ],
-      "duration_ms": 143570,
-      "name": "Fin de Semana Sin Ti",
-      "url": "https://open.spotify.com/track/5hfajhl7a1MNhGMMPDDToN"
+      "duration_ms": 209066,
+      "name": "Lloraras mas de diez veces",
+      "url": "https://open.spotify.com/track/3Rw4RpKirEtupNJfQSPOjI"
     }
   ],
   "unique_name": "Cumbia y Romance",

@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: ASIAN KUNG-FU GENERATION",
-  "num_followers": 286900,
+  "num_followers": 286936,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "\u6765\u4e16\u306f\u5049\u4eba\uff01",
-        "url": "https://open.spotify.com/album/7zjt6aRii06qmD77RSBAYi"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u51b7\u3048\u3002",
-          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
-        }
-      ],
-      "duration_ms": 190866,
-      "name": "\u304a\u5148\u306b\u5931\u793c\u3057\u307e\u3059\u3002",
-      "url": "https://open.spotify.com/track/51o21I12ZFahXaCviz95M6"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
         "name": "\u30a2\u30a4\u30e9\u30f4\u30e6\u30fc",
         "url": "https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "\u3042\u3044\u3064\u3089\u5168\u54e1\u540c\u7a93\u4f1a",
-        "url": "https://open.spotify.com/album/3JV0AKw3HatCzJgSEDq450"
+        "name": "\u6765\u4e16\u306f\u5049\u4eba\uff01",
+        "url": "https://open.spotify.com/album/7zjt6aRii06qmD77RSBAYi"
       },
       "artists": [
         {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
         }
       ],
-      "duration_ms": 254506,
-      "name": "\u3042\u3044\u3064\u3089\u5168\u54e1\u540c\u7a93\u4f1a",
-      "url": "https://open.spotify.com/track/2VIK6jaaKghS4QPHr6sAkv"
+      "duration_ms": 190866,
+      "name": "\u304a\u5148\u306b\u5931\u793c\u3057\u307e\u3059\u3002",
+      "url": "https://open.spotify.com/track/51o21I12ZFahXaCviz95M6"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -987,6 +971,22 @@
       "duration_ms": 186026,
       "name": "Devil in Your Heart",
       "url": "https://open.spotify.com/track/3w8qOAwbHF6zYeYT7pj7DI"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
+        "name": "\u3042\u3044\u3064\u3089\u5168\u54e1\u540c\u7a93\u4f1a",
+        "url": "https://open.spotify.com/album/3JV0AKw3HatCzJgSEDq450"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 254506,
+      "name": "\u3042\u3044\u3064\u3089\u5168\u54e1\u540c\u7a93\u4f1a",
+      "url": "https://open.spotify.com/track/2VIK6jaaKghS4QPHr6sAkv"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "\u6c38\u9060\u306e\u4e0d\u5728\u8a3c\u660e",
-        "url": "https://open.spotify.com/album/5y7E3hUWGNoY98C1TubePY"
+        "name": "BRING YOUR BOARD!!",
+        "url": "https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k"
       },
       "artists": [
         {
-          "name": "Tokyo Incidents",
-          "url": "https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5"
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
         }
       ],
-      "duration_ms": 261440,
-      "name": "\u6c38\u9060\u306e\u4e0d\u5728\u8a3c\u660e",
-      "url": "https://open.spotify.com/track/7FL5iSLdKcersBgDiwijis"
+      "duration_ms": 199826,
+      "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
+      "url": "https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "BRING YOUR BOARD!!",
-        "url": "https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k"
+        "name": "\u6c38\u9060\u306e\u4e0d\u5728\u8a3c\u660e",
+        "url": "https://open.spotify.com/album/5y7E3hUWGNoY98C1TubePY"
       },
       "artists": [
         {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+          "name": "Tokyo Incidents",
+          "url": "https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5"
         }
       ],
-      "duration_ms": 199826,
-      "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
-      "url": "https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg"
+      "duration_ms": 261440,
+      "name": "\u6c38\u9060\u306e\u4e0d\u5728\u8a3c\u660e",
+      "url": "https://open.spotify.com/track/7FL5iSLdKcersBgDiwijis"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1435,18 +1435,22 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "\u30a2\u30c0\u30d7\u30c8",
-        "url": "https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG"
+        "name": "\u516d\u672c\u6728\u5fc3\u4e2d",
+        "url": "https://open.spotify.com/album/7KhTYq7EOmAjvZburvqIha"
       },
       "artists": [
         {
-          "name": "sakanaction",
-          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+          "name": "\u677e\u672c\u5b5d\u5f18",
+          "url": "https://open.spotify.com/artist/085eXdPFuMTWEuivrLnXAr"
+        },
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
         }
       ],
-      "duration_ms": 250000,
-      "name": "\u6708\u306e\u6900",
-      "url": "https://open.spotify.com/track/5GVb3tUNjK3xirJfVi8p6v"
+      "duration_ms": 301133,
+      "name": "\u516d\u672c\u6728\u5fc3\u4e2d",
+      "url": "https://open.spotify.com/track/4ZsnrlNGDzXnO5rJtcVvy8"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1483,6 +1487,22 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
+        "name": "\u30a2\u30c0\u30d7\u30c8",
+        "url": "https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG"
+      },
+      "artists": [
+        {
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "\u6708\u306e\u6900",
+      "url": "https://open.spotify.com/track/5GVb3tUNjK3xirJfVi8p6v"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
         "name": "\u53ea\u8005",
         "url": "https://open.spotify.com/album/01xhc1hZe4rw2wBsyAfEx4"
       },
@@ -1495,26 +1515,6 @@
       "duration_ms": 242233,
       "name": "\u30d6\u30e9\u30c3\u30af\u30db\u30fc\u30eb",
       "url": "https://open.spotify.com/track/6lvdyqaocfdhmmN7yYs3fz"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "\u516d\u672c\u6728\u5fc3\u4e2d",
-        "url": "https://open.spotify.com/album/7KhTYq7EOmAjvZburvqIha"
-      },
-      "artists": [
-        {
-          "name": "\u677e\u672c\u5b5d\u5f18",
-          "url": "https://open.spotify.com/artist/085eXdPFuMTWEuivrLnXAr"
-        },
-        {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
-        }
-      ],
-      "duration_ms": 301133,
-      "name": "\u516d\u672c\u6728\u5fc3\u4e2d",
-      "url": "https://open.spotify.com/track/4ZsnrlNGDzXnO5rJtcVvy8"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1583,6 +1583,26 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
+        "name": "THE FUTURE DAYBREAK (\u6620\u753b \u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30c3\u30c1\u30e3\u30fc\u30c9 \u30b6\u30fb\u30d5\u30e5\u30fc\u30c1\u30e3\u30fc\u30fb\u30c7\u30a4\u30d6\u30ec\u30a4\u30af\u300f\u4e3b\u984c\u6b4c)",
+        "url": "https://open.spotify.com/album/2pApDw9WgFXlwV7AD1qoNS"
+      },
+      "artists": [
+        {
+          "name": "BACK-ON",
+          "url": "https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht"
+        },
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 254566,
+      "name": "THE FUTURE DAYBREAK - (\u6620\u753b \u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30c3\u30c1\u30e3\u30fc\u30c9 \u30b6\u30fb\u30d5\u30e5\u30fc\u30c1\u30e3\u30fc\u30fb\u30c7\u30a4\u30d6\u30ec\u30a4\u30af\u300f\u4e3b\u984c\u6b4c)",
+      "url": "https://open.spotify.com/track/7uHGpZqq9UN7g6U6lME03O"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
         "name": "10-FEET\u5165\u308a\u53e3\u306e10\u66f2 2",
         "url": "https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw"
       },
@@ -1611,22 +1631,6 @@
       "duration_ms": 260079,
       "name": "VICTOSPIN",
       "url": "https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "\u8d16\u7f6a",
-        "url": "https://open.spotify.com/album/7dlmEwKRp2afa4Le7CKQ2f"
-      },
-      "artists": [
-        {
-          "name": "SID",
-          "url": "https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE"
-        }
-      ],
-      "duration_ms": 237176,
-      "name": "\u8d16\u7f6a",
-      "url": "https://open.spotify.com/track/5nCNu4qC9WoVK5RLkvNJEL"
     },
     {
       "added_at": "2024-07-30 15:00:00",

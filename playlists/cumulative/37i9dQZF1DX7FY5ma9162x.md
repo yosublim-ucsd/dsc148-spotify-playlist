@@ -4,7 +4,7 @@
 
 > The tracks you can put on repeat all day\. Cover: PARTYNEXTDOOR
 
-625 songs - 1 day 10 hr 53 min
+626 songs - 1 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,7 +455,7 @@
 | [Right Now](https://open.spotify.com/track/04huldANUuFNnM9tI3TDHP) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [PMD \(Deluxe\)](https://open.spotify.com/album/6r4KnS4j4YEFExL1KiOabB) | 2:37 | 2022-03-11 | 2022-07-27 |
 | [Ring \(feat\. Kehlani\)](https://open.spotify.com/track/5DfWF0jqMgZDCiu9zJENTA) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 2:57 | 2022-04-01 | 2022-04-18 |
 | [Risk It All \(feat\. Tory Lanez\)](https://open.spotify.com/track/7ncVTZ86MJQZK1FuW4hWLs) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [King of R&B](https://open.spotify.com/album/4OloUHZpVVLawhX0DpBSrW) | 3:26 | 2022-03-11 | 2022-05-16 |
-| [Risk Taker](https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Risk Taker](https://open.spotify.com/album/0eX3oKIfRjTb0gjAOysT0E) | 3:43 | 2024-06-27 |  |
+| [Risk Taker](https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Risk Taker](https://open.spotify.com/album/0eX3oKIfRjTb0gjAOysT0E) | 3:43 | 2024-06-27 | 2024-08-02 |
 | [Rock The Boat](https://open.spotify.com/track/0qvlhVNm7L5IWabWF5hlEL) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Aaliyah](https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc) | 4:34 | 2022-04-01 | 2022-08-12 |
 | [ROLLA](https://open.spotify.com/track/2PpURDy2rnoBDC0PlBgiqd) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [DONE IS DONE](https://open.spotify.com/album/6rNLdu77fzdWmOkVoUM3Pa) | 3:52 | 2022-04-01 | 2022-05-07 |
 | [Rover \(feat\. DTG\)](https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf) | [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [DTG](https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg) | [Rover \(feat\. DTG\)](https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd) | 2:47 | 2022-04-01 |  |
@@ -466,6 +466,7 @@
 | [Safety \(feat\. DJ Snake\)](https://open.spotify.com/track/26Sw3iKfNsX2i0OnKqKXNi) | [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [GASHI](https://open.spotify.com/album/1fd9ERd2XLppseTB8bTbBW) | 2:57 | 2022-04-01 | 2022-04-17 |
 | [Safety 2020 \(feat\. Chris Brown, Afro B & DJ Snake\)](https://open.spotify.com/track/4YW8YoVfEZTynrEvWeLbRc) | [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Safety 2020 \(feat\. Chris Brown, Afro B & DJ Snake\)](https://open.spotify.com/album/1sOcokaXUekigKIFqxAnTJ) | 3:59 | 2022-04-01 | 2022-04-21 |
 | [Saturn](https://open.spotify.com/track/65DNVdD9RHfZLmZjba0HlR) | [Haley Smalls](https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY) | [Saturn](https://open.spotify.com/album/295JRqyoHOO6RWpCPiASUc) | 3:26 | 2022-04-01 | 2022-04-29 |
+| [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-08-02 |  |
 | [Say So \(feat\. Nicki Minaj\)](https://open.spotify.com/track/11VApNQCWLJdzxWrlmwzUa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Say So \(feat\. Nicki Minaj\)](https://open.spotify.com/album/2cpCmPs5Efp7w7Cv0LKcuG) | 3:26 | 2022-04-01 | 2022-04-20 |
 | [SCARLETT'S WEEKEND](https://open.spotify.com/track/5eiD8KqhdRr2mI9oVq6yex) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [SCARLETT'S WEEKEND](https://open.spotify.com/album/7ElDG8R1FcQB49sS0U7CPq) | 1:51 | 2022-04-01 | 2022-04-19 |
 | [Scenic Drive \(feat\. Ari Lennox & Smino\)](https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 4:09 | 2022-03-11 | 2023-05-27 |

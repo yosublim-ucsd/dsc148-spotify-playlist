@@ -1,6 +1,6 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 38223,
+  "num_followers": 38222,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
+        "name": "The Devil You Know",
+        "url": "https://open.spotify.com/album/7zrq1fN6aANP2nDQZA2CtL"
+      },
+      "artists": [
+        {
+          "name": "SBRBS",
+          "url": "https://open.spotify.com/artist/4Ev1vDMIcytBZ84u8Hz2S3"
+        }
+      ],
+      "duration_ms": 202580,
+      "name": "Heavy Hearted",
+      "url": "https://open.spotify.com/track/7HFZ2R5rLtboCK96OLTQag"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
         "name": "Spiritual Sickness",
         "url": "https://open.spotify.com/album/4eXpcehtxUaEhPJz9flqAO"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 220812,
       "name": "Power Lines",
       "url": "https://open.spotify.com/track/1oHDykzsljPnHszthIcZb5"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "The Devil You Know",
-        "url": "https://open.spotify.com/album/7zrq1fN6aANP2nDQZA2CtL"
-      },
-      "artists": [
-        {
-          "name": "SBRBS",
-          "url": "https://open.spotify.com/artist/4Ev1vDMIcytBZ84u8Hz2S3"
-        }
-      ],
-      "duration_ms": 202580,
-      "name": "Heavy Hearted",
-      "url": "https://open.spotify.com/track/7HFZ2R5rLtboCK96OLTQag"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
+        "name": "Corrosion",
+        "url": "https://open.spotify.com/album/31MEawLocr8OoEDFJyg6aa"
+      },
+      "artists": [
+        {
+          "name": "Vestige",
+          "url": "https://open.spotify.com/artist/0EK0zScYBi3NbAs66JRwJN"
+        }
+      ],
+      "duration_ms": 316462,
+      "name": "Corrosion",
+      "url": "https://open.spotify.com/track/726OXe032q4HQ6r0sGQAsl"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
         "name": "Take It or Leave It",
         "url": "https://open.spotify.com/album/2RHjDtMCXgIFnh1KyoWYpR"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 178000,
       "name": "Bride",
       "url": "https://open.spotify.com/track/4oFtvipwinqXjVrJpEuYCG"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "Corrosion",
-        "url": "https://open.spotify.com/album/31MEawLocr8OoEDFJyg6aa"
-      },
-      "artists": [
-        {
-          "name": "Vestige",
-          "url": "https://open.spotify.com/artist/0EK0zScYBi3NbAs66JRwJN"
-        }
-      ],
-      "duration_ms": 316462,
-      "name": "Corrosion",
-      "url": "https://open.spotify.com/track/726OXe032q4HQ6r0sGQAsl"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -779,26 +779,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Park",
-        "url": "https://open.spotify.com/album/5TlXmC4JTP9rrBvQV9O621"
+        "name": "Event Horizon",
+        "url": "https://open.spotify.com/album/0x0gdhe3A8aWCEMktBiQAY"
       },
       "artists": [
         {
-          "name": "PARK",
-          "url": "https://open.spotify.com/artist/5pMItVznpNhxltDYviTMsu"
-        },
-        {
-          "name": "Fr\u00e0n\u00e7ois & The Atlas Mountains",
-          "url": "https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU"
-        },
-        {
-          "name": "Lysistrata",
-          "url": "https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb"
+          "name": "Howard",
+          "url": "https://open.spotify.com/artist/3bwdCcoC0DQB3fpQn9fqnm"
         }
       ],
-      "duration_ms": 366417,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/4GW71Fj6Br2rH6ev9T8f1k"
+      "duration_ms": 180960,
+      "name": "Heedless",
+      "url": "https://open.spotify.com/track/5Gp3ki8Tvqoop5f1AuvsXr"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -819,18 +811,26 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Event Horizon",
-        "url": "https://open.spotify.com/album/0x0gdhe3A8aWCEMktBiQAY"
+        "name": "Park",
+        "url": "https://open.spotify.com/album/5TlXmC4JTP9rrBvQV9O621"
       },
       "artists": [
         {
-          "name": "Howard",
-          "url": "https://open.spotify.com/artist/3bwdCcoC0DQB3fpQn9fqnm"
+          "name": "PARK",
+          "url": "https://open.spotify.com/artist/5pMItVznpNhxltDYviTMsu"
+        },
+        {
+          "name": "Fr\u00e0n\u00e7ois & The Atlas Mountains",
+          "url": "https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU"
+        },
+        {
+          "name": "Lysistrata",
+          "url": "https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb"
         }
       ],
-      "duration_ms": 180960,
-      "name": "Heedless",
-      "url": "https://open.spotify.com/track/5Gp3ki8Tvqoop5f1AuvsXr"
+      "duration_ms": 366417,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/4GW71Fj6Br2rH6ev9T8f1k"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Postmodern Blue",
-        "url": "https://open.spotify.com/album/4ytKLcwskenzEAA3Ae3Kta"
-      },
-      "artists": [
-        {
-          "name": "Trainfantome",
-          "url": "https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp"
-        }
-      ],
-      "duration_ms": 170393,
-      "name": "Vulgar",
-      "url": "https://open.spotify.com/track/7cOZA9hhLkBValr2rhaH61"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "HORIZON",
         "url": "https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU"
       },
@@ -995,18 +979,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Healing Is Not Linear",
-        "url": "https://open.spotify.com/album/6AiJUiqh1ZYTuRboEmFgV0"
+        "name": "Postmodern Blue",
+        "url": "https://open.spotify.com/album/4ytKLcwskenzEAA3Ae3Kta"
       },
       "artists": [
         {
-          "name": "COLISION",
-          "url": "https://open.spotify.com/artist/5DTSjTb2jYT5D40f6MW3xJ"
+          "name": "Trainfantome",
+          "url": "https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp"
         }
       ],
-      "duration_ms": 188440,
-      "name": "Knees",
-      "url": "https://open.spotify.com/track/49WaJosNna7DBveejaBjra"
+      "duration_ms": 170393,
+      "name": "Vulgar",
+      "url": "https://open.spotify.com/track/7cOZA9hhLkBValr2rhaH61"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1023,6 +1007,22 @@
       "duration_ms": 358080,
       "name": "Can't Wait to Be Fine",
       "url": "https://open.spotify.com/track/3ceHHdlzB4tgJXCviVKTBc"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Healing Is Not Linear",
+        "url": "https://open.spotify.com/album/6AiJUiqh1ZYTuRboEmFgV0"
+      },
+      "artists": [
+        {
+          "name": "COLISION",
+          "url": "https://open.spotify.com/artist/5DTSjTb2jYT5D40f6MW3xJ"
+        }
+      ],
+      "duration_ms": 188440,
+      "name": "Knees",
+      "url": "https://open.spotify.com/track/49WaJosNna7DBveejaBjra"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
+        "name": "Songs from the Deepwater",
+        "url": "https://open.spotify.com/album/5c1WlgOeb83vuE1cVROyOd"
+      },
+      "artists": [
+        {
+          "name": "Stone From the Sky",
+          "url": "https://open.spotify.com/artist/1uJnxjKOkMlCa2iZOW3GzD"
+        }
+      ],
+      "duration_ms": 284098,
+      "name": "Le Squinfus",
+      "url": "https://open.spotify.com/track/39Rcz81y7E41a7WObG37kn"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
         "name": "Vacuum Sealed",
         "url": "https://open.spotify.com/album/1h6Mngi160e472DTepN8qD"
       },
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Songs from the Deepwater",
-        "url": "https://open.spotify.com/album/5c1WlgOeb83vuE1cVROyOd"
-      },
-      "artists": [
-        {
-          "name": "Stone From the Sky",
-          "url": "https://open.spotify.com/artist/1uJnxjKOkMlCa2iZOW3GzD"
-        }
-      ],
-      "duration_ms": 284098,
-      "name": "Le Squinfus",
-      "url": "https://open.spotify.com/track/39Rcz81y7E41a7WObG37kn"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Straight-Jacket",
         "url": "https://open.spotify.com/album/1I8YjgUFSqw2N85hljqRMc"
       },
@@ -1135,38 +1135,6 @@
       "duration_ms": 123400,
       "name": "Ritalin",
       "url": "https://open.spotify.com/track/70A8T4BtU7PNmQMVOflMEb"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "Freakenstein",
-        "url": "https://open.spotify.com/album/46CswcgmRweHhj7oSvqeS4"
-      },
-      "artists": [
-        {
-          "name": "Th Da Freak",
-          "url": "https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd"
-        }
-      ],
-      "duration_ms": 223421,
-      "name": "Peeling the Onion",
-      "url": "https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "Centaur Desire",
-        "url": "https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np"
-      },
-      "artists": [
-        {
-          "name": "J.C. Sat\u00e0n",
-          "url": "https://open.spotify.com/artist/3YdIpKk40myJ3aC29izFRW"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "No Brain No Shame",
-      "url": "https://open.spotify.com/track/634Xqm8fG8J1cGymJ51Khy"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1187,18 +1155,50 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Too Late",
-        "url": "https://open.spotify.com/album/4vxSmhPj7cz8B1Pqu1Ygdy"
+        "name": "Life Is Unfair",
+        "url": "https://open.spotify.com/album/5QTtQjMlep4CE3893O1Nwo"
       },
       "artists": [
         {
-          "name": "Shady Fat Kats",
-          "url": "https://open.spotify.com/artist/2ZgDtiPPJJhephke84L7BD"
+          "name": "DYE CRAP",
+          "url": "https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x"
         }
       ],
-      "duration_ms": 216047,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/0nHJq23KJ6Fb34tHeC3qtX"
+      "duration_ms": 135750,
+      "name": "Scatterbrain",
+      "url": "https://open.spotify.com/track/6bvf9UBmxgD8CzroXEkPYr"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Centaur Desire",
+        "url": "https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np"
+      },
+      "artists": [
+        {
+          "name": "J.C. Sat\u00e0n",
+          "url": "https://open.spotify.com/artist/3YdIpKk40myJ3aC29izFRW"
+        }
+      ],
+      "duration_ms": 209426,
+      "name": "No Brain No Shame",
+      "url": "https://open.spotify.com/track/634Xqm8fG8J1cGymJ51Khy"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Freakenstein",
+        "url": "https://open.spotify.com/album/46CswcgmRweHhj7oSvqeS4"
+      },
+      "artists": [
+        {
+          "name": "Th Da Freak",
+          "url": "https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd"
+        }
+      ],
+      "duration_ms": 223421,
+      "name": "Peeling the Onion",
+      "url": "https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1219,34 +1219,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Vomit Candy",
-        "url": "https://open.spotify.com/album/3enD08oLyPBEvFL5vSufJF"
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/4vxSmhPj7cz8B1Pqu1Ygdy"
       },
       "artists": [
         {
-          "name": "Johnny Mafia",
-          "url": "https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY"
+          "name": "Shady Fat Kats",
+          "url": "https://open.spotify.com/artist/2ZgDtiPPJJhephke84L7BD"
         }
       ],
-      "duration_ms": 163186,
-      "name": "Vomit Candy",
-      "url": "https://open.spotify.com/track/21ir1Jx963He5dvy6WeFg5"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "Life Is Unfair",
-        "url": "https://open.spotify.com/album/5QTtQjMlep4CE3893O1Nwo"
-      },
-      "artists": [
-        {
-          "name": "DYE CRAP",
-          "url": "https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x"
-        }
-      ],
-      "duration_ms": 135750,
-      "name": "Scatterbrain",
-      "url": "https://open.spotify.com/track/6bvf9UBmxgD8CzroXEkPYr"
+      "duration_ms": 216047,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/0nHJq23KJ6Fb34tHeC3qtX"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
+        "name": "Vomit Candy",
+        "url": "https://open.spotify.com/album/3enD08oLyPBEvFL5vSufJF"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mafia",
+          "url": "https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY"
+        }
+      ],
+      "duration_ms": 163186,
+      "name": "Vomit Candy",
+      "url": "https://open.spotify.com/track/21ir1Jx963He5dvy6WeFg5"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
         "name": "Your Great Deception",
         "url": "https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3"
       },
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "De Novo",
-        "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
-      },
-      "artists": [
-        {
-          "name": "Rank-O",
-          "url": "https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF"
-        }
-      ],
-      "duration_ms": 192815,
-      "name": "Humans",
-      "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "charivari",
         "url": "https://open.spotify.com/album/3V6SbIMpgP3mEeYfL40yJQ"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 216346,
       "name": "playroom",
       "url": "https://open.spotify.com/track/0O57HN2JOSVjxSI0ajb0Bd"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "De Novo",
+        "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
+      },
+      "artists": [
+        {
+          "name": "Rank-O",
+          "url": "https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF"
+        }
+      ],
+      "duration_ms": 192815,
+      "name": "Humans",
+      "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "From Blue",
-        "url": "https://open.spotify.com/album/2Tkh9QIKdZ7h4nURbfv5xb"
-      },
-      "artists": [
-        {
-          "name": "Uncut",
-          "url": "https://open.spotify.com/artist/1VnwZ4jMNVIsOnR2X5VwYs"
-        }
-      ],
-      "duration_ms": 249946,
-      "name": "Gold Digger Woman",
-      "url": "https://open.spotify.com/track/6NnzPYNCUGzxiNhSdAVWyO"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/72enbv0nkgZK6bnIUh9fNj"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 189803,
       "name": "Moments",
       "url": "https://open.spotify.com/track/1ANlexfiMuDYl6T6G8o93v"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "From Blue",
+        "url": "https://open.spotify.com/album/2Tkh9QIKdZ7h4nURbfv5xb"
+      },
+      "artists": [
+        {
+          "name": "Uncut",
+          "url": "https://open.spotify.com/artist/1VnwZ4jMNVIsOnR2X5VwYs"
+        }
+      ],
+      "duration_ms": 249946,
+      "name": "Gold Digger Woman",
+      "url": "https://open.spotify.com/track/6NnzPYNCUGzxiNhSdAVWyO"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Pictures of a Century",
-        "url": "https://open.spotify.com/album/2tNX8NTFHnAd2Ipw5rp91N"
-      },
-      "artists": [
-        {
-          "name": "Lane (Love And Noise Experiment)",
-          "url": "https://open.spotify.com/artist/6mAfQASNTrLERLgZYR9hxf"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/5w0zJQuL3t1oHkF0vGAGac"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Electrify Me",
         "url": "https://open.spotify.com/album/1PDzPuWjVMNvzBS6bKlvPu"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 192016,
       "name": "The Underdog",
       "url": "https://open.spotify.com/track/2dpDSs9ydfRgbs2NYOogXb"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Pictures of a Century",
+        "url": "https://open.spotify.com/album/2tNX8NTFHnAd2Ipw5rp91N"
+      },
+      "artists": [
+        {
+          "name": "Lane (Love And Noise Experiment)",
+          "url": "https://open.spotify.com/artist/6mAfQASNTrLERLgZYR9hxf"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/5w0zJQuL3t1oHkF0vGAGac"
     },
     {
       "added_at": "2024-07-15 21:15:50",

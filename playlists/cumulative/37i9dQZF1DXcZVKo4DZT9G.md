@@ -2,9 +2,9 @@
 
 ### [クレヨンしんちゃん\-Crayon Shinchan\-](https://open.spotify.com/playlist/37i9dQZF1DXcZVKo4DZT9G)
 
-> Theme songs from TV/ movie series of "Crayon Shinchan"! クレヨンしんちゃんのテレビアニメ主題歌、映画シリーズ歴代主題歌などを辿る公式プレイリスト！©臼井儀人／双葉社・シンエイ・テレビ朝日・ADK 2022
+> Theme songs from TV/ movie series of "Crayon Shinchan"! クレヨンしんちゃんのテレビアニメ主題歌、映画シリーズ歴代主題歌などを辿る公式プレイリスト！©︎臼井儀人／双葉社・シンエイ・テレビ朝日・ＡＤＫ 2024
 
-39 songs - 2 hr 32 min
+40 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Shounen yo Uso wo Tsuke!](https://open.spotify.com/track/6N9HY8PRz2EUTBzpQiXLkL) | [渡り廊下走り隊7](https://open.spotify.com/artist/5gauvPoxEs5GOAcs0tdW6K) | [Shounen yo Uso wo Tsuke! \(First Edition C\)](https://open.spotify.com/album/21QQWIp5xMyqMCh5kK59dG) | 4:38 | 2023-07-30 | 2024-04-19 |
 | [SUPER SHIRO](https://open.spotify.com/track/4I06IqH4OPB6Ah1OXlBBZD) | [mewhan](https://open.spotify.com/artist/13tttiaoECFPQKEigVnYU6) | [SUPER SHIRO](https://open.spotify.com/album/6EWm97Xd7mrZWSXFQ1dX02) | 2:23 | 2023-07-30 |  |
 | [『しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜』まもなく公開](https://open.spotify.com/track/2kKVUTLDGmE8l8Vn9tdQLq) | [クレヨンしんちゃん](https://open.spotify.com/artist/3VMX5c6MzmRUzs2ek9l6vN) | [『しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜』まもなく公開](https://open.spotify.com/album/20D0DFc7SZvfqyFG3h1Eu3) | 0:27 | 2023-07-30 | 2023-08-05 |
-| [『しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜』大ヒット上映中](https://open.spotify.com/track/07ez3b5FLN4HmXOeRkBnjO) | [クレヨンしんちゃん](https://open.spotify.com/artist/3VMX5c6MzmRUzs2ek9l6vN) | [『しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜』大ヒット上映中](https://open.spotify.com/album/3UBd09f4vBZnKGaB2O4Zpu) | 0:35 | 2023-08-03 |  |
+| [『しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜』大ヒット上映中](https://open.spotify.com/track/07ez3b5FLN4HmXOeRkBnjO) | [クレヨンしんちゃん](https://open.spotify.com/artist/3VMX5c6MzmRUzs2ek9l6vN) | [『しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜』大ヒット上映中](https://open.spotify.com/album/3UBd09f4vBZnKGaB2O4Zpu) | 0:35 | 2023-08-03 | 2024-08-02 |
 | [ありの歌](https://open.spotify.com/track/5AoL1SV17GvfEpXrhxaGbb) | [Yanawaraba](https://open.spotify.com/artist/26fgUj6cT6YrmPCc4Ey3e3) | [結\~ベスト&コラボレーション\~/ベスト盤](https://open.spotify.com/album/33QyXOCv3TF3N9o6gaLain) | 2:27 | 2023-08-03 |  |
 | [うたをうたおう](https://open.spotify.com/track/4HVzTENSxdLPwbvnX5acod) | [Daijiman Brothers Band](https://open.spotify.com/artist/3XA6oxaRzxYNoLwDeOTu36) | [ゴールデン★ベスト 大事MANブラザーズバンド](https://open.spotify.com/album/0ivMGCmbCGMG3WeDLjUayS) | 4:40 | 2023-08-03 |  |
 | [うたをうたおう](https://open.spotify.com/track/4yM0EWM14ST6g7rmuOfWue) | [Daijiman Brothers Band](https://open.spotify.com/artist/3XA6oxaRzxYNoLwDeOTu36) | [ゴールデン★ベスト 大事MANブラザーズバンド](https://open.spotify.com/album/34uGoAPw10Krk7VV1sQ2Qt) | 4:40 | 2023-07-30 | 2024-04-19 |
@@ -45,6 +45,7 @@
 | [夢のENDはいつも目覚まし!](https://open.spotify.com/track/5xtog12CYKqANej2qR16Zo) | [B.B.Kamattechan\(B.B.QUEENS+ShinseiKamattechan\)](https://open.spotify.com/artist/76aIAthpIxYVJ7a90q1mRt) | [夢のENDはいつも目覚まし!](https://open.spotify.com/album/7MVID6NT4fSGigsf9rW38J) | 3:26 | 2023-07-30 |  |
 | [少年よ 嘘をつけ!](https://open.spotify.com/track/0vS2O49M0kUZCHQIyI10KA) | [渡り廊下走り隊7](https://open.spotify.com/artist/5gauvPoxEs5GOAcs0tdW6K) | [少年よ 嘘をつけ!](https://open.spotify.com/album/0CvqNTdZMZbW5b5pQ0R6jo) | 4:38 | 2023-08-03 |  |
 | [希望山脈](https://open.spotify.com/track/4qznC3GkC2Tr1VBXKPg0lz) | [渡り廊下走り隊7](https://open.spotify.com/artist/5gauvPoxEs5GOAcs0tdW6K) | [希望山脈](https://open.spotify.com/album/2oZzO3qIV95g6SHzOuFl5I) | 3:55 | 2023-08-03 |  |
+| [思い出をかけぬけて](https://open.spotify.com/track/6tJFjFarvig3AqDNqeH8Yy) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [ghosts](https://open.spotify.com/album/56Vj2K6rfWoPwLHnF9KUWv) | 3:51 | 2024-08-01 |  |
 | [笑一笑　～シャオイーシャオ！～](https://open.spotify.com/track/5MxjNwjjBW9PtYreT0bV2B) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [笑一笑 ～シャオイーシャオ!～](https://open.spotify.com/album/6vseW0alPTH35JsSsY0CdQ) | 4:39 | 2023-07-30 |  |
 | [陽はまた昇るから](https://open.spotify.com/track/1dRpScsBwVPG7c57gx5dSY) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/2UFCuaFyUfOuudIuzQRNeB) | 4:26 | 2023-07-30 |  |
 

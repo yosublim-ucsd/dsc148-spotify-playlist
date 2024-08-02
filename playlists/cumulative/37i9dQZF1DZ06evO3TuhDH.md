@@ -2,7 +2,7 @@
 
 ### [This Is Coi Leray](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3TuhDH)
 
-> This Is Coi Leray\. Los temas esenciales, todos en una lista.
+> This is Coi Leray\. The essential tracks, all in one playlist.
 
 101 songs - 4 hr 36 min
 

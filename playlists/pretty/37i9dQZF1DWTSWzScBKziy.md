@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover: <a href="spotify:artist:6cbdCv0bmLwcxSVFM7tuyG">John Mark Pantana</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,055 likes - 95 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,078 likes - 95 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 9 | [Every Hallelujah](https://open.spotify.com/track/73TrY0EavVk7zdf5kDAHSz) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Every Hallelujah](https://open.spotify.com/album/0oMgd1Wxy6Otaq4CRQI6SK) | 3:06 |
 | 10 | [My Lord Provided \- Radio Version](https://open.spotify.com/track/19qgs1hdCFfOn56Dmvxhib) | [Coquí](https://open.spotify.com/artist/1uCjP7p7EWy5ZfH2jszK06), [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t), [MUCH MORE](https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs) | [My Lord Provided \(Radio Version\)](https://open.spotify.com/album/2pk8eHUcJ1LmUpX4GLSp9a) | 3:54 |
 | 11 | [GOD DID](https://open.spotify.com/track/63p2x86NKG3b2EMlszRhyx) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC) | [GOD DID](https://open.spotify.com/album/53z2x7AaKwyTaeY6Pir1c4) | 2:20 |
-| 12 | [Father Song](https://open.spotify.com/track/5ZnzeK0guHHU7lVXB19DPy) | [Gideon Roberts](https://open.spotify.com/artist/6jaG4lKI1f0SeeWBCr2bfI) | [Father Song](https://open.spotify.com/album/55IC3yOUiWseZ4MT6yoEgX) | 4:59 |
+| 12 | [Father Song](https://open.spotify.com/track/5ZnzeK0guHHU7lVXB19DPy) | [Gideon Roberts](https://open.spotify.com/artist/6jaG4lKI1f0SeeWBCr2bfI) | [Father Song](https://open.spotify.com/album/55IC3yOUiWseZ4MT6yoEgX) | 4:58 |
 | 13 | [POV](https://open.spotify.com/track/5XSwywSFWmjnd4b7LyEr7i) | [Jesse Labelle](https://open.spotify.com/artist/5xLdSGejmdil911M6q1HdU) | [POV](https://open.spotify.com/album/3rCs08c0meQ5zFAnKKq6qm) | 2:45 |
 | 14 | [Grave Robber](https://open.spotify.com/track/53P5xqwZWOPAuF68mgRD9R) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Grave Robber](https://open.spotify.com/album/7vgffV0RZJhvaQ5PqBK81e) | 2:50 |
 | 15 | [I Love Jesus](https://open.spotify.com/track/2dppBpYsyfUJUNbTDoxq1a) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [I Love Jesus](https://open.spotify.com/album/596PxhjTOrMpb9O9bAZn45) | 2:41 |

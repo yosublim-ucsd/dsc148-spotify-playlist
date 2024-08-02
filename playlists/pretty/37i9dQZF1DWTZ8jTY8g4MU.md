@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: بدر العزي
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,531 likes - 51 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,573 likes - 51 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [الظروف أكبر](https://open.spotify.com/track/3xMPwNuK59wMx8HzmoRcB2) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [الظروف أكبر](https://open.spotify.com/album/5s2Y0spf2Jz2Vvn0FxquXp) | 4:07 |
 | 2 | [احب وصالها](https://open.spotify.com/track/0XhG9GdfCVfl1wNzg5GA3j) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [احب وصالها](https://open.spotify.com/album/0Zsq8nKqVP1MlQPBiGHrNn) | 3:21 |
 | 3 | [لاتشتكين](https://open.spotify.com/track/2195GsujmygK89Ry08fsz8) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [لاتشتكين](https://open.spotify.com/album/1tbg4LCDoRoynCSig52w1r) | 3:37 |
-| 4 | [بحر شوقك](https://open.spotify.com/track/7q6ZrmxcbkWbu885KJZurf) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [بحر شوقك](https://open.spotify.com/album/0tfIRDyimes4HjwHz2VEhF) | 3:32 |
-| 5 | [وش أعذارك؟](https://open.spotify.com/track/7eYxzed6mzLT3dTMr6XqL5) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [وش أعذارك؟](https://open.spotify.com/album/2WiFUfc6Ch5i5DgbjqkiK1) | 3:17 |
-| 6 | [يا غريبة](https://open.spotify.com/track/6NZ74scBJ4KHdHDVeissng) | [الوليد ال عامر](https://open.spotify.com/artist/0zGuiGFQfvEi1kW26nl9oN) | [يا غريبة](https://open.spotify.com/album/6uxbzY1U6jXu4pwgOrDczo) | 7:43 |
-| 7 | [اسعد الله مساك](https://open.spotify.com/track/4VxaWEkocUzAAbdxxdI8QD) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [اسعد الله مساك](https://open.spotify.com/album/1Yj6lPTvFrnMtNr3gtzUcV) | 3:54 |
-| 8 | [Ma Gelt Lak](https://open.spotify.com/track/6Ppjr2AxQ9bnAJWPD7dgLk) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Ma Gelt Lak](https://open.spotify.com/album/0ZoWLDnO4DKALWQXlKxAmX) | 3:19 |
-| 9 | [أنت وحدك](https://open.spotify.com/track/1lvE0CEkI7ui3gIEbEIzvT) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [أنت وحدك](https://open.spotify.com/album/2aIITWEKMUYVbuy0RmzQWr) | 4:07 |
-| 10 | [فقدنا الحبايب](https://open.spotify.com/track/0WXqWrWhraiWz0oMbzRGmV) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu) | [فقدنا الحبايب](https://open.spotify.com/album/7C1hdT0xwFC6Go9dEAduKs) | 4:36 |
-| 11 | [البارحة قلبي](https://open.spotify.com/track/0TNOCBHR9uGQpbFLe89bgN) | [علي الواهبي](https://open.spotify.com/artist/1qkjQSTleIzUxX95HhuKam) | [البارحة قلبي](https://open.spotify.com/album/3QsmwhoUrTaFPTybd6H8ed) | 3:17 |
-| 12 | [شيلة تاج الذهب](https://open.spotify.com/track/7ofLEVQt3Np8VMvXtU8zzn) | [احمد الرجعان](https://open.spotify.com/artist/0xGGbhWB0r6qFy00mvn2VS) | [شيلة تاج الذهب](https://open.spotify.com/album/3pUUjMWm7ikJhVSyh8PVbS) | 4:08 |
-| 13 | [وين خله](https://open.spotify.com/track/4A1GsSwPC727G2bnuYFB0g) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [وين خله](https://open.spotify.com/album/4iTzRBpspqUvC2YjLWb7oQ) | 3:40 |
+| 4 | [يحبك قلبي](https://open.spotify.com/track/5418ozmjWY7SLsRHfviqk1) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [يحبك قلبي](https://open.spotify.com/album/3kqxJyn6LoM7rL3BUUpPbx) | 3:59 |
+| 5 | [بحر شوقك](https://open.spotify.com/track/7q6ZrmxcbkWbu885KJZurf) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [بحر شوقك](https://open.spotify.com/album/0tfIRDyimes4HjwHz2VEhF) | 3:32 |
+| 6 | [وش أعذارك؟](https://open.spotify.com/track/7eYxzed6mzLT3dTMr6XqL5) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [وش أعذارك؟](https://open.spotify.com/album/2WiFUfc6Ch5i5DgbjqkiK1) | 3:17 |
+| 7 | [يا غريبة](https://open.spotify.com/track/6NZ74scBJ4KHdHDVeissng) | [الوليد ال عامر](https://open.spotify.com/artist/0zGuiGFQfvEi1kW26nl9oN) | [يا غريبة](https://open.spotify.com/album/6uxbzY1U6jXu4pwgOrDczo) | 7:43 |
+| 8 | [اسعد الله مساك](https://open.spotify.com/track/4VxaWEkocUzAAbdxxdI8QD) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [اسعد الله مساك](https://open.spotify.com/album/1Yj6lPTvFrnMtNr3gtzUcV) | 3:54 |
+| 9 | [Ma Gelt Lak](https://open.spotify.com/track/6Ppjr2AxQ9bnAJWPD7dgLk) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Ma Gelt Lak](https://open.spotify.com/album/0ZoWLDnO4DKALWQXlKxAmX) | 3:19 |
+| 10 | [أنت وحدك](https://open.spotify.com/track/1lvE0CEkI7ui3gIEbEIzvT) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [أنت وحدك](https://open.spotify.com/album/2aIITWEKMUYVbuy0RmzQWr) | 4:07 |
+| 11 | [فقدنا الحبايب](https://open.spotify.com/track/0WXqWrWhraiWz0oMbzRGmV) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu) | [فقدنا الحبايب](https://open.spotify.com/album/7C1hdT0xwFC6Go9dEAduKs) | 4:36 |
+| 12 | [البارحة قلبي](https://open.spotify.com/track/0TNOCBHR9uGQpbFLe89bgN) | [علي الواهبي](https://open.spotify.com/artist/1qkjQSTleIzUxX95HhuKam) | [البارحة قلبي](https://open.spotify.com/album/3QsmwhoUrTaFPTybd6H8ed) | 3:17 |
+| 13 | [شيلة تاج الذهب](https://open.spotify.com/track/7ofLEVQt3Np8VMvXtU8zzn) | [احمد الرجعان](https://open.spotify.com/artist/0xGGbhWB0r6qFy00mvn2VS) | [شيلة تاج الذهب](https://open.spotify.com/album/3pUUjMWm7ikJhVSyh8PVbS) | 4:08 |
 | 14 | [النوم طيرته عتيبه](https://open.spotify.com/track/3xufOBSM1hZMsPro29IUAI) | [مهنا العتيبي](https://open.spotify.com/artist/4RZtWzM5Vl8Azd2p4jSTEt) | [النوم طيرته عتيبه](https://open.spotify.com/album/1fBabOhLoifhAgHgzQUeqn) | 6:46 |
 | 15 | [خذاني الشوق](https://open.spotify.com/track/33EphTCfbZMceeIyCYt6b6) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [خذاني الشوق](https://open.spotify.com/album/47FXkqqo11NLkP4eQPQ3cL) | 3:25 |
 | 16 | [هيهات يا قلب](https://open.spotify.com/track/5goAVl38dQSTuFOrr79cjL) | [فالح الطوق](https://open.spotify.com/artist/5Qt6zyL5RYskgj1bH9fK6g) | [هيهات يا قلب](https://open.spotify.com/album/3RKuWvYBRL1bgrBtOgzscL) | 2:22 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 50 | [كثير اشتقت](https://open.spotify.com/track/0sqyiIR4M1dwuyEbsyAeow) | [عثمان الشراري](https://open.spotify.com/artist/0YsNrTZe7uAUGwdPmLPNgT) | [كثير اشتقت](https://open.spotify.com/album/113gPgvcLFd3nrQNVkNyGG) | 3:34 |
 | 51 | [‎يا ابن خماش](https://open.spotify.com/track/5poJi9KfMINtm0sZ06nSoD) | [محمد آل نجم](https://open.spotify.com/artist/6XFaew6NT18YAjTawaYaTI) | [‎يا ابن خماش](https://open.spotify.com/album/74qnorGX715jcLNRMmMSds) | 4:02 |
 
-Snapshot ID: `ZqhsgQAAAADgooplbFz94JSk+/WqfpLI`
+Snapshot ID: `Zqv2CQAAAABFJDNSIHbBXkwpV0PiCQS/`

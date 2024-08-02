@@ -4,7 +4,7 @@
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-329 songs - 20 hr 22 min
+331 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Cherry Blossom](https://open.spotify.com/track/31LPgEsk82h6rF7gAxec2C) | [Busters](https://open.spotify.com/artist/094r0lsayLdunB6ymSbMKz) | [Paeonia](https://open.spotify.com/album/1mycYAWkyGUDIMWMDLUJq0) | 3:44 | 2022-06-09 | 2022-06-16 |
 | [Cherry Blossom](https://open.spotify.com/track/60LIER0taABmwhdgi5a5Jc) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Cherry Blossom](https://open.spotify.com/album/6OLVSFzXGaiehp5qMHSa1E) | 3:39 | 2022-07-22 | 2023-06-04 |
 | [Cherry Blossom](https://open.spotify.com/track/6chkvSijAsVW32AkSZKyza) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Cherry Blossom](https://open.spotify.com/album/03JBIkmy6FCwDRUX6ToxgB) | 3:39 | 2022-05-11 | 2022-07-29 |
+| [Cherry Pink](https://open.spotify.com/track/7afB8JJAPlRQxZOUcl8cqo) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 3:17 | 2024-08-01 |  |
 | [City](https://open.spotify.com/track/38qecpqjU5yzD7bFwU6GKL) | [정은재](https://open.spotify.com/artist/6hG6knn5PcWdv4hN0Yhvso) | [City](https://open.spotify.com/album/5tIUoIBCtGC1TYpuoZ2xIF) | 2:42 | 2022-07-04 |  |
 | [City 1:00](https://open.spotify.com/track/0JsaFslY2aeK0gTWfASl9O) | [tang.erine](https://open.spotify.com/artist/3EYKQMtUKUH5LnfJVNjv7S) | [Late summer late night](https://open.spotify.com/album/4CQOPjJ7l5jHPJTEYfViZO) | 2:26 | 2022-05-11 | 2024-06-06 |
 | [City Drive](https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [City Drive](https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1) | 3:27 | 2022-05-11 |  |
@@ -88,7 +89,8 @@
 | [Dive](https://open.spotify.com/track/0Ots0hGoPjgRw99GdQzJjc) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Dive](https://open.spotify.com/album/314Qk4Awu61HcBTSNJ7ypm) | 3:41 | 2022-07-22 | 2022-11-03 |
 | [Dive](https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Dive](https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7) | 3:41 | 2022-09-05 | 2024-04-19 |
 | [Dive](https://open.spotify.com/track/71YHNeT3TMUnV1165mgRbO) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Dive](https://open.spotify.com/album/4gn113ACCBiiIr6XtCV3Mc) | 3:41 | 2022-05-11 | 2022-07-29 |
-| [Dive in Love](https://open.spotify.com/track/0guaStWjhEAoYmvOi9sRLF) | [Taeha](https://open.spotify.com/artist/6iP9MWxKM8aS2xlBPKZXlw) | [Dive in Love](https://open.spotify.com/album/4ZColYa5QtrglVwxtz5NN7) | 3:39 | 2024-03-29 |  |
+| [Dive in Love](https://open.spotify.com/track/0guaStWjhEAoYmvOi9sRLF) | [Taeha](https://open.spotify.com/artist/6iP9MWxKM8aS2xlBPKZXlw) | [Dive in Love](https://open.spotify.com/album/4ZColYa5QtrglVwxtz5NN7) | 3:39 | 2024-03-29 | 2024-08-02 |
+| [Dive in Love](https://open.spotify.com/track/6oZpMV2ivI5vGVEi0DNvIo) | [Taeha](https://open.spotify.com/artist/6iP9MWxKM8aS2xlBPKZXlw) | [City Lights \(The Mini Album\)](https://open.spotify.com/album/3fCyde4soVFdmuQTMFTKkL) | 3:39 | 2024-08-01 |  |
 | [Diver](https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [I ZIP](https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB) | 3:10 | 2023-05-05 | 2024-05-08 |
 | [Diver](https://open.spotify.com/track/4YWTrUVmmvULMJviDOzMg0) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [I ZIP](https://open.spotify.com/album/4wuAqejGxm4tQW952IKfHI) | 3:10 | 2024-03-29 | 2024-04-19 |
 | [Dolls](https://open.spotify.com/track/1XxT5GxDa5GD8hnhTK2AD6) | [9MUSES](https://open.spotify.com/artist/55tJwpPIz9BMrSLM45iEXX) | [DOLLS](https://open.spotify.com/album/3gCmOfwfMprkm469ZUyZ6m) | 3:26 | 2022-05-11 |  |
@@ -175,7 +177,7 @@
 | [LOVE GAME](https://open.spotify.com/track/5Wa52f7Nem1sQSmpGylpsL) | [Iris 아이리스](https://open.spotify.com/artist/5qPEsDaKe3GFxuTXckfAad) | [LOVE GAME](https://open.spotify.com/album/0WCVzEaKrHPONMERGDE7Ui) | 3:02 | 2022-05-11 | 2022-07-25 |
 | [Love in TV World](https://open.spotify.com/track/71gxvSj62Daqer8F57b22C) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Love in TV World](https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ) | 4:03 | 2022-05-11 |  |
 | [Love Note!](https://open.spotify.com/track/0NfXZxnw1e6HdEJzcoWVzF) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [Love Note!](https://open.spotify.com/album/01moeo0CfiDeWL7irbhlEq) | 3:14 | 2022-07-13 |  |
-| [LOVE SEEKER](https://open.spotify.com/track/35lDSBBNjB8chnTjMrmzYQ) | [JD](https://open.spotify.com/artist/6BJ76jC5b2bwoRVKrJg2qW) | [LOVE SEEKER](https://open.spotify.com/album/28G2KFtO10rs5ohSIuNdTb) | 3:26 | 2022-05-11 |  |
+| [LOVE SEEKER](https://open.spotify.com/track/35lDSBBNjB8chnTjMrmzYQ) | [JD](https://open.spotify.com/artist/6BJ76jC5b2bwoRVKrJg2qW) | [LOVE SEEKER](https://open.spotify.com/album/28G2KFtO10rs5ohSIuNdTb) | 3:26 | 2022-05-11 | 2024-08-02 |
 | [Love Story](https://open.spotify.com/track/4BtcmECLsMxurQobTp932q) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [WINTER CITY](https://open.spotify.com/album/34684YNjQKgceU3s6D9bx9) | 4:01 | 2022-05-11 | 2022-07-14 |
 | [Love visible](https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl) | [Love visible](https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg) | 3:05 | 2023-07-13 |  |
 | [Loveholic](https://open.spotify.com/track/6ti3JvY3ZSdqvTA7PaSA1e) | [LIM JIMIN](https://open.spotify.com/artist/6MR6N2h4KSNmJ26OSrROYh) | [MINI](https://open.spotify.com/album/74DqQrYGTSS6NfqZY7Vml0) | 3:07 | 2022-05-11 |  |

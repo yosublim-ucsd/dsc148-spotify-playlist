@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Childish Gambino
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,327,787 likes - 101 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327,831 likes - 101 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 13 | [Autograph](https://open.spotify.com/track/6J8ZggXxpGiOjB3Pm9Alji) | [Nicole Miglis](https://open.spotify.com/artist/1mmKns9q559kAZeHbKeAu2) | [Autograph](https://open.spotify.com/album/5fKfiiXvsXYL7Nhexg47cv) | 3:54 |
 | 14 | [Katana](https://open.spotify.com/track/4IDVtE6XNoPicVq3b58pep) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Katana](https://open.spotify.com/album/1tUE0TmYVuoHIgEt1MwlZo) | 2:58 |
 | 15 | [MANTO](https://open.spotify.com/track/7Gu0awrdJUvfRNDoXIIAMF) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [Sid Vashi](https://open.spotify.com/artist/6wD4PrOL4VPp0SDCtpbtba), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6) | [MANTO](https://open.spotify.com/album/59yhLJyas2piQCsJ74N5SL) | 4:39 |
-| 16 | [Life Size](https://open.spotify.com/track/2MktD7t0SE7FOeVWSdoEGX) | [Mahalia](https://open.spotify.com/artist/6mU3WkvcWgHoNG5OlLdsOz), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [Life Size](https://open.spotify.com/album/46OasNzqh720kxVoXB7YMC) | 2:31 |
+| 16 | [Life Size](https://open.spotify.com/track/2MktD7t0SE7FOeVWSdoEGX) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [Life Size](https://open.spotify.com/album/46OasNzqh720kxVoXB7YMC) | 2:31 |
 | 17 | [Satellite Business 2.0](https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Satellite Business 2.0](https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb) | 4:53 |
 | 18 | [SUPERSTAR](https://open.spotify.com/track/1UHftfgNHxCF2vw3LmJBsi) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [ITS NOT THAT DEEP](https://open.spotify.com/album/6UAa59miWIjKKbpqVdHfTB) | 1:57 |
 | 19 | [Perfect Pinterest Garden](https://open.spotify.com/track/1VD9irJC3S3cyKrYoq9ymL) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [SMILE! :D](https://open.spotify.com/album/2iS4pBIiQf4sCTJLZ5n8dy) | 2:28 |

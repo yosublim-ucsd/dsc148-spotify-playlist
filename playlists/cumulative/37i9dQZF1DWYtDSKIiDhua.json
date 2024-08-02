@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: Rangga Jones",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: FLO",
   "name": "mood.",
   "tracks": [
     {
@@ -781,6 +781,28 @@
     },
     {
       "album": {
+        "name": "APRIL'S COLD FEET",
+        "url": "https://open.spotify.com/album/5ClKkXkMNcML6hlBQltVMf"
+      },
+      "artists": [
+        {
+          "name": "Apriltwentyfifth",
+          "url": "https://open.spotify.com/artist/0nIW8FTnhYJhShO7cDR3PL"
+        },
+        {
+          "name": "zekke",
+          "url": "https://open.spotify.com/artist/2tc63PQNdNFqJb2caym6IZ"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97250,
+      "name": "APRIL'S COLD FEET",
+      "url": "https://open.spotify.com/track/6xyZpoycyhytaa361QBvCp"
+    },
+    {
+      "album": {
         "name": "TYLA",
         "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
       },
@@ -1455,6 +1477,24 @@
     },
     {
       "album": {
+        "name": "BOOTYCAKE",
+        "url": "https://open.spotify.com/album/1l247yJZUgGUj9X1n0dFkt"
+      },
+      "artists": [
+        {
+          "name": "LANG",
+          "url": "https://open.spotify.com/artist/0uXKREU1q51G1LJ1zTg2Cj"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120263,
+      "name": "BOOTYCAKE",
+      "url": "https://open.spotify.com/track/0CRy6FCPtXC81L2MdRxx7j"
+    },
+    {
+      "album": {
         "name": "Djesse Vol. 4",
         "url": "https://open.spotify.com/album/1GuGsOmED8MDNw3D1SISgU"
       },
@@ -1550,7 +1590,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 205500,
       "name": "Boy Bye",
       "url": "https://open.spotify.com/track/4vZqE8iZ1wYFqlmeOB72nh"
@@ -1927,6 +1967,24 @@
     },
     {
       "album": {
+        "name": "Can't stop",
+        "url": "https://open.spotify.com/album/7bL71df5LKdOuE0vShAnwZ"
+      },
+      "artists": [
+        {
+          "name": "Sincere",
+          "url": "https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131715,
+      "name": "Can't stop",
+      "url": "https://open.spotify.com/track/2WeNY2fPswb6XmHEAfJ5cr"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df"
       },
@@ -2134,7 +2192,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 179123,
       "name": "Charged Up",
       "url": "https://open.spotify.com/track/4HN6CicOpFp1nrkxHFM3Gt"
@@ -2182,6 +2240,24 @@
       "duration_ms": 225246,
       "name": "Cheatback",
       "url": "https://open.spotify.com/track/157HuQLoRKG4r3zqQU2bwN"
+    },
+    {
+      "album": {
+        "name": "Check",
+        "url": "https://open.spotify.com/album/3uhK5DdHbrr30wPwEIRTTW"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165106,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD"
     },
     {
       "album": {
@@ -2586,6 +2662,24 @@
       "duration_ms": 173002,
       "name": "CONTROL",
       "url": "https://open.spotify.com/track/61aC6Zm2G2dfLLLa7gwLeZ"
+    },
+    {
+      "album": {
+        "name": "Conversation With Myself",
+        "url": "https://open.spotify.com/album/0O5PcFsumLLPZL8D9y1BDa"
+      },
+      "artists": [
+        {
+          "name": "Pabylon",
+          "url": "https://open.spotify.com/artist/1Bw6PlMIF1Vm2suJcgyA8E"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185135,
+      "name": "Conversation With Myself",
+      "url": "https://open.spotify.com/track/2cDezjcUYsBR5ZMt7PSjlh"
     },
     {
       "album": {
@@ -3278,7 +3372,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 194200,
       "name": "DOMINO",
       "url": "https://open.spotify.com/track/3HZwxfaiby2jaWKL7hrzD4"
@@ -4202,6 +4296,28 @@
       "duration_ms": 196933,
       "name": "Fatal Attraction",
       "url": "https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo"
+    },
+    {
+      "album": {
+        "name": "FAVORITE",
+        "url": "https://open.spotify.com/album/7mJhRBgrEAxIXwlgpZohRd"
+      },
+      "artists": [
+        {
+          "name": "Timmy Albert",
+          "url": "https://open.spotify.com/artist/4acGozsQZscrP4YKMg2Xwn"
+        },
+        {
+          "name": "Manu Guzman",
+          "url": "https://open.spotify.com/artist/5vwF4HWK0KvpgWWxQIQfLC"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212442,
+      "name": "FAVORITE",
+      "url": "https://open.spotify.com/track/60yQbWJmWcawlhxalDuLkE"
     },
     {
       "album": {
@@ -5847,6 +5963,24 @@
     },
     {
       "album": {
+        "name": "Sophcore",
+        "url": "https://open.spotify.com/album/72ocR4sSbkz2XT5eIA5c1h"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215360,
+      "name": "Hey Girl",
+      "url": "https://open.spotify.com/track/31uxCMxqeSRV7VOW4jFqMK"
+    },
+    {
+      "album": {
         "name": "Hide & Seek",
         "url": "https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe"
       },
@@ -7163,6 +7297,24 @@
     },
     {
       "album": {
+        "name": "gimbap",
+        "url": "https://open.spotify.com/album/50xp8elLZomzlu6uE4RebW"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210680,
+      "name": "it's my fault",
+      "url": "https://open.spotify.com/track/3CQJRcZf9yNgIDCQBllfxx"
+    },
+    {
+      "album": {
         "name": "It's Still You",
         "url": "https://open.spotify.com/album/0QjArYn8hJmQ4N4n2FG2YQ"
       },
@@ -7382,6 +7534,24 @@
       "duration_ms": 198612,
       "name": "Killer",
       "url": "https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz"
+    },
+    {
+      "album": {
+        "name": "KNEW IT",
+        "url": "https://open.spotify.com/album/6yslHTNtBuq3h32V506VLY"
+      },
+      "artists": [
+        {
+          "name": "Guiitarima",
+          "url": "https://open.spotify.com/artist/5bjTbW3SokvyaTObxfuJqd"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "KNEW IT",
+      "url": "https://open.spotify.com/track/6yiTqPoI5v9VqgoiYFDIp6"
     },
     {
       "album": {
@@ -8979,6 +9149,24 @@
     },
     {
       "album": {
+        "name": "Mind Is Naked",
+        "url": "https://open.spotify.com/album/5UrAkNxfQAor7gfSglHfHK"
+      },
+      "artists": [
+        {
+          "name": "FIG",
+          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140423,
+      "name": "Mind Is Naked",
+      "url": "https://open.spotify.com/track/7JyBS6M5frEYlH7XEN3wj8"
+    },
+    {
+      "album": {
         "name": "Mind Your Space",
         "url": "https://open.spotify.com/album/30qUkyzXGSnb1iaKRbgRgz"
       },
@@ -9518,6 +9706,24 @@
       "duration_ms": 192064,
       "name": "Nice & Slow - Ryan James Carr Remake",
       "url": "https://open.spotify.com/track/31YudjfCQCpRYDeDMskWGh"
+    },
+    {
+      "album": {
+        "name": "YIN",
+        "url": "https://open.spotify.com/album/3SKAMCBO0FkSyKIO4aqsIs"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Nirvana Blues",
+      "url": "https://open.spotify.com/track/7Kg4EWw7TSiXAczXDQfhSn"
     },
     {
       "album": {
@@ -13111,6 +13317,24 @@
     },
     {
       "album": {
+        "name": "SUPER CALIFORNIA GIRLS",
+        "url": "https://open.spotify.com/album/5kkEJIHCnbVY6bhJhHI77z"
+      },
+      "artists": [
+        {
+          "name": "Thomas Ng",
+          "url": "https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176703,
+      "name": "SUPER CALIFORNIA GIRLS",
+      "url": "https://open.spotify.com/track/4y2eEk8LdvN7neCh7SdNEK"
+    },
+    {
+      "album": {
         "name": "Super-dandelion",
         "url": "https://open.spotify.com/album/32ejvGq6amnYYNOTKtuj9b"
       },
@@ -13256,6 +13480,24 @@
       "duration_ms": 184600,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/5FAUwmHyCfhB04I4hhc7DV"
+    },
+    {
+      "album": {
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/5tmiUYxb4Xx7GgPC8D3LdZ"
+      },
+      "artists": [
+        {
+          "name": "Farrel Hilal",
+          "url": "https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229642,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/5DXX82PVYUYIdAb6czzR6l"
     },
     {
       "album": {
@@ -13909,6 +14151,24 @@
     },
     {
       "album": {
+        "name": "Thing I Desire",
+        "url": "https://open.spotify.com/album/3X175TeVLuIdBCfd61jSDm"
+      },
+      "artists": [
+        {
+          "name": "Jordan Susanto",
+          "url": "https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231253,
+      "name": "Thing I Desire",
+      "url": "https://open.spotify.com/track/6xiR9KifftI2POJ091SlIw"
+    },
+    {
+      "album": {
         "name": "thinkin'",
         "url": "https://open.spotify.com/album/6jLhtPKclICrwmyRycJY68"
       },
@@ -14520,6 +14780,24 @@
       "duration_ms": 183435,
       "name": "u & i",
       "url": "https://open.spotify.com/track/3SOaGw8GfOkOj3Ov2D4VbQ"
+    },
+    {
+      "album": {
+        "name": "For Someone Somewhere Who Isn't Us",
+        "url": "https://open.spotify.com/album/1chZE5RjHe3KrE242WlAIk"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177662,
+      "name": "Under God",
+      "url": "https://open.spotify.com/track/6fFOO5Rdc1U3JCtxCR2O95"
     },
     {
       "album": {

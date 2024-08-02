@@ -1,6 +1,6 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1316071,
+  "num_followers": 1316494,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-07-19 07:04:00",
       "album": {
+        "name": "Trip to Valhalla",
+        "url": "https://open.spotify.com/album/3cLqmhEhqb3sz5U6ocs6ll"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        }
+      ],
+      "duration_ms": 232950,
+      "name": "Trip to Valhalla",
+      "url": "https://open.spotify.com/track/2D9WT9MeG07a26kKU9IGEb"
+    },
+    {
+      "added_at": "2024-07-19 07:04:00",
+      "album": {
         "name": "Explode",
         "url": "https://open.spotify.com/album/2QryHAeKDPpFc5gww7Of3o"
       },
@@ -699,22 +715,6 @@
     {
       "added_at": "2024-07-19 07:04:00",
       "album": {
-        "name": "Trip to Valhalla",
-        "url": "https://open.spotify.com/album/3cLqmhEhqb3sz5U6ocs6ll"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        }
-      ],
-      "duration_ms": 232950,
-      "name": "Trip to Valhalla",
-      "url": "https://open.spotify.com/track/2D9WT9MeG07a26kKU9IGEb"
-    },
-    {
-      "added_at": "2024-07-19 07:04:00",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/2eCwDfttkmm40RzsvDQ9Ok"
       },
@@ -727,26 +727,6 @@
       "duration_ms": 217532,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/0zDUzxZaH3nuhuf1GbwdGs"
-    },
-    {
-      "added_at": "2024-07-19 07:04:00",
-      "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0BmFaRJVXmnZTaOlqc2aFE"
-      },
-      "artists": [
-        {
-          "name": "Basswell",
-          "url": "https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk"
-        },
-        {
-          "name": "So Juice",
-          "url": "https://open.spotify.com/artist/7MBMIGBbRcIAn4zZPOMNKR"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/0yAVKaQr7UxS9PCixQCwYs"
     },
     {
       "added_at": "2024-07-19 07:04:00",
@@ -771,6 +751,26 @@
       "duration_ms": 145032,
       "name": "Queen of Kings - Da Tweekaz x Tungevaag Remix",
       "url": "https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh"
+    },
+    {
+      "added_at": "2024-07-19 07:04:00",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0BmFaRJVXmnZTaOlqc2aFE"
+      },
+      "artists": [
+        {
+          "name": "Basswell",
+          "url": "https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk"
+        },
+        {
+          "name": "So Juice",
+          "url": "https://open.spotify.com/artist/7MBMIGBbRcIAn4zZPOMNKR"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/0yAVKaQr7UxS9PCixQCwYs"
     },
     {
       "added_at": "2024-07-19 07:04:00",
@@ -903,26 +903,6 @@
     {
       "added_at": "2024-07-19 07:04:00",
       "album": {
-        "name": "Battlefield",
-        "url": "https://open.spotify.com/album/5GSLv4dJrExZmK9tvAaeXf"
-      },
-      "artists": [
-        {
-          "name": "Sefa",
-          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
-        },
-        {
-          "name": "Vertile",
-          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
-        }
-      ],
-      "duration_ms": 187794,
-      "name": "Battlefield",
-      "url": "https://open.spotify.com/track/1EbRl91ytoWtnOoLO7Z91p"
-    },
-    {
-      "added_at": "2024-07-19 07:04:00",
-      "album": {
         "name": "Warrior Cry",
         "url": "https://open.spotify.com/album/47EV2t9QoqQ7D3hCr9UJhT"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 236800,
       "name": "Harder State Of Mind",
       "url": "https://open.spotify.com/track/3QeEf7TMugwZkmn0hPmXio"
+    },
+    {
+      "added_at": "2024-07-19 07:04:00",
+      "album": {
+        "name": "Battlefield",
+        "url": "https://open.spotify.com/album/5GSLv4dJrExZmK9tvAaeXf"
+      },
+      "artists": [
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+        },
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "duration_ms": 187794,
+      "name": "Battlefield",
+      "url": "https://open.spotify.com/track/1EbRl91ytoWtnOoLO7Z91p"
     },
     {
       "added_at": "2024-07-19 07:04:00",
@@ -2259,22 +2259,26 @@
     {
       "added_at": "2024-07-19 07:04:00",
       "album": {
-        "name": "Feel The Rhythm",
-        "url": "https://open.spotify.com/album/1iSToSJOSSNjSCuDEEg76H"
+        "name": "Cambodia (Denox Remix)",
+        "url": "https://open.spotify.com/album/4HZa3LEWJo05UoEKeCRucP"
       },
       "artists": [
         {
-          "name": "Primeshock",
-          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
+          "name": "Pulsedriver",
+          "url": "https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp"
         },
         {
-          "name": "Firelite",
-          "url": "https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2"
+          "name": "FSDW",
+          "url": "https://open.spotify.com/artist/4RPg75BaMIfyBb94V8HqCw"
+        },
+        {
+          "name": "Denox",
+          "url": "https://open.spotify.com/artist/6FAQqsLCyQZQBKiOSB4Zch"
         }
       ],
-      "duration_ms": 201483,
-      "name": "Feel The Rhythm",
-      "url": "https://open.spotify.com/track/57lWgVfNM9AMcYRaGbq96T"
+      "duration_ms": 176000,
+      "name": "Cambodia - Denox Remix",
+      "url": "https://open.spotify.com/track/13iggCttHe1aj0O9wVQxC7"
     },
     {
       "added_at": "2024-07-19 07:04:00",
@@ -2299,26 +2303,22 @@
     {
       "added_at": "2024-07-19 07:04:00",
       "album": {
-        "name": "Cambodia (Denox Remix)",
-        "url": "https://open.spotify.com/album/4HZa3LEWJo05UoEKeCRucP"
+        "name": "Feel The Rhythm",
+        "url": "https://open.spotify.com/album/1iSToSJOSSNjSCuDEEg76H"
       },
       "artists": [
         {
-          "name": "Pulsedriver",
-          "url": "https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp"
+          "name": "Primeshock",
+          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
         },
         {
-          "name": "FSDW",
-          "url": "https://open.spotify.com/artist/4RPg75BaMIfyBb94V8HqCw"
-        },
-        {
-          "name": "Denox",
-          "url": "https://open.spotify.com/artist/6FAQqsLCyQZQBKiOSB4Zch"
+          "name": "Firelite",
+          "url": "https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Cambodia - Denox Remix",
-      "url": "https://open.spotify.com/track/13iggCttHe1aj0O9wVQxC7"
+      "duration_ms": 201483,
+      "name": "Feel The Rhythm",
+      "url": "https://open.spotify.com/track/57lWgVfNM9AMcYRaGbq96T"
     },
     {
       "added_at": "2024-07-19 07:04:00",
@@ -2399,26 +2399,6 @@
     {
       "added_at": "2024-07-19 07:04:00",
       "album": {
-        "name": "Where I Belong",
-        "url": "https://open.spotify.com/album/1NPmIyN3g1B42Ii24pVNsd"
-      },
-      "artists": [
-        {
-          "name": "KELTEK",
-          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
-        },
-        {
-          "name": "Devin Wild",
-          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
-        }
-      ],
-      "duration_ms": 165569,
-      "name": "Where I Belong",
-      "url": "https://open.spotify.com/track/2zOCJuQ7QKaceQTaIgLXAO"
-    },
-    {
-      "added_at": "2024-07-19 07:04:00",
-      "album": {
         "name": "DYSYLM",
         "url": "https://open.spotify.com/album/7stU3YRinedh6SaVUlFL1M"
       },
@@ -2435,6 +2415,26 @@
       "duration_ms": 176051,
       "name": "DYSYLM",
       "url": "https://open.spotify.com/track/4tV6ku4jEYw9L5gZuNpCbP"
+    },
+    {
+      "added_at": "2024-07-19 07:04:00",
+      "album": {
+        "name": "Where I Belong",
+        "url": "https://open.spotify.com/album/1NPmIyN3g1B42Ii24pVNsd"
+      },
+      "artists": [
+        {
+          "name": "KELTEK",
+          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
+        },
+        {
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
+        }
+      ],
+      "duration_ms": 165569,
+      "name": "Where I Belong",
+      "url": "https://open.spotify.com/track/2zOCJuQ7QKaceQTaIgLXAO"
     },
     {
       "added_at": "2024-07-19 07:04:00",
@@ -2479,6 +2479,22 @@
     {
       "added_at": "2024-07-19 07:04:00",
       "album": {
+        "name": "Sky Fall",
+        "url": "https://open.spotify.com/album/5jtPNpTgbhoDusNUlRKpsP"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "duration_ms": 215225,
+      "name": "Sky Fall",
+      "url": "https://open.spotify.com/track/1T5vk1tmGkK8cSCSQFOWcD"
+    },
+    {
+      "added_at": "2024-07-19 07:04:00",
+      "album": {
         "name": "Ode To My Body",
         "url": "https://open.spotify.com/album/3gaZDgOzdovrklfNvelPn7"
       },
@@ -2495,22 +2511,6 @@
       "duration_ms": 217500,
       "name": "Ode To My Body",
       "url": "https://open.spotify.com/track/2UtT0Vbj38TUz5rYHy5fQE"
-    },
-    {
-      "added_at": "2024-07-19 07:04:00",
-      "album": {
-        "name": "Sky Fall",
-        "url": "https://open.spotify.com/album/5jtPNpTgbhoDusNUlRKpsP"
-      },
-      "artists": [
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        }
-      ],
-      "duration_ms": 215225,
-      "name": "Sky Fall",
-      "url": "https://open.spotify.com/track/1T5vk1tmGkK8cSCSQFOWcD"
     },
     {
       "added_at": "2024-07-19 07:04:00",
@@ -2635,26 +2635,6 @@
     {
       "added_at": "2024-07-19 07:04:00",
       "album": {
-        "name": "Rave From The Grave",
-        "url": "https://open.spotify.com/album/7BJ7QAzzef1Bsydy4gajiW"
-      },
-      "artists": [
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        },
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp"
-        }
-      ],
-      "duration_ms": 177016,
-      "name": "Rave From The Grave",
-      "url": "https://open.spotify.com/track/5hnmpL3XJwHP9McJ0RSkxl"
-    },
-    {
-      "added_at": "2024-07-19 07:04:00",
-      "album": {
         "name": "Morgenlicht",
         "url": "https://open.spotify.com/album/2z4DqDWBwV9DE4wCG45Cax"
       },
@@ -2675,6 +2655,26 @@
       "duration_ms": 173499,
       "name": "Morgenlicht",
       "url": "https://open.spotify.com/track/7dWbcOsfWgjjM4PIsCBl1D"
+    },
+    {
+      "added_at": "2024-07-19 07:04:00",
+      "album": {
+        "name": "Rave From The Grave",
+        "url": "https://open.spotify.com/album/7BJ7QAzzef1Bsydy4gajiW"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        },
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp"
+        }
+      ],
+      "duration_ms": 177016,
+      "name": "Rave From The Grave",
+      "url": "https://open.spotify.com/track/5hnmpL3XJwHP9McJ0RSkxl"
     },
     {
       "added_at": "2024-07-19 07:04:00",
@@ -2743,6 +2743,22 @@
     {
       "added_at": "2024-07-19 07:04:00",
       "album": {
+        "name": "Music Of The Mind",
+        "url": "https://open.spotify.com/album/1GbybeTHGXQxIdpUsDco8i"
+      },
+      "artists": [
+        {
+          "name": "Envine",
+          "url": "https://open.spotify.com/artist/4jxFb0CASzyps1aMpZOxyi"
+        }
+      ],
+      "duration_ms": 183945,
+      "name": "Music Of The Mind",
+      "url": "https://open.spotify.com/track/0KoIrrbZr8rMXhFQK8T5Eg"
+    },
+    {
+      "added_at": "2024-07-19 07:04:00",
+      "album": {
         "name": "Big City Life (BassWar & CaoX Remix)",
         "url": "https://open.spotify.com/album/2wvD2ukyl9sYPTsuyjcdyS"
       },
@@ -2767,18 +2783,22 @@
     {
       "added_at": "2024-07-19 07:04:00",
       "album": {
-        "name": "Music Of The Mind",
-        "url": "https://open.spotify.com/album/1GbybeTHGXQxIdpUsDco8i"
+        "name": "Meine Droge",
+        "url": "https://open.spotify.com/album/3xlsaWASj6MxqlOGSc6vRZ"
       },
       "artists": [
         {
-          "name": "Envine",
-          "url": "https://open.spotify.com/artist/4jxFb0CASzyps1aMpZOxyi"
+          "name": "Jebroer",
+          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+        },
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
         }
       ],
-      "duration_ms": 183945,
-      "name": "Music Of The Mind",
-      "url": "https://open.spotify.com/track/0KoIrrbZr8rMXhFQK8T5Eg"
+      "duration_ms": 166153,
+      "name": "Meine Droge",
+      "url": "https://open.spotify.com/track/0lVT7OTMU8nNQubxsKMYr8"
     },
     {
       "added_at": "2024-07-19 07:04:00",
@@ -2799,26 +2819,6 @@
       "duration_ms": 188076,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/14oLZpSIlMYf62kUthUTLL"
-    },
-    {
-      "added_at": "2024-07-19 07:04:00",
-      "album": {
-        "name": "Meine Droge",
-        "url": "https://open.spotify.com/album/3xlsaWASj6MxqlOGSc6vRZ"
-      },
-      "artists": [
-        {
-          "name": "Jebroer",
-          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
-        },
-        {
-          "name": "Neptunica",
-          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Meine Droge",
-      "url": "https://open.spotify.com/track/0lVT7OTMU8nNQubxsKMYr8"
     },
     {
       "added_at": "2024-07-19 07:04:00",
@@ -2991,6 +2991,26 @@
     {
       "added_at": "2024-07-19 07:04:00",
       "album": {
+        "name": "Moonlight Shadow (Stereo Faces Remix)",
+        "url": "https://open.spotify.com/album/1fFhG0MqQUxtnBHUr2N1tt"
+      },
+      "artists": [
+        {
+          "name": "Empyre One",
+          "url": "https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22"
+        },
+        {
+          "name": "Stereo Faces",
+          "url": "https://open.spotify.com/artist/2XrGGL2JFPro4rOSkqNKBU"
+        }
+      ],
+      "duration_ms": 177656,
+      "name": "Moonlight Shadow - Stereo Faces Remix",
+      "url": "https://open.spotify.com/track/4tjJ8HNYrI3msWoD9ZCIa3"
+    },
+    {
+      "added_at": "2024-07-19 07:04:00",
+      "album": {
         "name": "Children Of Drums (Headhunterz Remix)",
         "url": "https://open.spotify.com/album/2xTalVoSbGKciNMHDwmMG5"
       },
@@ -3011,22 +3031,18 @@
     {
       "added_at": "2024-07-19 07:04:00",
       "album": {
-        "name": "Moonlight Shadow (Stereo Faces Remix)",
-        "url": "https://open.spotify.com/album/1fFhG0MqQUxtnBHUr2N1tt"
+        "name": "Mr Brightside",
+        "url": "https://open.spotify.com/album/2bgIA2bqZ61g9VLf1sOSCR"
       },
       "artists": [
         {
-          "name": "Empyre One",
-          "url": "https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22"
-        },
-        {
-          "name": "Stereo Faces",
-          "url": "https://open.spotify.com/artist/2XrGGL2JFPro4rOSkqNKBU"
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
         }
       ],
-      "duration_ms": 177656,
-      "name": "Moonlight Shadow - Stereo Faces Remix",
-      "url": "https://open.spotify.com/track/4tjJ8HNYrI3msWoD9ZCIa3"
+      "duration_ms": 230412,
+      "name": "Mr Brightside",
+      "url": "https://open.spotify.com/track/6x19X5cibbIjsCtlzsgZEY"
     },
     {
       "added_at": "2024-07-19 07:04:00",
@@ -3051,22 +3067,6 @@
       "duration_ms": 182709,
       "name": "Take Me Away (feat. 4 Strings)",
       "url": "https://open.spotify.com/track/6uwZTxW1wBkWNSAqd1noW8"
-    },
-    {
-      "added_at": "2024-07-19 07:04:00",
-      "album": {
-        "name": "Mr Brightside",
-        "url": "https://open.spotify.com/album/2bgIA2bqZ61g9VLf1sOSCR"
-      },
-      "artists": [
-        {
-          "name": "Tony Junior",
-          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
-        }
-      ],
-      "duration_ms": 230412,
-      "name": "Mr Brightside",
-      "url": "https://open.spotify.com/track/6x19X5cibbIjsCtlzsgZEY"
     },
     {
       "added_at": "2024-07-19 07:04:00",

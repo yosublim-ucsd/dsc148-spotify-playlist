@@ -1,12 +1,12 @@
 {
-  "description": "This Is Chalino Sanchez. Los temas esenciales, todos en una lista.",
-  "num_followers": 305855,
+  "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
+  "num_followers": 305932,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqgtAAAAAABGmk7EeJUrYIWmOyzMC0c5",
+  "snapshot_id": "Zql+gAAAAAAHEgHeKfiHrIzTitAnte+i",
   "tracks": [
     {
       "added_at": null,
@@ -655,22 +655,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chalino S\u00e1nchez y Cornelio Reyna, Vol. 2",
-        "url": "https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8"
+        "name": "Los Inmortales",
+        "url": "https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5"
       },
       "artists": [
         {
           "name": "Chalino Sanchez",
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
         }
       ],
-      "duration_ms": 164942,
-      "name": "Corrido De Olegario",
-      "url": "https://open.spotify.com/track/27xhosbndnCvyQ1pOpUfPj"
+      "duration_ms": 163546,
+      "name": "Que Me Entierren Cantando",
+      "url": "https://open.spotify.com/track/7LgBi7LRxHxpK2tyPc5WUb"
     },
     {
       "added_at": null,
@@ -695,18 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Inmortales",
-        "url": "https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5"
+        "name": "Chalino S\u00e1nchez y Cornelio Reyna, Vol. 2",
+        "url": "https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8"
       },
       "artists": [
         {
           "name": "Chalino Sanchez",
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
         }
       ],
-      "duration_ms": 163546,
-      "name": "Que Me Entierren Cantando",
-      "url": "https://open.spotify.com/track/7LgBi7LRxHxpK2tyPc5WUb"
+      "duration_ms": 164942,
+      "name": "Corrido De Olegario",
+      "url": "https://open.spotify.com/track/27xhosbndnCvyQ1pOpUfPj"
     },
     {
       "added_at": null,

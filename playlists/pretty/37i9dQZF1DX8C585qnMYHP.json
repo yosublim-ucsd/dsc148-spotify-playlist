@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Cavolo Nero on cover. Artwork by Thami Nabil",
-  "num_followers": 168172,
+  "num_followers": 168256,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -433,6 +433,38 @@
       "url": "https://open.spotify.com/track/2Kbxtd7hkjzUYrIO4p2WPl"
     },
     {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
+        "name": "The Turning Ground",
+        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
+      },
+      "artists": [
+        {
+          "name": "Tara Clerkin Trio",
+          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
+        }
+      ],
+      "duration_ms": 265920,
+      "name": "The Turning Ground",
+      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
+    },
+    {
+      "added_at": "2024-05-24 06:00:00",
+      "album": {
+        "name": "Bearded Fireworm",
+        "url": "https://open.spotify.com/album/3oJHNvLKrp708XlgVTjFbG"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Bearded Fireworm",
+      "url": "https://open.spotify.com/track/4M8eiodme1wpFvyVujDz9m"
+    },
+    {
       "added_at": "2024-04-03 15:21:45",
       "album": {
         "name": "I\u2019ll Do Whatever You Want",
@@ -455,38 +487,6 @@
       "duration_ms": 463080,
       "name": "I\u2019ll Do Whatever You Want (feat. Floating Points, Laraaji)",
       "url": "https://open.spotify.com/track/7tv000vU2ikgKNUNmGDeKV"
-    },
-    {
-      "added_at": "2024-05-24 06:00:00",
-      "album": {
-        "name": "Bearded Fireworm",
-        "url": "https://open.spotify.com/album/3oJHNvLKrp708XlgVTjFbG"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Bearded Fireworm",
-      "url": "https://open.spotify.com/track/4M8eiodme1wpFvyVujDz9m"
-    },
-    {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
-        "name": "The Turning Ground",
-        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
-      },
-      "artists": [
-        {
-          "name": "Tara Clerkin Trio",
-          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
-        }
-      ],
-      "duration_ms": 265920,
-      "name": "The Turning Ground",
-      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
     },
     {
       "added_at": "2024-06-19 06:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-06-19 06:00:00",
       "album": {
-        "name": "Constellation",
-        "url": "https://open.spotify.com/album/1gwFi1rWlsDPs5OGk034Yr"
-      },
-      "artists": [
-        {
-          "name": "Caoilfhionn Rose",
-          "url": "https://open.spotify.com/artist/6YRqlhH88xZ7h2WOhwNYOb"
-        }
-      ],
-      "duration_ms": 146316,
-      "name": "Constellation",
-      "url": "https://open.spotify.com/track/2DE5YgIfXiyusl1Pz6TAQd"
-    },
-    {
-      "added_at": "2024-06-19 06:00:00",
-      "album": {
         "name": "Oxido En El Espejo",
         "url": "https://open.spotify.com/album/05TIjD2VizBIseqZeGAS84"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 283000,
       "name": "La Luna me Dijo Esto Detr\u00e1s del Puente",
       "url": "https://open.spotify.com/track/28bX7nVpWmFjU6jG72adUf"
+    },
+    {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Constellation",
+        "url": "https://open.spotify.com/album/1gwFi1rWlsDPs5OGk034Yr"
+      },
+      "artists": [
+        {
+          "name": "Caoilfhionn Rose",
+          "url": "https://open.spotify.com/artist/6YRqlhH88xZ7h2WOhwNYOb"
+        }
+      ],
+      "duration_ms": 146316,
+      "name": "Constellation",
+      "url": "https://open.spotify.com/track/2DE5YgIfXiyusl1Pz6TAQd"
     },
     {
       "added_at": "2024-05-08 03:43:46",
@@ -721,22 +721,6 @@
       "url": "https://open.spotify.com/track/3o9i2sgJhKv8HEFtJWsbxo"
     },
     {
-      "added_at": "2024-06-19 06:00:00",
-      "album": {
-        "name": "the key",
-        "url": "https://open.spotify.com/album/6M5u72DkNgy18V5Lmorsg0"
-      },
-      "artists": [
-        {
-          "name": "mou",
-          "url": "https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt"
-        }
-      ],
-      "duration_ms": 177592,
-      "name": "the key",
-      "url": "https://open.spotify.com/track/77RiM667a2Vx3s0wYo9oE4"
-    },
-    {
       "added_at": "2024-07-03 04:00:00",
       "album": {
         "name": "maybe",
@@ -755,6 +739,22 @@
       "duration_ms": 228680,
       "name": "maybe",
       "url": "https://open.spotify.com/track/3hIMV2XkL0ugoYYcKxOgUE"
+    },
+    {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "the key",
+        "url": "https://open.spotify.com/album/6M5u72DkNgy18V5Lmorsg0"
+      },
+      "artists": [
+        {
+          "name": "mou",
+          "url": "https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt"
+        }
+      ],
+      "duration_ms": 177592,
+      "name": "the key",
+      "url": "https://open.spotify.com/track/77RiM667a2Vx3s0wYo9oE4"
     },
     {
       "added_at": "2024-04-17 04:00:00",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/3MAmbpBgfYnOkaw0i8IF8A"
     },
     {
-      "added_at": "2024-06-19 06:00:00",
-      "album": {
-        "name": "Acryl",
-        "url": "https://open.spotify.com/album/5QxKzsz8n1CEgX5r8EwlWr"
-      },
-      "artists": [
-        {
-          "name": "Damian Dalla Torre",
-          "url": "https://open.spotify.com/artist/2ZcNubl5ligYVy7MCs2JJ9"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Acryl",
-      "url": "https://open.spotify.com/track/0pwv361AU9vBQ85GlFBaXY"
-    },
-    {
       "added_at": "2024-04-17 04:00:00",
       "album": {
         "name": "INVERTIDO",
@@ -857,24 +841,20 @@
       "url": "https://open.spotify.com/track/4XDTVhCmOlZl23aRl7PiJr"
     },
     {
-      "added_at": "2024-05-29 02:04:24",
+      "added_at": "2024-06-19 06:00:00",
       "album": {
-        "name": "r e u n i t e d",
-        "url": "https://open.spotify.com/album/1MEdN1ZXdJZoYKypfcJhwi"
+        "name": "Acryl",
+        "url": "https://open.spotify.com/album/5QxKzsz8n1CEgX5r8EwlWr"
       },
       "artists": [
         {
-          "name": "VAAV Social Club",
-          "url": "https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM"
-        },
-        {
-          "name": "eccograms",
-          "url": "https://open.spotify.com/artist/3tvzE6nSXIxEsEd25Kogn9"
+          "name": "Damian Dalla Torre",
+          "url": "https://open.spotify.com/artist/2ZcNubl5ligYVy7MCs2JJ9"
         }
       ],
-      "duration_ms": 151731,
-      "name": "aaaaaaa",
-      "url": "https://open.spotify.com/track/7FgCK2VgY5G2axORySMNx7"
+      "duration_ms": 174000,
+      "name": "Acryl",
+      "url": "https://open.spotify.com/track/0pwv361AU9vBQ85GlFBaXY"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -907,6 +887,26 @@
       "duration_ms": 225528,
       "name": "As You Sleep By My Feet",
       "url": "https://open.spotify.com/track/4zbHGbSafBOqXBlgjxnIz2"
+    },
+    {
+      "added_at": "2024-05-29 02:04:24",
+      "album": {
+        "name": "r e u n i t e d",
+        "url": "https://open.spotify.com/album/1MEdN1ZXdJZoYKypfcJhwi"
+      },
+      "artists": [
+        {
+          "name": "VAAV Social Club",
+          "url": "https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM"
+        },
+        {
+          "name": "eccograms",
+          "url": "https://open.spotify.com/artist/3tvzE6nSXIxEsEd25Kogn9"
+        }
+      ],
+      "duration_ms": 151731,
+      "name": "aaaaaaa",
+      "url": "https://open.spotify.com/track/7FgCK2VgY5G2axORySMNx7"
     },
     {
       "added_at": "2024-04-17 04:00:00",
@@ -957,22 +957,6 @@
       "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
     },
     {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
-        "name": "hope's return",
-        "url": "https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 103250,
-      "name": "hope's return",
-      "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
-    },
-    {
       "added_at": "2024-06-19 06:00:00",
       "album": {
         "name": "Unrecognisable",
@@ -989,20 +973,20 @@
       "url": "https://open.spotify.com/track/7EMUufH1L5NBPj1OoPSIg5"
     },
     {
-      "added_at": "2024-07-03 04:00:00",
+      "added_at": "2024-05-08 03:43:46",
       "album": {
-        "name": "\u30e6\u30e1\u30df\u30eb\u30d2\u30c4\u30b8",
-        "url": "https://open.spotify.com/album/3cGwdEbtBNlY9dcKRDLg4Z"
+        "name": "hope's return",
+        "url": "https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q"
       },
       "artists": [
         {
-          "name": "\u6b66\u7530\u7406\u6c99",
-          "url": "https://open.spotify.com/artist/6bxmnPmX3y00HkdYaJA697"
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
         }
       ],
-      "duration_ms": 257609,
-      "name": "\u30e6\u30e1\u30df\u30eb\u30d2\u30c4\u30b8",
-      "url": "https://open.spotify.com/track/5ueWV2nmLAatdvgOUUuPFu"
+      "duration_ms": 103250,
+      "name": "hope's return",
+      "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -1037,6 +1021,22 @@
       "url": "https://open.spotify.com/track/2ojrTSSrh4MZR7wG7iyZVK"
     },
     {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
+        "name": "\u30e6\u30e1\u30df\u30eb\u30d2\u30c4\u30b8",
+        "url": "https://open.spotify.com/album/3cGwdEbtBNlY9dcKRDLg4Z"
+      },
+      "artists": [
+        {
+          "name": "\u6b66\u7530\u7406\u6c99",
+          "url": "https://open.spotify.com/artist/6bxmnPmX3y00HkdYaJA697"
+        }
+      ],
+      "duration_ms": 257609,
+      "name": "\u30e6\u30e1\u30df\u30eb\u30d2\u30c4\u30b8",
+      "url": "https://open.spotify.com/track/5ueWV2nmLAatdvgOUUuPFu"
+    },
+    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "Us, In Between The Blinded",
@@ -1051,6 +1051,22 @@
       "duration_ms": 157646,
       "name": "Virtual Forrest",
       "url": "https://open.spotify.com/track/6PpJalnvzcDyktxXalhaU4"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "Bizou",
+        "url": "https://open.spotify.com/album/274PDh5BGP9Bk2u3DoFcuj"
+      },
+      "artists": [
+        {
+          "name": "Alix Fernz",
+          "url": "https://open.spotify.com/artist/2X6rdYH1hHl3TXQCbEqOZQ"
+        }
+      ],
+      "duration_ms": 184745,
+      "name": "Fleur en poly\u00e9thyl\u00e8ne",
+      "url": "https://open.spotify.com/track/0CxBcudUcXks2r5sBXVvcr"
     },
     {
       "added_at": "2024-07-03 04:00:00",
@@ -1083,22 +1099,6 @@
       "duration_ms": 177249,
       "name": "pie \u6279",
       "url": "https://open.spotify.com/track/6y73duDBzv8EjPnXotDTAK"
-    },
-    {
-      "added_at": "2024-04-24 04:00:00",
-      "album": {
-        "name": "Bizou",
-        "url": "https://open.spotify.com/album/274PDh5BGP9Bk2u3DoFcuj"
-      },
-      "artists": [
-        {
-          "name": "Alix Fernz",
-          "url": "https://open.spotify.com/artist/2X6rdYH1hHl3TXQCbEqOZQ"
-        }
-      ],
-      "duration_ms": 184745,
-      "name": "Fleur en poly\u00e9thyl\u00e8ne",
-      "url": "https://open.spotify.com/track/0CxBcudUcXks2r5sBXVvcr"
     },
     {
       "added_at": "2024-05-08 03:43:46",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/7u0jk3Ib4R7Cd719TOpwR9"
     },
     {
-      "added_at": "2024-07-03 04:00:00",
-      "album": {
-        "name": "Psiche Liberata",
-        "url": "https://open.spotify.com/album/69fbH9xB5l1xlsUuUGPOaO"
-      },
-      "artists": [
-        {
-          "name": "Fera",
-          "url": "https://open.spotify.com/artist/0RCFF3ElmHRKsaMmHXE3h7"
-        }
-      ],
-      "duration_ms": 357213,
-      "name": "Milk Tears In The Hug Chamber",
-      "url": "https://open.spotify.com/track/4dxvurpizxe1ZnTCVxOVW4"
-    },
-    {
       "added_at": "2024-05-08 03:43:46",
       "album": {
         "name": "Psychedelic Anxiety",
@@ -1185,20 +1169,20 @@
       "url": "https://open.spotify.com/track/7tzDwhlzkamwtbHFXLzmOV"
     },
     {
-      "added_at": "2024-06-19 06:00:00",
+      "added_at": "2024-07-03 04:00:00",
       "album": {
-        "name": "Princ\u20acss",
-        "url": "https://open.spotify.com/album/51Mlprk1NMBAGxonqSeoBB"
+        "name": "Psiche Liberata",
+        "url": "https://open.spotify.com/album/69fbH9xB5l1xlsUuUGPOaO"
       },
       "artists": [
         {
-          "name": "Princ\u20acss",
-          "url": "https://open.spotify.com/artist/5yW6mt2dbWDMlDw39WswCB"
+          "name": "Fera",
+          "url": "https://open.spotify.com/artist/0RCFF3ElmHRKsaMmHXE3h7"
         }
       ],
-      "duration_ms": 173515,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/66xNqJZaoYfBHYbI2iV3ob"
+      "duration_ms": 357213,
+      "name": "Milk Tears In The Hug Chamber",
+      "url": "https://open.spotify.com/track/4dxvurpizxe1ZnTCVxOVW4"
     },
     {
       "added_at": "2024-06-19 06:00:00",
@@ -1215,6 +1199,22 @@
       "duration_ms": 281374,
       "name": "And There Is Us",
       "url": "https://open.spotify.com/track/3EWIfsVaZAx5tT0IO7qAAu"
+    },
+    {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Princ\u20acss",
+        "url": "https://open.spotify.com/album/51Mlprk1NMBAGxonqSeoBB"
+      },
+      "artists": [
+        {
+          "name": "Princ\u20acss",
+          "url": "https://open.spotify.com/artist/5yW6mt2dbWDMlDw39WswCB"
+        }
+      ],
+      "duration_ms": 173515,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/66xNqJZaoYfBHYbI2iV3ob"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -1329,22 +1329,6 @@
       "url": "https://open.spotify.com/track/29OG197vwFviugdT0mxW3L"
     },
     {
-      "added_at": "2024-05-29 02:04:24",
-      "album": {
-        "name": "\u98a8\u306e\u3088\u3046\u306b",
-        "url": "https://open.spotify.com/album/4v1rmFqeN2zX6MEB2oJD5F"
-      },
-      "artists": [
-        {
-          "name": "\u6b66\u7530\u7406\u6c99",
-          "url": "https://open.spotify.com/artist/6bxmnPmX3y00HkdYaJA697"
-        }
-      ],
-      "duration_ms": 383090,
-      "name": "\u98a8\u306e\u3088\u3046\u306b",
-      "url": "https://open.spotify.com/track/4R6iLmupfyrt4PrvaxMifX"
-    },
-    {
       "added_at": "2024-04-03 15:21:45",
       "album": {
         "name": "House Below the Forest Floor",
@@ -1359,6 +1343,22 @@
       "duration_ms": 188975,
       "name": "House Below the Forest Floor",
       "url": "https://open.spotify.com/track/2xo8YQCTyfYAQOLdeVioK5"
+    },
+    {
+      "added_at": "2024-05-29 02:04:24",
+      "album": {
+        "name": "\u98a8\u306e\u3088\u3046\u306b",
+        "url": "https://open.spotify.com/album/4v1rmFqeN2zX6MEB2oJD5F"
+      },
+      "artists": [
+        {
+          "name": "\u6b66\u7530\u7406\u6c99",
+          "url": "https://open.spotify.com/artist/6bxmnPmX3y00HkdYaJA697"
+        }
+      ],
+      "duration_ms": 383090,
+      "name": "\u98a8\u306e\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/4R6iLmupfyrt4PrvaxMifX"
     },
     {
       "added_at": "2024-05-01 17:01:23",

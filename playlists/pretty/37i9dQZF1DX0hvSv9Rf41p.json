@@ -1,6 +1,6 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with ISOKNOCK",
-  "num_followers": 976627,
+  "num_followers": 976653,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
@@ -1193,20 +1193,20 @@
       "url": "https://open.spotify.com/track/0F1VAVqj021UkGntiDz4nx"
     },
     {
-      "added_at": "2023-12-08 05:00:00",
+      "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Brain Tickler",
-        "url": "https://open.spotify.com/album/2IpYWzZVOZ6BW7JM4KYEqg"
+        "name": "kidsgonemad!",
+        "url": "https://open.spotify.com/album/2rMP8tQaoWn14zQM2zUOzG"
       },
       "artists": [
         {
-          "name": "AHEE",
-          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
         }
       ],
-      "duration_ms": 144134,
-      "name": "Brain Tickler",
-      "url": "https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc"
+      "duration_ms": 241714,
+      "name": "how2fly",
+      "url": "https://open.spotify.com/track/2fga4JgHuq91W9HiTfo9GC"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1261,20 +1261,20 @@
       "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
+      "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "kidsgonemad!",
-        "url": "https://open.spotify.com/album/2rMP8tQaoWn14zQM2zUOzG"
+        "name": "Brain Tickler",
+        "url": "https://open.spotify.com/album/2IpYWzZVOZ6BW7JM4KYEqg"
       },
       "artists": [
         {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+          "name": "AHEE",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
         }
       ],
-      "duration_ms": 241714,
-      "name": "how2fly",
-      "url": "https://open.spotify.com/track/2fga4JgHuq91W9HiTfo9GC"
+      "duration_ms": 144134,
+      "name": "Brain Tickler",
+      "url": "https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1341,42 +1341,6 @@
       "url": "https://open.spotify.com/track/38xfZGIHjdZnSfMuJu7R1Z"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/1XSATvZKbYH1nmxZP6nCVY"
-      },
-      "artists": [
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        }
-      ],
-      "duration_ms": 176145,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/37soHIEtd2aminmS9w6CcF"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Counting (Sammy Virji Remix)",
-        "url": "https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n"
-      },
-      "artists": [
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        },
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 214925,
-      "name": "Counting - Sammy Virji Remix",
-      "url": "https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW"
-    },
-    {
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "Restless",
@@ -1399,6 +1363,42 @@
       "duration_ms": 205241,
       "name": "Restless",
       "url": "https://open.spotify.com/track/2qcatm1Vvi5io4zmIQc2cp"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Counting (Sammy Virji Remix)",
+        "url": "https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 214925,
+      "name": "Counting - Sammy Virji Remix",
+      "url": "https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/1XSATvZKbYH1nmxZP6nCVY"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        }
+      ],
+      "duration_ms": 176145,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/37soHIEtd2aminmS9w6CcF"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1485,24 +1485,28 @@
       "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
     },
     {
-      "added_at": "2024-06-21 04:00:00",
+      "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Floot Loops",
-        "url": "https://open.spotify.com/album/744dIWTMURJ3D8YGLebUxQ"
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/5crYO6MbmHmFPHW9G6hr3p"
       },
       "artists": [
         {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
         },
         {
-          "name": "Cyclops",
-          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "DeathbyRomy",
+          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
         }
       ],
-      "duration_ms": 181655,
-      "name": "Floot Loops",
-      "url": "https://open.spotify.com/track/74geScZgtEMlGbS264lrjD"
+      "duration_ms": 208846,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/68udexWA5NqZQh8YXJkHky"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1523,6 +1527,26 @@
       "duration_ms": 152812,
       "name": "MARAVILLOSA",
       "url": "https://open.spotify.com/track/2gqTJ6kG9qgbRuwsRb66LA"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Floot Loops",
+        "url": "https://open.spotify.com/album/744dIWTMURJ3D8YGLebUxQ"
+      },
+      "artists": [
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        }
+      ],
+      "duration_ms": 181655,
+      "name": "Floot Loops",
+      "url": "https://open.spotify.com/track/74geScZgtEMlGbS264lrjD"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1591,30 +1615,6 @@
       "duration_ms": 161708,
       "name": "F.Y.U.",
       "url": "https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/5crYO6MbmHmFPHW9G6hr3p"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "DeathbyRomy",
-          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
-        }
-      ],
-      "duration_ms": 208846,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/68udexWA5NqZQh8YXJkHky"
     },
     {
       "added_at": "2024-06-07 04:01:30",
@@ -1701,22 +1701,6 @@
       "url": "https://open.spotify.com/track/4oZv0tAHrosvWJKPv2oWNT"
     },
     {
-      "added_at": "2024-04-05 04:00:45",
-      "album": {
-        "name": "i hate edm",
-        "url": "https://open.spotify.com/album/1S2aKEi6MWfp5FmXaS6s9a"
-      },
-      "artists": [
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        }
-      ],
-      "duration_ms": 107586,
-      "name": "i hate edm",
-      "url": "https://open.spotify.com/track/4kxvbzdrOnxh5xadCD429G"
-    },
-    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "F______ LOVE YOU",
@@ -1731,6 +1715,22 @@
       "duration_ms": 140999,
       "name": "F______ LOVE YOU",
       "url": "https://open.spotify.com/track/2LNZWTaw7gf1hZTjOXvZQC"
+    },
+    {
+      "added_at": "2024-04-05 04:00:45",
+      "album": {
+        "name": "i hate edm",
+        "url": "https://open.spotify.com/album/1S2aKEi6MWfp5FmXaS6s9a"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        }
+      ],
+      "duration_ms": 107586,
+      "name": "i hate edm",
+      "url": "https://open.spotify.com/track/4kxvbzdrOnxh5xadCD429G"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -2033,6 +2033,30 @@
       "url": "https://open.spotify.com/track/3G3oGZa8nfjofmhXokFbtU"
     },
     {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
+        "url": "https://open.spotify.com/album/4dKYCpl0dDy01Lw2msVJBU"
+      },
+      "artists": [
+        {
+          "name": "Billy Gillies",
+          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
+        },
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "duration_ms": 176516,
+      "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
+      "url": "https://open.spotify.com/track/2rAB0mDHnaOnfvFmaWUx0j"
+    },
+    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "HERO",
@@ -2067,30 +2091,6 @@
       "duration_ms": 288000,
       "name": "FATE",
       "url": "https://open.spotify.com/track/0pCU13PjrLBP9cC1AsqHQS"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
-        "url": "https://open.spotify.com/album/4dKYCpl0dDy01Lw2msVJBU"
-      },
-      "artists": [
-        {
-          "name": "Billy Gillies",
-          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
-        },
-        {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
-        },
-        {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
-        }
-      ],
-      "duration_ms": 176516,
-      "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
-      "url": "https://open.spotify.com/track/2rAB0mDHnaOnfvFmaWUx0j"
     }
   ],
   "unique_name": "Bass Arcade",

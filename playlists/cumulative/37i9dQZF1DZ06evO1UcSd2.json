@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
+  "description": "This Is Lenin Ram\u00edrez. Los temas esenciales, todos en una lista.",
   "name": "This Is Lenin Ram\u00edrez",
   "tracks": [
     {
@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 166634,
       "name": "Francia",
       "url": "https://open.spotify.com/track/6f40tXp3mcTpSbZAs4vs8b"
@@ -1682,6 +1682,24 @@
       "duration_ms": 165208,
       "name": "Mientras Que Te Olvido",
       "url": "https://open.spotify.com/track/3IJT8oAeZgx3tFQvFuSEd3"
+    },
+    {
+      "album": {
+        "name": "Reinicio",
+        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163392,
+      "name": "Moneda",
+      "url": "https://open.spotify.com/track/6MvsTGagRDZG2ylhdfh8Jx"
     },
     {
       "album": {

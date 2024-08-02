@@ -2,7 +2,7 @@
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: Chappell Roan
+> The best tracks from the world of music\. Cover: Benjamin Kheng
 
 219 songs - 11 hr 44 min
 

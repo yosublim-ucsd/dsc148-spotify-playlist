@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 337895,
+  "num_followers": 337923,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
+        "name": "Can You Hear Me (Acoustic)",
+        "url": "https://open.spotify.com/album/1kIxjFijXTHj2iWviH4HkR"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 174125,
+      "name": "Can You Hear Me - Acoustic",
+      "url": "https://open.spotify.com/track/1G05yZ8DZmh8V0pm58XsqZ"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
         "name": "You Oughta Know (feat. Duomo & Kroma Strings)",
         "url": "https://open.spotify.com/album/4TUEOyHzjvIWimTmQWiG6V"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 247243,
       "name": "You Oughta Know (feat. Duomo & Kroma Strings)",
       "url": "https://open.spotify.com/track/6NdaAfnKGJ5Z7KFrhHrYr2"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
-        "name": "Can You Hear Me (Acoustic)",
-        "url": "https://open.spotify.com/album/1kIxjFijXTHj2iWviH4HkR"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 174125,
-      "name": "Can You Hear Me - Acoustic",
-      "url": "https://open.spotify.com/track/1G05yZ8DZmh8V0pm58XsqZ"
     },
     {
       "added_at": "2024-07-05 19:40:49",

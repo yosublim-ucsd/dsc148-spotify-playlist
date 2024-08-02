@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Apa Kabar Mantan",
+        "url": "https://open.spotify.com/album/1tuqgVSI8gcoUb4fCsqLn1"
+      },
+      "artists": [
+        {
+          "name": "NDX A.K.A.",
+          "url": "https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Apa Kabar Mantan",
+      "url": "https://open.spotify.com/track/36hZ4BvcFwJqpmQDO2vFq0"
+    },
+    {
+      "album": {
         "name": "PUSAKARYA",
         "url": "https://open.spotify.com/album/3bFsqB0xYs8nAkcw2R1vwq"
       },

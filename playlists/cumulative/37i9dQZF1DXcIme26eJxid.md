@@ -2,7 +2,7 @@
 
 ### [Classic Afropop](https://open.spotify.com/playlist/37i9dQZF1DXcIme26eJxid)
 
-> The most known Afro\-pop classics, all in one place! Cover: <a href="spotify:artist:18RkLKfeoUgZflWv9os25W">Miriam Makeba</a>
+> The most known Afro\-pop classics, all in one place! Cover: <a href="https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7?si=I1XPAZ03Q36tFtq\_kGzYYw">Onyeka Onwenu </a>
 
 94 songs - 9 hr 33 min
 

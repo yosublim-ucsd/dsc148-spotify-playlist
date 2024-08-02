@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa KUUMAA.",
+  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa BESS.",
   "name": "#vainsuomihitit",
   "tracks": [
     {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 188960,
       "name": "Corazon (feat. Neo)",
       "url": "https://open.spotify.com/track/31edJBPQJPtk1zDTWMZLU9"
@@ -248,7 +248,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 209640,
       "name": "Ensimm\u00e4inen",
       "url": "https://open.spotify.com/track/50tcwQjG65UpG70enZidJl"
@@ -626,7 +626,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 168752,
       "name": "Kyyneleet sateessa",
       "url": "https://open.spotify.com/track/6LtPm6eJ3xywabrHNWdWPg"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 158159,
       "name": "Maljapuhe",
       "url": "https://open.spotify.com/track/0Qlx6e4luybsQ4nDhhlC1h"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 160614,
       "name": "mandela-efekti",
       "url": "https://open.spotify.com/track/3K0LIP4FNwxTZJ23e9J19d"
@@ -1047,6 +1047,24 @@
     },
     {
       "album": {
+        "name": "Pois pois pois",
+        "url": "https://open.spotify.com/album/573RWpBvjB5VAS88V2dXzv"
+      },
+      "artists": [
+        {
+          "name": "Poju",
+          "url": "https://open.spotify.com/artist/5z9Z1vlOXGvDLBgKfzdswn"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212290,
+      "name": "Pois pois pois",
+      "url": "https://open.spotify.com/track/6c2WnB9iEyjXlqGJOiI4B3"
+    },
+    {
+      "album": {
         "name": "Prinsessa (feat. baka\u00ae)",
         "url": "https://open.spotify.com/album/3oybXiUqKzYBOzQHSfS3ii"
       },
@@ -1066,6 +1084,24 @@
       "duration_ms": 120590,
       "name": "Prinsessa (feat. baka\u00ae)",
       "url": "https://open.spotify.com/track/6ioqZb07eWdepb7NaBt2xA"
+    },
+    {
+      "album": {
+        "name": "Pysyv\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/2c1COKH0Ysq650NMSTp0UG"
+      },
+      "artists": [
+        {
+          "name": "Bee",
+          "url": "https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190358,
+      "name": "Pysyv\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/18H1buVbJxLAYGcUL3sHhe"
     },
     {
       "album": {
@@ -1132,7 +1168,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 177407,
       "name": "Rauhaa",
       "url": "https://open.spotify.com/track/1LgLXYqd3JYcHXfwHbszaZ"
@@ -1154,6 +1190,24 @@
       "duration_ms": 179720,
       "name": "Rikas syd\u00e4n",
       "url": "https://open.spotify.com/track/1S6G4FJjrwxV80c4Ra5isS"
+    },
+    {
+      "album": {
+        "name": "Saanko m\u00e4 luvan",
+        "url": "https://open.spotify.com/album/6KcpOL8g1andfwBer4Iwgf"
+      },
+      "artists": [
+        {
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179235,
+      "name": "Saanko m\u00e4 luvan",
+      "url": "https://open.spotify.com/track/5zFAUq1NZuI6uPaTPCm8Yf"
     },
     {
       "album": {
@@ -1208,6 +1262,24 @@
       "duration_ms": 160011,
       "name": "Satama",
       "url": "https://open.spotify.com/track/1osPz2rgtdywUR6ut6eIMU"
+    },
+    {
+      "album": {
+        "name": "Scatman",
+        "url": "https://open.spotify.com/album/2RWs5Fn0ZTGRaZdsdhhIIp"
+      },
+      "artists": [
+        {
+          "name": "James-J",
+          "url": "https://open.spotify.com/artist/26bXkdCOQ0zRgxWgGOkkg1"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140581,
+      "name": "Scatman",
+      "url": "https://open.spotify.com/track/5hAIsbKA5haCaSo1VkjuQT"
     },
     {
       "album": {
@@ -1557,6 +1629,24 @@
     },
     {
       "album": {
+        "name": "Tuuks mukaan?",
+        "url": "https://open.spotify.com/album/26MOcz03KNxPMx9S00vz6w"
+      },
+      "artists": [
+        {
+          "name": "Ville Veikka",
+          "url": "https://open.spotify.com/artist/17I0wkPmYMfhZXSmWrWX4C"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184333,
+      "name": "Tuuks mukaan?",
+      "url": "https://open.spotify.com/track/0ZRyotx5QQOb1PeIoi0lGP"
+    },
+    {
+      "album": {
         "name": "Ty\u00f6myyr\u00e4",
         "url": "https://open.spotify.com/album/5keKt31j7rsVu02oLSbTrS"
       },
@@ -1612,7 +1702,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 164000,
       "name": "T\u00e4n\u00e4\u00e4n juodaan liikaa (feat. SUOMEN PELI)",
       "url": "https://open.spotify.com/track/7jJDaoCXDuURraNCgYtTfH"
@@ -1634,7 +1724,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 193791,
       "name": "T\u00e4ss\u00e4 hetkess\u00e4 (feat. Ellis)",
       "url": "https://open.spotify.com/track/6QT3vyckLkm5Ya1webQGBG"
@@ -1754,6 +1844,24 @@
       "duration_ms": 205036,
       "name": "Velkaa",
       "url": "https://open.spotify.com/track/5ItsWCQ97a5kt2pFglV9ZN"
+    },
+    {
+      "album": {
+        "name": "Viel yhen kerran",
+        "url": "https://open.spotify.com/album/6Eg1Ua5RJXjfZLCUBzvW4e"
+      },
+      "artists": [
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222016,
+      "name": "Viel yhen kerran",
+      "url": "https://open.spotify.com/track/3ZzNcbE3sBBSRQlvU1jkqd"
     },
     {
       "album": {

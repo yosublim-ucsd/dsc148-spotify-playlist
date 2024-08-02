@@ -194,7 +194,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 195500,
       "name": "Ha'chayim Ha'ele",
       "url": "https://open.spotify.com/track/0j6h27PRdWp5reQDD3IV4V"
@@ -234,6 +234,24 @@
       "duration_ms": 213831,
       "name": "If Whiskey Was A Friend",
       "url": "https://open.spotify.com/track/3DFfLQlJlPDeGrNbktAmy9"
+    },
+    {
+      "album": {
+        "name": "In love Again",
+        "url": "https://open.spotify.com/album/5ysI0lyjbTNUI0w7MoVvHA"
+      },
+      "artists": [
+        {
+          "name": "David Broza",
+          "url": "https://open.spotify.com/artist/3BCJyAgxvYyeIjQyoBU8XL"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "In Love Again",
+      "url": "https://open.spotify.com/track/47jC4oWp7aLnmO5SMkhfU3"
     },
     {
       "album": {
@@ -682,7 +700,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 229000,
       "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
       "url": "https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn"
@@ -842,6 +860,24 @@
       "duration_ms": 272640,
       "name": "\u05d7\u05dc\u05dc\u05d9\u05d5\u05ea - Bonus Track",
       "url": "https://open.spotify.com/track/519zGBHfcoMPuzbhvBQJAR"
+    },
+    {
+      "album": {
+        "name": "\u05d9\u05dc\u05d3\u05d5\u05ea \u05e0\u05e9\u05db\u05d7\u05ea",
+        "url": "https://open.spotify.com/album/5H6W27ABHcNIlEEveTJmHK"
+      },
+      "artists": [
+        {
+          "name": "Yehudit Ravitz",
+          "url": "https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203983,
+      "name": "\u05d9\u05dc\u05d3\u05d5\u05ea \u05e0\u05e9\u05db\u05d7\u05ea",
+      "url": "https://open.spotify.com/track/6oe1xEZ2KzbUyPf8DsO5S5"
     },
     {
       "album": {
@@ -1056,7 +1092,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 247666,
       "name": "\u05dc\u05d7\u05d9\u05d5\u05ea",
       "url": "https://open.spotify.com/track/57AB4nVaoAcCE11UBwOuhB"
@@ -1325,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "\u05e1\u05d9\u05de\u05df \u05d8\u05d5\u05d1",
+        "url": "https://open.spotify.com/album/3BQnNgoc56WMXnUYEZmRwX"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spector",
+          "url": "https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195746,
+      "name": "\u05e1\u05d9\u05de\u05df \u05d8\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/0OxILw9eBRYTDTkV3uJQh4"
+    },
+    {
+      "album": {
         "name": "\u05e2\u05d3 \u05e9\u05ea\u05d7\u05d6\u05d5\u05e8, \u05e2\u05d3 \u05e9\u05ea\u05e9\u05d5\u05d1\u05d9",
         "url": "https://open.spotify.com/album/1PR83IYAtqHfQswH731Jdw"
       },
@@ -1478,7 +1532,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 157177,
       "name": "\u05e6'\u05d5\u05e4 \u05e6'\u05d5\u05e4",
       "url": "https://open.spotify.com/track/6EC5YNG81bMVfxX56u0j9T"
@@ -1614,6 +1668,24 @@
       "duration_ms": 159913,
       "name": "\u05e9\u05dc\u05d5\u05e9\u05ea \u05d4\u05e7\u05d5\u05e4\u05d9\u05dd",
       "url": "https://open.spotify.com/track/5XInMHM9wtgELT7TrFecwe"
+    },
+    {
+      "album": {
+        "name": "\u05ea\u05d5\u05dc\u05d4 \u05d0\u05ea \u05d4\u05e0\u05e2\u05dc\u05d9\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/27TpWs5Id4y8Rg4ElHes1y"
+      },
+      "artists": [
+        {
+          "name": "The Backyard",
+          "url": "https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "\u05ea\u05d5\u05dc\u05d4 \u05d0\u05ea \u05d4\u05e0\u05e2\u05dc\u05d9\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/3aQpw97YFj1zgEx3cXenED"
     },
     {
       "album": {

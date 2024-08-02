@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Satra B.E.N.Z., Alduts Sherdley",
+  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: M.G.L.",
   "name": "Suflet + Sunet",
   "tracks": [
     {
@@ -371,6 +371,24 @@
     },
     {
       "album": {
+        "name": "CONTACT FATAL 3",
+        "url": "https://open.spotify.com/album/1k3zLlEuzno4jdOYetv7Pr"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171162,
+      "name": "CONTACT FATAL 3",
+      "url": "https://open.spotify.com/track/2QpMq4mT7gVriPNQMp0oL7"
+    },
+    {
+      "album": {
         "name": "Dela Dela",
         "url": "https://open.spotify.com/album/16I4fTGWIClUruki1C3Inz"
       },
@@ -502,7 +520,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 166165,
       "name": "Ghici ce?",
       "url": "https://open.spotify.com/track/75rIU7mn7X1jJF70Px3KJi"
@@ -712,7 +730,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 216263,
       "name": "Lupta Continua",
       "url": "https://open.spotify.com/track/2WsUkvcfIp2CJQV84nOcSO"
@@ -994,6 +1012,28 @@
       "duration_ms": 196250,
       "name": "Scandal",
       "url": "https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU"
+    },
+    {
+      "album": {
+        "name": "SCI-FI (cu IRAIDA)",
+        "url": "https://open.spotify.com/album/2DIGNFof9SDrDuzf1PZpyd"
+      },
+      "artists": [
+        {
+          "name": "Serotone",
+          "url": "https://open.spotify.com/artist/7nN2m7VvqkvB9bbFVgzBYn"
+        },
+        {
+          "name": "IRAIDA",
+          "url": "https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "SCI-FI (cu IRAIDA)",
+      "url": "https://open.spotify.com/track/3okomQtoPOKU2MZARYyPiS"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Banda Zeta. Los temas esenciales, todos en una lista.",
-  "num_followers": 2317,
+  "description": "This is Banda Zeta. The essential tracks, all in one playlist.",
+  "num_followers": 2321,
   "original_name": "This Is Banda Zeta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqgtAAAAAAA2V2YQEpdkB1DG+xxHmHZn",
+  "snapshot_id": "Zql+gAAAAADiA8T653dJzQWEHwTa6pXo",
   "tracks": [
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 185280,
-      "name": "A Pesar de Todo",
-      "url": "https://open.spotify.com/track/3WZZXkzNG9tXfVx0t6Pxbz"
+      "duration_ms": 220360,
+      "name": "Bandrobic",
+      "url": "https://open.spotify.com/track/3Y8loiuepocdaDVRthERRL"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 156680,
-      "name": "Derecho De Amarla",
-      "url": "https://open.spotify.com/track/6XU8HRtPHsWYwVzgA7sgZ3"
+      "duration_ms": 187266,
+      "name": "Acariciame",
+      "url": "https://open.spotify.com/track/4D4T9dfFC2D31OvolyhM3R"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 220360,
-      "name": "Bandrobic",
-      "url": "https://open.spotify.com/track/3Y8loiuepocdaDVRthERRL"
+      "duration_ms": 185280,
+      "name": "A Pesar de Todo",
+      "url": "https://open.spotify.com/track/3WZZXkzNG9tXfVx0t6Pxbz"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 187266,
-      "name": "Acariciame",
-      "url": "https://open.spotify.com/track/4D4T9dfFC2D31OvolyhM3R"
+      "duration_ms": 156680,
+      "name": "Derecho De Amarla",
+      "url": "https://open.spotify.com/track/6XU8HRtPHsWYwVzgA7sgZ3"
     },
     {
       "added_at": null,
@@ -667,22 +667,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dame Chamoy",
-        "url": "https://open.spotify.com/album/3OfE5kO16jV59JVJORdG4T"
+        "name": "La Chispa",
+        "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
       },
       "artists": [
-        {
-          "name": "Marea Musical",
-          "url": "https://open.spotify.com/artist/3artnpQ7f3G0xY70vl23TL"
-        },
         {
           "name": "Banda Zeta",
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 146538,
-      "name": "Dame Chamoy",
-      "url": "https://open.spotify.com/track/6KbhwPBfXgZiF82XA03Fhf"
+      "duration_ms": 151066,
+      "name": "All\u00e1 en el oeste",
+      "url": "https://open.spotify.com/track/2M7a8eODNHtBwtmi69yCa8"
     },
     {
       "added_at": null,
@@ -703,18 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Chispa",
-        "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
+        "name": "Dame Chamoy",
+        "url": "https://open.spotify.com/album/3OfE5kO16jV59JVJORdG4T"
       },
       "artists": [
+        {
+          "name": "Marea Musical",
+          "url": "https://open.spotify.com/artist/3artnpQ7f3G0xY70vl23TL"
+        },
         {
           "name": "Banda Zeta",
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 151066,
-      "name": "All\u00e1 en el oeste",
-      "url": "https://open.spotify.com/track/2M7a8eODNHtBwtmi69yCa8"
+      "duration_ms": 146538,
+      "name": "Dame Chamoy",
+      "url": "https://open.spotify.com/track/6KbhwPBfXgZiF82XA03Fhf"
     },
     {
       "added_at": null,
@@ -731,6 +731,38 @@
       "duration_ms": 165214,
       "name": "El Taladro",
       "url": "https://open.spotify.com/track/5m69NmFGChAVKttLI0ImEL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como un Tatuaje",
+        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 166320,
+      "name": "En Que Fall\u00e9",
+      "url": "https://open.spotify.com/track/3b4mdAyMoU7rTqZhFKfukc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00bfDe Qu\u00e9 Color Es Tu Brassiere?",
+        "url": "https://open.spotify.com/album/6sMCzG3HQn7AT6VBPLXAzq"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 188923,
+      "name": "\u00bfDe Qu\u00e9 Color Es Tu Brassiere?",
+      "url": "https://open.spotify.com/track/62UMoTz03A2dHcJY0NISd7"
     },
     {
       "added_at": null,
@@ -755,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como un Tatuaje",
-        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 174013,
-      "name": "La Morena",
-      "url": "https://open.spotify.com/track/0aobwK2k3r8if0ttw2L4Ie"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Donde Estas Corazon",
         "url": "https://open.spotify.com/album/4KeWgca4KdauXP0g26aFRM"
       },
@@ -787,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfDe Qu\u00e9 Color Es Tu Brassiere?",
-        "url": "https://open.spotify.com/album/6sMCzG3HQn7AT6VBPLXAzq"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 188923,
-      "name": "\u00bfDe Qu\u00e9 Color Es Tu Brassiere?",
-      "url": "https://open.spotify.com/track/62UMoTz03A2dHcJY0NISd7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como un Tatuaje",
         "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
       },
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 166320,
-      "name": "En Que Fall\u00e9",
-      "url": "https://open.spotify.com/track/3b4mdAyMoU7rTqZhFKfukc"
+      "duration_ms": 174013,
+      "name": "La Morena",
+      "url": "https://open.spotify.com/track/0aobwK2k3r8if0ttw2L4Ie"
     }
   ],
   "unique_name": "This Is Banda Zeta",

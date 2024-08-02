@@ -3785,6 +3785,24 @@
     },
     {
       "album": {
+        "name": "Roxi",
+        "url": "https://open.spotify.com/album/381pico3dKrtKOi7Dh59at"
+      },
+      "artists": [
+        {
+          "name": "Amir Eid",
+          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190328,
+      "name": "Esmek Eh",
+      "url": "https://open.spotify.com/track/2wEino4lZrzgdKQr9Kuqpw"
+    },
+    {
+      "album": {
         "name": "Esmek Eh",
         "url": "https://open.spotify.com/album/5BeEQxslkgF497LOzD8fBU"
       },
@@ -3796,7 +3814,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 190328,
       "name": "Esmek Eh",
       "url": "https://open.spotify.com/track/3bG2kL6F0M71u4j9Du8lSC"
@@ -4456,7 +4474,7 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-30",
+      "date_removed": null,
       "duration_ms": 177119,
       "name": "Ganeni",
       "url": "https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql"
@@ -4906,10 +4924,28 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 264851,
       "name": "Hagat Gowaya",
       "url": "https://open.spotify.com/track/2E5OAehopM9crGhQ5M77du"
+    },
+    {
+      "album": {
+        "name": "Roxi",
+        "url": "https://open.spotify.com/album/381pico3dKrtKOi7Dh59at"
+      },
+      "artists": [
+        {
+          "name": "Amir Eid",
+          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264851,
+      "name": "Hagat Gowaya",
+      "url": "https://open.spotify.com/track/55AeMQF70ItRtlkXbCMuPR"
     },
     {
       "album": {
@@ -7410,7 +7446,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 156415,
       "name": "Matafetch",
       "url": "https://open.spotify.com/track/0ZGmHDAUSgGV5mCUbtYFe7"
@@ -15826,7 +15862,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 248267,
       "name": "\u0643\u0644 \u0627\u0644\u062d\u0644\u0648\u064a\u0646 \u0648\u0644\u0627 \u0634\u063a\u0644\u0648\u0646\u064a",
       "url": "https://open.spotify.com/track/4ZVWHKVY1HgRkoLkQFdDbR"
@@ -16562,7 +16598,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 180062,
       "name": "\u0645\u0647\u0631\u062c\u0627\u0646 \u0628\u0646\u0643\u0634 \u0639\u0644\u064a \u0634\u063a\u0644\u0647 - \u0648\u0627\u0642\u0641 \u0639\u0644\u064a \u0627\u0644\u0627\u0645\u0647 - \u062e\u0635\u0645\u064a \u062f\u0647 \u062c\u0627\u0644\u064a \u062c\u0647\u062a\u064a",
       "url": "https://open.spotify.com/track/2t0LrmYXjzK0ZeVlTcXjvN"

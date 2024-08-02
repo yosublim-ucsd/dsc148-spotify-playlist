@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Hudson Westbrook",
-  "num_followers": 411403,
+  "num_followers": 411401,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -535,18 +535,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Hungover Again",
-        "url": "https://open.spotify.com/album/6vrhY31BWrTCBS7xzaXLRs"
+        "name": "Do It Anyway",
+        "url": "https://open.spotify.com/album/77esHrN6wMRzbkXUllYjTT"
       },
       "artists": [
         {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+          "name": "Jade Eagleson",
+          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
+        },
+        {
+          "name": "Jake Worthington",
+          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
         }
       ],
-      "duration_ms": 213605,
-      "name": "Hungover Again",
-      "url": "https://open.spotify.com/track/2Fav608uXaDE1F5sTtBKSH"
+      "duration_ms": 170251,
+      "name": "Do It Anyway",
+      "url": "https://open.spotify.com/track/1SUThmS3UmUbNBWDsuqWto"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -599,22 +603,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Do It Anyway",
-        "url": "https://open.spotify.com/album/77esHrN6wMRzbkXUllYjTT"
+        "name": "Hungover Again",
+        "url": "https://open.spotify.com/album/6vrhY31BWrTCBS7xzaXLRs"
       },
       "artists": [
         {
-          "name": "Jade Eagleson",
-          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
-        },
-        {
-          "name": "Jake Worthington",
-          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
         }
       ],
-      "duration_ms": 170251,
-      "name": "Do It Anyway",
-      "url": "https://open.spotify.com/track/1SUThmS3UmUbNBWDsuqWto"
+      "duration_ms": 213605,
+      "name": "Hungover Again",
+      "url": "https://open.spotify.com/track/2Fav608uXaDE1F5sTtBKSH"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Dancin' With The Devil",
+        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
+      },
+      "artists": [
+        {
+          "name": "Josh Ward",
+          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+        }
+      ],
+      "duration_ms": 178848,
+      "name": "Dancin' With The Devil",
+      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Tough Country",
         "url": "https://open.spotify.com/album/4usJHvZr3K0vTvb7bzzw7w"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 243120,
       "name": "Tough Country",
       "url": "https://open.spotify.com/track/20XPXqe5eCGYA5CnVnKUZF"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Dancin' With The Devil",
-        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
-      },
-      "artists": [
-        {
-          "name": "Josh Ward",
-          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
-        }
-      ],
-      "duration_ms": 178848,
-      "name": "Dancin' With The Devil",
-      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "All I Wanna Do Is Drink",
-        "url": "https://open.spotify.com/album/70R3YqEm3BxYOfkumvPdjk"
-      },
-      "artists": [
-        {
-          "name": "Randy Rogers",
-          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
-        },
-        {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "All I Wanna Do Is Drink",
-      "url": "https://open.spotify.com/track/4jHJ3GZtmx5iqjTZoxgMgx"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Kick A Little",
         "url": "https://open.spotify.com/album/4ge2mkLRHL3eVxABHU9hEb"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 227175,
       "name": "Kick A Little",
       "url": "https://open.spotify.com/track/7JVAxrtctxKu5GpmlCCyGL"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "All I Wanna Do Is Drink",
+        "url": "https://open.spotify.com/album/70R3YqEm3BxYOfkumvPdjk"
+      },
+      "artists": [
+        {
+          "name": "Randy Rogers",
+          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
+        },
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "All I Wanna Do Is Drink",
+      "url": "https://open.spotify.com/track/4jHJ3GZtmx5iqjTZoxgMgx"
     },
     {
       "added_at": "2024-07-26 04:00:00",

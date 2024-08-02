@@ -2,9 +2,9 @@
 
 ### [Hip\-Life Hits](https://open.spotify.com/playlist/37i9dQZF1DX9Y4P09E4dNP)
 
-> The big Hip\-Life hits rn\. Cover: Fameye
+> The big Hip\-Life hits rn\. Cover: KiDi and Black Sheriff
 
-209 songs - 14 hr 8 min
+211 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Been A Fool For You](https://open.spotify.com/track/0zNAOKNUzpposhZ5fa2n4d) | [Amakye Dede](https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Been A Fool For You](https://open.spotify.com/album/3Xz3fQysuw2jI6OBGgZz0a) | 4:28 | 2023-12-01 | 2024-03-05 |
 | [Berima Nsu](https://open.spotify.com/track/40mekD2MNFTdijf7T7loG3) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Berima Nsu](https://open.spotify.com/album/1qdpKiWu9xvhzVPWmo6F76) | 2:44 | 2024-06-14 | 2024-07-19 |
 | [Bless Me](https://open.spotify.com/track/2gdDfmkJ4UiEK3cJndPaod) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Bless Me](https://open.spotify.com/album/0lXhV0ckcu9Uu0LFW7uinP) | 4:51 | 2024-03-04 |  |
-| [BOA ME](https://open.spotify.com/track/2KBo8mUTnN4RzB88CCoZE2) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [HOPE PACK](https://open.spotify.com/album/0H8MXFqWkeKnPIWuB3qR1B) | 2:48 | 2024-07-19 |  |
+| [BOA ME](https://open.spotify.com/track/2KBo8mUTnN4RzB88CCoZE2) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [HOPE PACK](https://open.spotify.com/album/0H8MXFqWkeKnPIWuB3qR1B) | 2:48 | 2024-07-19 | 2024-08-02 |
 | [Boom Boom](https://open.spotify.com/track/0c6cJ10SmaO6Ev4XVWIi5Z) | [Omar Sterling](https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T), [Reggie](https://open.spotify.com/artist/2h3HiGNHcAvAY1PbORnvKr), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Boom Boom](https://open.spotify.com/album/4qQVzUUzfPh10muObt1Wzp) | 2:44 | 2024-03-07 | 2024-03-29 |
 | [Broken Heart \(feat\. Kuami Eugene\)](https://open.spotify.com/track/3CTLElO2jgzX3pUU571Nfk) | [DJ Vyrusky](https://open.spotify.com/artist/20uZPZ6EXItffkdLevoEdV), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Broken Heart \(feat\. Kuami Eugene\)](https://open.spotify.com/album/2wP11FwHQj4zg9x9XBo1r4) | 2:58 | 2024-03-04 |  |
 | [BUE BUE](https://open.spotify.com/track/3sEw6Qs12OG1WXVN0r4Lqd) | [ScrewFace](https://open.spotify.com/artist/5mLq4zuVf6yd6uS3wrlyrc), [Castro](https://open.spotify.com/artist/5hACxwOyI5SiMCONu6KS4L) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 5:42 | 2020-02-20 | 2022-10-16 |
@@ -68,7 +68,7 @@
 | [Deeba](https://open.spotify.com/track/6NLy8oSDKKXfHfxpKeAjOt) | [Deeba](https://open.spotify.com/artist/5gZhjWdd6NuAZ8Yrg1a3Ss) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:05 | 2020-02-20 | 2022-07-29 |
 | [Deeba](https://open.spotify.com/track/6xvQweMHBKFVxgZtmQy7va) | [Deeba](https://open.spotify.com/artist/2dki1aEKiMVIOZ8pOMv3M1) | [Welcome To Ghana](https://open.spotify.com/album/0WTr5rNM9QFV4Qi3s4B5nA) | 5:06 | 2023-12-01 | 2024-03-05 |
 | [DELILAH](https://open.spotify.com/track/6YY2AIGdI5rD2auPItEPfc) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Bar 7](https://open.spotify.com/album/7crJEGssIO4bqz8blqLx6G) | 3:00 | 2024-07-26 |  |
-| [Demon](https://open.spotify.com/track/0EY1axEzO8zhLkgAIpes5b) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Behind The Scenes](https://open.spotify.com/album/07PfhFkWFIYJagOsULigKd) | 2:38 | 2024-05-31 |  |
+| [Demon](https://open.spotify.com/track/0EY1axEzO8zhLkgAIpes5b) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Behind The Scenes](https://open.spotify.com/album/07PfhFkWFIYJagOsULigKd) | 2:38 | 2024-05-31 | 2024-08-02 |
 | [Dondo](https://open.spotify.com/track/0YrIz7PlFQPjRVzP8hQsH2) | [Bradez](https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:51 | 2020-02-20 | 2022-07-29 |
 | [Dondo](https://open.spotify.com/track/6qXsfvpsehSXQqPSS22DKg) | [Bradez](https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Dondo](https://open.spotify.com/album/3N2CZfeQGWnlbuMIPodm2A) | 5:51 | 2020-02-20 | 2024-03-05 |
 | [Eboso](https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Eboso](https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP) | 3:06 | 2021-11-18 | 2024-04-04 |
@@ -92,6 +92,7 @@
 | [I'm Going to Come](https://open.spotify.com/track/5DcOSvBnce6X6GlsAa0eZ4) | [Buk Bak](https://open.spotify.com/artist/6e6W1oSxPGjoF2iAp2AZtF) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 6:39 | 2020-02-20 | 2022-07-22 |
 | [Im Going 2 Come](https://open.spotify.com/track/6CfOf471V97PCem1hcUiLB) | [Buk Bak](https://open.spotify.com/artist/5ARObhhC49Pa1KRykJaBzX) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 6:39 | 2020-02-20 | 2022-10-16 |
 | [Industry Machine](https://open.spotify.com/track/3EYEGjTV30h3R4txuJNEbh) | [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf) | [Industry Machine](https://open.spotify.com/album/35QJ50hCFR9AAlYMzRT7L5) | 1:58 | 2024-07-19 |  |
+| [Insecure](https://open.spotify.com/track/6bA7m0zUC60DAQaL2TjcZp) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Adwoa](https://open.spotify.com/artist/3eebh3G5QslDo86FSAEuSm), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Insecure](https://open.spotify.com/album/5GgZ3hc7eourjpYAo13Hwp) | 3:53 | 2024-08-02 |  |
 | [Inspector](https://open.spotify.com/track/0MLiCEi33t5Q4rWBOYX7Xp) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Inspector](https://open.spotify.com/album/7dAEr14zqfHWsGun1kkVup) | 3:53 | 2023-11-17 | 2024-01-11 |
 | [Into The Future](https://open.spotify.com/track/6zF39FfmenMgLFBuzc7Qi1) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 2:30 | 2024-03-04 |  |
 | [Jah Guide](https://open.spotify.com/track/68z8LK5OWx69lhL2Jj2V8R) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Kweku Jesus](https://open.spotify.com/album/5PVHieQPIKB81wkDQ4SBz2) | 3:04 | 2024-04-03 | 2024-05-03 |
@@ -107,6 +108,7 @@
 | [Linda](https://open.spotify.com/track/1lbQ0Ry2cW1eIFQZexkiPM) | [Batman](https://open.spotify.com/artist/4js6LOM6yehyZOQ7LhjFlq) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 3:20 | 2020-02-20 | 2022-10-17 |
 | [Linda](https://open.spotify.com/track/6q0sQ95anBPUrhvvjKnHLX) | [Batman](https://open.spotify.com/artist/2bIsPQ3pIRDs0nx8JZGCpc) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 3:20 | 2020-02-20 | 2022-07-27 |
 | [Lit](https://open.spotify.com/track/6pEWLO7rqNC2LgqHk2gbCY) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Toopeezy](https://open.spotify.com/album/0x4lI6G2ZOBjO3a1GkMFfF) | 3:14 | 2024-05-24 | 2024-06-07 |
+| [Lomo Lomo](https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Lomo Lomo](https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK) | 2:55 | 2024-08-02 |  |
 | [LONELY ROAD](https://open.spotify.com/track/5P7d1cYRk786etl1Jbwpk5) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [PAIN IN GLORY](https://open.spotify.com/album/5mQyfbXSujRUaxTaQBZw4T) | 3:00 | 2024-03-04 |  |
 | [Love You](https://open.spotify.com/track/23RRPvbF7A5o0Rosnw95nj) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Love You](https://open.spotify.com/album/4wyKFCKsJZCXzcr00nl9EE) | 3:06 | 2022-03-10 | 2024-03-05 |
 | [Maba](https://open.spotify.com/track/4Ygc9wczMo4gt2kjslEsoJ) | [Ex Doe](https://open.spotify.com/artist/5UTvTjvwBMdcgqBBVHN57S) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 3:32 | 2020-02-20 | 2022-03-10 |

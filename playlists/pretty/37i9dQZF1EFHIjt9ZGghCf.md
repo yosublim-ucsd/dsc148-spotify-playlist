@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 744 likes - 131 songs - 14 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 745 likes - 131 songs - 14 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 121 | [Cold Outside](https://open.spotify.com/track/7DvyZPGqOg41haNQrlPUGO) | [The Apartment](https://open.spotify.com/artist/69IXR0c07FhGnuP7b3YShP), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t) | [Cold Outside](https://open.spotify.com/album/7HcdCG3pd2TnJTuJE5HOGB) | 3:49 |
 | 122 | [Hero \- Live](https://open.spotify.com/track/4drKB02HQdI49FtImjXSj4) | [AMEN Music](https://open.spotify.com/artist/3Bf9WsVILDpfxU0VDj1CHK), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [In The Light \(Live\)](https://open.spotify.com/album/2hJ0tPjPJuKUAncH63dHVl) | 11:41 |
 | 123 | [A Better Word \- Live](https://open.spotify.com/track/1tjXl4VrFghjIUsp6MLHRR) | [Benita Jones](https://open.spotify.com/artist/6qBjK1dD3p6ZDBaG52FT1S) | [The Entreating \(Live\)](https://open.spotify.com/album/2DfDPJUfb12Qzt5zMevYPI) | 6:24 |
-| 124 | [Ravished](https://open.spotify.com/track/0gOwvS7w9BFNBoTRefI63b) | [Ultimate Call](https://open.spotify.com/artist/7B8LXcfrwtR8RQSCWzZvn1), [Jesse Cline](https://open.spotify.com/artist/1FyU9raIv5d9zjJjUgHOW4), [Ashley Brison](https://open.spotify.com/artist/2QMek8qpETR7ZMBggloXK8) | [Breathe](https://open.spotify.com/album/142bg9yEm9VVD0l4jVnTDv) | 6:15 |
-| 125 | [At Any Cost / Nothing Else / Move Your Heart](https://open.spotify.com/track/358b6vjrMsq0DRkGXD5fQn) | [Jesus Co.](https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1), [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [Mountains Move](https://open.spotify.com/album/16Y2cLHtfQOOZ6lpkYjE1J) | 3:29 |
+| 124 | [At Any Cost / Nothing Else / Move Your Heart](https://open.spotify.com/track/358b6vjrMsq0DRkGXD5fQn) | [Jesus Co.](https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1), [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [Mountains Move](https://open.spotify.com/album/16Y2cLHtfQOOZ6lpkYjE1J) | 3:29 |
+| 125 | [Ravished](https://open.spotify.com/track/0gOwvS7w9BFNBoTRefI63b) | [Ultimate Call](https://open.spotify.com/artist/7B8LXcfrwtR8RQSCWzZvn1), [Jesse Cline](https://open.spotify.com/artist/1FyU9raIv5d9zjJjUgHOW4), [Ashley Brison](https://open.spotify.com/artist/2QMek8qpETR7ZMBggloXK8) | [Breathe](https://open.spotify.com/album/142bg9yEm9VVD0l4jVnTDv) | 6:15 |
 | 126 | [Come As You Are \- Live](https://open.spotify.com/track/3ibq5jCLvK0hrMkt9NnyVt) | [AMEN Music](https://open.spotify.com/artist/3Bf9WsVILDpfxU0VDj1CHK), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [In The Light \(Live\)](https://open.spotify.com/album/2hJ0tPjPJuKUAncH63dHVl) | 6:23 |
 | 127 | [Redeemer \- Live](https://open.spotify.com/track/0pEevckVxkDL3m5gIQ2GJm) | [AMEN Music](https://open.spotify.com/artist/3Bf9WsVILDpfxU0VDj1CHK), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion) | [In The Light \(Live\)](https://open.spotify.com/album/2hJ0tPjPJuKUAncH63dHVl) | 6:45 |
 | 128 | [Holy Ghost \- Live](https://open.spotify.com/track/5PGQZRmJjrgyhpELOzvMx5) | [AMEN Music](https://open.spotify.com/artist/3Bf9WsVILDpfxU0VDj1CHK), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [In The Light \(Live\)](https://open.spotify.com/album/2hJ0tPjPJuKUAncH63dHVl) | 15:52 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 130 | [Same God / Gratitude](https://open.spotify.com/track/64JqwulYn1A0vhK28NbDAE) | [Kayla Berry](https://open.spotify.com/artist/5wfxEJWKJuT5rUc0o32Q9o) | [Same God / Gratitude](https://open.spotify.com/album/4CSmLNS9eEgBp1umuFIf5X) | 5:03 |
 | 131 | [Champion/Gratitude \- Live](https://open.spotify.com/track/4L7EfoJTqBiGJlHde4zncx) | [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/1geSpbhN3fFFhDCkkq385b) | 10:46 |
 
-Snapshot ID: `AbYMxwAAAADv6d7n8sUim4xEz6wN5zCv`
+Snapshot ID: `AbYSIgAAAABrT45uqdH1GMYngync8/BU`

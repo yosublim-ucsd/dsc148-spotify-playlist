@@ -1,6 +1,6 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Meaningful Stone(\uae40\ub73b\ub3cc)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 470721,
+  "num_followers": 470921,
   "original_name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,18 @@
     {
       "added_at": "2024-07-31 07:29:56",
       "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/2dHJ1KKaHPxsn0N2snubdP"
+        "name": "The night we parted",
+        "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
       },
       "artists": [
         {
-          "name": "1999 WRITE THE FUTURE",
-          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
-        },
-        {
-          "name": "L\u00d8REN",
-          "url": "https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2"
+          "name": "ACOURVE",
+          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
         }
       ],
-      "duration_ms": 199938,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/034saLwfjgOw6b1ZJoXcVF"
+      "duration_ms": 229665,
+      "name": "The night we parted",
+      "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
     },
     {
       "added_at": "2024-07-31 07:29:56",
@@ -291,18 +287,22 @@
     {
       "added_at": "2024-07-31 07:29:56",
       "album": {
-        "name": "The night we parted",
-        "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/2dHJ1KKaHPxsn0N2snubdP"
       },
       "artists": [
         {
-          "name": "ACOURVE",
-          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
+          "name": "1999 WRITE THE FUTURE",
+          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+        },
+        {
+          "name": "L\u00d8REN",
+          "url": "https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2"
         }
       ],
-      "duration_ms": 229665,
-      "name": "The night we parted",
-      "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
+      "duration_ms": 199938,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/034saLwfjgOw6b1ZJoXcVF"
     },
     {
       "added_at": "2024-07-31 07:29:56",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-07-31 07:29:56",
       "album": {
-        "name": "GAUSSIAN",
-        "url": "https://open.spotify.com/album/3z5HAU2kKo9TJFCxnj7Vw4"
-      },
-      "artists": [
-        {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
-        }
-      ],
-      "duration_ms": 207413,
-      "name": "MIMI",
-      "url": "https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5"
-    },
-    {
-      "added_at": "2024-07-31 07:29:56",
-      "album": {
         "name": "pool vol. 2 - Peanut Butter Sandwich",
         "url": "https://open.spotify.com/album/3yItJ86DsLRh9OynW2x8pV"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 284000,
       "name": "Extinction",
       "url": "https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB"
+    },
+    {
+      "added_at": "2024-07-31 07:29:56",
+      "album": {
+        "name": "GAUSSIAN",
+        "url": "https://open.spotify.com/album/3z5HAU2kKo9TJFCxnj7Vw4"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "duration_ms": 207413,
+      "name": "MIMI",
+      "url": "https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5"
     },
     {
       "added_at": "2024-07-31 07:29:56",
@@ -727,8 +727,8 @@
     {
       "added_at": "2024-07-31 07:29:56",
       "album": {
-        "name": "Just as We Were",
-        "url": "https://open.spotify.com/album/1weCtwUO67iYwytGnHZGfR"
+        "name": "\ub354 \ud32c 2ROUND Part.1",
+        "url": "https://open.spotify.com/album/7Ls2OqCIyHG87kdU5qhspV"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
         }
       ],
-      "duration_ms": 248306,
-      "name": "Just as We Were",
-      "url": "https://open.spotify.com/track/1gNkZGi3evYz8NNWox7SRS"
+      "duration_ms": 236578,
+      "name": "\uba85\ub3d9\ucf5c\ub9c1",
+      "url": "https://open.spotify.com/track/47Euae10UxFEcbnR9I9Vgt"
     },
     {
       "added_at": "2024-07-31 07:29:56",

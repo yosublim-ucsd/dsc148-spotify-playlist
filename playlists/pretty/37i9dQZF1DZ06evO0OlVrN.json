@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 7185,
+  "description": "This is Los Relampagos Del Norte. Track-track unggulan, semuanya dalam satu playlist.",
+  "num_followers": 7186,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqgtAAAAAAB3QXGzQIT9gDqL80ep+uUv",
+  "snapshot_id": "Zql+gAAAAADoOwK5cWeraU5L57SYaWzl",
   "tracks": [
     {
       "added_at": null,
@@ -99,8 +99,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Relampagos del Norte, Ramon Ayala y Cornelio Reyna",
-        "url": "https://open.spotify.com/album/1MaRN2mekXavT4ZiLL1TQZ"
+        "name": "En Vivo Desde Estados Unidos",
+        "url": "https://open.spotify.com/album/5PuwwLvu62W2cafULMAyqU"
       },
       "artists": [
         {
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 243435,
-      "name": "El Disgusto",
-      "url": "https://open.spotify.com/track/75ZmlqXfBESGQf6MhADFPM"
+      "duration_ms": 228013,
+      "name": "Alma Rendida",
+      "url": "https://open.spotify.com/track/0hdcK8LFwtbSHgrmOddhFA"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Estados Unidos",
-        "url": "https://open.spotify.com/album/5PuwwLvu62W2cafULMAyqU"
+        "name": "Los Relampagos del Norte, Ramon Ayala y Cornelio Reyna",
+        "url": "https://open.spotify.com/album/1MaRN2mekXavT4ZiLL1TQZ"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 228013,
-      "name": "Alma Rendida",
-      "url": "https://open.spotify.com/track/0hdcK8LFwtbSHgrmOddhFA"
+      "duration_ms": 243435,
+      "name": "El Disgusto",
+      "url": "https://open.spotify.com/track/75ZmlqXfBESGQf6MhADFPM"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doble 2 En 1",
-        "url": "https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy"
+        "name": "22 Exitos de Oro, vol. 2",
+        "url": "https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 162160,
-      "name": "Hay Ojitos",
-      "url": "https://open.spotify.com/track/3f0ca0sbJefE05GrT69i1X"
+      "duration_ms": 210066,
+      "name": "Ausencia",
+      "url": "https://open.spotify.com/track/1SUuCE9XCSGKDNKHzf46o1"
     },
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "22 Exitos de Oro, vol. 2",
-        "url": "https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU"
+        "name": "Doble 2 En 1",
+        "url": "https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 210066,
-      "name": "Ausencia",
-      "url": "https://open.spotify.com/track/1SUuCE9XCSGKDNKHzf46o1"
+      "duration_ms": 162160,
+      "name": "Hay Ojitos",
+      "url": "https://open.spotify.com/track/3f0ca0sbJefE05GrT69i1X"
     },
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Country Roland Vs. Los Relampagos",
-        "url": "https://open.spotify.com/album/5reWQ2xXXaOn3Z9cyFwXn1"
-      },
-      "artists": [
-        {
-          "name": "Country Roland Band",
-          "url": "https://open.spotify.com/artist/4lHtr3k2oeLN4wqDAU5LSs"
-        },
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 197734,
-      "name": "Pancha La Contrabandista",
-      "url": "https://open.spotify.com/track/3S9CMtCRtiSuvgOPRDoIiM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puras Cantineras, Vol. 1",
         "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
       },
@@ -587,18 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boleros Inolvidables Con Los Relampagos Del Norte",
-        "url": "https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz"
+        "name": "Country Roland Vs. Los Relampagos",
+        "url": "https://open.spotify.com/album/5reWQ2xXXaOn3Z9cyFwXn1"
       },
       "artists": [
+        {
+          "name": "Country Roland Band",
+          "url": "https://open.spotify.com/artist/4lHtr3k2oeLN4wqDAU5LSs"
+        },
         {
           "name": "Los Relampagos Del Norte",
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 211266,
-      "name": "El Espejo",
-      "url": "https://open.spotify.com/track/50VYNGTSdo5zgqXUcS3CWZ"
+      "duration_ms": 197734,
+      "name": "Pancha La Contrabandista",
+      "url": "https://open.spotify.com/track/3S9CMtCRtiSuvgOPRDoIiM"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
       "duration_ms": 125880,
       "name": "Veinte Novias",
       "url": "https://open.spotify.com/track/77nPWfw1XzVOSV1LQDM7yi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boleros Inolvidables Con Los Relampagos Del Norte",
+        "url": "https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "El Espejo",
+      "url": "https://open.spotify.com/track/50VYNGTSdo5zgqXUcS3CWZ"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158142,
+  "num_followers": 158141,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -559,30 +559,6 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
-        "name": "Andar Sozinho",
-        "url": "https://open.spotify.com/album/2eCGEG54CMw1buFPbJFdPz"
-      },
-      "artists": [
-        {
-          "name": "POLLO",
-          "url": "https://open.spotify.com/artist/6TgVQhHx0BWvzdEQxRnr23"
-        },
-        {
-          "name": "tchelo rodrigues",
-          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
-        },
-        {
-          "name": "MC Neguinho do Kaxeta",
-          "url": "https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2"
-        }
-      ],
-      "duration_ms": 353814,
-      "name": "Andar Sozinho",
-      "url": "https://open.spotify.com/track/12ai0My0EHz7QCUIZ4VTZ3"
-    },
-    {
-      "added_at": "2024-07-26 03:03:00",
-      "album": {
         "name": "Falar de Amor",
         "url": "https://open.spotify.com/album/1ElTN1TXGkOXTlO6ZKrWk3"
       },
@@ -607,6 +583,30 @@
       "duration_ms": 231529,
       "name": "Falar de Amor",
       "url": "https://open.spotify.com/track/6jkqFX0JprURdUqSkWmUgK"
+    },
+    {
+      "added_at": "2024-07-26 03:03:00",
+      "album": {
+        "name": "Andar Sozinho",
+        "url": "https://open.spotify.com/album/2eCGEG54CMw1buFPbJFdPz"
+      },
+      "artists": [
+        {
+          "name": "POLLO",
+          "url": "https://open.spotify.com/artist/6TgVQhHx0BWvzdEQxRnr23"
+        },
+        {
+          "name": "tchelo rodrigues",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "MC Neguinho do Kaxeta",
+          "url": "https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2"
+        }
+      ],
+      "duration_ms": 353814,
+      "name": "Andar Sozinho",
+      "url": "https://open.spotify.com/track/12ai0My0EHz7QCUIZ4VTZ3"
     },
     {
       "added_at": "2024-07-26 03:03:00",
@@ -771,26 +771,6 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
-        "name": "Me Diz",
-        "url": "https://open.spotify.com/album/1JbWAwjKBIMADDcH9Xgk3P"
-      },
-      "artists": [
-        {
-          "name": "Fam\u00edlia Mad\u00e1",
-          "url": "https://open.spotify.com/artist/7ChygUWxLcKr1ZVd7fBdVw"
-        },
-        {
-          "name": "Modestto",
-          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
-        }
-      ],
-      "duration_ms": 161022,
-      "name": "Me Diz",
-      "url": "https://open.spotify.com/track/7BCBv9I6K5QbYiuYy9Vz5n"
-    },
-    {
-      "added_at": "2024-07-26 03:03:00",
-      "album": {
         "name": "Original MTK #2 - Se Voc\u00ea Vier",
         "url": "https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP"
       },
@@ -839,6 +819,26 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
+        "name": "Me Diz",
+        "url": "https://open.spotify.com/album/1JbWAwjKBIMADDcH9Xgk3P"
+      },
+      "artists": [
+        {
+          "name": "Fam\u00edlia Mad\u00e1",
+          "url": "https://open.spotify.com/artist/7ChygUWxLcKr1ZVd7fBdVw"
+        },
+        {
+          "name": "Modestto",
+          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
+        }
+      ],
+      "duration_ms": 161022,
+      "name": "Me Diz",
+      "url": "https://open.spotify.com/track/7BCBv9I6K5QbYiuYy9Vz5n"
+    },
+    {
+      "added_at": "2024-07-26 03:03:00",
+      "album": {
         "name": "SEUS CARACTERES & CARACTER\u00cdSTICAS",
         "url": "https://open.spotify.com/album/78S4kQ996iN4h62IWnvtGz"
       },
@@ -851,6 +851,34 @@
       "duration_ms": 163530,
       "name": "T\u00c1 FAZENDO OQ?",
       "url": "https://open.spotify.com/track/1t0DfSB27SnpNjzBGEf89q"
+    },
+    {
+      "added_at": "2024-07-26 03:03:00",
+      "album": {
+        "name": "50 Tons De Um Sentimento",
+        "url": "https://open.spotify.com/album/4jeMgRuSSLiFiYZDvndksH"
+      },
+      "artists": [
+        {
+          "name": "Sergin",
+          "url": "https://open.spotify.com/artist/45lMcW3J9GBxK5zdc6bOlW"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        },
+        {
+          "name": "Hunter",
+          "url": "https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Boa Noite Mo\u00e7a",
+      "url": "https://open.spotify.com/track/2PbzRTnmac3yqvI1bjk1ri"
     },
     {
       "added_at": "2024-07-26 03:03:00",
@@ -899,34 +927,6 @@
       "duration_ms": 175000,
       "name": "Ela \u00c9 Um V\u00edcio",
       "url": "https://open.spotify.com/track/4rn4T3egGnLa8i7TsKaozp"
-    },
-    {
-      "added_at": "2024-07-26 03:03:00",
-      "album": {
-        "name": "50 Tons De Um Sentimento",
-        "url": "https://open.spotify.com/album/4jeMgRuSSLiFiYZDvndksH"
-      },
-      "artists": [
-        {
-          "name": "Sergin",
-          "url": "https://open.spotify.com/artist/45lMcW3J9GBxK5zdc6bOlW"
-        },
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        },
-        {
-          "name": "Hunter",
-          "url": "https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Boa Noite Mo\u00e7a",
-      "url": "https://open.spotify.com/track/2PbzRTnmac3yqvI1bjk1ri"
     },
     {
       "added_at": "2024-07-26 03:03:00",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
+        "name": "N\u00e3o Quero Mais Nada",
+        "url": "https://open.spotify.com/album/61dnSy5M5Fmwar0gCgfvyy"
+      },
+      "artists": [
+        {
+          "name": "S7lermo",
+          "url": "https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm"
+        },
+        {
+          "name": "L\u00edvia Neves",
+          "url": "https://open.spotify.com/artist/6oqRJsv7s4CXdVdclAEchk"
+        }
+      ],
+      "duration_ms": 213587,
+      "name": "N\u00e3o Quero Mais Nada",
+      "url": "https://open.spotify.com/track/3fJLwFNTMjRyqSXf5kpbK4"
+    },
+    {
+      "added_at": "2024-07-26 03:03:00",
+      "album": {
         "name": "\u00c9 Voc\u00ea",
         "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 197067,
       "name": "\u00c9 Voc\u00ea",
       "url": "https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl"
-    },
-    {
-      "added_at": "2024-07-26 03:03:00",
-      "album": {
-        "name": "N\u00e3o Quero Mais Nada",
-        "url": "https://open.spotify.com/album/61dnSy5M5Fmwar0gCgfvyy"
-      },
-      "artists": [
-        {
-          "name": "S7lermo",
-          "url": "https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm"
-        },
-        {
-          "name": "L\u00edvia Neves",
-          "url": "https://open.spotify.com/artist/6oqRJsv7s4CXdVdclAEchk"
-        }
-      ],
-      "duration_ms": 213587,
-      "name": "N\u00e3o Quero Mais Nada",
-      "url": "https://open.spotify.com/track/3fJLwFNTMjRyqSXf5kpbK4"
     },
     {
       "added_at": "2024-07-26 03:03:00",
@@ -1375,30 +1375,18 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
-        "name": "Interfone",
-        "url": "https://open.spotify.com/album/3isbuTBsnIoXfDg7bGedYs"
+        "name": "Perto do Sol",
+        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
       },
       "artists": [
         {
-          "name": "Sergin",
-          "url": "https://open.spotify.com/artist/45lMcW3J9GBxK5zdc6bOlW"
-        },
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/5OQwCMHaNZ6FtVcVNkkShY"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        },
-        {
-          "name": "Juan Branco",
-          "url": "https://open.spotify.com/artist/4IeVdoR6r3NmxRDZIeVhU3"
+          "name": "RNT",
+          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Interfone",
-      "url": "https://open.spotify.com/track/2BKAS8KxZW3AlAqHzFjACm"
+      "duration_ms": 168292,
+      "name": "Perto do Sol",
+      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
     }
   ],
   "unique_name": "Resenha na Praia",

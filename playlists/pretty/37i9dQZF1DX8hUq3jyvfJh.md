@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Yasmin Santos e mais mulheres no volume máximo! Co\-curadoria com Yasmin Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,865 likes - 49 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,890 likes - 49 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 6 | [A Dona Aranha](https://open.spotify.com/track/181TYnNi3wNGrdsCykmI4A) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 2:04 |
 | 7 | [Escrito Nas Estrelas \- Ao Vivo](https://open.spotify.com/track/0BbTQBwcBhT00GbAv5UQ2R) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Escrito Nas Estrelas \(Ao Vivo\)](https://open.spotify.com/album/2oalUAIkiheB01nUS2An1t) | 2:32 |
 | 8 | [Narcisista \- Ao Vivo](https://open.spotify.com/track/0WrM1ON5poAsmKw3x5uPhD) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Narcisista \(Ao Vivo\)](https://open.spotify.com/album/1EXTduPcx49gIFbLeZOwcC) | 3:31 |
-| 9 | [Macetando](https://open.spotify.com/track/6eJUG282cUKuIoa72sEsqO) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Macetando](https://open.spotify.com/album/6FEJSBFIqZe9GYN2xaAP52) | 2:47 |
+| 9 | [menina solta](https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [menina solta](https://open.spotify.com/album/5FRPzvOEvmhNvIHMwBp6nR) | 2:30 |
 | 10 | [Erro Gostoso \- Ao Vivo](https://open.spotify.com/track/51pxwIxDVCbFHW8oyJFQXD) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo\)](https://open.spotify.com/album/3XDhhtRxHceSxoCJwVPwWK) | 2:58 |
-| 11 | [menina solta](https://open.spotify.com/track/2MOq63fxuFLYQM3CsDcFs1) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [menina solta](https://open.spotify.com/album/5FRPzvOEvmhNvIHMwBp6nR) | 2:30 |
+| 11 | [Macetando](https://open.spotify.com/track/6eJUG282cUKuIoa72sEsqO) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Macetando](https://open.spotify.com/album/6FEJSBFIqZe9GYN2xaAP52) | 2:47 |
 | 12 | [Amor E Sexo](https://open.spotify.com/track/0x2C3lTa6qfceRMAUuFHQU) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Balacobaco](https://open.spotify.com/album/068pOJbt7NzS6QAXWtyjKQ) | 3:38 |
 | 13 | [Chico](https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:02 |
 | 14 | [Graveto \- Ao Vivo](https://open.spotify.com/track/3tc8Z4lGzOIwmIVftsxO6o) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Graveto \(Ao Vivo\)](https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V) | 2:50 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 27 | [Psiu](https://open.spotify.com/track/0dBo1a9Tvxtx9x2N4cTL1w) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Indigo Borboleta Anil](https://open.spotify.com/album/7GCAjZgKwHBucSRz7rQize) | 4:55 |
 | 28 | [Ausência \- Ao Vivo \| Acústico](https://open.spotify.com/track/37erXXnh4mlWE7mdO6EYOp) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Marília Mendonça \- Perfil \(Ao Vivo\)](https://open.spotify.com/album/6JFSCrp4FNZhVZmrDpEZi5) | 2:29 |
 | 29 | [Cria Da Ivete \- Ao Vivo](https://open.spotify.com/track/4XpB5oBPuygG2Gbpi3PUhu) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Chega Mais \(Ao Vivo\)](https://open.spotify.com/album/72ubm2vqYUYmYOjEUl687c) | 3:57 |
-| 30 | [Primeira Vez](https://open.spotify.com/track/3mpScioNCvPyutQlILGHDr) | [Samyra Show](https://open.spotify.com/artist/4Tf3QqoMHY7pAeE51Ib8Il) | [Primeira Vez](https://open.spotify.com/album/2aT8iWreA86SIdy8LdgoXf) | 2:52 |
-| 31 | [Então Valeu \- Ao Vivo](https://open.spotify.com/track/2xWpzNe4WiAHULuoOXEdL0) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Yasmin Santos Ao Vivo em Goiânia](https://open.spotify.com/album/5LiNfSeXC0VjZ00nSF5Rab) | 3:27 |
+| 30 | [Então Valeu \- Ao Vivo](https://open.spotify.com/track/2xWpzNe4WiAHULuoOXEdL0) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Yasmin Santos Ao Vivo em Goiânia](https://open.spotify.com/album/5LiNfSeXC0VjZ00nSF5Rab) | 3:27 |
+| 31 | [Primeira Vez](https://open.spotify.com/track/3mpScioNCvPyutQlILGHDr) | [Samyra Show](https://open.spotify.com/artist/4Tf3QqoMHY7pAeE51Ib8Il) | [Primeira Vez](https://open.spotify.com/album/2aT8iWreA86SIdy8LdgoXf) | 2:52 |
 | 32 | [Quando a Chuva Passar](https://open.spotify.com/track/28w7IiopxwhZ6wHQ1NQkvV) | [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE), [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX) | [Memórias da Taty \- Parte 1](https://open.spotify.com/album/4Nh6lim45VRtMIIY4d8VCg) | 3:10 |
 | 33 | [Desculpe O Auê](https://open.spotify.com/track/089k2n6Nv9nmdKymBhspCi) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Lanca Perfume E Outras Manias](https://open.spotify.com/album/4XLbkcXDkeCPrCInaG9bvS) | 2:57 |
 | 34 | [real valor](https://open.spotify.com/track/7gbYxnKsftWLFaZoDAxxPr) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [real valor](https://open.spotify.com/album/4QTHtqt8GeSHSSGwMwpXU1) | 3:40 |

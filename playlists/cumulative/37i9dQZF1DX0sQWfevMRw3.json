@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 161824,
       "name": "BALLA UR",
       "url": "https://open.spotify.com/track/2nuriIC8sNLkHNd0udbjEF"
@@ -10238,7 +10238,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 131876,
       "name": "H\u00d6GER V\u00c4NSTER",
       "url": "https://open.spotify.com/track/6THE7dm60grI3XvtojnlPP"
@@ -11208,6 +11208,24 @@
     {
       "album": {
         "name": "JAG KOMMER",
+        "url": "https://open.spotify.com/album/7MJZPjvqSlgS50w2Qe9Qnh"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174807,
+      "name": "JAG KOMMER",
+      "url": "https://open.spotify.com/track/0SIjGBXIKhJwB4f39SQMne"
+    },
+    {
+      "album": {
+        "name": "JAG KOMMER",
         "url": "https://open.spotify.com/album/2SFtL0DwLm2h2fpIvv3W9S"
       },
       "artists": [
@@ -12014,6 +12032,28 @@
       "duration_ms": 126895,
       "name": "Kommer Inte In (T&B Remix)",
       "url": "https://open.spotify.com/track/3Rsc9NvYg3I5hiOpD7O6o7"
+    },
+    {
+      "album": {
+        "name": "KOMPLICERAD",
+        "url": "https://open.spotify.com/album/3zdWPYriAEofO8dgqK1nMt"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147750,
+      "name": "KOMPLICERAD",
+      "url": "https://open.spotify.com/track/349aKbQCECEPrTbqIX6KY4"
     },
     {
       "album": {
@@ -13328,6 +13368,24 @@
       "duration_ms": 142218,
       "name": "L\u00c4GGA MIL",
       "url": "https://open.spotify.com/track/713RsSyYFRoTwa4cie2lvM"
+    },
+    {
+      "album": {
+        "name": "L\u00c4NGESEN",
+        "url": "https://open.spotify.com/album/6emMCnB8y8HPqWWhjFObYq"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "L\u00c4NGESEN",
+      "url": "https://open.spotify.com/track/4Bt9Ep8u7DbBy9v1a32hnn"
     },
     {
       "album": {
@@ -16992,7 +17050,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 133425,
       "name": "Raggen m\u00e5ste g\u00e5",
       "url": "https://open.spotify.com/track/0lIOjzd1siB9YkEEy0FklY"
@@ -17076,7 +17134,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 103082,
       "name": "RAMLA OMKULL - MADNEZZ REMIX",
       "url": "https://open.spotify.com/track/71UeCsqlSScZ4e118l57Xi"
@@ -19796,7 +19854,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 173714,
       "name": "STAMPAR S\u00d6NDER PEDALEN",
       "url": "https://open.spotify.com/track/5Jq152E4irAdlHVdCxkepF"
@@ -21031,6 +21089,24 @@
     },
     {
       "album": {
+        "name": "S\u00c5NG OM INGENTING",
+        "url": "https://open.spotify.com/album/16715YItb4f098HSzmjkmN"
+      },
+      "artists": [
+        {
+          "name": "Perra & Berra",
+          "url": "https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110400,
+      "name": "S\u00c5NG OM INGENTING",
+      "url": "https://open.spotify.com/track/4e97L7ZuaBbOnhpTPo8RGU"
+    },
+    {
+      "album": {
         "name": "S\u00f6rb\u00e4ckenkartellen",
         "url": "https://open.spotify.com/album/6zAukiIRVPHgYhoM7rCOAT"
       },
@@ -21134,6 +21210,24 @@
       "duration_ms": 139514,
       "name": "TA MIG OM DU KAN",
       "url": "https://open.spotify.com/track/5t14pIpQVEy1PKp0wbzamU"
+    },
+    {
+      "album": {
+        "name": "Ta mig till Dalarna",
+        "url": "https://open.spotify.com/album/1BuJyzfXo9GgWWM2ZK2pxQ"
+      },
+      "artists": [
+        {
+          "name": "Mia Elfqvist",
+          "url": "https://open.spotify.com/artist/3fBR86TB3VE259lsDTjvoC"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135232,
+      "name": "Ta mig till Dalarna",
+      "url": "https://open.spotify.com/track/6Yw67maLVGfCBNAwGUAC3r"
     },
     {
       "album": {
@@ -22652,7 +22746,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 145600,
       "name": "VAD G\u00d6R DU NU",
       "url": "https://open.spotify.com/track/4vhNFJ14tl6AXcPp23uqiG"

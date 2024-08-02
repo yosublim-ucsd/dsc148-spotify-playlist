@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 181695,
       "name": "Chocoladefontein",
       "url": "https://open.spotify.com/track/30cgYyTs2gobLFcwmbyfZj"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 205881,
       "name": "Geen Steek Veranderd",
       "url": "https://open.spotify.com/track/0Z7UuliJxlUTtPuA7HqrdU"
@@ -442,6 +442,24 @@
       "duration_ms": 136824,
       "name": "Interessant",
       "url": "https://open.spotify.com/track/2en7wZ9UHVa2tlZeb8itZi"
+    },
+    {
+      "album": {
+        "name": "Jouw Stem",
+        "url": "https://open.spotify.com/album/1SDL0q28t1zlBaD4Pc7QeU"
+      },
+      "artists": [
+        {
+          "name": "Sammie Sedano",
+          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169961,
+      "name": "Jouw Stem",
+      "url": "https://open.spotify.com/track/3GcUzRNG5LrUYktawq8PzU"
     },
     {
       "album": {
@@ -839,6 +857,28 @@
     },
     {
       "album": {
+        "name": "Shirt Uit (feat. Sef)",
+        "url": "https://open.spotify.com/album/2Bh9v7RB7N7SQUMnpz3Pyf"
+      },
+      "artists": [
+        {
+          "name": "Jungle by Night",
+          "url": "https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO"
+        },
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207813,
+      "name": "Shirt Uit (feat. Sef)",
+      "url": "https://open.spotify.com/track/4yf0JCc3idiriPpzISwO0g"
+    },
+    {
+      "album": {
         "name": "Spijt",
         "url": "https://open.spotify.com/album/1tE5XZud8RVn0FMqI4yGVE"
       },
@@ -1049,6 +1089,24 @@
     },
     {
       "album": {
+        "name": "Weekenden",
+        "url": "https://open.spotify.com/album/5wedLTydN0F4SW2Q26wlqX"
+      },
+      "artists": [
+        {
+          "name": "Eefje de Visser",
+          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224341,
+      "name": "Weekenden",
+      "url": "https://open.spotify.com/track/4oEvC47XYKLzUbcTnSMmcN"
+    },
+    {
+      "album": {
         "name": "Wie Ben Ik",
         "url": "https://open.spotify.com/album/6MruR6SwhHc3q3nlxu4hDR"
       },
@@ -1082,7 +1140,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 163032,
       "name": "wist je niet",
       "url": "https://open.spotify.com/track/77Wz0wvJNr55xrQWfbQdeH"

@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  Kofi Mole
 
-198 songs - 10 hr 2 min
+199 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [KABUTEY FLOW](https://open.spotify.com/track/7JS8FzTaLZEQFhTHTXinLY) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [KABUTEY FLOW](https://open.spotify.com/album/71E270Mzm0P0YkMPAMBEjx) | 2:17 | 2024-01-05 |  |
 | [Kasapa](https://open.spotify.com/track/25LQCtFin5sJl6AERRvLD8) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Kasapa](https://open.spotify.com/album/6uPPmlyfrQkGAH4jzi8OJM) | 2:32 | 2024-02-09 |  |
 | [KILLER BI](https://open.spotify.com/track/1DEWzhw67wPv2HP6yA0sM5) | [Sokka Sdw](https://open.spotify.com/artist/4PlWzQ3evhRTWHK6u78Cdk), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [KILLER BI](https://open.spotify.com/album/29hUQeIDemta1o4M2qk3Px) | 3:34 | 2024-07-12 | 2024-07-27 |
-| [Killer Go Rise](https://open.spotify.com/track/5v0cU5CsAW6n3fQpb1Ma1A) | [Holyrina](https://open.spotify.com/artist/7rTbmW7MnQQjLKpFdZrTuv) | [Killer Go Rise](https://open.spotify.com/album/76oWQGoSyEZkrTlRpP4Uj7) | 2:13 | 2024-07-26 |  |
+| [Killer Go Rise](https://open.spotify.com/track/5v0cU5CsAW6n3fQpb1Ma1A) | [Holyrina](https://open.spotify.com/artist/7rTbmW7MnQQjLKpFdZrTuv) | [Killer Go Rise](https://open.spotify.com/album/76oWQGoSyEZkrTlRpP4Uj7) | 2:13 | 2024-07-26 | 2024-08-02 |
 | [Konongo Zongo](https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:41 | 2022-11-28 |  |
 | [Koobi](https://open.spotify.com/track/197R5eZFfywBrXGQ6tBofH) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Reggie](https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1) | [Koobi](https://open.spotify.com/album/67NQONOlbvJVe4qlCf2llO) | 2:40 | 2022-06-09 | 2023-03-11 |
 | [Kusuu](https://open.spotify.com/track/0BXG6kR9D7ZjXtjBwvPiKy) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Fallen Angel](https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m) | 3:25 | 2024-01-15 | 2024-05-17 |
@@ -141,6 +141,7 @@
 | [Obra \(feat\. Roiii\)](https://open.spotify.com/track/6nbnJY7as2a7I3kDKNQojM) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Roiii](https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V) | [Obra \(feat\. Roiii\)](https://open.spotify.com/album/0FGOyeBeFcxUu0ChZpFDw7) | 2:25 | 2023-06-16 | 2023-08-11 |
 | [Odo](https://open.spotify.com/track/5vPwirGLHBZyN71Gzmz5E9) | [G\-Migos](https://open.spotify.com/artist/0t6ol0asVlzV0xbDxGdGGN) | [Odo](https://open.spotify.com/album/2XWwgQ8shLcx4QfbTH9YVq) | 3:23 | 2024-03-15 | 2024-03-29 |
 | [Odo](https://open.spotify.com/track/08nMjhiq9eafvysZ4P5LU4) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Odo](https://open.spotify.com/album/6qqytYEiJ6cQMhXNG1oV3G) | 3:02 | 2023-06-09 |  |
+| [Oh Lord!](https://open.spotify.com/track/4QSGez39W3bOTc4d66jPeB) | [Smoove](https://open.spotify.com/artist/58wYqnj4rGZ0EMyEEn7kVI), [Romeo Swag](https://open.spotify.com/artist/56eSnZNJxrCtQjaHop1dme) | [Oh Lord!](https://open.spotify.com/album/19Y0ge3wsR8CfuSr0pyPYT) | 2:32 | 2024-08-02 |  |
 | [Oh Ma Linda](https://open.spotify.com/track/28aDl6G202ZZeynzYIZRDb) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Most High](https://open.spotify.com/album/505XBFuhnlK4GBsGq7old5) | 2:56 | 2023-06-22 | 2024-04-19 |
 | [Oh Ma Linda](https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Oh Ma Linda](https://open.spotify.com/album/7lsm82NrdAoXBWoOEucvMg) | 2:56 | 2023-04-14 |  |
 | [OH NO](https://open.spotify.com/track/2VhFflRmXimh8NNpD9jFgR) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [OH NO](https://open.spotify.com/album/0s7eJWEUJSSiO2963hcQRd) | 2:33 | 2023-11-10 |  |

@@ -1673,6 +1673,24 @@
     },
     {
       "album": {
+        "name": "Going Offbeat",
+        "url": "https://open.spotify.com/album/5RyDjbtNYcauFWojcJ2m5P"
+      },
+      "artists": [
+        {
+          "name": "Rick Groove",
+          "url": "https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191067,
+      "name": "Going Offbeat",
+      "url": "https://open.spotify.com/track/1MyyHwzHbUaQ6hqVmXG953"
+    },
+    {
+      "album": {
         "name": "Papillon",
         "url": "https://open.spotify.com/album/5ozdhQJTvuTV0QlmgbEwUD"
       },
@@ -1990,7 +2008,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 382439,
       "name": "Kai",
       "url": "https://open.spotify.com/track/3Qia0ukLn1LglhZroKmFVv"
@@ -2134,7 +2152,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 194500,
       "name": "lemon fizz",
       "url": "https://open.spotify.com/track/4s28VI3QU9kRBKY5ssorlP"
@@ -2264,6 +2282,24 @@
       "duration_ms": 400000,
       "name": "Love Nature",
       "url": "https://open.spotify.com/track/1JE7EFjo1lHCLtp8BWJXi3"
+    },
+    {
+      "album": {
+        "name": "Magenta Skies",
+        "url": "https://open.spotify.com/album/3ESkx7nqo4JmsxYB5kGBe3"
+      },
+      "artists": [
+        {
+          "name": "Da Dr\u00fcben",
+          "url": "https://open.spotify.com/artist/1InvYRt2oX1GQPzlXaYXvT"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Magenta Skies",
+      "url": "https://open.spotify.com/track/4KfJ6hAAyt94oUO4THQOte"
     },
     {
       "album": {
@@ -3182,7 +3218,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 166000,
       "name": "Roly Poly",
       "url": "https://open.spotify.com/track/5hMEo63IJSWOrCffrKomoe"
@@ -4024,6 +4060,24 @@
       "duration_ms": 220916,
       "name": "Trigger Fool (feat. Azamaan Hoyvoy)",
       "url": "https://open.spotify.com/track/40IFfrt1s0niiFkXnSC5wG"
+    },
+    {
+      "album": {
+        "name": "Tropics",
+        "url": "https://open.spotify.com/album/5SAPbhpvPzbSle0sBFANmI"
+      },
+      "artists": [
+        {
+          "name": "Jay Arrow",
+          "url": "https://open.spotify.com/artist/3cAD80R4qsZOlYVPi9xN89"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151090,
+      "name": "Tropics",
+      "url": "https://open.spotify.com/track/5Q76GfbKmkLoJuXMbdMrbX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-592 songs - 1 day 1 hr 17 min
+595 songs - 1 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [28](https://open.spotify.com/track/6PB727qx5OcinB1RVTShXh) | [Digital Sail](https://open.spotify.com/artist/2mUy6P2kHx4IdHN05KuDu1) | [Coles](https://open.spotify.com/album/62nchhQplHiqzJjPtmJVGr) | 3:48 | 2022-01-21 | 2022-07-22 |
 | [A Few Hours](https://open.spotify.com/track/20rCllouidVPzTggWjTYoS) | [Ajola Dipa](https://open.spotify.com/artist/3TIcmGpg3CkztLlSXNOlqF) | [A Few Hours](https://open.spotify.com/album/1cZBHiBjw7qvv1qeKDCcsv) | 2:18 | 2022-07-01 |  |
 | [A Long Way](https://open.spotify.com/track/0URH3UrDV3zoeCxGCW6UEL) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [A Long Way](https://open.spotify.com/album/7kFG0WBlziU4iLQV7pLm29) | 2:15 | 2021-11-10 |  |
-| [A New Beginning](https://open.spotify.com/track/2c1wxuPPU4bm8X7UrD8JAd) | [Light Stories](https://open.spotify.com/artist/1UFfFo7p1fESUTWhD6N16B) | [A New Beginnning](https://open.spotify.com/album/2HV3DLyEXmXWJPRJzKp0Bt) | 2:16 | 2023-02-17 |  |
+| [A New Beginning](https://open.spotify.com/track/2c1wxuPPU4bm8X7UrD8JAd) | [Light Stories](https://open.spotify.com/artist/1UFfFo7p1fESUTWhD6N16B) | [A New Beginnning](https://open.spotify.com/album/2HV3DLyEXmXWJPRJzKp0Bt) | 2:16 | 2023-02-17 | 2024-08-02 |
 | [A Night In Magnesia](https://open.spotify.com/track/4Id1x78y1nICZcB6Ca9IvE) | [ella diva conflict](https://open.spotify.com/artist/7zCs5xY96PPTSGNYcghfux) | [A Night In Magnesia](https://open.spotify.com/album/2iCikcgsEW5tpdPuIUvvZ2) | 2:29 | 2022-10-28 |  |
 | [a quiet fire](https://open.spotify.com/track/0s1uEBU0SZU8bGxeEh5q36) | [feline empire](https://open.spotify.com/artist/7pNrcc1Bgzb1i88M8TnIVX) | [a quiet fire](https://open.spotify.com/album/2twzW1LzWnlRXm9UZnegsW) | 2:14 | 2022-01-21 |  |
 | [A World of Difference \(remix\)](https://open.spotify.com/track/5JRIw1FFK7Zt9dlmN4bl2h) | [Fred Jayson](https://open.spotify.com/artist/7pt8uu5aZjCWmDtR23Bb60) | [A World of Difference \- Remix](https://open.spotify.com/album/0Um4wqNFZuRgHLqsi1yvFd) | 3:10 | 2021-11-10 | 2022-07-08 |
@@ -234,7 +234,7 @@
 | [Himalayas](https://open.spotify.com/track/5wMKNBeln1ZRrUlSKJ8U2i) | [Chill Cole](https://open.spotify.com/artist/1Ns2CQv733eYFITrIHvW6Z) | [Himalayas](https://open.spotify.com/album/4YKIW2JuBsnHDAHLZG2Xn6) | 2:53 | 2022-12-09 |  |
 | [hitchin’](https://open.spotify.com/track/7abaOX6JnwFqvCP0pc2Ncj) | [en røute](https://open.spotify.com/artist/4nb6zXxz2NTHLAVDYsM2tt) | [hitchin’](https://open.spotify.com/album/34NvevMEOW62GvBhbMkKOY) | 1:50 | 2021-11-10 | 2022-07-01 |
 | [holy cows](https://open.spotify.com/track/2nSpe6yeULSw6pu4DEJAN0) | [Hicut Lopass](https://open.spotify.com/artist/1sS4XmaU4vzA2TQ2PbKqJX) | [holy cows](https://open.spotify.com/album/46GCXSORoBE6MnvIGEg6Yb) | 2:01 | 2022-01-21 |  |
-| [Honesty \(remix\)](https://open.spotify.com/track/4ee5oGHZjUw3vzr9vWaeJp) | [Eucalyptic](https://open.spotify.com/artist/7fFV1CuS9eT92DKj0Zzpt9) | [Honesty \- Remix](https://open.spotify.com/album/14MA1BYwnBTv5XZlwezpBC) | 3:14 | 2021-11-10 |  |
+| [Honesty \(remix\)](https://open.spotify.com/track/4ee5oGHZjUw3vzr9vWaeJp) | [Eucalyptic](https://open.spotify.com/artist/7fFV1CuS9eT92DKj0Zzpt9) | [Honesty \- Remix](https://open.spotify.com/album/14MA1BYwnBTv5XZlwezpBC) | 3:14 | 2021-11-10 | 2024-08-02 |
 | [Honeymoon Phase](https://open.spotify.com/track/63Ssxd5ncnJwewaas3ckDe) | [Monzzune](https://open.spotify.com/artist/1RWZV3rPwdheATWccxhAbp) | [Honeymoon Phase](https://open.spotify.com/album/264YZHWhYHqE5QagWO7DDJ) | 2:14 | 2023-05-05 |  |
 | [Household](https://open.spotify.com/track/3yLH7wNlK2iBrGWzMyvHvC) | [Pete LaCroix](https://open.spotify.com/artist/02oVnpIPcBnM3aLWynbqpo) | [Household](https://open.spotify.com/album/1My5RrUvVBgYMTdlDVCarf) | 2:24 | 2022-06-03 | 2022-07-08 |
 | [Howl](https://open.spotify.com/track/0jv8Wc070R7666f1ZqOBc6) | [SumPlusOne](https://open.spotify.com/artist/0cER211mwgbpBAMlqyXNi4) | [Howl](https://open.spotify.com/album/2dVX4NHJr7an0lAZiGjB4H) | 2:54 | 2021-11-10 | 2022-04-15 |
@@ -251,6 +251,7 @@
 | [Idek](https://open.spotify.com/track/0hcHE5BXofyzmFO5hDhQoF) | [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n) | [Idek](https://open.spotify.com/album/08gr2z5AKW09RB74L65w2g) | 2:48 | 2022-07-29 | 2023-01-13 |
 | [idle](https://open.spotify.com/track/6zlQDUZVrxyv8hYl6SXI6j) | [Yauwe](https://open.spotify.com/artist/7aEGpWT3nwjyKL7uYd7gdD) | [idle](https://open.spotify.com/album/0XhOuR0mH8Drifodo2blXX) | 2:21 | 2021-11-10 | 2022-01-22 |
 | [Imagine](https://open.spotify.com/track/6Cw5spV9WireahqbLMsbUR) | [Lewisham](https://open.spotify.com/artist/4FY7PiiJHfUCxV4EeFZJFS) | [Imagine](https://open.spotify.com/album/1yXoDOS7MEiQXozSoMxArl) | 2:12 | 2024-03-26 |  |
+| [in the blossoms](https://open.spotify.com/track/5jaTCdcEMe7JJj6aOK5dim) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [in the blossoms](https://open.spotify.com/album/26OUgJJjfAvnmIvscwATCn) | 3:01 | 2024-08-01 |  |
 | [In The Clouds](https://open.spotify.com/track/0NlVqWHgp2b7y79OC9ocEG) | [My Lucid Dreams](https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b) | [In The Clouds](https://open.spotify.com/album/1UCX6cttCUpNf3wbepwOU9) | 2:04 | 2022-10-28 |  |
 | [Infinite](https://open.spotify.com/track/7BlFnkY76uwDT9fvoeWEFZ) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Infinite](https://open.spotify.com/album/1f45mE7umvGUb9OpAhW9ke) | 1:59 | 2022-09-02 | 2023-07-29 |
 | [Inner Circle](https://open.spotify.com/track/2PHONNW4Knw22LQ9o3EvIo) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [Inner Circle](https://open.spotify.com/album/6Oa5m0iCnUyBGue9WmeBcA) | 2:26 | 2022-09-23 |  |
@@ -369,7 +370,7 @@
 | [Number\#](https://open.spotify.com/track/48db71uT5mlzqtkBG5BOtJ) | [Azurenity](https://open.spotify.com/artist/670tCQfj3LeVsUqb2SY4Rs) | [Number\#](https://open.spotify.com/album/0vCDjbfYpMvookIZDrLXvl) | 2:15 | 2022-10-28 |  |
 | [NYC Springtime](https://open.spotify.com/track/7cxy4O5Ya6lc1hRSey4kiy) | [High Tip](https://open.spotify.com/artist/1GmHbj4LThdp2urHblLSWC) | [NYC Springtime](https://open.spotify.com/album/1gjrInZoxANNKBBnXq3YWi) | 4:01 | 2022-04-05 |  |
 | [Ocean Avenue](https://open.spotify.com/track/5Bv8KRYPE7w6S9bZfrUYiz) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe), [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Ocean Avenue](https://open.spotify.com/album/26MxpI4CnZlMXJoD7IoiGU) | 3:53 | 2021-11-10 | 2022-05-20 |
-| [Ocean Silver](https://open.spotify.com/track/7clefLUDCEMvTEj66Suv38) | [LoDub](https://open.spotify.com/artist/0r8v9ej0fnnyLhdF8YYz36) | [Ocean Silver](https://open.spotify.com/album/1eKWpj6bv2R6TwqT5g0euZ) | 2:35 | 2023-06-09 |  |
+| [Ocean Silver](https://open.spotify.com/track/7clefLUDCEMvTEj66Suv38) | [LoDub](https://open.spotify.com/artist/0r8v9ej0fnnyLhdF8YYz36) | [Ocean Silver](https://open.spotify.com/album/1eKWpj6bv2R6TwqT5g0euZ) | 2:35 | 2023-06-09 | 2024-08-02 |
 | [Ocean Waves](https://open.spotify.com/track/6Z8BFdxpHomsS388wpif8M) | [Ocean Waves](https://open.spotify.com/artist/3iIXOS6cHowvBms5msvdJf) | [Ocean Waves](https://open.spotify.com/album/3gkDYbiHQFES7zAdI2gbpV) | 2:19 | 2022-06-03 | 2023-01-13 |
 | [Oceans](https://open.spotify.com/track/3xnwGCg63UVgiS6P412mmN) | [Circle Soda](https://open.spotify.com/artist/3g9nH3mgwpI5wuHkeio1vK) | [Oceans](https://open.spotify.com/album/3mmvw87WMayIVdsfWsqbCY) | 4:05 | 2021-11-10 | 2022-07-08 |
 | [Oceans](https://open.spotify.com/track/2Y1YRWYSvziWfg4aH61ImH) | [West Sun](https://open.spotify.com/artist/11bJ0fFdkXZ9KIp85qIAKh) | [Oceans](https://open.spotify.com/album/4lFbvDty9iztttqrujuryt) | 2:05 | 2023-03-10 |  |
@@ -425,6 +426,7 @@
 | [reflect](https://open.spotify.com/track/0MLoEubW0HuTuHMYphRBgd) | [Sin & Logo](https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau) | [reflect](https://open.spotify.com/album/3sla1YDETOdnRRrmyn5jDy) | 2:44 | 2022-07-15 |  |
 | [relativity](https://open.spotify.com/track/4b8RSoGd1kGLZLllrlOQYc) | [Jasmineflour](https://open.spotify.com/artist/48XxrR0pCyOtiWqWrx8YB9) | [relativity](https://open.spotify.com/album/7g1DY2b3vCILA6UZxZEftq) | 2:17 | 2023-05-05 |  |
 | [Remember that Thing?](https://open.spotify.com/track/6qrWKbbY97z18o3nGiquGn) | [HEH](https://open.spotify.com/artist/0TPeimMKCuW9cVVu4DUOz0) | [Heroes in Heartbreak](https://open.spotify.com/album/2GKm63re8wsbsaJKUihCmO) | 2:29 | 2021-11-10 | 2022-05-11 |
+| [Rent](https://open.spotify.com/track/19iugsWjMy6wDD225VT35E) | [RA DAR](https://open.spotify.com/artist/25UwRVjERSaIMnOYX0ZaM1) | [Rent](https://open.spotify.com/album/5K9Yvjbzn5BdhpQyA4hJ2M) | 2:29 | 2024-08-01 |  |
 | [Restored](https://open.spotify.com/track/1nCp6nbwwhm1DLEL7KT9Li) | [Chalk Gang](https://open.spotify.com/artist/7nKTvkyNv3iatiJ0A4lBr7) | [Restored](https://open.spotify.com/album/7BpIbyON9DO2vxHGLCdpfE) | 2:41 | 2022-04-05 |  |
 | [Rhodes](https://open.spotify.com/track/2EFTZJN5orePrHn2k6Lsxe) | [Call Lane](https://open.spotify.com/artist/0AJ4Z8Q5D5OM3llGtJXnXy) | [Rhodes](https://open.spotify.com/album/3ib4ZrpTSLEEqPIt49BnGs) | 3:48 | 2021-11-10 | 2022-02-11 |
 | [Rise](https://open.spotify.com/track/36XEBgGn2zTURfa3yvKpNV) | [Gold Coast Microscopes](https://open.spotify.com/artist/1cp4bfGnJTQ2JImmeBCzMu) | [Poolside](https://open.spotify.com/album/5tkPyaVRCTnUwXozgKpvB8) | 2:11 | 2022-06-03 | 2022-09-02 |
@@ -496,7 +498,7 @@
 | [Squared](https://open.spotify.com/track/64X7j3lsLdVnh8wkBCuW3E) | [Calvio](https://open.spotify.com/artist/0ERiQMnG5wKxqgyUtJjcM8) | [Squared](https://open.spotify.com/album/37e0iLccpQTmnDVjcjDc9R) | 2:19 | 2022-04-05 |  |
 | [Starshower](https://open.spotify.com/track/0u4kksv1Fmt6QKEKHx91V6) | [Strong.AL&](https://open.spotify.com/artist/41iDgaNQFTv4Igs0WMw8d1), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv) | [Starshower](https://open.spotify.com/album/5ZXSACGKxOw5OtzgXXtdc5) | 2:12 | 2023-07-06 |  |
 | [Starstruck](https://open.spotify.com/track/4pduLVGTNsZ3KQUqK36Z2z) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Starstruck](https://open.spotify.com/album/5sYXhwMzCigsbf5LH3dN18) | 2:22 | 2021-11-10 | 2022-10-07 |
-| [State Of Logic](https://open.spotify.com/track/75iOFFpJrvIzP4w40w35rB) | [Light Stories](https://open.spotify.com/artist/1UFfFo7p1fESUTWhD6N16B) | [A New Beginnning](https://open.spotify.com/album/2HV3DLyEXmXWJPRJzKp0Bt) | 2:49 | 2023-02-17 |  |
+| [State Of Logic](https://open.spotify.com/track/75iOFFpJrvIzP4w40w35rB) | [Light Stories](https://open.spotify.com/artist/1UFfFo7p1fESUTWhD6N16B) | [A New Beginnning](https://open.spotify.com/album/2HV3DLyEXmXWJPRJzKp0Bt) | 2:49 | 2023-02-17 | 2024-08-02 |
 | [Stones Rolling](https://open.spotify.com/track/1XssrEr1EMWqWSFEO1pgLb) | [Bonham Style](https://open.spotify.com/artist/0nme6ZQPv94Iurg3BfTp2o) | [Stones Rolling](https://open.spotify.com/album/0ERDWtWwy3CvMYWmzb8jsV) | 1:57 | 2022-07-22 | 2023-01-20 |
 | [Streamer](https://open.spotify.com/track/6N8R2csfZSxqclNNiNjuyF) | [Afternoon In Stereo](https://open.spotify.com/artist/2eYljohSyHpRPrMM5sN8k8) | [Streamer](https://open.spotify.com/album/2QVtGzUuHwJlMUCwqPKsT6) | 1:53 | 2022-11-25 | 2023-07-29 |
 | [stuffin](https://open.spotify.com/track/6mb1iSZnSRH8gFhihPYl0A) | [youefoh](https://open.spotify.com/artist/5lLRYA4wx1a3WcdYiz9vYh) | [stuffin](https://open.spotify.com/album/26T3ADYF16bjYapOZgZaCO) | 2:32 | 2021-11-10 | 2022-05-11 |
@@ -559,6 +561,7 @@
 | [u shine](https://open.spotify.com/track/3MzNoKBTU7YDse4ffTVDfd) | [shapure](https://open.spotify.com/artist/34grM2pbi7LfEpQTrwURpL) | [u shine](https://open.spotify.com/album/2Z6b3szOnc0srhttso8uIq) | 2:12 | 2022-01-21 |  |
 | [Under The Stars](https://open.spotify.com/track/7JaX10rbsmPiwJANAjAouR) | [Calmster](https://open.spotify.com/artist/4mlXfx2yLZtLMkZfbNbjAv) | [Under The Stars](https://open.spotify.com/album/7ivCdZwxSn6gvMPPajMOlO) | 1:55 | 2023-02-09 | 2023-07-29 |
 | [Under The Weather](https://open.spotify.com/track/3QdRVeDM7SZTX8YV6UtLKh) | [Summerfields](https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4) | [Forever](https://open.spotify.com/album/6X13XBbTcWAggczlHX3hNr) | 3:12 | 2022-10-28 |  |
+| [under water](https://open.spotify.com/track/2CfvtzLblpnUl1n4Uzz5Rn) | [super8memory](https://open.spotify.com/artist/2ICYFkqo3OruO1QlpBzV8C) | [under water](https://open.spotify.com/album/75cnPM0ljMuhdcUfma695x) | 2:08 | 2024-08-01 |  |
 | [Underground Sound](https://open.spotify.com/track/6qmAVLvlEvJdXtyEmHZ37M) | [LoWorld](https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl) | [Underground Sound](https://open.spotify.com/album/4em4imooU76fZnibhNhuB8) | 2:17 | 2023-03-31 |  |
 | [unity](https://open.spotify.com/track/3Jg02v8nQp88GN1TqiAtKT) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [power to flow](https://open.spotify.com/album/5C8StkM3ZYGtkDAEqmV5ll) | 3:24 | 2022-05-20 |  |
 | [Until Dawn](https://open.spotify.com/track/64qL1d3aSX0QMZRWf29zy4) | [Julia Groves](https://open.spotify.com/artist/2kobiVcFE5QbsUbkxkrFq3) | [Until Dawn](https://open.spotify.com/album/7akmB3n9nOEkHn48cTZWkI) | 2:26 | 2021-11-10 |  |

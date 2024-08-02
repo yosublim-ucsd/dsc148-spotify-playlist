@@ -2,7 +2,7 @@
 
 ### [This Is Harry Styles \(2\)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ZsXzq)
 
-> This is Harry Styles\. The essential tracks, all in one playlist.
+> This is Harry Styles\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 30 songs - 1 hr 47 min
 

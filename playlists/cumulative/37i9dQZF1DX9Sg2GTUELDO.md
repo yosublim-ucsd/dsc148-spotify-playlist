@@ -2,9 +2,9 @@
 
 ### [超級女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受超級女聲力量。Cover：Nancy Kwai
+> 感受超級女聲力量。Cover：VIVA
 
-342 songs - 20 hr 38 min
+347 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,8 +42,10 @@
 | [Dont Wanna Be Like Me](https://open.spotify.com/track/1UjE8vwh6hA8jr7Nk4qCNz) | [章尾而](https://open.spotify.com/artist/15lQfNMoKWIjKGF0UQsy0M) | [Dont Wanna Be Like Me](https://open.spotify.com/album/7ll6sd3ehHb0aIvLISqX1p) | 2:59 | 2024-06-27 |  |
 | [Dreamscape](https://open.spotify.com/track/2sUF6C4FyUWTPjJPPfopQW) | [Chantel 姚焯菲](https://open.spotify.com/artist/1MlkzLE28NFMVQZpydkBsq) | [Dreamscape](https://open.spotify.com/album/5yThGh5FENQ7Epoe5aCbJp) | 3:03 | 2024-06-27 |  |
 | [DRUNK DIAL](https://open.spotify.com/track/6cCZ3sjNNwAFF2q7mUpY5X) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [DRUNK DIAL](https://open.spotify.com/album/6gwaYFmhFno0FWnjWfMJH3) | 3:38 | 2024-07-25 |  |
+| [DTR](https://open.spotify.com/track/6ybBP43qQcKEGeDbZVflZu) | [VIVA](https://open.spotify.com/artist/662zDVWmEH6bK7P5FaQ7GY) | [DTR](https://open.spotify.com/album/2OnNKK0pybBa1p9oWy2ZMp) | 2:34 | 2024-08-01 |  |
 | [Dum Dum](https://open.spotify.com/track/3hfAcz6q8GmeHoC9gPS6Vn) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Dum Dum](https://open.spotify.com/album/0Ov3I6NuDV5d41mZhvSc9f) | 3:05 | 2024-06-27 |  |
 | [Eye to Eye](https://open.spotify.com/track/1M7etW6Eh6EL3Rh4jIXuRk) | [Me&](https://open.spotify.com/artist/4MbLZsgkHJF3xq52M6ACgr) | [Eye to Eye](https://open.spotify.com/album/1FkHpK7wESNrJ3S3xnXEAO) | 3:27 | 2024-06-27 |  |
+| [eyes on me.](https://open.spotify.com/track/5AVSje7hjvmKjxJEN3s26m) | [Claudia Koh](https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx) | [eyes on me.](https://open.spotify.com/album/20NvVPIJJkNPeXUR6Xcf1Q) | 3:30 | 2024-08-01 |  |
 | [favourite jeans](https://open.spotify.com/track/4HOUg5mmwuAfZBhRVW8YN3) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [favourite jeans](https://open.spotify.com/album/0RdKrNpj8mDhR6TM8B1EsW) | 3:28 | 2024-06-27 |  |
 | [Feel You](https://open.spotify.com/track/7mDTBkgCx2TljaxYgiltbm) | [趙展彤 VAL](https://open.spotify.com/artist/0YyOn3pvKeT1LKWKowx1OG) | [Feel You](https://open.spotify.com/album/78AYWzkoCZArQ8HtlQqsQh) | 2:30 | 2024-06-27 |  |
 | [fOoL\#\#](https://open.spotify.com/track/3mYyUU2ZXDtA9I0YG8zWpi) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [fOoL\#\#](https://open.spotify.com/album/73L9KxkHzTRg4QSUXYMMG9) | 2:43 | 2024-06-27 |  |
@@ -116,6 +118,7 @@
 | [XOXO](https://open.spotify.com/track/0lPDGagRD1jCoRDVElX002) | [鍾舒祺](https://open.spotify.com/artist/7D3ifs7oGF0VJ3o8axspUu) | [XOXO](https://open.spotify.com/album/2aMutS8BUTZDJoUcI858DX) | 3:34 | 2024-06-27 |  |
 | [You took my breath away](https://open.spotify.com/track/3IYJXbKHHbTzJzIfZllkOz) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [You took my breath away](https://open.spotify.com/album/0dui9mfkjI8PQShouA7VNz) | 3:04 | 2024-06-27 |  |
 | [You'll Never Know](https://open.spotify.com/track/7ENDlCsI5teuC6MLXsbRo1) | [LydiaBaoBao](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [You'll Never Know](https://open.spotify.com/album/6B3rJyoegOOnDPjnighssL) | 4:29 | 2024-06-27 |  |
+| [一人之下](https://open.spotify.com/track/5lLE94LzoxV3jhu5FIeLsx) | [J.Arie](https://open.spotify.com/artist/1XtqhbH2mw54S87c4d4v2v) | [一人之下](https://open.spotify.com/album/1JdM7k7tnI7zHsQTcO2FrF) | 4:34 | 2024-08-01 |  |
 | [一個人走走\(電影《1人婚禮》原創主題曲\)](https://open.spotify.com/track/5BwzJ7QTFD6z0i91ORbdsR) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [一個人走走\(電影《1人婚禮》原創主題曲\)](https://open.spotify.com/album/1isihOJr9Ilh7kmT1hXBgG) | 3:30 | 2024-06-27 |  |
 | [一個傻瓜一個啞 \- Moment remix](https://open.spotify.com/track/2VvyUlfarVDRCNACd8U6EI) | [陳葦璇](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [一個傻瓜一個啞 \(Moment remix\)](https://open.spotify.com/album/5SDjzln631SF2J26vBiYzq) | 3:33 | 2024-06-27 |  |
 | [一念天堂，二人結界](https://open.spotify.com/track/6HTkrptDYm8zNAfvM0W9aI) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [一念天堂，二人結界](https://open.spotify.com/album/1YqyKe6cqbf2FIzy01Reay) | 4:05 | 2024-07-11 |  |
@@ -136,6 +139,7 @@
 | [二人限定故事](https://open.spotify.com/track/2LfrOjRAXQz4wdTbUXpsEu) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [二人限定故事](https://open.spotify.com/album/6paffDqSD3W1HIQMjA7xmu) | 3:14 | 2024-06-27 |  |
 | [五瓣玫瑰](https://open.spotify.com/track/3DyvkGveb7MCJgwlUo1VH7) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [五瓣玫瑰](https://open.spotify.com/album/0HfLp4LA5G3QAbrb8JLr8p) | 3:31 | 2024-07-11 |  |
 | [人若海](https://open.spotify.com/track/3OkPxR6SOO8QKGS1brNmWN) | [dorothy 劉君冬](https://open.spotify.com/artist/1qjsjBF6F451KY2MB5tSKQ) | [人若海](https://open.spotify.com/album/0t5tBgasdVVPco3oTbhyJb) | 3:09 | 2024-06-27 |  |
+| [今年煙花特別多](https://open.spotify.com/track/5R60xmTx4XzH4Co3ZgIG2F) | [Apple 凌雪怡](https://open.spotify.com/artist/3k01I6i5Vdf4fxSCzCdZvp) | [今年煙花特別多](https://open.spotify.com/album/4VIS7XglZQEMxSodj6U0aK) | 4:39 | 2024-08-01 |  |
 | [仍會等](https://open.spotify.com/track/3FGadTlzoJ5F4UtUMWrL3h) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [仍會等](https://open.spotify.com/album/4qMZ8lSzM9GXYEXv3WKa0f) | 3:19 | 2024-06-27 |  |
 | [他不是你](https://open.spotify.com/track/4A6uVEFbhT7TO9zXq9pRAL) | [Shiga Lin](https://open.spotify.com/artist/5Uw3hCC51pNjdsD2MOs72K) | [他不是你](https://open.spotify.com/album/7swXlMv4USdhFuENlRRXGq) | 4:11 | 2024-06-27 |  |
 | [以正義之名](https://open.spotify.com/track/76q7oMbUptFtumSe3cv5up) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [以正義之名](https://open.spotify.com/album/5bPGEuVSivcmobsNbNveD0) | 3:51 | 2024-06-27 |  |
@@ -314,6 +318,7 @@
 | [萬物有時](https://open.spotify.com/track/5gE4HG83INsGkkJPkwQVjk) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [萬物有時](https://open.spotify.com/album/6Xq3BT9jPBjAvlAPyEVMnF) | 3:44 | 2024-06-27 |  |
 | [被吃掉的靈魂](https://open.spotify.com/track/5C803SxLZnhe9e6FC0YiNW) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [被吃掉的靈魂](https://open.spotify.com/album/2I7CoLPIkTjR6R8mSXJwTB) | 3:31 | 2024-06-27 |  |
 | [複雜事情簡單化](https://open.spotify.com/track/1GIY9FlL3RVtNwrR0KwKtq) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [複雜事情簡單化](https://open.spotify.com/album/36LK1862cNLR937ixzfiDl) | 4:14 | 2024-06-27 |  |
+| [解咒說明書](https://open.spotify.com/track/7LJbnO4dGlntR0BuzI7mTV) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [解咒說明書](https://open.spotify.com/album/7hCvLsp8Tky2C61PEdJlMT) | 3:36 | 2024-08-01 |  |
 | [討好式戀愛](https://open.spotify.com/track/5bqnlcRLN5IudbbFbYfIWz) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [討好式戀愛](https://open.spotify.com/album/12YLTrOgEHGysZIYb5bpvl) | 3:44 | 2024-06-27 |  |
 | [說好的未來](https://open.spotify.com/track/3kDOAPunKnEPfFIFTlXVxA) | [Winka 陳泳伽](https://open.spotify.com/artist/1wmTLcYhwwD3GbNoI2Vwls) | [說好的未來](https://open.spotify.com/album/2C4T0p54qL3v5Tgojcleg7) | 3:41 | 2024-06-27 |  |
 | [說走就走](https://open.spotify.com/track/1KwWRZ8WwJ2odetEB5Lw2Q) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [說走就走](https://open.spotify.com/album/3KtFzTu5eLYskzCnYNkcOT) | 3:38 | 2024-06-27 |  |

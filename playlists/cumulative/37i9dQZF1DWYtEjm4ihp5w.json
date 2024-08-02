@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: 7liwa",
+  "description": "Playlist dial a7sen ma kayn f rap mghribi. Cover: 7liwa",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -82,6 +82,24 @@
       "duration_ms": 202000,
       "name": "3DABI",
       "url": "https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x"
+    },
+    {
+      "album": {
+        "name": "6 STARS",
+        "url": "https://open.spotify.com/album/1mUqezppyVhmPDJHX7E1tq"
+      },
+      "artists": [
+        {
+          "name": "Vargas",
+          "url": "https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160797,
+      "name": "6 STARS",
+      "url": "https://open.spotify.com/track/4Lozk0H98Zzu7iEoOMQy2t"
     },
     {
       "album": {
@@ -274,7 +292,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 168000,
       "name": "AMIRA",
       "url": "https://open.spotify.com/track/134X1F3lVFm1hPvggYClvm"
@@ -582,6 +600,24 @@
       "duration_ms": 250261,
       "name": "Blood",
       "url": "https://open.spotify.com/track/5H7Q8TFW1rWURc99JysBiW"
+    },
+    {
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "BLUE LOVE",
+      "url": "https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F"
     },
     {
       "album": {
@@ -2847,6 +2883,24 @@
     },
     {
       "album": {
+        "name": "ICEBERG",
+        "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "MARADONA",
+      "url": "https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya"
+    },
+    {
+      "album": {
         "name": "MARK",
         "url": "https://open.spotify.com/album/3Sx4uvZhdQW38tYqIjRCVW"
       },
@@ -2946,7 +3000,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 213913,
       "name": "Molotov",
       "url": "https://open.spotify.com/track/6HJPnvA2dmuViqGx0bSxI0"
@@ -3192,7 +3246,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 188567,
       "name": "Night Vision",
       "url": "https://open.spotify.com/track/2AXdyBnVJO0dci3WsCY6Qn"
@@ -3236,7 +3290,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 182949,
       "name": "No Love",
       "url": "https://open.spotify.com/track/4CelQrVKHuc1cvg7dzAn0h"
@@ -3512,7 +3566,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 191666,
       "name": "POPO",
       "url": "https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU"

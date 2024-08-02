@@ -2,15 +2,16 @@
 
 ### [Alta Rotazione](https://open.spotify.com/playlist/37i9dQZF1DX01NP73ErE8b)
 
-> I brani italiani che abbiamo on repeat! 🔁 Cover: Bnkr44
+> I brani italiani che abbiamo on repeat! 🔁 Cover: Mahmood
 
-64 songs - 3 hr 10 min
+66 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 anni \(piangi\) \(feat\. gIANMARIA & Mostro\)](https://open.spotify.com/track/4HCC59hmk0rQIyz7t1O0nz) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN), [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1), [Mostro](https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv) | [Mi hai visto piangere in un club](https://open.spotify.com/album/0nPLLvU545f2M3AT8XzPNN) | 3:54 | 2024-07-11 | 2024-07-27 |
 | [100 MESSAGGI](https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [100 MESSAGGI](https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N) | 4:04 | 2024-07-01 |  |
 | [30ºC](https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [30ºC](https://open.spotify.com/album/66o9NYg61y0te154pzWWth) | 2:22 | 2024-07-01 |  |
+| [8 PM](https://open.spotify.com/track/6dcZGdXWWGyrfxq8MLqXIX) | [jiojio](https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp) | [8 PM](https://open.spotify.com/album/4WENYnSEuWaTQD3ulS5U8V) | 3:14 | 2024-08-01 |  |
 | [ADDO STAJE \- Ride it RMX](https://open.spotify.com/track/6UKPNShrYDQE32SBkrjfTj) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou), [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1) | [ADDO STAJE \(Ride it RMX\)](https://open.spotify.com/album/0AgNkyLhcAdShRsMt1gtVZ) | 2:41 | 2024-07-01 |  |
 | [ALTROVE](https://open.spotify.com/track/5mTuGUq93D6eAOeJApPi8J) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [ALTROVE](https://open.spotify.com/album/7wFYcHirgNsa5mSV0yK72r) | 3:25 | 2024-07-01 |  |
 | [Alé \(feat\. Capo Plaza\)](https://open.spotify.com/track/1i0oabK4KhsbIJr029XStL) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 3:20 | 2024-07-01 |  |
@@ -33,8 +34,8 @@
 | [HO VOGLIA DI TE](https://open.spotify.com/track/3EJSUFQGUaTm4Km2Zri1Zp) | [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl) | [HO VOGLIA DI TE](https://open.spotify.com/album/46WmEktGt3rjxtsOqXIWXj) | 3:08 | 2024-07-01 |  |
 | [KARMA](https://open.spotify.com/track/3Tk7eEuh7bMDIAdYfSG3tb) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [KARMA](https://open.spotify.com/album/0NciSOteTA2J2Wp8v4jrJl) | 3:21 | 2024-07-01 |  |
 | [L'ULTIMA POESIA \(feat\. Ultimo\)](https://open.spotify.com/track/0vjcqQVb6nhk1A4lvW6ytN) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [L'ULTIMA POESIA \(feat\. Ultimo\)](https://open.spotify.com/album/5ikSXCKTvR5dkvbKLEfFTG) | 3:48 | 2024-07-01 |  |
-| [Latitante](https://open.spotify.com/track/2qCxXKYrLwi77HGLOm6pUv) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Latitante](https://open.spotify.com/album/0th9XXNZc92LIWSPwLovAv) | 2:55 | 2024-07-04 |  |
-| [Le Cose](https://open.spotify.com/track/6pYSUBIoiKGKGKNYVtPLLj) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Le Cose](https://open.spotify.com/album/4wimb8jyQFyFETvLlffqmZ) | 2:36 | 2024-07-18 |  |
+| [Latitante](https://open.spotify.com/track/2qCxXKYrLwi77HGLOm6pUv) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Latitante](https://open.spotify.com/album/0th9XXNZc92LIWSPwLovAv) | 2:55 | 2024-07-04 | 2024-08-02 |
+| [Le Cose](https://open.spotify.com/track/6pYSUBIoiKGKGKNYVtPLLj) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Le Cose](https://open.spotify.com/album/4wimb8jyQFyFETvLlffqmZ) | 2:36 | 2024-07-18 | 2024-08-02 |
 | [LOVE U / HATE U](https://open.spotify.com/track/4fRBih3IcHURUrTTgSbkEU) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6) | [LOVE U / HATE U](https://open.spotify.com/album/0Tu7GjmRagzlelhnLXLtZz) | 3:03 | 2024-07-01 |  |
 | [LUCIA \(STAY WITH ME\)](https://open.spotify.com/track/21NYfIzdx54csIcKIYHKaW) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LUCIA \(STAY WITH ME\)](https://open.spotify.com/album/2WgFP0w2qFvkJJUfhFhDKS) | 3:06 | 2024-07-01 | 2024-07-05 |
 | [MALAVITA](https://open.spotify.com/track/49tdZnvKAnJP6Xb3PUucPD) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [MALAVITA](https://open.spotify.com/album/0uPO1QkqyQi4aw1LcbMntE) | 2:46 | 2024-07-01 |  |
@@ -43,6 +44,7 @@
 | [melodrama](https://open.spotify.com/track/6EB9gbY9xIU2aCGpKZUm9C) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [melodrama](https://open.spotify.com/album/2yUO5bImUNrlDTunDO7QDd) | 2:27 | 2024-07-01 |  |
 | [Mezzo Rotto \(feat\. BigMama\)](https://open.spotify.com/track/0cDq1fpfr9NNFNAKQXLLK7) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Mezzo Rotto \(feat\. BigMama\)](https://open.spotify.com/album/4g3qTNaYtKUPWKrdQunnSd) | 3:15 | 2024-07-01 |  |
 | [Mezzo secondo](https://open.spotify.com/track/7frFMgNLiLH2udrlWLbbfA) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Mezzo secondo](https://open.spotify.com/album/0X7Cr7xdDJigfJti8X0j49) | 3:26 | 2024-07-01 |  |
+| [Mille Notti](https://open.spotify.com/track/0Jp5rqBHsyyAtNrjCodjDj) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Mille Notti](https://open.spotify.com/album/6YOMnbetcTF9tp8Nei72Zd) | 2:53 | 2024-08-01 |  |
 | [Molto amore](https://open.spotify.com/track/5tpaFod4779hJRvAKPHWtI) | [Diodato](https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi) | [Molto amore](https://open.spotify.com/album/0DGsacjMo83Rsxz8hXZQDK) | 2:55 | 2024-07-01 | 2024-07-12 |
 | [Musica Animale](https://open.spotify.com/track/6ELrB0W2OjbLGANsGU7gBn) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Musica Animale](https://open.spotify.com/album/4zIJhVNkke9akhZTiZzDuJ) | 3:02 | 2024-07-01 |  |
 | [Musica Italiana](https://open.spotify.com/track/3m2loz99NJ3z8UYEFcFdmS) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Musica Italiana](https://open.spotify.com/album/753BrMSZZPDcA4Ue5MdF6u) | 3:03 | 2024-07-01 |  |

@@ -2,9 +2,9 @@
 
 ### [le miel](https://open.spotify.com/playlist/37i9dQZF1DWTQZRn97DpO8)
 
-> 🍯🍯🍯\. Photo : aupinard
+> 🍯🍯🍯\. Photo : Ruthee
 
-193 songs - 9 hr 36 min
+194 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Cra$h \(feat\. Enchantée Julia & Jazzy Bazz\)](https://open.spotify.com/track/2F2i8pZ4yGqLGrRFuMicOA) | [Prince Waly](https://open.spotify.com/artist/4Lc100wJvtsyzNuPICliGy), [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E), [Jazzy Bazz](https://open.spotify.com/artist/0cMsSWXCY2Wag16luxN6fL) | [Moussa](https://open.spotify.com/album/1oxEKKN1NH5dTgQKiLkOiX) | 3:10 | 2023-09-28 | 2024-03-08 |
 | [Dans son tel](https://open.spotify.com/track/45hdgr7UGtAFE8aN8aQI10) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Dans son tel](https://open.spotify.com/album/3Ua1IfFgIPVlD9aiNGD2AG) | 3:46 | 2024-04-11 |  |
 | [des bisous](https://open.spotify.com/track/0J1rfWxfvcmoFQnN1Z0iFf) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE), [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [des bisous](https://open.spotify.com/album/2BNHfSQ6WMakKIf7mCYpuq) | 2:52 | 2023-10-26 | 2024-04-05 |
-| [dettes & doutes](https://open.spotify.com/track/1bm4RjFSsHIQ4z8WxFrIFF) | [HASNA](https://open.spotify.com/artist/30ZYb42MwDzkubaZm2GEoq) | [dettes & doutes](https://open.spotify.com/album/4EzjfpAy0krq50I8HZOH9g) | 2:54 | 2024-04-25 |  |
+| [dettes & doutes](https://open.spotify.com/track/1bm4RjFSsHIQ4z8WxFrIFF) | [HASNA](https://open.spotify.com/artist/30ZYb42MwDzkubaZm2GEoq) | [dettes & doutes](https://open.spotify.com/album/4EzjfpAy0krq50I8HZOH9g) | 2:54 | 2024-04-25 | 2024-08-02 |
 | [Dimanche Soir](https://open.spotify.com/track/1s8fQVWLb7q8o4bQrLNnUr) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [Dimanche Soir](https://open.spotify.com/album/4lSVxSUbj5WchWl67HBwqX) | 3:09 | 2023-10-26 | 2024-02-23 |
 | [Donne\-moi tout](https://open.spotify.com/track/0iUXT3c1wN4SBt7UdzaBEc) | [Joss Bari](https://open.spotify.com/artist/4rJInvuWe6jp7FDVpOdwap) | [Donne\-moi tout](https://open.spotify.com/album/2IsCZeyIFElBBw0rZX4Jkz) | 3:02 | 2023-12-08 | 2024-02-16 |
 | [Du feu](https://open.spotify.com/track/5xJDXbJCQO4WRbmfBJ0V2B) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Page blanche](https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN) | 3:44 | 2024-05-02 |  |
@@ -184,6 +184,7 @@
 | [Trop parfait](https://open.spotify.com/track/2c45x4aZmQRPUmRgB0UD6I) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb) | [Trop parfait](https://open.spotify.com/album/2urrKhxLyCvLgCcw2n8qta) | 3:06 | 2023-11-23 | 2024-01-26 |
 | [Tu m'aimes](https://open.spotify.com/track/1tUDGMd4dsqF8cFE3Z7UQq) | [Maheva Ony](https://open.spotify.com/artist/2Qrsf6B7PrwRq27zlCdS49) | [Tu m'aimes](https://open.spotify.com/album/2PpHuRVgWli4YFpDObnmNc) | 2:35 | 2023-09-28 | 2023-11-24 |
 | [Tu mens mal](https://open.spotify.com/track/50NmgRTIoJxkwnGLXhplIG) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Tu mens mal](https://open.spotify.com/album/7xkT6u3xmwFtVoBmaeH8Nh) | 3:46 | 2023-09-28 | 2024-04-12 |
+| [tu pleureras](https://open.spotify.com/track/0txjuBejOtziB6YX7XEkJE) | [HASNA](https://open.spotify.com/artist/30ZYb42MwDzkubaZm2GEoq) | [tu pleureras](https://open.spotify.com/album/5MAt7WDa0bL9bShnQ2aHWQ) | 1:57 | 2024-08-01 |  |
 | [Tu sais que](https://open.spotify.com/track/5CvsjxPwSteTgzyuPaCHs7) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Tu sais que](https://open.spotify.com/album/1N6CR2fwPgQ4Yco4002iJN) | 2:40 | 2024-02-01 | 2024-03-29 |
 | [Télécommande](https://open.spotify.com/track/4i9IcJ4T5aHY4xsUaRoS1C) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE), [Nemir](https://open.spotify.com/artist/5f6nz3iqzrfiUfKOIKvLvd) | [Télécommande](https://open.spotify.com/album/6krz5mD2pn0ZcGsrSidtR9) | 2:55 | 2024-02-22 | 2024-04-19 |
 | [Un autre que moi](https://open.spotify.com/track/6mW9sMSGdjjMWLAiiG6uf6) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Blessing](https://open.spotify.com/album/1EqLDQ1zxS2Sz5eCcGIRbJ) | 2:40 | 2023-09-28 | 2024-01-19 |

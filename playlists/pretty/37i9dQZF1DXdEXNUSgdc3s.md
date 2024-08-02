@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain]
 
 > Alpha frequencies to reach the point of ultimate relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,287 likes - 82 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,376 likes - 82 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain]
 | 55 | [Alpha Sinus Beauty 88Hz \- 96Hz](https://open.spotify.com/track/2Q1tvcxY1AURUd0Qh6707l) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Alpha Sinus Beauty 88Hz \- 96Hz](https://open.spotify.com/album/4KeshHI1lJjb7LTiex6J2L) | 2:31 |
 | 56 | [Alpha In The Night Sky 84Hz \- 91Hz](https://open.spotify.com/track/5XYrcHh7I6wfCUpApuiEL5) | [0neplus0ne](https://open.spotify.com/artist/29iJCpziaRGTqEC7GqLLBI) | [Alpha Sinus in the Night Sky](https://open.spotify.com/album/1K0Hlhu2UMjhmiJPmq8POV) | 4:52 |
 | 57 | [Alpha Sinus 100 Hz \- 108 Hz](https://open.spotify.com/track/3amQPrutVjXI9SMrvwHDK3) | [BinauralVille](https://open.spotify.com/artist/1Cqzx8HaZK3qHBxb002KXi) | [BinauralVille](https://open.spotify.com/album/1MCK9CMXGG0OdGXW6VlE6T) | 3:22 |
-| 58 | [Alpha REM 82 Hz \- 92 Hz](https://open.spotify.com/track/6Fn4dlKQFkDP421P2IShjC) | [REM](https://open.spotify.com/artist/6FdgwOhDP1kPWChJQqKGA4) | [Alpha REM 82 Hz \- 92 Hz](https://open.spotify.com/album/1pdONj5eMm3maQzqVtNNdV) | 2:50 |
+| 58 | [Alpha REM 82 Hz \- 92 Hz](https://open.spotify.com/track/6Fn4dlKQFkDP421P2IShjC) | [REM](https://open.spotify.com/artist/73wZ9JX4WJIWfMnXvnWnIm) | [Alpha REM 82 Hz \- 92 Hz](https://open.spotify.com/album/1pdONj5eMm3maQzqVtNNdV) | 2:50 |
 | 59 | [Deep Focus Alpha Sinus 92Hz \- 99Hz](https://open.spotify.com/track/2Bp0ZhtzZz4hz8DrF8L5Xo) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Deep Binaural](https://open.spotify.com/album/1e7LhfQ3uHCh3nJDqpQZ5v) | 3:17 |
 | 60 | [Binaural Alpha Sinus 100 Hz \- 108 Hz](https://open.spotify.com/track/4m9mcrSgs6uJk8ddws1Yz7) | [Vorssenn](https://open.spotify.com/artist/0V8dBTheanSubEjlU0dlvf) | [Alpha 8\-14 Hz Drones](https://open.spotify.com/album/1xvR00hIQDx1fiAQtoMHfI) | 3:26 |
 | 61 | [Steam](https://open.spotify.com/track/1cUhZBk6uXcUiyEkbzdP6k) | [Synchrophonic](https://open.spotify.com/artist/3TUQC7breUMMUi7bQVZQkP) | [Drones and Beats](https://open.spotify.com/album/4dqxnmrsRlZcjJOkRgP3FD) | 3:31 |

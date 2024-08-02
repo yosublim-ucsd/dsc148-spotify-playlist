@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: Russo",
+  "description": "De nieuwste Nederlandse pop! Cover: Shary-An, Kenny B",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -662,6 +662,24 @@
       "duration_ms": 169558,
       "name": "Alles Vergeven",
       "url": "https://open.spotify.com/track/0mlq1DTHPuugqFxb5ZRyju"
+    },
+    {
+      "album": {
+        "name": "Alles Voor Je Doen",
+        "url": "https://open.spotify.com/album/4jktsTmLRgsMDn2DvCn4wZ"
+      },
+      "artists": [
+        {
+          "name": "FLEUR",
+          "url": "https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Alles Voor Je Doen",
+      "url": "https://open.spotify.com/track/3JDZS5jO6LdVjm8OSDSbaj"
     },
     {
       "album": {
@@ -1720,7 +1738,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 229356,
       "name": "Brandende Zee",
       "url": "https://open.spotify.com/track/2Z9qbGSmIaIZEZeEfAjAUt"
@@ -1804,7 +1822,7 @@
       },
       "artists": [
         {
-          "name": "Jasha Rudge",
+          "name": "JASHA",
           "url": "https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL"
         }
       ],
@@ -2162,7 +2180,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 190702,
       "name": "Dansen Om Het Vuur",
       "url": "https://open.spotify.com/track/6m28vQjkw7kfEagXmJRI6Y"
@@ -3758,6 +3776,24 @@
     {
       "album": {
         "name": "Geef Me Over",
+        "url": "https://open.spotify.com/album/0Qi68mTfZhoCeAyztugCD2"
+      },
+      "artists": [
+        {
+          "name": "Birgit Schuurman",
+          "url": "https://open.spotify.com/artist/3t8YK94jSx9SebLHxsrAba"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206846,
+      "name": "Geef Me Over",
+      "url": "https://open.spotify.com/track/6Gx4pWKnHhp7gyRDEH9N6f"
+    },
+    {
+      "album": {
+        "name": "Geef Me Over",
         "url": "https://open.spotify.com/album/2oYQVqtgq7tP7fjRgiFBNj"
       },
       "artists": [
@@ -4230,6 +4266,24 @@
       "duration_ms": 179025,
       "name": "Hartslag Van De Stad",
       "url": "https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl"
+    },
+    {
+      "album": {
+        "name": "Heel Misschien",
+        "url": "https://open.spotify.com/album/08Bgpk12R7S2xMIV5Ez2Pw"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136522,
+      "name": "Heel Misschien",
+      "url": "https://open.spotify.com/track/4I3c9zXY66K19n4OyYNaUa"
     },
     {
       "album": {
@@ -4711,6 +4765,24 @@
     },
     {
       "album": {
+        "name": "Hoeveel Tranen Moet Ik Huilen",
+        "url": "https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208977,
+      "name": "Hoeveel Tranen Moet Ik Huilen",
+      "url": "https://open.spotify.com/track/6nmHOYTnybAfvIVCFdnkhe"
+    },
+    {
+      "album": {
         "name": "Hoger",
         "url": "https://open.spotify.com/album/3EPSzFm41wZfk95Ju8OpSO"
       },
@@ -5030,7 +5102,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 147226,
       "name": "Huil Maar Niet Om Mij",
       "url": "https://open.spotify.com/track/7mC3mnQrv7Q7qXpIYzlQIa"
@@ -6870,7 +6942,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 189473,
       "name": "masker",
       "url": "https://open.spotify.com/track/2nP2m6DarEheNK0oTU95Iw"
@@ -7962,6 +8034,24 @@
       "duration_ms": 147236,
       "name": "Nooit Meer Spijt",
       "url": "https://open.spotify.com/track/2h6HTbs5OeIyxsUa6kUeAL"
+    },
+    {
+      "album": {
+        "name": "Nou En",
+        "url": "https://open.spotify.com/album/7gqSCbF0YcOXbYdYCetdkh"
+      },
+      "artists": [
+        {
+          "name": "Laura Heijgen",
+          "url": "https://open.spotify.com/artist/6ByAkaup3Ff0fo6kUjXmAA"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170990,
+      "name": "Nou En",
+      "url": "https://open.spotify.com/track/5l67NZAMvIOJ2NhMRpLtqc"
     },
     {
       "album": {
@@ -11073,6 +11163,24 @@
     },
     {
       "album": {
+        "name": "Voor Even Is Het Goed",
+        "url": "https://open.spotify.com/album/1ugArcMJsgmLjeAXaea2Ia"
+      },
+      "artists": [
+        {
+          "name": "Guus Hulshof",
+          "url": "https://open.spotify.com/artist/5G2yrrfIxyRjzNGWtz7mYl"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194586,
+      "name": "Voor Even Is Het Goed",
+      "url": "https://open.spotify.com/track/5KENoW3hvhGvJus52bHPYV"
+    },
+    {
+      "album": {
         "name": "Voor Je \u2018t Weet",
         "url": "https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc"
       },
@@ -12114,7 +12222,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 155576,
       "name": "Zogenaamd",
       "url": "https://open.spotify.com/track/7mOFEGZPvIMqn66W7F9xAC"
@@ -12284,7 +12392,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 119260,
       "name": "Zo\u00eb",
       "url": "https://open.spotify.com/track/59gGsyejFwRWsjRywD0iCp"

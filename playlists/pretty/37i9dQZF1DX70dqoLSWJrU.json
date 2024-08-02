@@ -1,6 +1,6 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 80457,
+  "num_followers": 80489,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2024-06-13 13:41:28",
       "album": {
-        "name": "Chet Baker Sings",
-        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 262626,
-      "name": "My Ideal",
-      "url": "https://open.spotify.com/track/6akL58jOFRUs3DdoF1tUP0"
-    },
-    {
-      "added_at": "2024-06-13 13:41:28",
-      "album": {
         "name": "Everybody Digs Bill Evans",
         "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 354666,
       "name": "Young And Foolish",
       "url": "https://open.spotify.com/track/1WygPWqmNs4s2fxtjmtI3O"
+    },
+    {
+      "added_at": "2024-06-13 13:41:28",
+      "album": {
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 262626,
+      "name": "My Ideal",
+      "url": "https://open.spotify.com/track/6akL58jOFRUs3DdoF1tUP0"
     },
     {
       "added_at": "2024-06-13 13:41:28",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-06-13 13:41:28",
       "album": {
+        "name": "Lonely And Blue",
+        "url": "https://open.spotify.com/album/5aMysOzmRwAQArAcRegasS"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "I Miss You So",
+      "url": "https://open.spotify.com/track/0G3WxfqXCkCq9AGgqLINg9"
+    },
+    {
+      "added_at": "2024-06-13 13:41:28",
+      "album": {
         "name": "Cheek To Cheek (Deluxe)",
         "url": "https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 244080,
       "name": "But Beautiful",
       "url": "https://open.spotify.com/track/5CxkNGZFfG7eiWNWhvUC9A"
-    },
-    {
-      "added_at": "2024-06-13 13:41:28",
-      "album": {
-        "name": "Lonely And Blue",
-        "url": "https://open.spotify.com/album/5aMysOzmRwAQArAcRegasS"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "I Miss You So",
-      "url": "https://open.spotify.com/track/0G3WxfqXCkCq9AGgqLINg9"
     },
     {
       "added_at": "2024-06-13 13:41:28",
@@ -655,22 +655,18 @@
     {
       "added_at": "2024-06-13 13:41:28",
       "album": {
-        "name": "The Complete Piano Duets",
-        "url": "https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd"
+        "name": "Ella Sings Gershwin",
+        "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
       },
       "artists": [
         {
           "name": "Ella Fitzgerald",
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 297866,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/5wIXpK3BAW5geIlEmYf23n"
+      "duration_ms": 197666,
+      "name": "How Long Has This Been Going On?",
+      "url": "https://open.spotify.com/track/0HEU3berJ5OBojU8XmEk1c"
     },
     {
       "added_at": "2024-06-13 13:41:28",
@@ -819,18 +815,22 @@
     {
       "added_at": "2024-06-13 13:41:28",
       "album": {
-        "name": "Ella Sings Gershwin",
-        "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
+        "name": "The Complete Piano Duets",
+        "url": "https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd"
       },
       "artists": [
         {
           "name": "Ella Fitzgerald",
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 197666,
-      "name": "How Long Has This Been Going On?",
-      "url": "https://open.spotify.com/track/0HEU3berJ5OBojU8XmEk1c"
+      "duration_ms": 297866,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/5wIXpK3BAW5geIlEmYf23n"
     },
     {
       "added_at": "2024-06-13 13:41:28",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-06-13 13:41:28",
       "album": {
-        "name": "The Lost Tapes",
-        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "I'm a Fool to Want You",
-      "url": "https://open.spotify.com/track/2VGYeHdyZcnLfcA0Ix6d4Y"
-    },
-    {
-      "added_at": "2024-06-13 13:41:28",
-      "album": {
         "name": "Born To Be Blue",
         "url": "https://open.spotify.com/album/6vDO6c6V3hYq3KA2psLsZv"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 211906,
       "name": "Born To Be Blue",
       "url": "https://open.spotify.com/track/0zjHHk5Lqrf3j1ZpevLcJl"
+    },
+    {
+      "added_at": "2024-06-13 13:41:28",
+      "album": {
+        "name": "The Lost Tapes",
+        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "I'm a Fool to Want You",
+      "url": "https://open.spotify.com/track/2VGYeHdyZcnLfcA0Ix6d4Y"
     },
     {
       "added_at": "2024-06-13 13:41:28",

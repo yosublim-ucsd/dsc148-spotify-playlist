@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L?si=VRcFx1eMTmSA5UJOEob43A\">Maglera Doe Boy</a>, <a href=\"https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9?si=AoM3VlWeQACLBn4TysFn4g\">25K</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr?si=49pPikPrTmu6gK2Wecyf_w\">Emtee</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -1700,6 +1700,24 @@
       "duration_ms": 227834,
       "name": "Believe It",
       "url": "https://open.spotify.com/track/2ietildFwSxGXyElt6XR9D"
+    },
+    {
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/5rb4fEmvkfDSPP9A7YxkPf"
+      },
+      "artists": [
+        {
+          "name": "Emtee",
+          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230426,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/36o7zjnqf5ouMXZTOkI0MK"
     },
     {
       "album": {
@@ -5345,6 +5363,28 @@
     },
     {
       "album": {
+        "name": "Gasketi",
+        "url": "https://open.spotify.com/album/3E2FwOLIquNbg06pI8uM8c"
+      },
+      "artists": [
+        {
+          "name": "UYIHLO",
+          "url": "https://open.spotify.com/artist/5fYFLQeVq7PTOteHexySJ4"
+        },
+        {
+          "name": "BhutLegend",
+          "url": "https://open.spotify.com/artist/25BCKfqdyR3hrL0uaQyhAp"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173050,
+      "name": "Gasketi",
+      "url": "https://open.spotify.com/track/0ATPofixRXmj7mzq3q08Qv"
+    },
+    {
+      "album": {
         "name": "The Main Event",
         "url": "https://open.spotify.com/album/4FOUueCuvoWka03V8ALdMo"
       },
@@ -7780,6 +7820,24 @@
     {
       "album": {
         "name": "Kutsa",
+        "url": "https://open.spotify.com/album/11ktlA1YvImtKaFzT4hPNh"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305882,
+      "name": "Kutsa",
+      "url": "https://open.spotify.com/track/23PRC1Q2VFbIx6sCOCgLQu"
+    },
+    {
+      "album": {
+        "name": "Kutsa",
         "url": "https://open.spotify.com/album/5ho2gBJW7krfpIQDDLZim6"
       },
       "artists": [
@@ -8888,7 +8946,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 157871,
       "name": "Majabajaba",
       "url": "https://open.spotify.com/track/1JAK0Db556nfNnElO85yvo"
@@ -14507,6 +14565,28 @@
     },
     {
       "album": {
+        "name": "That One",
+        "url": "https://open.spotify.com/album/1bPZxC6rdltRUSqTZOg950"
+      },
+      "artists": [
+        {
+          "name": "Chaise Williams",
+          "url": "https://open.spotify.com/artist/668KBQvDxcLtxXqpEtdD3z"
+        },
+        {
+          "name": "LOOKATUPS",
+          "url": "https://open.spotify.com/artist/3Juf3knCVNci9CIpYraBER"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "That One",
+      "url": "https://open.spotify.com/track/3flwdJy9C7xiOreVvmTnno"
+    },
+    {
+      "album": {
         "name": "That Time",
         "url": "https://open.spotify.com/album/48pkjcR5t2abr2BFTHdtmU"
       },
@@ -15815,6 +15895,28 @@
     },
     {
       "album": {
+        "name": "UMSINDO (feat. Kiddo CSA)",
+        "url": "https://open.spotify.com/album/3Hb6LoSOegreWvghXlqjJh"
+      },
+      "artists": [
+        {
+          "name": "Asvnte",
+          "url": "https://open.spotify.com/artist/5bnvlUiyUv5RF53DDjrstn"
+        },
+        {
+          "name": "Kiddo CSA",
+          "url": "https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156033,
+      "name": "UMSINDO (feat. Kiddo CSA)",
+      "url": "https://open.spotify.com/track/0QZ1cjR64cdpXEYFG1iHXX"
+    },
+    {
+      "album": {
         "name": "uMuthi (Voodoo)",
         "url": "https://open.spotify.com/album/2EsVQTWJweTPwyaOMv3F3Z"
       },
@@ -16393,6 +16495,32 @@
     },
     {
       "album": {
+        "name": "WAR",
+        "url": "https://open.spotify.com/album/1mfotTCSRTniu8r6l0IvOM"
+      },
+      "artists": [
+        {
+          "name": "Kane Keid",
+          "url": "https://open.spotify.com/artist/3ve1wkH34zrfqTDaotzBto"
+        },
+        {
+          "name": "Tyson Sybateli",
+          "url": "https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy"
+        },
+        {
+          "name": "Priddy Ugly",
+          "url": "https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185917,
+      "name": "WAR",
+      "url": "https://open.spotify.com/track/3V3hlZ0gWcYSGCwMW6EDOs"
+    },
+    {
+      "album": {
         "name": "War Cry (Original)",
         "url": "https://open.spotify.com/album/20AmRVtbNjCLTIGisq4lYx"
       },
@@ -16634,6 +16762,24 @@
       "duration_ms": 158677,
       "name": "Whatchu Say ?",
       "url": "https://open.spotify.com/track/38Myszu0cRqEwZbzUWE80J"
+    },
+    {
+      "album": {
+        "name": "BASED ON iWAAR",
+        "url": "https://open.spotify.com/album/6sOHKNGSFkNezsWB3QDbeP"
+      },
+      "artists": [
+        {
+          "name": "SimulationRxps",
+          "url": "https://open.spotify.com/artist/6QTVNiWqHPMz6Aoxyk0Y5e"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181743,
+      "name": "WHATIF?",
+      "url": "https://open.spotify.com/track/2aqfZ5MEY0ZXAMYewiO1V0"
     },
     {
       "album": {
@@ -16980,7 +17126,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 154107,
       "name": "worth it",
       "url": "https://open.spotify.com/track/0YehiB9Jg7a4J2GH7BEtRy"

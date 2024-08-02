@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 326626,
+  "num_followers": 326717,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Before My Time",
+        "url": "https://open.spotify.com/album/0GMBFZ8LFLksl9uQyPyd6b"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        }
+      ],
+      "duration_ms": 181686,
+      "name": "Before My Time",
+      "url": "https://open.spotify.com/track/0mSKOjc2tvbAxw0agk2WrP"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Pok\u00e9wave III",
         "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 223129,
       "name": "I Must Be Dreamin'",
       "url": "https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Before My Time",
-        "url": "https://open.spotify.com/album/0GMBFZ8LFLksl9uQyPyd6b"
-      },
-      "artists": [
-        {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
-        }
-      ],
-      "duration_ms": 181686,
-      "name": "Before My Time",
-      "url": "https://open.spotify.com/track/0mSKOjc2tvbAxw0agk2WrP"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1491,22 +1491,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "VTEC",
-        "url": "https://open.spotify.com/album/0FB0c7iGjHB6mDUZBFx7FM"
+        "name": "Notilde Tapes, Vol. 1",
+        "url": "https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg"
       },
       "artists": [
         {
-          "name": "Groovy Kaiju",
-          "url": "https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR"
-        },
-        {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+          "name": "Pop Up!",
+          "url": "https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi"
         }
       ],
-      "duration_ms": 243167,
-      "name": "VTEC",
-      "url": "https://open.spotify.com/track/6oCqimPPtCdcCtIettP6v9"
+      "duration_ms": 230655,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1531,18 +1527,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Notilde Tapes, Vol. 1",
-        "url": "https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg"
+        "name": "VTEC",
+        "url": "https://open.spotify.com/album/0FB0c7iGjHB6mDUZBFx7FM"
       },
       "artists": [
         {
-          "name": "Pop Up!",
-          "url": "https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi"
+          "name": "Groovy Kaiju",
+          "url": "https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR"
+        },
+        {
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
         }
       ],
-      "duration_ms": 230655,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst"
+      "duration_ms": 243167,
+      "name": "VTEC",
+      "url": "https://open.spotify.com/track/6oCqimPPtCdcCtIettP6v9"
     },
     {
       "added_at": "2023-07-18 02:21:29",

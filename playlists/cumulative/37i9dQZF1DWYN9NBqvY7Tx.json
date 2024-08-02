@@ -27,6 +27,36 @@
     },
     {
       "album": {
+        "name": "4EVR",
+        "url": "https://open.spotify.com/album/5FsCLKDT9gEj9wZtO3ytXB"
+      },
+      "artists": [
+        {
+          "name": "ISOKNOCK",
+          "url": "https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37"
+        },
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "cade clair",
+          "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "4EVR",
+      "url": "https://open.spotify.com/track/2A3eCsmsW5ztqItagBLCVP"
+    },
+    {
+      "album": {
         "name": "Memphis Cult Vol. 6",
         "url": "https://open.spotify.com/album/5CZnhiTI3K85wLKwPLNOJB"
       },
@@ -102,6 +132,32 @@
       "duration_ms": 192455,
       "name": "A Drug From God",
       "url": "https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD"
+    },
+    {
+      "album": {
+        "name": "Breakcore Nexus LP",
+        "url": "https://open.spotify.com/album/0KYEOz4jqWSbMBTGLsWzmT"
+      },
+      "artists": [
+        {
+          "name": "Mattia Trani",
+          "url": "https://open.spotify.com/artist/0eQjVfBtEcSZ16oAq0V4mk"
+        },
+        {
+          "name": "Boss Doms",
+          "url": "https://open.spotify.com/artist/57aMHpsX2SXTbLatmeEd6j"
+        },
+        {
+          "name": "Dunkan",
+          "url": "https://open.spotify.com/artist/6P9VaNZCHkUT18kxHx1uky"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126170,
+      "name": "A night in DMT - feat. Boss Doms & Dunkan",
+      "url": "https://open.spotify.com/track/1gBA3Zeu3XLJeDpWkR8NcR"
     },
     {
       "album": {
@@ -2553,6 +2609,24 @@
     },
     {
       "album": {
+        "name": "Beat Tape 3",
+        "url": "https://open.spotify.com/album/15DkAowq0NYedaw8ieeepT"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151090,
+      "name": "Dope Track",
+      "url": "https://open.spotify.com/track/4Z38jEv7REm9di26vAAO6A"
+    },
+    {
+      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU"
       },
@@ -3812,7 +3886,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 191269,
       "name": "Frisbee",
       "url": "https://open.spotify.com/track/4uZDqd7PcWI019bHEDbhhR"
@@ -4654,7 +4728,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 165000,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/1LI8RWdVS2RWTn3GPPhVsA"
@@ -4952,7 +5026,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 107586,
       "name": "i hate edm",
       "url": "https://open.spotify.com/track/4kxvbzdrOnxh5xadCD429G"
@@ -7261,6 +7335,24 @@
     },
     {
       "album": {
+        "name": "ok </3",
+        "url": "https://open.spotify.com/album/7Cp4NjG6vmRiPDOfihtSg1"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204760,
+      "name": "ok </3",
+      "url": "https://open.spotify.com/track/7EF7xI1dSQj1dN1dP3YPPW"
+    },
+    {
+      "album": {
         "name": "OK Not To Be OK",
         "url": "https://open.spotify.com/album/3wCtCJ8O6SlGBWYfzAlsb2"
       },
@@ -7544,7 +7636,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 153000,
       "name": "Paper Plane",
       "url": "https://open.spotify.com/track/3oht02g1mg6KywagA3bysC"
@@ -8692,7 +8784,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 174387,
       "name": "S.O.S",
       "url": "https://open.spotify.com/track/46ZbeFHcvPbZT3z19WIKHZ"
@@ -9453,6 +9545,28 @@
     },
     {
       "album": {
+        "name": "Space4me",
+        "url": "https://open.spotify.com/album/5biP4BoGFVVQ1tEUAc9ZGX"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        },
+        {
+          "name": "Avara",
+          "url": "https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Space4me",
+      "url": "https://open.spotify.com/track/1utpwtl2JZP9n11qG2jRfw"
+    },
+    {
+      "album": {
         "name": "Spooky Phonk",
         "url": "https://open.spotify.com/album/17EOtip2oAoZhm97NxOuWS"
       },
@@ -9860,7 +9974,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 154285,
       "name": "Sweet Dreams (Are Made Of This)",
       "url": "https://open.spotify.com/track/2VgsFO5sOTrLo2AOXV7q0W"
@@ -11222,6 +11336,24 @@
       "duration_ms": 210000,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/5IctAQm39y9qiMtbKdzLzf"
+    },
+    {
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/7lFLWyaqcHEeFANruOXadS"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173714,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/4oQVLOACv9GfeB9KcDRIo8"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Dadju x Tayc
+> Le R&B français, nouvelle ère\. Photo : Franglish
 
-334 songs - 15 hr 59 min
+335 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,9 +288,10 @@
 | [SEULE \(AGAIN\)](https://open.spotify.com/track/5jHthJFk8TMUGDy532jiof) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [NISHATI](https://open.spotify.com/album/6Rl0Xb0LQKQjcFbtiptz1f) | 2:58 | 2024-03-14 | 2024-04-26 |
 | [Seum](https://open.spotify.com/track/0MeCUpsImEB7mLBL8hk0eX) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [Seum](https://open.spotify.com/album/2orVxRM5tcGJq1SrcAcM6c) | 2:37 | 2023-03-23 | 2023-04-07 |
 | [Sexy Chuchu](https://open.spotify.com/track/1kEAnO1Mqg1uw8XajyMAO8) | [$hiro](https://open.spotify.com/artist/5ccC62eZo8vv2qTOTndIkn) | [Sexy Chuchu](https://open.spotify.com/album/6E0qbXofLb9FPZB8h4LxZx) | 2:15 | 2023-04-13 | 2023-05-12 |
+| [SHAKE](https://open.spotify.com/track/5i0rsI0ih8V4pgY6J3MsHT) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [SHAKE](https://open.spotify.com/album/7j1MZzsUfCGSXItWOy8X1x) | 2:51 | 2024-08-01 |  |
 | [Shake](https://open.spotify.com/track/6D1SBrgvBx6fy25syegHtf) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Shake](https://open.spotify.com/album/2jwhlGrdKvvcBKx1JYqGiX) | 2:43 | 2024-06-06 |  |
 | [si j'avais pu](https://open.spotify.com/track/6XLdsbYjkONIN6TAt8s7yS) | [Iliana](https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83) | [si j'avais pu](https://open.spotify.com/album/5t9FkBCsHX4BSsTDATZD8P) | 2:26 | 2024-01-18 | 2024-03-01 |
-| [Si t'es pas là](https://open.spotify.com/track/7iFHqrO5zR5W2BLX1tcFvU) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Si t'es pas là](https://open.spotify.com/album/0w4IYykWb4wgw3LkUxRpwg) | 3:17 | 2024-01-25 |  |
+| [Si t'es pas là](https://open.spotify.com/track/7iFHqrO5zR5W2BLX1tcFvU) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Si t'es pas là](https://open.spotify.com/album/0w4IYykWb4wgw3LkUxRpwg) | 3:17 | 2024-01-25 | 2024-08-02 |
 | [Sincère](https://open.spotify.com/track/75wnwMwRcgwzOZvLhlysnm) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Sincère](https://open.spotify.com/album/26pCaPdLzIo7Sa02oGA7tQ) | 2:21 | 2024-02-15 |  |
 | [So nice](https://open.spotify.com/track/6Re9zzwNKxOeMfXj2muHbm) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [So nice](https://open.spotify.com/album/0ShQLD5CRIH9WVSnziuBkh) | 2:46 | 2024-07-18 |  |
 | [Soeurcière](https://open.spotify.com/track/5uguWUlKcGKjt9RB2NE3r7) | [Djena Della](https://open.spotify.com/artist/3NwVTaECP58CZdzeXMPYVc) | [Soeurcière](https://open.spotify.com/album/4G1rSDRhgiL5nukWB3pJ7b) | 2:33 | 2023-03-30 | 2023-04-28 |

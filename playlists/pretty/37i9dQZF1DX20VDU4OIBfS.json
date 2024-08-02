@@ -1,6 +1,6 @@
 {
   "description": "Temas inolvidables del ba\u00fal de los recuerdos.",
-  "num_followers": 3042286,
+  "num_followers": 3042327,
   "original_name": "Canciones del Recuerdo",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Porque Te Vas",
-        "url": "https://open.spotify.com/album/1qCaXMufzGyuuhkwvl2TYy"
-      },
-      "artists": [
-        {
-          "name": "Jeanette",
-          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
-        }
-      ],
-      "duration_ms": 201160,
-      "name": "\u00bfPorqu\u00e9 te vas?",
-      "url": "https://open.spotify.com/track/11rsK9GDZ9UdWsxtDqnMmN"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Camilo",
         "url": "https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 249666,
       "name": "\u00bfQuieres Ser Mi Amante?",
       "url": "https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Porque Te Vas",
+        "url": "https://open.spotify.com/album/1qCaXMufzGyuuhkwvl2TYy"
+      },
+      "artists": [
+        {
+          "name": "Jeanette",
+          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
+        }
+      ],
+      "duration_ms": 201160,
+      "name": "\u00bfPorqu\u00e9 te vas?",
+      "url": "https://open.spotify.com/track/11rsK9GDZ9UdWsxtDqnMmN"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Canta...Raphael",
-        "url": "https://open.spotify.com/album/0cm8e4rwLQq30D5Yvzdy0g"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
-        }
-      ],
-      "duration_ms": 159560,
-      "name": "Yo soy aqu\u00e9l",
-      "url": "https://open.spotify.com/track/4H71d1kJ8DB8J4atO8fbBl"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Coleccion",
         "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 312120,
       "name": "Guajira guantanamera",
       "url": "https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Canta...Raphael",
+        "url": "https://open.spotify.com/album/0cm8e4rwLQq30D5Yvzdy0g"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+        }
+      ],
+      "duration_ms": 159560,
+      "name": "Yo soy aqu\u00e9l",
+      "url": "https://open.spotify.com/track/4H71d1kJ8DB8J4atO8fbBl"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/1MOIyZUD4Tm5YaYZxuPz8a"
-      },
-      "artists": [
-        {
-          "name": "Maria Conchita Alonso",
-          "url": "https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9"
-        }
-      ],
-      "duration_ms": 237653,
-      "name": "La Loca",
-      "url": "https://open.spotify.com/track/6vYv81m3L5GZZrC5ZVJiMR"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "15 A\u00f1os Baladas \u00c9xitos",
         "url": "https://open.spotify.com/album/6tDHKMrmuTwtAbdFxP4Ki6"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 186373,
       "name": "No Tengo Dinero",
       "url": "https://open.spotify.com/track/6hQgqDq2VeyLYqgHoPG3O0"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/1MOIyZUD4Tm5YaYZxuPz8a"
+      },
+      "artists": [
+        {
+          "name": "Maria Conchita Alonso",
+          "url": "https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9"
+        }
+      ],
+      "duration_ms": 237653,
+      "name": "La Loca",
+      "url": "https://open.spotify.com/track/6vYv81m3L5GZZrC5ZVJiMR"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2143,6 +2143,22 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/1MOIyZUD4Tm5YaYZxuPz8a"
+      },
+      "artists": [
+        {
+          "name": "Maria Conchita Alonso",
+          "url": "https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9"
+        }
+      ],
+      "duration_ms": 253173,
+      "name": "Acar\u00edciame",
+      "url": "https://open.spotify.com/track/6MVNYTim9yCQMQgnpx517N"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/1YAzo6TPK5unqNDydM4CVb"
       },
@@ -2187,22 +2203,6 @@
       "duration_ms": 205453,
       "name": "Deja De Llorar",
       "url": "https://open.spotify.com/track/0DlNi5JvOCIxZbwW2uGAXK"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/1MOIyZUD4Tm5YaYZxuPz8a"
-      },
-      "artists": [
-        {
-          "name": "Maria Conchita Alonso",
-          "url": "https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9"
-        }
-      ],
-      "duration_ms": 253173,
-      "name": "Acar\u00edciame",
-      "url": "https://open.spotify.com/track/6MVNYTim9yCQMQgnpx517N"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Fotonovela",
-        "url": "https://open.spotify.com/album/1X9PPhhcScin4MlR8DrmRv"
-      },
-      "artists": [
-        {
-          "name": "Ivan",
-          "url": "https://open.spotify.com/artist/46pR6XQFnDyuprcvxrrHvq"
-        }
-      ],
-      "duration_ms": 231666,
-      "name": "Te Quiero Tanto",
-      "url": "https://open.spotify.com/track/0mdbrGj4IrGwZeAUwUJLPl"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Denise De Kalafe 10 Exitos",
         "url": "https://open.spotify.com/album/73YPWzhJAthVPAkj1UojYR"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 183213,
       "name": "Se\u00f1ora... Se\u00f1ora... Se\u00f1ora",
       "url": "https://open.spotify.com/track/1gpnjVCS2P9BPug3FvHpgW"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Fotonovela",
+        "url": "https://open.spotify.com/album/1X9PPhhcScin4MlR8DrmRv"
+      },
+      "artists": [
+        {
+          "name": "Ivan",
+          "url": "https://open.spotify.com/artist/46pR6XQFnDyuprcvxrrHvq"
+        }
+      ],
+      "duration_ms": 231666,
+      "name": "Te Quiero Tanto",
+      "url": "https://open.spotify.com/track/0mdbrGj4IrGwZeAUwUJLPl"
     },
     {
       "added_at": "2024-06-04 19:16:04",

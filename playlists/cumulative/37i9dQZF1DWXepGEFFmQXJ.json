@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Luke Combs, Post Malone",
+  "description": "The cream of today's Country crop. Cover: Keith Urban",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -921,6 +921,24 @@
     },
     {
       "album": {
+        "name": "Backbone (The Desert Child)",
+        "url": "https://open.spotify.com/album/2Rq8kjXYYa8XE9RWp7AnaM"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211573,
+      "name": "Backbone (The Desert Child)",
+      "url": "https://open.spotify.com/track/2VbDkiirW1CqJYms2jbqPV"
+    },
+    {
+      "album": {
         "name": "Darlinghurst",
         "url": "https://open.spotify.com/album/77bjZYPdR8D10J5XhhjAmB"
       },
@@ -1222,6 +1240,24 @@
       "duration_ms": 180282,
       "name": "Betrayal",
       "url": "https://open.spotify.com/track/7uWM2ITKJdXGA6jjv50N0V"
+    },
+    {
+      "album": {
+        "name": "hungover",
+        "url": "https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186453,
+      "name": "better be tough",
+      "url": "https://open.spotify.com/track/0gmQyWfN1iSYnwLMOlMPLi"
     },
     {
       "album": {
@@ -1771,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "Call It",
+        "url": "https://open.spotify.com/album/0xOxoDFnoSGcDtBA2nLWxB"
+      },
+      "artists": [
+        {
+          "name": "Chloe Styler",
+          "url": "https://open.spotify.com/artist/1KD6bHB3Oa9Gp3TuLtpLXX"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248439,
+      "name": "Call It",
+      "url": "https://open.spotify.com/track/01enz5CyIPdU0KKhyN1lid"
+    },
+    {
+      "album": {
         "name": "Call It A Day",
         "url": "https://open.spotify.com/album/5bb1vKHBhujvkX7ziKLijA"
       },
@@ -1800,7 +1854,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 202760,
       "name": "Call It Magic",
       "url": "https://open.spotify.com/track/3EZJD3WZvUoXYEa5x8wUVV"
@@ -4713,6 +4767,24 @@
     },
     {
       "album": {
+        "name": "HEART LIKE A HOMETOWN",
+        "url": "https://open.spotify.com/album/4TPBKw24pLkjWbRJE0f5zf"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "HEART LIKE A HOMETOWN",
+      "url": "https://open.spotify.com/track/4GZPRyWoyXUuq7GuyfWvFR"
+    },
+    {
+      "album": {
         "name": "Heartbreak Hotel",
         "url": "https://open.spotify.com/album/126VxqlCE4mo3WJ9DXaYHb"
       },
@@ -5403,6 +5475,28 @@
     },
     {
       "album": {
+        "name": "I Do (feat. Maddie & Tae)",
+        "url": "https://open.spotify.com/album/2c9wumdrF1G7CGk0ckyCLF"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        },
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "I Do (feat. Maddie & Tae)",
+      "url": "https://open.spotify.com/track/5hmPSqHHEE6mHZofGHj6Pb"
+    },
+    {
+      "album": {
         "name": "I Got Time",
         "url": "https://open.spotify.com/album/0dE2J2otGtYTvaiRN0EMy3"
       },
@@ -5614,7 +5708,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 214708,
       "name": "I Went To College / I Went To Jail (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/7kKdZ6PNaVD4aqsA9jvnyv"
@@ -6347,6 +6441,24 @@
     },
     {
       "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/1ZBApW42FpN1UPruOhf2Mp"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204933,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/6Gv6oZhbWa1fBGcv5VwW8g"
+    },
+    {
+      "album": {
         "name": "Lies Lies Lies",
         "url": "https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc"
       },
@@ -6586,6 +6698,28 @@
       "duration_ms": 185888,
       "name": "Living Free",
       "url": "https://open.spotify.com/track/0oMa11SpEDdjmYvEkOg4Pa"
+    },
+    {
+      "album": {
+        "name": "Lonely Road (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189356,
+      "name": "Lonely Road (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN"
     },
     {
       "album": {
@@ -7016,7 +7150,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 187017,
       "name": "Man on the Moon",
       "url": "https://open.spotify.com/track/22UE7ARZNnAJHq1TObXLcc"
@@ -9102,7 +9236,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 181412,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/7gomutDGuHdzt9zYTEO43z"
@@ -9880,7 +10014,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 210533,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/334YfRsUNPz8YXKmnOfGdR"
@@ -10032,7 +10166,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 195377,
       "name": "Something Stronger",
       "url": "https://open.spotify.com/track/4D8QTpuGn0abO0HmdTI8Rs"
@@ -12425,6 +12559,24 @@
     },
     {
       "album": {
+        "name": "Where The Lemons Grow",
+        "url": "https://open.spotify.com/album/43rwmuuCIyi5qM1SKz7gpa"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Shadbolt",
+          "url": "https://open.spotify.com/artist/4AnRUN3FJq0GZ0RCoRpgNC"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163541,
+      "name": "Where the Lemons Grow",
+      "url": "https://open.spotify.com/track/7hwzNeopFPb5RSuIfNWzTB"
+    },
+    {
+      "album": {
         "name": "Gettin' Old",
         "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
       },
@@ -12588,7 +12740,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 213000,
       "name": "Who You Did It With",
       "url": "https://open.spotify.com/track/3XnEch29DpBSD0YLGIzNP4"
@@ -12848,7 +13000,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 201000,
       "name": "Wish I Would",
       "url": "https://open.spotify.com/track/39x5rVWEW7yse1X0A4uT5K"

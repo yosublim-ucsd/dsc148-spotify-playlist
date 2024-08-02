@@ -4379,6 +4379,46 @@
     },
     {
       "album": {
+        "name": "Vicious Love",
+        "url": "https://open.spotify.com/album/4rtTqz6nQNNzgeJluDCeML"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        },
+        {
+          "name": "Hopelessly Devoted To You",
+          "url": "https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168965,
+      "name": "Vicious Love",
+      "url": "https://open.spotify.com/track/3MruDgZarPs29xWZXn9D9L"
+    },
+    {
+      "album": {
+        "name": "Resurrection",
+        "url": "https://open.spotify.com/album/3CLXR1W9TabxVLY2lZbAS1"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203382,
+      "name": "Vicious Love",
+      "url": "https://open.spotify.com/track/3GTapDdoEBfvla87bXolpq"
+    },
+    {
+      "album": {
         "name": "We Need More Bricks",
         "url": "https://open.spotify.com/album/4f5JujhyhXEY2XByzlfrvK"
       },

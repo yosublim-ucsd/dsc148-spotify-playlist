@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-613 songs - 1 day 8 hr 44 min
+617 songs - 1 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,7 +413,9 @@
 | [Pixel Heart](https://open.spotify.com/track/2mDnysW26TTMYZ0Wji4juJ) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [Pixel Heart](https://open.spotify.com/album/0N6kV5ONaWhpQquw2DBRHA) | 3:00 | 2024-01-11 | 2024-01-26 |
 | [PLACE IN MY MIND \(feat\. shy martin\)](https://open.spotify.com/track/0JALW2dwPffv5nNeKCIS0N) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Life of a Wallflower , Vol\. 2](https://open.spotify.com/album/3GSWRznG9Mtu1AXjPNb18T) | 2:46 | 2024-07-12 |  |
 | [Poetry Of You](https://open.spotify.com/track/2fvt96YAsSr5e8ZwbMg2j9) | [Love Remain](https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx) | [Poetry Of You](https://open.spotify.com/album/4qdR9J2rvV9X3t6eZKrTL1) | 4:17 | 2023-06-08 | 2024-01-06 |
+| [press play](https://open.spotify.com/track/6vZCWKiXwxCG0buNfWeQD8) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF), [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL) | [press play](https://open.spotify.com/album/70zFrT9W2NmVe18vUQh2oM) | 2:15 | 2024-08-01 |  |
 | [PROTECTA](https://open.spotify.com/track/4UFC4dvAyASnFJ3ZEoigsH) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [PROTECTA](https://open.spotify.com/album/1pqIMAkPGyIv2xqfR0Sohz) | 3:45 | 2023-09-28 |  |
+| [Protector](https://open.spotify.com/track/246PeUwGKXRy9Uvl3lQU9U) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Protector](https://open.spotify.com/album/0Lg5U1P4p7c2jjzZStHPkm) | 4:49 | 2024-08-01 |  |
 | [pullmecloser](https://open.spotify.com/track/0LtDM3ttfZsmzmNgm8aAtm) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [pullmecloser](https://open.spotify.com/album/165941zH2zxcRPR9rP8PK2) | 2:30 | 2023-11-16 | 2024-01-06 |
 | [Pulse](https://open.spotify.com/track/23iZJf28GEWUPSPy7lvuYQ) | [Cella](https://open.spotify.com/artist/3w7ASanLoAsQcWhd7V9DpJ) | [Pulse](https://open.spotify.com/album/65kd2HOjsJ9NE0m5EYrM2s) | 3:53 | 2023-10-12 | 2024-01-06 |
 | [Pulse](https://open.spotify.com/track/6LLvkAyDL6Yv6gHI8SF7Bw) | [HANDSOME](https://open.spotify.com/artist/57pf34Iuz55tqsKYxa3BOf), [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Pulse](https://open.spotify.com/album/7GCTjtsPVA8BSaFsUycCjf) | 4:55 | 2023-06-01 | 2024-01-06 |
@@ -559,6 +561,7 @@
 | [U&ME](https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [U&ME](https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq) | 3:15 | 2023-08-17 |  |
 | [Under Water](https://open.spotify.com/track/7FaEeXDs6TbIA3ip1MqknT) | [Ghost of Tellus](https://open.spotify.com/artist/5QtIF4xhM0ViWQFChbHNKJ), [Theis EZ](https://open.spotify.com/artist/0B6IiyD6eUa5YfYzGz0L5V) | [Under Water](https://open.spotify.com/album/3yo3qmnDpkTIrZN2P57ZFs) | 2:57 | 2023-09-21 | 2023-09-29 |
 | [Underwater](https://open.spotify.com/track/05VS9ifTEUpV6RiajKLxxW) | [19Clouds](https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF) | [Underwater](https://open.spotify.com/album/2Te7Vf1TcGQBbSlh3BRWat) | 2:47 | 2024-01-25 |  |
+| [Underwater](https://open.spotify.com/track/4wxqXPrqRxrd1y8ybVfSDR) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR) | [Underwater](https://open.spotify.com/album/7j51WLQhw5LNTQ1XG8E1et) | 2:43 | 2024-08-01 |  |
 | [Underworld](https://open.spotify.com/track/1CgXur4MKHpzt65SA15EtH) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77), [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ) | [Underworld](https://open.spotify.com/album/16qVIVSeZkDYrbNRLA9zTD) | 4:30 | 2024-02-22 | 2024-04-05 |
 | [Undo U \- 4x4 Mix](https://open.spotify.com/track/4Jwmw6mn6D3oUPfptF7Ng7) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Undo U \(4x4 Mix\)](https://open.spotify.com/album/1Pdd6xpnSzMlfUjDogMhgO) | 3:04 | 2023-11-16 |  |
 | [Unpredictable](https://open.spotify.com/track/5Oxwp87yBCGkatMmubetW3) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Unpredictable](https://open.spotify.com/album/5BbQtA7DV23ZFeCwZheBRa) | 3:17 | 2024-03-07 |  |
@@ -574,6 +577,7 @@
 | [Wait for a Dream \(feat\. Baerd\)](https://open.spotify.com/track/3Yk8Sl2eCAW1mFzJMaHRcR) | [Paraleven](https://open.spotify.com/artist/0oWk2R8lkNaOsFSSxMRwUr), [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Apollo](https://open.spotify.com/album/7i3JGnDu12ecX9TiG55t5d) | 6:07 | 2023-08-03 | 2024-01-06 |
 | [Wait For Me](https://open.spotify.com/track/66U3OYYcVEdJo3HIzlRyzd) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Love Disc](https://open.spotify.com/album/3UvDnhFvJ3BFlyZec8hJ0X) | 3:25 | 2023-06-22 | 2024-01-06 |
 | [Wait For Me](https://open.spotify.com/track/1QblUM5ANcUVnOoIXg7nbD) | [WHOKNOWS](https://open.spotify.com/artist/49CP1Oj52jww6pbuG9cl5y) | [Wait For Me](https://open.spotify.com/album/6FJvWBlOmVjtLLCdrgkwpn) | 1:55 | 2024-02-29 | 2024-04-05 |
+| [Waiting 4](https://open.spotify.com/track/1ZsCvT8pvt0Ldrk1Qdrq7L) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d), [demotapes](https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X) | [Waiting 4](https://open.spotify.com/album/2ehsRb3TSGZnEJSwgWyr97) | 4:13 | 2024-08-01 |  |
 | [Wanna Believe](https://open.spotify.com/track/0MbpWJ5YBwyNJaUc757hu9) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Wanna Believe](https://open.spotify.com/album/1M8XoqN9RxaTVvCjZuwq7r) | 3:22 | 2023-11-16 | 2024-01-06 |
 | [Want U](https://open.spotify.com/track/2Mq6Gnoh4gomERaXGiwEYB) | [MOONBOY](https://open.spotify.com/artist/16r05v3b8WwDS2TYRSlBCm), [KORA](https://open.spotify.com/artist/3WhSCXkMRTSKS4jt43hick) | [MOONBOY](https://open.spotify.com/album/7nbl0sq2qrigt7BGmAcPc7) | 4:39 | 2023-06-22 |  |
 | [Want You](https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Want You](https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc) | 3:58 | 2024-05-23 |  |

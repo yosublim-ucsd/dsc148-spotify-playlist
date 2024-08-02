@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Zaynara, Pabllo Vittar",
-  "num_followers": 372375,
+  "num_followers": 372366,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-07-26 14:05:47",
       "album": {
+        "name": "A Gente S\u00f3 Conhece Quando Termina",
+        "url": "https://open.spotify.com/album/57G8gYnOCrQnBPWTdsCKYT"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 156774,
+      "name": "A Gente S\u00f3 Conhece Quando Termina",
+      "url": "https://open.spotify.com/track/7aO80i4s9TvBg59Z7QwedH"
+    },
+    {
+      "added_at": "2024-07-26 14:05:47",
+      "album": {
         "name": "Deixa",
         "url": "https://open.spotify.com/album/3ojDsD2W4VEB3XKXIDAxIc"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 180021,
       "name": "Deixa",
       "url": "https://open.spotify.com/track/2TJdH3Uz7RAJqqQKwiTxDV"
-    },
-    {
-      "added_at": "2024-07-26 14:05:47",
-      "album": {
-        "name": "A Gente S\u00f3 Conhece Quando Termina",
-        "url": "https://open.spotify.com/album/57G8gYnOCrQnBPWTdsCKYT"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 156774,
-      "name": "A Gente S\u00f3 Conhece Quando Termina",
-      "url": "https://open.spotify.com/track/7aO80i4s9TvBg59Z7QwedH"
     },
     {
       "added_at": "2024-07-26 14:05:47",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-07-26 14:05:47",
       "album": {
-        "name": "Garoto Invis\u00edvel",
-        "url": "https://open.spotify.com/album/2GXWE2IjT2WUpxDM7DSZ8P"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 156712,
-      "name": "Garoto Invis\u00edvel",
-      "url": "https://open.spotify.com/track/3t6sIqeBwehmUfIF4lFtem"
-    },
-    {
-      "added_at": "2024-07-26 14:05:47",
-      "album": {
         "name": "Vira E Mexe",
         "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 190122,
       "name": "Vira E Mexe",
       "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
+    },
+    {
+      "added_at": "2024-07-26 14:05:47",
+      "album": {
+        "name": "Garoto Invis\u00edvel",
+        "url": "https://open.spotify.com/album/2GXWE2IjT2WUpxDM7DSZ8P"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 156712,
+      "name": "Garoto Invis\u00edvel",
+      "url": "https://open.spotify.com/track/3t6sIqeBwehmUfIF4lFtem"
     },
     {
       "added_at": "2024-07-26 14:05:47",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-07-26 14:05:47",
       "album": {
+        "name": "Serena",
+        "url": "https://open.spotify.com/album/5DnZ6DVAjopjlIZLGGkof1"
+      },
+      "artists": [
+        {
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+        }
+      ],
+      "duration_ms": 165957,
+      "name": "Serena",
+      "url": "https://open.spotify.com/track/6JUytWFYcYR7KSA4kiIJoI"
+    },
+    {
+      "added_at": "2024-07-26 14:05:47",
+      "album": {
         "name": "Olhar HD",
         "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 167741,
       "name": "OLHAR HD",
       "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
-    },
-    {
-      "added_at": "2024-07-26 14:05:47",
-      "album": {
-        "name": "Serena",
-        "url": "https://open.spotify.com/album/5DnZ6DVAjopjlIZLGGkof1"
-      },
-      "artists": [
-        {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
-        }
-      ],
-      "duration_ms": 165957,
-      "name": "Serena",
-      "url": "https://open.spotify.com/track/6JUytWFYcYR7KSA4kiIJoI"
     },
     {
       "added_at": "2024-07-26 14:05:47",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-07-26 14:05:47",
       "album": {
-        "name": "Segredos da Vida",
-        "url": "https://open.spotify.com/album/4pProUWceVTYKHJEfvKs8u"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 142136,
-      "name": "Segredos da Vida",
-      "url": "https://open.spotify.com/track/3Z3H3L0BMPjnq8Ktsws8tm"
-    },
-    {
-      "added_at": "2024-07-26 14:05:47",
-      "album": {
         "name": "Que Calor!",
         "url": "https://open.spotify.com/album/4x3W1YDoCNfWSlrJKrvaR9"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 119639,
       "name": "Que Calor!",
       "url": "https://open.spotify.com/track/3JypNKIr8gWwo9mJd0lr6l"
+    },
+    {
+      "added_at": "2024-07-26 14:05:47",
+      "album": {
+        "name": "Segredos da Vida",
+        "url": "https://open.spotify.com/album/4pProUWceVTYKHJEfvKs8u"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 142136,
+      "name": "Segredos da Vida",
+      "url": "https://open.spotify.com/track/3Z3H3L0BMPjnq8Ktsws8tm"
     },
     {
       "added_at": "2024-07-26 14:05:47",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-07-26 14:05:47",
       "album": {
-        "name": "Nem Sei Fingir",
-        "url": "https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Nem Sei Fingir",
-      "url": "https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP"
-    },
-    {
-      "added_at": "2024-07-26 14:05:47",
-      "album": {
         "name": "Amor Sint\u00e9tico",
         "url": "https://open.spotify.com/album/3EabNCXQmD8BhyCrv8YZVB"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 168000,
       "name": "Amor Sint\u00e9tico",
       "url": "https://open.spotify.com/track/4MxJkhJ3Pvld6ZYlHAQ9ya"
+    },
+    {
+      "added_at": "2024-07-26 14:05:47",
+      "album": {
+        "name": "Nem Sei Fingir",
+        "url": "https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Nem Sei Fingir",
+      "url": "https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP"
     },
     {
       "added_at": "2024-07-26 14:05:47",

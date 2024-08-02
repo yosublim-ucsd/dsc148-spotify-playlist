@@ -1,12 +1,12 @@
 {
-  "description": "This is Kelsea Ballerini. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
-  "num_followers": 85243,
+  "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
+  "num_followers": 85258,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqgtAAAAAACqmqJGIPnY3ei++EwE4GWW",
+  "snapshot_id": "Zql+gAAAAACc/6aPeA4jMZQBEaPEv9GN",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shut Up Train (Collab Version With Kelsea Ballerini)",
-        "url": "https://open.spotify.com/album/20o9VxiC3QA45Db8NaMTO6"
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
       },
       "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        },
         {
           "name": "Kelsea Ballerini",
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 227800,
-      "name": "Shut Up Train (Collab Version With Kelsea Ballerini)",
-      "url": "https://open.spotify.com/track/4P7kLRQNTPeSP9GyWzrqMT"
+      "duration_ms": 198053,
+      "name": "Just Married",
+      "url": "https://open.spotify.com/track/3jwLmTcTwuE0xLR3sm6SqI"
     },
     {
       "added_at": null,
@@ -563,18 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+        "name": "Shut Up Train (Collab Version With Kelsea Ballerini)",
+        "url": "https://open.spotify.com/album/20o9VxiC3QA45Db8NaMTO6"
       },
       "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        },
         {
           "name": "Kelsea Ballerini",
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 198053,
-      "name": "Just Married",
-      "url": "https://open.spotify.com/track/3jwLmTcTwuE0xLR3sm6SqI"
+      "duration_ms": 227800,
+      "name": "Shut Up Train (Collab Version With Kelsea Ballerini)",
+      "url": "https://open.spotify.com/track/4P7kLRQNTPeSP9GyWzrqMT"
     },
     {
       "added_at": null,

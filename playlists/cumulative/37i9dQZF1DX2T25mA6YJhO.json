@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 208862,
       "name": "agosto",
       "url": "https://open.spotify.com/track/2rMCjGUXkg9eyweQPcwvRX"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 157416,
       "name": "Cierra la puerta",
       "url": "https://open.spotify.com/track/4QYMXL9ytzRrmvHs2MHbuc"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-29",
+      "date_removed": null,
       "duration_ms": 227338,
       "name": "Fin de Semana",
       "url": "https://open.spotify.com/track/5yxMN1xhn6zH2HCjOEecGH"
@@ -782,7 +782,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 204154,
       "name": "Imaginaci\u00f3n pol\u00edtica",
       "url": "https://open.spotify.com/track/6wG01AZ6GnIEPNd1s9VBh8"
@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 211087,
       "name": "Lo de siempre",
       "url": "https://open.spotify.com/track/1wjRd9NhFtwSfGRaH4VFBB"
@@ -1064,6 +1064,24 @@
       "duration_ms": 208018,
       "name": "Los Chavales",
       "url": "https://open.spotify.com/track/0hnBLEpln0wSIsbvxeWQoO"
+    },
+    {
+      "album": {
+        "name": "Bohemian Rhapsody 2",
+        "url": "https://open.spotify.com/album/1WS2BvZ4C1tt7s7PTYYx8e"
+      },
+      "artists": [
+        {
+          "name": "Sugarcrush",
+          "url": "https://open.spotify.com/artist/42qSwWCF0ZJBVKtpuG1XlJ"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170005,
+      "name": "Los Muertos",
+      "url": "https://open.spotify.com/track/0DofQePTXespQrIKQfLXuc"
     },
     {
       "album": {
@@ -1194,7 +1212,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 169597,
       "name": "Me lapidar\u00eda",
       "url": "https://open.spotify.com/track/52oaBSXjnO6tqxokFwusnM"
@@ -1278,6 +1296,24 @@
       "duration_ms": 195680,
       "name": "Mi f\u00e1brica de baile Rock",
       "url": "https://open.spotify.com/track/61qYmqAXyKU0wjgIwxOMUL"
+    },
+    {
+      "album": {
+        "name": "Mi vecino",
+        "url": "https://open.spotify.com/album/4NRgvc0LkXuOWQAhvhxJHi"
+      },
+      "artists": [
+        {
+          "name": "Cumplea\u00f1os Un Martes",
+          "url": "https://open.spotify.com/artist/2up9boIYhnzyJMXtrHRc7Q"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Mi vecino",
+      "url": "https://open.spotify.com/track/0HCDbkncaw8CJ4ZGXDGKX7"
     },
     {
       "album": {
@@ -1448,6 +1484,28 @@
       "duration_ms": 154208,
       "name": "Nuestro Mejor Momento",
       "url": "https://open.spotify.com/track/5Z8so8w3PvZIJDbhN7l5t4"
+    },
+    {
+      "album": {
+        "name": "13m\u00b2 con trastos de por medio",
+        "url": "https://open.spotify.com/album/3NTJpNjsxmvblquqWCfrRF"
+      },
+      "artists": [
+        {
+          "name": "Paco Te Quiero",
+          "url": "https://open.spotify.com/artist/5da84dECf86iCOP1dchjJc"
+        },
+        {
+          "name": "Quinto Cuarta",
+          "url": "https://open.spotify.com/artist/2fH1mvehvpyUjJOqdhrUCH"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211689,
+      "name": "nunca voy a decirte lo que quiero decirte",
+      "url": "https://open.spotify.com/track/4p0Cbn2Hq30afyP6AyPfef"
     },
     {
       "album": {
@@ -1740,7 +1798,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 217512,
       "name": "Rosquilla de canela",
       "url": "https://open.spotify.com/track/5W7u9wTj93pOYcxea9orOF"
@@ -1920,7 +1978,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 261333,
       "name": "Tekken",
       "url": "https://open.spotify.com/track/5kxroIDsvS0AQck5X8EKYN"
@@ -2050,7 +2108,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 280812,
       "name": "T\u00fa No Lo Ves",
       "url": "https://open.spotify.com/track/3XmNUtr2R6EbBk3msDxYSN"
@@ -2112,6 +2170,24 @@
       "duration_ms": 201346,
       "name": "UN PALACIO CON MIS HUESOS",
       "url": "https://open.spotify.com/track/2Khm1TiPetapBlVoy5e5hS"
+    },
+    {
+      "album": {
+        "name": "Un viento de amnesia",
+        "url": "https://open.spotify.com/album/79e0Cbkt1dWXUWEYoSKZTN"
+      },
+      "artists": [
+        {
+          "name": "Verm\u00fa",
+          "url": "https://open.spotify.com/artist/7cXnpdXUUN67Vr3niD2dAi"
+        }
+      ],
+      "date_added": "2024-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211623,
+      "name": "Un viento de amnesia",
+      "url": "https://open.spotify.com/track/4GWcRyNfjTawfSSNF1nBOd"
     },
     {
       "album": {
@@ -2180,7 +2256,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 207680,
       "name": "Vuelta a casa",
       "url": "https://open.spotify.com/track/73PqBVASCSI1uVM94jTymu"

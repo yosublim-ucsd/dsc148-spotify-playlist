@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Jo\u00e9 Dw\u00e8t Fil\u00e9",
+  "description": "Les hits zouk du moment. Photo : Lisandro Cuxi",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -222,7 +222,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 258229,
       "name": "Banm Bagay La",
       "url": "https://open.spotify.com/track/2F7is4x8kYIidEEdbAouWF"
@@ -396,7 +396,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 261506,
       "name": "COMMANDES",
       "url": "https://open.spotify.com/track/4iEBC6CH4TUgqt9tWH1brw"
@@ -532,6 +532,24 @@
       "duration_ms": 140357,
       "name": "Dehors il fait froid",
       "url": "https://open.spotify.com/track/4NBJ31Bu470TPVgu06Vgn2"
+    },
+    {
+      "album": {
+        "name": "Des Mots (Des Maux)",
+        "url": "https://open.spotify.com/album/5sM1241lvkbHg7FgZdoCPG"
+      },
+      "artists": [
+        {
+          "name": "Rohane",
+          "url": "https://open.spotify.com/artist/4sOYdAl0sCehEnO9T1BqS4"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180206,
+      "name": "Des Mots - Des maux",
+      "url": "https://open.spotify.com/track/2LQOCaakw9iL4Qj5DdIGTC"
     },
     {
       "album": {
@@ -768,7 +786,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 229019,
       "name": "Encore",
       "url": "https://open.spotify.com/track/6VZtYtLfOUO9wh28TgY1Zz"
@@ -928,6 +946,28 @@
       "duration_ms": 157053,
       "name": "Hyp\u00e9",
       "url": "https://open.spotify.com/track/0jlEtXM0sxuoSmO0adcZ3J"
+    },
+    {
+      "album": {
+        "name": "Inkonpatible (feat. Lycina\u00efs Jean)",
+        "url": "https://open.spotify.com/album/7gz1BW4xlM8NHMslH42IEv"
+      },
+      "artists": [
+        {
+          "name": "Senyss",
+          "url": "https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM"
+        },
+        {
+          "name": "Lycina\u00efs Jean",
+          "url": "https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190573,
+      "name": "Inkonpatible (feat. Lycina\u00efs Jean)",
+      "url": "https://open.spotify.com/track/6e5pkeDJe4kfJgKuqP3xQH"
     },
     {
       "album": {
@@ -1315,6 +1355,28 @@
     },
     {
       "album": {
+        "name": "Level Up (feat. Kany)",
+        "url": "https://open.spotify.com/album/1LPsTbC6Mbs8uaMqQGzfKG"
+      },
+      "artists": [
+        {
+          "name": "Lylah",
+          "url": "https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF"
+        },
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154312,
+      "name": "Level Up (feat. Kany)",
+      "url": "https://open.spotify.com/track/2kRv77B419PCT2N6nIHx4E"
+    },
+    {
+      "album": {
         "name": "Limbisa (Kriolu Version)",
         "url": "https://open.spotify.com/album/7EqW8r7VH9W0E2JeQAcfq1"
       },
@@ -1650,7 +1712,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 185214,
       "name": "Non Non",
       "url": "https://open.spotify.com/track/2mQ3BNPDrrdkpbMXrpzhQU"
@@ -1741,6 +1803,24 @@
     },
     {
       "album": {
+        "name": "Oblije Blockem (Baby Gyal)",
+        "url": "https://open.spotify.com/album/7t31knDPCCiqPTaKIQF3I9"
+      },
+      "artists": [
+        {
+          "name": "Dee End",
+          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "Oblije Blockem - Baby Gyal",
+      "url": "https://open.spotify.com/track/0QPxawz5fYG2TeB7mO8wzy"
+    },
+    {
+      "album": {
         "name": "Offishal",
         "url": "https://open.spotify.com/album/0ViZKlgGnL2xKAgTBvbPwt"
       },
@@ -1826,10 +1906,32 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 128920,
       "name": "Oublie \u00e7a (Fendi)",
       "url": "https://open.spotify.com/track/1gxXleEdeIww3bYBy4IhPk"
+    },
+    {
+      "album": {
+        "name": "Oublie \u00e7a (Fendi) (feat. Lucas Seb) [Konpa Remix]",
+        "url": "https://open.spotify.com/album/7zbITbF81j9E8OXfX1XeDJ"
+      },
+      "artists": [
+        {
+          "name": "Senyss",
+          "url": "https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM"
+        },
+        {
+          "name": "lucas seb",
+          "url": "https://open.spotify.com/artist/16soxHmY8uUNGhiu1luYhl"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199285,
+      "name": "Oublie \u00e7a (Fendi) (feat. Lucas Seb) - Konpa Remix",
+      "url": "https://open.spotify.com/track/2LC2Rd6Oo8TDIyHbOfjfCy"
     },
     {
       "album": {

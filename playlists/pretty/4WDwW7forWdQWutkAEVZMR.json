@@ -1,6 +1,6 @@
 {
   "description": "Your go-to playlist for this week's hottest music featuring The Kid LAROI, Miley Cyrus, and more! Cover: Koe Wetzel",
-  "num_followers": 8011,
+  "num_followers": 8012,
   "original_name": "Columbia Records: Weekly Mix",
   "owner": {
     "name": "Columbia Records",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAcB8A/k3gwDwNaqO2hbkjxGlW3h1kX",
   "tracks": [
+    {
+      "added_at": "2024-07-12 16:46:43",
+      "album": {
+        "name": "Intermission",
+        "url": "https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 216818,
+      "name": "i hope i never fall in love",
+      "url": "https://open.spotify.com/track/390iwei17tVqcJ0PMoA0JR"
+    },
     {
       "added_at": "2024-07-19 17:34:51",
       "album": {

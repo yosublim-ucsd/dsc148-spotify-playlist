@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/14Vt5ErffVByZY4up1hBBt?si=gpaYMZh8QiyCOD7YE5pWpQ\">Amy Ayanda</a>",
+  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG?si=StLR9dVKQw-GcwBzD5cnCw\">Sishii</a>",
   "name": "Indie GO",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 244909,
       "name": "1988",
       "url": "https://open.spotify.com/track/60GeeJt1UxTSbZEleGRDTY"
+    },
+    {
+      "album": {
+        "name": "1st of the year",
+        "url": "https://open.spotify.com/album/7ek1rhNI104OLRBuZDlIZW"
+      },
+      "artists": [
+        {
+          "name": "Thala",
+          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207429,
+      "name": "1st of the year",
+      "url": "https://open.spotify.com/track/3QlBomUBtNTEnNrQeMTPD0"
     },
     {
       "album": {
@@ -124,7 +142,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 142180,
       "name": "A Little Longer",
       "url": "https://open.spotify.com/track/134vYRsrDPJ7urNqeOUlIX"
@@ -742,7 +760,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 257453,
       "name": "Around the world in a day (feat. Moses Sumney)",
       "url": "https://open.spotify.com/track/0AncHqGegHhP6teMUwLRWr"
@@ -1193,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "Beast",
+        "url": "https://open.spotify.com/album/09NWknl4KmRsfcWbddzUZY"
+      },
+      "artists": [
+        {
+          "name": "Carla Conrad",
+          "url": "https://open.spotify.com/artist/2NSvjRa9yzXpz8S1IeicEl"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211525,
+      "name": "Beast",
+      "url": "https://open.spotify.com/track/3PaomVOpQ6h55vHxAH3WRN"
+    },
+    {
+      "album": {
         "name": "Beautiful Day (Acoustic Cover)",
         "url": "https://open.spotify.com/album/51zhilUUY6kaqSh5J3MHcF"
       },
@@ -1266,7 +1302,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 236119,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/05l5FDLR4PdqQ29JrMxEqB"
@@ -1284,7 +1320,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 101997,
       "name": "Best Boyfriend",
       "url": "https://open.spotify.com/track/1sUznLPHntv33KX5vMXIHy"
@@ -1342,6 +1378,24 @@
       "duration_ms": 151275,
       "name": "Best One",
       "url": "https://open.spotify.com/track/5ZIpwHR8KLeo6qibMb5nRI"
+    },
+    {
+      "album": {
+        "name": "Bestie, Move On",
+        "url": "https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211581,
+      "name": "Bestie, Move On",
+      "url": "https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU"
     },
     {
       "album": {
@@ -1414,7 +1468,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 144406,
       "name": "BIG TALKER",
       "url": "https://open.spotify.com/track/3Odtg7h3Iwo8h33ZniscR4"
@@ -2374,7 +2428,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 168226,
       "name": "cherry cola",
       "url": "https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k"
@@ -2887,6 +2941,24 @@
     },
     {
       "album": {
+        "name": "Dance at the Function",
+        "url": "https://open.spotify.com/album/7DIMi5jLdMlWB8rgsMMDwd"
+      },
+      "artists": [
+        {
+          "name": "Amilli",
+          "url": "https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205901,
+      "name": "Dance at the Function",
+      "url": "https://open.spotify.com/track/5USEKBiRFiQCeWy4U8AjKW"
+    },
+    {
+      "album": {
         "name": "DANCING ALONE",
         "url": "https://open.spotify.com/album/4gklkL65scya4vEnQO07ph"
       },
@@ -3216,7 +3288,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 184434,
       "name": "Devil Mode",
       "url": "https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c"
@@ -3544,7 +3616,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 144000,
       "name": "downfall~",
       "url": "https://open.spotify.com/track/5FkRmaVumdgalQxUCailGP"
@@ -3674,6 +3746,24 @@
       "duration_ms": 136161,
       "name": "Drop Dead",
       "url": "https://open.spotify.com/track/1sjnIv36iD8HHbBimsLlUk"
+    },
+    {
+      "album": {
+        "name": "Dust Over Dunes",
+        "url": "https://open.spotify.com/album/6M7uEQsfVaHB89fiyRByHB"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221200,
+      "name": "Dust Over Dunes",
+      "url": "https://open.spotify.com/track/6SAta2wxm50bSPp8iwOYFu"
     },
     {
       "album": {
@@ -4168,7 +4258,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 209233,
       "name": "Feel It All",
       "url": "https://open.spotify.com/track/4eISmOIOx8s1pWtLkpYHxj"
@@ -4598,7 +4688,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 150005,
       "name": "Gary",
       "url": "https://open.spotify.com/track/1CFk4BcEroLNW1TfAUGWoj"
@@ -6593,6 +6683,24 @@
     },
     {
       "album": {
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195109,
+      "name": "Juna",
+      "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
+    },
+    {
+      "album": {
         "name": "Jupiter In Spring",
         "url": "https://open.spotify.com/album/0Gkt7j3MFbm1W6ujpClQmL"
       },
@@ -7493,6 +7601,24 @@
     },
     {
       "album": {
+        "name": "Love The Way You Love/Lover's Vow",
+        "url": "https://open.spotify.com/album/5u0g02zU7BM4MclrO8H6Vv"
+      },
+      "artists": [
+        {
+          "name": "Claude Fontaine",
+          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176998,
+      "name": "Love The Way You Love",
+      "url": "https://open.spotify.com/track/556c8oARPcgftAtxRE2Wz9"
+    },
+    {
+      "album": {
         "name": "Lovely",
         "url": "https://open.spotify.com/album/5K5weaJCO4Nno8yI2mm4Ev"
       },
@@ -7736,7 +7862,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 301962,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/2Le5eAmLc4fb6t8q9NH4xd"
@@ -10281,6 +10407,24 @@
     },
     {
       "album": {
+        "name": "Riff Before Work",
+        "url": "https://open.spotify.com/album/47aFetVSgGTuupxJi49bNP"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166576,
+      "name": "Riff Before Work",
+      "url": "https://open.spotify.com/track/0wFpbcKr0QhZjmobFZMBNz"
+    },
+    {
+      "album": {
         "name": "Ring of Past",
         "url": "https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L"
       },
@@ -10707,6 +10851,24 @@
     },
     {
       "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
+    },
+    {
+      "album": {
         "name": "Sally",
         "url": "https://open.spotify.com/album/4fRbVJ1B6nbRrPdKLg3aYo"
       },
@@ -10830,6 +10992,24 @@
       "duration_ms": 164002,
       "name": "See You Shine",
       "url": "https://open.spotify.com/track/7bzmfqeBpB4crtt1Vm5GRk"
+    },
+    {
+      "album": {
+        "name": "Seed of a Seed",
+        "url": "https://open.spotify.com/album/77Q7ZGkqC4k1GjgoSdMrYa"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Seed of a Seed",
+      "url": "https://open.spotify.com/track/2dLVXnwdnstcHIRTJMgqsx"
     },
     {
       "album": {
@@ -11342,7 +11522,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 201133,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
@@ -11830,6 +12010,24 @@
       "duration_ms": 146062,
       "name": "Still A RockStar",
       "url": "https://open.spotify.com/track/0o0b7b1fpkdo0AcBE65Gk3"
+    },
+    {
+      "album": {
+        "name": "still around",
+        "url": "https://open.spotify.com/album/590XAhSjXQGT8BfHCOaZGp"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217871,
+      "name": "still around",
+      "url": "https://open.spotify.com/track/2Qe9pxPgnUBZMRDvonR0hK"
     },
     {
       "album": {
@@ -13776,7 +13974,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 129640,
       "name": "Vivid Memories",
       "url": "https://open.spotify.com/track/0lo4TTF9XtgNLzigXYgRu0"
@@ -14307,6 +14505,24 @@
     },
     {
       "album": {
+        "name": "whos gonna talk me outta my mind??",
+        "url": "https://open.spotify.com/album/19LMdvfBQP6A9ATYAfr9qN"
+      },
+      "artists": [
+        {
+          "name": "Sishii",
+          "url": "https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "whos gonna talk me outta my mind??",
+      "url": "https://open.spotify.com/track/4scFevAlibVBXC66b1yf9R"
+    },
+    {
+      "album": {
         "name": "Why Am I Like This?",
         "url": "https://open.spotify.com/album/6e75KHFKuyHqjhoz5v4u8R"
       },
@@ -14614,6 +14830,24 @@
       "duration_ms": 212818,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/69OY9Ujexp9qK4MHtD6Tzr"
+    },
+    {
+      "album": {
+        "name": "Worth Loving",
+        "url": "https://open.spotify.com/album/72gx0IIHL4YbjczVGMw5XD"
+      },
+      "artists": [
+        {
+          "name": "Basson Laas",
+          "url": "https://open.spotify.com/artist/2Beab8dPjPTw62bpTfETqx"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218472,
+      "name": "Worth Loving",
+      "url": "https://open.spotify.com/track/5wplKAd9NqcfQjfxVgGFeJ"
     },
     {
       "album": {

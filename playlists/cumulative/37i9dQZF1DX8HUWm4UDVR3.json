@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : ANA\u00cfS MVA",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Herv\u00e9",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -560,7 +560,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 196442,
       "name": "Bris\u00e9es",
       "url": "https://open.spotify.com/track/4LP1eSmHnz4zuOUWzBBrQs"
@@ -1356,7 +1356,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 178269,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/2Md4p1zQCVkyPQDuxKho5L"
@@ -1696,6 +1696,24 @@
       "duration_ms": 182438,
       "name": "J'vais passer l'\u00e2ge",
       "url": "https://open.spotify.com/track/2lXsHUjQV9sZN83sivu9JE"
+    },
+    {
+      "album": {
+        "name": "Je t'ai dit non",
+        "url": "https://open.spotify.com/album/1QgvJtMaR04Cy2VySFNBA6"
+      },
+      "artists": [
+        {
+          "name": "Juicy Cola",
+          "url": "https://open.spotify.com/artist/6u9m2Ocxutj8gv7UJdwiWJ"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148317,
+      "name": "Je t'ai dit non",
+      "url": "https://open.spotify.com/track/3hA78BzovZdpdl2ZQw9KzI"
     },
     {
       "album": {
@@ -3102,6 +3120,24 @@
       "duration_ms": 194000,
       "name": "Remia",
       "url": "https://open.spotify.com/track/6YGurDnYXwVgx3v76n9Ddt"
+    },
+    {
+      "album": {
+        "name": "Passe temps",
+        "url": "https://open.spotify.com/album/5ABIkEsRQ99GUxSgBKk5ZR"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Patronik",
+          "url": "https://open.spotify.com/artist/21HK8UZA439q6bjQ0cpu2M"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158744,
+      "name": "Rendez-vous",
+      "url": "https://open.spotify.com/track/31RrSOLsLYx9CsHlC11x5V"
     },
     {
       "album": {

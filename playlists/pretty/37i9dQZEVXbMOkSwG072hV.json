@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Brazil.",
-  "num_followers": 352371,
+  "num_followers": 352369,
   "original_name": "Viral 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lj2mSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Lj7zGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "No Bar de T\u00f5e Furico (Ao Vivo)",
         "url": "https://open.spotify.com/album/0A4m8mPzLSwJwuOAniS4KC"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4BVL2QLF5QQLT15SpAWMVq"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "Bengala e Croch\u00ea",
         "url": "https://open.spotify.com/album/2znP9w3bHdb0JCqURRO1IS"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/2HGdp5rQB9CZcukJz17dut"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "Harpy Hare",
         "url": "https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "O Melhor no Que Faz 3.0",
         "url": "https://open.spotify.com/album/2R1AMmWGUa5IJYAdejtajq"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/6AYTqLO7dw1h212u5zqjPz"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "Tudo",
         "url": "https://open.spotify.com/album/23vPvfHVul6OYqecsEu2Xz"
@@ -125,7 +125,23 @@
       "url": "https://open.spotify.com/track/23xwUnHLFrF4pan9eIrQj2"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
+      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
+    },
+    {
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "Achei que era Pagode",
         "url": "https://open.spotify.com/album/2Xv52XBe67uFQJzEDAW4nH"
@@ -145,7 +161,7 @@
       "url": "https://open.spotify.com/track/2NmunJ0EJbE2oFbs1CIOeQ"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "Ela Joga na Hora",
         "url": "https://open.spotify.com/album/30Ytb0PG1tOv7JiKOTBK2v"
@@ -165,7 +181,7 @@
       "url": "https://open.spotify.com/track/6hZGsChumRhWG24OEh698c"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "Achei Que Era Pagode",
         "url": "https://open.spotify.com/album/3DLkq6PzXkWeCm5uyuetaW"
@@ -197,55 +213,7 @@
       "url": "https://open.spotify.com/track/77cKSpUvbxJ56FIgdVGc8R"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
-      "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
-      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
-    },
-    {
-      "added_at": "2024-07-31 13:19:57",
-      "album": {
-        "name": "\u00c9 o Grelo",
-        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
-      },
-      "artists": [
-        {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
-        }
-      ],
-      "duration_ms": 277942,
-      "name": "Vida Loka - Pt 1",
-      "url": "https://open.spotify.com/track/4qR2qFXGphq6VW5IJIoHI1"
-    },
-    {
-      "added_at": "2024-07-31 13:19:57",
-      "album": {
-        "name": "\u00c9 o Grelo",
-        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
-      },
-      "artists": [
-        {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
-        }
-      ],
-      "duration_ms": 172721,
-      "name": "Dias De Luta",
-      "url": "https://open.spotify.com/track/3BBh5EWaOi8L6qqXJu9Gdf"
-    },
-    {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "Pensa Que \u00c9 Dois",
         "url": "https://open.spotify.com/album/1yCiQjjUx0YdoQ4EJTk6JS"
@@ -265,7 +233,39 @@
       "url": "https://open.spotify.com/track/396PHB0q5c3JVE3DyJlFHW"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
+      "album": {
+        "name": "\u00c9 o Grelo",
+        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "duration_ms": 277942,
+      "name": "Vida Loka - Pt 1",
+      "url": "https://open.spotify.com/track/4qR2qFXGphq6VW5IJIoHI1"
+    },
+    {
+      "added_at": "2024-08-01 13:36:17",
+      "album": {
+        "name": "\u00c9 o Grelo",
+        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "duration_ms": 172721,
+      "name": "Dias De Luta",
+      "url": "https://open.spotify.com/track/3BBh5EWaOi8L6qqXJu9Gdf"
+    },
+    {
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "KEHLANI",
         "url": "https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "Relaxa a Bct Mulher",
         "url": "https://open.spotify.com/album/43b8MbRzxEojO69E1sy6dX"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/3rhCQVwAYYdcc0yFLQi3Kb"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "A Barreira Vai Virar Baile",
         "url": "https://open.spotify.com/album/0Ph9LwdZlbMNEiae2C4nMy"
@@ -325,7 +325,107 @@
       "url": "https://open.spotify.com/track/7GypINlzSk4NVBKDmv47Pf"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
+      "album": {
+        "name": "Montagem Bi\u00f4n\u00edca Espectral 2",
+        "url": "https://open.spotify.com/album/7bmJvjFssJPBmYjzZy6Blu"
+      },
+      "artists": [
+        {
+          "name": "DJ OLIVEIRA ORIGINAL",
+          "url": "https://open.spotify.com/artist/1cCYuIofJkQf9YN1FZo5A4"
+        }
+      ],
+      "duration_ms": 80754,
+      "name": "Montagem Bi\u00f4n\u00edca Espectral 2",
+      "url": "https://open.spotify.com/track/2IrBwLPRPWoqVjWPJ9qkUN"
+    },
+    {
+      "added_at": "2024-08-01 13:36:17",
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "added_at": "2024-08-01 13:36:17",
+      "album": {
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 195109,
+      "name": "Juna",
+      "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
+    },
+    {
+      "added_at": "2024-08-01 13:36:17",
+      "album": {
+        "name": "Voc\u00ea Parece Com Vergonha",
+        "url": "https://open.spotify.com/album/3dNBEUQg3uKKvpoCNEwicy"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Voc\u00ea Parece Com Vergonha",
+      "url": "https://open.spotify.com/track/5r4pDmk3fENDZCc06xrHsJ"
+    },
+    {
+      "added_at": "2024-08-01 13:36:17",
+      "album": {
+        "name": "Coloca a M\u00e3o no Meu Garoto (Remix)",
+        "url": "https://open.spotify.com/album/59BYcBMgutpvl53bEEN14v"
+      },
+      "artists": [
+        {
+          "name": "Mc Tarapi",
+          "url": "https://open.spotify.com/artist/5zcfR8ZDy6lIbokwuWqHzR"
+        },
+        {
+          "name": "DJ CN da Terrinha",
+          "url": "https://open.spotify.com/artist/6wuLR26nqWtSVdHYgGdUzf"
+        }
+      ],
+      "duration_ms": 127600,
+      "name": "Coloca a M\u00e3o no Meu Garoto - Remix",
+      "url": "https://open.spotify.com/track/3an02GANC6edxoVCUvTCSM"
+    },
+    {
+      "added_at": "2024-08-01 13:36:17",
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
+    },
+    {
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "D.Silvestre",
         "url": "https://open.spotify.com/album/1s9saLW7U80RYSv1AeBh7w"
@@ -349,87 +449,23 @@
       "url": "https://open.spotify.com/track/1e8CmxUPIWyxW0BKUPlWru"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+        "name": "Bloquinho da Agonia 1.0",
+        "url": "https://open.spotify.com/album/5nRLFA2YCfJnvQdrwwdg7U"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "Os Africanos",
+          "url": "https://open.spotify.com/artist/2vAfV52NyCCHRY8WUqnjD2"
         }
       ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+      "duration_ms": 446432,
+      "name": "Bloquinho da Agonia 1.0",
+      "url": "https://open.spotify.com/track/1J0yA8GoN2GUoxEG4njbkR"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
-      "album": {
-        "name": "Montagem Bi\u00f4n\u00edca Espectral 2",
-        "url": "https://open.spotify.com/album/7bmJvjFssJPBmYjzZy6Blu"
-      },
-      "artists": [
-        {
-          "name": "DJ OLIVEIRA ORIGINAL",
-          "url": "https://open.spotify.com/artist/1cCYuIofJkQf9YN1FZo5A4"
-        }
-      ],
-      "duration_ms": 80754,
-      "name": "Montagem Bi\u00f4n\u00edca Espectral 2",
-      "url": "https://open.spotify.com/track/2IrBwLPRPWoqVjWPJ9qkUN"
-    },
-    {
-      "added_at": "2024-07-31 13:19:57",
-      "album": {
-        "name": "Voc\u00ea Parece Com Vergonha",
-        "url": "https://open.spotify.com/album/3dNBEUQg3uKKvpoCNEwicy"
-      },
-      "artists": [
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Voc\u00ea Parece Com Vergonha",
-      "url": "https://open.spotify.com/track/5r4pDmk3fENDZCc06xrHsJ"
-    },
-    {
-      "added_at": "2024-07-31 13:19:57",
-      "album": {
-        "name": "Charm",
-        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 195109,
-      "name": "Juna",
-      "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
-    },
-    {
-      "added_at": "2024-07-31 13:19:57",
-      "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 157146,
-      "name": "I Love You, I'm Sorry",
-      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
-    },
-    {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "A\u00ed A\u00ed Que Legal - A\u00ed A\u00ed Que Fenomenal",
         "url": "https://open.spotify.com/album/0PSFi4yziwxIfoLgV7J64X"
@@ -453,7 +489,7 @@
       "url": "https://open.spotify.com/track/5Wo7n1OpPGKSMzTvfou9s8"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
@@ -469,7 +505,7 @@
       "url": "https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
@@ -489,43 +525,7 @@
       "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
-      "album": {
-        "name": "Bloquinho da Agonia 1.0",
-        "url": "https://open.spotify.com/album/5nRLFA2YCfJnvQdrwwdg7U"
-      },
-      "artists": [
-        {
-          "name": "Os Africanos",
-          "url": "https://open.spotify.com/artist/2vAfV52NyCCHRY8WUqnjD2"
-        }
-      ],
-      "duration_ms": 446432,
-      "name": "Bloquinho da Agonia 1.0",
-      "url": "https://open.spotify.com/track/1J0yA8GoN2GUoxEG4njbkR"
-    },
-    {
-      "added_at": "2024-07-31 13:19:57",
-      "album": {
-        "name": "Coloca a M\u00e3o no Meu Garoto (Remix)",
-        "url": "https://open.spotify.com/album/59BYcBMgutpvl53bEEN14v"
-      },
-      "artists": [
-        {
-          "name": "Mc Tarapi",
-          "url": "https://open.spotify.com/artist/5zcfR8ZDy6lIbokwuWqHzR"
-        },
-        {
-          "name": "DJ CN da Terrinha",
-          "url": "https://open.spotify.com/artist/6wuLR26nqWtSVdHYgGdUzf"
-        }
-      ],
-      "duration_ms": 127600,
-      "name": "Coloca a M\u00e3o no Meu Garoto - Remix",
-      "url": "https://open.spotify.com/track/3an02GANC6edxoVCUvTCSM"
-    },
-    {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "Vagabundo de Luxo",
         "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
@@ -541,47 +541,7 @@
       "url": "https://open.spotify.com/track/0w7vodPWFEcuEYvWpbNbOu"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
-      "album": {
-        "name": "Red (From \"Descendants: The Rise of Red\")",
-        "url": "https://open.spotify.com/album/6M4QzYGKgF2nkZw9VztN0s"
-      },
-      "artists": [
-        {
-          "name": "Kylie Cantrall",
-          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
-        },
-        {
-          "name": "Alex Boniello",
-          "url": "https://open.spotify.com/artist/4bttaKq2XoaBlFlkKkrS40"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 188674,
-      "name": "Red - From \"Descendants: The Rise of Red\"",
-      "url": "https://open.spotify.com/track/1AP7xueWwO5AakWFYzttpV"
-    },
-    {
-      "added_at": "2024-07-31 13:19:57",
-      "album": {
-        "name": "Perigos Noturnos",
-        "url": "https://open.spotify.com/album/1RRiEvEmG86XwMtvpyZV7E"
-      },
-      "artists": [
-        {
-          "name": "Mc Thayk",
-          "url": "https://open.spotify.com/artist/2kdS8nUMjecM6kdyMVJu0d"
-        }
-      ],
-      "duration_ms": 168371,
-      "name": "Perigos Noturnos",
-      "url": "https://open.spotify.com/track/4BTcluGDG6Mi2CDmVUbESA"
-    },
-    {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
@@ -613,7 +573,63 @@
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
+      "album": {
+        "name": "Red (From \"Descendants: The Rise of Red\")",
+        "url": "https://open.spotify.com/album/6M4QzYGKgF2nkZw9VztN0s"
+      },
+      "artists": [
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        },
+        {
+          "name": "Alex Boniello",
+          "url": "https://open.spotify.com/artist/4bttaKq2XoaBlFlkKkrS40"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 188674,
+      "name": "Red - From \"Descendants: The Rise of Red\"",
+      "url": "https://open.spotify.com/track/1AP7xueWwO5AakWFYzttpV"
+    },
+    {
+      "added_at": "2024-08-01 13:36:17",
+      "album": {
+        "name": "Perigos Noturnos",
+        "url": "https://open.spotify.com/album/1RRiEvEmG86XwMtvpyZV7E"
+      },
+      "artists": [
+        {
+          "name": "Mc Thayk",
+          "url": "https://open.spotify.com/artist/2kdS8nUMjecM6kdyMVJu0d"
+        }
+      ],
+      "duration_ms": 168371,
+      "name": "Perigos Noturnos",
+      "url": "https://open.spotify.com/track/4BTcluGDG6Mi2CDmVUbESA"
+    },
+    {
+      "added_at": "2024-08-01 13:36:17",
+      "album": {
+        "name": "Faz Completo na Madruga",
+        "url": "https://open.spotify.com/album/4yCgcbQz0hEz4oYYs3Tqj8"
+      },
+      "artists": [
+        {
+          "name": "ygor4m",
+          "url": "https://open.spotify.com/artist/6XsPIvu3gkzoBhaKmJneJD"
+        }
+      ],
+      "duration_ms": 608711,
+      "name": "Faz Completo na Madruga",
+      "url": "https://open.spotify.com/track/4tX7Qo5NAyD6qx7qXJIDqw"
+    },
+    {
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "Quem Manda em Mim",
         "url": "https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ"
@@ -633,47 +649,7 @@
       "url": "https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
-      "album": {
-        "name": "Faz Completo na Madruga",
-        "url": "https://open.spotify.com/album/4yCgcbQz0hEz4oYYs3Tqj8"
-      },
-      "artists": [
-        {
-          "name": "ygor4m",
-          "url": "https://open.spotify.com/artist/6XsPIvu3gkzoBhaKmJneJD"
-        }
-      ],
-      "duration_ms": 608711,
-      "name": "Faz Completo na Madruga",
-      "url": "https://open.spotify.com/track/4tX7Qo5NAyD6qx7qXJIDqw"
-    },
-    {
-      "added_at": "2024-07-31 13:19:57",
-      "album": {
-        "name": "MONTAGEM VOZES PROFUNDAS (Remixes)",
-        "url": "https://open.spotify.com/album/7AjQV13ch86ps6TKjBsuFS"
-      },
-      "artists": [
-        {
-          "name": "DJ MAXZZ",
-          "url": "https://open.spotify.com/artist/3rX0drWPVa50yFG3HqzX0T"
-        },
-        {
-          "name": "DJ JL3 DA ZN",
-          "url": "https://open.spotify.com/artist/68J0b3Hj9aurxWUiy9FUMu"
-        },
-        {
-          "name": "DJ CD 011",
-          "url": "https://open.spotify.com/artist/33wh7J44m0CrsAFj2LuRk2"
-        }
-      ],
-      "duration_ms": 144359,
-      "name": "MONTAGEM VOZES PROFUNDAS - Ultra Slowed",
-      "url": "https://open.spotify.com/track/3o3dIYuLIZfAO2kXP3eXrN"
-    },
-    {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "Depois que o Sol Raiar",
         "url": "https://open.spotify.com/album/5RCYlpsH7imlvZ08imhTCC"
@@ -697,7 +673,7 @@
       "url": "https://open.spotify.com/track/3Ld9N3RyrC9tpEUUH8RsCU"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "Chapeluda",
         "url": "https://open.spotify.com/album/51FF5oBK0q9Fr639TnOES3"
@@ -717,7 +693,31 @@
       "url": "https://open.spotify.com/track/7cvkRqpx8xtSreFfOg6HPz"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
+      "album": {
+        "name": "MONTAGEM VOZES PROFUNDAS (Remixes)",
+        "url": "https://open.spotify.com/album/7AjQV13ch86ps6TKjBsuFS"
+      },
+      "artists": [
+        {
+          "name": "DJ MAXZZ",
+          "url": "https://open.spotify.com/artist/3rX0drWPVa50yFG3HqzX0T"
+        },
+        {
+          "name": "DJ JL3 DA ZN",
+          "url": "https://open.spotify.com/artist/68J0b3Hj9aurxWUiy9FUMu"
+        },
+        {
+          "name": "DJ CD 011",
+          "url": "https://open.spotify.com/artist/33wh7J44m0CrsAFj2LuRk2"
+        }
+      ],
+      "duration_ms": 144359,
+      "name": "MONTAGEM VOZES PROFUNDAS - Ultra Slowed",
+      "url": "https://open.spotify.com/track/3o3dIYuLIZfAO2kXP3eXrN"
+    },
+    {
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "Clack Bum",
         "url": "https://open.spotify.com/album/5u1yWj74PxP12ZqVUcn78H"
@@ -741,7 +741,7 @@
       "url": "https://open.spotify.com/track/5DrDpWyvharQkhsloNTN9W"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "Ovelhinha (Ao Vivo)",
         "url": "https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y"
@@ -757,7 +757,23 @@
       "url": "https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
+      "album": {
+        "name": "No Bar de T\u00f5e Furico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0A4m8mPzLSwJwuOAniS4KC"
+      },
+      "artists": [
+        {
+          "name": "O REI DA BATIDINHA",
+          "url": "https://open.spotify.com/artist/1mwcAHaMzrUvCjVcg89lgB"
+        }
+      ],
+      "duration_ms": 103444,
+      "name": "Soco Soco Bate Bate",
+      "url": "https://open.spotify.com/track/1R0MxdP1i0vkiNTihhYErZ"
+    },
+    {
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "Tough",
         "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
@@ -777,39 +793,23 @@
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
-        "name": "No Bar de T\u00f5e Furico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0A4m8mPzLSwJwuOAniS4KC"
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
       "artists": [
         {
-          "name": "O REI DA BATIDINHA",
-          "url": "https://open.spotify.com/artist/1mwcAHaMzrUvCjVcg89lgB"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 103444,
-      "name": "Soco Soco Bate Bate",
-      "url": "https://open.spotify.com/track/1R0MxdP1i0vkiNTihhYErZ"
+      "duration_ms": 151739,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
-      "album": {
-        "name": "Sticky",
-        "url": "https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 157120,
-      "name": "Sticky",
-      "url": "https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO"
-    },
-    {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "Ilhabela 2",
         "url": "https://open.spotify.com/album/6OKayBxWNO6xlCK8kdlBCW"
@@ -833,23 +833,7 @@
       "url": "https://open.spotify.com/track/6622KNu2dncVoEzJt1SGse"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151739,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
-    },
-    {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "Cantando Sua Hist\u00f3ria (Ao Vivo / Vol.2)",
         "url": "https://open.spotify.com/album/4mXp1YcjxA9i8PrIdpM8dH"
@@ -865,43 +849,23 @@
       "url": "https://open.spotify.com/track/0GbvYZsvz7bWyijBDESebX"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
-        "name": "Triplex (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0PCSUAvZhDq8HVVN50o0U3"
+        "name": "Sticky",
+        "url": "https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5"
       },
       "artists": [
         {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        },
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
         }
       ],
-      "duration_ms": 178170,
-      "name": "Triplex - Ao Vivo",
-      "url": "https://open.spotify.com/track/1NcqLEg2r2LXqMVbam2BJD"
+      "duration_ms": 157120,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
-      "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 138213,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
-    },
-    {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "N\u00e3o Fosse T\u00e3o Tarde (MTG Remix)",
         "url": "https://open.spotify.com/album/0m8qklpIFESodRkIOqJ7Ni"
@@ -921,7 +885,7 @@
       "url": "https://open.spotify.com/track/6gjsnEQxLqVkieeloQTozN"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "Vagabundo de Luxo",
         "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
@@ -937,7 +901,7 @@
       "url": "https://open.spotify.com/track/42XLOKRo2bv2Ne9lTOGSQA"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
         "name": "30 Anos de Louvor e Adora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1hhZQOE9oSvKpqLCFfl4FR"
@@ -953,20 +917,56 @@
       "url": "https://open.spotify.com/track/1fWa6ZQQAxt9maPGnN2WE4"
     },
     {
-      "added_at": "2024-07-31 13:19:57",
+      "added_at": "2024-08-01 13:36:17",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "CHIHIRO (MTG)",
+        "url": "https://open.spotify.com/album/2IaxWSIP4DSrUlfRGEfeRJ"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "deadboy",
+          "url": "https://open.spotify.com/artist/45u4hhyZlr11XAFqO74eTZ"
         }
       ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+      "duration_ms": 150923,
+      "name": "CHIHIRO - MTG",
+      "url": "https://open.spotify.com/track/2uoqxEz9kqytYKmlQTxvUh"
+    },
+    {
+      "added_at": "2024-08-01 13:36:17",
+      "album": {
+        "name": "Triplex (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0PCSUAvZhDq8HVVN50o0U3"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 178170,
+      "name": "Triplex - Ao Vivo",
+      "url": "https://open.spotify.com/track/1NcqLEg2r2LXqMVbam2BJD"
+    },
+    {
+      "added_at": "2024-08-01 13:36:17",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 138213,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
     }
   ],
   "unique_name": "Viral 50 - Brazil",

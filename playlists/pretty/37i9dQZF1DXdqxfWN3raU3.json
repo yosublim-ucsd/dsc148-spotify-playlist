@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. LIT Killah en portada.",
-  "num_followers": 254494,
+  "num_followers": 254498,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 214008,
-      "name": "CUANDO HACEMOS EL AMOR",
-      "url": "https://open.spotify.com/track/3l0sygctfWjxXitgE3WciJ"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "LQMGDT",
         "url": "https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 207946,
       "name": "Weeknd<3",
       "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 214008,
+      "name": "CUANDO HACEMOS EL AMOR",
+      "url": "https://open.spotify.com/track/3l0sygctfWjxXitgE3WciJ"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -667,26 +667,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "T\u00edrame Un Hello (Remix)",
-        "url": "https://open.spotify.com/album/5tUPv0bmgylRODlVkL0FGx"
-      },
-      "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 169621,
-      "name": "T\u00edrame Un Hello - Remix",
-      "url": "https://open.spotify.com/track/4Kb3xZkdhXtAwAdQ0yeSSA"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "Grillz",
         "url": "https://open.spotify.com/album/1YH8ILbFvKc6NK5iyblISg"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 192526,
       "name": "Grillz",
       "url": "https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "T\u00edrame Un Hello (Remix)",
+        "url": "https://open.spotify.com/album/5tUPv0bmgylRODlVkL0FGx"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 169621,
+      "name": "T\u00edrame Un Hello - Remix",
+      "url": "https://open.spotify.com/track/4Kb3xZkdhXtAwAdQ0yeSSA"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1227,18 +1227,22 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Ketamina",
-        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
+        "name": "SANDRO",
+        "url": "https://open.spotify.com/album/13iUVLEs0sIvCtG8ft4MiP"
       },
       "artists": [
         {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
         }
       ],
-      "duration_ms": 171063,
-      "name": "Ketamina",
-      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
+      "duration_ms": 192013,
+      "name": "Creo",
+      "url": "https://open.spotify.com/track/6vFO2NwMrqQXAQyEbGiTq8"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1267,22 +1271,18 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "SANDRO",
-        "url": "https://open.spotify.com/album/13iUVLEs0sIvCtG8ft4MiP"
+        "name": "Ketamina",
+        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
       },
       "artists": [
         {
-          "name": "Sandro Malandro",
-          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
-        },
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         }
       ],
-      "duration_ms": 192013,
-      "name": "Creo",
-      "url": "https://open.spotify.com/track/6vFO2NwMrqQXAQyEbGiTq8"
+      "duration_ms": 171063,
+      "name": "Ketamina",
+      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1307,22 +1307,6 @@
       "duration_ms": 147550,
       "name": "Como Lo Creen",
       "url": "https://open.spotify.com/track/4jbIkxBnLDF8iek4qhBVTB"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "Bayside",
-        "url": "https://open.spotify.com/album/433b5MFhScrhyXk5p7UjU3"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 129134,
-      "name": "Bayside",
-      "url": "https://open.spotify.com/track/1HtEP7EwQrI8Rvaz1V5DEu"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
+        "name": "Bayside",
+        "url": "https://open.spotify.com/album/433b5MFhScrhyXk5p7UjU3"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 129134,
+      "name": "Bayside",
+      "url": "https://open.spotify.com/track/1HtEP7EwQrI8Rvaz1V5DEu"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
         "name": "Opciones",
         "url": "https://open.spotify.com/album/0ENevyJtzaagQi1Ndx3mSB"
       },
@@ -1387,26 +1387,6 @@
       "duration_ms": 213444,
       "name": "Opciones",
       "url": "https://open.spotify.com/track/06UvaJvHtZTPytXvuCgF3Z"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/0cBb2v72QQychZ8tuOyWCp"
-      },
-      "artists": [
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        },
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        }
-      ],
-      "duration_ms": 244700,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/3J1nlJLXVzSVgVEYhR6zPY"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1455,6 +1435,26 @@
       "duration_ms": 145413,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/2fw6liEffYRav3ORECpqvQ"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/0cBb2v72QQychZ8tuOyWCp"
+      },
+      "artists": [
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        },
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 244700,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/3J1nlJLXVzSVgVEYhR6zPY"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "YELIANA - Cap.1 - Que me quiera / Lokita",
-        "url": "https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Que me quiera",
-      "url": "https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "La Serenata",
         "url": "https://open.spotify.com/album/7pFJqxrRMrCsYfZZR2yrio"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 204521,
       "name": "La Serenata",
       "url": "https://open.spotify.com/track/2FtfaSWn9AFc1uDXNo3LKY"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "YELIANA - Cap.1 - Que me quiera / Lokita",
+        "url": "https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Que me quiera",
+      "url": "https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Trascendente",
-        "url": "https://open.spotify.com/album/6ITBeE0phdtPNQKawqnony"
-      },
-      "artists": [
-        {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
-        }
-      ],
-      "duration_ms": 212125,
-      "name": "Soy Capaz",
-      "url": "https://open.spotify.com/track/2ACkhhtp0rpOGj5lDdIrHc"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "THICK",
         "url": "https://open.spotify.com/album/7iFPYMnIrLl33MDiZwyb5o"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 139285,
       "name": "THICK",
       "url": "https://open.spotify.com/track/4b14BvhPrVDbbpICnw2P9L"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Trascendente",
+        "url": "https://open.spotify.com/album/6ITBeE0phdtPNQKawqnony"
+      },
+      "artists": [
+        {
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+        }
+      ],
+      "duration_ms": 212125,
+      "name": "Soy Capaz",
+      "url": "https://open.spotify.com/track/2ACkhhtp0rpOGj5lDdIrHc"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Promesas",
-        "url": "https://open.spotify.com/album/72qPBrZO98nSnEXT3AgmIO"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 156461,
-      "name": "Promesas",
-      "url": "https://open.spotify.com/track/4354fubltNCknagyX8ZirV"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "No Fui Solo Yo",
         "url": "https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 202942,
       "name": "No Fui Solo Yo",
       "url": "https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Promesas",
+        "url": "https://open.spotify.com/album/72qPBrZO98nSnEXT3AgmIO"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 156461,
+      "name": "Promesas",
+      "url": "https://open.spotify.com/track/4354fubltNCknagyX8ZirV"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1843,18 +1843,22 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Fin De Semana / Demasiado R\u00e1pido",
-        "url": "https://open.spotify.com/album/3Ad9PD3O28FZHKbJydxHt9"
+        "name": "YNQNP",
+        "url": "https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa"
       },
       "artists": [
         {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
         }
       ],
-      "duration_ms": 186285,
-      "name": "Fin De Semana",
-      "url": "https://open.spotify.com/track/4JtB5gVuzcbnMhWr37SdX4"
+      "duration_ms": 150186,
+      "name": "YNQNP",
+      "url": "https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD"
     },
     {
       "added_at": "2024-07-26 06:00:00",

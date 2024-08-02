@@ -2,7 +2,7 @@
 
 ### [This Is BLACKPINK](https://open.spotify.com/playlist/37i9dQZF1DX8kP0ioXjxIA)
 
-> BLACKPINK in our area! Are you ready to Shut Down?
+> Join us as we celebrate 8 years with BLACKPINK by throwing it back to their debut in 2016!
 
 83 songs - 4 hr 28 min
 

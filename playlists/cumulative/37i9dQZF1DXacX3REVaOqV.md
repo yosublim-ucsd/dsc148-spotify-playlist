@@ -4,7 +4,7 @@
 
 > The best in house music
 
-465 songs - 1 day 7 hr 39 min
+466 songs - 1 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Good Woman \- Edit](https://open.spotify.com/track/3moxYB3Zti5dXy9dIDlBrR) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Good Woman \(Edit\)](https://open.spotify.com/album/2wY62BWaup5b7NB02dNPxm) | 3:35 | 2023-04-06 | 2023-08-25 |
 | [Good Woman \- Edit](https://open.spotify.com/track/69gBITZ6WnJFUIe1b2EMeg) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Good Woman \(Edit\)](https://open.spotify.com/album/6d9RyDwoZCI52HG5sQVUbz) | 3:35 | 2022-09-01 | 2023-03-09 |
 | [Got This Love](https://open.spotify.com/track/1TTBJlatS49oAHVmROQ02Z) | [Ralph Felix](https://open.spotify.com/artist/3i8emYvhsa8PmLH4zTAvjV) | [Got This Love](https://open.spotify.com/album/2FF5jW6XclssK21QEaYF0F) | 3:05 | 2024-07-22 |  |
+| [Got To Believe](https://open.spotify.com/track/0ohw5aRHEw91j6SHeldRn2) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [DJ Disciple](https://open.spotify.com/artist/2p0Waz6D8QKzx1MeSlJEm8), [Progression](https://open.spotify.com/artist/4PGVD4TtOm5BqcAnumBqPH) | [Got To Believe](https://open.spotify.com/album/5h0XnAfPfu0j3iIbeIw2db) | 3:19 | 2024-08-01 |  |
 | [Gotta Dance](https://open.spotify.com/track/7fsbIRS0QbKgtgiSyPaDAf) | [Mike D' Jais](https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq) | [Gotta Dance](https://open.spotify.com/album/7wA4GPJlfCzw8EZfDohnTP) | 3:17 | 2023-01-12 |  |
 | [H O U S E](https://open.spotify.com/track/7zbqPeaFvWCKwkITKFI8V7) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [Missy](https://open.spotify.com/artist/1YILZCOXQSwtHs7CbbU0S4) | [H O U S E](https://open.spotify.com/album/4LBcLvu0gELWABBgO4DwfA) | 5:42 | 2022-04-14 | 2022-07-29 |
 | [Hands](https://open.spotify.com/track/5u1mG6G7YKeI7mmebulqUT) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Hands](https://open.spotify.com/album/44xvwDapMZ387AQbNoBSGW) | 2:28 | 2024-04-09 |  |
@@ -364,7 +365,7 @@
 | [SILLAGE](https://open.spotify.com/track/01p0P5yMqqXmUEKS6ok1be) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [SILLAGE](https://open.spotify.com/album/7KPZHgbUpEH2W8gIb6bOgX) | 3:23 | 2022-10-13 | 2023-04-13 |
 | [Since \- Don Rimini Deep Mix](https://open.spotify.com/track/55osGD02FGA8u1IAhkLt48) | [Wouter S](https://open.spotify.com/artist/2FBOvuH967tVxaLwNzJSz1), [Huxley](https://open.spotify.com/artist/6fJvW51nWhRImJyos6O7sT), [Chicago Hustle](https://open.spotify.com/artist/4bY0OXeVVpfjDpPcEINBHR), [Don Rimini](https://open.spotify.com/artist/2IA2rAfPyDDhqqcu6UaSOM) | [Since \(Don Rimini Remixes\)](https://open.spotify.com/album/5emeek19G51hLqwav3nLtB) | 3:02 | 2024-04-11 |  |
 | [Sinfonia Della Notte](https://open.spotify.com/track/14iTtRdW9NJ1K3TKn7KR4T) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi) | [Sinfonia Della Notte](https://open.spotify.com/album/1XcxMqr1XRN1h7k07aXpoR) | 7:25 | 2022-07-28 | 2023-02-10 |
-| [Siria](https://open.spotify.com/track/1keaNjg2Rlwg49IAEF8UMC) | [Rob Manga](https://open.spotify.com/artist/2ML0pLLTPGJVaMFcHdOU9f), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Luiz Eduardo](https://open.spotify.com/artist/46QYKS2a0d9CFnHYJmVHOD) | [Siria](https://open.spotify.com/album/4Vdoliff2jpy7BcFzivmtQ) | 2:00 | 2024-06-16 |  |
+| [Siria](https://open.spotify.com/track/1keaNjg2Rlwg49IAEF8UMC) | [Rob Manga](https://open.spotify.com/artist/2ML0pLLTPGJVaMFcHdOU9f), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Luiz Eduardo](https://open.spotify.com/artist/46QYKS2a0d9CFnHYJmVHOD) | [Siria](https://open.spotify.com/album/4Vdoliff2jpy7BcFzivmtQ) | 2:00 | 2024-06-16 | 2024-08-02 |
 | [Sky \(Shining Bright\)](https://open.spotify.com/track/6C941cB4Kzxkw67MhPzlXr) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Sky \(Shining Bright\)](https://open.spotify.com/album/0ENcoMHBD8idjhAShpgTr7) | 2:50 | 2024-05-17 |  |
 | [Slow Down](https://open.spotify.com/track/66HB3QjqHIl9VF4O7ojyEB) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Slow Down](https://open.spotify.com/album/3amvTG1sQqcGwCE1vOsDNg) | 3:11 | 2022-04-20 |  |
 | [Slow Down \(feat\. Jorja Smith\) \- Vintage Culture & Slow Motion Remix](https://open.spotify.com/track/5PNvgiKSwMdjBsDsgFCFLX) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Slow Motion](https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I) | [Slow Down \(feat\. Jorja Smith\) \[Vintage Culture & Slow Motion Remix\]](https://open.spotify.com/album/3AvjrWwSEgfZs0Ic7Srt8b) | 3:01 | 2022-04-14 | 2022-09-16 |

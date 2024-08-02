@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Sunflower Bean
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,236 likes - 128 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,268 likes - 128 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

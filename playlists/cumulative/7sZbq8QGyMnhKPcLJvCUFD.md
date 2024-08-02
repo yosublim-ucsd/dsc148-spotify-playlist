@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-575 songs - 1 day 5 hr 16 min
+576 songs - 1 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,6 +508,7 @@
 | [Thought It Was U](https://open.spotify.com/track/3cakt86V0NLaQNFqiN5MvS) | [JJL](https://open.spotify.com/artist/41QZ7uWNkyqF0PbJsd5nXv) | [Thought It Was U](https://open.spotify.com/album/28j7q90iOylNg6QhifQEso) | 3:05 | 2023-08-02 | 2023-08-20 |
 | [Throne](https://open.spotify.com/track/1DbjGwT77l5Ph0N89lo8Hy) | [Tomatow](https://open.spotify.com/artist/1FzBO5erQh8xC6qT6tY3tO), [SagaB](https://open.spotify.com/artist/7hSyeMWPot9g32PhU808zU), [Adam Putra](https://open.spotify.com/artist/1PdEYf0awBJvZHoOJu0LtS) | [Throne](https://open.spotify.com/album/6Bfrj9X2sXA8omh8yW5uVi) | 3:20 | 2024-02-15 |  |
 | [Tidal Wave](https://open.spotify.com/track/0Y2ql9hjIhpYx2fuYMeeB3) | [KHEMIS](https://open.spotify.com/artist/3bhEBhrSsz74SsgjRe1z6d), [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Tidal Wave](https://open.spotify.com/album/1VFSM94LH8MrNV9AYKjYzH) | 2:21 | 2023-12-13 | 2024-04-06 |
+| [Time Is Eating](https://open.spotify.com/track/3qzghUDEnx78gNAjQEnRiw) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Time Is Eating](https://open.spotify.com/album/5bCRiMVBL4UVBpSJHv73K3) | 3:04 | 2024-08-01 |  |
 | [Time Of Our Lives](https://open.spotify.com/track/3CCgPjFKM32ixEM9Wpcv6z) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c) | [Time Of Our Lives](https://open.spotify.com/album/3p6bZWLfpenoRaOufvcAWy) | 3:25 | 2023-12-13 | 2024-07-19 |
 | [Time With You](https://open.spotify.com/track/7owjIHHAhLVgYUPfSQI0tI) | [Tollef](https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv), [RVLE](https://open.spotify.com/artist/3NuBjDTnxJ5OHh0Xz3hzxy) | [Time With You](https://open.spotify.com/album/6PRofmoxaY2ZMETIBxyRYf) | 2:36 | 2023-12-26 | 2024-07-19 |
 | [To Be Loved](https://open.spotify.com/track/2uZVmKRCMWYTuMlKS9urzy) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Maazel](https://open.spotify.com/artist/4w5LgUT6bfJnNq6wSFbND7), [Salvo](https://open.spotify.com/artist/38u5tDrWqAZsGySZL5OB3b) | [To Be Loved](https://open.spotify.com/album/0pJXJEH8RYTFSjB6GR8BYq) | 2:53 | 2023-08-18 | 2023-12-14 |

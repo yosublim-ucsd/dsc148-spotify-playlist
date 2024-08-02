@@ -1,6 +1,6 @@
 {
   "description": "Canciones deliciosas para relajarse y pasarla chill junto a la piscina. \ud83c\udfd6\ufe0f\ud83c\udfca\ud83c\udf79",
-  "num_followers": 139889,
+  "num_followers": 139931,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Feel The Heat",
+        "url": "https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6"
+      },
+      "artists": [
+        {
+          "name": "Bon Lui",
+          "url": "https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg"
+        }
+      ],
+      "duration_ms": 319677,
+      "name": "Feel The Heat",
+      "url": "https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "\u00c7a fait 2x plus de bien",
         "url": "https://open.spotify.com/album/5v03jp3rrC4R0AVFlMsMAE"
       },
@@ -1203,18 +1219,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Feel The Heat",
-        "url": "https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6"
+        "name": "Du rivage",
+        "url": "https://open.spotify.com/album/1RRsys1mwPSPsA0qbWHIWD"
       },
       "artists": [
         {
-          "name": "Bon Lui",
-          "url": "https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg"
+          "name": "Weekend Affair",
+          "url": "https://open.spotify.com/artist/0dZXa7OgcOzv3tNUagbKb7"
         }
       ],
-      "duration_ms": 319677,
-      "name": "Feel The Heat",
-      "url": "https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i"
+      "duration_ms": 214733,
+      "name": "Descends",
+      "url": "https://open.spotify.com/track/0z5fkd9sWqGpQd6cr8y0dH"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1231,22 +1247,6 @@
       "duration_ms": 259750,
       "name": "Segrados Do Samba",
       "url": "https://open.spotify.com/track/1QXImka15rUVwpakYivJ70"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Du rivage",
-        "url": "https://open.spotify.com/album/1RRsys1mwPSPsA0qbWHIWD"
-      },
-      "artists": [
-        {
-          "name": "Weekend Affair",
-          "url": "https://open.spotify.com/artist/0dZXa7OgcOzv3tNUagbKb7"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "Descends",
-      "url": "https://open.spotify.com/track/0z5fkd9sWqGpQd6cr8y0dH"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 170869,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/5VuJ8ujlsdNV8ZOle0TYfK"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Luminous",
         "url": "https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 240000,
       "name": "Through The Night",
       "url": "https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 170869,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/5VuJ8ujlsdNV8ZOle0TYfK"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
+      },
+      "artists": [
+        {
+          "name": "Amo Amo",
+          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+        }
+      ],
+      "duration_ms": 275746,
+      "name": "Canta",
+      "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Rain Check",
         "url": "https://open.spotify.com/album/48N0TU0by4ICq7n8UFn7q8"
       },
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
-      },
-      "artists": [
-        {
-          "name": "Amo Amo",
-          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
-        }
-      ],
-      "duration_ms": 275746,
-      "name": "Canta",
-      "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Mopedbart",
         "url": "https://open.spotify.com/album/1fFDgy6E12ZwqgIa8tgtQh"
       },
@@ -1503,6 +1503,22 @@
       "duration_ms": 312200,
       "name": "Mopedbart",
       "url": "https://open.spotify.com/track/4jnguj9VPJuGRfFJyAKUZS"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Stranded",
+        "url": "https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT"
+      },
+      "artists": [
+        {
+          "name": "Art of November",
+          "url": "https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq"
+        }
+      ],
+      "duration_ms": 229581,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1523,22 +1539,6 @@
       "duration_ms": 386443,
       "name": "Voodoo? - Lazywax Remix",
       "url": "https://open.spotify.com/track/2wHeYDrniYngp3did3McYD"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Stranded",
-        "url": "https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT"
-      },
-      "artists": [
-        {
-          "name": "Art of November",
-          "url": "https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq"
-        }
-      ],
-      "duration_ms": 229581,
-      "name": "Stranded",
-      "url": "https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Give Me Your Summer",
-        "url": "https://open.spotify.com/album/6L3drsVQw2PE1ZPNvAO2MS"
-      },
-      "artists": [
-        {
-          "name": "Color Codes",
-          "url": "https://open.spotify.com/artist/0L4swFqe6aAXjmTN3TmO2L"
-        }
-      ],
-      "duration_ms": 170161,
-      "name": "Give Me Your Summer",
-      "url": "https://open.spotify.com/track/1Q2ca16lCXmdJb2hMiCIiP"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Beginning (Totally Enormous Extinct Dinosaurs Remix)",
         "url": "https://open.spotify.com/album/7DcdXnMiadzyxSlQnLIsCo"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 350851,
       "name": "Beginning - Totally Enormous Extinct Dinosaurs Remix",
       "url": "https://open.spotify.com/track/6DKILAX03B9oLWDaLkw1Vp"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Give Me Your Summer",
+        "url": "https://open.spotify.com/album/6L3drsVQw2PE1ZPNvAO2MS"
+      },
+      "artists": [
+        {
+          "name": "Color Codes",
+          "url": "https://open.spotify.com/artist/0L4swFqe6aAXjmTN3TmO2L"
+        }
+      ],
+      "duration_ms": 170161,
+      "name": "Give Me Your Summer",
+      "url": "https://open.spotify.com/track/1Q2ca16lCXmdJb2hMiCIiP"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "A bite of papaya",
-        "url": "https://open.spotify.com/album/6qAd2bXuzauRuwzHYCHu3n"
+        "name": "Backdrops",
+        "url": "https://open.spotify.com/album/7uabdAZxN8OvV4ZO3yRoJC"
       },
       "artists": [
         {
-          "name": "Miynt",
-          "url": "https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b"
+          "name": "Walientinho",
+          "url": "https://open.spotify.com/artist/4qVK77FWzEGLmP1Vw1I9or"
         }
       ],
-      "duration_ms": 257033,
-      "name": "A bite of papaya",
-      "url": "https://open.spotify.com/track/2jwKTqnvzrhj4b6Dhm07lW"
+      "duration_ms": 186123,
+      "name": "Backdrops",
+      "url": "https://open.spotify.com/track/1L6yd85lGhfCGbNwKKvcAp"
     }
   ],
   "unique_name": "\u00a1A la Alberca!",

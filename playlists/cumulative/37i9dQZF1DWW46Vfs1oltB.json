@@ -18641,6 +18641,24 @@
     },
     {
       "album": {
+        "name": "Delphinium",
+        "url": "https://open.spotify.com/album/6jdlJrLRWyCnUnKUzhPG2T"
+      },
+      "artists": [
+        {
+          "name": "Royal 44",
+          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162909,
+      "name": "One & Only",
+      "url": "https://open.spotify.com/track/0kwttQkLxci6m9SU7XelgM"
+    },
+    {
+      "album": {
         "name": "one & ashes",
         "url": "https://open.spotify.com/album/2LpbGE8qfrCjYykxO7v3of"
       },

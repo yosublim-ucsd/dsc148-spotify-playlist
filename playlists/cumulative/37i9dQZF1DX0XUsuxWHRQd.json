@@ -17593,6 +17593,28 @@
     },
     {
       "album": {
+        "name": "Guerrilla Warfare",
+        "url": "https://open.spotify.com/album/6eUYT38tLl7YwqZFJm1Ulb"
+      },
+      "artists": [
+        {
+          "name": "Hot Boys",
+          "url": "https://open.spotify.com/artist/0ecnb1WPePfrHg4yfQfmqN"
+        },
+        {
+          "name": "Big Tymers",
+          "url": "https://open.spotify.com/artist/4jWGfUCFeTu5e0wprRhHXR"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292840,
+      "name": "I Need A Hot Girl",
+      "url": "https://open.spotify.com/track/25CnqAR7fzAQbb2SVoSa0b"
+    },
+    {
+      "album": {
         "name": "I Need A Thug",
         "url": "https://open.spotify.com/album/23QZB0Q3annZYCOiKRB4Pl"
       },

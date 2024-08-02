@@ -1,12 +1,12 @@
 {
-  "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 43391,
+  "description": "This Is Ryan Adams. Sus mejores \u00e9xitos, todos en una playlist.",
+  "num_followers": 43395,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqgtAAAAAAARYhiti8ZDy2h/Xk6nH9rR",
+  "snapshot_id": "Zql+gAAAAABLjMVC+UPhzqxpfOehnwux",
   "tracks": [
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sympathy For The Devil (Live from Edmonton, AL. 2023)",
-        "url": "https://open.spotify.com/album/1O2y8m2ZRDFezcHHMVlf1k"
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 265700,
-      "name": "Sympathy For The Devil - Live from Edmonton, AL. 2023",
-      "url": "https://open.spotify.com/track/28xIbZJQFMHdox98AfM8qq"
+      "duration_ms": 226036,
+      "name": "Amy",
+      "url": "https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+        "name": "Sympathy For The Devil (Live from Edmonton, AL. 2023)",
+        "url": "https://open.spotify.com/album/1O2y8m2ZRDFezcHHMVlf1k"
       },
       "artists": [
         {
@@ -500,9 +500,25 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 226036,
-      "name": "Amy",
-      "url": "https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7"
+      "duration_ms": 265700,
+      "name": "Sympathy For The Devil - Live from Edmonton, AL. 2023",
+      "url": "https://open.spotify.com/track/28xIbZJQFMHdox98AfM8qq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Livin' On A Prayer (Live from Red Bank, NJ. 2023)",
+        "url": "https://open.spotify.com/album/4zuRLz6Ot2IiSiRjErQ8qL"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 233858,
+      "name": "Living On A Prayer - Live from Red Bank, NJ. 2023",
+      "url": "https://open.spotify.com/track/4aW0xJmtaL7dkQrO7VHhEI"
     },
     {
       "added_at": null,
@@ -539,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Firecracker",
-      "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Demolition",
         "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
       },
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Livin' On A Prayer (Live from Red Bank, NJ. 2023)",
-        "url": "https://open.spotify.com/album/4zuRLz6Ot2IiSiRjErQ8qL"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
       },
       "artists": [
         {
@@ -580,25 +580,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 233858,
-      "name": "Living On A Prayer - Live from Red Bank, NJ. 2023",
-      "url": "https://open.spotify.com/track/4aW0xJmtaL7dkQrO7VHhEI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 321120,
-      "name": "Wildest Dreams",
-      "url": "https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt"
+      "duration_ms": 171666,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 321120,
+      "name": "Wildest Dreams",
+      "url": "https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "After the Gold Rush (Live from Calgary, AL. 2023)",
         "url": "https://open.spotify.com/album/5KBjPeuLIyBBsCMAVTBn5k"
       },
@@ -631,54 +631,6 @@
       "duration_ms": 256312,
       "name": "After the Gold Rush - Live from Calgary, AL. 2023",
       "url": "https://open.spotify.com/track/5mSZ68WFTCbaeRuXfoVkWO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cinnamon Girl (Live from Calgary, AL. 2023)",
-        "url": "https://open.spotify.com/album/3mi2e18BqDgJGz1p8SZHqL"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 168503,
-      "name": "Cinnamon Girl - Live from Calgary, AL. 2023",
-      "url": "https://open.spotify.com/track/1fbqDTZADDqo1BpVtvFtIJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Diamond (Live from Madison, WI. 2023)",
-        "url": "https://open.spotify.com/album/0HhBQkXHHhBdVy4WJa59ec"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 146072,
-      "name": "Black Diamond - Live from Madison, WI. 2023",
-      "url": "https://open.spotify.com/track/4ROi74e8WRjli3wgTcHyZG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh"
     },
     {
       "added_at": null,
@@ -699,6 +651,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cinnamon Girl (Live from Calgary, AL. 2023)",
+        "url": "https://open.spotify.com/album/3mi2e18BqDgJGz1p8SZHqL"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 168503,
+      "name": "Cinnamon Girl - Live from Calgary, AL. 2023",
+      "url": "https://open.spotify.com/track/1fbqDTZADDqo1BpVtvFtIJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Runaway Train (Live from Minneapolis, MN. 2022.)",
         "url": "https://open.spotify.com/album/6U26PW2LjoFnSS9VTehfRR"
       },
@@ -715,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Is Hell",
-        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
+        "name": "Black Diamond (Live from Madison, WI. 2023)",
+        "url": "https://open.spotify.com/album/0HhBQkXHHhBdVy4WJa59ec"
       },
       "artists": [
         {
@@ -724,9 +708,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 234426,
-      "name": "I See Monsters",
-      "url": "https://open.spotify.com/track/7yo0FaDvZ7hx6F8UK324hH"
+      "duration_ms": 146072,
+      "name": "Black Diamond - Live from Madison, WI. 2023",
+      "url": "https://open.spotify.com/track/4ROi74e8WRjli3wgTcHyZG"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
       "duration_ms": 164466,
       "name": "Style",
       "url": "https://open.spotify.com/track/5awiVmsHfpUjg8P6Kh2iGP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is Hell",
+        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 234426,
+      "name": "I See Monsters",
+      "url": "https://open.spotify.com/track/7yo0FaDvZ7hx6F8UK324hH"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Is Hell",
-        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 340666,
-      "name": "English Girls Approximately",
-      "url": "https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 218400,
       "name": "The Rescue Blues",
       "url": "https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is Hell",
+        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 340666,
+      "name": "English Girls Approximately",
+      "url": "https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg"
     },
     {
       "added_at": null,
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Severance (Live From Edmonton, AL. 2023)",
-        "url": "https://open.spotify.com/album/0oAC1zUkG5iHxqgqsqodhz"
+        "name": "Livin' On A Prayer (Live from Red Bank, NJ. 2023)",
+        "url": "https://open.spotify.com/album/4zuRLz6Ot2IiSiRjErQ8qL"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 246125,
-      "name": "Severance - Live from Edmonton, Al. 2023",
-      "url": "https://open.spotify.com/track/5zuIFRKFtKj0NoIdsVDXkF"
+      "duration_ms": 238645,
+      "name": "Atlantic City - Live from Red Bank, NJ. 2023",
+      "url": "https://open.spotify.com/track/5BGEiUpMYYA29Utvp0yPrQ"
     }
   ],
   "unique_name": "This Is Ryan Adams",

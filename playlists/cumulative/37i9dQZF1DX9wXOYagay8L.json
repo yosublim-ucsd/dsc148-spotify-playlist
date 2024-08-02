@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6?si=RVzVsQpZQKSz6bTQ2Oo5lQ\">Sjava</a>",
+  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=fyvRYw1ITjaba-gRt20DaQ\">Nomfundo Moh</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -646,7 +646,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 242666,
       "name": "Amazwi",
       "url": "https://open.spotify.com/track/2Eka8k08WX8rehRgcegf8z"
@@ -986,7 +986,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 371998,
       "name": "Babekazi",
       "url": "https://open.spotify.com/track/2E5BQQ8aTpw6szBRZGteVR"
@@ -1416,6 +1416,28 @@
     {
       "album": {
         "name": "Buya",
+        "url": "https://open.spotify.com/album/2UpileuXTy8en41E8ZEpL6"
+      },
+      "artists": [
+        {
+          "name": "Bongi Silinda",
+          "url": "https://open.spotify.com/artist/1HS4J0XmZ1djkEOtCkhH6r"
+        },
+        {
+          "name": "Soul Kulture",
+          "url": "https://open.spotify.com/artist/1LZkUMy70sBaxwNWLr22ah"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245080,
+      "name": "Buya",
+      "url": "https://open.spotify.com/track/6xhsflZ8sxlJVmquIIcMZp"
+    },
+    {
+      "album": {
+        "name": "Buya",
         "url": "https://open.spotify.com/album/6MIMxuFqi0vMLybGOs9Z29"
       },
       "artists": [
@@ -1840,7 +1862,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 286717,
       "name": "Dogon",
       "url": "https://open.spotify.com/track/0xLXC9BvVkZxwcgWPPoaFf"
@@ -2044,6 +2066,24 @@
       "duration_ms": 216500,
       "name": "Emaphupheni Am",
       "url": "https://open.spotify.com/track/2OVy0PjhhFbwvP1ar3R3Vt"
+    },
+    {
+      "album": {
+        "name": "Sankofa",
+        "url": "https://open.spotify.com/album/5y7tFgFLl0d5AKExJC8Rsy"
+      },
+      "artists": [
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410364,
+      "name": "emini",
+      "url": "https://open.spotify.com/track/2r0ojXXq1oLd4TVm2UrL3C"
     },
     {
       "album": {
@@ -4224,7 +4264,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 258088,
       "name": "Isthembu (feat. Siya Ntuli)",
       "url": "https://open.spotify.com/track/1yF1gVIE76t5DqUGIRyipv"
@@ -10079,6 +10119,32 @@
     },
     {
       "album": {
+        "name": "Superwoman (feat. Mustbedubz & Z\u0101dok)",
+        "url": "https://open.spotify.com/album/0ffx49MbZnhQiAmS7xOvvR"
+      },
+      "artists": [
+        {
+          "name": "Kaylow",
+          "url": "https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH"
+        },
+        {
+          "name": "Mustbedubz",
+          "url": "https://open.spotify.com/artist/1BzSBZWwF5ApCmrziLqLXF"
+        },
+        {
+          "name": "Z\u0101dok",
+          "url": "https://open.spotify.com/artist/72wC9dzKpqHCdw8fQwYpea"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202945,
+      "name": "Superwoman (feat. Mustbedubz & Z\u0101dok)",
+      "url": "https://open.spotify.com/track/7gNQsD6o6rPnlQAqQpJsh5"
+    },
+    {
+      "album": {
         "name": "I'm Alive",
         "url": "https://open.spotify.com/album/7L4h1riHfnIXtwx7ic4gO6"
       },
@@ -11820,6 +11886,28 @@
       "duration_ms": 321391,
       "name": "Uyathandwa Ekhaya",
       "url": "https://open.spotify.com/track/181yYlqAlC21owkcZzajGE"
+    },
+    {
+      "album": {
+        "name": "Twenty Four",
+        "url": "https://open.spotify.com/album/7r7hgemJYXUDU2ztBVVGMY"
+      },
+      "artists": [
+        {
+          "name": "Nomfundo Moh",
+          "url": "https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan"
+        },
+        {
+          "name": "Boohle",
+          "url": "https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257937,
+      "name": "Uyazkhohlwa",
+      "url": "https://open.spotify.com/track/2Z5dUCDAmotABDmBl9rNk2"
     },
     {
       "album": {

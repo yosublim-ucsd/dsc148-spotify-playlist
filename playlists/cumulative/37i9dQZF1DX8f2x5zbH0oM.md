@@ -2,7 +2,7 @@
 
 ### [La Crème](https://open.spotify.com/playlist/37i9dQZF1DX8f2x5zbH0oM)
 
-> La playlist au\-delà des genres\. Photo : Childish Gambino
+> La playlist au\-delà des genres\. Photo : Miki
 
 170 songs - 9 hr 51 min
 

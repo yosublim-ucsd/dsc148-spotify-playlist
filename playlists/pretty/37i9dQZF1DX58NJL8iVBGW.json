@@ -1,6 +1,6 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 769516,
+  "num_followers": 769603,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
+        "name": "Nobody knows.",
+        "url": "https://open.spotify.com/album/0MHRNWUvq6JT8hjoL4ilvi"
+      },
+      "artists": [
+        {
+          "name": "Willis Earl Beal",
+          "url": "https://open.spotify.com/artist/58CUVLn2xm7I9iFg97t9XC"
+        }
+      ],
+      "duration_ms": 279733,
+      "name": "Too Dry to Cry",
+      "url": "https://open.spotify.com/track/2mHzmh7saA4O2ZbHFxFp27"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
         "name": "Singing Bones",
         "url": "https://open.spotify.com/album/3u4rZDOy1c7N0otfHS0qTj"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 194570,
       "name": "Chains",
       "url": "https://open.spotify.com/track/7ywUfT35DxrKOoq7ZL0VQ5"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
-        "name": "Nobody knows.",
-        "url": "https://open.spotify.com/album/0MHRNWUvq6JT8hjoL4ilvi"
-      },
-      "artists": [
-        {
-          "name": "Willis Earl Beal",
-          "url": "https://open.spotify.com/artist/58CUVLn2xm7I9iFg97t9XC"
-        }
-      ],
-      "duration_ms": 279733,
-      "name": "Too Dry to Cry",
-      "url": "https://open.spotify.com/track/2mHzmh7saA4O2ZbHFxFp27"
     },
     {
       "added_at": "2024-07-05 18:50:08",

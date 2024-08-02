@@ -947,6 +947,24 @@
     },
     {
       "album": {
+        "name": "95",
+        "url": "https://open.spotify.com/album/2HwbbWJj2m6fsr3vjwyzCm"
+      },
+      "artists": [
+        {
+          "name": "Marti",
+          "url": "https://open.spotify.com/artist/031ZXIjZuiaU6ESOFNpGkm"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157974,
+      "name": "95",
+      "url": "https://open.spotify.com/track/3n3hEYCg8grGCoRZA4yjWE"
+    },
+    {
+      "album": {
         "name": "A.P.T.A",
         "url": "https://open.spotify.com/album/05fMUIt5I3brgdau91tMR3"
       },
@@ -6693,6 +6711,24 @@
     },
     {
       "album": {
+        "name": "Dansa",
+        "url": "https://open.spotify.com/album/3F8XfDyYuhvsdaP3U130hw"
+      },
+      "artists": [
+        {
+          "name": "Osse",
+          "url": "https://open.spotify.com/artist/3GavOSlv2hiJjxJULJjmrQ"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Dansa",
+      "url": "https://open.spotify.com/track/4nS2wta3dolsG2dhS22iQE"
+    },
+    {
+      "album": {
         "name": "MUSIK ELLER METALL",
         "url": "https://open.spotify.com/album/5kfEEbJC2PxSVI6EmS9HQS"
       },
@@ -7032,7 +7068,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 135038,
       "name": "Diamant",
       "url": "https://open.spotify.com/track/1aRp6QzY4fmXRvXGlSmJ2Z"
@@ -11336,7 +11372,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 128000,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/2JXssU6ZXM36rHzHT1S6ei"
@@ -26127,6 +26163,32 @@
     },
     {
       "album": {
+        "name": "SVETT & BLOD",
+        "url": "https://open.spotify.com/album/3iYFTJlcXUX45lMpP53VlN"
+      },
+      "artists": [
+        {
+          "name": "demz",
+          "url": "https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj"
+        },
+        {
+          "name": "Aliammo",
+          "url": "https://open.spotify.com/artist/17xEFtyxHsXwQEAy49fXCA"
+        },
+        {
+          "name": "DemoBeatz",
+          "url": "https://open.spotify.com/artist/7ko9HLlDHbfeNM4mPEz3BX"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154482,
+      "name": "SVETT & BLOD",
+      "url": "https://open.spotify.com/track/1cKnZEEP0lVQAI1WR9LPTN"
+    },
+    {
+      "album": {
         "name": "SVITEN",
         "url": "https://open.spotify.com/album/2N8NeYim2RgvmPNAXaVf4o"
       },
@@ -27928,7 +27990,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 151455,
       "name": "Toxic Som Mig",
       "url": "https://open.spotify.com/track/10zXU83iXFK6ZfRXqTHFuU"
@@ -28394,7 +28456,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 171239,
       "name": "Turbulens",
       "url": "https://open.spotify.com/track/6ezDmid4nFRUNchRTWPE2u"

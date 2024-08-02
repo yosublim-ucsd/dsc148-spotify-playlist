@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-784 songs - 1 day 20 hr 59 min
+785 songs - 1 day 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [A Sudden Display Of Life](https://open.spotify.com/track/5qYZZL0iuEwHs1JJlVk63Q) | [Enviado Vida](https://open.spotify.com/artist/0oIm7Qj3lCZzwr1xLlRqT8), [Clarico](https://open.spotify.com/artist/4z0z7HVzL9JOn53wLYnBi9) | [A Sudden Display Of Life](https://open.spotify.com/album/4WJ71uIq1XFJz4skDuYZsN) | 3:39 | 2024-07-10 |  |
 | [A Través del Tiempo Naranja](https://open.spotify.com/track/1VsQs5sy7vkeixrRmEIN91) | [Airdraw](https://open.spotify.com/artist/5aBN1E7wd2mJU0Ug8fG60K), [Jo.E](https://open.spotify.com/artist/1huIFRAUYkJ5VQ9GcXcUax) | [Océano Naranja](https://open.spotify.com/album/3QVXhWXUHXsVretMx71lb4) | 3:11 | 2021-11-19 | 2022-02-10 |
 | [About U](https://open.spotify.com/track/6j0aEMAR0VppYk39s1hnw8) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [About U](https://open.spotify.com/album/7DaTzlcbwZ1ulJT6bYJare) | 3:18 | 2023-05-15 | 2023-08-10 |
-| [about you](https://open.spotify.com/track/5L4LlGPUEap3RuKz2QaBpk) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Showjoe](https://open.spotify.com/artist/3Mik8aPFJ5lIK5APqqKqpb) | [about you](https://open.spotify.com/album/6Z2rQ5XFYHzOUw5QkgKKLP) | 2:43 | 2024-05-10 |  |
+| [about you](https://open.spotify.com/track/5L4LlGPUEap3RuKz2QaBpk) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Showjoe](https://open.spotify.com/artist/3Mik8aPFJ5lIK5APqqKqpb) | [about you](https://open.spotify.com/album/6Z2rQ5XFYHzOUw5QkgKKLP) | 2:43 | 2024-05-10 | 2024-08-02 |
 | [about you \- Flava D Remix](https://open.spotify.com/track/4GQU46Vx4QVCH5tJqDsxYV) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Showjoe](https://open.spotify.com/artist/3Mik8aPFJ5lIK5APqqKqpb), [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [about you \(Flava D Remix\)](https://open.spotify.com/album/1axmAwqa9T3PJ4yPBaMEdp) | 3:04 | 2024-06-06 |  |
 | [Abyss](https://open.spotify.com/track/4rkXjSB8o4uXxAxG68Kj5z) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Eternal](https://open.spotify.com/album/4BWqMQAnfw2CH51bNPvmc0) | 3:58 | 2024-06-21 |  |
 | [Accelerate](https://open.spotify.com/track/61kmDZXjXGBWh8YnWjFCQY) | [Teminite](https://open.spotify.com/artist/5EEuae5uigQnwgYCl0s8EF), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Accelerate](https://open.spotify.com/album/789y4j9o32eMfjaWAPsqyF) | 4:10 | 2023-06-08 | 2023-09-26 |
@@ -145,7 +145,7 @@
 | [Cyan](https://open.spotify.com/track/0o4GFEcDdhbfGruMLIPOKV) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Malva](https://open.spotify.com/album/5cqyzitY6IgCLjOsRpILx2) | 3:39 | 2022-11-14 | 2023-02-02 |
 | [D.E.A.L](https://open.spotify.com/track/4NC86WqrkTKQjs4JqXpyml) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [D.E.A.L](https://open.spotify.com/album/38aBdx79uHAy2Wn9aNw2Y9) | 3:20 | 2021-11-19 | 2022-02-11 |
 | [Daisies](https://open.spotify.com/track/67k9neQm9nlnMnejMpRXSN) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Olmos](https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV) | [Daisies](https://open.spotify.com/album/37kDHVg9VwJgW5fbKkwzls) | 3:39 | 2022-07-05 | 2022-09-17 |
-| [Damage](https://open.spotify.com/track/6S0nRvCvWPpYg07vDqf1gM) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [Damage](https://open.spotify.com/album/4NqxRinZeiR45um7j2AHC1) | 3:21 | 2024-05-13 |  |
+| [Damage](https://open.spotify.com/track/6S0nRvCvWPpYg07vDqf1gM) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [Damage](https://open.spotify.com/album/4NqxRinZeiR45um7j2AHC1) | 3:21 | 2024-05-13 | 2024-08-02 |
 | [DAMAGE](https://open.spotify.com/track/0afxbRf1Xy7IwYuzoJtDZy) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q) | [DAMAGE](https://open.spotify.com/album/6aCtnpIFYQIzSbH8suxXYR) | 3:33 | 2022-09-06 | 2022-11-05 |
 | [Dance](https://open.spotify.com/track/2CJ3C71X04uLmbRGkyOThc) | [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV) | [Dance](https://open.spotify.com/album/0CySejF1LV9VLTwvLR39F4) | 3:46 | 2022-05-16 | 2022-07-27 |
 | [Dancing With Myself](https://open.spotify.com/track/3V0WvIVH1TgKTf2ouORpVR) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Dancing With Myself](https://open.spotify.com/album/22NZ46wBNwrQRWFe9qyq00) | 2:43 | 2024-03-06 | 2024-06-01 |
@@ -530,6 +530,7 @@
 | [Pressure on the Masses](https://open.spotify.com/track/65OZE1cg3ETRiBeu3R5UbT) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Pressure on the Masses](https://open.spotify.com/album/6cv6BsZtHsPreytOE8jN3S) | 3:55 | 2023-10-23 | 2024-02-07 |
 | [Prism](https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Prism](https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB) | 3:15 | 2024-01-30 | 2024-04-20 |
 | [Promise](https://open.spotify.com/track/7lmKzGSg0mGYUdsfmshKmH) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Yola Recoba](https://open.spotify.com/artist/7gvpJzKMMMQsdLqWF4SKs7), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Promise](https://open.spotify.com/album/6WuW14efnZAX1Zb8pmPzML) | 2:41 | 2024-03-28 | 2024-06-18 |
+| [promises](https://open.spotify.com/track/5mP03KQ4EJSfUOMDgFPWd4) | [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X) | [signals](https://open.spotify.com/album/40TMUyjhxxDLFEkqV75FrC) | 2:59 | 2024-08-01 |  |
 | [Prophecy](https://open.spotify.com/track/1YwyNIHtNHaIuvz8ngtx8q) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [AFTERMYFALL](https://open.spotify.com/artist/3bCsC2exlNg7bFRESSXXWK) | [Existentia](https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP) | 3:08 | 2022-11-19 | 2022-11-22 |
 | [Pump](https://open.spotify.com/track/0wdmg7VuwWNWnRkDWOh27n) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Pump](https://open.spotify.com/album/3LocwBHPnRIn9FFkDLMQ9d) | 4:24 | 2023-08-14 | 2023-12-14 |
 | [Purple](https://open.spotify.com/track/4mMYRb2AZyZiI6XiHzqHBo) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Purple](https://open.spotify.com/album/1TYUytf3KP39fBUe4ZS4pl) | 3:09 | 2021-12-03 | 2022-03-10 |

@@ -22868,7 +22868,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 143684,
       "name": "No Need To Cry",
       "url": "https://open.spotify.com/track/2dWOhDo5tYBvEbbZHi9SVH"
@@ -26415,6 +26415,24 @@
     },
     {
       "album": {
+        "name": "Puddles in Space",
+        "url": "https://open.spotify.com/album/1Q2651xcc76V9IqxvUrNi4"
+      },
+      "artists": [
+        {
+          "name": "Justnormal",
+          "url": "https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Puddles in Space",
+      "url": "https://open.spotify.com/track/3ea0vKpsVdSastrJIMEXpq"
+    },
+    {
+      "album": {
         "name": "puppy hotel",
         "url": "https://open.spotify.com/album/51SCqLyDV7DSr68sEzhDA1"
       },
@@ -29001,6 +29019,24 @@
     },
     {
       "album": {
+        "name": "sherbert lemon",
+        "url": "https://open.spotify.com/album/3bE3RjpZubC98DPrmOSlco"
+      },
+      "artists": [
+        {
+          "name": "May-Flowa",
+          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135375,
+      "name": "sherbert lemon",
+      "url": "https://open.spotify.com/track/6oPALt4XihU2L0aT8uuuXT"
+    },
+    {
+      "album": {
         "name": "Shifting Sands",
         "url": "https://open.spotify.com/album/3gEyvquozZ9YafoVW5Xlq2"
       },
@@ -31198,7 +31234,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 169691,
       "name": "Stoplight",
       "url": "https://open.spotify.com/track/4rl9BtI2ieHybBIVbjf1tG"

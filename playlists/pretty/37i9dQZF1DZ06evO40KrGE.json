@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 34324,
+  "num_followers": 34328,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqgtAAAAAAC7c/jkCEeWfHwqrnpnREtc",
+  "snapshot_id": "Zql+gAAAAACvLP2glhjMWPgdqYdA3Uyn",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Pare Agora",
-        "url": "https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 269775,
-      "name": "N\u00e3o Pare Agora",
-      "url": "https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sem Palavras",
         "url": "https://open.spotify.com/album/5l3C8WhPoluyf3FqslYyNd"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 289459,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/7sfSpQPesW7pNS7gaPnE7j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Pare Agora",
+        "url": "https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 269775,
+      "name": "N\u00e3o Pare Agora",
+      "url": "https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Segredo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 306694,
-      "name": "O Segredo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recompensa",
         "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 232571,
       "name": "Recompensa",
       "url": "https://open.spotify.com/track/2jJrUywGnlCBziixCMf5JL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Segredo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 306694,
+      "name": "O Segredo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eu N\u00e3o Mudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7koLVQPec7CXl0dDJa9p9d"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 281391,
+      "name": "Eu N\u00e3o Mudo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5CMsJa45lcaRyXORxodImT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Escolhidas",
         "url": "https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 364692,
       "name": "Sementes da F\u00e9",
       "url": "https://open.spotify.com/track/3w53peQOx3fcgcLRQrJjdc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eu N\u00e3o Mudo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7koLVQPec7CXl0dDJa9p9d"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 281391,
-      "name": "Eu N\u00e3o Mudo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5CMsJa45lcaRyXORxodImT"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sementes da F\u00e9",
-        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 446937,
-      "name": "O Abra\u00e7o do Noivo",
-      "url": "https://open.spotify.com/track/5y9uzQPYBVicXcQaWY6L9q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recompensa",
         "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 266518,
       "name": "N\u00e3o Reclame",
       "url": "https://open.spotify.com/track/79kb4y6EtyBwDjBNhWrwRd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sementes da F\u00e9",
+        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 446937,
+      "name": "O Abra\u00e7o do Noivo",
+      "url": "https://open.spotify.com/track/5y9uzQPYBVicXcQaWY6L9q"
     },
     {
       "added_at": null,
@@ -763,38 +763,6 @@
       "duration_ms": 274181,
       "name": "Erguer as M\u00e3os",
       "url": "https://open.spotify.com/track/0kN2odUJ2oOnptGa1DwUkI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Harpa Vol.1",
-        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 247942,
-      "name": "A Alma Abatida",
-      "url": "https://open.spotify.com/track/512xriilWCODMzkyhFaR4O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Harpa Vol.2",
-        "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 300419,
-      "name": "Deus Velar\u00e1 por Ti",
-      "url": "https://open.spotify.com/track/7EtEkZQfJEDHlsLaMZ2jIg"
     },
     {
       "added_at": null,
@@ -871,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fa\u00e7a Diferen\u00e7a",
-        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
+        "name": "Harpa Vol.2",
+        "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
       },
       "artists": [
         {
@@ -880,9 +848,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 321549,
-      "name": "Louvor sem Fim",
-      "url": "https://open.spotify.com/track/5wJHuTjDSIRgIPsCVBegqm"
+      "duration_ms": 300419,
+      "name": "Deus Velar\u00e1 por Ti",
+      "url": "https://open.spotify.com/track/7EtEkZQfJEDHlsLaMZ2jIg"
     },
     {
       "added_at": null,
@@ -899,6 +867,38 @@
       "duration_ms": 325218,
       "name": "Tremendo e Santo",
       "url": "https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fa\u00e7a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 321549,
+      "name": "Louvor sem Fim",
+      "url": "https://open.spotify.com/track/5wJHuTjDSIRgIPsCVBegqm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harpa Vol.1",
+        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 247942,
+      "name": "A Alma Abatida",
+      "url": "https://open.spotify.com/track/512xriilWCODMzkyhFaR4O"
     },
     {
       "added_at": null,
@@ -955,22 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Cura",
-        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 321549,
-      "name": "N\u00e3o Negue a Jesus",
-      "url": "https://open.spotify.com/track/7bmiXFTz3yKImalPGZ1DeX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harpa Vol.1",
         "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 433562,
       "name": "Fala Jesus Querido",
       "url": "https://open.spotify.com/track/5hGUUFuZ4OfGTbpVJrYE1o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 321549,
+      "name": "N\u00e3o Negue a Jesus",
+      "url": "https://open.spotify.com/track/7bmiXFTz3yKImalPGZ1DeX"
     },
     {
       "added_at": null,

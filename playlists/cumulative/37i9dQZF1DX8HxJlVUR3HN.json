@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : mirabelle.",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : The Odds",
   "name": "Volume France",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 196918,
       "name": "Adversity",
       "url": "https://open.spotify.com/track/4XXfZ11foyE5yjShXnoyTI"
@@ -1147,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "Exit",
+        "url": "https://open.spotify.com/album/0nKuOTIUmscKtJ5XK7W8yu"
+      },
+      "artists": [
+        {
+          "name": "Amen Birdmen",
+          "url": "https://open.spotify.com/artist/4dQ9qqKO52Uk4E8IBDeGU5"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231973,
+      "name": "Exit",
+      "url": "https://open.spotify.com/track/0Bdq3UJJqySNSfofFCZAiy"
+    },
+    {
+      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/07zIyAVuxE0K6Kxc4b2DYe"
       },
@@ -1738,7 +1756,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 373333,
       "name": "Instant Shutdown",
       "url": "https://open.spotify.com/track/0LxwxnfEmCgngLoULk0CTR"
@@ -2012,7 +2030,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 233965,
       "name": "Know",
       "url": "https://open.spotify.com/track/3QyvWzVXwvSYn3aSC2ugHY"
@@ -2300,7 +2318,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 383661,
       "name": "More",
       "url": "https://open.spotify.com/track/0c2EZhbyi7f3rOaR0uxXR4"
@@ -2520,6 +2538,24 @@
       "duration_ms": 132972,
       "name": "No Way Back",
       "url": "https://open.spotify.com/track/1LOfgqLOdbYOaIUpMNQWqQ"
+    },
+    {
+      "album": {
+        "name": "Notes To Myself",
+        "url": "https://open.spotify.com/album/0rrl3gVFwJeOaVxOYMsKsO"
+      },
+      "artists": [
+        {
+          "name": "OUTNUMBERED",
+          "url": "https://open.spotify.com/artist/6YTNnNlp6gE3D7BYrKIXjz"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "Notes To Myself",
+      "url": "https://open.spotify.com/track/36U21Uj9lz9WYO5jMuls9u"
     },
     {
       "album": {

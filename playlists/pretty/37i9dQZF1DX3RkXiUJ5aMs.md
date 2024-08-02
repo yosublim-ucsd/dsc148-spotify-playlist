@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain]
 
 > A collection of inspired songs about life and the love of the father.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,168 likes - 60 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,167 likes - 60 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain]
 | 47 | [Even Though I'm Leaving](https://open.spotify.com/track/3sVLgsSTHRu483w6QciloO) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Prequel \- EP](https://open.spotify.com/album/4nFW5W1gIwov6e4lAzn2vA) | 3:45 |
 | 48 | [Drive \(For Daddy Gene\)](https://open.spotify.com/track/32qiMwmCESGPYtjfnIkIqC) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [It's All About The Music](https://open.spotify.com/album/3CSzB71OGoQU5PRNyDWeGh) | 4:02 |
 | 49 | [Daddy's Hands](https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66) | [Holly Dunn](https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH) | [Milestones\- Greatest Hits](https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP) | 3:29 |
-| 50 | [Father Song](https://open.spotify.com/track/5ZnzeK0guHHU7lVXB19DPy) | [Gideon Roberts](https://open.spotify.com/artist/6jaG4lKI1f0SeeWBCr2bfI) | [Father Song](https://open.spotify.com/album/55IC3yOUiWseZ4MT6yoEgX) | 4:59 |
+| 50 | [Father Song](https://open.spotify.com/track/5ZnzeK0guHHU7lVXB19DPy) | [Gideon Roberts](https://open.spotify.com/artist/6jaG4lKI1f0SeeWBCr2bfI) | [Father Song](https://open.spotify.com/album/55IC3yOUiWseZ4MT6yoEgX) | 4:58 |
 | 51 | [You're Gonna Miss This](https://open.spotify.com/track/68Q1r5zDnnYaHkh80yal4A) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [American Man: Greatest Hits Volume II](https://open.spotify.com/album/0iUDlT7z0kFqkCiAebkHOs) | 3:44 |
 | 52 | [Why?](https://open.spotify.com/track/5RZTENetZmHBhqidC5MMj4) | [Nichole Nordeman](https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh) | [Recollection: The Best Of Nichole Nordeman](https://open.spotify.com/album/3Yuzktsf4w6np56m93XvWa) | 6:02 |
 | 53 | [Father \- Acoustic](https://open.spotify.com/track/4VdDTY1N9NFqFZ8c9sBjzl) | [Jadon Lavik](https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1) | [The Road Acoustic](https://open.spotify.com/album/0n4i83lJWBFUPfYPDNpylw) | 4:28 |

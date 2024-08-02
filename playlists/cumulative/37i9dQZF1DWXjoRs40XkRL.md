@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-291 songs - 1 day 0 hr 43 min
+292 songs - 1 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Nadia](https://open.spotify.com/track/6c05B0BTOJbDyRy5KLI7my) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [Beyond Skin](https://open.spotify.com/album/41qn4oxd4WFgz4JSBI9Ips) | 5:07 | 2022-05-17 | 2023-03-09 |
 | [Nadiya](https://open.spotify.com/track/5BqazWSXUaB9YdWBmSvABd) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK) | [Carmonies \- Thumri](https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs) | 3:37 | 2023-08-01 |  |
 | [Nadiya Bairi Bhayi](https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Nadiya Bairi Bhayi](https://open.spotify.com/album/1mADW8kGZ8Y0Zkx3b388FZ) | 2:41 | 2023-09-25 |  |
+| [Naina](https://open.spotify.com/track/1Qm4pSItUMDa0ROpSQ8ztj) | [Durba Banerjee](https://open.spotify.com/artist/5etPzPq4uUNG77culH8wc8), [Krishh Datta](https://open.spotify.com/artist/5GcmYWhvuXI2WHxtqcg5Ru) | [Naina](https://open.spotify.com/album/3daIlwFLqnqixreRQBMykM) | 5:16 | 2024-08-01 |  |
 | [Naina Bawre](https://open.spotify.com/track/2AdjRQ1xp5volT2wj2DfOq) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Jammin \- Season 1](https://open.spotify.com/album/2TOpxaq3s212H86RbwKx4z) | 4:51 | 2022-05-17 | 2023-01-11 |
 | [Naina Kamaal](https://open.spotify.com/track/37oPANH2478NM6U2K5U2MU) | [Imran Khan Sitar](https://open.spotify.com/artist/1UrxT8kr1FXLymiN3SWpEP), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Song Craft Season 1](https://open.spotify.com/album/6cyCyVWsO3y369yadNqbmA) | 3:52 | 2024-02-23 |  |
 | [Naina More](https://open.spotify.com/track/5LI0yckeAhEOHODOq0VY8z) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK) | [Carmonies \- Thumri](https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs) | 4:00 | 2023-08-01 | 2024-03-16 |
@@ -267,7 +268,7 @@
 | [Sawariya](https://open.spotify.com/track/4jUEqneWH2CaGNfhGzlSRN) | [Aishwarya Anand](https://open.spotify.com/artist/0TSQQywcuIDd2T7fQ0oJ0U) | [Sawariya](https://open.spotify.com/album/1Cl0mIBqObDo6Ebst2Mkds) | 3:02 | 2024-05-03 | 2024-06-25 |
 | [Seher](https://open.spotify.com/track/6WcBchq24S1Gl7VyHqWKJz) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Pavitra Krishnan](https://open.spotify.com/artist/6MweA91gS8GfzoAOF7fjCA), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Seher](https://open.spotify.com/album/7ea5hZN7sma70PcoQKXXQb) | 3:28 | 2022-05-17 |  |
 | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Shafqat Ali Khan](https://open.spotify.com/artist/5G8426kJYJIy8qoGo1b4sU) | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S) | 7:20 | 2022-05-17 |  |
-| [Shalimar](https://open.spotify.com/track/2MxUrEdHDefNiDaizaEXAI) | [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8) | [Shalimar](https://open.spotify.com/album/7fkrWwOqUqH31sXEKGEB3q) | 5:00 | 2023-07-05 |  |
+| [Shalimar](https://open.spotify.com/track/2MxUrEdHDefNiDaizaEXAI) | [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8) | [Shalimar](https://open.spotify.com/album/7fkrWwOqUqH31sXEKGEB3q) | 5:00 | 2023-07-05 | 2024-08-02 |
 | [Shalimar](https://open.spotify.com/track/7FQydG9BiGii1eyKEkmvLD) | [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8) | [Shalimar](https://open.spotify.com/album/0Bxk2bMpkm3VRbhSJKaOta) | 5:00 | 2023-12-15 | 2024-04-19 |
 | [Shiva Moon \(Prem Joshua & Maneesh de Moor's Moon Nectar Remix\)](https://open.spotify.com/track/0xU1OWWZdbmCjLWpC9YDau) | [Prem Joshua](https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1) | [Dakini Lounge: Prem Joshua Remixed](https://open.spotify.com/album/3POYtJ1eftAtmn3VoZkc7A) | 8:14 | 2022-05-17 | 2023-01-21 |
 | [Shyam](https://open.spotify.com/track/6fH5dUQ9KuVDNxkpYPJZ9v) | [Karsh Kale](https://open.spotify.com/artist/5KNQvpxpsSUsL8Mon7SjYn) | [Up](https://open.spotify.com/album/30f4bIRZBaGq5TalJs6D2S) | 5:54 | 2022-05-17 | 2023-03-23 |

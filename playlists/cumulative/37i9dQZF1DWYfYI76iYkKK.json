@@ -3606,7 +3606,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 272007,
       "name": "\u5e38\u7da0 (feat. \u5927\u7af9\u7814)",
       "url": "https://open.spotify.com/track/5DZPoruh0dtxfpng6RwyeH"
@@ -4720,7 +4720,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 198092,
       "name": "\u6536\u7d0d",
       "url": "https://open.spotify.com/track/6K8PECRklkw1WcCsSDWvOX"
@@ -5546,7 +5546,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-01",
+      "date_removed": null,
       "duration_ms": 232693,
       "name": "\u6d77\u67af\u77f3\u721b",
       "url": "https://open.spotify.com/track/1sDQnmtrnVLcu6d9BlQl7P"
@@ -6012,6 +6012,24 @@
       "duration_ms": 266600,
       "name": "\u7686\u53ef (\u4e2d\u5929\u5a1b\u6a02\u53f0\u300a\u6176\u9918\u5e74\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/2CkmvLrg2Zl83TuwjwWF5v"
+    },
+    {
+      "album": {
+        "name": "\u773c\u6dda",
+        "url": "https://open.spotify.com/album/1iT1Z70Gwr7jrShnTYccov"
+      },
+      "artists": [
+        {
+          "name": "Julia Wu",
+          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174285,
+      "name": "\u773c\u6dda",
+      "url": "https://open.spotify.com/track/0FadVuelB7Srb98yUbTbwI"
     },
     {
       "album": {

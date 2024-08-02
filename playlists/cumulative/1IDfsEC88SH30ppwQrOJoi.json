@@ -3449,6 +3449,28 @@
     },
     {
       "album": {
+        "name": "Naughty Girl",
+        "url": "https://open.spotify.com/album/28CvZoubvt5xdr5wyx3ZbW"
+      },
+      "artists": [
+        {
+          "name": "DJ S.K.T",
+          "url": "https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0"
+        },
+        {
+          "name": "James Haskell",
+          "url": "https://open.spotify.com/artist/5ry5gHsT7l1X84yGPZeVIj"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184547,
+      "name": "Naughty Girl",
+      "url": "https://open.spotify.com/track/2BSgGFDMsopz6bHPww0UR4"
+    },
+    {
+      "album": {
         "name": "Need Your Love",
         "url": "https://open.spotify.com/album/3UxMb30QWQEcQLatgnxCyb"
       },

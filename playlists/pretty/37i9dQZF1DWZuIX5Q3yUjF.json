@@ -1,15 +1,67 @@
 {
-  "description": "Il meglio dell'R&B italiano. Cover: Nico Kyni",
+  "description": "Il meglio dell'R&B italiano. Cover: Sans Soucis",
   "num_followers": 14595,
   "original_name": "anima R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqLLHAAAAAAFRN3NQ9dqUw+RZ7Ltgr1o",
+  "snapshot_id": "ZqwFnAAAAADJmG85eZxt4OKgkA6hkX+e",
   "tracks": [
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
+      "album": {
+        "name": "Brave",
+        "url": "https://open.spotify.com/album/2zzc1K8vcDa5OrPVvrUstF"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        },
+        {
+          "name": "Alok Vaid-Menon",
+          "url": "https://open.spotify.com/artist/1NTZtdTQJnfKxbbTY22KQR"
+        }
+      ],
+      "duration_ms": 284615,
+      "name": "Brave",
+      "url": "https://open.spotify.com/track/5Or5fUArNnHP0SvpPkTuLq"
+    },
+    {
+      "added_at": "2024-08-01 22:01:00",
+      "album": {
+        "name": "Le Cose",
+        "url": "https://open.spotify.com/album/4wimb8jyQFyFETvLlffqmZ"
+      },
+      "artists": [
+        {
+          "name": "Palmaria",
+          "url": "https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ"
+        }
+      ],
+      "duration_ms": 156407,
+      "name": "Le Cose",
+      "url": "https://open.spotify.com/track/6pYSUBIoiKGKGKNYVtPLLj"
+    },
+    {
+      "added_at": "2024-08-01 22:01:00",
+      "album": {
+        "name": "O.G.",
+        "url": "https://open.spotify.com/album/5tp7jGT8GxNxLHzTc4urFT"
+      },
+      "artists": [
+        {
+          "name": "Puka Shell's Bling",
+          "url": "https://open.spotify.com/artist/1asNZP2giwLI7reZVQUCSu"
+        }
+      ],
+      "duration_ms": 273956,
+      "name": "O.G.",
+      "url": "https://open.spotify.com/track/3ohHzYLKYRmvOIEq5QngJJ"
+    },
+    {
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "Runnin'",
         "url": "https://open.spotify.com/album/6Ekg0UHGat8nP7O9oMDLSb"
@@ -25,7 +77,7 @@
       "url": "https://open.spotify.com/track/6PTkjN7w6gRLditOZiydxL"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "Panorama Olivia",
         "url": "https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t"
@@ -41,7 +93,7 @@
       "url": "https://open.spotify.com/track/2KKBe1n19PkNbfhGg4DYIA"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "No Me Llames",
         "url": "https://open.spotify.com/album/049aJ3Z6SANuykZlKsZs06"
@@ -61,39 +113,7 @@
       "url": "https://open.spotify.com/track/7qNPXRA4f17HVwrTvSQv54"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
-      "album": {
-        "name": "Le Cose",
-        "url": "https://open.spotify.com/album/4wimb8jyQFyFETvLlffqmZ"
-      },
-      "artists": [
-        {
-          "name": "Palmaria",
-          "url": "https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ"
-        }
-      ],
-      "duration_ms": 156407,
-      "name": "Le Cose",
-      "url": "https://open.spotify.com/track/6pYSUBIoiKGKGKNYVtPLLj"
-    },
-    {
-      "added_at": "2024-07-25 22:01:00",
-      "album": {
-        "name": "O.G.",
-        "url": "https://open.spotify.com/album/5tp7jGT8GxNxLHzTc4urFT"
-      },
-      "artists": [
-        {
-          "name": "Puka Shell's Bling",
-          "url": "https://open.spotify.com/artist/1asNZP2giwLI7reZVQUCSu"
-        }
-      ],
-      "duration_ms": 273956,
-      "name": "O.G.",
-      "url": "https://open.spotify.com/track/3ohHzYLKYRmvOIEq5QngJJ"
-    },
-    {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "Blu - Settembre",
         "url": "https://open.spotify.com/album/6jo07dwFj7Go9cxTyIPp8R"
@@ -109,7 +129,7 @@
       "url": "https://open.spotify.com/track/43CsR5UOJYTC8d9sKDgrmS"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "Mezzo Amore",
         "url": "https://open.spotify.com/album/0rGuKHjubf9cso6vJTOzc5"
@@ -125,7 +145,7 @@
       "url": "https://open.spotify.com/track/12IBHgQmBdIv0fXREEeURt"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "Mambo",
         "url": "https://open.spotify.com/album/4Rf1gy3dHPSQNFhanMHtjp"
@@ -141,7 +161,7 @@
       "url": "https://open.spotify.com/track/1Eslj0XCaVpzPbYBmaol7T"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "Sotto Effetto",
         "url": "https://open.spotify.com/album/4O32SggIcVIFHoRIzTPtdB"
@@ -157,7 +177,7 @@
       "url": "https://open.spotify.com/track/5AoTOyFrguTiDH1YCCHZMh"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "Romanzo Rosa",
         "url": "https://open.spotify.com/album/1ozTJQBhbtke6kyb7Co7x6"
@@ -181,7 +201,7 @@
       "url": "https://open.spotify.com/track/5oR5NvN3Cml2LD0sq7zDAN"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "BOCCA DELLA VERIT\u00c0",
         "url": "https://open.spotify.com/album/51pHiicssnO5VzkGXsLLx3"
@@ -201,7 +221,7 @@
       "url": "https://open.spotify.com/track/3tTZk8sI7WC853LADC8hZh"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "troppo presto",
         "url": "https://open.spotify.com/album/0pAfGcmGCRPOvflSiUbeDx"
@@ -217,7 +237,7 @@
       "url": "https://open.spotify.com/track/3VAKgrEdeG9Hyrr2midIgk"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "Nankurunaisa",
         "url": "https://open.spotify.com/album/6uRNa9BJK7d3dFZxGIDxku"
@@ -237,7 +257,7 @@
       "url": "https://open.spotify.com/track/7A8F6HdwUBYkE7TxpkxVCj"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "Rom'antica",
         "url": "https://open.spotify.com/album/16cwdZL6EO35vjk74512UP"
@@ -253,7 +273,7 @@
       "url": "https://open.spotify.com/track/2MUDmWgfJtAma6br0HOqnG"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "bolla",
         "url": "https://open.spotify.com/album/00MaBe7OPCqetJRGjz8B4O"
@@ -269,7 +289,7 @@
       "url": "https://open.spotify.com/track/2MAGxD6wXOrX3iGS84oi6s"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "Poeta",
         "url": "https://open.spotify.com/album/5RbCvJOBxFjeNwdtnJttzV"
@@ -285,7 +305,7 @@
       "url": "https://open.spotify.com/track/2oD2CQEW4vtstzdFIia2S2"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "COLD",
         "url": "https://open.spotify.com/album/3VNViiWGXdYoD27WEsOWi4"
@@ -305,7 +325,7 @@
       "url": "https://open.spotify.com/track/68Hw42cJIFcUnF364etWtX"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "UNA NOTTE ANCORA",
         "url": "https://open.spotify.com/album/0BESuf5QsKyJBUm9XElbXl"
@@ -325,7 +345,7 @@
       "url": "https://open.spotify.com/track/1EJjT0KxQnpbXZcdpBPbvb"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "713",
         "url": "https://open.spotify.com/album/0iZpCEhefDXKxiLuyWCl5R"
@@ -345,7 +365,7 @@
       "url": "https://open.spotify.com/track/7j40WhUtQj7BEkfzvfUSLF"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "Alter Echo",
         "url": "https://open.spotify.com/album/1Fi6Swlb8LCsTk7E5szO1Z"
@@ -361,7 +381,7 @@
       "url": "https://open.spotify.com/track/1zWQjPa7yZCKxpuiqINZZS"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "AKEREKOR\u00c8",
         "url": "https://open.spotify.com/album/4SzYPXiLmPTm9p2izNCzeV"
@@ -381,7 +401,7 @@
       "url": "https://open.spotify.com/track/6iVfvR1NkJR4dWOABIwIAA"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "NIRVANA (feat. Evra & Ernvss)",
         "url": "https://open.spotify.com/album/3gpFFqGGAPba2wQLjR6TC3"
@@ -405,7 +425,7 @@
       "url": "https://open.spotify.com/track/3vzHw9uFJNbJDxI1i4XjjI"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "M\u0100Y\u0100",
         "url": "https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg"
@@ -429,7 +449,23 @@
       "url": "https://open.spotify.com/track/2pz8gp5acxEbNxhHJtNvKj"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
+      "album": {
+        "name": "se mi guardi",
+        "url": "https://open.spotify.com/album/1jAFK6oUcGgOV4QYYSnwoW"
+      },
+      "artists": [
+        {
+          "name": "maisola",
+          "url": "https://open.spotify.com/artist/2ctwLObzObVxJjzHCMfDM0"
+        }
+      ],
+      "duration_ms": 199559,
+      "name": "se mi guardi",
+      "url": "https://open.spotify.com/track/3i0fGZp3EBBd5tOXdS3C0l"
+    },
+    {
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "UOCCHIE",
         "url": "https://open.spotify.com/album/4QRpXNEhLjopJVrVwdKyg3"
@@ -445,7 +481,7 @@
       "url": "https://open.spotify.com/track/7JVApJWNWo6sihWeWLv5Kr"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "sotto le luci della citt\u00e0",
         "url": "https://open.spotify.com/album/1XoYdhAmIlEESAPfkeAzMx"
@@ -461,7 +497,7 @@
       "url": "https://open.spotify.com/track/1iZjzatPanC3xcqiljUF47"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "MY LADY",
         "url": "https://open.spotify.com/album/084SssXdVjVDoBVApO1vTE"
@@ -481,7 +517,7 @@
       "url": "https://open.spotify.com/track/4huOHlHNobk81EPRFehQ5R"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "CORE 'N GALERA",
         "url": "https://open.spotify.com/album/6s1EfNVu3QentGFZizdbVR"
@@ -501,7 +537,7 @@
       "url": "https://open.spotify.com/track/3Pj83i3eBuszdUSLmrz0D6"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "Offline",
         "url": "https://open.spotify.com/album/6u8waWibngGHilXlYfsQMC"
@@ -517,7 +553,7 @@
       "url": "https://open.spotify.com/track/7yxDBNu6S9WmylPqJ4bmgX"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "Nel Vortice",
         "url": "https://open.spotify.com/album/0GhD7rf558nmVuDXyfkSRl"
@@ -533,7 +569,7 @@
       "url": "https://open.spotify.com/track/3Gy88h0xErGucDUTBOyV31"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "SPUNTA BLU",
         "url": "https://open.spotify.com/album/6xq8k8yP1tzAAzD13dIXEu"
@@ -557,23 +593,7 @@
       "url": "https://open.spotify.com/track/6pkx41c7BZukiBOxgVOnX4"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
-      "album": {
-        "name": "Linea Di Confine",
-        "url": "https://open.spotify.com/album/0qg4LEl3ZZ46kGNrw3eiQT"
-      },
-      "artists": [
-        {
-          "name": "Corinna",
-          "url": "https://open.spotify.com/artist/6vqpDMhV9j6QazfM1e2Cv6"
-        }
-      ],
-      "duration_ms": 194443,
-      "name": "Linea Di Confine",
-      "url": "https://open.spotify.com/track/6GOevvSsRfxM2i8yF5m9nR"
-    },
-    {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "Las Vegas",
         "url": "https://open.spotify.com/album/5ipEJRUyladuVqApGc4ph4"
@@ -589,7 +609,7 @@
       "url": "https://open.spotify.com/track/0bdxj3vPcLLJogNUw4pDhp"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "Semplicemente (Nun Fa Accuss\u00ec)",
         "url": "https://open.spotify.com/album/0XxkiUO5bR1nt5ctAhxC7O"
@@ -605,7 +625,7 @@
       "url": "https://open.spotify.com/track/737HnI5qtfg3azNWUYsGZR"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "Essere Uomo",
         "url": "https://open.spotify.com/album/2aEOb5jk0T8mi1PzbdnzHh"
@@ -621,7 +641,7 @@
       "url": "https://open.spotify.com/track/1iQKy7EU6imwiFez0SBrB8"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "Paura di Me",
         "url": "https://open.spotify.com/album/7nBA3K8fb5ykG945MZfiuQ"
@@ -641,7 +661,7 @@
       "url": "https://open.spotify.com/track/5bWT1rNrkCFgc9kb15g39I"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "CENTRALE ELETTRICA (feat. Not Good)",
         "url": "https://open.spotify.com/album/4XtThyzrdlNCOdMecXqYzA"
@@ -665,7 +685,7 @@
       "url": "https://open.spotify.com/track/3jBe7yZjYmWF2Vuvh8ByhE"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "Whitman (feat. Ghemon)",
         "url": "https://open.spotify.com/album/08VmlDoJ201HDVdStBRlyU"
@@ -685,7 +705,7 @@
       "url": "https://open.spotify.com/track/4buNjqz4lvWhM0vXyTyRAk"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "mozzicone",
         "url": "https://open.spotify.com/album/2pASAiBUfL9NbwS8DSHwdN"
@@ -701,7 +721,7 @@
       "url": "https://open.spotify.com/track/1sfRtz5iKbpzOxAWluRhLW"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "Voglio di pi\u00f9",
         "url": "https://open.spotify.com/album/4IsmRQLMNSJXAHFgymX6UF"
@@ -717,7 +737,7 @@
       "url": "https://open.spotify.com/track/4MmOYatHoZD8hzDbRnKPB7"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "Senza Finale",
         "url": "https://open.spotify.com/album/3GMy6UByOe8Xuq7AgZtipB"
@@ -733,7 +753,7 @@
       "url": "https://open.spotify.com/track/2VitXF1SEYx95J7bi9XZHU"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "Anni Luce",
         "url": "https://open.spotify.com/album/4LTmcKBhBw9lj2MVAWcZnU"
@@ -753,7 +773,7 @@
       "url": "https://open.spotify.com/track/5lQ5fL5tH7IbOcOTBuwZuL"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "VIVO!",
         "url": "https://open.spotify.com/album/1Ym4vf6OSKx3lVgv97TW8h"
@@ -769,7 +789,7 @@
       "url": "https://open.spotify.com/track/2NX0FgRvkxumI1oUasjDNg"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "LACRIME DI LIME",
         "url": "https://open.spotify.com/album/7HJFm5hiK3509PXE2WRrpV"
@@ -789,7 +809,7 @@
       "url": "https://open.spotify.com/track/4AvsqJPeq239b2OP8R9Ccs"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "non ce la faccio pi\u00f9",
         "url": "https://open.spotify.com/album/4lUKkHUG1gzBH2AMszrcnf"
@@ -805,23 +825,7 @@
       "url": "https://open.spotify.com/track/156ef7hqu2bt0yxsIPZI6h"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
-      "album": {
-        "name": "crescere",
-        "url": "https://open.spotify.com/album/5W9xHuEXCqIZMBEPJWCxrC"
-      },
-      "artists": [
-        {
-          "name": "miele",
-          "url": "https://open.spotify.com/artist/1fV44jgoWdnw2eB2zYGIyw"
-        }
-      ],
-      "duration_ms": 175124,
-      "name": "crescere",
-      "url": "https://open.spotify.com/track/5xkbGSNVcNOoqS44rV79nx"
-    },
-    {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "CITT\u00c0 PERICOLOSA",
         "url": "https://open.spotify.com/album/4sPVAZN2pRr6bHM64dAIvF"
@@ -837,7 +841,7 @@
       "url": "https://open.spotify.com/track/4pUuKLM4kSJryyPeu47g3o"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "invidiosa",
         "url": "https://open.spotify.com/album/4h8OEFdmS8Oj3XQdyPdp42"
@@ -853,7 +857,7 @@
       "url": "https://open.spotify.com/track/6cygIx1k0KcUjGlJXY65Ra"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "Iliade",
         "url": "https://open.spotify.com/album/6vrx3mVYnoQ7jNoTN3mb3c"
@@ -869,7 +873,7 @@
       "url": "https://open.spotify.com/track/4pmK8N7r8tajDezvfo3wj6"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "mezzanotte A24",
         "url": "https://open.spotify.com/album/15KU98GmjEJqzaMkuCqxsd"
@@ -885,7 +889,7 @@
       "url": "https://open.spotify.com/track/2wuvprsp3TSM3XE7r4R4Hk"
     },
     {
-      "added_at": "2024-07-25 22:01:00",
+      "added_at": "2024-08-01 22:01:00",
       "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/7JDbqS1lenkORKdiPsfFMu"

@@ -1,6 +1,6 @@
 {
   "description": "Where Sitar meets Guitar. Cover - 'Sonchadi' by DigV, Neha Kakkar and Kamla Devi",
-  "num_followers": 69881,
+  "num_followers": 69883,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -287,26 +287,6 @@
     {
       "added_at": "2024-07-31 11:40:12",
       "album": {
-        "name": "Coke Studio Season 7",
-        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
-      },
-      "artists": [
-        {
-          "name": "Abida Parveen",
-          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
-        },
-        {
-          "name": "Rahat Fateh Ali Khan",
-          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
-        }
-      ],
-      "duration_ms": 532300,
-      "name": "Chaap Tilak",
-      "url": "https://open.spotify.com/track/2mVqfKbKGmxVXlVswhlI5T"
-    },
-    {
-      "added_at": "2024-07-31 11:40:12",
-      "album": {
         "name": "Diamond Ni",
         "url": "https://open.spotify.com/album/6wKaSU621x7uBILAM1s52O"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 192900,
       "name": "Diamond Ni",
       "url": "https://open.spotify.com/track/65KnUdLcbq2D8Ko9NtEGpW"
+    },
+    {
+      "added_at": "2024-07-31 11:40:12",
+      "album": {
+        "name": "Coke Studio Season 7",
+        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
+      },
+      "artists": [
+        {
+          "name": "Abida Parveen",
+          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
+        },
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        }
+      ],
+      "duration_ms": 532300,
+      "name": "Chaap Tilak",
+      "url": "https://open.spotify.com/track/2mVqfKbKGmxVXlVswhlI5T"
     },
     {
       "added_at": "2024-07-31 11:40:12",

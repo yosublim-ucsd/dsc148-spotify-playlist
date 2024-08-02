@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Sophia Stel
 
-2,640 songs - 6 day 1 hr 38 min
+2,641 songs - 6 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1662,6 +1662,7 @@
 | [Old Ways](https://open.spotify.com/track/3MDKT6EcDWIpDK6Y1pzf8f) | [Lazylazy](https://open.spotify.com/artist/1TPIf8I6WXXXIRjjSWYiuD), [Birthday Girl](https://open.spotify.com/artist/0pr0MTL5u7A2wRs5nlUwrV) | [Old Ways](https://open.spotify.com/album/4nIlo1YPUbrxqaOXBOI0Iw) | 2:38 | 2023-10-04 | 2023-11-30 |
 | [oldnews](https://open.spotify.com/track/4GPW2IKUMthbk3GA0f2rVD) | [meg elsier](https://open.spotify.com/artist/4rkAMhebcdsLwZKBriNerT) | [oldnews](https://open.spotify.com/album/3Kc9BKtvZ4T1XjtMus3n6D) | 3:26 | 2024-03-27 | 2024-06-01 |
 | [Olivia](https://open.spotify.com/track/5B9RzNWxGMtSi5ippoDmSY) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Olivia](https://open.spotify.com/album/549bnGNWELv0hpPC1aydth) | 2:51 | 2022-02-02 | 2022-02-17 |
+| [Olympic](https://open.spotify.com/track/6iTJ3hFeO9dCGS5DBeh6rQ) | [Cg](https://open.spotify.com/artist/3v5Pr2iaofnIbfOmNE9Aab) | [Olympic](https://open.spotify.com/album/12tEnAYrPLxSzVDdCqgHXY) | 3:28 | 2024-08-01 |  |
 | [Olympus](https://open.spotify.com/track/7JONeaUwRAPZvrXBrhGq4E) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Olympus](https://open.spotify.com/album/35Hg5KkyQoM4s0tHFq5L1u) | 3:36 | 2022-11-30 | 2023-01-12 |
 | [Olympus](https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Olympus](https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4) | 3:44 | 2022-06-15 | 2022-10-20 |
 | [Omissions](https://open.spotify.com/track/12DlQneRsh4OwYYQI2Sf3L) | [Georgia Mulligan](https://open.spotify.com/artist/4tXhvq7trzNGSORS5pAB9o) | [Omissions](https://open.spotify.com/album/0TpfU54SwnVOKew3NyCaUt) | 3:24 | 2023-06-27 | 2023-08-09 |

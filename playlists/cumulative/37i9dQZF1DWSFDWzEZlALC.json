@@ -958,7 +958,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 168313,
       "name": "Alles was du brauchst",
       "url": "https://open.spotify.com/track/5VLY2jLhe8uL2JeQ6kdPlo"
@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 226237,
       "name": "Angst & Euphorie",
       "url": "https://open.spotify.com/track/644qVDyKrO6ZPJC5B2gYXD"
@@ -2432,7 +2432,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 142372,
       "name": "Decke",
       "url": "https://open.spotify.com/track/0GWpJoKVqAKurYBDmJyZ5z"
@@ -3790,6 +3790,24 @@
       "duration_ms": 186000,
       "name": "Ewiger Fahrgast",
       "url": "https://open.spotify.com/track/3RXfhZCEVajHZa9lwyPruL"
+    },
+    {
+      "album": {
+        "name": "Extra",
+        "url": "https://open.spotify.com/album/64Fi0s4pMS4SkHx9Ok7Yfd"
+      },
+      "artists": [
+        {
+          "name": "Paula Carolina",
+          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173136,
+      "name": "Extra",
+      "url": "https://open.spotify.com/track/3b4bdikLKNTNrhcRpKWmg4"
     },
     {
       "album": {
@@ -5418,7 +5436,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 144000,
       "name": "Herz",
       "url": "https://open.spotify.com/track/6HaiZCsCIsFYStVrv29Og3"
@@ -6859,6 +6877,24 @@
     },
     {
       "album": {
+        "name": "Kopfsache",
+        "url": "https://open.spotify.com/album/3Scp6YcbAfkFJ2gJVEyECG"
+      },
+      "artists": [
+        {
+          "name": "FRISO",
+          "url": "https://open.spotify.com/artist/4xAMTJFCMfH1AZNQexkYEt"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Kopfsache",
+      "url": "https://open.spotify.com/track/44dnpEV3ALSX36p64J8cIb"
+    },
+    {
+      "album": {
         "name": "Kreise Durch Die Stadt",
         "url": "https://open.spotify.com/album/6hb8PvKx43L693b9qtWkDt"
       },
@@ -7203,6 +7239,24 @@
     },
     {
       "album": {
+        "name": "Laut",
+        "url": "https://open.spotify.com/album/18IVylSgC4mu28fBEAQVxg"
+      },
+      "artists": [
+        {
+          "name": "Jette Sorgenfrey",
+          "url": "https://open.spotify.com/artist/30yHAwHCY1olgo23dXQbPT"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148124,
+      "name": "Laut",
+      "url": "https://open.spotify.com/track/17HBDMUjurx0O6nhPZZVWZ"
+    },
+    {
+      "album": {
         "name": "Laut Denken",
         "url": "https://open.spotify.com/album/2TcpdBpjdbvCeeIAfFR783"
       },
@@ -7374,6 +7428,36 @@
       "duration_ms": 92773,
       "name": "Liebe ist Krieg",
       "url": "https://open.spotify.com/track/2NgAtQbDrlBvrgnqylUwQa"
+    },
+    {
+      "album": {
+        "name": "Liebe teilen",
+        "url": "https://open.spotify.com/album/23g5h7YWjIUQtJL1uGqRWx"
+      },
+      "artists": [
+        {
+          "name": "Lena&Linus",
+          "url": "https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh"
+        },
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        },
+        {
+          "name": "TYM",
+          "url": "https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v"
+        },
+        {
+          "name": "Tim Tautorat",
+          "url": "https://open.spotify.com/artist/04F7sUgAvncSBIiZZ1B1Re"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220673,
+      "name": "Liebe teilen",
+      "url": "https://open.spotify.com/track/7bjgHa1cCjMMU9FQw13iti"
     },
     {
       "album": {
@@ -10362,7 +10446,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 172173,
       "name": "Sch\u00fcttelfrost",
       "url": "https://open.spotify.com/track/2tMtlbiICtH6khyJz0VMlm"
@@ -10757,6 +10841,24 @@
     },
     {
       "album": {
+        "name": "so sch\u00f6n",
+        "url": "https://open.spotify.com/album/2GqqkLYujTpLrM0rPwgMmx"
+      },
+      "artists": [
+        {
+          "name": "antonius",
+          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142479,
+      "name": "so sch\u00f6n",
+      "url": "https://open.spotify.com/track/6y8VFRPbnCmABVPNtPwExr"
+    },
+    {
+      "album": {
         "name": "So sein wie wir sind",
         "url": "https://open.spotify.com/album/0ojgr8zuq2lmpucYD78k9x"
       },
@@ -11090,7 +11192,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 144500,
       "name": "Space Age",
       "url": "https://open.spotify.com/track/5XyN6Z8dX6b6dtZHK9FCcv"
@@ -11144,7 +11246,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 189418,
       "name": "Spieluhr",
       "url": "https://open.spotify.com/track/0kfw1seCclNc59FnqjM98N"
@@ -12281,6 +12383,24 @@
     },
     {
       "album": {
+        "name": "VERSPRICH, DASS DU IMMER ALLES SAGST",
+        "url": "https://open.spotify.com/album/3SCZUpTIMUzi3mu9wvfy83"
+      },
+      "artists": [
+        {
+          "name": "error",
+          "url": "https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203285,
+      "name": "VERSPRICH, DASS DU IMMER ALLES SAGST",
+      "url": "https://open.spotify.com/track/2G5HtTYmtKEdGCqtqxtmUJ"
+    },
+    {
+      "album": {
         "name": "Nie verliebt",
         "url": "https://open.spotify.com/album/5dFqidhoMEed1Nx9gO9M71"
       },
@@ -13204,6 +13324,24 @@
       "duration_ms": 136373,
       "name": "Wien",
       "url": "https://open.spotify.com/track/65caFJtNCC6xdSBUXZivw2"
+    },
+    {
+      "album": {
+        "name": "Wilde Herzen",
+        "url": "https://open.spotify.com/album/1wf7R5V02ykidXjrEf2H9C"
+      },
+      "artists": [
+        {
+          "name": "Pippa",
+          "url": "https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215309,
+      "name": "Wilde Herzen",
+      "url": "https://open.spotify.com/track/0JOBAZ4sdpXapQ8g35rMTh"
     },
     {
       "album": {

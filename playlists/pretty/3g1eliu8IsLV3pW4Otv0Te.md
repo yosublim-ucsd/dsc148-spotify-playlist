@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 
 > 
 
-[codym2011](https://open.spotify.com/user/codym2011) - 564 likes - 214 songs - 14 hr 41 min
+[codym2011](https://open.spotify.com/user/codym2011) - 564 likes - 215 songs - 14 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -222,5 +222,6 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 | 212 | [Emptiness](https://open.spotify.com/track/4TPzn1tHoa186Nu2wb68r0) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [Emptiness](https://open.spotify.com/album/1v7slg9ssEvd7PFdNjRgmD) | 2:29 |
 | 213 | [Parasite](https://open.spotify.com/track/7InqkJxeh2IuGREHrtUplt) | [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY), [Crywolf](https://open.spotify.com/artist/33o00sXuyWiApOFzo0vr0z) | [Parasite](https://open.spotify.com/album/6BSdfYlu24NUHlJWaSleI8) | 5:12 |
 | 214 | [Suicidal Love](https://open.spotify.com/track/7FY6QQTpFO6G91bjut6uld) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [Coka Cobra](https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC) | [Suicidal Love](https://open.spotify.com/album/4LzNJPcHdePt52EwWp4wla) | 2:26 |
+| 215 | [Nuit Noir \(Dark Night\)](https://open.spotify.com/track/32CgpBzBs87B4FWxVgs2HG) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Nuit Noir \(Dark Night\)](https://open.spotify.com/album/42jfGxEWZ3Ll0CizCzqXl4) | 3:10 |
 
-Snapshot ID: `AAAA6FSgaEX8eHJdVjs05KznPJ9r2ZyJ`
+Snapshot ID: `AAAA6XlfGYwj5T0RnYuY5O7OfPGuxezW`

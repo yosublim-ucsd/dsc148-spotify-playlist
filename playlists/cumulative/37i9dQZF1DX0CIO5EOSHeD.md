@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: Eyedress
 
-410 songs - 22 hr 7 min
+411 songs - 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [GROWING PAINS](https://open.spotify.com/track/0nw3cNi3s5v3TxvNT9FixR) | [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf), [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [QUEEN CITY](https://open.spotify.com/album/6nbZGbIT56fqbXmcw5sKQB) | 3:34 | 2021-05-21 | 2022-07-29 |
 | [GROWING PAINS](https://open.spotify.com/track/7hTFHCtOfsMFaiNVDPzUJ9) | [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf), [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [QUEEN CITY](https://open.spotify.com/album/2v2bIVg2RT8VWWF2u6lj1q) | 3:34 | 2022-03-30 | 2023-01-13 |
 | [Grown](https://open.spotify.com/track/1ThVOUDQwQsgeSdoxrkPGc) | [Brahny](https://open.spotify.com/artist/5XVcCGWqJUyDVL8u3YsSRX) | [Grown](https://open.spotify.com/album/6R6dEkUpLr7wUuYBKpUpxy) | 3:16 | 2022-03-17 | 2022-07-26 |
-| [Guardian](https://open.spotify.com/track/5nXPrRi96k1FVpBdIxujlN) | [Armlock](https://open.spotify.com/artist/7BoU3VkauvnYvttpymQ7pG) | [Guardian](https://open.spotify.com/album/6OpjqsrtNRVnviCrXj8XOh) | 3:31 | 2024-07-09 |  |
+| [Guardian](https://open.spotify.com/track/5nXPrRi96k1FVpBdIxujlN) | [Armlock](https://open.spotify.com/artist/7BoU3VkauvnYvttpymQ7pG) | [Guardian](https://open.spotify.com/album/6OpjqsrtNRVnviCrXj8XOh) | 3:31 | 2024-07-09 | 2024-08-02 |
 | [Gush](https://open.spotify.com/track/1KVmkJwGJqHWQkb1xg1zkg) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS) | 3:46 | 2020-10-27\* | 2023-08-13 |
 | [Gush](https://open.spotify.com/track/5ZKyMAM2Pwf2gUAtddtTlg) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/7itRrAfbJnabbvrGRE7kFm) | 3:46 | 2023-07-21 | 2024-04-19 |
 | [Half Eaten](https://open.spotify.com/track/0uD7KsA2g7cTBxFyk5Fo5M) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq) | [Boys Cry](https://open.spotify.com/album/55hp8spWuKixazOfG5olQQ) | 3:18 | 2022-09-13 | 2023-06-06 |
@@ -277,6 +277,7 @@
 | [Owner Operator](https://open.spotify.com/track/13PC7fpNWPPkMFJjTQeMh1) | [Sidewalk & the Wheely Bin](https://open.spotify.com/artist/3EZkOcE5IpJKOBQf1AKEAH) | [Wet bit beef bit no bit](https://open.spotify.com/album/785FkH4huvQH3rQyHvVwAU) | 2:32 | 2024-07-23 |  |
 | [Paces](https://open.spotify.com/track/6RiF8SC99TQlhS1HkdM7sF) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 2:44 | 2023-12-02 |  |
 | [Paimon Prom Dress](https://open.spotify.com/track/3yHSlNtttgrmdce8sO8ndN) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pink Songs](https://open.spotify.com/album/7HrvucSDN0Bsf3vsyROFnr) | 2:30 | 2022-02-03 | 2022-07-27 |
+| [Panoramic View](https://open.spotify.com/track/7jd7vpPlwNcKauBddT9hEf) | [Van Houten](https://open.spotify.com/artist/1DJIjqnBb14BDo3EIZc2zB) | [The Tallest Room](https://open.spotify.com/album/38AWwdLCyVhfxsndtizrTC) | 3:58 | 2024-07-09 |  |
 | [Patience](https://open.spotify.com/track/2lxBhYFEacY4Sc8RoDm7Ty) | [scott is okay](https://open.spotify.com/artist/74sQB0xBWG3zl72UcRjIKK) | [Patience](https://open.spotify.com/album/5LGOD8FNLQQgNaTMijMdRx) | 2:20 | 2020-10-27\* | 2022-07-17 |
 | [Phantoms](https://open.spotify.com/track/4z3fsDJMYshAJcobSmyxqr) | [ghost orange](https://open.spotify.com/artist/1uoiVFaMzvpxohzipbouPZ) | [Phantoms](https://open.spotify.com/album/2iJspr1w8FSbxo5mYr9dSj) | 3:59 | 2021-02-26 | 2022-07-26 |
 | [Physical](https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 4:33 | 2021-06-19 |  |

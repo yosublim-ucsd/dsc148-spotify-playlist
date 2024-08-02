@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "G\u00f6rd\u00fc\u011f\u00fcm En G\u00fczel \u015eey",
+        "url": "https://open.spotify.com/album/27LmXxJXjaI8Lb4fnCxy6a"
+      },
+      "artists": [
+        {
+          "name": "Zaaf",
+          "url": "https://open.spotify.com/artist/50duVkVqOy98xlSpzJ865B"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172936,
+      "name": "G\u00f6rd\u00fc\u011f\u00fcm En G\u00fczel \u015eey",
+      "url": "https://open.spotify.com/track/3Iy0JBd4yitkQMpC1ILwPS"
+    },
+    {
+      "album": {
         "name": "G\u00f6rmedin Hi\u00e7 Ya\u015f\u0131m\u0131",
         "url": "https://open.spotify.com/album/4r0hL4nkFNi40Go0oXwaYO"
       },
@@ -856,10 +874,28 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 190883,
       "name": "K\u00fcs",
       "url": "https://open.spotify.com/track/1BjwltIYnT7iaZXko9BHbf"
+    },
+    {
+      "album": {
+        "name": "K\u00fcst\u00fcm Bu \u015eehre",
+        "url": "https://open.spotify.com/album/1EbsjXQjVL0GKwNmKznTpm"
+      },
+      "artists": [
+        {
+          "name": "Tual",
+          "url": "https://open.spotify.com/artist/1pN6fkbVTYbHEhN8jl49dE"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152666,
+      "name": "K\u00fcst\u00fcm Bu \u015eehre",
+      "url": "https://open.spotify.com/track/7zhNK5ceWIIbeJWUBuVy5b"
     },
     {
       "album": {
@@ -1026,7 +1062,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 382625,
       "name": "Sanr\u0131lar \u00c7\u0131ld\u0131rm\u0131\u015f Olmal\u0131 - Live",
       "url": "https://open.spotify.com/track/52MjLPjxtIafUI7SUaAJZ8"
@@ -1485,6 +1521,24 @@
     },
     {
       "album": {
+        "name": "\u00d6d\u00fcn Verdim",
+        "url": "https://open.spotify.com/album/4MeJJ1gq59xDeVhmHqH0aK"
+      },
+      "artists": [
+        {
+          "name": "An\u0131l Berke",
+          "url": "https://open.spotify.com/artist/0l6z8gRVh2xP7jldRj1bq4"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "\u00d6d\u00fcn Verdim",
+      "url": "https://open.spotify.com/track/4U0n8zk7ec1WVseHvF4P28"
+    },
+    {
+      "album": {
         "name": "\u00d6lene Dek",
         "url": "https://open.spotify.com/album/0b9tU1DOxAmZa1CA4rFm71"
       },
@@ -1518,7 +1572,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 285375,
       "name": "\u00d6l\u00fcm Bizi Bekler",
       "url": "https://open.spotify.com/track/1udHcoBlj3fXp4lKcfkFs8"

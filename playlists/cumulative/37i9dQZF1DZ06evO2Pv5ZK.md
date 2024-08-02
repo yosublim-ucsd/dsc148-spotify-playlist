@@ -2,9 +2,9 @@
 
 ### [This Is Vangelis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Pv5ZK)
 
-> This is Vangelis\. The essential tracks, all in one playlist.
+> This is Vangelis\. Todos os maiores hits em uma só playlist.
 
-85 songs - 7 hr 5 min
+86 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Monastery of La Rabida](https://open.spotify.com/track/0v6FuCt6q776u7DzFMOPi0) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [1492: Conquest of Paradise](https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0) | 3:38 | 2022-05-29 |  |
 | [Moonlight Reflections](https://open.spotify.com/track/5q50gPhmfwV6eEMyXNWXbB) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 3:10 | 2022-10-14 | 2024-01-27 |
 | [Moxica and the Horse](https://open.spotify.com/track/14LPasSTYy0QbrHIfEYeDQ) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [1492: Conquest of Paradise](https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0) | 7:06 | 2022-08-13 | 2022-10-12 |
+| [My Dear Life](https://open.spotify.com/track/52Wvl8ZDJKrmLYpnr9aT4C) | [Mariangela Celeste](https://open.spotify.com/artist/2zuG4hA1xyS484HTQWx9Ih), [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Mariangela](https://open.spotify.com/album/6ax0VRKI8Maf6OyNIKUX4J) | 3:41 | 2024-08-02 |  |
 | [Nocturnal Promenade](https://open.spotify.com/track/55PQaWj0EcF5YWPthNi7fb) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 5:51 | 2022-05-29 | 2024-02-06 |
 | [One More Kiss, Dear](https://open.spotify.com/track/7CKz0xDkXuPdW3xEQ4NUS9) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 3:59 | 2022-10-22 |  |
 | [Opening](https://open.spotify.com/track/3BUoh4ToIQXNDYWNVBAbgx) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [1492: Conquest of Paradise](https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0) | 1:21 | 2022-05-29 | 2022-10-11 |

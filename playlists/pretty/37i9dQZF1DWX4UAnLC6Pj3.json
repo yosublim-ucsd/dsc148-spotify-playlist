@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Luis Alfonso Partida El Yaki en portada.",
-  "num_followers": 1223023,
+  "num_followers": 1223170,
   "original_name": "Banda 2024",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-07-12 20:33:15",
       "album": {
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 224523,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1"
+    },
+    {
+      "added_at": "2024-07-12 20:33:15",
+      "album": {
         "name": "M\u00fasica Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 232573,
       "name": "M\u00fasica Rom\u00e1ntica",
       "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
-    },
-    {
-      "added_at": "2024-07-12 20:33:15",
-      "album": {
-        "name": "Te Felicito",
-        "url": "https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 224523,
-      "name": "Te Felicito",
-      "url": "https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1"
     },
     {
       "added_at": "2024-07-12 20:33:15",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-07-12 20:33:15",
       "album": {
-        "name": "CHSM El H\u00edgado X2",
-        "url": "https://open.spotify.com/album/4Xdc6jbEyG74XnamElVAmR"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 185434,
-      "name": "CHSM El Higado",
-      "url": "https://open.spotify.com/track/2SIaxVDnOZGBATjFaSzm5Q"
-    },
-    {
-      "added_at": "2024-07-12 20:33:15",
-      "album": {
         "name": "S Cool...ito",
         "url": "https://open.spotify.com/album/4w8BHpxUYiFrMnwlCyk6L1"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 180120,
       "name": "A Trav\u00e9s Del Vaso",
       "url": "https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo"
+    },
+    {
+      "added_at": "2024-07-12 20:33:15",
+      "album": {
+        "name": "CHSM El H\u00edgado X2",
+        "url": "https://open.spotify.com/album/4Xdc6jbEyG74XnamElVAmR"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 185434,
+      "name": "CHSM El Higado",
+      "url": "https://open.spotify.com/track/2SIaxVDnOZGBATjFaSzm5Q"
     },
     {
       "added_at": "2024-07-12 20:33:15",
@@ -615,18 +615,18 @@
     {
       "added_at": "2024-07-12 20:33:15",
       "album": {
-        "name": "Qu\u00e9 Onda Perdida",
-        "url": "https://open.spotify.com/album/2XIMzHRF6bkv81iGbkvcQN"
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
       },
       "artists": [
         {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 223695,
-      "name": "Qu\u00e9 Onda Perdida",
-      "url": "https://open.spotify.com/track/3TjLFavKPwuvXk5xnxPlEk"
+      "duration_ms": 211560,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
     },
     {
       "added_at": "2024-07-12 20:33:15",
@@ -703,34 +703,18 @@
     {
       "added_at": "2024-07-12 20:33:15",
       "album": {
-        "name": "On The Road",
-        "url": "https://open.spotify.com/album/7eKycNamZrXXB4DGBPQ8sZ"
+        "name": "Qu\u00e9 Onda Perdida",
+        "url": "https://open.spotify.com/album/2XIMzHRF6bkv81iGbkvcQN"
       },
       "artists": [
         {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
         }
       ],
-      "duration_ms": 152243,
-      "name": "\u00bfQu\u00e9 Ser\u00e1 De Mi Ex?",
-      "url": "https://open.spotify.com/track/0gCfxoxgd6RhJdbHV48ft4"
-    },
-    {
-      "added_at": "2024-07-12 20:33:15",
-      "album": {
-        "name": "Perfecta",
-        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 211560,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
+      "duration_ms": 223695,
+      "name": "Qu\u00e9 Onda Perdida",
+      "url": "https://open.spotify.com/track/3TjLFavKPwuvXk5xnxPlEk"
     },
     {
       "added_at": "2024-07-12 20:33:15",
@@ -751,18 +735,18 @@
     {
       "added_at": "2024-07-12 20:33:15",
       "album": {
-        "name": "Tutorial Para Olvidar",
-        "url": "https://open.spotify.com/album/39v3Q460WaU1ZHMOMgU6UP"
+        "name": "On The Road",
+        "url": "https://open.spotify.com/album/7eKycNamZrXXB4DGBPQ8sZ"
       },
       "artists": [
         {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 197265,
-      "name": "Tutorial Para Olvidar",
-      "url": "https://open.spotify.com/track/3xnwUTX6029BDnDm3UoFnl"
+      "duration_ms": 152243,
+      "name": "\u00bfQu\u00e9 Ser\u00e1 De Mi Ex?",
+      "url": "https://open.spotify.com/track/0gCfxoxgd6RhJdbHV48ft4"
     },
     {
       "added_at": "2024-07-12 20:33:15",
@@ -839,6 +823,22 @@
     {
       "added_at": "2024-07-12 20:33:15",
       "album": {
+        "name": "Tutorial Para Olvidar",
+        "url": "https://open.spotify.com/album/39v3Q460WaU1ZHMOMgU6UP"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 197265,
+      "name": "Tutorial Para Olvidar",
+      "url": "https://open.spotify.com/track/3xnwUTX6029BDnDm3UoFnl"
+    },
+    {
+      "added_at": "2024-07-12 20:33:15",
+      "album": {
         "name": "Te Dar\u00e9",
         "url": "https://open.spotify.com/album/3xsdglb6MZVFSOWqqTDetC"
       },
@@ -891,18 +891,22 @@
     {
       "added_at": "2024-07-12 20:33:15",
       "album": {
-        "name": "Que Hay Que Hacer",
-        "url": "https://open.spotify.com/album/4WEs7qbShxaXYMMJhSoZQV"
+        "name": "Solo Que Lo Dudes",
+        "url": "https://open.spotify.com/album/0sPBKXvkwTzVTqLotS22OP"
       },
       "artists": [
         {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         }
       ],
-      "duration_ms": 213562,
-      "name": "Que Hay Que Hacer",
-      "url": "https://open.spotify.com/track/11AS1e1BTVn9dBGk10kdAj"
+      "duration_ms": 159397,
+      "name": "Solo Que Lo Dudes",
+      "url": "https://open.spotify.com/track/6K3Z9ZgPC236RMBIT1q2sx"
     },
     {
       "added_at": "2024-07-12 20:33:15",
@@ -939,26 +943,6 @@
       "duration_ms": 140571,
       "name": "Los P\u00e1jaros",
       "url": "https://open.spotify.com/track/20QFrcDCC6xaCDHx0Od7zR"
-    },
-    {
-      "added_at": "2024-07-12 20:33:15",
-      "album": {
-        "name": "Solo Que Lo Dudes",
-        "url": "https://open.spotify.com/album/0sPBKXvkwTzVTqLotS22OP"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 159397,
-      "name": "Solo Que Lo Dudes",
-      "url": "https://open.spotify.com/track/6K3Z9ZgPC236RMBIT1q2sx"
     },
     {
       "added_at": "2024-07-12 20:33:15",
@@ -1011,6 +995,22 @@
       "duration_ms": 193076,
       "name": "Ovarios - Banda",
       "url": "https://open.spotify.com/track/456cTYG9AxNpqpodK4qozJ"
+    },
+    {
+      "added_at": "2024-07-12 20:33:15",
+      "album": {
+        "name": "Que Hay Que Hacer",
+        "url": "https://open.spotify.com/album/4WEs7qbShxaXYMMJhSoZQV"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 213562,
+      "name": "Que Hay Que Hacer",
+      "url": "https://open.spotify.com/track/11AS1e1BTVn9dBGk10kdAj"
     },
     {
       "added_at": "2024-07-12 20:33:15",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-07-12 20:33:15",
       "album": {
+        "name": "Tierra Caliente",
+        "url": "https://open.spotify.com/album/0p8S0PKvyHC5EB2o4QO4Tm"
+      },
+      "artists": [
+        {
+          "name": "El Juanma",
+          "url": "https://open.spotify.com/artist/4mYfTrMp1a4DnyrxGnUZRF"
+        }
+      ],
+      "duration_ms": 153066,
+      "name": "Tierra Caliente",
+      "url": "https://open.spotify.com/track/2QYAIDtpgNxb3oLIVjyLFN"
+    },
+    {
+      "added_at": "2024-07-12 20:33:15",
+      "album": {
         "name": "El Profeta",
         "url": "https://open.spotify.com/album/0DF4R8iyOcRQVD5zs7CUNx"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 217434,
       "name": "El Profeta",
       "url": "https://open.spotify.com/track/45mpsyfgiBOCuYD49KHLZs"
-    },
-    {
-      "added_at": "2024-07-12 20:33:15",
-      "album": {
-        "name": "Tierra Caliente",
-        "url": "https://open.spotify.com/album/0p8S0PKvyHC5EB2o4QO4Tm"
-      },
-      "artists": [
-        {
-          "name": "El Juanma",
-          "url": "https://open.spotify.com/artist/4mYfTrMp1a4DnyrxGnUZRF"
-        }
-      ],
-      "duration_ms": 153066,
-      "name": "Tierra Caliente",
-      "url": "https://open.spotify.com/track/2QYAIDtpgNxb3oLIVjyLFN"
     },
     {
       "added_at": "2024-07-12 20:33:15",
@@ -1423,42 +1423,6 @@
     {
       "added_at": "2024-07-12 20:33:15",
       "album": {
-        "name": "Quien Extra\u00f1a A Quien",
-        "url": "https://open.spotify.com/album/3NnqIZXRhLdL0ZAXYWI0gi"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Esparza",
-          "url": "https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS"
-        },
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 129705,
-      "name": "Quien Extra\u00f1a A Quien",
-      "url": "https://open.spotify.com/track/6rrSW34Fl9ScAgp77l6gST"
-    },
-    {
-      "added_at": "2024-07-12 20:33:15",
-      "album": {
-        "name": "Me Gustas Mucho T\u00fa",
-        "url": "https://open.spotify.com/album/1bkFIUDfNyfuIck0Ktc46C"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 152170,
-      "name": "Me Gustas Mucho T\u00fa",
-      "url": "https://open.spotify.com/track/7uCOC6ejt66iR6UOX0dmlJ"
-    },
-    {
-      "added_at": "2024-07-12 20:33:15",
-      "album": {
         "name": "ABC",
         "url": "https://open.spotify.com/album/6v1pjf9L6PD20AGEq4w4yp"
       },
@@ -1479,6 +1443,42 @@
     {
       "added_at": "2024-07-12 20:33:15",
       "album": {
+        "name": "Me Gustas Mucho T\u00fa",
+        "url": "https://open.spotify.com/album/1bkFIUDfNyfuIck0Ktc46C"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 152170,
+      "name": "Me Gustas Mucho T\u00fa",
+      "url": "https://open.spotify.com/track/7uCOC6ejt66iR6UOX0dmlJ"
+    },
+    {
+      "added_at": "2024-07-12 20:33:15",
+      "album": {
+        "name": "Quien Extra\u00f1a A Quien",
+        "url": "https://open.spotify.com/album/3NnqIZXRhLdL0ZAXYWI0gi"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Esparza",
+          "url": "https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS"
+        },
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 129705,
+      "name": "Quien Extra\u00f1a A Quien",
+      "url": "https://open.spotify.com/track/6rrSW34Fl9ScAgp77l6gST"
+    },
+    {
+      "added_at": "2024-07-12 20:33:15",
+      "album": {
         "name": "Las Preferidas, Vol. 5 (En vivo)",
         "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
       },
@@ -1491,22 +1491,6 @@
       "duration_ms": 245183,
       "name": "Due\u00f1o De Ti - En vivo",
       "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
-    },
-    {
-      "added_at": "2024-07-12 20:33:15",
-      "album": {
-        "name": "El 30 de Febrero",
-        "url": "https://open.spotify.com/album/0x2OATUtYiydLtsW3eOg4p"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 181204,
-      "name": "El 30 de Febrero",
-      "url": "https://open.spotify.com/track/4ZbDbGo6hubDCXsVMEx1jv"
     },
     {
       "added_at": "2024-07-12 20:33:15",
@@ -1527,6 +1511,22 @@
       "duration_ms": 216633,
       "name": "Apenas es Martes",
       "url": "https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt"
+    },
+    {
+      "added_at": "2024-07-12 20:33:15",
+      "album": {
+        "name": "El 30 de Febrero",
+        "url": "https://open.spotify.com/album/0x2OATUtYiydLtsW3eOg4p"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 181204,
+      "name": "El 30 de Febrero",
+      "url": "https://open.spotify.com/track/4ZbDbGo6hubDCXsVMEx1jv"
     },
     {
       "added_at": "2024-07-12 20:33:15",
@@ -1611,22 +1611,34 @@
     {
       "added_at": "2024-07-12 20:33:15",
       "album": {
-        "name": "La Patrona",
-        "url": "https://open.spotify.com/album/6bajKxH0q2vy5SRm83RGgz"
+        "name": "Quien Te Dio Permiso",
+        "url": "https://open.spotify.com/album/15ZaNM3eSNZ7MdFyPHBED3"
       },
       "artists": [
         {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        },
-        {
-          "name": "Leandro R\u00edos",
-          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 150527,
-      "name": "La Patrona",
-      "url": "https://open.spotify.com/track/77tPPVeMhhzGwoMih9bs1T"
+      "duration_ms": 173206,
+      "name": "Quien Te Dio Permiso",
+      "url": "https://open.spotify.com/track/6ZzZIt4GgQTDeHXMxRvxNN"
+    },
+    {
+      "added_at": "2024-07-12 20:33:15",
+      "album": {
+        "name": "Soltero Para Rato",
+        "url": "https://open.spotify.com/album/12LwolaVdtNRJfUpXU84RZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Soltero Para Rato",
+      "url": "https://open.spotify.com/track/12or4TvmDjzEg05ZYGt0to"
     },
     {
       "added_at": "2024-07-12 20:33:15",
@@ -1651,34 +1663,22 @@
     {
       "added_at": "2024-07-12 20:33:15",
       "album": {
-        "name": "Soltero Para Rato",
-        "url": "https://open.spotify.com/album/12LwolaVdtNRJfUpXU84RZ"
+        "name": "La Patrona",
+        "url": "https://open.spotify.com/album/6bajKxH0q2vy5SRm83RGgz"
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Soltero Para Rato",
-      "url": "https://open.spotify.com/track/12or4TvmDjzEg05ZYGt0to"
-    },
-    {
-      "added_at": "2024-07-12 20:33:15",
-      "album": {
-        "name": "Quien Te Dio Permiso",
-        "url": "https://open.spotify.com/album/15ZaNM3eSNZ7MdFyPHBED3"
-      },
-      "artists": [
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        },
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+          "name": "Leandro R\u00edos",
+          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
         }
       ],
-      "duration_ms": 173206,
-      "name": "Quien Te Dio Permiso",
-      "url": "https://open.spotify.com/track/6ZzZIt4GgQTDeHXMxRvxNN"
+      "duration_ms": 150527,
+      "name": "La Patrona",
+      "url": "https://open.spotify.com/track/77tPPVeMhhzGwoMih9bs1T"
     },
     {
       "added_at": "2024-07-12 20:33:15",
@@ -1839,26 +1839,6 @@
     {
       "added_at": "2024-07-12 20:33:15",
       "album": {
-        "name": "Tiempos Malos",
-        "url": "https://open.spotify.com/album/6xmcCWqG3mZMyouzSIRFv0"
-      },
-      "artists": [
-        {
-          "name": "Jose Gomez",
-          "url": "https://open.spotify.com/artist/6OAcZpQHWwBwgDWejEd8DB"
-        },
-        {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        }
-      ],
-      "duration_ms": 238386,
-      "name": "Tiempos Malos",
-      "url": "https://open.spotify.com/track/5pvqS44KoJNkPMpUw5jPZ5"
-    },
-    {
-      "added_at": "2024-07-12 20:33:15",
-      "album": {
         "name": "KTORCE",
         "url": "https://open.spotify.com/album/6M7vCerWzxyAPeiGFtinD5"
       },
@@ -1891,6 +1871,22 @@
     {
       "added_at": "2024-07-12 20:33:15",
       "album": {
+        "name": "Me Vas A Comparar",
+        "url": "https://open.spotify.com/album/6bb5iifYSqMDuIcDMU3Sxi"
+      },
+      "artists": [
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        }
+      ],
+      "duration_ms": 207453,
+      "name": "Me Vas A Comparar",
+      "url": "https://open.spotify.com/track/2qp7K5TngemNXJWOw41nxa"
+    },
+    {
+      "added_at": "2024-07-12 20:33:15",
+      "album": {
         "name": "24/7 Dolido",
         "url": "https://open.spotify.com/album/6Fyxi6oD8SD1lK35bKPyqA"
       },
@@ -1907,18 +1903,22 @@
     {
       "added_at": "2024-07-12 20:33:15",
       "album": {
-        "name": "Me Vas A Comparar",
-        "url": "https://open.spotify.com/album/6bb5iifYSqMDuIcDMU3Sxi"
+        "name": "Tiempos Malos",
+        "url": "https://open.spotify.com/album/6xmcCWqG3mZMyouzSIRFv0"
       },
       "artists": [
         {
-          "name": "Jorge Medina",
-          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+          "name": "Jose Gomez",
+          "url": "https://open.spotify.com/artist/6OAcZpQHWwBwgDWejEd8DB"
+        },
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
         }
       ],
-      "duration_ms": 207453,
-      "name": "Me Vas A Comparar",
-      "url": "https://open.spotify.com/track/2qp7K5TngemNXJWOw41nxa"
+      "duration_ms": 238386,
+      "name": "Tiempos Malos",
+      "url": "https://open.spotify.com/track/5pvqS44KoJNkPMpUw5jPZ5"
     },
     {
       "added_at": "2024-07-12 20:33:15",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-07-12 20:33:15",
       "album": {
-        "name": "No Hay Nada Mas Que Decir",
-        "url": "https://open.spotify.com/album/4XtV81qI8tMRYNPt5WRPZF"
-      },
-      "artists": [
-        {
-          "name": "Banda Todo Terreno",
-          "url": "https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX"
-        }
-      ],
-      "duration_ms": 212853,
-      "name": "No Hay Nada Mas Que Decir",
-      "url": "https://open.spotify.com/track/77sdqXAFOUBRo2ZpCIYGj4"
-    },
-    {
-      "added_at": "2024-07-12 20:33:15",
-      "album": {
         "name": "Angel Perdido",
         "url": "https://open.spotify.com/album/1CeEMvyWBAL4SObCiwOHke"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 149636,
       "name": "Angel Perdido",
       "url": "https://open.spotify.com/track/0mdpls0Ist6KgYDSJj63TC"
+    },
+    {
+      "added_at": "2024-07-12 20:33:15",
+      "album": {
+        "name": "No Hay Nada Mas Que Decir",
+        "url": "https://open.spotify.com/album/4XtV81qI8tMRYNPt5WRPZF"
+      },
+      "artists": [
+        {
+          "name": "Banda Todo Terreno",
+          "url": "https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX"
+        }
+      ],
+      "duration_ms": 212853,
+      "name": "No Hay Nada Mas Que Decir",
+      "url": "https://open.spotify.com/track/77sdqXAFOUBRo2ZpCIYGj4"
     },
     {
       "added_at": "2024-07-12 20:33:15",
@@ -2191,22 +2191,18 @@
     {
       "added_at": "2024-07-12 20:33:15",
       "album": {
-        "name": "Curado De Espantos",
-        "url": "https://open.spotify.com/album/3Bg9A81gP1URe8UzfgNjZ0"
+        "name": "Volver\u00e9",
+        "url": "https://open.spotify.com/album/0OegCeE6bu1HNDepUaUZKa"
       },
       "artists": [
         {
-          "name": "Rafael Kelly",
-          "url": "https://open.spotify.com/artist/60D1b0MRQPmAL5TSV7e4PY"
-        },
-        {
-          "name": "Kevin Ortiz",
-          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
         }
       ],
-      "duration_ms": 142175,
-      "name": "Curado De Espantos",
-      "url": "https://open.spotify.com/track/35j6pfg5c5Z9d10VxWN1kN"
+      "duration_ms": 202373,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/26Wuw2ugVQCZdXCNU0M95x"
     }
   ],
   "unique_name": "Banda 2024",

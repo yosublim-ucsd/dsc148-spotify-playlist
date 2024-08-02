@@ -4,7 +4,7 @@
 
 > Goes best with small chops and party jollof
 
-134 songs - 6 hr 51 min
+136 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Madu](https://open.spotify.com/track/69vmMU3DyducrazXbFmOqH) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [No Bad Songz](https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS) | 2:41 | 2022-02-11 | 2024-04-19 |
 | [Mansa](https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Break Through](https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL) | 4:06 | 2022-02-11 | 2022-09-02 |
 | [Maria](https://open.spotify.com/track/7zFZWVCxKcql4FTqZUEGJC) | [HarrySong](https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20) | [Maria](https://open.spotify.com/album/70vLH9Hfo5pPztYN6qDVWC) | 2:46 | 2024-03-01 |  |
+| [Me & You](https://open.spotify.com/track/7GQWq2bKlhGTEEkXMQkloe) | [Eli Jae](https://open.spotify.com/artist/6dBO8lveHpWKwMEMXnWIjQ) | [Me & You](https://open.spotify.com/album/0ITlgh9xtnwV3SKphG66FA) | 2:45 | 2024-08-02 |  |
 | [Mind](https://open.spotify.com/track/3V9vTlsgp8p6XoEPIcPW0H) | [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Mind](https://open.spotify.com/album/6ZJGPpAib3vCGt4bOEpO9J) | 2:50 | 2024-03-15 | 2024-05-17 |
 | [Mma \(Beauty\)](https://open.spotify.com/track/4rhX39iOvj55GxblY4ZHRQ) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Son of Chike](https://open.spotify.com/album/7H6k4Pga6vIsaLM10sQf6W) | 2:32 | 2024-07-19 | 2024-07-27 |
 | [Mood](https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Mood](https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp) | 2:36 | 2022-02-11 | 2024-06-01 |
@@ -91,7 +92,7 @@
 | [Naked Wire](https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Naked Wire](https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG) | 2:42 | 2022-05-19 | 2023-03-25 |
 | [Nobody](https://open.spotify.com/track/7MtpW10epOD3sUtURL5ZDu) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Nobody](https://open.spotify.com/album/0ZLCpl3DOiOgsbSssovdgt) | 2:25 | 2022-02-11 |  |
 | [Obaa Sima](https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Outside / Obaa Sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:06 | 2023-12-08 |  |
-| [Obimo](https://open.spotify.com/track/6bNyrsf16Yt9ZyYfnGoCGU) | [Chisim](https://open.spotify.com/artist/0ZXxpFOyjQPBEDYj6BXPfL) | [Obimo & Never](https://open.spotify.com/album/3Xb0QdbIIdaxiF2NCsowrA) | 2:09 | 2024-07-12 |  |
+| [Obimo](https://open.spotify.com/track/6bNyrsf16Yt9ZyYfnGoCGU) | [Chisim](https://open.spotify.com/artist/0ZXxpFOyjQPBEDYj6BXPfL) | [Obimo & Never](https://open.spotify.com/album/3Xb0QdbIIdaxiF2NCsowrA) | 2:09 | 2024-07-12 | 2024-08-02 |
 | [ODO](https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ODO](https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i) | 3:18 | 2024-02-02 | 2024-04-19 |
 | [Ogechi](https://open.spotify.com/track/6YYnBEMEaj960IX1evcTun) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Ogechi](https://open.spotify.com/album/3RrnJMe8E4SmVIzo393sLg) | 2:32 | 2024-05-17 | 2024-07-13 |
 | [Ogechi \(feat\. Davido\) \[Remix\]](https://open.spotify.com/track/6O2hrfRRPBJ59PwKhSKFHz) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Ogechi \(feat\. Davido\) \[Remix\]](https://open.spotify.com/album/2dCuTGe45gBETZfBkEUWb4) | 3:12 | 2024-06-27 |  |
@@ -114,7 +115,7 @@
 | [Reset \(feat\. Crayon & Bella Shmurda\)](https://open.spotify.com/track/44GVJ3qYXpV3fbl1jhEIUs) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Reset \(feat\. Crayon & Bella Shmurda\)](https://open.spotify.com/album/3itD5YIFHhsxo3ICHes9lA) | 2:43 | 2024-05-10 |  |
 | [Running \(To You\)](https://open.spotify.com/track/2KfKuJ3iWLYu8M1srzG2h0) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Running \(To You\)](https://open.spotify.com/album/2VDPWlaYFP1F1BKC9ZVR9D) | 3:11 | 2024-04-19 |  |
 | [Running \(To You\)](https://open.spotify.com/track/5rTC3tKShDyYK0wk0rq96X) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Running \(To You\)](https://open.spotify.com/album/0rwqdLBpVDxg3QKhxOfZmH) | 3:11 | 2022-02-11 | 2024-04-19 |
-| [san siro](https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [san siro](https://open.spotify.com/album/5wlpYMbCXl8pBQu6mx5xQD) | 3:14 | 2022-09-01 |  |
+| [san siro](https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [san siro](https://open.spotify.com/album/5wlpYMbCXl8pBQu6mx5xQD) | 3:14 | 2022-09-01 | 2024-08-02 |
 | [Selfish](https://open.spotify.com/track/01VOoRJ86VrIIPPlMlJ06Y) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Selfish](https://open.spotify.com/album/4TxdkXdMxDBgRapJazxSkI) | 4:04 | 2022-02-11 | 2022-09-02 |
 | [Sere](https://open.spotify.com/track/7IDrQtd8JrnExDCPSq0W90) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Sere](https://open.spotify.com/album/32hcgwyvVbizVzvyIGLfTT) | 3:05 | 2022-02-11 |  |
 | [Somebody’s Son \(Ft Brandy\)](https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:38 | 2022-02-11 | 2024-07-19 |
@@ -141,6 +142,7 @@
 | [woman](https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:48 | 2022-05-19 | 2024-04-19 |
 | [World In My Hands](https://open.spotify.com/track/5bYIDjsBb5mjKQdNfFj0fJ) | [LAVI$H](https://open.spotify.com/artist/0bW7J4hzno0eMC5TFZfDou) | [World In My Hands](https://open.spotify.com/album/7mQHiL0qIDYoHqUiBQ5ImB) | 3:18 | 2022-08-18 | 2022-09-02 |
 | [YBIL \(You Believe in Love\) \(feat\. Kizz Daniel\)](https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Qing Madi \(Deluxe\)](https://open.spotify.com/album/4vxIotduGifC33fGSfxxom) | 3:15 | 2024-07-05 |  |
+| [Yemi My Lover](https://open.spotify.com/track/5RQuHSlA3xJq0BNWC8l6S4) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q), [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Yemi My Lover](https://open.spotify.com/album/7c82UYgtQ7WD7rkdjhkI5s) | 2:56 | 2024-08-02 |  |
 | [Ụwa](https://open.spotify.com/track/1kUzzhUpK7SbcJSaby03OD) | [Ugoccie](https://open.spotify.com/artist/23NKFSnR8yAUDQdub4vnIN), [Umu Obiligbo](https://open.spotify.com/artist/2d3JopSFur0Ywm6KQdkUeH) | [Voice of the East](https://open.spotify.com/album/6vf8dgYzchJ7Fk3ZIhWavR) | 2:53 | 2024-03-29 | 2024-05-17 |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

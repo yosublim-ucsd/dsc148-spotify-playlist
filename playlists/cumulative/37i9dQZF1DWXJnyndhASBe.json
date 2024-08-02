@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Sobel",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Pezet",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -2268,7 +2268,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 170333,
       "name": "DESIGNER",
       "url": "https://open.spotify.com/track/6aNDDaLEMAzXkvyxjtnju1"
@@ -3445,6 +3445,28 @@
     },
     {
       "album": {
+        "name": "INTRODESTRUKCJA",
+        "url": "https://open.spotify.com/album/2Ww21uhTbsK2Z3b6yb9GRA"
+      },
+      "artists": [
+        {
+          "name": "Macias",
+          "url": "https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho"
+        },
+        {
+          "name": "White Widow",
+          "url": "https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134769,
+      "name": "INTRODESTRUKCJA",
+      "url": "https://open.spotify.com/track/1T4n3A9KWa2Gno5tJlMqwf"
+    },
+    {
+      "album": {
         "name": "Jackpot",
         "url": "https://open.spotify.com/album/51zhaYzmuoPhM3IfEJFCn6"
       },
@@ -4348,7 +4370,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 192051,
       "name": "M&M",
       "url": "https://open.spotify.com/track/3IqiAY3TIiMGBZKtDCSRhZ"
@@ -5390,7 +5412,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 145454,
       "name": "Nawiedzony dom",
       "url": "https://open.spotify.com/track/1ZBOgphzRPANN4IFOU9L3H"
@@ -5772,6 +5794,28 @@
       "duration_ms": 142036,
       "name": "NIENAWIDZ\u0118 WARSZAWY!",
       "url": "https://open.spotify.com/track/0JvlaGyGok0jMp8wCQhI9p"
+    },
+    {
+      "album": {
+        "name": "Noc Anio\u0142\u00f3w",
+        "url": "https://open.spotify.com/album/7ClftPSzzotBXbkm0qdzka"
+      },
+      "artists": [
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        },
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157560,
+      "name": "Noc Anio\u0142\u00f3w",
+      "url": "https://open.spotify.com/track/4N9IE3251WOeuVkL9gYg3y"
     },
     {
       "album": {
@@ -6458,7 +6502,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 184864,
       "name": "PG$",
       "url": "https://open.spotify.com/track/2Bvmq94ifFUXQmaFPR5Vis"
@@ -7519,6 +7563,28 @@
     },
     {
       "album": {
+        "name": "Smile doesn't lie",
+        "url": "https://open.spotify.com/album/28ugM37sDqJsAfMTEQicBl"
+      },
+      "artists": [
+        {
+          "name": "Magiera",
+          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
+        },
+        {
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162621,
+      "name": "Smile doesn't lie",
+      "url": "https://open.spotify.com/track/3g79YL2abEHLZBfLKHrVR9"
+    },
+    {
+      "album": {
         "name": "SOBOTA WIECZ\u00d3R",
         "url": "https://open.spotify.com/album/3ve9nVA4gEYrA0m1OrL2P6"
       },
@@ -7846,10 +7912,32 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 157241,
       "name": "Te numery",
       "url": "https://open.spotify.com/track/3CgWmnnox6kF0NvJpZWSv8"
+    },
+    {
+      "album": {
+        "name": "Techno",
+        "url": "https://open.spotify.com/album/6Ng4npzmFeqsysgEQgus6j"
+      },
+      "artists": [
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "Auer",
+          "url": "https://open.spotify.com/artist/4oRFYtb8Wfcsbaga2VqR1N"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195230,
+      "name": "Techno",
+      "url": "https://open.spotify.com/track/7j5lyR5RW7JLzXayM4zr8q"
     },
     {
       "album": {
@@ -8178,7 +8266,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 192000,
       "name": "Tylko Ciemno\u015b\u0107",
       "url": "https://open.spotify.com/track/2SD4ey1A551YvZWlhQpTPA"
@@ -8222,6 +8310,28 @@
       "duration_ms": 187445,
       "name": "Ulubiony",
       "url": "https://open.spotify.com/track/233m2I0kzHIifD6NbdIYV0"
+    },
+    {
+      "album": {
+        "name": "URUS",
+        "url": "https://open.spotify.com/album/24DX7s27eClu966cwQrMkg"
+      },
+      "artists": [
+        {
+          "name": "Asster",
+          "url": "https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX"
+        },
+        {
+          "name": "Kabe",
+          "url": "https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149666,
+      "name": "URUS",
+      "url": "https://open.spotify.com/track/1g93fIrkqNugCfrUcVEWpG"
     },
     {
       "album": {
@@ -9008,6 +9118,28 @@
       "duration_ms": 195555,
       "name": "ZERO SNU",
       "url": "https://open.spotify.com/track/0RN6FM4XRE2XvydGA3sLo5"
+    },
+    {
+      "album": {
+        "name": "ZIOMALEO (JESTEM NIM)",
+        "url": "https://open.spotify.com/album/5LvKnqtws1J5UZrwr0fn2Z"
+      },
+      "artists": [
+        {
+          "name": "Waima",
+          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
+        },
+        {
+          "name": "Mjonszu",
+          "url": "https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169248,
+      "name": "ZIOMALEO (JESTEM NIM)",
+      "url": "https://open.spotify.com/track/54o2HyqwiMyWdowkpdkYyd"
     },
     {
       "album": {

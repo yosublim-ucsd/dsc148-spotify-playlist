@@ -1,13 +1,37 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11009,
+  "num_followers": 11011,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqgtAAAAAADev1+m6jTvkAjGtVQxftAT",
+  "snapshot_id": "Zql+gAAAAACMcJG6qFhW4bsNQA7e4rTJ",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild One (Jai Wolf Club Babu Remix)",
+        "url": "https://open.spotify.com/album/32HMPGIwpx49uQr5dtt9KG"
+      },
+      "artists": [
+        {
+          "name": "MitiS",
+          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+        },
+        {
+          "name": "DEV",
+          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 183923,
+      "name": "Wild One - Jai Wolf Club Babu Remix",
+      "url": "https://open.spotify.com/track/2PITIYqQKjiFMDDasXuYgd"
+    },
     {
       "added_at": null,
       "album": {

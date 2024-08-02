@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Yorssy au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "Tiakola au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -4762,7 +4762,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 247506,
       "name": "Special",
       "url": "https://open.spotify.com/track/2G4C8evrYTOcMhWNSKSBoy"
@@ -4950,6 +4950,24 @@
       "duration_ms": 153253,
       "name": "T'aimerais (feat. Ziak)",
       "url": "https://open.spotify.com/track/659scToLVMQbD0vBdwuvFa"
+    },
+    {
+      "album": {
+        "name": "T.I.A - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "T.I.A - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej"
     },
     {
       "album": {

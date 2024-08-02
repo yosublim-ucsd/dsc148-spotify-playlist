@@ -1437,6 +1437,32 @@
     },
     {
       "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/1v7NEaaCbXK3D33LpieV8w"
+      },
+      "artists": [
+        {
+          "name": "Marcus Santoro",
+          "url": "https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz"
+        },
+        {
+          "name": "Lohrasp Kansara",
+          "url": "https://open.spotify.com/artist/33puj2nZF4OKSccBLaf1oy"
+        },
+        {
+          "name": "Mavhungu",
+          "url": "https://open.spotify.com/artist/464BYDcWpoLKSNpQxHLuTT"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201719,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/5jjjxOp1GH5C8lCgT1r432"
+    },
+    {
+      "album": {
         "name": "HAYII",
         "url": "https://open.spotify.com/album/73IrTAOufu4VMnQqcKw1za"
       },
@@ -3840,6 +3866,28 @@
       "duration_ms": 185365,
       "name": "Scilla E Cariddi - TR3NACRIA Remix",
       "url": "https://open.spotify.com/track/0zbtBY7uHGYSMJJazj4K2L"
+    },
+    {
+      "album": {
+        "name": "Shambhala",
+        "url": "https://open.spotify.com/album/2AfrEDDUCx5oyB23KVJLtN"
+      },
+      "artists": [
+        {
+          "name": "Sambo Sq",
+          "url": "https://open.spotify.com/artist/1FYc3hnN1A7FCfWwSfzGCD"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 530285,
+      "name": "Shambhala",
+      "url": "https://open.spotify.com/track/1m2MxrQF7dwRaFu0iZKs36"
     },
     {
       "album": {

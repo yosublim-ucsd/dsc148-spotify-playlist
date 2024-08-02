@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 136516,
       "name": "A New Beginning",
       "url": "https://open.spotify.com/track/2c1wxuPPU4bm8X7UrD8JAd"
@@ -4176,7 +4176,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 194727,
       "name": "Honesty (remix)",
       "url": "https://open.spotify.com/track/4ee5oGHZjUw3vzr9vWaeJp"
@@ -4468,6 +4468,24 @@
       "duration_ms": 132244,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/6Cw5spV9WireahqbLMsbUR"
+    },
+    {
+      "album": {
+        "name": "in the blossoms",
+        "url": "https://open.spotify.com/album/26OUgJJjfAvnmIvscwATCn"
+      },
+      "artists": [
+        {
+          "name": "Mikayl Blu",
+          "url": "https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181166,
+      "name": "in the blossoms",
+      "url": "https://open.spotify.com/track/5jaTCdcEMe7JJj6aOK5dim"
     },
     {
       "album": {
@@ -6638,7 +6656,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 155076,
       "name": "Ocean Silver",
       "url": "https://open.spotify.com/track/7clefLUDCEMvTEj66Suv38"
@@ -7636,6 +7654,24 @@
       "duration_ms": 149647,
       "name": "Remember that Thing?",
       "url": "https://open.spotify.com/track/6qrWKbbY97z18o3nGiquGn"
+    },
+    {
+      "album": {
+        "name": "Rent",
+        "url": "https://open.spotify.com/album/5K9Yvjbzn5BdhpQyA4hJ2M"
+      },
+      "artists": [
+        {
+          "name": "RA DAR",
+          "url": "https://open.spotify.com/artist/25UwRVjERSaIMnOYX0ZaM1"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149866,
+      "name": "Rent",
+      "url": "https://open.spotify.com/track/19iugsWjMy6wDD225VT35E"
     },
     {
       "album": {
@@ -8932,7 +8968,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 169067,
       "name": "State Of Logic",
       "url": "https://open.spotify.com/track/75iOFFpJrvIzP4w40w35rB"
@@ -10076,6 +10112,24 @@
       "duration_ms": 192000,
       "name": "Under The Weather",
       "url": "https://open.spotify.com/track/3QdRVeDM7SZTX8YV6UtLKh"
+    },
+    {
+      "album": {
+        "name": "under water",
+        "url": "https://open.spotify.com/album/75cnPM0ljMuhdcUfma695x"
+      },
+      "artists": [
+        {
+          "name": "super8memory",
+          "url": "https://open.spotify.com/artist/2ICYFkqo3OruO1QlpBzV8C"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128394,
+      "name": "under water",
+      "url": "https://open.spotify.com/track/2CfvtzLblpnUl1n4Uzz5Rn"
     },
     {
       "album": {

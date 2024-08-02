@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 16763,
+  "num_followers": 16779,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqLnPAAAAAAMcsgST3fwcy4OEGCQb/ON",
+  "snapshot_id": "ZqwhvAAAAADcymwofodYmticek5D1SI1",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -225,10 +225,10 @@
       "url": "https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Miracle No Dey Tire Jesus",
-        "url": "https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT"
+        "name": "E Dey Flow",
+        "url": "https://open.spotify.com/album/4qt2lEkiK39cy0nnbfJMLW"
       },
       "artists": [
         {
@@ -236,17 +236,29 @@
           "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         },
         {
+          "name": "Neeja",
+          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
+        },
+        {
+          "name": "Ajay Asika",
+          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
+        },
+        {
           "name": "Festizie",
           "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
         },
         {
           "name": "Chizie",
           "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Miracle No Dey Tire Jesus",
-      "url": "https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU"
+      "duration_ms": 156108,
+      "name": "E Dey Flow",
+      "url": "https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO"
     },
     {
       "added_at": "2024-04-19 00:01:00",
@@ -357,10 +369,10 @@
       "url": "https://open.spotify.com/track/5sSoA18jYUkQkvC64o0IDS"
     },
     {
-      "added_at": "2024-06-28 00:01:00",
+      "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "E Dey Flow",
-        "url": "https://open.spotify.com/album/4qt2lEkiK39cy0nnbfJMLW"
+        "name": "Miracle No Dey Tire Jesus",
+        "url": "https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT"
       },
       "artists": [
         {
@@ -368,29 +380,17 @@
           "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         },
         {
-          "name": "Neeja",
-          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
-        },
-        {
-          "name": "Ajay Asika",
-          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
-        },
-        {
           "name": "Festizie",
           "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        },
-        {
-          "name": "S.O.N Music",
-          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
         },
         {
           "name": "Chizie",
           "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
         }
       ],
-      "duration_ms": 156108,
-      "name": "E Dey Flow",
-      "url": "https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO"
+      "duration_ms": 166000,
+      "name": "Miracle No Dey Tire Jesus",
+      "url": "https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -953,20 +953,20 @@
       "url": "https://open.spotify.com/track/5vVMTcdrdemhDKYsUeDq3m"
     },
     {
-      "added_at": "2024-04-12 00:01:00",
+      "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "En Toi",
-        "url": "https://open.spotify.com/album/7HLBaJFJPFrOcqEcNVoJMh"
+        "name": "Igwe",
+        "url": "https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG"
       },
       "artists": [
         {
-          "name": "Morijah",
-          "url": "https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh"
+          "name": "Midnight Crew",
+          "url": "https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab"
         }
       ],
-      "duration_ms": 193417,
-      "name": "En Toi",
-      "url": "https://open.spotify.com/track/4ibKrcsCo0UPAjrvffTuUB"
+      "duration_ms": 312556,
+      "name": "Igwe",
+      "url": "https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -993,20 +993,20 @@
       "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2024-04-12 00:01:00",
       "album": {
-        "name": "Igwe",
-        "url": "https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG"
+        "name": "En Toi",
+        "url": "https://open.spotify.com/album/7HLBaJFJPFrOcqEcNVoJMh"
       },
       "artists": [
         {
-          "name": "Midnight Crew",
-          "url": "https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab"
+          "name": "Morijah",
+          "url": "https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh"
         }
       ],
-      "duration_ms": 312556,
-      "name": "Igwe",
-      "url": "https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb"
+      "duration_ms": 193417,
+      "name": "En Toi",
+      "url": "https://open.spotify.com/track/4ibKrcsCo0UPAjrvffTuUB"
     }
   ],
   "unique_name": "Higher",

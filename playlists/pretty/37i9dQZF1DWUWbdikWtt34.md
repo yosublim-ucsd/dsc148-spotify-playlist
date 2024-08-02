@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Lesti, Judika
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,979 likes - 86 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,035 likes - 86 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

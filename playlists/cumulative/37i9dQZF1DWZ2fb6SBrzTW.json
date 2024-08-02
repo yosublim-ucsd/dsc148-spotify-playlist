@@ -1101,6 +1101,32 @@
     },
     {
       "album": {
+        "name": "Beng Beng Beng",
+        "url": "https://open.spotify.com/album/3xm1v6Cpd221YgVdfhEPFm"
+      },
+      "artists": [
+        {
+          "name": "Chop Daily",
+          "url": "https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG"
+        },
+        {
+          "name": "Ransom Beatz",
+          "url": "https://open.spotify.com/artist/6fzdE3sz7e6kFOwOywdmiy"
+        },
+        {
+          "name": "EESKAY",
+          "url": "https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142702,
+      "name": "Beng Beng Beng",
+      "url": "https://open.spotify.com/track/1QJr0nCavAGYteCOLUf2lN"
+    },
+    {
+      "album": {
         "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
         "url": "https://open.spotify.com/album/2CcOmbLxQFIsm5aQu7VSuJ"
       },
@@ -2872,7 +2898,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 141678,
       "name": "Focus",
       "url": "https://open.spotify.com/track/264HkpmqRAHqlGHQJSKMIp"
@@ -3172,6 +3198,24 @@
       "duration_ms": 162991,
       "name": "Gbese",
       "url": "https://open.spotify.com/track/41DLxR8Dt5Fh6LpqBjAnnJ"
+    },
+    {
+      "album": {
+        "name": "Gbohe",
+        "url": "https://open.spotify.com/album/4APlUxZtmyt8Gc3M0Zl4pe"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179495,
+      "name": "Gbohe",
+      "url": "https://open.spotify.com/track/5wOJraFk29ylfEwWl93A6b"
     },
     {
       "album": {
@@ -6480,7 +6524,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 144424,
       "name": "Ou LaLa",
       "url": "https://open.spotify.com/track/2msCrATPZfgGUn4MWdnFlA"

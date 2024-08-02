@@ -1,12 +1,12 @@
 {
-  "description": "This Is Ghost. \u0412\u0441\u0435 \u043b\u0443\u0447\u0448\u0438\u0435 \u0442\u0440\u0435\u043a\u0438 \u0432 \u043e\u0434\u043d\u043e\u043c \u043f\u043b\u0435\u0439\u043b\u0438\u0441\u0442\u0435.",
-  "num_followers": 416577,
+  "description": "This Is Ghost. Los temas esenciales, todos en una lista.",
+  "num_followers": 416732,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqgtAAAAAADj60kwlCJXWZQINPyckZDI",
+  "snapshot_id": "Zql+gAAAAAC5UDpdH2Z0KxiRhBbNLZRZ",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Absolution (Live at the Forum / 2023)",
-        "url": "https://open.spotify.com/album/5YOmO8pYe4AD3KKBtZAz89"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 308127,
-      "name": "Absolution - Live at the Forum / 2023",
-      "url": "https://open.spotify.com/track/5AvtHfUUjQ8tAgd26ZgR7y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If You Have Ghost",
         "url": "https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 337720,
       "name": "Waiting For The Night",
       "url": "https://open.spotify.com/track/2O6jS02gu3X5eFtI6nf0y1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Absolution (Live at the Forum / 2023)",
+        "url": "https://open.spotify.com/album/5YOmO8pYe4AD3KKBtZAz89"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 308127,
+      "name": "Absolution - Live at the Forum / 2023",
+      "url": "https://open.spotify.com/track/5AvtHfUUjQ8tAgd26ZgR7y"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meliora (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "Missionary Man",
-      "url": "https://open.spotify.com/track/1YOaQUUsEzMbxk1sfmoNVE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If You Have Ghost",
         "url": "https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 292146,
       "name": "I'm A Marionette",
       "url": "https://open.spotify.com/track/2uhOsvOIziDXeJ9zFdFs2j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 222840,
+      "name": "Missionary Man",
+      "url": "https://open.spotify.com/track/1YOaQUUsEzMbxk1sfmoNVE"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meliora (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
+        "name": "Rite Here Rite Now (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0EmgzguOzsDNC8yZzxK8Zi"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 313693,
-      "name": "Nocturnal Me",
-      "url": "https://open.spotify.com/track/3rEODOW6kCtM4RPHOQoJ1B"
+      "duration_ms": 378651,
+      "name": "Miasma - Live at the Forum / 2023",
+      "url": "https://open.spotify.com/track/5qFpoAJFWSisy5va1gAiaS"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
       "duration_ms": 233373,
       "name": "Prime Mover",
       "url": "https://open.spotify.com/track/13Tw9FDhXVN5brv974A46H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 313693,
+      "name": "Nocturnal Me",
+      "url": "https://open.spotify.com/track/3rEODOW6kCtM4RPHOQoJ1B"
     },
     {
       "added_at": null,

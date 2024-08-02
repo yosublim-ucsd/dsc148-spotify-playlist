@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 
 > Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument\. Clara Rockmore on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,771 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,774 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 | 41 | [Epilogue \(feat\. Bill Brovold\)](https://open.spotify.com/track/5XNBczbTHqGhgIqCYZJP6d) | [Duet for Theremin and Lap4 Steel](https://open.spotify.com/artist/7IMO8fg82ZsoseH4zNVjBh) | [Collaborations](https://open.spotify.com/album/5Kl5AI6xGjsw9qOupqjYRp) | 2:28 |
 | 42 | [It is ok to be sad and dark](https://open.spotify.com/track/47ETRprpN3ztAywwUAc6Zj) | [Kepa Lehtinen](https://open.spotify.com/artist/22No3IMhBvteEfpCo3y9gz) | [It is ok to be sad and dark](https://open.spotify.com/album/1WwjYpIOkMNQdnjZEtZ7TW) | 2:36 |
 | 43 | [Lost in the Stars](https://open.spotify.com/track/1aieHIIr4qHQ2Rfk7g9ITv) | [Paul Tanner](https://open.spotify.com/artist/6rTsgjKTEYrzpu7WWMXI23) | [Music for Heavenly Bodies](https://open.spotify.com/album/5ngZXMhfjJSzBb2VqJAQYE) | 2:23 |
-| 44 | [Keler Tsoler](https://open.spotify.com/track/4UqGOyOoFBHe5JuIhEc7K5) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Plays the Theremin](https://open.spotify.com/album/2m3gsqca2ZhFNLppQ7Ciwq) | 5:10 |
+| 44 | [Casta Diva](https://open.spotify.com/track/4tY4NZPYATvP1oJsIde6OJ) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Theremin Classique](https://open.spotify.com/album/4tN4A0tFqf2k71MxMkCsmY) | 5:41 |
 | 45 | [Thaïs: Méditation \(Arr\. for Theremin and Piano\)](https://open.spotify.com/track/5XhWzhaWzjzgPIYnGmGIcP) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [Giulietta Koch](https://open.spotify.com/artist/4oPnpmC5oEb8v36lf4Didb) | [Theremin](https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY) | 4:40 |
 | 46 | [Waikiki Spleen](https://open.spotify.com/track/79UG5zCh9xcADra04a1Oy0) | [Javier Díez Ena & His Theremins](https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM) | [Theremonial \(Dark & Exotic Theremin Music\)](https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7) | 3:19 |
 | 47 | [Theremin Concerto, Acht Jahreszeiten: VIII\. Mitternachtssonne \(8 Seasons: Midnight Sun\)](https://open.spotify.com/track/7JYmeyuFHxrjyhqEvcj7jr) | [Kalevi Aho](https://open.spotify.com/artist/2H8D4ju7R16n4IZD8TwUv9), [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [Lapin Kamariorkesteri](https://open.spotify.com/artist/58KjEYGktAvgFTcXJg4Rfm), [John Storgårds](https://open.spotify.com/artist/2TizFx4bl9T8efWXNuxWor) | [Aho: Theremin Concerto & Horn Concerto](https://open.spotify.com/album/7h7n0YHNk9vbzw8II0SaE3) | 7:10 |
 | 48 | [Kontula](https://open.spotify.com/track/4CGr7SVFInOu9u0JFKLQ8T) | [Kepa Lehtinen](https://open.spotify.com/artist/22No3IMhBvteEfpCo3y9gz) | [Playing Theremin](https://open.spotify.com/album/1JTgXVY0tfm78o1qTmBayS) | 2:48 |
-| 49 | [Casta Diva](https://open.spotify.com/track/4tY4NZPYATvP1oJsIde6OJ) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Theremin Classique](https://open.spotify.com/album/4tN4A0tFqf2k71MxMkCsmY) | 5:41 |
+| 49 | [Keler Tsoler](https://open.spotify.com/track/4UqGOyOoFBHe5JuIhEc7K5) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Plays the Theremin](https://open.spotify.com/album/2m3gsqca2ZhFNLppQ7Ciwq) | 5:10 |
 | 50 | [Celebrated Air](https://open.spotify.com/track/7gGiE9UeVzdyWBG27wBkHq) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q) | [Clara Rockmore's Lost Theremin Album](https://open.spotify.com/album/7FUnGjGbZPbAPAr5DhkalS) | 5:35 |
 
 Snapshot ID: `ZZW2UwAAAADPhhH9lrijU/4ozf5hymfR`

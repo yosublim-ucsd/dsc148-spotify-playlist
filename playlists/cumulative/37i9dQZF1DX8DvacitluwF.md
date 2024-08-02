@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8?si=jIglGAbjRJKYFOfoE7esMw>Nanette</a>
+> Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx?si=nF\-fMVhOQiuvVIe8SYx7WQ>Elaine</a>
 
-296 songs - 15 hr 36 min
+297 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [DRINK CHAMPS](https://open.spotify.com/track/6krwmAVXbzAcGWVYhLCf8j) | [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [DRINK CHAMPS](https://open.spotify.com/album/1rsnNjPDTYFUtjtE95m2Ph) | 2:20 | 2023-11-03 | 2024-03-15 |
 | [Duet \(feat\. Jillz\)](https://open.spotify.com/track/7m07xNnm2xJnpkRN9JRScv) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8), [Tshego](https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY), [Jillz](https://open.spotify.com/artist/5qov3hiFB9QhOcdqDEL839) | [ForPlay](https://open.spotify.com/album/4SSFMsLPlXZ1ZA2boX5iUX) | 3:41 | 2023-11-16 | 2024-03-01 |
 | [EBBS & FLOWS: Endlessly](https://open.spotify.com/track/7mgeMBOFtXugHlK0C27UXx) | [LANDMARQUE](https://open.spotify.com/artist/1IPbTwMsCPZBA97EBCYBYL), [Ayanda Jiya](https://open.spotify.com/artist/3fHajGrVzPPPfrsY6OJ3Nl) | [EBBS & FLOWS: Endlessly](https://open.spotify.com/album/5zuD21xL4m084eqTonEZ6b) | 3:05 | 2023-10-26 | 2024-01-26 |
-| [Emotional Home](https://open.spotify.com/track/3ONXONRB7KYAgh8TZSzGzu) | [Mx Blouse](https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE), [Dronezz](https://open.spotify.com/artist/4qaoALS2X6hdiXnhBC7aDo), [OLOTU](https://open.spotify.com/artist/2DmyeIzUYJ2G2h5uZ04yVL) | [Emotional Home](https://open.spotify.com/album/0rY5tMhcmXGzDzjoJw7oN8) | 2:54 | 2024-07-25 |  |
+| [Emotional Home](https://open.spotify.com/track/3ONXONRB7KYAgh8TZSzGzu) | [Mx Blouse](https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE), [dronezz](https://open.spotify.com/artist/4qaoALS2X6hdiXnhBC7aDo), [OLOTU](https://open.spotify.com/artist/2DmyeIzUYJ2G2h5uZ04yVL) | [Emotional Home](https://open.spotify.com/album/0rY5tMhcmXGzDzjoJw7oN8) | 2:54 | 2024-07-25 |  |
 | [Emotions](https://open.spotify.com/track/3YajlRfdwOHXedzlQKDBbr) | [Love, Tumi](https://open.spotify.com/artist/2wKEplM0fJagFSsFAXGpnD) | [Emotions](https://open.spotify.com/album/7tF5ODlbKj6FoKrDJsgDmJ) | 2:42 | 2024-02-14 | 2024-02-23 |
 | [End Of Summer](https://open.spotify.com/track/2ENNmSeAFS7Dc8Sgou8VzJ) | [Obembe](https://open.spotify.com/artist/3BtuRQMNvyNMsXQneahybl) | [End Of Summer](https://open.spotify.com/album/2mmLte0m7zdhb0f2ndVp0e) | 2:21 | 2024-01-11 | 2024-04-06 |
 | [Every day](https://open.spotify.com/track/7HywDyyDdavWKQr8GoJi7m) | [Namakau Star](https://open.spotify.com/artist/5PJjfwzboKU6Q8mapvR1oc) | [Every day](https://open.spotify.com/album/0zyh418J1qN9cQ6ZOpY62k) | 2:48 | 2024-03-21 |  |
@@ -248,7 +248,7 @@
 | [Someone Like You](https://open.spotify.com/track/49gDQkf5v2JFaBe9SjljNy) | [SuperCye](https://open.spotify.com/artist/2CpDiyZe7RLNgxRWkHVQYt) | [Desires](https://open.spotify.com/album/1jxx3QjNXfKNRkpN6bkdvz) | 3:09 | 2024-02-08 | 2024-04-26 |
 | [SOS](https://open.spotify.com/track/7xmfiscV802aQ3HT4pFkck) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [Mikhalé Jones](https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf) | [SOS](https://open.spotify.com/album/7pnqWYpZoj7vEEvMJMR38A) | 4:07 | 2023-10-12 | 2024-01-13 |
 | [Speed Dial](https://open.spotify.com/track/08G2dDNn1wSuN1O2bQ5XnE) | [Naye Ayla](https://open.spotify.com/artist/6KMjCrFmLJKQ2SYe2Hi9IW) | [Speed Dial](https://open.spotify.com/album/6f4MgX6oxBxiqW2cqVzMXE) | 2:52 | 2024-05-03 |  |
-| [Stay Near](https://open.spotify.com/track/7u9B6FuMyxwd1THxrgaVPi) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Stay Near](https://open.spotify.com/album/2nDTdNJSUUgNx4HjJwaPo8) | 3:57 | 2024-04-12 |  |
+| [Stay Near](https://open.spotify.com/track/7u9B6FuMyxwd1THxrgaVPi) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Stay Near](https://open.spotify.com/album/2nDTdNJSUUgNx4HjJwaPo8) | 3:57 | 2024-04-12 | 2024-08-02 |
 | [Stay The Night](https://open.spotify.com/track/669iVry0mTcX42pgTnCCOF) | [Chante](https://open.spotify.com/artist/3Hep5FnEEhtEUODQxyGFKg) | [Stay The Night](https://open.spotify.com/album/5NPVk3MNx4FiE0airIqmb1) | 3:06 | 2024-04-25 | 2024-07-27 |
 | [STEADY \(feat\. SaveMilli & Mzizi\)](https://open.spotify.com/track/7L2diwSFqfR6XcOGqasCJR) | [Zādok](https://open.spotify.com/artist/72wC9dzKpqHCdw8fQwYpea), [SaveMilli](https://open.spotify.com/artist/2vAdhfI46PzYuG5vhKDxme), [Mzizi](https://open.spotify.com/artist/68H3nOS0Jt2mK3wB6OzeF9) | [STEADY \(feat\. SaveMilli & Mzizi\)](https://open.spotify.com/album/3NOddMI2rgOUKZDrniiSC3) | 3:28 | 2024-07-25 |  |
 | [Sticky](https://open.spotify.com/track/7uVUoTvxC1nOAuZBr72DWS) | [9t9](https://open.spotify.com/artist/0lw8ofupGRkY51uAAsdiW4) | [LOSE CTRL](https://open.spotify.com/album/4sfRXbUnks97MCW5LqtfkI) | 3:47 | 2023-10-12 | 2023-10-20 |
@@ -288,6 +288,7 @@
 | [Voodoo](https://open.spotify.com/track/2ryIzbmrbRWMfhelJiVcR8) | [Temgazi](https://open.spotify.com/artist/39YdCb2aOpgl34Ju2ge1lA) | [Voodoo](https://open.spotify.com/album/73hkRIHrOXz1RlVITE16mY) | 3:04 | 2023-10-12 | 2023-10-20 |
 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 | 2024-02-08 | 2024-06-14 |
 | [Waiting in Vain \- Spotify Singles](https://open.spotify.com/track/5tHipIzrGqcoZ4ovlW1Aip) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Waiting In Vain \(Spotify Singles\)](https://open.spotify.com/album/5zlUBlDmY6dM4XFlZ3SFVs) | 4:12 | 2024-02-22 | 2024-05-24 |
+| [Waiting On You](https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Waiting On You](https://open.spotify.com/album/03niz1guXkCijhBFZoI4iK) | 2:43 | 2024-08-02 |  |
 | [Wake Up \(feat\. Chris Brown\)](https://open.spotify.com/track/6pMHL7A5CEPzHHKDRAAMEM) | [Skylar Blatt](https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Wake Up \(feat\. Chris Brown\)](https://open.spotify.com/album/6GxAhYaeBYubxjZn0KkpZY) | 2:53 | 2024-04-25 | 2024-07-27 |
 | [Warmth](https://open.spotify.com/track/2x3u6tY8LnKrZ1EDpJybn1) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Monifé](https://open.spotify.com/artist/3RJBneQVluxOpfJLEtlNQ0) | [Warmth](https://open.spotify.com/album/4gHQLmvwo9AVpTCEwBsIw5) | 3:03 | 2023-10-12 | 2024-01-26 |
 | [Water](https://open.spotify.com/track/6J3rA77AWZ5POPCqAIWCrr) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Testament](https://open.spotify.com/album/06klV2isRMZbEofIvOunPM) | 2:45 | 2023-11-23 | 2024-03-22 |

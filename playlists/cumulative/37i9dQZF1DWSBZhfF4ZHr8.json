@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : RIDSA",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : J\u00e9r\u00e9my Frerot",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 169521,
       "name": "Crash Dans Tes Bras",
       "url": "https://open.spotify.com/track/3SySzHH2kUy1JplgpVc8Rr"
@@ -381,6 +381,24 @@
     },
     {
       "album": {
+        "name": "Histoire sans t\u00eate",
+        "url": "https://open.spotify.com/album/1iCKXUWg3xEVqiHZKz0AqI"
+      },
+      "artists": [
+        {
+          "name": "Lize",
+          "url": "https://open.spotify.com/artist/6Uy3T1fnJbbckI46KebsFG"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204002,
+      "name": "Histoire sans t\u00eate",
+      "url": "https://open.spotify.com/track/2xpkMwNPBCANArBvZ26Otm"
+    },
+    {
+      "album": {
         "name": "HIT PARADE",
         "url": "https://open.spotify.com/album/0FzhFBFxmWr7vrmxMcZijS"
       },
@@ -414,6 +432,24 @@
       "duration_ms": 176000,
       "name": "Ils s'aimaient toujours",
       "url": "https://open.spotify.com/track/0EtEjlfmQiUayvKQ4cuLvF"
+    },
+    {
+      "album": {
+        "name": "Moi c'est Jeck",
+        "url": "https://open.spotify.com/album/5IA4BoY6B9rGNTNMAJnXZj"
+      },
+      "artists": [
+        {
+          "name": "Jeck",
+          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176306,
+      "name": "Immortel",
+      "url": "https://open.spotify.com/track/18yOklwm2I8X5VJ0wGVeQP"
     },
     {
       "album": {
@@ -536,7 +572,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 179906,
       "name": "La recette du bonheur",
       "url": "https://open.spotify.com/track/5hf42dz6c7bGrfaLjRxKc4"
@@ -554,7 +590,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 143331,
       "name": "La vie n'attend pas",
       "url": "https://open.spotify.com/track/2Y7b1M2BRPtyXR8Py3w4Zx"
@@ -648,10 +684,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 224000,
       "name": "Leave a message",
       "url": "https://open.spotify.com/track/27ky9OVkjEUT7snpeKqh0o"
+    },
+    {
+      "album": {
+        "name": "Les jours qui restent",
+        "url": "https://open.spotify.com/album/1cc7KL70u0dacUY7Cog900"
+      },
+      "artists": [
+        {
+          "name": "Sylvain Duthu",
+          "url": "https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162880,
+      "name": "Les jours qui restent",
+      "url": "https://open.spotify.com/track/0frKjAjwE6M58Q6bmnesKk"
     },
     {
       "album": {
@@ -1018,6 +1072,24 @@
       "duration_ms": 179866,
       "name": "Summer Body",
       "url": "https://open.spotify.com/track/2jg0zwe6fa4oWjzy1EvcWg"
+    },
+    {
+      "album": {
+        "name": "Avec un H (Acoustique)",
+        "url": "https://open.spotify.com/album/6QArLJTHbHz2oEL5LSKJQY"
+      },
+      "artists": [
+        {
+          "name": "Maheva",
+          "url": "https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177119,
+      "name": "T'es Partout",
+      "url": "https://open.spotify.com/track/3K8zTFf3LSOZ1qWPv9kXNd"
     },
     {
       "album": {

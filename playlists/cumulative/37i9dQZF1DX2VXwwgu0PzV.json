@@ -167,6 +167,28 @@
     },
     {
       "album": {
+        "name": "99",
+        "url": "https://open.spotify.com/album/7gRsXItkVqNZeGPEnGAjX2"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Maikon West",
+          "url": "https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150099,
+      "name": "99",
+      "url": "https://open.spotify.com/track/07oDprayp9RiIyLS63DyXN"
+    },
+    {
+      "album": {
         "name": "A Good Night",
         "url": "https://open.spotify.com/album/72duXRZWMjSSTWeegomX6m"
       },
@@ -834,6 +856,32 @@
       "duration_ms": 176822,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
+    },
+    {
+      "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/0BBmS8Fd7GKsDJJRLyFPtR"
+      },
+      "artists": [
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
+        },
+        {
+          "name": "Kinsu",
+          "url": "https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh"
+        },
+        {
+          "name": "Monaze",
+          "url": "https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179666,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/3GIOy5X12wmeLe98EluQNV"
     },
     {
       "album": {
@@ -9377,6 +9425,28 @@
     },
     {
       "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/5gq1WFBfByQrvazFwl8g9n"
+      },
+      "artists": [
+        {
+          "name": "The SandBox Ug",
+          "url": "https://open.spotify.com/artist/5xPuytk2jpNmbWUL63FOj0"
+        },
+        {
+          "name": "Kahuma",
+          "url": "https://open.spotify.com/artist/5GGp69dJ1yFret5lO3v1tE"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/0R3dUdiFEGnHtqEpbhdkuY"
+    },
+    {
+      "album": {
         "name": "Love Is Sweet",
         "url": "https://open.spotify.com/album/43MImKx1fAjC0xMdGdj3tu"
       },
@@ -10242,6 +10312,24 @@
       "duration_ms": 333270,
       "name": "Mo Gbona (I'm hot)",
       "url": "https://open.spotify.com/track/23teWATDcBkaZPG74WXPyI"
+    },
+    {
+      "album": {
+        "name": "Mo Wa Dupe (Thank You)",
+        "url": "https://open.spotify.com/album/2EgrK2xpy5MCeKeA6gTdzb"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214158,
+      "name": "Mo Wa Dupe (Thank You)",
+      "url": "https://open.spotify.com/track/08K3tNcYdKQiACiOiP9EJK"
     },
     {
       "album": {
@@ -12440,7 +12528,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 186122,
       "name": "Phase II",
       "url": "https://open.spotify.com/track/7co3fJ4SpKezg0b6W9H87W"
@@ -12594,7 +12682,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 119428,
       "name": "Praise You",
       "url": "https://open.spotify.com/track/0D0T6euB9gjQ9ArOLx9mWA"
@@ -12646,6 +12734,24 @@
       "duration_ms": 177931,
       "name": "PRAY",
       "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
+    },
+    {
+      "album": {
+        "name": "PRAY FOR ME",
+        "url": "https://open.spotify.com/album/5XaflvAOcoSJKWoVmywB9Z"
+      },
+      "artists": [
+        {
+          "name": "Anike",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216708,
+      "name": "PRAY FOR ME",
+      "url": "https://open.spotify.com/track/5I8bc2tQYlB7EWT0eLMxpb"
     },
     {
       "album": {
@@ -13411,6 +13517,24 @@
     },
     {
       "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/2SyQwAaiJD1F2jx3mRZcpQ"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218180,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/0CMc04Rm7XZWjT1DwdYoHD"
+    },
+    {
+      "album": {
         "name": "My Beautiful Reality",
         "url": "https://open.spotify.com/album/1wNaIjk7zTye6VNdn3E2F1"
       },
@@ -13752,7 +13876,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 103411,
       "name": "Solo",
       "url": "https://open.spotify.com/track/2hR2AD7vcwJHtPRgMHQSVb"
@@ -14556,7 +14680,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 208829,
       "name": "Tell Everybody",
       "url": "https://open.spotify.com/track/0p6l116QaggFfe5fedjBu3"
@@ -14864,7 +14988,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 411428,
       "name": "This Is the Day (Halle)",
       "url": "https://open.spotify.com/track/1FnbReDM3Ly7uxwarVJLp0"

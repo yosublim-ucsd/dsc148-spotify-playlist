@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Fun Fact",
+        "url": "https://open.spotify.com/album/5EAS9bSHTwrTlizIJIVUqO"
+      },
+      "artists": [
+        {
+          "name": "Wodan Boys",
+          "url": "https://open.spotify.com/artist/0kmKbibEVmQ4luQqUAHDMr"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151141,
+      "name": "Fun Fact",
+      "url": "https://open.spotify.com/track/1f5EdRf2pijijsSEeJBaKg"
+    },
+    {
+      "album": {
         "name": "Hocus Pocus",
         "url": "https://open.spotify.com/album/20MzdqGreRzxHFxWIdXFgF"
       },
@@ -441,6 +459,24 @@
     },
     {
       "album": {
+        "name": "Happenings",
+        "url": "https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155658,
+      "name": "Italian Horror",
+      "url": "https://open.spotify.com/track/0NZvjVlwXHLUeLgZV8zk98"
+    },
+    {
+      "album": {
         "name": "Just Another Rainbow",
         "url": "https://open.spotify.com/album/5LLmGei4KIOkZaO3FI2KzX"
       },
@@ -514,6 +550,24 @@
       "duration_ms": 199342,
       "name": "Lost",
       "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
+    },
+    {
+      "album": {
+        "name": "Lost In Space",
+        "url": "https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258939,
+      "name": "Lost In Space",
+      "url": "https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs"
     },
     {
       "album": {
@@ -748,7 +802,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 202776,
       "name": "Paper Machete",
       "url": "https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo"
@@ -810,6 +864,24 @@
       "duration_ms": 188708,
       "name": "Pull Me Through",
       "url": "https://open.spotify.com/track/3l6RgZRKf4FfSc2FJlesEL"
+    },
+    {
+      "album": {
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195760,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x"
     },
     {
       "album": {
@@ -885,6 +957,24 @@
     },
     {
       "album": {
+        "name": "somebody's daughter",
+        "url": "https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193996,
+      "name": "talk shit",
+      "url": "https://open.spotify.com/track/6IEtI05pJzht8zp6u5P9kv"
+    },
+    {
+      "album": {
         "name": "The Sadness In You, The Sadness In Me",
         "url": "https://open.spotify.com/album/7xzJjmtUWwWubWB4DX5sLy"
       },
@@ -900,6 +990,24 @@
       "duration_ms": 270120,
       "name": "The Sadness In You, The Sadness In Me",
       "url": "https://open.spotify.com/track/1cMwY32ezvo0JNXEOLKEVg"
+    },
+    {
+      "album": {
+        "name": "AUDIO VERTIGO",
+        "url": "https://open.spotify.com/album/7EpaPuPMFIwVLkEWz3gvSK"
+      },
+      "artists": [
+        {
+          "name": "Elbow",
+          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Things I've Been Telling Myself for Years",
+      "url": "https://open.spotify.com/track/0ZmtGhT8Iyih7dlscccung"
     },
     {
       "album": {

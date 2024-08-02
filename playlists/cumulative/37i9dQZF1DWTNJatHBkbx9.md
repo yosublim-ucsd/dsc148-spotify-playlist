@@ -4,7 +4,7 @@
 
 > From the alternative scene in Ghana\. Cover: Øbed
 
-99 songs - 4 hr 50 min
+100 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Children With Adult Problems](https://open.spotify.com/track/3rWSgIDcqcNEicqOc5WSNu) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Children Of The Sun \(Deluxe\)](https://open.spotify.com/album/5JOXrkfzFRN0y2sKoj3nPt) | 3:31 | 2024-05-10 |  |
 | [Comforter](https://open.spotify.com/track/55IEHJw75OMJpNIXQ9iiZe) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Kpanlogo](https://open.spotify.com/album/0u2Xpx6AJj4hSzPig3msZ7) | 3:37 | 2024-05-10 |  |
 | [Connection](https://open.spotify.com/track/6WyvDxBdfoB4wNao2xLzcB) | [Jéermain](https://open.spotify.com/artist/6hLlNvIyGrv9VfHGJ6dJ08) | [Connection](https://open.spotify.com/album/1kpUWOZxlqylkCJZDRvro7) | 3:13 | 2024-05-10 |  |
-| [Cruise Control](https://open.spotify.com/track/5pM4L717J3qIMysY51BX0P) | [Kojo Trip](https://open.spotify.com/artist/30YL6ZmUsHXN07Z6Y9SrHT) | [Ride Along](https://open.spotify.com/album/19NnnqmjYpkpPidgGzdNLE) | 2:37 | 2024-06-07 |  |
+| [Cruise Control](https://open.spotify.com/track/5pM4L717J3qIMysY51BX0P) | [Kojo Trip](https://open.spotify.com/artist/30YL6ZmUsHXN07Z6Y9SrHT) | [Ride Along](https://open.spotify.com/album/19NnnqmjYpkpPidgGzdNLE) | 2:37 | 2024-06-07 | 2024-08-02 |
 | [Curbside](https://open.spotify.com/track/21yQvM7joAjWuZhnT4KdoS) | [Mēl](https://open.spotify.com/artist/0mBV9dVitzF9JNH3JRinMC), [Rie Osei](https://open.spotify.com/artist/3zRrAdtO9kUqV0prpNjFsv), [Sofie](https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0) | [For Melanin Girlies](https://open.spotify.com/album/2PrnZQQ9OyOCqFKaSnrTwA) | 2:08 | 2024-06-07 |  |
 | [CURIOUS CAESAR](https://open.spotify.com/track/5tLgV8r3KBnB31C8r2M73M) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw) | [CURIOUS CAESAR](https://open.spotify.com/album/2MfM7YpoqsitNi9PAT3cCt) | 3:06 | 2024-06-07 |  |
 | [Disco Died For You](https://open.spotify.com/track/4so4VxaOKJntIuVanu2Rg6) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G), [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS) | [Dance on the Moon](https://open.spotify.com/album/1fDHNMngJx3ckf30bkr5Wx) | 2:14 | 2024-07-12 | 2024-07-27 |
@@ -62,6 +62,7 @@
 | [Maame Water](https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Maame Water](https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS) | 2:59 | 2024-05-10 |  |
 | [Mango](https://open.spotify.com/track/4nQwVeAVqJOvb87LRblkzq) | [Aka Kelzz](https://open.spotify.com/artist/6t4XItjt4Lsk0bCBH3KGpb), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Mango](https://open.spotify.com/album/3uWMI4berrdyIKLjqMlip4) | 2:12 | 2024-05-10 | 2024-05-18 |
 | [Menko Me Hemaa](https://open.spotify.com/track/3PgrIynhIQ1veOjGDCWroU) | [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL) | [Menko Me Hemaa](https://open.spotify.com/album/2DBshbcvgxUz5dk2pC2QMD) | 3:00 | 2024-05-10 |  |
+| [Nana](https://open.spotify.com/track/1OLldKrvp07y4UdpnCKcOO) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [4 DA PAIN](https://open.spotify.com/album/0TM6jciackri09qoY3SV9s) | 2:53 | 2024-08-02 |  |
 | [Never Fold](https://open.spotify.com/track/2T8lk96YoVP2FY7aqkDOdU) | [SagetheRager](https://open.spotify.com/artist/09sWrYn8drtJePXByNNv7j) | [Never Fold](https://open.spotify.com/album/4AAQcNjPR29cFRduUBLG6T) | 2:18 | 2024-07-26 |  |
 | [No Love](https://open.spotify.com/track/60Jmu3k25uJpIstSpiNAfM) | [Auds](https://open.spotify.com/artist/1aFw1fZWs3zT6r74Kimn2d) | [NO LOVE](https://open.spotify.com/album/1HzsPYXeUzTBJHz3NAxrbY) | 2:44 | 2024-05-17 | 2024-07-19 |
 | [Nobody](https://open.spotify.com/track/5qecyCoEoIhKUf47iT67qA) | [Titi Owusu](https://open.spotify.com/artist/1zFAZYHVVh6hgb0q6dVaVV) | [Nobody](https://open.spotify.com/album/4FTBxW8fSHSZwHg69DbWso) | 2:40 | 2024-05-31 |  |

@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Apache 207, AYLIVA
 
-106 songs - 4 hr 54 min
+107 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Bis ins Grab](https://open.spotify.com/track/6DidG1r0xh9EuZtCC3Snnq) | [YFG Pave](https://open.spotify.com/artist/4Ck46WZxqzpKUInvcgVF1C) | [Bis ins Grab](https://open.spotify.com/album/2hgBF2jOKJaLBwCMyWYEFP) | 2:26 | 2024-06-28 |  |
 | [Bis zur Spree \(feat\. Juju\)](https://open.spotify.com/track/46Hmjs6AR6xrxDFlFkmXHi) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [Bis zur Spree \(feat\. Juju\)](https://open.spotify.com/album/4b8uHELxuYPysvbaUi4Ip7) | 2:45 | 2024-06-28 |  |
 | [Bisou :\*](https://open.spotify.com/track/7dAI9IZpHaA9Lzhd8d60Tp) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Bisou :\*](https://open.spotify.com/album/6Y9pFqdaD1O343Vr9sZuR5) | 2:41 | 2024-06-28 |  |
-| [Bitterkalt](https://open.spotify.com/track/1yBLbvFknx6TPhInLR3bOh) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Bitterkalt](https://open.spotify.com/album/75I9L51LVqoKmZCBWYigsX) | 2:25 | 2024-06-28 |  |
+| [Bitterkalt](https://open.spotify.com/track/1yBLbvFknx6TPhInLR3bOh) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Bitterkalt](https://open.spotify.com/album/75I9L51LVqoKmZCBWYigsX) | 2:25 | 2024-06-28 | 2024-08-02 |
 | [Breaking your heart](https://open.spotify.com/track/3pyvUdSZvgrmZbXcEsL2bs) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Breaking your heart](https://open.spotify.com/album/55wIIBndlS3o541UqLLdrg) | 2:50 | 2024-06-28 |  |
 | [Delulu](https://open.spotify.com/track/1KqYUtoOOq34KlgHhP1pSt) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Delulu](https://open.spotify.com/album/22HSiBwgz8V6M323doPvwd) | 1:59 | 2024-06-28 |  |
 | [Die Sonne](https://open.spotify.com/track/1TqC60H8LMZc4Gi4M56t6m) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1) | [Die Hoffnung klaut mir Niemand](https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI) | 2:54 | 2024-06-28 |  |
@@ -92,6 +92,7 @@
 | [Safe Space](https://open.spotify.com/track/6HDHXiKCOYJkrpaJPZuM74) | [Olson](https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Safe Space](https://open.spotify.com/album/2P4PDLYSHvViL5tnKF4P5R) | 2:16 | 2024-06-28 | 2024-07-29 |
 | [sag was](https://open.spotify.com/track/1phFx4XBj9VOSV5c8s4PQr) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [sag was](https://open.spotify.com/album/2biK8sXdAObBs6oRqNpTEs) | 3:22 | 2024-06-28 |  |
 | [schwarze SUVs](https://open.spotify.com/track/6pimu004QBUVyiWJPYylGi) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [schwarze SUVs](https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2) | 2:49 | 2024-06-28 |  |
+| [Selber Schuld](https://open.spotify.com/track/06iwXB6a9rN46oR9dAYrKi) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Selber Schuld](https://open.spotify.com/album/0EMgrtQfKMle5eTHPnN9Fg) | 2:21 | 2024-08-01 |  |
 | [SMS](https://open.spotify.com/track/2IljGIvJWtgjvG4h8WUh8E) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [SMS](https://open.spotify.com/album/1mWkEBrG6UKMnz8FOVzHRx) | 2:38 | 2024-06-28 |  |
 | [So wie du](https://open.spotify.com/track/4De7M9SBUs3UAPOigflw4U) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [So wie du](https://open.spotify.com/album/3mGUTfgRNeYKPt0fTCvGTh) | 2:32 | 2024-06-28 |  |
 | [Sommer](https://open.spotify.com/track/3sqZwhR5UFmHAh1KLXGOgq) | [Beatzarre & Djorkaeff](https://open.spotify.com/artist/3j0p8s4ghZuEazM5zyiHsD), [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1), [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [Sommer](https://open.spotify.com/album/5cfSg0UfE2Ch07MkqRHOYW) | 3:00 | 2024-06-28 |  |

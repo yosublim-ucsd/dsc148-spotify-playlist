@@ -1439,6 +1439,24 @@
     },
     {
       "album": {
+        "name": "Darkest of Days",
+        "url": "https://open.spotify.com/album/2fTBLk3ckC1fcjegqxPq84"
+      },
+      "artists": [
+        {
+          "name": "Slow Pilot",
+          "url": "https://open.spotify.com/artist/4MPMLOWHQQwcfg3CNE4fya"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221754,
+      "name": "Darkest of Days",
+      "url": "https://open.spotify.com/track/1x6Kp3RGibcdgl6uYTzqwM"
+    },
+    {
+      "album": {
         "name": "Dawncolored Horse",
         "url": "https://open.spotify.com/album/1DDLJqQKVmRMnQDDNXtFtN"
       },
@@ -7338,7 +7356,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 155146,
       "name": "This Is My Time",
       "url": "https://open.spotify.com/track/6pIGY3LzqTlx7qAveBuDnj"

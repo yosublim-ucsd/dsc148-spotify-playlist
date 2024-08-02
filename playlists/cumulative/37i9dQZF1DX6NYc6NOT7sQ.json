@@ -125,6 +125,32 @@
     },
     {
       "album": {
+        "name": "Ahenk",
+        "url": "https://open.spotify.com/album/4AI8tq9uxk3pRSkivCFIes"
+      },
+      "artists": [
+        {
+          "name": "Babafonik",
+          "url": "https://open.spotify.com/artist/3h2qbz8i6hX5d1d1VWI4p8"
+        },
+        {
+          "name": "Miray Kolat",
+          "url": "https://open.spotify.com/artist/10dz3FIpFRyMMUWnnMX81r"
+        },
+        {
+          "name": "Netam",
+          "url": "https://open.spotify.com/artist/1YY9OGXBUigFmgd8wgKEE6"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305559,
+      "name": "Ahenk - Netam's Juicy Mix",
+      "url": "https://open.spotify.com/track/1oGnclVu8zv8fghDpUTeSk"
+    },
+    {
+      "album": {
         "name": "Alageyik Destan\u0131 / Mo\u011fol Halay\u0131",
         "url": "https://open.spotify.com/album/46b4u9O93rd47B1UHgLvTX"
       },
@@ -498,6 +524,28 @@
       "duration_ms": 247146,
       "name": "Cloudy Others",
       "url": "https://open.spotify.com/track/5qA6OI4Y8iLSF9e387r6Kb"
+    },
+    {
+      "album": {
+        "name": "Come to Me (Hezarfen Rework)",
+        "url": "https://open.spotify.com/album/0BD14w6P6BO92AVSCG0eq0"
+      },
+      "artists": [
+        {
+          "name": "Eve Bi\u014dn",
+          "url": "https://open.spotify.com/artist/2DANQnbibsTXo73ei96pay"
+        },
+        {
+          "name": "Hezarfen",
+          "url": "https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376124,
+      "name": "Come to Me - Hezarfen Rework",
+      "url": "https://open.spotify.com/track/19OSKxmpbrR2vr14lUssBb"
     },
     {
       "album": {
@@ -892,10 +940,36 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 323571,
       "name": "Forget Me Not",
       "url": "https://open.spotify.com/track/7E0Z3vobykgsQiLqLXsJq5"
+    },
+    {
+      "album": {
+        "name": "Francesca De Rimini",
+        "url": "https://open.spotify.com/album/1uObpFhmMtTC8xgb05pmqb"
+      },
+      "artists": [
+        {
+          "name": "Or\u00e7un Barni",
+          "url": "https://open.spotify.com/artist/7gOSLq3ujEx1F2xgRhrICy"
+        },
+        {
+          "name": "Kamer Kaya",
+          "url": "https://open.spotify.com/artist/1M2ncHXsNMaDbJ5KhLz1ce"
+        },
+        {
+          "name": "Babafonik",
+          "url": "https://open.spotify.com/artist/3h2qbz8i6hX5d1d1VWI4p8"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "Francesca De Rimini - Babafonik Remix",
+      "url": "https://open.spotify.com/track/4eIQY18BW09JD3q3TaI9eM"
     },
     {
       "album": {
@@ -1099,6 +1173,28 @@
     },
     {
       "album": {
+        "name": "Nihilistan",
+        "url": "https://open.spotify.com/album/51af7izp08nttVngxAZCaG"
+      },
+      "artists": [
+        {
+          "name": "talking rocks",
+          "url": "https://open.spotify.com/artist/4dtZP42cTa7KX9sbpz31dX"
+        },
+        {
+          "name": "Damla Temel",
+          "url": "https://open.spotify.com/artist/4OQ8g4HBbCVdU1FNq00uaS"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355020,
+      "name": "Hayal",
+      "url": "https://open.spotify.com/track/0dSHHnCGGXBAMUjqVDKK82"
+    },
+    {
+      "album": {
         "name": "Heart Pieces",
         "url": "https://open.spotify.com/album/5jMooG8upBMMsuy1ynr1dh"
       },
@@ -1170,6 +1266,24 @@
       "duration_ms": 283373,
       "name": "Heart Pieces - Nightmares On Wax Club Dub",
       "url": "https://open.spotify.com/track/0dEt696872g2SvvaIbtxSq"
+    },
+    {
+      "album": {
+        "name": "Rukbah",
+        "url": "https://open.spotify.com/album/5rLFagPOxEGSTq5P6kB1Qq"
+      },
+      "artists": [
+        {
+          "name": "Kerem Gell",
+          "url": "https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296347,
+      "name": "Helia's Dreams",
+      "url": "https://open.spotify.com/track/4FgFkYeCC3XhGxSLGxJh2A"
     },
     {
       "album": {
@@ -1391,6 +1505,24 @@
     },
     {
       "album": {
+        "name": "Nihilistan",
+        "url": "https://open.spotify.com/album/51af7izp08nttVngxAZCaG"
+      },
+      "artists": [
+        {
+          "name": "talking rocks",
+          "url": "https://open.spotify.com/artist/4dtZP42cTa7KX9sbpz31dX"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329537,
+      "name": "Intoxicated",
+      "url": "https://open.spotify.com/track/1I22g4BpD3RtK2IbePmuJd"
+    },
+    {
+      "album": {
         "name": "Charismatic Mutations",
         "url": "https://open.spotify.com/album/0GQ1Eo42sLfjgOzJs5w7mm"
       },
@@ -1588,7 +1720,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 273533,
       "name": "Late at night",
       "url": "https://open.spotify.com/track/4ddsoix35wZul0mpbilDMu"
@@ -1617,6 +1749,28 @@
     },
     {
       "album": {
+        "name": "Leave the Sun",
+        "url": "https://open.spotify.com/album/0BgtUVJfMmTk9NBTH1zWgM"
+      },
+      "artists": [
+        {
+          "name": "drS (FI)",
+          "url": "https://open.spotify.com/artist/7HOzhexiyW4i10ZA2FqDm9"
+        },
+        {
+          "name": "Ether Eye",
+          "url": "https://open.spotify.com/artist/1UdwdKdss2VXK3gCXbJG6S"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430750,
+      "name": "Leave the Sun",
+      "url": "https://open.spotify.com/track/0H3FjcUkyv9WINH8BKFdqq"
+    },
+    {
+      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
       },
@@ -1628,7 +1782,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 193401,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/5fzUKYfATEqxDmRWfbikAm"
@@ -1762,7 +1916,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 350588,
       "name": "Marmara",
       "url": "https://open.spotify.com/track/0mWySChvIoNiwwjrseycdT"
@@ -1990,7 +2144,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 376082,
       "name": "Night Owl",
       "url": "https://open.spotify.com/track/26K1uubDB1A4RHvadCD5U9"
@@ -2142,7 +2296,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 220338,
       "name": "Piccolo",
       "url": "https://open.spotify.com/track/4ShfSvW37pRWycux0s73k1"
@@ -2453,6 +2607,50 @@
     },
     {
       "album": {
+        "name": "Sequence Pt. 2",
+        "url": "https://open.spotify.com/album/0qHO6lTsqlch58hMJpKv2d"
+      },
+      "artists": [
+        {
+          "name": "Karma Whiff",
+          "url": "https://open.spotify.com/artist/414O3gPDAvBftGcLSqgtw5"
+        },
+        {
+          "name": "Muaz Ceyhan",
+          "url": "https://open.spotify.com/artist/1xlRrEXSQPhtLjFuQIF47p"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283842,
+      "name": "Sequence Pt. 2",
+      "url": "https://open.spotify.com/track/1AhqGJT3659u5B3gvJPPdO"
+    },
+    {
+      "album": {
+        "name": "Nihilistan",
+        "url": "https://open.spotify.com/album/51af7izp08nttVngxAZCaG"
+      },
+      "artists": [
+        {
+          "name": "talking rocks",
+          "url": "https://open.spotify.com/artist/4dtZP42cTa7KX9sbpz31dX"
+        },
+        {
+          "name": "Netam",
+          "url": "https://open.spotify.com/artist/1YY9OGXBUigFmgd8wgKEE6"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345621,
+      "name": "Serpent",
+      "url": "https://open.spotify.com/track/5e8XvUqeyxPqRrK7Bz85D7"
+    },
+    {
+      "album": {
         "name": "Sirkupu",
         "url": "https://open.spotify.com/album/3tcFbtxJlWQ53WBrWxjtGv"
       },
@@ -2500,7 +2698,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 292663,
       "name": "Soul Of Calypso",
       "url": "https://open.spotify.com/track/1wQSKnFycLUgG5OCvlLrm0"
@@ -2882,7 +3080,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 120372,
       "name": "Todo En La Vida",
       "url": "https://open.spotify.com/track/2SGfEXSIpJ26U96hFgp3l8"
@@ -3096,7 +3294,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 285175,
       "name": "Vira v Peremogu",
       "url": "https://open.spotify.com/track/5oYlLaqDIPK4uFOQxt3JFZ"

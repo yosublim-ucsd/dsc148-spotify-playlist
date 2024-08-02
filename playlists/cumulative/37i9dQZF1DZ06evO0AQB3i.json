@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Boys & Girls",
+        "url": "https://open.spotify.com/album/6GRzHtepSikfr1k8zxcpbH"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105653,
+      "name": "Goin' to the Party",
+      "url": "https://open.spotify.com/track/4EUlcQZqBPlaS6AVajYeLN"
+    },
+    {
+      "album": {
         "name": "Boys & Girls (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
       },
@@ -142,7 +160,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 105653,
       "name": "Goin' To The Party",
       "url": "https://open.spotify.com/track/4MFQxc7nmKBzMDplDb5UGL"
@@ -290,6 +308,24 @@
       "duration_ms": 132133,
       "name": "Killer Diller Blues - Music from The American Epic Sessions",
       "url": "https://open.spotify.com/track/3dVQcur9BPd2yrDEx6wMRH"
+    },
+    {
+      "album": {
+        "name": "Boys & Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92320,
+      "name": "Mama - Live at KCRW",
+      "url": "https://open.spotify.com/track/7cbIeAuIUJnpDFP1w9y81g"
     },
     {
       "album": {

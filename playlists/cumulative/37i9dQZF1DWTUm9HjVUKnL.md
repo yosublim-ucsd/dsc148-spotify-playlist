@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: IDLES
 
-1,193 songs - 3 day 0 hr 33 min
+1,196 songs - 3 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Cover Me Up \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2S3Vx5HRNqRr4MCJCFREbl) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Spotify Singles](https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv) | 4:47 | 2022-07-05 | 2024-04-19 |
 | [Cover Me Up \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6qi0gC43ZZ0dAtLwdamJ0I) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Spotify Singles](https://open.spotify.com/album/0BVShHjHQNedwKZsjLeB3H) | 4:47 | 2022-01-19 |  |
 | [Coyote, My Little Brother \- Spotify Singles](https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Spotify Singles](https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni) | 3:02 | 2024-03-13 |  |
+| [Cranes in the Sky \- Spotify Singles](https://open.spotify.com/track/0vtTKF9vZSaPY81sNHwpz4) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Cranes in the Sky \(Spotify Singles\)](https://open.spotify.com/album/260Kae28MIGcLpp248A869) | 4:28 | 2024-08-01 |  |
 | [Crazy \- Spotify Singles](https://open.spotify.com/track/11HrFfyr0btlPPBdGjqV7e) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Spotify Singles](https://open.spotify.com/album/76vwVXwTpLFl6FOFJGjPsg) | 4:52 | 2022-10-19 |  |
 | [Creep](https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/5naSz7p9D3O9y4lkbj7OUz) | 2:41 | 2022-10-26 | 2022-12-09 |
 | [Creep](https://open.spotify.com/track/0MCrrytmwWwVs9WoSpsodr) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep](https://open.spotify.com/album/3G9TLR1Ont91KuIA8xXEIS) | 2:41 | 2023-10-02 | 2023-11-20 |
@@ -825,6 +826,7 @@
 | [Passionfruit \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/32s8Fw4H89EkJ5DPKEWnWY) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Spotify Singles](https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN) | 3:41 | 2022-01-19 |  |
 | [Passionfruit \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1ZEwtauaLu1s6LlCSpo04U) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Spotify Singles](https://open.spotify.com/album/5DqAR5V10hgBupy2yesNzW) | 4:26 | 2022-01-19 |  |
 | [Passionfruit \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7It4zopBMUEaJ9F24CF3tG) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Ripple Waves](https://open.spotify.com/album/1N5bqHytFgwnEgpCSECdn7) | 4:27 | 2023-03-15 | 2024-04-19 |
+| [Peaches \- Spotify Singles](https://open.spotify.com/track/2SZ6Trbdt2vH5xZ1puA1tM) | [Shaznay Lewis](https://open.spotify.com/artist/4LUOGNccPSilRIm4Jcflg2) | [Spotify Singles](https://open.spotify.com/album/6QhTn5Q6IV6L0NHg0JLOnX) | 3:27 | 2024-08-01 |  |
 | [people pleaser \- Spotify Singles](https://open.spotify.com/track/4pt2q4CYb9gRJq48mQ7HIE) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Spotify Singles](https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO) | 3:27 | 2022-10-26 |  |
 | [Perfume \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6jPNBp1lDOoLNYm4sd2rWq) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Spotify Singles](https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S) | 2:35 | 2022-01-19 |  |
 | [Perfume \- Spotify Singles](https://open.spotify.com/track/2AXtrCg3aZaAKrL6ln5JmY) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Spotify Singles](https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio) | 4:35 | 2022-03-24 |  |
@@ -979,6 +981,7 @@
 | [Summer Love \- Live From Spotify Studios NYC](https://open.spotify.com/track/0G080Vm22mv78YJwrsVpVu) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Singles \(Live From Spotify Studios NYC\)](https://open.spotify.com/album/2FOJBj2N8u5SX9yfOnnQNY) | 3:34 | 2022-10-12 | 2024-04-19 |
 | [Summer Love \- Live From Spotify Studios NYC](https://open.spotify.com/track/2fsViUVkh7lh6gYDwvsvFH) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Singles \(Live From Spotify Studios NYC\)](https://open.spotify.com/album/6AxauGOAykVQ8CU209PzQv) | 3:34 | 2022-07-05 | 2022-10-13 |
 | [Summer Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3LSnp6mtKiVXCJwsmOvfMd) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Spotify Singles](https://open.spotify.com/album/5hLin1G9HnweybsmPME5QV) | 3:34 | 2022-01-19 |  |
+| [Summer Rain \- Spotify Singles](https://open.spotify.com/track/6ZMkdGMAYK326Xhxq5yZ6v) | [Shaznay Lewis](https://open.spotify.com/artist/4LUOGNccPSilRIm4Jcflg2) | [Spotify Singles](https://open.spotify.com/album/6QhTn5Q6IV6L0NHg0JLOnX) | 3:35 | 2024-08-01 |  |
 | [Summer's End \- Spotify Singles](https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:54 | 2022-01-19 |  |
 | [sunday \- Spotify Singles](https://open.spotify.com/track/1VxyhRGiDHmbeyGHrURHIG) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Spotify Singles](https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY) | 3:23 | 2022-01-19 |  |
 | [Super Far \- Spotify Studios NYC](https://open.spotify.com/track/0Wfc2nTCIOi8FOZOZ9308U) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Spotify Singles](https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT) | 3:56 | 2022-01-19 |  |

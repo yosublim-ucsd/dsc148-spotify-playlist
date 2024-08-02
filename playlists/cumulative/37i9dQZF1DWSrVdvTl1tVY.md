@@ -2,9 +2,9 @@
 
 ### [UK House Music](https://open.spotify.com/playlist/37i9dQZF1DWSrVdvTl1tVY)
 
-> The biggest house bangers popping off in the UK, let's go! Gorgon City
+> The biggest house bangers popping off in the UK, let's go! Rossi
 
-876 songs - 2 day 2 hr 40 min
+877 songs - 2 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Baby again..](https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Baby again..](https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF) | 5:19 | 2023-03-17 | 2023-08-11 |
 | [Bacchanalian Meltdown](https://open.spotify.com/track/2MQ7BB6RTMcLCLPBVa5xIp) | [Coco Cole](https://open.spotify.com/artist/1uuWXTqz4q8GvI0ajQiRpI) | [Bacchanalian Meltdown](https://open.spotify.com/album/5N0Oz5gmx0oWL2UdXdXauH) | 4:29 | 2022-11-18 | 2023-03-18 |
 | [Back & Forth \(feat\. Lily McKenzie\)](https://open.spotify.com/track/5SR4zjjTJkE4JrPePimo0S) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Lily Mckenzie](https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN) | [Back & Forth \(feat\. Lily McKenzie\)](https://open.spotify.com/album/1TaQuOSMld01fVFoaZPukO) | 2:54 | 2022-03-08 | 2022-03-10 |
+| [Back \(feat\. Flirta D\)](https://open.spotify.com/track/03yIjpTayeOffZYTTNdiyF) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Flirta D](https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR) | [Back \(feat\. Flirta D\)](https://open.spotify.com/album/07t04O7yvxc7k3yET2PjA7) | 3:07 | 2024-08-01 |  |
 | [Back Tae Ayr](https://open.spotify.com/track/1AH6GkZnybM0R5WZZTj7GF) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Back Tae Ayr](https://open.spotify.com/album/6YGqlfu2U6aUkzPSViek27) | 5:32 | 2021-12-17 | 2022-04-02 |
 | [Back To The Sound](https://open.spotify.com/track/3c8Nv4TXZlOD608H4tI5RD) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Back To The Sound](https://open.spotify.com/album/4rSDxcYD1aEKUEePGFtprf) | 2:44 | 2022-03-11 | 2022-07-08 |
 | [Backfire](https://open.spotify.com/track/632paTWO6lWhhkpSPvlKiG) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Jay Colin](https://open.spotify.com/artist/3hLsFuuBcVto50AoXympLx) | [Backfire](https://open.spotify.com/album/6SBDRakZ5IAO7V36ZBuFuK) | 3:19 | 2022-01-14 | 2022-04-23 |
@@ -220,7 +221,7 @@
 | [DÓNDE ESTÁ](https://open.spotify.com/track/35syZ8HVLl1YBS0bY6nzaj) | [YOURS](https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7) | [DÓNDE ESTÁ](https://open.spotify.com/album/7u8SXWRQiR1aCmyjHCzwWJ) | 3:48 | 2023-06-09 | 2023-07-14 |
 | [E\-Soul](https://open.spotify.com/track/7HtG4VfVor4wAktzmvRtnW) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf), [Jena](https://open.spotify.com/artist/5C4eCUR6V0Kbdn8g0y390j) | [E\-Soul](https://open.spotify.com/album/16hF10iERvFSYxGV4ty43f) | 3:52 | 2023-11-24 | 2024-02-24 |
 | [Eastern Dub](https://open.spotify.com/track/6cVlxUZCdNqNQsgH0T2aqh) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Eastern Dub](https://open.spotify.com/album/1Lssaw5dvG8riE4Uiyuv6U) | 2:58 | 2022-07-06 | 2022-09-23 |
-| [Easy Baby](https://open.spotify.com/track/6x9zA8ibdDsEJtxEeeMNor) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Mo Selleck](https://open.spotify.com/artist/2TmLgEfzFDJ2afLTxXd2Aa) | [Easy Baby](https://open.spotify.com/album/7qEDuTjre2FiyLzwj7eIlw) | 2:43 | 2024-03-08 |  |
+| [Easy Baby](https://open.spotify.com/track/6x9zA8ibdDsEJtxEeeMNor) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Mo Selleck](https://open.spotify.com/artist/2TmLgEfzFDJ2afLTxXd2Aa) | [Easy Baby](https://open.spotify.com/album/7qEDuTjre2FiyLzwj7eIlw) | 2:43 | 2024-03-08 | 2024-08-02 |
 | [El Bombo](https://open.spotify.com/track/0Rv3tutzgSak1pTMXiV9p8) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [El Bombo](https://open.spotify.com/album/6mQ6RwM8fZTzzl9wgTr3sm) | 4:00 | 2022-04-01 | 2022-07-07 |
 | [Elevated](https://open.spotify.com/track/0qZ2NBUmGIaHzvUAfH43A0) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Elevated](https://open.spotify.com/album/6a3wDTIPiYQwXGkNAAye04) | 3:13 | 2022-08-25 | 2023-03-09 |
 | [Endless Sky](https://open.spotify.com/track/3oHOObxpYRdsRwVqizxWNM) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Endless Sky](https://open.spotify.com/album/2gudZLuzUEnf5AXljy75vO) | 2:39 | 2022-08-18 | 2023-01-28 |

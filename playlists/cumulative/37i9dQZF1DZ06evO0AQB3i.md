@@ -4,7 +4,7 @@
 
 > This is Alabama Shakes\. The essential tracks, all in one playlist.
 
-24 songs - 1 hr 24 min
+26 songs - 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Don't Wanna Fight](https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY) | 3:52 | 2023-09-25 |  |
 | [Future People](https://open.spotify.com/track/4iRiiVUx1ytFW3OEAsfKIL) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:21 | 2023-09-25 |  |
 | [Gimme All Your Love](https://open.spotify.com/track/4kdqfbnSxyQdQwoyi3VwwD) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 4:03 | 2023-09-25 |  |
-| [Goin' To The Party](https://open.spotify.com/track/4MFQxc7nmKBzMDplDb5UGL) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 1:45 | 2023-09-25 |  |
+| [Goin' to the Party](https://open.spotify.com/track/4EUlcQZqBPlaS6AVajYeLN) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/6GRzHtepSikfr1k8zxcpbH) | 1:45 | 2024-08-02 |  |
+| [Goin' To The Party](https://open.spotify.com/track/4MFQxc7nmKBzMDplDb5UGL) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 1:45 | 2023-09-25 | 2024-08-02 |
 | [Guess Who](https://open.spotify.com/track/45JLSLXRMQJabYtPtSuBmV) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:15 | 2023-09-25 |  |
 | [Hang Loose](https://open.spotify.com/track/6vu33bAEUG3U0d0CGxQJGl) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 2:24 | 2023-09-25 |  |
 | [Heartbreaker](https://open.spotify.com/track/61HjGeW0GmvmjQLj3voHDo) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/6GRzHtepSikfr1k8zxcpbH) | 3:47 | 2024-07-31 |  |
@@ -24,6 +25,7 @@
 | [I Found You](https://open.spotify.com/track/2v1L7Mf7mhgBzpAEcGSdfL) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 2:59 | 2023-09-25 |  |
 | [Joe \- Live From Austin City Limits](https://open.spotify.com/track/01zPVwitbE70nDuvEKFtGD) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Joe \(Live From Austin City Limits\)](https://open.spotify.com/album/3l4cgsdtm5xgwF5siDaavQ) | 3:31 | 2023-09-25 |  |
 | [Killer Diller Blues \- Music from The American Epic Sessions](https://open.spotify.com/track/3dVQcur9BPd2yrDEx6wMRH) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Killer Diller Blues \(Music from The American Epic Sessions\)](https://open.spotify.com/album/3fTgCsGWNSoJ9uJG191vHN) | 2:12 | 2023-09-25 |  |
+| [Mama \- Live at KCRW](https://open.spotify.com/track/7cbIeAuIUJnpDFP1w9y81g) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 1:32 | 2024-08-02 |  |
 | [Rise To The Sun](https://open.spotify.com/track/32RWolRSVulfcVQlZSWu1E) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 3:08 | 2023-09-25 |  |
 | [Shoegaze](https://open.spotify.com/track/09nDcxFx9DAkpfxDjse4gZ) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 2:59 | 2023-09-25 |  |
 | [Someday](https://open.spotify.com/track/41xg3SjdwFyAp0kao72944) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:19 | 2024-01-01 | 2024-06-24 |

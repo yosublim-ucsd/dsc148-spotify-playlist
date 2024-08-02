@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: july-aug 2024 (previous playlists archived on my profile)",
-  "num_followers": 20717,
+  "num_followers": 20725,
   "original_name": "living alone",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAK0zIK202tTcfQb0y/DN9d1mHf42Cl",
+  "snapshot_id": "AAAK1gCPqZeoComfYEWVxoah0nU3038W",
   "tracks": [
     {
       "added_at": "2024-07-12 00:10:32",
@@ -607,6 +607,38 @@
       "duration_ms": 181040,
       "name": "Joker Lips",
       "url": "https://open.spotify.com/track/6tYgLXfFUhNDe6QHZmsJzX"
+    },
+    {
+      "added_at": "2024-08-01 15:58:43",
+      "album": {
+        "name": "Breakup Song",
+        "url": "https://open.spotify.com/album/5JunU3flt52yhYBKhmUnM1"
+      },
+      "artists": [
+        {
+          "name": "Deerhoof",
+          "url": "https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V"
+        }
+      ],
+      "duration_ms": 198883,
+      "name": "There's That Grin",
+      "url": "https://open.spotify.com/track/2rV6guDDixTkeYco2wJSST"
+    },
+    {
+      "added_at": "2024-08-01 14:05:43",
+      "album": {
+        "name": "Feline",
+        "url": "https://open.spotify.com/album/7zLCiI9gWYWyn9E0SNWVki"
+      },
+      "artists": [
+        {
+          "name": "The Stranglers",
+          "url": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
+        }
+      ],
+      "duration_ms": 240560,
+      "name": "The European Female (In Celebration Of)",
+      "url": "https://open.spotify.com/track/5OCtkcIWYCJ8OTCixDREZh"
     }
   ],
   "unique_name": "living alone",

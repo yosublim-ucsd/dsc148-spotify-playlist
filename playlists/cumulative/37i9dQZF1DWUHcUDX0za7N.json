@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover: Showdemcamp, The cavemen & nsikak david",
+  "description": "Hip hop and rap music from Nigeria. Cover: Psycho YP",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -900,6 +900,32 @@
       "duration_ms": 182000,
       "name": "Belong to You",
       "url": "https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb"
+    },
+    {
+      "album": {
+        "name": "Beng Beng Beng",
+        "url": "https://open.spotify.com/album/3xm1v6Cpd221YgVdfhEPFm"
+      },
+      "artists": [
+        {
+          "name": "Chop Daily",
+          "url": "https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG"
+        },
+        {
+          "name": "Ransom Beatz",
+          "url": "https://open.spotify.com/artist/6fzdE3sz7e6kFOwOywdmiy"
+        },
+        {
+          "name": "EESKAY",
+          "url": "https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142702,
+      "name": "Beng Beng Beng",
+      "url": "https://open.spotify.com/track/1QJr0nCavAGYteCOLUf2lN"
     },
     {
       "album": {
@@ -3582,7 +3608,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 132421,
       "name": "Hit",
       "url": "https://open.spotify.com/track/12JtmBk0kNsk5GSECkOSPn"
@@ -4087,6 +4113,28 @@
     },
     {
       "album": {
+        "name": "Jehovah",
+        "url": "https://open.spotify.com/album/7K7GOwWQmFZNeH49dQbIoM"
+      },
+      "artists": [
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164760,
+      "name": "Jehovah",
+      "url": "https://open.spotify.com/track/7EfjkOYi6He33zzUoHuUjs"
+    },
+    {
+      "album": {
         "name": "Unruly",
         "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
       },
@@ -4102,6 +4150,28 @@
       "duration_ms": 155019,
       "name": "Jinja",
       "url": "https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x"
+    },
+    {
+      "album": {
+        "name": "Purple Doesn't Exist",
+        "url": "https://open.spotify.com/album/67W3Xd68ThXeWwQVRm8m2d"
+      },
+      "artists": [
+        {
+          "name": "A-Q",
+          "url": "https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162989,
+      "name": "John Travolta (feat. Blaqbonez)",
+      "url": "https://open.spotify.com/track/22aQcPPXH3vFltmSO7vIhr"
     },
     {
       "album": {
@@ -6994,7 +7064,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 159000,
       "name": "Requirements",
       "url": "https://open.spotify.com/track/0Fxxn7X2NRSqfRJbJi8AM2"
@@ -7376,7 +7446,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 204216,
       "name": "SHOW WORKINGS (feat. Magnito, DanDizzy, Oladips & Kabex)",
       "url": "https://open.spotify.com/track/6nPT4WMAquPU1SSCIeAhqq"
@@ -8676,7 +8746,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 174315,
       "name": "Vawulence (Remix)",
       "url": "https://open.spotify.com/track/26zrOWI3JO2y0grY3UyTGj"
@@ -8806,6 +8876,24 @@
       "duration_ms": 180950,
       "name": "Vigilante Bop",
       "url": "https://open.spotify.com/track/4ZY2w3IQ4dMwXDg0C0SdlB"
+    },
+    {
+      "album": {
+        "name": "VIOLATION",
+        "url": "https://open.spotify.com/album/6gpmJar9EPyRhRDzgEs4Pd"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148489,
+      "name": "VIOLATION",
+      "url": "https://open.spotify.com/track/21COrY4QAM3QGc4iIvzD1H"
     },
     {
       "album": {
@@ -9286,7 +9374,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 211485,
       "name": "Woman of Virtue (feat. Ajebo Hustlers)",
       "url": "https://open.spotify.com/track/3dL9z0AKrbYD17VH4owfXH"
@@ -9476,6 +9564,28 @@
       "duration_ms": 207727,
       "name": "Yeh Yeh (feat. Rema, Ayra Starr & KDDO)",
       "url": "https://open.spotify.com/track/1kVcV9KNy7u0aHsmjHRsce"
+    },
+    {
+      "album": {
+        "name": "Yemi My Lover",
+        "url": "https://open.spotify.com/album/7c82UYgtQ7WD7rkdjhkI5s"
+      },
+      "artists": [
+        {
+          "name": "Jaido P",
+          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
+        },
+        {
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176727,
+      "name": "Yemi My Lover",
+      "url": "https://open.spotify.com/track/5RQuHSlA3xJq0BNWC8l6S4"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 11930,
+  "num_followers": 11938,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqgtAAAAAADrMLSmSBen9DoYGP9MnqDD",
+  "snapshot_id": "Zql+gAAAAADG1IKVjjgSwGZOmNd0EsRu",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Canci\u00f3n",
-        "url": "https://open.spotify.com/album/54oqibHFqg8CZFpDXnrbQZ"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 225493,
-      "name": "Tu Canci\u00f3n",
-      "url": "https://open.spotify.com/track/2x4lTomM9xQjBzz5WP3CU6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Delusi\u00f3n",
         "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 138866,
       "name": "Decir Adi\u00f3s",
       "url": "https://open.spotify.com/track/2VGAj6WgbcQhxzb0PVMW0f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Canci\u00f3n",
+        "url": "https://open.spotify.com/album/54oqibHFqg8CZFpDXnrbQZ"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 225493,
+      "name": "Tu Canci\u00f3n",
+      "url": "https://open.spotify.com/track/2x4lTomM9xQjBzz5WP3CU6"
     },
     {
       "added_at": null,

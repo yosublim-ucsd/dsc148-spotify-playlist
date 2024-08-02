@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance music</a> for the heart <3",
-  "num_followers": 1236308,
+  "num_followers": 1236383,
   "original_name": "Heart Beats",
   "owner": {
     "name": "Spotify",
@@ -315,26 +315,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "In My Bones",
-        "url": "https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 156126,
-      "name": "In My Bones",
-      "url": "https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "I Adore You (feat. Daecolm)",
         "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "In My Bones",
+        "url": "https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 156126,
+      "name": "In My Bones",
+      "url": "https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "I CAN'T LOSE YOU",
+        "url": "https://open.spotify.com/album/4Vks6PwxrmJ6CAfhNSrcvO"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "duration_ms": 155343,
+      "name": "I CAN\u2019T LOSE YOU",
+      "url": "https://open.spotify.com/track/1LLC7MZufBwaO52XRtGRHD"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "A Life",
         "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 199160,
       "name": "Felt (feat. Henry Green)",
       "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "I CAN'T LOSE YOU",
-        "url": "https://open.spotify.com/album/4Vks6PwxrmJ6CAfhNSrcvO"
-      },
-      "artists": [
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 155343,
-      "name": "I CAN\u2019T LOSE YOU",
-      "url": "https://open.spotify.com/track/1LLC7MZufBwaO52XRtGRHD"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Selfreflection",
-        "url": "https://open.spotify.com/album/3Ab4BR06hO8qx1NCZ1seog"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "Stop the time",
-      "url": "https://open.spotify.com/track/2uYYSVWxRZiN8W8K23J2ai"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Time After Time",
         "url": "https://open.spotify.com/album/2xl4YF1t2nMHIooLxeipdx"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 172133,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/0W98yebOu4MC2ULhurYbAZ"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Selfreflection",
+        "url": "https://open.spotify.com/album/3Ab4BR06hO8qx1NCZ1seog"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "Stop the time",
+      "url": "https://open.spotify.com/track/2uYYSVWxRZiN8W8K23J2ai"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "U REALLY HURT ME",
+        "url": "https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5"
+      },
+      "artists": [
+        {
+          "name": "LUV HRTS",
+          "url": "https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8"
+        },
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "duration_ms": 162406,
+      "name": "U REALLY HURT ME",
+      "url": "https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "One Last Time (with R3HAB) (feat. Enny-Mae)",
         "url": "https://open.spotify.com/album/1D98GoIVHBVQsPPPAmBYDX"
       },
@@ -1131,6 +1151,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Stop Loving You",
+        "url": "https://open.spotify.com/album/7d3UAHh6dVhDFdLupDUJ7B"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 169503,
+      "name": "Stop Loving You",
+      "url": "https://open.spotify.com/track/1TRmgkGE0EdfjjAovbMpTk"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Easy Lover",
         "url": "https://open.spotify.com/album/1bFzDl9dPLe19EUN1uvh7J"
       },
@@ -1151,42 +1187,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Stop Loving You",
-        "url": "https://open.spotify.com/album/7d3UAHh6dVhDFdLupDUJ7B"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 169503,
-      "name": "Stop Loving You",
-      "url": "https://open.spotify.com/track/1TRmgkGE0EdfjjAovbMpTk"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "U REALLY HURT ME",
-        "url": "https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5"
-      },
-      "artists": [
-        {
-          "name": "LUV HRTS",
-          "url": "https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8"
-        },
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 162406,
-      "name": "U REALLY HURT ME",
-      "url": "https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Find A Way",
         "url": "https://open.spotify.com/album/1trmWSMiO6NDBnnDDDhsy8"
       },
@@ -1199,30 +1199,6 @@
       "duration_ms": 212538,
       "name": "Find A Way",
       "url": "https://open.spotify.com/track/51ehuSdtKvrsBGNWLOfQWE"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/204uhd5Yr7mUtfydYTnBDQ"
-      },
-      "artists": [
-        {
-          "name": "Ian Asher",
-          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
-        },
-        {
-          "name": "SB19",
-          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
-        },
-        {
-          "name": "Terry Zhong",
-          "url": "https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg"
-        }
-      ],
-      "duration_ms": 168102,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/7cens2GI2PTemvKNnpjxs8"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1271,6 +1247,30 @@
       "duration_ms": 170196,
       "name": "Love On You (feat. Griff Clawson)",
       "url": "https://open.spotify.com/track/7Iv0928rZ28KjivhAJPqfC"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/204uhd5Yr7mUtfydYTnBDQ"
+      },
+      "artists": [
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        },
+        {
+          "name": "SB19",
+          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
+        },
+        {
+          "name": "Terry Zhong",
+          "url": "https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg"
+        }
+      ],
+      "duration_ms": 168102,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/7cens2GI2PTemvKNnpjxs8"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "THINKIN' BOUT U",
+        "url": "https://open.spotify.com/album/2nIoah8NyUvyIHl73UhXkD"
+      },
+      "artists": [
+        {
+          "name": "Mattilo",
+          "url": "https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC"
+        },
+        {
+          "name": "Julian",
+          "url": "https://open.spotify.com/artist/7g34C2v5CRE5K4objuYQSc"
+        }
+      ],
+      "duration_ms": 167111,
+      "name": "THINKIN' BOUT U",
+      "url": "https://open.spotify.com/track/6cwNyD7UDIGD2CSnpObpkl"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "I Will Leave a Light On",
         "url": "https://open.spotify.com/album/2KSD7hHUDnXcgTO56Zhwi2"
       },
@@ -1403,26 +1423,6 @@
       "duration_ms": 240975,
       "name": "I Will Leave a Light On",
       "url": "https://open.spotify.com/track/2xlSM0k9SCoG6UMaZWWRiC"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "THINKIN' BOUT U",
-        "url": "https://open.spotify.com/album/2nIoah8NyUvyIHl73UhXkD"
-      },
-      "artists": [
-        {
-          "name": "Mattilo",
-          "url": "https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC"
-        },
-        {
-          "name": "Julian",
-          "url": "https://open.spotify.com/artist/7g34C2v5CRE5K4objuYQSc"
-        }
-      ],
-      "duration_ms": 167111,
-      "name": "THINKIN' BOUT U",
-      "url": "https://open.spotify.com/track/6cwNyD7UDIGD2CSnpObpkl"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "duration_ms": 124710,
+      "name": "Time - Edit",
+      "url": "https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Heart for Rent",
         "url": "https://open.spotify.com/album/2gmk7Toj2avwexaVvYXfVg"
       },
@@ -1631,22 +1647,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        }
-      ],
-      "duration_ms": 124710,
-      "name": "Time - Edit",
-      "url": "https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/6yF8JrEp3yBfFJptdIPLi7"
       },
@@ -1667,6 +1667,22 @@
       "duration_ms": 189840,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/7h8qrDfxBzUGcXXiR4Jxea"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Light up my dark",
+        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 208937,
+      "name": "Light up my dark",
+      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1759,22 +1775,6 @@
       "duration_ms": 278226,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/1ByxuN2e68C9mAx85Vcumt"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Light up my dark",
-        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 208937,
-      "name": "Light up my dark",
-      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/1m9yJKRtE9s5V3Q27m8Vys"
-      },
-      "artists": [
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        }
-      ],
-      "duration_ms": 216796,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/5jUhodriWI7nb4i3kDxNBH"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Talking Like That",
         "url": "https://open.spotify.com/album/6NgQBkhn7gc9tcxdsORlgi"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 231014,
       "name": "Talking Like That",
       "url": "https://open.spotify.com/track/2mO6cLDxTnT9NVnQ6iVfVF"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/1m9yJKRtE9s5V3Q27m8Vys"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "duration_ms": 216796,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/5jUhodriWI7nb4i3kDxNBH"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2007,26 +2007,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Feel The Same (feat. RuthAnne)",
-        "url": "https://open.spotify.com/album/1BvIg5jWpKM73SY0YQYieB"
-      },
-      "artists": [
-        {
-          "name": "Ian Asher",
-          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
-        },
-        {
-          "name": "RuthAnne",
-          "url": "https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA"
-        }
-      ],
-      "duration_ms": 170968,
-      "name": "Feel The Same",
-      "url": "https://open.spotify.com/track/5g9zQM8xjmZRHbGbrm0fdU"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/3wLwVLZ25BdqRKjcnWSTx5"
       },
@@ -2043,6 +2023,26 @@
       "duration_ms": 188571,
       "name": "Moments",
       "url": "https://open.spotify.com/track/0BU2hNH4lvkignYKP6kJW8"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Feel The Same (feat. RuthAnne)",
+        "url": "https://open.spotify.com/album/1BvIg5jWpKM73SY0YQYieB"
+      },
+      "artists": [
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        },
+        {
+          "name": "RuthAnne",
+          "url": "https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA"
+        }
+      ],
+      "duration_ms": 170968,
+      "name": "Feel The Same",
+      "url": "https://open.spotify.com/track/5g9zQM8xjmZRHbGbrm0fdU"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2331,6 +2331,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 196975,
+      "name": "High",
+      "url": "https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Favorite Sound",
         "url": "https://open.spotify.com/album/1wYxzbz645Vh5k0GNINcmV"
       },
@@ -2343,22 +2359,6 @@
       "duration_ms": 174857,
       "name": "Favorite Sound",
       "url": "https://open.spotify.com/track/3OflIzsYlyYFKgb4VvEyVj"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "One, Two, & 3",
-        "url": "https://open.spotify.com/album/1vQWQX4pHIp1c1QSntHZrn"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 206007,
-      "name": "One, Two, & 3",
-      "url": "https://open.spotify.com/track/1Yu1fJCwqEWlacl4ofyeUg"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2379,6 +2379,22 @@
       "duration_ms": 178760,
       "name": "Worship You",
       "url": "https://open.spotify.com/track/2rfZyAX6wZxQWMQ9GYyLIu"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "One, Two, & 3",
+        "url": "https://open.spotify.com/album/1vQWQX4pHIp1c1QSntHZrn"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 206007,
+      "name": "One, Two, & 3",
+      "url": "https://open.spotify.com/track/1Yu1fJCwqEWlacl4ofyeUg"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2419,22 +2435,6 @@
       "duration_ms": 176122,
       "name": "State Of My Heart",
       "url": "https://open.spotify.com/track/2wPG888F5AMkxILKc9Pc3Q"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 196975,
-      "name": "High",
-      "url": "https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2659,6 +2659,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Lost In Time",
+        "url": "https://open.spotify.com/album/7k6BzEe7PQlixQJJbmTKUO"
+      },
+      "artists": [
+        {
+          "name": "Adrian Knows",
+          "url": "https://open.spotify.com/artist/7tzhTKYUV6uWR4BskFhzB9"
+        }
+      ],
+      "duration_ms": 136695,
+      "name": "Lost In Time",
+      "url": "https://open.spotify.com/track/0aHUTp6y31Fr6F7p99edHp"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Whisper",
         "url": "https://open.spotify.com/album/6tPDyOvDtyeliclGUL6dV9"
       },
@@ -2675,22 +2691,6 @@
       "duration_ms": 236250,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/1PB6iX4kAw1t13ozPVF9vo"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Lost In Time",
-        "url": "https://open.spotify.com/album/7k6BzEe7PQlixQJJbmTKUO"
-      },
-      "artists": [
-        {
-          "name": "Adrian Knows",
-          "url": "https://open.spotify.com/artist/7tzhTKYUV6uWR4BskFhzB9"
-        }
-      ],
-      "duration_ms": 136695,
-      "name": "Lost In Time",
-      "url": "https://open.spotify.com/track/0aHUTp6y31Fr6F7p99edHp"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2835,6 +2835,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Need Me Right",
+        "url": "https://open.spotify.com/album/6lkMuhT1CneIWN1wCnOGLM"
+      },
+      "artists": [
+        {
+          "name": "Anabel Englund",
+          "url": "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
+        }
+      ],
+      "duration_ms": 144602,
+      "name": "Need Me Right",
+      "url": "https://open.spotify.com/track/6bGTVNNA07wWwyPFPa7PyD"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Reflect",
         "url": "https://open.spotify.com/album/6Xhh9hPXHtndhX6Qvs7Ocx"
       },
@@ -2855,18 +2871,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Need Me Right",
-        "url": "https://open.spotify.com/album/6lkMuhT1CneIWN1wCnOGLM"
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/06PMmkzppZU6YSZVQbHpzy"
       },
       "artists": [
         {
-          "name": "Anabel Englund",
-          "url": "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
         }
       ],
-      "duration_ms": 144602,
-      "name": "Need Me Right",
-      "url": "https://open.spotify.com/track/6bGTVNNA07wWwyPFPa7PyD"
+      "duration_ms": 229024,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/6b57FDNY52AlFJa81vTijE"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2883,22 +2899,6 @@
       "duration_ms": 155537,
       "name": "Part Of Me",
       "url": "https://open.spotify.com/track/5CS5NogYsQ2p0Bq5tvgzt2"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Valentine",
-        "url": "https://open.spotify.com/album/06PMmkzppZU6YSZVQbHpzy"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 229024,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/6b57FDNY52AlFJa81vTijE"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -3171,22 +3171,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Here By Now (feat. Lilly Ahlberg)",
-        "url": "https://open.spotify.com/album/3qmMgA7FVycxNIkZsn4gMG"
+        "name": "Take Me Somewhere",
+        "url": "https://open.spotify.com/album/5AyOo0oZOQmoDrU8dqyiNp"
       },
       "artists": [
         {
           "name": "Drove",
           "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
-        },
-        {
-          "name": "Lilly Ahlberg",
-          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
         }
       ],
-      "duration_ms": 211771,
-      "name": "Here By Now (feat. Lilly Ahlberg)",
-      "url": "https://open.spotify.com/track/6LXoxSbn5NB07w0QqvbeNJ"
+      "duration_ms": 194000,
+      "name": "Take Me Somewhere",
+      "url": "https://open.spotify.com/track/6Qmalh6imfMxJAiO6HjiZh"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -3303,18 +3299,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Take Me Somewhere",
-        "url": "https://open.spotify.com/album/5AyOo0oZOQmoDrU8dqyiNp"
+        "name": "Here By Now (feat. Lilly Ahlberg)",
+        "url": "https://open.spotify.com/album/3qmMgA7FVycxNIkZsn4gMG"
       },
       "artists": [
         {
           "name": "Drove",
           "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        },
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Take Me Somewhere",
-      "url": "https://open.spotify.com/track/6Qmalh6imfMxJAiO6HjiZh"
+      "duration_ms": 211771,
+      "name": "Here By Now (feat. Lilly Ahlberg)",
+      "url": "https://open.spotify.com/track/6LXoxSbn5NB07w0QqvbeNJ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -3523,6 +3523,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "In Our Own Way",
+        "url": "https://open.spotify.com/album/0FvlZWhj9GnUosWOfZxkVc"
+      },
+      "artists": [
+        {
+          "name": "EMBRZ",
+          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
+        }
+      ],
+      "duration_ms": 189684,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/6AvPvdPQaRlsyrdP7PzeLU"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Time After Time",
         "url": "https://open.spotify.com/album/2RoPYkVsKMi5cPi079EkjR"
       },
@@ -3543,22 +3559,6 @@
       "duration_ms": 156428,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/1Nc4gon5Nu3hL4Ou6kvrgz"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "In Our Own Way",
-        "url": "https://open.spotify.com/album/0FvlZWhj9GnUosWOfZxkVc"
-      },
-      "artists": [
-        {
-          "name": "EMBRZ",
-          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
-        }
-      ],
-      "duration_ms": 189684,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/6AvPvdPQaRlsyrdP7PzeLU"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -3663,22 +3663,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/6RA60E1Fm7C2Up4aKRDLcV"
-      },
-      "artists": [
-        {
-          "name": "Britt Lari",
-          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/2fbgpGt8u8ErxMT2cruio8"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Don't Let Go (feat. Roseau)",
         "url": "https://open.spotify.com/album/1rxzpMLYFGhhQbxuAKlZfF"
       },
@@ -3695,6 +3679,22 @@
       "duration_ms": 166303,
       "name": "Don't Let Go (feat. Roseau)",
       "url": "https://open.spotify.com/track/02NJ2ws6rsEeh7DhsHqqvv"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/6RA60E1Fm7C2Up4aKRDLcV"
+      },
+      "artists": [
+        {
+          "name": "Britt Lari",
+          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/2fbgpGt8u8ErxMT2cruio8"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -3919,42 +3919,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/2F4Q6HSJXIl60UymuxOaKo"
-      },
-      "artists": [
-        {
-          "name": "OVSKY",
-          "url": "https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX"
-        }
-      ],
-      "duration_ms": 136721,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/2xi62GyRkDq52Ytj1cEDfv"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Left Or Right",
-        "url": "https://open.spotify.com/album/5b7e1Oph2YSLKHw0hxPMn6"
-      },
-      "artists": [
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Matthew Nolan",
-          "url": "https://open.spotify.com/artist/00eBZtIQVnVtZHOW1qDDDn"
-        }
-      ],
-      "duration_ms": 193250,
-      "name": "Left Or Right",
-      "url": "https://open.spotify.com/track/4xNYBLLd9x2DA9ZW7DYYcg"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Escape (feat. Hayla)",
         "url": "https://open.spotify.com/album/1VvswDkZLX5hUgFW7F79GI"
       },
@@ -3979,6 +3943,42 @@
       "duration_ms": 240445,
       "name": "Escape (feat. Hayla)",
       "url": "https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Left Or Right",
+        "url": "https://open.spotify.com/album/5b7e1Oph2YSLKHw0hxPMn6"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Matthew Nolan",
+          "url": "https://open.spotify.com/artist/00eBZtIQVnVtZHOW1qDDDn"
+        }
+      ],
+      "duration_ms": 193250,
+      "name": "Left Or Right",
+      "url": "https://open.spotify.com/track/4xNYBLLd9x2DA9ZW7DYYcg"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/2F4Q6HSJXIl60UymuxOaKo"
+      },
+      "artists": [
+        {
+          "name": "OVSKY",
+          "url": "https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX"
+        }
+      ],
+      "duration_ms": 136721,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/2xi62GyRkDq52Ytj1cEDfv"
     },
     {
       "added_at": "2024-07-26 04:00:00",

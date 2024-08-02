@@ -4,7 +4,7 @@
 
 > African dance party music from the continent to Paris\. Photo : Serge Beynaud
 
-192 songs - 10 hr 58 min
+193 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Côte d'Ivoire est Zo](https://open.spotify.com/track/2FHdjSKM2QJ4S1LJIaWHH1) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Original](https://open.spotify.com/album/5I4B1XJgKp8k6HLm6RADCS) | 2:46 | 2023-11-09 | 2023-12-22 |
 | [Côte d'Ivoire est Zo](https://open.spotify.com/track/5sx7LpOTySbPCcisFczEL0) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Original](https://open.spotify.com/album/5oT182GLec59tXn1Glc3hI) | 2:46 | 2023-11-09 | 2023-11-12 |
 | [Dadado](https://open.spotify.com/track/5vl7f5amLLp8nYv4b74XxZ) | [Bébé Baya](https://open.spotify.com/artist/5zJCChWvZvn93HvWKNPvod), [Fishkiller](https://open.spotify.com/artist/1C6LOx5DP2ylyB2KVuV4fs) | [Dadado](https://open.spotify.com/album/0dli480IYmrLBuhhKmPKoJ) | 3:22 | 2021-12-20 | 2022-05-06 |
+| [Danse comme nicapol](https://open.spotify.com/track/1ERTZRnikTXqFzWlvYjidK) | [Juncko](https://open.spotify.com/artist/4tKswSKzVZ0hQ35Fo5TLes) | [Danse comme nicapol](https://open.spotify.com/album/7cOvEs8WATDI5f6mrShnCy) | 2:47 | 2024-08-01 |  |
 | [Debout couler](https://open.spotify.com/track/0mGXMd7mni2MQeygIXa5OJ) | [Chouchou Salvador](https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI) | [Debout couler](https://open.spotify.com/album/5Kd15ctpwOulgkxzNZTUtl) | 3:40 | 2024-03-07 |  |
 | [Delta force](https://open.spotify.com/track/1QR5eo1mMXlKAn6Hv5Db9Q) | [Samarino](https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7) | [Chambre Noire](https://open.spotify.com/album/3IATloMilRD68c5FtSfPGv) | 3:41 | 2022-06-16 | 2022-08-05 |
 | [Demain](https://open.spotify.com/track/3TQGj5SEtcmTDNo6bgRsd3) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Elus De Dieu \(Deluxe\)](https://open.spotify.com/album/2Jd8cTkftvmpqWUIIScr1x) | 3:56 | 2023-09-21 |  |
@@ -143,7 +144,7 @@
 | [Mon gar](https://open.spotify.com/track/2OtsMf8cvkkogm5yJZyh44) | [Yilim](https://open.spotify.com/artist/1UAzbRXl5HrFENZFNtmO09) | [Mon gar](https://open.spotify.com/album/7KSSQ9nredhRwgVpwU6jBe) | 3:30 | 2023-01-05 | 2024-02-02 |
 | [Mon nom](https://open.spotify.com/track/45XiGbtboVhKVy0pt58C9B) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Mon nom](https://open.spotify.com/album/7cbpbkoPQ5NkKZ6rmDRjcd) | 3:42 | 2021-12-20 | 2022-01-22 |
 | [MOTIVATION](https://open.spotify.com/track/5hS82eevCQ6KEToDTjJ9jz) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [MOTIVATION](https://open.spotify.com/album/6tsJ3OpV0kSm8G5oYrlsJP) | 3:40 | 2022-01-21 | 2022-06-17 |
-| [MOUSSA](https://open.spotify.com/track/2WF4PuPMq109K72DLcrzuJ) | [Lil Jay Bingerack](https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu) | [MOUSSA](https://open.spotify.com/album/0hCd08N0okkUfvjJLWtfsn) | 2:46 | 2024-05-23 |  |
+| [MOUSSA](https://open.spotify.com/track/2WF4PuPMq109K72DLcrzuJ) | [Lil Jay Bingerack](https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu) | [MOUSSA](https://open.spotify.com/album/0hCd08N0okkUfvjJLWtfsn) | 2:46 | 2024-05-23 | 2024-08-02 |
 | [Mozo Dance](https://open.spotify.com/track/0dwgVvBmuaoiJJUOkNS8VX) | [Ramses Tikaya](https://open.spotify.com/artist/0q00AIYSAbXj18rBqWCYT1), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Pikatchou Le Moine](https://open.spotify.com/artist/2I1IZqjxZgLQmBSkk7LZl2) | [Mozo Dance](https://open.spotify.com/album/4CfE5TqPCpZTJ5YvKAZhVb) | 3:40 | 2023-01-05 | 2023-04-07 |
 | [Môgô Fariman](https://open.spotify.com/track/6H9f90Md53mcvSyeBaPKGl) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Môgô Fariman](https://open.spotify.com/album/6jmffQa8Asr8AOX0SE0yrl) | 4:18 | 2023-07-13 |  |
 | [Môkôdô](https://open.spotify.com/track/6h8y0m2kxxmmpqWRnRIQ6h) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Môkôdô](https://open.spotify.com/album/0EyG4YFFoRm8WJyXvHRJfD) | 3:38 | 2022-12-08 |  |

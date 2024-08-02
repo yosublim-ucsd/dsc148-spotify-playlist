@@ -1,6 +1,6 @@
 {
   "description": "MC IG e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 372326,
+  "num_followers": 372449,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,38 @@
     {
       "added_at": "2024-07-30 04:15:20",
       "album": {
+        "name": "Sempre na Simplicidade",
+        "url": "https://open.spotify.com/album/28vY5m1Agyk9IdbgWacYow"
+      },
+      "artists": [
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Dj Victor",
+          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
+        },
+        {
+          "name": "Boladin 211",
+          "url": "https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW"
+        },
+        {
+          "name": "MC Vine7",
+          "url": "https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Sempre na Simplicidade",
+      "url": "https://open.spotify.com/track/4XaLEsmrRGSDkgd7qpn4Nl"
+    },
+    {
+      "added_at": "2024-07-30 04:15:20",
+      "album": {
         "name": "Ritmista 1.0",
         "url": "https://open.spotify.com/album/3WGjmOFzUrvNmkiiqevMbJ"
       },
@@ -375,34 +407,22 @@
     {
       "added_at": "2024-07-30 04:15:20",
       "album": {
-        "name": "Sempre na Simplicidade",
-        "url": "https://open.spotify.com/album/28vY5m1Agyk9IdbgWacYow"
+        "name": "Mist\u00e9rios",
+        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
       },
       "artists": [
         {
-          "name": "MC LUUKY",
-          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
         },
         {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Dj Victor",
-          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
-        },
-        {
-          "name": "Boladin 211",
-          "url": "https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW"
-        },
-        {
-          "name": "MC Vine7",
-          "url": "https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP"
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
         }
       ],
-      "duration_ms": 300000,
-      "name": "Sempre na Simplicidade",
-      "url": "https://open.spotify.com/track/4XaLEsmrRGSDkgd7qpn4Nl"
+      "duration_ms": 136695,
+      "name": "Mist\u00e9rios",
+      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
     },
     {
       "added_at": "2024-07-30 04:15:20",
@@ -439,30 +459,6 @@
       "duration_ms": 445000,
       "name": "Avisa L\u00e1, Pt. 4",
       "url": "https://open.spotify.com/track/0h7m2GwOZFptFrg7e7tiTn"
-    },
-    {
-      "added_at": "2024-07-30 04:15:20",
-      "album": {
-        "name": "Melhor S\u00f3",
-        "url": "https://open.spotify.com/album/17QQ2RosBKKrV5bHh4Z8tJ"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/5akTJ4daDNwrs95KlgQgY5"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/3eLR6eOKqqNDtHTbABNkn1"
-        }
-      ],
-      "duration_ms": 229326,
-      "name": "Melhor S\u00f3",
-      "url": "https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a"
     },
     {
       "added_at": "2024-07-30 04:15:20",
@@ -595,6 +591,66 @@
     {
       "added_at": "2024-07-30 04:15:20",
       "album": {
+        "name": "Desacato",
+        "url": "https://open.spotify.com/album/0pJN3wcy6eveGD29QGBJt8"
+      },
+      "artists": [
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "MC Gui Da Norte",
+          "url": "https://open.spotify.com/artist/1PC8RPtwfgPPdlxyAsd1Bw"
+        }
+      ],
+      "duration_ms": 438748,
+      "name": "Desacato",
+      "url": "https://open.spotify.com/track/1fzaUKQv7sgGW0udQVghSW"
+    },
+    {
+      "added_at": "2024-07-30 04:15:20",
+      "album": {
+        "name": "Promessas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5rNrVJUHUAQi0NRibNMllj"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 204938,
+      "name": "Promessas - Ao Vivo",
+      "url": "https://open.spotify.com/track/5eMQVA6iz94w9D4VvRCrEy"
+    },
+    {
+      "added_at": "2024-07-30 04:15:20",
+      "album": {
         "name": "Pagodeiro, Pt. 2",
         "url": "https://open.spotify.com/album/0lkozsIGRTBmRrylBpfOSj"
       },
@@ -647,28 +703,8 @@
     {
       "added_at": "2024-07-30 04:15:20",
       "album": {
-        "name": "Promessas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5rNrVJUHUAQi0NRibNMllj"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        },
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 204938,
-      "name": "Promessas - Ao Vivo",
-      "url": "https://open.spotify.com/track/5eMQVA6iz94w9D4VvRCrEy"
-    },
-    {
-      "added_at": "2024-07-30 04:15:20",
-      "album": {
-        "name": "Mist\u00e9rios",
-        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
+        "name": "Melhor S\u00f3",
+        "url": "https://open.spotify.com/album/17QQ2RosBKKrV5bHh4Z8tJ"
       },
       "artists": [
         {
@@ -676,53 +712,17 @@
           "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
         },
         {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/5akTJ4daDNwrs95KlgQgY5"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/3eLR6eOKqqNDtHTbABNkn1"
         }
       ],
-      "duration_ms": 136695,
-      "name": "Mist\u00e9rios",
-      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
-    },
-    {
-      "added_at": "2024-07-30 04:15:20",
-      "album": {
-        "name": "Desacato",
-        "url": "https://open.spotify.com/album/0pJN3wcy6eveGD29QGBJt8"
-      },
-      "artists": [
-        {
-          "name": "MC LUUKY",
-          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "TrapLaudo",
-          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
-        },
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "MC Gui Da Norte",
-          "url": "https://open.spotify.com/artist/1PC8RPtwfgPPdlxyAsd1Bw"
-        }
-      ],
-      "duration_ms": 438748,
-      "name": "Desacato",
-      "url": "https://open.spotify.com/track/1fzaUKQv7sgGW0udQVghSW"
+      "duration_ms": 229326,
+      "name": "Melhor S\u00f3",
+      "url": "https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a"
     },
     {
       "added_at": "2024-07-30 04:15:20",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-07-30 04:15:20",
       "album": {
+        "name": "Open Bar do Caju, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3EbL5V33iZPrrTsoFpPVjZ"
+      },
+      "artists": [
+        {
+          "name": "Caju Pra Baixo",
+          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
+        }
+      ],
+      "duration_ms": 281598,
+      "name": "Amor de Fim de Noite / Morena da Cor do Pecado - Ao Vivo",
+      "url": "https://open.spotify.com/track/4WBuYFw26LcnSuScYQiVNH"
+    },
+    {
+      "added_at": "2024-07-30 04:15:20",
+      "album": {
         "name": "Um Toque de Malandragem",
         "url": "https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 277411,
       "name": "Perfeita",
       "url": "https://open.spotify.com/track/6a35UETcJteB4oVCSFoAqr"
-    },
-    {
-      "added_at": "2024-07-30 04:15:20",
-      "album": {
-        "name": "Open Bar do Caju, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3EbL5V33iZPrrTsoFpPVjZ"
-      },
-      "artists": [
-        {
-          "name": "Caju Pra Baixo",
-          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
-        }
-      ],
-      "duration_ms": 281598,
-      "name": "Amor de Fim de Noite / Morena da Cor do Pecado - Ao Vivo",
-      "url": "https://open.spotify.com/track/4WBuYFw26LcnSuScYQiVNH"
     },
     {
       "added_at": "2024-07-30 04:15:20",

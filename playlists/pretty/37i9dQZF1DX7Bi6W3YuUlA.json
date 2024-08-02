@@ -1,6 +1,6 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  <a href=\"spotify:artist:2d8NsBa8O4C6bgQatFP5V4\">nobigdyl.</a>",
-  "num_followers": 46790,
+  "num_followers": 46846,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "I Love It",
-        "url": "https://open.spotify.com/album/2Xy6iLb2skc9sP2LVw8W00"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 162403,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/33gnHgG4uhgFpdig9KkwgV"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "No Loss",
         "url": "https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 175018,
       "name": "No Loss",
       "url": "https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "I Love It",
+        "url": "https://open.spotify.com/album/2Xy6iLb2skc9sP2LVw8W00"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 162403,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/33gnHgG4uhgFpdig9KkwgV"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
+        "name": "It Could Be Worse",
+        "url": "https://open.spotify.com/album/4hhMSsLW0rRcNmXFF9qWPw"
+      },
+      "artists": [
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "duration_ms": 144021,
+      "name": "It Could Be Worse",
+      "url": "https://open.spotify.com/track/1pn9N05evZd09npQBnsC31"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
         "name": "ME VS ME",
         "url": "https://open.spotify.com/album/5zQDF50GuLGKsOCieanQ28"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 189116,
       "name": "ME VS ME",
       "url": "https://open.spotify.com/track/3rOfhtBKOJ24iFcLyrYTmq"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "It Could Be Worse",
-        "url": "https://open.spotify.com/album/4hhMSsLW0rRcNmXFF9qWPw"
-      },
-      "artists": [
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        }
-      ],
-      "duration_ms": 144021,
-      "name": "It Could Be Worse",
-      "url": "https://open.spotify.com/track/1pn9N05evZd09npQBnsC31"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "Wins",
-        "url": "https://open.spotify.com/album/5UtwE8AZGxOUIIntICw3Bq"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 155287,
-      "name": "Wins",
-      "url": "https://open.spotify.com/track/4vlHzPQvMeDi5ISpZpeF3x"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "Ascend",
         "url": "https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 198095,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "Wins",
+        "url": "https://open.spotify.com/album/5UtwE8AZGxOUIIntICw3Bq"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 155287,
+      "name": "Wins",
+      "url": "https://open.spotify.com/track/4vlHzPQvMeDi5ISpZpeF3x"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "ON THA SEAT",
-        "url": "https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk"
-      },
-      "artists": [
-        {
-          "name": "adriansings",
-          "url": "https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW"
-        }
-      ],
-      "duration_ms": 207068,
-      "name": "ON THA SEAT",
-      "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "Everywhere + Nowhere (Black Edition Deluxe)",
         "url": "https://open.spotify.com/album/308B9tBVWyLjjLan4517p4"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 188443,
       "name": "Very Original",
       "url": "https://open.spotify.com/track/5qbzWsGFJ6zLDTim11yaLa"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "ON THA SEAT",
+        "url": "https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk"
+      },
+      "artists": [
+        {
+          "name": "adriansings",
+          "url": "https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW"
+        }
+      ],
+      "duration_ms": 207068,
+      "name": "ON THA SEAT",
+      "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
+        "name": "Reality Checks",
+        "url": "https://open.spotify.com/album/2HhfhRKQym6KfjQdQAZ4Wo"
+      },
+      "artists": [
+        {
+          "name": "Dru Bex",
+          "url": "https://open.spotify.com/artist/11hR4oPRwSDzaUMTPzYuoe"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Reality Checks",
+      "url": "https://open.spotify.com/track/0hgTeA5UfYmCzhf7z1uFlz"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/0ZWFhYDoBJVeEAhVbuz6lV"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 188500,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/4hCa5We6L6wU3poyLomJAz"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "Reality Checks",
-        "url": "https://open.spotify.com/album/2HhfhRKQym6KfjQdQAZ4Wo"
-      },
-      "artists": [
-        {
-          "name": "Dru Bex",
-          "url": "https://open.spotify.com/artist/11hR4oPRwSDzaUMTPzYuoe"
-        }
-      ],
-      "duration_ms": 190909,
-      "name": "Reality Checks",
-      "url": "https://open.spotify.com/track/0hgTeA5UfYmCzhf7z1uFlz"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
+        "name": "Heart Of Stone",
+        "url": "https://open.spotify.com/album/2Byl93qpgHvXUwDOjWQ6sf"
+      },
+      "artists": [
+        {
+          "name": "Jordan May",
+          "url": "https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v"
+        }
+      ],
+      "duration_ms": 255798,
+      "name": "Heart Of Stone",
+      "url": "https://open.spotify.com/track/6lvpoTzcmKZ1j0GceiPvdz"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
         "name": "No Popstar",
         "url": "https://open.spotify.com/album/6Mj4lFRr13kDnwKVz9AEW9"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 194285,
       "name": "No Popstar",
       "url": "https://open.spotify.com/track/4NOasKvxJd9CSSyDJ9C1DQ"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "Heart Of Stone",
-        "url": "https://open.spotify.com/album/2Byl93qpgHvXUwDOjWQ6sf"
-      },
-      "artists": [
-        {
-          "name": "Jordan May",
-          "url": "https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v"
-        }
-      ],
-      "duration_ms": 255798,
-      "name": "Heart Of Stone",
-      "url": "https://open.spotify.com/track/6lvpoTzcmKZ1j0GceiPvdz"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1903,22 +1903,18 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "NAH",
-        "url": "https://open.spotify.com/album/7dR0lHi4CFJv1QCDwwv3Lx"
+        "name": "Die For You (the warehouse sessions)",
+        "url": "https://open.spotify.com/album/33LGn7uYy3JljgJ9N8C7Yq"
       },
       "artists": [
         {
-          "name": "Tre'Gadd",
-          "url": "https://open.spotify.com/artist/6NCcfV9K0gZqFBfFLQqWRH"
-        },
-        {
-          "name": "NXTMIKE",
-          "url": "https://open.spotify.com/artist/2yMOYu5UEVMeoZmBczRR5g"
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
         }
       ],
-      "duration_ms": 122666,
-      "name": "NAH",
-      "url": "https://open.spotify.com/track/1ZD1B2PFcK5reDvjQ0Dffu"
+      "duration_ms": 178257,
+      "name": "Die For You - the warehouse sessions",
+      "url": "https://open.spotify.com/track/3MBqpiYpy3UVAZfhYy8RLI"
     }
   ],
   "unique_name": "Blessings",

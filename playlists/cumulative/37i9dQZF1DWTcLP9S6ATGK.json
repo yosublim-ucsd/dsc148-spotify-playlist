@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Rizwan Fadillah",
+  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: JESENN",
   "name": "Musik Akhir Pekan",
   "tracks": [
     {
@@ -52,10 +52,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 285248,
       "name": "Akhir Cinta",
       "url": "https://open.spotify.com/track/2RcgOUhhLdK3cDi5ROBdD5"
+    },
+    {
+      "album": {
+        "name": "Asal Kau Setia",
+        "url": "https://open.spotify.com/album/72ewUTUCGva6ZssfZocK0B"
+      },
+      "artists": [
+        {
+          "name": "Ilir7",
+          "url": "https://open.spotify.com/artist/2Qq9xKJKNbWzXQpO9ueKwc"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "Asal Kau Setia",
+      "url": "https://open.spotify.com/track/6HTmI2i0dHqIri9N7zFLB9"
     },
     {
       "album": {
@@ -146,6 +164,24 @@
       "duration_ms": 214491,
       "name": "Bagaimana Ku Bisa",
       "url": "https://open.spotify.com/track/3qMt6x9lCGhKs6OCsw4ZBo"
+    },
+    {
+      "album": {
+        "name": "Baik Adanya",
+        "url": "https://open.spotify.com/album/4Io9u4BIIsnDofyihVIZnF"
+      },
+      "artists": [
+        {
+          "name": "JESENN",
+          "url": "https://open.spotify.com/artist/3cNQyXzy5m2IL2qplegOSq"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200860,
+      "name": "Baik Adanya",
+      "url": "https://open.spotify.com/track/4VByqnUukW7PbNcsNt9R9A"
     },
     {
       "album": {
@@ -269,6 +305,28 @@
     },
     {
       "album": {
+        "name": "Berlalu (Demo)",
+        "url": "https://open.spotify.com/album/5mEQuTI0GBmCxkAqXXEowr"
+      },
+      "artists": [
+        {
+          "name": "Derai",
+          "url": "https://open.spotify.com/artist/5sCGE57PAwZPpH4c2sNCwn"
+        },
+        {
+          "name": "Feby Putri",
+          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194613,
+      "name": "Berlalu - Demo",
+      "url": "https://open.spotify.com/track/0bJsVv49d5F0zqNARXdoux"
+    },
+    {
+      "album": {
         "name": "Bermuara",
         "url": "https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd"
       },
@@ -345,6 +403,28 @@
     },
     {
       "album": {
+        "name": "Bukan Akhir Dunia",
+        "url": "https://open.spotify.com/album/2hiIxjEddgdbFY21qAaLyp"
+      },
+      "artists": [
+        {
+          "name": "TANIA",
+          "url": "https://open.spotify.com/artist/4b2s00tyEITEmK4nFotlJI"
+        },
+        {
+          "name": "Langit Sore",
+          "url": "https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256706,
+      "name": "Bukan Akhir Dunia",
+      "url": "https://open.spotify.com/track/30XDroGTzYYVDhHU3NzMWw"
+    },
+    {
+      "album": {
         "name": "Bukan Dengan Dia",
         "url": "https://open.spotify.com/album/6F8ak3UeNmOXcE4v3KctlC"
       },
@@ -386,6 +466,28 @@
       "duration_ms": 258497,
       "name": "Bukan Karena Tak Cinta",
       "url": "https://open.spotify.com/track/66mmXcrSk8HfyIf28hRGIT"
+    },
+    {
+      "album": {
+        "name": "Bukan Salah Kopi",
+        "url": "https://open.spotify.com/album/06qo7RWRaUjXJsvaPsMeLA"
+      },
+      "artists": [
+        {
+          "name": "D'Cinnamons",
+          "url": "https://open.spotify.com/artist/7mW0FqPhqBN7ixFImDMEYA"
+        },
+        {
+          "name": "Jubing Kristianto",
+          "url": "https://open.spotify.com/artist/7eG4BectpbPzbNvVkrWCdD"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251500,
+      "name": "Bukan Salah Kopi",
+      "url": "https://open.spotify.com/track/21rc0KR6kZnPVNFJ4ZJa3b"
     },
     {
       "album": {
@@ -802,7 +904,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 306226,
       "name": "Hanya Tentang Waktu",
       "url": "https://open.spotify.com/track/3vYZUoXqJ5R30PgZrKPauo"
@@ -928,7 +1030,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 244878,
       "name": "Ikrar",
       "url": "https://open.spotify.com/track/1OgA9TJ5Ufreycsge4hmMO"
@@ -980,7 +1082,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 199100,
       "name": "Ironi",
       "url": "https://open.spotify.com/track/190I0SRAUoxqrGK9nDnIpq"
@@ -1196,7 +1298,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 189090,
       "name": "Kasitau",
       "url": "https://open.spotify.com/track/6c4otFV32G19l71LPRI3Fb"
@@ -1214,7 +1316,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 235657,
       "name": "Katakan Padanya",
       "url": "https://open.spotify.com/track/60Taeqfhkk3I0mIt4L4bfo"
@@ -1344,7 +1446,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 236590,
       "name": "Kuat",
       "url": "https://open.spotify.com/track/1E8Ahc6hhfHMiwf0cOmvtn"
@@ -1503,6 +1605,28 @@
     },
     {
       "album": {
+        "name": "Malam Biru",
+        "url": "https://open.spotify.com/album/1IXD6scCPR16lgCHSWpuhB"
+      },
+      "artists": [
+        {
+          "name": "Opie Batfeny",
+          "url": "https://open.spotify.com/artist/275CbE2Fh9fcErSLQrhHVF"
+        },
+        {
+          "name": "Sandhy Sondoro",
+          "url": "https://open.spotify.com/artist/4sZCNSc9bpEa6bjM8Z3NOu"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170727,
+      "name": "Malam Biru",
+      "url": "https://open.spotify.com/track/0dPZRzIVqBlXJluOGOyRFW"
+    },
+    {
+      "album": {
         "name": "Malam Tolong Sampaikan",
         "url": "https://open.spotify.com/album/5roabvYPq1EIjBRoBXlPu8"
       },
@@ -1604,7 +1728,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 231000,
       "name": "Maumu Apa",
       "url": "https://open.spotify.com/track/38OeRntmd4MLNMqvNvKhAV"
@@ -1662,7 +1786,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 240345,
       "name": "Mengalah Tetap Salah",
       "url": "https://open.spotify.com/track/0fRENlzBJ9NKvIeI6TouYG"
@@ -1720,6 +1844,28 @@
       "duration_ms": 250615,
       "name": "Menikahimu - Remastered",
       "url": "https://open.spotify.com/track/49ISa9D2NIBek3SFdiDhbf"
+    },
+    {
+      "album": {
+        "name": "Harmoni Kebangsaan",
+        "url": "https://open.spotify.com/album/4CFbMJX5duQEaxz8Ip4wE1"
+      },
+      "artists": [
+        {
+          "name": "Armand Maulana",
+          "url": "https://open.spotify.com/artist/1HHKUckpOnrE6c6YlbYzZb"
+        },
+        {
+          "name": "Isnaeni Achdiat",
+          "url": "https://open.spotify.com/artist/5vKfDryx2kVwjCsymTqJMO"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243333,
+      "name": "Merah Putih di Langit Biru",
+      "url": "https://open.spotify.com/track/3B5H83Fmh4Qno9rHSMD3m0"
     },
     {
       "album": {
@@ -2102,7 +2248,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 247164,
       "name": "Ruang Luka",
       "url": "https://open.spotify.com/track/4f1mDUpM4c62Nhf0yW9HXV"
@@ -2244,6 +2390,28 @@
       "duration_ms": 217219,
       "name": "Selimut Rindu",
       "url": "https://open.spotify.com/track/6jjHaJQkryIX7UB3E5Zb00"
+    },
+    {
+      "album": {
+        "name": "Semua Cinta",
+        "url": "https://open.spotify.com/album/0WrWwVBtNcv6gzYtSQH9JO"
+      },
+      "artists": [
+        {
+          "name": "Bragi",
+          "url": "https://open.spotify.com/artist/0sKPWtHbmPXRBZDocnmjNG"
+        },
+        {
+          "name": "Dudy Oris",
+          "url": "https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254487,
+      "name": "Semua Cinta",
+      "url": "https://open.spotify.com/track/16vZp4ncPm0otuupSp9tOx"
     },
     {
       "album": {
@@ -2496,6 +2664,24 @@
       "duration_ms": 278400,
       "name": "Terima Kasih (Catatan Harian Menantu Sinting Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/5A6PgWbDitOtH5eTVZ3Md3"
+    },
+    {
+      "album": {
+        "name": "Terima Kasih Guruku (Guruku Tersayang)",
+        "url": "https://open.spotify.com/album/02s0GD3LaQu62L9dgG9b4T"
+      },
+      "artists": [
+        {
+          "name": "Iren Glory",
+          "url": "https://open.spotify.com/artist/7tkbfHtHXuuUvs0kWfSwa0"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136170,
+      "name": "Terima Kasih Guruku (Guruku Tersayang)",
+      "url": "https://open.spotify.com/track/4PLY3JB1sPhgWiSxQdovCG"
     },
     {
       "album": {

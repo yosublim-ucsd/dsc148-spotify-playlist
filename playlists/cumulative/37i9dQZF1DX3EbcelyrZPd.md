@@ -2,9 +2,9 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Diamond Platnumz, Jason Derulo, Khalil Harrison, Chley
+> Get your fill of vibes straight out of Tanzania\. Cover: Iyanya and Rayvanny
 
-430 songs - 1 day 0 hr 44 min
+431 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Falling](https://open.spotify.com/track/4OjohSrMjXzPwH64ICPsiB) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Falling](https://open.spotify.com/album/7uk0eVcrenwRaNqeT6Rf7p) | 2:59 | 2023-06-08 | 2024-02-02 |
 | [Falling](https://open.spotify.com/track/2hyUzNsKT454MY5Ro0nnD7) | [Narah Elba](https://open.spotify.com/artist/49xus9KjnESiLPl9EQuvU4) | [Falling](https://open.spotify.com/album/6gXbJ7vbb4mQWAqOjv6eon) | 2:39 | 2024-03-07 | 2024-03-22 |
 | [Far Away](https://open.spotify.com/track/57PEYoPJxjMy35SNHtvwmf) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Far Away](https://open.spotify.com/album/6IZQtDq5yQhutjBTIN3E15) | 3:02 | 2023-10-19 | 2023-12-08 |
+| [Fashion Killer](https://open.spotify.com/track/1j5hSr4QLeAdAFyr6sbZUT) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4) | [Fashion Killer](https://open.spotify.com/album/0xpHYjPOkLSP0LtnXvCPhj) | 2:17 | 2024-08-02 |  |
 | [Final](https://open.spotify.com/track/5mFGSbg87MiGcbyvJ1CyZU) | [Cheed](https://open.spotify.com/artist/2qB04YVOV3cm2YSEn5L90z) | [Final](https://open.spotify.com/album/1tIams5EiCYLSlutOW04rU) | 3:00 | 2021-10-29 | 2022-03-04 |
 | [Finesse \(East African Mix\) \- feat\. Rayvanny & Theecember](https://open.spotify.com/track/1mKt6MgYyZv6h8aTxX4ng8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Theecember](https://open.spotify.com/artist/0rzJVsg2Vmtvh9yBrPB2fs) | [Finesse \(East African Mix\) \[feat\. Rayvanny & Theecember\]](https://open.spotify.com/album/1eo8bkskV4VPzTLvKidTbE) | 2:35 | 2022-06-30 | 2023-01-13 |
 | [Fly Away](https://open.spotify.com/track/56y1MbtIRUbWUsR7pBE5ub) | [Navy Kenzo](https://open.spotify.com/artist/7oHH7jM5KdlCLHjr3OshQx) | [Fly Away](https://open.spotify.com/album/16fg1IYAkOpS2hdzltwys7) | 2:47 | 2023-11-17 | 2024-05-10 |
@@ -423,7 +424,7 @@
 | [Wololo](https://open.spotify.com/track/2T3VV5Z3JkWLQl9qEAvqXd) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Wololo](https://open.spotify.com/album/75wI90vteHYUkb6tP4bOSA) | 3:53 | 2024-04-18 |  |
 | [Wote](https://open.spotify.com/track/7vYxNbbyISaUiZ3Q5wkGFG) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Made For Us](https://open.spotify.com/album/2H5LMQ3oXWcd2lxP3nW8NR) | 3:31 | 2023-01-12 | 2023-09-15 |
 | [Yalaiti \(feat\. Sabah Salum\)](https://open.spotify.com/track/1njIXeYvGPfkbyW9OXUCQE) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Sabah Salum](https://open.spotify.com/artist/5oP4uabOkPBwa7nQgcmfqk) | [Yalaiti \(feat\. Sabah Salum\)](https://open.spotify.com/album/4TtVxE5tQGvLYMtRARphQ7) | 3:25 | 2023-12-08 | 2024-05-03 |
-| [Yamenishika \(Remix\) \[feat\. Nandy\]](https://open.spotify.com/track/3vmvMTCmHkboHfqaFWB5ae) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9), [Nandy](https://open.spotify.com/artist/5rc8E6DVPnRrYDIqYv4HhH) | [Yamenishika \(Remix\) \[feat\. Nandy\]](https://open.spotify.com/album/7cBairg5UxvBZOLTmiYQo0) | 3:17 | 2023-09-21 |  |
+| [Yamenishika \(Remix\) \[feat\. Nandy\]](https://open.spotify.com/track/3vmvMTCmHkboHfqaFWB5ae) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9), [Nandy](https://open.spotify.com/artist/5rc8E6DVPnRrYDIqYv4HhH) | [Yamenishika \(Remix\) \[feat\. Nandy\]](https://open.spotify.com/album/7cBairg5UxvBZOLTmiYQo0) | 3:17 | 2023-09-21 | 2024-08-02 |
 | [Yanga Anthem](https://open.spotify.com/track/4jRRo64OzwBCrnO1saAE0q) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Yanga Anthem](https://open.spotify.com/album/3adR7VXxB4rXdHQ3pQEEYJ) | 3:50 | 2022-09-01 | 2022-09-23 |
 | [Yatapita](https://open.spotify.com/track/5osJXf9jysiW72jZQ0tTKD) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Yatapita](https://open.spotify.com/album/5uTKAcHVaMTbaEfORUWZrD) | 4:59 | 2023-01-19 | 2023-10-13 |
 | [Yaya \(feat\. Diamond Platnumz & Jux\)](https://open.spotify.com/track/15ObWtsj5TVgUybcGsHoIf) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Yaya \(feat\. Diamond Platnumz & Jux\)](https://open.spotify.com/album/4DukccL0dV6cqfWlJ8xqia) | 5:19 | 2023-07-20 | 2024-04-19 |

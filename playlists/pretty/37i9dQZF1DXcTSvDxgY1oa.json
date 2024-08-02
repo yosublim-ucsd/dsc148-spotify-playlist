@@ -195,22 +195,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Tide",
-        "url": "https://open.spotify.com/album/6xkoo0lC94cz5ry7nicfZ9"
-      },
-      "artists": [
-        {
-          "name": "Reginald Somai",
-          "url": "https://open.spotify.com/artist/0N8tHjW0sCFUPaEwloxXjr"
-        }
-      ],
-      "duration_ms": 112810,
-      "name": "Tide",
-      "url": "https://open.spotify.com/track/25r4hGcPiLIh1sl6FK7TZV"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "R\u00eaverie",
         "url": "https://open.spotify.com/album/5Kiks4Noq6GA4sbCfzn2W8"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 75000,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/09AsbZCJfiybFmWIfki6xL"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Tide",
+        "url": "https://open.spotify.com/album/6xkoo0lC94cz5ry7nicfZ9"
+      },
+      "artists": [
+        {
+          "name": "Reginald Somai",
+          "url": "https://open.spotify.com/artist/0N8tHjW0sCFUPaEwloxXjr"
+        }
+      ],
+      "duration_ms": 112810,
+      "name": "Tide",
+      "url": "https://open.spotify.com/track/25r4hGcPiLIh1sl6FK7TZV"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -455,18 +455,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "23 going on 18",
-        "url": "https://open.spotify.com/album/1EYU7mpC2qzxDqg37sOF0V"
+        "name": "Zoals Jij",
+        "url": "https://open.spotify.com/album/4uNTLh7yEtxmI40JBLymIA"
       },
       "artists": [
         {
-          "name": "Julia Tan",
-          "url": "https://open.spotify.com/artist/374YxFhhT3jJ5Z61DzUphc"
+          "name": "ANDRO",
+          "url": "https://open.spotify.com/artist/2VOCs6lYNw7KgXminnltr5"
         }
       ],
-      "duration_ms": 227369,
-      "name": "23 going on 18",
-      "url": "https://open.spotify.com/track/3vn3Wzc3juvKqy4SZqTSZe"
+      "duration_ms": 129272,
+      "name": "Zoals Jij",
+      "url": "https://open.spotify.com/track/7mOnZDmJEpBrAPlWpSm4G9"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Zoals Jij",
-        "url": "https://open.spotify.com/album/4uNTLh7yEtxmI40JBLymIA"
-      },
-      "artists": [
-        {
-          "name": "ANDRO",
-          "url": "https://open.spotify.com/artist/2VOCs6lYNw7KgXminnltr5"
-        }
-      ],
-      "duration_ms": 129272,
-      "name": "Zoals Jij",
-      "url": "https://open.spotify.com/track/7mOnZDmJEpBrAPlWpSm4G9"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Sun Flavoured Ice Cream",
         "url": "https://open.spotify.com/album/62PrBLRNfcdDzqi3U7ZVeg"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 202263,
       "name": "Sun Flavoured Ice Cream",
       "url": "https://open.spotify.com/track/5Y8KBgWc4NKiDdCeIl2KUO"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "23 going on 18",
+        "url": "https://open.spotify.com/album/1EYU7mpC2qzxDqg37sOF0V"
+      },
+      "artists": [
+        {
+          "name": "Julia Tan",
+          "url": "https://open.spotify.com/artist/374YxFhhT3jJ5Z61DzUphc"
+        }
+      ],
+      "duration_ms": 227369,
+      "name": "23 going on 18",
+      "url": "https://open.spotify.com/track/3vn3Wzc3juvKqy4SZqTSZe"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/5w0aKShwOj6hWC1w7I0z6O"
-      },
-      "artists": [
-        {
-          "name": "Isabel van Gelder",
-          "url": "https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP"
-        }
-      ],
-      "duration_ms": 196159,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/3pqPxWrCyUNb2wNhjF7qD8"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "A Price To Pay",
         "url": "https://open.spotify.com/album/0VFNHdKroUHNy1RAPaPMcC"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 191599,
       "name": "A Price To Pay",
       "url": "https://open.spotify.com/track/6V3fXDLceIQhV3oM6Zr9s7"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/5w0aKShwOj6hWC1w7I0z6O"
+      },
+      "artists": [
+        {
+          "name": "Isabel van Gelder",
+          "url": "https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP"
+        }
+      ],
+      "duration_ms": 196159,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/3pqPxWrCyUNb2wNhjF7qD8"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -775,6 +775,38 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/5vDmmQHLJZimZ0TqamqwK3"
+      },
+      "artists": [
+        {
+          "name": "Zo Lief",
+          "url": "https://open.spotify.com/artist/655lv153aeepabVfhjnGwq"
+        }
+      ],
+      "duration_ms": 178382,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/5nzLpp5vDgXj4J70Hi0aXX"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Liever Lui Dan Moe",
+        "url": "https://open.spotify.com/album/7CM8TADIvf0PIttpNdeccU"
+      },
+      "artists": [
+        {
+          "name": "R\u00f8yking",
+          "url": "https://open.spotify.com/artist/1NtnritmdQdSfebKWpcJdp"
+        }
+      ],
+      "duration_ms": 150233,
+      "name": "Liever Lui Dan Moe",
+      "url": "https://open.spotify.com/track/3TXRQwgtqyRB4oQoOVNYb5"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "Good Company",
         "url": "https://open.spotify.com/album/6nCiQeFyO9P57ltTcom8h5"
       },
@@ -803,38 +835,6 @@
       "duration_ms": 209002,
       "name": "Come On In",
       "url": "https://open.spotify.com/track/68Zcn2RvSbtRhldSRDfxsF"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "Liever Lui Dan Moe",
-        "url": "https://open.spotify.com/album/7CM8TADIvf0PIttpNdeccU"
-      },
-      "artists": [
-        {
-          "name": "R\u00f8yking",
-          "url": "https://open.spotify.com/artist/1NtnritmdQdSfebKWpcJdp"
-        }
-      ],
-      "duration_ms": 150233,
-      "name": "Liever Lui Dan Moe",
-      "url": "https://open.spotify.com/track/3TXRQwgtqyRB4oQoOVNYb5"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "Fool",
-        "url": "https://open.spotify.com/album/5vDmmQHLJZimZ0TqamqwK3"
-      },
-      "artists": [
-        {
-          "name": "Zo Lief",
-          "url": "https://open.spotify.com/artist/655lv153aeepabVfhjnGwq"
-        }
-      ],
-      "duration_ms": 178382,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/5nzLpp5vDgXj4J70Hi0aXX"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Even later in de tuin",
-        "url": "https://open.spotify.com/album/4kacum9sNlrE50wYFZJeG9"
-      },
-      "artists": [
-        {
-          "name": "Misprint",
-          "url": "https://open.spotify.com/artist/7KWqIJRyiEqmjguook7ypX"
-        }
-      ],
-      "duration_ms": 160611,
-      "name": "Even later in de tuin",
-      "url": "https://open.spotify.com/track/1EpMGlnDB4UuYIBNkdrenA"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Flat Caps And Rain Macs",
         "url": "https://open.spotify.com/album/5aCa25kATuBbnqu10kG8rw"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Los Anarquistitas",
-        "url": "https://open.spotify.com/album/0Sc7klbJtL1CHgPpRVL8P2"
+        "name": "Even later in de tuin",
+        "url": "https://open.spotify.com/album/4kacum9sNlrE50wYFZJeG9"
       },
       "artists": [
         {
-          "name": "shoom",
-          "url": "https://open.spotify.com/artist/5GwJf4rmQaNtNKph66vuxw"
+          "name": "Misprint",
+          "url": "https://open.spotify.com/artist/7KWqIJRyiEqmjguook7ypX"
         }
       ],
-      "duration_ms": 395966,
-      "name": "Los Anarquistitas",
-      "url": "https://open.spotify.com/track/3sBVgzLUoVNmR2lLspUzC8"
+      "duration_ms": 160611,
+      "name": "Even later in de tuin",
+      "url": "https://open.spotify.com/track/1EpMGlnDB4UuYIBNkdrenA"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "Los Anarquistitas",
+        "url": "https://open.spotify.com/album/0Sc7klbJtL1CHgPpRVL8P2"
+      },
+      "artists": [
+        {
+          "name": "shoom",
+          "url": "https://open.spotify.com/artist/5GwJf4rmQaNtNKph66vuxw"
+        }
+      ],
+      "duration_ms": 395966,
+      "name": "Los Anarquistitas",
+      "url": "https://open.spotify.com/track/3sBVgzLUoVNmR2lLspUzC8"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/2PmJb1X6naVRybkZADPjyj"
       },
@@ -1159,22 +1159,6 @@
       "duration_ms": 246000,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/0oadjfzZvkbgP7ob0T9ul1"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "Zwemmen In Het Geld",
-        "url": "https://open.spotify.com/album/0jZgZPtXtb0EnLxNeH9qlj"
-      },
-      "artists": [
-        {
-          "name": "Zeevlinder",
-          "url": "https://open.spotify.com/artist/1SQxjouaMdQ33xLh15463l"
-        }
-      ],
-      "duration_ms": 170883,
-      "name": "Zwemmen In Het Geld",
-      "url": "https://open.spotify.com/track/0GKRQlXAFUEFWi2mc5eqb3"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "IK WIL EEN PORSCHE",
+        "url": "https://open.spotify.com/album/2t3zTQB3anbtFj9dTiAwPr"
+      },
+      "artists": [
+        {
+          "name": "Viccens",
+          "url": "https://open.spotify.com/artist/2K8dGC0TSoOaL4DpuoZBB7"
+        }
+      ],
+      "duration_ms": 126816,
+      "name": "IK WIL EEN PORSCHE",
+      "url": "https://open.spotify.com/track/7kE1folhSAAu0RWjCQPqzh"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "Maar Verder Gaat Het Goed",
         "url": "https://open.spotify.com/album/6YVWLc3C8jrD0HHczwN1lO"
       },
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "Zwemmen In Het Geld",
+        "url": "https://open.spotify.com/album/0jZgZPtXtb0EnLxNeH9qlj"
+      },
+      "artists": [
+        {
+          "name": "Zeevlinder",
+          "url": "https://open.spotify.com/artist/1SQxjouaMdQ33xLh15463l"
+        }
+      ],
+      "duration_ms": 170883,
+      "name": "Zwemmen In Het Geld",
+      "url": "https://open.spotify.com/track/0GKRQlXAFUEFWi2mc5eqb3"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "met de beste intenties",
         "url": "https://open.spotify.com/album/7xyCBVnKr0yey5G94w2Z6Z"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 159669,
       "name": "beste intenties",
       "url": "https://open.spotify.com/track/4wb9qDF28vkAM0883WtUYP"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "IK WIL EEN PORSCHE",
-        "url": "https://open.spotify.com/album/2t3zTQB3anbtFj9dTiAwPr"
-      },
-      "artists": [
-        {
-          "name": "Viccens",
-          "url": "https://open.spotify.com/artist/2K8dGC0TSoOaL4DpuoZBB7"
-        }
-      ],
-      "duration_ms": 126816,
-      "name": "IK WIL EEN PORSCHE",
-      "url": "https://open.spotify.com/track/7kE1folhSAAu0RWjCQPqzh"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Black Beach",
-        "url": "https://open.spotify.com/album/2beZWwj39t1TxNo76LzwUS"
-      },
-      "artists": [
-        {
-          "name": "BlackBeach",
-          "url": "https://open.spotify.com/artist/46zJHbi4bdHcKnL9pln23P"
-        }
-      ],
-      "duration_ms": 371520,
-      "name": "8888",
-      "url": "https://open.spotify.com/track/7AnbsWeUbz0cKGlye9wcKG"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "YOYO",
         "url": "https://open.spotify.com/album/21uX5sFA6RULtHc25bFHBW"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 283124,
       "name": "YOYO",
       "url": "https://open.spotify.com/track/6Tc9xfkxp7JscJMhlziEeL"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Black Beach",
+        "url": "https://open.spotify.com/album/2beZWwj39t1TxNo76LzwUS"
+      },
+      "artists": [
+        {
+          "name": "BlackBeach",
+          "url": "https://open.spotify.com/artist/46zJHbi4bdHcKnL9pln23P"
+        }
+      ],
+      "duration_ms": 371520,
+      "name": "8888",
+      "url": "https://open.spotify.com/track/7AnbsWeUbz0cKGlye9wcKG"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Les Heures du Jour",
-        "url": "https://open.spotify.com/album/4QyIqQYLvj7AXXBiZQ2Mzg"
+        "name": "A Place Called Home (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6BMXEHWe34KWrKe857K2lb"
       },
       "artists": [
         {
-          "name": "Frerick Den Haan",
-          "url": "https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5"
+          "name": "Eveline Ypma",
+          "url": "https://open.spotify.com/artist/3NYVdezO3RWbm4512vhoPH"
         }
       ],
-      "duration_ms": 182784,
-      "name": "\u00c9clat du Jour (Brightness of Day)",
-      "url": "https://open.spotify.com/track/09U0q9Nriba5j8HlcoI3vH"
+      "duration_ms": 154000,
+      "name": "Home Is Not a Place",
+      "url": "https://open.spotify.com/track/4pmBo4y4Ri0ZxAxers3Ixa"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "A Place Called Home (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6BMXEHWe34KWrKe857K2lb"
+        "name": "Les Heures du Jour",
+        "url": "https://open.spotify.com/album/4QyIqQYLvj7AXXBiZQ2Mzg"
       },
       "artists": [
         {
-          "name": "Eveline Ypma",
-          "url": "https://open.spotify.com/artist/3NYVdezO3RWbm4512vhoPH"
+          "name": "Frerick Den Haan",
+          "url": "https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Home Is Not a Place",
-      "url": "https://open.spotify.com/track/4pmBo4y4Ri0ZxAxers3Ixa"
+      "duration_ms": 182784,
+      "name": "\u00c9clat du Jour (Brightness of Day)",
+      "url": "https://open.spotify.com/track/09U0q9Nriba5j8HlcoI3vH"
     },
     {
       "added_at": "2024-07-01 08:44:42",

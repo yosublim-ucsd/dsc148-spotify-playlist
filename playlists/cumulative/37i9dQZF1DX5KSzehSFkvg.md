@@ -2,7 +2,7 @@
 
 ### [Top Maghreb Pop](https://open.spotify.com/playlist/37i9dQZF1DX5KSzehSFkvg)
 
-> Les meilleurs hits Pop c'est ici\. Cover: Hind Ziadi
+> Les meilleurs hits Pop c'est ici\. Cover: Douaa Lahyaoui
 
 138 songs - 7 hr 30 min
 

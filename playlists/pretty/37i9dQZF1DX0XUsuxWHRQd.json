@@ -1,12 +1,12 @@
 {
   "description": "New music from Mustard, Ice Spice and Young Nudy.",
-  "num_followers": 16002472,
+  "num_followers": 16021204,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqW4twAAAAA/ZYFzFJef6oNuvOc788/N",
+  "snapshot_id": "ZqsIQAAAAAD+roHF7VtCLHPvYr1fHQhf",
   "tracks": [
     {
       "added_at": "2024-07-28 03:19:19",
@@ -179,6 +179,26 @@
       "duration_ms": 131291,
       "name": "Boogieman",
       "url": "https://open.spotify.com/track/7Mg5CBO37Rifk2RyDJ8fzd"
+    },
+    {
+      "added_at": "2024-08-01 04:00:00",
+      "album": {
+        "name": "Guerrilla Warfare",
+        "url": "https://open.spotify.com/album/6eUYT38tLl7YwqZFJm1Ulb"
+      },
+      "artists": [
+        {
+          "name": "Hot Boys",
+          "url": "https://open.spotify.com/artist/0ecnb1WPePfrHg4yfQfmqN"
+        },
+        {
+          "name": "Big Tymers",
+          "url": "https://open.spotify.com/artist/4jWGfUCFeTu5e0wprRhHXR"
+        }
+      ],
+      "duration_ms": 292840,
+      "name": "I Need A Hot Girl",
+      "url": "https://open.spotify.com/track/25CnqAR7fzAQbb2SVoSa0b"
     },
     {
       "added_at": "2024-07-28 03:19:19",

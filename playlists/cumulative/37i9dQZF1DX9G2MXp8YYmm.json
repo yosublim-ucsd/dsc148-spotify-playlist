@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Popun sevilen isimleri. Kapak: An\u0131l Durmu\u015f ",
+  "description": "Popun sevilen isimleri. Kapak: Mert \u00c7odur",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -374,7 +374,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 191891,
       "name": "Bi \u015eey Eksik",
       "url": "https://open.spotify.com/track/1TBMYatA8sUE0ne6Xm4FRZ"
@@ -818,7 +818,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 201290,
       "name": "Hain",
       "url": "https://open.spotify.com/track/7ABENqYsfEzv1KHpnlV3Vj"
@@ -872,7 +872,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 272049,
       "name": "Herhalde",
       "url": "https://open.spotify.com/track/6NoU0H7vKasJE29Z4jDmYA"
@@ -988,7 +988,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 165762,
       "name": "Kap\u0131na Dayand\u0131m",
       "url": "https://open.spotify.com/track/0ba1gp7kIBwvcHPwKRGVe5"
@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 190293,
       "name": "Renklensin",
       "url": "https://open.spotify.com/track/1d02igesB9DREknAVXRiBd"
@@ -1519,6 +1519,28 @@
     },
     {
       "album": {
+        "name": "Uslanmaz",
+        "url": "https://open.spotify.com/album/7rpKmV8l7F9nBsyzxW8nMJ"
+      },
+      "artists": [
+        {
+          "name": "Samet Karde\u015fler",
+          "url": "https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp"
+        },
+        {
+          "name": "S\u0131la \u015eahin",
+          "url": "https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "Uslanmaz",
+      "url": "https://open.spotify.com/track/7BD5turxXQlcm72SCYkHQG"
+    },
+    {
+      "album": {
         "name": "130 Bpm Forte",
         "url": "https://open.spotify.com/album/00yuJBXaDotJUgEI2LZeQC"
       },
@@ -1712,7 +1734,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 166112,
       "name": "Yat Kalk Dua Et",
       "url": "https://open.spotify.com/track/68fx1drvQDkcQvxHOwy7s7"
@@ -1882,6 +1904,24 @@
       "duration_ms": 126486,
       "name": "Y\u0131llar Sonra Ne G\u00fczel Olmu\u015fsun",
       "url": "https://open.spotify.com/track/2BigllsJaELRIdoog1fDCO"
+    },
+    {
+      "album": {
+        "name": "zalim",
+        "url": "https://open.spotify.com/album/678tSoWkxSECUbSI23Ocxv"
+      },
+      "artists": [
+        {
+          "name": "Mert \u00c7odur",
+          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130060,
+      "name": "zalim",
+      "url": "https://open.spotify.com/track/1hfeCUFMbRuTGH1e14LBYC"
     },
     {
       "album": {

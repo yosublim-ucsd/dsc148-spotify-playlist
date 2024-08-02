@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 234332,
+  "num_followers": 234367,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-07-05 00:01:00",
       "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/7g8PeQGSlZUlWCr3heIJJb"
+      },
+      "artists": [
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 352945,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/664jBL8NgKFYdiMK9bnCcz"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
         "name": "Portals",
         "url": "https://open.spotify.com/album/5adnCfF1eUOhEnx5F5DAqW"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 231784,
       "name": "Portals",
       "url": "https://open.spotify.com/track/0BFS2F5jFxdXvDjRMRqMol"
-    },
-    {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/7g8PeQGSlZUlWCr3heIJJb"
-      },
-      "artists": [
-        {
-          "name": "BICEP",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 352945,
-      "name": "Atlas",
-      "url": "https://open.spotify.com/track/664jBL8NgKFYdiMK9bnCcz"
     }
   ],
   "unique_name": "Melantronic",

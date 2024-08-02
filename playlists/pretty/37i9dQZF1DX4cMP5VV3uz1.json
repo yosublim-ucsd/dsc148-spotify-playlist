@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 156907,
+  "num_followers": 156912,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,34 @@
     {
       "added_at": "2024-07-25 23:00:00",
       "album": {
+        "name": "Jungle Diva",
+        "url": "https://open.spotify.com/album/0hYssqIhcO38ksOscEwsoK"
+      },
+      "artists": [
+        {
+          "name": "Lens",
+          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
+        },
+        {
+          "name": "Sarah Ikumu",
+          "url": "https://open.spotify.com/artist/6nDkhVNHd7xpZGilqARZoS"
+        },
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "duration_ms": 189176,
+      "name": "Jungle Diva",
+      "url": "https://open.spotify.com/track/3SOYIrIqTRHBb6BZweU4AS"
+    },
+    {
+      "added_at": "2024-07-25 23:00:00",
+      "album": {
         "name": "Stubborn",
         "url": "https://open.spotify.com/album/2KTdiiifLmx1WVnyVjP9aT"
       },
@@ -899,34 +927,6 @@
       "duration_ms": 154800,
       "name": "Kill The Lights",
       "url": "https://open.spotify.com/track/0hHhW734Vnq3DLVd4ApagF"
-    },
-    {
-      "added_at": "2024-07-25 23:00:00",
-      "album": {
-        "name": "Jungle Diva",
-        "url": "https://open.spotify.com/album/0hYssqIhcO38ksOscEwsoK"
-      },
-      "artists": [
-        {
-          "name": "Lens",
-          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
-        },
-        {
-          "name": "Sarah Ikumu",
-          "url": "https://open.spotify.com/artist/6nDkhVNHd7xpZGilqARZoS"
-        },
-        {
-          "name": "Pola & Bryson",
-          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
-        },
-        {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
-        }
-      ],
-      "duration_ms": 189176,
-      "name": "Jungle Diva",
-      "url": "https://open.spotify.com/track/3SOYIrIqTRHBb6BZweU4AS"
     },
     {
       "added_at": "2024-07-25 23:00:00",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2024-07-25 23:00:00",
       "album": {
+        "name": "So Different",
+        "url": "https://open.spotify.com/album/36Qxy0uYkoTu5sVWvIzoVZ"
+      },
+      "artists": [
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        },
+        {
+          "name": "TOYZZ",
+          "url": "https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "So Different",
+      "url": "https://open.spotify.com/track/7ncQlEWDcux4xhuoGzY2Lc"
+    },
+    {
+      "added_at": "2024-07-25 23:00:00",
+      "album": {
         "name": "Shake the Foundations",
         "url": "https://open.spotify.com/album/4ueQeW187BVwaMpMugNvT0"
       },
@@ -1411,46 +1431,6 @@
     {
       "added_at": "2024-07-25 23:00:00",
       "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/4qgo6AVeJsQOqVMYDSoV0U"
-      },
-      "artists": [
-        {
-          "name": "Degs",
-          "url": "https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG"
-        },
-        {
-          "name": "Hoax",
-          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
-        }
-      ],
-      "duration_ms": 209755,
-      "name": "Outlaw",
-      "url": "https://open.spotify.com/track/45g7ik10mOQ2YCv0lOULLP"
-    },
-    {
-      "added_at": "2024-07-25 23:00:00",
-      "album": {
-        "name": "So Different",
-        "url": "https://open.spotify.com/album/36Qxy0uYkoTu5sVWvIzoVZ"
-      },
-      "artists": [
-        {
-          "name": "Pickle",
-          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
-        },
-        {
-          "name": "TOYZZ",
-          "url": "https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "So Different",
-      "url": "https://open.spotify.com/track/7ncQlEWDcux4xhuoGzY2Lc"
-    },
-    {
-      "added_at": "2024-07-25 23:00:00",
-      "album": {
         "name": "Sabertooth",
         "url": "https://open.spotify.com/album/4DI3HslyOQV0GdZOFveRwl"
       },
@@ -1467,38 +1447,22 @@
     {
       "added_at": "2024-07-25 23:00:00",
       "album": {
-        "name": "Crunchy Nutter",
-        "url": "https://open.spotify.com/album/1WlUE6Kq9JTU4bAlYq87YA"
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/4qgo6AVeJsQOqVMYDSoV0U"
       },
       "artists": [
         {
-          "name": "Unglued",
-          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
+          "name": "Degs",
+          "url": "https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG"
         },
         {
-          "name": "Lens",
-          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
+          "name": "Hoax",
+          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
         }
       ],
-      "duration_ms": 204332,
-      "name": "Crunchy Nutter",
-      "url": "https://open.spotify.com/track/0G9V10A931yQ6KU36SsQZw"
-    },
-    {
-      "added_at": "2024-07-25 23:00:00",
-      "album": {
-        "name": "Stop Talking",
-        "url": "https://open.spotify.com/album/0Bi9qorfqqaKlEBgjkfGKz"
-      },
-      "artists": [
-        {
-          "name": "Krakota",
-          "url": "https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "Stop Talking",
-      "url": "https://open.spotify.com/track/2Yhe2uqIz67SJB2x7DvrvE"
+      "duration_ms": 209755,
+      "name": "Outlaw",
+      "url": "https://open.spotify.com/track/45g7ik10mOQ2YCv0lOULLP"
     },
     {
       "added_at": "2024-07-25 23:00:00",
@@ -1547,6 +1511,42 @@
       "duration_ms": 174171,
       "name": "Rudeboy",
       "url": "https://open.spotify.com/track/0XT8UILzCWoXZMvfmo8iNw"
+    },
+    {
+      "added_at": "2024-07-25 23:00:00",
+      "album": {
+        "name": "Stop Talking",
+        "url": "https://open.spotify.com/album/0Bi9qorfqqaKlEBgjkfGKz"
+      },
+      "artists": [
+        {
+          "name": "Krakota",
+          "url": "https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Stop Talking",
+      "url": "https://open.spotify.com/track/2Yhe2uqIz67SJB2x7DvrvE"
+    },
+    {
+      "added_at": "2024-07-25 23:00:00",
+      "album": {
+        "name": "Crunchy Nutter",
+        "url": "https://open.spotify.com/album/1WlUE6Kq9JTU4bAlYq87YA"
+      },
+      "artists": [
+        {
+          "name": "Unglued",
+          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
+        },
+        {
+          "name": "Lens",
+          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
+        }
+      ],
+      "duration_ms": 204332,
+      "name": "Crunchy Nutter",
+      "url": "https://open.spotify.com/track/0G9V10A931yQ6KU36SsQZw"
     },
     {
       "added_at": "2024-07-25 23:00:00",

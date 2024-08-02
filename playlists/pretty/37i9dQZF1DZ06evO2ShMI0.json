@@ -1,12 +1,12 @@
 {
   "description": "This is Los Enanitos Verdes. The essential tracks, all in one playlist.",
-  "num_followers": 190539,
+  "num_followers": 190563,
   "original_name": "This Is Los Enanitos Verdes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqgtAAAAAADVUCa8hOofrc7JL0BKwiGA",
+  "snapshot_id": "Zql+gAAAAADly+AjdvQCJp+rIice2NVe",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guerra Gaucha",
-        "url": "https://open.spotify.com/album/2CtpmjNAaPOGDwcKgYPKac"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 173373,
-      "name": "Eterna Soledad",
-      "url": "https://open.spotify.com/track/2SWSDlNAMZC3ILXZoKEKVs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pescado Original",
         "url": "https://open.spotify.com/album/6BfpGbzobIIDf2u55LW6Kg"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 221720,
       "name": "Mariposas",
       "url": "https://open.spotify.com/track/1AERsDlEADxcp9WtjZBtiU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Guerra Gaucha",
+        "url": "https://open.spotify.com/album/2CtpmjNAaPOGDwcKgYPKac"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 173373,
+      "name": "Eterna Soledad",
+      "url": "https://open.spotify.com/track/2SWSDlNAMZC3ILXZoKEKVs"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Ahora Te Vas",
-        "url": "https://open.spotify.com/album/5ZT7aS23AS0hbaxyotZvHP"
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 259853,
-      "name": "Y Ahora Te Vas",
-      "url": "https://open.spotify.com/track/6WVg7yYHCSKqOqo6BYxv8O"
+      "duration_ms": 210333,
+      "name": "Mejor No Hablemos De Amor",
+      "url": "https://open.spotify.com/track/371ndFAU7yvPcWY2jIRrSz"
     },
     {
       "added_at": null,
@@ -615,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Bang",
-        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+        "name": "Y Ahora Te Vas",
+        "url": "https://open.spotify.com/album/5ZT7aS23AS0hbaxyotZvHP"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 210333,
-      "name": "Mejor No Hablemos De Amor",
-      "url": "https://open.spotify.com/track/371ndFAU7yvPcWY2jIRrSz"
+      "duration_ms": 259853,
+      "name": "Y Ahora Te Vas",
+      "url": "https://open.spotify.com/track/6WVg7yYHCSKqOqo6BYxv8O"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 355293,
-      "name": "Lamento Boliviano - En Vivo",
-      "url": "https://open.spotify.com/track/4KtHxcTlIXEKinToSNzPPO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guerra Gaucha",
         "url": "https://open.spotify.com/album/2CtpmjNAaPOGDwcKgYPKac"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 207706,
       "name": "El Dia Es Claro",
       "url": "https://open.spotify.com/track/158FXFTt5lWmsD4uHmjgZZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 355293,
+      "name": "Lamento Boliviano - En Vivo",
+      "url": "https://open.spotify.com/track/4KtHxcTlIXEKinToSNzPPO"
     },
     {
       "added_at": null,

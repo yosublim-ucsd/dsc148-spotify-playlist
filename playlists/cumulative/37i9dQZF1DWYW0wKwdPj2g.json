@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-28",
-  "description": "In the mood for live Christian and Gospel music? This is the one. Cover: Sinach",
+  "description": "In the mood for live Christian and Gospel music? This is the one. Cover: Jimmy D Psalmist",
   "name": "Come Alive",
   "tracks": [
     {
@@ -82,6 +82,28 @@
       "duration_ms": 650499,
       "name": "B'ola (Live)",
       "url": "https://open.spotify.com/track/6ooOrOuruo2lZdcOAl5tbe"
+    },
+    {
+      "album": {
+        "name": "Baba Yangu, Baba Yangu (Live)",
+        "url": "https://open.spotify.com/album/7k7hnvGI5oYtw0ZUwcvghF"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        },
+        {
+          "name": "Yinka Okeleye",
+          "url": "https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289399,
+      "name": "Baba Yangu, Baba Yangu - Live",
+      "url": "https://open.spotify.com/track/1pRSMBzKzEbMiWMerX8hBm"
     },
     {
       "album": {
@@ -1470,6 +1492,24 @@
       "duration_ms": 282440,
       "name": "Sewakhile",
       "url": "https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT"
+    },
+    {
+      "album": {
+        "name": "Sing For Joy",
+        "url": "https://open.spotify.com/album/2bLnPf8G08JcrL4N4VWGQz"
+      },
+      "artists": [
+        {
+          "name": "Ccioma",
+          "url": "https://open.spotify.com/artist/4KUBNwD9GNCDXGGHJqRbpF"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429789,
+      "name": "Sing For Joy",
+      "url": "https://open.spotify.com/track/0cdH2VxYlwElQl4nN5DqjW"
     },
     {
       "album": {

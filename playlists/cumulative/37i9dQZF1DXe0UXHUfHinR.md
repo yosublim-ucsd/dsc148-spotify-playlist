@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-753 songs - 2 day 11 hr 25 min
+754 songs - 2 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,6 +463,7 @@
 | [My Funny Valentine](https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:21 | 2022-10-27 |  |
 | [My Funny Valentine \- Rudy Van Gelder Remaster 2007](https://open.spotify.com/track/5FYgwqjjq9kPCMj8yArfTr) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Cookin' With The Miles Davis Quintet](https://open.spotify.com/album/6QPFCq6SHAOhBI1Vf14G0y) | 5:58 | 2022-10-27 |  |
 | [My Groove Your Move \- Rudy Van Gelder Edition](https://open.spotify.com/track/5wcAcShxT5qvLJvuM6jkZt) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Roll Call](https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7) | 6:07 | 2022-10-27 | 2024-04-08 |
+| [My Ideal](https://open.spotify.com/track/2LfXUjO4fzzG4Zp0CkATQs) | [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [Standard Gonz](https://open.spotify.com/album/4jym5FR0j3jAdcazPDLLDa) | 3:39 | 2024-07-17 |  |
 | [My Ideal](https://open.spotify.com/track/20iVJu5WfnEKda2uFhLP7d) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Quiet Kenny](https://open.spotify.com/album/4B0pF1WLB3pCaZ4eTx5U8S) | 5:05 | 2022-10-27 |  |
 | [My Little Brown Book](https://open.spotify.com/track/4rmCI9VWrwrJTJ8XQ80BMN) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 5:19 | 2022-10-27 |  |
 | [My Little Suede Shoes](https://open.spotify.com/track/20398M7vt8Tu8G8jhtw9iL) | [Charlie Parker And His Orchestra](https://open.spotify.com/artist/1FSHNjMiq1QijpQVkckuAy) | [Fiesta: The Genius Of Charlie Parker \#6](https://open.spotify.com/album/3pDPgGXW1bWQA2CQE0wIjE) | 3:04 | 2022-10-27 |  |
@@ -753,7 +754,7 @@
 | [You Go To My Head \- 2020 Mix](https://open.spotify.com/track/7KsJkshpIjjeIwyKnkhQUc) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nice 'n' Easy \(2020 Mix / Expanded Edition\)](https://open.spotify.com/album/5myvnvNMM6RaI2as8s0KpW) | 4:26 | 2022-10-27 |  |
 | [You'd Be So Nice to Come Home To](https://open.spotify.com/track/71KwWlZvuikRRORNH3xvCq) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper Meets The Rhythm Section \(OJC Remaster\)](https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX) | 5:27 | 2022-10-27 |  |
 | [You'd Be So Nice To Come Home To](https://open.spotify.com/track/5eJ90rBnkUv7PqxgTExfvd) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Coleman Hawkins Encounters Ben Webster \(Expanded Edition\)](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ) | 4:15 | 2022-10-27 |  |
-| [You'd Be So Nice To Come Home To](https://open.spotify.com/track/5J6264keZ3ksbsHwef1U7G) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merill](https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C) | 4:19 | 2022-10-27 |  |
+| [You'd Be So Nice To Come Home To](https://open.spotify.com/track/5J6264keZ3ksbsHwef1U7G) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merill](https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C) | 4:19 | 2022-10-27 | 2024-08-02 |
 | [You've Changed](https://open.spotify.com/track/5iPXzdmW5wxcbWJNw46mOy) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Standards Trio: Reflections](https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn) | 3:15 | 2023-08-30 |  |
 | [Young And Foolish](https://open.spotify.com/track/1WygPWqmNs4s2fxtjmtI3O) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 5:54 | 2024-03-20 |  |
 | [Young and Foolish](https://open.spotify.com/track/2ncnr8AuzqAabOGEIoA863) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr), [Dena DeRose](https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3), [Ignasi González](https://open.spotify.com/artist/60JCzYj9SSZ3DZdyONwr5P), [Jo Krause](https://open.spotify.com/artist/1TYodU4WCCM39ztPleTYuy) | [Moon Mist](https://open.spotify.com/album/462dHUs0Xl5H4v1057d2mO) | 5:30 | 2022-10-27 | 2024-02-24 |

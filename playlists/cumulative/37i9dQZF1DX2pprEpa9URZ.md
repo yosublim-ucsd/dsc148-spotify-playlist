@@ -4,7 +4,7 @@
 
 > A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
 
-400 songs - 1 day 19 hr 27 min
+401 songs - 1 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [Osè](https://open.spotify.com/track/43CH8hUhxHIva2bnJS2O6c) | [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [No Be Today](https://open.spotify.com/album/3hlPGhWkvHdDXoaZFKIbgV) | 3:59 | 2024-07-05 |  |
 | [Pandora](https://open.spotify.com/track/2kscYCgdy8FP8D92hgsVIy) | [Renga Weh](https://open.spotify.com/artist/28xBr8Qn3mikTNu5yswXYR) | [Pandora](https://open.spotify.com/album/74ulhSz1pv8TBMczTusgvv) | 5:55 | 2020-05-17 | 2022-04-21 |
 | [Pantarei](https://open.spotify.com/track/2zoJ31xwDphl9m6LHo2u64) | [Latteo](https://open.spotify.com/artist/4IQLm7ZNKGlw7AaV7okjKv) | [Pantarei](https://open.spotify.com/album/0h6dsjcjf7sGbu0NSX88o3) | 6:43 | 2023-03-25 | 2023-04-15 |
-| [Parivartan](https://open.spotify.com/track/2DKUPy6sTH7vZsjAe4DVUv) | [Elcor](https://open.spotify.com/artist/6WjWbZruQ0NGsi2sjlToEj), [Skydrips](https://open.spotify.com/artist/2XGDgA9EWonvKbyRwQazTF) | [Parivartan](https://open.spotify.com/album/5DOEiK1Wt4SDsXmKWBYVPp) | 8:06 | 2022-01-21 |  |
+| [Parivartan](https://open.spotify.com/track/2DKUPy6sTH7vZsjAe4DVUv) | [Elcor](https://open.spotify.com/artist/6WjWbZruQ0NGsi2sjlToEj), [Skydrips](https://open.spotify.com/artist/2XGDgA9EWonvKbyRwQazTF) | [Parivartan](https://open.spotify.com/album/5DOEiK1Wt4SDsXmKWBYVPp) | 8:06 | 2022-01-21 | 2024-08-02 |
 | [Pastel](https://open.spotify.com/track/0QWG9OtA0oHnpQH0iCxicr) | [Theo Gramal](https://open.spotify.com/artist/2cUMjbWPmVjM6hHs18dYbc) | [Pastel](https://open.spotify.com/album/7GORODzuiM1sFSosuxQL5v) | 6:11 | 2023-11-14 |  |
 | [Pastorcita](https://open.spotify.com/track/2bq3BcwuIjsvS18KXgqzZV) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU), [Yusuf Lemone](https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M) | [The Deep South](https://open.spotify.com/album/5Gnnle3P6DoHp5vtqkN0P0) | 6:23 | 2021-01-31 | 2022-09-29 |
 | [Pastorcita](https://open.spotify.com/track/3Y3inhZXBQ1KPfhWYYeuR3) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU), [Yusuf Lemone](https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M) | [The Deep South](https://open.spotify.com/album/20G0qgscNeMWWrmmYbHfBY) | 6:23 | 2022-09-30 | 2024-04-19 |
@@ -345,6 +345,7 @@
 | [Sumeru](https://open.spotify.com/track/2gL3yeSrVcdgYUgebT6TKN) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Kaybola \(Deluxe Version\)](https://open.spotify.com/album/1zqTrfdQyPehpQFeowfgIm) | 4:57 | 2022-06-14 | 2024-04-19 |
 | [Sumeru](https://open.spotify.com/track/4xFCGg8grxbA3pGYrX1Mcp) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Kaybola](https://open.spotify.com/album/6PNkN7oTTfp0tHN7ZFBCZK) | 4:57 | 2020-02-25 | 2022-07-29 |
 | [Take Me Back](https://open.spotify.com/track/1WaDwq1lUB69du6tuUnLIY) | [Marcel Vogel](https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D), [Tim Jules](https://open.spotify.com/artist/3YsW23aSl6MItRGwGBYGDk) | [Take Me Back](https://open.spotify.com/album/1dfGwYMf6rQJg1IQBl6p5y) | 4:46 | 2020-09-26 | 2023-05-09 |
+| [Tarlabasi \- Be Svendsen Remix \- Edit](https://open.spotify.com/track/5freZHo9V8p2PlayutmhRq) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Be Svendsen](https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru) | [Tarlabasi \(Be Svendsen Remix\)](https://open.spotify.com/album/4NqDGi1QBIjCfM4oqfb9k5) | 4:31 | 2024-08-02 |  |
 | [Tasi](https://open.spotify.com/track/2ydBAmSGC32VDh34Libi1G) | [REYSIS](https://open.spotify.com/artist/19lIvmbu4jVhIIFhtbV2LC), [SIS](https://open.spotify.com/artist/4wzvXCxUnFdUjNgTwqPOf3), [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Tasi Lua](https://open.spotify.com/album/2bg07HDf5MxkkeNcnXgzul) | 8:43 | 2022-05-06 | 2022-07-27 |
 | [Tembo](https://open.spotify.com/track/5pGuUCGpycumIFUa0vJQyC) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Humanidad](https://open.spotify.com/album/0qtCZwkShRkYRjIbOLjvu6) | 8:41 | 2023-02-17 | 2024-04-03 |
 | [Temple](https://open.spotify.com/track/4WtA5xiOoM3NvQgFUGkgNd) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [Temple Dream](https://open.spotify.com/album/7jOqBniEJ1hn7nyPocGrVT) | 8:12 | 2020-12-05 | 2021-05-28 |

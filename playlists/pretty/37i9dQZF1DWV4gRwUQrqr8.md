@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV4gRwUQrqr8.md) - [plain]
 
 > Listen to SEVENTEEN’s best songs while waiting for SEVENTEEN’s 8th fan meeting \[SEVENTEEN in CARAT LAND\]! \(세븐틴의 8번째 팬미팅 \[SEVENTEEN in CARAT LAND\]를 기다리며 세븐틴의 베스트 곡들을 들어보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,565 likes - 45 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,818 likes - 45 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

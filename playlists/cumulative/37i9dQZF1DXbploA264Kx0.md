@@ -2,9 +2,9 @@
 
 ### [The Sound of Formosa](https://open.spotify.com/playlist/37i9dQZF1DXbploA264Kx0)
 
-> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: LIU KOI
+> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: 令晴 \(Lynn\)
 
-232 songs - 14 hr 12 min
+235 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Confessions Of A Baddie](https://open.spotify.com/track/7FqczlIA6btUkcAjBisZ4Q) | [BAER](https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta) | [Confessions Of A Baddie](https://open.spotify.com/album/1Wto1tcfzt387E1Lk8srgZ) | 2:25 | 2024-02-15 | 2024-04-26 |
 | [Countdown](https://open.spotify.com/track/4WBPb6gPaa2xad6B4010sX) | [Maderlin Weng](https://open.spotify.com/artist/4fpCZI760JLt135sUs4y5A) | [Countdown](https://open.spotify.com/album/5CGoQh0GDK2ycccVyiFIQM) | 3:57 | 2024-03-14 |  |
 | [Cult Film Club](https://open.spotify.com/track/13LmtdvULXYBy9q6fYthvt) | [傻子與白痴](https://open.spotify.com/artist/4rk0xYl7t3XftIQQedJjK4) | [姿態](https://open.spotify.com/album/7qV4doZ5ML6hqwxalH0VHF) | 4:05 | 2024-01-25 | 2024-04-26 |
-| [DJV](https://open.spotify.com/track/7tuNmssymaXZDmyU0Waf60) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [DJV](https://open.spotify.com/album/5X8xK7oeSYUL3qTYGSYs6W) | 2:46 | 2024-07-04 |  |
+| [Disneyland](https://open.spotify.com/track/6fVMbf2gHADlE4rstGL1O9) | [令晴 Lynn](https://open.spotify.com/artist/6HOJVenVuukRx2b6jTZtQk) | [The Make](https://open.spotify.com/album/4LSYpyfRTAszuh1cQ69jvr) | 4:38 | 2024-08-01 |  |
+| [DJV](https://open.spotify.com/track/7tuNmssymaXZDmyU0Waf60) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [DJV](https://open.spotify.com/album/5X8xK7oeSYUL3qTYGSYs6W) | 2:46 | 2024-07-04 | 2024-08-02 |
 | [Don't Break My Heart Again!](https://open.spotify.com/track/3Hu0cBAyenuqfsWBEImbXI) | [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Don't Break My Heart Again!](https://open.spotify.com/album/2OQd4855PKmbkiFiNtOKh5) | 3:50 | 2024-01-25 |  |
 | [don't stop](https://open.spotify.com/track/3St3yb7eQhn1TQC8qI8c04) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [don't stop](https://open.spotify.com/album/1GiRLk9pLoCegNsPpkapM1) | 2:48 | 2024-04-18 | 2024-05-11 |
 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 | 2024-01-25 |  |
@@ -66,7 +67,7 @@
 | [Ghosts](https://open.spotify.com/track/1a8Krrol95IhEDLZtutEIB) | [潘PAN](https://open.spotify.com/artist/3gRbjzXPan9DOBEMmTjxVo) | [Ghosts](https://open.spotify.com/album/3KROcodSwLEuPTUWItvY98) | 3:08 | 2024-03-14 | 2024-04-05 |
 | [Glue](https://open.spotify.com/track/3KDIlOWvgtEJUqh7T0lWBF) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/2qNilyf3KvTDmGfDXnJx9y) | 4:20 | 2024-07-11 |  |
 | [GOOD LOOKING](https://open.spotify.com/track/2mEk627nf8k8K7zTBYy6XI) | [POPO J](https://open.spotify.com/artist/3asn0DBHRjY3cHdlbm5kuu) | [GOOD LOOKING](https://open.spotify.com/album/4gMmT8HIwXPuDt5cwWp3S9) | 2:10 | 2024-01-25 |  |
-| [Good Time](https://open.spotify.com/track/64ENqFGrKC4k1d6CTeX0G4) | [令晴 Lynn](https://open.spotify.com/artist/6HOJVenVuukRx2b6jTZtQk) | [Good Time](https://open.spotify.com/album/6KZHWUwwE3B8pJM1x893Od) | 2:53 | 2024-07-25 |  |
+| [Good Time](https://open.spotify.com/track/64ENqFGrKC4k1d6CTeX0G4) | [令晴 Lynn](https://open.spotify.com/artist/6HOJVenVuukRx2b6jTZtQk) | [Good Time](https://open.spotify.com/album/6KZHWUwwE3B8pJM1x893Od) | 2:53 | 2024-07-25 | 2024-08-02 |
 | [Goodbye Spring](https://open.spotify.com/track/19E1CDouZUhkPWgQYApi1g) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM), [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [Goodbye Spring](https://open.spotify.com/album/7oBhre4zLIAKMhGu29rPDK) | 3:38 | 2024-04-25 | 2024-05-24 |
 | [Grilled Chicken Caesar Salad](https://open.spotify.com/track/1J4WsQq9GlZJVggJYF5Bx5) | [June Pan](https://open.spotify.com/artist/0p5LfbnKvdqRqZ9u5Nk0S3) | [Grilled Chicken Caesar Salad](https://open.spotify.com/album/0w8LdAgt20Ci75O8vYRWdp) | 2:58 | 2024-06-30 |  |
 | [HANSEL AND GRETEL](https://open.spotify.com/track/0Ixs4wUwlHockq5iO3zrLn) | [TELEx TELEXs](https://open.spotify.com/artist/1BHYRsFqV0ON7RUFM9qF2Q), [Hormone Boys](https://open.spotify.com/artist/7MR5iqnOtuXv9RMMMQbOIl) | [HANSEL AND GRETEL](https://open.spotify.com/album/3QoHlrglPtVHUcqJnr51mI) | 4:15 | 2024-04-25 |  |
@@ -141,12 +142,13 @@
 | [Spring Summer Autumn \(Winter \- I Mean Us Remix](https://open.spotify.com/track/3QUmuOHWeHVExgkqT26Ogf) | [UQiYO](https://open.spotify.com/artist/46yZjVAVfu5XOYzOpBlfHW), [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [Spring Summer Autumn \(Winter \[I Mean Us Remix\]](https://open.spotify.com/album/6VF0KKzVuA69bHBjKupyXn) | 2:24 | 2024-01-25 | 2024-05-11 |
 | [St\. Lover](https://open.spotify.com/track/46nAMfcng8oqyillYZt7u4) | [Edisong](https://open.spotify.com/artist/0RhNindPw9ZrA5KmSr6ASN), [林映唯](https://open.spotify.com/artist/0vEN77zurrawTwPgocgd91) | [St\. Lover](https://open.spotify.com/album/4A5hgurZJxNOkuJweFZTDQ) | 3:37 | 2024-01-25 | 2024-04-19 |
 | [St\. Lover](https://open.spotify.com/track/3dvvbyu9mSK1AotEW8ngR4) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK), [林映唯](https://open.spotify.com/artist/0vEN77zurrawTwPgocgd91) | [St\. Lover](https://open.spotify.com/album/1tf3ludbqfLPUmr8KjR8Tv) | 3:37 | 2024-04-18 |  |
+| [Staying up All Night](https://open.spotify.com/track/6V6T7ObBtnC07VQh4BX8Cr) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb), [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [Staying up All Night](https://open.spotify.com/album/6bMmhb1GtaxLT3YLBknocB) | 3:22 | 2024-08-01 |  |
 | [SUGAR BABY](https://open.spotify.com/track/5GvmJngfjnUsCT8CpN75rA) | [Bolly](https://open.spotify.com/artist/5plw5T9XNykcYu3a6ZWCAW) | [SUGAR BABY](https://open.spotify.com/album/65E9nbL8bWcv2HCZNSboY8) | 2:25 | 2024-01-25 | 2024-04-19 |
 | [Sugar Cover](https://open.spotify.com/track/4HabjE8SrUgJUF5YIgppMK) | [DrunkMonk 撞克茫客](https://open.spotify.com/artist/2o6IlfKpVWK4eZivj0yZUX), [羊駝小姐](https://open.spotify.com/artist/4BjR5qTMbBGGAmN7r1ysaA) | [Sugar Cover](https://open.spotify.com/album/4qUQkRq3KGnfAXWWNISWLq) | 4:32 | 2024-05-10 | 2024-06-01 |
 | [Swapping Socks](https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Swapping Socks](https://open.spotify.com/album/11vYgQBDU9DJnRlBJ6RuO5) | 3:38 | 2024-01-25 | 2024-03-22 |
 | [Søulмaтe \- Remix](https://open.spotify.com/track/6iw67Qocm9GfffN5vgdiSO) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78), [Tsudio Studio](https://open.spotify.com/artist/1iMVMds476cuexLdHbKivE) | [Søulмaтe \(Remix\)](https://open.spotify.com/album/4QQ0DDdSKDh5D0vwdQbMjc) | 4:19 | 2024-05-23 | 2024-07-05 |
 | [TATTOO](https://open.spotify.com/track/1LAUJwiUaYOQnwx1u8Q8fQ) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks), [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [We Were So Young](https://open.spotify.com/album/6GYty2L58da7ERYD04QGLc) | 3:01 | 2024-06-13 | 2024-07-01 |
-| [Tearz](https://open.spotify.com/track/68hVbkyIxd30RVUIdCBoum) | [潘PAN](https://open.spotify.com/artist/3gRbjzXPan9DOBEMmTjxVo) | [Pan The Pansexual](https://open.spotify.com/album/1pJNvEmcRn5TCX5kUbgL6h) | 4:12 | 2024-07-11 |  |
+| [Tearz](https://open.spotify.com/track/68hVbkyIxd30RVUIdCBoum) | [潘PAN](https://open.spotify.com/artist/3gRbjzXPan9DOBEMmTjxVo) | [Pan The Pansexual](https://open.spotify.com/album/1pJNvEmcRn5TCX5kUbgL6h) | 4:12 | 2024-07-11 | 2024-08-02 |
 | [Tell Me](https://open.spotify.com/track/6akj6TwlmOSo4q6tmPj7Lv) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Mitsu The Beats](https://open.spotify.com/artist/17fQB1QlHkyLRJbTTP7zEz) | [9m88 Radio](https://open.spotify.com/album/0ltKqyXZYTB5RPF0KvkmPQ) | 4:06 | 2024-02-29 | 2024-03-15 |
 | [Terracotta](https://open.spotify.com/track/3yycg2Wzo2Rv3t4nTdQiq8) | [Mong Tong](https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo) | [Terracotta](https://open.spotify.com/album/5SkfmA6JHn14iV0vxtOtpb) | 2:03 | 2024-02-01 | 2024-03-15 |
 | [The Dragon Song \(feat\. ØZI\)](https://open.spotify.com/track/0kvLJdRfwxwuVp2eaSOEva) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [TALENT](https://open.spotify.com/album/58AtmygL5FdxGhuEUSnWwF) | 5:14 | 2024-06-13 | 2024-07-01 |
@@ -228,6 +230,7 @@
 | [美好的事可不可以發生在我身上](https://open.spotify.com/track/1viPIivqn5vmMsFUk5CJnw) | [康士坦的變化球](https://open.spotify.com/artist/4fmdz90I7bCk35iK6GZ9fK) | [更迭](https://open.spotify.com/album/1ErSP0hX5hokAbaQ1wFa4d) | 6:02 | 2024-02-29 | 2024-03-15 |
 | [自信勇敢咱的名](https://open.spotify.com/track/62ih8yFo1urUe2RsZV8uvq) | [Fire EX.](https://open.spotify.com/artist/7qBIgabdHdcr6NLujDxWAU) | [自信勇敢咱的名](https://open.spotify.com/album/2tJl19l0xjVGMPgvDTvVd7) | 4:12 | 2024-02-29 | 2024-03-15 |
 | [葉柏 PY](https://open.spotify.com/track/3GAuZzIN3c2ojn9CIOPeWl) | [CHIU PI](https://open.spotify.com/artist/2lUrSsHsfcCEL03ByHevnY) | [至繁 LE MONDE](https://open.spotify.com/album/7uUz5hxP7b8oLNLfHu8ODs) | 4:40 | 2024-01-25 |  |
+| [蜃気楼](https://open.spotify.com/track/5uKZfmX2Bel2rlWyuKvpSe) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [蜃気楼](https://open.spotify.com/album/5DJKBXc6OyavLzdYQdHHdg) | 3:14 | 2024-08-01 |  |
 | [被耽誤的](https://open.spotify.com/track/1jVHcUcUaIlKH1x8VZzQLR) | [徐暐翔](https://open.spotify.com/artist/2xZkWvVTxC65o3dqETdfPm) | [躍](https://open.spotify.com/album/6BhcCeMEBlIwhafSD05aS8) | 4:01 | 2024-06-13 | 2024-07-01 |
 | [記得呼吸](https://open.spotify.com/track/1nzYGfWfv9csqPBmpmYxHB) | [呂允](https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9) | [記得呼吸](https://open.spotify.com/album/7ErAzNpBgExbpSGDd5f5hC) | 3:22 | 2024-06-13 | 2024-07-01 |
 | [超級英雄 Antibiotic](https://open.spotify.com/track/0jCx4g5bqpmUoz86x1Rgm0) | [Fire EX.](https://open.spotify.com/artist/7qBIgabdHdcr6NLujDxWAU) | [超級英雄 Antibiotic](https://open.spotify.com/album/4OfhbyxPpVnACKoB42nwY7) | 3:15 | 2024-02-29 | 2024-03-15 |

@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 185955,
       "name": "A long beat",
       "url": "https://open.spotify.com/track/6o8YW9donm5wXrwtOzLnTE"
@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 229090,
       "name": "Castles in The Air",
       "url": "https://open.spotify.com/track/3XSr3AQ6smXdcDGlkslcER"
@@ -1882,7 +1882,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 198467,
       "name": "Disparate Vibes",
       "url": "https://open.spotify.com/track/5yqk6ppoMmuXWtWrzBNL9t"
@@ -1900,7 +1900,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 183414,
       "name": "Diva",
       "url": "https://open.spotify.com/track/6ffcqnhcbP67tUlMfXcQk4"
@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 128134,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/6qB3DyehKho1J6Iv73L21Q"
@@ -2008,7 +2008,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 280320,
       "name": "Dream",
       "url": "https://open.spotify.com/track/4PRpkjyClXZRRbErTzpxrm"
@@ -3103,6 +3103,24 @@
     },
     {
       "album": {
+        "name": "Going Offbeat",
+        "url": "https://open.spotify.com/album/5RyDjbtNYcauFWojcJ2m5P"
+      },
+      "artists": [
+        {
+          "name": "Rick Groove",
+          "url": "https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191067,
+      "name": "Going Offbeat",
+      "url": "https://open.spotify.com/track/1MyyHwzHbUaQ6hqVmXG953"
+    },
+    {
+      "album": {
         "name": "Gold Coast",
         "url": "https://open.spotify.com/album/3EW3l0OjPpIWDR99jBm6pg"
       },
@@ -3136,6 +3154,24 @@
       "duration_ms": 215048,
       "name": "Grace Bay",
       "url": "https://open.spotify.com/track/6UBVHuWOmLg7bqnEatxTi9"
+    },
+    {
+      "album": {
+        "name": "You Know I'm Different / Grand",
+        "url": "https://open.spotify.com/album/7AqvXL5nZLEsVBwJmHfJJs"
+      },
+      "artists": [
+        {
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229580,
+      "name": "Grand",
+      "url": "https://open.spotify.com/track/3IrUqWloiD4OZcCM06qUWJ"
     },
     {
       "album": {
@@ -3640,7 +3676,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 126869,
       "name": "Intuitive",
       "url": "https://open.spotify.com/track/2Qav8jC8iVrVpQBJwARKl2"
@@ -4310,7 +4346,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 138536,
       "name": "Love Is Waiting",
       "url": "https://open.spotify.com/track/3G4GnxuA6OFqZDHD09eG3Z"
@@ -4328,7 +4364,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 185325,
       "name": "Lucky Indigo",
       "url": "https://open.spotify.com/track/7hBV6H6Yi5KMcNAxrWfxN2"
@@ -4436,7 +4472,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 152500,
       "name": "Magenta Skies",
       "url": "https://open.spotify.com/track/4KfJ6hAAyt94oUO4THQOte"
@@ -5096,7 +5132,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 213290,
       "name": "Night Ranger",
       "url": "https://open.spotify.com/track/7iyKQvIJ0kjdytW4WgR6U5"
@@ -5474,7 +5510,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 193867,
       "name": "Oya",
       "url": "https://open.spotify.com/track/780oYps6HX9dd2Ri3owzs6"
@@ -5996,7 +6032,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 179590,
       "name": "Pulpy",
       "url": "https://open.spotify.com/track/6u2YnsX4gu01IE3gbFHccy"
@@ -6140,7 +6176,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 228130,
       "name": "Ray of Light",
       "url": "https://open.spotify.com/track/52qHDEnksl0jZt3OJHDi3i"
@@ -6266,7 +6302,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 149866,
       "name": "Rent",
       "url": "https://open.spotify.com/track/19iugsWjMy6wDD225VT35E"
@@ -7261,6 +7297,24 @@
     },
     {
       "album": {
+        "name": "Studio Floor",
+        "url": "https://open.spotify.com/album/3etwrZZI9dsNg9nZe4dEvJ"
+      },
+      "artists": [
+        {
+          "name": "Twin Iguana",
+          "url": "https://open.spotify.com/artist/59OJzu5UZA6OrK4dGT4GZi"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146454,
+      "name": "Studio Floor",
+      "url": "https://open.spotify.com/track/3gts9Ik78hcSSUX5CXACJH"
+    },
+    {
+      "album": {
         "name": "breath tapes",
         "url": "https://open.spotify.com/album/4bKj6LaBsp7wog0ZeYro6j"
       },
@@ -7805,6 +7859,24 @@
     },
     {
       "album": {
+        "name": "The Air Sparks",
+        "url": "https://open.spotify.com/album/0fMCvvg8dKha4ipbjjtyE3"
+      },
+      "artists": [
+        {
+          "name": "The Pleasure Principle",
+          "url": "https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147476,
+      "name": "The Air Sparks",
+      "url": "https://open.spotify.com/track/5NHlMvZZZeujpeIHzv9D4f"
+    },
+    {
+      "album": {
         "name": "The Feels",
         "url": "https://open.spotify.com/album/1vAkH3vVYpYh4p1O6XLVir"
       },
@@ -7996,7 +8068,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 198807,
       "name": "Tracer Arcs",
       "url": "https://open.spotify.com/track/0f8LcCSouQTN5iE8qVrHsp"
@@ -8486,7 +8558,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 276267,
       "name": "Where You Come From",
       "url": "https://open.spotify.com/track/5tZrMcEPBPBiZSOKNnpsw5"

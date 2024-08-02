@@ -255,6 +255,28 @@
     },
     {
       "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/4psTMJgbhGpjwkmbJBWtLm"
+      },
+      "artists": [
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172533,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/7cTR8t3F29uZIyFSUjufjV"
+    },
+    {
+      "album": {
         "name": "Bayside Groove",
         "url": "https://open.spotify.com/album/7by2OIjwE1crH5hT1SrBB7"
       },
@@ -588,7 +610,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 162083,
       "name": "Can't Get You Out of My Head",
       "url": "https://open.spotify.com/track/61fJFEna3BOXOUK6vlzjAC"
@@ -2705,6 +2727,28 @@
     },
     {
       "album": {
+        "name": "Nancy Junglist",
+        "url": "https://open.spotify.com/album/2R0gnSJtdE4c3gMb1CFxIu"
+      },
+      "artists": [
+        {
+          "name": "JAEL",
+          "url": "https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO"
+        },
+        {
+          "name": "Sister Nancy",
+          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Nancy Junglist",
+      "url": "https://open.spotify.com/track/3o3z4W9yb9TZDCh1j3npyO"
+    },
+    {
+      "album": {
         "name": "Never Let You Down (feat. Penny Ivy)",
         "url": "https://open.spotify.com/album/4lQIsXVm1uAQH1nYK5yaID"
       },
@@ -3388,7 +3432,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 231724,
       "name": "Settle Down",
       "url": "https://open.spotify.com/track/3HrYBjMhKco2izd1cC7rJ9"
@@ -3564,7 +3608,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 220846,
       "name": "SUMMER",
       "url": "https://open.spotify.com/track/2qYRPvqYtrAMRB00MUhNr9"
@@ -3590,6 +3634,28 @@
       "duration_ms": 180000,
       "name": "Summer Sun",
       "url": "https://open.spotify.com/track/31trzaw8jTi9P3ChkMKWU4"
+    },
+    {
+      "album": {
+        "name": "Sun Is Shining",
+        "url": "https://open.spotify.com/album/7yoYU6SkSZU5hymtbAoGa2"
+      },
+      "artists": [
+        {
+          "name": "Funkstar De Luxe",
+          "url": "https://open.spotify.com/artist/1R5R9EyBe8MxRuD3BIXaV2"
+        },
+        {
+          "name": "Fred V",
+          "url": "https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167786,
+      "name": "Sun Is Shining",
+      "url": "https://open.spotify.com/track/0bhd0kIKArygQxBeH9a6NP"
     },
     {
       "album": {

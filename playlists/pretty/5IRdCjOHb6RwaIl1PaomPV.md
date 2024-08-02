@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New music from Devon Again and MRD, plus the latest cuts from SURF GANG, benzii + more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,726 likes - 100 songs - 5 hr 9 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,724 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 21 | [We Want More](https://open.spotify.com/track/7nfCb5stHePZ6OoE7HDTe2) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [We Want More](https://open.spotify.com/album/7nKp2UoahBhOLo5KiYHqpd) | 2:53 |
 | 22 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 |
 | 23 | [I Need Your Violence](https://open.spotify.com/track/7hp6wioVHZ9lJIo4Pi42hz) | [Delachute](https://open.spotify.com/artist/63xoDp7jjgyzogVPxmVgjX) | [I Need Your Violence](https://open.spotify.com/album/1XFJR1ZUFIDuIWV23S8KDr) | 2:36 |
-| 24 | [Luxury](https://open.spotify.com/track/4b30gTH3S93qtH6uQKcq6j) | [Miss Madeline](https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v), [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [Luxury](https://open.spotify.com/album/627z5HCoLuRLtWscADexPz) | 2:42 |
+| 24 | [LUXURY](https://open.spotify.com/track/4b30gTH3S93qtH6uQKcq6j) | [Miss Madeline](https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v), [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [LUXURY](https://open.spotify.com/album/627z5HCoLuRLtWscADexPz) | 2:42 |
 | 25 | [Guess](https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 |
 | 26 | [So What If I'm A Freak](https://open.spotify.com/track/1QtnG5cri4ZeYQd20bDlCg) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Night Killaz Vol\. 2](https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX) | 2:26 |
 | 27 | [SAME THING](https://open.spotify.com/track/5z3s5KcMf7rIItfjGJoWqF) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [SAME THING](https://open.spotify.com/album/11Fi8BwZJ7bb9U5a37VM6x) | 1:49 |

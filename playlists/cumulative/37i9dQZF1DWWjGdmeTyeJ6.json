@@ -61715,6 +61715,36 @@
     },
     {
       "album": {
+        "name": "Lejos",
+        "url": "https://open.spotify.com/album/3eyR6OsrjNiYEttVoKsEwx"
+      },
+      "artists": [
+        {
+          "name": "D'Avila",
+          "url": "https://open.spotify.com/artist/6elNbQJgp30Ml9u2jO9RwX"
+        },
+        {
+          "name": "Chell",
+          "url": "https://open.spotify.com/artist/26z5jcyErxp9lUdkw28pId"
+        },
+        {
+          "name": "La Radio Bemb\u00e9 Orquesta",
+          "url": "https://open.spotify.com/artist/6cajshs06v9KvBLZuJZhfW"
+        },
+        {
+          "name": "RI",
+          "url": "https://open.spotify.com/artist/31zcVceg6CBFwo6jiVO3MU"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252583,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/1T6Twzz2hLR3oXJDjjcJTS"
+    },
+    {
+      "album": {
         "name": "Lemon Lime",
         "url": "https://open.spotify.com/album/3ymqSQFuvE9pjyIcjcyIDM"
       },
@@ -87927,6 +87957,24 @@
     },
     {
       "album": {
+        "name": "quiero creer que tienes un buen coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2zzufzmGi2DhSSopXrjXlw"
+      },
+      "artists": [
+        {
+          "name": "cata teuber",
+          "url": "https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216443,
+      "name": "quiero creer que tienes un buen coraz\u00f3n",
+      "url": "https://open.spotify.com/track/62qBQeXsGkn2fytlmvUUvr"
+    },
+    {
+      "album": {
         "name": "Quiero una Bici Pero No Tengo Plata Porque No S\u00e9 Ahorrar",
         "url": "https://open.spotify.com/album/4Djif46DvmAXEU06NsrVfS"
       },
@@ -100986,7 +101034,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 169473,
       "name": "Speed Dial",
       "url": "https://open.spotify.com/track/3qOLholBSafjOGZ7TpnA7S"
@@ -104312,7 +104360,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 245504,
       "name": "Summer Song",
       "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: NIKI",
+  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: Jaz",
   "name": "Ke Seberang",
   "tracks": [
     {
@@ -360,7 +360,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 218735,
       "name": "Coming Home (feat. Chelsea Dawn & Coloura)",
       "url": "https://open.spotify.com/track/4CeQo2SvURvL9gXEF51mGm"
@@ -386,6 +386,24 @@
       "duration_ms": 212631,
       "name": "COMMUNICATE (feat. Jevin Julian)",
       "url": "https://open.spotify.com/track/4kj39oq6LXxu4FgJg8bHT0"
+    },
+    {
+      "album": {
+        "name": "cool enough for you",
+        "url": "https://open.spotify.com/album/7vA18NCulyMLrOtAZaA3AF"
+      },
+      "artists": [
+        {
+          "name": "Skyline",
+          "url": "https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "cool enough for you",
+      "url": "https://open.spotify.com/track/595HL0O9cpL8vYwb9GpbAB"
     },
     {
       "album": {
@@ -534,7 +552,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 188696,
       "name": "eyes closed",
       "url": "https://open.spotify.com/track/4ulnoshXvEKyzwaYETxa5g"
@@ -679,6 +697,24 @@
     },
     {
       "album": {
+        "name": "Fly Me To The Moon (From \"Fly Me To The Moon\" Movie)",
+        "url": "https://open.spotify.com/album/3B5Fj6LFbydv4FoEx48w80"
+      },
+      "artists": [
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170700,
+      "name": "Fly Me To The Moon (From \"Fly Me To The Moon\" Movie)",
+      "url": "https://open.spotify.com/track/7IoVDHWIUmRhzihnBNlVpf"
+    },
+    {
+      "album": {
         "name": "Fool For Love",
         "url": "https://open.spotify.com/album/0baEGC0afclYFUC8RSeUwg"
       },
@@ -755,6 +791,24 @@
     },
     {
       "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/0Mhyp9JonvP6cHv2HWQChq"
+      },
+      "artists": [
+        {
+          "name": "Dreane",
+          "url": "https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/2aQ5TojQsR4rTe1zyiJamc"
+    },
+    {
+      "album": {
         "name": "friends",
         "url": "https://open.spotify.com/album/69HC2sZvAPbn9M92eh5d7F"
       },
@@ -828,6 +882,28 @@
       "duration_ms": 186713,
       "name": "Get Over Him",
       "url": "https://open.spotify.com/track/4lIQwnb1WHfdLf1YJHR31G"
+    },
+    {
+      "album": {
+        "name": "Gotchu",
+        "url": "https://open.spotify.com/album/57MP6GrkfvcHAJrSwTGM0Z"
+      },
+      "artists": [
+        {
+          "name": "Jordy Waelauruw",
+          "url": "https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H"
+        },
+        {
+          "name": "Matthew Sayersz",
+          "url": "https://open.spotify.com/artist/3Qq1nogMjTqDwH8x7MP6qv"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182027,
+      "name": "Gotchu",
+      "url": "https://open.spotify.com/track/7hDjNCo0CR3EHFjOapZCym"
     },
     {
       "album": {
@@ -1048,7 +1124,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 190163,
       "name": "I Will",
       "url": "https://open.spotify.com/track/2QZUzL17JAxao5dFkZuqte"
@@ -1384,7 +1460,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 184315,
       "name": "Loves Hates Loves",
       "url": "https://open.spotify.com/track/43PIMXRQK8LD8rVPZHm1m6"
@@ -1530,7 +1606,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 263852,
       "name": "Neptune",
       "url": "https://open.spotify.com/track/0mvL8pk8TMTM5wNCNdHfGN"
@@ -1831,6 +1907,24 @@
     },
     {
       "album": {
+        "name": "Sandman",
+        "url": "https://open.spotify.com/album/1W3ikg59vMZmXLnhGCMlnh"
+      },
+      "artists": [
+        {
+          "name": "Valentine",
+          "url": "https://open.spotify.com/artist/0b7yUYbKbidPYkoLNAN56k"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103165,
+      "name": "Sandman",
+      "url": "https://open.spotify.com/track/2nR5RuOatuTHHZeXKtw22O"
+    },
+    {
+      "album": {
         "name": "See The Light Light",
         "url": "https://open.spotify.com/album/1yg7SZUZ6O0pAma550EPn8"
       },
@@ -1878,7 +1972,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 193666,
       "name": "SPLIT",
       "url": "https://open.spotify.com/track/2IfF66ZKFHsyoqBI1llkyx"
@@ -1993,6 +2087,24 @@
     },
     {
       "album": {
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/5tmiUYxb4Xx7GgPC8D3LdZ"
+      },
+      "artists": [
+        {
+          "name": "Farrel Hilal",
+          "url": "https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229642,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/5DXX82PVYUYIdAb6czzR6l"
+    },
+    {
+      "album": {
         "name": "take me home",
         "url": "https://open.spotify.com/album/1jsjYXxocWl0MyMvpCJ19k"
       },
@@ -2069,6 +2181,24 @@
     },
     {
       "album": {
+        "name": "Thing I Desire",
+        "url": "https://open.spotify.com/album/3X175TeVLuIdBCfd61jSDm"
+      },
+      "artists": [
+        {
+          "name": "Jordan Susanto",
+          "url": "https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231253,
+      "name": "Thing I Desire",
+      "url": "https://open.spotify.com/track/6xiR9KifftI2POJ091SlIw"
+    },
+    {
+      "album": {
         "name": "Things I Didn't Do",
         "url": "https://open.spotify.com/album/5xFhLv6LmBRAcq5uTUfFfX"
       },
@@ -2106,7 +2236,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 238906,
       "name": "To Lose Someone",
       "url": "https://open.spotify.com/track/1pGoLLnUz6S4dOrw0bYKBW"
@@ -2262,7 +2392,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 175680,
       "name": "Worth",
       "url": "https://open.spotify.com/track/2WSoAaoehLttG8QHoeFtrE"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: JVLI",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Fasma",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -154,6 +154,24 @@
       "duration_ms": 167162,
       "name": "5 MINUTI",
       "url": "https://open.spotify.com/track/35KwZkxsrcJiDJlloj4oHZ"
+    },
+    {
+      "album": {
+        "name": "8 PM",
+        "url": "https://open.spotify.com/album/4WENYnSEuWaTQD3ulS5U8V"
+      },
+      "artists": [
+        {
+          "name": "jiojio",
+          "url": "https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "8 PM",
+      "url": "https://open.spotify.com/track/6dcZGdXWWGyrfxq8MLqXIX"
     },
     {
       "album": {
@@ -896,7 +914,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 181386,
       "name": "Bella",
       "url": "https://open.spotify.com/track/3vdJE5XWVax2kVs6OTJzWM"
@@ -1234,7 +1252,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 162298,
       "name": "Caldo a Milano",
       "url": "https://open.spotify.com/track/0YLWZ7eyri4MRCyzjUismD"
@@ -3921,6 +3939,28 @@
     },
     {
       "album": {
+        "name": "IO X LEI",
+        "url": "https://open.spotify.com/album/1wFNbu08aXhGpJsJ8d845K"
+      },
+      "artists": [
+        {
+          "name": "MATILDE",
+          "url": "https://open.spotify.com/artist/3fefLfPrUjeLE1EVbVCdtJ"
+        },
+        {
+          "name": "Germo67",
+          "url": "https://open.spotify.com/artist/2g8pbTKAMaUasFKyC3GrK1"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134880,
+      "name": "IO X LEI",
+      "url": "https://open.spotify.com/track/36f2RAAEUU6mfZkiY0je48"
+    },
+    {
+      "album": {
         "name": "JAKARTA",
         "url": "https://open.spotify.com/album/6o66691lBA17fu0kiLhK8F"
       },
@@ -4859,6 +4899,28 @@
     },
     {
       "album": {
+        "name": "Gira, il mondo gira",
+        "url": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap"
+      },
+      "artists": [
+        {
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "JVLI",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173842,
+      "name": "Menomale che c'\u00e8 il mare",
+      "url": "https://open.spotify.com/track/5pYy054Wcuj9CFdDIxZSVU"
+    },
+    {
+      "album": {
         "name": "MENOMALE CHE HO TE",
         "url": "https://open.spotify.com/album/4mNjZY5GyNDvGdwLc0Weyn"
       },
@@ -5214,6 +5276,24 @@
       "duration_ms": 182081,
       "name": "Musica Animale",
       "url": "https://open.spotify.com/track/6ELrB0W2OjbLGANsGU7gBn"
+    },
+    {
+      "album": {
+        "name": "MUSICA CUBANA",
+        "url": "https://open.spotify.com/album/408LOLgn21BkpGEvHu4HzJ"
+      },
+      "artists": [
+        {
+          "name": "Federica_",
+          "url": "https://open.spotify.com/artist/75CdCbwT6Q6eGmtO1ya04g"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157800,
+      "name": "MUSICA CUBANA",
+      "url": "https://open.spotify.com/track/0eE6mgYwcz6IsAK7Az131Z"
     },
     {
       "album": {
@@ -6280,6 +6360,24 @@
       "duration_ms": 216000,
       "name": "Per starci in due",
       "url": "https://open.spotify.com/track/0rQkHChEcnGAT5C0yMz5Iz"
+    },
+    {
+      "album": {
+        "name": "PERDONIAMOCI LO STESSO",
+        "url": "https://open.spotify.com/album/2EYUDEWk8OPvYVkojUQy08"
+      },
+      "artists": [
+        {
+          "name": "LINDA",
+          "url": "https://open.spotify.com/artist/50c2SwGX2DmpRjwespS3mv"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191423,
+      "name": "PERDONIAMOCI LO STESSO",
+      "url": "https://open.spotify.com/track/47IkpRhL9DgMsDEvQ8Q8sF"
     },
     {
       "album": {
@@ -7744,7 +7842,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 207725,
       "name": "STACEY",
       "url": "https://open.spotify.com/track/0LnfEYt0a0ttklFD4mby8l"
@@ -8142,6 +8240,24 @@
       "duration_ms": 175135,
       "name": "TONIGHT",
       "url": "https://open.spotify.com/track/30yZdVYOfemHG7uuntz7HH"
+    },
+    {
+      "album": {
+        "name": "Toothgem",
+        "url": "https://open.spotify.com/album/1M72r0COgp4KE101CvnMRt"
+      },
+      "artists": [
+        {
+          "name": "EDN",
+          "url": "https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151071,
+      "name": "TOOTHGEM (4ever)",
+      "url": "https://open.spotify.com/track/6FTcWxKTqQZFhkl3g3v5Oe"
     },
     {
       "album": {
@@ -8986,6 +9102,42 @@
       "duration_ms": 122156,
       "name": "VITA TERREMOTO",
       "url": "https://open.spotify.com/track/0xHJK91SKPQ2jeR2RTJdP2"
+    },
+    {
+      "album": {
+        "name": "VITAMINE",
+        "url": "https://open.spotify.com/album/2VNB04Th2d4hQW5fo8C6M9"
+      },
+      "artists": [
+        {
+          "name": "CALI!",
+          "url": "https://open.spotify.com/artist/0Z2oleyYfipmfCvGMtKhph"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137596,
+      "name": "VITAMINE",
+      "url": "https://open.spotify.com/track/4ErJZNNrSFyklHrUBAAmcP"
+    },
+    {
+      "album": {
+        "name": "Vivere a Riccione",
+        "url": "https://open.spotify.com/album/3qzFwn4AytbtIcdyzj1gTZ"
+      },
+      "artists": [
+        {
+          "name": "Cricca",
+          "url": "https://open.spotify.com/artist/0oiJDgttDtTb1OGGPZmQBX"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210813,
+      "name": "Vivere a Riccione",
+      "url": "https://open.spotify.com/track/0yAHd7qK8nFFUlEfaxQPTd"
     },
     {
       "album": {

@@ -2371,6 +2371,28 @@
     },
     {
       "album": {
+        "name": "Enter the Tonga",
+        "url": "https://open.spotify.com/album/5bgMyqQk70UJf9VMTtcfEn"
+      },
+      "artists": [
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        },
+        {
+          "name": "Daym\u00e9 Arocena",
+          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273834,
+      "name": "Como hielo",
+      "url": "https://open.spotify.com/track/5WLIn8U4sNz7Ffi0IoYcV7"
+    },
+    {
+      "album": {
         "name": "Contra La Corriente",
         "url": "https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c"
       },
@@ -4100,7 +4122,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 190229,
       "name": "Every Trick in the Book",
       "url": "https://open.spotify.com/track/3SZ0veqxOxbVZrZxtHzSG0"
@@ -5992,7 +6014,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 284106,
       "name": "Indio",
       "url": "https://open.spotify.com/track/3PqjKW6RHdOdn951ozbUg6"
@@ -7509,6 +7531,24 @@
     },
     {
       "album": {
+        "name": "Love The Way You Love/Lover's Vow",
+        "url": "https://open.spotify.com/album/5u0g02zU7BM4MclrO8H6Vv"
+      },
+      "artists": [
+        {
+          "name": "Claude Fontaine",
+          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176998,
+      "name": "Love The Way You Love",
+      "url": "https://open.spotify.com/track/556c8oARPcgftAtxRE2Wz9"
+    },
+    {
+      "album": {
         "name": "Lovin'",
         "url": "https://open.spotify.com/album/2agFe3zLex12Y3mSFiuOyb"
       },
@@ -8336,7 +8376,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 207386,
       "name": "Mira Bien",
       "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
@@ -9204,6 +9244,24 @@
       "duration_ms": 291145,
       "name": "Nuda Sorgente",
       "url": "https://open.spotify.com/track/23pDTmgAmsHoLfYDHDAowF"
+    },
+    {
+      "album": {
+        "name": "Kampire Presents: A Dancefloor in Ndola",
+        "url": "https://open.spotify.com/album/4lyimAcV5N5COQ1vXpw8gK"
+      },
+      "artists": [
+        {
+          "name": "Princess Aya Shara",
+          "url": "https://open.spotify.com/artist/1UwPTIWI8fJNReokoYps1O"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 588586,
+      "name": "O Wina Tienge",
+      "url": "https://open.spotify.com/track/4TJYd7m8EoVUrmWqkOIZoN"
     },
     {
       "album": {
@@ -10227,6 +10285,24 @@
     },
     {
       "album": {
+        "name": "The Lost Carnival Tapes",
+        "url": "https://open.spotify.com/album/6YYtb9SAjtb6dolcIyqxlB"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213250,
+      "name": "puma",
+      "url": "https://open.spotify.com/track/0vUkmgjokgPCqgJcODNMlZ"
+    },
+    {
+      "album": {
         "name": "Push Party",
         "url": "https://open.spotify.com/album/66HhgD8992OJjEk8X7KhM4"
       },
@@ -10336,7 +10412,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 319066,
       "name": "Rahat Al Chant Ymme",
       "url": "https://open.spotify.com/track/5ETbQdCORmkZlF23NzmJxx"

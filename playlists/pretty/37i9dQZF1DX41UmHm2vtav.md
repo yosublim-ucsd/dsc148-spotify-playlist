@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,279 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,284 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 41 | [Could You Be Loved](https://open.spotify.com/track/74PQjt9auBuTHXoQk9ryS4) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Could You Be Loved](https://open.spotify.com/album/3IyaJ5J4X4a7PtHDD6rYFu) | 2:14 |
 | 42 | [Fiz Esse Som Pra Você \- Double MZK Remix](https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Fiz Esse Som Pra Você \(Double MZK Remix\)](https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT) | 3:29 |
 | 43 | [Paradise \- Vintage Culture Remix](https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Paradise \(Vintage Culture Remix\)](https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5) | 4:01 |
-| 44 | [Azul \- Illusionize & Linkage Remix](https://open.spotify.com/track/54OR3bj7ddSx8Xm6LLpOxa) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Linkage](https://open.spotify.com/artist/1ZvYE8yQ4j8dBKWNA9JW7R) | [Azul \(Illusionize & Linkage Remix\)](https://open.spotify.com/album/7EX3FMUMFmiu4WBts8RZsz) | 3:18 |
-| 45 | [Dias Melhores \- Remix](https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Dias Melhores \- Remix](https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7) | 2:54 |
+| 44 | [Dias Melhores \- Remix](https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Dias Melhores \- Remix](https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7) | 2:54 |
+| 45 | [Azul \- Illusionize & Linkage Remix](https://open.spotify.com/track/54OR3bj7ddSx8Xm6LLpOxa) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Linkage](https://open.spotify.com/artist/1ZvYE8yQ4j8dBKWNA9JW7R) | [Azul \(Illusionize & Linkage Remix\)](https://open.spotify.com/album/7EX3FMUMFmiu4WBts8RZsz) | 3:18 |
 | 46 | [Low \(feat\. Victor Perry\)](https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Victor Perry](https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE) | [Low \(feat\. Victor Perry\)](https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5) | 2:25 |
 | 47 | [Zé do caroço](https://open.spotify.com/track/0AKNWA4m7jhh4SdZxKMC0R) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh) | [Zé do caroço](https://open.spotify.com/album/2FlQQe9dVw5Feqdv1HWO2Q) | 3:12 |
 | 48 | [I Do \- with Zeeba](https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [I Do \(with Zeeba\)](https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso) | 2:53 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Saudi Arabia.
 
-1,329 songs - 3 day 4 hr 31 min
+1,330 songs - 3 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,7 +388,7 @@
 | [Girl Of My Dreams \(with SUGA of BTS\)](https://open.spotify.com/track/7DF8lvLdV3htIbuTWpc7lR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:46 | 2021-12-12 | 2021-12-14 |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-16 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-13 | 2022-10-14 |
-| [GLORY](https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP) | [Ogryzek](https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm) | [GLORY](https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf) | 2:29 | 2024-07-31 |  |
+| [GLORY](https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP) | [Ogryzek](https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm) | [GLORY](https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf) | 2:29 | 2024-07-31 | 2024-08-02 |
 | [GMFU](https://open.spotify.com/track/6GdhBJBl51BAITWjFyhbtl) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [Myspace Addiction](https://open.spotify.com/album/2Q2ZtKYsGAtTdnqSPWaA1S) | 2:07 | 2023-10-21 | 2023-10-23 |
 | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E) | 2:07 | 2023-08-15 | 2023-10-16 |
 | [God Breathed](https://open.spotify.com/track/1dPNJDYuW9QAtkOpK3eBvO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:33 | 2021-08-31 | 2021-09-01 |
@@ -1236,6 +1236,7 @@
 | [خليجي مطلوب \| تحدونا تحدونا ، ولا قدرو يهزونا](https://open.spotify.com/track/0aajYHsOTw8tfUmpn3r6Ih) | [SRAG FM](https://open.spotify.com/artist/6ABl2w57Uy3xxIb7XOXycd) | [خليجي مطلوب \| تحدونا تحدونا ، ولا قدرو يهزونا](https://open.spotify.com/album/7n0cJB3ncwwJShz9QbgDLr) | 5:08 | 2023-07-12 | 2023-07-16 |
 | [خليجي مطلوب \| سهرت افكر بالليالي و الايام ، و الدنيا ياما ركضتني وراها](https://open.spotify.com/track/5eKYsKNwBUFkYq3X8EifPM) | [SRAG FM](https://open.spotify.com/artist/6ABl2w57Uy3xxIb7XOXycd) | [خليجي مطلوب \| سهرت افكر بالليالي و الايام ، و الدنيا ياما ركضتني وراها](https://open.spotify.com/album/5GICA6fEpPfTkM1Y1GWTfz) | 3:44 | 2023-07-10 | 2023-07-17 |
 | [خليجي مطلوب \| هي طقة وحدة على الراس تكفي ، ابوي رباني لفعل المواجيب](https://open.spotify.com/track/1nsTY8tTJ4S6CAvev3Y6jx) | [SRAG FM](https://open.spotify.com/artist/6ABl2w57Uy3xxIb7XOXycd) | [خليجي مطلوب \| هي طقة وحدة على الراس تكفي ، ابوي رباني لفعل المواجيب](https://open.spotify.com/album/4RVU3ibVE7T38uSqSSNVxd) | 3:36 | 2023-08-04 | 2023-08-08 |
+| [خليجي مطلوب \| ولانت غيم فالسماء \- اصالة .](https://open.spotify.com/track/2GnkDk01pxmxPUslnRCXk3) | [6RB Music](https://open.spotify.com/artist/4GoRMDpTUTmKUN0uqY0Gsk) | [خليجي مطلوب \| ولانت غيم فالسماء \- اصالة .](https://open.spotify.com/album/6qhYXJNnUV5kg9YM9zifz5) | 3:20 | 2024-08-01 |  |
 | [خليجي مطلوب \| يابو ردين يابو ردانه ، حبيته و ضل عايش ببالي](https://open.spotify.com/track/1Chc5i3fi4NUr7j29w9vbE) | [SRAG FM](https://open.spotify.com/artist/6ABl2w57Uy3xxIb7XOXycd) | [خليجي مطلوب \| يابو ردين يابو ردانه ، حبيته و ضل عايش ببالي](https://open.spotify.com/album/1CfO4oaj16f0tfZJgRdzMM) | 3:31 | 2023-07-11 | 2023-07-16 |
 | [خليجي مطلوب \| ياعاذلين الشقاوي ، الجرح ماله مداوي](https://open.spotify.com/track/6G0EKHHN4Lwj4XYuBuwlEg) | [SRAG FM](https://open.spotify.com/artist/6ABl2w57Uy3xxIb7XOXycd) | [خليجي مطلوب \| ياعاذلين الشقاوي ، الجرح ماله مداوي](https://open.spotify.com/album/0VZUBAd1KHwSP3fcdvyeM5) | 2:50 | 2023-07-10 | 2023-08-20 |
 | [خيبه](https://open.spotify.com/track/36BtWEJCiHdQ93ycWh7sYQ) | [Ghareeb Al Mokhles](https://open.spotify.com/artist/3eM60hEiQQkLy0WNlyTiFa) | [خيبه](https://open.spotify.com/album/70BWuxXZqCXCp8VylBtT2c) | 4:36 | 2021-08-28 | 2021-09-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > It's a main pop girl emergency 🆘  Cover: Paris Hilton and Meghan Trainor
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,464 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,772 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 51 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 |
 | 52 | [LIQUORLIPS](https://open.spotify.com/track/1F5EX18FztnE78ZHO4RwZV) | [MINOE](https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi), [Renon](https://open.spotify.com/artist/66puVL22TUX3DM6r0uZyyY) | [LIQUORLIPS](https://open.spotify.com/album/03eheqbsnGtzQThzoCkMj1) | 1:58 |
 | 53 | [Way Back](https://open.spotify.com/track/4AlZ71IlRuG5xCQY4OtPKp) | [Tessa Dixson](https://open.spotify.com/artist/7lIzEb23X68Dbt7Ka94Prh) | [Way Back](https://open.spotify.com/album/5OpMXAZNCvc9CxGC1LD72A) | 2:47 |
-| 54 | [Luxury](https://open.spotify.com/track/4b30gTH3S93qtH6uQKcq6j) | [Miss Madeline](https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v), [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [Luxury](https://open.spotify.com/album/627z5HCoLuRLtWscADexPz) | 2:42 |
+| 54 | [LUXURY](https://open.spotify.com/track/4b30gTH3S93qtH6uQKcq6j) | [Miss Madeline](https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v), [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [LUXURY](https://open.spotify.com/album/627z5HCoLuRLtWscADexPz) | 2:42 |
 | 55 | [PARADISE](https://open.spotify.com/track/15vFR8puc7KZ1YvTWP23A7) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [PARADISE](https://open.spotify.com/album/5B5bNotk4KQ4MlwZfzBtXM) | 2:44 |
 | 56 | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP) | [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs) | 2:31 |
 | 57 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |

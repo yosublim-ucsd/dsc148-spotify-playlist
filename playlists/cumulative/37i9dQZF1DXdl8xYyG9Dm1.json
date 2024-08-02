@@ -803,6 +803,24 @@
     },
     {
       "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/5rb4fEmvkfDSPP9A7YxkPf"
+      },
+      "artists": [
+        {
+          "name": "Emtee",
+          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230426,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/36o7zjnqf5ouMXZTOkI0MK"
+    },
+    {
+      "album": {
         "name": "Madina to the Universe",
         "url": "https://open.spotify.com/album/4q2dTArxnUt4hiWxXK0xPW"
       },
@@ -1488,6 +1506,28 @@
       "duration_ms": 128780,
       "name": "Deposit",
       "url": "https://open.spotify.com/track/4HtPflwFZLKZrP3sUgWhuw"
+    },
+    {
+      "album": {
+        "name": "Depression (feat. Holy Ten)",
+        "url": "https://open.spotify.com/album/0CfrY07EevI7DikmCWQ3Fe"
+      },
+      "artists": [
+        {
+          "name": "Poptain",
+          "url": "https://open.spotify.com/artist/2TXijGGYZ8JnRklS2oFM1B"
+        },
+        {
+          "name": "Holy Ten",
+          "url": "https://open.spotify.com/artist/16b7bAZHyztoAwENn1CRiE"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277132,
+      "name": "Depression (feat. Holy Ten)",
+      "url": "https://open.spotify.com/track/7fikIBIhVSFmBE3ygAXpY5"
     },
     {
       "album": {
@@ -3063,6 +3103,24 @@
     },
     {
       "album": {
+        "name": "Kutsa",
+        "url": "https://open.spotify.com/album/11ktlA1YvImtKaFzT4hPNh"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305882,
+      "name": "Kutsa",
+      "url": "https://open.spotify.com/track/23PRC1Q2VFbIx6sCOCgLQu"
+    },
+    {
+      "album": {
         "name": "Kwaku the Traveller",
         "url": "https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR"
       },
@@ -3912,7 +3970,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 152947,
       "name": "No Option",
       "url": "https://open.spotify.com/track/3mxm7OJDadZK1HYN9ZP8gf"
@@ -5039,6 +5097,24 @@
     },
     {
       "album": {
+        "name": "SLIM YOUNG",
+        "url": "https://open.spotify.com/album/6BB2aZH2L57Orqbit4aubR"
+      },
+      "artists": [
+        {
+          "name": "YoungstaCPT",
+          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "SLIM YOUNG",
+      "url": "https://open.spotify.com/track/1MxnEQyuTCuqALGU9UfYlk"
+    },
+    {
+      "album": {
         "name": "sneaky",
         "url": "https://open.spotify.com/album/5zxTW3yMb6a3DXwtc0oK3B"
       },
@@ -5726,6 +5802,24 @@
       "duration_ms": 208968,
       "name": "Vibration",
       "url": "https://open.spotify.com/track/7p1h63u5ATBUVnpQKP9Qzh"
+    },
+    {
+      "album": {
+        "name": "VIOLATION",
+        "url": "https://open.spotify.com/album/6gpmJar9EPyRhRDzgEs4Pd"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148489,
+      "name": "VIOLATION",
+      "url": "https://open.spotify.com/track/21COrY4QAM3QGc4iIvzD1H"
     },
     {
       "album": {

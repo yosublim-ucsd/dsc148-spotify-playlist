@@ -1,6 +1,6 @@
 {
   "description": "Il meglio della musica indipendente italiana! Cover: <a href=\"spotify:artist:0ez4Y0vHwlRCrqGIkChC3Q\">T\u00c4RA</a>",
-  "num_followers": 8600,
+  "num_followers": 8602,
   "original_name": "Fresh Finds Italia",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Porta Pia",
-        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
-      },
-      "artists": [
-        {
-          "name": "Coca Puma",
-          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
-        }
-      ],
-      "duration_ms": 175458,
-      "name": "Porta Pia",
-      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "MERO CREDIT",
         "url": "https://open.spotify.com/album/0ToH1czj1bGlNTGka6cdzm"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 213230,
       "name": "LEGAMI",
       "url": "https://open.spotify.com/track/1C9OAXQN4zKkPbTRO17Hma"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Porta Pia",
+        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
+      },
+      "artists": [
+        {
+          "name": "Coca Puma",
+          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
+        }
+      ],
+      "duration_ms": 175458,
+      "name": "Porta Pia",
+      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Panna",
-        "url": "https://open.spotify.com/album/0WDVNhN1nl7prWI9ammy88"
-      },
-      "artists": [
-        {
-          "name": "sonogiove",
-          "url": "https://open.spotify.com/artist/2kPbYiHkT1Txa19RSkZrQ7"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Panna",
-      "url": "https://open.spotify.com/track/5B8LQBnX92lMKghnalqQYA"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "su misura",
         "url": "https://open.spotify.com/album/4L1ZJY8ztaQbLN9bPWpc6J"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 218236,
       "name": "Stessa Storia",
       "url": "https://open.spotify.com/track/7KZ9pIkfIqo3BCqBIT2drz"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Panna",
+        "url": "https://open.spotify.com/album/0WDVNhN1nl7prWI9ammy88"
+      },
+      "artists": [
+        {
+          "name": "sonogiove",
+          "url": "https://open.spotify.com/artist/2kPbYiHkT1Txa19RSkZrQ7"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Panna",
+      "url": "https://open.spotify.com/track/5B8LQBnX92lMKghnalqQYA"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Dio \u00e8 femmina \u271f",
-        "url": "https://open.spotify.com/album/2F0IgFjCtZzw4OXEOzCelN"
-      },
-      "artists": [
-        {
-          "name": "DALAI XV",
-          "url": "https://open.spotify.com/artist/54qf1p4GvCN28bNLkutNn6"
-        }
-      ],
-      "duration_ms": 150193,
-      "name": "Dio \u00e8 femmina \u271f",
-      "url": "https://open.spotify.com/track/6eL4g6Pl40dQdAbjKNNJuv"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "DOVE SEI TU",
         "url": "https://open.spotify.com/album/1qdnPsMVlBseg0FHJCO9q4"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 154708,
       "name": "DOVE SEI TU",
       "url": "https://open.spotify.com/track/2Cz3ZPDpYIJNJBd0tzDeK1"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Dio \u00e8 femmina \u271f",
+        "url": "https://open.spotify.com/album/2F0IgFjCtZzw4OXEOzCelN"
+      },
+      "artists": [
+        {
+          "name": "DALAI XV",
+          "url": "https://open.spotify.com/artist/54qf1p4GvCN28bNLkutNn6"
+        }
+      ],
+      "duration_ms": 150193,
+      "name": "Dio \u00e8 femmina \u271f",
+      "url": "https://open.spotify.com/track/6eL4g6Pl40dQdAbjKNNJuv"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Apatia",
-        "url": "https://open.spotify.com/album/1DMTh6TGoVCJyGxdd2VTiB"
-      },
-      "artists": [
-        {
-          "name": "Distemah",
-          "url": "https://open.spotify.com/artist/1Jjk9plzVKCCPjqmipNIuK"
-        }
-      ],
-      "duration_ms": 224571,
-      "name": "Apatia",
-      "url": "https://open.spotify.com/track/0ITpTWRwcK6WvTQn8C2TZk"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "Marea",
         "url": "https://open.spotify.com/album/66NCbMSBW2Fk31nmtSvhuy"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 172481,
       "name": "Marea",
       "url": "https://open.spotify.com/track/1dGE2w5GZZeRk2gO6KfX06"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Apatia",
+        "url": "https://open.spotify.com/album/1DMTh6TGoVCJyGxdd2VTiB"
+      },
+      "artists": [
+        {
+          "name": "Distemah",
+          "url": "https://open.spotify.com/artist/1Jjk9plzVKCCPjqmipNIuK"
+        }
+      ],
+      "duration_ms": 224571,
+      "name": "Apatia",
+      "url": "https://open.spotify.com/track/0ITpTWRwcK6WvTQn8C2TZk"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Tulipano",
-        "url": "https://open.spotify.com/album/7pitv105FPuAQIKwiKGpLU"
-      },
-      "artists": [
-        {
-          "name": "APOLLO QUATTRO",
-          "url": "https://open.spotify.com/artist/4s6RBNeuADV5LVSl0lI0m8"
-        }
-      ],
-      "duration_ms": 122916,
-      "name": "Tulipano",
-      "url": "https://open.spotify.com/track/1YnODCsdwUw3d0dyO7qogW"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "Scriverci solo di notte",
         "url": "https://open.spotify.com/album/57n8Jmc4tyUJkTGXuP2MHp"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 160950,
       "name": "Scriverci solo di notte",
       "url": "https://open.spotify.com/track/6w3zQHAECBgWwAjGuYz1jd"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Tulipano",
+        "url": "https://open.spotify.com/album/7pitv105FPuAQIKwiKGpLU"
+      },
+      "artists": [
+        {
+          "name": "APOLLO QUATTRO",
+          "url": "https://open.spotify.com/artist/4s6RBNeuADV5LVSl0lI0m8"
+        }
+      ],
+      "duration_ms": 122916,
+      "name": "Tulipano",
+      "url": "https://open.spotify.com/track/1YnODCsdwUw3d0dyO7qogW"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Ad Occhi Aperti",
-        "url": "https://open.spotify.com/album/5s0su3k09HeBuNPKuyvU47"
-      },
-      "artists": [
-        {
-          "name": "Anita Cane Violins",
-          "url": "https://open.spotify.com/artist/4o0yqv6vXY7VZiHXFhCBhP"
-        }
-      ],
-      "duration_ms": 243789,
-      "name": "Ad Occhi Aperti",
-      "url": "https://open.spotify.com/track/3NMAYytFJOcIbYAhdJr3gj"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "Nulla di Rotto",
         "url": "https://open.spotify.com/album/5PF7vNOBWsKofw8Ocgb9qX"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 148312,
       "name": "Nulla di Rotto",
       "url": "https://open.spotify.com/track/4csw1DDnIoQRFR6jEVKNA6"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Ad Occhi Aperti",
+        "url": "https://open.spotify.com/album/5s0su3k09HeBuNPKuyvU47"
+      },
+      "artists": [
+        {
+          "name": "Anita Cane Violins",
+          "url": "https://open.spotify.com/artist/4o0yqv6vXY7VZiHXFhCBhP"
+        }
+      ],
+      "duration_ms": 243789,
+      "name": "Ad Occhi Aperti",
+      "url": "https://open.spotify.com/track/3NMAYytFJOcIbYAhdJr3gj"
     },
     {
       "added_at": "2024-07-18 22:01:00",

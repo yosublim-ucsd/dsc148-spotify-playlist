@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Enjoy trendy & chill Korean R&B music\. \(Cover: GroovyRoom\(그루비룸\)\)
+> Enjoy trendy & chill Korean R&B music\. \(Cover: Colde\(콜드\)\)
 
-727 songs - 1 day 14 hr 53 min
+728 songs - 1 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,6 +454,7 @@
 | [Nightmare \(feat\. Plo6, Stay.d & O RO\)](https://open.spotify.com/track/5gOsBcGDog5XvleJjOFz02) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [Plo6](https://open.spotify.com/artist/7qY3PamjXoWN7X51bZuoBa), [Stay.d](https://open.spotify.com/artist/2pLNWAWPJJwM2r2zfDinLZ), [O RO](https://open.spotify.com/artist/3bYQBVXWRrgRQpi0BjSy9n) | [The moment I loved](https://open.spotify.com/album/0kGEApRuPVl76yI8cJbXQn) | 2:40 | 2024-01-04 | 2024-01-09 |
 | [nike \(feat\. Rovv\)](https://open.spotify.com/track/75JEZqR29zVCZQ4BE6iSii) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy) | [The Good Days Boys Vol.5](https://open.spotify.com/album/2OGD6TvczAOm8AJk0V21cU) | 3:07 | 2022-04-19 | 2022-04-21 |
 | [Nikon \(Prod\. Strawberrybananaclub\)](https://open.spotify.com/track/3Gs9FpGGc9bUwr8QDGoGzE) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:51 | 2022-11-09 | 2022-12-06 |
+| [Nirvana Blues](https://open.spotify.com/track/7Kg4EWw7TSiXAczXDQfhSn) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [YIN](https://open.spotify.com/album/3SKAMCBO0FkSyKIO4aqsIs) | 2:54 | 2024-08-01 |  |
 | [No Blueberries](https://open.spotify.com/track/0sGuE1QPupKA3D0LyZbTaN) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [No Blueberries](https://open.spotify.com/album/0b2gjEKztBkBBhQ16bM1JS) | 3:05 | 2022-04-19 | 2022-07-29 |
 | [No Jam](https://open.spotify.com/track/0DY6EuQNgZItf5nWrmUsH9) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Foggy](https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN) | 2:47 | 2024-03-14 | 2024-03-28 |
 | [No Numbers \(feat\. JMIN\)](https://open.spotify.com/track/3n2GHYGyQOkMw5LTFQgjy0) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo) | [No Numbers \(feat\. JMIN\)](https://open.spotify.com/album/5pOaEeLYnWzUILmjYJlyRh) | 2:56 | 2022-04-19 | 2022-06-26 |
@@ -535,7 +536,7 @@
 | [Refresh \(feat\. Gist & Kid Wine\)](https://open.spotify.com/track/30SwX34WgPlXKkqnJHrhlG) | [LOTI](https://open.spotify.com/artist/5HlwsKjYi0iygvWg19itif), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Refresh \(feat\. Gist & Kid Wine\)](https://open.spotify.com/album/0Nt3sn3MrZhQb3hfR3xEvL) | 3:29 | 2023-01-11 | 2023-01-24 |
 | [Remember \(Feat\. Owell Mood\)](https://open.spotify.com/track/3UBJWEPCIFeVbhnb8wWh2w) | [XAXA](https://open.spotify.com/artist/2Rtn7OFpkjyS5OXGaKzwW1), [Owell Mood](https://open.spotify.com/artist/21PxLOZet5J6uX4uMfXUTA) | [Remember](https://open.spotify.com/album/4yHWe2xBs5mk0wNHafCUVH) | 3:01 | 2022-04-19 | 2022-04-21 |
 | [Respect](https://open.spotify.com/track/2b8wiA0rT5h1ONtW9HsXUt) | [안신애](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Respect](https://open.spotify.com/album/3oikuOBybmjw4rW7SBFWwD) | 3:01 | 2023-09-22 | 2023-09-28 |
-| [Restless](https://open.spotify.com/track/4AHNi316rl3KI3hKIsdxZe) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [LISTEN 035 Restless](https://open.spotify.com/album/5xDX8Uv4ojXg0ONDEcAMra) | 4:27 | 2022-04-19 |  |
+| [Restless](https://open.spotify.com/track/4AHNi316rl3KI3hKIsdxZe) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [LISTEN 035 Restless](https://open.spotify.com/album/5xDX8Uv4ojXg0ONDEcAMra) | 4:27 | 2022-04-19 | 2024-08-02 |
 | [Riddle \(feat\. Khundi Panda\)](https://open.spotify.com/track/0CfaShWRNwAS86m7gzbehv) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [Riddle](https://open.spotify.com/album/37jhqfjnQFN5ObACGJkdUv) | 2:47 | 2022-06-23 | 2022-06-30 |
 | [Right Back \(Feat\. Tabber\)](https://open.spotify.com/track/5w0UlB7OxmoBF5kpT6uFKw) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [Lucky Charms!](https://open.spotify.com/album/6bwVdSQ3xOtkSgNIzhqiaa) | 3:26 | 2022-05-31 | 2022-06-17 |
 | [right now](https://open.spotify.com/track/1nEHkqPpdcYimQBcksbpFe) | [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [right now](https://open.spotify.com/album/0outmoEBf1z970iFwCEPBs) | 2:15 | 2022-09-30 | 2022-10-06 |

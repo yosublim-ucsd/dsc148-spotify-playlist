@@ -742,7 +742,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 230779,
       "name": "Aviones Plateados - En Directo",
       "url": "https://open.spotify.com/track/2fqKBa80qJ7yhucBwLXZF5"
@@ -778,7 +778,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 211173,
       "name": "Ay Que Gustito Pa' Mis Orejas",
       "url": "https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ"
@@ -934,6 +934,28 @@
       "duration_ms": 132000,
       "name": "Botella de Bourbon",
       "url": "https://open.spotify.com/track/39wn7M3QYDEE1mJ56ZKpw6"
+    },
+    {
+      "album": {
+        "name": "Brujer\u00eda",
+        "url": "https://open.spotify.com/album/604LGUysYpwc6RakYXcwj0"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        },
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173747,
+      "name": "Brujer\u00eda",
+      "url": "https://open.spotify.com/track/24gWATPwYxTmiONnUPxWE6"
     },
     {
       "album": {
@@ -1128,7 +1150,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 163096,
       "name": "Camel Azul",
       "url": "https://open.spotify.com/track/4AFKOfwPxjqrefiLuulwOi"
@@ -1212,6 +1234,24 @@
       "duration_ms": 263679,
       "name": "Carolina - En directo 2000",
       "url": "https://open.spotify.com/track/4UtREbGYnd1nZLckEb5y8J"
+    },
+    {
+      "album": {
+        "name": "Cero",
+        "url": "https://open.spotify.com/album/08D2aSYaV7qHvjbpmcM5e3"
+      },
+      "artists": [
+        {
+          "name": "\u00c1rtico",
+          "url": "https://open.spotify.com/artist/3gFAuZ4KboKdPv5NVbJoNQ"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Cero",
+      "url": "https://open.spotify.com/track/3bhXXovZkABx9Lcr3FrtoD"
     },
     {
       "album": {
@@ -3154,7 +3194,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 230439,
       "name": "Envenenado",
       "url": "https://open.spotify.com/track/1hAKsHlm2QX2G3WyzTBiML"
@@ -3194,7 +3234,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 206587,
       "name": "Escuela de Calor",
       "url": "https://open.spotify.com/track/3gZfybjGrmBTM5ZkREYlGc"
@@ -3644,7 +3684,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 244559,
       "name": "Hasta Nunca",
       "url": "https://open.spotify.com/track/0CrZKf3YOh05j5vrNeG9gR"
@@ -3952,7 +3992,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 169857,
       "name": "Jugadora",
       "url": "https://open.spotify.com/track/3dkkjfO6Ljul67LJg1H327"
@@ -4028,6 +4068,24 @@
       "duration_ms": 327426,
       "name": "La chispa adecuada (Bendecida 3)",
       "url": "https://open.spotify.com/track/4vkSJSyPddHwL7v3l1cuRf"
+    },
+    {
+      "album": {
+        "name": "Su (Demos y Rarezas)",
+        "url": "https://open.spotify.com/album/2yQoq7j051We620UNfKhSe"
+      },
+      "artists": [
+        {
+          "name": "Lagartija Nick",
+          "url": "https://open.spotify.com/artist/6Ipe0i7N3mneCjxpkNifri"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221040,
+      "name": "La curva de las cosas - Demo 1994",
+      "url": "https://open.spotify.com/track/52hVeIcKXDdsUNL1Ywdf3p"
     },
     {
       "album": {
@@ -4552,6 +4610,24 @@
       "duration_ms": 244890,
       "name": "Letras Absurdas",
       "url": "https://open.spotify.com/track/5wOxmAdbz3ihLAiHxxX7ts"
+    },
+    {
+      "album": {
+        "name": "Lilith",
+        "url": "https://open.spotify.com/album/0edmhStnvhxbOi2XnSmFXx"
+      },
+      "artists": [
+        {
+          "name": "Mastodonte",
+          "url": "https://open.spotify.com/artist/4hXAEP4eZ8Et0UMdOdOf0E"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352677,
+      "name": "Lilith",
+      "url": "https://open.spotify.com/track/2pnJutJkLuvaI4kmDR8kot"
     },
     {
       "album": {
@@ -5222,7 +5298,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 207181,
       "name": "Medalla De Oro A La Mejor Canci\u00f3n de Amor",
       "url": "https://open.spotify.com/track/5sRbPtGGRrkrtJdRU1p6G3"
@@ -5606,6 +5682,24 @@
       "duration_ms": 205400,
       "name": "Nelly",
       "url": "https://open.spotify.com/track/6E0pZMYmvV68vfmZhQiSSB"
+    },
+    {
+      "album": {
+        "name": "Ap\u00e1galo",
+        "url": "https://open.spotify.com/album/28Bg4Mv5tF0WYZ6iK1fSuJ"
+      },
+      "artists": [
+        {
+          "name": "Kar\u00f6linox",
+          "url": "https://open.spotify.com/artist/3HKLyR9zFWqDJZ4p0ECNzZ"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 531680,
+      "name": "Ni De Ti, Ni De MI",
+      "url": "https://open.spotify.com/track/5yqM9wnBWzJ1zlwG4HvpsQ"
     },
     {
       "album": {
@@ -6146,7 +6240,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 338250,
       "name": "Peter Pan",
       "url": "https://open.spotify.com/track/5uWhDDdBiy7YmvCybN5VOk"
@@ -6634,7 +6728,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 299977,
       "name": "Rey del Glam",
       "url": "https://open.spotify.com/track/7tWHQ6cmZ1Li3g1OdlHWz1"
@@ -7362,7 +7456,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 183895,
       "name": "Superpoderes",
       "url": "https://open.spotify.com/track/3tOmba4egArWKvCUPfEMfU"

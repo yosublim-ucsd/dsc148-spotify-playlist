@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/6dEsYPAyaDPGSFj4gmJuHL"
+      },
+      "artists": [
+        {
+          "name": "Sofia Dragt",
+          "url": "https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224666,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/45tIEhTXA50v2MQ4yazpxF"
+    },
+    {
+      "album": {
         "name": "Best Friend",
         "url": "https://open.spotify.com/album/7DJoUssMTS1AkOfi2BUiiW"
       },
@@ -2948,7 +2966,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 195096,
       "name": "The Way You Take Time - acoustic",
       "url": "https://open.spotify.com/track/18fvrCWvxLrNLyU8cPK2or"

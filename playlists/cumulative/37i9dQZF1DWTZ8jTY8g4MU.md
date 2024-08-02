@@ -4,7 +4,7 @@
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: بدر العزي
 
-243 songs - 15 hr 55 min
+244 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,7 @@
 | [وزارة اسكاني](https://open.spotify.com/track/4YvlDxpWkMJ5tyzkyveeV6) | [صالح ال كليب](https://open.spotify.com/artist/280TGPMuHgU0HFq9FqUF5C) | [وزارة اسكاني](https://open.spotify.com/album/6gPBVi3twSgqFBJFUwgijh) | 4:12 | 2023-08-11 |  |
 | [وش أعذارك؟](https://open.spotify.com/track/7eYxzed6mzLT3dTMr6XqL5) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [وش أعذارك؟](https://open.spotify.com/album/2WiFUfc6Ch5i5DgbjqkiK1) | 3:17 | 2023-12-25 |  |
 | [وعد مني](https://open.spotify.com/track/2869XYduH4Dp3YfUwvroOe) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [وعد مني](https://open.spotify.com/album/5adznLBvnzA9GgW76kLOpD) | 3:26 | 2023-02-22 | 2024-06-01 |
-| [وين خله](https://open.spotify.com/track/4A1GsSwPC727G2bnuYFB0g) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [وين خله](https://open.spotify.com/album/4iTzRBpspqUvC2YjLWb7oQ) | 3:40 | 2024-05-09 |  |
+| [وين خله](https://open.spotify.com/track/4A1GsSwPC727G2bnuYFB0g) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [وين خله](https://open.spotify.com/album/4iTzRBpspqUvC2YjLWb7oQ) | 3:40 | 2024-05-09 | 2024-08-02 |
 | [وين رايح](https://open.spotify.com/track/6WVupuiS3OeUEWrdlxJBsi) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [وين رايح](https://open.spotify.com/album/4NikyjIrV6CFkJYQTtVjlB) | 3:49 | 2024-05-30 |  |
 | [وينه](https://open.spotify.com/track/4gYCz0aEcywZ3yY5HStjCn) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [وينه](https://open.spotify.com/album/23LvBPe1UpqU3KQUelauno) | 3:36 | 2023-02-22 | 2023-09-22 |
 | [وينها أيامك](https://open.spotify.com/track/04TqNXSCZQwFmsR2CW3deb) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [وينها أيامك](https://open.spotify.com/album/6oxPZ7NoFWbv8FI1KbUD41) | 4:04 | 2023-03-14 | 2023-09-22 |
@@ -249,6 +249,7 @@
 | [يامجرمة](https://open.spotify.com/track/1ZsJGnLQ6Dz8IKGdjlwsz6) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [يامجرمة](https://open.spotify.com/album/3qGwl0Gu4UGJqjekXuGs6S) | 2:55 | 2023-02-22 | 2023-09-22 |
 | [يامرحبا والفن هلا](https://open.spotify.com/track/1gEUyMIXZW4UgiYSAs1yvB) | [عمر الشراري](https://open.spotify.com/artist/09tFkOSMCVZWp5TELEi0iz) | [يامرحبا والفن هلا](https://open.spotify.com/album/4E4ookkpGCRux266b6g9XM) | 2:44 | 2024-02-01 |  |
 | [ياوقت](https://open.spotify.com/track/639jQrPyDSLttOX5wym9zk) | [فلاح المسردي](https://open.spotify.com/artist/21Thm4pTSbEQCsFEbausED) | [ياوقت](https://open.spotify.com/album/78hVLUZy6yTNZwSnshEJyj) | 6:07 | 2023-03-28 | 2023-09-02 |
+| [يحبك قلبي](https://open.spotify.com/track/5418ozmjWY7SLsRHfviqk1) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [يحبك قلبي](https://open.spotify.com/album/3kqxJyn6LoM7rL3BUUpPbx) | 3:59 | 2024-08-01 |  |
 | [يرد الروح](https://open.spotify.com/track/5579TUnu8gaeE19Gv6A1Jx) | [عبدالله الصخابرة](https://open.spotify.com/artist/25X99KPCcqOuOC8FaBtTwV) | [يرد الروح](https://open.spotify.com/album/6OLXCf1A1LmbGJWM4R7eWC) | 3:55 | 2024-01-05 |  |
 | [‎يا ابن خماش](https://open.spotify.com/track/5poJi9KfMINtm0sZ06nSoD) | [محمد آل نجم](https://open.spotify.com/artist/6XFaew6NT18YAjTawaYaTI) | [‎يا ابن خماش](https://open.spotify.com/album/74qnorGX715jcLNRMmMSds) | 4:02 | 2022-08-31 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Ice Spice, Mustard, Young Nudy and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,703 likes - 58 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,692 likes - 58 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

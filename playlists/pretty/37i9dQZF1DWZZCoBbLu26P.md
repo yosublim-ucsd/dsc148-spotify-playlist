@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > Queens everywhere \- givin' us life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,929 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,951 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 11 | [Hello Hello](https://open.spotify.com/track/3ASVJOZFgksyINCAEKBHaA) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [The Blonde & Pink Albums](https://open.spotify.com/album/2Ggu5GAKTDpd3PcekYnZWe) | 2:36 |
 | 12 | [Break Up Bye Bye \- Frock Destroyers Version](https://open.spotify.com/track/13lgFanIzQVjIiVvxyAjjS) | [The Cast of RuPaul's Drag Race UK](https://open.spotify.com/artist/7oNsk0nkBTccrd9DTdeiPc), [Frock Destroyers](https://open.spotify.com/artist/0bgDzuEKKYLcQrvb0XANf1) | [Break Up Bye Bye \(Frock Destroyers Version\)](https://open.spotify.com/album/4vydhCuNsBlq3S4PNCO5K6) | 2:31 |
 | 13 | [Hectic](https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Hectic](https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB) | 2:37 |
-| 14 | [I Made It / Mirror Song / Losing is the New Winning \- Las Vegas Live Medley](https://open.spotify.com/track/07kDfz5ku5fXzINGGYUWhn) | [The Cast of RuPaul's Drag Race, Season 12](https://open.spotify.com/artist/082jBeu8MzgcpEAYU56yJt) | [I Made It / Mirror Song / Losing is the New Winning \(Las Vegas Live Medley\)](https://open.spotify.com/album/3PijFdAw2jAST2TApJBGWr) | 7:49 |
+| 14 | [Sweet and Sour](https://open.spotify.com/track/5Agunnfj2SyNhhFWNmQ8JE) | [Lemon](https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B) | [Sweet and Sour](https://open.spotify.com/album/1w8Q8MWgBAgSNoI5wUL2qG) | 1:48 |
 | 15 | [Queens Everywhere \- Cast Version](https://open.spotify.com/track/2zbCUcfKcM9RDsnDcuybvV) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [The Cast of RuPaul's Drag Race, Season 11](https://open.spotify.com/artist/66HGzvDigC8CCp6ZGfEC6i), [Markaholic](https://open.spotify.com/artist/0ZUGTZ3ItqNjAtQUVjNKnu) | [Queens Everywhere \(Cast Version\)](https://open.spotify.com/album/4qRdeAlRbk0LfK6IHgNf5n) | 3:17 |
-| 16 | [Sweet and Sour](https://open.spotify.com/track/5Agunnfj2SyNhhFWNmQ8JE) | [Lemon](https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B) | [Sweet and Sour](https://open.spotify.com/album/1w8Q8MWgBAgSNoI5wUL2qG) | 1:48 |
+| 16 | [I Made It / Mirror Song / Losing is the New Winning \- Las Vegas Live Medley](https://open.spotify.com/track/07kDfz5ku5fXzINGGYUWhn) | [The Cast of RuPaul's Drag Race, Season 12](https://open.spotify.com/artist/082jBeu8MzgcpEAYU56yJt) | [I Made It / Mirror Song / Losing is the New Winning \(Las Vegas Live Medley\)](https://open.spotify.com/album/3PijFdAw2jAST2TApJBGWr) | 7:49 |
 | 17 | [Malibu](https://open.spotify.com/track/1BjZQhaQy04o37ETiZrXdl) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Barbara](https://open.spotify.com/album/6PMAcubRYoflJL5bnAW0nZ) | 3:02 |
 | 18 | [Beyoncé](https://open.spotify.com/track/6AJwO8TbYoWaFDhA48qRbu) | [Monét X Change](https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w) | [Unapologetically](https://open.spotify.com/album/7C2zKok0wu806UhS2qC8R8) | 2:56 |
 | 19 | [A Prueba De Todo](https://open.spotify.com/track/5K9629jLBvdabDmmhdCLui) | [Valentina](https://open.spotify.com/artist/0j1JDlYHGnOf8zQE3OzlyF) | [A Prueba De Todo](https://open.spotify.com/album/3kJ8eCheV6bqBprBW0UaN8) | 3:24 |

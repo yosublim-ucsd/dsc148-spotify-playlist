@@ -4,7 +4,7 @@
 
 > New music from Mustard, Ice Spice and Young Nudy.
 
-2,098 songs - 4 day 12 hr 49 min
+2,099 songs - 4 day 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -836,6 +836,7 @@
 | [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 | 2023-07-28 | 2024-03-16 |
 | [I Like Girls \(feat\. Lil Skies\)](https://open.spotify.com/track/4KXDT3pmPDB9IB6hTUoGpd) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [I Like Girls \(feat\. Lil Skies\)](https://open.spotify.com/album/4VJClrN4XctgW0auQg2BG6) | 2:35 | 2019-05-26\* | 2019-06-15 |
 | [i n t e r l u d e](https://open.spotify.com/track/2gyYjQWXKxemhAyMPgctIx) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [i n t e r l u d e](https://open.spotify.com/album/0WvwihMfA5E29MrLyNpJYF) | 2:11 | 2021-05-08 | 2021-05-15 |
+| [I Need A Hot Girl](https://open.spotify.com/track/25CnqAR7fzAQbb2SVoSa0b) | [Hot Boys](https://open.spotify.com/artist/0ecnb1WPePfrHg4yfQfmqN), [Big Tymers](https://open.spotify.com/artist/4jWGfUCFeTu5e0wprRhHXR) | [Guerrilla Warfare](https://open.spotify.com/album/6eUYT38tLl7YwqZFJm1Ulb) | 4:52 | 2024-08-01 |  |
 | [I Need A Thug](https://open.spotify.com/track/2SOoJnfRWOEeme123rd0B3) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [I Need A Thug](https://open.spotify.com/album/23QZB0Q3annZYCOiKRB4Pl) | 1:57 | 2023-06-09 | 2023-06-17 |
 | [i need u](https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [i need u](https://open.spotify.com/album/0uSAjejTknuT68AYVrzsmz) | 2:28 | 2023-03-10 | 2023-03-25 |
 | [I NEED YOU TO \(BREONNA TAYLOR\)](https://open.spotify.com/track/2OluGQ4FdEhpOjJGveO3b2) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [THE PANDEMIC PROJECT](https://open.spotify.com/album/69S4wWFLBEnM8nfC1h6rPm) | 0:41 | 2020-08-07 | 2020-08-11 |

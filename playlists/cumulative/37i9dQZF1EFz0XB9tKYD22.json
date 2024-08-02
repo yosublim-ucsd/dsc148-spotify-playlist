@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-29",
+      "date_removed": null,
       "duration_ms": 240840,
       "name": "23 Degrees And South",
       "url": "https://open.spotify.com/track/3eKwcOjuBr5xKwuguvUIYE"
@@ -3680,7 +3680,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 173173,
       "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
       "url": "https://open.spotify.com/track/1G7lSPzVlGydbpeQOY2gNu"
@@ -3710,6 +3710,36 @@
       "duration_ms": 173173,
       "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
       "url": "https://open.spotify.com/track/5Y05LYM8LhnQN78GqfjSeK"
+    },
+    {
+      "album": {
+        "name": "HIXTAPE: Vol. 1",
+        "url": "https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs"
+      },
+      "artists": [
+        {
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        },
+        {
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173173,
+      "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
+      "url": "https://open.spotify.com/track/2tev2oEdAUyNtR1U8gQ8c4"
     },
     {
       "album": {
@@ -6298,6 +6328,24 @@
       "duration_ms": 200640,
       "name": "Written In The Bar",
       "url": "https://open.spotify.com/track/6Po3hqpoEUAFkeubltnsJv"
+    },
+    {
+      "album": {
+        "name": "You Ain't Know",
+        "url": "https://open.spotify.com/album/4ivpwP0SYc2dvvRgduvLjg"
+      },
+      "artists": [
+        {
+          "name": "Millz Tha Difference",
+          "url": "https://open.spotify.com/artist/3rI5ILtC3NxAtuRDzJ292X"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214608,
+      "name": "You Ain't Know",
+      "url": "https://open.spotify.com/track/270EaQRmJklbHSrcPKQbGt"
     },
     {
       "album": {

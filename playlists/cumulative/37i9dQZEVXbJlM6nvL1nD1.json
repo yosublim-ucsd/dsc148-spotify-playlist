@@ -453,6 +453,24 @@
     },
     {
       "album": {
+        "name": "A Mi Modo",
+        "url": "https://open.spotify.com/album/3VNHpjIz0LBijTPf4yhS8A"
+      },
+      "artists": [
+        {
+          "name": "DAMIANES VIVE",
+          "url": "https://open.spotify.com/artist/573FzJjxso6H5fZhRqgVuh"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130860,
+      "name": "A Mi Modo",
+      "url": "https://open.spotify.com/track/6GI9bqDXL4uS2Xe5hSY0qn"
+    },
+    {
+      "album": {
         "name": "SAYONARA",
         "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
       },
@@ -8315,6 +8333,24 @@
     },
     {
       "album": {
+        "name": "LA ISLA LP",
+        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184748,
+      "name": "La \u00daltima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/2mRwodUOATBk5spcUsEidB"
+    },
+    {
+      "album": {
         "name": "Ladr\u00f3n de Amor",
         "url": "https://open.spotify.com/album/2SXuOiiKaWjPcg2gayfh8B"
       },
@@ -10342,7 +10378,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 164386,
       "name": "MIENTRAS ME CURO DEL CORA",
       "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
@@ -18024,7 +18060,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 185722,
       "name": "Ya No Somos Ni Seremos",
       "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"

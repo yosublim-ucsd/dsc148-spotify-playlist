@@ -2,7 +2,7 @@
 
 ### [This Is Yeah Yeah Yeahs](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2h0PGU)
 
-> This is Yeah Yeah Yeahs\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Yeah Yeah Yeahs。アーティストの代表曲をひとつのプレイリストに。
 
 76 songs - 4 hr 37 min
 

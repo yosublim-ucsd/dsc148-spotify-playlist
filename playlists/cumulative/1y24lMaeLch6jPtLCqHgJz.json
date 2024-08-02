@@ -833,6 +833,28 @@
     },
     {
       "album": {
+        "name": "Beauty Of The Rave",
+        "url": "https://open.spotify.com/album/4RfarIOhg1WEPdnjSJvz1Y"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        },
+        {
+          "name": "Moji",
+          "url": "https://open.spotify.com/artist/6xVsW7h4SzGxh6iIgaJQm7"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173443,
+      "name": "Beauty Of The Rave",
+      "url": "https://open.spotify.com/track/3xK1m14J42fNwNN6dBk7us"
+    },
+    {
+      "album": {
         "name": "Bel Mercy",
         "url": "https://open.spotify.com/album/7kJhB3zZiALyIaWRGO3rwE"
       },

@@ -2,9 +2,9 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> Il meglio dell’indie italiano! Cover: Coma\_Cose
+> Il meglio dell’indie italiano! Cover: VV
 
-71 songs - 3 hr 38 min
+72 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Le parole più grandi](https://open.spotify.com/track/3i4rci1J95OdMxer9kxjqW) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Niente che non va](https://open.spotify.com/album/633YqTzw4kncLmIwFfsP0K) | 3:44 | 2024-06-27 |  |
 | [Lividi](https://open.spotify.com/track/6C0lbJ5lZxSWiZOv8jNBby) | [COMETE](https://open.spotify.com/artist/7ASul1q4D4AEBiGFohve61) | [Lividi](https://open.spotify.com/album/57cfLRda3OYKLW8E0bERkx) | 3:09 | 2024-06-27 | 2024-07-05 |
 | [Loneliness](https://open.spotify.com/track/0HJd4ynGL3mn0p2o6WE9DI) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [RELAX](https://open.spotify.com/album/4fPV5OWBxzBVaYRbXduGtj) | 2:39 | 2024-06-27 |  |
+| [Los Angeles](https://open.spotify.com/track/1FAM18Z4mFvKwYxketR1OT) | [Lucrezia](https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl) | [Los Angeles](https://open.spotify.com/album/7GysRxTAg4WPtrOwzbGPJe) | 3:25 | 2024-08-01 |  |
 | [MALAVITA](https://open.spotify.com/track/49tdZnvKAnJP6Xb3PUucPD) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [MALAVITA](https://open.spotify.com/album/0uPO1QkqyQi4aw1LcbMntE) | 2:46 | 2024-06-27 |  |
 | [Mambo](https://open.spotify.com/track/1Eslj0XCaVpzPbYBmaol7T) | [Tatum Rush](https://open.spotify.com/artist/47p2js8l70JjDWGS0a1hqr) | [Mambo](https://open.spotify.com/album/4Rf1gy3dHPSQNFhanMHtjp) | 4:05 | 2024-07-04 |  |
 | [Manifesto Egoista \(feat\. Carlo Amleto\)](https://open.spotify.com/track/0wRVfbqHnpNXgTLRLmmrJ9) | [Folcast](https://open.spotify.com/artist/1PWmqY7ed9o6dgpAYYWZmS), [Carlo Amleto](https://open.spotify.com/artist/0RoPAqbX6Dzbr81tQZB6E5) | [Manifesto Egoista \(feat\. Carlo Amleto\)](https://open.spotify.com/album/37TzRpbavzizY6wHoXwSBp) | 2:53 | 2024-07-25 |  |
@@ -66,7 +67,7 @@
 | [Sottobraccio](https://open.spotify.com/track/1VQKJQjZNPCYJE5EoAzVil) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Sottobraccio](https://open.spotify.com/album/1DdZcRfIq0l3fYFTdYXS8y) | 3:08 | 2024-06-27 |  |
 | [STRANO DESERTO ᨎ \(con Cosmo, Rares\)](https://open.spotify.com/track/1YFhKr5EldFs93ywTtSzLi) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX), [Rareș](https://open.spotify.com/artist/1Bma7GS3Si9l7IZEc3S5L8) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 4:31 | 2024-06-27 |  |
 | [Sul più bello](https://open.spotify.com/track/0LPXTnvvNYBa3sIjdCytcz) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Sul più bello](https://open.spotify.com/album/3yo8OZxRy2L9CMyzCK8jmx) | 2:56 | 2024-07-18 |  |
-| [SUPERORGASMO](https://open.spotify.com/track/76oSCqmn2ur4jxICmp5ZKz) | [Giovanni Ti Amo](https://open.spotify.com/artist/29OsfkIbRZNyCeodZ0uc6K) | [ULTRAFRAGOLA](https://open.spotify.com/album/2nKUWSfMt5T1uUw0dG246Q) | 2:39 | 2024-06-27 |  |
+| [SUPERORGASMO](https://open.spotify.com/track/76oSCqmn2ur4jxICmp5ZKz) | [Giovanni Ti Amo](https://open.spotify.com/artist/29OsfkIbRZNyCeodZ0uc6K) | [ULTRAFRAGOLA](https://open.spotify.com/album/2nKUWSfMt5T1uUw0dG246Q) | 2:39 | 2024-06-27 | 2024-08-02 |
 | [Terra bruciata](https://open.spotify.com/track/7rY0vHCtgNI37kMY9wIkCg) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Lovebars](https://open.spotify.com/album/37uJcI0dW70M5Hbg1WearN) | 2:45 | 2024-06-27 |  |
 | [Tokyo 20](https://open.spotify.com/track/4psZkMjNV6bDrkvKFjGtFU) | [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK) | [Tokyo 20 / Spirito](https://open.spotify.com/album/3vSYheKa4APkJSC03A77Bo) | 3:21 | 2024-07-11 |  |
 | [Trasparente](https://open.spotify.com/track/7K51Wblkit2uioRGADynFB) | [M.E.R.L.O.T](https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1) | [Trasparente](https://open.spotify.com/album/1do0123ojQgh5q61ie8qoT) | 3:17 | 2024-06-27 | 2024-07-19 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "CADU entra na zona. ",
+  "description": "Piruka entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -3594,16 +3594,16 @@
           "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
         },
         {
-          "name": "CADU",
-          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
-        },
-        {
           "name": "10/16",
           "url": "https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE"
         },
         {
           "name": "Blutab",
           "url": "https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07"
+        },
+        {
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
         },
         {
           "name": "Midas",
@@ -4632,6 +4632,28 @@
       "duration_ms": 127113,
       "name": "FRESH AS FUKKK",
       "url": "https://open.spotify.com/track/2gQ0HjifSyj1fD1yyYV3SN"
+    },
+    {
+      "album": {
+        "name": "FUGU NA TERRA",
+        "url": "https://open.spotify.com/album/4Mz9rd2iO1lxXdBFYWhQtW"
+      },
+      "artists": [
+        {
+          "name": "MOR3NO",
+          "url": "https://open.spotify.com/artist/6AMhf6PcVHkmKuCP4zrfVr"
+        },
+        {
+          "name": "Active Boyz",
+          "url": "https://open.spotify.com/artist/1IxCHgFpxES88DBJRotUe9"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157846,
+      "name": "FUGU NA TERRA",
+      "url": "https://open.spotify.com/track/7uxpA6fUhTpi49y9Y4w07x"
     },
     {
       "album": {
@@ -9596,7 +9618,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 197166,
       "name": "Rap Sujo",
       "url": "https://open.spotify.com/track/7bkzBiqI4AsNw4EYzIsWoO"

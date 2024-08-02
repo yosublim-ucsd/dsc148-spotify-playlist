@@ -1,12 +1,12 @@
 {
-  "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 136188,
+  "description": "This Is Kenny G. Los temas esenciales, todos en una lista.",
+  "num_followers": 136210,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqgtAAAAAABgH1m/VDypg9XDZzJ3guEA",
+  "snapshot_id": "Zql+gAAAAAB0EOVIJu5u6UBuzUhL5fMo",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 194373,
-      "name": "You Raise Me Up",
-      "url": "https://open.spotify.com/track/3yYMnwomVxxFZCMsHqJ6sC"
+      "duration_ms": 179573,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/0DPUhwShX0kQQvrG4A0CCD"
     },
     {
       "added_at": null,
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 179573,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/0DPUhwShX0kQQvrG4A0CCD"
+      "duration_ms": 194373,
+      "name": "You Raise Me Up",
+      "url": "https://open.spotify.com/track/3yYMnwomVxxFZCMsHqJ6sC"
     },
     {
       "added_at": null,
@@ -127,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Innocence",
-        "url": "https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x"
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/6cVND8ZOdvMdSgpdGXQHvi"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 192492,
-      "name": "Over The Rainbow",
-      "url": "https://open.spotify.com/track/1kdJIblHd6cHPMqoHXbEWJ"
+      "duration_ms": 327600,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/3E3u7Aq7DvJCj2kiGXAknO"
     },
     {
       "added_at": null,
@@ -159,8 +159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silhouette",
-        "url": "https://open.spotify.com/album/6cVND8ZOdvMdSgpdGXQHvi"
+        "name": "Innocence",
+        "url": "https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x"
       },
       "artists": [
         {
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 327600,
-      "name": "Silhouette",
-      "url": "https://open.spotify.com/track/3E3u7Aq7DvJCj2kiGXAknO"
+      "duration_ms": 192492,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/1kdJIblHd6cHPMqoHXbEWJ"
     },
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ultimate Kenny G",
-        "url": "https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P"
+        "name": "Songbird: The Best Of Kenny G",
+        "url": "https://open.spotify.com/album/0QBvGlklvMn3Tx5xEzFZ06"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 256519,
-      "name": "Everlasting",
-      "url": "https://open.spotify.com/track/4wukH3ea6NqekDg98qB9F2"
+      "duration_ms": 261200,
+      "name": "My Heart Will Go On (Love Theme from \"Titanic\")",
+      "url": "https://open.spotify.com/track/5f2u9cxFcnNAmYEEkIVGkw"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songbird: The Best Of Kenny G",
-        "url": "https://open.spotify.com/album/0QBvGlklvMn3Tx5xEzFZ06"
+        "name": "Ultimate Kenny G",
+        "url": "https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 261200,
-      "name": "My Heart Will Go On (Love Theme from \"Titanic\")",
-      "url": "https://open.spotify.com/track/5f2u9cxFcnNAmYEEkIVGkw"
+      "duration_ms": 256519,
+      "name": "Everlasting",
+      "url": "https://open.spotify.com/track/4wukH3ea6NqekDg98qB9F2"
     },
     {
       "added_at": null,

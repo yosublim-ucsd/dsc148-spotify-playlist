@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,046 likes - 100 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,056 likes - 100 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [HENRY'S REVENGE](https://open.spotify.com/track/43ibXIVa1Vz273QcmTtNEU) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [HENRY'S REVENGE](https://open.spotify.com/album/0JwZDMbKZtTjBViOxbsVq7) | 4:24 |
 | 2 | [We Have Arrived \- Aphex Twin TTQ Mix](https://open.spotify.com/track/1wtUxqwBn0zxUidtsUVO6J) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Classics](https://open.spotify.com/album/3SLSq9tzQ8Wq8RWuo0MaXG) | 5:06 |
-| 3 | [Valley of the Shadows \(Awake ’96 Remix\)](https://open.spotify.com/track/7sE0CR32GrdIDwbFntObhb) | [Origin Unknown](https://open.spotify.com/artist/6kvXn2MzCLCtsAqf5nbmho) | [Valley of the Shadows](https://open.spotify.com/album/5fWVvxaSJgpESrUvNIk9PF) | 6:15 |
+| 3 | [Valley of the Shadows \- Awake ’96 Remix](https://open.spotify.com/track/7sE0CR32GrdIDwbFntObhb) | [Origin Unknown](https://open.spotify.com/artist/6kvXn2MzCLCtsAqf5nbmho) | [Valley of the Shadows](https://open.spotify.com/album/5fWVvxaSJgpESrUvNIk9PF) | 6:15 |
 | 4 | [I Got You \(Ezee Boy\)](https://open.spotify.com/track/2ajk7ZtXl4YCHWi7ycFWbM) | [Pascal](https://open.spotify.com/artist/7oFOEJjZHWP1Jcf8KyZFiB) | [Just Rollin a Fat B / I Got You \(Ezee Boy\)](https://open.spotify.com/album/5Ny8NiuQh52c1GobR0xGMJ) | 5:53 |
 | 5 | [Rhythm](https://open.spotify.com/track/0IThnWAQ5vxPjZ8tuGaKN8) | [Bay B Kane](https://open.spotify.com/artist/2bmPucDtmNJQiRlyn7nQqM) | [The Guardian of Ruff](https://open.spotify.com/album/0OOtYEy6IjtG267h1KaaCf) | 6:05 |
 | 6 | [Lords of the Null\-Lines \- Foul Play Remix](https://open.spotify.com/track/6PfJ2p79SshnmKy1E69gP3) | [Hyper On Experience](https://open.spotify.com/artist/45kQgK3LDATK2QzBpnlL4g), [Foul Play](https://open.spotify.com/artist/67FRYUfxVqKOrS3x4emvL8) | [Lords of the Null\-Lines \(Foul Play Remix\) / Thunder Grip \(Kaotic Chemistry Remix\)](https://open.spotify.com/album/4PqlPvuIaOHPPrLTZv0bPP) | 6:28 |

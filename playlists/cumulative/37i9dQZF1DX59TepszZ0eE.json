@@ -3167,6 +3167,24 @@
     },
     {
       "album": {
+        "name": "Joyous Celebration 28 (Live at the Durban Icc)",
+        "url": "https://open.spotify.com/album/2F6EYWwEN8z7yuzjtV5WB2"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 636960,
+      "name": "Ngiza Ngokukholwa (Live at the Durban Icc)",
+      "url": "https://open.spotify.com/track/7ni9SGonngu16zwAbFwVW9"
+    },
+    {
+      "album": {
         "name": "Kulungile Baba Live",
         "url": "https://open.spotify.com/album/2LrlhOhIwh3ebdqYSbTAuD"
       },
@@ -3222,6 +3240,28 @@
       "duration_ms": 244400,
       "name": "Ngoziphilela",
       "url": "https://open.spotify.com/track/6U0474ZSk2nJIYrYr5nr4G"
+    },
+    {
+      "album": {
+        "name": "Ngoziphilela Ngomthandazo",
+        "url": "https://open.spotify.com/album/3Dm1OvOSDwg49R5JLCiwSu"
+      },
+      "artists": [
+        {
+          "name": "Njabulo Masinga",
+          "url": "https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3"
+        },
+        {
+          "name": "Mphostoli We Keyboard",
+          "url": "https://open.spotify.com/artist/1lgM1mjTHzMVjWZv08fTIN"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211069,
+      "name": "Ngoziphilela Ngomthandazo",
+      "url": "https://open.spotify.com/track/3uaa8MjF6P0JYJwBdzkNww"
     },
     {
       "album": {

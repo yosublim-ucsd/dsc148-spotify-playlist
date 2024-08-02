@@ -2,9 +2,9 @@
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> CADU entra na zona.
+> Piruka entra na zona.
 
-595 songs - 1 day 7 hr 50 min
+596 songs - 1 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Drill Clássico](https://open.spotify.com/track/4If6p0UoEWdp9Sh5V907xN) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [Tina Dance Mixtape \(Sabor 2000\)](https://open.spotify.com/album/12sviYcaMWsIv1psyn63LB) | 2:24 | 2023-07-13 | 2023-07-17 |
 | [Drill Clássico](https://open.spotify.com/track/7c7vruftDkTBDv59lHW7VZ) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [Tina Dance Mixtape \(Sabor 2000\)](https://open.spotify.com/album/11tgu5DZT4iYWYpOuiXIwF) | 2:24 | 2023-07-06 | 2023-07-14 |
 | [Drunk in Love](https://open.spotify.com/track/2fmGyS46jsnGAkwAKjLev7) | [Jvst Fly](https://open.spotify.com/artist/4yafH0N98ld6th7MqELRXa) | [Drunk in Love](https://open.spotify.com/album/69P2QzizEduJz9I5GQhmvB) | 2:44 | 2023-06-01 | 2023-07-07 |
-| [Dádiva](https://open.spotify.com/track/2SXJrnha0vFakr4eNlDM85) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3), [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE), [Blutab](https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07), [Midas](https://open.spotify.com/artist/1so0cEsQMRr2pdTMdrLfRh) | [Dádiva](https://open.spotify.com/album/75ybVxYcuBAlsWkUXwHpuE) | 5:52 | 2024-06-20 |  |
+| [Dádiva](https://open.spotify.com/track/2SXJrnha0vFakr4eNlDM85) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE), [Blutab](https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07), [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3), [Midas](https://open.spotify.com/artist/1so0cEsQMRr2pdTMdrLfRh) | [Dádiva](https://open.spotify.com/album/75ybVxYcuBAlsWkUXwHpuE) | 5:52 | 2024-06-20 |  |
 | [E\-mo](https://open.spotify.com/track/29z7EQ6AKHcWFm2UTZQ27j) | [Holympo](https://open.spotify.com/artist/3nwFRfquZaKGnuH3b66uj9) | [E\-mo](https://open.spotify.com/album/6u2I1k4ZP6WoE2vc8pV8XK) | 2:19 | 2024-03-15 | 2024-04-05 |
 | [EASPORTSFC 24](https://open.spotify.com/track/4SCS2z4mG5Jl6LRzD4H1Pk) | [Wine TKK](https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx) | [EASPORTSFC 24](https://open.spotify.com/album/4Kpjwyi1aIoW3t10FI75Ul) | 2:40 | 2023-09-28 | 2023-11-11 |
 | [ELA QUERIA MAIS](https://open.spotify.com/track/4tAMEP8kPju61BoZtj0whg) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [MINA D'OURO](https://open.spotify.com/album/7uTknfX0WjeP7j1ucunTrF) | 2:15 | 2023-04-06 | 2023-07-07 |
@@ -233,6 +233,7 @@
 | [Forever Na Street](https://open.spotify.com/track/2Vbx8D4gpGQinSC4sDzHjH) | [Landim](https://open.spotify.com/artist/3OUfbyxrlqldajHHi7MGMh) | [Forever Na Street](https://open.spotify.com/album/0SYbOWZfcjV2Eqwq1XtMZk) | 2:33 | 2023-03-30 | 2023-04-21 |
 | [Free](https://open.spotify.com/track/63Jjy7fGgU2ktyQGPKbFIH) | [Instinto 26](https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV) | [Free](https://open.spotify.com/album/4phICo5aQYrUQfiojNZsoN) | 3:31 | 2024-02-02 | 2024-02-23 |
 | [FRESH AS FUKKK](https://open.spotify.com/track/2gQ0HjifSyj1fD1yyYV3SN) | [DEMME](https://open.spotify.com/artist/6kFnnwnS7U9otVnD5iNFyQ) | [TRAP SEASON](https://open.spotify.com/album/7rUkbZjRnOSOvAPPfk8bKX) | 2:07 | 2023-07-27 | 2023-08-18 |
+| [FUGU NA TERRA](https://open.spotify.com/track/7uxpA6fUhTpi49y9Y4w07x) | [MOR3NO](https://open.spotify.com/artist/6AMhf6PcVHkmKuCP4zrfVr), [Active Boyz](https://open.spotify.com/artist/1IxCHgFpxES88DBJRotUe9) | [FUGU NA TERRA](https://open.spotify.com/album/4Mz9rd2iO1lxXdBFYWhQtW) | 2:37 | 2024-08-01 |  |
 | [Full Energy](https://open.spotify.com/track/5hNNuSn3Fjlr02onQZsYYN) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Full Energy](https://open.spotify.com/album/6F7ekEU8gKdmlMulngcTfV) | 3:05 | 2024-04-11 | 2024-06-21 |
 | [Full MUN](https://open.spotify.com/track/3lLSbyWLusbwHxJLl9KrXI) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr) | [Full MUN](https://open.spotify.com/album/1sVW0JK8GDwPiM3AmcIIKU) | 3:13 | 2023-03-10 | 2023-04-07 |
 | [Futre \- Ao Vivo](https://open.spotify.com/track/7nCK3OdL8UbaTYlrcFdSkE) | [Regula](https://open.spotify.com/artist/6pyqBc7HaffcZJhyfjnceP) | [Unplugged](https://open.spotify.com/album/32ohvDoxRJRnfbZBA4MwfQ) | 3:28 | 2024-03-01 | 2024-03-22 |
@@ -468,7 +469,7 @@
 | [Quem Tu Mereces](https://open.spotify.com/track/2qNu8tgL3PPubm8NzSQzb9) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd) | [Quem Tu Mereces](https://open.spotify.com/album/2tQ4nC33veFyfLbI0EwSo7) | 3:32 | 2024-02-09 | 2024-06-14 |
 | [Quem é Que?](https://open.spotify.com/track/1nMboVwLRXO35cTE4z5het) | [Easy B](https://open.spotify.com/artist/3AgMg0N4qAog29ZoOYKZlP) | [Quem é Que?](https://open.spotify.com/album/6OvYWO1eXqPjOpjS7Ub8Q4) | 3:21 | 2024-06-13 | 2024-06-28 |
 | [Quitada](https://open.spotify.com/track/2syKsGREUuYq4pzIBxInwQ) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi) | [Quitada](https://open.spotify.com/album/1UKouz84LcP3b8XMmJiPmo) | 3:28 | 2022-08-11 | 2022-09-02 |
-| [Rap Sujo](https://open.spotify.com/track/7bkzBiqI4AsNw4EYzIsWoO) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG) | [Rap Sujo](https://open.spotify.com/album/1kmaDhh2tjVwS9nTWTqvFf) | 3:17 | 2024-07-04 |  |
+| [Rap Sujo](https://open.spotify.com/track/7bkzBiqI4AsNw4EYzIsWoO) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG) | [Rap Sujo](https://open.spotify.com/album/1kmaDhh2tjVwS9nTWTqvFf) | 3:17 | 2024-07-04 | 2024-08-02 |
 | [Red Eyes](https://open.spotify.com/track/5ufHiz91MIA3J9RPEZsQif) | [LZ](https://open.spotify.com/artist/7ylnIZOT3I0EdTMcWVTLud), [XROOTZ](https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb) | [Red Eyes](https://open.spotify.com/album/75hNFogm7XD0x3C35HYxpq) | 3:08 | 2024-03-08 | 2024-03-29 |
 | [Relationships](https://open.spotify.com/track/2c6NTXscal2z9IdiaE6zTG) | [MS Capone](https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP) | [Relationships](https://open.spotify.com/album/5CtrUKdY2on57OK5ScI9qq) | 3:05 | 2023-05-18 | 2023-07-07 |
 | [REMORSOS](https://open.spotify.com/track/4ekjMdP0ZoVQp7aDnhTElh) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [REMORSOS](https://open.spotify.com/album/7vZNDgdTEG5YVUV8n0b4FZ) | 2:59 | 2024-06-27 |  |

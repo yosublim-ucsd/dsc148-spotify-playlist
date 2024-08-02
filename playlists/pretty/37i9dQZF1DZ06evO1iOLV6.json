@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 9788,
+  "num_followers": 9795,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqgtAAAAAAB4GPf6tMJqPu8+dsxZ4Y+d",
+  "snapshot_id": "Zql+gAAAAAAjc4iA9d6a0d0pPJA9grjw",
   "tracks": [
     {
       "added_at": null,
@@ -307,26 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love You Die (feat. Diamond Platnumz)",
-        "url": "https://open.spotify.com/album/55VuLbTps49geEwrRAB0OD"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        }
-      ],
-      "duration_ms": 195597,
-      "name": "Love You Die (feat. Diamond Platnumz)",
-      "url": "https://open.spotify.com/track/6BnKiK0FwqJoqCdVKh442g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prayer Request",
         "url": "https://open.spotify.com/album/4kSVYeLN9Z7918DM3JrDQp"
       },
@@ -347,22 +327,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afro Pop, Vol. 1",
-        "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
+        "name": "Love You Die (feat. Diamond Platnumz)",
+        "url": "https://open.spotify.com/album/55VuLbTps49geEwrRAB0OD"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
         }
       ],
-      "duration_ms": 186782,
-      "name": "Pretty Girl",
-      "url": "https://open.spotify.com/track/6G7Jnkix0H7nBxqjqGbD50"
+      "duration_ms": 195597,
+      "name": "Love You Die (feat. Diamond Platnumz)",
+      "url": "https://open.spotify.com/track/6BnKiK0FwqJoqCdVKh442g"
     },
     {
       "added_at": null,
@@ -383,6 +363,26 @@
       "duration_ms": 235514,
       "name": "Girlie 'O' - Remix",
       "url": "https://open.spotify.com/track/7eE7wjlxscWbY9K1vwIC6m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Afro Pop, Vol. 1",
+        "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 186782,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/6G7Jnkix0H7nBxqjqGbD50"
     },
     {
       "added_at": null,
@@ -1015,22 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WORLD BEST",
-        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 219552,
-      "name": "Smoke & Vibes",
-      "url": "https://open.spotify.com/track/6jFlpzEpvEPKDgLGrmgS7O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alubarika",
         "url": "https://open.spotify.com/album/6IZKiJ8BBmkh176u71Tvyw"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 235440,
       "name": "Alubarika",
       "url": "https://open.spotify.com/track/5xgplU8BucIPYcUehSY7ym"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 219552,
+      "name": "Smoke & Vibes",
+      "url": "https://open.spotify.com/track/6jFlpzEpvEPKDgLGrmgS7O"
     },
     {
       "added_at": null,

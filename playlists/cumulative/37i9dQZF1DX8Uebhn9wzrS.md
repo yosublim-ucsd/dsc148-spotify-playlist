@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,016 songs - 3 day 4 hr 50 min
+2,018 songs - 3 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1216,7 +1216,7 @@
 | [Nightrider](https://open.spotify.com/track/6vNocabqNxmIsiBzrJTaQ0) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Nightrider](https://open.spotify.com/album/09tfyEXrLwwJOuTo8ta0Kf) | 2:03 | 2023-03-01 |  |
 | [nights go by](https://open.spotify.com/track/5TC2wrYzGhhr1wO7BSsGOA) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [nights go by](https://open.spotify.com/album/7bPSnIFDMDlKT2xyW87SMl) | 3:08 | 2024-01-05 |  |
 | [No Ice](https://open.spotify.com/track/0Ki80etD1qrDyTHXR9Ufaw) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [No Ice](https://open.spotify.com/album/4z75LOO80h08jNgo4vPuDK) | 2:17 | 2022-04-15 | 2023-03-09 |
-| [No Need To Cry](https://open.spotify.com/track/2dWOhDo5tYBvEbbZHi9SVH) | [Rez Tiller](https://open.spotify.com/artist/6kMQXQHnSoU416PTFgiCQn) | [No Need To Cry](https://open.spotify.com/album/1RbJCiIwOVuMsRf6c59B1C) | 2:23 | 2023-04-03 |  |
+| [No Need To Cry](https://open.spotify.com/track/2dWOhDo5tYBvEbbZHi9SVH) | [Rez Tiller](https://open.spotify.com/artist/6kMQXQHnSoU416PTFgiCQn) | [No Need To Cry](https://open.spotify.com/album/1RbJCiIwOVuMsRf6c59B1C) | 2:23 | 2023-04-03 | 2024-08-02 |
 | [no rain today](https://open.spotify.com/track/0EJ4R1FWyczgGsdlIKgjyX) | [Avenue Arts](https://open.spotify.com/artist/3JBqMhMwu7mQz9onsWHdsl) | [no rain today](https://open.spotify.com/album/0m36fSjMw8zlqjdJH2VQYg) | 1:24 | 2023-01-06 |  |
 | [No Saintz](https://open.spotify.com/track/201Uk2CZF6aJTSYDE307i3) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [No Saintz](https://open.spotify.com/album/1S3RYqAldSKsGhupkolVOc) | 1:52 | 2022-10-07 | 2024-07-14 |
 | [No Signal](https://open.spotify.com/track/7pawJCUMhambr79ohofk0A) | [Nosmoh](https://open.spotify.com/artist/7MZx3uoMDM7wE8An0kdHwa) | [No Signal](https://open.spotify.com/album/1ZmJBdbfQGKI6MacQ816JQ) | 2:30 | 2022-12-02 | 2023-09-16 |
@@ -1407,6 +1407,7 @@
 | [Proletarian](https://open.spotify.com/track/6eFrj1ET7RnXJ1yoijLtmy) | [Mr Clyde](https://open.spotify.com/artist/1opBFPwxKU6AtV79qj6wby) | [Proletarian](https://open.spotify.com/album/1tRUkbUU72JPWg5eDes1ne) | 1:06 | 2024-03-01 | 2024-06-08 |
 | [Proud](https://open.spotify.com/track/389TtRJoTkbZ8VtGkt22iC) | [SPEERMINT](https://open.spotify.com/artist/4vUekBx2RSM0U87RLJl1pL) | [Proud](https://open.spotify.com/album/6kethGKQhDlXousA0NfVCD) | 2:16 | 2022-12-02 |  |
 | [prpl rain](https://open.spotify.com/track/2W5wmuEdzrYMNmQDWfKDWQ) | [Kenzie](https://open.spotify.com/artist/0QYQjRbAV7qfoTpUW4Bmrh), [Paul Claypool](https://open.spotify.com/artist/6zsLzT78IZnCNC0qzgxo9c) | [prpl rain](https://open.spotify.com/album/2zSyInCYQdZbakgd0VIF83) | 2:44 | 2023-03-20 | 2023-10-06 |
+| [Puddles in Space](https://open.spotify.com/track/3ea0vKpsVdSastrJIMEXpq) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Puddles in Space](https://open.spotify.com/album/1Q2651xcc76V9IqxvUrNi4) | 2:04 | 2024-07-26 |  |
 | [puppy hotel](https://open.spotify.com/track/2MZhYQCGhF4Fo2KpyHzFYL) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [puppy hotel](https://open.spotify.com/album/51SCqLyDV7DSr68sEzhDA1) | 1:43 | 2023-12-22 | 2024-07-27 |
 | [Purified Soul](https://open.spotify.com/track/2JGKpdMtspPxONj1xJYwS1) | [Henry Lowe](https://open.spotify.com/artist/1Op6kjtkZu2Yqx5UprLQVt) | [Purified Soul & Refreshing Air](https://open.spotify.com/album/0GIIExJeHSE5hR32lBLnVi) | 3:12 | 2022-10-28 |  |
 | [Purity Of Mountain](https://open.spotify.com/track/3suiDAiG53bMdlILyKc0DT) | [Starlies](https://open.spotify.com/artist/3ZXBbe1WF1PfwggpEOcips), [Ouflen](https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7) | [Purity Of Mountain](https://open.spotify.com/album/7JG5zE2IwShFXGiJbFyYQ2) | 2:17 | 2023-03-24 | 2024-02-09 |
@@ -1544,6 +1545,7 @@
 | [She Ski Lifts My Spirits](https://open.spotify.com/track/329HZF8ohmz9GYbFchV8wa) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [She Ski Lifts My Spirits](https://open.spotify.com/album/7gdWhNl9Nm20pp8QGaZTcz) | 3:15 | 2023-02-06 |  |
 | [She Won’t Say](https://open.spotify.com/track/65Y6wPTP8UkhnX3Bqf5bd1) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S), [Guillaume Muschalle](https://open.spotify.com/artist/43sWO6H2WXUn7HbNPnyG5X) | [We Must Believe in Spring](https://open.spotify.com/album/34Mc3rhKGN4b8YUZQX8LvE) | 2:24 | 2022-04-15 | 2022-05-27 |
 | [Shelter from the Rain](https://open.spotify.com/track/5mVcNIcuA4AaLSe8ktZadf) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [Shelter from the Rain](https://open.spotify.com/album/1Ud55m8IUWsnJ3fDXcNm5f) | 2:15 | 2023-10-20 |  |
+| [sherbert lemon](https://open.spotify.com/track/6oPALt4XihU2L0aT8uuuXT) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [sherbert lemon](https://open.spotify.com/album/3bE3RjpZubC98DPrmOSlco) | 2:15 | 2024-07-26 |  |
 | [Shifting Sands](https://open.spotify.com/track/4oikNLzA8VDnsEXrsiHQA9) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Shifting Sands](https://open.spotify.com/album/3gEyvquozZ9YafoVW5Xlq2) | 2:27 | 2023-10-06 |  |
 | [Shine](https://open.spotify.com/track/2iy5zw1TcG78KODuv9hG1P) | [Ah\. BLOOM](https://open.spotify.com/artist/1WCbF1wd3vJOgwlBy4csXn), [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Shine](https://open.spotify.com/album/3TE8nSmg9B4WkCbkJXhHRW) | 3:53 | 2022-12-16 | 2023-09-16 |
 | [Shiny Cement \- Garden](https://open.spotify.com/track/4Z5iuqme7UL1ihly12mbZr) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [Shiny Cement](https://open.spotify.com/album/5BQNNaVQL1pKqyBZtOFj4E) | 2:20 | 2022-06-17 | 2023-09-29 |
@@ -1661,7 +1663,7 @@
 | [Startup](https://open.spotify.com/track/0tiZ9oJR4dHPc0Q81hILQf) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [Startup](https://open.spotify.com/album/5VabtlN8uQLiftYe13BGvJ) | 2:47 | 2022-04-15 | 2022-09-09 |
 | [stomp around](https://open.spotify.com/track/7ccSh1AqYoH8UMvWU43HQZ) | [Miss Misaki](https://open.spotify.com/artist/72WUl0K33i5N2nHaAeOw0M) | [stomp around](https://open.spotify.com/album/1pt2F8Ch6rYUGFMirLfo0f) | 2:07 | 2023-07-13 |  |
 | [Stones](https://open.spotify.com/track/1EDesWUrHjghCMZb0jjbS3) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Stones](https://open.spotify.com/album/5PUftgP7uBfDuHrkzer3vV) | 2:17 | 2023-10-13 |  |
-| [Stoplight](https://open.spotify.com/track/4rl9BtI2ieHybBIVbjf1tG) | [Mr\. Shirai](https://open.spotify.com/artist/6nndu85w7OaaggJul6H0GH) | [Stoplight](https://open.spotify.com/album/1JjsVP9vK43eiZrpw70zoq) | 2:49 | 2023-06-06 |  |
+| [Stoplight](https://open.spotify.com/track/4rl9BtI2ieHybBIVbjf1tG) | [Mr\. Shirai](https://open.spotify.com/artist/6nndu85w7OaaggJul6H0GH) | [Stoplight](https://open.spotify.com/album/1JjsVP9vK43eiZrpw70zoq) | 2:49 | 2023-06-06 | 2024-08-02 |
 | [Strawberry Blonde](https://open.spotify.com/track/4UcBw2iCihERGKHF9mcC3S) | [Moon Ghetto](https://open.spotify.com/artist/13Z78tf8milV5V0tcNwVq0), [Azido 88](https://open.spotify.com/artist/36Hfqd2C0x7oulFJTAuIt0) | [Gaia](https://open.spotify.com/album/6DBGmUiDexYuVZTMA5D4pp) | 2:08 | 2022-04-15 | 2022-10-01 |
 | [Strawberry Mojito](https://open.spotify.com/track/4tv0OtMtBA5l12gmw20HpO) | [Baby Peppers](https://open.spotify.com/artist/6brahtsoEAq3syNfD48Ovx) | [Drizzle Weather](https://open.spotify.com/album/2i6h4wpnqljpXQwJMLQPSQ) | 1:46 | 2022-08-19 |  |
 | [Straylights](https://open.spotify.com/track/2vwVuPxqckJFtBMIHME8xu) | [downstreamdream](https://open.spotify.com/artist/3C1jiA2XGYEbXdJtAUpmVO) | [Straylights](https://open.spotify.com/album/0KwARguET2k5Ue0rovfMrG) | 2:00 | 2022-06-03 | 2023-01-13 |

@@ -1,13 +1,33 @@
 {
   "description": "ur on the list bb \ud83e\ude90 featuring Sofi Tukker",
-  "num_followers": 461413,
+  "num_followers": 461100,
   "original_name": "planet rave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpmecAAAAAAQ7HiserVRVDw3smv5r/xk",
+  "snapshot_id": "ZqwTcAAAAABaS4KZk5h+bkizJMpopsiF",
   "tracks": [
+    {
+      "added_at": "2024-08-01 23:00:00",
+      "album": {
+        "name": "Guess featuring Billie Eilish",
+        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 143330,
+      "name": "Guess featuring Billie Eilish",
+      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+    },
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
@@ -47,6 +67,38 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
+        "name": "composure",
+        "url": "https://open.spotify.com/album/4Wbv9vgwg26DkAVDimPzxP"
+      },
+      "artists": [
+        {
+          "name": "Maya Randle",
+          "url": "https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02"
+        }
+      ],
+      "duration_ms": 152228,
+      "name": "set me free",
+      "url": "https://open.spotify.com/track/6OwL6fdrcvoy92PPHo5wGP"
+    },
+    {
+      "added_at": "2024-08-01 23:00:00",
+      "album": {
+        "name": "don't come back",
+        "url": "https://open.spotify.com/album/11cbxbrYCNcdzRMAbbKZop"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "don't come back",
+      "url": "https://open.spotify.com/track/3tPrgyExznmJs4wA51yXlJ"
+    },
+    {
+      "added_at": "2024-07-18 23:00:00",
+      "album": {
         "name": "Comfort In Chaos",
         "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
       },
@@ -63,22 +115,6 @@
       "duration_ms": 131294,
       "name": "palm of my hands",
       "url": "https://open.spotify.com/track/6y5HLopYu7Uu0hYwVBj4T6"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "composure",
-        "url": "https://open.spotify.com/album/4Wbv9vgwg26DkAVDimPzxP"
-      },
-      "artists": [
-        {
-          "name": "Maya Randle",
-          "url": "https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02"
-        }
-      ],
-      "duration_ms": 152228,
-      "name": "set me free",
-      "url": "https://open.spotify.com/track/6OwL6fdrcvoy92PPHo5wGP"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -245,6 +281,22 @@
       "url": "https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b"
     },
     {
+      "added_at": "2024-08-01 23:00:00",
+      "album": {
+        "name": "TOUCH",
+        "url": "https://open.spotify.com/album/7E9Pv3aT6vzq6DXj96O55S"
+      },
+      "artists": [
+        {
+          "name": "AMARA ctk100",
+          "url": "https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy"
+        }
+      ],
+      "duration_ms": 147656,
+      "name": "TOUCH",
+      "url": "https://open.spotify.com/track/7guJDb91UHeVH2keqLE3jP"
+    },
+    {
       "added_at": "2024-07-18 23:00:00",
       "album": {
         "name": "Does It Even",
@@ -347,6 +399,22 @@
       "duration_ms": 237142,
       "name": "U Know Me?",
       "url": "https://open.spotify.com/track/6qobMGvkUQAfILYTo6usJR"
+    },
+    {
+      "added_at": "2024-08-01 23:00:00",
+      "album": {
+        "name": "Refresh",
+        "url": "https://open.spotify.com/album/6xQT7CYmL3XJkyidWIAxpu"
+      },
+      "artists": [
+        {
+          "name": "MYLK",
+          "url": "https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX"
+        }
+      ],
+      "duration_ms": 169926,
+      "name": "Refresh",
+      "url": "https://open.spotify.com/track/4Rj70VdR4fBnDauT5fStt8"
     },
     {
       "added_at": "2024-07-18 23:00:00",
@@ -2279,22 +2347,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "summer in the rain",
-        "url": "https://open.spotify.com/album/5ZDHGnmqfZRdgsjDmw6xZz"
-      },
-      "artists": [
-        {
-          "name": "niina",
-          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
-        }
-      ],
-      "duration_ms": 158080,
-      "name": "gimme gimme",
-      "url": "https://open.spotify.com/track/0LWrBENo9TbgKc8hmIn1Ec"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
         "url": "https://open.spotify.com/album/4tdjof8Q9w84L19SH3gY2K"
       },
@@ -2483,22 +2535,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "f0rbiidden l0ve$tory",
-        "url": "https://open.spotify.com/album/34neOqBrIAoc7zw2qZN2JE"
-      },
-      "artists": [
-        {
-          "name": "horsegiirL",
-          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "f0rbiidden l0ve$tory",
-      "url": "https://open.spotify.com/track/4LIKefM5MAyRNuMg0fZkCo"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "PUSHER",
         "url": "https://open.spotify.com/album/4wP7WFvZGQUHyqYpYOeUz8"
       },
@@ -2623,26 +2659,6 @@
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/4MT3BeO1DE8PAbsJSgfDtA"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "VisionV",
-          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
-        }
-      ],
-      "duration_ms": 151688,
-      "name": "Renaissance",
-      "url": "https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
         "name": "Liminal",
         "url": "https://open.spotify.com/album/5aQuFD0k2AvweTvB4NWsL7"
       },
@@ -2659,26 +2675,6 @@
       "duration_ms": 218200,
       "name": "Liminal",
       "url": "https://open.spotify.com/track/10tif34C0hcgqdDgsvQLQG"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "S e x",
-        "url": "https://open.spotify.com/album/1DnORgesBFu2C0lJ2ZPQuO"
-      },
-      "artists": [
-        {
-          "name": "George Riley",
-          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
-        },
-        {
-          "name": "Hudson Mohawke",
-          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
-        }
-      ],
-      "duration_ms": 181546,
-      "name": "S e x",
-      "url": "https://open.spotify.com/track/1o7dHA3jkon56D4Xn1jJWr"
     },
     {
       "added_at": "2024-07-18 23:00:00",

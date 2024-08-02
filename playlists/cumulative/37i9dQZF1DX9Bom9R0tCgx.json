@@ -443,6 +443,28 @@
     },
     {
       "album": {
+        "name": "Apes",
+        "url": "https://open.spotify.com/album/6WLKZ5yo6Zio6uKxXhGXj8"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        },
+        {
+          "name": "MOR3L",
+          "url": "https://open.spotify.com/artist/2yQvf6Yx0YNX3AEB5rJ1sc"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140625,
+      "name": "Apes",
+      "url": "https://open.spotify.com/track/7qIks2ZDbGiSZw4XNTKzWy"
+    },
+    {
+      "album": {
         "name": "Apollo",
         "url": "https://open.spotify.com/album/1LqYkBtUxZKXZ2MNmIjqTe"
       },
@@ -1120,7 +1142,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 134357,
       "name": "Burn",
       "url": "https://open.spotify.com/track/2kQ853vf9Z5rxjJCQRRQIL"
@@ -1698,7 +1720,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 142203,
       "name": "Dies Irae",
       "url": "https://open.spotify.com/track/42bTYbZoUsePXhMB4ujHM4"
@@ -1880,7 +1902,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 304500,
       "name": "Donkers",
       "url": "https://open.spotify.com/track/6kvjzDjx2Z3z23xRq13xMu"
@@ -4685,6 +4707,28 @@
     },
     {
       "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/3yRy0K3B5kNwmfGkwtbI9I"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/6MAq8P7XpeUrrQvgs7HaH4"
+    },
+    {
+      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/07tfndkMlsS8WpEDU8oFDx"
       },
@@ -5270,7 +5314,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 207815,
       "name": "One Night in Bangkok 2K23 - Da Tweekaz 2K23 Remix",
       "url": "https://open.spotify.com/track/44rdr40M1DhqS7X5HKoPQ9"
@@ -6835,6 +6879,36 @@
     },
     {
       "album": {
+        "name": "Shut Your Mouth (feat. Pain)",
+        "url": "https://open.spotify.com/album/7i4pzMJnIbjBUBtnotlZW1"
+      },
+      "artists": [
+        {
+          "name": "Axel Cooper",
+          "url": "https://open.spotify.com/artist/1adz07qkurydHDZRSePFhI"
+        },
+        {
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+        },
+        {
+          "name": "JVLS",
+          "url": "https://open.spotify.com/artist/2srAcwXoF4r3ksS66WRlEj"
+        },
+        {
+          "name": "PAIN",
+          "url": "https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120857,
+      "name": "Shut Your Mouth (feat. Pain)",
+      "url": "https://open.spotify.com/track/7u817lzUMxcyg1oUcEsJ22"
+    },
+    {
+      "album": {
         "name": "SIDE2SIDE REMIXES",
         "url": "https://open.spotify.com/album/4dZHlisytD7X5RXJCDBqjn"
       },
@@ -7469,6 +7543,28 @@
     },
     {
       "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/3w0ZKUzyBG3hkwvV3RcOAw"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146718,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/1cs1kaN1LzB6bthOFH01Q2"
+    },
+    {
+      "album": {
         "name": "Take Me Up",
         "url": "https://open.spotify.com/album/0ZMTslSR9ktXlBVOIXXoI8"
       },
@@ -7514,6 +7610,24 @@
       "duration_ms": 121200,
       "name": "Talk About",
       "url": "https://open.spotify.com/track/6FfcSF3QQiT09VNuCSdT82"
+    },
+    {
+      "album": {
+        "name": "Tamara",
+        "url": "https://open.spotify.com/album/1Lsqnc5hGVO25f0DPh8PgD"
+      },
+      "artists": [
+        {
+          "name": "le Shuuk",
+          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206068,
+      "name": "Tamara",
+      "url": "https://open.spotify.com/track/0iXHcWtw4npb2FPf6Gh5js"
     },
     {
       "album": {
@@ -8184,7 +8298,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 120000,
       "name": "Voodoo People",
       "url": "https://open.spotify.com/track/1GjP81Vfj8qjra1WHmYXji"

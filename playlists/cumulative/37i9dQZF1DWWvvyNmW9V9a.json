@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "you and me, we'd be a big conversation \ud83d\udc0d",
+  "description": "i ride for you",
   "name": "teen beats",
   "tracks": [
     {
@@ -2150,7 +2150,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -8436,7 +8436,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 244826,
       "name": "End Game",
       "url": "https://open.spotify.com/track/2x0WlnmfG39ZuDmstl9xfX"
@@ -26921,6 +26921,24 @@
     },
     {
       "album": {
+        "name": "The Same Bitch!",
+        "url": "https://open.spotify.com/album/3pqKZZppo8LYgke5rJaUsK"
+      },
+      "artists": [
+        {
+          "name": "Sarah Defne Gray",
+          "url": "https://open.spotify.com/artist/6TbjlN6D9H1Oa7I1o31QtS"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206522,
+      "name": "The Same Bitch!",
+      "url": "https://open.spotify.com/track/1NiHPhOiEqtqxIyuvF5X4E"
+    },
+    {
+      "album": {
         "name": "The Show",
         "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
       },
@@ -29008,6 +29026,24 @@
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+    },
+    {
+      "album": {
+        "name": "we can\u2019t be friends (wait for your love) - Spotify Singles (Live from Spotify House)",
+        "url": "https://open.spotify.com/album/47qJZGcFVszKNYUjEEPNz9"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233400,
+      "name": "we can\u2019t be friends (wait for your love) - Spotify Singles (Live from Spotify House)",
+      "url": "https://open.spotify.com/track/1KlElnmGdKIKpwt7dw49N3"
     },
     {
       "album": {

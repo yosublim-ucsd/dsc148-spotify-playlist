@@ -2,7 +2,7 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : Zaho de Sagazan
+> La scène française branchée sur courant alternatif\. Photo : Yseult
 
 188 songs - 10 hr 4 min
 

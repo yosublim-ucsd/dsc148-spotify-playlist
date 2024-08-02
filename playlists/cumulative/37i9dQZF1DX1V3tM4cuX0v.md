@@ -2,7 +2,7 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> Найпопулярніші пісні сьогодення\. Обкладинка: KOLA, Parfeniuk
+> Найпопулярніші пісні сьогодення\. Обкладинка: Artem Pivovarov, Klavdia Petrivna
 
 56 songs - 2 hr 40 min
 

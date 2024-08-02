@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. Cover: Jacqline",
-  "num_followers": 195673,
+  "num_followers": 195665,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Hoppas du m\u00e5r bra",
-        "url": "https://open.spotify.com/album/3gSVVZjJ5EwrkqReBk6ff4"
-      },
-      "artists": [
-        {
-          "name": "Klara Almstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
-        }
-      ],
-      "duration_ms": 196560,
-      "name": "Hoppas du m\u00e5r bra",
-      "url": "https://open.spotify.com/track/7FUXC8AnXYjpQrBHX5wqlA"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Idioti",
         "url": "https://open.spotify.com/album/4unkmKhapPDaF8PPnBb6Oe"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 193327,
       "name": "Idioti",
       "url": "https://open.spotify.com/track/1Prntlz7zWyqTgouopKeGk"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Hoppas du m\u00e5r bra",
+        "url": "https://open.spotify.com/album/3gSVVZjJ5EwrkqReBk6ff4"
+      },
+      "artists": [
+        {
+          "name": "Klara Almstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
+        }
+      ],
+      "duration_ms": 196560,
+      "name": "Hoppas du m\u00e5r bra",
+      "url": "https://open.spotify.com/track/7FUXC8AnXYjpQrBHX5wqlA"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "We're In This Together",
+        "url": "https://open.spotify.com/album/1xMGQmpdFO9ctJdZhl4kgs"
+      },
+      "artists": [
+        {
+          "name": "Dotter",
+          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+        }
+      ],
+      "duration_ms": 140533,
+      "name": "We're In This Together",
+      "url": "https://open.spotify.com/track/6NBg7sawDf6GjenlbBboAa"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Drakar",
         "url": "https://open.spotify.com/album/39WTqqEmR9dZV7ygjX1TxE"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 168566,
       "name": "Drakar",
       "url": "https://open.spotify.com/track/4ip89aAHN98ptLeYzpB3OS"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "We're In This Together",
-        "url": "https://open.spotify.com/album/1xMGQmpdFO9ctJdZhl4kgs"
-      },
-      "artists": [
-        {
-          "name": "Dotter",
-          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
-        }
-      ],
-      "duration_ms": 140533,
-      "name": "We're In This Together",
-      "url": "https://open.spotify.com/track/6NBg7sawDf6GjenlbBboAa"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "V\u00e5t cigg",
-        "url": "https://open.spotify.com/album/13aQpmGiwma9E39lQip4ip"
-      },
-      "artists": [
-        {
-          "name": "Lancelot",
-          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "V\u00e5t cigg",
-      "url": "https://open.spotify.com/track/5uHlBtaRXlyJhbMYAIBFRH"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Midsommardansen",
         "url": "https://open.spotify.com/album/1UNEdDLIdVQY5YGfuTWq4W"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 124601,
       "name": "Midsommardansen",
       "url": "https://open.spotify.com/track/4F3aW9AjSA4mt3nQB1NTKt"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "V\u00e5t cigg",
+        "url": "https://open.spotify.com/album/13aQpmGiwma9E39lQip4ip"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "V\u00e5t cigg",
+      "url": "https://open.spotify.com/track/5uHlBtaRXlyJhbMYAIBFRH"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Tysta Leken",
-        "url": "https://open.spotify.com/album/1bRVrtj926Vp6Zdysyif1p"
-      },
-      "artists": [
-        {
-          "name": "ANJI",
-          "url": "https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25"
-        }
-      ],
-      "duration_ms": 188428,
-      "name": "Tysta Leken",
-      "url": "https://open.spotify.com/track/6RdS1iX4Hcw5YAjjeCfeB9"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Ordna sig",
         "url": "https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 151072,
       "name": "Ordna sig",
       "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Tysta Leken",
+        "url": "https://open.spotify.com/album/1bRVrtj926Vp6Zdysyif1p"
+      },
+      "artists": [
+        {
+          "name": "ANJI",
+          "url": "https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25"
+        }
+      ],
+      "duration_ms": 188428,
+      "name": "Tysta Leken",
+      "url": "https://open.spotify.com/track/6RdS1iX4Hcw5YAjjeCfeB9"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Pappa",
+        "url": "https://open.spotify.com/album/15NiHKbQoeA3poJIq7TxBM"
+      },
+      "artists": [
+        {
+          "name": "Atmosf\u00e4r",
+          "url": "https://open.spotify.com/artist/1lyKZwLfr7m2hug2svSdUh"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Pappa",
+      "url": "https://open.spotify.com/track/6oHZYJdNPWSFnOjigxUc78"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Sockerdricka",
         "url": "https://open.spotify.com/album/4OJ1YpiBv213DlnbVmYXYf"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 129896,
       "name": "Confused",
       "url": "https://open.spotify.com/track/5zQI37GHThm4TLAFgD4ivt"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Pappa",
-        "url": "https://open.spotify.com/album/15NiHKbQoeA3poJIq7TxBM"
-      },
-      "artists": [
-        {
-          "name": "Atmosf\u00e4r",
-          "url": "https://open.spotify.com/artist/1lyKZwLfr7m2hug2svSdUh"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Pappa",
-      "url": "https://open.spotify.com/track/6oHZYJdNPWSFnOjigxUc78"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Utan Dig",
-        "url": "https://open.spotify.com/album/6zzngklO5O8m6fWzoGf3hT"
-      },
-      "artists": [
-        {
-          "name": "Tone Sekelius",
-          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Utan Dig",
-      "url": "https://open.spotify.com/track/2jV21oJdO1ELrpaJAQlYqn"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "L\u00e4ngs den l\u00e5nga v\u00e4gen hem",
         "url": "https://open.spotify.com/album/0d5l4YtBo05EtOpBNbhDgP"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 231346,
       "name": "L\u00e4ngs den l\u00e5nga v\u00e4gen hem",
       "url": "https://open.spotify.com/track/5ukUg5wFfgwbsAPfWfTAy4"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Utan Dig",
+        "url": "https://open.spotify.com/album/6zzngklO5O8m6fWzoGf3hT"
+      },
+      "artists": [
+        {
+          "name": "Tone Sekelius",
+          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Utan Dig",
+      "url": "https://open.spotify.com/track/2jV21oJdO1ELrpaJAQlYqn"
     },
     {
       "added_at": "2024-06-27 22:00:00",

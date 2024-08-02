@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Ceza\n",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Ezhel \n",
   "name": "NKVT",
   "tracks": [
     {
@@ -5460,7 +5460,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 169994,
       "name": "NO OFF SEASON",
       "url": "https://open.spotify.com/track/2arAYbAvHdAIpeF9FI3GOw"
@@ -5508,6 +5508,28 @@
       "duration_ms": 190631,
       "name": "Of Aman",
       "url": "https://open.spotify.com/track/47tPBTEZNCy6YEP0tn3tPi"
+    },
+    {
+      "album": {
+        "name": "OF OF OF",
+        "url": "https://open.spotify.com/album/0WEq08VBCgEfPh3Hw6dlav"
+      },
+      "artists": [
+        {
+          "name": "ElMusto",
+          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
+        },
+        {
+          "name": "Organize",
+          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "OF OF OF",
+      "url": "https://open.spotify.com/track/1RI3YE0BqwN2Fd6Ej0gTqW"
     },
     {
       "album": {
@@ -6522,7 +6544,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 239539,
       "name": "Sava\u015f",
       "url": "https://open.spotify.com/track/7a3tlK1OxqiFTphx1BjTbf"
@@ -7327,6 +7349,24 @@
     },
     {
       "album": {
+        "name": "Tayfan R1",
+        "url": "https://open.spotify.com/album/1uMdyqrQwppuOGHWkehpwS"
+      },
+      "artists": [
+        {
+          "name": "Ahiyan",
+          "url": "https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117333,
+      "name": "Tayfan R1",
+      "url": "https://open.spotify.com/track/0yVMO6Wri0TFjrMW9tJu9F"
+    },
+    {
+      "album": {
         "name": "Ta\u015ftan",
         "url": "https://open.spotify.com/album/5OLMyZAcZTSmOPHnzeMKwc"
       },
@@ -7942,6 +7982,28 @@
       "duration_ms": 157777,
       "name": "Yemin Olsun",
       "url": "https://open.spotify.com/track/3YWc6CWUIv1awok2u6Mek3"
+    },
+    {
+      "album": {
+        "name": "Yetmedi",
+        "url": "https://open.spotify.com/album/3V0ymncsPOu1uK4ufGV2zt"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115594,
+      "name": "Yetmedi",
+      "url": "https://open.spotify.com/track/5TxqI3DLEbMVJkyVgentxd"
     },
     {
       "album": {

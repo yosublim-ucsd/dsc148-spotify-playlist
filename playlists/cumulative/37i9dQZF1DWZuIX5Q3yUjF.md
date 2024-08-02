@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Nico Kyni
+> Il meglio dell'R&B italiano\. Cover: Sans Soucis
 
-628 songs - 1 day 7 hr 11 min
+630 songs - 1 day 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Bordeaux](https://open.spotify.com/track/6K4c1neXmVgj2qWOZTcGvi) | [Angela Iris](https://open.spotify.com/artist/7o1XRDbnk24xbZOvVNbn1C) | [Bordeaux](https://open.spotify.com/album/1BwPqLtg1Ilkj2qLEgpPVB) | 2:49 | 2023-08-03 | 2023-11-17 |
 | [Brandy & Monica](https://open.spotify.com/track/7D0lKhGUyoJvXA83Gko8ou) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR), [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG) | [Brandy & Monica](https://open.spotify.com/album/2TGJGvjsRyiNZub7jgeIcM) | 2:40 | 2022-07-14 | 2024-06-21 |
 | [Brava](https://open.spotify.com/track/0oNfUVmHSsWYknhbnamRtd) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J) | [Brava](https://open.spotify.com/album/3WR2HpDM3YuMHuWsUfEXtM) | 3:10 | 2023-07-20 | 2023-09-29 |
+| [Brave](https://open.spotify.com/track/5Or5fUArNnHP0SvpPkTuLq) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc), [Alok Vaid\-Menon](https://open.spotify.com/artist/1NTZtdTQJnfKxbbTY22KQR) | [Brave](https://open.spotify.com/album/2zzc1K8vcDa5OrPVvrUstF) | 4:44 | 2024-08-01 |  |
 | [Britney](https://open.spotify.com/track/1sD8E1zVlQRjfUwQsShCvG) | [Scozia](https://open.spotify.com/artist/06kIJSKCJs2NoULdMDwEh9) | [Britney](https://open.spotify.com/album/0Rw7Bax4tNc6CgJhRfy3vE) | 3:09 | 2022-05-05 | 2022-06-03 |
 | [Bruciami](https://open.spotify.com/track/3FdKyrHYU1MQVoKhyaPuVH) | [PABA](https://open.spotify.com/artist/1FXgKZygyeJ7sgiBygQ6gP) | [Bruciami](https://open.spotify.com/album/0dHoTlUchft7epHmdGdQsm) | 2:41 | 2023-06-22 | 2023-07-21 |
 | [Buio \(al sicuro\)](https://open.spotify.com/track/4l0x8auMApmHiMNyNBNVFr) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr), [Maëlys](https://open.spotify.com/artist/4fuZBTq8KLPsKbYPQl0bZZ) | [Buio \(al sicuro\)](https://open.spotify.com/album/5e0vV5aXeDX55cMrwSXoA5) | 2:12 | 2024-01-18 | 2024-03-21 |
@@ -134,7 +135,7 @@
 | [Cos'è una regola](https://open.spotify.com/track/4hZat4zoX4ghX3da67nYfl) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Cos'è una regola](https://open.spotify.com/album/1dxJEVmp2GsAC2guij4tJW) | 3:20 | 2022-05-05 | 2022-09-09 |
 | [Cosa rimane](https://open.spotify.com/track/1e3bCZEi7yYs9rEnkOUzxL) | [Orlvndo](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [AD MAIORA](https://open.spotify.com/album/56w0hv0t2fESIzA8Zv3LMS) | 3:25 | 2023-03-16 | 2023-06-02 |
 | [Così](https://open.spotify.com/track/6a8R1ynqMFc6BFOeulmRRF) | [Raçhelle](https://open.spotify.com/artist/2r7IipknIr6LbCIxoXBkuw) | [Così](https://open.spotify.com/album/4xA1F2laLObcuaFPjSfCaY) | 2:07 | 2022-11-03 | 2022-12-02 |
-| [crescere](https://open.spotify.com/track/5xkbGSNVcNOoqS44rV79nx) | [miele](https://open.spotify.com/artist/1fV44jgoWdnw2eB2zYGIyw) | [crescere](https://open.spotify.com/album/5W9xHuEXCqIZMBEPJWCxrC) | 2:55 | 2024-05-30 |  |
+| [crescere](https://open.spotify.com/track/5xkbGSNVcNOoqS44rV79nx) | [miele](https://open.spotify.com/artist/1fV44jgoWdnw2eB2zYGIyw) | [crescere](https://open.spotify.com/album/5W9xHuEXCqIZMBEPJWCxrC) | 2:55 | 2024-05-30 | 2024-08-02 |
 | [Crireme](https://open.spotify.com/track/2nbTvYJ5cEpiQWhiNXAZMV) | [Livio Cori](https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX), [Sofi de la Torre](https://open.spotify.com/artist/45VGByxe5GLUyX1XQlcC8I) | [Femmena](https://open.spotify.com/album/17ajfy4eN09VgTbCwWULHH) | 3:41 | 2024-04-15 | 2024-06-01 |
 | [CROCEROSSINA](https://open.spotify.com/track/6HeS9AFIbqunx80FXp66dP) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt) | [CROCEROSSINA](https://open.spotify.com/album/7yDdNGU0y0IlHDKnjLX2Cd) | 2:18 | 2024-04-25 | 2024-07-19 |
 | [Cult](https://open.spotify.com/track/0LJI0x54X29TStopw2PzFG) | [Grace Cambria](https://open.spotify.com/artist/7a60FDqnS9Qx2xTbDvEd73) | [Cult](https://open.spotify.com/album/2E7kATBLAHZJFnmOWZhjH8) | 2:45 | 2022-05-05 | 2022-09-30 |
@@ -303,7 +304,7 @@
 | [Like a melody](https://open.spotify.com/track/5QougSlOCoMqyHAVzK5Qc0) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi), [Roshelle](https://open.spotify.com/artist/05OYdU3diEpNYjaAHNaZTt) | [Je so accussì](https://open.spotify.com/album/2IypMkbbnccB6T3exs2u0b) | 2:18 | 2022-05-05 | 2022-11-18 |
 | [Limbo](https://open.spotify.com/track/05kYCKcmfgsiEXAKR2ZwHW) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4), [Altea](https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws) | [Limbo](https://open.spotify.com/album/5q8Q4Ir8D1yVVqGaB4oCzQ) | 3:53 | 2022-10-06 | 2023-02-03 |
 | [Limite](https://open.spotify.com/track/1HYwX6zxcel9LD2ej5QEGR) | [VISCARDI](https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX), [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL) | [Limite](https://open.spotify.com/album/03InZ9HBmYZswI4ZAmaz4j) | 2:58 | 2023-06-08 | 2023-09-15 |
-| [Linea Di Confine](https://open.spotify.com/track/6GOevvSsRfxM2i8yF5m9nR) | [Corinna](https://open.spotify.com/artist/6vqpDMhV9j6QazfM1e2Cv6) | [Linea Di Confine](https://open.spotify.com/album/0qg4LEl3ZZ46kGNrw3eiQT) | 3:14 | 2024-06-06 |  |
+| [Linea Di Confine](https://open.spotify.com/track/6GOevvSsRfxM2i8yF5m9nR) | [Corinna](https://open.spotify.com/artist/6vqpDMhV9j6QazfM1e2Cv6) | [Linea Di Confine](https://open.spotify.com/album/0qg4LEl3ZZ46kGNrw3eiQT) | 3:14 | 2024-06-06 | 2024-08-02 |
 | [Lo Sguardo Degli Angeli](https://open.spotify.com/track/1wql7SfwYxxTpjTIUtL63K) | [Raçhelle](https://open.spotify.com/artist/2r7IipknIr6LbCIxoXBkuw) | [Lo Sguardo Degli Angeli](https://open.spotify.com/album/2sPXbn73Q5fK4DN8sCqj5C) | 2:41 | 2022-06-16 | 2022-07-29 |
 | [Lo\-Fi Love](https://open.spotify.com/track/6CYmeURWTreGKriMFHcPiV) | [giuliettacome](https://open.spotify.com/artist/5aCxPqEEmzoZSOJnP94gUR) | [Lo\-Fi Love](https://open.spotify.com/album/7wABqEPQRQxxIpc5Ng3i4r) | 3:40 | 2022-05-19 | 2023-01-27 |
 | [Logico](https://open.spotify.com/track/3EVJI76wxQWE410QSDGtcH) | [Paola Pizzino](https://open.spotify.com/artist/6qZnOElnoaba63XsIts7ug) | [Logico](https://open.spotify.com/album/6IypNihBpby9NiEFHNVIfY) | 3:48 | 2023-12-14 | 2024-01-05 |
@@ -499,6 +500,7 @@
 | [SCHIÀNTATI](https://open.spotify.com/track/5qlL4tGxC939pEiWehkYBv) | [Sbazzee](https://open.spotify.com/artist/2bFy8BEjn97wFtXAFelhY8) | [SCHIÀNTATI](https://open.spotify.com/album/1fvhexzguzgU36ysYL5S9j) | 3:04 | 2024-04-25 | 2024-05-17 |
 | [SCINNE](https://open.spotify.com/track/6YXMopaQMquMzIp0QYTiLA) | [Livio Cori](https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX) | [SOLIDAGO](https://open.spotify.com/album/4krgtckMU7NY6UxCOqATyr) | 2:48 | 2023-01-12 | 2023-05-19 |
 | [Se chiedo alla luna](https://open.spotify.com/track/2Tk5njSvMXVc8cHpY9FGOy) | [Grace Cambria](https://open.spotify.com/artist/7a60FDqnS9Qx2xTbDvEd73) | [Se chiedo alla luna](https://open.spotify.com/album/5lom3OWxoJbpyMC2CCWKbw) | 3:05 | 2022-06-16 | 2022-11-11 |
+| [se mi guardi](https://open.spotify.com/track/3i0fGZp3EBBd5tOXdS3C0l) | [maisola](https://open.spotify.com/artist/2ctwLObzObVxJjzHCMfDM0) | [se mi guardi](https://open.spotify.com/album/1jAFK6oUcGgOV4QYYSnwoW) | 3:19 | 2024-08-01 |  |
 | [Se Non Hai Le Ali](https://open.spotify.com/track/7HShXxPzYc51ZfkF9PZoIJ) | [Andrea Blanc](https://open.spotify.com/artist/6WGCfH6ATZyAe39uWtPLR4) | [Se Non Hai Le Ali](https://open.spotify.com/album/1HfiYFTKS4xvBSbkGY6noW) | 2:16 | 2022-05-05 | 2022-05-27 |
 | [SEGRETO \(feat\. Sina Tekle\)](https://open.spotify.com/track/0wUqkKIjEdZIMf2eaJiY6p) | [Gojardi](https://open.spotify.com/artist/2BK1KTuteomgkZ5ta3crjk), [Sina Tekle](https://open.spotify.com/artist/3jhexNp8ak2GP9dEqmRLdv) | [SEGRETO \(feat\. Sina Tekle\)](https://open.spotify.com/album/2GzKVikbqExzxzB6rgXW7b) | 2:30 | 2023-11-23 | 2024-04-16 |
 | [Sei come il mare](https://open.spotify.com/track/1kHDTbfeX2dD9WqRX8Ft6I) | [Zell](https://open.spotify.com/artist/6UbUUnpLLgfZs27Tzsd6te) | [Sei come il mare](https://open.spotify.com/album/6Z4HDKzevkIIi9OynwpP4s) | 3:38 | 2022-05-05 | 2022-05-27 |

@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con stivijoes.
 
-776 songs - 1 day 17 hr 53 min
+777 songs - 1 day 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Cuando Me Llamas](https://open.spotify.com/track/7nYjLUuPn9AcN7E5I4JxNT) | [Pilar Victoria](https://open.spotify.com/artist/2DSFPJr5VQONBtmvondIke) | [Hi, My Name Is Pily!](https://open.spotify.com/album/0BY889b9xuODwIoLkB49oM) | 2:36 | 2021-12-02 | 2022-01-25 |
 | [cuando me pides más](https://open.spotify.com/track/3ykezGhjSPp02lgGX1bt90) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21) | [cuando me pides más](https://open.spotify.com/album/4wp3B5xYWNhcLSFobaMckG) | 4:19 | 2023-08-04 | 2023-08-26 |
 | [Cuenta Lo](https://open.spotify.com/track/549VARqe57rM5u8vkzTPgs) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Cuenta Lo](https://open.spotify.com/album/3iieIKdHUhtM7xNO1zLJ9X) | 3:05 | 2021-12-02 | 2022-01-25 |
+| [Cuerpo](https://open.spotify.com/track/7GPQ2XNy7AAWgj96uqehtH) | [Leo Waters](https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX) | [Cuerpo](https://open.spotify.com/album/1oulG48581wpct7HOWNi2t) | 2:57 | 2024-07-26 |  |
 | [D15BLO](https://open.spotify.com/track/0pqcoHJiTFLgkWemfOQ8Go) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [D15BLO](https://open.spotify.com/album/7feac3wBnvITrv4dKTjLWZ) | 2:49 | 2023-11-03 | 2024-02-15 |
 | [Daffodils \(feat\. Kevin Parker\)](https://open.spotify.com/track/1v0ufp7FLTFcykUGOmFZKa) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Kevin Parker](https://open.spotify.com/artist/2Lt4GKzyW3WOMf3wvPDszQ) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:58 | 2023-09-29 | 2023-10-14 |
 | [Dame Guerra](https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Dame Guerra](https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN) | 2:56 | 2023-02-17 | 2023-08-26 |
@@ -487,7 +488,7 @@
 | [NICE GUY BAD GUY](https://open.spotify.com/track/6EOTtrjTCGYTscIGGXHljh) | [OMGisNEFF](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [GIO](https://open.spotify.com/artist/1DzHYzxnMTpElJgNoq1bEH) | [NICE GUY BAD GUY](https://open.spotify.com/album/6r4Ddc1uUj6ddQtmVYFSK2) | 2:31 | 2024-02-16 | 2024-04-13 |
 | [Nieve](https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Nieve](https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C) | 2:20 | 2022-05-06 | 2022-10-29 |
 | [Nights](https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:07 | 2023-01-10 | 2023-02-03 |
-| [Ninguno](https://open.spotify.com/track/0PEujJj7GotXkh2yzZniqT) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Ninguno](https://open.spotify.com/album/1L0zldmVoC2vMjeJE08T8v) | 4:50 | 2024-04-12 |  |
+| [Ninguno](https://open.spotify.com/track/0PEujJj7GotXkh2yzZniqT) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Ninguno](https://open.spotify.com/album/1L0zldmVoC2vMjeJE08T8v) | 4:50 | 2024-04-12 | 2024-08-02 |
 | [NIÑO ETERNO](https://open.spotify.com/track/01QtjLgSh2PXid128hIWiB) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Love Dealer](https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp) | 2:41 | 2023-02-17 | 2023-04-14 |
 | [No Eres Tu Soy Yo](https://open.spotify.com/track/54VlZOOuzrHbUsiMrZh5wq) | [Cabra](https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [No Eres Tu Soy Yo](https://open.spotify.com/album/5C4QoLSXHFPDn4qTAHUcd2) | 3:42 | 2023-05-12 | 2023-07-22 |
 | [no es culpa mía](https://open.spotify.com/track/3carpytTJk59ujDuX0gs8I) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [no es culpa mía](https://open.spotify.com/album/5ZbHwgfry7ONiynI2424Uq) | 3:05 | 2023-10-13 | 2024-06-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,369 likes - 133 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,372 likes - 133 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 7 | [Birthday](https://open.spotify.com/track/1NOZvdCovG42qQV7ftVD5d) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:35 |
 | 8 | [C'Mon](https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 3:34 |
 | 9 | [Queen](https://open.spotify.com/track/53b4d9jHQZq89EtQxwUURr) | [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Queen](https://open.spotify.com/album/5acYgqkqRhxgbeRzHqIIqv) | 2:40 |
-| 10 | [Kiss the Sky](https://open.spotify.com/track/0LiEC0RZvGaUISWv7lYsJL) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Kiss the Sky](https://open.spotify.com/album/1PslxdbL4bn2GLzjBpjyrR) | 3:42 |
-| 11 | [Hold It Against Me](https://open.spotify.com/track/7Dyq1bhhjknLKEGg4k5NLr) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:48 |
+| 10 | [Hold It Against Me](https://open.spotify.com/track/7Dyq1bhhjknLKEGg4k5NLr) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:48 |
+| 11 | [Kiss the Sky](https://open.spotify.com/track/0LiEC0RZvGaUISWv7lYsJL) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Kiss the Sky](https://open.spotify.com/album/1PslxdbL4bn2GLzjBpjyrR) | 3:42 |
 | 12 | [How We Do \(Party\)](https://open.spotify.com/track/5zBDg6Pp5LFyhaSCqm3p5d) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [ORA](https://open.spotify.com/album/3wVudWLcF1D7jK5kTj6hlA) | 4:07 |
 | 13 | [Legendary Lovers](https://open.spotify.com/track/0pOZYYEJawmTAPtkzYKSa2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:44 |
 | 14 | [Riding Shotgun \(feat\. Bonnie McKee\)](https://open.spotify.com/track/52Lqdrj2yYAeFSTS2M24Si) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1), [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Kids in Love](https://open.spotify.com/album/47oyrKaeobswT4T8zyaxdM) | 3:18 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 32 | [Too Soon \(feat\. Maty Noyes\)](https://open.spotify.com/track/4eP9Et7gkdPf6eeCRNal75) | [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T), [Maty Noyes](https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA) | [Too Soon \(feat\. Maty Noyes\)](https://open.spotify.com/album/1P4e2cMIcjR9zM709Bd8QY) | 3:56 |
 | 33 | [Let There Be Love](https://open.spotify.com/track/5u5wvBQcUTzRzN7dwkrFUB) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Lotus \(Deluxe Version\)](https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q) | 3:21 |
 | 34 | [Inside Out](https://open.spotify.com/track/1MXmaCZEtfPrCbtYjJIbzl) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:38 |
-| 35 | [Hey Alligator](https://open.spotify.com/track/1wMgSz5vW6txvc0RkbsvSY) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [The Aviary](https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4) | 3:29 |
-| 36 | [Supernatural](https://open.spotify.com/track/1UKDcxiR4VNad3toIHpJZ6) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 4:10 |
+| 35 | [Supernatural](https://open.spotify.com/track/1UKDcxiR4VNad3toIHpJZ6) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 4:10 |
+| 36 | [Hey Alligator](https://open.spotify.com/track/1wMgSz5vW6txvc0RkbsvSY) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [The Aviary](https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4) | 3:29 |
 | 37 | [Cuckoo](https://open.spotify.com/track/7j1SWWci3yWLgmMSZwurgd) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Trespassing \(Deluxe Version\)](https://open.spotify.com/album/4mKnhWm5EZeZUfoUYUwT1h) | 3:02 |
 | 38 | [Turn Me Up](https://open.spotify.com/track/2d5SLxED4RIdjnAfbpTcYw) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss](https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2) | 3:44 |
 | 39 | [Under Control](https://open.spotify.com/track/6xWivl1glHgntvVucG0mqD) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Nights](https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4) | 4:06 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 132 | [Hasta La Vista](https://open.spotify.com/track/7Hqkibl2LIjY1gWtqTb4HW) | [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV), [Static Revenger](https://open.spotify.com/artist/4Q08msBV0v3oEN91O7ubsD) | [Hasta La Vista](https://open.spotify.com/album/7tyoTr3dPhTbDZ8QDmfopy) | 2:48 |
 | 133 | [Burnin'](https://open.spotify.com/track/16zrncqFw9Jlh9x98rhVFp) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Dehiro](https://open.spotify.com/artist/5wveL5t3Phar9SspgSSf1f) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 3:29 |
 
-Snapshot ID: `AbYMxwAAAABh3Gq6pPrNkUzcRKeZ4ZqI`
+Snapshot ID: `AbYSIgAAAABMRt8oOnERWsHrFWlFGMEG`

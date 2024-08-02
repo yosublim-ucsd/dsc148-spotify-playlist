@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Tgh3tlyc3X.md) - [plain]
 
 > Enter an Alpha meditative state with mid\-range frequencies and then ease into a Theta brainwave state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,968 likes - 188 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,039 likes - 188 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Tgh3tlyc3X.md) - [plain]
 | 11 | [Binaural Alpha Waves 98\-106 Hz](https://open.spotify.com/track/4NZVL7pYOVz1VcctrbyGyS) | [Lars Peters](https://open.spotify.com/artist/6UFCmfl7djtHECEfm4Vhcx) | [Binaural Alpha Waves 98\-106 Hz](https://open.spotify.com/album/1zIw0Shm9fhxE0MLXHMtCb) | 2:32 |
 | 12 | [Alpha Peace \(93Hz \- 103Hz\)](https://open.spotify.com/track/3sWYDCDKnKsQMzg2J3FJRA) | [Binaural Explorer](https://open.spotify.com/artist/2ZhPgXqdfCoEYgtumgaZ5z) | [Alpha Peace \(93Hz \- 103Hz\)](https://open.spotify.com/album/1MPxyaxpP62ZCC9gAy5SHB) | 2:58 |
 | 13 | [Binaural Alpha Waves 128\-136 Hz](https://open.spotify.com/track/6dmJ2I2tm23UlVVbBo3KaR) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [Binaural Alpha Waves 128\-136 Hz](https://open.spotify.com/album/3Iwk11Qj3AjCaftlnUc0eX) | 2:40 |
-| 14 | [Alpha REM 82 Hz \- 92 Hz](https://open.spotify.com/track/6Fn4dlKQFkDP421P2IShjC) | [REM](https://open.spotify.com/artist/6FdgwOhDP1kPWChJQqKGA4) | [Alpha REM 82 Hz \- 92 Hz](https://open.spotify.com/album/1pdONj5eMm3maQzqVtNNdV) | 2:50 |
+| 14 | [Alpha REM 82 Hz \- 92 Hz](https://open.spotify.com/track/6Fn4dlKQFkDP421P2IShjC) | [REM](https://open.spotify.com/artist/73wZ9JX4WJIWfMnXvnWnIm) | [Alpha REM 82 Hz \- 92 Hz](https://open.spotify.com/album/1pdONj5eMm3maQzqVtNNdV) | 2:50 |
 | 15 | [Reset of the mind \- Alpha Sinus 88Hz \- 96Hz](https://open.spotify.com/track/1zDzm7luV055pHODOnGjeC) | [The Binaural Mind](https://open.spotify.com/artist/26xtWEL4HqIGvOcVFUyDSI) | [Alpha Focus](https://open.spotify.com/album/6bhMBqNY3GERf2ttWvxT0i) | 2:36 |
 | 16 | [Giving Cleanse Alpha \(76\-88hz\)](https://open.spotify.com/track/44qIh13XDQ4nE6iAnvx1Fl) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Giving Cleanse Alpha](https://open.spotify.com/album/5Uz7Bl6hogJai959hEv1aF) | 2:42 |
 | 17 | [110 Hz \- 123 Hz Alpha Soundscape](https://open.spotify.com/track/3alCs4bLSLEVmq0f8pMy3V) | [Underscores And Drones](https://open.spotify.com/artist/4o2si54bTht8Zqe73sAHJb) | [Binaural Alpha Soundscapes for Deep Relaxation](https://open.spotify.com/album/4tIovUJTFv0rbj146oK5pi) | 3:00 |

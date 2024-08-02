@@ -2,9 +2,9 @@
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop! Foto: Khiaro, Margarida Rotilo
+> Uma playlist de pura alma pop! Foto: Calema
 
-83 songs - 4 hr 31 min
+84 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,11 +36,12 @@
 | [Desamor \(feat\. Gson\)](https://open.spotify.com/track/51D690cjtxBGNrGhHgCeuz) | [Mariza](https://open.spotify.com/artist/65nZq8l5VZRG4X445F5kmN), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Desamor \(feat\. Gson\)](https://open.spotify.com/album/2P6QxZUqH3ecJ7WGiOSgqQ) | 4:02 | 2024-06-27 |  |
 | [Despedida de Solteira](https://open.spotify.com/track/3iM2GDnBgSWoANyN2KzMtX) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Bichinho](https://open.spotify.com/album/0N2GwDGCTkpUNOhL5eQNh0) | 3:22 | 2024-06-27 |  |
 | [Dis\-Le Moi](https://open.spotify.com/track/62uQynm27mu2GH2RsTUh7v) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Dis\-Le Moi](https://open.spotify.com/album/46UUw87srhq0eswxMN4Tcp) | 3:20 | 2024-06-27 |  |
+| [Distinu](https://open.spotify.com/track/7e3OHWrl8Bp2WzGG5QGAku) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [Voyage \(Pt\. I\)](https://open.spotify.com/album/71gGikHweFFDc1Xy9iUfon) | 3:30 | 2024-08-01 |  |
 | [Dois](https://open.spotify.com/track/4eYWyX4X4InIx1QnKkv3UI) | [Fernando Daniel](https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC) | [Dois](https://open.spotify.com/album/0aKzVffljSE3UF3Gg7UeyJ) | 3:25 | 2024-06-27 |  |
 | [Dois Dedos de Testa](https://open.spotify.com/track/2EZpQC4js7nOZmysa2001d) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [Dois Dedos De Testa](https://open.spotify.com/album/7hXKkcdTAx5P2Kk3t1Vg2I) | 3:15 | 2024-06-27 |  |
 | [Ela não sabe, pois não?](https://open.spotify.com/track/10xWn4Ju0hK96COGlHm70s) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Bichinho \(para onde vai o amor?\)](https://open.spotify.com/album/5KWY5ZZLf16US8jaR3bjoR) | 3:05 | 2024-06-27 |  |
 | [ESPELHO](https://open.spotify.com/track/5Q80Y8egSGr1MEO2KvCYGE) | [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC) | [ESPELHO](https://open.spotify.com/album/3ex5jxr25geXOcxNXFD8Nv) | 2:52 | 2024-06-27 | 2024-07-19 |
-| [Espera Por Mim](https://open.spotify.com/track/3qCz2wp2u8FK4d6g2cLDHP) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Espera Por Mim](https://open.spotify.com/album/55yJIiWoQwa7XnTovpZ07z) | 3:36 | 2024-06-27 |  |
+| [Espera Por Mim](https://open.spotify.com/track/3qCz2wp2u8FK4d6g2cLDHP) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Espera Por Mim](https://open.spotify.com/album/55yJIiWoQwa7XnTovpZ07z) | 3:36 | 2024-06-27 | 2024-08-02 |
 | [ESPINHOS](https://open.spotify.com/track/2IJYS685KL8OE01SNtR1KK) | [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC) | [ESPINHOS](https://open.spotify.com/album/3ApfoGIEbbpakkR8NqcviA) | 3:06 | 2024-06-27 |  |
 | [Estou a Ficar Maluco](https://open.spotify.com/track/3U031aTlvrvNQxGTJxAp5O) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb), [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Estou a Ficar Maluco](https://open.spotify.com/album/0dPDfiIKVsdjYnItoDqdio) | 2:53 | 2024-06-27 |  |
 | [Eu e Tu](https://open.spotify.com/track/4YN0S8r2onJGCiPdVrMh8A) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x), [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y) | [Eu e Tu](https://open.spotify.com/album/3mhOdbBo8GTzbRDNgD99gq) | 4:42 | 2024-07-04 |  |

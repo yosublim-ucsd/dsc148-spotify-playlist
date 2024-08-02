@@ -1,6 +1,6 @@
 {
   "description": "Deja que el sentimiento antig\u00fcito de los boleros te envuelva con amor y nostalgia \ud83d\udc96\ud83c\udfb5\ud83c\udf39",
-  "num_followers": 80331,
+  "num_followers": 80349,
   "original_name": "B\u00e9same Mucho",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Bodas De Plata",
-        "url": "https://open.spotify.com/album/5Hmy8KUqe100HKt2Pwky27"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Martinez Gil",
-          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
-        }
-      ],
-      "duration_ms": 156106,
-      "name": "Est\u00fapido Cupido",
-      "url": "https://open.spotify.com/track/5kx2Rl1UcO0jOMDOAOlXBL"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Simplemente Lo Mejor...Victor Yturbe \"El Piruli\"",
         "url": "https://open.spotify.com/album/7uifn5SvzCTCMffh4u7n8o"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 186173,
       "name": "Soy Lo Prohibido",
       "url": "https://open.spotify.com/track/1YJbAAcBEPwrZoTrpl4kZI"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Bodas De Plata",
+        "url": "https://open.spotify.com/album/5Hmy8KUqe100HKt2Pwky27"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Martinez Gil",
+          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
+        }
+      ],
+      "duration_ms": 156106,
+      "name": "Est\u00fapido Cupido",
+      "url": "https://open.spotify.com/track/5kx2Rl1UcO0jOMDOAOlXBL"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "Germ\u00e1n Vald\u00e9s TIN-TAN Canciones de Sus Pel\u00edculas",
+        "url": "https://open.spotify.com/album/6egxODz7B5lqBxwykR9JgP"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Vald\u00e9s \"Tin Tan\"",
+          "url": "https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ"
+        }
+      ],
+      "duration_ms": 182733,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/4EzaHs6xWJ2O29BSCtJFSw"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "Por Mujeres Como Tu",
         "url": "https://open.spotify.com/album/2p3X5Nll2HePONcBnzesyi"
       },
@@ -1235,26 +1251,6 @@
       "duration_ms": 222893,
       "name": "Siempre en mi coraz\u00f3n",
       "url": "https://open.spotify.com/track/2UqNczc1kGWblKfEXOydTy"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Lucho Gatica",
-        "url": "https://open.spotify.com/album/2ZbnntCr7Tvw36vt0xHrsO"
-      },
-      "artists": [
-        {
-          "name": "Lucho Gatica",
-          "url": "https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK"
-        },
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Solamente Una Vez",
-      "url": "https://open.spotify.com/track/2J4hetQLI8G66r3SfWllLc"
     }
   ],
   "unique_name": "B\u00e9same Mucho",

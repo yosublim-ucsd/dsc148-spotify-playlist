@@ -4,7 +4,7 @@
 
 > 
 
-1,939 songs - 4 day 8 hr 35 min
+1,942 songs - 4 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [Disaster](https://open.spotify.com/track/0PGAJ37n4O2AslZosr1YGx) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7CkXrZnfmghdA4n2YLTgag) | 1:24 | 2022-02-04 |  |
 | [Disasterpiece](https://open.spotify.com/track/47VSmPTydr0saGjbQGwCeg) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 5:08 | 2022-04-03 |  |
 | [Discord](https://open.spotify.com/track/611nlMA40SKg9gQ4pTVXT3) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF), [Eurobeat Brony](https://open.spotify.com/artist/2uDaDi5TsgEtUBCPRx7mlp) | [Discord](https://open.spotify.com/album/43zCo4E3RoYyj2tkeZWJCF) | 3:13 | 2021-08-05 |  |
+| [Disguise](https://open.spotify.com/track/49Uj7to7tltsauzvbvDUZ1) | [Somewhere Special](https://open.spotify.com/artist/2uzCJprANXTMHARrvOIlWq) | [Disguise](https://open.spotify.com/album/7MVTglonJzo6LgHJI8MA92) | 2:20 | 2024-08-01 |  |
 | [Disinfect](https://open.spotify.com/track/2XzvZOfZPriniHLBEvGC6b) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Written & Directed](https://open.spotify.com/album/6hODMaWCw1sz39hkaSWgMW) | 2:49 | 2021-08-05 |  |
 | [Ditty](https://open.spotify.com/track/7hARdySaXWuTLeqBrYP2xf) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Ditty](https://open.spotify.com/album/7pTr1AQkGqPlyZl9tS8Xg8) | 2:09 | 2021-08-05 |  |
 | [Divertissement 1er Mvt Allegro Vivo](https://open.spotify.com/track/07kqNUCVoVHZNhE1D1PIsV) | [Frédérique Lagarde](https://open.spotify.com/artist/022znMs7fYi3CmLtcm9mUj), [Philippe Portejoie](https://open.spotify.com/artist/6w88R0VFj4qKbMlbTDr7hy) | [Musique Francaise Du XX° Siècle Saxophone Et Piano](https://open.spotify.com/album/2CmoPU3J2QXigHGIH5KTYn) | 2:22 | 2021-12-30 |  |
@@ -1414,6 +1415,7 @@
 | [Rosemary](https://open.spotify.com/track/4FEr6dIdH6EqLKR0jB560J) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Koi No Yokan](https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q) | 6:53 | 2021-12-30 |  |
 | [Roses](https://open.spotify.com/track/1UgTRfqoIVIytXaXvy3ExG) | [RetroSpecter](https://open.spotify.com/artist/1fAgYNgiRy5ZUInCWFtRi9) | [Roses](https://open.spotify.com/album/1TDihtVUhBVBhGlQeJArMi) | 3:12 | 2021-08-05 |  |
 | [Roses \(feat\. ROZES\)](https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Bouquet](https://open.spotify.com/album/5uJqpJth89JzqPFt6vEzwF) | 3:45 | 2021-08-05 |  |
+| [rotten](https://open.spotify.com/track/4UQEO2qie20yQZezxZvsAy) | [anna luna](https://open.spotify.com/artist/6uGADSP0D3HW4ZpALfJwUR) | [rotten](https://open.spotify.com/album/1t5r6vxPgVDjlUUYhiN0s5) | 2:10 | 2024-08-01 |  |
 | [ROXANNE](https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [ROXANNE](https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90) | 2:43 | 2021-08-05 |  |
 | [rs500](https://open.spotify.com/track/6nmNuIxzd6qOVyubaBCzAy) | [blottter](https://open.spotify.com/artist/1BrsDdAUinxh5OUUScERow) | [channel surfer](https://open.spotify.com/album/3UuTfqPT82ADbw7cObBHi7) | 1:23 | 2023-04-23 |  |
 | [Rude](https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Don't Kill the Magic](https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi) | 3:44 | 2021-08-05 |  |
@@ -1474,6 +1476,7 @@
 | [Seven](https://open.spotify.com/track/2dwvxOHnQjndZLowIR6PiS) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Seven](https://open.spotify.com/album/3HdIy1njUneWoE5pWy4lEY) | 3:45 | 2021-08-05 |  |
 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 | 2021-08-05 |  |
 | [Seventeen](https://open.spotify.com/track/7GVkfVPsEXo7pG6iAk2cCs) | [Ladytron](https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz) | [Light & Magic \(Bonus Track Version\)](https://open.spotify.com/album/5xLwhWVdrpxJxCZay0NrdQ) | 4:37 | 2022-04-03 |  |
+| [severed](https://open.spotify.com/track/5dS6OAmkHffFSWyyor7etp) | [shallowprayer](https://open.spotify.com/artist/3fu5lsDzkenXGoUT8dcykr) | [severed](https://open.spotify.com/album/69JvwNBbHjWCUYZaQlyPcQ) | 3:06 | 2024-08-01 |  |
 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 | 2021-08-05 |  |
 | [Sex Talk](https://open.spotify.com/track/6hbg57wH6SyIDnPzwLeeXc) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fever](https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci) | 2:11 | 2021-08-05 |  |
 | [Sextape](https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 4:01 | 2022-02-04 |  |

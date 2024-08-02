@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rising stars and new releases from sunny Singapore. Cover: YA\u00d8",
+  "description": "Rising stars and new releases from sunny Singapore. Cover: Shye",
   "name": "Rising 65",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 133352,
       "name": "BETTER OFF",
       "url": "https://open.spotify.com/track/4iCEgsiLhznxXLc0VjjruT"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 179166,
       "name": "BO BEH ZAO \u6ca1\u9a6c\u8dd1 (feat. \u7626\u5b50E.SO)",
       "url": "https://open.spotify.com/track/2PyEVqNNmtbDIA81RYvp8D"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 206936,
       "name": "Dari Jauh",
       "url": "https://open.spotify.com/track/4dSnUf7H1mnTgasQH3v7oU"
@@ -686,7 +686,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 229166,
       "name": "don't tell me i'm going to hell",
       "url": "https://open.spotify.com/track/2evOGNgFQEAhArKH7R8sWv"
@@ -953,6 +953,24 @@
     },
     {
       "album": {
+        "name": "GENTLE BABY",
+        "url": "https://open.spotify.com/album/73E8xHWSLn6jGlunjRb60V"
+      },
+      "artists": [
+        {
+          "name": "Leeray",
+          "url": "https://open.spotify.com/artist/5iYfkAR2436UVRFEFm9iHr"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171789,
+      "name": "GENTLE BABY",
+      "url": "https://open.spotify.com/track/11yHeKNuagn6X2XOhO108a"
+    },
+    {
+      "album": {
         "name": "Handstands",
         "url": "https://open.spotify.com/album/1O4OCWQgSxGyTNcV3l8I9o"
       },
@@ -1098,7 +1116,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 188571,
       "name": "Hold On Tight",
       "url": "https://open.spotify.com/track/7713P9K50HWKmb1qEWXiGT"
@@ -1186,6 +1204,24 @@
       "duration_ms": 163098,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/2olkQiOBNai6jtxU03w47a"
+    },
+    {
+      "album": {
+        "name": "i like that you like it",
+        "url": "https://open.spotify.com/album/7cloAjZG5UTmzXoS3Q9xD9"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "i like that you like it",
+      "url": "https://open.spotify.com/track/3J3uorC8pSDKVaiNkGv3Q9"
     },
     {
       "album": {
@@ -1374,7 +1410,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 250285,
       "name": "JEAN",
       "url": "https://open.spotify.com/track/3GGhDuH1CvIJbMy5qZvF00"
@@ -1785,6 +1821,24 @@
     },
     {
       "album": {
+        "name": "Peter's Theme",
+        "url": "https://open.spotify.com/album/4SQO40NtqfF1vAt52fMnj3"
+      },
+      "artists": [
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281387,
+      "name": "Peter's Theme",
+      "url": "https://open.spotify.com/track/2b8Q7Qs3mVZDB71B3qoHth"
+    },
+    {
+      "album": {
         "name": "coming home",
         "url": "https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE"
       },
@@ -1951,6 +2005,28 @@
     },
     {
       "album": {
+        "name": "Separate Ways",
+        "url": "https://open.spotify.com/album/3ngkRH3t74hMdz5xPTF3Rz"
+      },
+      "artists": [
+        {
+          "name": "Foxela",
+          "url": "https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu"
+        },
+        {
+          "name": "David Shane",
+          "url": "https://open.spotify.com/artist/3Ao6gAvkCZUtj4ALBjNmXV"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156190,
+      "name": "Separate Ways",
+      "url": "https://open.spotify.com/track/0qMP7NeROCwLgqSDbtuZff"
+    },
+    {
+      "album": {
         "name": "she's coming alive",
         "url": "https://open.spotify.com/album/5kbbwFduOW0mWoxDJ0ivP9"
       },
@@ -2006,6 +2082,24 @@
       "duration_ms": 180266,
       "name": "SO BE IT",
       "url": "https://open.spotify.com/track/19K2LoHnsuc7LIynGguA0q"
+    },
+    {
+      "album": {
+        "name": "something about you",
+        "url": "https://open.spotify.com/album/2K71LC57GwsdNQjuSoYYHh"
+      },
+      "artists": [
+        {
+          "name": "emmarae",
+          "url": "https://open.spotify.com/artist/1eF3L2mTZO8nLUihnoA3Lb"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202285,
+      "name": "something about you",
+      "url": "https://open.spotify.com/track/6gs182zk5dWG8J7QNACzZt"
     },
     {
       "album": {
@@ -2496,7 +2590,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 146181,
       "name": "What A Tragedy",
       "url": "https://open.spotify.com/track/1BCqvzNMzVcAHjPMyLmaG7"
@@ -2518,7 +2612,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 198045,
       "name": "what am i gonna do",
       "url": "https://open.spotify.com/track/2b22WnbcVOUe5eMII5Dh4H"
@@ -2681,6 +2775,24 @@
     },
     {
       "album": {
+        "name": "without you",
+        "url": "https://open.spotify.com/album/0Z4zqTEb5LG1fzEGRI7HMS"
+      },
+      "artists": [
+        {
+          "name": "Shye",
+          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206355,
+      "name": "without you",
+      "url": "https://open.spotify.com/track/2OLV8r3uk30q6taFSWy6xE"
+    },
+    {
+      "album": {
         "name": "WONDERFUL DAY",
         "url": "https://open.spotify.com/album/6QymlEi6qNgBNWde5kfcbl"
       },
@@ -2794,6 +2906,24 @@
       "duration_ms": 235764,
       "name": "\u5584\u826f\u7684\u6211\u5011 (\u5f71\u96c6\u300a\u4e0d\u5920\u5584\u826f\u7684\u6211\u5011\u300b\u7247\u5c3e\u66f2)",
       "url": "https://open.spotify.com/track/1OxW5HUdYBZVCuiPGUPXhb"
+    },
+    {
+      "album": {
+        "name": "\u597d\u60f3\u91cd\u65b0\u56de\u5230\u8a8d\u8b58\u4f60\u7684\u77ac\u9593",
+        "url": "https://open.spotify.com/album/3DgPKp7y4ExTSQR560tCcG"
+      },
+      "artists": [
+        {
+          "name": "\u9ec3\u9577\u4fca",
+          "url": "https://open.spotify.com/artist/7aPCuTZPyKhq4BevJfFHye"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262153,
+      "name": "\u597d\u60f3\u91cd\u65b0\u56de\u5230\u8a8d\u8b58\u4f60\u7684\u77ac\u9593",
+      "url": "https://open.spotify.com/track/66LSEwZQ3pO0HjHHe1RNm6"
     },
     {
       "album": {

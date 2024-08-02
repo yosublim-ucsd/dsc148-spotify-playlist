@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcaf Kannessa Costi ja Juuna Chill.",
+  "description": "100 Suomi \ud83d\udcaf Kannessa Cledos ja Sexmane.",
   "name": "100 Suomi",
   "tracks": [
     {
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 166299,
       "name": "Dansa",
       "url": "https://open.spotify.com/track/4BMRAWN0jTtswCO2WEn8Ew"
@@ -3006,7 +3006,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 161805,
       "name": "HKI city girl",
       "url": "https://open.spotify.com/track/3m6oB4GoIC0q2nq7etIz3R"
@@ -3972,7 +3972,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 139805,
       "name": "Kadotaan",
       "url": "https://open.spotify.com/track/34ihQTvowAxXm380WyqrWo"
@@ -6056,7 +6056,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 146333,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/67GlbA9W8Iv5bQo46hDmiB"
@@ -6234,7 +6234,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 178614,
       "name": "L\u00e4htee heti",
       "url": "https://open.spotify.com/track/0HZbsvAk8etKqRpk4L7quV"
@@ -6562,7 +6562,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 158684,
       "name": "Maybach",
       "url": "https://open.spotify.com/track/6c17ZK90EPhBS0z31TzYmt"
@@ -7678,7 +7678,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 200000,
       "name": "NIIN ETT\u00c4 TUNTUU",
       "url": "https://open.spotify.com/track/0GnveAUohzsJaX6XxwyeVA"
@@ -9553,6 +9553,28 @@
     },
     {
       "album": {
+        "name": "Salamanca (feat. Kalle Kinos)",
+        "url": "https://open.spotify.com/album/7knOC9zgTGZljLrwlHJz6g"
+      },
+      "artists": [
+        {
+          "name": "Eevil St\u00f6\u00f6",
+          "url": "https://open.spotify.com/artist/0hD2uZfgcwrRRMcPYQ45pf"
+        },
+        {
+          "name": "Kalle Kinos",
+          "url": "https://open.spotify.com/artist/5bGcZ1xdf9Y65oh7iSimi6"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176866,
+      "name": "Salamanca (feat. Kalle Kinos)",
+      "url": "https://open.spotify.com/track/0tdvfMvVdOeumuvcoNGcZm"
+    },
+    {
+      "album": {
         "name": "Samat farkut",
         "url": "https://open.spotify.com/album/436o2iTRXdYlXmFsec6FPA"
       },
@@ -9670,6 +9692,24 @@
       "duration_ms": 178153,
       "name": "SCARFACE",
       "url": "https://open.spotify.com/track/2cYvIhXWyxemWWRJuvVa1r"
+    },
+    {
+      "album": {
+        "name": "Scatman",
+        "url": "https://open.spotify.com/album/2RWs5Fn0ZTGRaZdsdhhIIp"
+      },
+      "artists": [
+        {
+          "name": "James-J",
+          "url": "https://open.spotify.com/artist/26bXkdCOQ0zRgxWgGOkkg1"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140581,
+      "name": "Scatman",
+      "url": "https://open.spotify.com/track/5hAIsbKA5haCaSo1VkjuQT"
     },
     {
       "album": {

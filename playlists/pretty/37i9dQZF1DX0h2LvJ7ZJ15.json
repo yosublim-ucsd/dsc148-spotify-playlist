@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1367550,
+  "num_followers": 1367932,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
-        "name": "CUTE DEPRESSED (ALL VERSIONS)",
-        "url": "https://open.spotify.com/album/64CIZ10gxcp0WGZmVV4B0c"
-      },
-      "artists": [
-        {
-          "name": "Dyan Dxddy",
-          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
-        }
-      ],
-      "duration_ms": 121417,
-      "name": "CUTE DEPRESSED - SLOWED VERSION",
-      "url": "https://open.spotify.com/track/0gALPCrSYb7vW8PDcbvzmU"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
         "name": "3 am empty",
         "url": "https://open.spotify.com/album/3sSvAReP5cObFgTj4NRYcT"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 199043,
       "name": "3 am walk - Slowed & Reverb Version",
       "url": "https://open.spotify.com/track/1miBMMwRKSCL6RItKHbXuR"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
+        "name": "CUTE DEPRESSED (ALL VERSIONS)",
+        "url": "https://open.spotify.com/album/64CIZ10gxcp0WGZmVV4B0c"
+      },
+      "artists": [
+        {
+          "name": "Dyan Dxddy",
+          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
+        }
+      ],
+      "duration_ms": 121417,
+      "name": "CUTE DEPRESSED - SLOWED VERSION",
+      "url": "https://open.spotify.com/track/0gALPCrSYb7vW8PDcbvzmU"
     },
     {
       "added_at": "2024-05-24 04:38:40",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
-        "name": "Vision (Slowed)",
-        "url": "https://open.spotify.com/album/6kKao8k8is0gfZ2LtrnUMh"
-      },
-      "artists": [
-        {
-          "name": "Hucci",
-          "url": "https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk"
-        }
-      ],
-      "duration_ms": 299572,
-      "name": "Vision - Slowed",
-      "url": "https://open.spotify.com/track/1NFqszFNaYFCTjdGb3TfSh"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
         "name": "Hands up! (The Remix)",
         "url": "https://open.spotify.com/album/07YCL9cU3GuKxXQucJsKap"
       },
@@ -803,22 +787,18 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
-        "name": "BASSLINE",
-        "url": "https://open.spotify.com/album/7AmJYPuvIFdqLKcnhtIfNK"
+        "name": "Vision (Slowed)",
+        "url": "https://open.spotify.com/album/6kKao8k8is0gfZ2LtrnUMh"
       },
       "artists": [
         {
-          "name": "PXRKX",
-          "url": "https://open.spotify.com/artist/5sj3P8OH8O5aVmey1C2mf4"
-        },
-        {
-          "name": "Shadow - Plus",
-          "url": "https://open.spotify.com/artist/6LYUNVm4A6yGEYYxmaOSsc"
+          "name": "Hucci",
+          "url": "https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk"
         }
       ],
-      "duration_ms": 130000,
-      "name": "BASSLINE - SLOWED",
-      "url": "https://open.spotify.com/track/3KpuvLHfzkUl2T7ARb5SUP"
+      "duration_ms": 299572,
+      "name": "Vision - Slowed",
+      "url": "https://open.spotify.com/track/1NFqszFNaYFCTjdGb3TfSh"
     },
     {
       "added_at": "2024-05-24 04:38:40",
@@ -835,6 +815,26 @@
       "duration_ms": 278074,
       "name": "Killshot - Slowed + Reverb",
       "url": "https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
+        "name": "BASSLINE",
+        "url": "https://open.spotify.com/album/7AmJYPuvIFdqLKcnhtIfNK"
+      },
+      "artists": [
+        {
+          "name": "PXRKX",
+          "url": "https://open.spotify.com/artist/5sj3P8OH8O5aVmey1C2mf4"
+        },
+        {
+          "name": "Shadow - Plus",
+          "url": "https://open.spotify.com/artist/6LYUNVm4A6yGEYYxmaOSsc"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "BASSLINE - SLOWED",
+      "url": "https://open.spotify.com/track/3KpuvLHfzkUl2T7ARb5SUP"
     },
     {
       "added_at": "2024-05-24 04:38:40",

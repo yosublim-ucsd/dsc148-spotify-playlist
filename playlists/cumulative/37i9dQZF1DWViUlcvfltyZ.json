@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie e punk dall'Italia, Amalfitano in cover \ud83c\udfb8",
+  "description": "Rock, indie e punk dall'Italia, MILLE in cover \ud83c\udfb8",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 206587,
       "name": "146",
       "url": "https://open.spotify.com/track/1mu2TX3eKAjbPZQa93okGE"
@@ -832,6 +832,24 @@
       "duration_ms": 250529,
       "name": "Always Before (The Fire)",
       "url": "https://open.spotify.com/track/1Zxk5vYIHVeHiFKRmEfx3y"
+    },
+    {
+      "album": {
+        "name": "Amare Cose Complesse",
+        "url": "https://open.spotify.com/album/4fccPotIjHt9mJsQGykMHC"
+      },
+      "artists": [
+        {
+          "name": "MILLE",
+          "url": "https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211349,
+      "name": "Amare Cose Complesse",
+      "url": "https://open.spotify.com/track/36HOZeNuZCMXW2S3BITMs4"
     },
     {
       "album": {
@@ -7257,6 +7275,24 @@
     },
     {
       "album": {
+        "name": "Hey Man",
+        "url": "https://open.spotify.com/album/3aaGoS0fwrDKxwGmWB4m1M"
+      },
+      "artists": [
+        {
+          "name": "Painted Vein",
+          "url": "https://open.spotify.com/artist/1Yz4iQXuDT8WRluhIxYHLa"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275966,
+      "name": "Hey Man",
+      "url": "https://open.spotify.com/track/1qSIQ4haH6iuBYlHvoXMer"
+    },
+    {
+      "album": {
         "name": "Limine",
         "url": "https://open.spotify.com/album/1p1CplengpaQU0lsmzOBaB"
       },
@@ -13130,7 +13166,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 229891,
       "name": "Pistola (feat. Tripolare)",
       "url": "https://open.spotify.com/track/1x4m8pipnJNqg3DnPzN54F"
@@ -15066,7 +15102,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 152116,
       "name": "Sempre",
       "url": "https://open.spotify.com/track/5EZm5cuNdnu04Cso8fuojN"
@@ -17062,6 +17098,24 @@
       "duration_ms": 176000,
       "name": "Ti faccio un tutorial",
       "url": "https://open.spotify.com/track/2OM49PXPcHeeDqkNeyZHoC"
+    },
+    {
+      "album": {
+        "name": "Ti perdoneresti? Io mai",
+        "url": "https://open.spotify.com/album/3xRcq6ZBNu2lB74JTreVBh"
+      },
+      "artists": [
+        {
+          "name": "Schiuma",
+          "url": "https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198995,
+      "name": "Ti perdoneresti? Io mai",
+      "url": "https://open.spotify.com/track/2fxjoAau1djZlZLc9Wibfn"
     },
     {
       "album": {

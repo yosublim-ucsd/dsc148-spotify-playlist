@@ -2,9 +2,9 @@
 
 ### [Puncak Klasemen](https://open.spotify.com/playlist/37i9dQZF1DWZxM58TRkuqg)
 
-> Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Yovie Widianto, Lyodra
+> Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: NIKI
 
-189 songs - 12 hr 35 min
+191 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,9 @@
 | [Ego](https://open.spotify.com/track/5s8W7GGcTubPJHpFOo4Sjf) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Ego](https://open.spotify.com/album/5PKuRgxDEG48qVxQbD9nL0) | 4:34 | 2024-01-26 | 2024-03-22 |
 | [Episode](https://open.spotify.com/track/7r6iKxXIAgfAr3KzUECD3G) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Episode](https://open.spotify.com/album/42Mll5B1tj9XU3u6EoNnFM) | 5:13 | 2024-03-21 | 2024-05-03 |
 | [Favorite Art](https://open.spotify.com/track/0uwKZi6NBSfJS77MejAxvu) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [Favorite Art](https://open.spotify.com/album/42btgmtHPBE4Moq3luRC2z) | 2:53 | 2024-04-25 | 2024-07-27 |
+| [Fly Me To The Moon \(From "Fly Me To The Moon" Movie\)](https://open.spotify.com/track/7IoVDHWIUmRhzihnBNlVpf) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Fly Me To The Moon \(From "Fly Me To The Moon" Movie\)](https://open.spotify.com/album/3B5Fj6LFbydv4FoEx48w80) | 2:50 | 2024-08-01 |  |
 | [Foto kita blur](https://open.spotify.com/track/0qbRvZ1alpPGmV52wKb2gJ) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Foto kita blur](https://open.spotify.com/album/5ub2KSCpnGbmYyKLruGUPF) | 4:31 | 2024-03-28 | 2024-05-03 |
+| [Fragile](https://open.spotify.com/track/2aQ5TojQsR4rTe1zyiJamc) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Fragile](https://open.spotify.com/album/0Mhyp9JonvP6cHv2HWQChq) | 3:38 | 2024-08-01 |  |
 | [Gala bunga matahari](https://open.spotify.com/track/5eBk8ZXcd0pb0AO4a5PpOg) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH PENS FLASHDISKS](https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q) | 3:29 | 2024-07-04 |  |
 | [Get Over Him](https://open.spotify.com/track/4lIQwnb1WHfdLf1YJHR31G) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Get Over Him](https://open.spotify.com/album/5cTM5vH4eQP1gauYKJftsA) | 3:06 | 2024-05-30 | 2024-07-05 |
 | [GOODLUCK](https://open.spotify.com/track/7dYM7VucT6reu7Q0wGio85) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs ATLAS](https://open.spotify.com/album/3tXerD5ud55G8xiP3TV0zU) | 4:38 | 2024-01-26 | 2024-03-29 |

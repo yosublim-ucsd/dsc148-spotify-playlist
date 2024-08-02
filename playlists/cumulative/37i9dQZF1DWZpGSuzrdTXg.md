@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zondag met deze zachte popliedjes.
 
-192 songs - 10 hr 59 min
+193 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Before You Let Me Go](https://open.spotify.com/track/5VhiUa3rk0vPdXGf48EC7K) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Before You Let Me Go](https://open.spotify.com/album/27MYJxaKPIzlzwozxVyo2t) | 3:42 | 2024-04-18 |  |
 | [Before You Let Me Go](https://open.spotify.com/track/7qNrSxc8OtSVxQlCKpmIgY) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Before You Let Me Go](https://open.spotify.com/album/1W9yQ05UVOZDwT6u5DrnEs) | 3:42 | 2022-12-22 | 2024-04-19 |
 | [Beggin’ \- Acoustic](https://open.spotify.com/track/7a5QGqYKUMSv1cBdG6RQo0) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Beggin'](https://open.spotify.com/album/4dkbdbQXcDgDAjhLWgYn9F) | 3:52 | 2024-06-07 |  |
+| [Best Day Of My Life](https://open.spotify.com/track/45tIEhTXA50v2MQ4yazpxF) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [Best Day of My Life](https://open.spotify.com/album/6dEsYPAyaDPGSFj4gmJuHL) | 3:44 | 2024-08-01 |  |
 | [Best Friend](https://open.spotify.com/track/3Tgw8MO3QaOKrSovX93OoT) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Best Friend](https://open.spotify.com/album/7DJoUssMTS1AkOfi2BUiiW) | 3:04 | 2022-12-22 |  |
 | [Best Friend](https://open.spotify.com/track/4F2OilypcmGv2TJIfto9sr) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Caesar](https://open.spotify.com/album/3jOouxyeaYRD9deTRXzqSE) | 3:04 | 2024-02-15 | 2024-04-19 |
 | [Big Jet Plane](https://open.spotify.com/track/2fbXJ0VpxhW7j0qcg1DnoZ) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down The Way](https://open.spotify.com/album/0C29hfEJQdcyzpTHy8tTXr) | 3:59 | 2024-04-18 |  |
@@ -166,7 +167,7 @@
 | [The Sweet Sound of You](https://open.spotify.com/track/6LAUgmGpZBFq2dHmcYCcot) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [The Sweet Sound of You](https://open.spotify.com/album/30NwPn9L2yYV1FD5KSSZVF) | 4:57 | 2023-02-23 | 2023-09-04 |
 | [The Way I Love You](https://open.spotify.com/track/1lzvc17qKf2CyIOSWUEH4p) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [The Way I Love You](https://open.spotify.com/album/5NW9Naf2BWbZFNVMY4mz3B) | 2:32 | 2022-12-22 |  |
 | [The Way I Love You Now](https://open.spotify.com/track/0f0LczCuY8x9JNzCmvRmZr) | [Daniel Docherty](https://open.spotify.com/artist/186gOhAX0pNXjYldk47D0F) | [The Way I Love You Now](https://open.spotify.com/album/1hx0sIMyERM2fq2zX3m1gn) | 2:53 | 2024-03-14 |  |
-| [The Way You Take Time \- acoustic](https://open.spotify.com/track/18fvrCWvxLrNLyU8cPK2or) | [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [The Way You Take Time \(acoustic\)](https://open.spotify.com/album/03ebKoGM3m5XuumbpZA7mR) | 3:15 | 2024-04-18 |  |
+| [The Way You Take Time \- acoustic](https://open.spotify.com/track/18fvrCWvxLrNLyU8cPK2or) | [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [The Way You Take Time \(acoustic\)](https://open.spotify.com/album/03ebKoGM3m5XuumbpZA7mR) | 3:15 | 2024-04-18 | 2024-08-02 |
 | [The Way You Take Time \- Acoustic](https://open.spotify.com/track/7c6XagC4ZxfiK3p9I2nD1i) | [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [The Way You Take Time \(Acoustic\)](https://open.spotify.com/album/37r6ntMm6ejXyke5VPSfXP) | 3:15 | 2022-12-22 | 2024-04-19 |
 | [The Wedding Song](https://open.spotify.com/track/2mwY1C4oCxPFy2A3UQIcEu) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [The Wedding Song](https://open.spotify.com/album/1k0rqhjZ18zvF6dKMoVnjj) | 3:16 | 2024-02-09 | 2024-04-19 |
 | [The Wedding Song](https://open.spotify.com/track/5QdPm7hJxZj3YvumMBLhsV) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [The Wedding Song](https://open.spotify.com/album/7MHyuzz7zHhGvbgWfXWKAR) | 3:16 | 2024-02-08 |  |

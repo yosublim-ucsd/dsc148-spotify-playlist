@@ -1,13 +1,181 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 98922,
+  "num_followers": 98933,
   "original_name": "Dance Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zqd5JwAAAACJYC8Cah2jWLm5wWnjDxMJ",
+  "snapshot_id": "ZqugggAAAAAx8YOigxis633vCgvsBlrY",
   "tracks": [
+    {
+      "added_at": "2024-07-29 11:12:39",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/3M8mh9sMhke8hLDVmsumNm"
+      },
+      "artists": [
+        {
+          "name": "AVIAN GRAYS",
+          "url": "https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5"
+        },
+        {
+          "name": "Kayla Diamond",
+          "url": "https://open.spotify.com/artist/0ZXXi9wCxbPap3QVDxxIYb"
+        }
+      ],
+      "duration_ms": 165804,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0k4IrHcS8tMOzgOaufCl1A"
+    },
+    {
+      "added_at": "2024-07-29 11:12:39",
+      "album": {
+        "name": "Waste Your Love",
+        "url": "https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 167630,
+      "name": "Waste Your Love",
+      "url": "https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g"
+    },
+    {
+      "added_at": "2024-07-29 11:12:39",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/2lHojU2mWFc5mVAkz3B9x2"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 181417,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5j1XuqSJqLDRceRqMjcUhT"
+    },
+    {
+      "added_at": "2024-07-29 11:12:39",
+      "album": {
+        "name": "Pop Some Tags",
+        "url": "https://open.spotify.com/album/227QNgObxVtAGhJeN2OtRe"
+      },
+      "artists": [
+        {
+          "name": "WAVES",
+          "url": "https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ"
+        }
+      ],
+      "duration_ms": 139183,
+      "name": "Pop Some Tags",
+      "url": "https://open.spotify.com/track/25owlYCoM7EiKwlixXBaB8"
+    },
+    {
+      "added_at": "2024-07-29 11:12:39",
+      "album": {
+        "name": "Never Fall Down",
+        "url": "https://open.spotify.com/album/3KC6P4Pq4CWaNLIPgJtTzQ"
+      },
+      "artists": [
+        {
+          "name": "Mondello'G",
+          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
+        },
+        {
+          "name": "LAUWEND",
+          "url": "https://open.spotify.com/artist/12QQZ0RBLnfB2MS8FrwmmM"
+        }
+      ],
+      "duration_ms": 144570,
+      "name": "Never Fall Down",
+      "url": "https://open.spotify.com/track/3NS4Ig26lvvVoIz0CngOmm"
+    },
+    {
+      "added_at": "2024-07-29 11:12:39",
+      "album": {
+        "name": "Chances",
+        "url": "https://open.spotify.com/album/6QwpK5fPO5mHyFRt1bBzZV"
+      },
+      "artists": [
+        {
+          "name": "DJ YUKI",
+          "url": "https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB"
+        },
+        {
+          "name": "Kate Wild",
+          "url": "https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l"
+        }
+      ],
+      "duration_ms": 170039,
+      "name": "Chances",
+      "url": "https://open.spotify.com/track/0mVLuJBvxToIMCU0CrpO08"
+    },
+    {
+      "added_at": "2024-07-29 11:12:39",
+      "album": {
+        "name": "Nothing In Common",
+        "url": "https://open.spotify.com/album/2OVpPBoS3pjmlaJH6PuT39"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        },
+        {
+          "name": "Raphi",
+          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nothing In Common",
+      "url": "https://open.spotify.com/track/3q7U43P5AbtkD1XiB0J1wR"
+    },
+    {
+      "added_at": "2024-07-29 11:12:39",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/6P2CZNhzDnpIdi3KOm7QkS"
+      },
+      "artists": [
+        {
+          "name": "LV",
+          "url": "https://open.spotify.com/artist/3aCyI9bM14mcQajmM5641q"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/6azYMWnHlQwbkpDNxSIluY"
+    },
+    {
+      "added_at": "2024-07-29 11:12:39",
+      "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/2rfaWwbzTb380DNEpLWQRy"
+      },
+      "artists": [
+        {
+          "name": "Mahalo",
+          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
+        },
+        {
+          "name": "Guillaume Gordon",
+          "url": "https://open.spotify.com/artist/3TfKErb0eKYPcZbuA32oPj"
+        }
+      ],
+      "duration_ms": 162712,
+      "name": "Got a Friend",
+      "url": "https://open.spotify.com/track/0fdpoQFH8s3viiqy42p1f5"
+    },
     {
       "added_at": "2024-07-29 11:12:39",
       "album": {
@@ -115,42 +283,6 @@
       "duration_ms": 152380,
       "name": "Run Free (Countdown)",
       "url": "https://open.spotify.com/track/4KB66xUZWvRDej628vf2J8"
-    },
-    {
-      "added_at": "2024-07-29 11:12:39",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/3M8mh9sMhke8hLDVmsumNm"
-      },
-      "artists": [
-        {
-          "name": "AVIAN GRAYS",
-          "url": "https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5"
-        },
-        {
-          "name": "Kayla Diamond",
-          "url": "https://open.spotify.com/artist/0ZXXi9wCxbPap3QVDxxIYb"
-        }
-      ],
-      "duration_ms": 165804,
-      "name": "You",
-      "url": "https://open.spotify.com/track/0k4IrHcS8tMOzgOaufCl1A"
-    },
-    {
-      "added_at": "2024-07-29 11:12:39",
-      "album": {
-        "name": "Waste Your Love",
-        "url": "https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd"
-      },
-      "artists": [
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 167630,
-      "name": "Waste Your Love",
-      "url": "https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g"
     },
     {
       "added_at": "2024-07-29 11:12:39",
@@ -375,26 +507,6 @@
     {
       "added_at": "2024-07-29 11:12:39",
       "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/2lHojU2mWFc5mVAkz3B9x2"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 181417,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/5j1XuqSJqLDRceRqMjcUhT"
-    },
-    {
-      "added_at": "2024-07-29 11:12:39",
-      "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/4W6JgfyZpadxcjoPEXCyee"
       },
@@ -547,22 +659,6 @@
     {
       "added_at": "2024-07-29 11:12:39",
       "album": {
-        "name": "Pop Some Tags",
-        "url": "https://open.spotify.com/album/227QNgObxVtAGhJeN2OtRe"
-      },
-      "artists": [
-        {
-          "name": "WAVES",
-          "url": "https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ"
-        }
-      ],
-      "duration_ms": 139183,
-      "name": "Pop Some Tags",
-      "url": "https://open.spotify.com/track/25owlYCoM7EiKwlixXBaB8"
-    },
-    {
-      "added_at": "2024-07-29 11:12:39",
-      "album": {
         "name": "Waste My Time",
         "url": "https://open.spotify.com/album/11IxazZzeXvHoxyicCZ7JY"
       },
@@ -579,46 +675,6 @@
       "duration_ms": 153024,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/4KN3Ic9B9lCJ60drS78Pe8"
-    },
-    {
-      "added_at": "2024-07-29 11:12:39",
-      "album": {
-        "name": "Never Fall Down",
-        "url": "https://open.spotify.com/album/3KC6P4Pq4CWaNLIPgJtTzQ"
-      },
-      "artists": [
-        {
-          "name": "Mondello'G",
-          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
-        },
-        {
-          "name": "LAUWEND",
-          "url": "https://open.spotify.com/artist/12QQZ0RBLnfB2MS8FrwmmM"
-        }
-      ],
-      "duration_ms": 144570,
-      "name": "Never Fall Down",
-      "url": "https://open.spotify.com/track/3NS4Ig26lvvVoIz0CngOmm"
-    },
-    {
-      "added_at": "2024-07-29 11:12:39",
-      "album": {
-        "name": "Chances",
-        "url": "https://open.spotify.com/album/6QwpK5fPO5mHyFRt1bBzZV"
-      },
-      "artists": [
-        {
-          "name": "DJ YUKI",
-          "url": "https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB"
-        },
-        {
-          "name": "Kate Wild",
-          "url": "https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l"
-        }
-      ],
-      "duration_ms": 170039,
-      "name": "Chances",
-      "url": "https://open.spotify.com/track/0mVLuJBvxToIMCU0CrpO08"
     },
     {
       "added_at": "2024-07-29 11:12:39",
@@ -655,26 +711,6 @@
     {
       "added_at": "2024-07-29 11:12:39",
       "album": {
-        "name": "Nothing In Common",
-        "url": "https://open.spotify.com/album/2OVpPBoS3pjmlaJH6PuT39"
-      },
-      "artists": [
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        },
-        {
-          "name": "Raphi",
-          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Nothing In Common",
-      "url": "https://open.spotify.com/track/3q7U43P5AbtkD1XiB0J1wR"
-    },
-    {
-      "added_at": "2024-07-29 11:12:39",
-      "album": {
         "name": "All On Me",
         "url": "https://open.spotify.com/album/2BXVKywq85Dr2pMamjIdMM"
       },
@@ -691,42 +727,6 @@
       "duration_ms": 144960,
       "name": "All On Me",
       "url": "https://open.spotify.com/track/0D5rx7pURavcGEx9ZryKgQ"
-    },
-    {
-      "added_at": "2024-07-29 11:12:39",
-      "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/6P2CZNhzDnpIdi3KOm7QkS"
-      },
-      "artists": [
-        {
-          "name": "LV",
-          "url": "https://open.spotify.com/artist/3aCyI9bM14mcQajmM5641q"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/6azYMWnHlQwbkpDNxSIluY"
-    },
-    {
-      "added_at": "2024-07-29 11:12:39",
-      "album": {
-        "name": "Currents",
-        "url": "https://open.spotify.com/album/2rfaWwbzTb380DNEpLWQRy"
-      },
-      "artists": [
-        {
-          "name": "Mahalo",
-          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
-        },
-        {
-          "name": "Guillaume Gordon",
-          "url": "https://open.spotify.com/artist/3TfKErb0eKYPcZbuA32oPj"
-        }
-      ],
-      "duration_ms": 162712,
-      "name": "Got a Friend",
-      "url": "https://open.spotify.com/track/0fdpoQFH8s3viiqy42p1f5"
     },
     {
       "added_at": "2024-07-29 11:12:39",

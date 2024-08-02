@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Cover: SELVA VOLC\u00c1N & Mayra S\u00e1nchez, Artwork: Isu Kim",
-  "num_followers": 1203839,
+  "num_followers": 1203884,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqpV5AAAAAA/OqIKWRuXEHlKmrHbRQi/",
+  "snapshot_id": "Zqu7igAAAADOo/uE5j9aEuJDvLU1pjww",
   "tracks": [
     {
       "added_at": "2024-07-31 15:14:31",
@@ -369,6 +369,22 @@
       "url": "https://open.spotify.com/track/13PC7fpNWPPkMFJjTQeMh1"
     },
     {
+      "added_at": "2024-08-01 16:44:58",
+      "album": {
+        "name": "quiero creer que tienes un buen coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2zzufzmGi2DhSSopXrjXlw"
+      },
+      "artists": [
+        {
+          "name": "cata teuber",
+          "url": "https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4"
+        }
+      ],
+      "duration_ms": 216443,
+      "name": "quiero creer que tienes un buen coraz\u00f3n",
+      "url": "https://open.spotify.com/track/62qBQeXsGkn2fytlmvUUvr"
+    },
+    {
       "added_at": "2024-07-31 15:19:00",
       "album": {
         "name": "will you, say your name",
@@ -623,6 +639,34 @@
       "duration_ms": 178981,
       "name": "Katana",
       "url": "https://open.spotify.com/track/4IDVtE6XNoPicVq3b58pep"
+    },
+    {
+      "added_at": "2024-08-01 16:44:58",
+      "album": {
+        "name": "Lejos",
+        "url": "https://open.spotify.com/album/3eyR6OsrjNiYEttVoKsEwx"
+      },
+      "artists": [
+        {
+          "name": "D'Avila",
+          "url": "https://open.spotify.com/artist/6elNbQJgp30Ml9u2jO9RwX"
+        },
+        {
+          "name": "Chell",
+          "url": "https://open.spotify.com/artist/26z5jcyErxp9lUdkw28pId"
+        },
+        {
+          "name": "La Radio Bemb\u00e9 Orquesta",
+          "url": "https://open.spotify.com/artist/6cajshs06v9KvBLZuJZhfW"
+        },
+        {
+          "name": "RI",
+          "url": "https://open.spotify.com/artist/31zcVceg6CBFwo6jiVO3MU"
+        }
+      ],
+      "duration_ms": 252583,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/1T6Twzz2hLR3oXJDjjcJTS"
     },
     {
       "added_at": "2024-07-17 16:37:19",
@@ -1121,22 +1165,6 @@
       "url": "https://open.spotify.com/track/5swbXHitmJ9RqBrgK8gEYC"
     },
     {
-      "added_at": "2024-07-03 16:32:13",
-      "album": {
-        "name": "Summer Song",
-        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
-      },
-      "artists": [
-        {
-          "name": "Remy Bond",
-          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
-        }
-      ],
-      "duration_ms": 245504,
-      "name": "Summer Song",
-      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
-    },
-    {
       "added_at": "2024-07-24 15:28:30",
       "album": {
         "name": "THE WAIT",
@@ -1483,22 +1511,6 @@
       "duration_ms": 172741,
       "name": "Alone a Lot",
       "url": "https://open.spotify.com/track/50lNZYg7Vw5ZfDazuZ282n"
-    },
-    {
-      "added_at": "2024-07-03 16:32:13",
-      "album": {
-        "name": "Speed Dial",
-        "url": "https://open.spotify.com/album/1BCfFtC7MA5CB7OAXyA1aP"
-      },
-      "artists": [
-        {
-          "name": "Zhuli",
-          "url": "https://open.spotify.com/artist/2p2y1z8eTbirxLN7z032sz"
-        }
-      ],
-      "duration_ms": 169473,
-      "name": "Speed Dial",
-      "url": "https://open.spotify.com/track/3qOLholBSafjOGZ7TpnA7S"
     },
     {
       "added_at": "2024-07-17 16:37:19",

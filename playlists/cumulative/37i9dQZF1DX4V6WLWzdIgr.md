@@ -4,7 +4,7 @@
 
 > Sedihe koyo ngene, jangan ya dek ya! 😢
 
-95 songs - 7 hr 57 min
+96 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Aku Ikhlas](https://open.spotify.com/track/1dZjGhHlaCFHQuSIQrRxJv) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Aku Ikhlas](https://open.spotify.com/album/2jYDJuEDD143eZxnYzL1Q5) | 4:38 | 2021-09-08 |  |
 | [Aku Sing Lungo](https://open.spotify.com/track/2xk7P9Y2bzsCblzrXnOkBa) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Aku Sing Lungo](https://open.spotify.com/album/2yTxYLV1Z4QMZYjEX6ctHO) | 5:56 | 2024-04-04 |  |
 | [Angel](https://open.spotify.com/track/1J6ws7eOvY1GKzTdd3rrau) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Angel](https://open.spotify.com/album/27YY9UwgvQI4sQ6PR1FFUq) | 4:47 | 2021-09-08 |  |
+| [Apa Kabar Mantan](https://open.spotify.com/track/36hZ4BvcFwJqpmQDO2vFq0) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Apa Kabar Mantan](https://open.spotify.com/album/1tuqgVSI8gcoUb4fCsqLn1) | 4:06 | 2024-08-01 |  |
 | [Balungan Kere](https://open.spotify.com/track/7kmkGZEE6KSciuxQYDcKTV) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [PUSAKARYA](https://open.spotify.com/album/3bFsqB0xYs8nAkcw2R1vwq) | 5:07 | 2021-09-08 | 2023-02-04 |
 | [Banyu Langit](https://open.spotify.com/track/5hqpDFoA8j4T3MkXEd4UNk) | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4) | [Banyu Langit](https://open.spotify.com/album/200eVqfp0zNFdQMbmPaRZQ) | 4:53 | 2021-09-08 |  |
 | [Bubrah](https://open.spotify.com/track/25RJ8ELZpDxxqYewIesAXY) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Bubrah](https://open.spotify.com/album/5Nkut8ikqRpSbTAplNoMat) | 5:46 | 2024-01-11 |  |

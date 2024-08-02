@@ -2,7 +2,7 @@
 
 ### [This Is bludnymph](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4yfE9e)
 
-> This is: bludnymph\. Alle wichtigen Tracks in einer Playlist.
+> This is bludnymph\. The essential tracks, all in one playlist.
 
 24 songs - 1 hr 1 min
 

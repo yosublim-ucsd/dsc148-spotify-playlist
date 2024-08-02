@@ -2,7 +2,7 @@
 
 ### [This Is Kasey Chambers](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3PLAE6)
 
-> This Is Kasey Chambers\. Los temas esenciales, todos en una lista.
+> This is Kasey Chambers\. The essential tracks, all in one playlist.
 
 63 songs - 3 hr 40 min
 

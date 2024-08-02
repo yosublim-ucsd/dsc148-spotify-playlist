@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Ashira Zamita
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Rizwan Fadilah
 
-224 songs - 14 hr 25 min
+225 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Favorite](https://open.spotify.com/track/6Nd7rc30EsFdGrwfeB8N2n) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [The Mirror](https://open.spotify.com/album/51etW6Ge46Vuuvhq5cgTQ6) | 3:25 | 2022-03-24 | 2023-04-14 |
 | [Favorite Art](https://open.spotify.com/track/0uwKZi6NBSfJS77MejAxvu) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [Favorite Art](https://open.spotify.com/album/42btgmtHPBE4Moq3luRC2z) | 2:53 | 2024-04-25 |  |
 | [Forever](https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Forever](https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S) | 4:13 | 2021-11-25 | 2022-03-25 |
+| [Fragile](https://open.spotify.com/track/2aQ5TojQsR4rTe1zyiJamc) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Fragile](https://open.spotify.com/album/0Mhyp9JonvP6cHv2HWQChq) | 3:38 | 2024-08-02 |  |
 | [Gem In I](https://open.spotify.com/track/24CX75uSDkTyLsbxqigA9V) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9), [Mouzect](https://open.spotify.com/artist/4UA5XcAGTnqceTGGWGg9mu) | [Gem In I](https://open.spotify.com/album/7sGZvHUbo1bsAy513vYld3) | 3:08 | 2021-11-25 | 2022-03-25 |
 | [Gerhana Dalam Cinta \- Live Ska Reggae](https://open.spotify.com/track/3MYekiBFtjZ7SwXskTznfP) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Gerhana Dalam Cinta \(Live Ska Reggae\)](https://open.spotify.com/album/4RjS7Q0ABbNKdPiHeTRIjB) | 5:38 | 2023-07-13 | 2024-03-29 |
 | [girl of the earth](https://open.spotify.com/track/4yLWk1DIcgBihCDFD7MshU) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [innerchild](https://open.spotify.com/album/72jZtqNaiAbUmcU5OqVgp9) | 3:50 | 2022-04-07 | 2023-04-14 |

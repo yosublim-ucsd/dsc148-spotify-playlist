@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 ### [Kannada Indie](https://open.spotify.com/playlist/37i9dQZF1DX55uyETlpZlJ)
 
-> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde
+> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasu Dixit, Manuality, Joel Sakkari
 
 [Spotify](https://open.spotify.com/user/spotify) - 23,396 likes - 76 songs - 4 hr 9 min
 
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 75 | [Don't Care \- Female Version](https://open.spotify.com/track/6zRJJRw3dX9xcXSHBQMeQf) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Sinchana Gowda](https://open.spotify.com/artist/56eDGtcTKZwRvgptm5qGVp) | [Don't Care \(Female Version\)](https://open.spotify.com/album/1EWSD1tTU4iixNYQjCEYIc) | 3:24 |
 | 76 | [Hey Snehithe](https://open.spotify.com/track/1vy1wvjZnGRy2jmI05n3C2) | [Manasa Holla](https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL), [Prarthana MA](https://open.spotify.com/artist/6OL8EER7m5R0WJYu1VMcvf), [Vihaan Arya](https://open.spotify.com/artist/3aV5EPIDyxtPmDe0PLaj7G), [Aneesh Poojari](https://open.spotify.com/artist/5HPROpmWawOVZh7atmOalE) | [Hey Snehithe](https://open.spotify.com/album/01RPjbea2bSnh45A4QJ9tH) | 2:37 |
 
-Snapshot ID: `Zqc+/wAAAADqlR/SqTcB/gBmqVZy97vl`
+Snapshot ID: `ZqsGBAAAAAA8u6etEqZetGdfWLgpDe63`

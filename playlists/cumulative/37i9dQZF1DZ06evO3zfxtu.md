@@ -4,7 +4,7 @@
 
 > This is Eva Shaw\. The essential tracks, all in one playlist.
 
-81 songs - 4 hr 3 min
+82 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Get Down](https://open.spotify.com/track/0yeQpFHYNyn4sv5PSeLyvu) | [Hard Rock Sofa](https://open.spotify.com/artist/6iBOcuDTJKItKor6YfzZa9), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [Get Down](https://open.spotify.com/album/1jZHbGZ1LpaqDZYFTZ4jtN) | 5:45 | 2023-12-13 |  |
 | [HAMSTRING](https://open.spotify.com/track/7I6a5VT0By9U6n8cIewPaY) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Lord Afrixana](https://open.spotify.com/artist/2MfKVXjjRUAUEeh4b4y8Sc), [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB) | [SOLO](https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B) | 3:03 | 2024-02-26 | 2024-03-13 |
 | [Hennessy](https://open.spotify.com/track/0uxx8eoacMQpkArNKF2OsW) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Yung Tory](https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx), [BTK Villeion](https://open.spotify.com/artist/2Mumdj049Bt1TtGicOw9gc) | [Hennessy](https://open.spotify.com/album/3VcnoZyUwssBEqAnVqaIMk) | 2:51 | 2023-12-14 | 2024-06-24 |
-| [High \(feat\. Shaggy & Demarco\) \- Festival Mix](https://open.spotify.com/track/4HYbW9oHQjEz3U0XMopuYI) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6) | [High \(feat\. Shaggy & Demarco\) \[Festival Mix\]](https://open.spotify.com/album/3DPZ1DV6Acvuc6QEqW9nuh) | 4:05 | 2023-12-13 |  |
+| [High \(feat\. Shaggy & Demarco\) \- Festival Mix](https://open.spotify.com/track/2HG2N7seRmTPK0NXkxg3ki) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6) | [High \(feat\. Shaggy & Demarco\) \[Festival Mix\]](https://open.spotify.com/album/2DPtK24Dn3vRTJjtO17oxJ) | 4:05 | 2024-08-02 |  |
+| [High \(feat\. Shaggy & Demarco\) \- Festival Mix](https://open.spotify.com/track/4HYbW9oHQjEz3U0XMopuYI) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6) | [High \(feat\. Shaggy & Demarco\) \[Festival Mix\]](https://open.spotify.com/album/3DPZ1DV6Acvuc6QEqW9nuh) | 4:05 | 2023-12-13 | 2024-08-02 |
 | [Home Invasion](https://open.spotify.com/track/0ITtG97YjCOAsrH9n7GGt4) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [Home Invasion](https://open.spotify.com/album/70zLigVL3vA0lxa8BJbeIK) | 2:26 | 2024-02-18 | 2024-04-19 |
 | [HOT](https://open.spotify.com/track/2QBBF2LnQjWhJHmnyFEE3e) | [Db Bantino](https://open.spotify.com/artist/5ltYVQ8xZcX9CnLT4Jl0sa), [G Milla](https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [HOT](https://open.spotify.com/album/0t4Bf8MDnwcNVakLOR8akL) | 3:07 | 2023-12-13 | 2024-07-22 |
 | [I Been Doing Great \(You Can Stop MFing Asking\)](https://open.spotify.com/track/3MQFwwFy7Wua20rsN4DzbI) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [I Been Doing Great \(You Can Stop MFing Asking\)](https://open.spotify.com/album/0e3tFtjJ6apQSfRItig6St) | 2:42 | 2023-12-13 | 2024-06-01 |

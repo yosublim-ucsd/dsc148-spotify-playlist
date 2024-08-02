@@ -1,6 +1,6 @@
 {
   "description": "Go deep into spontaneous praise and worship here. On and on.",
-  "num_followers": 205109,
+  "num_followers": 205162,
   "original_name": "Signs & Wonders",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-06-23 03:54:14",
       "album": {
-        "name": "House Of Miracles (Live)",
-        "url": "https://open.spotify.com/album/6XwSI6fu7MRZulAaOqcbwI"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 453980,
-      "name": "House Of Miracles - Live",
-      "url": "https://open.spotify.com/track/2Td9w1ZBDw7VPvERVudmDw"
-    },
-    {
-      "added_at": "2024-06-23 03:54:14",
-      "album": {
         "name": "Miracle Power",
         "url": "https://open.spotify.com/album/0tpf8K9V96KmH1vndscRZq"
       },
@@ -811,22 +795,6 @@
       "duration_ms": 277893,
       "name": "Miracle Power",
       "url": "https://open.spotify.com/track/0EVQYyD5xzmiEjXKRjJ8tx"
-    },
-    {
-      "added_at": "2024-06-23 03:54:14",
-      "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 282546,
-      "name": "Tethered",
-      "url": "https://open.spotify.com/track/2qeDQupafKL2K5mEVfEvCP"
     },
     {
       "added_at": "2024-06-23 03:54:14",
@@ -847,18 +815,34 @@
     {
       "added_at": "2024-06-23 03:54:14",
       "album": {
-        "name": "Where His Light Was",
-        "url": "https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW"
+        "name": "House Of Miracles (Live)",
+        "url": "https://open.spotify.com/album/6XwSI6fu7MRZulAaOqcbwI"
       },
       "artists": [
         {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 241213,
-      "name": "Take Courage (Radio Version)",
-      "url": "https://open.spotify.com/track/0GwFwWwKJMRx8LvNrna8Iv"
+      "duration_ms": 453980,
+      "name": "House Of Miracles - Live",
+      "url": "https://open.spotify.com/track/2Td9w1ZBDw7VPvERVudmDw"
+    },
+    {
+      "added_at": "2024-06-23 03:54:14",
+      "album": {
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 282546,
+      "name": "Tethered",
+      "url": "https://open.spotify.com/track/2qeDQupafKL2K5mEVfEvCP"
     },
     {
       "added_at": "2024-06-23 03:54:14",
@@ -879,6 +863,22 @@
       "duration_ms": 569320,
       "name": "Sanctuary - Live",
       "url": "https://open.spotify.com/track/0MHXhxkwnHpMupZQgYy2ZI"
+    },
+    {
+      "added_at": "2024-06-23 03:54:14",
+      "album": {
+        "name": "Where His Light Was",
+        "url": "https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW"
+      },
+      "artists": [
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "duration_ms": 241213,
+      "name": "Take Courage (Radio Version)",
+      "url": "https://open.spotify.com/track/0GwFwWwKJMRx8LvNrna8Iv"
     },
     {
       "added_at": "2024-06-23 03:54:14",

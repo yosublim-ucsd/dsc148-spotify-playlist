@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 200367,
+  "num_followers": 200531,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-07-25 20:15:36",
       "album": {
-        "name": "El Guapo",
-        "url": "https://open.spotify.com/album/1pSk7ehWJhdmJYaU8JobaP"
-      },
-      "artists": [
-        {
-          "name": "Banda Fresa Roja",
-          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
-        }
-      ],
-      "duration_ms": 188696,
-      "name": "El Guapo",
-      "url": "https://open.spotify.com/track/51zDKkKUFMpKtT40t80lpq"
-    },
-    {
-      "added_at": "2024-07-25 20:15:36",
-      "album": {
         "name": "De Puro Gusto! (18 A\u00f1os de Trayectoria)",
         "url": "https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 192989,
       "name": "Los Mayeles - Sones para Jaripeo",
       "url": "https://open.spotify.com/track/6wpAMs81FDzTKIbrFtQWEN"
+    },
+    {
+      "added_at": "2024-07-25 20:15:36",
+      "album": {
+        "name": "El Guapo",
+        "url": "https://open.spotify.com/album/1pSk7ehWJhdmJYaU8JobaP"
+      },
+      "artists": [
+        {
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+        }
+      ],
+      "duration_ms": 188696,
+      "name": "El Guapo",
+      "url": "https://open.spotify.com/track/51zDKkKUFMpKtT40t80lpq"
     },
     {
       "added_at": "2024-07-25 20:15:36",
@@ -1231,18 +1231,22 @@
     {
       "added_at": "2024-07-25 20:15:36",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj"
+        "name": "El Rezado (En Vivo)",
+        "url": "https://open.spotify.com/album/2InTHqP7dbNYWVy6RaGXES"
       },
       "artists": [
         {
-          "name": "Banda Zirahuen",
-          "url": "https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
         }
       ],
-      "duration_ms": 289691,
-      "name": "El Toro Pinto",
-      "url": "https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB"
+      "duration_ms": 261897,
+      "name": "El Rezado - En Vivo",
+      "url": "https://open.spotify.com/track/4oMcfG82bPjArsCUu7gLfW"
     },
     {
       "added_at": "2024-07-25 20:15:36",
@@ -1263,22 +1267,18 @@
     {
       "added_at": "2024-07-25 20:15:36",
       "album": {
-        "name": "El Rezado (En Vivo)",
-        "url": "https://open.spotify.com/album/2InTHqP7dbNYWVy6RaGXES"
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+          "name": "Banda Zirahuen",
+          "url": "https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7"
         }
       ],
-      "duration_ms": 261897,
-      "name": "El Rezado - En Vivo",
-      "url": "https://open.spotify.com/track/4oMcfG82bPjArsCUu7gLfW"
+      "duration_ms": 289691,
+      "name": "El Toro Pinto",
+      "url": "https://open.spotify.com/track/4Iehg5erUkn9UMvyc1N2fB"
     },
     {
       "added_at": "2024-07-25 20:15:36",
@@ -1311,6 +1311,22 @@
       "duration_ms": 180106,
       "name": "Prov\u00f3came",
       "url": "https://open.spotify.com/track/7EhjgNLMiTYCh6ClCy3RIT"
+    },
+    {
+      "added_at": "2024-07-25 20:15:36",
+      "album": {
+        "name": "Tumbando Ca\u00f1a",
+        "url": "https://open.spotify.com/album/7hX8dHQT6ArpmEKMwd0sSM"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 154853,
+      "name": "El Alacr\u00e1n",
+      "url": "https://open.spotify.com/track/11ZyiDSiT3aQCKE13adq2r"
     },
     {
       "added_at": "2024-07-25 20:15:36",
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2024-07-25 20:15:36",
       "album": {
-        "name": "Carnavaleando con la Tierra Mojada",
-        "url": "https://open.spotify.com/album/2zrLWXZeEcQhJUMVpjEvZx"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Mojada",
-          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
-        }
-      ],
-      "duration_ms": 224722,
-      "name": "Flor de Pi\u00f1a",
-      "url": "https://open.spotify.com/track/4Gi4t7VTmsarbId2oEYZkj"
-    },
-    {
-      "added_at": "2024-07-25 20:15:36",
-      "album": {
         "name": "Pa' Las De Vidrio \"En Vivo\"",
         "url": "https://open.spotify.com/album/1jjKI7TJ6tayi5eSX85xwe"
       },
@@ -1391,6 +1391,22 @@
       "duration_ms": 192773,
       "name": "La Gitanilla",
       "url": "https://open.spotify.com/track/0lWqEEFGfBgiiLJPqIArjE"
+    },
+    {
+      "added_at": "2024-07-25 20:15:36",
+      "album": {
+        "name": "Carnavaleando con la Tierra Mojada",
+        "url": "https://open.spotify.com/album/2zrLWXZeEcQhJUMVpjEvZx"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+        }
+      ],
+      "duration_ms": 224722,
+      "name": "Flor de Pi\u00f1a",
+      "url": "https://open.spotify.com/track/4Gi4t7VTmsarbId2oEYZkj"
     },
     {
       "added_at": "2024-07-25 20:15:36",
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2024-07-25 20:15:36",
       "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/7bvOvntSA0iqc0BmOy8wz2"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 153760,
-      "name": "El Sinaloense",
-      "url": "https://open.spotify.com/track/5V7C3cmkkcprkx01ZJXQRQ"
-    },
-    {
-      "added_at": "2024-07-25 20:15:36",
-      "album": {
         "name": "Grupo El Mexicano",
         "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
       },
@@ -1439,6 +1439,22 @@
       "duration_ms": 218267,
       "name": "Feliz, Feliz",
       "url": "https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV"
+    },
+    {
+      "added_at": "2024-07-25 20:15:36",
+      "album": {
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/7bvOvntSA0iqc0BmOy8wz2"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 153760,
+      "name": "El Sinaloense",
+      "url": "https://open.spotify.com/track/5V7C3cmkkcprkx01ZJXQRQ"
     },
     {
       "added_at": "2024-07-25 20:15:36",
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2024-07-25 20:15:36",
       "album": {
-        "name": "Tumbando Ca\u00f1a",
-        "url": "https://open.spotify.com/album/7hX8dHQT6ArpmEKMwd0sSM"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 154853,
-      "name": "El Alacr\u00e1n",
-      "url": "https://open.spotify.com/track/11ZyiDSiT3aQCKE13adq2r"
-    },
-    {
-      "added_at": "2024-07-25 20:15:36",
-      "album": {
         "name": "10 Pa' Huapanguear",
         "url": "https://open.spotify.com/album/1Ox5R02tG0QtL05vVa9yc9"
       },
@@ -1487,6 +1487,22 @@
       "duration_ms": 198687,
       "name": "La Guitarra de Lolo",
       "url": "https://open.spotify.com/track/13OHyNseYByEDHeRzO6sD2"
+    },
+    {
+      "added_at": "2024-07-25 20:15:36",
+      "album": {
+        "name": "La Estrella De Los Bailes",
+        "url": "https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 167544,
+      "name": "Eva Mar\u00eda",
+      "url": "https://open.spotify.com/track/0AhvaPKACJhgkir9aUfE2S"
     },
     {
       "added_at": "2024-07-25 20:15:36",
@@ -1535,22 +1551,6 @@
       "duration_ms": 216163,
       "name": "El Tecolotito",
       "url": "https://open.spotify.com/track/1iMcb6dkCoKbLIp9akziVk"
-    },
-    {
-      "added_at": "2024-07-25 20:15:36",
-      "album": {
-        "name": "La Estrella De Los Bailes",
-        "url": "https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 167544,
-      "name": "Eva Mar\u00eda",
-      "url": "https://open.spotify.com/track/0AhvaPKACJhgkir9aUfE2S"
     },
     {
       "added_at": "2024-07-25 20:15:36",

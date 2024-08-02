@@ -1,6 +1,6 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Un Verano",
-  "num_followers": 52936,
+  "num_followers": 52951,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,18 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Mordisco",
-        "url": "https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD"
+        "name": "Superpoder",
+        "url": "https://open.spotify.com/album/1NmYcgpj4L0xWLaoUd2phI"
       },
       "artists": [
         {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        },
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
         }
       ],
-      "duration_ms": 197000,
-      "name": "19 (feat. Gustavo Cerati)",
-      "url": "https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ"
+      "duration_ms": 177760,
+      "name": "Superpoder",
+      "url": "https://open.spotify.com/track/4RCcQeGtfdPQGxwvSdE1nV"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -543,18 +539,22 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Superpoder",
-        "url": "https://open.spotify.com/album/1NmYcgpj4L0xWLaoUd2phI"
+        "name": "Mordisco",
+        "url": "https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD"
       },
       "artists": [
         {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        },
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 177760,
-      "name": "Superpoder",
-      "url": "https://open.spotify.com/track/4RCcQeGtfdPQGxwvSdE1nV"
+      "duration_ms": 197000,
+      "name": "19 (feat. Gustavo Cerati)",
+      "url": "https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1119,38 +1119,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Pensando en Ti",
-        "url": "https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 173206,
-      "name": "Pensando en Ti",
-      "url": "https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
-        "name": "P\u00f3stumo",
-        "url": "https://open.spotify.com/album/3GyuGgiV1VhQpYmwaCtQWQ"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        }
-      ],
-      "duration_ms": 214004,
-      "name": "P\u00f3stumo",
-      "url": "https://open.spotify.com/track/17EDLQzOKhHbwxCZBE8W5w"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "EL PROCESO",
         "url": "https://open.spotify.com/album/0btfCnFxFTTJ9xgs6j4bLr"
       },
@@ -1167,6 +1135,22 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
+        "name": "Pensando en Ti",
+        "url": "https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 173206,
+      "name": "Pensando en Ti",
+      "url": "https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
         "name": "Me Diste la Espalda",
         "url": "https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 202492,
       "name": "Me Diste la Espalda",
       "url": "https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "P\u00f3stumo",
+        "url": "https://open.spotify.com/album/3GyuGgiV1VhQpYmwaCtQWQ"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "duration_ms": 214004,
+      "name": "P\u00f3stumo",
+      "url": "https://open.spotify.com/track/17EDLQzOKhHbwxCZBE8W5w"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Dame Chance (Rayuela)",
-        "url": "https://open.spotify.com/album/1hrrlLfySKB6NgmMTcIBhL"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 152560,
-      "name": "Dame Chance (Rayuela)",
-      "url": "https://open.spotify.com/track/2czAQ067Yr4PTyCA22I1Pe"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "Manantial",
         "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 207133,
       "name": "La Fuerza del Enga\u00f1o",
       "url": "https://open.spotify.com/track/2KrzUHEX4tL0zZOKHFQmqG"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "Dame Chance (Rayuela)",
+        "url": "https://open.spotify.com/album/1hrrlLfySKB6NgmMTcIBhL"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 152560,
+      "name": "Dame Chance (Rayuela)",
+      "url": "https://open.spotify.com/track/2czAQ067Yr4PTyCA22I1Pe"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
+        "name": "Octubre",
+        "url": "https://open.spotify.com/album/1vWfcvPOganIkpIhEK4AHP"
+      },
+      "artists": [
+        {
+          "name": "TULI",
+          "url": "https://open.spotify.com/artist/0ZONTh5kX91I8H6sa8QOlZ"
+        }
+      ],
+      "duration_ms": 144535,
+      "name": "Octubre",
+      "url": "https://open.spotify.com/track/1ZZ7l7oqFHzKMfIVfOr8WI"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
         "name": "Mi Primer D\u00eda Triste",
         "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
       },
@@ -1355,18 +1371,18 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Octubre",
-        "url": "https://open.spotify.com/album/1vWfcvPOganIkpIhEK4AHP"
+        "name": "Manantial",
+        "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
       },
       "artists": [
         {
-          "name": "TULI",
-          "url": "https://open.spotify.com/artist/0ZONTh5kX91I8H6sa8QOlZ"
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
         }
       ],
-      "duration_ms": 144535,
-      "name": "Octubre",
-      "url": "https://open.spotify.com/track/1ZZ7l7oqFHzKMfIVfOr8WI"
+      "duration_ms": 267960,
+      "name": "Coraz\u00f3n Salvaje",
+      "url": "https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Manantial",
-        "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
-      },
-      "artists": [
-        {
-          "name": "Marcela Morelo",
-          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
-        }
-      ],
-      "duration_ms": 267960,
-      "name": "Coraz\u00f3n Salvaje",
-      "url": "https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "Desde el Hurac\u00e1n",
         "url": "https://open.spotify.com/album/6qqF989mpKkNu6XkG73bg2"
       },
@@ -1419,26 +1419,6 @@
       "duration_ms": 144000,
       "name": "Hurac\u00e1n",
       "url": "https://open.spotify.com/track/4goMiemP1T7MguxhnRwj9z"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
-        "name": "Monoambiente en Capital",
-        "url": "https://open.spotify.com/album/1HjSFjgizVFIZ9c1aG9VC7"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        },
-        {
-          "name": "Nico Cotton",
-          "url": "https://open.spotify.com/artist/78hoprvwWi9cDX4KJvpECc"
-        }
-      ],
-      "duration_ms": 181087,
-      "name": "Monoambiente en Capital",
-      "url": "https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1479,6 +1459,26 @@
       "duration_ms": 212044,
       "name": "En tu casa o en la m\u00eda (feat. Conociendo Rusia)",
       "url": "https://open.spotify.com/track/6Y6dbhxP8gesJ5oTr7lBmi"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "VIVO",
+        "url": "https://open.spotify.com/album/772S7hHdD0VpV4n5aN77E2"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Rub\u00e9n Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+        }
+      ],
+      "duration_ms": 176520,
+      "name": "VIVO",
+      "url": "https://open.spotify.com/track/5FiLiXXCn6dd7tESjc8nTt"
     }
   ],
   "unique_name": "Esto es Pop",

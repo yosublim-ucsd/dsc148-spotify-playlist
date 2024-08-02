@@ -1789,6 +1789,36 @@
     },
     {
       "album": {
+        "name": "Flasche kreist",
+        "url": "https://open.spotify.com/album/5PLc0YExbacxW9NFEbvsL2"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        },
+        {
+          "name": "Zachi",
+          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153086,
+      "name": "Flasche kreist",
+      "url": "https://open.spotify.com/track/0N6OgNSefDTYZWqlzjVHrY"
+    },
+    {
+      "album": {
         "name": "Fluss",
         "url": "https://open.spotify.com/album/4TEfhnre2612yM3UCM93Bx"
       },
@@ -5464,7 +5494,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 167311,
       "name": "Verschwendete Zeit",
       "url": "https://open.spotify.com/track/4Ku2j0poFCLaSAEtncIeLi"

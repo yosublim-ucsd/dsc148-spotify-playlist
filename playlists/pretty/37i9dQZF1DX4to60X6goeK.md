@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Mozey
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,075 likes - 55 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,093 likes - 55 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 45 | [Rampage Anthem VIP](https://open.spotify.com/track/0m9BpxJvsHlPTyQta201uF) | [SASASAS](https://open.spotify.com/artist/7CKAyjXz7Z7se4oGh07mGe), [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [DJ Phantasy](https://open.spotify.com/artist/4yavtFwoJqzLN6uZvbU1Ai), [MC Shabba D](https://open.spotify.com/artist/3mNLI3NXEFH2CoYFDRN2vr), [Stormin MC](https://open.spotify.com/artist/0qaij0H7kB9o3YtANjvkiM), [MC Skibadee](https://open.spotify.com/artist/22VzVYdRYWrUqjbUD28huU), [Harry Shotta](https://open.spotify.com/artist/1KDOjuXZPd8XA3YBakakMb) | [Rampage Anthem VIP](https://open.spotify.com/album/69szID4oSWL2iSddE56ryG) | 3:46 |
 | 46 | [Nightmares](https://open.spotify.com/track/6mzDDGA0c1eNIFRqMt6kB1) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Nightmares](https://open.spotify.com/album/2lQ23jZfDgcb2s4v47W1NK) | 3:01 |
 | 47 | [Confliction](https://open.spotify.com/track/1ExW4pjV1zROf5QveEk64S) | [CrossBreed](https://open.spotify.com/artist/3ifKKKcUBOYQ64Un0bpjQL), [MTD](https://open.spotify.com/artist/0DSkqLja3BBRvuoK0WcBDo), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z) | [Confliction](https://open.spotify.com/album/1WS53YDSSfOFyJPUQ1SR1E) | 3:20 |
-| 48 | [Crunchy Nutter](https://open.spotify.com/track/0G9V10A931yQ6KU36SsQZw) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz) | [Crunchy Nutter](https://open.spotify.com/album/1WlUE6Kq9JTU4bAlYq87YA) | 3:24 |
+| 48 | [Take You Higher](https://open.spotify.com/track/2T3fASr8VAc8sCs9A31VUz) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Take You Higher](https://open.spotify.com/album/50rZcGSInCDVzBai5jQuo7) | 3:24 |
 | 49 | [Break It Down](https://open.spotify.com/track/5pg0g6o6ePcRHiQOxgzDMd) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Break It Down](https://open.spotify.com/album/3Wexk9iIasCfB4h57xcFzw) | 3:23 |
 | 50 | [Skillz](https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [MC Spyda](https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [Skillz](https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf) | 3:24 |
-| 51 | [Take You Higher](https://open.spotify.com/track/2T3fASr8VAc8sCs9A31VUz) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Take You Higher](https://open.spotify.com/album/50rZcGSInCDVzBai5jQuo7) | 3:24 |
+| 51 | [Lightspeed](https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Back To Normal](https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9) | 4:28 |
 | 52 | [OH SHIT](https://open.spotify.com/track/60IGX6fpv4uZZDcTuJm0IS) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Dreps](https://open.spotify.com/artist/0hBSt9EaV3JxjI2mjF0Nd2) | [OH SHIT](https://open.spotify.com/album/1lqPqWbQGmlyRffoU1twrv) | 2:13 |
 | 53 | [Wild \- Disrupta Remix](https://open.spotify.com/track/1siHenGtsl36Q6vs7c20O9) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Wild \(Disrupta Remix\)](https://open.spotify.com/album/27xGHAAYqDjQM04UIFVT8W) | 3:06 |
-| 54 | [Lightspeed](https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Back To Normal](https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9) | 4:28 |
+| 54 | [Crunchy Nutter](https://open.spotify.com/track/0G9V10A931yQ6KU36SsQZw) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz) | [Crunchy Nutter](https://open.spotify.com/album/1WlUE6Kq9JTU4bAlYq87YA) | 3:24 |
 | 55 | [Forever Changes](https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Forever Changes](https://open.spotify.com/album/4rSSLeJIKgTj7nymJ5Xgs6) | 3:04 |
 
 Snapshot ID: `ZqKlxgAAAADMGLC2DU9cNWAmM1sn9PWQ`

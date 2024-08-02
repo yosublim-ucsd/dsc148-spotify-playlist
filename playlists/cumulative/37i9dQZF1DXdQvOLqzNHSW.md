@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-747 songs - 1 day 20 hr 55 min
+748 songs - 1 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [I Feel Best When I'm Alone](https://open.spotify.com/track/3OYejGbGSMijzWFTdCd8sy) | [Michael Seyer](https://open.spotify.com/artist/7K4cef9h3NvU7Xb3BH7Ade) | [Bad Bonez](https://open.spotify.com/album/5p3gsTRh2rd4cZfNjyVgln) | 3:10 | 2020-12-21 | 2022-04-17 |
 | [i feel like chet](https://open.spotify.com/track/00qHRkAlOCsjbs8N4hBUH5) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [i feel like chet](https://open.spotify.com/album/29zIPO1LeQbnyVJ4vvE6Qh) | 3:03 | 2020-12-21 | 2022-04-18 |
 | [I Feel You](https://open.spotify.com/track/0Csdi7iivwev8WSaBsum0r) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Stay Proud of Me](https://open.spotify.com/album/1aGsUoZnjToggqsjIK84nc) | 3:35 | 2023-10-17 | 2024-04-19 |
+| [I Just Can't Be Alone \(with Billy Lemos\)](https://open.spotify.com/track/6famAoizbKfoETPU9Jobz0) | [Lexa Gates](https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [I Just Can't Be Alone \(with Billy Lemos\)](https://open.spotify.com/album/5jbJnR4vpr3dwSSByGyPq6) | 2:40 | 2024-08-01 |  |
 | [I Know \(feat\. Fiona Apple\) \- RISE Recording](https://open.spotify.com/track/3SO5iPrvbgXz2XUwjOExDs) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [I Know \(feat\. Fiona Apple\) \[RISE Recording\]](https://open.spotify.com/album/476o5Va5ObJpc2u0Jwn19z) | 4:59 | 2020-12-21 | 2022-04-20 |
 | [i know why you stay out](https://open.spotify.com/track/2xYzZbcky4jNfiH5A9eX7n) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [i know why you stay out](https://open.spotify.com/album/2X7m57LD0vjPSIrJx22HfZ) | 2:57 | 2021-06-25 | 2023-11-18 |
 | [I Love You, Cookie](https://open.spotify.com/track/2yYcsHthLf7mgQWXrJ9Xas) | [Whoarei](https://open.spotify.com/artist/4GgjFtEaMvNZ4TOE3iD0Pu) | [Love Spectrum](https://open.spotify.com/album/41Gl21wIOxKNNflUYg7zuE) | 3:33 | 2023-08-18 | 2023-11-18 |
@@ -585,7 +586,7 @@
 | [She's Just the Type of Girl](https://open.spotify.com/track/79ri2kyVbP57qMLfNDHI3S) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [It's All a Bit Fuzzy](https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL) | 2:41 | 2023-11-21 | 2023-12-30 |
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2022-10-28 | 2022-12-01 |
 | [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg) | 3:35 | 2020-12-21 | 2022-07-13 |
-| [Show Me How \- Live at RBC Echo Beach](https://open.spotify.com/track/546DYMoIeq9bpz2ZQdDB6a) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Live at RBC Echo Beach](https://open.spotify.com/album/5r70krK838xAiHP8t0algB) | 3:33 | 2023-10-17 |  |
+| [Show Me How \- Live at RBC Echo Beach](https://open.spotify.com/track/546DYMoIeq9bpz2ZQdDB6a) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Live at RBC Echo Beach](https://open.spotify.com/album/5r70krK838xAiHP8t0algB) | 3:33 | 2023-10-17 | 2024-08-02 |
 | [Silent Moon](https://open.spotify.com/track/5KJFcDDzmaf1xlaOkzcmWj) | [North Downs](https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1) | [Dad's Old Tapes](https://open.spotify.com/album/4qrjeTgHr22oG9piwLhsxA) | 4:13 | 2023-10-17 | 2023-11-18 |
 | [Sink In](https://open.spotify.com/track/15PpjH9dNPSZrEaAw2M3Np) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Sink In](https://open.spotify.com/album/4B96zJ2Iam0bCgntIJEO6E) | 3:57 | 2021-06-25 | 2022-04-26 |
 | [Skin and Bones](https://open.spotify.com/track/3aL5ZnB59jfM9Y3XJSICAu) | [oh caroline](https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW) | [Skin and Bones](https://open.spotify.com/album/2Ka1MPym74RaVFNrH9QK3n) | 3:23 | 2023-12-27 | 2024-03-21 |

@@ -2,7 +2,7 @@
 
 ### [I Love My '90s R&B](https://open.spotify.com/playlist/37i9dQZF1DX6VDO8a6cQME)
 
-> Celebrating 25 years of "The Writings on the Wall"\. Cover: Destiny's Child
+> The most essential R&B songs from the '90s\. Cover: Destiny's Child
 
 142 songs - 10 hr 48 min
 

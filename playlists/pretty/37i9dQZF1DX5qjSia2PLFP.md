@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\. Cover: <a href="spotify:artist:4EnRRIOfqBmNcsTj4tReXq">Nippa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,820 likes - 65 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,930 likes - 65 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

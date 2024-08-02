@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : USKY",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : J9ueve",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -4096,7 +4096,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 134795,
       "name": "LE WORLD",
       "url": "https://open.spotify.com/track/4hoqAQEZWXXGoBnuBfRA1y"
@@ -5046,6 +5046,24 @@
       "duration_ms": 185106,
       "name": "New Flow",
       "url": "https://open.spotify.com/track/7wcvpuqOwffUGKXydc5Ngn"
+    },
+    {
+      "album": {
+        "name": "LOVSZN",
+        "url": "https://open.spotify.com/album/2zDLK9ayoDd2pjxkmkAAqO"
+      },
+      "artists": [
+        {
+          "name": "BKRBABYBOY",
+          "url": "https://open.spotify.com/artist/4n9KyoZUUZgkQAoVxSOgZZ"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109744,
+      "name": "NEWBARBIE",
+      "url": "https://open.spotify.com/track/18l3X0jdPEODoFezifcXB6"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: MILLY
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,657 likes - 115 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,719 likes - 115 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

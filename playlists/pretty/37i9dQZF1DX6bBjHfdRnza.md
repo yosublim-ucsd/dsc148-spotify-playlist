@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: davey\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,851 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,895 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [2 Chant](https://open.spotify.com/track/6Q2Uo9k489aSA83ZFrhSlZ) | [davey](https://open.spotify.com/artist/7D84vm1nZXH6drPV8L9e6D) | [2 Chant](https://open.spotify.com/album/1b9SN3tFXHYmNVw5czsegw) | 4:52 |
-| 2 | [Smile](https://open.spotify.com/track/680iLPZk4KQNnTeHDPbGDW) | [Atelier](https://open.spotify.com/artist/6OdAP3bmab4X74sypKMOtu) | [Smile](https://open.spotify.com/album/5eM2N950CGsqOM20ccLDYs) | 2:47 |
+| 2 | [Come To My House](https://open.spotify.com/track/7aTYdP588hjgw1s0VBDkfB) | [Lucy Tun](https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6) | [Come To My House](https://open.spotify.com/album/683Ze2XpLW2ohwPWpSKzq4) | 3:20 |
 | 3 | [LET THE MUSIC PLAY](https://open.spotify.com/track/5Www92j9UCkB0NZJTWnvcg) | [AUGIS](https://open.spotify.com/artist/2UlsuMqDGywuSw0FT1rfbb), [Club Azur](https://open.spotify.com/artist/7HjhcFRLzzNysy05pyufdh) | [LET THE MUSIC PLAY](https://open.spotify.com/album/2NiQ2hHA5xPLjvbG4wcpqp) | 2:57 |
-| 4 | [Come To My House](https://open.spotify.com/track/7aTYdP588hjgw1s0VBDkfB) | [Lucy Tun](https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6) | [Come To My House](https://open.spotify.com/album/683Ze2XpLW2ohwPWpSKzq4) | 3:20 |
+| 4 | [Smile](https://open.spotify.com/track/680iLPZk4KQNnTeHDPbGDW) | [Atelier](https://open.spotify.com/artist/6OdAP3bmab4X74sypKMOtu) | [Smile](https://open.spotify.com/album/5eM2N950CGsqOM20ccLDYs) | 2:47 |
 | 5 | [Snog](https://open.spotify.com/track/3HM98iPblYJraH2pQIwlti) | [Alex Bone](https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ) | [Snog](https://open.spotify.com/album/0yszMLZhCjPj39V54464kX) | 3:27 |
 | 6 | [VHS \(feat\. Saïna\)](https://open.spotify.com/track/4phwdhd2Xk2htc45eoRYFG) | [Luis V](https://open.spotify.com/artist/12Y3P0t9K2ShPGHHJbZduX), [Saïna](https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9) | [ALWAYS](https://open.spotify.com/album/6kUOenj0BpAgvKP3Vk0WPi) | 2:44 |
 | 7 | [I Wanna Be](https://open.spotify.com/track/0ZZTW26SgUCu25AU5l5UDy) | [Ben Gerrans](https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z) | [I Wanna Be](https://open.spotify.com/album/5I7LyERZamTJGWF2HDycLU) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Cigarette](https://open.spotify.com/track/5xiiqiCNaFVAged8VtyEnM) | [Lucky Yu](https://open.spotify.com/artist/7EVJloAqLSz0LiDi3308dL) | [Cigarette](https://open.spotify.com/album/6JJUx5ImjU5D10N4mpLs7f) | 3:30 |
 | 100 | [Better](https://open.spotify.com/track/5cBl0sH659FIDNoAY7BDe7) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J) | [Better](https://open.spotify.com/album/6vYmmB9HVm8dYgHePsit3J) | 2:32 |
 
-Snapshot ID: `ZqpzDQAAAADoPndbidpGWVaausrtxtOT`
+Snapshot ID: `ZqurigAAAADM2iSP/7AkfNDmRMs+GSdT`

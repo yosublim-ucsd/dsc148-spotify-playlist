@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Kanguva
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,718 likes - 78 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,820 likes - 78 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 23 | [Vetti Payan](https://open.spotify.com/track/40nKJUkGAHejPR7d7PWvRX) | [A H Kaashif](https://open.spotify.com/artist/3QouDKKier0OwfJnSOvvEI), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Nanban Oruvan Vantha Piragu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7zLKL1jEoboxTQ1KS0t4Ln) | 2:58 |
 | 24 | [Paaraa \(From "Indian 2"\)](https://open.spotify.com/track/4Tt5XWEl7kUawvupLCdzxh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shruthika Samudhrala](https://open.spotify.com/artist/6tV6eU1gwsruSzN4PyDJWe) | [Paaraa \(From "Indian 2"\)](https://open.spotify.com/album/1KNEpdLEp4B3G3iFV7lb3G) | 4:12 |
 | 25 | [Kya Lafda \(From "Double ISMART"\)\(Tamil\)](https://open.spotify.com/track/1SDfOBqjcOPW2VO2AwP2YA) | [Sharath matthew](https://open.spotify.com/artist/1YEQrvCa6qroXZxbrcCCun), [Ramya R](https://open.spotify.com/artist/5Xey3o856MymU8a65ZLMmW) | [Kya Lafda \(From "Double ISMART"\)\(Tamil\)](https://open.spotify.com/album/3p8yjE7rJq1fVH2HkSCgyw) | 4:31 |
-| 26 | [Odatha da Odatha da](https://open.spotify.com/track/4dL7BMUglQX5nxRomOMnEj) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj) | [Raayan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6cqYgHZhpSKKb7xUuxJCAr) | 2:45 |
+| 26 | [Odatha da Odatha da](https://open.spotify.com/track/4dL7BMUglQX5nxRomOMnEj) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj) | [Raayan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6cqYgHZhpSKKb7xUuxJCAr) | 2:45 |
 | 27 | [Sagala Ragala](https://open.spotify.com/track/0FaSbPzAUYCWOTxs080S2Q) | [A H Kaashif](https://open.spotify.com/artist/3QouDKKier0OwfJnSOvvEI), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm), [Ananth](https://open.spotify.com/artist/5WzJx3oseFVOwbWespfqIk) | [Nanban Oruvan Vantha Piragu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7zLKL1jEoboxTQ1KS0t4Ln) | 2:13 |
 | 28 | [Aana Oona](https://open.spotify.com/track/0qSZvRY0U0otd8DxDYCK9y) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Mervin Solomon](https://open.spotify.com/artist/5UMXQPeU8ojXiH8f7IfpXv), [Vivek Siva](https://open.spotify.com/artist/7B0eBcEyMXoyqBrVyj7gFD) | [Aana Oona](https://open.spotify.com/album/06dkpLaXkZWHECW87fGRPX) | 3:04 |
 | 29 | [Thakida Thadhimi \(From "Boat"\)](https://open.spotify.com/track/050r3774kILHWO4GYsB0Ab) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Gold Devaraj](https://open.spotify.com/artist/2Daf4nkCTn4wwE3ckhBVRn), [Deva](https://open.spotify.com/artist/3uVi0q6DLwjjLZTzs51zO1) | [Thakida Thadhimi \(From "Boat"\)](https://open.spotify.com/album/7Ex9DuMwrHhyq64974ajMj) | 2:40 |

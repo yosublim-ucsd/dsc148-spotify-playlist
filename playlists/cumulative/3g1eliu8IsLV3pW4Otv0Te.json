@@ -2599,6 +2599,24 @@
     },
     {
       "album": {
+        "name": "Nuit Noir (Dark Night)",
+        "url": "https://open.spotify.com/album/42jfGxEWZ3Ll0CizCzqXl4"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190099,
+      "name": "Nuit Noir (Dark Night)",
+      "url": "https://open.spotify.com/track/32CgpBzBs87B4FWxVgs2HG"
+    },
+    {
+      "album": {
         "name": "Watching Movies with the Sound Off (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3T02fCxAjApu18taJLLbyN"
       },

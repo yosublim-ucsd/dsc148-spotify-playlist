@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > De mooiste en nieuwste liedjes van het moment\. Cover: Chris Stapleton & Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,078 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,010 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,21 +52,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 42 | [Beggin’](https://open.spotify.com/track/6N5dl7B1c2KoJ6sH0Izfcm) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Beggin'](https://open.spotify.com/album/4v71xfoYyaHaWuXfx9JHk8) | 3:12 |
 | 43 | [Wander](https://open.spotify.com/track/47QkzgDqknSbkYDNNGGAFa) | [Daan Jorissen](https://open.spotify.com/artist/5Y49JpTwL7HZisqefxSpL4) | [Wander](https://open.spotify.com/album/5SWv9Ao3fY2981wi3mCInR) | 3:00 |
 | 44 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 |
-| 45 | [Healing \(Shattered Heart\)](https://open.spotify.com/track/5upoXNxaUFybIF8XfRAaDp) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [KYGO](https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q) | 2:42 |
-| 46 | [What If I Want You Now](https://open.spotify.com/track/6yYFUkI1RitIRxGlXadb4d) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [What If I Want You Now](https://open.spotify.com/album/43fvwvfFC0F8XVLhzeXKaq) | 3:10 |
-| 47 | [Girl](https://open.spotify.com/track/3ayq1aFbXb5kmQrBGLOmjG) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Girl](https://open.spotify.com/album/6YwzYbCe05hqVAI6KrX1c1) | 3:12 |
-| 48 | [Pour Me A Drink \(Feat\. Blake Shelton\)](https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Pour Me A Drink](https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz) | 3:15 |
+| 45 | [Darkest of Days](https://open.spotify.com/track/1x6Kp3RGibcdgl6uYTzqwM) | [Slow Pilot](https://open.spotify.com/artist/4MPMLOWHQQwcfg3CNE4fya) | [Darkest of Days](https://open.spotify.com/album/2fTBLk3ckC1fcjegqxPq84) | 3:41 |
+| 46 | [Healing \(Shattered Heart\)](https://open.spotify.com/track/5upoXNxaUFybIF8XfRAaDp) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [KYGO](https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q) | 2:42 |
+| 47 | [What If I Want You Now](https://open.spotify.com/track/6yYFUkI1RitIRxGlXadb4d) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [What If I Want You Now](https://open.spotify.com/album/43fvwvfFC0F8XVLhzeXKaq) | 3:10 |
+| 48 | [Girl](https://open.spotify.com/track/3ayq1aFbXb5kmQrBGLOmjG) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Girl](https://open.spotify.com/album/6YwzYbCe05hqVAI6KrX1c1) | 3:12 |
 | 49 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 |
 | 50 | [How to Say I Love You](https://open.spotify.com/track/3zU0TFR29rZGoJIkaoRS84) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [How to Say I Love You](https://open.spotify.com/album/3xPPfPfqh4gTeQJCxWeK7s) | 3:26 |
 | 51 | [Pretender](https://open.spotify.com/track/23qOFgEan1r0oiAxis6U5K) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Pretender](https://open.spotify.com/album/2fknzhgnc8H82XbX31eE6U) | 2:55 |
 | 52 | [Never Fall In Love](https://open.spotify.com/track/0FZ53KOISmgNtbV9EjSQdx) | [Lenny Monsou](https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3) | [Never Fall In Love](https://open.spotify.com/album/4rNcAU0WclKzznndH4G7Fh) | 2:31 |
 | 53 | [Starlight](https://open.spotify.com/track/0gjg8NLYcdx5iSFE8HOgcR) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0) | [Starlight](https://open.spotify.com/album/4XBfn00cMvek6wfgMYfHbI) | 2:57 |
 | 54 | [How Many Nights](https://open.spotify.com/track/565PkWWdrqFITixrqoNSRi) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:20 |
-| 55 | [Come Off The Phone](https://open.spotify.com/track/1kXfXipeIPjBXPECRUv9aR) | [Dockyard](https://open.spotify.com/artist/0mFNllHmak4X2tYlntGhcZ) | [Come Off The Phone](https://open.spotify.com/album/1uxkh67xEz7IMmfTx5RiGe) | 3:25 |
-| 56 | [This Is My Time](https://open.spotify.com/track/6pIGY3LzqTlx7qAveBuDnj) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Music For Máxima](https://open.spotify.com/album/4vMDbU5x6H7xl2oEWkPqlN) | 2:35 |
+| 55 | [Pour Me A Drink \(Feat\. Blake Shelton\)](https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Pour Me A Drink](https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz) | 3:15 |
+| 56 | [Come Off The Phone](https://open.spotify.com/track/1kXfXipeIPjBXPECRUv9aR) | [Dockyard](https://open.spotify.com/artist/0mFNllHmak4X2tYlntGhcZ) | [Come Off The Phone](https://open.spotify.com/album/1uxkh67xEz7IMmfTx5RiGe) | 3:25 |
 | 57 | [OKAY](https://open.spotify.com/track/6TR5u5u7ZynQwdrnlE0QHq) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [OKAY](https://open.spotify.com/album/493kf8veQgFOYoI2w6MrUQ) | 2:50 |
 | 58 | [Smoke On the Highway](https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 4:13 |
 | 59 | [Still Love](https://open.spotify.com/track/3VN2hCxJRJEVjWwAMd10sL) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk) | [Still Love](https://open.spotify.com/album/7i076sfhcW2scS62C8bHQQ) | 2:57 |
 | 60 | [Lari](https://open.spotify.com/track/6Xq83QyKrdGOJEXBt1pQ7T) | [Komodo](https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU) | [Lari](https://open.spotify.com/album/7xAFH0K3NpmDSa1F5uKyXJ) | 3:29 |
 
-Snapshot ID: `Zqnt1QAAAAAs2tA5i4e7AbklfEB5MXiG`
+Snapshot ID: `ZquBygAAAACkL8u1iiHWdEOSw62i4gt6`

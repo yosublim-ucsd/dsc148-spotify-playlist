@@ -1,49 +1,13 @@
 {
   "description": "Los \u00e9xitos del Dembow. Portada: Lomiiel",
-  "num_followers": 515877,
+  "num_followers": 516478,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqKWngAAAAB6Aj1maCCy/FHwSz9j4NrI",
+  "snapshot_id": "ZqsFFAAAAACK/VRgNpOh4n5f3VKASXhd",
   "tracks": [
-    {
-      "added_at": "2024-07-15 23:17:59",
-      "album": {
-        "name": "HAY LUPITA",
-        "url": "https://open.spotify.com/album/1gGvVUNqBHKn1ct3FX5EVM"
-      },
-      "artists": [
-        {
-          "name": "Lomiiel",
-          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
-        }
-      ],
-      "duration_ms": 105836,
-      "name": "HAY LUPITA",
-      "url": "https://open.spotify.com/track/1ciCd4tjOBZMu3CcXkOAed"
-    },
-    {
-      "added_at": "2024-07-15 23:17:59",
-      "album": {
-        "name": "Tuwi Tuwi",
-        "url": "https://open.spotify.com/album/2TLl92KX0u6TNGtcMGD4EY"
-      },
-      "artists": [
-        {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        },
-        {
-          "name": "Donaty",
-          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
-        }
-      ],
-      "duration_ms": 135230,
-      "name": "Tuwi Tuwi",
-      "url": "https://open.spotify.com/track/4JfRDEkkMYiLp76wepG9Vw"
-    },
     {
       "added_at": "2024-07-25 18:17:02",
       "album": {
@@ -95,6 +59,62 @@
     {
       "added_at": "2024-07-15 23:17:59",
       "album": {
+        "name": "Onana",
+        "url": "https://open.spotify.com/album/77fNQQR6ppjbsF30EUFEHP"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "Onana",
+      "url": "https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw"
+    },
+    {
+      "added_at": "2024-07-15 23:17:59",
+      "album": {
+        "name": "Tuwi Tuwi",
+        "url": "https://open.spotify.com/album/2TLl92KX0u6TNGtcMGD4EY"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        },
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        }
+      ],
+      "duration_ms": 135230,
+      "name": "Tuwi Tuwi",
+      "url": "https://open.spotify.com/track/4JfRDEkkMYiLp76wepG9Vw"
+    },
+    {
+      "added_at": "2024-08-01 03:46:28",
+      "album": {
+        "name": "Palo Ajeno",
+        "url": "https://open.spotify.com/album/0KiKssxo1vKYwXiw5Al3uW"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "Mestizo Is Back",
+          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Palo Ajeno",
+      "url": "https://open.spotify.com/track/0ABRPWTI7U9Knhmc0pQJuI"
+    },
+    {
+      "added_at": "2024-07-15 23:17:59",
+      "album": {
         "name": "Sobalo",
         "url": "https://open.spotify.com/album/0sYHt3V97mmiP8ad0DqEmm"
       },
@@ -115,6 +135,22 @@
       "duration_ms": 116683,
       "name": "Sobalo",
       "url": "https://open.spotify.com/track/5Zy0g1WbeA3JM3INpYWoyN"
+    },
+    {
+      "added_at": "2024-07-15 23:17:59",
+      "album": {
+        "name": "HAY LUPITA",
+        "url": "https://open.spotify.com/album/1gGvVUNqBHKn1ct3FX5EVM"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "duration_ms": 105836,
+      "name": "HAY LUPITA",
+      "url": "https://open.spotify.com/track/1ciCd4tjOBZMu3CcXkOAed"
     },
     {
       "added_at": "2024-07-15 23:17:59",
@@ -155,22 +191,6 @@
     {
       "added_at": "2024-07-15 23:17:59",
       "album": {
-        "name": "Onana",
-        "url": "https://open.spotify.com/album/77fNQQR6ppjbsF30EUFEHP"
-      },
-      "artists": [
-        {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "Onana",
-      "url": "https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw"
-    },
-    {
-      "added_at": "2024-07-15 23:17:59",
-      "album": {
         "name": "Frename En El Party Sin Panty",
         "url": "https://open.spotify.com/album/4CwK9U1R8rBwNPavmuzbLY"
       },
@@ -183,26 +203,6 @@
       "duration_ms": 112682,
       "name": "Frename En El Party Sin Panty",
       "url": "https://open.spotify.com/track/3h4brm7AUNiZZ7wboMkWni"
-    },
-    {
-      "added_at": "2024-07-15 23:17:59",
-      "album": {
-        "name": "SATA 42",
-        "url": "https://open.spotify.com/album/4k9YQ4z1BXtSB1XxN9oGDY"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Lomiiel",
-          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
-        }
-      ],
-      "duration_ms": 125806,
-      "name": "CHUPA CO\u00d1O",
-      "url": "https://open.spotify.com/track/3e0e2wQgq06Ht7Y1po72uQ"
     },
     {
       "added_at": "2024-07-15 23:17:59",

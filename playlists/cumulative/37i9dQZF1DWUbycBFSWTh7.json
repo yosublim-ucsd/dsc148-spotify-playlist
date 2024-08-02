@@ -609,6 +609,32 @@
     },
     {
       "album": {
+        "name": "Bounce To The Beat (2024 Remixes)",
+        "url": "https://open.spotify.com/album/1r1jFmVg3I1HkxKiOe4C0o"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Sound Design",
+          "url": "https://open.spotify.com/artist/5vcGzbf0bkGkhGhI1E72WU"
+        },
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377213,
+      "name": "Bounce To The Beat - Chris Stussy Remix",
+      "url": "https://open.spotify.com/track/1ywAcqI75zfibaKcmlt6mV"
+    },
+    {
+      "album": {
         "name": "Break The Needle",
         "url": "https://open.spotify.com/album/5O4jYlIffre77Og0RhIOzk"
       },
@@ -2170,7 +2196,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 473566,
       "name": "Gimme Some More - KenLou Mix",
       "url": "https://open.spotify.com/track/6FOgIG8NSXCe0GyZUXD9CJ"
@@ -2206,7 +2232,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 265346,
       "name": "Good to You",
       "url": "https://open.spotify.com/track/0zuBTTsaoYyYmNhuiVsgSO"
@@ -2684,6 +2710,24 @@
       "duration_ms": 496020,
       "name": "I Promise",
       "url": "https://open.spotify.com/track/1wS9h2lHLwGwQU82aYHHdf"
+    },
+    {
+      "album": {
+        "name": "Treat You Right EP",
+        "url": "https://open.spotify.com/album/1wwzsRk2UN3nErksPX440n"
+      },
+      "artists": [
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213307,
+      "name": "Impressions",
+      "url": "https://open.spotify.com/track/4FuHaBjsIZ7zYWGQdy9ruS"
     },
     {
       "album": {

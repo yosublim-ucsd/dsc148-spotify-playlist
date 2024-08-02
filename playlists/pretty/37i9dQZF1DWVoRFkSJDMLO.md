@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums..\. welcome to the function\. Cover: SPINALL, Omah Lay, Tyla 🇳🇬 🇳🇬 🇿🇦
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,740 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,755 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

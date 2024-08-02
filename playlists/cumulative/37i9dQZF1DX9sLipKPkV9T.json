@@ -125,6 +125,48 @@
     },
     {
       "album": {
+        "name": "Iron Lion Zion",
+        "url": "https://open.spotify.com/album/4CdjTaYdvWsAgkvo7ixPu4"
+      },
+      "artists": [
+        {
+          "name": "Lion in Zion",
+          "url": "https://open.spotify.com/artist/0m8yx6cyjVL0U9dS8XxKkd"
+        },
+        {
+          "name": "Montana Tucker",
+          "url": "https://open.spotify.com/artist/1JoFybEqNl2AqFWbhSy5gQ"
+        },
+        {
+          "name": "Sarai Givaty",
+          "url": "https://open.spotify.com/artist/5U11HpBwUI2obAmeIVkOr0"
+        },
+        {
+          "name": "Avraham Tal",
+          "url": "https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd"
+        },
+        {
+          "name": "Avi Aburomi",
+          "url": "https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr"
+        },
+        {
+          "name": "Ester Rada",
+          "url": "https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g"
+        },
+        {
+          "name": "Moshe Reuven",
+          "url": "https://open.spotify.com/artist/1qJlHo34rHLy2B4xfNo3Qn"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Iron Lion Zion",
+      "url": "https://open.spotify.com/track/0ZwJlSQ41Pys44mY6F5MVD"
+    },
+    {
+      "album": {
         "name": "Mon Amour (Cover)",
         "url": "https://open.spotify.com/album/111m5PY3IQd6FJb91WVkQ0"
       },
@@ -198,7 +240,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 228043,
       "name": "\u05d0\u05d7\u05d9\u05dd",
       "url": "https://open.spotify.com/track/55C6c8MWZOh0hujJdokKDX"
@@ -372,6 +414,24 @@
       "duration_ms": 144000,
       "name": "\u05d1\u05d0\u05da",
       "url": "https://open.spotify.com/track/6hejRIYDdXDSn3LK2V16xf"
+    },
+    {
+      "album": {
+        "name": "\u05d0\u05e3 \u05e4\u05e2\u05dd \u05dc\u05d0 \u05d4\u05d9\u05d9\u05ea\u05d9 \u05d1\u05e8\u05d1\u05d9",
+        "url": "https://open.spotify.com/album/3w7XxlwXhsDmZswDLX54sf"
+      },
+      "artists": [
+        {
+          "name": "\u05e9\u05d9\u05e8\u05d4 \u05d6\u05dc\u05d5\u05e3",
+          "url": "https://open.spotify.com/artist/6uPXjLmLtFf4cE35saHiSp"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194800,
+      "name": "\u05d1\u05d0\u05e1\u05d4",
+      "url": "https://open.spotify.com/track/44lS9cDoF392DsYu4RyXIo"
     },
     {
       "album": {
@@ -762,7 +822,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 240631,
       "name": "\u05d5\u05e0\u05d0\u05d4\u05d1",
       "url": "https://open.spotify.com/track/1GmLUf2dEXKUA1PBjIeqjX"
@@ -1288,7 +1348,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 176747,
       "name": "\u05de\u05e7\u05d5\u05dd \u05d1\u05d7\u05d9\u05d9\u05da",
       "url": "https://open.spotify.com/track/3odiIlhzbc43pFUiUXQSwH"
@@ -1554,6 +1614,24 @@
       "duration_ms": 297983,
       "name": "\u05e6\u05e8\u05d9\u05da \u05d0\u05d5\u05ea\u05da",
       "url": "https://open.spotify.com/track/4QDPzbvvoLr5EhsRO0n4KX"
+    },
+    {
+      "album": {
+        "name": "\u05e7\u05d5\u05de\u05d4 34",
+        "url": "https://open.spotify.com/album/24ePr0zzmUxutpvRnjXEmJ"
+      },
+      "artists": [
+        {
+          "name": "Yam Refaeli",
+          "url": "https://open.spotify.com/artist/0VWxCUPjwYC1haUA2kCrp6"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113137,
+      "name": "\u05e7\u05d5\u05de\u05d4 34",
+      "url": "https://open.spotify.com/track/7iEh0pSRgmMElOHjUeICUg"
     },
     {
       "album": {

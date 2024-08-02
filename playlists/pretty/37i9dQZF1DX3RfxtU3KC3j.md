@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. Kapak: Yedinci Ev
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,229 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,213 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,19 +14,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 4 | [İleri](https://open.spotify.com/track/1dsVlDr3aHdYYsH3XWBOIp) | [Yaşlı Amca](https://open.spotify.com/artist/4Vr0nv4nM4aqWfj76zDTTp) | [İleri](https://open.spotify.com/album/7mlUMr8dKwPr6PzCuBvDpA) | 2:56 |
 | 5 | [Yavaştan Kaçıyorum](https://open.spotify.com/track/6YhnSffFj5HOn7c0HulyyM) | [Yedinci Ev](https://open.spotify.com/artist/40ic8Y3x4vmLUGXXpk7bVq) | [Ufaktan Uzuyorum](https://open.spotify.com/album/24CCQqtyaLCFhHBbkUTUXl) | 3:09 |
 | 6 | [AŞKIN YETER](https://open.spotify.com/track/4YDkwxF2dhSsHoYpJkBJop) | [Athena](https://open.spotify.com/artist/1Hy8tdpH9ygqoohumHZqVl) | [AŞKIN YETER](https://open.spotify.com/album/4Z8B3sKhmd0MLHMzejsUIJ) | 4:02 |
-| 7 | [Ölene Dek](https://open.spotify.com/track/4ZH7g8nCA3m2EHNZ4ATLtv) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl), [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Ölene Dek](https://open.spotify.com/album/0b9tU1DOxAmZa1CA4rFm71) | 3:01 |
-| 8 | [Sevme](https://open.spotify.com/track/4oGecQuYpeIQH7cOGRURkG) | [Ufuk Beydemir](https://open.spotify.com/artist/00C6n2psbFm6XWqyPCXJ5v) | [Sevme](https://open.spotify.com/album/4obQjM8HLb2oEtXYd3yegb) | 2:21 |
-| 9 | [Sarılmışsın Kendine](https://open.spotify.com/track/1mF7bTZkbm7amnaGOsRz2Z) | [Can Koç](https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM) | [Sarılmışsın Kendine](https://open.spotify.com/album/5QaXgBjxrPLNBfnrGg9dpS) | 3:07 |
-| 10 | [Kibir](https://open.spotify.com/track/6XEHgpBqiWrmVZDCmrOpZ9) | [Redd](https://open.spotify.com/artist/3uW8VB9ixiNMAJBm7ZsBVT) | [Kibir](https://open.spotify.com/album/3HGINmAbIlGynA3E4sa4BC) | 4:34 |
-| 11 | [Uyanmayalım](https://open.spotify.com/track/67W5jKPsAK9OBL9tl69S7J) | [Pera](https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j), [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [Uyanmayalım](https://open.spotify.com/album/0AS9cBgxTala1kyn73f1Eb) | 3:33 |
-| 12 | [Sevmek Değil](https://open.spotify.com/track/682SkNDZsp9QvfqK7PM9FQ) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [Sevmek Değil](https://open.spotify.com/album/47TmV0OJmizaoPU4Wdobq9) | 3:16 |
-| 13 | [Farklı Son](https://open.spotify.com/track/5M223VY30mtUPOcKwA30Qt) | [13\. Vagon](https://open.spotify.com/artist/5Qe6lA9TYMdFBUQIi0Gm0I) | [Farklı Son](https://open.spotify.com/album/5RY7aUCkfmv5HGun7JSdDl) | 2:10 |
-| 14 | [Hani Nerede?](https://open.spotify.com/track/66ALGT6ONdk1myfpZjBVSl) | [Meyal](https://open.spotify.com/artist/0w3PlTOI8rZPFSlMG95sBa) | [Hani Nerede?](https://open.spotify.com/album/0721GDLfG8SkkdGdOKN4Iy) | 2:30 |
-| 15 | [Defolup Gidelim](https://open.spotify.com/track/4qUh25Q7kFHxubAtLCvV6e) | [Sena Şener](https://open.spotify.com/artist/7CW2eGwAuElNq09rVtZYsM) | [Defolup Gidelim](https://open.spotify.com/album/0oflIVq580immGYGFzcPQp) | 3:34 |
-| 16 | [Kuduracaksın](https://open.spotify.com/track/0rUBxHnt6HaW3Gh13TaNNQ) | [Prenslerin Öcü](https://open.spotify.com/artist/1lqrZTifQ9shpyZseCRvc8) | [Kuduracaksın](https://open.spotify.com/album/7G4pt2yd0ny4vJ2sue4E4d) | 3:36 |
-| 17 | [Ölüm Bizi Bekler](https://open.spotify.com/track/1udHcoBlj3fXp4lKcfkFs8) | [Palmiyeler](https://open.spotify.com/artist/441Mk7JKv8WtAsaR9REPGX) | [Ölüm Bizi Bekler](https://open.spotify.com/album/5qZ8rHGr6EihVN4KV8flfu) | 4:45 |
-| 18 | [Sanrılar Çıldırmış Olmalı \- Live](https://open.spotify.com/track/52MjLPjxtIafUI7SUaAJZ8) | [Görkem Karabudak](https://open.spotify.com/artist/1oAAtiC1OuS6dxE1DIkUUp), [Da Poet](https://open.spotify.com/artist/7Ml6UQvSODdViugwulEjWk) | ["Topyekün" Live](https://open.spotify.com/album/7sHJfj9KfpT4QV6iPf8HZz) | 6:22 |
-| 19 | [Küs](https://open.spotify.com/track/1BjwltIYnT7iaZXko9BHbf) | [Simge Pınar](https://open.spotify.com/artist/3LaMLuHw30v7Smtt3mcrjE) | [Küs](https://open.spotify.com/album/2EOgDCDLg7bTsP0FUgV5XE) | 3:10 |
+| 7 | [Gördüğüm En Güzel Şey](https://open.spotify.com/track/3Iy0JBd4yitkQMpC1ILwPS) | [Zaaf](https://open.spotify.com/artist/50duVkVqOy98xlSpzJ865B) | [Gördüğüm En Güzel Şey](https://open.spotify.com/album/27LmXxJXjaI8Lb4fnCxy6a) | 2:52 |
+| 8 | [Ölene Dek](https://open.spotify.com/track/4ZH7g8nCA3m2EHNZ4ATLtv) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl), [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Ölene Dek](https://open.spotify.com/album/0b9tU1DOxAmZa1CA4rFm71) | 3:01 |
+| 9 | [Sevme](https://open.spotify.com/track/4oGecQuYpeIQH7cOGRURkG) | [Ufuk Beydemir](https://open.spotify.com/artist/00C6n2psbFm6XWqyPCXJ5v) | [Sevme](https://open.spotify.com/album/4obQjM8HLb2oEtXYd3yegb) | 2:21 |
+| 10 | [Sarılmışsın Kendine](https://open.spotify.com/track/1mF7bTZkbm7amnaGOsRz2Z) | [Can Koç](https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM) | [Sarılmışsın Kendine](https://open.spotify.com/album/5QaXgBjxrPLNBfnrGg9dpS) | 3:07 |
+| 11 | [Kibir](https://open.spotify.com/track/6XEHgpBqiWrmVZDCmrOpZ9) | [Redd](https://open.spotify.com/artist/3uW8VB9ixiNMAJBm7ZsBVT) | [Kibir](https://open.spotify.com/album/3HGINmAbIlGynA3E4sa4BC) | 4:34 |
+| 12 | [Uyanmayalım](https://open.spotify.com/track/67W5jKPsAK9OBL9tl69S7J) | [Pera](https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j), [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [Uyanmayalım](https://open.spotify.com/album/0AS9cBgxTala1kyn73f1Eb) | 3:33 |
+| 13 | [Sevmek Değil](https://open.spotify.com/track/682SkNDZsp9QvfqK7PM9FQ) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [Sevmek Değil](https://open.spotify.com/album/47TmV0OJmizaoPU4Wdobq9) | 3:16 |
+| 14 | [Küstüm Bu Şehre](https://open.spotify.com/track/7zhNK5ceWIIbeJWUBuVy5b) | [Tual](https://open.spotify.com/artist/1pN6fkbVTYbHEhN8jl49dE) | [Küstüm Bu Şehre](https://open.spotify.com/album/1EbsjXQjVL0GKwNmKznTpm) | 2:32 |
+| 15 | [Farklı Son](https://open.spotify.com/track/5M223VY30mtUPOcKwA30Qt) | [13\. Vagon](https://open.spotify.com/artist/5Qe6lA9TYMdFBUQIi0Gm0I) | [Farklı Son](https://open.spotify.com/album/5RY7aUCkfmv5HGun7JSdDl) | 2:10 |
+| 16 | [Hani Nerede?](https://open.spotify.com/track/66ALGT6ONdk1myfpZjBVSl) | [Meyal](https://open.spotify.com/artist/0w3PlTOI8rZPFSlMG95sBa) | [Hani Nerede?](https://open.spotify.com/album/0721GDLfG8SkkdGdOKN4Iy) | 2:30 |
+| 17 | [Defolup Gidelim](https://open.spotify.com/track/4qUh25Q7kFHxubAtLCvV6e) | [Sena Şener](https://open.spotify.com/artist/7CW2eGwAuElNq09rVtZYsM) | [Defolup Gidelim](https://open.spotify.com/album/0oflIVq580immGYGFzcPQp) | 3:34 |
+| 18 | [Ödün Verdim](https://open.spotify.com/track/4U0n8zk7ec1WVseHvF4P28) | [Anıl Berke](https://open.spotify.com/artist/0l6z8gRVh2xP7jldRj1bq4) | [Ödün Verdim](https://open.spotify.com/album/4MeJJ1gq59xDeVhmHqH0aK) | 3:15 |
+| 19 | [Kuduracaksın](https://open.spotify.com/track/0rUBxHnt6HaW3Gh13TaNNQ) | [Prenslerin Öcü](https://open.spotify.com/artist/1lqrZTifQ9shpyZseCRvc8) | [Kuduracaksın](https://open.spotify.com/album/7G4pt2yd0ny4vJ2sue4E4d) | 3:36 |
 | 20 | [Gelme](https://open.spotify.com/track/4nmI7AuuHCSRfKKQMwrSVI) | [Kaset](https://open.spotify.com/artist/3D272RoVaG7oXSBIOgqgnJ) | [Gelme](https://open.spotify.com/album/113Rdhd0TJoywaB0QeEvLd) | 4:13 |
 | 21 | [Nerde Benim Kafam](https://open.spotify.com/track/3b83Fi9nZOQkmLJqy10ONJ) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Kufi](https://open.spotify.com/album/3FpJOsSnsSziu7JFmAzRPc) | 3:48 |
 | 22 | [Kalk Ayağa](https://open.spotify.com/track/38GBhFHE4LtG6a9E3yJwoI) | [Mentra](https://open.spotify.com/artist/1HWXCqZWPw3od0gpFoLXpe) | [Kalk Ayağa](https://open.spotify.com/album/75sYa6IBTcmj31qO25kUVr) | 2:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 74 | [Gökyüzüm](https://open.spotify.com/track/0Ougz6VoBrcIqaN4QgrmD9) | [Pera](https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j) | [İçimdeki Şeytan](https://open.spotify.com/album/70oT5XaoPS0gQcNwton0iw) | 4:04 |
 | 75 | [PİÇ](https://open.spotify.com/track/6mOWYGO4GGTOA5ixHz8S28) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [PİÇ](https://open.spotify.com/album/3FI0Vd5dS1lxf7nTklAAAV) | 3:27 |
 
-Snapshot ID: `ZpmCUAAAAACn5EMX2KYEH3p2lVqM+Ok+`
+Snapshot ID: `Zqv3UAAAAAB7S+RhS4haWP/x8z0AaSBW`

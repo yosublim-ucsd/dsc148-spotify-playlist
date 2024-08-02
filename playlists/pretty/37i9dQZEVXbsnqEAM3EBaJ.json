@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAB3RYkI9+EW1hjNwzDwx45R",
+  "snapshot_id": "AAAAAAAAAABUK44/Bqxn2QBjm8JAIoL3",
   "tracks": [
     {
       "added_at": "2024-07-26 04:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Hot Rails To Hell (Live)",
-        "url": "https://open.spotify.com/album/0Q4w3H4RI9IBeVQ592IiyE"
-      },
-      "artists": [
-        {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
-        }
-      ],
-      "duration_ms": 300741,
-      "name": "Hot Rails To Hell - Live",
-      "url": "https://open.spotify.com/track/4TbSWPR1D2y0cc01Z6lk2g"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Like A Stone (Reimagined)",
         "url": "https://open.spotify.com/album/6xCsPSZ3THpZRrYPox5kK2"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 287631,
       "name": "Like A Stone - Reimagined",
       "url": "https://open.spotify.com/track/2EHZpEtgE48ztROdwkPgfQ"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Hot Rails To Hell (Live)",
+        "url": "https://open.spotify.com/album/0Q4w3H4RI9IBeVQ592IiyE"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "duration_ms": 300741,
+      "name": "Hot Rails To Hell - Live",
+      "url": "https://open.spotify.com/track/4TbSWPR1D2y0cc01Z6lk2g"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -323,6 +323,50 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Black Mold",
+        "url": "https://open.spotify.com/album/1G06wIGTvexsq1xiXGdfnX"
+      },
+      "artists": [
+        {
+          "name": "Silos",
+          "url": "https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9"
+        },
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        },
+        {
+          "name": "Craig Mabbitt",
+          "url": "https://open.spotify.com/artist/0whorprfBPk2ZY7u81QwHa"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "duration_ms": 202453,
+      "name": "Black Mold",
+      "url": "https://open.spotify.com/track/0uOLM57T5P4nRq2ul5u65X"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Seven Deadly (Deluxe edition)",
+        "url": "https://open.spotify.com/album/2WLc0MRCukxdziKfL702tU"
+      },
+      "artists": [
+        {
+          "name": "UFO",
+          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
+        }
+      ],
+      "duration_ms": 232493,
+      "name": "Other Men's Wives (bonus track)",
+      "url": "https://open.spotify.com/track/0KMJ9zFaGzt61Kc7oYNZDl"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Cypher G",
         "url": "https://open.spotify.com/album/19xrX25PPln3Xf8o0ISutp"
       },
@@ -355,22 +399,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Seven Deadly (Deluxe edition)",
-        "url": "https://open.spotify.com/album/2WLc0MRCukxdziKfL702tU"
-      },
-      "artists": [
-        {
-          "name": "UFO",
-          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
-        }
-      ],
-      "duration_ms": 232493,
-      "name": "Other Men's Wives (bonus track)",
-      "url": "https://open.spotify.com/track/0KMJ9zFaGzt61Kc7oYNZDl"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "GENESIS",
         "url": "https://open.spotify.com/album/0lauCMMmgQpzDyQxqhXLuH"
       },
@@ -387,30 +415,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Black Mold",
-        "url": "https://open.spotify.com/album/1G06wIGTvexsq1xiXGdfnX"
+        "name": "Shikanoko Nokonoko Koshitantan Meme",
+        "url": "https://open.spotify.com/album/25xw8BXlctmH3CxyTwJTBV"
       },
       "artists": [
         {
-          "name": "Silos",
-          "url": "https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9"
-        },
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        },
-        {
-          "name": "Craig Mabbitt",
-          "url": "https://open.spotify.com/artist/0whorprfBPk2ZY7u81QwHa"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
         }
       ],
-      "duration_ms": 202453,
-      "name": "Black Mold",
-      "url": "https://open.spotify.com/track/0uOLM57T5P4nRq2ul5u65X"
+      "duration_ms": 326393,
+      "name": "Shikanoko Nokonoko Koshitantan Meme",
+      "url": "https://open.spotify.com/track/7pmP9JHlkAwa2UUN1mv49U"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -435,38 +451,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Shikanoko Nokonoko Koshitantan Meme",
-        "url": "https://open.spotify.com/album/25xw8BXlctmH3CxyTwJTBV"
-      },
-      "artists": [
-        {
-          "name": "The Covers Duo",
-          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
-        }
-      ],
-      "duration_ms": 326393,
-      "name": "Shikanoko Nokonoko Koshitantan Meme",
-      "url": "https://open.spotify.com/track/7pmP9JHlkAwa2UUN1mv49U"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Live From The Garden Amphitheater",
-        "url": "https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 285056,
-      "name": "You're Not Alone - Live",
-      "url": "https://open.spotify.com/track/4r7F2pBLRLV8qdx12kE11J"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Smile (feat. Carolina Liar)",
         "url": "https://open.spotify.com/album/5MwREpSNM3JMxAq8xqe3im"
       },
@@ -487,18 +471,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "DIVE",
-        "url": "https://open.spotify.com/album/7tgTOUXm74GKA12wsQIUPu"
+        "name": "Live From The Garden Amphitheater",
+        "url": "https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
         }
       ],
-      "duration_ms": 170640,
-      "name": "Here I am",
-      "url": "https://open.spotify.com/track/7qzpdzJRiIHXJpa28FYrD9"
+      "duration_ms": 285056,
+      "name": "You're Not Alone - Live",
+      "url": "https://open.spotify.com/track/4r7F2pBLRLV8qdx12kE11J"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -515,6 +499,22 @@
       "duration_ms": 142000,
       "name": "And Waves of Dreams",
       "url": "https://open.spotify.com/track/4rxvzq4CtdaR1sNxAYCq6y"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "DIVE",
+        "url": "https://open.spotify.com/album/7tgTOUXm74GKA12wsQIUPu"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 170640,
+      "name": "Here I am",
+      "url": "https://open.spotify.com/track/7qzpdzJRiIHXJpa28FYrD9"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "The Cave We Fear To Enter",
-        "url": "https://open.spotify.com/album/17NEYsWWUrE1vhgPzS11n6"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 307000,
-      "name": "The Cave We Fear to Enter",
-      "url": "https://open.spotify.com/track/1ZMDs14YVVl7dwcZk5C1Se"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Corona de espinas",
         "url": "https://open.spotify.com/album/7a0OPrgyDJVQmlvYKwKkCS"
       },
@@ -659,22 +643,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Plays Metallica, Vol. 2",
-        "url": "https://open.spotify.com/album/5HUPKCaOKsbOz6pQR1i5YO"
+        "name": "The Cave We Fear To Enter",
+        "url": "https://open.spotify.com/album/17NEYsWWUrE1vhgPzS11n6"
       },
       "artists": [
         {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        },
-        {
-          "name": "Robert Trujillo",
-          "url": "https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16"
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
         }
       ],
-      "duration_ms": 574634,
-      "name": "One (feat. Robert Trujillo) - Instrumental",
-      "url": "https://open.spotify.com/track/43qcGBcVT8wz2ntoS625vP"
+      "duration_ms": 307000,
+      "name": "The Cave We Fear to Enter",
+      "url": "https://open.spotify.com/track/1ZMDs14YVVl7dwcZk5C1Se"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -691,6 +671,26 @@
       "duration_ms": 252958,
       "name": "Mind Games - Ultimate Mix",
       "url": "https://open.spotify.com/track/4iL5reGSTy39GSpe1yd833"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Plays Metallica, Vol. 2",
+        "url": "https://open.spotify.com/album/5HUPKCaOKsbOz6pQR1i5YO"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Robert Trujillo",
+          "url": "https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16"
+        }
+      ],
+      "duration_ms": 574634,
+      "name": "One (feat. Robert Trujillo) - Instrumental",
+      "url": "https://open.spotify.com/track/43qcGBcVT8wz2ntoS625vP"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Bask in the Blood of Our Demons - EP",
-        "url": "https://open.spotify.com/album/3N6MeAW41DhJIgjyF4tHIO"
-      },
-      "artists": [
-        {
-          "name": "Unearth",
-          "url": "https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3"
-        }
-      ],
-      "duration_ms": 185413,
-      "name": "Warrior Souls",
-      "url": "https://open.spotify.com/track/2UMVB1D4V5KlKoHzw8i3Gg"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Se\u00f1or Tiempo",
         "url": "https://open.spotify.com/album/0Nr4NO2fgctpLPuqGoQy7U"
       },
@@ -747,22 +731,6 @@
       "duration_ms": 340638,
       "name": "Se\u00f1or Tiempo",
       "url": "https://open.spotify.com/track/2peeEyNr3VL1nmc3y25kVs"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Wilderness",
-        "url": "https://open.spotify.com/album/2s1J15Gm1NHPu7dXmv81uj"
-      },
-      "artists": [
-        {
-          "name": "Eyes Set To Kill",
-          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
-        }
-      ],
-      "duration_ms": 202758,
-      "name": "Wilderness",
-      "url": "https://open.spotify.com/track/3r2cEBiAQ0fiq4FM867d4y"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -787,6 +755,38 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Bask in the Blood of Our Demons - EP",
+        "url": "https://open.spotify.com/album/3N6MeAW41DhJIgjyF4tHIO"
+      },
+      "artists": [
+        {
+          "name": "Unearth",
+          "url": "https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3"
+        }
+      ],
+      "duration_ms": 185413,
+      "name": "Warrior Souls",
+      "url": "https://open.spotify.com/track/2UMVB1D4V5KlKoHzw8i3Gg"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Wilderness",
+        "url": "https://open.spotify.com/album/2s1J15Gm1NHPu7dXmv81uj"
+      },
+      "artists": [
+        {
+          "name": "Eyes Set To Kill",
+          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
+        }
+      ],
+      "duration_ms": 202758,
+      "name": "Wilderness",
+      "url": "https://open.spotify.com/track/3r2cEBiAQ0fiq4FM867d4y"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Best of: Living the Dream (Tarja's Non-Rock Specials)",
         "url": "https://open.spotify.com/album/7BNQjKP4HADfs1XinGEJqB"
       },
@@ -803,22 +803,6 @@
       "duration_ms": 167061,
       "name": "Oi, Kiitos Sa Luojani Armollinen - Live",
       "url": "https://open.spotify.com/track/1IyO9a2ic0w2O3e2jKTJ7D"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Fading Like A Rose - EP",
-        "url": "https://open.spotify.com/album/4cZWw7DhPFapr3GcoTCxVi"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 155409,
-      "name": "Fading Like A Rose (Everytime Remix)",
-      "url": "https://open.spotify.com/track/165eiC8yyWkBZo26oDtFLl"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -843,22 +827,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Fortnight (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5IYMYmX28qpI6OEnQhdazX"
+        "name": "Fading Like A Rose - EP",
+        "url": "https://open.spotify.com/album/4cZWw7DhPFapr3GcoTCxVi"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
         }
       ],
-      "duration_ms": 228965,
-      "name": "Fortnight (feat. Post Malone) - Acoustic Version",
-      "url": "https://open.spotify.com/track/2BUTSRKPGRsyc9FnsC5Udd"
+      "duration_ms": 155409,
+      "name": "Fading Like A Rose (Everytime Remix)",
+      "url": "https://open.spotify.com/track/165eiC8yyWkBZo26oDtFLl"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -883,22 +863,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Life Is Easy (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0UGlEbULaeFF4KtAxRMMcb"
+        "name": "Fortnight (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5IYMYmX28qpI6OEnQhdazX"
       },
       "artists": [
         {
-          "name": "Bright Light Bright Light",
-          "url": "https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 213553,
-      "name": "I Wish We Were Leaving - Radio Edit",
-      "url": "https://open.spotify.com/track/6cv2Dw9plGC3NU2If9OjEJ"
+      "duration_ms": 228965,
+      "name": "Fortnight (feat. Post Malone) - Acoustic Version",
+      "url": "https://open.spotify.com/track/2BUTSRKPGRsyc9FnsC5Udd"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -915,6 +895,26 @@
       "duration_ms": 272639,
       "name": "Hear You Me",
       "url": "https://open.spotify.com/track/2lyUYcQi8XW0O3iAYmZpwi"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Life Is Easy (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0UGlEbULaeFF4KtAxRMMcb"
+      },
+      "artists": [
+        {
+          "name": "Bright Light Bright Light",
+          "url": "https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 213553,
+      "name": "I Wish We Were Leaving - Radio Edit",
+      "url": "https://open.spotify.com/track/6cv2Dw9plGC3NU2If9OjEJ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Focus 12",
+        "url": "https://open.spotify.com/album/14f9Wbk9l84KkMEpmsYSAF"
+      },
+      "artists": [
+        {
+          "name": "Focus",
+          "url": "https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR"
+        }
+      ],
+      "duration_ms": 247587,
+      "name": "B\u00e9la",
+      "url": "https://open.spotify.com/track/0qbP8PDOjSTQG2RyCO5RjM"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "I Have Notes",
         "url": "https://open.spotify.com/album/4l89gOBML1oUH3Yow6GEUY"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 160986,
       "name": "Couldn't Love You More",
       "url": "https://open.spotify.com/track/76Xe5O7neH9OCBYvqeEZsJ"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Focus 12",
-        "url": "https://open.spotify.com/album/14f9Wbk9l84KkMEpmsYSAF"
-      },
-      "artists": [
-        {
-          "name": "Focus",
-          "url": "https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR"
-        }
-      ],
-      "duration_ms": 247587,
-      "name": "B\u00e9la",
-      "url": "https://open.spotify.com/track/0qbP8PDOjSTQG2RyCO5RjM"
     },
     {
       "added_at": "2024-07-26 04:00:00",

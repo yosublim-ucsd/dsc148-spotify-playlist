@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : USKY
+> Le meilleur du rap français version cloud\. Photo : J9ueve
 
-413 songs - 20 hr 15 min
+414 songs - 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [Le jour se lève](https://open.spotify.com/track/6qwe1TVcoWQ5oCVMmDKvV8) | [Selug](https://open.spotify.com/artist/3j2UfwsNoDqcuoGh8gp0qi), [$enar](https://open.spotify.com/artist/4aG6mP1P80gOIpELCWePG5) | [Le jour se lève](https://open.spotify.com/album/76IvkXLqQzw6JrjwOIq2PL) | 2:13 | 2023-06-22 | 2024-05-17 |
 | [Le monde par ma fenêtre](https://open.spotify.com/track/34gqAsUuzda4ctvmjcv3Kl) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Le monde par ma fenêtre](https://open.spotify.com/album/1wfDHmjYJOji4uln5Ep65z) | 3:23 | 2022-07-14 | 2022-11-04 |
 | [Le Nine](https://open.spotify.com/track/1hseKv4MJMH3eFsrtumMJg) | [ELSO](https://open.spotify.com/artist/4W1lopkH4sNXzwfiUvST3P) | [Le Nine](https://open.spotify.com/album/1lKTfCQvEvXINqeg7ViPtr) | 3:20 | 2023-10-12 | 2024-03-01 |
-| [LE WORLD](https://open.spotify.com/track/4hoqAQEZWXXGoBnuBfRA1y) | [KLS](https://open.spotify.com/artist/7vnEuM5aFDKZ0kiWIjMpD4) | [HORION](https://open.spotify.com/album/53Yu6G1IxrB5ji7ECIHAqb) | 2:14 | 2024-06-13 |  |
+| [LE WORLD](https://open.spotify.com/track/4hoqAQEZWXXGoBnuBfRA1y) | [KLS](https://open.spotify.com/artist/7vnEuM5aFDKZ0kiWIjMpD4) | [HORION](https://open.spotify.com/album/53Yu6G1IxrB5ji7ECIHAqb) | 2:14 | 2024-06-13 | 2024-08-02 |
 | [LES VOIX](https://open.spotify.com/track/1huSfoDNZogC8dA2WSJGRA) | [mademoiselle lou](https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N), [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU) | [LES VOIX](https://open.spotify.com/album/69qjY0Ei6IyvCXW4BdWc4O) | 2:37 | 2024-01-25 |  |
 | [LES VOIX DANS MA TÊTE](https://open.spotify.com/track/3LdwUrCS2gdJe4ygH41uZO) | [ACHIM](https://open.spotify.com/artist/48cu2msOlKJZfmTxeYLkuZ), [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [STRATUS JOYEUX](https://open.spotify.com/album/2UhMgGhAAl1fIWgAnveYRu) | 3:20 | 2023-03-16 | 2023-04-28 |
 | [LESSGUI](https://open.spotify.com/track/7tcsRVgsBvGGL8h9BHN1uA) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [LESSGUI](https://open.spotify.com/album/0sW9FAedveHh5b62T0eIoU) | 2:33 | 2022-07-14 | 2023-02-10 |
@@ -272,6 +272,7 @@
 | [nebula](https://open.spotify.com/track/4dWQt09nlBLh34No9tNA5o) | [Ashh](https://open.spotify.com/artist/4YUcg2ee9TxMNdjhAxzZBF) | [nebula](https://open.spotify.com/album/4FNFa5X1j7FhS3IRchDgqm) | 3:30 | 2023-07-20 | 2024-04-12 |
 | [Neurasthenie](https://open.spotify.com/track/2bWzPmMqIeWVO3lCTKEDpv) | [Klem Schen](https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c) | [Neurasthenie](https://open.spotify.com/album/147jyWgnirPp1V7z2IUxVS) | 4:26 | 2022-09-22 | 2022-12-16 |
 | [New Flow](https://open.spotify.com/track/7wcvpuqOwffUGKXydc5Ngn) | [91 All Stars](https://open.spotify.com/artist/2NXFKDjgSuIyiUUH2PEVHG), [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [91 ALL STARS](https://open.spotify.com/album/67RktnRUQzkN9ZM8VAsakU) | 3:05 | 2022-07-14 | 2022-10-21 |
+| [NEWBARBIE](https://open.spotify.com/track/18l3X0jdPEODoFezifcXB6) | [BKRBABYBOY](https://open.spotify.com/artist/4n9KyoZUUZgkQAoVxSOgZZ) | [LOVSZN](https://open.spotify.com/album/2zDLK9ayoDd2pjxkmkAAqO) | 1:49 | 2024-08-01 |  |
 | [No Love](https://open.spotify.com/track/43s7xJq0iHdcn2eGfE4M2x) | [Enolevrai](https://open.spotify.com/artist/08tDZqfKfLCf5TXC8A2aNf) | [No Love](https://open.spotify.com/album/6oTrv1boqK0GsoqLXbnuu8) | 2:27 | 2023-05-04 | 2023-06-02 |
 | [NO PASSION](https://open.spotify.com/track/393Tn6mkpkkfpXEAknAYOL) | [DMS](https://open.spotify.com/artist/5uo0xw2Agih4NcDVajOd6e) | [NO PASSION](https://open.spotify.com/album/2UOOv8ZIeVZv6IowBZwdYS) | 2:04 | 2023-08-24 | 2023-10-13 |
 | [Noir](https://open.spotify.com/track/6xMcRSrzPJJMpH5oYDHiJk) | [ONZ](https://open.spotify.com/artist/2cHLzuB7J9TfkwTMFmTe5E), [yung g](https://open.spotify.com/artist/4Uyc1gUVun2PXGfzLGghh7) | [OPAQUE](https://open.spotify.com/album/4Nkl8GoDDewl9lcvuyVqdk) | 2:46 | 2022-12-01 | 2023-03-18 |

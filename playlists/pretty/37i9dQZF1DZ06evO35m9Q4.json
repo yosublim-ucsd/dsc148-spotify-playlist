@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 153231,
+  "num_followers": 153268,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqgtAAAAAAAJxXqA0yfwNzgyynoCc4uw",
+  "snapshot_id": "Zql+gAAAAABXOrwDNpn1iu9MUL6CXdkY",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 111920,
-      "name": "Scuttle Buttin'",
-      "url": "https://open.spotify.com/track/18PhtDBBYxE0vN4YvsZnMy"
+      "duration_ms": 408480,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/5XNpdKmlLJPUbwKQceX2tW"
     },
     {
       "added_at": null,
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 408480,
-      "name": "Little Wing",
-      "url": "https://open.spotify.com/track/5XNpdKmlLJPUbwKQceX2tW"
+      "duration_ms": 111920,
+      "name": "Scuttle Buttin'",
+      "url": "https://open.spotify.com/track/18PhtDBBYxE0vN4YvsZnMy"
     },
     {
       "added_at": null,

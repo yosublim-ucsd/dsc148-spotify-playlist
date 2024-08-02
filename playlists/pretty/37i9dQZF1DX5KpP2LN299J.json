@@ -1,13 +1,29 @@
 {
   "description": "The essential tracks, all in one playlist.",
-  "num_followers": 6008686,
+  "num_followers": 6011076,
   "original_name": "This Is Taylor Swift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpFYzAAAAACag5UVHJKSvHyBJhGjkZRD",
+  "snapshot_id": "ZqsIQAAAAADe3rfnkTpKF5/AovrNituQ",
   "tracks": [
+    {
+      "added_at": "2024-07-12 16:24:44",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+    },
     {
       "added_at": "2024-07-12 16:24:44",
       "album": {
@@ -239,22 +255,6 @@
       "duration_ms": 231000,
       "name": "Style (Taylor's Version)",
       "url": "https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc"
-    },
-    {
-      "added_at": "2024-07-12 16:24:44",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 261922,
-      "name": "august",
-      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
       "added_at": "2024-07-12 16:24:44",

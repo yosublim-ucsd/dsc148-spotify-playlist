@@ -499,22 +499,6 @@
     {
       "added_at": "2023-11-07 18:14:44",
       "album": {
-        "name": "LoveLive! Sunshine!! Third Solo Concert Album \uff5eTHE STORY OF \u201cOVER THE RAINBOW\u201d\uff5e starring Sakurauchi Riko",
-        "url": "https://open.spotify.com/album/384lP44vmpllPywrmZMOef"
-      },
-      "artists": [
-        {
-          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50) from Aqours",
-          "url": "https://open.spotify.com/artist/5vOwRlEKe8Sq03ayfreW5r"
-        }
-      ],
-      "duration_ms": 273006,
-      "name": "\u6c34\u9762\u306b\u30d4\u30a2\u30ce",
-      "url": "https://open.spotify.com/track/3RS9vKkGpHczl1jXAXq0k4"
-    },
-    {
-      "added_at": "2023-11-07 18:14:44",
-      "album": {
         "name": "LoveLive! Sunshine!! Matsuura Kanan First Solo Concert Album \u301c\u3055\u304b\u306a\u304b\u306a\u3093\u3060\u304b?\u301c",
         "url": "https://open.spotify.com/album/3kp2CxXz4KVbtHxr3axkXG"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 229426,
       "name": "\u3082\u3063\u3068\u306d!",
       "url": "https://open.spotify.com/track/3vXJrJULk98bQ4dG4WvqNY"
+    },
+    {
+      "added_at": "2023-11-07 18:14:44",
+      "album": {
+        "name": "LoveLive! Sunshine!! Third Solo Concert Album \uff5eTHE STORY OF \u201cOVER THE RAINBOW\u201d\uff5e starring Sakurauchi Riko",
+        "url": "https://open.spotify.com/album/384lP44vmpllPywrmZMOef"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50) from Aqours",
+          "url": "https://open.spotify.com/artist/5vOwRlEKe8Sq03ayfreW5r"
+        }
+      ],
+      "duration_ms": 273006,
+      "name": "\u6c34\u9762\u306b\u30d4\u30a2\u30ce",
+      "url": "https://open.spotify.com/track/3RS9vKkGpHczl1jXAXq0k4"
     },
     {
       "added_at": "2023-11-07 18:14:44",
@@ -715,26 +715,18 @@
     {
       "added_at": "2023-11-07 18:14:44",
       "album": {
-        "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.1 \u301cSUMMER VACATION\u301c)",
-        "url": "https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW"
+        "name": "\u30c8\u30ea\u30b3\u30ea\u30b3PLEASE!!",
+        "url": "https://open.spotify.com/album/4ZHvPOI0ckze6XmO5KCbs3"
       },
       "artists": [
         {
-          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50)",
-          "url": "https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O"
-        },
-        {
-          "name": "\u56fd\u6728\u7530\u82b1\u4e38 (CV.\u9ad8\u69fb\u304b\u306a\u3053)",
-          "url": "https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an"
-        },
-        {
-          "name": "\u5c0f\u539f\u97a0\u8389 (CV.\u9234\u6728\u611b\u5948)",
-          "url": "https://open.spotify.com/artist/5AeHYcYFgZ8VHULQk0vHM2"
+          "name": "AZALEA",
+          "url": "https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN"
         }
       ],
-      "duration_ms": 255533,
-      "name": "\u590f\u3078\u306e\u6249 - Never end ver.",
-      "url": "https://open.spotify.com/track/2tkXgl87zjKfDUFkht3maK"
+      "duration_ms": 291240,
+      "name": "\u3068\u304d\u3081\u304d\u5206\u985e\u5b66",
+      "url": "https://open.spotify.com/track/5JvsOjJvozyfkeyGJo3y5x"
     },
     {
       "added_at": "2023-11-07 18:14:44",
@@ -771,18 +763,26 @@
     {
       "added_at": "2023-11-07 18:14:44",
       "album": {
-        "name": "\u30c8\u30ea\u30b3\u30ea\u30b3PLEASE!!",
-        "url": "https://open.spotify.com/album/4ZHvPOI0ckze6XmO5KCbs3"
+        "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.1 \u301cSUMMER VACATION\u301c)",
+        "url": "https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW"
       },
       "artists": [
         {
-          "name": "AZALEA",
-          "url": "https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN"
+          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50)",
+          "url": "https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O"
+        },
+        {
+          "name": "\u56fd\u6728\u7530\u82b1\u4e38 (CV.\u9ad8\u69fb\u304b\u306a\u3053)",
+          "url": "https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an"
+        },
+        {
+          "name": "\u5c0f\u539f\u97a0\u8389 (CV.\u9234\u6728\u611b\u5948)",
+          "url": "https://open.spotify.com/artist/5AeHYcYFgZ8VHULQk0vHM2"
         }
       ],
-      "duration_ms": 291240,
-      "name": "\u3068\u304d\u3081\u304d\u5206\u985e\u5b66",
-      "url": "https://open.spotify.com/track/5JvsOjJvozyfkeyGJo3y5x"
+      "duration_ms": 255533,
+      "name": "\u590f\u3078\u306e\u6249 - Never end ver.",
+      "url": "https://open.spotify.com/track/2tkXgl87zjKfDUFkht3maK"
     },
     {
       "added_at": "2023-11-07 18:14:44",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-11-07 18:14:44",
       "album": {
+        "name": "GALAXY HidE and SeeK",
+        "url": "https://open.spotify.com/album/4OJGTVA3WqZpl8cUK1zVuq"
+      },
+      "artists": [
+        {
+          "name": "AZALEA",
+          "url": "https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN"
+        }
+      ],
+      "duration_ms": 224773,
+      "name": "INNOCENT BIRD",
+      "url": "https://open.spotify.com/track/69n3yUeRmkVZpZuyiZcXgR"
+    },
+    {
+      "added_at": "2023-11-07 18:14:44",
+      "album": {
         "name": "LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert Album \u301cRED GEM WINK\u301c",
         "url": "https://open.spotify.com/album/5j7nXWzvMsMrXAsHTSXKXr"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 310373,
       "name": "Love is all, I sing love is all!",
       "url": "https://open.spotify.com/track/4FHxcdoJ0KfhQJUZz92zTF"
-    },
-    {
-      "added_at": "2023-11-07 18:14:44",
-      "album": {
-        "name": "GALAXY HidE and SeeK",
-        "url": "https://open.spotify.com/album/4OJGTVA3WqZpl8cUK1zVuq"
-      },
-      "artists": [
-        {
-          "name": "AZALEA",
-          "url": "https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN"
-        }
-      ],
-      "duration_ms": 224773,
-      "name": "INNOCENT BIRD",
-      "url": "https://open.spotify.com/track/69n3yUeRmkVZpZuyiZcXgR"
     },
     {
       "added_at": "2023-11-07 18:14:44",

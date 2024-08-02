@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: Yovie Widianto, Lyodra",
+  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: NIKI",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -967,6 +967,24 @@
     },
     {
       "album": {
+        "name": "Fly Me To The Moon (From \"Fly Me To The Moon\" Movie)",
+        "url": "https://open.spotify.com/album/3B5Fj6LFbydv4FoEx48w80"
+      },
+      "artists": [
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170700,
+      "name": "Fly Me To The Moon (From \"Fly Me To The Moon\" Movie)",
+      "url": "https://open.spotify.com/track/7IoVDHWIUmRhzihnBNlVpf"
+    },
+    {
+      "album": {
         "name": "Foto kita blur",
         "url": "https://open.spotify.com/album/5ub2KSCpnGbmYyKLruGUPF"
       },
@@ -982,6 +1000,24 @@
       "duration_ms": 271477,
       "name": "Foto kita blur",
       "url": "https://open.spotify.com/track/0qbRvZ1alpPGmV52wKb2gJ"
+    },
+    {
+      "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/0Mhyp9JonvP6cHv2HWQChq"
+      },
+      "artists": [
+        {
+          "name": "Dreane",
+          "url": "https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/2aQ5TojQsR4rTe1zyiJamc"
     },
     {
       "album": {

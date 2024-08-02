@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "A new world of alternative electronic music. \nCover: Gordo",
+  "description": "A new world of alternative electronic music. \nCover: Jamie xx",
   "name": "Portal",
   "tracks": [
     {
@@ -700,6 +700,28 @@
       "duration_ms": 329443,
       "name": "All The Girls",
       "url": "https://open.spotify.com/track/4TFA9q63U0eq06lDBAaO6r"
+    },
+    {
+      "album": {
+        "name": "All You Children",
+        "url": "https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254142,
+      "name": "All You Children",
+      "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
     },
     {
       "album": {
@@ -3207,6 +3229,24 @@
     },
     {
       "album": {
+        "name": "Devices / Green",
+        "url": "https://open.spotify.com/album/3KxNq8zMtKQkZlZqnsW3xm"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310560,
+      "name": "Devices",
+      "url": "https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be"
+    },
+    {
+      "album": {
         "name": "Devotion EP",
         "url": "https://open.spotify.com/album/6JlxoikbK1kntRGQrTAMtP"
       },
@@ -3714,6 +3754,28 @@
       "duration_ms": 199880,
       "name": "easy breezy",
       "url": "https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j"
+    },
+    {
+      "album": {
+        "name": "Ela Joga na Hora",
+        "url": "https://open.spotify.com/album/30Ytb0PG1tOv7JiKOTBK2v"
+      },
+      "artists": [
+        {
+          "name": "Mc Pogba",
+          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
+        },
+        {
+          "name": "DJ Guih Da ZO",
+          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132922,
+      "name": "Ela Joga na Hora",
+      "url": "https://open.spotify.com/track/6hZGsChumRhWG24OEh698c"
     },
     {
       "album": {
@@ -4302,6 +4364,24 @@
       "duration_ms": 300000,
       "name": "Fidget Spinner",
       "url": "https://open.spotify.com/track/7d8YQfetskWmFzQe57TJ1A"
+    },
+    {
+      "album": {
+        "name": "Fight Or Flight",
+        "url": "https://open.spotify.com/album/2NUAVm5hnaZN42fPjQcin8"
+      },
+      "artists": [
+        {
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313750,
+      "name": "Fight Or Flight",
+      "url": "https://open.spotify.com/track/0FQu568m5iyA0hmF9NMjLq"
     },
     {
       "album": {
@@ -6046,7 +6126,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 257798,
       "name": "iluv",
       "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
@@ -7905,6 +7985,24 @@
     },
     {
       "album": {
+        "name": "MOLLY",
+        "url": "https://open.spotify.com/album/4InqAHy8ibH0sfvTaYsDYX"
+      },
+      "artists": [
+        {
+          "name": "SHYY BEATS",
+          "url": "https://open.spotify.com/artist/1suCEwvRWxgG1XMQmmnPjZ"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106875,
+      "name": "MOLLY",
+      "url": "https://open.spotify.com/track/5IRjwYpZrnatZQq4sTANMs"
+    },
+    {
+      "album": {
         "name": "Moth Love",
         "url": "https://open.spotify.com/album/3TmRBALTpwplqDDM4ZRPMr"
       },
@@ -8504,6 +8602,24 @@
       "duration_ms": 206694,
       "name": "Off Wiv Ya Headz",
       "url": "https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW"
+    },
+    {
+      "album": {
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/28fJN4ijKdA0em3kiLaLCt"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169668,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/4UOtElYfnpY2CxsTnWhrOA"
     },
     {
       "album": {
@@ -9378,6 +9494,24 @@
       "duration_ms": 249261,
       "name": "Push Power ( a 1 )",
       "url": "https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq"
+    },
+    {
+      "album": {
+        "name": "1:M",
+        "url": "https://open.spotify.com/album/6o7iVWHWsu0pfOZhJfrql5"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188444,
+      "name": "Pyrophobia",
+      "url": "https://open.spotify.com/track/1NDRed3XRwwALqA3iBSUfP"
     },
     {
       "album": {
@@ -11499,6 +11633,24 @@
     },
     {
       "album": {
+        "name": "The Cosmik Connection: Lost Tape",
+        "url": "https://open.spotify.com/album/6hSLmWLvPhFi6nsn5jc4AX"
+      },
+      "artists": [
+        {
+          "name": "Kloke",
+          "url": "https://open.spotify.com/artist/2cggyYmdk2HP87tYGtw3La"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415000,
+      "name": "Synchronicity",
+      "url": "https://open.spotify.com/track/7cp7Ej2npnDebtc0XKlhrm"
+    },
+    {
+      "album": {
         "name": "Lithium",
         "url": "https://open.spotify.com/album/5zQRu6T7emt6CC1u8SQ7xo"
       },
@@ -11594,6 +11746,24 @@
       "duration_ms": 304661,
       "name": "Takes Me To You",
       "url": "https://open.spotify.com/track/7z5fqVuCMLTqQyI3R6jmOW"
+    },
+    {
+      "album": {
+        "name": "Tanzanite",
+        "url": "https://open.spotify.com/album/0IIQTttDme6VWdHbpNHLh2"
+      },
+      "artists": [
+        {
+          "name": "Wallace",
+          "url": "https://open.spotify.com/artist/2VosWday4AoFOXDJgYoDjm"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298051,
+      "name": "Tanzanite",
+      "url": "https://open.spotify.com/track/1fgzoxderUvyuqqmo3ErYC"
     },
     {
       "album": {

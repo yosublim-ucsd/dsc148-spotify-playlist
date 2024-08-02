@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belarus.
 
-612 songs - 1 day 3 hr 45 min
+614 songs - 1 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,7 @@
 | [Soaked](https://open.spotify.com/track/3nGIGnJd7jFZaPFdfyQLF2) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Soaked](https://open.spotify.com/album/3KlEcBtJhRhsqC13wbASjd) | 2:59 | 2024-02-01 | 2024-02-08 |
 | [Soaked](https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Soaked](https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW) | 2:59 | 2024-02-07 | 2024-04-06 |
 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 | 2024-02-28 | 2024-03-07 |
-| [Someday](https://open.spotify.com/track/2lMzStqWLtcUXBfDGMNmRK) | [The Uchpochmack](https://open.spotify.com/artist/74vzl8xTscWamDaZ28BsFp) | [First & Last](https://open.spotify.com/album/1ZK5VkZzP5tv667clw3z9J) | 2:46 | 2024-06-26 |  |
+| [Someday](https://open.spotify.com/track/2lMzStqWLtcUXBfDGMNmRK) | [The Uchpochmack](https://open.spotify.com/artist/74vzl8xTscWamDaZ28BsFp) | [First & Last](https://open.spotify.com/album/1ZK5VkZzP5tv667clw3z9J) | 2:46 | 2024-06-26 | 2024-08-02 |
 | [someday i'll get it](https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY) | [Alek Olsen](https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8) | [someday i'll get it](https://open.spotify.com/album/2YXww1viuuKZPi458rdopk) | 1:34 | 2024-04-12 | 2024-04-15 |
 | [Song 404](https://open.spotify.com/track/3xaNTJk9G0yoKkkjlkOYv5) | [7hvrdx](https://open.spotify.com/artist/7DI03nY9DwvZ49pLTiQh9o) | [Song 404](https://open.spotify.com/album/1GPbNVvuhI1JSinBRNIUS9) | 2:45 | 2024-04-23 | 2024-05-04 |
 | [Song 404](https://open.spotify.com/track/4i65zW2W1sHvWjOQpl5hVe) | [7hvrdx](https://open.spotify.com/artist/7DI03nY9DwvZ49pLTiQh9o), [HARDX](https://open.spotify.com/artist/6goAg9k3zJ2edlE7OtIkTn) | [Song 404](https://open.spotify.com/album/3RcGBHZuXCRcPoajHshmJw) | 2:45 | 2024-05-03 | 2024-06-01 |
@@ -358,6 +358,7 @@
 | [WTF 2](https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW) | [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG), [EF](https://open.spotify.com/artist/31zD0TKiTJ0OlcW3I6JI27) | [WTF 2](https://open.spotify.com/album/4cFGu2A51oQ1lezuK6O9Dn) | 2:07 | 2024-02-22 | 2024-04-29 |
 | [wutiwant](https://open.spotify.com/track/6zsUUymWPtq5bkoc5y97cM) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/4NHsl52eIxHX3ZGh66ZYUx) | 3:13 | 2024-06-24 | 2024-07-29 |
 | [wutiwant](https://open.spotify.com/track/2dsLbTJoca1o1U1FxYmcxj) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/54aWJOfKA089vev7ORxAle) | 3:13 | 2024-07-28 | 2024-07-30 |
+| [wutiwant](https://open.spotify.com/track/0KLFOexL7d8NcUjsjSn2qA) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/6rRJ2kuGelLDUlARiBAZoY) | 3:13 | 2024-08-01 |  |
 | [wutiwant](https://open.spotify.com/track/7Ff17wDVMRzK1MNDjPqdMG) | [shinxyyy](https://open.spotify.com/artist/1AMoIvgZlR9ZatyqU5xCFr) | [wutiwant](https://open.spotify.com/album/5AG6WzqOS3r6QyDzXXPXT5) | 3:13 | 2024-07-29 | 2024-07-31 |
 | [X\-SLIDE](https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4), [808iuli](https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li) | [X\-SLIDE](https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32) | 1:19 | 2024-06-25 | 2024-08-01 |
 | [X\-SLIDE \- Ultra Slowed](https://open.spotify.com/track/0iaa1DkqOki4FFGq3QjGs3) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4), [808iuli](https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li) | [X\-SLIDE](https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32) | 2:06 | 2024-07-24 | 2024-08-01 |
@@ -460,7 +461,7 @@
 | [Киндер Буэно](https://open.spotify.com/track/7J58a9I9w3eP9AQPglNH54) | [Валентин Дядька](https://open.spotify.com/artist/7fOoaMSyYyadyQvnx9SkSN) | [Застольные Психоделические Песни](https://open.spotify.com/album/6X5eJJ6FlSu3VtZjPyXCrm) | 3:12 | 2024-06-18 | 2024-07-11 |
 | [Кис Кис Кис](https://open.spotify.com/track/062l4eq0DRJ28ZeobzF0Lz) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Молитвы\. Анекдоты\. Тосты.](https://open.spotify.com/album/1eE8tgJvckpa4qYLp2L9ox) | 2:42 | 2024-06-12 | 2024-07-07 |
 | [Кисти](https://open.spotify.com/track/3WIWqQMBUBQgmJERv3xTMV) | [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032) | [Кисти](https://open.spotify.com/album/7MknjLHIoWLa3hn4F7S4EE) | 2:51 | 2024-01-29 | 2024-03-19 |
-| [Клитор](https://open.spotify.com/track/4gXLyzyKegOJQDNzmEwr6f) | [Kunteynir](https://open.spotify.com/artist/2r1BEyXsFh0XyxAueAUqmy) | [Основа](https://open.spotify.com/album/0hoxrS6LsBNW5bdVDCdpYh) | 4:20 | 2024-07-10 |  |
+| [Клитор](https://open.spotify.com/track/4gXLyzyKegOJQDNzmEwr6f) | [Kunteynir](https://open.spotify.com/artist/2r1BEyXsFh0XyxAueAUqmy) | [Основа](https://open.spotify.com/album/0hoxrS6LsBNW5bdVDCdpYh) | 4:20 | 2024-07-10 | 2024-08-02 |
 | [Когда мужчина влюблён](https://open.spotify.com/track/3iHTo7EEReOM4EqyEQUAXM) | [МОТ](https://open.spotify.com/artist/6OTMjaRQ9kxdwoPRYTmyOM) | [Когда мужчина влюблён](https://open.spotify.com/album/0rv0tcGwum72daC3LFXz5E) | 3:28 | 2024-03-26 | 2024-04-04 |
 | [Кокоро](https://open.spotify.com/track/1QpOOcfTPwdkJUJShO882a) | [ФРЕНДЗОНА](https://open.spotify.com/artist/1hKtAocjfjS9OpOmI4hmSo), [MAYBE BABY](https://open.spotify.com/artist/2u3ZpvdeLOLg3mIvQg0jZh) | [НЕ РАЗЛЕЙ ВОДА](https://open.spotify.com/album/0C1OoKVwFWz8Vbqjd6mMqf) | 3:59 | 2024-05-26 | 2024-06-18 |
 | [Конец былины](https://open.spotify.com/track/4Gc9yDqN1X49QA0anhiaGU) | [Хор Иоанна Дамаскина](https://open.spotify.com/artist/2xAvHtDaQtOQiyAMbVgevW) | [Се царь вашъ II](https://open.spotify.com/album/0tPFjZZiP4EEc8oN6E9uGR) | 0:56 | 2024-05-25 | 2024-06-02 |
@@ -504,6 +505,7 @@
 | [Нефертити](https://open.spotify.com/track/727kExjEJLlSfeQUnWealQ) | [LIL GNEEFF](https://open.spotify.com/artist/6eUqOwSR5XC5MeKPdxsY1o) | [Нефертити](https://open.spotify.com/album/3AQsIPONxcS2v4MJv82mS9) | 2:09 | 2024-02-12 | 2024-02-26 |
 | [Никаких Больше Вечеринок](https://open.spotify.com/track/4XJ0xSJtI7HKVe3qqoYX5E) | [CREAM SODA](https://open.spotify.com/artist/0QTO0QZDjoyXxRtIgAU4GY) | [Комета](https://open.spotify.com/album/0u6NpdGJSd1zhSqwOqnoFG) | 3:46 | 2024-03-02 | 2024-03-05 |
 | [НИКТО НЕ ХОЧЕТ](https://open.spotify.com/track/6NhKFMtGqQla3vFcV8G6sS) | [Yeschapskii](https://open.spotify.com/artist/1W13KGS3AjN0biizgsLx4v) | [MURDA M](https://open.spotify.com/album/3QIl9zSYTJsbpWDJ8kYGoM) | 1:48 | 2024-05-12 | 2024-07-02 |
+| [Новое Поколение \- Original soundtrack "Новое Поколение"](https://open.spotify.com/track/0wsJZFyklmgeIbmgUN5oap) | [Melham](https://open.spotify.com/artist/5RjmtL9XGp3szwzs2Q6lFq), [MrLololoshka](https://open.spotify.com/artist/00LGlgqNWPB4LWr10elvZA) | [Новое Поколение \(Original soundtrack "Новое Поколение"\)](https://open.spotify.com/album/10m5qY4Gf9s1MDkqDnafv8) | 3:41 | 2024-08-01 |  |
 | [Ночные терзания](https://open.spotify.com/track/3On13rDPSSkkiAaa2bg5NW) | [Mirèle](https://open.spotify.com/artist/62Vu8AC36ARldmNIaJ7f7K) | [Мрак привет](https://open.spotify.com/album/7FPeeW9PuTuhKdp7t4Anpa) | 1:55 | 2024-07-02 | 2024-07-17 |
 | [Одна любовь](https://open.spotify.com/track/7qUItrwcUIBxxCABFHiVJg) | [Basta](https://open.spotify.com/artist/7as5DY4Rz9jac9tgoTrj9H), [Rem Digga](https://open.spotify.com/artist/2R1OELuSJzXjRm8lc8FjPC) | [Баста 4](https://open.spotify.com/album/7qVnseTVo2GGZca0n2RZuq) | 5:27 | 2024-05-12 | 2024-05-19 |
 | [ОЗЕРО В ЛЕСУ](https://open.spotify.com/track/07ydIDymx2ufwWVjPPbFQD) | [SQWOZ BAB](https://open.spotify.com/artist/5U2ISoieRzT6TaqiXumcXl) | [ОЗЕРО В ЛЕСУ](https://open.spotify.com/album/0DxbATyAW4FjQ83GwwRcO8) | 2:40 | 2024-05-21 | 2024-06-07 |

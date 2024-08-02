@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1055432,
+  "num_followers": 1055640,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqgtAAAAAAC1LEmP+AFrQBgykOkccq1c",
+  "snapshot_id": "Zql+gAAAAAD2GQ6HE8ll40hnWtJE9cQj",
   "tracks": [
     {
       "added_at": null,
@@ -767,22 +767,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Saints Are Coming",
-        "url": "https://open.spotify.com/album/3s9hW1Wjsxf2LDyIa9J0il"
+        "name": "Kerplunk!",
+        "url": "https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2"
       },
       "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        },
         {
           "name": "Green Day",
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 202413,
-      "name": "The Saints Are Coming",
-      "url": "https://open.spotify.com/track/2OqCyO684ShnEOqFQieN3Z"
+      "duration_ms": 144626,
+      "name": "2000 Light Years Away",
+      "url": "https://open.spotify.com/track/6pM25DLzJb5oWj74d3ElXI"
     },
     {
       "added_at": null,
@@ -803,18 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kerplunk!",
-        "url": "https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2"
+        "name": "The Saints Are Coming",
+        "url": "https://open.spotify.com/album/3s9hW1Wjsxf2LDyIa9J0il"
       },
       "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        },
         {
           "name": "Green Day",
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 144626,
-      "name": "2000 Light Years Away",
-      "url": "https://open.spotify.com/track/6pM25DLzJb5oWj74d3ElXI"
+      "duration_ms": 202413,
+      "name": "The Saints Are Coming",
+      "url": "https://open.spotify.com/track/2OqCyO684ShnEOqFQieN3Z"
     }
   ],
   "unique_name": "This Is Green Day",

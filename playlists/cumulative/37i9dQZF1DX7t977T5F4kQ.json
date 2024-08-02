@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Small god, Olive the Boy ",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Jay Bahd, O'Kenneth",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -2754,7 +2754,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 183925,
       "name": "Flashy",
       "url": "https://open.spotify.com/track/0PaE3Z35AkWdVFOcOaEVEg"
@@ -2772,7 +2772,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 150545,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/4BaTfcuxdxQwTeqJjqcvRV"
@@ -3473,6 +3473,32 @@
     },
     {
       "album": {
+        "name": "Insecure",
+        "url": "https://open.spotify.com/album/5GgZ3hc7eourjpYAo13Hwp"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Adwoa",
+          "url": "https://open.spotify.com/artist/3eebh3G5QslDo86FSAEuSm"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233383,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/6bA7m0zUC60DAQaL2TjcZp"
+    },
+    {
+      "album": {
         "name": "Inspector",
         "url": "https://open.spotify.com/album/7dAEr14zqfHWsGun1kkVup"
       },
@@ -4140,10 +4166,32 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 194500,
       "name": "Lit",
       "url": "https://open.spotify.com/track/6pEWLO7rqNC2LgqHk2gbCY"
+    },
+    {
+      "album": {
+        "name": "Lomo Lomo",
+        "url": "https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175130,
+      "name": "Lomo Lomo",
+      "url": "https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S"
     },
     {
       "album": {
@@ -7636,6 +7684,24 @@
       "duration_ms": 120000,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6ir2ShLPrZxXgYTtlMxeCN"
+    },
+    {
+      "album": {
+        "name": "Wonda Boy",
+        "url": "https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174349,
+      "name": "Wonda Boy",
+      "url": "https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U"
     },
     {
       "album": {

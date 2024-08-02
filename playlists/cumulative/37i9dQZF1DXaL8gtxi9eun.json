@@ -3449,6 +3449,24 @@
     },
     {
       "album": {
+        "name": "Rouh",
+        "url": "https://open.spotify.com/album/08Rw6H6OHaOcCeAMBKFDlD"
+      },
+      "artists": [
+        {
+          "name": "Moustafa Hagag",
+          "url": "https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174458,
+      "name": "Rouh",
+      "url": "https://open.spotify.com/track/5sIBV8CrFL1NzVEZWu7B6T"
+    },
+    {
+      "album": {
         "name": "Sa'af",
         "url": "https://open.spotify.com/album/1R2gySJizByGXC2rLdVE7X"
       },
@@ -4532,6 +4550,24 @@
       "duration_ms": 117510,
       "name": "Zahra Hala Helwa (Maa Myriam Fares W Asser Yassin)",
       "url": "https://open.spotify.com/track/5ksURzwZba1aZd7LVyU9DL"
+    },
+    {
+      "album": {
+        "name": "ZANN",
+        "url": "https://open.spotify.com/album/5X6rLBXxEMNfl4I1FieiGX"
+      },
+      "artists": [
+        {
+          "name": "Samira Said",
+          "url": "https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176995,
+      "name": "ZANN",
+      "url": "https://open.spotify.com/track/5qFmwvoaeilACAQCYF7OC0"
     },
     {
       "album": {

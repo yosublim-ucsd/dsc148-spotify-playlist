@@ -4,7 +4,7 @@
 
 > Get pumped with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more.
 
-891 songs - 1 day 22 hr 59 min
+892 songs - 1 day 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Can't Find It](https://open.spotify.com/track/0pCAZel2y1R4r7VRSRFCjt) | [Veste](https://open.spotify.com/artist/0J3bkc9cinplW5YbSjTo5O) | [Can't Find It](https://open.spotify.com/album/3Lq9VNKSPjRpkeTSdhTvXe) | 2:44 | 2021-11-06 | 2021-11-12 |
 | [Can't Stop \(Tu Ru Tu\) \(feat\. Norah B.\)](https://open.spotify.com/track/1gQh2VXPhXUdbEgsaHFuNv) | [Möwe](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [3Angle](https://open.spotify.com/artist/71jzi38abx1zs8uXMjCULi), [Norah B.](https://open.spotify.com/artist/2oc7HOF4je0QOUpYZ3Drio) | [Can't Stop \(Tu Ru Tu\) \(feat\. Norah B.\)](https://open.spotify.com/album/3z44F2zSWOSEv3c1YHJcls) | 2:51 | 2020-11-03\* | 2021-01-15 |
 | [Can't Stop Us](https://open.spotify.com/track/1qVj407cpLgP2OxuHkn0aI) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Can't Stop Us](https://open.spotify.com/album/0ktULbw3Dt21ir0WiihNHw) | 4:56 | 2024-03-21 | 2024-07-19 |
-| [Candy](https://open.spotify.com/track/1VJwtWR6z7SpZRwipI12be) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Amala](https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI) | 3:10 | 2024-07-19 |  |
+| [Candy](https://open.spotify.com/track/1VJwtWR6z7SpZRwipI12be) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Amala](https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI) | 3:10 | 2024-07-19 | 2024-08-02 |
 | [Car Keys \(Ayla\)](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Car Keys \(Ayla\)](https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs) | 2:27 | 2023-07-03 | 2023-12-14 |
 | [Catch My Love](https://open.spotify.com/track/0C0LsZeUyAG50xJKEIpBgY) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB), [MOYA](https://open.spotify.com/artist/7EyM0gQyMeaeQzslOFZaCq) | [Catch My Love](https://open.spotify.com/album/3cRcAAVLPSyu1cEt95aDHs) | 2:28 | 2021-10-08 | 2022-05-20 |
 | [Catching A Dream \(Sam Feldt Remix\)](https://open.spotify.com/track/3qBqh2AVvAJCoY3IR3k1jF) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Catching A Dream \(Sam Feldt Remix\)](https://open.spotify.com/album/1VBJpDBrzGUyUmONeP0sDO) | 2:53 | 2022-01-13 | 2022-02-11 |
@@ -616,6 +616,7 @@
 | [Prisoner \(feat\. Dua Lipa\) \- Jax Jones Remix](https://open.spotify.com/track/6B7jm2IJsh3DYXO7RgwVnx) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Prisoner \(feat\. Dua Lipa\) \[Jax Jones Remix\]](https://open.spotify.com/album/0HBmioJcxItnT9WIenDDdd) | 3:46 | 2021-02-06 | 2021-07-04 |
 | [Promises](https://open.spotify.com/track/50YQaQXog18lS11wGCl77u) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Promises](https://open.spotify.com/album/2pNtsyHd2CL7XM6PtwoOyG) | 3:21 | 2021-10-01 | 2022-07-16 |
 | [Promises](https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Promises](https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF) | 3:28 | 2024-02-02 | 2024-07-19 |
+| [Protector](https://open.spotify.com/track/246PeUwGKXRy9Uvl3lQU9U) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Protector](https://open.spotify.com/album/0Lg5U1P4p7c2jjzZStHPkm) | 4:49 | 2024-08-01 |  |
 | [Psycho! \- Topic & B\-Case Remix](https://open.spotify.com/track/2VwRXGDCd0Lr2RxwPc2vm3) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [B\-Case](https://open.spotify.com/artist/1o9x7ez0NvhDb7gBqrYnUj) | [Psycho! \(Topic & B\-Case Remix\)](https://open.spotify.com/album/73eSw2EoLoeDUmSTiLyDSu) | 2:29 | 2020-11-03\* | 2021-02-06 |
 | [Public Demand](https://open.spotify.com/track/4K1QtToqoDgfopYzTrD9KK) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE) | [Public Demand](https://open.spotify.com/album/30ZrywHKsEsrCWagYeyoug) | 2:31 | 2023-12-08 | 2024-02-16 |
 | [Pump The Brakes](https://open.spotify.com/track/553gYUFBUpXSQM8CSZcEhg) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Pump The Brakes](https://open.spotify.com/album/3uOsZZHVaqdfMaZBeGnbYZ) | 3:40 | 2021-03-30 | 2021-07-24 |

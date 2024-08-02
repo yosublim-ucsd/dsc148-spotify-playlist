@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. WARGASM
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. emily jeffri
 
-911 songs - 1 day 19 hr 54 min
+914 songs - 1 day 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -542,6 +542,7 @@
 | [Make a Wish](https://open.spotify.com/track/6DvJYM8BaFEUfFEHpGVZYd) | [User2222](https://open.spotify.com/artist/4qhjS4KuMCen5RzxVe0kaA), [Juniper Fields](https://open.spotify.com/artist/4NA2g2kw5dvuC4R1QXpHWy) | [Make a Wish](https://open.spotify.com/album/0r1f4ObbhkgibClRCo2tDW) | 2:13 | 2023-12-15 | 2024-05-17 |
 | [Make Me Famous](https://open.spotify.com/track/0pOeZhJipQdF3qBiu1LjmC) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Make Me Famous](https://open.spotify.com/album/5xz5TT3z4Ik916eLPcaPr3) | 2:54 | 2022-05-19 | 2022-11-11 |
 | [Mandy](https://open.spotify.com/track/0XXG3I04gjwqU9Q8rxQk8y) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Glitch Princess](https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q) | 2:20 | 2022-02-04 | 2022-02-13 |
+| [MANIAC](https://open.spotify.com/track/4G2GpynFvIC3PJR021p9kQ) | [CRASHFACE](https://open.spotify.com/artist/5KjrHPtIS2XCqs5zZwnydX), [Sam Matlock](https://open.spotify.com/artist/4gjtyfoRJvu8w6L2s7MrYK), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [MANIAC](https://open.spotify.com/album/3ZmmCt7cIgFr0DuEvsb9aJ) | 3:33 | 2024-08-01 |  |
 | [Masochist](https://open.spotify.com/track/4YLqrcnj8weIaJ8YxEvqrf) | [Ren](https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM) | [Sick Boi](https://open.spotify.com/album/1QIlhnFX2vOua9eLXNiUOg) | 3:23 | 2023-10-23 | 2024-02-23 |
 | [Matriarchy](https://open.spotify.com/track/5XdkZGcZQXVeh02w9Hzg8l) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Matriarchy](https://open.spotify.com/album/6HQs8QKzR9XRDiJndWwUjD) | 2:44 | 2023-09-21 | 2024-02-23 |
 | [Maverick](https://open.spotify.com/track/1TxE8yxjFaKPEMpPy7FuLK) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Maverick](https://open.spotify.com/album/5vR3wPXSeLmGQqjcsTcJwQ) | 3:34 | 2024-03-08 |  |
@@ -614,6 +615,7 @@
 | [Nothing Lasts Forever \(with Grimes\)](https://open.spotify.com/track/3g2JWlyUpLgwiLRsIKHM8h) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Nothing Lasts Forever \(with Grimes\)](https://open.spotify.com/album/4QBQzfxBfxVpLnAl91LB74) | 3:19 | 2023-11-10 | 2024-05-24 |
 | [Nuclear Winter](https://open.spotify.com/track/4SEOT5NuzSwpvEhiaYsd0t) | [HVDES](https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq) | [Nuclear Winter](https://open.spotify.com/album/4rPrA4XYWFLx8x3OGNVrn6) | 3:58 | 2024-06-06 |  |
 | [Obsessed \(feat\. Ashley Sienna\) \- Slush Puppy Remix](https://open.spotify.com/track/6hfBfgN4UzqJ2FsqqwwyFw) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi), [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Obsessed \(feat\. Ashley Sienna\) \[Slush Puppy Remix\]](https://open.spotify.com/album/1oafjF0WNExySlSD6LaJXw) | 2:35 | 2024-04-18 |  |
+| [Obsessed \(Grimes DJ Edit\)](https://open.spotify.com/track/3e5zzhT10KW2fRWNmJwBvD) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Obsessed \(Grimes DJ Edit\)](https://open.spotify.com/album/6mVmPcTGpmdk1Gtu7qPtaT) | 4:07 | 2024-08-01 |  |
 | [Off With Their Heads](https://open.spotify.com/track/20vvxC2w3GiRvts2slu2p0) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Off With Their Heads](https://open.spotify.com/album/4BIBmd8fwsIA7yuBPhz8dU) | 3:49 | 2022-12-16 | 2023-06-18 |
 | [Off With Their Heads](https://open.spotify.com/track/2y9eyAKx82PkxWL9ZwWfad) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Off With Their Heads](https://open.spotify.com/album/1xePnRYFD6Lvywbb5fRCU0) | 3:49 | 2023-06-15 | 2023-07-07 |
 | [Offering](https://open.spotify.com/track/4E57AM9ffX8dPZ9STjGw8p) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Hiss Spun](https://open.spotify.com/album/1nnenAgIzIipcodyg879Vx) | 2:49 | 2024-05-28 | 2024-06-07 |
@@ -854,6 +856,7 @@
 | [venom](https://open.spotify.com/track/2sDX7racfnjrWXJLqBLpCn) | [LVRA](https://open.spotify.com/artist/0wnxBYaim46rj6QmaukOcf), [Spent](https://open.spotify.com/artist/4D5DohcRoNQVTWDKb08Iy6) | [venom](https://open.spotify.com/album/77YsFlEg2yaw0qZTSrsPoH) | 3:02 | 2023-02-24 | 2024-03-09 |
 | [Venom](https://open.spotify.com/track/49eBYKKPFUpD8xXAxl29SE) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Venom](https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP) | 3:35 | 2023-11-10 | 2024-04-19 |
 | [Violent](https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Violent](https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1) | 2:15 | 2022-03-31 | 2022-11-11 |
+| [VOICES](https://open.spotify.com/track/0IeHMHKG0yZ5iu3hgwms8f) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [VOICES](https://open.spotify.com/album/0rsYd1AOtCS0sdEou7kYVh) | 2:43 | 2024-08-01 |  |
 | [VULTURES.](https://open.spotify.com/track/60bQWITZcbMHlKkXwmAEeD) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [VULTURES.](https://open.spotify.com/album/6sMu1eI4V6yEeYbtSNfXuT) | 3:23 | 2024-05-16 |  |
 | [wanna luv u](https://open.spotify.com/track/34I9rpFDpvL87DO9JT3ca3) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [wanna luv u](https://open.spotify.com/album/60uDwGVGqjZ5dUHwBy1Pno) | 3:29 | 2021-12-27 | 2022-02-04 |
 | [Wannabe \- Spotify Singles](https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Wannabe \- Spotify Singles](https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW) | 2:32 | 2022-03-11 | 2022-08-05 |

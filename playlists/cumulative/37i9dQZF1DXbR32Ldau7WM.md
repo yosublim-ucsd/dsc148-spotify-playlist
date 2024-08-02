@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now!  Cover: ASIAN KUNG\-FU GENERATION
 
-1,091 songs - 3 day 0 hr 14 min
+1,092 songs - 3 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -547,6 +547,7 @@
 | [Tear Down](https://open.spotify.com/track/2XMkoCqatTSUnpLmyOdQ4Q) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Tear Down](https://open.spotify.com/album/6EfehHNU5IdlduY7lX9QZU) | 3:52 | 2022-08-23 | 2022-08-25 |
 | [The Beginning of the End](https://open.spotify.com/track/4DyNo4QolzSJQbBtZnkRmQ) | [Damian Hamada's Creatures](https://open.spotify.com/artist/5mu3Lpg65rLQhkwqwPLPVe) | [The Beginning of the End](https://open.spotify.com/album/7kZBW9mm5qBkPSIYbkJRCG) | 3:58 | 2023-09-12 | 2023-09-20 |
 | [The Devil In Me](https://open.spotify.com/track/57prMTCyOqhfOs042UrRf2) | [DIR EN GREY](https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA) | [The Devil In Me](https://open.spotify.com/album/3xkbf6N5kOoxqJugkKaShu) | 4:23 | 2024-04-23 | 2024-05-13 |
+| [THE FUTURE DAYBREAK \- \(映画 『仮面ライダーガッチャード ザ・フューチャー・デイブレイク』主題歌\)](https://open.spotify.com/track/7uHGpZqq9UN7g6U6lME03O) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [THE FUTURE DAYBREAK \(映画 『仮面ライダーガッチャード ザ・フューチャー・デイブレイク』主題歌\)](https://open.spotify.com/album/2pApDw9WgFXlwV7AD1qoNS) | 4:14 | 2024-07-30 |  |
 | [The Gong of Knockout](https://open.spotify.com/track/7eITsVSfN8kKAxT35hoKF2) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [HYPERTOUGHNESS](https://open.spotify.com/album/1521QnIsozCLhE19hCwp5M) | 3:30 | 2023-09-26 | 2024-01-04 |
 | [The Good Life](https://open.spotify.com/track/4557IsgjMtoOyFTAtkpHvh) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [The Good Life](https://open.spotify.com/album/4f8XLvx5R7ZhdjyYsV0cE4) | 3:06 | 2024-01-30 | 2024-04-24 |
 | [THE GREAT ESCAPE](https://open.spotify.com/track/529hG2KRGHFeZoVg9fe20G) | [トライセラトップス](https://open.spotify.com/artist/00J5DWQel4eH9qQnDS6qrn) | [THE GREAT ESCAPE](https://open.spotify.com/album/5KXP25lpqzX9MZ7xIG3CBn) | 3:46 | 2022-05-19 | 2022-06-09 |
@@ -1058,7 +1059,7 @@
 | [証 \- A Spring Breath ver.](https://open.spotify.com/track/2NtwiDUuV1NlaS9oh7r1cN) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [A Spring Breath](https://open.spotify.com/album/1r4OmtQDqbrWo5llPSIWue) | 5:32 | 2022-05-31 | 2022-07-23 |
 | [誰我為](https://open.spotify.com/track/3vwgJifwUJHSy7BsvY6puE) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [誰我為](https://open.spotify.com/album/5De5i2XAiq6RXg8UxEZ9Qf) | 4:29 | 2024-05-07 |  |
 | [贈る言葉 \(20周年アニバーサリーバージョン\)](https://open.spotify.com/track/59SliEKc5sEWaJUNOpKAzH) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [贈る言葉 \(20周年アニバーサリーバージョン\)](https://open.spotify.com/album/1o4DJE0sn5wIl878BIw1bT) | 3:09 | 2023-02-07 | 2023-03-22 |
-| [贖罪](https://open.spotify.com/track/5nCNu4qC9WoVK5RLkvNJEL) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [贖罪](https://open.spotify.com/album/7dlmEwKRp2afa4Le7CKQ2f) | 3:57 | 2024-04-23 |  |
+| [贖罪](https://open.spotify.com/track/5nCNu4qC9WoVK5RLkvNJEL) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [贖罪](https://open.spotify.com/album/7dlmEwKRp2afa4Le7CKQ2f) | 3:57 | 2024-04-23 | 2024-08-02 |
 | [赤いタンバリン](https://open.spotify.com/track/4WGr7OwOGQJPuAHJEcH2sh) | [BiS](https://open.spotify.com/artist/686Q2yJDYA5wjFy1PJXjGX) | [BiS DiVE into ROCKS](https://open.spotify.com/album/4qndLQ0EqS02sFkHPP5CRz) | 3:23 | 2022-05-19 | 2022-06-08 |
 | [超メモリアル](https://open.spotify.com/track/3jbFfa2rRHQKMj1rg7KowX) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [超メモリアル](https://open.spotify.com/album/3XKe2Pdxu8DgLOweg6U2xs) | 3:33 | 2024-04-23 | 2024-07-15 |
 | [輝けるもの](https://open.spotify.com/track/5IWsAjExgVuzDZQT2gexuS) | [ACIDMAN](https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn) | [輝けるもの](https://open.spotify.com/album/0DwmAkmFvzWneRDrUZS88j) | 4:20 | 2024-01-04 | 2024-06-29 |

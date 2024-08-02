@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,260 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,281 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 41 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 |
 | 42 | [Según Quién](https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:22 |
 | 43 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 |
-| 44 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
-| 45 | [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 |
+| 44 | [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 |
+| 45 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
 | 46 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
 | 47 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 | 48 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 86 | [La tine și la bani \- From "Romina VTM" The Movie](https://open.spotify.com/track/2BsJFgVnk4FYTyzyovwQ5A) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9), [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [La tine și la bani \(From "Romina VTM" The Movie\)](https://open.spotify.com/album/2vrlJUckJYEYRdtHR7gLTE) | 2:25 |
 | 87 | [Taramul interzis](https://open.spotify.com/track/1wAfxPzDicgCr70eTTY1Lr) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Taramul interzis](https://open.spotify.com/album/5CqQHsNVSPFpkBGCAwh4Ud) | 2:50 |
 | 88 | [Paharul sus](https://open.spotify.com/track/5QWOtb0L5IYT8w4rMtmVZh) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE) | [Paharul sus](https://open.spotify.com/album/7bzdS7NDvKKveYuARtUx2Z) | 2:49 |
-| 89 | [Sistem Otoman](https://open.spotify.com/track/0FXdKliEXDHnIDnCqJu3Xa) | [Tony One](https://open.spotify.com/artist/4GnbmF7PWjbWCIPjkTCLgT), [Costel Biju](https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY) | [Sistem Otoman](https://open.spotify.com/album/7dFahz8soEhpAKNP5lkq1e) | 2:43 |
-| 90 | [ZODIAC](https://open.spotify.com/track/2uJnvTPC2FPmEGt9rgr003) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [BITTNER](https://open.spotify.com/artist/0vWnEKLANNWb7QEqdRg5K3) | [ZODIAC](https://open.spotify.com/album/13rtFvvqeMf1YytUsuZhlN) | 3:16 |
+| 89 | [ZODIAC](https://open.spotify.com/track/2uJnvTPC2FPmEGt9rgr003) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [BITTNER](https://open.spotify.com/artist/0vWnEKLANNWb7QEqdRg5K3) | [ZODIAC](https://open.spotify.com/album/13rtFvvqeMf1YytUsuZhlN) | 3:16 |
+| 90 | [Sistem Otoman](https://open.spotify.com/track/0FXdKliEXDHnIDnCqJu3Xa) | [Tony One](https://open.spotify.com/artist/4GnbmF7PWjbWCIPjkTCLgT), [Costel Biju](https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY) | [Sistem Otoman](https://open.spotify.com/album/7dFahz8soEhpAKNP5lkq1e) | 2:43 |
 | 91 | [Totul meu](https://open.spotify.com/track/7rKpQsXelc2Q9EOvllyKWp) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo), [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Totul meu](https://open.spotify.com/album/5GyH4MjNEXW8WpTvBJGws7) | 2:24 |
 | 92 | [HOT \- From Miami Bici 2 The Movie](https://open.spotify.com/track/03Lzl2Twhog0E0JKj4f1zE) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Andrei G](https://open.spotify.com/artist/5WXXT0hYK8tf9uGh0UYwDO), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [HOT \(From Miami Bici 2 The Movie\)](https://open.spotify.com/album/0LxezMVWpLVvfGEV79DXIW) | 2:50 |
 | 93 | [Amore](https://open.spotify.com/track/78Qu2ibWMLEx4M7hlESf3w) | [Iuly Neamtu](https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Amore](https://open.spotify.com/album/7l4nAOqwA7tHCQ7qdJtAR9) | 2:38 |

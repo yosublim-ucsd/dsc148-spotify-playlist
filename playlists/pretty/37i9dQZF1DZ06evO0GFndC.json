@@ -1,12 +1,12 @@
 {
-  "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 54440,
+  "description": "This Is Grupo Los de la O. Los temas esenciales, todos en una lista.",
+  "num_followers": 54452,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqgtAAAAAACYmeSQOeB3aG0w/p1cfUhw",
+  "snapshot_id": "Zql+gAAAAAC/5bjmmKJ8d8zYe+0fG+Jw",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 171808,
-      "name": "Sacando Cuentas",
-      "url": "https://open.spotify.com/track/77YlSpnsy6SoUABVTGcghD"
+      "duration_ms": 165930,
+      "name": "Por Extra\u00f1arte",
+      "url": "https://open.spotify.com/track/25Mzk9mO2Dumb2PLzVpWjr"
     },
     {
       "added_at": null,
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 165930,
-      "name": "Por Extra\u00f1arte",
-      "url": "https://open.spotify.com/track/25Mzk9mO2Dumb2PLzVpWjr"
+      "duration_ms": 171808,
+      "name": "Sacando Cuentas",
+      "url": "https://open.spotify.com/track/77YlSpnsy6SoUABVTGcghD"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. YoSoyMatt en portada.",
-  "num_followers": 58240,
+  "num_followers": 58251,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
+        "name": "EVOLUXION",
+        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 145165,
+      "name": "HOUSE OF LUX 2",
+      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
         "name": "Bien Loco",
         "url": "https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 169062,
       "name": "Bien Loco",
       "url": "https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "EVOLUXION",
-        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 145165,
-      "name": "HOUSE OF LUX 2",
-      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "ADICTO",
-        "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "ADICTO",
-      "url": "https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "Tomala (Se Mueve Se Siente)",
         "url": "https://open.spotify.com/album/6Tk01gOTdEwBSvsHdm9Ld2"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 160600,
       "name": "Tomala (Se Mueve Se Siente)",
       "url": "https://open.spotify.com/track/37VEY7FABybvLFg9iYE3LY"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "ADICTO",
+        "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "ADICTO",
+      "url": "https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -923,22 +923,22 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Su Majestad La Eternidad (C\u00f3dex F\u00e9nix Rework)",
-        "url": "https://open.spotify.com/album/6eNV8XRDWeWfYiWNLmgPko"
+        "name": "DIOSA </3",
+        "url": "https://open.spotify.com/album/0VLnBu9H8pdKpHfCEHFQFw"
       },
       "artists": [
         {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+          "name": "Nuvia",
+          "url": "https://open.spotify.com/artist/3HiSZSqHOEC9RkeDbpVMGJ"
         },
         {
-          "name": "C\u00f3dex F\u00e9nix",
-          "url": "https://open.spotify.com/artist/0Z2QCuPFA3x3OoH20obELy"
+          "name": "Rodezel",
+          "url": "https://open.spotify.com/artist/6YPJT86SRYIhlWemoNEJ6x"
         }
       ],
-      "duration_ms": 254386,
-      "name": "Su Majestad La Eternidad - C\u00f3dex F\u00e9nix Rework",
-      "url": "https://open.spotify.com/track/5rfmTvAbeyUMLZKByrCYxC"
+      "duration_ms": 164129,
+      "name": "DIOSA </3",
+      "url": "https://open.spotify.com/track/44kPAikTwJ71hKtsy8zSZN"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -959,22 +959,22 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "DIOSA </3",
-        "url": "https://open.spotify.com/album/0VLnBu9H8pdKpHfCEHFQFw"
+        "name": "Su Majestad La Eternidad (C\u00f3dex F\u00e9nix Rework)",
+        "url": "https://open.spotify.com/album/6eNV8XRDWeWfYiWNLmgPko"
       },
       "artists": [
         {
-          "name": "Nuvia",
-          "url": "https://open.spotify.com/artist/3HiSZSqHOEC9RkeDbpVMGJ"
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
         },
         {
-          "name": "Rodezel",
-          "url": "https://open.spotify.com/artist/6YPJT86SRYIhlWemoNEJ6x"
+          "name": "C\u00f3dex F\u00e9nix",
+          "url": "https://open.spotify.com/artist/0Z2QCuPFA3x3OoH20obELy"
         }
       ],
-      "duration_ms": 164129,
-      "name": "DIOSA </3",
-      "url": "https://open.spotify.com/track/44kPAikTwJ71hKtsy8zSZN"
+      "duration_ms": 254386,
+      "name": "Su Majestad La Eternidad - C\u00f3dex F\u00e9nix Rework",
+      "url": "https://open.spotify.com/track/5rfmTvAbeyUMLZKByrCYxC"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
+        "name": "Rebote",
+        "url": "https://open.spotify.com/album/3MsAsDJ26pdQFdSusFhS7M"
+      },
+      "artists": [
+        {
+          "name": "Brain Hunters",
+          "url": "https://open.spotify.com/artist/1TqRKzGMmqXmrp4qu8Dfl1"
+        },
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        }
+      ],
+      "duration_ms": 148400,
+      "name": "Rebote",
+      "url": "https://open.spotify.com/track/2aA7KDe4PfgrJ0f3mbA3UH"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
         "name": "SIN MIRAR (Midnight Generation Remix)",
         "url": "https://open.spotify.com/album/5SOIjOz7nVuNsix1KXBylg"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 155600,
       "name": "BOOM SHAKALAKA",
       "url": "https://open.spotify.com/track/338eFwIdnFk4CXln3Fp8XE"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "Rebote",
-        "url": "https://open.spotify.com/album/3MsAsDJ26pdQFdSusFhS7M"
-      },
-      "artists": [
-        {
-          "name": "Brain Hunters",
-          "url": "https://open.spotify.com/artist/1TqRKzGMmqXmrp4qu8Dfl1"
-        },
-        {
-          "name": "El Pinche Mara",
-          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
-        }
-      ],
-      "duration_ms": 148400,
-      "name": "Rebote",
-      "url": "https://open.spotify.com/track/2aA7KDe4PfgrJ0f3mbA3UH"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
+        "name": "CONTACTO CERO",
+        "url": "https://open.spotify.com/album/4KFLmLBQURkxyttCbReLFT"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "CONTACTO CERO",
+      "url": "https://open.spotify.com/track/5kBYUqRt6XO3cvDfTs80yH"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
         "name": "Storm",
         "url": "https://open.spotify.com/album/7LfAtfT3rsZSSV28Us4KRz"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 193955,
       "name": "Storm",
       "url": "https://open.spotify.com/track/4AkIdFbQ03lYvkj5MD61vH"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "CONTACTO CERO",
-        "url": "https://open.spotify.com/album/4KFLmLBQURkxyttCbReLFT"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "CONTACTO CERO",
-      "url": "https://open.spotify.com/track/5kBYUqRt6XO3cvDfTs80yH"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1519,6 +1519,26 @@
       "duration_ms": 204213,
       "name": "Ibiza",
       "url": "https://open.spotify.com/track/3VK6cgdLWEBP7ZMxQJnhRX"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Jackson City (Macross 82-99 Remix)",
+        "url": "https://open.spotify.com/album/79RrrhmD3nxwzefBiBTiCs"
+      },
+      "artists": [
+        {
+          "name": "Teenage Bad Girl",
+          "url": "https://open.spotify.com/artist/6sD3igMnVxPgbmwistAoBb"
+        },
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+        }
+      ],
+      "duration_ms": 176563,
+      "name": "Jackson City - Macross 82-99 Remix",
+      "url": "https://open.spotify.com/track/58eIfQi2LcoH0bFeizkVww"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1631,22 +1651,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Amanece",
-        "url": "https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8"
-      },
-      "artists": [
-        {
-          "name": "Plano",
-          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
-        }
-      ],
-      "duration_ms": 332560,
-      "name": "Amanece",
-      "url": "https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "Mr.Pig",
         "url": "https://open.spotify.com/album/6kiD6iS7MAcG9MjCpmUfUa"
       },
@@ -1679,22 +1683,18 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Jackson City (Macross 82-99 Remix)",
-        "url": "https://open.spotify.com/album/79RrrhmD3nxwzefBiBTiCs"
+        "name": "Amanece",
+        "url": "https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8"
       },
       "artists": [
         {
-          "name": "Teenage Bad Girl",
-          "url": "https://open.spotify.com/artist/6sD3igMnVxPgbmwistAoBb"
-        },
-        {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+          "name": "Plano",
+          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
         }
       ],
-      "duration_ms": 176563,
-      "name": "Jackson City - Macross 82-99 Remix",
-      "url": "https://open.spotify.com/track/58eIfQi2LcoH0bFeizkVww"
+      "duration_ms": 332560,
+      "name": "Amanece",
+      "url": "https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1771,6 +1771,34 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
+        "name": "\u00a1Bang Bang!",
+        "url": "https://open.spotify.com/album/5DwaVHb22Cf0iI4eVhloH1"
+      },
+      "artists": [
+        {
+          "name": "Garena Free Fire",
+          "url": "https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt"
+        },
+        {
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        },
+        {
+          "name": "Barovier",
+          "url": "https://open.spotify.com/artist/4R1nd0QT6rtLh6KKWKXeQh"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "\u00a1Bang Bang!",
+      "url": "https://open.spotify.com/track/3jporpDKD12uIni94rIOjh"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
         "name": "B\u00e9same Mucho",
         "url": "https://open.spotify.com/album/6f5d9SlIVytpz5eIgH6PaJ"
       },
@@ -1783,22 +1811,6 @@
       "duration_ms": 151680,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/6OMiBOznxQaUbNUWGWrvFv"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "Up & Down",
-        "url": "https://open.spotify.com/album/7gjjiVVsuez0UMZpu6LlnJ"
-      },
-      "artists": [
-        {
-          "name": "Chela Rivas",
-          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Up & Down",
-      "url": "https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7"
     },
     {
       "added_at": "2024-07-26 06:00:00",

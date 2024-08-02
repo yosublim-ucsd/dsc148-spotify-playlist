@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Nenny
 
-631 songs - 1 day 9 hr 36 min
+632 songs - 1 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [CorDaPele](https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [CorDaPele](https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA) | 2:58 | 2023-10-05 |  |
 | [Cores](https://open.spotify.com/track/4dbrAqUbdbzDXHYr9rZTSr) | [CHEWIE](https://open.spotify.com/artist/5BLBxwhH9IhY42OAnGrIIR) | [louCura](https://open.spotify.com/album/6F22sVVv1nFGeQUEbndBev) | 3:26 | 2024-03-15 | 2024-04-12 |
 | [Corre](https://open.spotify.com/track/3B0kyiBOoB8DEwnuYnlk3y) | [Osémio Boémio](https://open.spotify.com/artist/1ESj85JsWWKJuWrYo1eJfx), [R7ALNESS](https://open.spotify.com/artist/5e2E68RwtTs37jHS3mZ885) | [Corre](https://open.spotify.com/album/7ea5899z7Ij1HuoNO5r5Sq) | 3:05 | 2024-01-12 | 2024-02-16 |
-| [Credo](https://open.spotify.com/track/5QRdKPh18pJHdlIRjqEr8d) | [João Maia Ferreira](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [Credo](https://open.spotify.com/album/6QKiftBhtPna757ems3oE2) | 3:35 | 2024-06-20 |  |
+| [Credo](https://open.spotify.com/track/5QRdKPh18pJHdlIRjqEr8d) | [João Maia Ferreira](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [Credo](https://open.spotify.com/album/6QKiftBhtPna757ems3oE2) | 3:35 | 2024-06-20 | 2024-08-02 |
 | [Crime Scene](https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Crime Scene](https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7) | 2:58 | 2023-06-15 | 2023-09-15 |
 | [Culpa Do Álcool](https://open.spotify.com/track/1GAy3MLjR2Nlhdr1Z4iQb0) | [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Culpa Do Álcool](https://open.spotify.com/album/0vnNwTitOdyUljMkE1qUPW) | 2:13 | 2023-04-13 | 2023-05-26 |
 | [Cupid](https://open.spotify.com/track/23WXbyhKyMT8dowZx3Bu7I) | [King Cizzy](https://open.spotify.com/artist/3ZTBddrm597Yp0BM5aLLUN) | [Cupid](https://open.spotify.com/album/4MUjU07dZASo1tDM1MDGY6) | 2:56 | 2022-12-23 | 2023-01-21 |
@@ -424,7 +424,7 @@
 | [On](https://open.spotify.com/track/2JObCqRoZnh3wr3BLmAGix) | [MeLodee](https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj) | [On](https://open.spotify.com/album/2g5xGxyYo9RnLPvcm2nyI0) | 3:29 | 2023-11-10 | 2023-12-09 |
 | [On My Mind](https://open.spotify.com/track/1ihz7Lhk9M5IjKJN4Ofz0A) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Rosa Negra](https://open.spotify.com/album/3E8EybslEXDt6Yl1oxSI9C) | 2:27 | 2023-05-11 | 2023-06-23 |
 | [OQCQZR](https://open.spotify.com/track/5y2ZiYQjzY0dpWPYctp72c) | [Mvza](https://open.spotify.com/artist/4XVI8cWzKF53dOj2QE0z2O), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [OQCQZR](https://open.spotify.com/album/6MAMENT38JHlex9qNufnYI) | 3:02 | 2023-03-01 | 2023-05-12 |
-| [Orgulho](https://open.spotify.com/track/76dnUs1YTIIGCUBiTWIbY4) | [Dream Boyz](https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf), [Dji Tafinha](https://open.spotify.com/artist/3VGB73iYdHZ7T3jjgucrYS) | [Orgulho](https://open.spotify.com/album/2pv6xhnEH7N71mcgMkp7wX) | 4:24 | 2024-04-05 |  |
+| [Orgulho](https://open.spotify.com/track/76dnUs1YTIIGCUBiTWIbY4) | [Dream Boyz](https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf), [Dji Tafinha](https://open.spotify.com/artist/3VGB73iYdHZ7T3jjgucrYS) | [Orgulho](https://open.spotify.com/album/2pv6xhnEH7N71mcgMkp7wX) | 4:24 | 2024-04-05 | 2024-08-02 |
 | [osciLAR](https://open.spotify.com/track/4LKpP7kf74byC2i25NThVS) | [Santos, Só](https://open.spotify.com/artist/1o2g31CSRtHMGcma7TneY0) | [osciLAR](https://open.spotify.com/album/58GajZ2rwYs38CFECnDfHr) | 4:05 | 2024-03-29 | 2024-06-21 |
 | [Outono](https://open.spotify.com/track/01DyRyMOPecrfZdVZQvdqJ) | [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE), [Djenga](https://open.spotify.com/artist/2eMReurbaZ9DrN632vlbae) | [Outono](https://open.spotify.com/album/7FfkXkOVmdEDVp9Y6hWIn7) | 3:56 | 2023-04-20 | 2023-05-12 |
 | [Outra X](https://open.spotify.com/track/2cvVTn6IZQH2CtJNRNIH7b) | [Lil Noon](https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs) | [2](https://open.spotify.com/album/0MkqOHbny4RkabeHsIaVsp) | 3:26 | 2022-09-08 | 2022-09-30 |
@@ -548,6 +548,7 @@
 | [Stay True](https://open.spotify.com/track/51Pa0Kou3atuQNQNVwufHE) | [Ghost Wayne](https://open.spotify.com/artist/6fm87lblu89jZKJyMoHxxL), [Balrook](https://open.spotify.com/artist/29SPeuUhgygvAW2tii5u5P) | [Stay True](https://open.spotify.com/album/5Sy11xHYriz6bJwG4u3leY) | 3:05 | 2024-02-02 | 2024-02-23 |
 | [Steppa](https://open.spotify.com/track/57pwN4FfZlab3sSf3rSG4O) | [DREYA](https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38) | [Steppa](https://open.spotify.com/album/2sfhXcCFx07eM0QTl4prDT) | 2:10 | 2023-06-29 | 2023-07-21 |
 | [Strong](https://open.spotify.com/track/2dARaDpOpZxdbVl8a04HeQ) | [Mestre](https://open.spotify.com/artist/3hNGSam0MYXklimc6rnr2V) | [Strong](https://open.spotify.com/album/5B12LN9K4OVikdcEtCvfIg) | 3:08 | 2023-12-08 | 2024-01-13 |
+| [SUMMERTIME](https://open.spotify.com/track/1ON78L2WpCk0n9MgCIhnRH) | [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU) | [SUMMERTIME](https://open.spotify.com/album/3IxfUHkb11lYNwnOMTJbz1) | 3:08 | 2024-08-01 |  |
 | [Sunshine](https://open.spotify.com/track/2dgunBZKBMIqIlDrh2J6BQ) | [Rafaell Dior](https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla), [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po) | [Sunshine](https://open.spotify.com/album/07yJAIW3r5qw7vLj7iIAIl) | 2:46 | 2023-03-24 | 2023-05-12 |
 | [Suzana](https://open.spotify.com/track/7jan2eOiDAjoaQkwbnxkbS) | [Dj Helio Baiano](https://open.spotify.com/artist/33aeOKnSKPNGbyVH78vHPH), [Tio Edson](https://open.spotify.com/artist/168mcXORIjYn3eugUKAgu2), [Samuel Clássico](https://open.spotify.com/artist/6TcXjoEQqRNidRkjhn467n), [Addy Buxexa](https://open.spotify.com/artist/6HJQeq0cUFeMKrSTiJn1GP) | [Suzana](https://open.spotify.com/album/1DUDfVee537gZGjf4PhJjv) | 3:38 | 2023-05-11 | 2023-06-09 |
 | [São Paulo](https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn) | [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [São Paulo](https://open.spotify.com/album/199XPsDPVUoBXzfHlhl6b7) | 3:53 | 2022-07-07 | 2023-03-18 |
@@ -634,7 +635,7 @@
 | [À Tua Porta](https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [À Tua Porta](https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8) | 3:31 | 2023-12-08 |  |
 | [Às Vezes](https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5) | [Sien Flamuri](https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD), [mizt](https://open.spotify.com/artist/7dStrat5aeOH4dIBqaSOuc) | [Às Vezes](https://open.spotify.com/album/56Vhx9aOcc0uV7Evsrj0p3) | 2:43 | 2023-06-01 | 2023-07-21 |
 | [Água](https://open.spotify.com/track/3kvG5Ykd722HWn6YzM4NFl) | [Mariana Norton](https://open.spotify.com/artist/7BSpO7wslykpYhNpwRbDTV) | [Água](https://open.spotify.com/album/6iuDbW62zv4KWGVYp9IBDc) | 3:27 | 2023-05-18 | 2023-06-09 |
-| [Água e Sal](https://open.spotify.com/track/1cFG1haTcSOeqnUE05NtCz) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Água e Sal](https://open.spotify.com/album/1QJWwv9rm3mcBDJBuKO0uS) | 2:33 | 2024-05-30 | 2024-07-29 |
+| [Água e Sal](https://open.spotify.com/track/1cFG1haTcSOeqnUE05NtCz) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Água e Sal](https://open.spotify.com/album/1QJWwv9rm3mcBDJBuKO0uS) | 2:33 | 2024-05-30 |  |
 | [ângulo morto](https://open.spotify.com/track/4SeMRBstr9y1QUuzHFBVp1) | [E.Se](https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l) | [ângulo morto](https://open.spotify.com/album/6rVLA2QZ4ZyOIMXt7riQiT) | 2:28 | 2024-04-18 | 2024-06-11 |
 | [É Mentira](https://open.spotify.com/track/6KWiHp8QbDcQyfye1ogCmx) | [Easy B](https://open.spotify.com/artist/3AgMg0N4qAog29ZoOYKZlP), [MIRZA Lauchand](https://open.spotify.com/artist/2V7xK1JcbZfn0IoTHnbiVl), [YINIH](https://open.spotify.com/artist/218uXP6ZurBAD9YqXcejmL) | [É Mentira](https://open.spotify.com/album/1NkAJNMwY4fr5Z8mHZJDlD) | 4:04 | 2024-05-02 | 2024-06-14 |
 | [Última Chance](https://open.spotify.com/track/6zCBcd3eIbyjiz2f0IyQgi) | [Cabo](https://open.spotify.com/artist/1qdZozQ0iarVm0ezFEHGex) | [Ansiedade & Paranóias](https://open.spotify.com/album/62QwzAOPcbroYvq9CDpcP8) | 3:48 | 2023-03-03 | 2023-03-31 |

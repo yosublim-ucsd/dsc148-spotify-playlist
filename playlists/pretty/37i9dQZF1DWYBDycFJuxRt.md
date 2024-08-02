@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: BUMP OF CHICKEN \*👉 <a href="https://spice.eplus.jp/articles/330796?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,807 likes - 89 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,818 likes - 89 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 65 | [Paradise Forever](https://open.spotify.com/track/3uOLzqlQhPqlgLJJxDJ7kD) | [Manatsu Nagahara](https://open.spotify.com/artist/7eiPZxPx3fflpweXb8NbnJ) | [Paradise Forever](https://open.spotify.com/album/34xVl32E3CiI11lzqO6cH2) | 3:58 |
 | 66 | [tell me](https://open.spotify.com/track/1OBKIhABzeaZ24PDjBfUAD) | [高井息吹](https://open.spotify.com/artist/7zfwhvxWePJ4CqKqkbndML) | [金星の声](https://open.spotify.com/album/27lKCDOkBoZ273qWt0U10X) | 3:55 |
 | 67 | [Tipsy](https://open.spotify.com/track/1HenxbVWHGMvIGuJof2mDv) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Tipsy](https://open.spotify.com/album/2r6SaFd7UWBJbXMHErocfF) | 3:50 |
-| 68 | [ON FIRE](https://open.spotify.com/track/3jq0vkAI4I78h1dllnOFfU) | [TAKUMI](https://open.spotify.com/artist/4WoHWcWvbQSg7fW9zfHPys) | [ON FIRE](https://open.spotify.com/album/0S4HyybLx2zvHDsfPS2Cbl) | 3:10 |
+| 68 | [ON FIRE](https://open.spotify.com/track/3jq0vkAI4I78h1dllnOFfU) | [TAKUMI](https://open.spotify.com/artist/4WoHWcWvbQSg7fW9zfHPys) | [ON FIRE](https://open.spotify.com/album/0S4HyybLx2zvHDsfPS2Cbl) | 3:12 |
 | 69 | [渚](https://open.spotify.com/track/4tSJfQosT5D2KlzhtIJzmB) | [Simmer Pine](https://open.spotify.com/artist/1aBq93WwCvNTicXVQ7B9vA) | [Recipe](https://open.spotify.com/album/47RmvUJTXC3QRzpiDN8MiF) | 3:35 |
 | 70 | [Big Time](https://open.spotify.com/track/2HYk48orNTSJ8HD5fwRUis) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Big Time](https://open.spotify.com/album/6DkQTJbcWwmwLxfVpqiACv) | 3:46 |
 | 71 | [Kid Blue](https://open.spotify.com/track/57vIAKd39ZR9My3ow9Jwud) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [D.](https://open.spotify.com/album/5DNgFlwjC6lYq7bJIyaa52) | 3:48 |

@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: HAPPY LANDING
 
-1,329 songs - 3 day 7 hr 18 min
+1,330 songs - 3 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [bones](https://open.spotify.com/track/3R1XFAXaIIcYnVRfyiFyXM) | [Marieke](https://open.spotify.com/artist/0cx6QwyhzKOmerceWhkMDw) | [rabbit's foot](https://open.spotify.com/album/1dvPypZqQGE41acoVawX3h) | 4:06 | 2023-09-20 | 2023-11-11 |
 | [bonsoir](https://open.spotify.com/track/1BkQFNXjuEuzusFRPrLjC6) | [caaaaseyyyy](https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c) | [bonsoir](https://open.spotify.com/album/0aXaessdrfjYNyESOdzLvs) | 3:40 | 2023-07-26 | 2023-09-28 |
 | [borderline](https://open.spotify.com/track/5p24bN6IbEp2tZAw33Jqdr) | [summersets](https://open.spotify.com/artist/56UCNajlvDjMgHedDlPr6v) | [borderline](https://open.spotify.com/album/4gxTBjHOhFBivLhZ9Y4SZG) | 4:22 | 2023-05-17 | 2023-07-27 |
+| [Born](https://open.spotify.com/track/7HSc82EnQsKm6xM654eQri) | [Noum](https://open.spotify.com/artist/28j3pb4XKdlLKDAmzlSQ3u) | [Born](https://open.spotify.com/album/3Sn9KneXH0AXOJJUghcsZY) | 5:09 | 2024-08-01 |  |
 | [Boston to Barcelona](https://open.spotify.com/track/1QWHxkVQZMpU4FbpyrK8xb) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Boston to Barcelona](https://open.spotify.com/album/77mixNo8Bg0QqkMDdM5Ict) | 2:56 | 2024-02-28 | 2024-05-09 |
 | [Bougainvillea](https://open.spotify.com/track/50lXZ3kWklo1mT48aXbj4A) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Long Is The Tunnel](https://open.spotify.com/album/4jdazNCLxmTYP9Ip1qbR3e) | 3:01 | 2023-11-15 | 2023-12-11 |
 | [Boy](https://open.spotify.com/track/6kqXxozMFndOsIYelpqQTi) | [Misty Miller](https://open.spotify.com/artist/2O4XS2arv9HMIKQUfl8LKU) | [Boy](https://open.spotify.com/album/228yVHAjjh3m59778IYHIQ) | 2:41 | 2022-05-25 | 2022-09-15 |

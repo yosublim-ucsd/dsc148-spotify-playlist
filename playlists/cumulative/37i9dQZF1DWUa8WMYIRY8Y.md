@@ -2,9 +2,9 @@
 
 ### [Hot Alternative](https://open.spotify.com/playlist/37i9dQZF1DWUa8WMYIRY8Y)
 
-> Les meilleurs morceaux alternatifs du moment\. Photo : Fat Dog
+> Les meilleurs morceaux alternatifs du moment\. Photo : Hozier
 
-265 songs - 15 hr 59 min
+268 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [alife](https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 4:33 | 2023-09-28 | 2023-11-03 |
 | [All I've Heard \- Single Edit](https://open.spotify.com/track/3QcyheDyLa6SZrIOpZbwIF) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [All I've Heard](https://open.spotify.com/album/6mCrD0zcwI58rwB8CRbT5z) | 3:19 | 2024-06-06 |  |
 | [All Kinds Of People](https://open.spotify.com/track/5dOkvWdlRlKYvhM3MkD2Ai) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [All Kinds Of People](https://open.spotify.com/album/1qrfKDFYVsll4mThf6pxqJ) | 2:47 | 2024-07-04 | 2024-07-27 |
+| [All Strings Attached](https://open.spotify.com/track/4ghQwuaV14Xgiz5t4Vmq8G) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [All Strings Attached](https://open.spotify.com/album/01PcHLGJAQrbXuaoqa7fOX) | 2:55 | 2024-08-01 |  |
 | [All The Same](https://open.spotify.com/track/6gRfg5GBGJukXcYWm9Wpwl) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [All The Same](https://open.spotify.com/album/2vUQi2E2j9QTU8NSRWxSjt) | 2:55 | 2024-01-11 | 2024-01-19 |
 | [Another good year for the roses](https://open.spotify.com/track/1YoOb9usnbDLSAACSSCwzP) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Another good year for the roses](https://open.spotify.com/album/56qRporNZTzZiqwfJaEsV0) | 5:34 | 2023-10-19 | 2023-12-22 |
 | [Another Victim](https://open.spotify.com/track/2QxdR5kas7UBRzKDjNz3zA) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [Another Victim](https://open.spotify.com/album/6fdeB3pBnXfZrLimBZGpBT) | 3:52 | 2023-09-28 | 2023-11-03 |
@@ -76,7 +77,7 @@
 | [Exits Blocked](https://open.spotify.com/track/6ZjQr2u2refwSwIE1Y2FFQ) | [Pile](https://open.spotify.com/artist/44pUNjqg4mExLyFHnB3Bqf) | [Hot Air Balloon EP](https://open.spotify.com/album/6FQhPhyUfZcfqvjeGd4lhC) | 3:29 | 2024-01-04 | 2024-03-08 |
 | [Fairlies](https://open.spotify.com/track/5GxHieECgT7L3Uo92HHUef) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [Chaos For The Fly](https://open.spotify.com/album/0lYFv5JDwH0NwiufmU4GKj) | 4:10 | 2023-09-28 | 2024-02-23 |
 | [Faraway](https://open.spotify.com/track/0pgUhVXiLkbnmyRPBrk3A3) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [Faraway](https://open.spotify.com/album/4X90ucwF3x1z3eTinhK4w4) | 5:08 | 2024-01-04 | 2024-03-08 |
-| [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 | 2024-06-20 |  |
+| [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 | 2024-06-20 | 2024-08-02 |
 | [Favourite Songs](https://open.spotify.com/track/6HRQ8K09zFUODljpu7lhn6) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Favourite Songs](https://open.spotify.com/album/32ha5xa9acLnslj6OpYcJ9) | 3:34 | 2024-03-28 | 2024-05-17 |
 | [Feel Alive](https://open.spotify.com/track/20dwwr5VsKtjOmPBSeIdxm) | [Couch Sleepers](https://open.spotify.com/artist/54VlMlovDgwy2Dod8XTOYw) | [Feel Alive](https://open.spotify.com/album/7AcGQ0oCQfX55vHDU9VmCj) | 2:51 | 2024-02-15 | 2024-05-24 |
 | [Feel Too Much](https://open.spotify.com/track/2WTtuIp7Yhg85P2SYPGD6r) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [CWK EP](https://open.spotify.com/album/2xbIzFOBD0L80ARB5GifJw) | 2:48 | 2024-04-25 | 2024-07-27 |
@@ -114,6 +115,7 @@
 | [I Don't Remember](https://open.spotify.com/track/14ZOrTzkLV7rfTsdFiBqXj) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [I Don't Remember](https://open.spotify.com/album/1CPbjSbGXKqOzIgj3BBj62) | 3:57 | 2023-11-30 | 2024-01-26 |
 | [I Love You](https://open.spotify.com/track/4N8idxy0W2GDaEosAwPOMg) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S) | 5:05 | 2023-12-21 | 2024-04-19 |
 | [I Want To Be Your Only Pet](https://open.spotify.com/track/1J5JzMOAuxoiGYI3Irn2St) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Want To Be Your Only Pet](https://open.spotify.com/album/5JN324RyeAPDTbRDkn5KRW) | 3:34 | 2023-09-28 | 2023-10-13 |
+| [I Wish I Never Loved You](https://open.spotify.com/track/349kMKxDtv5bkXPoWQTi4S) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [I Wish I Never Loved You](https://open.spotify.com/album/51JOrvXnoXJHBNBgHlntJA) | 3:43 | 2024-08-01 |  |
 | [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 3:52 | 2023-10-26 | 2023-12-08 |
 | [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2mwdClCBtt5ijoMezEwTKT) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Ice Cream \(Pay Phone\)](https://open.spotify.com/album/059aeGSZXUX00gckaJQMyI) | 3:52 | 2023-10-26 | 2023-10-30 |
 | [If I Could](https://open.spotify.com/track/2alNQB6dlVQdoNdUAVqPoy) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [If I Could](https://open.spotify.com/album/0CpMEOHxuYkOP3Z9TTsdqO) | 2:53 | 2024-02-15 | 2024-05-17 |
@@ -138,6 +140,7 @@
 | [Love You More Than Me](https://open.spotify.com/track/2lvCkBDLgP78jDpkdECtVF) | [Caesaria](https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3) | [Tonight Will Only Make Me Love You More](https://open.spotify.com/album/5haVnhy9tSNpJ17P63Ql4J) | 3:27 | 2024-05-16 | 2024-06-01 |
 | [Lovers War](https://open.spotify.com/track/5A10nmW6Fn1nzMenzsWdvK) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [Lovers War](https://open.spotify.com/album/6UzLQZ0vwpMiffYTreVDfs) | 3:10 | 2024-02-01 | 2024-06-28 |
 | [Lunar Eclipse](https://open.spotify.com/track/0dE7NZN4VVLlLxJ7WPgpqd) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Lunar Eclipse](https://open.spotify.com/album/5eHQVvyhbGQdSgPdwngpQ6) | 2:56 | 2023-11-30 | 2024-01-12 |
+| [M](https://open.spotify.com/track/6VjM2OLqe0Mf7MoismIkyj) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [M](https://open.spotify.com/album/7cnnPqKbkUIMdrf1e8VZAZ) | 3:51 | 2024-08-01 |  |
 | [Make it good](https://open.spotify.com/track/6ojM9gN2YbWTuDUKNmjT5Y) | [Talisco](https://open.spotify.com/artist/0ZR3khgseh3xy3s8iBYWrI) | [Make it good](https://open.spotify.com/album/0TXsahJIHtf9pKlvsFxnmV) | 3:01 | 2023-12-08 | 2023-12-22 |
 | [Make You Proud](https://open.spotify.com/track/2hyaYnjeDSqapulrcPph8z) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Make You Proud](https://open.spotify.com/album/1hnrxf53JOrVRTgjbGPHfj) | 3:27 | 2023-11-09 | 2023-12-01 |
 | [Metaverse](https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Metaverse](https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up) | 2:14 | 2024-05-02 | 2024-06-21 |
@@ -172,7 +175,7 @@
 | [Ode To Clio](https://open.spotify.com/track/6gJaZclCQVvDdHl4m5reGj) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Ode To Clio](https://open.spotify.com/album/7vNo8NiWR3gco9DhEYg4sP) | 3:17 | 2024-07-26 |  |
 | [on & on](https://open.spotify.com/track/0506x1pgaOUdCHl7pMVs3Z) | [Emma Castellino](https://open.spotify.com/artist/2layJFdtvlPW95WA9s2GST) | [may tape](https://open.spotify.com/album/381E6OsmqJ5fVajkraEKWu) | 4:35 | 2024-05-30 | 2024-07-05 |
 | [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 | 2023-09-28 | 2023-10-06 |
-| [Open Up!](https://open.spotify.com/track/7gP1Jb8a2GfnrOWnAlvP8Q) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [Open Up!](https://open.spotify.com/album/5BNodmT6yNYY9A5YUa3hd2) | 4:46 | 2024-07-26 |  |
+| [Open Up!](https://open.spotify.com/track/7gP1Jb8a2GfnrOWnAlvP8Q) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [Open Up!](https://open.spotify.com/album/5BNodmT6yNYY9A5YUa3hd2) | 4:46 | 2024-07-26 | 2024-08-02 |
 | [Out Loud](https://open.spotify.com/track/6Yx5Cw2mVmx6LiVP2VXWEO) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Out Loud](https://open.spotify.com/album/2Yoh27G61AmIKH2ubk2RSb) | 3:20 | 2024-02-29 | 2024-04-05 |
 | [OVERDOSE](https://open.spotify.com/track/3WHXTJqITJ68CgKBD05rMg) | [SHADESOFBLUE](https://open.spotify.com/artist/3e6Ols9XnX8XpR1dDFsRt6) | [OVERDOSE](https://open.spotify.com/album/79v8F7efrdJAZNQXxuYgaZ) | 3:57 | 2023-11-02 | 2023-12-01 |
 | [Peace Sign](https://open.spotify.com/track/5cdQMQwsHI7cJxq8UkDkpa) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Peace Sign](https://open.spotify.com/album/1DQuGlBWg0HDXR6f6i9xdb) | 4:38 | 2024-01-11 | 2024-04-05 |
@@ -226,7 +229,7 @@
 | [Sure Enough](https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Sure Enough](https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u) | 2:51 | 2023-09-28 | 2024-01-12 |
 | [Sweat](https://open.spotify.com/track/7HwP0lytsnQo4MKdqfVQt2) | [JAWS](https://open.spotify.com/artist/3E3NOIlw2s1ZPU9GRB9jaq) | [Sweat](https://open.spotify.com/album/7BXae87zZyq9Y1nDcHDJjU) | 3:46 | 2023-09-28 | 2023-11-10 |
 | [Swimming In The Glow](https://open.spotify.com/track/48eM70y3zAE9zZDCCwuxNz) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Permanent Pleasure](https://open.spotify.com/album/0pWnkMrtwLUodyWJVHcdMF) | 2:54 | 2024-05-23 | 2024-07-27 |
-| [SYM\-PATHETIC](https://open.spotify.com/track/5NWfYYkP4Q9CTf5OTGGN1I) | [KEZ](https://open.spotify.com/artist/3lTvFfgAOEwerzk2xvL1th) | [SYM\-PATHETIC](https://open.spotify.com/album/0iApuh37bSWT5YFhqtzgvo) | 3:58 | 2024-06-13 |  |
+| [SYM\-PATHETIC](https://open.spotify.com/track/5NWfYYkP4Q9CTf5OTGGN1I) | [KEZ](https://open.spotify.com/artist/3lTvFfgAOEwerzk2xvL1th) | [SYM\-PATHETIC](https://open.spotify.com/album/0iApuh37bSWT5YFhqtzgvo) | 3:58 | 2024-06-13 | 2024-08-02 |
 | [Take A Bite](https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Take A Bite](https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6) | 2:38 | 2024-06-07 | 2024-07-27 |
 | [Talk of the Town](https://open.spotify.com/track/2VmJfurwgQbLO6Gt8uVErO) | [Shed Seven](https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs) | [Talk of the Town](https://open.spotify.com/album/4ev0SQNpjF9nPoB0bkXt8o) | 4:26 | 2023-11-23 | 2024-01-19 |
 | [Tethered](https://open.spotify.com/track/0ZRnv9lXrT1kthOFt0llwy) | [Deux Visages](https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR) | [Tethered](https://open.spotify.com/album/2MOOICbNuggNtJU2OZWaA4) | 3:48 | 2023-10-12 | 2023-12-08 |

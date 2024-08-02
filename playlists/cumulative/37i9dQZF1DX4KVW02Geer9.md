@@ -2,9 +2,9 @@
 
 ### [X\-Over ジャズ!](https://open.spotify.com/playlist/37i9dQZF1DX4KVW02Geer9)
 
-> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Meshell Ndegeocello
+> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: BADBADNOTGOOD
 
-99 songs - 7 hr 21 min
+101 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Answer to Remember Theme](https://open.spotify.com/track/3HNKknpEKoZKneTmJILiW7) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9) | [Answer to Remember Theme](https://open.spotify.com/album/4BCq26nQrmmQZkC14GaDSP) | 2:10 | 2024-06-27 |  |
 | [BAKKI BAKI](https://open.spotify.com/track/0bssc9MtiwbdN759YEqDa1) | [Tenors In Chaos](https://open.spotify.com/artist/2dPi2IGldPZJEjY3Aj4UzT) | [Chaos](https://open.spotify.com/album/4mOqoMKP19bGbBdTrWRBZW) | 4:42 | 2024-06-27 | 2024-07-12 |
 | [Be Like Snow](https://open.spotify.com/track/2qDXwIRRJcHoLZHZTr4gkw) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [Be Like Snow](https://open.spotify.com/album/3urXm5EQ1m6R8sSOtmnyKr) | 4:48 | 2024-06-27 |  |
+| [Best Left Unsolved \- Bonus Track](https://open.spotify.com/track/7ptQ7GZUadcKrcY1NosHtw) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Mid Spiral](https://open.spotify.com/album/6WNZ6fUOzpuKKDdPR8E1vO) | 5:26 | 2024-08-01 |  |
 | [Beyond the Redemption](https://open.spotify.com/track/0NzOmzRINNMlZsIs2a7zni) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [A STORY ABOUT YOU](https://open.spotify.com/album/6YB2R3p6K2X6Slkiq1w4t2) | 4:52 | 2024-06-27 |  |
 | [Bird Of Beauty](https://open.spotify.com/track/5OmSzWSzMLHpTK1tp4zm95) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Bird Of Beauty](https://open.spotify.com/album/0qvKH6LujY8DPBZXRzeVAI) | 6:02 | 2024-06-27 |  |
 | [Black Classical Music \(feat\. Venna & Charlie Stacey\)](https://open.spotify.com/track/4DPh5NuaRuSSMTemdEoFCk) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g) | [Black Classical Music \(feat\. Venna & Charlie Stacey\)](https://open.spotify.com/album/5Fw9BsShZLeiuREYfVBX9s) | 5:19 | 2024-06-27 | 2024-07-05 |
@@ -95,7 +96,8 @@
 | [The Librarian](https://open.spotify.com/track/3KDrIt9NLuDY9Y4euXv5ZQ) | [Sefi Zisling](https://open.spotify.com/artist/5EctF8sY4mgGmG2II0rw9H) | [The Librarian](https://open.spotify.com/album/0731xZnxaod65PQ9ddjxUB) | 6:32 | 2024-06-27 |  |
 | [The Scene](https://open.spotify.com/track/7sdieOhSVuir4fIGrNLICY) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo), [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [2010 Mixtape](https://open.spotify.com/album/19djQgfrSTjq7mwNZxx6SZ) | 3:25 | 2024-07-11 |  |
 | [Thunderbolt New Theme](https://open.spotify.com/track/6WZd2Pz4IXz10gS6xpS5GU) | [Naruyoshi Kikuchi](https://open.spotify.com/artist/5jGe8zos8U6KRs0wiLWcmv) | [オリジナル・サウンドトラック「機動戦士ガンダム サンダーボルト」2](https://open.spotify.com/album/4wDiolqt2LGgpTSkIuLmLY) | 5:01 | 2024-06-27 | 2024-07-19 |
-| [Thus Sayeth The Lorde](https://open.spotify.com/track/0kdcmJEooaMWWtkYhX6hLP) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Thus Sayeth The Lorde](https://open.spotify.com/album/0JvyrqS35YbNV4fY8tzySu) | 5:40 | 2024-07-11 |  |
+| [Thus Sayeth The Lorde](https://open.spotify.com/track/0kdcmJEooaMWWtkYhX6hLP) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Thus Sayeth The Lorde](https://open.spotify.com/album/0JvyrqS35YbNV4fY8tzySu) | 5:40 | 2024-07-11 | 2024-08-02 |
+| [Trouble](https://open.spotify.com/track/69fuXJMALq5dfj6f9NFiJi) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [No More Water: The Gospel Of James Baldwin](https://open.spotify.com/album/2ba5r7icQRIInoWJYUrsSJ) | 7:18 | 2024-08-01 |  |
 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 | 2024-06-27 |  |
 | [Vibes, Mood, Tension, Motivation](https://open.spotify.com/track/1ZpDXYpUm9TICUTJf7SYmw) | [Haiiro De Rossi](https://open.spotify.com/artist/7BKPOigBtNtPmk7w3ZuCw0), [crime6](https://open.spotify.com/artist/5dPU8ySqwPrtb6BrhPmUZp) | [Vibes, Mood, Tension, Motivation](https://open.spotify.com/album/5nmsU2HKeqSXqNnBye2Akn) | 4:01 | 2024-07-18 |  |
 | [Virtual Insanity](https://open.spotify.com/track/7xGjUF9Lq1pwGEua5hANDX) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA), [カマタミズキ](https://open.spotify.com/artist/3B31bknspbYzHM9oUEYl0s) | [Virtual Insanity](https://open.spotify.com/album/3de7QqjProXuPJwFL74Tgg) | 4:47 | 2024-06-27 |  |

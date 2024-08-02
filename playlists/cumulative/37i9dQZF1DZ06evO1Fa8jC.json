@@ -1270,10 +1270,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 136437,
       "name": "Suena la Alarma",
       "url": "https://open.spotify.com/track/2Bykx7Sa2MB0JhgM1U770v"
+    },
+    {
+      "album": {
+        "name": "Suena la Alarma",
+        "url": "https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257970,
+      "name": "Suena la Alarma",
+      "url": "https://open.spotify.com/track/1JhSOyxBOmnHBr4RnGkMBe"
     },
     {
       "album": {

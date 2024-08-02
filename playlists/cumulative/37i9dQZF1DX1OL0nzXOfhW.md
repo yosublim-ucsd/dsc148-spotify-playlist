@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2024 RADAR登場！持續發掘世一超新聲！Cover: Jasmine Kelly
+> 2024 RADAR登場！持續發掘世一超新聲！Cover: Joya
 
-205 songs - 11 hr 50 min
+206 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [ANEMONE](https://open.spotify.com/track/2G9sF8GTzTSlPs4KpWffrx) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [ANEMONE](https://open.spotify.com/album/36mXO36uWWSuTjDIb5K9Hq) | 3:32 | 2023-04-13 | 2024-03-29 |
 | [Another Sunny Day](https://open.spotify.com/track/1b53pbyMUzQHAIGwYClSjK) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Goodbye Tragic Manga](https://open.spotify.com/album/1Mp4lHLibyhbI7ylUdCS8b) | 3:23 | 2023-04-13 | 2024-03-29 |
 | [bad weather](https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [bad weather](https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q) | 2:53 | 2022-12-15 | 2023-05-12 |
+| [Birds of a Feather](https://open.spotify.com/track/4DG3IzN5U3inciYBjO2bms) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu), [Grey Brisson](https://open.spotify.com/artist/7th9azSFAuJoeGRCrh6OMS) | [Birds of a Feather](https://open.spotify.com/album/1O3NSXKqzKEY2CeyNwfu4m) | 2:15 | 2024-08-01 |  |
 | [Call My Name!](https://open.spotify.com/track/16uUro9vLJogJJued0TFos) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Call My Name!](https://open.spotify.com/album/2eqT6kfBxCwKVJqsAXqjtl) | 3:23 | 2022-05-26 | 2023-04-14 |
 | [Call My Name! \(COLLAR214 ver.\)](https://open.spotify.com/track/33q6UPpjR3k66k1oxwFbzD) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Call My Name! \(COLLAR214 ver.\)](https://open.spotify.com/album/79ib7NaPeN0HwOKkq3v6Ao) | 3:30 | 2022-05-26 | 2023-04-14 |
 | [Can't Stop](https://open.spotify.com/track/5zB6A7kjVAyobO5le32Rl0) | [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [Can't Stop](https://open.spotify.com/album/5CUTEDVkIGRFEd3DR7dW0o) | 3:31 | 2023-04-13 | 2024-03-29 |

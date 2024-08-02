@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Ma ch\u00e9rie\" de St\u00e9phane est le Grand Hit de la semaine.",
+  "description": "\"Faut que tu m'aimes\" de Styleto est le Grand Hit de la semaine.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 188960,
       "name": "Aim\u00e9e pour de vrai",
       "url": "https://open.spotify.com/track/3MFphLI59LK2MqvVY9ZMTZ"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 147405,
       "name": "Dis-toi que c'est la vie",
       "url": "https://open.spotify.com/track/0qbNi3Dw48Y1lazonm0WEL"
@@ -1784,7 +1784,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 222353,
       "name": "Le chant est libre",
       "url": "https://open.spotify.com/track/75mPIntRqq7cjqnwOImjoA"
@@ -2569,6 +2569,32 @@
     },
     {
       "album": {
+        "name": "Plus L'Time (Stereo Love)",
+        "url": "https://open.spotify.com/album/09DH6CFGrS9EPoxv4Vi3ea"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Zelia",
+          "url": "https://open.spotify.com/artist/0yRrjkmoosrBlPC3nUXsbk"
+        },
+        {
+          "name": "Edward Maya",
+          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+        },
+        {
+          "name": "Adryano",
+          "url": "https://open.spotify.com/artist/2UDlaOGt9VWAqsbNmsYzYk"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174875,
+      "name": "Plus L'Time (Stereo Love)",
+      "url": "https://open.spotify.com/track/1SXq81JaEMfD3L7aGJv7K3"
+    },
+    {
+      "album": {
         "name": "Popcorn Sal\u00e9",
         "url": "https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V"
       },
@@ -2771,6 +2797,24 @@
     },
     {
       "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/4PgjK4gAk0R7d4pUTURMvz"
+      },
+      "artists": [
+        {
+          "name": "RIDSA",
+          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136185,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/6rbgsiBe28janVH7ysQO3a"
+    },
+    {
+      "album": {
         "name": "R\u00e9sister (What about Peace?)",
         "url": "https://open.spotify.com/album/3lrK6iynnWj1oO1fONiQ9I"
       },
@@ -2800,7 +2844,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 181580,
       "name": "Sans toi",
       "url": "https://open.spotify.com/track/1mk9y8glt1zXx5qoHzxYvx"
@@ -3031,6 +3075,24 @@
     },
     {
       "album": {
+        "name": "99 Nights (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154535,
+      "name": "Un peu trop",
+      "url": "https://open.spotify.com/track/3yhun6KOBDXbOscvC4FCiF"
+    },
+    {
+      "album": {
         "name": "CRASH C\u0152UR",
         "url": "https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK"
       },
@@ -3118,6 +3180,24 @@
       "duration_ms": 197066,
       "name": "\u00c0 force",
       "url": "https://open.spotify.com/track/6JitZ8llxZ6d8XXzP0lMc2"
+    },
+    {
+      "album": {
+        "name": "CRASH C\u0152UR",
+        "url": "https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK"
+      },
+      "artists": [
+        {
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207520,
+      "name": "\u00eatre biennn",
+      "url": "https://open.spotify.com/track/0O2eT2YAfna5HFTFz1ibKE"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM"

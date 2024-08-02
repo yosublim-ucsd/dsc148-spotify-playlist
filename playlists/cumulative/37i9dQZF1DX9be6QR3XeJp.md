@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Thandii
+> Discover your new favourite artists from UK&IE\. Cover: Pixey
 
-272 songs - 14 hr 36 min
+273 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Opinion](https://open.spotify.com/track/2ODY9n6MPPDTLgqTlgFW50) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Opinion](https://open.spotify.com/album/1zR96H40EoUG62VmJ7fK6A) | 2:27 | 2022-02-18 |  |
 | [Opinion](https://open.spotify.com/track/4HNYSJenuBJMYEU2hGNHgG) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Playground Antics](https://open.spotify.com/album/3FBT0vTCbLIYCk9NIln76M) | 2:27 | 2022-07-28 | 2024-04-19 |
 | [oSHA\-PIANO](https://open.spotify.com/track/7Ac8a2AhlTxlbmgj4SAEFk) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [oSHA\-PIANO](https://open.spotify.com/album/5Blk5rVGndIswfPVDBIMjr) | 2:55 | 2024-06-13 |  |
+| [Oxygen](https://open.spotify.com/track/1EqpDxhSQrqvMnDXCKvpfs) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Million Dollar Baby](https://open.spotify.com/album/67dw7C6enQ3O05ZaI2dCaT) | 2:42 | 2024-08-01 |  |
 | [Paper Planes](https://open.spotify.com/track/3idGPXVbppVgvQgKphhYe3) | [tinyumbrellas](https://open.spotify.com/artist/2yKKGbXo5KtCrTPq4VVCZb) | [Somewhere To Fall Asleep](https://open.spotify.com/album/52BvNx6KqyyEKrbnOWr8Sy) | 3:43 | 2023-07-27 |  |
 | [paranoia](https://open.spotify.com/track/25jpA6Nwk0BzPpzOTYLCXA) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [paranoia](https://open.spotify.com/album/7cKJ7ywktloxEDpY8fxHJR) | 3:22 | 2022-07-21 |  |
 | [Parasols](https://open.spotify.com/track/3FhdZweci0BzetkWMwCdsV) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Parasols](https://open.spotify.com/album/5IbFg9og4jabk19txAM9Wp) | 3:00 | 2022-02-18 |  |

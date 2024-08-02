@@ -1,12 +1,12 @@
 {
-  "description": "This Is ATARASHII GAKKO!. Los temas esenciales, todos en una lista.",
-  "num_followers": 50235,
+  "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
+  "num_followers": 50265,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqgtAAAAAAC5NK2HMrd/KqqW3ob3nSIX",
+  "snapshot_id": "Zql+gAAAAACXq0Wi1Mlzhb4ErJV/iUoT",
   "tracks": [
     {
       "added_at": null,
@@ -407,6 +407,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "wakage ga itaru",
+        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        },
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 251866,
+      "name": "amayo no seppun",
+      "url": "https://open.spotify.com/track/6a8v2Mef7VdpFEpS04TSzM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Freaks",
         "url": "https://open.spotify.com/album/5Z2m5xN45b5OvINBkhaUBE"
       },
@@ -427,26 +447,6 @@
       "duration_ms": 133802,
       "name": "Freaks",
       "url": "https://open.spotify.com/track/33uyQcKrKlGSOQSO3hrtpj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "wakage ga itaru",
-        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        },
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 251866,
-      "name": "amayo no seppun",
-      "url": "https://open.spotify.com/track/6a8v2Mef7VdpFEpS04TSzM"
     },
     {
       "added_at": null,

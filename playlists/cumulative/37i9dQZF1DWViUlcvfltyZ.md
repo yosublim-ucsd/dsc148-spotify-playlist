@@ -2,9 +2,9 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> Rock, indie e punk dall'Italia, Amalfitano in cover 🎸
+> Rock, indie e punk dall'Italia, MILLE in cover 🎸
 
-1,027 songs - 2 day 8 hr 44 min
+1,030 songs - 2 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [080\-565](https://open.spotify.com/track/2V0zhcD0j7JpylohELdalH) | [Maladé](https://open.spotify.com/artist/4pLZb6eSKa9V8EB0vF0VTl) | [080\-565](https://open.spotify.com/album/0qvZKO34bfiCPTl0hN2IgF) | 3:18 | 2023-06-22 | 2023-07-28 |
 | [100 GIORNI](https://open.spotify.com/track/1XutSOW3HIb0oBiNwDINxL) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [100 GIORNI](https://open.spotify.com/album/6vQHAIf4uxsWItu8Gp9nNH) | 1:16 | 2022-12-22 | 2023-02-03 |
 | [118 \(feat\. Claudio Santamaria\)](https://open.spotify.com/track/7bgmhnVEmCFrMB3Byr0r9R) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84), [Claudio Santamaria](https://open.spotify.com/artist/1QeSGnT5N0XR1CEr1tEpaG) | [118 \(feat\. Claudio Santamaria\)](https://open.spotify.com/album/4BL7Czy98tfrcBZMA9HVT9) | 3:38 | 2022-05-09 | 2022-05-27 |
-| [146](https://open.spotify.com/track/1mu2TX3eKAjbPZQa93okGE) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [146](https://open.spotify.com/album/6NYAhD1vD29I8D8fJyXG6a) | 3:26 | 2024-05-02 |  |
+| [146](https://open.spotify.com/track/1mu2TX3eKAjbPZQa93okGE) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [146](https://open.spotify.com/album/6NYAhD1vD29I8D8fJyXG6a) | 3:26 | 2024-05-02 | 2024-08-02 |
 | [1789](https://open.spotify.com/track/0gTbFATVuvMa5dDFTItGGf) | [sabd](https://open.spotify.com/artist/5U31znzcujcQqe1noxyODw) | [1789](https://open.spotify.com/album/7B4PPuiKQkGXTAU79uX4Y8) | 2:50 | 2022-08-04 | 2022-08-12 |
 | [20 Anni](https://open.spotify.com/track/0RKrI0Ejfw1IaRA4muRwEH) | [As We Are](https://open.spotify.com/artist/6htRUFkFi7HpxnZ4kSQQfQ) | [20 Anni](https://open.spotify.com/album/70hFi8paYjGC46iKryIY2D) | 2:30 | 2023-02-16 | 2023-04-07 |
 | [24](https://open.spotify.com/track/3LAsrh74VV5klW6TngDcsb) | [MANCHA](https://open.spotify.com/artist/4ylxTIWDO6kdtfxgOVmPCk) | [24](https://open.spotify.com/album/6KTqP17jm1CEETRj3O1FGQ) | 3:55 | 2024-05-23 | 2024-06-28 |
@@ -53,6 +53,7 @@
 | [All'Ombra Dei Palazzi](https://open.spotify.com/track/6I3lbrxXHVx7i1O0b84VMc) | [SPEAKEASY](https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx) | [Via Briantea](https://open.spotify.com/album/6to4L28zGrellDt1u8HEt2) | 3:36 | 2024-03-14 | 2024-06-21 |
 | [Alme](https://open.spotify.com/track/0GyrUsvIJJ5DZPHpEQa6kQ) | [Merli Armisa](https://open.spotify.com/artist/6Xi0bEiO6Ncki0K3iudLki) | [Alme](https://open.spotify.com/album/04bQWJKzN1egEcDioDAT1h) | 3:16 | 2022-10-06 | 2022-11-11 |
 | [Always Before \(The Fire\)](https://open.spotify.com/track/1Zxk5vYIHVeHiFKRmEfx3y) | [Santa Chiara](https://open.spotify.com/artist/4ypMT9SN8PDvScLqLcGcEU) | [Always Before \(The Fire\)](https://open.spotify.com/album/4G1FKZqj3dzWVLKfnzDybm) | 4:10 | 2022-05-09 | 2022-06-24 |
+| [Amare Cose Complesse](https://open.spotify.com/track/36HOZeNuZCMXW2S3BITMs4) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [Amare Cose Complesse](https://open.spotify.com/album/4fccPotIjHt9mJsQGykMHC) | 3:31 | 2024-08-01 |  |
 | [AMERICA](https://open.spotify.com/track/1KkPmyuTNbxjhylVrhoMKp) | [I Boschi Bruciano](https://open.spotify.com/artist/1UTHkeIblKLZSSx9sTHmUW) | [AMERICA](https://open.spotify.com/album/24ottTrnTzbGEDpomgejEh) | 3:07 | 2023-02-23 | 2023-04-07 |
 | [AMERICA](https://open.spotify.com/track/6yGjVJAOTQkHiHdQTCk8Cl) | [nonhassenso](https://open.spotify.com/artist/7vC2c6xld28yTNqYxEeIeo) | [AMERICA](https://open.spotify.com/album/71sf8sGNZcnGQ50H6sqo5P) | 2:32 | 2024-02-22 | 2024-03-08 |
 | [AMERICANIMA](https://open.spotify.com/track/0m5cZKfVNulIf1YkrYtPoY) | [Karakaz](https://open.spotify.com/artist/5bGf7yGh4gz8vn6azMKq4u) | [AMERICANIMA](https://open.spotify.com/album/6qY9nHUtxEk1lQ9dpHfiHv) | 3:48 | 2023-06-08 | 2023-10-06 |
@@ -398,6 +399,7 @@
 | [heavy\-hearted](https://open.spotify.com/track/0EpZxmxdI27Y6hMwO79pvy) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [heavy\-hearted](https://open.spotify.com/album/428oKi8Lpx377MJjLV1upq) | 2:39 | 2022-05-12 | 2022-07-15 |
 | [Helsinki](https://open.spotify.com/track/5iD1GzHpAZkdtVCdyv0dXC) | [Pop Véronique](https://open.spotify.com/artist/14p9kujCnygl2XiQK8stQd) | [Helsinki](https://open.spotify.com/album/7LroPB7nL6R24KPEoOArZp) | 3:28 | 2024-01-11 | 2024-02-16 |
 | [Hey listen](https://open.spotify.com/track/6AIvOHMK6ce3Ws7Zlph2GA) | [Vanarin](https://open.spotify.com/artist/5h8413E0PoCuNBc6tLIANb) | [Hey listen](https://open.spotify.com/album/5XYMfULf79dyp2vx1g8UZm) | 2:17 | 2024-07-26 |  |
+| [Hey Man](https://open.spotify.com/track/1qSIQ4haH6iuBYlHvoXMer) | [Painted Vein](https://open.spotify.com/artist/1Yz4iQXuDT8WRluhIxYHLa) | [Hey Man](https://open.spotify.com/album/3aaGoS0fwrDKxwGmWB4m1M) | 4:35 | 2024-08-01 |  |
 | [Hey Mon Amour](https://open.spotify.com/track/2gcVYbtY4GPLvnAzitTvee) | [Macadamia](https://open.spotify.com/artist/4ctoRm4PSfS4v7YdoHgIen) | [Limine](https://open.spotify.com/album/1p1CplengpaQU0lsmzOBaB) | 3:13 | 2023-10-19 | 2024-01-26 |
 | [HEY NOI](https://open.spotify.com/track/3zC7HuEPnmhtDvIEFgtkwZ) | [ROS](https://open.spotify.com/artist/15kGQ75uyHlhEeK4ZK40YB) | [HEY NOI](https://open.spotify.com/album/5rg0nCPqqkiaHL6QXpTF4K) | 2:45 | 2023-06-22 | 2023-07-28 |
 | [Hey U](https://open.spotify.com/track/25Tztg1uslRPRXpXzsXctK) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [Hey U](https://open.spotify.com/album/27oTo8ISybYjEze4YL67Bc) | 2:01 | 2022-05-09 | 2022-05-27 |
@@ -711,7 +713,7 @@
 | [Piece of Land](https://open.spotify.com/track/4RddNnwvbX7UU1UhCWUyPM) | [Kuni](https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG) | [Walls Have Told Me](https://open.spotify.com/album/0Zz4Ce5RmKBTIT0Hg1EKq3) | 2:46 | 2023-06-09 | 2023-09-22 |
 | [Pinago](https://open.spotify.com/track/2Z26ptJ7v8ab8WHgc2Ndaz) | [Scumma do Mar](https://open.spotify.com/artist/6ebpYhUiGhoc4cXeEHTpjH) | [Gamba Tesa](https://open.spotify.com/album/33mx3VUpMKOqFEjSirUPcG) | 3:29 | 2024-01-11 | 2024-04-12 |
 | [Piove Dentro](https://open.spotify.com/track/5n79HFgmPQATiB8NwP8Uvk) | [Gli Occhi Degli Altri](https://open.spotify.com/artist/7kPPa8qlBCZrMKMRhUHxxZ) | [Piove Dentro](https://open.spotify.com/album/33J2CqTy3vTKh0O5Tzh9ex) | 3:17 | 2023-03-02 | 2023-04-21 |
-| [Pistola \(feat\. Tripolare\)](https://open.spotify.com/track/1x4m8pipnJNqg3DnPzN54F) | [Thru Collected](https://open.spotify.com/artist/2P0hl2Wx1Zb04shTLfdWrv), [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3), [Lucky lapolo](https://open.spotify.com/artist/10BLKtKUuaAx5mUu14ipFo), [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Il Grande Fulmine](https://open.spotify.com/album/0hc4ffZgsXwCzaOLdFqaCZ) | 3:49 | 2024-03-07 |  |
+| [Pistola \(feat\. Tripolare\)](https://open.spotify.com/track/1x4m8pipnJNqg3DnPzN54F) | [Thru Collected](https://open.spotify.com/artist/2P0hl2Wx1Zb04shTLfdWrv), [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3), [Lucky lapolo](https://open.spotify.com/artist/10BLKtKUuaAx5mUu14ipFo), [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Il Grande Fulmine](https://open.spotify.com/album/0hc4ffZgsXwCzaOLdFqaCZ) | 3:49 | 2024-03-07 | 2024-08-02 |
 | [Pixel](https://open.spotify.com/track/0vi7G39FGuQHL8YqLTS9r5) | [Naeev](https://open.spotify.com/artist/1cxHKVZfKdKwMlSOoQ0U27) | [Pixel](https://open.spotify.com/album/06HmMCnb2fqeu1RfILHxb8) | 3:29 | 2024-05-16 | 2024-07-19 |
 | [Più mi odi più mi amo](https://open.spotify.com/track/0EWtLGf9X5zrVSfBDhsymi) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F) | [Più mi odi più mi amo](https://open.spotify.com/album/61YoRhVptt77M5XZigQOOT) | 4:14 | 2022-05-12 | 2022-08-26 |
 | [Plastic Bullets](https://open.spotify.com/track/3qwALlfTWqBlC6meFvAvlR) | [The Peawees](https://open.spotify.com/artist/4VBH5wOuG96Gx97VGJh16p) | [Plastic Bullets](https://open.spotify.com/album/7rnOAhfIl2NFkV1bLpIign) | 2:03 | 2024-05-09 | 2024-06-01 |
@@ -815,7 +817,7 @@
 | [Sei in un paese meraviglioso](https://open.spotify.com/track/0BaYBfrLf4IwcRQInvXOkF) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Sei in un paese meraviglioso](https://open.spotify.com/album/1xKqyu6wKTq616wD3zxLuW) | 3:20 | 2023-06-08 | 2023-12-06 |
 | [sei mare](https://open.spotify.com/track/6k9kIVoWSqvX1fbRxC9u6O) | [joe croci](https://open.spotify.com/artist/48AI6QByBPDMRrZZDskGzD) | [sei mare](https://open.spotify.com/album/7h8rBhrelNiun9jG1wWzVn) | 2:56 | 2024-03-14 | 2024-06-07 |
 | [SELLOUT](https://open.spotify.com/track/5asgUMWlD2FfHIH8Jio5Wx) | [Stunt Pilots](https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr) | [SELLOUT](https://open.spotify.com/album/4PkBqatSXwHCtXeNBVS7b8) | 2:08 | 2024-06-13 |  |
-| [Sempre](https://open.spotify.com/track/5EZm5cuNdnu04Cso8fuojN) | [Riviera](https://open.spotify.com/artist/1Nbb0ut912InpuiKmLNShD) | [Sempre](https://open.spotify.com/album/7He15zqCOeaFWGNRzS8M7x) | 2:32 | 2024-04-18 |  |
+| [Sempre](https://open.spotify.com/track/5EZm5cuNdnu04Cso8fuojN) | [Riviera](https://open.spotify.com/artist/1Nbb0ut912InpuiKmLNShD) | [Sempre](https://open.spotify.com/album/7He15zqCOeaFWGNRzS8M7x) | 2:32 | 2024-04-18 | 2024-08-02 |
 | [Sento Un Morso Dolce](https://open.spotify.com/track/7gMFVhNWLrVRjiMQ9Pwth5) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ), [Giovanni Truppi](https://open.spotify.com/artist/6qSYb2AiQlXlAoa50vLx5m) | [Habitat](https://open.spotify.com/album/3glCxDLdGv7lRijvfycOEC) | 3:28 | 2023-11-23 | 2024-01-19 |
 | [Senza Fine](https://open.spotify.com/track/0kcOUYb4244Ul2Cd3mEvkE) | [ULTRANOIA](https://open.spotify.com/artist/6cGw5bSzyixem0tMv0k434) | [Senza Fine](https://open.spotify.com/album/2SlwwWFm3wZ9xFMwwntgup) | 3:31 | 2023-02-02 | 2023-03-03 |
 | [Senza mai guardarsi indietro](https://open.spotify.com/track/3QGx90XyhQZZUz7WKWMUCk) | [And So Your Life Is Ruined](https://open.spotify.com/artist/33mryanYYlYMiJnYAobfEk) | [Senza mai guardarsi indietro](https://open.spotify.com/album/6yTRDmKQJqpdXm0yNFFsTe) | 2:17 | 2023-07-06 | 2023-10-20 |
@@ -924,6 +926,7 @@
 | [Ti Amerei](https://open.spotify.com/track/09EeLpRYDS8Qxk5Q7mOa1A) | [Tropea](https://open.spotify.com/artist/35EdAf21qKHNvALdF6loHX) | [Serole](https://open.spotify.com/album/4WrXBdup2TcNuo7eOLWGFG) | 3:25 | 2024-01-16 | 2024-05-03 |
 | [TI DEVI ROVINARE](https://open.spotify.com/track/4867uScJp6gPGEckidOWk1) | [Moise](https://open.spotify.com/artist/7v40Q7L4JodP3Bav2Za0s8) | [TI DEVI ROVINARE](https://open.spotify.com/album/29mSkfiTOynaVBxBp2E4Vh) | 2:29 | 2022-05-09 | 2022-05-20 |
 | [Ti faccio un tutorial](https://open.spotify.com/track/2OM49PXPcHeeDqkNeyZHoC) | [NAMIDA](https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv) | [Ti faccio un tutorial](https://open.spotify.com/album/2qxQGudBokyFOnLbJtr2eY) | 2:56 | 2024-03-28 | 2024-07-12 |
+| [Ti perdoneresti? Io mai](https://open.spotify.com/track/2fxjoAau1djZlZLc9Wibfn) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [Ti perdoneresti? Io mai](https://open.spotify.com/album/3xRcq6ZBNu2lB74JTreVBh) | 3:18 | 2024-08-01 |  |
 | [Ticking](https://open.spotify.com/track/6fXZbd1rHxJvzqUzA0h1ah) | [Elli de Mon](https://open.spotify.com/artist/5cKkMwUUJG4ikwRpeynbhm) | [Ticking](https://open.spotify.com/album/0TLJkKNmpLZ7iZZKwQJH7R) | 3:27 | 2023-04-06 | 2023-04-15 |
 | [Til Life Do Us Part](https://open.spotify.com/track/2o8uFXQOFhnyKjVSYui1tN) | [The Devils](https://open.spotify.com/artist/4dr588YumnHS2BIa7QOZI8) | [Til Life Do Us Part](https://open.spotify.com/album/2LiofEjkfhdxWeLL6qqlnw) | 2:55 | 2023-12-21 | 2024-02-02 |
 | [Time and Time](https://open.spotify.com/track/5yoZ3ruzBCsMWLWrEMRb2W) | [Bee Bee Sea](https://open.spotify.com/artist/5CKsgoNaSS96h4gPbLFuWV) | [Time and Time](https://open.spotify.com/album/4tnfYJuYrz6WOmIc0BjDAa) | 4:52 | 2023-04-13 | 2023-05-26 |

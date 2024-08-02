@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gli astri nascenti del pop italiano \ud83d\udd2e Cover: Saintess",
+  "description": "Gli astri nascenti del pop italiano \ud83d\udd2e Cover: jiojio",
   "name": "Caleido",
   "tracks": [
     {
@@ -426,7 +426,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 193190,
       "name": "Berlino",
       "url": "https://open.spotify.com/track/1Bu55iIHZgYNy1vx6lughQ"
@@ -760,7 +760,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 160000,
       "name": "DAY&NIGHT",
       "url": "https://open.spotify.com/track/0DNacAFfZQZp6ZXre463Nv"
@@ -1329,6 +1329,24 @@
     },
     {
       "album": {
+        "name": "Imperdonabile",
+        "url": "https://open.spotify.com/album/4odVD47NOubjyeuLrV96Ff"
+      },
+      "artists": [
+        {
+          "name": "Sant\u00e9",
+          "url": "https://open.spotify.com/artist/55EIo5yMfuqGqppQzEBep1"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Imperdonabile",
+      "url": "https://open.spotify.com/track/3jd0rNu8g7J7j2CWON0YPm"
+    },
+    {
+      "album": {
         "name": "invidiosa",
         "url": "https://open.spotify.com/album/4h8OEFdmS8Oj3XQdyPdp42"
       },
@@ -1347,6 +1365,28 @@
     },
     {
       "album": {
+        "name": "IO X LEI",
+        "url": "https://open.spotify.com/album/1wFNbu08aXhGpJsJ8d845K"
+      },
+      "artists": [
+        {
+          "name": "MATILDE",
+          "url": "https://open.spotify.com/artist/3fefLfPrUjeLE1EVbVCdtJ"
+        },
+        {
+          "name": "Germo67",
+          "url": "https://open.spotify.com/artist/2g8pbTKAMaUasFKyC3GrK1"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134880,
+      "name": "IO X LEI",
+      "url": "https://open.spotify.com/track/36f2RAAEUU6mfZkiY0je48"
+    },
+    {
+      "album": {
         "name": "Karnevale di Rio",
         "url": "https://open.spotify.com/album/3rLIAQuVXv900dkPdZygCo"
       },
@@ -1362,6 +1402,28 @@
       "duration_ms": 150537,
       "name": "Karnevale di Rio",
       "url": "https://open.spotify.com/track/5NPvMrIzj1cMiKZ4TB4qld"
+    },
+    {
+      "album": {
+        "name": "L'amore che vuoi tu",
+        "url": "https://open.spotify.com/album/1gI9BC05eCwUBa2TVO9YM8"
+      },
+      "artists": [
+        {
+          "name": "PARIDE",
+          "url": "https://open.spotify.com/artist/738jSDDsbX4Ge4Xa1lSN9F"
+        },
+        {
+          "name": "Kr1",
+          "url": "https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "L'amore che vuoi tu",
+      "url": "https://open.spotify.com/track/6lmcQUoJ8onxTO9xntqWT3"
     },
     {
       "album": {
@@ -1488,7 +1550,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 183214,
       "name": "Luci",
       "url": "https://open.spotify.com/track/0WHbpAszTFTND9kvKyTPKA"
@@ -1546,7 +1608,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 156721,
       "name": "Maimma (feat. Tiimie)",
       "url": "https://open.spotify.com/track/4DHBsTmRbyh4ODbmW7mPlS"
@@ -1728,7 +1790,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 188416,
       "name": "Mercante",
       "url": "https://open.spotify.com/track/5kNzj2wKiSlUdLwodYZ4lf"
@@ -2048,7 +2110,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 180000,
       "name": "NOTRE-DAME",
       "url": "https://open.spotify.com/track/14TGHLk71qfAez0F1Gqc3T"
@@ -2146,10 +2208,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 169045,
       "name": "PAURA DEL BUIO",
       "url": "https://open.spotify.com/track/25PKrlavZxBDojt5f9glSg"
+    },
+    {
+      "album": {
+        "name": "PERDONIAMOCI LO STESSO",
+        "url": "https://open.spotify.com/album/2EYUDEWk8OPvYVkojUQy08"
+      },
+      "artists": [
+        {
+          "name": "LINDA",
+          "url": "https://open.spotify.com/artist/50c2SwGX2DmpRjwespS3mv"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191423,
+      "name": "PERDONIAMOCI LO STESSO",
+      "url": "https://open.spotify.com/track/47IkpRhL9DgMsDEvQ8Q8sF"
     },
     {
       "album": {
@@ -2302,7 +2382,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 138103,
       "name": "Ricchezza",
       "url": "https://open.spotify.com/track/0uKeTxLRjaRjnaggnYlxzl"
@@ -2345,6 +2425,46 @@
     },
     {
       "album": {
+        "name": "Scatoletta<3",
+        "url": "https://open.spotify.com/album/0KkaOX9ZUoiqq7F7VgnCNS"
+      },
+      "artists": [
+        {
+          "name": "Artu10000000",
+          "url": "https://open.spotify.com/artist/47Y9w726v5ujczF4Qpdw5h"
+        },
+        {
+          "name": "Gimmi",
+          "url": "https://open.spotify.com/artist/0qPwpz51T4mzD9VC5yXvt9"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181391,
+      "name": "Scatoletta<3",
+      "url": "https://open.spotify.com/track/75JIX2DpXoU3kSH2fnlSEe"
+    },
+    {
+      "album": {
+        "name": "Scema",
+        "url": "https://open.spotify.com/album/6KaJU8LSNXMkYmWecJG4Bd"
+      },
+      "artists": [
+        {
+          "name": "Keyra",
+          "url": "https://open.spotify.com/artist/5Y0hkP4UJmxdajANUr1IoC"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160178,
+      "name": "Scema",
+      "url": "https://open.spotify.com/track/04vILNWDAjKZ2qb3lONcCB"
+    },
+    {
+      "album": {
         "name": "Scriverci solo di notte",
         "url": "https://open.spotify.com/album/57n8Jmc4tyUJkTGXuP2MHp"
       },
@@ -2374,7 +2494,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-02",
       "duration_ms": 159000,
       "name": "Semplicemente (Nun Fa Accuss\u00ec)",
       "url": "https://open.spotify.com/track/737HnI5qtfg3azNWUYsGZR"
@@ -2794,6 +2914,24 @@
       "duration_ms": 158620,
       "name": "VICOLI DI NAPOLI",
       "url": "https://open.spotify.com/track/6COpU6FKsiocTOCsn3aEkj"
+    },
+    {
+      "album": {
+        "name": "VITAMINE",
+        "url": "https://open.spotify.com/album/2VNB04Th2d4hQW5fo8C6M9"
+      },
+      "artists": [
+        {
+          "name": "CALI!",
+          "url": "https://open.spotify.com/artist/0Z2oleyYfipmfCvGMtKhph"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137596,
+      "name": "VITAMINE",
+      "url": "https://open.spotify.com/track/4ErJZNNrSFyklHrUBAAmcP"
     },
     {
       "album": {

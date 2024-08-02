@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 554263,
+  "num_followers": 554246,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2024-06-26 02:03:12",
       "album": {
-        "name": "Swing",
-        "url": "https://open.spotify.com/album/3j2j7DAJq56gRsWXgJgWmN"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Allday",
-          "url": "https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs"
-        }
-      ],
-      "duration_ms": 179279,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/0Hb1y5PXdcuhNmLC1iytPw"
-    },
-    {
-      "added_at": "2024-06-26 02:03:12",
-      "album": {
         "name": "World War Joy",
         "url": "https://open.spotify.com/album/1ONuDpN0a3zhCUyKCgtuzK"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 217653,
       "name": "Call You Mine (feat. Bebe Rexha)",
       "url": "https://open.spotify.com/track/05CwHjIk71RXVU40boRMnR"
+    },
+    {
+      "added_at": "2024-06-26 02:03:12",
+      "album": {
+        "name": "Swing",
+        "url": "https://open.spotify.com/album/3j2j7DAJq56gRsWXgJgWmN"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Allday",
+          "url": "https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs"
+        }
+      ],
+      "duration_ms": 179279,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/0Hb1y5PXdcuhNmLC1iytPw"
     },
     {
       "added_at": "2024-06-26 02:03:12",

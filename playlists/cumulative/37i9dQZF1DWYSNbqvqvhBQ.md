@@ -4,7 +4,7 @@
 
 > De mooiste en nieuwste liedjes van het moment\. Cover: Chris Stapleton & Dua Lipa
 
-466 songs - 1 day 2 hr 51 min
+467 songs - 1 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Curtains](https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:44 | 2023-05-04 | 2023-10-20 |
 | [Dance All Over Me](https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:14 | 2023-02-23 | 2023-03-31 |
 | [Dance On The Sun](https://open.spotify.com/track/2t2j5rFPmEyNE1ifFHB0fD) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Dance On The Sun](https://open.spotify.com/album/3tdDZgucOBLJPx3ljub5Rw) | 4:15 | 2023-10-12 | 2024-03-15 |
+| [Darkest of Days](https://open.spotify.com/track/1x6Kp3RGibcdgl6uYTzqwM) | [Slow Pilot](https://open.spotify.com/artist/4MPMLOWHQQwcfg3CNE4fya) | [Darkest of Days](https://open.spotify.com/album/2fTBLk3ckC1fcjegqxPq84) | 3:41 | 2024-08-01 |  |
 | [Dawncolored Horse](https://open.spotify.com/track/3InAiW7SMYPaO3roqeGVY5) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Dawncolored Horse](https://open.spotify.com/album/1DDLJqQKVmRMnQDDNXtFtN) | 4:04 | 2023-02-23 | 2023-06-23 |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-13 | 2023-10-13 |
 | [Days of Confusion](https://open.spotify.com/track/00gKRt8jsyhNgYrJFerCuS) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Days of Confusion](https://open.spotify.com/album/6T9KzoLYoleQCawdwPm42p) | 3:14 | 2023-02-23 | 2023-05-26 |
@@ -405,7 +406,7 @@
 | [These Are The Days](https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:50 | 2023-09-28 | 2023-10-13 |
 | [These Are The Days](https://open.spotify.com/track/3aJs1TqxQh1Y2SNL8Vt1ZA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 3:50 | 2023-05-11 | 2023-09-29 |
 | [Think I'm In Love With You \(With Dua Lipa\) \(Live From The 59th ACM Awards\)](https://open.spotify.com/track/69zgu5rlAie3IPZOEXLxyS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Think I'm In Love With You \(With Dua Lipa\) \(Live From The 59th ACM Awards\)](https://open.spotify.com/album/3pjMBXbDLg2oGL7HtVxWgY) | 4:37 | 2024-06-27 |  |
-| [This Is My Time](https://open.spotify.com/track/6pIGY3LzqTlx7qAveBuDnj) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Music For Máxima](https://open.spotify.com/album/4vMDbU5x6H7xl2oEWkPqlN) | 2:35 | 2024-05-16 |  |
+| [This Is My Time](https://open.spotify.com/track/6pIGY3LzqTlx7qAveBuDnj) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Music For Máxima](https://open.spotify.com/album/4vMDbU5x6H7xl2oEWkPqlN) | 2:35 | 2024-05-16 | 2024-08-02 |
 | [This Is The Moment](https://open.spotify.com/track/6XKqVWF9BPvY2mscmS7R5u) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [This Is The Moment](https://open.spotify.com/album/7Hr7LXwraM9Hd6FuQ36LHe) | 3:20 | 2023-02-23 | 2023-04-14 |
 | [This Is The Moment \(ft\. Nile Rodgers\)](https://open.spotify.com/track/6Va6xYjGNwbZs6tRE3cCYI) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [This Is The Moment \(ft\. Nile Rodgers\)](https://open.spotify.com/album/4pKUbAVt6sF3cqjc3nM8Gp) | 3:28 | 2024-06-27 |  |
 | [This Will Be Our Year](https://open.spotify.com/track/2oy3hJGwD5aJSlFy4OnAkL) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [This Will Be Our Year](https://open.spotify.com/album/1aunApiIbz5beHK7ty68bT) | 2:37 | 2023-02-23 | 2023-03-31 |
